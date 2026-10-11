@@ -1,0 +1,3659 @@
+---
+title: "Finance (Local Property Tax) Act 2012"
+identifier: "eli/2012/act/52"
+type: act
+jurisdiction: ie
+language: en
+number: 52
+year: 2012
+date: 2012-12-26
+last_amended: 2026-05-07
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2012/act/52/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2012/act/52/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Finance (Local Property Tax) Act 2012
+
+AN ACT TO PROVIDE FOR THE IMPOSITION OF AN ANNUAL TAX TO BE CALLED “LOCAL PROPERTY TAX” IN RESPECT OF CERTAIN RESIDENTIAL PROPERTIES AND FOR THE ESTABLISHMENT AND MAINTENANCE OF A REGISTER OF RESIDENTIAL PROPERTIES IN THE STATE BY THE REVENUE COMMISSIONERS AND TO PROVIDE FOR RELATED MATTERS.
+
+[26*th December*, 2012]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions assigned to Tax Appeals Commission under Act extended and construed (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), ss. 5(2) and 7, S.I. No. 110 of 2016.
+>
+> **Performance of Commission’s functions through Commissioners and staff**
+>
+> **5.**...
+>
+> (2) Any function assigned by this Act or the Taxation Acts to the Commission or the Commissioners, other than a function specified in section 6(2) (b), (f), (g), or (j), may be performed by any one or more of the Commission’s staff acting under the Commission’s authority.
+>
+> ...
+>
+> **Functions of Commissioners performable by one of their number**
+>
+> **7.** (1) Any provision of this Act, or the Taxation Acts, that confers a function on the Commissioners shall be read as conferring the function on, and accordingly as enabling, subject to the rules of procedure, if any, adopted under section 6 (5), the function to be performed by, any one of the Commissioners.
+>
+> (2) Without prejudice to the generality of subsection (1), the granting of authority of the kind referred to in section 5(2) to a member or members of staff may, subject to the rules of procedure, if any, adopted under section 6(5), be done by any one of the Commissioners.
+>
+> C2: Reference to function of a “Commissioner” or “a member of the Commission” under Act construed (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 9(7), S.I. No. 110 of 2016.
+>
+> **Temporary Commissioners**
+>
+> **9.** ...
+>
+> (7) Notwithstanding that a temporary Commissioner is not, by virtue of section 4(2), to be regarded as a member of the Commission, where a function of a Commissioner falls to be performed by a temporary Commissioner, references in such of the provisions of—
+>
+> (a) this Act, other than those disapplied by subsection (6), or
+>
+> (b) the Taxation Acts,
+>
+> as are relevant to the performance of that function, to—
+>
+> (i) a Commissioner, or
+>
+> (ii) a member of the Commission,
+>
+> shall be read as including references to a temporary Commissioner.
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definition of “Taxation Acts” (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 2(i), S.I. No. 110 of 2016.
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Finance (Local Property Tax) Act 2012.
+
+(2) This Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (1.01.2013 and 1.07.2014) by *Finance (Local Property Tax) Act 2012 (Section 1) (Specified Date) Order 2012* (S.I. No. 589 of 2012).
+>
+> 2\. 1 January 2013 is appointed as the day on which the Finance (Local Property Tax) Act, other than sections 19, 20 and 21, comes into operation.
+>
+> 3\. 1 July 2014 is appointed as the day on which sections 19, 20 and 21 of the Finance (Local Property Tax) Act come into operation.
+
+### 2. Interpretation.
+
+**2**.— In this Act—
+
+“Act of 1997” means the Taxes Consolidation Act 1997;
+
+“Act of 2005” means the the Social Welfare Consolidation Act 2005;
+
+“Act of 2009” means the Local Government (Charges) Act 2009;
+
+“Act of 2011” means the Local Government (Household Charge) Act 2011;
+
+F1["Appeal Commissioner" has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;]
+
+F2["approved housing body" means a body approved of or standing approved of, under, or for the purposes of, section 6 of the Housing (Miscellaneous Provisions) Act 1992;]
+
+“building” includes—
+
+(*a*) part of a building, and
+
+(*b*) a structure or erection of any kind and of any materials, or any part of that structure or erection, but excludes a structure that is not permanently attached to the ground, a vessel and a vehicle (whether mobile or not);
+
+“chargeable value”, in relation to a relevant residential property, means the price which the unencumbered fee simple of the property might reasonably be expected to fetch on a sale in the open market were that property to be sold on the valuation date in such manner and subject to such conditions as might reasonably be calculated to obtain for the vendor the best price for the property and with the benefit of any easement necessary to afford the same access to the property as would have existed prior to that sale;
+
+“cohabitant” is a person who is a cohabitant within the meaning of section 172 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 and who is in a relationship of cohabitation with another adult for a period—
+
+(*a*) of at least 2 years, where they are the parents of one or more dependent children, and
+
+(*b*) of 5 years or more, in any other case;
+
+“Collector-General” means the Collector-General appointed under section 851 of the Act of 1997;
+
+“company” includes any body corporate;
+
+F5["electronic means" has the meaning given to it by section 917EA of the Act of 1997;]
+
+“lease”, “lessee” and “lessor” have the meaning given to them by section 96 of the Act of 1997;
+
+“liable person” shall be read in accordance with *Part 3*;
+
+“liability date” means—
+
+(*a*) 1 May 2013, in respect of the year 2013,
+
+(*b*) in respect of any other year, 1 November in the preceding year;
+
+F6["local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);]
+
+“local property tax” has the meaning given to it by *section 16*;
+
+“Minister”, other than in *section 20* and *Chapter 2* or *3* of *Part 10*, means the Minister for Finance;
+
+“personal public service number” has the same meaning as in section 262 of the Social Welfare Consolidation Act 2005;
+
+“personal representative” has the meaning given to it by section 799 of the Act of 1997;
+
+“prescribe”, in relation to a power or duty of a Minister of the Government to do so, means prescribe by regulations;
+
+“relevant residential property” has the meaning given to it by *Part 2* ;
+
+“rent” has the meaning given to it by section 96 of the Act of 1997;
+
+F7[“residential property” shall be construed in accordance with *section 2A*;]
+
+“return” means a statement of particulars which is required to be prepared and delivered under *Part 7*;
+
+“return date” means—
+
+(*a*) 7 May 2013, in respect of the year 2013,
+
+(*b*) in respect of any other year, 7 November in the preceding year, or
+
+(*c*) the date specified in a notification issued under *section 33*;
+
+“Revenue officer” means an officer of the Revenue Commissioners;
+
+“self-assessment” has the meaning given to it by *section 52*;
+
+“Tax Acts” has the same meaning as in section 1(2) of the Act of 1997.
+
+F3["valuation date" shall be construed in accordance with *section 13(1)*;]
+
+F4["valuation period" shall be construed in accordance with *section 13(1A)*;]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. (a), S.I. No. 110 of 2016.
+>
+> F2, F3, F4: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 4(a), commenced on enactment.
+>
+> F5: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 16(a), commenced on enactment.
+>
+> F6: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(6) and sch. 2, part 5, S.I. No. 214 of 2014.
+>
+> F7: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 4(b), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(a).
+>
+> **Modifications (not altering text):**
+>
+> C3: Reference to “county council or city council” construed (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 9(2) (a), S.I. No. 214 of 2014.
+>
+> **Cesser and amalgamation of certain local government areas**
+>
+> **9.** — ...
+>
+> (2) Except where otherwise provided for by this Act, a reference, however expressed, in any enactment—
+>
+> (a) to a county council or a city council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a county council or to a city council, as the case may be) shall, if the context permits, be read as a reference to a county council, a city council or a city and county council, and
+>
+> ...
+
+### F8[Residential Property
+
+**2A**. —(1) In this Act, "residential property" means any building which is in use as, or is suitable for use as, a dwelling.
+
+(2) A shed, outhouse, garage or other building which is appurtenant to or usually enjoyed with a residential property shall be considered, for the purposes of this Act, to form part of the residential property.
+
+(3) Subject to *subsection (4)*, yards, gardens or other lands appurtenant to or usually enjoyed with a residential property as its garden or grounds shall be considered, for the purposes of this Act, to form part of the residential property.
+
+(4) Where the total area of the yards, gardens and other lands, referred to in *subsection (3)*, exceeds 0.4047 hectares, only those parts of such yards, gardens and other lands, which would be the most suitable for occupation and enjoyment with the dwelling, up to a total area (exclusive of the area, at ground level, of the building referred to in *subsection (1)*) of 0.4047 hectares, shall form part of the residential property.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 5, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(a).
+
+## PART 2 Residential Property — PART 2 — Residential Property
+
+### 3. Meaning of relevant residential property.
+
+**3**.— Subject to F9[*sections 3A* to F10[*10E*,]] where a building in the State is a residential property on a liability date, it shall, for the purposes of this Act, be a relevant residential property in relation to that liability date.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 6, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+>
+> F10: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 12(a), S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: section amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 2, commenced on enactment; amendment substituted (22.07.2021) as per F-note above.
+
+### 3A. Applications of exemptions
+
+F11[**3A**.— *Section 4*, *5*, *7*, *7A*, *10A*, *10B*, F12[*10C*, *10D* or *10E*,] as the case may be, shall not apply in respect of a relevant residential property unless the person who prepares the return for the property has specified in the return, in accordance with *section 41A*, that the property should not, in accordance with *section 4*, *5*, *7*, *7A*, *10A*, *10B*, F12[*10C*, *10D* or *10E*,] as the case may be, be regarded, for the purposes of *section 16(1)*, as a relevant residential property.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 7, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(b).
+>
+> F12: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 12(b), S.I. No. 341 of 2025.
+
+### 4. Residential property fully subject to municipal rates.
+
+F13[**4**.— A residential property shall not, for the F14[for the purposes of *section 16(1)*], be regarded as a relevant residential property where the property is a property which—
+
+(*a*) is wholly used as a dwelling (other than a dwelling that forms part of a mixed hereditament within the meaning of the Local Government (Financial Provisions) Act 1978), and
+
+(*b*) in respect of which municipal rates (within the meaning of the Valuation Act 2001) are payable.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 16(b), commenced on enactment.
+>
+> F14: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 8, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+
+### 5. Long term mental or physical infirmity.
+
+**5**.— (1) In this section, a “registered medical practitioner” means a medical practitioner who is registered in the register established under section 43 of the Medical Practitioners Act 2007.
+
+(2) A residential property shall not, F15[for the purposes of *section 16(1)*], be regarded as a relevant residential property where—
+
+(*a*) the property was F16[occupied by a person, being a liable person in relation to that property,] as his or her sole or main residence and—
+
+(i) has been vacated by the person for a period of at least 12 months by reason of long term mental or physical infirmity of the person which infirmity has been certified by a registered medical practitioner, or
+
+F18[(ii) if the period for which the property is vacated by the person is less than 12 months, where a registered medical practitioner is satisfied that the person is unlikely at any stage to resume occupation of the property,]
+
+F17[provided that the property is not occupied by any other liable person in relation to that property,]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15, F16, F17: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 9(a)-(c), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+>
+> F18: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 16(c), commenced on enactment.
+
+### 6. Newly constructed residential properties.
+
+**6**.— A residential property shall not, for the purposes of this Act, be regarded F19[as a relevant residential property in relation to the liability dates in the years 2013 to 2020] where the property—
+
+(*a*) has been completed but not sold by the person who has constructed the property, or who has had the property constructed,
+
+(*b*) is not occupied as a dwelling,
+
+(*c*) has produced no income that would be chargeable to income tax or corporation tax, as the case may be, under Case I, Case IV or Case V, as the case may be, of Schedule D (within the meaning of section 18 of the Act of 1997), and
+
+(*d*) is trading stock (within the meaning of section 89 of the Act of 1997) of the person referred to in *paragraph (a)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 10, commenced on enactment.
+
+### 7. Special needs accommodation.
+
+**7**.— (1) In this section F20[and *section 7A*], “charity” means a body of persons or a trust established for charitable purposes only and which has been granted an exemption under section 207 or 208 of the Act of 1997 or given a notice of determination under section 208A of the Act of 1997, as the case may be.
+
+(2) A residential property shall not, F21[for the purposes of *section 16(1)*], be regarded as a relevant residential property where—
+
+(*a*) F22[the liable person in relation to the property is]—
+
+(i) a charity, or
+
+(ii) a body established by statute,
+
+and
+
+(*b*) the property is used solely or primarily to provide special needs accommodation.
+
+(3) In this section “special needs accommodation” means accommodation provided to persons who by reason of old age, physical or mental disability or other cause require special accommodation and support to enable them to live in the community.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 2(a), commenced on enactment.
+>
+> F21: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 11, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+>
+> F22: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 2(b), commenced on enactment.
+
+### 7A. Properties used by a charity for recreational activities.
+
+F23[**7A**.— A residential property shall not, F24[for the purposes of *section 16(1)*], be regarded as a relevant residential property where—
+
+(*a*) the liable person in relation to the property is a charity, and
+
+(*b*) the property is used solely as residential accommodation in connection with the facilitation of recreational activities in the course of the actual carrying out of a primary purpose of the charity.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 2(c), commenced on enactment.
+>
+> F24: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 12, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+
+### 8. Exemption for first-time buyers.
+
+**8**.— (1) Subject to *subsection (3)*, a residential property shall not, for the purposes of this Act, be regarded F25[as a relevant residential property in relation to the liability dates in the years 2013 to 2020] where—
+
+(*a*) the property is purchased in the period beginning on 1 January 2013 and ending on 31 December 2013,
+
+(*b*) subject to *subsection (2)*, the property is purchased by a person who would have been entitled to relief under section 244 of the Act of 1997 had a qualifying loan (within the meaning of that section) been taken out in the period beginning on 1 January 2004 and ending on 31 December 2012, and
+
+(*c*) after the property is purchased, it is occupied as the sole or main residence of the person referred to in *paragraph (b)* (or, in the case of the persons referred to in *subsection (2) (a)*, *(b)* or *(c)*, the married couple, civil partners or cohabitants, as the case may be).
+
+(2) If the property referred to in *subsection (1) (a)* is purchased in the period specified in that provision by—
+
+(*a*) a married couple,
+
+(*b*) civil partners, or
+
+(*c*) cohabitants,
+
+this section shall apply notwithstanding that one of the spouses, civil partners or cohabitants, as the case may be, would not have been entitled to the relief referred to in *subsection (1) (b)*.
+
+(3) *Subsection (1)* shall cease to apply where the property referred to in that subsection—
+
+(*a*) is sold (within the meaning of *section 125*) by, or
+
+(*b*) ceases to be used as the sole or main residence of,
+
+the person or persons referred to in *subsection (1) (c)* at any time after the purchase of the property.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 13, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: subs. (1) amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 3, commenced on enactment; substituted as per F-note above.
+
+### 9. Purchase of new residential properties in the period 2013 to 2016.
+
+**9**.— Notwithstanding that a residential property of the type referred to in *section 6* is sold at any time in the period beginning on 1 January 2013 and ending on F26[31 October 2021], the property shall not be F27[a relevant residential property in relation to any liability date] occurring in the period following the first sale of the property and ending on F28[31 October 2021].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26, F27, F28: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 14(a), (b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: section amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 4, commenced on enactment; section amended as per F-note above.
+
+### 10. Unfinished housing estates.
+
+**10**.— (1) In this section, “unfinished housing estate” means a development of two or more buildings that is specified in a list prescribed, under *subsection (3)*, by the Minister for the Environment, Community and Local Government for the purposes of this section.
+
+(2) A residential property shall not, for the purposes of this Act, be regarded F29[as a relevant residential property in relation to the liability dates in the years 2013 to 2020] where it is situated in an unfinished housing estate.
+
+(3) The Minister for the Environment, Community and Local Government shall, for the purposes of this section, prescribe a list of developments in the State, being developments each of which that Minister is satisfied is incomplete to a substantial extent.
+
+(4) For the purposes of the Minister for the Environment, Community and Local Government satisfying himself or herself that a development is incomplete to a substantial extent, the Minister shall have regard to all relevant circumstances, including the following:
+
+(*a*) the state of completion of roads, footpaths and public lighting facilities in the development,
+
+(*b*) the state of completion of piped water and sewerage facilities within the development,
+
+(*c*) the state of completion of open spaces or similar amenities within the development,
+
+(*d*) the extent to which the development complies with the terms of any planning permission applicable to it,
+
+(*e*) the extent to which the development complies with the provisions of the Building Control Acts 1990 and 2007,
+
+(*f*) the provisions of the Local Government (Sanitary Services) Act 1964 as they pertain to dangerous places and dangerous structures within the meaning of that Act,
+
+(*g*) the extent to which roads, open spaces, car parks, sewers, watermains, drains or other public facilities in the development have been taken in charge by the local authority concerned, and
+
+(*h*) where there is an agreement with the local authority concerned relating to the maintenance of roads, open spaces, car parks, sewers, watermains, drains or other public facilities in the development, the extent to which there has been compliance with the conditions for maintenance under the agreement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 15, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (19.03.2013) by *Finance (Local Property Tax) Regulations 2013* (S.I. No. 91 of 2013).
+
+### 10A. Pyrite-induced damage.
+
+F30[**10A**.— (1) The Minister for the Environment, Community and Local Government shall make regulations—
+
+(*a*) providing for the methodology for the assessment of residential properties and the testing of subfloor hardcore material to establish the presence of significant pyritic damage,
+
+(*b*) providing for the issue, by a competent person, of a certificate in relation to a residential property confirming (if such be the case) that significant pyritic damage has, in respect of the property, been established, in accordance with the regulations,
+
+(*c*) specifying the form of the foregoing certificate, and
+
+(*d*) providing for such incidental or consequential matters in respect of the preceding paragraphs or such other matters as the Minister for the Environment, Community and Local Government deems appropriate having regard to scientific and technical considerations concerning instances of pyritic damage in the State or elsewhere.
+
+(2) In making regulations under *subsection (1)*, the Minister for the Environment, Community and Local Government shall have regard to Irish Standard 398-1:2013 published by the National Standards Authority of Ireland and any revisions of that standard as may from time to time be made.
+
+F31[(3) Subject to *subsection (4)*, a residential property shall not, F32[for the purposes of *section 16(1)*], be regarded as a relevant residential property where—
+
+(*a*) a certificate under and in accordance with regulations under *subsection (1)* has been issued in relation to it,
+
+(*b*) the property has been included in the pyrite remediation scheme,
+
+(*c*) the property has been or is being remediated in satisfaction of a claim made and settled under structural warranty insurance, structural warranty guarantee or some other form of insurance, or
+
+(*d*) the person who constructed the property, or who caused the property to be constructed (in this section referred to as the ‘builder’) remediates the property or puts the liable person in relation to that property in sufficient funds to remediate the property,
+
+and, in the case of a property referred to in *paragraph (c)* or *(d)*, the Revenue Commissioners confirm, under *subsection (3A)*, that the residential property shall not be so regarded.]
+
+F37[(3A) (*a*) A liable person may, in relation to a property referred to in *subsection (3) (c)* or *(d)*, make an application in writing to the Revenue Commissioners for confirmation that the property shall not, F33[for the purposes of *section 16(1)*], be regarded as a relevant residential property.
+
+(*b*) For the purpose of an application under *paragraph (a)*, the Revenue Commissioners may specify the form of an application and may require that the following information is provided to them:
+
+(i) the address of the residential property;
+
+(ii) the nature and extent of the pyritic damage;
+
+(iii) any documentation provided by a competent person (within the meaning of the Pyrite Resolution Act 2013) in relation to the person’s assessment of the pyritic damage;
+
+(iv) the results of any testing carried out on the property to establish the extent of the pyritic damage;
+
+(v) any documentation provided in relation to a claim or settlement under structural warranty insurance, structural warranty guarantee or some other form of insurance;
+
+(vi) any documentation provided by the builder of the property in relation to the remediation of that property;
+
+(vii) such certificate of remediation as may be required by the standard for remediation;
+
+(viii) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*c*) No confirmation shall be given by the Revenue Commissioners on an application under *paragraph (a)* unless they are satisfied that *paragraph (c)* or *(d)*, of subsection (3) applies in relation to a residential property.
+
+(3B) For the purposes of *subsection (3A)*, the Revenue Commissioners shall publish guidelines in relation to—
+
+(*a*) the manner in which an application shall be made,
+
+(*b*) the information or documentation required to be provided by the liable person in support of the application, and
+
+(*c*) any other information or documentation that the Revenue Commissioners consider to be relevant for the purpose of considering an application.]
+
+F31[(4) Notwithstanding *subsection (3)* and F34[subject to *subsections (5)* and *(6A)*], a residential property shall not, F35[for the purposes of *section 16(1)*], be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
+
+(*a*) in *subsection (3) (a)*, a certificate under and in accordance with regulations made under subsection (1) has been issued in relation to the property, or
+
+(*b*) in *subsection (3) (b)*, the liable person was notified under the Pyrite Resolution Act 2013 that the residential property has been included in the pyrite remediation scheme.]
+
+F38[(4A) Where *subsection (3) (b)* applies in relation to a residential property and the liable person in relation to that property was notified under the Pyrite Resolution Act 2013, before the coming into operation of this section, that the property is included in the pyrite remediation scheme the Revenue Commissioners shall, subject to *subsection (4)* and on receipt of a claim for repayment by the liable person, repay to that person any local property tax that was paid in respect of any liability date falling between the date of the notice and that coming into operation.
+
+(4B) (*a*) Where *paragraph (c)* or *(d)* of *subsection (3)* applies, the confirmation in writing given by the Revenue Commissioners under *subsection (3A)* shall specify a date (in this subsection referred to as the ‘effective date’), for the purposes of this subsection.
+
+(*b*) The effective date shall be the date on which—
+
+(i) where *paragraph (c)* of *subsection (3)* applies, the funds are provided in satisfaction of a claim for the remediation of the property, or
+
+(ii) where *paragraph (d)* of *subsection (3)* applies, the builder completes the remediation of the property or provides sufficient funds for the remediation of the property,
+
+but in either case shall not be earlier than 2 May 2013.
+
+(*c*) Notwithstanding *subsection (3)* and F36[subject to *subsections (5)* and *(6A)*], a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date after the effective date.
+
+(*d*) The Revenue Commissioners shall, subject to this subsection, and on receipt of a claim for repayment by the liable person, repay to that person any local property tax that was paid by the person in respect of any liability date falling between the effective date and the coming into operation of this subsection.]
+
+(5) Notwithstanding *subsection (4)*, the liability date 1 May 2013 or 1 November 2013, as the case may be, may be treated as the first liability date of the three consecutive liability dates referred to in *subsection (4)* where—
+
+(*a*) a certificate under and in accordance with regulations under *subsection (1)* in relation to a residential property has been issued after either of those liability dates and on or before 31 December 2013, and
+
+(*b*) a liable person makes an election in writing to the Revenue Commissioners on or before 31 January 2014 specifying one or other of those dates as that first liability date.
+
+(6) Where a liable person makes an election in accordance with *subsection (5) (b)*, the Revenue Commissioners shall repay to the liable person any local property tax that was paid in respect of the liability date 1 May 2013 or 1 November 2013, as the case may be.]
+
+F39[(6A) Notwithstanding *subsections (3)* and *(4)*, a residential property shall be regarded as a relevant residential property where—
+
+(*a*) a certificate under and in accordance with regulations made under *subsection (1)* is issued in relation to the property,
+
+(*b*) the liable person in relation to the property is notified under the Pyrite Resolution Act 2013 that the property has been included in the pyrite remediation scheme, or
+
+(*c*) the liable person in relation to the property makes an application under *subsection (3A)*,
+
+after the end of the period of 2 years commencing on the date of the passing of the Finance (Local Property Tax) (Amendment) Act 2021.]
+
+F40[(7) In this section—
+
+"pyrite remediation scheme" has the meaning assigned to it by the Pyrite Resolution Act 2013;
+
+"remediation" means remediation carried out in accordance with the standard for remediation;
+
+"standard for remediation" has the meaning assigned to it by the Pyrite Resolution Act 2013.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 3, commenced on enactment.
+>
+> F31: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 5(a) and (d), commenced on enactment.
+>
+> F32, F33, F34, F35, F36: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 16 (a)-(d), commenced on enactment. Certain of these amendments apply only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b): those in subs. (3) effected by s. 16(a), in subs. (3A) (a) effected by s. 16(b) and in subs. (4) effected by s. 16(c) (ii).
+>
+> F37: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 5(b) and (c), commenced on enactment.
+>
+> F38: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 5(e) and (f), commenced on enactment.
+>
+> F39: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 16(e), commenced on enactment.
+>
+> F40: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 5(g), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to section exercised (2.05.2013) by *Finance (Local Property Tax) (Pyrite Exemption) Regulations 2013* (S.I. No. 147 of 2013).
+
+### 10B. Permanently and totally incapacitated individuals.
+
+F41[**10B**.—F42[(1) A residential property shall not, F43[for the purposes of *section 16(1)*], be regarded as a relevant residential property where the property is occupied by an incapacitated individual as his or her sole or main residence and—
+
+(*a*) either—
+
+(i) the individual is a person—
+
+(I) to whom paragraph (b) of section 189(1) of the Act of 1997 applies, or
+
+(II) who is a beneficiary under a qualifying trust (within the meaning of section 189A(1) of the Act of 1997),
+
+or
+
+(ii) the individual is not a person referred to in *clause (I)* or *(II)* of *subparagraph (i)* and the Revenue Commissioners confirm, under *subsection (1A)*, that the residential property shall not, for the purposes of this Act, be regarded as a relevant residential property,
+
+and
+
+(*b*) the property is—
+
+(i) acquired because of its suitability for occupation by such an incapacitated individual, or
+
+(ii) adapted to render it more suitable for occupation by such an incapacitated individual and the cost of the adaptation, on completion of that adaptation, exceeds an amount that is equivalent to one-quarter of the chargeable value of that property before it was adapted.]
+
+F44[(1A) (*a*) Where *subparagraph (ii)* of *subsection (1) (a)* applies, a liable person in relation to a residential property may make an application in writing to the Revenue Commissioners for confirmation, in relation to the property that it shall not, for the purposes of this Act, be regarded as a relevant residential property.
+
+(*b*) For the purpose of an application under *paragraph (a)*, the Revenue Commissioners may specify the form of an application, and may require that the following information is provided to them:
+
+(i) details of the residential property and the reason why it was acquired or adapted and considered to be suitable for occupation by the incapacitated individual;
+
+(ii) a description of the adaptation referred to in *subsection (1)*;
+
+(iii) the cost of the adaptation;
+
+(iv) the date of completion of the adaptation;
+
+(v) the chargeable value attributable to the adaptation;
+
+(vi) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*c*) For the purpose of an application under paragraph (a), the Revenue Commissioners may also require that the following information is provided by the general practitioner of the incapacitated person:
+
+(i) the nature and extent of the incapacity;
+
+(ii) the extent to which the incapacity affects the person’s mobility;
+
+(iii) the reason the general practitioner considers the adaptation to have been necessary;
+
+(iv) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*d*) No confirmation shall be given by the Revenue Commissioners on an application under *paragraph (a)* unless they are satisfied that—
+
+(i) the residential property was acquired because of its suitability for, or adapted to make it more suitable for, occupation by the incapacitated individual,
+
+(ii) *subparagraph (i)* of *subsection (1) (a)* does not apply to him or her, and
+
+(iii) where the property was adapted the cost of adaptation exceeds the cost referred to in *subparagraph (ii)* of *subsection (1) (b)*.
+
+(1B) For the purposes of *subsection (1A)*, the Revenue Commissioners shall publish guidelines in relation to—
+
+(*a*) the manner in which an application is to be made,
+
+(*b*) the information or documentation required to be provided in relation to the property and the incapacitated individual in support of the application, and
+
+(*c*) any other information that the Revenue Commissioners consider to be relevant for the purpose of considering an application.]
+
+(2) *Subsection (1)* shall cease to apply on the sale (within the meaning of *section 125*) of the property unless the incapacitated individual continues to occupy that property as his or her sole or main residence.]
+
+F45[(3) In this section—
+
+"incapacitated individual" has the meaning assigned to it by section 189A of the Act of 1997;
+
+"general practitioner", in relation to an incapacitated individual, means the medical practitioner, for the time being registered in the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007, who provides a general practitioner medical service to the incapacitated individual.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 2(d), commenced on enactment.
+>
+> F42: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 6(a), commenced on enactment.
+>
+> F43: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 17, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(b).
+>
+> F44: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 6(b) and (c), commenced on enactment.
+>
+> F45: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 6(d), commenced on enactment.
+
+### 10C. North-South implementation bodies
+
+F46[**10C**.— A residential property shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property where the liable person in relation to the property is an implementation body (within the meaning of the British-Irish Agreement Act 1999).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 18, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(b).
+
+### F48[Properties constructed using defective concrete blocks
+
+**10D**.—(1) Subject to *subsection (4)*, a residential property that has been damaged as a result of the use of defective concrete blocks in its construction shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property where—
+
+(*a*) a confirmation of eligibility in relation to the property has been issued,
+
+(*b*) the property has been or is being remediated in satisfaction of a claim made and settled under structural warranty insurance, structural warranty guarantee or some other form of insurance, or
+
+(*c*) the person who constructed the property, or who caused the property to be constructed (in this section referred to as the "builder"), remediates the property or puts the liable person in relation to that property in sufficient funds to remediate the property,
+
+and, in the case of a property referred to in *paragraph (b)* or *(c)*, the Revenue Commissioners confirm, under *subsection (2)*, that the residential property shall not be so regarded.
+
+(2) (*a*) A liable person may, in relation to a property referred to in *subsection (1) (b)* or *(c)*, make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property.
+
+(*b*) For the purposes of an application under *paragraph (a)*, the Revenue Commissioners may specify the form of an application and may require that the following information is provided to them:
+
+(i) the address of the residential property;
+
+(ii) the nature and extent of the damage caused by the use of defective concrete blocks in the construction of the property;
+
+(iii) any documentation provided by a F47[competent building professional];
+
+(iv) the results of any testing carried out at the property to establish the damage caused by the use of defective concrete blocks;
+
+(v) any documentation provided in relation to a claim or settlement under structural warranty insurance, structural warranty guarantee or some other form of insurance;
+
+(vi) any documentation provided by the builder of the property in relation to the remediation of that property;
+
+(vii) a certificate of remediation;
+
+(viii) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*c*) No confirmation shall be given by the Revenue Commissioners in respect of an application under *paragraph (a)* unless they are satisfied that *paragraph (b)* or *(c)* of *subsection (1)* applies in relation to a residential property.
+
+(3) For the purposes of *subsection (2)*, the Revenue Commissioners shall publish guidance in relation to—
+
+(*a*) the manner in which an application shall be made,
+
+(*b*) the information or documentation to be provided by the liable person in support of the application, and
+
+(*c*) any other information or documentation that the Revenue Commissioners consider to be relevant for the purpose of considering an application.
+
+(4) Notwithstanding *subsection (1)*, a residential property shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to in *subsection (1) (a)*, a confirmation of eligibility has been issued, where that first liability date falls on or after 1 November 2021.
+
+(5) (*a*) Where *paragraph (b)* or *(c)* of *subsection (1)* applies in relation to a residential property, the confirmation in writing given by the Revenue Commissioners under *subsection (2)* shall specify a date (in this subsection referred to as the ‘effective date’), for the purposes of this subsection.
+
+(*b*) The effective date shall be—
+
+(i) where *paragraph (b)* of *subsection (1)* applies, the date on which the funds are provided in satisfaction of a claim for the remediation of the property,
+
+(ii) where *paragraph (c)* of *subsection (1)* applies, the date on which the builder completes the remediation of the property or provides sufficient funds for the remediation of the property, or
+
+(iii) 31 October 2021, where the date that would result from the application of *subparagraph (i)* or *(ii)* is before that date.
+
+(*c*) Notwithstanding *subsection (1)*, a residential property shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date after the effective date.
+
+F47[(6) In this section—
+
+"Act of 2022" means the Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Act 2022;
+
+"certificate of remediation" has the meaning assigned to it by the Act of 2022;
+
+"competent building professional" has the meaning assigned to it by Part 2 of the Act of 2022;
+
+"confirmation of eligibility" has the meaning assigned to it by the Dwellings Damaged by the Use of Defective Concrete Blocks in Construction (Remediation) (Financial Assistance) Regulations 2020 (S.I. No. 25 of 2020) as those Regulations stood before the coming into operation of section 55 of the Act of 2022;
+
+"defective concrete blocks" has the meaning assigned to it by the Act of 2022.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 4(a), (b), S.I. No. 341 of 2025.
+>
+> F48: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 18, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(b).
+
+### F49[Certain other residential properties constructed using defective concrete blocks
+
+**10E**.—(1) Subject to *subsection (2)*, a residential property that has been damaged as a result of the use of defective concrete blocks in its construction shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property where a determination is made under section 15(1) (a) of the Act of 2022 that the residential property meets the damage threshold and a notification has issued accordingly under section 15(5) of that Act.
+
+(2) Notwithstanding *subsection (1)*, a residential property shall not, for the purposes of *section 16(1)*, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to in *subsection (1)*, the notification referred to in *subsection (1)* has been issued, where that first liability date falls on or after the date of the making of the Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Regulations 2023 (S.I. No. 347 of 2023).
+
+(3) In this section—
+
+"Act of 2022" means the Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Act 2022;
+
+"damage threshold" has the meaning assigned to it by section 15(1) (a) of the Act of 2022;
+
+"defective concrete blocks" has the meaning assigned to it by the Act of 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 5, S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 3 Liable Person — PART 3 — Liable Person
+
+### 11. Liable persons.
+
+**11**.— (1) Subject to the provisions of this section, a person who holds any estate, interest or right in a relevant residential property entitling the person to—
+
+(*a*) the immediate possession of such property for a period that may equal or exceed 20 years, or
+
+(*b*) the receipt of rents or profits of such property for a period that may equal or exceed 20 years,
+
+shall, for the purposes of this Act, be a liable person in relation to that property.
+
+F50[(1A) Where—
+
+(*a*) a local authority or an approved housing body enters into a lease in relation to a relevant residential property, and
+
+(*b*) the terms of the lease are such that the local authority or the approved housing body, as the case may be, would, but for this subsection, be the liable person in relation to the property,
+
+the lessor shall be the liable person in relation to the property.]
+
+(2) If—
+
+(*a*) 2 or more persons each have an equal estate, interest or right in a relevant residential property that entitles each of them to the possession or receipt referred to in *subsection (1) (a)* or *(b)*, all of those persons shall, for the purposes of this Act, be liable persons in relation to that property, or
+
+(*b*) 2 or more persons have unequal estates, interests or F51[rights in a relevant residential property], such or so many of those persons as have an estate, interest or right in the property that, as against the estate, interest or right of the other or others, is the minimum estate, interest or right giving rise, in the circumstances, to an entitlement to the possession or receipt referred to in *subsection (1) (a)* or *(b)* shall, for the purposes of this Act, be the liable person or persons in relation to that property.
+
+(3) Without prejudice to *subsections (1)* and *(2)*, the following persons shall, for the purposes of this Act, be liable persons in relation to a relevant residential property (the “property”)—
+
+(*a*) a person having an equitable or beneficial estate, interest or right in the property that entitles the person to the possession or receipt referred to in *subsection (1) (a)* or *(b)*,
+
+(*b*) a trustee that holds the property by an estate, interest or right in the property that entitles the trustee or a beneficiary to the possession or receipt referred to in *subsection (1) (a)* or *(b)*,
+
+(*c*) a trustee or other person having a power to appoint in the property, an estate, interest or right that entitles a person to the possession or receipt referred to in *subsection (1) (a)* or *(b)*,
+
+(*d*) a person having an exclusive right of residence in the property for—
+
+(i) his or her life or the life or lives of one or more others, or
+
+(ii) a period that may equal or exceed 20 years,
+
+(*e*) the personal representative of the estate of a person who was a liable person by virtue of any of the preceding provisions of this section,
+
+(*f*) a person occupying the property with F52[a *prima facie* right to apply] to be registered, pursuant to the Registration of Title Act 1964, in respect of any estate, interest or right that would entitle the person to the possession or receipt referred to in *subsection (1) (a)* or *(b)*.
+
+(4) For the avoidance of doubt—
+
+(*a*) in a case where a person is a trustee as referred to in *subsection (3) (b)*, that person shall, for the purposes of this Act, be a liable person in relation to the relevant residential property concerned notwithstanding that the one or more beneficiaries under the trust is or are, for the purposes of this Act, also a liable person or persons in relation to that property, and
+
+(*b*) a mortgagee not in possession of the relevant residential property concerned shall not, for the purposes of this Act, be a liable person in relation to that property.
+
+(5) The circumstance of a person’s holding a relevant residential property under a periodic tenancy, under a Part 4 tenancy or a further Part 4 tenancy under the Residential Tenancies Act 2004 or under any other tenancy not of a term certain, which circumstance, if it were to endure, could result in the person’s being in possession of that property for 20 or more years, does not operate to render him or her a liable person, for the purposes of this Act, in relation to that property.
+
+F53[(5A) (*a*) Subject to paragraph (*b*), where—
+
+(i) at any time on or after the lapse of 12 months from the death of a person (the "deceased") a person occupies or receives the rents or profits from a relevant residential property comprised in the estate of the deceased (and whether or not such occupation or receipt by that person also occurred before that lapse), and
+
+(ii) during that period of 12 months no grant of representation in respect of the deceased’s estate has been made,
+
+then, unless and until a grant of representation is made in respect of that estate, the person shall be deemed to be a liable person in relation to that relevant residential property for so long as such occupation or receipt by the person in relation to that property continues.
+
+(*b*) This subsection shall not apply to a case in which the deceased died testate leaving an executor surviving him or her.]
+
+(6) The absence of documentary evidence, or the demonstration by or on behalf of a person (the “disputant”) of the absence of documentary evidence, of title to property shall, not of itself, preclude—
+
+(*a*) the making of an estimate or assessment to local property tax in relation to that property or, as the case may be, the making of an estimate or assessment to such tax on the disputant in relation to that property, or
+
+(*b*) the making of a finding that a person or, as the case may be, the disputant is, for the purposes of this Act, a liable person in relation to that property.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 19(a), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(c).
+>
+> F51: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 19(b), commenced on enactment.
+>
+> F52: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 4(a), commenced on enactment.
+>
+> F53: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 4(b), commenced on enactment.
+
+### 12. Occupation or receipt of rents or profits as evidence of liability.
+
+F54[**12**.— (1) It shall be presumed, until the contrary is proved, that a person who is in occupation of a relevant residential property, or is in receipt of the rents or profits therefrom, is a liable person in relation to it.
+
+(2) In administering this Act generally or in exercising any power to make a Revenue estimate or a Revenue assessment or to require the delivery of a return in relation to any relevant residential property or in exercising any other power thereunder, the Revenue Commissioners shall not be required firstly to inquire into the title to, or any estate, interest or right in, any particular residential property.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 4(c), commenced on enactment.
+
+## PART 4 Charging Provisions — PART 4 — Charging Provisions
+
+### 13. Valuation date.
+
+**13**.— (1) In this Act the date by reference to which the chargeable value of a relevant residential property is to be established is referred to as the valuation date.
+
+F55[(1A) In this Act, a period of years referred to in *paragraph (a)*, *(b)*, *(c)* or *(d)* of *subsection (2)* is referred to as a valuation period.]
+
+F56[(2) The valuation date in relation to a relevant residential property shall be—
+
+(*a*) 1 May 2013 for the years 2013 to 2021,
+
+(*b*) 1 November 2021 for the years 2022 to 2025, F57[...]
+
+F55[(*c*) 1 November 2025 for the years 2026 to 2030, and]]
+
+F58[(*d*) for each consecutive 5-year period after the year 2030, 1 November in the year preceding the first year of the particular 5-year period.]
+
+(3) The Minister may, by order, alter the valuation date referred to in *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 6(a), (b)(ii), S.I. No. 341 of 2025.
+>
+> F56: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 20(b), commenced on enactment.
+>
+> F57: Deleted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 6(b)(i), S.I. No. 341 of 2025.
+>
+> F58: Inserted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 6(b)(iii), S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to subs. (3) exercised (22.10.2020) by *Finance (Local Property Tax) Act 2012 (Section 13(3)) Order 2020* (S.I. No. 458 of 2020).
+>
+> E10: Previous affecting provision: subs. (1A) inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 20(a), commenced on enactment; substituted (21.07.2025) as per F-note above.
+>
+> E11: Previous affecting provision: subs. 2(a), (b) substituted (22.10.2020) by *Finance (Local Property Tax) Act 2012 (Section 13(3)) Order 2020* (S.I. No. 458 of 2020), art. 3; substituted as per F-note above.
+>
+> E12: Previous affecting provision: subs. 2(a), (b) substituted (18.04.2019) by *Finance (Local Property Tax) Act 2012 (Section 13(3)) Order 2019* (S.I. No. 166 of 2019), art. 2; substituted as per E-note above.
+>
+> E13: Previous affecting provision: power pursuant to subs. (3) exercised (18.04.2019) by *Finance (Local Property Tax) Act 2012 (Section 13(3)) Order 2019* (S.I. No. 166 of 2019); revoked (22.10.2020) by *Finance (Local Property Tax) Act 2012 (Section 13(3)) Order 2020* (S.I. No. 458 of 2020), art. 4.
+>
+> E14: Previous affecting provision: subs. (2) (a), (b) amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 7, commenced on enactment; substituted as per F-note above.
+
+### F59[Valuation of properties completed or refurbished after valuation date
+
+**13A**.— Where, on a date that is between two consecutive valuation dates, a building becomes a residential property, its chargeable value shall be the value that the building would have had on the preceding valuation date if it had been a residential property on that date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 21, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+
+### 14. Change of liable person between consecutive valuation dates.
+
+**14**.— (1) F60[F61[Subject to *subsections (1B)* and *section 35(5A)*] (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), where] the person who is a liable person in respect of a relevant residential property changes in the period between two consecutive valuation dates, the chargeable value, as stated in or ascertained for the purposes of a self-assessment or a Revenue assessment in relation to the property by reference to the first valuation date, shall continue to apply until the next valuation date.
+
+F62[(1A) (*a*) Where *subsection (1)* applies, the person who was the liable person before the change referred to in that subsection shall provide the person who is the liable person following that change with any relevant information or documentation in the knowledge or possession of that person in relation to the first valuation date (as referred to in that subsection) and the relevant residential property before that change occurs.
+
+(*b*) The information or documentation that is relevant in relation to the matters referred to in *paragraph (a)* shall include the following information or documentation—
+
+(i) the chargeable value at that valuation date included in a return,
+
+(ii) a return, or
+
+(iii) where no return was prepared and delivered to the Revenue Commissioners, any Revenue estimate made under *section 47*.]
+
+F63[(1B) Where—
+
+(*a*) the person who was the liable person in relation to a relevant residential property before the change referred to in *subsection (1)* was a local authority or an approved housing body, and
+
+(*b*) the person who is the liable person in relation to the relevant residential property after the change referred to in *subsection (1)* is neither a local authority nor an approved housing body,
+
+*subsection (1)* shall not apply.]
+
+(2) Other than in the case of a residential property referred to in *section 8*, where a property is not a relevant residential property on 1 May 2013 F64[...], it shall not be treated as a relevant residential property until the next valuation date.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(a), commenced on enactment.
+>
+> F61: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 22(a), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+>
+> F62: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(b), commenced on enactment.
+>
+> F63: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 22(b), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+>
+> F64: Deleted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 22(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: subs. (2) amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 8, commenced on enactment; amendment deleted as per F-note above.
+
+### 15. Valuation in accordance with Revenue guidelines.
+
+**15**.—F65[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Deleted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 23, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+
+### 15A. Property adapted for use by disabled persons.
+
+F66[**15A**.—(1) Subject to *subsections (2)* to *(5)*, where a relevant residential property has been adapted for the purposes of rendering it more suitable for the accommodation of a person who has a disability (within the meaning of section 2 of the Disability Act 2005), *section 16(1)* shall apply as if the reference in that provision to the chargeable value of a property were a reference to the chargeable value of the property as reduced by F67[€105,000].
+
+(2) *Subsection (1)* shall not apply unless—
+
+F68[(*a*) either—
+
+(i) a grant in respect of the cost of the work referred to in *subsection (1)* was paid under either—
+
+(I) the Housing (Adaptation Grants for Older People and People with a Disability) Regulations 2007 (S.I. No. 670 of 2007), or
+
+(II) Regulation 4 of the Housing (Disabled Persons and Essential Repairs Grants) Regulations 2001 (S.I. No. 607 of 2001),
+
+or
+
+(ii) a grant referred to in *subparagraph (i)* was not paid and the Revenue Commissioners confirm in writing, under *subsection (4A)*, the reduction in the chargeable value of the property,]
+
+(*b*) on completion of the adaptation, the relevant residential property is occupied by the person who has the disability as his or her sole or main residence, F69[...]
+
+F70[(*bb*) the chargeable value of the relevant residential property is increased as a result of the adaptation referred to in *subsection (1)*, and]
+
+(*c*) the liable person in relation to the adapted property notifies the Revenue Commissioners in writing of the amount of the chargeable value attributable to the adaptation and submits any relevant documentation, F71[including, where such a grant was paid,] that relating to the payment of a grant under the Regulations referred to in *paragraph (a)*.
+
+F72[(3) The maximum amount by which the chargeable value of a relevant residential property may be reduced for the purposes of *subsection (1)* shall be F67[€105,000].
+
+(4) The increase in the chargeable value of the relevant residential property as a result of the adaptation referred to in *subsection (1)* shall be established on completion of that adaptation.]
+
+F73[(4A) (*a*) Where *subparagraph (ii)* of *subsection (2) (a)* applies, a liable person may make an application to the Revenue Commissioners for confirmation in writing, in relation to a relevant residential property referred to in *subsection (1)*, of the reduction in the chargeable value of the property.
+
+(*b*) For the purpose of an application under *paragraph (a)*, the Revenue Commissioners may specify the form of an application, and may require that the following information is provided to them:
+
+(i) details of the residential property;
+
+(ii) a description of the adaptation referred to in *subsection (1)*;
+
+(iii) the cost of the adaptation;
+
+(iv) the date of completion of the adaptation;
+
+(v) the chargeable value attributable to the adaptation;
+
+(vi) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*c*) For the purpose of an application under *paragraph (a)*, the Revenue Commissioners may also require that the following information is provided by the general practitioner of the person who has a disability:
+
+(i) the nature and extent of the disability;
+
+(ii) the extent to which the disability affects the person’s mobility;
+
+(iii) the reason the general practitioner considers the adaptation to have been necessary;
+
+(iv) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
+
+(*d*) No confirmation shall be given by the Revenue Commissioners on an application under *paragraph (a)* unless they are satisfied that—
+
+(i) a relevant residential property has been adapted for the purposes specified in *subsection (1)*, and
+
+(ii) *subparagraph (i)* of *subsection (2) (a)* does not apply.
+
+(*e*) In this subsection “general practitioner”, in relation to a person who has a disability, means the medical practitioner, for the time being registered in the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007, who provides a general practitioner medical service to the person who has a disability.
+
+(4B) For the purposes of *subsection (4A)*, the Revenue Commissioners shall publish guidelines in relation to—
+
+(*a*) the manner in which an application is to be made,
+
+(*b*) the information or documentation to be furnished in relation to the property and the person who has a disability in support of the application, and
+
+(*c*) any other information that the Revenue Commissioners consider to be relevant for the purpose of considering the application.]
+
+(5) *Subsection (1)* shall cease to apply on the sale (within the meaning of *section 125*) of the adapted property unless the person with the disability continues to occupy that property as his or her sole or main residence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 6, commenced on enactment.
+>
+> F67: Substituted (1.01.2026) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 7(a), (b), applied as per s. 3(a), S.I. No. 341 of 2025.
+>
+> F68: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (b) (i), commenced on enactment.
+>
+> F69: Deleted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (b) (ii), commenced on enactment.
+>
+> F70: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (b) (iii), commenced on enactment.
+>
+> F71: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (b) (iv), commenced on enactment.
+>
+> F72: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (c) and (d), commenced on enactment.
+>
+> F73: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (e) and (f), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: subs. (1) amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 9(1) (a), commenced on enactment, applicable in relation to the liability date 1 November 2016 and each subsequent liability date as per subs. (2); substituted (1.01.2026) as per F-note above.
+
+### 16. Charge to local property tax.
+
+**16**.— (1) F74[Subject to and in accordance with the provisions of this Act,] commencing with the year 2013, there shall be charged, levied and paid a tax to be known, and which is referred to in this Act, as “local property tax” in respect of the chargeable value of a relevant residential property.
+
+(2) Subject to *subsection (4)*, the local property tax shall be payable by the person who is the liable person in relation to the relevant residential property.
+
+(3) Where more than one person is a liable person in relation to a relevant residential property, those persons shall be jointly and severally liable for the local property tax payable in respect of the property.
+
+(4) Notwithstanding *subsection (2)*, local property tax may be paid by another person on behalf of a liable person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(c), commenced on enactment.
+
+### 17. Amount of local property tax.
+
+F75[**17**.—(1) In this section, a reference to the number of the band into which a relevant residential property falls is a reference to the number specified in column (1) of the Table to this section opposite the valuation band specified in column (2) of that Table into which the chargeable value (rounded down to the nearest euro) of the property falls.
+
+(2) Where a relevant residential property falls into band 1, the amount of the local property tax to be charged in respect of the chargeable value of that property shall be F76[€95].
+
+(3) Where a relevant residential property falls into band 2, the amount of the local property tax to be charged in respect of the chargeable value of that property shall be F76[€235].
+
+(4) Where a relevant residential property falls into any of the bands 3 to 11, the amount of the local property tax to be charged in respect of the chargeable value of that property shall be the amount represented by A in the formula—
+
+A=B*C
+
+where
+
+B is the mid-point, specified in column (3) of the Table to this section opposite the valuation band specified in column (2) of that Table into which the chargeable value (rounded down to the nearest euro) of the property falls, and
+
+C is F76[0.000906].
+
+(5) Where a relevant residential property falls into any of the bands 12 to 19, the amount of the local property tax to be charged in respect of the chargeable value of that property shall be the amount represented by A in the formula—
+
+A=(B*C)+[(D-B)*E]
+
+where
+
+B is F76[€1,260,000],
+
+C is F76[0.000906],
+
+D is the mid-point, specified in column (3) of the Table to this section opposite the valuation band specified in column (2) of that Table into which the chargeable value (rounded down to the nearest euro) of the property falls, and
+
+E is 0.0025.
+
+(6) Where the chargeable value of a relevant residential property exceeds F76[€2,100,000], the amount of the local property tax to be charged in respect of the chargeable value of that property shall be the amount represented by A in the formula—
+
+A=(B*C)+[(D-B)*E]+(F*G)
+
+where
+
+B is F76[€1,260,000],
+
+C is F76[0.000906],
+
+D is F76[€2,100,000],
+
+E is 0.0025,
+
+F is that part of the chargeable value of the property that exceeds F76[€2,100,000], and
+
+G is 0.003.
+
+(7) The amounts specified in columns (2) and (3) of the Table to this section are amounts in euro.
+
+(8) Where—
+
+(*a*) a local authority, or
+
+(*b*) an approved housing body,
+
+is a liable person in relation to a relevant residential property, the property shall be deemed to fall into band 1.
+
+F76[TABLE
+
+| **Band number** **(1)** | **Valuation band** **(2)** | **Mid-point of valuation band** **(3)** |
+|---|---|---|
+| 1 | 1-240,000 | - |
+| 2 | 240,001-315,000 | - |
+| 3 | 315,001-420,000 | 367,500 |
+| 4 | 420,001-525,000 | 472,500 |
+| 5 | 525,001-630,000 | 577,500 |
+| 6 | 630,001-735,000 | 682,500 |
+| 7 | 735,001-840,000 | 787,500 |
+| 8 | 840,001-945,000 | 892,500 |
+| 9 | 945,001-1,050,000 | 997,500 |
+| 10 | 1,050,001-1,155,000 | 1,102,500 |
+| 11 | 1,155,001-1,260,000 | 1,207,500 |
+| 12 | 1,260,001-1,365,000 | 1,312,500 |
+| 13 | 1,365,001-1,470,000 | 1,417,500 |
+| 14 | 1,470,001-1,575,000 | 1,522,500 |
+| 15 | 1,575,001-1,680,000 | 1,627,500 |
+| 16 | 1,680,001-1,785,000 | 1,732,500 |
+| 17 | 1,785,001-1,890,000 | 1,837,500 |
+| 18 | 1,890,001-1,995,000 | 1,942,500 |
+| 19 | 1,995,001-2,100,000 | 2,047,500 ] ] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 24, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+>
+> F76: Substituted (1.01.2026) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 8(a)-(f), applied as per s. 3(b), S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provisions: subs. (2) amended, subss. (5), (6) inserted and table amended (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), ss. 5(d), (e), (f), 7(a), commenced on enactment; section substituted (22.07.2021) as per F-note above.
+
+### 18. No aggregation of chargeable values.
+
+**18**.— Where a person is chargeable to local property tax in respect of more than one relevant residential property, the amount of local property tax chargeable is to be determined for each property in accordance with *section 17*.
+
+### 19. Local adjustment factor.
+
+**19**.— In *section 20*—
+
+F77[(*a*) the following are referred to as the "basic rate":
+
+(i) each of the rates represented by—
+
+(I) "C" in the formulae in *subsections (4)*, *(5)* and *(6)* of *section 17*,
+
+(II) "E" in the formulae in *subsections (5)* and *(6)* of *section 17*, and
+
+(III) "G" in the formula in *subsection (6)* of *section 17*;
+
+(ii) each amount of local property tax referred to in *subsection (2)* and *(3)* of *section 17*, and]
+
+(*b*) the percentage specified in a resolution under *section 20* as the percentage by which the basic rate should stand varied is referred to as the “local adjustment factor”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 25, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: para. (a) substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(g), commenced on enactment; substituted as per F-note above.
+
+### 20. Power of elected members of local authority to vary basic rates.
+
+**20**.— (1) In this section—
+
+F78[...]
+
+“Minister” means F79[the Minister for Housing, Local Government and Heritage].
+
+(2) Where the passing of such a resolution is a reserved function F80[(within the meaning of the Local Government Act 2001, as amended by the Local Government Reform Act 2014)] of a local authority, a local authority may pass a resolution that the basic rate should F81[, for a period specified in the resolution and with effect from the date specified in *section 21(2)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013),] stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area.
+
+F81[(2A) In making a decision as to whether to pass such a resolution as is referred to in *subsection (2)* or as to the percentage that should be specified in it, a local authority shall, in addition to the matters (if any) specified under *subsection (6) (a)* have regard to—
+
+(*a*) the local authority’s estimation of the income it will receive and the expenditure it will incur in the period for which the varied rate is to have effect,
+
+(*b*) the financial position of the local authority, including the amounts standing as its accumulated assets and liabilities not less than one month before the date on which it is proposed to pass the resolution, and
+
+(*c*) the local authority’s estimation of the financial effect of the varied rate on the economy of its functional area, including on those persons who will be liable to pay local property tax.]
+
+(3) Where a local authority passes a resolution under *subsection (2)*, F82[the amount of the local property tax referred to in *subsection (2)* and *(3)* of *section 17* and the rate of local property tax], in respect of relevant residential properties situated in the local authority’s functional area, shall be F81[, for the period specified in the resolution and with effect from the date specified in *section 21(2)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013),] the basic rate, increased or decreased, as the case may be, by the local adjustment factor.
+
+(4) Where a local authority passes a resolution under *subsection (2)*, it shall notify the Minister in writing that it has passed the resolution and of the local adjustment factor.
+
+F83[(5) The local adjustment factor shall not—
+
+(*a*) increase the basic rate by more than 25 per cent, or
+
+(*b*) decrease the basic rate by more than 15 per cent.]
+
+(6) The Minister may make regulations with respect to the setting of the local adjustment factor and those regulations may, in particular and without prejudice to the generality of the foregoing, include provision for—
+
+(*a*) specifying the matters to which a local authority must have regard when setting a local adjustment factor in respect of a liability date,
+
+(*b*) the public consultation process that must be followed by a local authority before that factor is set by it (including publication of its proposal with respect to the factor in one or more newspapers circulating in its functional area),
+
+(*c*) the nature and extent of consultation with other persons,
+
+(*d*) the persons who must be informed when a local adjustment factor is set,
+
+(*e*) any other procedural matter which the Minister may deem necessary.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Deleted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(6) and sch. 2, part 5, S.I. No. 214 of 2014.
+>
+> F79: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 26(a), commenced on enactment.
+>
+> F80: Inserted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(6) and sch. 2, part 5, S.I. No. 214 of 2014.
+>
+> F81: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(h)-(j), commenced on enactment.
+>
+> F82: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 26(b), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(d).
+>
+> F83: Substituted (1.01.2026) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 9, S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to subs. (6) exercised (7.05.2026) by *Local Property Tax (Local Adjustment Factor) Regulations 2026* (S.I. No. 198 of 2026), in operation as per art. 2.
+>
+> E20: Power pursuant to subs. (6) exercised (18.07.2022) by *Local Property Tax (Local Adjustment Factor) Regulations 2022* (S.I. No. 358 of 2022), in operation as per reg. 2.
+>
+> E21: Power pursuant to subs. (6) exercised (10.06.2021) by *Local Property Tax (Local Adjustment Factor) (Amendment) Regulations 2021* (S.I. No. 285 of 2021), in operation as per reg. 2.
+>
+> E22: Matters to which a local authority must have regard when setting a local adjustment factor in respect of a liability date, public consultation process which must be followed and relevant forms prescribed pursuant to subs. (6) (1.07.2014) by *Local Property Tax (Local Adjustment Factor) Regulations 2014* (S.I. No. 296 of 2014), in operation as per reg. 2; as amended (30.09.2014) by *Local Property Tax (Local Adjustment Factor) (Amendment) (No. 2) Regulations 2014* (S.I. No. 439 of 2014).
+>
+> E23: Provision made for exercise and performance of reserved functions made (1.06.2014) by *Local Government (Performance of Reserved Functions in Respect of Municipal District Members) Regulations 2014* (S.I. No. 231 of 2014), in operation as per reg. 2.
+>
+> E24: Reserved function to be performed by local authority specified by *Local Government Act 2001* (37/2001), s. 131A and sch. 14A, part 2 item 107, as inserted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 21(4) and sch. 3, S.I. No. 214 of 2014: *The passing by a local authority of a resolution that the basic rate of local property tax should stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area*.
+
+### 21. Notification of local adjustment factor to the Revenue Commissioners.
+
+F84[**21**.— (1) Where a local authority passes the resolution referred to in *section 20(2)*, it shall notify the Revenue Commissioners of the percentage by which the basic rate is to be varied, and—
+
+(*a*) the notification shall be sent to the Revenue Commissioners in the form and manner specified by them, and
+
+F85[(*b*) the notification referred to in *paragraph (a)* shall be sent to the Revenue Commissioners in the year in which the resolution is passed, on or before—
+
+(i) in a year in which a valuation date occurs, 31 August in that year, and
+
+(ii) in any other year, 15 October in that year.]
+
+(2) Where a local authority complies with *subsection (1)*, the varied rate shall take effect from the liability date in the year in which the notification is sent to the Revenue Commissioners.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 5(k), commenced on enactment.
+>
+> F85: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 27, commenced on enactment.
+
+## PART 5 Care and Management — PART 5 — Care and Management
+
+### 22. Care and Management of local property tax.
+
+**22**.— Local property tax shall be under the care and management of the Revenue Commissioners and Part 37 of the Act of 1997 shall apply to local property tax as it applies to income tax, corporation tax and capital gains tax.
+
+### 23. Delegation of acts and functions of Revenue Commissioners.
+
+**23**.— (1) Subject to *subsection (2)*, any act to be performed or function to be discharged by the Revenue Commissioners which is authorised by this Act may be performed or discharged by any one or more of their officers acting under their authority.
+
+(2) The general delegation referred to in *subsection (1)* shall not apply in the case of―
+
+(*a*) the authorisation of Revenue officers to perform any acts or functions that require authorisation by the Revenue Commissioners, and
+
+(*b*) the making of regulations under this Act by the Revenue Commissioners.
+
+### 24. Electronic means.
+
+**24**.— (1) The delegation of acts and functions of the Revenue Commissioners referred to in *section 23* may, if appropriate, be performed or discharged through such electronic means as the Revenue Commissioners may put in place or approve for the time being for any such purpose.
+
+(2) Any act that the Revenue Commissioners require a person to perform under this Act may be performed by electronic means where this facility is made available by the Revenue Commissioners.
+
+(3) Any document, including a certificate, notice, F86[notification, direction, statement, declaration, claim], form or return, authorised or required to be sent or given under this Act may be sent by post or by electronic means.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 28, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+### 25. Combined forms.
+
+**25**.— Any document, including a certificate, notice, notification, form or return, relating to local property tax may be combined with such a document relating to any other tax, charge, levy or duty under the care and management of the Revenue Commissioners and any document so combined may be modified by the Revenue Commissioners accordingly in relation to its application to local property tax and other tax, charge, levy or duty or to local property tax only or to those taxes, charges, levies or duties only, as the case may be.
+
+### 26. Repayment of local property tax.
+
+**26**.— (1) Subject to the provisions of this section, where a person has, in respect of a liability date, paid, whether directly or by deduction, an amount of local property tax which is not due from that person or which, but for an error or mistake in a return or statement made by the person for the purposes of an assessment to local property tax, would not have been due from the person, the person shall be entitled to repayment of the local property tax so paid.
+
+(2) The Revenue Commissioners shall not make a repayment of the local property tax referred to in *subsection (1)* unless—
+
+(*a*) a claim for repayment has been made to them,
+
+(*b*) the claim for repayment referred to in *paragraph (a)* is made within 4 years after the end of the year in which the liability date in respect of which the payment was made falls,
+
+(*c*) a true and complete return has been prepared and delivered under *Part 7* , and
+
+(*d*) all the information that the Revenue Commissioners may reasonably require to enable them determine if and to what extent a repayment to local property tax is due to the person has been provided to them.
+
+(3) Where the Revenue Commissioners make a repayment of local property tax, they may repay any such amount directly into an account, specified by the person to whom the amount is due, in a financial institution.
+
+(4) Where a liable person is aggrieved by a decision of the Revenue Commissioners on a claim to repayment by the person, insofar as the decision is made by reference to any provision of this section, the person may appeal F87[the decision to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notice of that decision].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F87: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(b), S.I. No. 110 of 2016.
+
+## PART 6 The Register — PART 6 — The Register
+
+### 27. The register.
+
+**27**.— (1) The Revenue Commissioners shall establish and maintain a register of residential properties and associated liable persons in the State (referred to in this Act as the “register”).
+
+(2) The Revenue Commissioners―
+
+(*a*) notwithstanding anything in *sections 28* and *29*, may enter in the register such particulars in relation to a residential property and its associated liable persons as they consider appropriate, and
+
+(*b*) may assign a unique identification number to each residential property in the register.
+
+(3) Where particulars that the Revenue Commissioners have entered in the register under *subsection (2)* are proved not to be true, the Revenue Commissioners shall amend those particulars, or delete them from the register, as the case may be, accordingly.
+
+### 28. Obligation to register.
+
+**28**.— Subject to *sections 29* and *31*, every person who is a liable person shall be required to register as such with the Revenue Commissioners and for this purpose shall send to the Revenue Commissioners a statement in the form specified by the Revenue Commissioners of particulars relating to the person and the relevant residential property in relation to which the person is a liable person and those particulars may be entered in the register.
+
+### 29. Registration by delivery of return.
+
+**29**.— The requirement under *section 28* for a liable person to register with the Revenue Commissioners shall be regarded as satisfied where the particulars referred to in that section are included in a return made by the person to them under this Act.
+
+### 30. Notification of changes.
+
+**30**.— Where a change occurs in the particulars referred to in *section 28*, the liable person referred to in that section shall as soon as may be after the change occurs, notify the Revenue Commissioners of the revised particulars.
+
+### 31. Joint owners of property.
+
+**31**.— Notwithstanding *section 28*, where two or more persons are liable persons in relation to a relevant residential property, and the designated liable person (as that expression is to be read by virtue of *Part 7*) has registered under section 28, the other liable person or persons, as the case may be, shall not be obliged to comply with *section 28*.
+
+### 32. Evidence in legal proceedings.
+
+**32**.— In any legal proceedings, a certificate signed by a Revenue officer that states—
+
+(*a*) particular matters as being matters entered in the register, or
+
+(*b*) that particulars are not, or were not at any time, entered in the register,
+
+shall, without proof of the signature of the officer purporting to sign the certificate be evidence, unless the contrary is proved, of the matter or matters stated in the certificate.
+
+## PART 7 Returns — PART 7 — Returns
+
+### 33. Issue of notice by Revenue requiring returns to be made.
+
+**33**.— (1) The Revenue Commissioners may require a person, by notice, to prepare and deliver to them, by the date specified in the notice, a return in such form as they may specify where—
+
+(*a*) the person is a liable person in relation to a relevant residential property which is entered in the register, or
+
+(*b*) they have reason to believe that the person may be a liable person.
+
+(2) Nothing in this Part shall operate so as to require a liable person to deliver a return on a date earlier than the return date that applies to the return.
+
+### 34. Claim that person not a liable person.
+
+**34**.— (1) Where a person has been required by notice by the Revenue Commissioners under *section 33(1)* to prepare and deliver a return and the person does not consider himself or herself to be a liable person, the person shall notify the Revenue Commissioners accordingly and the notification—
+
+(*a*) shall be in writing,
+
+(*b*) shall be made within 30 days after the date of the notice referred to in *section 33(1)*,
+
+(*c*) with reference to F88[*section 3* or *Part 3*], as the case may be, shall include an explanation of the reason why the person does not consider himself or herself to be a liable person,
+
+(*d*) shall be accompanied by whatever supporting documentation may be relevant, and
+
+(*e*) shall include any relevant information in the knowledge or possession of the person who has received the notice referred to in *section 33* which relates to the person who is, or who may be, the liable person in relation to the relevant residential property in respect of which the notice was given.
+
+(2) The Revenue Commissioners, having considered the notification given by a person in accordance with this section, shall—
+
+(*a*) make a determination on whether the person is a liable person in relation to the relevant residential property in respect of which the notice referred to in *section 33(1)* was given, and
+
+(*b*) notify the person of their determination.
+
+(3) Where a person is aggrieved by the determination referred to in *subsection (2)*, he or she may appeal F89[the determination to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notice of that determination].
+
+(4) F90[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F88: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 28, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(e).
+>
+> F89: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(c) (i), S.I. No. 110 of 2016.
+>
+> F90: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(c) (ii), S.I. No. 110 of 2016.
+
+### 35. Obligation on liable person to prepare and deliver a return.
+
+**35**.— (1) Every liable person shall prepare and deliver to the Revenue Commissioners, on or before the return date, a return in such form as the Revenue Commissioners may specify notwithstanding that the person has not been required to do so under *section 33*.
+
+F91[(2) Notwithstanding *subsection (1)*, a liable person shall not be obliged to prepare and deliver a return in respect of a relevant residential property in relation to a liability date falling in a valuation period subsequent to the first liability date in the valuation period (in this section referred to as a "subsequent liability date") where—
+
+(*a*) the liable person, or another liable person, has prepared and delivered a return containing a self-assessment in relation to the first liability date in the valuation period in respect of the relevant residential property, and
+
+(*b*) the amount of the local property tax contained in the self-assessment in the return referred to in *paragraph (a)* has been or is being paid in relation to the subsequent liability dates in accordance with—
+
+(i) the method of payment specified in that return, or
+
+(ii) a different method of payment to that referred to in *subparagraph (i)*, which method of payment has been agreed with the Revenue Commissioners.]
+
+F92[(3) Subject to *subsections (6)* and *(7)* and *section 55*, where *subsection (2)* applies—
+
+(*a*) the amount of local property tax referred to in *subsection (2) (b)* shall be due and payable in relation to the subsequent liability dates concerned, and
+
+(*b*) the method of payment specified in the return referred to in *subsection (2) (b) (i)* shall apply in relation to each of the subsequent liability dates concerned, unless a different method of payment has been agreed with the Revenue Commissioners.]
+
+F93[(4) For the purposes of *subsection (2)*, where a building becomes a residential property in the period between two consecutive valuation dates, references to the first liability date in a valuation period shall be read as the first liability date falling after the building becomes a residential property.]
+
+(5) Notwithstanding *subsection (2)*, a liable person who has acquired a relevant residential property from a person referred to in *section 8(1) (b)* who acquired the property before 1 May 2013 shall be obliged to prepare and deliver a return in respect of any liability date occurring after the acquisition and before F94[1 November 2021].
+
+F95[(5A) Notwithstanding *subsection (2)* and *section 14(1)*, the person who is the liable person following the change referred to in *section 14(1)* shall prepare and deliver a return in relation to the first liability date following that change falling before the next valuation date where—
+
+(*a*) that person has received information or documentation in accordance with *section 14(1A)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), and
+
+(*b*) it appears to that person that the chargeable value in respect of the first valuation date (as referred to in *section 14(1)*) and the relevant residential property is not a chargeable value that could reasonably have been arrived at.]
+
+F96[(5B) Notwithstanding *subsection (2)*, where *section 14(1B)* applies, the person who is the liable person following a change referred to in that section shall prepare and deliver a return in relation to the first liability date following the change.]
+
+F97[(6) Where a liable person is eligible for and claims a deferral under *section 131*—
+
+(*a*) *subsection (2)* shall apply subject to the modification that the reference in *paragraph (b)* of that subsection to ‘the amount of the local property tax contained in the self-assessment in the return referred to in *paragraph (a)*’ shall be construed as a reference to that amount less the amount in respect of which a deferral has been claimed, and
+
+(*b*) *subsection (3) (a)* shall apply such that the reference therein to "the amount of local property tax referred to in *subsection (2) (b)*" shall be construed as a reference to the amount of the local property tax contained in the self-assessment in the return referred to in *subsection (2) (a)*.]
+
+F98[(7) Where *section 4*, *5*, *7*, *7A*, *10A*, *10B*, F99[*10C*, *10D* or *10E*] applies to a relevant residential property on a liability date—
+
+(*a*) *subsection (2)* shall apply in respect of the relevant residential property in relation to the liability date, subject to the following modifications:
+
+(i) the following paragraph shall be substituted for *paragraph (a)*:
+
+"(*a*) the liable person, or another liable person, has prepared and delivered a return specifying the chargeable value, established by reference to the valuation date for the valuation period, in respect of the relevant residential property, and";
+
+(ii) *paragraph (b)* shall not apply,
+
+and
+
+(*b*) *subsection (3)* shall not apply in respect of the relevant residential property in relation to the liability date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91, F92, F93, F94: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 29(a)-(c), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(e).
+>
+> F95: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 8(c), (d), commenced on enactment.
+>
+> F96: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 29(e), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(e).
+>
+> F97: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 29(f), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(e).
+>
+> F98: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 29(g), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(e).
+>
+> F99: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 12(c), S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provisions: subs. (2) amended (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 8(a), commenced on enactment, and (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 10(a), commenced on enactment; subsection substituted as per F-note above.
+>
+> E26: Previous affecting provisions: subs. (4) amended (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 8(b), (c), commenced on enactment, and (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 10(a), commenced on enactment; subsection substituted as per F-note above.
+>
+> E27: Previous affecting provision: subs. (5) amended (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 10(b), commenced on enactment; amendment substituted as per F-note above.
+
+### 36. Preparation and delivery of return by person acting under authority.
+
+**36**.— (1) Notwithstanding *sections 33* and *35*, a return may be prepared and delivered by a person acting under the authority of a liable person.
+
+(2) Where a return is prepared and delivered by a person acting under the foregoing authority, this Part shall apply as if the return had been prepared and delivered by the liable person.
+
+(3) Anything required or allowed to be done by a liable person under this Part may be done by a person acting under a liable person’s authority.
+
+### 37. Company returns.
+
+**37**.— (1) Where the person who is required to prepare and deliver a return under this Part is a company, the return shall be prepared and delivered by the secretary of the company.
+
+(2) In the case of a company not registered in the State, for the purposes of *subsection (1)*, a secretary includes the agent, manager, factor or other representative of the company.
+
+### 38. Surcharge for late submission of income tax and corporation tax returns.
+
+F100[**38**.— (1) For the purposes of this section—
+
+(*a*) "chargeable period", "chargeable person" and "specified return date for the chargeable period" have the same meanings, respectively, as in section 959A of the Act of 1997, and
+
+(*b*) where a liable person delivers a return required under section 959I(1) of the Act of 1997 on a date earlier than the specified return date for the chargeable period concerned, the specified return date shall be read as that earlier date.
+
+(2) This subsection applies where a liable person is a chargeable person in relation to a chargeable period and has not in relation to any return required under this Part—
+
+(*a*) prepared and delivered the return, or
+
+(*b*) (i) paid the local property tax payable, or
+
+(ii) entered into an arrangement with the Revenue Commissioners for payment of that local property tax,
+
+on or before the specified return date for the chargeable period.
+
+(3) Where *subsection (2)* applies—
+
+(*a*) the liable person shall be deemed not to have delivered the return required under section 959I(1) of the Act of 1997 for the chargeable period concerned, and
+
+(*b*) subject to *subsections (4)* and *(5)*, the liable person shall be treated as if that person had failed to deliver the return referred to in *paragraph (a)* before the expiry of 2 months from the specified return date for the chargeable period concerned and a surcharge as referred to in section 1084(2) (*a*) (ii) of the Act of 1997 shall apply.
+
+(4) Subject to *subsection (5)*, where subsequent to the specified return date for the chargeable period, the liable person—
+
+(*a*) prepares and delivers all returns required under this Part, and
+
+(*b*) pays the local property tax payable in respect of those returns or enters into an arrangement with the Revenue Commissioners for payment of that tax,
+
+the surcharge arising by virtue of *subsection (3)* shall not exceed F101[50 per cent of the amount of the local property tax payable] by reference to those returns.
+
+(5) Where the liable person has not, in fact, submitted the return required under *section 959I(1)* of the Act of 1997 on or before the specified return date for the chargeable period concerned and a surcharge is applied under *section 1084(2)* of that Act then this section shall not apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F100: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 8(e), commenced on enactment.
+>
+> F101: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 30, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(e).
+
+### 39. Particulars to be included in a return.
+
+**39**.— The following particulars in relation to a relevant residential property at a liability date may be required to be included in a return—
+
+(*a*) F102[the address (including the Eircode),]
+
+(*b*) the chargeable value,
+
+(*c*) the unique identification number assigned to the property by the Revenue Commissioners,
+
+(*d*) the name of the liable person,
+
+(*e*) the name of the liable person’s spouse or civil partner, as the case may be,
+
+(*f*) the liable person’s personal public service number or, in the case of a company, the tax reference number,
+
+(*g*) the liable person’s address for correspondence,
+
+(*h*) the name of the local authority in whose functional area the property is situated, and
+
+(*i*) any other particulars that may be indicated in the return as being required for the purposes of determining a person’s liability to local property tax.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 10, S.I. No. 341 of 2025.
+
+### 39A. Particulars in relation to use of dwelling
+
+F103[**39A**.—(1) In addition to the particulars referred to in *section 39*, the following particulars, in relation to the use of a residential property on a valuation date, may be required to be included in a return:
+
+(*a*) whether the residential property concerned is in use as the liable person’s sole or main dwelling;
+
+(*b*) whether the residential property concerned is in use as a dwelling on the valuation date;
+
+(*c*) where the residential property concerned is not in use as a dwelling on the valuation date, the period prior to the valuation date during which it was not so used;
+
+(*d*) where the residential property concerned is not in use as a dwelling on the valuation date, the reason why it is not so used.
+
+(2) The particulars referred to in *subsection (1)* shall not be used for any purpose other than the compiling of statistical information in relation to residential properties in the State which are not in use as a dwelling.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 31, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E28: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 40. Self-assessment and signed declaration.
+
+**40**.— Every return prepared and delivered under this Part shall include—
+
+(*a*) a self-assessment by, or on behalf of, the liable person to whom the return relates in such form as the Revenue Commissioners may specify, and
+
+(*b*) a signed declaration by the person who prepares the return that the return is, to the best of that person’s knowledge and belief, correct.
+
+### 41. Method of payment and deferral.
+
+**41**.— (1) The person who prepares a return—
+
+(*a*) shall elect in the return to pay local property tax by one of the methods specified in the return, and
+
+(*b*) where the liable person is eligible to do so, may elect in the return to defer payment of local property tax payable by the liable person.
+
+(2) F104[Where the person who makes a return elects in the return] to pay local property tax by one of the methods specified in the return but does not include a self-assessment, that method of payment may be treated as applying to the Revenue estimate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F104: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 8(f), commenced on enactment.
+
+### 41A. Return in relation to exemptions
+
+F105[**41A**.—Where, for the purposes of the application of one or more of *sections 4*, *5*, *7*, *7A*, *10A*, *10B*, F106[*10C*, *10D* and *10E*] in respect of a relevant residential property, a liable person forms the view that such relevant residential property should not, in accordance with one or more of those sections, be regarded, for the purposes of *section 16(1)*, as a relevant residential property, the liable person shall specify in the return the section or sections, as the case may be, in accordance with which the property should not be so regarded.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 32, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(e).
+>
+> F106: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 12(d), S.I. No. 341 of 2025.
+
+### 41B. Appeal against determination in respect of exemptions
+
+F107[**41B**.—(1) Where—
+
+(*a*) in accordance with *section 41A*, a liable person specifies one or more of *sections 4*, *5*, *7*, *7A*, *10A*, *10B*, F108[*10C*, *10D* and *10E*] in a return, and
+
+(*b*) the Revenue Commissioners make a determination that the relevant residential property concerned does not meet the conditions in the section or sections specified,
+
+the Revenue Commissioners shall notify the liable person in writing of their determination.
+
+(2) A liable person who is aggrieved by a determination referred to in *subsection (1)* may appeal the determination to the Appeal Commissioners, in accordance withsection 949I of the *Act of 1997*, within the period of 30 days after the date of the notification issued under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F107: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 32, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(e).
+>
+> F108: Substituted (21.07.2025) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 12(e), S.I. No. 341 of 2025.
+
+### 42. One return in respect of jointly owned property.
+
+**42**.— (1) Where 2 or more persons are liable persons in relation to a relevant residential property, one return in respect of the property shall be prepared and delivered by the liable person who is the designated liable person as determined in accordance with *section 43*.
+
+(2) The making of a return referred to in *subsection (1)*—
+
+(*a*) shall operate to satisfy the obligation of the other liable person, or liable persons, as the case may be, under this Part, and
+
+(*b*) shall bind the other liable person, or liable persons.
+
+(3) Where—
+
+(*a*) more than one return is delivered in respect of a relevant residential property, and
+
+(*b*) one of the returns is delivered by the designated liable person,
+
+the Revenue Commissioners shall notify the person who is not the designated liable person that a return has been delivered by the designated liable person.
+
+(4) Where—
+
+(*a*) more than one return is prepared and delivered in respect of a relevant residential property, and
+
+(*b*) there is no designated liable person in relation to the property,
+
+the Revenue Commissioners shall designate a person to be the designated liable person and *subsection (2)* shall apply accordingly.
+
+### 43. Designated liable person.
+
+**43**.— (1) In this section “specified class of person” means a class of person specified in the Table to this section.
+
+(2) This section has effect for the purpose of determining who shall be the designated liable person for the purposes of *section 42(1)*.
+
+(3) Subject to *subsections (4)* and *(5)*, for the purposes of *section 42(1)* the designated liable person—
+
+(*a*) if one only of the specified classes of person is applicable in the circumstances concerned — shall be the person who falls within that specified class, or
+
+(*b*) if several of the specified classes of person are applicable in the circumstances concerned — shall be the person who falls within whichever of those applicable classes is the class that appears, in the Table to this section, before the other applicable class or classes.
+
+(4) Notwithstanding *subsection (3)*, for the purposes of *section 42(1)* the designated liable person shall, if the Revenue Commissioners exercise the power under *subsection (5)*, be the person specified by them in the exercise of that power.
+
+(5) The Revenue Commissioners may specify in writing that one of the liable persons referred to in *section 42(1)* shall be the designated liable person if either—
+
+(*a*) they are of the opinion that it would be more appropriate that that person be the designated liable person than the person who would otherwise fall to be treated as the designated liable person by virtue of the operation of *subsection (3)*, or
+
+(*b*) the application of *subsection (3)* does not, in the circumstances concerned, result in the determination of a designated liable person.
+
+F109[(6) Where the Revenue Commissioners specify a designated liable person under *subsection (5)*, they shall notify all of the liable persons in relation to the relevant residential property concerned that a designated liable person has been so specified.]
+
+F110[(7) A liable person aggrieved by the specification of a designated liable person under *subsection (5)* may appeal that specification to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notification issued under *subsection (6)*.]
+
+Table 1
+
+Classes of person.
+
+1\. The liable person who is nominated by joint election of all of the other persons who are liable persons in relation to the relevant residential property, being a person whose name, address and personal public service number are notified in writing to the Revenue Commissioners.
+
+2\. The person who complied with section 6 of the Act of 2011 in relation to the relevant residential property.
+
+3\. The person who complied with section 5 of the Act of 2009 in relation to the relevant residential property.
+
+4\. If the relevant residential property is jointly owned and the joint owners are a married couple or civil partners, as the case may be, the assessable spouse or civil partner where an election under section 1018 or 1031D of the Act of 1997 has effect.
+
+5\. If the relevant residential property is jointly owned and the joint owners are partners in a partnership, the precedent partner (within the meaning of section 1007 of the Act of 1997).
+
+6\. The liable person with the highest total income (within the meaning of section 3(1) of the Act of 1997).
+
+7\. If the relevant residential property is jointly owned and one of the joint owners is a company, the person who is not the company.
+
+8\. If the relevant residential property is jointly owned and some of the joint owners are not resident or not ordinarily resident in the State, within the meaning of section 819 or 820, as the case may be, of the Act of 1997, the person who is resident or ordinarily resident in the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F109, F110: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 33, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(e).
+
+### 44. Electronic delivery of returns.
+
+**44**.— (1) The following persons shall deliver any return which they are required to deliver under this Part by whatever electronic means F111[...] are made available by the Revenue Commissioners for this purpose—
+
+(*a*) a person who is a liable person in relation to more than one relevant residential property, and
+
+(*b*) a person who is a specified person (within the meaning of section 917EA of the Act of 1997).
+
+(2) Section 917J of the Act of 1997, as it relates to the electronic transmission of returns in relation to the taxes and duties referred to in section 917D of that Act, shall apply to the delivery of returns by electronic means under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F111: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 16(d), commenced on enactment.
+
+### 45. Evidence of failure to deliver a return.
+
+**45**.— (1) A certificate signed by a Revenue officer which certifies that he or she has examined the relevant records and that it appears from those records—
+
+(*a*) that a named person is a liable person, and
+
+(*b*) that on or before the return date that applies to a return, a return was not received from that person,
+
+shall be evidence until the contrary is proved that the person so named is a liable person and that that person did not, on or before the return date, deliver that return.
+
+(2) A certificate that—
+
+(*a*) certifies matters as provided for by *subsection (1)*, and
+
+(*b*) purports to be signed by a Revenue officer,
+
+may be tendered in evidence without proof of the signature of the officer purporting to sign the certificate and shall be deemed, until the contrary is proved, to have been signed by the officer.
+
+### 46. Returns by agents and lessees.
+
+**46**.— (1) Notwithstanding any obligation as to secrecy or other restriction upon disclosure of information imposed by or under statute or otherwise, for the purpose of obtaining particulars relating to relevant residential properties and the ownership of such properties, the Revenue Commissioners may by notice require, within the period, and in relation to a residential property, specified in the notice—
+
+(*a*) any person who, as an agent, manages residential properties, arranges letting of such properties or is in receipt of rent or other payments arising from such properties to prepare and deliver to them a statement, containing—
+
+(i) the address,
+
+(ii) the name and address of the person who owns the property, or where this information is not known to the person, the name and address of the person who has appointed the person as agent, and
+
+(iii) any other particulars as may be specified in the notice,
+
+or
+
+(*b*) any lessee or occupier to give such information as may be specified in the notice in relation to—
+
+(i) the terms applying to the lease, occupation or use of the property, and
+
+(ii) the person who is the lessor of the property or who has permitted occupation or use of the property, as the case may be.
+
+(2) A notice shall not be served on a person under *subsection (1)* unless the Revenue Commissioners have reasonable grounds to believe that the person is likely to have information relevant to the establishment of a liability to local property tax on the part of any person.
+
+(3) Where the Revenue Commissioners require a person by notice under *subsection (1)* to prepare and deliver a statement or specified information, as the case may be, section 902(7) to (10) of the Act of 1997 shall apply.
+
+(4) A person who fails or refuses to comply with a notice referred to in *subsection (1)* shall be liable to a penalty of €1,000, but nothing in section 1078 of the Act of 1997 (as amended by the Schedule) shall be read as applying to such failure or refusal.
+
+## PART 8 Revenue Estimates and Assessments — PART 8 — Revenue Estimates and Assessments
+
+### 47. Making of Revenue estimate.
+
+**47**.— (1) Without prejudice to any other action which may be taken, the Revenue Commissioners F112[may make, as regards a F113[residential property], an estimate of an amount of local property tax], in relation to a liability date (in this Act referred to as a “Revenue estimate”).
+
+(2) Where a Revenue estimate is made under *subsection (1)*, the Revenue Commissioners shall notify the person in respect of whom the Revenue estimate has been made—
+
+(*a*) that the Revenue estimate has been made and of its amount, and
+
+(*b*) that the Revenue estimate shall become due and payable in the circumstances specified in *section 49*.
+
+F114[(2A) Where the person whom the Revenue Commissioners are required to notify under *subsection (2)* is a person to whom *section 44(1)* applies, it shall be sufficient compliance with *subsection (2) (a)* for the Revenue Commissioners to notify that person—
+
+(*a*) that the Revenue estimate or estimates, as the case may be, will be made available by electronic means, and
+
+(*b*) of the particular electronic means to be used to make that estimate or those estimates available to that person,
+
+and to make that document or those documents available by those electronic means accordingly.]
+
+(3) Such a notification may be made to the person by the Revenue Commissioners either before or after the date which, with respect to the liability to pay local property tax in the year concerned, is the return date.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(a), commenced on enactment.
+>
+> F113: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 34, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(f).
+>
+> F114: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(b), commenced on enactment.
+
+### 48. Amendment of Revenue estimate.
+
+**48**.— (1) Where the Revenue Commissioners are satisfied that a Revenue estimate made under *section 47*—
+
+(*a*) is excessive, they may amend the amount so estimated by reducing it, or
+
+(*b*) is insufficient, they may amend the amount so estimated by increasing it.
+
+(2) Where *subsection (1)* applies, the Revenue Commissioners shall notify F115[the person in respect of whom the Revenue estimate has been made], that they have reduced or increased the Revenue estimate, as the case may be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F115: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(c), commenced on enactment.
+
+### 49. Revenue estimate becomes due and payable.
+
+**49**.— F116[Subject to *sections 51* and *55*], where a person is notified of a Revenue estimate and does not prepare and deliver a return which contains a self-assessment and an election for a specified method of payment, the Revenue estimate shall be due and payable as if it were an amount of local property tax contained in a Revenue assessment made under *section 55*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(d), commenced on enactment.
+
+### 50. Displacement of Revenue estimate by self-assessment.
+
+**50**.— (1) Subject to *section 55*, where a return which includes—
+
+(*a*) a self-assessment, and
+
+(*b*) an election, as mentioned in *section 41(1) (a)*, for a specified method of payment,
+
+is delivered after a Revenue estimate has become due and payable in accordance with *section 49*, the Revenue estimate shall be discharged and *section 53* shall apply accordingly.
+
+(2) Where *subsection (1)* applies—
+
+(*a*) any payment that has been made against the Revenue estimate shall be treated as made against the local property tax payable on foot of the self-assessment, and
+
+(*b*) subject to section 960H of the Act of 1997 (as applied by *section 120*), where any payment made against the Revenue estimate exceeds the amount of the self-assessment, the amount of the excess shall be repaid.
+
+### 51. Claim by person notified of estimate that he or she is not a liable person.
+
+**51**.— Where, following a notification, in accordance with *section 34*, by a person who does not consider that he or she is a liable person, either the Revenue Commissioners or the Appeal Commissioners determine that the person is not a liable person, the Revenue estimate in relation to that person shall be discharged.
+
+### 52. Self-assessment.
+
+**52**.— In this Act, “self-assessment” means an assessment by a liable person in a return, or by a person acting under the authority of a liable person, of the amount of local property tax payable by the liable person in respect of a relevant residential property in relation to a liability date.
+
+### 53. Local property tax payable in accordance with self-assessment.
+
+**53**.— Subject to *sections 49* and *55*, the local property tax payable by a liable person shall be the amount of the self-assessment.
+
+### 54. Revenue assessment.
+
+**54**.— (1) An assessment made by a Revenue officer under this Part (in this Act referred to as a “Revenue assessment”)—
+
+(*a*) on a liable person, or
+
+(*b*) on a person who the Revenue officer has reason to believe is a liable person,
+
+is an assessment to local property tax in relation to the person referred to in *paragraph (a)* or *(b)* and a liability date of an amount as, according to the officer’s best judgment, ought to be made, which assessment—
+
+(i) shall take account of any local property tax that has been paid to the Revenue Commissioners in respect of local property tax payable in respect of the liability date before the assessment is made, and
+
+(ii) may relate to local property tax chargeable in respect of more than one relevant residential property in relation to which a person is a liable person.
+
+F117[(2) Where a Revenue assessment relates to local property tax chargeable in respect of more than one relevant residential property, the assessment shall set out the local property tax chargeable in respect of each property.
+
+(3) Where a Revenue assessment is made, the amount of local property tax due and payable shall be the amount contained in the Revenue assessment and not the amount contained in any self-assessment or Revenue estimate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Substituted and inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(e), commenced on enactment.
+
+### 55. Making of Revenue assessment.
+
+**55**.— Notwithstanding *sections 49* and *53*, but subject to *subsections (1)* and *(2)* of *section 58*, a Revenue officer may make a Revenue assessment where—
+
+(*a*) a self-assessment or a Revenue estimate has not been made, or
+
+(*b*) the Revenue officer has reason to believe that a self-assessment is insufficient.
+
+### 56. Notice of assessment.
+
+**56**.— (1) Where a Revenue officer makes a Revenue assessment, the officer shall give notice (in this Act referred to as a “notice of assessment”), to the liable person, or to the person who the Revenue officer has reason to believe is a liable person, of the assessment and the time allowed to the person for giving notice of appeal against the assessment.
+
+(2) The notice referred to in *subsection (1)* may include—
+
+(*a*) the chargeable value of the relevant residential property to which the assessment relates,
+
+(*b*) the local property tax payable by the liable person, or the person who the Revenue officer has reason to believe is a liable person, or the balance of any local property tax payable by, or repayable to, that person, as the case may be, and
+
+(*c*) the name of the Revenue officer who is giving the notice and the address of the Revenue office at which that officer is based.
+
+(3) The Revenue Commissioners shall keep a record of each Revenue assessment made.
+
+F118[(4) In any proceedings for the recovery of local property tax, a statement signed by a Revenue officer that a Revenue assessment was made and setting out the details of the assessment as recorded by the Revenue Commissioners shall be evidence of that assessment until the contrary is proved.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F118: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(f), commenced on enactment.
+
+### 57. Amendment of a Revenue assessment.
+
+**57**.— (1) Subject to *section 58(1)* and *(2)*, a Revenue officer may at any time amend a Revenue assessment as the officer considers necessary, notwithstanding that local property tax may have been paid or repaid in respect of the assessment and notwithstanding that the officer may have amended the assessment on a previous occasion.
+
+(2) The Revenue officer shall notify the liable person, or the person who the Revenue officer has reason to believe is a liable person, of the assessment as amended under *subsection (1)*.
+
+(3) The provisions of this Part F119[and of *Parts 9*, *11* and *14*] shall, with any necessary modifications, apply in like manner to an amended assessment and a notice of amended assessment as they apply to an assessment and a notice of assessment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F119: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(g), commenced on enactment.
+
+### 58. Time limits for making assessments.
+
+**58**.— (1) A Revenue assessment may not be made before the relevant return date unless a liable person has delivered a return before that date.
+
+(2) Where a liable person has delivered a return which contains a full and true disclosure of all matters necessary for the establishment of the correct liability to local property tax—
+
+(*a*) a Revenue assessment shall not be made,
+
+(*b*) no additional local property tax shall be payable, and
+
+(*c*) no local property tax shall be repaid,
+
+after the end of 4 years commencing on 1 January following the year in which the relevant liability date falls, by reason of any matter contained in the return.
+
+(3) An objection to the making of a Revenue assessment on the grounds that the time limited for the making of the assessment has expired shall be made only on appeal against the assessment within the time allowed to the liable person for giving notice of appeal against the assessment.
+
+(4) Nothing in this section prevents a Revenue officer from, at any time, amending a Revenue assessment—
+
+(*a*) where a return does not contain a full and true disclosure of the facts referred to in *subsection (2)*,
+
+(*b*) to give effect to the determination of an appeal against the Revenue assessment, or
+
+(*c*) to correct an error in calculation,
+
+and local property tax shall be paid or repaid where appropriate in accordance with any such amendment, notwithstanding *section 26*.
+
+### 59. Appeals against Revenue assessments.
+
+**59**.— F120[(1) F121[Subject to *subsections (1A)* and *(2)*,], a person aggrieved by a Revenue assessment made on that person may appeal the assessment to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notice of assessment.]
+
+F122[(1A) Notwithstanding *subsection (1)*—
+
+(*a*) where the reason that a person is aggrieved by a Revenue assessment made on that person relates to the chargeable value assigned by a Revenue officer to a relevant residential property, the person may appeal the assessment in the manner prescribed by *section 33* (as amended by the Property Values (Arbitrations and Appeals) Act 1960 ) of the Finance (1909-1910) Act 1910, and so much of Part I of that Act as relates to appeals shall apply to an appeal under this subsection, and
+
+(*b*) no appeal shall lie under *subsection (1)* on any question relating to the chargeable value assigned by a Revenue officer to a relevant residential property.]
+
+(2) A liable person F123[may not appeal under *subsection (1)* or *(1A)*] until such time as the liable person has prepared and delivered the relevant return and paid the amount of local property tax contained in the self-assessment.
+
+F120[(3) In default of an appeal, F124[in accordance with *subsection (1)* or *(1A)*], being made by a person to whom a notice of assessment has been given, the assessment made on the person shall be final and conclusive.]
+
+(4) F125[...]
+
+(5) F126[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F120: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(d) (i), (ii), S.I. No. 110 of 2016.
+>
+> F121: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 35(a), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(f).
+>
+> F122: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 35(b), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by s. 3(f).
+>
+> F123, F124: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) (Act) 2021* (31.2021), s. 35(c), (d), commenced on enactment. These amendments apply only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(f).
+>
+> F125: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 9(h), commenced on enactment.
+>
+> F126: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(d) (iii), S.I. No. 110 of 2016.
+
+### 60. Claim that person not a liable person.
+
+**60**.— Where a person who has been given a notice of assessment considers that he or she is not a liable person, that person shall be treated as if he or she had been required by notice by the Revenue Commissioners under *section 33(1)* to prepare and deliver a return and *section 34(3)* and the other provisions of *Part 7* shall apply accordingly as if the date referred to in *section 34(3)* were the date of the notice of assessment.
+
+## PART 9 Appeals — PART 9 — Appeals
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E29: Prospective affecting provision: taxation appeals governed by *Taxes Consolidation Act 1997* (39/1997), Part 40A as inserted by *Finance (Tax Appeals) Act 2015* (59/2015), s. 34, not commenced as of date of revision.
+
+### 61. Appeals against Revenue assessments.
+
+**61**.—F127[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(e), S.I. No. 110 of 2016.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: section amended (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 10(a), commenced on enactment; section deleted as per F-note above.
+
+### 62. Application and modification of Part 40 of the Act of 1997.
+
+**62**.— F128[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(e), S.I. No. 110 of 2016.
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: section amended (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 10(b), commenced on enactment; section deleted as per F-note above.
+
+### 63. Power to issue precepts.
+
+**63**.— F129[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F129: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(e), S.I. No. 110 of 2016.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: para. (a) substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 10(c), commenced on enactment; section deleted as per F-note above.
+
+## PART 10 Deduction at Source — PART 10 — Deduction at Source
+
+### Chapter 1 Deduction by employers and pension providers — Chapter 1 — Deduction by employers and pension providers
+
+#### 64. Interpretation (Chapter 1).
+
+**64**.— In this Chapter—
+
+F130["Income Tax Regulations" means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);]
+
+“emoluments” has the same meaning as in section 983 of the Act of 1997;
+
+“employer” has the same meaning as in section 983 of the Act of 1997;
+
+“net emoluments” means emoluments (less allowable contributions (within the meaning of F131[Regulation 31 of the Income Tax Regulations])) after the deduction in accordance with—
+
+F131[(*a*) the Income Tax Regulations, of income tax,]
+
+F132[(*b*) the Social Welfare (Consolidated Contributions and Insurability) Regulations 1996 (S.I. No. 312 of 1996), of a contribution within the meaning of those Regulations,
+
+(*c*) Part 18D of the Act of 1997, of universal social charge, and
+
+(*d*) an order of a court where such order is made before the date on which a direction is given to an employer by the Revenue Commissioners under *section 65*, of any amount required to be deducted by the order,
+
+and shall include the amount of any deduction that is referred to in *paragraph (a)*, *(b)* or *(c)* of this definition that an employer repays to a liable person after the deduction F131[has been made.]]
+
+F133[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F130: Inserted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 29(a), commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+>
+> F131: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 29(b) (i)-(iii), commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+>
+> F132: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(a), commenced on enactment.
+>
+> F133: Deleted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 29(c), commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 65. Direction to employer to deduct local property tax.
+
+**65**.— (1) Where a liable person is in receipt of emoluments and *section 66* or *68* applies, the Revenue Commissioners may direct an employer to deduct, in a period specified in the direction, local property tax payable by the liable person from the net emoluments payable to the liable person by the employer.
+
+(2) Subject to *subsection (3)*, where a liable person changes employment after the Revenue Commissioners have given a direction under *subsection (1)*, they may direct the new employer to deduct any balance of local property tax payable by the liable person from the net emoluments payable to the liable person by the new employer.
+
+(3) *Subsection (2)* shall not apply where the liable person notifies the Revenue Commissioners that he or she no longer wishes to have local property tax deducted from his or her net emoluments and where this occurs, *section 71* shall apply accordingly.
+
+(4) Any obligation on the Revenue Commissioners to maintain secrecy or any other restriction on the disclosure of information by the Revenue Commissioners shall not apply in relation to a direction given under this section or under *section 70*.
+
+#### 66. Circumstances in which local property tax to be deducted.
+
+**66**.— This section applies where a liable person—
+
+(*a*) elects in a return to have the local property tax payable by the liable person deducted by his or her employer from his or her net emoluments,
+
+(*b*) does not deliver a return which contains an election for a specified method of payment,
+
+(*c*) elects in a return for a specified method of payment other than deduction from net emoluments but defaults in making payment by that method, or
+
+(*d*) agrees with the Revenue Commissioners that his or her employer deduct the local property tax contained in a Revenue assessment from his or her net emoluments.
+
+#### 67. Notification to liable person that direction given to employer.
+
+**67**.— F134[Where *section 66* applies by virtue of *paragraph (b)* or *(c)* of that section,] the Revenue Commissioners shall notify the liable person concerned that they have given a direction under *section 65*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F134: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(b), commenced on enactment.
+
+#### 68. Deduction by employer in subsequent periods.
+
+**68**.— This section applies where a liable person elects in a return to have local property tax deducted by the liable person’s employer from his or her net emoluments and—
+
+(*a*) local property tax is due and payable by the liable person in relation to a liability date following that to which the return relates,
+
+(*b*) the liable person is not required to deliver a return in relation to the liability date referred to in *paragraph (a)*, and
+
+(*c*) the liable person does not notify the Revenue Commissioners that he or she wishes to pay local property tax by a method of payment other than by deduction by his or her employer.
+
+#### 69. Amount of local property tax to be deducted.
+
+**69**. —F135[(1) Subject to *subsection (2)*, the amount of local property tax that the Revenue Commissioners direct an employer to deduct from a liable person’s net emoluments—
+
+(*a*) shall, if *section 66* applies, be—
+
+(i) where that section applies by virtue of *paragraph (a)* or *(d)* of it, the amount that the liable person elects or agrees, as the case may be, to have deducted from his or her net emoluments,
+
+(ii) where that section applies by virtue of *paragraph (b)* of it—
+
+(I) the amount of the self-assessment, where a self-assessment is made, or
+
+(II) the Revenue estimate, where it is due and payable in accordance with *section 49*,
+
+and
+
+(iii) where that section applies by virtue of *paragraph (c)* of it, the amount that has not yet been paid at the time of the default,
+
+or
+
+(*b*) shall, if *section 68* applies, be the amount that the liable person elects or agrees, as the case may be, to have deducted from his or her net emoluments.]
+
+(2) Notwithstanding *subsection (1)*, the local property tax that the Revenue Commissioners direct an employer to deduct from a liable person’s net emoluments—
+
+(*a*) may include any local property tax that is unpaid at the date immediately preceding the beginning of the period specified in the direction as referred to in *section 65*,
+
+(*b*) may include any interest payable under *section 149*, and
+
+(*c*) shall take account of any payments already made in respect of the local property tax payable.
+
+(3) F136[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F135: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(c), commenced on enactment.
+>
+> F136: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(d), commenced on enactment.
+
+#### 70. Revised direction to employer.
+
+**70**.— The Revenue Commissioners may give a revised direction to an employer under *section 65* where—
+
+(*a*) a liable person pays some or all of the local property tax contained in a previous direction other than by deduction by his or her employer from the person’s net emoluments,
+
+(*b*) a liable person ceases to receive emoluments from the employer to whom a previous direction was given,
+
+(*c*) a liable person claims a deferral in accordance with *Part 12*,
+
+(*d*) a Revenue officer is satisfied that the amount of local property tax contained in a previous direction is not the amount which ought to be payable by the liable person, or
+
+(*e*) a liable person delivers a return which includes a self-assessment of a different amount of local property tax to the amount contained in a previous direction,
+
+and the revised direction shall replace any previous direction given to the employer in respect of the liable person and a liability date.
+
+#### 71. Withdrawal of direction on request from liable person.
+
+**71**.— (1) Subject to *subsections (2)* and *(3)*, where a liable person notifies the Revenue Commissioners that he or she no longer wishes to have local property tax deducted from his or her net emoluments, the Revenue Commissioners shall direct the liable person’s employer not to make any further deductions from the liable person’s net emoluments.
+
+(2) *Subsection (1)* shall not apply—
+
+(*a*) where a liable person does not agree an alternative method of payment with the Revenue Commissioners, or
+
+(*b*) where such an alternative method is so agreed but the liable person has not delivered a true and complete return to the Revenue Commissioners, unless and until the liable person delivers a true and complete return to them.
+
+(3) *Subsection (1)* shall not apply where it appears to the Revenue Commissioners that to act in accordance with that subsection would adversely affect the timely collection of local property tax.
+
+#### 72. Deduction by employer.
+
+**72**.— (1) An employer who is directed by the Revenue Commissioners under *section 65* to deduct local property tax from a liable person’s net emoluments shall do so at a time and frequency which corresponds with the payment of the liable person’s emoluments.
+
+(2) To the extent that there are not, in the period specified in the direction concerned, sufficient net emoluments paid to the liable person to meet the whole amount of local property tax concerned, this section shall be read as only being applicable to the portion of that amount of local property tax that can be met by deductions in those circumstances and *section 74* shall be read accordingly, but this subsection is without prejudice to *sections 70* and *76*.
+
+(3) On any payment of net emoluments to or on behalf of a liable person, the employer shall deduct local property tax in accordance with *subsection (4)*.
+
+(4) Subject to *subsection (5)*, the amount of local property tax to be deducted from a liable person’s net emoluments on each payday is the amount determined by the following formula:
+
+A/B,
+
+where—
+
+A is the amount of local property tax contained in the direction given under *section 65*, and
+
+B is the number of paydays between the date on which the direction under *section 65* is given and the end of the period for which that direction is given.
+
+(5) Where an employer is unable to deduct the amount of local property tax determined by the formula in *subsection (4)* because of an insufficiency of net emoluments made to a liable person on a particular payday, the employer shall—
+
+(*a*) make up any under-deduction from net emoluments to be paid to the liable person later in the period specified in the direction as soon as is practicable, and
+
+(*b*) notify the Revenue Commissioners that he or she was unable to deduct the required amount of local property tax and the notification shall specify the amount of local property tax that was not deducted.
+
+(6) Where an employer is unable to make up the amount of any under-deduction referred to in *subsection (5)* before the end of the period specified in the direction, the employer shall notify the Revenue Commissioners accordingly as soon as he or she becomes aware of this.
+
+#### 73. Cessation of employment.
+
+**73**.— F137[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F137: Repealed (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 30, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 74. Payment of local property tax deducted by employer.
+
+F138[**74.** (1) Subject to *section 72(1)*, an employer shall be accountable for the amount of local property tax deductible, and shall be liable to remit that amount to the Revenue Commissioners, as if it were an amount of income tax deductible in accordance with Chapter 4 of Part 42 of the Act of 1997 and the Income Tax Regulations.
+
+(2) An employer shall remit to the Collector-General the amount of local property tax which the employer is directed under *section 65* to deduct and the remittance shall be made at the same time and in the same manner as the remittance of income tax which the employer is required to make under section 985G(3) (b) of the Act of 1997.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F138: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 31, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 75. Failure by employer to remit local property tax.
+
+**75**.—F139[(1) Without prejudice to any action which may be taken under *section 76*, where an employer who was liable to remit an amount of local property tax in accordance with *section 74*, which amount was to be determined in accordance with *section 72(4)*, failed to remit this amount and—
+
+(*a*) did not notify the Revenue Commissioners in accordance with *section 72(5) (b)*, or
+
+(*b*) notified the Revenue Commissioners in accordance with *section 72(5) (b)*, but remitted a lesser amount than the amount specified in the notification,
+
+the revenue commissioners may give notice to the employer of the amount which the employer failed to remit.]
+
+(2) A notice given to an employer under *subsection (1)* shall be treated as a demand for payment by the Collector-General under section 960E(2) of the Act of 1997 (as applied by *section 120*) and *subsection (3)* of that section 960E shall apply accordingly.
+
+(3) A notice given under *subsection (1)* may relate to local property tax that should have been remitted for any part, or for all, of the period specified in the direction given under *section 65*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 32, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 76. Under-deduction of local property tax by employer.
+
+**76**.— Where an employer who has been given a direction under *section 65* does not deduct the amount of local property tax contained in the direction before the end of the period specified in the direction—
+
+(*a*) the amount not deducted may be included in any direction given to the employer in respect of a liable person for a subsequent period, or
+
+(*b*) the Revenue Commissioners may agree an alternative method of payment with the liable person.
+
+#### 77. Over-deduction of local property tax by employer.
+
+**77**.— Subject to section 960H of the Act of 1997 (as applied by *section 120*) and *section 26*, where the amount of local property tax deducted by an employer from a liable person’s net emoluments in the period specified in the direction given under *section 65* exceeds the amount which the employer is liable to remit to the Collector-General under *section 74*, the Revenue Commissioners shall repay the excess to the liable person.
+
+#### 78. Deduction from net emoluments of certain company directors.
+
+**78**.— Where a liable person has a material interest in a company (within the meaning of section 997A of the Act of 1997), that section F140[...] shall apply as if, in subsections (3) to (6) and (8)—
+
+(*a*) the reference to tax were a reference to local property tax, and
+
+(*b*) the reference to emoluments were a reference to net emoluments,
+
+and as if, in *subsection (3)*, the reference to an assessment raised on a person were a reference to a Revenue estimate, a self-assessment or a Revenue assessment, as the case may be, made under *Part 8* .
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(e), commenced on enactment.
+
+#### 78A. Notification by employer
+
+F141[**78A.** On or before the making of a payment by an employer of any emoluments to a liable person in respect of whom the employer was given a direction under *section 65*, the employer shall notify the Revenue Commissioners of—
+
+(*a*) the name and personal public service number of the liable person,
+
+(*b*) the date of payment of the emoluments, and
+
+(*c*) the total amount of local property tax deductible from the emoluments.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Inserted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 33, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+>
+> **Editorial Notes:**
+>
+> E33: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 79. Return by employer at end of year.
+
+F142[**79.** (1) In this section, "filing date", in relation to a month, means the day that is 15 days from the last day of the month.
+
+(2) An employer shall, on or before the filing date of a month, send to the Revenue Commissioners, in relation to a liable person in respect of whom the employer was given a direction under *section 65*, a declaration specifying the total local property tax deducted in respect of the month.
+
+(3) Where the Revenue Commissioners issue a statement to an employer which sets out, in summary form in respect of a month, the total amount of local property tax deducted by the employer, the details of the statement shall on the filing date of the month, or, where the statement is issued after the filing date of the month, on the later date, be deemed to be a declaration made by the employer in respect of that month for the purposes of *subsection (2)*.
+
+(4) *Subsection (3)* shall not apply where a statement referred to in that subsection is issued to an employer and the details on the statement do not accurately reflect the liability of the employer under *section 74(1)*.
+
+(5) Where *subsection (4)* applies, the employer concerned shall ensure that the liability of the employer under *section 74(1)* in respect of the month concerned is accurately reflected in the declaration required under *subsection (2)* in respect of the month concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 34, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 80. End of year statement of deductions to be given to a liable person.
+
+**80**.— F143[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F143: Repealed (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 35, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+#### 81. Employer to keep records.
+
+**81**.— (1) An employer who has been given a direction under *section 65* shall keep records in relation to—
+
+(*a*) the payment of net emoluments to the liable person in respect of whom the direction was given,
+
+(*b*) the deduction of local property tax from the liable person’s net emoluments, and
+
+(*c*) the remittance of local property tax deducted to the Revenue Commissioners.
+
+(2) An employer—
+
+(*a*) shall retain the records referred to in *subsection (1)* for a period of 6 years from the end of the year to which they relate, and
+
+(*b*) shall produce those records for inspection to a Revenue officer where the officer requests the employer to do so under section 903 (as applied by *Part 13* ) of the Act of 1997.
+
+#### 82. Employer treated as if net emoluments paid to a liable person.
+
+**82**.— Where an amount of local property tax is, in accordance with this Chapter, deducted by an employer from the net emoluments paid to a liable person, the employer shall be acquitted and discharged of such amount as is represented by the deduction, as if the amount had actually been paid to the liable person.
+
+### Chapter 2 Deduction by Minister for Social Protection — Chapter 2 — Deduction by Minister for Social Protection
+
+#### 83. Interpretation (Chapter 2).
+
+**83**.— In this Chapter—
+
+“Act of 2005” means the Social Welfare Consolidation Act 2005;
+
+“Minister” means the Minister for Social Protection;
+
+“net scheme payments” means the amount payable under a scheme to a liable person by the Minister—
+
+(*a*) after any deduction is made in accordance with section 341(7) of the Act of 2005, and
+
+(*b*) after any amounts required to be deducted by an order of a court,
+
+other than any amounts specified in columns (3) to (8) of Part 1 of Schedule 2 to the Act of 2005 or columns (3) to (8) of Part 1 of Schedule 4 to that Act;
+
+“scheme” means the provisions of the Act of 2005 providing for such benefits described in section 39 of the Act of 2005 or such assistance described in section 139 of that Act, (as the case may be), as are specified for the purposes of this definition by the Revenue Commissioners with the consent of the Minister.
+
+#### 84. Direction to Minister to deduct local property tax.
+
+**84**.— (1) Where a liable person is in receipt of net scheme payments and *section 85* or *88* applies, the Revenue Commissioners may direct the Minister to deduct local property tax payable by a liable person from the net scheme payments payable to the liable person by the Minister.
+
+(2) Where a liable person receives payments in respect of more than one scheme, a direction under *subsection (1)* shall only be given in relation to a single scheme.
+
+(3) A direction given under *subsection (1)* shall specify—
+
+(*a*) the start date and the end date of the period in which the Minister is to deduct local property tax from the net scheme payments to be paid to a liable person, and
+
+(*b*) the amount of local property tax that the Minister is required to deduct from each payment of net scheme payments.
+
+(4) Any obligation on the Revenue Commissioners to maintain secrecy or any other restriction on the disclosure of information by the Revenue Commissioners shall not apply in relation to a direction given under this section or under *section 91*.
+
+#### 85. Circumstances in which direction to deduct local property tax may be given.
+
+**85**.— This section applies where a liable person—
+
+(*a*) elects in a return to have the local property tax payable by that liable person deducted by the Minister from his or her net scheme payments, or
+
+(*b*) the circumstances referred to in *paragraph (b)*, *(c)* or *(d)* of *section 66* apply (and for the purpose of this paragraph, the reference in *section 66(d)* to the employer shall be read as a reference to the Minister and references in any of those paragraphs of *section 66* to net emoluments shall be read as references to net scheme payments).
+
+#### 86. Election for specified method of payment.
+
+**86**.— (1) Subject to *subsection (2)*, where a liable person elects in a return for a specified scheme in respect of which the Minister may deduct local property tax, a direction given by the Revenue Commissioners under *section 84* shall be in respect of that scheme.
+
+(2) Notwithstanding *subsection (1)*, where it appears to the Revenue Commissioners that to act in accordance with that subsection would adversely affect the timely collection of local property tax, they may—
+
+(*a*) give a direction in respect of a scheme other than the scheme referred to in *subsection (1)*, or
+
+(*b*) select a method of payment other than deduction from net scheme payments by the Minister.
+
+#### 87. Notification to liable person that direction given to Minister.
+
+**87**.— F144[Where *section 85* applies by virtue of *paragraph (b)* of that section], the Revenue Commissioners shall notify the liable person concerned that they have given a direction under *section 84.*
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(f), commenced on enactment.
+
+#### 88. Deduction by Minister in subsequent periods.
+
+**88**.— This section applies where a liable person elects in a return to have local property tax deducted by the Minister from his or her net scheme payments and—
+
+(*a*) local property tax is due and payable by the liable person in relation to a liability date following that to which the return relates,
+
+(*b*) the liable person is not required to deliver a return in relation to the liability date referred to in *paragraph (a)*, and
+
+(*c*) the liable person does not notify the Revenue Commissioners that he or she wishes to pay local property tax by a method of payment other than by deduction by the Minister from his or her net scheme payments.
+
+#### 89. Withdrawal of direction on request from liable person.
+
+**89**.— (1) Subject to *subsections (2)* and *(3)*, where a liable person notifies the Revenue Commissioners that he or she no longer wishes to have local property tax deducted from his or her net scheme payments, the Revenue Commissioners shall direct the Minister not to make any further deductions from the liable person’s net scheme payments.
+
+(2) *Subsection (1)* shall not apply—
+
+(*a*) where a liable person does not agree an alternative method of payment with the Revenue Commissioners, or
+
+(*b*) where such an alternative method is so agreed but the liable person has not delivered a true and complete return to the Revenue Commissioners, unless and until the liable person delivers a true and complete return to them.
+
+(3) *Subsection (1)* shall not apply where it appears to the Revenue Commissioners that to act in accordance with that subsection would adversely affect the timely collection of local property tax.
+
+#### 90. Amount of local property tax to be deducted.
+
+**90**.— The total local property tax that the Revenue Commissioners may direct the Minister to deduct from a liable person’s net scheme payments in accordance with *section 84* shall be determined in accordance with *section 69* but as if—
+
+(*a*) any reference to emoluments in that section were a reference to scheme payments, and
+
+(*b*) the reference in *subsection (3)* of *section 69*—
+
+(i) to *paragraph (a)* of *section 66* were a reference to *paragraph (a)* of *section 85*, and
+
+(ii) to *section 68* were a reference to *section 88*.
+
+#### 91. Revised direction to Minister.
+
+**91**.— (1) *Section 70* shall apply for the purposes of this Chapter as it applies for the purposes of *Chapter 1* but with the substitution of references to scheme payments for references to emoluments and of references to the Minister for references to the employer.
+
+(2) A revised direction given under *section 70* (as applied by *subsection (1)*) shall replace any previous direction given to the Minister in respect of the liable person and a liability date.
+
+#### 92. Deduction by Minister.
+
+**92**.— (1) Subject to *subsection (2)*, the Minister shall, when given a direction by the Revenue Commissioners under *section 84* or *91*, as the case may be, deduct local property tax from the net scheme payments paid to, or on behalf of, the liable person concerned.
+
+(2) Notwithstanding *subsection (1)*, the Minister shall only be obliged to deduct the amount of local property tax contained in a direction given under *section 84* or *91* to the extent that the deduction does not have the effect of reducing the net scheme payments below the amount specified in column (2) of Part 1 of Schedule 4 to the Act of 2005 that corresponds to item 10(*a*) of column (1) of that Part of that Schedule.
+
+(3) Where the Minister is unable to deduct the amount of local property tax specified in the direction given under *section 84* or *91*, he or she shall notify the Revenue Commissioners accordingly.
+
+#### 93. Remittance of local property tax deducted by the Minister to the Revenue Commissioners.
+
+**93**.— (1) The Minister shall be accountable to the Revenue Commissioners for the amount of local property tax deductible from net scheme payments payable to a liable person.
+
+(2) Subject to *subsection (3)*, local property tax deducted by the Minister shall be remitted to the Revenue Commissioners at the time and in the form and manner agreed between the Revenue Commissioners and the Minister.
+
+(3) Subject to any arrangements that may be agreed between the Revenue Commissioners and the Minister, local property tax deducted in any month shall be remitted to the Revenue Commissioners within 7 days after such deduction.
+
+#### 94. Information to be provided to the Revenue Commissioners.
+
+**94**.— The Minister shall send to the Revenue Commissioners particulars in relation to local property tax deducted from the net scheme payments paid to a liable person, which particulars shall be specified by, and sent at the time and in the form and manner agreed between the Revenue Commissioners and the Minister.
+
+#### 95. Cessation of scheme payments.
+
+**95**.— Where a liable person, in respect of whom a direction has been given to the Minister under *section 84*, ceases to receive scheme payments during the period referred to in *section 84(3)*, the Minister shall notify the Revenue Commissioners accordingly.
+
+#### 96. Under-deduction of local property tax by Minister.
+
+**96**.— (1) Where the Minister has been given a direction under *section 84* or *91,* as the case may be, and does not deduct the amount of local property tax contained in the direction before the end of the period specified in the direction—
+
+(*a*) the amount not deducted may be included in any direction given by the Revenue Commissioners to the Minister in respect of the liable person concerned in a period following the first-mentioned period, or
+
+(*b*) the Revenue Commissioners may agree an alternative method of payment with the liable person.
+
+(2) Where the circumstances referred to in *subsection (1)* arise in consequence of which *paragraphs (a)* and *(b)* of that subsection apply, the Minister shall notify the Revenue Commissioners accordingly.
+
+#### 97. Over-deduction of local property tax by Minister.
+
+**97**.— Subject to section 960H of the Act of 1997 (as applied by *section 120*) and *section 26*, where the amount of the local property tax deducted by the Minister from a liable person’s net scheme payments in the period specified in the direction given under *section 84(3)* exceeds the amount which the Minister was directed to deduct under *section 84* or *91*, as the case may be, the Revenue Commissioners shall repay the excess to the liable person.
+
+#### 98. Statement of deductions.
+
+**98**.— Where the Minister deducts local property tax from a liable person’s net scheme payments during the period specified in the direction given under *section 84* or *91*, a liable person may request at the end of that period a statement showing the total local property tax deducted from the person’s net scheme payments, and the Minister shall comply with such a request.
+
+#### 99. Minister to keep records.
+
+**99**.— (1) Where the Minister has been given a direction under *section 84* or *91*, as the case may be, he or she shall keep records in relation to—
+
+(*a*) the payment of net scheme payments to the liable person in respect of whom the direction was given,
+
+(*b*) the local property tax deducted from the liable person’s net scheme payments, and
+
+(*c*) the remittance of local property tax to the Revenue Commissioners.
+
+(2) The Minister—
+
+(*a*) shall retain the records referred to in *subsection (1)* for a period of 6 years from the end of the year to which they relate, and
+
+(*b*) shall produce those records for inspection to a Revenue officer where the officer requests the Minister to do so under section 903 (as applied by *Part 13* ) of the Act of 1997.
+
+#### 100. Minister treated as if net scheme payments paid to a liable person.
+
+**100**.— Where an amount of local property tax is, in accordance with this Chapter, deducted by the Minister from the net scheme payments paid to a liable person the Minister shall be acquitted and discharged of such amount as is represented by the deduction, as if the amount had actually been paid to the liable person.
+
+### Chapter 3 Deduction by Minister for Agriculture, Food and the Marine — Chapter 3 — Deduction by Minister for Agriculture, Food and the Marine
+
+#### 101. Interpretation (Chapter 3).
+
+**101**.— In this Chapter—
+
+“Minister” means the Minister for Agriculture, Food and the Marine;
+
+“net scheme payments” means payments made under a scheme after the deduction of any debt which may be due to the Minister by a liable person and any amounts required to be deducted by an order of a court where such order is made before the date on which a direction is given to the Minister by the Revenue Commissioners under *section 102*;
+
+“scheme” means such of the schemes specified in the Schedule to the Agriculture Appeals Act 2001 (being schemes in respect of which the Minister makes payments to liable persons) as are specified for the purposes of this definition by the Revenue Commissioners with the consent of the Minister.
+
+#### 102. Direction to Minister to deduct local property tax.
+
+**102**.— (1) Where a liable person is in receipt of net scheme payments and where *section 103* or *106* applies, the Revenue Commissioners may direct the Minister to deduct, in a period specified in the direction, local property tax payable by a liable person from the net scheme payments payable to the liable person by the Minister.
+
+(2) Any obligation on the Revenue Commissioners to maintain secrecy or any other restriction on the disclosure of information by the Revenue Commissioners shall not apply in relation to a direction given under this section or under *section 109*.
+
+#### 103. Circumstances in which direction to deduct local property tax may be given.
+
+**103**.— This section applies where a liable person—
+
+(*a*) elects in a return to have the local property tax payable by that liable person deducted by the Minister from his or her net scheme payments, or
+
+(*b*) the circumstances referred to in *paragraph (b)*, *(c)* or *(d)* of *section 66* apply (and for the purposes of this paragraph, the reference in *section 66(d)* to the employer shall be read as a reference to the Minister and references in any of those paragraphs of *section 66* to net emoluments shall be read as references to net scheme payments).
+
+#### 104. Election for specified method of payment.
+
+**104**.— (1) Subject to *subsection (2)*, the Revenue Commissioners shall give the Minister a direction under *section 102* where a liable person elects in a return for deduction of local property tax by the Minister from the liable person’s net scheme payments.
+
+(2) Notwithstanding *subsection (1)*, where it appears to the Revenue Commissioners that to act in accordance with that subsection would adversely affect the timely collection of local property tax, they may select a method of payment other than deduction from net scheme payments by the Minister.
+
+#### 105. Notification to liable person that direction given to Minister.
+
+**105**.— F145[Where *section 103* applies by virtue of *paragraph (b)* of that section], the Revenue Commissioners shall notify the liable person concerned that they have given a direction under *section 102.*
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F145: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 11(g), commenced on enactment.
+
+#### 106. Deduction by Minister in subsequent periods.
+
+**106**.— This section applies where a liable person elects in a return to have local property tax deducted by the Minister from his or her net scheme payments and—
+
+(*a*) local property tax is due and payable by the liable person in relation to a liability date following that to which the return relates,
+
+(*b*) the liable person is not required to deliver a return in relation to the liability date referred to in *paragraph (a)*, and
+
+(*c*) the liable person does not notify the Revenue Commissioners that he or she wishes to pay local property tax by a method of payment other than by deduction by the Minister from his or her net scheme payments.
+
+#### 107. Withdrawal of direction on request from liable person.
+
+**107**.— (1) Subject to *subsections (2)* and *(3)*, where a liable person notifies the Revenue Commissioners that he or she no longer wishes to have local property tax deducted from his or her net scheme payments, the Revenue Commissioners shall direct the Minister not to make any further deductions from the liable person’s net scheme payments.
+
+(2) *Subsection (1)* shall not apply—
+
+(*a*) where a liable person does not agree an alternative method of payment with the Revenue Commissioners, or
+
+(*b*) where such an alternative method is so agreed but the liable person has not delivered a true and complete return to the Revenue Commissioners, unless and until the liable person delivers a true and complete return to them.
+
+(3) *Subsection (1)* shall not apply where it appears to the Revenue Commissioners that to act in accordance with that subsection would adversely affect the timely collection of local property tax.
+
+#### 108. Amount of local property tax to be deducted.
+
+**108**.— The total local property tax that the Revenue Commissioners may direct the Minister to deduct from a liable person’s net scheme payments in accordance with *section 102* shall be determined in accordance with *section 69* but as if—
+
+(*a*) any reference to emoluments in that section were a reference to scheme payments, and
+
+(*b*) the reference in *subsection (3)* of *section 69—*
+
+(i) to *paragraph (a)* of *section 66* were a reference to *paragraph (a)* of *section 103*, and
+
+(ii) to *section 68* were a reference to *section 106*.
+
+#### 109. Revised direction to Minister.
+
+**109**.— (1) *Section 70* shall apply for the purposes of this Chapter as it applies for the purposes of *Chapter 1* but with the substitution of references to scheme payments for references to emoluments and of references to the Minister for references to the employer.
+
+(2) A revised direction given under *section 70* (as applied by *subsection (1)*) shall replace any previous direction given to the Minister in respect of the liable person and a liability date.
+
+(3) Notwithstanding that a revised direction is given, for the purposes of the definition of “net scheme payments” in *section 101*, the revised direction shall, unless it provides for a greater amount of local property tax to be deducted, be deemed to have been given on the date on which the direction it replaces was given.
+
+#### 110. Deduction by Minister.
+
+**110**.— (1) The Minister shall, when given a direction by the Revenue Commissioners under *section 102* or *109*, as the case may be, deduct local property tax from the net scheme payments paid to, or on behalf of, a liable person.
+
+(2) To the extent that there are not, in the period specified in the direction concerned, sufficient net scheme payments paid to the liable person to meet the whole amount of local property tax concerned, this section shall be read as only being applicable to the portion of that amount of local property tax that can be met by deductions in those circumstances and *section 111* shall be read accordingly.
+
+#### 111. Remittance of local property tax deducted by the Minister to the Revenue Commissioners.
+
+**111**.— (1) The Minister shall be accountable to the Revenue Commissioners for the amount of local property tax deductible from net scheme payments payable to a liable person.
+
+(2) Subject to *subsection (3)*, local property tax deducted by the Minister shall be remitted to the Revenue Commissioners at the time and in the manner agreed between the Revenue Commissioners and the Minister.
+
+(3) Subject to any arrangements that may be agreed between the Revenue Commissioners and the Minister, local property tax deducted in any month shall be remitted to the Revenue Commissioners within 7 days after such deduction.
+
+#### 112. Information to be provided to the Revenue Commissioners.
+
+**112**.— The Minister shall send to the Revenue Commissioners particulars in relation to local property tax deducted from the net scheme payments paid to a liable person, which particulars shall be specified by, and sent at the time and in the manner agreed between the Revenue Commissioners and the Minister.
+
+#### 113. Under-deduction of local property tax by Minister.
+
+**113**.— (1) Where the Minister has been given a direction under *section 102* or *109,* as the case may be, and does not deduct the amount of local property tax contained in the direction before the end of the period specified in the direction—
+
+(*a*) the amount not deducted may be included in any direction given by the Revenue Commissioners to the Minister in respect of the liable person concerned in a period following the first-mentioned period,
+
+(*b*) the Revenue Commissioners may agree an alternative method of payment with the liable person, or
+
+(*c*) in the absence of the direction referred to in *paragraph (a)* or a notification from the Revenue Commissioners that they F146[have agreed an alternative method of payment with the liable person], the amount not deducted shall be deducted by the Minister from a liable person’s net scheme payments in the period following the first-mentioned period.
+
+(2) Where the circumstances referred to in *subsection (1)* arise in consequence of which *paragraphs (a)* and *(b)* of that subsection apply, the Minister shall notify the Revenue Commissioners accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 16(e), commenced on enactment.
+
+#### 114. Over-deduction of local property tax by Minister.
+
+**114**.— Subject to section 960H of the Act of 1997 (as applied by *section 120*) and *section 26*, where the amount of the local property tax deducted by the Minister from a liable person’s net scheme payments in the period specified in the direction given under *section 102* exceeds the amount which the Minister was directed to deduct under *section 102* or *109*, as the case may be, the Revenue Commissioners shall repay the excess to the liable person.
+
+#### 115. Statement of deductions.
+
+**115**.— The Minister shall, after the end of the year concerned, give every liable person from whose net scheme payments local property tax was deducted during that year, a statement showing, in respect of that year, the total local property tax deducted from the person’s net scheme payments.
+
+#### 116. Minister to keep records.
+
+**116**.— (1) Where the Minister has been given a direction under *section 102* or *109*, as the case may be, he or she shall keep records in relation to—
+
+(*a*) the payment of net scheme payments to the liable person in respect of whom the direction was given,
+
+(*b*) the local property tax deducted from the liable person’s net scheme payments, and
+
+(*c*) the remittance of local property tax to the Revenue Commissioners.
+
+(2) The Minister—
+
+(*a*) shall retain the records referred to in *subsection (1)* for a period of 6 years from the end of the year to which they relate, and
+
+(*b*) shall produce those records for inspection to a Revenue officer where the officer requests the Minister to do so under section 903 (as applied by *Part 13*) of the Act of 1997.
+
+#### 117. Minister treated as if net scheme payments paid to a liable person.
+
+**117**.— Where an amount of local property tax is, in accordance with this Chapter, deducted by the Minister from the net scheme payments paid to a liable person, the Minister shall be acquitted and discharged of such amount as is represented by the deduction, as if the amount had actually been paid to the liable person.
+
+### Chapter 4 Deductions from State payments — Chapter 4 — Deductions from State payments
+
+#### 118. Deduction of local property tax from State payments.
+
+**118**.— (1) The Minister, after consultation with any other Minister of the Government who, in the opinion of the Minister, is concerned with respect to the particular matter, may, by order, make provision, analogous to that made by *Chapter 1*, *2* or *3*, as appropriate, enabling the Revenue Commissioners to give a direction to a Minister of the Government (including the Minister) or an office of the State requiring that the Minister of the Government or the office of the State deduct from sums due to any person under any enactment such amounts as the Revenue Commissioners specify for the purpose of satisfying a liability to local property tax on the part of the last-mentioned person.
+
+(2) Where such a direction is given, pursuant to such an order, to a Minister of the Government or an office of the State, the direction shall, save as may be provided otherwise in the order, be complied with by the Minister of the Government or the office of the State.
+
+(3) In this section “enactment” includes an instrument made under any enactment.
+
+## PART 11 Collection and Enforcement — PART 11 — Collection and Enforcement
+
+### 119. Date for payment of local property tax.
+
+**119**.— F147[(1) Local property tax in relation to a liability date shall be due on that date.
+
+(1A) Subject to *subsections (2)* and *(3)*, local property tax contained in a self-assessment or a Revenue assessment or treated as contained in a Revenue assessment under *section 49* shall be payable on or before—
+
+(*a*) 1 July 2013, in respect of the liability date 1 May 2013, and
+
+(*b*) 1 January in the year immediately following the year in which any liability date after 1 May 2013 falls.]
+
+F148[(2) Local property tax which is deductible by an employer under *section 72* shall be payable at the time referred to in *section 74(2)*.]
+
+(3) Local property tax which is deductible—
+
+(*a*) by the Minister for Social Protection under *Chapter 2* of *Part 10*, and
+
+(*b*) by the Minister for Agriculture, Food and the Marine under *Chapter 3* of that Part,
+
+shall be payable within the period specified in *section 93(3)* and *section 111(3)*, respectively.
+
+F149[(4) Notwithstanding *subsection (1A)*, the local property tax due in respect of the liability date 1 May 2013 on the part of a liable person referred to in *section 17(6)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013) shall be payable on or before 1 January 2014.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F147: Substituted and inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(a), commenced on enactment.
+>
+> F148: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 36, commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+>
+> F149: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 7(b), commenced on enactment.
+
+### 120. Collection and recovery of local property tax.
+
+F150[**120**.— (1) Subject to *subsection (2)*, Chapters 1A to 1D of Part 42 of the Act of 1997 shall apply to the collection and recovery of local property tax as they apply to the collection and recovery of the taxes, duties, levies and charges referred to in section 960A of that Act.
+
+(2) Notwithstanding *subsection (1)*, the Collector-General shall not be obliged to demand payment of local property tax in accordance with section 960E(2) of the Act of 1997 (as applied by *subsection (1)*) where the Revenue Commissioners give a direction or a revised direction, as the case may be, under *section 65*, 70, 84, 91, 102 or 109.
+
+(3) The Revenue Commissioners may give a direction under *section 65*, *84*, or *102*, as the case may be, after local property tax is due but before it is payable in respect of a particular liability date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F150: Substituted and inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(b), commenced on enactment.
+
+### 121. Revenue Commissioners may decide on allocation of payment.
+
+**121**.— Notwithstanding section 960G of the Act of 1997 (as applied by *section 120*), where local property tax is payable by a liable person in respect of more than one relevant residential property, the Revenue Commissioners may set any payment made by the liable person against F151[that person’s liability to local property tax in respect of any or all of the person’s relevant residential properties in whatever proportion they consider appropriate].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F151: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(c), commenced on enactment.
+
+### 122. Third party payment service providers.
+
+**122**.— (1) In this section “payment service provider” means a person specified by the Revenue Commissioners for the purpose of accepting F152[payment, including] cash payments against local property tax payable by a liable person.
+
+(2) Notwithstanding section 960E(1) of the Act of 1997 (as applied by *section 120*), local property tax due and payable to the Revenue Commissioners under this Act may be paid to a payment service provider.
+
+(3) Any payment made to a payment service provider shall be treated as including any fee charged by the payment service provider for the provision of the payment service.
+
+(4) A payment service provider shall be accountable to the Revenue Commissioners for any payment made by, or on behalf of, a liable person and shall remit the amount of the payment less the amount of the associated fee to the Revenue Commissioners in a form and manner specified by them.
+
+(5) The Revenue Commissioners shall credit the liable person by, or on whose behalf, a payment was made to a service provider with the amount of the payment less the amount of the associated fee.
+
+(6) The Revenue Commissioners may make regulations in relation to the manner in which payments may be made to a payment service provider and how a payment service provider is to account for such payments to the Revenue Commissioners.
+
+(7) Where a payment service provider fails to remit the amount referred to in *subsection (4)*, that amount shall be treated as if it were an amount of local property tax due and payable by the payment service provider on the date that the amount was paid to the payment service provider and any provisions of this Act in relation to the collection of local property tax and any interest and penalties shall apply accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F152: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(d), commenced on enactment.
+
+### 123. Unpaid amount to be a charge on property.
+
+**123**.— Any local property tax, interest referred to in *section 149* or other monetary penalty amount which is due and unpaid by a liable person shall be and remain a charge on the relevant residential property to which it relates.
+
+### 124. No time limit on charge.
+
+**124**.— Notwithstanding section 36 of the Statute of Limitations 1957, the charge referred to in *section 123* shall continue to apply without a time limit until such time as it is paid in full.
+
+### 125. Meaning of “sale”.
+
+**125**.— In F153[*sections 126*, *127A*] and *128*—
+
+“sale” includes, in relation to a residential property, the transfer of the residential property by a liable person to another person—
+
+(*a*) in consequence of—
+
+(i) the exercise of a power under any enactment to compulsorily acquire land, or
+
+(ii) the giving of notice of intention to exercise such power,
+
+or
+
+(*b*) for no consideration or consideration which is significantly less than the chargeable value of the residential property at the time of its transfer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F153: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(g), commenced on enactment.
+
+### 126. Liable person to pay unpaid local property tax on sale of property.
+
+**126**.— F154[(1) Subject to *section 139(4)* and *subsection (2)*], a liable person who proposes to sell a residential property shall, before the completion of the sale of the property, pay to the Revenue Commissioners any local property tax, penalties imposed under this Act and accrued interest which is due and payable in respect of that property.
+
+F155[(2) For the purposes of *subsection (1)*, local property tax in relation to a relevant residential property shall be paid notwithstanding that a sale of the property is completed before that tax is payable in accordance with *section 119(1A)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F154: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(e), commenced on enactment.
+>
+> F155: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(f), commenced on enactment.
+
+### 127. Unpaid local property tax to remain as a charge on property.
+
+**127**.— Where a liable person does not comply with *section 126*, any unpaid local property tax and any penalties and accrued interest referred to in that section shall remain a charge on the relevant residential property to which it relates.
+
+### 127A. Charges on property following sale.
+
+F156[**127A**.— Where—
+
+(*a*) a relevant residential property is sold,
+
+(*b*) the person who is the liable person in relation to it after the sale prepares and delivers a return in accordance with Part 7 in respect of the first liability date falling after the sale,
+
+(*c*) the return referred to in *paragraph (b)* contains a full and true disclosure of all matters necessary for the establishment of the correct liability to local property tax, and
+
+(*d*) local property tax is due in respect of a liability date falling before the sale,
+
+the tax referred to in *paragraph (d)*, together with any associated accrued interest, to the extent that it was not contained in any Revenue estimate, any Revenue assessment or any self-assessment, as the case may be, that was made before the sale shall not be a charge on the relevant residential property to which it relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F156: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(h), commenced on enactment.
+
+### 128. Confirmation that local property tax paid.
+
+**128**.— The Revenue Commissioners shall provide a liable person referred to in *section 126*, or a person acting on behalf of the liable person in connection with a sale of a residential property, with—
+
+(*a*) confirmation of any unpaid local property tax, penalties imposed under this Act and accrued interest at the date of the sale of a property, or
+
+(*b*) confirmation that there are no outstanding amounts payable,
+
+as the case may be, in such form and manner as the Revenue Commissioners may decide.
+
+### 129. Tax clearance certificates and deferred local property tax.
+
+F157[**129**.—A person shall be regarded as complying with the obligations imposed on the person in relation to a matter specified—
+
+(*a*) in section 1095(3) (a) of the Act of 1997 (as applied by the Schedule), or
+
+(*b*) in section 25 of the Standards in Public Office Act 2001,
+
+where the only amount which has not been paid is an amount that has been deferred in accordance with *Part 12*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F157: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 36, commenced on enactment.
+
+## PART 12 Deferred Payment of Local Property Tax — PART 12 — Deferred Payment of Local Property Tax
+
+### 130. Interpretation (Part 12).
+
+**130**.— For the purposes of this Part—
+
+F158["Act of 2012" means the Personal Insolvency Act 2012;]
+
+“gross income” means income, without regard to any amount deductible from or deductible in computing total income, from all sources as estimated in accordance with the Tax Acts and as if any provision of those Acts providing for any income, profits or gains to be exempt from income tax or to be disregarded or not reckoned for the purposes of income tax or of those Acts were never enacted but not including child benefit payable under Part 4 of the Act of 2005 or any subsequent Act with which that Act may be cited;
+
+F158["insolvency arrangement" means a Debt Settlement Arrangement or, as the case may be, a Personal Insolvency Arrangement (both within the meaning of section 2(1) of the Act of 2012);]
+
+F159["relevant event" means, in relation to a relevant residential property—
+
+(*a*) the sale of the property, within the meaning of *section 125*, by or on behalf of a liable person who has claimed a deferral, or
+
+(*b*) the completion of an insolvency arrangement, whether in accordance with its terms or its early termination, under Part 3 of the Act of 2012;]
+
+“relevant year” means the year in which the liability date in respect of which local property tax is payable falls;
+
+“windfall gain” means winnings, gifts, inheritances and capital sums of any kind.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F158: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(a), commenced on enactment.
+>
+> F159: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(b), commenced on enactment.
+
+### 131. Meaning of deferral.
+
+**131**.— (1) Where a valid claim for deferral is made—
+
+(*a*) the local property tax in respect of which deferral is claimed will be treated as not being payable until the occurrence of a relevant event in accordance with *section 139*,
+
+F160[(*b*) interest shall be charged on the deferred amount from the date on which that amount becomes payable until such time as it is paid at the daily rate of 0.008 per cent (referred to in this Part as "deferral interest"), and]
+
+(*c*) any reference to the deferred amount in this Part shall include the accrued deferral interest referred to in *paragraph (b)*.
+
+F161[(2) A claim for deferral shall be valid if the conditions referred to in—
+
+(*a*) *section 132* or, as the case may be, that section and *section 133*,
+
+(*b*) *section 133A* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), or
+
+(*c*) *section 133B* (inserted by the foregoing Act),
+
+are met.]
+
+(3) A claim for deferral—
+
+(*a*) shall be made in writing, and
+
+(*b*) where a return is required to be delivered in relation to the liability date in respect of which deferral is claimed, the claim must be made in the return.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F160: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 37, commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(g).
+>
+> F161: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(c), commenced on enactment.
+
+### 132. Income threshold for deferral.
+
+**132**.— (1) Where a liable person—
+
+(*a*) occupies a relevant residential property in respect of which local property tax is payable as his or her sole or main residence, and
+
+F162[(*b*) has gross income during the relevant year which will not, as far as can reasonably be foreseen at the liability date in that year, exceed F165[€25,000],]
+
+the person may, on making a valid claim on that behalf to the Revenue Commissioners, qualify for deferral of the local property tax payable in respect of the liability date falling in that year.
+
+(2) Where the liable person is married, is a civil partner or a cohabitant, as the case may be, *subsection (1)* shall apply where the aggregate of the gross income from all sources of the liable person and his or her spouse, civil partner or cohabitant during the relevant year will not, as far as can reasonably be foreseen at the liability date in that year, exceed F165[€40,000].
+
+(3) Where—
+
+(*a*) a liable person referred to in *subsection (1)* has gross income as referred to in that subsection in the relevant year, or
+
+(*b*) a liable person referred to in *subsection (2)* and his or her spouse, civil partner or cohabitant have, in aggregate, gross income as referred to in that subsection in the relevant year,
+
+that will not, as far as can reasonably be foreseen at the liability date in that year, exceed—
+
+(i) F165[€40,000], in the case of a liable person referred to in *subsection (1)*, or
+
+(ii) F165[€55,000], in the case of a liable person referred to in *subsection (2)*,
+
+the person may, on making a claim on that behalf to the Revenue Commissioners, qualify for deferral of 50 per cent of the local property tax that would otherwise be payable in respect of the liability date falling in that year.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F162, F163, F164: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 38(a)-(c), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(g).
+>
+> F165: Substituted (1.01.2026) by *Finance (Local Property Tax and Other Provisions) (Amendment) Act 2025* (6/2025), s. 11(a)-(d), applied as per s. 3(c), S.I. No. 341 of 2025.
+>
+> **Editorial Notes:**
+>
+> E34: Previous affecting provision: subss. (1)(a), (b) amended (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 38(a)-(c), commenced on enactment. This amendment applies only in respect of the year 2022 and each subsequent year as provided by 31/2021, s. 3(g); amended (1.01.2026) as per F-note above.
+
+### 133. Income threshold increased by mortgage payments.
+
+**133**.— (1) Subject to *subsection (2)*, in the case of a relevant residential property—
+
+(*a*) which is occupied by a liable person as his or her sole or main residence, and
+
+(*b*) which is subject to a mortgage,
+
+the gross income amounts referred to in *section 132* may be increased by an amount which is 80 per cent of the amount of the mortgage interest payments that, as far as can reasonably be foreseen at the liability date in the relevant year, will be made before the end of the relevant year, by such a person in respect of the relevant residential property.
+
+F166[(2) *Subsection (1)* shall apply in respect of a relevant residential property for a relevant year commencing after 31 December 2020 only where that subsection applied in respect of the relevant residential property for a relevant year commencing before that date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F166: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 39, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E35: Previous affecting provision: sub. (2) amended (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 37, commenced on enactment; substituted as per F-note above.
+
+### 133A. Personal representatives.
+
+F167[**133A**.— (1) Where a liable person in relation to a relevant residential property, being the sole liable person in relation thereto, dies, the personal representative of that liable person may, on making a valid claim on that behalf to the Revenue Commissioners qualify for deferral of any local property tax that, subject to *subsection (2)*—
+
+(*a*) is due and unpaid at the date of death of that liable person,
+
+(*b*) in respect of which, that liable person had claimed a deferral, or
+
+(*c*) falls due in the period of 3 years immediately following the date of death.
+
+(2) Notwithstanding *subsection (1)* and subject to *section 139(4)*, no further deferral shall be allowed—
+
+(*a*) after the time at which a personal representative, in respect of a relevant residential property, is in a position to—
+
+(i) transfer the property to a beneficiary, or
+
+(ii) distribute the proceeds from the sale of the property where it is sold,
+
+or
+
+(*b*) irrespective of whether *paragraph (a)*, *(b)* or *(c)* of *subsection (1)* applies, after a period of 3 years commencing on the date of death.
+
+(3) Any deferred amount shall be payable by a personal representative—
+
+(*a*) at the time referred to in *paragraph (a)* of *subsection (2)*, or
+
+(*b*) on the expiry of the period referred to in *paragraph (b)* of that subsection,
+
+whichever is the earlier.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F167: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(d), commenced on enactment.
+
+### 133B. Personal Insolvency Act 2012.
+
+F168[**133B**.— Where a liable person—
+
+(*a*) has entered into an insolvency arrangement, or
+
+(*b*) holds a relevant residential property in trust for creditors pursuant to the terms of an insolvency arrangement,
+
+the person may, on making a valid claim on that behalf to the Revenue Commissioners, qualify for deferral of any local property tax that falls due in the period for which the arrangement is in effect.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F168: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(d), commenced on enactment.
+
+### 133C. Excessive financial hardship.
+
+F169[**133C**.— (1) Notwithstanding *sections 132* and *133* and *sections 133A* and *133B* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), the Revenue Commissioners shall, in accordance with guidelines published by them, consider an application in writing for a deferral from a liable person who—
+
+(*a*) suffers a significant financial loss, or
+
+(*b*) incurs a significant expense,
+
+that is unexpected and that, as the case may be, could not have been, or cannot be avoided.
+
+(2) Where the Revenue Commissioners are satisfied that, as a consequence of the loss or expense referred to in subsection (1), the local property tax payable in respect of any liability date cannot, without excessive hardship, be paid when it falls to be paid, they may, in accordance with guidelines published by them, allow it to be deferred to such extent and on such conditions as they think fit.
+
+(3) Deferral shall not commence until such time as—
+
+(*a*) a liable person has provided the Revenue Commissioners with any information or documentation that they have requested the liable person to provide in support of the application for deferral, and
+
+(*b*) the Revenue Commissioners notify a liable person that the deferral is allowed.
+
+(4) For the purposes of *subsections (1)* to *(3)*, the Revenue Commissioners shall publish guidelines that specify—
+
+(*a*) the circumstances in which an application for deferral may be accepted,
+
+(*b*) the manner in which an application for deferral is to be made,
+
+(*c*) the information or supporting documentation to be provided by the liable person,
+
+(*d*) the period in respect of which deferral may apply, and
+
+(*e*) any other matter that the Revenue Commissioners consider to be relevant.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F169: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(d), commenced on enactment.
+
+### 134. Continuation of deferral.
+
+**134**.—F170[(1) Subject to *section 139(1)*, where a liable person ceases to meet whatever conditions referred to in—
+
+(*a*) *section 132* or, as the case may be, that section and section 133,
+
+(*b*) *section 133A* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013),
+
+(*c*) *section 133B* (inserted by the foregoing Act), or
+
+(*d*) *section 133C(2)* (inserted by the foregoing Act),
+
+qualified the person for a deferral, any deferral that was allowed before such conditions ceased to be satisfied may continue.]
+
+(2) Where the Revenue Commissioners become aware that a liable person did not satisfy the conditions referred to in F170[the sections referred to in *paragraphs (a)* to *(d)* of *subsection (1)*] when he or she claimed a deferral, they shall notify the person accordingly.
+
+(3) Where the spouse, civil partner or cohabitant, as the case may be, of a liable person dies, the liable person may continue to claim a deferral until the first liability date of the next valuation period notwithstanding that he or she does not meet the condition specified in *paragraph (b)* of *section 132(1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F170: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(e), (f), commenced on enactment.
+
+### 135. Appeal against Revenue determination that liable person not entitled to deferral.
+
+**135**.— (1) Where the Revenue Commissioners make a determination that a liable person is not eligible for a deferral, they shall notify the person in writing of their determination.
+
+(2) A liable person who is aggrieved by the determination referred to in *subsection (1)* may appeal that determination to the Appeal Commissioners F171[in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notice of that determination].
+
+(3) F172[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(f) (i), S.I. No. 110 of 2016.
+>
+> F172: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(f) (ii), S.I. No. 110 of 2016.
+
+### 136. Payments made against deferred amount.
+
+**136**.— A liable person who has been allowed a deferral may, at any time, make a full or partial payment of the deferred amount and the Revenue Commissioners shall credit any such payment against liabilities for earlier years in priority to liabilities for later years.
+
+### 137. Charge on property.
+
+**137**.— The deferred amount shall be and remain a charge on the relevant residential property to which it relates in accordance with *sections 123* and *124*.
+
+### 138. Limit on deferred amount.
+
+**138**.— No further deferrals in relation to a relevant residential property shall be allowed where the amount already deferred exceeds the chargeable value of the property at the liability date in relation to which the further deferral is claimed.
+
+### 139. Occurrence of relevant events.
+
+**139**.— (1) F173[Any deferred amount] shall be payable by the liable person on the occurrence of a relevant event.
+
+(2) The receipt of a windfall gain by a liable person shall be treated as a relevant event and *subsection (1)* shall apply accordingly.
+
+(3) A liable person shall notify the Revenue Commissioners when he or she receives a windfall gain.
+
+(4) Where the relevant event is the transfer of the relevant residential property by way of a gift or an inheritance, the Revenue Commissioners may allow a deferral to continue where—
+
+(*a*) the liable person making the gift, or the liable person’s personal representative, as the case may be, notifies the Revenue Commissioners of the making of the gift or inheritance, and
+
+(*b*) the person who receives the gift or inheritance is eligible for, and makes a valid claim for, a deferral.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F173: Substituted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 13(g), commenced on enactment.
+
+## PART 13 Revenue Powers — PART 13 — Revenue Powers
+
+### 140. Authorised person.
+
+**140**.— F174[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F174: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 14, commenced on enactment.
+
+### 141. Right of Revenue officer to make enquiries.
+
+**141**.— (1) A Revenue officer may, subject to this Part, make such enquiries or take such actions within the officer’s powers as he or she considers necessary to satisfy himself or herself as to—
+
+(*a*) whether a property is a relevant residential property on a liability date,
+
+(*b*) whether a person is a liable person on a liability date,
+
+(*c*) the chargeable value of a relevant residential property on a valuation date,
+
+(*d*) a liable person’s eligibility for a deferral in accordance with *Part 12*, or
+
+(*e*) the accuracy or otherwise of any return, statement or particulars prepared and delivered under this Act.
+
+(2) Subject to *subsection (3)*, any enquiries or actions to which *subsection (1)* applies shall not be made or taken at any time after the expiry of 4 years commencing on 1 January after the year in which the liability date falls in relation to which the enquiries or actions are made.
+
+(3) Notwithstanding *subsection (2)*, enquiries or actions in relation to a liable person to which *subsection (1)* applies may be made or taken at any time where—
+
+(*a*) the liable person fails to deliver a return in relation to a particular liability date,
+
+(*b*) a Revenue officer has reason to believe that a return delivered by the liable person does not contain a full and true disclosure of all material facts necessary for the establishment of the local property tax payable by the liable person in relation to a liability date, or
+
+(*c*) a Revenue officer has reason to believe that the liable person has engaged in any deliberate or careless behaviour in connection with local property tax payable in relation to a liability date.
+
+### 142. Appeal against a Revenue officer’s enquiries.
+
+**142**.—F175[(1) *Subsection (2)* shall apply where—
+
+(*a*) a liable person is aggrieved by an enquiry made or an action taken by a Revenue officer under *section 141* for a chargeable period, after the expiry of the period referred to in *subsection (2)* of that section in respect of the chargeable period, on the grounds that the liable person considers that the Revenue officer is precluded from so doing by reason of that subsection, and
+
+(*b*) an assessment has not been made or amended, as the case may be, in respect of the year on foot of the officer’s enquiry or action.
+
+(2) Where *subsection (1)* applies, the liable person may appeal to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date on which the officer makes that enquiry or takes that action.]
+
+F176[(2A) Where *subsection (1) (a)* applies and an assessment has been made or amended, as the case may be, on foot of a Revenue officer’s enquiry or action, a chargeable person may appeal to the Appeal Commissioners under and in accordance with *section 59(1)*.]
+
+(3) Any action required to be taken by the liable person and any further action proposed to be taken by the Revenue officer pursuant to the officer’s enquiry or action shall be suspended pending the determination of the appeal under this section.
+
+(4) If on the hearing of the appeal under this section the Appeal Commissioners determine that—
+
+(*a*) the Revenue officer was, by reason of *section 141 (2)*, precluded from making the enquiry or taking the action, the liable person shall not be required to take any action pursuant to the Revenue officer’s enquiry or action and the Revenue officer shall be precluded from pursuing his or her enquiry or action, or
+
+(*b*) the Revenue officer was not precluded by that provision from making the enquiry or taking the action, the Revenue officer may continue with his or her enquiry or action.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(g) (i), S.I. No. 110 of 2016.
+>
+> F176: Inserted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 5 para. 5(g) (ii), S.I. No. 110 of 2016.
+
+### 143. Power to inspect property.
+
+**143**.— F177[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Deleted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 14, commenced on enactment.
+
+### 144. Inspection of records relating to deduction at source.
+
+**144**.— (1) Section 903 of the Act of 1997, as it applies to the inspection of records relating to the payment of emoluments, shall apply, with any necessary modifications to the inspection of records relating to the deduction of local property tax under *Part 10* —
+
+(*a*) by an employer from an employee’s net emoluments in accordance with *Chapter 1* of that Part,
+
+(*b*) by the Minister for Social Protection in accordance with *Chapter 2* of that Part, and
+
+(*c*) by the Minister for Agriculture, Food and the Marine in accordance with *Chapter 3* of that Part.
+
+(2) For the purposes of *subsection (1)*, any Revenue officer who performs his or her powers or exercises his or her duties, as the case may be, under this section (referred to in this section as an “authorised officer”) shall be authorised in writing by the Revenue Commissioners to exercise these powers or perform these duties.
+
+(3) An authorised officer when exercising his or her powers or performing his or her duties under this section shall, on request, produce evidence of the officer’s authorisation.
+
+## PART 14 Offences and Penalties — PART 14 — Offences and Penalties
+
+### 145. Penalties in respect of non-compliance with Part 10.
+
+**145**.— (1) Where any person fails without reasonable excuse—
+
+(*a*) to comply with any provision under *Part 10* requiring that person to send or give any statement, F178[a notification under *section 78A* or a statement,] or to send any particulars to the Revenue Commissioners,
+
+(*b*) to deduct local property tax in accordance with a direction given by the Revenue Commissioners,
+
+(*c*) to remit local property tax deducted to the Revenue Commissioners within the period specified for such remittance, or
+
+(*d*) to keep and retain records and make them available for inspection by a Revenue officer,
+
+that person shall be liable to a penalty of €3,000.
+
+(2) Where any person fails to send a F178[declaration] to the Revenue Commissioners under *section 79* within the period specified for this purpose, that person shall be liable for a penalty of €500 for each month or part of a month during which the said F178[declaration] remains outstanding, subject to a maximum penalty of €3,000.
+
+(3) Where the person referred to in *subsection (1)* or *(2)*, is the secretary of a body of persons, the secretary of the body shall be liable to a separate penalty of €2,000.
+
+(4) In any proceedings for the recovery of a penalty under this section, section 987(4) of the Act of 1997 shall apply with any necessary modifications to the recovery of penalties in relation to breaches of the F178[Income Tax (Employments) Regulations 2018 (No. 345 of 2018)] as it applies to failure to comply with provisions that relate to local property tax.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F178: Substituted (3.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 38(a)-(c), commenced on enactment, to apply from 1.01.2019 in respect of emoluments paid on or after that date as provided by s. 39.
+
+### 146. Penalty for failure to deliver a return.
+
+**146**.— (1) Where a liable person who—
+
+(*a*) is required under *Part 7* to deliver a return, fails to deliver the return, or
+
+(*b*) delivers a return but fails to include in the return the particulars required by the return, is requested by a Revenue officer by notice to remedy matters and fails to do so without unreasonable delay,
+
+the liable person shall be liable to a penalty of the amount of the local property tax that would be payable were a true and complete return to be delivered.
+
+(2) The penalty imposed by *subsection (1)* shall not exceed €3,000.
+
+F179[(2A) A liable person who fails to comply with *section 14(1A)* (inserted by the Finance (Local Property Tax) (Amendment) Act 2013) shall be liable to a penalty of €500.]
+
+(3) In proceedings for the recovery of a penalty incurred under this section, a certificate signed by a Revenue officer which certifies that he or she has examined the relevant records and that it appears from those records that—
+
+(*a*) a stated return was not received, or
+
+(*b*) the defendant has failed to do a stated act or furnish stated particulars,
+
+shall be evidence until the contrary is proved of the matters referred to in *paragraphs (a)* and *(b)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) 2013* (4/2013), s. 5(l), commenced on enactment.
+
+### 147. Penalty for false statement or false representation.
+
+**147**.— (1) A liable person, or a person acting under the authority of the liable person, shall, without prejudice to any other penalty to which the person may be liable, be liable to a penalty under this section if the person knowingly—
+
+(*a*) makes any false statement or false representation, or
+
+(*b*) delivers an incorrect return,
+
+for the purpose of obtaining—
+
+(i) any reduction in local property tax payable by the liable person,
+
+(ii) a repayment of local property tax paid by the liable person, or
+
+(iii) a deferral in accordance with *Part 12* .
+
+(2) The penalty imposed by *subsection (1)* shall be—
+
+(*a*) the amount of local property tax which would have been payable had a false statement or a false representation not been made or an incorrect return not been delivered, as the case may be, or
+
+(*b*) the amount of local property tax in respect of which a deferral is claimed in accordance with *Part 12* .
+
+(3) The penalty imposed by *subsection (1)* shall not exceed €3,000.
+
+### 147A. Assessment as evidence of amount of tax payable.
+
+F180[**147A**.— For the purposes of this Part, any assessment that can no longer be varied by the Appeal Commissioners or by an order of a court shall be sufficient evidence of the amount of local property tax payable in respect of a relevant residential property.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Inserted (13.03.2013) by *Finance (Local Property Tax) (Amendment) Act 2013* (4/2013), s. 12(i), commenced on enactment.
+
+### 148. Application of certain provisions of the Act of 1997.
+
+**148**.— The following sections of the Act of 1997 shall apply, with any necessary modifications, to penalties under this Act as they apply to penalties under Part 47 of the Act of 1997—
+
+(*a*) section 1059, in relation to the assessment and collection of a penalty as if it were an amount of tax,
+
+(*b*) section 1062, in relation to proceedings where the penalty recoverable cannot be definitely ascertained,
+
+(*c*) section 1063, in relation to the time limit for recovery of penalties,
+
+(*d*) section 1065, in relation to the mitigation and application of penalties,
+
+(*e*) section 1066, in relation to false evidence being punishable as for perjury,
+
+(*f*) section 1067, in relation to the admissibility of statements and documents in criminal and tax proceedings, and
+
+(*g*) section 1068, in relation to a failure to act within the time required by the Revenue Commissioners.
+
+### 149. Interest on overdue tax.
+
+**149**.— (1) Subject to *subsection (4)*, any local property tax payable by—
+
+(*a*) a liable person, or
+
+(*b*) a person who is directed by the Revenue Commissioners to deduct local property tax under *Chapter 1*, *2* or *3*, as the case may be, of *Part 10*,
+
+shall carry interest from—
+
+(i) the date on which the tax is payable, or
+
+(ii) the last day of the period within which the tax is payable,
+
+until payment and the amount of that interest shall be determined in accordance with *subsection (2)*.
+
+(2) The interest referred to in *subsection (1)* shall be determined by using the following formula:
+
+T x D x R
+
+where—
+
+T is the local property tax payable which remains unpaid,
+
+D is the number of days (including part of a day) in the period during which the local property tax remains unpaid, and
+
+F181[R is the rate, represented by P in the formula T x D x P in subsection (2) (c) of section 1080 of the Act of 1997, that would apply under that formula if the local property tax payable was tax, within the meaning of that section, and the period during which the local property tax remains unpaid was the period of delay, within the meaning of that section.]
+
+(3) The interest payable under this section—
+
+(*a*) shall not be allowed as a deduction in computing any income, profits or losses for any of the purposes of the Tax Acts,
+
+(*b*) may be collected and recovered in like manner as an amount of local property tax,
+
+(*c*) shall be payable to the Collector-General, and
+
+(*d*) shall be deemed to be a debt due to the Minister for the benefit of the Central Fund.
+
+(4) Where a liable person—
+
+(*a*) elects for a method of payment in a return, and
+
+(*b*) pays the amount of local property tax in the self-assessment in the return in accordance with that method,
+
+interest shall not be charged.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F181: Substituted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 40, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of section restricted by *Taxes Consolidation Act 1997* (39/2997) s. 1080A(3) (u) as inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 6, commenced on enactment.
+>
+> **[Interest on overdue tax - supplementary provision**
+>
+> **1080A.** ...
+>
+> (2) This subsection shall apply where—
+>
+> (*a*) an agreement is entered into between a person and the Collector-General in relation to the payment by the person of declared liabilities under *section 849*, and
+>
+> (*b*) the agreement was entered into, or the person requested that the Collector-General enter into the agreement, on or before 30 September 2020.
+>
+> (3) Subject to *subsection (6)*, where *subsection (2)* applies, the following provisions shall not apply to the declared liabilities from the date on which the interest determined in accordance with *subsection (5)* applies to the declared liabilities in accordance with *subsection (4)*:
+>
+> ...
+>
+> (*u*) section 149 of the Finance (Local Property Tax) Act 2012;
+>
+> ...
+>
+> (4) Where *subsection (2)* applies, the declared liabilities shall carry interest from the later of—
+>
+> (*a*) 1 August 2020, and
+>
+> (*b*) the date on which the agreement referred to in *subsection (2)* is entered into,
+>
+> and the amount of that interest shall be determined in accordance with *subsection (5)*.
+>
+> …**]**
+
+### 150. Repayment of interest.
+
+**150**.— Where, after interest has been paid in relation to a payable amount of local property tax, the payable amount is reduced—
+
+(*a*) an appropriate adjustment shall be made of the amount of interest payable, and
+
+(*b*) subject to section 960H of the Act of 1997 (as applied by *section 120*), a repayment shall be made of interest previously paid of such an amount as is necessary to secure that the total sum, if any, paid or payable in relation to local property tax is the same as it would have been if the amount by which the local property tax is reduced had never been due and payable.
+
+## PART 15 Information Required by the Revenue Commissioners — PART 15 — Information Required by the Revenue Commissioners
+
+### 151. Information to be provided to the Revenue Commissioners.
+
+**151**.— (1) Notwithstanding any enactment or rule of law, the Revenue Commissioners may, by notice in writing, request a relevant person to provide them with such information as is in the possession or control of the relevant person as the Revenue Commissioners may reasonably require for the purposes of—
+
+(*a*) establishing, maintaining and ensuring the accuracy of the register referred to in *section 27*, and
+
+(*b*) the administration of local property tax.
+
+(2) Where the Revenue Commissioners make a request under *subsection (1)*, the relevant person to whom the request is given shall provide such information as may be specified in the notice within the time limit specified in the notice.
+
+(3) The information which the Revenue Commissioners may request are details in the possession or control of the relevant person of the address or addresses, as the case may be, of residential properties, and in relation to each residential property—
+
+(*a*) the name of the occupier,
+
+(*b*) the name of the owner,
+
+(*c*) the address contained in any geodirectory maintained by any relevant person or such other information as may allow the location of the property to be established,
+
+(*d*) any unique identification number which the relevant person has assigned to the property or, as the case may be, to any meter or other device located in the property or to the occupier or owner of that property, and
+
+(*e*) information in relation to the size and type of the property.
+
+(4) The information to be provided by a relevant person under *subsection (2)* shall be provided in such form and manner as may be specified by the Revenue Commissioners.
+
+(5) Where a relevant person has been requested by notice under *subsection (1)* to provide information to the Revenue Commissioners and the person fails to provide the information requested—
+
+(*a*) in the form and manner requested, and
+
+(*b*) within the time limit specified in the notice,
+
+that person shall be liable to pay a penalty of €100 for each day the failure continues after the time limit specified in the notice.
+
+(6) Where the relevant person referred to in *subsection (5)* is a body of persons, the secretary shall be liable to pay a separate penalty to the penalty referred to in that subsection of €100 for each day the failure continues after the time limit specified in the notice or a total penalty of €3,000, whichever is less.
+
+### 152. Information to be provided by the Revenue Commissioners.
+
+**152**.— (1) Notwithstanding any enactment or rule of law, the Revenue Commissioners shall, upon a request from, and at such intervals as may be specified by the Minister for Finance or the Minister for the Environment, Community and Local Government, provide that Minister of the Government with such information other than taxpayer information within the meaning of section 851A of the Act of 1997 obtained by the Revenue Commissioners pursuant to this Act as that Minister of the Government may reasonably require for the purpose of enabling him or her to perform his or her functions.
+
+(2) For the purposes of administering local property tax, the Revenue Commissioners may request the assistance of a local authority in identifying residential properties in its functional area and in verifying the accuracy of any information it holds in relation to such properties and, for this purpose and notwithstanding any other enactment or rule of law, they may provide a local authority with such information in relation to those properties as may reasonably be required for this purpose.
+
+(3) The Revenue Commissioners shall not provide information in accordance with *subsection (1)* unless they are satisfied that the provision by them of information obtained by them pursuant to this Act to such person will assist the person in discharging a function conferred on, or delegated to, the person by or under any enactment.
+
+### 153. Relevant persons.
+
+**153**.— In this Part “relevant person” means—
+
+(*a*) the Local Government Management Agency,
+
+(*b*) the Property Registration Authority,
+
+(*c*) the Private Residential Tenancies Board,
+
+(*d*) the holder of a licence under section 14(1) of the Electricity Regulation Act 1999 to supply electricity or to discharge the functions of the operator of the distribution system,
+
+(*e*) the holder of a natural gas licence under section 16(1) of the Gas (Interim) Regulation Act 2002,
+
+(*f*) An Post,
+
+(*g*) the Valuation Office,
+
+(*h*) Ordnance Survey Ireland,
+
+(*i*) the Minister for Social Protection,
+
+(*j*) the Minister for Agriculture, Food and the Marine,
+
+(*k*) the Minister for the Environment, Community and Local Government,
+
+(*l*) the Minister for Communications, Energy and Natural Resources,
+
+(*m*) the Minister for Transport, Tourism and Sport,
+
+(*n*) a local authority,
+
+(*o*) the Health Service Executive,
+
+(*p*) the National Asset Management Agency, F182[...]
+
+(*q*) the Sustainable Energy Authority of F183[Ireland,]
+
+F184[(*r*) the Pryite Resolution Board,
+
+(*s*) the Personal Injuries Assessment Board, or
+
+(*t*) the Courts Service of Ireland.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F182: Deleted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 11(a), commenced on enactment.
+>
+> F183: Substituted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 11(b), commenced on enactment.
+>
+> F184: Inserted (20.12.2015) by *Finance (Local Property Tax) (Amendment) Act 2015* (50/2015), s. 11(c), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C5: Private Residential Tenancies Board construed (7.04.2016) by *Residential Tenancies (Amendment) Act 2015* (42/2015), s. 13(1), S.I. No. 151 of 2016.
+>
+> *Change of name of Board*
+>
+> **13.** (1) The board established under section 150 of the Principal Act shall, on and from the commencement of this section, be re-named An Bord um Thionóntachtaí Cónaithe or, in the English language, the Residential Tenancies Board.
+>
+> ...
+
+## PART 16 Household Charge — PART 16 — Household Charge
+
+### 154. Interpretation (Part 16).
+
+**154**.— In this Part—
+
+“liability to the household charge” means the amount of the payment provided for in section 3 of the Act of 2011 together with any late payment fee and late payment interest that is payable under section 7 of that Act that remain unpaid in respect of a relevant residential property;
+
+“relevant person” means the person liable to pay the amount referred to in the immediately preceding definition.
+
+### 155. Cessation of household charge.
+
+**155**.— Section 3 of the Act of 2011 shall cease to apply in respect of any liability date occurring on or after 1 January 2013.
+
+### 156. Arrears of household charge.
+
+**156**.— (1) Where—
+
+(*a*) a liability to the household charge is to be discharged by the relevant person making payment, on or before 30 April 2013, to the local authority in whose functional area the property is situated, and
+
+(*b*) the amount that would be required to be paid, were section 7(1) of the Act of 2011 to apply and apart from this subsection, in order to discharge that liability would exceed €130,
+
+then notwithstanding that *section 7(1)*, the payment of €130 by the relevant person to that local authority, on or before the foregoing date, shall discharge that liability.
+
+(2) *Subsection (3)* shall apply notwithstanding—
+
+(*a*) any requirement under the Act of 2011 for a liability to the household charge to be discharged in favour of a local authority, or a relevant board (within the meaning of section 13 of that Act) in a case where one or more of a local authority’s functions have been delegated to such a board under section 13 of that Act, or
+
+(*b*) the functions conferred by that Act on a local authority or such a board with respect to that charge’s collection,
+
+where, on 1 July 2013, a household charge liability in respect of a residential property remains undischarged.
+
+(3) Subject to *subsection (5)*, any liability to the household charge that remains undischarged on 1 July 2013 shall—
+
+(*a*) be treated as a charge of €200 to local property tax that is due and payable on that date, and
+
+(*b*) cease to be treated as a household charge liability under the Act of 2011.
+
+(4) The charge of €200 referred to in *subsection (3)* shall be payable to the Revenue Commissioners and all of the provisions of this Act that relate to the collection of local property tax shall apply to the charge as if it were an amount of local property tax.
+
+(5) *Subsection (3)* shall not apply in respect of any liability to the household charge that is the subject of legal proceedings taken by a local authority or a relevant board under the Act of 2011 where those proceedings have been commenced before 1 July 2013 and are still in being on that date.
+
+(6) Where a local authority is satisfied that all or any part of a liability to the household charge in respect of a residential property situated in the functional area of the local authority has not been discharged before 1 July 2013, it shall notify the Revenue Commissioners in writing of the address of the property and the name and address of the owner (within the meaning of the Act of 2011) of the property.
+
+## PART 17 Supplementary Provisions — PART 17 — Supplementary Provisions
+
+### 157. Transfer of local property tax to the Local Government Fund.
+
+F185[**157.** (1) The Minister shall pay from the Central Fund (or the growing produce thereof) into the Local Government Fund an amount equivalent to the local property tax paid into the Central Fund during the financial years 2014 to 2017.
+
+(2) Notwithstanding section 960D of the Taxes Consolidation Act 1997, in each financial year commencing with the year 2018, the Revenue Commissioners shall pay into the Local Government Fund the local property tax received by them during that year.
+
+(3) In this section "local property tax" includes any interest or penalties paid thereon.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Substituted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 54, S.I. No. 511 of 2017.
+
+### 158. Amendment to the Act of 1997.
+
+**158**.— The Act of 1997 is amended in the manner specified in the Schedule.
+
+### 159. Extension of certain Acts.
+
+**159**.— (1) Section 1 of the Provisional Collection of Taxes Act 1927 is amended by the insertion of ‘‘, local property tax’’ before ‘‘or any other levy or charge’’.
+
+(2) Section 39 of the Inland Revenue Regulation Act 1890 is amended by the insertion of ‘‘local property tax ’’ before ‘‘residential property tax’’.
+
+## SCHEDULE — Amendment of the Act of 1997
+
+| Item | Provision amended | Amendment |
+|---|---|---|
+| 1 | Section 851A | In subsection (1), in the definition of “the Acts”, substitute the following for paragraphs (*f*) and (*g*): “(*f*) the Capital Acquisitions Tax Consolidation Act 2003, and the enactments amending or extending that Act, (*g*) the statutes relating to stamp duty and the management of that duty, and (*h*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 2 | Section 858 | In paragraph (*a*) of subsection (1), in the definition of “the Acts”, insert the following after paragraph (vii): “(viii) the *Finance (Local Property Tax) Act 2012*,”. |
+| 3 | Section 859 | In subsection (1), in the definition of “the Revenue Acts” insert the following after paragraph (*i*): “(*j*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 4 | Section 865B | In subsection (1)— (*a*) in the definition of “Acts” substitute the following for paragraphs (*g*) and (*h*): “(*g*) the Value-Added Tax Consolidation Act 2010 and the enactments amending or extending that Act, (*h*) the *Finance (Local Property Tax) Act 2012*, and (*i*) any instruments made under any of the statutes and enactments specified in paragraphs *(a)* to *(h);”,* (*b*) in the definition of “relevant period”, substitute the following for paragraphs (*e*) and (*f*): “(*e*) in the case of excise duty, the year of assessment or accounting period, as the case may be, within which falls the act or event in respect of which the repayment arises, (*f*) in the case of value-added tax, the year of assessment or accounting period, as the case may be, within which falls the taxable period in respect of which the repayment arises, and (*g*) in the case of local property tax, the year within which the repayment arises;”, and (*c*) substitute, in the definition of “tax”, the following words for all the words that precede paragraphs (*a*) to (*d*) of that definition: “ ‘tax’ means any income tax, corporation tax, capital gains tax, value-added tax, excise duty, stamp duty, gift tax, inheritance tax, income levy, domicile levy, universal social charge or local property tax and includes—”. |
+| 5 | Section 874A | In subsection (1), in the definition of “the Acts” substitute the following for paragraphs (*f*) and (*g*): “(*f*) the Stamp Duties Consolidation Act 1999, and the enactments amending or extending that Act, (*g*) Chapter IV of Part II of the Finance Act 1992, and (*h*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 6 | Section 960A | In the definition of “Acts”— (*a*) insert the following after paragraph (*g*): “(*h*) the *Finance (Local Property Tax) Act 2012*,”, and (*b*) substitute, in the definition of “tax”, the following words for all the words that precede paragraphs (*a*) to (*c*) of that definition: “ ‘tax’ means any income tax, corporation tax, capital gains tax, value-added tax, excise duty, stamp duty, gift tax, inheritance tax, local property tax or any other levy or charge which is placed under the care and management of the Revenue Commissioners and includes—”. |
+| 7 | Section 960P | Substitute the following for subsection (2): “(2) For the purposes of subsection (1) (*a*) of section 81 of the Act of 1988, the amount referred to in that subsection is deemed to include capital gains tax and local property tax.”. |
+| 8 | Section 960S | In subsection (1), in the definition of “tax”, substitute the following for paragraph (*d*): “(*d*) value-added tax chargeable in accordance with the Value-Added Tax Acts, or (*e*) local property tax deductible in accordance with the *Finance (Local Property Tax) Act 2012*.”. |
+| 9 | Section 1001 | In subsection (1), substitute the following for paragraphs (*a*) and (*b*): “(*a*) Chapter 4 of this Part, (*b*) the Value-Added Tax Consolidation Act 2010, and (*c*) the *Finance (Local Property Tax) Act 2012*.”. |
+| 10 | Section 1002 | In subsection (1), in the definition of “the Acts”, insert the following after paragraph (vii): “(viii) the *Finance (Local Property Tax) Act 2012*,”. |
+| 11 | Section 1006 | In subsection (1), in the definition of “the Acts”, insert the following after paragraph (*e*): “(*f*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 12 | Section 1077A | In the definition of “the Acts”, insert the following after paragraph (*g*): “(*h*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 13 | Section 1077E | In subsection (1)— (*a*) substitute the following for the definition of “the Acts”: “ ‘the Acts’ means the Tax Acts, the Capital Gains Tax Acts, Parts 18A, 18B, 18C, 18D of this Act and the *Finance (Local Property Tax) Act 2012*;”, and (*b*) substitute the following for the definition of “tax”: “ ‘tax’ means any income tax, corporation tax, capital gains tax, income levy, parking levy or local property tax; ”. |
+| 14 | Section 1078 | (*a*) In subsection (1), in the definition of “the Acts”, insert the following after paragraph (*h*): “(*i*) the *Finance (Local Property Tax) Act 2012*,”, and (*b*) in subsection (2), insert the following after paragraph (*ii*): “(*iii*) (i)fails to deduct local property tax required to be deducted by the person under *Part 10* of the *Finance (Local Property Tax) Act 2012*, or (ii)fails, having made that deduction, to remit the sum deducted to the Collector-General within the time specified in *Chapters 1, 2* or *3*, as the case may be, of *Part 10* of the *Finance (Local Property Tax) Act 2012*,”. |
+| 15 | Section 1079 | In subsection (1), in the definition of “the Acts”, insert the following after paragraph (*g*): “(*h*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 16 | Section 1086 | In subsection (1), in the definition of “the Acts”, insert the following after paragraph (*h*): “(*i*) the *Finance (Local Property Tax) Act 2012*,”. |
+| 17 | Section 1095 | In subsection (1), in the definition of “the Acts”, insert the following after paragraph (*e*): “(*f*) the *Finance (Local Property Tax) Act 2012*,”. |

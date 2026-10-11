@@ -1,0 +1,569 @@
+---
+title: "Credit Guarantee Act 2012"
+identifier: "eli/2012/act/26"
+type: act
+jurisdiction: ie
+language: en
+number: 26
+year: 2012
+date: 2012-07-18
+last_amended: 2022-12-08
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2012/act/26/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2012/act/26/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Credit Guarantee Act 2012
+
+AN ACT TO ENABLE THE MINISTER FOR JOBS, ENTERPRISE AND INNOVATION TO GIVE GUARANTEES TO LENDERS OF A CERTAIN CLASS IN RESPECT OF LOANS MADE BY SUCH LENDERS TO ENTERPRISES OF A CERTAIN CLASS; FOR THAT PURPOSE TO PROVIDE FOR THE MAKING OF A SCHEME OR SCHEMES BY THAT MINISTER OF THE GOVERNMENT IN RELATION TO THE GIVING OF SUCH GUARANTEES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[18*th July*, 2012]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1**.— In this Act—
+
+“applicable conditions” has the meaning assigned to it by *subsection (3)* of *section 5*;
+
+F1[“asset credit facility agreement” means an agreement (other than a loan agreement or a credit facility agreement) under which a participating finance provider agrees to provide to a qualifying enterprise credit in the form of tangible movable property upon—
+
+(*a*) such date or dates as may be specified in the agreement, or
+
+(*b*) the happening of such event as may be so specified,
+
+in consideration of that qualifying enterprise agreeing to make payments to the participating finance provider on such date or dates, or the happening of such event as may be so specified, and ‘asset credit facility’ shall be construed accordingly;]
+
+F1[“cash price” means, in relation to property provided pursuant to a qualifying finance agreement that is an asset credit facility agreement, the price that the participating enterprise would have been required to pay for the property if, at the time of the making of the agreement, that enterprise had elected to—
+
+(*a*) purchase the property, and
+
+(*b*) pay for the property in cash;]
+
+“contractor” has the meaning assigned to it by *section 7*;
+
+F2[“covid-19 credit guarantee scheme” has the meaning assigned to it by *section 4A(1)*;]
+
+F1[“credit amount” means—
+
+(*a*) in the case of a qualifying finance agreement that is a loan agreement, the principal of moneys borrowed from the participating finance provider by a participating enterprise pursuant to the agreement,
+
+(*b*) in the case of a qualifying finance agreement that is a credit facility agreement, the maximum amount (whether or not drawn down) of moneys agreed to be given or advanced by the participating finance provider to a participating enterprise, or to a third party nominated in that behalf by a participating enterprise, pursuant to the agreement,
+
+(*c*) in the case of a qualifying finance agreement that is an asset credit facility agreement, the cash price (specified in the agreement) of the property provided by the participating finance provider to a participating enterprise pursuant to the agreement, and
+
+(*d*) in the case of a qualifying finance agreement that is an invoice finance facility agreement, the maximum amount of moneys agreed to be given or advanced by the participating finance provider to a participating enterprise pursuant to the agreement, irrespective of whether that amount is given or advanced;]
+
+F1[“credit facility agreement” means an agreement (other than a loan agreement) under which a participating finance provider agrees to give or advance to a qualifying enterprise, or to a third party nominated in that behalf by a qualifying enterprise, a sum or sums of money upon—
+
+(*a*) such date or dates as may be specified in the agreement, or
+
+(*b*) the happening of such event as may be so specified,
+
+in consideration of that qualifying enterprise agreeing to repay to the participating finance provider the said sum or sums of money so given or advanced, and interest or charges (if any) thereon, on such date or dates as may be so specified, and ‘credit facility’ shall be construed accordingly;]
+
+“credit guarantee scheme” means a scheme under *section 5*;
+
+F3[...]
+
+F3[...]
+
+F1[“finance agreement” means—
+
+(*a*) a loan agreement,
+
+(*b*) a credit facility agreement,
+
+(*c*) an asset credit facility agreement, or
+
+(*d*) an invoice finance facility agreement;]
+
+F1[“finance provider” means a person who, in the ordinary course of business—
+
+(*a*) provides financial products to qualifying enterprises,
+
+(*b*) arranges for the provision by other persons of financial products to qualifying enterprises, or
+
+(*c*) provides facilities for the provision on credit of goods or services by the person to qualifying enterprises,
+
+but does not include a person who is prohibited under the law of the State or any other state from engaging in any of the activities specified in the foregoing paragraphs, and references to the provision of a financial product shall be construed accordingly;]
+
+F1[“financial product” means—
+
+(*a*) a loan,
+
+(*b*) a credit facility,
+
+(*c*) an asset credit facility, or
+
+(*d*) an invoice finance facility,
+
+provided to a qualifying enterprise under a finance agreement;]
+
+F1[“invoice finance facility agreement” means an agreement under which a participating finance provider agrees to give or advance to a qualifying enterprise a sum or sums of money in consideration of that qualifying enterprise assigning to the participating finance provider the right to recover debts owed to that qualifying enterprise, and ‘invoice finance facility’ shall be construed accordingly;]
+
+F3[...]
+
+“loan agreement” means an agreement under which a F4[participating finance provider] agrees to give or advance to a qualifying enterprise a sum or sums of money upon—
+
+(*a*) such date or dates as may be specified in the agreement, or
+
+(*b*) the happening of such event as may be so specified,
+
+in consideration of that qualifying enterprise agreeing to repay to the F4[participating finance provider] the principal of any sum or sums so given or advanced, and interest (if any) thereon, on such date or dates as may be so specified, but does not include an agreement to provide a facility commonly known as an overdraft facility F5[, credit card facility or credit line facility]) to a qualifying enterprise; and “loan” shall be construed accordingly;
+
+“Minister” means the Minister for Jobs, Enterprise and Innovation;
+
+F3[...]
+
+F1[“participating enterprise” means a qualifying enterprise—
+
+(*a*) belonging to a class to which a credit guarantee scheme applies, and
+
+(*b*) who has entered into a qualifying finance agreement with a participating finance provider;]
+
+F1[“participating finance provider” shall be construed in accordance with section 2;]
+
+F3[...]
+
+F1[“qualifying finance agreement” means a finance agreement—
+
+(*a*) in respect of which there has been compliance with the conditions specified in a credit guarantee scheme under subsection (4) of section 5,
+
+(*b*) belonging to a class of finance agreement to which a credit guarantee scheme applies,
+
+(*c*) that is made for a purpose that does not contravene a provision of a credit guarantee scheme to which paragraph (c) of that subsection applies, and
+
+(*d*) that does not permit a finance provider to exercise his or her powers under the finance agreement in such manner as would result in—
+
+(i) the value of the financial product provided under the agreement exceeding the maximum value specified under that subsection,
+
+(ii) the aggregate of the value of the financial products provided under a particular class of finance agreements with the qualifying enterprise concerned exceeding the maximum value so specified, or
+
+(iii) the aggregate of the value of the financial products provided under all qualifying finance agreements with the qualifying enterprise concerned exceeding the maximum value specified under that subsection;]
+
+“qualifying enterprise” shall be construed in accordance with *section 3*;
+
+F3[...]
+
+F6["Ukraine credit guarantee scheme" has the meaning assigned to it by *section 4B(1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 3(a), S. I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F2: Inserted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 2, S.I. No. 303 of 2020.
+>
+> F3: Deleted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 3(c), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F4: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 3(b)(i), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F5: Inserted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 3(b)(ii), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F6: Inserted (8.12.2022) by *Credit Guarantee (Amendment) Act 2022* (38/2022), s. 2, S.I. No. 642 of 2022
+
+## 2. Participating lender.
+
+F7[**2.** (1) For the purposes of this Act, a finance provider is a participating finance provider if—
+
+(*a*) the finance provider is a person in respect of whom a certificate under *subsection (2)* has effect, and
+
+(*b*) the finance provider stands approved for the time being by the Minister in accordance with this section.
+
+(2) For the purposes of this section, the Minister may, on the provision by the person referred to in *paragraph (a) or (b)*, as may be appropriate, of such information or documentation as the Minister considers necessary, certify in writing that he or she is satisfied—
+
+(*a*) that a person is a finance provider, or
+
+(*b*) that a person intends to carry on the business of—
+
+(i) providing financial products to qualifying enterprises,
+
+(ii) arranging for the provision by other persons of financial products to qualifying enterprises, or
+
+(iii) providing facilities for the provision on credit of goods or services by the person first-mentioned in this paragraph to qualifying enterprises.
+
+(3) The Minister may approve a finance provider under this section if—
+
+(*a*) the finance provider declares, in writing, that he or she agrees to comply with and be bound by the terms of a credit guarantee scheme, and
+
+(*b*) the Minister is satisfied that the finance provider has complied with the applicable conditions.
+
+(4) The Minister may withdraw an approval under this section if a finance provider ceases to comply with the applicable conditions or contravenes any other provisions of a credit guarantee scheme.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 4, S.I. No. 504 of 2016, subject to exclusions in s. 9.
+
+## 3. Qualifying enterprise.
+
+**3**.— (1) F8[Subject to *subsection (1A)*, for the purposes] of this Act, a person is a qualifying enterprise if—
+
+(*a*) the person is established in the State and employs fewer than 250 persons (calculated in accordance with the Commission Recommendation) whether or not in the State, and
+
+(*b*) the person’s—
+
+(i) annual turnover does not exceed €50 million (calculated in accordance with the Commission Recommendation) whether or not earned in, or derived from activities carried on in, the State,
+
+(ii) estimated annual turnover (in circumstances where the person has been carrying on business for less than 12 months) in the year concerned does not exceed €50 million (calculated in accordance with the Commission Recommendation) whether or not estimated to be earned, or derived from activities carried on, in the State, or
+
+(iii) annual balance sheet total does not exceed €43 million (calculated in accordance with the Commission Recommendation).
+
+F9[(1A) For the purposes of this Act, insofar as it applies to a Covid-19 credit guarantee scheme F10[or a Ukraine credit guarantee scheme], a person is a qualifying enterprise if—
+
+(*a*) the person is a qualifying enterprise within the meaning of *subsection (1)*, or
+
+(*b*) in the case of a person who is not a qualifying enterprise within the meaning of *subsection (1)*, the person is established in the State and employs not more than 499 persons (calculated in accordance with the Commission Recommendation) whether or not in the State.]
+
+(2) In this section “Commission Recommendation” means Commission Recommendation (2003/361/EC) of 6 May 2003 [^1] concerning the definition of micro, small and medium-sized enterprises.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 3(a), S.I. No. 303 of 2020.
+>
+> F9: Inserted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 3(b), S.I. No. 303 of 2020.
+>
+> F10: Inserted (8.12.2022) by *Credit Guarantee (Amendment) Act 2022* (38/2022), s. 3, S.I. No. 642 of 2022.
+
+## 4. Power of Minister to give guarantees.
+
+F11[**4.** (1) Subject to F12[this section, F13[*sections 4A* and *4B*,]] and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister may, in accordance with a credit guarantee scheme, enter into an agreement with a participating finance provider guaranteeing the due repayment or payment, as the case may be, to that participating finance provider of such part of the credit amount under a qualifying finance agreement as is specified in the first-mentioned agreement.
+
+(2) Subject to F15[*subsection (3)*, F14[*sections 4A* and *4B*,]] and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister shall not, pursuant to a guarantee under this section, be liable, in relation to any particular qualifying finance agreement, to pay an amount exceeding 80 per cent of the credit amount that—
+
+(*a*) the participating enterprise concerned stands liable, for the time being, to pay to the participating finance provider concerned, and
+
+(*b*) stands unpaid.
+
+(3) F16[Subject to *subsection (4A)*, the Minister] shall not exercise the powers conferred on him or her by this section in such manner as would result in his or her being liable, in respect of qualifying finance agreements entered into by the same participating finance provider, to pay to that participating finance provider amounts the aggregate of which would exceed 13 per cent of the aggregate of the credit amounts under those qualifying finance agreements.
+
+(4) F17[Subject to *subsection (4A)*, the Minister] shall not exercise the powers conferred on him or her by this section in such manner as would result in the yearly credit amount to which guarantees under this section apply exceeding €150 million.
+
+F18[(4A) *Subsections (3)* and *(4)* shall not apply to—
+
+(*a*) guarantees given under this section in accordance with a Covid-19 credit guarantee scheme F19[or a Ukraine credit guarantee scheme], or
+
+(*b*) qualifying finance agreements to which those guarantees apply.]
+
+(5) The Minister shall, in relation to a credit guarantee scheme, after consultation with the participating finance provider concerned, and by notice in writing given to the provider, specify the maximum value of financial products that may be provided by that provider pursuant to qualifying finance agreements—
+
+(*a*) entered into in any year, and
+
+(*b*) to which guarantees under this section apply.
+
+(6) The Minister may notify a participating finance provider in writing that an agreement entered into by the Minister with the participating finance provider under this section shall not apply in relation to one or more classes of qualifying finance agreements (in this section referred to as “new finance agreements”) entered into by the participating finance provider after such date as may be specified in the notice.
+
+(7) An agreement under this section shall not apply to new finance agreements.
+
+(8) In this section “yearly credit amount” means, in relation to any particular year, the aggregate of all credit amounts in respect of all qualifying finance agreements made in that year.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 5, S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F12: Substituted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 4(a), S.I. No. 303 of 2020.
+>
+> F13, F14: Substituted (8.12.2022) by *Credit Guarantee (Amendment) Act 2022* (38/2022), s. 4(a), (b), S.I. No. 642 of 2022.
+>
+> F15: Substituted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 4(b), S.I. No. 303 of 2020.
+>
+> F16: Substituted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 4(c), S.I. No. 303 of 2020.
+>
+> F17: Substituted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 4(d), S.I. No. 303 of 2020.
+>
+> F18: Inserted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 4(e), S.I. No. 303 of 2020.
+>
+> F19: Inserted (8.12.2022) by *Credit Guarantee (Amendment) Act 2022* (38/2022), s. 4(c), S.I. No. 642 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of powers conferred on Minister by section restricted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 12, S.I. No. 504 of 2016.
+>
+> **Monetary limit on Minister’s liability**
+>
+> **12.** The Minister shall not exercise the powers conferred on him or her by section 4 of the Principal Act or *section 11* in such manner as would result in the aggregate of the Minister’s liability in respect of—
+>
+> (*a*) all qualifying finance agreements, to which guarantees under a credit guarantee scheme apply, entered into in any year, and
+>
+> (*b*) all qualifying PFI guarantee agreements, to which counter guarantees under a counter guarantee scheme apply, entered into in that same year,
+>
+> exceeding €15.6 million.
+
+## 4A. Power of Minister to give guarantees in accordance with Covid-19 credit guarantee scheme
+
+F20[**4A.** (1) In the case of a credit guarantee scheme made to facilitate the provision of financial products to participating enterprises in response to the economic difficulties caused by Covid-19 (in this Act referred to as a "Covid-19 credit guarantee scheme")—
+
+(*a*) any agreement entered into by the Minister under *section 4* in accordance with that scheme shall be entered into on or before—
+
+(i) subject to *subparagraph (ii)*, the 31st day of December 2020, or
+
+(ii) subject to *subsection (2)*, such later date as the Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, appoint by order if he or she is satisfied that there is good and sufficient reason for doing so due to ongoing economic difficulties caused by Covid-19,
+
+and
+
+(*b*) any guarantee given pursuant to that agreement shall not exceed a maximum duration of 6 years from the date of the agreement.
+
+(2) The date that may be appointed by order under subsection (1)(a)(ii) shall be a date not later than the F21[31st day of December 2022].
+
+(3) The Minister shall not exercise the powers conferred on him or her by section 4 in accordance with a Covid-19 credit guarantee scheme in such manner as would result in the aggregate of all credit amounts in respect of all Covid-19 qualifying finance agreements exceeding €2 billion.
+
+(4) The Minister shall not exercise the powers conferred on him or her by section 4 in accordance with a Covid-19 credit guarantee scheme in such manner as would result in the aggregate of the Minister’s liability in respect of all Covid-19 qualifying finance agreements exceeding €1.6 billion.
+
+(5) In this section—
+
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+
+"Covid-19 qualifying finance agreement", in relation to a Covid-19 credit guarantee scheme, means a qualifying finance agreement to which a guarantee given under section 4 in accordance with that scheme applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (11.08.2020) by *Credit Guarantee (Amendment) Act 2020* (5/2020), s. 5, S.I. No. 303 of 2020.
+>
+> F21: Substituted (1.01.2022) by *Social Welfare Act 2021* (44/2021), s. 24, S.I. No. 750 of 2021.
+>
+> **Editorial Notes:**
+>
+> E1: 30 June 2022 prescribed as appointed day for purposes of subs. (1)(a)(ii) (21.12.2021) by *Credit Guarantee Act 2012 (Extension of Guarantee Date) Order 2021* (S.I. No. 751 of 2021).
+>
+> E2: 31 December 2021 prescribed as appointed day for purposes of subs. (1)(a)(ii) (15.12.2020) by *Credit Guarantee (Amendment) Act 2020 (Extension of Guarantee Date) Order 2021* (S.I. No. 200 of 2021).
+>
+> E3: 30 June 2021 prescribed as appointed day for purposes of subs. (1)(a)(ii) (15.12.2020) by *Credit Guarantee (Amendment) Act 2020 (Extension of Guarantee Date) Order 2020* (S.I. No. 633 of 2020).
+
+## 4B. F22[Power of Minister to give guarantees in accordance with Ukraine credit guarantee scheme
+
+**4B.** (1) In the case of a credit guarantee scheme made to facilitate the provision of financial products to participating enterprises in response to the economic difficulties resulting from the aggression against Ukraine by Russia (in this Act referred to as a "Ukraine credit guarantee scheme")—
+
+(*a*) any guarantee given pursuant to an agreement entered into by the Minister under *section 4* in accordance with that scheme shall not, with respect to any Ukraine qualifying finance agreement, have a duration greater than 6 years from the date on which such qualifying finance agreement was entered into, and
+
+(*b*) any Ukraine qualifying finance agreement shall be entered into on or before the 31st day of December 2024.
+
+(2) The Minister shall not exercise the powers conferred on him or her by *section 4* in accordance with a Ukraine credit guarantee scheme in such manner as would result in the aggregate of all credit amounts in respect of all Ukraine qualifying finance agreements exceeding €1.2 billion.
+
+(3) The Minister shall not exercise the powers conferred on him or her by *section 4* in accordance with a Ukraine credit guarantee scheme in such manner as would result in the aggregate of the Minister’s liability in respect of all Ukraine qualifying finance agreements exceeding €960 million.
+
+(4) In this section, "Ukraine qualifying finance agreement", in relation to a Ukraine credit guarantee scheme, means a qualifying finance agreement to which a guarantee given under *section 4* in accordance with that scheme applies.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (8.12.2022) by *Credit Guarantee (Amendment) Act 2022* (38/2022), s. 5, S.I. No. 642 of 2022.
+>
+> **Editorial Notes:**
+>
+> E4: This section heading is taken from the amending section in absence of one included in the amendment.
+
+## 5. Credit guarantee scheme.
+
+**5**.— (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make a scheme or schemes for the purposes of this Act.
+
+(2) Without prejudice to the generality of *subsection (1)*, a scheme under this section may make provision in relation to all or any of the following matters:
+
+F23[(*a*) the giving of such information to the Minister, as he or she may reasonably require for the purposes of the granting of approval under *section 2* or the making of an agreement under *section 4*;]
+
+(*b*) the extent of the Minister’s liability to a F23[participating finance provider] in accordance with an agreement under *section 4* in circumstances where the F23[participating finance provider] fails or refuses to comply with this Act or a scheme under this section;
+
+(*c*) variation of the terms of an agreement under *section 4* in circumstances where a F23[participating finance provider] fails or refuses to comply with this Act or a scheme under this section;
+
+F23[(*d*) without prejudice to the generality of *section 8(4)*, the method of payment of the premium under section 8 and the time or times at which the premium shall be paid;]
+
+(*e*) the preparation and maintenance of records, books of account and such other documentation as may be specified in a scheme under this section by F23[participating finance providers];
+
+(*f*) provision with regard to the giving of documents, information and reports by F23[finance providers] to the Minister;
+
+(*g*) the audit and examination of accounts of qualifying enterprises;
+
+(*h*) requirements in relation to the transfer of any rights and liabilities under a F23[finance agreement];
+
+(*i*) such other matters as the Minister, after consultation with the Minister for Finance and the Minister for Public Expenditure and Reform considers necessary or expedient.
+
+F24[(3) A scheme under this section shall specify conditions (in this Act referred to as "applicable conditions"), with which a finance provider shall, for the purposes of the granting of approval under *section 2*, comply, relating to—
+
+(*a*) the policies and practices of the finance provider as respects—
+
+(i) the provision of financial products generally,
+
+(ii) the provision of financial products to qualifying enterprises,
+
+(iii) the assessment of the credit risk or financial stability of qualifying enterprises,
+
+(iv) the recovery of sums owing to the finance provider by a qualifying enterprise or property provided to a qualifying enterprise by the finance provider under a qualifying finance agreement, and
+
+(v) the provision by qualifying enterprises of security for financial products provided to qualifying enterprises under qualifying finance agreements,
+
+(*b*) the sources from which the finance provider obtains his or her finance or funding,
+
+(*c*) the credit history of the finance provider and, in the case of certain classes of finance provider as may be specified in the scheme, a person who has, subject to subsection (6), a controlling interest in the finance provider,
+
+(*d*) the accounts and financial performance of the finance provider,
+
+(*e*) in the case of a finance provider referred to in *paragraph (b)* of the definition of "finance provider", the payment by the finance provider of any moneys that may be received by that provider from the Minister pursuant to a guarantee under *section 4* in respect of a qualifying finance agreement, to the person who provided the financial product to which that agreement relates,
+
+(*f*) the administration and management of the finance provider,
+
+(*g*) the financial product or financial products to which the scheme applies, including—
+
+(i) the information and documentation to be provided by the finance provider to the Minister in relation to the provision of such financial products,
+
+(ii) the information and documentation to be provided by the finance provider to qualifying enterprises in relation to the provision of such financial products, and
+
+(iii) the interest, charges and other costs (if any) that may be applied in relation to the provision of such financial products to qualifying enterprises,
+
+(*h*) the procedures in relation to the supervision of finance agreements entered into on the finance provider’s behalf by members of staff of the finance provider, and
+
+(*i*) where applicable, the capital reserves of the finance provider,
+
+declared in a credit guarantee scheme to be conditions with which a finance provider shall comply before an approval in respect of that finance provider may be given under *section 2*.]
+
+F25[(4) A scheme under this section shall specify—
+
+(*a*) the class or classes of—
+
+(i) qualifying enterprise,
+
+(ii) finance provider,
+
+(iii) financial product, and
+
+(iv) finance agreement,
+
+to which the scheme shall apply,
+
+(*b*) the conditions that shall be complied with in relation to the entering into of a finance agreement by a participating finance provider with a qualifying enterprise,
+
+(*c*) the purposes for which moneys or other property received by qualifying enterprises pursuant to a finance agreement may be applied,
+
+(*d*) the maximum value or values of one or more financial products that may be provided to a qualifying enterprise under one or more finance agreements to which the scheme applies, and
+
+(*e*) the methodology referred to in *section 8(1)*.]
+
+F26[(5) (*a*) The Minister may require that any information referred to in *subsection (2)(a)* given to him or her by a person in compliance with a scheme under this section be attested as to the truth of the information by a statutory declaration made by that person.
+
+(*b*) The Minister may require that any document, information or report referred to in *subsection (2)(f)* given to him or her by a finance provider in compliance with a scheme under this section be attested as to the truth of the contents of the document or report or, as the case may be, as to the truth of the information, by a statutory declaration made by that finance provider.
+
+(6) For the purposes of this section, controlling interest shall be construed in accordance with subsection (14) of section 494 of the Taxes Consolidation Act 1997 and, accordingly, that subsection shall apply in relation to a finance provider subject to any necessary modifications.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 6(a), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F24: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 6(b), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F25: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 6(c), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> F26: Inserted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 6(d), S.I. No. 504 of 2016, subject to exclusions in s. 9.
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (8.12.2022) by *Ukraine Credit Guarantee Scheme 2022* (S.I. No. 641 of 2022).
+>
+> E6: Power pursuant to section exercised (28.08.2020) by *Covid-19 Credit Guarantee Scheme 2020* (S.I. No. 325 of 2020).
+>
+> E7: Power pursuant to section exercised (3.03.2017) by *Credit Guarantee Scheme 2017* (S.I. No. 70 of 2017), in effect as per art. 2.
+>
+> E8: Power pursuant to section exercised (10.02.2015) by *Credit Guarantee Scheme 2015* (S.I. No. 48 of 2015), in effect as per art. 2.
+>
+> E9: Power pursuant to section exercised (4.09.2012) by *Credit Guarantee Scheme 2012* (S.I. No. 360 of 2012), in effect as per art. 2.
+
+## 6. Laying of scheme before both Houses of Oireachtas.
+
+**6**.— A credit guarantee scheme shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House sits after the credit guarantee scheme is laid before it, the credit guarantee scheme shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 7. Agreement for performance of functions under credit guarantee scheme.
+
+**7**.— (1) The Minister may enter into an agreement with another person (in this Act referred to as the “contractor”) for the performance by that person of such functions under a credit guarantee scheme as may be specified in the agreement.
+
+(2) An agreement under this section shall contain such terms and conditions as the Minister, after consultation with the Minister for Public Expenditure and Reform, determines.
+
+(3) The Minister may terminate an agreement under this section where the contractor fails to comply with any of the terms or conditions contained in the agreement.
+
+## 8. Payment of charge to Minister by participating borrower.
+
+F27[**8.** (1) Subject to this section, a participating enterprise shall, in accordance with a credit guarantee scheme that applies to the enterprise and a qualifying finance agreement entered into by the enterprise with a participating finance provider, pay to the Minister an amount (in this section referred to as the "premium") determined by the Minister in accordance with the methodology specified in the scheme for the purposes of making that determination.
+
+(2) The Minister shall, in specifying, in a credit guarantee scheme, the methodology referred to in *subsection (1)*, have regard to—
+
+(*a*) the expenses referred to in *section 11* incurred or likely to be incurred, or both, in relation to the scheme, and
+
+(*b*) the objectives of the scheme.
+
+(3) The Minister shall, in specifying, in a credit guarantee scheme, the methodology referred to in *subsection (1)* in so far as the expenses referred to in *section 11* are concerned, have regard to—
+
+(*a*) the size and quality of the participating enterprises to which the scheme applies,
+
+(*b*) the risks associated with those participating enterprises,
+
+(*c*) the typical risks associated with the business sector or sectors to which those participating enterprises belong,
+
+(*d*) the duration of guarantees given under the scheme,
+
+(*e*) the Minister’s liability under *section 4(2)* in relation to a qualifying finance agreement to which the scheme applies, and
+
+(*f*) the nature of qualifying finance agreements to which the scheme applies.
+
+(4) The premium may be charged annually, may be paid by one payment or by instalments, and may be paid at such time or times, as may be specified in the credit guarantee scheme.
+
+(5) The Minister shall apply the premium received by him or her from a participating enterprise for the purpose only of defraying the costs of the credit guarantee scheme which applies to the enterprise.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 7, S.I. No. 504 of 2016, subject to exclusions in s. 9.
+
+## 9. Withdrawal of guarantee by Minister.
+
+F28[**9.** (1) Where a participating finance provider fails or refuses to comply with the terms of a credit guarantee scheme, the Minister may withdraw any guarantee given by him or her in respect of any qualifying finance agreement to which that participating finance provider is a party.
+
+(2) Any term of a finance agreement that permits a participating finance provider to—
+
+(*a*) alter a term or condition of such agreement upon the withdrawal of a guarantee in accordance with *subsection (1)*, or
+
+(*b*) impose less favourable terms and conditions on the participating enterprise upon the withdrawal of a guarantee in accordance with *subsection (1)*,
+
+shall be null and void.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (1.10.2016) by *Credit Guarantee (Amendment) Act 2016* (1/2016), s. 8, S.I. No. 504 of 2016, subject to exclusions in s. 9.
+
+## 10. Review of credit guarantee scheme.
+
+**10**.— The Minister may, at any time, conduct a review of the operation of a credit guarantee scheme and, not later than 2 months after completing such review make a report in writing to each House of the Oireachtas of his or her findings and conclusions resulting from that review.
+
+## 11. Expenses.
+
+**11**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, with the consent of the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+## 12. Short title and commencement.
+
+**12**.— (1) This Act may be cited as the Credit Guarantee Act 2012.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to section exercised (30.08.2012) by *Credit Guarantee Act 2012 (Commencement) Order 2012* (S.I. No. 382 of 2012), art. 2.
+>
+> 2\. The 30th day of August 2012 is appointed as the day upon which the Credit Guarantee Act 2012 (No. 26 of 2012), shall come into operation.
+
+[^1]: O.J. No. L124 of 20.5.2003, p.36

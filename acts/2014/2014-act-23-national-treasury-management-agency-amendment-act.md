@@ -1,0 +1,2388 @@
+---
+title: "National Treasury Management Agency (Amendment) Act 2014"
+identifier: "eli/2014/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 2014
+date: 2014-07-26
+last_amended: 2026-05-29
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2014/act/23/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2014/act/23/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# National Treasury Management Agency (Amendment) Act 2014
+
+An Act to provide for and in connection with the reconstitution of the National Treasury Management Agency; to confer on that Agency new functions relating to State bodies and assets and proposals for investment; to transfer to that Agency functions of the National Development Finance Agency relating to infrastructure; to provide for the delegation to, and conferral on, the National Treasury Management Agency of functions in relation to the management of certain claims for costs of a legal nature against, or in favour of, the State and certain related functions; to provide for the Ireland Strategic Investment Fund and the transfer to it of the assets and liabilities of the National Pensions Reserve Fund and to provide for its management by the National Treasury Management Agency; to provide for the dissolution of the National Pensions Reserve Fund Commission, the National Development Finance Agency and certain committees; for those and other purposes to amend the National Treasury Management Agency Act 1990, the National Treasury Management Agency (Amendment) Act 2000 and certain other enactments and to repeal the National Pensions Reserve Fund Act 2000, the National Development Finance Agency Act 2002 and certain other enactments; to amend the State Authorities (Public Private Partnership Arrangements) Act 2002 and the Social Welfare Consolidation Act 2005; and to provide for related purposes.
+
+[26 *th July*, 2014]
+
+**Be it enacted by the Oireachtas as follows:**
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation, construction and commencement
+
+**1.** (1) This Act may be cited as the National Treasury Management Agency (Amendment) Act 2014.
+
+(2) This Act and the National Treasury Management Agency Acts 1990 and 2000 may be cited as the National Treasury Management Agency Acts 1990 to 2014 and shall be construed together as one.
+
+(3) This Act shall come into operation on such day or days as the Minister may appoint by order or orders generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: A table of commencement information ordered by section is available at https://www.irishstatutebook.ie/eli/isbc/2014_23.html.
+>
+> E2: Power pursuant to subs. (3) exercised (31.12.2022) by *National Treasury Management Agency (Amendment) Act 2014 (Commencement) Order 2022* (S.I. No. 695 of 2022).
+>
+> 2\. The 31st day of December 2022 is appointed as the day on which section 5(2) of and Schedule 2 to the National Treasury Management Agency (Amendment) Act 2014 (No. 23 of 2014), insofar as those provisions relate to the amendment specified in item 1(a) of Part 3 of that Schedule, shall come into operation.
+>
+> E3: Power pursuant to subs. (3) exercised (31.12.2021) by *National Treasury Management Agency (Amendment) Act 2014 (Commencement) Order 2021* (S.I. No. 608 of 2021).
+>
+> 2\. The 31st day of December 2021 is appointed as the day on which the following provisions of the National Treasury Management Agency (Amendment) Act 2014 (No. 23 of 2014) come into operation:
+>
+> (a) section 5(1) and Schedule 1, insofar as those provisions relate to the amendments specified in -
+>
+> (i) item 1(b) of Part 2,
+>
+> (ii) items 2(b) and (c), 4, 7(b) and (c), 9(b) and (c), 10(b) and 12(b), (c) and (d) of Part 4, and
+>
+> (iii) Part 8,
+>
+> of that Schedule,
+>
+> (b) section 5(2) and Schedule 2, insofar as those provisions relate to the amendments specified in -
+>
+> (i) item 1(b) of Part 2,
+>
+> (ii) Part 4, and
+>
+> (iii) items 1(a) and 2(b) of Part 6,
+>
+> of that Schedule,
+>
+> (c) section 6(a) and (d),
+>
+> (d) section 50,
+>
+> (e) Chapter 4 of Part 7, insofar as that Chapter relates to the provisions specified in paragraph (f), and
+>
+> (f) paragraphs 15 and 17 of Schedule 4.
+>
+> E4: Power pursuant to subs. (3) exercised (27.01.2015) by *National Treasury Management Agency (Amendment) Act 2014 (Commencement) Order 2015* (S.I. No. 22 of 2015), art. 2.
+>
+> 2\. The 27th day of January 2015 is appointed as the day on which the following provisions of the *National Treasury Management Agency (Amendment) Act 2014* (No. 23 of 2014) come into operation:
+>
+> (*a*) section 5(1) and Schedule 1, insofar as those provisions relate to the amendments specified in—
+>
+> (i) item 1 of Part 1,
+>
+> (ii) item 1(*a*) of Part 2,
+>
+> (iii) items 2, 4 and 6 of Part 3,
+>
+> (iv) items 1, 5, 7(*d*), 8, 11 and 12(*e*) of Part 4,
+>
+> (v) item 1 of Part 5,
+>
+> (vi) item 1 of Part 7, and
+>
+> (vii) item 1 of Part 10,
+>
+> of that Schedule,
+>
+> (*b*) section 5(2) and Schedule 2, insofar as those provisions relate to the amendments specified in—
+>
+> (i) item 1(*a*) of Part 1,
+>
+> (ii) item 1(*a*) of Part 2, and
+>
+> (iii) item 1(*a*) of Part 5,
+>
+> of that Schedule,
+>
+> (*c*) section 6(*b*) and (*c*),
+>
+> (*d*) section 14(*b*),
+>
+> (*e*) Part 4 and Schedule 3,
+>
+> (*f*) section 51,
+>
+> (*g*) Chapter 4 of Part 7, insofar as that Chapter relates to the provisions specified in paragraph (*h*), and
+>
+> (*h*) paragraphs 10 to 14 and 16, 18 and 19 of Schedule 4.
+>
+> E5: Power pursuant to subs. (3) exercised (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014 (Commencement)(No. 2) Order 2015* (S.I. No. 586 of 2014), art. 2(a).
+>
+> 2\. The 22nd day of December 2014 is appointed as the day on which the following provisions of the *National Treasury Management Agency (Amendment) Act 2014* (No. 23 of 2014) come into operation:
+>
+> (*a*) section 5(1) and Schedule 1, insofar as those provisions relate to the amendments specified in—
+>
+> (i) items 1, 3, 5, and 7 of Part 3,
+>
+> (ii) items 2(*a*), 3, 6, 7(*a*), 9(*a*), 10(*a*) and 12(*a*) of Part 4,
+>
+> (iii) item 2 of Part 5, and
+>
+> (iv) Parts 6 and 9,
+>
+> of that Schedule,
+>
+> (*b*) section 5(2) and Schedule 2, insofar as those provisions relate to the amendments specified in—
+>
+> (i) items 1(*c*) and (*d*) of Part 1,
+>
+> (ii) item 1(*b*) of Part 3,
+>
+> (iii) item 1(*b*) of Part 5, and
+>
+> (iv) items 1(*b*) and 2(*a*) of Part 6,
+>
+> of that Schedule,
+>
+> (*c*) section 5(3),
+>
+> (*d*) Part 2 (other than section 14(*b*)),
+>
+> (*e*) Part 3,
+>
+> (*f*) Part 6,
+>
+> (*g*) Chapter 3 of Part 7,
+>
+> (*h*) Chapter 4 of Part 7, insofar as that Chapter relates to the provisions specified in paragraph (i), and
+>
+> (*i*) paragraphs 1 to 9 and 20 to 23 of Schedule 4.
+>
+> E6: Power pursuant to subs. (3) exercised (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014 (Commencement) Order 2014* (S.I. No. 414 of 2014), art. 2.
+>
+> 2\. The 19th day of September 2014 is appointed as the day on which sections 1 to 4 and Parts 5 and 8 of the *National Treasury Management Agency (Amendment) Act 2014* (No. 23 of 2014) come into operation.
+
+### 2. Definitions
+
+**2.** In this Act—
+
+“Act of 1990” means National Treasury Management Agency Act 1990;
+
+“Act of 2000” means National Treasury Management Agency (Amendment) Act 2000;
+
+“Agency” means National Treasury Management Agency;
+
+“enactment” has the same meaning as in the Interpretation Act 2005;
+
+“Minister” means Minister for Finance.
+
+### 3. Expenses
+
+**3.** (1) The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+(2) The expenses incurred by the Minister for Public Expenditure and Reform in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+### 4. Orders
+
+**4.** Every order (other than an order under *section 1(3)*) made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under the order.
+
+### 5. Amendments
+
+**5.** (1) The Acts specified in each Part of *Schedule 1* are amended to the extent specified in column (3) of that Part of that Schedule.
+
+(2) The statutory instruments specified in each Part of *Schedule 2* are amended to the extent specified in column (3) of that Part of that Schedule.
+
+(3) The amendment of a statutory instrument by *subsection (2)* does not prevent or restrict the subsequent amendment or revocation of the instrument by another statutory instrument.
+
+### 6. Repeals
+
+**6.** The following enactments are repealed:
+
+(a) the National Pensions Reserve Fund Act 2000 (other than section 30);
+
+(b) the National Development Finance Agency Act 2002;
+
+(c) the National Development Finance Agency (Amendment) Act 2007;
+
+(d) the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009 (other than sections 9 and 11 to 13).
+
+## PART 2National Treasury Management Agency — PART 2 — National Treasury Management Agency
+
+### 7. Interpretation
+
+**7.** Section 1(1) of the Act of 1990 is amended by inserting the following definitions:
+
+" ‘appointed member’ means a member of the Agency appointed under section 3A(1)(a);
+
+‘the Chairperson’ means the Chairperson of the Agency;
+
+‘local authority’ has the same meaning as in the Local Government Act 2001;”.
+
+### 8. Membership
+
+**8.** (1) The Act of 1990 is amended by inserting the following section after section 3:
+
+**“Membership of Agency**
+
+**3A.** (1) The Agency shall comprise—
+
+(a) 6 members who shall be appointed by the Minister, and
+
+(b) the Chief Executive, the Secretary General of the Department of Finance and the Secretary General of the Department of Public Expenditure and Reform as *ex officio* members.
+
+(2) The Minister shall appoint a person to be an appointed member only if, in the opinion of the Minister, the person has expertise and experience at a senior level in one or more of the following areas:
+
+(a) investment;
+
+(b) treasury management;
+
+(c) business management;
+
+(d) finance;
+
+(e) economics or economic development;
+
+(f) law;
+
+(g) accounting and auditing;
+
+(h) actuarial practice;
+
+(i) risk management;
+
+(j) insurance;
+
+(k) project finance;
+
+(l) corporate finance;
+
+(m) the Civil Service of the Government or the Civil Service of the State.
+
+(3) The Minister shall, subject to subsection (2) and in so far as is reasonably practicable, ensure an equitable balance between men and women in the membership of the Agency.
+
+(4) The Minister shall appoint one of the appointed members as the Chairperson.
+
+(5) Schedule A shall apply in relation to the members and Chairperson.”
+
+(2) The Act of 1990 is amended by inserting the following Schedule before the First Schedule:
+
+“SCHEDULE A
+
+Section 3A
+
+Members of Agency
+
+Disqualification from appointment
+
+1\. A person who is a member of either House of the Oireachtas, the European Parliament or a local authority is disqualified from being appointed as an appointed member.
+
+Terms of office: appointed members
+
+2\. (1) Subject to subparagraph (2), the term of office of an appointed member is 5 years.
+
+(2) Of the initial appointed members, the Minister shall appoint 2 members for a term of office of 3 years and 2 members for a term of office of 4 years.
+
+(3) Subject to subparagraph (4), an appointed member whose term of office expires by the passage of time is eligible for re-appointment as an appointed member.
+
+(4) An appointed member is not eligible to serve for more than 2 consecutive terms of office.
+
+Terms of office: *ex officio* members
+
+3\. An *ex officio* member holds office as such for as long as he or she holds or performs the duties of the office by virtue of which he or she is such a member.
+
+Remuneration of appointed members
+
+4\. (1) An appointed member shall be paid such remuneration and such allowances in reimbursement of expenses incurred as the Minister from time to time determines.
+
+(2) An appointed member holds office on such terms (other than as to the payment of remuneration and allowances for expenses incurred) as the Minister determines at the time of the member’s appointment.
+
+Disqualification for and ceasing to hold office
+
+5\. (1) A person ceases to be qualified to be an appointed member and (where he or she is an appointed member) ceases to hold office if he or she—
+
+(a) is adjudicated bankrupt,
+
+(b) makes a composition or arrangement with creditors,
+
+(c) is convicted of an indictable offence in relation to a company,
+
+(d) is convicted of an offence involving fraud or dishonesty, whether or not in connection with a company,
+
+(e) has a declaration under section 150 of the Companies Act 1990 made against him or her or is subject, or is deemed to be subject, to a disqualification order by virtue of Part VII of that Act, or
+
+(f) is sentenced by a court of competent jurisdiction to a term of imprisonment.
+
+(2) If an appointed member—
+
+(a) is nominated as a member of Seanad Éireann,
+
+(b) is elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(c) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to the European Parliament, or
+
+(d) becomes a member of a local authority,
+
+he or she thereupon ceases to be an appointed member.
+
+(3) An appointed member may resign his or her membership of the Agency by letter addressed to the Minister and the resignation takes effect on the date (if any) specified in the letter or on the date the Minister receives the letter, whichever is the later.
+
+(4) The Minister may, on reasonable notice in writing at any time, remove an appointed member from membership of the Agency (or, if the appointed member concerned is the Chairperson, either from membership of the Agency or only from being Chairperson) if—
+
+(a) in the Minister’s opinion, the member—
+
+(i) is not adequately performing his or her functions, whether because of incapacity through illness or injury or otherwise, or
+
+(ii) has committed misconduct specified in the notice,
+
+(b) the Minister is satisfied that the member has contravened the Ethics in Public Office Act 1995, or
+
+(c) his or her removal appears to the Minister to be necessary or expedient for the effective performance by the Agency of its functions.
+
+Filling of casual vacancies, etc.
+
+6\. If an appointed member dies, ceases to be a member of the Agency, resigns his or her membership of the Agency or is removed from membership of the Agency, the Minister may (as an alternative to making a new appointment for 5 years) appoint a person to fill the vacancy for the remainder of the term of office of the member whose death, cessation of membership, resignation or removal occasioned the vacancy.
+
+Vacancies in membership
+
+7\. Subject to this Act, the Agency may act notwithstanding one or more vacancies in its membership.
+
+Chairperson
+
+8\. (1) The Chairperson holds office as Chairperson for 5 years or until the end of his or her term of office as an appointed member, whichever is the earlier.
+
+(2) The Chairperson may resign as the Chairperson (with or without also resigning as an appointed member) by letter addressed to the Minister and the resignation takes effect on the date (if any) specified in the letter or on the date the Minister receives the letter, whichever is the later.
+
+(3) If the Chairperson dies or ceases for any reason to be an appointed member, the Minister shall appoint another appointed member to fill the vacancy as the Chairperson.
+
+(4) The Minister may determine that the Chairperson shall be paid additional remuneration or allowances on account of his or her responsibilities as the Chairperson.”
+
+### 9. Procedure
+
+**9.** (1) The Act of 1990 is amended by inserting the following section after section 3A (inserted by *section 8(1)*):
+
+**“Procedure of Agency**
+
+**3B.**(1) The Agency shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+(2) Schedule B shall apply in relation to meetings of, and other procedural matters relating to, the Agency.”
+
+(2) The Act of 1990 is amended by inserting the following Schedule after Schedule A (inserted by *section 8(2)*):
+
+“SCHEDULE B
+
+Section 3B
+
+Meetings and Procedure of Agency
+
+Meetings
+
+1\. (1) The quorum for a meeting of the Agency is 5, or, if there is a vacancy in the membership of the Agency, 4 while the vacancy exists.
+
+(2) A meeting held while there is a vacancy in the Agency is validly held notwithstanding the vacancy so long as there is a quorum.
+
+(3) At a meeting of the Agency—
+
+(a) if the Chairperson is present, he or she shall preside over the meeting, and
+
+(b) if the Chairperson is not present or the office of Chairperson is vacant, the members present shall choose one of the appointed members present to be chairperson of the meeting.
+
+(4) At a meeting of the Agency each member present has a vote and any question on which a vote is required in order to establish the Agency’s view on the matter shall be determined by a majority of votes of members present and voting on the question.
+
+(5) In the case of an equal division of votes, the Chairperson or other member presiding over the meeting has an additional casting vote.
+
+Procedure
+
+2\. Subject to this Act, the Agency shall regulate, by rules or otherwise, its procedure (including its procedure for electronic meetings) and business.
+
+Electronic meetings
+
+3\. (1) In addition to meeting with all participants physically present, the Agency may hold or continue a meeting by the use of any means of communication by which all the participants can hear and be heard at the same time (in this Schedule referred to as an ‘electronic meeting’).
+
+(2) A member of the Agency who participates in an electronic meeting is taken for all purposes to have been present at the meeting.
+
+(3) The Agency may establish procedures for electronic meetings (including the recording of such meetings) in its rules.
+
+Resolution by circulation of copies
+
+4\. (1) The Agency may pass a resolution without a meeting being held if—
+
+(a) all of the members entitled to vote on the resolution are given notice of the resolution, and
+
+(b) a majority of them sign a document containing a statement that they are in favour of the resolution in the document.
+
+(2) A resolution referred to in subparagraph (1) may be passed by the members, or some of them, signing separate copies of the document referred to in clause (b) of that subparagraph if the date and time of each signature is indicated on the document.
+
+(3) A resolution passed in accordance with this paragraph is taken to have been passed at the time when a majority of members entitled to vote on the resolution have signed, or have signed copies of, the document referred to in subparagraph (1)(b).
+
+Seal
+
+5\. (1) The seal of the Agency shall be authenticated by the signature of any 2 members or in any other way that the Agency resolves.
+
+(2) Judicial notice shall be taken of the seal of the Agency.
+
+(3) A document purporting to be an instrument made by, and sealed with the seal of, the Agency, and purporting to be authenticated in accordance with subparagraph (1), shall be received in evidence and be taken to be such an instrument unless the contrary is shown.
+
+(4) Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal, may be entered into or executed on behalf of the Agency by any person generally or specially authorised by the Agency to act in that behalf.”
+
+### 10. Committees
+
+**10.** The Act of 1990 is amended by inserting the following sections after section 5:
+
+**“Investment Committee**
+
+**5A.** (1) There shall be an Investment Committee of the Agency.
+
+(2) The Investment Committee shall have the functions specified in *section 41(5)* of the *National Treasury Management Agency (Amendment) Act 2014*.
+
+(3) The Investment Committee shall comprise—
+
+(a) 2 of the appointed members nominated by the Agency, and
+
+(b) not more than 5 persons who are not members of the Agency but who have acquired substantial relevant expertise and experience and who are appointed by the Agency with the consent of the Minister.
+
+(4) No member of staff of the Agency may be appointed as a member of the Investment Committee.
+
+(5) The Agency shall appoint one of the members of the Investment Committee appointed under subsection (3)(a) to chair the Investment Committee.
+
+(6) A member of the Investment Committee appointed under subsection (3)(b) shall be paid such remuneration and such allowances for expenses incurred as the Agency from time to time with the consent of the Minister determines.
+
+(7) A member of the Investment Committee holds office on such terms (other than as to the payment of remuneration and allowances for expenses incurred) as the Agency determines at the time of the member’s nomination or appointment.
+
+(8) The Agency may regulate the procedure of the Investment Committee but, subject to that, it shall regulate its own procedure.
+
+**Other committees**
+
+**5B.** (1) The Agency may establish such committees as it considers appropriate to perform such of the Agency’s functions as may be delegated to any such committee.
+
+(2) A committee established under this section may at any time be dissolved by the Agency.
+
+(3) A committee established under this section shall comprise members appointed by the Agency.
+
+(4) The members of a committee established under this section shall include at least one member of the Agency but may also include the Chief Executive or any other member of staff of the Agency or any other person appearing to the Agency to be suitable for appointment to the committee having regard to its functions.
+
+(5) The Agency shall appoint one of the members of a committee who is a member of the Agency to chair it.
+
+(6) A member of a committee established under this section who is not a member of the Agency or the Chief Executive or another member of staff of the Agency shall be paid such remuneration and such allowances in reimbursement of expenses incurred as the Agency from time to time with the consent of the Minister determines.
+
+(7) A member of a committee established under this section holds office on such terms (other than as to the payment of remuneration and allowances for expenses incurred) as the Agency determines at the time of the member’s appointment.
+
+(8) The Agency may regulate the procedure of a committee established under this section but, subject to that, the committee shall regulate its own procedure.”
+
+### 11. Chief Executive
+
+**11.** Section 6 of the Act of 1990 is amended—
+
+(a) by substituting the following for subsection (2):
+
+“(2) The Chief Executive shall manage and control generally the administration and business of the Agency and shall perform any other functions—
+
+(a) conferred on the Chief Executive by or under this Act or any other enactment, or
+
+(b) delegated to the Chief Executive by the Agency (which may delegate any specified function of the Agency or all the functions of the Agency other than specified ones).”,
+
+(b) in subsection (3), by substituting “Agency after consultation with the Minister” for “Minister after consultation with the Committee”,
+
+(c) by substituting the following for subsection (4):
+
+(4) The Chief Executive may delegate to members of staff of the Agency any function—
+
+(a) conferred on the Chief Executive by or under this Act or any other enactment, or
+
+(b) delegated to the Chief Executive by the Agency.”,
+
+(d) by deleting subsection (5),
+
+(e) in subsection (6), by substituting “The Agency, with the consent of the Minister” for “The Minister”,
+
+(f) by deleting subsection (7), and
+
+(g) in subsection (8), by substituting “The Chief Executive shall not” for “Neither the Chief Executive nor the Acting Chief Executive shall”.
+
+### 12. Accountability of Chief Executive
+
+**12.** The Act of 1990 is amended by inserting the following sections after section 6:
+
+**“Accountability to Public Accounts Committee**
+
+**6A.** (1) The Chief Executive shall, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General (in this section referred to as the ‘Committee’), give evidence to that Committee in relation to—
+
+(a) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the Agency is required by or under this Act or any other enactment to prepare,
+
+(b) the economy and efficiency of the Agency in the use of its resources,
+
+(c) the systems, procedures and practices employed by the Agency for the purpose of evaluating the effectiveness of its operations, and
+
+(d) any matter affecting the Agency referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or (in so far as it relates to a matter specified in paragraph (a), (b) or (c)) in any other report of the Comptroller and Auditor General that is laid before Dáil Éireann.
+
+(2) In the performance of his or her duties under subsection (1), the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+**Appearances before other Oireachtas committees**
+
+**6B.** (1) In this section ‘Committee’ means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in section 6A or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a sub-committee of such a Committee.
+
+(2) Subject to subsection (3), the Chairperson and the Chief Executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Agency.
+
+(3) The Chairperson and the Chief Executive shall not be required to give account before a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+(4) Where the Chairperson or the Chief Executive is of the opinion that a matter in respect of which he or she is requested to give an account before a Committee is a matter to which subsection (3) applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the Chairperson or the Chief Executive is before it, the information shall be so conveyed in writing.
+
+(5) Where the Chairperson or the Chief Executive has informed a Committee of his or her opinion in accordance with subsection (4) and the Committee does not withdraw the request referred to in subsection (2) in so far as it relates to a matter the subject of that opinion—
+
+(a) the Chairperson or the Chief Executive may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which subsection (3) applies, or
+
+(b) the person who chairs the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court shall determine the matter.
+
+(6) Pending the determination of an application under subsection (5), the Chairperson and the Chief Executive shall not attend before the Committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which subsection (3) applies, the Committee shall withdraw the request referred to in subsection (2), but if the High Court determines that subsection (3) does not apply, the Chairperson and the Chief Executive shall attend before the Committee to give account for the matter.
+
+(8) In the performance of his or her duties under this section, the Chairperson and the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.”
+
+### 13. Disqualification of members of staff
+
+**13.** The Act of 1990 is amended by substituting the following for section 10:
+
+**“Membership of Oireachtas, European Parliament or local authority by members of staff**
+
+**10.** (1) A person who is a member of either House of the Oireachtas, the European Parliament or a local authority is disqualified from being employed in any capacity by the Agency.
+
+(2) Where a member of staff of the Agency—
+
+(a) is nominated as a member of Seanad Éireann,
+
+(b) is elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(c) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to the European Parliament, or
+
+(d) becomes a member of a local authority,
+
+he or she shall thereupon stand seconded from employment by the Agency and shall not be paid by, or be entitled to receive from, the Agency any remuneration or allowances in respect of the period commencing on such nomination or election or when he or she is so regarded as having been elected or becomes a member of a local authority (as the case may be), and ending when such person ceases to be a member of either such House or a member of the European Parliament or local authority.
+
+(3) A period mentioned in subsection (2) shall not, for the purposes of any superannuation benefit, be reckoned as service with the Agency.”
+
+### 14. Accounts and audit
+
+**14.** Section 12 of the Act of 1990 is amended—
+
+(a) by substituting the following for subsection (2):
+
+“(2) Accounts kept in pursuance of this section shall be signed by the Chief Executive (who shall be the officer accountable for such accounts for the purposes of the Comptroller and Auditor General Acts 1866 to 1998) and an appointed member.
+
+(2A) Accounts kept in pursuance of this section shall be submitted by the Agency to the Comptroller and Auditor General for audit as soon as may be, but not later than 4 months, after the end of the financial year of the Agency to which they relate.
+
+(2B) A copy of the accounts as so audited shall, as soon as may be, be given to the Minister who shall cause copies to be laid before each House of the Oireachtas.”,
+
+and
+
+(b) by deleting subsection (4) (inserted by section 20(5)(b) of the National Development Finance Agency Act 2002).
+
+### 15. Disclosure of interests
+
+**15.** The Act of 1990 is amended by inserting the following section after section 13:
+
+**“Disclosure of certain interests by members of Agency or committees of Agency**
+
+**13A.** (1) This section applies to a person who is a member of—
+
+(a) the Agency,
+
+(b) the Investment Committee of the Agency, or
+
+(c) any committee established under section 5B,
+
+and who has a material interest in any matter which falls to be considered by the Agency or the Investment Committee or any other committee of the Agency.
+
+(2) A person to whom this section applies shall—
+
+(a) disclose to the Agency, the Investment Committee or the committee concerned the fact of his or her interest and its nature in advance of consideration of the matter,
+
+(b) neither influence nor seek to influence a decision to be made in relation to the matter,
+
+(c) take no part in consideration of the matter,
+
+(d) absent himself or herself from the meeting or the part of the meeting concerned during which the matter is discussed, and
+
+(e) not vote on a decision relating to the matter.
+
+(3) Where a material interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting of the Agency, the Investment Committee or the committee concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where at a meeting of the Agency, the Investment Committee or any other committee of the Agency a question arises as to whether or not a course of conduct, if pursued by a person, would constitute a failure by the person to comply with the requirements of subsection (2), the question shall, subject to subsection (5), be determined by the person chairing the meeting, whose decision shall be final and, where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting of the Agency, the Investment Committee or the committee concerned.
+
+(5) Where at a meeting of the Agency, the Investment Committee or any other committee of the Agency, the person chairing the meeting is the member in respect of whom a question to which subsection (4) applies falls to be determined, then the other members attending the meeting shall choose one of the members present at the meeting to chair the meeting for the purpose of determining the question concerned.
+
+(6) Where the Minister is satisfied, on being informed by the Agency, that a person who is a member of the Agency has contravened subsection (2), the Minister shall decide the appropriate action (including removal from office) to be taken in relation to that person and may, if he or she thinks fit, remove that person from office and that person shall then be disqualified for membership of the Agency, the Investment Committee or any other committee of the Agency.
+
+(7) Where the Agency is satisfied that a person who is a member of the Investment Committee or any other committee of the Agency but not a member of the Agency has contravened subsection (2), the Agency shall decide the appropriate action (including removal from office) to be taken in relation to that person and may, if it thinks fit, remove that person from office.
+
+(8) In this section and section 13B ‘material interest’ shall be construed in accordance with section 2(3) of the Ethics in Public Office Act 1995.
+
+**Disclosure of certain interests by members of staff of Agency**
+
+13B.(1) Where a function falls to be performed by a member of the staff of the Agency and the member of staff has a material interest in a matter to which the function relates, the member of staff shall—
+
+(a) disclose to the Chief Executive the fact of his or her interest and its nature,
+
+(b) not perform the function, and
+
+(c) neither influence nor seek to influence a decision to be made in the matter nor make any recommendation in relation to the matter.
+
+(2) Subsection (1) shall not apply to functions relating to contracts or proposed contracts of employment of members of the staff of the Agency with the Agency.
+
+(3) Where the Chief Executive is satisfied that a member of staff has contravened subsection (1), the Chief Executive shall decide the appropriate action to be taken.”
+
+### 16. Indemnification
+
+**16.** The Act of 1990 is amended by inserting the following section after section 13B (inserted by section 15):
+
+**“Indemnification**
+
+**13C.** (1) This section applies to a person who is or has been—
+
+(a) a member of the Agency,
+
+(b) a member of the Investment Committee or any committee established under section 5B,
+
+(c) a member of the staff of the Agency,
+
+(d) a member of the National Pensions Reserve Fund Commission, or
+
+(e) a member of the Board of the National Development Finance Agency.
+
+(2) Where the Agency is satisfied that a person to whom this section applies has discharged the person’s duties in relation to functions of the Agency, the National Pensions Reserve Fund Commission or the Board of the National Development Finance Agency in good faith, the Agency shall indemnify the person against any actions or claims, however they arise, in relation to the discharge by that person of those duties.
+
+(3) The Agency shall not be prevented from revoking an indemnity granted to, or recovering any payment made pursuant to such an indemnity from, a person who is subsequently found to have carried out his or her duties in bad faith.”
+
+### 17. Disclosure of confidential information
+
+**17.** The Act of 1990 is amended by substituting the following for section 14:
+
+**“Disclosure of confidential information**
+
+**14.** (1) Except in the circumstances specified in subsection (3) a person shall not disclose confidential information obtained by him or her while performing functions as—
+
+(a) a member, or member of the staff, of the Agency,
+
+(b) a member of the Investment Committee or any committee established under section 5B, or
+
+(c) an adviser or consultant or other person providing services to the Agency or as a member of the staff of such adviser or consultant or other person.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both, or
+
+(b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 2 years or both.
+
+(3) A person does not contravene subsection (1) by disclosing confidential information if the disclosure—
+
+(a) is made in the performance of functions of the Agency,
+
+(b) is made to or authorised by the Agency,
+
+(c) is made to the Minister,
+
+(d) is made by a person in the circumstances referred to in section 35(2) of the Ethics in Public Office Act 1995,
+
+(e) is made to a member of the Garda Síochána and, in the opinion of the person making the disclosure, the information may relate to the commission of an offence (whether an offence under this Act or not), or
+
+(f) is required by law.
+
+(4) In this section ‘confidential information’ includes—
+
+(a) information that is expressed by the Agency to be confidential either as regards particular information or as regards information of a particular class or description, and
+
+(b) proposals of a commercial nature or tenders submitted to the Agency by contractors, consultants or any other person.”
+
+## PART 3State Assets and Investment — PART 3 — State Assets and Investment
+
+### 18. Introductory
+
+**18.** (1) When performing functions under or for the purposes of this Part the Agency may describe itself as the New Economy and Recovery Authority (or “NewERA”).
+
+(2) In this Part—
+
+“designated body” means—
+
+(a) the Electricity Supply Board,
+
+(b) Ervia,
+
+(c) Bord na Móna plc,
+
+(d) Coillte Teoranta (being a company formed and registered under the Companies Acts as provided for by section 9 of the Forestry Act 1988),
+
+(e) EirGrid plc,
+
+(f) Irish Water,
+
+(g) any other State body which is specified in an order under *subsection (3)*, and
+
+(h) a subsidiary (within the meaning of the Companies Acts) of a designated body referred to in any of *paragraphs (a)* to *(g)* or any company in which such a designated body has an interest;
+
+“relevant Minister”, in relation to a designated body, means any Minister of the Government who—
+
+(a) holds shares in,
+
+(b) has general responsibility for, or
+
+(c) has any function in relation to,
+
+the designated body;
+
+“shares” includes stock;
+
+“State body” means a body established by or under an enactment and which is controlled, directly or indirectly, by a Minister of the Government.
+
+(3) The Minister may, following consultation with the Agency and with the Minister for Public Expenditure and Reform and any other Minister of the Government who holds shares in, has general responsibility for or has any function in relation to a State body, by order provide that the State body shall be a designated body for the purposes of this Part if the Minister considers that it is in the financial interests of the State to do so.
+
+(4) Where a designated body is dissolved, restructured or amalgamated with another body, the Minister may, following consultation with the Agency and with the Minister for Public Expenditure and Reform and any other Minister of the Government who holds (or held) shares in, has (or had) general responsibility for or has (or had) any function in relation to the designated body, by order provide that it shall cease to be a designated body.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), ss. 6, 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to subs. (3) exercised (30.10.2024) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) (No. 2) Order 2024* (S.I. No. 583 of 2024).
+>
+> E8: Power pursuant to subs. (3) exercised (23.01.2024) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) Order 2024* (S.I. No. 26 of 2024).
+>
+> E9: Power pursuant to subs. (3) exercised (27.09.2023) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) (No. 3) Order 2023* (S.I. No. 479 of 2023).
+>
+> E10: Power pursuant to subs. (3) exercised (18.07.2023) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) (No. 2) Order 2023* (S.I. No. 381 of 2023).
+>
+> E11: Power pursuant to subs. (3) exercised (11.07.2023) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) Order 2023* (S.I. No. 360 of 2023).
+>
+> E12: Power pursuant to subs. (3) exercised (18.02.2021) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Bodies) Order 2021* (S.I. No. 88 of 2021).
+>
+> E13: Power pursuant to subs. (3) exercised (29.03.2018) by *National Treasury Management Agency (Amendment) Act 2014 (Designated Body) Order 2018* (S.I. No. 110 of 2018).
+
+### 19. Financial and commercial advisory functions relating to designated bodies
+
+**19.** (1) The Agency shall provide financial and commercial advisory services to a Minister of the Government who is a relevant Minister in relation to a designated body.
+
+(2) For the purposes of this section and *section 20*, “financial and commercial advisory services”, in relation to a designated body and a Minister of the Government, means services consisting of advice relating to any of the following matters:
+
+(a) the performance of any functions of the Minister of the Government (whether or not under any enactment) in relation to the designated body (other than a general function relating to a sector of the economy);
+
+(b) the exercise of rights attaching to any shares held by the Minister of the Government in the capital of the designated body;
+
+(c) the governance of the designated body and its financial and commercial operation, including the rate of return on capital expected from the designated body and the appropriate dividend policy for the designated body;
+
+(d) the corporate strategy and capital and investment plans of the designated body;
+
+(e) any steps that may be necessary or expedient to take to protect, enhance or realise the value of any interest held by the Minister of the Government in the designated body;
+
+(f) any proposed acquisition or disposal of any interest in the designated body;
+
+(g) any proposed winding up, reorganisation or restructuring of the designated body;
+
+(h) the appointment of the chairperson, members, directors or chief executive of the designated body;
+
+(i) the remuneration of the chairperson, members, directors or chief executive of the designated body.
+
+(3) The Agency shall, if a Minister of the Government who is a relevant Minister in relation to a designated body requests it to do so, provide project management services in relation to, or services consisting of overseeing—
+
+(a) any acquisition or disposal of any interest in, or any assets of, the designated body, or
+
+(b) any winding up, reorganisation or restructuring of the designated body.
+
+(4) In performing its functions under this section the Agency shall have regard to the objective of seeking the effective and efficient application of capital by the designated bodies taken as whole.
+
+(5) The Minister for Public Expenditure and Reform may, with the consent of the Minister, give to the Agency directions as to the performance of its functions under this section and the Agency shall comply with any such directions.
+
+(6) Before giving a direction under *subsection (5)* the Minister for Public Expenditure and Reform shall consult each Minister who is a relevant Minister in relation to a designated body likely to be affected by the performance by the Agency of any of its functions under this section in compliance with the direction.
+
+(7) As soon as is reasonably practicable after giving a direction under *subsection (5)*, the Minister for Public Expenditure and Reform shall publish the direction in such manner as he or she considers appropriate.
+
+### 20. Financial and commercial advisory functions relating to other bodies
+
+**20.** (1) The Agency may provide—
+
+(a) financial and commercial advisory services to any Minister of the Government in relation to any State body that is not a designated body where that Minister holds shares in, has general responsibility for or has any function in relation to that body, or
+
+(b) advisory services to any Minister of the Government in relation to any asset held by that Minister, for which that Minister has general responsibility or in relation to which that Minister has any function, where that Minister makes a request to the Agency to provide the services.
+
+(2) The Agency may, on the request of any Minister of the Government, provide advisory services or project management services in relation to, or services consisting of overseeing—
+
+(a) any acquisition or disposal of any interest in or any assets of any State body that is not a designated body where that Minister holds shares in, has general responsibility for or has any function in relation to that body or any other asset which that Minister holds, for which that Minister has general responsibility or in relation to which that Minister has any function, or
+
+(b) any winding up, reorganisation or restructuring of any State body that is not a designated body where the Minister holds shares in, has general responsibility for or has any function in relation to that body.
+
+### 21. Annual performance reports on designated bodies
+
+**21.** (1) The Agency shall, in respect of each designated body, assess its financial performance and prepare, at least annually, a report on its financial performance.
+
+(2) The Agency shall submit each report under *subsection (1)* to the Minister for Public Expenditure and Reform and each Minister of the Government who is a relevant Minister in relation to the designated body.
+
+(3) A report under *subsection (1)* shall be in such form and cover such matters as the relevant Minister or Ministers may, after consulting the Agency, reasonably request.
+
+### 22. Proposals for investment
+
+**22.** (1) The Agency may, in consultation with Ministers of the Government having functions in relation to the following sectors, develop proposals for investment in those sectors in order to support economic activity and employment:
+
+(a) energy;
+
+(b) water;
+
+(c) telecommunications;
+
+(d) forestry;
+
+(e) any other sector which is specified in an order under *subsection (2)* .
+
+(2) The Minister may, following consultation with the Minister for Public Expenditure and Reform and any other Minister whose functions relate to a sector, by order specify that sector as one within *subsection (1)* where the Minister believes it to be desirable to do so in the interests of supporting economic activity and employment.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to subs. (2) exercised (29.03.2018) by *National Treasury Management Agency (Amendment) Act 2014 (Specified Sector) Order 2018* (S.I. No. 111 of 2018).
+
+### 23. Obligations of Ministers
+
+**23.** (1) Ministers of the Government shall provide the Agency with such information and other assistance as is necessary for the Agency to perform the functions conferred on it by *sections 19* and *20*.
+
+(2) Where advice has been provided by the Agency under *section 19* or *20*, a relevant Minister shall have regard to the advice but this subsection does not prevent a relevant Minister having regard to any other advice or taking into account any other considerations.
+
+(3) Notwithstanding the provisions of this Part, the functions of any relevant Minister in relation to a designated body shall continue to be exercised by him or her in accordance with the policies from time to time formulated by that Minister in the performance of his or her functions as a Minister of the Government.
+
+### 24. Procedures
+
+**24.** The Agency shall, in consultation with the Minister for Public Expenditure and Reform and other Ministers who are relevant Ministers in relation to designated bodies, establish procedures for the seeking and provision of advice pursuant to this Part, the seeking of further information from the Agency in relation to advice given by it and the provision to the Agency of the necessary information for it to perform its functions under this Part.
+
+## PART 4Infrastructure Projects — PART 4 — Infrastructure Projects
+
+### 25. Interpretation
+
+**25.** In this Part—
+
+“appropriate Minister” means any Minister of the Government—
+
+(a) on whom functions stand conferred, or
+
+(b) who has general responsibility, in respect of or in connection with a public private partnership arrangement or a State authority;
+
+“company” means a company within the meaning of the Companies Acts;
+
+“equity” means any financial interest resulting from the purchase of shares for a consideration;
+
+“public investment projects” includes projects involving public private partnership arrangements;
+
+“public private partnership arrangement” means a public private partnership arrangement within the meaning of the State Authorities (Public Private Partnership Arrangements) Act 2002;
+
+“refinancing” means changing the terms and conditions, obligations and entitlements attached to arrangements for financing public investment projects, including cancelling and replacing such arrangements;
+
+“State authority” means a body specified in *Schedule 3* or prescribed by order under *section 29* for the purpose of *paragraph 20* of that Schedule.
+
+### 26. Functions relating to projects
+
+**26.** (1) The following are functions of the Agency—
+
+(a) to provide advice to any State authority of what, in the opinion of the Agency, are the optimal means of financing the cost of public investment projects in order to achieve value for money,
+
+(b) to provide advice to any State authority on all aspects of financing, refinancing and insurance of public investment projects to be duly undertaken by means of public private partnership arrangements or within the public sector,
+
+(c) to enter into a public private partnership arrangement with a view to transferring the rights and obligations under such an arrangement to any State authority,
+
+(d) to act as agent for any State authority in connection with the entry or proposed entry by that State authority into a public private partnership arrangement, or
+
+F1[(e) to enter into any arrangement or contract to procure as agent for the Minister for Education, the Minister for Further and Higher Education, Research, Innovation and Science or for a local authority (within the meaning of the Local Government Act 2001 ) any public investment project in relation to building or other infrastructure, including the financing, management, design and construction of such building or other infrastructure, as the Minister of the Government concerned or the local authority, as the case may be, may from time to time designate.]
+
+(2) In performing its functions under this Part the Agency shall comply with all guidelines and instructions that the Minister for Public Expenditure and Reform may, from time to time, with the consent of the Minister, issue to the Agency.
+
+(3) When performing functions under or for the purposes of this Part the Agency may describe itself as the National Development Finance Agency.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 140, S.I. No. 554 of 2022, art. 2(j).
+
+### 27. Policy directions and guidance
+
+**27.** (1) In exercising its functions under *section 26(1)* the Agency shall have regard to—
+
+(a) such policy directions as the Minister for Public Expenditure and Reform may issue for the purposes of this paragraph to State authorities from time to time in relation to the financing of public investment projects, and
+
+(b) such policy guidance as the Minister for Public Expenditure and Reform may issue for the purposes of this paragraph to State authorities from time to time in relation to the process, procedures and regulation generally of public private partnership arrangements.
+
+(2) The Minister for Public Expenditure and Reform shall cause a copy of every policy direction and policy guidance issued under *subsection (1)* to be sent to the Agency.
+
+(3) The provision of advice by the Agency under this Act may include, where appropriate, advice as regards the engaging of consultancy services across the range of technical and other relevant expertise necessary to undertake such projects.
+
+> **Annotations:**
+
+### 28. Obligation of State authority
+
+**28.** Subject to any guidelines that the Minister for Public Expenditure and Reform may from time to time issue for the purposes of this section and *section 26(2)* in respect of public investment projects, including—
+
+(a) the type of project,
+
+(b) the size of the project,
+
+(c) the stage of development of the project, and
+
+(d) any other relevant factors that will determine projects on which the Agency’s advice will be sought,
+
+a State authority shall seek the advice of the Agency as soon as is practicable before undertaking a public investment project.
+
+> **Annotations:**
+
+### 29. Prescribing of State authority, etc.
+
+**29.** (1) Where the Minister for Public Expenditure and Reform, following consultation with any appropriate Minister, is of the opinion that, having regard to the functions of the Agency under this Part and the functions of the public authority concerned, it would be appropriate for a public authority, not being a State authority, to be so prescribed by order under this section, then he or she may, by order, prescribe the public authority for the purposes of *paragraph 20* of *Schedule 3*.
+
+(2) Where the Minister for Public Expenditure and Reform, following consultation with any appropriate Minister, is of the opinion that, having regard to the dissolution, restructuring or amalgamation of a State authority, a reference to a State authority specified in *Schedule 3* ought to cease to have effect, then he or she may, by order, declare that it shall cease to have effect.
+
+(3) In this section “public authority” means—
+
+(a) a person which at any time stood specified in *Schedule 3* or was prescribed by order under this section for the purposes of *paragraph 20* of that Schedule,
+
+(b) a board, authority or other person (other than a company) established by or under any Act,
+
+(c) a company in which all the shares are held—
+
+(i) by or on behalf of a Minister of the Government, or
+
+(ii) by directors appointed by a Minister of the Government,
+
+or
+
+(d) a company in which all the shares are held by a board, authority or person referred to in *paragraph (b)* or by a company referred to in *paragraph (c)*.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E15: Power pursuant to subs. (2) exercised (31.08.2022) by *National Treasury Management Agency (Amendment) Act 2014 (Section 29(2)) Order 2022* (S.I. No. 440 of 2022).
+>
+> E16: Power pursuant to subs. (1) exercised (31.08.2022) by *National Treasury Management Agency (Amendment) Act 2014 (Section 29(1)) Order 2022* (S.I. No. 439 of 2022).
+
+### 30. Repayment of expenses of Agency
+
+**30.** (1) The costs and expenses incurred by the Agency in the performance of functions under *section 26(1)* in relation to a specific project or specific arrangement referred to in that subsection may be paid out of advances made by the Minister under *subsection (4)* .
+
+(2) The costs and expenses referred to in *subsection (1)* shall, as soon practicable after they are paid by the Agency, be repaid to the Agency by the appropriate State authority or State authorities concerned with that project or arrangement.
+
+(3) All moneys received by the Agency under *subsection (2)* shall be paid into the Post Office Savings Bank Fund.
+
+(4) The Minister may, for the purposes of *subsection (1)*, advance moneys from the Post Office Savings Bank Fund to the Agency.
+
+(5) The power of the Minister under *subsection (4)* may be exercised by the Agency.
+
+(6) In this section “costs and expenses” includes—
+
+(a) any fee payable or any payment due to a consultant, adviser, contractor, subcontractor, supplier or other service provider engaged by the Agency for the purposes of this Part, and
+
+(b) any other costs, charges or expenses incurred by the Agency in the performance of its functions under this Part.
+
+## PART 5Claims Management — PART 5 — Claims Management
+
+### 31. Interpretation
+
+**31.** (1) In this Part—
+
+“Act of 2001” means Children Act 2001;
+
+“claim for costs” shall be construed in accordance with *section 32*;
+
+“counterclaim” means, in proceedings against a State authority, a counterclaim made by that authority for compensation or damages where the matter in relation to which that counterclaim is made does not stand delegated to the Agency by virtue of an order under section 9(1) of the Act of 2000;
+
+“costs” means fees, disbursements, charges and expenses and, without prejudice to the generality of the foregoing, includes a bill of costs in respect of a barrister or solicitor or of a person who appears as an expert witness;
+
+“delegated claim” means a claim for costs, or a claim for costs of a class, the management of which stands delegated to the Agency under *subsection (1)* of *section 34* and which is not the subject of a direction under *subsection (8)* of that section;
+
+“manage” means—
+
+(a) in relation to a claim for costs falling within *paragraph (a)* of the definition of that expression in *section 32*, take the steps necessary or expedient for the purposes of disposing (whether by agreement or otherwise) of the claim and, without prejudice to the generality of the foregoing, includes—
+
+(i) perform the clerical and other administrative functions relating to the claim and the disposal of it,
+
+(ii) examine the claim and form an opinion as to the correctness, appropriateness or reasonableness of individual amounts, items or other matters set out in it,
+
+(iii) retain the services of professional and other expert advisers in relation to the claim, the other matters referred to in *subparagraph (ii)* and the liability (including the amount of the potential financial liability) of the State authority concerned in respect of the claim and the amount (if any) that would be reasonable to pay in settlement of the claim, and
+
+(iv) represent the State authority concerned in a court or other tribunal or before—
+
+(I) the Taxing-Master or a county registrar, or
+
+(II) an arbitrator or a mediator,
+
+in relation to the claim,
+
+and
+
+(b) in relation to a claim for costs falling within *paragraph (b)* of the definition of that expression in *section 32*, take the steps necessary or expedient for the purposes of disposing (whether by agreement or otherwise) of the claim and, without prejudice to the generality of the foregoing, includes retain the services of professional and other expert advisers in relation to the claim, and do, in relation to it, the same things as are referred to in sub*paragraph (i)* and *(iv)* of *paragraph (a)*;
+
+“relevant Minister of the Government”, in relation to a delegated claim, means—
+
+(a) in a case where the claim for costs, the subject of the delegation, is against or, as appropriate, in favour of a Minister of the Government, the Minister of the Government concerned,
+
+(b) in a case where the claim for costs, the subject of the delegation, is against or, as appropriate, in favour of the State or the Attorney General, the Taoiseach, and
+
+(c) in a case where the claim for costs, the subject of the delegation, is against or, as appropriate, in favour of any other State authority, the Minister of the Government at whose request an order may be made under *section 34(1)* in relation to—
+
+(i) the claim for costs concerned, or
+
+(ii) a class of claim for costs to which the claim for costs concerned belongs;
+
+“State authority” means—
+
+(a) the State (whether or not described in the proceedings concerned as Ireland),
+
+(b) a Minister of the Government,
+
+(c) a body specified in the Schedule to the Act of 2000 or, if appropriate, the head of such a body,
+
+(d) the Commissioner of the Garda Síochána,
+
+(e) the Governor of a prison,
+
+(f) the board of management of a community school, or a comprehensive school, which is a recognised school within the meaning of section 2 of the Education Act 1998,
+
+(g) the board of management of, or person for the time being managing—
+
+(i) a school that is a children detention school by virtue of section 159 of the Act of 2001,
+
+(ii) a place designated as a children detention school by virtue of section 160 of the Act of 2001, or
+
+(iii) a place providing facilities for the detention of children by virtue of section 161 of the Act of 2001,
+
+(h) the Attorney General,
+
+(i) a person in respect of whom a Minister of the Government pays, or agrees to pay, the amount (if any) payable in respect of a claim for costs against the person, or
+
+(j) any other body that the Minister may, at the request of that body, if appropriate, and with the consent of the relevant Minister of the Government, prescribe by order, being a body established by or under any enactment (other than the Companies Acts), and financed wholly or partly, whether directly or indirectly, by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government, or the head of any such body.
+
+(2) Where it appears to the Minister to be necessary or appropriate that it should do so, an order under *paragraph (j)* of the definition of “State authority” in *subsection (1)* may, in consequence of the particular body concerned being prescribed for the purposes of that definition, include provision—
+
+(a) adding to the matters specified in either or both of *paragraphs (a)* and *(b)* of the definition of “claim for costs” in *section 32*, a reference to a person’s entitlement to have paid to him or her (or, as appropriate, the foregoing body’s entitlement to have paid to it) an amount of costs that arises by virtue of one or more specified provisions of an enactment relating to the foregoing body,
+
+(b) specifying, for the purposes of *section 34(3)*, the date on which an entitlement to the payment of costs referred to in *paragraph (a)* arises.
+
+(3) In this section—
+
+“head”, in relation to a body referred to in *paragraph (c)* or *(j)* of the definition of “State authority” in *subsection (1)*, means the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
+
+“prison” means a place of custody administered by the Minister for Justice and Equality, and includes Saint Patrick’s Institution, any place provided under section 2 of the Prisons Act 1970 or any place specified to be used as a prison under section 3 of the Prisons Act 1972 and “Governor” and “prison officer”, in relation to a prison, shall be construed accordingly.
+
+(4) Any function conferred, or any liability imposed, on a State authority by this Part shall, in the case of the State, be performed or undertaken on its behalf by the Taoiseach.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to subs. (1), definition of State authority para. (j), exercised (30.09.2025) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) Order 2025* (S.I. No. 442 of 2025).
+>
+> E18: Power pursuant to subs. (1), definition of State authority para. (j), exercised (16.12.2024) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) (No. 3) Order 2024* (S.I. No. 708 of 2024).
+>
+> E19: Power pursuant to subs. (1), definition of State authority para. (j), exercised (11.12.2024) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) (No. 2) Order 2024* (S.I. No. 706 of 2024).
+>
+> E20: Power pursuant to subs. (1), definition of State authority para. (j), exercised (7.05.2024) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) Order 2024* (S.I. No. 193 of 2024).
+>
+> E21: Power pursuant to subs. (1), definition of State authority para. (j), exercised (11.05.2023) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) Order 2023* (S.I. No. 262 of 2023).
+>
+> E22: Power pursuant to subs. (1), definition of State authority para. (j), exercised (11.05.2023) by *National Treasury Management Agency (Amendment) Act 2014 (State Authorities) Order 2023* (S.I. No. 236 of 2023).
+>
+> E23: Power pursuant to subs. (1), definition of State authority para. (j), exercised (2.12.2019) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) (Office of the Planning Regulator) Order 2019* (S.I. No. 614 of 2019).
+>
+> E24: Power pursuant to subs. (1), definition of State authority para. (j), exercised (1.09.2019) by *National Treasury Management Agency (Amendment) Act 2014 (State Authority) Order 2019* (S.I. No. 446 of 2019).
+>
+> E25: Power pursuant to subs. (1), definition of State authority para. (j), exercised (12.07.2019) by *National Treasury Management Agency (Amendment) Act 2014 (State Authorities) (Amendment) Order 2019* (S.I. No. 350 of 2019).
+>
+> E26: Power pursuant to subs. (1), definition of State authority para. (j), exercised (16.10.2015) by *National Treasury Management Agency (Amendment) Act 2014 (State Authorities) Order 2015* (S.I. No. 486 of 2015).
+
+### 32. Claim for costs — definition
+
+**32.** In this Part “claim for costs” means—
+
+(a) an entitlement on the part of a person to have paid to the person by a State authority, an amount of costs, being an entitlement arising by virtue of—
+
+(i) an order of a court in any proceedings brought by the person against a State authority, not being proceedings in respect of a claim that is already the subject of a delegation to the Agency by virtue of an order under section 9(1) of the Act of 2000 and which claim is not the subject of a direction under section 9(4) of that Act,
+
+(ii) an order of a court in—
+
+(I) any proceedings brought by the State authority against the person, or
+
+(II) a counterclaim,
+
+(iii) an order under section 6 of the Tribunals of Inquiry (Evidence) (Amendment) Act 1979,
+
+(iv) a direction under section 17 or 24 of the Commissions of Investigation Act 2004,
+
+(v) a determination under section 21(3) of the Arbitration Act 2010, or
+
+(vi) an agreement between the parties concerned in settlement of a claim to which any of sub*paragraphs (i)* to *(v)* relate,
+
+or
+
+(b) an entitlement on the part of a State authority to have paid to the authority by a person, an amount of costs, being an entitlement arising by virtue of—
+
+(i) an order of a court in any proceedings brought by the person against the State authority (but a similar exclusion to that contained in *paragraph (a)(i)* applies in relation to this subparagraph as it applies in relation to *paragraph (a)(i)*),
+
+(ii) an order of a court in—
+
+(I) any proceedings brought by the State authority against the person, or
+
+(II) a counterclaim,
+
+(iii) the operation of Order 26 of the Rules of the Superior Courts (S.I. No. 15 of 1986) or Order 21 of the Circuit Court Rules (S.I. No. 510 of 2001),
+
+(iv) an order, direction or determination referred to in *paragraph (a)(iii), (iv)* or *(v)*, or
+
+(v) an agreement between the parties concerned in settlement of a claim to which any of subparagraphs *(i)* to *(iv)* relate.
+
+### 33. Additional functions of Agency
+
+**33.** (1) The Agency shall perform the functions delegated to it under *section 34(1)*.
+
+(2) The Agency shall manage delegated claims for costs in such manner as to ensure that—
+
+(a) in the case of such claims that are claims for costs against State authorities, the liability of the State authorities in relation thereto, and
+
+(b) in the case of every such claim, the expenses of the Agency in relation to such management, are contained at the lowest achievable level.
+
+(3) The Agency shall advise and assist a State authority whenever it considers it appropriate to do so or is requested by such an authority to do so in relation to the measures to be taken to minimise claims for costs against the State.
+
+(4) The Agency shall be known as the State Claims Agency when performing the functions conferred on, or delegated to, it by or under *section 34*.
+
+### 34. Delegation to Agency of claims for costs management function
+
+**34.** (1) Subject to *subsection (2)*, the Government may, at the request of the Minister of the Government in whom functions in relation to a State authority are vested, by order delegate to the Agency the management of any claims for costs, or classes of claims for costs, whether claims for costs, or classes of such claims, against or in favour of, such an authority, or both.
+
+(2) An order under *subsection (1)* may exempt any class of claims for costs against, or in favour of, all or any of the State authorities from the delegation effected by the order.
+
+(3) In addition to its application to a claim for costs where the entitlement concerned arises on or after—
+
+(a) the coming into operation of this Part, or
+
+(b) the coming into operation of the order concerned under *subsection (1)*, a delegation under *subsection (1)* may relate to a claim for costs where the entitlement to the payment of the costs concerned has arisen before any such coming into operation.
+
+(4) For the foregoing purposes, an entitlement to the payment of the costs concerned arises on the date of, as the case may be—
+
+(a) in the case of proceedings, as referred to in *paragraph (a)(i)* or *paragraph (a)(ii)*(I) of *section 32*, or *paragraph (b)(i)* or *paragraph (b)(ii)*(I) of that section, the order concerned of the court,
+
+(b) the order concerned under section 6 of the Tribunals of Inquiry (Evidence) (Amendment) Act 1979,
+
+(c) the direction concerned under section 17 or 24 of the Commissions of Investigation Act 2004,
+
+(d) in the case of a determination under section 21(3) of the Arbitration Act 2010, the award concerned of the arbitral tribunal,
+
+(e) in the case of an agreement between the parties concerned in settlement of a claim for costs, the agreement unless the agreement expressly states otherwise,
+
+(f) in the case of a counterclaim, the order concerned of the court, or
+
+(g) the receipt of a written notice of discontinuance under Order 126 of the Rules of the Superior Courts (S.I. No. 15 of 1986) or Order 21 of the Circuit Court Rules (S.I. No. 510 of 2001).
+
+(5) Without prejudice to the generality of *subsection (1)*, whenever an order under that subsection is in force, the Agency shall, if and in so far as the order declares, have the following functions:
+
+(a) advising the Minister, whenever he or she so requests, in relation to the management of delegated claims and matters connected therewith;
+
+(b) advising a relevant Minister of the Government, whenever he or she so requests, of the status and progress of the management of any delegated claim, or class of such claim, against or in favour of, such Minister of the Government or any other State authority other than the State and the Attorney General;
+
+(c) advising the Taoiseach, whenever he or she so requests, of the status and progress of the management of any delegated claim, or class of such claim, against or in favour of, the State or the Attorney General;
+
+(d) advising a State authority other than the State, a Minister of the Government or the Attorney General, whenever such an authority so requests, of the status and progress of the management of any delegated claim, or class of such claim, against or in favour of, such an authority.
+
+(6) An order under *subsection (1)* may contain such ancillary and incidental provisions as the Government consider necessary or expedient for the purposes of the delegation effected by the order.
+
+(7) Subject to *subsection (8)*, the following provisions shall apply in relation to a delegation under this section and a declaration under *subsection (5)*, that is to say—
+
+(a) the Government may at any time by order—
+
+(i) revoke the delegation in whole or in part, or
+
+(ii) provide that all or any of the functions to which the declaration relates shall cease to be performable by the Agency, and, upon the coming into operation of the order, the functions shall cease to be performed by the Agency,
+
+(b) subject to *paragraph (a)*, the delegation shall operate, so long as it continues in force, to confer on and vest in the Agency the function delegated by the delegation and the declaration shall operate, so long as it continues in force, to confer on and vest in the Agency each function specified in *subsection (5)*,
+
+(c) the function delegated by the delegation or to which the foregoing declaration relates shall be performed by the Agency subject to any conditions or restrictions specified in the order concerned under this section,
+
+(d) any obligation or liability undertaken by the Agency consequent upon the performance by the Agency of a function to which the delegation or declaration relates shall be of the same force and effect as if the obligation or liability had been undertaken by the State authority concerned,
+
+(e) a function of a State authority that is delegated by the delegation or to which the declaration relates shall, notwithstanding the delegation or declaration, as the case may be, continue to be vested in the State authority but shall be so vested concurrently with the Agency so as to be capable of being performed by either the State authority concerned or the Agency, but shall be performed by the State authority concerned only if, and to the extent that, a direction under *subsection (8)* applies to it, and
+
+(f) the delegation or declaration shall not remove or derogate from the responsibility of any Minister of the Government to Dáil Éireann, or from the responsibility of that Minister as a member of the Government, in relation to the performance by that Minister of any function to which the delegation or declaration relates.
+
+(8) The Minister may—
+
+(a) at the request of the Taoiseach in the case of delegated claims against the State or the Attorney General, and
+
+(b) at the request of a relevant Minister of the Government and after consultation with the Attorney General in the case of all other delegated claims, if he or she is of the opinion that it is in the interests of the State to do so, give the Agency a direction (which it shall comply with) not to begin, or to discontinue, managing any delegated claim specified in the direction and, following such a direction, the claim concerned shall not be managed or further managed by the Agency.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to section exercised (26.11.2025) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) (No. 3) Order 2025* (S.I. No. 586 of 2025).
+>
+> E28: Power pursuant to subs. (1) exercised (17.09.2025) by *National Treasury Management Agency (Delegation of Claims For Costs Management Functions) (No. 2) Order 2025* (S.I. No. 499 of 2025).
+>
+> E29: Power pursuant to subs. (1) exercised (22.07.2025) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) Order 2025* (S.I. No. 481 of 2025).
+>
+> E30: Power pursuant to subs. (1) exercised (2.07.2024) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) Order 2024* (S.I. No. 338 of 2024).
+>
+> E31: Power pursuant to subs. (1) exercised (25.07.2019) by *National Treasury Management Agency (Delegation Of Claims For Costs Management Functions) (Amendment) Order 2019* (S.I. No. 405 of 2019).
+>
+> E32: Power pursuant to subs. (1) exercised (29.05.2018) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) Order 2018* (S.I. No. 191 of 2018).
+>
+> E33: Previous affecting provision: power pursuant to section exercised (10.11.2015) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) Order 2015* (S.I. No 505 of 2015); revoked (29.05.2018) by *National Treasury Management Agency (Delegation of Claims for Costs Management Functions) Order 2018* (S.I. No 191 of 2018), reg. 6.
+
+### 35. Functions of Attorney General
+
+**35.** (1) The claims management functions shall, in so far as section 6(1) of the Ministers and Secretaries Act 1924 applies to them, be performed by the Agency on behalf of the Attorney General.
+
+(2) The Attorney General may, for the purposes of *subsection (1)*, request the Agency to furnish to him or her information in relation to such matters as he or she may specify concerning or relating to the performance by the Agency of the claims management functions; and the Agency shall comply with any such request.
+
+(3) The Attorney General may, for the purposes of *subsection (1)* and where he or she is satisfied that the interests of the State so require, give the Agency such directions (whether of a general or a particular nature) as he or she considers appropriate in relation to the performance by the Agency of the claims management functions; and the Agency shall comply with any such directions.
+
+(4) Without prejudice to the generality of *subsection (3)*, a direction under that subsection may direct the Agency not to begin, or to discontinue, managing any delegated claim or class of delegated claims specified in the direction and such a direction shall remain in force for a period ending on—
+
+(a) in the case of a delegated claim, the giving by the Minister of a direction under *section 34(8)* in relation to the delegated claim so specified,
+
+(b) the revocation by the Government under *section 34(7)* of a delegation in relation to the delegated claim or class of delegated claims so specified, or
+
+(c) the expiration of a period of 30 days commencing on the date of the giving of the first-mentioned direction whichever occurs first.
+
+(5) If the Attorney General gives a direction under *subsection (3)* he or she shall, as soon as practicable, inform the Taoiseach, the Minister and the relevant Minister of the Government that he or she has done so.
+
+(6) The Attorney General may, whenever he or she considers it necessary or expedient to do so for the purposes of *subsection (1)*, give general guidelines to the Agency and the Agency shall perform the claims management functions in accordance with any such guidelines.
+
+(7) In this section the “claims management functions” means the functions referred to in *section 33(1)*.
+
+### 36. Satisfaction of claims for costs
+
+**36.** (1) The Agency may, out of advances made by the Minister under *subsection (8)*, pay—
+
+(a) the amount of any costs incurred from time to time by the Agency in respect of the services of professional and other expert advisers in relation to a delegated claim,
+
+(b) the amount of any costs comprising the amount due, as agreed by the Agency and a claimant or (in default of agreement) as taxed or ascertained in accordance with rules of court, to the claimant concerned in respect of a delegated claim, and
+
+(c) the amount of interest (if any) payable on any of the amounts referred to in *paragraphs (a)* and *(b)*.
+
+(2) A payment under *subsection (1)* may be in respect of any amount referred to in *paragraph (a)*, *(b)* or *(c)*, or part thereof.
+
+(3) A State authority on whose behalf an amount is paid under *subsection (1)* shall, at the request of the Agency, pay to the Agency the amount so paid not later than 30 days from the receipt by it of the request concerned.
+
+(4) Where a State authority contravenes *subsection (3)*, it shall pay to the Agency the amount to which the request under that subsection relates, together with interest thereon, in respect of the period commencing on the expiration of the 30 days referred to in that subsection and ending on the date of the payment by the State authority concerned of the said amount, calculated at the rate or rates at which, during that period, interest on moneys deposited with the Central Bank of Ireland by the Exchequer is calculated.
+
+(5) All moneys received by the Agency under *subsections (3)* and *(4)* shall be paid into the Post Office Savings Bank Fund.
+
+(6) Where a State authority has an entitlement, as mentioned in *section 32(b)*, to be paid an amount of costs the reference in *subsection (1)(b)* to the amount of any costs to be paid to a claimant in respect of a delegated claim shall be construed as a reference to the net amount of such costs following the set-off of the amount of costs due to the State authority as mentioned in *section 32(b)*.
+
+(7) Where the amount of costs in favour of a State authority, as mentioned in *section 32(b)*, exceeds the total of the amounts referred to in *paragraphs (a)*, *(b)* and *(c)* of *subsection (1)* in respect of the delegated claim concerned, the Agency shall, as soon as practicable, pay the excess to such an authority.
+
+(8) The Minister may, for the purposes of *subsection (1)*, advance moneys from the Post Office Savings Bank Fund to the Agency.
+
+(9) If the Government makes an order under *section 34(1)* in relation to a claim for costs or a class of such claim, the power of the Minister under *subsection (8)* may be exercised by the Agency in relation to the claim or class of claim concerned.
+
+(10) The Minister may give directions or guidelines to the Agency in relation to the exercise by it of the power conferred on it by *subsection (9)* ; and the Agency shall comply with any such directions and exercise that power in accordance with any such guidelines.
+
+## PART 6Ireland Strategic Investment Fund — PART 6 — Ireland Strategic Investment Fund
+
+### 37. Interpretation
+
+**37.** In this Part—
+
+“company” means—
+
+(a) a company within the meaning of the Companies Acts, or
+
+(b) a body established under the laws of a state other than the State and corresponding to a body referred to in *paragraph (a)*;
+
+“credit institution” has the same meaning as in the Central Bank Act 1997;
+
+“directed investment” means—
+
+F2[(a) an investment made by the Agency pursuant to a direction under *section 42*, *42A*, *42B* or *47(4)(b)* or the proceeds held by the Agency pursuant to a direction under *section 47(4)(c)*;]
+
+(b) a shareholding or other interest that the Agency holds as a result of underwriting an issue of securities pursuant to such F3[a direction,]
+
+F3[(c) a shareholding or other interest in a credit institution transferred into the Fund under *section 46(3)*, or
+
+(d) an investment made by the National Pensions Reserve Fund Commission pursuant to a direction under section 19A, 19AA or 19B of the National Pensions Reserve Fund Act 2000 before the Fund constitution date (within the meaning of Schedule 4);]
+
+“direction” means a direction in writing;
+
+“Fund” means the Ireland Strategic Investment Fund;
+
+“Fund investment vehicle” means a company or other body corporate referred to in *section 41(4)(d)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Substituted (15.12.2021) by *Land Development Agency Act 2021* (26/2021), s. 30(a), S.I. No. 712 of 2021.
+>
+> F3: Substituted (20.11.2015) by *Finance (Miscellaneous Provision) Act 2015* (37/2015), s. 22, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E34: Previous affecting provision: definition of "directed investment", para. (a) substituted (5.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 19(a), S.I. No. 518 of 2018; substituted as per F-note above.
+
+### 38. Ireland Strategic Investment Fund
+
+**38.** (1) There shall be a new fund to be known as the Ireland Strategic Investment Fund (referred to in this Part as the “Fund”).
+
+(2) The assets and liabilities of the National Pensions Reserve Fund established under section 18 of the National Pensions Reserve Fund Act 2000 shall become assets and liabilities of the Fund on the coming into operation of this Part (but subject to the provisions of *Schedule 4* in the case of certain foreign assets and foreign liabilities which shall be regarded as remaining assets and liabilities of the National Pensions Reserve Fund until their transfer to the Agency in accordance with that Schedule).
+
+(3) Ownership of the Fund shall vest in the Minister.
+
+### 39. Investment policy for Fund
+
+**39.** (1) The Agency shall hold or invest the assets of the Fund (other than directed investments) on a commercial basis in a manner designed to support economic activity and employment in the State.
+
+(2) The assets held or invested in accordance with *subsection (1)* shall be held or invested so as to seek to secure such rates of return as the Agency considers appropriate having regard to F4[the level of risk to the assets, including any risk posed by environmental, social or governance matters of relevance to such holding or investing].
+
+(3) If and to the extent that it is not reasonably practicable to hold or invest any assets of the Fund in accordance with *subsection (1)*, the assets shall be held or invested on a commercial basis with a view to seeking to secure such rates of return as appears to the Agency to be an appropriate return having regard to—
+
+(a) the time at which it appears likely to be reasonably practicable to hold or invest the assets in accordance with *subsection (1)*, and
+
+F5[(b) the level of risk to the assets, including any risk posed by environmental, social or governance matters of relevance to the holding or investing of the assets in accordance with this subsection.]
+
+(4) In determining what is an appropriate rate of return to seek to secure for the purposes of *subsection (2)* or *(3)*, the Agency may aim for different levels of return for different investments and types of investments provided that it seeks to secure, over the long term, in relation to the assets of the Fund (taken as a whole) a rate of return greater than the annual interest cost of the general government debt (that is, the total gross debt at nominal value of the general government of the State, as arrived at in accordance with Council Regulation (EC) No. 479/2009 of 25 May 2009 [^1] as amended by Council Regulation (EU) No. 679/2010 of 26 July 2010 [^2]) averaged over 5 years.
+
+(5) The assets of the Fund may be held or invested in or outside the State.
+
+(6) All income, capital and other benefits received in respect of holdings or investments shall be paid into the Fund.
+
+(7) This section is subject to the terms on which any assets of the Fund are held or invested on the coming into operation of this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4, F5: Substituted (29.05.2026) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(1)(a), (b), S.I. No. 186 of 2026.
+
+### 40. Investment strategy for Fund
+
+**40.** (1) The Agency shall determine, monitor and keep under review an investment strategy for the assets of the Fund (other than directed investments) in accordance with *section 39*.
+
+(2) In determining and reviewing the investment strategy, the Agency shall—
+
+(a) have regard to the Agency’s function under *section 22*, and
+
+(b) seek to ensure that investments do not have a negative impact on the net borrowing of the general government of the State for any year (as arrived at in accordance with Council Regulation (EC) No. 479/2009 of 25 May 2009 as amended by Council Regulation (EU) No. 679/2010 of 26 July 2010).
+
+F6[(2A) The Agency shall include in the investment strategy a description of how the Agency incorporates the consideration of the risk to the assets of the Fund posed by environmental, social or governance matters of relevance to the holding and investment of the assets of the Fund in accordance with *section 39*, including a description of—
+
+(a) the basis on which the Agency identifies categories of investment in which the assets of the Fund shall not be invested in light of those matters, and
+
+(b) the categories of investment (if any) which have been so identified at the date of the publication of that investment strategy.]
+
+(3) In determining and reviewing the investment strategy the Agency shall consult the Minister and the Minister for Public Expenditure and Reform and have regard to any views expressed by them.
+
+(4) For the purpose of formulating views for the purposes of *subsection (3)* the Minister may consult with any other Minister of the Government as the Minister considers appropriate having regard to the functions of that other Minister.
+
+F7[(5) The Agency shall publish the investment strategy on a website maintained by, or on behalf of, the Agency.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F6: Inserted (29.05.2026) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(2)(a), S.I. No. 186 of 2026.
+>
+> F7: Inserted (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(2)(b), S.I. No. 387 of 2024.
+
+### 41. Management of Fund
+
+**41.** (1) The Fund shall be controlled and managed by the Agency.
+
+(2) The Agency shall hold and invest the assets of the Fund (other than directed investments) in accordance with the provisions of this Part and the investment strategy prepared under it.
+
+(3) The Agency shall—
+
+(a) authorise payments from the Fund to the Exchequer and such other payments from the Fund as may be required for the management of the Fund,
+
+(b) accept payments made, or assets transferred, to the Fund under *section 46*, and
+
+(c) accept funds or assets for the benefit of the Fund from sources other than the Central Fund, if so directed by the Minister.
+
+(4) The Agency may—
+
+(a) hold assets of the Fund in any such manner as it considers appropriate (including in bank accounts for the Fund opened and maintained by it, including accounts in currencies other than the currency of the State),
+
+(b) invest assets of the Fund in any such manner as it thinks appropriate (whether directly or through investment managers), including by lending, entering into contracts or other commitments of any description or purchasing any investment products (including, in particular, options, futures or other derivative financial instruments),
+
+(c) appoint custodians for, or for any portion of, assets of the Fund,
+
+(d) for the purpose of holding, facilitating or managing investments of the Fund, form or cause to be formed companies or other bodies corporate or acquire control of companies or other bodies corporate, or enter into joint ventures, partnerships, co-ownerships or other similar arrangements,
+
+(e) enter into transactions of a normal banking nature, and
+
+(f) act as an underwriter, lead manager or arranger, or in any other similar capacity (whether alone or with another person on a joint, several or joint and several basis) in relation to the issue of securities of any kind.
+
+(5) The Investment Committee of the Agency shall—
+
+(a) make decisions about the acquisition and disposal of assets of the Fund in accordance with the provisions of this Part and the investment strategy prepared under it and within any such parameters as may be set by the Agency,
+
+(b) advise the Agency on the investment strategy, and
+
+(c) oversee the implementation of the investment strategy.
+
+### 42. Directions to make certain investment, etc.
+
+**42.** (1) The Minister has the functions provided for under *subsection (2)* where, following consultation with the Central Bank, the Minister is of the opinion that the performance of the functions so provided is necessary, in the public interest, for either or both of the following purposes:
+
+(a) to remedy a serious disturbance in the economy of the State;
+
+(b) to prevent potential serious damage to the financial system in the State and ensure the continued stability of that system.
+
+(2) For either or both of the purposes mentioned in *subsection (1)*, the Minister may give a direction to the Agency—
+
+(a) to invest assets of the Fund in specified securities of a credit institution, or
+
+(b) to underwrite or otherwise support the issue of any kind of securities of a credit institution, and such direction may specify terms or conditions on, or subject to, which the thing concerned is to be done.
+
+(3) The terms and conditions that the Minister may specify in a direction under *subsection (2)* may include terms or conditions requiring the Agency to impose specified terms or conditions in relation to the investment or underwriting or on the credit institution in which the investment is to be made or of which the securities are to be issued.
+
+(4) The Agency shall comply with a direction under *subsection (2)* and may do so either directly or through a Fund investment vehicle.
+
+### 42A. Funding of HBFI
+
+F8[**42A.** (1) Notwithstanding any other provision of this Act, the Minister may direct the Agency to—
+
+(a) lend money to HBFI or any HBFI group entity out of the assets of the Fund on the commercial terms and conditions specified in the direction,
+
+(b) exercise, on the terms and conditions specified in the direction, any rights attaching to a loan made under *paragraph (a)*,
+
+(c) terminate or dispose of, on the terms and conditions specified in the direction, a loan made under *paragraph (a)*, or
+
+(d) pay money to HBFI out of the assets of the Fund for the purposes of discharging the liability of the Minister in respect of the shares allotted and issued to the Minister under section 10 (2) of the Home Building Finance Ireland Act 2018.
+
+(2) The total amount—
+
+(a) loaned under *subsection (1)(a)*, and
+
+(b) paid under *subsection (1)(d)*,
+
+shall not at any time exceed €750,000,000.
+
+(3) For the purpose of calculating the amount referred to in *subsection (2)*, the equivalent in the currency of the State of amounts loaned or paid in a currency other than the currency of the State shall be calculated at the rate of exchange prevailing at the time the calculation is made.
+
+(4) For the purposes of *subsection (3)*, where the European Central Bank has published—
+
+(a) a Euro Foreign Exchange Reference Rate, or
+
+(b) a rate expressed by the European Central Bank to replace that rate,
+
+which is applicable to the currency concerned and the time the calculation concerned is made, that rate shall be taken to be the rate of exchange prevailing at that time for that currency.
+
+(5) Interest on any borrowings, liabilities and obligations of HBFI or any HBFI group entity shall not be taken into account in calculating the value of the amount referred to in *subsection (2)*.
+
+(6) The Agency shall comply with a direction given under *subsection (1)*.
+
+(7) In this section "HBFI" and "HBFI group entity" have the same meanings as they have in the Home Building Finance Ireland Act 2018.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (5.12.2018) by *Home Building Finance Ireland Act 2018* (28/2018), s. 19(b), S.I. No. 518 of 2018.
+
+### 42B. Funding of the Land Development Agency
+
+F9[**42B.** (1) Notwithstanding any other provision of this Act, the Minister may, on the request of the Minister for Housing, Local Government and Heritage, made where that Minister of the Government is satisfied that it is necessary or expedient for the achievement of the purposes of the F10[the Land Development Agency Act 2021, and with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform,] direct the Agency to—
+
+(a) lend money to the Land Development Agency or any subsidiary DAC out of the assets of the Fund on the commercial terms and conditions specified in the direction,
+
+(b) exercise, on the terms and conditions specified in the direction, any rights attaching to a loan made under *paragraph (a),*
+
+(c) terminate or dispose of, on the terms and conditions specified in the direction, a loan made F11[under *paragraph (a)*,]
+
+(d) pay money to the Land Development Agency or any subsidiary DAC out of the assets of the Fund for the purposes of discharging the liability of the Minister in respect of the shares allotted and issued to the Minister for Housing, Local Government and Heritage and the Minister for Public Expenditure and Reform under section 25 of the F12[Land Development Agency Act 2021, or]
+
+F13[(e) pay money to the Land Development Agency or any subsidiary DAC from the proceeds of the disposal of a directed investment for the purposes of discharging the liability of the Minister in respect of the shares allotted and issued to the Minister for Housing, Local Government and Heritage and the Minister for Public Expenditure, National Development Plan Delivery and Reform under section 25 of the Land Development Agency Act 2021.]
+
+(2) A request from the Minister for Housing, Local Government and Heritage under *subsection (1)* shall include a recommendation regarding the terms and conditions to be specified in a direction under *subsection (1)*.
+
+(3) The total amount—
+
+(a) loaned under *subsection (1)(a)*, and
+
+(b) paid under *subsection (1)(d)*,
+
+shall not at any time exceed €1,250,000,000.
+
+F14[(3A) The total amount paid under *subsection (1)(e)* shall not at any time exceed F15[€2,500,000,000].]
+
+(4) For the purpose of calculating the amount referred to in *subsection (3)*, the equivalent in the currency of the State of amounts loaned or paid in a currency other than the currency of the State shall be calculated at the rate of exchange prevailing at the time the calculation is made.
+
+(5) For the purposes of *subsection (4)*, where the European Central Bank has published—
+
+(a) a Euro Foreign Exchange Reference Rate, or
+
+(b) a rate expressed by the European Central Bank to replace that rate,
+
+which is applicable to the currency concerned and the time the calculation concerned is made, that rate shall be taken to be the rate of exchange prevailing at that time for that currency.
+
+(6) Interest on any borrowings, liabilities and obligations of the Land Development Agency and of subsidiary DACs shall not be taken into account in calculating the value of the amount referred to in *subsection (3)*.
+
+(7) The Agency shall comply with a direction given under *subsection (1)*.
+
+(8) In this section "subsidiary DAC" has the same meaning as it has in the Land Development Agency Act 2021.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Inserted (15.12.2021) by *Land Development Agency Act 2021* (26/2021), s. 30(b), S.I. No. 712 of 2021.
+>
+> F10, F11, F12: Substituted (6.03.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), s. 67(a)(i)-(iii), commenced on enactment.
+>
+> F13, F14: Inserted (6.03.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), s. 67(a)(iv), (b), commenced on enactment.
+>
+> F15: Substituted (18.11.2024) by *Housing (Miscellaneous Provisions) Act 2024* (39/2024), s. 17, S.I. No. 627 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C2: Application of section restricted by *Land Development Agency Act 2021* (26/2021), s. 32A, as inserted (6.03.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), s. 69, commenced on enactment.
+>
+> **Further provision relating to funding of Agency**
+>
+> **[32A.** (1) Notwithstanding sections 25 to 29, section 42B of the National Treasury Management Agency (Amendment) Act 2014 and section 5 of the Housing Finance Agency Act 1981 , the Agency and any subsidiary DAC may from time to time also raise funds—
+>
+> (a) by its or their performance of the functions of the Agency under paragraph (j), (n) or (o) of section 14(1), or
+>
+> (b) through arrangements referred to in section 6 (2)(c) or 42 of the Affordable Housing Act 2021 or as the owner of a dwelling which is designated as a cost rental dwelling within the meaning of Part 3 of that Act.**]**
+>
+> ...
+
+### 43. Directions in relation to certain investments
+
+**43.** (1) The Minister may give a direction to the Agency in relation to—
+
+(a) the holding and management of a directed investment,
+
+(b) the exercise of any voting or other rights attaching to a directed investment, or
+
+(c) the disposal of a directed investment, and such direction may specify terms or conditions on, or subject to, which the thing concerned is to be done.
+
+(2) The Agency shall comply with a direction under *subsection (1)* .
+
+### 44. Relevant acquisitions and relevant transfers
+
+**44.** (1) Parts 2 and 3 of the Competition Act 2002 do not apply with respect to a relevant acquisition or a relevant transfer.
+
+(2) Nothing done by or on behalf of the Minister, the Agency or a Fund investment vehicle for the purposes of a relevant acquisition or a relevant transfer constitutes a reorganisation measure for the purposes of—
+
+(a) the European Communities (Reorganisation and Winding-Up of Credit Institutions) Regulations 2011 (S.I. No. 48 of 2011), or
+
+(b) the European Communities (Reorganisation and Winding-up of Insurance Undertakings) Regulations 2003 (S.I. No. 168 of 2003).
+
+(3) Nothing done by or on behalf of the Minister, the Agency or a Fund investment vehicle for the purposes of a relevant acquisition or a relevant transfer, and no acquisition by the Minister, the Agency or a Fund investment vehicle of shares or securities in connection with a relevant acquisition or a relevant transfer, constitutes—
+
+(a) an offer, a takeover, the acquisition of control or any other takeover transaction for the purposes of the Irish Takeover Panel Act 1997 or any rules made under section 8 of that Act, or
+
+(b) a takeover bid or bids, within the meaning of the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006 (S.I. No. 255 of 2006).
+
+(4) In this section—
+
+“relevant acquisition” means an acquisition by or on behalf of the Minister, the Agency or a Fund investment vehicle of an interest in a credit institution (being an acquisition that results or would result from a direction) and includes a proposal to make such an acquisition;
+
+“relevant transfer” means a transfer into the Fund, pursuant to *section 46(3)*, of an interest in a credit institution, and includes a proposal to make such a transfer.
+
+### 45. Certain persons not to be shadow directors
+
+**45.** (1) Unless otherwise appointed as a director, none of the persons to whom this section applies is to be taken to be a shadow director (within the meaning given by section 27(1) of the Companies Act 1990) nor what is known as a de facto director nor as a person discharging managerial responsibilities of—
+
+(a) a company in which the Agency or a Fund investment vehicle has a directed investment, or
+
+(b) any subsidiary or subsidiary undertaking of such a company.
+
+(2) This section applies to the following persons:
+
+(a) the Minister;
+
+(b) a member of the Agency;
+
+(c) a member of the Investment Committee of the Agency;
+
+(d) a member of any committee established under section 5B of the Act of 1990;
+
+F16[(da) a member of any subcommittee established under section 5C of the Act of 1990;]
+
+(e) any member of the staff of the Agency.
+
+(3) In this section—
+
+“subsidiary”, in relation to a company, has the same meaning as in section 155 of the Companies Act 1963;
+
+“subsidiary undertaking”, in relation to a company, has the same meaning as in the European Communities (Companies: Group Accounts) Regulations 1992 (S.I. No. 201 of 1992).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(3), S.I. No. 387 of 2024.
+
+### 46. Payments to Fund
+
+**46.** (1) Subject to *subsection (2)*, the Minister may make payments into the Fund from the Central Fund or the growing produce thereof.
+
+(2) Where the Minister proposes to make a payment into the Fund under *subsection (1)*, the Minister shall move a draft resolution in both Houses of the Oireachtas specifying the amount of the proposed payment and the Minister shall not make the payment until the resolution approving of the payment and the amount of it has been passed by each such House.
+
+(3) A Minister of the Government may transfer into the Fund any non-cash asset, including but not limited to a shareholding or other interest held by that Minister or a nominee of that Minister; and for this purpose “non-cash asset” means any property or interest in property, other than cash (including a foreign currency).
+
+### 47. Payments from Fund to Exchequer
+
+**47.** F17[(1) Subject to *subsection (2E)*, the Agency shall transfer to—
+
+(a) the Exchequer, or
+
+(b) the Future Ireland Fund,
+
+from the Fund such assets of such values, on such dates, as the Minister may direct.]
+
+F18[(2) The Minister shall not direct the Agency to transfer any assets to the Exchequer or the Future Ireland Fund from the Fund before 2035 (other than under *subsection (4)*).]
+
+F19[(2A) The Agency shall, on or before 31 July 2034 and on or before 31 July in each subsequent year, advise the Minister, by a report in writing, as to an appropriate value of assets, if any, that the Agency believes is reasonably likely to be available to be transferred from the Fund pursuant to *subsection (1)* in the year subsequent to the report and in each of the 4 years thereafter.
+
+(2B) The Agency shall, in preparing a report under *subsection (2A)*—
+
+(a) consult with the Minister, and
+
+(b) have regard to the need to ensure that the Fund shall continue to have sufficient assets, following each transfer of assets from the Fund pursuant to *subsection (1)*, so as to enable the Agency to continue to perform its functions under this Part.
+
+(2C) The Minister shall, prior to issuing a direction under *subsection (1)*—
+
+(a) consult with the Minister for Public Expenditure, National Development Plan Delivery and Reform and the Agency, and
+
+(b) have regard to—
+
+(i) the advice of the Agency provided in accordance with *subsection (2A)*, and
+
+(ii) the need to ensure that the Fund shall continue to have sufficient assets, following each transfer of assets from the Fund pursuant to *subsection (1)*, so as to enable the Agency to continue to perform its functions under this Part.
+
+(2D) The Minister shall not issue a direction to the Agency under subsection (1) to transfer assets to the Exchequer or the Future Ireland Fund other than—
+
+(a) with the approval of the Government, and
+
+(b) where Dá il Éireann has, on a proposal by the Minister, passed a resolution authorising the Minister to pay the amount specified in the direction.
+
+(2E) Where the Agency—
+
+(a) receives a direction from the Minister under *subsection (1)* to transfer assets of a specified value (in this section referred to as the "relevant value") to the Exchequer or the Future Ireland Fund on or before a specified date (in this section referred to as the "relevant date"), and
+
+(b) is of the opinion that—
+
+(i) an orderly liquidation of assets of the Fund of the relevant value may not be possible in advance of the relevant date, or
+
+(ii) the liquidation of assets of the relevant value may only be possible on terms that are not commercially acceptable,
+
+the Agency shall so notify the Minister in writing of that opinion as soon as is practicable.
+
+(2F) Where the Minister receives a notification under *subsection (2E)*, the Minister may, with the approval of the Government, specify a date later than the relevant date, on or before which assets of the relevant value shall be transferred from the Fund to the Exchequer or the Future Ireland Fund, as the case may be, and the Agency shall comply with the direction under *subsection (1)* on or before the date so specified.]
+
+(3) The payment, or the aggregate of payments, that the Minister directs to be made in any year (except under *subsection (4)* ) shall not exceed 4 per cent of the value of the assets of the Fund at the end of the immediately preceding year.
+
+(4) Where the Minister directs the Agency to dispose of a directed investment, whether in whole or in part, the Minister may direct the Agency—
+
+(a) to make a payment or payments to the Exchequer not exceeding the amount of the proceeds of the disposal,
+
+(b) to invest, on terms and conditions specified in the direction, part or all of the proceeds in securities issued under section 54(1) of the Finance Act 1970 or securities guaranteed by the Minister, or
+
+(c) to hold the proceeds pending a payment to the Exchequer under *paragraph (a)* or their investment under *paragraph (b)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17, F18: Substituted (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(4)(a), (b), S.I. No. 387 of 2024.
+>
+> F19: Inserted (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(4)(c), S.I. No. 387 of 2024.
+
+### 47A. Transfer of assets (including money) from Fund to meet exceptional contingencies
+
+F20[**47A.** F21[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (31.10.2019) by *National Surplus (Reserve Fund for Exceptional Contingencies) Act 2019* (18/2019), s. 7, S.I. No. 536 of 2019.
+>
+> F21: Repealed (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(5), S.I. No. 387 of 2024.
+
+### 48. Expenses of Agency in relation to Fund
+
+**48.** Notwithstanding section 11 of the Act of 1990, the expenses of the Agency in the performance of its functions under this Part shall be defrayed from the Fund.
+
+### 49. Report and information to Minister relating to operation of Fund
+
+**49.** The Agency shall in each report under section 13(1) of the Act of 1990, subject to preserving confidentiality in regard to commercially sensitive information, include the following information in relation to the Fund for the year to which the report relates:
+
+(a) the investment strategy pursued;
+
+(b) the investment return achieved by the Fund;
+
+(c) a valuation of the net assets of the Fund;
+
+(d) a detailed list of the assets of the Fund at the end of the year concerned;
+
+(e) the investment management and custodianship arrangements;
+
+(f) an assessment on a regional basis of the impact of the Fund’s investments on economic activity and employment, F22[...]
+
+(g) an assessment on a regional basis of the distribution of the investments made by the F23[Fund, and]
+
+F24[(h) measures taken in accordance with *section 49A*, as inserted by the Fossil Fuel Divestment Act 2018.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Deleted (17.12.2018) by *Fossil Fuel Divestment Act 2018* (29/2018), s. 1(a)(i), commenced on enactment.
+>
+> F23: Substituted (17.12.2018) by *Fossil Fuel Divestment Act 2018* (29/2018), s. 1(a)(ii), commenced on enactment.
+>
+> F24: Inserted (17.12.2018) by *Fossil Fuel Divestment Act 2018* (29/2018), s. 1(a)(iii), commenced on enactment.
+
+### 49A. Investment in Fossil Fuel Undertakings
+
+F25[**49A**. (1) In this section—
+
+"fellow subsidiary undertakings", "higher holding undertaking", "holding undertaking", "subsidiary undertaking" and "undertaking" have the respective meanings given to them by the Companies Act 2014;
+
+"fossil fuel" means coal, oil, natural gas, peat or any derivative thereof intended for use in the production of energy by combustion;
+
+"fossil fuel undertaking" means an undertaking which is—
+
+(a) engaged, for the time being, in the exploration for or extraction or refinement of a fossil fuel where such activity accounts for 20 per cent or more of the turnover of that undertaking, as derived from its most recently published audited financial statements,
+
+(b) a holding undertaking or, as the case may be, a higher holding undertaking of an undertaking of the kind referred to in *subparagraph (a)*, or
+
+(c) a holding undertaking or, as the case may be, a higher holding undertaking of undertakings engaged, for the time being, in the exploration for or extraction or refinement of a fossil fuel, where the aggregate turnover of such undertakings accounts for 20 per cent or more of the turnover of the group on a consolidated basis, as derived from its most recently published audited financial statements;
+
+"group" means an undertaking together with any holding undertaking, higher holding undertaking, subsidiary undertaking and fellow subsidiary undertakings that such undertaking may have;
+
+"indirect investment" means an investment of the assets of the Fund in an investment product or in a collective investment undertaking but does not include financial derivative instruments, exchange traded funds or hedge funds;
+
+"F26[national climate objective]" has the meaning given by the Climate Action and Low Carbon Development Act 2015;
+
+"State’s climate change obligations" means the existing or future obligations of the State referred to in *paragraphs (a)* and *(b)* (insofar as the obligations of the State referred to in *paragraph (b)* relate to climate change) of section 2 of the Climate Action and Low Carbon Development Act 2015;
+
+"turnover" in relation to an undertaking or a group of undertakings means the amount of revenue derived from the provision of goods and services falling within the ordinary activities of the undertaking or group of undertakings, after deduction of—
+
+(a) trade discounts,
+
+(b) value-added tax, and
+
+(c) any other taxes based on the amounts so derived.
+
+(2) (a) The Agency shall endeavour to ensure that the assets of the Fund are not directly invested in a fossil fuel undertaking.
+
+(b) Where the Agency becomes aware that an undertaking in which the assets of the Fund are directly invested is or becomes a fossil fuel undertaking, the Agency shall divest the assets of the Fund from such investment as soon as practicable.
+
+(3) The Agency shall endeavour to ensure that the assets of the Fund are not invested in an indirect investment at any time after the commencement of this section, unless it is satisfied on reasonable grounds that such indirect investment is unlikely to have in excess of 15 per cent of its assets, or such lower percentage as the Minister may prescribe by order made under this section, invested in a fossil fuel undertaking.
+
+(4) Notwithstanding *subsections (2)* and *(3)*, the Agency may invest the assets of the Fund in a fossil fuel undertaking or in a collective investment undertaking the assets of which are invested or will be invested in a fossil fuel undertaking, where the Agency has satisfied itself on reasonable grounds that the investment is intended to be consistent with—
+
+(a) the achievement of the F27[national climate objective],
+
+(b) the implementation of the State’s climate change obligations, and
+
+(c) the policy of the Government, as may be communicated to the Agency from time to time by the Minister for Communications, Climate Action and the Environment, in relation to climate change and climate change objectives.
+
+(5) Where the Agency makes an investment which, but for *subsection (4)*, it would be prohibited from making, it shall when publishing the fact of the investment and the name of the fossil fuel undertaking or collective investment undertaking concerned, publish the fact that the investment is made under *subsection (4)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (17.12.2018) by *Fossil Fuel Divestment Act 2018* (29/2018), s. 1(b), commenced on enactment.
+>
+> F26, F27: Substituted (30.07.2024) by *Future Ireland Fund and Infrastructure, Climate and Nature Fund Act 2024* (16/202), s. 34(6)(a), (b), S.I. No. 387 of 2024.
+
+## PART 7Other Provisions — PART 7 — Other Provisions
+
+### Chapter 1Dissolution of National Pensions Reserve Fund Commission — Chapter 1 — Dissolution of National Pensions Reserve Fund Commission
+
+#### 50. Dissolution of National Pensions Reserve Fund Commission
+
+**50.** The National Pensions Reserve Fund Commission is dissolved.
+
+### Chapter 2Dissolution of National Development Finance Agency — Chapter 2 — Dissolution of National Development Finance Agency
+
+#### 51. Dissolution of National Development Finance Agency
+
+**51.** The National Development Finance Agency is dissolved.
+
+### Chapter 3Dissolution of Committees — Chapter 3 — Dissolution of Committees
+
+#### 52. Dissolution of Advisory Committee
+
+**52.** The National Treasury Management Agency Advisory Committee is dissolved.
+
+#### 53. Dissolution of State Claims Policy Committee
+
+**53.** The committee established under section 12 of the Act of 2000 is dissolved.
+
+### Chapter 4Transitional provisions — Chapter 4 — Transitional provisions
+
+#### 54. Transitional provision
+
+**54.** *Schedule 4* contains transitional provisions.
+
+## PART 8Miscellaneous — PART 8 — Miscellaneous
+
+### 55. Amendment of section 6 (directions) of State Authorities (Public Private Partnership Arrangements) Act 2002
+
+**55.** The State Authorities (Public Private Partnership Arrangements) Act 2002 is amended in section 3 by inserting the following subsection after subsection (5):
+
+“(6) An appropriate Minister may provide, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, a guarantee or indemnity, in such form and manner and on such terms and conditions as the appropriate Minister thinks fit, in respect of the obligations of a State authority (other than where the State authority is a Minister of the Government) under or in connection with a public private partnership arrangement.”
+
+### 56. Amendment of Schedule 5 (specified bodies) to Social Welfare Consolidation Act 2005
+
+**56.** Schedule 5 to the Social Welfare Consolidation Act 2005 is amended in paragraph 1(4) by inserting “the National Treasury Management Agency,” after “the National Council for Special Education,”.
+
+## SCHEDULE 1Amendments of Acts — SCHEDULE 1 — Amendments of Acts
+
+*Section 5(1)*
+
+### Part 1 — Amendment of Finance Act 1970
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 54 | Delete subsection (7B). |
+
+### Part 2 — Amendments of Ombudsman Act 1980
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Second Schedule | (a) Delete “71. National Development Finance Agency”. |
+|  |  | (b) Delete “76. National Pensions Reserve Fund Commission”. |
+
+### Part 3 — Amendments of National Treasury Management Agency Act 1990
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 1 | Delete the definition of “the Committee”. |
+| 2 | Section 4A | Repeal. |
+| 3 | Section 9 | Repeal. |
+| 4 | Section 11 | Substitute “Subject to section 16 of the National Treasury Management Agency (Amendment) Act 2000 and *sections 30*, *36* and *48* of the *National Treasury Management Agency (Amendment) Act 2014*, the expenses” for “The expenses”. |
+| 5 | Section 16 | Insert “, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform,” after “shall”. |
+| 6 | First Schedule | Delete paragraph (gc). |
+| 7 | Second Schedule | Repeal. |
+
+### Part 4 — Amendments of Taxes Consolidation Act 1997
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 38(1) | Delete all of the words from “to securities” to the end of the subsection and substitute “to securities specified in the Table to section 37.” |
+| 2 | Section 172A(1)(a) | In subparagraph (i) of the definition of “relevant distribution”: |
+|  |  | (a) insert the following clauses after clause (I): |
+|  |  | “(IA) the National Treasury Management Agency, |
+|  |  | (IB) a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner,”; |
+|  |  | (b) delete clause (II); |
+|  |  | (c) delete clause (III). |
+| 3 | Section 230 | Insert the following subsection after subsection (1): |
+|  |  | “(1A) Notwithstanding any provision of the Corporation Tax Acts, profits arising to a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner shall be exempt from corporation tax.” |
+| 4 | Section 230A | Repeal. |
+| 5 | Section 230AB | Repeal. |
+| 6 | Section 246(3) | Insert the following paragraphs after paragraph (eb): |
+|  |  | “(ec) interest paid to— |
+|  |  | (i) the National Treasury Management Agency, |
+|  |  | (ii) the State acting through the National Treasury Management Agency, or |
+|  |  | (iii) a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner, |
+|  |  | (ed) interest paid by a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner,”. |
+| 7 | Section 256(1) | In paragraph (a) of the definition of “relevant deposit”: |
+|  |  | (a) insert the following subparagraph after subparagraph (ii): |
+|  |  | “(iia) a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner,”; |
+|  |  | (b) delete subparagraph (iiia) ; |
+|  |  | (c) delete subparagraph (iiib) ; |
+|  |  | (d) delete subparagraph (iiic). |
+| 8 | Section 607(1) | Delete paragraph (fa). |
+| 9 | Section 730D | In subsection (2): |
+|  |  | (a) insert the following paragraphs after paragraph (c): |
+|  |  | “(ca) where the life policy is an asset held by the National Treasury Management Agency or the State acting through the National Treasury Management Agency, and the National Treasury Management Agency has made a declaration to that effect to the assurance company, or |
+|  |  | (cb) where the life policy is an asset held by a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner, and the National Treasury Management Agency has made a declaration to that effect to the assurance company.”; |
+|  |  | (b) delete paragraph (d) ; |
+|  |  | (c) delete paragraph (e). |
+| 10 | Section 739D | In subsection (6): |
+|  |  | (a) insert the following paragraph after paragraph (ka): |
+|  |  | “(kb) is the National Treasury Management Agency or a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner, or the State acting through the National Treasury Management Agency, and the National Treasury Management Agency has made a declaration to that effect to the investment undertaking, or”; |
+|  |  | (b) delete paragraph (l). |
+| 11 | Schedule 13 | Delete “139. National Development Finance Agency.” |
+| 12 | Schedule 15 | (a) Insert the following paragraph after paragraph 33: |
+|  |  | “33A. A Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister for Finance is the sole beneficial owner.” |
+|  |  | (b) Delete paragraph 34. |
+|  |  | (c) Delete paragraph 34A. |
+|  |  | (d) Delete paragraph 34B. |
+|  |  | (e) Delete paragraph 35. |
+
+### Part 5 — Amendments of Stamp Duties Consolidation Act 1999
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 108A | Repeal. |
+| 2 | New section | Insert the following section after section 108B: |
+|  |  | **“Ireland Strategic Investment Fund** |
+|  |  | **108C.** Stamp duty shall not be chargeable under or by reference to any Heading in Schedule 1 on an instrument for the sale, transfer, lease or other disposition of any property, asset or documentation to a Fund investment vehicle (within the meaning of *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*) of which the Minister is the sole beneficial owner.” |
+
+### Part 6 — Amendments of National Treasury Management Agency (Amendment) Act 2000
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Sections 12 to 14 | Repeal sections 12 to 14. |
+| 2 | Section 15 | Delete “the Policy Committee and”. |
+
+### Part 7 — Amendments of State Authorities (Public Private Partnership Arrangements) Act 2002
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Schedule | (a) Delete “The National Development Finance Agency.” |
+|  |  | (b) Insert “The National Treasury Management Agency.” |
+
+### Part 8 — Amendment of Credit Institutions (Stabilisation) Act 2010
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 76 | Repeal. |
+
+### Part 9 — Amendments of Ministers and Secretaries (Amendment) Act 2011
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Section 21(2) | Delete paragraphs (e), (f) and (g). |
+
+### Part 10 — Amendment of Education and Training Boards Act 2013
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Part 9 | Repeal. |
+
+## SCHEDULE 2Amendments of Statutory Instruments — SCHEDULE 2 — Amendments of Statutory Instruments
+
+*Section 5(2)*
+
+### Part 1 — Amendments of Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) Regulations 2004 — (S.I. No. 699 of 2004)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Schedule | (a) Delete reference number 188. |
+|  |  | (b) Delete reference number 189. |
+|  |  | (c) Substitute the following for reference number 190: |
+| “190 | Investment Committee of the National Treasury Management Agency | Investment Committee members |
+|  |  | Investment Committee chairperson”. |
+|  |  | (d) Insert the following in column (3) of reference number 191: “Chairperson of Agency Members of Agency”. |
+
+### Part 2 — Amendments of Official Languages Act 2003 (Public Bodies) Regulations 2006 — (S.I. No. 150 of 2006)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Schedule 1 | (a) Delete the following: |
+|  | “the National Development Finance Agency | An Ghníomhaireacht Náisiúnta Forbartha Airgeadais”. |
+|  |  | (b) Delete the following: |
+|  | “the National Pensions Reserve Fund Commission | Coimisiún an Chúlchiste Náisiúnta Pinsean”. |
+
+### Part 3 — Amendments of European Communities (Markets in Financial Instruments) Regulations 2007 — (S.I. No. 60 of 2007)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Regulation 5(1) | (a) Delete paragraph (ga). |
+|  |  | (b) Substitute the following for paragraph (gb): |
+|  |  | “(gb) any Fund investment vehicle (within the meaning given by *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*;”. |
+
+### Part 4 — Amendment of Return of Payments (Banks, Building Societies, Credit Unions and Savings Banks) Regulations 2008 — (S.I. No. 136 of 2008)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Schedule 2 | In paragraph 6 delete paragraph (e). |
+
+### Part 5 — Amendments of General Government Secured Borrowings Order 2011 — (S.I. No. 40 of 2011)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Schedule | (a) Delete “National Development Finance Agency (NDFA)”. |
+|  |  | (b) Substitute “Ireland Strategic Investment Fund” for “National Pensions Reserve Fund”. |
+
+### Part 6 — Amendment of Return of Payments (Insurance Undertakings) Regulations 2011 — (S.I. No. 641 of 2011)
+
+| Item (1) | Provision affected (2) | Amendment (3) |
+|---|---|---|
+| 1 | Regulation 2 | (a) Delete the definition of “Commission investment vehicle”. |
+|  |  | (b) Insert the following definition: |
+|  |  | “ ‘Fund investment vehicle’ has the same meaning as in *section 37* of the *National Treasury Management Agency (Amendment) Act 2014*;”. |
+| 2 | Schedule 2 | In paragraph 6— |
+|  |  | (a) substitute the following for subparagraph (e): |
+|  |  | “(e) the National Treasury Management Agency, a Fund investment vehicle, or the State acting through the National Treasury Management Agency or through a Fund investment vehicle,”, |
+|  |  | and |
+|  |  | (b) delete subparagraph (g). |
+
+## SCHEDULE 3 — State Authorities
+
+*Section 29*
+
+1\. A Minister of the Government.
+
+2\. A local authority within the meaning of the Local Government Act 2001.
+
+3\. Commissioners of Public Works in Ireland.
+
+4\. National Roads Authority.
+
+5\. Health Service Executive.
+
+6\. A university within the meaning of the Universities Act 1997, other than Trinity College and the University of Dublin.
+
+7\. Dublin Institute of Technology.
+
+8\. A college within the meaning of section 2 of the Regional Technical Colleges Act 1992.
+
+9\. An education and training board within the meaning of the Education and Training Boards Act 2013.
+
+10\. Courts Service.
+
+11\. A harbour authority within the meaning of the Harbours Acts 1946 to 2005.
+
+12\. Bus Átha Cliath — Dublin Bus.
+
+13\. Bus Éireann — Irish Bus.
+
+14\. Córas Iompair Éireann.
+
+15\. Railway Procurement Agency.
+
+16\. National Transport Authority.
+
+17\. Digital Hub Development Agency.
+
+18\. Iarnród Éireann — Irish Rail.
+
+19\. Grangegorman Development Agency.
+
+20\. Any public authority standing prescribed by order under *section 29*.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Reference to Dublin Institute of Technology ceased to have effect as provided (31.08.2022) by *National Treasury Management Agency (Amendment) Act 2014 (Section 29(2)) Order 2022* S.I. No. 440 of 2022.
+>
+> 2\. It is hereby declared that the reference to Dublin Institute of Technology in Schedule 3 to the National Treasury Management Agency (Amendment) Act 2014 (No. 23 of 2014) shall cease to have effect.
+>
+> C4: Reference to “Railway Procurement Agency” construed (1.08.2015, dissolution day) by *Roads Act 2014* (14/2015), s. 7(2), S.I. No. 298 of 2015.
+>
+> **Transfer of functions of dissolved body to Authority**
+>
+> **7.** (1) On the dissolution day, all functions that, immediately before the dissolution day, were vested in the dissolved body are transferred to the Authority.
+>
+> (2) References—
+>
+> (a) to the dissolved body, in any enactment (other than this Act or an enactment mentioned in the Schedule) or any instrument made under an enactment, in so far as they relate to a function transferred by *subsection (1)*, or
+>
+> (b) to a person that has been granted a railway order, in any enactment or in any instrument made under an enactment, in the case of a railway order granted to the dissolved body before the dissolution day,
+>
+> shall be construed, on and after the dissolution day, as references to the Authority.
+
+## SCHEDULE 4Transitional Provisions — SCHEDULE 4 — Transitional Provisions
+
+*Section 54*
+
+### Part 1 — Introductory
+
+**Interpretation**
+
+1\. In this Schedule—
+
+“Commission” means the National Pensions Reserve Fund Commission;
+
+“Commission dissolution date” means the date on which the dissolution of the Commission takes place;
+
+“Finance Agency” means the National Development Finance Agency;
+
+“Finance Agency dissolution date” means the date on which the dissolution of the Finance Agency takes place;
+
+“foreign law” means the law of a state (including the law of a territorial unit of a state), other than the State;
+
+“Fund constitution date” means the date on which *Part 6* of this Act comes into operation;
+
+“interim period” means the period beginning with the Fund constitution date and ending immediately before the Commission dissolution date.
+
+### Part 2 — Transfers on Fund Constitution Date
+
+**Transfer of property from Commission to Agency on Fund constitution date**
+
+2\. (1) On the Fund constitution date all property, including any chose-in-action, that, immediately before that date, was held by the Commission shall be transferred to the Agency by this subparagraph.
+
+(2) Every chose-in-action transferred to the Agency by *subparagraph (1)* may, on and from the Fund constitution date, be sued on, recovered or enforced by the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to any person bound by the chose-in- action.
+
+**Transfer of Commission’s rights and liabilities to Agency on Fund constitution date**
+
+3\. (1) All rights and liabilities of the Commission arising by virtue of any contract or commitment (expressed or implied) entered into by it before the Fund constitution date shall be transferred to the Agency by this subparagraph on that date.
+
+(2) Every right and liability transferred to the Agency by *subparagraph (1)* may, on and after the Fund constitution date, be sued on, recovered or enforced by or against the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to the person whose right or liability is transferred.
+
+(3) Every lease, licence or permission granted by the Commission in any property transferred to the Agency by *paragraph 2* shall continue in force on and after the Fund constitution date as if granted by the Agency.
+
+**Liability for loss occurring before Fund constitution date**
+
+4\. (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the Fund constitution date of the functions of the Commission shall on and after that date lie against the Agency and not against the Commission.
+
+(2) Where immediately before the Fund constitution date, any legal proceedings are pending in any court or tribunal to which the Commission is a party, the name of the Agency shall be substituted for that of the Commission and the proceedings shall not abate by reason of such substitution.
+
+(3) Where, before the Fund constitution date, agreement has been reached between the parties concerned in settlement of a claim to which *subparagraph (1)* relates and the terms of the agreement have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, then the terms of the agreement or judgment, as the case may be, shall, in so far as they would have been enforceable against the Commission, be enforceable against the Agency and not the Commission.
+
+(4) Any claim made or proper to be made by the Commission in respect of any loss or injury arising from the act or default of any person before the Fund constitution date shall on and after that date be regarded as having been made by or proper to be made by the Agency and may be pursued and sued for by the Agency as if the loss or injury had been suffered by the Agency.
+
+**Provisions consequent upon transfer of assets and liabilities of Commission on Fund constitution date**
+
+5\. (1) Anything commenced and not completed before the Fund constitution date by or under the authority of the Commission may be carried on or completed on or after that date by the Agency.
+
+(2) Every instrument made under an enactment and every document (including any certificate) granted or made by the Commission, shall, if and in so far as it was operative immediately before the Fund constitution date, have effect on or after that date as if it had been granted or made by the Agency.
+
+(3) Any money, stocks, shares or securities transferred by this Part that immediately before the Fund constitution date were standing in the name of the Commission shall, on the request of the Agency, be transferred into its name.
+
+(4) A certificate signed by the Minister that any property, right or liability is or, as the case may be, is not held by the Agency by virtue of this Part shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
+
+**Records held by Commission at Fund constitution date**
+
+6\. Each record held by the Commission immediately before the Fund constitution date is on that date transferred to the Agency by this Part and is, on and from that date, held by the Agency.
+
+**Property, rights and liabilities governed by foreign law, etc.**
+
+7\. *Paragraphs 2*, *3*, *4*, *5(1)* and *(2)* and *6* do not apply to any property, rights or liabilities which are governed by foreign law or any claims or legal proceedings, things commenced or instruments or other documents or records relating to any such property, rights or liabilities.
+
+### Part 3 — Foreign Property etc.: Interim Period
+
+**Foreign assets and liabilities of Commission**
+
+8\. (1) In this paragraph—
+
+“foreign asset” means any property or rights which would be transferred by *Part 2* of this Schedule were the property or rights not governed by foreign law;
+
+“foreign liability” means any liability which would be transferred by *Part 2* of this Schedule were the liability not governed by foreign law.
+
+(2) The Commission shall during the interim period do everything that it is reasonably practicable to do to give effect to the transfer of all foreign assets to the Agency.
+
+(3) If the transfer of any foreign asset is not reasonably practicable the Commission shall dispose of the foreign asset and pay the proceeds to the Agency for payment into the Ireland Strategic Investment Fund.
+
+(4) The Commission shall during the interim period do everything that it is reasonably practicable to do to transfer all foreign liabilities to the Agency.
+
+(5) If the transfer of any foreign liability is not reasonably practicable, the Agency shall on and after the Fund constitution date be responsible for discharging the Commission’s obligations under that liability.
+
+(6) The Commission shall during the interim period obtain, make, maintain and comply with any authorisation, consent, approval, resolution, licence, exemption, filing, notarisation or registration that is necessary in the State and in any other place in connection with ensuring the validity and enforceability of any act, matter or thing referred to in this paragraph.
+
+(7) The terms of any transfer or disposal of a foreign asset and the terms of any transfer of a foreign liability under this paragraph shall be subject to consultation with the Agency.
+
+(8) *Paragraphs 4*, *5(1)* and *(2)* and *6* apply to claims or legal proceedings, things commenced, instruments or other documents or records which relate to any foreign asset or foreign liability as if the references in them to the Fund constitution date were to the date on which the foreign asset or foreign liability is transferred, the proceeds of the disposal of the foreign asset is paid to the Agency or the Agency becomes responsible for discharging the Commission’s obligations under the foreign liability.
+
+**Operation of National Pensions Reserve Fund Act 2000 during the interim period**
+
+9\. During the interim period the National Pensions Reserve Fund Act 2000 has effect subject to the following modifications:
+
+(a) as if in section 5(1) the reference to that Act included a reference to this Schedule,
+
+(b) as if section 6(1)(a) to (d) and (g) to (i) and (l) and (2)(f) were omitted,
+
+(c) as if in section 7—
+
+(i) subsection (1) provided for the Commission to consist of the Chief Executive of the Agency as commissioner,
+
+(ii) subsections (2) to (10) were omitted,
+
+(iii) in subsection (11) the reference to the commissioners were to the commissioner, and
+
+(iv) subsections (12) to (18) were omitted,
+
+(d) as if sections 8 and 9 were omitted,
+
+(e) as if in section 10—
+
+(i) subsection (2) referred to the authentication of the seal by signature of the commissioner or 2 members of the staff of the Manager authorised by the commissioner, and
+
+(ii) subsection (4) referred to the entry into and execution of any contract or instrument by the commissioner or 2 members of the staff of the Manager authorised by the commissioner,
+
+(f) as if sections 11 and 12 were omitted,
+
+(g) as if section 14 were omitted,
+
+(h) as if section 15(4) were omitted,
+
+(i) as if section 15A were omitted,
+
+(j) as if section 16 were omitted,
+
+(k) as if in section 17(1) —
+
+(i) the reference to that Act included a reference to this Schedule, and
+
+(ii) the reference to the National Pensions Reserve Fund were to the Ireland Strategic Investment Fund,
+
+(l) as if in section 18—
+
+(i) in subsection (1) the words after “Reserve Fund”, and
+
+(ii) subsections (2) to (5F) and (8),
+
+were omitted,
+
+(m) as if in section 19—
+
+(i) subsection (1) were omitted, and
+
+(ii) subsection (2) required the receipts mentioned in it to be paid to the Agency for payment into the Ireland Strategic Investment Fund, and
+
+(iii) subsection (3) were omitted,
+
+(n) as if sections 19A to 19C were omitted,
+
+(o) as if sections 20 and 20A were omitted,
+
+(p) as if in section 21(1) and (5) the references to that Act included a reference to this Schedule,
+
+(q) as if in section 25(1) the reference to the chairperson were to the commissioner,
+
+(r) as if in section 26(3) the reference to the Chief Executive Officer of the Manager and by a commissioner authorised for that purpose were to the commissioner, and
+
+(s) as if section 27(2) were omitted.
+
+### Part 4 — Transfers on Finance Agency Dissolution Date
+
+**Transfer of property from Finance Agency to Agency on Finance Agency dissolution date**
+
+10\. (1) On the Finance Agency dissolution date all property, including any chose-in- action, that, immediately before that date, was vested in the Finance Agency shall be transferred to the Agency by this subparagraph.
+
+(2) Every chose-in-action transferred to the Agency by *subparagraph (1)* may, on and from the Finance Agency dissolution date, be sued on, recovered or enforced by the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to any person bound by the chose-in-action.
+
+**Transfer of Finance Agency’s rights and liabilities to Agency on Finance Agency dissolution date**
+
+11\. (1) All rights and liabilities of the Finance Agency arising by virtue of any contract or commitment (expressed or implied) entered into by it before the Finance Agency dissolution date shall be transferred to the Agency by this subparagraph on that date.
+
+(2) Every right and liability transferred to the Agency by *subparagraph (1)* may, on and after the Finance Agency dissolution date, be sued on, recovered or enforced by or against the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to the person whose right or liability is transferred.
+
+(3) Every lease, licence or permission granted by the Finance Agency in any property vested in the Agency by or under this Part shall continue in force on and after the Finance Agency dissolution date as if granted by the Agency.
+
+**Liability for loss occurring before Finance Agency dissolution date**
+
+12\. (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the Finance Agency dissolution date of the functions of the Finance Agency shall on and after that date lie against the Agency and not against the Finance Agency.
+
+(2) Where immediately before the Finance Agency dissolution date, any legal proceedings are pending in any court or tribunal to which the Finance Agency is a party, the name of the Agency shall be substituted for that of the Finance Agency and the proceedings shall not abate by reason of such substitution.
+
+(3) Where, before the Finance Agency dissolution date, agreement has been reached between the parties concerned in settlement of a claim to which *subparagraph (1)* relates and the terms of the agreement have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, then the terms of the agreement or judgment, as the case may be, shall, in so far as they would have been enforceable against the Finance Agency, be enforceable against the Agency and not the Finance Agency.
+
+(4) Any claim made or proper to be made by the Finance Agency in respect of any loss or injury arising from the act or default of any person before the Finance Agency dissolution date shall on and after that date be regarded as having been made by or proper to be made by the Agency and may be pursued and sued for by the Agency as if the loss or injury had been suffered by the Agency.
+
+**Provisions consequent upon transfer of assets and liabilities of the Finance Agency**
+
+13\. (1) Anything commenced and not completed before the Finance Agency dissolution date by or under the authority of the Finance Agency may be carried on or completed on or after that date by the Agency.
+
+(2) Every instrument made under an enactment and every document (including any certificate) granted or made by the Finance Agency, shall, if and in so far as it was operative immediately before the Finance Agency dissolution date, have effect on or after that date as if it had been granted or made by the Agency.
+
+(3) A certificate signed by the Minister that any property, right or liability has or, as the case may be, has not vested in the Agency under this Part shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
+
+**Records held by Finance Agency at Finance Agency dissolution date**
+
+14\. Each record held by the Finance Agency immediately before the Finance Agency dissolution date is on that date transferred to the Agency and is, on and from that date, held by the Agency.
+
+### Part 5 — Accounts and Reports
+
+**Final accounts of Commission**
+
+15\. (1) The Agency shall adopt and submit to the Comptroller and Auditor General for audit the accounts kept in pursuance of section 26 of the National Pensions Reserve Fund Act 2000 for the financial year in which the Commission dissolution date falls.
+
+(2) If the accounts kept in pursuance of the said section 26 for the immediately preceding financial year have not been signed, adopted and submitted in accordance with subsection (3) of that section before the Commission dissolution date, the Agency shall adopt them and submit them to the Comptroller and Auditor General for audit, either separately or consolidated with the accounts required to be submitted by *subparagraph (1)*.
+
+(3) The Agency shall submit accounts required by *subparagraph (1)* or *(2)* not later than 4 months after the Commission dissolution date.
+
+(4) A copy of the accounts submitted under *subparagraph (1)* or *(2)* as audited by the Comptroller and Auditor General shall be presented to the Minister as soon as may be and the Minister shall cause a copy of the accounts as so audited to be laid before each House of the Oireachtas.
+
+(5) If the accounts kept in pursuance of section 26 of the National Pensions Reserve Fund Act 2000 for the immediately preceding financial year have been submitted in accordance with subsection (3) of that section, but not presented to the Minister, before the Commission dissolution date they shall, once audited by the Comptroller and Auditor General, be presented to the Minister as soon as may be and the Minister shall cause a copy of the accounts as so audited to be laid before each House of the Oireachtas.
+
+**Final accounts of Finance Agency**
+
+16\. (1) The Agency shall adopt and submit to the Comptroller and Auditor General for audit the accounts kept in pursuance of section 20 of the National Development Finance Agency Act 2002 for the financial year in which the Finance Agency dissolution date falls.
+
+(2) If the accounts kept in pursuance of the said section 20 for the immediately preceding financial year have not been adopted and submitted in accordance with subsection (3) of that section before the Finance Agency dissolution date, the Agency shall adopt them and submit them to the Comptroller and Auditor General for audit, either separately or consolidated with the accounts required to be submitted by *subparagraph (1)*.
+
+(3) The Agency shall submit accounts required by *subparagraph (1)* or *(2)* not later than 4 months after the Finance Agency dissolution date.
+
+(4) A copy of the accounts submitted under *subparagraph (1)* or *(2)* as audited by the Comptroller and Auditor General shall be presented to the Minister as soon as may be and the Minister shall cause a copy of the accounts as so audited to be laid before each House of the Oireachtas.
+
+(5) If the accounts kept in pursuance of section 20 of the National Development Finance Agency Act 2002 for the immediately preceding financial year have been submitted in accordance with subsection (3) of that section, but not presented to the Minister, before the Finance Agency dissolution date they shall, once audited by the Comptroller and Auditor General, be presented to the Minister as soon as may be and the Minister shall cause a copy of the accounts as so audited to be laid before each House of the Oireachtas.
+
+**Final annual report of Commission**
+
+17\. (1) The Agency shall make a report to the Minister of the activities of the Commission during the financial year in which the Commission dissolution date falls.
+
+(2) If the report required by section 27 of the National Pensions Reserve Fund Act 2000 of the Commission’s activities for the immediately preceding financial year has not been made to the Minister before the Commission dissolution date, the Agency shall also make that report to the Minister or include its contents in the report required to be made by *subparagraph (1)*.
+
+(3) A report under *subparagraph (1)* or *(2)* shall include information in such form and regarding such matters as the Minister may direct.
+
+(4) The Agency shall make a report required by *subparagraph (1)* or *(2)* not later than 6 months after the Commission dissolution date.
+
+(5) The Minister shall cause copies of a report received under *subparagraph (1)* or *(2)* to be laid before each House of the Oireachtas.
+
+**Final annual report of Finance Agency**
+
+18\. (1) The Agency shall make a report to the Minister of the activities of the Finance Agency during the financial year in which the Finance Agency dissolution date falls.
+
+(2) If the report required by section 21 of the National Development Finance Agency Act 2002 of the Finance Agency’s activities for the immediately preceding financial year has not been made to the Minister before the Finance Agency dissolution date, the Agency shall also make that report to the Minister or include its contents in the report required to be made by *subparagraph (1)*.
+
+(3) A report under *subparagraph (1)* or *(2)* shall include information in such form and regarding such matters as the Minister may direct.
+
+(4) The Agency shall make a report required by *subparagraph (1)* or *(2)* not later than 6 months after the Finance Agency dissolution date.
+
+(5) The Minister shall cause copies of a report received under *subparagraph (1)* or *(2)* to be laid before each House of the Oireachtas.
+
+### Part 6 — Other Provisions
+
+**Chief Executive’s accountability for dissolved bodies**
+
+19\. (1) After the dissolution of the Finance Agency or the Commission, the Chief Executive of the Agency shall give evidence to the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General (in this paragraph referred to as the “Committee”), whenever required to do so by the Committee, in respect of any of the following matters in so far as they relate to the Finance Agency or the Commission:
+
+(a) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that it was required by or under any enactment to prepare;
+
+(b) its economy and efficiency in the use of its resources;
+
+(c) the systems, procedures and practices employed by it for the purpose of evaluating the effectiveness of its operations; and
+
+(d) any matter affecting it referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or (in so far as it relates to a matter specified in *clause (a)*, *(b)* or *(c)*) in any other report of the Comptroller and Auditor General that is laid before Dáil Éireann.
+
+(2) In the performance of his or her duties under *subparagraph (1)*, the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+**No requirement to pay into National Pensions Reserve Fund in year of transfer**
+
+20\. Section 18(2) of the National Pensions Reserve Fund Act 2000 does not apply in relation to the year in which the Fund constitution date falls.
+
+**Pre-commencement directed investments**
+
+21\. Any direction given to the Commission under section 19A, 19AA or 19B of the National Pensions Reserve Fund Act 2000 before the Fund constitution date shall have effect on or after that date (until revoked) as if given to the Agency under *section 42*, *47(4)(b)* or *(c)* or *43*, respectively.
+
+**Action commenced before reconstitution of Agency**
+
+22\. The continuation of anything begun before the first meeting of the Agency as reconstituted by the amendments made by *section 8* shall not be invalidated by reason of not having being approved by the reconstituted Agency.
+
+**Chief Executive**
+
+23\. The person who, immediately before the coming into operation of *section 11*, is the Chief Executive shall continue to hold that office after the coming into operation of that section for the same term, and upon and subject to the same terms and conditions, notwithstanding the amendments of section 6 of the Act of 1990 made by that section.
+
+[^1]: OJ No. L145, 10.6.2009, p.1
+[^2]: OJ No. L198, 30.7.2010, p.1

@@ -1,0 +1,1732 @@
+---
+title: "Ministers and Secretaries (Amendment) Act 2011"
+identifier: "eli/2011/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 2011
+date: 2011-07-04
+last_amended: 2026-07-13
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2011/act/10/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2011/act/10/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Ministers and Secretaries (Amendment) Act 2011
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A DEPARTMENT OF STATE TO BE KNOWN, IN THE IRISH LANGUAGE, AS AN ROINN CAITEACHAIS PHOIBLÍ AGUS ATHCHÓIRITHE OR, IN THE ENGLISH LANGUAGE, AS THE DEPARTMENT OF PUBLIC EXPENDITURE AND REFORM; TO PROVIDE FOR THE TRANSFER OF CERTAIN FUNCTIONS OF THE MINISTER FOR FINANCE TO THE MINISTER OF THE GOVERNMENT HAVING CHARGE OF THAT DEPARTMENT; TO CONFER FUNCTIONS ON THE SAID MINISTER OF THE GOVERNMENT IN RELATION TO THE MODERNISATION AND DEVELOPMENT OF THE PUBLIC SERVICE; TO DEEM MEMBERS OF STAFF OF THE NATIONAL TREASURY MANAGEMENT AGENCY ASSIGNED TO PERFORM FUNCTIONS IN THE DEPARTMENT OF FINANCE TO BE OFFICERS OF THE MINISTER FOR FINANCE FOR CERTAIN PURPOSES; TO PROVIDE THAT THE REVENUE COMMISSIONERS SHALL BE INDEPENDENT IN THE PERFORMANCE OF CERTAIN OF THEIR FUNCTIONS; FOR THOSE AND OTHER PURPOSES TO AMEND CERTAIN ENACTMENTS; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[4*th July*, 2011]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to Act exercised (1.01.2013) by *Oireachtas (Allowances and Facilities) (Amendment) Regulations 2013* (S.I. No. 149 of 2013), in operation as per reg. 1(2).
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, commencement, collective citation and construction.
+
+**1**.— (1) This Act may be cited as the Ministers and Secretaries (Amendment) Act 2011.
+
+(2) *Sections 8*, *9, 10* and *16(3)*, and *Parts 3* and *4* shall come into operation on the appointed day.
+
+(3) The Ministers and Secretaries Acts 1924 to 2007 and this Act may be cited together as the Ministers and Secretaries Acts 1924 to 2011 and shall be construed together as one Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Day appointed (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011 (Appointed Day) Order 2011* (S.I. No. 401 of 2011), art. 2.
+>
+> 2\. The 6th day of July 2011 is appointed to be the appointed day for the purposes of the Ministers and Secretaries (Amendment) Act 2011 (No. 10 of 2011).
+
+### 2. Definitions.
+
+**2**.— In this Act—
+
+“Act of 1924” means the Ministers and Secretaries Act 1924;
+
+“Act of 1939” means the Ministers and Secretaries (Amendment) Act 1939;
+
+“Act of 1945” means the National Stud Act 1945;
+
+“Act of 1963” means the Companies Act 1963;
+
+“Act of 1976” means the Gas Act 1976;
+
+“Act of 1983” means the Postal and Telecommunications Services Act 1983;
+
+“Act of 1988” means the Forestry Act 1988;
+
+“Act of 1993” means the Irish Aviation Authority Act 1993;
+
+“Act of 1996” means the Harbours Act 1996;
+
+“Act of 1997” means the Electoral Act 1997;
+
+“Act of 1998” means the Turf Development Act 1998;
+
+“Act of 2001” means the Electoral (Amendment) Act 2001;
+
+“appointed day” shall be construed in accordance with *section 6*;
+
+“Minister” has the meaning assigned to it by *subsection (2)* of *section 7*;
+
+“prescribed” means prescribed by regulations;
+
+“statute” means—
+
+(*a*) an Act of the Oireachtas, or
+
+(*b*) a statute that was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and that continues to be of full force and effect by virtue of Article 50 of the Constitution;
+
+“statutory instrument” has the same meaning as it has in the Interpretation Act 2005.
+
+### 3. Public service body.
+
+**3**.— (1) For the purposes of this Act, each of the following is a public service body, and “public service” shall be construed accordingly:
+
+(*a*) the Civil Service of the State;
+
+(*b*) the Civil Service of the Government;
+
+(*c*) the Garda Síochána;
+
+(*d*) the Permanent Defence Force within the meaning of the Defence Act 1954;
+
+(*e*) a local authority within the meaning of the Local Government Act 2001;
+
+(*f*) the Health Service Executive;
+
+F1[(*g*) an education and training board;]
+
+(*h*) a relevant body, whose members of staff are persons to whom a public service pension scheme in force immediately before the passing of this Act applies;
+
+(*i*) a relevant body—
+
+(i) whose members of staff are persons in respect of whom the Minister for Finance had, immediately before the passing of this Act, the power to apply the provisions of a public service pension scheme, and
+
+(ii) for the time being standing prescribed by the Minister for Finance.
+
+(2) In this section—
+
+“public service pension scheme” means an occupational pension scheme or pension arrangement (howsoever described)—
+
+(*a*) provided for under the Superannuation Acts 1834 to 1963 or any other statute, and
+
+(*b*) made or approved by a Minister of the Government;
+
+“relevant body” means—
+
+(*a*) a body (other than a company established under the Companies Acts) established by or under statute,
+
+(*b*) a company established under the Companies Acts all of the shares in which are held—
+
+(i) by or on behalf of a Minister of the Government, or
+
+(ii) by directors appointed by a Minister of the Government,
+
+(*c*) a subsidiary within the meaning of section 155 of the Act of 1963 of—
+
+(i) a body to which *paragraph (a)* applies, or
+
+(ii) a company to which *paragraph (b)* applies,
+
+(*d*) a body funded, wholly or partly, out of moneys—
+
+(i) provided by the Oireachtas, or
+
+(ii) from the Central Fund or the growing produce thereof,
+
+or
+
+(*e*) a company or body under the control, within the meaning of section 11 of the Taxes Consolidation Act 1997, of—
+
+(i) a company to which *paragraph (b)* applies,
+
+(ii) a subsidiary to which *paragraph (c)* applies,
+
+(iii) a body to which *paragraph (a)* or *(d)* applies, or
+
+(iv) a public service body to which *paragraph (e)*, *(f)* or *(g)* of *subsection (1)* applies,
+
+for the time being standing prescribed by the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 59, S.I. No. 211 of 2013.
+
+### 4. Regulations.
+
+**4**.— (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Without prejudice to any provision of this Act, regulations under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Disapplication of section 7 of Official Languages Act 2003.
+
+**5**.— Section 7 of the Official Languages Act 2003 shall not apply to this Act.
+
+## PART 2 Department of Public Expenditure and Reform — PART 2 — Department of Public Expenditure and Reform
+
+### 6. Appointed day.
+
+**6**.— The Government may by order appoint a day to be the appointed day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011 (Appointed Day) Order 2011* (S.I. No. 401 of 2011).
+>
+> 2\. The 6th day of July 2011 is appointed to be the appointed day for the purposes of the Ministers and Secretaries (Amendment) Act 2011 (No. 10 of 2011).
+
+### 7. Department of Public Expenditure and Reform.
+
+**7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an *Roinn Caiteachais Phoiblí agus Athchóirithe* or, in the English language, as the Department of Public Expenditure and Reform.
+
+(2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+
+(*a*) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+
+(*b*) is, in this Act, referred to as the “Minister”.
+
+(3) The Ministers and Secretaries Acts 1924 to 2007 and the Documentary Evidence Act 1925 shall apply to the Department of Public Expenditure and Reform and the member of the Government who is in charge thereof as if that Department had been established by section 1 of the Act of 1924.
+
+(4) For the purposes of section 6(1) of the Act of 1939 the Department of Public Expenditure and Reform and the office of the Minister for Public Expenditure and Reform shall be deemed to have been established immediately upon the passing of this Act, but any order under the said section 6(1), relating to that Department or that Minister of the Government, made before the appointed day shall not be expressed to come into operation on a day that is earlier than the appointed day.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to section exercised (26.07.2012) by *Local Government (Superannuation) (Consolidation) (Amendment) Scheme 2012* (S.I. No. 291 of 2012).
+
+### 8. Transfer of certain expenditure functions to Minister.
+
+**8**.— (1) The functions of the Minister for Finance—
+
+(*a*) referred to in section 1(ii) of the Act of 1924 relating to the expenditure of the revenues of the State, in so far only as they consist of, or are connected with, the preparation of the estimate of expenditure for each financial year in respect of each supply service, and
+
+(*b*) under subsections (2) and (4) of section 2 of the Act of 1924,
+
+are transferred to the Minister.
+
+(2) The functions of the Minister for Finance referred to in section 1(ii) of the Act of 1924 consisting of the supervision and control of all purchases made for or on behalf of, and all supplies of commodities and goods held by, any Department of State and the disposal thereof are transferred to the Minister.
+
+(3) The functions of the Minister for Finance (other than functions conferred by or under statute) consisting of the carrying out of reviews of expenditure of public moneys are transferred to the Minister.
+
+### 9. Transfer of certain other functions to Minister.
+
+**9**.— (1) (*a*) Subject to *paragraph (b)*, the following functions of the Minister for Finance are transferred to the Minister, except in so far as they consist of the power to pay moneys out of the Central Fund:
+
+(i) all functions (including functions conferred by or under statute) relating to superannuation, remuneration (including allowances and expenses), appointment and terms and conditions of service of members of staff of public service bodies;
+
+(ii) all functions (including functions conferred by or under statute) relating to remuneration (including fees, allowances and expenses), appointment and terms and conditions of service of members, or members of boards, of public service bodies;
+
+(iii) the functions consisting of the sanctioning or approval of expenses incurred in the administration of any statute;
+
+(iv) all functions (including functions conferred by or under statute) relating to superannuation, remuneration (including allowances and expenses) and terms and conditions of service of—
+
+(I) a member of either House of the Oireachtas,
+
+(II) a member of a local authority (within the meaning of the Local Government Act 2001),
+
+(III) a person—
+
+(A) elected under the European Parliament Elections Act 1997 to be a member of the European Parliament, or
+
+(B) who is regarded under that Act as having been elected to be a member of that Parliament,
+
+(IV) a judge of a court established under the law of the State,
+
+(V) a person who is the holder of a qualifying office within the meaning of Part IV of the Ministerial and Parliamentary Offices Act 1938,
+
+(VI) the President of Ireland.
+
+(*b*) This subsection shall not effect the transfer to the Minister of functions of the Minister for Finance consisting of the superannuation or remuneration of members, members of boards, or members of staff of a body to which *section 21* applies.
+
+(2) The functions conferred on the Minister for Finance by or under any of the provisions specified in *Part 1* of *Schedule 2* are transferred to the Minister.
+
+(3) The functions conferred on the Minister for Finance by or under any of the provisions specified in *Part 2* of *Schedule 2* are transferred to the Minister.
+
+(4) The functions of the Minister for Finance in relation to each of the following bodies are transferred to the Minister:
+
+(*a*) the Commissioners of Public Works in Ireland;
+
+(*b*) the Commission for Public Service Appointments;
+
+(*c*) the Public Appointments Service;
+
+(*d*) the Commissioner of Valuation;
+
+(*e*) the State Laboratory.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Certain functions under subs. (1)(a)(i) and (ii) transferred, and references to “Minister for Public Expenditure and Reform” construed (10.12.2013) by *Public Expenditure and Reform (Transfer of Departmental Administration and Ministerial Functions) Order 2013* (S.I. No. 574 of 2013), arts. 3, 4, in operation as per art. 1(2).
+>
+> **3.** The functions conferred on the Minister for Public Expenditure and Reform by or under subparagraphs (i) and (ii) of section 9 (1)(a) of the Ministers and Secretaries (Amendment) Act 2011 (No. 10 of 2011) are transferred to the Minister for Finance, in so far as those functions relate to—
+>
+> (a) the appointment, and terms and conditions of service, of the following:
+>
+> (i) a member of the Central Bank Commission under section 18CA(1)(b) (inserted by section 14 (1) of the Central Bank Reform Act 2010 (No. 23 of 2010) (“Act of 2010”)) or section 28 (as amended by section 14(1) of the Act of 2010) of the Central Bank Act 1942 (No. 22 of 1942) (“Act of 1942”);
+>
+> (ii) a Head of Function of the Central Bank appointed by the Commission under section 23B(1) (inserted by section 14(1) of the Act of 2010) of the Act of 1942;
+>
+> (iii) an acting Head of Function of the Central Bank appointed by the Governor under section 23D(1) (inserted by section 14(1) of the Act of 2010) of the Act of 1942;
+>
+> (iv) a member of staff of Investor Compensation Company Limited;
+>
+> (vi) a Registrar of Credit Unions under section 33X(4) (inserted by section 26 of the Central Bank and Financial Services Authority of Ireland Act 2003 (No. 12 of 2003)) of the Act of 1942;
+>
+> (vii) an acting Registrar of Credit Unions under section 33Y(2) of the Act of 1942,
+>
+> (b) the approval of—
+>
+> (i) a superannuation scheme established under section 33AG(2) (inserted by section 26 of the Central Bank and Financial Services Authority of Ireland Act 2003 (No. 12 of 2003)) of the Act of 1942 in respect of persons mentioned in subsection (1) of that section;
+>
+> (ii) a merger of a staff superannuation scheme mentioned in clause (i) with a staff superannuation scheme continued by section 33AH (inserted by section 26 of the Central Bank and Financial Services Authority of Ireland Act 2003 (No. 12 of 2003)) of the Act of 1942, under subsection (3) of that section,
+>
+> or
+>
+> (c) a determination that a trust fund established for the purposes of a staff superannuation scheme established under section 33AG, or continued in being under section 33AH, of the Act of 1942 is to be public funds for the purposes of the Superannuation Act 1892 under section 33AI(2) (inserted by section 26 of the Central Bank and Financial Services Authority of Ireland Act 2003 (No. 12 of 2003)) of the Act of 1942.
+>
+> **4.** References to the Minister for Public Expenditure and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (13.07.2026) by *Superannuation (Designation of Approved Organisations) Regulations 2026* (S.I. No. 327 of 2026).
+>
+> E6: Power pursuant to section exercised (14.09.2023) by *Superannuation (Designation of Approved Organisations) Regulations 2023* (S.I. No. 445 of 2023).
+>
+> E7: Power pursuant to section exercised (1.06.2022) by *Superannuation (Designation of Approved Organisations) Regulations 2022* (S.I. No. 274 of 2022).
+>
+> E8: Power pursuant to section exercised (23.04.2020) by *Superannuation (Designation of Approved Organisations) Regulations 2020* (S.I. No. 150 of 2020).
+>
+> E9: Power pursuant to section exercised (28.09.2018) by *Superannuation (Designation of Approved Organisations) Regulations 2018* (S.I. No. 394 of 2018).
+>
+> E10: Power pursuant to section exercised (20.10.2017) by *Superannuation (Designation of Approved Organisations) Regulations 2017* (S.I. No. 460 of 2017).
+>
+> E11: Power pursuant to section exercised (28.04.2015) by *Superannuation (Designation of Approved Organisations) Regulations 2015* (S.I. No. 188 of 2015).
+>
+> E12: Power pursuant to section exercised (17.02.2014) by *Superannuation (Designation of Approved Organisations) Regulations 2014* (S.I. No. 89 of 2014).
+>
+> E13: Power pursuant to section exercised (9.12.2013) by *Superannuation (Designation of Approved Organisations) Regulations 2013* (S.I. No. 498 of 2013).
+>
+> E14: Power pursuant to section exercised (4.10.2012) by *Superannuation (Designation of Approved Organisations) (No. 2) Regulations 2012* (S.I. No. 388 of 2012).
+>
+> E15: Power pursuant to section exercised (26.07.2012) by *Local Government (Superannuation) (Consolidation) (Amendment) Scheme 2012* (S.I. No. 291 of 2012).
+>
+> E16: Power pursuant to section exercised (22.05.2012) by *Superannuation (Designation of Approved Organisations) Regulations 2012* (S.I. No. 160 of 2012).
+
+### 10. Functions in relation to further modernisation and development of public service.
+
+**10**.— (1) It shall be a function of the Minister to—
+
+(*a*) formulate and develop, in consultation with other Ministers of the Government and public service bodies, the policies required to further modernise and develop the public service and enable the efficient and effective provision of services by public service bodies,
+
+(*b*) make proposals to the Government for the implementation of such policies,
+
+(*c*) coordinate the implementation of such policies determined by the Government as are designed to effect further modernisation and development of the public service,
+
+(*d*) conduct regular and periodic reviews of the implementation of such policies and to report thereon to the Government,
+
+(*e*) promote value for money in the provision of public services,
+
+(*f*) formulate and develop policies in relation to the procurement of goods and services (including services consisting of the carrying out of works) by Departments of State or other public service bodies, and
+
+(*g*) develop procedural frameworks for the procurement of goods and services (including services consisting of the carrying out of works) by Departments of State or other public service bodies.
+
+(2) In this section “public service body” does not include a body specified in *Schedule 1* or a subsidiary (within the meaning of section 155 of the Act of 1963) of such a body.
+
+### 11. Transfer of administration and business of Department of Finance.
+
+**11**.— (1) The administration and business in connection with the performance of the functions transferred by *sections 8* and *9* are hereby transferred to the Department of Public Expenditure and Reform.
+
+(2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by *subsection (1)* shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+
+### 12. Pending legal proceedings.
+
+**12**.— Where, immediately before the appointed day, any legal proceedings are pending to which the Minister for Finance is a party and the proceedings have reference to functions transferred by this Act, the name of the Minister shall, to the extent that they have such reference, be substituted for the Minister for Finance in those proceedings and the proceedings shall not abate by reason of such substitution.
+
+### 13. Completion of certain matters commenced before appointed day.
+
+**13**.— Anything commenced but not completed before the appointed day by or under the authority of the Minister for Finance may, in so far as it relates to a function transferred by this Act, be carried on and completed by the Minister.
+
+### 14. Operation of certain instruments made before appointed day.
+
+**14**.— Every instrument (including any certificate or licence) granted or made in the performance of a function transferred by this Act shall, if and in so far as it was operative immediately before the appointed day, continue to have effect from the appointed day as if it had been granted or made by the Minister.
+
+### 15. Construction of references.
+
+**15**.— (1) References to the Minister for Finance contained in any statute or instrument under a statute in so far as they relate to any function transferred by this Act shall, from the appointed day, be construed as references to the Minister.
+
+(2) References to the Minister for Finance contained in the memorandum or articles of association of any company in so far as they relate to any function transferred by this Act shall, from the appointed day, be construed as references to the Minister.
+
+### 16. Transfer of property, etc. to Minister.
+
+**16**.— (1) All property, rights and liabilities held, enjoyed or incurred before the appointed day by the Minister for Finance in connection with any function transferred by this Act shall be and are hereby transferred to the Minister and, accordingly, without any further conveyance, transfer or assignment—
+
+(*a*) the said property, real and personal, shall, from the appointed day, vest in the Minister,
+
+(*b*) the said rights shall, from the appointed day, be enjoyed by the Minister, and
+
+(*c*) the said liabilities shall, from the appointed day, be the liabilities of the Minister.
+
+(2) All moneys, stocks, shares and securities transferred to the Minister by this section that, on the appointed day, stand in the name of the Minister for Finance shall, upon the request of the Minister, be transferred into his or her name.
+
+(3) The Minister shall not, without the consent of the Minister for Finance, make a decision in relation to—
+
+(*a*) the disposal of State land (within the meaning of the State Property Act 1954) or any other property that immediately before such disposal was owned by a Minister of the Government or the Commissioners of Public Works in Ireland, where the value of the land or property exceeds €50 million,
+
+(*b*) the application or expenditure of the proceeds of any such disposal, where such proceeds exceed €50 million, or
+
+(*c*) the application or expenditure of the proceeds of the disposal of any other property (either real or personal), where such proceeds exceed €50 million.
+
+(4) (*a*) Any shares or stock issued to the Minister for Finance by a public service body and registered in his or her name or held in trust on his or her behalf by any person, in accordance with a relevant enactment, shall on the appointed day, stand transferred to the Minister or be held in trust on behalf of the Minister, as may be appropriate, and from that day references in a relevant enactment to the Minister for Finance shall be construed as references to the Minister.
+
+(*b*) This subsection shall apply notwithstanding any restriction contained in any enactment in relation to the transfer or alienation of shares or stock to which a relevant enactment applies.
+
+(*c*) In this subsection—
+
+“Act of 2004” means the State Airports Act 2004;
+
+“relevant enactment” means—
+
+(i) section 5 (amended by sections 6 and 14 of theMinerals Company Act 1945) or 15 of the Minerals Exploration and Development Company Act 1941,
+
+(ii) section 16 of the Act of 1945,
+
+(iii) section 7B (inserted by section 16 of the Energy (Miscellaneous Provisions) Act 2006) of the Act of 1976,
+
+(iv) section 19 of the Act of 1983,
+
+(v) section 17 or 22 of the Act of 1988,
+
+(vi) section 19 or 24 of the Act of 1993,
+
+(vii) section 19 of the Act of 1996,
+
+(viii) section 14 or 15 of the Act of 1998,
+
+(ix) section 10 or 11 (amended by section 6(4) of, and the Schedule to, the Act of 2004) of the Air Navigation and Transport (Amendment) Act 1998,
+
+(x) section 2 (amended by section 21 of the Energy (Miscellaneous Provisions) Act 2006) of the Electricity (Supply) (Amendment) Act 2001,
+
+(xi) section 10 of the Act of 2004, or
+
+(xii) Regulation 40 or 45 of the European Communities (Internal Market in Electricity) Regulations 2000 (S.I. No. 445 of 2000).
+
+### 16A. Control of terms and conditions of public servants
+
+F2[**16A.** (1) Where—
+
+(*a*) the Minister has approved a term or condition as being a term or condition that shall apply for the time being in respect of the employment of a class or category of public servant (whether that approval takes the form of an approval as such, any other form of sanction or the giving of consent by the Minister to a decision of another person in the matter), and
+
+(*b*) a contract of employment in respect of a public servant falling within that class or category is entered into that contains a term or condition that corresponds or is equivalent to the term or condition standing so approved but which is more favourable to the public servant than that term or condition,
+
+the contract shall have effect as if the term or condition standing so approved (referred to in *subsections (2)* and *(3)* as the "approved term or condition") were substituted for the first-mentioned term or condition in *paragraph (b)* (referred to in *subsections (2)* and *(3)* as the "unapproved term or condition").
+
+(2) Any amount paid to the public servant concerned in purported compliance with the unapproved term or condition that is in excess of the amount payable to the public servant under the approved term or condition shall be disregarded for the purpose of calculating any pension entitlement (including an entitlement to a lump sum and an entitlement to periodic payments of pension) of that public servant.
+
+(3) Where an amount is paid to the public servant concerned in purported compliance with the unapproved term or condition that is in excess of the amount payable to the public servant under the approved term or condition then—
+
+(*a*) the public servant shall hold the overpayment in trust for the public service body, and
+
+(*b*) the public service body shall recover the amount of the overpayment from the public servant, either directly or by a deduction taken from remuneration subsequently payable to that public servant or otherwise.
+
+(4) Where—
+
+(*a*) a contract of employment is entered into in respect of a public servant, and
+
+(*b*) the contract contains a term or condition in relation to remuneration that does not correspond or is not equivalent to any term or condition standing approved by the Minister in respect of the employment of a class or category of public servant into which the first-mentioned public servant falls (whether that approval takes the form of an approval as such, any other form of sanction or the giving of consent by the Minister to a decision of another person in the matter),
+
+the term or condition shall be void.
+
+(5) Any amount paid to the public servant concerned in purported compliance with a term or condition voided under *subsection (4)* shall be disregarded for the purpose of calculating any pension entitlement (including an entitlement to a lump sum and an entitlement to periodic payments of pension) of that public servant.
+
+(6) Where an amount is paid to the public servant concerned in purported compliance with a term or condition voided under *subsection (4)* then—
+
+(*a*) the public servant shall hold the amount in trust for the public service body, and
+
+(*b*) the public service body shall recover the amount from the public servant, either directly or by a deduction taken from remuneration subsequently payable to that public servant or otherwise.
+
+(7) *Subsections (3)* and *(6)* shall not be taken as limiting the liability under statute of any person to account for such overpayment.
+
+(8) Where an amount to which *subsection (3)* or *(6)* relates has not been recovered by the public service body concerned, the Minister may direct in writing that body to recover, by a specified date, the amount in accordance with *subsection (3)(b)* or *(6)(b)*, as the case may be, and, where that body fails to so recover the amount, the Minister may deduct the amount from any grant or vote of, or other payment to, that body out of money provided directly or indirectly by the Oireachtas or from the Central Fund or the growing produce of that Fund.
+
+(9) This section applies to a term or condition agreed after the commencement of section 12 of the Financial Emergency Measures in the Public Interest Act 2015.
+
+(10) F3[Subject to *subsection (10A)*, this section] has effect notwithstanding—
+
+(*a*) any other enactment,
+
+(*b*) any pension scheme or arrangement,
+
+(*c*) any other agreement or contractual arrangement, or
+
+(*d*) any understanding, expectation, circular or instrument or other document.
+
+F4[(10A) Where a contract of employment is amended in accordance with section 4 (2) of the Financial Emergency Measures in the Public Interest (No. 2) Act 2009 —
+
+(*a*) by the amendment or substitution of an existing term or condition of the contract, or
+
+(*b*) by the insertion of a new term or condition in the contract,
+
+this section shall not apply to the term or condition as so amended, substituted or inserted, as the case may be.]
+
+(11) In this section—
+
+“public servant” means a person who is employed by, or who holds any office or other position in, a public service body;
+
+“remuneration” means emoluments to which Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 applies or is applied.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (30.11.2015) by *Financial Emergency Measures in the Public Interest Act 2015* (39/2015), s. 12, S.I. No. 546 of 2015.
+>
+> F3: Substituted (5.07.2021) by *Public Service Pay Act 2021* (15/2021), s. 4(a), commenced on enactment.
+>
+> F4: Inserted (5.07.2021) by *Public Service Pay Act 2021* (15/2021), s. 4(b), commenced on enactment.
+
+## PART 3 Performance of Certain Functions — PART 3 — Performance of Certain Functions
+
+### 17. Government expenditure ceilings and Ministerial expenditure ceilings.
+
+F5[**17.**— (1) In this section—
+
+"Estimates for Public Services" means the estimates of expenditure in relation to supply grants and appropriations-in-aid in respect of supply services for a financial year prepared by the Minister in the performance of functions transferred to the Minister by *section 8(1)* and submitted by the Government to Dáil Éireann for approval;
+
+"Government expenditure" means the sum of expenditure which is met out of—
+
+(*a*) money supplied out of supply grants and appropriations-in-aid in respect of supply services,
+
+(*b*) money paid out of the Social Insurance Fund, and
+
+(*c*) money paid out of the National Training Fund,
+
+consolidated within and between each of the categories specified in *paragraphs (a)*, *(b)* and *(c)*.
+
+(2) Each financial year the Government shall, upon a proposal of the Minister for Finance, make a decision approving an upper limit on the amount of Government expenditure (in this section referred to as the "Government expenditure ceiling") for each of the 3 financial years immediately following the first-mentioned financial year.
+
+(3) Where the Government have made a decision under *subsection (2)* or this subsection, they may, upon a proposal of the Minister for Finance, make a further decision approving an upper limit on the amount of Government expenditure that is greater or less than the Government expenditure ceiling (in this section referred to as the "revised Government expenditure ceiling"), for any one or more of the financial years concerned.
+
+(4) The Minister for Finance shall consult with the Minister in relation to a proposal referred to in *subsection (2)* and a proposal referred to in *subsection (3)*.
+
+(5) The Minister for Finance shall, on behalf of the Government, inform Dáil Éireann of a decision under *subsection (2)* or *(3)* as soon as may be after the decision is made.
+
+(6) Subject to the Government expenditure ceiling or revised Government expenditure ceiling, as the case may be, each financial year the Government shall, upon a proposal of the Minister, make a decision approving the amount of Government expenditure to be apportioned to the area of responsibility of each Minister of the Government (referred to in this section as a "Ministerial expenditure ceiling") for each of the 3 financial years concerned.
+
+(7) Subject to the Government expenditure ceiling or revised Government expenditure ceiling, as the case may be, where the Government have made a decision under *subsection (6)* or this subsection, they may, upon a proposal of the Minister, make a further decision revising any Ministerial expenditure ceiling for any one or more of the financial years concerned.
+
+(8) The Minister shall, on behalf of the Government, inform Dáil Éireann of a decision under *subsection (6)* or *(7)* as soon as may be after the decision is made.
+
+(9) The aggregate of—
+
+(*a*) the Estimates for Public Services for a financial year, and
+
+(*b*) the estimates of the amount of expenditure in that financial year to be met out of money paid out of the Social Insurance Fund and the National Training Fund,
+
+shall not exceed the Government expenditure ceiling or the revised Government expenditure ceiling, as the case may be, for that financial year.
+
+(10) The Minister for Finance may make recommendations to the Minister as respects the proportion of the Government expenditure ceiling or revised Government expenditure ceiling, as the case may be, that, having regard to fiscal and economic conditions, the Minister for Finance considers should be applied to meet—
+
+(*a*) current expenditure requirements, and
+
+(*b*) capital expenditure requirements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (19.12.2013) by *Ministers and Secretaries (Amendment) Act 2013* (29/2013), s. 1, S.I. No. 577 of 2013.
+
+### 17A. F6[Ministerial expenditure ceilings: provision of information to Minister.
+
+**17A**.— (1) A public service body may, and shall if requested by the Minister, provide to the Minister such information as may be reasonably necessary for the purposes of any function of the Minister under *subsection (6)* or *(7)* of *section 17*.
+
+F7[(2) Information provided to the Minister under *subsection (1)* shall not include any personal data (within the meaning of the General Data Protection Regulation), unless that information is provided in accordance with Part 5 of the Data Sharing and Governance Act 2019.]
+
+(3) Where the Minister requests information under *subsection (1)* the information shall be provided in such form and manner and within such period as the Minister may specify.]
+
+F8[(4) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Inserted (19.12.2013) by *Ministers and Secretaries (Amendment) Act 2013* (29/2013), s. 2, S.I. No. 577 of 2013.
+>
+> F7: Substituted (18.04.2019) by *Data Sharing and Governance Act 2019* (5/2019), s. 73, S.I. No. 189 of 2019.
+>
+> F8: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 215(b), S.I. No. 174 of 2018.
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: subs. (2) amended (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 215(a), S.I. No. 174 of 2018; substituted as per F-note above.
+
+### 18. Functions in respect of Central Fund.
+
+**18**.— (1) None of the provisions of this Act shall be construed as effecting a transfer from the Minister for Finance to the Minister of any function consisting of the payment, or authorisation of the payment, of moneys out of the Central Fund.
+
+(2) The Central Fund (Permanent Provisions) Act 1965 is amended—
+
+(*a*) in section 2, by the substitution of—
+
+(i) “the Minister for Public Expenditure and Reform asks Dáil Éireann” for “he asks Dáil Éireann”, and
+
+(ii) “the Minister for Public Expenditure and Reform’s considering it to be necessary” for “his considering it to be necessary”,
+
+and
+
+(*b*) by the insertion of the following section:
+
+“4A.— The Minister for Finance shall not perform a function under section 2 or 4 except on the request of the Minister for Public Expenditure and Reform.”.
+
+(3) The Minister for Finance shall not, without the approval of the Minister, perform a function consisting of the payment of moneys out of the Central Fund—
+
+(*a*) under a provision specified in *Schedule 3*, or
+
+(*b*) that is performable in accordance with, or for the purposes of, such a provision.
+
+(4) The Minister for Finance shall not, without the approval of the Minister, perform a function consisting of the payment of moneys out of the Central Fund for the purposes of, or in connection with, the superannuation or remuneration (including emoluments and allowances) of any person to which the Presidential Establishment Acts 1938 to 1991 apply.
+
+### 19. Functions performable by Minister for Finance or Minister.
+
+**19**.— (1) The functions conferred by or under the Ministers and Secretaries (Amendment) Act 1977 that were transferred to the Minister for Finance by the Economic Planning and Development (Transfer of Departmental Administration and Ministerial Functions) Order 1980 (S.I. No. 1 of 1980) shall, as well as being performable by the Minister for Finance, be performable by the Minister.
+
+(2) The Minister for Finance and the Minister shall, from time to time, consult with each other in relation to the performance by them of functions referred to in *subsection (1)*.
+
+### 20. Performance of certain functions transferred to Minister by section 9.
+
+**20**.— (1) The Minister shall not perform a function transferred by *subsection (2)* of *section 9* without the consent of the Minister for Finance.
+
+(2) The Minister shall not perform a function transferred by *subsection (3)* of *section 9* without first consulting the Minister for Finance in relation thereto.
+
+### 21. Performance of certain functions by Minister for Finance.
+
+**21**.— (1) The Minister for Finance shall not perform a function consisting of the superannuation or remuneration of members or members of the board, as the case may be, of a body to which this section applies or members of staff of such a body without first consulting with the Minister in relation thereto.
+
+(2) This section applies to the following bodies:
+
+(*a*) Central Bank Commission;
+
+(*b*) Investor Compensation Company Limited;
+
+(*c*) Credit Union Advisory Committee;
+
+(*d*) National Treasury Management Agency;
+
+(*e*) F9[...]
+
+(*f*) F9[...]
+
+(*g*) F9[...]
+
+(*h*) National Asset Management Agency;
+
+(*i*) Office of the Comptroller and Auditor General;
+
+(*j*) Financial Services Ombudsman’s Bureau;
+
+(*k*) Financial Services Ombudsman Council.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Deleted (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014* (23/2014), s. 5(1) and sch. 1 part 9, S.I. No. 586 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C2: References to Financial Services Ombudsman and Financial Services Ombudsman Council construed (1.01.2018, commencement and establishment day) by *Financial Services and Pensions Ombudsman Act 2017* (22/2017), s. 29(2), (3), S.I. No. 524 of 2017.
+>
+> **References in enactments**
+>
+> **29**. ...
+>
+> (2) References to the Financial Services Ombudsman Council in any enactment (other than this Act) or any instrument made under such an enactment shall, on and after the establishment day, be construed as references to the Council.
+>
+> (3) References to the Financial Services Ombudsman, the Deputy Financial Services Ombudsman or the Pensions Ombudsman in any enactment (other than this Act) or any instrument made under such an enactment shall, on and after the establishment day, be construed as references to the Ombudsman.
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to section exercised (8.02.2012) by *Remuneration of the Comptroller and Auditor General Order 2012* (S.I. No. 49 of 2012).
+
+### 22. Purported performance of certain functions by Minister.
+
+**22**.— (1) A function (including a function consisting of the power to make a statutory instrument) of the Minister for Finance performed or purportedly performed by the Minister after the commencement of this Part, shall be deemed to have been validly performed by the Minister for Finance, if, at the time of the performance or purported performance of the function, the Minister believed that the function vested in him or her by virtue of *subsection (1)* or *(4)* of *section 9*.
+
+(2) Where the Minister performs or purports to perform a function of the Minister for Finance, it shall, in any subsequent proceedings (whether civil or criminal), be presumed, unless the contrary is proved, that at the time of the performance or purported performance of the function the Minister believed that the function vested in him or her by virtue of *subsection (1)* or *(4)* of *section 9*.
+
+(3) In this section “function” does not include a function of the Minister for Finance to which *section 16(3), 17*, *18*, *20* or *21*, or *Part 4* applies.
+
+### 23. Purported performance of certain functions by Minister for Finance.
+
+**23**.— (1) A function (including a function consisting of the power to make a statutory instrument) of the Minister performed or purportedly performed by the Minister for Finance shall be deemed to have been validly performed by the Minister, if, at the time of the performance or purported performance of the function, the Minister for Finance believed that the function vested in the Minister for Finance.
+
+(2) Where the Minister for Finance performs or purports to perform a function of the Minister, it shall, in any subsequent proceedings (whether civil or criminal), be presumed, unless the contrary is proved, that at the time of the performance or purported performance of the function the Minister for Finance believed that the function vested in him or her.
+
+(3) In this section “function” does not include—
+
+(*a*) a function transferred to the Minister under *subsection (1)* or *(2)* of *section 8* or *subsection (2)* or *(3)* of *section 9*,
+
+(*b*) a function of the Minister to which *section 16(3), 17*, *18*, *20* or *21*, or *Part 4* applies, or
+
+(*c*) a function transferred to the Minister by order under section 6(1) of the Act of 1939.
+
+### 24. Dispute in relation to performance of functions.
+
+**24**.— If any doubt, question, or dispute arises as to the Minister of the Government in whom any particular function is vested by virtue of this Act, such doubt, question, or dispute shall be determined by the Taoiseach.
+
+## PART 4 Amendment of Certain Enactments — PART 4 — Amendment of Certain Enactments
+
+### 25. Amendment of section 26 of Intoxicating Liquor (General) Act 1924.
+
+**25**.— Section 26 of the Intoxicating Liquor (General) Act 1924 is amended, in subsection (5), by the substitution of “subject to the approval of the Minister for Public Expenditure and Reform” for “subject to the approval of the Minister for Finance”.
+
+### 26. Amendment of Shannon Electricity Act 1925.
+
+**26**.— The Shannon Electricity Act 1925 is amended—
+
+(*a*) in subsection (1) of section 11, by the substitution of “Upon the request of the Minister for Public Expenditure and Reform, the Minister for Finance may” for “The Minister for Finance may”,
+
+(*b*) in subsection (2) of section 11, by the insertion of “given with the consent of the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*c*) in subsection (4) of section 14, by the insertion of “after consultation with the Minister for Public Expenditure and Reform” after “Minister for Finance”.
+
+### 27. Amendment of section 12 of Electricity (Supply) Act 1927.
+
+**27**.— Section 12 of the Electricity (Supply) Act 1927 is amended—
+
+(*a*) in subsection (1), by the substitution of “with the approval of the Minister for Public Expenditure and Reform and subject to” for “subject to”, and
+
+(*b*) in subsection (6), by the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced” for “shall be advanced”.
+
+### 28. Amendment of section 7 of State Lands (Workhouses) Act 1930.
+
+**28**.— Section 7 of the State Lands (Workhouses) Act 1930 is amended by the insertion, in subsection (2), of “by the Minister for Finance, with the approval of the Minister for Public Expenditure and Reform,” after “out of the Central Fund”.
+
+### 29. Amendment of section 4 of Electricity (Supply) (Amendment) Act 1930.
+
+**29**.— Section 4 of the Electricity (Supply) (Amendment) Act 1930 is amended by the substitution of “the Minister for Finance, after having consulted with the Minister for Public Expenditure and Reform, has formed the opinion” for “the Minister for Finance is of opinion”.
+
+### 30. Amendment of section 3 of Electricity (Supply) (Amendment) Act 1931.
+
+**30**.— Section 3 of the Electricity (Supply) (Amendment) Act 1931 is amended by the substitution, in subsection (1), of “, with the approval of the Minister for Public Expenditure and Reform and subject to the limitation imposed by this section,” for “(subject to the limitation imposed by this section)”.
+
+### 31. Amendment of section 12 of Electricity (Supply) (Amendment) (No. 2) Act 1934.
+
+**31**.— Section 12 of the Electricity (Supply) (Amendment) (No. 2) Act 1934 is amended, in subsection (1), by the insertion of “with the approval of the Minister for Public Expenditure and Reform and” after “Minister for Finance may,”.
+
+### 32. Amendment of section 13 of Shannon Fisheries Act 1935.
+
+**32**.— Section 13 of the Shannon Fisheries Act 1935 is amended by the substitution, in subsection (1), of “, with the approval of the Minister for Public Expenditure and Reform and subject to this section,” for “(subject to the provisions of this section)”.
+
+### 33. Amendment of Local Loans Fund Act 1935.
+
+**33**.— The Local Loans Fund Act 1935 is amended—
+
+(*a*) in subsection (3) (amended by section 7 of the Local Loans Fund (Amendment) Act 1940) of section 3, by the insertion of “, with the approval of the Minister for Public Expenditure and Reform,” after “the Minister shall”,
+
+(*b*) in subsection (2) of section 5, by the substitution of “the Minister may, as and when he thinks proper and having consulted with the Minister for Public Expenditure and Reform” for “the Minister may, as and when he thinks proper”,
+
+(*c*) in subsection (5) of section 5, by—
+
+(i) the insertion of “, after consultation with the Minister for Public Expenditure and Reform,” after “the Minister shall”, and
+
+(ii) by the insertion of “the Minister for Public Expenditure and Reform and” before “such other Minister.”,
+
+(*d*) in subsection (1) of section 8, by the insertion of “, and shall, from time to time, consult with the Minister for Public Expenditure and Reform in relation to the form of such accounts” after “in relation to the fund”,
+
+(*e*) in subsection (1) of section 17, by the insertion of “, after consultation with the Minister for Public Expenditure and Reform,” after “The Minister may”, and
+
+(*f*) in subsection (2) of section 17, by the insertion of “, after consultation with the Minister for Public Expenditure and Reform,” after “the Minister shall”.
+
+### 34. Amendment of section 15 of Seanad Electoral (University Members) Act 1937.
+
+**34**.— Section 15 of the Seanad Electoral (University Members) Act 1937 is amended—
+
+(*a*) in subsection (2), by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the substitution of “by the Minister for Finance, with the approval of the Minister for Public Expenditure and Reform,” for “by the said Minister”, and
+
+(*b*) in subsection (3) (inserted by paragraph (*c*) of section 56 of the Act of 2001) by the insertion of “with the consent of the Minister for Public Expenditure and Reform and” after “the Minister for Finance may,”.
+
+### 35. Amendment of section 3 of Local Loans Fund (Amendment) Act 1937.
+
+**35**.— Section 3 of the Local Loans Fund (Amendment) Act 1937 is amended by the insertion of “, after having consulted with the Minister for Public Expenditure and Reform,” after “If and whenever the Minister”.
+
+### 36. Amendment of section 15 of Industrial Alcohol Act 1938.
+
+**36**.— Section 15 of the Industrial Alcohol Act 1938 is amended by—
+
+(*a*) the deletion of paragraph (*a*) of subsection (1), and
+
+(*b*) the insertion of the following subsection:
+
+“(1A) All moneys required from time to time by the Minister for Public Expenditure and Reform to meet payments required to be made by him to the Company in respect of any shares subscribed for or taken up by him under this Part shall, on his request, be advanced out of the Central Fund or the growing produce thereof by the Minister for Finance.”.
+
+### 37. Amendment of section 5 of Hospitals Act 1939.
+
+**37**.— Section 5 of the Hospitals Act 1939 is amended, in paragraph (*g*), by—
+
+(*a*) the insertion of “and the Minister for Public Expenditure and Reform” after “the Minister for Finance”, and
+
+(*b*) the substitution of “the Minister for Finance” for “that Minister”.
+
+### 38. Amendment of District of Fergus Drainage Act 1943.
+
+**38**.— The District of Fergus Drainage Act 1943 is amended—
+
+(*a*) in subsection (5) of section 4, by the insertion of “, with the consent of the Minister for Public Expenditure and Reform,” after “the Minister may”, and
+
+(*b*) in subsection (6) of section 4, by the insertion of “, with the consent of the Minister for Public Expenditure and Reform,” after “the Minister may”.
+
+### 39. Amendment of Transport Act 1944.
+
+**39**.— The Transport Act 1944 is amended—
+
+(*a*) in subsection (1) of section 16, by the insertion of “and the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*b*) in subsection (2) of section 22, by—
+
+(i) the insertion, in paragraph (*a*), of “and the Minister for Public Expenditure and Reform” after “the Minister for Finance”, and
+
+(ii) the insertion, in paragraph (*b*), of “, after consultation by him with the Minister for Public Expenditure and Reform,” after “Minister for Finance”.
+
+### 40. Amendment of section 21 of Act of 1945.
+
+**40**.— Section 21 of the Act of 1945 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) All moneys from time to time required by the Minister for Public Expenditure and Reform to meet payments required to be made in respect of any shares subscribed for by him under this Act shall be advanced out of the Central Fund or the growing produce thereof by the Minister for Finance.”.
+
+### 41. Amendment of section 3 of Finance (Miscellaneous Provisions) Act 1945.
+
+**41**.— Section 3 of the Finance (Miscellaneous Provisions) Act 1945 is amended, in subsection (1), by the insertion of “exercised after consultation by the Minister for Finance with the Minister for Public Expenditure and Reform” after “at the discretion of the Minister for Finance”.
+
+### 42. Amendment of Electricity (Supply) (Amendment) Act 1945.
+
+**42**.— Section 40 of the Electricity (Supply) (Amendment) Act 1945 is amended in subsection (1), by the substitution of “shall, after consultation by the Minister for Finance with the Minister for Public Expenditure and Reform, be prescribed” for “shall be prescribed”.
+
+### 43. Amendment of section 53 of Turf Development Act 1946.
+
+**43**.— Section 53 of the Turf Development Act 1946 is amended, in subsection (1) (amended by section 13 of the Turf Development Act 1981), by the insertion of “made after the Minister’s having consulted with the Minister for Public Expenditure and Reform” after “recommendation of the Minister”.
+
+### 44. Amendment of section 4 of Seanad Electoral (Panel Members) Act 1947.
+
+**44**.— Section 4 of the Seanad Electoral (Panel Members) Act 1947 is amended by—
+
+(*a*) the substitution of the following subsection for subsection (3):
+
+“(3) The Minister for Finance shall, with the approval of the Minister for Public Expenditure and Reform, pay to the Seanad returning officer the amount of his reasonable charges, not exceeding such amount as may, with the consent of the Minister for Public Expenditure and Reform, be sanctioned by that Minister, in respect of the performance by the Seanad returning officer of his duties under this Act out of the Central Fund or the growing producethereof.”,
+
+and
+
+(*b*) in subsection (3A) (inserted by paragraph (*a*) of section 57 of the Act of 2001) by the substitution of “with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister” for “after consultation with the Minister”.
+
+### 45. Amendment of Sea Fisheries Act 1952.
+
+**45**.— The Sea Fisheries Act 1952 is amended—
+
+(*a*) in subsection (1) (amended by section 1 of the Sea Fisheries (Amendment) Act 1982) of section 18, by the insertion of “made after the Minister’s having consulted with the Minister for Public Expenditure and Reform” after “recommendation of the Minister”,
+
+(*b*) in subsection (1) of section 21, by the insertion of “with the approval of the Minister for Public Expenditure and Reform and” before “after consultation with the Minister”,
+
+(*c*) in subsection (5) of section 21, by the insertion of “, after consultation with the Minister for Public Expenditure and Reform,” after “may”, and
+
+(*d*) in section 22, by the insertion of “and the Minister for Public Expenditure and Reform” after “Minister for Finance”.
+
+### 46. Amendment of Insurance Act 1953.
+
+**46**.— The Insurance Act 1953 is amended—
+
+(*a*) in subsection (1) (inserted by section 1 of the Insurance Act 1983) of section 2, by the insertion of “and the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*b*) in subsection (1A) (inserted by section 2 of the Insurance Act 1969) of section 2, by the insertion of “and the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*c*) in subsection (4) of section 2, by the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance” for “shall be advanced”,
+
+(*d*) in subsection (7) of section 2, by the insertion of “given after consultation with the Minister for Public Expenditure and Reform” after “directions of the Minister for Finance”, and
+
+(*e*) in subsection (1) of section 3, by the insertion of “, with the consent of the Minister for Public Expenditure and Reform,” after “may”.
+
+### 47. Amendment of Electricity (Supply) (Amendment) Act 1954.
+
+**47**.— The Electricity (Supply) (Amendment) Act 1954 is amended—
+
+(*a*) in subsection (1) of section 5 (amended by section 4 of the Electricity (Supply) (Amendment) Act 1958), by the insertion of “and with the approval of the Minister for Public Expenditure and Reform” after “on the recommendation of the Minister”,
+
+(*b*) in subsection (1) of section 8, by—
+
+(i) the substitution of “The Minister for Public Expenditure and Reform may, with the consent of the Minister for Finance and subject to such conditions as the Minister for Public Expenditure and Reform may think fit” for “The Minister for Finance may, subject to such conditions as he may think fit”, and
+
+(ii) the substitution of “the Minister for Public Expenditure and Reform will take up and the Minister for Finance will pay” for “he will take up and pay”,
+
+and
+
+(*c*) in subsection (2) of section 8, by the substitution of “the Minister for Public Expenditure and Reform” for “him”.
+
+### 48. Amendment of section 2 of Turf Development Act 1957.
+
+**48**.— Section 2 of the Turf Development Act 1957 is amended—
+
+(*a*) in subsection (1), by—
+
+(i) the substitution of “with the consent of the Minister for Public Expenditure and Reform and subject to such conditions as the Minister for Public Expenditure and Reform may think fit” for “subject to such conditions as he may think fit”, and
+
+(ii) the substitution of “the Minister for Public Expenditure and Reform will take up and the Minister for Finance will pay” for “he will take up and pay”,
+
+and
+
+(*b*) in subsection (2), by the substitution of “by the Minister for Public Expenditure and Reform” for “by him”.
+
+### 49. Amendment of section 11 of Transport Act 1958.
+
+**49**.— Section 11 of the Transport Act 1958 is amended by the insertion, in subsection (2), of “, with the approval of the Minister for Public Expenditure and Reform,” after “shall”.
+
+### 50. Amendment of section 10 of Shannon Free Airport Development Company Limited Act 1959.
+
+**50**.— Section 10 of the Shannon Free Airport Development Company Limited Act 1959 is amended by the substitution, in paragraph (*a*), of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 51. Amendment of Petroleum and Other Minerals Development Act 1960.
+
+**51**.— Section 55 (amended by section 251 of the Finance Act 1992) of the Petroleum and Other Minerals Development Act 1960 is amended by—
+
+(*a*) the substitution of “the consent of the Minister for Public Expenditure and Reform” for “the consent of the Minister for Finance”, and
+
+(*b*) the substitution of “may, upon the request of the Minister for Public Expenditure and Reform, be paid” for “may be paid”.
+
+### 52. Amendment of section 4 of Electricity (Supply) (Amendment) Act 1962.
+
+**52**.— Section 4 of the Electricity (Supply) (Amendment) Act 1962 is amended by the insertion, in subsection (1), of “made after the Minister’s having consulted with the Minister for Public Expenditure and Reform” after “recommendation of the Minister”.
+
+### 53. Amendment of section 2 of Sea Fisheries (Amendment) Act 1963.
+
+**53**.— Section 2 of the Sea Fisheries (Amendment) Act 1963 is amended by the insertion, in paragraph (*a*), of “with the consent of the Minister for Public Expenditure and Reform and” after “at any time,”.
+
+### 54. Amendment of National Building Agency Limited Act 1963.
+
+**54**.— The National Building Agency Limited Act 1963 is amended—
+
+(*a*) in subsection (1) of section 6, by the insertion of “with the consent of the Minister for Public Expenditure and Reform and” after “may,”,
+
+(*b*) in subsection (2) of section 6, by the insertion of “after consultation with the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*c*) in subsection (1) of section 8, by the insertion of “with the approval of the Minister for Public Expenditure and Reform” after “shall”,
+
+(*d*) by the substitution of the following section for section 10:
+
+“10.— (1) There shall be paid into, or for the benefit of, the Exchequer, in such manner as the Minister for Public Expenditure and Reform considers appropriate, all dividends, bonuses, net proceeds of sale and other moneys received by him in respect of shares of the Company.
+
+(2) There shall be paid into, or for the benefit of, the Exchequer, in such manner as the Minister for Finance, after having consulted with the Minister for Public Expenditure and Reform, considers appropriate—
+
+(*a*) all moneys received by the Minister for Finance in repayment of, or in payment of interest on, moneys advanced by him under section 6 of this Act, and
+
+(*b*) moneys repaid to, or recovered by, the Minister under subsection (4) or (6) of section 7 of this Act.”,
+
+and
+
+(*e*) in subsection (*a*) of section 11, by the substitution of “the Minister for Public Expenditure and Reform” for “the Minister for Finance”.
+
+### 55. Amendment of section 4 of Transport Act 1964.
+
+**55**.— Section 4 of the Transport Act 1964 is amended—
+
+(*a*) in subsection (1) (inserted by section 3 of the Transport Act 1981), by the insertion of “with the consent of the Minister for Public Expenditure and Reform and” after “may,”,
+
+(*b*) in subsection (2), by the insertion of “, with the consent of the Minister for Public Expenditure and Reform,” after “may”, and
+
+(*c*) in subsection (4), by the insertion of “, with the approval of the Minister for Public Expenditure and Reform,” after “shall”.
+
+### 56. Amendment of section 1 of Electricity (Supply) (Amendment) Act 1971.
+
+**56**.— Section 1 of the Electricity (Supply) (Amendment) Act 1971 is amended by the insertion, in subsection (1), of “with the consent of the Minister for Public Expenditure and Reform and” after “may,”.
+
+### 57. Amendment of Act of 1976.
+
+**57**.— The Act of 1976 is amended—
+
+(*a*) in subsection (1) of section 9, by the substitution of “with the consent of the Minister for Public Expenditure and Reform” for “with the consent of the Minister for Finance and of the Minister for the Public Service”,
+
+(*b*) in subsection (2) of section 9, by the substitution of “with the consent of the Minister for Public Expenditure and Reform” for “with the consent of the Minister for Finance and of the Minister for the Public Service”,
+
+(*c*) in subsection (1) of section 22, by the insertion of “made after the Minister’s having consulted with the Minister for Public Expenditure and Reform” after “recommendation of the Minister”, and
+
+(*d*) in subsection (2) of section 22, by the insertion of “, with the consent of the Minister for Public Expenditure and Reform,” after “may”.
+
+### 58. Amendment of section 7 of Superannuation and Pensions Act 1976.
+
+**58**.— Section 7 of the Superannuation and Pensions Act 1976 is amended—
+
+(*a*) in subsection (2), by—
+
+(i) the substitution of “falls to be paid by the Minister for Public Expenditure and Reform” for “falls to be paid by the Minister”, and
+
+(ii) the substitution of “shall, on the request of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the Minister”,
+
+and
+
+(*b*) in subsection (3), by—
+
+(i) the substitution of “received by the Minister for Public Expenditure and Reform” for “received by the Minister”, and
+
+(ii) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 59. Amendment of section 14 of Wildlife Act 1976.
+
+**59**.— Section 14 of the Wildlife Act 1976 is amended by the substitution of “the Minister for Public Expenditure and Reform” for “both the Minister for Finance and the Minister for the Public Service” in each place that it occurs.
+
+### 60. Amendment of National Film Studios of Ireland Limited Act 1980.
+
+**60**.— The National Film Studios of Ireland Limited Act 1980 is amended—
+
+(*a*) in section 2, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*b*) in subsection (1) of section 3, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*c*) in subsection (2) of section 3, by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance” for “shall be advanced”,
+
+(*d*) in section 4, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance” in each place that it occurs,
+
+(*e*) in section 5, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*f*) in section 6, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*g*) in section 12, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*h*) in section 13, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(*i*) in subsection (2) of section 14, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(*j*) in paragraph (*a*) of section 16, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 61. Amendment of First Schedule to Ombudsman Act 1980.
+
+**61**.— Part 1 of the First Schedule to the Ombudsman Act 1980 is amended by the insertion of “Department of Public Expenditure and Reform”.
+
+### 62. Amendment of Housing Finance Agency Act 1981.
+
+**62**.— The Housing Finance Agency Act 1981 is amended by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance and the Minister for the Public Service” in each place that it occurs.
+
+### 63. Amendment of section 8 of Kilkenny Design Workshops Limited Act 1982.
+
+**63**.— Section 8 of the Kilkenny Design Workshops Limited Act 1982 is amended by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance and the Minister for the Public Service”.
+
+### 64. Amendment of Act of 1983.
+
+**64**.— (1) Section 16 of the Act of 1983 is amended by the substitution, in subsection (1), of “with the consent of the Minister for Public Expenditure and Reform” for “with the consent of the Minister for Finance and, where appropriate, the consent of the Minister for the Public Service”.
+
+(2) Section 17 of the Act of 1983 is amended by the substitution of “with the consent of the Minister for Public Expenditure and Reform” for “with the consent of the Minister for Finance and, where appropriate, the consent of the Minister for the Public Service”.
+
+(3) Section 24 of the Act of 1983 is amended by the insertion, in subsection (1), of “, with the consent of the Minister for Public Expenditure and Reform,” after “shall”.
+
+(4) Section 27 of the Act of 1983 is amended—
+
+(*a*) in paragraph (*a*) of subsection (1), by the insertion of “, the Minister for Public Expenditure and Reform” after “the consent of the Minister”, and
+
+(*b*) in subsection (2), by the insertion of “and the Minister for Public Expenditure and Reform” after “the consent of the Minister for Finance”.
+
+(5) Section 29 of the Act of 1983 is amended—
+
+(*a*) in subsection (1), by the substitution of the following paragraph for paragraph (*a*):
+
+“(*a*) The Minister for Finance may, on the request of the Minister for Public Expenditure and Reform and after consultation with the Minister, make available to the postal company a sum not exceeding €63,500,000 to finance capital works.”,
+
+and
+
+(*b*) in subparagraph (i) of paragraph (*b*) of subsection (1), by the insertion of “following consultation by him with the Minister for Public Expenditure and Reform,” after “determined by the Minister for Finance,”.
+
+(6) Section 31 of the Act of 1983 is amended, in subsection (1), by the substitution of “Upon the request of the Minister for Public Expenditure and Reform, the” for “The”.
+
+(7) Section 46 of the Act of 1983 is amended, in subsection (9) (amended by section 11 of the Telecommunications (Miscellaneous Provisions) Act 1996), by—
+
+(*a*) the substitution of “Minister for Finance shall, on the request of the Minister for Public Expenditure and Reform,” for “Minister for Finance shall”, and
+
+(*b*) the substitution of “with the consent of the Minister for Public Expenditure and Reform” for “with his consent”.
+
+(8) The Second Schedule to the Act of 1983 is amended by the substitution, in subparagraph (2) of paragraph 3, of “the Minister for Public Expenditure and Reform, with the approval of the Minister for Finance, shall” for “the Minister for Finance shall”.
+
+### 65. Amendment of National Lottery Act 1986.
+
+**65**.— (1) The Act of 1986 is amended—
+
+(*a*) in section 12, by the substitution of the following subsection for subsection (1):
+
+“(1) The articles of association of the Company shall be in such form consistent with this Act as shall be approved of by the Minister for Public Expenditure and Reform.”,
+
+and
+
+(*b*) in subsection (5) of section 14, by the substitution of “the Minister for Public Expenditure and Reform may determine” for “the Minister, with the consent of the Minister for the Public Service, may determine”.
+
+(2) The amendment of section 12 of the Act of 1986 effected by this section shall not apply in respect of the articles of association of the Company (within the meaning of the Act of 1986) in force immediately before the commencement of this Part.
+
+(3) In this section “Act of 1986” means the National Lottery Act 1986.
+
+### 66. Amendment of Transport (Re-Organisation of Córas Iompair Éireann) Act 1986.
+
+**66**.— The Transport (Re-Organisation of Córas Iompair Éireann) Act 1986 is amended—
+
+(*a*) in section 10, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance and, where appropriate, the Minister for the Public Service”,
+
+(*b*) in subsection (1) of section 11, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance and, where appropriate, the Minister for the Public Service”, and
+
+(*c*) in section 12, by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance and, where appropriate, the consent of the Minister for the Public Service”.
+
+### 67. Amendment of Act of 1988.
+
+**67**.— The Act of 1988 is amended—
+
+(*a*) in paragraph (*a*) of subsection (1) of section 26, by the substitution of “may, with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister,” for “, after consultation with the Minister, may”,
+
+(*b*) in subsection (2) of section 26, by the insertion of “after consultation with the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*c*) in subsection (1) of section 27, by the insertion of “, on the request of the Minister for Public Expenditure and Reform,” after “may”,
+
+(*d*) in section 28, by—
+
+(i) the deletion, in subsection (1), of “, 26 or 27”, and
+
+(ii) the insertion of the following subsection:
+
+“(1A) All money from time to time required by the Minister for Finance to meet sums which become payable by him under section 26 or 27 shall, on the request of the Minister for Public Expenditure and Reform, be advanced by him from the Central Fund or the growing produce thereof.”,
+
+(*e*) in subsection (11) of section 44, by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the substitution of “shall, on the request of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance” for “shall be advanced”,
+
+and
+
+(*f*) in subsection (3) of section 49, by the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced” for “shall be advanced”.
+
+### 68. Amendment of section 69 of Finance Act 1988.
+
+**68**.— Section 69 of the Finance Act 1988 is amended by the insertion of “after consultation with the Minister for Public Expenditure and Reform,” after “Minister for Finance may,”.
+
+### 69. Amendment of section 6 of Public Hospitals (Amendment) Act 1990.
+
+**69**.— Section 6 of the Public Hospitals (Amendment) Act 1990 is amended by the insertion of “, on the request of the Minister for Public Expenditure and Reform,” after “shall”.
+
+### 70. Amendment of section 14 of Dublin Institute of Technology Act 1992.
+
+**70**.— Section 14 (inserted by section 41 of the Institutes of Technology Act 2006) of the Dublin Institute of Technology Act 1992 is amended by the insertion, in subsection (9), of “, the Minister for Public Expenditure and Reform” after “consult with the Minister”.
+
+### 71. Amendment of section 13 of Regional Technical Colleges Act 1992.
+
+**71**.— Section 13 (inserted by section 15 of the Institutes of Technology Act 2006) of the Regional Technical Colleges Act 1992 is amended by the insertion, in subsection (9), of “, the Minister for Public Expenditure and Reform” after “consult with the Minister”.
+
+### 72. Amendment of Electoral Act 1992.
+
+**72**.— The Electoral Act 1992 is amended—
+
+(*a*) in subsection (2) of section 4, by the substitution of “the Minister for Finance and the Minister for Public Expenditure and Reform” for “the Minister for Finance”,
+
+(*b*) in section 32, by—
+
+(i) the substitution, in subsection (1), of—
+
+(I) “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(II) “shall, upon the request of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the said Minister”,
+
+(ii) the substitution, in subsection (1A) (inserted by section 77(*a*) of the Act of 1997), of “Upon the request of the Minister for Public Expenditure and Reform, the Minister for Finance shall” for “The Minister for Finance shall”, and
+
+(iii) the substitution, in subsection (4) (inserted by section 14 of the Act of 2001), of “with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister” for “after consultation with the Minister”, and
+
+(*c*) by the substitution, in paragraph (7) of rule 7 (inserted by section 47(*c*) of the Act of 2001) of Schedule 3, of “shall, with the approval of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the Minister for Finance”.
+
+### 73. Amendment of section 41 of Act of 1993.
+
+**73**.— Section 41 of the Act of 1993 is amended, in subsection (13), by—
+
+(*a*) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(*b*) the insertion of “by the Minister for Finance, on the request of the Minister for Public Expenditure and Reform” after “the growing produce thereof”.
+
+### 74. Amendment of Presidential Elections Act 1993.
+
+**74**.— The Presidential Elections Act 1993 is amended—
+
+(*a*) in subsection (2) of section 5, by the substitution of “sanctioned by the Minister for Finance and the Minister for Public Expenditure and Reform” for “sanctioned by the Minister for Finance”,
+
+(*b*) in subsection (4) of section 9, by the substitution of “the Minister for Finance shall, with the approval of the Minister for Public Expenditure and Reform,” for “the Minister for Finance shall”,
+
+(*c*) in subsection (6) (inserted by section 52(*b*) of the Act of 2001) of section 9, by the substitution of “and with the consent of the Minister for Public Expenditure and Reform, make such an advance” for “make such an advance”,
+
+(*d*) in subsection (1) of section 11, by—
+
+(i) the substitution of “The Minister for Public Expenditure and Reform shall” for “The Minister for Finance shall”, and
+
+(ii) the substitution of “shall, upon the request of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the Minister for Finance”,
+
+(*e*) in subsection (1A) (inserted by section 77(*b*) of the Act of 1997) of section 11, by the substitution of “Upon the request of the Minister for Public Expenditure and Reform, the Minister for Finance shall” for “The Minister for Finance shall”, and
+
+(*f*) in subsection (3) (inserted by section 52(*c*) of the Act of 2001) of section 11, by the substitution of “with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister” for “after consultation with the Minister”.
+
+### 75. Amendment of Referendum Act 1994.
+
+**75**.— The Referendum Act 1994 is amended—
+
+(*a*) in subsection (2) of section 4, by the substitution of “sanctioned by the Minister for Finance with the consent of the Minister for Public Expenditure and Reform” for “sanctioned by the Minister for Finance”,
+
+(*b*) in subsection (4) of section 14, by the substitution of “the Minister for Finance shall, with the approval of the Minister for Public Expenditure and Reform,” for “the Minister for Finance shall”,
+
+(*c*) in subsection (6) (inserted by section 55(*b*) of the Act of 2001) of section 14, by the substitution of “may, with the consent of the Minister for Public Expenditure and Reform,” for “may”,
+
+(*d*) in subsection (1) of section 16, by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the substitution of “shall, upon the request of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the said Minister”,
+
+(*e*) in subsection (1A) of section 16, by the substitution, in subsection (1A) (inserted by section 77(*c*) of the Act of 1997), of “Upon the request of the Minister for Public Expenditure and Reform, the Minister for Finance shall” for “The Minister for Finance shall”,
+
+(*f*) in subsection (3) (inserted by section 55(*c*) of the Act of 2001) of section 16, by the substitution of “with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister” for “after consultation with the Minister”, and
+
+(*g*) in subsection (5) of section 47, by the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be paid by the Minister for Finance” for “shall be paid by the Minister for Finance”.
+
+### 76. Amendment of Act of 1996.
+
+**76**.— The Act of 1996 is amended—
+
+(*a*) in paragraph (*e*) of subsection (1) of section 19, by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the insertion of “by the Minister for Finance, on the request of the Minister for Public Expenditure and Reform” after “thereof”,
+
+(*b*) in subsection (1) (amended by section 6 of the Harbours (Amendment) Act 2000) of section 25, by the insertion of “on the request of the Minister for Public Expenditure and Reform, and” after “Minister for Finance,”,
+
+(*c*) in paragraph (*a*) of subsection (2) of section 25, by the insertion of “the Minister for Public Expenditure and Reform and” after “with”,
+
+(*d*) in section 26, by—
+
+(i) the deletion, in subsection (1), of “or 25”, and
+
+(ii) the insertion of the following subsection:
+
+“(1A) All money from time to time required by the Minister for Finance to meet sums which become payable by him under section 25 shall, on the request of the Minister for Public Expenditure and Reform, be advanced by him from the Central Fund or the growing produce thereof.”,
+
+(*e*) in section 41, by the substitution of the following subsection for subsection (10):
+
+“(10) All money from time to time required by the Minister or the Minister for Public Expenditure and Reform to meet sums which are, or may become, payable by him or her under this section shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance out of the Central Fund or the growing produce thereof.”,
+
+and
+
+(*f*) in subsection (3) of section 101, by the substitution of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced” for “shall be advanced”.
+
+### 77. Amendment of Act of 1997.
+
+**77**.— The Act of 1997 is amended—
+
+(*a*) in subsection (1) (inserted by section 50(*c*)(i) of the Act of 2001) of section 17, by the insertion of “by the Minister for Finance with the approval of the Minister for Public Expenditure and Reform” after “therefor”,
+
+(*b*) in subsection (1) of section 19, by the substitution of “shall be made by the Minister for Finance, with the approval of the Minister for Public Expenditure and Reform,” for “shall be made by the Minister for Finance”, and
+
+(*c*) in paragraph (*c*) (amended by section 50(*e*)(ii) of the Act of 2001) of subsection (1) of section 21, by the substitution of “shall be made by the Minister for Finance, with the approval of the Minister for Public Expenditure and Reform,” for “shall be made by the Minister for Finance”.
+
+### 78. Amendment of section 33 of Dublin Docklands Development Authority Act 1997.
+
+**78**.— Section 33 of the Dublin Docklands Development Authority Act 1997 is amended—
+
+(*a*) in subsection (1), by the insertion of “the request of the Minister for Public Expenditure and Reform and” after “on”, and
+
+(*b*) in subsection (2), by the insertion of “, after consultation with the Minister for Public Expenditure and Reform” after “Minister for Finance”.
+
+### 79. Amendment of European Parliament Elections Act 1997.
+
+**79**.— The European Parliament Elections Act 1997 is amended—
+
+(*a*) in subsection (2) of section 4, by the substitution of “sanctioned by the Minister for Finance with the consent of the Minister for Public Expenditure and Reform” for “sanctioned by the Minister for Finance”,
+
+(*b*) in subsection (3) of section 15A (inserted by section 51(*d*) of the Act of 2001), by the substitution of “Minister for Finance shall, with the approval of the Minister for Public Expenditure and Reform,” for “Minister for Finance shall”,
+
+(*c*) in subsection (1) of section 18, by—
+
+(i) the substitution of “The Minister for Public Expenditure and Reform” for “The Minister for Finance”, and
+
+(ii) the substitution of “the Minister for Finance shall, upon the request of the Minister for Public Expenditure and Reform, recoup to” for “recoup to”,
+
+(*d*) in subsection (2) of section 18, by the substitution of“, and upon the request of the Minister for Public Expenditure and Reform, recoup to” for “, recoup to”,
+
+(*e*) in subsection (6) (inserted by section 51(*f*) of the Act of 2001) of section 18, by the substitution of “with the consent of the Minister for Public Expenditure and Reform and after consultation with the Minister” for “after consultation with the Minister”, and
+
+(*f*) in paragraph (6) of rule 134 (inserted by rule jj of Schedule 1 of the Electoral (Amendment) Act 2004) of Part XV of Schedule 2, by the substitution of “shall be paid by the Minister for Finance with the approval of the Minister for Public Expenditure and Reform” for “shall be paid by the Minister for Finance”.
+
+### 80. Amendment of First Schedule to Freedom of Information Act 1997.
+
+**80**.— Paragraph 1 of the First Schedule to the Freedom of Information Act 1997 is amended, in subparagraph (1), by the insertion of “the Department of Public Expenditure and Reform,”.
+
+### 81. Amendment of Hepatitis C Compensation Tribunal Act 1997.
+
+**81**.— (1) Section 7B (inserted by section 4 of the Hepatitis C Compensation Tribunal (Amendment) Act 2006) of the Act of 1997 is amended—
+
+(*a*) by the insertion, in subsection (2), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*b*) the insertion, in paragraph (*b*) of subsection (4), of “and the Minister for Public Expenditure and Reform” after “with the Minister”.
+
+(2) Section 10 of the Act of 1997 is amended by—
+
+(*a*) the insertion, in subsection (2), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*b*) the insertion, in subsection (3), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*c*) the insertion, in paragraph (*b*) of subsection (6), of “and the Minister for Public Expenditure and Reform” after “with the Minister”.
+
+(3) Section 11 of the Act of 1997 is amended by—
+
+(*a*) the insertion, in subsection (2), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”,
+
+(*b*) the insertion, in subsection (3), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*c*) the insertion, in paragraph (*c*) of subsection 8, of “and the Minister for Public Expenditure and Reform” after “with the Minister”.
+
+(4) In this section “Act of 1997” means the Hepatitis C Compensation Tribunal Act 1997.
+
+### 82. Amendment of section 6A of Merchant Shipping (Commissioners of Irish Lights) Act 1997.
+
+**82**.— Section 6A (inserted by section 5 of the Merchant Shipping (Miscellaneous Provisions) Act 1998) of the Merchant Shipping (Commissioners of Irish Lights) Act 1997 is amended—
+
+(*a*) in subsection (1), by—
+
+(i) the insertion of “, the Minister for Public Expenditure and Reform” after “with the consent of the Minister”, and
+
+(ii) the substitution of “by the Minister for Public Expenditure and Reform” for “by the Minister for Finance”,
+
+and
+
+(*b*) in subsection (3), by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 83. Amendment of section 44 of National Cultural Institutions Act 1997.
+
+**83**.— Section 44 of the National Cultural Institutions Act 1997 is amended by the substitution, in subsection (5), of “shall, on the request of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance” for “shall be advanced”.
+
+### 84. Amendment of section 38 of Universities Act 1997.
+
+**84**.— Section 38 of the Universities Act 1997 is amended by the insertion, in subsection (2), of “, the Minister for Public Expenditure and Reform” after “with the Minister”.
+
+### 85. Amendment of Act of 1998.
+
+**85**.— The Act of 1998 is amended—
+
+(*a*) in section 12, by the substitution of the following subsection for subsection (3):
+
+“(3) The cost of such share shall, on the request of the Minister for Public Expenditure and Reform, be advanced to the Minister by the Minister for Finance out of the Central Fund or the growing produce thereof.”,
+
+and
+
+(*b*) in section 13, by the substitution of the following subsection for subsection (2):
+
+“(2) The cost of such shares shall, on the request of the Minister for Public Expenditure and Reform, be advanced to the subscribers by the Minister for Finance, out of the Central Fund or the growing produce thereof.”.
+
+### 86. Amendment of section 29 of Fisheries (Amendment) Act 1999.
+
+**86**.— Section 29 of the Fisheries (Amendment) Act 1999 is amended by the insertion, in subsection (1), of “after the Minister’s having consulted with the Minister for Public Expenditure and Reform” after “on the recommendation of the Minister”.
+
+### 87. Amendment of section 37 of Electoral (Amendment) Act 2001.
+
+**87**.— Section 37 of the Electoral (Amendment) Act 2001 is amended—
+
+(*a*) in subsection (1), by the insertion of “, on the request of the Minister for Public Expenditure and Reform,” after “shall”,
+
+(*b*) in subsection (2), by the insertion of “with the approval of the Minister for Public Expenditure and Reform and” after “may,”, and
+
+(*c*) in subsection (5), by the insertion of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 88. Amendment of section 12 of Horse and Greyhound Racing Act 2001.
+
+**88**.— Section 12 of the Horse and Greyhound Racing Act 2001 is amended, in subsection (5), by the insertion of “and the Minister for Public Expenditure and Reform” after “Minister for Finance”.
+
+### 89. Amendment of section 106 of Local Government Act 2001.
+
+**89**.— Section 106 of the Local Government Act 2001 is amended—
+
+(*a*) by the substitution of the following subsection for subsection (5):
+
+“(5) The Minister may, after consultation with the Minister for Finance and the Minister for Public Expenditure and Reform, make regulations in relation to borrowing by local authorities.”,
+
+and
+
+(*b*) by the substitution of the following subsection for subsection (8):
+
+“(8) The appropriate Minister may, after consultation with the Minister for Finance and the Minister for Public Expenditure and Reform, sanction borrowing by a local authority in a currency other than the currency of the State.”.
+
+### 90. Amendment of Schedule 1 to Ombudsman for Children Act 2002.
+
+**90**.— Part 1 of Schedule 1 to the Ombudsman for Children Act 2002 is amended, in paragraph (1), by the insertion of “Department of Public Expenditure and Reform;”.
+
+### 91. Amendment of Houses of the Oireachtas Commission Act 2003.
+
+**91**.— The Houses of the Oireachtas Commission Act 2003 is amended—
+
+(*a*) in subsection (1) (inserted by section 6 of the Houses of the Oireachtas Commission (Amendment) Act 2009) of section 5, by—
+
+(i) the insertion of “, with the approval of the Minister for Public Expenditure and Reform,” after “shall”, and
+
+(ii) the insertion of “by the Minister for Finance” after “thereof”,
+
+and
+
+(*b*) in subsection (5)(*a*) of section 13, by—
+
+(i) the insertion of “, with the approval of the Minister for Public Expenditure and Reform,” after “shall”, and
+
+(ii) the insertion of “by the Minister for Finance” after “Central Fund”.
+
+### 92. Amendment of First Schedule to Official Languages Act 2003.
+
+**92**.— The First Schedule to the Official Languages Act 2003 is amended, in subparagraph (1) of paragraph 1, by the insertion of “Department of Public Expenditure and Reform”.
+
+### 93. Amendment of section 36 of Civil Liability and Courts Act 2004.
+
+**93**.— Section 36 of the Civil Liability and Courts Act 2004 is amended by the insertion of “and on the request of the Minister for Public Expenditure and Reform” after “indemnified”.
+
+### 94. Amendment of section 25 of Electoral (Amendment) Act 2004.
+
+**94**.— Section 25 of the Electoral (Amendment) Act 2004 is amended—
+
+(*a*) in subsection (1), by—
+
+(i) the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”, and
+
+(ii) the insertion of “by the Minister for Finance with the approval of the Minister for Public Expenditure and Reform” after “thereof”,
+
+and
+
+(*b*) in subsection (2), by the substitution of “Minister for Public Expenditure and Reform” for “Minister for Finance”.
+
+### 95. Amendment of section 12 of Public Service Management (Recruitment and Appointments) Act 2004.
+
+**95**.— Section 12 of the Public Service Management (Recruitment and Appointments) Act 2004 is amended by the substitution of the following paragraph for paragraph (*c*):
+
+“(*c*) the Secretary General of the Department of Public Expenditure and Reform,”.
+
+### 96. Amendment of section 9 of Social Welfare Consolidation Act 2005.
+
+**96**.— The Social Welfare Consolidation Act 2005 is amended—
+
+(*a*) in section 4, by—
+
+(i) the substitution, in subsection (4), of “Minister for Public Expenditure and Reform” for “Minister for Finance”,
+
+(ii) the deletion, in paragraph (*a*) of that subsection, of “13, 14, 15, 16, 17, 20(2)(*d*), 22, 23, 25(1)(*d*)”, and
+
+(iii) the insertion of the following subsection:
+
+“(4A) The making of regulations under or for the purposes of section 13, 14, 15, 16, 17, 20(2)(*d*), 22, 23 or 25(1)(*d*) by the Minister shall be subject to the consent of the Minister for Finance given after consultation by the Minister for Finance with the Minister for Public Expenditure and Reform.”,
+
+and
+
+(*b*) in section 9, by the insertion of the following subsection:
+
+“(12) The Minister for Finance shall, in relation to the performance by him or her of his or her functions under this section, consult from time to time with the Minister for Public Expenditure and Reform.”.
+
+### 97. Amendment of section 13 of Health (Repayment Scheme) Act 2006.
+
+**97**.— Section 13 of the Health (Repayment Scheme) Act 2006 is amended by—
+
+(*a*) the insertion, in subsection (2), of “given with the approval of the Minister for Public Expenditure and Reform” after “Minister for Finance”, and
+
+(*b*) the insertion, in paragraph (*b*) of subsection (4), of “and the Minister for Public Expenditure and Reform” after “with the Minister”.
+
+### 98. Amendment of Charities Act 2009.
+
+**98**.— The Charities Act 2009 is amended by the substitution of the following section for section 17:
+
+“17.— The Authority may, from time to time, with the consent of the Minister, the Minister for Public Expenditure and Reform and the Minister for Finance and subject to such conditions (if any) as those Ministers of the Government may specify, borrow money (whether on the security of the assets of the Authority or not).”.
+
+### 99. Amendment of section 22 of Social Welfare and Pensions Act 2009.
+
+**99**.— Section 22 of the Social Welfare and Pensions Act 2009 is amended by the substitution, in subsection (10), of “shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance” for “shall be advanced”.
+
+## PART 5 Miscellaneous — PART 5 — Miscellaneous
+
+### 100. Seconded staff of National Treasury Management Agency.
+
+**100**.— For the purposes only of any principle or rule of law relating to the performance of the functions of a Minister of the Government, any member of staff of the National Treasury Management Agency for the time being assigned to perform functions in the Department of Finance shall, notwithstanding section 7(4) of the National Treasury Management Agency Act 1990, be deemed to be an officer of the Minister for Finance.
+
+### 101. Independence of Revenue Commissioners.
+
+**101**.— (1) The Revenue Commissioners shall be independent in the performance of their functions under, or for the purposes of, a relevant enactment.
+
+(2) Neither section 9(3) of the Act of 1924 nor Article 9 of the Revenue Commissioners Order 1923 (S.I. No. 2 of 1923) shall apply to the Revenue Commissioners in the performance by them of their functions under, or for the purposes of, a relevant enactment.
+
+(3) In this section—
+
+“relevant enactment” means—
+
+(*a*) the Capital Acquisitions Tax Consolidation Act 2003 or any statute amending, or extending the application of, that Act,
+
+(*b*) the Capital Gains Tax Acts,
+
+(*c*) the Customs Acts or any instrument relating to customs made under statute,
+
+(*d*) the Tax Acts,
+
+F10[*(e)* Part 18A, 18B, 18C, 18D or 18E of the Taxes Consolidation Act 1997,]
+
+F11[*(ea)* Part 22A of the Taxes Consolidation Act 1997,]
+
+F12[*(eb)* Part 22B of the Taxes Consolidation Act 1997,]
+
+F13[(*ec*) Part 4A of the Taxes Consolidation Act 1997,]
+
+(*f*) any statute relating to the duties of excise or the management of those duties,
+
+(*g*) the Stamp Duties Consolidation Act 1999 or any statute amending, or extending the application of, that Act,
+
+(*h*) the Value-Added Tax Consolidation Act 2010 or any statute amending, or extending the application of, that Act,
+
+F14[(*ha*) the Finance (Local Property Tax) Act 2012, or any statute amending, or extending the application of, that Act,]
+
+F15[(*hb*) the Energy (Windfall Gains in the Energy Sector) (Temporary Solidarity Contribution) Act 2023,]
+
+(*i*) any instrument made under any of the foregoing statutes, or
+
+(*j*) any statutory instrument relating to any tax, duty, charge or levy that is placed under the care and management of the Revenue Commissioners;
+
+“statutory instrument” has the same meaning as it has in the Interpretation Act 2005.
+
+> F10: Substituted (1.09.2023) by *Finance Act 2022* (44/2022), s. 99(2), commenced as per subs. (4).
+>
+> F11: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 80(2), commenced on enactment.
+>
+> F12: Inserted (15.12.2022) by *Finance Act 2022* (44/2022), s. 96(22), commenced as per subs. (25).
+>
+> F13: Inserted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 96(1), commenced on enactment.
+>
+> F14: Inserted (22.07.2021) by *Finance (Local Property Tax) (Amendment) Act 2021* (31/2021), s. 45, commenced on enactment.
+>
+> F15: Inserted (2.08.2023) by *Energy (Windfall Gains in the Energy Sector) (Temporary Solidarity Contribution) Act 2023* (23/2023), s. 25, S.I. No. 388 of 2023.
+
+## SCHEDULE 1
+
+1\. A body whose activities are commercial in character and that was established by or under a statute that—
+
+(*a*) was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution, and
+
+(*b*) continues to be of full force and effect by virtue of Article 50 of the Constitution.
+
+2\. Dublin Airport Authority, public limited company.
+
+3\. Cork Airport Authority, public limited company.
+
+4\. Shannon Airport Authority, public limited company.
+
+5\. Bord Gáis Éireann.
+
+6\. Bord na gCon.
+
+7\. Bord na Móna, public limited company.
+
+8\. Córas Iompair Éireann.
+
+9\. Coillte Teoranta.
+
+10\. Electricity Supply Board.
+
+11\. EirGrid.
+
+12\. A harbour authority within the meaning of the Harbours Act 1946 or a company to which section 7 of the Harbours Act 1996 applies.
+
+13\. Horse Racing Ireland.
+
+14\. The Irish National Stud Company, Limited.
+
+15\. The Irish Aviation Authority.
+
+16\. An Post.
+
+17\. An Post National Lottery Company.
+
+18\. Raidió Teilifís Éireann.
+
+19\. Teilifís na Gaeilge.
+
+F16[19A. Uisce Éireann.]
+
+20\. Railway Procurement Agency.
+
+21\. Voluntary Health Insurance Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (1.01.2023) by *Water Services (Amendment) Act 2022* (39/2022), s. 31 and sch. ref. 8, S.I. No. 678 of 2022, art. 4(d).
+>
+> **Modifications (not altering text):**
+>
+> C3: Reference to Bord na gCon construed (1.10.2020) by *Greyhound Racing Act 2019* (15/2019), s. 8(2), S.I. No. 399 of 2020.
+>
+> **Change of name of Bord na gCon**
+>
+> **8.** ...
+>
+> (2) References in any enactment, statutory instrument or legal proceedings or any other document to Bord na gCon shall, on and from the commencement of this section, be read as references to Rásaíocht Con Éireann.
+>
+> C4: Reference to Dublin Airport Authority construed (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 32(2), commenced on enactment.
+>
+> **Re-naming Dublin Airport Authority as daa**
+>
+> **32.** ...
+>
+> (2) A reference in the Act of 2004 or any other enactment, statutory instrument or any other document or proceedings to Dublin Airport Authority is to be read as a reference to daa.
+>
+> C5: References to Bord Gáis Éireann construed (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8(1)-(2), S.I. No. 286 of 2014.
+>
+> **Change of name of Bord Gáis Éireann to Ervia**
+>
+> **8.** (1) The name of the body (established by section 7 of the Gas Act 1976 ) the present name of which is, in the Irish language, Bord Gáis Éireann and, in the English language, The Irish Gas Board, shall, on and from such day as the Minister appoints by order, be Ervia.
+>
+> (2) References in any enactment, statutory instrument, legal proceedings or any other document to Bord Gáis Éireann or The Irish Gas Board shall, on and from the day appointed under *subsection (1)*, be construed as references to Ervia.
+
+## SCHEDULE 2 Functions Transferred To Minister — SCHEDULE 2 — Functions Transferred To Minister
+
+### PART 1 — Functions performable with consent of Minister for Finance — STATUTES
+
+| Number and Year (1) | Short Title (2) | Provision (3) |
+|---|---|---|
+| No. 42 of 1934 | Slaughter of Cattle and Sheep Act 1934 | Section 41 |
+| No. 26 of 1935 | Agricultural Produce (Cereals) Act 1935 | Section 20 |
+| No. 23 of 1938 | Industrial Alcohol Act 1938 | Paragraph 4(d) (inserted by section 10(c) of the Industrial Alcohol (Amendment) Act 1980) of Schedule |
+| No. 9 of 1941 | Dairy Produce (Price Stabilisation) (Amendment) Act 1941 | Section 9 |
+| No. 13 of 1941 | Minerals Exploration and Development Company Act 1941 | Section 10 |
+| No. 21 of 1944 | Transport Act 1944 | Section 17(3) |
+| No. 31 of 1945 | National Stud Act 1945 | Section 24 |
+| No. 9 of 1946 | Harbours Act 1946 | Section 120 |
+| No. 35 of 1947 | Minerals Company Act 1947 | Section 3 |
+| No. 12 of 1950 | Transport Act 1950 | F17[Section 29(5)] |
+| No. 28 of 1951 | Grain Storage (Loans) Act 1951 | Sections 4 and 5 |
+| No. 19 of 1953 | Turf Development Act 1953 | Section 7 |
+| No. 17 of 1954 | Electricity (Supply) (Amendment) Act 1954 | Sections 3 and 4 |
+| No. 10 of 1957 | Turf Development Act 1957 | Sections 1 and 11 |
+| No. 12 of 1958 | Greyhound Industry Act 1958 | Section 17 |
+| No. 30 of 1964 | Transport Act 1964 | Section 5 |
+| No. 22 of 1969 | Grass Meal (Production) (Amendment) Act 1969 | Section 2 |
+| No. 30 of 1976 | Gas Act 1976 | Sections 8A, 23 and 24 |
+| No. 5 of 1979 | Údarás na Gaeltachta Act 1979 | Sections 10(5) and 24 |
+| No. 36 of 1980 | Irish Film Board Act 1980 | Section 11 |
+| No. 26 of 1982 | Kilkenny Design Workshops Limited Act 1982 | Section 10 |
+| No. 15 of 1985 | Transport Act 1985 | Section 2 |
+| No. 9 of 1986 | Industrial Development Act 1986 | Sections 19 and 24 |
+| No. 28 of 1986 | National Lottery Act 1986 | Section 16 |
+| No. 15 of 1987 | Labour Services Act 1987 | Section 15 |
+| No. 27 of 1987 | Transport Act 1987 | Section 3 |
+| No. 18 of 1988 | Agriculture (Research, Training and Advice) Act 1988 | Section 16 |
+| No. 26 of 1988 | Forestry Act 1988 | Section 24 |
+| No. 19 of 1990 | Industrial Relations Act 1990 | Section 30(2) |
+| No. 25 of 1990 | Pensions Act 1990 | Section 20A |
+| No. 2 of 1991 | Marine Institute Act 1991 | Section 14 |
+| No. 7 of 1992 | Environmental Protection Agency Act 1992 | Section 47 |
+| No. 14 of 1993 | Roads Act 1993 | Section 25 |
+| No. 29 of 1993 | Irish Aviation Authority Act 1993 | Section 26 |
+| No. 16 of 1994 | Health Insurance Act 1994 | Section 24 |
+| No. 18 of 1994 | Irish Horseracing Industry Act 1994 | Section 30 |
+| No. 22 of 1994 | An Bord Bia Act 1994 | Section 23 |
+| No. 25 of 1994 | Milk (Regulation of Supply) Act 1994 | Section 17(4) |
+| No. 29 of 1995 | Irish Medicines Board Act 1995 | Section 17 |
+| No. 4 of 1996 | Voluntary Health Insurance (Amendment) Act 1996 | Section 2(5A) |
+| No. 11 of 1996 | Harbours Act 1996 | Section 23 |
+| No. 28 of 1996 | National Standards Authority of Ireland Act 1996 | Sections 14 and 15(5) |
+| No. 7 of 1997 | Dublin Docklands Development Authority Act 1997 | Section 30(1) |
+| No. 11 of 1997 | National Cultural Institutions Act 1997 | Sections 34, 43(1), 44(3) and 46(2) |
+| No. 37 of 1997 | Merchant Shipping (Commissioners of Irish Lights) Act 1997 | Section 6A |
+| No. 21 of 1998 | Employment Equality Act 1998 | Section 55(2) |
+| No. 24 of 1998 | Air Navigation and Transport (Amendment) Act 1998 | Sections 13 and 22(3)(*g*) |
+| No. 26 of 1998 | Turf Development Act 1998 | Section 22 |
+| No. 29 of 1998 | Food Safety Authority of Ireland Act 1998 | Section 23 |
+| No. 42 of 1998 | Western Development Commission Act 1998 | Section 24 |
+| No. 23 of 1999 | Electricity Regulation Act 1999 | Paragraph 24 of Schedule 1 |
+| No. 1 of 2000 | Comhairle Act 2000 | Section 21 |
+| No. 1 of 2001 | Aviation Regulation Act 2001 | Section 25 |
+| No. 8 of 2001 | Teaching Council Act 2001 | Section 20 |
+| No. 25 of 2001 | Mental Health Act 2001 | Section 41 |
+| No. 34 of 2001 | Adventure Activities Standards Authority Act 2001 | Section 29 |
+| No. 43 of 2001 | Ordnance Survey Ireland Act 2001 | Section 9 |
+| No. 48 of 2001 | Air Navigation and Transport (Indemnities) Act 2001 | Sections 3, 7 and 8 |
+| No. 54 of 2001 | Family Support Agency Act 2001 | Section 24 |
+| No. 55 of 2001 | Transport (Railway Infrastructure) Act 2001 | Section 15 |
+| No. 2 of 2002 | Sustainable Energy Act 2002 | Section 23 |
+| No. 14 of 2002 | Competition Act 2002 | Section 43(2) |
+| No. 20 of 2002 | Communications Regulation Act 2002 | Section 29 |
+| No. 23 of 2003 | Digital Hub Development Agency Act 2003 | Section 30 |
+| No. 44 of 2003 | Companies (Auditing and Accounting) Act 2003 | Section 14(9) |
+| No. 46 of 2003 | Personal Injuries Assessment Board Act 2003 | Section 75 |
+| No. 15 of 2004 | Electoral (Amendment) Act 2004 | Section 29(2) and (3) |
+| No. 27 of 2004 | Residential Tenancies Act 2004 | Section 175 |
+| No. 10 of 2005 | Safety, Health and Welfare at Work Act 2005 | Section 46 |
+| No. 13 of 2005 | Air Navigation and Transport (Indemnities) Act 2005 | Sections 3, 8 and 9 |
+| No. 21 of 2005 | Grangegorman Development Agency Act 2005 | Section 15(1) |
+| No. 24 of 2005 | Land Act 2005 | Section 3 |
+| No. 31 of 2005 | Railway Safety Act 2005 | Section 27 |
+| No. 8 of 2006 | Sea-Fisheries and Maritime Jurisdiction Act 2006 | Section 64 |
+| No. 14 of 2006 | Road Safety Authority Act 2006 | Section 13 |
+| No. 19 of 2006 | National Sports Campus Development Authority Act 2006 | Section 29 |
+| No. 7 of 2007 | National Oil Reserves Agency Act 2007 | Sections 26 and 27 |
+| No. 19 of 2007 | Consumer Protection Act 2007 | Section 29 |
+| No. 20 of 2007 | Pharmacy Act 2007 | Paragraph 18(1) of Schedule 1 |
+| No. 25 of 2007 | Medical Practitioners Act 2007 | Section 33 |
+| No. 11 of 2008 | Electricity Regulation (Amendment) (Eirgrid) Act 2008 | Section 6 |
+| No. 15 of 2008 | Dublin Transport Authority Act 2008 | Section 30 |
+| No. 18 of 2009 | Broadcasting Act 2009 | Sections 35 and 107 |
+| No. 10 of 2010 | Inland Fisheries Act 2010 | Section 43 |
+
+ORDERS
+
+| S.I. Number (1) | Orders (2) | Provision (3) |
+|---|---|---|
+| S.I. No. 279 of 1986 | Health Research Board (Establishment) Order 1986 | Article 30 |
+| S.I. No. 109 of 2000 | Pre-Hospital Emergency Care Council (Establishment) Order 2000 | Article 30(1) |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (26.12.2012) by *Transport (Córas Iompair Éireann and Subsidiary Companies Borrowings) Act 2012* (49/2012), s. 4, commenced on enactment.
+
+### PART 2 — Functions performable after consultation with Minister for Finance
+
+| Number and Year (1) | Short Title (2) | Provision (3) |
+|---|---|---|
+| No. 5 of 2009 | Financial Emergency Measures in the Public Interest Act 2009 | Section 13 |
+| No. 41 of 2009 | Financial Emergency Measures in the Public Interest (No. 2) Act 2009 | Section 7 |
+| No. 38 of 2010 | Financial Emergency Measures in the Public Interest Act 2010 | Section 10 |
+
+## SCHEDULE 3 — Functions of Minister for Finance Performable on Request of Minister
+
+| Number and Year (1) | Short Title (2) | Provision (3) |
+|---|---|---|
+| No. 38 of 1938 | Ministerial and Parliamentary Offices Act 1938 | Sections 12, 24 and 32 |
+| No. 16 of 1961 | Courts of Justice and Court Officers (Superannuation) Act 1961 | Section 8 |
+| No. 39 of 1961 | Courts (Supplemental Provisions) Act 1961 | Section 46(4) |
+| No. 23 of 1991 | Courts (Supplemental Provisions) (Amendment) Act 1991 | Section 11 |
+| No. 8 of 1993 | Comptroller and Auditor General (Amendment) Act 1993 | Sections 14(3) and 15(5) |
+| No. 25 of 1999 | Courts (Supplemental Provisions) (Amendment) Act 1999 | Section 3 |
+
+[^1]: OJ No. L 119, 4.5.2016, p.1

@@ -1,0 +1,6633 @@
+---
+title: "Assisted Decision-Making (Capacity) Act 2015"
+identifier: "eli/2015/act/64"
+type: act
+jurisdiction: ie
+language: en
+number: 64
+year: 2015
+date: 2015-12-30
+last_amended: 2026-03-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2015/act/64/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2015/act/64/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Assisted Decision-Making (Capacity) Act 2015
+
+An Act to provide for the reform of the law relating to persons who require or may require assistance in exercising their decision-making capacity, whether immediately or IN THE FUTURE, HAVING REGARD, INTER ALIA, TO THE PROTECTIONS AFFORDED BY THE CONVENTION FOR THE PROTECTION OF HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS DONE AT ROME ON THE 4TH DAY OF NOVEMBER 1950 AS IT APPLIES IN THE STATE; to provide for the appointment by such persons of other persons to assist them in decision-making or to make decisions jointly with such persons; to provide for the making of applications to the Circuit Court or High Court in respect of such persons, including seeking the appointment by the Circuit Court of decision-making representatives for such persons; TO PROVIDE FOR THE MAKING OF ADVANCE HEALTHCARE DIRECTIVES BY PERSONS OF THEIR WILL AND PREFERENCES CONCERNING MEDICAL TREATMENT DECISIONS SHOULD SUCH A PERSON SUBSECQUENTLY LACK CAPACITY; TO PROVIDE FOR THE APPOINTMENT IN ADVANCE HEALTHCARE DIRECTIVES OF DESIGNATED HEALTHCARE REPRESENTATIVES WITH THE POWER TO, inter alia, ENSURE THAT THE ADVANCE HEALTHCARE DIRECTIVES CONCERNED ARE COMPLIED WITH; to provide for the appointment and functions of the Director of the Decision Support Service in respect of persons who require or may shortly require assistance in exercising their decision-making capacity; to provide for the amendment of the law relating to enduring powers of attorney; to provide for the ratification by the State of the Convention on the International Protection of Adults; and to provide for related matters.
+
+[30 *th December*, 2015]
+
+**Be it enacted by the Oireachtas as follows:**
+
+> **Annotations**
+>
+> **Modifications etc. (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (*a*) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015)
+>
+> ...
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement
+
+**1.** (1) This Act may be cited as the Assisted Decision-Making (Capacity) Act 2015.
+
+(2) Subject to *subsection (3)*, this Act shall come into operation on such day or days as the Minister, after consultation with the Minister for Health, may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+(3) *Part 8* and the other provisions of this Act in so far as they relate to an advance healthcare directive or designated healthcare representative, or both, shall come into operation on such day or days as the Minister for Health, after consultation with the Minister, may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Note: commencement dates ordered by section are available at https://www.irishstatutebook.ie/eli/isbc/2015_64.html#commencement.
+>
+> E2: Power pursuant to subs. (3) exercised (26.04.2023) by *Assisted decision-making (Capacity) Act 2015 (Commencement) (No. 2) Order 2023* (S.I. No. 193 of 2023).
+>
+> 3\. The 26th day of April 2023 is appointed as the day on which Part 8 of the Principal Act, insofar as it is not already in operation, shall come into operation, other than section 93.
+>
+> 4\. The 26th day of April 2023 is appointed as the day on which the following provisions, insofar as they relate to an advance healthcare directive or a designated healthcare representative or both, of the Principal Act shall come into operation:
+>
+> (a) Part 1, insofar as it is not already in operation;
+>
+> (b) Part 2;
+>
+> (c) Part 3;
+>
+> (d) Part 4;
+>
+> (e) Part 5, other than subsections (8) and (9) of section 36, subsections (5) to (8) of section 44, section 46(4) and section 52(d);
+>
+> (f) Part 6, other than section 57;
+>
+> (g) Part 7, other than section 61, section 62, section 70 and section 75(5);
+>
+> (h) Part 9, insofar as it is not already in operation, other than section 100 and section 101(d);
+>
+> (i) Part 10;
+>
+> (j) Part 11;
+>
+> (k) Part 12, other than section 144.
+>
+> E3: Power pursuant to subs. (2) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Commencement) Order 2023* (S.I. No. 192 of 2023).
+>
+> 2\. The 26th day of April 2023 is appointed as the day on which the following provisions, insofar as they do not relate to an advance healthcare directive or a designated healthcare representative or both, of the Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015) shall come into operation:
+>
+> (a) Part 1, insofar as it is not already in operation;
+>
+> (b) Part 2;
+>
+> (c) Part 3;
+>
+> (d) Part 4;
+>
+> (e) Part 5, other than subsections (8) and (9) of section 36, subsections (5) to (8) of section 44, section 46(4) and section 52(d);
+>
+> (f) Part 6, other than section 57;
+>
+> (g) Part 7, other than section 61, section 62, section 70 and section 75(5);
+>
+> (h) Part 9, insofar as it is not already in operation, other than section 100 and section 101(d);
+>
+> (i) Part 10;
+>
+> (j) Part 11;
+>
+> (k) Part 12, other than section 144.
+>
+> E4: Power pursuant to subs. (2) exercised (1.02.2021) by *Assisted Decision-Making (Capacity) Act 2015 (Section 7(1)) (Commencement) Order 2021* (S.I. No. 24 of 2021).
+>
+> 2\. The 1st day of February 2021 is appointed as the day on which section 7(1) of the Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015) shall come into operation.
+>
+> E5: Power pursuant to subs. (3) exercised (17.12.2018) by *Assisted Decision Making (Capacity) Act 2015 (Commencement of Certain Provisions) Order 2018* (S.I. No. 527 of 2018).
+>
+> 2\. The 17th day of December 2018 is appointed as the day on which section 91 of the Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015), insofar as it is not already in operation, comes into operation.
+>
+> E6: Power pursuant to subs. (3) exercised (17.10.2016) by *Assisted Decision-Making (Capacity) Act 2015 (Commencement of Certain Provisions) (No. 2) Order 2016* (S.I. No. 517 of 2018).
+>
+> 2\. The 17th day of October 2016 is appointed as the day on which the following provisions of the Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015) shall come into operation:
+>
+> (*a*) the definition of “Minister” in section 82;
+>
+> (*b*) the definitions of “code of practice” and “working group” in section 91(1);
+>
+> (*c*) section 91(2).
+>
+> E7: Power pursuant to subs. (2) exercised (17.10.2016) by *Assisted Decision-Making (Capacity) Act 2015 (Commencement of Certain Provisions) Order 2016* (S.I. No. 515 of 2016).
+>
+> 2\. The 17th day of October 2016 is appointed as the day on which the following provisions of the Assisted Decision-Making (Capacity) Act 2015(No. 64 of 2015) shall come into operation:
+>
+> (*a*) Part 1, other than sections 3, 4 and 7;
+>
+> (*b*) Part 9, other than section 96, section 102 and Chapter 3.
+
+### 2. Interpretation — general
+
+**2.** (1) In this Act—
+
+"act" includes a decision (howsoever described), an omission and a course of conduct;
+
+"Act of 1965" means the Succession Act 1965;
+
+"Act of 1995" means the Civil Legal Aid Act 1995;
+
+"Act of 1996" means the Powers of Attorney Act 1996;
+
+"Act of 2001" means the Mental Health Act 2001;
+
+"Act of 2014" means the Companies Act 2014;
+
+"advance healthcare directive" shall be construed in accordance with *section 82*;
+
+"approved nursing home" has the meaning assigned to it by section 3 of the Nursing Homes Support Scheme Act 2009;
+
+"attorney" has the meaning assigned to it by *section 59(1)*;
+
+"attorney under the Act of 1996" means a person appointed under an enduring power under the Act of 1996;
+
+"capacity" means decision-making capacity and shall be construed in accordance with *section 3*;
+
+"child" includes a step-child;
+
+"co-decision-maker" has the meaning assigned to it by *section 16*;
+
+"co-decision-making agreement" has the meaning assigned to it by *section 16*;
+
+"co-decision-maker appointer" has the meaning assigned to it by *section 16*;
+
+"cohabitant" means cohabitant within the meaning of section 172 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"court" means Circuit Court;
+
+"court friend", in relation to a relevant person, means a person appointed by the Director pursuant to *section 100(1)* to be a court friend for the relevant person;
+
+"customary occasion" means—
+
+(a) the occasion or anniversary of a birth, marriage or civil partnership, or
+
+(b) any other occasion on which gifts are customarily made within families or among friends or associates;
+
+"debt settlement arrangement" has the meaning assigned to it by section 2 of the Personal Insolvency Act 2012;
+
+"decision" includes a class of decisions;
+
+"decision-making assistant" has the meaning assigned to it by *section 9*;
+
+"decision-making assistance agreement" has the meaning assigned to it by *section 9*;
+
+"decision-making assistant appointer" has the meaning assigned to it by *section 9*;
+
+"decision-making order" means an order under *section 38(2)(a)* as the order is in force from time to time;
+
+"decision-making representative", in relation to a relevant person, means a person appointed pursuant to a decision-making representation order to make one or more than one decision specified in the order on behalf of the relevant person;
+
+"decision-making representation order" means an order under *section 38(2)(b)* as the order is in force from time to time;
+
+"designated centre" has the meaning it has in section 2 of the Health Act 2007;
+
+"designated healthcare representative" has the meaning assigned to it by *section 82*;
+
+"Director" has the meaning given to it in *section 94*;
+
+"enduring power of attorney" has the meaning assigned to it by *section 59(2)*;
+
+"enduring power under the Act of 1996" means an enduring power referred to in section 4 of the Act of 1996 which was created in accordance with the provisions of that Act;
+
+"general visitor" means a person appointed to be a general visitor by the Director pursuant to *section 99(1)*;
+
+"guiding principles" means the principles set out in *section 8(2)* to *(10)*;
+
+"healthcare professional" means a member of any health or social care profession whether or not the profession is a designated profession within the meaning of section 3 of the Health and Social Care Professionals Act 2005;
+
+"intervener", in relation to an intervention in respect of a relevant person, means the person referred to in *paragraph (a)*, *(b)*, *(c)*, *(d)* or *(e)* of the definition of "intervention" making the intervention;
+
+"intervention", in relation to a relevant person, means an action taken under this Act, orders made under this Act or directions given under this Act in respect of the relevant person by—
+
+(a) the court or High Court,
+
+(b) a decision-making assistant, co-decision-maker, decision-making representative, attorney or designated healthcare representative,
+
+(c) the Director,
+
+(d) a special visitor or general visitor, or
+
+(e) a healthcare professional;
+
+"legal practitioner" means a person who is a practising barrister or practising solicitor;
+
+"matter concerned", in relation to a relevant person, means—
+
+(a) in the case of a relevant person who falls within *paragraph (a)* of the definition of "relevant person", the matter or matters in respect of which the person’s capacity is in question or may shortly be in question, and
+
+(b) in the case of a relevant person who falls within *paragraph (b)* of the definition of "relevant person", the matter or matters in respect of which the person lacks capacity;
+
+F1["Minister", other than in *Part 8*, means the Minister for Children, Equality, Disability, Integration and Youth;]
+
+"owner", in relation to a designated centre or mental health facility, includes a person managing a designated centre or mental health facility, or a director (including a shadow director within the meaning of section 222 of the Act of 2014) of, or a shareholder in or an employee or agent of, a company which owns or manages such a centre or facility;
+
+"person who lacks capacity" means a relevant person who falls within *paragraph (b)* of the definition of "relevant person" but only in relation to the matter or matters by virtue of which he or she falls within that paragraph;
+
+"personal insolvency arrangement" has the meaning assigned to it by section 2 of the Personal Insolvency Act 2012;
+
+"personal welfare", in relation to a relevant person, means one or more of the following matters:
+
+(a) accommodation, including whether or not the relevant person should live in a designated centre ;
+
+(b) participation by the relevant person in employment, education or training;
+
+(c) participation by the relevant person in social activities;
+
+(d) decisions on any social services provided or to be provided to the relevant person;
+
+(e) healthcare;
+
+F2[(ea) participation by the relevant person in healthcare research and social care research except in relation to clinical trials of medicinal products for human use or clinical investigations undertaken to assess the safety or performance of medical devices;]
+
+(f) other matters relating to the relevant person’s well-being;
+
+"property and affairs", in relation to a relevant person, means one or more of the following matters:
+
+(a) the custody, control and management of some or all of the relevant person’s property or property rights;
+
+(b) the sale, exchange, mortgaging, charging, gift or other disposition of the relevant person’s property;
+
+(c) the acquisition of property by the relevant person, or on his or her behalf;
+
+(d) the carrying on, on behalf of the relevant person, of any profession, trade or business which may lawfully be carried on by a person other than the relevant person;
+
+(e) the making of a decision which will have the effect of dissolving a partnership in which the relevant person is a partner;
+
+(f) the carrying out of any contract entered into by the relevant person;
+
+(g) the discharge of the relevant person’s debts, tax and duty liabilities and obligations or other obligations;
+
+(h) the execution or exercise of any of the powers or discretions vested in the relevant person as a tenant for life;
+
+(i) providing, to the extent that the relevant person might have been expected to do so, for the needs of a decision-making assistant, a co-decision-maker, an attorney, a designated healthcare representative or a decision-making representative for the relevant person or F1[for the needs of other persons];
+
+(j) the conduct of proceedings before any court or tribunal, whether in the name of the relevant person or on his or her behalf;
+
+(k) making an application for housing, social welfare or other benefits or otherwise protecting or advancing the interests of the relevant person in relation to those matters;
+
+"registered medical practitioner" has the meaning assigned to it by section 2 of the Medical Practitioners Act 2007;
+
+"registered provider" has the meaning assigned to it by section 2 of the Health Act 2007;
+
+"relevant decision"—
+
+(a) in relation to a decision made, or to be made, by a decision-making assistant appointer with the assistance of a decision-making assistant for that appointer, means a decision on a matter the subject of the decision-making assistance agreement which appointed that decision-making assistant and which falls within the scope of that agreement,
+
+(b) in relation to a decision made, or to be made, jointly by a co-decision-maker appointer and a co-decision-maker for that appointer, means a decision on a matter the subject of the co-decision-making agreement which appointed that co-decision-maker and which falls within the scope of that agreement,
+
+(c) in relation to a decision made, or to be made, by a court on behalf of a relevant person, means a decision on a matter the subject of the decision-making order and which falls within the scope of that order,
+
+(d) in relation to a decision made, or to be made, by a decision-making representative on behalf of a relevant person, means a decision on a matter the subject of the decision-making representation order which appointed that decision-making representative and which falls within the scope of that order,
+
+(e) in relation to a decision made, or to be made, by an attorney on behalf of a relevant person, means a decision on a matter the subject of the enduring power of attorney which appointed that attorney and which falls within the scope of that power, and
+
+(f) in relation to a decision made, or to be made, under an advance healthcare directive (and whether or not there is a designated healthcare representative under the directive), means a decision which falls within the scope of that directive;
+
+"relevant information", in relation to a relevant person, means personal records relating to the relevant person or other information that the relevant person is entitled to and that is or are required in relation to a relevant decision;
+
+"relevant person" means—
+
+(a) a person whose capacity is in question or may shortly be in question in respect of one or more than one matter,
+
+(b) a person who lacks capacity in respect of one or more than one matter, or
+
+(c) a person who falls within *paragraphs (a)* and *(b)* at the same time but in respect of different matters,
+
+as the case requires;
+
+"relevant powers" has the meaning assigned to it by *section 82*;
+
+F3["safety or barring order" means a safety order or barring order made under the Domestic Violence Act 1996 or under the Domestic Violence Act 2018;]
+
+"special visitor" means a person appointed to be a special visitor by the Director pursuant to *section 99(1)*;
+
+"suitable"—
+
+(a) in relation to the appointment of a co-decision-maker for a relevant person, shall be construed in accordance with *section 17(2)*, and
+
+(b) in relation to the appointment of a decision-making representative for a relevant person, shall be construed in accordance with *section 38(5)*;
+
+F2["treatment", in relation to a person, means an intervention that is or may be done for a therapeutic, preventative, diagnostic, palliative or other purpose related to the physical or mental health of the person, and includes life sustaining treatment;]
+
+"wardship court" has the meaning assigned to it by *section 53*.
+
+(2) For the purposes of this Act, persons (howsoever described in this Act) shall not be considered to have ceased cohabiting by reason only of—
+
+(a) one or both residing in or entering a designated centre or mental health facility, or
+
+(b) one or both residing in or entering an institution (of whatever kind) for purposes relating to—
+
+(i) a physical or mental condition of the person concerned, or
+
+(ii) the imprisonment, or the taking into lawful custody, of the person concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 4(c), (e), S.I. No. 194 of 2023.
+>
+> F2: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 4(d), (f), S.I. No. 194 of 2023.
+>
+> F3: Substituted (1.01.2019) by *Domestic Violence Act 2018* (6/2018), s. 54, S.I. No. 532 of 2018.
+>
+> F4, F5: Substituted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 4(a), (b)(i), not commenced as of date of revision.
+>
+> F6: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 4(b)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: definitions of "intervener" and "intervention" amended by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 4(a), (b), not commenced as of date of revision.
+>
+> "intervener", in relation to an intervention in respect of a relevant person, means the person referred to in *paragraph (a)*, *(b)*, *(c)*, F4[*(d)*, *(da)*, *(db)*] or *(e)* of the definition of "intervention" making the intervention;
+>
+> "intervention", in relation to a relevant person, means an action taken under this Act, orders made under this Act or directions given under this Act in respect of the relevant person by— ...
+>
+> (d) a special visitor or F5[general visitor,]
+>
+> F6[(da) a court friend, or
+>
+> (db) a person to whom *section 36(8)(b)* applies,]
+>
+> ...
+>
+> C3: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (a) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015)
+>
+> ...
+
+### 3. Person’s capacity to be construed functionally
+
+**3.** (1) Subject to *subsections (2)* to *(6)*, for the purposes of this Act, a person’s capacity shall be assessed on the basis of his or her ability to understand, at the time that a decision is to be made, the nature and consequences of the decision to be made by him or her in the context of the available choices at that time.
+
+(2) A person lacks the capacity to make a decision if he or she is unable—
+
+(a) to understand the information relevant to the decision,
+
+(b) to retain that information long enough to make a voluntary choice,
+
+(c) to use or weigh that information as part of the process of making the decision, or
+
+(d) to communicate his or her decision (whether by talking, writing, using sign language, assistive technology, or any other means) or, if the implementation of the decision requires the act of a third party, to communicate by any means with that third party.
+
+(3) A person is not to be regarded as unable to understand the information relevant to a decision if he or she is able to understand an explanation of it given to him or her in a way that is appropriate to his or her circumstances (whether using clear language, visual aids or any other means).
+
+(4) The fact that a person is able to retain the information relevant to a decision for a short period only does not prevent him or her from being regarded as having the capacity to make the decision.
+
+(5) The fact that a person lacks capacity in respect of a decision on a particular matter at a particular time does not prevent him or her from being regarded as having capacity to make decisions on the same matter at another time.
+
+(6) The fact that a person lacks capacity in respect of a decision on a particular matter does not prevent him or her from being regarded as having capacity to make decisions on other matters.
+
+(7) For the purposes of this section, information relevant to a decision shall be construed as including information about the reasonably foreseeable consequences of—
+
+(a) each of the available choices at the time the decision is made, or
+
+(b) failing to make the decision.
+
+### 4. Circuit Court to have exclusive jurisdiction under this Act except for certain matters reserved for High Court, etc.
+
+**4.** (1) Subject to *subsection (3)*, F7[*sections 37*] and *89(2)*, *Parts 6*, *10* and *11*, the Circuit Court shall have exclusive jurisdiction under this Act and the performance of the functions of that court conferred by this section shall be within the jurisdiction of the circuit of the Circuit Court and such jurisdiction shall be exercised by the circuit of the Circuit Court F7[in which the following persons are residing or carrying on business at the time the application or appeal concerned is made, or have resided at any time during the period of 3 years immediately prior to the making of the application or the lodging of the appeal concerned:]
+
+F7[(a) the relevant person (including a ward) the subject of an application under this Act;
+
+(b) in the case of proceedings under *section 15*, the decision-making assistant appointer, whose decision-making assistant or decision-making assistance agreement is the subject of an application or appeal under that section;
+
+(c) in the case of proceedings under *Part 4*, the co-decision-maker appointer, whose co-decision-maker or co-decision-making agreement is the subject of an application or appeal under that Part;
+
+(d) in the case of proceedings under *section 46* or *47*, the relevant person, whose decision-making representative is the subject of an application or appeal under the section concerned;
+
+(e) in the case of proceedings under *Part 7*—
+
+(i) the donor, whose attorney, enduring power of attorney or instrument creating an enduring power of attorney, or
+
+(ii) the donor under the Act of 1996, whose attorney under the Act of 1996, enduring power under the Act of 1996 or instrument creating an enduring power under the Act of 1996,
+
+is the subject of an application or appeal under that Part;
+
+(f) in the case of proceedings under *section 88* or *89*, the directive-maker, whose designated healthcare representative is the subject of an application under the section concerned;
+
+(g) in the case of proceedings under *section 125* or *127*, the adult the subject of the measure that is the subject of an application under the section concerned.]
+
+(2) An application to the Circuit Court under this Act may be made—
+
+(a) in such office of, or attached to, the Circuit Court within the circuit concerned,
+
+(b) in such combined court office (within the meaning of section 14 of the Courts and Court Officers Act 2009) within the circuit concerned, or
+
+(c) in such office of the Courts Service, within the circuit concerned, designated by the Courts Service for the purpose of this Act,
+
+as may be prescribed by rules of court.
+
+(3) Notwithstanding any other provision of this Act—
+
+F8[(a) any decision regarding the donation of an organ from a living donor shall, where the donor is a person who lacks capacity, be determined in accordance with the Human Tissue (Transplantation, Post-Mortem, Anatomical Examination and Public Display) Act 2024, and]
+
+(b) where an application in connection with the withdrawal of life-sustaining treatment from a person who lacks capacity comes before the courts for adjudication, that application shall be heard by the High Court.
+
+(4) Nothing in this Act shall be construed as authorising any person to give consent for a non-therapeutic sterilisation procedure to be carried out on a person who lacks capacity.
+
+F9[(5) Nothing in this Act shall affect the inherent jurisdiction of the High Court to make orders for the care, treatment or detention of persons who lack capacity.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F7: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 5(a)(i)-(iii), S.I. No. 194 of 2023.
+>
+> F8: Substituted (17.06.2025) by *Human Tissue (Transplantation, Post-Mortem, Anatomical Examination and Public Display) Act 2024* (5/2024), s. 105, S.I. No. 250 of 2025.
+>
+> F9: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 5(b), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to subs. (2) exercised (27.04.2023) by *Circuit Court Rules (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 201 of 2023).
+
+### 4A. Regulations
+
+F10[**4A.** (1) The Minister may make regulations for the purposes of this Act (other than *Part 8*) including regulations prescribing any matter or thing which is referred to in this Act (other than *Part 8*) as prescribed or to be prescribed or to be the subject of regulations made by him or her or for the purpose of enabling any provision of this Act (other than *Part 8*) to have full effect.
+
+(2) Regulations under this Act (other than *Part 8*) may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 6, S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Inspection of Registers and Receipt of Copies of Documents) Regulations 2023* (S.I. No. 206 of 2023).
+>
+> E10: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Section 10(4)) Regulations 2023* (S.I. No. 205 of 2023).
+>
+> E11: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Prescribed Classes of Healthcare Professionals) Regulations 2023* (S.I. No. 204 of 2023).
+>
+> E12: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Payment of Certain Expenses and Remuneration to Decision-Making Representatives) Regulations 2023* (S.I. No. 203 of 2023).
+>
+> E13: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Fees) Regulations 2023* (S.I. No. 202 of 2023).
+
+### 5. Laying of regulations
+
+**5.** Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 6. Expenses
+
+**6.** The expenses incurred by the Minister or the Minister for Health in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+### 7. Repeals
+
+**7.** (1) The Marriage of Lunatics Act 1811 is repealed.
+
+(2) Subject to the provisions of *Part 6*, the Lunacy Regulation (Ireland) Act 1871 is repealed.
+
+## PART 2Principles that Apply before and during Intervention in respect of Relevant Persons — PART 2 — Principles that Apply before and during Intervention in respect of Relevant Persons
+
+### 8. Guiding principles
+
+**8.** (1) The principles set out in *subsections (2)* to *(10)* shall apply for the purposes of an intervention in respect of a relevant person, and the intervener shall give effect to those principles accordingly.
+
+(2) It shall be presumed that a relevant person who falls within *paragraph (a)* of the definition of “relevant person” in *section 2(1)* has capacity in respect of the matter concerned unless the contrary is shown in accordance with the provisions of this Act.
+
+(3) A relevant person who falls within *paragraph (a)* of the definition of “relevant person” in *section 2(1)* shall not be considered as unable to make a decision in respect of the matter concerned unless all practicable steps have been taken, without success, to help him or her to do so.
+
+(4) A relevant person who falls within *paragraph (a)* of the definition of “relevant person” in *section 2(1)* shall not be considered as unable to make a decision in respect of the matter concerned merely by reason of making, having made, or being likely to make, an unwise decision.
+
+(5) There shall be no intervention in respect of a relevant person unless it is necessary to do so having regard to the individual circumstances of the relevant person.
+
+(6) An intervention in respect of a relevant person shall—
+
+(a) be made in a manner that minimises—
+
+(i) the restriction of the relevant person’s rights, and
+
+(ii) the restriction of the relevant person’s freedom of action,
+
+(b) have due regard to the need to respect the right of the relevant person to dignity, bodily integrity, privacy, autonomy and control over his or her financial affairs and property,
+
+(c) be proportionate to the significance and urgency of the matter the subject of the intervention, and
+
+(d) be as limited in duration in so far as is practicable after taking into account the particular circumstances of the matter the subject of the intervention.
+
+(7) The intervener, in making an intervention in respect of a relevant person, shall—
+
+(a) permit, encourage and facilitate, in so far as is practicable, the relevant person to participate, or to improve his or her ability to participate, as fully as possible, in the intervention,
+
+(b) give effect, in so far as is practicable, to the past and present will and preferences of the relevant person, in so far as that will and those preferences are reasonably ascertainable,
+
+(c) take into account—
+
+(i) the beliefs and values of the relevant person (in particular those expressed in writing), in so far as those beliefs and values are reasonably ascertainable, and
+
+(ii) any other factors which the relevant person would be likely to consider if he or she were able to do so, in so far as those other factors are reasonably ascertainable,
+
+(d) unless the intervener reasonably considers that it is not appropriate or practicable to do so, consider the views of—
+
+(i) any person named by the relevant person as a person to be consulted on the matter concerned or any similar F11[matter,]
+
+F11[(ii) any decision-making assistant, co-decision-maker, decision-making representative, attorney or attorney under the Act of 1996 for the relevant person,]
+
+F12[(iii) ...]
+
+F13[(iv) a designated healthcare representative within the meaning of *Part 8* for the relevant person, where the intervention relates to treatment and an advance healthcare directive within the meaning of *Part 8* is applicable,]
+
+(e) act at all times in good faith and for the benefit of the relevant person, and
+
+(f) consider all other circumstances of which he or she is aware and which it would be reasonable to regard as relevant.
+
+(8) The intervener, in making an intervention in respect of a relevant person, may consider the views of—
+
+(a) any person engaged in caring for the relevant person,
+
+(b) any person who has a bona fide interest in the welfare of the relevant person, or
+
+(c) healthcare professionals.
+
+(9) In the case of an intervention in respect of a person who lacks capacity, regard shall be had to—
+
+(a) the likelihood of the recovery of the relevant person’s capacity in respect of the matter concerned, and
+
+(b) the urgency of making the intervention prior to such recovery.
+
+(10) The intervener, in making an intervention in respect of a relevant person—
+
+(a) shall not attempt to obtain relevant information that is not reasonably required for making a relevant decision,
+
+(b) shall not use relevant information for a purpose other than in relation to a relevant decision, and
+
+(c) shall take reasonable steps to ensure that relevant information—
+
+(i) is kept secure from unauthorised access, use or disclosure, and
+
+(ii) is safely disposed of when he or she believes it is no longer required.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 7(a), (b), S.I. No. 194 of 2023.
+>
+> F12: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 7(c), not commenced as of date of revision.
+>
+> F13: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 7(c), S.I. No. 194 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: subs. (7)(d)(iii) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 7(c), not commenced as of date of revision.
+>
+> F12[(iii) any court friend or person to whom *section 36(8)(b)* applies, where the intervention relates to proceedings under *Part 5*, and]
+
+## PART 3Assisted Decision-Making — PART 3 — Assisted Decision-Making
+
+### 9. Definitions — Part 3
+
+**9.** In this Part—
+
+“appointer” means a decision-making assistant appointer;
+
+“decision-making assistant”, in relation to an appointer, means the person who the appointer has, under *section 10(1)*, appointed to assist the appointer in making decisions on the appointer’s personal welfare or property and affairs, or both, in compliance with regulations made under F14[*section 10(4)* and specifications made under *section 10(4A)*];
+
+“decision-making assistance agreement” means a decision-making assistance agreement referred to in *section 10(2)* as such agreement is in force from time to time;
+
+“decision-making assistant appointer” means a person who has, under *section 10(1)*, appointed another person to assist the first-mentioned person in making decisions on the first-mentioned person’s personal welfare or property and affairs, or both, in compliance with regulations made under F14[*section 10(4)* and specifications made under *section 10(4A)*].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 8(a), (b), S.I. No. 194 of 2023.
+
+### 10. Decision-making assistance agreement
+
+**10.** (1) Subject to *section 11*, a person who has attained the age of 18 years and who considers that his or her capacity is in question or may shortly be in question may appoint another person who has also attained that age to assist the first-mentioned person in making one or more than one decision on the first-mentioned person’s personal welfare or property and affairs, or both, in compliance with regulations made under F15[*subsection (4)* and specifications made under *subsection (4A)*].
+
+(2) An appointment as a decision-making assistant shall be made in a decision-making assistance agreement which is in compliance with regulations made under F15[*subsection (4)* and specifications made under *subsection (4A)*].
+
+(3) A decision-making assistance agreement may be revoked by the appointer or by the decision-making assistant at any time and, subject to agreement between the appointer and the decision-making assistant, may be varied at any time.
+
+F15[(4) The Minister shall make regulations as respects decision-making assistance agreements, including—
+
+(a) prescribing procedures and requirements relating to the execution,variation and revocation of a decision-making assistance agreement,
+
+(b) specifying the personal welfare or property and affairs, or both,which may be specified in a decision-making assistance agreement,
+
+(c) providing for the giving by the appointer of notice of the execution, variation or revocation of a decision-making assistance agreement—
+
+(i) to the Director, and
+
+(ii) to other specified persons, and whether or not by reference to persons who, under this Act, are required to be notified of an application made under this Act.]
+
+F16[(4A) The Director may, with the consent of the Minister, specify in writing the following:
+
+(a) the form of a decision-making assistance agreement;
+
+(b) the information to be included in or annexed to a decision-making assistance agreement for the purpose of ensuring that any document purporting to create a decision-making assistance agreement incorporates adequate information as to the effect of making or accepting the appointment;
+
+(c) that the following statements shall be included in a decision-making assistance agreement:
+
+(i) by the appointer, that he or she has read and understands the information as to the effect of making the appointment or that such information has been explained to the appointer, by a person other than the proposed decision-making assistant;
+
+(ii) by the decision-making assistant, that he or she understands and undertakes to act in accordance with the functions of a decision-making assistant, including the duty to act in accordance with the guiding principles;
+
+(d) the form of attestation of the signatures of the appointer and decision-making assistant by a person other than the appointer or the proposed decision-making assistant;
+
+(e) the forms to be used in connection with the execution, variation and revocation of a decision-making assistance agreement; and
+
+(f) the form of notice to be given by the appointer of the execution, variation or revocation of a decision-making assistance agreement.]
+
+(5) An appointer may, in the decision-making assistance agreement, appoint more than one person as a decision-making assistant and may specify that the decision-making assistants shall act—
+
+(a) jointly,
+
+(b) jointly and severally, or
+
+(c) jointly in respect of some matters and jointly and severally in respect of other matters.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 9(a), (b), (c), S.I. No. 194 of 2023.
+>
+> F16: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 9(d), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to subs. (4) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Section 10(4)) Regulations 2023* (S.I. No. 205 of 2023).
+
+### 11. Persons who are not eligible to be decision-making assistants
+
+**11.** (1) A person shall not be eligible for appointment as a decision-making assistant if he or she—
+
+(a) has been convicted of an offence in relation to the person or property of the person who intends to appoint him or F17[her, or the person or property of a child of that person],
+
+(b) has been the subject of a safety or barring order in relation to the person who intends to appoint him or F17[her, or a child of that person],
+
+(c) is an undischarged bankrupt or is currently in a debt settlement arrangement or personal insolvency arrangement or has been convicted of an offence involving fraud or dishonesty,
+
+(d) is a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) is a person who is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Act of 2014, by virtue of that Chapter or any other provisions of that Act,
+
+(f) is a person who is—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the person who intends to appoint him or her as decision-making assistant resides, or
+
+(ii) residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the person who intends to appoint him or her as decision-making assistant,
+
+(g) has been convicted of an offence under F17[*section 15A, 34*,] *80*, *90* or *145*, or
+
+(h) previously acted as decision-making assistant for the person who intends to appoint a decision-making assistant and there was a finding by the court under this Part that he or she should not continue as decision-making assistant for that person.
+
+(2) *Subsection (1)(c)*, *(d)* and *(e)* shall not apply where it is proposed to give the person functions relating to personal welfare only.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 10(a), (b), (c), S.I. No. 194 of 2023.
+
+### 12. Nullity
+
+**12.** Where an event specified in any of *paragraphs (a)* to *(c)* occurs, a decision-making assistance agreement shall, with effect from the date on which the event occurs, be null and void to the extent that the decision-making assistance agreement relates to a relevant decision where there is, in respect of the relevant decision—
+
+(a) a decision-making order, a decision-making representation order or a co-decision-making agreement in relation to the appointer,
+
+(b) an advance healthcare directive made by the appointer and the appointer lacks capacity, or
+
+(c) an enduring power of attorney or enduring power under the Act of 1996 made by the appointer that has entered into force.
+
+### 13. Disqualification as decision-making assistant
+
+**13.** (1) A decision-making assistant shall, with effect from the date on which an event specified in *paragraphs (a)* to *(c)* occurs or, in the case of an event specified in paragraph (d), at the expiry of the period referred to in that paragraph, and unless the decision-making assistance agreement provides otherwise, be disqualified from being a decision-making assistant for the appointer where the decision-making assistant is the spouse of the appointer and subsequently—
+
+(a) the marriage is annulled or dissolved either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by reason of that annulment or dissolution, not or no longer a subsisting valid marriage under the law of the State,
+
+(b) either a decree of judicial separation is granted to either spouse by a court in the State or any decree is so granted by a court outside the State and is recognised in the State as having like effect,
+
+(c) a written agreement to separate is entered into between the spouses, or
+
+(d) subject to *section 2(2)*, the spouses separate and cease to cohabit for a continuous period of 12 months.
+
+(2) A decision-making assistant shall, with effect from the date on which an event specified in *paragraph (a)* or *(b)* occurs or, in the case of an event specified in *paragraph (c)*, at the expiry of the period referred to in that paragraph, and unless the decision-making assistance agreement provides otherwise, be disqualified from being a decision-making assistant for the appointer where the decision-making assistant is the civil partner of the appointer and subsequently—
+
+(a) the civil partnership is annulled or dissolved (other than where the dissolution occurs by virtue of the parties to that civil partnership marrying each other) either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by means of that annulment or dissolution not or no longer a subsisting valid civil partnership under the law of the State,
+
+(b) a written agreement to separate is entered into between the civil partners, or
+
+(c) subject to *section 2(2)*, the civil partners separate and cease to cohabit for a continuous period of 12 months.
+
+(3) Subject to *section 2(2)*, a decision-making assistant shall, at the expiry of the period referred to in this subsection, and unless the decision-making assistance agreement provides otherwise, be disqualified from being a decision-making assistant for the appointer where the decision-making assistant is the cohabitant of the appointer and subsequently the cohabitants separate and cease to cohabit for a continuous period of 12 months.
+
+(4) Subject to *subsection (5)*, where, subsequent to the appointment of a decision-making assistant—
+
+(a) the decision-making assistant is convicted of an offence in relation to the person or property of the appointer or the person or property of a child of the appointer,
+
+(b) a safety or barring order is made against the decision-making assistant in relation to the appointer or a child of the appointer,
+
+(c) the decision-making assistant becomes an undischarged bankrupt or subject to a debt settlement arrangement or personal insolvency arrangement which is current or is convicted of an offence involving fraud or dishonesty,
+
+(d) the decision-making assistant becomes a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) the decision-making assistant becomes a person who is subject or is deemed to be subject to a disqualification order within the meaning of Chapter 4 of Part 14 of the Act of 2014 by virtue of that Chapter or any other provisions of that Act,
+
+(f) the decision-making assistant becomes—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the appointer resides, or
+
+(ii) a person residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the decision-making assistant is a spouse, civil partner, cohabitant, parent, child or sibling of the appointer,
+
+(g) the decision-making assistant is convicted of an offence under F18[*section 15A, 34*,] *80*, *90* or *145*, or
+
+(h) the decision-making assistant—
+
+(i) enters into a decision-making assistance agreement as a relevant person,
+
+(ii) enters into a co-decision-making agreement as a relevant person,
+
+F18[(iii) has an enduring power of attorney that is the subject of a notification that has been accepted by the Director under *section 71C*, or an enduring power under the Act of 1996 that has been registered, in respect of himself or herself, or]
+
+(iv) becomes the subject of a declaration under *section 37(1)*,
+
+the decision-making assistant shall be disqualified from being a decision-making assistant for the appointer with effect from the date on which the decision-making assistant falls within any of *paragraphs (a)* to *(h)*.
+
+(5) *Subsection (4)(c)*, *(d)* and *(e)* shall not apply insofar as the decision-making assistant’s functions under the decision-making assistance agreement relate to personal welfare.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 11, S.I. No. 194 of 2023.
+
+### 14. Performance of functions of decision-making assistant
+
+**14.** (1) In exercising his or her functions as specified in the decision-making assistance agreement, the decision-making assistant shall—
+
+(a) assist the appointer to obtain the appointer’s relevant information,
+
+(b) F19[assist] the appointer by explaining relevant information and considerations relating to a relevant decision,
+
+(c) ascertain the will and preferences of the appointer on a matter the subject or to be the subject of a relevant decision and assist the appointer to communicate them,
+
+(d) assist the appointer to make and express a relevant decision, and
+
+(e) endeavour to ensure that the appointer’s relevant decisions are implemented.
+
+(2) A decision-making assistant shall not make a decision on behalf of the appointer.
+
+(3) A relevant decision taken by the appointer with the assistance of the decision-making assistant is deemed to be taken by the appointer for all purposes.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 12, S.I. No. 194 of 2023.
+
+### 15. Complaints in relation to decision-making assistants
+
+**15.** (1) A person may make a complaint in writing to the Director concerning F20[one or more of] of the following matters:
+
+(a) that a decision-making assistant has acted, is acting, or is proposing to act outside F20[the scope of, or in breach of,] his or her functions as specified in the decision-making assistance F20[agreement, or in breach of this Act];
+
+(b) that a decision-making assistant is unable to perform his or her functions under the decision-making assistance agreement;
+
+(c) that fraud, coercion or undue pressure was used to induce the appointer F20[to enter into, or to vary or revoke, the decision-making assistance agreement].
+
+F21[(1A) Following the receipt of a complaint under *subsection (1)* the Director shall carry out such review or investigation of the matter the subject of the complaint as he or she considers appropriate and shall, subject to *subsection (1B)*, form a view as to whether or not the complaint is well founded not later than 3 months after the date of his or her receipt of the complaint (in this section referred to as the "initial investigation period").
+
+(1B) The Director may, before the date of expiry of the initial investigation period, extend the duration of his or her investigation by a period of up to 6 months from that date by sending written notice to the complainant, the person who is the subject of the complaint and the relevant person concerned giving reasons for the extension.]
+
+(2) F20[The Director shall, as soon as is practicable after having formed a view under *subsection (1A)*]—
+
+(a) where he or she is of the view that the complaint is well founded, make an application to the court for a determination in relation to a matter specified in the F20[complaint,]
+
+F21[(aa) notwithstanding *paragraph (a)*, where he or she is of the view that the complaint is well founded and that—
+
+(i) the provision of clarification by him or her to the decision-making assistant regarding the role of the decision-making assistant would be an appropriate resolution, or
+
+(ii) the subject matter of the complaint could be appropriately resolved under *section 96(4)*,
+
+the Director may, not later than 3 months after having formed a view under *subsection (1A)*, provide the clarification referred to in *subparagraph (i)*, or proceed to resolve the complaint as soon as possible under *section 96(4)*, as the case may be, and]
+
+(b) where he or she is of the view that the complaint is not well founded, notify the person who made the complaint of that view and provide reasons for same.
+
+(3) A person who receives a notification under *subsection (2)(b)* may, not later than F20[3 months] after the date of issue of the notification, appeal a decision of the Director that the complaint is not well founded to the court.
+
+(4) The Director may, notwithstanding that no complaint has been received, on his or her own initiative carry out an F20[investigation, to which this section shall, with any necessary modifications, apply].
+
+F21[(4A) Where *subsection (2)(aa)* applies and the Director has provided the clarification referred to in *subparagraph (i)* of that subsection or has resolved the complaint under *section 96(4)* as referred to in *subparagraph (ii)* of that subsection, the Director may—
+
+(a) request further information regarding the outcome of the clarification or resolution, as the case may be, or
+
+(b) request confirmation that the complaint has been resolved,
+
+from the complainant, the person who is the subject of the complaint or the relevant person, as the Director considers appropriate.
+
+(4B) If the Director is not satisfied, following the receipt of the information or confirmation referred to in *subsection (4A)*, that the clarification or resolution referred to in that subsection has satisfactorily resolved the complaint, the Director may make an application to the court in accordance with *subsection (2)(a)* or may take such other steps as he or she considers appropriate in order to resolve the complaint.]
+
+(5) The court may—
+
+(a) pursuant to an application to it under *subsection (2)(a)* F22[...] or
+
+(b) pursuant to an appeal under F20[*subsection (3)* or *(7)(b)*],
+
+make a determination in relation to a matter specified in *subsection (1)* and may, if it considers it appropriate, determine that a decision-making assistant shall no longer act as such in relation to the appointer concerned.
+
+F21[(6) The Director shall, in accordance with this section, investigate a complaint under *subsection (1)* unless in his or her opinion there has been undue delay in making the complaint.
+
+(7) A decision by the Director under *subsection (6)* not to investigate a complaint—
+
+(a) shall be in writing, shall contain the reasons for the decision and shall be sent to the complainant as soon as possible after it is made, and
+
+(b) may be appealed by the complainant to the court not later than 3 months after the date of receipt by the complainant of the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 13(a), (c)(i), (ii), (d), (e), (g)(ii), S.I. No. 194 of 2023.
+>
+> F21: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 13(b), (c)(iii), (f), (h), S.I. No. 194 of 2023.
+>
+> F22: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 13(g)(i), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E15: Records relating to an investigation under section that has been or is being carried out by the Director of the Decision Support Service, or a person delegated under s. 98(2), are excluded from application of *Freedom of Information Act 2014* by *Freedom of Information Act 2014* (30/2014), s. 42(eb), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 104, S.I. No. 194 of 2022.
+
+### 15A. Offence in relation to decision-making assistance agreement
+
+F23[**15A.** (1) A person who uses fraud, coercion or undue influence to force another person to make, vary or revoke a decision-making assistance agreement commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+(2) The reference in *subsection (1)* to coercion or undue influence includes any case where a person’s access to, or continued stay in, a designated centre or mental health facility is contingent (whether in whole or in part) on the person having to, or being led to believe that he or she has to, make, vary or revoke a decision-making assistance agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 14, S.I. No. 194 of 2023. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2011.
+
+## PART 4 Co-Decision-Making — PART 4 — Co-Decision-Making
+
+### 16. Definitions — Part 4
+
+**16.** In this Part—
+
+“appointer” means a co-decision-maker appointer;
+
+“authenticated”, in relation to a co-decision-making agreement which is registered, means bearing the signature of the Director, the date on which his or her signature was applied and the date of registration of the co-decision-making agreement;
+
+“co-decision-maker”, in relation to an appointer, means the suitable person who the appointer appoints under *section 17*, to jointly make with the appointer decisions on the appointer’s personal welfare or property and affairs, or both, in compliance with F24[this Part, regulations made under *section 31* and specifications made under *section 31A*];
+
+“co-decision-maker appointer” means a person who appoints a co-decision-maker under *section 17*;
+
+“co-decision-making agreement” means a co-decision-making agreement referred to in *section 17(3)*;
+
+“suitable” shall be construed in accordance with *section 17(2)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 15, S.I. No. 194 of 2023.
+
+### 17. Co-decision-making agreement
+
+**17.** (1) Subject to the provisions of this section and *section 18*, a person who has attained the age of 18 years and who considers that his or her capacity is in question or may shortly be in question may appoint a suitable person who has also attained that age to jointly make with the first-mentioned person one or more than one decision on the first-mentioned person’s personal welfare or property and affairs, or both, in compliance with F25[this Part, regulations made under *section 31* and specifications made under *section 31A*].
+
+F26[(1A) A person in relation to whom a decision-making representation order was made in circumstances where *section 38(1)(a)* or *section 55(4)* applied may appoint a co-decision-maker in accordance with this section, and this Part and the regulations and specifications made thereunder shall apply to that appointment with any necessary modifications.]
+
+(2) A person is suitable for appointment as a co-decision-maker if he or she—
+
+(a) is a relative or friend of the appointer who has had such personal contact with the appointer over such period of time that a relationship of trust exists between them, and
+
+(b) is able to perform his or her functions under the co-decision-making agreement.
+
+(3) An appointment as a co-decision-maker shall be made in writing in a co-decision-making agreement that is in compliance with F25[this section, regulations made under *section 31* and specifications made under *section 31A*].
+
+(4) Notwithstanding the definition of “property and affairs” in *section 2* an appointer shall not include in a co-decision-making agreement provision for the disposal of his or her property by way of gift.
+
+(5) A co-decision-making agreement shall contain the following:
+
+(a) the name, date of birth and contact details of the appointer;
+
+(b) subject to *subsection (6)*, the signature of the appointer and the date that he or she signed the agreement;
+
+(c) the name, date of birth and contact details of the co-decision-maker;
+
+(d) the signature of the co-decision-maker and the date that he or she signed the agreement;
+
+(e) the signatures of the 2 witnesses referred to in *subsection (7)(a)*.
+
+(6) A co-decision-making agreement may be signed on behalf of the appointer by a person who has attained the age of 18 years and who is not the co-decision-maker or one of the witnesses referred to in *subsection (7)(a)* if—
+
+(a) the appointer is unable to sign the agreement,
+
+(b) the appointer is present and directs that the agreement be signed on his or her behalf by that person, and
+
+(c) the signature of the person is witnessed in accordance with *subsection (7)(b)*.
+
+(7) (a) The appointer, or the person signing on his or her behalf in accordance with *subsection (6)*, and the co-decision-maker shall sign the co-decision-making agreement in the presence of each other and in the presence of 2 witnesses—
+
+(i) each of whom has attained the age of 18 years,
+
+(ii) of whom at least one is not an immediate family member of the appointer or the co-decision-maker, and
+
+(iii) neither of whom is an employee or agent of the co-decision-maker.
+
+(b) Each of the witnesses referred to in *paragraph (a)* shall witness the signature of the appointer, or the person signing on his or her behalf, and the signature of the co-decision-maker by applying his or her own signature to the co-decision-making agreement.
+
+(8) An appointer may appoint more than one person as a co-decision-maker but may not—
+
+(a) appoint in the same co-decision-making agreement more than one person as a co-decision-maker, or
+
+(b) appoint in a co-decision-making agreement a co-decision-maker in respect of a relevant decision which is the subject of another co-decision-making agreement.
+
+(9) The Director shall, on a request being made of him or her by a person who intends to appoint a co-decision-maker or a person who is proposed as a co-decision-maker, or both, provide information to the person requesting with regard to making and entering into the co-decision-making agreement.
+
+(10) In this section, “immediate family member” means—
+
+(a) a spouse, civil partner, or cohabitant,
+
+(b) a child, son-in-law or daughter-in-law,
+
+(c) a parent, step-parent, mother-in-law or father-in-law,
+
+(d) a brother, sister, step-brother, step-sister, brother-in-law or sister-in-law,
+
+(e) a grandparent or grandchild,
+
+(f) an aunt or uncle, or
+
+(g) a nephew or niece.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 16(a), (c), S.I. No. 194 of 2023.
+>
+> F26: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 16(b), S.I. No. 194 of 2023.
+
+### 18. Persons who are not eligible to be co-decision-makers
+
+**18.** (1) Subject to *subsection (2)*, a person shall not be eligible for appointment as a co-decision-maker if he or she—
+
+(a) has been convicted of an offence in relation to the person or property of the person who intends to appoint a co-decision-maker, or the person or property of a child of that person,
+
+(b) has been the subject of a safety or barring order in relation to the person who intends to appoint a co-decision-maker or a child of that person,
+
+(c) is an undischarged bankrupt or is currently in a debt settlement arrangement or personal insolvency arrangement or has been convicted of an offence involving fraud or dishonesty,
+
+(d) is a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) is a person who is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Act of 2014, by virtue of that Chapter or any other provisions of that Act,
+
+(f) is a person who is—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the person who intends to appoint him or her as co-decision- maker resides, or
+
+(ii) residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the person who intends to appoint him or her as co-decision-maker,
+
+(g) has been convicted of an offence under F27[*section 15A, 34,*] *80*, *90* or *145*, or
+
+(h) previously acted as co-decision-maker for the person who intends to appoint a co-decision-maker and there was a finding by the court that he or she should no longer act as co-decision-maker for that person.
+
+(2) Paragraphs (1)*(c)*, *(d)* and *(e)* shall not apply where the co-decision-making agreement relates only to relevant decisions concerning personal welfare.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 17, S.I. No. 194 of 2023.
+
+### 19. Performance of functions of co-decision-maker
+
+**19.** (1) In exercising his or her functions as specified in the co-decision-making agreement, a co-decision-maker shall—
+
+(a) advise the appointer by explaining relevant information and considerations relating to a relevant decision,
+
+(b) ascertain the will and preferences of the appointer on a matter the subject of, or to be the subject of, a relevant decision and assist the appointer with communicating the appointer’s will and preferences,
+
+(c) assist the appointer to obtain the appointer’s relevant information,
+
+(d) discuss with the appointer the known alternatives and likely outcomes of a relevant decision,
+
+(e) make a relevant decision jointly with the appointer, and
+
+(f) make reasonable efforts to ensure that a relevant decision is implemented as far as practicable.
+
+(2) A co-decision-maker shall be entitled to be reimbursed out of the assets of the appointer in respect of his or her fair and reasonable costs and expenses which are—
+
+(a) reasonably incurred in performing his or her functions as co-decision-maker,
+
+(b) vouched for in a manner acceptable to the Director, and
+
+(c) included in a report submitted by the co-decision-maker under *section 27*.
+
+(3) A co-decision-maker shall not be entitled to remuneration for performing his or her functions as co-decision-maker.
+
+(4) Where—
+
+(a) after an application has been made under *section 21* to register a co-decision- making agreement but before registration of the agreement, or
+
+(b) after registration of a co-decision-making agreement,
+
+the co-decision-maker or any person specified in *section 21(3)* has reason to believe that the appointer’s capacity has—
+
+(i) deteriorated to the extent that he or she lacks capacity in relation to the relevant decisions which are the subject of the co-decision-making agreement even with the assistance of a co-decision-maker, or
+
+(ii) improved to the extent that he or she has capacity in relation to the relevant decisions which are the subject of the co-decision-making agreement,
+
+he or she shall promptly inform the Director of that belief.
+
+(5) In this Part, a reference to a relevant decision being made jointly means that a co-decision-maker—
+
+(a) shall acquiesce with the wishes of the appointer in respect of the relevant decision, and
+
+(b) shall not refuse to sign a document referred to in *section 23(3)*,
+
+unless it is reasonably foreseeable that such acquiescence or signature, as the case may be, will result in serious harm to the appointer or to another person.
+
+(6) A co-decision-maker shall not have authority to make decisions jointly with a relevant person other than the relevant decisions specified in the co-decision-making agreement.
+
+(7) Where an appointer has more than one co-decision-maker, each of the co-decision-makers shall exercise his or her functions in a manner which is not inconsistent with the functions exercisable by another co-decision-maker.
+
+### 20. Nullity
+
+**20.** (1) Where an event specified in any of *paragraphs (a)* to *(c)* occurs, a co-decision-making agreement shall, with effect from the date on which the event occurs, be null and void to the extent that the co-decision-making agreement relates to a relevant decision where there is, in respect of the relevant decision—
+
+(a) a decision-making order or a decision-making representation order in relation to the appointer,
+
+(b) an advance healthcare directive made by the appointer and the appointer lacks capacity, or
+
+(c) an enduring power of attorney or enduring power under the Act of 1996 made by the appointer that has entered into force.
+
+(2) A co-decision-making agreement shall, with effect from the date on which an event specified in any of *paragraphs (a)* to *(c)* occurs or, in the case of an event specified in *paragraph (d)*, at the expiry of the period referred to in that paragraph, and unless it provides otherwise, be null and void where the co-decision-maker is the spouse of the appointer and subsequently—
+
+(a) the marriage is annulled or dissolved either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by reason of that annulment or dissolution, not or no longer a subsisting valid marriage under the law of the State,
+
+(b) either a decree of judicial separation is granted to either spouse by a court in the State or any decree is so granted by a court outside the State and is recognised in the State as having like effect,
+
+(c) a written agreement to separate is entered into between the spouses, or
+
+(d) subject to *section 2(2)*, the spouses separate and cease to cohabit for a continuous period of 12 months.
+
+(3) A co-decision-making agreement shall, with effect from the date on which an event specified in *paragraph (a)* or *(b)* occurs or, in the case of an event specified in *paragraph (c)*, at the expiry of the period referred to in that paragraph, and unless it provides otherwise, be null and void where the co-decision-maker is the civil partner of the appointer and subsequently—
+
+(a) the civil partnership is annulled or dissolved (other than where the dissolution occurs by virtue of the parties to that civil partnership marrying each other) either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by means of that annulment or dissolution not or no longer a subsisting valid civil partnership under the law of the State,
+
+(b) a written agreement to separate is entered into between the civil partners, or
+
+(c) subject to *section 2(2)*, the civil partners separate and cease to cohabit for a continuous period of 12 months.
+
+(4) Subject to *section 2(2)*, a co-decision-making agreement shall, at the expiry of the period referred to in this subsection, and unless it provides otherwise, be null and void where the co-decision-maker is the cohabitant of the appointer and subsequently the cohabitants separate and cease to cohabit for a continuous period of 12 months.
+
+(5) To the extent that a co-decision-making agreement includes a matter referred to in *section 17(4)*, it shall be null and void.
+
+(6) Subject to *subsection (7)*, where, subsequent to the registration of a co-decision-making agreement —
+
+(a) the co-decision-maker is convicted of an offence in relation to the person or property of the appointer or the person or property of a child of the appointer,
+
+(b) a safety or barring order is made against the co-decision-maker in relation to the appointer or a child of the appointer,
+
+(c) the co-decision-maker becomes an undischarged bankrupt or subject to a debt settlement arrangement or personal insolvency arrangement which is current or is convicted of an offence involving fraud or dishonesty,
+
+(d) the co-decision-maker becomes a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) the co-decision-maker becomes a person who is subject or is deemed to be subject to a disqualification order within the meaning of Chapter 4 of Part 14 of the Act of 2014 by virtue of that Chapter or any other provisions of that Act,
+
+(f) the co-decision-maker becomes—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the appointer resides, or
+
+(ii) a person residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the co-decision-maker is the spouse, civil partner, cohabitant, parent, child or sibling of the appointer,
+
+(g) the co-decision-maker is convicted of an offence under F28[*section 15A, 34,*] *80*, *90* or *145*,
+
+(h) the co-decision-maker—
+
+(i) enters into a decision-making assistance agreement as a relevant person,
+
+(ii) enters into a co-decision-making agreement as a relevant person,
+
+F28[(iii) has an enduring power of attorney that is the subject of a notification that has been accepted by the Director under *section 71C*, or an enduring power under the Act of 1996 that has been registered, in respect of himself or herself, or]
+
+(iv) becomes the subject of a declaration under *section 37(1)*,
+
+or
+
+(i) the court finds that the co-decision-maker should no longer act as co-decision-maker for the appointer,
+
+the co-decision-making agreement concerned shall be null and void with effect from the date on which the co-decision-maker falls within any of *paragraphs (a)* to *(i)*.
+
+(7) A co-decision-making agreement shall not be null and void pursuant to paragraphs (6)*(c)*, *(d)* and *(e)* to the extent that it relates to relevant decisions on personal welfare.
+
+(8) Where a co-decision-making agreement which stands registered becomes null and void in whole or to the extent that it relates to one or more relevant decisions, the co-decision-maker or, in the case of nullity pursuant to *subsection (6)(h)*(iii) or *(iv)*, his or her attorney, decision-making representative or the court, as the case may be, shall notify the Director of such nullity and the particulars relating thereto.
+
+(9) The nullity of a co-decision-making agreement or of a relevant decision contained therein shall not operate to prevent a person who relied on the agreement or the relevant decision from recovering damages in respect of any loss incurred by him or her as a result of that reliance.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 18(a), (b), S.I. No. 194 of 2023.
+
+### 21. Application for registration of co-decision-making agreement
+
+**21.** (1) A co-decision-making agreement shall not enter into force until it has been registered in accordance with *section 22*.
+
+(2) An application to register a co-decision-making agreement shall be made not later than 5 weeks from the date the agreement was signed, F29[in such form as shall be specified under *section 31A*] and accompanied by such fee as shall be prescribed by regulations made under *section 31* and, subject to *section 17(6)*, shall be signed by both the appointer and the co-decision-maker (in this section referred to as “the applicants”).
+
+(3) The applicants shall, at the same time as making an application to register a co-decision-making agreement under this section, jointly give notice, in such form as shall be F29[specified under *section 31A*], of the application and give a copy of the co-decision-making agreement to the following persons:
+
+(a) the spouse or civil partner (if any) of the appointer;
+
+(b) the cohabitant (if any) of the appointer;
+
+(c) any children of the appointer who have attained the age of 18 years;
+
+(d) any decision-making assistant for the appointer;
+
+(e) any decision-making representative for the appointer;
+
+(f) any attorney for the appointer;
+
+(g) any designated healthcare representative for the appointer;
+
+(h) any co-decision-maker of the appointer under another co-decision-making agreement.
+
+F30[(3A) *Subsection (3)(a)* shall not apply—
+
+(a) in relation to the spouse of an appointer, where, at the time at which the application is made under *subsection (2)*—
+
+(i) a decree of judicial separation has been granted to either the appointer or his or her spouse by a court in the State or any decree has been so granted by a court outside the State and is recognised in the State as having like effect,
+
+(ii) a written agreement to separate has been entered into between the appointer and his or her spouse, or
+
+(iii) subject to *section 2(2)*, the appointer and his or her spouse have separated and have ceased to cohabit for a continuous period of 12 months,
+
+and
+
+(b) in relation to the civil partner of an appointer, where, at the time at which the application is made under *subsection (2)*—
+
+(i) a written agreement to separate has been entered into between the appointer and his or her civil partner, or
+
+(ii) subject to *section 2(2)*, the civil partners have separated and have ceased to cohabit for a continuous period of not less than 12 months.
+
+(3B) Subject to *section 2(2)*, *subsection (3)(b)* shall not apply in relation to the cohabitant of an appointer where, at the time at which the application is made under *subsection (2)*, the appointer and his or her cohabitant have separated and have ceased to cohabit for a continuous period of not less than 12 months.]
+
+(4) An application under *subsection (2)* shall be accompanied by the following:
+
+(a) the co-decision-making agreement;
+
+(b) a statement by the appointer that he or she—
+
+(i) understands the implications of entering into the co-decision-making agreement and has read and understands the information contained therein, or has had such information explained to him or her,
+
+(ii) wishes to enter into the co-decision-making agreement with the co-decision-maker,
+
+(iii) is aware that he or she may, with the consent of the co-decision-maker, vary the co-decision-making agreement, and
+
+(iv) is aware that he or she may revoke the co-decision-making agreement;
+
+(c) a statement by the co-decision-maker that he or she—
+
+(i) understands the implications of entering into the co-decision-making agreement and has read and understands the information contained therein,
+
+(ii) understands and undertakes to act in accordance with his or her functions as specified in the co-decision-making agreement,
+
+(iii) understands and undertakes to act in accordance with the guiding principles,
+
+(iv) understands and undertakes to comply with the reporting obligations under *section 27*, and
+
+(v) understands the provisions of this Part relating to variation, revocation and nullity of co-decision-making agreements;
+
+(d) a statement as to why the less intrusive measure of a decision-making assistance agreement was not chosen;
+
+(e) details of any existing decision-making assistance agreement, co-decision-making agreement, decision-making order, decision-making representation order, power of attorney (whether an enduring power or otherwise and whether registered or not) or advance healthcare directive in respect of the appointer;
+
+(f) a statement by a registered medical F29[practitioner or] a statement by such other healthcare professional of a class as shall be prescribed by regulations made under *section 31* that in F29[his or her] opinion—
+
+(i) the appointer has capacity to make a decision to enter into the co-decision- making agreement,
+
+(ii) the appointer requires assistance in exercising his or her decision-making in respect of the relevant decisions contained in the co-decision-making agreement, and
+
+(iii) the appointer has capacity to make the relevant decisions specified in the co-decision-making agreement with the assistance of the co-decision-maker;
+
+(g) references, in such form as shall be F29[specified under *section 31A*], by 2 persons as to the personal character of the co-decision-maker;
+
+(h) a copy of any notice given pursuant to *subsection (3)*; and
+
+(i) the appropriate fee, as prescribed by regulations under *section 31*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 19(a), (b), (d)(i), (ii), S.I. No. 194 of 2023.
+>
+> F30: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 19(c), S.I. No. 194 of 2023.
+
+### 22. Registration of co-decision-making agreement
+
+**22.** (1) On receipt of an application under *section 21*, the Director shall review the application and any objections received under *section 24* and shall carry out such reasonable enquiries as he or she considers necessary in order to establish whether the following criteria are met:
+
+(a) the co-decision-making agreement is in accordance with *section 17*;
+
+(b) the co-decision-maker is a suitable person within the meaning of *section 17(2)*;
+
+(c) the co-decision-maker is eligible for appointment within the meaning of *section 18*;
+
+(d) the application is in accordance with *section 21* (or *section 28* in the case of an application to register a varied co-decision-making agreement);
+
+(e) the co-decision-making agreement is in accordance with the will and preferences of the appointer; and
+
+(f) the appointer understands the implications of having entered into the co-decision-making agreement.
+
+(2) Following the review under *subsection (1)* and subject to *section 24*, the Director shall—
+
+(a) where he or she is of the view that the criteria set out in *paragraphs (a)* to *(f)* of *subsection (1)* are satisfied, register the co-decision-making agreement and notify the applicants of the date on which it was registered, or
+
+(b) where he or she is of the view that one or more of the criteria set out in *paragraphs (a)* to *(f)* of *subsection (1)* are not satisfied, notify the applicants of that view, provide reasons for that view and give the applicants an opportunity, within a reasonable timeframe specified by the Director, to respond.
+
+(3) Following a review of any response submitted by the applicants pursuant to *subsection (2)(b)* and subject to *section 24*, the Director shall—
+
+(a) where he or she is of the view that the criteria set out in *paragraphs (a)* to *(f)* of *subsection (1)* are satisfied, register the co-decision-making agreement and notify the applicants of the date on which it was registered, or
+
+(b) where he or she remains of the view that one or more of the criteria set out in *paragraphs (a)* to *(f)* of *subsection (1)* are not satisfied, refuse to register the co-decision-making agreement concerned and notify the applicants of that fact.
+
+(4) One or both of the applicants whose application to register a co-decision-making agreement is refused may, not later than 21 days after the date of issue of the notification of refusal by the Director, appeal the refusal to the court.
+
+(5) Upon an appeal under *subsection (4)*, the court may—
+
+(a) require the Director to register the co-decision-making agreement concerned,
+
+(b) affirm the decision of the Director, or
+
+(c) make such other order as it considers appropriate.
+
+(6) Following the registration of a co-decision-making agreement, the Director shall send an authenticated copy of the agreement to the applicants.
+
+(7) F31[For the purposes of *subsection (6)*, a document] purporting to be a copy of a co-decision-making agreement that has been authenticated by the Director shall be evidence of the contents of the agreement and the date upon which it was registered.
+
+F32[(8) Once the Director has registered or has refused to register under this section a co-decision-making agreement, the applicants concerned shall, as soon as practicable, give notice to the persons referred to in *section 21(3)* (other than those to whom *subsections (3A)* and *(3B)* of that section relate) of that registration or refusal, as the case may be, in the form specified under *section 31A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 20(a), S.I. No. 194 of 2023.
+>
+> F32: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 20(b), S.I. No. 194 of 2023.
+
+### 23. Effect and proof of registration
+
+**23.** (1) A relevant decision which is made within the scope of a registered co-decision-making agreement shall not be challenged on the grounds that the appointer did not have the capacity to make the decision.
+
+(2) Where a co-decision-making agreement stands registered, a relevant decision made otherwise than jointly by the appointer and the co-decision-maker is null and void.
+
+(3) (a) Subject to *paragraph (b)*, where a relevant decision requires the signing of any document, the relevant decision is null and void unless both the appointer and the co-decision-maker sign the document.
+
+(b) Where the appointer is unable to make his or her signature, a document may be signed on the appointer’s behalf by a person who has attained the age of 18 years and who is not the co-decision-maker if the appointer is present and directs that the document be signed on his or her behalf by that person.
+
+### 24. Objections to registration
+
+**24.** (1) Any of the persons referred to in *section 21(3)* may, not later than 5 weeks from the date on which notice is given in accordance with that provision, notify the Director that he or she objects to the proposed registration.
+
+(2) An objection shall be F33[in such form as shall be specified under *section 31A*] and shall be accompanied by such fee as shall be prescribed by regulations made under *section 31* and may be made on one or more of the following grounds:
+
+(a) that the co-decision-making agreement was not signed or witnessed in accordance with *section 17*;
+
+(b) that the appointer lacks capacity to make a decision to enter into the co-decision-making agreement;
+
+(c) that the appointer has capacity to make the relevant decisions which are the subject of the co-decision-making agreement without the assistance of a co-decision-maker;
+
+(d) that the appointer lacks capacity to make the relevant decisions which are the subject of the co-decision-making agreement even with the assistance of a co-decision-maker;
+
+(e) that entry into the co-decision-making agreement is not in accordance with the will and preferences of the appointer;
+
+(f) that the co-decision-maker is not a suitable person within the meaning of *section 17(2)* or is not eligible for appointment by virtue of *section 18*;
+
+(g) that a false statement is included in the application to register the co-decision-making agreement;
+
+(h) that fraud, coercion or undue influence was employed to induce the appointer to enter into the co-decision-making agreement.
+
+(3) Where the Director receives an objection in accordance with *subsection (2)*, which has been made in the period specified in *subsection (1)*, he or she shall—
+
+(a) review the objection,
+
+(b) consult with the appointer and co-decision-maker and give them a reasonable opportunity to respond to the objection, and
+
+(c) consult with such other persons as he or she considers relevant,
+
+and shall—
+
+(i) where he or she is of the view that the objection is not well founded, F33[notify the appointer, the co-decision-maker and the person who made the objection] of his or her view, provide reasons for that view and proceed, subject to *section 22(1)*, to register the co-decision-making agreement concerned, or
+
+F33[(ii) where he or she is of the view that the objection is well founded, notify the appointer, the co-decision-maker and the person who made the objection of his or her decision and refuse to register the co-decision-making agreement.]
+
+(4) F34[...]
+
+F33[(5) A person who has been notified under *subsection (3)* of the Director’s decision may, not later than 21 days after the date of issue of the notification by the Director, appeal the decision concerned to the court.]
+
+(6) Upon appeal under *subsection (5)*, the court may—
+
+F33[(a) where the Director has made a decision to which *subsection (3)(i)* refers—
+
+(i) declare that the objection is well founded and require the Director to remove the co-decision-making agreement concerned from the Register, or
+
+(ii) affirm the decision of the Director,
+
+(b) where the Director has made a decision to which *subsection (3)(ii)* refers—
+
+(i) declare that the objection is not well founded and require the Director to proceed to consider, in accordance with *section 22*, whether the co-decision-making agreement should be registered, taking the court’s declaration into account, or
+
+(ii) affirm the decision of the Director and declare that the co-decision-making agreement should not be registered,
+
+or]
+
+(c) make such other declaration or order as it considers appropriate.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 21(a), (b)(i), (ii), (d), (e), S.I. No. 194 of 2023.
+>
+> F34: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 21(c), S.I. No. 194 of 2023.
+
+### 25. Register of co-decision-making agreements
+
+**25.** (1) The Director shall establish and maintain a Register (in this Part referred to as “the Register”) of co-decision-making agreements.
+
+(2) The Register shall be in such form as the Director considers appropriate.
+
+(3) F35[The Director shall make such details of the Register as he or she shall specify] available for inspection by—
+
+(a) a body or class of persons prescribed by regulations made under *section 31* for this purpose, and
+
+(b) any person who satisfies the Director that he or she has a legitimate interest in F35[inspecting those details of the Register].
+
+(4) The Director may issue an authenticated copy of a co-decision-making agreement, F35[or part thereof, or, where applicable, a varied co-decision-making agreement or part thereof], on the Register on payment of the prescribed fee to—
+
+(a) a body or class of persons prescribed by regulations made under *section 31* for this purpose, and
+
+(b) a person who satisfies the Director that he or she has a legitimate interest in obtaining a copy.
+
+F36[(4A) An authenticated copy of a co-decision-making agreement or part thereof, or, where applicable, of a varied co-decision-making agreement or part thereof, that is issued by the Director under *subsection (4)* and stamped by the Director with a time and date stamp (which may be by automated means), shall be evidence of the contents of the agreement or part thereof as at the date and time indicated on the stamp.]
+
+(5) The Director shall keep a record of any body or person that has inspected the Register or received an authenticated copy of a co-decision-making agreement, F35[or part thereof, or, where applicable, a varied co-decision-making agreement or part thereof,] from him or her.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 22(a), (b), (d), S.I. No. 194 of 2023.
+>
+> F36: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 22(c), S.I. No. 194 of 2023.
+
+### 26. Review of co-decision-making agreements
+
+**26.** (1) The Director shall conduct a review of each co-decision-making agreement on the Register not earlier than 3 months before and not later than 3 months after the first anniversary of the date of registration of the agreement and thereafter at intervals not exceeding 3 years.
+
+(2) In conducting a review under this section, the Director shall carry out such reasonable enquiries, including, in particular, consulting with the appointer and co-decision-maker as well as any special visitor or general visitor who has had contact with the appointer or co-decision-maker, as he or she considers necessary to determine whether the following criteria are met:
+
+(a) paragraphs *(e)* and *(f)* of *section 22(1)* continue to apply;
+
+(b) the co-decision-making agreement does not fall within *section 20* ;
+
+(c) the co-decision-maker has performed and continues to be likely to perform his or her functions as co-decision-maker;
+
+(d) the co-decision-maker has complied with the requirements under this Act that are relevant to him or her;
+
+(e) the matters provided for in subparagraphs *(ii)* and *(iii)* of *section 21(4)(f)* continue to apply.
+
+(3) In order to determine whether the matters provided for in subparagraphs (ii) and (iii) of *section 21(4)(f)* continue to apply, the Director shall require F37[a statement] to that effect to be submitted to him or her by—
+
+(a) the same registered medical practitioner who provided the original statement under *section 21(4)(f)* or, where that practitioner is not reasonably available, another registered medical F37[practitioner, or]
+
+(b) the same healthcare professional who provided the original statement under *section 21(4)(f)* or, where that professional is not reasonably available, another healthcare professional of the class prescribed by regulations made under *section 31*.
+
+(4) Where, following a review under *subsection (1)*, the Director is of the view that one or more of the criteria set out in *paragraphs (a)* to *(e)* of *subsection (2)* does not apply, he or she shall notify the co-decision-maker and the appointer of that view, provide reasons for same and give the appointer and the co-decision-maker an opportunity to respond within a time period specified by the Director.
+
+(5) Where, at the expiry of the period for response specified under *subsection (4)* and following a review of any response submitted by the appointer or the co-decision-maker or both pursuant to that subsection, the Director remains of the view that one or more of the criteria set out in *paragraphs (a)* to *(e)* of *subsection (2)* does not apply, he or she shall notify the appointer and the co-decision-maker of that view and make an application to the court for a determination on the matter.
+
+(6) Where, pursuant to an application to it under *subsection (5)*, the court determines that one or more of the criteria in *paragraphs (a)* to *(e)* of *subsection (2)* does not apply, it may determine that the co-decision-maker shall no longer act as co-decision-maker for the appointer concerned.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 23(a), (b), S.I. No. 194 of 2023.
+
+### 27. Reports by co-decision-maker
+
+**27.** (1) A co-decision-maker shall, within 12 months after registration of the co-decision-making agreement appointing him or her, and thereafter at intervals of not more than 12 months, prepare and submit to the Director a report in writing as to the performance of his or her functions as such co-decision-maker during the relevant period.
+
+(2) Every report submitted to the Director pursuant to this section shall be approved by the appointer and shall be in such form as shall be F38[specified under *section 31A*] and shall include details of all transactions relating to the appointer’s finances which are within the scope of the co-decision-making agreement and details of all costs and expenses paid to and claimed by the co-decision-maker in the relevant period together with such other matters F38[as are specified under *section 31A*].
+
+(3) Where a co-decision-maker fails to submit a report in accordance with this section or submits an incomplete report, the Director shall notify the appointer and the co-decision-maker concerned of that failure or incompleteness and give the co-decision-maker such period of time as is specified in the notification to comply or submit a complete report.
+
+F38[(4) Where a co-decision-maker fails to comply with a notification under *subsection (3)*, the Director—
+
+(a) may, in the case of the submission of an incomplete report and following any necessary enquiries to satisfy himself or herself that the report is substantially in accordance with this section and specifications made under *section 31A*, accept the report as if it were in compliance with this section and the relevant specifications,
+
+(b) may make such further directions with regard to the submission of the report in question as he or she considers appropriate, or
+
+(c) may, subject to *subsection (4A)* and following consultation with the appointer and the co-decision-maker, make a determination that the co-decision-maker shall, as soon as may be or from a date specified by the Director, no longer act as co-decision-maker for the appointer concerned.]
+
+F39[(4A) Where the Director has made a determination under *subsection (4)(c)* he or she shall notify the appointer and the co-decision-maker of his or her determination, provide reasons for that determination and update the Register accordingly.
+
+(4B) An appointer or a co-decision-maker who has been notified under *subsection (4A)* of the Director’s determination may, not later than 21 days after the date of issue of the notification by the Director, appeal the determination concerned to the court.]
+
+F38[(5) Pursuant to an appeal to it under *subsection (4B)*, the court may—
+
+(a) affirm the determination of the Director,
+
+(b) declare that the co-decision-maker shall continue to act as such for the appointer concerned and require the Director to update the Register accordingly, or
+
+(c) make such other declaration or order as it considers appropriate.]
+
+(6) In this section “relevant period” means the period of time to which the report relates which shall be the period of time between the date of registration of the co-decision-making agreement or the date of submission of the previous report, as the case may be, and the date immediately preceding the date of submission of the report concerned.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 24(a)(i), (ii), (b), (d), S.I. No. 194 of 2023.
+>
+> F39: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 24(c), S.I. No. 194 of 2023.
+
+### 28. Variation of co-decision-making agreement
+
+**28.** (1) The terms of a registered co-decision-making agreement may be varied by agreement between the appointer and the co-decision-maker.
+
+(2) Subject to *section 17(6)*, a varied co-decision-making agreement shall include the signature of the appointer and the co-decision-maker (in this section referred to as “the applicants”) and shall be witnessed in accordance with *section 17(7)*.
+
+(3) An application to register a varied co-decision-making agreement shall be made F40[in such form as shall be specified under *section 31A*] and accompanied by such fee as shall be prescribed by regulations made under *section 31* and, subject to *section 17(6)*, shall be signed by both the appointer and the co-decision-maker.
+
+(4) The applicants shall, at the same time as making an application to register a varied co-decision-making agreement, give notice, in such form as shall be F40[specified under *section 31A*], to the persons specified in *section 21(3)* and the application shall be accompanied by the following:
+
+(a) the varied co-decision-making agreement;
+
+(b) a statement by the applicants outlining the variation and why it is considered necessary;
+
+(c) a statement by a registered medical F40[practitioner or] a statement by such other healthcare professional as shall be prescribed by regulations made under *section 31* that in his or her opinion—
+
+(i) the appointer has capacity to vary the co-decision-making agreement,
+
+(ii) the appointer requires assistance in exercising his or her decision-making in respect of the relevant decisions contained in the varied co-decision-making agreement, and
+
+(iii) the appointer has capacity to make the decision or decisions specified in the varied co-decision-making agreement with the assistance of the co-decision-maker concerned;
+
+(d) details of the notice given pursuant to this subsection;
+
+(e) any change to the information provided pursuant to *section 21(4)(e)* in the application to register the co-decision-making agreement;
+
+(f) the appropriate fee, as prescribed by regulations made under *section 31*.
+
+(5) *Sections 22* to *27* and *sections 29* to *34* shall apply to a varied co-decision-making agreement as they apply to a co-decision-making agreement with the modification that a reference to “co-decision-making agreement” in those sections shall be read as if “varied co-decision-making agreement” were substituted for “co-decision-making agreement” and any other necessary modifications.
+
+(6) An application to register a varied co-decision-making agreement may not be made less than 6 months from the date of registration of the co-decision-making agreement which it varies, and thereafter at intervals of not less than 12 months, unless a shorter period is agreed by the Director.
+
+(7) Upon registration of a varied co-decision-making agreement, the Director shall remove from the Register the co-decision-making agreement which the varied co- decision-making agreement replaces.
+
+(8) A varied co-decision-making agreement shall not enter into force until it has been registered.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 25(a), (b)(i), (ii), S.I. No. 194 of 2023.
+
+### 29. Revocation of co-decision-making agreement and removal from Register
+
+**29.** (1) A co-decision-making agreement, whether registered or not, may be revoked in whole or in part at any time by the appointer or the co-decision-maker, or both.
+
+(2) A revocation or revocation in part of a co-decision-making agreement shall be in writing and shall be in such form as shall be F41[specified under *section 31A*].
+
+(3) Subject to *section 17(6)*, a revocation or a revocation in part of a co-decision-making agreement shall be signed by the person or persons making the revocation F41[and each such signature] shall be acknowledged by 2 witnesses and *section 17(7)* shall apply with the necessary modifications.
+
+(4) Where a revocation or revocation in part is made after the co-decision-making agreement concerned has been registered, the person making the revocation shall notify the Director of the revocation or revocation in part, F41[as the case may be, and the notification, which shall be in such form as shall be specified under *section 31A*, shall be accompanied by the following:
+
+(a) a statement in writing by the person making the revocation outlining his or her reasons for the revocation;
+
+(b) if the appointer is the person making the revocation, a statement by a registered medical practitioner or a statement by such other healthcare professional as shall be prescribed by regulations made under *section 31* that in his or her opinion, the appointer has capacity to revoke the co-decision-making agreement;
+
+(c) details of the notice given pursuant to *subsection (4A)*;
+
+(d) information on any change in the details provided pursuant to *section 21(4)(e)* in the application to register the co-decision-making agreement;
+
+(e) the appropriate fee, as prescribed by regulations made under *section 31*.]
+
+F42[(4A) The person making the revocation or revocation in part of a registered co-decision-making agreement shall, at the same time as notifying the Director under *subsection (4)*, give notice of the revocation or revocation in part, in such form as shall be specified under *section 31A*, to the persons specified in *section 21(3)*.]
+
+(5) Upon receipt of a notification under *subsection (4)* the Director shall—
+
+(a) where the revocation concerns the whole of the co-decision-making agreement concerned, remove the co-decision-making agreement to which the revocation relates from the Register, and
+
+(b) where the revocation is a revocation in part, identify on the Register the F41[extent of the revocation.]
+
+F43[...]
+
+(6) In this section a “revocation in part” means a revocation (whether by the co-decision-maker or the appointer or both), whereby the co-decision-maker continues to act as co-decision-maker for the appointer in respect of one or more relevant decisions which are the subject of the co-decision-making agreement.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 26(a), (b), (c), (e)(i), S.I. No. 194 of 2023.
+>
+> F42: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 26(d), S.I. No. 194 of 2023.
+>
+> F43: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 26(e)(ii), S.I. No. 194 of 2023.
+
+### 30. Complaints in relation to co-decision-makers
+
+**30.** (1) A person may make a complaint in writing to the Director concerning one or more of the following matters:
+
+(a) that the co-decision-maker has acted, is acting, or is proposing to act outside F44[the scope of, or in breach of,] his or her functions under the co-decision-making F44[agreement, or in breach of this Act];
+
+(b) the suitability of a co-decision-maker in relation to an appointer;
+
+(c) a co-decision-making agreement not being in accordance with the will and preferences of an appointer;
+
+(d) that an appointer did not, at the time of entry into the co-decision-making agreement, have capacity to make a decision to enter into the agreement;
+
+(e) that fraud, coercion or undue pressure was used to induce an appointer F44[to enter into, or to vary or revoke,] the co-decision-making agreement;
+
+(f) that an appointer has capacity in respect of one or more of the decisions which are the subject of the co-decision-making agreement without the assistance of a co-decision-maker;
+
+(g) that an appointer no longer has capacity in respect of one or more than one of the decisions which are the subject of the co-decision-making agreement even with the assistance of the co-decision-maker.
+
+F45[(1A) Following the receipt of a complaint under *subsection (1)* the Director shall carry out such review or investigation of the matter the subject of the complaint as he or she considers appropriate and shall, subject to *subsection (1B)*, form a view as to whether or not the complaint is well founded not later than 3 months after the date of his or her receipt of the complaint (in this section referred to as the "initial investigation period").
+
+(1B) The Director may, before the date of expiry of the initial investigation period, extend the duration of his or her investigation by a period of up to 6 months from that date by sending written notice to the complainant, the person who is the subject of the complaint and the relevant person concerned giving reasons for the extension.]
+
+(2) F44[The Director shall, as soon as is practicable after having formed a view under *subsection (1A)*]—
+
+(a) where he or she is of the view that the complaint is well founded, make an application to the court for a determination in relation to any matter specified in the F44[complaint,]
+
+F45[(aa) notwithstanding *paragraph (a)*, where he or she is of the view that the complaint is well founded and that—
+
+(i) the provision of clarification by him or her to the co-decision-maker regarding the role of the co-decision-maker would be an appropriate resolution, or
+
+(ii) the subject matter of the complaint could be appropriately resolved under *section 96(4)*,
+
+the Director may, not later than 3 months after having formed a view under *subsection (1A)*, provide the clarification referred to in *subparagraph (i)*, or proceed to resolve the complaint as soon as possible under *section 96(4)*, as the case may be, and]
+
+(b) where he or she is of the view that the complaint is not well founded, notify the person who made the complaint of that view and provide reasons for same.
+
+(3) A person who receives a notification under *subsection (2)(b)* may, not later than F44[3 months] after the date of issue of the notification, appeal a decision of the Director that the complaint is not well founded to the court.
+
+(4) The Director may, notwithstanding that no complaint has been received, on his or her own initiative carry out an F44[investigation, to which this section shall, with any necessary modifications, apply].
+
+F45[(4A) Where *subsection (2)(aa)* applies and the Director has provided the clarification referred to in *subparagraph (i)* of that subsection or has resolved the complaint under *section 96(4)* as referred to in *subparagraph (ii)* of that subsection, the Director may—
+
+(a) request further information regarding the outcome of the clarification or resolution, as the case may be, or
+
+(b) request confirmation that the complaint has been resolved,
+
+from the complainant, the person who is the subject of the complaint or the relevant person, as the Director considers appropriate.
+
+(4B) If the Director is not satisfied, following the receipt of the information or confirmation referred to in *subsection (4A)*, that the clarification or resolution referred to in that subsection has satisfactorily resolved the complaint, the Director may make an application to the court in accordance with *subsection (2)(a)* or may take such other steps as he or she considers appropriate in order to resolve the complaint.]
+
+(5) The court may—
+
+(a) pursuant to an application to it under *subsection (2)(a)* F46[...], or
+
+(b) pursuant to an appeal under F44[*subsection (3)* or *(7)(b)*],
+
+make a determination in relation to a matter specified in *subsection (1)* and may, if it considers it appropriate, determine that a co-decision-maker shall no longer act as such in relation to the appointer F44[concerned, and that the Register shall be amended accordingly].
+
+F45[(6) The Director shall, in accordance with this section, investigate a complaint under *subsection (1)* unless in his or her opinion there has been undue delay in making the complaint.
+
+(7) A decision by the Director under *subsection (6)* not to investigate a complaint—
+
+(a) shall be in writing, shall contain the reasons for the decision and shall be sent to the complainant as soon as possible after it is made, and
+
+(b) may be appealed by the complainant to the court not later than 3 months after the date of receipt by the complainant of the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 27(a)(i)(I), (II), (ii), (c)(i), (ii), (d), (e), (g)(ii), (iii), S.I. No. 194 of 2023.
+>
+> F45: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 27(b), (c)(iii), (f), (h), S.I. No. 194 of 2023.
+>
+> F46: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 27(g)(i), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E16: Records relating to an investigation under section that has been or is being carried out by the Director of the Decision Support Service, or a person delegated under s. 98(2), are excluded from application of *Freedom of Information Act 2014* by *Freedom of Information Act 2014* (30/2014), s. 42(eb), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 104, S.I. No. 194 of 2023.
+
+### 31. F47[Regulations – Part 4
+
+**31.** The Minister, having regard to the requirements of this Part, shall prescribe by regulations the following matters:
+
+(a) the bodies or classes of persons referred to in *section 25(3)(a)* and *section 25(4)(a)*, who may inspect the Register or receive an authenticated copy of a co-decision-making agreement, as the case may be;
+
+(b) the class of healthcare professionals under *section 21(4)(f)*, *26(3)(b)*, *28(4)(c)* and *29(4)(b)*;
+
+(c) the fees to be paid in connection with—
+
+(i) an application to register a co-decision-making agreement or a varied co-decision-making agreement,
+
+(ii) an objection to an application to register a co-decision-making agreement or a varied co-decision-making agreement,
+
+(iii) the issue of an authenticated copy of a co-decision-making agreement or part thereof, and
+
+(iv) the notification to the Director of the revocation or revocation in part of a co-decision-making agreement;
+
+(d) the circumstances in which the fees referred to in *paragraph (c)* may be waived by the Director.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 28, S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Inspection of Registers and Receipt of Copies of Documents) Regulations 2023* (S.I. No. 206 of 2023).
+>
+> E18: Power pursuant to para. (b) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Prescribed Classes of Healthcare Professionals) Regulations 2023* (S.I. No. 204 of 2023).
+>
+> E19: Power pursuant to paras. (c), (d) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Fees) Regulations 2023* (S.I. No. 202 of 2023).
+
+### 31A. Matters to be specified by Director in relation to co-decision-making agreements
+
+F48[**31A.** The Director may, with the consent of the Minister, specify in writing the following:
+
+(a) the form of a co-decision-making agreement;
+
+(b) the form of an application under *sections 21(2)* and *28(3)* to register a co-decision-making agreement and a varied co-decision-making agreement;
+
+(c) the form of notice under *sections 21(3)* and *28(4)* of an application to register a co-decision-making agreement and a varied co-decision-making agreement;
+
+(d) the form of references under *section 21(4)(g)* as to the personal character of a co-decision-maker;
+
+(e) the form of notice by the applicants under *section 22(8)*;
+
+(f) the form of an objection under *section 24* to the registration of a co-decision-making agreement and a varied co-decision-making agreement;
+
+(g) the form of a report under *section 27* to be submitted by a co-decision-maker to the Director;
+
+(h) the form of revocation, or revocation in part, under *section 29(2)* of a co-decision-making agreement;
+
+(i) the form of notice of the revocation, or revocation in part, of a registered co-decision-making agreement under *section 29(4A)* to the persons specified in *section 21(3).*]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 29, S.I. No. 194 of 2023.
+
+### 32. Applications to Court
+
+**32.** Where, under this Part, the court is determining whether a co-decision-maker should continue to act as co-decision-maker for an appointer, it shall have regard to all of the circumstances of the case, including in particular—
+
+(a) the capacity of the appointer,
+
+(b) the appointer’s willingness to continue to participate in the co-decision-making agreement concerned,
+
+(c) the suitability of the co-decision-maker,
+
+(d) the performance by the co-decision-maker of his or her functions, and
+
+(e) the views of the Director.
+
+### 33. Role of Director where nullity occurs
+
+**33.** On receipt of notification of nullity pursuant to *section 20(8)*, the Director shall—
+
+(a) remove the co-decision-making agreement from the Register, or note on the Register the extent of the nullity, as the case may be, and
+
+(b) notify the persons referred to in *section 21(3)* of the nullity and any removal of the agreement from the Register.
+
+### 34. Offences in relation to co-decision-making agreements
+
+**34.** (1) A person who uses fraud, coercion or undue influence to force another person to make, vary or revoke a co-decision-making agreement commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+(2) A person who, in an application for registration of a co-decision-making agreement, or in connection with such an application, makes a statement which he or she knows to be false in a material particular commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €15,000 or imprisonment for a term not exceeding 2 years, or both.
+
+(3) The reference in *subsection (1)* to coercion or undue influence includes any case where a person’s access to, or continued stay in, a designated centre or mental health facility, is contingent (whether in whole or in part) on the person having to, or being led to believe that he or she has to, make, vary or revoke a co-decision-making agreement.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E20: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## PART 5Applications to Court in respect of Relevant Persons and Related Matters — PART 5 — Applications to Court in respect of Relevant Persons and Related Matters
+
+### Chapter 1Application of this Part — Chapter 1 — Application of this Part
+
+#### 35. Application of this Part
+
+**35.** This Part shall not apply to relevant persons who have not attained the age of 18 years.
+
+### Chapter 2Applications under this Part — Chapter 2 — Applications under this Part
+
+#### 36. Persons who may make applications to court under this Part, etc.
+
+**36.** (1) Subject to *subsections (2)* and *(3)*, a relevant person, or any person who has attained the age of 18 years and who has a bona fide interest in the welfare of a relevant person, may make an application to the court under this Part.
+
+(2) An application to the court under this Part (other than an application by the relevant person) shall be made on notice to—
+
+(a) the relevant person the subject of the application, and
+
+(b) the persons referred to in paragraphs *(c)* to *(i)* of *subsection (4)* (other than any such person who is the applicant).
+
+(3) Subject to *subsection (4)*, an application to the court under this Part shall not be made unless the person making the application has received the consent of the court to the making of the application, which consent may be sought by way of an ex parte application.
+
+(4) Subject to *section 49(1)*, *subsection (3)* shall not apply to an application to the court under this Part made by—
+
+(a) the relevant person,
+
+(b) the Director,
+
+(c) the spouse or civil partner of the relevant person,
+
+F49[(ca) the cohabitant of the relevant person,
+
+(cb) a child of the relevant person who has attained the age of 18 years,]
+
+(d) a decision-making assistant for the relevant person,
+
+(e) a co-decision-maker for the relevant person,
+
+(f) a decision-making representative for the relevant person,
+
+F50[(g) an attorney or an attorney under the Act of 1996 for the relevant person,]
+
+(h) a designated healthcare representative for the relevant person,
+
+(i) a person specified for that purpose in an existing order of the court under this Part where the application relates to that order,
+
+(j) if the application relates, whether in whole or in part, to the relevant person’s capacity to make a decision to consent to being married or to being in a civil partnership—
+
+(i) a registrar within the meaning of section 17 of the Civil Registration Act 2004, or
+
+(ii) the other party to the proposed marriage or civil partnership (if any), as the case may be, of the relevant F50[person, and]
+
+F49[(k) a person or body—
+
+(i) having reached the age of 18 years, if an individual, and
+
+(ii) having a bona fide interest in the welfare of relevant persons,
+
+as may be prescribed by the Minister by regulations.]
+
+(5) An application to the court under this Part (including an ex parte application under *subsection (3)*) shall state—
+
+(a) the applicant’s connection with the relevant person,
+
+(b) the benefit to the relevant person sought to be achieved by the application, and
+
+(c) the reasons why the application is being made, in particular—
+
+(i) the reason why the benefit to the relevant person sought to be achieved has failed to be achieved in any other appropriate, practicable and less intrusive manner taken prior to the making of the application, and
+
+(ii) the reason why, in the opinion of the applicant, no other appropriate, practicable and less intrusive manner to achieve that benefit remains to be taken prior to the making of the application.
+
+(6) In every application to the court under this Part, the applicant shall inform the court of the existence of—
+
+(a) any decision-making assistance agreement, co-decision-making agreement, enduring power of attorney or enduring power under the Act of 1996 or advance healthcare directive created by the relevant person, and
+
+(b) any decision-making representation order or decision-making order made in respect of the relevant person,
+
+of which the applicant has knowledge.
+
+(7) Rules of court shall make provision—
+
+(a) as to the manner and form in which proceedings under this Part are to be commenced, and
+
+(b) as to what may be received as evidence in such proceedings and the manner in which it is to be presented.
+
+(8) The court, on the hearing of an application under this Part, may allow the relevant person the subject of the application, if he or she has not instructed a legal practitioner, to be assisted in court by a court friend for the relevant person unless—
+
+(a) there is a decision-making assistant, co-decision-maker, decision-making representative, attorney, attorney under the Act of 1996 or designated healthcare representative for the relevant person and the decision-making assistant, co-decision-maker, decision-making representative, attorney, attorney under the Act of 1996 or designated healthcare representative, as the case may be, is willing to assist the relevant person during the course of the hearing, or
+
+(b) subject to *sections 100(12)* and *103(15)*, there is another person, in respect of whom the court is satisfied that such person is suitable, willing and able to assist the relevant person during the course of the hearing.
+
+(9) Where, on the hearing of an application under this Part—
+
+(a) the relevant person the subject of the application has not instructed a legal practitioner,
+
+(b) there is—
+
+(i) no decision-making assistant, co-decision-maker, decision-making representative, attorney, attorney under the Act of 1996 or designated healthcare representative for the relevant person or, if there is a decision-making assistant, co-decision-maker, decision-making representative, attorney, attorney under the Act of 1996 or designated healthcare representative for the relevant person, he or she is not willing to assist the relevant person in the course of the hearing, and
+
+(ii) no person who falls within *paragraph (b)* of *subsection (8)* in respect of the relevant person and the hearing,
+
+and
+
+(c) there is no court friend for the relevant person,
+
+the court may direct the Director to appoint a court friend for the relevant person.
+
+(10) Hearings of applications under this Part shall—
+
+(a) be conducted with the least amount of formality consistent with the proper administration of justice, and
+
+(b) be heard and determined otherwise than in public.
+
+F49[(10A) Nothing in this section shall operate to prohibit—
+
+(a) the preparation of a report of proceedings under this Part by—
+
+(i) a barrister or a solicitor, or
+
+(ii) a person falling within any other class of persons specified in regulations made under *subsection (10B)* for the purposes of this subsection,
+
+(b) the publication of a report prepared in accordance with *paragraph (a)*, or
+
+(c) the publication of the decision of any court in such proceedings,
+
+in accordance with rules of court, provided that the report or decision does not contain any information that would enable the parties to the proceedings or any person to whom the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons that shall be specified in the direction,otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing such a report—
+
+(i) attend the proceedings, and
+
+(ii) have access to any relevant court documents,
+
+subject to any directions the court may give in that behalf.
+
+(10B) The Minister may, after consultation with the Minister for Justice,make regulations specifying a class of persons for the purposes of *subsection (10A)* if the Minister is satisfied that the publication of reports prepared in accordance with *subsection (10A)(a)* by persons falling within that class is likely to provide information that will assist in the better operation of this Act.]
+
+(11) Judges hearing and determining proceedings under this Part and legal practitioners appearing in such proceedings shall not wear wigs or gowns.
+
+F49[(12) In this section—
+
+(a) a reference to a spouse of a relevant person shall not include a person where, at the time at which the application is made under *subsection (1)*—
+
+(i) a decree of judicial separation has been granted to either the relevant person or his or her spouse by a court in the State or any decree has been so granted by a court outside the State and is recognised in the State as having like effect,
+
+(ii) a written agreement to separate has been entered into between the relevant person and his or her spouse, or
+
+(iii) subject to *section 2(2)*, the relevant person and his or her spouse have separated and have ceased to cohabit for a continuous period of 12 months,
+
+(b) a reference to a civil partner of a relevant person shall not include a person where, at the time at which the application is made under *subsection (1)*—
+
+(i) a written agreement to separate has been entered into between the relevant person and his or her civil partner, or
+
+(ii) subject to *section 2(2)*, the civil partners have separated and have ceased to cohabit for a continuous period of not less than 12 months, and
+
+(c) subject to *section 2(2)*, a reference to a cohabitant of a relevant person shall not include a person where, at the time at which the application is made under *subsection (1)*, the relevant person and his or her cohabitant have separated and have ceased to cohabit for a continuous period of not less than 12 months.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 30(a)(i), (iv), (c), (d), S.I. No. 194 of 2023.
+>
+> F50: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 30(a)(ii), (iii), S.I. No. 194 of 2023.
+>
+> F51: Substituted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 30(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (8)(b) amended by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 30(b), not commenced as of date of revision
+>
+> (b) subject to *sections 100(12)* and *103(15)*, there is another person, in respect of whom F51[the court, having regard to the known will and preferences of the relevant person] is satisfied that such person is suitable, willing and able to assist the relevant person during the course of the hearing.
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant to subs. (7) exercised (27.04.2023) by *Circuit Court Rules (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 201 of 2023).
+
+### Chapter 3Declarations as to capacity, etc., and matters following declarations — Chapter 3 — Declarations as to capacity, etc., and matters following declarations
+
+#### 37. Power of court to make declarations as to capacity, etc.
+
+**37.** (1) The court, on application to it by a person entitled by virtue of *section 36* to make the application, may make one or both of the following declarations:
+
+(a) a declaration that the relevant person the subject of the application lacks capacity, unless the assistance of a suitable person as a co-decision-maker is made available to him or her, to make one or more than one decision specified in the declaration relating to his or her personal welfare or property and affairs, or both;
+
+(b) a declaration that the relevant person the subject of the application lacks capacity, even if the assistance of a suitable person as a co-decision-maker were made available to him or her, to make one or more than one decision specified in the declaration relating to his or her personal welfare or property and affairs, or both.
+
+(2) Where the court makes a declaration pursuant to *subsection (1)(a)*, it shall, unless it is clear to the court at that time that the relevant person does not intend to enter into a co-decision-making agreement, allow the relevant person such period of time as the court considers necessary (and taking account of the time periods set out in *Part 4*) to register a co-decision-making agreement.
+
+(3) Subject to *subsection (4)*, the court, on application to it by a person entitled by virtue of *section 36* to make the application, may make a declaration as to the lawfulness of an intervention proposed to be made in respect of the relevant person the subject of the application.
+
+(4) *Subsection (3)* shall not apply to an intervention where—
+
+(a) the intervener is the court or High Court, or
+
+(b) the intervention is being taken pursuant to an order made, or a direction given, under this Act by the court or High Court.
+
+### Chapter 4Decisions by court or decision-making representative appointed by court — Chapter 4 — Decisions by court or decision-making representative appointed by court
+
+#### 38. Power of court to make orders and appoint decision-making representative, etc.
+
+**38.** (1) This section applies where—
+
+(a) the court has made a declaration which falls within *paragraph (a)* of *section 37(1)*, but—
+
+(i) there is no suitable person to act as co-decision-maker for the relevant person, or
+
+(ii) where there is a suitable person to act as co-decision-maker for the relevant person, a co-decision-making agreement in respect of the relevant person is not registered in accordance with *Part 4* within the period (which may be extended at the court’s discretion) set down by the court,
+
+or
+
+(b) the court has made a declaration in respect of a relevant person which falls within *paragraph (b)* of *section 37(1)*.
+
+(2) Where this section applies, the court may make one or both of the following orders:
+
+(a) an order making the decision or decisions concerned on behalf of the relevant person where it is satisfied that the matter is urgent or that it is otherwise expedient for it to do so;
+
+(b) subject to *subsection (7)* and *section 36*, an order appointing a suitable person who has attained the age of 18 years to be a decision-making representative for the relevant person for the purposes of making one or more than one decision specified in the order on behalf of the relevant person in relation to his or her personal welfare or property and affairs, or both.
+
+(3) In making a decision-making order or decision-making representation order in relation to personal welfare, the court shall have regard to the terms of any advance healthcare directive made by the relevant person and shall—
+
+(a) ensure that the terms of the order are not inconsistent with the directive, and
+
+(b) where a decision-making representative is appointed, ensure that his or her functions are not inconsistent with the directive or the relevant powers exercisable by any designated healthcare representative under the directive.
+
+(4) In making a decision-making order or decision-making representation order, the court shall have regard to the terms of any enduring power of attorney made by the relevant person or enduring power under the Act of 1996 made by him or her and shall—
+
+(a) ensure that the terms of the order are not inconsistent with the terms of the enduring power of attorney or enduring power under the Act of 1996, and
+
+(b) where a decision-making representative is appointed, ensure that his or her functions are not inconsistent with—
+
+(i) the functions of an attorney under an enduring power of attorney, or
+
+(ii) the duties and obligations of an attorney under the Act of 1996.
+
+(5) When considering the suitability of a person to be a decision-making representative for a relevant person, the court shall have regard to the following:
+
+(a) the known will and preferences of the relevant person;
+
+(b) the desirability of preserving existing relationships within the family of the relevant person;
+
+(c) the relationship (if any) between the relevant person and the proposed representative;
+
+(d) the compatibility of the proposed representative and the relevant person;
+
+(e) whether the proposed representative will be able to perform the functions to be vested in him or her;
+
+(f) any conflict of interest.
+
+(6) Where the court appoints a decision-making representative to make decisions on the relevant person’s property and affairs, it shall have regard to the following:
+
+(a) the size, nature and complexity of the relevant person’s financial affairs;
+
+(b) any professional expertise, qualification or experience required to manage the relevant person’s financial affairs;
+
+(c) the capability of the proposed representative to manage the relevant person’s property and affairs;
+
+(d) the financial expertise and support available to the proposed representative.
+
+(7) Where the court proposes to appoint a decision-making representative for a relevant person but no suitable person is willing to act as such decision-making representative—
+
+(a) the court shall request the Director to nominate 2 or more persons from the panel established under *section 101* for consideration by the court for such appointment,
+
+(b) the Director shall comply with a request by the court under *paragraph (a)*, and
+
+(c) the court may, under *subsection (2)(b)*, appoint, from amongst those nominees, a person to be a decision-making representative for the relevant person for the purposes referred to in that paragraph.
+
+(8) In making a decision-making order or decision-making representation order, the court shall make provision for such other matters as it considers appropriate, including—
+
+(a) subject to *subsection (9)*, the conferral of powers on a decision-making representative,
+
+(b) the imposition of duties on a decision-making representative,
+
+(c) the attachment of conditions relating to the making of any relevant decision by a decision-making representative or the exercise of any power by a decision-making representative in his or her capacity as a decision-making representative, and
+
+(d) the period of time for which the order is to have effect.
+
+F52[(8A) Notwithstanding *subsection (2)(b)*, the court, in making a decision-making representation order in the circumstances where *subsection (1)(a)* or *section 55(4)* applies, shall—
+
+(a) in attaching any conditions under *subsection (8)(c)*, take into account the application of *section 41(3)* to the decision-making representative, and
+
+(b) make provision for the decision-making representation order to cease to have effect on the date of registration of a co-decision-making agreement in relation to the relevant person under *Part 4*.]
+
+(9) In making a decision-making representation order, the court shall, in so far as the order relates to the conferral of powers referred to in *subsection (8)(a)*, ensure that the powers conferred are as limited in scope and duration as is necessary in the circumstances having regard to the interests of the relevant person the subject of the order.
+
+(10) The court may appoint one or more than one person as a decision-making representative for a relevant person and may so appoint different persons in respect of different relevant decisions.
+
+(11) In making a decision-making representation order, the court shall require the decision-making representative, or decision-making representatives if there is more than one, to sign a statement indicating that he or she—
+
+(a) understands and undertakes to act in accordance with the powers conferred and the duties imposed on him or her by the court, and
+
+(b) understands and undertakes to act in accordance with the guiding principles set out in *section 8*.
+
+(12) A decision-making representation order appointing more than one person as a decision-making representative for a relevant person in relation to the same relevant decisions shall make provision as to whether such persons are to act—
+
+(a) jointly,
+
+(b) jointly and severally, or
+
+(c) jointly as respects some relevant decisions and jointly and severally as respects other relevant decisions.
+
+(13) The court may make a decision-making order or decision-making representation order notwithstanding that an application has not been made to it under this Part for an order in that respect or in those terms.
+
+(14) The court may vary or discharge a decision-making order or decision-making representation order, whether of its own motion or pursuant to an application to it under this Part by a person entitled by virtue of *section 36* to make the application.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 31, S.I. No. 194 of 2023.
+
+#### 39. Persons who are not eligible to be decision-making representatives
+
+**39.** (1) Subject to *subsection (2)*, a person shall not be eligible for appointment as a decision-making representative if he or she—
+
+(a) has been convicted of an offence in relation to the person or property of the relevant person or the person or property of a child of that person,
+
+(b) has been the subject of a safety or barring order in relation to the relevant person or a child of that person,
+
+(c) is an undischarged bankrupt or is currently in a debt settlement arrangement or personal insolvency arrangement or has been convicted of an offence involving fraud or dishonesty,
+
+(d) is a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) is a person who is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Act of 2014, by virtue of that Chapter or any other provisions of that Act,
+
+(f) is a person who is—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the relevant person resides, or
+
+(ii) residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the relevant person, or
+
+(g) has been convicted of an offence under F53[*section 15A, 34,*] *80*, *90* or *145*.
+
+(2) Subsections (1)*(c)*, *(d)* and *(e)* shall not apply as respects the appointment of a person as a decision-making representative in respect of relevant decisions concerning personal welfare matters only.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 32,S.I. No. 194 of 2023.
+
+#### 40. Disqualification as decision-making representative
+
+**40.** (1) A decision-making representative shall, with effect from the date on which an event specified in *paragraphs (a)* to *(c)* occurs or, in the case of an event specified in *paragraph (d)*, at the expiry of the period referred to in that paragraph, be disqualified from being a decision-making representative for the relevant person where the decision-making representative is the spouse of the relevant person and—
+
+(a) the marriage is annulled or dissolved either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by reason of that annulment or dissolution, not or no longer a subsisting valid marriage under the law of the State,
+
+(b) either a decree of judicial separation is granted to either spouse by a court in the State or any decree is so granted by a court outside the State and is recognised in the State as having like effect,
+
+(c) a written agreement to separate is entered into between the spouses, or
+
+(d) subject to *section 2(2)*, the spouses separate and cease to cohabit for a continuous period of 12 months.
+
+(2) A decision-making representative shall, with effect from the date on which an event specified in *paragraph (a)* or *(b)* occurs or, in the case of an event specified in *paragraph (c)*, at the expiry of the period referred to in that paragraph, be disqualified from being a decision-making representative for the relevant person where the decision-making representative is the civil partner of the relevant person and—
+
+(a) the civil partnership is annulled or dissolved (other than where the dissolution occurs by virtue of the parties to that civil partnership marrying each other) either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by means of that annulment or dissolution not or no longer a subsisting valid civil partnership under the law of the State,
+
+(b) a written agreement to separate is entered into between the civil partners, or
+
+(c) subject to *section 2(2)*, the civil partners separate and cease to cohabit for a continuous period of 12 months.
+
+(3) Subject to *section 2(2)*, a decision-making representative shall, at the expiry of the period referred to in this subsection, be disqualified from being a decision-making representative for the relevant person where the decision-making representative is the cohabitant of the appointer and the cohabitants separate and cease to cohabit for a continuous period of 12 months.
+
+(4) Subject to *subsection (5)*, where, subsequent to the appointment of a decision-making representative—
+
+(a) the decision-making representative is convicted of an offence in relation to the person or property of the relevant person or the person or property of a child of the relevant person,
+
+(b) a safety or barring order is made against the decision-making representative in relation to the relevant person or a child of the relevant person,
+
+(c) the decision-making representative becomes an undischarged bankrupt or subject to a debt settlement arrangement or personal insolvency arrangement which is current or is convicted of an offence involving fraud or dishonesty,
+
+(d) the decision-making representative becomes a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) the decision-making representative becomes a person who is subject or is deemed to be subject to a disqualification order within the meaning of Chapter 4 of Part 14 of the Act of 2014 by virtue of that Chapter or any other provisions of that Act,
+
+(f) the decision-making representative becomes—
+
+(i) the owner or registered provider of a designated centre or mental health facility in which the relevant person resides, or
+
+(ii) a person residing with, or an employee or agent of, such owner or registered provider, as the case may be,
+
+unless the decision-making representative is a spouse, civil partner, cohabitant, parent, child or sibling of the appointer,
+
+(g) the decision-making representative is convicted of an offence under F54[*section 15A, 34,*] *80*, *90* or *145*, or
+
+(h) the decision-making representative—
+
+(i) enters into a decision-making assistance agreement as a relevant person,
+
+(ii) enters into a co-decision-making agreement as a relevant person,
+
+F54[(iii) has an enduring power of attorney that is the subject of a notification that has been accepted by the Director under *section 71C*, or an enduring power under the Act of 1996 that has been registered, in respect of himself or herself, or]
+
+(iv) becomes the subject of a declaration under *section 37(1)*,
+
+the decision-making representative shall be disqualified from being a decision-making representative for the relevant person with effect from the date on which the decision-making representative falls within any of *paragraphs (a)* to *(h)*.
+
+(5) *Subsections (4)(c)*, *(d)* and *(e)* shall not apply to a decision-making representative insofar as he or she exercises functions under the decision-making representation order in relation to the personal welfare of the relevant person.
+
+(6) Where a decision-making representative becomes disqualified under this section, he or she or, in the case of disqualification pursuant to *subsection (4)(h)(iii)* or *(iv)*, his or her attorney, decision-making representative or the court, as the case may be, shall notify the Director of such disqualification and the particulars relating thereto.
+
+(7) Where a decision-making representative becomes disqualified, a relevant decision made solely by him or her after his or her disqualification shall be null and void.
+
+(8) *Subsection (7)* shall not operate to prevent a person who relied on a relevant decision referred to in that subsection from recovering damages in respect of any loss incurred by him or her as a result of that reliance.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 33(a), (b), S.I. No. 194 of 2023.
+
+#### 41. Performance of functions of decision-making representative
+
+**41.** (1) In exercising his or her functions as specified in the decision-making representation order, a decision-making representative shall, insofar as this is possible, ascertain the will and preferences of the relevant person on a matter the subject of, or to be the subject of, a relevant decision and assist the relevant person with communicating such will and preferences.
+
+(2) A decision-making representative shall make a relevant decision on behalf of the relevant person and shall act as the agent of the relevant person in relation to a relevant decision.
+
+F55[(3) Notwithstanding *subsection (2)*, a decision-making representative appointed in circumstances where *section 38(1)(a)* or *section 55(4)* applies shall ensure, in so far as is practicable, that he or she jointly makes decisions with the relevant person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 34, S.I. No. 194 of 2023.
+
+#### 42. Remuneration and expenses
+
+**42.** (1) Except where the court otherwise orders, a decision-making representative for a relevant person shall be entitled to be reimbursed out of the assets of the relevant person in respect of his or her fair and reasonable F56[expenses as may be approved by the Director or otherwise provided for by way of regulations made by the Minister after consultation with the Director and with the consent of the Minister for Public Expenditure and Reform, and] which are reasonably incurred in performing his or her functions as such decision-making representative.
+
+(2) Where the court so directs in a decision-making representation order, the decision-making representative shall be entitled to F56[reasonable remuneration in accordance with regulations made under *subsection (4)*] in relation to the performance of his or her functions as such decision-making representative and which functions are carried out in connection with his or her trade or profession, or in other exceptional circumstances specified in the order, and such remuneration shall be paid from the assets of the relevant person.
+
+F57[(3) Subject to *subsection (4)*, where a decision-making representative is appointed by the court in the circumstances to which *section 38(7)* applies and—
+
+(a) the court makes an order to which *subsection (1)* refers that the decision-making representative shall not be entitled to be reimbursed out of the assets of the relevant person in respect of his or her fair and reasonable expenses reasonably incurred in performing his or her functions,
+
+(b) the court has not made a direction under *subsection (2)*, or
+
+(c) where *paragraph (a)* or *(b)* does not apply, but the assets of the relevant person are insufficient to pay the relevant reimbursement or remuneration, as the case may be,
+
+the Director may—
+
+(i) reimburse the decision-making representative in respect of his or her fair and reasonable expenses reasonably incurred in performing his or her functions as decision-making representative, or
+
+(ii) pay such reasonable remuneration to the decision-making representative in relation to the performance of his or her functions as decision-making representative and which functions are carried out in connection with his or her trade or profession, or in other exceptional circumstances specified by the Director.
+
+(4) The reimbursement of fair and reasonable expenses referred to in *subsection (3)(i)* and the payment of reasonable remuneration referred to in *subsections (2)* and *(3)(ii)*—
+
+(a) shall be calculated in accordance with the methodology and any limits specified in, and
+
+(b) shall be paid subject to such conditions as may be prescribed by,
+
+regulations made by the Minister after consultation with the Director and with the consent of the Minister for Public Expenditure and Reform, and such regulations may also make provision for the circumstances in which the Director may authorise the reimbursement or payment, as the case may be, of expenses or remuneration in excess of the calculations or limits provided for in accordance with *paragraph (a)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 35(a), (b), S.I. No. 194 of 2023.
+>
+> F57: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 35(c), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Payment of Certain Expenses and Remuneration to Decision-Making Representatives) Regulations 2023* (S.I. No. 203 of 2023).
+
+#### 43. Scope of decision-making order or decision-making representation order relating to property and affairs
+
+**43.** (1) A decision-making representative may not dispose of the property of the relevant person by way of gift unless specific provision to that effect is made by the court in the decision-making representation order.
+
+(2) Subject to *section 44*, if a decision-making representative for a relevant person is empowered by the decision-making representation order appointing him or her as such decision-making representative to dispose of the relevant person’s property by way of gift, then, without the specific approval of the court, the power to make such a gift shall be limited to—
+
+(a) gifts made on customary occasions to persons (including the decision-making representative) who are related or connected to the relevant person and in relation to whom the relevant person might be expected to make gifts, and
+
+(b) gifts to any charity to which the relevant person made or might reasonably be expected to make gifts,
+
+provided that the value of the gift is reasonable having regard to all the circumstances and in particular the extent of the relevant person’s assets and financial obligations.
+
+(3) F58[...]
+
+(4) F58[...]
+
+(5) F58[...]
+
+(6) A decision-making representation order may provide for the giving of such security by the decision-making representative to the court as the court considers appropriate in relation to the proper performance of the functions of such decision-making representative.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 36, S.I. No. 194 of 2023.
+
+#### 44. Restrictions on decision-making representatives
+
+**44.** (1) Nothing in this Part shall permit a decision-making representative for a relevant person to be given the power to prohibit a particular person from having contact with the relevant person.
+
+(2) A decision-making representative for a relevant person shall not have authority to make decisions on behalf of a relevant person other than those specified in the decision-making representation order.
+
+(3) A decision-making representative for a relevant person shall not, without the express approval of the court—
+
+(a) exercise any powers in relation to the settlement of any part of the property of the relevant person, whether for the relevant person’s benefit or for the benefit of others, or
+
+(b) exercise any power (including the power to consent) vested in the relevant person, whether beneficially or as trustee or otherwise.
+
+(4) Subject to the terms of any advance healthcare directive made by the relevant person and subject to relevant powers exercisable by any designated healthcare representative appointed under the directive, a decision-making representative for a relevant person shall not refuse consent to the carrying out or continuation of life-sustaining treatment or consent to the withdrawal of life-sustaining treatment for the relevant person.
+
+(5) F59[...]
+
+(6) F59[...]
+
+(7) F59[...]
+
+(8) F59[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 37, S.I. No. 194 of 2023.
+
+#### 45. Register of decision-making representation orders
+
+**45.** (1) The Director shall establish and maintain a Register (in this Part referred to as “the Register”) of decision-making representation orders.
+
+(2) The Register shall be in such form as the Director considers appropriate.
+
+(3) F60[The Director shall make such details of the Register as he or she shall specify] available for inspection by—
+
+(a) a body or class of persons prescribed by regulations made by the Minister for this purpose, and
+
+(b) a person who satisfies the Director that he or she has a legitimate interest in F60[inspecting those details of the Register].
+
+(4) The Director may issue an authenticated copy of a decision-making representation order, F60[or part thereof, or, where applicable, any variations to the order or part thereof,] on the Register on payment of a fee prescribed by regulations made by the Minister to—
+
+(a) a body or class of persons prescribed by regulations made by the Minister for this purpose, and
+
+(b) a person who satisfies the Director that he or she has a legitimate interest in obtaining a copy.
+
+F61[(5) An authenticated copy of a decision-making representation order or part thereof, or, where applicable, any variations to the order or part thereof, that is issued by the Director under *subsection (4)* and stamped by the Director with a time and date stamp (which may be by automated means), shall be evidence of the contents of the order or part thereof, or where applicable, of any variations to the order or part thereof, as at the date and time indicated on the stamp.
+
+(6) The Director shall keep a record of any body or person that has inspected the Register or received an authenticated copy of a decision-making representation order, or part thereof, or where applicable, of any variations to the order or part thereof, from him or her.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 38(a)(i), (ii), (b), S.I. No. 194 of 2023.
+>
+> F61: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 38(c),S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E23: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Inspection of Registers and Receipt of Copies of Documents) Regulations 2023* (S.I. No. 206 of 2023).
+>
+> E24: Power pursuant to subs. (4) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Fees) Regulations 2023* (S.I. No. 202 of 2023).
+
+#### 46. Reports by decision-making representative
+
+**46.** (1) Subject to *subsection (2)*, a decision-making representative shall, within 12 months after the making of the decision-making representation order appointing him or her, and thereafter at intervals of not more than 12 months, prepare and submit to the Director a report in writing as to the performance of his or her functions as such decision-making representative during the relevant period.
+
+(2) The court may direct that a report be submitted to the Director within such shorter period or within such shorter intervals than those specified in *subsection (1)*.
+
+(3) Every such report submitted to the Director shall be in such form as may be F62[specified by the Director, with the consent of the Minister,] and shall include details of all transactions relating to the relevant person’s finances which are within the scope of the decision-making representation order and details of all costs, expenses and remuneration claimed by or paid to the decision-making representative during the relevant period.
+
+(4) F63[...]
+
+(5) Where a decision-making representation order authorises a decision-making representative to make decisions in relation to a relevant person’s property and affairs, the decision-making representative shall within 3 months of his or her appointment as decision-making representative, submit to the Director a schedule of the relevant person’s assets and liabilities and a projected statement of the relevant person’s income and expenditure.
+
+(6) Where a decision-making representation order authorises a decision-making representative to make decisions in relation to a relevant person’s property and affairs, the decision-making representative shall keep proper accounts and financial records in respect of the relevant person’s income and expenditure and shall—
+
+(a) submit the accounts and records as part of a report to the Director under this section, and
+
+(b) make available for inspection by the F62[Director, by a general visitor] or by a special visitor, at any reasonable time, such accounts and records.
+
+(7) Where a decision-making representative fails to submit a report in accordance with this section or submits an incomplete report or fails to comply with *subsection (5)* or *(6)*, the Director shall notify the decision-making representative of that failure or incompleteness and give the decision-making representative such period of time as is specified in the notification to comply or submit a complete report.
+
+(8) Where a decision-making representative fails to comply with a notification under *subsection (7)*, the Director shall—
+
+(a) in the case of the submission of an incomplete report and following any necessary enquiries to satisfy himself or herself that the report is substantially in accordance with this section and F62[specifications made by the Director under *subsection (3)*], accept the report as if it were in compliance with this section and the F62[relevant specifications], or
+
+(b) make an application to the court for a determination as to whether the decision-making representative should continue as decision-making representative for the relevant person.
+
+(9) Pursuant to an application to it under *subsection (8)(b)*, the court may determine that a decision-making representative who has not complied with this section shall no longer act as decision-making representative for the relevant person concerned.
+
+(10) In this section “relevant period” means the period of time to which the report relates which shall be the period of time between the date of the decision-making representation order or the date of submission of the previous report, as the case may be, and the date immediately preceding the date of submission of the report concerned.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 39(a), (c), (d)(i), (ii), S.I. No. 194 of 2023.
+>
+> F63: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 39(b), S.I. No. 194 of 2023.
+
+#### 47. Complaints in relation to decision-making representatives
+
+**47.** (1) A person may make a complaint in writing to the Director concerning F64[one or both of] the following matters:
+
+(a) that a decision-making representative has acted, is acting, or is proposing to act outside F64[the scope of, or in breach of,] his or her functions as specified in the decision-making representation F64[order, or in breach of this Act];
+
+(b) that a decision-making representative is not suitable, having regard to the matters referred to in *section 38(5)*, to be a decision-making representative.
+
+F70[(1A) Following the receipt of a complaint under *subsection (1)* the Director shall carry out such review or investigation of the matter the subject of the complaint as he or she considers appropriate and shall, subject to *subsection (1B)*, form a view as to whether or not the complaint is well founded not later than 3 months after the date of his or her receipt of the complaint (in this section referred to as the "initial investigation period").
+
+(1B) The Director may, before the date of expiry of the initial investigation period, extend the duration of his or her investigation by a period of up to 6 months from that date by sending written notice to the complainant, the person who is the subject of the complaint and the relevant person concerned giving reasons for the extension.]
+
+(2) F64[The Director shall, as soon as is practicable after having formed a view under *subsection (1A)*] and—
+
+(a) where he or she is of the view that the complaint is well founded, make an application to the court for a determination in relation to a matter specified in the F65[complaint,]
+
+F71[(aa) notwithstanding *paragraph (a)*, where he or she is of the view that the complaint is well founded and that—
+
+(i) the provision of clarification by him or her to the decision-making representative regarding the role of the decision-making representative would be an appropriate resolution, or
+
+(ii) the subject matter of the complaint could be appropriately resolved under *section 96(4)*,
+
+the Director may, not later than 3 months after having formed a view under *subsection (1A)*, provide the clarification referred to in *subparagraph (i)*, or proceed to resolve the complaint as soon as possible under *section 96(4)*, as the case may be, and]
+
+(b) where he or she is of the view that the complaint is not well founded, notify the person who made the complaint of that view and provide reasons for same.
+
+(3) A person who receives a notification under *subsection (2)(b)* may, not later than F66[3 months] after the date of issue of the notification, appeal a decision of the Director that the complaint is not well founded to the court.
+
+(4) The Director may, notwithstanding that no complaint has been received, on his or her own initiative carry out an F67[investigation, to which this section shall, with any necessary modifications, apply].
+
+F72[(4A) Where *subsection (2)(aa)* applies and the Director has provided the clarification referred to in *subparagraph (i)* of that subsection or has resolved the complaint under *section 96(4)* as referred to in *subparagraph (ii)* of that subsection, the Director may—
+
+(a) request further information regarding the outcome of the clarification or resolution, as the case may be, or
+
+(b) request confirmation that the complaint has been resolved,
+
+from the complainant, the person who is the subject of the complaint or the relevant person, as the Director considers appropriate.
+
+(4B) If the Director is not satisfied, following the receipt of the information or confirmation referred to in *subsection (4A)*, that the clarification or resolution referred to in that subsection has satisfactorily resolved the complaint, the Director may make an application to the court in accordance with *subsection (2)(a)* or may take such other steps as he or she considers appropriate in order to resolve the complaint.]
+
+(5) The court may—
+
+(a) pursuant to an application to it under *subsection (2)(a)* F74[...], or
+
+(b) pursuant to an appeal under F68[*subsection (3)* or *(7)(b)*],
+
+make a determination in relation to a matter specified in *subsection (1)* and may, if it considers it appropriate, determine that a decision-making representative shall no longer act as such in relation to the relevant person F69[concerned, and that the Register shall be amended accordingly].
+
+F73[(6) The Director shall, in accordance with this section, investigate a complaint under *subsection (1)* unless in his or her opinion there has been undue delay in making the complaint.
+
+(7) A decision by the Director under *subsection (6)* not to investigate a complaint—
+
+(a) shall be in writing, shall contain the reasons for the decision and shall be sent to the complainant as soon as possible after it is made, and
+
+(b) may be appealed by the complainant to the court not later than 3 months after the date of receipt by the complainant of the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64, F65, F66, F67, F68, F69: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 40(a)(i), (ii), (c)(i), (ii), (d) (e), (g)(ii), (iii), S.I. No. 194 of 2023.
+>
+> F70, F71, F72, F73: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 40(b), (c)(iii), (f), (h), S.I. No. 194 of 2023.
+>
+> F74: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 40(g)(i), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E25: Records relating to an investigation under section that has been or is being carried out by the Director of the Decision Support Service, or a person delegated under s. 98(2), are excluded from application of Freedom of Information Act 2014 by *Freedom of Information Act 2014* (30/2014), s. 42(eb), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 104, S.I. No. 194 of 2023.
+
+### Chapter 5Interim orders, reviews and expert reports — Chapter 5 — Interim orders, reviews and expert reports
+
+#### 48. Interim orders
+
+**48.** (1) Where an application under this Part has been brought before the court but not determined, the court may make an interim order in relation to the relevant person the subject of the application if—
+
+(a) the matter to which the order relates is one in respect of which the court may make an order under this Part,
+
+(b) the court has reason to believe that the relevant person lacks capacity in relation to the matter, and
+
+(c) in the opinion of the court, it is in the interests of the relevant person to make the order without delay.
+
+(2) An order under this section shall—
+
+(a) limit the period of time for which the order shall have effect, and
+
+(b) limit the operation of the order to matters specified in the order,
+
+but the court may renew the order if it considers that it is in the interests of the relevant person to do so.
+
+(3) The court may vary or revoke an order made under this section, whether of its own motion or pursuant to an application to it by a person entitled by virtue of *section 36* to make the application.
+
+(4) This section shall, with all necessary modifications, apply to a direction which the court may give under this Part as it applies to an order which it may make under this Part.
+
+#### 49. Review of declaration as respects capacity
+
+**49.** (1) Where the court makes a declaration under *section 37(1)*, an application for a review of the declaration may be made to the court at any time by the relevant person or, with the consent of the court, by any of the persons referred to in any of *paragraphs (b)* to *(i)* of *section 36(4)*.
+
+(2) Notwithstanding *subsection (1)*, the court shall in every case review a declaration under *section 37(1)* at intervals specified by the court when making the declaration but in every such case at intervals of—
+
+(a) subject to *paragraph (b)*, not more than 12 months,
+
+(b) not more than 3 years if the court is satisfied that the relevant person is unlikely to recover his or her capacity.
+
+(3) The periods of 12 months and 3 years referred to in *subsection (2)* shall run from the date on which the court made or last reviewed, as appropriate, the declaration referred to in that subsection.
+
+(4) (a) Where, having reviewed the capacity of a relevant person, the court is satisfied that the relevant person no longer lacks capacity to make one or more than one relevant decision, the court shall—
+
+(i) make an order revoking or amending, as appropriate, the declaration concerned under *section 37(1)*,
+
+(ii) make an order varying or discharging, as appropriate, a decision-making order or decision-making representation order of which the relevant person is the subject, and
+
+(iii) give such directions as it thinks appropriate for the order or orders to have full effect.
+
+(b) Where, having reviewed the capacity of a relevant person, the court is satisfied that the relevant person continues to lack capacity to make one or more than one relevant decision, the court shall make an order confirming the declaration concerned under *section 37(1)*.
+
+(5) This section shall not apply where the reason why the application to the court under this Part seeking a declaration under *section 37(1)* relating to capacity in respect of the relevant person the subject of the application was made is no longer of relevance.
+
+#### 50. Expert reports
+
+**50.** (1) In considering any application under this Part for a declaration, order or review, the court shall have all such powers as are necessary to assist it in making a decision.
+
+(2) For the purposes of an application referred to in *subsection (1)*, the court may direct that such reports as the court considers necessary be furnished to it, including—
+
+(a) medical reports relating to the relevant person the subject of the application F75[...],
+
+(b) reports relating to the circumstances of the relevant person (including financial reports and valuations of property in which the relevant person has an interest), and
+
+(c) reports from healthcare professionals, or other relevant experts, relating to the relevant person.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F75: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 41, S.I. No. 194 of 2023.
+
+### Chapter 6Notification of Director of the Decision Support Service of declarations, etc., under this Part — Chapter 6 — Notification of Director of the Decision Support Service of declarations, etc., under this Part
+
+#### 51. Notification of Director of the Decision Support Service
+
+**51.** Where the court makes a declaration or an order under this Part, or gives a direction under this Part, the registrar of the court making the declaration or order, or giving the direction, shall in each case furnish a copy of the declaration or order, or the direction, as the case may be, to the Director as soon as is practicable after the declaration or order is made or the direction is given.
+
+### Chapter 7Legal aid in respect of applications under this Part — Chapter 7 — Legal aid in respect of applications under this Part
+
+#### 52. Amendment of Act of 1995
+
+**52.** The Act of 1995 is amended—
+
+(a) in section 1 by inserting the following definition:
+
+“ ‘relevant person’ has the meaning it has in the *Assisted Decision-Making (Capacity) Act 2015*;”,
+
+(b) in section 26(3) —
+
+(i) in paragraph (a), by substituting “has already been given,” for “has already been given, and”,
+
+(ii) in paragraph (b), by substituting “section 28(9)(c), F76[...]” for “section 28(9)(c).”, and
+
+(iii) by inserting, after paragraph (b), the following:
+
+“(c) a party to an application under *Part 5* of the *Assisted Decision-Making (Capacity) Act 2015* shall qualify for legal F77[advice, and]”,
+
+(c) in section 28 by inserting after subsection (3) the following:
+
+“(3A) Where the proceedings the subject matter of the application under this section concern an application under *Part 5* of the *Assisted Decision-Making (Capacity) Act 2015* relating to the matter referred to in *section 37(1)* of that Act—
+
+(a) paragraphs (c) and (e) of subsection (2) shall not apply, and
+
+(b) where the applicant is a relevant person, paragraph (a) shall not apply.”,
+
+(d) in section 28(5) —
+
+(i) in paragraph (d) by deleting “aid.” and substituting “aid, and”, and
+
+(ii) by inserting after paragraph (d) the following:
+
+“(e) who is a patient, within the meaning of the Mental Health Act 2001, for the purpose of providing that person with legal representation before a tribunal in proceedings under that Act.”,
+
+(e) in section 33, by inserting after subsection (7) the following:
+
+“(7A) Where a legal aid certificate has been granted to an applicant who is a relevant person who does not satisfy the criteria in respect of financial eligibility specified in section 29, the Board may seek to recover some or all of the costs of providing the legal aid to the relevant person concerned.”,
+
+and
+
+(f) in section 37(2), by inserting after paragraph (fb) the following:
+
+“(fc) make provision for the mechanism for recovery of the costs referred to in section 33(7A);”.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 42(a),S.I. No. 194 of 2023.
+>
+> F77: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 42(b), S.I. No. 194 of 2023.
+
+## PART 6Wards — PART 6 — Wards
+
+### 53. Definitions — Part 6
+
+**53.** In this Part—
+
+“ward” means a relevant person in the wardship of a wardship court;
+
+“wardship court” means the High Court or Circuit Court exercising its jurisdiction under this Part and, in relation to a ward, means that court which made the order by virtue of which the ward is a ward.
+
+### 54. Review of capacity of wards who are adults
+
+**54.** F78[(1) An application for a declaration under *section 55(1)* in respect of a ward who has attained the age of 18 years by the date of commencement of this Part may be made to the wardship court at any time—
+
+(a) by the ward,
+
+(b) by the committee of the ward, or
+
+(c) with the consent of the wardship court, by—
+
+(i) a relative or friend of the ward who has had such personal contact with the ward over such period of time that a relationship of trust exists between them, or
+
+(ii) such other person as appears to the wardship court to have a sufficient interest in, or expertise in relation to, the welfare of the ward.]
+
+(2) Notwithstanding *subsection (1)*, the wardship court shall, within 3 years from the date of commencement of this Part, make a declaration under *section 55(1)* in respect of a ward who—
+
+(a) F79[is 18 years or older] by that date, or
+
+(b) reaches the age of 18 years within 2 years and 6 months from that date.
+
+F80[(2A) In any matter before the wardship court under *subsection (1)* or *(2)*—
+
+(a) the wardship court may, in relation to that matter, extend the time period specified in *subsection (2)* for a declaration under *section 55(1)* where the wardship court is satisfied that—
+
+(i) good reason has been shown as to why that time period will not be met, and
+
+(ii) it is in the interests of justice to do so, and, where the court so extends the time period, *subsection (2)* shall thereafter be construed accordingly in relation to that matter,
+
+(b) the time period of any extension granted under *paragraph (a)* shall, subject to *paragraph (g)*, be such period as the wardship court considers necessary and proportionate in the circumstances of the case,
+
+(c) the wardship court may extend the time period granted under *paragraph (a)* where the wardship court is satisfied that—
+
+(i) exceptional circumstances have been shown as to why a further extension of time will be required, and
+
+(ii) it is in the interests of justice to do so, and, where the court so extends the time period, *subsection (2)* shall thereafter be construed accordingly in relation to that matter,
+
+(d) the time period of any extension granted under *paragraph (c)* shall, subject to *paragraph (g)*, be such further period as the wardship court considers necessary and proportionate in the circumstances of the case,
+
+(e) the wardship court may discharge, or, subject to this subsection, vary on such terms as it considers fit, any order made under *paragraph (a)* or *(c)* at any stage,
+
+(f) where the ward has not participated in the making of an order under this subsection, he or she shall be notified of the making of any such order as soon as practicable after its making, and
+
+(g) any extensions of time granted in respect of any matter by the wardship court pursuant to this subsection shall not exceed an overall time period of 18 months or extend beyond 25 October 2027, whichever is the earlier.]
+
+(3) Where a ward reaches the age of 18 years after the period specified in *subsection (2)(b)*, the wardship court shall, within 6 months of the ward reaching that age, make a declaration under *section 55(1)* in respect of the ward.
+
+F81[(3A) In any matter before the wardship court under *subsection (3)*—
+
+(a) the wardship court may, in relation to that matter, extend the time period specified in *subsection (3)* for a declaration under *section 55(1)* where the wardship court is satisfied that—
+
+(i) good reason has been shown as to why that time period will not be met, and
+
+(ii) it is in the interests of justice to do so, and, where the court so extends the time period, *subsection (3)* shall thereafter be construed accordingly in relation to that matter,
+
+(b) the time period of any extension granted under *paragraph (a)* shall, subject to *paragraph (g)*, be such period as the wardship court considers necessary and proportionate in the circumstances of the case,
+
+(c) the wardship court may extend the time period granted under *paragraph (a)* where the wardship court is satisfied that—
+
+(i) exceptional circumstances have been shown as to why a further extension of time will be required, and
+
+(ii) it is in the interests of justice to do so, and, where the court so extends the time period, *subsection (3)* shall thereafter be construed accordingly in relation to that matter,
+
+(d) the time period of any extension granted under *paragraph (c)* shall, subject to *paragraph (g)*, be such further period as the wardship court considers necessary and proportionate in the circumstances of the case,
+
+(e) the wardship court may discharge, or, subject to this subsection, vary on such terms as it considers fit, any order made under *paragraph (a)* or *(c)* at any stage,
+
+(f) where the ward has not participated in the making of an order under this subsection, he or she shall be notified of the making of any such order as soon as practicable after its making, and
+
+(g) any extensions of time granted in respect of any matter by the wardship court pursuant to this subsection shall not exceed an overall time period of 18 months.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78, F79: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 43(a), (b), S.I. No. 194 of 2023.
+>
+> F80, F81: Inserted (31.03.2026) by *Assisted Decision-Making (Capacity) (Amendment) Act 2026* (8/2026), s. 1(a), (b), commenced on enactment.
+
+### 54A. Assistance to ward during proceedings
+
+F82[**54A.** F83[(1) ...
+
+(2) ...]
+
+(3) Proceedings under *section 54* shall be conducted with the least amount of formality consistent with the proper administration of justice.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F82: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 44, S.I. No. 194 of 2023.
+>
+> F83: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 44, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subss. (1), (2) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 44, not commenced as of date of revision.
+>
+> F83[**54A.** (1) The wardship court, on application being made to it under *section 54(1)*, or in proceedings pursuant to *section 54(2)* or *54(3)*, may allow the ward, if he or she has not instructed a legal practitioner, and subject to *section 100(13)*, to be assisted in court by a court friend for the ward unless, subject to *sections 100(14)* and *103(15A)*, there is another person (in this section referred to as a "court assistant") in respect of whom the court, having regard to the known will and preferences of the ward, is satisfied that such person is suitable, willing and able to assist the ward during the course of the hearing.
+>
+> (2) Where, on an application being made to the wardship court under *section 54(1)*, or in proceedings pursuant to *section 54(2)* or *54(3)*—
+>
+> (a) the ward the subject of the application or proceedings has not instructed a legal practitioner,
+>
+> (b) there is no court friend for the ward, and
+>
+> (c) there is no court assistant in respect of the ward,
+>
+> the wardship court may direct the Director to appoint a court friend for the ward.]
+
+### 55. Declarations following review and discharge from wardship
+
+**55.** (1) The wardship court, on an application being made to it under *section 54(1)*,or pursuant to *section 54(2)* or *(3)*, shall—
+
+(a) declare that the ward does not lack capacity, or
+
+(b) make one or more than one of the following declarations:
+
+(i) that the ward lacks capacity, unless the assistance of a suitable person as a co-decision-maker is made available to him or her, to make one or more than one decision;
+
+(ii) that the ward lacks capacity, even if the assistance of a suitable person as a co-decision-maker were made available to him or her.
+
+(2) Where the wardship court makes a declaration pursuant to *subsection (1)(a)*, it shall immediately discharge the ward from wardship and shall order that the property of the F84[person the subject of the declaration be] returned to him or her and give such directions as it thinks appropriate having regard both to the discharge and the circumstances of F85[that person.]
+
+(3) Where the wardship court makes a declaration pursuant to *subsection (1)(b)(i)*, it shall, on registration of a co-decision-making agreement, discharge the ward from wardship and shall order that the property of the F86[person the subject of the declaration be] returned to him or her and give such directions as it thinks appropriate having regard both to the discharge and the circumstances of the F87[that person.]
+
+(4) Where the F88[wardship court makes] a declaration pursuant to *subsection (1)(b)(i)* but—
+
+(a) there is no suitable person to act as co-decision-maker for the F89[person the subject of the declaration after his or her discharge from wardship], or
+
+(b) a co-decision-making agreement in respect of the F90[person the subject of the declaration after his or her discharge from wardship] is not registered in accordance with *Part 4* within a period set down by the wardship court,
+
+the wardship court shall (subject to it allowing for any extension of the period set down by it)—
+
+(i) as if it had made a declaration under *subsection (1)(b)(ii)*, make F91[such orders and give such directions] under *Part 5* as it considers appropriate as if the wardship court were the court under *Part 5*, and
+
+F92[(ii) discharge the ward from wardship upon the appointment of a decision-making representative in respect of him or her, and
+
+(iii) order that the property of the person the subject of the discharge under *paragraph (ii)* be returned to him or her upon the appointment of a decision-making representative in respect of him or her.]
+
+(5) Where the wardship court makes a declaration pursuant to *subsection (1)(b)(ii)*, it shall—
+
+(a) make F93[such orders and give such directions] as it considers appropriate under *Part 5* as if the wardship court were the court under *Part 5*, and
+
+F94[(b) discharge the ward from wardship upon the appointment of a decision-making representative in respect of him or her, and]
+
+F95[(c) order that the property of the person the subject of the discharge from wardship under *paragraph (b)* be returned to him or her upon the appointment of a decision-making representative in respect of him or her.]
+
+F95[(6) Where the wardship court is making an order or giving a direction under *Part 5*, to which *subsection (4)(i)* or *subsection (5)(a)* refers, *subsections (4)* to *(12)* and *subsection (14)* of *section 38* shall apply with any necessary modifications, and as if the ward, or the person the subject of a discharge from wardship under *subsection (4)(ii)* or *(5)(b)*, as the case may be, were a relevant person.
+
+(7) *Sections 39* to *44* and *sections 46* and *47* shall apply to decision-making representatives appointed, or to be appointed, by a wardship court under *Part 5* as they apply to decision-making representatives appointed, or to be appointed, by a court under *Part 5*.
+
+(8) A reference in *section 45* to a decision-making representation order includes a reference to a decision-making representation order made by a wardship court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84, F85, F86, F87, F88, F89, F90, F91, F92, F93, F94: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 45(a)(i), (ii), (b)(i), (ii), (c)(i)-(v), (d)(i), (ii), S.I. No. 194 of 2023.
+>
+> F95: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 45(d)(ii), (e), S.I. No. 194 of 2023.
+
+### 55A. Review of declaration by wardship court as respects capacity
+
+F96[**55A.** (1) Where the wardship court makes a declaration under *section 55(1)(b)*, the wardship court shall make an order that the capacity of the person the subject of the declaration be reviewed by the court—
+
+(a) subject to *paragraph (b)*, not later than 12 months from the date on which the wardship court made the declaration, or
+
+(b) not later than 3 years from the date on which the wardship court made the declaration if the wardship court is satisfied that the person is unlikely to recover his or her capacity,
+
+and *section 49(4)* shall apply in respect of the review as it applies to the review of a declaration by a court under *section 37(1)*, with the following modifications:
+
+(i) a reference in *section 49(4)* to the declaration made by the court under *section 37(1)* shall be read as a reference to the declaration made by the wardship court under *section 55(1)(b)*;
+
+(ii) a reference in *section 49* to the relevant person shall be read as a reference to the person the subject of the declaration of the wardship court under *section 55(1)(b)*.
+
+(2) After the review referred to in *subsection (1)* has taken place, *section 49* shall thereafter apply to the declaration by the wardship court under *section 55(1)(b)* as it applies to a declaration by a court under *section 37(1)*, with the following modifications:
+
+(a) a reference in *section 49* to a declaration made by the court under *section 37(1)* shall be read as a reference to a declaration made by the wardship court under *section 55(1)(b)*;
+
+(b) a reference in *section 49* to a relevant person shall be read as a reference to the person the subject of the declaration of the wardship court under *section 55(1)(b)*;
+
+(c) a reference in *section 49(1)* to any of the persons referred to in any of *paragraphs (b)* to *(i)* of *section 36(4)* shall be read as a reference to any person who has attained the age of 18 years and who has a bona fide interest in the welfare of the person the subject of the declaration of the wardship court under *section 55(1)(b)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 46, S.I. No. 194 of 2023.
+
+### 56. Saver
+
+**56.** (1) The repeal of the Lunacy Regulation (Ireland) Act 1871 by *section 7* shall not affect the validity of any order—
+
+(a) made by the wardship court within its jurisdiction, and
+
+(b) which was in force immediately before the commencement of this Part.
+
+(2) Pending a declaration under *section 55(1)*, the jurisdiction of the wardship court as set out in sections 9 and 22(2) of the Courts (Supplemental Provisions) Act 1961 shall continue to apply.
+
+F97[(3) Notwithstanding its repeal by *section 7(2)*, the Lunacy Regulation (Ireland) Act 1871 shall remain in force on and after the date of the coming into operation of this Part with regard to any proceedings in being on that date that were initiated under that Act before that date.
+
+(4) *Subsections (1)* and *(2)* shall apply to the proceedings referred to in *subsection (3)*, or to an order made in such proceedings, as they apply to an order made before the coming into operation of this Part.
+
+(5) When, in proceedings referred to in *subsection (3)*, the wardship court makes an order by virtue of which a person becomes a ward, it may in those proceedings and notwithstanding *section 54*, also make a declaration under *section 55(1)* in respect of the ward and the relevant provisions of the said *section 55* shall then apply accordingly.
+
+(6) Nothing in this section shall prevent—
+
+(a) the appointment of a decision-making assistant under *section 10* by,
+
+(b) the appointment of a co-decision-maker under *section 17* by,
+
+(c) an application to the court under *Part 5* in respect of,
+
+(d) the registration of an enduring power under the Act of 1996 under *section 10* of that Act that was executed by, or
+
+(e) the registration of an enduring power under the Act of 1996, in accordance with regulations made under *section 81(1A)(b)*, that was executed by,
+
+a person the subject of proceedings referred to in *subsection (3)*.
+
+(7) Where—
+
+(a) an appointment referred to in *subsection (6)(b)* is made,
+
+(b) a person is appointed as a decision-making representative pursuant to an application under *Part 5* referred to in *subsection (6)(c)*,
+
+(c) an enduring power under the Act of 1996 is registered as referred to in *paragraphs (d)* or *(e)* of *subsection (6)*,
+
+the proceedings referred to in *subsection (3)* shall be withdrawn as soon as practicable.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 47, S.I. No. 194 of 2023.
+
+### 57. Director and wards who are adults
+
+**57.** F98[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(a), S.I. No. 194 of 2023.
+
+### 57A. Amendment of Act of 1995 regarding Part 6
+
+F99[**57A.** The Act of 1995 is amended—
+
+(a) in section 1(1)—
+
+(i) in the definition of "staff of the Board", by the substitution of "Board;" for "Board.", and
+
+(ii) by the insertion of the following definition: "'ward' has the meaning it has in Part 6 of the Assisted Decision-Making (Capacity) Act 2015.",
+
+(b) in section 26(3), by the insertion of the following paragraph:
+
+"(d) a party to an application, or to any other proceedings, under Part 6 of the Assisted Decision-Making (Capacity) Act 2015 shall qualify for legal advice.",
+
+(c) in section 28, by the insertion of the following subsection after subsection (3A) (inserted by section 52(c) of this Act):
+
+"(3B) Where the proceedings the subject matter of the application under this section concern an application under subsection (1), or proceedings pursuant to subsection (2) or (3), of section 54 of the Assisted Decision-Making (Capacity) Act 2015 —
+
+(a) paragraphs (c) and (e) of subsection (2) shall not apply, and
+
+(b) where the applicant is a ward, paragraph (a) shall not apply.",
+
+(d) in section 33, by the insertion of the following subsection after subsection (7A) (inserted by section 52(e) of this Act):
+
+"(7B) Where a legal aid certificate has been granted to an applicant who is a ward who does not satisfy the criteria in respect of financial eligibility specified in section 29, the Board may seek to recover some or all of the costs of providing the legal aid to the ward concerned.",
+
+and
+
+(e) in section 37(2), by the insertion of the following paragraph after paragraph (fc) (inserted by section 52(f) of this Act):
+
+"(fd) make provision for the mechanism for recovery of the costs referred to in section 33(7B);".]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F99: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+
+## PART 7Enduring Powers of Attorney — PART 7 — Enduring Powers of Attorney
+
+### 58. Interpretation — Part 7
+
+**58.** (1) In this Part—
+
+“disqualified”, in relation to an attorney, means the attorney becomes a person referred to in *section 66* or a person that the court determines under this Part shall no longer act as attorney for the donor concerned;
+
+“donor” has the meaning given to it in *section 59(1)*;
+
+“donor under the Act of 1996” means a person who has created an enduring power under the Act of 1996;
+
+“prescribed” means prescribed by regulations made by the Minister under *section 79*;
+
+F100[“trust corporation” has the same meaning as it has in paragraph (b) of the definition of "trust corporation" in section 30(4) of the Succession Act 1965.]
+
+(2) In this Part “person”, in relation to an attorney, includes a trust corporation but only to the extent that the authority conferred under the enduring power of attorney relates to property and affairs.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F100: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 49, S.I. No. 194 of 2023.
+
+### 58A. Provisions regarding trust corporations
+
+F101[**58A.** (1) The Director shall, with the consent of the Minister, specify from time to time the procedural requirements that a trust corporation shall be required to fulfil—
+
+(a) on an application for registration of an instrument creating an enduring power of attorney in which the trust corporation is named as an attorney in order for the Director to be satisfied as to the suitability for appointment of the trust corporation as attorney, and
+
+(b) on a notification by an attorney under *section 71A*.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Director may, with the consent of the Minister, specify the following matters:
+
+(a) the information and documents that are to be provided by the trust corporation to the Director on an application for registration of an instrument creating an enduring power of attorney, which may include—
+
+(i) an affidavit, or a statement of truth within the meaning of section 21 of the Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020, that the trust corporation can lawfully act as such and an undertaking to notify the Director forthwith if this changes at any time throughout the duration of the appointment as attorney,
+
+(ii) information and supporting documents to demonstrate the internal management of the trust corporation and the supervision and controls operated by it, in particular with regard to—
+
+(I) the decision making process of the trust corporation,
+
+(II) the manner in which the trust corporation may hold a donor’s assets and funds, and
+
+(III) the manner in which those assets and funds may be paid out,
+
+(iii) the total amount of assets and funds of donors held by the trust corporation and the level of insurance cover that the trust corporation has and shall maintain in respect of loss, through dishonesty, breach of duty, negligence or any other cause, to the assets and funds, and
+
+(iv) information regarding any additional regulation to which that the trust corporation is and will be subject,
+
+(b) the information and documents required to be provided to demonstrate the identity and manner of authorisation of the persons authorised to carry out any or all of the actions referred to in *subsection (3)*, and
+
+(c) the information and documents to be provided to the Director on notification under *section 71A*, in particular regarding the authorisation of any further persons to whom *paragraph (b)* refers.
+
+(3) Any officer authorised for the purpose by a trust corporation or the directors or governing body thereof (in this section referred to as an "authorised officer") may, on behalf of the corporation, swear affidavits, give security and do any other act or thing which the Director or an enduring power of attorney may require, and the acts of an authorised officer shall be binding on the trust corporation.
+
+(4) The requirement in *section 59(1)* regarding the minimum age of an attorney shall not apply to a trust corporation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 50, S.I. No. 194 of 2023.
+
+### 58B. Liability of officers of trust corporation for offences
+
+F102[**58B.** (1) Where an offence under *section 80* or *section 145* has been committed by a trust corporation and the doing of the acts that constituted the offence has been authorised, or consented to, or connived in, by a person, being a director, manager, chief executive officer, secretary, or other similar officer of the trust corporation, or a person who purports to act in any such capacity, that person as well as the trust corporation shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where a person is proceeded against as aforesaid for such an offence and it is proved that, at the material time, he or she was a director of the trust corporation concerned or a person employed by it whose duties included making decisions that, to a significant extent, could have affected the management of the trust corporation, or a person who purported to act in any such capacity, it shall be presumed, until the contrary is proved, that that person consented to the doing of the acts by the trust corporation which constituted the commission by it of the offence concerned under *section 80* or *145*.
+
+(3) Where the affairs of a trust corporation are managed by its members, *subsections (1)* and *(2)* shall apply in relation to the acts or defaults of a member in connection with his or her functions of management as if he or she were a director of the trust corporation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 50, S.I. No. 194 of 2023.
+
+### 59. Enduring power of attorney — general
+
+**59.** (1) Subject to the provisions of this section and F103[*sections 58A, 60*] and *63*, a person who has attained the age of 18 years (in this Act referred to as “donor”) may appoint another person who has also attained that age (in this Act referred to as “attorney”) on whom he or she confers either or both of the following:
+
+(a) general authority to act on the donor’s behalf in relation to all or a specified part of the F104[donor’s personal welfare or property and affairs, or both;]
+
+(b) authority to do specified things on the donor’s behalf in relation to the donor’s personal welfare or property and affairs, or both;
+
+which may, in either case, be conferred subject to conditions and restrictions.
+
+(2) The authority referred to in *subsection (1)* shall be known as an enduring power of attorney and shall be conferred in writing in an instrument which is in compliance with F105[this Part, regulations made under *section 79* and specifications made by the Director under *section 79A*].
+
+(3) A donor may, in an enduring power of attorney, appoint a person who shall act as attorney for the donor in respect of the relevant decisions specified therein in the event that an attorney on whom authority is conferred dies or is unable to act or is disqualified from F106[acting as attorney, or resigns from his or her role as attorney].
+
+F107[(4) An enduring power of attorney shall not enter into force until—
+
+(a) the instrument creating the enduring power of attorney has been registered under *section 69*,
+
+(b) the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power,
+
+(c) the Director has been notified under *section 71A* of the matters in *paragraph (b)*, and
+
+(d) the Director accepts the notification under *section 71C*.]
+
+(5) Where an enduring power of attorney is expressed to confer general authority in respect of all or a specified part of the donor’s property and affairs, it operates to confer, subject to any restrictions provided in the power or in this Part, authority to do on behalf of the donor anything which the donor can lawfully do by attorney.
+
+F108[(5A) Where an enduring power of attorney confers authority under *paragraph (a)* or *(b)* of *subsection (1)* in relation to the personal welfare of the donor, this shall not authorise the attorney to consent to or refuse treatment for the donor.
+
+(5B) A donor shall not, in an enduring power of attorney, purport to give a power to the attorney to consent to or refuse treatment for the donor and any provision of a power of attorney relating to such purported power shall be null and void.]
+
+(6) A person is suitable for appointment as an attorney if he or she is able to perform the functions of attorney as specified in the enduring power of attorney.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103, F104, F105, F106, F107: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 51(a)(i), (ii), (b), (c), (d), S.I. No. 194 of 2023.
+>
+> F108: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 51(e), S.I. No. 194 of 2023.
+
+### 60. Content of instrument creating an enduring power of attorney
+
+**60.** (1) An instrument creating an enduring power of attorney shall include the following statements:
+
+(a) by the donor that he or she—
+
+(i) understands the implications of creating the power,
+
+(ii) intends the power to be effective at any subsequent time when he or she lacks capacity in relation to one or more relevant decisions which are the subject of the power, and
+
+(iii) is aware that he or she may vary or revoke the power prior to its F109[registration, and on or after its registration until the attorney notifies the Director under *section 71A* that the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power of attorney and this notification has been accepted by the Director under *section 71C*];
+
+(b) by a legal practitioner that, after interviewing the donor and making any necessary enquiries, he or she—
+
+(i) is satisfied that the donor understands the implications of creating the power,
+
+(ii) is satisfied that the donor is aware that he or she may vary or revoke the power prior to its F110[registration, and on or after its registration until the attorney notifies the Director under *section 71A* that the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power of attorney and this notification has been accepted by the Director under *section 71C*], and
+
+(iii) has no reason to believe that the instrument is being executed by the donor as a result of fraud, coercion or undue pressure;
+
+F111[(c) by—
+
+(i) a registered medical practitioner that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power, or
+
+(ii) a healthcare professional of a class that shall be prescribed, that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power;]
+
+(d) F113[...]
+
+(e) by the attorney, that he or she—
+
+(i) understands the implications of undertaking to be an attorney for the donor and has read and understands the information contained in the instrument,
+
+(ii) understands and undertakes to act in accordance with his or her functions as specified in the instrument creating the enduring power of attorney,
+
+(iii) understands and undertakes to act in accordance with the guiding principles,
+
+(iv) understands and undertakes to comply with the reporting obligations under *section 75*, and
+
+(v) understands the requirements in relation to registration of the F112[power, and in relation to notification of the Director under *section 71A* when the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power].
+
+(2) An instrument creating an enduring power of attorney shall include the following:
+
+(a) the name, date of birth and contact details of the donor;
+
+(b) subject to *subsection (3)*, the signature of the donor and the date that he or she signed the power;
+
+(c) the name, date of birth and contact details of the attorney;
+
+(d) the signature of the attorney and the date that he or she signed the enduring power of attorney;
+
+(e) the signatures of the 2 witnesses referred to in *subsection (4)(a)*.
+
+(3) An instrument creating an enduring power of attorney may be signed on behalf of the donor by a person who has attained the age of 18 years and who is not the attorney or a witness referred to in *subsection (4)(a)* if—
+
+(a) the donor is unable to sign the instrument,
+
+(b) the donor is present and directs that the instrument be signed on his or her behalf by that person, and
+
+(c) the signature of the person is witnessed in accordance with *subsection (4)(b)*.
+
+(4) (a) The donor, or the person signing on his or her behalf in accordance with *subsection (3)*, and the attorney shall sign the instrument creating the enduring power of attorney in the presence of each other and in the presence of 2 witnesses—
+
+(i) each of whom has attained the age of 18 years,
+
+(ii) of whom at least one is not an immediate family member of the donor or the attorney, and
+
+(iii) neither of whom is an employee or agent of the attorney.
+
+(b) Each of the witnesses referred to in *paragraph (a)* shall witness the signature of the donor (or the person signing on his or her behalf) and the signature of the attorney by applying his or her own signature to the instrument creating the enduring power of attorney.
+
+(5) Where a donor proposes to remunerate an attorney for performing his or her functions as attorney, the instrument creating the enduring power of attorney shall specify the proposed remuneration and the functions to which it relates.
+
+(6) In this section, “immediate family member” means—
+
+(a) a spouse, civil partner, or cohabitant,
+
+(b) a child, son-in-law or daughter-in-law,
+
+(c) a parent, step-parent, mother-in-law or father-in-law,
+
+(d) a brother, sister, step-brother, step-sister, brother-in-law or sister-in-law,
+
+(e) a grandparent or grandchild,
+
+(f) an aunt or uncle, or
+
+(g) a nephew or niece.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F109, F110, F111, F112: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 52(a), (b), (c), (e), S.I. No. 194 of 2023.
+>
+> F113: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 52(d), S.I. No. 194 of 2023.
+
+### 61. Notice of execution of an enduring power of attorney
+
+**61.** F114[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F114: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(b),S.I. No. 194 of 2023.
+
+### 62. Scope of authority — personal welfare decisions
+
+**62.** F115[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F115: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(c),S.I. No. 194 of 2023.
+
+### 63. Scope of authority — property and affairs
+
+**63.** (1) An attorney may act under an enduring power of attorney relating to property and affairs for the attorney’s benefit or that of other persons to the extent provided for in the power, where specific provision to that effect is made in the power and subject to any conditions or restrictions contained in the power.
+
+(2) An attorney may not dispose of the property of the donor by way of gift unless specific provision to that effect is made in the enduring power of attorney.
+
+(3) Where an enduring power of attorney authorises the disposal of the donor’s property by way of gift, the attorney’s power to make such gifts shall, in addition to being subject to any conditions or restrictions in the enduring power, be limited to—
+
+(a) gifts made on customary occasions to persons (including the attorney) who are related to or connected to the donor and in relation to whom the donor might be expected to make gifts, and
+
+(b) gifts to any charity to which the donor made or might be expected to make gifts,
+
+provided that the value of the gift is reasonable having regard to all the circumstances and in particular the extent of the donor’s assets and any financial obligations.
+
+### 64. Application to joint and joint and several attorneys
+
+**64.** (1) A donor may, in an enduring power of attorney, appoint more than one attorney and may specify that the attorneys shall act—
+
+(a) jointly,
+
+(b) jointly and severally, or
+
+(c) jointly in respect of some matters and jointly and severally in respect of other matters,
+
+and, in default of the power so specifying, the attorneys shall be deemed to have authority to act jointly.
+
+(2) Where 2 or more persons have authority to act jointly as attorneys, then, in the case of the death, lack of capacity or disqualification of any one or more of them, the remaining attorney or attorneys may continue to act, whether solely or jointly, as the case may be, unless the enduring power expressly provides to the contrary.
+
+### 65. Persons who are not eligible to be attorneys
+
+**65.** (1) A person shall not be eligible for appointment as an attorney under an enduring power of attorney if he or she—
+
+(a) has been convicted of an offence in relation to the person or property of the person who intends to appoint an F116[attorney, or the person or property of a child of that person],
+
+(b) has been the subject of a safety or barring order in relation to the person who intends to appoint an F117[attorney, or a child of that person],
+
+(c) is an undischarged bankrupt or is currently in a debt settlement arrangement or personal insolvency arrangement or has been convicted of an offence involving fraud or dishonesty,
+
+(d) is a person in respect of whom a declaration under section 819 of the Act of 2014 has been made or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) is a person who is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Act of 2014, by virtue of that Chapter or any other provisions of that Act,
+
+(f) is a person who is—
+
+(i) the owner or the registered provider of a designated centre or mental health facility in which the intending donor resides, or
+
+(ii) residing with, or an employee or agent of, such owner or registered provider,
+
+unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the intending donor, or
+
+(g) has been convicted of an offence under F118[*section 15A*, *34*,] *80*, *90* or *145*.
+
+(2) *Subsection (1)(c)*, *(d)* and *(e)* shall not apply where it is proposed to confer authority only in relation to personal welfare matters.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116, F117, F118: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 53(a), (b), (c), S.I. No. 194 of 2023.
+
+### 66. Disqualification of attorney
+
+**66.** (1) An attorney shall, with effect from the date on which an event specified in any of *paragraphs (a)* to *(c)* occurs or, in the case of an event specified in *paragraph (d)*, at the expiry of the period referred to in that paragraph, and unless the instrument creating the enduring power of attorney provides otherwise, be disqualified from being an attorney for the donor where the attorney is the spouse of the donor and subsequently—
+
+(a) the marriage is annulled or dissolved either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by reason of that annulment or dissolution, not or no longer a subsisting valid marriage under the law of the State,
+
+(b) a decree of judicial separation is granted to either spouse by a court in the State or any decree is so granted by a court outside the State and is recognised in the State as having like effect,
+
+(c) a written agreement to separate is entered into between the spouses, or
+
+(d) subject to section 2(2), the spouses separate and cease to cohabit for a continuous period of 12 months.
+
+(2) An attorney shall, with effect from the date on which an event specified in *paragraph (a)* or *(b)* occurs or, in the case of an event specified in *paragraph (c)*, at the expiry of the period referred to in that paragraph, and unless the instrument creating the enduring power of attorney provides otherwise, be disqualified from being attorney for the donor where the attorney is the civil partner of the donor and subsequently—
+
+(a) the civil partnership is annulled or dissolved (other than where the dissolution occurs by virtue of the parties to that civil partnership marrying each other) either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by means of that annulment or dissolution not or no longer a subsisting valid civil partnership under the law of the State,
+
+(b) a written agreement to separate is entered into between the civil partners, or
+
+(c) subject to section 2(2), the civil partners separate and cease to cohabit for a continuous period of 12 months.
+
+(3) Subject to section 2(2), an attorney shall, at the expiry of the period referred to in this subsection, and unless the instrument creating the enduring power of attorney provides otherwise, be disqualified from being an attorney for the donor where the attorney is the cohabitant of the donor and subsequently the cohabitants separate and cease to cohabit for a continuous period of 12 months.
+
+(4) Subject to *subsection (5)*, where, subsequent to the appointment of an attorney—
+
+(a) the attorney is convicted of an offence in relation to the person or property of the donor or the person or property of a child of the donor,
+
+(b) a safety or barring order is made against the attorney in relation to the donor or a child of the donor,
+
+(c) the attorney becomes an undischarged bankrupt or subject to a debt settlement arrangement or personal insolvency arrangement which is current or is convicted of an offence involving fraud or dishonesty,
+
+(d) the attorney becomes a person in respect of whom a declaration has been made under section 819 of the Act of 2014 or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act,
+
+(e) the attorney becomes a person who is subject or is deemed to be subject to a disqualification order within the meaning of Chapter 4 of Part 14 of the Act of 2014 by virtue of that Chapter or any other provisions of that Act,
+
+(f) the attorney becomes—
+
+(i) the owner or the registered provider of a designated centre or mental health facility in which the intending donor resides, or
+
+(ii) a person residing with, or an employee or agent of, a person referred to in sub *paragraph (i)*,
+
+unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the intending donor,
+
+(g) the attorney is convicted of an offence under F119[*section 15A, 34,*] *80*, *90* or *145*,
+
+(h) the attorney—
+
+(i) enters into a decision-making assistance agreement as a relevant person,
+
+(ii) enters into a co-decision-making agreement as a relevant person,
+
+F120[(iii) has executed as a donor an enduring power of attorney that has been the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C* or has executed as a donor an enduring power under the Act of 1996 that has been registered under that Act,]
+
+(iv) becomes the subject of a declaration under *section 37(1)*,
+
+or
+
+(i) the attorney is a trust corporation and the trust corporation is dissolved,
+
+the attorney shall be disqualified from being an attorney for the donor with effect from the day on which the attorney falls within any of *paragraphs (a)* to *(i)*.
+
+(5) *Subsections (4)(c)*, *(d)* and *(e)* shall not apply to an attorney insofar as authority is conferred on him or her under the enduring power of attorney in relation to personal welfare matters.
+
+(6) Where an attorney becomes disqualified under this section, he or she, or in the case of disqualification pursuant to *subsection (4)(h)(iii)* or *(iv)*, his or her attorney, decision-making representative or the court, as the case may be, shall notify the Director of such disqualification and the particulars relating thereto.
+
+(7) Where an attorney becomes disqualified, a relevant decision made solely by him or her after his or her disqualification shall be null and void.
+
+(8) *Subsection (7)* shall not operate to prevent a person who relied on a relevant decision referred to in that subsection from recovering damages in respect of any loss incurred by him or her as a result of that reliance.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F119, F120: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 54(a), (b), S.I. No. 194 of 2023.
+
+### 67. F121[Function of court prior to acceptance of notification
+
+**67.** On application to it by any interested party, the court may, where it has reason to believe that the donor of an enduring power of attorney that has been registered under *section 69* lacks capacity in relation to one or more relevant decisions, exercise any power which would become exercisable under *section 77(3)* on the acceptance by the Director under *section 71C* of a notification under *section 71A* and the court may do so whether or not the attorney concerned has so notified the Director.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F121: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 55, S.I. No. 194 of 2023.
+
+### 68. Application for registration of instrument creating enduring power
+
+**68.** F122[(1) The donor, or, with the donor’s written consent, his or her attorney, shall, not later than 3 months after the date of the execution of an instrument creating an enduring power of attorney or the date of receipt of all completed supporting documentation, whichever is the later, make an application to the Director, in accordance with this Part and any regulations and specifications made thereunder, to register the instrument creating the enduring power of attorney.]
+
+(2) An application to register an instrument under *subsection (1)* shall be made in such F123[form as specified by the Director under *section 79A*] and accompanied by such fee as shall be prescribed.
+
+(3) The F124[donor, or, as the case may be, his or her attorney, shall], at the same time as he or she makes an application under *subsection (1)*, give notice, in such form as shall be F125[specified by the Director under *section 79A*], of the application and give a copy of the instrument creating an enduring power of attorney to the following persons:
+
+F126[(a) where the application was made by the attorney, the donor,]
+
+F131[(aa) where the application was made by the donor, his or her attorney or attorneys, as the case may be,]
+
+(b) a spouse or civil partner (if any) of the donor;
+
+(c) the cohabitant (if any) of the donor;
+
+(d) any children of the donor who have attained the age of 18 years;
+
+(e) any decision-making assistant for the donor;
+
+(f) any co-decision-maker for the donor;
+
+(g) any decision-making representative for the donor;
+
+(h) any designated healthcare representative for the donor;
+
+(i) any other attorney for the donor or attorney under the Act of 1996 in respect of the donor;
+
+F127[(j) any other person or persons as may be specified by the donor in the instrument creating the enduring power of attorney as a person or persons to whom notice shall be given under this section and *section 71A(3)* and where there are fewer than 3 persons to whom notice may be given pursuant to *paragraphs (a)* to *(i)*, the donor shall so specify at least 2 persons.]
+
+F132[(3A) *Subsection (3)(b)* shall not apply—
+
+(a) in relation to the spouse of a donor, where, at the time at which the application is made under *subsection (1)*—
+
+(i) a decree of judicial separation has been granted to either the donor or his or her spouse by a court in the State or any decree has been so granted by a court outside the State and is recognised in the State as having like effect,
+
+(ii) a written agreement to separate has been entered into between the donor and his or her spouse, or
+
+(iii) subject to *section 2(2)*, the donor and his or her spouse have separated and have ceased to cohabit for a continuous period of 12 months,
+
+and
+
+(b) in relation to the civil partner of a donor, where, at the time at which the application is made under *subsection (1)*—
+
+(i) a written agreement to separate has been entered into between the donor and his or her civil partner, or
+
+(ii) subject to *section 2(2)*, the civil partners have separated and have ceased to cohabit for a continuous period of not less than 12 months.
+
+(3B) Subject to *section 2(2)*, *subsection (3)(c)* shall not apply in relation to the cohabitant of a donor where, at the time at which the application is made under *subsection (1)*, the donor and his or her cohabitant have separated and have ceased to cohabit for a continuous period of not less than 12 months.]
+
+(4) F128[A donor or attorney, as the case may be, may,] before making an application to register an instrument creating an enduring power of attorney, apply to the court for a determination on any question as to the validity of the power.
+
+(5) F133[...]
+
+(6) F133[...]
+
+(7) An application to register an instrument creating an enduring power of attorney shall be accompanied by—
+
+(a) the instrument creating the enduring power of attorney,
+
+(b) F133[...]
+
+(c) details of any existing decision-making assistance agreement, co-decision-making agreement, decision-making order, decision-making representation order, power of attorney (whether an enduring power or otherwise and whether registered or not) or advance healthcare directive in respect of the F129[donor],
+
+(d) a copy of any notice given pursuant to *subsection (3)*,
+
+F130[(e) where a trust corporation is named as an attorney, the information and documents specified by the Director under *section 58A(2)*, and]
+
+(f) the prescribed fee.
+
+(8) F133[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F122, F123, F124, F125, F126, F127, F128, F129, F130: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 56(a), (b), (c)(i)-(iii), (v), (e), (g)(ii), (iii), S.I. No. 194 of 2023.
+>
+> F131, F132: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 56(c)(iv), (d), S.I. No. 194 of 2023.
+>
+> F133: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 56(f), (g)(i), (h), S.I. No. 194 of 2023.
+
+### 69. Registration of an instrument creating an enduring power of attorney
+
+**69.** (1) On receipt of an application under *section 68*, the Director shall review the application and any objections received under *section 71* and shall carry out such reasonable enquiries as he or she considers necessary in order to establish whether the following criteria are met:
+
+(a) the enduring power of attorney and the instrument creating it are in accordance with *sections 59*, F134[*60* and] *63*;
+
+(b) the attorney is a suitable person within the meaning of *section 59(6)*;
+
+(c) the attorney is eligible for appointment within the meaning of *section 65* or not disqualified by virtue of *section 66*;
+
+F137[(ca) where a trust corporation is named as an attorney, that it has complied with the requirements specified by the Director under *section 58A*,]
+
+(d) notice has been given in accordance with F140[...] *section 68(3)*; and
+
+(e) the application is in accordance with *section 68*.
+
+F138[(1A) Where the instrument creating the enduring power of attorney differs in an immaterial respect from the form specified by the Director under *section 79A(1)(a)*, the Director may, notwithstanding such difference, treat the enduring power of attorney and the instrument creating it as being in accordance with the form specified by the Director under *section 79A(1)(a)*, if he or she thinks it appropriate to do so.
+
+(1B) If the notice requirements under *section 68(3)* for registering an enduring power of attorney have not been complied with, the Director may, if he or she is satisfied that all reasonable efforts have been made to satisfy the notice requirements, treat the criteria under *subsection (1)(d)* as having been met.]
+
+(2) Where, after reviewing an application under *section 68*, the Director is satisfied that the application is in order, he or she shall, subject to *section 71*, register the instrument creating the enduring power of attorney.
+
+(3) Where, after reviewing an application under *section 68*, the Director forms the view that one or more of the criteria in *paragraphs (a)* to *(e)* of *subsection (1)* are not satisfied, he or she shall notify the attorney and the donor of his or her view, provide reasons for that view and give the attorney and the donor an opportunity, within a reasonable timeframe specified by the Director, to respond.
+
+(4) Following a review of any response received pursuant to *subsection (3)*, the Director shall—
+
+(a) where he or she is of the view that the criteria set out in *paragraphs (a)* to *(e)* of *subsection (1)* are satisfied, register, subject to *section 71*, the instrument creating the enduring power of attorney, or
+
+(b) where he or she remains of the view that one or more of the criteria set out in *paragraphs (a)* to *(e)* of *subsection (1)* is not satisfied, refuse to register the instrument creating the enduring power of attorney and notify the attorney and the donor of that fact and the reasons for his or her view.
+
+(5) F135[A donor] whose application under *section 68* is refused may, not later than 21 days after the date of issue of the notification of refusal by the Director, appeal the refusal to the court.
+
+(6) Upon an appeal under *subsection (5)*, the court may—
+
+(a) require the Director to register the instrument creating the enduring power of attorney,
+
+(b) affirm the decision of the Director, or
+
+(c) make such other order or declaration as it considers appropriate.
+
+(7) Following registration of an instrument creating an enduring power of attorney, the Director shall send an authenticated copy of the instrument to the attorney and the donor.
+
+(8) F136[For the purposes of *subsection (7)*, a document] purporting to be a copy of an instrument creating an enduring power of attorney which has been authenticated by the Director shall be evidence of the contents of the instrument and the date upon which it was registered.
+
+F139[(9) Once the Director has registered or has refused to register under this section an instrument creating an enduring power of attorney, the donor concerned, or, with his or her written consent, his or her attorney, shall, as soon as practicable, give notice to the persons referred to in *section 68(3)* (other than those to whom *subsections (3A)* and *(3B)* of that section relate) of that registration or refusal, as the case may be, in the form specified by the Director under *section 79A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F134, F135, F136: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 57(a)(i), (c), (d), S.I. No. 194 of 2023.
+>
+> F137, F138, F139: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 57(a)(ii), (b), (e), S.I. No. 194 of 2023.
+>
+> F140: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 57(a)(iii), S.I. No. 194 of 2023.
+
+### 70. Effect and proof of registration
+
+**70.** F141[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F141: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(d), S.I. No. 194 of 2023.
+
+### 71. Objections to registration
+
+**71.** (1) Any of the persons referred to in *section 68(3)*, or any other person who appears to the Director to have sufficient interest or expertise in the welfare of the donor, may, no later than 5 weeks from the date on which notice is given in accordance with that provision, notify the Director that he or she objects to the proposed registration.
+
+(2) An objection under *subsection (1)* shall be F142[in such form as shall be specified by the Director under *section 79A*] and shall be accompanied by such fee as shall be prescribed by regulations made under *section 79* and may be made on one or more of the following grounds:
+
+(a) that the enduring power of attorney or instrument creating it is not in accordance with *section 59*, F143[*60*] or *63*;
+
+(b) that the notice requirement of F151[...] *section 68(3)* was not complied with;
+
+(c) that the donor F144[lacks] capacity;
+
+(d) that fraud, coercion or undue influence was used to induce the donor to execute the instrument creating the enduring power of attorney;
+
+(e) that a false statement is included in the instrument creating the enduring power of attorney or the application to register the instrument;
+
+(f) that the attorney is not a suitable person within the meaning of *section 59(6)*.
+
+(3) Where the Director receives an objection in accordance with *subsection (2)*, made within the period specified in *subsection (1)*, he or she shall—
+
+(a) review the objection,
+
+(b) consult F145[with the donor] and, where the Director considers it is appropriate to do so, F146[with the attorney], and
+
+(c) consult with such other persons as he or she considers relevant,
+
+and shall—
+
+(i) where he or she is of the view that the objection is not well founded, F147[notify the donor, the attorney and the person who made the objection] of his or her view, provide reasons for that view and proceed, subject to *section 69(1)*, to register the instrument concerned, or
+
+F148[(ii) where he or she is of the view that the objection is well founded, notify the donor, the attorney and the person who made the objection of his or her decision and refuse to register the enduring power of attorney.]
+
+(4) F151[...]
+
+F149[(5) A person who has been notified under *subsection (3)* of the Director’s decision may, not later than 21 days after the date of issue of the notification by the Director, appeal the decision concerned to the court.]
+
+(6) Upon an appeal under *subsection (5)*, the court may—
+
+F150[(a) where the Director has made a decision to which *subsection (3)(i)* refers—
+
+(i) declare that the objection is well founded and require the Director to remove the instrument concerned from the Register, or
+
+(ii) affirm the decision of the Director,
+
+(b) where the Director has made a decision to which *subsection (3)(ii)* refers—
+
+(i) declare that the objection is not well founded and require the Director to proceed to consider, in accordance with *section 69*, whether the instrument creating the enduring power of attorney should be registered, taking the court’s declaration into account, or
+
+(ii) affirm the decision of the Director and declare that the instrument creating the enduring power of attorney should not be registered, or]
+
+(c) make such other declaration or order as it considers appropriate.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142, F143, F144, F145, F146, F147, F148, F149, F150: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 58(a)(i), (ii), (iv), (b)(i),(I), (II), (ii), (iii), (d), (e), S.I. No. 194 of 2023.
+>
+> F151: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 58(a)(iii), (c), S.I. No. 194 of 2023.
+
+### 71A. F152[Notification to Director by attorney
+
+**71A.** (1) Where an attorney has reason to believe that a donor lacks capacity in relation to one or more relevant decisions that are the subject of an instrument creating an enduring power of attorney that was executed by the donor and registered under *section 69*, the attorney shall, as soon as is practicable, so notify the Director, in compliance with this Part and in the form specified by the Director under *section 79A*.
+
+(2) A notification to the Director under *subsection (1)* shall be accompanied by—
+
+(a) the fee prescribed by the Minister under section 79,
+
+(b) a statement by each of 2 persons, each being either—
+
+(i) a registered medical practitioner, or
+
+(ii) such other healthcare professional of a class that shall be prescribed by the Minister under *section 79*,
+
+that in his or her opinion the donor lacks capacity in relation to one or more relevant decisions which are the subject of the enduring power, and
+
+(c) a copy of any notice given under *subsection (3)*.
+
+(3) The attorney shall, at the same time as he or she notifies the Director under *subsection (1)*, give notice in the form specified by the Director under *section 79A* of the application, and give a copy of the instrument creating an enduring power of attorney, to the following persons:
+
+(a) the donor;
+
+(b) a spouse or civil partner (if any) of the donor;
+
+(c) the cohabitant (if any) of the donor;
+
+(d) any children of the donor who have attained the age of 18 years;
+
+(e) any decision-making assistant for the donor;
+
+(f) any co-decision-maker for the donor;
+
+(g) any decision-making representative for the donor;
+
+(h) any designated healthcare representative for the donor;
+
+(i) any other attorney for the donor or attorney under the Act of 1996 in respect of the donor;
+
+(j) any other person or persons that were specified by the donor in the instrument creating the enduring power of attorney as a person or persons to whom notice shall be given under this section and *section 68(3)*.
+
+(4) *Subsection (3)(b)* shall not apply—
+
+(a) in relation to the spouse of a donor, where, at the time at which the notification is made under *subsection (1)*—
+
+(i) a decree of judicial separation has been granted to either the donor or his or her spouse by a court in the State or any decree has been so granted by a court outside the State and is recognised in the State as having like effect,
+
+(ii) a written agreement to separate has been entered into between the donor and his or her spouse, or
+
+(iii) subject to *section 2(2)*, the donor and his or her spouse have separated and have ceased to cohabit for a continuous period of 12 months,
+
+and
+
+(b) in relation to the civil partner of a donor, where, at the time at which the notification is made under *subsection (1)*—
+
+(i) a written agreement to separate has been entered into between the donor and his or her civil partner, or
+
+(ii) subject to *section 2(2)*, the civil partners have separated and have ceased to cohabit for a continuous period of not less than 12 months.
+
+(5) Subject to *section 2(2)*, *subsection (3)(c)* shall not apply in relation to the cohabitant of a donor where, at the time at which the notification is made under *subsection (1)*, the donor and his or her cohabitant have separated and have ceased to cohabit for a continuous period of not less than 12 months.
+
+(6) An attorney may, before making a notification under *subsection (1)*, apply to the court for a determination on any question as to the validity of the enduring power of attorney in question.
+
+(7) Where an attorney has made a notification under *subsection (1)*, then pending acceptance of the notification by the Director under *section 71C*, the attorney, or if more than one attorney has been appointed to act jointly or jointly and severally, as the case may be, any one of them, may take action under the enduring power of attorney in question—
+
+(a) to maintain the donor or prevent loss to the donor’s assets,
+
+(b) to the extent permitted by the enduring power, to make a relevant decision which cannot reasonably be deferred until the notification has been accepted, or
+
+(c) to remunerate the attorney or other persons in so far as that is permitted under the power.
+
+(8) Following the taking of an action pursuant to *subsection (7)*, an attorney shall report to the Director—
+
+(a) what action he or she took,
+
+(b) the reasons as to why the action could not be deferred until after acceptance by the Director of the notification,
+
+(c) any measures he or she took to encourage the donor to participate in the action taken, and
+
+(d) the outcome of the action.
+
+(9) Where there is more than one attorney appointed under an enduring power of attorney, any two or more of the attorneys may make a joint notification under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F152: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 59, S.I. No. 194 of 2023.
+
+### 71B. Objections to acceptance by Director of notification
+
+F153[**71B.** (1) Any of the persons referred to in *paragraphs (a)* to *(j)* of *section 71A(3)* (other than those to whom *subsections (4)* and *(5)* of that section relate), or any other person who appears to the Director to have sufficient interest or expertise in the welfare of the donor, may, no later than 5 weeks from the date on which notice is given in accordance with that provision, notify the Director that he or she objects to the proposed acceptance of the notification made under *section 71A.*
+
+(2) An objection under *subsection (1)* shall be in such form as specified by the Director under *section 79A* and shall be accompanied by such fee as shall be prescribed by regulations made under *section 79* and may be made on one or more of the following grounds:
+
+(a) that the notification was not made in accordance with *section 71A*;
+
+(b) that the notice requirements of *section 71A(3)* were not complied with;
+
+(c) that the donor does not lack capacity;
+
+(d) that a false statement is included in the notification to the Director.
+
+(3) Where the Director receives an objection under *subsection (1)* that is in accordance with *subsection (2)* and that was made within the period specified in *subsection (1)*, he or she shall—
+
+(a) review the objection,
+
+(b) consult with the attorney,
+
+(c) unless he or she thinks it inappropriate to do so, consult with the donor, and
+
+(d) consult with such other persons as he or she considers relevant,
+
+and shall, where he or she decides that—
+
+(i) the objection is not well founded, notify the donor, the attorney and the person who made the objection of his or her decision, provide reasons for that decision and proceed, subject to *section 71C*, to accept the notification of the instrument concerned and to register the acceptance in the Register, or
+
+(ii) the objection is well founded, notify the donor, the attorney and the person who made the objection of his or her decision and refuse under *section 71C* to accept the notification.
+
+(4) A person who has been notified under *subsection (3)* of the Director’s decision may, not later than 21 days after the date of issue of the notification by the Director, appeal the decision concerned to the court.
+
+(5) Upon an appeal under *subsection (4)*, the court may—
+
+(a) where the Director has made a decision to which *subsection (3)(i)* refers—
+
+(i) affirm the decision of the Director, or
+
+(ii) require the Director to refuse to, or as the case may be, rescind, his or her acceptance of the notification under *section 71C* and to make any appropriate modifications to the Register,
+
+(b) where the Director has made a decision to which *subsection (3)(ii)* refers—
+
+(i) affirm the decision of the Director, or
+
+(ii) declare that the objection was not well founded and require the Director to proceed to consider, in accordance with *section 71C*, the notification under *section 71A*, taking the court’s declaration into account,
+
+or
+
+(c) make such other declaration or order as it considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F153: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 59, S.I. No. 194 of 2023.
+
+### 71C. Acceptance by Director of notification
+
+F154[**71C.** (1) On receipt of a notification under *section 71A*, the Director shall review the notification and any objections received under *section 71B* and shall carry out such reasonable enquiries as he or she considers necessary in order to establish whether the following criteria are met:
+
+(a) notice has been given in accordance with *section 71A*;
+
+(b) the application is in accordance with *section 71A*.
+
+(2) Where, after reviewing a notification under *section 71A*, the Director is satisfied that the notification is in order, he or she shall, subject to *section 71B*, accept the notification and note the fact of the acceptance on the Register.
+
+(3) Where, after reviewing an application under *section 71A*, the Director forms the view that one or more of the criteria in *paragraphs (a)* and *(b)* of *subsection (1)* are not satisfied, he or she shall notify the attorney and the donor of his or her view, provide reasons for that view and give the attorney and the donor an opportunity, within a reasonable timeframe specified by the Director, to respond.
+
+(4) Following a review of any response received pursuant to *subsection (3)*, the Director shall—
+
+(a) where he or she is of the view that the criteria set out in *paragraphs (a)* and *(b)* of *subsection (1)* are satisfied, accept, subject to *section 71B*, the notification and note the fact of the acceptance in the Register, or
+
+(b) where he or she remains of the view that one or more of the criteria set out in *paragraphs (a)* and *(b)* of *subsection (1)* is not satisfied, refuse to accept the notification and notify the attorney and the donor of that fact and the reasons for his or her view.
+
+(5) An attorney whose notification under *section 71A* is not accepted may, not later than 21 days after the date of issue of the notification by the Director under *subsection (4)(b)*, appeal the refusal by the Director to accept the notification to the court.
+
+(6) Upon an appeal under *subsection (5)*, the court may—
+
+(a) require the Director to accept the notification and note the acceptance in the Register,
+
+(b) affirm the decision of the Director, or
+
+(c) make such other order or declaration as it considers appropriate.
+
+(7) Following acceptance by the Director of a notification, he or she shall send an authenticated copy of the instrument to the attorney and the donor.
+
+(8) For the purposes of *subsection (7)*, a document purporting to be a copy of an instrument creating an enduring power of attorney which has been authenticated by the Director shall be evidence of the contents of the instrument and the date upon which it was notified.
+
+(9) Once the Director has accepted or has refused to accept under this section a notification under *section 71A*, the attorney concerned shall, as soon as practicable, give notice to the persons referred to in *section 71A(3)* (other than those to whom *subsections (4)* and *(5)* of that section relate) of that acceptance or refusal, as the case may be, in the form specified by the Director under *section 79A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F154: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 59, S.I. No. 194 of 2023.
+
+### 71D. F155[Effect and proof of acceptance by Director of notification
+
+**71D.** (1) The effect of the acceptance by the Director under *section 71C* of a notification under *section 71A* is that—
+
+(a) no purported revocation of the enduring power of attorney by the donor shall be valid unless the Director recognises a written notice of revocation under *section 73A*,
+
+(b) no resignation by an attorney from his or her role as attorney under the enduring power shall be valid except on notice to the donor and with the consent of the court under *section 74(3)*, and
+
+(c) subject to *section 73A*, the donor may not extend or restrict the scope of the authority conferred by him or her in the enduring power and no consent or instruction given by the donor after acceptance by the Director under *section 71C* of a notification under *section 71A* shall, in the case of a consent, confer any right and in the case of an instruction, impose or confer any obligation or right on or create any liability of the attorney or other persons having notice of the consent or instruction.
+
+(2) *Subsection (1)* applies for as long as the acceptance of the notification is in force.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F155: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 59, S.I. No. 194 of 2023.
+
+### 72. Register of enduring powers
+
+**72.** (1) The Director shall establish and maintain a register (in this Part referred to as “the Register”) of instruments creating an enduring power of F156[attorney that have been registered by him or her under *section 69*].
+
+(2) The Register shall be in such form as the Director considers F157[appropriate, but shall specify which instruments are, and which instruments are not, the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C*].
+
+(3) F158[The Director shall make such details of the Register as he or she shall specify] available for inspection by—
+
+(a) a body or class of persons prescribed by regulations made under *section 79* for this purpose, and
+
+(b) any person who satisfies the Director that he or she has a legitimate interest in F159[inspecting those details of the Register].
+
+(4) The Director may issue an authenticated copy of an F160[instrument creating an enduring power of attorney that is the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C*, or part thereof, and any variations to the enduring power or part thereof,] on the Register on payment of the prescribed fee to—
+
+(a) a body or class of person prescribed by regulations made under *section 79* for this purpose, and
+
+(b) a person who satisfies the Director that he or she has a legitimate interest in obtaining a copy.
+
+F161[(4A) An authenticated copy of an instrument or part thereof, and, where applicable, any variations to the instrument or part, that is issued by the Director under *subsection (4)* and stamped by the Director with a time and date stamp (which may be by automated means), shall be evidence of the contents of the instrument or part thereof, and where applicable, any variations to that instrument or part, as at the date and time indicated on the stamp.]
+
+(5) The Director shall keep a record of any body or person that has inspected the Register or received an authenticated copy from him or her.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F156, F157, F158, F159, F160: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 60(a), (b), (c)(i), (ii), (d), S.I. No. 194 of 2023.
+>
+> F161: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 60(e), S.I. No. 194 of 2023.
+
+### 73. Revocation and variation of enduring power
+
+**73.** F162[(1) An enduring power of attorney that has been registered under *section 69* may be varied or revoked by the donor where the instrument creating the enduring power of attorney has not been the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C.*]
+
+(2) A variation or revocation under *subsection (1)* shall be done in such form as shall be F163[specified by the Director under *section 79A*].
+
+(3) Subject to *section 60(3)*, a revocation or variation of an enduring power of attorney shall be signed by the donor and his or her signature shall be acknowledged by 2 witnesses and *section 60(4)* shall apply with the necessary modifications.
+
+(4) A variation or revocation of an enduring power of attorney shall be accompanied by the following statements:
+
+(a) by the donor, that he or she understands the implication of varying or revoking the enduring power, as the case may be;
+
+(b) by a legal practitioner that, after interviewing the donor and making any necessary enquiries, he or she—
+
+(i) is satisfied that the donor understands the implication of varying or revoking, as the case may be, the enduring power, and
+
+(ii) has no reason to believe that the variation or revocation, as the case may be, is the result of fraud, coercion or undue pressure on the donor;
+
+(c) F165[...]
+
+(d) F166[...]
+
+(e) by the attorney, F164[in the case of a variation, that he or she is aware of the variation] and undertakes to act accordingly.
+
+F169[(4A) The donor shall, as soon as practicable after the revocation of an enduring power of attorney, give notice to the attorney, in the form specified by the Director under *section 79A*, of the revocation.
+
+(4B) A variation of an enduring power of attorney may be made—
+
+(a) subject to *paragraph (b)*, at any time after the expiry of 6 months from the date of the registration of the instrument creating the enduring power under *section 69*, and
+
+(b) where more than one variation is made, at intervals of at least 12 months from the date of the previous variation,
+
+unless an earlier variation in the case of *paragraph (a)*, or variation at more frequent intervals in the case of *paragraph (b)*, is agreed by the Director.]
+
+(5) F167[...]
+
+(6) F168[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F162, F163, F164: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 61(a), (b), (c)(ii), S.I. No. 194 of 2023.
+>
+> F165, F166, F167, F168: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 61(c)(i), (e), S.I. No. 194 of 2023.
+>
+> F169: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 61(d), S.I. No. 194 of 2023.
+
+### 73A. Provisions regarding where donor regains capacity after acceptance by Director of notification
+
+F170[**73A.** (1) The following persons:
+
+(a) the donor;
+
+(b) on the written request of the donor to act on his or her behalf, the attorney;
+
+(c) on the written request of the donor to act on his or her behalf, any of the persons referred to in *paragraphs (a)* to *(j)* of *section 71A(3)* (other than those to whom *subsections (4)* and *(5)* of that section relate);
+
+(d) on the written request of the donor to act on his or her behalf, any other person who appears to the Director to have sufficient interest or expertise in the welfare of the donor,
+
+may, after the acceptance by the Director under *section 71C* of a notification under *section 71A*—
+
+(i) request the Director to rescind his or her acceptance as a result of the donor having regained capacity, or
+
+(ii) request the Director to rescind his or her acceptance as a result of the donor having regained capacity and to recognise the revocation by the donor of the instrument creating the enduring power.
+
+(2) A request under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1)*, shall be in the form specified by the Director under *section 79A* and shall be accompanied by—
+
+(a) a statement by the donor that he or she understands the implications of his or her request under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1)*,
+
+(b) a statement by a legal practitioner that, after interviewing the donor and making any necessary enquiries, he or she—
+
+(i) is satisfied that the donor understands the implications of a request being made to the Director under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1),* and
+
+(ii) has no reason to believe that the request by the donor, or on his or her behalf, is the result of fraud, coercion or undue pressure on the donor,
+
+(c) a statement by each of 2 persons, each being either—
+
+(i) a registered medical practitioner, or
+
+(ii) such other healthcare professional of a class as shall be prescribed by the Minister by regulations under *section 79*,
+
+that in his or her opinion the donor no longer lacks capacity in relation to the relevant decisions that are the subject of the enduring power,
+
+(d) a statement by the attorney that he or she is aware of the request being made under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1)* and undertakes to act accordingly, and
+
+(e) in the case of a request under *subsection (1)(ii)*, a written notice of revocation by the donor of the instrument creating the enduring power of attorney in the form specified by the Director under *section 79A*.
+
+(3) Where the Director receives a request under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1)* that is in accordance with *subsection (2)*, he or she shall—
+
+(a) review the request,
+
+(b) consult with the attorney,
+
+(c) consult with the donor, and
+
+(d) consult with such other persons as he or she considers relevant,
+
+and shall—
+
+(i) where he or she is of the view that the request is not well founded, notify the donor, the attorney and any person who made the request on behalf of the donor at the donor’s request of his or her view, and provide reasons for that view,
+
+(ii) in the case of a request under *subsection (1)(i)*, where he or she is of the view that the request is well founded—
+
+(I) notify the donor, the attorney and any person who made the request on behalf of the donor at the donor’s request of his or her view,
+
+(II) rescind his or her acceptance of the notification, and
+
+(III) modify the Register accordingly,
+
+or
+
+(iii) in the case of a request under *subsection (1)(ii)*, where he or she is of the view that the request is well founded—
+
+(I) notify the donor, the attorney and any person who made the request on behalf of the donor at the donor’s request of his or her view,
+
+(II) rescind his or her acceptance of the notification,
+
+(III) recognise the donor’s revocation of the instrument creating the enduring power, and
+
+(IV) modify the Register accordingly.
+
+(4) A person who receives a notification under *subsection (3)(i)* may, not later than 21 days after the date of issue of the notification by the Director under *subsection (3)(i)*, appeal the notification concerned to the court.
+
+(5) Upon an appeal under *subsection (4)*, the court may—
+
+(a) in the case of a request under *subsection (1)(i)*, require the Director to accept the request, rescind his or her acceptance under *section 71C* of the notification under *section 71A* and make the appropriate modifications to the Register,
+
+(b) in the case of a request under *subsection (1)(ii)*, require the Director to rescind his or her acceptance under *section 71C* of the notification under *section 71A*, recognise the donor’s revocation of the enduring power of attorney and make the appropriate modifications to the Register,
+
+(c) affirm the notification by the Director under *subsection (3)(i)*, or
+
+(d) make such other declaration or order as it considers appropriate.
+
+(6) Once the Director has accepted or has refused to accept under this section a request under *paragraph (i)* or *(ii)*, as the case may be, of *subsection (1)*, the donor concerned, or, with his or her written consent, his or her attorney, or former attorney, as the case may be, shall, as soon as practicable, give notice to the persons referred to in *section 71A(3)* (other than those to whom *subsections (4)* and *(5)* of that section relate) of that acceptance or refusal, as the case may be, in the form specified by the Director under *section 79A*.
+
+(7) Where a request under *subsection (1)(i)* has been accepted by the Director, the enduring power of attorney shall be deemed to be a power of attorney that has been registered under *section 69* and the provisions of this Part (other than *section 71*) shall apply accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F170: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 62, S.I. No. 194 of 2023.
+
+### 74. Resignation by attorney
+
+F171[**74.** (1) An attorney—
+
+(a) may resign from his or her role as attorney where the enduring power of attorney in which he or she has been appointed attorney has not been the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C*, and
+
+(b) shall notify the donor, the Director and any other attorney appointed under the enduring power of attorney concerned of his or her resignation as soon as may be after it is made.
+
+(2) Where there is more than one attorney appointed under an enduring power of attorney and one or more of them resigns under *subsection (1)*, the instrument creating the enduring power of attorney may be the subject of a notification, and enter into force, in respect of the remaining attorney or attorneys, as the case may be, unless the enduring power expressly provides to the contrary.
+
+(3) Where an instrument creating an enduring power of attorney has been the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C*, an attorney may resign from his or her role as attorney under the enduring power created by the instrument only with the consent of the court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F171: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 63, S.I. No. 194 of 2023.
+
+### 75. Reports by attorney
+
+**75.** (1) An attorney under an enduring power of attorney which confers authority in relation to property and affairs shall, within 3 months of F172[a notification having been made under *section 71A* that has been accepted by the Director under *section 71C* in relation to the enduring power], submit to the Director a schedule of the donor’s assets and liabilities and a projected statement of the donor’s income and expenditure.
+
+(2) An attorney under an enduring power of attorney which confers authority in relation to property and affairs F173[shall, after a notification has been made under *section 71A* that has been accepted by the Director under *section 71C* in relation to the enduring power, keep] proper accounts and financial records in respect of the donor’s income and expenditure and shall—
+
+(a) submit such accounts and records as part of a report to the Director under this section, and
+
+(b) make available for inspection by the F174[Director, by a general visitor] or by a special visitor, at any reasonable time, such accounts and records.
+
+(3) An attorney shall, within 12 months after F175[a notification has been made under *section 71A* that has been accepted by the Director under *section 71C* in relation to the enduring power], and thereafter at intervals of not more than 12 months, prepare and submit to the Director a report in writing as to the performance of his or her functions as such attorney during the relevant period.
+
+(4) Every report submitted to the Director pursuant to this section shall be in such form as shall be F176[specified by the Director under *section 79A*] and shall include details of all costs, expenses and remuneration paid to and claimed by the attorney in the relevant period together with such other matters F177[as are specified].
+
+(5) F181[...]
+
+(6) Where an attorney fails to submit a report in accordance with this section or submits an incomplete report or fails to comply with *subsection (1)* or *(2)*, the Director shall notify the attorney of that failure or incompleteness and give him or her such period of time as is specified in the notification to comply or submit a complete report.
+
+F178[(7) Where an attorney fails to comply with a notification under *subsection (6)*, the Director—
+
+(a) may, in the case of the submission of an incomplete report and following any necessary enquiries to satisfy himself or herself that the report is substantially in accordance with this section and specifications made by him or her under *section 79A*, accept the report as if it were in compliance with this section and the relevant specifications,
+
+(b) may make such further directions with regard to the submission of the report in question as he or she considers appropriate, or
+
+(c) may, subject to *subsection (7A)* and following consultation with the donor (in so far as the Director considers it appropriate) and the attorney, make a determination that the attorney shall, as soon as may be or from a date specified by the Director, no longer act as attorney for the donor concerned.]
+
+F182[(7A) Where the Director has made a determination under *subsection (7)(c)*, he or she shall notify the donor and the attorney of his or her determination, provide reasons for that determination and update the Register accordingly.
+
+(7B) A donor or an attorney who has been notified under *subsection (7A)* of the Director’s determination may, not later than 21 days after the date of issue of the notification by the Director, appeal the determination concerned to the court.]
+
+F179[(8) Pursuant to an appeal to it under *subsection (7B)*, the court may—
+
+(a) affirm the determination of the Director,
+
+(b) declare that the attorney shall continue to act as such for the donor concerned and require the Director to update the Register accordingly, or
+
+(c) make such other declaration or order as it considers appropriate.]
+
+F180[(9) In this section, "relevant period" means the period of time to which the report relates which shall be the period of time between the date the attorney notified the Director that the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power or the date of submission of the previous report, whichever is the later, and the date immediately preceding the date of submission of the report concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F172, F173, F174, F175, F176, F177, F178, F179, F180: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 64(a), (b)(i), (ii), (c), (d)(i), (ii), (f), (h), (i), S.I. No. 194 of 2023.
+>
+> F181: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 64(e), S.I. No. 194 of 2023.
+>
+> F182: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 64(g), S.I. No. 194 of 2023.
+
+### 76. Complaints in relation to attorneys
+
+**76.** (1) A person may make a complaint in writing to the Director concerning one or more of the following matters:
+
+(a) that an attorney has acted, is acting, or is proposing to act outside F183[the scope of, or in breach of,] his or her functions as specified in the instrument creating the enduring power of F184[attorney, or in breach of this Act];
+
+(b) that an attorney is not a suitable person within the meaning of *section 59(6)*;
+
+(c) that fraud, coercion or undue pressure was used to induce a donor to appoint an F185[attorney, to vary or revoke an enduring power of attorney under *section 73*, to make a request under *section 73A(1)(i)* or to make a request and written notice of revocation under *section 73A(1)(ii)*;]
+
+F196[(d) that the donor did not, at the time the enduring power of attorney was executed, have the capacity to make an enduring power of attorney;
+
+(e) that the donor did not, at the time the enduring power of attorney was registered, have the capacity to register an enduring power of attorney.]
+
+(2) A person may, in respect of an attorney under the Act of 1996, make a complaint in writing to the Director concerning one or more of the following matters:
+
+(a) that an attorney under the Act of 1996, is acting or is proposing to act outside the scope of the enduring power under the Act of 1996;
+
+(b) that an attorney under the Act of 1996 is unable, for whatever reason, to perform his or her duties and obligations as construed in accordance with that Act;
+
+(c) that fraud, coercion or undue pressure was used to induce a donor under the Act of 1996 to appoint an attorney under the Act of 1996.
+
+F196[(2A) Following the receipt of a complaint under *subsection (1)* or *(2)* the Director shall carry out such review or investigation of the matter the subject of the complaint as he or she considers appropriate and shall, subject to *subsection (2B)*, form a view as to whether or not the complaint is well founded not later than 3 months after the date of his or her receipt of the complaint (in this section referred to as the "initial investigation period").
+
+(2B) The Director may, before the date of expiry of the initial investigation period, extend the duration of his or her investigation by a period of up to 6 months from that date by sending written notice to the complainant, the person who is the subject of the complaint and the relevant person concerned giving reasons for the extension.]
+
+(3) F186[The Director shall, as soon as is practicable after having formed a view under *subsection (2A)*]—
+
+(a) where he or she is of the view that the complaint is F187[well founded, and, in the case of a complaint under *subsection (2)*, notwithstanding section 12 of the Act of 1996], make an application to the court for a determination in relation to a matter specified in the F188[complaint,]
+
+F196[(aa) notwithstanding *paragraph (a)*, where he or she is of the view that the complaint is well founded and that—
+
+(i) the provision of clarification by him or her to the attorney regarding the role of the attorney would be an appropriate resolution, or
+
+(ii) the subject matter of the complaint could be appropriately resolved under *section 96(4)*,
+
+the Director may, not later than 3 months after having formed a view under *subsection (2A)*, provide the clarification referred to in *subparagraph (i),* or proceed to resolve the complaint as soon as possible under *section 96(4)*, as the case may be, and]
+
+(b) where he or she is of the view that the complaint is not well founded, notify the person who made the complaint of that view and provide reasons for that view.
+
+(4) A person who receives a notification under *subsection (3)(b)* may, not later than F189[3 months] after the date of issue of the notification, appeal a decision of the Director that the complaint is not well founded to the court.
+
+(5) The Director may, notwithstanding that no complaint has been received, on his or her own initiative carry out an F190[investigation, to which this section shall, with any necessary modifications, apply]
+
+F196[(5A) Where *subsection (3)(aa)* applies and the Director has provided the clarification referred to in *subparagraph (i)* of that subsection or has resolved the complaint under *section 96(4)* as referred to in *subparagraph (ii)* of that subsection, the Director may—
+
+(a) request further information regarding the outcome of the clarification or resolution, as the case may be, or
+
+(b) request confirmation that the complaint has been resolved,
+
+from the complainant, the person who is the subject of the complaint or the relevant person, as the Director considers appropriate.
+
+(5B) If the Director is not satisfied, following the receipt of the information or confirmation referred to in *subsection (5A)*, that the clarification or resolution referred to in that subsection has satisfactorily resolved the complaint, the Director may make an application to the court in accordance with *subsection (3)(a)* or may take such other steps as he or she considers appropriate in order to resolve the complaint.]
+
+(6) The court may—
+
+(a) pursuant to an application to it under *subsection (3)(a)* F197[...], or
+
+(b) pursuant to an appeal under F191[*subsection (4)* or *(6B)(b)*],
+
+make a determination in relation to a matter specified in *subsection (1)* or *(2)* and may, if it considers it appropriate, determine that—
+
+(i) an attorney shall no longer act as such in relation to the donor F192[concerned, and that the Register shall be amended accordingly] or
+
+(ii) an attorney under the Act of 1996 shall no longer act as such in relation to a donor under the Act of F193[1996, and that the registration of the instrument creating the enduring power under the Act of 1996 shall be cancelled, and such cancellation shall have the same effect as if the registration had been cancelled by the High Court under the Act of 1996.]
+
+F196[(6A) The Director shall, in accordance with this section, investigate a complaint under *subsection (1)* or (2) unless in his or her opinion there has been undue delay in making the complaint.
+
+(6B) A decision by the Director under *subsection (6A)* not to investigate a complaint—
+
+(a) shall be in writing, shall contain the reasons for the decision and shall be sent to the complainant as soon as possible after it is made, and
+
+(b) may be appealed by the complainant to the court not later than 3 months after the date of receipt by the complainant of the decision.]
+
+(7) The reference to “attorney” in F194[*section 95*] shall, for the purposes of this section, be construed as including an attorney under the Act of 1996.
+
+(8) The reference to “relevant person” in F195[*sections 95* and *99*] shall, for the purposes of this section, be construed as including a donor under the Act of 1996.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F183, F184, F185, F186, F187, F188, F189, F190, F191, F192, F193, F194, F195: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 65(a)(i), (ii), (c)(i),(ii), (d), (e), (g)(ii), (iii), (iv), (i), (j), S.I. No. 194 of 2023.
+>
+> F196: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 65(a)(iii), (b), (c)(iii), (f), (h), S.I. No. 194 of 2023.
+>
+> F197: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 65(g)(i), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E26: Records relating to an investigation under section that has been or is being carried out by the Director of the Decision Support Service, or a person delegated under s. 98(2), are excluded from application of *Freedom of Information Act 2014* by *Freedom of Information Act 2014* (30/2014), s. 42(eb), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 104, S.I. No. 194 of 2023.
+
+### 77. Applications to court
+
+**77.** (1) Where the Director makes an application to the court for a determination on whether the instrument creating an enduring power of attorney should be registered, the court may, notwithstanding that—
+
+(a) the enduring power of attorney or the instrument creating it does not comply with *section 59* or *section 60*, or
+
+(b) the application to register the instrument was not in accordance with *section 68*,
+
+register the instrument where it is satisfied that—
+
+(i) the donor intended the power to be effective during any period when the donor lacks capacity,
+
+(ii) fraud, coercion or undue pressure was not used to induce the donor to appoint an attorney,
+
+(iii) the attorney is suitable within the meaning of *section 59(6)* to be the donor’s attorney, and
+
+(iv) it is desirable in the interests of justice to register the enduring power.
+
+(2) In determining whether an attorney is suitable within the meaning of *section 59(6)*, the court, in addition to any other matters which it considers relevant shall have regard to—
+
+(a) the relationship and degree of connection between the donor and the attorney,
+
+(b) the degree of involvement which will be required on the part of the attorney in the care of the donor,
+
+(c) the willingness of the attorney to carry out his or her functions under the enduring power, and
+
+(d) any conflict of interest which may arise.
+
+(3) Where an instrument creating an enduring power of attorney has been F198[the subject of a notification under *section 71A* that has been accepted by the Director under *section 71C*], the court may, whether on application by the donor, the attorney, the Director or an interested party—
+
+(a) determine any question as to the meaning or effect of the power,
+
+(b) give directions with respect to—
+
+(i) a relevant decision relating to the personal welfare of the donor made or about to be made by the attorney,
+
+(ii) the management or disposal by the attorney of the property and affairs of the donor, and
+
+(iii) the remuneration or expenses of the attorney, whether or not in default of or in accordance with any provision of the enduring power, including directions for the repayment of excessive, or the payment of additional, remuneration,
+
+and
+
+F199[(c) consent to a resignation by the attorney of his or her role as attorney under the enduring power of attorney.]
+
+(4) Where the court gives a determination under *subsection (3)(a)*, a direction under *subsection (3)(b)* or a consent under *subsection (3)(c)*, it shall cause the Director to be notified of such direction or consent and the Director shall monitor the giving of effect by the attorney to such direction or consent as the case may be.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F198, F199: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 66(a), (b), S.I. No. 194 of 2023.
+
+### 78. Removal of instrument from the Register
+
+**78.** (1) The Director shall remove from the Register an instrument creating an enduring power of attorney where—
+
+(a) there has been a revocation in accordance with F200[*section 73A*], or
+
+(b) subject to *subsection (2)*, the attorney appointed under the instrument becomes F201[disqualified, dies, resigns from his or her role as attorney or is unable to act].
+
+F202[(2) In the circumstances described in *subsection (1)(b)*, where there is at least one attorney remaining due to—
+
+(a) the donor having appointed more than one attorney under an enduring power of attorney, or
+
+(b) the donor having specified a person to act as attorney for him or her in the event that the attorney on whom the authority is conferred is disqualified, dies, resigns from his or her role as attorney or is unable to act,
+
+the Director shall not remove the instrument from the Register, but shall note on the Register in connection with the power concerned the disqualification, death, resignation or inability to act, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F200, F201, F202: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 67(a)(i), (ii), (b), S.I. No. 194 of 2023.
+
+### 79. Regulations - Part 7
+
+F203[**79.** (1) The Minister may make regulations for the purpose of giving this Part full effect.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Minister shall, having regard to the requirements of this Part, prescribe by regulations the following matters:
+
+(a) the class of healthcare professionals under *sections 60(1)(c)(ii)*, *71A(2)(b)(ii)* and *73A(2)(c)(ii)*;
+
+(b) the bodies or classes of persons under *subsections (3)(a)* and *(4)(a)* of *section 72* who may inspect the Register and receive an authenticated copy of an enduring power of attorney;
+
+F204[(c) ...]
+
+(d) the fees to be paid in connection with the operation of *Part 7*, including in connection with—
+
+(i) an application to register an enduring power of attorney,
+
+(ii) an objection to an application to register an enduring power of attorney,
+
+(iii) a notification to the Director by an attorney under *section 71A*,
+
+(iv) an objection under *section 71B(1)*,
+
+(v) the issue of an authenticated copy of an enduring power of attorney or part thereof under *section 72(4)*,
+
+(vi) the variation of an enduring power of attorney, and
+
+(vii) the revocation of an enduring power of attorney,
+
+and
+
+(e) the circumstances in which the fees referred to in *paragraph (d)* may be waived by the Director.
+
+(3) In prescribing the matters referred to in *paragraphs (d)* and *(e)* of *subsection (2)*, the Minister shall take into account the nature of the matter for which the fee is being charged, the costs associated with that matter and the need to ensure the protection of the assets and funds of a donor.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F203: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 68, S.I. No. 194 of 2023.
+>
+> F204: Substituted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 68, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: subs. (2)(c) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 68, not commenced as of date of revision.
+>
+> F204[(c) the safeguards that shall apply in relation to consent and data protection in the conduct of health and social care research involving relevant persons;]
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to section exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Inspection of Registers and Receipt of Copies of Documents) Regulations 2023* (S.I. No. 206 of 2023).
+>
+> E28: Power pursuant to subs. (2)(a) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Prescribed Classes of Healthcare Professionals) Regulations 2023* (S.I. No. 204 of 2023).
+>
+> E29: Power pursuant to subs. (2)(d), (e) exercised (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015 (Fees) Regulations 2023* (S.I. No. 202 of 2023).
+
+### 79A. Matters to be specified by Director in relation to enduring powers of attorney
+
+F205[**79A.** (1) The Director may, with the consent of the Minister, specify in writing the following:
+
+(a) the form of an instrument creating an enduring power of attorney;
+
+(b) the form of application under *section 68(2)* to register an instrument;
+
+(c) the form of notice under *section 68(3)* of an application to register an instrument;
+
+(d) the form of notice by a donor, or, with his or her written consent, his or her attorney, under *section 69(9)*;
+
+(e) the form of an objection under *section 71(2)* to the registration of an instrument;
+
+(f) the form under *section 71A(1)* to notify the Director that a donor lacks capacity in relation to one or more relevant decisions that are the subject of an instrument creating an enduring power of attorney that was registered by the donor;
+
+(g) the form of notice under *section 71A(3)* of a notification to the Director;
+
+(h) the form of an objection under *section 71B* to the acceptance of a notification by the Director;
+
+(i) the form of notice by an attorney under *section 71C(9)*;
+
+(j) the form of variation or revocation under *section 73(2)* of an enduring power of attorney;
+
+(k) the form of a request to the Director under *section 73A(1)(i)*;
+
+(l) the form of a request to the Director under *section 73A(1)(ii)* and the accompanying written notice of revocation to which *section 73A(2)(e)* refers;
+
+(m) the form of notice under *section 73(4A)* of revocation of an enduring power of attorney;
+
+(n) the form of notice under *section 73A(6)*;
+
+(o) the form of a report under *section 75* to be submitted by an attorney to the Director,
+
+and the forms may contain such further information as the Director considers appropriate.
+
+(2) When making a specification under *subsection (1)*, the Director shall—
+
+(a) take into account the guiding principles specified in section 8 and the other provisions of this Act,
+
+(b) ensure that the forms are easy to read and to understand,
+
+(c) ensure that the forms are made available in accessible formats, and
+
+(d) take into account the different persons or classes or persons that will be using or reading the forms.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F205: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 69, S.I. No. 194 of 2023.
+
+### 80. Offences in relation to enduring powers of attorney
+
+**80.** (1) A person who uses fraud, coercion or undue influence to force another person to make, vary or revoke an enduring power of attorney commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+(2) A person who, in an instrument creating an enduring power of attorney, in an application for registration of an enduring power of attorney, or in connection with F206[such an application, or in a notification to the Director under *section 71A* or in connection with such a notification,] makes a statement which he or she knows to be false in a material particular commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €15,000 or imprisonment for a term not exceeding 2 years, or both.
+
+(3) The reference in *subsection (1)* to coercion or undue influence includes any case where a person’s access to, or continued stay in, a designated centre or mental health facility, is contingent (whether in whole or in part) on the person having to, or being led to believe that he or she has to, create, vary or revoke an enduring power of attorney.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F206: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 70, S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E30: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 81. Transitional provisions
+
+**81.** (1) Subject to F207[*subsections (2)* to *(8)* of *section 76*], this Part shall not apply to—
+
+(a) an enduring power of attorney under the Act of 1996,
+
+(b) an attorney under the Act of 1996, and
+
+(c) a donor under the Act of 1996.
+
+(2) From the date of commencement of this Part—
+
+(a) a person shall not create an enduring power of attorney under the Act of 1996, and
+
+(b) the Act of 1996 shall not apply to an enduring power of attorney created after that date.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F207: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 71(a), S.I. No. 194 of 2023.
+>
+> F208: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 71(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: subs. (1A) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 71(b), not commenced as of date of revision.
+>
+> F208[(1A) Notwithstanding *subsection (1)*, an application may, where the Minister has made regulations under *paragraph (b)*, be made for the registration of an instrument creating an enduring power under the Act of 1996 that has not been registered under section 10 of that Act and—
+>
+> (a) *sections 68* and *69* shall not apply in relation to the application,
+>
+> (b) the Minister may make regulations to provide for the registration process for the instrument, and to specify any requirements for registration, and
+>
+> (c) the Director may waive any or all fees under this Part in connection with that registration.]
+
+## PART 8Advance Healthcare Directives — PART 8 — Advance Healthcare Directives
+
+### 82. Definitions — Part 8
+
+**82.** In this Part—
+
+“advance healthcare directive”—
+
+(a) in relation to a person who has capacity, means an advance expression made by the person, in accordance with *section 84*, of his or her will and preferences concerning treatment decisions that may arise in respect of him or her if he or she subsequently lacks capacity, and
+
+(b) in relation to a designated healthcare representative, means the advance expression referred to in *paragraph (a)* under which the representative was designated as such representative,
+
+which has not been revoked pursuant to *section 84(7)*;
+
+“applicable”, in relation to an advance healthcare directive, shall be construed in accordance with *section 85*;
+
+“designated healthcare representative”, in relation to a directive-maker, means the named individual designated, pursuant to *section 87*, by the directive-maker, in his or her advance healthcare directive, to exercise the relevant powers;
+
+“directive-maker”—
+
+(a) in relation to an advance healthcare directive, means the person who made the directive, and
+
+(b) in relation to a designated healthcare representative, means the person who made the advance healthcare directive under which the representative was designated as such representative;
+
+“Minister” means the Minister for Health;
+
+“relevant powers”, in relation to a designated healthcare representative, means—
+
+(a) the power conferred on the representative under *section 88(1)(a)*, and
+
+(b) the powers (if any) conferred on the representative in accordance with *section 88(1)(b)*;
+
+F209[...]
+
+“valid”, in relation to an advance healthcare directive, shall be construed in accordance with *section 85*;
+
+“writing” includes voice and video recording and speech recognition technologies.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F209: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 72, S.I. No. 195 of 2023.
+
+### 83. Purpose of this Part
+
+**83.** (1) The purpose of this Part is to—
+
+(a) enable persons to be treated according to their will and preferences, and
+
+(b) provide healthcare professionals with information about persons in relation to their treatment choices.
+
+(2) A relevant person who has attained the age of 18 years and who has capacity is entitled to refuse treatment for any reason (including a reason based on his or her religious beliefs) notwithstanding that the refusal—
+
+(a) appears to be an unwise decision,
+
+(b) appears not to be based on sound medical principles, or
+
+(c) may result in his or her death.
+
+### 84. Making of advance healthcare directives, etc.
+
+**84.** (1) A person who has attained the age of 18 years and who has capacity may make an advance healthcare directive.
+
+(2) A refusal of treatment set out in an advance healthcare directive shall be complied with if the following 3 conditions are met:
+
+(a) at the time in question the directive-maker lacks capacity to give consent to the treatment;
+
+(b) the treatment to be refused is clearly identified in the directive;
+
+(c) the circumstances in which the refusal of treatment is intended to apply are clearly identified in the directive.
+
+(3) (a) A request for a specific treatment set out in an advance healthcare directive is not legally binding but shall be taken into consideration during any decision-making process which relates to treatment for the directive-maker if that specific treatment is relevant to the medical condition for which the directive-maker may require treatment.
+
+(b) Where a request for a specific treatment set out in an advance healthcare directive is not complied with in a decision-making process referred to in *paragraph (a)*, the healthcare professional concerned, involved in that decision-making process, shall—
+
+(i) record the reasons for not complying with the request in the directive- maker’s healthcare record, and
+
+(ii) give a copy of those reasons as so recorded to the person’s designated healthcare representative (if any) as soon as is practicable after they have been recorded but, in any case, not later than 7 working days after they have been recorded.
+
+(4) An advance healthcare directive shall be in writing.
+
+(5) (a) An advance healthcare directive shall contain the following:
+
+(i) the name, date of birth and contact details of the directive-maker;
+
+(ii) subject to *paragraph (b)*, the signature of the directive-maker, and the date that the directive-maker signed the directive;
+
+(iii) the name, date of birth and contact details of the designated healthcare representative (if any);
+
+(iv) the signature of the designated healthcare representative (if any) and the date that the representative signed the directive;
+
+(v) the signatures of the 2 witnesses referred to in *subsection (6)(a)*.
+
+(b) An advance healthcare directive may be signed on behalf of the directive-maker by a person who has attained the age of 18 years and who is not one of the witnesses referred to in *subsection (6)(a)* if—
+
+(i) the directive-maker is unable to sign the directive,
+
+(ii) the directive-maker is present and directs that the directive be signed on his or her behalf by that person, and
+
+(iii) the signature of the person is witnessed in accordance with *subsection (6)(b)*.
+
+(6) (a) The directive-maker, or the person signing on his or her behalf in accordance with *subsection (5)*, and the designated healthcare representative (if any) shall sign the advance healthcare directive in the presence of each other (where applicable) and in the presence of 2 witnesses—
+
+(i) each of whom has attained the age of 18 years, and
+
+(ii) of whom at least one is not an immediate family member of the directive-maker.
+
+(b) Each of the witnesses referred to in *paragraph (a)* shall witness the signature of the directive-maker or the person signing on his or her behalf and the signature of the designated healthcare representative (if any) by applying his or her own signature to the advance healthcare directive.
+
+(7) (a) A directive-maker who has capacity may revoke his or her advance healthcare directive in writing.
+
+(b) Subject to *paragraph (c)*, a directive-maker who has capacity may, in writing, alter his or her advance healthcare directive.
+
+(c) An alteration referred to in *paragraph (b)* of an advance healthcare directive is of no effect unless it is signed and witnessed in accordance with *subsections (5)* and *(6)* as if the alteration itself were an advance healthcare directive.
+
+(8) An advance healthcare directive made outside the State but which substantially complies with the requirements of this Part applicable to an advance healthcare directive shall have the same force and effect in the State as if it were made in the State.
+
+(9) The Minister may, for the guidance of persons wishing to make advance healthcare directives, specify forms of such directives, not inconsistent with this Part, that such persons may use or adapt in making their respective advance healthcare directives.
+
+(10) The Minister’s power under *subsection (9)* may be exercised in such a way as to specify forms of advance healthcare directives to provide for particular circumstances or particular cases, as the Minister thinks appropriate.
+
+(11) The Minister may publish any forms of advance healthcare directives that he or she has specified under *subsection (9)* in such manner that he or she thinks appropriate, including by the use of a website on the internet.
+
+(12) The Minister may make regulations as respects advance healthcare directives, including regulations relating to—
+
+(a) requiring the directive-maker to give notice of the making of an F210[advance healthcare directive, or any revocation or alteration thereof,]—
+
+(i) to the Director, and
+
+(ii) to other specified persons, and whether or not by reference to persons who, under this Act, are required to be notified of an application made under this Act,
+
+and
+
+F211[(b) subject to *subsection (12A)*, requiring the Director to establish and maintain a register (in this section referred to as the "register") of advance healthcare directives and any revocations or alterations thereof, that are so notified to him or her and that are made in accordance with this section.]
+
+F212[(12A) The Director shall arrange for the review of advance healthcare directives, or any revocation or alteration thereof, that are notified to him or her in accordance with regulations made under *subsection (12)*, in order to verify that they comply with this section and once compliance has been so verified, such directives, revocations or alterations may be included in the register.
+
+(12B) The register shall be in such form as the Director considers appropriate.
+
+(12C) The Director shall make such details of the register as he or she shall specify available for inspection—
+
+(a) by or on behalf of healthcare professionals, where such inspection is necessary to obtain information about a person’s treatment choices for the purpose of the treatment of the person,
+
+(b) by a designated healthcare representative of a person who has made an advance healthcare directive, in relation to that advance healthcare directive, and
+
+(c) by or on behalf of any other person who, on having provided a reasoned request to the Director, satisfies the Director that he or she has a legitimate interest, having regard to the purposes of this Part, in inspecting those details of the register.
+
+(12D) The Director may issue an authenticated copy of an advance healthcare directive to—
+
+(a) healthcare professionals, where receipt of an authenticated copy is necessary to obtain information about a person’s treatment choices for the purpose of the treatment of the person,
+
+(b) a designated healthcare representative of a person who made an advance healthcare directive, and
+
+(c) any other person who, on having provided a reasoned request to the Director, satisfies the Director that he or she has a legitimate interest, having regard to the purposes of this Part, in receiving the authenticated copy.
+
+(12E) The Director shall keep a record of any body or person that has inspected the register or received an authenticated copy from him or her.
+
+(12F) An authenticated copy of an advance healthcare directive, and, where applicable, any alterations thereof, that is issued by the Director under *subsection (12D)* and stamped by the Director with a time and date stamp (which may be by automated means), shall be evidence of the contents of the directive, and, where applicable, any alterations thereof, as at the date and time indicated on the stamp.]
+
+(13) In this section, “immediate family member” means—
+
+(a) a spouse, civil partner, or cohabitant,
+
+(b) a child, son-in-law or daughter-in-law,
+
+(c) a parent, step-parent, mother-in-law or father-in-law,
+
+(d) a brother, sister, step-brother, step-sister, brother-in-law or sister-in-law,
+
+(e) a grandparent or grandchild,
+
+(f) an aunt or uncle, or
+
+(g) a nephew or niece.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F210, F211: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 73(a)(i), (ii), S.I. No. 195 of 2023.
+>
+> F212: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 73(b), S.I. No. 195 of 2023.
+
+### 85. Validity and applicability of advance healthcare directive
+
+**85.** (1) An advance healthcare directive is not valid if the directive-maker—
+
+(a) did not make the directive voluntarily, or
+
+(b) while he or she had capacity to do so, has done anything clearly inconsistent with the relevant decisions outlined in the directive.
+
+(2) An advance healthcare directive is not applicable if—
+
+(a) at the time in question the directive-maker still has capacity to give or refuse consent to the treatment in question,
+
+(b) the treatment in question is not materially the same as the specific treatment set out in the directive that is requested or refused, or
+
+(c) at the time in question the circumstances set out in the directive as to when the specific treatment is to be requested or refused, as the case may be, are absent or not materially the same.
+
+(3) An advance healthcare directive is not applicable to life-sustaining treatment unless this is substantiated by a statement in the directive by the directive-maker to the effect that the directive is to apply to that treatment even if his or her life is at risk.
+
+(4) (a) An advance healthcare directive is not applicable to the administration of basic care to the directive-maker.
+
+(b) In *paragraph (a)* “basic care” includes (but is not limited to) warmth, shelter, oral nutrition, oral hydration and hygiene measures but does not include artificial nutrition or artificial hydration.
+
+(5) Where an ambiguity arises as to the validity or applicability of an advance healthcare directive—
+
+(a) the healthcare professional concerned shall, in an effort to resolve the ambiguity —
+
+(i) consult with the directive-maker’s designated healthcare representative (if any) or, if there is no designated healthcare representative, the directive-maker’s family and friends, and
+
+(ii) seek the opinion of a second healthcare professional,
+
+and
+
+(b) if, after the healthcare professional has complied with *paragraph (a)*, the ambiguity still has not been resolved, the healthcare professional shall resolve the ambiguity in favour of the preservation of the directive-maker’s life.
+
+(6) F213[...]
+
+(7) F214[(a) Subject to *subsections (1)* to *(5)* and *paragraph (b)*, an advance healthcare directive shall, insofar as provided for by this Part, be complied with unless, at the time when it is proposed to treat the directive-maker—
+
+(i) his or her treatment is regulated by Part 4 of the Act of 2001, other than where he or she is detained under that Act on the grounds that he or she is suffering from a mental disorder within the meaning of section 3(1)(b) of that Act, or
+
+(ii) he or she is the subject of a conditional discharge order under section 13A of the Criminal Law (Insanity) Act 2006,
+
+and sections 56, 57, 59 and 60 of the Act of 2001 shall be construed accordingly.]
+
+(b) Notwithstanding *paragraph (a)*, where a refusal of treatment set out in an advance healthcare directive by a directive-maker relates to the treatment of a physical illness not related to the amelioration of a mental disorder of the directive-maker, the refusal shall be complied with.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 74(a), S.I. No. 195 of 2023.
+>
+> F214: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 74(b), S.I. No. 195 of 2023.
+
+### 86. Effect of advance healthcare directive
+
+**86.** (1) A specific refusal of treatment set out in an advance healthcare directive is as effective as if made contemporaneously by the directive-maker when he or she had capacity to make that decision.
+
+(2) (a) Nothing in this Part shall be construed as imposing any civil or criminal liability on a healthcare professional who has complied, or purportedly complied, with a refusal of treatment set out in an advance healthcare directive and who, at the time in question, had reasonable grounds to believe, and did believe, that the advance healthcare directive was valid and applicable.
+
+(b) Nothing in this Part shall be construed as imposing any civil or criminal liability on a healthcare professional who has not complied with a refusal of treatment set out in an advance healthcare directive and who, at the time in question, had reasonable grounds to believe, and did believe, that the advance healthcare directive was not valid or applicable, or both.
+
+(3) Nothing in this Part shall be construed as imposing any civil or criminal liability on a healthcare professional who has, at the time in question, not acted in compliance with a refusal of treatment set out in an advance healthcare directive if—
+
+(a) he or she had, at that time, no grounds to believe that the directive existed, or
+
+(b) he or she had, at that time, grounds to believe that the directive existed but—
+
+(i) had no immediate access to the directive or its contents, and
+
+(ii) the urgency of the medical condition of the directive-maker was such that the healthcare professional could not reasonably delay taking appropriate medical action until he or she did have such access.
+
+(4) Nothing in this Part shall be construed as affecting any civil or criminal liability of a person that might otherwise arise under the common law or an enactment (other than this Act) as a result of a failure to comply with a valid and applicable advance healthcare directive.
+
+(5) Nothing in this Part shall be taken to affect—
+
+(a) the law relating to murder or manslaughter, or
+
+(b) the operation of section 2 of the Criminal Law (Suicide) Act 1993.
+
+### 87. Designated healthcare representative
+
+**87.** (1) (a) Subject to *subsection (2)*, a directive-maker may designate, in his or her advance healthcare directive, a named individual to exercise the relevant powers.
+
+(b) If the designated individual agrees to exercise the relevant powers, he or she shall sign the advance healthcare directive to confirm his or her willingness to do so in accordance with the known will and preferences of the directive-maker as determined by reference to the directive.
+
+(2) Subject to *subsection (3)*, an individual shall not be eligible to be a designated healthcare representative if—
+
+(a) the individual has not attained the age of 18 years,
+
+(b) the individual has been convicted of an offence in relation to the person or property of the directive-maker or the person or property of a child of the directive-maker,
+
+(c) a safety or barring order has been made against the individual in relation to the directive-maker or a child of the directive-maker,
+
+(d) the individual is—
+
+(i) the owner or the registered provider of a designated centre or mental health facility in which the directive-maker resides, or
+
+(ii) a person residing with, or an employee or agent of, such owner or registered provider,
+
+unless the individual is a spouse, civil partner, cohabitant, parent, child or sibling of the directive-maker, or
+
+(e) the individual provides personal care or healthcare services to the directive-maker for compensation unless the individual is—
+
+(i) a spouse, civil partner, cohabitant, parent, child or sibling of the directive-maker, or
+
+(ii) the primary carer of the directive-maker.
+
+(3) Where, subsequent to the designation of an individual as a designated healthcare representative—
+
+(a) the individual is convicted of an offence in relation to the person or property of the directive-maker or the person or property of a child of the directive-maker,
+
+(b) a safety or barring order is made against the individual in relation to the directive- maker or a child of the directive-maker,
+
+(c) the individual becomes—
+
+(i) the owner or the registered provider of a designated centre or mental health facility in which the directive-maker resides, or
+
+(ii) a person residing with, or an employee or agent of, such owner or registered provider,
+
+unless the individual is a spouse, civil partner, cohabitant, parent, child or sibling of the directive-maker,
+
+(d) the individual provides personal care or healthcare services to the directive-maker for compensation where the individual is not—
+
+(i) a spouse, civil partner, cohabitant, parent, child or sibling of the directive- maker, or
+
+(ii) the primary carer of the directive-maker, or
+
+(e) the individual is unable, for whatever reason, to exercise the relevant powers,
+
+that individual shall not, from the date on which he or she falls within any of *paragraphs (a)* to *(e)*, be permitted to exercise relevant powers.
+
+(4) A designated healthcare representative acts as the agent of the directive-maker when he or she exercises the relevant powers.
+
+(5) Unless otherwise provided in the advance healthcare directive, a designated healthcare representative shall not, with effect from the date on which an event specified in any of *paragraphs (a)* to *(c)* occurs or, in the case of an event specified in *paragraph (d)*, at the expiry of the period referred to in that paragraph, be permitted to exercise relevant powers where the representative is the spouse of the directive-maker and—
+
+(a) the marriage is annulled or dissolved either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by reason of that annulment or dissolution, not or no longer a subsisting valid marriage under the law of the State,
+
+(b) either a decree of judicial separation is granted to either spouse by a court in the State or any decree is so granted by a court outside the State and is recognised in the State as having like effect,
+
+(c) a written agreement to separate is entered into between the spouses, or
+
+(d) subject to *section 2(2)*, the spouses separate and cease to cohabit for a continuous period of 12 months.
+
+(6) Unless otherwise provided in the advance healthcare directive, a designated healthcare representative shall not, with effect from the date on which an event specified in paragraphs *(a)* or *(b)* occurs or, in the case of an event specified in *paragraph (c)*, at the expiry of the period referred to in that paragraph, be permitted to exercise relevant powers where the representative is the civil partner of the directive-maker and—
+
+(a) the civil partnership is annulled or dissolved (other than where the dissolution occurs by virtue of the parties to that civil partnership marrying each other) either—
+
+(i) under the law of the State, or
+
+(ii) under the law of another state and is, by means of that annulment or dissolution not or no longer a subsisting valid civil partnership under the law of the State,
+
+(b) a written agreement to separate is entered into between the civil partners, or
+
+(c) subject to *section 2(2)*, the civil partners separate and cease to cohabit for a continuous period of 12 months.
+
+(7) Subject to *section 2(2)* and unless otherwise provided in the advance healthcare directive, a designated healthcare representative shall not, with effect from the expiry of the period referred to in this subsection, be permitted to exercise relevant powers where the representative is the cohabitant of the directive-maker and the cohabitants separate and cease to cohabit for a continuous period of 12 months.
+
+### 88. Functions and scope of authority of designated healthcare representatives
+
+**88.** (1) (a) A designated healthcare representative has, by virtue of this paragraph, the power to ensure that the terms of the advance healthcare directive are complied with.
+
+(b) A directive-maker may, in his or her advance healthcare directive, confer on his or her designated healthcare representative one or both of the following powers:
+
+(i) the power to advise and interpret what the directive-maker’s will and preferences are regarding treatment as determined by the representative by reference to the relevant advance healthcare directive;
+
+(ii) the power to consent to or refuse treatment, up to and including life-sustaining treatment, based on the known will and preferences of the directive-maker as determined by the representative by reference to the relevant advance healthcare directive.
+
+(2) Nothing in this Part shall be construed as imposing any civil or criminal liability on a designated healthcare representative who, in exercising his or her relevant powers, acted in good faith and in accordance with what, at the time in question, he or she reasonably believed to be the will and preferences of the relevant directive-maker by reference to the relevant advance healthcare directive.
+
+(3) A designated healthcare representative shall—
+
+(a) as soon as is practicable after making a relevant decision but, in any case, not later than 7 working days after making the decision, make and keep a record in writing of the decision, and
+
+(b) produce that record for inspection at the request of—
+
+(i) the directive-maker if he or she has regained capacity, or
+
+(ii) the Director.
+
+(4) (a) The Director shall receive and consider complaints and allegations in relation to the way in which a designated healthcare representative is exercising his or her relevant powers.
+
+F215[(b) The Director—
+
+(i) shall review any complaint referred to in *paragraph (a)* and shall, if satisfied that the complaint has substance, conduct an investigation into the matter, or
+
+(ii) may, notwithstanding that no complaint has been received, on his or her own initiative conduct an investigation in relation to the way in which a designated healthcare representative is exercising his or her relevant powers.]
+
+(c) The Director may, following the completion of an investigation under *paragraph (b)*, decide to, as appropriate—
+
+(i) take no further action, or
+
+(ii) make an application to the court.
+
+(5) The court may determine an application under *subsection (4)(c)* by—
+
+(a) if it is satisfied that the designated healthcare representative has behaved, is behaving or is proposing to behave in a manner outside the scope of his or her relevant powers, making an order prohibiting the representative from exercising those powers with effect from the date, or the occurrence of the event, specified in the order for the purpose, or
+
+(b) if it is not so satisfied, declining to make any such order.
+
+(6) (a) A designated healthcare representative may only exercise the relevant powers when and for so long as the directive-maker lacks capacity.
+
+(b) A designated healthcare representative shall not delegate any of the relevant powers and, accordingly, any instrument purporting to effect such a delegation is void.
+
+(7) A directive-maker may designate, in his or her advance healthcare directive, a named individual to be the directive-maker’s alternate designated healthcare representative if the original designated healthcare representative dies, or is unable, for whatever reason, to exercise the relevant powers, provided that the named individual is eligible to act as such under *section 87* at the time concerned, and, accordingly, the other provisions of this Part shall, with all necessary modifications, be construed to take account of any such advance healthcare directive.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 75,S.I. No. 195 of 2023.
+>
+> **Editorial Notes:**
+>
+> E31: Records relating to an investigation under section that has been or is being carried out by the Director of the Decision Support Service, or a person delegated under s. 98(2), are excluded from application of *Freedom of Information Act 2014* by *Freedom of Information Act 2014* (30/2014), s. 42(eb), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 104, S.I. No. 194 of 2023.
+
+### 89. Role of courts
+
+**89.** (1) On an application (being an application that does not involve considerations relating to life-sustaining treatment) made to it by any interested party, the court may make a declaration as to whether—
+
+(a) an advance healthcare directive is valid,
+
+(b) an advance healthcare directive is applicable, or
+
+(c) a designated healthcare representative is acting in accordance with the relevant powers.
+
+(2) On an application (being an application that involves considerations relating to life-sustaining treatment) made to it by any interested party, the High Court may make a declaration as to whether—
+
+(a) an advance healthcare directive is valid,
+
+(b) an advance healthcare directive is applicable, or
+
+(c) a designated healthcare representative is acting in accordance with the relevant powers.
+
+(3) Whilst awaiting a decision of the High Court relating to an application under *subsection (2)*, nothing in the advance healthcare directive concerned shall be construed to prevent a person from—
+
+(a) providing life-sustaining treatment to the directive-maker, or
+
+(b) doing any act which he or she reasonably believes to be necessary to prevent—
+
+(i) a serious deterioration in the health of the directive-maker, or
+
+(ii) if the directive-maker is a pregnant woman, a deleterious effect on F216[her pregnancy].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F216: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 76, S.I. No. 195 of 2023.
+
+### 90. Offences in relation to advance healthcare directives
+
+**90.** (1) A person who uses fraud, coercion or undue influence to force another person to make, alter or revoke an advance healthcare directive commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+(2) A person who knowingly creates, falsifies or alters, or purports to revoke, an advance healthcare directive on behalf of another person without that other person’s consent in writing when the other person has the capacity to do so commits an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+(3) The reference in *subsection (1)* to coercion or undue influence includes any case where a person’s access to, or continued stay in, a designated centre or mental health facility is contingent (whether in whole or in part) on the person having to, or being led to believe that he or she has to, make, alter or revoke an advance healthcare directive.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E32: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 91. Codes of practice
+
+**91.** (1) In this section—
+
+“body concerned”, in relation to a person concerned, means the body responsible for hearing complaints about failures to maintain professional standards in respect of the profession practised by the person concerned;
+
+“code of practice” includes part of a code of practice and, in relation to a code of practice published under *subsection (3)*, means such code as is in force from time to time under this section;
+
+“person concerned”, in relation to a code of practice, means a person for whom the code is providing guidance;
+
+“working group” means the working group established under *subsection (2)*.
+
+(2) The Minister shall establish a multidisciplinary working group of suitable persons willing and able to make recommendations to the Director in relation to codes of practice.
+
+(3) The Director may prepare and publish a code of practice, based (whether in whole or in part) on recommendations made to him or her by the working group as to the contents of the code, for the purposes of the guidance of designated healthcare representatives or healthcare professionals, or both, or with respect to such other matters concerned with this Part as the Director thinks appropriate.
+
+(4) The Director shall, before publishing a code of practice pursuant to his or her power under *subsection (3)* —
+
+(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates, in such manner as the Director considers appropriate, a draft of the code,
+
+(b) invite the persons to whom he or she has made the draft available to make representations in writing on it to the Director within a period determined by the Director, being a period of not less than 30 days from the date of making the draft available to those persons,
+
+(c) consider, jointly with the working group, the representations (if any) received, and
+
+(d) make, after consultation with the working group, any modifications that he or she considers appropriate to the draft.
+
+(5) The Director shall not publish a code of practice under *subsection (3)* except with the consent of the Minister.
+
+(6) Where the Director publishes a code of practice under *subsection (3)*, he or she shall cause a notice to that effect to be published in *Iris Oifigiúil* and such notice shall specify—
+
+(a) the persons or classes of persons for whom the code is providing guidance,
+
+(b) the date from which the code has effect, and
+
+(c) the place where a copy of the code may be viewed, inspected or purchased.
+
+(7) The Director shall publish, on the website on the internet or by the other electronic means referred to in *section 95(1)(j)*, a copy of each code of practice published under *subsection (3)*, as each such code is in force from time to time, on and from the date on which each such code has effect.
+
+(8) The Director shall arrange for that part of the website on the internet or other electronic means referred to in *section 95(1)(j)*, which contains a code of practice pursuant to *subsection (7)* to ordinarily be accessible by members of the public.
+
+(9) Subject to *subsection (10)*, the Director may, after consultation with the working group, amend or revoke a code of practice published under *subsection (3)*.
+
+(10) *Subsections (4)* and *(5)* shall, with all necessary modifications, apply to a code of practice that the Director proposes to amend or revoke under *subsection (9)* as *subsections (4)* and *(5)* apply to a code of practice that the Director proposes to publish under *subsection (3)*.
+
+(11) Where the Director amends or revokes a code of practice published under *subsection (3)*, the Director shall cause a notice to that effect to be published in *Iris Oifigiúil* specifying—
+
+(a) the code to which the amendment or revocation, as the case may be, relates and, if applicable, particulars of the amendment,
+
+(b) the persons or classes of persons in respect of whom the code is so amended or revoked, as the case may be, and
+
+(c) the date from which the amendment or revocation, as the case may be, shall have effect.
+
+(12) A document bearing the seal of the Mental Health Commission and purporting to be a code of practice published under *subsection (3)* or, where such a code has been amended under this section, the code as so amended, shall be admissible in any legal proceedings.
+
+(13) A person concerned shall have regard to a code of practice published under *subsection (3)* when performing any function under this Act in respect of which the code provides guidance.
+
+(14) Where it appears to a court, tribunal, or body concerned, conducting any proceedings that—
+
+(a) a provision of a code of practice published under *subsection (3)*, or
+
+(b) a failure to comply with a code of practice published under *subsection (3)*,
+
+is relevant to a question arising in the proceedings, the provision or failure, as the case may be, shall be taken into account in deciding the question.
+
+### 92. Persons who may make applications to relevant court under this Part, etc.
+
+**92.** (1) An application to the relevant court under this Part (other than an application by the directive-maker concerned) shall be made on notice to—
+
+(a) the directive-maker,
+
+(b) the persons referred to in *paragraphs (c)* to *(i)* of *subsection (3)* (other than any such person who is the applicant), and
+
+(c) such other persons as may be specified in rules of court.
+
+(2) Subject to *subsection (3)*, an application to the relevant court under this Part shall not be made unless the person making the application has received the consent of the court to the making of the application, which consent may be sought by way of an ex parte application.
+
+(3) *Subsection (2)* shall not apply to an application to the relevant court under this Part made by—
+
+(a) the directive-maker,
+
+(b) the Director,
+
+(c) a spouse or civil partner of the directive-maker,
+
+(d) the cohabitant of the directive-maker,
+
+(e) a decision-making assistant for the directive-maker,
+
+(f) a co-decision-maker for the directive-maker,
+
+(g) a decision-making representative for the directive-maker,
+
+F217[(h) an attorney or an attorney under the Act of 1996 for the directive-maker,]
+
+(i) a designated healthcare representative for the directive-maker, or
+
+(j) a person specified for that purpose in an existing order of the court under this Part where the application relates to that order.
+
+(4) An application to the relevant court under this Part (including an ex parte application under *subsection (2)*) shall state—
+
+(a) the applicant’s connection with the directive-maker,
+
+(b) the benefit to the directive-maker sought to be achieved by the application, and
+
+(c) the reasons why the application is being made, in particular—
+
+(i) the reason why the benefit to the directive-maker sought to be achieved has failed to be achieved in any other appropriate and practicable manner taken prior to the making of the application, and
+
+(ii) the reason why, in the opinion of the applicant, no other appropriate and practicable manner to achieve that benefit remains to be taken prior to the making of the application.
+
+(5) In every application to the relevant court under this Part, the applicant shall inform the court of the existence of—
+
+(a) any decision-making assistance agreement, co-decision-making agreement, power of attorney (whether an enduring power or otherwise and whether or not the power is registered) or advance healthcare directive created by the directive-maker, and
+
+(b) any decision-making order or decision-making representation order in respect of the directive-maker,
+
+which, to the applicant’s knowledge, still has any force or effect.
+
+(6) Rules of court shall make provision—
+
+(a) as to the manner and form in which proceedings under this Part are to be commenced,
+
+(b) as to the persons entitled to be notified of, and be made parties to, such proceedings, and
+
+(c) as to what may be received as evidence in such proceedings and the manner in which it is to be presented.
+
+(7) Hearings of applications under this Part shall—
+
+(a) be conducted with the least amount of formality consistent with the proper administration of justice, and
+
+(b) be heard and determined otherwise than in public.
+
+(8) In this section “relevant court” means the court or the High Court, as appropriate.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F217: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 77, S.I. No. 195 of 2023.
+>
+> **Editorial Notes:**
+>
+> E33: Power pursuant to subs. (6) exercised (25.05.2023) by *Rules of the Superior Courts (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 261 of 2023).
+>
+> E34: Power pursuant to subs. (6) exercised (27.04.2023) by *Circuit Court Rules (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 201 of 2023).
+
+### 93. Review of this Part
+
+**93.** F218[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F218: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(e), S.I. No. 194 of 2023.
+
+## PART 9Director of the Decision Support Service — PART 9 — Director of the Decision Support Service
+
+### Chapter 1Appointment, functions and terms and conditions of Director — Chapter 1 — Appointment, functions and terms and conditions of Director
+
+#### 94. Appointment of Director
+
+**94.** (1) The Mental Health Commission shall appoint a person to be known as the Director of the Decision Support Service to perform the functions conferred on the Director by this Act.
+
+(2) The Director shall—
+
+(a) be appointed by the Mental Health Commission on the recommendation of the Public Appointments Service after a competition for that purpose under section 47 of the Public Service Management (Recruitment and Appointments) Act 2004 has been held, and
+
+(b) have the appropriate experience, qualifications, training and expertise to enable him or her to efficiently and effectively perform the functions conferred on him or her.
+
+(3) A person is not eligible for appointment as the Director if he or she—
+
+(a) is a member of either House of the Oireachtas,
+
+(b) is entitled under the rules of procedure of the European Parliament to sit in that Parliament, or
+
+(c) is a member of a local authority within the meaning of the Local Government Act 2001.
+
+#### 95. Functions of Director
+
+**95.** (1) The Director shall have, in addition to the functions assigned to him or her by any other provision of this Act, the following functions:
+
+(a) to promote public awareness of this Act and matters (including the United Nations Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006) relating to the exercise of their capacity by persons who require or may shortly require assistance in exercising their capacity;
+
+(b) to promote public confidence in the process of dealing with matters which affect persons who require or may shortly require assistance in exercising their capacity;
+
+(c) to provide information to relevant persons in relation to their options under this Act for exercising their capacity;
+
+(d) to provide information to decision-making assistants, co-decision-makers, decision-making representatives, designated healthcare representatives and attorneys in relation to the performance of their functions under this Act;
+
+(e) to supervise, in accordance with the provisions of this Act, compliance by decision-making assistants, co-decision-makers, decision-making representatives and attorneys in the performance of their functions under this Act;
+
+(f) to provide information in relation to the management of property and financial affairs to relevant persons and to decision-making assistants, co-decision-makers, decision-making representatives and attorneys;
+
+(g) to provide information and guidance to organisations and bodies in the State in relation to their interaction with relevant persons;
+
+(h) to provide information and guidance to organisations and bodies in the State in relation to their interaction with decision-making assistants, co-decision-makers, decision-making representatives, attorneys and designated healthcare representatives;
+
+(i) to identify and make recommendations for change of practices in organisations and bodies in which the practices may prevent a relevant person from exercising his or her capacity under this Act;
+
+(j) to establish a website on the internet or provide, or arrange for the provision of, other electronic means by which to disseminate information to members of the public relevant to the performance of the Director’s functions and which will, in the opinion of the Director, assist members of the public to understand the operation of this Act and the Director’s role in relation thereto;
+
+F219[(ja) to make recommendations to the Minister for Health on any matter relating to the operation of *Part 8*;]
+
+(k) to make recommendations to the Minister on any matter relating to the operation of this Act.
+
+(2) The Director shall have all such powers as are necessary or expedient for, or incidental to, the performance of his or her functions.
+
+(3) F220[Save where the Minister is empowered under this Act to prescribe fees by regulations, the Director], with the consent of the Minister, may, and if directed by the Minister to do so and in accordance with the terms of the direction, shall F221[specify] the fees to be paid to him or her and when they fall due in respect of—
+
+(a) the performance of functions,
+
+(b) the provision of services, and
+
+(c) the provision of information and guidance,
+
+by him or her under the Act.
+
+(4) Without prejudice to the generality of *subsection (3)*, the Director’s power under that subsection to F222[specify] fees includes the power to provide for exemptions from the payment of fees, in different circumstances or classes of circumstances or in different cases or classes of cases.
+
+F223[(5) In carrying out his or her functions, the Director may—
+
+(a) consult with any person who has any functions in relation to the care or treatment of a relevant person, and
+
+(b) request information relating to the carrying out of functions under this Act from decision-making assistants, co-decision-makers, decision-making representatives, attorneys, designated healthcare representatives or relevant persons.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F219: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 78(a), S.I. No. 194 of 2023.
+>
+> F220, F221, F222, F223: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 78(b)(i), (ii), (c), (d), S.I. No. 194 of 2023.
+
+#### 95A. Regulations providing for disclosure of certain data by Director
+
+F224[**95A.** (1) The Minister, following consultation with such other Minister of the Government as he or she considers appropriate and with the Data Protection Commission, may make regulations to provide for the disclosure by the Director of information lawfully obtained by him or her, which may include personal data in relation to a relevant person or another person, to a public authority or a public body specified under *subsection (2)(b)*, and in particular may make regulations relating to where—
+
+(a) such disclosure is necessary to protect the vital interests of the relevant person or another person,
+
+(b) such disclosure is necessary to protect and safeguard the interests of a relevant person or another person in relation to his or her treatment or care,
+
+(c) such disclosure is necessary to protect and safeguard the assets of a relevant person, or
+
+(d) the Director comes into possession of information that discloses the commission or possible commission of a criminal offence.
+
+(2) Regulations made under *subsection (1)* shall specify—
+
+(a) the type of information that the Director may disclose,
+
+(b) the public authorities or public bodies to which the Director may disclose the information,
+
+(c) the purpose or purposes of the disclosure of the information, and
+
+(d) the conditions in accordance with which the information is to be disclosed.
+
+(3) Without prejudice to the generality of *subsection (1)*, regulations made thereunder may provide for the sharing of special categories of personal data or data relating to the prevention, detection, investigation or prosecution of criminal offences in relation to a relevant person where this is necessary for reasons of substantial public interest, in which case the regulations shall identify—
+
+(a) the substantial public interest concerned, and
+
+(b) the suitable and specific measures to be taken to safeguard the fundamental rights and freedoms of data subjects in processing the personal data which is authorised by the regulations.
+
+(4) For the purposes of *subsection (3)(b)*, subsections (2) to (8) of section 36 of the Data Protection Act 2018 shall apply in like manner to regulations to which *subsection (3)* of this section refers as they apply to regulations made under the said section 36.
+
+(5) The Minister, when making regulations under *subsection (1)*, shall have regard to the need for the protection of individuals with regard to the processing of their personal data, and without prejudice to the generality of that need, have regard to—
+
+(a) the nature, scope and purposes of the processing,
+
+(b) the nature of the substantial public interest concerned,
+
+(c) any benefits likely to arise for the data subjects concerned,
+
+(d) any risks arising for the rights and freedoms of such subjects, and
+
+(e) the likelihood of any such risks arising and the severity of such risks.
+
+(6) Regulations made under *subsection (1)* shall—
+
+(a) respect the essence of the right to data protection, and
+
+(b) enable processing of such data only in so far as is necessary and proportionate to the aim sought to be achieved.
+
+(7) Regulations made under *subsection (1)* may, in specifying the conditions in accordance with which the information referred to in *subsection (2)* is to be disclosed under *paragraph (d)* of the said *subsection (2)*, provide for information to be disclosed under and in accordance with a data sharing agreement within the meaning of section 2 of the Data Sharing and Governance Act 2019.
+
+(8) In this section—
+
+"Act of 2018" means the Data Protection Act 2018;
+
+"information" includes data;
+
+"personal data" has the same meaning as it has in section 69(1) of the Act of 2018;
+
+"public authority" has the same meaning as it has in section 2(1) of the Act of 2018;
+
+"public body" has the same meaning as it has in section 2(1) of the Act of 2018;
+
+"special categories of personal data" has the same meaning as it has in section 2(1) of the Act of 2018.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F224: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 79, S.I. No. 194 of 2023.
+
+#### 79B. Documents in electronic form
+
+F225[**95B.** (1) The Director may specify—
+
+(a) that a relevant document, or class of relevant documents, may—
+
+(i) be in electronic form,
+
+(ii) be in a format that he or she may specify, and
+
+(iii) be sent to him or her, or submitted to him or her, in electronic form,
+
+and
+
+(b) the circumstances in which a specification under *paragraph (a)* shall or shall not apply.
+
+(2) The Director may certify a copy of—
+
+(a) a relevant document transmitted or received by the Director in electronic form in accordance with this section, or
+
+(b) a relevant document kept by the Director in electronic form where the relevant document was transmitted or received by the Director otherwise than in an electronic form and an electronic copy was made of the document,
+
+to be a true copy of that document.
+
+(3) In this section—
+
+"electronic form" means information that is generated, communicated, processed, sent, received, recorded, stored or displayed by electronic means and is capable of being used to make a legible copy or reproduction of that communicated information but does not include information communicated in the form of speech and such electronic means includes electrical, digital, magnetic, optical electro-magnetic, biometric, photonic and any other form of related technology;
+
+"relevant document" means—
+
+(a) an application, notice, notification, objection or complaint under any provision of this Act,
+
+(b) any document required to be provided by or to the Director in connection with an application, notice, notification, objection or complaint referred to in *paragraph (a)*,
+
+(c) a report by or to the Director under this Act, or
+
+(d) any other document provided by or to the Director under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F225: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 79, S.I. No. 194 of 2023.
+
+#### 96. Investigations by Director
+
+**96.** F226[(1) This section shall apply to an investigation carried out by the Director under *section 15, 30, 47, 76* or *88(4)* and a reference in this section to an investigation is a reference to an investigation to which this section applies.]
+
+(2) F227[The Director may, when conducting an investigation] —
+
+(a) summon witnesses to attend before him or her,
+
+(b) examine on oath the witnesses attending before him or her,
+
+(c) require any such witness to produce to him or her any document in the power or control of the witness,
+
+(d) by notice in writing, require any person to provide him or her with such written information as the Director considers necessary to enable him or her to carry out his or her functions.
+
+(3) The Director may investigate a complaint even though the person making the complaint may be entitled to bring proceedings in any court with respect to the matter complained of.
+
+(4) The Director may seek resolution of F228[complaints, or of investigations on his or her own initiative,] in such manner (including by any informal means) as the Director considers appropriate and reasonable.
+
+(5) The Director shall draw up procedures in relation to the making and investigation of F229[complaints, or to investigations on his or her own initiative,] as he or she considers appropriate and shall cause the procedures to be published.
+
+(6) An investigation by the Director under this Act shall be conducted otherwise than in public.
+
+(7) A person who—
+
+(a) fails to comply with a requirement under this section,
+
+F230[(b) hinders or obstructs—
+
+(i) the Director in the carrying out of an investigation, or
+
+(ii) one or more of the Director’s staff to whom the Director has delegated one or more functions under *section 98(2)* with regard to the carrying out of an investigation,]
+
+shall be guilty of an offence and shall be liable on summary conviction to a class A fine.
+
+F231[(8) The Director may, if he or she thinks fit, pay to a witness summoned to attend before the Director under *subsection (2)*—
+
+(a) sums in respect of travelling and subsistence expenses properly incurred by the witness, or
+
+(b) allowances by way of compensation for loss of his or her time,
+
+that shall be calculated in accordance with such guidance and be paid subject to such conditions as may be determined by the Minister with the consent of the Minister for Public Expenditure and Reform.
+
+(9) In this section, "investigation" includes a review referred to in *sections 15(1A)*, *30(1A)*, *47(1A)*, *76(2A)* and *88(4)(b)(i)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F226, F227, F228, F229, F230: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 80(a), (b), (c), (d), (e), S.I. No. 194 of 2023.
+>
+> F231: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 80(f), S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E35: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 96A. Temporary prohibition order
+
+F232[**96A.** (1) Where the Director considers, while he or she is conducting an investigation under *section 15, 30, 47* or *76*, as the case may be, that an immediate prohibition of a decision-making assistant, co-decision‑maker, decision-making representative or attorney for a relevant person from acting as such is necessary because of an immediate risk of harm to the relevant person or the property of the relevant person, he or she may make an application to the court for a temporary prohibition order under *subsection (3)* pending the resolution, by the Director or the court, as the case may be, of his or her investigation.
+
+(2) Where an application under *subsection (1)* for an order is made ex parte, it shall be grounded on an affidavit sworn by the Director or by a person to whom that function is delegated under *section 98(2)*.
+
+(3) The court may, on an application under *subsection (1)*, make an order (in this section referred to as a "temporary prohibition order") prohibiting the decision-making assistant, co-decision-maker, decision-making representative or attorney concerned from acting as such for the relevant person concerned for a period of time, or until the occurrence of an event, specified in the order where, having regard to the circumstances of the case, the court considers it necessary to do so for the protection of the relevant person or the property of the relevant person.
+
+(4) An order under this section—
+
+(a) may be made *ex parte* where, having regard to the circumstances of the particular case, the court considers it necessary or expedient to do so in the interests of justice, and
+
+(b) where it is made *ex parte* shall be for such period, not exceeding 14 working days, as is specified in the order unless on application by the Director and on notice to the relevant person concerned and the decision-making assistant, co-decision-maker, decision-making representative or attorney concerned, as the case may be, the temporary prohibition order is confirmed within that period by order of the court.
+
+(5) Where a temporary prohibition order is made, the Director shall, as soon as is practicable, serve a copy of the order and of the affidavit referred to in *subsection (2)* on the relevant person concerned, the decision-making assistant, co-decision-maker, decision-making representative or attorney concerned and on any other persons identified by the Director and approved by the court.
+
+(6) A temporary prohibition order—
+
+(a) shall take effect from the date of the service of a copy of the order referred to in *subsection (5)* on the decision-making assistant, co-decision-maker, decision-making representative or attorney concerned,
+
+(b) subject to *subsection (4)*, shall have effect for the period specified in the order, or on the occurrence of an event to which *section 15, 30, 47* or *76*, as the case may be, refers, and specified by the court in the order, and
+
+(c) subject to *subsection (4)*, may contain such further directions or conditions as the court considers appropriate, including regarding the variation, renewal or discharge of the order.
+
+(7) During the period that a temporary prohibition order is in effect—
+
+(a) where the order is in relation to a decision-making assistant, the relevant person may appoint another decision-making assistant for that period or otherwise,
+
+(b) where the order is in relation to a co-decision-maker, the relevant person may appoint another co-decision-maker for that period or otherwise,
+
+(c) where the order is in relation to a decision-making representative, any relevant decisions that are required to be made during that period may be made by order of the court or, notwithstanding *section 38(1)*, by a decision-making representative appointed by the court by order under *section 38(2)(b)* on behalf of the relevant person, or
+
+(d) where the order is in relation to an attorney and there is no other attorney appointed by the donor under the enduring power of attorney who may make any relevant decisions that are required to be made during that period, any such relevant decisions may be made by order of the court or, notwithstanding *section 38(1)*, by a decision-making representative appointed by the court by order under *section 38(2)(b)* on behalf of the relevant person.
+
+(8) An application under *subsection (1)* shall be heard otherwise than in public unless the court considers it appropriate to hear the application in public.
+
+(9) A notice document that is required to be served on a person under this section shall be addressed to the person concerned by name and shall be served on the person in one of the following ways:
+
+(a) by delivering it to the person;
+
+(b) by leaving it at the address at which the person ordinarily resides or carries on business or, in a case in which an address for service has been furnished, at that address;
+
+(c) by sending it by post in a prepaid registered letter or by any other form of recorded delivery service to the address referred to in *paragraph (b)*; or
+
+(d) by electronic means, in a case in which the person has given notice in writing to the person serving the document concerned of his or her consent to the document (or documents of a class to which the document belongs) being served on him or her in that manner.
+
+(10) For the purposes of this section, a company within the meaning of the Companies Act 2014 is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body of persons shall be deemed to be ordinarily resident at its principal office or place of business.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F232: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 81, S.I. No. 194 of 2023.
+
+#### 96B. Power of Director to specify form of signature
+
+F233[**96B.** The Director may specify the form of signature (including a signature in electronic format) of any person, including signatories and witnesses, to an agreement, instrument, directive or other document under this Act, including a decision-making assistance agreement, a co-decision-making agreement, an instrument creating an enduring power of attorney, an advance healthcare directive or any document specified by the Director, or prescribed by the Minister by regulations, under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F233: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 81, S.I. No. 194 of 2023.
+
+#### 97. Terms and conditions of Director
+
+**97.** (1) Subject to *subsection (2)*, the Director shall hold office for a term of 6 years and may be re-appointed for a second or subsequent term.
+
+(2) The Director shall hold office on such terms and conditions as may be determined by the Mental Health Commission, with the consent of the Minister F234[...] given after consultation with the Minister for Public Expenditure and Reform, at the time of appointment or re-appointment.
+
+(3) A person appointed to be Director shall be a member of the staff of the Mental Health Commission.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F234: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 82, S.I. No. 194 of 2023.
+
+### Chapter 2Staff of Director of the Decision Support Service — Chapter 2 — Staff of Director of the Decision Support Service
+
+#### 98. Staff of Director of the Decision Support Service
+
+**98.** (1) A person who is a member of the staff of the Director shall be a member of the staff of the Mental Health Commission and the provisions of Part 3 of the Act of 2001 shall apply to such staff.
+
+(2) The Director may delegate any of his or her functions to a specified member of the staff of the Mental Health Commission assigned for the time being to the Director (other than the power to delegate under this subsection and the functions specified in *section 103*), and, accordingly, references in this Act to the Director shall be construed, where appropriate having regard to any delegation made under this subsection, as including, as respects the matters so delegated, references to any person to whom such functions stand delegated.
+
+(3) The Director may revoke a delegation made pursuant to *subsection (2)*.
+
+(4) The Mental Health Commission shall appoint such number of persons to be members of the staff of the Director as may be approved by the F235[Minister after consultation with the Minister for Health and] with the consent of the Minister for Public Expenditure and Reform.
+
+(5) The numbers and grades of staff to be appointed under this section and the conditions (including those relating to remuneration and allowances) of their appointment shall be determined by the Mental Health Commission with the approval of the F236[Minister after consultation with the Minister for Health and] given with the consent of the Minister for Public Expenditure and Reform.
+
+(6) The F237[Director] may, from time to time, engage such specialist advisers as F238[he or she] may consider necessary to assist him or her in the discharge of his or her functions under this Act.
+
+(7) Any fees due to an adviser engaged under *subsection (6)* shall be subject to the prior agreement of the F239[Minister], given with the consent of the Minister for Public Expenditure and Reform, and shall form part of the expenses of the F240[Decision Support Service].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F235, F236, F237, F238, F239, F240: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 83(a), (b), (c)(i), (ii), (d)(i), (ii), S.I. No. 194 of 2023.
+
+### Chapter 3Special visitors, general visitors, court friends and panels — Chapter 3 — Special visitors, general visitors, court friends and panels
+
+#### 99. Special visitors and general visitors
+
+**99.** (1) The Director may, in accordance with this section, appoint a person to be a special visitor or general visitor.
+
+F241[(2) A special visitor shall be—
+
+(a) a registered medical practitioner who has particular knowledge, expertise and experience as respects the capacity of persons, or
+
+(b) a person who, although not a registered medical practitioner, is, in the opinion of the Director, a person who has particular knowledge, expertise and experience as respects the capacity of persons,
+
+who may assist the Director in performing his or her supervisory function referred to in *section 95(1)(e)*, in performing his or her functions under *section 96*, or in undertaking assessments of capacity where the Director brings an application under *Part 5* in relation to a declaration of capacity.]
+
+(3) A general visitor is a person who, in the opinion of the Director, is a person who possesses relevant qualifications, or has other relevant expertise or experience, to assist the Director in performing his or her supervisory function referred to in F242[*section 95(1)(e)* and in performing his or her functions under *section 96*].
+
+(4) An appointment of a person as a special visitor or general visitor shall be made subject to such terms and conditions (including those relating to remuneration and allowances) as the F243[Minister], with the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(5) The Director may direct a special visitor or general visitor to visit—
+
+(a) a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney for a relevant F244[person,]
+
+(b) a relevant person for whom there is a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney, or in respect of whom an order has been made under F245[*section 48*, or],
+
+F246[(c) any other person specified in the direction (who may include a family member or a provider of a service) who the Director considers is necessary to visit to obtain further information about the relevant person,]
+
+and, subsequent to the visit, to submit to the Director a report on such matters concerning the person visited as the Director may specify in the direction.
+
+(6) Subject to *subsections (7)* and *(8)*, for the purposes of enabling the Director to perform his or her functions, he or she may direct a special visitor or general visitor to—
+
+(a) at any reasonable time, examine and take copies of any health, personal welfare or financial record held in relation to a relevant person by any person, body or organisation, and
+
+(b) interview a relevant person in private or otherwise than in public.
+
+(7) *Subsection (6)* shall not entitle the Director to direct a general visitor to examine and take copies of any health record of a relevant person unless the general visitor is a registered medical practitioner.
+
+(8) Prior to taking an action pursuant to *paragraph (a)* of *subsection (6)*, the special visitor or general visitor, as the case may be, shall seek the consent of the relevant person to the taking of such action, unless the Director dispenses with this requirement where—
+
+(a) there has been a declaration under *section 37(1)(b)* in respect of the person, or
+
+(b) an enduring power of attorney has been registered in respect of the person.
+
+(9) A special visitor or general visitor shall not—
+
+(a) attempt to obtain information that is not reasonably required for the purposes referred to in *subsection (6)*, or
+
+(b) use such information for a purpose that is not in accordance with this section.
+
+(10) A special visitor or general visitor shall take reasonable steps to ensure that any information obtained pursuant to this section is—
+
+(a) kept secure from unauthorised access, use or disclosure, and
+
+(b) safely disposed of when he or she believes it is no longer required.
+
+(11) The Director shall, on an annual basis, carry out checks to ascertain if special visitors and general visitors are complying with *subsections (9)* and *(10)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F241, F242, F243, F244, F245: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 84(a), (b), (c), (d)(i), (ii), S.I. No. 194 of 2023.
+>
+> F246: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 84(d)(iii), S.I. No. 194 of 2023.
+
+#### 100. Court friends
+
+**100.** (1) The Director may or, where *section 36(9)* applies, shall, in accordance with this section, appoint a person to be a court friend for a relevant person.
+
+(2) (a) A court friend for a relevant person is a person who assists the relevant person in relation to an application under *Part 5* in respect of which the relevant person is the subject.
+
+(b) The court, on the hearing of such application, may hear submissions from the court friend on behalf of the relevant person.
+
+(3) Subject to *subsections (4)* and *(5)*, for the purposes of assisting a relevant person in relation to an application under *Part 5*, a court friend may—
+
+(a) at any reasonable time, examine and take copies of any health, personal welfare or financial record held in respect of the relevant person by any person, body or organisation, and
+
+(b) interview the relevant person in private or otherwise than in public.
+
+(4) *Subsection (3)* shall not entitle a court friend to examine and take copies of any health record of a relevant person unless the court friend is a registered medical practitioner.
+
+(5) Prior to taking an action pursuant to *paragraph (a)* of *subsection (3)*, the court friend shall seek the consent of the relevant person to the taking of such action, unless the Director dispenses with this requirement where—
+
+(a) there has been a declaration under *section 37(1)(b)* in respect of the person, or
+
+(b) an enduring power of attorney has been registered in respect of the person.
+
+(6) A court friend shall not—
+
+(a) attempt to obtain information that is not reasonably required for the purposes referred to in *subsection (3)*, or
+
+(b) use such information for a purpose other than provided for in that subsection.
+
+(7) A court friend shall take reasonable steps to ensure that any information obtained pursuant to this section is—
+
+(a) kept secure from unauthorised access, use or disclosure, and
+
+(b) safely disposed of when he or she believes it is no longer required.
+
+(8) The Director shall, on an annual basis, carry out checks to ascertain if court friends are complying with *subsections (6)* and *(7)*.
+
+(9) A court friend for a relevant person shall assist and attend with the relevant person in court or, if the relevant person is not attending the hearing concerned, promote the interests and the will and preferences of the relevant person in court.
+
+(10) A court friend for a relevant person may attend and represent the relevant person at any meeting, consultation or discussion, in connection with an application under *Part 5* in respect of which the relevant person is the subject, at which the interests or the will and preferences of the relevant person are being considered, whether or not the relevant person is attending the meeting, consultation or discussion, as the case may be.
+
+(11) A court friend for a relevant person may be appointed for such term and subject to such conditions, and may be paid such remuneration and allowances, as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(12) *Subsections (2)* to *(10)* shall, with all necessary modifications, apply to a person who falls within *paragraph (b)* of *section 36(8)* in respect of a relevant person and to the application under *Part 5* which relates to the relevant person as those subsections apply to a court friend for a relevant person and to the application under *Part 5* which relates to the second-mentioned relevant person.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F247: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 85, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: subss. (13), (14) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 85, not commenced as of date of revision.
+>
+> F247[(13) Where a court friend has been appointed for a ward of court by the Director pursuant to a direction of the wardship court under *section 54A(2)*, *subsections (2)* to *(11)* of this section shall apply, with all necessary modifications, with regard to the court friend, and in particular—
+>
+> (a) a reference in those subsections to a relevant person shall be construed as a reference to the ward of court, and
+>
+> (b) a reference in those subsections to *Part 5* shall be construed as a reference to *Part 6*.
+>
+> (14) *Subsections (2)* to *(10)* shall, with all necessary modifications, apply to a person referred to in *section 54A* as a "court assistant" as they apply, in accordance with *subsection (13)*, to a court friend to which the said *subsection (13)* refers.]
+
+#### 101. Panels to be established by the Director
+
+**101.** The Director shall establish a panel of suitable persons willing and able to act as—
+
+F248[(a) decision-making representatives for—
+
+(i) relevant persons in the circumstances to which *section 38(7)* applies, and
+
+(ii) persons the subject of a discharge from wardship under *section 55(4)(ii)* or *55(5)(b)*, as the case may be, in the circumstances to which *section 38(7)* applies by virtue of *section 55(6)*,]
+
+(b) special visitors,
+
+(c) general visitors, and
+
+(d) court friends.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F248: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 86, S.I. No. 194 of 2023.
+
+### Chapter 4Reports by Director and codes of practice — Chapter 4 — Reports by Director and codes of practice
+
+#### 102. Reports by Director
+
+**102.** (1) The Director shall, not later than 31 March in each year, submit to the Mental Health Commission a report on the Director’s activities in the immediately preceding calendar year or, if this Part commenced during that calendar year on a date other than 1 January, the period on and from that commencement to and including the immediately preceding 31 December.
+
+F249[(2) The Mental Health Commission shall cause a copy of a report submitted to it pursuant to *subsection (1)* to be forwarded to the Minister for Health and the Minister as soon as may be, but not later than 3 months after the date on which the Commission received the report.]
+
+(3) The F250[Mental Health Commission shall], within 2 years but not earlier than one year from the date of commencement of *Part 9*, submit to the F251[Minister and the Minister for Health] a report—
+
+(a) on the effectiveness of the Director,
+
+(b) on the adequacy of the functions assigned under this Act to the Director, and
+
+(c) containing such recommendations (if any) that the F252[Mental Health Commission considers would improve the effectiveness of the Director] or the adequacy of the functions assigned to the Director under this Act, or both.
+
+(4) F255[...]
+
+(5) At the end of each 5 year period commencing on the date of commencement of *Part 9*, the F253[Mental Health Commission shall submit to the Minister] and the Minister for Health a report reviewing the general performance of the objectives and functions of the Director in the previous 5 years.
+
+(6) The Director may make any F256[...] reports that he or she considers appropriate for drawing to the attention of the Mental Health F254[Commission, the Minister and] the Minister for Health matters that have come to his or her notice and that, in his or her opinion, should, because of their gravity or other exceptional circumstances, be the subject of a special report to the Mental Health F254[Commission, the Minister and] the Minister for Health.
+
+(7) As soon as practicable after receiving a report under this section, the Minister F256[...] shall cause a copy of it to be laid before each House of the Oireachtas.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F249, F250, F251, F252, F253, F254: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 87(a), (b)(i)-(iii), (d), (e)(ii), S.I. No. 194 of 2023.
+>
+> F255, F256: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 87(c), (e)(i), (f), S.I. No. 194 of 2023.
+
+#### 103. Codes of practice
+
+**103.** (1) In this section—
+
+“body concerned”, in relation to a person concerned, means the body responsible for hearing complaints about failures to maintain professional standards in respect of the profession practised by the person concerned;
+
+“code of practice” includes part of a code of practice and, in relation to a code of practice published or approved of under *subsection (2)*, means such code as may be in force from time to time under this section;
+
+“person concerned”, in relation to a code of practice, means a person for whom the code is providing guidance.
+
+(2) The Director may—
+
+(a) prepare and publish a code of practice,
+
+(b) request another body to prepare a code of practice, or
+
+(c) approve of a code of practice prepared by another body, whether or not pursuant to a request referred to in *paragraph (b)*,
+
+for the purposes of one or more of the following:
+
+(i) the guidance of persons, including healthcare professionals, F257[on supporting decision-making by relevant persons and, where appropriate, assessing] whether a person lacks capacity in relation to any matter;
+
+(ii) the guidance of decision-making assistants;
+
+(iii) the guidance of co-decision-makers;
+
+(iv) the guidance of decision-making representatives;
+
+(v) the guidance of attorneys;
+
+(vi) the guidance of special visitors;
+
+(vii) the guidance of general visitors;
+
+(viii) the guidance of court friends;
+
+(ix) the guidance of healthcare professionals as respects the circumstances in which urgent treatment may be carried out without the consent of a relevant person and what type of treatment may be provided;
+
+(x) the guidance of persons acting as advocates on behalf of relevant persons;
+
+F260[(xa) the guidance of committees and any other persons assisting a ward in court;]
+
+F258[(xi) the guidance of other persons, including healthcare professionals, legal practitioners and financial service providers, in relation to their dealings with—
+
+(I) relevant persons, or
+
+(II) wards of court in relation to proceedings under *Part 6*;]
+
+(xii) with respect to such other matters concerned with this Act as the Director thinks appropriate.
+
+(3) Where the Director is minded to exercise his or her power under *subsection (2)(a)* or *(b)*, he or she shall consult with such persons as the Director considers appropriate having regard to the matters to which it is intended that the code, when it is prepared, will relate and such persons may include any of the following:
+
+(a) the Health Service Executive;
+
+(b) the Health Information and Quality Authority;
+
+(c) the National Disability Authority;
+
+(d) the Citizens Information Board;
+
+(e) representatives of professional bodies in the healthcare, social care, legal and financial sectors;
+
+(f) representatives of healthcare, social care, legal and financial F259[professionals;]
+
+F261[(g) persons who have a disability within the meaning of section 2 (1) of the Disability Act 2005, their representative organisations, or any other persons with expertise in matters pertaining to disability.]
+
+(4) The Director shall, before publishing a code of practice pursuant to his or her power under *subsection (2)(a)* or approving of a code of practice pursuant to his or her power under *subsection (2)(c)*—
+
+(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates (which may be any of the persons who fall within *paragraphs (a)* to *(d)* of *subsection (3)* ), in such manner as the Director considers appropriate, a draft of the code,
+
+(b) invite the persons to whom he or she has made the draft available to make representations in writing on it to the Director within a period determined by the Director, being a period of not less than 30 days from the date of making the draft available to those persons,
+
+(c) consider the representations (if any) received, and
+
+(d) make any modifications that he or she considers appropriate to the draft.
+
+(5) The Director shall not publish or approve of a code of practice under *subsection (2)* except with the consent of—
+
+(a) if the code does not relate to healthcare matters, the Minister after consultation with the Mental Health Commission F262[...] and
+
+(b) if the code relates (whether in whole or in part) to healthcare matters, the Minister for Health after consultation with the Minister and the Mental Health Commission.
+
+(6) Where the Director publishes or approves of a code of practice under *subsection (2)*, he or she shall cause a notice to that effect to be published in *Iris Oifigiúil* and such notice shall specify—
+
+(a) the persons or classes of persons for whom the code is providing guidance,
+
+(b) the date from which the code has effect, and
+
+(c) the place where a copy of the code may be viewed, inspected or purchased.
+
+(7) The Director shall keep posted, on the Internet website of the Director established under *section 95(1)(j)* or by the other electronic means referred to in *section 95(1)(j)* a copy of each code of practice published or approved of under *subsection (2)*, as the code is in force from time to time, on and from the date on which the code has effect.
+
+(8) The Director shall arrange for that part of the Internet website or other electronic means referred to in *section 95(1)(j)* which contains a code of practice pursuant to *subsection (7)* to ordinarily be accessible by members of the public.
+
+(9) Subject to *subsection (10)*, the Director may—
+
+(a) amend or revoke a code of practice published under *subsection (2)*, or
+
+(b) withdraw approval of any code of practice approved of under *subsection (2)*.
+
+(10) *Subsections (3)* to *(5)* shall, with all necessary modifications, apply to a code of practice that the Director proposes to amend or revoke, or withdraw his or her approval of, under *subsection (9)* as *subsections (3)* to *(5)* apply to a code of practice that the Director proposes to publish or approve of under *subsection (2)*.
+
+(11) Where the Director amends or revokes, or withdraws his or her approval of, a code of practice published or approved of under *subsection (2)*, the Director shall cause a notice to that effect to be published in *Iris Oifigiúil* and on the Internet website or by other electronic means referred to in *section 95(1)(j)* specifying—
+
+(a) the code to which the amendment, revocation or withdrawal of approval, as the case may be, relates and, if applicable, particulars of the amendment,
+
+(b) the persons or classes of persons in respect of whom the code is so amended, revoked or approval is withdrawn, as the case may be, and
+
+(c) the date from which the amendment, revocation or withdrawal of approval, as the case may be, shall have effect.
+
+(12) A document bearing the seal of the Mental Health Commission and purporting to be a code of practice published or approved of under *subsection (2)* or, where such a code has been amended under this section, the code as so amended, shall be admissible in any legal proceedings.
+
+(13) A person concerned shall have regard to a code of practice published or approved of under *subsection (2)* when performing any function under this Act in respect of which the code provides guidance.
+
+(14) Where it appears to a court, tribunal, or body concerned, conducting any proceedings that—
+
+(a) a provision of a code of practice published or approved of under *subsection (2)*, or
+
+(b) a failure to comply with a code of practice published or approved of under *subsection (2)*,
+
+is relevant to a question arising in the proceedings, the provision or failure, as the case may be, shall be taken into account in deciding the question.
+
+(15) To the extent that a code of practice published or approved of under *subsection (2)* is for the purposes of court friends, the provisions of the code shall, with all necessary modifications, apply to a person who falls within *paragraph (b)* of *section 36(8)* in respect of a relevant person as those provisions apply to a court friend for a relevant person.
+
+(16) A code of practice published or approved of under *subsection (2)* shall not relate to any of the provisions of *Part 8*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F257, F258, F259: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 88(a)(i), (iii), (b)(i), S.I. No. 194 of 2023.
+>
+> F260, F261: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 88(a)(ii), (b)(ii), (d), S.I. No. 194 of 2023.
+>
+> F262: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 88(c), S.I. No. 194 of 2023.
+>
+> F263: Inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 88(d), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provisions: subs. (15A) inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 88(d), not commenced as of date of revision.
+>
+> F263[(15A) To the extent that a code of practice published or approved of under *subsection (2)* is for the purposes of court friends, the provisions of the code shall, with all necessary modifications, apply to a person referred to in *section 54A* as "a court assistant" in respect of a ward of court as those provisions apply to a court friend for a ward of court.]
+
+## PART 10Detention Matters — PART 10 — Detention Matters
+
+### 104. Definitions — Part 10
+
+**104.** In this Part—
+
+“approved centre” has the meaning assigned to it by section 2 of the Act of 2001;
+
+“clinical director” has the meaning assigned to it by section 2 of the Act of 2001;
+
+“consultant psychiatrist” has the meaning assigned to it by section 2 of the Act of 2001;
+
+“detention order”—
+
+(a) in *section 107*, means an order referred to in *subsection (1)* of that section, and
+
+(b) in *section 108*, means an order referred to in *subsection (1)* of that section;
+
+“independent consultant psychiatrist” means a consultant psychiatrist who is a member of the panel established under *section 105*;
+
+“mental disorder” has the meaning assigned to it by section 3 of the Act of 2001;
+
+“person concerned” means the person the subject of a detention order.
+
+### 105. Panel of independent consultant psychiatrists to be established by Mental Health Commission
+
+**105.** The Mental Health Commission shall establish a panel of suitable consultant psychiatrists willing and able to carry out independent medical examinations for the purposes of this Part.
+
+### 106. Detention-related safeguards
+
+**106.** Where an issue arises in the course of an application to the court or the High Court under this Act, or otherwise in connection with the operation of this Act, as to whether a person who lacks capacity is suffering from a mental disorder, the procedures provided for under the Act of 2001 shall be followed as respects any proposal to detain that person.
+
+### 107. Review of detention orders in certain circumstances (approved centres)
+
+**107.** (1) Where, immediately before the commencement of this section, a person is detained in an approved centre on the order of a wardship court and, from that commencement, continues to be so detained, that order shall, as soon as possible, be reviewed by the wardship court in accordance with *subsection (2)*.
+
+(2) Where, on a review of a detention order, the wardship court is satisfied that the person concerned is suffering from a mental disorder, it may direct that the detention of the person concerned in the approved centre, or such other approved centre as may be determined by the wardship court having obtained the views of the clinical director of that other centre, shall continue for such further period, not exceeding 3 months, and not exceeding 6 months in the case of any subsequent review carried out by the wardship court under *subsection (3)*, as the wardship court may determine.
+
+(3) Before the period referred to in *subsection (2)*, or such other period as may be determined by the wardship court, expires, the wardship court shall review the continued detention of the person concerned in the approved centre and, if satisfied that the person concerned is suffering from a mental disorder, may direct that the person concerned shall continue to be detained in that centre or such other approved centre as may be determined by the wardship court having obtained the views of the clinical director of that other centre.
+
+F264[(3A) A person detained pursuant to a direction made under *subsection (3)* for a period exceeding 3 months (in this subsection referred to as a "renewal period") or his or her committee or legal representative, may, after a period of 3 months has expired from the date the direction was made but before the expiry of the renewal period, make an application to have the person’s detention reviewed by the wardship court under *subsection (3)* and no more than one such application may be made in each renewal period.]
+
+(4) Where the wardship court determines that the person concerned is no longer suffering from a mental disorder, it shall order the discharge of the person concerned from detention.
+
+(5) The wardship court, when reviewing a detention order, shall hear evidence from the consultant psychiatrist responsible for the care or treatment of the person concerned and from an independent consultant psychiatrist selected by the wardship court.
+
+(6) The function of the independent consultant psychiatrist referred to in *subsection (5)* is to examine the person concerned and report to the wardship court on the results of the examination, in particular whether, in the opinion of the psychiatrist, the person concerned is suffering from a mental disorder.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F264: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 89, S.I. No. 194 of 2023.
+
+### 108. Review of detention orders in certain circumstances (non-approved centres)
+
+**108.** (1) Where, immediately before the commencement of this section, a person is detained in an institution other than an approved centre on the order of a wardship court and, from that commencement, continues to be so detained, that order shall, as soon as possible, be reviewed by the wardship court in accordance with *subsection (2)*.
+
+(2) Where, on a review of a detention order, the wardship court is satisfied that the person concerned is suffering from a mental disorder, it may direct that the detention of the person concerned in the institution, or in such other place, being an approved centre, as may be determined by the wardship court having obtained the views of the clinical director for that other place, shall continue for such further period, not exceeding 3 months, and not exceeding 6 months in the case of any subsequent review carried out by the wardship court under *subsection (3)*, as the wardship court may determine.
+
+(3) Before the period referred to in *subsection (2)*, or such other period as may be determined by the wardship court, expires, the wardship court shall review the continued detention of the person concerned in the institution or approved centre concerned and, if satisfied that the person concerned is suffering from a mental disorder, may direct that the person concerned shall continue to be detained, whether in the institution where the person concerned was first detained or in an approved centre determined in accordance with *subsection (2)* on a first or subsequent review.
+
+F265[(3A) A person detained pursuant to a direction made under *subsection (3)* for a period exceeding 3 months (in this subsection referred to as a "renewal period") or his or her committee or legal representative, may, after a period of 3 months has expired from the date the direction was made but before the expiry of the renewal period, make an application to have the person’s detention reviewed by the wardship court under *subsection (3)* and no more than one such application may be made in each renewal period.]
+
+(4) Where the wardship court determines that the person concerned is no longer suffering from a mental disorder, it shall order the discharge of the person concerned from detention.
+
+(5) The wardship court, when reviewing a detention order, shall hear evidence from the consultant psychiatrist responsible for the care or treatment of the person concerned and from an independent consultant psychiatrist selected by the wardship court.
+
+(6) The function of the independent consultant psychiatrist referred to in *subsection (5)* is to examine the person concerned and report to the wardship court on the results of the examination, in particular whether, in the opinion of the psychiatrist, the person concerned is suffering from a mental disorder.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F265: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 90, S.I. No. 194 of 2023.
+
+## PART 11Convention on International Protection of Adults — PART 11 — Convention on International Protection of Adults
+
+### Chapter 1Preliminary — Chapter 1 — Preliminary
+
+#### 109. Interpretation — Part 11
+
+**109.** (1) In this Part—
+
+“adult” means a person who—
+
+(a) as a result of an impairment or insufficiency of his or her personal faculties, cannot protect his or her interests, and
+
+(b) has reached 18 years of age;
+
+“central authority in another Convention country” means the authority designated by that country pursuant to the Convention;
+
+“central authority in the State” means the authority mentioned in *section 113*;
+
+“Convention” means the Convention on the International Protection of Adults agreed at The Hague on 13 January 2000 (the text of which, in the English language, is for convenience of reference set out in the Schedule);
+
+“Convention country” means a country in which the Convention is in force;
+
+“measure” has the meaning assigned to it by *section 112(1)*.
+
+(2) An expression which appears in this Part and in the Convention is to be construed in accordance with the Constitution.
+
+(3) The High Court, court and the Director, in interpreting this Part and the Convention, may have regard to the Explanatory Report on the Convention by Mr. Paul Lagarde of 5 January 2000, edited by the Permanent Bureau of the Hague Conference on Private International Law.
+
+#### 110. Convention given effect
+
+**110.** This Part—
+
+(a) gives effect in the State to the Convention in so far as this Act does not otherwise do so, and
+
+(b) makes related provision as to the private international law of the State.
+
+#### 111. Countries, territories and nationals
+
+**111.** (1) In this section “country” includes a territory which has its own system of law.
+
+(2) Where a country has more than one territory with its own system of law, a reference to the country, in relation to one of its nationals, is to the territory with which the national has the closer, or the closest, connection.
+
+#### 112. Protective measures
+
+**112.** (1) In this section “ measure ” means a measure directed to the protection of the person or property of an adult, including any of the following:
+
+(a) the determination of incapacity and the institution of a protective regime;
+
+(b) placing the adult under the protection of a judicial or administrative authority;
+
+(c) guardianship, curatorship or any corresponding system;
+
+(d) the designation and functions of a person having charge of the adult’s person or property, or representing or otherwise helping him or her;
+
+(e) placing the adult in a place where protection can be provided;
+
+(f) administering, conserving or disposing of the adult’s property;
+
+(g) authorising a specific intervention for the protection of the person or property of the adult.
+
+(2) Where a measure of like effect to a measure has been taken in relation to a person before he or she reached 18 years of age, this Part applies to the measure in so far as it has effect in relation to him or her once he or she has reached that age.
+
+#### 113. Central authority
+
+**113.** The Director is designated to perform in the State the functions conferred on the central authority in the State under this Part or by virtue of the Convention.
+
+### Chapter 2Jurisdiction of competent authority — Chapter 2 — Jurisdiction of competent authority
+
+#### 114. Scope of jurisdiction
+
+**114.** (1) The High Court and the court may exercise their functions under this Part (in so far as they cannot otherwise do so) in relation to—
+
+(a) an adult habitually resident in the State,
+
+(b) an adult’s property in the State, insofar as the exercise of those functions is compatible with measures taken by the authorities of a Convention country having jurisdiction under Articles 5 to 8 of the Convention,
+
+(c) subject to Article 10 of the Convention, an adult present in the State or who has property there, if the matter is urgent, or
+
+(d) subject to Article 11 of the Convention, an adult present in the State, insofar as the exercise of those functions is temporary and limited to the State.
+
+(2) An adult present in the State shall be treated for the purposes of this section and Articles 6 and 7 of the Convention as habitually resident there if—
+
+(a) his or her habitual residence cannot be ascertained,
+
+(b) he or she is a refugee, or
+
+(c) he or she has been displaced as a result of disturbance in the country of his or her habitual residence.
+
+#### 115. Provisions supplementary to section 114
+
+**115.** (1) The High Court and the court may also exercise their functions under this Part (in so far as they cannot otherwise do so) in relation to an adult if *subsection (2)* or *(3)* applies in relation to him or her.
+
+(2) This subsection applies in relation to an adult if—
+
+(a) he or she is an Irish citizen, and
+
+(b) Article 7 of the Convention has, in relation to the matter concerned, been complied with.
+
+(3) This subsection applies in relation to an adult if the High Court or the court, as the case may be, having consulted such person as it considers appropriate, agrees to or makes a request under Article 8 of the Convention in relation to the adult.
+
+#### 116. Exercise of jurisdiction
+
+**116.** Measures taken by the High Court or the court, as the case may be, under this Part remain in force so long as the competent authorities in a Convention country have not modified, replaced or terminated such measures.
+
+### Chapter 3Applicable law — Chapter 3 — Applicable law
+
+#### 117. Applicable law
+
+**117.** In exercising jurisdiction under *Chapter 2*, the High Courtor the court, as the case may be, shall apply the law of the State but may, in so far as the protection of the person or the property of the adult requires, if it thinks that the matter has a substantial connection with a country other than the State, apply or take into consideration the law of that other country.
+
+#### 118. Provisions supplementary to section 117
+
+**118.** Where a measure is taken in one Convention country but implemented in another, the conditions of implementation are governed by the law of the Convention country in which implementation occurs.
+
+#### 119. Enduring powers of attorney, etc.
+
+**119.** (1) If the donor of an enduring power is habitually resident in the State at the time of granting the power, the law applicable to the existence, extent, modification or extinction of the power is—
+
+(a) the law of the State, or
+
+(b) if he or she specifies in writing the law of a connected country for the purpose, that law.
+
+(2) If the donor of an enduring power is habitually resident in another country at that time, but the State is a connected country, the law applicable in that respect is—
+
+(a) the law of the other country, or
+
+(b) if he or she specifies in writing the law of the State for the purpose, that law.
+
+(3) A country is connected, in relation to the donor, if it is a country—
+
+(a) of which he or she is a national,
+
+(b) in which he or she was habitually resident, or
+
+(c) in which he or she has property.
+
+(4) Where this section applies as a result of *subsection (3)(c)*, it applies only in relation to the property which the donor has in the connected country.
+
+(5) The law applicable to the manner of the exercise of an enduring power is the law of the country where it is exercised.
+
+(6) In this Chapter “enduring power” means—
+
+(a) an enduring power of attorney as provided for in *section 59*, or
+
+(b) any other power of like effect.
+
+#### 120. Disapplication or modification of enduring power of attorney, etc.
+
+**120.** (1) Where an enduring power is not exercised in a manner sufficient to guarantee the protection of the person or pro perty of the donor, the High Court or the court, as the case may be, in exercising jurisdiction under this Part, may disapply or modify the power.
+
+(2) Where, in accordance with this Chapter, the law applicable to the power is, in one or more respects, that of a country other than the State, the High Court or the court, as the case may be shall, so far as possible, take into consideration the law of the other country in that respect (or those respects).
+
+#### 121. Protection of third parties
+
+**121.** (1) This section applies where a person (in this section referred to as a “representative”) in purported exercise of an authority to act on behalf of an adult enters into a transaction with a third party.
+
+(2) The validity of the transaction may not be questioned in proceedings, nor may the third party be held liable, merely because—
+
+(a) where the representative and third party are in the State when entering into the transaction,*subsection (3)* applies, or
+
+(b) where they are in another country at that time,*subsection (4)* applies.
+
+(3) This subsection applies if—
+
+(a) the law applicable to the authority in one or more respects is, as a result of this Part, the law of a country other than the State, and
+
+(b) the representative is not entitled to exercise the authority in that respect (or those respects) under the law of that other country.
+
+(4) This subsection applies if—
+
+(a) the law applicable to the authority in one or more respects is, as a result of this Chapter, the law of the State, and
+
+(b) the representative is not entitled to exercise the authority in that respect (or those respects) under that law.
+
+(5) This section shall not apply if the third party knew or ought to have known that the applicable law was—
+
+(a) in a case within *subsection (3)*, the law of the other country,
+
+(b) in a case within *subsection (4)*, the law of the State.
+
+#### 122. Mandatory rules
+
+**122.** Where the High Court or the court, as the case may be, is entitled to exercise jurisdiction under this Part, the mandatory provisions of the law of the State apply, regardless of any system of law which would otherwise apply in relation to the matter.
+
+#### 123. Public policy
+
+**123.** Nothing in this Part requires or enables the application in the State of a provision of the law of another country if its application would be manifestly contrary to public policy.
+
+### Chapter 4Recognition and enforcement — Chapter 4 — Recognition and enforcement
+
+#### 124. Recognition
+
+**124.** (1) A measure taken in relation to an adult under the law of a Convention country other than the State is to be recognised in the State if it was taken on a ground mentioned in Chapter II (Jurisdiction) of the Convention.
+
+(2) The High Court or the court, as the case may be, may refuse recognition of a measure if it is of the view that—
+
+(a) the case in which the measure was taken was not urgent,
+
+(b) the adult was not given an opportunity to be heard, and
+
+(c) that omission amounted to a breach of natural justice.
+
+(3) The High Court or the court, as the case may be, may refuse to recognise a measure if it is of the view that—
+
+(a) recognition of the measure would be manifestly contrary to public policy,
+
+(b) the measure would be inconsistent with a mandatory provision of the law of the State, or
+
+(c) the measure is inconsistent with one subsequently taken, or recognised, in the State in relation to the adult.
+
+(4) The High Court or the court, as the case may be, may refuse recognition of a measure taken under the law of a Convention country other than the State in a matter to which Article 33 of the Convention applies if it is of the view that that Article has not been complied with in connection with that matter.
+
+#### 125. Application to High Court or court for declaration on measure
+
+**125.** (1) Subject to *section 124*, an interested person may apply to the court for a declaration as to whether a measure taken under the law of a Convention country other than the State is to be recognised in the State.
+
+(2) No permission is required for an application to the court under this section.
+
+#### 126. Provisions supplementary to sections 124 and 125
+
+**126.** For the purposes of *sections 124* and *125*, any finding of fact by a competent authority in a Convention country other than the State is conclusive.
+
+#### 127. Enforcement
+
+**127.** (1) An interested person may apply to the High Court or the court for a declaration as to whether a measure taken under the law of, and enforceable in, a Convention country other than the State is enforceable in the State.
+
+(2) The High Court or the court, as the case may be, shall make the declaration if—
+
+(a) the measure falls within *section 124(1)*, and
+
+(b) it has not refused recognition of the measure pursuant to *section 124(2)*, *(3)* or *(4)*.
+
+(3) A measure to which a declaration under this section relates is enforceable in the State as if it were a measure of like effect taken by the High Court or the court, as the case may be.
+
+#### 128. Measures taken in relation to those aged under 18
+
+**128.** (1) This Part applies to persons who have attained the age of 18 years.
+
+(2) Where a measure was taken in respect of a person who had not attained the age of 18 years at the time the measure was taken, this Part applies to those measures insofar as the person concerned has attained the age of 18 years.
+
+#### 129. Review of measures taken outside State
+
+**129.** The High Court and the court may not review the merits of a measure taken in a Convention country other than the State except to establish whether the measure complies with this Part in so far as it is, as a result of this Part, required to do so.
+
+#### 130. Rules of court
+
+**130.** Rules of court may make provision about an application under *section 125* or *127*.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E36: Power pursuant to section exercised (25.05.2023) by *Rules of the Superior Courts (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 261 of 2023).
+>
+> E37: Power pursuant to section exercised (27.04.2023) by *Circuit Court Rules (Assisted Decision-Making (Capacity) Act 2015) 2023* (S.I. No. 201 of 2023).
+
+### Chapter 5Co-operation — Chapter 5 — Co-operation
+
+#### 131. Proposal for cross-border placement
+
+**131.** (1) This section applies where it is proposed to place an adult in an establishment in a Convention country other than the State.
+
+(2) The central authority in the State shall consult the central authority in another Convention country or other competent authority in the Convention country concerned about the proposed placement and, for that purpose, shall send it—
+
+(a) a report on the adult, and
+
+(b) a statement of the reasons for the proposed placement.
+
+(3) If the central authority in another Convention country or other competent authority in the Convention country concerned opposes the proposed placement within a reasonable time, the proposed placement may not be proceeded with.
+
+#### 132. Proposal received by central authority under Article 33 of the Convention
+
+**132.** A proposal received by the central authority in the State under Article 33 of the Convention in relation to an adult is to proceed unless the central authority in the State opposes it within a reasonable time.
+
+#### 133. Requests to be communicated through central authority
+
+**133.** (1) Where a measure is contemplated by the High Court or the court, the central authority in the State may request the central authority in another Convention country or other competent authority in that Convention country to communicate information relevant to the protection of the adult concerned.
+
+(2) Requests for information by a central authority in another Convention country or other competent authority in that Convention country shall be communicated through the central authority in the State.
+
+#### 134. Adults in danger, etc.
+
+**134.** (1) This section applies if the central authority in the State is informed that an adult—
+
+(a) who is in serious danger, and
+
+(b) in relation to whom the High Court or the court, as the case may be, has taken, or is considering taking, measures,
+
+is, or has become, resident in a Convention country other than the State.
+
+(2) The central authority in the State shall inform the central authority in another Convention country or other competent authority in that Convention country regarding—
+
+(a) the danger, and
+
+(b) the measures taken or under consideration.
+
+#### 135. Circumstances in which co-operation is prohibited
+
+**135.** The central authority in the State shall not request from, or send to, a central authority in another Convention country or other competent authority in that Convention country information in accordance with Chapter V (Co-operation) of the Convention in relation to an adult if it is of the opinion that doing so—
+
+(a) would be likely to endanger the adult or his or her property, or
+
+(b) would amount to a serious threat to the liberty or life of a member of the adult’s family.
+
+## PART 12Miscellaneous — PART 12 — Miscellaneous
+
+### 136. Patients whose treatment is regulated by Part 4 of Act of 2001
+
+**136.** (1) Nothing in this Act authorises a person—
+
+(a) to give a patient treatment for mental disorder, or
+
+(b) to consent to a patient’s being given treatment for mental disorder,
+
+if, at the time when it is proposed to treat the patient, his or her treatment is regulated by Part 4 of the F266[Act of 2001, unless the patient is a person detained under the Act of 2001 on the grounds that he or she is suffering from a mental disorder within the meaning of *section 3(1)(b)* of that Act].
+
+F267[(1A) Subject to *subsection (1)*—
+
+(a) a reference in section 56, 57, 59 or 60 of the Act of 2001 to a "patient" in the context of the patient giving his or her consent shall include a decision-making representative appointed in respect of the patient and in respect of a matter to which the relevant consent relates, and
+
+(b) a patient shall not be regarded as incapable or unable to give consent for the purposes of section 57, 59 or 60, as the case may be, of the Act of 2001 where a decision-making representative is appointed in respect of the patient and in respect of a matter to which the relevant consent relates.]
+
+(2) In this section “mental disorder”, “patient” and “treatment” have the same meaning as in the Act of 2001.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F266: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 91(a), S.I. No. 194 of 2023.
+>
+> F267: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 91(b), S.I. No. 194 of 2023.
+
+### 137. Payment for necessary goods and services
+
+**137.** (1) A person who lacks capacity to enter into a contract for the sale of goods or services shall pay the supplier a reasonable sum for goods or services supplied at his or her request only if the goods or services are suitable to the person’s—
+
+(a) condition in life, and
+
+(b) actual requirements,
+
+at the time when the goods or services, as the case may be, are so supplied.
+
+(2) Section 2 of the Sale of Goods Act 1893 is amended by deleting “mental incapacity or”.
+
+### 138. Consent and capacity in specific matters
+
+**138.** Unless otherwise expressly provided, nothing in this Act shall be construed as altering or amending the law in force on the coming into operation of this section relating to the capacity or consent required as respects a person in relation to any of the following:
+
+(a) marriage;
+
+(b) civil partnership;
+
+(c) judicial separation, divorce or a non-judicial separation agreement;
+
+(d) the dissolution of a civil partnership;
+
+(e) the placing of a child for adoption;
+
+(f) the making of an adoption order;
+
+(g) guardianship;
+
+(h) sexual relations;
+
+(i) serving as a member of a jury.
+
+### 139. Application under Part 5, 7 or 8 to be heard in presence of relevant person or persons concerned
+
+**139.** (1) An application to the court or the High Court under *Part 5* (including an application under *section 48*), *7* or *8* shall be heard in the presence of the relevant person the subject of the application unless, in the opinion of the court or the High Court, as the case may be—
+
+(a) the fact that the relevant person is not or would not be present in court would not cause an injustice to the relevant person,
+
+(b) such attendance may have an adverse effect on the health of the relevant person,
+
+(c) the relevant person is unable, whether by reason of old age, infirmity or any other good and substantial reason, to attend the hearing, or
+
+(d) the relevant person is unwilling to attend.
+
+F268[(1A) *Subsection (1)* shall, with all necessary modifications, apply to a review under *Part 6* by the wardship court of the capacity of a ward as it applies to an application under *Part 5, 7* or *8* to the court or High Court in respect of the relevant person the subject of the application.]
+
+(2) *Subsection (1)* shall, with all necessary modifications, apply to a review under *Part 10* by the wardship court of a detention order in respect of the person concerned (within the meaning of *section 104*) as it applies to an application under *Part 5*, *7* or *8* to the court or High Court in respect of the relevant person the subject of the application.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F268: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 92, S.I. No. 194 of 2023.
+
+### 140. Wills
+
+**140.** Nothing in this Act shall be construed as altering or amending the law relating to the capacity of a person to make a will.
+
+### 141. Appeals
+
+**141.** An appeal lies—
+
+(a) to the High Court from a decision of the Circuit Court exercising any jurisdiction under this Act, and
+
+(b) to the—
+
+(i) Court of Appeal from a decision of the High Court, or
+
+(ii) to the Supreme Court from the High Court in the circumstances laid down in Article 34.5.4 of the Constitution,
+
+on a point of law only.
+
+### 142. Amendment of section 26A of Courts (Supplemental Provisions) Act 1961
+
+**142.** Section 26A (inserted by section 189 of the Personal Insolvency Act 2012) of the Courts (Supplemental Provisions) Act 1961 is amended—
+
+(a) by inserting the following after subsection (2):
+
+“(2A) The functions, power and jurisdiction conferred on the Circuit Court by the *Assisted Decision-Making (Capacity) Act 2015* may, subject to this section, be performed and exercised by a specialist judge.”,
+
+and
+
+(b) in subsection (5), by deleting “subsections (2) and (3) ” and substituting “subsections (2), (2A) and (3) ”.
+
+### 143. Amendment of Civil Registration Act 2004
+
+**143.** The Civil Registration Act 2004 is amended—
+
+(a) in section 2(2), by substituting the following for paragraph (d):
+
+“(d) one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity (within the meaning of the Assisted Decision-Making (Capacity) Act 2015) to consent to the marriage,”
+
+(b) F270[...]
+
+(c) in section 58—
+
+(i) in subsection (9)(a), by substituting “Subject to subsection (12), a party ” for “A party”, and
+
+(ii) by substituting the following for subsection (11):
+
+“(11) An objection on the ground that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to consent to the marriage shall be accompanied by—
+
+(a) a copy of a declaration by the Circuit Court under *section 37(1)* of the *Assisted Decision-Making (Capacity) Act 2015* that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make a decision to consent to being married,
+
+(b) a copy of a declaration by the Circuit Court under *section 37(1)* of the *Assisted Decision-Making (Capacity) Act 2015* that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make the class of decisions specified in the declaration where the decision to consent to being married is a decision which falls within that class of decisions, or
+
+(c) a copy of an application made under *Part 5* of the *Assisted Decision-Making (Capacity) Act 2015* (accompanied by a copy of a related interim order of the Circuit Court under that Part) to the Circuit Court by the person making the objection where the application relates (whether in whole or in part) to the capacity of one of the parties, or both of the parties, to the proposed marriage to make a decision to consent to being married.
+
+(12) Without prejudice to *section 141* of the *Assisted Decision-Making (Capacity) Act 2015*, subsection (9) shall not apply to a decision referred to in that subsection to the extent that the decision relates to an objection referred to in subsection (11).”,
+
+and
+
+(d) F270[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F269, F270, F271, F272: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 93, S.I. No. 194 of 2023.
+
+### 144. Amendment of Act of 2001
+
+**144.** F273[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F273: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 3(f), S.I. No. 194 of 2023.
+
+### 145. Offence of ill-treatment or wilful neglect
+
+**145.** A decision-making assistant, co-decision-maker, decision-making representative, F274[attorney or designated healthcare representative for a relevant person] who ill-treats or wilfully neglects the relevant person shall be guilty of an offence and shall be liable—
+
+(a) on summary conviction, to a class A fine and imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F274: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 94, S.I. No. 194 of 2023.
+>
+> **Editorial Notes:**
+>
+> E38: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 146. Review of this Act
+
+F275[**146.** The Minister, after consultation with the Minister for Health shall, not later than 5 years after the date on which *section 95* of the Assisted Decision-Making (Capacity) (Amendment) Act 2022 comes into operation, conduct a review of the operation and effectiveness of the Assisted Decision-Making (Capacity) Act 2015 and shall, not later than 6 months after the end of that period of 5 years, or on the completion of the review, whichever is the earlier, prepare a report, in writing, of the findings of the review and of the conclusions drawn from those findings and cause copies of the report to be laid before each House of the Oireachtas.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F275: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 95, S.I. No. 194 of 2023.
+
+## SCHEDULE — Convention on the International Protection of Adults
+
+*Section 109*
+
+*(Concluded 13 January 2000)*
+
+The States signatory to the present Convention,
+
+Considering the need to provide for the protection in international situations of adults who, by reason of an impairment or insufficiency of their personal faculties, are not in a position to protect their interests,
+
+Wishing to avoid conflicts between their legal systems in respect of jurisdiction, applicable law, recognition and enforcement of measures for the protection of adults,
+
+Recalling the importance of international co-operation for the protection of adults,
+
+Affirming that the interests of the adult and respect for his or her dignity and autonomy are to be primary considerations,
+
+Have agreed on the following provisions—
+
+CHAPTER I — SCOPE OF THE CONVENTION
+
+Article 1
+
+(1) This Convention applies to the protection in international situations of adults who, by reason of an impairment or insufficiency of their personal faculties, are not in a position to protect their interests.
+
+(2) Its objects are—
+
+a) to determine the State whose authorities have jurisdiction to take measures directed to the protection of the person or property of the adult;
+
+b) to determine which law is to be applied by such authorities in exercising their jurisdiction;
+
+c) to determine the law applicable to representation of the adult;
+
+d) to provide for the recognition and enforcement of such measures of protection in all Contracting States;
+
+*e*) to establish such co-operation between the authorities of the Contracting States as may be necessary in order to achieve the purposes of this Convention.
+
+Article 2
+
+(1) For the purposes of this Convention, an adult is a person who has reached the age of 18 years.
+
+(2) The Convention applies also to measures in respect of an adult who had not reached the age of 18 years at the time the measures were taken.
+
+Article 3
+
+The measures referred to in Article 1 may deal in particular with—
+
+*a*) the determination of incapacity and the institution of a protective regime;
+
+*b*) the placing of the adult under the protection of a judicial or administrative authority;
+
+*c*) guardianship, curatorship and analogous institutions;
+
+*d*) the designation and functions of any person or body having charge of the adult’s person or property, representing or assisting the adult;
+
+*e*) the placement of the adult in an establishment or other place where protection can be provided;
+
+*f*) the administration, conservation or disposal of the adult’s property;
+
+*g*) the authorisation of a specific intervention for the protection of the person or property of the adult.
+
+Article 4
+
+(1) The Convention does not apply to—
+
+*a*) maintenance obligations;
+
+*b*) the formation, annulment and dissolution of marriage or any similar relationship, as well as legal separation;
+
+*c*) property regimes in respect of marriage or any similar relationship;
+
+*d*) trusts or succession;
+
+*e*) social security;
+
+*f*) public measures of a general nature in matters of health;
+
+*g*) measures taken in respect of a person as a result of penal offences committed by that person;
+
+*h*) decisions on the right of asylum and on immigration;
+
+*i*) measures directed solely to public safety.
+
+(2) Paragraph 1 does not affect, in respect of the matters referred to therein, the entitlement of a person to act as the representative of the adult.
+
+CHAPTER II — JURISDICTION
+
+Article 5
+
+(1) The judicial or administrative authorities of the Contracting State of the habitual residence of the adult have jurisdiction to take measures directed to the protection of the adult’s person or property.
+
+(2) In case of a change of the adult’s habitual residence to another Contracting State, the authorities of the State of the new habitual residence have jurisdiction.
+
+Article 6
+
+(1) For adults who are refugees and those who, due to disturbances occurring in their country, are internationally displaced, the authorities of the Contracting State on the territory of which these adults are present as a result of their displacement have the jurisdiction provided for in Article 5, paragraph 1.
+
+(2) The provisions of the preceding paragraph also apply to adults whose habitual residence cannot be established.
+
+Article 7
+
+(1) Except for adults who are refugees or who, due to disturbances occurring in their State of nationality, are internationally displaced, the authorities of a Contracting State of which the adult is a national have jurisdiction to take measures for the protection of the person or property of the adult if they consider that they are in a better position to assess the interests of the adult, and after advising the authorities having jurisdiction under Article 5 or Article 6, paragraph 2.
+
+(2) This jurisdiction shall not be exercised if the authorities having jurisdiction under Article 5, Article 6, paragraph 2, or Article 8 have informed the authorities of the State of which the adult is a national that they have taken the measures required by the situation or have decided that no measures should be taken or that proceedings are pending before them.
+
+(3) The measures taken under paragraph 1 shall lapse as soon as the authorities having jurisdiction under Article 5, Article 6, paragraph 2, or Article 8 have taken measures required by the situation or have decided that no measures are to be taken. These authorities shall inform accordingly the authorities which have taken measures in accordance with paragraph 1.
+
+Article 8
+
+(1) The authorities of a Contracting State having jurisdiction under Article 5 or Article 6, if they consider that such is in the interests of the adult, may, on their own motion or on an application by the authority of another Contracting State, request the authorities of one of the States mentioned in paragraph 2 to take measures for the protection of the person or property of the adult. The request may relate to all or some aspects of such protection.
+
+(2) The Contracting States whose authorities may be addressed as provided in the preceding paragraph are—
+
+*a*) a State of which the adult is a national;
+
+*b*) the State of the preceding habitual residence of the adult;
+
+*c*) a State in which property of the adult is located;
+
+*d*) the State whose authorities have been chosen in writing by the adult to take measures directed to his or her protection;
+
+*e*) the State of the habitual residence of a person close to the adult prepared to undertake his or her protection;
+
+*f*) the State in whose territory the adult is present, with regard to the protection of the person of the adult.
+
+(3) In case the authority designated pursuant to the preceding paragraphs does not accept its jurisdiction, the authorities of the Contracting State having jurisdiction under Article 5 or Article 6 retain jurisdiction.
+
+Article 9
+
+The authorities of a Contracting State where property of the adult is situated have jurisdiction to take measures of protection concerning that property, to the extent that such measures are compatible with those taken by the authorities having jurisdiction under Articles 5 to 8.
+
+Article 10
+
+(1) In all cases of urgency, the authorities of any Contracting State in whose territory the adult or property belonging to the adult is present have jurisdiction to take any necessary measures of protection.
+
+(2) The measures taken under the preceding paragraph with regard to an adult habitually resident in a Contracting State shall lapse as soon as the authorities which have jurisdiction under Articles 5 to 9 have taken the measures required by the situation.
+
+(3) The measures taken under paragraph 1 with regard to an adult who is habitually resident in a non-Contracting State shall lapse in each Contracting State as soon as measures required by the situation and taken by the authorities of another State are recognised in the Contracting State in question.
+
+(4) The authorities which have taken measures under paragraph 1 shall, if possible, inform the authorities of the Contracting State of the habitual residence of the adult of the measures taken.
+
+Article 11
+
+(1) By way of exception, the authorities of a Contracting State in whose territory the adult is present have jurisdiction to take measures of a temporary character for the protection of the person of the adult which have a territorial effect limited to the State in question, in so far as such measures are compatible with those already taken by the authorities which have jurisdiction under Articles 5 to 8, and after advising the authorities having jurisdiction under Article 5.
+
+(2) The measures taken under the preceding paragraph with regard to an adult habitually resident in a Contracting State shall lapse as soon as the authorities which have jurisdiction under Articles 5 to 8 have taken a decision in respect of the measures of protection which may be required by the situation.
+
+Article 12
+
+Subject to Article 7, paragraph 3, the measures taken in application of Articles 5 to 9 remain in force according to their terms, even if a change of circumstances has eliminated the basis upon which jurisdiction was founded, so long as the authorities which have jurisdiction under the Convention have not modified, replaced or terminated such measures.
+
+CHAPTER III — APPLICABLE LAW
+
+Article 13
+
+(1) In exercising their jurisdiction under the provisions of Chapter II, the authorities of the Contracting States shall apply their own law.
+
+(2) However, in so far as the protection of the person or the property of the adult requires, they may exceptionally apply or take into consideration the law of another State with which the situation has a substantial connection.
+
+Article 14
+
+Where a measure taken in one Contracting State is implemented in another Contracting State, the conditions of its implementation are governed by the law of that other State.
+
+Article 15
+
+(1) The existence, extent, modification and extinction of powers of representation granted by an adult, either under an agreement or by a unilateral act, to be exercised when such adult is not in a position to protect his or her interests, are governed by the law of the State of the adult’s habitual residence at the time of the agreement or act, unless one of the laws mentioned in paragraph 2 has been designated expressly in writing.
+
+(2) The States whose laws may be designated are—
+
+*a*) a State of which the adult is a national;
+
+*b*) the State of a former habitual residence of the adult;
+
+*c*) a State in which property of the adult is located, with respect to that property.
+
+(3) The manner of exercise of such powers of representation is governed by the law of the State in which they are exercised.
+
+Article 16
+
+Where powers of representation referred to in Article 15 are not exercised in a manner sufficient to guarantee the protection of the person or property of the adult, they may be withdrawn or modified by measures taken by an authority having jurisdiction under the Convention. Where such powers of representation are withdrawn or modified, the law referred to in Article 15 should be taken into consideration to the extent possible.
+
+Article 17
+
+(1) The validity of a transaction entered into between a third party and another person who would be entitled to act as the adult’s representative under the law of the State where the transaction was concluded cannot be contested, and the third party cannot be held liable, on the sole ground that the other person was not entitled to act as the adult’s representative under the law designated by the provisions of this Chapter, unless the third party knew or should have known that such capacity was governed by the latter law.
+
+(2) The preceding paragraph applies only if the transaction was entered into between persons present on the territory of the same State.
+
+Article 18
+
+The provisions of this Chapter apply even if the law designated by them is the law of a non-Contracting State.
+
+Article 19
+
+In this Chapter the term ‘law’ means the law in force in a State other than its choice of law rules.
+
+Article 20
+
+This Chapter does not prevent the application of those provisions of the law of the State in which the adult is to be protected where the application of such provisions is mandatory whatever law would otherwise be applicable.
+
+Article 21
+
+The application of the law designated by the provisions of this Chapter can be refused only if this application would be manifestly contrary to public policy.
+
+CHAPTER IV — RECOGNITION AND ENFORCEMENT
+
+Article 22
+
+(1) The measures taken by the authorities of a Contracting State shall be recognised by operation of law in all other Contracting States.
+
+(2) Recognition may however be refused—
+
+*a*) if the measure was taken by an authority whose jurisdiction was not based on, or was not in accordance with, one of the grounds provided for by the provisions of Chapter II;
+
+*b*) if the measure was taken, except in a case of urgency, in the context of a judicial or administrative proceeding, without the adult having been provided the opportunity to be heard, in violation of fundamental principles of procedure of the requested State;
+
+*c*) if such recognition is manifestly contrary to public policy of the requested State, or conflicts with a provision of the law of that State which is mandatory whatever law would otherwise be applicable;
+
+*d*) if the measure is incompatible with a later measure taken in a non- Contracting State which would have had jurisdiction under Articles 5 to 9, where this later measure fulfils the requirements for recognition in the requested State;
+
+*e*) if the procedure provided in Article 33 has not been complied with.
+
+Article 23
+
+Without prejudice to Article 22, paragraph 1, any interested person may request from the competent authorities of a Contracting State that they decide on the recognition or non-recognition of a measure taken in another Contracting State. The procedure is governed by the law of the requested State.
+
+Article 24
+
+The authority of the requested State is bound by the findings of fact on which the authority of the State where the measure was taken based its jurisdiction.
+
+Article 25
+
+(1) If measures taken in one Contracting State and enforceable there require enforcement in another Contracting State, they shall, upon request by an interested party, be declared enforceable or registered for the purpose of enforcement in that other State according to the procedure provided in the law of the latter State.
+
+(2) Each Contracting State shall apply to the declaration of enforceability or registration a simple and rapid procedure.
+
+(3) The declaration of enforceability or registration may be refused only for one of the reasons set out in Article 22, paragraph 2.
+
+Article 26
+
+Without prejudice to such review as is necessary in the application of the preceding Articles, there shall be no review of the merits of the measure taken.
+
+Article 27
+
+Measures taken in one Contracting State and declared enforceable, or registered for the purpose of enforcement, in another Contracting State shall be enforced in the latter State as if they had been taken by the authorities of that State. Enforcement takes place in accordance with the law of the requested State to the extent provided by such law.
+
+CHAPTER V — CO-OPERATION
+
+Article 28
+
+(1) A Contracting State shall designate a Central Authority to discharge the duties which are imposed by the Convention on such authorities.
+
+(2) Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and to specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
+
+Article 29
+
+(1) Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their States to achieve the purposes of the Convention.
+
+(2) They shall, in connection with the application of the Convention, take appropriate steps to provide information as to the laws of, and services available in, their States relating to the protection of adults.
+
+Article 30
+
+The Central Authority of a Contracting State, either directly or through public authorities or other bodies, shall take all appropriate steps to—
+
+*a*) facilitate communications, by every means, between the competent authorities in situations to which the Convention applies;
+
+*b*) provide, on the request of a competent authority of another Contracting State, assistance in discovering the whereabouts of an adult where it appears that the adult may be present and in need of protection within the territory of the requested State.
+
+Article 31
+
+The competent authorities of a Contracting State may encourage, either directly or through other bodies, the use of mediation, conciliation or similar means to achieve agreed solutions for the protection of the person or property of the adult in situations to which the Convention applies.
+
+Article 32
+
+(1) Where a measure of protection is contemplated, the competent authorities under the Convention, if the situation of the adult so requires, may request any authority of another Contracting State which has information relevant to the protection of the adult to communicate such information.
+
+(2) A Contracting State may declare that requests under paragraph 1 shall be communicated to its authorities only through its Central Authority.
+
+(3) The competent authorities of a Contracting State may request the authorities of another Contracting State to assist in the implementation of measures of protection taken under this Convention.
+
+Article 33
+
+(1) If an authority having jurisdiction under Articles 5 to 8 contemplates the placement of the adult in an establishment or other place where protection can be provided, and if such placement is to take place in another Contracting State, it shall first consult with the Central Authority or other competent authority of the latter State. To that effect it shall transmit a report on the adult together with the reasons for the proposed placement.
+
+(2) The decision on the placement may not be made in the requesting State if the Central Authority or other competent authority of the requested State indicates its opposition within a reasonable time.
+
+Article 34
+
+In any case where the adult is exposed to a serious danger, the competent authorities of the Contracting State where measures for the protection of the adult have been taken or are under consideration, if they are informed that the adult’s residence has changed to, or that the adult is present in, another State, shall inform the authorities of that other State about the danger involved and the measures taken or under consideration.
+
+Article 35
+
+An authority shall not request or transmit any information under this Chapter if to do so would, in its opinion, be likely to place the adult’s person or property in danger, or constitute a serious threat to the liberty or life of a member of the adult’s family.
+
+Article 36
+
+(1) Without prejudice to the possibility of imposing reasonable charges for the provision of services, Central Authorities and other public authorities of Contracting States shall bear their own costs in applying the provisions of this Chapter.
+
+(2) Any Contracting State may enter into agreements with one or more other Contracting States concerning the allocation of charges.
+
+Article 37
+
+Any Contracting State may enter into agreements with one or more other Contracting States with a view to improving the application of this Chapter in their mutual relations. The States which have concluded such an agreement shall transmit a copy to the depositary of the Convention.
+
+CHAPTER VI — GENERAL PROVISIONS
+
+Article 38
+
+(1) The authorities of the Contracting State where a measure of protection has been taken or a power of representation confirmed may deliver to the person entrusted with protection of the adult’s person or property, on request, a certificate indicating the capacity in which that person is entitled to act and the powers conferred.
+
+(2) The capacity and powers indicated in the certificate are presumed to be vested in that person as of the date of the certificate, in the absence of proof to the contrary.
+
+(3) Each Contracting State shall designate the authorities competent to draw up the certificate.
+
+Article 39
+
+Personal data gathered or transmitted under the Convention shall be used only for the purposes for which they were gathered or transmitted.
+
+Article 40
+
+The authorities to whom information is transmitted shall ensure its confidentiality, in accordance with the law of their State.
+
+Article 41
+
+All documents forwarded or delivered under this Convention shall be exempt from legalisation or any analogous formality.
+
+Article 42
+
+Each Contracting State may designate the authorities to which requests under Article 8 and Article 33 are to be addressed.
+
+Article 43
+
+(1) The designations referred to in Article 28 and Article 42 shall be communicated to the Permanent Bureau of the Hague Conference on Private International Law not later than the date of the deposit of the instrument of ratification, acceptance or approval of the Convention or of accession thereto. Any modifications thereof shall also be communicated to the Permanent Bureau.
+
+(2) The declaration referred to in Article 32, paragraph 2, shall be made to the depositary of the Convention.
+
+Article 44
+
+A Contracting State in which different systems of law or sets of rules of law apply to the protection of the person or property of the adult shall not be bound to apply the rules of the Convention to conflicts solely between such different systems or sets of rules of law.
+
+Article 45
+
+In relation to a State in which two or more systems of law or sets of rules of law with regard to any matter dealt with in this Convention apply in different territorial units—
+
+*a*) any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit;
+
+*b*) any reference to the presence of the adult in that State shall be construed as referring to presence in a territorial unit;
+
+*c*) any reference to the location of property of the adult in that State shall be construed as referring to location of property of the adult in a territorial unit;
+
+*d*) any reference to the State of which the adult is a national shall be construed as referring to the territorial unit designated by the law of that State or, in the absence of relevant rules, to the territorial unit with which the adult has the closest connection;
+
+*e*) any reference to the State whose authorities have been chosen by the adult shall be construed
+
+—as referring to the territorial unit if the adult has chosen the authorities of this territorial unit;
+
+—as referring to the territorial unit with which the adult has the closest connection if the adult has chosen the authorities of the State without specifying a particular territorial unit within the State;
+
+*f*) any reference to the law of a State with which the situation has a substantial connection shall be construed as referring to the law of a territorial unit with which the situation has a substantial connection;
+
+*g*) any reference to the law or procedure or authority of the State in which a measure has been taken shall be construed as referring to the law or procedure in force in such territorial unit or authority of the territorial unit in which such measure was taken;
+
+*h*) any reference to the law or procedure or authority of the requested State shall be construed as referring to the law or procedure in force in such territorial unit or authority of the territorial unit in which recognition or enforcement is sought;
+
+*i*) any reference to the State where a measure of protection is to be implemented shall be construed as referring to the territorial unit where the measure is to be implemented;
+
+*j*) any reference to bodies or authorities of that State, other than Central Authorities, shall be construed as referring to those authorised to act in the relevant territorial unit.
+
+Article 46
+
+For the purpose of identifying the applicable law under Chapter III, in relation to a State which comprises two or more territorial units each of which has its own system of law or set of rules of law in respect of matters covered by this Convention, the following rules apply—
+
+*a*) if there are rules in force in such a State identifying which territorial unit’s law is applicable, the law of that unit applies;
+
+*b*) in the absence of such rules, the law of the relevant territorial unit as defined in Article 45 applies.
+
+Article 47
+
+For the purpose of identifying the applicable law under Chapter III, in relation to a State which has two or more systems of law or sets of rules of law applicable to different categories of persons in respect of matters covered by this Convention, the following rules apply—
+
+*a*) if there are rules in force in such a State identifying which among such laws applies, that law applies;
+
+*b*) in the absence of such rules, the law of the system or the set of rules of law with which the adult has the closest connection applies.
+
+Article 48
+
+In relations between the Contracting States this Convention replaces the *Convention concernant l’interdiction et les mesures de protection analogues*, signed at The Hague 17 July 1905.
+
+Article 49
+
+(1) The Convention does not affect any other international instrument to which Contracting States are Parties and which contains provisions on matters governed by this Convention, unless a contrary declaration is made by the States Parties to such instrument.
+
+(2) This Convention does not affect the possibility for one or more Contracting States to conclude agreements which contain, in respect of adults habitually resident in any of the States Parties to such agreements, provisions on matters governed by this Convention.
+
+(3) Agreements to be concluded by one or more Contracting States on matters within the scope of this Convention do not affect, in the relationship of such States with other Contracting States, the application of the provisions of this Convention.
+
+(4) The preceding paragraphs also apply to uniform laws based on special ties of a regional or other nature between the States concerned.
+
+Article 50
+
+(1) The Convention shall apply to measures only if they are taken in a State after the Convention has entered into force for that State.
+
+(2) The Convention shall apply to the recognition and enforcement of measures taken after its entry into force as between the State where the measures have been taken and the requested State.
+
+(3) The Convention shall apply from the time of its entry into force in a Contracting State to powers of representation previously granted under conditions corresponding to those set out in Article 15.
+
+Article 51
+
+(1) Any communication sent to the Central Authority or to another authority of a Contracting State shall be in the original language, and shall be accompanied by a translation into the official language or one of the official languages of the other State or, where that is not feasible, a translation into French or English.
+
+(2) However, a Contracting State may, by making a reservation in accordance with Article 56, object to the use of either French or English, but not both.
+
+Article 52
+
+The Secretary General of the Hague Conference on Private International Law shall at regular intervals convoke a Special Commission in order to review the practical operation of the Convention.
+
+CHAPTER VII — FINAL CLAUSES
+
+Article 53
+
+(1) The Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law on 2 October 1999.
+
+(2) It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands, depositary of the Convention.
+
+Article 54
+
+(1) Any other State may accede to the Convention after it has entered into force in accordance with Article 57, paragraph 1.
+
+(2) The instrument of accession shall be deposited with the depositary.
+
+(3) Such accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the six months after the receipt of the notification referred to in sub-paragraph b) of Article 59. Such an objection may also be raised by States at the time when they ratify, accept or approve the Convention after an accession. Any such objection shall be notified to the depositary.
+
+Article 55
+
+(1) If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that the Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
+
+(2) Any such declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.
+
+(3) If a State makes no declaration under this Article, the Convention is to extend to all territorial units of that State.
+
+Article 56
+
+(1) Any State may, not later than the time of ratification, acceptance, approval or accession, or at the time of making a declaration in terms of Article 55, make the reservation provided for in Article 51, paragraph 2. No other reservation shall be permitted.
+
+(2) Any State may at any time withdraw the reservation it has made. The withdrawal shall be notified to the depositary.
+
+(3) The reservation shall cease to have effect on the first day of the third calendar month after the notification referred to in the preceding paragraph.
+
+Article 57
+
+(1) The Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the third instrument of ratification, acceptance or approval referred to in Article 53.
+
+(2) Thereafter the Convention shall enter into force—
+
+*a*) for each State ratifying, accepting or approving it subsequently, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession;
+
+*b*) for each State acceding, on the first day of the month following the expiration of three months after the expiration of the period of six months provided in Article 54, paragraph 3;
+
+*c*) for a territorial unit to which the Convention has been extended in conformity with Article 55, on the first day of the month following the expiration of three months after the notification referred to in that Article.
+
+Article 58
+
+(1) A State Party to the Convention may denounce it by a notification in writing addressed to the depositary. The denunciation may be limited to certain territorial units to which the Convention applies.
+
+(2) The denunciation takes effect on the first day of the month following the expiration of twelve months after the notification is received by the depositary. Where a longer period for the denunciation to take effect is specified in the notification, the denunciation takes effect upon the expiration of such longer period.
+
+Article 59
+
+The depositary shall notify the States Members of the Hague Conference on Private International Law and the States which have acceded in accordance with Article 54 of the following—
+
+*a*) the signatures, ratifications, acceptances and approvals referred to in Article 53;
+
+*b*) the accessions and objections raised to accessions referred to in Article 54;
+
+*c*) the date on which the Convention enters into force in accordance with Article 57;
+
+*d*) the declarations referred to in Article 32, paragraph 2, and Article 55;
+
+*e*) the agreements referred to in Article 37;
+
+*f*) the reservation referred to in Article 51, paragraph 2, and the withdrawal referred to in Article 56, paragraph 2;
+
+*g*) the denunciations referred to in Article 58.
+
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at The Hague, on 13 January, 2000, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law.

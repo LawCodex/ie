@@ -1,0 +1,55 @@
+---
+title: "European Union (Accession of the Republic of Croatia) (Access to the Labour Market) Act 2013"
+identifier: "eli/2013/act/21"
+type: act
+jurisdiction: ie
+language: en
+number: 21
+year: 2013
+date: 2013-07-01
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/2013/act/21/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# European Union (Accession of the Republic of Croatia) (Access to the Labour Market) Act 2013
+
+AN ACT TO PROVIDE FOR THE EMPLOYMENT IN THE STATE OF NATIONALS OF THE REPUBLIC OF CROATIA PURSUANT TO THE TREATY CONCERNING THE ACCESSION OF THE REPUBLIC OF CROATIA TO THE EUROPEAN UNION, DONE AT BRUSSELS ON THE 9TH DAY OF DECEMBER 2011 [^1]; TO AMEND THE EMPLOYMENT PERMITS ACT 2003; AND TO PROVIDE FOR RELATED MATTERS.
+
+[1*st July*, 2013]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1**.— In this Act—
+
+“Annex V to the Treaty of Accession” means Annex V, in so far as it relates to the free movement of persons, to the Treaty concerning the accession of the Republic of Croatia to the European Union, done at Brussels on the 9th day of December 2011;
+
+“European Parliament and Council Regulation” means Regulation (EU) No. 492/2011 of the European Parliament and of the Council of 5 April 2011 [^2].
+
+## 2. Employment in State of nationals of Republic of Croatia.
+
+**2**.— (1) Having regard to Annex V to the Treaty of Accession—
+
+(*a*) for the period of 2 years commencing on 1 July 2013, a national of the Republic of Croatia shall have the same entitlement to be in employment in the State as a national of another Member State to whom Articles 1 to 6 of the European Parliament and Council Regulation apply, and
+
+(*b*) thereafter Articles 1 to 6 of the European Parliament and Council Regulation shall apply in respect of a national of the Republic of Croatia.
+
+(2) The conditions referred to in paragraph 8 of Annex V to the Treaty of Accession in respect of the family members, referred to in that paragraph, of a national of the Republic of Croatia shall not apply in the State for the period of 2 years commencing on 1 July 2013.
+
+## 3. Amendment of Employment Permits Act 2003.
+
+**3**.— Section 2 of the Employment Permits Act 2003 is amended by inserting the following subsection after subsection (10):
+
+“(10A) This section shall not apply to a national of the Republic of Croatia who is entitled to be in employment in the State pursuant to *section 2(1)(a)* of the *European Union (Accession of the Republic of Croatia) (Access to the Labour Market) Act 2013*, for the period referred to in *section 2(1)(a)* of that Act.”.
+
+## 4. Short title and collective citation.
+
+**4**.— (1) This Act may be cited as the European Union (Accession of the Republic of Croatia) (Access to the Labour Market) Act 2013.
+
+(2) The Employment Permits Acts 2003 to 2012 and *section 3* may be cited together as the Employment Permits Acts 2003 to 2013.
+
+[^1]: OJ No. L 112, 24.4.2012, p.10.
+[^2]: OJ No. L 141, 27.5.2011, p.1.

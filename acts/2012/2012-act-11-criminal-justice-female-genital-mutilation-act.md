@@ -1,0 +1,359 @@
+---
+title: "Criminal Justice (Female Genital Mutilation) Act 2012"
+identifier: "eli/2012/act/11"
+type: act
+jurisdiction: ie
+language: en
+number: 11
+year: 2012
+date: 2012-04-02
+last_amended: 2024-08-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2012/act/11/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2012/act/11/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Female Genital Mutilation) Act 2012
+
+AN ACT TO PROVIDE FOR THE CREATION OF AN OFFENCE OF FEMALE GENITAL MUTILATION, AND OTHER OFFENCES RELATING TO FEMALE GENITAL MUTILATION, FOR THE BETTER PROTECTION OF GIRLS AND WOMEN; TO PROVIDE FOR AMENDMENTS TO OTHER ENACTMENTS; AND TO PROVIDE FOR RELATED MATTERS.
+
+[2*nd April*, 2012]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1**.— In this Act—
+
+“female genital mutilation” means any act the purpose of which, or the effect of which, is the excision, infibulation or other mutilation of the whole or any part of the labia majora, labia minora, prepuce of the clitoris, clitoris or vagina of a girl or woman;
+
+“midwife” means a person whose name is registered in the midwives division of the register of nurses established under section 27 of the Nurses Act 1985;
+
+“registered medical practitioner” has the same meaning as it has in section 2 of the Medical Practitioners Act 2007.
+
+## 2. Offences of female genital mutilation, etc.
+
+**2**.— (1) A person is guilty of an offence if the person does or attempts to do an act of female genital mutilation.
+
+(2) A person is not guilty of an offence under *subsection (1)* if—
+
+(*a*) the act concerned is a surgical operation performed by a registered medical practitioner on the girl or woman concerned, which is necessary for the protection of her physical or mental health,
+
+(*b*) the act concerned is a surgical operation performed by a registered medical practitioner or a midwife, or a person undergoing training to be a midwife, on the girl or woman concerned when she is in any stage of labour, or has just given birth, for purposes connected with the labour or birth,
+
+(*c*) the person is the girl or woman on whom the act of female genital mutilation is done, or
+
+(*d*) the act concerned is done to a woman who is not less than 18 years of age and there is no resultant permanent bodily harm.
+
+(3) For the avoidance of doubt, it is hereby declared that it shall not be a defence to proceedings for an offence under this section for the accused person to show that he or she believed that the act concerned was consented to by the girl concerned or her parents or guardian, or the woman concerned, as the case may be, or required or permitted for customary or ritual reasons.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Offence under section included in *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), sch. 1 (offences against children for purposes of offence under s. 2) (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1, S.I. No. 281 of 2012.
+
+## 3. Offence of removal from State for purpose of female genital mutilation.
+
+**3**.— (1) A person is guilty of an offence if the person removes or attempts to remove a girl or woman from the State where one of the purposes for the removal is to have an act of female genital mutilation done to her.
+
+(2) A person is not guilty of an offence under *subsection (1)* if the act is done and is—
+
+(*a*) a surgical operation performed, by a person who is duly qualified to perform surgical operations under the law of the place where the act is done, or has been professionally trained to perform surgical operations, on the girl or woman concerned, which is necessary for the protection of her physical or mental health,
+
+(*b*) a surgical operation performed, by a person performing functions corresponding to those of a midwife or a registered medical practitioner, on the girl or woman concerned when she is in any stage of labour, or has just given birth, for purposes connected with the labour or birth, or
+
+(*c*) done to a woman who is not less than 18 years of age, and there is no resultant permanent bodily harm.
+
+(3) In proceedings for an offence under *subsection (1)*, it shall be presumed, until the contrary is shown, that one of the purposes for the removal from the State by the accused person of the girl or woman concerned was to have an act of female genital mutilation done to her if—
+
+(*a*) the accused person removed the girl or woman from the State in circumstances giving rise to the reasonable inference that one of the purposes for such removal was to have an act of female genital mutilation done to her, and
+
+(*b*) an act of female genital mutilation was done to her after she was removed from the State and, where she subsequently returned to the State, before that return.
+
+(4) For the avoidance of doubt, it is hereby declared that it shall not be a defence to proceedings for an offence under this section for the accused person to show that he or she believed that the act concerned was consented to by the girl concerned or her parents or guardian, or the woman concerned, as the case may be, or required or permitted for customary or ritual reasons.
+
+(5) For the purposes of this section, to “remove a girl or woman from the State” includes—
+
+(*a*) arranging any part of her travel out of the State,
+
+(*b*) accompanying her for any portion of that travel,
+
+(*c*) arranging that she be met when her travel out of the State has terminated, or
+
+(*d*) doing any other act that could facilitate her travel out of the State.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Offence under section included in *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), sch. 1 (offences against children for purposes of offence under s. 2) (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1, S.I. No. 281 of 2012.
+
+## 4. Acts, etc., done outside State.
+
+**4**.— (1) A person is guilty of an offence if the person does or attempts to do an act of female genital mutilation in a place other than the State, but only if it is done or attempted to be done—
+
+(*a*) on board an Irish ship within the meaning of section 9 of the Mercantile Marine Act 1955,
+
+(*b*) on an aircraft registered in the State, or
+
+(*c*) by a person who is a citizen of Ireland or is ordinarily resident in the State, and would constitute an offence in the place in which it is done.
+
+(2) A person is not guilty of an offence under *subsection (1)* if—
+
+(*a*) the act concerned is a surgical operation performed, by a person who is duly qualified to perform surgical operations under the law of the place where the act is done, or has been professionally trained to perform surgical operations, on the girl or woman concerned, which is necessary for the protection of her physical or mental health,
+
+(*b*) the act concerned is a surgical operation performed, by a person performing functions corresponding to those of a midwife or a registered medical practitioner, on the girl or woman concerned when she is in any stage of labour, or has just given birth, for purposes connected with the labour or birth,
+
+(*c*) the person is the girl or woman on whom the act of female genital mutilation is done, or
+
+(*d*) the act concerned is done to a woman who is not less than 18 years of age and there is no resultant permanent bodily harm.
+
+(3) For the avoidance of doubt, it is hereby declared that it shall not be a defence to proceedings for an offence under this section for the accused person to show that he or she believed that the act concerned was consented to by the girl concerned or her parents or guardian, or the woman concerned, as the case may be, or required or permitted for customary or ritual reasons.
+
+(4) For the purposes of proceedings for an offence under this section, a person shall be deemed to be ordinarily resident in the State if he or she has had his or her principal residence within the State for the period of 12 months immediately preceding the alleged commission of the offence.
+
+(5) Proceedings for an offence under this section may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Amended by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: subs. 1(a) amended by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014, s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Acts, etc., done outside State.**
+>
+> **4**.— (1) A person is guilty of an offence if the person does or attempts to do an act of female genital mutilation in a place other than the State, but only if it is done or attempted to be done—
+>
+> (*a*) on board an Irish ship within the meaning of F1[section 33 of the Merchant Shipping (Registration of Ships) Act 2014],
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E3: Offence under section included in *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), sch. 1 (offences against children for purposes of offence under s. 2) (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1, S.I. No. 281 of 2012.
+
+## 5. Punishment for offences under sections 2, 3 and 4.
+
+**5**.— A person who is guilty of an offence under *section 2*, *3* or *4* is liable—
+
+(*a*) on summary conviction to a class A fine or to imprisonment for a term not exceeding 12 months or to both, and
+
+(*b*) on conviction on indictment to a fine or imprisonment for a term not exceeding 14 years or to both.
+
+## 6. Proceedings.
+
+**6**.— Proceedings may not be instituted under this Act except by, or with the consent of, the Director of Public Prosecutions.
+
+## 7. Double jeopardy.
+
+**7**.— A person who is acquitted or convicted of an offence in a place outside the State shall not be proceeded against for an offence under this Act consisting of the act that constituted the offence of which the person was so acquitted or convicted.
+
+## 8. Exclusion of the public from hearing.
+
+**8**.— (1) Subject to *subsections (2)* and *(3)*, in any proceedings for an offence under *section 2*, *3* or *4*, the judge or the court, as the case may be, shall exclude from the court during the hearing all persons except officers of the court, persons directly concerned in the proceedings, *bona fide* representatives of the Press and such other persons (if any) as the judge or the court, as the case may be, may in his or her or its discretion permit to remain.
+
+F2[(2) *Subsection (1)* is without prejudice to the right of—
+
+(*a*) a parent, relative or friend of the girl or woman in respect of whom the offence is alleged to have been committed or, where the accused person is not of full age, of the accused person, or
+
+(*b*) a support worker chosen by the girl or woman referred to in *paragraph (a)*,
+
+to remain in court.]
+
+(3) F3[...]
+
+F4[(4) In this section, "support worker" means a volunteer of, or an individual employed under a contract of service or under a contract for services by, an organisation which provides support to victims of crime.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Substituted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 35(a), S.I. No. 530 of 2017.
+>
+> F3: Repealed (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 18(2), S.I. No. 391 of 2024.
+>
+> F4: Inserted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 35(b), S.I. No. 530 of 2017.
+
+## 9. Anonymity of girl or woman concerned.
+
+**9**.— (1) Subject to *subsection (8)(a)*, after a person is charged with an offence under this Act, no matter likely to lead members of the public to identify a girl or woman as the girl or woman in respect of whom the offence is alleged to have been committed shall be published in a written publication available to the public or be broadcast except as authorised by a direction given in pursuance of this section.
+
+(2) If, at any stage before the commencement of a trial of a person for an offence under this Act, the accused person or another person against whom the girl or woman concerned may be expected to give evidence at the trial applies to a judge of the High Court or Circuit Court for a direction in pursuance of this subsection and satisfies the judge—
+
+(*a*) that the direction is required for the purpose of inducing persons to come forward who are likely to be needed as witnesses at the trial, and
+
+(*b*) that the conduct of the applicant’s defence at the trial is likely to be adversely affected if the direction is not given,
+
+the judge shall direct that *subsection (1)* shall not, by virtue of the charge alleging the offence, apply to such matter relating to that girl or woman as is specified in the direction.
+
+(3) If, at a trial of a person for an offence under this Act, the accused or another person who is also charged at the trial applies to the judge for a direction in pursuance of this subsection and satisfies the judge—
+
+(*a*) that the direction is required for the purpose of inducing persons to come forward who are likely to be needed as witnesses at the trial,
+
+(*b*) that the conduct of the applicant’s defence at the trial is likely to be adversely affected if the direction is not given, and
+
+(*c*) that there was good reason for the applicant’s not having made an application under *subsection (2)* before the commencement of the trial,
+
+the judge shall direct that *subsection (1)* shall not, by virtue of the charge alleging the offence, apply to such matter relating to the girl or woman concerned as is specified in the direction.
+
+(4) If, at a trial for an offence under this Act, the judge is satisfied that the effect of *subsection (1)* is to impose a substantial and unreasonable restriction on the reporting of proceedings at the trial and that it is in the public interest to remove or relax the restriction, he or she shall direct that that subsection shall not apply to such matter relating to the girl or woman concerned as is specified in the direction; but a direction shall not be given in pursuance of this subsection by reason only of the outcome of the trial.
+
+(5) If a person who has been convicted of an offence and given notice of appeal against the conviction, or, on conviction on indictment, notice of an application for leave so to appeal, applies to the appellate court for a direction in pursuance of this subsection and satisfies the court—
+
+(*a*) that the direction is required for the purpose of obtaining evidence in support of the appeal, and
+
+(*b*) that the applicant is likely to suffer injustice if the direction is not given,
+
+the court shall direct that *subsection (1)* shall not apply to such matter relating to the girl or woman concerned and the offence as is specified in the direction.
+
+(6) If any matter is published or broadcast in contravention of *subsection (1)*, the following persons, namely—
+
+(*a*) in the case of a publication in a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical,
+
+(*b*) in the case of any other publication, the person who publishes it, and
+
+(*c*) in the case of a broadcast, any body corporate which transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of an editor of a newspaper,
+
+shall be guilty of an offence.
+
+(7) In this section—
+
+“broadcast” means broadcast by wireless telegraphy of sound or visual images intended for general reception;
+
+“written publication” includes a film, a sound track and any other record in permanent form but does not include an indictment or other document prepared for use in particular legal proceedings.
+
+(8) Nothing in this section—
+
+(*a*) prohibits the publication or broadcasting of matter consisting only of a report of legal proceedings other than proceedings at, or intended to lead to, or on an appeal arising out of, a trial at which the accused person is charged with an offence under this Act, or
+
+(*b*) affects any prohibition or restriction imposed by virtue of any other enactment upon a publication or broadcast.
+
+(9) A direction in pursuance of this section does not affect the operation of *subsection (1)* at any time before the direction is given.
+
+(10) If, after the commencement of a trial of a person for an offence under this Act, a new trial of the person for that offence is ordered, the commencement of any previous trial of that person for that offence shall be disregarded for the purposes of *subsections (2)* and *(3)*.
+
+## 10. Anonymity of accused person.
+
+**10**.— (1) After a person is charged with an offence under this Act, no matter likely to lead members of the public to identify him or her as the person against whom the charge is made shall be published in a written publication available to the public or be broadcast except—
+
+(*a*) as authorised by a direction given in pursuance of this section or by virtue of *section 9(8)(a)* as applied by *subsection (6)* of this section, or
+
+(*b*) after he or she has been convicted of the offence.
+
+(2) (*a*) If a person charged with an offence under this Act applies in that behalf to a judge of the High Court before the commencement of the trial or to the judge at the trial, the judge shall, subject to *paragraph (b)*, direct that *subsection (1)* shall not apply to the person in relation to the charge.
+
+(*b*) The judge shall not give the direction if it appears to the judge that, if the direction were given, the publication of any matter in pursuance of the direction might enable members of the public to identify a girl or woman as the girl or woman in respect of whom the offence is alleged to have been committed, unless he or she is satisfied that a direction could properly be given in relation to that person in pursuance of *section 9*.
+
+(3) If, at any stage before the commencement of a trial of a person for an offence under this Act, another person who is to be charged with an offence under this Act at the trial applies to a judge of the High Court or Circuit Court for a direction in pursuance of this subsection and satisfies the judge—
+
+(*a*) that the direction is required for the purpose of inducing persons to come forward who are likely to be needed as witnesses at the trial, and
+
+(*b*) that the conduct of the applicant’s defence at the trial is likely to be adversely affected if the direction is not given,
+
+the judge shall direct that *subsection (1)* shall not, by virtue of the charge alleging the offence, apply to such matter relating to the first-mentioned person as is specified in the direction.
+
+(4) If, at a trial of a person for an offence under this Act, another person who is also charged at the trial applies to the judge for a direction in pursuance of this subsection and satisfies the judge—
+
+(*a*) that the direction is required for the purpose of inducing persons to come forward who are likely to be needed as witnesses at the trial,
+
+(*b*) that the conduct of the applicant’s defence is likely to be adversely affected if the direction is not given, and
+
+(*c*) that there was good reason for the applicant’s not having made an application under *subsection (3)* before the commencement of the trial,
+
+the judge shall direct that *subsection (1)* shall not, by virtue of the charge alleging the offence, apply to such matter relating to the first-mentioned person as is specified in the direction.
+
+(5) If, at a trial at which a person is charged with an offence under this Act, the judge is satisfied that the effect of *subsection (1)* is to impose a substantial and unreasonable restriction on the reporting of proceedings at the trial and that it is in the public interest to remove or relax the restriction in respect of that person, the judge shall direct that *subsection (1)* shall not, by virtue of the charge alleging the offence, apply to such matter relating to that person as is specified in the direction.
+
+(6) *Subsections (6)* to *(9)* of *section 9* shall have effect for the purposes of this section as if for references to that section there were substituted references to this section.
+
+(7) If, after the commencement of a trial of a person for an offence under this Act, a new trial of the person for that offence is ordered, the commencement of any previous trial of that person for that offence shall be disregarded for the purposes of *subsections (2)*, *(3)* and *(4)*.
+
+(8) If, at any time after a person is charged with an offence under this Act, the Director of Public Prosecutions applies in that behalf to a judge of the High Court, the judge, if he or she is satisfied that it is in the public interest to do so, shall direct that *subsection (1)* shall not apply to such matter relating to the person charged with the offence as is specified in the direction.
+
+## 11. Punishment for offences under sections 9 and 10.
+
+**11**.— (1) A person who is guilty of an offence under *section 9(6)* (including an offence under that section as applied by *section 10(6)*) is liable—
+
+(*a*) on summary conviction to a class A fine or to imprisonment for a term not exceeding 12 months or to both, and
+
+(*b*) on conviction on indictment to a fine not exceeding €10,000 or imprisonment for a term not exceeding 3 years or to both.
+
+(2) Where an offence referred to in *subsection (1)* has been committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who, when the offence was committed, was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person, as well as the body corporate, is guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(3) Where the affairs of a body corporate are managed by its members, *subsection (2)* applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E4: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## 12. Evidence in proceedings for offences outside State.
+
+**12**.— (1) In any proceedings relating to an offence under *section 4* in the circumstances referred to in *subsection (1)(c)* of that section—
+
+(*a*) a certificate that is signed by an officer of the Minister for Foreign Affairs and Trade and stating that a passport was issued by that Minister of the Government to a person on a specified date, and
+
+(*b*) a certificate that is signed by an officer of the Minister for Justice and Equality and stating that, to the best of the officer’s knowledge and belief, the person has not ceased to be a citizen of Ireland,
+
+shall be evidence that the person was a citizen of Ireland on the date on which the offence concerned is alleged to have been committed, unless the contrary is shown.
+
+(2) A document purporting to be a certificate under *paragraph (a)* or *(b)* of *subsection (1)* is deemed, unless the contrary is shown—
+
+(*a*) to be such a certificate, and
+
+(*b*) to have been signed by the person purporting to have signed it.
+
+## 13. Amendment of Criminal Justice Act 1993.
+
+**13**.— Subsection (1) of section 5 (inserted by section 4 of the Criminal Procedure Act 2010) of the Criminal Justice Act 1993 is amended—
+
+(*a*) in paragraph (*c*), by deleting “and”,
+
+(*b*) by inserting the following paragraph after paragraph (*c*):
+
+“(*ca*) an offence under *section 2*, *3* or *4* of the *Criminal Justice (Female Genital Mutilation) Act 2012*, and”,
+
+and
+
+(*c*) in paragraph (*d*), by substituting “paragraph (*a*), (*b*), (*c*) or (*ca*)” for “paragraph (*a*), (*b*) or (*c*)”.
+
+## 14. Amendment of Bail Act 1997.
+
+**14**.— The Schedule to the Bail Act 1997 is amended by inserting the following paragraph after paragraph 37 (inserted by section 13 of the Biological Weapons Act 2011):
+
+“*Offences relating to female genital mutilation*
+
+38\. An offence under *section 2, 3* or *4* of the *Criminal Justice (Female Genital Mutilation) Act 2012*.”.
+
+## 15. Amendment of Children Act 2001.
+
+**15**.— Schedule 1 to the Children Act 2001 is amended by inserting the following paragraph after paragraph 9:
+
+“9A. An offence under *section 2, 3* or *4* of the *Criminal Justice (Female Genital Mutilation) Act 2012*.”.
+
+## 16. Short title and commencement.
+
+**16**.— (1) This Act may be cited as the Criminal Justice (Female Genital Mutilation) Act 2012.
+
+(2) This Act shall come into operation on such day or days as the Minister F5[for Health] may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 9, S.I. No. 281 of 2012.
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (20.09.2012) by *Criminal Justice (Female Genital Mutilation) Act 2012 (Commencement) Order 2012* (S.I. No. 353 of 2012).
+>
+> 2\. The 20th day of September 2012 is appointed as the day on which the Criminal Justice (Female Genital Mutilation) Act 2012 (No. 11 of 2012) shall come into operation.

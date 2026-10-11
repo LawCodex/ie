@@ -1,0 +1,3728 @@
+---
+title: "Road Traffic Act 2010"
+identifier: "eli/2010/act/25"
+type: act
+jurisdiction: ie
+language: en
+number: 25
+year: 2010
+date: 2010-07-20
+last_amended: 2026-01-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2010/act/25/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2010/act/25/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Road Traffic Act 2010
+
+AN ACT TO AMEND AND EXTEND THE ROAD TRAFFIC ACTS 1961 TO 2007.
+
+[20*th July*, 2010]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of collectively cited *Road Traffic Acts 1961 to 2010* restricted (28.10.2011) by *Road Traffic Act 2010* (25/2010), s. 87(1), S.I. No. 543 of 2011, as substituted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 23, S.I. No. 147 of 2014.
+>
+> **Exemptions for emergency vehicles.**
+>
+> **87.**— **[**(1) Requirements under the Road Traffic Acts 1961 to 2010 relating to vehicles and requirements, restrictions and prohibitions relating to the driving and use of vehicles, other than those provided under sections 49, 50, 51A, 52 and 53 of the Principal Act, sections 12, 13 and 15 of the Act of 1994 and sections 4, 5, 11, 12 and 14 of this Act, do not apply to—
+>
+> (a) the driving or use by a member of the Garda Síochána, an ambulance service (provided by a pre-hospital emergency care service provider recognised by the Pre-Hospital Emergency Care Council established by the Pre-Hospital Emergency Care Council (Establishment) Order 2000 (S.I. No. 109 of 2000)) or a fire brigade of a fire authority (within the meaning of the Fire Services Act 1981) of a vehicle in the performance of the duties of that member, or
+>
+> (b) a person driving or using a vehicle under the direction of a member of the Garda Síochána,
+>
+> where such use does not endanger the safety of road users.**]**
+>
+> C2: Application of collectively cited *Road Traffic Acts 1961 to 2010* restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 1(3), 42(22), sch. 2.
+>
+> **42.**— ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...<br>...</td><td>...<br>...</td><td>...<br>Road Traffic Acts 1961 to 2010<br>...</td></tr></table>
+>
+> C3: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 25 of 2010</td><td>Road Traffic Act 2010</td><td>Sections 29(13)(b), 37(1)(b), 42(1)(b) and 44(6)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C4: Application of collectively cited *Road Traffic Acts 1961 to 2006* restricted (4.05.2009) by *Road Traffic (Specialised Vehicle Permits) Regulations 2009* (S.I. No. 147 of 2009), reg. 6(1)(b)(ii), in operation as per reg. 2.
+>
+> *Grant of specialised vehicle permits*
+>
+> 6\. (1) The Permits Officer may grant a specialised vehicle permit if— ...
+>
+> (b) he or she is satisfied that— ...
+>
+> (ii) the vehicle and that operation will not otherwise contravene the Road Traffic Acts 1961 to 2006, Regulations made under those Acts, or any other law.
+>
+> ...
+>
+> C5: Application of collectively cited *Road Traffic Acts 1961 to 2006* extended (21.07.2006) by *Road Traffic Act 2006* (23/2006), s. 2, S.I. No. 384 of 2006.
+>
+> **Regulations to give effect to acts of European Communities.**
+>
+> **2.**— The power to make regulations under the Road Traffic Acts 1961 to 2006 includes the power to make provision in such regulations to give effect to—
+>
+> (*a*) a provision of the treaties of the European Communities, or
+>
+> (*b*) an act adopted by an institution of those Communities.
+>
+> C6: Application of collectively cited *Road Traffic Acts 1961 to 2002* modified by *Local Authorities (Traffic Wardens) Act 1975* (14/1975), s. 3(1), as substituted (3.04.2006) by *Road Traffic Act 2002* (12/2002), s. 12(1), S.I. No. 134 of 2006.
+>
+> **Provisions applying to certain offences relating to vehicles.**
+>
+> **[3.**—(1) (*a*) This section applies to such of the offences specified in paragraph (*b*) as may be declared by the Minister by regulations made after consultation with the Minister for Justice, Equality and Law Reform to be fixed charge offences and an offence standing so declared is referred to in this section as a fixed charge offence.
+>
+> (*b*) The offences referred to in paragraph (*a*) of this section are:
+>
+> (i) an offence under the *Road Traffic Acts, 1961 to 2002*, relating to the prohibition or restriction of the stopping or parking of mechanically propelled vehicles,
+>
+> ...**]**
+>
+> C7: Functions in relation to collectively cited *Road Traffic Acts 1961 to 2002* transferred from Department of and Minister for Environment and Local Government to Department of and Minister for Public Enterprise and terms construed (18.06.2002) by *National Roads and Road Traffic (Transfer of Departmental Administration and Ministerial Functions) Order 2002* (S.I. No. 298 of 2002). Note: name of Department of and Minister for Public Enterprise changed to Department of and Minister for Transport (19.06.2002) by *Public Enterprise (Alteration of Name of Department and Title of Minister) Order 2002* (S.I. No. 305 of 2002); name further changed to Department of and Minister for Transport, Tourism and Sport (2.04.2011) by *Transport (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 141 of 2011).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of Public Enterprise.
+>
+> (2) References to the Department of the Environment and Local Government contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Public Enterprise.
+>
+> 4\. (1) The functions vested in the Minister for the Environment and Local Government—
+>
+> (a) by or under—
+>
+> (i) the Road Traffic Acts 1961 to 2002,
+>
+> ...
+>
+> are transferred to the Minister for Public Enterprise.
+>
+> (2) References to the Minister for the Environment and Local Government contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Public Enterprise.
+>
+> C8: Application of collectively cited *Road Traffic Acts 1961 to 1987* modified (1.01.1994) by *Roads Act 1993* (14/1993), ss. 17(4), 23(1), S.I. No. 406 of 1993.
+>
+> **Functions generally of the Authority.**
+>
+> **17.**— ...
+>
+> (4) The Minister may make regulations providing that any function relating to national roads conferred on him or on a road authority under any enactment (including this Act), or on the Commissioner under the Road Traffic Acts, 1961 to 1987, shall, where the Minister is satisfied that the function could be more effectively performed by the Authority, in lieu of being performed by him or by that authority or by the Commissioner, be performed by the Authority with effect from a date specified in the regulations.
+>
+> ...
+>
+> **The Authority and traffic management.**
+>
+> **23.**—(1) The Authority may at any time make recommendations in writing to the Commissioner in relation to the performance of his functions under the Road Traffic Acts, 1961 to 1987 and the Commissioner shall have regard to such recommendations in the performance of his functions.
+>
+> ...
+>
+> C9: Term “class of mechanically propelled vehicles” in collectively cited *Road Traffic Acts 1961 to 1984* construed (7.11.1989) by *European Communities (Licensing of Drivers) Regulations 1989* (S.I. No. 287 of 1989), reg. 2.
+>
+> 2\. A reference in the Road Traffic Acts, 1961 to 1984, to a class of mechanically propelled vehicles shall be construed as a reference to a class or category of such vehicles and cognate words and expressions shall be construed accordingly.
+>
+> **Editorial Notes:**
+>
+> E1: Road Safety Authority granted power to consider any convictions under collectively cited *Road Traffic Acts 1961 to 2011* in determining a risk rating in relation to *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 39(3)(a)-(d) (10.09.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 39(4)(e), S.I. No. 349 of 2013.
+>
+> E2: Collectively cited *Road Traffic Acts 1961 to 2010* included in *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), sch. 2 (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), in operation as per reg. 1(3).
+>
+> E3: Obligation to provide breath specimen by person in charge of a mechanically propelled vehicle in a public place who, in the opinion of a member of the Garda Síochána, is committing or has committed an offence under collectively cited *Road Traffic Acts 1961 to 2011* provided by *Road Traffic Act 1994* (7/1994), s. 12, as substituted (1.06.2011) by *Road Traffic Act 2011* (7/2011), s. 2, S.I. No. 253 of 2011.
+>
+> E4: Road Safety Authority designated as authority responsible for certain vehicle testing arrangements required under the collectively cited *Road Traffic Acts 1961 to 2006* (13.09.2006) by *Road Safety Authority Act 2006 (Conferral of Functions) Order 2006* (S.I. No. 477 of 2006), art. 3(a)(i).
+>
+> E5: Duty to give information to member of Garda Síochána for offences under collectively cited *Road Traffic Acts 1961 to 1995* imposed (23.12.2001) by *Transport (Railway Infrastructure) Act 2001* (55/2001), s. 59(1), commenced on enactment.
+>
+> E6: Previous affecting provision: certain records held under collectively cited *Road Traffic Acts 1961 to 2010* exempted from application of *Freedom of Information Act 1997* by *Freedom of Information Act 1997* (13/1997), s. 46(1)(bb) as inserted (9.08.2010) by *Road Traffic Act 2010* (25/2010), s. 26(5), S.I. No. 394 of 2010; repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, commencement, collective citation and construction.
+
+**1**.— (1) This Act may be cited as the Road Traffic Act 2010.
+
+(2) This Act comes into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed therefor either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+(3) The Road Traffic Acts 1961 to 2007 and this Act may be cited as the Road Traffic Acts 1961 to 2010 and shall be read together as one.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E7: A table of commencement information ordered by section is available at https://www.irishstatutebook.ie/eli/isbc/2010_25.html.
+>
+> E8: Power pursuant to subs. (2) exercised (1.06.2017) by *Road Traffic Act 2010 (Part 3) (Commencement) Order 2017* (S.I. No. 241 of 2017).
+>
+> 2\. The 1st day of June 2017 is fixed as the day on which Part 3 of the Road Traffic Act 2010 (No. 25 of 2010) comes into operation.
+>
+> E9: Power pursuant to subs. (2) exercised (17.04.2016) by *Road Traffic Act 2010 (Section 54(d)) (Defective or Worn Tyres) (Commencement) Order 2016* (S.I. No. 168 of 2016).
+>
+> 2\. The day fixed as the day on which section 54 (d) of the Road Traffic Act 2010 (No. 25 of 2010), in so far as it relates to the insertion of Part 9 into the First Schedule to the Road Traffic Act 2002 (No. 12 of 2002) other than the matter at reference numbers 1 and 2 in that Part, comes into operation is 17 April 2016.
+>
+> E10: Power pursuant to subs. (2) exercised (26.11.2014) by *Road Traffic Act 2010 (Impairment Testing) (Commencement) Order 2014* (S.I. No. 536 of 2014), art. 2.
+>
+> 2\. The day fixed as the day on which— ...
+>
+> (b) section 11 of the Road Traffic Act 2010 (No. 25 of 2010), and
+>
+> ...
+>
+> come into operation is 26 November 2014.
+>
+> E11: Power pursuant to section exercised (21.12.2012) by *Road Traffic Act 2010 (Section 53(3)(c)) (Commencement) Order 2012* (S.I. No. 560 of 2012).
+>
+> 2\. Paragraph (c) of section 53(3) of the Road Traffic Act 2010 (No. 25 of 2010) comes into operation on the day after the making of this Order.
+>
+> E12: Power pursuant to section exercised (25.07.2012) by *Road Traffic Act 2010 (Section 48) (Commencement) Order 2012* (S.I. No. 293 of 2012).
+>
+> 2\. Section 48 of the Road Traffic Act 2010 (No. 25 of 2010) comes into operation on the date of the making of this Order.
+>
+> E13: Power pursuant to section exercised (28.10.2011 and 29.10.2011) by *Road Traffic Act 2010 (Section 33) (Commencement) Order 2011* (S.I. No. 544 of 2011).
+>
+> 3\. The day fixed as the day on which section 33(*a*) of the Act of 2010 comes into operation in so far as it relates to—
+>
+> (*a*) section 49 (other than subsection (8)),
+>
+> (*b*) section 50 (other than subsections (8) and (10)), and
+>
+> (*c*) section 51 (other than subsection (4)),
+>
+> of the Principal Act is 28 October 2011.
+>
+> 4\. The day fixed as the day on which section 33(*b*) of the Act of 2010 comes into operation in so far as it relates to section 48 of the Road Traffic Act 1968 (No. 25 of 1968) is 28 October 2011.
+>
+> 5\. The day fixed as the day on which section 33(*c*) of the Act of 2010 comes into operation in so far as it relates to—
+>
+> (*a*) Part II (sections 5 to 8), and
+>
+> (*b*) sections 10, 11 and 14,
+>
+> of the Act of 1994 is 28 October 2011.
+>
+> 6\. The day fixed as the day on which section 33(*f*) (other than in so far as it relates to subsections (7), (8) and (9) of section 4 of the Road Traffic Act 2006 (No. 23 of 2006)) of the Act of 2010 comes into operation is 28 October 2011.
+>
+> 7\. The day fixed as the day on which subsections (*e*), (*g*) and (*h*) of section 33 of the Act of 2010 come into operation is 28 October 2011.
+>
+> 8\. The day fixed as the day on which section 33(*a*) of the Act of 2010 comes into operation in so far as it relates to—
+>
+> (*a*) section 49(8),
+>
+> (*b*) section 50(10), and
+>
+> (*c*) section 51(4),
+>
+> of the Principal Act is 29 October 2011.
+>
+> 9\. The day fixed as the day on which section 33(*c*) of the Act of 2010 comes into operation in so far as it relates to—
+>
+> (*a*) section 12 (other than subsection (5)),
+>
+> (*b*) section 13 (other than subsection (4)), and
+>
+> (*c*) sections 15 to 17,
+>
+> of the Act of 1994 is 29 October 2011.
+>
+> 10\. The day fixed as the day on which section 33(*f*) of the Act of 2010 comes into operation in so far as it relates to section 4(7) of the Road Traffic Act 2006 is 29 October 2011.
+>
+> E14: Power pursuant to section exercised (28.10.2011) by *Road Traffic Act 2010 (Certain Provisions) (Commencement) (No. 2) Order 2011* (S.I. No. 543 of 2011).
+>
+> 2\. The day fixed as the day on which—
+>
+> (a) Chapters 1 to 6 (other than section 11), 7 (other than section 26(5)), 8 and 9 (other than section 32) of Part 2, and
+>
+> (b) sections 60, 61, 63, 64, 65 and 87, of the Road Traffic Act 2010 (No. 25 of 2010) come into operation is 28 October 2011.
+>
+> E15: Power pursuant to section exercised (1.06.2011) by *Road Traffic Act 2010 (Certain Provisions) (Commencement) Order 2011* (S.I. No. 255 of 2010).
+>
+> 2\. The day fixed as the day on which sections 55 to 59, 62, 67, 71 to 74, 76, 77, 79 to 81, 83 and 84, paragraphs (a) to (c) of section 85 and sections 88 to 92 of the Road Traffic Act 2010 (No. 25 of 2010) come into operation is 1 June, 2011.
+>
+> E16: Power pursuant to section exercised (9.08.2010) by *Road Traffic Act 2010 (Certain Provisions) (Commencement) Order 2010* (S.I. No. 394 of 2010).
+>
+> 2\. The day fixed as the day on which Part 1 (sections 1 and 2) and sections 26(5), 68 and 78 of the Road Traffic Act 2010 (No. 25 of 2010) come into operation is 9th August 2010.
+
+### 2. Definitions.
+
+**2**.— In this Act—
+
+“Act of 1968” means Road Traffic Act 1968;
+
+“Act of 1975” means Local Authorities (Traffic Wardens) Act 1975;
+
+“Act of 1994” means Road Traffic Act 1994;
+
+“Act of 2002” means Road Traffic Act 2002;
+
+“Act of 2004” means Road Traffic Act 2004;
+
+“Act of 2006” means Road Traffic Act 2006;
+
+“Minister” means Minister for Transport;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“Principal Act” means Road Traffic Act 1961.
+
+## PART 2 Intoxicated Driving Offences — PART 2 — Intoxicated Driving Offences
+
+### Chapter 1 General — Chapter 1 — General
+
+#### 3. Interpretation — Part 2.
+
+**3**.— (1) In this Part—
+
+F1[“analysis” includes any operation used in determining the concentration of alcohol in a specimen of breath, blood or urine, the concentration of a drug specified in column (2) of the Schedule in a specimen of blood and any operation used in determining the presence (if any) of a drug or drugs in a specimen of blood or urine, and cognate words shall be construed accordingly;]
+
+“Bureau” has the meaning assigned to it by section 37(1) of the Act of 1968;
+
+“category”, in relation to a vehicle referred to in the definition of “specified person”, means a category of vehicle referred to in Regulation 6 of the Road Traffic (Licensing of Drivers) Regulations 2006 (S.I. No. 537 of 2006);
+
+“designated” means designated by a member of the Garda Síochána;
+
+“doctor” means a person registered in the F2[register of medical practitioners] established under section 43(1) of the Medical Practitioners Act 2007;
+
+“first driving licence” means a driving licence issued by a licensing authority to a person who has not previously held a driving licence;
+
+“impairment test regulations” means regulations made under F3[*section 11**(4)*];
+
+“impairment tests” means tests prescribed under impairment test regulations;
+
+“intoxicant” includes alcohol and drugs and any combination of drugs or of drugs and alcohol;
+
+F4[“medical exemption certificate” has the meaning given to it by *section 4(1B)*;]
+
+“nurse” means a person registered in the register of nurses established under section 27 of the Nurses Act 1985;
+
+F5["specified person" means a person who at the time of an alleged offence under section 4 or 5—
+
+(*a*) is the holder of a learner permit permitting the holder to drive a vehicle of the category concerned,
+
+(*b*) is the holder of a first driving licence licensing the holder to drive a vehicle of the category concerned within a period of 2 years from the date of its issue,
+
+(*c*) is the holder of a driving licence licensing the holder to drive a vehicle in the category C, C1, D, D1, EB, EC, EC1, ED, ED1 or W while driving, attempting to drive or being in charge of such a vehicle,
+
+F6[(*d*) is the holder of a licence to drive a small public service vehicle granted under section 9 of the Taxi Regulation Act 2013, while driving, attempting to drive or being in charge of a small public service vehicle when the vehicle is being used in the course of carrying on business,]
+
+F7[(*da*) not being the holder of a licence to drive a small public service vehicle, purports to be or acts as such holder, while driving, attempting to drive or being in charge of a vehicle for the carriage of persons for reward, or]
+
+(*e*) does not hold a driving licence licensing the holder to drive a vehicle of the category concerned.]
+
+(2) Where a person holds a driving licence referred to in *paragraph (c)* or *(d)* of the definition of “specified person” in *subsection (1)* it is presumed, until the contrary is shown, that the person was driving at the time of the alleged offence a vehicle of the category concerned or a small public service vehicle being used in the course of business.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 7(a), S.I. No. 129 of 2017.
+>
+> F2: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 7(b), S.I. No. 129 of 2017.
+>
+> F3: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(b), S.I. No. 392 of 2023.
+>
+> F4: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 7(c), S.I. No. 129 of 2017.
+>
+> F5: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(a), S.I. No. 542 of 2011.
+>
+> F6: Substituted (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 76, S.I. No. 163 of 2014.
+>
+> F7: Inserted (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 76, S.I. No. 163 of 2014.
+
+### Chapter 2 Intoxicated driving offences — Chapter 2 — Intoxicated driving offences
+
+#### 4. Prohibition on driving mechanically propelled vehicle while under influence of intoxicant or if exceeding alcohol limits.
+
+**4**.— (1) A person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while he or she is under the influence of an intoxicant to such an extent as to be incapable of having proper control of the vehicle.
+
+F8[(1A) Subject to *subsection (1B)*, a person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while there is present in his or her body a quantity of a drug specified in column (2) of the *Schedule* such that, within 3 hours after so driving or attempting to drive, the concentration of that drug in his or her blood is equal to or greater than the concentration specified in column (3) at the same reference number.
+
+(1B) *Subsection (1A)* does not apply to a person in respect of a drug specified at reference number 1 or 2 in column (2) of the Schedule where the person is the holder of a certificate, in the prescribed form (referred to in this Part as a “medical exemption certificate”) which indicates that at the time at which that drug was found to be present in his or her blood Δ<sup>9</sup> - Tetrahydrocannabinol had been lawfully prescribed for him or her and which is signed by the doctor who prescribed it.
+
+(1C) A person who signs a medical exemption certificate containing information which he or she knows to be false commits an offence and is liable on summary conviction to a class C fine.]
+
+(2) A person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while there is present in his or her body a quantity of alcohol such that, within 3 hours after so driving or attempting to drive, the concentration of alcohol in his or her blood will exceed a concentration of—
+
+(*a*) 50 milligrammes of alcohol per 100 millilitres of blood, or
+
+(*b*) in case the person is a specified person, 20 milligrammes of alcohol per 100 millilitres of blood.
+
+(3) A person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while there is present in his or her body a quantity of alcohol such that, within 3 hours after so driving or attempting to drive, the concentration of alcohol in his or her urine will exceed a concentration of—
+
+(*a*) 67 milligrammes of alcohol per 100 millilitres of urine, or
+
+(*b*) in case the person is a specified person, 27 milligrammes of alcohol per 100 millilitres of urine.
+
+(4) A person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while there is present in his or her body a quantity of alcohol such that, within 3 hours after so driving or attempting to drive, the concentration of alcohol in his or her breath will exceed a concentration of—
+
+(*a*) 22 microgrammes of alcohol per 100 millilitres of breath, or
+
+(*b*) in case the person is a specified person, 9 microgrammes of alcohol per 100 millilitres of breath.
+
+(5) A person who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(6) A person charged with an offence under this section may, in lieu of being found guilty of that offence, be found guilty of an offence under *section 5*.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+(8) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 8(a), S.I. No. 129 of 2017. A class C fine means a fine not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (13.04.2017) by *Road Traffic Act 2010 (Medical Exemption Certificate) Regulations 2017* (S.I. No. 158 of 2017).
+>
+> E18: Mandatory disqualification period for persons convicted of offence under section prescribed (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 30(3)(c), (ii), S.I. No. 163 of 2014.
+
+#### 5. Prohibition on being in charge of mechanically propelled vehicle while under influence of intoxicant or if exceeding alcohol limits.
+
+**5**.— (1) A person commits an offence if, when in charge of a mechanically propelled vehicle in a public place with intent to drive or attempt to drive the vehicle (but not driving or attempting to drive it), he or she is under the influence of an intoxicant to such an extent as to be incapable of having proper control of the vehicle.
+
+F9[(1A) A person, other than a person referred to in *subsection (1B)*, commits an offence if, when in charge of a mechanically propelled vehicle in a public place with intent to drive or attempt to drive the vehicle (but not driving or attempting to drive it), there is present in his or her body a quantity of a drug specified in column (2) of the *Schedule* such that, within 3 hours after so being in charge, the concentration of that drug in his or her blood is equal to or greater than the concentration specified in column (3) at the same reference number.
+
+(1B) *Subsection (1A)* does not apply to a person in respect of a drug specified at reference number 1 or 2 in column (2) of the *Schedule* where the person is the holder of a medical exemption certificate which indicates that at the time at which that drug was found to be present in his or her blood it had been lawfully prescribed for him or her and which is signed by the doctor who prescribed it.]
+
+(2) A person commits an offence if, when in charge of a mechanically propelled vehicle in a public place with intent to drive or attempt to drive the vehicle (but not driving or attempting to drive it), there is present in his or her body a quantity of alcohol such that, within 3 hours after so being in charge, the concentration of alcohol in his or her blood will exceed a concentration of—
+
+(*a*) 50 milligrammes of alcohol per 100 millilitres of blood, or
+
+(*b*) in case the person is a specified person, 20 milligrammes of alcohol per 100 millilitres of blood.
+
+(3) A person commits an offence if, when in charge of a mechanically propelled vehicle in a public place with intent to drive or attempt to drive the vehicle (but not driving or attempting to drive it), there is present in his or her body a quantity of alcohol such that, within 3 hours after so being in charge, the concentration of alcohol in his or her urine will exceed a concentration of—
+
+(*a*) 67 milligrammes of alcohol per 100 millilitres of urine, or
+
+(*b*) in case the person is a specified person, 27 milligrammes of alcohol per 100 millilitres of urine.
+
+(4) A person commits an offence if, when in charge of a mechanically propelled vehicle in a public place with intent to drive or attempt to drive the vehicle (but not driving or attempting to drive it), there is present in his or her body a quantity of alcohol such that, within 3 hours after so being in charge, the concentration of alcohol in his or her breath will exceed a concentration of—
+
+(*a*) 22 microgrammes of alcohol per 100 millilitres of breath, or
+
+(*b*) in case the person is a specified person, 9 microgrammes of alcohol per 100 millilitres of breath.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(6) A person charged with an offence under this section may, in lieu of being found guilty of that offence, be found guilty of an offence under *section 4*.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+(8) In a prosecution for an offence under this section it shall be presumed that the defendant intended to drive or attempt to drive the vehicle concerned until he or she shows the contrary.
+
+(9) A person liable to be charged with an offence under this section shall not, by reference to the same occurrence, be liable to be charged under section 12 of the Licensing Act 1872 with the offence of being drunk while in charge, on a highway or other public place, of a carriage.
+
+(10) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 8(b), S.I. No. 129 of 2017.
+>
+> **Editorial Notes:**
+>
+> E19: Mandatory disqualification period for persons convicted of offence under section prescribed (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 30(3)(d), (ii), S.I. No. 163 of 2014.
+
+#### 6. Prohibition on driving animal-drawn vehicle or pedal cycle while under influence of intoxicant.
+
+**6**.— (1) A person shall not, in a public place—
+
+(*a*) drive or attempt to drive, or be in charge of, an animal-drawn vehicle, or
+
+(*b*) drive or attempt to drive a pedal cycle F10[or a powered personal transporter],
+
+while he or she is under the influence of an intoxicant to such an extent as to be incapable of having proper control of the F11[vehicle, cycle or transporter].
+
+(2) A person who contravenes *subsection (1)* commits an offence and—
+
+(*a*) if the offence relates to an animal-drawn vehicle, he or she is liable on summary conviction—
+
+(i) in the case of a first offence, to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 1 month or to both, and
+
+(ii) in the case of a second or subsequent offence, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 3 months or to both,
+
+or
+
+(*b*) if the offence relates to a pedal cycle F10[or a powered personal transporter], he or she is liable on summary conviction to a fine not exceeding €2,000.
+
+(3) A person liable to be charged with an offence under this section shall not, by reference to the same occurrence, be liable to be charged under section 12 of the Licensing Act 1872 with the offence of being drunk while in charge, on a highway or other public place, of a carriage.
+
+(4) Where a member of the Garda Síochána is of opinion that a person is committing or has committed an offence under this section, he or she may arrest the person without warrant.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (20.05.2024) by *Road Traffic and Roads Act 2023*, s. 35(a)(i), (b), S.I. No. 197 of 2024.
+>
+> F11: Substituted (20.05.2024) by *Road Traffic and Roads Act 2023*, s. 35(a)(ii), S.I. No. 197 of 2024.
+
+#### 7. Power of entry.
+
+**7**.— A member of the Garda Síochána for the purpose of—
+
+(*a*) making a requirement of a person under F12[*section 9(2), 9(2A)* or *10(4)*], or
+
+(*b*) arresting a person under *section 4(8)*, *5(10)* or *6(4)*,
+
+may enter without warrant (if need be by use of reasonable force) any place (including the curtilage of a dwelling but not the dwelling) where the person is or where the member, with reasonable cause, suspects him or her to be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 9, S.I. No. 129 of 2017.
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: para. (a) amended (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(b), S.I. No. 542 of 2011; substituted (13.04.2017) as per F-note above.
+
+### Chapter 3 Roadside breath and impairment testing — Chapter 3 — Roadside breath and impairment testing
+
+#### 8. Failure or refusal to produce licence.
+
+F13[**8**.— (1) Where a person is required by a member of the Garda Síochána to provide a specimen under section 9, 10, 12 or 14 and the person fails or refuses, at the demand of the member under section 40 of the Principal Act, to produce and present to the member a driving licence then having effect and licensing the person to drive the vehicle concerned, it shall be presumed, until the contrary is shown, that the person does not hold such a licence.
+
+(2) The presumption referred to in subsection (1) shall cease to apply in relation to a person who within 10 days of the requirement referred to in that subsection produces and presents to the member or another member of the Garda Síochána at a Garda Síochána station nominated by the person at the time of the requirement, a driving licence held by the person at the time of the requirement, then having effect and licensing the holder to drive a vehicle of the category concerned, or evidence that he or she held such a licence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 6, S.I. No. 542 of 2011.
+
+#### 8A. Alternative verdicts.
+
+F14[**8A**.— (1) A person charged with an offence under section 4 consisting of a contravention of subsection (2)(*b*), (3)(*b*) or (4)(*b*) of that section may, in lieu of being found guilty of that offence, be found guilty of an offence under section 4 consisting of a contravention of subsection (2)(*a*), (3)(*a*) or (4)(*a*), as may be appropriate, of that section.
+
+(2) A person charged with an offence under section 5 consisting of a contravention of subsection (2)(*b*), (3)(*b*) or (4)(*b*) of that section may, in lieu of being found guilty of that offence, be found guilty of an offence under section 5 consisting of a contravention of subsection (2)(*a*), (3)(*a*) or (4)(*a*), as may be appropriate, of that section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 6, S.I. No. 542 of 2011.
+
+#### 9. Obligation to provide preliminary breath specimen.
+
+F15[**9**.— (1) This section applies to a person in charge of a mechanically propelled vehicle in a public place who, in the opinion of a member of the Garda Síochána—
+
+(*a*) has consumed F16[an intoxicant],
+
+(*b*) is committing or has committed an offence under the F17[*Road Traffic Act 1961 to 2023*],
+
+(*c*) is or has been, with the vehicle, involved in a collision, or
+
+(*d*) is or has been, with the vehicle, involved in an event in which death occurs or injury appears or is claimed to have been caused to a person of such nature as to require medical assistance for the person at the scene of the event or that the person be brought to a hospital for medical assistance.
+
+(2) A member of the Garda Síochána shall, unless he or she is of opinion that the person should be arrested and subject to subsections (6) and (7), require a person to whom *paragraph (a)* or *(d)* of *subsection (1)* applies, and may require a person to whom *paragraph (b)* or *(c)* of that subsection applies—
+
+(*a*) to provide, by exhaling into an apparatus for indicating the presence of alcohol in the breath, a specimen of his or her breath in the manner indicated by the member,
+
+F18[(*b*) to accompany him or her, or another member of the Garda Síochána, to a place (including a vehicle) at or in the vicinity of the public place concerned and there to provide, by exhaling into such an apparatus, a specimen of his or her breath in the manner indicated by him or her or that other member, or]
+
+(*c*) where the member does not have such an apparatus with him or her, to remain at that place in his or her presence or in the presence of another member of the Garda Síochána (for a period that does not exceed one hour) until such an apparatus becomes available to him or her and then to provide, by exhaling into such an apparatus, a specimen of his or her breath in the manner indicated by the member.
+
+F19[(2A) F20[A member of the Garda Síochána shall, unless he or she is of opinion that the person should be arrested and subject to *subsections (6)* and *(7)*, require a person to whom *paragraph (a)* or *(d)* of *subsection (1)* applies, and may require a person to whom *paragraph (b)* or *(c)* of that subsection applies]—
+
+(*a*) to provide a specimen of oral fluid from his or her mouth, using an apparatus for indicating the presence of drugs in oral fluid, in the manner indicated by the member,
+
+(*b*) to accompany him or her, or another member of the Garda Síochána, to a place (including a vehicle) at or in the vicinity of the public place concerned and there to provide a specimen of oral fluid from his or her mouth, using an apparatus for indicating the presence of drugs in oral fluid, in the manner indicated by him or her or that other member, or
+
+(*c*) where the member does not have such an apparatus with him or her, to remain at that place in his or her presence or in the presence of another member of the Garda Síochána (for a period that does not exceed one hour) until such an apparatus becomes available to him or her and then to provide a specimen of oral fluid from his or her mouth, using an apparatus for indicating the presence of drugs in oral fluid, in the manner indicated by him or her or that other member.
+
+(2B) Where a member of the Garda Síochána makes a requirement under *subsection (2A)*, the member may request the person of whom the requirement is made to produce for inspection any medical certificate of exemption referred to in *section 4(1B)* or *5(1B)* which he or she holds.]
+
+F21[(2C) Where a member of the Garda Síochána, under *subsection (2A)*, requires a person to provide a specimen of oral fluid from his or her mouth, the member shall require the person to remain at a place (including a vehicle) at or in the vicinity of the public place concerned (for a period that does not exceed 30 minutes after the provision of the specimen) until the apparatus referred to in *subsection (2A)* indicates the presence or absence of drugs in the specimen.]
+
+(3) F22[Subject to *section 22**(1A)*, a person who refuses or fails to comply] immediately with a requirement of a member of the Garda Síochána under this section commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+
+(5) In a prosecution for an offence under section 4, 5 or 6 of this Act it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide a specimen of breath under this section is an apparatus for indicating the presence of alcohol in the breath.
+
+F23[(5A) In a prosecution for an offence under *section 4 or 5* it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide an oral fluid specimen under this section is an apparatus for indicating the presence of drugs in oral fluid.]
+
+(6) A member of the Garda Síochána shall not make F20[a requirement under *subsection (2)*, *(2A)* or *(2C)*] of a person to whom *paragraph (a)* of *subsection (1)* applies if, in the opinion of the member, such requirement would be prejudicial to the health of the person.
+
+(7) A member of the Garda Síochána shall not make F20[a requirement under *subsection (2)*, *(2A)* or *(2C)*] of a person to whom *paragraph (d)* of *subsection (1)* applies if, in the opinion of the member or on the advice of a doctor or other medical personnel attending the scene of the event, such requirement would be prejudicial to the health of the person.
+
+(8) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+(9) Nothing in this section affects any power of arrest conferred by law apart from this section.
+
+(10) It is not a defence in any proceedings, other than proceedings under subsection (3), to show that a member of the Garda Síochána did not make a requirement under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 7, S.I. No. 542 of 2011. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F16: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 10(a), S.I. No. 129 of 2017.
+>
+> F17: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(ii), S.I. No. 392 of 2023.
+>
+> F18: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 10(b), S.I. No. 129 of 2017.
+>
+> F19: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 10(c), S.I. No. 129 of 2017. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F20: Substituted (31.05.2024) by *Road Traffic Act 2024* (10/2024), ss. 12(a), (c), (d), S.I. No. 251 of 2024.
+>
+> F21: Inserted (31.05.2024) by *Road Traffic Act 2024* (10/2024), s. 12(b), S.I. No. 251 of 2024.
+>
+> F22: Substituted (1.01.2026) by *Road Traffic and Roads Act 2023* (16/2023), s. 13(c), S.I. No. 658 of 2025.
+>
+> F23: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 10(d), S.I. No. 129 of 2017.
+
+#### 10. Mandatory alcohol testing.
+
+F24[**10.**— (1) In this section—
+
+“authorisation” means an authorisation under *subsection (2)* to establish a checkpoint;
+
+“checkpoint” means a checkpoint established under an authorisation.
+
+(2) A member of the Garda Síochána, not below the rank of inspector, may, for the purposes of *section 4* authorise the establishment of a checkpoint or checkpoints in a public place or places at which members of the Garda Síochána may exercise the powers under *subsection (4)*.
+
+(3) An authorisation shall be in writing and shall specify—
+
+(*a*) the date on which, and the public place in which, the checkpoint is to be established, and
+
+(*b*) the hours at any time between which it may be operated.
+
+(4) A member of the Garda Síochána, who is on duty at a checkpoint, may stop any vehicle at the checkpoint and, without prejudice to any other powers (including the functions under *section 9*) conferred on him or her by statute or at common law, may require a person in charge of the vehicle to do one or more of the following:
+
+(*a*) to provide a specimen of his or her breath (by exhaling into an apparatus for indicating the presence of alcohol in the breath) in the manner indicated by the member;
+
+(*b*) to provide a specimen of his or her oral fluid (by collecting a specimen of oral fluid from his or her mouth using an apparatus for indicating the presence of drugs in oral fluid) in the manner indicated by the member;
+
+(*c*) to accompany him or her or another member of the Garda Síochána to a place (including a vehicle) at or in the vicinity of the checkpoint and there to provide a specimen of his or her breath, as specified in *paragraph (a)*, a specimen of his or her oral fluid, as specified in *paragraph (b)*, or both, in the manner indicated by him or her or that other member;
+
+(*d*) to—
+
+(i) leave the vehicle at the place where it has been stopped, or
+
+(ii) move it to a place in the vicinity of the checkpoint,
+
+and to keep or leave it there until the person has complied with a requirement made of him or her under any of *paragraphs (a), (b)* and *(c)*.
+
+F25[(4A) Where a member of the Garda Síochána, under *paragraph (b)* or *(c)* of *subsection (4)*, requires a person to provide a specimen of oral fluid from his or her mouth, the member shall require the person to remain at a place (including a vehicle) at or in the vicinity of the checkpoint concerned (for a period that does not exceed 30 minutes after the provision of the specimen) until the apparatus referred to in *subsection (4)(b)* indicates the presence or absence of drugs in the specimen.]
+
+(5) A member of the Garda Síochána for the purposes of making a requirement of a person under *subsection* F26[*(4)* or *(4A)*] may indicate the manner in which the person must comply with the requirement.
+
+(6) A person who—
+
+(*a*) F27[subject to *section 22**(1B)*, refuses or fails to comply] immediately with a requirement under *subsection (4)* (other than F26[*subsection (4)(d)(ii))* or *(4A)*] or such a requirement in a manner indicated by a member of the Garda Síochána under *subsection (5)*, or
+
+(*b*) without reasonable excuse, refuses or fails to comply immediately with a requirement under *subsection (4)(d)(ii)* or such a requirement in a manner indicated by a member of the Garda Síochána under *subsection (5)*,
+
+commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(7) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+
+(8) Where a member of the Garda Síochána requires a person to provide a specimen of oral fluid under this section, the member may request the person of whom the requirement is made to produce for inspection any medical exemption certificate referred to in *section 4(1B)* or *5(1B)* which he or she holds.
+
+(9) In a prosecution for an offence under *section 4* it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide a specimen of breath under this section is an apparatus for indicating the presence of alcohol in the breath.
+
+(10) In a prosecution for an offence under *section 4* it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide an oral fluid specimen under this section is an apparatus for indicating the presence of drugs in oral fluid.
+
+(11) An authorisation or a copy expressing itself to be such authorisation shall, until the contrary is shown, be sufficient evidence in any proceedings under the F28[*Road Traffic Act 1961 to 2023*] of the facts stated in it, without proof of any signature on it or that the signatory was a person entitled under *subsection (2)* to sign it.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 11, S.I. No. 129 of 2017. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F25: Inserted (31.05.2024) by *Road Traffic Act 2024* (10/2024), s. 13(a), S.I. No. 251 of 2024.
+>
+> F26: Substituted (31.05.2024) by *Road Traffic Act 2024* (10/2024), ss. 13(b), (c), S.I. No. 251 of 2024.
+>
+> F27: Substituted (1.01.2026) by *Road Traffic and Roads Act 2023* (16/2023), s. 13(d), S.I. No. 658 of 2025.
+>
+> F28: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(iii), S.I. No. 392 of 2023.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: subs. (4) amended (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(c), S.I. No. 542 of 2011; section substituted (13.04.2017) as per F-note above.
+
+#### 11. Preliminary impairment testing.
+
+F29[**11.**— (1) Where a member of the Garda Síochána is of the opinion that a person driving or attempting to drive a mechanically propelled vehicle, or in charge of a mechanically propelled vehicle with intent to drive or attempt to drive, in a public place is under the influence of an intoxicant, he or she may require the person to accompany him or her, or another member of the Garda Síochána, to a place at, or in the vicinity of, the public place concerned and there to perform tests (‘impairment tests’), in accordance with regulations made under this section, in his or her presence or in the presence of another member and in the manner indicated by him or her, or that other member, for the purpose of assessing whether or not the person’s ability to drive is impaired.
+
+(2) Where a person is arrested under—
+
+(*a*) *section 4(8), 5(10), 9(4)*, or *10(7)* of this Act, or
+
+(*b*) *section 52(3), 53(5), 106(3A)* or *112(6)* of the Principal Act,
+
+having driven, attempted to drive, or been in charge of a mechanically propelled vehicle, a member of the Garda Síochána may, within 3 hours after the person so driving, attempting to drive or being in charge of the vehicle, at a Garda Síochána station, require the person to perform impairment tests in accordance with regulations made under this section for the purpose of assessing whether or not the person’s ability to drive is impaired.
+
+(3) Evidence obtained under *subsection (1)* or *(2)* that a person’s ability to drive is impaired shall be evidence for the purposes of *sections 4* and *5* that the person is incapable of having proper control of a mechanically propelled vehicle.
+
+(4) For the purposes of *subsections (1)* and *(2)* the Minister may prescribe—
+
+(*a*) the kinds of impairment tests that may be required to be performed,
+
+(*b*) the manner in which such a test may be administered,
+
+(*c*) instructions to be given to a person performing such a test,
+
+(*d*) the kind of observation of physical state that may be made in the course of such a test,
+
+(*e*) the inferences that may be drawn from observations made in the course of such a test, and
+
+(*f*) a form on which the observations made and inferences drawn in the course of such a test may be recorded and by which impairment may be assessed.
+
+(5) A person who F30[...] fails to comply with a requirement under *subsection (1)* or *(2)* commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months, or to both.
+
+(6) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section consisting of failing to comply with a requirement under *subsection (1)*.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 12, S.I. No. 129 of 2017. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F30: Deleted (1.01.2026) by *Road Traffic and Roads Act 2023* (16/2023), s. 13(e), S.I. No. 658 of 2025.
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to subs. (4) exercised (8.08.2017) by *Road Traffic Act 2010 (Impairment Testing) (Amendment) Regulations 2017* (S.I. No. 370 of 2017).
+>
+> E23: Power pursuant to subs. (3) exercised (26.11.2014) by *Road Traffic Act 2010 (Impairment Testing) Regulations 2014* (S.I. No. 534 of 2014).
+>
+> E24: Consequential disqualification order for offence under section provided by *Road Traffic Act 1961*, s. 26(1) and sch. 2 para. 5A, as inserted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 13(b)(i), S.I. No. 147 of 2014.
+>
+> E25: Previous affecting provision: section substituted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 11, S.I. No. 536 of 2014; substituted by F-note above.
+
+### Chapter 4 Procedure in relation to providing specimen at Garda Sochna station, etc. — Chapter 4 — Procedure in relation to providing specimen at Garda Síochána station, etc.
+
+#### 12. Obligation to provide breath, blood or urine specimens following arrest under Part 2.
+
+**12**.— (1) Where a person is arrested under *section 4(8)*, *5(10)*, *6(4)*, *9(4)*, *10(7)* or F31[*11**(6)*] of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act, a member of the Garda Síochána may, at a Garda Síochána station F32[or hospital], do either or both of the following—
+
+(*a*) require the person to provide, by exhaling into an apparatus for determining the concentration of alcohol in the breath, 2 specimens of his or her breath and may indicate the manner in which he or she is to comply with the requirement,
+
+(*b*) require the person either—
+
+(i) to permit a designated doctor or designated nurse to take from the person a specimen of his or her blood, or
+
+(ii) at the option of the person, to provide for the designated doctor or designated nurse a specimen of his or her urine,
+
+and if the doctor or nurse states in writing—
+
+(I) that he or she is unwilling, on medical grounds, to take from the person or be provided by him or her with the specimen to which the requirement in either of the foregoing subparagraphs related, or
+
+(II) that the person is unable or unlikely within the period of time referred to in *section 4* or *5*, as the case may be, to comply with the requirement,
+
+the member may make a requirement of the person under this paragraph in relation to the specimen other than that to which the first requirement related.
+
+(2) Subject to *section 22*, a person who refuses or fails to comply immediately with a requirement under *subsection (1)(a)* commits an offence.
+
+(3) Subject to *section 22*, a person who, following a requirement under *subsection (1)(b)*—
+
+(*a*) refuses or fails to comply with the requirement, or
+
+(*b*) refuses or fails to comply with a requirement of a designated doctor or designated nurse in relation to the taking under that subsection of a specimen of blood or the provision under that subsection of a specimen of urine,
+
+commits an offence.
+
+(4) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) In a prosecution for an offence under this Part it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide 2 specimens of breath under this section is an apparatus for determining the concentration of alcohol in the breath.
+
+(6) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(f), S.I. No. 392 of 2023.
+>
+> F32: Inserted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(d), S.I. No. 542 of 2011.
+>
+> **Editorial Notes:**
+>
+> E26: Mandatory disqualification period for persons convicted of offence under section prescribed (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), ss. 30(3)(e), (ii), S.I. No. 163 of 2014.
+
+#### 13. Procedure following provision of breath specimen under section 12.
+
+**13**.— (1) Where, consequent on a requirement under *section 12(1)(a)* of him or her, a person provides 2 specimens of his or her breath and the apparatus referred to in that section determines the concentration of alcohol in each specimen—
+
+(*a*) in case the apparatus determines that each specimen has the same concentration of alcohol, either specimen, and
+
+(*b*) in case the apparatus determines that each specimen has a different concentration of alcohol, the specimen with the lower concentration of alcohol,
+
+shall be taken into account for the purposes of *sections 4(4)* and *5(4)* and the other specimen shall be disregarded.
+
+(2) Where the apparatus referred to in *section 12(1)* determines that in respect of the specimen of breath to be taken into account as aforesaid the person may have contravened *section 4(4)* or *section 5(4)*, he or she shall be supplied immediately by a member of the Garda Síochána with 2 identical statements, automatically produced by that apparatus in the prescribed form and duly completed by the member in the prescribed manner, stating the concentration of alcohol in that specimen determined by that apparatus.
+
+(3) On receipt of those statements, the person shall on being requested so to do by the member—
+
+(*a*) immediately acknowledge such receipt by placing his or her signature on each statement, and
+
+(*b*) thereupon return either of the statements to the member.
+
+(4) A person who refuses or fails to comply with *subsection (3)* commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(5) *Section 20(1)* applies to a statement under this section as respects which there has been a failure to comply with *subsection (3)(a)* as it applies to a duly completed statement under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(g), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subs. (1A) inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(g), not commenced as of date of revision.
+>
+> F33[(1A) The Minister may provide by regulations for a deduction to be made from the concentration of alcohol in a specimen determined by the apparatus referred to in *section 12* to allow a margin of error in the making of such a determination.]
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to section exercised (22.09.2015) by *Road Traffic Act 2010 (Section 13) (Prescribed Form and Manner of Statements) Regulations 2015* (S.I. No. 398 of 2015).
+>
+> E28: Previous affecting provision: power pursuant to section exercised (28.10.2011) by *Road Traffic Act 2010 (Section 13) (Prescribed Form and Manner of Statements) Regulations 2011* (S.I. No. 541 of 2011); revoked (22.09.2015) by *Road Traffic Act 2010 (Section 13) (Prescribed Form and Manner of Statements) Regulations 2015* (S.I. No. 398 of 2015), reg. 5.
+
+#### 13A. Obligation to provide oral fluid specimen following arrest under Part 2
+
+F34[**13A.**— (1) Where a person is arrested under *section 4(8), 5(10), 9(4), 10(7)* or F35[*11(6)*] of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act and a member of the Garda Síochána is of the opinion that the person had, at the time of the alleged offence, consumed drugs the member may, at a Garda Síochána station or hospital, require the person to provide a specimen of oral fluid from his or her mouth, using an apparatus for indicating the presence of drugs in oral fluid, in the manner indicated by the member.
+
+(2) A person who refuses or fails to comply immediately with a requirement of a member of the Garda Síochána under this section commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) In a prosecution for an offence under this Part it shall be presumed, until the contrary is shown, that an apparatus provided by a member of the Garda Síochána for the purpose of enabling a person to provide an oral fluid specimen under this section is an apparatus for indicating the presence of drugs in oral fluid.
+
+(4) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 13, S.I. No. 129 of 2017. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F35: Substituted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(a), S.I. No. 405 of 2018.
+
+#### 13B. Obligation to provide blood specimen where suspected of certain offences involving drugs
+
+F36[**13B.**— (1) Where a person is arrested under *section 4(8), 5(10), 9(4), 10(7)* or F37[*11(6)*] of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act and a member of the Garda Síochána, having carried out—
+
+(*a*) a preliminary oral fluid test under *section 9(2A)* or *10(4)*,
+
+(*b*) impairment tests under *section 11*, or
+
+(*c*) an oral fluid test under *section 13A*,
+
+is of the opinion that the person has committed an offence under *section 4* consisting of a contravention of *subsection (1A)* of that section or an offence under *section 5(1A)* the member may, at a Garda Síochána station or hospital, require the person to permit a designated doctor or designated nurse to take from the person a specimen of his or her blood.
+
+(2) Subject to *section 22*, a person who, following a requirement under *subsection (1)* —
+
+(*a*) refuses or fails to comply with the requirement, or
+
+(*b*) refuses or fails to comply with a requirement of a designated doctor or designated nurse in relation to the taking of a specimen of blood under that subsection,
+
+commits an offence.
+
+(3) A person who commits an offence under this section is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 13, S.I. No. 129 of 2017. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F37: Substituted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(b), S.I. No. 405 of 2018.
+
+#### 14. Obligation to provide blood or urine specimen while in hospital.
+
+F38[**14**.— (1) Where, in a public place, an event occurs in relation to a mechanically propelled vehicle in consequence of F39[, or following,] which a person is injured, or claims or appears to have been injured, and is admitted to, or attends at, a hospital and a member of the Garda Síochána is of opinion that, at the time of the event, the person was driving or attempting to drive, or in charge of with intent to drive or attempt to drive (but not driving or attempting to drive), the mechanically propelled vehicle, then, subject to subsection (4) and unless the member is of opinion that the person should be arrested, the member shall, in the hospital, require the person either—
+
+(*a*) to permit a designated doctor or designated nurse to take from the person a specimen of his or her blood, or
+
+(*b*) at the option of the person, to provide for the designated doctor or designated nurse a specimen of his or her urine,
+
+and if the doctor or nurse states in writing—
+
+(i) that he or she is unwilling, on medical grounds, to take from the person or be provided by the person with the specimen to which the requirement in either of the foregoing paragraphs related, or
+
+(ii) that the person is unable or unlikely within the period of time referred to in section 4 or 5, as the case may be, to comply with the requirement,
+
+the member may make a requirement of the person under this subsection in relation to the specimen other than that to which the first requirement related.
+
+(2) Subject to *section 22*, a person who, following a requirement under *subsection (1)*—
+
+(*a*) refuses or fails to comply with the requirement, or
+
+(*b*) refuses or fails to comply with a requirement of a designated doctor or designated nurse in relation to the taking under that subsection of a specimen of blood or the provision under that subsection of a specimen of urine,
+
+commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) Notwithstanding subsection (2), it is not an offence for a person to refuse or fail to comply with a requirement under *subsection (1)* where, following his or her admission to, or attendance at, a hospital, the person comes under the care of a doctor or nurse and the doctor or nurse refuses, on medical grounds, to permit the taking or provision of the specimen concerned.
+
+F40[(3A) Where it appears to the member of the Garda Síochána concerned that, for medical reasons, a person referred to in *subsection (1)* cannot be the subject of, or is incapable of complying with, a requirement under that subsection the member shall direct a designated doctor or designated nurse to take from the person a specimen of his or her blood.]
+
+F41[(4) Before making a requirement of a person under *subsection (1)* or a direction under *subsection (3A)* the member of the Garda Síochána concerned shall consult with a doctor treating the person, and if a doctor treating the person advises the member that such a requirement or direction would be prejudicial to the health of the person the member shall not make such requirement or direction.]
+
+(5) A member of the Garda Síochána may, for the purposes of making a requirement of a person under *subsection (1)* F42[or a direction under *subsection (3A)*], enter without warrant any hospital where the person is or where the member, with reasonable cause, suspects the person to be.
+
+(6) A designated doctor or designated nurse may, for the purpose of taking from a person a specimen of his or her blood or being provided by a person with a specimen of his or her urine under *subsection (1)* F43[or of taking a specimen of his or her blood as directed under subsection (3A)], enter any hospital where the person is or where the doctor or nurse is informed by a member of the Garda Síochána that the person is.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+(8) Nothing in this section affects any power of arrest conferred by law apart from this section.
+
+(9) It is not a defence in any proceedings, other than proceedings under *subsection (2)*, to show that a member of the Garda Síochána did not make a requirement under this section.]
+
+F44[(10) It shall be lawful for a designated doctor or nurse to take from the person a specimen of his or her blood as directed under *subsection (3A)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 8, S.I. No. 542 of 2011. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F39: Inserted (26.11.2014) by *Road Traffic Ac 2014* (3/2014), s. 12(a), S.I. No. 535 of 2014.
+>
+> F40: Inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(a), S.I. No. 535 of 2014.
+>
+> F41: Substituted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(a)(iii), S.I. No. 535 of 2014.
+>
+> F42: Inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(a), S.I. No. 535 of 2014.
+>
+> F43: Inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(a), S.I. No. 535 of 2014.
+>
+> F44: Inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(a), S.I. No. 535 of 2014.
+>
+> **Editorial Notes:**
+>
+> E29: Mandatory disqualification period for persons convicted of offence under section prescribed (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), ss. 30(3)(e), (ii), S.I. No. 163 of 2014.
+
+#### 15. Procedure regarding taking of specimens of blood and provisions of specimens of urine.
+
+**15**.— (1) Where under this Chapter a designated doctor or designated nurse has taken a specimen of blood from a person or has been provided by the person with a specimen of his or her urine, the doctor or nurse, as the case may be, shall divide the specimen into 2 parts, place each part in a container which he or she shall immediately seal and complete the form prescribed for the purposes of this section.
+
+(2) Where a specimen of blood F45[(other than a specimen taken under *section 14(3A)*)] or urine of a person has been divided into 2 parts under *subsection (1)*, a member of the Garda Síochána shall offer to the person one of the sealed containers and inform the person that he or she may retain either of the containers.
+
+F46[(3) As soon as practicable after—
+
+(*a*) in the case of a specimen of blood taken under *section 14(3A)*, *subsection (1)* has been complied with, or
+
+(*b*) in the case of any other specimen, *subsection (2)* has been complied with,
+
+a member of the Garda Síochána shall cause to be forwarded to the Bureau—
+
+(i) the completed form referred to in *subsection (1)*,
+
+(ii) where the specimen of blood was taken from the person concerned under *section 14(3A)*, a label, notice or statement in writing to that effect,
+
+(iii) where the person chooses to retain one of the sealed containers offered under *subsection (2)*, the other sealed container, and
+
+(iv) where the person declines to retain, or in the case of a specimen of blood taken under *section 14(3A)* has not been offered, one of the sealed containers, both sealed containers.]
+
+(4) In a prosecution for an offence under this Chapter or under *section 4* or *5*, it shall be presumed until the contrary is shown that *subsections (1)* to *(3)* have been complied with.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(b)(i), S.I. No. 535 of 2014.
+>
+> F46: Substituted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(b)(ii), S.I. No. 535 of 2014.
+>
+> **Editorial Notes:**
+>
+> E30: Power pursuant to s. 17 exercised (13.04.2017) by *Road Traffic Act 2010 (Sections 15 and 17) (Prescribed Forms) (Amendment) Regulations 2017* (S.I. No. 151 of 2017), in operation as per reg. 1(2).
+>
+> E31: Power pursuant to section exercised (28.10.2011) by *Road Traffic Act 2010 (Sections 15 and 17) (Prescribed Forms) Regulations 2011* (S.I. No. 540 of 2011), regs. 4, 5 and sch. 2, in operation as per reg. 1(2).
+
+#### 16. Detention of intoxicated drivers where a danger to selves or others.
+
+**16**.— (1) Where a person is at a Garda Síochána station having been arrested under *section 4(8), 5(10), 6(4), 9(4), 10(7)* or F47[*11**(6)*] of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act, he or she may, at the Garda Síochána station, if the member of the Garda Síochána for the time being in charge of the station is of opinion that the person is under the influence of an intoxicant to such an extent as to be a threat to the safety of himself or herself or others, be detained in custody for such period (not exceeding 6 hours from the time of his or her arrest or, as the case may be, from the time he or she was required to accompany a member to the station) as the member of the Garda Síochána so in charge considers necessary.
+
+(2) Where a person is detained under *subsection (1)*, the member of the Garda Síochána for the time being in charge of the Garda Síochána station shall—
+
+(*a*) in case the person detained is or the said member is of opinion that he or she is 18 years of age or more, as soon as is practicable, if it is reasonably possible to do so, inform a relative of the person or such other person as the person so detained may specify of the detention, unless the person so detained does not wish any person to be so informed, and
+
+(*b*) in case the person detained is or the said member is of opinion that he or she is under the age of 18 years, as soon as is practicable, if it is reasonably possible to do so, inform a relative of the person or such other person as the person so detained may specify of the detention.
+
+(3) A person detained under *subsection (1)* shall—
+
+(*a*) in case he or she is or the member of the Garda Síochána for the time being in charge of the Garda Síochána station is of opinion that he or she is 18 years of age or more, upon the attendance at the station of a person being either a relative of, or a person specified under *subsection (2)* by, the person so detained, be released by the said member into the custody of that person, unless—
+
+(i) the latter person is or the member is of opinion that he or she is under the age of 18 years,
+
+(ii) the person so detained does not wish to be released into the custody of the latter person, or
+
+(iii) the member is of opinion that the person so detained continues to be under the influence of an intoxicant to such an extent that, if he or she is then released into the custody of the latter person, he or she will continue to be a threat to the safety of himself or herself or others,
+
+and shall, if not so released, be released at the expiration of the period of detention authorised by *subsection (1)*, and
+
+(*b*) in case he or she is or the member of the Garda Síochána for the time being in charge of the Garda Síochána station is of opinion that he or she is under the age of 18 years, upon the attendance at the station of a person being either a relative of, or a person specified under *subsection (2)* by, the person so detained, be released by the said member into the custody of that person, unless the latter person is or the said member is of opinion that he or she is under the age of 18 years, and shall, if not so released, be released at the expiration of the period of detention authorised by *subsection (1)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Inserted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(h), S.I. No. 392 of 2023.
+
+#### 17. Procedure at Bureau regarding specimens.
+
+F48[**17.**— (1) As soon as practicable after it has received a specimen forwarded to it under *section 15*, the Bureau shall analyse the specimen and may determine, as appropriate, all or any of the following:
+
+(*a*) the concentration of alcohol in the specimen;
+
+(*b*) the presence of a drug or drugs in the specimen;
+
+(*c*) the concentration of a drug or drugs in the specimen.]
+
+(2) Where the Bureau receives 2 specimens of blood so forwarded together in relation to the same person or 2 specimens of urine so forwarded together in relation to the same person, it shall be sufficient compliance with *subsection (1)* for the Bureau to make an analysis of and determination in relation to one of the 2 specimens of blood or (as may be appropriate) one of the 2 specimens of urine.
+
+(3) As soon as practicable after compliance with *subsection (1)*, the Bureau shall F49[, subject to *section 17A(3)*,] forward to the Garda Síochána station from which the specimen analysed was forwarded a completed certificate in the form prescribed for the purpose of this section and shall forward a copy of the completed certificate to the person who is named on the relevant form under *section 15* as the person from whom the specimen was taken or who provided it.
+
+(4) In a prosecution for an offence under this Chapter or under *section 4* or *5*, it shall be presumed until the contrary is shown that *subsections (1)* to *(3)* have been complied with.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 14, S.I. No. 129 of 2017.
+>
+> F49: Inserted (26.11.2014) by *Road Traffic Act* (3/2014), s. 12(c), S.I. No. 535 of 2014.
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to section exercised (1.10.2020) by *Road Traffic Act 2010 (Sections 15 and 17) (Prescribed Forms) (Amendment) Regulations 2020* (S.I. No. 385 of 2020), in operation as per reg. 1(2).
+>
+> E33: Power pursuant to section exercised (13.04.2017) by *Road Traffic Act 2010 (Sections 15 and 17) (Prescribed Forms) (Amendment) Regulations 2017* (S.I. No. 151 of 2017), in operation as per reg. 1(2).
+>
+> E34: Power pursuant to section exercised (28.10.2011) by *Road Traffic Act 2010 (Sections 15 and 17) (Prescribed Forms) Regulations 2011* (S.I. No. 540 of 2011), regs. 4, 5 and sch. 2, in operation as per reg. 1(2).
+
+#### 17A. Permission following taking of blood sample from unconscious driver
+
+F50[**17A.—** (1) Where a specimen of blood has been taken from a person under section 14(3A) a member of the Garda Síochána shall, as soon as practicable but in any event no later than 6 months after the date of the event referred to in *section 14(1)*, require that person to give his or her permission for a completed certificate to be forwarded under *section 17*.
+
+(2) A member of the Garda Síochána shall notify the Bureau as soon as practicable after he or she has been given the permission of a person following a requirement under *subsection (1)*.
+
+(3) Where the Bureau receives a specimen under *section 17* taken from a person under *section 14(3A)* the Bureau shall not forward a completed certificate under *section 17(3)* unless the Bureau has received a notification under *subsection (2)* in relation to that specimen.
+
+(4) The Minister may prescribe forms for the purposes of this section.
+
+(5) A person who, following a requirement under *subsection (1)*, without reasonable excuse, refuses or fails to give his or her permission for a completed certificate to be forwarded under *section 17* commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months, or to both.
+
+(6) In a prosecution for an offence under *subsection (5)* for refusing or failing to give permission for a completed certificate to be forwarded under *section 17*, it is a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure and that, as soon as practicable after the refusal or failure concerned, he or she complied (or offered, but was not called upon, to comply) with a requirement under *subsection (1)*.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (26.11.2014) by *Road Traffic Act* (3/2014), s. 12(d), S.I. No. 535 of 2014. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E35: Consequential disqualification order for offence under section prescribed by *Road Traffic Act 1961* (24/1961), s. 26(1) and sch. 2 para. 6A, as inserted (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 13(b)(ii), S.I. No. 535 of 2014.
+
+### Chapter 5 Evidential matters, etc. — Chapter 5 — Evidential matters, etc.
+
+#### 18. Provisions regarding certain evidence in prosecutions under section 4 or 5.
+
+**18**.—F51[(1) On the hearing of a charge for an offence under *section 4* or *5* it shall not be necessary to show that the defendant had not consumed an intoxicant after the time when the offence is alleged to have been committed but before the taking or provision of a specimen under *section 12, 13B* or *14*.]
+
+(2) Where, on the hearing of a charge for an offence under*section 4* or *5* evidence is given by or on behalf of the defendant that, after the time when the offence is alleged to have been committed but before the taking or provision of a specimen under *section 12* or *14*, he or she had consumed intoxicating liquor, the court shall disregard the evidence unless satisfied by or on behalf of the defendant—
+
+(*a*) that, but for that consumption, the concentration of alcohol in the defendant’s blood (as specified in a certificate under *section 17*) would not have exceeded the concentration of alcohol for the time being standing specified in *subsection (2)* of *section 4* or *5*, as may be appropriate, whether generally or in respect of the class of person of which the defendant is a member,
+
+(*b*) that, but for that consumption, the concentration of alcohol in the defendant’s urine (as specified in a certificate under *section 17*) would not have exceeded the concentration of alcohol for the time being standing specified in *subsection (3)* of *section 4* or *5*, as may be appropriate, whether generally or in respect of the class of person of which the defendant is a member, or
+
+(*c*) that, but for that consumption, the concentration of alcohol in the defendant’s breath (as specified in a statement under *section 13*) would not have exceeded the concentration of alcohol for the time being standing specified in *subsection (4)* of *section 4* or *5*, as may be appropriate, whether generally or in respect of the class of person of which the defendant is a member.
+
+F52[(2A) Where, on the hearing of a charge for an offence under *section 4(1A)* or *5(1A)* evidence is given by or on behalf of the defendant that, after the time when the offence is alleged to have been committed but before the taking or provision of a specimen under *section 12, 13B* or *14*, he or she had consumed a drug specified in *column (2)* of the *Schedule*, the court shall disregard the evidence unless satisfied by or on behalf of the defendant that, but for that consumption, the concentration of the specified drug in the defendant’s blood (as specified in a certificate under *section 17*) would not have been equal to or exceeded the concentration of that drug for the time being standing specified in the *Schedule*.]
+
+(3) (*a*) A person shall not take or attempt to take any action (including consumption of F53[an intoxicant] but excluding a refusal or failure to provide a specimen of his or her breath or urine or to permit the taking of a specimen of his or her blood) with the intention of frustrating a prosecution under *section 4* or *5*
+
+(*b*) A person who contravenes this subsection commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) Where, on the hearing of a charge for an offence under *section 4* or *5*, the court is satisfied that any action taken by the defendant (including consumption of F53[an intoxicant] but excluding a refusal or failure to provide a specimen of his or her breath or urine or to permit the taking of a specimen of his or her blood) was so taken with the intention of frustrating a prosecution under any of those sections, the court may find that he or she has committed an offence under *subsection (3)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 15(a), S.I. No. 129 of 2017.
+>
+> F52: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 15(b), S.I. No. 129 of 2017.
+>
+> F53: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 15(c), S.I. No. 129 of 2017.
+
+#### 19. Written statement by member of Garda Síochána in respect of requirement under section 12(1).
+
+**19**.— (1) In any proceedings against a person for an offence under *section 4* or *5*, a written statement by a member of the Garda Síochána in respect of either the making of a requirement F54[under *section 12(1), 13B(1), 14(1)* or *14(3A)*] or carrying out a procedure under those subsections, or both, shall, if the conditions mentioned in *subsection (2)* are satisfied, until the contrary is shown, be sufficient evidence of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the member with the requirements imposed on him or her F54[under *section 12(1), 13B(1), 14(1)* or *14(3A)*], as the case may be.
+
+(2) The conditions referred to in *subsection (1)* are—
+
+(*a*) the statement purports to be signed by the member of the Garda Síochána who made it,
+
+(*b*) the statement contains a declaration by that member of the Garda Síochána to the effect that it is true to the best of his or her knowledge and belief and that he or she made the statement, and
+
+(*c*) a copy of the statement is served on the accused.
+
+(3) A copy of a statement required by this section to be served on a person may, be served—
+
+(*a*) by delivering it to him or her,
+
+(*b*) by addressing it to him or her and leaving it at his or her usual or last known residence or place of business, or
+
+(*c*) by sending it by registered post to him or her at his or her usual or last known residence or place of business.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 16, S.I. No. 129 of 2017.
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: subs. (1) amended (26.11.2014) by *Road Traffic Act* (3/2014), s. 12(e), S.I. No. 535 of 2014; substituted as per F-note above.
+
+#### 20. Provisions regarding certain evidence in proceedings under Part 2.
+
+**20**.— (1) A duly completed statement purporting to have been supplied under *section 13* shall, until the contrary is shown, be sufficient evidence in any proceedings under the F55[*Road Traffic Act 1961 to 2023*] of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the member of the Garda Síochána concerned with the requirements imposed on him or her by or under *Chapter 4* prior to and in connection with the supply by him or her under *section 13* of such statement.
+
+(2) A duly completed form under *section 15* shall, until the contrary is shown, be sufficient evidence in any proceedings under the F55[*Road Traffic Act 1961 to 2023*] of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the designated doctor or designated nurse concerned with the requirements imposed on him or her by or under *Chapter 4*.
+
+(3) A certificate expressed to have been issued under *section 17* shall, until the contrary is shown, be sufficient evidence in any proceedings under the F55[*Road Traffic Act 1961 to 2023*] of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the Bureau with the requirements imposed on it by or under *Chapter 4*.
+
+F56[(4) In a prosecution for an offence under *section 4, 5, 12, 13B* or *14* it shall be presumed until the contrary is shown that each of the following persons is a designated doctor or designated nurse:
+
+(*a*) a person who by virtue of powers conferred on him or her by *Chapter 4* took from another person a specimen of that other person’s blood or was provided by another person with a specimen of that other person’s urine;
+
+(*b*) a person for whom, following a requirement under *section 12(1), 13B(1)* or *14(1)* to permit the taking by him or her of a specimen of blood, there was a refusal or failure to give such permission or to comply with a requirement of his or hers in relation to the taking of such a specimen;
+
+(*c*) a person for whom, following a requirement under *section 12(1)* or *14(1)* to provide for him or her a specimen of urine, there was a refusal or failure to provide such a specimen or to comply with a requirement of his or hers in relation to the provision of such a specimen.
+
+(5) Where, under *section 12, 13B* or *14*, a designated doctor or designated nurse states in writing that he or she is unwilling, on medical grounds, to take from a person a specimen of his or her blood or be provided by him or her with a specimen of his or her urine, the statement signed by the doctor shall, in any proceedings under the F57[*Road Traffic Act 1961 to 2023*], be sufficient evidence, until the contrary is shown, of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(i), S.I. No. 392 of 2023.
+>
+> F56: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 17, S.I. No. 129 of 2017.
+>
+> F57: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(iii), S.I. No. 392 of 2023.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: offence under subs. (4)(b) in respect of contraventions of Small Public Service Vehicles (SPSV) regulations made subject to application of *Road Traffic Act 1961* (24/1961), s. 103 (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 77(2)(a), S.I. No. 163 of 2014; subs. (2) deleted (1.06.2017) as per s. 77(4) and S.I. No. 241 of 2017.
+
+#### 21. Costs of prosecutions under Part 2.
+
+**21**.— (1) Where a person is convicted of an offence under F58[under *section 4, 5, 12, 13B, 14* or *17A*], committed after the commencement of this section, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the court a contribution towards the costs and expenses incurred by the Bureau in the performance of its functions not exceeding such amount as may, for the time being, stand prescribed.
+
+(2) Payments under *subsection (1)* shall be disposed of in such manner as may be prescribed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Substituted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 18, S.I. No. 129 of 2017.
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to section exercised (26.11.2012) by *Road Traffic Act 2010 (Section 21) (Costs and Expenses) Regulations 2012* (S.I. No. 477 of 2012), reg. 3.
+>
+> E39: Previous affecting provision: subs. (1) amended (26.11.2014) by *Road Traffic Act 2014* (3/2014), s. 12(f), S.I. No. 535 of 2014; substituted as per F-note above.
+
+#### 22. Defence to refusal to permit taking of specimen of blood or to provide 2 specimens of breath.
+
+**22**.— (1) In a prosecution of a person for an offence under *section 12* for refusing or failing to comply with a requirement to provide 2 specimens of his or her breath, it shall be a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure and that, as soon as practicable after the refusal or failure concerned, he or she complied (or offered, but was not called upon, to comply) with a requirement under the section concerned in relation to the taking of a specimen of blood or the provision of a specimen of urine.
+
+F59[(1A) In a prosecution of a person for an offence under *section 9**(3)* for failure to comply with a requirement under F60[*subsection (2)* or *(2A)* or *(2C)*] of *section 9*, it shall be a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure.
+
+(1B) In a prosecution of a person for an offence under *section 10**(6)(a)* it shall be a defence for the person to satisfy the court that there was a special and substantial reason for his or her refusal or failure.]
+
+(2) In a prosecution of a person for an offence under *section 12* or *14* for refusing or failing to comply with a requirement to permit a designated doctor or designated nurse to take a specimen of blood or for refusing or failing to comply with a requirement of a designated doctor or designated nurse in relation to the taking of a specimen of blood, it shall be a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure and that, as soon as practicable after the refusal or failure concerned, he or she complied (or offered, but was not called upon, to comply) with a requirement under the section concerned in relation to the provision of a specimen of urine.
+
+(3) F61[Notwithstanding *subsections (1)*, *(1A)*, *(1B)* and *(2)*,] evidence may be given at the hearing of a charge of an offence under *section 4* or *5* that the defendant refused or failed to comply with a requirement to provide 2 specimens of his or her breath, or that the defendant refused or failed to comply with a requirement to permit the taking of a specimen of his or her blood or to comply with a requirement of a designated doctor F62[or designated nurse] in relation to the taking of a specimen of blood, as the case may be.
+
+(4) In a prosecution for an offence under F61[*section 11(5)*] for refusing or failing to perform a test, it is a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure and that, as soon as practicable after the refusal or failure concerned, he or she complied (or offered, but was not called upon, to comply) with a requirement under the provision concerned in relation to the performance of a test.
+
+F63[(4A) In a prosecution of a person for an offence under *section 13B* for refusing or failing to comply with a requirement to permit a designated doctor or designated nurse to take a specimen of blood or for refusing or failing to comply with a requirement of a designated doctor or designated nurse in relation to the taking of a specimen of blood, it is a defence for the defendant to satisfy the court that there was a special and substantial reason for his or her refusal or failure.]
+
+(5) Notwithstanding *subsection (4)*, evidence may be given at the hearing of a charge of an offence under *section 4, 5* or *6* of the *Road Traffic Act 2010* that the defendant failed to comply with a requirement to perform a test.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Inserted (1.01.2026) by *Road Traffic and Roads Act 2023* (16/2023), s. 13(i)(i), S.I. No. 658 of 2025.
+>
+> F60: Substituted (31.05.2024) by *Road Traffic Act 2024* (10/2024), s. 14, S.I. No. 251 of 2024.
+>
+> F61: Substituted (1.01.2026) by *Road Traffic and Roads Act 2023* (16/2023), s. 13(i)(ii), (iii), S.I. No. 658 of 2025.
+>
+> F62: Inserted (27.03.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 48(a), S.I. No. 105 of 2013.
+>
+> F63: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 19, S.I. No. 129 of 2017.
+
+#### 23. Bar to certain defence to charges under section 4(1), 5(1) or 6(1).
+
+**23**.— It is not a defence for a person charged with an offence under *section 4(1), 5 (1)* or *6 (1)* to show that, in relation to the facts alleged to constitute the offence, an analysis or determination under this Part has not been carried out or that he or she has not been required under *section 9* or *10* to provide a specimen of his or her breath F64[or oral fluid].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted (31.05.2024) by *Road Traffic Act 2024* (10/2024), s. 15, S.I. No. 251 of 2024.
+
+### Chapter 6 Medical examination at Garda Síochána station or hospital — Chapter 6 — Medical examination at Garda Síochána station or hospital
+
+#### 24. Medical examination at Garda Síochána station or hospital.
+
+**24**.— (1) Where a person is arrested under a provision referred to in section 13(1) (inserted by section 1 of the Road Traffic and Transport Act 2006) of the Act of 1994 or *section 12(1)* of this Part or is admitted to hospital in the circumstances referred to in section 15(1) of the Act of 1994 or *section 14(1)* of this Part, a member of the Garda Síochána, at a Garda Síochána station or the hospital, as the case may be, may require the person to undergo a medical examination carried out by a designated doctor or designated nurse for the purpose of obtaining evidence that the person was, at the time of being arrested or the event, as the case may be, under the influence of an intoxicant as to be incapable of having proper control of a vehicle.
+
+(2) A person who refuses or fails to comply with a requirement under *subsection (1)* commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) Where a designated doctor or designated nurse carries out medical examination of a person for the purposes of *subsection (1)*, he or she shall make a written statement of the results of the examination.
+
+(4) A requirement under *subsection (1)* of a person admitted to hospital in the circumstances referred to in that subsection shall not be made unless a doctor treating the person has been consulted and it would not be prejudicial to the health of the person to make the requirement.
+
+F65[(5) A member of the Garda Síochána may, for the purpose of making a requirement of a person under *subsection (1)*, enter without warrant any hospital where the person is or where the member, with reasonable cause, suspects him or her to be.
+
+(6) A designated doctor or designated nurse may, for the purpose of carrying out a medical examination under *subsection (1)*, enter any hospital where the person is or where the doctor or nurse is informed by a member of the Garda Síochána that the person is.
+
+(7) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Inserted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(e), S.I. No. 542 of 2011.
+
+#### 25. Evidential matters.
+
+**25**.— (1) In any proceedings against a person for an offence under *section 24(2)*, a written statement by a member of the Garda Síochána in respect of the making of a requirement under *section 24(1)* or carrying out an examination under that subsection or both shall, if the conditions mentioned in *subsection (2)* are satisfied, until the contrary is shown, be sufficient evidence of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the member with the requirements imposed on him or her under *section 24(1)*.
+
+(2) The conditions referred to in *subsection (1)* are—
+
+(*a*) the statement purports to be signed by the member of the Garda Síochána who made it,
+
+(*b*) the statement contains a declaration by that member of the Garda Síochána to the effect that it is true to the best of his or her knowledge and belief and that he or she made the statement, and
+
+(*c*) a copy of the statement is served on the accused.
+
+(3) A copy of a statement required by this section to be served on a person may, be served—
+
+(*a*) by delivering it to him or her,
+
+(*b*) by addressing it to him or her and leaving it at his or her usual or last known residence or place of business, or
+
+(*c*) by sending it by registered post to him or her at his or her usual or last known residence or place of business.
+
+(4) A duly completed statement purporting to have been made under *section 24 (3)* shall, until the contrary is shown, be sufficient evidence under the F66[*Road Traffic Act 1961 to 2023*] of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the designated doctor or designated nurse concerned with the requirements imposed on him or her under *section 24 (1)*.
+
+(5) In a prosecution for an offence under *section 24 (2)* it shall be presumed until the contrary is shown that the person—
+
+(*a*) who carried out a medical examination of a person under *section 24 (1)*, or
+
+(*b*) for whom, following a requirement under *section 24 (1)* there was a refusal or failure to undergo a medical examination,
+
+is a designated doctor or designated nurse.
+
+(6) F67[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(i), S.I. No. 392 of 2023.
+>
+> F67: Deleted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(f), S.I. No. 542 of 2011.
+
+### Chapter 7 Functions of Bureau — Chapter 7 — Functions of Bureau
+
+#### 26. Functions of Bureau.
+
+**26**.— (1) The Bureau shall perform the functions assigned to it by or under this Part.
+
+(2) In particular, and without prejudice to the generality of *subsection (1)*, the Bureau shall arrange for—
+
+(*a*) the receipt and analysis of specimens of blood and urine forwarded to the Bureau under *section 15*, and the issue of reports on such analyses,
+
+F68[(*b*) the determination, in respect of such specimens, of—
+
+(i) the concentration of alcohol in the blood or urine,
+
+(ii) the presence (if any) of a drug or drugs in the blood or urine, and
+
+(iii) the concentration of a drug or drugs present in the blood,]
+
+(*c*) the issue of certificates required under *Chapter 4*, to be issued by the Bureau,
+
+(*d*) the provision of equipment for the taking of such specimens,
+
+(*e*) the approval of—
+
+(i) apparatus for indicating the presence of alcohol, and
+
+(ii) apparatus for determining the concentration of alcohol,
+
+F69[in the breath,]
+
+F70[(*f*) the approval of apparatus for indicating the presence of drugs in oral fluid.]
+
+(3) The Bureau may, from time to time, arrange for research into—
+
+(*a*) the physical and mental fitness of drivers of vehicles,
+
+(*b*) the medical aspects of road safety,
+
+(*c*) the effects of the consumption of intoxicating liquor or the taking of drugs on drivers of vehicles and the methods of measuring such effects, and
+
+(*d*) the methods of determining the extent to which alcohol or drugs is or are present in a person’s body.
+
+F71[(4) The Bureau may—
+
+(*a*) arrange for the supply and testing of—
+
+(i) apparatus for indicating the presence of alcohol, and
+
+(ii) apparatus for determining the concentration of alcohol,
+
+in the breath,
+
+(*b*) arrange for the supply and testing of apparatus for indicating the presence of drugs in oral fluid, and
+
+(*c*) give such assistance, whether financial or otherwise, as it thinks proper to persons carrying out or intending to carry out research referred to in *subsection (3)*.]
+
+(5) The Freedom of Information Act 1997 is amended in section 46(1) (as amended by section 29 of the Freedom of Information (Amendment) Act 2003) by inserting after paragraph (*ba*) (inserted by section 112 of the Company Law Enforcement Act 2001) the following:
+
+“(*bb*) a record held or created by the Medical Bureau of Road Safety under the *Road Traffic Acts 1961 to 2010* (other than a record concerning the general administration of the Medical Bureau of Road Safety),”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (30.03.2017) by *Road Traffic Act 2016* (21/2016), s. 20(a)(i), S.I. No. 129 of 2017.
+>
+> F69: Substituted (30.03.2017) by *Road Traffic Act 2016* (21/2016), s. 20(a)(ii), S.I. No. 129 of 2017.
+>
+> F70: Inserted (30.03.2017) by *Road Traffic Act 2016* (21/2016), s. 20(a)(iii), S.I. No. 129 of 2017.
+>
+> F71: Substituted (30.03.2017) by *Road Traffic Act 2016* (21/2016), s. 20(b), S.I. No. 129 of 2017.
+>
+> **Editorial Notes:**
+>
+> E40: The *Freedom of Information Act 1997* referred to in subs. (5) was repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced on enactment. The equivalent provisions in the 2014 Act in relation to Medical Bureau of Road Safety records are s. 6 and sch. 1 part 1 para. (u).
+
+#### 27. Protection of Director, etc., against legal proceedings.
+
+**27**.— No action or other legal proceedings lie (except in the case of wilful neglect or default) against the Director or any member, officer or employee of the Bureau by reason of, or arising out of, the carrying out of any analysis or determination under *section 13* or *17* or this Chapter.
+
+#### 28. Functions of Director.
+
+**28**.— The following is substituted for section 39(2) (inserted by section 7 of the Act of 1994) of the Act of 1968:
+
+“(2) The Director shall, subject to this Part and the establishment order, manage the day-to-day business of the Bureau and exercise general supervision in relation to the performance by it of the functions assigned to it by or under this Act or *Part 2* of the *Road Traffic Act 2010*.”.
+
+### Chapter 8 Fixed penalty notice drink driving — Chapter 8 — Fixed penalty notice — drink driving
+
+#### 29. Fixed penalty notice — drink driving.
+
+**29**.— (1) Where a person, who is not a specified person, is alleged to have committed an offence under *section 4(2), (3)* or *(4)* or *section 5(2), (3)* or *(4)* and the concentration of alcohol purported to be present in his or her body as stated in accordance with *section 13* or certified in accordance with *section 17*—
+
+(*a*) did not exceed—
+
+(i) 80 milligrammes of alcohol per 100 millilitres of blood,
+
+(ii) 107 milligrammes of alcohol per 100 millilitres of urine,
+
+(iii) 35 microgrammes of alcohol per 100 millilitres of breath,
+
+or
+
+(*b*) exceeded—
+
+(i) 80 milligrammes but did not exceed 100 milligrammes of alcohol per 100 millilitres of blood,
+
+(ii) 107 milligrammes but did not exceed 135 milligrammes of alcohol per 100 millilitres of urine, or
+
+(iii) 35 microgrammes but did not exceed 44 microgrammes of alcohol per 100 millilitres of breath,
+
+he or she shall, subject to *subsections (4)* and *(5)*, be served with a notice (“fixed penalty notice”) in accordance with *subsection (10)* stating that where the charge specified in *subsection (7)* (“fixed charge”) is paid in accordance with this section F72[and the disqualification specified in *subsection (8)(a)* for the person] holding a driving licence is in consequence applicable, a prosecution in respect of any such offence shall not be initiated against him or her.
+
+(2) Where a specified person is alleged to have committed an offence under *section 4(2), (3)* or *(4)* or *section 5(2), (3)* or *(4)* and the concentration of alcohol purported to be present in his or her body as stated in accordance with *section 13* or certified in accordance with *section 17* did not exceed—
+
+(*a*) 80 milligrammes of alcohol per 100 millilitres of blood,
+
+(*b*) 107 milligrammes of alcohol per 100 millilitres of urine, or
+
+(*c*) 35 microgrammes of alcohol per 100 millilitres of breath,
+
+he or she shall, subject to *subsections (4)* and *(5)*, be served with a notice (“fixed penalty notice”) in accordance with *subsection (10)* stating that where the charge specified in *subsection (7)* (“fixed charge”) is paid in accordance with this section and disqualification specified in *subsection (8)(b)* for the specified person holding a driving licence is in consequence applicable, a prosecution in respect of any such offence shall not be initiated against him or her.
+
+(3) Where a fixed penalty notice is being served on a person under this section it may be served—
+
+(*a*) in the case of personal service, by—
+
+(i) delivering it to the person, or
+
+(ii) leaving it at the address—
+
+(I) at which the person ordinarily resides,
+
+(II) which, at the time of the alleged offence, the person gave to a member of the Garda Síochána, or
+
+(III) at which the vehicle is registered, where the person is the registered owner of the vehicle at the time of the alleged offence,
+
+or
+
+(*b*) in the case of postal service, by posting it to the address—
+
+(i) at which the person ordinarily resides,
+
+(ii) which, at the time of the alleged offence, the person gave to a member of the Garda Síochána, or
+
+(iii) at which the vehicle is registered, where the person is the registered owner of the vehicle at the time of the alleged offence.
+
+(4) A person is not eligible to be served with a fixed penalty notice if he or she does not hold a driving licence for the time being in force or is disqualified for holding a driving licence, at the time of the commission of the alleged offence.
+
+(5) A person who has been served with a fixed penalty notice and has paid the fixed charge, is not eligible to be served with another fixed penalty notice within the period of 3 years from F72[the date of commencement of the disqualification] following payment of the fixed charge in accordance with the notice.
+
+(6) F73[...]
+
+(7) The fixed charge is—
+
+(*a*) in the case of a concentration of alcohol referred to in *subsection (1)(a)* or *subsection (2)* — €200, or
+
+(*b*) in the case of a concentration of alcohol referred to in *subsection (1)(b)* — €400,
+
+or such other amount that, for the time being, stands prescribed in lieu of either of those amounts.
+
+F74[(8) Where—
+
+(*a*) a person who is eligible under *subsection (1)* to be served with a fixed penalty notice pays the fixed charge in accordance with this section and the concentration of alcohol purported to be present in his or her body, as stated or certified in accordance with this Part—
+
+F75[(i) did not exceed 80 milligrammes of alcohol per 100 millilitres of blood, 107 milligrammes of alcohol per 100 millilitres of urine, or 35 microgrammes of alcohol per 100 millilitres of breath, the person shall be disqualified for holding a driving licence for a period of 3 months beginning on the date referred to in *subsection (15)*, or]
+
+(ii) exceeded 80 milligrammes but did not exceed 100 milligrammes of alcohol per 100 millilitres of blood, exceeded 107 milligrammes but did not exceed 135 milligrammes of alcohol per 100 millilitres of urine, or exceeded 35 microgrammes but did not exceed 44 microgrammes of alcohol per 100 millilitres of breath, the person shall be disqualified for holding a driving licence for a period of 6 months beginning on the date referred to in F75[*subsection (15)*],
+
+or
+
+(*b*) a specified person, who is eligible under *subsection (2)* to be served with a fixed penalty notice, pays the fixed charge and payment is made in accordance with this section, he or she shall be disqualified for holding a driving licence for a period of 3 months beginning on the date referred to in F75[*subsection (15)*].]
+
+(9) Where a member of the Garda Síochána alleges that a person has committed an offence referred to in *subsection (1)* or *(2)* and the person under this section is eligible to be served with a fixed penalty notice, the member shall serve or cause to be served in the manner referred to in *section 35,* personally or by post, on that person a fixed penalty notice.
+
+(10) A fixed penalty notice—
+
+(*a*) shall be in the prescribed form,
+
+(*b*) shall contain details of the manner of payment of a fixed charge, and
+
+(*c*) may specify the person to whom and the place where the payment is to be made and whether the payment is to be accompanied by the notice, duly completed.
+
+(11) A fixed penalty notice shall contain a statement to the effect that—
+
+(*a*) the person on whom it is served is alleged to have committed the offence specified in the notice,
+
+(*b*) the concentration of alcohol purported to be present in his or her body is as stated or certified in accordance with F74[this Part],
+
+(*c*) the person is not eligible to pay the fixed charge if he or she is ineligible under this section to be served with a fixed penalty notice,
+
+(*d*) the person may, if he or she is eligible under this section to be served with a fixed penalty notice, during a period of 28 days beginning on the day stated on the notice, pay to a member of the Garda Síochána at a specified Garda station or another specified place the fixed charge accompanied by the notice, duly completed,
+
+F76[(e) where a payment of the fixed charge is made within the period specified in *paragraph (d)*, the person shall be disqualified for holding a driving licence for the appropriate period in the circumstances referred to in *paragraph (a)* or *(b)* of *subsection (8)*, and]
+
+(*f*) unless the person is not eligible under this section to pay the fixed charge, a prosecution in respect of the alleged offence will not be initiated during the period specified in *paragraph (d)* or, if payment of the fixed charge accompanied by the notice, duly completed, is made during that period, at all.
+
+(12) A person who is ineligible under *subsection (4)* or *(5)* to pay the fixed charge, and who knows or should in the circumstances have reasonably known that he or she is so ineligible, who pays or attempts to pay the charge commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 1 month or to both.
+
+(13) (*a*) Where the fixed charge is paid in accordance with this section, a receipt for it shall be issued by the Garda Síochána to the person who has paid the charge.
+
+(*b*) Subject to *paragraph (c)*, the payment of the fixed charge received by the Garda Síochána in accordance with this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance directs and shall not be recoverable by the person who made it.
+
+(*c*) Where a person who is ineligible under *subsection (4)* or *(5)* to pay the fixed charge pays the charge, the Garda Síochána may return the payment to the person.
+
+(14) Where a payment is received under *subsection (13)*, the Commissioner shall, as soon as may be after the payment, cause the Minister to be notified of the payment and thereupon the Minister shall F76[cause the period of the disqualification referred to in *paragraph (a)* or *(b)* of *subsection (8)*], to be endorsed on the entry in the licence record relating to the person.
+
+F76[(15) Where an endorsement is made under *subsection (14)*, the Minister shall cause a notice to be issued to the person concerned informing him or her that the date for the commencement of the period of the disqualification is 14 days after the date of that notice.]
+
+(16) A notice issued under *subsection (15)* relating to a disqualification shall direct the person concerned to submit the driving licence held by him or her to—
+
+(*a*) the licensing authority F77[...], in the case of an Irish driving licence, or
+
+(*b*) to such place as specified in the notice, in the case of a foreign driving licence,
+
+within 14 days of the date of the notice.
+
+(17) A person who does not comply with a direction under *subsection (16)* commits an offence and is liable on summary conviction to a fine not exceeding €2,000.
+
+(18) In a prosecution of an offence referred to in *subsection (1)* or *(2)* it shall be presumed until the contrary is shown that—
+
+(*a*) the relevant fixed penalty notice has been served or caused to be served, and
+
+(*b*) a payment under the relevant fixed penalty notice, accompanied by the notice, duly completed, has not been made.
+
+F78[(18A) A document purporting to be a certificate or receipt of posting or delivery issued by F79[or on behalf of] An Post or another postal service is admissible in evidence as proof of the posting or delivery, as the case may be, of a fixed penalty notice,]
+
+(19) (*a*) The Minister for Justice and Law Reform may by an agreement in writing entered into with any person, upon such terms and conditions as may be specified in the agreement, provide for the performance by that person of any of the functions of a member of the Garda Síochána relating to the issuing of a fixed penalty notice, the receipt of such notice, the acceptance of a payment or the issuing of a receipt for such payment, as are set out in this section or of the function of the Commissioner in respect of the issue of a notice under *subsection (9)*.
+
+(*b*) An agreement referred to in *paragraph (a)* may apply to the performance of all or any of the functions to which that paragraph refers in respect of all or selected offences in respect of which this section applies.
+
+(*c*) Section 14(2), (3) and (4) of the Act of 2002 applies to any agreement entered into by the Minister for Justice and Law Reform under *paragraph (a)*.
+
+(20) In this section, reference to a fixed penalty notice, duly completed, is reference to such a notice on which the number, the date of the grant, and the period of validity, of the driving licence of the person to whom the notice relates, as required in the notice, have been inserted by or on behalf of the person.
+
+(21) In this section “driving licence” includes a learner permit.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Substituted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(c)(i), (ii), S.I. No. 405 of 2018, subject to transitional provision in subs. (2).
+>
+> F73: Deleted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(c)(iii), S.I. No. 405 of 2018, subject to transitional provision in subs. (2).
+>
+> F74: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(g)(i),(ii), S.I. No. 542 of 2011.
+>
+> F75: Substituted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(c)(iv), S.I. No. 405 of 2018, subject to transitional provision in subs. (2).
+>
+> F76: Substituted (26.10.2018) by *Road Traffic (Amendment) Act 2018* (18/2018), s. 2(1)(c)(v), (vi), (vii), S.I. No. 405 of 2018, subject to transitional provision in subs. (2).
+>
+> F77: Deleted (12.01.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 54(a), S.I. No. 5 of 2013.
+>
+> F78: Inserted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(g)(iii), S.I. No. 542 of 2011.
+>
+> F79: Inserted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 20(b), S.I. No. 147 of 2014.
+>
+> **Editorial Notes:**
+>
+> E41: Form of fixed penalty notice prescribed for purposes of subs. (10) (17.11.2011) by *Road Traffic Act 2010 (Fixed Penalty Notice - Drink Driving) Regulations 2011* (S.I. No. 595 of 2011), reg. 3 and sch., in operation as per reg. 2.
+>
+> E42: Previous affecting provision: subs. (11)(e) amended (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 20(a), S.I. No. 147 of 2014; substituted as per F-note above.
+
+### Chapter 9 Transitional measures — Chapter 9 — Transitional measures
+
+#### 30. Written statement by member of Garda Síochána in respect of requirement under section 13(1) of Act of 1994.
+
+**30**.— (1) In any proceedings against a person for an offence under section 49 or 50 of the Principal Act, a written statement by a member of the Garda Síochána in respect of the making of a requirement under section 13(1) (inserted by section 1 of the Road Traffic and Transport Act 2006) of the Act of 1994 or carrying out a procedure under that subsection or both shall, if the conditions mentioned in *subsection (2)* are satisfied, until the contrary is shown, be admissible in evidence of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the member with the requirements imposed on him or her under section 13(1) of the Act of 1994.
+
+(2) The conditions referred to in *subsection (1)* are—
+
+(*a*) the statement purports to be signed by the member of the Garda Síochána who made it,
+
+(*b*) the statement contains a declaration by that member of the Garda Síochána to the effect that it is true to the best of his or her knowledge and belief and that he or she made the statement, and
+
+(*c*) a copy of the statement is served on the accused.
+
+(3) A copy of a statement required by this section to be served on a person may be served—
+
+(*a*) by delivering it to him or her,
+
+(*b*) by addressing it to him or her and leaving it at his or her usual or last known residence or place of business, or
+
+(*c*) by sending it by registered post to him or her at his or her usual or last known residence or place of business.
+
+#### 31. Amendment of section 39(2) of Act of 1994 — power of entry.
+
+F80[**31**.— Section 39(2) of the Act of 1994 is amended by inserting "making a requirement of the person under section 12(2) of this Act or section 4(4) of the Road Traffic Act 2006, or" after "for the purpose of".]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(h), S.I. No. 542 of 2011.
+
+#### 32. Amendment of section 5 of Act of 2006 — fixed disqualification notice.
+
+**32**.— F81[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Repealed (28.10.2011) by *Road Traffic Act 2010* (25/2010), s. 32(2), in operation as per s. 32(2); and repealed (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 26(b), S.I. No. 147 of 2014.
+
+### Chapter 10 Repeals (Part 2) — Chapter 10 — Repeals (Part 2)
+
+#### 33. Repeals — Part 2.
+
+**33**.— The following are repealed:
+
+(*a*) sections 49, 50 and 51 of the Principal Act,
+
+(*b*) sections 38, 42 and 48 of the Act of 1968,
+
+(*c*) Parts II (sections 5 to 8) and III (sections 9 to 24) of the Act of 1994,
+
+(*d*) subsections (2), (3) and (4) of section 39 of the Act of 1994,
+
+(*e*) the Road Traffic Act 2003,
+
+(*f*) section 4 of the Act of 2006,
+
+(*g*)section 1 of the Road Traffic and Transport Act 2006, and
+
+(*h*) the matter at reference numbers 9 and 10 of Part 1 of the Table to the Act of 2006.
+
+## PART 3 Fixed Charge Offences and Notice — PART 3 — Fixed Charge Offences and Notice
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E43: Manner of service of summons in respect of fixed charge offences committed by members of An Garda Síochána prescribed (1.06.2017) by *Courts Act 2017* (8/2017), s. 3, S.I. No. 239 of 2017.
+>
+> E44: Previous affecting provision: offences under provisions of Part as may be prescribed made subject to *Road Traffic Act 1961* (24/1961), s. 103 (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 77(2)(b), S.I. No. 163 of 2014; s. 77(2) deleted (1.06.2017) as per subs. (4) and S.I. No. 241 of 2017.
+
+### 34. Fixed charge offences.
+
+F82[**34.**— (1) This Part applies in respect of fixed charge offences.
+
+(2) For the purposes of this Part, any of the following offences, committed after this section comes into operation, is a fixed charge offence:
+
+(*a*) a summary offence under the *Road Traffic Acts 1961* to *2016* declared by the Minister by regulations, made after consultation with the Minister for Justice and Equality, to be a fixed charge offence;
+
+(*b*) a summary offence under the Roads Acts 1993 to 2015 declared by the Minister by regulations, made after consultation with the Minister for Justice and Equality, to be a fixed charge offence;
+
+(*c*) an offence which may only be tried summarily under the Road Transport Act 1933 (or any Act construed as one with it) declared by the Minister by regulations to be a fixed charge offence;
+
+(*d*) an offence which may only be tried summarily under any regulation providing for the carriage of goods or passengers by road or the harmonisation of legislation relating to road transport made under the European Communities Act 1972 declared by the Minister by regulations to be a fixed charge offence;
+
+(*e*) an offence under Part 3 of the Taxi Regulation Act 2013, other than an offence punishable under section 20(4)(a) of that Act, declared by the Minister by regulations to be a fixed charge offence;
+
+(*f*) an offence under the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012 (other than an offence referred to in section 41 of that Act) declared by the Minister by regulations to be a fixed charge offence;
+
+(*g*) an offence under Regulation 4 of the European Communities (Installation and Use of Speed Limitation Devices in Motor Vehicles) Regulations 2005 (S.I. No. 831 of 2005);
+
+(*h*) an offence under Regulation 5, 6, 7, 8 or 9 of the European Communities (Compulsory Use of Safety Belts and Child Restraint Systems in Motor Vehicles) Regulations 2006 (S.I. No. 240 of 2006);
+
+(*i*) an offence under—
+
+(i) section 73 of the Finance Act 1976, and
+
+F83[(ii) paragraphs (b), (bb) and (c) of section 139(1) of the Finance Act 1992.]
+
+(3) The Minister may make regulations for the purposes of declaring an offence to be a fixed charge offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 23, S.I. No. 242 of 2017.
+>
+> F83: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(j), S.I. No. 392 of 2023.
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to subs. (3) exercised (19.12.2025) by *Road Traffic (Small Public Service Vehicle) (Fixed Charge Offences) Regulations 2025* (S.I. No. 652 of 2025).
+>
+> E46: Power pursuant to section exercised (20.05.2024) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2024* (S.I. No. 227 of 2024).
+>
+> E47: Previous affecting provision: power pursuant to section exercised (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), in operation as per reg. 1(2); revoked (20.05.2024) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2024* (S.I. No. 227 of 2024), reg. 3(b).
+>
+> E48: Previous affecting provision: power pursuant to section exercised (1.02.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2021* (S.I. No. 747 of 2021), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(e), in operation as per reg. 1(2).
+>
+> E49: Previous affecting provision: power pursuant to section exercised (12.11.2019) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) (No. 2) Regulations 2019* (S.I. No. 548 of 2019), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(d), in operation as per reg. 1(2).
+>
+> E50: Previous affecting provision: power pursuant to section exercised (1.11.2019) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2019* (S.I. No. 507 of 2019), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(c), in operation as per reg. 1(2).
+>
+> E51: Previous affecting provision: power pursuant to section exercised (1.03.2018) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2018* (S.I. No. 58 of 2018), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(b), in operation as per reg. 1(2).
+>
+> E52: Previous affecting provision: power pursuant to section exercised (1.06.2017) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2017* (S.I. No. 244 of 2017), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(a), in operation as per reg. 1(2).
+>
+> E53: Previous affecting provisions: section amended (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 77(1)(a)-(c), S.I. No. 163 of 2014; section substituted as per F-note above.
+
+### 35. Fixed charge notice — service.
+
+**35**.— (1) Where a member of the Garda Síochána has reasonable grounds for believing that a fixed charge offence is being or has been committed by a person—
+
+(*a*) if the member identifies the person, F84[the member shall serve], or cause to be served, personally or by post, on the person a fixed charge notice, or
+
+(*b*) if the member does not identify the person and the offence involves the use of a mechanically propelled vehicle, F84[the member shall serve], or cause to be served, personally or by post, on the registered owner of the vehicle a fixed charge notice.
+
+(2) A prosecution in respect of a fixed charge offence shall not be instituted unless a fixed charge notice in respect of the alleged offence has been served on the person concerned under this section and the person fails to pay the fixed charge in accordance with the notice.
+
+(3) Where a fixed charge notice is being served on a person identified under *subsection (1) (a)* or on a registered owner where the person is not identified under *subsection (1) (b)*, it may be served—
+
+(*a*) in the case of personal service—
+
+(i) where the person is identified, by—
+
+(I) delivering it to the person, or
+
+(II) leaving it at the address—
+
+(A) at which the person ordinarily resides,
+
+(B) which, at the time of the alleged offence, the person gave to the member referred to in *subsection (1)*, or
+
+(C) at which the vehicle is registered, where the person is the registered owner of the vehicle at the time of the alleged offence,
+
+or
+
+(ii) where the person is not identified, by delivering it or leaving it at the address at which the vehicle is registered at the time of the alleged offence,
+
+or
+
+(*b*) in the case of postal service—
+
+(i) where the person is identified, by posting it to the address (inside or outside the State)—
+
+(I) at which the person ordinarily resides,
+
+(II) which, at the time of the alleged offence, the person gave to the member referred to in *F85[subsection (1)]*, or
+
+(III) at which the vehicle is registered, where the person is the registered owner of the vehicle at the time of the alleged offence,
+
+or
+
+(ii) where the person is not identified, by posting it to the address at which the vehicle is registered at the time of the alleged offence.
+
+(4) In a case referred to in *subsection (1),* if the offence concerned is not a penalty point offence—
+
+(*a*) the references in that subsection to a member of the Garda Síochána shall be construed as including references to a traffic warden, and
+
+(*b*) *paragraph (b)* of that subsection shall be read as if “or shall affix such a notice to the vehicle” were inserted after “fixed charge notice”.
+
+F86[(5) In a case referred to in *subsection (1)* the references in that subsection to a member of the Garda Síochána (other than in *paragraph (b)*) are to be read as including references—
+
+(*a*) if the offence is an offence referred to in F87[*section 34(2)(c)* or *section 34(2)(d)*], to a transport officer appointed under section 15 (inserted by section 117 of the Dublin Transport Authority Act 2008) of the Road Transport Act 1986, or
+
+(*b*) if the offence is an offence referred to in F88[*section 34(2)(e)*], to an authorised person appointed under section 40 of the Taxi Regulation Act 2013.]
+
+(6) Where—
+
+(*a*) a fixed charge notice is served on the registered owner of a mechanically propelled vehicle or affixed to such a vehicle F89[under *subsection (1)(b)*], and
+
+(*b*) the registered owner of the vehicle was not driving or otherwise using the vehicle, at the time of the commission of the alleged offence to which the notice relates,
+
+the registered owner shall—
+
+(i) not later than 28 days after the date of the notice, give or send to a member of the Garda Síochána or a traffic warden at the Garda Síochána station or other place specified in the notice a document in the prescribed form signed by the registered owner and stating the name and address of the person who was driving or otherwise using the vehicle at the time of such commission, and
+
+(ii) give or send to a member of the Garda Síochána or a traffic warden within such period as may be specified by the member or warden at the Garda Síochána station or other place specified in the notice such other information within his or her knowledge or procurement as the member or warden may reasonably request for the purpose of identifying, and establishing the whereabouts of, the person referred to in *subparagraph (i)*.
+
+(7) Where a registered owner is giving or sending in accordance with *subsection (6)(b)(i)* the name and address of the person who was driving or otherwise using the vehicle concerned, the onus is on the registered owner to be able to show proof of giving or sending the name and address. In a prosecution for an offence under *section 40(2)* in the absence of such proof it shall be presumed, until the contrary is shown, that no such name or address was so given or sent.
+
+(8) For the purposes of *subsection (6)(b)* where the registered owner of the vehicle concerned is not an individual, the obligation under that provision shall be discharged by a person acting on behalf of or employed by the owner.
+
+(9) The Commissioner shall, not later than 28 days after a document referred to in *subsection (6)* containing the name and address of the person who was driving or otherwise using the vehicle concerned at the time of the commission of the alleged offence concerned is given or sent to a member of the Garda Síochána or a traffic warden, cause a notice under this section to be served, personally or by post, on the person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 24(a), S.I. No. 242 of 2017.
+>
+> F85: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 24(b), S.I. No. 242 of 2017.
+>
+> F86: Substituted (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 77(1)(d), S.I. No. 163 of 2014.
+>
+> F87: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 24(c), S.I. No. 242 of 2017.
+>
+> F88: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 24(d), S.I. No. 242 of 2017.
+>
+> F89: Inserted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 24(e), S.I. No. 242 of 2017.
+>
+> F90: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(i), (iii)(I), (II), (III), (IV), (v)(I), (II), (III)(A), (B), (viii), not commenced as of date of revision.
+>
+> F91: Substituted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(ii), (vi), (vii), not commenced as of date of revision.
+>
+> F92: Deleted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(iv), not commenced as of date of revision.
+>
+> F93, F94: Substituted by *Road Traffic Act 2016* (21/2016), s. 36(a)(i), (ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. (1A) inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(i), not commenced as of date of revision.
+>
+> F90[(1A) Where an officer of the Revenue Commissioners has reasonable grounds for believing that an offence under paragraph (b), (bb) or (c) of section 139(1) of the Finance Act 1992 has been committed—
+>
+> (*a*) if the officer identifies the person, the officer shall serve, or cause to be served, personally or by post, on the person a fixed charge notice, or
+>
+> (*b*) if the officer does not identify the person and the offence involves the use of a mechanically propelled vehicle, the officer shall serve, or cause to be served, personally or by post, on the registered owner of the vehicle a fixed charge notice.]
+>
+> C12: Prospective affecting provision: subs. (2) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(ii), not commenced as of date of revision.
+>
+> (2) A prosecution in respect of a fixed charge offence F91[shall not be instituted by the Garda Síochána] unless a fixed charge notice in respect of the alleged offence has been served on the person concerned under this section and the person fails to pay the fixed charge in accordance with the notice.
+>
+> C13: Prospective affecting provision: subs. (3) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(iii)(I), (II), (III), (IV), not commenced as of date of revision.
+>
+> (3) Where a fixed charge notice is being served on a person identified under *subsection (1) (a)* F90[or *(1A)(a)*] or on a registered owner where the person is not identified under *subsection (1) (b)*, F90[or *(1A)(b)*] it may be served—
+>
+> (*a*) in the case of personal service—
+>
+> (i) where the person is identified, by—
+>
+> (I) delivering it to the person, or
+>
+> (II) leaving it at the address—
+>
+> (A) at which the person ordinarily resides,
+>
+> (B) which, at the time of the alleged offence, the person gave to the member referred to in *subsection (1)*, F90[or, as the case may be, the officer referred to in *subsection (1A)*] or
+>
+> ...
+>
+> (*b*) in the case of postal service—
+>
+> (i) where the person is identified, by posting it to the address (inside or outside the State)—
+>
+> (I) at which the person ordinarily resides,
+>
+> (II) which, at the time of the alleged offence, the person gave to the member referred to in F85[*subsection (1)*] F90[or, as the case may be, the officer referred to in *subsection (1A)*], or
+>
+> C14: Prospective affecting provision: subs. (4) deleted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(iv), not commenced as of date of revision.
+>
+> (4) F92[...]
+>
+> C15: Prospective affecting provision: subs. (6) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(v), (I), (II), (III)(A), (B), not commenced as of date of revision.
+>
+> (6) Where—
+>
+> (*a*) …
+>
+> (*b*) the registered owner of the vehicle F90[did not have possession of, or] was not driving or otherwise using the vehicle, at the time of the commission of the alleged offence to which the notice relates,
+>
+> the registered owner shall—
+>
+> (i) not later than 28 days after the date of the notice, give or send to a member of the Garda Síochána F90[, an officer of the Revenue Commissioners] or a traffic warden at the Garda Síochána station or other place specified in the notice a document in the prescribed form signed by the registered owner and stating the name and address of the person who was driving or otherwise using the vehicle at the time of such commission, and
+>
+> (ii) give or send to a member of the Garda Síochána F90[, an officer of the Revenue Commissioners] or a traffic warden within such period as may be specified by the member F90[, officer] or warden at the Garda Síochána station or other place specified in the notice such other information within his or her knowledge or procurement as the member F90[, officer] or warden may reasonably request for the purpose of identifying, and establishing the whereabouts of, the person referred to in *subparagraph (i)*.
+>
+> C16: Prospective affecting provision: subs. (7) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(vi), not commenced as of date of revision.
+>
+> (7) Where a registered owner is giving or sending in accordance with F91[*subsection (6)(i)*] the name and address of the person who was driving or otherwise using the vehicle concerned, the onus is on the registered owner to be able to show proof of giving or sending the name and address. In a prosecution for an offence under *section 40(2)* in the absence of such proof it shall be presumed, until the contrary is shown, that no such name or address was so given or sent.
+>
+> C17: Prospective affecting provision: subs. (8) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(vii), not commenced as of date of revision.
+>
+> (8) For the purposes of F91[*paragraph (i)* and *(ii)* of *subsection (6)*] where the registered owner of the vehicle concerned is not an individual, the obligation under that provision shall be discharged by a person acting on behalf of or employed by the owner.
+>
+> C18: Prospective affecting provision: subs. (10) inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(k)(viii), not commenced as of date of revision.
+>
+> F90[(10) The Revenue Commissioners shall, not later than 28 days after a document referred to in *subsection (6)* containing the name and address of the person who had possession of, or was driving or otherwise using the vehicle concerned at the time of the commission of the alleged offence concerned is given or sent to an officer of the Revenue Commissioners, cause a notice under this section to be served, personally or by post, on the person.]
+>
+> C19: Prospective affecting provision: subss. (2), (3)(a)(ii) substituted by *Road Traffic Act 2016* (21/2016), s. 36(a), not commenced as of date of revision.
+>
+> **35**.— ...
+>
+> (2) A prosecution in respect of a fixed charge offence shall not be instituted unless a fixed charge notice in respect of the alleged offence has been served on the person concerned under this section and the person fails to pay the appropriate payment of the fixed charge in accordance with the notice at the appropriate time specified in the notice in relation to the payment.
+>
+> (3) Where a fixed charge notice is being served on a person identified under *subsection (1) (a)* or on a registered owner where the person is not identified under *subsection (1) (b)*, it may be served—
+>
+> (*a*) in the case of personal service—
+>
+> ...
+>
+> (ii) where the person is not identified and the offence involves the use of a mechanically propelled vehicle, by delivering it or leaving it at the address at which the vehicle is registered at the time of the alleged offence,
+>
+> ...
+>
+> C20: Prospective affecting provision: application of section restricted by *Road Traffic Act 1961* (24/1961), s. 101B, as substituted by *Vehicle Clamping Act 2015* (13/2015), s. 32; amending section prospectively commenced (1.10.2017) by S.I. No. 211 of 2017.
+>
+> **Immobilisation, removal etc. of unlawfully parked vehicles.**
+>
+> **[101B.** ...
+>
+> (6) Where an immobilisation device is fixed to a vehicle in accordance with this section a fixed charge notice under section 103 of this Act or section 35 of the Road Traffic Act 2010 need not be served on a person, or affixed to the vehicle concerned, in respect of the contravention unless it is contemplated that proceedings for an offence in relation to the contravention might be brought.
+>
+> ...**]**
+>
+> **Editorial Notes:**
+>
+> E54: Power pursuant to subs. (6) exercised (1.06.2017) by *Road Traffic Act 2010 (Section 35(6)) (Prescribed Document) Regulations 2017* (S.I. No. 245 of 2017), in operation as per reg. 2.
+
+### 36. Fixed charge notice — form.
+
+**36**.— (1) A fixed charge notice—
+
+(*a*) shall be in the prescribed form,
+
+(*b*) shall contain details of the manner of payment of a fixed charge,
+
+(*c*) may specify the person to whom and the place where the payment is to be made and whether the payment is to be accompanied by the notice, duly completed,
+
+(*d*) if it relates to a penalty point offence, shall require such details of the driving licence or learner permit held by the person on whom it is served as specified in the notice, and
+
+(*e*) if it relates to a penalty point offence, shall contain a statement to the effect that, if the person on whom it is served makes a payment specified in F95[*paragraph (b), (c)* or *(e)*] of *subsection (2)* or, as the case may be, *subsection (3)* in accordance with those provisions or is convicted of that offence, different specified numbers of penalty points F96[...] will be endorsed on the entry F96[...] of the person.
+
+F97[(1A) A fixed charge notice relating to an offence F98[referred to in *section 34(2)(e)*] which is a demerit offence (within the meaning of Part 5 of the Taxi Regulation Act 2013), shall contain a statement to the effect that if the person on whom it is served makes the appropriate payment specified in F98[subsection (2) of section 35 of the Taxi Regulation Act 2013] in accordance with that subsection or is convicted of the offence, different specified numbers of demerits will be endorsed on the SPSV licence record (within the meaning of section 33 of the Taxi Regulation Act 2013) of the person.]
+
+(2) If a notice is served under *section 35(1)(a)* or *(9)*, it shall, without prejudice to the generality of *subsection (1)*, contain a statement to the effect that—
+
+(*a*) the person on whom it is served is alleged to have committed an offence specified in the notice,
+
+(*b*) the person may, during the period of 28 days beginning on the date of the notice, make a payment of a fixed charge of a prescribed amount as specified in the notice,
+
+(*c*) if the person does not make the payment specified in *paragraph (b)* of this subsection, during the period of 28 days beginning on the expiration of that period, the person may make a payment of a fixed charge as specified in the notice of an amount 50 per cent greater than the prescribed amount referred to in *paragraph (b)*, F99[...]
+
+F100[(*d*) a prosecution in respect of the alleged offence will not be instituted during either 28 day period specified in the notice or, if a payment is made in accordance with the notice during either period, at all, and]
+
+F101[(*e*) if the person is served with a summons in respect of the alleged offence the person may, not later than 7 days before the day specified in the summons on which the person is required to appear in court, make a payment of a fixed charge as specified in the notice served with the summons of an amount 100 per cent greater than the prescribed amount referred to in *paragraph (b)* and, if the person pays such amount proceedings in respect of the alleged offence will be discontinued.]
+
+(3) If a notice is served or affixed to a mechanically propelled vehicle under *section 35 (1) (b),* it shall, without prejudice to the generality of *subsection (1)*, contain a statement to the effect that—
+
+(*a*) an offence specified in the notice is alleged to have been committed,
+
+(*b*) a person liable to be prosecuted for the offence may, during the period of 28 days beginning on the date of the notice, make a payment of a fixed charge of a prescribed amount,
+
+(*c*) if the person does not make the payment specified in *paragraph (b)* during the period so specified the person may, during the period of 28 days beginning on the expiration of the period specified in that paragraph, make a payment of a fixed charge of an amount 50 per cent greater than the prescribed amount referred to in *paragraph (b)*,
+
+F102[(*cc*) a person who is served with a summons in respect of the alleged offence may, not later than 7 days before the day specified in the summons on which the person is required to appear in court, make a payment of a fixed charge of an amount 100 per cent greater than the prescribed amount referred to in *paragraph (b)*,]
+
+(*d*) if the registered owner of the vehicle concerned was not driving or otherwise using the vehicle at the time of the commission of the alleged offence concerned, he or she is required by *section 35 (6)*—
+
+(i) not later than 28 days after the date of the notice, to give or send to a member of the Garda Síochána or a traffic warden at a specified Garda Síochána station or at another specified place a document in the prescribed form signed by the registered owner and stating the name and address of the person who was driving or otherwise using the vehicle at the time of such commission, and
+
+(ii) to give or send to a member of the Garda Síochána or a traffic warden within such period as may be specified by him or her at a specified Garda Síochána station or another specified place such other information within his or her knowledge or procurement as the member or warden may reasonably request for the purpose of identifying, and establishing the whereabouts of, the person referred to in *subparagraph (i)*,
+
+(*e*) a prosecution in respect of the alleged offence will not be initiated during the periods specified in the notice under *paragraphs (b)* and *(c)* or, if a payment specified in the notice is made in accordance with the notice, during the appropriate period so specified in relation to the payment, at all,
+
+(*f*) if a payment aforesaid accompanied by the notice, duly completed, is made during the appropriate period aforesaid, the registered owner need not comply with *section 35 (6)*,
+
+F103[(*g*) if the registered owner complies with *section 35(6)*, a payment aforesaid need not be made by the registered owner and a prosecution of him or her in respect of the alleged offence will not be initiated,
+
+(*gg*) if a summons has been served in respect of the alleged offence and, not later than 7 days before the day specified in the summons on which the person is required to appear in court, the person on whom the summons was served, makes a payment specified in the notice served with the summons, in accordance with that notice, the prosecution in respect of the alleged offence shall be discontinued,]
+
+(*h*) subject to *paragraph (f)*, failure to comply with *section 35(6)* is an offence upon summary conviction of which the registered owner is liable to a fine not exceeding €1,000.
+
+(4) F104[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(a), S.I. No. 242 of 2017.
+>
+> F96: Deleted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(a), S.I. No. 242 of 2017.
+>
+> F97: Inserted (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), s. 77(1)(e), S.I. No. 163 of 2014.
+>
+> F98: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(b), S.I. No. 242 of 2017.
+>
+> F99: Deleted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(c), S.I. No. 242 of 2017.
+>
+> F100: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(d), S.I. No. 242 of 2017.
+>
+> F101: Inserted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(e), S.I. No. 242 of 2017.
+>
+> F102: Inserted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(f), S.I. No. 242 of 2017.
+>
+> F103: Substituted and inserted (1.6.2017) by *Road Traffic Act 2016* (21/2016), s. 25(g), S.I. No. 242 of 2017.
+>
+> F104: Deleted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 25(h), S.I. No. 242 of 2017.
+>
+> F105: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(l)(i), (ii)(I), (II), not commenced as of date of revision.
+>
+> F106: Substituted by *Road Traffic Act 2016* (21/2016), s. 36(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C21: Prospective affecting provision: subs. (3)(d)(i), (ii) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(l)(i), (ii)(I), (II), not commenced as of date of revision.
+>
+> (i) not later than 28 days after the date of the notice, to give or send to a member of the Garda Síochána F105[, an officer of the Revenue Commissioners] or a traffic warden at a specified Garda Síochána station or at another specified place a document in the prescribed form signed by the registered owner and stating the name and address of the person who was driving or otherwise using the vehicle at the time of such commission, and
+>
+> (ii) to give or send to a member of the Garda Síochána F105[, an officer of the Revenue Commissioners] or a traffic warden within such period as may be specified by him or her at a specified Garda Síochána station or another specified place such other information within his or her knowledge or procurement as the member F105[, officer] or warden may reasonably request for the purpose of identifying, and establishing the whereabouts of, the person referred to in *subparagraph (i)*,
+>
+> C22: Prospective affecting provision: subs. (2)(c) and (d) substituted by *Road Traffic Act 2016* (21/2016), s. 36(b), not commenced as of date of revision.
+>
+> (2) If a notice is served under *section 35(1)(a)* or *(9)*, it shall, without prejudice to the generality of *subsection (1)*, contain a statement to the effect that— ...
+>
+> (*c*) if the person does not make the payment specified in *paragraph (b)* during the period so specified, the person may, during the period of 28 days beginning on the expiration of that period, make a payment of a fixed charge as specified in the notice of an amount 50 per cent greater than the prescribed amount referred to in *paragraph (b)*, and
+>
+> (*d*) a prosecution in respect of the alleged offence will not be instituted during the periods specified in the notice or, if a payment so specified in accordance with the notice is made during the appropriate period so specified in relation to the payment, at all.
+>
+> **Editorial Notes:**
+>
+> E55: Power pursuant to subs. (1) exercised (1.06.2017) by *Road Traffic Act 2010 (Section 36(1) (Prescribed Notice) Regulations 2017* (S.I. No. 243 of 2017), in operation as per reg. 2.
+
+### 37. Payment of fixed charge.
+
+**37**.— (1) Where a notice is served or affixed under *section 35(1)* or served under *section 35(9)*—
+
+(*a*) a person or the person to whom the notice applies may, during F107[either 28 day period] specified in the notice and in accordance with the notice, make a payment specified in the notice,
+
+(*b*) the payment—
+
+(i) may be received in accordance with the notice and the person receiving the payment may issue a receipt for it, and
+
+(ii) shall be paid into or disposed of for the benefit of the Exchequer as the Minister for Finance directs,
+
+and shall not be recoverable by the person who made it,
+
+(*c*) a prosecution in respect of the alleged offence to which the notice relates shall not be instituted during F108[either 28 day period specified] in the notice or, if a payment so specified is made F108[during either such period] in accordance with the notice, F109[...] at all,
+
+(*d*) in case the notice is served or affixed under *section 35(1)(b)* and a payment aforesaid in accordance with the notice is so made, the registered owner need not comply with *section 35(6)*, and
+
+(*e*) if the registered owner complies with *section 35 (6)*, the payment aforesaid need not be made by the registered owner and a prosecution of the registered owner in respect of that alleged offence shall not be initiated.
+
+F110[(2) Subject to *section 44*, the payment of a fixed charge shall not be accepted after the expiration of the second 28 day period specified in the fixed charge notice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 26(a), S.I. No. 242 of 2017.
+>
+> F108: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 26(b)(i), (ii), S.I. No. 242 of 2017.
+>
+> F109: Deleted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 26(b)(iii), S.I. No. 242 of 2017.
+>
+> F110: Substituted by *Road Traffic Act 2016* (21/2016), s. 26(c), not commenced as of date of revision.
+>
+> F111: Substituted by *Road Traffic Act 2016* (21/2016), s. 36(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C23: Prospective affecting provision: subs. (1)(a) substituted by *Road Traffic Act 2016* (21/2016), s. 36(c), not commenced as of date of revision.
+>
+> **37**.— (1) Where a notice is served or affixed under *section 35(1)* or served under *section 35(9)*—
+>
+> (*a*) a person or the person to whom the notice applies may, during the period specified in the notice and in accordance with the notice, make a payment specified in the notice, at the appropriate time so specified in relation to the payment,
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E56: Provision for endorsement of penalty points on payment under section made by *Road Traffic Act 2002* (12/2002), s. 2(1) as substituted (25.12.2014) by *Road Traffic (No. 2) Act 2014* (39/2014), s. 2(1), commenced on enactment.
+
+### 38. Presumptions.
+
+**38**.— (1) In a prosecution for a fixed charge offence it shall be presumed, until the contrary is shown, that—
+
+(*a*) the relevant fixed charge notice—
+
+(i) if being served personally or affixed to a vehicle, has been so served or affixed, or
+
+(ii) if being served by post, has been so served where there is proof of posting or delivery of the notice,
+
+and
+
+(*b*) that a payment under the relevant fixed charge notice, accompanied by the notice, duly completed (unless the notice provides for payment without the notice accompanying the payment), has not been made.
+
+(2) In any proceedings in respect of a fixed charge offence a document purporting to be a certificate or receipt of posting or delivery issued by F112[or on behalf of] An Post or another postal service is admissible in evidence as proof of the posting or delivery, as the case may be, of a fixed charge notice F113[...].
+
+(3) Where, in a case to which *section 35(1)(b)* applies, the registered owner of the mechanically propelled vehicle concerned does not give or send in accordance with *section 35(6)* the information specified in *paragraph (b)* of that subsection, then—
+
+(*a*) in a prosecution of that owner for the alleged offence, which is not a penalty point offence, to which the notice under *section 35(1)(b)* relates, it shall be presumed, until the contrary is shown, that he or she was driving or otherwise using the vehicle at the time of the commission of the alleged offence, or
+
+(*b*) in a prosecution of that owner or another person for the alleged offence, which is a penalty point offence, to which the notice under *section 35(1)(b)* relates, it shall be presumed, until the contrary is shown, that—
+
+(i) where the registered owner is an individual, he or she was driving or otherwise using the vehicle, or
+
+(ii) where the registered owner is a body corporate or unincorporated body of persons or has hired out under a hire-drive agreement or leased the vehicle—
+
+(I) the person permitted under an approved policy of insurance or under an agreement, as the case may be, to drive the vehicle was driving or otherwise using the vehicle, or
+
+(II) in the event of being unable to ascertain the identity of that person, the registered owner is deemed to have been driving or otherwise using the vehicle,
+
+at the time of the commission of the alleged offence.
+
+(4) A member of the Garda Síochána may for the purposes of *subsection (3) (b)* request information or cause to be requested by notice served or caused to be served in the manner specified in *section 35 (3)* (including the production for inspection to the member of an approved policy of insurance or an agreement to drive the vehicle, relating to the vehicle concerned) from the registered owner of the vehicle concerned and if the registered owner fails, not later than 28 days after the date of the notice, to give the information or gives information which is false or misleading, the registered owner commits an offence and is liable on summary conviction to a fine not exceeding €5,000.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Inserted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 21(a), S.I. No. 147 of 2014.
+>
+> F113: Deleted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 21(b), S.I. No. 147 of 2014.
+
+### 39. Regulations — information regarding drivers of mechanically propelled vehicles.
+
+**39**.— (1) The Minister may make regulations requiring information to be given to the Minister, a licensing authority or a member of the Garda Síochána for the purposes of *section 38 (3)* and generally ascertaining the names and addresses of persons permitted under approved policies of insurance or agreements or otherwise to drive mechanically propelled vehicles.
+
+(2) A person who fails to give information in accordance with regulations made under *subsection (1)* when requested to do so commits an offence and is liable on summary conviction to a fine not exceeding €5,000.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F114: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(m), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C24: Prospective affecting provision: subs. (1) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(m), not commenced as of date of revision.
+>
+> **39**.—(1) The Minister may make regulations requiring information to be given to the Minister, a licensing authority F114[, an officer of the Revenue Commissioners] or a member of the Garda Síochána for the purposes of *section 38 (3)* and generally ascertaining the names and addresses of persons permitted under approved policies of insurance or agreements or otherwise to drive mechanically propelled vehicles.
+
+### 40. Offences in relation to fixed charge notices.
+
+**40**.— (1) A notice which is affixed to a mechanically propelled vehicle under *section 35(1)* shall not be removed or interfered with except by a person to whom the notice applies.
+
+(2) A person who contravenes *section 35(6)* (subject to *section 37(1)(e)*) or *subsection (1)* commits an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(3) It shall be a defence for a person charged with an offence under *subsection (2)* consisting of a contravention of *section 35(6)* for the person to show that the information concerned was not within his or her knowledge or procurement and that he or she had taken all reasonable steps to obtain the information.
+
+(4) In a prosecution for an offence under *subsection (2)* consisting of a contravention of *section 35(6)*, it shall be presumed, until the contrary is shown, that the accused person was served with the fixed charge notice in accordance with *section 35(1)(b)* to which the offence relates.
+
+(5) In a prosecution of a person for—
+
+(*a*) the alleged offence to which a fixed charge notice, served on the registered owner of a mechanically propelled vehicle, relates, or
+
+(*b*) an offence under *subsection (6)*,
+
+a document, purporting to be a document under *section 35(6)* stating the name and address of the person who was driving or otherwise using the vehicle at the time of the commission of the alleged offence referred to in *paragraph (a)* and to be signed by that registered owner, given or sent under *paragraph (b)* of that subsection by that owner to a member of the Garda Síochána or a traffic warden shall, until the contrary is shown, be deemed to be such a document and to be so signed and, in case the prosecution is for the offence referred to in *paragraph (a)*, shall be admissible as evidence, until the contrary is shown, of the facts stated in it.
+
+(6) A person who, under *section 35(6)*, gives or sends to a member of the Garda Síochána or a traffic warden information (whether or not contained in a document) that is, to his or her knowledge, false or misleading commits an offence and is liable on summary conviction to a fine not exceeding €2,000.
+
+(7) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under *subsection (2)* consisting of a contravention of *section 35(6)* or an offence under *section 38(4)* may be brought at any time within 2 years from the date on which the offence was committed.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F115: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(n)(i), (ii)(I) not commenced as of date of revision.
+>
+> F116: Substituted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(n)(ii)(II), (iii), not commenced as of date of revision. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: subss. (5), (6), (7) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(n)(i), (ii)(I), (II), (iii), not commenced as of date of revision.
+>
+> (5) …
+>
+> a document, purporting to be a document under *section 35(6)* stating the name and address of the person who was driving or otherwise using the vehicle at the time of the commission of the alleged offence referred to in *paragraph (a)* and to be signed by that registered owner, given or sent under *paragraph (b)* of that subsection by that owner to a member of the Garda Síochána F115[, an officer of the Revenue Commissioners] or a traffic warden shall, until the contrary is shown, be deemed to be such a document and to be so signed and, in case the prosecution is for the offence referred to in *paragraph (a)*, shall be admissible as evidence, until the contrary is shown, of the facts stated in it.
+>
+> (6) A person who, under *section 35(6)*, gives or sends to a member of the Garda SíochánaF115[, an officer of the Revenue Commissioners] or a traffic warden information (whether or not contained in a document) that is, to his or her knowledge, false or misleading commits an offence and is liable on summary conviction F116[to a class C fine].
+>
+> (7) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under *subsection (2)* consisting of a contravention of *section 35(6)* F116[“, an offence under *section 38(4)* or an offence under *subsection (6)*] may be brought at any time within 2 years from the date on which the offence was committed.
+
+### 41. Regulations — fixed charge amounts.
+
+**41**.— Regulations may be made by the Minister prescribing the amount of a fixed charge and may prescribe different amounts in relation to—
+
+(*a*) different fixed charge offences,
+
+(*b*) fixed charge offences involving different classes of vehicles, or
+
+(*c*) fixed charge offences committed in different areas.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E57: Power pursuant to section exercised (19.12.2025) by *Road Traffic (Small Public Service Vehicle) (Fixed Charge Offences) Regulations 2025* (S.I. No. 652 of 2025).
+>
+> E58: Power pursuant to section exercised (20.05.2024) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2024* (S.I. No. 227 of 2024).
+>
+> E59: Previous affecting provision: power pursuant to section exercised (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), in operation as per reg. 1(2); revoked (20.05.2024) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2024* (S.I. No. 227 of 2024), reg. 3(b).
+>
+> E60: Previous affecting provision: power pursuant to section exercised (1.02.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2021* (S.I. No. 747 of 2021), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(e), in operation as per reg. 1(2).
+>
+> E61: Previous affecting provision: power pursuant to section exercised (12.11.2019) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) (No. 2) Regulations 2019* (S.I. No. 548 of 2019), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(d), in operation as per reg. 1(2).
+>
+> E62: Previous affecting provision: power pursuant to section exercised (1.11.2019) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2019* (S.I. No. 507 of 2019), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(c), in operation as per reg. 1(2).
+>
+> E63: Previous affecting provision: power pursuant to section exercised (1.03.2018) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) (Amendment) Regulations 2018* (S.I. No. 58 of 2018), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(b), in operation as per reg. 1(2).
+>
+> E64: Previous affecting provision: power pursuant to section exercised (1.06.2017) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2017* (S.I. No. 244 of 2017), in operation as per reg. 2; revoked (27.10.2022) by *Road Traffic Act 2010 (Part 3) (Fixed Charge Offences) Regulations 2022* (S.I. No. 526 of 2022), reg. 5(a), in operation as per reg. 1(2).
+
+### 42. Traffic wardens.
+
+**42**.— (1) (*a*) The Minister may authorise in writing such and so many persons as he or she may determine to perform the functions conferred on traffic wardens by this Part. A person so authorised shall, when performing any such function, if so requested, produce to the person who made the request the authorisation of the Minister under this section or a copy of it.
+
+(*b*) The number of persons standing authorised under this subsection and their remuneration and other conditions of service shall be such as may be determined by the Minister with the consent of the Minister for Finance.
+
+(*c*) Neither the F117[Public Service Management (Recruitment and Appointments) Act 2004] nor the Civil Service Regulation Act 1956 apply to the position of traffic warden.
+
+(*d*) In this subsection, “Minister” means Minister for Justice and Law Reform.
+
+(2) Where a traffic warden has reasonable grounds for believing that a person is committing or has committed a fixed charge offence, the traffic warden may request of the person his or her name and address and, if the person does not comply with the request or gives a name or address that is false or misleading, he or she commits an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 36(d), S.I. No. 242 of 2017.
+
+### 43. Outsourcing.
+
+**43**.— (1) The Minister for Justice and Law Reform may, by an agreement in writing entered into with a person, upon such terms and conditions as may be specified in the agreement, provide for the performance by that person of—
+
+(*a*) the function of the Commissioner in respect of the serving of a document under *section 35(9)*, or
+
+(*b*) any of the functions of a member of the Garda Síochána or a traffic warden under this Part other than the functions specified in *section 35(1).*
+
+(2) An agreement referred to in paragraph *(a)* of *subsection (1)* may apply to the performance of all or any of the functions to which that paragraph refers in respect of all or selected offences in respect of which this section applies.
+
+(3) Section 14(2), (3) and (4) of the Road Traffic Act 2002 apply to any agreement entered into by the Minister for Justice and Law Reform under *subsection (1)(a)*.
+
+### 44. Payment of fixed charge on service of summons.
+
+F118[**44.**— (1) Where a member of the Garda Síochána serves a person with a summons in respect of a fixed charge offence the member shall serve, or cause to be served, on the person, a notice under this section ("*section 44* notice").
+
+(2) A *section 44* notice shall be served with, and in the same manner as, the summons in respect of the fixed charge offence to which the *section 44* notice relates.
+
+(3) A *section 44* notice—
+
+(*a*) shall be in the prescribed form,
+
+(*b*) shall contain details of the manner of payment of a fixed charge,
+
+(*c*) may specify the person to whom, and the place where, the payment is to be made and whether the payment is to be accompanied by the notice, duly completed, and
+
+(*d*) if it relates to a penalty point offence shall—
+
+(i) require such details of the driving licence or learner permit held by the person on whom it is served as specified in the notice, and
+
+(ii) contain a statement to the effect that if the person on whom it is served pays the fixed charge or is convicted of that offence, different specified numbers of penalty points will be endorsed on the entry of the person.
+
+(4) A *section 44* notice shall, without prejudice to the generality of *subsection (1)*, contain a statement to the effect that—
+
+(*a*) the person on whom it is served is alleged to have committed an offence specified in the summons with which it is served,
+
+(*b*) the person may, not later than 7 days before the date specified in the summons on which the person is required to appear in court, make a payment of a fixed charge of an amount stated in the notice in the manner specified in the notice,
+
+(*c*) where the summons relates to a penalty point offence, if the person on whom it is served makes a payment in accordance with *paragraph (b)* or is convicted of that offence, different specified numbers of penalty points will be endorsed on the entry of the person, and
+
+(*d*) if the person pays the fixed charge no proceedings in respect of the alleged offence will be continued and the person need not attend the court on the day specified in the summons.
+
+(5) The fixed charge amount stated in a *section 44* notice shall be an amount 100 per cent greater than the prescribed amount stated in the fixed charge notice served on the person, in accordance with section 35, in respect of the fixed charge offence to which it relates.
+
+(6) Where a *section 44* notice is served the person to whom it applies may, during the period specified in the notice and in accordance with the notice, make a payment specified in the notice.
+
+(7) A payment under this section—
+
+(*a*) may be received only within the period referred to in *subsection (4)(b)* and in accordance with the *section 44* notice, and
+
+(*b*) is not recoverable by the persons paying it.
+
+(8) The person receiving a payment under this section may issue a receipt for it.
+
+(9) Where a person who has been served with a summons accompanied by a *section 44* notice makes a payment of a fixed charge in accordance with the notice, proceedings in respect of the alleged offence to which the notice relates shall be discontinued.
+
+(10) Where a person is served with a summons accompanied by a *section 44* notice in respect of a fixed charge offence, it shall not be a defence for the person served with the summons to show that he or she was not served with a fixed charge notice in respect of the alleged offence in accordance with *section 35*.
+
+(11) In this section "summons" means a summons issued under—
+
+(*a*) section 10 of the Petty Sessions (Ireland) Act 1851, or
+
+(*b*) the Courts (No. 3) Act 1986.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F118: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 27, S.I. No. 242 of 2017.
+>
+> F119: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(o)(i), (ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C26: Prospective affecting provision: subs. (1) amended by *Road Traffic and Roads Act 2023* (16/2023), s. 13(o)(i), (ii), not commenced as of date of revision.
+>
+> **44.**— (1) Where a member of the Garda Síochána F119[or an officer of the Revenue Commissioners] serves a person with a summons in respect of a fixed charge offence the member F119[or officer] shall serve, or cause to be served, on the person, a notice under this section ("*section 44* notice").
+>
+> **Editorial Notes:**
+>
+> E65: Power pursuant to subs. (3) exercised (11.07.2017) by *Road Traffic Act 2010 (Section 44(3)) (Prescribed Notice) Regulations 2017* (S.I. No. 300 of 2017).
+>
+> E66: Provision for endorsement of penalty points on payment under section made by *Road Traffic Act 2002* (12/2002), s. 2(1) as substituted (25.12.2014) by *Road Traffic (No. 2) Act 2014* (39/2014), s. 2(1), commenced on enactment.
+
+### 45. Offence by body corporate.
+
+**45**.— Where an offence under *section 38, 39* or *40(2)* (in respect of contravention of *section 37(1)(e)* of this Act) or section 3(7)(*h*) (inserted by section 23(*c*) of the Act of 2004) of the Act of 1975 is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons and it is proved to have been so committed with the consent or connivance of or to be attributable to any wilful neglect on the part of any other person who, when the offence was committed, was, or purported to act as, a director, manager, secretary or other officer (including a member of any committee of management or other controlling authority) of such body, such other person as well as the body, or the person so purporting to act on behalf of the body, commits an offence and is liable to be proceeded against and punished as if he or she committed the first-mentioned offence.
+
+### 46. Fixed charge notice — traffic wardens.
+
+**46**.— Section 3 F120[...] of the Local Authorities (Traffic Wardens) Act 1975 is amended by substituting for subsection (2) (inserted by section 12 of the Act of 2002) the following:
+
+“(2) Where a traffic warden has reasonable grounds for believing that a fixed charge offence is being or has been committed by a person—
+
+(*a*) if the warden identifies the person, the warden may serve, or cause to be served, personally or by post, on the person a notice under this section, or
+
+(*b*) if the warden does not identify the person and the offence involves the use of a mechanically propelled vehicle, the warden may—
+
+(i) serve, or cause to be served, personally or by post, on the registered owner of the vehicle a notice under this section, or
+
+(ii) affix such a notice to the vehicle.
+
+(2A) A prosecution in respect of a fixed charge offence shall not be instituted unless a notice under this section in respect of the alleged offence has been served on the person concerned under this section and the person fails to pay the fixed charge in accordance with the notice.”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F120: Deleted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(i), S.I. No. 542 of 2011.
+
+### 47. Interpretation.
+
+F121[**47.**— (1) In this Part—
+
+“entry” has the meaning assigned to it by section 1(1) of the Act of 2002;
+
+“fixed charge” means the amount of a fixed charge prescribed under *section 41*;
+
+“fixed charge notice” means a notice served under *section 35*;
+
+“fixed charge offence” means an offence referred to in *section 34*;
+
+“penalty point” has the meaning assigned to it by section 1(1) of the Act of 2002;
+
+“penalty point offence” has the meaning assigned to it by section 1(1) of the Act of 2002;
+
+“section 44 notice” has the meaning assigned to it by *section 44*;
+
+“traffic warden” means a person standing authorised under *section 42(1)*.
+
+(2) In this Part, references to a fixed charge notice under this section, duly completed, are references to such a notice on which the number, the date of the grant, and the period of validity of the driving licence of the person to whom the notice relates have been inserted by or on behalf of the person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 28, S.I. No. 242 of 2017.
+>
+> F122: Inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(p), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C27: Prospective affecting provision: definition inserted by *Road Traffic and Roads Act 2023* (16/2023), s. 13(p), not commenced as of date of revision.
+>
+> F122[“an officer of the Revenue Commissioners” means an officer of the Revenue Commissioners authorised by them for the purposes of this Part.]
+
+### 48. Transitional measure — onus of proof in respect of named driver and discharge duties of registered owner — section 103(4) of Principal Act.
+
+**48**.— F123[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F123: Repealed (1.06.2017) on coming into force of s. 35, as per subs. (4) (of this section: (4) This section stands repealed on the commencement of *section 35*.
+>
+> **Editorial Notes:**
+>
+> E67: Previous affecting provision: subs. (2) amended (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(j), S.I. No. 542 of 2011; section repealed as per F-note above.
+
+### 49. Repeals — Part .
+
+**49**.— The following are repealed:
+
+(*a*) section 103 of the Principal Act,
+
+(*b*) section 11 of the Act of 2002,
+
+(*c*) sections 18, 19 and 20 of the Act of 2004, and
+
+(*d*) section 14 of the Act of 2006.
+
+### 49A. Fixed charge offences - transitional provisions
+
+F124[**49A.**— (1) Section 103 of the Principal Act and sections 19 and 20 of the Act of 2004 shall, notwithstanding *section 49*, apply to a fixed charge offence (within the meaning of section 103 of the Principal Act) committed before *section 34* comes into operation.
+
+(2) Notwithstanding *section 48(4)*, that section shall continue to apply in respect of a fixed charge offence (within the meaning of section 103 of the Principal Act) committed before *section 34* comes into operation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F124: Inserted (1.06.2017) by *Road Traffic Act 2016* (21/2016), s. 29, S.I. No. 242 of 2017.
+
+## PART 4 Payment Deposit — PART 4 — Payment Deposit
+
+### 50. Payment deposit from non-resident drivers in respect of certain alleged offences.
+
+**50**.— (1) This section applies to such offences under—
+
+(*a*) the *Road Traffic Acts 1961 to 2010*,
+
+(*b*) the Road Transport Act 1933 (including any Act construed as one with it),
+
+(*c*) any regulation made under the European Communities Act 1972 providing for the carriage of merchandise by road or the carriage of passengers by road or the harmonisation of certain legislation relating to road transport, or
+
+(*d*) any enactment or any instrument made under any enactment relating to the carriage of goods or passengers by road or to any vehicle or class of vehicles engaged in such carriage,
+
+as may be prescribed.
+
+(2) Where—
+
+(*a*) a member of the Garda Síochána or a transport officer has reasonable grounds for believing that an offence to which this section applies is being or has been committed by a person, and
+
+(*b*) the person does not give to the member or officer an address in the State at which the member or officer is satisfied that it is likely that it would be possible to find the person whenever necessary to do so in connection with any proceedings in respect of the alleged offence,
+
+then the member or officer may, subject to *subsection (3)*, serve personally on the person a notice (in this section referred to as a “payment deposit notice”) in accordance with this section.
+
+(3) Where a payment deposit notice is served on a person, the person shall—
+
+(*a*) be informed by the member of the Garda Síochána or the transport officer serving the notice that it is likely that proceedings will be brought against the person in respect of the alleged offence, or
+
+(*b*) if the offence is a fixed charge offence, be served with a fixed charge notice by the member or officer or informed by the member or officer that it is intended to serve the person with a fixed charge notice.
+
+(4) A person on whom a payment deposit notice has been served under *subsection (2)* who—
+
+(*a*) resides outside the State, shall give to the member or officer serving the notice the address outside the State at which he or she resides or which is his or her most usual place of abode, or
+
+(*b*) in a case where the alleged offence involves the use of a mechanically propelled vehicle by the person in the course of his or her employment, has no habitual residence or place of abode outside the State, shall give to the member or officer serving the notice the address of his or her employer.
+
+(5) A payment deposit notice shall be in the prescribed form.
+
+(6) A payment deposit notice shall—
+
+(*a*) require the person to pay an amount (in this section referred to as a “payment deposit”) in accordance with the requirements of regulations under *subsection (7)*, and
+
+(*b*) contain details of those requirements.
+
+(7) The Minister may by regulations provide in relation to a payment deposit for all or any of the following:
+
+(*a*) the amount to be paid and different amounts may be prescribed in relation to different offences, calculated in respect of an offence as a proportion of the maximum fine that may be imposed in relation to the offence or, if the offence is a fixed charge offence, the amount of the fixed charge or a specified proportion of it;
+
+(*b*) the timing, method or manner of payment or appropriate arrangements for making payment or matters relating thereto;
+
+(*c*) whether the payment is to be accompanied by the notice and, if so, the details to be completed on the notice;
+
+(*d*) options for payment (including the possibility of cash payment where in the circumstances and at the material time another means of payment is not possible) so as not to unduly delay a person, who is willing to pay the payment deposit, on his or her journey;
+
+(*e*) the issue of a receipt in respect of payment;
+
+(*f*) applications for refunds of payment deposits, including time limits for such applications;
+
+(*g*) the refund of payment deposits, in whole or in part;
+
+(*h*) directions which may be given by a member of the Garda Síochána or a transport officer in connection with matters relating to payment, the arrangements for making payments or the vehicle concerned or any load on it;
+
+(*i*) any other requirements relating to payment of the payment deposit, as the Minister considers appropriate.
+
+(8) A person who fails or refuses to—
+
+(*a*) pay a payment deposit in accordance with the requirements of regulations under *subsection (7)*, or
+
+(*b*) give an address for the purposes of *subsection (4)*,
+
+is liable to have—
+
+(i) a notice (in this section referred to as a “prohibition notice”) served personally on him or her by a member of the Garda Síochána or a transport officer, as may be appropriate, or a nominated person at the request of the member or officer, prohibiting the movement of the vehicle concerned other than in accordance with the directions of any such member or officer, and
+
+(ii) in accordance with regulations under *subsection (10)*—
+
+(I) affixed to the vehicle an immobilisation device and a notice (referred to in this section as an “immobilisation notice”) stating that the vehicle has been immobilised and shall not be moved, and
+
+(II) the vehicle detained or impounded,
+
+until payment or a satisfactory arrangement for payment is made in accordance with the directions of a member of the Garda Síochána or a transport officer or the address is given, as the case may be.
+
+(9) (*a*) A prohibition notice and an immobilisation notice shall be in the prescribed form.
+
+(*b*) The Minister may prescribe such persons or class of persons who may be nominated persons for the purposes of *subsection (8)*.
+
+(10) For the purposes of this section, the Minister may by regulations provide for all or any of the following:
+
+(*a*) matters relating to the immobilisation, detention and impounding of a vehicle, including the release of the vehicle upon payment of the payment deposit concerned and any release and storage fee and, where the payment deposit remains unpaid, the disposal of the vehicle and any load on it and any fees relating thereto;
+
+(*b*) satisfactory arrangements for payment, after any deduction for fees referred to in *paragraph (a)*, where appropriate, of the amount obtained from disposal of the vehicle or its load, to the appropriate person;
+
+(*c*) the recovery of the difference from the appropriate person, if the amount obtained after such disposal is less than the amount due for fees referred to in *paragraph (a)*.
+
+(11) A member of the Garda Síochána or a transport officer may, for the purposes of this section and any regulations made under it, give directions to the driver or person in charge of a vehicle served with a payment deposit notice or a prohibition notice (including directions requiring or permitting the movement of the vehicle to such place as the member or officer may direct).
+
+(12) A person who fails to comply with a direction under this section commits an offence and is liable on summary conviction to a fine not exceeding €2,000.
+
+(13) A person who, without the permission of a member of the Garda Síochána or a transport officer—
+
+(*a*) drives or attempts to drive a vehicle—
+
+(i) in respect of which a prohibition notice has been served, or
+
+(ii) to which an immobilisation notice has been affixed or which has been immobilised, detained or impounded,
+
+under *subsection (8)*, or
+
+(*b*) where the vehicle has been immobilised, detained or impounded under *subsection (8)*, interferes with or removes any immobilisation device attached to the vehicle, or removes or attempts to remove the vehicle,
+
+commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(14) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+
+(15) Where a person who has paid a payment deposit and has also been served with a fixed charge notice relating to the same alleged offence agrees to make payment of the fixed charge specified in the fixed charge notice, any amount paid by the person in respect of the payment deposit shall be deemed to be payment or part payment, as the case may be, made in respect of the fixed charge. The remainder (if any) shall be returned to the person.
+
+(16) Where, in proceedings for an offence to which this section applies, a person is convicted, any payment deposit he or she has paid shall be applied towards payment of any fine imposed. The remainder (if any) shall be returned to the person in accordance with regulations under *subsection (7)*.
+
+(17) Where, in proceedings for an offence to which this section applies, the person is not convicted any payment deposit he or she has paid shall be returned to the person in accordance with regulations under *subsection (7)*.
+
+(18) Where proceedings are not brought or, if brought, are withdrawn or otherwise discontinued in respect of an offence to which this section applies, any payment deposit paid by the person concerned shall be returned to the person in accordance with regulations under *subsection (7)*.
+
+(19) A transport officer when exercising any power conferred on him or her under this section shall produce his or her warrant of appointment as such under section 15(1) (inserted by section 117 of the Dublin Transport Authority Act 2008) of the Road Transport Act 1986.
+
+(20) In this section—
+
+“fixed charge”, “fixed charge notice” and “fixed charge offence” have the meanings given to them, respectively, in *section 47*;
+
+“prescribed” means prescribed by regulations;
+
+“regulations” means regulations made by the Minister;
+
+“transport officer” means a person appointed under section 15(1) (inserted by section 117 of the Dublin Transport Authority Act 2008) of the Road Transport Act 1986 to be a transport officer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Inserted by *Road Traffic Act 2016* (21/2016), s. 38, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C28: Prospective affecting provision: subss. (2A), (2B) inserted by *Road Traffic Act 2016* (21/2016), s. 38, not commenced as of date of revision.
+>
+> (2A) A person on whom a payment deposit notice is or has been served under *subsection (2)* shall pay the amount of the payment deposit to be paid in accordance with regulations under *subsection (7)*.
+>
+> (2B) A member of the Garda Síochána or transport officer when serving a payment deposit notice on a person under *subsection (2)* shall inform the person that he or she is required to pay the amount of the payment deposit specified to be paid in regulations under *subsection (7)*.
+
+### 51. Prosecution in absentia.
+
+**51**.— (1) Where, at any stage of proceedings to which this section applies, a person fails, without reasonable excuse, to appear before the court before which the proceedings are for the time being taking place, the court may do any thing or make any order that it would be entitled to do or make had the person so appeared.
+
+(2) Where, by virtue of a person’s failure to appear in proceedings to which this section applies, the person does not enter a plea (whether before the District Court or the trial judge), the trial of the person may proceed as though he or she had entered a plea of not guilty.
+
+(3) This section applies to proceedings for an offence to which *section 50* applies brought against a person upon whom—
+
+(*a*) a payment deposit notice under that section has been served, and
+
+(*b*) a document in respect of those proceedings has been served—
+
+(i) in accordance with subsection (1) of section 81 of the Act of 2008,
+
+(ii) otherwise than by post, pursuant to a request referred to in subsection (2) of that section, or
+
+(iii) in accordance with an arrangement to which subsection (4) of that section applies.
+
+(4) In this section—
+
+“Act of 2008” means the Criminal Justice (Mutual Assistance) Act 2008;
+
+“document” means a document—
+
+(*a*) to which subsection (1) of section 80 of the Act of 2008 applies, and
+
+(*b*) that requires a person to appear as a defendant in proceedings for an offence.
+
+### 52. Regulations (Part 4).
+
+**52**.— (1) The Minister may make regulations to do anything that appears necessary or expedient for bringing this Part into operation.
+
+(2) Where a provision of this Part requires or authorises the Minister to make regulations, such regulations—
+
+(*a*) may make different provision for different circumstances or cases, classes or types, and
+
+(*b*) may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) The Minister may make regulations prescribing any matter or thing which is referred to in this Part as prescribed or to be prescribed.
+
+(4) Regulations under this Part shall be laid before each House of the Oireachtas as soon as may be after they are made and if a resolution annulling the regulations is passed by either House within the next 21 days on which that House has sat after the regulations are laid before it, the regulations shall be annulled accordingly but without prejudice to the validity of anything previously done under the regulations.
+
+## PART 5 Penalty Points — PART 5 — Penalty Points
+
+### 53. Penalty points — endorsement of points.
+
+**53**.—F126[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Repealed (1.08.2014) by *Road Traffic Act 2014* (3/2014), s. 7, S.I. No. 147 of 2014.
+
+### 54. Amendment of First Schedule to Act of 2002 — penalty points.
+
+**54**.— The First Schedule to the Act of 2002 is amended—
+
+(*a*) in Part 1, by substituting for the matter at reference number 9 the following:
+
+“
+
+| 9 | Offence under section 52 of the Road Traffic Act 1961, where the contravention involved the use of a mechanically propelled vehicle, tried summarily | Careless driving |  | 3 |
+|---|---|---|---|---|
+
+”,
+
+(*b*) in Part 2 (as amended by section 16 of the Act of 2006)—
+
+(i) by substituting reference numbers 4 to 8 for “reference numbers 1 to 8” in paragraph (2), and
+
+(ii) by deleting the matter at reference numbers 1, 2 and 3,
+
+and
+
+(*c*) F127[...]
+
+(*d*) by inserting after Part 8 (inserted by section 16(*e*) of the Act of 2006) the following:
+
+“PART 9
+
+Contravention of Certain Provisions of the Road Traffic (Construction and Use of Vehicles) Regulations 2003 (S.I. No. 5 of 2003)
+
+In this Part—
+
+(*a*) ‘offence’ means an offence under section 11 of the Principal Act,
+
+(*b*) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction and Use of Vehicles) Regulations 2003 (S.I. No. 5 of 2003).
+
+| Reference Number | Offence | General Description of Offence | Penalty Points on Payment of Fixed Charge | Penalty Points on Conviction |
+|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) |
+| 1 | Offence consisting of contravention of Regulation 26 or 27 | Using a vehicle which exceeds the maximum permissible width | 1 | 3 |
+| 2 | Offence consisting of contravention of Regulation 28, 29, 30 or 31 | Using a vehicle which exceeds the maximum permissible length | 1 | 3 |
+| 3 | Offence consisting of contravention of Regulation 55 | Using a vehicle with defective or worn tyres | 2 | 4 |
+
+”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Deleted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 9, S.I. No. 147 of 2014.
+
+### 55. Probation of Offenders Act 1907 not to apply to penalty point offences.
+
+**55**.— Section 1(1) of the Probation of Offenders Act 1907 does not apply to a penalty point offence (within the meaning of section 1(1) of the Act of 2002).
+
+## PART 6 Driving Licence — PART 6 — Driving Licence
+
+### 56. Definitions — driving licence.
+
+**56**.— Section 3(1) of the Principal Act is amended by—
+
+(*a*) substituting for the definition of “driving licence” the following:
+
+“ ‘driving licence’ means—
+
+(*a*) an Irish driving licence, or
+
+(*b*) a foreign driving licence;”,
+
+(*b*) inserting after the definition of “footway” the following:
+
+“ ‘foreign driving licence’ means a licence or permit to drive a mechanically propelled vehicle—
+
+(*a*) in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 (S.I. No. 464 of 2008) issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle, or
+
+(*b*) recognised by an order made under section 23A(1);”,
+
+and
+
+(*c*) inserting after the definition of “the insured” the following:
+
+“ ‘Irish driving licence’ means a driving licence (within the meaning of section 22(1)) granted by a licensing authority under section 23;”.
+
+### 57. Matters relating to issue of Irish driving licences and learner permits.
+
+**57**.— (1) The following sections are substituted for sections 21 to 23 of the Principal Act—
+
+“Licensing Authority.
+
+21.— In this Part ‘licensing authority’ means a county council or city council (within the meaning of the Local Government Act 2001).
+
+Application for Irish driving licence.
+
+22.— (1) Subject to this Part, a person may apply to a licensing authority for a licence (‘Irish driving licence’) to drive a mechanically propelled vehicle of a specified category.
+
+(2) An application for an Irish driving licence—
+
+(*a*) shall be made—
+
+(i) to the licensing authority in whose functional area the applicant ordinarily resides, and
+
+(ii) in accordance with the regulations made under section 42(2)(*c*),
+
+(*b*) shall be accompanied by—
+
+(i) any certificate of competency or fitness required under regulations under this Act, and
+
+(ii) the fee payable on the taking out of such a licence,
+
+and
+
+(*c*) shall contain—
+
+(i) a recent photograph of the applicant, and
+
+(ii) the applicant’s personal public service number allocated and issued to him or her under section 262(2) of the Social Welfare Consolidation Act 2005.
+
+(3) Details of an applicant’s personal public service number referred to in subsection (2)(*c*) may be entered in licence records.
+
+(4) (*a*) A person to whom this subsection applies may inspect and examine licence records and may take, or be supplied by the Minister or the licensing authority concerned, as may be appropriate, with—
+
+(i) such information from the records, and
+
+(ii) such copies of licence records or of such extracts from such records,
+
+as the person may reasonably require.
+
+(*b*) This subsection applies to—
+
+(i) persons or categories of person with the approval of the Minister in fulfilling obligations under European Union and other international enactments and agreements for the exchange of driver and vehicle information, and
+
+(ii) such other categories of person and the purpose for such access as may be prescribed.
+
+(5) In this section ‘licence records’ means records maintained under section 60 (as amended by section 86 of the Finance Act 1994) of the Finance Act 1993.
+
+Disqualification for applying for Irish driving licence or learner permit if disqualified for holding such.
+
+22A.— (1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
+
+(*a*) whatsoever during a period, he or she shall be disqualified for applying for any Irish driving licence or learner permit whatsoever, or
+
+(*b*) in respect of vehicles of a category during a period, he or she shall be disqualified for applying for an Irish driving licence or a learner permit in respect of vehicles of that category,
+
+for that period or any period the whole or part of which is within that period.
+
+(2) Where a person is disqualified for applying for any Irish driving licence or learner permit—
+
+(*a*) whatsoever for a period, he or she shall not apply for any such licence or permit whatsoever for that period,
+
+(*b*) in respect of a category of vehicle for a period, he or she shall not apply for such a licence or permit in respect of that category, for that period,
+
+and, if he or she does so and obtains such a licence or permit on the application, it is void and of no effect.
+
+Prohibition on applying for another Irish driving licence or learner permit in respect of a licence or permit already held in respect of vehicle.
+
+22B.— Where a person has been granted an Irish driving licence or a learner permit in respect of vehicles of a category for a period, he or she is disqualified for applying for an Irish driving licence or a learner permit in respect of vehicles of that category for that period or any part of it.
+
+Grant of Irish driving licence.
+
+23.— (1) Where an application is duly made for an Irish driving licence, the licensing authority shall grant the licence unless it appears to them—
+
+(*a*) that the applicant is disqualified for applying for the licence, or
+
+(*b*) that, having regard to the particulars contained in the application, the applicant has not a satisfactory knowledge of the Rules of the Road.
+
+(2) Subject to this Part and any regulations under it, an Irish driving licence shall be granted for a period of 12 months or such longer period as may be prescribed beginning on—
+
+(*a*) in case the licence is granted during a period during which an Irish driving licence previously granted to the applicant remains unexpired — the day following the expiration of the driving licence previously granted, and
+
+(*b*) in any other case — the day on which the licence is granted.”.
+
+(2) Sections 24 and 25 of the Principal Act are repealed.
+
+(3) Section 34(2)(*b*) of the Principal Act is amended by substituting “Irish driving licence” for “driving licence”.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C29: References to “county council” or “city council” construed (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 9(2), S.I. No. 214 of 2014.
+>
+> **Cesser and amalgamation of certain local government areas**
+>
+> **9.—**...
+>
+> (2) Except where otherwise provided for by this Act, a reference, however expressed, in any enactment—
+>
+> (a) to a county council or a city council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a county council or to a city council, as the case may be) shall, if the context permits, be read as a reference to a county council, a city council or a city and county council, and
+>
+> (b) to a county council and a city council (including a reference so construed) shall, if the context permits, be read as a reference to a county council, a city council and a city and county council.
+>
+> ...
+
+### 58. Prohibition on applying for Irish driving licence or learner permit where disqualified.
+
+**58**.— The following section is substituted for section 39 of the Principal Act:
+
+“39.— (1) A person shall not apply for an Irish driving licence or a learner permit if he or she is disqualified for applying therefor.
+
+(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.”.
+
+### 59. Production of driving licence on demand of member of Garda Síochána.
+
+**59**.— (1) The following section is substituted for section 40 (inserted by section 25 of the Act of 1994 as amended by section 18 of the Act of 2002 and section 13 of the Act of 2006) of the Principal Act:
+
+“40.— (1) A member of the Garda Síochána may demand of a person—
+
+(*a*) driving in a public place a mechanically propelled vehicle, or
+
+(*b*) accompanying under regulations under this Act the holder of a learner permit while such holder is driving in a public place a mechanically propelled vehicle,
+
+the production to him or her for his or her inspection of a driving licence then having effect and licensing the person to drive the vehicle. If the person refuses or fails so to produce the licence there and then, he or she commits an offence.
+
+(2) A member of the Garda Síochána may demand of a person who is driving in a public place a mechanically propelled vehicle and is not the holder of a driving licence the production to him or her for his or her inspection of a learner permit then having effect and licensing the person to drive the vehicle. If the person refuses or fails so to produce the learner permit and is a person falling within section 35(1), he or she commits an offence.
+
+(3) Where a person who is driving in a public place a mechanically propelled vehicle and of whom the production of a driving licence is demanded under paragraph (*a*) of subsection (1) or is required under subsection (4)(*a*) produces, in accordance with the demand or requirement, a learner permit then having effect and licensing the person to drive the vehicle concerned, the person has not committed an offence under subsection (1) or (4)(*a*), as the case may be.
+
+(4) (*a*) Where a person of whom the production of a driving licence or learner permit is demanded under this section refuses or fails to produce the licence or permit there and then, a member of the Garda Síochána may require the person to produce within 10 days after the date of the requirement the licence or permit in person to a member of the Garda Síochána at a Garda Síochána station to be named by the person at the time of the requirement. If the person refuses or fails so to produce the licence, he or she commits an offence.
+
+(*b*) In any proceedings a certificate, purporting to be signed by the member in charge of the Garda Síochána station at which the defendant concerned was required, under paragraph (*a*), to produce the driving licence or learner permit, stating that the defendant did not, within 10 days after the day on which the production was required, produce a driving licence or learner permit in accordance with paragraph (*a*) shall, without proof of the signature of the person purporting to sign the certificate or that he or she was the member in charge of the Garda Síochána station, be evidence, until the contrary is shown, of the facts stated in the certificate.
+
+(*c*) Where any person is required to produce a driving licence or learner permit at a Garda Síochána station and the person produces the licence or permit within 10 days after the day on which the production was required, the member in charge of the Garda Síochána station shall issue a certificate stating that the licence or permit was so produced and such certificate shall be evidence of the facts stated in the certificate.
+
+(5) Where a person of whom the production of a driving licence or learner permit is demanded or required under this section produces the licence or permit in accordance with the demand or requirement, but refuses or fails to permit the member of the Garda Síochána to whom it is produced to read the licence or permit, he or she commits an offence.
+
+(6) Where a person of whom the production of a driving licence or learner permit is demanded or required under this section refuses or fails so to produce the licence or permit or produces the licence or permit but refuses or fails to permit the member of the Garda Síochána to whom it is produced to read the licence or permit, the member may demand of the person his or her name and address and date of birth and, if the person refuses or fails to give to the member his or her name and address or date of birth or gives to the member a name or address or date of birth which is false or misleading, he or she commits an offence.
+
+(7) A member of the Garda Síochána may arrest without warrant—
+
+(*a*) a person who under this section produces a driving licence or learner permit to the member but refuses or fails to permit the member to read it, or
+
+(*b*) a person who, when his or her name and address or date of birth is lawfully demanded of him or her by the member under this section, refuses or fails to give to the member his or her name and address or date of birth or gives to the member a name or address or date of birth which the member has reasonable grounds for believing to be false or misleading.
+
+(8) A person who, when the production of a driving licence or learner permit is demanded or required of him or her under this section, does not produce the licence or permit because he or she is not the holder of a driving licence or learner permit is deemed to fail to produce his or her driving licence or learner permit, as the case may be, under this section.”.
+
+(2) The following are repealed:
+
+(*a*) section 25 of the Act of 1994,
+
+(*b*) section 18 of the Act of 2002, and
+
+(*c*) section 13 of the Act of 2006.
+
+### 60. Member of Garda Síochána may seize licence in certain circumstances.
+
+**60**.— (1) A member of the Garda Síochána may seize a driving licence or learner permit or a document which purports to be a driving licence or learner permit produced to him or her under section 40 of the Principal Act or *section 61* of this Act, where the member has reasonable grounds for believing that—
+
+(*a*) the holder of the licence or permit has been disqualified for holding a driving licence, or
+
+(*b*) the driving licence or permit has been fraudulently obtained, is forged or altered or purports to be, but is not, a driving licence or permit.
+
+F128[(1A) Notwithstanding *subsection (1)* a member of the Garda Síochána may, in the case of a licence referred to in *paragraph (d)* of the definition of driving licence in *subsection (6A)*, seize, under this section, only the document referred to in *subparagraph (i)* of that paragraph.]
+
+(2) A member of the Garda Síochána who has seized a licence or permit under *subsection (1)* may make a copy of it and—
+
+(*a*) in the case of an Irish driving licence or learner permit, return it to the licensing authority F132[...],
+
+(*b*) in the case of a foreign licence F129[referred to in *paragraph (b)* or *(c)* of the definition of driving licence in *subsection (6A)*], give or send it—
+
+(i) where the holder of the licence is resident in the State, to the licensing authority F132[...], or
+
+(ii) in any other case, to the issuing authority where the licence is seized or, if the member considers it appropriate, to F133[the] licensing authority at the request of the holder,
+
+F130[(*ba*) in the case of a foreign licence referred to in *paragraph (d)* of the definition of driving licence in *subsection (6A)*, give or send only the document referred to in *subparagraph (i)* of that paragraph, to the licensing authority.]
+
+(*c*) where the licence or permit is as referred to in *subsection (1)(b)*, upon the conclusion of any proceedings have it destroyed.
+
+(3) Where a driving licence or learner permit has been seized from a person under *subsection (1)*, the person, as the case may be, shall not continue to drive a mechanically propelled vehicle or accompany the holder of a learner permit while such holder is driving a mechanically propelled vehicle, in a public place.
+
+(4) A person who contravenes *subsection (3)* commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under *subsection (4)*.
+
+(6) A member of the Garda Síochána to whom is produced or who seizes under this section a foreign driving licence which is in a language other than English or Irish may detain the licence for such reasonable period required—
+
+(*a*) to have its contents translated into English or Irish, and
+
+(*b*) if the member requires it, to have its validity confirmed.
+
+F131[(6A) In this section—
+
+"driving licence", notwithstanding the definition of driving licence in section 3 of the Principal Act, means—
+
+(*a*) an Irish driving licence,
+
+(*b*) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle,
+
+(*c*) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle recognised by an order made under section 23A(1) of the Principal Act, or
+
+(*d*) both—
+
+(i) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle recognised by an order made under section 23B(1) of the Principal Act, and
+
+(ii) the permission to reside given to a relevant person who holds a licence or permit referred to in *subparagraph (i)*;
+
+"licensing authority" has the meaning given to it by section 21 of the Principal Act;
+
+"permission to reside" means a permission under section 60(6) of the International Protection Act 2015, which permission is valid;
+
+"relevant person" means a person who has been given a permission to reside.]
+
+(7) F134[Section 41(1)] (as amended by section 19 of the Act of 2006) of the Act of 1994 is amended by substituting for paragraph (*a*) the following:
+
+“(*a*) the person driving the vehicle—
+
+(i) refuses or fails to produce there and then a driving licence or learner permit then having effect and licensing him or her to drive the vehicle, when production of such a licence is demanded of him or her by a member of the Garda Síochána under section 40 of the Principal Act or *section 61* of the *Road Traffic Act 2010* and the member is of opinion that the person is by reason of his or her age ineligible to hold a driving licence or learner permit licensing him or her to drive the vehicle,
+
+(ii) has had a driving licence or learner permit seized from him or her under *section 60* of the *Road Traffic Act 2010*, or
+
+(iii) is, in the opinion of a member of the Garda Síochána, disqualified for holding a driving licence or learner permit,”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128, F129, F130, F131: Inserted (27.07.2022) by *Civil Law (Miscellaneous Provisions) Act 2022* (19/2022), s. 47(a)(i), (ii)(I), (II), (iii), S.I. No. 390 of 2022.
+>
+> F132: Deleted (12.01.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 54(b)(i), (ii), S.I. No. 5 of 2013.
+>
+> F133: Substituted (12.01.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 54(b)(iii), S.I. No. 5 of 2013.
+>
+> F134: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(k), S.I. No. 542 of 2011.
+
+### 61. Production of driving licence to member of Garda Síochána subsequent to commission of road traffic offence.
+
+**61**.— (1) Where a member of the Garda Síochána has reasonable grounds for believing that—
+
+(*a*) a mechanically propelled vehicle has been used in a public place on a particular occasion,
+
+(*b*) the use may have involved the commission of an offence under the F135[*Road Traffic Act 1961 to 2023*] (including a case in which the member has himself or herself observed the use), and
+
+(*c*) the actual user of the vehicle was a particular person,
+
+the member may at any time or times subsequent to the occasion in question require of the person the production of, to a member of the Garda Síochána for his or her inspection, a driving licence or, if the person falls within section 35(1) of the Principal Act, a learner permit, having effect and licensing the person to drive the vehicle used on the occasion in question, at a Garda Síochána station or another place specified by the member, within the period of 10 days of the date of making the requirement.
+
+(2) A person who fails to comply with a requirement under *subsection (1)* commits an offence.
+
+F136[(3) Where a person of whom the production of a driving licence or learner permit is required under this section refuses or fails so to produce the licence or permit or produces the licence or permit but refuses or fails to permit the member of the Garda Síochána to whom it is produced to read it, the member may demand of the person his or her name and address and date of birth and, if the person refuses or fails to give to the member his or her name and address and date of birth or gives to the member a name or address or date of birth which is false or misleading, he or she commits an offence.]
+
+(4) A member of the Garda Síochána may arrest without warrant—
+
+(*a*) a person who under this section produces a driving licence or learner permit to the member but refuses or fails to permit the member to read it, or
+
+F136[(*b*) a person who, when his or her name and address and date of birth are lawfully demanded of him or her by the member under this section, refuses or fails to give to the member his or her name and address and date of birth or gives to the member a name or address or date of birth which the member has reasonable grounds for believing to be false or misleading.]
+
+(5) In any proceedings a certificate, purporting to be signed by the member in charge of the Garda Síochána station at which the defendant concerned was required, under *subsection (1)*, to produce the driving licence or learner permit, stating that the defendant did not, within 10 days after the day on which the production was required, produce a driving licence in accordance with that subsection shall, without proof of the signature of the person purporting to sign the certificate or that he or she was the member in charge of the Garda Síochána station, be evidence, until the contrary is shown, of the facts stated in the certificate.
+
+(6) Where any person is required to produce a driving licence or learner permit at a Garda Síochána station and the person produces the licence or permit within 10 days after the day on which the production was required, the member in charge of the Garda Síochána station shall issue a certificate stating that it was so produced and such certificate shall be evidence of the facts stated in the certificate.
+
+(7) A person who, when the production of a driving licence or learner permit is required of him or her under this section, does not produce the licence or permit because he or she is not the holder of such is deemed to fail to produce his or her driving licence or learner permit within the meaning of *subsection (1)*.
+
+(8) A requirement under this section shall not be made after the time in which proceedings may be brought in respect of the alleged offence.
+
+F137[(8A) In this section—
+
+"driving licence" has the meaning given to it by *section 60(6A)*;
+
+"permission to reside" means a permission under section 60(6) of the International Protection Act 2015, which permission is valid;
+
+"relevant person" means a person who has been given a permission to reside.]
+
+(9) Section 33 of the Act of 2004 is repealed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F135: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(i), S.I. No. 392 of 2023.
+>
+> F136: Substituted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(l)(i), (ii), S.I. No. 542 of 2011.
+>
+> F137, F138: Inserted (27.07.2022) by *Civil Law (Miscellaneous Provisions) Act 2022* (19/2022), s. 47(b), S.I. No. 390 of 2022.
+
+### 62. Obligation to give current address to member of Garda Síochána.
+
+**62**.— (1) Where a person, on the demand or at the requirement of a member of the Garda Síochána under section 40 of the Principal Act or a requirement of such a member under *section 61 (1)* of this Act, produces for inspection a driving licence or learner permit under that provision, the member making the demand or requirement of the person, where it is produced for inspection to him or her or, where it is produced for inspection at a Garda Síochána station, the member of the Garda Síochána at the Garda Síochána station to whom it is produced for inspection, as the case may be, may require of the person to state whether the address mentioned on the driving licence or learner permit is the address at which the person currently resides, and if it is not, to require the person to give to the member the address at which he or she currently resides.
+
+(2) A person who fails to comply with a requirement under *subsection (1)* commits an offence.
+
+### 63. Production of driving licence to court.
+
+**63**.— Section 22 (inserted by section 21 of the Act of 2004) of the Act of 2002 is amended by substituting for subsection (1) the following:
+
+“22.— (1) A person who it is alleged has committed an offence or has been charged with the commission of an offence under the *Road Traffic Acts 1961 to 2010* other than—
+
+(*a*) section 84 (inserted by section 15 of the Act of 2002), section 85 (inserted by section 16 of the Act of 2002) or section 101 of the Principal Act, or
+
+(*b*) section 35 (in so far as it relates to the parking of vehicles), section 36 or section 36A (inserted by section 12 of the Roads Act 2007) of the Act of 1994,
+
+and is due to appear before a court to answer the accusation or charge, shall on the first date he or she is due to appear before the court or on a subsequent date at the discretion of the presiding judge—
+
+(i) produce to the court his or her driving licence or learner permit, and deliver it to the registrar, clerk or other principal officer of the court, and
+
+(ii) provide a legible copy of that licence or learner permit to the court at that time, which the court shall require and retain for the purposes of establishing and recording the driving licence or learner permit details to which it relates,
+
+and the court shall record whether or not the licence or permit and the copy of the licence or permit have been produced.”.
+
+## PART 7 Disqualification — PART 7 — Disqualification
+
+### 64. Disqualification for holding driving licence.
+
+**64**.— (1) Section 30 (inserted by section 20 of the Act of 1968) of the Principal Act is amended by substituting for subsection (1) the following:
+
+“(1) A person in respect of whom a consequential, ancillary or special disqualification order is made stands disqualified in accordance with the order for holding a driving licence, and—
+
+(*a*) an Irish driving licence or learner permit held by him or her at the date of the order stands suspended, correspondingly,
+
+(*b*) where he or she holds a foreign driving licence to which the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 (S.I. No. 464 of 2008) apply, those Regulations do not apply to that licence, or
+
+(*c*) a foreign driving licence (other than a licence referred to in paragraph (*b*)) held by him or her at the date of the order has no effect in the State.”.
+
+(2) Section 3 of the Act of 2002 is amended by substituting for subsection (1) the following:
+
+“(1) When penalty points are endorsed on the entry of a person and, in consequence, the total number of penalty points standing so endorsed equals or exceeds 12, the person stands disqualified for a period of 6 months beginning on the appropriate date for holding a licence, and—
+
+(*a*) an Irish licence held by him or her at the beginning of the period stands suspended correspondingly, or
+
+(*b*) a foreign driving licence held by him or her at the beginning of the period has no effect in the State.”.
+
+### 65. Consequential disqualification orders.
+
+**65**.— (1) The following section is substituted for section 26 (inserted by section 26 of the Act of 1994 as amended by section 6 of the Act of 2006) of the Principal Act:
+
+“26.— (1) Subject to subsection (5)(*b*), where a person is convicted of an offence specified in the Second Schedule, the court shall make an order (‘consequential disqualification order’) declaring him or her to be disqualified for holding a driving licence.
+
+(2) Subject to subsection (3), a consequential disqualification order operates to disqualify the person to whom the order relates for holding any driving licence whatsoever during a specified period or during a specified period and thereafter until he or she has produced to the appropriate licensing authority, as may be specified in the order, a certificate of competency or a certificate of fitness or both.
+
+(3) A consequential disqualification order resulting from a conviction for an offence under—
+
+(*a*) section 52 or 53 tried on indictment where the contravention involved the driving of a mechanically propelled vehicle, or
+
+(*b*) section 106, where—
+
+(i) the offence involved a contravention of paragraph (*a*) or (*b*) of subsection (1) of that section,
+
+(ii) injury was caused to a person,
+
+(iii) a mechanically propelled vehicle was involved in the occurrence of the injury, and
+
+(iv) the convicted person was the driver of the vehicle concerned,
+
+operates to disqualify the person to whom the order relates for holding any driving licence whatsoever during a specified period and, unless the court is satisfied that a special reason (which it shall specify when making its order) had been proved by the convicted person to exist in his or her particular case such that it should not so operate, thereafter until the person has produced to the appropriate licensing authority, as may be specified in the order, a certificate of competency or both a certificate of competency and a certificate of fitness.
+
+(4) (*a*) The period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under—
+
+(i) *section 4* of the *Road Traffic Act 2010* consisting of a contravention of *subsection (1)* of that section,
+
+(ii) *section 5(1)* of the *Road Traffic Act 2010*,
+
+(iii) section 52 or 53, tried on indictment,
+
+(iv) section 106, where the offence involved the matters specified in subparagraphs (i) to (iv) of subsection (3)(*b*) of this section,
+
+(v) *section 12* or *14* of the *Road Traffic Act 2010*, or
+
+(vi) section 138(3) of the Railway Safety Act 2005, tried on indictment,
+
+be not less than 4 years in the case of a first offence under the section concerned and not less than 6 years in the case of a second or any subsequent offence under the same section.
+
+(*b*) The period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under *section 4* of the *Road Traffic Act 2010* consisting of a contravention of *subsection (2), (3)* or *(4)* of that section or an offence under *subsection (2), (3)* or *(4)* of *section 5* of the *Road Traffic Act 2010*, be—
+
+(i) in the case of a first offence under the section concerned, not less than the appropriate period specified in column (3) of the Table to this subsection, and
+
+(ii) in the case of—
+
+(I) a second or subsequent offence under that section, or
+
+(II) where the person has been previously convicted under that section, a first or subsequent conviction under the other section,
+
+not less than the appropriate period specified in column (4) of that Table.
+
+(*c*) In paragraph (*b*) ‘appropriate period’ means the period that is appropriate having regard to—
+
+(i) the concentration of alcohol in the blood, urine or breath, as the case may be, of the person concerned in relation to which that person was convicted of the offence concerned, and
+
+(ii) the concentrations of alcohol in blood, urine or breath, as may be appropriate, specified in column (2) of the Table to this subsection.
+
+TABLE
+
+| Reference Number | Concentration of alcohol | First offence under the section concerned | Second or any subsequent offence under the same section |
+|---|---|---|---|
+| (1) | (2) | (3) | (4) |
+| 1. | (*a*) Not exceeding 80 milligrammes of alcohol per 100 millilitres of blood; (*b*) Not exceeding 107 milligrammes of alcohol per 100 millilitres of urine; (*c*) Not exceeding 35 microgrammes of alcohol per 100 millilitres of breath. | 6 months | 1 year |
+| 2. | (*a*) Exceeding 80 milligrammes but not exceeding 100 milligrammes of alcohol per 100 millilitres of blood; (*b*) Exceeding 107 milligrammes but not exceeding 135 milligrammes of alcohol per 100 millilitres of urine; (*c*) Exceeding 35 microgrammes but not exceeding 44 microgrammes of alcohol per 100 millilitres of breath. | 1 year | 2 years |
+| 3. | (*a*) Exceeding 100 milligrammes but not exceeding 150 milligrammes of alcohol per 100 millilitres of blood; (*b*) Exceeding 135 milligrammes but not exceeding 200 milligrammes of alcohol per 100 millilitres of urine; (*c*) Exceeding 44 microgrammes but not exceeding 66 microgrammes of alcohol per 100 millilitres of breath. | 2 years | 4 years |
+| 4. | (*a*) Exceeding 150 milligrammes of alcohol per 100 millilitres of blood; (*b*) Exceeding 200 milligrammes of alcohol per 100 millilitres of urine; (*c*) Exceeding 66 microgrammes of alcohol per 100 millilitres of breath. | 3 years | 6 years |
+
+(5) (*a*) Subject to paragraph (*b*), the period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under section 52 or 53 tried summarily or under section 56, be not less than 2 years in the case of a first offence under the section concerned and not less than 4 years in the case of a second or any subsequent offence under the same section committed within the period of 3 years from the date of the commission of the previous offence or, in the case of more than one such offence, the last such offence.
+
+(*b*) Where a person is convicted of an offence under section 52 tried summarily or under section 56, the court may, in the case of a first offence under the section concerned, where it is satisfied that a special reason (which it shall specify when making its order) has been proved by the convicted person to exist in his or her particular case to justify such a course—
+
+(i) decline to make a consequential disqualification order, or
+
+(ii) specify a period of disqualification in the consequential disqualification order of less than 1 year.
+
+(6) The period of disqualification specified in a consequential disqualification order shall, in a case not coming within subsection (4) or (5), be not less than 1 year.
+
+(7) Where a person is convicted of an offence under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 (‘the former section’) whether before or after the commencement of *section 4, 5, 12* or *14* of the *Road Traffic Act 2010* and is subsequently convicted of one or more offences under any other of those sections (‘the latter section’) the conviction under the latter section shall, for the purposes of this section, be regarded as a second or, as the case may be, a subsequent conviction for an offence under the latter section.
+
+(8) Where a person is convicted of an offence (‘the latter conviction’) under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 whether before or after the commencement of *section 4, 5, 12* or *14* of the *Road Traffic Act 2010*, and
+
+(*a*) the conviction is, or is by virtue of subsection (7) to be regarded as, a second or subsequent conviction for an offence under the same section, and
+
+(*b*) a period of 4 years or more during which such person was not disqualified for holding a driving licence has elapsed since the previous conviction of the person by reference to which the later conviction is, or is by virtue of subsection (7) to be regarded as, a second or subsequent conviction,
+
+the court may, for the purposes of this section, deal with the later conviction as a first conviction.
+
+(9) Subject to subsections (10) and (11), in every case in which an appeal may be brought in respect of a conviction for an offence on conviction of which a consequential disqualification order may be made, jurisdiction to make, confirm, annul or vary a consequential disqualification order is conferred on the appellate court unless it otherwise has that jurisdiction or the conferring of that jurisdiction is unnecessary because the appeal is by way of rehearing.
+
+(10) A consequential disqualification order shall not be annulled on appeal unless—
+
+(*a*) the conviction by reference to which it was imposed is reversed, or
+
+(*b*) the provisions of subsection (5)(*b*) apply.
+
+(11) Where a consequential disqualification order is, on an appeal, made or varied, the requirements of subsections (2) to (7) shall be complied with and the provisions of subsection (8), where relevant, shall also apply.”.
+
+(2) The Principal Act is amended by substituting for the Second Schedule the following:
+
+“Section 26.
+
+SECOND SCHEDULE
+
+Offences under the *Road Traffic Acts 1961 to 2010* involving Consequential Disqualification Orders.
+
+*Using mechanically propelled vehicle without test certificate.*
+
+1\. An offence by a person under subsection (2) of section 18, being an offence committed in a period of 3 years in which a previous offence was committed by the person under that subsection for which he or she was convicted.
+
+*Driving mechanically propelled vehicle before remedying dangerous defect.*
+
+2\. An offence by a person under subsection (10) of section 20, being an offence committed in a period of 3 years in which a previous offence was committed by the person under that subsection for which he or she was convicted.
+
+*Driving mechanically propelled vehicle when unfit.*
+
+3\. An offence by a person under section 48, being an offence committed in a period of 3 years in which a previous offence was committed by the person under that section for which he or she was convicted.
+
+*Driving mechanically propelled vehicle while under the influence of intoxicating liquor or drug.*
+
+4\. An offence under *section 4* of the *Road Traffic Act 2010*.
+
+*Being in charge of mechanically propelled vehicle while under the influence of intoxicating liquor or drug.*
+
+5\. An offence under *section 5* of the *Road Traffic Act 2010*.
+
+*Refusal or failure to provide specimen or to comply with requirement of designated doctor or nurse.*
+
+6\. An offence under *section 12* or *14* of the *Road Traffic Act 2010*.
+
+*Careless driving.*
+
+7\. An offence by a person under section 52, where the contravention involved the driving of a mechanically propelled vehicle, being an offence committed in a period of 3 years in which 2 or more previous offences were committed by the person under that section for which he or she was convicted.
+
+*Dangerous driving of mechanically propelled vehicle.*
+
+8\. An offence under section 53 where the contravention involved the driving of a mechanically propelled vehicle.
+
+*Driving of dangerously defective mechanicallypropelled vehicle.*
+
+9\. An offence by a person under section 54, being an offence committed in a period of 3 years in which a previous offence was committed by the person under that section for which he or she was convicted.
+
+*Parking mechanically propelled vehicle in dangerous position.*
+
+10\. An offence by a person under section 55 where the contravention involved the parking of a mechanically propelled vehicle and where any part of the period of the contravention was a period within lighting-up hours (as specified in the section) during which the vehicle did not fulfil the requirements imposed by law with respect to lighting and reflectors, being an offence committed in a period of 3 years in which a previous offence was committed by the person under that section for which he or she was convicted.
+
+*Use of mechanically propelled vehicle not insured.*
+
+11\. An offence under section 56.
+
+*Failure to fulfil duties on occurrence of accident.*
+
+12\. (*a*) An offence under section 106 where the contravention involved non-compliance with paragraph (*a*) or (*b*) of subsection (1) of that section, injury was caused to a person, a mechanically propelled vehicle was involved in the occurrence of the injury and the convicted person was the driver of the vehicle concerned.
+
+(*b*) An offence under section 106 (other than an offence to which subparagraph (*a*) of this paragraph relates) where injury was caused to a person, a mechanically propelled vehicle was involved in the occurrence of the injury and the convicted person was the driver of the vehicle concerned, being an offence committed in a period of 3 years in which a previous such offence was committed by the person for which he or she was convicted.
+
+*Taking mechanically propelled vehicle without authority.*
+
+13\. An offence under subsection (2) of section 112.
+
+*Driving mechanically propelled vehicle without driving licence while disqualified, etc.*
+
+14\. An offence under section 38(2) in the circumstances referred to in subsection (5)(*a*) of that section.
+
+*Using vehicle without certificate of roadworthiness.*
+
+15\. An offence by a person under Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004), being an offence committed in a period of 3 years in which a previous offence was committed by the person under that Regulation for which he or she was convicted.”.
+
+(3) The following are repealed:
+
+(*a*) sections 26 and 49(1)(*l*) of the Act of 1994,
+
+(*b*) the Road Traffic Act 1995, and
+
+(*c*) section 6 of the Act of 2006.
+
+F139[(4) For the purposes of section 26 of, and the Second Schedule to, the Principal Act (inserted by this section)—
+
+(*a*) the reference to section 4 of the Road Traffic Act 2010 in—
+
+(i) paragraph 4 of the Second Schedule to, and
+
+(ii) section 26(4)(*a*)(i) and 26(4)(*b*) of,
+
+the Principal Act shall be deemed to include a reference to section 49 of the Principal Act,
+
+(*b*) the reference to section 5 of the Road Traffic Act 2010 in—
+
+(i) paragraph 5 of the Second Schedule to, and
+
+(ii) section 26(4)(*b*) of,
+
+the Principal Act shall be deemed to include a reference to section 50 of the Principal Act,
+
+(*c*) the reference to section 5(1) of the Road Traffic Act 2010 in section 26(4)(*a*)(ii) of the Principal Act shall be deemed to include a reference to section 50(1) of the Principal Act,
+
+(*d*) the reference to section 12 of the Road Traffic Act 2010 in—
+
+(i) paragraph 6 of the Second Schedule to, and
+
+(ii) section 26(4)(*a*)(v) of,
+
+the Principal Act shall be deemed to include a reference to section 13 of the Road Traffic Act 1994, and
+
+(*e*) the reference to section 14 of the Road Traffic Act 2010 in—
+
+(i) paragraph 6 of the Second Schedule to, and
+
+(ii) section 26(4)(*a*)(v) of,
+
+the Principal Act shall be deemed to include a reference to section 15 of the Road Traffic Act 1994.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Inserted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 10, S.I. No. 542 of 2012.
+
+### 66. Transitional provision — consequential disqualification orders.
+
+**66**.—(1) Section 26 (inserted by section 26 of the Act of 1994) of the Principal Act is amended—
+
+(*a*) in subsection (4)(a) (inserted by section 6 of the Act of 2006) by substituting for subparagraph (iii) the following:
+
+“(iii) section 52 or 53, tried on indictment,”,
+
+and
+
+(*b*) by substituting for subsection (5) the following:
+
+“(5) (a) Subject to paragraph (b), the period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under section 52 or 53 tried summarily or under section 56, be not less than 2 years in the case of a first offence under the section concerned and not less than 4 years in the case of a second or any subsequent offence under the same section committed within the period of 3 years from the date of the commission of the previous offence or, in the case of more than one such offence, the last such offence.
+
+(b) Where a person is convicted of an offence under section 52 tried summarily or under section 56, the court may, in the case of a first offence under the section concerned, where it is satisfied that a special reason (which it shall specify when making its order) has been proved by the convicted person to exist in his or her particular case to justify such a course—
+
+(i) decline to make a consequential disqualification order, or
+
+(ii) specify a period of disqualification in the consequential disqualification order of less than 1 year.”.
+
+(2) This section stands repealed upon the commencement of section 65 (1).
+
+### 67. Amendment of section 29 of Principal Act — removal of disqualification and repeal.
+
+**67**.— (1) Section 29 (inserted by section 7 of the Act of 2006) of the Principal Act is amended by substituting for subsection (4) the following:
+
+“(4) Where a court considers it to be appropriate the court may—
+
+(*a*) confirm the period specified in the order of disqualification, or
+
+(*b*) order the removal of the disqualification from a specified date that is such that the disqualification will have effect for a least two-thirds of the period specified in the order of disqualification, or a period of 2 years, whichever is the greater.”.
+
+(2) Section 19 of the Act of 1968 is repealed.
+
+### 68. Amendment of section 9 of Act of 2002 — disqualification under European Convention on driving disqualifications.
+
+**68**.— Section 9 of the Act of 2002 is amended:
+
+(*a*) in subsection (9), by inserting “or after the date on which the Convention has become applicable between the State and another Member State, by declaration under Article 15.4 of the Convention, by a person normally resident in that other Member State,” after “(“State of residence”),
+
+(*b*) in subsection (12)(*a*), by—
+
+(i) in the definition of “the Convention” by substituting “Luxembourg” for “Brussels”, and
+
+(ii) inserting after the definition of “specified offence” the following:
+
+“ ‘state of residence’ means the state of residence of a person who has committed a specified offence and to whom this subsection applies.”,
+
+and
+
+(*c*) in the Second Schedule, in the title, by substituting“Luxembourg” for “Brussels”.
+
+## PART 8 Certain Driving Offences — PART 8 — Certain Driving Offences
+
+### 69. Inconsiderate, careless and dangerous driving, etc.
+
+**69**.— F140[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Part 8 (ss. 69, 70) repealed (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 4(2)(e), S.I. No. 542 of 2011.
+
+### 70. Repeals — Part 8.
+
+**70**.— F141[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Part 8 (ss. 69, 70) repealed (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 4(2)(e), S.I. No. 542 of 2011.
+
+## PART 9 Miscellaneous — PART 9 — Miscellaneous
+
+### 71. Definitions — Principal Act.
+
+**71**.— Section 3(1) of the Principal Act is amended by—
+
+(*a*) substituting for the definition of “the Minister” the following:
+
+“ ‘Minister’ means Minister for Transport;”,
+
+and
+
+(*b*) for the definition of “road authority” the following:
+
+“ ‘road authority’ means—
+
+(*a*) a county council, referred to in Part 1 of Schedule 5,
+
+(*b*) a city council, referred to in Part 2 of Schedule 5,
+
+(*c*) a borough council, referred to in Chapter 1 of Part 1 of Schedule 6, or
+
+(*d*) a town council, referred to in Chapter 2 of Part 1 of Schedule 6,
+
+to the Local Government Act 2001;”,
+
+and
+
+(*c*) by inserting after the definition of “use” the following:
+
+“ ‘vehicle’ means a mechanically propelled vehicle, an animal-drawn vehicle or pedal cycle;”.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C30: References to “county council”, “city council” and “town council” construed (1.06.2014) by *Local Government Reform Act 2014* )1/2014), ss. 9(2) and 25(2), S.I. No. 214 of 2014.
+>
+> **Cesser and amalgamation of certain local government areas**
+>
+> **9.—...**
+>
+> (2) Except where otherwise provided for by this Act, a reference, however expressed, in any enactment—
+>
+> (a) to a county council or a city council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a county council or to a city council, as the case may be) shall, if the context permits, be read as a reference to a county council, a city council or a city and county council, and
+>
+> (b) to a county council and a city council (including a reference so construed) shall, if the context permits, be read as a reference to a county council, a city council and a city and county council.
+>
+> ...
+>
+> **Dissolution of town councils — consequential provisions**
+>
+> **25.—...**
+>
+> (2) A function of a town council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a town council and whether of general application to town councils or otherwise under an enactment) that—
+>
+> (a) has not been repealed or otherwise provided for by this Act, or
+>
+> (b) is neither spent nor obsolete,
+>
+> shall, if the context permits in respect of one or more than one town council concerned, be read as a reference to a function of the local authority in whose administrative area the town council so dissolved is situated.
+>
+> ...
+
+### 72. Driving or being in charge of a substantially disabled mechanically propelled vehicle.
+
+**72**.— Section 3 of the Principal Act is amended by substituting for subsection (2) the following:
+
+“(2) Where a vehicle, which, apart from this subsection, would be a mechanically propelled vehicle, stands so substantially disabled (either through collision, breakdown or the removal of the engine or other such vital part) as to be no longer capable of being propelled mechanically, it shall be regarded—
+
+(*a*) for the purposes of the *Road Traffic Acts 1961 to 2010*, if it is disabled through collision, as continuing to be a mechanically propelled vehicle, and
+
+(*b*) for all other purposes of this Act as not being a mechanically propelled vehicle.”.
+
+### 73. Production of certificate of insurance or guarantee.
+
+**73**.— Section 69 of the Principal Act is amended by substituting for subsections (3) to (5) the following:
+
+“(3) Where a person produces under this section a certificate to a member of the Garda Síochána but refuses or fails to permit the member to read and examine it, he or she commits an offence and the member may demand of him or her his or her name and address and date of birth.
+
+(4) Where a person whose name and address or date of birth is demanded under subsection (3) refuses or fails to give his or her name and address or date of birth or gives a name or address or date of birth which is false or misleading, he or she commits an offence.
+
+(5) A member of the Garda Síochána may arrest without warrant—
+
+(*a*) a person who under this section provides a certificate but refuses or fails to permit the member to read and examine it, or
+
+(*b*) a person who, when his or her name and address or date of birth is demanded of him or her by the member under this section, refuses or fails to give his or her name and address or date of birth or gives a name or address or date of birth which the member has reasonable grounds for believing to be false or misleading.”.
+
+### 74. Signature of applicant — driving licence, etc.
+
+**74**.— Where a person applies for—
+
+(*a*) a theory test certificate under the European Communities (Licensing of Drivers) Regulations 2003 (S.I. No. 52 of 2003) (as amended by the European Communities Driving Theoretical Tests (Amendment) Regulations 2006 (S.I. No. 538 of 2006)), to the Driver Theory Testing Service,
+
+(*b*) a certificate of competency, to an issuing authority, or
+
+F142[(*c*) an Irish driving licence or learner permit, to a licensing authority,]
+
+the Service or authority, as the case may be, may—
+
+(i) take a photograph or copy of the signature of the applicant,
+
+(ii) keep a copy (including a digital copy) of the signature and the photograph which may also be transferred to and kept on the licence record relating to the applicant,
+
+(iii) include a copy of the signature and the photograph on any theory test certificate or certificate of competence issued or driving licence or learner permit granted, and
+
+(iv) store on any microchip incorporated on a driving licence or learner permit it grants to the applicant a digital copy of the applicant’s signature and photograph.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(q), S.I. No. 392 of 2023.
+
+### 75. Production of test certificate when licensing mechanically propelled vehicle under section 1 of the Finance (Excise Duties) (Vehicles) Act 1952.
+
+**75**.— (1) The Minister may make regulations requiring persons applying for a licence under section 1 of the Finance (Excise Duties) (Vehicles) Act 1952 in respect of a mechanically propelled vehicle—
+
+(*a*) to make such declaration and produce such evidence as is necessary to show whether the vehicle is or is not a vehicle to which section 18 of the Principal Act applies, and
+
+(*b*) where it is such a vehicle, to produce a test certificate or provide evidence of such which will be in force in respect of the vehicle when the licence comes into operation.
+
+(2) Paragraph (*b*) of section 123 of the Principal Act is repealed.
+
+### 76. Amendment of section 47 of Principal Act — offence of exceeding speed limit.
+
+**76**.— Section 47 (inserted by section 11 of the Act of 2004) of the Principal Act is amended by inserting after subsection (2) the following:
+
+“(2A) In a prosecution for an offence under this section, it is presumed, until the contrary is shown by the defendant, that the speed limit indicated on a traffic sign is the speed limit that has been applied under this Act to the road when the offence is alleged to have been committed.”.
+
+### 77. Vehicle insurers to provide details of motor insurance policies.
+
+**77**.— (1) Part VI of the Principal Act is amended by inserting after section 78 the following:
+
+“78A.— (1) A vehicle insurer shall make available, within 5 working days, to the Minister for Transport, the Garda Síochána and the Motor Insurer’s Bureau of Ireland, details of new motor insurance policies issued and existing motor insurance policies cancelled by it in so far as they relate to third party cover.
+
+(2) In this subsection ‘motor insurance policies’ means approved policies of insurance (within the meaning of section 62) issued by a vehicle insurer.”.
+
+(2) Sub-article (4) of article 9 of the Road Traffic (Compulsory Insurance) Regulations 1962 (S.I. No. 14 of 1962) is revoked.
+
+### 78. Regulatory signs.
+
+**78**.— (1) Section 95 (as amended by section 37 of the Act of 1994) of the Principal Act is amended—
+
+(*a*) by substituting for subsection (3) the following:
+
+“(3) (*a*) A road authority may provide in respect of public roads in their charge such information signs and warning signs as they consider desirable.
+
+(*b*) A road authority may, after consultation with the Commissioner, provide in respect of public roads in their charge such regulatory signs as they consider desirable.”,
+
+(*b*) by deleting subsection (4), and
+
+(*c*) in subsection (5), by substituting for paragraph (*a*) the following:
+
+“(5) (*a*) A road authority shall provide in respect of public roads in their charge such regulatory signs as may be requested by the Commissioner, in the positions indicated by him or her and shall, as respects any traffic signs so provided, carry out any periodical transfers from place to place and any alterations and removals which he or she may request.”.
+
+(2) Regulatory signs which have been provided for or by a road authority before the commencement of this section are deemed to have been provided under section 95 of the Principal Act as amended by this section.
+
+### 79. Duty to give information on demand by member of Garda Síochána.
+
+**79**.— The following section is substituted for section 107 of the Principal Act:
+
+“107.— (1) Where a member of the Garda Síochána alleges to a person using a mechanically propelled vehicle that the member suspects that such person has committed a specified offence under this Act, the member may demand of such person his or her name and address and date of birth and may, if such person refuses or fails to give his or her name and address or date of birth or gives a name or address or date of birth which the member has reasonable grounds for believing to be false or misleading, arrest such person without warrant.
+
+(2) Where a member of the Garda Síochána has reasonable grounds for believing that an offence under this Act has been committed and that the vehicle in relation to which the offence was committed does not carry its identification mark under the Roads Act 1920, section 131(5) of the Finance Act 1992 or any other enactment, the member may arrest without warrant the person whom he or she has reasonable grounds for believing was using the vehicle when the offence was so believed to have been committed.
+
+(3) Where a person, when his or her name and address or date of birth is demanded of him or her under this section, refuses or fails to give his or her name and address or date of birth or gives a name or address or date of birth which is false or misleading, such person commits an offence.
+
+(4) Where a member of the Garda Síochána has reasonable grounds for believing that there has been an offence under this Act involving the use of a mechanically propelled vehicle—
+
+(*a*) the owner of the vehicle shall, if required by the member, state whether he or she was or was not actually using the vehicle at the material time and, if he or she fails to do so, commits an offence,
+
+(*b*) if the owner of the vehicle states that he or she was not actually using it at the material time, he or she shall give such information as he or she may be required by the member to give as to the identity of the person who was actually using it at that time and, if he or she fails to do so, commits an offence unless he or she shows to the satisfaction of the court that he or she did not know and could not with reasonable diligence have ascertained who that person was, or
+
+(*c*) any person other than the owner of the vehicle shall, if required by the member, give any information which it is in his or her power to give and which may lead to the identification of the person who was actually using the vehicle at the material time and, if he or she fails to do so, commits an offence.
+
+(5) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding €2,000.”.
+
+### 80. Right to demand name and address, etc., of pedal cyclist.
+
+**80**.— The following section is substituted for section 108 of the Principal Act:
+
+“108.— A member of the Garda Síochána may demand of a person in charge of a pedal cycle whom the member suspects of having committed any crime or offence or of having been concerned or involved in a collision or other event in a public place causing injury to person or property, the name and address and date of birth of such person, and if such a person refuses or fails to give his or her name and address or date of birth or gives a name or address or date of birth which the member has reasonable grounds for believing to be false or misleading, the member may take the cycle, by reasonable force if necessary, and retain it until such time as he or she is satisfied as to the identity of such person.”.
+
+### 81. Evidence in relation to speeding and certain other offences.
+
+**81**.— (1) The onus of establishing *prima facie* proof of a constituent of an offence (including the speed at which a person, whether the accused or another person, was driving) under section 47, 52, 53, 55, 91, 92, 93 or 94 of the Principal Act, section 35 of the Act of 1994 or section 138 of the Railway Safety Act 2005 may be discharged by tendering evidence from which that constituent can be inferred of measurements or other indications which were given by—
+
+(*a*) electronic or other apparatus (including a camera) capable of providing a permanent record (including a permanent visual record) and are contained in such a record produced by it, or
+
+(*b*) electronic or other apparatus (including a radar gun) which is not capable of producing a permanent record.
+
+It is not necessary to prove that the electronic or other apparatus was accurate or in good working order.
+
+(2) In proceedings for an offence referred to in *subsection (1)*—
+
+(*a*) a document purporting to be, or to be a copy of, a record referred to in *subsection (1)(a)*—
+
+(i) which is not a permanent visual record and to be signed by a member of the Garda Síochána, or
+
+(ii) which is a permanent visual record and to be issued by or on behalf of a member of the Garda Síochána or an administrative office or unit of the Garda Síochána designated in that behalf by the Commissioner, or a person authorised under an agreement under *subsection (7)*,
+
+and
+
+(*b*) on which is endorsed a statement to the effect that it is, or is a copy of, that record,
+
+shall be *prima facie* evidence in those proceedings of the indications or measurements contained in the record. It shall not be necessary to prove, as the case may be, the signature on the document or that the signatory was a member of the Garda Síochána or that the document was so issued.
+
+(3) A copy of the document referred to in *subsection (2)* shall be given to the accused person before the commencement of the trial of the offence concerned.
+
+(4) The electronic or other apparatus referred to in *subsection (1)* shall—
+
+(*a*) be of a type that has been approved by—
+
+(i) the Commissioner or another member of the Garda Síochána not below the rank of Chief Superintendent authorised in that behalf by the Commissioner, or
+
+(ii) the chief executive officer of the National Roads Authority or another officer of that Authority duly authorised in that behalf by the first-mentioned officer,
+
+and
+
+(*b*) in the case of an apparatus referred to in *subsection (1)(a)*, be capable of producing a record of the measurements or other indications referred to in *subsection (1)*.
+
+It is not necessary to prove that the apparatus is of a type so approved.
+
+(5) In proceedings for an offence referred to in *subsection (1)*, if proof of the offence involves proof of the speed at which a person (whether the accused or another person) was driving, the uncorroborated evidence of one witness stating his opinion as to that speed shall not be accepted as proof of that speed.
+
+F143[(6) In proceedings for an offence referred to in *subsection (1)* it shall be presumed, until the contrary is shown, that—
+
+(*a*) the electronic or other apparatus used for tendering of evidence was provided, maintained and operated by a member of the Garda Síochána, or a person authorised under an agreement under *subsection (7)*,
+
+(*b*) the development, production and viewing of records produced by such apparatus was carried out by a member of the Garda Síochána, or a person authorised under an agreement under *subsection (7)*, and
+
+(*c*) *subsection (3)* has been complied with.]
+
+(7) (*a*) The Minister for Justice and Law Reform may by an agreement in writing entered into with any person, upon such terms and conditions as may be specified in the agreement, which shall include a condition to the effect that the determination of the locations where equipment is to be operated shall be a function of a member of the Garda Síochána not below the rank of Superintendent, provide for the authorisation of that or other persons for the purposes of *subsection (2)*, and the performance by those authorised persons of any function, which shall be specified in the agreement, relating to the establishing of *prima facie* proof of a constituent of an offence including the provision, maintenance and operation of equipment and the development, production and viewing of records produced by that equipment and the production of measurements or other indications from which a constituent of an offence can be inferred.
+
+(*b*) An agreement referred to in *paragraph (a)* may apply to the performance of all or any of the functions specified in that agreement.
+
+(*c*) Section 14(2), (3) and (4) of the Act of 2002 applies to any agreement entered into by the Minister for Justice and Law Reform under this subsection.
+
+(8) F144[A member of garda staff] may perform the functions relating to the establishing of *prima facie* proof of a constituent of an offence including the development, production and viewing of records produced by that equipment and the production of measurements or other indications from which a constituent of an offence can be inferred.
+
+(9) In this section—
+
+F145[...]
+
+F144["member of An Garda Síochána", other than in *subsections (4)* and *(7)*, includes a member of garda staff;]
+
+F146["member of garda staff" shall be construed in accordance with the Policing, Security and Community Safety Act 2024;]
+
+“permanent visual record” includes a photograph;
+
+“radar gun” means an apparatus which—
+
+(*a*) can be used to measure the speed of a moving object (such as a motor vehicle) by directing a signal from the apparatus at the object, and, if the signal is reflected off the object, the apparatus in turn receives the reflected signal, and
+
+(*b*) is capable of measuring the speed of the object and displaying the speed on the apparatus;
+
+“record” includes a visual record which can be stored permanently on the apparatus concerned.
+
+(10) The following are repealed:
+
+(*a*) section 21 of the Act of 2002,
+
+(*b*) section 15 of the Act of 2004, and
+
+(*c*) section 17 of the Act of 2006.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F143: Substituted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 22(a), S.I. No. 147 of 2014.
+>
+> F144: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 284(a), (b)(ii), S.I. No. 107 of 2025.
+>
+> F145: Deleted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 284(b)(i), S.I. No. 107 of 2025.
+>
+> F146: Inserted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 284(b)(iii), S.I. No. 107 of 2025.
+>
+> **Editorial Notes:**
+>
+> E68: Previous affecting provision: definition of "member of the Garda Síochána" amended (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 22(b), S.I. No. 147 of 2014: definition substituted (2.04.2025) as per F-note above.
+
+### 82. Cost of prosecutions — road traffic offences.
+
+**82**.— (1) Where a person is convicted of an offence under the F147[**Road Traffic Act 1961 to 2023**] committed after the commencement of this section, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the court the costs and expenses, measured by the court, incurred in relation to the investigation, detection and prosecution of the offence, including costs and expenses incurred in the taking of samples and the carrying out of tests, examinations and analyses.
+
+(2) Payments under *subsection (1)* shall be disposed of in such manner as may be prescribed.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F147: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(i), S.I. No. 392 of 2023.
+
+### 83. Functions of Commissioner of Garda Síochána.
+
+**83**.— (1) Any reference to the Commissioner in the *Road Traffic Acts 1961 to 2010* or the Roads Acts 1993 to 2007 is to be read as a reference to the Commissioner or another member of the Garda Síochána not below the rank of Chief Superintendent authorised by the Commissioner to act or carry out a function or requirement on his or her behalf.
+
+(2) Section 28 of the Act of 2004 is repealed.
+
+### 84. Amendment of section 15 of Act of 1968 — increase in certain penalties.
+
+**84**.— The following Table is substituted for the Table (inserted by section 23(2) of the Act of 2002) to section 15 of the Act of 1968:
+
+“TABLE
+
+| Where the excess weight is not less than 1,000 kilograms but is less than 2,000 kilograms | €500 |
+|---|---|
+| Where the excess weight is not less than 2,000 kilograms but is less than 3,000 kilograms | €1,000 |
+| Where the excess weight is not less than 3,000 kilograms but is less than 4,000 kilograms | €1,500 |
+| Where the excess weight is not less than 4,000 kilograms but is less than 5,000 kilograms | €3,000 |
+| Where the excess weight is 5,000 kilograms or more | €5,000 |
+
+”.
+
+### 85. Regulations — control of driving instructors.
+
+**85**.— Section 18(2) of the Act of 1968 is amended by—
+
+(*a*) substituting for paragraph (*a*) the following:
+
+“(*a*) the licensing of driving instructors (including the refusal to grant a licence and the revocation and suspension of a licence);
+
+(*aa*) the issuing of plates and badges to licensed driving instructors (including the refusal to issue a plate or badge and the withdrawal of a plate or badge);
+
+(*aaa*) appeals by an applicant refused a licence or badge or plate, a holder of a licence whose licence has been revoked or suspended and the holder of a plate or badge which has been withdrawn;”,
+
+(*b*) inserting after paragraph (*d*) the following:
+
+“(*da*) the fitness of applicants for driving instructor licences;”,
+
+(*c*) inserting after paragraph (*i*) the following:
+
+“(*j*) the facilities and conditions attached to them, equipment and resources which driving instructors must have and comply with;
+
+(*k*) the display of any plate or badge by a licensed driving instructor while giving driving instructions for reward;
+
+(*l*) the production to a member of the Garda Síochána or an officer of the Road Safety Authority for inspection of any licences or badges issued under Regulations under this section;
+
+(*m*) the examination or inspection of records under regulations under this section by a member of the Garda Síochána or an officer of the Road Safety Authority;
+
+(*n*) the detention and examination of a vehicle for the purposes of regulations under this section by such a member or officer;
+
+(*o*) matters for the purposes of subsection (8).”,
+
+and
+
+(*d*) F148[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F148: Deleted (28.10.2011) by *Road Traffic (No. 2) Act 2011* (28/2011), s. 9(m), S.I. No. 542 of 2011.
+
+### 86. Special speed limits.
+
+**86**.— Section 9(2) of the Act of 2004 is amended by substituting for paragraph (*a*) the following:
+
+“(*a*) (i) 30 kilometres per hour, and
+
+(ii) 40 kilometres per hour,
+
+in respect of a road or roads in accordance with guidelines issued by the Minister under this section,”.
+
+### 87. Exemptions for emergency vehicles.
+
+F149[**87.**— (1) Requirements under the F150[*Road Traffic Act 1961 to 2023*] relating to vehicles and requirements, restrictions and prohibitions relating to the driving and use of vehicles, other than those provided under sections 49, 50, 51A, 52 and 53 of the Principal Act, sections 12, 13 and 15 of the Act of 1994 and sections 4, 5, 11, 12 and 14 of this Act, do not apply to—
+
+(a) the driving or use by a member of the Garda Síochána, an ambulance service (provided by a pre-hospital emergency care service provider recognised by the Pre-Hospital Emergency Care Council established by the Pre-Hospital Emergency Care Council (Establishment) Order 2000 (S.I. No. 109 of 2000)) or a fire brigade of a fire authority (within the meaning of the Fire Services Act 1981) of a vehicle in the performance of the duties of that member, or
+
+(b) a person driving or using a vehicle under the direction of a member of the Garda Síochána,
+
+where such use does not endanger the safety of road users.]
+
+F151[(1A) The Minister may prescribe a class of persons who are engaged in the provision or receipt of instruction for the purposes of the services specified in *subsection (1)* and to whom that subsection shall apply where the Minister is satisfied that it would be appropriate for that subsection to apply in relation to members of that class.]
+
+(2) Section 27 of the Act of 2004 is repealed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149: Substituted (20.03.2014) by *Road Traffic Act 2014* (3/2014), s. 23, S.I. No. 147 of 2014.
+>
+> F150: Substituted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(a)(i), S.I. No. 392 of 2023.
+>
+> F151: Inserted (31.07.2023) by *Road Traffic and Roads Act 2023*, s. 13(r), S.I. No. 392 of 2023.
+>
+> **Editorial Notes:**
+>
+> E69: Power pursuant to subs. (1A) exercised (17.10.2024) by *Road Traffic Act 2010 (Section 87(1A)) Regulations 2024* (S.I. No. 538 of 2024).
+
+### 88. Penalty — supply of mechanically propelled vehicle to minor.
+
+**88**.— Section 30 of the Act of 2004 is amended by substituting for subsection (2) the following:
+
+“(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.”.
+
+### 89. Display of local authority permits.
+
+**89**.— Section 35 (as amended by section 12(4)(*b*) of the Roads Act 2007) of the Act of 1994 is amended by inserting after subsection (6) the following:
+
+“(7) Where regulations under this section provide for permits to be issued as provided for under subsection (2)(*t*), the regulations may specify the manner of displaying on the vehicle concerned, or any trailer or container attached to it, the permit or an abstract of it or an indication of its issue.”.
+
+### 90. Detention of vehicles.
+
+**90**.— Section 41(3) of the Act of 1994 is amended by substituting “3 weeks” for “6 weeks”.
+
+### 91. Repeal.
+
+**91**.— Section 13 of the Act of 2002 is repealed.
+
+### 92. Certificates of competency — display of tax disc and test certificate.
+
+**92**.— Section 33 of the Principal Act is amended by inserting after subsection (3A) (inserted by section 21 of the Act of 1968) the following:
+
+“(3B) An issuing authority shall not carry out nor cause to be carried out a test for a certificate of competency unless the mechanically propelled vehicle in which the test is to be carried out displays on its front windscreen—
+
+(*a*) a licence taken out under section 1 of the Finance (Excise Duties) (Vehicles) Act 1952, or
+
+(*b*) where the vehicle is a vehicle to which section 18 applies, a test certificate,
+
+for the time being in force, in respect of the vehicle.
+
+(3C) If a licence or test certificate referred to in subsection (3B) is not displayed in accordance with that subsection, the application for a certificate of competency is refused and any fee paid in respect of the application is forfeited.”.
+
+## SCHEDULE
+
+F152[Sections 4(1A) and 5(1A)
+
+Specified Drugs
+
+| Reference Number (1) | Drug (2) | Level (units in whole blood) (3) |
+|---|---|---|
+| 1 | Δ<sup>9</sup>-Tetrahydrocannabinol (Cannabis) | 1ng/ml |
+| 2 | 11-nor-9-carboxy-Δ<sup>9</sup>-tetrahydrocannabinol (Cannabis) | 5ng/ml |
+| 3 | Cocaine | 10ng/ml |
+| 4 | Benzoylecgonine (Cocaine) | 50ng/ml |
+| 5 | 6-Acetylmorphine (Heroin) | 5ng/ml ] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F152: Inserted (13.04.2017) by *Road Traffic Act 2016* (21/2016), s. 8(c), S.I. No. 129 of 2017.

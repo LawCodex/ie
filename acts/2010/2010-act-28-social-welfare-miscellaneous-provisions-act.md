@@ -1,0 +1,825 @@
+---
+title: "Social Welfare (Miscellaneous Provisions) Act 2010"
+identifier: "eli/2010/act/28"
+type: act
+jurisdiction: ie
+language: en
+number: 28
+year: 2010
+date: 2010-07-21
+last_amended: 2018-01-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2010/act/28/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2010/act/28/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Social Welfare (Miscellaneous Provisions) Act 2010
+
+AN ACT TO AMEND AND EXTEND THE SOCIAL WELFARE ACTS; TO MAKE FURTHER PROVISION IN RELATION TO EMPLOYMENT SCHEMES, ASSISTANCE INOBTAINING EMPLOYMENT, THE PROVISION OF WORK EXPERIENCE, EMPLOYMENT AND JOB PLACEMENT SERVICES; FOR THOSE PURPOSES TO PROVIDE FOR THE TRANSFER OF CERTAIN FUNCTIONS OF THE MINISTER FOR EDUCATION AND SKILLS TO THE MINISTER FOR SOCIAL PROTECTION AND AMEND AND EXTEND THE FUNCTIONS OF AN FORAS ÁISEANNA SAOTHAIR; TO AMEND THE LABOUR SERVICES ACT 1987; TO MAKE FURTHER PROVISION FOR ASSISTANCE FOR EMPLOYMENT AND CERTAIN SCHEMES PROVIDING EMPLOYMENT AND INCOME SUPPORT; TO TRANSFER CERTAIN PROGRAMMES AND SCHEMES UNDER THE COMMUNITY, RURAL AND GAELTACHT AFFAIRS (MISCELLANEOUS PROVISIONS) ACT 2007 TO THE MINISTER FOR SOCIAL PROTECTION; FOR THOSE PURPOSES TO AMEND THE COMMUNITY, RURAL AND GAELTACHT AFFAIRS (MISCELLANEOUS PROVISIONS) ACT 2007; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[21*st July*, 2010]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, construction, collective citation and commencement.
+
+**1**.— (1) This Act may be cited as the Social Welfare (Miscellaneous Provisions) Act 2010.
+
+(2) The Social Welfare Acts and *Parts 1* and *2* shall be read together as one.
+
+(3) The Labour Services Acts 1987 to 2009 and *Part 3* and *section 34*, insofar as it relates to *Part 3*, may be cited together as the Labour Services Acts 1987 to 2010.
+
+(4) *Sections 3*, *6*, *14*, *18*, *19*, *20* and *25* and *Parts 3, 4* and *5* shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (27.04.2011) by *Commenced by the Social Welfare (Miscellaneous Provisions) Act 2010 (Section 25) (Commencement) Order 2011* (S.I. No. 89 of 2011).
+>
+> 2\. The 27th day of April 2011 is appointed as the day on which section 25 of the Social Welfare (Miscellaneous Provisions) Act 2010 (No. 28 of 2010) comes into operation.
+>
+> E2: Power pursuant to section exercised (1.01.2011) by *Commenced by the Social Welfare (Miscellaneous Provisions) Act 2010 (Part 3) (Commencement) Order 2010* (S.I. No. 581 of 2010).
+>
+> 2\. The 1st day of January 2011 is appointed as the day on which the following provisions of the Social Welfare (Miscellaneous Provisions) Act 2010 (No. 28 of 2010) come into operation:
+>
+> (*a*) Part 3;
+>
+> (*b*) section 34, insofar as it relates to Part 3.
+>
+> E3: Power pursuant to section exercised (1.09.2010) by *Commenced by the Social Welfare (Miscellaneous Provisions) Act 2010 (Part 4) (Commencement) Order 2010* (S.I. No. 443 of 2010).
+>
+> 2\. The 1st day of September 2010 is appointed as the day on which the following provisions of the Social Welfare (Miscellaneous Provisions) Act 2010 (No. 28 of 2010) come into operation:
+>
+> (*a*) Part 4;
+>
+> (*b*) section 34, insofar as it relates to Part 4.
+
+### 2. Definitions.
+
+**2**.— In this Act—
+
+“Act of 2006” means the Social Welfare Law Reform and Pensions Act 2006;
+
+“Act of 2007” means the Social Welfare and Pensions Act 2007;
+
+“Act of 2008” means the Social Welfare and Pensions Act 2008;
+
+“Act of 2009” means the Social Welfare and Pensions (No. 2) Act 2009;
+
+“Minister” means the Minister for Social Protection;
+
+“Principal Act” means the Social Welfare Consolidation Act 2005.
+
+## PART 2 Amendments to Social Welfare Acts — PART 2 — Amendments to Social Welfare Acts
+
+### 3. Normal residence of qualified child — amendments.
+
+**3**.— (1) Section 3 (as amended by section 37 of and Schedule 7 to the Act of 2006) of the Principal Act is amended by substituting the following subsection for subsection (5):
+
+“(5) For the purposes of determining the person with whom a qualified child normally resides—
+
+(*a*) such determination, other than such determination for the purposes of Part 4, shall be made in accordance with section 296A and regulations made under that section, and
+
+(*b*) such determination for the purposes of Part 4, shall be made in accordance with section 220 and regulations made under that section.”.
+
+(2) The Principal Act is amended by inserting the following section after section 296:
+
+“Normal residence of qualified child.
+
+296A.— (1) For the purposes of this Act, other than Part 4, a qualified child may be regarded as normally residing with more than one person.
+
+(2) The Minister may make regulations for determining the person or persons, referred to in subsection (3), with whom a qualified child shall be regarded as normally residing.
+
+(3) For the purposes of subsection (2) a qualified child may be regarded as normally residing with—
+
+(*a*) both of his or her parents in the same household,
+
+(*b*) one of his or her parents in separate households, or
+
+(*c*) a step-parent.
+
+(4) Notwithstanding subsection (3), where the parent with whom the child is regarded as normally residing is a member of a household and that parent so consents, the child shall be treated as normally residing with another member of that household.
+
+(5) Notwithstanding that a qualified child does not reside with one of his or her parents, the qualified child may be regarded as normally residing with the parent who—
+
+(*a*) has custody of the qualified child, and
+
+(*b*) is contributing substantially to the maintenance of the qualified child.
+
+(6) Notwithstanding that a qualified childresides with one parent who is—
+
+(*a*) living apart from the other parent, and
+
+(*b*) not claiming or in receipt of benefit or assistance,
+
+the qualified child shall be treated as residing with the other parent if that other parent is contributing substantially to the maintenance of the child.
+
+(7) Where the normal residence of a qualified child does not fall to be determined under subsection (3), (4), (5) or (6), he or she shall be regarded as normally residing with the head of the household of which he or she is normally a member and with no other person.
+
+(8) Where a person who is, in accordance with this section and regulations made under it, determined to be a person with whom a qualified child normally resides—
+
+(*a*) abandons or deserts the child, or
+
+(*b*) fails to contribute substantially to the maintenance of the child,
+
+the qualified child shall cease to be regarded as normally residing with that person.
+
+(9) Where a qualified child ceases, in accordance with subsection (8), to be regarded as normally residing with a person, regulations under this section shall provide for determining the person with whom, subsequent to such cessation, the child is regarded as normally residing.
+
+(10) Where a qualified child is resident in an institution and contributions are made towards the cost of his or her maintenance in that institution, the child shall be regarded as normally residing with the person who makes those contributions towards the cost of the maintenance of the child in the institution, and with whom the child would be regarded as normally residing, if the child were not resident in an institution.
+
+(11) Where the normal residence of a qualified child referred to in subsection (10) has been determined in accordance with that subsection and subsequent to that determination the person with whom the qualified child would be regarded as normally residing has abandoned or deserted the child, the qualified child shall cease to be regarded as normally residing with that person.
+
+(12) Regulations under this section may provide for determining the normal residence of a qualified child—
+
+(*a*) where a person with whom the qualified child normally resides dies, and
+
+(*b*) where the parents of the qualified child are separated or living apart.
+
+(13) Where a qualified child in respect of whom a declaration within the meaning of section 17 of the Refugee Act 1996 is in force, the qualified child shall be regarded as normally residing with the head of the household of which the child is for the time being a member and with no other person.”.
+
+### 4. Amendment to section 3 of Principal Act.
+
+**4**.— Section 3 of the Principal Act is amended in subsection (10) (as amended by section 37 of and Schedule 7 to the Act of 2006) by inserting—
+
+(*a*) “149(4),” after “149(2),”, and
+
+(*b*) “214(2),” after “211(3),”.
+
+### 5. Limitation on the return of contributions — amendment.
+
+**5**.— Section 38A (inserted by section 8 of the Act of 2009) of the Principal Act is amended in subsection (5) by substituting the following for the definition of “contributions”:
+
+“ ‘contributions’ means—
+
+(*a*) employment contributions,
+
+(*b*) self-employment contributions,
+
+(*c*) voluntary contributions,
+
+(*d*) optional contributions, or
+
+(*e*) health contributions within the meaning of the Health Contributions Act 1979.”.
+
+### 6. Amendment to section 40 of Principal Act.
+
+**6**.— Section 40 (as amended by section 5 of the Act of 2007) of the Principal Act is amended by inserting the following subsections after subsection (6):
+
+“(7) For the purposes of establishing that an insured person is incapable of work on a specified day or days of incapacity for work—
+
+(*a*) a document shall be provided in respect of that person, in such form as may be prescribed, in which it is certified by a registered medical practitioner, or other person as may be prescribed, that the insured person is, was or will be incapable of work on a specified day or days of incapacity for work, and
+
+(*b*) the document shall be provided to an officer of the Minister in such manner as may be prescribed, by the insured person, a registered medical practitioner or other person as may be prescribed.
+
+(8) Without prejudice to subsection (7), the Minister may make regulations for the purposes of that subsection and without prejudice to section 4, regulations under subsection (7) may—
+
+(*a*) make different provision in relation to the different persons or classes of persons who may certify that an insured person is, was or will be incapable of work, and
+
+(*b*) make different provision in relation to the different circumstances or classes of circumstances in respect of the persons referred to in paragraph (*a*) who may certify that an insured person is, was or will beincapable of work.”.
+
+### 7. Jobseeker’s benefit — disqualification for course of study.
+
+**7**.— The Principal Act is amended by inserting the following section after section 68:
+
+“Jobseeker’s benefit — disqualification for course of study.
+
+68A.— (1) A person shall not be entitled toreceive jobseeker’s benefit while attending acourse of study, other than in the circumstances and subject to the conditions and for the periods that may be prescribed.
+
+(2) In this section—
+
+‘academic year’ has the meaning assigned to it by section 148;
+
+‘a course of study’ has the meaning assigned to it by section 148;
+
+‘institution of education’ has the meaning assigned to it by section 148.
+
+(3) For the purposes of this section, a person shall be regarded, subject to regulations made under subsection (1), as attending a course of study—
+
+(*a*) for 3 months immediately following the completion or the leaving by that person of second level education or the completion by him or her of the leaving certificate examination of theDepartment of Education and Skills, whichever is the later,
+
+(*b*) for the duration of an academic year, or
+
+(*c*) for the period immediately following the completion of one academic year, other than the final academic year of a course of study, up to the beginning of the following year.”.
+
+### 8. Incapacity supplement — amendment.
+
+**8**.— (1) Section 76 (as amended by section 4 of and Schedule 1 to the Act of 2006) of the Principal Act is amended by deleting subsection (5).
+
+(2) Section 77 (as amended by section 4 of and Schedule 1 to the Act of 2006) of the Principal Act is amended by substituting the following subsections for subsection (1):
+
+“(1) Subject to this Act, the weekly rate of disablement pension shall be increased—
+
+(*a*) by the amount set out in column (2) of Part 4 of Schedule 2 where, as a result of the relevant loss of faculty, the beneficiary is incapable of work and likely to remain permanently so incapable,
+
+(*b*) by the amount set out in column (3) of Part 4 of Schedule 2 for any period during which the beneficiary has a qualified adult, subject to the restriction that a beneficiary shall not be entitled for the same period to an increase of disablement pension under this subsection in respect of more than one person,
+
+(*c*) by the amount set out in column (4) of Part 4 of Schedule 2 in respect of each qualified child who normally resides with the beneficiary,
+
+(*d*) by the amount set out in column (5) of Part 4 of Schedule 2 where the beneficiary is living alone, and
+
+(*e*) by the amount set out in column (6) of Part 4 of Schedule 2 where the beneficiary is ordinarily resident on an island.
+
+(1A) Any increase of disablement pension payable under section 77(1)(*c*) in respect of a qualified child who normallyresides with the beneficiary and with the spouse of the beneficiary shall be payable at the rate of one-half of the appropriate amount in any case where the spouse of the beneficiary is not a qualified adult and section 77(1)(*c*) shall be read and haveeffect accordingly.”.
+
+(3) Schedule 2 (as amended by section 3 of and Schedule 1 to the Act of 2009) to the Principal Act is amended by substituting the following Part for Part 4:
+
+“PART 4
+
+Increases of Disablement Pension
+
+| Description of Increase | Weekly Rate | Increase for qualified adult (where payable) | Increase for each qualified child (where payable) | Increase where the person is living alone | Increase where the person is ordinarily resident on an island off the coast of Ireland (where payable) |
+|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) |
+|  | € | € | € | € | € |
+| 1. Increase where the person is permanently incapable of work: | 196.00 | 130.10 | 29.80 | 7.70 | 12.70 |
+| additional increase for a beneficiary who has attained the age of 66 years | 8.30 | — | — | — | — |
+| additional increase where the qualified adult has attained the age of 66 years | — | 5.50 | — | — | — |
+| 2. Increase where the person requires constant attendance | 213.00 | — | — | — | — |
+
+”.
+
+### 9. Jobseeker’s allowance — assessment of means.
+
+**9**.— Section 141(2) (as amended by section 9 of the Act of 2007) of the Principal Act is amended by inserting the following paragraph after paragraph (*c*):
+
+“(*ca*) Where the spouse of a claimant for jobseeker’s allowance is a spouse referred to in Part 6, and is in receipt of a payment under Part 6, the means of the claimant shall be taken to be one-half the means.”.
+
+### 10. Jobseeker’s allowance — amendment.
+
+**10**.— (1) Section 142(1) (as amended by section 6 of the Act of 2009) of the Principal Act is amended in paragraph (*a*) by inserting “increased by the amount set out in column (3) of that Part opposite that reference for any period during which the claimant or beneficiary has a qualified adult, subject to the restriction that the claimant or beneficiary shall not be entitled for the same period to an increase of allowance under this paragraph in respect of more than one person, and increased by the appropriate amount set out in column (4) of that Part opposite that reference in respect of each qualified child who normally resides with the claimant or beneficiary, or” after “Part 1 of Schedule 4,”.
+
+(2) Section 142(3) (as amended by section 4 of and Schedule 1 to the Act of 2006) of the Principal Act is amended—
+
+(*a*) by inserting “section 142A(2)(*a*)(iii) and section 142B(2)(*a*)(iii),” after “Notwithstanding subsection (2)(*a*)(iii),”, and
+
+(*b*) by inserting “section 142A(2)(*a*)(iii) or section 142B(2)(*a*)(iii)” after “as calculated in accordance with subsection (2)(*a*)(iii),”.
+
+(3) Section 142 of the Principal Act is amended—
+
+(*a*) in subsection (4) by deleting paragraph (*b*), and
+
+(*b*) by deleting subsections (5), (6) and (7).
+
+### 11. Pre-retirement allowance — assessment of means.
+
+**11**.— Section 149 (as amended by section 9 of the Act of 2007) of the Principal Act is amended by inserting the following subsection after subsection (3):
+
+“(3A) Where the spouse of a claimant for pre-retirement allowance is a spouse referred to in Part 6, and is in receipt of a payment under Part 6, the means of the claimant shall be taken to be one-half the means.”.
+
+### 12. Disability allowance — amendment.
+
+**12**.— Section 211(2) of the Principal Act is amended by deleting paragraph (*b*).
+
+### 13. Farm assist — assessment of means.
+
+**13**.— Section 214 of the Principal Act is amended by inserting the following subsection after subsection (5) (as amended by section 9 of the Act of 2007):
+
+“(6) Where the spouse of a claimant for farm assist is a spouse referred to in Part 6, and is in receipt of a payment under Part 6, the means of the claimant shall be taken to be one-half the means.”.
+
+### 14. Qualified person — amendment.
+
+**14**.— Section 220 (as amended by section 27 of the Act of 2007) of the Principal Act is amended—
+
+(*a*) in subsection (2) by deleting paragraph (*a*), and
+
+(*b*) by inserting the following subsections after subsection (3):
+
+“(3A) The Minister may make regulations fordetermining which of the following persons is the person with whom a qualified child normally resides for the purposes of this Part—
+
+(*a*) one of his or her parents whether they are living in one household or in separate households,
+
+(*b*) one of his or her step-parents whether they are living in one household or in separate households,
+
+(*c*) a relative of the qualified child, including a relative with whom the child has, under section 36 of the Child Care Act 1991, been placed by the Executive,
+
+(*d*) a person who has care and charge of the qualified child in the household of that person, or
+
+(*e*) a foster parent.
+
+(3B) Regulations under this section may provide that where the qualified child does not reside with either of his or her parents, one of his or her parents may, for the purposes of this Part, be determined as the person with whom that child normally resides if—
+
+(*a*) in the case of the mother of the qualified child, the mother is not dead or missing and isentitled to the custody of the child whether solely or jointly with any other person, or
+
+(*b*) in the case of the father of the qualified child, the father is not dead or missing and is entitled to the custody of the child whether solely or jointly with any person other than the mother of the qualified child,
+
+and the mother or, as the case may be, the father has not abandoned or deserted the qualified child and is contributing to the support of the child.
+
+(3C) Where a qualified child does not normally reside with one of his or her parents or the spouse of one of his or her parents and the child resides in the household of a person referred to in paragraph (*c*), (*d*) or (*e*) of subsection (3A), for the purposes of subsection (1) regulations under this section may provide that the relative, person or foster parent shall be regarded as the person with whom the qualified child normally resides.
+
+(3D) Without prejudice to subsection (3C), the regulations may specify a period for which the qualified child is required to be resident in the household concerned for the purpose of determining that the relative, person orfoster parent shall be regarded as being the person with whom the qualified child normally resides and such period shall not be less than 6 months.
+
+(3E) Where a person who has been determined, inaccordance with this section and regulations made under it, to be a qualified person—
+
+(*a*) abandons or deserts the qualified child concerned, or
+
+(*b*) fails to contribute to the maintenance of the qualified child concerned,
+
+the qualified person shall cease to be a qualified person for the purposes of this Part.
+
+(3F) Where a person ceases, in accordance with subsection (3E), to be a qualified person, regulations under this section may provide for determining the person with whom, subsequent to such cessation, the child is regarded as normally residing.
+
+(3G) Regulations under this section may provide for determining the normal residence of a qualified child—
+
+(*a*) where a person with whom the qualified child normally resides dies, and
+
+(*b*) where the parents of the qualified child are separated or living apart.”.
+
+### 15. Amendment to section 320 of Principal Act.
+
+**15**.— The Principal Act is amended by substituting the following section for section 320 (as amended by section 29 of and Schedule 6 to the Act of 2006):
+
+“320.— The decision of an appeals officer on any question shall, subject to sections 301(1)(*b*), 317, 318, 324(1)(*c*), and 327, be final and conclusive.”.
+
+### 16. Appeals to High Court — amendment.
+
+**16**.— (1) Section 327 of the Principal Act is amended by deleting “on any question, other than a question to which section 320 applies,”.
+
+(2) The Principal Act is amended by inserting the following section after section 327:
+
+“Appeal to High Court by Minister.
+
+327A.— (1) Where pursuant to section 318 the Chief Appeals Officer—
+
+(*a*) revises a decision of an appeals officer, the Minister may appeal that revised decision to the High Court on any question of law, or
+
+(*b*) does not revise a decision of an appeals officer, the Minister may appeal the decision of the Chief Appeals Officer not to revise the first-mentioneddecision to the High Court on any question of law.
+
+(2) An appeal by the Minister under subsection (1) shall not operate as a stay on the payment of benefit or assistance to a person pursuant to adecision of an appeals officer or, as the case may be, the Chief Appeals Officer, until that appeal is determined.”.
+
+### 17. Amendment to Schedule 3 to Principal Act.
+
+**17**.— Schedule 3 to the Principal Act is amended in Table 2—
+
+(*a*) by substituting the following reference for reference 1 (as amended by section 29 of and Schedule 6 to the Act of 2006):
+
+“
+
+| 1. | any moneys received by way of benefit, pension, assistance, allowance, supplement or continued payment for qualified children under Part 2, 3, 4, 5, 6, 7, 8 or 8A; |
+|---|---|
+
+”,
+
+(*b*) by substituting the following reference for reference 2 (as amended by section 33 of the Act of 2006):
+
+“
+
+| 2. | any moneys received by way of child benefit under Part 4 or a payment corresponding to that benefit from another Member State; |
+|---|---|
+
+”,
+
+and
+
+(*c*) by substituting the following reference for reference 3 (as amended by section 33 of the Act of 2006):
+
+“
+
+| 3. | any moneys received from the Health Service Executive by way of a home care grant; |
+|---|---|
+
+”.
+
+### 18. Jobseeker’s benefit — reduction of rates in certain circumstances.
+
+**18**.— F1[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Repealed (29.12.2010) by *Social Welfare Act 2010* (34/2010), s. 10, S.I. No. 679 of 2010.
+
+### 19. Jobseeker’s allowance — reduction of rates in certain circumstances.
+
+**19**.— F2[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Repealed (29.12.2010) by *Social Welfare Act 2010* (34/2010), s. 10, S.I. No. 679 of 2010.
+
+### 20. Supplementary welfare allowance — reduction of weekly amount in certain circumstances.
+
+**20**.— F3[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Repealed (29.12.2010) by *Social Welfare Act 2010* (34/2010), s. 10, S.I. No. 679 of 2010.
+
+### 21. Rates of assistance — amendment.
+
+**21**.— The Principal Act is amended—
+
+(*a*) in section 142A(4) (as amended by section 6 of the Act of 2009)—
+
+(i) in paragraph (*a*), by substituting “period of unemployment” for “period of interruption of employment”, and
+
+(ii) by inserting the following paragraph after paragraph (*a*):
+
+“(*aa*) the period of unemployment commenced on or after 29 April 2009 and in the period commencing on 29 April 2009 and ending on 29 December 2009 the claimantattained the age of 20 years,”,
+
+and
+
+(*b*) in section 142B(3)(*a*) (inserted by section 6 of the Act of 2009) by substituting “period of unemployment” for “period of interruption of employment”.
+
+### 22. Appointment of appeals officers — amendment.
+
+**22**.— Section 304 of the Principal Act is amended by substituting the following section for section 304:
+
+“304.— The Minister may appoint such and so many persons as he or she thinks proper to be appeals officers for the purposes of any provision or provisions of this Act, and every person so appointed shall be an appeals officer during the pleasure of the Minister.”.
+
+### 23. Chief Appeals Officer — amendment.
+
+**23**.— Section 305 of the Principal Act is amended—
+
+(*a*) by inserting “who is an officer of the Minister” after “One of the appeals officers”, and
+
+(*b*) by inserting “who is an officer of the Minister” after “and another of them”.
+
+### 24. Miscellaneous amendments to Principal Act.
+
+**24**.— (1) The Principal Act is amended—
+
+(*a*) by deleting section 223A (as amended by section 18 of the Financial Emergency Measures in the Public Interest Act 2009),
+
+(*b*) by deleting section 223B (as amended by section 8 of the Social Welfare and Pensions Act 2009),
+
+(*c*) in section 240 (as amended by section 10 of the Act of 2007), in the definition of “benefit”, by deleting paragraph (*d*), and
+
+(*d*) in section 300(2) (as amended by Schedule 1 to the Act of 2008) by deleting paragraph (*ca*) (inserted by section 29 of the Act of 2006).
+
+(2) Section 2 (as amended by section 9 of the Social Welfare (Miscellaneous Provisions) Act 2008) of the Principal Act is amended in subsection (1) by inserting the following definitions:
+
+“ ‘governing contribution year’ means the second last complete contribution year before the beginning of the benefit year which includes the day for which the benefit is claimed;
+
+‘registered medical practitioner’ has the meaning assigned to it by the Medical Practitioners Act 2007;”.
+
+(3) Section 51(1) of the Principal Act is amended in paragraph (*a*) by deleting the definition of “registered medical practitioner”.
+
+(4) Section 148 (as amended by section 4 of and Schedule 1 to the Act of 2006) of the Principal Act is amended in subsection (2), in the definition of “a course of study”—
+
+(*a*) by deleting “, subject to subsection (3),”, and
+
+(*b*) by inserting “which may take place over more than one academic year” after “study, instruction or training”.
+
+(5) Each provision of the Principal Act mentioned in *column (1)* of the *Schedule* is amended in the manner specified in *column (2)* of that *Schedule* opposite the mention of that provision in *column (2)*.
+
+### 25. One-parent family payment — amendments.
+
+**25**.— (1) The Principal Act is amended by inserting the following section after section 172:
+
+“Qualified child for purposes of one-parent family payment.
+
+172A.— In this Chapter, other than section 174(1), ‘qualified child’ means—
+
+(*a*) a person who is ordinarily resident in the State,
+
+(*b*) is not detained in a children detention school, and
+
+(*c*) has—
+
+(i) not attained the age of 14 years, or
+
+(ii) attained the age of 14 years but has not attained the age of 16 years and is a child in respect of whom a payment under Chapter 8A of Part 3 is in payment.”.
+
+(2) Section 173 of the Principal Act is amended—
+
+(*a*) by substituting the following subsection for subsection (3) (as amended by section 8 of the Act of 2008):
+
+“(3) Subject to this Act, a one-parent family payment shall not be payable to a qualified parent whose gross weekly earnings (including wages and profit from any form of self-employment) calculated or estimated in the manner that may be prescribed exceed €425.”,
+
+(*b*) by substituting the following subsection for subsection (4):
+
+“(4) Where a person who has been in receipt of one-parent family payment for a period of 52 consecutive weeks, ceases to be entitled to the payment by virtue of his or her gross weekly earnings exceeding the amount specified in subsection (3) he or she shall, notwithstanding that subsection, continue to be entitled to that payment where he or she continues to satisfy the conditions for entitlement other than in subsection (3), and the payment shall be—
+
+(*a*) calculated in accordance with subsection (5), and
+
+(*b*) payable, in accordance with subsection (5B), for a period not exceeding 6 months from the date on which, but for this subsection, that person would have ceased to be so entitled.”,
+
+and
+
+(*c*) by substituting the following subsections for subsection (5):
+
+“(5) Subject to subsection (5A), in the case of a person to whom subsection (4) applies, one-parent family payment shall be payable at an amount equal to 50 per cent of the weekly rate payable to the qualified parent immediately before the day on which, but for this subsection, the qualified parent would have ceased to be entitled to the payment.
+
+(5A) The amount payable in accordance with subsection (5) shall be rounded up to the nearest 10 cent where it is a multiple of 5 cent but not also a multiple of 10 cent and shall be rounded to the nearest 10 cent where it is not a multiple of 5 cent or 10 cent.
+
+(5B) Where the payment is made in accordance with subsection (4), the period of 6 months for which the payment is payable shall apply—
+
+(*a*) where the 6 month period is comprised of 6 consecutive months, or
+
+(*b*) where the payment is made other than in a period of 6 consecutive months, the cumulative total of all periods during which the payment is made shall not exceed 6 months,
+
+from the date on which, but for subsection (4), the person referred to in subsection (4) would have ceased to be so entitled.”.
+
+(3) The Principal Act is amended by inserting the following sections after section 173:
+
+“Entitlement to one-parent family payment when child attains age of 14.
+
+173A.— (1) This section applies—
+
+(*a*) to a surviving spouse where both spouses of a married couple are, on the relevant date, living together and one of them dies, and
+
+(*b*) to a surviving person where a man and a woman who are not married to each other are, on the relevant date,cohabiting as husband and wife and one of them dies,
+
+and the surviving spouse or surviving person is the parent, step-parent, adoptive parent or legal guardian of at least one child who normally resides with that surviving spouse or surviving person and the youngest child has, on the relevant date,attained the age of 14 years.
+
+(2) One-parent family payment shall be payable to a surviving spouse or surviving person to whom this section applies for a period—
+
+(*a*) commencing on the relevant date and not exceeding 2 years, or
+
+(*b*) commencing on the relevant date until the youngest child has attained the age of 18 years,
+
+whichever is the shorter.
+
+(3) In this section—
+
+‘relevant date’ means the date of death of—
+
+(*a*) the spouse of the surviving spouse, or
+
+(*b*) the person cohabiting with the surviving person.
+
+Entitlement to one-parent family payment in certain circumstances.
+
+173B.— (1) This section applies—
+
+(*a*) to a surviving spouse where both spouses of a married couple are, on the relevant date, living together and one of them dies, and
+
+(*b*) to a surviving person where a man and a woman who are not married to each other are, on the relevant date,cohabiting as husband and wife and one of them dies,
+
+and the surviving spouse or surviving person is the parent, step-parent, adoptive parent or legal guardian of at least one child who normally resides with that surviving spouse or surviving person and the youngest child has, on the relevant date,attained the age of 12 years but has not attained the age of 14 years.
+
+(2) Where one-parent family payment is made, in accordance with section 173, in respect of a child referred to in subsection (1) from the relevant date, when the child attains the age of 14 years one-parent family payment shall be payable to a surviving spouse or a surviving person to whom this section applies for the remainder of the relevant period.
+
+(3) In this section—
+
+‘relevant date’ has the meaning assigned to it by section 173A;
+
+‘relevant period’ means a period of 2 years commencing on the relevant date.”.
+
+(4) Section 178A (as amended by section 23 of the Act of 2007) of the Principal Act is amended by inserting the following subsections after subsection (5):
+
+“(6) Notwithstanding section 172A(*c*)(i), a qualified parent who, immediately before the commencement of that section, is in receipt of a one-parent family payment and but for that section would continue to be so eligible, shall continue to be eligible for the payment as follows:
+
+(*a*) in 2011, until the youngest qualified child attains the age of 18;
+
+(*b*) in 2012, until the youngest qualified child attains the age of 18;
+
+(*c*) in 2013, until the youngest qualified child attains the age of 17;
+
+(*d*) in 2014, until the youngest qualified child attains the age of 16;
+
+(*e*) in 2015, until the youngest qualified child attains the age of 15;
+
+(*f*) in 2016, until the youngest qualified child attains the age of 14.
+
+(7) Notwithstanding section 172A, where, immediatelybefore the commencement of section 172A a qualified parent is in receipt of a one-parent family payment, the payment shall continue to be payable to that person up to the end of the 2012 academic year in respect of a child who, having attained the age of 18 years, is under the age of 22 years and is receiving full-time education, in such circumstances as may be prescribed.
+
+(8) Notwithstanding section 172A, where a person, who, having been in receipt of the one-parent family payment for 52 consecutive weeks, is disqualified for receipt of that payment by virtue of—
+
+(*a*) having gross weekly earnings in excess of that specified in section 173(3), or
+
+(*b*) participation in a scheme commonly known as the back to education allowance,
+
+and where but for that disqualification the person would beentitled to that one-parent family payment, the person shall again become entitled to that payment, subject to, and in accordance with, subsection (6), at the expiration of the disqualification.
+
+(9) Where, immediately before the commencement of section 172A, a person whose claim for a one-parent family payment has not been fully determined, and who would, but for the commencement of that section, have become entitled to the one-parent family payment, that payment shall, in accordance with his or her entitlement under this Act, be payable for the duration of his or her entitlement.
+
+(10) Subsections (6) and (8) shall cease to have effect on 31 December 2016.”.
+
+### 26. Domiciliary care allowance — amendment.
+
+**26**.— (1) Section 186B (inserted by section 15 of the Act of 2008) of the Principal Act is amended by inserting the following definition:
+
+“ ‘medical assessor’ means an officer of the Minister who is a registered medical practitioner;”.
+
+(2) The Principal Act is amended by substituting the following section for section 186C (as amended by section 19 of the Social Welfare (Miscellaneous Provisions) Act 2008):
+
+“186C.— (1) A person who has not attained the age of 16 years (in this section referred to as the ‘child’) is a qualified child for the purposes of the payment of domiciliary care allowance where—
+
+(*a*) the child has a severe disability requiring continual or continuous care and attention substantially in excess of the care and attention normally required by a child of the same age,
+
+(*b*) the level of disability caused by that severe disability is such that the child is likely to require full-time care and attention for at least 12 consecutive months,
+
+(*c*) the child—
+
+(i) is ordinarily resident in the State, or
+
+(ii) satisfies the requirements of section 219(2),
+
+and
+
+(*d*) the child is not detained in a children detention school.
+
+(2) A medical assessor shall—
+
+(*a*) assess all information provided to him or her inrespect of an application for domiciliary care allowance, and
+
+(*b*) provide an opinion as to whether the child satisfies paragraphs (*a*) and (*b*) of subsection (1).
+
+(3) In determining whether a child satisfies paragraphs (*a*) and (*b*) of subsection (1), a deciding officer shall have regard to the opinion, referred to in subsection (2)(*b*), of the medical assessor.”.
+
+## PART 3 Functions of Minister Relating to An Foras iseanna Saothair — PART 3 — Functions of Minister Relating to An Foras Áiseanna Saothair
+
+### 27. Interpretation.
+
+**27**.—F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 34(1), S.I. No. 703 of 2011.
+
+### 28. Advances by Minister to An Foras.
+
+**28**.— F5[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Repealed (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 34(1), S.I. No. 703 of 2011.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section repealed as per F-note above.
+
+### 29. Request by Minister to An Foras for reports and information.
+
+**29**.— F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Repealed (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 34(1), S.I. No. 703 of 2011.
+
+### 30. Directions by Minister to An Foras.
+
+**30**.— F7[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Repealed (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 34(1), S.I. No. 703 of 2011.
+
+## PART 4 Assistance for Employment and Certain Schemes Providing Employment and Income Support — PART 4 — Assistance for Employment and Certain Schemes Providing Employment and Income Support
+
+### 31. Interpretation.
+
+**31**.— In this Part “scheme” includes a programme or measure.
+
+### 32. Functions of Minister.
+
+**32**.— (1) The Minister may—
+
+(*a*) with the consent of the Minister for Finance, develop and implement a scheme, including a scheme developed and implemented in conjunction with or with the co-operation of another Minister of the Government, a body established by or under statute or any other person, that facilitates and provides assistance for—
+
+(i) the provision of income support,
+
+(ii) generating or maintaining employment and without prejudice to the generality of the foregoing such assistance includes—
+
+(I) assistance for the purposes of supporting, managing, administering, planning and supervising such employment, and
+
+(II) financial assistance as may be determined from time to time having regard to the purpose and requirements of the scheme concerned,
+
+and
+
+(iii) any service that provides employment or opportunities for creating employment either generally or in relation to communities or areas and includes any such service the purpose of which is to benefit communities or areas,
+
+(*b*) maintain a scheme referred to in *paragraph (a)*,
+
+(*c*) expand, with the consent of the Minister for Finance, a scheme referred to in *paragraph (a)*, and
+
+(*d*) without prejudice to the generality of the foregoing, maintain—
+
+(i) the scheme commonly known as the rural social scheme, and
+
+(ii) the programme commonly known as the community services programme,
+
+and may maintain such scheme or programme in conjunction with or with the co-operation of any other Minister of the Government, a body established by or understatute or any other person, and may, with the consent of the Minister for Finance, expand such scheme or programme.
+
+(2) The Minister shall not be, or be deemed to be, an employer, within the meaning of the Terms of Employment (Information) Acts 1994 and 2001 by virtue only of the provision of funding to a person or persons under a scheme provided under this Part or the scheme referred to in *subsection (1)(d)(i)* or the programme referred to in *subsection (1)(d)(ii)*.
+
+(3) A scheme developed, implemented, maintained or expanded by the Minister under this Part—
+
+(*a*) may be operated, managed, delivered or sponsored by any other person, and may be so operated, managed, delivered or sponsored directly or indirectly, and
+
+(*b*) may be operated, managed, delivered or sponsored by any other person in whole or in part.
+
+(4) Nothing in this Part shall be construed as—
+
+(*a*) preventing the Minister from terminating a scheme,
+
+(*b*) without prejudice to the generality of *paragraph (a)*, preventing the Minister from terminating the schemereferred to in *subsection (1)(d)(i)* or the programmereferred to in *subsection (1)(d)(ii)*, or
+
+(*c*) affecting any function of another Minister of the Government or a body established by or under statute.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of” and “Minister for Employment Affairs and Social Protection” construed (1.01.2018) by *Community Services Programme (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 578 of 2017), arts. 2, 3(1)(a)(i), (ii), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Rural and Community Development.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Rural and Community Development.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection—
+>
+> (a) by or under—
+>
+> (i) section 32 (1)(d)(ii) of the Social Welfare (Miscellaneous Provisions) Act 2010 (No. 28 of 2010),
+>
+> (ii) section 32 of the Social Welfare (Miscellaneous Provisions) Act 2010 , in so far as it relates to the functions transferred by clause (i),
+>
+> ... and
+>
+> (b) in relation to the administration of the scheme commonly known as the community services programme,
+>
+> are transferred to the Minister for Rural and Community Development.
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Rural and Community Development.
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 28 of 2010</td><td>Social Welfare (Miscellaneous Provisions) Act 2010</td><td>Sections 28 and 32</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 33. Amendment to Community, Rural and Gaeltacht Affairs (Miscellaneous Provisions) Act 2007.
+
+**33**.— The Community, Rural and Gaeltacht Affairs (Miscellaneous Provisions) Act 2007 is amended by inserting the following section after section 3:
+
+“Minister for Social Protection to maintain certain schemes.
+
+3A.— The Minister for Social Protection shall, under and in accordance with *Part 4* of the *Social Welfare (Miscellaneous Provisions) Act 2010*, maintain—
+
+(*a*) the scheme commonly known as the rural social scheme, and
+
+(*b*) the programme commonly known as the community services programme.”.
+
+## PART 5 Miscellaneous — PART 5 — Miscellaneous
+
+### 34. Expenses.
+
+**34**.— The expenses incurred by the Minister in the administration of F8[*Part 4*] shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas and the expenses incurred by the Minister for Finance in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 34(2), S.I. No. 703 of 2011.
+
+## SCHEDULE — Miscellaneous Amendments to Principal Act
+
+| Provision affected | Amendment |
+|---|---|
+| (1) | (2) |
+| Sections 2(1), in the definition of “social welfare inspector”, 250(1), 250(7) and 320(*b*) | Delete “4A,” |
+| Paragraphs (*a*) and (*b*) of section 334(1) | Delete “4A,” |
+| Sections 250(2)(*c*), 251(4) and 251(5) | Delete “or early childcare supplement” |
+| Section 341(8) | Delete “or early childcare supplement” in each place where it occurs |
+| Sections 2(1), in the definition of “beneficiary” and “claimant”, 244(1)(*c*) (iii) and 292(1) | Substitute “child benefit or family income supplement,” for “child benefit, early childcare supplement or family income supplement,” |
+| Section 337 | Substitute “child benefit or family income supplement,” for “child benefit, early childcare supplement or family income supplement,” in each place where it occurs |
+| Sections 285(1), 302(*a*), 319(*a*), 334, 335, 336, 338(*b*), 341(9) and 342 | Delete “early childcare supplement,” in each place where it occurs |
+| Section 287(1) | Substitute “jobseeker’s allowance and child benefit” for “jobseeker’s allowance and child benefit and early childcare supplement” |

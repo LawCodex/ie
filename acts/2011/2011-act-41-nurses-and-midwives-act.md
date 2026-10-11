@@ -1,0 +1,3781 @@
+---
+title: "Nurses and Midwives Act 2011"
+identifier: "eli/2011/act/41"
+type: act
+jurisdiction: ie
+language: en
+number: 41
+year: 2011
+date: 2011-12-21
+last_amended: 2025-05-06
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2011/act/41/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2011/act/41/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Nurses and Midwives Act 2011
+
+AN ACT FOR THE PURPOSE OF THE ENHANCEMENT OF THE PROTECTION OF THE PUBLIC IN ITS DEALINGS WITH NURSES AND MIDWIVES AND, FOR THAT PURPOSE, TO PROVIDE FOR A BOARD TO BE KNOWN AS BORD ALTRANAIS AGUS CNÁIMHSEACHAIS NA hÉIREANN, OR IN THE ENGLISH LANGUAGE, THE NURSING AND MIDWIFERY BOARD OF IRELAND, TO RECOGNISE MIDWIFERY AS A SEPARATE PROFESSION, TO PROVIDE FOR THE REGISTRATION, REGULATION AND CONTROL OF NURSES AND MIDWIVES, TO ENHANCE THE HIGH STANDARDS OF PROFESSIONAL EDUCATION, TRAINING AND COMPETENCE OF NURSES AND MIDWIVES, TO INVESTIGATE COMPLAINTS AGAINST NURSES AND MIDWIVES AND TO INCREASE THE PUBLIC ACCOUNTABILITY OF THE BOARD, TO DISSOLVE THE NATIONAL COUNCIL FOR THE PROFESSIONAL DEVELOPMENT OF NURSING AND MIDWIFERY, TO REPEAL THE NURSES ACT 1985 AND TO PROVIDE FOR RELATED MATTERS.
+
+[21*st December*, 2011]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions under certain provisions transferred and references to “Minister for Education” construed (1.06.2023) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 291 of 2023), arts. 3(1)(a), (2), and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 3\. (1) The functions vested in the Minister for Education –
+>
+> (*a*) by or under the provisions of an Act specified in column (1) of the Schedule, to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified, and
+>
+> ...
+>
+> are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> ...
+>
+> Schedule
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Nurses and Midwives Act 2011 (No. 41 of 2011)</td><td>Paragraphs (a) and (e) of section 22(1); paragraphs (a) and (j) of section 85(2).</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Work or activity under Act which is carried on by a person, a necessary and regular part of which requires the person to have access to, or contact with, children and vulnerable persons pursuant to Act, is made subject to provisions of *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012) (29.04.2016) by *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012), s. 2 and sch. 1, part 1 item 15(c) and part 2 item 12(c), S.I. No. 214 of 2016.
+
+## PART 1 Preliminary and general — PART 1 — Preliminary and general
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Nurses and Midwives Act 2011.
+
+(2) This Act shall come into operation on the day or days that the Minister may appoint by order either generally or with reference to a particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(3) An order under *subsection (2)* may, in respect of the repeal of the Act of 1985, and the revocation of the statutory instruments, effected by *section 4*, appoint different days for the repeal of different provisions of that Act and the revocation of different provisions of those statutory instruments.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subss. (2), (3) exercised (9.05.2022) by Nurses and Midwives Act 2011 (Commencement) Order 2022 (S.I. No. 226 of 2022).
+>
+> 2\. The 9th day of May 2022 is appointed as the day on which the following provisions of the Nurses and Midwives Act 2011 (No. 41 of 2011) shall come into operation:
+>
+> (*a*) subsection (1) of section 4 insofar as it relates to the repeal of section 49 of the Nurses Act 1985 (No. 18 of 1985);
+>
+> (*b*) section 39;
+>
+> (*c*) section 41;
+>
+> (*d*) sections 44 and 45;
+>
+> (*e*) section 103.
+>
+> E3: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives Act 2011 (Commencement) Order 2018* (S.I. No. 213 of 2018).
+>
+> 2\. The 25th day of June 2018 is appointed as the day on which section 4(2) of the Nurses and Midwives Act 2011 (No. 41 of 2011) shall come into operation.
+>
+> E4: Power pursuant to section exercised (1.01.2015) by *Nurses and Midwives Act 2011 (Commencement) Order 2014* (S.I. No. 609 of 2014).
+>
+> 2\. The 1st day of January 2015 is appointed as the day on which sections 42 and 43 of the Nurses and Midwives Act 2011 (No. 41 of 2011) shall come into operation.
+>
+> E5: Power pursuant to section exercised (2.10.2012 and 3.10.2012) by *Nurses and Midwives Act 2011 (Commencement) (No. 2) Order 2012* (S.I. No. 385 of 2012).
+>
+> 2\. The 2nd day of October 2012 is appointed as the day on which the following provisions of the Nurses and Midwives Act 2011 (No. 41 of 2011) shall come into operation:
+>
+> (*a*) section 3;
+>
+> (*b*) section 4(1) in so far as it relates to the repeal of the provisions of the Nurses Act 1985 (No. 18 of 1985) specified in the Schedule to this Order;
+>
+> (*c*) section 5;
+>
+> (*d*) Part 2 other than sections 9(2)(*g*)(ii) and 17(3);
+>
+> (*e*) Part 3;
+>
+> (*f*) Part 4 in so far as it is not already in operation;
+>
+> (*g*) Part 5 other than section 37(2)(*a*);
+>
+> (*h*) sections 46 to 54;
+>
+> (*i*) Part 7 other than subsection (1)(*b*) (in so far as it relates to a professional competence scheme), and subsection (2)(*d*), of section 59;
+>
+> (*j*) Part 8 other than subsections (5) and (6) of section 64 and section 65(1)(*b*);
+>
+> (*k*) Part 9;
+>
+> (*l*) sections 85 and 86;
+>
+> (*m*) subsections (1) and (4) (in so far as that subsection applies to the said subsection (1)) of section 102;
+>
+> (*n*) sections 104 to 107; and
+>
+> (*o*) Schedule.
+>
+> 3\. The 3rd day of October 2012 is appointed as the day on which section 17(3) and subsections (5) and (6) of section 64 of the Nurses and Midwives Act 2011 shall come into operation.
+>
+> SCHEDULE
+>
+> PROVISIONS OF NURSES ACT 1985 REPEALED
+>
+> (*a*) Part II,
+>
+> (*b*) Part III,
+>
+> (*c*) Part IV,
+>
+> (*d*) section 48,
+>
+> (*e*) sections 50 to 56, and
+>
+> (*f*) Second Schedule.
+>
+> E6: Power pursuant to section exercised (26.07.2012) by *Nurses and Midwives Act 2011 (Commencement) Order 2012* (S.I. No. 275 of 2012).
+>
+> 2\. The 26th day of July 2012 is appointed as the day on which the following provisions of the Nurses and Midwives Act 2011 shall come into operation:
+>
+> (*a*) paragraph (*a*) of section 22(1) in so far only as that paragraph provides for the specification by the Minister of procedures for the compilation of lists of names of registered nurses and registered midwives from which 2 members of the Board are to be chosen by the Minister;
+>
+> (*b*) paragraph (*b*) of section 22(1) in so far only as that paragraph provides for the specification by the Minister of procedures for the compilation of a list of names of Directors of Nursing and Directors of Midwifery by the Health Service Executive from which one member of the Board shall be chosen by the Minister and for the compilation of that list;
+>
+> (*c*) paragraph (*c*) of section 22(1) in so far only as that paragraph provides for the specification by the Minister of procedures for the election of 8 registered nurses or registered midwives by registered nurses and registered midwives for appointment to the Board and for the holding of that election;
+>
+> (*d*) paragraph (*d*) of section 22(1) in so far only as that paragraph provides for the nomination by the Medical Council of one person for appointment to the Board;
+>
+> (*e*) paragraph (*e*) of section 22(1) in so far only as that paragraph provides for the nomination by the Minister for Education and Skills of one person for appointment to the Board;
+>
+> (*f*) paragraph (*f*) of section 22(1) in so far only as that paragraph provides for the nomination by the Health Service Executive of 2 persons for appointment to the Board;
+>
+> (*g*) paragraph (*g*) of section 22(1) in so far only as that paragraph provides for the nomination by the Health and Social Care Professionals Council of one person for appointment to the Board;
+>
+> (*h*) paragraph (*h*) of section 22(1) in so far only as that paragraph provides for the nomination by the Health Information and Quality Authority of one person for appointment to the Board; and
+>
+> (*i*) paragraph (*j*) of section 22(1) in so far only as that paragraph provides for the Minister to engage in such consultations as he or she considers appropriate for the purposes of forming the opinion referred to in that paragraph regarding the appointment to the Board of the 5 persons referred to in that paragraph.
+>
+> E7: Power pursuant to section exercised (1.01.2012) by *Nurses and Midwives Act 2011 (Commencement) Order 2011* (S.I. No. 715 of 2011).
+>
+> 2\. The 1st day of January 2012 is appointed as the day on which the following provisions of the Nurses and Midwives Act 2011 (No. 41 of 2011) shall come into operation:
+>
+> (*a*) sections 1 and 2;
+>
+> (*b*) Part 12.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act—
+
+“Act of 1985” means the Nurses Act 1985;
+
+F1["allegation", in relation to a complaint, means an allegation—
+
+(*a*) arising out of the complaint, and
+
+(*b*) which falls within one or more than one of the grounds specified in *section 55(1)*;]
+
+“An tÚdarás” means An tÚdarás um Ard-Oideachas;
+
+“appropriate fee”, in relation to a provision of this Act, means the fee F1[(if any)] determined under *section 38(1)* that is appropriate for that provision;
+
+F1["authorised officer" means a member of the staff of the Board appointed under *section 56(1)* to be an authorised officer to perform the functions specified under *section 56(2)*;]
+
+“Board” means the Board established by section 6 of the Act of 1985 and continued and renamed by *section 6(1)*;
+
+“candidate” means a person who is following a course of study or a period of adaptation leading to first time registration with the Board;
+
+“candidate register” means the register established under *section 46(1)(b)*;
+
+“chief executive officer” means the chief executive officer of the Board appointed under *section 28*;
+
+“complaint” means a complaint under *section 55(1)*;
+
+“conditions” includes terms F1[and restrictions];
+
+“Court” means the High Court;
+
+F2[“Directive 2005/36/EC” has the meaning assigned to “Directive” in Regulation 3(1) of the Regulations of 2017;]
+
+“decision”, in relation to an appeal under *section 52*, F1[*52A*,] *73*, *81* or *86*, includes part of a decision;
+
+“Fitness to Practise Committee” means the committee established under *section 24(2)(b)*;
+
+F1["health or social care", in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;]
+
+“inquiry” means an inquiry into a complaint by the Fitness to Practise Committee pursuant to a referral under *section 61*;
+
+F1["investigation", in relation to a complaint, means an investigation referred to in *section 56A(1)*;
+
+"investigation report", in relation to a complaint, means a report referred to in *section 56A(3)* following the investigation of the complaint;]
+
+“local authority” has the same meaning as it has in the Local Government Act 2001;
+
+F1["material matter", in relation to a person (howsoever described), means—
+
+(*a*) any of the following taken by any regulatory body (whether in or outside the State), other than the Board, in relation to the provision of one or more than one kind of health or social care by the person:
+
+(i) the imposition of conditions (other than relevant conditions) on any registration or licence;
+
+(ii) the suspension, withdrawal or removal of any registration or licence;
+
+(iii) the refusal to grant registration or a licence,
+
+or
+
+(*b*) a conviction in the State for an offence triable on indictment (other than a spent conviction within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016) or a conviction outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment;]
+
+“midwives division” means that division of the register of nurses and midwives referred to in *section 46(2)(b)*;
+
+“Minister” means the Minister for Health;
+
+“nurses division” means that division of the register of nurses and midwives referred to in *section 46(2)(a)*;
+
+“poor professional performance”, in relation to a nurse or midwife, means a failure by the nurse or midwife to meet the standards of competence (whether in knowledge and skill or the application of knowledge and skill or both) that can reasonably be expected of a registered nurse or registered midwife, as the case may be, carrying out similar work;
+
+“Preliminary Proceedings Committee” means the committee established under *section 24(2)(a)*;
+
+“professional competence scheme” means a scheme established under *section 89(1)*;
+
+“published in the prescribed manner”, in relation to any document or information (howsoever described), means the document or information, as the case may be—
+
+(*a*) is published on an internet website of the Board (including part of such a website) to which access is readily available by members of the public and where anything published is readily available for inspection by members of the public, and
+
+(*b*) is available for inspection, at the offices of the Board and at all reasonable times, by members of the public;
+
+“register of nurses and midwives” means the register of nurses and midwives established under *section 46(1)(a)*;
+
+“registers establishment day” shall be construed in accordance with *section 47(1)*;
+
+“register of nurses” means the register established under section 27 of the Act of 1985;
+
+F1["registered address" —
+
+(*a*) in relation to a registered nurse or registered midwife, means the address specified in the register of nurses and midwives as the nurse’s or midwife’s address, and
+
+(*b*) in relation to a registered candidate, means the address specified in the candidate register as the candidate’s address;
+
+"registered candidate" means a candidate whose name is entered in the candidate register;]
+
+“registered medical practitioner” has the same meaning as it has in the Medical Practitioners Act 2007;
+
+“registered midwife”—
+
+(*a*) before the registers establishment day, means a midwife whose name is entered in the midwives division of the register of nurses within the meaning of the Act of 1985, and
+
+(*b*) on and after the registers establishment day, means a midwife whose name is entered in the midwives division of the register of nurses and midwives;
+
+“registered nurse”—
+
+(*a*) before the registers establishment day, means a nurse whose name is entered in the register of nurses within the meaning of the Act of 1985, and
+
+(*b*) on and after the registers establishment day, means a nurse whose name is entered in the nurses division of the register of nurses and midwives;
+
+F3[...]
+
+F4[“Regulations of 2017” means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);]
+
+“relevant condition”, in relation to a registered nurse or registered midwife, means any condition attached to the registration of the nurse or midwife pursuant to—
+
+(*a*) *section 51*,
+
+(*b*) a decision confirmed or given under F1[*section 52(4)* or *52A(4)*],
+
+(*c*) a decision confirmed or given under *section 73* or *74*,
+
+(*d*) *section 79(3)*, or
+
+(*e*) a decision confirmed or given under *section 81(3)*;
+
+F1["relevant medical disability", in relation to a person, means a physical or mental disability of the person (including addiction to alcohol or drugs) which may impair his or her ability to practise nursing or midwifery or a particular aspect thereof;]
+
+F1["relevant profession" means any of the following professions:
+
+(*a*) dentist;
+
+(*b*) a designated profession within the meaning of section 3 of the Health and Social Care Professionals Act 2005;
+
+(*c*) medical practitioner;
+
+(*d*) midwife;
+
+(*e*) nurse;
+
+(*f*) pharmacist;
+
+"restriction" includes a condition;]
+
+“rules” means rules made under *section 13*;
+
+“third country” means a state other than the State or another Member State.
+
+(2) For the avoidance of doubt, it is hereby declared and recognised that midwifery is a separate profession to nursing.
+
+F5[(3) Unless otherwise specified in this Act, nothing in this Act shall be construed to prejudice the performance by the Board of its functions under the Regulations of 2017 as the competent authority in respect of the regulated professions (within the meaning of *Regulation 3* of those Regulations) concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted and substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 144(a)(i)-(vi), S.I. No. 409 of 2021.
+>
+> F2: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 93(a)(i), in effect as per reg. 2.
+>
+> F3: Deleted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 93(a)(ii), in effect as per reg. 2.
+>
+> F4: Inserted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 93(a)(iii), in effect as per reg. 2.
+>
+> F5: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 144(b), S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (1) amended (13.01.2014) by *European Union (Recognition of Professional Qualifications relating to the Professions of Dentist, Medical Practitioner, Nurse and Midwife) Regulations 2014* (S.I. No. 7 of 2014), reg. 4; deleted as per F-note above.
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed, or for the purpose of giving full effect to this Act.
+
+(2) The regulations may contain such consequential, supplementary or incidental provisions as may be necessary or expedient for that purpose.
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling such regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Repeal, revocation, etc.
+
+**4**.— (1) The Act of 1985 is repealed.
+
+(2) The following orders are revoked:
+
+(*a*) National Council for the Professional Development of Nursing and Midwifery (Establishment) Order 1999 (S.I. No. 376 of 1999);
+
+(*b*) National Council for the Professional Development of Nursing and Midwifery (Establishment) Order, 1999 (Amendment) Order 2000 (S.I. No. 352 of 2000);
+
+(*c*) National Council for the Professional Development of Nursing and Midwifery (Establishment) Order, 1999 (Amendment) Order 2004 (S.I. No. 800 of 2004); and
+
+(*d*) Health (An Bord Altranais) (Additional Functions) Order 2010 (S.I. No. 3 of 2010).
+
+### 5. Expenses.
+
+**5**.— Any expenses incurred by the Minister in the administration of this Act shall, to such extent as may be approved by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Bord Altranais agus Cnimhseachais na hireann — PART 2 — Bord Altranais agus Cnáimhseachais na hÉireann
+
+### 6. Continuance in being of Board.
+
+**6**.— (1) Notwithstanding the repeal of section 6 of the Act of 1985 by *section 4*—
+
+(*a*) the body known as An Bord Altranais, or in the English language as the Nursing Board, established by that section 6 shall continue in being and shall be known as Bord Altranais agus Cnáimhseachais na hÉireann or, in the English language, as the Nursing and Midwifery Board of Ireland, and
+
+(*b*) subject to *subsections (5)* to *(7)*, anything commenced but not completed by that body, or the committee established under section 13(2) of the Act of 1985, before the repeal of that section by *section 4*, may be carried on and completed by the Board (with its membership as constituted under this Act) or that committee (with its membership as constituted under section 13 of the Act of 1985), as the case requires, after such repeal as if sections 6 and 13 of the Act of 1985 had not been repealed.
+
+(2) The Board is a body corporate with perpetual succession and an official seal and with power—
+
+(*a*) to sue and be sued in its corporate name, and
+
+(*b*) with the consent of the Minister and the Minister for Public Expenditure and Reform, to acquire, hold and dispose of land or an interest in land, and to acquire, hold and dispose of any other property.
+
+(3) The Board may, subject to the provisions of this Act, regulate its own procedure.
+
+(4) The Schedule applies to the Board.
+
+(5)(*a*) A person who is a member of the committee referred to in *subsection (1)(b)* but who ceases to be a member of the Board under *section 22(6)* shall, notwithstanding that cesser of membership of the Board, be deemed for the purposes of *subsection (1)(b)* to satisfy the requirements of section 13 of the Act of 1985 relating to the membership of that committee.
+
+(*b*) The committee referred to in *subsection (1)(b)* shall be deemed, for the purposes of that subsection, to satisfy the requirements of section 13(4), (5) and (6) of the Act of 1985 relating to its membership even if it ceases to satisfy those requirements by reason of the cesser of membership of one or more of its members.
+
+(6) Where pursuant to *subsection (1)(b)* the Board may take any relevant action in respect of the registration of a nurse or midwife, then the Board may take the equivalent action under this Act and—
+
+(*a*) in the case of equivalent action falling within *paragraph (a)* of the definition of “equivalent action” in *subsection (7)*, *section 79* shall apply to the equivalent action accordingly,
+
+(*b*) in the case of equivalent action falling within *paragraph (c)* of the definition of “equivalent action” in *subsection (7)*—
+
+(i) *paragraph (b)* of the definition of “relevant condition” in *section 2(1)* shall be construed to include the equivalent action accordingly, and
+
+(ii) *sections 46(8)* and *80* shall apply to the equivalent action accordingly.
+
+(7) In *subsection (6)*—
+
+“equivalent action”, in relation to the registration of a nurse or midwife, means—
+
+(*a*) in the case of *paragraph (a)* of the definition of “relevant action”, the cancellation of the registration pursuant to a decision referred to in *section 76(3)*,
+
+(*b*) in the case of *paragraph (b)* of the definition of “relevant action”, the suspension of the registration pursuant to a decision referred to in *section 76(3)*,
+
+(*c*) in the case of *paragraph (c)* of the definition of “relevant action”, the attachment of conditions to the registration pursuant to a decision referred to in *section 76(1)*;
+
+“relevant action”, in relation to the registration of a nurse or midwife, means any action under Part V of the Act of 1985 pursuant to which the Board may—
+
+(*a*) erase the nurse’s or midwife’s name from the register of nurses,
+
+(*b*) give effect to a decision of the Board that during a period of specified duration the registration of the nurse’s or midwife’s name in the register of nurses shall not have effect, or
+
+(*c*) attach conditions to the retention of the nurse’s or midwife’s name in the register of nurses.
+
+### 7. Seal of Board.
+
+**7**.— (1) The seal of the Board shall be authenticated by—
+
+(*a*) the signature of the President of the Board or another member of the Board authorised by the Board to act in that behalf, and
+
+(*b*) the signature of an employee of the Board authorised by the Board to act in that behalf.
+
+(2) Judicial notice shall be taken of the seal of the Board and, accordingly, every document—
+
+(*a*) purporting to be an instrument made by the Board, and
+
+(*b*) purporting to be sealed with the seal of the Board authenticated in accordance with *subsection (1)*,
+
+shall be received in evidence and be deemed to be such instrument without further proof unless the contrary is shown.
+
+### 8. Object of Board.
+
+**8**.— The object of the Board shall be the protection of the public in its dealing with nurses and midwives and the integrity of the practice of nursing and midwifery through the promotion of high standards of professional education, training and practice and professional conduct among nurses and midwives.
+
+### 9. Functions of Board.
+
+**9**.— (1) The Board shall—
+
+(*a*) do all things necessary and reasonable to further its object, and
+
+(*b*) perform its functions in the public interest.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Board shall—
+
+(*a*) establish and maintain the register of nurses and midwives and the candidate register,
+
+(*b*) establish procedures and criteria for assessment and registration in the register of nurses and midwives and the candidate register, and the divisions of those registers, including the issue of certificates of registration and renewal of registration,
+
+(*c*) approve programmes of education and further education necessary for the purposes of registration and continued registration,
+
+(*d*) keep the programmes referred to in *paragraph (c)* under review,
+
+(*e*) act as the competent authority for the purposes of—
+
+(i) the mutual recognition of professional qualifications of nurses and midwives F6[under the Regulations of 2017],
+
+(ii) all matters referred to in Directive 2005/36/EC which relate to the role of a competent authority for the purposes of the recognition of professional qualifications of nurses and midwives,
+
+(*f*) enter into agreements, with bodies in third countries that are duly authorised to perform functions in third countries that correspond to the functions of the Board, in relation to—
+
+(i) the recognition by the Board, for the purposes of registration, of degrees, diplomas and other qualifications relating to the practice of nursing and midwifery awarded in those third countries,
+
+(ii) the recognition by such bodies, for the purposes of authorisation to practise nursing and midwifery in third countries, of degrees, diplomas and other qualifications relating to the practice of nursing and midwifery awarded in the State,
+
+(*g*) specify standards of practice for registered nurses and registered midwives, including the establishment, publication, maintenance and review of—
+
+(i) appropriate guidance on all matters related to professional conduct and ethics for registered nurses and registered midwives,
+
+(ii) appropriate guidance on the maintenance of the professional competence of registered nurses and registered midwives, and
+
+(iii) a code of professional conduct for registered nurses and registered midwives,
+
+(*h*) specify criteria regarding the creation by employers of specialist nursing and midwifery posts,
+
+(*i*) establish committees to inquire into complaints,
+
+(*j*) make decisions and give directions under *Part 9* relating to the imposition of sanctions on registered nurses and registered midwives,
+
+(*k*) advise the public on all matters of general interest relating to the functions of the Board, its area of expertise and other matters of interest to the public relating to nurses and midwives and their practice, including public advertisement of the object, functions and contact details of the Board from time to time,
+
+(*l*) advise the Minister, either at the Minister’s request or on its own initiative, on all matters relating to the other functions conferred on it by any provision of this Act, and
+
+(*m*) perform any other function conferred on it under any other provision of this Act or of any other enactment.
+
+(3) The Board shall, not later than 12 months after this subsection is commenced, publish in the prescribed manner a code of practice regarding its interactions with nurses and midwives, candidates and members of the public.
+
+(4) The Board shall, in performing its functions, have regard to—
+
+(*a*) functions performed by other bodies that are similar or ancillary to the functions that the Board performs,
+
+(*b*) the need to co-operate with and co-ordinate its activities with those of other public authorities or bodies (in particular, the Health Service Executive) if the performance of their functions affects or could affect the health of the public,
+
+(*c*) the need to promote efficiencies in the delivery of training of candidates, post-registration training and specialist training through the development of standard practices,
+
+(*d*) the policies and objectives of the Government or any Minister of the Government to the extent that those policies and objectives may affect or relate to the functions of the Board,
+
+(*e*) the resources, wherever originating, that are available to it for the purpose of performing its functions, and
+
+(*f*) the need to secure the most beneficial, effective and efficient use of those resources.
+
+(5) The Board has power to do anything that appears to it to be requisite, advantageous or incidental to, or to facilitate, the performance of its functions, including the making of arrangements with any person or body to assist the Board or a committee of the Board in the proper discharge of any of its functions.
+
+(6) The Minister, or a person authorised by the Minister to give a notice under this subsection, may by notice in writing given to the Board require the Board to provide the Minister or that person, as the case may be, with such information in relation to the performance of the Board’s functions as is specified in the notice and within the period specified in the notice (being a period reasonable in the circumstances).
+
+(7) The Board shall comply with a notice given to it under *subsection (6)* except to the extent that it is prohibited from doing so by another provision of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 93(b), in effect as per reg. 2.
+
+### 10. Conferral of additional functions on Board.
+
+**10**.— (1) The Minister may by order—
+
+(*a*) confer on the Board such additional functions connected with registered nurses and midwives, and candidates, the education and training of nurses, midwives and candidates, and the practice of nursing and midwifery and the persons engaged in the practice of those professions, as the Minister thinks fit, and
+
+(*b*) make such provisions as the Minister considers necessary or expedient in relation to matters ancillary to or arising out of the conferral of additional functions on the Board.
+
+(2) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which the House has sat after that order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+### 11. Ministerial directions to Board.
+
+**11**.— (1) The Minister may give general policy directions in writing to the Board in relation to the performance by the Board of its functions except any such functions—
+
+(*a*) relating to the professional conduct and ethics of registered nurses and registered midwives, or
+
+(*b*) relating to fitness to practise.
+
+(2) Nothing in directions given under *subsection (1)* is to be construed as preventing the Board from, or limiting the Board in, performing its functions.
+
+(3) The Board shall comply with a direction given by the Minister under this section.
+
+### 12. Immunity.
+
+**12**.— (1) A person to whom this subsection applies, acting in good faith, shall not be liable in any civil proceedings for any act done or omission made in the performance or purported performance by him or her of any function under this Act.
+
+(2) The persons to whom *subsection (1)* applies are—
+
+(*a*) the members and former members of the Board,
+
+(*b*) the members and former members of any committee,
+
+(*c*) the chief executive officer and any former chief executive officer,
+
+(*d*) the employees and former employees of the Board, and
+
+(*e*) the persons appointed or formerly appointed to assist the Preliminary Proceedings Committee or the Fitness to Practise Committee.
+
+### 13. Board’s power to make rules.
+
+**13**.— (1) Subject to *subsections (3)*, *(4)* and *(5)*, the Board—
+
+(*a*) may, with the approval of the Minister, make rules for the purposes of the better operation of any provision of this Act, or
+
+(*b*) at the request in writing of the Minister and in accordance with the request, shall make rules for the purposes of the better operation of any provision of this Act.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Board may make rules under this section in relation to—
+
+(*a*) the establishment, membership, functions and procedures of committees,
+
+(*b*) the form and manner in which the register of nurses and midwives and the candidate register and their divisions are to be established and maintained,
+
+(*c*) the details relating to nurses and midwives that, in addition to their names, are to be entered in the register of nurses and midwives or their certificates of registration or both,
+
+(*d*) permits for the purposes of *section 41(2)*,
+
+(*e*) the manner in which appropriate fees are to be paid and the time limits for payment of appropriate fees for the retention of registration,
+
+(*f*) the receiving and recording of evidence by the Preliminary Proceedings Committee or the Fitness to Practise Committee,
+
+(*g*) the receiving of submissions by the Preliminary Proceedings Committee or the Fitness to Practise Committee,
+
+F7[(*h*) subject to *subsection (3A)*, the establishment, membership, functions and procedures of subcommittees of committees, including—
+
+(i) in the case of the Preliminary Proceedings Committee, subcommittees to give initial consideration to complaints on behalf of that Committee, and
+
+(ii) in the case of the Fitness to Practise Committee, subcommittees inquiring, on behalf of that Committee, into complaints referred to that Committee,
+
+(*ha*) the recognition of a qualification held by a person,]
+
+(*i*) the register of nurses and midwives and the candidate register, and the divisions of those registers, including the setting of criteria relating to—
+
+(i) appropriate qualifications, education and training, and relevant competencies of nurses or midwives registered or to be registered,
+
+(ii) the possession of sufficient knowledge of the language or languages necessary to practise as a nurse or midwife in the State,
+
+(iii) any requirement for relevant post registration experience or clinical experience of nurses or midwives, or
+
+(iv) any other matter where, in the opinion of the Board, the setting of criteria relating to that matter is necessary or desirable for the protection of the public,
+
+in relation to the assessment of applications for registration in any of those registers or divisions and for annotations of those registrations,
+
+(*j*) the specification of examinations for the purposes of registration,
+
+(*k*) the specification of grounds for the purposes of the restoration of a registration in the register of nurses and midwives or the candidate register, or a division of those registers,
+
+(*l*) the setting of criteria for the purposes of education and training, including the setting of criteria relating to—
+
+(i) persons seeking admission to education and training programmes,
+
+(ii) bodies which may deliver education and training programmes, or
+
+(iii) any other matter where, in the opinion of the Board, the setting of criteria relating to that matter is necessary or desirable for the protection of the public,
+
+(*m*) the setting of criteria or conditions for persons who wish to practise nursing or midwifery after having not practised for a period specified in the rules, including the setting of criteria or conditions relating to—
+
+(i) the education and training of those persons,
+
+(ii) the possession of sufficient knowledge of the language or languages necessary to practise as a nurse or midwife in the State,
+
+(iii) the manner of verifying that those persons possess the relevant competencies, or
+
+(iv) any other matter where, in the opinion of the Board, the setting of criteria relating to that matter is necessary or desirable for the protection of the public,
+
+(*n*) the specification of standard governance frameworks for midwives, including the requirement for indemnity insurance for midwives,
+
+(*o*) any professional competence scheme, and
+
+(*p*) any other matter relating to the Board’s functions.
+
+(3) Without prejudice to the generality of *subsection (2)(f)* and *(g)*, rules made under this section may specify—
+
+(*a*) the form in which and the means by which evidence or submissions may be received by the Preliminary Proceedings Committee or the Fitness to Practise Committee, and
+
+(*b*) the conditions subject to which evidence or submissions may be received by the Preliminary Proceedings Committee or the Fitness to Practise Committee, by means of a live video link, a video recording, a sound recording or any other mode of transmission.
+
+F8[(3A) Without prejudice to the generality of *subsection (2)(h)*, rules made under that subsection may provide that—
+
+(*a*) the chairperson of the Preliminary Proceedings Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in *subsection (2)(h)(i)*, or
+
+(*b*) the chairperson of the Fitness to Practise Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in *subsection (2)(h)(ii)*.]
+
+(4) The Board shall ensure that—
+
+(*a*) a draft of any rule (including a rule revoking or amending any other rule) that it proposes to make under this section is published in the prescribed manner,
+
+(*b*) with the draft is published an invitation to members of the public, any organisation and any other body to comment on the draft before a date specified by the Board in the invitation, being a date reasonable in the circumstances, and
+
+(*c*) without prejudice to the generality of *paragraph (b)*, a copy of the draft of the rule is given to—
+
+(i) the Minister,
+
+(ii) the Health Service Executive, and
+
+(iii) if the draft relates to a professional competence scheme, the Minister for Public Expenditure and Reform,
+
+not later than the date on which the Board complies with *paragraph (b)* in respect of that draft.
+
+(5) Subject to *subsection (6)*, the Board, after considering any comments on a draft of a rule published pursuant to *subsection (4)(a)* received before the date specified in the invitation referred to in *subsection (4)(b)* which relates to the draft, may—
+
+(*a*) make the rule in the form of the draft as published or with such changes as the Board determines, or
+
+(*b*) decide not to make the rule.
+
+(6) The Board shall not make rules under this section relating to a professional competence scheme except with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(7) The Board shall ensure that, as soon as is practicable after a rule is made under this section, the rule—
+
+(*a*) is submitted for approval by the Minister, and
+
+(*b*) if approved by the Minister, is published in the manner prescribed by the rules and submitted to the Minister for laying before each House of the Oireachtas.
+
+(8) Every rule approved under *subsection (7)(b)* shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the rule is passed by either such House within the next 21 days on which that House has sat after that rule is laid before it, the rule shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(9) Notwithstanding the repeal of section 26 of the Act of 1985 by *section 4*, where a rule was in force immediately before that repeal and dealt with any of the matters for which rules may be made under this section—
+
+(*a*) the rule shall be deemed to be a rule made under this section until the Board makes a rule under this section that replaces it, and
+
+(*b*) all formalities required by this section for the validity of rules and anything done under rules shall be deemed to have been complied with in relation to that rule.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 145(a), S.I. No. 409 of 2021.
+>
+> F8: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 145(b), S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (9.05.2022) by *Nurses and Midwives (Fitness to Practise Subcommittee) Rules 2022* (S.I. No. 236 of 2022), in effect as per art. 2.
+>
+> E10: Power pursuant to section exercised (28.10.2020) by *Nurses and Midwives (Register of Nurses and Midwives) (Amendment) Rules 2020* (S.I. No. 503 of 2020).
+>
+> E11: Power pursuant to section exercised (28.10.2020) by *Nurses and Midwives (Recognition of Professional Qualifications) (Amendment) Rules 2020* (S.I. No. 502 of 2020).
+>
+> E12: Power pursuant to section exercised (28.10.2020) by *Nurses and Midwives (Education and Training) (Amendment) Rules 2020* (S.I. No. 501 of 2020).
+>
+> E13: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives (Registration) Rules 2018* (S.I. No. 221 of 2018).
+>
+> E14: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives (Recognition of Professional Qualifications) Rules 2018* (S.I. No. 220 of 2018).
+>
+> E15: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives (Register of Nurses and Midwives) Rules 2018* (S.I. No. 219 of 2018).
+>
+> E16: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives (Education and Training) Rules 2018* (S.I. No. 218 of 2018).
+>
+> E17: Power pursuant to section exercised (25.06.2018) by *Nurses and Midwives (Candidate Register) Rules 2018* (S.I. No. 217 of 2018).
+>
+> E18: Power pursuant to section exercised (12.11.2013) by *Nurses and Midwives Rules 2013* (S.I. No. 435 of 2013).
+
+### 14. Board’s power to issue guidelines.
+
+**14**.— (1) The Board may from time to time prepare, for the guidance of nurses and midwives and the public, guidelines not inconsistent with this Act (including any regulations or rules made under this Act) indicating the manner in which the Board proposes to perform its functions.
+
+(2) The Board shall ensure that guidelines prepared by it under this section are published in the prescribed manner as soon as is practicable after the guidelines have been prepared.
+
+### 15. Co-operation with certain bodies.
+
+**15**.— (1) As soon as is practicable after the commencement of this section, there shall be entered into between the Board and every one of the prescribed bodies one or more agreements for the purposes of—
+
+(*a*) facilitating co-operation between the Board and the prescribed bodies in the performance of their respective functions in so far as they relate to issues of the protection of the public by the promotion of high standards of professional competence among nurses and midwives,
+
+(*b*) avoiding duplication of activities by the Board and any of the prescribed bodies,
+
+(*c*) enabling the Board to be consulted in relation to any decisions by the prescribed bodies which affect the public where they relate to questions of professional competence of nurses or midwives,
+
+(*d*) where appropriate, conducting joint studies or analysis of matters relating to nursing and midwifery and the protection of the public,
+
+and each such agreement that is entered into is referred to in this section as a “co-operation agreement”.
+
+(2) It shall not be necessary for the purposes of *subsection (1)* that the same prescribed bodies be party to each agreement entered into with the Board under that subsection.
+
+(3) A co-operation agreement shall include provisions—
+
+(*a*) enabling each party to furnish to another party information in its possession if the information is required by that other party for the purpose of the performance by it of any of its functions,
+
+(*b*) enabling each party to forbear to perform any of its functions in relation to a matter in circumstances where it is satisfied that another party is performing functions in relation to that matter, and
+
+(*c*) requiring each party to consult with any other party before performing any functions in circumstances where the respective exercise by each party of the functions concerned involves the determination of issues of the professional competence of nurses or midwives for the protection of the public that are identical to one another or are within the same category of such an issue, being a category specified in the co-operation agreement.
+
+(4) A co-operation agreement may be varied by the parties concerned.
+
+(5) The Minister and, where relevant, the Minister or Ministers of the Government with responsibility for the prescribed body concerned shall each be furnished by the Board with a copy of every co-operation agreement (including any variation of the agreement) that has been made within 1 month after the agreement (or the variation of it) has been made.
+
+(6) A co-operation agreement, or any variation made to it, shall be in writing and, as soon as practicable after the agreement or variation has been made and furnished to the Minister or Ministers of the Government concerned, notice of its making shall be published by the parties in the prescribed manner.
+
+(7) If information is furnished by one party to another party pursuant to a provision of a co-operation agreement of the kind referred to in *subsection (3)(a)*, the provisions of any enactment concerning the disclosure of that information by the first-mentioned party shall apply to the second-mentioned party with respect to that information.
+
+(8) A failure by the Board or a prescribed body to comply with a provision of a co-operation agreement shall not invalidate the exercise by it of any power.
+
+(9) The Minister may make regulations prescribing bodies for the purposes of this section having regard to the functions and activities of such bodies as they relate to the regulation of nurses and midwives or the protection of the public and, before prescribing a body for which another Minister of the Government has responsibility, the Minister shall consult with that other Minister.
+
+(10) In this section, “party” means a party to a co-operation agreement and a reference to another party (whether that expression or the expression “the other party” is used) shall, where there are 2 or more other parties to the agreement, be construed as a reference to one or more of those other parties or each of them, as may be appropriate.
+
+### 16. Disclosure of information relating to offences.
+
+**16**.— Notwithstanding *section 17*, information, which in the opinion of the chief executive officer may relate to the commission of an indictable offence, may be disclosed to—
+
+(*a*) the Director of Corporate Enforcement,
+
+(*b*) the Competition Authority,
+
+(*c*) a member of the Garda Síochána,
+
+(*d*) an officer of the Revenue Commissioners,
+
+(*e*) the Central Bank of Ireland, or
+
+(*f*) such other person as may be prescribed by the Minister by regulations after consultation by the Minister with any other Minister of the Government appearing to the Minister to be concerned.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Term “Competition Authority” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39, commenced as per s. 39(4) and S.I. No. 367 of 2014. The Commission referred to is the Competition and Consumer Protection Commission.
+>
+> **Transfer of functions to Commission**
+>
+> **39.—** ...
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (a) the National Consumer Agency, or
+>
+> (b) the Competition Authority, shall, on and after that day, be construed as references to the Commission.
+
+### 17. Prohibition on unauthorised disclosure of information.
+
+**17**.— (1) A person shall not, unless authorised by the Board or by an employee of the Board duly authorised in that behalf so to do, or required by law so to do, disclose confidential information obtained by him or her in his or her capacity, or while performing duties, as—
+
+(*a*) a member of the Board or of a committee,
+
+(*b*) the chief executive officer,
+
+(*c*) an employee of the Board,
+
+(*d*) a consultant or adviser engaged by the Board or an employee of such a consultant or adviser, or
+
+(*e*) a person engaged by the Board in any other capacity.
+
+(2) *Subsection (1)* shall not apply to—
+
+(*a*) a communication made by a member of the Board or of a committee, the chief executive officer or an employee of the Board, in the performance of any of his or her functions under this Act, being a communication the making of which was necessary for the performance by the member, chief executive officer or employee of the Board of any such function, or
+
+(*b*) the disclosure by a member of the Board or of a committee, the chief executive officer, or an employee of the Board to any member of the Garda Síochána of information which, in the opinion of the member, or chief executive officer or employee, may relate to the commission of an offence triable on indictment.
+
+(3) A person who contravenes *subsection (1)* shall be guilty of an offence and liable on summary conviction to a class A fine or a term of imprisonment not exceeding 6 months or both.
+
+(4) Nothing in *subsection (1)* shall prevent the disclosure of information by a person in the circumstances referred to in section 35(2) of the Ethics in Public Office Act 1995.
+
+(5) Nothing in *subsection (1)* shall prevent the disclosure of information by means of a report made—
+
+(*a*) to the Board or a committee, as the case may be, or
+
+(*b*) by or on behalf of the Board or a committee to the Minister.
+
+(6) In this section “confidential information” includes information that is expressed by the Board or a committee, as the case may be, to be confidential either as regards particular information or as regards information of a particular class or description.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment. This section is listed in sch. 3 part 1.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.** (1) A head shall refuse to grant an FOI request if—
+>
+> (a) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of Part 1 or 2 of Schedule 3 of an enactment specified in that Schedule), or
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E19: A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 3, S.I. No. 662 of 2010.
+
+## PART 3 Statement of Strategy, Business Plan and Annual Report of Board — PART 3 — Statement of Strategy, Business Plan and Annual Report of Board
+
+### 18. Board to prepare and submit statement of strategy.
+
+**18**.— (1) Subject to *subsections (2)* to *(6)*, the Board shall—
+
+(*a*) prepare and adopt a statement of strategy for the term of office of the Board (or, as the case requires, the remaining term of office of the Board), and
+
+(*b*) submit the statement to the Minister—
+
+(i) not later than 6 months after the commencement of this subsection,
+
+(ii) not later than 6 months after the appointment of a new Minister having charge of the Department of Health if that Minister requests that a statement of strategy be submitted,
+
+(iii) not later than 6 months of the beginning of the term of office of each new Board appointed under *section 22*.
+
+(2) The Board shall prepare a statement of strategy in a form and manner in accordance with any directions issued by the Minister and shall ensure that the statement specifies—
+
+(*a*) the key objectives of the Board for the period to which the statement relates and the strategies for achieving those objectives,
+
+(*b*) the manner in which the Board proposes to measure its achievement of those objectives, and
+
+(*c*) the uses for which the Board proposes to apply its resources.
+
+(3) The Board shall, in preparing the statement of strategy, have regard to the policies of the Government or a Minister of the Government to the extent that those policies may affect or relate to the functions of the Board.
+
+(4) The Board shall ensure that—
+
+(*a*) a draft of the statement of strategy that it proposes to adopt under this section is published in the prescribed manner, not later than 2 months before the time when the Board is to submit a statement of strategy to the Minister under *subsection (1)(b)*,
+
+(*b*) with the draft is published an invitation to members of the public, any organisation and any body to comment on the draft before a date, which shall not be earlier than one month after the date of the publication, which the Board specifies in the invitation, and
+
+(*c*) it considers any comments received under *paragraph (b)* in preparing the statement of strategy that it submits to the Minister under this section.
+
+(5) The Minister may direct the Board to amend a statement of strategy submitted to the Minister if, in the Minister’s opinion, the statement—
+
+(*a*) does not contain any information required under *subsection (2)*,
+
+(*b*) does not comply in any other respect with *subsection (2)*, or
+
+(*c*) has been prepared without regard to the policies referred to in *subsection (3)*.
+
+(6) The Board shall comply with a direction given to it under *subsection (5)* within the period, if any, specified in the direction, being a period reasonable in the circumstances.
+
+(7) The Board may amend an adopted statement of strategy and, in any such case—
+
+(*a*) *subsections (2)* to *(6)* shall, with all necessary modifications, apply to the preparation of the amended statement as they apply to a statement of strategy prepared under *subsection (1)*, and
+
+(*b*) the Board shall adopt the amended statement and submit it to the Minister not later than 3 weeks after the date on which the Board adopted the amended statement.
+
+(8) Nothing in a statement of strategy is to be construed as preventing the Board from, or limiting the Board in, performing its functions.
+
+### 19. Publication and implementation of statement of strategy.
+
+**19**.— (1) The Minister shall ensure that a copy of a statement of strategy or an amended statement of strategy is laid before each House of the Oireachtas within 21 days after the statement is received by the Minister.
+
+(2) The Board shall ensure that, as soon as is practicable after copies of a statement of strategy or of an amended statement of strategy are laid before the Houses of the Oireachtas, the statement is published in the prescribed manner.
+
+(3) The Board shall submit progress reports to the Minister on the implementation of a statement of strategy or an amended statement of strategy, as the case requires—
+
+(*a*) in its annual report, and
+
+(*b*) in such other manner and at such intervals as the Minister may direct.
+
+(4) F9[...]
+
+(5) F9[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+
+### 20. Board to prepare and forward business plan to Minister.
+
+**20**.— (1) Subject to *subsections (2)* to *(5)*, the Board shall, in each year—
+
+(*a*) prepare and adopt a business plan in respect of that year or of such other period as may be determined by the Minister, and
+
+(*b*) submit the plan to the Minister.
+
+(2) The Board shall prepare a business plan in a form and manner in accordance with any directions issued by the Minister (including any timescale in which the plan must be submitted to the Minister) and shall ensure that the plan—
+
+(*a*) indicates the type and volume of business to be undertaken by the Board during the period to which the plan relates,
+
+(*b*) indicates any capital plans proposed by the Board,
+
+(*c*) contains estimates of the number of employees of the Board for the period and the business to which the plan relates, and
+
+(*d*) contains any other information specified by the Minister.
+
+(3) The Board shall, in preparing a business plan, have regard to—
+
+(*a*) the statement of strategy in operation at that time,
+
+(*b*) any direction issued by the Minister under *section 11(1)*, and
+
+(*c*) the policies and objectives of the Minister and the Government as they relate to the functions of the Board.
+
+(4) The Minister may direct the Board to amend a business plan submitted to the Minister if, in the Minister’s opinion, the plan—
+
+(*a*) does not contain any information required under *subsection (2)*,
+
+(*b*) does not comply in any other respect with *subsection (2)*, or
+
+(*c*) has been prepared without regard to a matter specified in *subsection (3)*.
+
+(5) The Board shall comply with a direction given to it under *subsection (4)* within the period, if any, specified in the direction, being a period reasonable in the circumstances.
+
+(6) The Board shall submit to the Minister with a business plan a statement of its estimate of the income and expenditure relating to the plan that is consistent with the moneys estimated to be available to the Board for the period to which the business plan relates.
+
+(7) The Minister shall ensure that copies of a business plan submitted to the Minister are laid before each House of the Oireachtas within 21 days after the plan is so submitted.
+
+(8) The Board shall ensure that, as soon as is practicable after copies of a business plan are laid before the Houses of the Oireachtas, the plan is published in the prescribed manner.
+
+(9) The Board may amend an adopted business plan and, in any such case—
+
+(*a*) *subsections (2)* to *(8)* shall, with all necessary modifications, apply to the preparation of the amended plan as they apply to a business plan prepared under *subsection (1)*, and
+
+(*b*) the Board shall adopt the amended plan and submit it to the Minister not later than 3 weeks after the date on which the Board adopted the amended plan.
+
+### 21. Board to submit annual report to Minister.
+
+**21**.— (1) Subject to *subsection (3)*, the Board shall, not later than 3 months after the end of each financial year or such further period, not exceeding 3 months, as the Minister permits, submit to the Minister a report (in this section referred to as the “annual report”) of the activities of the Board in the immediately preceding financial year.
+
+(2) The Minister may specify, by direction in writing to the Board, any information which is required to be included in the annual report.
+
+(3) The Board shall comply with a direction given to it under *subsection (2)*.
+
+(4) The Minister shall ensure that copies of the annual report are laid before each House of the Oireachtas as soon as may be after the report is received by the Minister.
+
+## PART 4 Members, Committees and Employees of Board — PART 4 — Members, Committees and Employees of Board
+
+### 22. Members of Board.
+
+**22**.— (1) Subject to *subsections (2)* to *(7)*, the members of the Board shall be appointed by the Minister and shall consist of the following 23 persons:
+
+(*a*) 2 persons employed as members of the academic staff, one at a University and the other at an Institute of Technology, and of whom one shall be a registered nurse and one shall be a registered midwife, who are appointed by the Minister after consultation with the Minister for Education and Skills, and who are chosen by the Minister from lists of names of registered nurses and registered midwives so employed which are compiled, in accordance with procedures specified by the Minister, jointly—
+
+(i) in the case of the first nomination to be made after the commencement of this section, by the institutions approved under section 34 of the Act of 1985 as suitable for the training of nurses or candidates, and
+
+(ii) in any other case, by the bodies approved to deliver programmes of pre-registration nursing and midwifery education and training;
+
+(*b*) one Director of Nursing or Director of Midwifery who shall be chosen by the Minister from a list of names of such Directors which is compiled by the Health Service Executive in accordance with procedures specified by the Minister;
+
+(*c*) 8 registered nurses or registered midwives elected by registered nurses and registered midwives in accordance with procedures specified by the Minister, of whom—
+
+(i) 2 shall be nurses, including at least one engaged in clinical nursing practice, one from the practice of general nursing and one from the practice of children’s nursing,
+
+(ii) 2 shall be nurses, including at least one engaged in clinical nursing practice, one from the practice of psychiatric nursing and one from the practice of intellectual disability nursing,
+
+(iii) 2 shall be persons, including at least one engaged in clinical practice, and one of whom is from the practice of midwifery and the other from the practice of public health nursing,
+
+(iv) one shall be a person employed in the public health sector and engaged in the education of nurses or midwives, and
+
+(v) one shall be a nurse from the area of nursing engaged in the care of older persons;
+
+(*d*) one person nominated by the Medical Council whose name is entered in the register of medical practitioners maintained under the Medical Practitioners Act 2007 and who is not and never has been a registered nurse or registered midwife in the State or in another jurisdiction;
+
+(*e*) one person nominated by the Minister for Education and Skills from a third-level educational establishment which is involved in the education and training of nurses or midwives and who is not and never has been a registered nurse or registered midwife in the State or in another jurisdiction;
+
+(*f*) 2 persons nominated by the Health Service Executive who are representative of the management of the public health sector and who are not and never have been registered nurses or registered midwives in the State or in another jurisdiction;
+
+(*g*) one person nominated by the Health and Social Care Professionals Council who is not and never has been a registered nurse or registered midwife in the State or in another jurisdiction and—
+
+(i) subject to *subparagraph (ii)*, who is a registrant within the meaning of section 3 of the Health and Social Care Professionals Act 2005, or
+
+(ii) in the absence of any such registrant, who is a member of a designated profession within the meaning of that section;
+
+(*h*) one person nominated by the Health Information and Quality Authority and who is not and never has been a registered nurse or registered midwife in the State or in another jurisdiction;
+
+(*i*) one person who is experienced in the provision of health or personal social care in the voluntary sector and who is not and never has been a registered nurse or registered midwife in the State or in another jurisdiction; and
+
+(*j*) 5 other persons who—
+
+(i) are not and never have been registered nurses or registered midwives in the State or in another jurisdiction, and
+
+(ii) have such qualifications, expertise, interests or experience as, in the opinion of the Minister formed after engaging in such consultations as he or she considers appropriate, would enable them to make a contribution to the performance of the Board’s functions.
+
+(2) The Board shall elect a President of the Board from amongst its members—
+
+(*a*) for the first term after the commencement of this section, for the term specified by the Board referred to in *paragraph 13(2)* of the *Schedule*, and
+
+(*b*) for all other terms, in accordance with the *Schedule*.
+
+(3) The Board shall elect a Vice-President of the Board from amongst its members in accordance with the *Schedule*.
+
+(4) The Minister shall, to the extent practicable, endeavour to ensure that there is an equitable balance between men and women in the membership of the Board.
+
+(5) A person is not eligible for appointment as a member of the Board, or of a committee, if the person is—
+
+(*a*) a member of either House of the Oireachtas or of the European Parliament, or
+
+(*b*) regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy.
+
+(6) A person who was a member of the Board immediately before the commencement of this section shall, on that commencement, cease to be a member of the Board unless the person is appointed pursuant to *subsection (1)* to be a member of the Board.
+
+(7) Notwithstanding the appointment of persons to be members of the Board pursuant to this section, the Board may, without prejudice to *section 6*, perform any function assigned to it by any provision of the Act of 1985 until such provision is repealed.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions under subs. (1)(a), (e) transferred and references to “Minister for Education” construed (1.06.2023) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 291 of 2023), arts. 3(1)(a), (2), and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 3\. (1) The functions vested in the Minister for Education –
+>
+> (*a*) by or under the provisions of an Act specified in column (1) of the Schedule, to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified, and
+>
+> ...
+>
+> are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> ...
+>
+> Schedule
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Nurses and Midwives Act 2011 (No. 41 of 2011)</td><td>Paragraphs (a) and (e) of section 22(1); paragraphs (a) and (j) of section 85(2).</td></tr><tr><td>...</td><td>...</td></tr></table>
+
+### 23. First meeting of Board under this Act.
+
+**23**.— (1) The chief executive officer shall give notice in writing to the members of the Board of the time and place of the first meeting of the Board after the appointment of the members under *section 22*.
+
+(2) The Board shall meet at the time and place notified by the chief executive officer under *subsection (1)* for its first meeting following the appointment of members.
+
+### 24. Committees of Board.
+
+**24**.— (1) Subject to *subsections (2)* to *(18)*, the Board may establish committees of the Board to perform any functions that, in the opinion of the Board, may be better or more conveniently performed by a committee and that are assigned by the Board to a committee.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Board shall establish—
+
+(*a*) a committee, to be known as the Preliminary Proceedings Committee, to give initial consideration to complaints, and
+
+(*b*) a committee, to be known as the Fitness to Practise Committee, to inquire into complaints,
+
+to perform the functions under *Parts 7*, *8* and *9* that are respectively assigned to the committees.
+
+(3) Without prejudice to the generality of *subsection (1)*, the Board shall establish a committee to be known as the Midwives Committee to provide advice to the Board in relation to all matters pertaining to midwifery practice, which the Board shall consider when performing functions in relation to midwifery practice, consisting of at least 8 members, including the following persons:
+
+(*a*) two registered midwives, each of whom is a member of the Board;
+
+(*b*) at least 6 other persons appointed by the Board, including the following persons:
+
+(i) 2 midwives, including one who may be a self-employed community midwife;
+
+(ii) a registered medical practitioner registered in the Specialist Division in relation to obstetrics and gynaecology under the Medical Practitioners Act 2007;
+
+(iii) a registered nurse who is a member of the Board;
+
+(iv) two persons, each of whom, in the opinion of the Board, is representative of the public interest and each of whom is not and never has been a registered nurse or registered midwife in the State or a nurse or midwife in another jurisdiction.
+
+(4) Without prejudice to the generality of *subsection (1)*, the Board may establish a committee, to be known as the Education and Training Committee, to perform such of the Board’s functions regarding education and training of nurses, midwives and candidates as are assigned by the Board to the Committee.
+
+(5) Without prejudice to the generality of *subsection (1)*, the Board may establish a committee, to be known as the Health Committee, to perform such functions as are specified by the Board in support of—
+
+(*a*) registered nurses and registered midwives with relevant medical disabilities, and
+
+(*b*) registered nurses and registered midwives who have given consents under F10[*section 57A(1)(d)* or *65(1)(d)*].
+
+(6) Subject to *subsections (3)* and *(7)* to *(12)*, a committee may include in its membership persons who are not members of the Board.
+
+(7) The chairperson of each of the Preliminary Proceedings Committee and the Fitness to Practise Committee shall, at the time of appointment, be a member of the Board other than the President or Vice-President of the Board.
+
+(8) No person shall be a member of both the Preliminary Proceedings Committee and the Fitness to Practise Committee at the same time.
+
+(9) At least one third of the members of the Preliminary Proceedings Committee, including the chairperson, shall, at the time of appointment, be members of the Board, and the majority of the membership of that committee shall consist of persons who are not and never have been registered nurses or registered midwives in the State or nurses or midwives in another jurisdiction.
+
+(10) At least one third of the members of the Fitness to Practise Committee, including the chairperson, shall, at the time of appointment, be members of the Board, and the majority of the membership of that committee shall consist of persons who are not and never have been registered nurses or registered midwives in the State or nurses or midwives in another jurisdiction.
+
+(11) Subject to F11[*subsections (9)*, *(10)* and *(11A)*]—
+
+(*a*) there shall be at least one nurse and one midwife on each of the Preliminary Proceedings Committee and the Fitness to Practise Committee, and
+
+(*b*) at least one third of the membership of each of the Preliminary Proceedings Committee and the Fitness to Practise Committee shall consist of persons who are either registered nurses or registered midwives.
+
+F12[(11A) *Paragraph (a)* of *subsection (11)* shall not apply to the Fitness to Practise Committee except in relation to the Committee’s inquiry into a complaint the hearing of which under *section 63* has commenced before the date of coming into operation of section 146 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020.]
+
+(12) A member of a committee established under this section shall serve on the committee on such terms (including term of office, removal and resignation) as the Board determines.
+
+(13) Where the term of office of one or more members of a committee ends during the consideration of a matter, including the consideration of a complaint under *Part 7* or *8*, the Board shall decide—
+
+(*a*) that the member or members may continue in office beyond the expiration of his or her term, or their terms, for so long as is required for the committee to finish consideration of the matter concerned,
+
+(*b*) that the committee concerned, as constituted without that member or those members, shall continue to consider the matter, or
+
+(*c*) that the consideration of the matter be stopped and that a newly constituted committee begin to consider the matter once the vacancy or vacancies created by the expiration of the term or terms has or have been filled,
+
+and any decision of the committee on that matter following the Board’s decision shall be as valid as if no term of office had so expired.
+
+(14) On the expiration of the term of office as a Board member of a person who is a member of a committee referred to in *subsection (7)*, *(9)* or *(10)*, that member shall continue in office as a member of the committee beyond the expiration of the term so long as is required for the committee to finish the consideration of a matter being considered by it on the date of that expiration, and the decision of the committee on the matter concerned shall be as valid as if the term of office as a member of the Board had not expired.
+
+(15) The acts of a committee (except the Preliminary Proceedings Committee or the Fitness to Practise Committee) shall be subject to confirmation by the Board unless the Board dispenses with the necessity for such confirmation.
+
+(16) The Board may, subject to the provisions of this Act, regulate the procedure of a committee but, subject to any such regulation, the committee may regulate its own procedure.
+
+(17) The Board may dissolve a committee other than the Preliminary Proceedings Committee or the Fitness to Practise Committee.
+
+(18) The members of the Preliminary Proceedings Committee and the Fitness to Practise Committee, in performing the functions under this Act respectively conferred on—
+
+(*a*) the members in their capacity as such members, or
+
+(*b*) the committee of which they are members,
+
+shall have the same protection and immunity as a judge of the Court performing the functions of a judge.
+
+(19) Where the Board establishes a subcommittee of any committee established under this section, that subcommittee may perform any of the functions of the committee concerned as if it were that committee, and every reference in this Act to that committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+F13[(20) (*a*) Subject to *paragraph (c)*, where a subcommittee of the Preliminary Proceedings Committee is established pursuant to rules made under *section 13*, that subcommittee may perform any of the functions of that Committee, and every reference in this Act to the Preliminary Proceedings Committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+(*b*) Subject to *paragraph (c)*, where a subcommittee of the Fitness to Practise Committee is established pursuant to rules made under *section 13*, that subcommittee may perform any of the functions of that Committee, and every reference in this Act to the Fitness to Practise Committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+(*c*) Neither *paragraph (a)* nor *(b)* shall be construed as entitling a subcommittee referred to in that paragraph to itself establish a subcommittee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 146(a), S.I. No. 409 of 2021.
+>
+> F11: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 146(b), S.I. No. 409 of 2021.
+>
+> F12: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 146(c), S.I. No. 409 of 2021.
+>
+> F13: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 146(d), S.I. No. 409 of 2021.
+
+### 25. Expenses of members of Board and committees.
+
+**25**.— A member of the Board or of any committee established by the Board shall be paid, out of funds at the disposal of the Board, such allowances for travelling and subsistence expenses incurred in respect of the member’s attendance at a meeting of the Board or of the committee, as the case may be, or otherwise in connection with the affairs of the Board as the Minister, with the consent of the Minister for Public Expenditure and Reform, determines.
+
+### 26. Payment of allowances.
+
+**26**.— (1) The Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine the amount of an allowance that may be paid by the Board to—
+
+(*a*) the President of the Board in respect of the President’s role as President,
+
+(*b*) a member of the Board in respect of such membership, or
+
+(*c*) a member of a committee in respect of such membership.
+
+(2) An allowance referred to in *subsection (1)* shall be paid out of the funds at the disposal of the Board.
+
+### 27. Removal of members of Board from office.
+
+**27**.— (1) The Minister may at any time remove a member of the Board from office if, in the Minister’s opinion—
+
+(*a*) the member has become incapable through illness of performing the functions of the office,
+
+(*b*) the member has committed stated misbehaviour,
+
+(*c*) whether or not following a review under *subsection (9)*, the member’s behaviour prevents the Board from, or unnecessarily hinders the Board in, performing its functions in an effective manner,
+
+(*d*) the member has contravened an applicable provision of the Ethics in Public Office Acts 1995 and 2001, or
+
+(*e*) in performing functions under this Act, the member has not been guided by a code of conduct that has been drawn up under section 10(3) of the Standards in Public Office Act 2001 and that relates to the member.
+
+(2) A member of the Board ceases to hold office if the member—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is convicted of an indictable offence,
+
+(*d*) is convicted of an offence involving fraud or dishonesty,
+
+(*e*) is the subject of an order under section 160 of the Companies Act 1990,
+
+(*f*) is sentenced to a term of imprisonment by a court of competent jurisdiction, or
+
+(*g*) is removed by a competent authority for any reason (other than failure to pay a fee) from any register established for the purpose of registering members of a profession in the State or in another jurisdiction.
+
+(3) A member of the Board who does not, for a consecutive period of 6 months, attend a meeting of the Board ceases at the end of that period to hold office unless the member demonstrates to the Minister’s satisfaction that the failure to attend was due to illness.
+
+(4) Where the Board does not perform any function conferred on it under this Act, the Minister may, by order, direct the Board to perform that function and for that purpose to do such other things ancillary or incidental thereto as may be specified in the order.
+
+(5) Subject to *subsection (7)*, where the Board fails to comply with any direction of the Minister contained in an order under *subsection (4)*, the Minister may, by order, remove from office the members of the Board.
+
+(6) Subject to *subsection (7)*, the Minister may, by order, remove all the members of the Board from office if the Minister is of the opinion that—
+
+(*a*) the Board fails to achieve a quorum for 3 consecutive meetings,
+
+(*b*) the Board does not comply with a judgment, order or decree of any court,
+
+(*c*) the Board does not comply with a direction of the Minister or any other requirement imposed on it by or under any enactment including this Act, or
+
+(*d*) whether or not following a review under *subsection (9)*, the Minister is satisfied that the members’ behaviour prevents the Board from, or unnecessarily hinders the Board in, performing its functions in an effective manner.
+
+(7) Every order made under this section shall be laid before the Houses of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly and the member or members concerned shall be restored to office but without prejudice to the validity of anything done by any person or persons appointed to discharge all or any of the functions of the member or members concerned.
+
+(8) Where the Board fails to achieve a quorum for 3 consecutive meetings, the chief executive officer shall, forthwith upon the occurrence of that failure, give the Minister notice in writing of that failure.
+
+(9) The Minister may, if of the opinion that the Board’s functions are not being performed in an effective manner, appoint a person to—
+
+(*a*) conduct an independent review of any matter giving rise to that opinion, and
+
+(*b*) submit a report to the Minister on the results of the review.
+
+(10) For the purposes of a review referred to in *subsection (9)*, the Board shall give the person conducting the review all reasonable assistance, including access to such premises, equipment and records as the person may require for the purposes of the review.
+
+(11) The removal of the members of the Board from office does not revoke or otherwise affect any delegation of the Board’s functions to the chief executive officer under *section 28*.
+
+(12) An order under *subsection (5)* or *(6)* may contain such provisions as the Minister considers necessary to enable the functions of the Board to be performed notwithstanding the removal from office of its members, and any such order may, in particular, appoint a person or persons to discharge all or any of the functions of the Board.
+
+(13) In this section “applicable provision of the Ethics in Public Office Acts 1995 and 2001”, in relation to a member of the Board, means a provision of those Acts that, by virtue of a regulation under section 3 of the Ethics in Public Office Act 1995, applies to that member.
+
+### 28. Chief executive officer.
+
+**28**.— (1) Subject to *subsection (4)(a)*, the Board shall appoint a person recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be the chief executive officer to—
+
+(*a*) carry on and manage and control generally the administration of the Board and the F14[business of the Board,]
+
+F15[(*aa*) investigate complaints, and,]
+
+(*b*) perform any other functions that may be delegated by the Board.
+
+(2) Subject to *subsection (4)(b)*, the chief executive officer holds office on the conditions (including those relating to remuneration, allowances and superannuation) that are determined by the Board with the prior approval of the Minister given with the consent of the Minister for Public Expenditure and Reform.
+
+(3) The chief executive officer shall be paid by the Board, out of the funds at its disposal, the remuneration and allowances determined under *subsection (2)*.
+
+(4) Notwithstanding the repeal of section 16 of the Act of 1985 by *section 4*, the person who was the chief executive officer, within the meaning of that Act, immediately before that repeal shall be deemed to be the chief executive officer of the Board—
+
+(*a*) as if, on that repeal, the Board had appointed under *subsection (1)* the person to be the chief executive officer of the Board for the remaining period, if any, that was left to run for the person to hold the office of chief executive officer immediately before that repeal, and
+
+(*b*) on the same conditions (including those relating to the termination of appointment) as the person held office immediately before that repeal,
+
+and the other provisions of this Act shall be construed accordingly.
+
+(5) The chief executive officer shall be the accountable person in relation to the accounts of the Board and shall, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the Board is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Board in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Board for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Board referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report of the Comptroller and Auditor General, in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*, that is laid before Dáil Éireann.
+
+(6) In the performance of the duties of the chief executive officer under *subsection (5)*, the chief executive officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+F16[(7) If the chief executive officer is absent or the position of chief executive officer is vacant, the functions of the chief executive officer may be performed, by an employee of the Board designated by the Board, for a period of not more than 6 months in any year as specified by the Board or such further period as specified by the Board with the consent of the Minister.
+
+(8) The chief executive officer may delegate in writing any of his or her functions to a specified member of staff of the Board, and that member of staff shall be accountable to the chief executive officer for the performance of the functions so delegated.
+
+(9) The chief executive officer may revoke in writing a delegation made in accordance with this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 147(a)(i), S.I. No. 409 of 2021.
+>
+> F15: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 147(a)(ii), S.I. No. 409 of 2021.
+>
+> F16: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 147(b), S.I. No. 409 of 2021.
+
+### 29. Employees of Board.
+
+**29**.— (1) Subject to *subsection (4)(a)*, the Board shall appoint such and so many persons recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be employees of the Board as the Board from time to time thinks proper with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform.
+
+(2) Subject to *subsection (4)(b)*, an employee of the Board shall hold office or employment on the conditions (including those relating to remuneration, allowances and superannuation) that are determined by the Board with the prior approval of the Minister given with the consent of the Minister for Public Expenditure and Reform.
+
+(3) The employees of the Board shall be paid by the Board, out of the funds at its disposal, the remuneration and allowances determined under *subsection (2)*.
+
+(4) Notwithstanding the repeal of section 17 of the Act of 1985 by *section 4*, a person who was an officer or servant of the Board, appointed under that section of that Act, immediately before that repeal shall be deemed to be an employee of the Board—
+
+(*a*) as if, on that repeal, the Board had appointed under *subsection (1)* the person to be an employee of the Board for the remaining period, if any, that was left to run for the person to hold office as such officer or servant, as the case may be, immediately before that repeal, and
+
+(*b*) on the same conditions (including those relating to termination of appointment) as the person held office as such officer or servant, as the case may be, immediately before that repeal,
+
+and the other provisions of this Act shall be construed accordingly.
+
+### 30. Age limits.
+
+**30**.— F17[(1) Subject to *subsection (2)*, an employee of the Board (including the chief executive officer) shall cease to be an employee on attaining the age of 70 years or, where a higher age is prescribed by order under section 3A(2) of the Public Service Superannuation (Miscellaneous Provisions) Act 2004 for the purposes of that Act, that age.]
+
+(2) *Subsection (1)* shall not apply to a person who is a new entrant (within the meaning of the Public Service Superannuation (Miscellaneous Provisions) Act 2004) appointed on or after 1 April 2004.
+
+(3) F18[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted by *Public Service Superannuation (Miscellaneous Provisions) Act 2004* (7/2004), s. 3A and sch. 2 part 3 as inserted (26.12.2018) by *Public Service Superannuation (Age of Retirement) Act 2018* (39/2018), ss. 3, 7 and sch., commenced on enactment.
+>
+> F18: Deleted by *Public Service Superannuation (Miscellaneous Provisions) Act 2004* (7/2004), s. 3A and sch. 2 part 3 as inserted (26.12.2018) by *Public Service Superannuation (Age of Retirement) Act 2018* (39/2018), ss. 3, 7 and sch., commenced on enactment.
+
+### 31. Superannuation.
+
+**31**.— The Local Government (Superannuation) Act 1980 shall apply to the Board and its employees (including the chief executive officer) as if the Board were a local authority and the employees were the employees of a local authority but subject to any modifications (including modifications relating to service reckonable as pensionable service) which may be determined by the Minister or the Minister for the Environment, Community and Local Government.
+
+### 32. Membership of either House of Oireachtas by employee of Board.
+
+**32**.— (1) Where a person who is an employee of the Board (including the chief executive officer) becomes a member of either House of the Oireachtas, the person—
+
+(*a*) shall stand seconded from being an employee during the period (in this section referred to as the “secondment period”)—
+
+(i) commencing on the date the person becomes entitled under the Standing Orders of that House to sit therein, and
+
+(ii) ending on the date when—
+
+(I) the person ceases to be a member of that House, or
+
+(II) the person ceases to be an employee,
+
+whichever is the earlier,
+
+(*b*) shall not be paid by, or entitled to receive from, the Board any remuneration or allowance in respect of the secondment period, and
+
+(*c*) shall not be entitled to reckon the whole or any part of the secondment period for any superannuation benefits payable under this Act.
+
+(2) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein shall, while so entitled, be disqualified from becoming an employee of the Board.
+
+### 33. Membership of European Parliament by employee of Board.
+
+**33**.— *Section 32* shall, with all necessary modifications, apply to an employee of the Board who becomes a member of the European Parliament as that section applies to an employee who becomes a member of either House of the Oireachtas.
+
+## PART 5 Accounts and Finances of Board — PART 5 — Accounts and Finances of Board
+
+### 34. Accounts of Board.
+
+**34**.— (1) The chief executive officer, under the direction of the Board, shall cause to be kept on a continuous basis proper books of account of all income and expenditure of the Board, and of the sources of such income and the subject matter of such expenditure, and of the property, assets and liabilities of the Board, and shall also cause to be kept, and shall account to the Board for, all such special accounts as the Minister or the Board, with the consent of the Minister, may from time to time direct should be kept.
+
+(2) The books, records and special accounts kept under this section shall be—
+
+(*a*) kept in the form, and
+
+(*b*) for the accounting periods,
+
+as the Board, with the consent of the Minister, or the Minister, may specify, with the consent of the Minister for Public Expenditure and Reform.
+
+(3) The accounts of the Board prepared by the chief executive officer pursuant to *subsection (1)* and approved by the Board shall be submitted as soon as practicable and not later than 3 months after the end of the financial year to which they relate to the Comptroller and Auditor General for audit.
+
+(4) The Board shall, not later than one month after the Comptroller and Auditor General issues an audit certificate for the accounts of the Board, give the Minister a copy of the accounts of the Board and the Comptroller and Auditor General’s certificate and report thereon.
+
+(5) The Board shall—
+
+(*a*) not later than 3 months after the Comptroller and Auditor General issues an audit certificate, cause the accounts of the Board and the Comptroller and Auditor General’s certificate and report thereon to be printed, published in the prescribed manner and put on sale, and
+
+(*b*) immediately after each such publication, cause a copy of such accounts and such certificate and report thereon as so printed and published to be laid before each House of the Oireachtas.
+
+(6) Nothing in this section shall be construed as entitling the Comptroller and Auditor General to question—
+
+(*a*) the policy objectives of the Board, or
+
+(*b*) the need for or the conduct of a Fitness to Practise inquiry.
+
+### 35. Power of Board to borrow.
+
+**35**.— (1) The Board may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform and subject to the conditions, if any, which are imposed by the Minister, or in accordance with the directions, if any, given by the Minister, borrow money for capital or current purposes.
+
+(2) Any moneys borrowed by the Board pursuant to this section and any interest accruing thereon may be secured on the revenue, funds or property of the Board.
+
+### 36. Acceptance of gifts by Board.
+
+**36**.— (1) Subject to *subsection (2)*, the Board may accept gifts of money, land or other property upon such trusts and conditions, if any, as are specified by the donor.
+
+(2) The Board shall not accept a gift if the conditions attached to the acceptance by the donor are inconsistent with the functions of the Board.
+
+### 37. Expenses of Board.
+
+**37**.— (1) All expenses incurred by the Board shall be defrayed by the Board out of funds at the disposal of the Board.
+
+(2) The Minister may—
+
+(*a*) with the consent of the Minister for Public Expenditure and Reform, arrange for the provision of assistance to the Board, in the performance of its functions under *Part 11*, out of moneys provided by the Oireachtas for the purpose,
+
+(*b*) after consultation with the Board and with the consent of the Minister for Public Expenditure and Reform, arrange for the provision of assistance to the Board, in the performance of specified functions of the Board not falling under *Part 11*, out of the moneys provided by the Oireachtas for the purpose.
+
+(3) The Board may allocate, in a manner that it determines, the surplus of any funds at its disposal to—
+
+(*a*) education,
+
+(*b*) research, or
+
+(*c*) public purposes,
+
+connected with the professions of nursing and midwifery.
+
+### 38. Fees that Board may charge.
+
+**38**.— (1) Subject to *subsection (2)*, the Board may charge such fees as may, from time to time, be determined by the Board for—
+
+(*a*) the registration of a person in the register of nurses and midwives or a division of the register of nurses and midwives,
+
+F19[(*aa*) the recognition of a qualification held by a person,]
+
+(*b*) the annual retention of the registration of a person,
+
+(*c*) the restoration of the registration of the name of a person,
+
+(*d*) the annotation of registration with additional qualifications recognised by the Board,
+
+(*e*) entry into any examination or assessment conducted by or on behalf of the Board,
+
+(*f*) the giving to a person of a certificate of registration under *section 46(7)*,
+
+(*g*) the approval of a body under *section 85(2)(a)(i)*,
+
+(*h*) the annual retention of the approval of a body under *section 85(2)(a)(i)*,
+
+(*i*) any other service which the Board may, from time to time, provide.
+
+(2) The Board shall not charge a fee for any matter referred to in *subsection (1)(g)* or *(h)* except with the consent in writing of the Minister.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 148, S.I. No. 409 of 2021.
+
+## PART 6 Registration and Practice — PART 6 — Registration and Practice
+
+### 39. Unregistered nurses and midwives not to practise nursing, midwifery.
+
+**39**.— Subject to *sections 40* and *41*, a person who does not hold a current registration in a division of the register of nurses and midwives shall not—
+
+(*a*) practise the profession to which the division relates, or
+
+(*b*) advertise that he or she practises that profession.
+
+### 40. Prohibition on attending childbirth.
+
+**40**.— (1) No person shall, for reward, attend a woman in childbirth unless the person is—
+
+(*a*) a registered midwife who maintains adequate clinical indemnity insurance in accordance with the rules,
+
+(*b*) a registered medical practitioner,
+
+(*c*) a person undergoing training to be a registered medical practitioner or a registered midwife who gives such attention as part of a course of professional training, or
+
+(*d*) a person undergoing experience and training in obstetrics who gives such attention as part of a course of professional training.
+
+(2) *Subsection (1)* shall not apply where the attention is given in a case of sudden or urgent necessity where neither a registered midwife nor a registered medical practitioner is immediately available.
+
+(3) A person who contravenes this section is guilty of an offence under this section and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both,
+
+(*b*) on conviction on indictment—
+
+(i) in the case of a first offence, to a fine not exceeding €65,000 or to imprisonment for a term not exceeding 5 years or both,
+
+(ii) in the case of any subsequent offence, to a fine not exceeding €160,000 or to imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E20: A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 3, S.I. No. 662 of 2010.
+
+### 41. Circumstances in which practice permitted.
+
+**41**.— (1) A person does not contravene *section 39(a)* if the person’s practice is only in the course of rendering first aid to a person.
+
+(2) A person does not contravene *section 39(a)* if the person is a person who is qualified to practise nursing or midwifery in a place outside the State under the law of that place, other than a person to whom the F20[Regulations of 2017] apply, who is in the State for a humanitarian purpose and for a period not longer than 30 days and who is practising nursing or midwifery in accordance with the terms and conditions of a permit issued by the Board for that purpose.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 93(c), in effect as per reg. 2.
+
+### 42. Designated titles.
+
+**42**.— (1) Subject to *subsections (2)* and *(3)*, the Minister may, after consulting the Board or pursuant to a recommendation of the Board, make regulations to designate for the purposes of this Act any title (including variants thereof and any combination of letters) to be used by any registered nurse or registered midwife, or class of registered nurses or registered midwives, as specified in the regulations.
+
+(2) The Minister shall not exercise the power under *subsection (1)* to designate a title for the purposes of this Act unless—
+
+(*a*) the Minister has given interested persons, organisations and other bodies an opportunity to make representations to the Minister concerning the proposed designation,
+
+(*b*) subject to *subsection (3)*, the Minister considers that it is appropriate and in the public interest that the title be so designated, and
+
+(*c*) the regulations made in exercise of that power provide that a person who was, immediately before the commencement of the regulations, lawfully using the title but who, on that commencement, would contravene *section 43(2)* if the person continued to use the title, may continue to use the title for the period specified in the regulations (being a period reasonable in the circumstances but, in any case, not less than 6 months) without contravening that section.
+
+(3) The Minister shall, in considering for the purposes of *subsection (2)(b)* whether it is appropriate and in the public interest that a specific title be designated for the purposes of this Act, have regard to—
+
+(*a*) the extent to which any class of nurses or midwives has, in the opinion of the Board, a defined scope of practice and applies a distinct and recognised body of knowledge,
+
+(*b*) the degree of risk to the health, safety or welfare of the public from the incompetent, unethical or impaired practice of any class of nurses or midwives, and
+
+(*c*) any other factor that the Minister considers relevant.
+
+### 43. Use of designated titles.
+
+**43**.— (1) A person shall not use a title designated for the purposes of this Act pursuant to regulations made under *section 42(1)* unless—
+
+(*a*) the person is a registered nurse and the regulations specify that the title may be used by any registered nurse,
+
+(*b*) the person is a registered midwife and the regulations specify that the title may be used by any registered midwife, or
+
+(*c*) the person is a registered nurse or registered midwife who falls within the class of registered nurses or registered midwives that the regulations specify may use the title.
+
+(2) Subject to *section 42(2)(c)*, a person shall not use a title referred to in *subsection (1)* unless entitled by virtue of that subsection to use the title.
+
+### 44. Offences and penalties.
+
+**44**.— (1) A person is guilty of an offence if the person—
+
+(*a*) contravenes *section 39* or *43*,
+
+(*b*) falsely represents to be a registered nurse or registered midwife, or
+
+(*c*) being a registered nurse or registered midwife, falsely represents to be registered in a division of the register of nurses and midwives other than the division in which the person is registered.
+
+(2) A person is guilty of an offence if the person causes or permits another person to make representations about the first-mentioned person that, if made by the first-mentioned person, would be an offence under *subsection (1)*.
+
+(3) A person is guilty of an offence if the person, with intent to deceive, makes with regard to another person any representation that—
+
+(*a*) the first-mentioned person knows to be false, and
+
+(*b*) if made by the other person would be an offence by the other person under *subsection (1)*.
+
+F21[(4) A person is guilty of an offence if the person makes or causes to be made—
+
+(*a*) any false declaration or misrepresentation for the purpose of obtaining registration, or
+
+(*b*) any false declaration under *section 52B*.]
+
+(5) A person is guilty of an offence if the person, with intent to deceive, makes use of any certificate issued to him or her or any other person under this Act.
+
+(6) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both,
+
+(*b*) on conviction on indictment—
+
+(i) in the case of a first offence, to a fine not exceeding €65,000 or to imprisonment for a term not exceeding 5 years or both,
+
+(ii) in the case of any subsequent offence, to a fine not exceeding €160,000 or to imprisonment for a term not exceeding 10 years or both.
+
+(7) It shall be a defence in proceedings for an offence under *subsection (1)(a)* or *(2)* for the person charged with the offence to prove that the person took all reasonable steps to avoid the commission of the offence.
+
+(8) Where a person is convicted of an offence under this section, the court shall, unless it is satisfied that there are special and substantial reasons for not doing so, order the person to pay to the prosecution the costs and expenses, measured by the court, incurred by the prosecution in relation to the prosecution of the offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 149, S.I. No. 151 of 2025.
+>
+> **Editorial Notes:**
+>
+> E21: Offence under section designated an excluded offence for purposes of *National Vetting Bureau (Children and Vulnerable Persons) Act 2012*, s. 14A by *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012), s. 14A and sch. 3, as inserted (29.04.2016) by *Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016* (4/2016), s. 29, S.I. No. 215 of 2016.
+>
+> E22: A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 3, S.I. No. 662 of 2010.
+
+### 45. Recovery of fees, etc.
+
+**45**.— (1) Subject to *subsection (2)*, an unregistered nurse or unregistered midwife shall not be entitled to charge or recover fees or outlays for professional services provided by her or him in the course of practising nursing or midwifery.
+
+(2) *Subsection (1)* shall not apply to—
+
+(*a*) professional services provided by an unregistered nurse or unregistered midwife at a time when the nurse or midwife was registered, or
+
+(*b*) professional services provided by an unregistered nurse or unregistered midwife to the extent that they were provided in any of the circumstances specified in *section 41*.
+
+### 46. Registers.
+
+**46**.— (1) The Board shall establish and maintain—
+
+(*a*) a register to be known as the register of nurses and midwives, and
+
+(*b*) a candidate register.
+
+(2) The register of nurses and midwives shall contain the names of the nurses and midwives registered, and the qualifications they are entitled to have registered, under this Act, and any other details required by the rules, and shall consist of the divisions specified by the rules, including—
+
+(*a*) the nurses division, which shall include the names of those nurses registered in that division and such other identifying particulars of those nurses as the Board considers appropriate, and
+
+(*b*) the midwives division, which shall include the names of those midwives registered in that division and such other identifying particulars of those midwives as the Board considers appropriate.
+
+(3) The candidate register shall contain the names of the candidates registered and any other details required by the rules and shall consist of the divisions specified by the rules, including—
+
+(*a*) a nurse candidate division, which shall include the names and details of candidates who are pursuing the requirements and standards for first time registration in the nurses division of the register of nurses and midwives and such other identifying particulars of those candidates as the Board considers appropriate, and
+
+(*b*) a midwife candidate division, which shall include the names and details of candidates who are pursuing the requirements and standards for first time registration in the midwives division of the register of nurses and midwives and such other identifying particulars of those candidates as the Board considers appropriate.
+
+(4) The register of nurses and midwives and the candidate register may be established and maintained in paper or electronic form.
+
+(5) A certificate purporting to be signed by the chief executive officer, or another employee of the Board authorised by the chief executive officer to give a certificate under this subsection, and to certify that on a specified day or days or during the whole of a specified period—
+
+(*a*) a person named in the certificate was or was not a person registered in the register of nurses and midwives or a particular division or divisions of that register, or in the candidate register or a particular division of that register, or
+
+(*b*) the registration of a person named in the certificate—
+
+(i) was suspended, or
+
+(ii) was subject to the relevant conditions specified in the certificate,
+
+shall, without proof of the signature of the person purporting to sign the certificate or that the person was the chief executive officer or another employee of the Board so authorised, as the case may be, be evidence, unless the contrary is proved, of the matters stated in the certificate.
+
+(6) A person whose name is entered in the register of nurses and midwives or the candidate register—
+
+(*a*) shall furnish the Board with particulars of his or her employer and the position held in such form and at such intervals as may be specified by the Board, and
+
+(*b*) shall declare, in such manner and at such intervals as may be specified by the Board, whether he or she has met the requirements specified by the Board within the immediately preceding specified period.
+
+(7) The Board shall, as soon as is practicable after a nurse, midwife or candidate has been registered and the appropriate fees paid, give the nurse, midwife or candidate a certificate stating—
+
+(*a*) the name of the nurse, midwife or candidate,
+
+(*b*) the registration number attached to the registration of the nurse, midwife or candidate,
+
+(*c*) the division or divisions of the register of nurses and midwives or the candidate register in which the name has been included, and
+
+(*d*) such other identifying particulars of the nurse, midwife or candidate as the Board considers appropriate.
+
+(8) Where relevant conditions have been attached to the registration of a nurse or midwife, the Board shall enter in the register of nurses and midwives—
+
+(*a*) a statement that the registration is subject to conditions, and
+
+(*b*) particulars of the conditions.
+
+(9) The Board may maintain statistical records and make those records available for research and planning, including workforce planning, in accordance with criteria set down by the Board.
+
+### 47. Transitional provisions applicable to registers.
+
+**47**.— (1) The Minister shall specify a date to be the date on which the register of nurses and midwives and the candidate register are to be established (the “registers establishment day”) and shall publish a notice to that effect in *Iris Oifigiúil*.
+
+(2) Subject to *subsection (3)*, a nurse or midwife whose name is, immediately before the registers establishment day, entered in the register of nurses shall, on that day, be deemed to be registered in the register of nurses and midwives and any conditions that were, immediately before that day, attached to the registration of any nurse or midwife (other than any condition that the Board considers to be redundant in view of the division or divisions in which the nurse or midwife is deemed to be registered) shall also be deemed to be attached to the registration in the register of nurses and midwives on that day.
+
+(3) Where, immediately before the registers establishment day, the registration of a nurse or midwife entered in the register of nurses was of no effect for a specified period which is to expire after the registers establishment day, the name of the nurse or midwife shall not be deemed to be registered until the expiration of that period.
+
+### 48. Registration — general.
+
+**48**.— (1) A nurse or midwife may make an application to the Board, accompanied by the appropriate fee or fees, to be registered in one or more divisions of the register of nurses and midwives.
+
+(2) Subject to F22[*sections 49*, *51*, *52*, *52A* and *53*], the Board shall, in accordance with the rules, determine an application under *subsection (1)* by registering, if satisfied that the person meets the relevant criteria, the nurse or midwife in the division or divisions of the register of nurses and midwives which is considered by the Board to be appropriate.
+
+(3) The Board may annotate a person’s registration if the person applies, pays the appropriate fee and satisfies the conditions for annotation of registration prescribed by the rules.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 150, S.I. No. 409 of 2021.
+
+### 49. Registration in candidate register.
+
+**49**.— (1) The Board shall, in accordance with the rules, register in the appropriate division of the candidate register the name and details of each candidate who makes an application and who is pursuing the requirements for first time registration in the register of nurses and midwives.
+
+(2) The Board shall remove the name of a person from the candidate register if the person is awarded a qualification leading to registration in the register of nurses and midwives, if the Board is satisfied that the person has ceased to be qualified under *subsection (1)* to have his or her name in the candidate register or the relevant division of it or if the person requests in writing that the Board remove the person’s name from the candidate register or a division of the candidate register.
+
+### 50. Application to have registration removed, etc.
+
+**50**.— (1) A registered nurse or registered midwife may make an application to the Board to have his or her registration removed from the register of nurses and midwives or a division of the register of nurses and midwives.
+
+(2) Subject to *subsection (3)*, the Board shall determine an application under *subsection (1)* from a registered nurse or registered midwife by removing the nurse’s or midwife’s registration from the register of nurses and midwives or division, as the case may be.
+
+(3) Where the Board receives an application under *subsection (1)* from a registered nurse or registered midwife and—
+
+(*a*) the nurse or midwife is the subject of—
+
+(i) an application for an inquiry under Part V of the Act of 1985 which has not been considered or completed, or
+
+(ii) a complaint which has not been disposed of or otherwise dealt with under *Part 7* and, if applicable, *Parts 8* and *9*,
+
+or
+
+(*b*) the nurse or midwife has been convicted in the State of an offence triable on indictment or has been convicted outside the State of an offence consisting of acts or omissions which would constitute an offence triable on indictment if done or made in the State,
+
+F23[the Board may consider such an application if the Board is satisfied that the removal of the nurse’s or midwife’s registration would not be contrary to the public interest],
+
+(4) A nurse or midwife whose registration has been removed pursuant to *subsection (2)* may make an application in accordance with the rules, accompanied by the appropriate fee, to the Board to have the nurse’s or midwife’s registration restored F24[, otherwise than where the removal of the registration was effected (whether in whole or in part) on the ground that the removal would not be contrary to the public interest as referred to in *subsection (3)*,] to the register of nurses and midwives or the division of that register concerned.
+
+(5) The Board shall determine an application under *subsection (4)* from a nurse or midwife by restoring the registration to the register of nurses and midwives or the division of that register and may impose conditions in accordance with the rules.
+
+(6) *Subsections (3)* to *(5)* of *section 52* apply, with the necessary modifications, to a determination under *subsection (2)* or *(5)* of this section.
+
+(7) Where the Board is satisfied by medical evidence that a registered nurse or registered midwife is suffering from an illness or condition of a permanent or terminal nature which, due to the nature of the condition, renders it impossible for the nurse or midwife—
+
+(*a*) to practise nursing or midwifery in a safe and competent manner, and
+
+(*b*) to notify the Board of the nurse’s or midwife’s illness or condition, as the case may be,
+
+then the Board may remove the nurse’s or midwife’s registration.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 151(a), S.I. No. 409 of 2021.
+>
+> F24: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 151(b), S.I. No. 409 of 2021.
+
+### 51. Conditions attached to registration.
+
+F25[**51.** (1) A person (other than a candidate) making an application for registration shall declare in the application—
+
+(*a*) whether the person has any relevant medical disability, and
+
+(*b*) whether any material matter has occurred in relation to the person.
+
+(2) Where the Board is satisfied that—
+
+(*a*) a person making an application for registration has a relevant medical disability or a material matter has occurred in relation to him or her, and
+
+(*b*) in the interests of public safety, registration should only be granted to the person subject to conditions on the practising of nursing or midwifery by the person which take account of that disability or matter,
+
+the Board shall specify the proposed conditions which, in the opinion of the Board, are necessary to be attached to the registration of the person in those interests and propose that the person accept that those conditions be attached to his or her registration.
+
+(3) Where the person the subject of a decision under *subsection (2)* agrees in writing to the attachment of the proposed conditions referred to in that subsection to the person’s registration, the Board shall, if the person is registered, at the same time as such registration comply with *section 46(8)* in respect of the conditions.
+
+(4) Where the person the subject of a decision under *subsection (2)* does not agree in writing to the attachment of the proposed conditions referred to in that subsection to the person’s registration, the Board may refuse to register that person.
+
+(5) A registered nurse or registered midwife who did not, at the time of his or her registration, have a relevant medical disability but develops a medical disability at any time after registration shall notify the Board when the medical disability becomes a relevant medical disability not later than—
+
+(*a*) 30 days after the medical disability becomes a relevant medical disability, or
+
+(*b*) where the relevant medical disability renders it impracticable for the nurse or midwife to notify the Board within those 30 days, as soon as is practicable in the circumstances.
+
+(6) Where the Board is satisfied, after receiving a notification under *subsection (5)*, that, in the interest of public safety, the registration of the nurse or midwife should become subject to conditions on the practising of nursing or midwifery which take account of that relevant medical disability, the Board shall decide that conditions should be attached to the registration of the nurse or midwife in those interests, specify the proposed conditions and propose that the nurse or midwife accept that those conditions be attached to his or her registration.
+
+(7) Where the nurse or midwife the subject of a decision under *subsection (6)* agrees in writing to the attachment of the proposed conditions referred to in that subsection to the nurse’s or midwife’s registration, the Board shall attach those conditions to the registration of the nurse or midwife and, at the same time, comply with *section 46(8)* in respect of the conditions.
+
+(8) Where the nurse or midwife the subject of a decision under subsection (6) does not agree in writing to the attachment of the proposed conditions referred to in that subsection, the Board may, notwithstanding that refusal, attach those conditions to the registration of the nurse or midwife and, at the same time, comply with *section 46(8)* in respect of the conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 152, S.I. No. 409 of 2021.
+
+### 51A. F26[Board may refuse to register on ground that nurse, etc., is not fit and proper person to practise nursing, etc.
+
+**51A.** Nothing in *sections 48* to *51* shall operate to prevent the Board from refusing to register or restore the registration of a nurse, midwife or candidate on the ground that he or she is not a fit and proper person to practise nursing or midwifery in the State (including where the Board is of the view that such nurse, midwife or candidate is not so fit and proper based on a relevant finding of a disciplinary body, court or tribunal, whether in the State or in another jurisdiction).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 153, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E23: The section heading is taken from the amending provision in the absence of one included in the amendment.
+
+### 52. Refusal of registration, etc., and appeal to Court against Board’s decision.
+
+F27[**52.** (1) In this section, "relevant decision" means a decision of the Board to—
+
+(*a*) refuse to recognise a qualification held by a nurse or midwife as a qualification he or she is entitled to have registered under this Act,
+
+(*b*) register a nurse or midwife in a division of the register of nurses and midwives other than the division specified in the application under *section 48* for registration,
+
+(*c*) attach conditions to the registration of a nurse or midwife pursuant to *section 51*, or
+
+(*d*) refuse to register or restore the registration of a nurse or midwife pursuant to *section 51A.*
+
+(2) Where the Board makes a relevant decision, the Board shall forthwith give notice in writing to the person, the subject of the decision, of the decision, the date of the decision and the reasons for the decision.
+
+(3) The person the subject of a relevant decision may, not later than 3 months after the date on which the person was given notice of the decision pursuant to that subsection, appeal to the Court against the decision.
+
+(4) The Court may, on the hearing of an appeal under *subsection (3)* by a person—
+
+(*a*) either—
+
+(i) confirm the relevant decision the subject of the appeal, or
+
+(ii) cancel that decision and substitute such other decision as the Court considers appropriate, which may be a decision to—
+
+(I) recognise a qualification held by the person as a qualification he or she is entitled to have registered under this Act,
+
+(II) register or restore the registration of the person in such division of the register of nurses and midwives as the Court considers appropriate and with no conditions attached to the registration,
+
+(III) register or restore the registration of the person—
+
+(A) in such division of the register of nurses and midwives as the Court considers appropriate, and
+
+(B) with such conditions attached to the registration as the Court considers appropriate,
+
+(IV) remove some or all, or replace some or all, of the conditions attached to the registration of the person, or
+
+(V) require the Board to reconsider the decision in accordance with such directions as are given to the Board for the purposes of that reconsideration,
+
+and
+
+(*b*) give the Board such directions or, in the case of *paragraph (a)(ii)(V)*, such further directions as the Court considers appropriate and direct how the costs of the appeal are to be borne.
+
+(5) The Board shall, on complying with a direction given by the Court under *subsection (4)*, give notice in writing to the nurse or midwife concerned of the Board’s compliance with the direction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 154, S.I. No. 409 of 2021.
+
+### 52A. F28[Appeal to Court against certain decisions of Board - candidates
+
+**52A.** (1) In this section, "relevant decision" means a decision of the Board to refuse to register or restore the registration of a candidate pursuant to *section 51A*.
+
+(2) Where the Board makes a relevant decision, the Board shall forthwith give notice in writing to the person, the subject of the decision, of the decision, the date of the decision and the reasons for the decision.
+
+(3) The person the subject of a relevant decision may, not later than 3 months after the date on which the person was given notice of the decision pursuant to that subsection, appeal to the Court against the decision.
+
+(4) The Court may, on the hearing of an appeal under *subsection (3)* by a person—
+
+(*a*) either—
+
+(i) confirm the relevant decision the subject of the appeal, or
+
+(ii) cancel that decision and substitute such other decision as the Court considers appropriate, which may be a decision to—
+
+(I) register or restore the registration of the person in such division of the candidate register as the Court considers appropriate and with no conditions attached to the registration,
+
+(II) register or restore the registration of the person—
+
+(A) in such division of the candidate register as the Court considers appropriate, and
+
+(B) with such conditions attached to the registration as the Court considers appropriate,
+
+or
+
+(III) require the Board to reconsider the decision in accordance with such directions as are given to the Board by the Court for the purposes of that reconsideration,
+
+and
+
+(*b*) give the Board such directions or, in the case of *paragraph (a)(ii)(III)*, such further directions as the Court considers appropriate and direct how the costs of the appeal are to be borne.
+
+(5) The Board shall, on complying with a direction given by the Court under *subsection (4)*, give notice in writing to the candidate concerned of the Board’s compliance with the direction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 155, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E24: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 52B. F29[Declarations by registered nurses, etc., in relation to certain matters in State or other jurisdictions, etc.
+
+**52B.**— (1) Subject to *subsections (2)* to *(4)*, a registered nurse or registered midwife shall, in each year, give to the Board a declaration in writing providing particulars of any relevant proceedings that are pending or in progress.
+
+(2) If, in any year, *subsection (1)* does not apply to a registered nurse or registered midwife because there are no particulars referred to in that subsection which he or she is required to give to the Board, the nurse or midwife shall give to the Board a declaration in writing to that effect.
+
+(3) If, in any year subsequent to a year in which a registered nurse or registered midwife gave particulars referred to in *subsection (1)* to the Board, there has been no material change in the matter to which the particulars relate, the nurse or midwife may, instead of again giving those particulars to the Board, give to the Board a declaration in writing to the effect that there has been no material change to the matter to which the particulars relate.
+
+(4) A registered nurse or registered midwife shall, in each year, comply with *subsection (1)*, *(2)* or *(3)* —
+
+(*a*) not earlier than 6 weeks before he or she is required to pay, in that year, the appropriate fee determined under *section 38(1)(b)*, and
+
+(*b*) not later than the last day of that 6 weeks.
+
+(5) A registered nurse or registered midwife shall, not later than 3 months after the final determination of any relevant proceedings, give to the Board—
+
+(*a*) a declaration in writing providing particulars of the sanctions (if any) imposed on the nurse or midwife in consequence of those proceedings, or
+
+(*b*) if no such sanctions were so imposed, a declaration in writing to that effect.
+
+(6) The Board may, by notice in writing given to a registered nurse or registered midwife who has made a declaration under this section, require the nurse or midwife, as the case may be, to provide to the Board, within a reasonable period specified in the notice, further information concerning any particulars provided to the Board in the declaration.
+
+(7) (*a*) A registered nurse or registered midwife shall comply with a notice under *subsection (6)* given to the nurse or midwife.
+
+(*b*) Where the Board considers that a registered nurse or registered midwife has contravened *paragraph (a)*, the Board shall forthwith make a complaint.
+
+(8) In this section—
+
+"final determination", in relation to any relevant proceedings and a registered nurse or registered midwife, means—
+
+(*a*) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the nurse or midwife, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
+
+(*b*) if such an appeal is made—
+
+(i) the abandonment or withdrawal of the appeal, or
+
+(ii) the determination of the appeal,
+
+whichever first occurs;
+
+"relevant proceedings", in relation to a registered nurse or registered midwife, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the nurse or midwife is the subject—
+
+(*a*) in the State or another jurisdiction which may directly or indirectly result in the nurse or midwife—
+
+(i) being prohibited from providing one or more than one kind of health or social care in the State or that jurisdiction, or
+
+(ii) having a restriction placed on his or her ability to provide one or more than one kind of health or social care in the State or that jurisdiction,
+
+(*b*) in another jurisdiction which may result in the nurse or midwife being convicted, in that jurisdiction, for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, or
+
+(*c*) in the State which may result in the nurse or midwife being convicted, in the State, for an offence triable on indictment;
+
+"sanction" includes any restriction or measure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 156, S.I. No. 151 of 2025.
+>
+> **Editorial Notes:**
+>
+> E25: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 53. Correction of registers.
+
+**53**.— (1) For the purpose of keeping the register of nurses and midwives and the candidate register correct, the Board shall from time to time as occasion requires correct all clerical errors in those registers, remove therefrom all entries therein procured by fraud or misrepresentation, enter in those registers every change which comes to the Board’s knowledge in the addresses or other details of the persons registered in them and remove the registration of all registered persons whose death has been notified to, or comes to the knowledge of, the Board.
+
+(2) Where the Board takes any action pursuant to *subsection (1)* for the purposes of keeping the registers referred to in that subsection correct, the Board shall forthwith notify the person concerned, or the person’s next of kin, as may be appropriate, of the action taken and of the reasons therefor.
+
+(3) The Board shall take such steps as it considers necessary from time to time to ensure that the particulars entered in the registers are accurate.
+
+(4) Where any particulars entered in the register of nurses and midwives or the candidate register in respect of a registered nurse, registered midwife or candidate change, the nurse, midwife or candidate shall, as soon as is practicable but, in any case, not later than 30 days after the occurrence of the change, give notice in writing to the Board specifying the change.
+
+(5) Where a registered nurse or registered midwife intends to be, or has been, absent from the State for a continuous period of more than 12 months, the nurse or midwife shall, as soon as is practicable, give notice in writing to the Board—
+
+(*a*) of that fact, and
+
+(*b*) of particulars of any employment that the nurse or midwife intends to take up, or has taken up, outside the State in a similar professional capacity.
+
+(6) A registered nurse or registered midwife shall give notice in writing to the Board of any material matter which would be likely to affect the continuation of the nurse’s or midwife’s registration not later than 30 days after that matter comes to his or her knowledge.
+
+(7) F30[...]
+
+(8) Failure to notify the Board as required by *subsection (6)* shall be sufficient grounds for the Board to make a complaint to the Preliminary Proceedings Committee under this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 157, S.I. No. 409 of 2021.
+
+### 53A. F31[Board may request certain information concerning registered nurses, etc., from certain bodies in State or other jurisdictions.
+
+**53A.**— (1) Where a registered nurse or registered midwife provides, or has provided, one or more than one kind of health or social care in the State or another jurisdiction, the Board may make a request in writing, accompanied by the relevant statement, to the body, duly authorised in the State or that jurisdiction to regulate persons who provide that kind of health or social care in the State or that jurisdiction, to provide the Board with any information relevant to either or both of the following:
+
+(*a*) any material matter that has occurred in the State or that jurisdiction in relation to the nurse or midwife;
+
+(*b*) the nurse’s or midwife’s qualifications, or registration (or equivalent thereof in that jurisdiction), as a person who provides that kind of health or social care.
+
+(2) In this section—
+
+"registered nurse" and "registered midwife" includes a person who has made an application under section 48 for registration which has not yet been determined by the Board;
+
+"relevant statement", in relation to a request under *subsection (1)*, means a statement to the effect that any information provided to the Board, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the nurse or midwife the subject of the request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 158, S.I. No. 151 of 2025.
+>
+> **Editorial Notes:**
+>
+> E26: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 54. Publication of registers.
+
+**54**.— (1) Subject to *subsection (2)*, the Board shall ensure that the register of nurses and midwives and the candidate register are published in the prescribed manner and that an up-to-date version of those registers is published no less frequently than once per year.
+
+(2) The Board need not make available for inspection or publish the residential addresses, home telephone numbers or e-mail addresses of persons registered in the register of nurses and midwives or the candidate register or other similar details that, in its opinion, should, in the interests of the security of those persons, be protected from disclosure.
+
+## PART 7 Complaints to Preliminary Proceedings Committee Concerning Registered Nurses and Registered Midwives — PART 7 — Complaints to Preliminary Proceedings Committee Concerning Registered Nurses and Registered Midwives
+
+### 55. Complaints concerning registered nurses and registered midwives.
+
+**55**.— (1) A person (including the Board) may make a complaint to the F32[chief executive officer] concerning a registered nurse or registered midwife on one or more than one of the grounds of—
+
+(*a*) professional misconduct,
+
+(*b*) poor professional performance,
+
+(*c*) non-compliance with a code of professional conduct,
+
+(*d*) a relevant medical disability,
+
+(*e*) a failure to comply with a relevant condition,
+
+F32[(*ea*) the imposition on the nurse or midwife of—
+
+(i) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(ii) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction,]
+
+(*f*) a failure to comply with an undertaking or to take any action specified in a consent given in response to a request under F32[*section 57A(1)* or *65(1)*],
+
+(*g*) a contravention of a provision of this Act (including a provision of any regulations or rules made under this Act),
+
+F33[(*ga*) a failure to comply with regulations made under section 13(2) of the Health (Pricing and Supply of Medical Goods) Act 2013,]
+
+(*h*) an irregularity in relation to the custody, prescription or supply of a controlled drug under the Misuse of Drugs Acts 1977 and 1984 or another drug that is likely to be abused, or
+
+(*i*) a conviction in the State for an offence triable on indictment or a conviction outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment.
+
+(2) A complaint may be made on the grounds of professional misconduct or poor professional performance notwithstanding that the matter to which the complaint relates occurred outside the State.
+
+F34[(2A) (*a*) The chief executive officer may, in relation to a complaint heard, being heard or to be heard by the Fitness to Practise Committee, whenever he or she considers it necessary to do so, request in writing the Garda Síochána to give to him or her information concerning the criminal record of the nurse or midwife the subject of the complaint that the Committee may reasonably require for the performance of its functions.
+
+(*b*) The Garda Síochána shall, subject to *section 55* of the *Data Protection Act 2018*, comply with a request under paragraph (a) as soon as is practicable after receiving the request.
+
+(*c*) The chief executive officer may, whenever he or she considers it necessary to do so, request in writing that the registrar or clerk of a court which has convicted a nurse or midwife of an offence in the State to give to him or her a certificate of conviction (or in the case of the District Court, a certified copy of the order concerned made by the Court), or a certified copy of the judgment, or both, in respect of the offence that the chief executive officer or Board (including any committee thereof), or both, may reasonably require for the performance of his or her or its functions under this Act in relation to that nurse or midwife.
+
+(*d*) The registrar or clerk of the court concerned the subject of a request under *paragraph (c)* shall comply with the request as soon as is practicable after receiving the request.
+
+(*e*) In this subsection, "criminal record", in relation to a nurse or midwife, means a record of the previous convictions (other than spent convictions within the meaning of *section 5* of the *Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016*) of the nurse or midwife for offences (if any).]
+
+F35[(2B) Subject to *subsection (2C)*, where the chief executive officer receives a complaint, he or she shall comply with *section 56A* in respect of the complaint unless
+
+(*a*) he or she is satisfied that the complaint is not made in good faith, or
+
+(*b*) he or she is satisfied that the complaint is frivolous or vexatious.
+
+(2C) *Subsection (2B)* shall not apply to a complaint where the Board is the complainant.
+
+(2D) Where the chief executive officer decides that a complaint falls within *subsection (2B)(a)* or *(b)*, he or she shall give notice in writing to the complainant (and, if the chief executive officer is of the opinion that it is in the interests of the complainant, or the registered nurse or registered midwife to whom the complaint relates, or of both, to do so, to such nurse or midwife) of the decision and the reasons for the decision.]
+
+(3) The F36[chief executive officer] shall make reasonable efforts to ensure that—
+
+(*a*) the complainant is kept informed of all decisions made under this Part and, if applicable, *Parts 8* and *9* by F36[the chief executive officer, the Preliminary Proceedings Committee], any other committee, or the Board, in relation to the complaint concerned,
+
+F36[(*b*) the authorised officers act expeditiously, and,]
+
+(*c*) complaints are processed in a timely manner.
+
+F37[(3A) The chief executive officer may, in relation to the complaint concerned, inform, in addition to the complainant, other parties to the proceedings under this Act concerning the complaint, of the decisions referred to in *subsection (3)(a)*.]
+
+(4) F38[...]
+
+(5) Where a complaint falls within *subsection (1)(i)*, the F39[chief executive officer] shall immediately refer the complaint to the Board.
+
+(6) The Board shall consider a complaint referred to it under *subsection (5)* and—
+
+(*a*) if it is of the opinion that—
+
+(i) the nature of the offence that is the subject of the complaint or the circumstances in which the offence was committed render the nurse or midwife F40[a person who has permanently ceased to be a fit and proper person to continue to practise nursing or midwifery in the State], and
+
+(ii) it is in the public interest that it take action immediately under this paragraph,
+
+the Board shall decide under *section 69(1)* to cancel the nurse’s or midwife’s registration under *section 69(1)(f)*, and
+
+(*b*) in any other case, the Board shall refer the complaint back to the F40[chief executive officer and direct that officer] to deal with the complaint as if the complaint had never been so referred.
+
+(7) Nothing in *subsection (6)* shall be construed to—
+
+(*a*) prejudice the generality of *section 58*, or
+
+(*b*) limit the range of the measures which the Board may decide to take under *section 69* with regard to a registered nurse or registered midwife in any case where the Board has taken the action referred to in *subsection (6)(b)*.
+
+(8) The F41[chief executive officer] shall refuse to consider or further consider a complaint in respect of a matter which occurred before the repeal of section 38 of the Act of 1985 by *section 4* if the matter was the subject of an application under Part V of the Act of 1985.
+
+F42[(8A) A complaint made before the commencement of section 159 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020 which has not been disposed of or otherwise dealt with under this Act before that commencement shall be disposed of or otherwise dealt with under this Act as this Act was in force immediately before that commencement.]
+
+(9) A complaint is a protected disclosure under the Health Act 2004 (as amended by the Health Act 2007).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(a)(i)-(iii), S.I. No. 409 of 2021.
+>
+> F33: Inserted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 35, S.I. No. 202 of 2013.
+>
+> F34: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(b), S.I. No. 151 of 2025.
+>
+> F35: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(b), S.I. No. 409 of 2021.
+>
+> F36: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(c)(i)-(iii), S.I. No. 409 of 2021.
+>
+> F37: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(d), S.I. No. 409 of 2021.
+>
+> F38: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(e), S.I. No. 409 of 2021.
+>
+> F39: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(f), S.I. No. 409 of 2021.
+>
+> F40: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(g)(i), (ii), S.I. No. 409 of 2021.
+>
+> F41: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(h), S.I. No. 409 of 2021.
+>
+> F42: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(i), S.I. No. 409 of 2021.
+>
+> F43: Substituted by *Health Identifiers Act 2014* (15/2014), s. 39(a)(i), not commenced as of date of revision.
+>
+> F44: Substituted by *Health Identifiers Act 2014* (15/2014), s. 39(a)(ii), not commenced as of date of revision
+>
+> F45: Inserted by *Health Identifiers Act 2014* (15/2014), s. 39(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (2A) inserted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 159(b), not commenced as of date of revision.
+>
+> C6: Prospective affecting provision: subs. (1) amended and subs. (1A) inserted by *Health Identifiers Act 2014* (15/2014), s. 39, not commenced as of date of revision.
+>
+> **55**.— (1) F43[Subject to *subsection (1A)*, a person] (including the Board) may make a complaint to the F32[chief executive officer] concerning a registered nurse or registered midwife on one or more than one of the grounds of— ...
+>
+> (*ga*) a failure to comply with—
+>
+> (i) regulations made under *section 13(2)* of the *Health (Pricing and Supply of Medical Goods) Act 2013*, or
+>
+> (ii) a provision of the *Health Identifiers Act 2014* applicable to the nurse or midwife in his or her capacity (if any) as a health services provider within the meaning of *section 2* of that Act,
+>
+> ...
+>
+> (1A) A complaint shall not be made by a person other than the Minister if the ground concerned is a registered nurse’s or registered midwife’s failure to comply with a provision referred to in *subsection (1)(ga)(ii)*.
+>
+> ...
+
+### 56. Persons to assist Preliminary Proceedings Committee.
+
+**56**.—F46[(1) The chief executive officer may appoint such and so many members of staff as he or she deems appropriate to be authorised officers to investigate complaints and to assist the chief executive officer and the Preliminary Proceedings Committee in relation to complaints for such period and subject to such terms as the chief executive officer may determine.
+
+(2) Subject to *subsection (4)*, the chief executive officer shall specify the functions to be performed by authorised officers.]
+
+(3) Without prejudice to the generality of *subsection (2)*, the functions specified under that subsection may include one or more than one of the following:
+
+F47[(*a*) investigating complaints,
+
+(*aa*) interviewing persons for the purposes of assessing the relevance or evidential value of information or documents they wish to give to the chief executive officer or Preliminary Proceedings Committee;]
+
+(*b*) interviewing persons as to the evidence they propose to give to the Preliminary Proceedings Committee;
+
+(*c*) recording, in writing or otherwise, the statements given and answers made by persons whilst being so interviewed;
+
+F48[(*d*) reporting to the chief executive officer;
+
+(*e*) requesting persons to provide the chief executive officer with statements in writing concerning any matter relevant to the chief executive officer’s or Preliminary Proceedings Committee’s functions and examining statements given in response to the requests;
+
+(*f*) providing the chief executive officer or Preliminary Proceedings Committee with any other advice or assistance required in relation to the preparation of the chief executive officer’s or Preliminary Proceedings Committee’s reports.]
+
+(4) F49[An authorised officer]—
+
+(*a*) shall not administer oaths F49[...], but,
+
+(*b*) may, if authorised by the F49[chief executive officer] to do so, request a person interviewed as described in *subsection (3)* to sign a record of a statement made or answer given by the person during the interview.
+
+(5) F50[An authorised officer] who makes a request referred to in *subsection (4)(b)* shall inform the person to whom the request is made of the power under *section 64* of the Fitness to Practise Committee to give a direction in relation to the statement or answer the subject of the request.
+
+F51[(6) The chief executive officer shall provide each authorised officer with a warrant—
+
+(*a*) identifying the authorised officer, and
+
+(*b*) specifying the functions that the authorised officer has the authority to perform by virtue of *subsection (2)* and, if applicable, *subsections (4)(b)* and *(5)*.]
+
+F52[(7) Where an authorised officer performs a function specified in that authorised officer’s warrant provided under *subsection (6)*, the authorised officer shall produce the warrant for inspection at the request of a person in respect of whom the function is performed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(a), S.I. No. 409 of 2021.
+>
+> F47: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(b)(i), S.I. No. 409 of 2021.
+>
+> F48: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(b)(ii), S.I. No. 409 of 2021.
+>
+> F49: Substituted and deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(c)(i)-(iii), S.I. No. 409 of 2021.
+>
+> F50: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(d), S.I. No. 409 of 2021.
+>
+> F51: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(e), S.I. No. 409 of 2021.
+>
+> F52: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 160(f), S.I. No. 409 of 2021.
+
+### 56A. F53[Investigation of complaints
+
+**56A.** (1) Subject to *section 55(2B)*, the chief executive officer, following the receipt of a complaint, shall cause such investigation as he or she deems appropriate to be carried out and, for the purposes of the investigation, shall appoint an authorised officer to carry out the investigation.
+
+(2)(*a*) The chief executive officer and the authorised officer appointed under *subsection (1)* may, for the purposes of considering whether there is sufficient cause to warrant further action being taken in relation to a complaint, take account of such matters relating to the registered nurse or registered midwife the subject of the complaint that arise from the investigation of the complaint as they consider appropriate.
+
+(*b*) References to a complaint in this section (other than *subsection (10)* ), in the definitions of "allegation" and "inquiry" in *section 2* and in *sections 9(2)(i)*, *13(2)(h)*, *24(2)*, *50(3)(a)*, *57A*, *63*, *65* to *69* and *77(2)* shall be construed as including references to any of the matters referred to in *paragraph (a)*.
+
+(3) The authorised officer shall investigate the complaint and prepare a report for the chief executive officer.
+
+(4) The authorised officer may, by notice in writing given to a complainant, do one or more of the following:
+
+(*a*) require the complainant to verify, by affidavit or otherwise, anything contained in the complaint;
+
+(*b*) request the complainant to provide, within a reasonable period specified in the notice, further information relating to the matter the subject of the complaint;
+
+(*c*) require that the information requested under *paragraph (b)* be provided by means of a statutory declaration.
+
+(5) The chief executive officer may refuse to consider or further consider a complaint if the complainant, without reasonable excuse, does not comply with a notice under *subsection (4)* given to the complainant.
+
+(6) The authorised officer shall give notice in writing to the registered nurse or registered midwife, the subject of a complaint, of the complaint, its nature and, if known, the name of the complainant.
+
+(7) The registered nurse or registered midwife the subject of a complaint may provide to the authorised officer any information that the nurse or midwife believes should be considered by the Preliminary Proceedings Committee or the Fitness to Practise Committee.
+
+(8) The authorised officer may, by notice in writing given to a registered nurse or registered midwife the subject of a complaint, require the nurse or midwife to provide the authorised officer, within a reasonable period specified in the notice, with such information relating to the complaint as is specified in the notice.
+
+(9) A registered nurse or registered midwife shall comply with a notice under *subsection (8)* given to him or her.
+
+(10) Where a complaint is withdrawn before it is considered by the Preliminary Proceedings Committee, the chief executive officer may—
+
+(*a*) decide that no further action is to be taken in relation to the matter the subject of the complaint, or
+
+(*b*) proceed as if the complaint had not been withdrawn.
+
+(11) The chief executive officer shall, following the receipt of the investigation report from the authorised officer, forward the complaint and the investigation report and any other information which the chief executive officer deems appropriate to the Preliminary Proceedings Committee for consideration.
+
+(12) *Subsections (1)(c)*, *(2)* (in so far as the last-mentioned subsection relates to the production of records) and *(9)* of *section 64* shall apply to and in relation to the chief executive officer as those subsections apply to and in relation to the Fitness to Practise Committee and the chairperson of the Fitness to Practise Committee and the other provisions of *section 64* (including *subsections (4)* to *(6)*) shall, with all necessary modifications, be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 161, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E27: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 57. Consideration of complaints by Preliminary Proceedings Committee.
+
+**57**.— (1) The Preliminary Proceedings Committee shall, as soon as is practicable after receiving a complaint F54[and the investigation report and any other information from the chief executive officer], consider whether there is sufficient cause to warrant further action being taken in relation to the complaint.
+
+(2) The Preliminary Proceedings Committee may, for the purpose of considering whether there is sufficient cause to warrant further action being taken in relation to a complaint, take account of such matters relating to the registered nurse or registered midwife the subject of the complaint that arise from F55[the investigation of the complaint and the investigation report and other information as it considers] appropriate and references to a complaint in this section (other than in *subsection (11)*), and in *section 13(2)(h)*, *24(2)*, *50(3)(a)(ii)*, F55[*57A* to *63*], *65* to *69* and *77(2)* shall be construed as including references to any such matter.
+
+(3) Where the Preliminary Proceedings Committee considers that a complaint is proper to the procedures of another body or authority, including any scheme which may be in place pursuant to Part 9 of the Health Act 2004, it may inform the complainant of its view that the complaint is proper to such other procedures.
+
+(4) F56[...]
+
+(5) F56[...]
+
+(6) F56[...]
+
+(7) F56[...]
+
+(8) F56[...]
+
+(9) F56[...]
+
+(10) The Preliminary Proceedings Committee shall, before forming an opinion on whether there is sufficient cause to warrant further action being taken in relation to a complaint, or whether the complaint should be referred to another body or authority, consider—
+
+(*a*) any information supplied under this section concerning the complaint, and
+
+(*b*) whether the complaint is trivial or vexatious or without substance or made in bad faith.
+
+F57[(10A) Where the Preliminary Proceedings Committee is of the opinion that additional information or an additional investigation, or both, is or are required concerning a complaint, it shall advise the chief executive officer that it is of that opinion.
+
+(10B) Where the chief executive officer is advised under *subsection (10A)*, he or she shall—
+
+(*a*) seek to obtain the additional information required and give it to the Preliminary Proceedings Committee, or
+
+(*b*) ensure that the additional investigation required is undertaken and the further investigation report arising from the additional investigation is given to the Preliminary Proceedings Committee,
+
+or both if so required by that advisement.]
+
+(11) Where a complaint is withdrawn while it is being considered by the Preliminary Proceedings Committee, the Committee may F58[...]—
+
+(*a*) decide that no further action is to be taken in relation to the matter the subject of the complaint, or
+
+(*b*) proceed as if the complaint had not been withdrawn.
+
+(12) *Subsections (1)(c)*, *(2)* (in so far as it relates to the production of records) and *(9)* of *section 64* shall apply to and in relation to the Preliminary Proceedings Committee and the chairperson of that Committee as those subsections apply to and in relation to the Fitness to Practise Committee and the chairperson of the Fitness to Practise Committee F59[and the other provisions of *section 64* (including *subsections (4)* to *(6)*) shall, with all necessary modifications, be construed accordingly].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(a), S.I. No. 409 of 2021.
+>
+> F55: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(b)(i), (ii), S.I. No. 409 of 2021.
+>
+> F56: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(c), S.I. No. 409 of 2021.
+>
+> F57: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(d), S.I. No. 409 of 2021.
+>
+> F58: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(e), S.I. No. 409 of 2021.
+>
+> F59: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 162(f), S.I. No. 409 of 2021.
+
+### 57A. Undertakings and consents
+
+F60[**57A.** (1) The Preliminary Proceedings Committee may request the registered nurse or registered midwife the subject of the complaint to do one or more than one of the following:
+
+(*a*) if appropriate, undertake not to repeat the conduct the subject of the complaint;
+
+(*b*) pursuant to *section 87(2)*, demonstrate her or his relevant competencies to the satisfaction of the Board;
+
+(*c*) take such steps as may be specified by the Board, which may include taking a course of education or training or gaining clinical practical experience for the express purpose of updating her or his skills and knowledge;
+
+(*d*) consent to undergo medical treatment;
+
+(*e*) consent to being censured by the Board.
+
+(2) Where a registered nurse or registered midwife gives an undertaking or consent the subject of a request under *subsection (1)* by the Preliminary Proceedings Committee—
+
+(*a*) the investigation into the complaint shall be considered to be completed,
+
+(*b*) *section 61* shall not apply to the complaint, and
+
+(*c*) the Committee shall submit to the Board a report in writing specifying—
+
+(i) the nature of the complaint that resulted in the investigation, and
+
+(ii) the measures included in the undertaking or consent.
+
+(3) Where a registered nurse or registered midwife refuses to give an undertaking or consent the subject of a request under *subsection (1)*, the Preliminary Proceedings Committee may proceed as if the request had not been made.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 163, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E28: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 58. If immediate suspension of registration is necessary to protect public.
+
+**58**.— (1) The Board may make an *ex parte* application to the Court for an order to suspend the registration of a registered nurse or registered midwife, whether or not the nurse or midwife is the subject of a complaint, if the Board considers that the suspension is necessary to protect the public until steps or further steps are taken under this Part and, if applicable, *Parts 8* and *9*.
+
+(2) An application under *subsection (1)* shall be heard otherwise than in public unless the Court considers it appropriate to hear the application in public.
+
+(3) The Court may determine an application under *subsection (1)* by—
+
+(*a*) making any order it considers appropriate, including an order directing the Board to suspend the registration of the registered nurse or registered midwife the subject of the application for the period specified in the order, and
+
+(*b*) giving to the Board any direction that the Court considers appropriate.
+
+(4) The Board shall, on complying with a direction of the Court given under *subsection (3)*, give notice in writing to the nurse or midwife concerned of the Board’s compliance with the direction.
+
+F61[(5) (*a*) *Paragraph (b)* applies where—
+
+(i) a registered nurse or registered midwife becomes the subject of an order under *subsection (3)(a)*, and
+
+(ii) the Board has reason to believe that—
+
+(I) the nurse or midwife is registered in another jurisdiction as a nurse or midwife or has made an application to be registered as a nurse or midwife in another jurisdiction which has not yet been determined, and
+
+(II) that order may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Board.
+
+(*b*) The Board shall give notice in writing to that body of that order and may, notwithstanding any provision of *Directive 2005/36/EC* or of the Regulations of 2017, provide that body with a copy of that order and copies of other documents relevant to that order.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 164, S.I. No. 409 of 2021.
+
+### 59. No further action, or referral of complaint to another body or authority, etc.
+
+**59**.— (1) Where the Preliminary Proceedings Committee is, in respect of a complaint, of the opinion that—
+
+(*a*) there is not sufficient cause to warrant further action being taken in relation to the complaint,
+
+(*b*) the complaint should be referred to another body or authority F62[...], or
+
+(*c*) the complaint is one that could be resolved by mediation or other informal means pursuant to guidelines prepared under *section 60(1)*,
+
+it shall inform the Board of that opinion.
+
+(2) The Board may, after considering an opinion referred to in *subsection (1)* in respect of a complaint, do one or more than one of the following:
+
+(*a*) decide that no further action is to be taken in relation to the complaint;
+
+(*b*) direct the Preliminary Proceedings Committee to refer the F63[complaint] to another body or authority;
+
+(*c*) refer information in relation to the complaint in accordance with a co-operation agreement entered into under *section 15*;
+
+(*d*) refer the F63[nurse or midwife the subject of the] complaint to a professional competence scheme;
+
+(*e*) refer the complaint for resolution by mediation or other informal means; or
+
+(*f*) if it considers it necessary to do so, direct that further action be taken under *section 61*.
+
+(3) Where the Board, in respect of a complaint, makes a decision referred to in *subsection (2)(a)* or a referral referred to in *subsection (2)(b)* or *(d)*, the Board shall give notice in writing of the decision or referral, as the case may be, to—
+
+(*a*) the registered nurse or registered midwife the subject of the complaint, and
+
+(*b*) the complainant in any case where the Board is not the complainant.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 165(a), S.I. No. 409 of 2021.
+>
+> F63: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 165(b)(i), (ii), S.I. No. 409 of 2021.
+
+### 60. Resolution of complaints by mediation or other informal means.
+
+**60**.— (1) Subject to *subsections (3)* and *(6)* and without prejudice to the generality of *section 14*, the Board may prepare guidelines for resolving complaints by mediation or other informal means.
+
+(2) Without prejudice to the generality of *subsection (1)*, guidelines prepared under that subsection may include provision for one or more than one of the following:
+
+(*a*) a determination to be made about whether a complaint can be resolved by mediation or other informal means or whether it warrants the holding of an inquiry;
+
+(*b*) the persons who may attempt to mediate or otherwise resolve the complaint;
+
+(*c*) the recording of the manner in which the complaint was resolved and of the agreement of the complainant and the registered nurse or registered midwife the subject of the complaint to the resolution;
+
+(*d*) the steps to be taken (including notice to the complainant, the registered nurse or registered midwife the subject of the complaint and the Preliminary Proceedings Committee) if the complaint cannot, in the opinion of the person attempting to do so, be resolved by mediation or other informal means;
+
+(*e*) any other matters that the Board considers necessary or appropriate for facilitating the resolution of the complaint by mediation or other informal means.
+
+(3) No attempt may be made to resolve a complaint by mediation or other informal means without the consent of the complainant and the registered nurse or registered midwife the subject of the complaint.
+
+(4) A consent given by a registered nurse or registered midwife the subject of a complaint for the purpose of this section shall not be taken as an admission of any allegation.
+
+(5) No answer or statement made, in the course of attempting to resolve a complaint pursuant to the guidelines prepared under *subsection (1)*, by the complainant or the registered nurse or registered midwife the subject of the complaint may—
+
+(*a*) be communicated to any person other than the persons participating in the attempt to resolve the complaint, or
+
+(*b*) be used in any disciplinary, civil or criminal proceedings.
+
+(6) The resolution of a complaint pursuant to guidelines prepared under *subsection (1)* shall not include the payment by any party of any financial compensation.
+
+(7) The Board shall ensure that guidelines prepared by it under *subsection (1)* are published in the prescribed manner.
+
+### 61. Referral of complaint to Fitness to Practise Committee.
+
+**61**.— (1) F64[Subject to *section 57A(2)(b)*, where]—
+
+(*a*) the Preliminary Proceedings Committee is of the opinion that there is a *prima facie* case to warrant further action being taken in relation to a complaint, or
+
+(*b*) the Board directs under *section 59(2)(f)* that further action be taken under this section in relation to a complaint,
+
+the Preliminary Proceedings Committee shall refer the complaint to the Fitness to Practise Committee F64[together with all other material (including investigation reports) that the Committee is of the opinion are relevant to the complaint and that the Fitness to Practise Committee needs to consider to dispose of or otherwise deal with the complaint].
+
+(2) For the avoidance of doubt, the Preliminary Proceedings Committee may refer a complaint to the Fitness to Practise Committee under this section even if the ground or grounds on which it arrived at the opinion that there is a *prima facie* case to warrant further action being taken in relation to the complaint differ from those on which the original complaint was based, so long as the opinion was arrived at on grounds mentioned in *section 55*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 166(a), (b), S.I. No. 409 of 2021.
+
+## PART 8 Complaints referred to Fitness to Practise Committee — PART 8 — Complaints referred to Fitness to Practise Committee
+
+### 62. Duty to notify registered nurse or registered midwife and complainant or other witnesses of referral to, and hearing by, Fitness to Practise Committee.
+
+**62**.— (1) The chief executive officer shall, as soon as practicable but not later than 30 days after a complaint is referred under *section 61* to the Fitness to Practise Committee, give notice in writing to the registered nurse or registered midwife the subject of the complaint of the following:
+
+(*a*) the referral of the complaint to the Fitness to Practise Committee;
+
+(*b*) the opportunity for the nurse or midwife, or his or her representative, to be present and to defend the nurse or midwife at the hearing;
+
+(*c*) the opportunity for the nurse or midwife to request that some or all of the hearing be held otherwise than in public if the nurse or midwife can show reasonable and sufficient cause.
+
+(2) The chief executive officer shall, as soon as practicable after a complaint is referred under *section 61* to the Fitness to Practise Committee, give notice in writing to—
+
+(*a*) the registered nurse or registered midwife the subject of the complaint of the nature of the matter that is to be the subject of the inquiry, including the particulars of any evidence in support of the complaint, and
+
+(*b*) any witnesses who may be required to give evidence at an inquiry (including, where appropriate, the complainant) of the opportunity for the witness to request that some or all of the hearing be held otherwise than in public if the witness can show reasonable and sufficient cause.
+
+(3) The chief executive officer shall give notice in writing to the registered nurse or registered midwife the subject of a complaint referred to the Fitness to Practise Committee of the date, time and place of the hearing of the complaint in sufficient time for the nurse or midwife to prepare for the hearing.
+
+### 63. Conduct of hearing.
+
+**63**.— (1) The Fitness to Practise Committee shall, subject to *subsection (2)* and *sections 65* and *66*, hear a complaint referred to it under *section 61*.
+
+(2) Where a subcommittee of the Fitness to Practise Committee is conducting a hearing of a complaint referred to that Committee—
+
+(*a*) if the complaint concerns a registered nurse, at least one member of the subcommittee shall be a registered nurse, and
+
+(*b*) if the complaint concerns a registered midwife, at least one member of the subcommittee shall be a registered midwife.
+
+(3) A hearing before the Fitness to Practise Committee shall be held in public unless—
+
+(*a*) following a notification under *section 62*, the registered nurse or registered midwife or a witness who will be required to give evidence at the inquiry or about whom personal matters may be disclosed at the inquiry requests the Committee to hold all or part of the hearing otherwise than in public, and
+
+(*b*) the Committee is satisfied that it would be appropriate in the circumstances to hold the hearing or part of the hearing otherwise than in public.
+
+(4) At the hearing of a complaint before the Fitness to Practise Committee—
+
+(*a*) the chief executive officer, or any other person with leave of the Committee, shall present the evidence in support of the complaint,
+
+(*b*) the testimony of witnesses attending the hearing shall be given on oath, and
+
+(*c*) there shall be a right to cross-examine witnesses and call evidence in defence and reply.
+
+(5) Any member of the Fitness to Practise Committee may administer oaths for the purposes of an inquiry.
+
+### 63A. F65[Fitness to Practise Committee may order that certain information not be published
+
+**63A.** (1) Subject to *subsections (2)* and *(3)*, where the Fitness to Practise Committee is satisfied that there is reasonable cause that all or part of the information (in this section referred to as the "relevant information") relating to all or part of a hearing (in this section referred to as the "relevant hearing") before the committee being held in public should not be disclosed, it may request that the relevant information not be disclosed.
+
+(2) A person may disclose all or part of any relevant information if the disclosure is in such form as to prevent particulars relating to the identity of a party to the proceedings at the relevant hearing being ascertained from it.
+
+(3) Nothing in this section shall be construed as prohibiting a disclosure of relevant information pursuant to a court order.
+
+(4) A person who fails to comply with a request under *subsection (1)* shall be guilty of an offence and liable on summary conviction to a class A fine or a term of imprisonment not exceeding 6 months or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 167, S.I. No. 409 of 2021. A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E29: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 64. Powers and protections relating to witnesses and evidence.
+
+**64**.— (1) For the purposes of an inquiry, the Fitness to Practise Committee has all the powers, rights and privileges that are vested in the Court or a judge of the Court on the occasion of an action and that relate to—
+
+(*a*) enforcing the attendance of witnesses,
+
+(*b*) examining witnesses on oath or otherwise, and
+
+(*c*) compelling the production (including discovery) of records.
+
+(2) Without prejudice to the generality of *subsection (1)*, a summons issued by the chairperson of the Fitness to Practise Committee or by such other member of that Committee as is authorised by it for the purpose of the inquiry may be substituted for and is the equivalent of any formal process capable of being issued in an action for enforcing the attendance of witnesses and compelling the production of records.
+
+(3) Subject to any rules in force and to the necessity of observing fair procedures, the Fitness to Practise Committee may receive evidence given—
+
+(*a*) orally before the committee,
+
+(*b*) by affidavit, or
+
+(*c*) as otherwise allowed by those rules, including by means of a live video link, a video recording, a sound recording or any other mode of transmission.
+
+(4) A witness before the Fitness to Practise Committee is entitled to the same immunities and privileges as a witness before the Court.
+
+(5) A person is guilty of an offence if the person—
+
+(*a*) having been duly summoned to attend before the Fitness to Practise Committee fails without reasonable excuse to attend at the time and place indicated on the summons,
+
+(*b*) while attending as a witness before the Fitness to Practise Committee refuses to—
+
+(i) take an oath lawfully required by the Committee to be taken,
+
+(ii) produce any record in the person’s power or control that the person is lawfully required by the Committee to produce, or
+
+(iii) answer any question that the person is lawfully required by the Committee to answer,
+
+or
+
+(*c*) while attending before the Fitness to Practise Committee does anything that, if the Committee were a court of law having power to punish for contempt, would be contempt of court.
+
+(6) A person guilty of an offence under *subsection (5)* is liable on summary conviction to a class A fine.
+
+(7) Where a person fails to comply with a summons to attend before the Fitness to Practise Committee or refuses, while attending as a witness before the Fitness to Practise Committee, to do anything referred to in *subsection (5)(b)* that the person is lawfully required by the Committee to do, the Court, on application by the Board, may—
+
+(*a*) by order require the person to attend before the Committee or to do the thing that the person refused to do, as the case may be, and
+
+(*b*) make such interim or interlocutory orders as it considers necessary for that purpose.
+
+(8) Neither an application for an order under *subsection (7)* nor the making of such an order precludes proceedings being brought for an offence under *subsection (5)(a)* or *(b)* in relation to a person on whose failure or refusal the application or order was based.
+
+(9) Where the Fitness to Practise Committee requires the medical records of a patient of any registered nurse or registered midwife to be produced for the purposes of an inquiry conducted by the Committee, the records shall not be made available to the Committee unless—
+
+(*a*) the patient has consented in writing to the records being made so available, or
+
+(*b*) the Committee has directed in writing the nurse or midwife, or any other person who has power over or control of the records, to make the records so available.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E30: Power pursuant to subs. (3)(c) exercised (24.07.2014) by *Nursing and Midwifery Board of Ireland Rules Pursuant to the Provisions of Sections 64(3)(c) of the Nurses and Midwives Act 2011 Regarding the Receiving and Recording of Evidence by the Fitness to Practise Committee* (S.I. No. 358 of 2014).
+>
+> E31: A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 65. If registered nurse or registered midwife consents to censure or remedial action, etc.
+
+**65**.— (1) The Fitness to Practise Committee may, at any time after a complaint is referred to it, request F66[...] the registered nurse or registered midwife the subject of the complaint to do one or more than one of the following:
+
+(*a*) if appropriate, undertake to not repeat the conduct the subject of the complaint;
+
+(*b*) pursuant to *section 87(2)*, demonstrate her or his relevant competencies to the satisfaction of the Board;
+
+(*c*) take such steps as may be specified by the Board, which may include taking a course of education or training or gaining clinical practice experience for the express purpose of updating her or his skills and knowledge;
+
+(*d*) consent to undergo medical treatment;
+
+(*e*) consent to being censured by the Board.
+
+(2) Where a registered nurse or registered midwife gives an undertaking or consent the subject of a request under *subsection (1)* by the Fitness to Practise Committee, the inquiry into the complaint shall be considered to be completed.
+
+(3) Where a registered nurse or registered midwife refuses to give an undertaking or consent the subject of a request under *subsection (1)* by the Fitness to Practise Committee, the Committee may proceed as if the request had not been made.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 168, S.I. No. 409 of 2021.
+
+### 66. If complaint withdrawn during consideration by Fitness to Practise Committee.
+
+**66**.— Where a complaint is withdrawn while it is being considered by the Fitness to Practise Committee, the Committee may F67[...]—
+
+(*a*) decide that no further action is to be taken in relation to the matter the subject of the complaint, or
+
+(*b*) proceed as if the complaint had not been withdrawn.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 169, S.I. No. 409 of 2021.
+
+### 67. Report to Board by Fitness to Practise Committee.
+
+**67**.— (1) Subject to *subsection (2)*, the Fitness to Practise Committee shall, on completing an inquiry into a complaint, submit to the Board a report in writing on its findings.
+
+(2) The report referred to in *subsection (1)* of the Fitness to Practise Committee—
+
+(*a*) shall specify—
+
+(i) the nature of the complaint that resulted in the inquiry,
+
+(ii) the evidence presented to the Committee,
+
+(iii) the Committee’s findings as to whether any allegation is proved, whether on the grounds on which the complaint was made or on any other grounds mentioned in *section 55*, and
+
+(iv) if there is an undertaking or consent under *section 65(1)*, the measures included in the undertaking or consent,
+
+and
+
+(*b*) may include such other matters relating to the registered nurse or registered midwife the subject of the complaint as the Committee considers appropriate.
+
+### 68. Steps to be taken by Board.
+
+**68**.— The Board shall, on receiving the report referred to in *section 67(1)* of the Fitness to Practise Committee in relation to a complaint—
+
+(*a*) if there is an undertaking or consent under *section 65(1)*, impose the measures in accordance with *section 69(2)*, and
+
+(*b*) in any other case—
+
+(i) if the Committee finds that no allegation against the registered nurse or registered midwife the subject of the complaint is proved, dismiss the complaint,
+
+(ii) if the Committee finds that any allegation against the registered nurse or registered midwife is proved, decide under *section 69(1)* one or more than one sanction to be imposed on the nurse or midwife.
+
+## PART 9 Measures taken with regard to Registered Nurses and Registered Midwives following Reports of Fitness to Practise Committee — PART 9 — Measures taken with regard to Registered Nurses and Registered Midwives following Reports of Fitness to Practise Committee
+
+### 68A. F68[Measures to be taken by Board after receiving report referred to in section 57A(2)(c)
+
+**68A.** (1) *Subsection (2)* applies as soon as is practicable after the Board has received and considered the report referred to in *section 57A(2)(c)* of the Preliminary Proceedings Committee in relation to a complaint concerning a registered nurse or registered midwife.
+
+(2) The measures to be taken in respect of the registered nurse or registered midwife shall be those contained in the report.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 170, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E32: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 69. Duty of Board to decide on appropriate measures to be taken.
+
+**69**.— (1) Subject to *subsection (3)* and *section 70*, the Board shall, as soon as is practicable after receiving and considering the report referred to in *section 67(1)* of the Fitness to Practise Committee in relation to a complaint concerning a registered nurse or registered midwife, decide that one or more than one of the following sanctions be imposed on the nurse or midwife:
+
+(*a*) an advice or admonishment, or a censure, in writing;
+
+(*b*) a censure in writing and a fine not exceeding €2,000;
+
+(*c*) the attachment of conditions to the nurse’s or midwife’s registration, including restrictions on the practice of nursing or midwifery that may be engaged in by the nurse or midwife;
+
+(*d*) the transfer of the nurse’s or midwife’s registration to another division;
+
+(*e*) the suspension of the nurse’s or midwife’s registration for a specified period;
+
+(*f*) the cancellation of the nurse’s or midwife’s registration from the register of nurses and midwives or a division of that register;
+
+(*g*) a prohibition from applying for a specified period for the restoration of the nurse’s or midwife’s registration in the register of nurses and midwives or a division.
+
+(2) For the avoidance of doubt, if the report referred to in *section 67(1)* follows an undertaking or consent under *section 65(1)*, then the measures to be taken in respect of the nurse or midwife shall be those contained in the report.
+
+(3) Where the Board wishes to make a decision under *subsection (1)(f)* in a case to which *section 55(6)(a)* applies, the Board may do so notwithstanding that there is no report from the Fitness to Practise Committee under *section 67(1)*.
+
+### 70. Provisions supplementary to section 69.
+
+**70**.— (1) The Board shall, on deciding under *section 69* to impose a sanction referred to in *section 69(1)(b)*, *(c)*, *(d)*, *(e)* or *(g)* on a registered nurse or registered midwife, specify—
+
+(*a*) in the case of a sanction referred to in *section 69(1)(b)*, the amount of the fine imposed on the nurse or midwife,
+
+(*b*) in the case of a sanction referred to in *section 69(1)(c)*, the nature of the conditions to be attached to the nurse’s or midwife’s registration,
+
+(*c*) in the case of a sanction referred to in *section 69(1)(d)*, the division of the register of nurses and midwives to which the nurse’s or midwife’s registration is to be transferred,
+
+(*d*) in the case of a sanction referred to in *section 69(1)(e)*, the period of suspension of the nurse’s or midwife’s registration,
+
+(*e*) in the case of a sanction referred to in *section 69(1)(g)*, the period for which the nurse or midwife is prohibited from applying for the restoration of the nurse’s or midwife’s registration.
+
+(2) The Board shall not decide under *section 69* to impose the sanction referred to in *section 69(1)(f)* on a registered nurse or registered midwife on the grounds of a conviction for an offence referred to in *section 55(1)(i)* unless—
+
+(*a*) in the Board’s opinion, the nature of the offence or the circumstances in which it was committed render the nurse or midwife F69[a person who is not a fit and proper person to practise nursing or midwifery], as the case may be, or
+
+(*b*) a conviction for such offence would render a person unable to be registered under this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 171, S.I. No. 409 of 2021.
+
+### 71. Duty to notify registered nurse or midwife of Board’s sanction.
+
+**71**.— (1) Subject to *subsection (2)*, the Board shall, as soon as is practicable after deciding under *section 69* to impose a sanction on a registered nurse or registered midwife, give notice in writing to the nurse or midwife and, in any case where the Board is not the complainant, the complainant, of—
+
+(*a*) the nature of the sanction that the Board has decided to impose,
+
+(*b*) the date on which the decision was made, and
+
+(*c*) the reasons for the imposition of the sanction.
+
+F70[(2) Where the Board has decided to impose a sanction on a registered nurse or registered midwife (other than a sanction arising from measures referred to in *section 69(2)*), the Board shall give notice in writing to the nurse or midwife of the nurse’s or midwife’s entitlement, under *section 73*, to appeal to the Court against the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Substituted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 172, S.I. No. 409 of 2021.
+
+### 72. Confirmation by Court required before certain decisions become effective.
+
+**72**.— F71[(1)] A decision under *section 69* to impose a sanction (F72[not being a sanction referred to in *section 69(1)(a)* or arising from measures referred to in *section 69(2)*]) on a registered nurse or registered midwife shall not take effect unless the decision is confirmed by the Court on an appeal under *section 73* or an application under *section 74*.
+
+F72[(2) A decision under *section 69* to impose a sanction (being a sanction referred to in *section 69(1)(a)*) on a registered nurse or a registered midwife shall not take effect unless—
+
+(*a*) the decision is confirmed by the Court on an appeal under *section 73*, or
+
+(*b*) the 21 days referred to in *section 73(1)* within which the nurse or midwife may appeal to the Court against the decision expires without the nurse or midwife, as the case may be, making such appeal.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 173(a), S.I. No. 409 of 2021.
+>
+> F72: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 173(b), (c), S.I. No. 409 of 2021.
+
+### 73. Appeal to Court against Board’s decision under section 69.
+
+**73**.— (1) A registered nurse or registered midwife the subject of a decision under *section 69* to impose a sanction F73[(other than a sanction arising from measures referred to in *section 69(2)*)] may, not later than 21 days after the nurse or midwife received the notice under *section 71(1)* of the decision, appeal to the Court against the decision.
+
+(2) The Court may, on the hearing of an appeal under *subsection (1)* by a nurse or midwife, consider any evidence adduced or argument made, whether or not adduced or made to the Fitness to Practise Committee.
+
+(3) The Court may, on the hearing of an appeal under *subsection (1)* by a nurse or midwife—
+
+(*a*) either—
+
+(i) confirm the decision the subject of the application, or
+
+(ii) quash that decision and substitute such other decision as the Court considers appropriate, which may be a decision—
+
+(I) to impose a different sanction on the nurse or midwife, or
+
+(II) to impose no sanction on the nurse or midwife,
+
+and
+
+(*b*) give the Board such directions as the Court considers appropriate and direct how the costs of the appeal are to be borne.
+
+(4) The Board shall, on complying with a direction given by the Court under *subsection (3)*, give notice in writing to the nurse or midwife concerned of the Board’s compliance with the direction.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 174, S.I. No. 409 of 2021.
+
+### 74. Application to Court for confirmation of Board’s decision.
+
+**74**.— (1) Where a registered nurse or registered midwife does not, within the period allowed under *section 73(1)*, appeal to the Court against a decision under *section 69* to impose a sanction (other than a sanction referred to in *section 69(1)(a)* F74[or arising from measures referred to in *section 69(2)*]) on the nurse or midwife, the Board shall, as soon as is practicable after the expiration of that period, make an application to the Court for the confirmation of the decision.
+
+(2) An application under *subsection (1)* may be made on an *ex parte* basis.
+
+(3) The Court shall, on the hearing of an application under *subsection (1)*, confirm the decision under *section 69* the subject of the application unless the Court sees good reason not to do so F74[and direct how the costs of the application are to be borne].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 175(a), (b), S.I. No. 409 of 2021.
+
+### 75. Evidence relating to appeal under section 73(1) or application under section 74(1) to Court.
+
+**75**.— (1) The Court may, on the hearing of an appeal under *section 73(1)* or an application under *section 74(1)*, admit and have regard to the evidence of any person of good standing in the nursing or midwifery profession, as the case may be, as to what constitutes professional misconduct, poor professional performance or non-compliance with a code of professional conduct in relation to the practice of that profession.
+
+(2) The decision of the Court on an appeal under *section 73(1)* or an application under *section 74(1)* is final except that the Board or the nurse or midwife to whom the decision relates may, by leave of the Court or Supreme Court, appeal against the decision to the Supreme Court on a specified question of law.
+
+### 76. Duty to notify registered nurse or registered midwife of compliance with decisions confirmed or given by Court.
+
+**76**.— (1) The Board shall, on complying with a decision confirmed or given by the Court under *section 73* or *74* to attach conditions to the registration of a nurse or midwife, give notice in writing to the nurse or midwife of the conditions as soon as is practicable after complying with *section 46(8)* in respect of the conditions.
+
+(2) The Board shall, on complying with a decision confirmed or given by the Court under *section 73* or *74* to transfer a registered nurse’s or registered midwife’s registration to another division of the register of nurses and midwives—
+
+(*a*) transfer the nurse’s or midwife’s registration to the division concerned, and
+
+(*b*) give notice in writing to the nurse or midwife of the division to which the nurse’s or midwife’s registration has been transferred as soon as is practicable after effecting such transfer.
+
+(3) The Board shall, on complying with a decision confirmed or given by the Court under *section 73* or *74* to suspend for a specified period or to cancel the registration of a nurse or midwife, give notice in writing to the nurse or midwife of—
+
+(*a*) the suspension or cancellation, as the case may be, and
+
+(*b*) in the case of a suspension, the period, beginning not earlier than 7 days after the date of the Court’s decision, during which the registration is to be suspended.
+
+(4) For the avoidance of doubt, it is hereby declared that where the registration of a nurse or midwife is suspended in compliance with a decision confirmed or given by the Court under *section 73* or *74* to suspend that registration for a specified period—
+
+(*a*) subject to *paragraph (b)*, this Act shall apply to the nurse or midwife during that period as if the nurse or midwife were an unregistered nurse or unregistered midwife, except that the nurse or midwife concerned shall still be subject to the provisions of this Act relating to fitness to practise and sanctions during the period of suspension, and
+
+(*b*) *section 43* shall not apply to the nurse or midwife during that period to the extent only that the nurse or midwife uses a title referred to in that section which would not be a contravention of that section if the nurse’s or midwife’s registration were not suspended.
+
+### 77. Removal of registration for failure to pay fee.
+
+**77**.— (1) Subject to *subsection (2)*, where a registered nurse or registered midwife fails to pay an appropriate fee required to be paid by the nurse or midwife notwithstanding that a reminder notice to pay the fee has been sent to the nurse or midwife at the nurse’s or midwife’s registered address, the Board may, not earlier than 28 days after that reminder has been sent, remove the nurse’s or midwife’s registration.
+
+F75[(1A) The exercise of the Board’s power under *subsection (1)* in the case of a registered nurse or registered midwife shall be deemed to include the exercise of the Board’s power under section 39(1) of the Act of 1985 to erase, on the ground specified in paragraph (b) of such section 39(1) and whether before, on or after the commencement of section 176 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020, the name of a person referred to in such section 39(1) from the register referred to in such section 39(1), and the other provisions of this Act (including *section 78*) shall, with all necessary modifications, be construed accordingly.]
+
+(2) The Board shall not exercise its power under *subsection (1)* in the case of a registered nurse or registered midwife the subject of—
+
+(*a*) an application for an inquiry under Part V of the Act of 1985 which has not been considered or completed, or
+
+(*b*) a complaint which has not been disposed of or otherwise dealt with under *Part 7* and, if applicable, *Parts 8* and *9*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F75: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 176, S.I. No. 409 of 2021.
+
+### 78. Restoration, etc., of registration following payment of certain fees.
+
+**78**.— Where a nurse’s or midwife’s registration has been removed pursuant only to *section 77*, the chief executive officer shall restore that registration if—
+
+(*a*) not later than 6 months after the date on which the appropriate fee became due, the nurse or midwife makes an application to the Board for the restoration of the nurse’s or midwife’s registration, and
+
+(*b*) the nurse or midwife pays to the Board the appropriate fees.
+
+### 79. Restoration of registration which has been cancelled.
+
+**79**.— (1) The Board shall not restore a nurse’s or midwife’s registration which has been cancelled except in accordance with this section.
+
+(2) The Board may at any time decide to restore the registration of a nurse or midwife whose registration has been cancelled if—
+
+(*a*) the nurse or midwife has requested the Board to make the decision and has paid the appropriate fee required at the time of the request for restoration,
+
+(*b*) the nurse or midwife is not prohibited under this Part from applying for restoration of the registration,
+
+(*c*) the nurse or midwife has been given an opportunity to make an oral or written submission to the Board,
+
+(*d*) the Board has considered any submission made under *paragraph (c)* and the criteria specified in the rules for the restoration of registration pursuant to this section, and
+
+(*e*) after considering all relevant facts, the Board considers it appropriate to make the decision.
+
+(3) The Board may on deciding to restore a nurse’s or midwife’s registration, also decide to attach to the registration any conditions that the Board considers appropriate.
+
+(4) The Board shall, on deciding to restore a nurse’s or midwife’s registration or to attach conditions to the registration of a nurse or midwife whose registration has been so restored, give notice in writing to the nurse or midwife of the restoration and, if applicable, of the attachment of the conditions as soon as is practicable after—
+
+(*a*) restoring the registration, or
+
+(*b*) restoring the registration and complying with *section 46(8)* in respect of the conditions,
+
+as the case may be.
+
+(5) The Board shall, on deciding to refuse to restore a nurse’s or midwife’s registration, give notice in writing (accompanied by a copy of *section 81*), as soon as is practicable after making the decision, to the nurse or midwife of—
+
+(*a*) the decision,
+
+(*b*) the date on which the decision was made, and
+
+(*c*) the reasons for the decision.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E33: Power pursuant to subs. (2)(d) exercised (14.02.2014) by *Nursing and Midwifery Board of Ireland Rules Specifying Criteria to be Considered For Applications for Restoration to the Register* (S.I. No. 88 of 2014).
+
+### 80. Removal of conditions attached to registration.
+
+**80**.— (1) The Board may at any time decide to remove all or any conditions, to which this section applies pursuant to *subsection (4)*, attached to the registration of a registered nurse or registered midwife if—
+
+(*a*) the nurse or midwife has requested the Board to make the decision,
+
+(*b*) the nurse or midwife has been given an opportunity to make an oral or written submission to the Board,
+
+(*c*) the Board has considered any submission made under *paragraph (b)* and any other relevant information that has come to its attention, and
+
+(*d*) after considering all relevant facts, the Board considers it appropriate to make the decision.
+
+(2) The Board shall, on deciding to remove any or all conditions referred to in *subsection (1)* attached to the registration of a registered nurse or registered midwife, give notice in writing to the nurse or midwife of its or their removal.
+
+(3) The Board shall, on deciding to refuse to remove any condition referred to in *subsection (1)* attached to the registration of a nurse or midwife, give notice in writing (accompanied by a copy of *section 81*), as soon as is practicable after making the decision, to the nurse or midwife of—
+
+(*a*) the decision,
+
+(*b*) the date on which the decision was made, and
+
+(*c*) the reasons for the decision.
+
+(4) This section applies to any conditions attached to the registration of a nurse or midwife pursuant to—
+
+(*a*) a decision referred to in *section 76(1)*, or
+
+(*b*) *section 79(3)*.
+
+### 81. Appeal to Court against Board’s decision under section 79 or 80.
+
+**81**.— (1) A nurse or midwife the subject of a decision made by the Board—
+
+(*a*) under *section 79* to refuse to restore the nurse’s or midwife’s registration or to attach conditions to the nurse’s or midwife’s registration, or
+
+(*b*) under *section 80* to refuse to remove a condition to which that section applies attached to the person’s registration,
+
+may, not later than 21 days after the nurse or midwife received notice of the decision under *section 79(5)* or *80(3)*, as the case may be, appeal to the Court against the decision.
+
+(2) The Court may, on the hearing of an appeal under *subsection (1)* by a nurse or midwife, consider any evidence adduced or argument made, whether or not adduced or made to the Board.
+
+(3) The Court may, on the hearing of an appeal under *subsection (1)* by a nurse or midwife—
+
+(*a*) either—
+
+(i) confirm the decision the subject of the appeal, or
+
+(ii) quash that decision and substitute such other decision as the Court considers appropriate, which may be a decision—
+
+(I) to restore the registration of the nurse or midwife in such division of the register of nurses and midwives as the Court considers appropriate and—
+
+(A) with no conditions attached to the registration, or
+
+(B) with such conditions attached to the registration as the Court considers appropriate,
+
+or
+
+(II) to remove the conditions attached to the nurse’s or midwife’s registration or replace conditions attached to the registration of the nurse or midwife with such other conditions as the Court considers appropriate,
+
+and
+
+(*b*) give the Board such directions as the Court considers appropriate and direct how the costs of the appeal are to be borne.
+
+(4) The Board shall, on complying with any direction given by the Court under *subsection (3)*, give notice in writing to the nurse or midwife concerned of the Board’s compliance with the direction.
+
+### 82. Notification to Minister, Health Service Executive and employer of certain matters relating to sanctions.
+
+**82**.— (1) The Board shall give notice in writing to F76[the Health Service Executive and such other persons as it thinks fit] as soon as is practicable after any of the following measures take effect under this Part:
+
+(*a*) the cancellation of a nurse’s or midwife’s registration;
+
+(*b*) the restoration of a nurse’s or midwife’s registration;
+
+(*c*) the removal of a nurse’s or midwife’s registration;
+
+(*d*) the suspension of a nurse’s or midwife’s registration;
+
+(*e*) the termination of the period during which a nurse’s or midwife’s registration is suspended;
+
+(*f*) the transfer of a nurse’s or midwife’s registration to another division of the register of nurses and midwives;
+
+(*g*) the attachment of conditions to a nurse’s or midwife’s registration;
+
+(*h*) the removal of conditions attached under this Part to a nurse’s or midwife’s registration;
+
+(*i*) the prohibiting of a nurse or midwife from applying for a specified period for the restoration of the nurse’s or midwife’s registration;
+
+(*j*) the censuring and fining of a registered nurse or registered midwife;
+
+F76[(*k*) the censuring of a registered nurse or registered midwife;
+
+(*l*) the advisement or admonishment of a registered nurse or registered midwife.]
+
+(2) Where it comes to the Board’s attention that, under the law of a state other than the State, a measure corresponding to one referred to in any of F77[*paragraphs (a)* to *(l)*] of *subsection (1)* has been taken in relation to a registered nurse or registered midwife, the Board shall, F77[if satisfied that it is in the public interest to do so and] as soon as is practicable, give notice in writing to F77[...] the Health Service Executive of the measure.
+
+(3) The Board shall F78[(if satisfied that, in the case of a measure referred to in *subsection (2)*, it is in the public interest to do so)] give notice in writing to an employer (other than the Health Service Executive) where—
+
+(*a*) it comes to the Board’s attention that any measure referred to in *subsection (1)* or *(2)* has been taken in relation to a registered nurse or registered midwife employed by the employer, and
+
+(*b*) the employer’s name is known to the Board.
+
+F79[(4) (*a*) *Paragraph (b)* applies where—
+
+(i) it comes to the Board’s attention that any measure referred to in *subsection (1)* has been taken in relation to a registered nurse or registered midwife, and
+
+(ii) the Board has reason to believe that—
+
+(I) the nurse or midwife is registered in another jurisdiction, and
+
+(II) that measure may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Board.
+
+(*b*) The Board shall give notice in writing to that body of that measure and may, notwithstanding any provision of *Directive 2005/36/EC* or of the Regulations of 2017, provide that body with copies of documents relevant to that measure (including a copy of the report concerned referred to in *section 67(1)*).
+
+(5) (*a*) *Paragraph (b)* applies where—
+
+(i) it comes to the Board’s attention that any measure referred to in *subsection (2)* has been taken in relation to a registered nurse or registered midwife, and
+
+(ii) the Board has reason to believe that—
+
+(I) the nurse or midwife is registered in another jurisdiction, and
+
+(II) that measure may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Board.
+
+(*b*) The Board shall, if satisfied that it is in the public interest to do so, give notice in writing to that body of that measure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 177(a)(i), (ii), S.I. No. 409 of 2021.
+>
+> F77: Substituted, inserted and deleted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 177(b)(i)-(iii), S.I. No. 409 of 2021.
+>
+> F78: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 177(c), S.I. No. 409 of 2021.
+>
+> F79: Substituted and inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 177(d), S.I. No. 409 of 2021.
+
+### 83. Information Board may publish in public interest.
+
+**83**.— F80[(1)] The Board shall, F81[(if satisfied that, in the case of a measure referred to in *section 82(1)(k)* or *(l)* or *paragraph (a)(ii)*, it is in the public interest to do so)]—
+
+(*a*) advise the public when—
+
+(i) any measure referred to in *section 82(1)* takes effect under this Part in respect of a nurse or midwife, or
+
+(ii) any measure referred to in *section 82(2)* in respect of a nurse or midwife comes to the knowledge of the Board,
+
+and
+
+F81[(*b*) if satisfied that it is in the public interest to do so, publish a transcript of all or any part of the proceedings of the Fitness to Practise Committee at an inquiry or publish all or any part of a report referred to in *section 67(1)* of the Fitness to Practise Committee (and, in either case, whether with or without any information which would enable all, or any one or more than one, of the parties to the proceedings concerned to be identified).]
+
+F82[(2) The Board shall not publish anything under this section which is inconsistent with a decision (if any) of the Court arising from the performance of a function under *section 73* or *74*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 178(a), S.I. No. 409 of 2021.
+>
+> F81: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 178(b)(i), (ii), S.I. No. 409 of 2021.
+>
+> F82: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 178(c), S.I. No. 409 of 2021.
+
+## PART 10 Education and Training — PART 10 — Education and Training
+
+### 84. Duties of Health Service Executive in relation to education and training of nurses and midwives.
+
+**84**.— (1) The Health Service Executive, in accordance with section 7(4)(*b*) of the Health Act 2004, shall, as far as practicable, facilitate the education and training of candidates.
+
+(2) The Health Service Executive shall, with respect to specialist nursing and midwifery education and training, have the following responsibilities:
+
+(*a*) to promote the development of specialist nursing and midwifery education and training and to co-ordinate such development in co-operation with the Board, and the nursing and midwifery training bodies approved by the Board;
+
+(*b*) in co-operation with the nursing and midwifery training bodies and after consultation with An tÚdarás, to undertake appropriate nursing and midwifery workforce planning for the purpose of meeting specialist nursing and midwifery staffing and training needs of the public health service on an ongoing basis; and
+
+(*c*) to advise the Minister, after consultation with the nursing and midwifery training bodies and with An tÚdarás and such other bodies as the Health Service Executive may consider appropriate, on nursing and midwifery education and training and on all other matters, including financial matters, relating to the development and co-ordination of specialist nursing and midwifery education and training.
+
+(3) The Minister may, by notice in writing given to the Health Service Executive, require the Executive to provide such information in relation to the performance of the Executive’s functions under this Act as is specified in the notice and within the period specified in the notice (being a period reasonable in the circumstances).
+
+(4) The Health Service Executive shall comply with a notice given to it under *subsection (3)* except to the extent that it is prohibited from doing so by another provision of this Act.
+
+(5) Specialist nursing and midwifery education and training shall, for the purposes of sections 38 and 39 of the Health Act 2004, be deemed to be a health and personal social service within the meaning of section 2 of that Act.
+
+(6) The Health Service Executive shall carry out such functions, other than functions assigned to it by this Act, as may be assigned to it from time to time by the Minister following consultation with it in relation to nursing and midwifery education and training.
+
+### 85. Duties of Board in relation to education and training of nurses and midwives.
+
+**85**.— (1) The Board shall—
+
+(*a*) set and publish in the prescribed manner the standards of nursing and midwifery education and training for first time registration and post-registration specialist nursing and midwifery qualifications, and
+
+(*b*) monitor adherence to the standards referred to in *paragraph (a)*.
+
+(2) The Board shall, in relation to programmes of pre first time registration, post-registration leading to registration or annotation and specialist nursing and midwifery education and training—
+
+(*a*) after it has consulted with the Minister for Education and Skills, and in accordance with the relevant criteria specified in the rules—
+
+(i) F83[where appropriate,] approve, approve subject to conditions attached to the approval of, amend or remove conditions attached to the approval of, or withdraw the approval for, such programmes, and bodies which may deliver such programmes, or
+
+(ii) refuse to approve a body as a body which may deliver such programmes,
+
+(*b*) prepare guidelines on curriculum issues and content to be included in programmes approved under *paragraph (a)*,
+
+(*c*) set and publish in the prescribed manner standards required for registration in any division, annotation and specialist nursing and midwifery qualifications pursuant to programmes approved under *paragraph (a)*,
+
+(*d*) monitor adherence to the criteria referred to in *paragraph (a)*, the guidelines referred to in *paragraph (b)* and the standards referred to in *paragraph (c)*,
+
+(*e*) inspect bodies approved under *paragraph (a)* in order to ensure ongoing compliance with the criteria referred to in that paragraph, the guidelines referred to in *paragraph (b)* and the standards referred to in *paragraph (c)*,
+
+(*f*) inspect, at least every 5 years, places in the State where training is provided to persons undertaking training for a nursing or midwifery qualification, for the purposes of monitoring adherence to nursing and midwifery education and training standards,
+
+(*g*) following inspections under *paragraph (f)*, issue recommendations to the management of any place referred to in that paragraph on any improvements in nursing or midwifery education and training standards which may be required or any other issues arising from such inspections,
+
+(*h*) publish in the prescribed manner details of all inspections carried out under this subsection,
+
+(*i*) prepare and publish in the prescribed manner guidelines for bodies approved under *paragraph (a)* on ethical standards and behaviour appropriate for nurses, midwives and candidates, and
+
+(*j*) advise the Minister and the Minister for Education and Skills on any issues relating to its functions under this subsection.
+
+(3) Where the Board proposes to withdraw the approval of a body under *subsection (2)(a)(i)*, the Board shall give notice of its intention to do so to the body concerned and shall afford to it an opportunity to make representations to the Board. The Board shall take into account any such representations before making its decision.
+
+(4) Where the Board makes a decision under *subsection (2)(a)*, it shall give notice in writing (accompanied by a copy of *section 86*), as soon as is practicable after making the decision, to the body the subject of the decision of—
+
+(*a*) the decision,
+
+(*b*) the date on which the decision was made, and
+
+(*c*) the reasons for the decision.
+
+(5) Notwithstanding the repeal of section 34 of the Act of 1985 by *section 4*, a body which was, immediately before that repeal, approved for the delivery of a programme of nursing or midwifery education and training shall be deemed to be a body approved for the purposes of this Act unless the Board determines otherwise.
+
+(6) The Board may recognise a degree, diploma or other qualification awarded in a third country to be at least the equivalent of a qualification awarded following the satisfactory completion of a programme of pre first time registration nursing or midwifery education and training.
+
+(7) The Board shall prepare and publish in the prescribed manner guidelines on ethical considerations to be taken into account in respect of the acceptance or otherwise of any non-Exchequer funding offered or provided in relation to nursing or midwifery education and training for pre first time registration, post-registration leading to registration or annotation and specialist nursing or midwifery qualifications.
+
+(8) The Board shall, in consultation with the Health Service Executive and such other appropriate bodies as the Board thinks fit, make available career information on nursing and midwifery, including information on education and training.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F83: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 179, S.I. No. 409 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions under subs. (2)(a), (j) transferred and references to “Minister for Education” construed (1.06.2023) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 291 of 2023), arts. 3(1)(a), (2), and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 3\. (1) The functions vested in the Minister for Education –
+>
+> (*a*) by or under the provisions of an Act specified in column (1) of the Schedule, to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified, and
+>
+> ...
+>
+> are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> ...
+>
+> Schedule
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Nurses and Midwives Act 2011 (No. 41 of 2011)</td><td>Paragraphs (a) and (e) of section 22(1); paragraphs (a) and (j) of section 85(2).</td></tr><tr><td>...</td><td>...</td></tr></table>
+
+### 86. Appeal to Court against Board’s decision under section 85(2)(a).
+
+**86**.— (1) A body the subject of a decision made by the Board under *section 85(2)(a)* may, not later than 21 days after the body received notice of the decision under *section 85(4)*, appeal to the Court against the decision.
+
+(2) The Court may, on the hearing of an appeal under *subsection (1)* by a body, consider any evidence adduced or argument made, whether or not adduced or made to the Board.
+
+(3) The Court may, on the hearing of an appeal under *subsection (1)* by a body—
+
+(*a*) either—
+
+(i) confirm the decision the subject of the appeal, or
+
+(ii) quash that decision and substitute such other decision as the Court considers appropriate,
+
+and
+
+(*b*) give the Board such direction as the Court considers appropriate and direct how the costs of the appeal are to be borne.
+
+(4) The Board shall, on complying with any direction given by the Court under *subsection (3)*, give notice in writing to the body concerned of the Board’s compliance with the direction.
+
+## PART 11 Maintenance of Professional Competence — PART 11 — Maintenance of Professional Competence
+
+### 87. Duty of registered nurses and registered midwives to maintain professional competence.
+
+**87**.— (1) A registered nurse and a registered midwife shall maintain professional competence on an ongoing basis.
+
+(2) A registered nurse or registered midwife shall, whenever required by the Board to do so, demonstrate competence to the satisfaction of the Board in accordance with any requirement of the Board under *section 88(1)*.
+
+(3) A registered nurse and a registered midwife shall co-operate with any requirements imposed on the nurse or midwife by the rules.
+
+(4) The Board may, by notice in writing given to a registered nurse or registered midwife who has given an undertaking pursuant to F84[*section 57A(1)* or *65(1)*], require the nurse or midwife to co-operate with such an undertaking to the satisfaction of the Board.
+
+(5) A nurse or midwife shall comply with a notice under *subsection (4)* given to him or her.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 180, S.I. No. 409 of 2021.
+
+### 88. Duty of registered nurses and registered midwives to demonstrate professional competence to satisfaction of Board.
+
+**88**.— (1) The Board may require a registered nurse or registered midwife to demonstrate competence to the satisfaction of the Board in accordance with a professional competence scheme applicable to that nurse or midwife or otherwise.
+
+(2) The Board may require a registered nurse or registered midwife who fails to demonstrate competence to the satisfaction of the Board to attend a course or courses of further education or training or to do anything which, in the opinion of the Board, is necessary to satisfy the Board as to the competence of that nurse or midwife.
+
+(3) Where the Board considers that a registered nurse or registered midwife—
+
+(*a*) who, being required under *section 87(3)* to co-operate with any requirements imposed on that nurse or midwife by the rules, has refused to so co-operate, has failed to so co-operate or has ceased to so co-operate,
+
+(*b*) has contravened *section 87(5)*,
+
+(*c*) may pose an immediate risk of harm to the public, or
+
+(*d*) may have committed a serious breach of its guidance on ethical standards and behaviour,
+
+then the Board shall forthwith make a complaint to the Preliminary Proceedings Committee.
+
+### 89. Duty of Board in relation to maintenance of professional competence of registered nurses and registered midwives.
+
+**89**.— (1) The Board shall, not later than the first anniversary of the commencement of this section, or such longer period as the Minister permits in writing at the request of the Board, develop, establish and operate one or more than one scheme for the purposes of monitoring the maintenance of professional competence by registered nurses and registered midwives.
+
+(2) A scheme under this section shall not be established or operated until a proposal for it has been approved by the Minister and the Minister for Public Expenditure and Reform.
+
+(3) The Board, in respect of a professional competence scheme—
+
+(*a*) shall review the operation of the scheme periodically, and
+
+(*b*) may, following such a review, make recommendations to the Minister as to the steps that, in the opinion of the Board, may need to be taken to improve the operation of the scheme.
+
+### 90. Duty of employers in relation to maintenance of professional competence of registered nurses and registered midwives.
+
+**90**.— (1) An employer of a registered nurse or registered midwife shall facilitate the maintenance by that nurse or midwife of his or her professional competence pursuant to a professional competence scheme applicable to the nurse or midwife concerned.
+
+(2) Without prejudice to the generality of *subsection (1)*, the employer may facilitate the maintenance of professional competence by a registered nurse or registered midwife it employs by providing learning opportunities for that nurse or midwife in the workplace.
+
+### 91. Confidentiality.
+
+**91**.— (1) Subject to *subsections (2)* and *(4)*, and to any agreement made under *section 15*, a person who acquires any information by virtue of the person’s performance or assistance in the performance of functions under this Act relating to any professional competence scheme shall preserve confidentiality with regard to the information and, without prejudice to the foregoing, shall not—
+
+(*a*) disclose the information to another person except where the disclosure is necessary for such performance or assistance, or
+
+(*b*) cause or permit any other person to have access to the information except where the access is necessary for that other person to perform or assist in the performance of functions under this Act (including the functions of the Preliminary Proceedings Committee and the Fitness to Practise Committee).
+
+(2) Notwithstanding *subsection (1)*, the Board may disclose information—
+
+(*a*) in the form of a summary compiled from information provided in relation to registered nurses and registered midwives participating in a professional competence scheme if the summary is so compiled as to prevent particulars relating to the identity of any such nurse or midwife being ascertained from it,
+
+(*b*) with a view to the institution of, or otherwise for the purposes of, any criminal proceedings or any investigation in the State, or
+
+(*c*) in connection with any civil proceedings to which the Board is a party.
+
+(3) F85[...]
+
+(4) Nothing in this section shall be construed as prohibiting a disclosure of information pursuant to a court order.
+
+(5) A person who contravenes *subsection (1)* shall be guilty of an offence and liable on summary conviction to a class A fine or a term of imprisonment not exceeding 6 months or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+>
+> **Editorial Notes:**
+>
+> E34: A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## PART 12 Dissolution of National Council for the Professional Development of Nursing and Midwifery — PART 12 — Dissolution of National Council for the Professional Development of Nursing and Midwifery
+
+### 92. Interpretation of Part 12.
+
+**92**.— In this Part, “Council” means the National Council for the Professional Development of Nursing and Midwifery established under the National Council for the Professional Development of Nursing and Midwifery (Establishment) Order 1999 (S.I. No. 376 of 1999).
+
+### 93. Dissolution of Council.
+
+**93**.— The Council is dissolved.
+
+### 94. Transfer of rights and liabilities.
+
+**94**.— (1) All rights and liabilities of the Council arising by virtue of any contract or commitment (expressed or implied) entered into by the Council before the commencement of this section shall, on that commencement, stand transferred to the Board.
+
+(2) Every right and liability transferred by *subsection (1)* may, on or after that transfer, be sued on, recovered or enforced by or against the Board in its name.
+
+(3) It shall not be necessary for the Board to give notice to any person whose right or liability is transferred by *subsection (1)* of that transfer.
+
+### 95. Transfer of property.
+
+**95**.— (1) All land that, immediately before the commencement of this section, was vested in the Council and all rights, powers and privileges relating to or connected with that land shall, on that commencement and without any conveyance or assignment, stand transferred to and vested in the Board.
+
+(2) All property other than land (including choses-in-action) that, immediately before the commencement of this section, is the property of the Council shall, on that commencement, stand transferred to the Board without any assignment.
+
+(3) Every chose-in-action transferred by *subsection (2)* may, on or after that transfer, be sued on, recovered or enforced by the Board in its name.
+
+(4) It shall not be necessary for the Board to give notice to any person bound by a chose-in-action transferred by *subsection (2)* of that transfer.
+
+(5) Any moneys, stocks, shares and securities transferred by *subsection (2)* that, immediately before the commencement of this section, were in the name of the Council shall, upon the request of the Board, be transferred into the name of the Board.
+
+### 96. Final accounts.
+
+**96**.— (1) As soon as may be after the commencement of this section, but not later than one year after that commencement, the Board shall cause final accounts of the Council to be prepared, in respect of the accounting year, or the part of an accounting year, of the Council ending immediately before that commencement.
+
+(2) Accounts prepared under this section shall be submitted, as soon as may be, by the Board to the Comptroller and Auditor General for audit.
+
+(3) Immediately after the audit, a copy of the accounts as audited, and a copy of the Comptroller and Auditor General’s report on the accounts, shall be presented to the Minister.
+
+(4) The Minister shall cause copies of those audited accounts and that report to be laid before each House of the Oireachtas.
+
+### 97. Final report.
+
+**97**.— As soon as may be after the commencement of this section, but not later than one year after that commencement, the Board shall cause a final report to the Minister of the Council’s activities to be prepared.
+
+### 98. Pending legal proceedings.
+
+**98**.— (1) The name of the Board shall be substituted for the name of the Council in any legal proceedings to which the Council is a party that are pending immediately before the commencement of this section.
+
+(2) The proceedings shall not abate by reason of that substitution.
+
+### 99. Preservation of contracts and adaptation of references to Council.
+
+**99**.— Every contract or agreement made between the Council, or any trustee or agent of the Council acting on its behalf, and any other person, that was in force immediately before the commencement of this section—
+
+(*a*) shall continue in force,
+
+(*b*) shall be construed and have effect as if the name of the Board were substituted in the contract or agreement, for that of the Council or, as the case may be, for that of its trustee or agent acting on its behalf, and
+
+(*c*) shall be enforceable against the Board.
+
+### 100. Transfer of staff.
+
+**100**.— (1) A person who, immediately before the commencement of this section, was an officer or employee of the Council shall, on that commencement, be transferred to and become an employee of the Board.
+
+(2) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person transferred by *subsection (1)* shall not, on that transfer, be brought to less beneficial conditions of service or remuneration than the conditions of service or remuneration to which the person was subject immediately before the commencement of this section.
+
+(3) The previous service of a person transferred by *subsection (1)* shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the following Acts:
+
+(*a*) the Redundancy Payments Acts 1967 to 2007;
+
+(*b*) the Protection of Employees (Part-Time Work) Act 2001;
+
+(*c*) the Protection of Employees (Fixed-Term Work) Act 2003;
+
+(*d*) the Organisation of Working Time Act 1997;
+
+(*e*) the Terms of Employment (Information) Acts 1994 and 2001;
+
+(*f*) the Minimum Notice and Terms of Employment Acts 1973 to 2005;
+
+(*g*) the Unfair Dismissals Acts 1977 to 2007;
+
+(*h*) the Maternity Protection Acts 1994 and 2004;
+
+(*i*) the Parental Leave Acts 1998 and 2006;
+
+(*j*) the Adoptive Leave Acts 1995 and 2005;
+
+(*k*) the Carer’s Leave Act 2001.
+
+(4) Any superannuation benefits awarded to or in respect of a person transferred by *subsection (1)* and the terms relating to those benefits shall be no less favourable than those applicable to or in respect of that person immediately before the commencement of this section.
+
+(5) The pension payments and other superannuation liabilities of the Council in respect of its former officers or employees shall become, on the commencement of this section, the liabilities of the Board.
+
+(6) In this section—
+
+“conditions of service”, includes conditions relating to tenure;
+
+“previous service”, in relation to a person transferred by *subsection (1)*, means service of the person, before the commencement of this section, with the Council;
+
+“recognised trade union or staff association” means a trade union or staff association recognised by the Board for the purposes of negotiations that are concerned with the remuneration or conditions of employment, or the working conditions of employees.
+
+### 101. Transfer of records.
+
+**101**.— (1) Each record held by the Council immediately before the commencement of this section—
+
+(*a*) shall, on that commencement, stand transferred to the Board, and
+
+(*b*) shall, on and from that commencement, be deemed to be held by the Board.
+
+(2) Any right of access, under the Freedom of Information Acts 1997 and 2003, to records that before that commencement day were held by the Council and that are transferred under *subsection (1)* is not affected by the transfer of those records.
+
+(3) For the purposes of section 18 of the Freedom of Information Act 1997, any act done by the Council before the commencement of this section is deemed to have been done by the Board.
+
+## PART 13 Miscellaneous — PART 13 — Miscellaneous
+
+### 102. Privilege.
+
+**102**.— (1) In any action for defamation, the following proceedings, reports and communications are absolutely privileged:
+
+(*a*) proceedings of a Preliminary Proceedings Committee or of the Fitness to Practise Committee;
+
+(*b*) communications by the Fitness to Practise Committee;
+
+(*c*) reports of the Fitness to Practise Committee;
+
+(*d*) communications by the Board of the steps taken under *section 68*; and
+
+(*e*) any other communication made by—
+
+(i) a committee pursuant to any of *Parts 7*, *8* and *9* in performing a function of the committee, or
+
+(ii) the Board pursuant to any of *Parts 7*, *8* and *9* in performing a function of the Board.
+
+F86[(1A) In any action for defamation, the proceedings, reports and communications of the chief executive officer under any of *Parts 7*, *8* and *9* are absolutely privileged.]
+
+(2) Subject to *subsection (4)*, a document which relates to a nurse’s or midwife’s participation in a professional competence scheme, to the extent that it does so relate, shall not be admitted in evidence (whether by discovery or otherwise) in any civil proceedings except with the consent of the nurse or midwife concerned (in this section referred to as the “relevant consent”).
+
+(3) No witness in any civil proceedings shall be obliged or permitted to disclose, in the absence of the relevant consent—
+
+(*a*) subject to *subsection (4)*, the contents of a document which relates to a nurse’s or midwife’s participation in a professional competence scheme to the extent that it does so relate, or
+
+(*b*) subject to *subsection (5)*, any deliberation, in relation to a nurse’s or midwife’s participation in a professional competence scheme, of a person.
+
+(4) Neither *subsection (1)* nor *subsection (3)(a)* shall apply in the case of a document the subject of an allegation that it has not been made in good faith.
+
+(5) *Subsection (3)(b)* shall not apply in the case of a deliberation the subject of an allegation that it has not been made in good faith.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F86: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 181, S.I. No. 409 of 2021.
+
+### 103. Investigation.
+
+**103**.— (1) F87[The chief executive officer shall, at the request of the Minister, or may, of his or her] own initiative or upon a complaint made by a member of the public, investigate any case of an individual—
+
+(*a*) who, not being a registered nurse or registered midwife, is suspected of practising or having practised nursing or midwifery in contravention of a provision of this Act, or
+
+(*b*) who, not being a registered nurse or registered midwife, is suspected of claiming or having claimed to be a registered nurse or registered midwife in contravention of a provision of this Act.
+
+(2) Where the F87[chief executive officer has carried out an investigation under *subsection (1)*, the chief executive officer shall, if he or she] has reasonable grounds to believe that the individual the subject of the investigation—
+
+(*a*) is not a registered nurse or registered midwife, and
+
+(*b*) either—
+
+(i) is practising or has practised nursing or midwifery in contravention of a provision of this Act, or
+
+(ii) is claiming or has claimed to be a registered nurse or registered midwife,
+
+report the matter forthwith to the Garda Síochána and the Minister and may seek an injunction in the Court requiring the person to cease the activities F87[the chief executive officer reasonably] believes to be in contravention of this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F87: Substituted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 182(a), (b), S.I. No. 409 of 2021.
+
+### 103A. F88[Admissibility of certain documents relating to proceedings in other jurisdictions.
+
+**103A.** (1) In any proceedings under this Act concerning a nurse or midwife, a document that purports to be a relevant document shall be admissible as evidence of any fact stated therein of which evidence would be admissible in those proceedings.
+
+(2) In any proceedings under this Act concerning a nurse or midwife, a document purporting to be a certification by a court, tribunal or other authority of a document purporting to be a relevant document (and whether or not the certification is incorporated into the document) and to be signed by or on behalf of that court, tribunal or other authority shall be deemed, for the purpose of this section, to be such a certificate and to be so signed, unless the contrary is proved.
+
+(3) Where a document is admissible in evidence under this section, any document which purports to be a translation of that document shall be admissible as evidence of the translation if it is certified as correct by a person competent to do so and a document purporting to be a certificate under this subsection shall be deemed to be such a certificate, and to be signed by the person purporting to have signed it, unless the contrary is proved.
+
+(4) In this section—
+
+"final determination", in relation to any relevant proceedings and a nurse or midwife, means—
+
+(*a*) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the nurse or midwife, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
+
+(*b*) if such an appeal is made—
+
+(i) the abandonment or withdrawal of the appeal, or
+
+(ii) the determination of the appeal,
+
+whichever first occurs;
+
+"relevant document", in relation to a nurse or midwife, means any of the following:
+
+(*a*) a copy of a transcript of all or any part of relevant proceedings that has been certified, by or on behalf of the court, tribunal or other authority before which the proceedings were held, to be a true and accurate copy of that transcript;
+
+(*b*) a copy of all or any part of a report arising out of such proceedings certified, by or on behalf of the court, tribunal or other authority which made the report, to be a true and accurate copy of that report;
+
+(*c*) if, after the final determination of such proceedings, sanctions are, or continue to be, imposed on the nurse or midwife in consequence of such proceedings, a statement in writing giving particulars of such sanctions so imposed certified, by or on behalf of the court, tribunal or other authority which imposed the sanctions, to be true and accurate particulars of the sanctions that are, or continue to be, imposed on the nurse or midwife after the final determination of the proceedings;
+
+(*d*) if, after the final determination of such proceedings, no sanctions are, or continue to be, imposed on the nurse or midwife in consequence of such proceedings, a statement in writing to that effect certified by or on behalf of the court, tribunal or other authority before which the proceedings were held;
+
+"relevant proceedings", in relation to a nurse or midwife, means any disciplinary or judicial proceedings (other than proceedings under this Act), in respect of which the nurse or midwife is the subject—
+
+(*a*) in the State or another jurisdiction which may directly or indirectly result in the nurse or midwife—
+
+(i) being prohibited from providing one or more than one kind of health or social care in the State or that jurisdiction, or
+
+(ii) having a restriction placed on his or her ability to provide one or more than one kind of health or social care in the State or that jurisdiction,
+
+(*b*) in another jurisdiction which may result in the nurse or midwife being convicted, in that jurisdiction, for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, or
+
+(*c*) in the State which may result in the nurse or midwife being convicted, in the State, for an offence triable on indictment;
+
+"sanction" includes any restriction or measure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F88: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 183, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E35: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 104. Prosecution of offences.
+
+**104**.— (1) Summary proceedings for an offence under this Act may be prosecuted by the Board.
+
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act may be instituted at any time within 2 years from the date of the alleged commission of the offence.
+
+### 105. Power to specify forms.
+
+**105**.— (1) The relevant body may specify the form of documents required for the purposes of this Act as the relevant body thinks fit.
+
+(2) The relevant body’s power under *subsection (1)* may be exercised in such a way as to—
+
+(*a*) include in the specified form of any document referred to in that subsection a statutory declaration—
+
+(i) to be made by the person completing the form, and
+
+(ii) as to whether the particulars contained in the form are true and correct to the best of that person’s knowledge and belief,
+
+and
+
+(*b*) specify 2 or more forms of any document referred to in that subsection, whether as alternatives, or to provide for particular circumstances or particular cases, as the relevant body thinks fit.
+
+F89[(2A) The relevant body’s power under *subsection (1)* may be exercised in such a way as to include in the specified form of any document a statement requiring the person completing the form to verify any particulars contained in the form, or contained in any document accompanying the form, in such manner as is specified in the form.]
+
+(3) A form specified under this section shall be—
+
+(*a*) completed in accordance with such directions and instructions as are specified in the form,
+
+(*b*) accompanied by such documents as are specified in the form, and
+
+(*c*) if the completed form is required to be provided to—
+
+(i) the relevant body,
+
+(ii) another person on behalf of the relevant body, or
+
+(iii) any other person,
+
+so provided in the manner, if any, specified in the form.
+
+(4) Without prejudice to the generality of *subsection (1)*, the Board may—
+
+(*a*) specify a form to be completed by a registered nurse or registered midwife, or a person who wishes to practise nursing or midwifery, in connection with the payment by the nurse or midwife of any fee determined under *section 38(1)*,
+
+(*b*) in that form, require the registered nurse or registered midwife to supply the Board with such information that the nurse or midwife would have to supply the Board if he or she were not registered but were seeking registration (including information about any relevant medical disability F89[or material matter]).
+
+(5) In this section, “relevant body” means—
+
+(*a*) subject to *paragraph (b)*, the Board, and
+
+(*b*) in relation to a function under this Act performed by a committee of the Board, that committee.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F89: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 184(a), (b), S.I. No. 409 of 2021.
+
+### 106. Construction of references.
+
+**106**.— (1) Every reference to a midwife contained in any enactment, any statutory instrument or any other document shall be construed as a reference to a registered midwife.
+
+(2) Every reference to a nurse contained in any enactment, any statutory instrument or any other document shall, unless the context otherwise requires, be construed as a reference to a registered nurse.
+
+(3) Every reference to An Bord Altranais or Bord Altranais agus Cnáimhseachais na hÉireann contained in any enactment, any statutory instrument or any other document shall be construed as a reference to the Board.
+
+(4) Every reference to the register of nurses contained in any enactment, any statutory instrument or any other document shall be construed as a reference to the register of nurses and midwives.
+
+### 106A. F90[Notifications under Act.
+
+**106A.** (1) Where the Board, the Preliminary Proceedings Committee, the Fitness to Practise Committee or the chief executive officer is required or authorised under this Act to notify a registered nurse, former registered nurse, registered midwife, former registered midwife, registered candidate or former registered candidate of a decision or other matter concerning the person, the notification shall be sent by pre-paid post or electronically to him or her at the address stated in the register of nurses or midwives or candidate register (as the case may be) in which his or her name is or was (as the case may be) entered.
+
+(2) Where the Board or the chief executive officer is required or authorised under this Act to notify a person (not being a registered nurse, former registered nurse, registered midwife, former registered midwife, registered candidate or former registered candidate) who has made an application under this Act of a decision or other matter concerning the application, the notification shall be sent by pre-paid post or electronically to the person at the address stated in the application.
+
+(3) Where a notification under this Act has been sent to a person in accordance with *subsection (1)* or *(2)*, the notification shall be deemed, in the absence of evidence to the contrary, to have been duly delivered to the person on the 3rd working day after the day on which it was so sent.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 185, S.I. No. 409 of 2021.
+>
+> **Editorial Notes:**
+>
+> E36: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 107. Amendment of Freedom of Information Act 1997.
+
+**107**.— The Freedom of Information Act 1997 is amended—
+
+(*a*) in the First Schedule—
+
+(i) by substituting “Bord Altranais agus Cnáimhseachais na hÉireann” for “An Bord Altranais”, and
+
+(ii) by deleting “The National Council for the Professional Development of Nursing and Midwifery”,
+
+and
+
+(*b*) in the Third Schedule—
+
+(i) by inserting “*Nurses and Midwives Act 2011*” in the second column of Part 1, and
+
+(ii) by inserting “*Section 17*” in the third column of that Part.
+
+### 108. Special measures registration having regard to Covid-19
+
+F91[**108.** (1) A previous registrant may make an application to the Board to be registered in the register of nurses and midwives pursuant to this section.
+
+(2) Subject to *subsections (3)* to *(7)*, the provisions of this Act shall, with all necessary modifications, apply to—
+
+(*a*) a *section 108* registration as they apply to a registration in the register of nurses and midwives effected by another section of this Act, and
+
+(*b*) a *section 108* registrant as they apply to a registered nurse or registered midwife, as appropriate, who is not a *section 108* registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(*a*) a *section 108* application, or
+
+(*b*) a *section 108* registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to a *section 108* registration, the Board shall enter in that register, or cause to be entered in that register, the term "(*section 108* registration)" immediately after the name to indicate that his or her registration arises from the operation of this section.
+
+(5) (*a*) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register of nurses and midwives pursuant to the operation of another section of this Act, whether or not his or her name is already entered in that register pursuant to a *section 108* registration.
+
+(*b*) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to the operation of this Act (other than this section) when his or her name is already entered in that register pursuant to a *section 108* registration, the Board shall remove from that register, or cause to be removed from that register, the latter entry at the same time as the first-mentioned entry is made.
+
+(*c*) The refusal of a *section 108* registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register of nurses and midwives.
+
+(6) (*a*) Subject to *subsection (7)*, each *section 108* registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(*b*) The Board shall remove from the register of nurses and midwives, or cause to be removed from that register, on the date referred to in *paragraph (a)*, or as soon as is practicable thereafter, each name that was entered in that register pursuant to a *section 108* registration.
+
+(7) (*a*) The Minister may, by order, specify a different date for the purposes of *subsection (6)* (including a different date for a previous different date specified in an order made under this paragraph), and if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(*b*) *Section 3(3)* shall, with all necessary modifications, apply to an order made under *paragraph (a)* as that section applies to a regulation made under this Act.
+
+(8) In this section—
+
+"previous registrant" means a former registered nurse or former registered midwife, as appropriate, whose name was removed from the register of nurses and midwives pursuant to *section 50* or *77*;
+
+"*section 108* application" means an application under *subsection (1)*;
+
+"*section 108* registrant" means a registered nurse or registered midwife, as appropriate, who is such pursuant to—
+
+(*a*) the Board’s determination of a *section 108* application, or
+
+(*b*) a decision (howsoever called) of the Court arising from the Board’s determination of a *section 108* application;
+
+"*section 108* registration" means registration in the register of nurses and midwives pursuant to—
+
+(*a*) the Board’s determination of a *section 108* application, or
+
+(*b*) a decision (howsoever called) of the Court arising from the Board’s determination of a *section 108* application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91: Inserted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 14, commenced on enactment.
+
+## SCHEDULE — Board: Membership and Meetings
+
+*Tenure of Office*
+
+1\. (1) Subject to the provisions of this Schedule in relation to the filling of casual vacancies and to *subparagraph (2)*, every member of the Board shall hold office, unless the member sooner dies, resigns or becomes disqualified, for a period, not exceeding 5 years, specified in writing by the Minister.
+
+(2) Of the members of the Board appointed immediately after the commencement of *section 6(4)* of this Act—
+
+(*a*) 11 members shall hold office for a period of 3 years, and they shall be selected as follows:
+
+(i) by unanimous agreement of the members of the Board attending the meeting, or
+
+(ii) where no such agreement can for whatever reason be reached, by the drawing of lots by the members so attending,
+
+and
+
+(*b*) the remaining members shall hold office for a period of 5 years.
+
+2\. No person shall hold office as a member of the Board for more than 2 terms of 5 years (for which purpose membership of the Board which occurred before the commencement of this paragraph shall be taken into account).
+
+*Resignations and Termination of Membership*
+
+3\. Subject to *paragraph 4*, where the Minister receives a request in writing from the Board to terminate the appointment of a member of the Board on the ground that the member has failed to comply with *paragraph 12*, the Minister may terminate the appointment of the member.
+
+4\. The Minister shall not terminate the appointment of a member of the Board pursuant to a request referred to in *paragraph 3* unless—
+
+(*a*) the request is accompanied by evidence which satisfies the Minister that—
+
+(i) the member has been given a reasonable opportunity to make representations in writing to the Board to explain the reasons why the member has failed to comply with *paragraph 12*, and
+
+(ii) the member has failed or refused to make those representations,
+
+or
+
+(*b*) the request is accompanied by—
+
+(i) evidence which satisfies the Minister that the member has been given a reasonable opportunity to make representations in writing to the Board to explain the reasons why the member has failed to comply with *paragraph 12*,
+
+(ii) copies of the representations in writing made by the member to the Board, and
+
+(iii) a statement by the Board that it has given due regard to those representations in writing but has reached the conclusion that they do not afford a reasonable excuse for the member’s failure to comply with *paragraph 12*,
+
+and
+
+(*c*) where *subparagraph (b)* is applicable, the Minister is satisfied that the conclusion referred to in *clause (iii)* of that subparagraph is reasonable in the circumstances of the case.
+
+5\. A member of the Board may resign membership by giving notice in writing signed by the member to the Board, but the resignation shall not become effective until the meeting of the Board next held after receipt of the notice of resignation.
+
+6\. The membership of the Board of a person appointed by election shall terminate on the person ceasing to be a registered nurse or registered midwife.
+
+*Casual Vacancies*
+
+7\. (1) Where a casual vacancy occurs among the members of the Board, other than those appointed under *section 22(1)(c), (i)* or *(j)*, the Board shall forthwith notify the body or authority which nominated such person and that body or authority shall, as soon as is convenient, nominate a person or persons who the Minister may consider for appointment to fill such vacancy and any person so appointed shall, subject to the other provisions of this Act, serve as a member of the Board for such period as is unexpired of the term of office of the person whom the person so appointed replaces.
+
+(2) Where a casual vacancy occurs among the members of the Board appointed under *section 22(1)(c)*, the Board, after consultation with the Minister, shall co-opt a person who would, pursuant to the provisions of this Act, be eligible for election to fill such vacancy and any person so co-opted shall, subject to the provisions of this Act, serve as a member of the Board for such period as is unexpired of the term of office of the person whom the person so appointed replaces.
+
+(3) Where a casual vacancy occurs among the members of the Board appointed under *section 22(1)(i)* or *(j)*, the Minister may appoint a person who would, pursuant to the provisions of this Act, be eligible to fill such vacancy and any person so appointed shall, subject to the provisions of this Act, serve as a member of the Board for such period as is unexpired of the term of office of the person whom the person so appointed replaces.
+
+*Quorum*
+
+8\. The quorum for a meeting of the Board shall be 6 provided that, in the case of a meeting of the Board where the matter of the imposition of a sanction under *Part 9* on a registered nurse or registered midwife is on the agenda, the quorum shall be 9.
+
+*Meetings*
+
+9\. The Board shall hold at least 4 meetings in every year and may hold such other meetings as may be necessary for the performance of its functions by video link or by the circulation of papers.
+
+10\. The Board may, by notice in writing given to all the members of the Board, specify the minimum number of meetings of the Board which the members are required to attend.
+
+11\. The Board may, by notice in writing given to all the members of a committee, specify the minimum number of meetings of the committee which the members are required to attend.
+
+12\. A member of the Board given a notice under *paragraph 10* or *11* shall take all necessary steps to comply with the notice.
+
+*President and Vice-President*
+
+13\. (1) Subject to *section 22(2)* of this Act, the Board shall, from time to time, elect one of its members who is a registered nurse or registered midwife to be President of the Board and another of its members who is a registered nurse or registered midwife to be Vice-President of the Board.
+
+(2) The President and Vice-President of the Board shall each hold office as such for such term as may be specified by the Board at the time of their respective appointments unless—
+
+(*a*) the President or Vice-President, as the case may be, ceases to be, or becomes disqualified from being, a member of the Board,
+
+(*b*) the President or Vice-President, as the case may be, resigns that office and the resignation becomes effective under this paragraph, or
+
+(*c*) the Board passes a resolution, for which not less than two-thirds of the members of the Board vote, that terminates the appointment of the President or Vice-President, after notice of not less than 7 days of the intention to pass the resolution is given to every member of the Board.
+
+(3) The President or Vice-President of the Board may at any time resign from that office by giving notice in writing signed by him or her, to the Board, but the resignation shall not become effective until the meeting of the Board next held after the receipt by the Board of the notice of resignation.
+
+(4) Where, at an election of the President or Vice-President of the Board, there is an equality of votes for 2 or more members, it shall be determined by lot which of those members shall be President or Vice-President, as the case may be.
+
+*Proceedings at Meetings*
+
+14\. The proceedings of the Board shall not be invalidated by any vacancy or vacancies among its members or by any defect in the appointments to the Board or in the qualifications of any member thereof.
+
+15\. The President or, in the absence of the President, the Vice-President of the Board—
+
+(*a*) may convene a meeting of the Board,
+
+(*b*) shall convene a meeting of the Board when requested to do so by a requisition signed by not less than 10 members of the Board.
+
+16\. (1) Where the President or, in the absence of the President, the Vice-President of the Board refuses to convene a meeting of the Board after a requisition for that purpose signed by not less than 10 members of the Board has been presented to the President or Vice-President, as the case may be, any 5 members of the Board may forthwith convene a meeting of the Board.
+
+(2) Where the President or, in the absence of the President, the Vice-President of the Board, without so refusing, does not, not later than 7 days after the presentation of a requisition for that purpose signed by not less than 10 members of the Board, convene a meeting of the Board, any 5 members of the Board may, on the expiration of those 7 days, convene a meeting of the Board.
+
+17\. At least 3 clear days before every meeting of the Board, notice in writing, signed by the President or Vice-President of the Board, as the case may be, or, if the meeting is convened by members of the Board, by such members, of the time and place of the meeting shall be sent to every member of the Board: if the meeting is convened by members of the Board, the notice convening the meeting shall specify the business to be transacted thereat.
+
+18\. At a meeting of the Board—
+
+(*a*) the President of the Board shall, if present, be the chairperson,
+
+(*b*) if and so long as the President of the Board is not present, or if the office of President is vacant, the Vice-President of the Board shall, if present, be the chairperson,
+
+(*c*) if and so long as the President of the Board is not present or the office of President is vacant and the Vice-President is not present or the office of Vice-President is vacant, the members of the Board who are present shall elect one of their number to be chairperson of that meeting.
+
+19\. (1) The Board shall ensure that minutes of each meeting of the Board are prepared.
+
+(2) The minutes of a meeting shall be submitted for confirmation as an accurate record at the next meeting of the Board.
+
+(3) When confirmed, with or without amendment, the minutes of a meeting shall be signed by the person chairing the meeting at which they were submitted for confirmation.
+
+20\. The names of all members present at a meeting of the Board shall be recorded in the minutes of the proceedings of the meeting.
+
+21\. Subject to *paragraphs 8* and *13 (4)*, all acts of the Board and all questions coming or arising before the Board may be done and decided by a majority of such members of the Board as are present and vote in relation to the act or question at a meeting of the Board duly convened according to law.
+
+22\. In the case of an equality of votes on any question arising at a meeting of the Board (other than the election of the President or the Vice-President) the chairperson of that meeting shall have a second or casting vote.
+
+23\. Save as is otherwise provided by any enactment, including this Act, the Board may make standing orders for the regulation of its proceedings, and may amend or revoke such standing orders.

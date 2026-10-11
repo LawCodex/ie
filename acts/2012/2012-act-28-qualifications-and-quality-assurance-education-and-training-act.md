@@ -1,0 +1,3787 @@
+---
+title: "Qualifications and Quality Assurance (Education and Training) Act 2012"
+identifier: "eli/2012/act/28"
+type: act
+jurisdiction: ie
+language: en
+number: 28
+year: 2012
+date: 2012-07-22
+last_amended: 2026-01-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2012/act/28/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2012/act/28/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Qualifications and Quality Assurance (Education and Training) Act 2012
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A BODY KNOWN IN THE IRISH LANGUAGE AS ÚDARÁS NA hÉIREANN UM CHÁILÍOCHTAÍ AGUS DEARBHÚ CÁILÍOCHTA OR IN THE ENGLISH LANGUAGE THE QUALIFICATIONS AND QUALITY ASSURANCE AUTHORITY OF IRELAND; TO DEFINE ITS FUNCTIONS; TO PROVIDE FOR THE DISSOLUTION OF THE NATIONAL QUALIFICATIONS AUTHORITY OF IRELAND, THE HIGHER EDUCATION AND TRAINING AWARDS COUNCIL AND THE FURTHER EDUCATION AND TRAINING AWARDS COUNCIL; TO REPEAL THE QUALIFICATIONS (EDUCATION AND TRAINING) ACT 1999; TO AMEND THE HIGHER EDUCATION AUTHORITY ACT 1971, THE REGIONAL TECHNICAL COLLEGES ACT 1992, THE FREEDOM OF INFORMATION ACT 1997, THE UNIVERSITIES ACT 1997 AND CERTAIN OTHER ACTS; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[22*nd July*, 2012]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (21.10.2020) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 451 of 2020), arts. 2, 3(1)(a), (2) and sch., in operation as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Department of Education and Skills contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> 3\. (1) The functions vested in the Minister for Education and Skills -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education and Skills contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> SCHEDULE
+>
+> *Article 3*
+>
+> **Part 1**
+>
+> ...
+>
+> Qualifications and Quality Assurance (Education and Training) Act 2012 (No. 28 of 2012)
+>
+> ...
+>
+> C2: Function to be performed by Chief Executive of Quality and Qualifications Ireland specified (23.07.2014) by *Protected Disclosures Act 2014 (Section 7(2)) Order 2014* (S.I. No. 339 of 2014), art. 2 and sch. ref. no. 62.
+>
+> 2\. Each person specified in column (2) of the Schedule is hereby prescribed to be the recipient of disclosures of relevant wrongdoings falling within the description of matters specified in column (3) of the Schedule in relation to the person.
+>
+> **Schedule**
+>
+> <table><tr><td>Reference Number (1)</td><td>Prescribed Person (2)</td><td>Description of matters in respect of which the person is prescribed(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>62</td><td>Chief Executive of Quality and Qualifications Ireland</td><td>All matters relating to quality assurance, validation of programmes of education and training, the making of awards, the delegation of authority to make awards, the establishment of the Code of Practice for the provision of programmes of education and training to international learners and the authorisation to use the International Education Mark, as provided for by the Qualifications and Quality Assurance (Education and Training) Act 2012 (No. 28 of 2012).</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Qualifications and Quality Assurance (Education and Training) Act 2012.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+(3) An order under *subsection (2)* may, in respect of the repeal of the Act of 1999 or the provision of the Act of 1997, specified in *Part 1* of *Schedule 2*, and the revocation of the statutory instrument specified in *Part 2* of that Schedule effected by *section 6*, appoint different days for the repeal of those Acts or different provisions of them and the revocation of different provisions of that statutory instrument.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (5.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Commencement) Order 2012* (S.I. No. 421 of 2012).
+>
+> 2\. The 5th day of November 2012 is appointed as the day on which the Qualifications and Quality Assurance (Education and Training) Act 2012 (No. 28 of 2012) shall come into operation.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act—
+
+“access, transfer and progression”, in relation to learners, shall be construed in accordance with *subsection (5)*;
+
+“Act of 1908” means the Irish Universities Act 1908;
+
+“Act of 1997” means the Universities Act 1997;
+
+“Act of 1999” means the Qualifications (Education and Training) Act 1999;
+
+“An Foras” means An Foras Áiseanna Saothair;
+
+“Appeals Panel” means the Appeals Panel established under *section 68*;
+
+“Appeals Board” means an Appeals Board appointed under *section 69 (3)*;
+
+F1["associated provider" has the meaning assigned to it by *section 55F(1)*;]
+
+“Authority” has the meaning assigned to it by *section 8*;
+
+“award” means an award, including a joint award, for education or training, or both, made by an awarding body or in the case of a joint award, by two or more awarding bodies, to a learner to record or certify that the learner has acquired a particular standard of knowledge, skill or competence and includes—
+
+(*a*) a certificate,
+
+(*b*) a diploma,
+
+(*c*) a degree;
+
+F1["award that is included within the Framework" shall be construed in accordance with *section 55B*;]
+
+“awarding body” means a body which makes an award;
+
+“chief executive” has the meaning assigned to it by *section 15* and includes a person designated under *section 16 (5)* while he or she is performing the functions of the chief executive;
+
+“code of practice” means a code of practice established and published by the Authority in accordance with *section 60*;
+
+“company” means a company established under the Companies Acts;
+
+“completion rate” for a programme of education and training means the ratio that the number of enrolled learners who complete the programme bears to the number of enrolled learners who commenced the programme;
+
+“database” means the database established and maintained under *section 79*;
+
+“designated awarding body” means a previously established university, the National University of Ireland, an educational institution established as a university under section 9 of the Act of 1997, F2[a technological university,] F1[an Institute of Technology,] the Dublin Institute of Technology and the Royal College of Surgeons in Ireland;
+
+F3["designated institution of higher education" has the same meaning as it has in the Higher Education Authority Act 2022;]
+
+“dissolved body” shall be construed in accordance with *section 71*;
+
+F1["English language education and training" means a programme of education and training in English as a foreign language and "English language programme" shall be construed accordingly;]
+
+“enrolled learner” means a learner who has enrolled in a programme of education and training;
+
+“establishment day” shall be construed in accordance with *section 7*;
+
+“Framework” has the meaning assigned to it by *section 43*;
+
+“Institute of Technology” means an institution referred to in section 3 (amended by section 4 of the Institutes of Technology Act 2006) of the Regional Technical Colleges Act 1992;
+
+F4[...]
+
+“international education mark” means the international education mark specified under *section 61*;
+
+“international learner” means a person who is not an Irish citizen but is lawfully in the State primarily to receive education and training;
+
+“joint award” means a single award made jointly by two or more awarding bodies;
+
+“joint awarding arrangement” has the meaning assigned to it by *section 51 (1)*;
+
+“linked provider” shall be construed in accordance with *subsection (3)*;
+
+F1["listed awarding body" has the meaning assigned to it by *section 55A(1)(a)*;]
+
+“Minister” means the Minister for Education and Skills;
+
+“National University of Ireland” means the university by that name in Dublin, constituted and founded by charter under the Act of 1908;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“previously established university” means a university specified in paragraphs (*a*) to (*d*) of section 4(1) of the Act of 1997;
+
+“professional recognition body” means a body (including a professional association, professional institute or any other professional organisation) required or authorised by or under a law of the State to supervise or regulate the conduct of persons engaged in a profession;
+
+“programme of education and training” means a process by which a learner acquires knowledge, skill or competence and includes a course of study, a course of instruction and an apprenticeship;
+
+“provider” means a person who provides, organises or procures a programme of education and training;
+
+“recognised school” means a school that is recognised by the Minister under section 10 of the Education Act 1998;
+
+“record” includes—
+
+(*a*) a record in writing,
+
+(*b*) a plan, chart, map, drawing, diagram, pictorial or graphic image,
+
+(*c*) a disc, tape, soundtrack, or other thing in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other thing) of being reproduced in legible or audible form, and
+
+(*d*) a film, tape or other thing in which visual images are embodied so as to be capable (with or without the aid of some other thing) of being reproduced in visual form;
+
+“register” means the register of providers established and maintained under *section 78*;
+
+“relevant designated awarding body”, in relation to a linked provider, means the designated awarding body who has entered into the arrangement referred to in *subsection (3)*, with the linked provider;
+
+“relevant provider” means—
+
+(*a*) a previously established university,
+
+(*b*) an educational institution established as a university under section 9 of the Act of 1997,
+
+F2[(*ba*) a technological university]
+
+(*c*) the Royal College of Surgeons in Ireland,
+
+(*d*) the Dublin Institute of Technology,
+
+(*e*) a provider whose programme of education and training is validated under *section 45*,
+
+(*f*) a provider who has entered into an arrangement with an awarding body under *section 48*,
+
+(*g*) a provider to whom authority to make an award has been delegated under F5[*section 53,*]
+
+(*h*) a provider who is authorised to use the international education mark under *section 61* other than a provider who is so authorised where that provider is also—
+
+(i) a provider referred to in *paragraphs (a)* to *(g)*, or
+
+(ii) a linked F5[provider,]
+
+F1[(*i*) an Institute of Technology,
+
+(*j*) an education and training board, or
+
+(*k*) a listed awarding body providing one or more programmes leading to its own awards that are awards included within the Framework;]
+
+F1["Solas" means An tSeirbhís Oideachais Leanúnaigh agus Scileanna;]
+
+“superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
+
+“Teagasc” means Teagasc — The Agriculture and Food Development Authority;
+
+F2["technological university" has the meaning assigned to it by the Technological Universities Act 2018;]
+
+“validation”, in relation to a programme of education and training, shall be construed in accordance with *subsection (2)*;
+
+F6[...]
+
+F5[(2) For the purposes of this Act, a programme of education and training is validated where the Authority confirms under *section 45* that the provider of the programme has satisfied the Authority that, in respect of the period for which, by virtue of *subsection (1A)* or *(1B)* of *section 45*, the validation is to have effect:
+
+(*a*) an enrolled learner of that provider who completes that programme will acquire, and where appropriate, be able to demonstrate, the necessary knowledge, skill or competence to justify an award of the Authority being offered in respect of that programme;
+
+(*b*) the quality assurance procedures established under *section 28* by that provider are consistent with the guidelines issued by the Authority under *section 27(1)* and suitable for quality assuring that programme; and
+
+(*c*) the provider has the capacity and capability to provide that programme;
+
+and *section 45* shall be construed and operate so as to require the Authority to be so satisfied as to those matters.]
+
+(3) Subject to *subsection (4)*, a linked provider is a F5[provider that has a place of business in the State and is not] a designated awarding body but enters into an arrangement with a designated awarding body under which arrangement the provider provides a programme of education and training that satisfies all or part of the prerequisites for an award of the designated awarding body.
+
+(4) A provider of a programme referred to in *subsection (3)* is not a linked provider where the award referred to in that subsection is a joint award of the provider and the designated awarding body.
+
+(5) A reference to access, transfer and progression, in relation to learners, is a reference to—
+
+(*a*) access by learners to programmes of education and training, including recognition for knowledge, skill or competence previously acquired,
+
+(*b*) transfer of learners from one programme to another having received recognition for knowledge, skill or competence previously acquired, and
+
+(*c*) progression of learners from a programme to another programme of a higher level.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s 3(1)(a)-(e), (f)(iii), (g), S.I. No. 540 of 2019.
+>
+> F2: Inserted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 97(a), S.I. No. 124 of 2018.
+>
+> F3: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F4: Deleted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F5: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s 3(1)(f)(i), (ii), (2), (3), S.I. No. 540 of 2019.
+>
+> F6: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 61, S.I. No. 211 of 2013.
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references construed (21.10.2020) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 451 of 2020), arts. 2, 3(1)(a), (2) and sch., in operation as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Department of Education and Skills contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> 3\. (1) The functions vested in the Minister for Education and Skills -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education and Skills contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> SCHEDULE
+>
+> *Article 3*
+>
+> **Part 1**
+>
+> ...
+>
+> Qualifications and Quality Assurance (Education and Training) Act 2012 (No. 28 of 2012)
+>
+> ...
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Without prejudice to any provision of this Act, regulations under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (21.11.2025) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2025* (S.I. No. 545 of 2025), in operation as per reg. 1(2).
+>
+> E3: Previous affecting provision: power pursuant to section exercised (8.11.2014) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2014* (S.I. No. 503 of 2014), in operation as per reg. 1(2); revoked (21.11.2025) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2025* (S.I. No. 545 of 2025), reg. 1(3), in operation as per reg. 1(2).
+
+### 4. Expenses.
+
+**4**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+### 5. Offences.
+
+**5**.— (1) A person who commits an offence under *section 83(6)* or *paragraph 13(2)* of *Schedule 1* shall be liable on summary conviction to a class A fine.
+
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for an offence under *section 83(6)* or *paragraph 13(2)* of *Schedule 1* may be instituted within 12 months from the date of the offence.
+
+(3) A person who commits an offence under this Act, other than an offence referred to in *subsection (1)*, shall be liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 5 years or both.
+
+(4) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of, or to be attributable to any neglect on the part of any person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person shall, as well as the body corporate, commit an offence and shall be liable to be proceeded against and punished as if he or she had committed the first-mentioned offence.
+
+(5) Summary proceedings for an offence under this Act may be brought and prosecuted by the Authority.
+
+### 6. Repeals and revocation.
+
+**6**.— (1) The Acts specified in *column (1)* of *Part 1* of *Schedule 2* are repealed to the extent specified in *column (2)* of that Part.
+
+(2) The statutory instrument specified in *Part 2* of *Schedule 2* is revoked.
+
+## PART 2 Qualifications and Quality Assurance Authority of Ireland — PART 2 — Qualifications and Quality Assurance Authority of Ireland
+
+### 7. Establishment day.
+
+**7**.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to section exercised (6.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Establishment Day) Order 2012* (S.I. No. 436 of 2012).
+>
+> 2\. The 6th day of November 2012 is appointed as the establishment day for the purposes of the Qualifications and Quality Assurance (Education and Training) Act 2012 (No. 28 of 2012).
+
+### 8. Establishment of Qualifications and Quality Assurance Authority of Ireland.
+
+**8**.— (1) There shall stand established on the establishment day a body which shall, subject to *subsection (2)*, be known in the Irish language as Údarás na hÉireann um Cháilíochtaí agus Dearbhú Cáilíochta or, in the English language, as the Qualifications and Quality Assurance Authority of Ireland (in this Act referred to as the “Authority”) to perform the functions conferred on it by this Act.
+
+(2) The Minister may, following consultation with the Authority, by order specify a name, other than the Qualifications and Quality Assurance Authority of Ireland, by which the Authority may describe itself for operational purposes.
+
+(3) *Schedule 1* applies to the Authority.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to subs. (2) exercised (7.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Operational Name of Authority) Order 2012* (S.I. No. 437 of 2012).
+
+### 9. Functions of Authority.
+
+**9**.— (1) The general functions of the Authority shall be to—
+
+(*a*) promote, maintain, further develop and implement the Framework,
+
+(*b*) advise the Minister in relation to national policy on quality assurance and enhancement in education and training,
+
+F7[(*c*) approve a provider’s quality assurance procedures and monitor and review the effectiveness of such procedures (including such procedures as they stand amended for the time being),]
+
+(*d*) validate programmes of education and training, and review and monitor the validated programmes,
+
+(*e*) establish the standards of knowledge, skill or competence to be acquired by learners before an award can be made by the Authority or by a provider to which authority to make an award has been delegated,
+
+(*f*) make awards, delegate authority to make an award where it considers it appropriate and review and monitor the operation of the authority so delegated,
+
+(*g*) determine policies and criteria for access, transfer and progression in relation to learners, and monitor the implementation of procedures for access, transfer and progression in relation to learners by providers,
+
+(*h*) establish a code of practice for the provision of programmes of education and training to international learners,
+
+(*i*) authorise the use of the international education mark by a provider that complies with the code of practice,
+
+(*j*) establish, maintain and develop a database providing information on F7[awards that are awards included within the Framework], programmes of education and training which lead to F7[such awards] and any other programmes the Authority thinks appropriate,
+
+(*k*) establish and maintain the register,
+
+(*l*) advise and consult with the Minister, or any other Minister, on any matter which relates to its functions, at that Minister’s request,
+
+(*m*) co-operate with international bodies on qualifications and quality assurance policies and their implementation and in particular to—
+
+(i) liaise with awarding bodies outside the State for the purposes of facilitating the recognition in the State of awards of those bodies, and
+
+(ii) facilitate the recognition outside the State of awards made in the State,
+
+(*n*) ensure arrangements for the protection of learners are in place where learners have begun but not completed a programme of education and training where a provider ceases to provide the programme before completion,
+
+(*o*) assist enrolled learners in finding alternative programmes of education and training where providers cease to provide a programme before F7[completion,]
+
+(*p*) collect any information relating to the performance of its functions it considers F7[appropriate,]
+
+F8[(*q*) share, as it considers appropriate, any information collected through the performance of its functions with a Department of State, the Office of the Revenue Commissioners, Solas and any other body the Authority considers appropriate, subject to the general law (and in particular the relevant law of the European Union and the Data Protection Act 2018),
+
+(*r*) make decisions that it is appropriate that particular awards be regarded, for the purposes of this Act, as awards that are included within the Framework, and
+
+(*s*) as an element of the process of making decisions of the foregoing kind, prepare and publish a list of awarding bodies for the purposes of having awards included within the Framework.]
+
+(2) The Authority in the performance of its functions shall—
+
+(*a*) inform itself of the education, training, skills and qualifications requirements of industry, agriculture, business, tourism, trade, the professions and the public service, including requirements as to the level of knowledge, skill or competence to be acquired by learners,
+
+(*b*) promote practices in education and training which meet the requirements referred to in *paragraph (a)*,
+
+(*c*) inform itself of practices outside the State in respect of matters relevant to its functions,
+
+(*d*) have regard to such policies of the Government relating to education and training as are notified in writing to the Authority, by the F7[Minister,]
+
+(*e*) consult, as it considers appropriate, with providers, professional recognition bodies, staff and learner representatives, An tÚdarás um Ard-Oideachas, the National Council for Curriculum and Assessment, the State Examinations Commission F9[, Solas] and any other persons or bodies the F7[Authority considers appropriate,]
+
+F9[(*f*) conduct any reviews that it considers necessary and expedient for the performance of its functions, and
+
+(*g*) publish reports of its reviews, evaluations and determinations as it considers appropriate.]
+
+(3) The Authority shall have all powers necessary or expedient for the performance of its functions.
+
+(4) Subject to this Act, the Authority shall be independent in the performance of its functions.
+
+(5) The Authority may perform any of its functions through or by any member of the staff of the Authority duly authorised in that behalf by the Authority.
+
+(6) The Authority shall furnish the Minister with such information regarding the performance of its functions as the Minister may from time to time request.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 4(1)(a)-(d), (2)(a), (b), S.I. No. 540 of 2019.
+>
+> F8: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 4(1)(e), S.I. No. 540 of 2019.
+>
+> F9: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 4(2)(b), (c), S.I. No. 540 of 2019.
+
+### 10. Reviews by Authority.
+
+**10**.— The Authority may, where it considers it appropriate, conduct one or more reviews under *section 34*, *46*, *54*, *57* or *63* in relation to a provider at the same time.
+
+### 11. Review of Authority by Minister.
+
+**11**.— (1) The Minister may from time to time review the performance by the Authority of its functions.
+
+(2) Following a review under *subsection (1)* the Minister may, after consultation with the Authority, make such recommendations to the Authority in respect of the performance by the Authority of its functions, as the Minister thinks fit.
+
+(3) The Minister shall publish in the form and manner he or she thinks appropriate the results of a review under *subsection (1)* and any recommendations made under *subsection (2)*.
+
+### 12. Grants to Authority.
+
+**12**.— The Minister shall in each year, with the consent of the Minister for Public Expenditure and Reform, advance to the Authority out of moneys provided by the Oireachtas, such sums as the Minister may determine.
+
+### 13. Co-operation with Authority.
+
+**13**.— (1) Upon being requested to do so by the Authority, a relevant provider or a body authorised by law to make awards in the State shall assist the Authority in the performance of the functions of the Authority in so far as those functions relate to the functions of the relevant provider or body authorised by law to make awards in the State as the case may be.
+
+(2) A professional recognition body shall, in so far as is practicable—
+
+(*a*) co-operate with the Authority in the performance of the functions of the Authority in so far as those functions relate to the functions of the body, and
+
+(*b*) consult with the Authority, as appropriate, in regard to the performance of the functions of the Authority in so far as those functions relate to the functions of the body.
+
+(3) Upon being requested to do so by the Authority, a relevant provider, a body authorised by law to make awards in the State or a professional recognition body shall provide any information the Authority requires for the performance of its functions in so far as those functions relate to the functions of the provider, the body authorised by law to make awards in the State or the professional recognition body as the case may be, including information in respect of completion rates, within the time specified in the request.
+
+F10[(4) In this section and *section 14* a reference to a relevant provider shall be construed as including a reference to a listed awarding body, whether or not it is a listed awarding body that falls within *paragraph (k)* of the definition of "relevant provider" in *section 2(1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 5, S.I. No. 540 of 2019.
+
+### 14. Directions of Authority as to provision of information.
+
+**14**.— (1) Where a relevant provider, a body authorised by law to make awards in the State or a professional recognition body fails to provide information when requested to do so under *section 13(3)*, the Authority may by notice in writing direct the relevant provider, the body authorised by law to make awards in the State or the professional recognition body concerned to provide that information within a specified period.
+
+(2) Where the Authority makes a direction under *subsection (1)*—
+
+(*a*) the relevant provider,
+
+(*b*) the body authorised by law to make awards in the State, or
+
+(*c*) the professional recognition body,
+
+to which the direction is made shall comply with the direction within the time specified in the direction.
+
+(3) The Authority may, by notice in writing, amend or revoke a direction under this section.
+
+### 14A. Furnishing of information by Authority to other bodies
+
+F11[**14A.** (1) Subject to *subsection (2)*, the Authority may furnish to a Department of State, the Office of the Revenue Commissioners, An tÚdarás um Ard-Oideachas, Solas, the Central Applications Office and any other body the Authority considers appropriate information which comes to its attention in the course of performing its functions, and which relates to one or more functions of that other body.
+
+(2) *Subsection (1)* does not apply to information that is personal data within the meaning of the General Data Protection Regulation; the furnishing to others of personal data by the Authority shall be in accordance with the general law, and in particular:
+
+(*a*) the General Data Protection Regulation; and
+
+(*b*) as applicable—
+
+(i) the Data Protection Act 2018; and
+
+(ii) any Act of the Oireachtas that is passed, before, on or after the commencement of section 6 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, for the purpose of, amongst other things, the regulation of the sharing of personal data (or both personal data and other information) between public bodies.
+
+(3) In *subsection (2)* "General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 6, S.I. No. 540 of 2019.
+
+### 15. Chief executive.
+
+**15**.— (1) There shall be a chief executive officer of the Authority (in this Act referred to as the “chief executive”).
+
+(2) Subject to *subsections (4)* and *(5)*, the chief executive shall be appointed by the Authority with the consent of the Minister.
+
+(3) The chief executive may be removed from office by the Authority for stated reasons.
+
+(4) The Minister may, before the establishment day, designate a person to be appointed the first chief executive of the Authority.
+
+(5) If, immediately before the establishment day, a person stands designated by the Minister under *subsection (4)*, the Authority shall appoint that person to be the first chief executive.
+
+(6) The chief executive shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration, allowances and superannuation) as may be determined by the Authority with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(7) The chief executive shall not hold any other office or employment or carry on any business without the consent of the Authority.
+
+### 16. Functions of chief executive.
+
+**16**.— (1) The chief executive shall carry on and manage, and control generally, the administration of the Authority and perform such other functions (if any) as the Authority may determine.
+
+(2) The chief executive shall perform his or her functions subject to such policies as may be determined from time to time by the Authority, and is accountable to the Authority for the efficient and effective management of the Authority and for the due performance of his or her functions.
+
+(3) The chief executive may make proposals to the Authority on any matter relating to its functions.
+
+(4) The chief executive shall provide the members of the Authority with any such information (including financial information) in relation to the performance of his or her functions as the members may request.
+
+(5) The Authority may designate a member of the staff of the Authority to perform the functions of the chief executive in the absence of the chief executive or where the position of chief executive is vacant and the member so designated shall in such absence or upon such position being vacant perform those functions.
+
+### 17. Delegation of functions of chief executive.
+
+**17**.— (1) The chief executive may, with the consent of the Authority in writing, delegate any of his or her functions to a specified member of the staff of the Authority and that member of staff shall be accountable to the chief executive for the performance of the functions so delegated.
+
+(2) The chief executive shall be accountable to the Authority for the performance of functions delegated by him or her in accordance with *subsection (1).*
+
+(3) The chief executive may, with the consent of the Authority in writing, revoke a delegation made in accordance with this section.
+
+(4) In this section “functions” does not include a function to be performed by the chief executive on the determination of the Authority that is subject to a condition specified by the Authority that the function shall not be delegated by the chief executive to anyone else.
+
+### 18. Accountability of chief executive to Public Accounts Committee.
+
+**18**.— (1) In this section “Public Accounts Committee” means the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General.
+
+(2) The chief executive shall, whenever required in writing to do so by the Public Accounts Committee, give evidence to that Committee in relation to—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account that the Authority is required by this Act to prepare (being a book or record of account that is subject to audit by the Comptroller and Auditor General),
+
+(*b*) the economy and efficiency of the Authority in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Authority for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Authority referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(3) In giving evidence under this section, the chief executive shall not question or express an opinion on the merits of—
+
+(*a*) any policy of the Government or a Minister of the Government, or
+
+(*b*) the objectives of such a policy.
+
+### 19. Accountability of chief executive to other Oireachtas Committees.
+
+**19**.— (1) In this section “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in *section 18* or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
+
+(2) Subject to *subsection (3)*, the chief executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Authority.
+
+(3) The chief executive shall not be required to give account before a Committee for any matter which is or has been or may be the subject of proceedings before a court or Tribunal in the State.
+
+(4) Where the chief executive is of the opinion that a matter in respect of which he or she is requested to give account before a Committee is a matter to which *subsection (3)* applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and unless the chief executive does so at a time when he or she is before the Committee, he or she shall do so in writing.
+
+(5) Where the chief executive has informed a Committee of his or her opinion in accordance with *subsection (4)* and the Committee does not withdraw the request referred to in *subsection (2)* in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the chief executive may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question of whether the matter is one to which *subsection (3)* applies, or
+
+(*b*) the chairperson of the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court shall determine the matter.
+
+(6) Pending the determination of an application under *subsection (5)*, the chief executive shall not attend before the Committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which *subsection (3)* applies, the Committee shall withdraw the request referred to in *subsection (2)*, but if the High Court determines *subsection (3)* does not apply, the chief executive shall attend before the Committee to give account for the matter.
+
+(8) In the performance of his or her duties under this section, the chief executive shall not question or express an opinion on—
+
+(*a*) the merits of any policy of the Government or a Minister of the Government, or
+
+(*b*) the merits of the objectives of such a policy.
+
+### 20. Staff.
+
+**20**.— (1) The Authority shall appoint, with the consent of the Minister and the Minister for Public Expenditure and Reform, such and so many persons to be members of the staff of the Authority as it from time to time determines.
+
+(2) The terms and conditions of service of a member of the staff of the Authority shall be such as the Authority, with the consent of the Minister and the Minister for Public Expenditure and Reform, from time to time determines.
+
+(3) There shall be paid by the Authority to the members of its staff such remuneration, allowances and expenses as, from time to time, the Authority, with the consent of the Minister and the Minister for Public Expenditure and Reform, determines.
+
+### 21. Transfer of staff of dissolved body to Authority.
+
+**21**.— (1) Every person who, immediately before the establishment day, was a member of the staff of a dissolved body shall, on the establishment day, become and be a member of the staff of the Authority on the establishment day.
+
+(2) Save in accordance with a collective agreement negotiated with a recognised trade union or staff association concerned, a person referred to in *subsection (1)* shall not, while in the service of the Authority, be subject to less beneficial conditions in relation to remuneration than the conditions in relation to remuneration to which he or she was subject immediately before the establishment day.
+
+(3) In *subsection (2)*, a reference to conditions in relation to remuneration does not include conditions in relation to superannuation.
+
+(4) In relation to a person who becomes a member of the staff of the Authority under this section, previous service with a dissolved body shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts 1967 to 2007, the Protection of Employees (Part-Time Work) Act 2001, the Organisation of Working Time Act 1997, the Minimum Notice and Terms of Employment Acts 1973 to 2005, the Unfair Dismissals Acts 1977 to 2007, the Protection of Employees (Fixed-Term) Work Act 2003, the Parental Leave Acts 1998 and 2006, the Carer’s Leave Act 2001, the Terms of Employment (Information) Acts 1994 and 2001, the Maternity Protection Acts 1994 and 2004 and the Adoptive Leave Acts 1995 and 2005.
+
+### 22. Superannuation.
+
+**22**.— (1) As soon as may be after the establishment day, the Authority shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such of its staff (including the chief executive) as the Authority thinks appropriate.
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to, or in respect of whom, superannuation benefits are payable under the scheme and different terms and conditions may be fixed by such schemes in respect of different classes of persons.
+
+(3) The Authority may at any time prepare and submit to the Minister a scheme amending or revoking a scheme previously submitted and approved under this section.
+
+(4) A scheme or amending scheme submitted to the Minister under this section shall, if approved by the Minister with the consent of the Minister for Public Expenditure and Reform, be carried out by the Authority in accordance with its terms.
+
+(5) Every scheme made under this section shall make provision for appeals.
+
+(6) No superannuation benefit shall be granted by the Authority to or in respect of any of its staff (including the chief executive) who is a member of a scheme under this section, nor shall any other arrangement be entered into for the provision of any superannuation benefit to such a person on his or her ceasing to hold office, other than in accordance with a scheme or schemes submitted and approved under this section or an arrangement approved by the Minister and the Minister for Public Expenditure and Reform.
+
+(7) The Minister shall cause every scheme submitted and approved under this section to be laid before each House of the Oireachtas as soon as may be after it is approved, and if either such House within the next 21 days on which that House sits after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to anything previously done under it.
+
+(8) Where, in the period beginning on the establishment day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to, or in respect of, a person who was transferred to the staff of the Authority under *section 21*, the benefit shall be calculated by the Authority in accordance with such arrangement, approved by the Minister with the consent of the Minister for Public Expenditure and Reform, as applied to him or her immediately before the establishment day and, for that purpose, his or her pensionable service with the Authority shall be aggregated with his or her previous pensionable service with a dissolved body and the benefit so calculated shall be paid by the Authority.
+
+(9) A scheme under *subsection (1)* shall, in respect of a person who becomes a member of the staff of the Authority under *section 21*, provide for the granting to or in respect of him or her of superannuation benefits upon and subject to such terms and conditions, approved by the Minister with the consent of the Minister for Public Expenditure and Reform, as applied to him or her immediately before the establishment day in relation to the grant of such benefits.
+
+(10) Any period of service by a person as a member of the staff of a dissolved body that was a period of pensionable service for the purposes of a scheme for the granting of superannuation benefits to or in respect of members of the staff of the dissolved body shall, in respect of a person who becomes a member of the staff of the Authority under *section 21*, be regarded as a period of pensionable service for the purpose of any scheme under *subsection (1)*.
+
+### 23. Accounts.
+
+**23**.— (1) The Authority shall keep, in such form as the Minister may approve, all proper and usual accounts and records of all moneys received or expended by it.
+
+(2) The Authority shall each year submit accounts kept pursuant to *subsection (1)*, to the extent directed by the Comptroller and Auditor General, for audit to the Comptroller and Auditor General by such date as the Comptroller and Auditor General may from time to time direct.
+
+(3) Immediately after the audit referred to in *subsection (2)*, the Authority shall present to the Minister a copy of—
+
+(*a*) the accounts, and
+
+(*b*) the report of the Comptroller and Auditor General on the accounts.
+
+(4) The Minister shall cause copies of the accounts provided under this section and copies of the report of the Comptroller and Auditor General on those accounts, to be laid before each House of the Oireachtas.
+
+### 24. Strategy statement.
+
+**24**.— (1) The Authority shall, as soon as practicable after the establishment day, and not earlier than 6 months before and not later than 3 months before each third anniversary of the establishment day, prepare and submit to the Minister a strategy statement for the following 3 year period.
+
+(2) A strategy statement shall specify—
+
+(*a*) the objectives of the Authority for the 3 year period concerned and the strategies for achieving those objectives, and
+
+(*b*) the uses to which the Authority proposes to apply its resources.
+
+(3) When preparing the strategy statement, the Authority may consult with any persons it considers appropriate.
+
+(4) A strategy statement prepared by the Authority under *subsection (1)* shall be in such form as the Authority thinks appropriate.
+
+(5) The Authority shall publish the strategy statement on the internet.
+
+### 25. Annual Report.
+
+**25**.— (1) The Authority shall, not later than 30 June in each year, prepare and submit to the Minister a report of its activities in the immediately preceding year, and the Minister shall, as soon as practicable after receiving the report, cause a copy of the report to be laid before each House of the Oireachtas.
+
+(2) The Authority shall arrange for a report, laid before both Houses of the Oireachtas in accordance with *subsection (1)*, to be published on the internet as soon as practicable after copies of the report are so laid.
+
+### 26. Gifts to Authority.
+
+**26**.— (1) Subject to *subsections (2)* and *(3)*, the Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, accept gifts of money, land or other property.
+
+(2) Where the donor of a gift specifies a trust or condition attaching to a gift, the Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, accept the gift subject to the trust or condition.
+
+(3) The Authority shall not accept a gift if the trust or condition attached to it by the donor is, in the opinion of the Authority, inconsistent with or likely to prejudice the Authority’s operational independence or the effective performance of its functions.
+
+(4) The Authority shall include details of any gift that exceeds an amount, specified by the Minister with the consent of the Minister for Public Expenditure and Reform, in the next report prepared under *section 25* after the gift is accepted.
+
+(5) In *subsection (4)* “details” means—
+
+(*a*) the name and address of the donor of the gift,
+
+(*b*) a description of the gift, and
+
+(*c*) particulars of any trust or condition attached to the gift.
+
+## PART 3 Quality Assurance — PART 3 — Quality Assurance
+
+### 27. Quality assurance.
+
+**27**.— (1) The Authority shall, as soon as practicable after the establishment day—
+
+(*a*) issue guidelines (in this section referred to as “quality assurance guidelines”) for the establishment of procedures for quality assurance under *section 28*, and
+
+(*b*) establish procedures (in this section referred to as “effectiveness review procedures”) for review by the Authority of the effectiveness of—
+
+(i) the procedures for quality assurance established by relevant providers, and
+
+(ii) the implementation of those procedures by relevant providers,
+
+(*c*) having consulted with the National University of Ireland, issue guidelines for the establishment of procedures by the National University of Ireland under *section 32(2)*, and
+
+(*d*) having consulted with the National University of Ireland, establish procedures for review by the Authority of the effectiveness of—
+
+(i) procedures for review established by the National University of Ireland under *section 32(2)*, and
+
+(ii) the implementation of those procedures for review by the National University of Ireland.
+
+F12[(1A) As soon as practicable after the commencement of section 7 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, the Authority shall issue guidelines for the establishment of procedures by listed awarding bodies under *section 55F(2)*.
+
+(1B) The power under this section of the Authority—
+
+(*a*) to issue quality assurance guidelines, or any other guidelines, and
+
+(*b*) to establish effectiveness review procedures, or any other procedures,
+
+includes, respectively, the power of the Authority to amend any of the foregoing guidelines, or issue guidelines to replace existing such guidelines, and the power of the Authority to amend any of the foregoing procedures, or establish procedures to replace existing such procedures.
+
+(1C) In consequence of what is provided in the preceding subsection, a reference in this section to "issue" or "issuing", in respect of guidelines, or "establish" or "establishing", in respect of procedures, includes a reference, as the case may be—
+
+(*a*) to "amend" or to "amending", or
+
+(*b*) to do, or to the doing of, the act of issuing or establishing, as appropriate, guidelines or procedures by way of replacement of existing guidelines or procedures.]
+
+(2) The Authority shall consult with relevant providers and linked providers before issuing quality assurance guidelines.
+
+(3) The Authority shall consult with relevant providers before establishing effectiveness review procedures.
+
+(4) Where—
+
+(*a*) quality assurance guidelines and effectiveness review procedures apply to providers, and
+
+(*b*) any or all of those providers are F13[designated institutions of higher education],
+
+the Authority shall consult with An tÚdarás um Ard-Oideachas before issuing those guidelines and establishing those review procedures.
+
+F12[(4A) Where—
+
+(*a*) quality assurance guidelines and effectiveness review procedures apply to providers, and
+
+(*b*) any or all of those providers are education and training boards or other bodies engaged in the provision of further education and training programmes, to whom moneys have been advanced under section 21 of the Further Education and Training Act 2013,
+
+the Authority shall consult with Solas before issuing those guidelines and establishing those review procedures.]
+
+(5) The Authority may consult with an awarding body before issuing quality assurance guidelines and establishing effectiveness review procedures where—
+
+(*a*) the quality assurance guidelines and effectiveness review procedures apply to a provider of a programme of education and training, and
+
+(*b*) successful completion of that programme of education and training of that provider leads to a joint award of the Authority and the awarding body under a joint awarding arrangement.
+
+F14[(6) The Authority may—
+
+(*a*) issue different quality assurance guidelines for different relevant, linked or associated providers, or groups of relevant, linked or associated providers,
+
+(*b*) issue different quality assurance guidelines for different classes of programmes or different types of provision, and
+
+(*c*) establish different effectiveness review procedures for different relevant, linked or associated providers or groups of relevant, linked or associated providers.]
+
+(7) The Authority shall publish the quality assurance guidelines and effectiveness review procedures in such form and manner as it thinks appropriate (including on the internet).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 7(a), (b), S.I. No. 540 of 2019.
+>
+> F13: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F14: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 7(c), S.I. No. 540 of 2019.
+
+### 28. Obligation of providers to prepare quality assurance procedures.
+
+**28**.— (1) Subject to *sections 29*, *30*, *32* and *33*, F15[each relevant provider, linked provider and associated provider shall establish procedures] for quality assurance for the purposes of establishing, ascertaining, maintaining and improving the quality of education, training, research and related services the provider provides.
+
+(2) F15[Each relevant provider, linked provider and associated provider] shall have regard to the guidelines issued by the Authority under *section 27(1)(a)* in establishing procedures under *subsection (1)*.
+
+F16[(2A)The quality assurance procedures established by a relevant provider, linked provider or associated provider to satisfy the provisions of *section 33*, *44(8)* or *61(6)*, as appropriate, shall be for the purpose of further improving and maintaining the quality of education and training provided, organised or procured by that provider, being—
+
+(*a*) education and training that lead to one or more awards that are awards included within the Framework, or
+
+(*b*) English language education and training, the programme in respect of which the provider is authorised, under *section 61(7)*, to use the international education mark.
+
+(2B) Programmes of education to which section 13(3) of the Education Act 1998 applies shall not be subject to the procedures established under this section.]
+
+F15[(3) Procedures under *subsection (1)* shall be established—
+
+(*a*) as soon as practicable after the issue of guidelines by the Authority under *section 27(1)(a)*, and
+
+(*b*) in addition to what is provided in *paragraph (a)*, in the following cases at such other time or times:
+
+(i) subject to *subparagraphs (ii)* to *(iv)*, by a relevant provider, linked provider or associated provider where the relevant provider, linked provider or associated provider, as the case may be, thinks appropriate;
+
+(ii) in the case of a relevant provider, by the relevant provider where the Authority directs it to do so;
+
+(iii) in the case of a linked provider, by the linked provider where the relevant designated awarding body directs it to do so;
+
+(iv) in the case of an associated provider, by the associated provider where the relevant listed awarding body directs it to do so,
+
+and, in the case of a direction under *subparagraph (ii)*, *(iii)* or *(iv)*, the procedures shall be established in compliance with the direction within such period as the Authority or, as the case may be, the other body giving the direction determines and specifies in the direction in that behalf.]
+
+(4) Procedures under *subsection (1)* shall include procedures for—
+
+(*a*) evaluation, subject to *subsection (5)*, from time to time as the provider thinks appropriate, by the provider and by enrolled or formerly enrolled learners of the education, training, research and related services provided by that provider,
+
+(*b*) review by the provider of the F15[implementation] of the quality assurance procedures,
+
+(*c*) preparation of a report by the provider setting out—
+
+(i) the results of a review carried out under *paragraph (b)*,
+
+(ii) what measures (if any) the provider considers necessary arising out of that review to establish, ascertain, maintain and improve the quality of education, training, research and related services provided by the provider,
+
+(*d*) furnishing the report to the Authority, and, in the case of a linked provider, also to the relevant designated awarding body concerned,
+
+(*e*) publication of the report, and
+
+(*f*) implementation of the measures (if any) referred to in *paragraph (c)(ii)*.
+
+(5) Procedures for an evaluation by a provider under *subsection (4)(a)* shall provide for an evaluation to be completed at least once every 7 years after the issue of guidelines under *section 27(1)(a)* and—
+
+(*a*) in the case of a relevant provider, whenever the Authority so directs, or
+
+(*b*) in the case of a linked provider, whenever the relevant designated awarding body so directs.
+
+(6) A relevant provider or linked provider who organises or procures a programme of education and training which is provided, wholly or partly, by another person shall, in so far as the procedures to be established by the relevant provider or linked provider under *subsection (1)* relate to that part of the programme provided by that person, agree those procedures with that person.
+
+(7) *Subsection (1)* shall not apply to a person referred to in *subsection (6)* where the person is a relevant provider or a linked provider in so far as—
+
+(*a*) procedures have been agreed under *subsection (6)* between the person and the relevant provider or the linked provider who organises or procures the programme, and
+
+(*b*) those procedures relate to that part of the programme provided by that person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 8(a), (b), (d), (e), S.I. No. 540 of 2019.
+>
+> F16: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 8(c), S.I. No. 540 of 2019.
+
+### 29. Quality assurance procedures and previously established universities.
+
+**29**.— A previously established university shall—
+
+(*a*) consult with the Authority before establishing procedures under *section 28*,
+
+(*b*) provide a copy of the procedures established by it under *section 28* to the Authority and publish those procedures on the internet as soon as practicable thereafter, and
+
+(*c*) implement procedures published by it under this section.
+
+### 29A. Condition precedent for provisions of Act to be invoked by specified providers - criteria specified in regulations to be met
+
+F17[**29A.**— (1) A specified provider, other than a provider referred to in *section 65(6)*, shall demonstrate to the Authority that it meets the criteria specified in regulations under *section 29B(1)* in any of the following cases, namely:
+
+(*a*) a case in which the provider invokes, for the first time, any provision of this Act;
+
+(*b*) a case in which—
+
+(i) the provider who, having invoked (whether before, on or after the operative date) any provision of this Act, subsequently invokes any provision of this Act, and
+
+(ii) the Authority, in its discretion, on that provision being invoked by the provider, requests the provider to demonstrate to the Authority that it meets those criteria;
+
+(*c*) a case in which the Authority—
+
+(i) takes any action (including by way of review of any matter) authorised or required by this Act to be taken in respect of the provider, and
+
+(ii) for the purpose of such action, in its discretion, requests the provider to demonstrate to the Authority that it meets those criteria,
+
+and—
+
+(i) this section applies notwithstanding any other provision of this Act, and
+
+(ii) *subsections (4)* and *(5)* of *section 29C* supplement this section by requiring the Authority to do (or not to do) one or more things in cases in which a failure to demonstrate that those criteria are met occurs or in which those criteria cease to be met.
+
+(2) For the purposes of this section, a provision of this Act is invoked if—
+
+(*a*) an application under a provision of this Act, as it relates to the provision by the specified provider concerned of a programme of education and training or otherwise, is made, or
+
+(*b*) subject to *subsection (4)*, any step, as it relates to the provision by the specified provider concerned of a programme of education and training or otherwise, is taken by the provider on the basis that the conditions specified by or under this Act for the taking of the step are satisfied.
+
+(3) In this section and *sections 29B* and *29C*—
+
+(*a*) "specified provider" means—
+
+(i) a relevant provider,
+
+(ii) a listed awarding body (so far as it is does not otherwise fall within this definition by virtue of *subparagraph (i)*), and
+
+(iii) an associated provider, or a linked provider, that offers, for reward, a programme of education and training leading to an award that is an award included within the Framework,
+
+and the reference in this paragraph to a relevant provider includes a reference to a person who will fall within the definition of that expression in *section 2(1)* on the doing of the one or more things, specified in the relevant paragraph of that definition, the doing of which constitute the person as a relevant provider;
+
+(*b*) a reference to—
+
+(i) a specified provider demonstrating to the Authority that it meets the criteria specified in regulations under *section 29B(1)*, or
+
+(ii) such a provider meeting, or not meeting, those criteria or ceasing to meet them,
+
+shall, where regulations made under *subsection (1)* of *section 29B* provide for what are referred to in *subsection (3)* of that section as related criteria in respect of a specified provider, be deemed to include a reference to—
+
+(I) a specified provider demonstrating to the Authority that those related criteria are met in respect of it, or
+
+(II) where the context requires, those related criteria being met, not being met or ceasing to be met in respect of it,
+
+as the case may be;
+
+(*c*) a reference to provision of a programme of education and training or otherwise includes a reference to authorisation to use the international education mark; and
+
+(*d*) "operative date" means the date of commencement of section 9 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019.
+
+(4) *Subsection (2)(b)* does not apply to a provider referred to in *subsection (1)(b)* where, by reason of its previous invocation (as mentioned in *subsection (1)(b)*), of a provision of this Act, the conditions specified by or under this Act for the taking of the particular step concerned are satisfied.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 9, S.I. No. 426 of 2024.
+
+### 29B. Regulations specifying criteria concerning capacity and capability of providers and related criteria
+
+F18[**29B.**— (1) The Minister shall, as soon as practicable after the operative date, make regulations specifying the criteria that (in the case of a specified provider that meets the criteria) will, in the Minister’s opinion, afford a reasonable assurance to the Authority that the specified provider has the capacity and capability to—
+
+(*a*) implement quality assurance procedures, and
+
+(*b*) provide programmes of education and training consistent with the requirements of this Act,
+
+and criteria specified in regulations made under this subsection are referred to subsequently in this section as "the relevant criteria".
+
+(2) The relevant criteria may include—
+
+(*a*) criteria as to the specified provider being a fit and proper person to provide programmes of education and training,
+
+(*b*) criteria related to the possession of a particular legal personality by the specified provider, the possession by it of adequate financial resources to ensure the viability of its business and the securing by it of arrangements to ensure its good corporate governance, and
+
+(*c*) criteria related to the compliance by the specified provider with any enactment or instrument under an enactment (including any enactment or such an instrument passed or made after the operative date) imposing obligations on employers with respect to their employees or making provision in relation to any such obligations.
+
+(3) With prejudice to *subsection (2)(a)*, the relevant criteria, in the case of a specified provider that is a body corporate or an unincorporated body of persons, may include the following related criteria in respect of it, that is to say criteria as to every person who falls in the description contained in *paragraph (a)* or *(b)* (in his or her capacity as described therein) being a fit and proper person, namely:
+
+(*a*) a director of the provider or other person holding a position on its board of management or, where the affairs of the provider are managed by its members, each member of it;
+
+(*b*) a person employed by the provider whose duties include making decisions that, to a significant extent, could affect the management of the provider.
+
+(4) A specified provider may request, in writing, the Authority to make a determination as to whether or not, at the date of the request, the provider meets the relevant criteria and a request under this subsection shall be accompanied by the payment by the requester of such fee (if any) as may be determined by the Authority under *section 80*.
+
+(5) As soon as may be after the making of a request under and in accordance with *subsection (4)*, the Authority shall consider the request and, for that purpose, may require the requester to submit to it such information and documents as it may reasonably require; on completion of its consideration of the request the Authority shall make a determination as to whether or not, at the date concerned, the requester meets the relevant criteria and shall notify the requester of the determination.
+
+(6) A provider who knowingly makes to the Authority, on foot of a requirement made of it by the Authority under *subsection (5)*, a statement which is false or misleading in a material respect commits an offence.
+
+(7) Nothing in this section or *section 29C* shall be construed as being applicable to a provider specified in *section 65(6)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 9, S.I. No. 426 of 2024.
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Capacity and Capability Criteria) Regulations 2024* (S.I. No. 427 of 2024), in operation as per reg. 1(2).
+
+### 29C. Supplemental provisions in relation to sections 29A and 29B (including provision for refusals of applications, etc., where relevant criteria not shown to be met)
+
+F19[**29C.**— (1) In this section "relevant criteria" means criteria specified in regulations made under *section 29B(1*).
+
+(2) Where a material change occurs in relation to a specified provider that could reasonably be said to affect its ability to continue to meet the relevant criteria, the provider shall notify the Authority immediately of the change.
+
+(3) Without prejudice to *section 29B(4)*, the Authority may, at any time, require a specified provider to demonstrate that it continues to meet the relevant criteria.
+
+(4) If, by virtue of *section 29A(1)*, a requirement to demonstrate that the relevant criteria are met falls on a specified provider in consequence of an application that the provider has made under this Act, and, in the opinion of the Authority, the provider has failed to demonstrate that the provider meets those criteria, the Authority shall refuse the application and the provision that is made by this Act for an appeal to be taken where an application of the type concerned is refused on any ground specified in the provision shall be construed and operate so as to enable the provider to appeal, under that provision, the first mentioned refusal.
+
+(5) If, in the opinion of the Authority, a specified provider has ceased to meet the relevant criteria, the Authority shall withdraw—
+
+(*a*) its approval, in respect of the provider, of the procedures established under *section 28*,
+
+(*b*) validation of any programmes of education and training of the specified provider which the Authority has validated under *section 45*,
+
+(*c*) any authority to make awards delegated to the specified provider under *section 53*, and
+
+(*d*) authorisation to use the international education mark where the specified provider is authorised to use the international education mark under *section 61*.
+
+(6) However the steps that this Act requires be first taken where a withdrawal, under another provision of this Act, of approval, validation or other such matter in respect of a foregoing thing is proposed to be effected shall, also, be first taken where such a withdrawal under *subsection (5)* in respect of the thing concerned is proposed to be effected.
+
+(7) The provision that is made by this Act for an appeal to be taken where an approval, validation or other such matter is withdrawn in respect of a foregoing thing, on any ground specified in that provision, shall be construed and operate so as to enable the specified provider to appeal, under that provision, such a withdrawal under *subsection (5)* in respect of the thing concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 9, S.I. No. 426 of 2024.
+
+### 30. Quality assurance procedures and relevant providers, other than previously established universities.
+
+**30**.—F20[(1) Before establishing procedures under *section 28* (being the first occasion of the relevant provider establishing such procedures) a relevant provider shall submit a draft of the proposed procedures to the Authority for approval, accompanied by such fee (if any) as may be determined by the Authority under *section 80*, but this subsection does not apply to a previously established university.]
+
+F21[(1A) Where a relevant provider has established procedures under *section 28* (being the first occasion of such procedures having been established by it), procedures that, subsequent to that occasion, are proposed to be established by it under that section do not require approval under this section. However, the Authority may evaluate any subsequent such procedures with respect to their suitability in the course of considering or conducting, as appropriate—
+
+(*a*) an application for validation of a programme of education and training under *section 44(5)*,
+
+(*b*) a review of a programme of education and training under *section 46*,
+
+(*c*) a request for delegation of authority to make an award under *section 52*,
+
+(*d*) an application for authorisation to use the international education mark under *section 61(3)*, or
+
+(*e*) a review under *section 34*.]
+
+(2) Upon consideration of the proposed procedures submitted to it under *subsection (1)*, the Authority may—
+
+(*a*) approve the proposed procedures,
+
+(*b*) refuse to approve the proposed procedures but make such recommendations to the provider as it thinks appropriate, or
+
+(*c*) in accordance with *section 31*, refuse to approve the proposed procedures.
+
+(3) Where the Authority approves procedures under *subsection (2)(a)*, the provider shall publish those procedures in such form and manner (including on the internet) as the Authority directs and shall provide a copy of the procedures as published to the Authority.
+
+(4) The Authority may, as it thinks appropriate, determine the form and manner of the publication of procedures under *subsection (3)*.
+
+(5) Where the Authority makes recommendations under *subsection (2)(b)* the provider concerned shall take account of those recommendations before resubmitting the proposed procedures for approval under *subsection (1)*.
+
+(6) No further fee is payable where a provider resubmits proposed procedures in accordance with *subsection (5)*.
+
+(7) A provider shall implement procedures approved under this section.
+
+(8) A provider who falsely claims or represents that its procedures for quality assurance have been approved by the Authority under this section commits an offence.
+
+F21[(9) The Authority may impose conditions, in relation to quality assurance, on a relevant provider whose procedures it has approved under this section and the provider shall comply with those conditions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 10(a), S.I. No. 540 of 2019.
+>
+> F21: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 10(a), (b), S.I. No. 540 of 2019.
+
+### 31. Refusal by Authority to approve proposed quality assurance procedures.
+
+**31**.— (1) Where upon consideration by the Authority of a draft of any proposed procedures submitted to it under *section 30* for approval the Authority considers that it should refuse to approve the proposed procedures the Authority shall, by notice in writing, inform the provider concerned that it proposes to refuse to give its approval and state the reasons for the proposed refusal.
+
+(2) The notice under *subsection (1)* shall state that the provider may submit observations in writing to the Authority in relation to the reasons for the proposed refusal set out in the notice not later than one month after the service of the notice on the provider.
+
+(3) Where, after consideration of any observations submitted to the Authority under *subsection (2)*, the Authority considers that it should refuse to approve the proposed procedures, it may do so by notice in writing addressed to the provider.
+
+(4) A notice under *subsection (3)* shall state the reasons for the refusal referred to in that subsection.
+
+(5) Where the Authority refuses to approve the proposed procedures of a provider, the provider concerned may appeal against that refusal to the Appeals Panel.
+
+### 32. Quality assurance procedures and designated awarding bodies.
+
+**32**.— (1) Where a designated awarding body is a relevant provider to whom *section 28* applies, and the designated awarding body proposes to make an award in respect of a programme of education and training of a linked provider, the designated awarding body shall, in establishing procedures under *section 28*, include procedures for—
+
+(*a*) review by the designated awarding body of the effectiveness of procedures established by the linked provider under that section,
+
+(*b*) review by the designated awarding body of the effectiveness of the implementation by the linked provider of those procedures,
+
+(*c*) the appointment of an independent appeals person for the purposes of hearing an appeal under *section 39*, and
+
+(*d*) the hearing of an appeal under *section 39*.
+
+(2) Where the National University of Ireland proposes to make an award in respect of a programme of education and training of a linked provider, the National University of Ireland shall establish procedures for—
+
+(*a*) review by it of the effectiveness of the quality assurance procedures established by the linked provider under *section 28*,
+
+(*b*) review by it of the effectiveness of the implementation by the linked provider of those procedures,
+
+(*c*) the appointment of an independent appeals person for the purposes of hearing an appeal under *section 39*, and
+
+(*d*) the hearing of an appeal under *section 39*.
+
+(3) The National University of Ireland shall—
+
+(*a*) have regard to the guidelines issued by the Authority under *section 27(1)(c)* in establishing procedures under *subsection (2)*,
+
+(*b*) consult with the Authority before establishing procedures under *subsection (2)*,
+
+(*c*) provide a copy of the procedures established by it under *subsection (2)* to the Authority and publish those procedures on the internet as soon as practicable thereafter, and
+
+(*d*) implement procedures published by it under this subsection.
+
+(4) Procedures under *subsection (2)* shall be established as soon as practicable after the issue of guidelines by the Authority under *section 27(1)(c)* and at such other time or times—
+
+(*a*) subject to *paragraph (b)*, where the National University of Ireland thinks appropriate, or
+
+(*b*) where the Authority directs.
+
+### 33. Quality assurance procedures and linked providers.
+
+**33**.— (1) Before establishing procedures under *section 28*, a linked provider shall submit a draft of the proposed procedures to the relevant designated awarding body for approval.
+
+(2) Upon consideration of the proposed procedures submitted under *subsection (1)*, the relevant designated awarding body may—
+
+(*a*) approve the proposed procedures,
+
+(*b*) refuse to approve the proposed procedures but make such recommendations to the provider as it thinks appropriate, or
+
+(*c*) refuse to approve the proposed procedures.
+
+(3) Where the relevant designated awarding body approves the proposed procedures under *subsection (2)(a)*, the linked provider shall publish those procedures in such form and manner as the designated awarding body directs and shall provide a copy of the procedures as published to that designated awarding body and the Authority.
+
+(4) Where the relevant designated awarding body makes recommendations under *subsection (2)(b)* the linked provider shall take account of those recommendations before resubmitting those draft procedures for approval under *subsection (1)*.
+
+(5) A linked provider shall implement procedures approved under this section.
+
+### 34. Review by Authority of quality assurance procedures of relevant providers.
+
+**34**.— (1) The Authority shall review the effectiveness of the procedures established by a relevant provider under *section 28*, and the implementation by the relevant provider of those procedures—
+
+(*a*) at least once every 7 years from the issue of guidelines under *section 27 (1)(a)*, and
+
+(*b*) from time to time as the Authority thinks appropriate.
+
+(2) A relevant provider subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80.*
+
+(3) The Authority shall carry out a review under *subsection (1)* in accordance with the procedures for review established by it under *section 27(1)(b)*.
+
+(4) The Authority shall consult with An tÚdarás um Ard-Oideachas in carrying out a review under *subsection (1)* where—
+
+(*a*) that review relates to a relevant provider, and
+
+(*b*) that relevant provider is F22[a designated institution of higher education].
+
+F23[(4A) The Authority shall consult with Solas in carrying out a review under *subsection (1)* where—
+
+(*a*) that review relates to a relevant provider, and
+
+(*b*) that relevant provider is an education and training board or other body engaged in the provision of further education and training programmes, to whom moneys have been advanced under section 21 of the Further Education and Training Act 2013.]
+
+(5) The Authority shall prepare a report setting out the results of a review under *subsection (1).*
+
+(6) The Authority shall provide a copy of the report prepared under *subsection (5)* to the relevant provider concerned and the relevant provider may, within one month from the provision of the report to it, submit in writing any observations it has on the report to the Authority.
+
+(7) After consideration of any observations submitted to the Authority under *subsection (6)*, the Authority may make any amendments to the report that the Authority considers appropriate.
+
+(8) The Authority shall provide a copy of the final report to the relevant provider and shall publish the report (including the observations of the provider concerned) in such form and manner as it thinks appropriate (including on the internet).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F23: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 11, S.I. No. 540 of 2019.
+
+### 35. Directions of Authority following review of quality assurance procedures.
+
+**35**.— (1) Where the Authority has carried out a review under *section 34*, it may, following consultation with the relevant provider concerned, issue such directions in writing to that relevant provider as it thinks appropriate in relation to the effectiveness of the quality assurance procedures established by that relevant provider under *section 28* and the implementation by that relevant provider of those procedures.
+
+(2) Where a direction is issued under *subsection (1)* to a relevant provider, the relevant provider shall comply with the direction.
+
+(3) A relevant provider issued with a direction under *subsection (1)* shall provide the Authority with information when requested to do so by the Authority regarding the compliance by that relevant provider with the direction.
+
+### 36. Withdrawal by Authority of approval of quality assurance procedures.
+
+**36**.— (1) Where, in relation to a relevant provider other than a previously established university, the Authority considers that—
+
+(*a*) directions issued by the Authority to the relevant provider under *section 35(1)* have not been complied with, or
+
+(*b*) there are serious deficiencies in the implementation of quality assurance procedures by the relevant provider,
+
+the Authority shall, by notice in writing, inform the relevant provider that it proposes to withdraw its approval of the procedures established under *section 28* and state the reasons for the proposed withdrawal.
+
+(2) Where a proposal under *subsection (1)* is made in respect of a provider who has entered into an arrangement referred to in *section 53(14)*, the Authority shall, by notice in writing, inform the awarding body referred to in *section 53(14)* that—
+
+(*a*) it proposes to withdraw its approval of the quality assurance procedures established by the provider under *section 28* and state the reasons for the proposed withdrawal, and
+
+(*b*) if the Authority withdraws its approval, it shall also withdraw any authority to make awards delegated to that provider under *section 53*.
+
+(3) A notice under *subsections (1)* and *(2)* shall state that the relevant provider, and the awarding body, if applicable, may submit observations in writing to the Authority in relation to the reasons for the proposed withdrawal set out in the notice not later than one month after the service of the notice on the provider and the awarding body, if applicable.
+
+(4) Where, after consideration of any observations submitted to the Authority under *subsection (3)*, the Authority continues to consider that *paragraph (a)* or *(b)* of *subsection (1)* applies, it shall withdraw its approval of the procedures established under *section 28*, by notice in writing addressed to the relevant provider, from such date (not earlier than the date of service on the relevant provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice.
+
+(5) A notice under *subsection (4)* shall state the reasons for the withdrawal referred to in that subsection.
+
+F24[(5A) A relevant provider may, in relation to quality assurance procedures that have been established by it and which stand approved by the Authority, give notice in writing to the Authority that it no longer wishes those procedures to stand approved by the Authority; on receipt of such a notice, the Authority may withdraw its approval of those procedures, without the need for a review, by notice in writing addressed to the provider.]
+
+(6) Where the Authority withdraws approval under *subsection (4)*, the relevant provider concerned may appeal against that withdrawal to the Appeals Panel.
+
+(7) Where the Authority withdraws approval under *subsection (4)*, the Authority shall also by notice in writing addressed to that relevant provider, from such date (not earlier than the date of service on the relevant provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice having regard to the interests of enrolled learners concerned, withdraw—
+
+(*a*) validation of any programmes of education and training of the relevant provider concerned which the Authority has validated under *section 45*,
+
+(*b*) any authority to make awards delegated to the relevant provider concerned under *section 53*, and
+
+(*c*) authorisation to use the international education mark where the relevant provider concerned is authorised to use the international education mark under *section 61*.
+
+(8) Where the Authority withdraws approval under *subsection (4)* in respect of a provider referred to in *subsection (2)*, the Authority shall, by notice in writing addressed to the awarding body referred to in that subsection, notify that awarding body of a withdrawal under *subsection (7)* of that provider’s authority to make awards delegated to it under *section 53*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 12, S.I. No. 540 of 2019.
+
+### 37. Review by designated awarding bodies of quality assurance procedures of linked providers.
+
+**37**.— (1) A relevant designated awarding body shall review the effectiveness of the procedures established by a linked provider, in respect of which that body has entered into an arrangement referred to in *section 2(3)*, under *section 28* and the implementation by that linked provider of those procedures—
+
+(*a*) at least once every 7 years from the issue of guidelines under *section 27(1)(a)*, and
+
+(*b*) from time to time as the designated awarding body thinks appropriate.
+
+(2) A relevant designated awarding body shall carry out a review under *subsection (1)* in accordance with procedures for review referred to in *section 32*.
+
+(3) A relevant designated awarding body may request the Authority to assist the body in carrying out a review under *subsection (1)*.
+
+(4) A request made under *subsection (3)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+(5) A relevant designated awarding body shall prepare a report setting out the results of a review under *subsection (1)*.
+
+(6) A relevant designated awarding body shall provide a copy of the report prepared under *subsection (5)* to the linked provider concerned.
+
+(7) A linked provider may, within one month from the provision of the report to it under *subsection (6)*, submit in writing any observations it has on the report to the relevant designated awarding body.
+
+(8) After consideration of any observations submitted to the relevant designated awarding body under *subsection (7)*, the relevant designated awarding body may make any amendments to the report that the relevant designated awarding body considers appropriate.
+
+(9) The relevant designated awarding body shall provide a copy of the final report to the linked provider concerned and to the Authority and shall publish that final report (including the observations of the linked provider concerned) in such form and manner as it thinks appropriate (including on the internet).
+
+### 38. Directions of designated awarding body following review of quality assurance procedures.
+
+**38**.— (1) Where a relevant designated awarding body has carried out a review under *section 37*, it may, following consultation with the linked provider concerned, issue such directions in writing to that linked provider as it thinks appropriate in relation to the effectiveness of the quality assurance procedures established by that linked provider under *section 28* and the implementation by that linked provider of those procedures.
+
+(2) Where a direction is issued under *subsection (1)* to a linked provider, the linked provider shall comply with the direction.
+
+(3) A linked provider shall provide the relevant designated awarding body which issued a direction under *subsection (1)* with information when requested to do so by the body regarding the compliance by that linked provider with the direction.
+
+### 39. Withdrawal by designated awarding body of approval of quality assurance procedures.
+
+**39**.— (1) Where a relevant designated awarding body considers that—
+
+(*a*) directions issued by it to the linked provider under *section 38(1)* have not been complied with, or
+
+(*b*) there are serious deficiencies in the implementation of quality assurance procedures by the linked provider,
+
+the body shall, by notice in writing, inform the linked provider that it proposes to withdraw its approval of the procedures established by the linked provider under *section 28* and state the reasons for the proposed withdrawal.
+
+(2) A notice under *subsection (1)* shall state that the linked provider may submit observations in writing to the relevant designated awarding body in relation to the reasons for the proposed withdrawal set out in the notice not later than one month after the service of the notice on the provider.
+
+(3) Where, after consideration of any observations submitted to the relevant designated awarding body under *subsection (2)*, that body continues to consider that *paragraph (a)* or *(b)* of *subsection (1)* applies, it shall withdraw its approval of the procedures established by the linked provider under *section 28*, by notice in writing addressed to the linked provider, from such date (not earlier than the date of service on the linked provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice.
+
+(4) A notice under *subsection (3)* shall state the reasons for the withdrawal referred to in that subsection.
+
+(5) Where a relevant designated awarding body withdraws approval under *subsection (3)*, the linked provider concerned may appeal against that withdrawal to an independent appeals person appointed by the relevant designated awarding body for that purpose.
+
+(6) The relevant designated awarding body shall send a copy of the notice sent to a linked provider under *subsection (3)* to the Authority.
+
+(7) Upon receipt of a copy of a notice under *subsection (6)*, the Authority shall, where the linked provider concerned is authorised to use the international education mark under *section 61*, by notice in writing to that linked provider, from such date (not earlier than the date of service on the linked provider of the notice) as it considers appropriate and as is specified in the notice having regard to the interests of enrolled learners concerned, withdraw such authorisation.
+
+(8) Where an appeal by a linked provider under *subsection (5)* is upheld, the relevant designated awarding body concerned shall notify the Authority of that fact within 14 days of the decision being made and upon receipt of that notice, where the Authority had withdrawn that linked provider’s authorisation to use the international education mark under *subsection (7)*, the Authority shall authorise that linked provider to use the international education mark, subject to the same conditions as applied to that authorisation before its withdrawal under that subsection.
+
+### 40. Review by Authority of procedures of National University of Ireland.
+
+**40**.— (1) The Authority shall review the effectiveness of the procedures for review established by the National University of Ireland under *section 32(2)* and the implementation of those procedures for review by the National University of Ireland—
+
+(*a*) at least once every 7 years from the establishment of procedures for review under *section 27(1)(d)*, and
+
+(*b*) from time to time as the Authority thinks appropriate.
+
+(2) The National University of Ireland shall pay to the Authority within one month of the completion of the review under *subsection (1)* such fee (if any) as may be determined by the Authority under *section 80*.
+
+(3) The Authority shall carry out a review under *subsection (1)* in accordance with the procedures for review established by it under *section 27(1)(d)*.
+
+(4) The Authority shall prepare a report setting out the results of a review under *subsection (1)*.
+
+(5) The Authority shall provide a copy of the report prepared under *subsection (4)* to the National University of Ireland and it may, within one month from the provision of the report to it, submit in writing any observations it has on the report to the Authority.
+
+(6) After consideration of any observations submitted to the Authority under *subsection (5)*, the Authority may make any amendments to the report that the Authority considers appropriate.
+
+(7) The Authority shall provide a copy of the final report to the National University of Ireland and shall publish the report (including the observations of the National University of Ireland) in such form and manner as it thinks appropriate (including on the internet).
+
+### 41. Directions of Authority to National University of Ireland following review.
+
+**41**.— (1) Where the Authority has carried out a review under *section 40*, it may, following consultation with the National University of Ireland, issue such directions in writing to the National University of Ireland as it considers appropriate in relation to the effectiveness of the procedures established by the National University of Ireland under *section 32(2)* and the implementation by the National University of Ireland of those procedures.
+
+(2) Where a direction is issued under *subsection (1)* to the National University of Ireland, it shall comply with the direction.
+
+(3) The National University of Ireland shall provide the Authority with information when requested to do so by the Authority regarding the compliance by that University with a direction issued under *subsection (1)*.
+
+### 42. Quality reviews by Authority.
+
+**42**.— (1) The Authority may, from time to time, conduct such reviews as it considers appropriate of the quality of education, training, research and related services provided by relevant providers and linked providers or any class of relevant providers and linked providers.
+
+(2) The Authority shall consult with An tÚdarás um Ard-Oideachas in carrying out a review under *subsection (1)* where—
+
+(*a*) that review relates to a provider referred to in that subsection, and
+
+(*b*) that provider is F25[a designated institution of higher education].
+
+F26[(2A) The Authority shall consult with Solas in carrying out a review under *subsection (1)* where—
+
+(*a*) that review relates to a relevant provider, and
+
+(*b*) that relevant provider is an education and training board or other body engaged in the provision of further education and training programmes, to whom moneys have been advanced under section 21 of the Further Education and Training Act 2013.]
+
+(3) The Authority shall publish, in such form and manner as it thinks appropriate (including on the internet), the findings of a review under *subsection (1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F26: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 13, S.I. No. 540 of 2019.
+
+## PART 4 Standards and Awards — PART 4 — Standards and Awards
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Programme of education and training transferred (1.01.2019, appointed day) by *Technological Universities Act 2018* (3/2018), s. 59, S.I. No. 437 of 2018.
+>
+> **Continuation of programmes of education and training following order under Part 2**
+>
+> **59.** Every programme of education and training that, immediately before the day appointed by order under section 36 or 43 was provided by a dissolved body and led to an award—
+>
+> (a) made by the Qualifications and Quality Assurance Authority of Ireland under section 50 of the Act of 2012,
+>
+> (b) made by the dissolved body in accordance with the authority delegated to that dissolved body by the Qualifications and Quality Assurance Authority of Ireland under section 53 of the Act of 2012, or
+>
+> (c) made by the Dublin Institute of Technology where it is the dissolved body,
+>
+> shall, on the appointed day, become and be a programme of education and training provided by the technological university in respect of which the order under section 36 or 43 is made that leads to an award made by that technological university.
+
+### 43. Framework of qualifications.
+
+**43**.— (1) The framework of qualifications established and maintained by the National Qualifications Authority of Ireland under section 7(*a*) of the Act of 1999 shall, notwithstanding the repeal of that section by *section 6(1)*, continue in being under this Act and shall—
+
+(*a*) be known as the National Framework of Qualifications (in this Act referred to as the “Framework”), and
+
+(*b*) be kept and maintained by the Authority in accordance with this section.
+
+(2) The Authority shall—
+
+F27[(*a*) review and further develop the policies and criteria on which the Framework is based,
+
+(*b*) promote, maintain, further develop and implement the Framework as a system—
+
+(i) of levels and types of awards based on standards of knowledge, skill or competence to be acquired by a learner to entitle the learner to an award at a particular level, and of the type concerned, within the Framework, and
+
+(ii) for the development, recognition and award of qualifications in the State,]
+
+(*c*) review the operation of the Framework,
+
+(*d*) promote and facilitate the use by providers and awarding bodies of statements of what an enrolled learner is expected to know, understand, and where appropriate, demonstrate, on completion of a programme of education and training, and
+
+(*e*) amend the Framework from time to time as it considers necessary taking into account *paragraphs (a)* to *(d)*.
+
+F29[(2A) *Sections 55A* to *55I* make provision for the process by which an award acquires the status of being an award that is included within the Framework.]
+
+F28[(3) Each designated awarding body and listed awarding body, shall, in respect of each award that the body makes that is an award included within the Framework:
+
+(*a*) take such steps (whether by way of co-operation or consultation with the Authority or otherwise) as will facilitate the performance by the Authority of its functions in so far as those functions relate to awards included within the Framework (referred to in *paragraph (b)* as "relevant functions");
+
+(*b*) provide to the Authority such information as the Authority may from time to time require for the performance by it of relevant functions.
+
+(4) Each designated awarding body shall ensure, in so far as is reasonably practicable, that each award that it makes is an award that is included within the Framework.
+
+(5) Each
+
+(*a*) designated awarding body,
+
+(*b*) provider to whom the Authority has delegated authority to make awards, and
+
+(*c*) body that makes an award under the Education Act 1998 that stands specified by the Minister to be an award that falls within this paragraph,
+
+shall cooperate with the Authority in the implementation of policies and criteria established under *section 55E(1)(b)*.]
+
+F30[(6) Each designated awarding body and each listed awarding body shall, in respect of each award the body makes that is an award included within the Framework, ensure that a learner acquires the standard of knowledge, skill or competence associated with the level of that award within the Framework before and when the award is made.
+
+(7) *Subsection (8)* applies to each provider of a programme of education and training, being a programme that leads to an award that is an award included within the Framework.
+
+(8) In respect of each such programme, its provider shall ensure that an enrolled learner acquires the standard of knowledge, skill or competence associated with the level of the award concerned within the Framework before the award is made.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27, F28: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 14(a), (c), S.I. No. 426 of 2024.
+>
+> F29, F30: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 14(b), (c), S.I. No. 426 of 2024.
+
+### 43A. Offence to provide or advertise cheating services
+
+F31[**43A.**— (1) A person who does any of the acts specified in *subsection (2)* commits an offence.
+
+(2) Each of the following is an act referred to in *subsection (1)*:
+
+(*a*) undertaking in whole or in part, in the enrolled learner’s stead, an assignment or any other work that an enrolled learner is required to undertake as part of a programme, without authorisation from the person making the requirement;
+
+(*b*) sitting an examination that an enrolled learner is required to sit as part of a programme, in the enrolled learner’s stead, or providing another person to sit the examination in place of the enrolled learner, without authorisation from the person setting the examination;
+
+(*c*) during the course of an examination that an enrolled learner is required to undertake as part of a programme, either—
+
+(i) providing to the enrolled learner, or
+
+(ii) arranging the provision, to him or her, of,
+
+answers for the examination, without authorisation from the person setting the examination.
+
+(3) A person who does either of the acts specified in *subsection (4)* with the intention of giving an enrolled learner an unfair advantage over other similarly enrolled learners commits an offence.
+
+(4) Each of the following is an act referred to in *subsection (3)*:
+
+(*a*) providing or arranging the provision of an assignment that an enrolled learner is required to undertake as part of a programme, without authorisation from the person making the requirement;
+
+(*b*) at any time before the beginning of an examination that an enrolled learner is required to undertake as part of a programme, either—
+
+(i) providing to the enrolled learner, or
+
+(ii) arranging the provision, to him or her, of,
+
+answers for the examination, without authorisation from the person setting the examination.
+
+(5) A person commits an offence if the person advertises that the person will perform—
+
+(*a*) any service consisting of the doing of any act specified in *subsection (2)*, or
+
+(*b*) any service consisting of the doing of either act specified in *subsection (4)* knowing that the service has or would have the effect of giving an enrolled learner an unfair advantage over other similarly enrolled learners.
+
+(6) A person commits an offence who publishes—
+
+(*a*) an advertisement for any service consisting of the doing of any act specified in *subsection (2)*, or
+
+(*b*) an advertisement for any service consisting of the doing of either act specified in *subsection (4)* knowing that the service has or would have the effect of giving an enrolled learner an unfair advantage over other similarly enrolled learners.
+
+(7) In this section "programme" does not include post-primary schooling leading to the sitting of the Junior Certificate or Leaving Certificate examination or any examination prescribed under section 50(2) of the Education Act 1998.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 15, S.I. No. 540 of 2019.
+
+### 44. Application for validation of programme of education and training.
+
+**44**.— (1) The Authority shall, as soon as practicable after the establishment day, establish policies and criteria for the validation of programmes of education and training and shall publish the policies and criteria in such form and manner as it thinks appropriate (including on the internet).
+
+(2) The Authority shall, within 5 years after the establishment of policies and criteria under *subsection (1)*, and at least once in every period of 5 years thereafter, review those policies and criteria.
+
+(3) The Authority may establish different policies and criteria for the validation of different programmes or different classes of programme of education and training.
+
+(4) The Authority may consult with an awarding body before establishing policies and criteria for the validation of programmes of education and training where successful completion of those programmes leads to a joint award of the Authority and that awarding body under a joint awarding arrangement between the Authority and that awarding body.
+
+(5) Subject to *subsections (7)*, *(9)*, *(10)* and *(11)*, a provider of a programme of education and training may apply to the Authority for validation of the programme.
+
+(6) An application made under *subsection (5)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+(7) A provider shall not make an application under *subsection (5)* unless—
+
+(*a*) the provider has established procedures for quality assurance under *section 28* F32[and those procedures address the programme for which validation is sought],
+
+(*b*) the provider has established procedures for access, transfer and progression under *section 56*,
+
+(*c*) F33[...]
+
+(*d*) if *subsection (11)* applies to the provider, the provider has consulted with the person referred to in that subsection.
+
+(8) A provider, other than a relevant provider or a linked provider, who makes an application for validation of a programme of education and training under *subsection (5)* may—
+
+(*a*) for the purposes of complying with *subsection (7)(a)*, establish procedures for quality assurance under *section 28* as if the provider was a relevant provider and *sections 30* and *31* shall apply to such a provider as if that provider was a relevant provider, and
+
+(*b*) for the purposes of complying with *subsection (7)(b)*, establish procedures for access, transfer and progression under *section 56* as if the provider was a relevant provider.
+
+(9) An application under *subsection (5)* shall be made by the following providers—
+
+F34[(*a*) each Institute of Technology, in relation to programmes leading to doctoral degrees included within the Framework,]
+
+(*b*) An Foras,
+
+(*c*) the National Tourism Development Authority,
+
+(*d*) Teagasc,
+
+(*e*) An Bord Iascaigh Mhara,
+
+(*f*) an educational or training institution established and maintained by F35[an education and training board],
+
+(*g*) a recognised school in so far as the school provides adult, continuing or vocational education or training which leads to an award,
+
+F32[(*h*) an education and training board,]
+
+in respect of each programme of F34[that provider or, in the case of programmes referred to in *paragraph (a)*, each such programme of the Institute of Technology concerned.].
+
+(10) A provider referred to in *subsection (9)* is not required to make an application under *subsection (5)*—
+
+(*a*) in respect of a programme of education and training—
+
+(i) that relates to a leisure or recreational activity not intended to lead to an award,
+
+(ii) that is part of primary or post-primary education provided by a recognised school, or
+
+(iii) where the provider has authority, delegated to it under *section 53*, to make an award in respect of that programme, or to make an award in respect of a class of programme where that programme is part of that class,
+
+(*b*) where the provider has entered into an arrangement under *section 48* with an awarding body other than the Authority to the extent that a programme of education and training of the provider is the subject of the arrangement.
+
+(11) A provider who organises or procures a programme of education and training which is provided, wholly or partly, by another person shall consult with that person before making an application under *subsection (5)*.
+
+(12) Where the person referred to in *subsection (11)* is a provider who, but for this subsection, would be a provider to whom *subsection (9)* applies, then *subsection (9)* shall not apply to that person in relation to that programme.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 16(a)(i), (b)(ii), S.I. No. 540 of 2019.
+>
+> F33: Deleted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 16(a)(ii), S.I. No. 540 of 2019.
+>
+> F34: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 16(b)(i), (iii), S.I. No. 540 of 2019.
+>
+> F35: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 61, S.I. No. 211 of 2013.
+
+### 45. Determination of application for validation of programme of education and training.
+
+**45**.— (1) Upon receipt of an application under *section 44(5)*, the Authority may—
+
+(*a*) subject to *subsection (2)*, validate the relevant programme of education and training where the programme satisfies the criteria established by the Authority under *section 44(1)*, or
+
+(*b*) refuse to validate the programme and give reasons for the refusal.
+
+F36[(1A) A validation under *subsection (1)* of a programme of education and training shall have effect for such period as the Authority determines and specifies in the validation, but *subsection (1B)* applies so as to provide that, in the circumstances specified in that subsection and in relation to the learner there referred to, a programme of education and training shall, for the purposes of this Act, be deemed to be validated notwithstanding the fact that the foregoing period has expired.
+
+(1B) In circumstances in which a learner—
+
+(*a*) is enrolled on a programme of education and training before the expiry of the period specified, under *subsection (1A)*, in the validation with respect to that programme, and
+
+(*b*) completes, in accordance with its terms, that programme after that expiry,
+
+that programme shall, in relation to that learner, be deemed to be validated for the purposes of this Act notwithstanding the expiry of the period so specified.]
+
+(2) The validation of a programme by the Authority is subject to—
+
+(*a*) the conditions specified in *subsection (3)*, and
+
+(*b*) any other conditions that the Authority thinks it appropriate to impose in relation to the programme.
+
+(3) The provider of the programme concerned shall—
+
+(*a*) co-operate with and assist the Authority in the performance of the Authority’s functions in so far as those functions relate to the functions of the provider,
+
+(*b*) establish procedures which are fair and consistent for the assessment of enrolled learners to ensure the standards of knowledge, skill or competence determined by the Authority under *section 49(1)* are acquired, and where appropriate, demonstrated, by enrolled learners,
+
+(*c*) continue to comply with *section 65* F37[...], if applicable, and
+
+(*d*) provide to the Authority such information as the Authority may from time to time require for the purposes of the performance of its functions, including information in respect of completion rates.
+
+(4) Where the Authority refuses under *subsection (1)(b)* to validate a programme of education and training, the provider of the programme may appeal against the refusal to the Appeals Panel.
+
+(5) A provider who falsely claims or represents that the Authority has validated a programme of education and training of the provider commits an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 17(a), S.I. No. 540 of 2019.
+>
+> F37: Deleted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 17(b), S.I. No. 540 of 2019.
+
+### 46. Review of programme validation.
+
+**46**.— (1) The Authority may, at any time, review a programme of education and training which it has validated.
+
+(2) The provider of a programme of education and training which is subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80*.
+
+### 47. Withdrawal of programme validation.
+
+**47**.— (1) Upon a review of a programme under *section 46*, where the Authority considers that—
+
+(*a*) the programme no longer meets the criteria established by the Authority under *section 44 (1)*,
+
+(*b*) a condition referred to in *section 45(2)* is not being complied with, or
+
+(*c*) there are other reasonable grounds for withdrawing the validation of the programme,
+
+the Authority shall, by notice in writing, inform the provider of the programme that it proposes to withdraw validation of the programme and state the reasons for the proposed withdrawal.
+
+(2) A notice under *subsection (1)* shall state that the provider may submit observations in writing to the Authority in relation to the reasons for the proposed withdrawal as set out in the notice not later than one month after the service of the notice on the provider.
+
+(3) Where, after consideration of any observations submitted to the Authority under *subsection (2)*, the Authority continues to consider that *paragraph (a)*, *(b)* or *(c)* of *subsection (1)* applies, it shall withdraw its validation of the programme concerned, by notice in writing addressed to the provider, from such date (not earlier than the date of service on the provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice having regard to the interests of the enrolled learners concerned.
+
+(4) A notice under *subsection (3)* shall state the reasons for the withdrawal referred to in that subsection.
+
+(5) Where the Authority, withdraws its validation of a programme of education and training under *subsection (3)*, the provider concerned may appeal against that withdrawal to the Appeals Panel.
+
+F38[(6) The Authority may, by notice in writing addressed to the provider of the programme, withdraw its validation of a programme, without the need for a review, in any of the following cases:
+
+(*a*) the provider has given notice in writing to the Authority that it no longer wishes to provide the programme for whatever reason;
+
+(*b*) the provider has not offered the programme for a period of at least 2 years, from the date of the programme’s validation;
+
+(*c*) no learner has been enrolled on the programme for at least 2 years;
+
+(*d*) the Authority and the provider agree to the withdrawal of the validation.
+
+(7) A notice under *subsection (6)* shall state the reasons for the withdrawal referred to in that subsection.
+
+(8) Where the Authority withdraws its validation of a programme of education and training under *subsection (6)(b)* or *(c)*, the provider concerned may appeal against that withdrawal to the Appeals Panel.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 18, S.I. No. 540 of 2019.
+
+### 48. Arrangement between providers and awarding bodies other than the Authority.
+
+**48**.— (1) A provider referred to in *section 44(9)* may enter into an arrangement with an awarding body other than the Authority to provide, organise or procure a programme of education and training where—
+
+(*a*) completion of the programme by an enrolled learner and the attainment by the learner of a specified standard of knowledge, skill or competence upon such completion entitles the learner to an award of the body, and
+
+(*b*) the award of the body is F39[an award included within the Framework].
+
+(2) A provider shall notify the Authority of an arrangement referred to in *subsection (1)* prior to entering into the arrangement.
+
+F40[(3) For the period of 5 years from the commencement of section 23 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, *paragraph (b)* of *subsection (1)* shall not apply to an arrangement referred to in that subsection if the arrangement has been entered into before the commencement of that *section 23*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 19(a), S.I. No. 540 of 2019.
+>
+> F40: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 19(b), S.I. No. 540 of 2019.
+
+### 49. Authority to determine standards of knowledge, skill or competence for awards.
+
+**49**.— (1) The Authority shall determine the standards of knowledge, skill or competence to be acquired, and where appropriate, demonstrated, by a learner before an award may be made by the Authority or by a provider to which, under *section 53*, authority to make an award has been delegated.
+
+(2) The Authority shall have regard to the Framework in determining the standards referred to in *subsection (1)*.
+
+(3) The Authority may, in determining the standards referred to in *subsection (1)*, determine different standards for different awards or different classes of award.
+
+(4) The Authority may consult with an awarding body before determining standards under *subsection (1)* for a joint award of the Authority and that awarding body to be made under a joint awarding arrangement between the Authority and that awarding body.
+
+(5) The Authority shall publish, in such form and manner as it thinks appropriate (including on the internet), the standards determined under *subsection (1)*.
+
+(6) The Authority may, at any time, amend the standards determined under *subsection (1)*.
+
+### 50. Making of an award.
+
+**50**.— (1) The Authority shall, as soon as practicable after the establishment day, establish and publish, in such form and manner as it thinks appropriate (including on the internet), policies and criteria for the making of an award by—
+
+(*a*) the Authority, and
+
+(*b*) a provider to which, under *section 53*, authority to make an award has been delegated.
+
+(2) The Authority shall, within 5 years after the establishment of policies and criteria under *subsection (1)*, and at least once in every period of 5 years thereafter, review those policies and criteria.
+
+F41[(3) The Authority shall, on the application of a relevant provider, and in accordance with the policies and criteria established under *subsection (1)*, and having regard to the procedures established by the provider under *section 56(2)*, make an award to a learner where the learner has, in the opinion of the provider, acquired, and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under *section 49(1)*.]
+
+(4) Subject to *subsection (5)*, the Authority shall, on the application of a provider in respect of an enrolled learner of that provider, and in accordance with the policies and criteria established under *subsection (1)*, make an award to the enrolled learner where the Authority, having consulted with that provider, is satisfied that the learner has acquired, and where appropriate demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under *section 49(1)*.
+
+(5) An application by a provider under *subsection (4)* may be made only in respect of a programme of education and training of the provider which has been validated by the Authority under *section 45.*
+
+(6) An application under *subsection (3)* and *subsection (4)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80.*
+
+(7) F42[...]
+
+(8) A provider commits an offence if, in relation to a programme of education and training of the provider, the provider falsely claims or represents that upon—
+
+(*a*) completion by a learner of that programme, or
+
+(*b*) the attainment by a learner of a specified standard of knowledge, skill or competence upon completion by the learner of that programme,
+
+the learner is entitled to an award of the Authority.
+
+(9) In this section, “award” does not include a joint award of the Authority made under a joint awarding arrangement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 20(a), S.I. No. 540 of 2019.
+>
+> F42: Deleted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 20(b), S.I. No. 540 of 2019.
+
+### 51. Joint awarding arrangement.
+
+**51**.— (1) The Authority may, for the purposes of making a joint award to an enrolled learner in respect of a programme of education and training, enter into a joint awarding arrangement (in this Act referred to as a “joint awarding arrangement”) with—
+
+(*a*) an awarding body, and
+
+(*b*) the provider of the programme of education and training where the programme of education and training leading to the joint award is not provided by the awarding body.
+
+(2) A joint awarding arrangement under *subsection (1)* may be made only in respect of a programme of education and training which has been validated by the Authority under *section 45*.
+
+(3) Where the Authority enters a joint awarding arrangement, the provider of the programme of education and training leading to the joint award may apply in respect of an enrolled learner of that programme to the Authority to make a joint award to the learner where the provider is satisfied that the learner has—
+
+(*a*) completed the programme of education and training concerned, and
+
+(*b*) acquired and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under *section 49(1)*.
+
+(4) Where the Authority receives an application referred to in *subsection (3)*, the Authority shall make a joint award with the awarding body with which it has entered into a joint awarding arrangement in respect of the programme concerned to the enrolled learner where the Authority is satisfied that the enrolled learner has—
+
+(*a*) completed the programme of education and training concerned, and
+
+(*b*) acquired, and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under section *49*(1).
+
+(5) An application under *subsection (3)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+### 52. Request by provider for delegation of authority to make award.
+
+**52**.— (1) The Authority shall, as soon as practicable after the establishment day, establish and publish, in such form and manner as it thinks appropriate (including on the internet), procedures and criteria for the determination of a request under *subsection (2)*, which criteria shall include criteria relating to the overall operation and management of the provider making the request F43[and the suitability of the quality assurance procedures established by the provider under *section 28*].
+
+(2) Subject to *subsection (3)*, any of the following may request the Authority to delegate to it the authority to make an award:
+
+F44[(*a*) an Institute of Technology, in relation to programmes leading to doctoral degrees included within the Framework;]
+
+F45[(*aa*) an education and training board established by section 9 of the Education and Training Boards Act 2013;]
+
+(*b*) An Foras;
+
+(*c*) the National Tourism Development Authority;
+
+(*d*) Teagasc;
+
+(*e*) a provider of a programme of education and training fulfilling the conditions set out in regulations made under *subsection (8)*.
+
+(3) A provider referred to in *subsection (2)* may not make a request under that subsection unless—
+
+F44[(*a*) the provider has established procedures for quality assurance under section 28 that will address, in a manner that is appropriate, the delegation of authority that is to be requested and the programmes related to it,]
+
+(*b*) the provider has established procedures for access, transfer and progression under *section 56*,
+
+(*c*) F46[...]
+
+(*d*) if *subsection (10)* applies to the provider, the provider has consulted with the other person referred to in that subsection.
+
+(4) Where a provider referred to in *subsection (2)* makes a request under that subsection and the provider is not a relevant provider or a linked provider, that provider may—
+
+(*a*) for the purposes of complying with *subsection (3)(a)*, establish procedures for quality assurance under *section 28* as if the provider was a relevant provider and *sections 30* and *31* shall apply to such a provider as if that provider was a relevant provider, and
+
+(*b*) for the purposes of complying with *subsection (3)(b)*, establish procedures for access, transfer and progression under *section 56* as if the provider was a relevant provider.
+
+(5) A request by a provider under *subsection (2)* for delegated authority to make an award may be made in respect of a programme or a class of programme of education and training of the provider.
+
+(6) Where a provider makes a request under *subsection (2)* in respect of a class of programme of education and training of the provider, that provider shall specify in the request all of its programmes of education and training within that class.
+
+(7) A request by a provider under *subsection (2)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80.*
+
+(8) The Minister shall make regulations as soon as practicable after the establishment day specifying the conditions that shall be fulfilled by a provider of a programme of education and training for the purposes of *subsection (2)(e)*.
+
+(9) Without prejudice to the generality of *subsection (8)*, conditions specified in regulations made under that subsection shall require that a provider has a minimum number (not less than one) of its programmes validated by the Authority and may require that—
+
+(*a*) a provider’s programmes of education and training have not fewer than the number of enrolled learners specified in the regulations, or
+
+(*b*) a provider’s programmes have been validated by the Authority for a minimum period.
+
+(10) Where a provider referred to in *subsection (2)* organises or procures a programme of education and training and makes a request under that subsection in respect of an award made on completion of the programme but that programme is, wholly or partly, provided by another person, the provider making the request shall consult with that other person before making the request.
+
+(11) For the purposes of this section, and *sections 53*, *54* and *55*, a class of programme of education and training may comprise F46[...]—
+
+F44[(*a*) either or both—
+
+(i) programmes which lead to awards that are awards included within the Framework or included at—
+
+(I) a specific level within, or
+
+(II) levels falling in a specific range within,
+
+the Framework,
+
+(ii) programmes in a particular subject area included within the Framework (whether included within it at a specific level or at levels as described in *subparagraph (i)(II)*),
+
+(*b*) any other grouping (by reference to such matters as the Authority considers appropriate) of programmes that the Authority deems to be necessary or expedient.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 21(a), S.I. No. 540 of 2019.
+>
+> F44: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 21(b), (c)(i), (d)(ii), S.I. No. 540 of 2019.
+>
+> F45: Inserted (26.10.2013) by *Further Education and Training Act 2013* (25/2013), s. 51, S.I. No. 400 of 2013.
+>
+> F46: Deleted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 21(c)(ii), (d)(i), S.I. No. 540 of 2019.
+
+### 53. Determination of request for delegation of authority to make award.
+
+**53**.— (1) The Authority shall evaluate a request made under *section 52(2)* in accordance with procedures established under that section and shall prepare a report on its evaluation.
+
+(2) The Authority shall furnish a copy of the report prepared under *subsection (1)* to the provider concerned and shall inform the provider that the provider may submit observations in writing to the Authority in relation to that report not later than one month after the furnishing of the report to the provider.
+
+(3) After consideration of any observations submitted to the Authority under *subsection (2)*, the Authority shall, within 6 months of receipt of the observations or within 6 months of the expiration of the one month period referred to in *subsection (2)*, whichever is the earlier—
+
+(*a*) where it is satisfied that—
+
+(i) a programme or a class of programme of education and training of the provider for which delegated authority to make an award is sought, and
+
+(ii) the overall operation and management of the provider,
+
+meet the criteria established under *section 52(1)*, delegate, subject to the conditions in *subsection (4)*, to that provider the authority to make an award in respect of that programme or that class of programme, or
+
+(*b*) refuse to delegate to that provider that authority and give reasons for the refusal.
+
+(4) The provider concerned shall—
+
+(*a*) (i) co-operate with and assist the Authority in the performance of the Authority’s functions in so far as those functions relate to the functions of the provider,
+
+(ii) establish procedures which are fair and consistent for the assessment of enrolled learners to ensure the standards of knowledge, skill or competence determined by the Authority under *section 49(1)* are acquired, and where appropriate, demonstrated, by enrolled learners,
+
+(iii) continue to comply with *section 65* F47[...], if applicable, and
+
+(iv) provide such information as the Authority may from time to time require for the purposes of the performance of its functions, including information in respect of completion rates,
+
+and
+
+(*b*) comply with any other condition that the Authority specifies by notice in writing to the provider concerned.
+
+(5) The Authority shall, for the purpose of determining any other conditions under *subsection (4)(b)*, have regard in particular to any programmes of the provider of the kind referred to in *section 52(10)*.
+
+(6) Where the Authority delegates authority to a provider to make an award, and the authority has not been withdrawn under *section 55*, any award made by the provider pursuant to that authority shall be an award of that provider.
+
+(7) Where, at any time after the Authority delegates authority to a provider to make an award in respect of a class of programme, the provider proposes to make an award in respect of a programme which it considers comes within the class but the programme was not specified under *section 52(6)*, the provider shall notify the Authority in writing of its proposal.
+
+(8) The Authority may, within one month of receipt of a proposal under *subsection (7)*, notify the provider in writing that it does not consider the programme comes within a class of programme in respect of which the provider has delegated authority to make an award.
+
+(9) Where a provider is notified by the Authority under *subsection (8)*, the provider shall not make an award in respect of the programme concerned.
+
+(10) Where a provider does not receive a notification from the Authority under *subsection (8)*, the provider may, after the expiration of one month referred to in that subsection, make an award in respect of the programme concerned.
+
+(11) Where the Authority refuses under *subsection (3)(b)* to delegate to a provider the authority to make an award in respect of a programme or a class of programme of education and training, the provider may appeal against that refusal to the Appeals Panel.
+
+(12) Where the Authority delegates to the provider authority to make an award but specifies a condition in writing under *subsection (4)(b)*, the provider may appeal against the condition to the Appeals Panel.
+
+(13) A provider who falsely claims or represents that the Authority has delegated to the provider authority to make an award in respect of a programme or a class of programme of education and training commits an offence.
+
+(14) Where a provider has delegated authority to make an award under this section and enters into an arrangement with another awarding body to make a joint award in respect of a programme of education and training of the provider, that provider shall notify the Authority of the arrangement within 14 days of it being made.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Deleted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 22, S.I. No. 540 of 2019.
+
+### 54. Review by Authority of delegated authority to make award.
+
+**54**.— (1) The Authority shall review each programme or class of programme of education and training of a provider to which authority to make an award has been delegated under *section 53* and the overall operation and management of that provider—
+
+(*a*) at least once every 7 years after the authority is delegated, and
+
+(*b*) from time to time as the Authority thinks appropriate.
+
+(2) The Authority shall, as soon as practicable after the establishment day, establish and publish, in such form and manner as it thinks appropriate (including on the internet), procedures for conducting reviews under *subsection (1)*.
+
+(3) A provider subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80.*
+
+### 55. Withdrawal or variation by Authority of delegated authority to make award.
+
+**55**.— (1) Upon a review under *section 54*, where the Authority considers that—
+
+(*a*) a programme or class of programme of education and training of a provider for which authority to make an award has been delegated, or the overall operation and management of the provider of the programme, no longer meets the criteria determined by the Authority under *section 52(1)*,
+
+(*b*) a condition referred to in *section 53(4)* is not being complied with, or
+
+(*c*) there are other reasonable grounds for withdrawing or varying the authority to make an award,
+
+the Authority shall, by notice in writing, inform the provider concerned that it proposes to withdraw or vary the authority to make an award in relation to a programme or programmes of a class specified in the notice and state the reasons for the proposed withdrawal or variation.
+
+(2) Where a proposal under *subsection (1)* is made in respect of—
+
+(*a*) a provider who has entered into an arrangement referred to in *section 53(14)*, and
+
+(*b*) a programme or class of programmes which lead to a joint award referred to in *section 53(14)*,
+
+the Authority shall, by notice in writing, inform the awarding body referred to in *section 53(14)* that it proposes to withdraw or vary the authority of the provider to make an award in respect of the programme or class of programmes specified in the notice and state the reasons for the proposed withdrawal or variation.
+
+(3) A notice under *subsections (1)* and *(2)* shall state that the provider, and the awarding body, if applicable, may submit observations in writing to the Authority in relation to the proposed withdrawal or variation set out in the notice not later than 3 months after the service of that notice on that provider and that awarding body, if applicable.
+
+(4) Where, after consideration of any observations submitted to the Authority under *subsection (3)*, the Authority continues to consider that *paragraph (a)*, *(b)* or *(c)* of *subsection (1)* applies, it shall either withdraw or vary the authority in relation to the programme or programmes specified in the notice under *subsection (1)*, by notice in writing addressed to that provider, from such date (not earlier than the date of service on the provider of the notice of withdrawal or variation) as it considers appropriate and as is specified in the notice.
+
+(5) Where the Authority withdraws or varies authority under *subsection (4)* in respect of a programme of a provider referred to in *subsection (2)*, the Authority shall, by notice in writing addressed to the awarding body referred to in that subsection, notify that awarding body of the withdrawal or variation of authority under *subsection (4)*.
+
+(6) A notice under *subsections (4)* and *(5)* shall state the reasons for the withdrawal or variation referred to in that subsection.
+
+(7) Where the Authority withdraws or varies the authority of a provider to make an award under this section the provider may appeal against the withdrawal or variation to the Appeals Panel.
+
+(8) Where the Authority withdraws delegated authority to make an award under *subsection (4)*, each programme of education and training leading to that award shall, from the date specified in the notice referred to in that subsection, be taken to be validated under *section 45* and the provisions of this Act shall apply to each of those programmes accordingly.
+
+(9) In this section, reference to varying the authority to make an award means varying the conditions imposed under *section 53(4)(b)*.
+
+### 55A. Sections 55A to 55I (Interpretation)
+
+F48[**55A.**— (1) In *sections 55B* to *55I*—
+
+(*a*) “listed awarding body” means an awarding body whose name, for the time being, appears in the list of awarding bodies;
+
+(*b*) "list of awarding bodies" shall be construed in accordance with *section 55C(3)*;
+
+(*c*) "operative date" means the date of commencement of section 23 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019;
+
+(*d*) a reference to an affirmative decision made, or that will be made, under *section 55D*, in relation to an award, is a reference to a decision made, or that will be made, under that section that it is appropriate that the award be regarded as one that is included within the Framework.
+
+(2) The power of the Authority, under any of *sections 55B* to *55I*, to make decisions in relation to awards (including where the context is of a decision, under *section 55C(5)*, in relation to an awarding body with reference to awards) is a power that is exercisable in relation to awards generally (of the specific type or class concerned) as distinct from being a power exercisable in relation to the individual instances of the award being made to a person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55B. Awards included within Framework (process by which awards acquire such status)
+
+F49[**55B.**— (1) For the purposes of this Act, an award shall be regarded as an "award that is included within the Framework" if, in accordance with *sections 55C* and *55D*, the Authority makes the following decisions in that behalf, namely—
+
+(*a*) firstly - with respect to the body that will make the particular award, and on the assumption that the decision referred to in *paragraph (b)* with respect to that award will be an affirmative decision - a decision, under *section 55C(5)*, that it is an appropriate body, with reference to the particular award, to make such an award, and
+
+(*b*) following the making of that decision - a decision under *section 55D* that it is appropriate that the particular award be regarded as one that is included within the Framework,
+
+but this is subject to *subsections (2)* to *(4)* and *sections 55D(7)* and *55I*.
+
+(2) *Subsection (1)(a)* does not apply to an award that is made by—
+
+(*a*) the Authority,
+
+(*b*) a designated awarding body,
+
+(*c*) a provider to whom the Authority has delegated authority to make awards, or
+
+(*d*) a body that makes an award under the Education Act 1998 that stands specified by the Minister to be an award that falls within this paragraph,
+
+and, accordingly, with respect to an award to be made by the Authority or by any foregoing body or provider and without prejudice to *subsection (3)*, an affirmative decision under *section 55D* suffices for the award to be regarded, for the purposes of this Act, as an award that is included within the Framework.
+
+(3) In respect of an award made by a designated awarding body, such an award shall, without the need for the making of a decision under *section 55D*, be regarded as an award that is included within the Framework if—
+
+(*a*) arrangements of the kind referred to in *subsection (4)* have been put in place by the designated awarding body and the Authority, and
+
+(*b*) on foot of those arrangements, the Authority—
+
+(i) expresses its agreement with the view, concerning that award, of the designated awarding body referred to in *paragraph (a)* of *subsection (4)*, and
+
+(ii) notifies the body, in writing, to that effect,
+
+and an award, the subject of such a notification, is referred to subsequently in this Act as a "*section 55B(3)* award".
+
+(4) The arrangements referred to in *subsection (3)* are arrangements that consist of the following 2 procedures—
+
+(*a*) a procedure under which, following its forming such a view in relation to an award it makes, a designated awarding body may, by notice in writing served on the Authority, state that the body is of the view it is appropriate that the award be regarded as an award that is included within the Framework, and
+
+(*b*) a procedure under which the Authority may—
+
+(i) having had regard to the view of the body expressed in that notice, and
+
+(ii) having consulted with the body,
+
+express the agreement of the Authority with that view.
+
+(5) Notwithstanding that a *section 55B(3)* award has not been preceded by the making of a decision by the Authority under *section 55D* in relation to it, a *section 55B(3)* award shall for the purposes, and the purposes only, of *subsections (6)* to *(8)* of *section 55D* (and the relevant provisions of *sections 55I* and *80* referred to in those subsections) be deemed to have been the subject of an affirmative decision made under *section 55D*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55C. Listing of an awarding body - decision as to whether it is appropriate that such a body make a particular award and related matters
+
+F50[**55C.**— (1) The purpose for which provision for—
+
+(*a*) the establishment of the category next referred to in this section, and
+
+(*b*) the procedures for the listing of awarding bodies,
+
+is made by this section is so that an award, being an award—
+
+(i) the subject of an affirmative decision under *section 55D*, and
+
+(ii) made by an awarding body whose name appears in the list of awarding bodies,
+
+is, for the purposes of this Act, an award included within the Framework.
+
+(2) On the completion of the steps specified in *subsection (3)*, there shall stand established under this Act a category of awarding bodies, exclusive of the Authority or a body or provider referred to in *section 55B(2)*, and the category so established shall be known, and is in this Act referred to, as "listed awarding bodies".
+
+(3) As soon as practicable after the operative date, the Authority shall prepare, maintain and publish a list which shall be known, and is in this Act referred to, as the "list of awarding bodies".
+
+(4) There shall be included in the foregoing list the name of each awarding body (other than the Authority or a body or provider referred to in *section 55B(2)*)—
+
+(*a*) that makes an application to the Authority for the inclusion by the Authority of its name in the list with reference to one, or more than one award, proposed to be made by it, and
+
+(*b*) the inclusion of whose name in the list, on foot of such an application, is acceded to by the Authority following a decision under *subsection (5)* by the Authority that the awarding body is an appropriate body, with reference to that award, to make such an award.
+
+(5) Following receipt of the foregoing application and subject to *subsections (6)* and *(7)*, the Authority shall make a decision as to whether the applicant awarding body is an appropriate body, with reference to the award concerned, to make such an award.
+
+(6) For the purpose of its making a decision under *subsection (5)* and that purpose only, the Authority shall proceed on the assumption that an affirmative decision will be made under *section 55D* in relation to the award referred to in *subsection (4)(b)*.
+
+(7) For the purpose of its making a decision under subsection (5), the Authority shall have regard to the policies and criteria established under *section 55E(1)(a)*.
+
+(8) A reference in *subsection (4)* to the inclusion by the Authority of a name in the list of awarding bodies includes a reference to the Authority’s accepting a name for inclusion in that list (following a decision under *subsection (5)* that the body concerned is an appropriate body as there referred to) pending completion by it of the steps under *subsection (3)* which lead to that list’s preparation.
+
+(9) An application under *subsection (4)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+(10) The Authority shall establish procedures that are to be followed by it in making a decision under *subsection (5)*.
+
+(11) If the Authority decides to refuse an application made by an awarding body under *subsection (4)(a*), the awarding body may appeal against that decision to the Appeals Panel.
+
+(12) The Authority shall publish procedures established under *subsection (10)* in such form and manner as it thinks appropriate (including on the internet).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55D. Decision that award is an appropriate one to be included in Framework
+
+F51[**55D.**— (1) On an application in that behalf by the awarding body that intends to make the particular award, whether—
+
+(*a*) a listed awarding body,
+
+(*b*) save where the award concerned of such a body is a *section 55B(3)* award, a designated awarding body, or
+
+(*c*) a body or provider referred to in *section 55B(2)(c)* or *(d)*,
+
+the Authority shall make a decision as to whether it is appropriate that the award be regarded as one that is included within the Framework.
+
+(2) Save where, in the case of a particular class of award, the making of a decision as to its status (by reference to the Framework) is, in the opinion of the Authority, unnecessary, the Authority shall make a decision as to whether it is appropriate that an award of the Authority be regarded as one that is included within the Framework.
+
+(3) In making a decision under this section, the Authority shall have regard to the policies and criteria established under *section 55E(1)(b)*.
+
+(4) An application under *subsection (1)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+(5) If the Authority decides to refuse an application made by an awarding body under *subsection (1)*, the awarding body may appeal against that decision to the Appeals Panel.
+
+(6) If the Authority makes an affirmative decision under this section with respect to an award of a listed awarding body or a body or provider referred to in *section 55B(2)(b)*, *(c)* or *(d)*, the awarding body concerned shall pay to the Authority—
+
+(*a*) within one month of the date of the decision, in consideration of the benefit that is conferred by reason of that decision, such fee (if any) as may be determined by the Authority under *section 80*, and which benefit is referred to in that section as the "benefit of a decision under *section 55D*", and
+
+(*b*) within one month of each anniversary of the date of the decision, in consideration of the benefit that continues to be conferred by reason of that decision, such fee (if any) as may be determined by the Authority under *section 80*, and which benefit is referred to in that section as the "continuing benefit of a decision under *section 55D*",
+
+but *paragraph (b)* does not apply if, on or before the anniversary referred to in that paragraph or during the month following it, the award concerned has ceased, by virtue of *section 55I(1)*, to be regarded for the purposes of this Act as an award that is included within the Framework.
+
+(7) If default is made by an awarding body in complying with *subsection (6)*, then unless the Authority determines that the period for the payment of the fee concerned ought to be extended (and extends the period accordingly and the fee is paid to it within that extended period), the award of the awarding body shall, from such date as the Authority specifies, not be regarded, for the purposes of this Act, as an award that is included within the Framework.
+
+(8) Where, under *subsection (7)*, an award ceases to be regarded, for the purposes of this Act, as an award that is included within the Framework, *subsection (2)* of *section 55I* shall apply as it applies in the case of *subsection (1)* of that section but with the substitution of references to the making of default in compliance (by the awarding body) with *subsection (6)* of this section for references to the deletion of the awarding body’s name from the list of awarding bodies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55E. Policies and criteria for making decisions under sections 55C(5) and 55D
+
+F52[**55E.**— (1) As soon as practicable after the operative date, the Authority shall establish policies and criteria to which regard shall be had by the Authority in making—
+
+(*a*) a decision under *section 55C(5)*, and
+
+(*b*) a decision under *section 55D*.
+
+(2) The Authority shall publish the policies and criteria established under *subsection (1)* in such form and manner as it thinks appropriate (including on the internet).
+
+(3) The reference in *subsection (1)* to policies and criteria, so far as that subsection relates to a decision under *section 55C(5)*, shall be deemed to include a reference to minimum requirements, that is to say requirements that must first be fulfilled before the Authority may make a decision under *section 55C(5)* that the relevant awarding body is an appropriate body, with reference to a particular award, to make such an award.
+
+(4) A requirement of the kind referred to in *subsection (3)* may include a requirement that the making of an application, under *section 55C(4)(a)*, by an awarding body has been endorsed by a public authority of such class as is specified by the Authority in the requirement, and, for the purposes of this subsection, "public authority" includes the Minister, any other Minister of the Government, An tÚdarás um Ard-Oideachas, Solas, a professional recognition body and a designated awarding body.
+
+(5) The Authority may establish different policies and criteria under *subsection (1)(b)* in respect of different awards.
+
+(6) *Subsection (7)* applies so far as the number of awards that, for the time being, stand included within the Framework is attributable to the policies and criteria established under *subsection (1)(b)*.
+
+(7) The Authority shall, in establishing policies and criteria under *subsection (1)(b)*, have regard to the need to ensure:
+
+(*a*) that the number of awards included within the Framework provides a reasonable level of choice for learners; and
+
+(*b*) that the number of awards included within the Framework that are awards with similar learning outcomes is not excessive.
+
+(8) In addition to what is provided in *subsection (7)*, the Authority shall, in establishing policies and criteria under *subsection (1)(b)*, have regard to:
+
+(*a*) the reasonable requirements of learners;
+
+(*b*) the reasonable requirements of industry, agriculture, business, tourism and trade, the professions and the public service;
+
+(*c*) the extent to which present and past awards in the State serve or served their educational purpose and the needs of the economy;
+
+(*d*) any consultation, concerning the education and training needs of learners, engaged in by it with—
+
+(i) bodies with responsibility for managing the provision of education and training that is funded by the Exchequer, and
+
+(ii) bodies that regulate one or more professions;
+
+and
+
+(*e*) such aspects of Government policy as the Minister may specify for the purposes of this paragraph.
+
+(9) The Authority may consult with another public body, including a public body that is established outside the State, where it considers that it is appropriate to do so for the efficient and effective operation of policies and criteria established under *subsection (1)*.
+
+(10) The Authority shall, within 5 years after the establishment of policies and criteria under *subsection (1)* and at least once in every period of 5 years thereafter, review those policies and criteria.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55F. Duties of listed awarding bodies
+
+F53[**55F.**— (1) In this section "associated provider" means a provider, having a place of business in the State, that enters into an arrangement with a listed awarding body under which arrangement the provider provides a programme of education and training that satisfies all of the prerequisites for an award of the listed awarding body that is included within the Framework.
+
+(2) A listed awarding body shall establish procedures for the quality assurance of its awards and for the external quality assurance of providers who, in relation to it, are associated providers.
+
+(3) The Authority may give one, or more than one, direction to a listed awarding body requiring the body to impose on a provider, who, in relation to the listed awarding body, is an associated provider, obligations to which *subsection (4)* applies, and obligations, so imposed, shall be complied with by the provider accordingly.
+
+(4) This subsection applies to obligations (which shall be specified in the direction concerned under *subsection (3)*)—
+
+(*a*) the imposition of which, in the opinion of the Authority, is necessary or expedient, and
+
+(*b*) that are to apply to, or in respect of, the provider’s activities as an associated provider in relation to the awarding body.
+
+(5) Without prejudice to the generality of *subsection (4)*, the obligations to which that subsection applies include obligations with respect to the employment of—
+
+(*a*) procedures for access, transfer and progression of learners,
+
+(*b*) procedures for quality assurance, and
+
+(*c*) procedures, which are fair and consistent, for the assessment of enrolled learners to ensure the standards of knowledge, skill or competence determined by the awarding body concerned (before awards that are included within the Framework are made by that body) are acquired and, where appropriate, demonstrated, by enrolled learners.
+
+(6) For the purposes of the compliance by an associated provider with the obligation referred to in *paragraph (a)* of *subsection (5)* to employ the procedures referred to in that paragraph, the associated provider shall have regard to the policies and criteria established by the Authority under *subsection (1)* of *section 56* if that subsection would otherwise not apply.
+
+(7) A listed awarding body shall—
+
+(*a*) co-operate with the Authority in the performance of the Authority’s functions in so far as those functions relate to the inclusion of awards within the Framework,
+
+(*b*) monitor compliance by an associated provider, on whom it has imposed obligations pursuant to a direction under *subsection (3)*, with those obligations,
+
+(*c*) review from time to time, and not less than once every 5 years, or at any time upon the request of the Authority, compliance by such an associated provider with the foregoing obligations,
+
+(*d*) if such an associated provider has failed in a material respect to comply with any of the foregoing obligations, discontinue (after having afforded the provider a reasonable opportunity to make representations in writing that the grounds for such discontinuance do not exist in the particular case) any arrangement that exists between it and the associated provider under which arrangement the provider provides a programme referred to in *subsection (1)*,
+
+(*e*) provide to the Authority such information as the Authority may from time to time require for purposes of the performance of its functions in relation to awards included within the Framework, and
+
+(*f*) comply with any condition that the Authority imposes, by notice in writing given to the body, on the awarding body concerned, being a condition the imposition of which the Authority considers to be necessary or expedient so as to maintain the integrity and standing of the Framework.
+
+(8) Without prejudice to the generality of *paragraph (e)* of *subsection (7)*, the information that the Authority may require to be provided under that paragraph includes—
+
+(*a*) particulars of providers who, in relation to the listed awarding body concerned, are associated providers,
+
+(*b*) particulars of programmes of education and training validated by the Authority or otherwise included within the Framework that lead to awards of the listed awarding body concerned that are included within the Framework,
+
+(*c*) any report prepared by the listed awarding body concerned on foot of a review carried out by it with respect to the provision of programmes of education and training that lead to awards of the body that are included within the Framework, and
+
+(*d*) numbers of awards made by the listed awarding body concerned that are included within the Framework.
+
+(9) An awarding body that is not a listed awarding body but which claims or represents that it is such an awarding body commits an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55G. Review of listed awarding bodies
+
+F54[**55G.**— (1) The Authority shall—
+
+(*a*) at least once every 7 years, and
+
+(*b*) from time to time as the Authority thinks appropriate,
+
+review the operation and management of each listed awarding body in so far as that operation and management relates to—
+
+(i) awards of the listed awarding body that are included within the Framework,
+
+(ii) the listed awarding body’s implementation of the procedures established by it under *section 55F(2)*, and
+
+(iii) the fulfilment by the listed awarding body of its duties under *section 55F(7)(b)* and *(c)*.
+
+(2) The Authority shall establish and publish in such form and manner as it thinks appropriate (including on the internet) procedures and criteria for conducting reviews under *subsection (1)*.
+
+(3) A listed awarding body subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80*.
+
+(4) In conducting a review under *subsection (1)*, the Authority may have regard to any other review conducted under this Act.
+
+(5) The Authority shall prepare a report setting out the results of a review conducted under *subsection (1)*.
+
+(6) The Authority shall provide a copy of the report under *subsection (5)* to the awarding body concerned and, in providing the report to it, the Authority shall state to the awarding body that it may, within one month from the provision of the report to it, submit observations in writing to the Authority in relation to the report, and the awarding body may submit such observations accordingly.
+
+(7) After consideration of any observations submitted to it in accordance with *subsection (6)*, the Authority may make any amendments to the report that the Authority considers appropriate. If such amendments are made to it, a copy of the report, as so amended, shall be provided by the Authority to the awarding body concerned.
+
+(8) The Authority shall publish the report prepared under *subsection (5)*, or, if it has been amended under *subsection (7)*, the report as amended under the latter subsection, in such form and manner as the Authority thinks appropriate (including on the internet).
+
+(9) Where, following a review under this section, the Authority gives a notice under *section 55H(4)* to the awarding body concerned, then *subsections (6)*, *(7)* and *(8)* shall not apply in that particular case.
+
+(10) Where—
+
+(*a*) a listed awarding body is a body established under the law of a state, other than the State, and
+
+(*b*) apart from the provision made by this Act for the Authority to exercise powers in relation to it, that awarding body is subject to regulation or quality assurance by an agency established outside the State,
+
+the Authority may, for the purpose of conducting a review under *subsection (1)* in respect of that awarding body, cooperate with that agency.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55H. Withdrawal or variation of listing of awarding bodies
+
+F55[**55H.**— (1) Where, following a review under *section 55G* in respect of a listed awarding body, the Authority is of the opinion that, on any of the grounds specified in *subsection (3)*, either—
+
+(*a*) it is no longer appropriate that the awarding body’s name stand included in the list of awarding bodies with reference (as the Authority considers appropriate) either—
+
+(i) to each of the one or more awards as respects which the body’s name had been included in that list (a "whole deletion"), or
+
+(ii) to such one or more (as the Authority specifies), but not all, of those awards (a "partial deletion"),
+
+or
+
+(*b*) the conditions for the time being imposed on the awarding body under *section 55F(7)(f)* ought to be varied,
+
+then, subject to the provisions of this section, the powers specified in *subsection (2)* may be exercised by the Authority.
+
+(2) The powers referred to in *subsection (1)* are—
+
+(*a*) to delete from the list of awarding bodies the name, whether by way of a whole deletion or, as the Authority considers appropriate, by way of a partial deletion, of the awarding body concerned, or
+
+(*b*) to vary the conditions for the time being imposed on the awarding body concerned under *section 55F(7)(f)*.
+
+(3) The grounds referred to in *subsection (1)* are—
+
+(*a*) having regard to the policies and criteria established under *section 55E(1)(a)*, it is appropriate that the name of the awarding body concerned no longer stand included, whether by way of a whole deletion or by way of a partial deletion, in the list of awarding bodies or that, as respects the conditions for the time being imposed on the awarding body concerned under *section 55F(7)(f)*, those conditions ought to be varied,
+
+(*b*) the awarding body concerned has failed to comply with one or more of the conditions imposed on it under *section 55F(7)(f)*, or
+
+(*c*) other circumstances exist in respect of the awarding body concerned that the Authority considers provide a reasonable justification for the exercise by it of either of the powers specified in *subsection (2)* in relation to that body,
+
+and this section shall be construed so that the existence of the ground specified in *paragraph (b)*, as with that specified in *paragraph (a)* or *(c)*, enables the exercise by the Authority of either of the powers specified in *subsection (2)* in relation to the body concerned.
+
+(4) If the Authority proposes to exercise either of the powers specified in *subsection (2)* in relation to a listed awarding body, the Authority shall, by notice in writing, inform the awarding body that the Authority proposes to delete from the list of awarding bodies its name, whether by way of a whole deletion or by way of a partial deletion and, in the case of the latter, specifying the awards to which it is proposed the deletion will apply, or, as the case may be, to vary, in specified respects, the conditions that stand imposed on it under *section 55F(7)(f)*, and the notice shall state the reasons for the proposed course of action and be accompanied by a copy of the report prepared under *section 55G(5)*.
+
+(5) A notice under *subsection (4)* shall state that the awarding body may submit observations in writing to the Authority in relation to the proposed course of action specified in the notice or in relation to the report that accompanies the notice, not later than one month from the service of the notice on the awarding body, and the awarding body may submit such observations accordingly.
+
+(6) Where after consideration of any observations submitted to it in accordance with *subsection (5)* —
+
+(*a*) the Authority is still of the opinion referred to in *subsection (1)(a)* or *(b)*, it may, by notice in writing addressed to the awarding body—
+
+(i) delete from the list of awarding bodies the awarding body’s name, whether by way of a whole deletion or, as the case may be, by way of a partial deletion (being the partial deletion as notified to that body under *subsection (4)*), or
+
+(ii) vary, in particular respects, the conditions that stand imposed on the awarding body under *section 55F(7)(f)*,
+
+or
+
+(*b*) in a case in which the original opinion was that referred to in *subsection (1)(a)* and the Authority is now of the opinion that the awarding body’s name should be deleted from the list of awarding bodies by way of—
+
+(i) a partial deletion (rather than by way of a whole deletion), or
+
+(ii) a partial deletion as respects a lesser number of awards than had been notified to that body under *subsection (4)*,
+
+it may, by notice in writing addressed to the awarding body, delete from that list the body’s name by way of a partial deletion consonant with what is described in *subparagraph (i)* or, as the case may be, *subparagraph (ii)*,
+
+and that deletion (of whatever kind) or variation shall be expressed to take effect from such date (not being earlier than the date of service of the notice) as the Authority considers appropriate and specifies in the notice.
+
+(7) A notice under *subsection (6)* shall state the reasons for the deletion or variation referred to in that subsection.
+
+(8) After consideration of any observations submitted to it in accordance with *subsection (5)*, the Authority may make any amendments to the report prepared under *section 55G(5)* that the Authority considers appropriate. If such amendments are made to it, a copy of the report, as so amended, shall be provided by the Authority to the awarding body concerned.
+
+(9) The Authority shall publish the report prepared under *section 55G(5)*, or, if it has been amended under *subsection (8)*, the report as amended under that subsection, in such form and manner as the Authority thinks appropriate (including on the internet).
+
+(10) The awarding body concerned may appeal to the Appeals Board against the deletion, under this section, of its name (whether by way of a whole deletion or by way of a partial deletion) from the list of awarding bodies or the variation, under this section, of the conditions that stand imposed on it under *section 55F(7)(f)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 55I. Effect of deletion of awarding body’s name from list
+
+F56[**55I.**— (1) Notwithstanding the fact of an affirmative decision having been made under *section 55D* in respect of the award concerned, if the name of an awarding body is deleted, under *section 55H(6)*, (in whatever of the ways there provided) from the list of awarding bodies, any award of that body made after that deletion shall, for the purposes of this Act, not be regarded as an award that is included within the Framework, but this is subject to *subsections (2)* and *(3)*.
+
+(2) If the name of the awarding body concerned has been deleted, under *subsection (6)* of *section 55H*, by way of what is referred to in that subsection (in whatever provision of it) as a "partial deletion", then *subsection (1)* shall not have effect in relation to any award as respects which that partial deletion does not apply.
+
+(3) Without prejudice to *subsection (2)*, if an award is made by an awarding body, after the deletion of its name as referred to in *subsection (1)*, to a person whose enrolment on the programme of education and training that led to the making of the award occurred before the foregoing deletion, then that award, with respect to that person, shall be regarded, for the purposes of this Act, as an award that is included within the Framework.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 23, S.I. No. 426 of 2024.
+
+### 56. Procedures for access, transfer and progression in relation to learners.
+
+**56**.— (1) The Authority shall, as soon as practicable after the establishment day, establish and publish, in such form and manner as it thinks appropriate (including on the internet), policies and criteria for access, transfer and progression in relation to learners.
+
+(2) Each relevant provider and linked provider shall, as soon as practicable after policies and criteria are established under *subsection (1)*, in accordance with those policies and criteria, establish procedures for access, transfer and progression in relation to learners to be implemented by the provider concerned.
+
+(3) The procedures referred to in *subsection (2)* shall include procedures for credit accumulation, credit transfer and identification and formal assessment of the knowledge, skills or competence previously acquired by learners.
+
+(4) Before establishing procedures under *subsection (2)*, each relevant provider, other than a previously established university, and each linked provider, shall submit a draft of the proposed procedures to the Authority for approval, accompanied by such fee (if any) as may be determined by the Authority under *section 80.*
+
+(5) Upon consideration of the proposed procedures submitted to it under *subsection (4)*, the Authority shall—
+
+(*a*) approve the proposed procedures, or
+
+(*b*) refuse to approve the proposed procedures but make such recommendations to the provider as it thinks appropriate.
+
+(6) Where the Authority approves procedures under *subsection (5)(a)*, the provider concerned shall publish those procedures in such form and manner (including on the internet) as the Authority directs and shall furnish a copy of the procedures as published to the Authority, and a linked provider shall also furnish a copy to the relevant designated awarding body.
+
+(7) Where the Authority makes recommendations under *subsection (5)(b)* the provider concerned shall take account of those recommendations before resubmitting the proposed procedures for approval under *subsection (4)*.
+
+(8) No further fee shall be payable where a provider resubmits proposed procedures in accordance with *subsection (7)*.
+
+(9) A provider shall implement procedures approved by the Authority under *subsection (5)(a)*.
+
+(10) A previously established university shall consult with the Authority before establishing procedures under *subsection (2).*
+
+(11) A previously established university shall provide a copy of the procedures established by it under *subsection (2)* to the Authority and shall publish those procedures as soon as practicable thereafter.
+
+(12) The Authority shall facilitate and advise previously established universities in implementing the procedures established under *subsection (2)*.
+
+(13) In this section—
+
+“credit” means an acknowledgement of an enrolled learner’s completion of a programme or part of a programme of education and training to a particular standard;
+
+“credit transfer” means transferring credits awarded for studies undertaken as part of one programme of education and training to another programme.
+
+### 57. Review by Authority of implementation of procedures for access, transfer and progression.
+
+**57**.— (1) The Authority shall review the implementation by each relevant provider and each linked provider of the procedures established by the provider under *section 56(2)*—
+
+(*a*) at least once every 7 years from the date of establishment of the procedures, and
+
+(*b*) from time to time as the Authority thinks appropriate.
+
+(2) A relevant provider or a linked provider subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80*.
+
+(3) The Authority shall consult with An tÚdarás um Ard-Oideachas in carrying out a review under *subsection (1)* where—
+
+(*a*) that review relates to a provider referred to in that subsection, and
+
+(*b*) that provider is F57[a designated institution of higher education].
+
+F58[(3A) The Authority shall consult with Solas in carrying out a review under subsection (1) where—
+
+(*a*) that review relates to a relevant provider, and
+
+(*b*) that relevant provider is an education and training board or other body engaged in the provision of further education and training programmes, to whom moneys have been advanced under section 21 of the Further Education and Training Act 2013.]
+
+(4) The Authority shall publish a report of its findings resulting from a review under *subsection (1)* in such form and manner as it thinks appropriate (including on the internet).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022.
+>
+> F58: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 24, S.I. No. 540 of 2019.
+
+### 58. Directions of Authority following review of procedures for access, transfer and progression.
+
+**58**.— (1) Where the Authority has carried out a review under *section 57*, the Authority may issue such directions in writing to a relevant provider, other than a previously established university, or to a linked provider, as the Authority thinks appropriate.
+
+(2) The Authority shall consult with the provider concerned prior to issuing directions under *subsection (1)*.
+
+(3) A provider referred to in *subsection (1)* shall comply with a direction issued under that subsection.
+
+(4) A provider referred to in *subsection (1)* shall provide the Authority with information from time to time and when requested to do so by the Authority regarding the compliance by the provider with a direction issued to the provider under that subsection*.*
+
+### 59. Withdrawal by Authority of approval of access, transfer and progression procedures.
+
+**59**.— (1) Where, in relation to a relevant provider, other than a previously established university, or in relation to a linked provider, the Authority considers that—
+
+(*a*) directions issued by the Authority to that provider under *section 58(1)* have not been complied with, or
+
+(*b*) there are serious deficiencies in the implementation by that provider of procedures for access, transfer and progression of that provider,
+
+the Authority shall, by notice in writing, inform the provider that it proposes to withdraw its approval of the procedures established under *section 56* and state the reasons for the proposed withdrawal.
+
+(2) Where a proposal under *subsection (1)* is made in respect of a provider who has entered into an arrangement referred to in *section 53(14)*, the Authority shall, by notice in writing, inform the awarding body referred to in *section 53(14)* that—
+
+(*a*) it proposes to withdraw its approval of the procedures for access, transfer and progression established by the provider under *section 56* and state the reasons for the proposed withdrawal, and
+
+(*b*) if the Authority withdraws its approval, it shall also withdraw any authority to make awards delegated to that provider under *section 53.*
+
+(3) A notice under *subsections (1)* and *(2)* shall state that the provider, and the awarding body, if applicable, may submit observations in writing to the Authority in relation to the reasons for the proposed withdrawal set out in the notice not later than one month after the service of the notice on the provider and the awarding body, if applicable.
+
+(4) Where, after consideration of any observations submitted to the Authority under *subsection (3)*, the Authority continues to consider that *paragraph (a)* or *(b)* of *subsection (1)* applies, it shall withdraw its approval of the procedures established under *section 56*, by notice in writing addressed to the provider, from such date (not earlier than the date of service on the provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice.
+
+(5) A notice under *subsection (4)* shall state the reasons for the withdrawal referred to in that subsection.
+
+(6) Where the Authority withdraws approval under *subsection (4)*, the provider concerned may appeal against the withdrawal to the Appeals Panel.
+
+(7) Where the Authority withdraws approval under *subsection (4)*, the Authority shall also by notice in writing addressed to that provider, from such date (not earlier than the date of service on the provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice having regard to the interests of enrolled learners concerned, where applicable to that provider, withdraw—
+
+(*a*) validation of any programmes of education and training of that provider which the Authority has validated under *section 45*,
+
+(*b*) any authority to make awards delegated to that provider under *section 53*, and
+
+(*c*) authorisation to use the international education mark where the relevant provider concerned is authorised to use the international education mark under *section 61*.
+
+(8) Where the Authority withdraws approval under *subsection (4)* in respect of a provider referred to in *subsection (2)*, the Authority shall, by notice in writing addressed to the awarding body referred to in that subsection, notify that awarding body of a withdrawal under *subsection (7)* of that provider’s authority to make awards delegated to it under *section 53*.
+
+## PART 5 Code of Practice and International Education Mark — PART 5 — Code of Practice and International Education Mark
+
+### 60. Code of Practice for provision of programme to international learners.
+
+**60**.— F59[(1) The Authority shall, as soon as practicable after the commencement of section 25 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, establish and publish a code of practice to be complied with by providers (other than associated providers) of programmes of education and training to—
+
+(*a*) international learners in the State enrolled on—
+
+(i) programmes leading to awards that are awards included within the Framework made by:
+
+(I) the Authority;
+
+(II) a provider to whom the authority to make an award has been delegated under *section 53*;
+
+(III) a designated awarding body; or
+
+(IV) a listed awarding body,
+
+or
+
+(ii) English language programmes,
+
+or
+
+(*b*) learners outside the State enrolled on programmes leading to awards that are awards included within the Framework made by the Authority or a body or provider referred to in *paragraph (a)(i)(II)* or *(III)*,
+
+for the purposes, in either case, of obtaining authorisation from the Authority to use the international education mark under *section 61*.]
+
+F60[(1A) The Authority may establish and publish under *subsection (1)* —
+
+(*a*) different codes of practice for different relevant or linked providers, or groups of relevant or linked providers,
+
+(*b*) different codes of practice for different classes of programmes or different types of provision.]
+
+F59[(2) Before establishing a code of practice under *subsection (1)*, the Authority shall consult with An tÚdarás um Ard-Oideachas and such providers and other bodies as the Authority considers appropriate.]
+
+(3) The Authority shall publish the code of practice established under *subsection (1)* in such form and manner as it thinks appropriate (including on the internet) specifying the date on which the code shall come into operation.
+
+(4) A code of practice established under *subsection (1)* may include different provisions in respect of different providers or providers of different classes.
+
+(5) The Authority may amend or revoke a code of practice established under *subsection (1)*.
+
+(6) Without prejudice to the generality of *subsection (1)*, a code of practice established under that subsection shall specify requirements relating to—
+
+(*a*) arrangements for the protection of learners,
+
+(*b*) the collection of fees from enrolled learners, F61[...]
+
+(*c*) requirements in relation to the tax compliance of a F59[provider, and]
+
+F60[(*d*) the establishment of policies and procedures in writing by a provider for the purposes of the management of human resources, including policies and procedures for the recruitment, training, continuing professional development, employment and cessation of employment of education and teaching staff.]
+
+F59[(7) In specifying, under *subsection (6)*, requirements relating to the matters referred to in *paragraph (d)* of that subsection, the Authority shall consult, in such manner as it thinks fit, with such person or persons, who represent education and training staff of providers, as it considers appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 25(a), (b), (c)(ii), (d), S.I. No. 426 of 2024.
+>
+> F60: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 25(a), (c)(iii), S.I. No. 426 of 2024.
+>
+> F61: Deleted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 25(c)(i), S.I. No. 426 of 2024.
+
+### 61. International education mark.
+
+**61**.— (1) The Authority shall specify an international education mark (in this Act referred to as the “international education mark”) to indicate that a provider is in compliance with the code of practice.
+
+F62[(1A) The Authority may specify variant forms of the international education mark for different groups of providers or classes of programmes, including an international education mark for English language education and training.]
+
+(2) The international education mark may include such words as the Authority decides from time to time, subject to the agreement of the Minister.
+
+F64[(3) Subject to *subsection (5)*, a provider (other than an associated provider) may apply to the Authority for authorisation to use the international education mark:
+
+(*a*) if all programmes offered by the provider to international learners lead to one or more awards that are awards included within the Framework;
+
+(*b*) in respect of each programme offered by the provider which leads to an award that is an award included within the Framework; or
+
+(*c*) in respect of English language programmes.]
+
+(4) An application under *subsection (3)* shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+F64[(5) A provider shall not make an application under *subsection (3)* unless—
+
+(*a*) the provider has established procedures for quality assurance under *section 28* that will address, in a manner that is appropriate, the requirements under this Part for authorisation to use the international education mark, and
+
+(*b*) the provider has established procedures for access, transfer and progression under *section 56*.]
+
+(6) A provider, other than a relevant provider or a linked provider, who makes an application for authorisation to use the international education mark under *subsection (3)* may—
+
+(*a*) for the purposes of complying with *subsection (5)(a)*, establish procedures for quality assurance under *section 28* as if the provider was a relevant provider and F64[*sections 30*, *31*, *34*, *35* and *36*] shall apply to such a provider as if that provider was a relevant provider, and
+
+F64[(*b*) for the purposes of complying with *subsection (5)(b)*, establish procedures for access, transfer and progression under *section 56* as if the provider was a relevant provider and *sections 57*, *58* and *59* shall apply as if the provider was a relevant provider.]
+
+F64[(7) The Authority shall determine an application under *subsection (3)* by assessing—
+
+(*a*) the compliance of the provider with the code of practice, and
+
+(*b*) other than in the case of a previously established university or a linked provider, the suitability of the provider’s quality assurance procedures having regard to the fact that, should its application be granted, the provider will be authorised to use the international education mark,
+
+and following upon such assessment, the Authority shall:
+
+(i) subject to *subsection (8)*, authorise the use by the provider of the international education mark where it is satisfied that the provider is in compliance with that code and, in a case to which *paragraph (b)* applies, that its quality assurance procedures are suitable having regard to the fact referred to in that paragraph; or
+
+(ii) refuse to authorise the use by the provider of the international education mark giving reasons for the refusal,
+
+and shall notify the provider in writing of its decision.]
+
+(8) The authorisation to use the international education mark by the Authority is subject to—
+
+(*a*) the conditions specified in *subsection (9)*, and
+
+(*b*) any other conditions that the Authority thinks it appropriate to impose in relation to that authorisation.
+
+(9) A provider authorised to use the international education mark shall—
+
+(*a*) co-operate and assist the Authority in the performance of the Authority’s functions in so far as those functions relate to operation of the code of practice and the international education F64[mark,]
+
+(*b*) provide to the Authority such information as the Authority may from time to time require for the purposes of the performance of its functions in relation to the code of practice and the international education F64[mark, and]
+
+F63[(*c*) comply with *section 65(1)*.]
+
+(10) The Authority shall authorise the use of the international education mark by a provider under the seal of the Authority.
+
+(11) The Authority shall be the proprietor of the international education mark and shall have sole power to authorise the use of the international education mark.
+
+(12) Where the Authority refuses to authorise the use by a provider of the international education mark, the provider concerned may appeal against that refusal to the Appeals Panel.
+
+(13) A provider who—
+
+(*a*) uses the international education mark without the authorisation of the Authority, or
+
+(*b*) falsely claims or represents that the Authority has authorised the use by the provider of the international education mark,
+
+commits an offence.
+
+(14) In any proceedings a certificate bearing the seal of the Authority stating that the register shows that on the date or during the period specified in the certificate a provider identified by the certificate was not entered in the register as being authorised to use the international education mark, is admissible as evidence of the fact that the provider was not authorised to use the international education mark by the Authority on the date or during the specified period.
+
+(15) A document purporting to be a certificate under *subsection (14)* shall be taken to be such a certificate, unless the contrary is shown.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62, F63: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 26(a), (f)(iii), S.I. No. 426 of 2024.
+>
+> F64: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 26(b), (c), (d)(i), (ii), (e), (f)(i), (ii), S.I. No. 426 of 2024.
+
+### 62. Annual charge for use of international education mark.
+
+**62**.— (1) Each provider who is authorised to use the international education mark shall, upon each anniversary (in this section referred to as the “liability date”) of the date of such authorisation, be liable to pay a charge (in this Act referred to as the “annual charge”) in respect of that authorisation.
+
+(2) The annual charge shall be paid to the Authority on or before the liability date or before the expiration of such period as may be prescribed, and in the manner specified by the Authority.
+
+(3) Subject to *subsection (5)*, the Minister shall prescribe the annual charge to be paid having regard to the expenditure incurred or reasonably expected to be incurred by the Authority in—
+
+(*a*) maintaining and developing the code of practice,
+
+(*b*) promoting the international education mark, and
+
+(*c*) maintaining the integrity, on an ongoing basis, of the code of practice, and the international education mark, in particular by ensuring the international education mark is used only by providers who are authorised to do so.
+
+(4) Subject to *subsection (5)*, the Minister may prescribe a different annual charge under *subsection (3)* in respect of different providers or providers of different classes having regard to the following matters:
+
+(*a*) the number of international learners enrolled in programmes of education and training provided by the provider;
+
+(*b*) the duration of the programmes of education and training provided to international learners.
+
+(5) The amount of the annual charge prescribed under *subsection (3)* shall not exceed an amount of €50,000.
+
+(6) The Minister may prescribe—
+
+(*a*) general or special exemptions from the payment of the annual charge (wholly or partly) in different circumstances,
+
+(*b*) a reduction in the annual charge having regard to the method of payment of the charge.
+
+(7) The annual charge shall be recoverable by the Authority as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to section exercised (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (International Education Mark Annual Charge) Regulations 2024* (S.I. No. 429 of 2024), in operation as per reg. 1(2).
+
+### 63. Review by Authority of provider’s compliance with code of practice and provider’s use of international education mark.
+
+**63**.— (1) The Authority may at any time review compliance by a provider authorised to use the international education mark with—
+
+(*a*) the code of practice, and
+
+(*b*) conditions referred to in *subsection (8)* of F65[*section 61*,]
+
+F66[and, in carrying out such a review, the Authority where, in its discretion, having regard to all the circumstances of the matter, the taking of such steps is considered by it to be appropriate, may take steps to ascertain whether a failure of the kind, in the particular respect there referred to, specified in *subsection (4)* has occurred on the part of the provider to comply with an enactment or an instrument under an enactment.]
+
+(2) Without prejudice to the generality of *subsection (1)*, the Authority shall carry out a review under that subsection of providers of F65[English language programmes] at least once every 3 years.
+
+(3) A provider subject to review under *subsection (1)* shall pay to the Authority within one month of the completion of the review such fee (if any) as may be determined by the Authority under *section 80*.
+
+(4) Upon a review under *subsection (1)*, where the Authority considers that—
+
+(*a*) a provider no longer complies with the code of practice, F67[...]
+
+(*b*) a condition referred to in *subsection (8)* of *section 61* is not being complied with,
+
+F66[(*c*) a provider has failed to comply with an enactment or instrument referred to in *section 29B(2)(c)* where such failure is in a respect which the Authority considers could be said to affect adversely the standing of the international education mark, or
+
+(*d*) a provider has failed to comply with any other enactment or instrument under an enactment where such failure is in a respect which the Authority considers could be said to affect adversely the standing of the international education mark among those seeking to receive education and training in the sector concerned,]
+
+the Authority shall, by notice in writing, inform the provider concerned that it proposes to withdraw the provider’s authorisation to use the international education mark, and state the reasons for the proposed withdrawal.
+
+(5) The notice under *subsection (4)* shall state that the provider may submit observations in writing to the Authority in relation to the reasons for the proposed withdrawal set out in the notice not later than one month after the service of the notice on the provider.
+
+(6) Where, after consideration of any observations submitted to the Authority under *subsection (5)*, the Authority continues to consider that *paragraph (a)* or *(b)* of *subsection (4)* applies, it shall withdraw the provider’s authorisation to use the international education mark by notice in writing addressed to the provider from such date (not earlier than the date of service on the provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice.
+
+(7) A notice under *subsection (6)* shall state the reasons for the withdrawal referred to in that subsection.
+
+F66[(7A) A provider may give notice in writing to the Authority that it no longer wishes to have authorisation to use the international education mark; on receipt of such a notice, the Authority may withdraw the provider’s authorisation to use that mark, without the need for a review, by notice in writing addressed to the provider.]
+
+(8) In carrying out a review under *subsection (1)* the Authority may have regard to any other review of the provider carried out under this Act, where that other review is relevant to the code of practice*.*
+
+(9) Where the Authority withdraws a provider’s authorisation to use the international education mark the provider may appeal against the withdrawal to the Appeals Panel.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 27(a)(i), (b), S.I. No. 426 of 2024.
+>
+> F66: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 27(a)(ii), (c)(ii), (d), S.I. No. 426 of 2024.
+>
+> F67: Deleted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 27(c)(i), S.I. No. 426 of 2024.
+
+## PART 6 Protection of Enrolled Learners — PART 6 — Protection of Enrolled Learners
+
+### 64. Interpretation and application of Part
+
+F68[**64.**— (1) This Part applies to—
+
+(*a*) subject to *paragraph (b)*, programmes of education and training of 3 months or longer duration, and
+
+(*b*) English language programmes.
+
+(2) In this Part—
+
+"annual charge" shall be construed in accordance with *section 65(1)*;
+
+"Learner Protection Fund" shall be construed in accordance with *section 66(1)*;
+
+"protected programme default event" means, in relation to a programme of education and training offered by a provider—
+
+(*a*) that will lead to an award that is an award included within the Framework, or
+
+(*b*) that is an English language programme,
+
+and (in either case) in respect of which programme the provider has accepted moneys from or on behalf of learners, the occurrence of the following circumstances namely—
+
+(i) the provider does not provide the programme for any reason, including by reason of the insolvency or winding up of the provider, or
+
+(ii) enrolled learners have begun but not completed the programme and the provider ceases to provide the programme before that programme is completed for any reason, including by reason of the insolvency or winding up of the provider.
+
+(3) Without prejudice to the generality of the definition of "protected programme default event" in *subsection (2)* - in the case of a programme of education and training leading to an award that is an award included within the Framework - a provider shall, for the purposes of that definition, be taken to have ceased to provide that programme if—
+
+(*a*) the Authority withdraws validation of that programme, or
+
+(*b*) a relevant awarding body, including an awarding body with awards included within the Framework, indicates that it is no longer willing to make that award in respect of that programme.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 28, S.I. No. 426 of 2024.
+
+### 65. Obligation of certain providers to pay annual charge into Learner Protection Fund
+
+F69[**65.**— (1) Subject to *subsections (6)* and *(7)*, if—
+
+(*a*) a relevant provider, an associated provider or a linked provider (each of which is referred to subsequently in this section as an "obligated provider") offers, for reward, a programme of education and training leading to an award that is an award included within the Framework, or
+
+(*b*) a provider offers, for reward, an English language programme (and such a provider is also referred to subsequently in this section as an "obligated provider"),
+
+it shall, in each year, pay into the Learner Protection Fund, such amount (referred to subsequently in this Part as the "annual charge") as is prescribed under *section 66A(1)*.
+
+(2) Subject to *subsection (3)*, the annual charge shall be paid into the Learner Protection Fund prior to the commencement of provision by the obligated provider of the programme concerned and prior to the acceptance by it of any payments by or on behalf of any learners for enrolment on that programme.
+
+(3) The Authority may, in its discretion, determine that the annual charge, to be paid into the Learner Protection Fund by a class of obligated provider specified in the determination, shall be so paid by such a provider not later than a time that is specified by the Authority in the determination, being a time that falls after either event referred to in *subsection (2)*, and such a provider shall, accordingly, pay the annual charge into the foregoing Fund no later than the time so specified.
+
+(4) References in this section and subsequent provisions of this Part to the payment into the Learner Protection Fund of the annual charge shall be construed as references to the payment of that charge to the Authority for the purpose of the Authority remitting the charge to that Fund (and any such charge so paid to the Authority shall be remitted by it to that Fund accordingly).
+
+(5) The Authority may require an obligated provider who is liable to pay the annual charge to provide any information that is relevant to determining the amount of the charge.
+
+(6) *Subsection (1)* shall not apply to a provider of a programme of education and training if the provider is—
+
+(*a*) a previously established university,
+
+(*b*) an educational institution established as a university under section 9 of the Act of 1997,
+
+(*c*) a technological university,
+
+(*d*) the Dublin Institute of Technology,
+
+(*e*) an Institute of Technology,
+
+(*f*) an educational institution designated under section 5 (inserted by section 52(e) of the Institutes of Technology Act 2006) of the Higher Education Authority Act 1971 as an institution of higher education for the purposes of that Act,
+
+(*g*) Solas,
+
+(*h*) the National Tourism Development Authority,
+
+(*i*) Teagasc,
+
+(*j*) An Bord Iascaigh Mhara,
+
+(*k*) an education and training board or an institution established and maintained by an education and training board,
+
+(*l*) the Institute of Public Administration,
+
+(*m*) a recognised school,
+
+(*n*) the Royal College of Surgeons in Ireland,
+
+(*o*) the Royal Irish Academy of Music,
+
+(*p*) Mary Immaculate College,
+
+(*q*) Marino Institute of Education, or
+
+(*r*) a body established—
+
+(i) by or under an enactment (other than the Companies Act 2014 or a former enactment relating to companies within the meaning of section 5 of that Act), or
+
+(ii) under the Companies Act 2014 (or a former enactment relating to companies within the meaning of section 5 of that Act) in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government.
+
+(7) If a provider referred to in *subsection (1)* ceases to provide, for reward, a programme referred to in *paragraph (a)* or *(b)* of that subsection, that subsection shall—
+
+(*a*) beginning with the year following the year in which the programme ceases to be so provided, and
+
+(*b*) in each year thereafter,
+
+provided there is not a resumption by the provider of the doing of the thing referred to in that subsection (whether in respect of the same programme or another programme falling within *paragraph (a)* or *(b)* of it), cease to apply to the provider.
+
+(8) Where an obligated provider receives moneys, more than 40 days before the commencement of the provision by it of a programme referred to in *subsection (1)*, from or on behalf of a learner in respect of that programme, the obligated provider shall establish an account with the holder of a licence (within the meaning of the Central Bank Act 1971) into which account it shall pay those moneys, and in respect of which account the provider ensures that an arrangement in writing, entered into between it and that holder (the "institution"), of the kind referred to in *subsection (9)* applies.
+
+(9) The arrangement referred to in *subsection (8)* is that the account concerned will operate by way of escrow and with the following incidents, that is to say—
+
+(*a*) the moneys concerned may not be drawn upon by the obligated provider unless and until the institution receives a written notification from the provider which contains a statement by the provider (accompanied by proof that, in the opinion of the institution, will enable the statement to be verified by it) that the programme concerned has commenced, and
+
+(*b*) in the event of the programme not being commenced, for any reason, the institution shall permit—
+
+(i) unless *subparagraph (ii)* applies, the whole of the moneys concerned, or
+
+(ii) such amount of the moneys concerned as remains after deduction, in the institution’s favour, of any charges for the making of the arrangement referred to in *subsection (8)* that have been agreed between the obligated provider and institution,
+
+to be drawn upon by the learner (or another acting on the learner’s behalf), and only the learner or another so acting, by way of refund or, as the case may be, partial refund.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 29, S.I. No. 426 of 2024.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: paragraph (5)(*f*) deleted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145 and sch. 4, S.I. No. 554 of 2022; substituted as per F-note above.
+>
+> E9: Previous affecting provision: paragraph (5)(*ba*) inserted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 97(b), S.I. No. 124 of 2018; substituted as per F-note above.
+>
+> E10: Previous affecting provision: para (5)(*i*) amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 61, S.I. No. 211 of 2013; substituted as per F-note above.
+
+### 65A. Existing enrolled learner protection arrangements - status and period for which such arrangements shall continue to have effect
+
+F70[**65A.**— (1) In this section—
+
+"previous *section 65*" means *section 65* as it stood enacted before the relevant commencement;
+
+"relevant commencement" means the date of commencement of section 29 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019;
+
+"relevant substitution" means the amendment, effected by section 29 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, in so far as it consists of the substitution, for the previous *section 65*, of a *section 65*.
+
+(2) Subject to *subsection (3)*, any arrangements put in place under the previous *section 65* by a provider (and subsisting immediately before the relevant commencement) shall, notwithstanding the relevant substitution, continue in being.
+
+(3) On the expiration of 3 years from the relevant commencement or such earlier date as may be appointed by order made by the Minister under *subsection (4)*, the arrangements referred to in *subsection (2)* shall cease to have effect.
+
+(4) The Minister, after consultation with the Authority, may, by order, appoint a date (earlier than the expiration of the period of 3 years referred to in that subsection) for the purposes of *subsection (3)* and different such dates may be appointed by an order or orders made under this subsection by the Minister in relation to different classes of provider specified in the order or orders.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 29, S.I. No. 426 of 2024.
+
+### 66. Protection of Enrolled Learners Fund
+
+F71[**66.**— (1) The Authority shall, in accordance with the requirements under *subsection (2)*, establish, maintain and operate a fund which shall be known as the "Protection of Enrolled Learners Fund" and is in this Act referred to as the "Learner Protection Fund".
+
+(2) Requirements shall be prescribed by the Minister, with the consent of the Minister for Public Expenditure and Reform, in relation to the establishment, maintenance and operation of the Learner Protection Fund. Requirements so prescribed may include requirements with respect to the exercise by the Authority of the power of defrayment (from moneys standing to the credit of the Learner Protection Fund) under *subsection (3)(a)* and *(b)*.
+
+(3) In the case of a protected programme default event, moneys standing to the credit of the Learner Protection Fund may be used by the Authority to—
+
+(*a*) defray the costs that will be incurred in the completion by the enrolled learner of the programme, the subject of that event (the "relevant programme"), where such completion is possible,
+
+(*b*) defray the payment of the fees required for the transfer of an enrolled learner onto a programme of another provider that is similar to the relevant programme,
+
+(*c*) if the Authority concurs with a submission in writing to it made by the enrolled learner (or another acting on the learner’s behalf) to the effect that compliance with *paragraph (a)* or *(b)* is not practicable in the particular case, refund to an enrolled learner, or to the person who paid the moneys on behalf of the enrolled learner, the moneys most recently paid in respect of the relevant programme, including, where payment in respect of such a period has been made, in respect of the current academic year.
+
+(4) In *subsection (3)(c)* "moneys" includes tuition fees, registration fees, examination fees, library fees, student services fees and any other fees paid by or on behalf of the learner to the provider (or any intermediary of it) in respect of enrolment on the relevant programme and which relate to the provision of education, training and related services.
+
+(5) Where—
+
+(*a*) a protected programme default event occurs, and
+
+(*b*) to the extent that the steps the Authority is authorised to take under subsection (3) would not result (or, if such steps have been taken by it, have not resulted) in a similar outcome for the learner concerned,
+
+the Authority shall make all reasonable efforts for the purpose specified in *subsection (6)* to ensure that an alternative programme of education, provided by another provider, is made available to each learner enrolled on the relevant programme.
+
+(6) The purpose referred to in *subsection (5)* is to ensure that the learner may have a reasonable opportunity to complete a programme of education and training similar to that commenced with the original provider.
+
+(7) The Authority may, for the purposes of defrayments (from moneys standing to the credit of the Learner Protection Fund) that are referred to in *subsection (3)(b)*, establish criteria by reference to which it shall determine whether a particular programme is a similar one to the relevant programme concerned. The Authority shall publish the criteria so established by it in such form and manner as it thinks appropriate (including on the internet).
+
+(8) The amount of any defrayment or refund (from moneys standing to the credit of the Learner Protection Fund) under *subsection (3)*, in relation to a protected programme default event, may be recovered from the provider of the relevant programme by the Authority as a simple contract debt in any court of competent jurisdiction.
+
+(9) Any amount recovered by the Authority under *subsection (8)* shall be paid into, or disposed of for the benefit of, the Exchequer in such manner as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(10) In addition to what is provided in the preceding subsections concerning payments from the Learner Protection Fund, the Authority—
+
+(*a*) may pay from moneys standing to the credit of the Fund such sums as it thinks appropriate to defray expenses incurred by it in the establishment, maintenance or operation of the Fund or incurred by it on the occasion of the performance by it of any other function under this Act, the performance of which, on the occasion concerned, the Authority is satisfied was, lawfully, for the purpose of the protection of enrolled learners (whether in general or in particular), and
+
+(*b*) shall pay to the Minister from moneys standing to the credit of the Fund, upon the Minister giving a direction in that behalf, such sums as the Minister considers appropriate and specifies in the direction for the purpose of repaying sums paid into the Fund under *section 66A(4)* (and moneys received by the Minister under this paragraph shall be paid into, or disposed of for the benefit of, the Exchequer in such manner as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine).
+
+(11) The Authority shall not later than 31 March in each year prepare and publish, in such form and manner as it considers appropriate, a report in respect of operation of the Learner Protection Fund during the preceding year and, in particular, in respect of the exercise, during that year, by the Authority of the power of defrayment or refund (from moneys standing to the credit of that Fund) under *subsection (3)*.
+
+(12) If the date of the establishment under *subsection (1)* of the Learner Protection Fund falls in the period from 1 October to the following 31 December, the first report under *subsection (11)* shall be prepared and published not later than the 31 March in the second year following the year in which that date of establishment day falls and shall relate to that last-mentioned year and the following year.
+
+(13) The Authority shall furnish a copy of a report under *subsection (11)* to the Minister and the Minister shall cause a copy of it to be laid before each House of the Oireachtas.
+
+(14) No information shall be included in a report under *subsection (11)* that could reasonably lead to the disclosure of the identity of any learner nor (in respect of a case of a refund dealt with in the report and which refund has been made to the person who paid the original moneys concerned on behalf of a learner) the identity of any other such person.
+
+(15) On the expiry of 5 years after the date of the establishment under *subsection (1)* of the Learner Protection Fund, and on every 5th anniversary thereafter, the Authority shall conduct a review of the operation of that Fund and in conducting that review shall invite, and have regard to, submissions from obligated providers in relation to that Fund’s operation and the matters specified in *subsection (16)* relating to the annual charge.
+
+(16) A review under *subsection (15)* shall extend to the consideration by the Authority of the annual charge and the extent to which the provision made by this Part for such a charge, and the amount thereof as it stands prescribed for the time being, enable the giving of effective financial assistance to enrolled learners in the circumstances specified in this Part.
+
+(17) The Authority shall prepare and publish a report setting out the results of a review under *subsection (15)* and *subsections (13)* and *(14)* shall apply to such a report as they apply to a report under *subsection (11)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 30, S.I. No. 426 of 2024.
+>
+> **Editorial Notes:**
+>
+> E11: Power pursuant to section exercised (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Learner Protection Fund) Regulations 2024* (S.I. No. 430 of 2024), in operation as per reg. 1(2).
+
+### 66A. Regulations in relation to payment of annual charges into Learner Protection Fund and related matters
+
+F72[**66A.**— (1) The Minister shall prescribe the amount of the annual charge to be paid, under *subsection (1)* of *section 65*, by each provider referred to in that subsection (in this section referred to as an "obligated provider").
+
+(2) The Minister may prescribe a different amount under *subsection (1)* in respect of different classes of obligated providers and different classes of programmes provided by obligated providers, and a class of programme may be defined in the regulations concerned by reference to the following matters:
+
+(*a*) the number of learners enrolled on the programme;
+
+(*b*) the number of international learners enrolled on the programme;
+
+(*c*) the duration of the programme;
+
+(*d*) the level of the fees charged in respect of the programme; or
+
+(*e*) any other matter that the Minister considers to be relevant, having regard to the functions conferred on the Authority by *section 66(3)* and *(5)* and the desirability of there being an adequate amount of moneys standing to credit of the Learner Protection Fund.
+
+(3) In addition to the annual charge, there shall be payable by an obligated provider into the Learner Protection Fund such amount as is prescribed if the provider fails to pay into that Fund the annual charge by a date prescribed by reference to the requirement of *subsection (2)* or *(3)*, as the case may be, of *section 65*; the reference in this subsection to the foregoing prescribed amount being payable into the Learner Protection Fund shall be construed as a reference to that amount being payable to the Authority for the purpose of the Authority remitting the amount to that Fund (and any such amount that is so payable to the Authority, and paid to it, shall be remitted by it to that Fund accordingly).
+
+(4) The Minister, with the consent of the Minister for Public Expenditure and Reform, may pay into the Learner Protection Fund, out of moneys provided by the Oireachtas, such sums as the Minister thinks appropriate.
+
+(5) Where default is made in payment of the amount of the annual charge or the amount referred to in *subsection (3)*, the amount may be recovered from the obligated provider concerned by the Authority as a simple contract debt in any court of competent jurisdiction, and any amount recovered by the Authority under this subsection shall be remitted by it to the Learner Protection Fund.
+
+(6) Where a protected programme default event occurs, the provider of the programme, the subject of that event, shall notify the Authority in writing of that event within 2 working days after that event’s occurrence.
+
+(7) The notification under *subsection (6)* shall include the following:
+
+(*a*) details of the circumstances under which the provider has ceased to provide the programme;
+
+(*b*) details of the learners enrolled on the programme;
+
+(*c*) details of the programme that the provider has ceased to provide;
+
+(*d*) an indication as to whether the provider intends to discharge its obligations by arranging for the learners enrolled on the programme to transfer to a similar programme provided by another provider at the expense of the provider, or the repayment of moneys most recently paid by or on behalf of the learners.
+
+(8) References in *subsection (7)* to a programme having ceased to be provided by the provider shall be deemed to include references to each of the cases referred to in *subsection (3)* of *section 64* in which, by virtue of that *subsection (3)*, a provider is to be taken, for the purposes of the related definition in *subsection (2)* of that section, to have ceased to provide a programme.
+
+(9) At the time the provider gives the notification under *subsection (6)* in relation to a protected programme default event, it shall also notify, in writing, the learners enrolled on the programme, the subject of that event, of that event.
+
+(10) A notification given under *subsection (6)* or *(9)* shall comply with any requirements prescribed by the Minister.
+
+(11) If a provider of a programme (the "alternative programme") that is similar to the relevant programme referred to in *paragraph (b)* of *section 66(3)* offers a learner referred to in that *paragraph (b)* a place on the alternative programme, the learner may accept the offer.
+
+(12) Subject to *subsection (13)*, such an acceptance by the learner shall be in writing and be made within a period of 30 days from the date of the offer, after which time the offer shall be regarded as having lapsed.
+
+(13) If the Authority considers that exceptional circumstances apply in a particular case, *subsection (12)* shall, with the assent of the provider of the alternative programme and the learner, have effect in that case with the substitution, for the period specified in that subsection, of such shorter or longer period than that period as the Authority determines.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Inserted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 31, S.I. No. 426 of 2024.
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (1.01.2026) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Protection of Enrolled Learners Annual Charge) Regulations 2025* (S.I. No. 628 of 2025), in operation as per reg. 1(2).
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.09.2024 for period to 1.09.2027 unless order made under s. 65A(4)) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Protection of Enrolled Learners Annual Charge) Regulations 2024* (S.I. No. 428 of 2024), in operation as per reg. 1(2); revoked (1.01.2026) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Protection of Enrolled Learners Annual Charge) Regulations 2025* (S.I. No. 628 of 2025), reg. 1(3), in operation as per reg. 1(2).
+
+### 67. Obligation on providers to furnish information to enrolled learners.
+
+**67**.— (1) A provider shall, before commencing a programme of education and training and before accepting any payment from or on behalf of an enrolled learner in respect of the programme, notify the enrolled learner in writing of the following:
+
+(*a*) where completion of the programme by the learner and attainment by the learner of a specified standard of knowledge, skill or competence upon such completion entitles the learner to an award—
+
+(i) the name of the awarding body or, where appropriate, awarding bodies making the award,
+
+(ii) the title of the award, and
+
+(iii) whether F73[the award is one that is included within the Framework], and if so—
+
+F73[(I) the level at which the award is included within the Framework, and]
+
+(II) whether the award is a Major, Minor, Special Purpose or Supplemental award as identified within the Framework;
+
+(*b*) where completion of the programme by the learner and the attainment by the learner of a specified standard of knowledge, skill or competence upon such completion does not entitle the learner to an award, that fact;
+
+(*c*) where the provider is required to have procedures for access, transfer and progression in place under *section 56*, a statement of how those procedures apply to that programme;
+
+(*d*) where the provider is required to have arrangements in place under *section 65*, details of the arrangements the provider has in place under *subsection (4)* of that section.
+
+(2) A provider to whom *subsection (1)* applies shall notify the enrolled learner in writing of any change in the information notified to the learner under *subsection (1)* within 14 days after becoming aware of that change.
+
+(3) A provider who—
+
+(*a*) fails to comply with *subsection (1)* or *(2)*, or
+
+(*b*) in purported compliance with *subsection (1)* or *(2)*, provides an enrolled learner with information which is false or misleading in a material respect,
+
+commits an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 32(a), (b), S.I. No. 426 of 2024.
+
+## PART 7 Appeals — PART 7 — Appeals
+
+### 68. Appeals Panel.
+
+**68**.— (1) The Minister shall, as soon as practicable after the establishment day, establish an Appeals Panel and shall appoint at least 10 people with a special interest or expertise in, or knowledge of, education and training or the functions of the Authority (other than members of the Authority or staff of the Authority) to be members of that Panel.
+
+(2) A person shall not be appointed to an Appeals Panel if he or she is a person to whom any of *paragraphs (a)* to *(f)* of *subsection (10)* is applicable.
+
+(3) A member of the Appeals Panel shall hold office for such period, not exceeding 5 years from the date of his or her appointment, as the Minister determines.
+
+(4) The Minister shall appoint a chairperson of the Appeals Panel from among the members of the Appeals Panel.
+
+(5) A member of the Appeals Panel whose term of membership of the Appeals Panel expires shall be eligible for reappointment as a member of the Panel.
+
+(6) A member of the Appeals Panel is entitled to be paid such remuneration, fees or allowances for expenses as the Minister, with the consent of the Minister for Public Expenditure and Reform, determines.
+
+(7) A member of the Appeals Panel may at any time resign from office by giving notice in writing to the Minister of his or her resignation.
+
+(8) A resignation under *subsection (7)* takes effect on the day on which the Minister receives the notice.
+
+(9) The Minister may at any time remove from office a member of the Appeals Panel if, in the opinion of the Minister—
+
+(*a*) the member has become incapable through ill-health of effectively performing his or her functions,
+
+(*b*) the member has committed stated misbehaviour, or
+
+(*c*) the removal of the member appears to the Minister to be necessary for the effective performance by the Appeals Panel of its functions.
+
+(10) A member of the Appeals Panel shall cease to be qualified for office and shall cease to hold office if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is sentenced by a court of competent jurisdiction to a term of imprisonment,
+
+(*d*) is convicted of any indictable offence in relation to a company,
+
+(*e*) is convicted of an offence involving fraud or dishonesty, or
+
+(*f*) is the subject of an order under section 160 of the Companies Act 1990.
+
+(11) If a member of the Appeals Panel dies, resigns, ceases to be qualified for office or is removed from office, the Minister may appoint a person to be a member of the Appeals Panel to fill the casual vacancy so occasioned.
+
+(12) A person appointed to be a member of the Appeals Panel pursuant to *subsection (11)*—
+
+(*a*) holds office for so much of the term of office of the member who occasioned the casual vacancy concerned as remains unexpired at the date of the appointment, and
+
+(*b*) is eligible for reappointment as a member of the Panel on the expiry of that period.
+
+(13) The Appeals Panel is independent in the performance of its functions.
+
+### 69. Determination of appeal by Appeals Board.
+
+**69**.— (1) An appeal—
+
+(*a*) shall be lodged with the Appeals Panel within the time provided for by procedures prescribed under *section 70*, and
+
+(*b*) shall state the grounds for the appeal.
+
+(2) An appeal shall be accompanied by such fee (if any) as may be determined by the Authority under *section 80*.
+
+(3) Upon receipt by the Appeals Panel of an appeal, an Appeals Board of 3 persons shall be appointed by the chairperson of the Appeals Panel from among the members of the Panel to determine the appeal.
+
+(4) The chairperson of an Appeals Board shall be appointed by the chairperson of the Appeals Panel from among the members of the Board and that chairperson shall regulate the procedure of the Board.
+
+(5) An Appeals Board may refuse to hear an appeal where, in the opinion of the Board, the appeal lodged is not made in good faith or is frivolous or vexatious.
+
+(6) An Appeals Board may hold such hearings as it considers necessary for the purpose of determining an appeal.
+
+(7) Each of the parties to an appeal is entitled to be heard at the hearing and to present evidence to the Appeals Board.
+
+(8) An Appeals Board may adjourn the hearing by it of a matter until a date specified by it.
+
+(9) A decision by a majority of the members of an Appeals Board shall suffice for any purpose.
+
+(10) In determining an appeal, an Appeals Board may—
+
+(*a*) affirm the decision of the Authority, or
+
+(*b*) quash the decision of the Authority and direct the Authority, for stated reasons, to reconsider its decision.
+
+(11) An Appeals Board shall communicate its determination under *subsection (10)*, including the reasons under *paragraph (b)* of that subsection, to the provider who brings the appeal, the Authority and the Appeals Panel.
+
+(12) The Authority shall comply with a direction given to it under *subsection (10)(b)*.
+
+(13) An Appeals Board is independent in the performance of its functions.
+
+### 70. Appeal procedures.
+
+**70**.— (1) Procedures shall be prescribed for the hearing and determination of the appeals provided for in this Act, following consultation with the Appeals Panel and the Authority, as soon as practicable after the appointment of the Appeals Panel.
+
+(2) Different procedures may be prescribed under *subsection (1)* for appeals under different provisions.
+
+(3) Without prejudice to the generality of *subsection (1)*, procedures prescribed under this section may—
+
+(*a*) specify the forms to be used for bringing an appeal,
+
+(*b*) specify the time within which an appeal shall be brought after the date of the decision of the Authority that is being appealed,
+
+(*c*) specify the time within which an appeal shall be heard,
+
+(*d*) specify the information which shall be provided to the Appeals Panel,
+
+(*e*) require specified notifications to be given in respect of the bringing of an appeal,
+
+(*f*) specify the period within which the Appeals Board hearing the appeal shall, from the date of completion by it of a hearing or hearings in relation to an appeal, make its determination in relation to the matter.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to section exercised (21.11.2025) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2025* (S.I. No. 545 of 2025), in operation as per reg. 1(2).
+>
+> E15: Previous affecting provision: power pursuant to section exercised (8.11.2014) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2014* (S.I. No. 503 of 2014), in operation as per reg. 1(2); revoked (21.11.2025) by *Qualifications and Quality Assurance (Education and Training) Act 2012 (Appeals) Regulations 2025* (S.I. No. 545 of 2025), reg. 1(3), in operation as per reg. 1(2).
+
+## PART 8 Dissolution of Bodies — PART 8 — Dissolution of Bodies
+
+### 71. Dissolution of National Qualifications Authority of Ireland, Higher Education and Training Awards Council and Further Education and Training Awards Council.
+
+**71**.— (1) Subject to *section 85*, the National Qualifications Authority of Ireland, the Higher Education and Training Awards Council and the Further Education and Training Awards Council (each of which is referred to in this Act as a “dissolved body”) are dissolved.
+
+(2) References in any enactment (other than this Act) or instrument under an enactment, or in the memorandum or articles of association of any company or in any other legal document to a dissolved body, or a reference that is under section 33(2) of the Act of 1999 to be construed as a reference to a dissolved body, shall be construed as a reference to the Authority.
+
+(3) This section shall come into operation on the establishment day.
+
+### 72. Liability for loss occurring before establishment day.
+
+**72**.— (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the establishment day of the functions of a dissolved body shall on and after that day lie against the Authority and not against the dissolved body.
+
+(2) Where immediately before the establishment day, any legal proceedings are pending in any court or tribunal to which a dissolved body is a party, the name of the Authority shall be substituted for that of the dissolved body and the proceedings shall not abate by reason of such substitution.
+
+(3) Where, before the establishment day, agreement has been reached between the parties concerned in settlement of a claim to which *subsection (1)* relates and the terms of the agreement have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, then the terms of the agreement or judgment, as the case may be, shall, in so far as they would have been enforceable against a dissolved body, be enforceable against the Authority and not the dissolved body.
+
+(4) Any claim made or proper to be made by a dissolved body in respect of any loss or injury arising from the act or default of any person before the establishment day shall on and after that day be regarded as having been made by or proper to be made by the Authority and may be pursued and sued for by the Authority as if the loss or injury had been suffered by the Authority.
+
+### 73. Transfer of land and other property to Authority.
+
+**73**.— (1) On the establishment day, all lands that, immediately before that day, were vested in a dissolved body and all rights, powers and privileges relating to or connected with such lands shall, without any conveyance or assignment, stand vested in the Authority for all the estate and interest therein that, immediately before the establishment day was vested in the dissolved body, but subject to all trusts and equities affecting the lands continuing to subsist and capable of being performed.
+
+(2) On the establishment day all property (other than land), including choses-in-action, that, immediately before that day, was vested in a dissolved body shall stand vested in the Authority without any assignment.
+
+(3) Every chose-in-action vested in the Authority by virtue of *subsection (2)* may, on and from the establishment day, be sued on, recovered or enforced by the Authority in its own name, and it shall not be necessary for the Authority to give notice to any person bound by the chose-in-action of the vesting effected by that subsection.
+
+### 74. Transfer of rights and liabilities, and continuation of leases, licences and permissions granted by dissolved body.
+
+**74**.— (1) All rights and liabilities of a dissolved body arising by virtue of any contract or commitment (expressed or implied) entered into by it before the establishment day shall on that day stand transferred to the Authority.
+
+(2) Every right and liability transferred by *subsection (1)* to the Authority may, on and after the establishment day, be sued on, recovered or enforced by or against the Authority in its own name, and it shall not be necessary for the Authority to give notice of the transfer to the person whose right or liability is transferred by that subsection.
+
+(3) Every lease, licence, wayleave or permission granted by a dissolved body in relation to land or other property vested in the Authority by or under this Act, and in force immediately before the establishment day, shall continue in force on and after that day as if granted by the Authority.
+
+### 75. Provisions consequent upon transfer of assets and liabilities to Authority.
+
+**75**.— (1) Anything commenced and not completed before the establishment day by or under the authority of a dissolved body may, in so far as it relates to a function transferred to the Authority under this Act, be carried on or completed on or after the establishment day by the Authority.
+
+(2) Any money, stocks, shares or securities transferred by *section 73* that immediately before the establishment day were standing in the name of a dissolved body shall, on the request of the Authority, be transferred into its name.
+
+(3) A certificate signed by the Minister that any property, right or liability has or, as the case may be, has not vested in the Authority under *section 73* or *74* shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
+
+(4) A document which purports to be a certificate signed by the Minister referred to in *subsection (3)* shall be taken to be such a certificate unless the contrary is shown.
+
+### 76. Records of dissolved bodies.
+
+**76**.— Each record held by a dissolved body immediately before the establishment day is on that day transferred to the Authority and is, on and from that day, held by the Authority.
+
+### 77. Final accounts and final report of dissolved bodies.
+
+**77**.— (1) The Authority shall prepare, in respect of the period specified under *subsection (3)*, final accounts for each dissolved body.
+
+(2) The Authority shall submit the final accounts to the Comptroller and Auditor General for audit within 3 months of the establishment day.
+
+(3) For the purposes of *subsection (1)*, the Minister may specify a period that is longer or shorter than a financial year of the dissolved body concerned.
+
+(4) The Authority shall prepare a final report for each dissolved body and shall submit the report to the Minister within 6 months of the establishment day.
+
+(5) The Minister shall, as soon as may be after receiving a final report under *subsection (4)*, cause copies of the report to be laid before each House of the Oireachtas.
+
+(6) The Authority shall arrange for the final reports for each dissolved body to be published on the internet as soon as practicable after copies of the report are so laid.
+
+## PART 9 Miscellaneous Provisions — PART 9 — Miscellaneous Provisions
+
+### 78. Register of providers.
+
+**78**.— (1) The Authority shall establish and maintain a register to be known as the Register of Providers (in this Act referred to as the “register”).
+
+(2) The Authority shall enter the information set out in *subsection (3)* in the register in respect of each provider—
+
+(*a*) who is authorised to use the international education mark,
+
+(*b*) who has arrangements in place in accordance with *section 65*.
+
+(3) The information referred to in *subsection (2)* is—
+
+(*a*) the provider’s name, address and contact details,
+
+(*b*) whether the provider is authorised to use the international education mark,
+
+(*c*) in the case of a provider with arrangements in place in accordance with *section 65*, in relation to each programme of education and training—
+
+(i) the name of the programme provided, and
+
+(ii) details of the arrangements the provider has in place under *subsection (4)* of that section.
+
+(4) If a particular entered in the register is incorrect or has ceased to be correct, the provider to which the entry relates shall, as soon as may be after becoming aware of its being incorrect, inform the Authority accordingly.
+
+(5) The Authority shall, upon becoming aware that any particular entered in the register is incorrect or has ceased to be correct, make such alterations to the register as it considers necessary.
+
+(6) The Authority shall make the register available for inspection by members of the public at all reasonable times at its principal office and shall also publish the register on the internet.
+
+### 79. Database.
+
+**79**.— (1) The Authority shall establish and maintain a database providing information on—
+
+F74[(*a*) awards that are awards included within the Framework,
+
+(*b*) programmes of education and training which lead to awards that are awards included within the Framework, other than post-primary schooling leading to the sitting of the Junior Certificate or Leaving Certificate examination or any examination prescribed under section 50(2) of the Education Act 1998, and]
+
+(*c*) any other programmes the Authority thinks appropriate.
+
+(2) The database shall include the following information:
+
+(*a*) F74[in relation to an award that is an award included within the Framework]—
+
+(i) the name of the award,
+
+(ii) the awarding body, or where appropriate, awarding bodies making the award,
+
+F74[(iii) the level at which the award is included within the Framework for the time being, and
+
+(iv) the award type and class of award as identified within the Framework for the time being;]
+
+(*b*) in relation to a programme of education and training—
+
+(i) the name of the provider of the programme,
+
+(ii) the title of the programme,
+
+(iii) the duration of the programme,
+
+(iv) the award made if the programme is successfully completed,
+
+(v) the awarding body, or where appropriate, awarding bodies making the award if the programme is successfully completed,
+
+(vi) whether the award made in respect of F74[the programme is one that is included within the Framework], and if so—
+
+(I) the level at which F74[the award is included within the Framework], and
+
+F74[(II) the award type and class of award as identified within the Framework for the time being,]
+
+(vii) where procedures for quality assurance have been established by a provider of the programme, the name of the person, other than that provider, who reviews those procedures, and
+
+(viii) whether the provider of that programme is authorised to use the international education mark.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Substituted (1.09.2024) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 33(1), (2)(a), (b), S.I. No. 426 of 2024.
+
+### 80. Fees.
+
+**80**.— (1) The Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, determine the fees payable by a provider or a learner, as the case may be, to the Authority for—
+
+F75[(*a*) a request under *section 29B(4)*,]
+
+F76[(*aa*) the submission of quality assurance procedures to the Authority for approval under *section 30*,]
+
+(*b*) a review undertaken under *section 34*,
+
+(*c*) the assistance of the Authority in carrying out a review at the request of a designated awarding body under *section 37(3)*,
+
+(*d*) a review under *section 40*,
+
+(*e*) an application for validation of a programme or class of programme of education and training under *section 44*,
+
+(*f*) a review under *section 46*,
+
+(*g*) the making of an award by the Authority under *section 50*,
+
+(*h*) an application under *section 52(3)*,
+
+(*i*) a request for delegation of authority to make an award under *section 52*,
+
+(*j*) a review under *section 54*,
+
+F76[(*ja*) an application under *section 55C(4)*,
+
+(*jb*) the benefit of a decision under *section 55D*,
+
+(*jc*) the continuing benefit of a decision under *section 55D*,
+
+(*jd*) a review under *section 55G*,]
+
+(*k*) the submission of procedures for access, transfer and progression in relation to learners for approval under *section 56*,
+
+(*l*) a review under *section 57*,
+
+(*m*) an application for authorisation to use the international education mark under *section 61*,
+
+(*n*) a review under *section 63*,
+
+(*o*) lodging an appeal under *section 69*.
+
+(2) The fees determined under *subsection (1)* shall be paid in the time and manner specified by the Authority.
+
+(3) The Authority may, in relation to different applications, requests, submissions and reviews, or different classes of applications, requests, submissions and reviews, provide for—
+
+(*a*) different fees,
+
+(*b*) exemptions from the payment of fees in specified circumstances, and
+
+(*c*) waivers, remissions or refunds (wholly or partly) of fees in specified circumstances.
+
+(4) The Authority may, in providing for different fees, exemptions, waivers, remissions or refunds referred to in *subsection (3)*, have regard to the amount and complexity of the work involved in considering the applications, requests, submissions and conducting reviews, taking into account the size of the provider concerned.
+
+F75[(5) The Authority may provide for the payment of—
+
+(*a*) reduced fees, under this section, having regard to the method of payment of the fees, and
+
+(*b*) a single fee, under this section, in respect of the doing by it (or, as appropriate, the doing by another) of 2 or more things referred to in *subsection (1)*, being a fee that is of a lower amount than the amount of the individual fees (when aggregated) that would otherwise be payable in respect of the doing of those 2 or more things.]
+
+(6) The Authority shall arrange for the publication on the internet of fees payable as soon as practicable after the fees have been determined under *subsection (1)*.
+
+(7) The Authority may recover any amount due and owing to it under this section from the provider or learner, as the case may be, by whom it is payable as a simple contract debt in any court of competent jurisdiction.
+
+(8) The Authority may amend the fees determined under *subsection (1)* to take account of any change in the consumer price index since the determination of the fees for the time being in force, without the necessity for the consent of the Minister or the Minister for Public Expenditure and Reform under *subsection (1)*.
+
+(9) For the purposes of this section, “change in the consumer price index” means the difference between—
+
+(*a*) the All Items Consumer Price Index Number last published by the Central Statistics Office before the date of the last determination under this section, and
+
+(*b*) that Number last published before the date of the amendment under *subsection (8)*,
+
+expressed as a percentage of the first-mentioned number.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 34(a)(i), (b), S.I. No. 540 of 2019.
+>
+> F76: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 34(a)(i), (ii), S.I. No. 540 of 2019.
+
+### 81. Provider not to be described as “institute of technology” or “regional technical college”.
+
+**81**.— (1) The words “institute of technology” or “regional technical college” shall not, without the approval of the Minister, be used to describe a provider of a programme of education and training.
+
+(2) *Subsection (1)* shall not apply to a provider of a programme of education and training where the provider was established and described as an “institute of technology” or “regional technical college” before 11 June 2001.
+
+(3) The Minister may apply to the High Court for an order to restrain a person from using the words “institute of technology” or “regional technical college” in contravention of *subsection (1)*.
+
+### 82. Charter of Institute of Technology.
+
+**82**.— (1) An Institute of Technology to which authority to make an award has been delegated under *section 53* shall have a charter.
+
+(2) The Minister may make regulations for the purposes of specifying the matters to be included in a charter referred to in *subsection (1)*.
+
+(3) Without prejudice to the generality of *subsection (2)*, regulations made under that subsection may specify all or any of the following:
+
+(*a*) arrangements for consultation and co-operation with the community, including commercial and industrial interests in that community, in the region served by the Institute of Technology concerned;
+
+(*b*) criteria for determining the level of demand for particular programmes of education and training;
+
+(*c*) policy in respect of adult and continuing education and the arrangements established for the provision of such education, including part-time and evening programmes;
+
+(*d*) arrangements for the implementation of procedures for access, transfer and progression in relation to learners approved by the Authority under *section 56*;
+
+(*e*) arrangements for the promotion and use of the Irish language and the promotion of the distinctive cultures of Ireland;
+
+(*f*) quality assurance procedures the Institute of Technology has in place for its programmes of education and training;
+
+(*g*) any other matter which the Minister considers appropriate for the purposes of a charter.
+
+(4) Regulations made under *subsection (2)* may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of those regulations.
+
+(5) In preparing a charter, the governing body of an Institute of Technology—
+
+(*a*) shall consult with the Authority in such manner as the Authority directs,
+
+(*b*) shall consult, in such manner as the governing body thinks appropriate, with the academic council, the academic staff and other staff of the Institute, any recognised trade union or staff association, and any recognised student union or other student representative body, and
+
+(*c*) may consult with any other person which the governing body considers appropriate.
+
+(6) The governing body of an Institute of Technology shall submit a draft of a charter to the Minister and request that the Minister recognise the charter.
+
+(7) The Minister may, by order, recognise the charter submitted under *subsection (6)* where he or she is satisfied that the charter is not in conflict with this Act or with the Institutes of Technology Acts 1992 to 2006.
+
+(8) An order made under *subsection (7)* shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under the charter recognised by the order.
+
+(9) The Minister shall consult with the relevant Institute of Technology before revoking an order made under *subsection (7)*.
+
+### 83. Service of documents.
+
+**83**.— (1) A notice or other document that is required to be served on or given to a person under this Act may be so served on or given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, if the person has given an address for service, at that address; or
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, if the person has given an address for service, to that address.
+
+(2) Where the address at which a person ordinarily resides cannot be ascertained by reasonable inquiry and notice is required to be served on, or given to, the person in respect of any premises, the notice may be served by affixing it in a conspicuous position on or near the premises.
+
+(3) Where the name of the person concerned cannot be ascertained by reasonable inquiry, a notice under this Act may be addressed to “the occupier”, “the owner” or “the person in charge”, as the case may be.
+
+(4) *Subsection (2)* shall not apply to a notice that is required to be served on or given to—
+
+(*a*) the Authority,
+
+(*b*) the Minister, or
+
+(*c*) a learner under *section 67*.
+
+(5) A person shall not at any time during the period of 3 months after a notice is affixed under *subsection (2)* remove, damage or deface the notice without lawful authority.
+
+(6) A person who contravenes *subsection (5)* commits an offence.
+
+(7) For the purpose of this section, a company shall be taken to be ordinarily resident at its registered office, and any other body corporate or unincorporated body of persons shall be taken to be ordinarily resident at its principal office or place of business.
+
+## PART 10 Transitional and Savings Provisions for Act of 1999 and Amendments of other Acts — PART 10 — Transitional and Savings Provisions for Act of 1999 and Amendments of other Acts
+
+### 84. Transitional and savings provision for Act of 1999.
+
+**84**.— (1) F77[Subject to *subsections (1A)* and *(1B)*, where] a relevant provider, other than a previously established university, has established and agreed quality assurance procedures under section 18, 28, 39 or 42 of the Act of 1999, and those procedures were in force immediately before the coming into operation of *section 28*, then, on that coming into operation, those procedures shall continue in force as if they had been established under that section and this Act shall apply accordingly.
+
+F78[(1A) The provision made by *subsection (1)* for the continuance in force of the procedures referred to in that subsection shall, in relation to the procedures subsequently mentioned in this subsection, cease to apply (and, accordingly, those procedures shall no longer be taken to be in force as if they had been established under *section 28*) in either—
+
+(*a*) the following circumstances—
+
+(i) a period of 3 years from the commencement of section 35 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019 has expired, and
+
+(ii) the relevant provider concerned has not, within that period, submitted a copy of the procedures to the Authority for approval under *section 30*,
+
+or
+
+(*b*) the following circumstances—
+
+(i) the relevant provider concerned has, within the foregoing period, done that which is referred to in *paragraph (a)(ii)*, and
+
+(ii) either—
+
+(I) the Authority refuses to approve under *section 30* the procedures submitted to it and the period prescribed under *section 70* for lodging with the Appeals Panel, in accordance with *section 69*, an appeal against that refusal has expired without such an appeal being so lodged, or
+
+(II) the Authority refuses to approve under *section 30* the procedures submitted to it, an appeal against that refusal has, in accordance with *section 69*, been lodged with the Appeals Panel within the period so prescribed and an Appeals Board either affirms the decision of the Authority or directs it to reconsider its decision and, in the latter case, the Authority, on such reconsideration, again refuses to approve under *section 30* the procedures submitted to it.
+
+(1B) The provisions of *section 30* shall apply to a copy of procedures submitted to the Authority, as mentioned in *subsection (1A)*, as they apply to a draft of proposed procedures referred to in *subsection (1)* of *section 30* that is submitted to the Authority.]
+
+(2) Where a previously established university has established quality assurance procedures under section 35 of the Act of 1997, and those procedures were in force immediately before the coming into operation of *section 28*, then, on that coming into operation, those procedures shall continue in force as if they had been established under that section and this Act shall apply accordingly.
+
+(3) A review under—
+
+(*a*) section 18(4), section 28(4), section 39(4) or section 42(4) of the Act of 1999, or
+
+(*b*) section 35(4) of the Act of 1997,
+
+which is in the process of being conducted, shall, on the coming into operation of *section 34*, be a review for the purposes of that section and this Act shall apply accordingly.
+
+(4) F77[Subject to *subsections (4A)* to *(4C)*, where] a programme of education and training has been validated by the Further Education and Training Awards Council or the Higher Education and Training Awards Council under section 15 or 25 of the Act of 1999, as the case may be, and that validation has not been withdrawn before the coming into operation of *section 45*, then on that coming into operation—
+
+(*a*) the programme shall be taken to have been validated by the Authority under *section 45*, and
+
+(*b*) any conditions imposed under subsection (4) of section 15 or subsection (4) of section 25, of the Act of 1999, shall be taken to be conditions imposed under *section 45(2)*,
+
+and this Act shall apply accordingly.
+
+F78[(4A) On the making of a determination by the Authority under *subsection (4B)*, *subsection (4)(a)* shall continue to have effect in relation to a programme of education and training for the period that is specified in the determination and, subject to *subsections (4B)* and *(4C)*, for no longer (and, accordingly, that programme shall, subject to those subsections, no longer be taken to be validated by the Authority under *section 45* on the expiry of such period).
+
+(4B) For the purpose of limiting, subsequent to the commencement of section 35 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, the continued effect of *subsection (4)(a)* in relation to a programme of education and training, the Authority shall, on or after that commencement, determine the period (being a period that shall be specified in the determination and expressed to begin on the making of the determination) for which *subsection (4)(a)* shall continue to have effect in relation to a programme of education and training, but *subsection (4C)* applies so as to provide that, in the circumstances specified in that subsection and in relation to the learner there referred to, a programme of education and training shall, for the purposes of this Act, be deemed to be validated notwithstanding the fact that the foregoing period has expired.
+
+(4C) In circumstances in which a learner—
+
+(*a*) is enrolled on a programme of education and training before the expiry of the period specified, in a determination under *subsection (4B)*, with respect to that programme, and
+
+(*b*) completes, in accordance with its terms, that programme after that expiry,
+
+that programme shall, in relation to that learner, be deemed to be validated for the purposes of this Act notwithstanding the expiry of the period so specified.]
+
+(5) Where an application for validation of a programme of education and training has been made under section 15(1) or section 25(1) of the Act of 1999 but on the coming into operation of *section 44* no decision has been made by the Further Education and Training Awards Council or the Higher Education and Training Awards Council in respect of the application, that application shall continue under *section 44* and this Act shall apply accordingly.
+
+(6) After the coming into operation of *section 44*, and until the Authority establishes the policies and criteria for the validation of programmes of education and training under that section, the policies and criteria for validation established under section 14(1)(*a*)(ii) or section 23(1)(*a*)(ii) of the Act of 1999, as the case may be, shall continue to apply in relation to an application for validation under *section 44*.
+
+(7) A review under section 16 or 26 of the Act of 1999 which is in the process of being conducted, shall, on the coming into operation of *section 46*, be a review for the purposes of that section and this Act shall apply accordingly.
+
+(8) A further education and training award made by the Further Education and Training Awards Council under section 14(1)(*c*) of the Act of 1999 before the coming into operation of *section 50* shall, on the coming into operation of that section, be taken to be an award made by the Authority under that section.
+
+(9) A higher education and training award made by the Higher Education and Training Awards Council under section 23(1)(*c*) of the Act of 1999 before the coming into operation of *section 50* shall, on the coming into operation of that section, be taken to be an award made by the Authority under that section.
+
+(10) After the coming into operation of *section 50*, and until the Authority in accordance with *section 49(1)* determines the standards of knowledge, skill or competence to be acquired, and where appropriate, demonstrated, by a learner before an award may be made by the Authority or by a provider to whom authority to make an award has been delegated, standards of knowledge, skill or competence to be acquired by a learner determined under section 14(1)(*b*) or section 23(1)(*b*) of the Act of 1999, as the case may be, shall continue to apply before an award may be made by the Authority under *section 50* or by a provider to whom authority to make an award has been delegated.
+
+(11) After the coming into operation of *section 50*, and until the Authority in accordance with *subsection (1)* of that section establishes policies and criteria for the making of awards by the Authority and a provider to whom authority to make an award has been delegated, policies and criteria for the making of awards established under section 14(1)(*a*)(i) or 23(1)(*a*)(i) of the Act of 1999, as the case may be, shall continue to apply to the making of an award by the Authority under *section 50*.
+
+(12) Where authority to make a further education and training award or a higher education and training award has been delegated to a provider under section 19(5) or 29(5) of the Act of 1999 and—
+
+(*a*) the authority has not been withdrawn under section 20 or section 30 of that Act as the case may be, or
+
+(*b*) a decision to withdraw the authority has been overturned by the National Qualifications Authority of Ireland on appeal under the Act of 1999,
+
+before the coming into operation of *section 53*, then, on that commencement—
+
+(i) that authority shall be taken to have been delegated under *section 53*,
+
+(ii) any conditions imposed under section 19, other than conditions referred to in paragraphs (*a*) to (*d*) of subsection (6) of that section, or section 29, other than conditions referred to in paragraphs (*a*) to (*d*) of subsection (6) of that section, of the Act of 1999 shall be taken to be conditions imposed by the Authority under *section 53(4)(b)*, and
+
+(iii) any conditions referred to in paragraphs (*a*) to (*d*) of subsection (6) of section 19, or in paragraphs (*a*) to (*d*) of subsection (6) of section 29, of the Act of 1999, shall be taken to be conditions imposed by the Authority under *section 53(4)(a)*,
+
+and this Act shall apply accordingly.
+
+(13) Where a request has been made under section 19(1) or section 29(1) of the Act of 1999 for delegated authority to make an award but on the coming into operation of *section 52* no decision has been made by the Further Education and Training Awards Council or the Higher Education and Training Awards Council in respect of that request, that request shall be taken to be a request under *section 52* and this Act shall apply accordingly.
+
+(14) After the coming into operation of *section 53*, and until the Authority establishes procedures and criteria for the determination of a request for delegation of authority to make an education and training award, then—
+
+(*a*) procedures agreed under section 19(4) and criteria determined under section 19(3) of the Act of 1999 shall apply to a request by a provider specified in *paragraph (b)*, *(c)* or *(d)* of *section 52(2)*, and
+
+(*b*) procedures agreed under section 29(4) and criteria determined under section 29(3) of the Act of 1999 shall apply to a request by a provider specified in *paragraph (a)* of *section 52(2)*,
+
+except in so far as the procedures agreed under section 19(4) or 29(4), or the criteria determined under section 19(3) or 29(3), of the Act of 1999 may be inconsistent with this Act.
+
+(15) After the coming into operation of *section 56*, and until the Authority establishes policies and criteria for access, transfer and progression of learners, a provider to whom that section applies shall establish procedures for access, transfer and progression of learners under *subsection (2)* of that section, in accordance with procedures established by the National Qualifications Authority of Ireland under section 8(2)(*d*) of the Act of 1999.
+
+(16) A review under section 20 or 30 of the Act of 1999 which is in the process of being conducted, shall, on the coming into operation of *section 54* be a review for the purposes of that section and this Act shall apply accordingly.
+
+(17) After the coming into operation of *section 54*, and until the Authority establishes procedures for review under that section, procedures for review established under section 20(4) or under section 30(4) of the Act of 1999, as the case may be, shall apply to a review under *section 54*.
+
+(18) A charter recognised under section 31 of the Act of 1999 that was in force immediately before the coming into operation of *section 82* shall be, on the coming into operation of that section, in so far as the charter does not conflict with this Act or the Institutes of Technology Acts 1992 to 2006, a charter recognised under *section 82* and this Act shall apply accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 35(a), (c), S.I. No. 540 of 2019.
+>
+> F78: Inserted (8.11.2019) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 35(b), (d), S.I. No. 540 of 2019.
+
+### 85. Transition for appeals under Act of 1999.
+
+**85**.— (1) Notwithstanding the repeal of sections 17, 20, 27 and 30 of the Act of 1999 by *section 6(1)* an appeal commenced but not determined under—
+
+(*a*) section 17(1),
+
+(*b*) section 20(4),
+
+(*c*) section 27(1), or
+
+(*d*) section 30(4),
+
+of the Act of 1999 shall, upon the repeal of those provisions, be continued under the Act of 1999 as if those provisions had not been repealed.
+
+(2) Notwithstanding *section 71*—
+
+(*a*) the National Qualifications Authority of Ireland shall continue in being for the purpose only of determining an appeal referred to in *subsection (1)*, and
+
+(*b*) the Further Education and Training Awards Council and the Higher Education and Training Awards Council shall continue in being for the purpose only of performing any function conferred on either of them by or under the Act of 1999 in relation to such an appeal.
+
+(3) A decision of the National Qualifications Authority of Ireland upon the determination of an appeal referred to in *subsection (1)* shall take effect as if that decision were a decision of an Appeals Board under *section 69* and this Act shall apply accordingly.
+
+### 86. Amendments of other Acts.
+
+**86**.— Each provision specified in *column 3* of *Schedule 3* of each Act specified in *column 2* of that Schedule is amended in the manner specified in *column 4* opposite the mention of that provision.
+
+## SCHEDULE 1 — Qualifications and Quality Assurance Authority of Ireland
+
+1\. (1) The Authority shall be a body corporate with perpetual succession and an official seal and shall have power to sue, and may be sued, in its corporate name, and shall, with the consent of the Minister and the Minister for Public Expenditure and Reform, have power to acquire, hold and dispose of land or an interest in land, and shall have power to acquire, hold and dispose of any other property.
+
+(2) The seal of the Authority shall be authenticated by—
+
+(*a*) the signatures of 2 members of the Authority, or
+
+(*b*) the signatures of a member of the Authority and a member of the staff of the Authority,
+
+authorised by the Authority to act in that behalf.
+
+(3) Judicial notice shall be taken of the seal of the Authority and any document purporting to be an instrument made by, and sealed with the seal of, the Authority shall, unless the contrary is shown, be received in evidence and taken to be such an instrument without further proof.
+
+2\. (1) The Authority shall consist of 10 members including the chief executive.
+
+(2) The members of the Authority, other than the chief executive, shall be appointed by the Minister.
+
+(3) The Minister shall, in appointing the members of the Authority, ensure that the members are persons who have experience of, and expertise in relation to, the functions of the Authority, and shall include among those members—
+
+(*a*) at least one person who has international experience related to those functions, and
+
+(*b*) at least 2 people who are representatives of learners, one of whom shall be a person nominated by the body known as the Union of Students in Ireland.
+
+(4) The Minister shall, in so far as is practicable, endeavour to ensure that among the members of the Authority there is an equitable balance between men and women.
+
+(5) The Minister shall appoint a chairperson of the Authority from among the members of the Authority, other than the chief executive.
+
+(6) A member of the Authority, other than the chief executive, shall hold office for such period as the Minister determines, but the period shall not exceed 5 years from the date of the member’s appointment.
+
+(7) Subject to *subparagraph (8)*, a member of the Authority whose term of office expires under *subparagraph (6)* is eligible for reappointment to the Authority.
+
+(8) A person who is reappointed to the Authority in accordance with *subparagraph (7)* shall not hold office for periods the aggregate of which exceeds 10 years.
+
+(9) Each member of the Authority, other than the chief executive, shall act on a part time basis.
+
+3\. (1) A member of the Authority, other than the chief executive, holds office upon such terms and conditions (including terms and conditions relating to remuneration, allowances or expenses) as may be determined by the Minister, with the consent of the Minister for Public Expenditure and Reform.
+
+(2) A member of the Authority, other than the chief executive, shall be paid by the Authority such allowances or expenses as the Minister determines, with the approval of the Minister for Public Expenditure and Reform.
+
+4\. (1) A member of the Authority, other than the chief executive, may resign from office by giving notice in writing to the Minister of his or her resignation and the resignation shall take effect on the day on which the Minister receives the notice.
+
+(2) Where the chairperson of the Authority resigns as chairperson he or she shall at the same time cease to be a member of the Authority.
+
+(3) The Minister may at any time remove from office a member of the Authority if, in the opinion of the Minister—
+
+(*a*) the member has become incapable through ill-health of performing his or her functions,
+
+(*b*) the member has committed stated misbehaviour, or
+
+(*c*) the removal of the member appears to the Minister to be necessary for the effective performance by the Authority of its functions.
+
+(4) A member of the Authority shall cease to be qualified for office and shall cease to hold office if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is sentenced by a court of competent jurisdiction to a term of imprisonment,
+
+(*d*) is convicted of any indictable offence in relation to a company,
+
+(*e*) is convicted of an offence involving fraud or dishonesty,
+
+(*f*) is the subject of an order under section 160 of the Companies Act 1990, or
+
+(*g*) is removed from office pursuant to *paragraph 10(6).*
+
+5\. (1) If a member of the Authority, other than the chief executive, dies, resigns, ceases to be qualified for or ceases to hold office or is removed from office for any reason, the Minister may appoint a person to be a member of the Authority to fill the casual vacancy so occasioned.
+
+(2) A person appointed to be a member of the Authority pursuant to *subparagraph (1)*—
+
+(*a*) holds office for so much of the term of office of the member who occasioned the casual vacancy concerned as remains unexpired at the date of the appointment, and
+
+(*b*) is eligible for reappointment as a member of the Authority on the expiry of that term of office.
+
+6\. (1) The Authority shall hold at least 4 meetings in any 12 month period and such and so many additional meetings as may be necessary, as determined by the chairperson, for the due fulfilment of its functions.
+
+(2) The Minister shall fix the date, time and place of the first meeting of the Authority.
+
+(3) The chairperson shall convene a meeting of the Authority when requested to do so by not less than the number of members which constitute a quorum.
+
+(4) The quorum for a meeting of the Authority shall, unless the Minister otherwise directs, be 5.
+
+(5) At a meeting of the Authority—
+
+(*a*) the chairperson of the Authority shall, if present, be the chairperson of the meeting, or
+
+(*b*) if and so long as the chairperson of the Authority is not present or if that office is vacant, the other members of the Authority who are present shall choose one of their number to be chairperson of the meeting.
+
+(6) Every question at a meeting of the Authority shall be determined by a majority of the votes of the members of the Authority present and voting on the question, and, in the case of an equal division of votes, the chairperson shall have a second or casting vote.
+
+(7) Subject to *subparagraph (4)*, the Authority may act notwithstanding one or more vacancies among its members.
+
+(8) Subject to the provisions of this Act, the Authority shall regulate its procedure (including procedure for electronic meetings).
+
+(9) The Authority may hold or continue a meeting by the use of any means of communication by which all the members can hear and be heard at the same time (in this Schedule referred to as an “electronic meeting”).
+
+(10) A member of the Authority who participates in an electronic meeting is taken for all purposes to have been present at the meeting.
+
+7\. (1) The Authority may establish committees, consisting wholly or partly of persons who are either members of, or members of the staff of, the Authority, to—
+
+(*a*) assist and advise it in relation to the performance of any or all of its functions, and
+
+(*b*) perform such functions of the Authority as may stand delegated to those committees under *paragraph 8*.
+
+(2) In appointing members of a committee established under this paragraph, the Authority shall have regard to—
+
+(*a*) the range of qualifications and experience necessary for the proper and effective discharge of the functions of the committee, and
+
+(*b*) the desirability of there being an appropriate balance between men and women on the committee.
+
+(3) The Authority may pay to members of a committee established under this paragraph such allowances or expenses (if any) incurred by them as the Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, determine.
+
+(4) The Authority may remove a member of a committee established under this paragraph from the committee at any time.
+
+(5) The acts of a committee shall be subject to confirmation by the Authority, unless the Authority otherwise determines.
+
+(6) A committee established under this paragraph may regulate, by standing orders or otherwise, its procedure and business.
+
+(7) The Authority may appoint a person to be chairperson of a committee established under this paragraph.
+
+(8) A committee shall provide the Authority with such information as the Authority may from time to time require, in respect of the committee’s activities and operations, for the purposes of the performance by the Authority of its functions.
+
+(9) The Authority may at any time dissolve a committee established under this paragraph.
+
+8\. The Authority may, with the consent of the Minister, delegate one or more of its functions as it considers appropriate to a committee established under *paragraph 7*.
+
+9\. (1) Where a member of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+he or she shall thereupon cease to be a member of the Authority.
+
+(2) Where a member of the staff of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+he or she shall thereupon stand seconded from employment by the Authority and shall not be paid by, or be entitled to receive from, the Authority any remuneration or allowances in respect of the period commencing on that nomination or election or when he or she is so regarded as having been so elected (as the case may be) and ending when he or she ceases to be a member of either such House or a representative in that Parliament.
+
+(3) A period of secondment under *subparagraph (2)* shall not, for the purposes of any superannuation benefit, be reckoned as service with the Authority.
+
+(4) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit in that House or who is a representative in the European Parliament shall be disqualified, while he or she is so entitled or is such a representative, from being a member of the Authority, a member of a committee established under *paragraph 7* or a member of the staff of the Authority.
+
+10\. (1) *Subparagraph (2)* applies where at a meeting of the Authority any of the following matters arise, namely—
+
+(*a*) an arrangement to which the Authority is a party,
+
+(*b*) an arrangement to which the Authority proposes to become a party,
+
+(*c*) a contract or other agreement with the Authority, or
+
+(*d*) a proposed contract or other agreement with the Authority.
+
+(2) Any member of the Authority present at the meeting referred to in *subparagraph (1)* who has a pecuniary interest or other beneficial interest in, or material to, the matter concerned shall—
+
+(*a*) disclose to the Authority at the meeting the fact of that interest and its nature,
+
+(*b*) not influence (or seek to influence) a decision to be made in relation to the matter,
+
+(*c*) absent himself or herself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(*d*) take no part in any deliberation of the Authority relating to the matter, and
+
+(*e*) not vote on a decision relating to the matter.
+
+(3) Where an interest is disclosed pursuant to this paragraph, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member of the Authority by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where at a meeting of the Authority a question arises as to whether or not a course of conduct, if pursued by a member of the Authority, would constitute a failure by him or her to comply with the requirements of *subparagraph (2)*, the question may, subject to *subparagraph (5)*, be determined by the chairperson of the meeting, whose decision shall be final, and where the question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where, at a meeting of the Authority, the chairperson of the meeting is the member in respect of whom a question to which *subparagraph (4)* applies falls to be determined, then the other members of the Authority attending the meeting shall choose one of their number to be chairperson of the meeting for the purpose of determining the question concerned.
+
+(6) Where the Minister is satisfied that a member of the Authority has contravened *subparagraph (2)*, the Minister may, if he or she thinks appropriate, remove that member from office.
+
+11\. *Subparagraphs (1)* to *(5)* of *paragraph 10* shall apply to a member of a committee established under *paragraph 7* where the member is not also a member of the Authority and for the purposes of that application—
+
+(*a*) a reference to a member of the Authority shall be construed as reference to a member of the committee,
+
+(*b*) a reference to the Authority shall be construed as reference to the committee.
+
+12\. (1) Where a member of the staff of the Authority, otherwise than in his or her capacity as such a member, has a pecuniary interest or other beneficial interest in, or material to, any contract, agreement or arrangement, or proposed contract, agreement or arrangement, to which the Authority is a party, that person shall—
+
+(*a*) disclose to the Authority his or her interest and the nature thereof,
+
+(*b*) take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by the Authority or members of the staff of the Authority or committee, as the case may be, in relation to it, or
+
+(*c*) not influence (or seek to influence) a decision to be made, or make any recommendation, in relation to the contract, agreement or arrangement.
+
+(2) A reference in *subparagraph (1)* to a contract does not include a contract or proposed contract of employment of a member of the staff of the Authority.
+
+(3) Where a member of the staff of the Authority contravenes this paragraph the Authority may—
+
+(*a*) make any alterations to the member’s terms and conditions of employment it considers appropriate, or
+
+(*b*) terminate the member’s contract of employment.
+
+13\. (1) A person shall not disclose confidential information obtained by him or her while performing functions as—
+
+(*a*) a member, or member of the staff of, or an adviser or consultant to, the Authority, or a member of the staff of such an adviser or consultant, or
+
+(*b*) a member of a committee established under *paragraph 7*,
+
+unless he or she is authorised by the Authority to so do.
+
+(2) A person who contravenes *subparagraph (1)* commits an offence.
+
+(3) Nothing in this paragraph shall prevent the disclosure of information—
+
+(*a*) in a report made to the Authority,
+
+(*b*) by or on behalf of the Authority to the Minister,
+
+(*c*) by a member of the Authority to the Minister, or
+
+(*d*) by a person in the circumstances referred to in section 35(2) of the Ethics in Public Office Act 1995.
+
+(4) In this paragraph “confidential information” includes—
+
+(*a*) information that is expressed by the Authority to be confidential either as regards particular information or as regards information of a particular class or description, and
+
+(*b*) proposals of a commercial nature or tenders submitted to the Authority by contractors, consultants or any other person.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E16: Person holding record under para. 13 excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced as per s. 1(2). This provision is listed in sch. 3 part 1.
+
+## SCHEDULE 2 — SCHEDULE 2
+
+### PART 1 — Acts Repealed
+
+| Short title | Extent of repeal |
+|---|---|
+| (1) | (2) |
+| Universities Act 1997 | Section 35 |
+| Qualifications (Education and Training) Act 1999 | The whole Act. |
+
+### PART 2 — Statutory Instrument Revoked
+
+Qualifications (Education and Training) Act 1999 (Section 31) Regulations 2007 (S.I. No. 571 of 2007)
+
+## SCHEDULE 3 — Amendments of other Acts
+
+|  | Act | Provision | Amendment |
+|---|---|---|---|
+| 1. | Higher Education Authority Act 1971 | Schedule | Delete paragraph 10. |
+| 2. | Labour Services Act 1987 | Section 4 | In subsection (2) (amended by section 62 of the Act of 1999) substitute “*Qualifications and Quality Assurance (Education and Training) Act 2012*” for “Qualifications (Education and Training) Act 1999”. |
+| 3. | Regional Technical Colleges Act 1992 | Section 5(1) | Delete paragraphs (*b*) and (*bb*) (amended by section 32(*c*) of the Act of 1999). |
+| 4. | Regional Technical Colleges Act 1992 | Third Schedule (amended by section 26 of the Institutes of Technology Act 2006) | Substitute the following paragraph for paragraph 7: “7. Unless he or she resigns, retires or is removed from office, a Director shall hold office for such period as the governing body, with the consent of the Minister, determines, but the period shall not exceed 10 years from the date of the Director’s appointment.”. |
+| 5. | Freedom of Information Act 1997 | Third Schedule, Part 1 | Insert in column (2): “*Qualifications and Quality Assurance (Education and Training) Act 2012*” and opposite that insertion, in column (3), insert the words “*paragraph 13* of *Schedule 1*”. |
+| 6. | Freedom of Information Act 1997 | First Schedule, paragraph 1(2) | Insert the following: “the Qualifications and Quality Assurance Authority of Ireland,”. |
+| 7. | Universities Act 1997 | Section 9 | Insert the following subsections after subsection (4): “(5) In determining the amount of money to be allocated for the financial year to a university established under subsection (2) from moneys provided to An tÚdarás pursuant to section 12 of the Higher Education Authority Act 1971 and section 37(2), an tÚdarás shall ensure that the range and levels of programmes of education and training in that university and the number of enrolled learners (within the meaning of the *Qualifications and Quality Assurance (Education and Training) Act 2012*) participating in those programmes are in accordance with such policies as may be determined from time to time by the Minister. (6) An tÚdarás may give directions to a university for the purposes of subsection (5). (7) A university established under subsection (2) shall act in accordance with such directions as may be given from time to time by An tÚdarás to the university under subsection (6).”. |
+| 8. | Universities Act 1997 | Section 34 | Insert the following subsections after subsection (3): “(4) Where the governing authority of a university established under section 9(2) approves a strategic development plan under this section it shall— (*a*) ensure that the plan provides the means by which that university shall comply with any requirements imposed on the university under the *Qualifications and Quality Assurance (Education and Training) Act 2012*, and (*b*) provide a copy of that plan to the Qualifications and Quality Assurance Authority of Ireland. (5) Where the chief officer of a university established under section 9(2) prepares a report on the operations and the performance of that university under section 41, he or she shall have regard to the part or parts of the strategic development plan under this section relevant to any requirements imposed on that university under the *Qualifications and Quality Assurance (Education and Training) Act 2012.* (6) An tÚdarás shall consult with the Qualifications and Quality Assurance Authority of Ireland with regard to the means by which a university established under section 9(2) shall comply with any requirements imposed on the university under the *Qualifications and Quality Assurance (Education and Training) Act 2012* when reviewing a strategic development plan prepared by the university in accordance with this section.”. |
+| 9. | Universities Act 1997 | New Section 47A | Insert the following new section after section 47: *“Degrees and qualifications of Royal College of Surgeons in Ireland.* 47A.—(1) Where— (*a*)degrees and qualifications awarded by the Royal College of Surgeons in Ireland are approved by the National University of Ireland, and (*b*)the Royal College of Surgeons in Ireland is a Recognised College of the National University of Ireland, those degrees and qualifications shall be degrees and qualifications of the National University of Ireland and shall be so designated. (2) If at any time the Royal College of Surgeons in Ireland ceases to be a Recognised College of the National University of Ireland, a degree or qualification referred to in subsection (1) awarded at any time prior to the Royal College of Surgeons in Ireland ceasing to be a Recognised College of the National University of Ireland— (*a*)remains a degree or qualification, as the case may be, of the National University of Ireland, and (*b*)shall be so designated, notwithstanding that the Royal College of Surgeons in Ireland has ceased to be a Recognised College of the National University of Ireland. |
+| 10. | Universities Act 1997 | Section 49 | Delete paragraph (*b*). |
+| 11. | Taxes Consolidation Act 1997 | Part 1 of Schedule 26A (inserted by section 45(4) of the Finance Act 2001) | Substitute the following paragraph for paragraph 5: “5. An institute of higher education in the State which provides courses which are validated by the Qualifications and Quality Assurance Authority of Ireland under the *Qualifications and Quality Assurance (Education and Training) Act 2012*.”. |
+| 12. | Education Act 1998 | Section 41(2) | Insert the following paragraph after paragraph (*d*): “(*da*) to co-operate with the Qualifications and Quality Assurance Authority of Ireland in respect of the framework of qualifications under the *Qualifications and Quality Assurance (Education and Training) Act 2012*.”. |
+| 13. | Teaching Council Act 2001 | Section 8(2)(*d*) | In subparagraph (xi) to delete the words “(within the meaning of the Qualifications (Education and Training) Act 1999)”. |
+| 14. | The Royal College of Surgeons in Ireland (Charters Amendment) Act 2003 | Section 33 | In subsection (2), substitute “the *Qualifications and Quality Assurance (Education and Training) Act 2012*” for “the Qualification (Education and Training) Act 1999”. |
+| 15. | Building Control Act 2007 | Section 14 | Substitute the following subsection for subsection (6): “(6) For the purposes of the Minister satisfying himself or herself of the matter referred to in subsection (5), the Minister shall consult with the Qualifications and Quality Assurance Authority of Ireland.”. |
+| 16. | Building Control Act 2007 | Section 29 | Substitute the following subsection for subsection (5): “(5) For the purposes of the Minister satisfying himself or herself of the matter referred to in subsection (4), the Minister shall consult with the Qualifications and Quality Assurance Authority of Ireland.”. |
+| 17. | Building Control Act 2007 | Section 43 | Substitute the following subsection for subsection (5): “(5) For the purposes of the Minister satisfying himself or herself of the matter referred to in subsection (4), the Minister shall consult with the Qualifications and Quality Assurance Authority of Ireland.”. |

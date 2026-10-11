@@ -1,0 +1,4029 @@
+---
+title: "International Protection Act 2015"
+identifier: "eli/2015/act/66"
+type: act
+jurisdiction: ie
+language: en
+number: 66
+year: 2015
+date: 2015-12-30
+last_amended: 2026-06-18
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2015/act/66/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2015/act/66/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# International Protection Act 2015
+
+An Act to restate and modify certain aspects of the law relating to the entry into and presence in the State of persons in need of international protection, while having regard also to the power of the Executive in relation to these matters, to give further effect to Council Directive 2001/55/EC of 20 July 2001[^1] on minimum standards for giving temporary protection in the event of a mass influx of displaced persons and on measures promoting a balance of efforts between Member States in receiving such persons and bearing the consequences thereof, to give further effect to Council Directive 2004/83/EC of 29 April 2004[^2] on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted, to give further effect to Council Directive 2005/85/EC of 1 December 2005[^3] on minimum standards on procedures in Member States for granting and withdrawing refugee status, to give further effect to the Convention relating to the Status of Refugees done at Geneva on the 28th day of July 1951 and the Protocol relating to the Status of Refugees done at New York on the 31st day of January 1967, to amend the Immigration Act 1999, the Immigration Act 2003 and the Immigration Act 2004, to amend or repeal certain other enactments, and to provide for related matters.
+
+[30 *th December*, 2015]
+
+**Be it enacted by the Oireachtas as follows:**
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Act applied with modifications (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), regs. 12(2), 15.
+>
+> *Applicant under section 8 of the Refugee Act 1996 or under section 15 of Act of 2015 to whom Article 18(1)(c) applies*
+>
+> 12\. ...
+>
+> (2) A person to whom this Regulation applies shall, notwithstanding section 22 of the Act of 2015, but without prejudice to section 21 of that Act, be deemed to have made, on the date on which this Regulation first applies to him or her, an application for international protection under section 15 of that Act, and, subject to this Regulation, the provisions of that Act shall, with any necessary modifications, apply accordingly.
+>
+> ...
+>
+> *Person to whom Regulation 13(2) or 14(2) applies.*
+>
+> 15\. Where a person is deemed under Regulation 13(2) or 14(2) to have made an application for international protection under section 15 of the Act of 2015, the provisions of that Act shall apply to the application, with the following modifications and any other necessary modifications—
+>
+> (a) the application shall be deemed not to be an application for status in the State as a refugee on the basis of a refugee declaration but to be an application only for status in the State as a person eligible for subsidiary protection on the basis of a subsidiary protection declaration,
+>
+> (b) for the purposes of the examination under Part 5 of that Act of the application, the person shall be deemed to be a person who should not be given a refugee declaration,
+>
+> (c) for the purposes of section 39(3) of that Act—
+>
+> (i) a recommendation referred to in paragraph (a) of that subsection shall not be made in respect of the person, and
+>
+> (ii) the recommendation of the Refugee Applications Commissioner, made under the Act of 1996 in respect of the person, shall be deemed to be a recommendation, referred to in paragraphs (b) and (c) of that subsection, of the international protection officer that the person should not be given a refugee declaration,
+>
+> and
+>
+> (d) an appeal to the Tribunal under section 41(1) of that Act against a recommendation under paragraph (b) or (c) of section 39(3) of that Act may be made only in respect of the part of the recommendation that recommends that the person should not be given a subsidiary protection declaration.
+>
+> C2: References construed (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), regs. 18(2), 19(2).
+>
+> *Provisions in relation to international protection officers*
+>
+> 18\. (1) An international protection officer shall be independent in the performance of his or her functions under these Regulations.
+>
+> (2) A reference in the Act of 2015 to the functions of an international protection officer conferred on him or her by that Act shall be deemed to include a reference to the functions conferred on an international protection officer by these Regulations.
+>
+> *Provisions in relation to the Tribunal*
+>
+> 19\. (1) The Tribunal shall be independent in the performance of its functions under these Regulations.
+>
+> (2) A reference in the Act of 2015 to—
+>
+> (a) a function of the Tribunal, chairperson, deputy chairperson, registrar or a member of the Tribunal (including a reference to a function conferred by that Act) shall be deemed to include a reference to the functions conferred upon the Tribunal, chairperson, deputy chairperson, registrar or member, as the case may be, by these Regulations.
+>
+> (b) the work or business of the Tribunal shall include a reference to the work or business of the Tribunal by virtue of these Regulations, and
+>
+> (c) an applicant and an appeal shall include a reference to an applicant or an appeal, as the case may be, under these Regulations.
+
+## PART 1Preliminary — PART 1 — Preliminary
+
+### 1. Short title and commencement
+
+**1.** (1) This Act may be cited as the International Protection Act 2015.
+
+(2) This Act comes into operation on such day or days as the Minister may, by order or orders, appoint either generally or with reference to a particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(3) An order under *subsection (2)* may, in respect of the repeal of the Act specified in *section 6(1)* effected by that section, appoint different days for the repeal of different provisions of that Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (16.04.2018) by *International Protection Act 2015 (Section 6(2)(j)) (Commencement) Order 2018* (S.I. No. 119 of 2018).
+>
+> 2\. The 16th day of April 2018 is appointed as the day on which section 6(2)(j) of the International Protection Act 2015 (No. 66 of 2015) comes into operation.
+>
+> E2: Power pursuant to subs. (2) exercised (22.12.2016 and 31.12.2016) by *Protection Act 2015 (Commencement) (No. 3) Order 2016* (S.I. No. 663 of 2016).
+>
+> 3\. The 22nd day of December 2016 is appointed as the day on which the following provisions of the Act of 2015 come into operation:
+>
+> (a) section 2 (insofar as it is not already in operation);
+>
+> (b) section 3;
+>
+> (c) section 15(5) (insofar as it relates to prescribing a form);
+>
+> (d) section 17(2) (insofar as it relates to prescribing information);
+>
+> (e) section 20(1) (insofar as it relates to prescribing places of detention);
+>
+> (f) section 48(7);
+>
+> (g) section 48(8);
+>
+> (h) section 49(10);
+>
+> (i) section 51(5);
+>
+> (j) section 55(3);
+>
+> (k) section 55(4);
+>
+> (l) section 61(2).
+>
+> 4\. The 31st day of December 2016 is appointed as the day on which the Act of 2015 (other than paragraphs (b), (f), (i), (j), (l), (m), and (p) of section 6(2)), insofar as it is not already in operation, comes into operation.
+>
+> E3: Power pursuant to subs. (2) exercised (10.03.2016) by *International Protection Act 2015 (Commencement) (No. 2) Order 2016* (S.I. No. 133 of 2016).
+>
+> 2\. The 10th day of March 2016 is appointed as the day on which the following provisions of the International Protection Act 2015 (No. 66 of 2015) come into operation:
+>
+> (a) section 78;
+>
+> (b) section 80;
+>
+> (c) section 81.
+>
+> E4: Power pursuant to section exercised (11.01.2016) by *International Protection Act 2015 (Commencement) Order 2016* (S.I. No. 26 of 2016).
+>
+> 2\. The 11th day of January 2016 is appointed as the day on which the following provisions of the International Protection Act 2015 (No. 66 of 2015) come into operation.
+>
+> (a) section 1;
+>
+> (b) section 2, insofar as it relates to the repeal referred to in paragraph (c);
+>
+> (c) section 6(1), insofar as it relates to the repeal of section 7A of the Refugee Act 1996 (No. 17 of 1996).
+
+### 2. Interpretation
+
+**2.** (1) In this Act—
+
+“Act of 1996” means the Refugee Act 1996;
+
+“Act of 1999” means the Immigration Act 1999;
+
+“Act of 2004” means the Immigration Act 2004;
+
+“applicant” means a person who—
+
+(a) has made an application for international protection in accordance with *section 15*, or on whose behalf such an application has been made or is deemed to have been made, and
+
+(b) has not ceased, under *subsection (2)*, to be an applicant;
+
+“biometric information” means information relating to the distinctive physical characteristics of a person including—
+
+(a) measurements or other assessments of those characteristics,
+
+(b) information about those characteristics held in an automated form,
+
+but does not include references to the DNA profile of a person, and references to the provision by a person of biometric information means its provision in a way that enables the identity of the person to be investigated or ascertained;
+
+“chairperson” means the chairperson of the Tribunal;
+
+“chief international protection officer” means the person appointed under *section 75* to be the chief international protection officer;
+
+“country of origin” means the country or countries of nationality or, for stateless persons, of former habitual residence;
+
+“civil partner” means a civil partner within the meaning of section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+“deportation order” shall be construed in accordance with *section 51*;
+
+“deputy chairperson” means a deputy chairperson of the Tribunal;
+
+“DNA profile” has the meaning it has in section 2 of the Criminal Justice (Forensic Evidence and DNA Database System) Act 2014;
+
+“document” includes—
+
+(a) any written matter,
+
+(b) any photograph,
+
+(c) any currency notes or counterfeit currency notes,
+
+(d) any information in non-legible form that is capable of being converted into legible form,
+
+(e) any audio or video recording, and
+
+(f) a travel document or an identity document;
+
+“Dublin Regulation” means Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013[^4]or any Regulation amending or replacing that Regulation;
+
+“Dublin System Regulations” means any statutory instrument made by a Minister of the Government for the purpose of giving effect to the Dublin Regulation;
+
+“establishment day” shall be construed in accordance with *section 61(2)*;
+
+“European Asylum Support Office” means the European Asylum Support Office established by Regulation (EU) No. 439/2010 of the European Parliament and of the Council of 19 May 2010[^5];
+
+“Geneva Convention” means the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 (the text of which, in the English language, is, for convenience of reference, set out in *Schedule 1*) and includes the Protocol relating to the Status of Refugees done at New York on 31 January 1967 (the text of which, in the English language, is, for convenience of reference, set out in *Schedule 2*);
+
+“High Commissioner” means the United Nations High Commissioner for Refugees;
+
+“identity document” includes a passport, visa, transit visa, national identity card, entry permit, residence permit, driving licence, employment permit, birth certificate, marriage certificate or any other document establishing or contributing to establishing a person’s nationality or identity issued or purporting to be issued by or on behalf of a local or the national authority of a state, including the State, or by an organ or agency of the United Nations;
+
+“immigration officer” has the meaning it has in section 3 of the Act of 2004;
+
+“information” includes—
+
+(a) information in the form of a document (or any other thing) or in any other form, and
+
+(b) personal information, including biometric information;
+
+F1["international protection" has the meaning it has in the Qualification Regulation;]
+
+“international protection officer” means a person who is authorised under *section 74* to perform the functions conferred on an international protection officer by or under this Act;
+
+“legal assistance” means legal aid or legal advice, within the meaning of the Civil Legal Aid Act 1995;
+
+“legal representative” means a practising solicitor or a practising barrister;
+
+“Minister” means the Minister for Justice and Equality;
+
+F2["persecution" shall be construed in accordance with the Qualification Regulation;]
+
+F3["person eligible for subsidiary protection" has the meaning it has in the Qualification Regulation;]
+
+“personal interview” means an interview held under *section 35(1)*;
+
+“preliminary interview” means an interview held under *section 13(1)*;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+F4["protection" (except where the context otherwise requires) means protection against persecution or serious harm and shall be construed in accordance with Article 7 of the Qualification Regulation;]
+
+F7["Qualification Regulation" means Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024[^6] on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council;]
+
+F8[...]
+
+F5["refugee" has the meaning it has in the Qualification Regulation;]
+
+“refugee declaration” means a statement, made in writing by the Minister, declaring that the person to whom it relates is a refugee;
+
+“registered medical practitioner” means a person who is a registered medical practitioner within the meaning of section 2 of the Medical Practitioners Act 2007;
+
+“Registrar” means the Registrar of the Tribunal appointed under *section 66*;
+
+“Regulations of 2006” means the European Communities (Eligibility for Protection) Regulations 2006 (S.I. No. 518 of 2006);
+
+“Regulations of 2013” means the European Union (Subsidiary Protection) Regulations 2013 (S.I. No. 426 of 2013);
+
+F9["return order" has the meaning assigned to it by *section 51A*;]
+
+“safe country of origin” means a country that has been designated under *section 72* as a safe country of origin;
+
+F9["safe third country" means a country that has been designated under *section 72A* as a safe third country;]
+
+F6["serious harm" has the meaning it has in Article 15 of the Qualification Regulation;]
+
+“serious non-political crime” includes particularly cruel actions, even if committed with an allegedly political objective;
+
+“statute” means—
+
+(a) an Act of the Oireachtas, or
+
+(b) a statute that was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and that continues to be of full force and effect by virtue of Article 50 of the Constitution;
+
+“statutory instrument” means an order, regulation, rule, scheme or bye-law made in exercise of a power conferred by statute;
+
+“social welfare benefits” includes any payment or services provided under the Social Welfare Acts or the Health Acts 1947 to 2015 ;
+
+“subsidiary protection declaration” means a statement, made in writing by the Minister, declaring that the person to whom it relates is a person eligible for subsidiary protection;
+
+“Tribunal” means the International Protection Appeals Tribunal established by *section 61*.
+
+(2) A person shall cease to be an applicant on the date on which—
+
+(a) subject to *subsection (3)*, the Minister refuses—
+
+(i) under *subsection (2)* or *(3)* of *section 47* to give the person a refugee declaration, or
+
+(ii) under *section 47(5)* both to give a refugee declaration and to give a subsidiary protection declaration to the person,
+
+(b) subject to *subsection (3)*, he or she is first given, under *section 54(1)*, a permission to reside in the State, or
+
+(c) he or she is transferred from the State in accordance with the Dublin Regulation.
+
+(3) Where—
+
+(a) a recommendation referred to in *section 39(3)(b)* is made in respect of an applicant, and
+
+(b) the applicant appeals under *section 41(1)(a)* against the recommendation,
+
+notwithstanding the giving, under *section 47(4)(a)*, of a subsidiary protection declaration to the applicant on the basis of the recommendation, he or she shall, for the purposes of this Act, remain an applicant until, following the decision of the Tribunal in relation to the appeal, the Minister, under *section 47*, gives or, as the case may be, refuses to give him or her a refugee declaration.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 288(a)-(d), (g), (h), S.I. No. 244 of 2026.
+>
+> F7: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 288(e), S.I. No. 244 of 2026.
+>
+> F8: Deleted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 288(f), S.I. No. 244 of 2026.
+>
+> F9: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 117, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+
+### 2A. Continued application and effect of Act in relation to certain applications and appeals
+
+F10[**2A.** Notwithstanding the repeal of section 15 effected by section 5 of the International Protection Act 2026, where an application is made in accordance with that section 15 before 12 June 2026, this Act shall, subject to the International Protection Act 2026 and the Qualification Regulation, continue to apply and have effect after the repeal in relation to—
+
+(a) the application, and
+
+(b) an appeal under Part 6 relating to such an application (including an appeal referred to in section 21(6)).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 289, S.I. No. 244 of 2026.
+
+### 2B. Supplementary provisions in relation to continued application and effect of Act
+
+F11[**2B**. (1) For the purposes of the continued application and effect of this Act in accordance with section 2A—
+
+(a) an international protection officer shall perform his or her functions under this Act, in particular the making of a recommendation under section 39(3), in accordance with the Qualification Regulation, and
+
+(b) the Tribunal shall perform its functions under this Act, in particular the determination of an appeal under Part 6 (including an appeal referred to in section 21(6)), in accordance with the Qualification Regulation.
+
+(2) For the purposes of Article 12(5) and Article 17(5) of the Qualification Regulation, an international protection officer and the Tribunal shall take into account a minor’s capacity to be considered responsible under criminal law in accordance with section 52 of the Children Act 2001 as if the minor had committed the crime concerned in the State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 289, S.I. No. 244 of 2026.
+
+### 3. Regulations
+
+**3.** (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Different regulations may be made under this section in respect of different classes of matter the subject of the prescribing concerned.
+
+(3) Without prejudice to any provision of this Act, regulations under this section may contain such incidental, supplementary, consequential and transitional provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(4) Every regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling such regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (18.06.2026) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2026* (S.I. No. 285 of 2026), in operation as per reg. 1(2).
+>
+> E6: Power pursuant to section exercised (2.03.2026) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2026* (S.I. No. 46 of 2026), in operation as per reg. 1(2).
+>
+> E7: Power pursuant to section exercised (16.02.2026) by *International Protection Act 2015 (Sections 51 and 51A) (Prescribed Classes) Regulations 2026* (S.I. No. 45 of 2026).
+>
+> E8: Power pursuant to section exercised (8.11.2022) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2022* (S.I. No. 542 of 2022), in operation as per reg. 1(2).
+>
+> E9: Power pursuant to section exercised (1.01.2021) by *International Protection Act 2015 (Section 51B) (Places of Detention) Regulations 2020* (S.I. No. 727 of 2020), in operation as per reg. 1(2).
+>
+> E10: Power pursuant to section exercised (1.01.2021) by *International Protection Act 2015 (Return Order) Regulations 2020* (S.I. No. 726 of 2020), in operation as per reg. 1(2).
+>
+> E11: Power pursuant to section exercised (29.03.2017) by *International Protection Act 2015 (Procedures and Periods for Appeals) Regulations 2017* (S.I. No. 116 of 2017).
+>
+> E12: Power pursuant to section exercised (31.12.2016) by *International Protection Act 2015 (Deportation) Regulations 2016* (S.I. No. 668 of 2016), in operation as per reg. 1(2).
+>
+> E13: Power pursuant to section exercised (31.12.2016) by *International Protection Act (Voluntary Return) Regulations 2016* (S.I. No. 665 of 2016), in operation as per reg. 1(2).
+>
+> E14: Power pursuant to section exercised (31.12.2016) by *International Protection Act (Permission to Remain) Regulations 2016* (S.I. No. 664 of 2016), in operation as per reg. 1(2).
+>
+> E15: Power pursuant to section exercised (31.12.2016) by *International Protection Act 2015 (Temporary Residence Certificate) (Prescribed Information) Regulations 2016* (S.I. No. 662 of 2016), in operation as per reg. 1(2).
+>
+> E16: Previous affecting provision: power pursuant to section and s. 15(5) exercised (24.07.2024) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2024* (S.I. No. 366 of 2024), in operation as per reg. 1(2); enabling section repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provisions in ss. 285, 286.
+>
+> E17: Previous affecting provision: power pursuant to subss. (3), (4) exercised (31.12.2016) by *International Protection Act 2015 (Travel Document) Regulations 2016* (S.I. No. 667 of 2016), in operation as per reg. 1(2); revoked (12.06.2026) by *International Protection Act 2026 (Travel Document) Regulations 2026* (S.I. No. 256 of 2026), reg. 3, in operation as per reg. 1(2).
+>
+> E18: Previous affecting provision: power pursuant to section exercised (31.12.2016) by *International Protection Act 2015 (Places of Detention) Regulations 2016* (S.I. No. 666 of 2016), in operation as per reg. 1(2); revoked (12.06.2026) by *International Protection Act 2026 (Section 118(5)(a)(ii)) (Places of Detention) Regulations 2026* (S.I. No. 260 of 2026), reg. 5, in operation as per reg. 1(2).
+>
+> E19: Previous affecting provision: power pursuant to section exercised (31.12.2016) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2016* (S.I. No. 660 of 2016); revoked (24.07.2024) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2024* (S.I. No. 366 of 2024), reg. 3, in operation as per reg. 1(2).
+
+### 4. Expenses
+
+**4.** The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+### 5. Service of documents
+
+**5.** F12[(1)] A notice or other document that is required or authorised by or under this Act to be served on or given to a person shall be addressed to the person concerned by name, and may be so served on or given to the person in one of the following ways:
+
+(a) by delivering it to the person;
+
+(b) by leaving it at the address most recently furnished by him or her to the Minister under *section 16(3)(c)* or, in a case in which an address for service has been furnished, at that address;
+
+(c) by sending it by post in a prepaid registered letter, or by any other form of recorded delivery service prescribed by the Minister, addressed to the person at the address most recently furnished by him or her to the Minister under *section 16(3)(c)* or, in a case in which an address for service has been furnished, F15[at that address;]
+
+F13[(d) by sending it to the person by electronic means in accordance with *subsection (2)*, in a case in which the person has given notice in writing to the Minister, to a registration officer, or to the Tribunal, of his or her consent to it (or notices or documents of a class to which it belongs) being served on or given to him or her in that manner.]
+
+F14[(2) For the purposes of F16[*subsection (1)(d)*, a notice or other document] is sent to a person by electronic means in accordance with this subsection—
+
+(a) if it is sent to an email address that the person has furnished to the Minister, to a registration officer or to the Tribunal for that purpose, or
+
+(b) in a case in which the person is registered on an electronic interface, by leaving it on that electronic interface.
+
+(3) Where a notice or other document referred to in *subsection (1)* has been sent to a person in accordance with—
+
+(a) *paragraph (c)* of *subsection (1)*, the notice or other document shall be deemed to have been duly served on or given to the person on the third working day after the day on which it was so sent, and
+
+(b) *paragraph (d)* of *subsection (1)*, the notice or other document shall be deemed to have been duly served on or given to the person when the sender’s facility for the delivery of notices or other documents by electronic means generates a message or other record confirming the delivery of the notice or other document by the electronic means used.
+
+(4) In this section—
+
+"electronic interface" means a secure information technology platform, portal, exchange network or other similar interface maintained by, or on behalf of, the Minister which requires personal log-in details;
+
+"registration officer" has the same meaning as it has in the Act of 2004.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12, F13, F14: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 69(a), (c), (d), S.I. No. 389 of 2023, art. 3(k).
+>
+> F15: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 69(b), S.I. No. 389 of 2023, art. 3(k).
+>
+> F16: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 7, commenced on enactment.
+
+### 6. Repeals and revocations
+
+**6.** (1) Subject to *Part 11*, the Act of 1996 is repealed.
+
+(2) Subject to *Part 11*, the following enactments are revoked:
+
+(a) Dublin Convention (Implementation) Order 2000 (S.I. No. 343 of 2000);
+
+(b) Refugee Act 1996 (Places and Conditions of Detention) Regulations 2000 (S.I. No. 344 of 2000);
+
+(c) Refugee Act 1996 (Application Form) Regulations 2000 (S.I. No. 345 of 2000);
+
+(d) Refugee Act 1996 (Temporary Residence Certificate) Regulations 2000 (S.I. No. 346 of 2000);
+
+(e) Refugee Act 1996 (Travel Document) Regulations 2000 (S.I. No. 347 of 2000);
+
+(f) Refugee Act 1996 (Appeals) Regulations 2002 (S.I. No. 571 of 2002);
+
+(g) Refugee Act 1996 (Safe Countries of Origin) Order 2003 (S.I. No. 422 of 2003);
+
+(h) Refugee Act 1996 (Section 22) Order 2003 (S.I. No. 423 of 2003);
+
+(i) Refugee Act 1996 (Appeals) Regulations 2003 (S.I. No. 424 of 2003);
+
+(j) Refugee Act 1996 (Safe Countries of Origin) Order 2004 (S.I. No. 714 of 2004);
+
+(k) the Regulations of 2006;
+
+(l) European Communities (Asylum Procedures) Regulations 2011 (S.I. No. 51 of 2011);
+
+(m) Refugee Act 1996 (Asylum Procedures) Regulations 2011 (S.I. No. 52 of 2011);
+
+(n) the Regulations of 2013;
+
+(o) Refugee Act 1996 (Travel Document and Fee) Regulations 2011 (S.I. No. 404 of 2011);
+
+(p) European Union (Dublin System) Regulations 2014 (S.I. No. 525 of 2014);
+
+(q) European Union (Subsidiary Protection) (Amendment) Regulations 2015 (S.I. No. 137 of 2015).
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of section restricted (2.10.2017) by *European Union (Subsidiary Protection) Regulations 2017* (S.I. No. 409 of 2017, reg. 5, in operation as per reg. 1(2).
+>
+> *Provisions applicable to application under Regulation 4*
+>
+> 5\. Where an application for a subsidiary protection declaration is made in accordance with Regulation 4(2), notwithstanding the repeal of the Regulations of 2013 by section 6 of the Act of 2015—
+>
+> (a) the application shall be deemed to be an application for a subsidiary protection declaration under the Regulations of 2013, made in accordance with Regulation 3(1) of those Regulations, and
+>
+> (b) the Regulations of 2013 shall, for the purpose of the application, apply subject to the following modifications and any other necessary modifications:
+>
+> (i) the functions conferred on the Refugee Applications Commissioner by those Regulations may, for the purposes of the application, be performed by an international protection officer;
+>
+> (ii) the functions conferred on the Refugee Appeals Tribunal, the chairperson of and a member of the Refugee Appeals Tribunal by those Regulations may, for the purposes of the application, be performed, respectively, by the International Protection Appeals Tribunal, the chairperson of and a member of the International Protection Appeals Tribunal;
+>
+> (iii) in the event that the applicant is given, under Regulation 20 of the Regulations of 2013, a subsidiary protection declaration, the declaration shall be deemed to be a subsidiary protection declaration given to the person under the Act of 2015 and the provisions of the Act of 2015 shall apply accordingly.
+
+## PART 2Qualification for International Protection — PART 2 — Qualification for International Protection
+
+### 7. Acts of persecution
+
+**7.** F17[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 8. Reasons for persecution
+
+**8.** F18[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 9. Cessation of refugee status
+
+**9.** F19[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 10. Exclusion from being a refugee
+
+**10.** F20[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 11. Cessation of eligibility for subsidiary protection
+
+**11.** F21[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 12. Exclusion from eligibility for subsidiary protection
+
+**12.** F22[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(a), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+## PART 3Application for International Protection — PART 3 — Application for International Protection
+
+### 13. Preliminary interview
+
+**13.** (1) A person who is at the frontiers of the State, or who is in the State, and who indicates that he or she—
+
+(a) wishes to make an application for international protection,
+
+(b) is requesting not to be expelled or returned to a territory where there is a serious risk that he or she would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment, or
+
+(c) fears or faces persecution or serious harm if returned to his or her country of origin,
+
+shall be interviewed by an officer of the Minister or an immigration officer at such time as may be specified by the officer concerned and the person shall make himself or herself available for such interview at the time or times so specified.
+
+(2) A preliminary interview shall be conducted so as to establish, among other things—
+
+(a) whether the person wishes to make an application for international protection and, if he or she does so wish, the general grounds on which the application is based,
+
+(b) the identity of the person,
+
+(c) the nationality of the person,
+
+(d) the country of origin of the person,
+
+(e) the route travelled by the person to the State, the means of transport used and details of any person who assisted the person in travelling to the State,
+
+(f) the reason why the person came to the State,
+
+(g) the legal basis for the entry into or presence in the State of the person, and
+
+(h) whether any of the circumstances referred to in *section 21(2)* may apply.
+
+(3) A preliminary interview shall, where necessary to ensure appropriate communication between the person and the person who conducts the interview, be conducted with the assistance of an interpreter.
+
+(4) A record of a preliminary interview shall be kept by the officer conducting it and a copy of it shall be furnished to the person and, if the preliminary interview was conducted by an immigration officer who is not an officer of the Minister, to the Minister.
+
+(5) The Minister shall furnish a copy of the record of a preliminary interview to the High Commissioner whenever requested in writing by the High Commissioner to do so.
+
+### 14. Unaccompanied child seeking international protection
+
+**14.** (1) Where it appears to an officer referred to in *section 13* that a person seeking to make an application for international protection, or who is the subject of a preliminary interview, has not attained the age of 18 years and is not accompanied by an adult who is taking responsibility for the care and protection of the person, the officer shall, as soon as practicable, notify the Child and Family Agency of that fact.
+
+(2) After the notification referred to in *subsection (1)*, it shall be presumed that the person concerned is a child and the Child Care Acts 1991 to 2013, the Child and Family Agency Act 2013 and other enactments relating to the care and welfare of persons who have not attained the age of 18 years shall apply accordingly.
+
+### 15. Application for international protection
+
+**15.** F23[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provisions in ss. 285, 286.
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: power pursuant to subs. (5) exercised (24.07.2024) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2024* (S.I. No. 366 of 2024), in operation as per reg. 1(2); enabling section repealed (12.06.2026) as per F-note above.
+>
+> E21: Previous affecting provision: power pursuant to subs. (5) exercised (31.12.2016) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2016* (S.I. No. 660 of 2016); revoked (24.07.2024) by *International Protection Act 2015 (Application for International Protection Form) Regulations 2024* (S.I. No. 366 of 2024), reg. 3, in operation as per reg. 1(2).
+
+### 16. Permission to enter and remain in the State
+
+**16.** (1) An applicant shall be given, by or on behalf of the Minister, a permission that operates to allow the applicant to enter and remain or, as the case may be, to remain in the State for the sole purpose of the examination of his or her application, including any appeal to the Tribunal in relation to the application.
+
+(2) A permission given under *subsection (1)* shall be valid until the person to whom it is given ceases under *section 2(2)* to be an applicant.
+
+(3) Subject to *subsection (6)*, an applicant shall—
+
+(a) not leave or attempt to leave the State without the consent of the Minister,
+
+(b) … [declared unconstitutional, see E-note below]
+
+(c) inform the Minister of his or her address and any change of address as soon as possible, and
+
+(d) comply with either or both of the following conditions, as may be notified in writing to him or her by an immigration officer:
+
+(i) that he or she reside or remain in a specified district or place in the State;
+
+(ii) that he or she report at specified intervals to—
+
+(I) an immigration officer, or
+
+(II) a specified Garda Síochána station.
+
+(4) An immigration officer may, by notice in writing, withdraw a condition referred to in *subsection (3)(d)* or vary it in a specified manner, and a reference in this Act to a condition imposed on an applicant under *subsection (3)(d)* shall be construed as including a reference to such a condition as varied under this subsection.
+
+(5) An applicant who contravenes *subsection (3)* or *(4)* shall be guilty of an offence and shall be liable on summary conviction to a class D fine or imprisonment for a term not exceeding 1 month or both.
+
+(6) *Paragraphs (a)*, *(b)* and *(d)* of *subsection (3)* and *section 20* shall not apply to an applicant—
+
+(a) to whom *section 2(3)* applies, or
+
+(b) who, were he or she not an applicant, would be entitled to remain in the State under any other enactment or rule of law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 5(1) and sch. 3 ref. 7, not commenced as of date of revision, subject to transitional provisions in s. 24.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: subs. (3)(d)(i) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 5(1) and sch. 3 ref. 7, not commenced as of date of revision, subject to transitional provisions in s. 24.
+>
+> (i) that he or she reside or remain in a specified F24[area] or place in the State;
+>
+> C5: Subss. (3), (4) and (5) applied with modifications (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), reg. 8(2)(a).
+>
+> *Suspension of implementation of transfer decision pending outcome of appeal*
+>
+> 8\. (1) An applicant who appeals under Regulation 6 shall, subject to paragraph (2), be entitled to remain in the State pending the outcome of the appeal.
+>
+> (2) The following provisions of the Act of 2015 shall apply to the entitlement of an applicant under paragraph (1) to remain in the State, as if the references to an applicant in those provisions was a reference to an applicant referred to in paragraph (1):
+>
+> (a) subsections (3), (4) and (5) of section 16;
+>
+> (b) section 19.
+>
+> **Editorial Notes:**
+>
+> E22: Declared unconstitutional: subs. (3)(b) declared unconstitutional (09.02.2018) by *N.H.V v Minister for Justice and Equality* [2017] IESC 82.
+>
+> E23: A class D fine means a fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(1), S.I. No. 662 of 2010.
+
+### 17. Temporary residence certificate
+
+**17.** (1) The Minister shall give or cause to be given to an applicant a temporary residence certificate (in this section referred to as a “certificate”).
+
+F25[(1A) A certificate shall be given to the applicant within 3 working days of the date on which he or she makes an application for international protection in accordance with *section 15*, or such an application is made or deemed to have been made, on his or her behalf.]
+
+(2) A certificate shall contain—
+
+(a) the name of the applicant,
+
+(b) a photograph of the applicant sufficient to identify him or her, and
+
+(c) such other information as may be prescribed.
+
+(3) A certificate remains the property of the Minister and the person to whom it is given shall surrender it when requested to do so by, or on behalf of, the Minister.
+
+(4) A certificate shall be deemed to be a registration certificate for the purposes of section 12 of the Act of 2004 and an applicant to whom a certificate has been given shall, for so long as the certificate remains valid, be deemed to have complied with section 9 of that Act.
+
+(5) A certificate ceases to be valid, and the applicant concerned shall return it to the Minister without delay, where the permission given to the applicant under *section 16* ceases, under *section 16(2)*, to be valid.
+
+(6) A person who forges, fraudulently alters, assists in forging or fraudulently altering or procures the forging or fraudulent alteration of, a certificate shall be guilty of an offence and liable on summary conviction to a class C fine or imprisonment for a term not exceeding 12 months, or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (30.06.2018) by *European Communities (Reception Conditions) Regulations 2018* (S.I. No. 230 of 2018), reg. 29(a), in operation as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subs. (2)(c) exercised (31.12.2016) by *International Protection Act 2015 (Temporary Residence Certificate) (Prescribed Information) Regulations 2016* (S.I. No. 662 of 2016), in operation as per reg. 1(2).
+>
+> E25: A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+
+### 18. Statement to be given to applicant
+
+**18.** (1) The Minister shall, as soon as practicable after receipt by him or her of an application, give or cause to be given to the applicant a statement in writing specifying, in a language that the applicant may reasonably be supposed to understand—
+
+(a) the procedures to be followed in the examination under this Act of applications for international protection,
+
+(b) the entitlement of the applicant, for the purposes of his or her application, to consult a legal representative,
+
+(c) the entitlement of the applicant under this Act to be provided with the services of an interpreter,
+
+(d) the entitlement of the applicant to make, in writing to the Minister, submissions in relation to his or her application,
+
+(e) the duty of the applicant under *section 27* to co-operate in relation to his or her application,
+
+(f) the obligation of the applicant to comply with the requirements specified in *section 16(3)*, and
+
+(g) the possible consequences of the failure of the applicant to attend a personal interview, or to comply with the obligations referred to in *paragraphs (e)* and *(f)*, including the possibility of *section 38(5)* applying to the applicant.
+
+(2) The Minister, in giving or causing to be given a statement under *subsection (1)*, shall, in addition, inform the applicant of his or her entitlements and duties under *subsections (6)* and *(9)* of *section 49*.
+
+### 19. Taking of fingerprints
+
+**19.** (1) Subject to *subsection (2)*, a member of the Garda Síochána, or an immigration officer may—
+
+(a) for the purpose of establishing the identity of a person for any purpose of this Act, take or cause to be taken the fingerprints of F26[an applicant,]
+
+(b) for the purpose of checking whether the person has previously lodged an application for international protection in another Member State, take or cause to be taken the fingerprints of a person who—
+
+(i) is not a citizen of a Member State,
+
+(ii) has attained the age of 14 years, and
+
+(iii) not having permission, under any enactment or rule of law, to be present or remain in the State, has been F27[found in the State, or]
+
+F28[(c) for the purpose of establishing whether the circumstances referred to in *section 21(2)(b)* or *(c)* apply in relation to the person, take or cause to be taken the fingerprints of a person who is the subject of an application for international protection.]
+
+(2) Fingerprints shall not be taken under this section from a person who has not attained the age of 14 years, other than in the presence of—
+
+(a) his or her parent, or another person who is taking responsibility for him or her, or
+
+(b) where applicable, a person appointed by the Child and Family Agency under *section 15(4)* to make an application on behalf of him or her.
+
+(3) If and for so long as the immigration officer or, as the case may be, member of the Garda Síochána concerned has reasonable grounds for believing that the person has attained the age of 14 years, the provisions of *subsection (2)* shall apply as if he or she has attained the age of 14 years.
+
+(4) An applicant who refuses to permit his or her fingerprints to be taken pursuant to *subsection (1)* —
+
+(a) shall be deemed, for the purposes of *section 20(1)(c)*, not to have made reasonable efforts to establish his or her identity, and
+
+(b) shall be deemed to have failed to comply with the requirements of *section 27(1)*.
+
+(5) The Commissioner of the Garda Síochána shall arrange for the maintenance of a record of fingerprints taken pursuant to *subsection (1)*.
+
+(6) Every fingerprint of an applicant taken pursuant to *subsection (1)* and kept under *subsection (5)* shall (if not earlier destroyed) be destroyed—
+
+(a) not later than 3 months after the person from whom it was taken—
+
+(i) is first given, under *section 54*, a permission to reside in the State, and complies with section 9(2) of the Act of 2004,
+
+(ii) becomes an Irish citizen, or
+
+(iii) satisfies the Minister that he or she has acquired the citizenship or nationality of a Member State,
+
+or
+
+(b) in any other case, not later than 10 years after the date on which it is taken.
+
+(7) In this section—
+
+“Member State” includes a state that participates in the Dublin Regulation by virtue of an agreement between the state and the European Union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26, F27: Substituted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 118(a), (b), S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F28: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 118(c), S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> **Modifications (not altering text):**
+>
+> C6: Section applied with modifications (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), reg. 8(2)(b).
+>
+> *Suspension of implementation of transfer decision pending outcome of appeal*
+>
+> 8\. (1) An applicant who appeals under Regulation 6 shall, subject to paragraph (2), be entitled to remain in the State pending the outcome of the appeal.
+>
+> (2) The following provisions of the Act of 2015 shall apply to the entitlement of an applicant under paragraph (1) to remain in the State, as if the references to an applicant in those provisions was a reference to an applicant referred to in paragraph (1):
+>
+> (a) subsections (3), (4) and (5) of section 16;
+>
+> (b) section 19.
+
+### 20. Detention of applicant
+
+**20.** F29[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s 286.
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: subs. (3)(b)(i) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 5(1) and sch. 3 ref. 7, not commenced; section repealed (12.06.2026) as per F-note above.
+>
+> E27: Previous affecting provision: subs. (14)(aa)-(ac) inserted (30.06.2018) by *European Communities (Reception Conditions) Regulations 2018* (S.I. No. 230 of 2018), reg. 29(b), in operation as per reg. 1(2); section repealed (12.06.2026) as per F-note above.
+>
+> E28: Previous affecting provision: power pursuant to subs. (1) exercised (31.12.2016) by *International Protection Act 2015 (Places of Detention) Regulations 2016* (S.I. No. 666 of 2016), in operation as per reg. 1(2); revoked (12.06.2026) by *International Protection Act 2026 (Section 118(5)(a)(ii)) (Places of Detention) Regulations 2026* (S.I. No. 260 of 2026), reg. 5, in operation as per reg. 1(2).
+
+### 21. Inadmissible application
+
+**21.** (1) F30[Subject to *subsection (1A)*, a person] may not make an application for international protection where the application is, under *subsection (2)*, inadmissible.
+
+F32[(1A) *Subsection (1)* shall not apply to a person who is deemed under *section 50A(4)* or *51C(5)*, as the case may be, to have made an application for international protection in accordance with *section 15*.]
+
+(2) An application for international protection is inadmissible where one or more than one of the following circumstances applies in relation to the person who is the subject of the application:
+
+(a) another Member State has granted refugee status or subsidiary protection status to the person;
+
+(b) a country other than a Member State is, in accordance with *subsection (15)*, a first country of asylum for F31[person;]
+
+F33[(c) the person arrived in the State from a safe third country that is, in accordance with *subsection (17)*, a safe country for the person.]
+
+(3) Where an international protection officer is of the opinion that an application for international protection is inadmissible, he or she shall recommend to the Minister that the application be determined to be inadmissible.
+
+(4) Where an international protection officer makes a recommendation under *subsection (3)* —
+
+(a) he or she shall prepare a report in writing, which shall include the reasons for the recommendation, and
+
+(b) the Minister shall, as soon as practicable, notify the person concerned and his or her legal representative (if known) of the recommendation, which notification shall include—
+
+(i) a statement of the reasons for the recommendation,
+
+(ii) a copy of the report referred to in *paragraph (a)*,
+
+(iii) a statement informing the person of his or her entitlement under *subsection (6)* to appeal to the Tribunal against the recommendation, and
+
+(iv) where applicable, a statement of the effect of *subsection (13)*.
+
+(5) The Minister shall notify the High Commissioner of a recommendation under *subsection (3)*.
+
+(6) A person to whom a notification under *subsection (4)* is sent may, within such period from the date of the notification as may be prescribed under *section 77*, appeal to the Tribunal against the recommendation concerned.
+
+(7) *Sections 41*, *44*, *45* and *46(8)* shall apply to an appeal under *subsection (6)* subject to the following modifications, and any other necessary modifications:
+
+(a) the Tribunal shall make its decision without an oral hearing;
+
+(b) a reference in *section 44* to the documents given under *section 40* to an applicant shall be construed as a reference to the notification given to the person concerned under *subsection (4)*.
+
+(8) Before reaching a decision on an appeal under *subsection (6)*, the Tribunal shall consider the following—
+
+(a) the notice of appeal,
+
+(b) all material furnished to the Tribunal by the Minister that is relevant to the decision as to whether the application for international protection concerned is admissible,
+
+(c) any observations made to the Tribunal by the Minister or the High Commissioner, and
+
+(d) such other matters as the Tribunal considers relevant to the appeal.
+
+(9) In relation to an appeal under *subsection (6)*, the Tribunal may decide to—
+
+(a) affirm the recommendation of the international protection officer, or
+
+(b) set aside the recommendation of the international protection officer.
+
+(10) The decision of the Tribunal on an appeal under *subsection (6)* and the reasons for the decision shall be communicated by the Tribunal to the person concerned and his or her legal representative (if known), the Minister and the High Commissioner.
+
+(11) Where a recommendation is made under *subsection (3)*, and—
+
+(a) the person concerned does not appeal under *subsection (6)* against the recommendation, or
+
+(b) the Tribunal, under *subsection (9)*, affirms the recommendation,
+
+the Minister shall determine the application to be inadmissible.
+
+(12) Where the Minister determines an application to be inadmissible, he or she shall, as soon as practicable, notify the person concerned and his or her legal representative (if known) of the determination and of the reasons for it, which notification shall, where applicable, include a statement of the effect of *subsection (13)*.
+
+(13) Where an application for international protection that is purported to have been made under *section 15* is determined under *subsection (11)* to be inadmissible—
+
+(a) any examination of the application shall be terminated, and
+
+(b) the report referred to in *section 39* shall not be prepared.
+
+(14) A notification under *subsections (4)(b)* and *(12)* shall be in a language that the person concerned may reasonably be supposed to understand, where—
+
+(a) the person is not assisted or represented by a legal representative, and
+
+(b) legal assistance is not available to the person.
+
+(15) For the purposes of this section, a country is a first country of asylum for a person if he or she—
+
+(a) (i) has been recognised in that country as a refugee and can still avail himself or herself of that protection, or
+
+(ii) otherwise enjoys sufficient protection in that country, including benefiting from the principle of non-refoulement,
+
+and
+
+(b) will be re-admitted to that country.
+
+F35[(16) In *subsection (2)(a)*, "refugee status" and "subsidiary protection status" shall be construed in accordance with Article 3 of the Qualification Regulation.]
+
+F34[(17) For the purposes of this section, a safe third country is a safe country for a person if he or she—
+
+(a) having regard to the matters referred to in *subsection (18)*, has a sufficient connection with the country concerned on the basis of which it is reasonable for him or her to return there,
+
+(b) will not be subjected in the country concerned to the death penalty, torture or other inhuman or degrading treatment or F36[punishment or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict,]
+
+(c) will be re-admitted to the country F37[concerned, and]
+
+F38[(d) has the possibility in the country concerned to request refugee status and, if found to be a refugee, to receive protection in accordance with the Geneva Convention.]
+
+(18) For the purposes of *subsection (17)(a)*, the matters to which regard shall be had include (but are not limited to) the following:
+
+(a) the period the person concerned has spent, whether lawfully or unlawfully, in the country concerned;
+
+(b) any relationship between the person concerned and persons in the country concerned, including nationals and residents of that country and family members seeking to be recognised in that country as refugees;
+
+(c) the presence in the country concerned of any family members, relatives or other family relations of the person concerned;
+
+(d) the nature and extent of any cultural connections between the person concerned and the country concerned.]
+
+F39[(19) In *subsection (17)(d)*, "refugee status" means the recognition by the country concerned of a third country national or stateless person as a refugee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30, F31: Substituted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 119(a), (c)(i), S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F32, F33, F34: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 119(b), (c)(ii), (d), S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F35: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 291, S.I. No. 244 of 2026.
+>
+> F36, F37: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 8(b)(i), (ii), commenced on enactment.
+>
+> F38, F39: Inserted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 8(b)(iii), (c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E29: Previous affecting provision: subs. (16) amended (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 8(a), commenced on enactment; subsection substituted (12.06.2026) as per F-note above.
+
+### 22. Subsequent application
+
+**22.** F40[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: application of section restricted (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), regs. 12(2), 13(2), 14(2); section repealed (12.06.2026) as per F-note above.
+
+### 23. Report in relation to the health of applicant
+
+**23.** (1) Where, in the performance by the Minister or an international protection officer of his or her functions under this Act in relation to an applicant, a question arises regarding the physical or psychological health of the applicant, the Minister or international protection officer, as the case may be, may require the applicant to be examined, and a report in relation to the health of the applicant furnished, by a nominated registered medical practitioner chosen by the applicant.
+
+(2) Where, in the performance by the Tribunal of its functions under this Act in relation to an applicant, a question arises regarding the physical or psychological health of the applicant, the Tribunal may require the applicant to be examined, and a report in relation to the health of the applicant furnished, by a nominated registered medical practitioner chosen by the applicant.
+
+(3) The Minister shall establish a panel of registered medical practitioners who, in the opinion of the Minister, possess the qualifications and experience necessary for the performance of the functions of a nominated registered medical practitioner under this section.
+
+(4) In this section, “nominated registered medical practitioner” means a registered medical practitioner who is a member of the panel established under *subsection (3)*.
+
+### 24. Examination to determine age of unaccompanied person
+
+**24.** (1) The Minister, or an international protection officer, where he or she, with reasonable cause, considers it necessary to do so for the purposes of determining whether an applicant referred to in *section 15(4)* has not attained the age of 18 years, may, subject to this section, arrange for the use of an examination to determine the age of the applicant.
+
+(2) An examination under *subsection (1)* shall be—
+
+(a) performed with full respect for the applicant’s dignity,
+
+(b) consistent with the need to achieve a reliable result, the least invasive examination possible, and
+
+(c) where the examination is a medical examination, carried out by a registered medical practitioner or such other suitably qualified medical professional as may be prescribed.
+
+(3) An examination under *subsection (1)* shall not be carried out without the consent of—
+
+(a) the applicant concerned, or
+
+(b) one of the following:
+
+(i) an adult who is taking responsibility for the care and protection of the applicant; or
+
+(ii) an employee or other person appointed by the Child and Family Agency under *section 15(4)*.
+
+(4) The Minister or international protection officer, as the case may be, shall ensure that an applicant referred to in *section 15(4)* is informed, prior to the international protection officer’s examination of the application, in a language which the applicant may reasonably be supposed to understand, of—
+
+(a) the possibility that the age of the applicant may be determined by examination under *subsection (1)*,
+
+(b) the method or methods to be used in the examination under *subsection (1)*,
+
+(c) the possible consequences of the result of the examination under *subsection (1)* for the examination by the international protection officer of the application, and
+
+(d) the consequences of refusal on the part of the applicant to undergo the examination.
+
+(5) The consequences referred to in *subsection (4)(d)* are that the Minister or international protection officer may proceed to determine, for the purposes of this Act and in the absence of an examination under *subsection (1)*, whether the applicant has not attained the age of 18 years.
+
+(6) The best interests of the child shall be a primary consideration in the application of this section.
+
+(7) For the purposes of *subsection (1)*, the Minister or international protection officer shall be considered to have reasonable cause where he or she considers that, on the basis of general statements or other relevant indications, there are reasons to have doubts in relation to the age of the applicant concerned.
+
+### 25. Examination to determine age for purposes of subsection (7) of section 20
+
+**25.** (1) For the purposes of *paragraph (b)* of *subsection (7)* of *section 20*, the Minister may arrange for the carrying out of an examination (in this section referred to as an “examination”) in order to determine the age of a person.
+
+(2) A member of the Garda Síochána or an immigration officer who has formed a belief to which *paragraph (b)* of *subsection (7)* of *section 20* applies may request the Minister to make an arrangement under *subsection (1)* and the Minister shall, upon receipt of such request make such an arrangement.
+
+(3) The Minister shall ensure that a person in respect of whom it is proposed to make an arrangement under *subsection (1)* is informed, prior to the examination concerned, in a language that the applicant may reasonably be supposed to understand, of—
+
+(a) the possibility that the age of the applicant may be determined by an examination,
+
+(b) the method or methods to be used in the examination, and
+
+(c) the consequences of refusal on the part of the applicant to undergo the examination.
+
+(4) An examination under *subsection (1)* shall not be carried out without the consent of—
+
+(a) the applicant concerned, or
+
+(b) one of the following:
+
+(i) an adult who is taking responsibility for the care and protection of the person; or
+
+(ii) an employee or other person appointed by the Child and Family Agency under *subsection (4)* of *section 15*.
+
+(5) An examination under *subsection (1)* shall be—
+
+(a) performed with full respect for the person’s dignity,
+
+(b) consistent with the need to achieve a reliable result, the least invasive examination possible, and
+
+(c) where the examination is a medical examination, carried out by a registered medical practitioner or such other suitably qualified medical professional as may be prescribed.
+
+(6) The best interests of the child shall be a primary consideration in the application of this section.
+
+### 26. Protection of identity of applicant
+
+**26.** (1) The Minister and the Tribunal and their respective officers shall take all practicable steps to ensure that the identity of applicants is kept confidential.
+
+(2) A person shall not, without the consent of the applicant, publish in a written publication available to the public or broadcast, or cause to be so published or broadcast, information likely to lead members of the public to identify a person as an applicant.
+
+(3) If any matter is published or broadcast in contravention of *subsection (2)*, the following persons shall be guilty of an offence and liable on summary conviction to a class A fine or a term of imprisonment of 12 months or both:
+
+(a) in the case of a publication in a newspaper or periodical, the proprietor, the editor and the publisher of the newspaper or periodical;
+
+(b) in the case of any other publication, the person who publishes it;
+
+(c) in the case of matter that is a programme that is broadcast, any person who transmits or provides that programme in which the broadcast is made, and any person having functions in relation to the programme corresponding to those of the editor of a newspaper;
+
+(d) in the case of matter that is broadcast but is not a programme, the person responsible for broadcasting the matter and any person having functions in relation to the website or other medium of communications corresponding to those of the editor of a newspaper.
+
+(4) Where a person is charged with an offence under *subsection (3)*, it shall be a defence to prove that at the time of the alleged offence he or she was not aware, and neither suspected nor had reason to suspect, that the publication or broadcast in question was of such matter as is referred to in *subsection (2)*.
+
+(5) In this section—
+
+“applicant” means a person who is or has been an applicant—
+
+(a) under this Act, or
+
+(b) within the meaning of the Act of 1996,Regulation 4 of the Regulations of 2006 or the Regulations of 2013;
+
+“broadcast” means the transmission, relaying or distribution by wireless telegraphy or cable of communications, sounds, signs, visual images or signals intended for direct reception by the general public, whether such communications, sounds, signs, visual images or signals are actually received or not, and includes the publication of such communications, sounds, signs, visual images or signals through the medium of the internet;
+
+“written publication” includes a film, a sound track and any other record in permanent form (including a record that is not in a legible form but which is capable of being reproduced in a legible form) but does not include an indictment or other document prepared for use in particular legal proceedings.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E31: A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## PART 4Assessment of Applications for International Protection — PART 4 — Assessment of Applications for International Protection
+
+### 27. Duty of applicant to cooperate
+
+**27.** (1) It shall be the duty of an applicant—
+
+(a) to submit as soon as reasonably practicable all the information needed to substantiate his or her application,
+
+F41[(aa) to remain present and available in the State throughout the examination of the application,]
+
+(b) to co-operate in the examination of his or her application and in the determination of his or her appeal in relation to that application, if any, and
+
+(c) to comply with all of the other obligations under *Parts 3* to *6* of an applicant in relation to his or her application.
+
+(2) The information referred to in *subsection (1)* consists of statements by the applicant, and all documentation at his or her disposal, regarding the elements, referred to in *section 28(3)*, of his or her application.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 292, S.I. No. 244 of 2026.
+
+### 28. Assessment of facts and circumstances
+
+**28.** (1) An international protection officer shall, in co-operation with the applicant, assess the relevant elements of the application.
+
+(2) The Tribunal shall, for the purposes of an appeal under *section 41* in co-operation with the applicant, assess the relevant elements of the application.
+
+F42[(3) The elements referred to in *subsections (1)* and *(2)* consist of the applicant’s statements and all the documents submitted by the applicant regarding the matters referred to in point (b) of Article 4(2) of the Qualification Regulation.]
+
+(4) The assessment, by the international protection officer of an application, and by the Tribunal of an appeal under *section 41*, shall be carried out on an individual basis and shall include taking into account the following:
+
+(a) all relevant facts as they relate to the country of origin at the time of taking a decision on the application, including laws and regulations of the country of origin and the manner in which they are applied;
+
+(b) the relevant statements and documentation presented by the applicant including information on whether the applicant has been or may be subject to persecution or serious harm;
+
+(c) the individual position and personal circumstances of the applicant, including factors such as background, gender and age, so as to assess whether, on the basis of the applicant’s personal circumstances, the acts to which the applicant has been or could be exposed would amount to persecution or serious harm;
+
+(d) whether the applicant’s activities since leaving the country of origin were engaged in for the sole or main purpose of creating the necessary conditions for applying for international protection, so as to assess whether those activities will expose the applicant to persecution or serious harm if returned to that country;
+
+(e) whether the applicant could reasonably be expected to avail himself or herself of the protection of another country where he or she could assert citizenship;
+
+(f) the general credibility of the applicant.
+
+(5) (a) In the assessment of an application, an international protection officer shall, in the case of an applicant who was a child at the time of a relevant occurrence or at any time during which a relevant circumstance existed, take account of the applicant’s age at that time and the level of understanding that could reasonably be expected of a child of that age.
+
+(b) In the conduct of an appeal under *section 41*, the Tribunal shall, in the case of an applicant who was a child at the time of a relevant occurrence or at any time during which a relevant circumstance existed, take account of the applicant’s age at that time and the level of understanding that could reasonably be expected of a child of that age.
+
+(c) In this subsection—
+
+“relevant circumstance” means, in relation to an application, a circumstance that falls to be considered in the assessment of the application;
+
+“relevant occurrence” means, in relation to an application, an occurrence that falls to be considered in the assessment of the application.
+
+(6) The fact that an applicant has already been subject to persecution or serious harm, or to direct threats of such persecution or such serious harm, is a serious indication of the applicant’s well-founded fear of persecution or real risk of suffering serious harm, unless there are good reasons to consider that such persecution or serious harm will not be repeated.
+
+(7) Where aspects of the applicant’s statements are not supported by documentary or other evidence, those aspects shall not need confirmation where the international protection officer or, as the case may be, the Tribunal, is satisfied that—
+
+(a) the applicant has made a genuine effort to substantiate his or her application,
+
+(b) all relevant elements at the applicant’s disposal have been submitted and a satisfactory explanation regarding any lack of other relevant elements has been given,
+
+(c) the applicant’s statements are found to be coherent and plausible and do not run counter to available specific and general information relevant to the applicant’s case,
+
+(d) F43[...]
+
+(e) the general credibility of the applicant has been established F44[taking into account the time at which the applicant applied for international protection].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 293(a), S.I. No. 244 of 2026.
+>
+> F43: Deleted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 293(b), S.I. No. 244 of 2026.
+>
+> F44: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 293(c), S.I. No. 244 of 2026.
+
+### 29. International protection needs arising sur place
+
+**29.** F45[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 30. Actors of persecution or serious harm
+
+**30.** F46[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 31. Actors of protection
+
+**31.** F47[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+
+### 32. Internal protection
+
+F48[**32.** An international protection officer may recommend or, as the case may be, the Tribunal may decide, in accordance with Article 8 of the Qualification Regulation, that an applicant is not in need of international protection for a reason referred to in that Article.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 290, S.I. No. 244 of 2026.
+
+### 33. Applicant from safe country of origin
+
+**33.** A country that has been designated under *section 72* as a safe country of origin shall, for the purposes of the assessment of an application for international protection, be considered to be a safe country of origin in relation to a particular applicant only where—
+
+(a) the country is the country of origin of the applicant, and
+
+(b) the applicant has not submitted any serious grounds for considering the country not to be a safe country of origin in his or her particular circumstances and in terms of his or her eligibility for international protection.
+
+## PART 5Examination of Applications at First Instance — PART 5 — Examination of Applications at First Instance
+
+### 34. Examination of application
+
+**34.** An international protection officer shall examine each application for international protection for the purpose of deciding whether to recommend, under *section 39(2)(b)*, that—
+
+(a) the applicant should be given a refugee declaration,
+
+(b) the applicant should not be given a refugee declaration and should be given a subsidiary protection declaration, or
+
+(c) the applicant should be given neither a refugee declaration nor a subsidiary protection declaration.
+
+### 35. Personal interview
+
+**35.** (1) As part of the examination referred to in *section 34*, the international protection officer shall cause the applicant to be interviewed, at such time and place that the international protection officer may fix, in relation to the matters referred to in that section.
+
+(2) An applicant interviewed under *subsection (1)* shall, whenever necessary for the purpose of ensuring appropriate communication during a personal interview, be provided by the Minister or international protection officer with the services of an interpreter.
+
+(3) The Minister, for the purpose of ensuring that personal interviews are conducted under conditions that allow the applicant to present the grounds for his or her application in a comprehensive manner shall—
+
+(a) ensure that the persons who conduct the personal interviews are sufficiently competent to take account of the personal or general circumstances surrounding the application, including the applicant’s cultural origin or vulnerability, insofar as it is possible to do so, and
+
+(b) in the case of interviews to which *subsection (2)* applies, select interpreters who are able to ensure appropriate communication between the applicant and the person who conducts the interview.
+
+(4) The requirement in *subsection (3)(b)* shall be regarded as complied with if interpretation is provided in a language that the applicant may reasonably be supposed to understand and in which he or she is able to communicate.
+
+(5) A personal interview shall—
+
+(a) take place without the presence of family members of the applicant unless the international protection officer considers it necessary for an appropriate examination to have other family members present, and
+
+(b) take place under conditions that ensure appropriate confidentiality.
+
+(6) The following may be present at a personal interview:
+
+(a) the High Commissioner, whenever he or she so requests;
+
+(b) the applicant’s legal representative or a person nominated by that legal representative, with the consent of the applicant.
+
+(7) (a) Where an applicant has not attained the age of 18 years and is accompanied by an adult other than his or her parent, the interviewer, where he or she considers it appropriate to do so, shall require the adult to satisfy him or her that the adult is taking responsibility for the care and protection of the applicant concerned.
+
+(b) For the purposes of *paragraph (a)*, the interviewer may make such inquiries of or about the applicant and the adult concerned as the interviewer considers necessary in order to satisfy himself or herself that the adult is taking the responsibility referred to in *paragraph (a)* and is authorised to do so.
+
+(c) Where the interviewer (whether or not having made appropriate enquiries under *paragraph (b)*) is not satisfied either that the adult is taking responsibility for the applicant or that the adult is authorised to do so, he or she shall so inform the Child and Family Agency, and
+
+(i) it shall be presumed that the applicant is a child in need of care and protection, and
+
+(ii) the Child Care Acts 1991 to 2013, the Child and Family Agency Act 2013 and other enactments relating to the care and welfare of persons who have not attained the age of 18 years shall apply.
+
+(8) A personal interview may be dispensed with where the international protection officer is of the opinion that—
+
+(a) based on the available evidence, the applicant is a person in respect of whom a refugee declaration should be given,
+
+(b) where the applicant has not attained the age of 18 years, he or she is of such an age and degree of maturity that an interview would not usefully advance the examination, or
+
+(c) the applicant is unfit or unable to be interviewed owing to circumstances that are enduring and beyond his or her control.
+
+(9) *Subsection (8)* shall not of itself operate to—
+
+(a) prevent information relating to the application from being submitted to the international protection officer by or on behalf of the applicant,
+
+(b) prevent the international protection officer from making a recommendation under *section 39* in respect of the application, or
+
+(c) adversely affect the recommendation referred to in *paragraph (b)*.
+
+(10) The applicant, the High Commissioner or any other person concerned may make representations in writing to the Minister in relation to any matter relevant to an examination of an application for international protection and the international protection officer shall take account of any such representations made before or during a personal interview.
+
+(11) *Subsection (10)* shall not be construed as preventing the international protection officer from taking into account any representations made following a personal interview provided that such representations are made prior to the preparation of the report under *section 39(1)* in relation to the application.
+
+(12) Following the conclusion of a personal interview, the interviewer shall prepare a report in writing of the interview.
+
+(13) The report prepared under *subsection (12)* shall comprise two parts—
+
+(a) one of which shall include anything that is, in the opinion of the international protection officer, relevant to the application, and
+
+(b) the other of which shall include anything that would, in the opinion of the international protection officer, be relevant to the Minister’s decision under *section 48* or *49*, in the event that the section concerned were to apply to the applicant.
+
+### 36. Applicants to whom section 15(4) applies
+
+**36.** Where *section 15(4)* applies to an applicant, the Minister shall, taking the best interests of the child as a primary consideration, ensure that—
+
+(a) the person appointed by the Child and Family Agency under that provision—
+
+(i) is given the opportunity to inform the applicant about the meaning and possible consequences of the personal interview and, where appropriate, how to prepare himself or herself for the personal interview, and
+
+(ii) is allowed to be present at the personal interview and to ask questions or make comments, within the framework set by the person who conducts the interview,
+
+(b) the personal interview is conducted—
+
+(i) by a person who has the necessary knowledge of, and competence to take into account, the special needs of persons who have not attained the age of 18 years, and
+
+(ii) where appropriate, having regard to the age and degree of maturity of the applicant and the role of the person referred to in *paragraph (a)*, in a manner that enables the applicant to ask questions and make comments, within the framework set by the person who conducts the interview,
+
+and
+
+(c) the report of the personal interview together with the report under *section 39* in respect of the applicant’s application is prepared by a person with the necessary knowledge of the special needs of persons who have not attained the age of 18 years.
+
+### 37. Withdrawal of application at first instance
+
+**37.** (1) An applicant may, at any time before the preparation of the report under *section 39* in relation to the application, withdraw his or her application by sending notice of withdrawal to the Minister.
+
+(2) Where an application is withdrawn pursuant to *subsection (1)* —
+
+(a) any examination of the application shall be terminated,
+
+(b) *sections 39* and *40* and *Part 6* shall not apply in respect of the application,
+
+(c) the Minister shall, under *section 47(5)*, refuse both to give the person who made the application a refugee declaration and to give a subsidiary protection declaration, and
+
+(d) the Minister, as soon as practicable, shall—
+
+(i) send the person and his or her legal representative (if known) a notice confirming that the application is withdrawn, and
+
+(ii) inform the High Commissioner of the fact that the application is withdrawn.
+
+### 38. Failure by applicant to cooperate
+
+**38.** (1) Where an applicant does not attend for a personal interview on the date and at the time fixed under *section 35(1)* for the interview then, unless the applicant, not later than 3 working days from that date, furnishes the Minister with an explanation for the non-attendance which in the opinion of the Minister is reasonable in the circumstances, *subsection (5)* shall apply to the applicant.
+
+(2) Where the Minister is of the opinion that an applicant—
+
+(a) has failed, or is failing, in his or her duty under *section 27* to co-operate, or
+
+(b) is in breach of *paragraph (a)*, *(c)* or *(d)* of *section 16(3)*,
+
+the Minister shall send to the applicant or his or her legal representative (if known) written notice of his or her opinion, and of the reasons for it.
+
+(3) The Minister, in the notice under *subsection (2)*, shall—
+
+(a) invite the applicant to furnish, within 10 working days of the date of the notice, his or her observations on the Minister’s opinion referred to in that subsection,
+
+(b) require the applicant to confirm in writing, within 10 working days of the date of the notice, that he or she wishes to continue with his or her application,
+
+(c) remind the applicant of his or her duty under *section 27* to co-operate and to comply with any requirements that have been or may be imposed on him or her under *paragraph (a)* or *(d)* of *section 16(3)*, and
+
+(d) include a statement of the effect of *subsection (5)* and of *section 22(2)(c)*.
+
+(4) Where—
+
+(a) an applicant to whom a notice under *subsection (2)* is sent does not furnish the confirmation referred to in *subsection (3)(b)*, or
+
+(b) the Minister, having considered the observations (if any) made by the applicant referred to in *subsection (3)(a)* and the confirmation of the applicant referred to in *subsection (3)(b)*, is of the opinion that the applicant has failed, or is failing, to comply with any of the obligations referred to in *subsection (3)(c)*, *subsection (5)* shall apply to the applicant.
+
+(5) (a) Where this subsection applies to an applicant, the applicant’s application shall be examined on the basis of the information referred to in *paragraph (a)* only.
+
+(b) The information referred to in *paragraph (a)* is the information submitted by the applicant before this subsection applied to him or her.
+
+(6) A notice under *subsection (2)* shall, when sent to the applicant, be in a language that he or she may reasonably be supposed to understand, where—
+
+(a) he or she is not assisted or represented by a legal representative, and
+
+(b) legal assistance is not available to him or her.
+
+### 39. Report of examination of application
+
+**39.** (1) Following the conclusion of an examination of an application for international protection, the international protection officer shall cause a written report to be prepared in relation to the matters referred to in *section 34*.
+
+(2) The report under *subsection (1)* shall—
+
+(a) refer to the matters relevant to the application which are—
+
+(i) raised by the applicant in his or her application, preliminary interview or personal interview or at any time before the conclusion of the examination, and
+
+(ii) other matters the international protection officer considers appropriate,
+
+(b) set out the recommendation of the international protection officer in relation to the application, and
+
+(c) set out any of the findings referred to in *subsection (4)* in relation to the application.
+
+(3) The recommendation of the international protection officer in relation to the applicationshall be based on the examination of the application and shall be that—
+
+(a) the applicant should be given a refugee declaration,
+
+(b) the applicant should not be given a refugee declaration and should be given a subsidiary protection declaration, or
+
+(c) the applicant should be given neither a refugee declaration nor a subsidiary protection declaration.
+
+(4) Where a report under this section includes a recommendation of the international protection officer referred to in *subsection (3)(c)*, the report may also include one or more of the following findings:
+
+(a) that the applicant, in submitting his or her application and in presenting the grounds of his or her application in his or her preliminary interview or personal interview or at any time before the conclusion of the examination, has raised only issues that are not relevant or are of minimal relevance to his or her eligibility for international protection;
+
+(b) that the applicant has made inconsistent, contradictory, improbable or insufficient representations which make his or her claim to be eligibile for international protection clearly unconvincing;
+
+(c) that the applicant has failed without reasonable cause to make his or her application as soon as reasonably practicable having had opportunity to do so;
+
+(d) that the applicant, for a reason referred to in *section 32*, is not in need of international protection;
+
+(e) that the applicant’s country of origin is a safe country of origin.
+
+(5) Where a recommendation referred to in *subsection (2)(b)* cannot be made within 6 months of the date of application, the Minister shall, upon request from the applicant, provide the applicant with information on the estimated time within which a recommendation may be made.
+
+(6) The provision under *subsection (5)* by the Minister of an estimated time within which a recommendation may be made shall not of itself oblige the international protection officer to make a recommendation within that time.
+
+(7) A report under this section shall, as soon as practicable after it is prepared, be furnished to the Minister.
+
+### 40. Notification of recommendation in relation to application at first instance
+
+**40.** (1) Where an international protection officer has prepared a report under *section 39*, or caused such a report to be prepared, the Minister shall notify, in writing, the applicant concerned, the applicant’s legal representative (if known) and, whenever so requested by him or her, the High Commissioner, of the officer’s recommendation referred to in *section 39(2)(b)*.
+
+(2) A notification under *subsection (1)* and, where applicable, a statement under *subsection (4)(c)* or *subsection (5)(c)* shall, when sent to an applicant, be in a language that he or she may reasonably be supposed to understand, where—
+
+(a) he or she is not assisted or represented by a legal representative, and
+
+(b) legal assistance is not available to him or her.
+
+(3) Where the international protection officer’s recommendation is that referred to in *section 39(3)(a)*, the notification under *subsection (1)* need only consist of that fact.
+
+(4) Where the international protection officer’s recommendation is that referred to in *section 39(3)(b)*, the notification under *subsection (1)* shall be accompanied by—
+
+(a) a statement of the reasons for the recommendation that the applicant not be given a refugee declaration,
+
+(b) a copy of the report under *section 39*, and
+
+(c) a statement of the entitlement of the applicant to appeal to the Tribunal against the recommendation, and of the procedures specified in *Part 6*.
+
+(5) Where the international protection officer’s recommendation is that referred to in *section 39(3)(c)*, the notification under *subsection (1)* shall be accompanied by—
+
+(a) a statement of the reasons for the recommendation,
+
+(b) a copy of the report under *section 39*, and
+
+(c) a statement of the entitlement of the applicant to appeal to the Tribunal against the recommendation, and of the procedures specified in *Part 6*.
+
+(6) Nothing in this Act shall be construed as requiring the disclosure of any information that has been supplied to the Minister, an international protection officer, a Department of State or other branch or office of the public service by or on behalf of the government of another state subject to an undertaking (express or implied) that the information would be kept confidential, other than in accordance with the undertaking, or with the consent of the other state.
+
+## PART 6Appeals to Tribunal — PART 6 — Appeals to Tribunal
+
+### 41. Appeal to Tribunal
+
+**41.** (1) An applicant may, in accordance with regulations under *subsection (4)* (if any), appeal to the Tribunal against—
+
+(a) a recommendation, referred to in *section 39(3)(b)*, that an applicant should not be given a refugee declaration, or
+
+(b) a recommendation, referred to in *section 39(3)(c)*, that an applicant should be given neither a refugee declaration nor a subsidiary protection declaration.
+
+(2) An appeal under *subsection (1)* shall be brought by notice in writing—
+
+(a) within such period from the date of the sending to the applicant of the notification under *section 40* as may be prescribed under *section 77*,
+
+(b) specifying, in writing, the grounds of appeal and indicating whether the applicant wishes the Tribunal to hold an oral hearing for the purpose of his or her appeal.
+
+(3) On receipt of a notice under *subsection (2)*, the Tribunal shall transmit a copy of the notice to the Minister and notify the High Commissioner of the making of the appeal.
+
+(4) The Minister may, in consultation with the chairperson and having regard to the need to observe fair procedures, prescribe procedures for and in relation to appeals under *subsection (1)*, including the holding of oral hearings.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Section applied with modifications (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), reg. 16(5).
+>
+> *Applicant for subsidiary protection under Regulations of 2006 to whom Article 18(1)(d) applies*
+>
+> 16\. ...
+>
+> (5) An appeal under paragraph (2) made in accordance with paragraph (4) shall be deemed to be an appeal under section 41(1)(b) of the Act of 2015, and the provisions of that Act shall apply to the appeal, with the following modifications and any other necessary modifications—
+>
+> (a) the determination of the Minister, referred to in paragraph (1)(b), shall be deemed to be a recommendation, referred to in section 39(3)(c) of that Act, of an international protection officer that the person should be given neither a refugee declaration nor a subsidiary protection declaration,
+>
+> (b) the appeal shall be deemed to have been made only in respect of the part of the recommendation referred to in paragraph (a) that recommends that the person should not be given a subsidiary protection declaration, and
+>
+> (c) a reference in that Act to a notice of appeal under section 41(2) shall be deemed to be a reference to the person’s notice of appeal under paragraph (4)(b).
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to subs. (4) exercised (18.06.2026) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2026* (S.I. No. 285 of 2026), in operation as per reg. 1(2).
+>
+> E33: Power pursuant to subs. (4) exercised (2.03.2026) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2026* (S.I. No. 46 of 2026), in operation as per reg. 1(2).
+>
+> E34: Power pursuant to subs. (4) exercised (8.11.2022) by *International Protection Act 2015 (Procedures and Periods for Appeals) (Amendment) Regulations 2022* (S.I. No. 542 of 2022), in operation as per reg. 1(2).
+>
+> E35: Power pursuant to subs. (4) exercised (29.03.2017) by *International Protection Act 2015 (Procedures and Periods for Appeals) Regulations 2017* (S.I. No. 116 of 2017).
+
+### 42. Oral hearing
+
+**42.** (1) The Tribunal shall hold an oral hearing for the purpose of an appeal under *section 41* where—
+
+(a) subject to *subsection (2)*, the applicant has requested this in the notice under *section 41(2)*, or
+
+(b) it is of the opinion that it is in the interests of justice to do so.
+
+(2) (a) An applicant may withdraw a request referred to in *subsection (1)(a)* by giving notice, which shall set out the reasons for the withdrawal, to the Tribunal not later than 3 working days before the hearing date.
+
+(b) The Tribunal, on receipt of a notice under *paragraph (a)*, shall consider, having regard to the interests of justice, whether to hold an oral hearing.
+
+(3) Except where otherwise provided, an appeal may be determined without an oral hearing.
+
+(4) Subject to *subsections (5)* and *(6)*, an oral hearing shall be held in private.
+
+(5) The High Commissioner may be present at an oral hearing for the purpose of observing the proceedings.
+
+(6) In conducting an oral hearing, the Tribunal shall—
+
+(a) permit the applicant to be present at the hearing and present his or her case to the Tribunal in person or through a legal representative,
+
+(b) permit an officer of the Minister or another person nominated by the Minister to be present at and participate in the hearing and, in person or through a legal representative, explain to the Tribunal the recommendation of the international protection officer that is the subject of the appeal,
+
+(c) where necessary for the purpose of ensuring appropriate communication during the hearing, provide the applicant with the services of an interpreter,
+
+(d) conduct the oral hearing as informally as is practicable, and consistent with fairness and transparency,
+
+(e) ensure that the oral hearing proceeds with due expedition, and
+
+(f) allow for the examination and cross-examination of the applicant and any witnesses.
+
+(7) (a) Where the notice of appeal under *section 41* includes a request to the Tribunal to direct the attendance of a witness before the Tribunal, the Tribunal shall, in respect of each such witness, determine whether he or she should be directed to attend before the Tribunal in accordance with *subsection (8)*.
+
+(b) In making a determination under *paragraph (a)*, the Tribunal shall have regard to the nature and purpose of the evidence proposed to be given by the witness as indicated in the notice of appeal.
+
+(8) For the purposes of an oral hearing, the Tribunal may—
+
+(a) direct in writing any person, other than the Minister or an officer of the Minister, whose evidence is required by the Tribunal to attend before the Tribunal on a date and at a time and place specified in the direction and there to give evidence and to produce any document or thing in his or her possession or control specified in the direction,
+
+(b) direct any such person to produce any specified document or thing in his or her possession or control,
+
+(c) give any other directions for the purpose of an appeal that appear to the Tribunal to be reasonable and just, and
+
+(d) take evidence on oath or on affirmation and for that purpose may cause persons attending before it to swear an oath or make an affirmation.
+
+(9) *Paragraphs (a)* and *(b)* of *subsection (8)* and *section 44(2)* shall not apply to a document or thing relating to information which the Minister or the Minister for Foreign Affairs and Trade directs (which he or she is hereby empowered to do) that the information be withheld in the interest of national security or public policy (“ordre public”).
+
+(10) Subject to *subsection (11)*, a witness whose evidence has been or is to be given before the Tribunal shall be entitled to the same privileges and immunities as a witness in a court.
+
+(11) Where information has been supplied to the Minister, an international protection officer, a Department of State or other branch or office of the public service by or on behalf of the government of another state subject to an undertaking (express or implied) that the information would be kept confidential, the information shall not be produced or further disclosed, other than in accordance with the undertaking, or with the consent of the other state.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E36: Hearings under section designated for remote hearing (31.12.2020) by *Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 (Section 31) (International Protection Appeals Tribunal) (Designation) Order 2020* (S.I. No. 715 of 2020), in operation as per art. 1(2).
+
+### 43. Accelerated appeal procedures in certain cases
+
+**43.** Where the report under *section 39* includes any of the findings referred to in *section 39(4)*, the following modifications shall apply in relation to an appeal under *section 41* by the applicant concerned—
+
+(a) the appeal shall be brought by notice in writing within such period, which may be a shorter period than that prescribed for the purposes of *section 41(2)(a)*, from the date of the sending to the applicant of the notification under *section 40*, as may be prescribed under *section 77*,
+
+(b) notwithstanding the provisions of *section 42*, the Tribunal, unless it considers it is not in the interests of justice to do so, shall make its decision in relation to the appeal without holding an oral hearing, and
+
+(c) the notification referred to in *section 40(1)* shall include a statement informing the applicant concerned of the effect of the modifications referred to in *paragraph (a)* and *(b)*.
+
+### 44. Appeal to Tribunal: provision of information
+
+**44.** (1) The Minister shall, for the purposes of an appeal under *section 41*, furnish the Tribunal with copies of the documents provided to the applicant under *section 40*.
+
+(2) The Tribunal may, for the purposes of its functions under this Act, request the Minister to make such further inquiries and to furnish the Tribunal with such further information as the Tribunal considers necessary within such period as may be specified by the Tribunal.
+
+(3) The Minister shall furnish the Tribunal with observations in writing concerning any matter arising on the grounds of appeal whenever so requested by the Tribunal and a copy of such observations shall be furnished to the applicant concerned and his or her legal representative (if known).
+
+### 45. Withdrawal and deemed withdrawal of appeal to Tribunal
+
+**45.** (1) An applicant may, at any time before the making by the Tribunal of its decision under *section 46* in relation to the appeal, withdraw his or her appeal to the Tribunal by sending notice of withdrawal to the Tribunal.
+
+(2) Where an applicant fails, without reasonable cause, to attend an oral hearing at that date and time fixed for the hearing then, unless the applicant, not later than 3 working days from that date, furnishes the Tribunal with an explanation for not attending the oral hearing which the Tribunal considers reasonable in the circumstances, his or her appeal shall be deemed to be withdrawn.
+
+(3) Where—
+
+(a) in the opinion of the Tribunal an applicant has failed, or is failing, in his or her duty under *section 27* to co-operate, or
+
+(b) the Minister notifies the Tribunal that he or she is of the opinion that the applicant is in breach of *paragraph (a)*, *(c)* or *(d)* of *section 16(3)*,
+
+the Tribunal shall send to the applicant or his or her legal representative (if known) written notice of that opinion.
+
+(4) The Tribunal, in the notice under *subsection (3)*, shall also—
+
+(a) require the applicant to confirm in writing, within 10 working days of the date of the notice, that he or she wishes to continue with his or her appeal,
+
+(b) remind the applicant of his or her duty under *section 27* to co-operate and to comply with any requirements that have been or may be imposed on him or her under *paragraph (a)*, *(c)* or *(d)* of *section 16(3)*, and
+
+(c) include a statement of the consequences specified in *subsection (5)*.
+
+(5) The consequences referred to in *subsection (4)(c)* are that an applicant’s appeal shall be deemed to be withdrawn, and that *subsection (6)* shall apply accordingly, if the applicant—
+
+(a) does not furnish the confirmation referred to in *subsection (4)(a)*, or
+
+(b) having furnished such a confirmation, in the opinion of the Tribunal or, as the case may be, in the opinion of the Minister, fails or continues to fail to comply with any of the obligations referred to in *subsection (4)(b)*.
+
+(6) Where an appeal is withdrawn or deemed to be withdrawn pursuant to this section—
+
+(a) any consideration of that appeal by the Tribunal shall be terminated,
+
+(b) *section 46* shall not apply in respect of that appeal,
+
+(c) *subsection (2)(b)* or, as the case may be, *(5)(c)* of *section 47* shall apply,
+
+(d) the Tribunal, as soon as practicable, shall—
+
+(i) notify the applicant and his or her legal representative (if known) of the fact that the appeal is withdrawn or deemed to be withdrawn and of the reasons for it,
+
+(ii) notify the Minister of the fact that the appeal is withdrawn or deemed to be withdrawn and of the reasons for it, and
+
+(iii) inform the High Commissioner of the fact that the appeal is withdrawn or deemed to be withdrawn.
+
+(7) The notification under *subsection (6)(d)(i)* shall, when sent to the applicant, be in a language that he or she may reasonably be supposed to understand, where—
+
+(a) he or she is not assisted or represented by a legal representative, and
+
+(b) legal assistance is not available to him or her.
+
+### 46. Decision of Tribunal on appeal
+
+**46.** (1) Before reaching a decision under *subsection (2)* or *(3)*, the Tribunal shall consider the following:
+
+(a) the notice of appeal;
+
+(b) all material furnished to the Tribunal by the Minister that is relevant to the decision as to whether the applicant should be given a refugee declaration or, as the case may be, a subsidiary protection declaration;
+
+(c) the recommendation under appeal;
+
+(d) any observations made to the Tribunal by the Minister or the High Commissioner;
+
+(e) where an oral hearing has been held, the evidence adduced and any representations made at that hearing;
+
+(f) such other matters as the Tribunal considers relevant to the appeal.
+
+(2) In relation to an appeal under *section 41(1)(a)* the Tribunal may decide to—
+
+(a) affirm the recommendation that the applicant should not be given a refugee declaration, or
+
+(b) set aside the recommendation that the applicant should not be given a refugee declaration and recommend that the applicant be given a refugee declaration.
+
+(3) In relation to an appeal under *section 41(1)(b)* the Tribunal may decide to—
+
+(a) affirm the recommendation that the applicant should be given neither a refugee declaration nor a subsidiary protection declaration,
+
+(b) set aside the part of the recommendation that recommends that the applicant should not be given a refugee declaration and recommend that the applicant be given a refugee declaration, or
+
+(c) affirm the recommendation that the applicant should not be given a refugee declaration and set aside the part of the recommendation that recommends that the applicant should not be given a subsidiary protection declaration and recommend that the applicant be given a subsidiary protection declaration.
+
+(4) In relation to an appeal under *section 41(1)(a)*, the Tribunal shall decide to make the affirmation referred to in *subsection (2)(a)*, unless it is satisfied, having considered the matters referred to in *subsection (1)*, that the applicant is a refugee.
+
+(5) In relation to an appeal under *section 41(1)(b)*, the Tribunal shall decide to make the affirmation referred to in *subsection (3)(a)* unless it is satisfied, having considered the matters referred to in *subsection (1)*, that the applicant is a refugee or, as the case may be, a person eligible for subsidiary protection.
+
+(6) A decision of the Tribunal under *subsection (2)* or *(3)* and the reasons for it shall be communicated by the Tribunal to the applicant concerned and his or her legal representative (if known), and the Minister.
+
+(7) A decision of the Tribunal under *subsection (2)* or *(3)* (other than a decision under *subsection (3)(c)*) shall be communicated to the High Commissioner.
+
+(8) The Tribunal shall furnish the applicant concerned and his or her legal representative (if known), and the High Commissioner whenever so requested by him or her, with—
+
+(a) copies of any reports, observations, or representations in writing or any other document furnished to the Tribunal by the Minister, copies of which have not been previously furnished to the applicant and his or her legal representative (if known), or as the case may be, the High Commissioner, and
+
+(b) an indication in writing of the nature and source of any other information relating to the appeal which has come to the notice of the Tribunal in the course of an appeal.
+
+## PART 7Declarations and Other Outcomes — PART 7 — Declarations and Other Outcomes
+
+### 47. Refugee declaration and subsidiary protection declaration
+
+**47.** (1) The Minister shall, subject to *subsection (3)*, give a refugee declaration to an applicant as soon as possible after receipt by the Minister of—
+
+(a) a report under *section 39* that includes a recommendation referred to in *subsection (3)(a)* of that section, or
+
+(b) a decision of the Tribunal referred to in *subsection (2)(b)* or *(3)(b)* of *section 46*.
+
+(2) The Minister shall refuse to give a refugee declaration to an applicant where—
+
+(a) a report under *section 39* in respect of the application concerned includes a recommendation referred to in *paragraph (b)* of *section 39(3)*, and the applicant has not appealed under *section 41* against the recommendation,
+
+(b) an appeal by the applicant under *section 41(1)(a)* against a recommendation is withdrawn or deemed to be withdrawn under *section 45*, or
+
+(c) the Tribunal, following an appeal under *section 41* by the applicant, has made a decision under *section 46(2)(a)* in relation to the appeal.
+
+(3) The Minister may refuse to give a refugee declaration to an applicant who is a refugee where—
+
+(a) there are reasonable grounds for regarding him or her as a danger to the security of the State, or
+
+(b) the person, having been by a final judgement convicted, whether in the State or not, of a particularly serious crime, constitutes a danger to the community of the State.
+
+(4) The Minister shall give a subsidiary protection declaration to an applicant as soon as possible after receipt by the Minister of—
+
+(a) a report under *section 39* that includes a recommendation referred to in *section 39(3)(b)*, or
+
+(b) a decision of the Tribunal referred to in *section 46(3)(c)*.
+
+(5) The Minister shall refuse both to give a refugee declaration and to give a subsidiary protection declaration to an applicant where—
+
+(a) the application concerned is withdrawn under *section 20* or *37*,
+
+(b) a report under *section 39* in respect of the application concerned includes a recommendation referred to in *section 39(3)(c)*, and the applicant has not appealed under *section 41* against the recommendation,
+
+(c) an appeal by the applicant under *section 41(1)(b)* by the applicant against a recommendation is deemed under *section 20* to be withdrawn, or is withdrawn or deemed to be withdrawn under *section 45*, or
+
+(d) the Tribunal, following an appeal under *section 41* by the applicant, has made a decision under *section 46(3)(a)* in relation to the appeal.
+
+(6) Where the Minister gives a refugee declaration to a person in relation to whom a subsidiary protection declaration is in force, the subsidiary protection declaration shall, on the giving of the refugee declaration, cease to be in force.
+
+(7) The Minister shall send to the applicant concerned (and his or her legal representative if known) a notice in writing of:
+
+(a) the giving under *subsection (1)* of a refugee declaration;
+
+(b) the giving under *subsection (4)* of a subsidiary protection declaration;
+
+(c) the refusal under *subsection (2)* or *(3)* to give a refugee declaration;
+
+(d) the refusal under *subsection (5)* both to give a refugee declaration and to give a subsidiary protection declaration.
+
+(8) The Minister shall notify the High Commissioner of the giving of or, as the case may be, the refusal to give an applicant a refugee declaration or a subsidiary protection declaration.
+
+(9) A refugee declaration or a subsidiary protection declaration given, or deemed to have been given, under this Act shall cease to be in force where the person to whom it has been given becomes an Irish citizen.
+
+### 48. Option to voluntarily return to country of origin
+
+**48.** (1) The Minister may, by notice in writing, inform a person whose application for international protection—
+
+(a) has not been the subject of a report under *section 39*, or
+
+(b) has been the subject of a report under *section 39* which includes a recommendation referred to in *section 39(3)(c)*,
+
+that the person may, within such period as may be specified in the notice, comply with *subsection (2)*.
+
+(2) A person complies with this subsection where he or she—
+
+(a) where applicable withdraws under *section 37* his or her application for international protection or, as the case may be, withdraws under *section 45(1)* his or her appeal under *section 41*, and
+
+(b) confirms to the Minister, in accordance with this section, that the person will voluntarily return to his or her country of origin.
+
+(3) The Minister may, by notice in writing, inform a person—
+
+(a) to whom the Minister has refused both to give a refugee declaration and to give a subsidiary protection declaration, and
+
+(b) who is the subject of a decision of the Minister under *section 49(4)(b)*,
+
+that the person may, within 5 days of the date on which the notice is sent, comply with *subsection (4)*.
+
+(4) A person complies with this subsection where he or she confirms to the Minister, in accordance with this section, that the person will voluntarily return to his or her country of origin.
+
+(5) Notwithstanding *section 51*, and subject to *subsection (6)*, where a person complies with *subsection (2)* or *(4)*, as the case may be, the Minister shall not make a deportation order under that section in respect of the person—
+
+(a) where, in the case of a person to whom *subsection (1)* applies, the person has complied with *subsection (2)(a)*, and
+
+(b) for so long as the Minister is of the opinion that the person is making such efforts as are reasonable to expect of the person to leave the State in accordance with his or her confirmation under *subsection (2)(b)* or *(4)*, as the case may be.
+
+(6) *Subsection (5)* shall cease to apply where the Minister is of the opinion that—
+
+(a) there are reasonable grounds for regarding the person concerned as a danger to the security of the State, or
+
+(b) the person, having been by a final judgment convicted, whether in the State or not, of a particularly serious crime, constitutes a danger to the community of the State.
+
+(7) A notice under *subsection (1)* or *(3)* shall be in such form as may be prescribed and shall contain a statement of the effect of *subsection (5)* and *(6)*.
+
+(8) A confirmation under *subsection (2)(b)* or *(4)* shall be given in such form and in such manner as may be prescribed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Substituted by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 70, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: subs. (3) amended by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 70, not commenced as of date of revision.
+>
+> ...
+>
+> that the person may, within F49[30 days] of the date on which the notice is sent, comply with *subsection (4)*.
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to subss. (7), (8) exercised (31.12.2016) by *International Protection Act (Voluntary Return) Regulations 2016* (S.I. No. 665 of 2016), in operation as per reg. 1(2).
+
+### 49. Permission to remain
+
+**49.** (1) Where a recommendation referred to in *section 39(3)(c)* is made in respect of an application, the Minister shall consider, in accordance with this section, whether to give the applicant concerned a permission under this section to remain in the State (in this section referred to as a “permission”).
+
+(2) For the purposes of his or her consideration under this section, the Minister shall have regard to—
+
+(a) the information (if any) submitted by the applicant under *subsection (6)*, and
+
+(b) any relevant information presented by the applicant in his or her application for international protection, including any statement made by him or her at his or her preliminary interview and personal interview.
+
+(3) In deciding whether to give an applicant a permission, the Minister shall have regard to the applicant’s family and personal circumstances and his or her right to respect for his or her private and family life, having due regard to—
+
+(a) the nature of the applicant’s connection with the State, if any,
+
+(b) humanitarian considerations,
+
+(c) the character and conduct of the applicant both within and (where relevant and ascertainable) outside the State (including any criminal convictions),
+
+(d) considerations of national security and public order, and
+
+(e) any other considerations of the common good.
+
+(4) The Minister, having considered the matters referred to in *subsections (2)* and *(3)*, shall decide to—
+
+(a) give the applicant a permission, or
+
+(b) refuse to give the applicant a permission.
+
+(5) The Minister shall notify, in writing, the applicant concerned and his or her legal representative (if known) of the Minister’s decision under *subsection (4)*, which notification shall be accompanied by a statement of the reasons for the decision.
+
+(6) An applicant—
+
+(a) may, at any stage prior to the preparation of the report under *section 39(1)* in relation to his or her application, submit information that would, in the event that *subsection (1)* applies to the applicant, be relevant to the Minister’s decision under this section, and
+
+(b) shall, where he or she becomes aware, during the period between the making of his or her application and the preparation of such report, of a change of circumstances that would be relevant to the Minister’s decision under this section inform the Minister, forthwith, of that change.
+
+(7) Where the Tribunal affirms a recommendation referred to in *section 39(3)(c)* made in respect of an application, the Minister shall, upon receiving information from an applicant in accordance with *subsection (9)*, review a decision made by him or her under *subsection (4)(b)* in respect of the applicant concerned.
+
+(8) *Subsections (2)* to *(5)* shall apply to a review under *subsection (7)*, subject to the modification that the reference in *subsection (2)(a)* to information submitted by the applicant under *subsection (6)* shall be deemed to include information submitted under *subsection (9)* and any other necessary modifications.
+
+(9) An applicant, for the purposes of a review under *subsection (7)*, and within such period following receipt by him or her under *section 46(6)* of the decision of the Tribunal as may be prescribed under *subsection (10)* —
+
+(a) may submit information that would have been relevant to the making of a decision under *paragraph (b)* of *subsection (4)* had it been in the possession of the Minister when making such decision, and
+
+(b) shall, where he or she becomes aware of a change of circumstances that would have been relevant to the making of a decision under *subsection (4)(b)* had it been in the possession of the Minister when making such decision, inform the Minister, forthwith, of that change.
+
+(10) The Minister may prescribe a period for the purposes of *subsection (9)* and, in doing so, shall have regard to the need for fairness and efficiency in the conduct of a review under this section.
+
+(11) (a) A permission given under this section shall be deemed to be a permission given under section 4 of the Act of 2004 and that Act shall apply accordingly.
+
+(b) A reference in any enactment to a permission under section 4 of the Act of 2004 shall be deemed to include a reference to a permission given under this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to subs. (10) exercised (31.12.2016) by *International Protection Act (Permission to Remain) Regulations 2016* (S.I. No. 664 of 2016), in operation as per reg. 1(2).
+
+### 50. Prohibition of refoulement
+
+**50.** (1) A person shall not be expelled or returned in any manner whatsoever to the frontier of a territory where, in the opinion of the Minister—
+
+(a) the life or freedom of the person would be threatened for reasons of race, religion, nationality, membership of a particular social group or political opinion, or
+
+(b) there is a serious risk that the person would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment.
+
+(2) In forming his or her opinion of the matters referred to in *subsection (1)*, the Minister shall have regard to—
+
+(a) the information (if any) submitted by the person under *subsection (3)*, and
+
+(b) any relevant information presented by the person in his or her application for international protection, including any statement made by him or her at his or her preliminary interview and personal interview.
+
+(3) A person shall, where he or she becomes aware of a change of circumstances that would be relevant to the formation of an opinion by the Minister under this section, inform the Minister forthwith of that change.
+
+(4) A person who, but for the operation of *subsection (1)*, would be the subject of a deportation order under *section 51* shall be given permission to remain in the State.
+
+(5) A permission given under this section shall be deemed to be a permission given under section 4 of the Act of 2004 and that Act shall apply accordingly.
+
+(6) A reference in any enactment to a permission under section 4 of the Act of 2004 shall be construed as including a reference to a permission given under this section.
+
+(7) In this section “person” means a person who is, or was, an applicant.
+
+### 50A. Prohibition of refoulement (application for international protection determined under section 21 to be inadmissible)
+
+F50[**50A.** F51[(1) A person shall not be expelled or returned in any manner whatsoever to the frontier of a territory—
+
+(a) where, in the opinion of the Minister—
+
+(i) the life or freedom of the person would be threatened for reasons of race, religion, nationality, membership of a particular social group or political opinion, or
+
+(ii) there is a risk that the person would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment, or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict,
+
+or
+
+(b) where the Minister is of the opinion that such expulsion or return would be prohibited under any enactment or rule of law as a breach of the person’s fundamental rights.]
+
+(2) In forming his or her opinion of the matters referred to in *subsection (1)*, the Minister shall have regard to—
+
+(a) the information (if any) submitted by the person under *subsection (3)*, and
+
+(b) any relevant information presented by the person, including any statement made by him or her at his or her preliminary interview and any information presented for the purpose of an appeal by the person under *section 21(6)*.
+
+(3) A person shall, where he or she becomes aware of a change of circumstances that would be relevant to the formation of an opinion by the Minister under this section, inform the Minister forthwith of that change.
+
+(4) A person who, but for the operation of *subsection (1)*, would be the subject of a return order under *section 51A*, shall, notwithstanding that his or her application for international protection has been determined under *section 21(11)* to be inadmissible, be deemed to have made, on the date on which the Minister forms the opinion that *subsection (1)* applies to the person, an application for international protection in accordance with *section 15*, and subject to this section, the provisions of this Act shall, with any necessary modifications, apply accordingly.
+
+(5) The Minister shall as soon as practicable after he or she forms the opinion that *subsection (1)* applies to a person—
+
+(a) send the person, and his or her legal representative (if known), a notice in writing—
+
+(i) informing him or her of the effect of *subsection (4)*, and
+
+(ii) inviting the person to complete, in respect of his or her application referred to in *subsection (4)*, the form prescribed under *section 15(5)*,
+
+and
+
+(b) give or cause to be given to the person a statement under *section 18(1)*.
+
+(6) In this section, "person" means a person whose application for international protection has been determined under *section 21(11)* to be inadmissible.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 120, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F51: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 9, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E39: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 51. Deportation order
+
+**51.** (1) Subject to F52[*section 50* and *subsection (1A)*,] the Minister shall make an order under this section (“deportation order”) in relation to a person where the Minister—
+
+(a) has refused under *section 47* both to give a refugee declaration and to give a subsidiary protection to the person, and
+
+(b) is satisfied that *section 48(5)* does not apply in respect of the person, and
+
+(c) has refused under *section 49(4)* to give the person a permission under that section.
+
+F53[(1A) (a) *Subsection (1)* shall not apply in respect of a person who is a member of a class of person that is prescribed under *paragraph (b)*.
+
+(b) The Minister may, for the purposes of this subsection, prescribe a class or classes of persons, being persons to whom such permission as may be specified has been given.
+
+(c) The matters to which the Minister may have regard in specifying a permission under *paragraph (b)* include—
+
+(i) the nature and purposes of the permission,
+
+(ii) the period for which a person to whom the permission is granted may remain in the State, and
+
+(iii) the conditions attached to the permission.
+
+(d) In this subsection, a reference to a permission to remain in the State is a reference to a permission to remain in the State that has been given in accordance with the law of the State and is valid.]
+
+(2) A deportation order shall require the person specified in the order to leave the State within such period as may be specified in the order and thereafter to remain out of the State.
+
+(3) Where the Minister makes a deportation order, he or she shall notify the person specified in the order of the making of the order and of the reasons for it and, where necessary and possible, the person shall be given a copy of the notification in a language that the person understands.
+
+(4) A deportation order made under this section shall be deemed to be a deportation order made under section 3(1) of the Act of 1999, and accordingly—
+
+(a) that Act (other than subsections (2), (3), (4), (5), (6), (7), (8), (9)(b) and (12) of section 3) shall apply to the deportation order,
+
+(b) a reference in section 3(9)(a) of that Act to a notification under subsection (3)(b)(ii) of that section shall be construed as including a reference to a notification under *subsection (3)*, and
+
+(c) references in any enactment to a deportation order made under the Act of 1999 shall be construed as including references to a deportation order made under this section.
+
+(5) A deportation order shall be in the form prescribed or in a form to the like effect.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 10(a), commenced on enactment.
+>
+> F53: Inserted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 10(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E40: Power pursuant to subs. (1A)(b) exercised (16.02.2026) by *International Protection Act 2015 (Sections 51 and 51A) (Prescribed Classes) Regulations 2026* (S.I. No. 45 of 2026).
+>
+> E41: Power pursuant to subs. (5) exercised (31.12.2016) by *International Protection Act 2015 (Deportation) Regulations 2016* (S.I. No. 668 of 2016), in operation as per reg. 1(2).
+
+### 51A. Return order
+
+F54[**51A.** (1) Subject to F55[*section 50A* and *subsection (1A)*,] the Minister shall by order (in this Act referred to as a "return order") require a person whose application for international protection has been determined under *section 21(11)* to be inadmissible to leave the State.
+
+F56[(1A) (a) *Subsection (1)* shall not apply in respect of a person who is a member of a class of person that is prescribed under *paragraph (b)*.
+
+(b) The Minister may, for the purposes of this subsection, prescribe a class or classes of persons, being persons to whom such permission as may be specified has been given.
+
+(c) The matters to which the Minister may have regard in specifying a permission under *paragraph (b)* include—
+
+(i) the nature and purposes of the permission,
+
+(ii) the period for which a person to whom the permission is granted may remain in the State, and
+
+(iii) the conditions attached to the permission.
+
+(d) In this subsection, a reference to a permission to remain in the State is a reference to a permission to remain in the State that has been given in accordance with the law of the State and is valid.]
+
+(2) Where *subsection (1)* applies, the person specified in the return order may be returned:
+
+(a) where the circumstances referred to in *section 21(2)(a)* apply in relation to him or her, to the Member State that has granted refugee status or subsidiary protection to the person;
+
+(b) where the circumstances referred to in *section 21(2)(b)* apply in relation to him or her, to the first country of asylum for the person;
+
+(c) where the circumstances referred to in *section 21(2)(c)* apply in relation to him or her, to the safe third country that is a safe country for the person.
+
+(3) Where the Minister makes a return order, he or she shall notify the person specified in the order and his or her legal representative (if known) of the making of the order.
+
+(4) A notification under *subsection (3)* shall be in a language that the person concerned may reasonably be supposed to understand, where—
+
+(a) the person is not assisted or represented by a legal representative, and
+
+(b) legal assistance is not available to the person.
+
+(5) A return order shall be in the form prescribed or in a form to the like effect.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 121, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F55: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 11(a), commenced on enactment.
+>
+> F56: Inserted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 11(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E42: Power pursuant to subs. (1A)(b) exercised (16.02.2026) by *International Protection Act 2015 (Sections 51 and 51A) (Prescribed Classes) Regulations 2026* (S.I. No. 45 of 2026).
+>
+> E43: Power pursuant to subs. (5) exercised (1.01.2021) by *International Protection Act 2015 (Return Order) Regulations 2020* (S.I. No. 726 of 2020), in operation as per reg. 1(2).
+
+### 51B. Return of person subject of return order
+
+F57[**51B.** (1) An immigration officer or a member of the Garda Síochána may, for the purpose of facilitating the return of a person the subject of a return order, by notice in writing require the person to comply with one or more of the following conditions:
+
+(a) that he or she present himself or herself to such immigration officer or member of the Garda Síochána at such date, time and place as may be specified in the notice;
+
+(b) where, and only for so long as, it is reasonably necessary to facilitate his or her return, that he or she surrender his or her passport and any other travel document that he or she holds;
+
+(c) that he or she co-operate in any way necessary to enable an immigration officer or a member of the Garda Síochána to obtain a passport or other travel document, travel ticket or other document required for the purpose of such return;
+
+(d) that he or she reside or remain in a particular place in the State pending his or her return.
+
+(2) A notice under *subsection (1)* shall be in a language that the person concerned may reasonably be supposed to understand.
+
+(3) A person the subject of a return order shall comply with a requirement under *subsection (1)*.
+
+(4) Where an immigration officer or a member of the Garda Síochána considers that there is a significant risk of a person the subject of a return order absconding, the officer or member ("arresting officer or member") may, for the purpose of facilitating the return of the person, arrest the person without warrant and a person so arrested may be taken by an immigration officer or a member of the Garda Síochána to a prescribed place (in this section referred to as a "place of detention") and detained—
+
+(a) in the place of detention under warrant of the arresting officer or member and in the custody of the officer of the Minister or member of the Garda Síochána for the time being in charge of the place, and
+
+(b) for a period not exceeding 7 days.
+
+(5) For the purpose of arresting a person under *subsection (4)*, an immigration officer or member of the Garda Síochána may enter (if necessary by use of reasonable force) and search any premises (including a dwelling) where the person is or where the immigration officer or member, with reasonable cause, suspects the person to be and, where the premises is a dwelling, the immigration officer or member shall not, unless acting with the consent of an occupier of the dwelling or other person who appears to the immigration officer or member to be in charge of the dwelling, enter that dwelling unless—
+
+(a) the person ordinarily resides at the dwelling, or
+
+(b) he or she believes on reasonable grounds that the person is within the dwelling.
+
+(6) The matters to which an officer or member referred to in *subsection (4)* may have regard, in considering for the purposes of that subsection whether there is a significant risk of a person the subject of a return order absconding, include the following:
+
+(a) whether the person, in the purported discharge of his or her duty to establish his or her identity, has misrepresented or omitted facts, whether or not by the use of false documents;
+
+(b) whether the person has failed to comply with a requirement under *subsection (1)*;
+
+(c) whether the person, having been informed of arrangements for his or her return, has failed to co-operate with those arrangements;
+
+(d) whether the person has explicitly expressed an intention not to comply with arrangements for his or her return;
+
+(e) whether the person has previously failed to comply with the law of the State, or of another state, relating to the entry or presence of foreign nationals in the State or, as the case may be, that state.
+
+(7) Subject to *subsection (8)*, *subsections (4)* and *(5)* shall not apply to a person the subject of a return order who is under the age of 18 years.
+
+(8) If and for so long as an immigration officer or member of the Garda Síochána concerned has reasonable grounds for believing that the person the subject of a return order is not under the age of 18 years, the provisions of *subsections (4)* and *(5)* shall apply as if the person had attained the age of 18 years.
+
+(9) The Minister may, in order to facilitate the return of a person the subject of a return order, issue to the person a *laissez-passer* or such other travel document as the Minister considers appropriate.
+
+(10) An immigration officer or member of the Garda Síochána may, for the purpose of the return, detain a person the subject of a return order in accordance with *subsection (11)* and place him or her on a vehicle that is about to leave the State and the person shall be deemed to be in lawful custody while so detained and until the vehicle leaves the State.
+
+(11) A person who is detained under *subsection (10)* may, for the purposes of that subsection, be detained—
+
+(a) for a period not exceeding 7 days, in a place of detention,
+
+(b) for a period or periods each not exceeding 12 hours, in a vehicle, for the purpose of bringing the person to the port from which the vehicle referred to in *subsection (10)* is due to leave the State, or
+
+(c) for a period or periods each not exceeding 12 hours, within the port referred to in *paragraph (b)*.
+
+(12) The master or person in charge of a vehicle that is about to leave the State shall, if so directed by an immigration officer or member of the Garda Síochána, receive a person the subject of a return order on board the vehicle and afford the person so received proper accommodation and maintenance during the journey concerned.
+
+(13) A reference in this section and *section 51C* to the return of a person is a reference to his or her return in accordance with *section 51A(2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 121, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> **Editorial Notes:**
+>
+> E44: Power pursuant to subs. (4) exercised (1.01.2021) by *International Protection Act 2015 (Section 51B) (Places of Detention) Regulations 2020* (S.I. No. 727 of 2020), in operation as per reg. 1(2).
+
+### 51C. Period of validity of return order
+
+F58[**51C.** (1) A person the subject of a return order may, while the order is in effect, be returned in accordance with *section 51A(2)*.
+
+(2) A return order shall, other than where *subsection (3)* or *(4)* applies, remain in effect for a period of 6 months from the date on which notification (referred to in *section 51A(3)*) of the return order is sent.
+
+(3) Where a person the subject of the return order absconds in the period referred to in *subsection (2)*, the order shall remain in effect for a period of 12 months from the date on which notification (referred to in *section 51A(3)* ) of the return order is sent.
+
+(4) Where a person the subject of the return order brings an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) of the return order and the High Court suspends the operation of the order pending the determination of the application, the order shall remain in effect for a period of 6 months from the date of the final determination (including where notice of appeal is given, the final determination of the appeal or any further appeal therefrom or the withdrawal of the appeal) of the application concerned.
+
+(5) Where—
+
+(a) a return order ceases in accordance with this section to have effect on a particular date (in this section referred to as the "relevant date"), and
+
+(b) by the relevant date the person the subject of the order has not been returned,
+
+he or she shall, notwithstanding that his or her application for international protection has been determined under *section 21(11)* to be inadmissible, be deemed to have made, on the date immediately following the relevant date, an application for international protection in accordance with *section 15*, and subject to this section, the provisions of this Act shall, with any necessary modifications, apply accordingly.
+
+(6) The Minister shall as soon as practicable on or after the date immediately following the relevant date—
+
+(a) send the person concerned, and his or her legal representative (if known), a notice in writing—
+
+(i) informing him or her of the effect of *subsection (5)*, and
+
+(ii) inviting the person to complete, in respect of his or her application referred to in *subsection (5)*, the form prescribed under *section 15(5)*,
+
+and
+
+(b) give or cause to be given to the person a statement under *section 18(1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 121, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+
+### 52. Revocation of refugee declaration or subsidiary protection declaration
+
+**52.** F59[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: subs. (9A) inserted by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 71, not commenced; section repealed (12.06.2026) as per F-note above.
+
+## PART 8Content of International Protection — PART 8 — Content of International Protection
+
+### 53. Extension to qualified person of certain rights
+
+**53.** F60[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+
+### 54. Permission to reside in State
+
+**54.** F61[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+
+### 55. Travel document
+
+**55.** F62[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: power pursuant to subss. (3), (4) exercised (31.12.2016) by *International Protection Act 2015 (Travel Document) Regulations 2016* (S.I. No. 667 of 2016), in operation as per reg. 1(2); revoked (12.06.2026) by *International Protection Act 2026 (Travel Document) Regulations 2026* (S.I. No. 256 of 2026), reg. 3, in operation as per reg. 1(2).
+
+### 56. Permission to enter and reside for member of family of qualified person
+
+**56.** F63[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+
+### 57. Permission to reside for member of family of qualified person
+
+**57.** F64[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+
+### 58. Situation of vulnerable persons
+
+**58.** F65[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(c), S.I. No. 244 of 2026.
+
+## PART 9Programme Refugees and Temporary Protection — PART 9 — Programme Refugees and Temporary Protection
+
+### 59. Programme refugees, etc.
+
+**59.** F66[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Repealed (12.06.2026) by *International Protection Act 2026* (9/2026), s. 5(b), S.I. No. 244 of 2026, subject to transitional provision in s. 286.
+>
+> **Editorial Notes:**
+>
+> E47: Previous affecting provision: functions transferred and references to Minister for **Children, Equality, Disability, Integration and Youth** construed as **Justice** (1.05.2025) by *Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2025* (S.I. No. 159 of 2025), arts. 3, 4 and sch. part 1, subject to transitional provisions in arts. 5-9; section repealed (12.06.2026) as per F-note above.
+>
+> E48: Previous affecting provision: functions transferred and references to Minister for **Justice and Equality** construed as **Children and Youth Affairs** (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in operation as per art. 1(2), subject to transitional provisions in arts. 4-8; superseded (1.05.2025) as per E-note above.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for *Children, Equality, Disability, Integration and Youth* made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in operation as per art. 1(2), and further change (2.05.2025) by *Children, Equality, Disability, Integration and Youth (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 180 of 2025) to **Children, Disability and Equality**.
+
+### 60. Temporary protection
+
+**60.** (1) In this section—
+
+F67["designated accommodation centre" means a premises designated under *subsection (14A)(a)*;]
+
+“temporary protection” means a procedure of exceptional character to provide, in the event of a mass influx or imminent mass influx of displaced persons who are unable to return to their country of origin, immediate and temporary protection;
+
+“Council Directive” means Council Directive 2001/55/EC of 20 July 2001[^7] on minimum standards for giving temporary protection in the event of a mass influx of displaced persons and on measures promoting a balance of efforts between Member States in receiving such persons and bearing the consequences thereof and any other Directive amending or replacing it;
+
+“displaced persons” has the same meaning as in the Council Directive.
+
+(2) Subject to *subsection (3)*, this section applies to a displaced person to whom, following a Council Decision under Article 5 of the Council Directive establishing the existence of a mass influx of displaced persons, permission to enter and remain in the State for temporary protection as part of a group of persons has been given by the Government or the Minister and whose personal data (that is to say, name, nationality, date and place of birth, marital status, family relationship) are entered in a register established and maintained for the purposes of this section by the Minister.
+
+(3) The Minister may exclude a displaced person from temporary protection if—
+
+(a) there are serious reasons for considering that—
+
+(i) he or she has committed a crime against peace, a war crime or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes, or
+
+(ii) he or she has been guilty of acts contrary to the purposes and principles of the United Nations,
+
+(b) there are reasonable grounds for regarding him or her as a danger to the security of the State,
+
+(c) the Minister is of opinion that he or she constitutes a danger to the community of the State because he or she was convicted by a final judgment of a particularly serious crime, whether in the State or elsewhere, or
+
+(d) there are serious reasons for considering that he or she has committed a serious non-political crime outside the State prior to his or her entry into the State.
+
+(4) In considering whether to exclude a displaced person from temporary protection under *paragraph (c)* or *(d)* of *subsection (3)*, the Minister shall weigh the reasons underlying the Council Decision concerned as they relate to the displaced person against the nature of the crime of which the displaced person concerned is suspected.
+
+(5) *Subsections (3)(d)* and *(4)* apply both to the participants in and the persons who have instigated a crime referred to in those provisions.
+
+(6) The Minister shall give to a displaced person to whom *subsection (2)* applies, a permission to reside in the State and shall—
+
+(a) issue him or her with—
+
+(i) if required, an Irish visa or an Irish transit visa free of charge, or
+
+(ii) a permission to remain in the State,
+
+and
+
+(b) provide him or her with information, in a language that he or she may reasonably be supposed to understand, setting out the provisions of this section relating to temporary protection in the State.
+
+(7) Subject to *subsection (8)*, a permission to reside in the State given under *subsection (6)* shall be valid for one year, and may be renewed.
+
+(8) A permission to reside in the State given under *subsection (6)* may be revoked—
+
+(a) when temporary protection has ended in accordance with the Council Decision concerned,
+
+(b) upon the transfer of residence of the holder of the permission to another Member State, or
+
+(c) where the Minister decides that the holder should have been excluded from temporary protection under *subsection (3)* or *(4)*.
+
+(9) Where, during the validity of a permission to reside in the State given under *subsection (6)*, a displaced person to whom *subsection (2)* applies seeks to enter another Member State or has entered it without authorisation, the Minister shall, in co-operation with the competent authority of that Member State, make arrangements for the return of the person to the State.
+
+(10) Without prejudice to *subsection (8)*, F69[a person who has been given a permission to reside in the State under *subsection (6)*, which permission is valid,] shall be entitled—
+
+(a) to seek and enter employment, to engage in any business, trade or profession and to have access to education and training in the State in the like manner and to the like extent in all respects as an Irish citizen,
+
+F70[(b) to receive, upon and subject to the same conditions applicable to Irish citizens, the same medical care and, other than while he or she is resident in a designated accommodation centre, the same social welfare benefits as those to which Irish citizens are entitled, and]
+
+(c) to the same rights of travel in the State as those to which Irish citizens are entitled.
+
+(11) The Minister shall co-operate with the competent authorities of another Member State in relation to—
+
+(a) the transfer to another Member State of a displaced person to whom *subsection (2)* applies,
+
+(b) the transfer from another Member State to the State of a displaced person to whom *subsection (2)* applies, and
+
+(c) the reunification, either in the State or in another Member State, of family members of a displaced person to whom *subsection (2)* applies.
+
+(12) The Minister may prescribe documentation to be used for the purpose of enabling and facilitating transfers and reunifications referred to in *subsection (11)*.
+
+(13) For the purposes of *subsection (11)*, the Minister may provide to another Member State, insofar as they are available—
+
+(a) personal data relating to a displaced person (that is to say, name, nationality, date and place of birth, marital status and family relationship),
+
+(b) travel documents relating to the person concerned,
+
+(c) documents concerning evidence of family ties relating to the person concerned (such as marriage certificates, birth certificates and certificates of adoption),
+
+(d) other information required to establish the identity of the person concerned or his or her family relationships,
+
+(e) residence permits and decisions concerning the giving or refusal of visas or residence permissions to the person concerned by the Minister, and documents forming the basis of those decisions,
+
+(f) applications for visas or entry or residence permissions submitted by the person concerned and pending in the State, and the stage reached in the processing of these, and
+
+(g) any corrected information within *paragraphs (a)* to *(f)* which becomes available.
+
+(14) *Subsection (2)* shall not apply to a person who is, for the time being, an applicant and a permission to reside in the State given under *subsection (6)* shall not be in force in relation to such a person.
+
+F68[(14A) The Minister for Children, Equality, Disability, Integration and Youth—
+
+(a) may, where he or she is satisfied that the premises concerned are suitable for the purpose, designate in writing such and so many premises as he or she considers appropriate for the accommodation of persons who have been given a permission to reside in the State under *subsection (6)*, which permission is valid, and
+
+(b) shall, as soon as practicable after a designation is made under *paragraph (a)*, ensure that the fact of such designation is published on a website maintained by or on behalf of him or her or the Government.]
+
+(15) In this section, “Irish transit visa” and “Irish visa” have the meaning they have under the Immigration Act 2003.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67, F68: Inserted (12.03.2024) by *Social Welfare and Civil Law (Miscellaneous Provisions) Act 2024* (6/2024), s. 11(a), (c), S.I. No. 95 of 2024.
+>
+> F69, F70: Substituted (12.03.2024) by *Social Welfare and Civil Law (Miscellaneous Provisions) Act 2024* (6/2024), s. 11(b)(i), (ii), S.I. No. 95 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and references construed (1.05.2025) by *Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2025* (S.I. No. 159 of 2025), arts. 3, 4 and sch. part 1, subject to transitional provisions in arts. 5-9.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Justice.
+>
+> (2) References to the Department of Children, Equality, Disability, Integration and Youth contained in any Act or any instrument made under such Act and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Justice.
+>
+> 4\. (1) The functions vested in the Minister for Children, Equality, Disability, Integration and Youth –
+>
+> (a) by or under the provisions of the Acts specified in Part 1 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Justice.
+>
+> ...
+>
+> (3) References to the Minister for Children, Equality, Disability, Integration and Youth contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Justice.
+>
+> ...
+>
+> **SCHEDULE**
+>
+> **Part 1**
+>
+> **Enactments, functions by or under which are transferred from the Minister for Children, Equality, Disability, Integration and Youth to the Minister for Justice**
+>
+> **Article 4(1)(a)**
+>
+> ...
+>
+> Sections 59(3) and 60(14A) of the Act of 2015
+>
+> ...
+
+## PART 10International Protection Appeals Tribunal — PART 10 — International Protection Appeals Tribunal
+
+### 61. International Protection Appeals Tribunal
+
+**61.** (1) On the establishment day, there shall stand established a Tribunal to be known as *An Binse um Achomhairc i dtaobh Cosaint Idirnáisiúnta* or, in the English language, the International Protection Appeals Tribunal, which shall determine appeals and perform such other functions as may be conferred on it by or under this Act and the Dublin System Regulations.
+
+(2) The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+
+(3) Subject to *subsection (4)*, the Tribunal shall be—
+
+(a) inquisitorial in nature, and
+
+(b) independent in the performance of its functions.
+
+(4) The Minister may appoint such and so many persons to be members of the staff of the Tribunal as he or she considers necessary to assist the Tribunal in the performance of its functions and such members of the staff of the Tribunal shall receive such remuneration and be subject to such other terms and conditions of service as the Minister may, with the consent of the Minister for Public Expenditure and Reform, determine.
+
+(5) Members of the staff of the Tribunal shall be civil servants within the meaning of the Civil Service Regulation Acts 1956 to 2005.
+
+(6) Whenever the Tribunal consists of more than one member, it shall be grouped into divisions, each of which shall consist of one member.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E49: Power pursuant to subs. (2) exercised (31.12.2016) by *International Protection Act 2015 (Establishment Day) Order 2016* (S.I. No. 661 of 2016).
+>
+> 2\. The 31st day of December 2016 is appointed to be the establishment day for the purposes of the International Protection Act 2015 (No. 66 of 2015).
+
+### 62. Membership of Tribunal
+
+**62.** (1) The Tribunal shall consist of the following members—
+
+(a) a chairperson, who shall be appointed in a whole-time capacity,
+
+(b) not more than 2 deputy chairpersons, who shall be appointed in a whole-time capacity, and
+
+(c) such number of other members, appointed either in a whole-time or a part-time capacity, as the Minister, with the consent of the Minister for Public Expenditure and Reform, considers necessary for the expeditious performance of the functions of the Tribunal,
+
+each of whom shall have had before his or her appointment the appropriate experience specified in *subsection (2)*.
+
+F71[(2) The experience referred to in *subsection (1)* is—
+
+(a) in the case of a member referred to in *paragraph (a)* or *(b)* of that subsection, not less than 5 years’ experience as a practising solicitor, practising barrister or member referred to in *paragraph (c)* of that subsection, and
+
+(b) in the case of a member referred to in *paragraph (c)* of that subsection, not less than 2 years’ experience—
+
+(i) as a practising solicitor or practising barrister,
+
+(ii) pursuing his or her professional activities as a lawyer in a member state under the relevant home professional title,
+
+(iii) practising, in a jurisdiction other than a member state and in accordance with the law of that jurisdiction, in a profession that corresponds substantially to the profession of solicitor or barrister, or
+
+(iv) as a legal academic, where the person is, at the time of his or her appointment, a solicitor or qualified barrister.]
+
+F72[(2A) Where a person stands appointed as an Appeals Officer (within the meaning of Part 13 of the International Protection Act 2026), the period of such appointment shall, notwithstanding *subsection (2)*, be deemed to be reckonable for the purpose of calculating a period of appropriate experience as specified in that subsection.]
+
+(3) Subject to *subsection (4)*, the Minister shall appoint the members of the Tribunal.
+
+(4) Subject to F75[*subsections (4A), (8)* and *(15)*], the Minister shall not appoint a member of the Tribunal unless the Public Appointments Service, after holding a competition under section 47 of the Public Service Management (Recruitment and Appointments) Act 2004, has selected him or her for appointment to the position.
+
+F73[(4A) The Minister may, notwithstanding *subsection (4)*, appoint a person under *subsection (3)* as a member of the Tribunal (other than the chairperson) without a selection competition having been held by the Public Appointments Service under *subsection (4)* where the person—
+
+(a) stands appointed as an Appeals Officer (within the meaning of Part 13 of the International Protection Act 2026),
+
+(b) has the requisite experience referred to in subsection (2)(a) or (b), and
+
+(c) consents to being so appointed.]
+
+(5) *Subsection (4)* shall not apply to the reappointment of a member, in accordance with *subsection (7)*, for a second term.
+
+(6) (a) Each member of the Tribunal appointed in a part-time capacity shall hold office under a contract for services in writing, containing such terms and conditions (including terms and conditions relating to remuneration, allowances, expenses and superannuation) as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(b) The chairperson of the Tribunal and each member of the Tribunal appointed in a whole-time capacity, shall hold office under a contract of service in writing, containing such terms and conditions (including terms and conditions relating to remuneration, allowances, expenses and superannuation) as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(7) The term of office of the members of the Tribunal shall be as follows:
+
+(a) the term of office of the chairperson shall be 5 years and a chairperson may be reappointed to the office for a second term not exceeding 5 years;
+
+(b) the term of office of a deputy chairperson shall be 5 years and a deputy chairperson may be reappointed to the office for a second term not exceeding 5 years;
+
+(c) the term of office of a member appointed in a whole-time capacity, other than the chairperson, shall be F76[5 years] and such a member may be reappointed to the office for a second term not exceeding F77[5 years];
+
+(d) the term of office of a member appointed in a part-time capacity shall be F78[5 years] and such a member may be reappointed to the office for a second term not exceeding F79[5 years].
+
+F80[(7A) Notwithstanding *subsection (7)*, a member of the Tribunal who has been reappointed for a second term is otherwise eligible for appointment by way of competition in accordance with *subsection (4)*.
+
+(7B) Where, immediately before the coming into operation of section 72 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, a member of the Tribunal, other than the chairperson or a deputy chairperson, stands appointed or reappointed, as the case may be, to the Tribunal, in a whole-time or a part-time capacity, the person shall be deemed to have been appointed or reappointed, as the case may be, for a term of office of 5 years from the date on which he or she was so appointed or reappointed, as the case may be.]
+
+F74[(7C) The term of office of a member of the Tribunal to whom *subsection (4A)* applies shall be for a period not exceeding the unexpired term of the person’s appointment as an Appeals Officer under Part 13 of the International Protection Act 2026.]
+
+(8) Where the chairperson is for any reason temporarily unable to act as the chairperson, or the office of the chairperson is vacant, the Minister shall appoint a deputy chairperson to be the chairperson for the duration of the inability or until an appointment is made under *subsection (4)*, as appropriate, and the person so appointed may perform all the functions conferred on the chairperson by this Act.
+
+(9) A member of the Tribunal may resign from office by letter addressed to the Minister and the resignation shall take effect from the date specified in the letter.
+
+(10) Where a member of the Tribunal is—
+
+(a) nominated as a member of Seanad Éireann,
+
+(b) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(c) regarded pursuant to section 19 of the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+(d) elected or co-opted as a member of a local authority,
+
+(e) appointed to judicial office, or
+
+(f) appointed Attorney General,
+
+he or she shall thereupon cease to be a member of the Tribunal.
+
+(11) A person who is for the time being—
+
+(a) entitled under the Standing Orders of either House of the Oireachtas to sit therein,
+
+(b) a member of the European Parliament, or
+
+(c) entitled under the standing orders of a local authority to sit as a member thereof,
+
+shall, while he or she is so entitled under *paragraph (a)* or *(c)* or is such a member under *paragraph (b)*, be disqualified from being a member of the Tribunal.
+
+(12) Without prejudice to the generality of *subsection (11)*, that subsection shall be construed as prohibiting the reckoning of a period referred to therein as service with the Tribunal for the purposes of any superannuation benefits payable under this Act or otherwise.
+
+(13) A member of the Tribunal may be removed from office by the Minister for stated reasons.
+
+(14) If a member appointed in a part-time capacity—
+
+(a) dies, resigns, becomes disqualified or is removed from office, or
+
+(b) is for any reason temporarily unable to continue to perform his or her functions,
+
+the Minister may appoint another person to be a member of the Tribunal in a part-time capacity to fill the casual vacancy so occasioned until an appointment is made in accordance with *subsection (4)*.
+
+(15) If a member appointed in a whole-time capacity—
+
+(a) dies, resigns, becomes disqualified or is removed from office, or
+
+(b) is for any reason temporarily unable to continue to perform his or her functions,
+
+the Minister may appoint another person to be a member of the Tribunal in a whole-time or part-time capacity until an appointment is made in accordance with *subsection (4)*.
+
+F81[(16) In *subsection (2)*—
+
+"home professional title", "lawyer", "member state" and "professional activities" have the same meanings as they have in the European Communities (Lawyers’ Establishment) Regulations 2003 (S.I. No. 732 of 2003);
+
+"legal academic" shall be construed in accordance with *section 45A(2)* (inserted by section 63 of the Judicial Appointments Commission Act 2023) of the Courts (Supplemental Provisions) Act 1961;
+
+"practising solicitor", "practising barrister" and "qualified barrister" have the same meanings as they have in the Legal Services Regulation Act 2015;
+
+"solicitor" means a person who has been admitted as a solicitor whose name is on the roll of solicitors (within the meaning of section 9 of the Solicitors Act 1954).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Substituted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 12(a) , commenced on enactment.
+>
+> F72, F73, F74: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 294(a), (c), (d), S.I. No. 244 of 2026.
+>
+> F75: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 294(b), S.I. No. 244 of 2026.
+>
+> F76, F77, F78, F79: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 72(a)(i), (ii), S.I. No. 389 of 2023, art. 3(k).
+>
+> F80: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 72(b), S.I. No. 389 of 2023, art. 3(k).
+>
+> F81: Inserted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 12(b), commenced on enactment.
+
+### 63. Functions of chairperson of Tribunal
+
+**63.** (1) The chairperson shall ensure that the functions of the Tribunal are performed efficiently and that the business assigned to each member is disposed of as expeditiously as may be consistent with fairness and natural justice.
+
+(2) The chairperson may issue to the members of the Tribunal guidelines on the practical application and operation of the provisions or any particular provisions of this Part and on developments in the law relating to international protection.
+
+(3) (a) The chairperson may, if he or she considers it appropriate to do so in the interest of the fair and efficient performance of the functions of the Tribunal, issue guidelines to the Registrar for the purpose of the performance of his or her functions of assigning or re-assigning appeals under *section 67(2)* or *(3)*.
+
+(b) In issuing the guidelines referred to in *paragraph (a)*, the chairperson shall have regard to the following matters:
+
+(i) the grounds of the appeals specified in the notices of appeal;
+
+(ii) the country of origin of applicants;
+
+(iii) any family relationship between applicants;
+
+(iv) the ages of the applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made;
+
+(v) the provisions of this Act under which the appeals are made.
+
+(4) The chairperson may —
+
+(a) re-assign business from one member to a different member if, in the opinion of the chairperson, such re-assignment—
+
+(i) is warranted by the inability or unwillingness to transact that business of the member to whom the business was originally assigned, and
+
+(ii) where the business relates to an appeal, cannot be achieved by agreement between the Registrar and that member,
+
+(b) require a member to prepare a report of his or her determination of each appeal within a period specified in the guidelines referred to at *subsection (2)*, and
+
+(c) require a member to prepare a report on any aspect of the transaction of the business assigned to the member.
+
+(5) The chairperson—
+
+(a) may accord priority to an appeal when he or she is of the opinion that it is in the interests of justice to do so, and
+
+(b) shall accord priority to an appeal that is the subject of a request under *section 73(1)(b)*.
+
+(6) The chairperson may from time to time convene a meeting with a member or members of the Tribunal for the purpose of discussing matters relating to the transaction of the business assigned to the member or members, including, in particular, such matters as the avoidance of undue divergences in the transaction of business by the members.
+
+(7) The chairperson shall convene a meeting of the members at least once a year to review the transaction of business by members and, where necessary, to make provision for training programmes for members.
+
+(8) The chairperson shall make the following written reports on the activities of the Tribunal:
+
+(a) a report to the Minister in relation to any function that the chairperson performs under this Act, if requested to do so by the Minister or if the chairperson considers it appropriate to do so;
+
+(b) an annual report to the Minister not later than 3 months after the end of each year, which the Minister shall cause to be laid before each House of the Oireachtas not more than 30 days after he or she receives it.
+
+(9) Where a member of the Tribunal fails to comply with a provision of *section 65*, the chairperson may make a written report to the Minister of this failure.
+
+(10) In this section and *section 65*, “business” means the determination of appeals and any additional tasks assigned to a member by the chairperson in order to fulfil any other functions conferred on the Tribunal by or under this Act and the Dublin System Regulations.
+
+### 64. Functions of deputy chairperson of Tribunal
+
+**64.** Without prejudice to *section 62(8)*, a deputy chairperson of the Tribunal shall perform such of the functions of the chairperson under this Act as the chairperson may assign to him or her.
+
+### 65. Role of members of Tribunal
+
+**65.** (1) A member of the Tribunal shall, on behalf of the Tribunal, transact the business assigned to him or her under this Act.
+
+(2) A member shall, in the performance of his or her functions under this Act—
+
+(a) ensure that the business assigned to him or her is managed efficiently and disposed of as expeditiously as is consistent with fairness and natural justice,
+
+(b) conduct oral hearings in accordance with this Act and any regulations under *section 41(4)*,
+
+(c) accord priority to an appeal to which *section 63(5)* applies that is assigned to him or her,
+
+(d) have regard to any guidelines issued by the chairperson under *section 63(2)*,
+
+(e) prepare the report referred to in *paragraph (b)* or *(c)* of *section 63(4)* and provide it to the chairperson when requested to do so,
+
+(f) attend any meetings convened by the chairperson under *subsection (6)* or *(7)* of *section 63*, unless it is impracticable to do so,
+
+(g) provide such assistance to the chairperson in the performance by the chairperson of his or her functions under this Act as the chairperson may reasonably request, and
+
+(h) comply with any direction given by the chairperson relating to training and the continued professional development of members.
+
+### 66. Registrar
+
+**66.** (1) The Minister shall appoint a person to be Registrar of the Tribunal.
+
+(2) A person appointed under *subsection (1)* shall perform the functions assigned to him or her by or under this Act.
+
+(3) The Registrar shall be responsible to the chairperson for the performance of his or her functions.
+
+(4) Where the Registrar is for any reason temporarily unable to perform his or her function of assigning and re-assigning appeals under *section 67* or the position of Registrar is vacant, that function of the Registrar may be performed, for the duration of the inability or until an appointment is made under *subsection (1)* by such member of the staff of the Tribunal as may, from time to time, be designated for that purpose by the Registrar, or (in the absence of such designation) by the Minister, and references in this Act to the Registrar shall be read as including references to a person designated under this subsection.
+
+### 67. Functions of Registrar
+
+**67.** (1) The Registrar shall, in consultation with the chairperson—
+
+(a) manage and control generally the staff and administration of the Tribunal, and
+
+(b) perform such other functions as may be conferred on him or her by the chairperson.
+
+(2) The Registrar shall assign to each member the appeals to be determined by him or her.
+
+(3) Subject to *section 63(4)(a)*, the Registrar may re-assign an appeal where the member to whom it was originally assigned is unable or unwilling to determine that appeal.
+
+(4) In assigning or re-assigning an appeal to a member the Registrar shall have regard to—
+
+(a) the need to ensure the efficient management of the work of, and the expeditious performance of its functions by, the Tribunal, consistent with fairness and natural justice, and
+
+(b) any guidelines issued by the chairperson under *section 63(3)(a)*.
+
+(5) The Registrar shall bring to the attention of the chairperson any matter relevant to the chairperson’s functions under *subsection (1)* or *(5)* of *section 63*.
+
+(6) (a) The Registrar shall, whenever requested by the chairperson, assign to the chairperson—
+
+(i) appeals, or
+
+(ii) a particular appeal,
+
+to be determined by the chairperson under this Act.
+
+(b) In assigning an appeal under *paragraph (a)*, the Registrar shall comply with any direction of the chairperson.
+
+(c) In making a request or giving a direction referred to in this subsection, the chairperson shall have regard to the matters referred to in *subsection (4)*.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C10: References construed (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), reg. 19(2).
+>
+> *Provisions in relation to the Tribunal*
+>
+> 19\. (1) The Tribunal shall be independent in the performance of its functions under these Regulations.
+>
+> (2) A reference in the Act of 2015 to—
+>
+> (a) a function of the Tribunal, chairperson, deputy chairperson, registrar or a member of the Tribunal (including a reference to a function conferred by that Act) shall be deemed to include a reference to the functions conferred upon the Tribunal, chairperson, deputy chairperson, registrar or member, as the case may be, by these Regulations.
+>
+> (b) the work or business of the Tribunal shall include a reference to the work or business of the Tribunal by virtue of these Regulations, and
+>
+> (c) an applicant and an appeal shall include a reference to an applicant or an appeal, as the case may be, under these Regulations.
+
+## PART 11Transitional Provisions — PART 11 — Transitional Provisions
+
+### 68. Detention
+
+**68.** (1) Where, immediately before the coming into operation of this subsection, a person was detained in a place of detention pursuant to section 9 of the Act of 1996, he or she shall be deemed to be detained in that place pursuant to *section 20*, this Act shall apply accordingly, and the period during which the person was so detained shall be included in reckoning a period for the purpose of *section 20*.
+
+(2) Pending the making of regulations under *section 20*, rules or regulations made under section 9 of the Act of 1996 relating to the treatment of persons detained under that section shall, except where they may be inconsistent with this Act, continue in force and shall apply and have effect, with any necessary modifications, in relation to a person detained under this Act.
+
+### 69. Transitional provisions relating to declarations and permissions under repealed enactments
+
+**69.** (1) A declaration given to a person under section 17 of the Act of 1996 that is in force immediately before the date on which this subsection comes into operation shall be deemed to be a refugee declaration given to the person under this Act and the provisions of this Act shall apply accordingly.
+
+(2) A permission to reside in the State granted under Regulation 23(1) of the Regulations of 2013, or deemed under Regulation 31 of those Regulations to have been granted, to a person, that is in force immediately before the date on which this subsection comes into operation, shall, for the duration of its unexpired term, be deemed to be a permission given to the person under *section 54(1)* and the provisions of this Act shall apply accordingly.
+
+(3) A permission to enter and reside in the State granted to a person under section 18 of the Act of 1996 that is in force immediately before the date on which this subsection comes into operation shall be deemed to be a permission given to the person under *section 56* and the provisions of this Act shall apply accordingly.
+
+(4) A subsidiary protection declaration given under Regulation 20 of the Regulation of 2013, or deemed under Regulation 31(1) of those Regulations to have been granted, to a person, that is in force immediately before the date on which this subsection comes into operation shall be deemed to be a subsidiary protection declaration given to the person under this Act and the provisions of this Act shall apply accordingly.
+
+(5) A permission to enter and reside in the State granted under Regulation 25 of the Regulations of 2013, or deemed under Regulation 31(4) of those Regulations to have been granted to a person, that is in force immediately before the date on which this subsection comes into operation shall be deemed to be a permission given to the person under *section 56* and the provisions of this Act shall apply accordingly.
+
+(6) A permission to reside in the State granted to a person under Regulation 26 of the Regulations of 2013 that is in force immediately before the date on which this subsection comes into operation shall be deemed to be a permission given to the person under *section 57* and the provisions of this Act shall apply accordingly.
+
+(7) A permission to reside in the State granted under Regulation 23 of the Regulations of 2013, or deemed under those Regulations to have been granted, to a person referred to in *subsection (4)*, *(5)* or *(6)*, that is in force immediately before the date on which this subsection comes into operation shall, for the duration of its unexpired term, be deemed to be a permission given to the person under *section 54* and the provisions of this Act shall apply accordingly.
+
+### 70. Transitional provisions relating to caseloads under repealed enactments
+
+**70.** (1) Where, before the date on which this subsection comes into operation, a person has made an application for a declaration under section 8 of the Act of 1996 and, by that date, a report under section 13 of that Act has not been prepared in respect of the application, the person shall be deemed to have made an application for international protection under *section 15* and the provisions of this Act shall apply accordingly.
+
+(2) Where, before the date on which this subsection comes into operation, a person has made an appeal under section 16 of the Act of 1996 against a recommendation of the Refugee Applications Commissioner and, by that date, the appeal has not been decided, the person shall be deemed to have made an application for international protection under *section 15* and the provisions of this Act shall apply accordingly, subject to the following modifications and any other necessary modifications:
+
+(a) the application shall be deemed not to be an application for status in the State as a refugee on the basis of a refugee declaration but to be an application only for status in the State as a person eligible for subsidiary protection on the basis of a subsidiary protection declaration;
+
+(b) for the purposes of the examination un der *Part 5* of the application, the person shall be deemed to be a person who should not be given a refugee declaration;
+
+(c) for the purposes of *section 39(3)*—
+
+(i) a recommendation referred to in *paragraph (a)* of that subsection shall not be made in respect of the applicant, and
+
+(ii) the recommendation of the Refugee Applications Commissioner shall be deemed to be a recommendation, referred to in *paragraphs (b)* and *(c)* of that subsection, of the international protection officer that the applicant should not be given a refugee declaration; and
+
+(d) where the international protection officer makes his or her recommendation under *section 39* —
+
+(i) subject to *subparagraph (ii)*, the person’s appeal under section 16 of the Act of 1996 shall be deemed to be an appeal made in accordance with *section 41(1)(a)*, and the provisions of this Act shall apply accordingly,
+
+(ii) where the recommendation is one referred to in *section 39(3)(c)* and the person appeals in accordance with *section 41(1)(b)* against the recommendation, the person’s appeal under section 16 of the Act of 1996 shall be deemed to be included in the appeal under *section 41(1)(b)*, and
+
+(iii) *section 43* shall not apply in respect of the appeal referred to in sub *paragraph (i)* or *(ii)*.
+
+(3) Where, before the date on which this subsection comes into operation, a person has made an application for a declaration under section 8 of the Act of 1996, which application has been the subject of a recommendation under section 13 of that Act to whichsubsection (2) of that section applies, and by that date, the Minister has not refused under section 17 of that Act to give the person concerned a declaration, then, subject to *subsection (6)*, the person shall be deemed to have made an application for international protection under *section 15*.
+
+(4) Where, before the date on which this subsection comes into operation, the former Tribunal has affirmed under section 16 of the Act of 1996 a recommendation of the Refugee Applications Commissioner and, by that date, the Minister has not refused under section 17 of that Act to give the person concerned a declaration, then, subject to *subsection (6)*, the person shall be deemed to have made an application for international protection under *section 15*.
+
+(5) Where, before the date on which this subsection comes into operation, a person has made an application within the meaning of Regulation 2(1) of the Regulations of 2013 and, by that date, the Refugee Applications Commissioner has not yet commenced the investigation of the application under Regulation 5 of those Regulations, then, subject to *subsection (6)*, the person shall be deemed to have made an application for international protection under *section 15*.
+
+(6) Where a person is deemed under *subsection (3)*, *(4)* or *(5)* to have made an application for international protection under *section 15*, this Act shall apply to the application, with the following modifications and any other necessary modifications—
+
+(a) the application shall be deemed not to be an application for status in the State as a refugee on the basis of a refugee declaration but to be an application only for status in the State as a person eligible for subsidiary protection on the basis of a subsidiary protection declaration,
+
+(b) for the purposes of the examination under *Part 5* of the application, the person shall be deemed to be a person who should not be given a refugee declaration,
+
+(c) for the purposes of *section 39(3)*—
+
+(i) a recommendation referred to in *paragraph (a)* of that subsection shall not be made in respect of the applicant, and
+
+(ii) the recommendation of the Refugee Applications Commissioner, made under the Act of 1996 in respect of the applicant, shall be deemed to be a recommendation, referred to in *paragraphs (b)* and *(c)* of that subsection, of the international protection officer that the applicant should not be given a refugee declaration,
+
+and
+
+(d) an appeal to the Tribunal under *section 41(1)* against a recommendation under *paragraph (b)* or *(c)* of *section 39(3)* may be made only in respect of the part of the recommendation that recommends that the applicant should not be given a subsidiary protection declaration.
+
+(7) Where—
+
+(a) immediately before the date on which this subsection comes into operation, a person is an applicant within the meaning of section 1 of the Act of 1996 and his or her application under the Act has not been determined, and
+
+(b) he or she, on that date, is not deemed under this section to have made an application for international protection under *section 15*,
+
+then, notwithstanding *section 6*—
+
+(i) the Act of 1996, and not this Act, shall, for the purpose of his or her application for a declaration under the Act of 1996, continue to apply to him or her, and
+
+(ii) in the event that a notice under F82[section 17(5)] of the Act of 1996 is sent to him or her, he or she may apply under the Regulations of 2013 for a subsidiary protection declaration, and the Regulations of 2006 and the Regulations of 2013 shall apply to the application, and
+
+(iii) in the event that a declaration under section 17 of the Act of 1996 is given to him or her, the declaration shall be deemed to be a refugee declaration given to the person under this Act and the provisions of this Act shall apply accordingly.
+
+(8) Where—
+
+(a) immediately before the date on which this subsection comes into operation, a person is an applicant within the meaning of Regulation 2(1) of the Regulations of 2013, or entitled under Regulation 3 of the Regulations of 2013 to make an application for a subsidiary protection declaration, and
+
+(b) he or she, on that date, is not deemed under *subsection (2)*, *(3)*, *(4)* or *(5)* to have made an application for international protection under *section 15*,
+
+then, notwithstanding *section 6*, the Regulations of 2006 and the Regulations of 2013, and not this Act, shall, for the purpose of his or her application for a subsidiary protection declaration under the Regulations of 2013, continue to apply to him or her.
+
+(9) Where a person to whom *subsection (7)(ii)* or *(8)* applies is given, under Regulation 20 of the Regulations of 2013, a subsidiary protection declaration, the declaration shall be deemed to be a subsidiary protection declaration given to the person under this Act and the provisions of this Act shall apply accordingly.
+
+(10) The Minister—
+
+(a) shall give each person to whom *subsection (1)*, *(2)*, *(3)*, *(4)* or *(5)* applies a statement in writing explaining the effect of this Act and the procedures under which his or her application for international protection will be dealt with, and
+
+(b) shall afford each such person an opportunity to submit, within a specified period, such additional information in support of his or her application for international protection that he or she considers appropriate.
+
+(11) Where, before the date on which this subsection enters into operation, a person has made an application for the consent of the Minister referred to in section 17(7) of the Act of 1996 and, by that date, the Minister has not made a decision in respect of the application, the application shall be deemed to be an application under *section 22(2)* and this Act shall apply accordingly.
+
+(12) Where, before the date on which this subsection comes into operation, the Minister has sent a person a notice under section 21(3) of the Act of 1996 of the Minister’s proposal to revoke a declaration and, by that date, the Minister has not made a decision under that section in respect of the proposal, the notice shall be deemed to be a notice under *section 52(4)*, sent on the date on which it was sent under section 21(3) of the Act of 1996, and this Act shall apply accordingly.
+
+(13) Where, before the date on which this subsection comes into operation, the Minister has sent a person a notice under Regulation 21(2) of the Regulations of 2013 of the Minister’s proposal to revoke a subsidiary protection declaration and, by that date, the Minister has not made a decision under that Regulation in respect of the proposal, the notice shall be deemed to be a notice under *section 52(4)*, sent on the day on which it was sent under that Regulation, and this Act shall apply accordingly.
+
+(14) Where, before the date on which this subsection comes into operation, a person has made an application under section 18(1) or (4) of the Act of 1996 and, by that date, the Minister has not made a decision under that section in respect of the application—
+
+(a) the Act of 1996 shall continue to apply in respect of the application, and
+
+(b) where the Minister decides under that section to grant a permission to the person who is the subject of the application to enter and reside in the State, the permission shall be deemed to be a permission given to the person under *section 56* and the provisions of this Act shall apply accordingly.
+
+(15) Where, before the date on which this subsection comes into operation, a person has made an application under Regulation 25(1) or (4), or Regulation 26(1) or (4), of the Regulations of 2013 and, by that date, the Minister has not made a decision under the Regulation concerned in respect of the application—
+
+(a) the Regulations of 2013 shall continue to apply in respect of the application, and
+
+(b) where the Minister decides—
+
+(i) under Regulation 25 of the Regulations of 2013, to grant a permission to the person who is the subject of the application to enter and reside in the State, the permission shall be deemed to be a permission given to the person under *section 56* and the provisions of this Act shall apply accordingly, and
+
+(ii) under Regulation 26 of the Regulations of 2013, to grant a permission to the person who is the subject of the application to reside in the State, the permission shall be deemed to be a permission given to the person under *section 57* and the provisions of this Act shall apply accordingly.
+
+(16) Where, before the date on which this subsection comes into operation, a person is the subject of a requirement under section 9(5)(a) of the Act of 1996 which, immediately before that date, still has effect, on and from that date, the requirement shall be deemed to be a requirement imposed on the person under *section 16(3)(d)* and this Act shall apply accordingly.
+
+(17) Fingerprints taken under section 9A of the Act of 1996 shall, from the date on which this subsection comes into operation, be deemed to be fingerprints taken (on the date on which they were taken under the Act of 1996) under *section 19*, and this Act shall apply accordingly.
+
+(18) The functions conferred on the Refugee Applications Commissioner by the enactments that continue to apply under this section may, for the purposes referred to in this section, be performed by an international protection officer.
+
+(19) Information provided to the Refugee Applications Commissioner under the Act of 1996, the Regulations of 2013 and the Dublin System Regulations shall, on and from the date on which this subsection comes into operation, be deemed to be information provided to the Minister or an international protection officer under this Act.
+
+(20) Each record held by the Refugee Applications Commissioner under the Act of 1996, the Regulations of 2013 and the Dublin System Regulations shall, on and from the date on which this subsection comes into operation, be deemed to be information provided to the Minister or an international protection officer under this Act.
+
+(21) Where, on the date on which this subsection comes into operation, any legal proceedings are pending to which the Refugee Applications Commissioner is a party and the proceedings have reference to functions which, on and after that date, are functions of an international protection officer, the chief international protection officer shall, to the extent that they have such reference, be substituted in those proceedings for the Refugee Applications Commissioner or added in those proceedings, as may be appropriate, and those proceedings shall not abate by reason of such substitution or addition.
+
+(22) A temporary residence certificate issued under section 9(3) of the Act of 1996 to a person to whom *subsection (1)*, *(2)*, *(3)* or *(4)* applies shall be deemed to be a temporary residence certificate issued under *section 17*.
+
+(23) A temporary residence certificate given under Regulation 4(2) of the Regulations of 2013 to a person to whom *subsection (5)* applies shall be deemed to be a temporary residence certificate issued under *section 17*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (2.10.2017) by *European Union (Subsidiary Protection) Regulations 2017* (S.I. No. 409 of 2017), reg. 9, in effec as per reg. 1(2).
+
+### 71. Transitional provisions relating to Refugee Appeals Tribunal
+
+**71.** (1) With effect from the establishment day, the administration and business in connection with the performance of any functions of the former Tribunal under the Act of 1996, the Regulations of 2006, the Regulations of 2013 and the Dublin System Regulations are transferred, to the Tribunal.
+
+(2) For the purposes of *subsection (1)*, and subject to *subsection (4)*, the chairperson of the Tribunal shall perform the functions of the chairperson of the former Tribunal under the Act of 1996 and the Regulations of 2013.
+
+(3) For the purposes of *subsection (1)*, a member of the Tribunal to whom is assigned an appeal made by a person to whom *subsection (7)* or *(8)* of *section 70* applies shall decide that appeal in accordance with the Act of 1996 and the Regulations of 2006 or the Regulations of 2013, as the case may be, and, for that purpose, perform the functions of a member of the former Tribunal under that Act or those Regulations.
+
+(4) On and after the establishment day, the assignment to members of the Tribunal of appeals made by persons to whom *subsection (7)* or *(8)* of *section 70* applies shall be subject to the provisions of this Act and not the Act of 1996 or the Regulations of 2013.
+
+(5) Where the former Tribunal is a party to legal proceedings pending immediately before the establishment day which relate to functions which, on and after that date, are functions of the Tribunal, the Tribunal shall, insofar as the proceedings relate to those functions, be substituted in the proceedings for the former Tribunal and the proceedings shall not abate by reason of the substitution.
+
+(6) The person who, immediately before the date on which this subsection comes into operation, was the chairperson of the former Tribunal shall, notwithstanding any contract of service and with the person’s consent, on and after that date, be deemed to have been appointed chairperson of the Tribunal and shall hold office for the unexpired term of his or her appointment as chairperson of the former Tribunal.
+
+(7) A person who, immediately before the date on which this subsection comes into operation, was a member of the former Tribunal shall, notwithstanding any contract for service and with the person’s consent, on and after that date, be deemed to have been appointed in a part-time capacity to the Tribunal and shall hold office for the unexpired term of his or her appointment as a member of the former Tribunal.
+
+(8) The person who, immediately before the date on which this subsection comes into operation, was the Principal Officer of the former Tribunal shall, with the person’s consent, on and after that date, be deemed to have been appointed Registrar and shall hold office until a person is appointed under *section 66(1)* to be Registrar.
+
+(9) In this section—
+
+“establishment day” means the day appointed by the Minister under *section 61(2)* on which the International Protection Appeals Tribunal stands established;
+
+“former Tribunal” means the Refugee Appeals Tribunal established under section 15 of the Act of 1996.
+
+## PART 12Miscellaneous — PART 12 — Miscellaneous
+
+### 72. Designation of safe countries of origin
+
+**72.** (1) The Minister may by order designate a country as a safe country of origin.
+
+(2) The Minister may make an order under *subsection (1)* only if he or she is satisfied that, on the basis of the legal situation, the application of the law within a democratic system and the general political circumstances, it can be shown that there is generally and consistently no persecution, no torture or inhuman or degrading treatment or punishment and no threat by reason of indiscriminate violence in situations of international or internal armed conflict.
+
+(3) In making the assessment referred to in *subsection (2)*, the Minister shall take account of, among other things, the extent to which protection is provided against persecution or mistreatment by—
+
+(a) the relevant laws and regulations of the country and the manner in which they are applied,
+
+(b) observance of the rights and freedoms laid down in the European Convention on Human Rights, the International Covenant on Civil and Political Rights and the United Nations Convention against Torture, in particular the rights from which derogation cannot be made under Article 15(2) of the European Convention on Human Rights,
+
+(c) respect for the non-refoulement principle in accordance with the Geneva Convention, and
+
+(d) provision for a system of effective remedies against violations of those rights and freedoms.
+
+(4) The Minister shall base his or her assessment referred to in *subsection (2)* on a range of sources of information, including in particular information from—
+
+(a) other Member States,
+
+(b) the European Asylum Support Office,
+
+(c) the High Commissioner,
+
+(d) the Council of Europe, and
+
+(e) such other international organisations as the Minister considers appropriate.
+
+(5) The Minister shall, in accordanc e with *subsections (2)* to *(4)* and on a regular basis, review the situation in a country designated under *subsection (1)*.
+
+(6) The Minister shall notify the European Commission of the making, amendment or revocation of an order under *subsection (1)*.
+
+(7) In this section—
+
+“Convention against Torture” means the Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment adopted by Resolution 39/46 of the General Assembly of the United Nations on 10 December 1984;
+
+“country” means a country other than an EU Member State;
+
+“European Convention on Human Rights” means the Convention for the Protection of Human Rights and Fundamental Freedoms done at Rome on the 4th day of November, 1950;
+
+“International Covenant on Civil and Political Rights” means the International Covenant on Civil and Political Rights adopted by Resolution 2200A (XXI) of the General Assembly of the United Nations on 16 December 1966.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E50: Power pursuant to subs. (1) exercised (3.07.2024) by *International Protection Act 2015 (Safe Countries of Origin) (Amendment) (No. 2) Order 2024* (S.I. No. 327 of 2024), in operation as per art. 1(2).
+>
+> E51: Power pursuant to subs. (1) exercised (31.01.2024) by *International Protection Act 2015 (Safe Countries of Origin) (Amendment) Order 2024* (S.I. No. 32 of 2024), in operation as per art. 1(2).
+>
+> E52: Power pursuant to subs. (1) exercised (16.04.2018) by *International Protection Act 2015 (Safe Countries of Origin) Order 2018* (S.I. No. 121 of 2018), in operation as per art. 1(2).
+
+### 72A. Designation of safe third countries
+
+F83[**72A.** (1) The Minister may by order designate a country as a safe third country.
+
+(2) The Minister may make an order under *subsection (1)* only if he or she is satisfied that a person seeking to be recognised in the country concerned as a refugee will be treated in accordance with the following principles in that country—
+
+(a) life and liberty are not threatened on account of race, religion, nationality, membership of a particular social group or political opinion,
+
+F84[(aa) there is no risk that a person would be subjected to the death penalty, torture or inhuman or degrading treatment or punishment, or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict,]
+
+(b) the principle of non-refoulement in accordance with the Geneva Convention is respected,
+
+(c) the prohibition of removal, in violation of the right to freedom from torture and cruel, inhuman or degrading treatment, as required by international law, is respected, and
+
+(d) the possibility exists to request refugee status and, if found to be a refugee, to receive protection in accordance with the Geneva Convention.
+
+(3) The Minister shall base his or her assessment referred to in *subsection (2)* on a range of sources of information, including in particular information from—
+
+(a) other Member States of the European Union,
+
+(b) the European Asylum Support Office,
+
+(c) the High Commissioner,
+
+(d) the Council of Europe, and
+
+(e) such other international organisations as the Minister considers appropriate.
+
+(4) The Minister shall, in accordance with *subsections (2)* and *(3)* and on a regular basis, review the situation in a country designated under *subsection (1)*.
+
+(5) The Minister shall notify the European Commission of the making, amendment or revocation of an order under *subsection (1)*.
+
+(6) In this section—
+
+"country" means a country other than an EU Member State;
+
+"refugee status" means the recognition by the country concerned of a third country national or stateless person as a refugee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F83: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 122, S.I. No. 693 of 2020, subject to transitional provision in s. 116.
+>
+> F84: Inserted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 13, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E53: Power pursuant to subs. (1) exercised (11.03.2025) by *International Protection Act 2015 (Safe Third Country) Order 2025* (S.I. No. 73/2025)
+>
+> E54: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E55: Previous affecting provision: power pursuant to subs. (1) exercised (31.12.2020 at 11.00 p.m.) by *International Protection Act 2015 (Safe Third Country) Order 2020* (S.I. No. 725 of 2020), in operation as per art. 1(2); revoked (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 6, commenced on enactment.
+
+### 73. Prioritisation
+
+**73.** (1) Subject to the need for fairness and efficiency in dealing with applications for international protection under this Act, the Minister may, where he or she considers it necessary or expedient to do so—
+
+(a) accord priority to any application, or
+
+(b) having consulted with the chairperson of the Tribunal, request the chairperson to accord priority to any appeal.
+
+(2) In according priority under *subsection (1)(a)* or making a request under *subsection (1)(b)*, the Minister may have regard to the following:
+
+(a) whether the applicant possesses identity documents, and, if not, whether he or she has provided a reasonable explanation for the absence of such documents;
+
+(b) whether the applicant has provided a reasonable explanation to substantiate his or her claim that the State is the first safe country in which he or she has arrived since departing from his or her country of origin;
+
+(c) whether the applicant has provided a full and true explanation of how he or she travelled to and arrived in the State;
+
+(d) where the application was made other than at the frontier of the State, whether the applicant has provided a reasonable explanation to show why he or she did not make an application for international protection or, as the case may be, an application under section 8 of the Act of 1996 immediately on arriving at the frontier of the State unless the application is grounded on events which have taken place since his or her arrival in the State;
+
+(e) where the applicant has forged, destroyed or disposed of any identity or other documents relevant to his or her application, whether he or she has a reasonable explanation for so doing;
+
+(f) whether the applicant has adduced manifestly false evidence in support of his or her application, or has otherwise made false representations, either orally or in writing;
+
+(g) whether the applicant, without reasonable cause, has made an application following the notification of a proposal under section 3(3)(a) of the Immigration Act 1999;
+
+(h) whether the applicant has complied with the requirements of *section 27(1)*;
+
+(i) whether the applicant is a person in respect of whom the Child and Family Agency is providing care and protection;
+
+(j) whether the applicant has, without reasonable cause, failed to comply with the requirements of *paragraphs (a)*, *(c)* or *(d)* of F85[*section 16(3)*;]
+
+F86[(k) whether the applicant is from a safe country of origin;
+
+(l) whether the country of origin of the applicant is a country in respect of which there are a large number of applications or appeals, and the need to ensure that these and all other applications or appeals are dealt with in an efficient manner.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F85: Substituted (8.11.2022) by *European Communities (International Protection Procedures) Regulations 2022* (S.I. No. 541 of 2022), reg. 3(a), in operation as per reg. 1(2).
+>
+> F86: Inserted (8.11.2022) by *European Communities (International Protection Procedures) Regulations 2022* (S.I. No. 541 of 2022), reg. 3(b), in operation as per reg. 1(2).
+
+### 73A. Acceleration
+
+F87[**73A.** (1) Subject to the need for fairness and efficiency in dealing with applications for international protection under this Act, the Minister may, where he or she considers it necessary or expedient to do so, accelerate the examination of any application.
+
+(2) In accelerating, under *subsection (1)*, an examination of any application for international protection, the Minister may have regard to the matters in *paragraphs (a)* to *(l)* of *section 73(2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F87: Inserted (8.11.2022) by *European Communities (International Protection Procedures) Regulations 2022* (S.I. No. 541 of 2022), reg. 4, in operation as per reg. 1(2).
+
+### 74. International protection officers
+
+**74.** (1) The Minister may authorise in writing such and so many persons as he or she considers appropriate to perform the functions conferred on an international protection officer by or under this Act.
+
+(2) An authorisation under this section shall cease—
+
+(a) where the Minister revokes, under this section, the authorisation,
+
+(b) in the case of a person who is an officer of the Minister, where the person ceases to be an officer of the Minister, or
+
+(c) in the case of an authorisation that is for a fixed period, on the expiry of that period.
+
+(3) The Minister may revoke an authorisation under this section.
+
+(4) An international protection officer shall be independent in the performance of his or her functions.
+
+### 75. Chief international protection officer
+
+**75.** (1) The Minister shall appoint a person, being an international protection officer, to perform the functions conferred on the chief international protection officer by or under this Act.
+
+(2) The Minister may revoke an appointment under this section.
+
+(3) The functions of the chief international protection officer under this Act shall include the management of the allocation to international protection officers, for examination under this Act, of applications for international protection.
+
+(4) The chief international protection officer shall be independent in the performance of his or her functions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Reference construed (6.03.2018) by *European Union (Dublin System) Regulations 2018* (S.I. No. 62 of 2018), regs. 17(2), 18 (2).
+>
+> *Provisions in relation to chief international protection officer*
+>
+> 17\. (1) The chief international protection officer shall be independent in the exercise of his or her functions under these Regulations.
+>
+> (2) A reference in section 75(3) of the Act of 2015 to the functions of the chief international protection officer (including a reference to the functions of the chief international protection officer conferred by that Act) shall be deemed to include a reference to the functions conferred on the chief international protection officer by these Regulations.
+>
+> *Provisions in relation to international protection officers*
+>
+> 18\. (1) An international protection officer shall be independent in the performance of his or her functions under these Regulations.
+>
+> (2) A reference in the Act of 2015 to the functions of an international protection officer conferred on him or her by that Act shall be deemed to include a reference to the functions conferred on an international protection officer by these Regulations.
+
+### 76. Contracts for services
+
+**76.** (1) The Minister may enter into contracts for services with such and so many persons as he or she considers necessary to assist him or her in the performance of his or her functions under this Act and such contracts with such persons shall contain such terms and conditions as the Minister may, with the consent of the Minister for Public Expenditure and Reform, determine.
+
+(2) The Minister may authorise a person with whom the Minister has entered into a contract for services in accordance with *subsection (1)* to perform any of the functions (other than the function consisting of the making of a recommendation to which *subsection (3)* of *section 39* applies) of an international protection officer under this Act.
+
+### 77. Period for making appeal under sections 21, 22, 41 and 43
+
+**77.** The Minister may, in consultation with the chairperson and having regard to the need to observe fair procedures and the need to ensure the efficient conduct of the business of the Tribunal, prescribe periods for the purposes of *section 21(6)*, *22(8)*, *41(2)(a)* and *43(a)* and, in doing so, may prescribe different periods in respect of different provisions or different classes of appeal.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E56: Power pursuant to section exercised (29.03.2017) by *International Protection Act 2015 (Procedures and Periods for Appeals) Regulations 2017* (S.I. No. 116 of 2017).
+
+## PART 13Miscellaneous Amendments — PART 13 — Miscellaneous Amendments
+
+### 78. Amendment of Immigration Act 1999
+
+**78.** The Immigration Act 1999 is amended by the substitution of the following for section 5:
+
+**“5.** (1) Where an immigration officer or a member of the Garda Síochána, with reasonable cause, suspects that a person against whom a deportation order is in force—
+
+(a) has failed to leave the State within the time specified in the order,
+
+(b) has failed to comply with any other provision of the order or with a requirement in a notice under section 3(3)(b)(ii),
+
+(c) intends to leave the State and enter another state without lawful authority,
+
+(d) has destroyed his or her identity documents or is in possession of forged identity documents, or
+
+(e) intends to avoid removal from the State,
+
+the officer or member may arrest the person without warrant, and a person so arrested may be taken to a place referred to in subsection (3) and detained in the place in accordance with that subsection.
+
+(2) Where a person against whom a deportation order is in force is serving a term of imprisonment in a prison or place of detention, an immigration officer or a member of the Garda Síochána may, immediately on completion by the person of the term of imprisonment, arrest the person without warrant and detain him or her in accordance with subsection (3).
+
+(3) A person who is arrested and detained under subsection (1) or (2) may be detained—
+
+(a) in a prescribed place, or
+
+(b) for the purpose of his or her being placed in accordance with subsection (4) and for a period or periods each not exceeding 12 hours—
+
+(i) in a vehicle, for the purposes of bringing the person to the port from which the ship, railway train, road vehicle or aircraft concerned is due to depart, or
+
+(ii) within the port referred to in subparagraph (i).
+
+(4) A person arrested and detained under subsection (1) or (2) may be placed on a ship, railway train, road vehicle or aircraft about to leave the State by an immigration officer or a member of the Garda Síochána, and shall be deemed to be in lawful custody whilst so detained and until the ship, railway train, road vehicle or aircraft leaves the State.
+
+(5) The master of any ship and the person in charge of any railway train, road vehicle or aircraft bound for any place outside the State shall, if so required by an immigration officer or a member of the Garda Síochána, receive a person against whom a deportation order has been made and his or her dependants, if any, on board such ship, railway train, road vehicle or aircraft and afford him or her and his or her dependants proper accommodation and maintenance during the journey.
+
+(6) (a) Subsections (1) and (2) shall not apply to a person who is under the age of 18 years.
+
+(b) If and for so long as the immigration officer or, as the case may be, the member of the Garda Síochána concerned has reasonable grounds for believing that the person is not under the age of 18 years, the provisions of subsections (1) and (2) shall apply as if he or she had attained the age of 18 years.
+
+(c) Where an unmarried child under the age of 18 years is in the custody of any person (whether a parent or a person acting in loco parentis or any other person) and such person is detained pursuant to the provisions of this section, the immigration officer or the member of the Garda Síochána concerned shall, without delay, notify the Child and Family Agency of the detention and of the circumstances thereof.
+
+(7) Where a person detained under this section institutes court proceedings challenging the validity of the deportation order concerned, or of a decision by the Minister under section 3(11) in relation to the order, the court hearing those proceedings or any appeal therefrom may, on application to it, determine whether the person shall continue to be detained or shall be released, and may make any such release subject to such conditions as it considers appropriate, including, but without prejudice to the generality of the foregoing, any one or more of the following conditions:
+
+(a) that the person reside or remain in a particular district or place in the State;
+
+(b) that he or she report to a specified Garda Síochána station or immigration officer at specified intervals;
+
+(c) that he or she surrender any passport or travel document in his or her possession.
+
+(8) (a) Subject to subsections (9) and (10), a person shall not be detained under this section for a period or periods exceeding 8 weeks in aggregate.
+
+(b) The following periods shall be excluded in reckoning a period for the purpose of paragraph (a):
+
+(i) any period during which the person is remanded in custody pending a criminal trial or serving a sentence of imprisonment;
+
+(ii) any period spent by the person in a vehicle referred to in subsection (3)(b)(i) or on board a ship, railway train, road vehicle or aircraft pursuant to this section; and
+
+(iii) if the person has instituted court proceedings challenging the validity of the deportation order concerned, or a decision by the Minister under section 3(11) in relation to the order, any period spent by the person in a place of detention between the date of the institution of the proceedings and the date of their final determination including, where notice of appeal is given, the period between the giving thereof and the final determination of the appeal or any further appeal therefrom or the withdrawal of the appeal or, as appropriate, the expiry of the ordinary time for instituting any such appeal.
+
+(c) Periods of detention of a person under this section may be aggregated for the purposes of paragraph (a) only where the person concerned has, between the expiry of the earliest occurring period and the commencement of the latest occurring period, not left the State.
+
+(9) (a) This paragraph applies to a person against whom a deportation order is in force who—
+
+(i) has previously been detained under this section, and
+
+(ii) not having left the State since the expiry of the latest period of his or her detention referred to in subparagraph (i), is arrested and detained under subsection (1) or (2).
+
+(b) Where the aggregate of the period or periods of his or her detention referred to in paragraph (a)(i) and the period of his or her detention referred to in paragraph (a)(ii) is 8 weeks, a person to whom paragraph (a) applies shall continue to be detained under this section only with the leave of a judge of the District Court.
+
+(c) Where the detention of a person is authorised under paragraph (b), the period of his or her detention referred to in paragraph (a)(i) shall be excluded in reckoning, for the purposes of subsection (8)(a), the period of his or her detention referred to in paragraph (a)(ii).
+
+(10) (a) Paragraph (b) shall apply to the arrest and detention under this section of a person who has previously been detained under this section, where the period, or the aggregate of the periods, of the previous detention is 8 weeks or more.
+
+(b) Where a person to whom paragraph (a) applies is arrested and detained under subsection (1) or (2) —
+
+(i) he or she shall, as soon as practicable, be brought before a judge of the District Court, and
+
+(ii) he or she shall continue to be detained under this section only with the leave of a judge of the District Court.
+
+(11) For the purposes of arresting a person under subsection (1) or (2), the immigration officer or member of An Garda Síochána may enter (if necessary, by use of reasonable force) and search any premises (including a dwelling) where the person is or where the immigration officer or the member, with reasonable cause, suspects that person to be, and where the premises is a dwelling, the immigration officer or the member shall not, unless acting with the consent of an occupier of the dwelling or other person who appears to the immigration officer or the member to be in charge of the dwelling, enter that dwelling unless—
+
+(a) the person ordinarily resides at that dwelling, or
+
+(b) he or she believes on reasonable grounds that the person is within the dwelling.”
+
+### 79. Amendment of section 5 of Illegal Immigrants (Trafficking) Act 2000
+
+**79.** Section 5 of the Illegal Immigrants (Trafficking) Act 2000 is amended—
+
+(a) in subsection (1) —
+
+(i) in paragraph (o), by the substitution of “(S.I. No. 426 of 2013),” for “(S.I. No. 426 of 2013), or”, and
+
+(ii) by the insertion of the following after paragraph (o):
+
+“(oa) a recommendation of an international protection officer under *section 21(3)* of the *International Protection Act 2015*,
+
+(ob) a decision of the International Protection Appeals Tribunal under *section 21(9)(a)* of the *International Protection Act 2015*,
+
+(oc) a determination of the Minister under *section 21(11)* of the *International Protection Act 2015*,
+
+(od) a recommendation of an international protection officer under *section 22(5)* of the *International Protection Act 2015*,
+
+(oe) a decision of the International Protection Appeals Tribunal under *section 22(11)(a)* of the *International Protection Act 2015*,
+
+(of) a refusal by the Minister under *section 22(15)* of the *International Protection Act 2015*,
+
+(og) a recommendation of an international protection officer under *paragraph (b)* or *(c)* of *section 39(3)* of the *International Protection Act 2015*,
+
+(oh) a decision of the International Protection Appeals Tribunal under *subsection (2)* or *(3)* of *section 46* of the *International Protection Act 2015*,
+
+(oi) a decision of the Minister under *section 49(4)(b)* of the *International Protection Act 2015*,
+
+(oj) a deportation order under *section 51* of the *International Protection Act 2015*, or”,
+
+and
+
+(b) in subsection (9)(c) —
+
+(i) by the substitution of the following definition for the definition of “international protection”:
+
+“ ‘international protection’ has the meaning it has in *section 2* of the *International Protection Act 2015*;”,
+
+and
+
+(ii) by the insertion of the following after subparagraph (v) of the definition of “relevant enactment”:
+
+“(va) the *International Protection Act 2015*,”.
+
+### 80. Amendment of section 5 of Immigration Act 2003
+
+**80.** Section 5 of the Immigration Act 2003 is amended by the substitution of the following for subsection (2)(a):
+
+“(2) (a) Subject to paragraph (b), a person to whom this section applies may be arrested without warrant by an immigration officer or a member of the Garda Síochána, and a person so arrested may be taken to a place referred to in subparagraph (i) or (ii) and detained—
+
+(i) under warrant of that officer or member in a prescribed place and in the custody of the officer of the Minister or member of the Garda Síochána for the time being in charge of that place, or
+
+(ii) for the purposes of subsection (6) and for a period or periods each not exceeding 12 hours—
+
+(I) in a vehicle, for the purposes of bringing the person to the port from which the ship, railway train, road vehicle or aircraft concerned is due to depart, or
+
+(II) within the port referred to in clause (I).”.
+
+### 81. Amendment of Immigration Act 2004
+
+**81.** The Immigration Act 2004 is amended—
+
+(a) in section 3, by the insertion of the following after subsection (6):
+
+“(7) The terms and conditions referred to in subsection (1) may include terms and conditions relating to the period for which a person appointed under this section shall hold office.
+
+(8) An immigration officer appointed under subsection (1) shall be furnished with a warrant of appointment and shall, when performing any function conferred on him or her by this Act, if requested by a person affected, produce the warrant of appointment or a copy of it to that person.”,
+
+(b) in section 4(3), by the insertion of the following after paragraph (k):
+
+“(l) that the non-national—
+
+(i) is a person to whom leave to enter or leave to remain in a territory (other than the State) of the Common Travel Area (within the meaning of the International Protection Act 2015) applied at any time during the period of 12 months immediately preceding his or her application, in accordance with subsection (2), for a permission,
+
+(ii) travelled to the State from any such territory, and
+
+(iii) entered the State for the purpose of extending his or her stay in the said Common Travel Area regardless of whether or not the person intends to make an application for international protection.”,
+
+(c) in section 5(1), by the substitution of “given to him or her” for “given under this Act”, and
+
+(d) in section 6, by—
+
+(i) the deletion of subsection (2), and
+
+(ii) the insertion of the following after subsection (4):
+
+“(5) The Minister may by order designate a port to be an approved port for the purposes of this section and a reference in this section to an approved port is a reference to a port that stands designated under this subsection.
+
+(6) The designation under subsection (5) of a port as an approved port may be subject to such conditions as are specified in the order, which may include conditions obliging the person having the management and control of the approved port to—
+
+(a) provide, free of charge, such accommodation and other facilities as the Minister may require for the performance by persons of functions conferred on them by this Act and any other enactment relating to the entry by persons into the State, and
+
+(b) maintain the accommodation and other facilities in a manner that is compatible with the efficient performance of those functions.
+
+(7) Before deciding to impose a condition under subsection (6), the Minister shall consult the person referred to in that subsection.
+
+(8) Where the Minister is satisfied that a condition imposed under subsection (6) has, without reasonable cause, been breached, he or she may, in accordance with this section, revoke the designation under subsection (5) of the port concerned as an approved port.
+
+(9) Where the Minister proposes to revoke the designation of a port as an approved port, he or she shall give the person having management and control of the approved port a notice—
+
+(a) informing the person of the proposal and of the reasons for it, and
+
+(b) inviting the person to submit, within such time as is specified in the notice, representations in relation to the proposal.
+
+(10) The Minister, in deciding whether to revoke a designation, shall have regard to representations (if any) made under subsection (9)(b).
+
+(11) Where the Minister revokes a designation under this section, the person having management and control of the port concerned may appeal to the District Court in the District Court district in which the port is located, against the revocation.
+
+(12) A person who operates a port or other place that is not an approved port shall be guilty of an offence if he or she—
+
+(a) represents the port or other place to be an approved port,
+
+(b) knowingly facilitates the landing in the State at that port or other place by another person so that the other person thereby commits an offence under subsection (4), or
+
+(c) knowing that another person has committed an offence under subsection (4) at that port or other place, fails to report the circumstances to an immigration officer.”.
+
+## SCHEDULE 1 — Text of 1951 Convention relating to the Status of Refugees
+
+*Section 2*
+
+CONVENTION RELATING TO THE STATUS OF REFUGEES DONE AT GENEVA ON 28 JULY 1951
+
+PREAMBLE
+
+*THE HIGH CONTRACTING PARTIES*,
+
+*Considering* that the Charter of the United Nations and the Universal Declaration of Human Rights approved on 10 December 1948 by the General Assembly have affirmed the principle that human beings shall enjoy fundamental rights and freedoms without discrimination,
+
+*Considering* that the United Nations has, on various occasions, manifested its profound concern for refugees and endeavoured to assure refugees the widest possible exercise of these fundamental rights and freedoms,
+
+*Considering* that it is desirable to revise and consolidate previous international agreements relating to the status of refugees and to extend the scope of and protection accorded by such instruments by means of a new agreement,
+
+*Considering* that the grant of asylum may place unduly heavy burdens on certain countries, and that a satisfactory solution of a problem of which the United Nations has recognized the international scope and nature cannot therefore be achieved without international co-operation,
+
+*Expressing* the wish that all States, recognizing the social and humanitarian nature of the problem of refugees, will do everything within their power to prevent this problem from becoming a cause of tension between States,
+
+*Noting* that the United Nations High Commissioner for Refugees is charged with the task of supervising international conventions providing for the protection of Refugees, and recognizing that the effective co-ordination of measures taken to deal with this problem will depend upon the co-operation of States with the High Commissioner,
+
+*Have agreed as follows:*
+
+### Chapter I — GENERAL PROVISIONS
+
+*Article 1*
+
+*Definition of the term “Refugee”*
+
+A. For the purposes of the present Convention, the term “refugee” shall apply to any person who:
+
+(1) Has been considered a refugee under the Arrangements of 12 May 1926 and 30 June 1928 or under the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 or the Constitution of the International Refugee Organization;
+
+Decisions of non-eligibility taken by the International Refugee Organization during the period of its activities shall not prevent the status of refugee being accorded to persons who fulfil the conditions of paragraph 2 of this section;
+
+(2) As a result of events occurring before 1 January 1951 and owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.
+
+In the case of a person who has more than one nationality, the term “the country of his nationality” shall mean each of the countries of which he is a national, and a person shall not be deemed to be lacking the protection of the country of his nationality if, without any valid reason based on well-founded fear, he has not availed himself of the protection of one of the countries of which he is a national.
+
+B. (1) For the purposes of this Convention, the words “events occurring before 1 January 1951” in Article 1, Section A, shall be understood to mean either:
+
+(a) “events occurring in Europe before 1 January 1951”; or
+
+(b) “events occurring in Europe or elsewhere before 1 January 1951”, and each Contracting State shall make a declaration at the time of signature, ratification or accession, specifying which of these meanings it applies for the purpose of its obligations under this Convention.
+
+(2) Any Contracting State which has adopted alternative (a) may at any time extend its obligations by adopting alternative (b) by means of a notification addressed to the Secretary-General of the United Nations.
+
+C. This Convention shall cease to apply to any person falling under the terms of Section A if:
+
+(1) He has voluntarily re-availed himself of the protection of the country of his nationality; or
+
+(2) Having lost his nationality, he has voluntarily re-acquired it; or
+
+(3) He has acquired a new nationality, and enjoys the protection of the country of his new nationality; or
+
+(4) He has voluntarily re-established himself in the country which he left or outside which he remained owing to fear of persecution; or
+
+(5) He can no longer, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, continue to refuse to avail himself of the protection of the country of his nationality;
+
+Provided that this paragraph shall not apply to a refugee failing under section A(1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself of the protection of the country of nationality;
+
+(6) Being a person who has no nationality he is, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence;
+
+Provided that this paragraph shall not apply to a refugee falling under section A(1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
+
+D. This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
+
+When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall ipso facto be entitled to the benefits of this Convention.
+
+E. This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+
+F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+
+(b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+
+(c) he has been guilty of acts contrary to the purposes and principles of the United Nations.
+
+*Article 2*
+
+*General obligations*
+
+Every refugee has duties to the country in which he finds himself, which require in particular that he conform to its laws and regulations as well as to measures taken for the maintenance of public order.
+
+*Article 3*
+
+*Non-discrimination*
+
+The Contracting States shall apply the provisions of this Convention to refugees without discrimination as to race, religion or country of origin.
+
+*Article 4*
+
+*Religion*
+
+The Contracting States shall accord to refugees within their territories treatment at least as favourable as that accorded to their nationals with respect to freedom to practise their religion and freedom as regards the religious education of their children.
+
+*Article 5*
+
+*Rights granted apart from this Convention*
+
+Nothing in this Convention shall be deemed to impair any rights and benefits granted by a Contracting State to refugees apart from this Convention.
+
+*Article 6*
+
+*The term “in the same circumstances”*
+
+For the purpose of this Convention, the term “in the same circumstances” implies that any requirements (including requirements as to length and conditions of sojourn or residence) which the particular individual would have to fulfil for the enjoyment of the right in question, if he were not a refugee, must be fulfilled by him, with the exception of requirements which by their nature a refugee is incapable of fulfilling.
+
+*Article 7*
+
+*Exemption from reciprocity*
+
+1\. Except where this Convention contains more favourable provisions, a Contracting State shall accord to refugees the same treatment as is accorded to aliens generally.
+
+2\. After a period of three years’ residence, all refugees shall enjoy exemption from legislative reciprocity in the territory of the Contracting States.
+
+3\. Each Contracting State shall continue to accord to refugees the rights and benefits to which they were already entitled, in the absence of reciprocity, at the date of entry into force of this Convention for that State.
+
+4\. The Contracting States shall consider favourably the possibility of according to refugees, in the absence of reciprocity, rights and benefits beyond those to which they are entitled according to paragraphs 2 and 3, and to extending exemption from reciprocity to refugees who do not fulfil the conditions provided for in paragraphs 2 and 3.
+
+5\. The provisions of paragraphs 2 and 3 apply both to the rights and benefits referred to in articles 13, 18, 19, 21 and 22 of this Convention and to rights and benefits for which this Convention does not provide.
+
+*Article 8*
+
+*Exemption from exceptional measures*
+
+With regard to exceptional measures which may be taken against the person, property or interests of nationals of a foreign State, the Contracting States shall not apply such measures to a refugee who is formally a national of the said State solely on account of such nationality. Contracting States which, under their legislation, are prevented from applying the general principle expressed in this article, shall, in appropriate cases, grant exemptions in favour of such refugees.
+
+*Article 9*
+
+*Provisional measures*
+
+Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
+
+*Article 10*
+
+*Continuity of residence*
+
+1\. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
+
+2\. Where a refugee has been forcibly displaced during the Second World War from the territory of a Contracting State and has, prior to the date of entry into force of this Convention, returned there for the purpose of taking up residence, the period of residence before and after such enforced displacement shall be regarded as one uninterrupted period for any purposes for which uninterrupted residence is required.
+
+*Article 11*
+
+*Refugee seamen*
+
+In the case of refugees regularly serving as crew members on board a ship flying the flag of a Contracting State, that State shall give sympathetic consideration to their establishment on its territory and the issue of travel documents to them or their temporary admission to its territory particularly with a view to facilitating their establishment in another country.
+
+### Chapter II — JURIDICAL STATUS
+
+*Article 12*
+
+*Personal status*
+
+1\. The personal status of a refugee shall be governed by the law of the country of his domicile or, if he has no domicile, by the law of the country of his residence.
+
+2\. Rights previously acquired by a refugee and dependent on personal status, more particularly rights attaching to marriage, shall be respected by a Contracting State, subject to compliance, if this be necessary, with the formalities required by the law of that State, provided that the right in question is one which would have been recognised by the law of that State had he not become a refugee.
+
+*Article 13*
+
+*Movable and immovable property*
+
+The Contracting States shall accord to a refugee treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the acquisition of movable and immovable property and other rights pertaining thereto, and to leases and other contracts relating to movable and immovable property.
+
+*Article 14*
+
+*Artistic rights and industrial property*
+
+In respect of the protection of industrial property, such as inventions, designs or models, trade marks, trade names, and of rights in literary, artistic and scientific works, a refugee shall be accorded in the country in which he has his habitual residence the same protection as is accorded to nationals of that country. In the territory of any other Contracting State, he shall be accorded the same protection as is accorded in that territory to nationals of the country in which he has habitual residence.
+
+*Article 15*
+
+*Right of association*
+
+As regards non-political and non-profit-making associations and trade unions the Contracting State shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country, in the same circumstances.
+
+*Article 16*
+
+*Access to courts*
+
+1\. A refugee shall have free access to the courts of law on the territory of all Contracting States.
+
+2\. A refugee shall enjoy in the Contracting State in which he has his habitual residence the same treatment as a national in matters pertaining to access to the Courts, including legal assistance and exemption from *cautio judicatum solvi*.
+
+3\. A refugee shall be accorded in the matters referred to in paragraph 2 in countries other than that in which he has his habitual residence the treatment granted to a national of the country of his habitual residence.
+
+### Chapter III — GAINFUL EMPLOYMENT
+
+*Article 17*
+
+*Wage-earning employment*
+
+1\. The Contracting State shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country in the same circumstances, as regards the right to engage in wage-earning employment.
+
+2\. In any case, restrictive measures imposed on aliens or the employment of aliens for the protection of the national labour market shall not be applied to a refugee who was already exempt from them at the date of entry into force of this Convention for the Contracting States concerned, or who fulfils one of the following conditions:
+
+(a) He has completed three years' residence in the country;
+
+(b) He has a spouse possessing the nationality of the country of residence. A refugee may not invoke the benefits of this provision if he has abandoned his spouse;
+
+(c) He has one or more children possessing the nationality of the country of residence.
+
+3\. The Contracting States shall give sympathetic consideration to assimilating the rights of all refugees with regard to wage-earning employment to those of nationals, and in particular of those refugees who have entered their territory pursuant to programmes of labour recruitment or under immigration schemes.
+
+*Article 18*
+
+*Self-employment*
+
+The Contracting States shall accord to a refugee lawfully in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the right to engage on his own account in agriculture, industry, handicrafts and commerce and to establish commercial and industrial companies.
+
+*Article 19*
+
+*Liberal professions*
+
+1\. Each Contracting State shall accord to refugees lawfully staying in their territory who hold diplomas recognised by the competent authorities of that State, and who are desirous of practising a liberal profession, treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
+
+2\. The Contracting States shall use their best endeavours consistently with their laws and constitutions to secure the settlement of such refugees in the territories, other than the metropolitan territory, for whose international relations they are responsible.
+
+### Chapter IV — WELFARE
+
+*Article 20*
+
+*Rationing*
+
+Where a rationing system exists, which applies to the population at large and regulates the general distribution of products in short supply, refugees shall be accorded the same treatment as nationals.
+
+*Article 21*
+
+*Housing*
+
+As regards housing, the Contracting States, in so far as the matter is regulated by laws or regulations or is subject to the control of public authorities, shall accord to refugees lawfully staying in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
+
+*Article 22*
+
+*Public education*
+
+1\. The Contracting States shall accord to refugees the same treatment as is accorded to nationals with respect to elementary education.
+
+2\. The Contracting States shall accord to refugees treatment as favourable as possible, and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, with respect to education other than elementary education and, in particular, as regards access to studies, the recognition of foreign school certificates, diplomas and degrees, the remission of fees and charges and the award of scholarships.
+
+*Article 23*
+
+*Public relief*
+
+The Contracting States shall accord to refugees lawfully staying in their territory the same treatment with respect to public relief and assistance as is accorded to their nationals.
+
+*Article 24*
+
+*Labour legislation and social security*
+
+1\. The Contracting States shall accord to refugees lawfully staying in their territory the same treatment as is accorded to nationals in respect of the following matters:
+
+(a) In so far as such matters are governed by laws or regulations or are subject to the control of administrative authorities: remuneration, including family allowances where these form part of remuneration, hours of work, overtime arrangements, holidays with pay, restrictions on home work, minimum age of employment, apprenticeship and training, women's work and the work of young persons, and the enjoyment of the benefit of collective bargaining;
+
+(b) Social security (legal provisions in respect of employment injury, occupational diseases, maternity, sickness, disability, old age, death, unemployment, family responsibilities and any other contingency which, according to national laws or regulations, is covered by a social security scheme), subject to the following limitations:
+
+(i) There may be appropriate arrangements for the maintenance of acquired rights and rights in course of acquisition;
+
+(ii) National laws or regulations of the country of residence may prescribe special arrangements concerning benefits or portions of benefits which are payable wholly out of public funds, and concerning allowances paid to persons who do not fulfil the contribution conditions prescribed for the award of a normal pension.
+
+2\. The right to compensation for the death of a refugee resulting from employment injury or from occupational disease shall not be affected by the fact that the residence of the beneficiary is outside the territory of the Contracting State.
+
+3\. The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
+
+4\. The Contracting States will give sympathetic consideration to extending to refugees so far as possible the benefits of similar agreements which may at any time be in force between such Contracting States and non-contracting States.
+
+### Chapter V — ADMINISTRATIVE MEASURES
+
+*Article 25*
+
+*Administrative assistance*
+
+1\. When the exercise of a right by a refugee would normally require the assistance of authorities of a foreign country to whom he cannot have recourse, the Contracting States in whose territory he is residing shall arrange that such assistance be afforded to him by their own authorities or by an international authority.
+
+2\. The authority or authorities mentioned in paragraph 1 shall deliver or cause to be delivered under their supervision to refugees such documents or certifications as would normally be delivered to aliens by or through their national authorities.
+
+3\. Documents or certifications so delivered shall stand in the stead of the official instruments delivered to aliens by or through their national authorities, and shall be given credence in the absence of proof to the contrary.
+
+4\. Subject to such exceptional treatment as may be granted to indigent persons, fees may be charged for the services mentioned herein, but such fees shall be moderate and commensurate with those charged to nationals for similar services.
+
+5\. The provisions of this article shall be without prejudice to articles 27 and 28.
+
+*Article 26*
+
+*Freedom of movement*
+
+Each Contracting State shall accord to refugees lawfully in its territory the right to choose their place of residence and to move freely within its territory, subject to any regulations applicable to aliens generally in the same circumstances.
+
+*Article 27*
+
+*Identity papers*
+
+The Contracting States shall issue identity papers to any refugee in their territory who does not possess a valid travel document.
+
+*Article 28*
+
+*Travel documents*
+
+1\. The Contracting States shall issue to refugees lawfully staying in their territory travel documents for the purpose of travel outside their territory, unless compelling reasons of national security or public order otherwise require, and the provisions of the Schedule to this Convention shall apply with respect to such documents. The Contracting States may issue such a travel document to any other refugee in their territory; they shall in particular give sympathetic consideration to the issue of such a travel document to refugees in their territory who are unable to obtain a travel document from the country of their lawful residence.
+
+2\. Travel documents issued to refugees under previous international agreements by parties thereto shall be recognised and treated by the Contracting States in the same way as if they had been issued pursuant to this article.
+
+*Article 29*
+
+*Fiscal charges*
+
+1\. The Contracting States shall not impose upon refugees duties, charges or taxes, of any description whatsoever, other or higher than those which are or may be levied on their nationals in similar situations.
+
+2\. Nothing in the above paragraph shall prevent the application to refugees of the laws and regulations concerning charges in respect of the issue to aliens of administrative documents including identity papers.
+
+*Article 30*
+
+*Transfer of assets*
+
+1\. A Contracting State shall, in conformity with its laws and regulations, permit refugees to transfer assets which they have brought into its territory, to another country where they have been admitted for the purposes of resettlement.
+
+2\. A Contracting State shall give sympathetic consideration to the application of refugees for permission to transfer assets wherever they may be and which are necessary for their resettlement in another country to which they have been admitted.
+
+*Article 31*
+
+*Refugees unlawfully in the country of refuge*
+
+1\. The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of Article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence.
+
+2\. The Contracting States shall not apply to the movements of such refugees restrictions other than those which are necessary and such restrictions shall only be applied until their status in the country is regularised or they obtain admission into another country. The Contracting States shall allow such refugees a reasonable period and all the necessary facilities to obtain admission into another country.
+
+*Article 32*
+
+*Expulsion*
+
+1\. The Contracting States shall not expel a refugee lawfully in their territory save on grounds of national security or public order.
+
+2\. The expulsion of such a refugee shall be only in pursuance of a decision reached in accordance with due process of law. Except where compelling reasons of national security otherwise require, the refugee shall be allowed to submit evidence to clear himself, and to appeal to and be represented for the purpose before competent authority or a person or persons specially designated by the competent authority.
+
+3\. The Contracting States shall allow such a refugee a reasonable period within which to seek legal admission into another country. The Contracting States reserve the right to apply during that period such internal measures as they may deem necessary.
+
+*Article 33*
+
+*Prohibition of expulsion or return (“refoulement”)*
+
+1\. No Contracting State shall expel or return (“ refouler ”) a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.
+
+2\. The benefit of the present provision may not, however, be claimed by a refugee whom there are reasonable grounds for regarding as a danger to the security of the country in which he is, or who, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of that country.
+
+*Article 34*
+
+*Naturalization*
+
+The Contracting States shall as far as possible facilitate the assimilation and naturalisation of refugees. They shall in particular make every effort to expedite naturalisation proceedings and to reduce as far as possible the charges and costs of such proceedings.
+
+### Chapter VI — EXECUTORY AND TRANSITORY PROVISIONS
+
+*Article 35*
+
+*Co-operation of the national authorities with the United Nations*
+
+1\. The Contracting States undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of this Convention.
+
+2\. In order to enable the Office of the High Commissioner or any other agency of the United Nations which may succeed it, to make reports to the competent organs of the United Nations, the Contracting States undertake to provide them in the appropriate form with information and statistical data requested concerning:
+
+(a) the condition of refugees,
+
+(b) the implementation of this Convention, and
+
+(c) laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
+
+*Article 36*
+
+*Information on national legislation*
+
+The Contracting States shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of this Convention.
+
+*Article 37*
+
+*Relation to previous Conventions*
+
+Without prejudice to article 28, paragraph 2, of this Convention, this Convention replaces, as between parties to it, the Arrangements of 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30 July 1935, the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 and the Agreement of 15 October 1946.
+
+### Chapter VII — FINAL CLAUSES
+
+*Article 38*
+
+*Settlement of disputes*
+
+Any dispute between parties to this Convention relating to its interpretation or application, which cannot be settled by other means, shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
+
+*Article 39*
+
+*Signature, ratification and accession*
+
+1\. This Convention shall be opened for signature at Geneva on 28 July 1951 and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from 28 July to 31 August 1951 and shall be reopened for signature at the Headquarters of the United Nations from 17 September 1951 to 31 December 1952.
+
+2\. This Convention shall be open for signature on behalf of all States Members of the United Nations, and also on behalf of any other State invited to attend the Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons or to which an invitation to sign will have been addressed by the General Assembly. It shall be ratified and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+
+3\. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+
+*Article 40*
+
+*Territorial application clause*
+
+1\. Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
+
+2\. At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later.
+
+3\. With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject where necessary for constitutional reasons, to the consent of the governments of such territories.
+
+*Article 41*
+
+*Federal clause*
+
+In the case of a Federal or non-unitary State, the following provisions shall apply:
+
+(a) With respect to those articles of this Convention that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of Parties which are not Federal States;
+
+(b) With respect to those articles of this Convention that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation, to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment;
+
+(c) A Federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention showing the extent to which effect has been given to that provision by legislative or other action.
+
+*Article 42*
+
+*Reservations*
+
+1\. At the time of signature, ratification or accession, any State may make reservations to articles of the Convention other than to articles 1, 3, 4, 16 (1), 33, 36 to 46 inclusive.
+
+2\. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw the reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
+
+*Article 43*
+
+*Entry into force*
+
+(1) This Convention shall come into force on the ninetieth day following the day of deposit of the sixth instrument of ratification or accession.
+
+(2) For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the day of deposit by such State of its instrument of ratification or accession.
+
+*Article 44*
+
+*Denunciation*
+
+1\. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. Such denunciation shall take effect for the Contracting State concerned one year from the date upon which it is received by the Secretary-General of the United Nations.
+
+3\. Any State which has made a declaration or notification under article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
+
+*Article 45*
+
+*Revision*
+
+1\. Any Contracting State may request revision of this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. The General Assembly of the United Nations shall recommend the steps, if any, to be taken in respect of such request.
+
+*Article 46*
+
+*Notifications by the Secretary-General of the United Nations*
+
+The Secretary-General of the United Nations shall inform all Members of the United Nations and non-member States referred to in article 39:
+
+(a) of declarations and notifications in accordance with Section B of article 1;
+
+(b) of signatures, ratifications and accessions in accordance with article 39;
+
+(c) of declarations and notifications in accordance with article 40;
+
+(d) of reservations and withdrawals in accordance with article 42;
+
+(e) of the date on which this Convention will come into force in accordance with article 43;
+
+(f) of denunciations and notifications in accordance with article 44;
+
+(g) of requests for revision in accordance with article 45.
+
+In faith whereof the undersigned, duly authorised, have signed this Convention on behalf of their respective Governments,
+
+Done at Geneva, this twenty-eighth day of July, one thousand nine hundred and fifty-one, in a single copy, of which the English and French texts are equally authentic and which shall remain deposited in the archives of the United Nations, and certified true copies of which shall be delivered to all Members of the United Nations and to the non-member States referred to in article 39.
+
+SCHEDULE
+
+Paragraph 1
+
+1\. The travel document referred to in article 28 of this Convention shall be similar to the specimen annexed hereto.
+
+2\. The document shall be made out in at least two languages, one of which shall be in English or French.
+
+Paragraph 2
+
+Subject to the regulations obtaining in the country of issue, children may be included in the travel document of a parent or, in exceptional circumstances, of another adult refugee.
+
+Paragraph 3
+
+The fees charged for issue of the document shall not exceed the lowest scale of charges for national passports.
+
+Paragraph 4
+
+Save in special or exceptional cases, the document shall be made valid for the largest possible number of countries.
+
+Paragraph 5
+
+The document shall have a validity of either one or two years, at the discretion of the issuing authority.
+
+Paragraph 6
+
+1\. The renewal or extension of the validity of the document is a matter for the authority which issued it, so long as the holder has not established lawful residence in another territory and resides lawfully in the territory of the said authority. The issue of a new document is, under the same conditions, a matter for the authority which issued the former document.
+
+2\. Diplomatic or consular authorities, specially authorized for the purpose, shall be empowered to extend, for a period not exceeding six months, the validity of travel documents issued by their Governments.
+
+3\. The Contracting States shall give sympathetic consideration to renewing or extending the validity of travel documents or issuing new documents to refugees no longer lawfully resident in their territory who are unable to obtain a travel document from the country of their lawful residence.
+
+Paragraph 7
+
+The Contracting States shall recognize the validity of the documents issued in accordance with the provisions of article 28 of this Convention.
+
+Paragraph 8
+
+The competent authorities of the country to which the refugee desires to proceed shall, if they are prepared to admit him and if a visa is required, affix a visa on the document of which he is the holder.
+
+Paragraph 9
+
+1\. The Contracting States undertake to issue transit visas to refugees who have obtained visas for a territory of final destination.
+
+2\. The issue of such visas may be refused on grounds which would justify refusal of a visa to any alien.
+
+Paragraph 10
+
+The fees for the issue of exit, entry or transit visas shall not exceed the lowest scale of charges for visas on foreign passports.
+
+Paragraph 11
+
+When a refugee has lawfully taken up residence in the territory of another Contracting State, the responsibility for the issue of a new document, under the terms and conditions of article 28, shall be that of the competent authority of that territory, to which the refugee shall be entitled to apply.
+
+Paragraph 12
+
+The authority issuing a new document shall withdraw the old document and shall return it to the country of issue if it is stated in the document that it should be so returned; otherwise it shall withdraw and cancel the document.
+
+Paragraph 13
+
+1\. Each Contracting State undertakes that the holder of a travel document issued by it in accordance with article 28 of this Convention shall be readmitted to its territory at any time during the period of its validity.
+
+2\. Subject to the provisions of the preceding sub-paragraph, a Contracting State may require the holder of the document to comply with such formalities as may be prescribed in regard to exit from or return to its territory.
+
+3\. The Contracting States reserve the right, in exceptional cases, or in cases where the refugee's stay is authorised for a specific period, when issuing the document, to limit the period during which the refugee may return to a period of not less than three months.
+
+Paragraph 14
+
+Subject only to the terms of paragraph 13, the provisions of this Schedule in no way affect the laws and regulations governing the conditions of admission to, transit through, residence and establishment in, and departure from, the territories of the Contracting States.
+
+Paragraph 15
+
+Neither the issue of the document nor the entries made thereon determine or affect the status of the holder, particularly as regards nationality.
+
+Paragraph 16
+
+he issue of the document does not in any way entitle the holder to the protection of the diplomatic or consular authorities of the country of issue, and does not confer on these authorities a right of protection.
+
+ANNEX
+
+Specimen Travel Document
+
+The document will be in booklet form (approximately 15 x 10 centimetres).
+
+It is recommended that it be so printed that any erasure or alteration by chemical or other means can be readily detected, and that the words “Convention of 28 July 1951” be printed in continuous repetition on each page, in the language of the issuing country.
+
+(Cover of booklet)
+
+TRAVEL DOCUMENT
+
+(Convention of 28 July 1951)
+
+No.
+
+(1)
+
+TRAVEL DOCUMENT
+
+(Convention of 28 July 1951)
+
+<table><tr><td>This document expires on</td></tr><tr><td>unless its validity is extended or renewed.</td></tr><tr><td>Name</td></tr><tr><td>Forename(s)</td></tr><tr><td>Accompanied by</td><td>child (children)</td></tr><tr><td>1. This document is issued solely with a view to providing the holder with a travel document which can serve in lieu of a national passport. It is without prejudice to and in no way affects the holder’s nationality.</td></tr><tr><td>2. The holder is authorised to return to</td></tr><tr><td>[state here the country whose authorities are issuing the document ]</td></tr><tr><td>on or before</td><td>unless some later</td></tr><tr><td>date is hereafter specified.</td></tr><tr><td>[The period during which the holder is allowed to return must not be less than three months.]</td></tr><tr><td>3. Should the holder take up residence in a country other than that which issued the present document, he must, if he wishes to travel again, apply to the competent authorities of his country of residence for a new document. [The old travel document shall be withdrawn by the authority issuing the new document and returned to the authority which issued it.]</td></tr></table>
+
+(This document contains pages, exclusive of cover.)
+
+(2)
+
+|  |  |
+|---|---|
+| Occupation |  |
+| Present residence |  |
+| *Maiden name and forename(s) of wife |  |
+| *Name and forename(s) of husband |  |
+|  | Description |
+| Height |  |
+| Hair |  |
+| Colour of eyes |  |
+| Nose |  |
+| Shape of face |  |
+| Complexion |  |
+| Special peculiarities |  |
+| Children accompanying holder |  |
+
+| Name | Forename(s) | Place and date of birth | Sex |
+|---|---|---|---|
+
+(This document contains pages, exclusive of cover.)
+
+(3)
+
+<table><tr><td>Photograph of holder and stamp of issuing authority</td></tr><tr><td>Finger-prints of holder (if required)</td></tr><tr><td>Signature of holder</td></tr></table>
+
+(This document contains pages, exclusive of cover.)
+
+(4)
+
+<table><tr><td>1. This document is valid for the following countries:</td></tr><tr><td>2. Document or documents on the basis of which the present document is issued:</td></tr><tr><td>Issued at</td></tr><tr><td>Date</td></tr><tr><td>Signature and stamp of authority issuing the document:</td><td></td></tr><tr><td>Fee paid</td></tr></table>
+
+(This document contains pages, exclusive of cover.)
+
+(5)
+
+|  | Extension or renewal of validity |
+|---|---|
+| Fee paid: | From |
+|  | To |
+| Done at | Date |
+| Signature and stamp of authority extending or renewing the validity of the document: |  |
+|  | Extension or renewal of validity |
+| Fee paid: | From |
+|  | To |
+| Done at | Date |
+| Signature and stamp of authority extending or renewing the validity of the document: |  |
+
+(This document contains pages, exclusive of cover.)
+
+(6)
+
+|  | Extension or renewal of validity |
+|---|---|
+| Fee paid: | From |
+|  | To |
+| Done at | Date |
+| Signature and stamp of authority extending or renewing the validity of the document: |  |
+|  | Extension or renewal of validity |
+| Fee paid: | From |
+|  | To |
+| Done at | Date |
+| Signature and stamp of authority extending or renewing the validity of the document: |  |
+|  | Extension or renewal of validity |
+| Fee paid: | From |
+|  | To |
+| Done at | Date |
+| Signature and stamp of authority extending or renewing the validity of the document: |  |
+
+(This document contains pages, exclusive of cover.)
+
+(7-32)
+
+<table><tr><td>Visas</td></tr><tr><td>The name of the holder of the document must be repeated in each visa.</td></tr><tr><td>(This document contains pages, exclusive of cover.)</td></tr></table>
+
+## SCHEDULE 2 — Text of 1967 Protocol relating to the Status of Refugees
+
+*Section 2*
+
+PROTOCOL RELATING TO THE STATUS OF REFUGEES DONE AT NEW YORK ON 31 JANUARY 1967
+
+*The States Parties* to the present Protocol,
+
+*Considering* that the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 (hereinafter referred to as the Convention) covers only those persons who have become refugees as a result of events occurring before 1 January 1951,
+
+*Considering* that new refugee situations have arisen since the Convention was adopted and that the refugees concerned may therefore not fall within the scope of the Convention,
+
+*Considering* that it is desirable that equal status should be enjoyed by all refugees covered by the definition in the Convention irrespective of the dateline 1 January 1951,
+
+*Have agreed as follows:*
+
+*Article I*
+
+*General provision*
+
+1\. The States Parties to the present Protocol undertake to apply articles 2 to 34 inclusive of the Convention to refugees as hereinafter defined.
+
+2\. For the purpose of the present Protocol, the term “refugee” shall, except as regards the application of paragraph 3 of this article, mean any person within the definition of article 1 of the Convention as if the words “As a result of events occurring before 1 January 1951 and...” and the words “... as a result of such events”, in article 1 A (2) were omitted.
+
+3\. The present Protocol shall be applied by the States Parties hereto without any geographic limitation, save that existing declarations made by States already Parties to the Convention in accordance with article 1 B (1)(a) of the Convention, shall, unless extended under article 1 B (2) thereof, apply also under the present Protocol.
+
+*Article II*
+
+*Co-operation of the national authorities with the United Nations*
+
+1\. The States Parties to the present Protocol undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of the present Protocol.
+
+2\. In order to enable the Office of the High Commissioner, or any other agency of the United Nations which may succeed it to make reports to the competent organs of the United Nations, the States Parties to the present Protocol undertake to provide them with the information and statistical data requested, in the appropriate form, concerning:
+
+(a) The condition of refugees;
+
+(b) The implementation of the present Protocol;
+
+(c) Laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
+
+*Article III*
+
+*Information on national legislation*
+
+The States Parties to the present Protocol shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of the present Protocol.
+
+*Article IV*
+
+*Settlement of disputes*
+
+Any dispute between States Parties to the present Protocol which relates to its interpretation or application and which cannot be settled by other means shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
+
+*Article V*
+
+*Accession*
+
+The present Protocol shall be open for accession on behalf of all States Parties to the Convention and of any other State Member of the United Nations or member of any of the specialised agencies or to which an invitation to accede may have been addressed by the General Assembly of the United Nations. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+
+*Article VI*
+
+*Federal clause*
+
+In the case of a Federal or non-unitary State, the following provisions shall apply:
+
+(a) With respect to those articles of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of States Parties which are not Federal States;
+
+(b) With respect to those articles of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the Federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment;
+
+(c) A Federal State Party to the present Protocol shall, at the request of any other State Party hereto transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol, showing the extent to which effect has been given to that provision by legislative or other action.
+
+*Article VII*
+
+*Reservations and Declarations*
+
+1\. At the time of accession, any State may make reservations in respect of article IV of the present Protocol and in respect of the application in accordance with article I of the present Protocol of any provisions of the Convention other than those contained in articles 1, 3, 4, 16 (1) and 33 thereof, provided that in the case of a State Party to the Convention reservations made under this article shall not extend to refugees in respect of whom the Convention applies.
+
+2\. Reservations made by States Parties to the Convention in accordance with article 42 thereof shall, unless withdrawn, be applicable in relation to their obligations under the present Protocol.
+
+3\. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw such reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
+
+4\. Declarations made under article 40, paragraphs 1 and 2, of the Convention by a State Party thereto which accedes to the present Protocol shall be deemed to apply in respect of the present Protocol, unless upon accession a notification to the contrary is addressed by the State Party concerned to the Secretary-General of the United Nations. The provisions of article 40, paragraphs 2 and 3, and of article 44, paragraph 3, of the Convention shall be deemed to apply mutatis mutandis to the present Protocol.
+
+*Article VIII*
+
+*Entry into force*
+
+1\. The present Protocol shall come into force on the day of deposit of the sixth instrument of accession.
+
+2\. For each State acceding to the Protocol after the deposit of the sixth instrument of accession, the Protocol shall come into force on the date of deposit by such State of its instrument of accession.
+
+*Article IX*
+
+*Denunciation*
+
+1\. Any State Party hereto may denounce this Protocol at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. Such denunciation shall take effect for the State Party concerned one year from the date on which it is received by the Secretary-General of the United Nations.
+
+*Article X*
+
+*Notifications by the Secretary-General of the United Nations*
+
+The Secretary-General of the United Nations shall inform the States referred to in article V above of the date of entry into force, accessions, reservations and withdrawals of reservations to and denunciations of the present Protocol, and of declarations and notifications relating hereto.
+
+*Article XI*
+
+*Deposit in the Archives of the Secretariat of the United Nations*
+
+A copy of the present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, signed by the President of the General Assembly and by the Secretary-General of the United Nations, shall be deposited in the archives of the Secretariat of the United Nations. The Secretary-General will transmit certified copies thereof to all States Members of the United Nations and to the other States referred to in article V above.
+
+[^1]: O.J. No. L212, 07.08.2001, p.12
+[^2]: O.J. No. L304, 30.02.2004, p.12
+[^3]: O.J. No. L326, 13.12.2005, p.13
+[^4]: O.J. No. L180, 29.06.2013, p.31
+[^5]: O.J. No. L132, 29.05.2010, p.11
+[^6]: OJ L, 2024/1347, 22.5.2024
+[^7]: O.J. No. L212, 07.08.2001, p. 12

@@ -1,0 +1,5839 @@
+---
+title: "Criminal Justice (Money Laundering and Terrorist Financing) Act 2010"
+identifier: "eli/2010/act/6"
+type: act
+jurisdiction: ie
+language: en
+number: 6
+year: 2010
+date: 2010-05-05
+last_amended: 2025-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2010/act/6/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2010/act/6/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Money Laundering and Terrorist Financing) Act 2010
+
+AN ACT TO PROVIDE FOR OFFENCES OF, AND RELATED TO, MONEY LAUNDERING IN AND OUTSIDE THE STATE; TO GIVE EFFECT TO DIRECTIVE 2005/60/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 26 OCTOBER 2005 ON THE PREVENTION OF THE USE OF THE FINANCIAL SYSTEM FOR THE PURPOSE OF MONEY LAUNDERING AND TERRORIST FINANCING; TO PROVIDE FOR THE REGISTRATION OF PERSONS DIRECTING PRIVATE MEMBERS’ CLUBS; TO PROVIDE FOR THE AMENDMENT OF THE CENTRAL BANK ACT 1942 AND THE COURTS (SUPPLEMENTAL PROVISIONS) ACT 1961; TO PROVIDE FOR THE CONSEQUENTIAL REPEAL OF CERTAIN PROVISIONS OF THE CRIMINAL JUSTICE ACT 1994; THE CONSEQUENTIAL AMENDMENT OF CERTAIN ENACTMENTS AND THE REVOCATION OF CERTAIN STATUTORY INSTRUMENTS; AND TO PROVIDE FOR RELATED MATTERS.
+
+[5*th May*, 2010]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Sanctions for breaches under Act prescribed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 55(1), 3(o).
+>
+> *Other provisions on administrative penalties*
+>
+> 55\. (1) Notwithstanding Part IIIC of the Act of 1942 and the sanctions set out in section 33AQ of the Act of 1942, sanctions may be imposed by the Bank following an inquiry under section 33AO of the Act of 1942 for the contraventions listed in paragraph (3) and may include any or all of the following:
+>
+> (*a*) a public statement that identifies the natural person, institution, financial holding company or mixed-financial holding company responsible, and the nature of the breach concerned;
+>
+> (*b*) an order requiring the natural or legal person responsible to cease, and desist from, the conduct concerned;
+>
+> (*c*) in the case of an institution, withdrawal of the licence or authorisation of the institution in accordance with the enactment under which the licence or authorisation was granted;
+>
+> (*d*) subject to Regulation 150, a temporary ban against a member of the institutions management body or any other natural person, who is held responsible, from exercising functions in institutions;
+>
+> (*e*) subject to paragraph (2), in the case of a legal person, administrative pecuniary penalties of up to 10 per cent of the total annual net turnover including the gross income consisting of—
+>
+> (i) interest receivable and similar income,
+>
+> (ii) income from shares and other variable or fixed-yield securities, and
+>
+> (iii) commissions or fees receivable, in accordance with Article 316 of the Capital Requirements Regulation, of the undertaking in the preceding business year;
+>
+> (*f*) in the case of a natural person, administrative pecuniary penalties of up to €5,000,000;
+>
+> (*g*) administrative pecuniary penalties of up to twice the amount of the profits gained or losses avoided because of the breach where those can be determined.
+>
+> ...
+>
+> (3) The contraventions referred to in paragraph (1) are the following: ...
+>
+> (o) an institution is found liable for a serious breach of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (No. 6 of 2010);
+>
+> ...
+>
+> C2: Functions transferred and references to “Department of Public Expenditure and Reform” and “Minister for Public Expenditure and Reform” construed (14.12.2011) by the *Public Expenditure and Reform (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 647 of 2011), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Finance.
+>
+> (2) References to the Department of Public Expenditure and Reform contained in any Act or instrument made under an act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Finance.
+>
+> 3\. The functions conferred on the Minister for Public Expenditure and Reform by or under sections 3 and 107(1) of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (No. 6 of 2010) are transferred to the Minister for Finance.
+>
+> 4\. References to the Minister for Public Expenditure and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> C3: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 6 of 2010</td><td>Criminal Justice (Money Laundering and Terrorist Financing) Act 2010</td><td>Sections 3, 101(4) and 107(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Offences under ss. 7, 8, 9, 10, 35, 37, 38, 42 and 49 prescribed as “relevant offences” for purposes of *Criminal Justice Act 2011* (22/2011) (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3(1) and sch. 1 par. 21, S.I. No. 411 of 2011.
+
+## PART 1 Preliminary — PART 1 — Preliminary
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010.
+
+(2) This Act shall come into operation on such day or days as may be appointed by order or orders made by the Minister, either generally or with reference to a particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+(3) An order under *subsection (2)* may, in respect of the repeal of the provisions of the Criminal Justice Act 1994 specified in *section 4*, and the revocation of the statutory instruments specified in *Schedule 1* effected by *section 4(2)*, appoint different days for the repeal of different provisions of the Criminal Justice Act 1994 and the revocation of different statutory instruments or different provisions of them.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) (Commencement) Order 2010* (S.I. No. 342 of 2010).
+>
+> 2\. The 15th day of July 2010 is appointed as the day on which the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (No. 6 of 2010) shall come into operation.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act—
+
+F1["Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);]
+
+F2["Fourth Money Laundering Directive" means Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015[^2] on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC;]
+
+F3[...]
+
+F4["Fifth Money Laundering Directive" means Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018[^3] amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU;]
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“money laundering” means an offence under *Part 2* ;
+
+F1["personal data" means personal data within the meaning of—
+
+(i) the Data Protection Act 1988,
+
+(ii) the Data Protection Regulation, or
+
+(iii) Part 5 of the Data Protection Act 2018;]
+
+“prescribed” means prescribed by the Minister by regulations made under this Act;
+
+“property” means all real or personal property, whether or not heritable or moveable, and includes money and choses in action and any other intangible or incorporeal property;
+
+“terrorist financing” means an offence under section 13 of the Criminal Justice (Terrorist Offences) Act 2005;
+
+“Third Money Laundering Directive” means Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing[^4], as amended by the following:
+
+(*a*) Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC[^5];
+
+(*b*) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC[^6].
+
+F6[(2) A word or expression used in this Act and also used in the Fourth Money Laundering Directive has, unless the contrary intention appears, the same meaning in this Act as in that Directive.]
+
+F5[(3) In this Act a reference to an Appeal Tribunal shall be construed as a reference to the Appeal Tribunal established under *section 101A* (inserted by section 24 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 213(a), S.I. No. 174 of 2018.
+>
+> F2: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 3(a)(ii), S.I. No. 486 of 2018.
+>
+> F3: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 3(a)(i), S.I. No. 486 of 2018.
+>
+> F4, F5: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 2(a), (b), S.I. No. 188 of 2021.
+>
+> F6: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 3(b), S.I. No. 486 of 2018.
+>
+> **Modifications (not altering text):**
+>
+> C4: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 160.
+>
+> *References to repealed Directives*
+>
+> 160\. A reference in any enactment to a Directive repealed by the Capital Requirements Directive shall be construed in accordance with Article 163 of the second-mentioned Directive.
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may, after consulting with the Minister for Finance, by regulations provide for any matter referred to in this Act F7[(other than *section 106ZC* (inserted by the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021))] as prescribed or to be prescribed.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister F8[(or, in the case of regulations under *section 106ZC*, the Minister for Finance)] to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under the regulation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7, F8: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 3(a), (b), S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to subs. (1) exercised (30.12.2024) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Sections 25 and 60) (Prescribed Class and Competent Authority) Regulations 2024* (S.I. No. 724 of 2024), in effect as per reg. 1(2).
+>
+> E4: Power pursuant to subs. (1) exercised (1.06.2022) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Section 109B) (Certificate of Fitness) Regulations 2022* (S.I. No. 272 of 2022).
+>
+> E5: Power pursuant to subs. (1) exercised (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Section 25) (Prescribed Class of Designated Person) Regulations 2018* (S.I. No. 487 of 2018), in effect as per reg. 1(2).
+>
+> E6: Power pursuant to subs. (1) exercised (1.09.2016) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Competent Authority and State Competent Authority) Regulations 2016* (S.I. No. 453 of 2016), in effect as per reg. 2.
+>
+> E7: Power pursuant to subs. (1) exercised (3.03.2014) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Competent Authority) Regulations 2014* (S.I. No. 79 of 2014), in effect as per reg. 2.
+>
+> E8: Power pursuant to subs. (1) exercised (15.07.2010) by *Trust or Company Service Provider (Authorisation) (Fees) Regulations 2010* (S.I. No. 348 of 2010), in effect as per reg. 1(2).
+
+### 4. Repeals and revocations.
+
+**4**.— (1) Sections 31, 32, 32A, 57(1) to (6) and (7)(*a*), 57A and 58(2) of the Criminal Justice Act 1994 are repealed.
+
+(2) The statutory instruments specified in *column (1)* of *Schedule 1* are revoked to the extent specified in *column (3)* of that Schedule.
+
+### 5. Expenses.
+
+**5**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas and the expenses incurred by the Minister for Finance in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Money Laundering Offences — PART 2 — Money Laundering Offences
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E9: Obligation imposed on an applicant for, or the holder of, an authorisation (as a commercial vehicle roadworthiness test operator under *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 9 or 10, or as a commercial vehicle roadworthiness tester under *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 17), or in the case of an authorisation applied for or held by a company, each director and the secretary of that company, to notify the Minister for Transport, Tourism and Sport in writing if he or she is, or has been, convicted of an offence under Part (27.03.2013) by *Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012* (16/2012), s. 12, S.I. No. 105 of 2013.
+>
+> E10: Power granted to Minister for Transport, Tourism and Sport, in determining whether an operator has satisfied or continues to satisfy the requirement of good repute, to consider whether the operator, a person who holds a specified position, a shadow operator, or, in the case of a road passenger transport operator, a driver with that operator, has been convicted of an offence under Part (2.12.2011) by *Road Transport Act 2011* (31/2011), s. 4, commenced on enactment.
+>
+> E11: Obligation imposed on person who holds a specified position, a shadow operator, and, in the case of a road passenger transport operator, a driver with that operator, to inform the operator in writing in the event that he or she is or has been convicted of an offence under Part (2.12.2011) by *Road Transport Act 2011* (31/2011), s. 3, commenced on enactment.
+>
+> E12: Obligation imposed on holder of, or applicant for, an operator’s licence to notify the Minister for Transport, Tourism and Sport if a person who holds a specified position, a shadow operator, or, in the case of a road passenger transport operator, a driver with that operator, has been or is convicted an offence under Part (2.12.2011) by *Road Transport Act 2011* (31/2011), s. 2, commenced on enactment.
+
+### 6. Interpretation (Part 2).
+
+**6**.— In this Part—
+
+F9["criminal conduct" means—
+
+(a) conduct that constitutes an offence,
+
+(b) conduct occurring in a place outside the State that constitutes an offence under the law of the place and would constitute an offence if it were to occur in the State, or
+
+(c) conduct occurring in a place outside the State that would constitute an offence under section 5(1) or 6(1) of the Criminal Justice (Corruption Offences) Act 2018 if it were to occur in the State and the person or official, as the case may be, concerned doing the act, or making the omission, concerned in relation to his or her office, employment, position or business is a foreign official within the meaning of that Act;]
+
+“proceeds of criminal conduct” means any property that is derived from or obtained through criminal conduct, whether directly or indirectly, or in whole or in part, and whether that criminal conduct occurs before, on or after the commencement of this Part.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 26, S.I. No. 298 of 2018.
+
+### 7. Money laundering occurring in State.
+
+**7**.— (1) A person commits an offence if—
+
+(*a*) the person engages in any of the following acts in relation to property that is the proceeds of criminal conduct:
+
+(i) concealing or disguising the true nature, source, location, disposition, movement or ownership of the property, or any rights relating to the property;
+
+(ii) converting, transferring, handling, acquiring, possessing or using the property;
+
+(iii) removing the property from, or bringing the property into, the State,
+
+and
+
+(*b*) the person knows or believes (or is reckless as to whether or not) the property is the proceeds of criminal conduct.
+
+(2) A person who attempts to commit an offence under *subsection (1)* commits an offence.
+
+(3) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 14 years (or both).
+
+(4) A reference in this section to knowing or believing that property is the proceeds of criminal conduct includes a reference to knowing or believing that the property probably comprises the proceeds of criminal conduct.
+
+(5) For the purposes of *subsections (1)* and *(2)*, a person is reckless as to whether or not property is the proceeds of criminal conduct if the person disregards, in relation to property, a risk of such a nature and degree that, considering the circumstances in which the person carries out any act referred to in *subsection (1)* or *(2)*, the disregard of that risk involves culpability of a high degree.
+
+(6) For the purposes of *subsections (1)* and *(2)*, a person handles property if the person—
+
+(*a*) receives, or arranges to receive, the property, or
+
+(*b*) retains, removes, disposes of or realises the property, or arranges to do any of those things, for the benefit of another person.
+
+(7) A person does not commit an offence under this section in relation to the doing of any thing in relation to property that is the proceeds of criminal conduct so long as—
+
+(*a*) the person does the thing in accordance with a direction, order or authorisation given under *Part 3,* or
+
+(*b*) without prejudice to the generality of *paragraph (a)*, the person is a designated person, within the meaning of *Part 4,* who makes a report in relation to the property, and does the thing, in accordance with *section 42*.
+
+### 8. Money laundering outside State in certain circumstances.
+
+**8**.— (1) A person who, in a place outside the State, engages in conduct that would, if the conduct occurred in the State, constitute an offence under *section 7* commits an offence if any of the following circumstances apply:
+
+(*a*) the conduct takes place on board an Irish ship, within the meaning of section 9 of the Mercantile Marine Act 1955,
+
+(*b*) the conduct takes place on an aircraft registered in the State,
+
+(*c*) the conduct constitutes an offence under the law of that place and the person is—
+
+(i) an individual who is a citizen of Ireland or ordinarily resident in the State, or
+
+(ii) a body corporate established under the law of the State or a company registered under the Companies Acts,
+
+(*d*) a request for the person’s surrender, for the purpose of trying him or her for an offence in respect of the conduct, has been made under Part II of the Extradition Act 1965 by any country and the request has been finally refused (whether or not as a result of a decision of a court), or
+
+(*e*) a F10[relevant arrest warrant] has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of the conduct, and a final determination has been made that—
+
+(i) the F10[relevant arrest warrant] should not be endorsed for execution in the State under the European Arrest Warrant Act 2003, or
+
+(ii) the person should not be surrendered to the issuing state.
+
+(2) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 14 years (or both).
+
+(3) A person who has his or her principal residence in the State for the 12 months immediately preceding the commission of an offence under this section is, in a case where *subsection (1)(c)* applies, taken to be ordinarily resident in the State on the date of the commission of the offence.
+
+(4) In this section, “F11[relevant arrest warrant]” and “issuing state” have the same meanings as they have in the European Arrest Warrant Act 2003.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10, F11: Substituted by (30.03.2021) *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 40(a), (b) in effect as per reg. 1(2).
+>
+> F12: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (1)(a) amended by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Money laundering outside State in certain circumstances.**
+>
+> **8**.— (1) A person who, in a place outside the State, engages in conduct that would, if the conduct occurred in the State, constitute an offence under *section 7* commits an offence if any of the following circumstances apply:
+>
+> (*a*) the conduct takes place on board an Irish ship, within the meaning of F12[section 33 of the Merchant Shipping (Registration of Ships) Act 2014],
+>
+> ...
+
+### 9. Attempts, outside State, to commit offence in State.
+
+**9**.— (1) A person who attempts, in a place outside the State, to commit an offence under *section 7(1)* is guilty of an offence.
+
+(2) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 14 years (or both).
+
+### 10. Aiding, abetting, counselling or procuring outside State commission of offence in State.
+
+**10**.— (1) A person who, in a place outside the State, aids, abets, counsels or procures the commission of an offence under *section 7* is guilty of an offence.
+
+(2) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 14 years (or both).
+
+(3) This section is without prejudice to section 7(1) of the Criminal Law Act 1997.
+
+### 11. Presumptions and other matters.
+
+**11**.— (1) In this section “specified conduct” means any of the following acts referred to in *section 7(1)* (including *section 7(1)* as applied by *section 8* or *9* ):
+
+(*a*) concealing or disguising the true nature, source, location, disposition, movement or ownership of property, or any rights relating to property;
+
+(*b*) converting, transferring, handling, acquiring, possessing or using property;
+
+(*c*) removing property from, or bringing property into, the State or a place outside the State.
+
+(2) In proceedings for an offence under *section 7, 8* or *9*, where an accused has engaged, or attempted to engage, in specified conduct in relation to property that is the proceeds of criminal conduct, in circumstances in which it is reasonable to conclude that the accused—
+
+(*a*) knew or believed the property was the proceeds of criminal conduct, or
+
+(*b*) was reckless as to whether or not the property was the proceeds of criminal conduct,
+
+the accused is presumed to have so known or believed, or been so reckless, unless the court or jury, as the case may be, is satisfied, having regard to the whole of the evidence, that there is a reasonable doubt that the accused so knew or believed or was so reckless.
+
+(3) In proceedings for an offence under *section 7, 8* or *9*, where an accused has engaged in, or attempted to engage in, specified conduct in relation to property in circumstances in which it is reasonable to conclude that the property is the proceeds of criminal conduct, those circumstances are evidence that the property is the proceeds of criminal conduct.
+
+(4) For the purposes of *subsection (3)*, circumstances in which it is reasonable to conclude that property is the proceeds of criminal conduct include any of the following:
+
+(*a*) the value of the property concerned is, it is reasonable to conclude, out of proportion to the income and expenditure of the accused or another person in a case where the accused engaged in the specified conduct concerned on behalf of, or at the request of, the other person;
+
+(*b*) the specified conduct concerned involves the actual or purported purchase or sale of goods or services for an amount that is, it is reasonable to conclude, out of proportion to the market value of the goods or services (whether the amount represents an overvaluation or an undervaluation);
+
+(*c*) the specified conduct concerned involves one or more transactions using false names;
+
+(*d*) the accused has stated that he or she engaged in the specified conduct concerned on behalf of, or at the request of, another person and has not provided information to the Garda Síochána enabling the other person to be identified and located;
+
+(*e*) where an accused has concealed or disguised the true nature, source, location, disposition, movement or ownership of the property, or any rights relating to the property, the accused has no reasonable explanation for that concealment or disguise.
+
+(5) Nothing in *subsection (4)* limits the circumstances in which it is reasonable to conclude, for the purposes of *subsection (3)*, that property is the proceeds of criminal conduct.
+
+(6) Nothing in this section prevents *subsections (2)* and *(3)* being applied in the same proceedings.
+
+(7) *Subsections (2)* to *(6)* extend to proceedings for an offence under—
+
+(*a*) *section 10*, or
+
+(*b*) section 7(1) of the Criminal Law Act 1997 of aiding, abetting, counselling or procuring the commission of an offence under *section 7*, *8* or *9*,
+
+and for that purpose any reference to an accused in *subsections (2)* to *(6)* is to be construed as a reference to a person who committed, or is alleged to have committed, the offence concerned.
+
+(8) In proceedings for an offence under this Part, or an offence under section 7(1) of the Criminal Law Act 1997 referred to in *subsection (7)(b)*, it is not necessary, in order to prove that property is the proceeds of criminal conduct, to establish that—
+
+(*a*) a particular offence or a particular class of offence comprising criminal conduct was committed in relation to the property, or
+
+(*b*) a particular person committed an offence comprising criminal conduct in relation to the property.
+
+(9) In proceedings for an offence under this Part, or an offence under section 7(1) of the Criminal Law Act 1997 referred to in *subsection (7)(b)*, it is not a defence for the accused to show that the accused believed the property concerned to be the proceeds of a particular offence comprising criminal conduct when in fact the property was the proceeds of another offence.
+
+### 12. Location of proceedings relating to offences committed outside State.
+
+**12**.— Proceedings for an offence under *section 8, 9* or *10* may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.
+
+### 13. Consent of DPP required for proceedings for offences committed outside State.
+
+**13**.— If a person is charged with an offence under *section 8, 9* or *10*, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by, or with the consent of, the Director of Public Prosecutions.
+
+### 14. Certificate may be evidence in proceedings under this Part.
+
+**14**.— (1) In any proceedings for an offence under this Part in which it is alleged that property the subject of the offence is the proceeds of criminal conduct occurring in a place outside the State, a certificate—
+
+(*a*) purporting to be signed by a lawyer practising in the place, and
+
+(*b*) stating that such conduct is an offence in that place,
+
+is evidence of the matters referred to in that certificate, unless the contrary is shown.
+
+(2) A certificate referred to in *subsection (1)* is taken to have been signed by the person purporting to have signed it, unless the contrary is shown.
+
+(3) In a case where a certificate referred to in *subsection (1)* is written in a language other than the Irish language or the English language, unless the contrary is shown—
+
+(*a*) a document purporting to be a translation of that certificate into the Irish language or the English language, as the case may be, and that is certified as correct by a person appearing to be competent to so certify, is taken—
+
+(i) to be a correct translation of the certificate, and
+
+(ii) to have been certified by the person purporting to have certified it,
+
+and
+
+(*b*) the person is taken to be competent to so certify.
+
+(4) In any proceedings for an offence under *section 8* committed in the circumstances referred to in *section 8(1)(c),* a certificate purporting to be signed by an officer of the Department of Foreign Affairs and stating that—
+
+(*a*) a passport was issued by that Department to a person on a specified date, and
+
+(*b*) to the best of the officer’s knowledge and belief, the person has not ceased to be an Irish citizen,
+
+is evidence that the person was an Irish citizen on the date on which the offence is alleged to have been committed, and is taken to have been signed by the person purporting to have signed it, unless the contrary is shown.
+
+(5) In any proceedings for an offence under *section 8* committed in the circumstances referred to in *section 8 (1) (d)* or *(e)*, a certificate purporting to be signed by the Minister and stating any of the matters referred to in that paragraph is evidence of those matters, and is taken to have been signed by the Minister, unless the contrary is shown.
+
+### 15. Double jeopardy.
+
+**15**.— A person who has been acquitted or convicted of an offence in a place outside the State shall not be proceeded against for an offence under *section 8, 9* or *10* consisting of the conduct, or substantially the same conduct, that constituted the offence of which the person has been acquitted or convicted.
+
+### 16. Revenue offence committed outside State.
+
+**16**.— For the avoidance of doubt, a reference in this Part to an offence under the law of a place outside the State includes a reference to an offence in connection with taxes, duties, customs or exchange regulation.
+
+## PART 3 Directions, Orders and Authorisations Relating to Investigations — PART 3 — Directions, Orders and Authorisations Relating to Investigations
+
+### 17. Direction or order not to carry out service or transaction.
+
+**17**.— (1) A member of the Garda Síochána not below the rank of superintendent may, by notice in writing, direct a person not to carry out any specified service or transaction during the period specified in the direction, not exceeding 7 days, if the member is satisfied that, on the basis of information that the Garda Síochána has obtained or received (whether or not in a report made under *Chapter 4* of *Part 4*), such a direction is reasonably necessary to enable the Garda Síochána to carry out preliminary investigations into whether or not there are reasonable grounds to suspect that the service or transaction would, if it were to proceed, comprise or assist in money laundering or terrorist financing.
+
+(2) A judge of the District Court may order a person not to carry out any specified service or transaction during the period specified in the order, not exceeding 28 days, if satisfied by information on oath of a member of the Garda Síochána, that—
+
+(*a*) there are reasonable grounds to suspect that the service or transaction would, if it were to proceed, comprise or assist in money laundering or terrorist financing, and
+
+(*b*) an investigation of a person for that money laundering or terrorist financing is taking place.
+
+(3) An order may be made, under *subsection (2)*, in relation to a particular service or transaction, on more than one occasion.
+
+F13[(4) An application for an order under *subsection (2)*—
+
+(*a*) shall be made *ex parte* and shall be heard otherwise than in public,
+
+and
+
+(*b*) shall be made to a judge of the District Court assigned to the district in which the order is proposed to be served.]
+
+(5) A person who fails to comply with a direction or order under this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(6) Any act or omission by a person in compliance with a direction or order under this section shall not be treated, for any purpose, as a breach of any requirement or restriction imposed by any other enactment or rule of law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 3, S.I. No. 196 of 2013.
+
+### 18. Notice of direction or order.
+
+**18**.— (1) As soon as practicable after a direction is given or order is made under *section 17*, the member of the Garda Síochána who gave the direction or applied for the order shall ensure that any person who the member is aware is affected by the direction or order is given notice, in writing, of the direction or order unless—
+
+(*a*) it is not reasonably practicable to ascertain the whereabouts of the person, or
+
+(*b*) there are reasonable grounds for believing that disclosure to the person would prejudice the investigation in respect of which the direction or order is given.
+
+(2) Notwithstanding *subsection (1)(b)*, a member of the Garda Síochána shall give notice, in writing, of a direction or order under this section to any person who is, or appears to be, affected by it as soon as practicable after the Garda Síochána becomes aware that the person is aware that the direction has been given or order has been made.
+
+(3) Nothing in *subsection (1)* or *(2)* requires notice to be given to a person to whom a direction is given or order is addressed under this section.
+
+(4) A notice given under this section shall include the reasons for the direction or order concerned and advise the person to whom the notice is given of the person’s right to make an application under *section 19* or *20* .
+
+(5) The reasons given in the notice need not include details the disclosure of which there are reasonable grounds for believing would prejudice the investigation in respect of which the direction is given or order is made.
+
+### 19. Revocation of direction or order on application.
+
+**19**.— (1) At any time while a direction or order is in force under *section 17*, a judge of the District Court may revoke the direction or order if the judge is satisfied, on the application of a person affected by the direction or order, as the case may be, that the matters referred to in *section 17(1)* or *(2)* do not, or no longer, apply.
+
+(2) Such an application may be made only if notice has been given to the Garda Síochána in accordance with any applicable rules of court.
+
+### 20. Order in relation to property subject of direction or order.
+
+**20**.— (1) At any time while a direction or order is in force under *section 17*, in relation to property, a judge of the District Court may, on application by any person affected by the direction or order concerned, as the case may be, make any order that the judge considers appropriate in relation to any of the property concerned if satisfied that it is necessary to do so for the purpose of enabling the person—
+
+(*a*) to discharge the reasonable living and other necessary expenses, including legal expenses in or in relation to legal proceedings, incurred or to be incurred in respect of the person or the person’s dependants, or
+
+(*b*) to carry on a business, trade, profession or other occupation to which any of the property relates.
+
+(2) Such an application may be made only if notice has been given to the Garda Síochána in accordance with any applicable rules of court.
+
+### 21. Cessation of direction or order on cessation of investigation.
+
+**21**.— (1) A direction or order under *section 17* ceases to have effect on the cessation of an investigation into whether the service or transaction the subject of the direction or order would, if it were to proceed, comprise or assist in money laundering or terrorist financing.
+
+(2) As soon as practicable after a direction or order under *section 17* ceases, as a result of *subsection (1)*, to have effect, a member of the Garda Síochána shall give notice in writing of the fact that the direction or order has ceased to have effect to—
+
+(*a*) the person to whom the direction or order has been given, and
+
+(*b*) any other person who the member is aware is affected by the direction or order.
+
+### 22. Suspicious transaction report not to be disclosed.
+
+**22**.— A report made under *Chapter 4* of *Part 4* shall not be disclosed, in the course of proceedings under *section 17* or *19*, to any person other than the judge of the District Court concerned.
+
+### 23. Authorisation to proceed with act that would otherwise comprise money laundering.
+
+**23**.— (1) A member of the Garda Síochána not below the rank of superintendent may, by notice in writing, authorise a person to do a thing referred to in *section 7(1)* if the member is satisfied that the thing is necessary for the purposes of an investigation into an offence.
+
+(2) The doing of any thing in accordance with an authorisation under this section shall not be treated, for any purpose, as a breach of any requirement or restriction imposed by any other enactment or rule of law.
+
+(3) *Subsection (2)* is without prejudice to *section 7 (7)*.
+
+## PART 4 Provisions Relating to Finance Services Industry, Professional Service Providers and Others — PART 4 — Provisions Relating to Finance Services Industry, Professional Service Providers and Others
+
+### Chapter 1 Interpretation (Part 4) — Chapter 1 — Interpretation (Part 4)
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E13: Part included in definition of “designated enactments” for purposes of *Central Bank Act 1942* (22/1942) by *Central Bank Act 1942* (22/1942), s. 2(1) and sch. 2 part 1 item 37, as substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. part 1 items 6 and 82, S.I. No. 469 of 2010.
+
+#### 24. Definitions.
+
+**24**.— (1) In this Part—
+
+F14["Article 3(2) authorities" means the authorities designated under Regulation 3(2) of the European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023;]
+
+“barrister” means a practising barrister;
+
+“beneficial owner” has the meaning assigned to it by *sections 26* to *30* ;
+
+“business relationship”, in relation to a designated person and a customer of the person, means a business, professional or commercial relationship between the person and the customer that the person expects to be ongoing;
+
+F19["business risk assessment" has the meaning given to it by *section 30A*;]
+
+F20["Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013[^7] on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by –
+
+(*a*) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014[^8] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
+
+(*b*) Regulation (EU) 2016/1014 of the European Parliament and of the Council of 8 June 2016[^9] amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers,
+
+(*c*) Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017[^10] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council as regards the waiver on own funds requirements for certain covered bonds,
+
+(*d*) Regulation (EU) 2017/2395 of the European Parliament and of the Council of 12 December 2017[^11] amending Regulation (EU) No 575/2013 as regards transitional arrangements for mitigating the impact of the introduction of IFRS 9 on own funds and for the large exposures treatment of certain public sector exposures denominated in the domestic currency of any Member State,
+
+(*e*) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017[^12] amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
+
+(*f*) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017[^13] correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+
+(*g*) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019[^14] amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
+
+(*h*) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019[^15] amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+
+(*i*) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019[^16] on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
+
+(*j*) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020[^17] amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic,
+
+(*k*) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019[^18] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
+
+(*l*) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021[^19] amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
+
+(*m*) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021[^20] on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
+
+(*n*) Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022[^21] amending Regulation (EU) No. 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities,
+
+(*o*) Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023[^22] amending certain Regulations as regards the establishment and functioning of the European single access point,
+
+(*p*) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024[^23] amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
+
+(*q*) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024[^24] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;]
+
+F19["collective investment undertaking" means—
+
+(*a*) an undertaking for collective investment in transferable securities authorised in accordance with the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2011 (S.I. No. 352 of 2011) or otherwise in accordance with the Directive of 2009,
+
+(*b*) an alternative investment fund within the meaning of the European Union (Alternative Investment Fund Managers) Regulations 2013 (S.I. No. 257 of 2013),
+
+(*c*) a management company authorised in accordance with the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2011 or otherwise in accordance with the Directive of 2009, or
+
+(*d*) an alternative investment fund manager within the meaning of the European Union (Alternative Investment Fund Managers) Regulations 2013;]
+
+“competent authority” has the meaning assigned to it by *sections 60* and *61*;
+
+F21["correspondent relationship" means—
+
+(*a*) the provision of banking services by one bank as the correspondent to another bank as the respondent, including providing a current or other liability account and related services, such as cash management, international funds transfers, cheque clearing, payable-through accounts and foreign exchange services, or
+
+(*b*) the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or F22[funds transfers or relationships established for transactions in crypto-assets or transfers of crypto-assets;]]
+
+“credit institution” means—
+
+F23[(*a*) a credit institution within the meaning of point (1) of Article 4(1) of the Capital Requirements Regulation, or]
+
+(*b*) An Post in respect of any activity that it carries out, whether as principal or agent, that would render it, or a principal for whom it is an agent, a credit institution as a result of the application of *paragraph (a)*;
+
+F28[...]
+
+F31[“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114, except where falling within the categories listed in Article 2(2), (3) and (4) of that Regulation or otherwise qualifying as funds; ]
+
+F32[“crypto-asset service provider” means a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114, where performing one or more crypto-asset services as defined in Article 3(1), point (16), of that Regulation, with the exception of providing advice on crypto-assets as referred to in Article 3(1), point (16)(h), of that Regulation;]
+
+“customer”—
+
+(*a*) in relation to an auditor, means—
+
+(i) a body corporate to which the auditor has been appointed as an auditor, or
+
+(ii) in the case of an auditor appointed to audit the accounts of an unincorporated body of persons or of an individual, the unincorporated body or the individual,
+
+(*b*) in relation to a relevant independent legal professional, includes, in the case of the provision of services by a barrister, a person who is a client of a solicitor seeking advice from the barrister for or on behalf of the client and does not, in that case, include the solicitor, or
+
+(*c*) in relation to a trust or company service provider, means a person with whom the trust or company service provider has an arrangement to provide services as such a service provider;
+
+“Department” means the Department of Justice, Equality and Law Reform;
+
+“designated accountancy body” means a prescribed accountancy body, within the meaning of Part 2 of the Companies (Auditing and Accounting) Act 2003;
+
+“designated person” has the meaning assigned to it by *section 25*;
+
+F15["Directive (EU) 2019/1153" means Directive (EU) 2019/1153 of the European Parliament and of the Council of 20 June 2019[^25] laying down rules facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA;]
+
+F34[F35["Directive of 2009" means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 200912 , as amended by—
+
+(*a*) Directive 2010/78/EU of the European Parliament and of the Council of 24 November 201013,
+
+(*b*) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 201114,
+
+(*c*) Directive 2013/14/EU of the European Parliament and of the Council of 21 May 201315,
+
+(*d*) Directive 2014/91/EU of the European Parliament and of the Council of 23 July 201416,
+
+(*e*) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 201717,
+
+(*f*) Directive (EU) 2019/1160 of the European Parliament and of the Council of 20 June 201918,
+
+(*g*) Directive (EU) 2019/2034 of the European Parliament and of the Council of 20 June 201919 , and
+
+(*h*) Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 201920;]]
+
+“EEA State” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the Protocol signed at Brussels on 17 March 1993;
+
+F25["Electronic Identification Regulation" means Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014[^26] on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC;]
+
+F34["electronic money" means electronic money within the meaning of the European Communities (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011);]
+
+F36[...]
+
+F16["Europol" means the body established under Article 1(1) of Regulation (EU) 2016/794;]
+
+“external accountant” means a person who by way of business provides accountancy services (other than when providing such services to the employer of the person) whether or not the person holds accountancy qualifications or is a member of a designated accountancy body;
+
+F37["financial institution" means—
+
+(*a*) an undertaking that carries out one or more of the activities set out at reference numbers 2 to 12, 14 and 15 of the Schedule to the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014) or foreign exchange services, but does not include an undertaking—
+
+(i) that does not carry out any of the activities set out at those reference numbers other than one or more of the activities set out at reference number 7, and
+
+(ii) whose only customers (if any) are members of the same group as the undertaking,
+
+(*b*) an insurance undertaking within the meaning of Regulation 3 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015), in so far as it carries out life assurance activities,
+
+(*c*) a person, other than a person falling within Regulation 4(1) of the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017), whose regular occupation or business is—
+
+(i) the provision to other persons, or the performance, of investment services and activities within the meaning of those Regulations, or
+
+(ii) bidding directly in auctions in accordance with Commission Regulation (EU) No 1031/2010 of 12 November 2010[^27] on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community on behalf of its clients,
+
+(*d*) an investment business firm within the meaning of the Investment Intermediaries Act 1995 (other than a non-life insurance intermediary within the meaning of that Act),
+
+(*e*) a collective investment undertaking that markets or otherwise offers its units or shares,
+
+(*f*) an insurance intermediary within the meaning of the Insurance Mediation Directive (other than a tied insurance intermediary within the meaning of that Directive) that provides life assurance or other investment-related services, or
+
+(*g*) An Post, in respect of any activity it carries out, whether as principal or agent—
+
+(i) that would render it, or a principal for whom it is an agent, a financial institution as a result of the application of any of the foregoing paragraphs,
+
+(ii) that is set out at reference number 1 in the Schedule to the European Union (Capital Requirements) Regulations 2014, or
+
+(iii) that would render it, or a principal for whom it is an agent, an investment business firm within the meaning of the Investment Intermediaries Act 1995 (other than a non-life insurance intermediary within the meaning of that Act) F38[if section 2(6) of that Act did not apply,]]
+
+F40[(*gi*) a crypto-asset service provider;]
+
+(*h*) F30[...]
+
+F17["FIU Ireland" has the meaning assigned to it by *section 40A(2)*;]
+
+F37["group" means a group of undertakings which consists of a parent undertaking, its subsidiaries, and the entities in which the parent undertaking or its subsidiaries hold a participation, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013[^28] on the annual financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;]
+
+F34["high-risk third country" means a jurisdiction identified by the European Commission in accordance with Article 9 of the Fourth Money Laundering Directive;]
+
+“Insurance Mediation Directive” means Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation [^29];
+
+F36[...]
+
+“Markets in Financial Instruments Directive” means Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC [^30];
+
+“member”, in relation to a designated accountancy body, means a member, within the meaning of Part 2 of the Companies (Auditing and Accounting) Act 2003, of a designated accountancy body;
+
+“member”, in relation to the Irish Taxation Institute, means a person who is subject to the professional and ethical standards of the Institute, including its investigation and disciplinary procedures, but does not include a person who is admitted to its membership as a student;
+
+F34["monitoring", in relation to a business relationship between a designated person and a customer, means the designated person, on an ongoing basis—
+
+(*a*) scrutinising transactions, and the source of wealth or of funds for those transactions, undertaken during the relationship in order to determine if the transactions are consistent with the designated person’s knowledge of—
+
+(i) the customer,
+
+(ii) the customer’s business and pattern of transactions, and
+
+(iii) the customer’s risk profile (as determined under section 30B),
+
+and
+
+(*b*) ensuring that documents, data and information on customers are kept up to date in accordance with its internal policies, controls and procedures adopted in accordance with section 54;]
+
+F34["national risk assessment" means the assessment carried out by the State in accordance with paragraph 1 of Article 7 of the Fourth Money Laundering Directive;]
+
+F41["occasional transaction" means, in relation to a customer of a designated person where the designated person does not have a business relationship with the customer, a single transaction, or a series of transactions that are or appear to be linked to each other, and—
+
+(*a*) in a case where the designated person concerned is a person referred to in section 25(1)(h), that the amount of money or the monetary value concerned—
+
+(i) paid to the designated person by the customer, or
+
+(ii) paid to the customer by the designated person,
+
+is in aggregate not less than €2,000,
+
+F42[(*b*) in a case where the transaction concerned consists of a transfer of funds (within the meaning of Regulation (EU) No. 2015/847 of the European Parliament and of the Council of 20 May 2015[^31]) that the amount of money to be transferred is in aggregate not less than €1,000,]
+
+F43[(*bb*) in a case where the designated person concerned is a person referred to in *section 25(1)(i)*, that the amount concerned—
+
+(i) paid to the designated person by the customer, or
+
+(ii) paid to the customer by the designated person,
+
+is in aggregate not less than €10,000, and]
+
+(*c*) in a case other than one referred to in *paragraphs* F42[*(a)*, *(b)* or *(bb)*], that the amount or aggregate of amounts concerned is not less than €15,000;]
+
+“payment service” has the same meaning as in the Payment Services Directive;
+
+“Payment Services Directive” means Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC [^32];
+
+“professional service provider” means an auditor, external accountant, tax adviser, relevant independent legal professional or trust or company service provider;
+
+F39["property service provider" means a person who provides a property service within the meaning of the Property Services (Regulation) Act 2011;]
+
+F37["public body" means an FOI body within the meaning of the Freedom of Information Act 2014;]
+
+F36[...]
+
+F37["regulated market" means—
+
+(*a*) a regulated market with the meaning of point (21) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014[^33] on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU, located within the EEA, or
+
+(*b*) a regulated market that subjects companies whose securities are admitted to trading to disclosure obligations which are equivalent to the following:
+
+(i) disclosure obligations set out in Articles 17 and 19 of Regulation (EU) No. 596/2014 of the European Parliament and of the Council of 16 April 2014[^34] on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC,
+
+(ii) disclosure obligations consistent with Articles 3, 5, 7, 8, 10, 14 and 16 of Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003[^35] on the prospectuses to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC,
+
+(iii) disclosure obligations consistent with Articles 4 to 6, 14, 16 to 19 and 30 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004[^36] on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC, and
+
+(iv) disclosure requirements consistent with EU legislation made under the provisions mentioned in *subparagraphs (i)* to *(iii)*;]
+
+F18["Regulation (EU) 2016/794" means Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016[^37] on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA;]
+
+F33[“Regulation (EU) 2023/1114” means Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023[^38] on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937;]
+
+“relevant independent legal professional” means a barrister, solicitor or notary who carries out any of the following services:
+
+(*a*) the provision of assistance in the planning or execution of transactions for clients concerning any of the following:
+
+(i) buying or selling land or business entities;
+
+(ii) managing the money, securities or other assets of clients;
+
+(iii) opening or managing bank, savings or securities accounts;
+
+(iv) organising contributions necessary for the creation, operation or management of companies;
+
+(v) creating, operating or managing trusts, companies or similar structures or arrangements;
+
+(*b*) acting for or on behalf of clients in financial transactions or transactions relating to land;
+
+“relevant professional adviser” means an accountant, auditor or tax adviser who is a member of a designated accountancy body or of the Irish Taxation Institute;
+
+F34["senior management" means an officer or employee with sufficient knowledge of the institution’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure, and need not, in all cases, be a member of the board of directors;]
+
+“solicitor” means a practising solicitor;
+
+“State competent authority” has the meaning assigned to it by *section 62*;
+
+“tax adviser” means a person who by way of business provides advice about the tax affairs of other persons;
+
+“transaction” means—
+
+(*a*) in relation to a professional service provider, any transaction that is carried out in connection with a customer of the provider and that is—
+
+(i) in the case of a provider acting as an auditor, the subject of an audit carried out by the provider in respect of the accounts of the customer,
+
+(ii) in the case of a provider acting as an external accountant or tax adviser, or as a trust or company service provider, the subject of a service carried out by the provider for the customer, or
+
+(iii) in the case of a provider acting as a relevant independent legal professional, the subject of a service carried out by the professional for the customer of a kind referred to in *paragraph (a)* or *(b)* of the definition of “relevant independent legal professional” in this subsection;
+
+and
+
+(*b*) in relation to a casino or private members’ club, a transaction, such as the purchase or exchange of tokens or chips, or the placing of a bet, carried out in connection with gambling activities carried out on the premises of the casino or club by a customer of the casino or club;
+
+F34["transferable securities" means transferable securities within the meaning of the European Union (Markets in Financial Instruments) Regulations 2017;]
+
+“trust or company service provider” means any person whose business it is to provide any of the following services:
+
+(*a*) forming companies or other bodies corporate;
+
+(*b*) acting as a director or secretary of a company under an arrangement with a person other than the company;
+
+(*c*) arranging for another person to act as a director or secretary of a company;
+
+(*d*) acting, or arranging for a person to act, as a partner of a partnership;
+
+(*e*) providing a registered office, business address, correspondence or administrative address or other related services for a body corporate or partnership;
+
+(*f*) acting, or arranging for another person to act, as a trustee of a trust;
+
+(*g*) acting, or arranging for another person to act, as a nominee shareholder for a person other than a company whose securities are listed on a regulated market.
+
+F29[...]
+
+F29[...]
+
+(2) The Minister may prescribe a regulated financial market for the purposes of the definition of “regulated market” in *subsection (1)* only if the Minister is satisfied that the market is in a place other than an EEA State that imposes, on companies whose securities are admitted to trading on the market, disclosure requirements consistent with legislation of the European Communities.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14, F15, F16, F17, F18: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 8.
+>
+> F19: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(a), S.I. No. 486 of 2018.
+>
+> F20: Substituted (1.01.2025) by *European Union (Capital Requirements) (No. 2) (Amendment) Regulations 2024* (S.I. No. 682 of 2024), reg. 7, in effect as per reg. 1(2).
+>
+> F21: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 3(b), S.I. No. 486 of 2018.
+>
+> F22: Substituted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(a)(ii), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+>
+> F23: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(c), S.I. No. 486 of 2018.
+>
+> F24, F25, F26, F27: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 4(a)(ii), (c), S.I. No. 188 of 2021.
+>
+> F28, F29, F30: Deleted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(a)(i)(I)-(III), (iii)(II), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+>
+> F31, F32, F33: Inserted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(a)(iv), in effect as per reg. 1(2).
+>
+> F34: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(d), (e), (i), (k), (p), (q), S.I. No. 486 of 2018.
+>
+> F35: Inserted (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), s. 54, commenced on enactment.
+>
+> F36: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(f), (j), (n), S.I. No. 486 of 2018.
+>
+> F37: Substituted Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(g), (h), (m), (o), S.I. No. 486 of 2018.
+>
+> F38, F39: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 4(a)(i), (b), S.I. No. 188 of 2021.
+>
+> F40: Inserted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(a)(iii)(I), in effect as per reg. 1(2).
+>
+> F41: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 4, S. I. No. 196 of 2013.
+>
+> F42: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(l)(i), (iii), S.I. No. 486 of 2018.
+>
+> F43: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(l)(ii), S.I. No. 486 of 2018.
+>
+> F44: Inserted by *Gambling Regulation Act 2024* (35/2024), s. 230(a)(i)(I), (ii), not commenced as of date of revision.
+>
+> F45: Substituted by *Gambling Regulation Act 2024* (35/2024), s. 230(a)(i)(II), (III), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subs. (1) amended, subs. (3) inserted by *Gambling Regulation Act 2024* (35/2024), s. 230(a)(i)(I), (II), (III), not commenced as of date of revision.
+>
+> **24**.— (1) In this Part—
+>
+> F44["Act of 2024" means the Gambling Regulation Act 2024;]
+>
+> ...
+>
+> F44["gambling service" means a gambling service within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015[^39] on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, other than—
+>
+> (*a*) subject to *subsection (3)*, a poker game provided at a premises,
+>
+> (*b*) subject to *subsection (3)*, a relevant game (within the meaning of the Act of 2024) played on a gaming machine (within the meaning of the Act of 2024) provided at a premises in accordance with an in person gaming licence granted under Part 5 of the Act of 2024,
+>
+> (*c*) a game played on an amusement machine (within the meaning of section 120 of the Finance Act 1992), and
+>
+> (*d*) a lottery (within the meaning of the Act of 2024);]
+>
+> ...
+>
+> "occasional transaction" means, in relation to a customer of a designated person where the designated person does not have a business relationship with the customer, a single transaction, or a series of transactions that are or appear to be linked to each other, and—
+>
+> (*a*) in a case where the designated person concerned is F45[a gambling service provider], that the amount of money or the monetary value concerned— ...
+>
+> ...
+>
+> “transaction” means— ...
+>
+> F45[(*b*) in relation to a gambling service provider, any transaction involving a gambling service, including—
+>
+> (i) a bet (within the meaning of the Act of 2024),
+>
+> (ii) a payment to participate in a game (within the meaning of the Act of 2024), or
+>
+> (iii) the payment of winnings (within the meaning of the Act of 2024) in respect of a transaction referred to in *subparagraph (i)* or *(ii)*;]
+>
+> ...
+>
+> F44[(3) A reference to a premises in *paragraph (a)* or *(b)* of the definition of "gambling service" does not include a reference to a premises that is a casino or a private members’ club.]
+>
+> C7: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 160.
+>
+> *References to repealed Directives*
+>
+> 160\. A reference in any enactment to a Directive repealed by the Capital Requirements Directive shall be construed in accordance with Article 163 of the second-mentioned Directive.
+>
+> C8: Definition of “occasional transaction” modified (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Section 25) (Prescribed Class of Designated Person) Regulations 2018* (S.I. No. 487 of 2018), reg. 4, in effect as per reg. 1(2).
+>
+> 3\. (1) Providers of gambling services are prescribed as a class of persons for the purposes of section 25(1)(j) of the Act of 2010.
+>
+> (2) In this Regulation, “gambling services” means gambling services within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 20151 other than—
+>
+> (a) poker games provided at a physical location other than a casino or private members’ club,
+>
+> (b) lotteries within the meaning of the Gaming and Lotteries Act 1956 (No. 2 of 1956), and
+>
+> (c) gaming machines (within the meaning of section 43 of the Finance Act 1975 (No. 6 of 1975)) or amusement machines (within the meaning of section 120 of the Finance Act 1992 (No. 9 of 1992)) provided in accordance with section 14 of the Gaming and Lotteries Act 1956 .
+>
+> 4\. Insofar as a person is a designated person by virtue of being a member of the class of persons prescribed in Regulation 3, the definition of “occasional transaction” in section 24 of the Act of 2010 shall be modified so that the reference in paragraph (a) of that definition to “a person referred to in section 25(1)(h)” be read as a reference to a member of the class of persons prescribed in Regulation 3.
+>
+> C9: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 160.
+>
+> *References to repealed Directives*
+>
+> 160\. A reference in any enactment to a Directive repealed by the Capital Requirements Directive shall be construed in accordance with Article 163 of the second-mentioned Directive.
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: definition of "financial institution" amended (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025*(S.I. No. 310 of 2025), reg. 15(a)(iii)(II), in effect as per reg. 1(2); deleted as per F-note above.
+>
+> E15: Previous affecting provision: definition of "custodian wallet provider", "virtual asset" and "“virtual asset service provider" deleted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025*(S.I. No. 310 of 2025), reg. 15(a)(i), in effect as per reg. 1(2); deleted as per F-note above.
+>
+> E16: Previous affecting provision: definition of Capital Requirements Regulation substituted (28.12.2020) by *European Union (Capital Requirements) (No. 2) (Amendment) Regulations 2020* (S.I. No. 711 of 2020), reg. 8, in effect as per reg. 1(2); substituted as per F-note above.
+>
+> E17: Previous affecting provision: definition of Capital Requirements Regulation inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 4(a), S.I. No. 486 of 2018; substituted as per F-note above.
+
+#### 25. Meaning of “designated person”.
+
+**25**.— (1) In this Part, “designated person” means any person, acting in the State in the course of business carried on by the person in the State, who or that is—
+
+(*a*) a credit institution, except as provided by *subsection (4)*,
+
+(*b*) a financial institution, except as provided by *subsection (4)*,
+
+(*c*) an auditor, external accountant F46[, tax adviser or any other person whose principal business or professional activity is to provide, directly or by means of other persons to which that other person is related, material aid, assistance or advice on tax matters],
+
+F48[(*d*) subject to *subsection (1A)*, a relevant independent legal professional,]
+
+(*e*) a trust or company service provider,
+
+F47[(*f*) a property service provider including a property service provider acting as an intermediary in the letting of immovable property, but only in respect of transactions for which the monthly rent amounts to a total of at least €10,000,]
+
+(*g*) a casino,
+
+(*h*) a person who effectively directs a private members’ club at which gambling activities are carried on, but only in respect of those gambling activities,
+
+(*i*) any person trading in goods, but only in respect of transactions involving payments, to the person F49[or by the person] in cash, of a total of at least F48[€10,000] (whether in one transaction or in a series of transactions that are or appear to be linked to each other), F50[...]
+
+F52[(*ia*) F51[...]
+
+(*ib*) a person trading or acting as an intermediary in the trade of works of art (including when carried out by an art gallery or an auction house) but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other),
+
+(*ic*) a person storing, trading or acting as an intermediary in the trade of works of art when this is carried out in a free port but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or as a series of transactions that are or appear to be linked to each other), or]
+
+(*j*) any other person of a prescribed class.
+
+F49[(1A) A relevant independent legal professional shall be a designated person only as respects the carrying out of the services specified in the definition of "relevant independent legal professional" in *section 24(1)*.]
+
+(2) For the purposes of this Part, a person is to be treated as a designated person only in respect of those activities or services that render the person a designated person.
+
+(3) A reference in this Part to a designated person does not include a reference to any of the following:
+
+(*a*) the Minister for Finance;
+
+(*b*) the F53[Central Bank of Ireland];
+
+(*c*) the National Treasury Management Agency.
+
+(4) A person is not to be treated as a designated person for the purposes of this Part solely as a result of operating as a credit institution or financial institution, in the course of business, if—
+
+(*a*) the annual turnover of the person’s business that is attributable to operating as a credit institution or financial institution is €70,000 (or such other amount as may be prescribed) or less,
+
+(*b*) the total of any single transaction, or a series of transactions that are or appear to be linked to each other, in respect of which the person operates as a credit institution or financial institution does not exceed €1,000 (or such other lesser amount as may be prescribed),
+
+(*c*) the annual turnover of the person’s business that is attributable to operating as a credit institution or financial institution does not exceed 5 per cent of the business’s total annual turnover,
+
+(*d*) the person’s operation as a credit institution or financial institution is directly related and ancillary to the person’s main business activity, and
+
+(*e*) the person provides services when operating as a credit institution or financial institution only to persons who are customers in respect of the person’s main business activity, rather than to members of the public in general.
+
+(5) *Subsection (4)* does not apply in relation to any prescribed class of person.
+
+(6) For the avoidance of doubt and without prejudice to the generality of *subsection (1)(a)* or *(b)*, a credit or financial institution that acts in the State in the course of business carried on by the institution in the State, by means of a branch situated in the State, is a designated person whether or not the institution is incorporated, or the head office of the institution is situated, in a place other than in the State.
+
+(7) The Minister may prescribe a class of persons for the purposes of *subsection (1)(j)* only if the Minister is satisfied that any of the business activities engaged in by the class—
+
+(*a*) may be used for the purposes of—
+
+(i) money laundering,
+
+(ii) terrorist financing, or
+
+(iii) an offence that corresponds or is similar to money laundering or terrorist financing under the law of a place outside the State,
+
+or
+
+(*b*) are of a kind likely to result in members of the class obtaining information on the basis of which they may become aware of, or suspect, the involvement of customers or others in money laundering or terrorist financing.
+
+(8) The Minister may, in any regulations made under *subsection (7)* prescribing a class of persons, apply to the class such exemptions from, or modifications to, provisions of this Act as the Minister considers appropriate, having regard to any risk that the business activities engaged in by the class may be used for a purpose referred to in *paragraph (a)* of that subsection.
+
+(9) The Minister may prescribe an amount for the purposes of *paragraph (a)* or *(b)* of *subsection (4)*, in relation to a person’s business activities as a credit institution or financial institution, only if the Minister is satisfied that, in prescribing the amount, the purposes of that subsection will likely be fulfilled, including that—
+
+(*a*) those activities are carried out by the person on a limited basis, and
+
+(*b*) there is little risk that those activities may be used for a purpose referred to in *subsection (7)(a)*.
+
+(10) The Minister may prescribe a class of persons for the purpose of *subsection (5)* only if the Minister is satisfied that the application of *subsection (4)* to the class involves an unacceptable risk that the business activities engaged in by the class may be used for a purpose referred to in *subsection (7)(a)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46, F47: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 5(a), (b), S.I. No. 188 of 2021.
+>
+> F48: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 5(a)(i), (ii)(II), S.I. No. 486 of 2018.
+>
+> F49: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 5(a)(ii)(I), (b), S.I. No. 486 of 2018.
+>
+> F50: Deleted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 5(c), S.I. No. 188 of 2021.
+>
+> F51: Deleted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(b), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+>
+> F52: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 5(d), S.I. No. 188 of 2021.
+>
+> F53: Substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14 par. 33, S.I. No. 469 of 2010.
+>
+> F54: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F55: Substituted by *Gambling Regulation Act 2024* (35/2024), s. 230(b)(i), not commenced as of date of revision.
+>
+> F56: Inserted by *Gambling Regulation Act 2024* (35/2024), s. 230(b)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subs. (1)(g), (h) repealed, subs. (1)(ic) amended, subs. (1)(ic) inserted by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, s. 230(b)(i), (ii), not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **25**.— (1) In this Part, “designated person” means any person, acting in the State in the course of business carried on by the person in the State, who or that is—
+>
+> ...
+>
+> (*g*) F54[...]
+>
+> (*h*) F54[...]
+>
+> ...
+>
+> (*ic*) a person storing, trading or acting as an intermediary in the trade of works of art when this is carried out in a free port but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or as a series of transactions that are or appear to be F55[linked to each other),]
+>
+> F56[(*id*) a gambling service provider, or]
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to subs. (7) exercised (30.12.2024) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Sections 25 and 60) (Prescribed Class and Competent Authority) Regulations 2024* (S.I. No. 724 of 2024), in effect as per reg. 1(2).
+>
+> E19: Power pursuant to subss. (7), (8) exercised (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Section 25) (Prescribed Class of Designated Person) Regulations 2018* (S.I. No. 487 of 2018), in effect as per reg. 1(2).
+>
+> E20: Previous affecting provision: subss. (1)(d) substituted and (1A) inserted by *Criminal Justice Act 2013* (19/2013), s. 5, not commenced; substituted and superseded as per F-note above.
+
+#### 26. Beneficial owner in relation to bodies corporate.
+
+F57[**26.**— In this Part, "beneficial owner", in relation to a body corporate, has the meaning given to it by point (6)(a) of Article 3 of the Fourth Money Laundering Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 6, S.I. No. 486 of 2018.
+
+#### 27. Beneficial owner in relation to partnerships.
+
+**27**.— In this Part, “beneficial owner”, in relation to a partnership, means any individual who—
+
+(*a*) ultimately is entitled to or controls, whether the entitlement or control is direct or indirect, more than a 25 per cent share of the capital or profits of the partnership or more than 25 per cent of the voting rights in the partnership, or
+
+(*b*) otherwise F58[controls] the partnership.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 7, S.I. No. 486 of 2018.
+
+#### 28. Beneficial owner in relation to trusts.
+
+**28**.— (1) F59[...]
+
+(2) In this Part, “beneficial owner”, in relation to a trust, means any of the following:
+
+(*a*) any individual who is entitled to a vested interest in possession, remainder or reversion, whether or not the interest is defeasible, in F59[...] the capital of the trust property;
+
+(*b*) in the case of a trust other than one that is set up or operates entirely for the benefit of individuals referred to in *paragraph (a)*, the class of individuals in whose main interest the trust is set up or operates;
+
+(*c*) any individual who has control over F60[the trust;]
+
+F61[(*d*) the settlor;
+
+(*e*) the trustee;
+
+(*f*) the protector.]
+
+(3) For the purposes of and without prejudice to the generality of *subsection (2)*, an individual who is the beneficial owner of a body corporate that—
+
+(*a*) is entitled to a vested interest of the kind referred to in *subsection (2)(a)*, or
+
+(*b*) has control over the trust,
+
+is taken to be entitled to the vested interest or to have control over the trust (as the case may be).
+
+(4) Except as provided by *subsection (5)*, in this section “control”, in relation to a trust, means a power (whether exercisable alone, jointly with another person or with the consent of another person) under the trust instrument concerned or by law to do any of the following:
+
+(*a*) dispose of, advance, lend, invest, pay or apply trust property;
+
+(*b*) vary the trust;
+
+(*c*) add or remove a person as a beneficiary or to or from a class of beneficiaries;
+
+(*d*) appoint or remove trustees;
+
+(*e*) direct, withhold consent to or veto the exercise of any power referred to in *paragraphs (a)* to *(d)*.
+
+(5) For the purposes of the definition of “control” in *subsection (4)*, an individual does not have control solely as a result of the power exercisable collectively at common law to vary or extinguish a trust where the beneficiaries under the trust are at least 18 years of age, have full capacity and (taken together) are absolutely entitled to the property to which the trust applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 8(a), (b)(i), S.I. No. 486 of 2018.
+>
+> F60: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 8(b)(ii), S.I. No. 486 of 2018.
+>
+> F61: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 8(b)(iii), S.I. No. 486 of 2018.
+
+#### 29. Beneficial owner in relation to estates of deceased persons.
+
+**29**.— In this Part, “beneficial owner”, in relation to an estate of a deceased person in the course of administration, means the executor or administrator of the estate concerned.
+
+#### 30. Other persons who are beneficial owners.
+
+**30**.— (1) In this Part, “beneficial owner”, in relation to a legal entity or legal arrangement, other than where *section 26, 27* or *28*, applies, means—
+
+(*a*) if the individuals who benefit from the entity or arrangement have been determined, any individual who benefits from F62[...] the property of the entity or arrangement,
+
+(*b*) if the individuals who benefit from the entity or arrangement have yet to be determined, the class of such individuals in whose main interest the entity or arrangement is set up or operates, and
+
+(*c*) any individual who exercises control over F62[...] the property of the entity F63[or arrangement,]
+
+F64[(*d*) any person holding a position, in relation to the legal entity or legal arrangement that is similar or equivalent to the position specified in *paragraphs (d)* to *(f)* of *section 28(2)* in relation to a trust.]
+
+(2) For the purposes of and without prejudice to the generality of *subsection (1)*, any individual who is the beneficial owner of a body corporate that benefits from or exercises control over the property of the entity or arrangement is taken to benefit from or exercise control over the property of the entity or arrangement.
+
+(3) In this Part, “beneficial owner”, in relation to a case other than a case to which *section 26, 27, 28* or *29*, or *subsection (1)* of this section, applies, means any individual who ultimately owns or controls a customer or on whose behalf a transaction is conducted.
+
+(4) F62[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 9(a)(i), (ii)(I), (b), S.I. No. 486 of 2018.
+>
+> F63: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 9(a)(ii)(II), S.I. No. 486 of 2018.
+>
+> F64: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 9(a)(iii), S.I. No. 486 of 2018.
+
+### Chapter 1ARisk assessment by designated persons — F65[Chapter 1A — Risk assessment by designated persons] — Annotations Amendments: Inserted (26.11.2018) by Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018 (26/2018), s. 10, S.I. No. 486 of 2018.
+
+#### 30A. Business risk assessment by designated persons
+
+F66[**30A.**— (1) A designated person shall carry out an assessment (in this Act referred to as a "business risk assessment") to identify and assess the risks of money laundering and terrorist financing involved in carrying on the designated person’s business activities taking into account at least the following risk factors:
+
+(*a*) the type of customer that the designated person has;
+
+(*b*) the products and services that the designated person provides;
+
+(*c*) the countries or geographical areas in which the designated person operates;
+
+(*d*) the type of transactions that the designated person carries out;
+
+(*e*) the delivery channels that the designated person uses;
+
+(*f*) other prescribed additional risk factors.
+
+(2) A designated person carrying out a business risk assessment shall have regard to the following:
+
+(*a*) any information in the national risk assessment which is of relevance to all designated persons or a particular class of designated persons of which the designated person is a member;
+
+(*b*) any guidance on risk issued by the competent authority for the designated person;
+
+(*c*) where the designated person is a credit institution or financial institution, any guidelines addressed to credit institutions and financial institutions issued by the European Banking Authority, the European Securities and Markets Authority or the European Insurance and Occupational Pensions Authority in accordance with the Fourth Money Laundering Directive.
+
+(3) A business risk assessment shall be documented unless a competent authority for a designated person decides under Article 8 of the Fourth Money Laundering Directive that an individual documented risk assessment is not required and notifies the designated person.
+
+(4) A designated person shall keep the business risk assessment, and any related documents, up to date in accordance with its internal policies, controls and procedures adopted in accordance with *section 54*.
+
+(5) A business risk assessment shall be approved by senior management.
+
+(6) A designated person shall make records of a business risk assessment available, on request, to the competent authority for that designated person.
+
+(7) The Minister may prescribe additional risk factors to be taken into account in a risk assessment under *subsection (1)* only where he or she is satisfied that it is appropriate to consider such matters in order to accurately identify and assess the risks of money laundering or terrorist financing.
+
+(8) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment to a fine or imprisonment not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 10, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 30B. Application of risk assessment in applying customer due diligence
+
+F67[**30B.**— (1) For the purposes of determining the extent of measures to be taken under *subsections (2)* and *(2A)* of *section 33* and *subsections (1)* and *(3)* of *section 35* a designated person shall identify and assess the risk of money laundering and terrorist financing in relation to the customer or transaction concerned, having regard to—
+
+(*a*) the relevant business risk assessment,
+
+(*b*) the matters specified in *section 30A(2)*,
+
+(*c*) any relevant risk variables, including at least the following:
+
+(i) the purpose of an account or relationship;
+
+(ii) the level of assets to be deposited by a customer or the size of transactions undertaken;
+
+(iii) the regularity of transactions or duration of the business relationship;
+
+(iv) any additional prescribed risk variable,
+
+(*d*) the presence of any factor specified in *Schedule 3* or prescribed under *section 34A* suggesting potentially lower risk,
+
+(*e*) the presence of any factor specified in *Schedule 4*, and
+
+(*f*) any additional prescribed factor suggesting potentially higher risk.
+
+(2) A determination by a designated person under *subsection (1)* shall be documented where the competent authority for the designated person, having regard to the size and nature of the designated person and the need to accurately identify and assess the risks of money laundering or terrorist financing, so directs.
+
+(3) For the purposes of *subsection (2)*, a State competent authority may direct a class of designated persons for whom it is the competent authority to document a determination in writing.
+
+(4) The Minister may prescribe additional risk variables to which regard is to be had under *subsection (1)(c)(iv)* only where he or she is satisfied that it is appropriate to consider such matters in order to accurately identify and assess the risks of money laundering or terrorist financing.
+
+(5) A designated person who fails to document a determination in accordance with a direction under *subsection (2)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment to a fine or imprisonment not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 10, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### Chapter 2 Designation of places other than Member States procedures for detecting money laundering or terrorist financing — Chapter 2 — Designation of places other than Member States — procedures for detecting money laundering or terrorist financing
+
+#### 31. Designation of places imposing requirements equivalent to Third Money Laundering Directive.
+
+**31**.— F68[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: power pursuant to subs. (1) exercised (30.09.2012) by *Criminal Justice (Money Laundering and Terrorist Financing) (Section 31) Order 2012* (S.I. No. 347 of 2012), art. 4, in effect as per art. 2; rendered obsolete by repeal of enabling provision as per F-note above.
+>
+> E22: Previous affecting provision: power pursuant to subs. (1) exercised (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) (Section 31) Order 2010* (S.I. No. 343 of 2010), in effect as per art. 2; revoked (30.09.2012) by *Criminal Justice (Money Laundering and Terrorist Financing) (Section 31) Order 2012* (S.I. No. 347 of 2012), art. 4, in effect as per art. 2.
+
+#### 32. Designation of places having inadequate procedures for detection of money laundering or terrorist financing.
+
+**32**.— F69[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+
+### Chapter 3 Customer Due Diligence — Chapter 3 — Customer Due Diligence
+
+#### 33. Identification and verification of customers and beneficial owners.
+
+**33**.— (1) A designated person shall apply the measures specified in F70[*subsection (2)*], in relation to a customer of the designated person—
+
+(*a*) prior to establishing a business relationship with the customer,
+
+(*b*) prior to carrying out an occasional transaction with, for or on behalf of the customer or assisting the customer to carry out an occasional transaction,
+
+F71[(c) prior to carrying out any service for the customer, if, having regard to the circumstances, including—
+
+(i) the customer, or the type of customer, concerned,
+
+(ii) the type of any business relationship which the person has with the customer,
+
+(iii) the type of service or of any transaction or product in respect of which the service is sought,
+
+(iv) the purpose (or the customer’s explanation of the purpose) of the service or of any transaction or product in respect of which the service is sought,
+
+(v) the value of any transaction or product in respect of which the service is sought,
+
+(vi) the source (or the customer’s explanation of the source) of funds for any such transaction or product,
+
+the person has reasonable grounds to suspect that the customer is involved in, or the service, transaction or product sought by the customer is for the purpose of, money laundering or terrorist financing, or]
+
+or
+
+(*d*) prior to carrying out any service for the customer if—
+
+(i) the person has reasonable grounds to doubt the veracity or adequacy of documents (whether or not in electronic form) or information that the person has previously obtained for the purpose of verifying the identity of the customer, whether obtained under this section or section 32 of the Criminal Justice Act 1994 (“the 1994 Act”) prior to its repeal by this Act or under any administrative arrangements that the person may have applied before section 32 of the 1994 Act operated in relation to the person, and
+
+(ii) the person has not obtained any other documents or information that the person has reasonable grounds to believe can be relied upon to confirm the identity of the F70[customer,]
+
+F72[and
+
+(*e*) at any time, including a situation where the relevant circumstances of a customer have changed, where the risk of money laundering and terrorist financing warrants their F73[application, or]]
+
+F75[(*f*) at any time where the designated person is obliged by virtue of any enactment or rule of law, including the European Union (Administrative Cooperation in the Field of Taxation) Regulations 2012 (S.I. No. 549 of 2012), to contact a customer for the purposes of reviewing any relevant information relating to the beneficial owner connected with the customer.]
+
+(2) The measures that shall be applied F72[, in accordance with *section 30B*,] by a designated person under *subsection (1)* are as follows:
+
+(*a*) identifying the customer, and verifying the customer’s identity on the basis of documents (whether or not in electronic form), or information, that the designated person has reasonable grounds to believe can be relied upon to confirm the identity of the customer, including—
+
+(i) documents from a government source (whether or not a State government source), F78[...]
+
+F76[(*ia*) information from relevant trust services as specified in the Electronic Identification Regulation, or]
+
+(ii) any prescribed class of documents, or any prescribed combination of classes of documents;
+
+(*b*) identifying any beneficial owner connected with the customer or service concerned, and taking measures reasonably warranted by the risk of money laundering or terrorist financing—
+
+(i) to verify the beneficial owner’s identity to the extent necessary to ensure that the person has reasonable grounds to be satisfied that the person knows who the beneficial owner is, F79[...]
+
+(ii) in the case of a legal entity or legal arrangement of a kind referred to in *section 26, 27, 28* or *30*, to understand the ownership and control structure of the entity or arrangement F74[concerned, and]
+
+F77[(iii) where the beneficial owner is the senior managing official referred to in Article 3(6)(a)(ii) of the Fourth Money Laundering Directive, a designated person shall take the necessary measures to verify the identity of that person and shall keep records of the actions taken to verify the person’s identity including any difficulties encountered in the verification process.]
+
+F72[(2A) When applying the measures specified in *subsection (2)*, a designated person shall verify that any person purporting to act on behalf of the customer is so authorised and identify and verify the identity of that person in accordance with *subsection (2)*.]
+
+(3) Nothing in *subsection (2)(a)(i)* or *(ii)* limits the kinds of documents or information that a designated person may have reasonable grounds to believe can be relied upon to confirm the identity of a customer.
+
+(4) F80[...]
+
+(5) Notwithstanding *subsection (1)(a)*, a designated person may verify the identity of a customer or beneficial owner, in accordance with F70[*subsection (2)*], during the establishment of a business relationship with the customer if the designated person has reasonable grounds to believe that—
+
+(*a*) verifying the identity of the customer or beneficial owner (as the case may be) prior to the establishment of the relationship would interrupt the normal conduct of business, and
+
+(*b*) there is no real risk that the customer is involved in, or the service sought by the customer is for the purpose of, money laundering or terrorist financing,
+
+but the designated person shall take reasonable steps to verify the identity of the customer or beneficial owner, in accordance with F70[*subsection (2)*], as soon as practicable.
+
+(6) Notwithstanding *subsection (1)(a)*, F70[a credit institution or financial institution may allow an account, including an account that permits transactions in transferable securities, to be opened with it] by a customer before verifying the identity of the customer or a beneficial owner, in accordance with F70[*subsection (2)*], so long as the institution ensures that transactions in connection with the account are not carried out by or on behalf of the customer or beneficial owner before carrying out that verification.
+
+F81[(7) In addition to the measures required in relation to a customer and a beneficial owner under this section, credit institutions and financial institutions shall apply the measures specified in *subsections (7A)* to *(7C)* to the beneficiaries of life assurance and other investment-related assurance policies.
+
+(7A) As soon as the beneficiaries of life assurance and other investment-related assurance policies are identified or designated, a credit institution or financial institution shall—
+
+(*a*) take the names of beneficiaries that are identified as specifically named persons or legal arrangements, and
+
+(*b*) in the case of beneficiaries designated by characteristics, class or other means, obtain sufficient information to satisfy the institution that it will be able to establish the identity of the beneficiary at the time of the payout.
+
+(7B) A credit institution or financial institution shall verify the identity of a beneficiary referred to in *paragraph (a)* or *(b)* of *subsection (7A)* at the time of the payout in accordance with *subsection (2)*.
+
+(7C) In the case of assignment, in whole or in part, of a policy of life assurance or other investment-related assurance to a third party, a credit institution or financial institution that is aware of the assignment shall identify the beneficial owner at the time of the assignment to the natural or legal person, or legal arrangement, receiving for his or her, or its, own benefit the value of the policy assigned.
+
+(7D) In addition to the measures required in relation to a customer and a beneficial owner, in the case of beneficiaries of trusts or of similar legal arrangements that are designated by particular characteristics or class, a designated person shall obtain sufficient information concerning the beneficiary to satisfy the designated person that it will be able to establish the identity of the beneficiary at the time of the payout or at the time of the exercise by the beneficiary of its vested rights.]
+
+(8) F82[Subject to *subsection (8A)*, a designated person] who is unable to apply the measures specified in F82[subsection (2) or (4)] in relation to a customer, as a result of any failure on the part of the customer to provide the designated person with documents or information required under this section—
+
+(*a*) shall not provide the service or carry out the transaction sought by that customer for so long as the failure remains unrectified, and
+
+(*b*) shall discontinue the business relationship (if any) with the customer.
+
+F83[(8A) Nothing in *subsection (8)* or *section 35(2)* shall operate to prevent a relevant independent legal professional or relevant professional adviser—
+
+(*a*) ascertaining the legal position of a person, or
+
+(*b*) performing the task of defending or representing a person in, or in relation to, civil or criminal proceedings, including providing advice on instituting or avoiding such proceedings.]
+
+(9) F82[A designated person] who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(10) F80[...]
+
+(11) The Minister may prescribe a class of documents, or a combination of classes of documents, for the purposes of *subsection (2)(a)(ii)*, only if the Minister is satisfied that the class or combination of documents would be adequate to verify the identity of customers of designated persons.
+
+(12) For the purposes of *subsection (2)(a)(ii)*, the Minister may prescribe different classes of documents, or combinations of classes of documents, for different kinds of designated persons, customers, transactions, services or risks of money laundering or terrorist financing.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(a), (b), (g), (h), S.I. No. 486 of 2018.
+>
+> F71: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 6, S.I. No. 196 of 2013.
+>
+> F72: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(c), (d), (e), S.I. No. 486 of 2018.
+>
+> F73, F74: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 6(a)(i), (b)(ii)(II), S.I. No. 188 of 2021.
+>
+> F75, F76, F77: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 6(a)(ii), (b)(ii)(III), S.I. No. 188 of 2021.
+>
+> F78, F79: Deleted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 6(b)(i)(I), (b)(ii)(I), S.I. No. 188 of 2021.
+>
+> F80: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(f), (m), S.I. No. 486 of 2018.
+>
+> F81: Substituted and inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(i), S.I. No. 486 of 2018.
+>
+> F82: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(j), (l), S.I. No. 486 of 2018.
+>
+> F83: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 11(k), S.I. No. 486 of 2018.
+
+#### 33A. Electronic money derogation
+
+F84[**33A.**— (1) Subject to *section 33(1)(c)* and *(d)* and *subsection (2)*, a designated person is not required to apply the measures specified in *subsection (2)* or *(2A)* of *section 33*, or *section 35*, with respect to electronic money if—
+
+(*a*) the payment instrument concerned—
+
+(i) is not reloadable, or
+
+(ii) cannot be used outside of the State and has a maximum monthly payment transactions limit not exceeding F85[€150],
+
+F86[(*b*) the monetary value that may be stored electronically on the payment instrument concerned does not exceed €150,]
+
+(*c*) the payment instrument concerned is used exclusively to purchase goods and services,
+
+(*d*) the payment instrument concerned cannot be funded with anonymous electronic money,
+
+(*e*) the issuer of the payment instrument concerned carries out sufficient monitoring of the transactions or business relationship concerned to enable the detection of unusual or suspicious transactions, F88[...]
+
+(*f*) the transaction concerned is not a redemption in cash or cash withdrawal of the monetary value of the electronic money of an amount exceeding F87[€50, and]
+
+F89[(*g*) the transaction concerned is not a remote payment transaction (within the meaning of Article 4 of Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 20153 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No. 1093/2010, and repealing Directive 2007/64/EC) of an amount exceeding €50.]
+
+(2) A designated person shall not apply the exemption provided for in *subsection (1)* if—
+
+(*a*) the customer concerned is established, or resident in, a high-risk third country, or
+
+(*b*) the designated person is required to apply measures, in relation to the customer or beneficial owner (if any) concerned, under *section 37*.]
+
+F90[(3) A credit institution or financial institution acting as an acquirer shall not accept a payment carried out with an anonymous prepaid card issued in a state other than a Member State unless the payment instrument concerned complies with the requirements of *subsections (1)* and *(2)*.
+
+(4) A person who fails to comply with *subsection (3)* commits an offence and is liable—
+
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years, or both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 12, S.I. No. 486 of 2018.
+>
+> F85, F86, F87: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 7(a)(i), (ii), (iv), S.I. No. 188 of 2021.
+>
+> F88: Deleted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 7(a)(iii), S.I. No. 188 of 2021.
+>
+> F89, F90: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 7(a)(v), (b), S.I. No. 188 of 2021. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E23: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 34. Exemptions from section 33.
+
+**34**.— F91[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E24: Previous affecting provision: subs. (1) substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 7, S.I. No. 196 of 2013; section repealed as per F-note above.
+
+#### 34A. Simplified customer due diligence
+
+F92[**34A.**— (1) Subject to *section 33(1)(c)* and *(d)*, a designated person may take the measures specified in *sections 33(2)* and *35* in such manner, to such extent and at such times as is reasonably warranted by the lower risk of money laundering or terrorist financing in relation to a business relationship or transaction where the designated person—
+
+(*a*) identifies in the relevant business risk assessment, an area of lower risk into which the relationship or transaction falls, and
+
+(*b*) considers that the relationship or transaction presents a lower degree of risk.
+
+(2) For the purposes of identifying an area of lower risk a designated person shall have regard to—
+
+(*a*) the matters specified in *section 30A(2)*,
+
+(*b*) the presence of any factor specified in *Schedule 3*, and
+
+(*c*) any additional prescribed factor suggesting potentially lower risk.
+
+(3) Where a designated person applies simplified due diligence measures in accordance with *subsection (1)* it shall—
+
+(*a*) keep a record of the reasons for its determination and the evidence on which it was based, and
+
+(*b*) carry out sufficient monitoring of the transactions and business relationships to enable the designated person to detect unusual or suspicious transactions.
+
+(4) The Minister may prescribe other factors, additional to those specified in *Schedule 3*, to which a designated person is to have regard under *subsection (2)* only if he or she is satisfied that the presence of those factors suggests a potentially lower risk of money laundering or terrorist financing.
+
+(5) For the purposes of *subsection (1)*, a business relationship or transaction may be considered to present a lower degree of risk if a reasonable person having regard to the matters specified in *paragraphs (a)* to *(f)* of *section 30B(1)* would determine that the relationship or transaction presents a lower degree of risk of money laundering or terrorist financing.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 13, S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E25: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 35. Special measures applying to business relationships.
+
+**35**.— (1) A designated person shall obtain information reasonably warranted by the risk of money laundering or terrorist financing on the purpose and intended nature of a business relationship with a customer prior to the establishment of the relationship.
+
+(2) F93[Subject to *section 33(8A)*, a designated person] who is unable to obtain such information, as a result of any failure on the part of the customer, shall not provide the service sought by the customer for so long as the failure continues.
+
+F93[(3) A designated person shall monitor any business relationship that it has with a customer to the extent reasonably warranted by the risk of money laundering or terrorist financing.]
+
+F94[(3A) Prior to the establishment of a business relationship with a customer to which the European Union (Anti-Money Laundering: Beneficial Ownership of Trusts) Regulations 2021 (S.I. No. 194 of 2021) apply, a designated person shall ascertain that information concerning the beneficial ownership of the customer is entered in the relevant trust’s beneficial ownership register or in the Central Register of Beneficial Ownership of trusts, as the case may be.]
+
+F95[(3B) Notwithstanding *subsection (3A)*, a designated person that is a credit institution or a financial institution may allow an account to be opened with it by a customer before ascertaining that the information concerning the beneficial ownership of the customer is entered in the express trust (beneficial ownership) register in accordance with *subsection (3A)* so long as the designated person ensures that transactions in connection with the account are not carried out by or on behalf of the customer or beneficial owner before ascertaining that information.
+
+(3C) Prior to the establishment of a business relationship with a customer to which the European Union (Anti-Money Laundering: Beneficial Ownership of Corporate Entities) Regulations 2019 ( S.I. No. 110 of 2019 ) (modified by the European Union (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles Regulations 2020) ( S.I. No. 233 of 2020 ) apply, a designated person shall ascertain that information concerning the beneficial ownership of the customer is entered in the Central Register of Beneficial Ownership of Companies and Industrial Provident Societies or, as the case may be, the Central Register of Beneficial Ownership of Irish Collective Asset-management Vehicles, Credit Unions and Unit Trusts.
+
+(3D) Notwithstanding *subsection (3C)*, a designated person that is a credit institution or a financial institution may allow an account to be opened with it by a customer before ascertaining that information concerning the beneficial ownership of the customer is entered in the Central Register of Beneficial Ownership of Companies and Industrial Provident Societies or, as the case may be, Central Register of Beneficial Ownership of Irish Collective Asset-management Vehicles, Credit Unions and Unit Trusts in accordance with *subsection (3C)* so long as the designated person ensures that transactions in connection with the account are not carried out by or on behalf of the customer or beneficial owner before ascertaining that information.]
+
+(4) Except as provided by *section 36*, a designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F93: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 14(a), (b), S.I. No. 486 of 2018.
+>
+> F94: Substituted (24.04.2021) by *European Union (Anti-Money Laundering: Beneficial Ownership of Trusts) Regulations 2021* (S.I. No. 194 of 2021), reg. 35, in effect as per reg. 1(2).
+>
+> F95: Inserted (24.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 8, S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: subs. (3A) inserted (24.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 8, S.I. No. 188 of 2021; section substituted as per F-note above.
+
+#### 36. Exemption from section 35(1).
+
+**36**.— F96[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F96: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E27: Previous affecting provision: subs. (1) substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 8, S.I. No. 196 of 2013; section repealed as per F-note above.
+
+#### 36A. Examination of background and purpose of certain transactions
+
+F97[**36A.**— F98[(1) A designated person shall, as far as possible, in accordance with policies and procedures adopted in accordance with *section 54*, examine the background and purpose of all transactions that—
+
+(*a*) are complex,
+
+(*b*) are unusually large,
+
+(*c*) are conducted in an unusual pattern, or
+
+(*d*) do not have an apparent economic or lawful purpose.]
+
+(2) A designated person shall increase the degree and nature of monitoring of a business relationship in order to determine whether transactions referred to in *subsection (1)* appear suspicious.
+
+(3) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 15, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F98: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 9, S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E28: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 37. Enhanced customer due diligence — politically exposed persons.
+
+**37**.— F99[(1) A designated person shall take steps to determine whether or not—
+
+(*a*) a customer, or a beneficial owner connected with the customer or service concerned, or
+
+(*b*) a beneficiary of a life assurance policy or other investment-related assurance policy, or a beneficial owner of the beneficiary,
+
+is a politically exposed person or an immediate family member, or a close associate, of a politically exposed person.]
+
+F99[(2) The designated person shall take the steps referred to in *subsection (1)*—
+
+(*a*) in relation to a person referred to *subsection (1)(a)*, prior to—
+
+(i) establishing a business relationship with the customer, or
+
+(ii) carrying out an occasional transaction with, for or on behalf of the customer or assisting the customer to carry out an occasional transaction,
+
+and
+
+(*b*) in relation to a person mentioned in *subsection (1)(b)*—
+
+(i) prior to the payout of the policy, or
+
+(ii) at the time of the assignment, in whole or in part, of the policy.]
+
+(3) The steps to be taken are such steps as are reasonably warranted by the risk that the customer F100[, or beneficiary] or beneficial owner (as the case may be) is involved in money laundering or terrorist financing.
+
+F101[(4) If a designated person knows or has reasonable grounds to believe that a customer F102[...] is, or has become, a politically exposed person or an immediate family member or close associate of a politically exposed person, the designated person shall—
+
+(*a*) ensure that approval is obtained from senior management of the designated person before a business relationship is established or continued with the customer,
+
+(*b*) determine the source of wealth and of funds for the following transactions—
+
+(i) transactions the subject of any business relationship with the customer that are carried out with the customer or in respect of which a service is sought, or
+
+(ii) any occasional transaction that the designated person carries out with, for or on behalf of the customer or that the designated person assists the customer to carry out,
+
+and
+
+F99[(*c*) in addition to measures to be applied in accordance with *section 35(3)*, apply enhanced monitoring of the business relationship with the customer.]]
+
+F103[(4A) A designated person shall continue to apply the measures referred to in *subsection (4)* to a politically exposed person for as long as is reasonably required to take into account the continuing risk posed by that person and until such time as that person is deemed to pose no further risk specific to politically exposed persons.]
+
+(5) Notwithstanding *subsections (2)(a)* and *(4)(a),* a credit institution F100[or financial institution] may allow a bank account to be opened with it by a customer before taking the steps referred to in *subsection (1)* or seeking the approval referred to in *subsection (4)(a),* so long as the institution ensures that transactions in connection with the account are not carried out by or on behalf of the customer or any beneficial owner concerned before taking the steps or seeking the approval, as the case may be.
+
+(6) If a designated person knows or has reasonable grounds to believe that a beneficial owner F102[...] connected with a customer or with a service sought by a customer, F101[is, or has become, a politically exposed person] or an immediate family member or close associate of a politically exposed person, the designated person shall apply the measures specified in F101[*subsection (4)(a)*, *(b)* and *(c)*] in relation to the customer concerned.
+
+F100[(6A) If a designated person knows or has reasonable grounds to believe that a beneficiary of a life assurance or other investment-related assurance policy, or a beneficial owner of the beneficiary concerned, is a politically exposed person, or an immediate family member or a close associate of a politically exposed person, and that, having regard to section 39, there is a higher risk of money laundering or terrorist financing, it shall—
+
+(*a*) inform senior management before payout of policy proceeds, and
+
+(*b*) conduct enhanced scrutiny of the business relationship with the policy holder.]
+
+(7) For the purposes of F99[*subsections (4)*, *(6)* and *(6A)*], a designated person is deemed to know that another person is a politically exposed person or an immediate family member or close associate of a politically exposed person if, on the basis of—
+
+(*a*) information in the possession of the designated person (whether obtained under *subsections (1)* to *(3)* or otherwise),
+
+(*b*) in a case where the designated person has contravened *subsection (1)* or *(2)*, information that would have been in the possession of the person if the person had complied with that provision, or
+
+(*c*) public knowledge,
+
+there are reasonable grounds for concluding that the designated person so knows.
+
+(8) A designated person who is unable to apply the measures specified in *subsection (1)*, *(3)*, *(4)* or *(6)* in relation to a customer, as a result of any failure on the part of the customer to provide the designated person with documents or information—
+
+(*a*) shall discontinue the business relationship (if any) with the customer for so long as the failure continues, and
+
+(*b*) shall not provide the service or carry out the transaction sought by the customer for so long as the failure continues.
+
+(9) A person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(10) In this section—
+
+“close associate” of a politically exposed person includes any of the following persons:
+
+(*a*) any individual who has joint beneficial ownership of a legal entity or legal arrangement, or any other close business relations, with the politically exposed person;
+
+(*b*) any individual who has sole beneficial ownership of a legal entity or legal arrangement set up for the actual benefit of the politically exposed person;
+
+“immediate family member” of a politically exposed person includes any of the following persons:
+
+(*a*) any spouse of the politically exposed person;
+
+(*b*) any person who is considered to be equivalent to a spouse of the politically exposed person under the national or other law of the place where the person or politically exposed person resides;
+
+(*c*) any child of the politically exposed person;
+
+(*d*) any spouse of a child of the politically exposed person;
+
+(*e*) any person considered to be equivalent to a spouse of a child of the politically exposed person under the national or other law of the place where the person or child resides;
+
+(*f*) any parent of the politically exposed person;
+
+(*g*) any other family member of the politically exposed person who is of a prescribed class;
+
+“politically exposed person” means an individual who is, or has at any time in the preceding 12 months been, entrusted with a prominent public function, including F106[any of the following individuals] (but not including any middle ranking or more junior official):
+
+(*a*) a specified official;
+
+(*b*) a member of the administrative, management or supervisory body of a state-owned enterprise;
+
+F104[(*c*) any individual performing a prescribed function;]
+
+“specified official” means any of the following officials (including any such officials in an institution of the European Communities or an international body):
+
+(*a*) a head of state, head of government, government minister or deputy or assistant government minister;
+
+(*b*) a member of a parliament F100[or of a similar legislative body];
+
+F100[(*bb*) a member of the governing body of a political party;]
+
+(*c*) a member of a supreme court, constitutional court or other high level judicial body whose decisions, other than in exceptional circumstances, are not subject to further appeal;
+
+(*d*) a member of a court of auditors or of the board of a central bank;
+
+F99[(*e*) an ambassador, chargé d’affairs or high-ranking officer in the armed forces;]
+
+F100[(*f*) a director, deputy director or member of the board of, or person performing the equivalent function in relation to, an international organisation.]
+
+(11) The Minister may prescribe a class of family member of a politically exposed person, for the purposes of *paragraph (g)* of the definition of “immediate family member” of a politically exposed person in *subsection (10)*, only if the Minister is satisfied that it would be appropriate for the provisions of this section to be applied in relation to members of the class, having regard to any heightened risk, arising from their close family relationship with the politically exposed person, that such members may be involved in money laundering or terrorist financing.
+
+F105[(12) The Minister may, with the consent of the Minister for Finance, issue guidelines to the competent authorities in respect of functions in the State that may be considered to be prominent public functions and each competent authority shall have regard to any such guidelines.
+
+(13) The Minister may, where he or she believes it is necessary to do so, and with the consent of the Minister for Finance, issue guidelines to the competent authorities for the purpose of facilitating the consistent, effective and risk-based application of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 16(a), (b), (d)(ii), (h), (i)(iii), S.I. No. 486 of 2018.
+>
+> F100: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 16(c), (e), (g), (i)(i), (ii), (iii), S.I. No. 486 of 2018.
+>
+> F101: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 9, S.I. No. 196 of 2013.
+>
+> F102: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 16(d)(ii), (f), S.I. No. 486 of 2018.
+>
+> F103, F104, F105: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 10(a), (b)(ii), (c), S.I. No. 188 of 2021.
+>
+> F106: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 10(b)(i), S.I. No. 188 of 2021.
+
+#### 38. Enhanced customer due diligence — correspondent banking relationships.
+
+F107[**38.**— (1) A credit institution or financial institution ("the institution") shall not enter into a correspondent relationship F108[involving the execution of payments] with another credit institution or financial institution ("the respondent institution") F109[...] unless, prior to commencing the relationship, the institution—
+
+(*a*) has gathered sufficient information about the respondent institution to understand fully the nature of the business of the respondent institution,
+
+(*b*) is satisfied on reasonable grounds, based on publicly available information, that the reputation of the respondent institution, and the quality of supervision or monitoring of the operation of the respondent institution in the place, are sound,
+
+(*c*) is satisfied on reasonable grounds, having assessed the anti-money laundering and anti-terrorist financing controls applied by the respondent institution, that those controls are sound,
+
+(*d*) has ensured that approval has been obtained from the senior management of the institution,
+
+(*e*) has documented the responsibilities of each institution in applying anti-money laundering and anti-terrorist financing controls to customers in the conduct of the correspondent relationship and, in particular—
+
+(i) the responsibilities of the institution arising under this Part, and
+
+(ii) any responsibilities of the respondent institution arising under requirements equivalent to those specified in the Fourth Money Laundering Directive,
+
+and
+
+(*f*) in the case of a proposal that customers of the respondent institution have direct access to a payable-through account held with the institution in the name of the respondent institution, is satisfied on reasonable grounds that the respondent institution—
+
+(i) has identified and verified the identity of those customers, and is able to provide to the institution, upon request, the documents (whether or not in electronic form) or information used by the institution to identify and verify the identity of those customers,
+
+(ii) has applied measures equivalent to the measure referred to in *section 35(1)* in relation to those customers, and
+
+(iii) is applying measures equivalent to the measure referred to in *section 35(3)* in relation to those customers.
+
+(2) A person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 17, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F108: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 11, S.I. No. 188 of 2021.
+>
+> F109: Deleted (28.02.2024) by *Finance (State Guarantees, International Financial Institution Funds and Miscellaneous Provisions) Act 2024* (3/224), s. 22, S.I. No. 69 of 2024, art. 2.
+
+#### 38A. Enhanced customer due diligence - high-risk third countries
+
+F110[**38A.**— F111[(1) Subject to *subsection (2)*, a designated person shall apply the following measures to manage and mitigate the risk of money laundering and terrorist financing additional to those specified in this chapter, when dealing with a customer established or residing in a high-risk third country:
+
+(*a*) obtaining additional information on the customer and on the beneficial owner;
+
+(*b*) obtaining additional information on the intended nature of the business relationship;
+
+(*c*) obtaining information on the source of funds and source of wealth of the customer and of the beneficial owner;
+
+(*d*) obtaining information on the reasons for the intended or performed transactions;
+
+(*e*) obtaining the approval of senior management for establishing or continuing the business relationship;
+
+(*f*) conducting enhanced monitoring of the business relationship by increasing the number and timing of controls applied and selecting patterns of transaction that need further examination.]
+
+(2) *Subsection (1)* shall not apply where—
+
+(*a*) the customer is a branch or majority-owned subsidiary of a designated person and is located in a high-risk third country,
+
+(*b*) the designated person referred to in paragraph (a) is established in a Member State, and
+
+(*c*) the branch or majority-owned subsidiary referred to in *paragraph (a)* is in compliance with the group-wide policies and procedures of the group of which it is a member adopted in accordance with Article 45 of the Fourth Money Laundering Directive.
+
+(3) In the circumstances specified in *subsection (2)*, the designated person shall—
+
+(*a*) identify and assess the risk of money laundering or terrorist financing in relation to the business relationship or transaction concerned, having regard to *section 30B*, and
+
+(*b*) apply customer due diligence measures specified in this Chapter to the extent reasonably warranted by the risk of money laundering or terrorist financing.
+
+(4) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F110: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 18, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F111: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 12, S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E29: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 39. Enhanced due diligence in cases of heightened risk
+
+F112[F113[**39.**— (1) Without prejudice to *sections 37*, *38* and *59*, a designated person shall apply measures to manage and mitigate the risk of money laundering or terrorist financing, additional to those specified in this Chapter, to a business relationship or transaction that presents a higher degree of risk.
+
+(2) For the purposes of *subsection (1)* a business relationship or transaction shall be considered to present a higher degree of risk if a reasonable person having regard to the matters specified in *paragraphs (a)* to *(f)* of *section 30B(1)* would determine that the business relationship or transaction presents a higher risk of money laundering or terrorist financing.
+
+(3) The Minister may prescribe other factors, additional to those specified in *Schedule 4*, suggesting potentially higher risk only if he or she is satisfied that the presence of those factors suggests a potentially higher risk of money laundering or terrorist financing.
+
+(4) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 10, S.I. No. 196 of 2013.
+>
+> F113: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 19, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 40. Reliance on other persons to carry out customer due diligence.
+
+**40**.— (1) In this section, “relevant third party” means—
+
+(*a*) a person, carrying on business as a designated person in the State—
+
+(i) that is a credit institution,
+
+(ii) that is a financial institution (other than an undertaking that is a financial institution solely because the undertaking provides either foreign exchange services or payment services, or both),
+
+(iii) who is an external accountant or auditor and who is also a member of a designated accountancy body,
+
+(iv) who is a tax adviser, and who is also a solicitor or a member of a designated accountancy body or of the Irish Taxation Institute,
+
+(v) who is a relevant independent legal professional, or
+
+(vi) who is a trust or company service provider, and who is also a member of a designated accountancy body, a solicitor or authorised to carry on business by the F114[Central Bank of Ireland],
+
+(*b*) a person carrying on business in another Member State who is supervised or monitored for compliance with the requirements specified in F115[the Fourth Money Laundering Directive, in accordance with Section 2 of Chapter VI of that Directive] and is—
+
+(i) a credit institution authorised to operate as a credit institution under the laws of the Member State,
+
+(ii) a financial institution (other than an undertaking that is a financial institution solely because the undertaking provides either foreign exchange services or payment services, or both) and authorised to operate as a financial institution under the laws of the Member State, or
+
+(iii) an external accountant, auditor, tax adviser, legal professional or trust or company service provider subject to mandatory professional registration or mandatory professional supervision under the laws of the other Member State,
+
+F116[...]
+
+(*c*) a person who carries on business in F115[a place (other than a Member State) which is not a high-risk third country], is supervised or monitored in the place for compliance with requirements equivalent to those specified in F115[the Fourth Money Laundering Directive], and is—
+
+(i) a credit institution authorised to operate as a credit institution under the laws of the place,
+
+(ii) a financial institution (other than an undertaking that is a financial institution solely because the undertaking provides either foreign exchange services or payment services, or both) authorised to operate as a financial institution under the laws of the place, or
+
+(iii) an external accountant, auditor, tax adviser, legal professional or trust or company service provider subject to mandatory professional registration or mandatory professional supervision under the laws of F115[the place, or]
+
+F117[(*d*) a person who carries on business in a high-risk third country, is a branch or majority-owned subsidiary of an obliged entity established in the Union, and fully complies with group-wide policies and procedures in accordance with Article 45 of the Fourth Money Laundering Directive and is—
+
+(i) a credit institution authorised to operate as a credit institution under the laws of the place,
+
+(ii) a financial institution (other than an undertaking that is a financial institution solely because the undertaking provides either foreign exchange services or payment services, or both) authorised to operate as a financial institution under the laws of the place, or
+
+(iii) an external accountant, auditor, tax adviser, legal professional or trust or company service provider subject to mandatory professional registration or mandatory professional supervision under the laws of the place.]
+
+F117[(1A) Without prejudice to the generality of *paragraphs (b)* and *(c)* of *subsection (1)*, for the purposes of those paragraphs, a person is supervised or monitored for compliance with the requirements specified in the Fourth Money Laundering Directive, in accordance with Section 2 of Chapter VI, or requirements equivalent to those requirements, where—
+
+(*a*) the person and the designated person seeking to rely upon this section are part of the same group,
+
+(*b*) the group applies customer due diligence and record keeping measures and policies and procedures to prevent and detect the commission of money laundering and terrorist financing in accordance with the Fourth Money Laundering Directive or requirements equivalent to those specified in the Fourth Money Laundering Directive, and
+
+(*c*) the effective implementation of the requirements referred to in *paragraph (b)* is supervised at group level by a competent authority of the state where the parent company is incorporated.]
+
+(2) A reference in *subsection (1)(b)(iii)* and *(c)(iii)* to a legal professional is a reference to a person who, by way of business, provides legal or notarial services.
+
+(3) Subject to *subsections (4)* and *(5)*, a designated person may rely on a relevant third party to apply, in relation to a customer of the designated person, any of the measures that the designated person is required to apply, in relation to the customer, under *section 33* or *35 (1)*.
+
+(4) A designated person may rely on a relevant third party to apply a measure under *section 33* or *35 (1)* only if—
+
+(*a*) there is an arrangement between the designated person (or, in the case of a designated person who is an employee, the designated person’s employer) and the relevant third party under which it has been agreed that the designated person may rely on the relevant third party to apply any such measure, and
+
+(*b*) F115[the designated person is satisfied that the circumstances specified in *paragraphs (a)* to *(c)* of *subsection (1A)* exist, or] on the basis of the arrangement, that the relevant third party will forward to the designated person, as soon as practicable after a request from the designated person, any documents (whether or not in electronic form) or information relating to the customer F118[(including any information from relevant trust services as set out in the Electronic Identification Regulation)] that has been obtained by the relevant third party in applying the measure.
+
+(5) A designated person who relies on a relevant third party to apply a measure under *section 33* or *35(1)* remains liable, under *section 33* or *35(1)*, for any failure to apply the measure.
+
+(6) A reference in this section to a relevant third party on whom a designated person may rely to apply a measure under *section 33* or *35(1)* does not include a reference to a person who applies the measure as an outsourcing service provider or an agent of the designated person.
+
+(7) Nothing in this section prevents a designated person applying a measure under *section 33* or *35(1)* by means of an outsourcing service provider or agent provided that the designated person remains liable for any failure to apply the measure.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F114: Substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14 par. 33, S.I. No. 469 of 2010.
+>
+> F115: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 20(a)(i), (iii), (c), S.I. No. 486 of 2018.
+>
+> F116: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 20(a)(ii), S.I. No. 486 of 2018.
+>
+> F117: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 20(a)(iv), (b), S.I. No. 486 of 2018.
+>
+> F118: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 13, S.I. No. 188 of 2021.
+
+### Chapter 3AFinancial Intelligence Unit — F119[Chapter 3A — Financial Intelligence Unit] — Annotations Amendments: Inserted (26.11.2018) by Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018 (26/2018), s. 21, S.I. No. 486 of 2018. The chapter heading is taken from the chapter contents in the absence of a heading included in the amendment.
+
+#### 40A. State Financial Intelligence Unit
+
+F120[**40A.**— (1) FIU Ireland may carry out, on behalf of the State, all the functions of an EU Financial Intelligence Unit (FIU) under the Fourth Money Laundering F121[Directive and Directive (EU) 2019/1153].
+
+(2) In this Part "FIU Ireland" means those members of the F122[members of garda staff (within the meaning of the Policing, Security and Community Safety Act 2024)] appointed by the Commissioner of the Garda Síochána.]
+
+F123[(3) In this Chapter the following have the same meaning as they have in Directive (EU) 2019/1153:
+
+(*a*) associate predicate offences;
+
+(*b*) financial analysis;
+
+(*c*) financial information;
+
+(*d*) serious criminal offences.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F120: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 21, S.I. No. 486 of 2018.
+>
+> F121: Substituted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 9(a).
+>
+> F122: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 283, S.I. No. 107 of 2025.
+>
+> F123: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 9(b).
+
+#### 40B. Powers of FIU Ireland to receive and analyse information
+
+F124[**40B.**— (1) FIU Ireland shall be responsible for receiving and analysing suspicious transaction reports and other information relevant to money laundering or terrorist financing for the purpose of preventing, detecting and investigating possible money laundering or terrorist financing.
+
+(2) FIU Ireland’s analysis function shall consist of conducting—
+
+(*a*) an operational analysis which focuses on individual cases and specific targets or on appropriate selected information depending on the type and volume of the disclosures received and the expected use of the information after dissemination, and
+
+(*b*) a strategic analysis addressing money laundering and terrorist financing trends and patterns.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F124: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 21, S.I. No. 486 of 2018.
+
+#### 40C. Powers of certain members of FIU Ireland to obtain information
+
+F125[**40C.**— (1) A member of the Garda Síochána who is a member of FIU Ireland shall have access to the central registers established by the State for the purposes of paragraph (3) of Article 30 and paragraph (4) of Article 31 of the Fourth Money Laundering Directive.
+
+(2) A member of the Garda Síochána who is a member of FIU Ireland may, for the purposes of preventing, detecting, investigating or combating money laundering or terrorist financing request any person to provide FIU Ireland with information held by that person under any enactment giving effect to paragraph (1) of Article 30 or paragraph (1) of Article 31 of the Fourth Money Laundering Directive.
+
+(3) A member of the Garda Síochána who is a member of FIU Ireland may make a request in writing for any financial, administrative or law enforcement information that FIU Ireland requires in order to carry out its functions from any of the following:
+
+(*a*) a designated person;
+
+(*b*) a competent authority;
+
+(*c*) the Revenue Commissioners;
+
+(*d*) the Minister for Employment Affairs and Social Protection.
+
+(4) A designated person who, without reasonable excuse, fails to comply with a request for information under *subsection (2)* or *(3)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment to a fine not exceeding €500,000 or imprisonment not exceeding 3 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 21, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 40CA. Requests by FIU Ireland to Article 3(2) authorities
+
+F126[**40CA.**— (1) An Article 3(2) authority shall reply, in a timely manner, to reasoned and necessary requests by a member of the Garda Síochána who is appointed to FIU Ireland, made on a case-by-case basis, for law enforcement information, where the information is necessary for the prevention, detection and combating of money laundering, associate predicate offences and terrorist financing.
+
+(2) In this section—
+
+"law enforcement information" has the same meaning as it has in Directive (EU) 2019/1153;
+
+"terrorist financing" has the same meaning as it has in Directive (EU) 2019/1153.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F126: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 10.
+
+#### 40D. Power of FIU Ireland to respond to requests for information from competent authorities
+
+F127[**40D.**— (1) FIU Ireland shall respond as soon as practicable to any request for information which is based on a concern relating to money laundering or terrorist financing that it receives from—
+
+(*a*) a competent authority,
+
+(*b*) the Revenue Commissioners, or
+
+(*c*) the Minister for Employment Affairs and Social Protection.
+
+(2) FIU Ireland may provide the results of its analyses and any additional relevant information to a person mentioned in *subsection (1)* where there are grounds to suspect money laundering or terrorist financing.
+
+(3) FIU Ireland shall be under no obligation to comply with the request for information where there are objective grounds for assuming that the provision of such information would have a negative impact on ongoing investigations or analyses, or, in exceptional circumstances, where disclosure of the information would be clearly disproportionate to the legitimate interests of a natural or legal person or irrelevant with regard to the purposes for which it has been requested.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 21, S.I. No. 486 of 2018.
+
+#### 40DA. Requests by Article 3(2) authorities to FIU Ireland
+
+F128[**40DA.**— (1) Subject to *subsection (2)*, FIU Ireland shall cooperate with the Article 3(2) authorities and shall reply, in a timely manner, to reasoned and necessary requests by those authorities, made on a case-by-case basis, for financial information or financial analysis, where the requests are motivated by concerns relating to the prevention, detection, investigation or prosecution of serious criminal offences.
+
+(2) FIU Ireland shall not be obliged to comply with requests referred to in *subsection (1)* –
+
+(*a*) where, in the opinion of FIU Ireland, there are objective grounds for assuming that the provision of such information would have a negative impact on ongoing investigations or analyses, or
+
+(*b*) in exceptional circumstances, where, in the opinion of FIU Ireland, disclosure of the information would be clearly disproportionate to the legitimate interests of a natural or legal person, or irrelevant with regard to the purposes for which it has been requested.
+
+(3) The financial information or financial analysis obtained by an Article 3(2) authority as a result of a request referred to in *subsection (1)* may only be used for a purpose other than the purpose of the request where FIU Ireland has given its prior consent.
+
+(4) Where FIU Ireland refuses to accede to a request referred to in *subsection (1)*, it shall provide an appropriate explanation for the refusal to the Article 3(2) authority concerned.
+
+(5) The Article 3(2) authorities may process the financial information and financial analysis received from FIU Ireland for the specific purposes of preventing, detecting, investigating or prosecuting serious criminal offences.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F128: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 11.
+
+#### 40E. Power of FIU Ireland to share information
+
+F129[**40E.**— (1) FIU Ireland may share information with other Financial Intelligence Units (FIUs), in accordance with subsection III of Section 3 of Chapter VI of F130[the Fourth Money Laundering Directive (as amended by the Fifth Money Laundering Directive)].
+
+(2) FIU Ireland may provide any information obtained by it—
+
+(a) from a central register referred to in *section 40C(1)*, or
+
+(b) following a request under *subsection (2)* or *(3)* of *section 40C*,
+
+to a competent authority or to another FIU.]
+
+F131[(3) FIU Ireland may provide any information obtained by it from the Central Mechanism (within the meaning of the European Union (Anti-Money Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022 (S.I. No. 46 of 2022)) to another FIU.]
+
+F132[(4) Without prejudice to *subsection (1)*, in exceptional and urgent cases and insofar as is practicable in a prompt manner, FIU Ireland may exchange with other FIUs financial information or financial analysis that may be relevant for the processing or analysis of information related to terrorism or organised crime associated with terrorism.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F129: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 21, S.I. No. 486 of 2018.
+>
+> F130: Substituted (3.02.2022) by *European Union (Anti-Money Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022* (S.I. No. 46 of 2022), reg. 8(a).
+>
+> F131: Inserted (3.02.2022) by *European Union (Anti-Money Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022* (S.I. No. 46 of 2022), reg. 8(b).
+>
+> F132: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 12.
+
+#### 40F. Exchange of financial information or financial analysis
+
+F133[**40F.**— (1) An Article 3(2) authority may share financial information or financial analysis obtained from FIU Ireland, upon request and on a case-by-case basis, with an authority in another Member State that has been designated by that Member State under Article 3(2) of Directive (EU) 2019/1153, where that financial information or financial analysis is necessary for the prevention, detection and combating of money laundering, associate predicate offences and terrorist financing.
+
+(2) Any –
+
+(*a*) dissemination of financial information or financial analysis obtained by an Article 3(2) authority from FIU Ireland to any other authority, agency or department, or
+
+(*b*) use of that information or analysis for purposes other than those for which the information was originally provided by FIU Ireland,
+
+shall be subject to the prior consent of FIU Ireland.
+
+(3) An Article 3(2) authority may request from an authority in another Member State that has been designated by that Member State under Article 3(2) of Directive (EU) 2019/1153, on a case-by-case basis, financial information or financial analysis that was obtained from the Financial Intelligence Unit in that Member State, where the financial information or financial analysis is necessary for the prevention, detection and combating of money laundering, associate predicate offences and terrorist financing.
+
+(4) An Article 3(2) authority that receives financial information or financial analysis pursuant to a request under *subsection (3)* shall use that information or analysis only for the purpose for which it was sought or provided.
+
+(5) FIU Ireland and Article 3(2) authorities shall ensure that financial information and financial analysis requested or shared under this section shall be transmitted using dedicated secure electronic communications ensuring a high level of data security.
+
+(6) In this section "terrorist financing" has the same meaning as it has in Directive (EU) 2019/1153.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F133: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 13.
+
+#### 40G. Exchange of information between Europol and FIU Ireland
+
+F134[**40G.**— (1) FIU Ireland may reply to Europol to duly justified requests related to financial information and financial analysis made by Europol on a case-by-case basis within the limits of Europol’s responsibilities and for the performance of Europol’s tasks.
+
+(2) FIU Ireland shall be under no obligation to comply with a request referred to in *subsection (1)* where there are objective grounds for assuming that the provision of the financial information and financial analysis to which the request relates would have a negative impact on ongoing investigations or analyses, or, in exceptional circumstances, where disclosure of the information and analysis would be clearly disproportionate to the legitimate interests of a natural or legal person or irrelevant with regard to the purposes for which it has been requested.
+
+(3) FIU Ireland shall be under no obligation to comply with a request referred to in *subsection (1)* where to do so would —
+
+(*a*) be contrary to the essential interests of the security of the State,
+
+(*b*) jeopardise the success of an ongoing investigation or the safety of an individual, or
+
+(*c*) disclose information relating to organisations or specific intelligence activities in the field of national security, but FIU Ireland shall comply with the request as soon as the financial information or financial analysis in question ceases to fall within the scope of *paragraphs (a)*, *(b)* or *(c)*.
+
+(4) FIU Ireland shall –
+
+(*a*) provide an appropriate explanation to Europol for any failure to comply with a request made under *subsection (1)*,
+
+(*b*) ensure that requests under *subsection (1)* are dealt with in a timely manner, and in any event no later than requests from FIUs (as referred to in *section 40A(1)*) in other Member States, and
+
+(*c*) ensure that replies to requests under *subsection (1)* are made in accordance with Regulation (EU) 2016/794 electronically through —
+
+(i) the information exchange network commonly known as SIENA, or its successor, in the language applicable to SIENA, or
+
+(ii) where applicable, to the computer network commonly known as FIU.net, or its successor.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F134: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 13.
+
+#### 40H. Processing of certain special categories of personal data
+
+F135[**40H.**— (1) Article 3(2) authorities and FIU Ireland shall, in respect of information exchanged pursuant to *section 40CA*, *section 40DA*, *section 40E(4)*, *section 40F* and *section 40G*, ensure that only staff who have been specifically trained and specifically authorised may process the following special categories of personal data under the guidance of a data protection officer:
+
+(*a*) personal data revealing —
+
+(i) the racial or ethnic origin of the data subject,
+
+(ii) the political opinions or the religious or philosophical beliefs of the data subject, or
+
+(iii) whether the data subject is a member of a trade union;
+
+(*b*) data concerning health;
+
+(*c*) personal data concerning an individual’s sex life or sexual orientation.
+
+(2) In this section the following expressions shall have the meaning that they have in section 69 of the Data Protection Act 2018:
+
+"data subject";
+
+"personal data";
+
+"processing";
+
+"special categories of personal data".]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F135: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 13.
+
+#### 40I. Records of certain information requests
+
+F136[**40I.**— (1) Article 3(2) authorities and FIU Ireland shall keep records of requests made and received under *section 40CA*, *section 40DA*, *section 40E(4)*, *section 40F* and *section 40G*.
+
+(2) The records made shall include -
+
+(*a*) the name and contact details of the organisation and of the staff member requesting the information and, as far as possible, of the recipient of the results of the query or search,
+
+(*b*) the reference to the national case in relation to which the information is requested,
+
+(*c*) the subject matter of the requests, and
+
+(*d*) any executing measures of such requests.
+
+(3) The records shall be –
+
+(*a*) kept for a period of five years after their creation, and
+
+(*b*) used solely for the purpose of checking the lawfulness of the processing of personal data.
+
+(4) Article 3(2) authorities and FIU Ireland shall make all records available to the Data Protection Commission upon its request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F136: Inserted (2.02.2023) by *European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023* (S.I. No. 22 of 2023), reg. 13.
+
+### Chapter 4 Reporting of suspicious transactions and of transactions involving certain places — Chapter 4 — Reporting of suspicious transactions and of transactions involving certain places
+
+#### 41. Interpretation (Chapter 4).
+
+**41**.— In this Chapter, a reference to a designated person includes a reference to any person acting, or purporting to act, on behalf of the designated person, including any agent, employee, partner, director or other officer of, or any person engaged under a contract for services with, the designated person.
+
+#### 42. Requirement for designated persons and related persons to report suspicious transactions.
+
+**42**.— (1) A designated person who knows, suspects or has reasonable grounds to suspect, on the basis of information obtained in the course of carrying on business as a designated person, that another person has been or is engaged in an offence of money laundering or terrorist financing shall report to F137[FIU Ireland] and the Revenue Commissioners that knowledge or suspicion or those reasonable grounds.
+
+(2) The designated person shall make the report as soon as practicable after acquiring that knowledge or forming that suspicion, or acquiring those reasonable grounds to suspect, that the other person has been or is engaged in money laundering or terrorist financing.
+
+(3) For the purposes of *subsections (1)* and *(2)*, a designated person is taken not to have reasonable grounds to know or suspect that another person commits an offence on the basis of having received information until the person has scrutinised the information in the course of reasonable business practice (including automated banking transactions).
+
+(4) For the purposes of *subsections (1)* and *(2)*, a designated person may have reasonable grounds to suspect that another person has been or is engaged in an offence of money laundering or terrorist financing if the designated person is unable to apply any measures specified in *section 33(2)* or *(4)*, *35(1)* or *37(1)*, *(3)*, *(4)* or *(6),* in relation to a customer, as a result of any failure on the part of the customer to provide the designated person with documents or information.
+
+(5) Nothing in *subsection (4)* limits the circumstances in which a designated person may have reasonable grounds, on the basis of information obtained in the course of carrying out business as a designated person, to suspect that another person has committed an offence of money laundering or terrorist financing.
+
+(6) A designated person who is required to report under this section shall disclose the following information in the report:
+
+(*a*) the information on which the designated person’s knowledge, suspicion or reasonable grounds are based;
+
+(*b*) the identity, if the designated person knows it, of the person who the designated person knows, suspects or has reasonable grounds to suspect has been or is engaged in an offence of money laundering or terrorist financing;
+
+(*c*) the whereabouts, if the designated person knows them, of the property the subject of the money laundering, or the funds the subject of the terrorist financing, as the case may be;
+
+(*d*) any other relevant information.
+
+F138[(6A) A designated person who is required to make a report under this section shall respond to any request for additional information by FIU Ireland or the Revenue Commissioners as soon as practicable after receiving the request and shall take all reasonable steps to provide any information specified in the request.]
+
+(7) A designated person who is required to make a report under this section shall not proceed with any suspicious transaction or service connected with the report, or with a transaction or service the subject of the report, prior to the sending of the report to F137[FIU Ireland] and the Revenue Commissioners unless—
+
+(*a*) it is not practicable to delay or stop the transaction or service from proceeding, or
+
+(*b*) the designated person is of the reasonable opinion that failure to proceed with the transaction or service may result in the other person suspecting that a report may be (or may have been) made or that an investigation may be commenced or in the course of being conducted.
+
+(8) Nothing in *subsection (7)* authorises a designated person to proceed with a service or transaction if the person has been directed or ordered not to proceed with the service or transaction under *section 17* and the direction or order is in force.
+
+(9) Except as provided by *section 46*, a person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(10) A reference in *subsection (7)* to a suspicious transaction or service is a reference to a transaction or service that there are reasonable grounds for suspecting would, if it were to proceed—
+
+(*a*) comprise money laundering or terrorist financing, or
+
+(*b*) assist in money laundering or terrorist financing.
+
+F139[(11) FIU Ireland shall, where practicable, provide timely feedback to a designated person who is required to make a report under this section on the effectiveness of and follow-up to reports made to it under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F137: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 22(a), (b), S.I. No. 486 of 2018.
+>
+> F138: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 22(c), S.I. No. 486 of 2018.
+>
+> F139: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 14, S.I. No. 188 of 2021.
+
+#### 43. Requirement for designated persons to report transactions connected with places designated under section 32.
+
+**43**.— F140[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+
+#### 44. Defence — internal reporting procedures.
+
+**44**.— (1) Without prejudice to the way in which a report may be made under *section 42* F141[...], such a report may be made in accordance with an internal reporting procedure established by an employer for the purpose of facilitating the operation of the section concerned.
+
+(2) It is a defence for a person charged with an offence under *section 42* F141[...] to prove that the person was, at the time of the purported offence, an employee who made a report under that section, in accordance with such an internal reporting procedure, to another person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 23, S.I. No. 486 of 2018.
+
+#### 45. Use of reported and other information in investigations.
+
+**45**.— (1) Information included in a report under this Chapter may be used in an investigation into money laundering or terrorist financing or any other offence.
+
+(2) Nothing in this section limits the information that may be used in an investigation into any offence.
+
+#### 46. Disclosure not required in certain circumstances.
+
+**46**.— (1) Nothing in this Chapter requires the disclosure of information that is subject to legal privilege.
+
+(2) Nothing in this Chapter requires a relevant professional adviser to disclose information that he or she has received from or obtained in relation to a client in the course of ascertaining the legal position of the client.
+
+(3) *Subsection (2)* does not apply to information received from or obtained in relation to a client with the intention of furthering a criminal purpose.
+
+#### 47. Disclosure not to be treated as breach.
+
+**47**.— The disclosure of information by a person in accordance with this Chapter shall not be treated, for any purpose, as a breach of any restriction imposed by any other enactment or rule of law on disclosure by the person or any other person on whose behalf the disclosure is made.
+
+### Chapter 5 Tipping off by designated persons — Chapter 5 — Tipping off by designated persons
+
+#### 48. Interpretation (Chapter 5).
+
+**48**.— In this Chapter, “legal adviser” means a barrister or solicitor.
+
+#### 49. Tipping off.
+
+**49**.— (1) A designated person who knows or suspects, on the basis of information obtained in the course of carrying on business as a designated person, that a report has been, or is required to be, made under *Chapter 4* shall not make any disclosure that is likely to prejudice an investigation that may be conducted following the making of the report under that Chapter.
+
+(2) A designated person who knows or suspects, on the basis of information obtained by the person in the course of carrying on business as a designated person, that an investigation is being contemplated or is being carried out into whether an offence of money laundering or terrorist financing has been committed, shall not make any disclosure that is likely to prejudice the investigation.
+
+(3) A person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(4) In this section, a reference to a designated person includes a reference to any person acting, or purporting to act, on behalf of the designated person, including any agent, employee, partner, director or other officer of, or any person engaged under a contract for services with, the designated person.
+
+#### 50. Defence — disclosure to customer in case of direction or order to suspend service or transaction.
+
+**50**.— It is a defence in any proceedings against a person (“the defendant”) for an offence under *section 49*, in relation to a disclosure, for the defendant to prove that—
+
+(*a*) the disclosure was to a person who, at the time of the disclosure, was a customer of the defendant or of a designated person on whose behalf the defendant made the disclosure,
+
+(*b*) the defendant, or the designated person on whose behalf the defendant made the disclosure, was directed or ordered under *section 17* not to carry out any specified service or transaction in respect of the customer, and
+
+(*c*) the disclosure was solely to the effect that the defendant, or a designated person on whose behalf the defendant made the disclosure, had been directed by a member of the Garda Síochána, or ordered by a judge of the District Court, under *section 17* not to carry out the service or transaction for the period specified in the direction or order.
+
+#### 51. Defences — disclosures within undertaking or group.
+
+**51**.— (1) It is a defence in any proceedings against an individual for an offence under *section 49*, in relation to a disclosure, for the individual to prove that, at the time of the disclosure—
+
+(*a*) he or she was an agent, employee, partner, director or other officer of, or was engaged under a contract for services by, an undertaking, and
+
+(*b*) he or she made the disclosure to an agent, employee, partner, director or other officer of, or a person engaged under a contract for services by, the same undertaking.
+
+F142[(2) It is a defence in any proceedings against a person for an offence under *section 49*, in relation to a disclosure, for the person to prove that, at the time of the disclosure—
+
+(*a*) the person was a credit institution or financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution, or made the disclosure on behalf of a credit institution or a financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution, and
+
+(*b*) the disclosure was to—
+
+(i) a credit institution or financial institution incorporated in a Member State, where both the institution making the disclosure, or on whose behalf the disclosure was made, and the institution to which it was made belonged to the same group, or
+
+(ii) a majority-owned subsidiary or branch situated in a third country of a credit institution or financial institution incorporated in a Member State, where the subsidiary or branch was in compliance with group-wide policies and procedures adopted in accordance with *section 54*, or, as the case may be, Article 45 of the Fourth Money Laundering Directive.]
+
+(3) It is a defence in any proceedings against a person for an offence under *section 49*, in relation to a disclosure, for the person to prove that, at the time of the disclosure—
+
+(*a*) the person was a legal adviser or relevant professional adviser,
+
+(*b*) both the person making the disclosure and the person to whom it was made carried on business in a Member State F143[or in a country other than a high-risk third country], and
+
+(*c*) those persons performed their professional activities within different undertakings that shared common ownership, management or control.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 15, S.I. No. 188 of 2021.
+>
+> F143: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 24(b), S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: subss. (2) substituted by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 24(a), S.I. No. 486 of 2018; substituted as per F-note above.
+
+#### 52. Defences — other disclosures between institutions or professionals.
+
+**52**.— (1) This section applies to a disclosure—
+
+(*a*) by or on behalf of a credit institution to another credit institution,
+
+(*b*) by or on behalf of a financial institution to another financial institution,
+
+(*c*) by or on behalf of a legal adviser to another legal adviser, or
+
+(*d*) by or on behalf of a relevant professional adviser of a particular kind to another relevant professional adviser of the same kind.
+
+(2) It is a defence in any proceedings against a person for an offence under *section 49*, in relation to a disclosure to which this section applies, for the person to prove that, at the time of the disclosure—
+
+(*a*) the disclosure related to—
+
+(i) a customer or former customer of the person (or an institution or adviser on whose behalf the person made the disclosure) and the institution or adviser to which or whom it was made, or
+
+(ii) a transaction, or the provision of a service, involving both the person (or an institution or adviser on whose behalf the person made the disclosure) and the institution or adviser to which or whom it was made,
+
+(*b*) the disclosure was only for the purpose of preventing money laundering or terrorist financing,
+
+(*c*) the institution or adviser to which or whom the disclosure was made was situated in a Member State or in F144[a country other than a high-risk third country], and
+
+(*d*) the institution or adviser making the disclosure, or on whose behalf the disclosure was made, and the institution or adviser to which or whom it was made were subject to equivalent duties of professional confidentiality and the protection of personal data F145[...].
+
+(3) A reference in this section to a customer of an adviser includes, in the case of an adviser who is a barrister, a reference to a person who is a client of a solicitor who has sought advice from the barrister for or on behalf of the client.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 25, S.I. No. 486 of 2018.
+>
+> F145: Deleted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 213(b), S.I. No. 174 of 2018.
+
+#### 53. Defences — other disclosures.
+
+**53**.— (1) It is a defence in any proceedings against a person for an offence under *section 49*, in relation to a disclosure, for the person to prove that—
+
+(*a*) the disclosure was to the authority that, at the time of the disclosure, was the competent authority responsible for monitoring that person, or for monitoring the person on whose behalf the disclosure was made, under this Part,
+
+(*b*) the disclosure was for the purpose of the detection, investigation or prosecution of an offence (whether or not in the State), or
+
+(*c*) the person did not know or suspect, at the time of the disclosure, that the disclosure was likely to have the effect of prejudicing an investigation into whether an offence of money laundering or terrorist financing had been committed.
+
+(2) It is a defence in any proceedings against a person for an offence under *section 49*, in relation to a disclosure, for the person to prove that—
+
+(*a*) at the time of the disclosure, the person was a legal adviser or relevant professional adviser,
+
+(*b*) the disclosure was to the person’s client and solely to the effect that the person would no longer provide the particular service concerned to the client,
+
+(*c*) the person no longer provided the particular service after so informing the client, and
+
+(*d*) the person made any report required in relation to the client in accordance with *Chapter 4*.
+
+### Chapter 6 Internal policies and procedures, training and record keeping — Chapter 6 — Internal policies and procedures, training and record keeping
+
+#### 54. Internal policies and procedures and training.
+
+F146[**54.**— (1) A designated person shall adopt internal policies, controls and procedures in relation to the designated person’s business to prevent and detect the commission of money laundering and terrorist financing.
+
+(2) In particular, a designated person shall adopt internal policies, controls and procedures to be followed by any persons involved in carrying out the obligations of the designated person under this Part.
+
+(3) The internal policies, controls and procedures referred to in *subsection (1)* shall include policies, controls and procedures dealing with—
+
+(*a*) the identification, assessment, mitigation and management of risk factors relating to money laundering or terrorist financing,
+
+(*b*) customer due diligence measures,
+
+(*c*) monitoring transactions and business relationships,
+
+(*d*) the identification and scrutiny of complex or large transactions, unusual patterns of transactions that have no apparent economic or visible lawful purpose and any other activity that the designated person has reasonable grounds to regard as particularly likely, by its nature to be related to money laundering or terrorist financing,
+
+(*e*) measures to be taken to prevent the use for money laundering or terrorist financing of transactions or products that could favour or facilitate anonymity,
+
+(*f*) measures to be taken to prevent the risk of money laundering or terrorist financing which may arise from technological developments including the use of new products and new practices and the manner in which services relating to such developments are delivered,
+
+(*g*) reporting (including the reporting of suspicious transactions),
+
+(*h*) record keeping,
+
+(*i*) measures to be taken to keep documents and information relating to the customers of that designated person up to date,
+
+(*j*) measures to be taken to keep documents and information relating to risk assessments by that designated person up to date,
+
+(*k*) internal systems and controls to identify emerging risks and keep business-wide risk assessments up to date, and
+
+(*l*) monitoring and managing compliance with, and the internal communication of, these policies, controls and procedures.
+
+(4) A designated person shall ensure that policies, controls and procedures adopted in accordance with this section are approved by senior management and shall keep such policies, controls and procedures under review, in particular when there are changes to the business profile or risk profile of the designated person.
+
+(5) In preparing internal policies, controls and procedures under this section, the designated person shall have regard to any guidelines on preparing, implementing and reviewing such policies and procedures that are issued by the competent authority for that designated person.
+
+(6) A designated person shall ensure that persons involved in the conduct of the designated person’s business are—
+
+(*a*) instructed on the law relating to money laundering and terrorist financing, and
+
+(*b*) provided with ongoing training on identifying a transaction or other activity that may be related to money laundering or terrorist financing, and on how to proceed once such a transaction or activity is identified.
+
+F147[(6A) A designated person shall have in place appropriate procedures for their employees, or persons in a comparable position, to report a contravention of this Act internally through a specific, independent and anonymous channel, proportionate to the nature and size of the designated person concerned.]
+
+(7) A designated person shall appoint an individual at management level, (to be called a "compliance officer") to monitor and manage compliance with, and the internal communication of, internal policies, controls and procedures adopted by the designated person under this section if directed in writing to do so by the competent authority for that designated person.
+
+(8) A designated person shall appoint a member of senior management with primary responsibility for the implementation and management of anti-money laundering measures in accordance with this Part if directed in writing to do so by the competent authority for that designated person.
+
+(9) A designated person shall undertake an independent, external audit to test the effectiveness of the internal policies, controls and procedures outlined in this section if directed in writing to do so by the competent authority for that designated person.
+
+(10) A reference in this section to persons involved in carrying out the obligations of the designated person under this Part includes a reference to directors and other officers, and employees, of the designated person.
+
+(11) The obligations imposed on a designated person under this section do not apply to a designated person who is an employee of another designated person.
+
+(12) F148[*Subsections (6)*, *(6A)*], *(7)*, *(8)*, and *(9)* do not apply to a designated person who is an individual and carries on business alone as a designated person.
+
+(13) A competent authority shall not issue a direction for the purposes of *subsection (7)*, *(8)* or *(9)* unless it is satisfied that, having regard to the size and nature of the designated person, it is appropriate to do so.
+
+(14) A competent authority may make a direction to a class of designated persons for whom it is the competent authority for the purposes of *subsection (7)*, *(8)* or *(9)*.
+
+(15) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 26, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F147: Inserted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(a)(i).
+>
+> F148: Substituted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(a)(ii).
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: section amended (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 11(a), (b), (c), S.I. 196 of 2013; section substituted as per F-note above.
+
+#### 55. Keeping of records by designated persons.
+
+**55**.— (1) A designated person shall keep records evidencing the procedures applied, and information obtained, by the designated person under *Chapter 3* in relation to—
+
+(*a*) each customer, and
+
+(*b*) in the case of a designated person to whom *section 38* applies, each F149[correspondent relationship].
+
+(2) Without prejudice to the generality of *subsection (1)*, a designated person shall take the original or a copy of all documents used by the designated person for the purposes of *Chapter 3*, including all documents used to verify the identity of customers F150[(including information from relevant trust services as set out in the Electronic Identification Regulation)] or beneficial owners in accordance with *section 33*.
+
+(3) A designated person shall keep records evidencing the history of services and transactions carried out in relation to each customer of the designated person.
+
+(4) F149[Subject to *subsections (4A)*, *(4B)* and *(4C)*, the documents and other records] referred to in *subsections (1)* to *(3)* F151[shall be retained by the designated person] for a period of not less than 5 years after—
+
+(*a*) in the case of a record referred to in *subsection (1)(a)*, the date on which the designated person ceases to provide any service to the customer concerned or the date of the last transaction (if any) with the customer, whichever is the later,
+
+(*b*) in the case of a record referred to in *subsection (1) (b)*, the date on which the F149[correspondent relationship] concerned ends,
+
+(*c*) in the case of a record referred to in *subsection (3)* evidencing the carrying out of a particular transaction by the designated person with, for or on behalf of the customer (other than a record to which *paragraph (d)* applies), the date on which the particular transaction is completed or discontinued,
+
+(*d*) in the case of a record referred to in *subsection (3)* evidencing the carrying out of a particular occasional transaction comprised of a series of transactions, with, for or on behalf of a customer, the date on which the series of transactions is completed or discontinued, or
+
+(*e*) in the case of a record referred to in *subsection (3)* evidencing the carrying out of a particular service for or on behalf of the customer (other than a record to which *paragraph (c)* or *(d)* applies), the date on which the particular service is completed or discontinued.
+
+F152[(4A) Where a member of the Garda Síochána not below the rank of Sergeant having carried out a thorough assessment of the necessity and proportionality of further retention is satisfied—
+
+(*a*) that certain documents or records, or documents or records relating to a certain business relationship or occasional transaction, are required for the purposes of an investigation related to money laundering or terrorist financing, or
+
+(*b*) notwithstanding the fact that a decision to institute proceedings against a person may not have been taken, that the documents or records are likely to be required for the prosecution of an offence of money laundering or terrorist financing,
+
+the member may give a direction in writing to a designated person to retain the documents and other records for a period, up to a maximum of 5 years, additional to the period referred to in *subsection (4)*.
+
+(4B) Where a direction has been given to a designated person in accordance with *subsection (4A)* and neither *paragraph (a)* nor *(b)* of that subsection continue to apply a member of the Garda Síochána shall, as soon as practicable, notify the designated person to whom the direction was given of that fact and the direction shall expire on the date of that notification.
+
+(4C) A designated person who is given a direction under *subsection (4A)* shall retain the documents or records specified in the direction until the earlier of—
+
+(*a*) the expiration of the additional period specified in the direction, and
+
+(*b*) the expiration of the direction.]
+
+(5) *Subsection (4)(a)* extends to any record that was required to be retained under section 32(9)(*a*) of the Act of 1994 immediately before the repeal of that provision by this Act.
+
+(6) *Subsection (4)(c)* to *(e)* extends to any record that was required to be retained under section 32(9)(*b*) of the Criminal Justice Act 1994 immediately before the repeal of that provision by this Act and for that purpose—
+
+(*a*) a reference in *subsection (4)(c)* to *(e)* to a record referred to in *subsection (3)* includes a reference to such a record, and
+
+(*b*) a reference in *subsection (4)(d)* to an occasional transaction comprised of a series of transactions includes a reference to a series of transactions referred to in section 32(3)(*b*) of the Criminal Justice Act 1994.
+
+(7) A designated person may keep the records referred to in *subsections (1)* to *(6)* wholly or partly in an electronic, mechanical or other non-written form only if they are capable of being reproduced in a written form.
+
+F153[(7A) The records required to be kept by a designated person under this section may be kept outside the State provided that the designated person ensures that those records are produced in the State to—
+
+(*a*) a member of the Garda Síochána,
+
+(*b*) an authorised officer appointed under *section 72*,
+
+(*c*) a relevant authorised officer within the meaning of *section 103*, or
+
+(*d*) a person to whom the designated person is required to produce such records in relation to his or her business, trade or profession,
+
+as soon as practicable after the records concerned are requested, or where the obligation to produce the records arises under an order of a court made under section 63 of the Criminal Justice Act 1994, within the period which applies to such production under the court order concerned.]
+
+F152[(7B) Upon the expiry of the retention periods referred to in this section a designated person shall ensure that any personal data contained in any document or other record retained solely for the purposes of this section is deleted.]
+
+(8) The requirements imposed by this section are in addition to, and not in substitution for, any other requirements imposed by any other enactment or rule of law with respect to the keeping and retention of records by a designated person.
+
+(9) The obligations that are imposed on a designated person under this section continue to apply to a person who has been a designated person, but has ceased to carry on business as a designated person.
+
+(10) A requirement for a designated person that is a body corporate to retain any record under this section extends to any body corporate that is a successor to, or a continuation of, the body corporate.
+
+(11) The Minister may make regulations prescribing requirements relating to the retention of records referred to in this section of a body corporate that is wound up or a partnership that is dissolved.
+
+(12) A designated person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 27(a), (b), (c), S.I. No. 486 of 2018.
+>
+> F150: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 16, S.I. No. 188 of 2021.
+>
+> F151: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 12(a), S.I. No. 196 of 2013.
+>
+> F152: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 27(d), (e), S.I. No. 486 of 2018.
+>
+> F153: Inserted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 12(b), S.I. No. 196 of 2013.
+
+### Chapter 7 Special provisions applying to credit and financial institutions — Chapter 7 — Special provisions applying to credit and financial institutions
+
+#### 56. Measures for retrieval of information relating to business relationships.
+
+**56**.—(1) A F154[...] designated person shall have systems in place to enable it to respond fully and promptly to enquiries from the Garda Síochána—
+
+(*a*) as to whether or not it has, or has had, a business relationship, within the previous F155[5 years], with a person specified by the Garda Síochána, and
+
+(*b*) the nature of any such relationship with that person.
+
+(2) F155[A designated person who] fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F154: Deleted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 28(a), S.I. No. 486 of 2018.
+>
+> F155: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 28(b), (c), S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E32: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 57. Group-wide policies and procedures
+
+F156[**57.**— (1) A designated person that is part of a group shall implement group-wide policies and procedures, including data protection policies and policies and procedures for sharing information within the group, for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing.
+
+(2) A designated person incorporated in the State that operates a branch, majority-owned subsidiary or establishment in a place other than the State shall ensure that the branch, majority-owned subsidiary or establishment adopts and applies group-wide policies and procedures referred to in *subsection (1)*.
+
+(3) Where a place referred to in *subsection (2)*, other than a Member State, is a place that does not permit the implementation of the policies and procedures required under *subsection (1)* the designated person shall—
+
+(*a*) ensure that each of its branches and majority-owned subsidiaries in that place applies additional measures to effectively handle the risk of money laundering or terrorist financing, and
+
+(*b*) notify the competent authority for that designated person of the additional measures applied under *paragraph (a)*.
+
+(4) A designated person incorporated in the State that operates a branch, majority-owned subsidiary or establishment in another Member State shall ensure that the branch, majority-owned subsidiary or establishment complies with the requirements of the Fourth Money Laundering Directive as they apply in that Member State.
+
+(5) A designated person incorporated in the State that has a branch or majority-owned subsidiary located in a place, other than a Member State, in which the minimum requirements relating to the prevention and detection of money laundering and terrorist financing are less strict than those of the State shall ensure that the branch or majority-owned subsidiary implement the requirements of the State, including requirements relating to data protection, to the extent that the third country’s law so allows.
+
+(6) Subject to *section 49*, a designated person that is part of a group that makes a report under *section 42* shall share that report within the group for the purposes of preventing and detecting the commission of money laundering and terrorist financing unless otherwise instructed by FIU Ireland.
+
+(7) A designated person that fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F156: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 29, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 57A. Additional measures where implementation of policies and procedures is not possible
+
+F157[**57A.**— (1) Where a competent authority receives a notification under *section 57(3)(b)* and is not satisfied that the additional measures applied in accordance with that subsection are sufficient for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing it shall exercise additional supervisory actions, where necessary requesting a group to close down its operations in the third country and may, by notice in writing, direct the designated person to take such additional actions as the competent authority considers necessary to mitigate the risk of money laundering or terrorist financing.
+
+(2) A notice under *subsection (1)*—
+
+(*a*) may direct the group—
+
+(i) not to establish a business relationship,
+
+(ii) to terminate a business relationship, or
+
+(iii) not to undertake a transaction,
+
+and
+
+(*b*) shall specify the matters which, in the opinion of the competent authority, give rise to the risk of money laundering or terrorist financing and in respect of which the additional measures taken are insufficient.
+
+(3) A notice under *subsection (1)* shall take effect—
+
+(*a*) where the notice so declares, immediately the notice is received by the person on whom it is served,
+
+(*b*) in any other case—
+
+(i) where no appeal is taken against the notice, on the expiration of the period during which such an appeal may be taken or the day specified in the notice as the day on which it is to come into effect, whichever is the later, or
+
+(ii) in case such an appeal is taken, on the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn or the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(4) A designated person that is aggrieved by a notice may, within the period of 30 days beginning on the day on which the notice is served, appeal against the notice to the High Court and in determining the appeal the court may—
+
+(*a*) if the court is satisfied that in the circumstances of the case it is reasonable to do so, confirm the notice, with or without modification, or
+
+(*b*) cancel the notice.
+
+(5) The bringing of an appeal against a notice which is to take effect in accordance with *subsection (3)(a)* shall not have the effect of suspending the operation of the notice, but the appellant may apply to the court to have the operation of the notice suspended until the appeal is disposed of and, on such application, the court may, if it thinks proper to do so, direct that the operation of the notice be suspended until the appeal is disposed of.
+
+(6) Where on the hearing of an appeal under this section a notice is confirmed the High Court may, on the application of the appellant, suspend the operation of the notice for such period as in the circumstances of the case the High Court considers appropriate.
+
+(7) A person who appeals under *subsection (4)* against a notice or who applies for a direction suspending the application of the notice under *subsection (6)* shall at the same time notify the competent authority concerned of the appeal or the application and the grounds for the appeal or the application and the competent authority shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal or the application.
+
+(8) A designated person that fails to comply with a direction made by the competent authority for that designated person under *subsection (1)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(9) A competent authority may, by notice in writing to the designated person concerned, vary or revoke a notice under *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F157: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 30, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E33: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 58. Anonymous accounts.
+
+**58**.— (1) A credit institution or financial institution shall not set up an anonymous account for, or provide an F158[anonymous passbook or safe-deposit box] to, any customer.
+
+(2) A credit institution or financial institution shall not keep any anonymous account, or F159[anonymous passbook or safe-deposit box], that was in existence immediately before the commencement of this section for any customer.
+
+(3) A credit institution or financial institution that fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F158, F159: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 17, S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E34: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 59. Relationships between credit institutions and shell banks.
+
+F160[**59.**— (1) A credit institution or financial institution shall not enter into a correspondent relationship with a shell bank.
+
+(2) A credit institution or financial institution that has entered into a correspondent relationship with a shell bank before the commencement of this section shall not continue that relationship.
+
+(3) A credit institution or financial institution shall not engage in or continue a correspondent relationship with a bank that the institution knows permits its accounts to be used by a shell bank.
+
+(4) A credit institution or financial institution shall apply appropriate measures to ensure that it does not enter into or continue a correspondent relationship that permits its accounts to be used by a shell bank.
+
+(5) A credit institution or financial institution that fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(6) In this section, "shell bank" means a credit institution or financial institution (or a body corporate that is engaged in activities equivalent to those of a credit institution or financial institution) that—
+
+(*a*) does not have a physical presence, involving meaningful decision-making and management, in the jurisdiction in which it is incorporated,
+
+(*b*) is not authorised to operate, and is not subject to supervision, as a credit institution, or as a financial institution, (or equivalent) in the jurisdiction in which it is incorporated, and
+
+(*c*) is not affiliated with another body corporate that—
+
+(i) has a physical presence, involving meaningful decision-making and management, in the jurisdiction in which it is incorporated, and
+
+(ii) is authorised to operate, and is subject to supervision, as a credit institution, a financial institution or an insurance undertaking, in the jurisdiction in which it is incorporated.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F160: Substituted Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 31, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### Chapter 8 Monitoring of designated persons — Chapter 8 — Monitoring of designated persons
+
+#### 60. Meaning of “competent authority”.
+
+**60.**— (1) Subject to *section 61*, a reference in this Part to the competent authority for a designated person is a reference to the competent authority prescribed for the class of designated persons to which the designated person belongs.
+
+(2) If no such competent authority is prescribed, a reference in this Part to the competent authority is a reference to the following:
+
+(*a*) in the case of a designated person that is a credit institution or a financial institution, the F161[Central Bank of Ireland];
+
+(*b*) in the case of a designated person who is an auditor, external accountant, tax adviser or trust or company service provider—
+
+(i) if the person is a member of a designated accountancy body, the designated accountancy body, or
+
+(ii) if the person is not a member of a designated accountancy body and is a body corporate, or a body of unincorporated persons, carrying out its functions under this Part F162[through officers and members] of it who are members of a designated accountancy body, the designated accountancy body;
+
+(*c*) in the case of a designated person who is a solicitor, the Law Society of Ireland;
+
+F163[(*d*) in the case of a designated person who is a barrister, the Legal Services Regulatory Authority;]
+
+F164[(*da*) F165[...]]
+
+F166[(*db*) in the case of a designated person that is a property services provider, the Property Services Regulatory Authority;]
+
+(*e*) in the case of any designated person other than a designated person referred to in *paragraph (a)*, *(b)*, *(c)* F163[, (*d*) or (*db*)], the Minister.
+
+(3) The Minister may prescribe a competent authority for a class of designated persons, for the purpose of *subsection (1)*, only if the Minister is satisfied that the competent authority is more appropriate than the competent authority specified in *subsection (2)* for the class of designated persons, having regard to the nature of the business activities engaged in by that class.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F161: Substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14 para. 33, S.I. No. 469 of 2010.
+>
+> F162: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 13, S.I. No. 196 of 2013.
+>
+> F163: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 18(a), (d), S.I. No. 188 of 2021.
+>
+> F164: Inserted (7.10.2019) by *Legal Services Regulation Act 2015* (65/2015), s. 214(b), S.I. No. 502 of 2019.
+>
+> F165: Deleted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 18(b), S.I. No. 188 of 2021.
+>
+> F166: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 18(c) , S.I. No. 188 of 2021.
+>
+> F167: Inserted by *Gambling Regulation Act 2024* (35/2024), s. 230(c)(i), not commenced as of date of revision.
+>
+> F168: Substituted by *Gambling Regulation Act 2024* (35/2024), s. 230(c)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. (2)(dc) inserted, (e) amended by *Gambling Regulation Act 2024* (35/2024), s. 230(c)(i), (ii), not commenced as of date of revision.
+>
+> F167[(*dc*) in the case of a designated person that is a gambling service provider, the Gambling Regulatory Authority of Ireland;]
+>
+> (*e*) in the case of any designated person other than a designated person referred to in *paragraph (a)*, *(b)*, *(c)*, F168[*(d)*, *(db)* or *(dc)*], the Minister.
+>
+> **Editorial Notes:**
+>
+> E35: Power pursuant to subs. (3) exercised (30.12.2024) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Sections 25 and 60) (Prescribed Class and Competent Authority) Regulations 2024* (S.I. No. 724 of 2024), in effect as per reg. 1(2).
+>
+> E36: Previous affecting provision: subs. (2)(d) amended (7.10.2019) by *Legal Services Regulation Act 2015* (65/2015), s. 214(a), S.I. No. 502 of 2019; paragraph substituted (23.04.2021) as per F-note above.
+>
+> E37: Power pursuant to subs. (3) exercised (1.09.2016) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Competent Authority and State Competent Authority) Regulations 2016* (S.I. No. 453 of 2016), in effect as per reg. 2.
+>
+> E38: Powers pursuant to subs. (3) exercised (3.03.2014) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Competent Authority) Regulations 2014* (S.I. No. 79 of 2014), in effect as per reg. 2.
+>
+> E39: Previous affecting provision: subss. (2)(d) inserted (7.10.2019) by *Legal Services Regulation Act 2015* (65/2015), s. 214(a), S.I. No. 502 of 2019; substituted as per F-note above.
+>
+> E40: Previous affecting provision: subss. (2)(da) inserted (7.10.2019) by *Legal Services Regulation Act 2015* (65/2015), s. 214(b), S.I. No. 502 of 2019; deleted as per F-note above.
+
+#### 61. Agreements between competent authorities where more than one applicable.
+
+**61.**— (1) Where there is more than one competent authority for a designated person under *section 60*, those competent authorities may agree that one of them will act as the competent authority for that person, and references in this Part to a competent authority are to be construed accordingly.
+
+(2) An agreement under this section, in relation to a designated person, takes effect when the competent authority who has agreed to act as the competent authority for the designated person gives notice, in writing, to that person.
+
+(3) An agreement under this section, in relation to a designated person, ceases to have effect when—
+
+(*a*) any of the parties to the agreement gives notice, in writing, to the other parties of the termination of the agreement,
+
+(*b*) the agreement expires, or
+
+(*c*) as a result of the operation of *section 60(1)*, the competent authority who has agreed to act as the competent authority is no longer a competent authority of the person under *section 60*,
+
+whichever is the earliest.
+
+#### 62. Meaning of “State competent authority”.
+
+**62**.— (1) In this Part, a reference to a State competent authority is a reference to one of the following competent authorities:
+
+(*a*) the F169[Central Bank of Ireland];
+
+(*b*) the Minister;
+
+(*c*) such other competent authority as is prescribed.
+
+(2) The Minister may prescribe a competent authority as a State competent authority for the purposes of *subsection (1) (c)* only if—
+
+(*a*) the Minister is satisfied that the competent authority is appropriate, having regard to the functions of State competent authorities under this Part, and
+
+(*b*) the competent authority is a Minister of the Government or an officer of a particular class or description of a Department of State or is a body (not being a company) by or under an enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F169: Substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14 par. 33, S.I. No. 469 of 2010.
+>
+> F170: Inserted by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 32, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: subs. (1)(aa) inserted by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 32, not commenced as of date of revision.
+>
+> (*aa*) the Legal Services Regulatory Authority;
+>
+> **Editorial Notes:**
+>
+> E41: Power pursuant to subs. (2) exercised (1.09.2016) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Competent Authority and State Competent Authority) Regulations 2016* (S.I. No. 453 of 2016), in effect as per reg. 2.
+
+#### 63. General functions of competent authorities.
+
+**63**.— (1) A competent authority shall effectively monitor the designated persons for whom it is a competent authority and take measures that are reasonably necessary for the purpose of securing compliance by those designated persons with the requirements specified in this Part.
+
+(2) The measures that are reasonably necessary include reporting to the Garda Síochána and Revenue Commissioners any knowledge or suspicion that the competent authority has that a designated person has been or is engaged in money laundering or terrorist financing.
+
+(3) In determining, in any particular case, whether a designated person has complied with any of the requirements specified in this Part, a competent authority shall consider whether the person is able to demonstrate to the competent authority that the requirements have been met.
+
+(4) A competent authority that, in the course of monitoring a designated person under this section, acquires any knowledge or forms any suspicion that another person has been or is engaged in money laundering or terrorist financing shall report that knowledge or suspicion to the Garda Síochána and Revenue Commissioners.
+
+#### 63A. Supervision
+
+F171[**63A.**— (1) Competent authorities shall take the necessary measures to prevent persons convicted of a relevant offence from performing a management function in or being the beneficial owners of the designated persons referred to in *paragraphs (c)*, *(d)* and *(f)* of *section 25(1)*.
+
+(2) Any person performing a management function in or being the beneficial owner of the designated persons referred to in *subsection (1)* and who is convicted of a relevant offence must inform the relevant competent authority within 30 days of the day on which that person was convicted of the relevant offence.
+
+(3) Any designated person for which or in respect of which a person who is convicted of a relevant offence, performs a management function or is a beneficial owner, shall inform its competent authority of the conviction within 30 days of the date on which the designated person became aware of the conviction.
+
+(4) In this section “a relevant offence” means—
+
+(*a*) an offence under this Act,
+
+(*b*) an offence specified in Schedule 1 to the Criminal Justice Act 2011, or
+
+(*c*) an offence under the law of a place (other than the State), consisting of an act or omission that, if done or omitted to be done in the State, would, under the law of the State, constitute an offence under *subsections (a)* or *(b)*.
+
+(5) A person who fails to comply with *subsection (2)* or *(3)* shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 2 years or both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Inserted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(b). A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 63B. Co-operation with Member State competent authorities
+
+F172[**63B.**— (1) This section applies to designated persons—
+
+(*a*) which operate establishments in the State and which have their head offices in another Member State, or
+
+(*b*) which operate establishments in another Member State and which have their head offices in the State.
+
+(2) A competent authority for designated persons to which this section applies shall take the necessary steps—
+
+(*a*) to co-operate with Member State competent authorities in relation to the development and implementation of policies to counter money laundering and terrorist financing,
+
+(*b*) to co-ordinate activities to counter money laundering and terrorist financing with Member State competent authorities, and
+
+(*c*) to co-operate with Member State competent authorities to ensure the effective supervision of designated persons to which this section applies.
+
+F173[(2A) Co-operation with Member State competent authorities under this section by a competent authority may include the sharing of information which the competent authority is not prevented from disclosing by the law of the State and the provision of assistance shall not be refused on the basis that:
+
+(*a*) the request for the sharing of information or the provision of assistance is also considered to involve tax matters;
+
+(*b*) the law of the State requires the competent authority to maintain secrecy or confidentiality except in those cases where the relevant information that is sought is protected by legal privilege;
+
+(*c*) there is an inquiry, investigation or proceeding underway in the State, unless the sharing of such information or the provision of assistance would impede the inquiry, investigation or proceeding; or
+
+(*d*) the nature or status of the requesting competent authority is different from that of the competent authority of whom the request is made.]
+
+(3) In this section “Member State competent authority”, in relation to a Member State (other than the State), means the authority designated by that Member State to be the competent authority in that Member State for the purposes of the Fourth Money Laundering Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F172: Inserted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(b).
+>
+> F173: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 19, S.I. No. 188 of 2021.
+
+#### 63C. Supervision by competent authorities
+
+F174[**63C.**— Each competent authority shall—
+
+(*a*) adopt a risk-based approach to the exercise of its supervisory functions,
+
+(*b*) ensure that its employees and officers have access both at its offices and elsewhere to relevant information on the domestic and international risks of money laundering and terrorist financing which affect its own sector,
+
+(*c*) base the frequency and intensity of on-site and off-site supervision on the risk profile of designated persons, and on the risks of money laundering and terrorist financing in the State,
+
+(*d*) review, both periodically and when there are major events or developments in their management and operations, their assessment of the money laundering and terrorist financing risk profile of designated persons, including the risks of non-compliance with the provisions of this Act, and
+
+(*e*) take into account the degree of discretion allowed to the designated person, and appropriately review the risk assessments underlying this discretion, and the adequacy and implementation of its internal policies, controls and procedures.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F174: Inserted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(b).
+
+#### 63D. Duties of competent authorities
+
+F175[**63D.**— (1) A competent authority, other than a State competent authority, shall make arrangements to ensure that—
+
+(*a*) its supervisory functions are exercised independently of any of its other functions which do not relate to disciplinary matters,
+
+(*b*) sensitive information relating to its supervisory functions is appropriately handled within the competent authority,
+
+(*c*) it employs only persons with appropriate qualifications, integrity and professional skills to carry out the supervisory functions and maintain high professional standards, F176[including standards of confidentiality and data protection and standards addressing conflicts of interest], and
+
+(*d*) a contravention of a requirement imposed by or under this Act by a designated person it is responsible for supervising renders that person liable to effective, proportionate and dissuasive disciplinary measures under its rules.
+
+(2) A competent authority, other than a State competent authority, shall—
+
+(*a*) provide adequate resources to carry out the supervisory functions, and
+
+(*b*) appoint a person to monitor and manage the competent authority’s compliance with its duties under this Act.
+
+(3) The person appointed under *subsection (2)(b)* shall be responsible—
+
+(*a*) for liaison with—
+
+(i) another competent authority, and
+
+(ii) any Member State competent authority (within the meaning of *section 63B*),
+
+(*b*) for ensuring that the competent authority responds fully and as soon as possible to any request from an authority referred to in *subsection (a)(i)* or *(ii)* for information about any person it supervises.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Inserted (18.11.2019) by *European Union (Money Laundering and Terrorist Financing) Regulations 2019* (S.I. No. 578 of 2019), reg. 2(b).
+>
+> F176: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 20, S.I. No. 188 of 2021.
+
+#### 63E. Reporting breaches to competent authority
+
+F177[**63E.**— (1) Each competent authority shall establish effective and reliable mechanisms to encourage the reporting of potential and actual breaches of this Act.
+
+(2) Each competent authority shall provide one or more secure communication channels for persons reporting the matters referred to in *subsection (1)*.
+
+(3) Each competent authority shall ensure that the channels of communication referred to in *subsection (2)* can also be used by persons to report any threats or retaliatory or hostile actions they are subjected to for reporting suspected breaches of this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F177: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 21, S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E42: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 64. Application of other enactments.
+
+**64**.— Nothing in this Part limits any functions that a competent authority (including a State competent authority) has under any other enactment or rule of law.
+
+#### 65. Annual reporting.
+
+**65**.—F178[(1)] A competent authority shall include, in each annual report published by the authority, an account of the activities that it has carried out in performing its functions under this Act during the year to which the annual report relates.
+
+F179[(2) Where a competent authority is not a State competent authority, each annual report published by the authority shall include information regarding the measures taken by the authority to monitor compliance by designated persons with the provisions of this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F178: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 22(a), S.I. No. 188 of 2021.
+>
+> F179: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021*(3/2021), s. 22(b), S.I. No. 188 of 2021.
+
+#### 66. Request to bodies to provide names, addresses and other information relating to designated persons.
+
+**66**.— (1) In this section, a reference to relevant information, in relation to a person, that is held by a body is a reference to any of the following information that is held by the body:
+
+(*a*) the name, address or other contact details of the person;
+
+(*b*) any other prescribed information relating to the person.
+
+(2) A State competent authority may, by notice in writing, request any public body, or any body that represents, regulates or licenses, registers or otherwise authorises persons carrying on any trade, profession, business or employment, to provide the authority with any relevant information, in relation to—
+
+(*a*) any designated persons for whom the authority is a competent authority, or
+
+(*b*) any persons whom the body reasonably considers may be such designated persons.
+
+(3) A State competent authority may make a request under this section only in relation to information that is reasonably required by the authority to assist the authority in carrying out its functions under this Part.
+
+(4) Notwithstanding any other enactment or rule of law, a body that receives a request under this section shall disclose the relevant information concerned.
+
+(5) The Minister may prescribe information, for the purposes of *subsection (1)(b)*, that a State competent authority may request under this section only if the Minister is satisfied that the information is appropriate, having regard to the functions of the State competent authority under this Part.
+
+#### 67. Direction to furnish information or documents.
+
+**67**.— (1) A State competent authority may, by notice in writing, direct a designated person for whom the authority is a competent authority to provide such information or documents (or both) relating to the designated person specified in the notice.
+
+(2) A person who, without reasonable excuse, fails to comply with a direction under this section commits an offence and is liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both).
+
+(3) In giving a direction under this section, a State competent authority shall specify the manner in which any document or information is required to be furnished and a reasonable time by which the document or information is required to be furnished.
+
+(4) A person is required to furnish documents in accordance with this section only if the documents are in the person’s possession or within the person’s power to obtain lawfully.
+
+(5) If a person knows the whereabouts of documents to which the direction applies, the person shall furnish to the State competent authority who gave the direction a statement, verified by a statutory declaration, identifying the whereabouts of the documents. The person shall furnish the statement no later than the time by which the direction specifies that the documents are required to be furnished.
+
+(6) A person who, without reasonable excuse, fails to comply with *subsection (5)* commits an offence and is liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both).
+
+(7) If any document required to be furnished under this section is in electronic, mechanical or other form, the document shall be furnished in written form, unless the direction specifies otherwise.
+
+(8) A State competent authority may take copies of, or extracts from, any document furnished to the authority under this section.
+
+#### 68. Direction to provide explanation of documents.
+
+**68**.— (1) A State competent authority may, by notice in writing, direct a designated person for whom the authority is a competent authority to furnish to the authority an explanation of any documents relating to the designated person that—
+
+(*a*) the person has furnished to the authority in complying with a direction under *section 67*, or
+
+(*b*) an authorised officer has lawfully removed from premises under *section 77* (including as applied by *section 78*).
+
+(2) In giving a direction under this section, a State competent authority shall specify the manner in which any explanation of a document is required to be furnished and a reasonable time by which the explanation is required to be furnished.
+
+(3) A person who, without reasonable excuse, fails to comply with a direction under this section commits an offence and is liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both).
+
+#### 69. Purpose of direction under section 67 or 68.
+
+**69**.— A State competent authority may give a direction under *section 67* or *68* only in relation to information or documents reasonably required by the authority to assist the authority to perform its functions under this Part.
+
+#### 70. Self-incrimination (sections 67 and 68).
+
+**70**.— Nothing in *section 67* or *68* requires a person to comply with a direction under the section concerned to furnish any information if to do so might tend to incriminate the person.
+
+#### 71. Directions to comply with obligations under this Part.
+
+F180[**71**.— (1) A State competent authority may, by notice in writing, direct a designated person or a class of designated persons in respect of whom the authority is the competent authority to—
+
+(*a*) discontinue, or refrain from engaging in, specified conduct that in the opinion of the authority concerned constitutes, or, if engaged in, would constitute, a breach of any specified provision of this Part, or
+
+(*b*) take specific actions or to establish specific processes or procedures that in the opinion of the authority are reasonably necessary for the purposes of complying with any specified provision of this Part.
+
+(2) The State competent authority shall specify in any such direction a reasonable period of time within which the person to whom it is given is required to comply with the direction.
+
+(3) If a designated person to whom a direction has been issued under *subsection (1)* fails to comply with the direction and is subsequently found guilty of an offence—
+
+(a) which consists of the conduct specified in the direction given under *subsection (1)(a)*, or
+
+(b) which would not have been committed if the direction under *subsection (1)(b)* had been complied with,
+
+the court may take the failure to comply with the direction into account as an aggravating factor in determining any sentence to be imposed on the person for the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 14, S.I. No. 196 of 2013.
+
+#### 72. Appointment of authorised officers.
+
+**72**.— (1) A State competent authority may appoint employees of the authority or other persons who, in the opinion of the authority, are suitably qualified or experienced, to be authorised officers for the purpose of this Chapter.
+
+(2) A State competent authority may revoke any appointment made by the authority under *subsection (1)*.
+
+(3) An appointment or revocation under this section shall be in writing.
+
+(4) A person’s appointment by a State competent authority as an authorised officer ceases—
+
+(*a*) on the revocation by the authority of the appointment,
+
+(*b*) in a case where the appointment is for a specified period, on the expiration of the period,
+
+(*c*) on the person’s resignation from the appointment, or
+
+(*d*) in a case where the person is an employee of the authority—
+
+(i) on the resignation of the person as an employee of the authority, or
+
+(ii) on the termination of the person’s employment with the authority for any other reason.
+
+#### 73. Warrant of appointment.
+
+**73**.— (1) Every authorised officer appointed by a State competent authority shall be furnished with a warrant of appointment as an authorised officer by the State competent authority.
+
+(2) In the course of performing the functions of an authorised officer under this Chapter, the officer shall, if requested to do so by any person affected, produce the officer’s warrant of appointment for inspection.
+
+#### 74. Powers may only be exercised for assisting State competent authority.
+
+**74**.— An authorised officer may exercise powers as an authorised officer under this Chapter only for the purpose of assisting the State competent authority that appointed the authorised officer in the performance of the authority’s functions under this Part.
+
+#### 75. General power of authorised officers to enter premises.
+
+**75**.— (1) An authorised officer may enter any premises at which the authorised officer reasonably believes that the business of a designated person has been or is carried on.
+
+(2) An authorised officer may enter any premises at which the authorised officer reasonably believes records or other documents relating to the business of a designated person are located.
+
+(3) An authorised officer may enter premises under *subsection (1)* or *(2)*—
+
+(*a*) in a case where the authorised officer reasonably believes that the business of a designated person is carried on at the premises (as referred to in *subsection (1)*), at any time during which the authorised officer reasonably believes that the business is being carried on there, or
+
+(*b*) in any other case, at any reasonable time.
+
+#### 76. Entry into residential premises only with permission or warrant.
+
+**76**.— Nothing in this Chapter shall be construed as empowering an authorised officer to enter any dwelling without the permission of the occupier or the authority of a warrant under *section 78*.
+
+#### 77. Power of authorised officers to do things at premises.
+
+**77**.— (1) An authorised officer may, at any premises lawfully entered by the officer, do any of the following:
+
+(*a*) inspect the premises;
+
+(*b*) request any person on the premises who apparently has control of, or access to, records or other documents that relate to the business of a designated person (being a designated person whose competent authority is the State competent authority who appointed the authorised officer)—
+
+(i) to produce the documents for inspection, and
+
+(ii) if any of those documents are in an electronic, mechanical or other form, to reproduce the document in a written form;
+
+(*c*) inspect documents produced or reproduced in accordance with such a request or found in the course of inspecting the premises;
+
+(*d*) take copies of those documents or of any part of them (including, in the case of a document in an electronic, mechanical or other form, a copy of the document in a written form);
+
+(*e*) request any person at the premises who appears to the authorised person to have information relating to the documents, or to the business of the designated person, to answer questions with respect to the documents or that business;
+
+(*f*) remove and retain the documents (including in the case of a document in an electronic, mechanical or other form, a copy of the information in a written form) for the period reasonably required for further examination;
+
+(*g*) request a person who has charge of, operates or is concerned in the operation of data equipment, including any person who has operated that equipment, to give the officer all reasonable assistance in relation to the operation of the equipment or access to the data stored within it;
+
+(*h*) secure, for later inspection, the premises or part of the premises at which the authorised officer reasonably believes records or other documents relating to the business of the designated person are located.
+
+(2) A person to whom a request is made in accordance with *subsection (1)* shall—
+
+(*a*) comply with the request so far as it is possible to do so, and
+
+(*b*) give such other assistance and information to the authorised officer with respect to the business of the designated person concerned as is reasonable in the circumstances.
+
+(3) A reference in this section to data equipment includes a reference to any associated apparatus.
+
+(4) A reference in this section to a person who operates or has operated data equipment includes a reference to a person on whose behalf data equipment is operated or has been operated.
+
+#### 78. Entry to premises and doing of things under warrant.
+
+**78**.— (1) A judge of the District Court may issue a warrant under this section if satisfied, by information on oath of an authorised officer, that there are reasonable grounds for believing that—
+
+(*a*) documents relating to the business of a designated person that are required for the purpose of assisting the State competent authority that appointed the authorised officer under this Chapter in the performance of the authority’s functions under this Part are contained on premises, and
+
+(*b*) the premises comprise a dwelling or an authorised officer has been obstructed or otherwise prevented from entering the premises under *section 75*.
+
+(2) A warrant under this section authorises an authorised officer, at any time or times within one month of the issue of the warrant—
+
+(*a*) to enter the premises specified in the warrant, and
+
+(*b*) to exercise the powers conferred on authorised officers by this Chapter or any of those powers that are specified in the warrant.
+
+(3) Entry to premises the subject of a warrant may be effected with the use of reasonable force.
+
+#### 79. Authorised officer may be accompanied by others.
+
+**79**.— An authorised officer may be accompanied, and assisted in the exercise of the officer’s powers (including under a warrant issued under *section 78*), by such other authorised officers, members of the Garda Síochána or other persons as the authorised officer reasonably considers appropriate.
+
+#### 80. Offence to obstruct, interfere or fail to comply with request.
+
+**80**.— (1) A person commits an offence if the person, without reasonable excuse—
+
+(*a*) obstructs or interferes with an authorised officer in the exercise of the officer’s powers under this Chapter, or
+
+(*b*) fails to comply with a requirement, or request made by an authorised officer, under *section 77* (including as applied by *section 78*).
+
+(2) A person who commits an offence under this section is liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both).
+
+(3) A reference in this section to an authorised officer includes a member of the Garda Síochána or other person who is accompanying and assisting the officer in accordance with *section 79*.
+
+#### 81. Self-incrimination — questions of authorised officers.
+
+**81**.— Nothing in this Chapter requires a person to answer questions if to do so might tend to incriminate the person.
+
+#### 82. Production of documents or information not required in certain circumstances.
+
+**82**.— Nothing in this Chapter requires the production of any document or information subject to legal privilege.
+
+#### 83. Disclosure or production not to be treated as breach or to affect lien.
+
+**83**.— (1) The disclosure or production of any information or document by a person in accordance with this Chapter shall not be treated as a breach of any restriction under any enactment or rule of law on disclosure or production by the person or any other person on whose behalf the information or document is disclosed or produced.
+
+(2) The production referred to in *subsection (1)* of any item forming part of the documents relating to the business of a designated person shall not prejudice any lien that the designated person or any other person claims over that item.
+
+### Chapter 9 Authorisation of Trust or Company Service Providers — Chapter 9 — Authorisation of Trust or Company Service Providers
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C13: Application of Chapter extended (15.07.2010) by *European Communities (Trust or Company Service Providers) (Temporary Authorisation) Regulations 2010* (S.I. No. 347 of 2010), regs. 5 and 9, in effect as per reg. 2.
+>
+> 5\. A person to whom these Regulations apply who makes an application for an authorisation under section 88 of the Act of 2010 shall, subject to the provisions of these Regulations, be deemed to be the holder of an authorisation under Chapter 9 of Part 4 of the Act of 2010 and any such authorisation deemed to have been so granted is in these Regulations referred to as a “temporary authorisation”.
+>
+> ...
+>
+> 9\. The holder of a temporary authorisation shall be subject to and comply with the provisions of Chapter 9 of Part 4 of the Act of 2010 as if such authorisation had been granted under that Chapter and without prejudice to the generality of the foregoing—
+>
+> (*a*) a temporary authorisation may be amended under section 93 of the Act of 2010,
+>
+> (*b*) a temporary authorisation may be revoked in accordance with sections 96 and 97 of the Act of 2010,
+>
+> (*c*) the Minister may as respects the holder of a temporary authorisation give a direction under section 98 of the Act of 2010.
+>
+> ...
+
+#### 84. Interpretation (Chapter 9).
+
+**84**.— F181[(1)] In this Chapter—
+
+F182[...]
+
+“authorisation” means an authorisation to carry on business as a trust or company service provider granted under this Chapter and, if such an authorisation is renewed or amended under this Chapter, means, unless the context otherwise requires, the authorisation as renewed or amended (as the case may be);
+
+“principal officer” means—
+
+(*a*) in relation to a body corporate, any person who is a director, manager, secretary or other similar officer of the body corporate or any person purporting to act in such a capacity, or
+
+(*b*) in relation to a partnership—
+
+(i) any person who is a partner in, or a manager or other similar officer of, the partnership or any person purporting to act in such a capacity, and
+
+(ii) in a case where a partner of the partnership is a body corporate, any person who is a director, manager, secretary or other similar officer of such a partner or any person purporting to act in such a capacity;
+
+F181["subsidiary" has the meaning assigned to it by section 155 of the Companies Act 1963]
+
+“trust or company service provider” does not include any of the following:
+
+(*a*) a member of a designated accountancy body;
+
+(*b*) a barrister or solicitor;
+
+(*c*) a credit institution or financial institution.
+
+F181[(2) (*a*) Subject to *paragraph (b)*, in this Chapter a reference to the Minister shall, in a case where the applicant for or the holder of an authorisation is a subsidiary of a credit or financial institution, be construed as a reference to the Central Bank of Ireland.
+
+(*b*) *Paragraph (a)* does not apply to—
+
+(i) *section 88(5)*,
+
+(ii) *sections 89(5)(b)(ii)*, *90(3)(b)(ii)*, *93(6)(b)(ii)*, *97(6)(b)(ii)*, *98(2)(b)(ii)* and *100(2)* in so far as those provisions relate to the specifying of a form by the Minister,
+
+(iii) *section 94(3)*,
+
+(iv) *section 101*,
+
+(v) *section 104(8)*,
+
+(vi) *section 106(7)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F181: Inserted (3.03.2014) by *Criminal Justice Act 2013* (19/2013), s. 15(a), (b), (c), S.I. No. 80 of 2014.
+>
+> F182: Deleted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 23, S.I. No. 188 of 2021.
+
+#### 85. Meaning of “fit and proper person”.
+
+**85**.— For the purposes of F183[this Chapter and *sections 108B* to *108I*], a person is not a fit and proper person if any of the following apply:
+
+(*a*) the person has been convicted of any of the following offences:
+
+(i) money laundering;
+
+(ii) terrorist financing;
+
+(iii) an offence involving fraud, dishonesty or breach of trust;
+
+(iv) an offence in respect of conduct in a place other than the State that would constitute an offence of a kind referred to in *subparagraph (i)*, *(ii)* or *(iii)* if the conduct occurred in the State;
+
+(*b*) in a case where the person is an individual, the person is under 18 years of age;
+
+(*c*) the person—
+
+(i) has suspended payments due to the person’s creditors,
+
+(ii) is unable to meet other obligations to the person’s creditors, or
+
+(iii) is an individual who is an undischarged bankrupt;
+
+(*d*) the person is otherwise not a fit and proper person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F183: Substituted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(a).
+
+#### 86. Authorisations held by partnerships.
+
+**86**.— (1) A reference in a relevant document to the holder or proposed holder of an authorisation includes, in a case where the holder or proposed holder is a partnership, a reference to each partner of the partnership unless otherwise specified.
+
+(2) A reference in *subsection (1)* to a relevant document is a reference to any of the following:
+
+(*a*) this Chapter;
+
+(*b*) a regulation made for the purposes of this Chapter;
+
+(*c*) an authorisation or condition of an authorisation;
+
+(*d*) any notice or direction given under this Chapter;
+
+(*e*) any determination under this Chapter.
+
+(3) Without prejudice to the generality of *subsection (1)* or *section 111*, where any requirement is imposed by or under this Chapter on the holder of an authorisation and failure to comply with the requirement is an offence, each partner of a partnership (being a partnership that is the holder of an authorisation) who contravenes the requirement is liable for the offence.
+
+#### 87. Prohibition on carrying on business of trust or company service provider without authorisation.
+
+**87**.— (1) A person commits an offence if the person carries on business as a trust or company service provider without being the holder of an authorisation issued by the Minister under this Chapter.
+
+(2) A person who commits an offence under *subsection (1)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment not exceeding 5 years (or both).
+
+#### 88. Application for authorisation.
+
+**88**.— (1) An individual, body corporate or partnership may apply to the Minister for an authorisation to carry on business as a trust or company service provider.
+
+(2) The application shall—
+
+(*a*) be in a form provided or specified by the Minister,
+
+(*b*) specify the name of—
+
+(i) the proposed holder of the authorisation,
+
+(ii) in a case where the proposed holder of the authorisation is a body corporate or partnership or an individual who proposes to carry on business as a trust or company service provider as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be), and
+
+(iii) any person who is, or is proposed to be, a beneficial owner of the business,
+
+(*c*) be accompanied by any consent, in the form provided or specified by the Minister, that is required to enable access to personal data F184[...] held by other persons or bodies and that is required to assist the Minister in determining, for the purposes of *section 89* (including as applied by *section 92*) whether or not the proposed holder and other persons referred to in *paragraph (b)* are fit and proper persons,
+
+(*d*) contain such other information, and be accompanied by such documents, as the Minister requests,
+
+(*e*) be accompanied by the prescribed fee (if any).
+
+(3) The Minister may, by written notice given to an applicant, require the applicant to provide, within the period of not less than 14 days specified in the notice, such additional information and documents as are reasonably necessary to enable the Minister to determine the application.
+
+(4) As soon as practicable after an applicant becomes aware that any information or document provided to the Minister under this section contains a material inaccuracy or has changed in any material particular, including information or a document provided in relation to an application that has been granted, but not including information or a document provided in relation to an application that has been refused, the applicant shall give notice in writing to the Minister of the error or change in circumstances, as the case may be.
+
+(5) For the purposes of *subsection (2)(e)* (including as applied by *section 92*), the Minister may prescribe different fees, to accompany applications for authorisations under this Chapter, for different classes of proposed holders of those authorisations and in prescribing such fees may differentiate between the fee to accompany such an application for an authorisation (not being an application for the renewal of such an authorisation) and the fee to accompany an application for the renewal of such an authorisation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F184: Deleted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 213(c), S.I. No. 174 of 2018.
+>
+> **Editorial Notes:**
+>
+> E43: Fee prescribed in respect of application for authorisation made under section (15.07.2010) by *Trust or Company Service Provider (Authorisation) (Fees) Regulations 2010* (S.I. No. 348 of 2010), in effect as per reg. 1(2).
+>
+> E44: Procedure for and conditions pertaining to temporary authorisation in relation to a person who is a trust or company service provider prescribed (15.07.2010) by *European Communities (Trust or Company Service Providers) (Temporary Authorisation) Regulations 2010* (S.I No. 347 of 2010), in effect as per reg. 2.
+
+#### 89. Grant and refusal of applications for authorisation.
+
+**89**.— (1) The Minister may refuse an application under *section 88* only if—
+
+(*a*) the application does not comply with the requirements of *section 88*,
+
+(*b*) the applicant does not provide any additional documents or information in accordance with a notice given under *section 88 (3)*,
+
+(*c*) the Minister has reasonable grounds to be satisfied that information given to the Minister by the applicant in connection with the application is false or misleading in any material particular,
+
+(*d*) the Minister has reasonable grounds to be satisfied that any of the following persons is not a fit and proper person:
+
+(i) the proposed holder of the authorisation;
+
+(ii) in a case where the proposed holder of the authorisation is a body corporate or partnership or an individual who proposes to carry on business as a trust or company service provider as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(iii) any person who is, or is proposed to be, a beneficial owner of the business concerned,
+
+(*e*) the applicant has failed to satisfy the Minister that the proposed holder of the authorisation will comply with the obligations imposed on trust or company service providers, as designated persons, under this Part,
+
+(*f*) the applicant has failed to satisfy the Minister that the proposed holder of the authorisation will comply with each of the following:
+
+(i) any conditions that the Minister would have imposed on the authorisation concerned if the Minister had granted the application;
+
+(ii) any prescribed requirements referred to in *section 94*;
+
+(iii) *section 95*;
+
+(iv) *section 98*;
+
+(v) *section 106*,
+
+(*g*) the proposed holder of the authorisation is so structured, or the business of the proposed holder is so organised, that the proposed holder is not capable of being regulated under this Chapter, or as a designated person under this Part, to the satisfaction of the Minister,
+
+(*h*) in a case where the proposed holder of the authorisation is a body corporate, the body corporate is being wound up,
+
+(*i*) in a case where the proposed holder of the authorisation is a partnership, the partnership is dissolved by the death or bankruptcy of a partner or because of the operation of a provision of the Partnership Act 1890 or otherwise,
+
+(*j*) in a case where any person referred to in *paragraph (d)* has been authorised to carry on business as a trust or company service provider in another Member State, an authority of the other Member State that performs functions similar to those of the Minister under this Chapter has terminated the authority of the person to carry on business as a trust or company service provider in the other Member State, or
+
+(*k*) in a case where the proposed holder of the authorisation is a subsidiary of a body corporate that is authorised to carry on business as a trust or company service provider in another Member State, an authority of the other Member State that performs functions similar to those of the Minister under this Chapter has terminated the authority of the body corporate to carry on business as a trust or company service provider in the other Member State.
+
+(2) If the Minister proposes to refuse an application, the Minister shall serve on the applicant a notice in writing—
+
+(*a*) specifying the grounds on which the Minister proposes to refuse the application, and
+
+(*b*) informing the applicant that the applicant may, within 21 days after the serving of the notice, make written representations to the Minister showing why the Minister should grant the application.
+
+(3) Not later than 21 days after a notice is served on an applicant under *subsection (2)*, the applicant may make written representations to the Minister showing why the Minister should grant the application.
+
+(4) The Minister may refuse an application only after having considered any representations made by the applicant in accordance with *subsection (3)*.
+
+(5) As soon as practicable after refusing an application, the Minister shall serve a written notice of the refusal on the applicant. The notice shall include a statement—
+
+(*a*) setting out the grounds on which the Minister has refused the application, and
+
+(*b*) informing the applicant that—
+
+(i) the applicant may appeal to an Appeal Tribunal against the refusal, and
+
+(ii) if the applicant proposes to appeal to an Appeal Tribunal against the refusal, the applicant may, within one month after being served with the notice of refusal, serve a notice of intention to appeal on the Minister, in the form provided or specified by the Minister.
+
+(6) If the Minister does not refuse the application, he or she shall grant it and, on granting the application, the Minister shall—
+
+(*a*) record the appropriate particulars of the holder of the authorisation in the register of persons authorised to carry on business as a trust or company service provider, and
+
+(*b*) issue the applicant with an authorisation that authorises the holder of the authorisation to carry on business as a trust or company service provider.
+
+#### 90. Minister may impose conditions when granting an application for an authorisation.
+
+**90**.— (1) In granting an application for an authorisation under this Chapter, the Minister may impose on the holder of the authorisation any conditions that the Minister considers necessary for the proper and orderly regulation of the holder’s business as a trust or company service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
+
+(2) The Minister shall specify any such conditions in the authorisation granted to the holder or in one or more documents annexed to that authorisation.
+
+(3) If, under this section, the Minister imposes any conditions on an authorisation, the Minister shall serve on the holder of the authorisation, together with the authorisation, a written notice of the imposition of the conditions that includes a statement—
+
+(*a*) setting out the grounds on which the Minister has imposed the conditions, and
+
+(*b*) informing the holder that—
+
+(i) the holder may appeal to an Appeal Tribunal against the imposition of any of the conditions, and
+
+(ii) if the holder proposes to appeal to an Appeal Tribunal against the imposition of any of the conditions, the holder may, within one month after being served with the notice of the imposition of conditions, serve a notice of intention to appeal on the Minister, in the form provided or specified by the Minister.
+
+#### 91. Terms of authorisation.
+
+**91**.— (1) An authorisation comes into force on the day on which the authorisation is granted, or, if a later date is specified in the authorisation, on that later date, whether or not an appeal against any conditions of the authorisation is made under *section 100*.
+
+(2) An authorisation remains in force, unless sooner revoked under this Chapter, for a period of 3 years from the date on which it comes into force.
+
+(3) A reference in this section to an authorisation does not include a reference to an authorisation that is renewed under *section 92*.
+
+#### 92. Renewal of authorisation.
+
+**92**.— (1) The Minister may renew an authorisation on the application of the holder of the authorisation unless the authorisation has been revoked under this Chapter.
+
+(2) *Sections 88* to *90* apply, with any necessary modifications, in relation to an application for the renewal of an authorisation.
+
+(3) An application for the renewal of an authorisation shall be made not less than 10 weeks before the end of the period for which it was granted.
+
+(4) In addition to the grounds specified in *section 89* (as applied by *subsection (2)*), the Minister may refuse to grant a renewed authorisation on the grounds that the application for renewal has been made less than 10 weeks before the end of the period for which the authorisation was granted.
+
+(5) If an application for the renewal of an authorisation is made within the time provided for in *subsection (3)* and is not determined by the Minister before the end of the period for which the authorisation was granted, the authorisation remains in force until the date on which the application is determined.
+
+(6) A renewed authorisation comes into force on—
+
+(*a*) in a case where *subsection (5)* applies, the date on which the application is determined, or
+
+(*b*) in any other case, the day immediately following the end of the period for which the authorisation that it renews was granted or last renewed, as the case may be.
+
+(7) A renewed authorisation, unless sooner revoked under this Chapter, remains in force for a period of 3 years from the date on which it comes into force under *subsection (6)*.
+
+(8) *Subsections (6)* and *(7)* have effect whether or not an appeal against any conditions of the authorisation is made under *section 100*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E45: Fee prescribed in respect of application for renewal of authorisation made under section (15.07.2010) by *Trust or Company Service Provider (Authorisation) (Fees) Regulations 2010* (S.I. No. 348 of 2010), in effect as per reg. 1(2).
+
+#### 93. Minister may amend authorisation.
+
+**93**.— (1) The Minister may amend an authorisation granted under this Chapter by varying, replacing or revoking any conditions or by adding a new condition if the Minister considers that the variation, replacement, revocation or addition is necessary for the proper and orderly regulation of the business of the holder of the authorisation as a trust or company service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
+
+(2) If the Minister proposes to amend an authorisation under this section, the Minister shall serve on the holder of the authorisation a notice in writing informing the holder of the Minister’s intention to amend the authorisation.
+
+(3) The notice shall—
+
+(*a*) specify the proposed amendment, and
+
+(*b*) inform the holder that the holder may, within 21 days after service of the notice, make written representations to the Minister showing why the Minister should not make that amendment.
+
+(4) Not later than 21 days after a notice is served under *subsection (2)* on the holder of an authorisation, the holder may make written representations to the Minister showing why the Minister should not amend the authorisation.
+
+(5) The Minister may amend an authorisation only after having considered any representations to the Minister made in accordance with *subsection (4)* showing why the Minister should not amend the authorisation.
+
+(6) The Minister shall serve written notice of any amendment of an authorisation on the holder of the authorisation. The notice shall include a statement—
+
+(*a*) setting out the grounds on which the Minister has amended the authorisation, and
+
+(*b*) informing the holder that—
+
+(i) the holder may appeal to an Appeal Tribunal against the amendment, and
+
+(ii) if the holder proposes to appeal to an Appeal Tribunal against the amendment, the holder may, within one month after being served with the notice of amendment, serve a notice of intention to appeal on the Minister, in the form provided or specified by the Minister.
+
+(7) The amendment of an authorisation under this section takes effect from the date of the notice of amendment or, if a later date is specified in the notice, from that date, whether or not an appeal against the amendment is made under *section 100*.
+
+#### 94. Offence to fail to comply with conditions or prescribed requirements.
+
+**94**.— (1) The holder of an authorisation commits an offence if the holder fails to comply with—
+
+(*a*) any condition of the authorisation, or
+
+(*b*) any prescribed requirements.
+
+(2) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €2,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000.
+
+(3) The Minister may prescribe requirements for the purposes of *subsection (1)(b)* only if the Minister is satisfied that it is necessary to do so for the proper and orderly regulation of the business of trust or company service providers and, in particular, for preventing such businesses from being used to carry out money laundering orterrorist financing.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Application extended (15.07.2010) by *European Communities (Trust or Company Service Providers) (Temporary Authorisation) Regulations 2010* (S.I No. 347 of 2010), reg. 10, in effect as per reg. 2.
+>
+> 10\. A temporary authorisation shall be subject to any prescribed requirements referred to in section 94 of the Act of 2010.
+>
+> **Editorial Notes:**
+>
+> E46: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 95. Holder of authorisation to ensure that principal officers and beneficial owners are fit and proper persons.
+
+**95**.— (1) The holder of an authorisation shall take reasonable steps to ensure that the following persons are fit and proper persons:
+
+(*a*) in a case where the holder of the authorisation is a body corporate, a partnership or an individual carrying on business as a trust or company service provider as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(*b*) any person who is a beneficial owner of the business concerned.
+
+(2) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €2,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E47: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 96. Revocation of authorisation by Minister on application of holder.
+
+**96**.— The Minister shall revoke an authorisation on the application of the holder of the authorisation, but only if satisfied that the holder of the authorisation has fully complied with each of the following:
+
+(*a*) any conditions of the authorisation;
+
+(*b*) any prescribed requirements referred to in *section 94*;
+
+(*c*) *section 95*;
+
+(*d*) *section 98*;
+
+(*e*) *section 106*.
+
+#### 97. Revocation of authorisation other than on application of holder.
+
+**97**.— (1) The Minister may revoke an authorisation only if the Minister has reasonable grounds to be satisfied of any of the following:
+
+(*a*) the holder of the authorisation has not commenced to carry on business as a trust or company service provider within 12 months after the date on which the authorisation was granted;
+
+(*b*) the holder of the authorisation has not carried on such a business within the immediately preceding 6 months;
+
+(*c*) the authorisation was obtained by means of a false or misleading representation;
+
+(*d*) any of the following persons is not a fit and proper person:
+
+(i) the holder of the authorisation;
+
+(ii) in a case where the holder of the authorisation is a body corporate, a partnership or an individual carrying on business as a trust or company service provider as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(iii) any person who is a beneficial owner of the business concerned;
+
+(*e*) the holder of the authorisation has contravened or is contravening the obligations imposed on trust or company service providers, as designated persons, under this Part;
+
+(*f*) the holder of the authorisation has contravened or is contravening any of the following:
+
+(i) a condition of the authorisation;
+
+(ii) a prescribed requirement referred to in *section 94*;
+
+(iii) *section 95*;
+
+(iv) *section 98*;
+
+(v) *section 106*;
+
+(*g*) the holder of the authorisation is so structured, or the business of the holder is so organised, that the holder is not capable of being regulated under this Chapter or as a designated person under this Part;
+
+(*h*) in a case where the holder of the authorisation is a body corporate, the body corporate is being wound up;
+
+(*i*) in a case where the holder of the authorisation is a partnership, the partnership is dissolved by the death or bankruptcy of a partner or because of the operation of a provision of the Partnership Act 1890 or otherwise;
+
+(*j*) in a case where any person referred to in *paragraph (d)* has been authorised to carry on business as a trust or company service provider in another Member State, an authority of the other Member State that performs functions similar to those of the Minister under this Chapter has terminated the authority of the person to carry on business as a trust or company service provider in the other Member State;
+
+(*k*) in a case where the holder of the authorisation is a subsidiary of a body corporate that is authorised to carry on business as a trust or company service provider in another Member State, an authority of the other Member State that performs functions similar to those of the Minister under this Chapter has terminated the authority of the body corporate to carry on business as a trust or company service provider in the other Member State.
+
+(2) If the Minister proposes to revoke an authorisation under this section, the Minister shall serve on the holder of the authorisation a notice in writing informing the holder of the Minister’s intention to revoke the authorisation.
+
+(3) The notice shall—
+
+(*a*) specify the grounds on which the Minister proposes to revoke the authorisation, and
+
+(*b*) inform the holder that the holder may, within 21 days after service of the notice, make written representations to the Minister showing why the Minister should not revoke the authorisation.
+
+(4) Not later than 21 days after a notice is served under *subsection (2)* on the holder of an authorisation, the holder may make written representations to the Minister showing why the Minister should not revoke the authorisation.
+
+(5) The Minister may revoke the authorisation only after having considered any representations made by the holder of the authorisation in accordance with *subsection (4)*.
+
+(6) As soon as practicable after revoking an authorisation under this section, the Minister shall serve written notice of the revocation on the person who was the holder of the authorisation. The notice shall include a statement—
+
+(*a*) setting out the reasons for revoking the authorisation, and
+
+(*b*) informing the holder that—
+
+(i) the holder may appeal to an Appeal Tribunal against the revocation, and
+
+(ii) if the holder proposes to appeal to an Appeal Tribunal against the revocation, the holder may, within one month after being served with the notice of revocation, serve a notice of intention to appeal on the Minister in the form provided or specified by the Minister.
+
+(7) The revocation of an authorisation under this section takes effect from the date of the notice of revocation or, if a later date is specified in the notice, from that date, whether or not an appeal against the revocation is made under *section 100*.
+
+#### 98. Direction not to carry out business other than as directed.
+
+**98**.— (1) If the Minister reasonably believes that there may be grounds for revoking an authorisation under *section 97*, the Minister may serve on the holder of the authorisation a direction in writing prohibiting the holder from carrying on business as a trust or company service provider other than in accordance with conditions specified by the Minister.
+
+(2) The Minister shall include in a direction under this section a statement—
+
+(*a*) setting out F185[the reasons] for giving the direction,
+
+(*b*) informing the holder of the authorisation concerned that—
+
+(i) the holder may appeal to an Appeal Tribunal against the direction, and
+
+(ii) if the holder proposes to appeal to an Appeal Tribunal against the direction, the holder may, within one month after being served with the direction, serve a notice of intention to appeal on the Minister in the form provided or specified by the Minister,
+
+and
+
+(*c*) specifying the conditions with which the holder of the authorisation is required to comply.
+
+(3) The Minister may, by notice in writing served on the holder of the authorisation concerned, amend or revoke a direction given under this section.
+
+(4) Without prejudice to the generality of *subsection (3)*, the Minister may, by notice in writing given to the holder of the authorisation concerned, extend the period during which a direction remains in force by a further period or periods not exceeding 6 months.
+
+(5) A direction under this section takes effect from the date on which it is given or, if a later date is specified in the direction, from that date, whether or not an appeal against the direction is made under *section 100*.
+
+(6) A direction under this section ceases to have effect—
+
+(*a*) at the end of the period, not exceeding 6 months, specified in the direction, or if the period is extended under *subsection (4)*, at the end of the extended period, or
+
+(*b*) on the revocation of the holder’s authorisation under this Chapter,
+
+whichever occurs first.
+
+(7) A person who contravenes a direction given under this section, or fails to comply with a condition contained in the direction, commits an offence.
+
+(8) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Substituted (3.03.2014) by *Criminal Justice Act 2013* (19/2013), s. 16(a), S.I. No. 80 of 2014.
+>
+> **Editorial Notes:**
+>
+> E48: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 99. Minister to publish notice of revocation or direction.
+
+**99**.— As soon as practicable after revoking an authorisation under *section 96* or *97*, or giving a direction under *section 98*, the Minister shall publish in *Iris Oifigiúil* a notice giving particulars of the revocation or direction.
+
+#### 100. Appeals against decisions of Minister.
+
+**100**.— (1) In this section, “appealable decision” means a decision of the Minister under—
+
+(*a*) *section 89* to refuse an application for an authorisation,
+
+(*b*) *section 89*, as applied by *section 92*, to refuse an application for the renewal of an authorisation,
+
+(*c*) *section 90* to impose conditions on an authorisation,
+
+(*d*) *section 90*, as applied by *section 92*, to impose conditions on an authorisation that is renewed,
+
+(*e*) *section 93* to amend an authorisation,
+
+(*f*) *section 97* to revoke an authorisation, or
+
+(*g*) *section 98* to serve a direction on the holder of an authorisation.
+
+(2) A person aggrieved by an appealable decision may, within one month after being served with notice of the decision, serve a notice of the person’s intention to appeal against the decision on the Minister in the form provided or specified by the Minister.
+
+(3) On receipt of the notification, the Minister shall refer the matter to an Appeal Tribunal established under *section 101*.
+
+(4) The Appeal Tribunal may invite the person and the Minister to make written submissions to it in relation to the appeal.
+
+(5) The Appeal Tribunal shall notify the person, in writing, of the following matters:
+
+(*a*) the date and time of the hearing of the appeal;
+
+(*b*) that the person may attend the hearing;
+
+(*c*) that the person may be represented at the hearing by a barrister, solicitor or agent.
+
+(6) An Appeal Tribunal may refuse to hear, or continue to hear, an appeal under this section if it is of the opinion that the appeal is vexatious, frivolous, an abuse of process or without substance or foundation.
+
+(7) The Appeal Tribunal shall (unless the appeal is withdrawn, or discontinued or dismissed under *subsection (6)*) determine the appeal by—
+
+(*a*) affirming the decision of the Minister to which the appeal relates, or
+
+(*b*) substituting its determination for that decision.
+
+(8) The Appeal Tribunal shall notify its determination in writing to the Minister and the person appealing.
+
+(9) Within 3 months after the date on which an appeal is determined by an Appeal Tribunal, the Minister or person who appealed may appeal to the High Court on any question of law arising from the determination.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C15: Appeal tribunal established for period commencing on 22nd day of May 2013 and ending on 21st day of May 2018 to adjudicate on appeals under section (16.05.2013) by *Trust or Company Service Provider Authorisation (Appeal Tribunal) (Establishment) Order 2013* (S.I. No. 167 of 2013), reg. 3.
+
+#### 101. Appeal Tribunals.
+
+**101**.— F186[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F186: Repealed (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 24(a), S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E49: Previous affecting provision: power pursuant to subs. (1) exercised (19.11.2018 to 18.11.2023) by *Trust or Company Service Provider Authorisation (Appeal Tribunal) (Establishment) Order 2018* (S.I. No. 475 of 2018). The establishment of two appeal tribunals in identical terms is explained in the explanatory memorandum. Enabling provision repealed as per F-note above.
+>
+> E50: Previous affecting provision: power pursuant to subs. (1) exercised (19.11.2018 to 18.11.2023) by *Trust or Company Service Provider Authorisation (Appeal Tribunal) (Establishment) Order 2018* (S.I. No. 474 of 2018). The establishment of two appeal tribunals in identical terms is explained in the explanatory memorandum. Enabling provision repealed as per F-note above.
+>
+> E51: Previous affecting provision: power pursuant to subs. (1) exercised (22.05.2013 to 21.05.2018) by *Trust or Company Service Provider Authorisation (Appeal Tribunal) (Establishment) Order 2013* (S.I. No. 167 of 2013); spent and enabling provision repealed as per F-note above.
+
+#### 101A. F187[Appeal Tribunal
+
+**101A.**— (1) On the commencement of section 24 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021 there shall stand established a tribunal which shall be known as the Appeal Tribunal to consider and determine appeals made pursuant to this Act.
+
+(2) The Appeal Tribunal shall be independent in the exercise of its functions under this Act and shall regulate its own procedures.
+
+(3) The Appeal Tribunal may sit in divisions of itself to consider appeals.
+
+(4) The Appeal Tribunal shall consist of a chairperson and such number of ordinary members as the Minister considers necessary from time to time for the efficient discharge of its functions.
+
+(5) The chairperson and the ordinary members of the Appeal Tribunal shall be appointed by the Minister and the appointment shall be subject to such terms and conditions, including terms and conditions relating to remuneration, as the Minister may determine with the consent of the Minister for Public Expenditure and Reform.
+
+(6) Each member of the Appeal Tribunal shall be a practising barrister or solicitor of not less than 10 years’ practice.
+
+(7) The term of office of a member of the Appeal Tribunal shall be 5 years and a member of the Appeal Tribunal shall be eligible for re-appointment as such member for a second term not exceeding 5 years.
+
+(8) A member of the Appeal Tribunal may at any time resign his or her office as such member by giving notice in writing to the Minister and the resignation shall take effect on and from the date of receipt of the notice.
+
+(9) A member of the Appeal Tribunal may be removed from office by the Minister for stated misbehaviour or if, in the opinion of the Minister, the member has become incapable through ill-health or otherwise of effectively performing the functions of the Appeal Tribunal.
+
+(10) If a member of the Appeal Tribunal dies, resigns, becomes disqualified or is removed from office, the Minister may appoint another person to be a member of the Appeal Tribunal to fill the casual vacancy so occasioned and the person so appointed shall be appointed in the same manner as the member of the Appeal Tribunal who occasioned the vacancy and shall hold office for the remainder of the term of office for which his or her predecessor was appointed.
+
+(11) Where a member of the Appeal Tribunal is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(*c*) regarded pursuant to Part XIII of the second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+(*d*) elected or co-opted as a member of a local authority,
+
+(*e*) appointed to judicial office, or
+
+(*f*) appointed Attorney General,
+
+he or she shall thereupon cease to be a member of the Tribunal.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F187: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 24(b), S.I. No. 188 of 2021.
+>
+> **Editorial Notes:**
+>
+> E52: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 102. Provision of information by Garda Síochána as to whether or not person is fit and proper person.
+
+**102**.— (1) The Minister may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Minister in determining, for the purposes of this Chapter, whether or not any of the following persons is a fit and proper person:
+
+(*a*) the holder or proposed holder of an authorisation;
+
+(*b*) in a case where the holder or proposed holder of the authorisation is a body corporate, a partnership or an individual carrying on, or proposing to carry on, business as a trust or company service provider as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(*c*) any person who is a beneficial owner of the business of the holder or proposed holder of the authorisation concerned.
+
+(2) Notwithstanding any other enactment or rule of law, the Commissioner of the Garda Síochána shall provide the Minister with information in accordance with a request of the Minister under this section.
+
+#### 103. Extension of powers under Chapter 8 for purposes related to this Chapter.
+
+**103**.— (1) The functions of a State competent authority, in relation to designated persons, under *Chapter 8*, may be performed by the Minister F188[to assist in carrying out] functions in relation to trust or company service providers under this Chapter.
+
+(2) For that purpose, *sections 66* to *83* apply with any necessary modifications, including the following:
+
+(*a*) a relevant authorised officer has, in respect of trust or company service providers within the meaning of this Chapter, all of the functions that an authorised officer appointed by a State competent authority under *section 72* has in respect of designated persons;
+
+(*b*) a judge of the District Court, in the case of an application under *section 78* by a relevant authorised officer in respect of a trust or company service provider, has all of the functions that such a judge has, in the case of a similar application under that section by an authorised officer appointed by a State competent authority under *section 72*, in respect of a designated person;
+
+(*c*) *section 79* applies so as to enable a relevant authorised officer to be accompanied and assisted in the exercise of the officer’s powers as referred to in that section;
+
+(*d*) *section 80* applies to a person who engages in conduct, referred to in that section, in relation to—
+
+(i) a relevant authorised officer, and
+
+(ii) any person accompanying and assisting the officer in accordance with *section 79* as applied by *paragraph (c)*.
+
+(3) This section has effect whether or not the Minister is the State competent authority for any class of trust or company service providers.
+
+(4) In this section “relevant authorised officer” means an authorised officer appointed by the Minister under *section 72*, as applied by this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Substituted (3.03.2014) by *Criminal Justice Act 2013* (19/2013), s. 16(b), S.I. No. 80 of 2014.
+
+#### 104. Register of persons holding authorisations.
+
+**104**.— (1) The Minister shall establish and maintain a register of persons authorised under this Chapter to carry on business as a trust or company service provider containing—
+
+(*a*) the name and the address of the principal place of business of each person authorised to carry on business as a trust or company service provider, and
+
+(*b*) such other information as may be prescribed.
+
+(2) The register may be in book form, electronic form or such other form as the Minister may determine. The register may be maintained in an electronic, mechanical or other non-written form only if it is capable of being reproduced in a written form.
+
+(3) The Minister shall maintain the register F189[at an office in the State].
+
+(4) Members of the public are entitled, without charge, to inspect the register F189[during ordinary business hours].
+
+F190[(5) The Minister may publish a register in written, electronic or other form and a member of the public is entitled to obtain a copy of a register or of an entry in a register on payment of such reasonable copying charges as may be prescribed (if any).]
+
+(6) The holder of an authorisation to whom an entry in the Register relates shall, as soon as practicable after the holder becomes aware of any error in the entry, or any change in circumstances that is likely to have a bearing on the accuracy of the entry, give notice in writing to the Minister of the error or change in circumstances, as the case may be.
+
+(7) In any legal proceedings, a certificate purporting to be signed by the Minister and stating that a person—
+
+(*a*) is recorded in the Register as the holder of an authorisation,
+
+(*b*) is not recorded in the Register as the holder of an authorisation,
+
+(*c*) was recorded in the Register as being, at a specified date or during a specified period, the holder of an authorisation, or
+
+(*d*) was not recorded in the Register as being, at a specified date or during a specified period, the holder of an authorisation,
+
+is evidence of the matter referred to in *paragraph (a)*, *(b)*, *(c)* or *(d)* (as the case may be), and is taken to have been signed by the person purporting to have signed it, unless the contrary is shown.
+
+(8) The Minister may prescribe particulars for the purposes of *subsection (1) (b)* or *section 105* only if satisfied that those particulars reasonably relate to the business of trust or company service providers or to the regulation of the business of trust or company service providers under this Part.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F189: Substituted (3.03.2014) by *Criminal Justice Act 2013* (19/2013), s. 16(c), S.I. No. 80 of 2014.
+>
+> F190: Substituted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 17, S.I. No. 196 of 2013.
+
+#### 105. Minister to publish list of persons holding authorisations.
+
+**105**.— The Minister shall, not less frequently than once during every period of 12 months after the commencement of this section, publish in *Iris Oifigiúil* a list of persons holding authorisations, together with other prescribed particulars (if any).
+
+#### 106. Holders of authorisations to retain certain records.
+
+**106**.— (1) The holder of an authorisation shall—
+
+(*a*) retain at an office or other premises in the State such records as may be specified by the Minister, and
+
+(*b*) notify the Minister in writing of the address of any office or other premises where those records are retained.
+
+(2) The requirement imposed by *subsection (1)* is in addition to, and not in substitution for, any other requirements imposed under any other enactment or rule of law with respect to the retention of records by the holder of an authorisation, including the requirements specified in *section 55*.
+
+(3) The holder of an authorisation shall retain the records referred to in *subsection (1)* for a period of not less than 6 years after—
+
+(*a*) in the case of a record made in relation to a customer of the holder, the last dealing with the customer, or
+
+(*b*) in any other case, the record is made.
+
+(4) The holder of an authorisation may keep the records referred to in *subsection (1)* wholly or partly in an electronic, mechanical or other non-written form only if they are capable of being reproduced in a written form.
+
+(5) The obligations that are imposed on a holder of an authorisation under this section continue to apply to a person who has been the holder of an authorisation, but has ceased to hold an authorisation or to carry on business as a trust or company service provider.
+
+(6) A requirement for the holder of an authorisation that is a body corporate to retain any record under this section applies to any body corporate that is a successor to, or a continuation of, the body corporate.
+
+(7) The Minister may make regulations prescribing requirements relating to the retention of records referred to in this section of a body corporate that is wound up or a partnership that is dissolved.
+
+(8) A person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+### Chapter 9A Virtual Asset Service Providers — Chapter 9A — Virtual Asset Service Providers
+
+#### F191[106A. Interpretation
+
+**106A.**— F192[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F191: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F192: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106B. Fit and proper person
+
+F193[**106B**.— F194[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F193: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F194: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106C. Registrations held by partnerships
+
+F195[**106C**.—F196[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F195: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F196: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106D. Scope of Bank’s supervision - performance of certain functions
+
+F197[**106D**.—F198[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F197: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F198: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106E. Obligation on virtual asset service providers to register with Bank
+
+F199[**106E**.— F200[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F199: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F200: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106F. Transitional provision for existing virtual asset service providers
+
+F201[**106F**.— F202[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F201: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F202: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106G. Application for registration
+
+F203[**106G**.— F204[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F203: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F204: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106H. Grant and refusal of applications for registration
+
+F205[**106H**.— F206[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F205: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F206: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025 (*S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106I. Bank may impose conditions when granting an application for registration
+
+F207[**106I**.— F208[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F207: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F208: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106J. Terms of registration
+
+F209[**106J**.— F210[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F209: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F210: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106K. Bank may amend registration
+
+F211[**106K**.— F212[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F211: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F212: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106L. Regulatory disclosure statement
+
+F213[**106L**.—F214[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F214: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106M. Offence to fail to comply with conditions or prescribed requirements
+
+F215[**106M**.—F216[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F216: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106N. Holder of registration to ensure that beneficial owners are fit and proper persons
+
+F217[**106N**.— F218[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F217: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F218: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106O. Revocation of registration by Bank on application of holder
+
+F219[**106O**.— F220[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F219: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F220: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106P. Revocation of registration other than on application of holder
+
+F221[**106P**.— F222[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F221: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F222: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106Q. Direction not to carry out business other than as directed
+
+F223[**106Q**.—F224[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F223: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F224: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106R. Bank to publish notice of revocation
+
+F225[**106R**.—F226[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F225: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F226: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106S. Register of Virtual Asset Service Providers
+
+F227[**106S**.—F228[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F227: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F228: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106T. Restriction on acquisition of beneficial interest in holders of registrations
+
+F229[**106T**.—F230[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F229: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F230: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106U. Powers of Bank in relation to beneficial owners
+
+F231[**106U**.—F232[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F231: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F232: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106V. Obligation on holder of registration to report certain suspicions to Bank
+
+F233[**106V**.—F234[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F233: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F234: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106W. Provision of information by Garda Síochána as to whether or not person is fit and proper person
+
+F235[**106W**.— F236[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F235: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F236: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106X. Bank’s power to make regulations
+
+F237[**106X**.— F238[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F237: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F238: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+#### 106Y. Holders of registrations to retain certain records
+
+F239[**106Y**.— F240[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F239: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 25, S.I. No. 188 of 2021.
+>
+> F240: Repealed (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(c), in effect as per reg. 1(2), subject to transitional provisions in reg. 16.
+
+### Chapter 9B Designation of Classes of Express Trust (and Matters Related to Such Trusts) for Certain Purposes — Chapter 9B — Designation of Classes of Express Trust (and Matters Related to Such Trusts) for Certain Purposes
+
+#### F241[106Z. Purpose of Chapter
+
+**106Z**.— (1) The purpose of this Chapter is to make provision for the meaning that certain words or expressions shall have in regulations that are made, on or after the commencement of section 26 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021, under section 3 of the European Communities Act 1972 , for the purpose of giving effect to Article 31 of the Fourth Money Laundering Directive.
+
+(2) Nothing in this Chapter applies to the construction of a word or expression used in another Chapter of this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F241: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 26, S.I. No. 188 of 2021.
+
+#### 106ZA. F242[Operation and interpretation (Chapter 9B)
+
+**106ZA**.— (1) Where the relevant regulations specify that, with respect to a particular word or expression, the designated meaning in the Act of 2010 shall apply then the meaning as hereafter provided in this Chapter shall apply with respect to that word or expression.
+
+(2) A reference in this Chapter to a definition being ‘designated’ with respect to a particular word or expression is a reference to the definition (with respect to the particular word or expression) being designated for the purposes of the relevant regulations.
+
+(3) In this Chapter—
+
+"Act of 1997" means the Taxes Consolidation Act 1997;
+
+"relevant regulations" means the regulations referred to in *section 106Z(1)*.
+
+(4) In this Chapter, a reference to the Fourth Money Laundering Directive is a reference to that Directive as amended by the Fifth Money Laundering Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F242: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 26, S.I. No. 188 of 2021.
+
+#### 106ZB. F243[Power to prescribe certain matters
+
+**106ZB**.— The Minister for Finance may by regulations provide for any matter referred to in this Chapter as prescribed or to be prescribed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F243: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 26, S.I. No. 188 of 2021.
+
+#### 106ZC. F244[Relevant trust - designated meaning
+
+**106ZC**.— (1) The following definition is designated with respect to "relevant trust":
+
+"relevant trust" means an express trust established by deed or other declaration in writing and any other arrangement or class of arrangements as may be prescribed but does not include an excluded arrangement.
+
+(2) For the purposes of the definition, designated by *subsection (1)*, with respect to "relevant trust", "excluded arrangement" means an arrangement of the following kind:
+
+(*a*) an occupational pension scheme that is an approved scheme pursuant to Chapter 1 of Part 30 of the Act of 1997;
+
+(*b*) an approved retirement fund within the meaning of Chapter 2 of Part 30 of the Act of 1997;
+
+(*c*) a profit sharing scheme or employee share ownership trust approved pursuant to Part 17 of the Act of 1997;
+
+(*d*) a trust for restricted shares within the meaning of section 128D of the Act of 1997;
+
+(*e*) the Haemophilia HIV Trust which was established by deed dated the 22nd day of November 1989, made between the Minister for Health, of the one part and certain other persons, of the other part;
+
+(*f*) a unit trust within the meaning of the European Union (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020 ( S.I. No. 233 of 2020 ), the beneficial ownership of which, by virtue of the European Union (Anti-Money Laundering: Beneficial Ownership of Corporate Entities) Regulations 2019 ( S.I. No. 110 of 2019 ), is required to be registered in the Central Register of Beneficial Ownership of Irish Collective Asset-management Vehicles, Credit Unions and Unit Trusts;
+
+(*g*) such other arrangement or class of arrangements as may be prescribed.
+
+(3) For the purpose of ensuring the uniform application of European Union law between Member States, the Minister for Finance may prescribe any arrangement or class of arrangements to be an excluded arrangement for the purpose of *subsection (2)(g)*, where he or she is satisfied that such arrangement or class of arrangements is not an express trust or similar legal arrangement within the meaning of the Fourth Money Laundering Directive, taking into consideration such information as is available to him or her on the following matters—
+
+(*a*) the low risk of money laundering or terrorist financing presented by such arrangement or class of arrangements having regard, in particular, to:
+
+(i) the legal structure of such arrangement or class of arrangements;
+
+(ii) any supervision or regulation of such arrangement or class of arrangements under any enactment, and
+
+(*b*) the non-application of Article 31 of the Fourth Money Laundering Directive to arrangements in other Member States having comparable purposes and structures to such arrangement or class of arrangements.
+
+(4) For the purpose of ensuring the uniform application of European Union law between Member States, the Minister for Finance may prescribe any arrangement or class of arrangements to be a relevant trust for the purpose of the definition, designated by *subsection (1)*, with respect to "relevant trust" where he or she is satisfied that such arrangement or class of arrangements is an express trust or a similar legal arrangement within the meaning of the Fourth Money Laundering Directive, taking into consideration such information as is available to him or her on the following matters—
+
+(*a*) the risk of money laundering or terrorist financing presented by such arrangement or class of arrangements having regard, in particular, to:
+
+(i) the legal structure of such arrangement or class of arrangements;
+
+(ii) the absence of, or any limitations in, the supervision or regulation of such arrangement or class of arrangements under any enactment,
+
+and
+
+(*b*) the application of Article 31 of the Fourth Money Laundering Directive to arrangements in other Member States having comparable purposes and structures to such arrangement or class of arrangements.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F244: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 26, S.I. No. 188 of 2021.
+
+#### 106ZD. F245[Beneficial owner in relation to relevant trusts - designated meaning
+
+**106ZD**.— (1) Subject to *subsections (5)* to *(7)*, the following definition is designated with respect to "beneficial owner" (in relation to a relevant trust):
+
+"beneficial owner", in relation to a relevant trust, means any of the following:
+
+(*a*) any individual who is entitled to a vested interest in possession, remainder or reversion, whether or not the interest is defeasible, in the capital of the relevant trust property;
+
+(*b*) in the case of a relevant trust other than one that is set up or operates entirely for the benefit of individuals referred to in *paragraph (a)*, the class of individuals in whose interest the trust is set up or operates;
+
+(*c*) any individual who has control over the relevant trust;
+
+(*d*) the settlor;
+
+(*e*) the trustee;
+
+(*f*) the protector.
+
+(2) For the purposes of the definition, designated by *subsection (1)*, with respect to "beneficial owner" (in relation to a relevant trust), *subsections (3)* to *(7)* shall apply; the relevant regulations may, for convenience of reference, set out any of the provisions of this section (whether those that precede or follow this subsection) notwithstanding the application (provided for by *section 106ZA(1)*) of those provisions to those regulations.
+
+(3) Except as provided by *subsection (5)*, in this section "control", in relation to a relevant trust, means a power (whether exercisable alone, jointly with another person or with the consent of another person) under the trust instrument concerned or by law to do any of the following:
+
+(*a*) dispose of, advance, lend, invest, pay or apply the trust property;
+
+(*b*) vary the relevant trust;
+
+(*c*) add or remove a person as a beneficiary or to or from a class of beneficiaries;
+
+(*d*) appoint or remove trustees;
+
+(*e*) direct, withhold consent to or veto the exercise of any power referred to in *paragraphs (a)* to *(d)*.
+
+(4) For the purposes of the definition of "control" in *subsection (3)*, an individual does not have control solely as a result of the power exercisable collectively at common law to vary or extinguish a trust where the beneficiaries under the trust are at least 18 years of age, have full capacity and (taken together) are absolutely entitled to the property to which the trust applies.
+
+(5) Notwithstanding *subsection (1)*, "beneficial owner", in relation to a relevant trust established for the purpose of holding any assets of an approved body of persons established for, and existing for, the sole purpose of promoting amateur games or amateur sports within the meaning of section 235 of the Act of 1997, means the trustees, the committee or other governing body of the club or association, and any other individual who has control over the relevant trust.
+
+(6) Notwithstanding *subsection (1)*, "beneficial owner", in relation to a relevant trust that is a charitable trust within the meaning of section 2 of the Charities Act 2009, means the trustees and the committee or other governing body of the charitable trust, and any other individual who has control over the charitable trust.
+
+(7) Notwithstanding *subsection (1)*, ‘beneficial owner’, in relation to an estate—
+
+(*a*) of a deceased person in the course of administration, and
+
+(*b*) in relation to which there is provision for a relevant trust for one or more beneficiaries,
+
+means the executor or administrator of the estate, and no other person, for the period in which the estate is being administered.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F245: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 26, S.I. No. 188 of 2021.
+
+### Chapter 10 Other — Chapter 10 — Other
+
+#### 107. Guidelines.
+
+**107**.— F246[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F246: Repealed (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 40(b), S.I. No. 486 of 2018.
+
+#### 107A. Defence
+
+F247[**107A.**— It shall be a defence in proceedings for an offence under this Part for the person charged with the offence to prove that the person took all reasonable steps to avoid the commission of the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F247: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 33, S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E53: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 108. Minister may delegate certain functions under this Part.
+
+**108**.— (1) The Minister may, by instrument in writing, delegate any of the Minister’s functions under *Chapter 8* or *9*, or under *section 109*, to a named officer or an officer of a particular class or description.
+
+(2) A delegation under this section may be made subject to such conditions or limitations as to the performance of any of the functions delegated, or as to time or circumstance, as may be specified in the instrument of delegation.
+
+(3) The Minister may, by instrument in writing, revoke a delegation under this section.
+
+(4) A function delegated under this section may, while the delegation remains unrevoked, be performed by the delegate in accordance with the terms of the delegation.
+
+(5) The Minister may continue to perform any functions delegated under this section.
+
+(6) Nothing in this section shall be construed as affecting the application to this Act of the general law concerning the imputing of acts of an officer of a Minister of the Government to the Minister of the Government.
+
+(7) In this section, “officer” means an officer of the Minister who is an established civil servant for the purposes of the Civil Service Regulation Act 1956.
+
+#### 108A. Obligation for certain designated persons to register with Central Bank of Ireland
+
+F248[**108A.**— (1) Subject to *subsection (2)*, a person who is a designated person pursuant to *paragraph (a)* of the definition of "financial institution" in *section 24(1)* and *section 25(1)(b)* F249[...] shall register with the Bank.
+
+(2) *Subsection (1)* shall not apply to a designated person that is authorised or licensed to carry on its activities by, or is registered with, the Bank under—
+
+(*a*) an Act of the Oireachtas (other than this Act),
+
+(*b*) a statute that was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and that continues in force by virtue of Article 50 of the Constitution, or
+
+(*c*) an instrument made under an Act of the Oireachtas or a statute referred to in *paragraph (b)*.
+
+(3) A designated person who is required to register under this section commits an offence if the person fails to do so and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(4) The Bank shall establish and maintain a register of persons that register under this section (referred to in this section as "the Register").
+
+(5) The following particulars shall be entered into the Register in respect of each designated person registered:
+
+(*a*) the name of the designated person;
+
+(*b*) the address of the head office and registered office of the designated person;
+
+(*c*) the activities that the designated person carries out that are contained within the meaning of *paragraph (a)* of the definition of financial institution in *section 24(1)*.
+
+(6) F249[...]
+
+(7) The Bank may specify a procedure for registering under this section.
+
+(8) The Register may be in book form, electronic form or such other form as the Bank may determine. The Register may be maintained in an electronic, mechanical or other non-written form only if it is capable of being reproduced in a written form.
+
+(9) The particulars entered in the Register pursuant to this section relating to a person who is a designated person pursuant to *section 25(1)(b)* and *paragraph (a)* of the definition of financial institution in *section 24(1)* may be removed from the Register where that person ceases to be a designated person pursuant to those provisions or is authorised or licensed to carry on its activities by, or is registered with, the Bank under an enactment specified in *paragraph (a)*, *(b)* or *(c)* of *subsection (2)*.
+
+(10) F249[...]
+
+(11) In this section "Bank" means the Central Bank of Ireland.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F248: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 34, S.I. No. 486 of 2018. A class A fine is defined as a fine not exceeding €5,000 (4.01.2011) by *Fines Act 2010* (8/2010), s. 3, S.I. No. 662 of 2010.
+>
+> F249: Deleted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(b)(i), (ii).
+>
+> **Editorial Notes:**
+>
+> E54: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 108B. Obligation for cheque cashing offices to register with Central Bank of Ireland
+
+F250[**108B.**— (1) A person shall not carry on business as a cheque cashing office unless the person is registered under this section.
+
+(2) A person who contravenes *subsection (1)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 3 years (or both).
+
+(3) Save to the extent that such procedures are provided for under this section, the Bank may specify procedures for registering under this section.
+
+(4) An individual, body corporate or partnership may apply to the Bank to be registered under this section.
+
+(5) An application for registration under this section shall—
+
+(*a*) be in a form provided or specified by the Bank,
+
+(*b*) specify the name of—
+
+(i) the applicant,
+
+(ii) in a case where the applicant is a body corporate or partnership, any principal officer of the body corporate or partnership (as the case may be), and
+
+(iii) any person who is, or is proposed to be, a beneficial owner of the applicant,
+
+(*c*) specify the address of the registered office of the applicant,
+
+(*d*) specify the address at which the business of a cheque cashing office is proposed to be carried on, and
+
+(*e*) contain such other information, and be accompanied by such documents, as the Bank may reasonably request including, for the purposes of the Bank assessing whether persons referred to in *paragraph (b)* are fit and proper persons, such information and documents as the Bank may reasonably require relating to the steps taken by the applicant to ensure that those persons are fit and proper persons and the process of verification carried out by the applicant for the purposes of so ensuring.
+
+(6) The Bank may, by written notice given to an applicant, require the applicant to provide, within the period of not less than 14 days specified in the notice, such additional information and documents as are reasonably necessary to enable the Bank to determine the application for registration under this section.
+
+(7) Subject to *section 108D*, the Bank may refuse an application for registration under this section only if—
+
+(*a*) the application does not comply with the requirements of *subsection (5)*,
+
+(*b*) the applicant does not provide any additional documents or information in accordance with a notice given under *subsection (6)*,
+
+(*c*) the Bank has reasonable grounds to be satisfied that information given to the Bank by the applicant in connection with the application is false or misleading in any material particular,
+
+(*d*) the Bank has reasonable grounds to be satisfied that any of the following persons is not a fit and proper person:
+
+(i) the applicant;
+
+(ii) in a case in which the applicant is a body corporate or partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(iii) any person who is, or is proposed to be, a beneficial owner of the applicant,
+
+(*e*) the applicant has failed to satisfy the Bank that the applicant would, if registered, comply with the obligations imposed on it under this Chapter,
+
+(*f*) the applicant has failed to satisfy the Bank that the applicant would, if registered, comply with each of the following:
+
+(i) any conditions to which the registration would have been subject;
+
+(ii) a direction of the Bank under *section 108G(1)*,
+
+(*g*) the applicant is so structured, or the business of the applicant is so organised, that the applicant is not capable of being regulated under this Chapter to the satisfaction of the Bank,
+
+(*h*) in a case where the applicant is a body corporate, the body corporate is being wound up,
+
+(*i*) in a case where the applicant is a partnership, the partnership is dissolved by the death or bankruptcy of a partner or because of the operation of a provision of the Partnership Act 1890 or otherwise,
+
+(*j*) in a case where any person referred to in *paragraph (d)* has been authorised to carry on business as a cheque cashing office in another Member State, an authority of the other Member State that performs functions similar to those of the Bank under this Chapter has terminated the authority of the person to carry on business as a cheque cashing office in the other Member State, or
+
+(*k*) in a case where the applicant is a subsidiary of a body corporate that is authorised to carry on business as a cheque cashing office in another Member State, an authority of the other Member State that performs functions similar to those of the Bank under this Chapter has terminated the authority of the body corporate to carry on business as a cheque cashing office in the other Member State.
+
+(8) If the Bank does not refuse an application for registration, the Bank shall register the applicant under this section.
+
+(9) The Bank shall establish and maintain a register of persons registered under this section (referred to in this section as "the Register").
+
+(10) The following particulars shall be entered into the Register in respect of each person registered under this section (in this section and *sections 108C* to *108I* referred to as “the person registered”):
+
+(*a*) the name of the person registered;
+
+(*b*) the address of the registered office of the person registered;
+
+(*c*) the address at which the business of a cheque cashing office is carried on.
+
+(11) Subject to *subsection (12)*, the Register may be in book form, electronic form or such other form as the Bank may determine.
+
+(12) The Register may be maintained in an electronic, mechanical or other non-written form only if it is capable of being reproduced in a written form.
+
+(13) In this section and *sections 108C* to *108I*—
+
+"Bank" means the Central Bank of Ireland;
+
+"principal officer" has the same meaning as it has in *Chapter 9*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F250: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c). A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 108C. Cancellation of registration and removal from register
+
+F251[**108C.**— (1) Subject to *section 108D*, the Bank may cancel the registration of a person under this section only if the Bank has reasonable grounds to be satisfied of any of the following:
+
+(*a*) the person registered has not commenced to carry on business as a cheque cashing office within 12 months after the date on which the person was registered;
+
+(*b*) the person registered has not carried on such a business within the 6 months immediately preceding the cancellation;
+
+(*c*) registration was obtained by means of a false or misleading representation;
+
+(*d*) any of the following persons is not a fit and proper person:
+
+(i) the person registered;
+
+(ii) in a case where the person registered is a body corporate or partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(iii) any person who is a beneficial owner of the person registered;
+
+(*e*) the person registered has contravened or is contravening the obligations imposed on it under this Chapter;
+
+(*f*) the person registered has contravened or is contravening any of the following:
+
+(i) a condition to which the registration is subject;
+
+(ii) a direction of the Bank under *section 108G(1)*;
+
+(*g*) the person registered is so structured, or the business of that person is so organised, that the person is not capable of being regulated under this Chapter;
+
+(*h*) in a case where the person registered is a body corporate, the body corporate is being wound up;
+
+(*i*) in a case where the person registered is a partnership, the partnership is dissolved by the death or bankruptcy of a partner or because of the operation of a provision of the Partnership Act 1890 or otherwise;
+
+(*j*) in a case where any person referred to in *paragraph (d)* has been authorised to carry on business as a cheque cashing office in another Member State, an authority of the other Member State that performs functions similar to those of the Bank under this Chapter has terminated the authority of the person to carry on business as a cheque cashing office in the other Member State;
+
+(*k*) in a case where the person registered is a subsidiary of a body corporate that is authorised to carry on business as a cheque cashing office in another Member State, an authority of the other Member State that performs functions similar to those of the Bank under this Chapter has terminated the authority of the body corporate to carry on business as a cheque cashing office in the other Member State.
+
+(2) The particulars relating to a person entered in the Register pursuant to this section shall be removed from the Register where the Bank cancels the registration of that person in accordance with this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F251: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c).
+
+#### 108D. Notice of refusal or cancellation of registration and right to make representations
+
+F252[**108D.**— (1) If the Bank proposes to—
+
+(*a*) refuse to register a person under *section 108B*, or
+
+(*b*) cancel a registration of a person under *section 108C*,
+
+the Bank shall serve on the person a notice in writing informing the person of the Bank’s intention to refuse to register the person or cancel the registration, as the case may be.
+
+(2) A notice served under *subsection (1)* shall—
+
+(*a*) specify the grounds on which the Bank proposes to refuse or cancel the registration, and
+
+(*b*) inform the person that the person may, within 21 days after the serving of the notice, make written representations to the Bank showing why the Bank should register the person, or not cancel the registration, as the case may be.
+
+(3) Not later than 21 days after a notice is served on a person under *subsection (1)*, the person may make written representations to the Bank showing why the Bank should register the person, or not cancel the registration, as the case may be.
+
+(4) The Bank may—
+
+(*a*) refuse to register a person under *section 108B*, or
+
+(*b*) cancel a registration of a person under *section 108C*,
+
+as the case may be, only after having considered any representations made by the person in accordance with *subsection (3)*.
+
+(5) As soon as practicable after refusing to register a person under *section 108B* or cancelling a registration under *section 108C*, the Bank shall serve a written notice of the refusal or cancellation, as the case may be, on the person concerned, including a statement setting out the reasons for the refusal or cancellation, as the case may be.
+
+(6) A decision of the Bank to refuse to register a person under *section 108B* or to cancel a registration under *section 108C* is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F252: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c).
+
+#### 108E. Registration subject to conditions
+
+F253[**108E.**— (1) The Bank may decide to register a person under *section 108B* subject to such conditions as the Bank considers necessary for the proper and orderly regulation of the registered person’s business as a cheque cashing office and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
+
+(2) If, under this section, the Bank decides to register a person subject to conditions, the Bank shall serve on the person registered a written notice of the conditions that includes a statement setting out the reasons for the decision.
+
+(3) A person registered commits an offence if he or she fails to comply with any condition to which the registration is subject and is liable—
+
+(*a*) on summary conviction, to a class C fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000.
+
+(4) A decision of the Bank to register a person subject to conditions under *subsection (1)* is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F253: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c). A class C fine means not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+
+#### 108F. Person registered to ensure that principal officers and beneficial owners are fit and proper persons
+
+F254[**108F.**— A person registered shall take reasonable steps to ensure that the following persons are fit and proper persons:
+
+(*a*) in a case where the person registered is a body corporate, a partnership or an individual carrying on business as a cheque cashing office as a partner in a partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(*b*) any person who is a beneficial owner of the business concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F254: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c).
+
+#### 108G. Direction not to carry out business other than as directed
+
+F255[**108G.**— (1) If the Bank reasonably believes that there may be grounds for cancelling a registration under *section 108C*, the Bank may serve on the person registered a direction in writing prohibiting that person from carrying on business as a cheque cashing office other than in accordance with conditions specified by the Bank in the direction.
+
+(2) The Bank shall include in a direction under this section a statement—
+
+(*a*) setting out the reasons for giving the direction,
+
+(*b*) specifying the period during which the direction remains in force, and
+
+(*c*) specifying the conditions with which the person registered is required to comply.
+
+(3) The Bank may, by notice in writing served on the person registered concerned, amend or revoke a direction given under *subsection (1)*.
+
+(4) Without prejudice to the generality of *subsection (3)*, the Bank may, by notice in writing given to the person registered concerned, extend the period during which a direction remains in force by a further period or periods not exceeding 6 months.
+
+(5) A direction under this section ceases to have effect—
+
+(*a*) at the end of the period, not exceeding 6 months, specified in the direction, or if the period is extended under *subsection (4)*, at the end of the extended period, or
+
+(*b*) on the cancellation of the registration of a person under *section 108C*, whichever occurs first.
+
+(6) A person who contravenes a direction given under *subsection (1)*, or fails to comply with a condition contained in the direction, commits an offence.
+
+(7) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 3 years (or both).
+
+(8) A decision of the Bank to give a direction under *subsection (1)* is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F255: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c). A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 108H. Provision of information by Garda Síochána as to whether or not person is fit and proper person
+
+F256[**108H.**— (1) The Bank may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Bank in determining, for the purposes of *sections 108B* to *108I*, whether or not any of the following persons is a fit and proper person:
+
+(*a*) the person who proposes to carry on or carries on, as the case may be, the business of a cheque cashing office;
+
+(*b*) in a case in which the person referred to in *paragraph (a)* is a body corporate or partnership, any principal officer of the body corporate or partnership (as the case may be);
+
+(*c*) in a case in which there is a beneficial owner of the person referred to in *paragraph (a)*, the beneficial owner.
+
+(2) Notwithstanding any other enactment or rule of law, the Commissioner of the Garda Síochána shall provide the Bank with information in accordance with a request of the Bank under *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F256: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c).
+
+#### 108I. Persons registered to retain certain records
+
+F257[**108I.**— (1) A person registered shall—
+
+(*a*) retain at an office or other premises in the State such records as may be specified by the Bank, and
+
+(*b*) notify the Bank in writing of the address of any office or other premises where those records are retained.
+
+(2) The requirement imposed by *subsection (1)* is in addition to, and not in substitution for, any other requirements imposed under any other enactment or rule of law with respect to the retention of records by the person registered.
+
+(3) The person registered shall retain the records referred to in *subsection (1)* for a period of not less than 6 years after—
+
+(*a*) in the case of a record made in relation to a customer of the person registered, the last dealing with the customer, or
+
+(*b*) in any other case, the record is made.
+
+(4) The person registered may keep the records referred to in *subsection (1)* wholly or partly in an electronic, mechanical or other non-written form only if they are capable of being reproduced in a written form.
+
+(5) The obligations that are imposed by *subsections (1)* and *(3)* on a person registered continue to apply to a person who has been registered under *section 108B*, but has ceased to be so registered or to carry on business as a cheque cashing office.
+
+(6) Where the person registered is a body corporate, the requirement to retain any record under this section applies to any body corporate that is a successor to, or a continuation of, the person registered.
+
+(7) A person who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 3 years (or both).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F257: Inserted (2.12.2019) by *European Union (Anti-Money Laundering: Cheque Cashing Offices) Regulations 2019* (S.I. No. 600 of 2019), reg. 2(c). A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 109. Registration of persons directing private members’ clubs.
+
+**109**.— (1) A person who is a designated person pursuant to *section 25(1)(h)* shall register with the Minister in accordance with suchprocedures as may be prescribed or otherwise imposed by the Minister.
+
+(2) A person who is required to register under this section commits an offence if the person fails to do so and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months (or both), or
+
+(*b*) on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years (or both).
+
+(3) The following particulars shall be entered into a register established and maintained by the Minister for the purposes of this section:
+
+(*a*) the name of each designated person who registers under this section;
+
+(*b*) the name and address of the premises of the private members’ club in relation to which the person is a designated person;
+
+(*c*) any prescribed information as may be reasonably required by the Minister for the purposes of this Act.
+
+(4) The register may be in book form, electronic form or such other form as the Minister may determine. The register may be maintained in an electronic, mechanical or other non-written form only if it is capable of being reproduced in a written form.
+
+(5) The Minister shall maintain the register at an office of the Department.
+
+(6) The Minister may prescribe particulars for the purposes of *subsection (3)(c)* only if satisfied that those particulars reasonably relate to the business or regulation of persons directing members’ clubs as designated persons.
+
+F258[(7) The Minister may publish the register in written, electronic or other form and a member of the public is entitled to obtain a copy of the register or of an entry in the register on payment of such reasonable copying charges as may be prescribed (if any).
+
+(8) The particulars entered in the register pursuant to this section relating to a person who is a designated person pursuant to section 25(1)(h) may be removed from the register where that person ceases to be a designated person pursuant to that provision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F258: Inserted (14.06.2013) by *Criminal Justice Act 2013* (19/2013), s. 18, S.I. No. 196 of 2013.
+>
+> F259: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **Modifications (not altering text):**
+>
+> C16: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109.**— F259[...]
+
+#### 109A. Managers and beneficial owners of private members’ clubs to hold certificates of fitness
+
+F260[**109A.**— (1) An individual who—
+
+(*a*) effectively directs a private members’ club at which gambling activities are carried on, or
+
+(*b*) is a beneficial owner of a private members’ club at which gambling activities are carried on,
+
+shall hold a certificate of fitness and probity (referred to in this section and *sections 109B*, *109C*, *109D* and *109E* as a "certificate of fitness") granted by a Superintendent of the Garda Síochána or, as the case may be, by the Minister.
+
+(2) An individual who fails to comply with *subsection (1)* commits an offence and is liable—
+
+(a) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years, or both.
+
+(3) Where on the date that is 6 months from the coming into force of this section an individual has applied for a certificate of fitness, this section shall not apply to that individual until such time as the application, and any appeal in relation to the application, has been finally determined.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F260: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 35, S.I. No. 486 of 2018. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F261: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F262: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> **Modifications (not altering text):**
+>
+> C17: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109A.**—F261[...]
+>
+> C18: Prospective affecting provision: subs. (1) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> (1) ...
+>
+> shall hold a certificate of fitness and probity (referred to in this section and *sections 109B*, *109C*, *109D* and *109E* as a "certificate of fitness") granted by F262[an Inspector] of the Garda Síochána or, as the case may be, by the Minister.
+
+#### 109B. Application for certificate of fitness
+
+F263[**109B.**— (1) Upon compliance with *subsection (2)*, an individual shall make an application for a certificate of fitness—
+
+(*a*) where the individual ordinarily resides in the State—
+
+(i) to the Superintendent of the Garda Síochána for the district in which he or she ordinarily resides, or
+
+(ii) to the Superintendent of the Garda Síochána for the district in which the private members’ club concerned is located or is proposed to be located,
+
+or
+
+(*b*) where the individual ordinarily resides outside the State, to the Minister.
+
+(2) An individual intending to apply for a certificate of fitness under this section shall, not later than 14 days and not earlier than one month before making the application, publish in two daily newspapers circulating in the State, a notice in such form as may be prescribed, of his or her intention to make the application.
+
+(3) An application for a certificate of fitness under this section shall be in such form as may be prescribed.
+
+(4) The applicant for a certificate of fitness shall provide the Superintendent of the Garda Síochána, or as the case may be, the Minister to whom the application concerned is made with all such information as he or she may reasonably require for the purposes of determining whether a relevant consideration referred to in *section 109C* exists.
+
+(5) A Superintendent of the Garda Síochána, or as the case may be, the Minister to whom an application for a certificate of fitness is duly made under this section shall, not later than 56 days after receiving the application, either—
+
+(*a*) grant the application and issue a certificate of fitness to the applicant, or
+
+(*b*) refuse the application.
+
+(6) A certificate of fitness under this section shall be in such form as may be prescribed.
+
+(7) An individual who, in applying for a certificate of fitness under this section, makes a statement or provides information to a Superintendent of the Garda Síochána or, as the case may be, to the Minister, that he or she knows, or ought reasonably to know, is false or misleading in a material respect commits an offence and is liable—
+
+(*a*) on summary conviction to a class A fine or imprisonment for a term not exceeding 6 months, or both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €50,000 or imprisonment for a term not exceeding 2 years, or both.
+
+(8) A Superintendent of the Garda Síochána shall, as soon as may be after making a decision in relation to an application for a certificate of fitness, notify the Minister in writing of that decision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F263: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 35, S.I. No. 486 of 2018. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F264: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F265, F266, F267, F268, F269, F270: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> **Modifications (not altering text):**
+>
+> C19: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109B.**—F264[...]
+>
+> C20: Prospective affecting provision: subss. (1)(a)(i), (ii), (4), (5), (7), (8) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> (1) ...
+>
+> (*a*) where the individual ordinarily resides in the State—
+>
+> (i) to F265[an Inspector of the Garda Síochána in the Garda division] in which he or she ordinarily resides, or
+>
+> (ii) to F266[an Inspector of the Garda Síochána in the Garda division] in which the private members’ club concerned is located or is proposed to be located,
+>
+> ...
+>
+> (4) The applicant for a certificate of fitness shall provide the F267[Inspector] of the Garda Síochána, or as the case may be, the Minister to whom the application concerned is made with all such information as he or she may reasonably require for the purposes of determining whether a relevant consideration referred to in *section 109C* exists.
+>
+> (5) F268[An Inspector] of the Garda Síochána, or as the case may be, the Minister to whom an application for a certificate of fitness is duly made under this section shall, not later than 56 days after receiving the application, either—
+>
+> ...
+>
+> (7) An individual who, in applying for a certificate of fitness under this section, makes a statement or provides information to F269[an Inspector] of the Garda Síochána or, as the case may be, to the Minister, that he or she knows, or ought reasonably to know, is false or misleading in a material respect commits an offence and is liable—
+>
+> ...
+>
+> (8) F270[An Inspector] of the Garda Síochána shall, as soon as may be after making a decision in relation to an application for a certificate of fitness, notify the Minister in writing of that decision.
+>
+> **Editorial Notes:**
+>
+> E55: Power pursuant to section exercised (1.06.2022) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 (Section 109B) (Certificate of Fitness) Regulations 2022* (S.I. No. 272 of 2022).
+>
+> E56: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 109C. Grounds of refusal to grant certificate of fitness
+
+F271[**109C.**— (1) A Superintendent of the Garda Síochána or, as the case may be, the Minister shall not refuse an application for a certificate of fitness made in accordance with *section 109B* unless—
+
+(*a*) a relevant consideration exists, or
+
+(*b*) he or she is not satisfied that the applicant has provided such information as he or she reasonably requires for the purposes of determining whether a relevant consideration exists.
+
+(2) For the purposes of *subsection (1)*, a relevant consideration exists if—
+
+(*a*) the applicant stands convicted of an offence under—
+
+(i) an enactment relating to excise duty on betting,
+
+(ii) the Gaming and Lotteries Acts 1956 to 2013,
+
+(iii) section 1078 of the Taxes Consolidation Act 1997,
+
+(iv) the Criminal Justice (Theft and Fraud Offences) Act 2001, or
+
+(v) this Act,
+
+(*b*) the applicant stands convicted of an offence under the law of a place (other than the State)—
+
+(i) consisting of an act or omission that, if committed in the State, would constitute an offence referred to in *paragraph (a)*, or
+
+(ii) relating to the conduct of gambling,
+
+or
+
+(*c*) the applicant was previously refused a certificate of fitness and either—
+
+(i) the applicant did not appeal the refusal, or
+
+(ii) on appeal to the District Court, the refusal was affirmed.
+
+(3) In this section, "enactment" means—
+
+(*a*) an Act of the Oireachtas,
+
+(*b*) a statute that was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and that continues in force by virtue of Article 50 of the Constitution,
+
+(*c*) an instrument made under—
+
+(i) an Act of the Oireachtas, or
+
+(ii) a statute referred to in *paragraph (b)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F271: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 35, S.I. No. 486 of 2018.
+>
+> F272: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F273: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> **Modifications (not altering text):**
+>
+> C21: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109C.**—F272[...]
+>
+> C22: Prospective affecting provision: subs. (1) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> (1) F273[An Inspector] of the Garda Síochána or, as the case may be, the Minister shall not refuse an application for a certificate of fitness made in accordance with *section 109B* unless—
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E57: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 109D. Duration of certificate of fitness
+
+F274[**109D.**— (1) A certificate of fitness shall remain in force until the expiration of 3 years after the date on which the certificate was issued.
+
+(2) If, before the expiration of a certificate of fitness, the individual to whom it was issued makes an application for a new certificate of fitness, the first-mentioned certificate of fitness shall remain in force—
+
+(*a*) until the issue of the new certificate of fitness,
+
+(*b*) in circumstances where the application is refused by the Superintendent of the Garda Síochána concerned or by the Minister and the individual does not make a request referred to in *section 109E(1)*, until the expiration of the period within which the request may be made,
+
+(*c*) in circumstances where the application is refused by the Superintendent of the Garda Síochána concerned or by the Minister and the individual makes a request referred to in section *109E(1)* but does not bring an appeal under that section, until the expiration of the period specified in *subsection (3)* of that section, or
+
+(*d*) in circumstances where the application is refused by the Superintendent of the Garda Síochána concerned or the Minister and the individual appeals the refusal in accordance with *section 109E*, until—
+
+(i) the District Court affirms the refusal in accordance with that section, or
+
+(ii) the issue of a new certificate of fitness pursuant to a direction of the District Court under *subsection (4)(b)* of that section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F274: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 35, S.I. No. 486 of 2018.
+>
+> F275: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F276, F277, F278: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> **Modifications (not altering text):**
+>
+> C23: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109D.**—F275[...]
+>
+> C24: Prospective affecting provision: subss. (2)(b), (c), (d) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> (2) ...
+>
+> (*b*) in circumstances where the application is refused by the F276[Inspector] of the Garda Síochána concerned or by the Minister and the individual does not make a request referred to in *section 109E(1)*, until the expiration of the period within which the request may be made,
+>
+> (*c*) in circumstances where the application is refused by the F277[Inspector] of the Garda Síochána concerned or by the Minister and the individual makes a request referred to in section *109E(1)* but does not bring an appeal under that section, until the expiration of the period specified in *subsection (3)* of that section, or
+>
+> (*d*) in circumstances where the application is refused by the F278[Inspector] of the Garda Síochána concerned or the Minister and the individual appeals the refusal in accordance with *section 109E*, until—
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E58: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 109E. Appeal where application for certificate of fitness is refused
+
+F279[**109E.**— (1) If a Superintendent of the Garda Síochána, or as the case may be, the Minister refuses an application for a certificate of fitness, he or she shall, on the request in writing of the applicant made not later than 14 days after the refusal, give the applicant a statement in writing of the reasons for the refusal.
+
+(2) A person to whom a certificate of fitness has been refused may, not later than 14 days after receiving a statement in writing under *subsection (1)*, appeal the refusal to the District Court.
+
+(3) A person who brings an appeal under this section shall, in such manner and within such period as may be prescribed give notice of the appeal to the Superintendent of the Garda Síochána concerned or, as the case may be, the Minister.
+
+(4) The District Court may, upon an appeal under this section, either—
+
+(*a*) affirm the refusal, or
+
+(*b*) grant the appeal and direct the Superintendent of the Garda Síochána concerned, or as the case may be, the Minister to issue a certificate of fitness to the appellant.
+
+(5) The Superintendent of the Garda Síochána concerned or, as the case may be, the Minister shall comply with a direction of the District Court under this section not later than 3 days after the giving of the direction.
+
+(6) The respondent in an appeal under this section shall not be entitled to advance as a reason for opposing an appeal under this section a reason not specified in a statement of the reasons for a refusal given to the appellant pursuant to a request under *subsection (1)*.
+
+(7) If the District Court affirms a refusal under *subsection (4)(a)*, it may also make an order requiring the appellant to pay the costs incurred by the respondent in defending the appeal and may determine the amount of such costs.
+
+(8) There shall be no appeal to the Circuit Court from a decision of the District Court under this section.
+
+(9) An appeal under this section by a person ordinarily resident in the State shall be brought before a judge of the District Court assigned to the District Court district—
+
+(*a*) in which he or she ordinarily resides, or
+
+(*b*) in which the private members’ club concerned is located or is proposed to be located.
+
+(10) An appeal under this section by a person not ordinarily resident in the State shall be brought before a judge of the District Court assigned to the Dublin Metropolitan District.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F279: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 35, S.I. No. 486 of 2018.
+>
+> F280: Repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> F281, F282, F283, F284: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: section repealed by *Gambling Regulation Act 2024* (35/2024), s. 10 and sch. 2 part 1 item 14, not commenced as of date of revision, subject to transitional provisions in ss. 256-261.
+>
+> **109E.**—F280[...]
+>
+> C26: Prospective affecting provision: subss. (1), (3), (4)(b), (5) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 27, not commenced as of date of revision, subject to transitional provisions in ss. 13, 21.
+>
+> (1) If F281[an Inspector] of the Garda Síochána, or as the case may be, the Minister refuses an application for a certificate of fitness, he or she shall, on the request in writing of the applicant made not later than 14 days after the refusal, give the applicant a statement in writing of the reasons for the refusal.
+>
+> ...
+>
+> (3) A person who brings an appeal under this section shall, in such manner and within such period as may be prescribed give notice of the appeal to the F282[Inspector] of the Garda Síochána concerned or, as the case may be, the Minister.
+>
+> (4) ...
+>
+> (*b*) grant the appeal and direct the F283[Inspector] of the Garda Síochána concerned, or as the case may be, the Minister to issue a certificate of fitness to the appellant.
+>
+> (5) The F284[Inspector] of the Garda Síochána concerned or, as the case may be, the Minister shall comply with a direction of the District Court under this section not later than 3 days after the giving of the direction.
+>
+> **Editorial Notes:**
+>
+> E59: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 109F. Requirement to appoint central contact point
+
+F285[**109F.**— (1) The Central Bank of Ireland may require an electronic money issuer as defined in Article 2, point (3), of Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009[^40], a payment service provider as defined in Article 4(11) of Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015[^41] or a crypto-asset service provider operating in the State under the right of establishment in forms other than a branch, and whose head office is situated in a Member State other than the State, to appoint a central contact point in the State that shall—
+
+(*a*) ensure, on behalf of the entity operating on a cross-border basis, compliance with AML/CFT rules, and
+
+(*b*) facilitate supervision by supervisors, including by providing supervisors with documents and information on request.
+
+(2) A word or expression that is used in this section and is also used in Article 45(9) of the Fourth Money Laundering Directive (amended by Article 38(6) of Regulation (EU) 2023/1113 of the European Parliament and of the Council of 31 May 2023[^42] ) has, unless the contrary intention appears, the same meaning in this section as it has in the said Article 45(9).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F285: Inserted (1.08.2025) by *European Union (Information Accompanying Transfers of Funds) Regulations 2025* (S.I. No. 310 of 2025), reg. 15(d), in effect as per reg. 1(2).
+
+## PART 5 Miscellaneous — PART 5 — Miscellaneous
+
+### 110. Service of documents.
+
+**110**.— (1) A notice or other document that is required or permitted, under this Act, to be served on or given to a person shall be addressed to the person by name and may be served or given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or carries on business;
+
+(*c*) by sending it by post in a pre-paid registered letter to the address at which the person ordinarily resides or carries on business;
+
+(*d*) if an address for service has been furnished, by leaving it at, or sending it by post in a pre-paid registered letter to, that address;
+
+(*e*) in the case of a direction to an individual or body (whether incorporated or unincorporated) under *Part 3* not to carry out any specified service or transaction at a branch or place of business of the body or individual, by leaving it at, or by sending it by post in a pre-paid registered letter to, the address of the branch or place of business (as the case may be);
+
+(*f*) if the person giving notice considers that notice should be given immediately and a fax machine is located at an address referred to in *paragraph (b)*, *(c)*, *(d)* or *(e)*, by sending it by fax to that machine, but only if the sender’s fax machine generates a message confirming successful transmission of the total number of pages of the notice.
+
+(2) For the purposes of this section—
+
+(*a*) a company registered under the Companies Acts is taken to be ordinarily resident at its registered office, and
+
+(*b*) any body corporate other than a company registered under the Companies Acts or any unincorporated body is taken to be ordinarily resident at its principal office or place of business in the State.
+
+(3) Nothing in *subsection (1)(e)* prevents the serving or giving of a direction or other document for the purposes of *Part 3* under any other provision of this section.
+
+(4) This section is without prejudice to any mode of service or of giving a notice or any other document provided for under any other enactment or rule of law.
+
+(5) This section does not apply in relation to the service of a notice on the Minister referred to in *section 100 (2)*.
+
+### 111. Offences — directors and others of bodies corporate and unincorporated bodies.
+
+**111**.— Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons, and is proved to have been committed with the consent or connivance, or to be attributable to any wilful neglect, of a person who, when the offence is committed, is—
+
+(*a*) a director, manager, secretary or other officer of the body, or a person purporting to act in that capacity, or
+
+(*b*) a member of the committee of management or other controlling authority of the body, or a person purporting to act in that capacity,
+
+that person is taken to have also committed the offence and may be proceeded against and punished accordingly.
+
+### 112. Disclosure of information in good faith.
+
+**112**.— (1) This section applies to the disclosure in good faith, to a member of the Garda Síochána or to any person who is concerned in the investigation or prosecution of an offence of money laundering or terrorist financing, of—
+
+(*a*) a suspicion that any property has been obtained in connection with any such offence, or derives from property so obtained, or
+
+(*b*) any matter on which such a suspicion is based.
+
+(2) A disclosure to which this section applies shall not be treated, for any purpose, as a breach of any restriction on the disclosure of information imposed by any other enactment or rule of law.
+
+### 113. Amendment of Bail Act 1997.
+
+**113**.— The Schedule to the Bail Act 1997 is amended by inserting the following paragraph after paragraph 34 (inserted by section 48 of the Criminal Justice (Miscellaneous Provisions) Act 2009):
+
+“*Money Laundering.*
+
+35\. Any offence under *Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*.”.
+
+### 114. Amendment of Central Bank Act 1942.
+
+**114**.— (1) In this section, “Act of 1942” means the Central Bank Act 1942.
+
+(2) Section 33AK(5) (inserted by section 26 of the Central Bank and Financial Services Authority of Ireland Act 2003) of the Act of 1942 is amended by deleting paragraph (*n*).
+
+(3) The Act of 1942 is amended by inserting the following after section 33AN (inserted by section 10 of the Central Bank and Financial Services Authority of Ireland Act 2004):
+
+“Application of Part to credit unions.
+
+33ANA.— (1) This Part applies in relation to—
+
+(*a*) the commission or suspected commission by a credit union of a contravention of—
+
+(i) a provision of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*,
+
+(ii) any direction given to the credit union under a provision of *Part 4* of that Act,
+
+(iii) any condition or requirement imposed on the credit union under a provision of *Part 4* of that Act or under any direction given to the credit union under a provision of that Part, or
+
+(iv) any obligation imposed on the credit union by this Part or imposed by the Regulatory Authority pursuant to a power exercised under this Part,
+
+and
+
+(*b*) participation, by a person concerned in the management of a credit union, in the commission by the credit union of such a contravention.
+
+(2) For those purposes—
+
+(*a*) a reference in this Part to a regulated financial service provider includes a reference to a credit union,
+
+(*b*) a reference in this Part to a prescribed contravention includes a reference to a contravention, by a credit union, of a provision, direction, condition, requirement or obligation referred to in subsection (1), and
+
+(*c*) a reference in this Part to a person concerned in the management of a regulated financial service provider includes a reference to a person concerned in the management of a credit union.
+
+(3) Nothing in this section limits the application of this Part in relation to matters other than those referred to in subsection (1).
+
+(4) This section has effect notwithstanding anything to the contrary in section 184 of the Credit Union Act 1997.”.
+
+(4) Schedule 2 (substituted by section 31 of the Central Bank and Financial Services Authority of Ireland Act 2003) to the Act of 1942 is amended in Part 1 by inserting the following at the end of the Part:
+
+“
+
+| *No. __ of 2010* | *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* | *Part 4* |
+|---|---|---|
+
+”.
+
+### 114A. Prescribed amounts under section 33AQ of Central Bank Act 1942 in respect of certain contraventions
+
+F286[**114A.**— (1) In this section "Act of 1942" means the Central Bank Act 1942 and "designated person" means a designated person within the meaning of Part 4.
+
+(2) Notwithstanding subsection (4) of section 33AQ of the Act of 1942, in the case of a contravention of *Chapter 3*, *4* or *6* of *Part 4*, or *section 30B*, *57*, *57A*, *58* or *59*, by a designated person, the prescribed amount for the purpose of subsection (3)(c) of section 33AQ is—
+
+(a) if the designated person is a body corporate or an unincorporated body, the greatest of—
+
+(i) €10,000,000,
+
+(ii) twice the amount of any benefit derived by the person from the contravention (where that benefit can be determined), and
+
+(iii) an amount equal to 10 per cent of the turnover of the body for its last complete financial year before the finding is made,
+
+(b) if the designated person is a natural person—
+
+(i) where the designated person is not a credit institution or financial institution, the greater of—
+
+(I) €1,000,000, and
+
+(II) twice the amount of any benefit derived by the person from the contravention (where that benefit can be determined),
+
+(ii) where the designated person is a credit institution or financial institution, the greater of—
+
+(I) €5,000,000, and
+
+(II) twice the amount of any benefit derived by the person from the contravention (where that benefit can be determined).
+
+(3) Notwithstanding subsection (6) of section 33AQ of the Act of 1942, in the case of a contravention of *Chapter 3*, *4* or *6* of *Part 4*, or *section 30B*, *57*, *57A*, *58* or *59*, by a designated person, the prescribed amount for the purpose of subsection (5)(b) of section 33AQ is—
+
+(a) where the designated person is not a credit institution or financial institution, the greater of—
+
+(i) €1,000,000, and
+
+(ii) twice the amount of any benefit derived by the person from the contravention (where that benefit can be determined),
+
+(b) where the designated person is a credit institution or financial institution, the greater of—
+
+(i) €5,000,000, and
+
+(ii) twice the amount of any benefit derived by the person from the contravention (where that benefit can be determined).
+
+(4) For the purposes of *subsection (2)(a)(iii)*, "turnover of the body" means total annual turnover of the designated person according to the latest available accounts approved by the management body of the designated person or, where the designated person is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial accounts in accordance with Article 22 of Directive 2013/34/EU​[^43], the total annual turnover or the corresponding type of income in accordance with the relevant accounting Directives according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F286: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 36, S.I. No. 486 of 2018.
+>
+> **Editorial Notes:**
+>
+> E60: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 115. Amendment of Courts (Supplemental Provisions) Act 1961.
+
+**115**.— Section 32A(1) of the Courts (Supplemental Provisions) Act 1961 (inserted by section 180 of the Criminal Justice Act 2006) is amended as follows:
+
+(*a*) in paragraph (*d*) (inserted by section 18 of the Criminal Justice (Surveillance) Act 2009) by substituting “Criminal Justice (Surveillance) Act 2009;” for “Criminal Justice (Surveillance) Act 2009.”;
+
+(*b*) by inserting the following paragraph after paragraph (*d*):
+
+“(*e*) any of the following powers under *Part 3* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*:
+
+(i) the power to order a person not to carry out any service or transaction;
+
+(ii) the power to revoke an order referred to in subparagraph (i);
+
+(iii) the power to make an order in relation to property if considered essential to do so for the purpose of enabling—
+
+(I) the person who applies for the order to discharge the reasonable living and other necessary expenses incurred or to be incurred in respect of the person or the person’s dependants, or
+
+(II) the person who applies for the order to carry on a business, trade, profession or other occupation to which any of the property relates.”.
+
+### 116. Consequential amendment of Central Bank Act 1997.
+
+**116**.— Section 28 (substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004) of the Central Bank Act 1997 is amended, in the definitions of “bureau de change business” and “money transmission service”, by substituting the following for paragraphs (*a*) and (*b*) of those definitions:
+
+“(*a*) by a person or body that is required to be licensed, registered or otherwise authorised by the Bank under a designated enactment (other than under this Part) or designated statutory instrument, or”.
+
+### 117. Consequential amendment of Criminal Justice Act 1994.
+
+**117**.— (1) In this section, “Act of 1994” means the Criminal Justice Act 1994.
+
+(2) Section 3(1) of the Act of 1994 is amended in the definition of “drug trafficking” by substituting the following for paragraph (*d*):
+
+“(*d*) engaging in any conduct (whether or not in the State) in relation to property obtained, whether directly or indirectly, from anything done in relation to a controlled drug, being conduct that—
+
+(i) is an offence under *Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (“*Part 2* of the *Act of 2010*”) or would have been an offence under that Part if the Part had been in operation at the time when the conduct was engaged in, or
+
+(ii) in the case of conduct in a place outside of the State, other than conduct referred to in subparagraph (i)—
+
+(I) would be an offence under *Part 2* of the *Act of 2010* if done in corresponding circumstances in the State, or
+
+(II) would have been an offence under that Part if done in corresponding circumstances in the State and if the Part had been in operation at the time when the conduct was engaged in, or”.
+
+(3) Section 3(1) of the Act of 1994 is amended in the definition of “drug trafficking offence” by substituting the following for paragraph (*e*):
+
+“(*e*) an offence under *Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*, or under section 31 of this Act (as in force before the commencement of that Part), in relation to the proceeds of drug trafficking,”.
+
+### 118. Consequential amendment of Criminal Justice (Mutual Assistance) Act 2008.
+
+**118**.— Section 94(3) of the Criminal Justice (Mutual Assistance) Act 2008 is amended by substituting “ *Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “section 31 of the Criminal Justice Act 1994, as substituted by section 21 of the Criminal Justice (Theft and Fraud Offences) Act 2001”.
+
+### 119. Consequential amendment of Criminal Justice (Theft and Fraud Offences) Act 2001.
+
+**119**.— Section 40(1) of the Criminal Justice (Theft and Fraud Offences) Act 2001 is amended by substituting the following for the definition of “money laundering”:
+
+“‘money laundering’ means an offence under *Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*;”.
+
+### 120. Consequential amendment of Investor Compensation Act 1998.
+
+**120**.— (1) In this section, “Act of 1998” means the Investor Compensation Act 1998.
+
+(2) Section 30(1) of the Act of 1998 is amended in the definition of “net loss” by substituting the following for subparagraph (iii):
+
+“(iii) money or investment instruments arising out of transactions in respect of which an offence has been committed under the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (“ Act of 2010 ”),
+
+(iv) money or investment instruments arising out of transactions in respect of which an offence has been committed under a provision of Part IV of the Criminal Justice Act 1994 prior to the repeal of that provision by the *Act of 2010*,
+
+(v) money or investment instruments arising out of transactions in respect of which an offence has been committed under a provision of section 57 or 58 of the Criminal Justice Act 1994 prior to the repeal of that provision by the *Act of 2010*, or
+
+(vi) money or investment instruments arising out of transactions in respect of which there has been a criminal conviction, at any time, for money laundering, within the meaning of Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing [^44].”.
+
+(3) Section 35 of the Act of 1998 is amended by substituting the following for subsection (3):
+
+“(3) Notwithstanding the time limits provided for in subsections (1) and (2), the competent authority may direct the Company or a compensation scheme approved under section 25, as appropriate, to suspend any payment to an eligible investor, where the investor has been charged with any of the following offences, pending the judgment of a court in respect of the charge:
+
+(*a*) an offence under the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (“ Act of 2010”);
+
+(*b*) an offence committed, prior to the repeal by the *Act of 2010* of any of the following provisions of the Criminal Justice Act 1994, under that provision:
+
+(i) a provision of Part IV;
+
+(ii) section 57;
+
+(iii) section 58;
+
+(*c*) an offence otherwise arising out of, or relating to, money laundering, within the meaning of Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing [^45].”.
+
+### 121. Consequential amendment of Taxes Consolidation Act 1997.
+
+**121**.— (1) In this section, “Act of 1997” means the Taxes Consolidation Act 1997.
+
+(2) Section 898F (substituted by section 90 of, and Schedule 4 to, the Finance Act 2004) of the Act of 1997 is amended as follows:
+
+(*a*) in subsection (3) by substituting “which is acceptable for the purposes of *Chapter 3* of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “it acquires by virtue of section 32 of the Criminal Justice Act 1994”;
+
+(*b*) in subsection (4) by substituting “which is acceptable for the purposes of *Chapter 3* of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “it acquires by virtue of section 32 of the Criminal Justice Act 1994”;
+
+(*c*) in subsection (5)(*a*) (substituted by section 124(1)(*a*) of the Finance Act 2006) by inserting “(or has done so, before the relevant commencement date, in accordance with this section as in force before that date)” after “in accordance with this section”;
+
+(*d*) by inserting the following paragraph after subsection (6)(*a*):
+
+“(*aa*) A paying agent who—
+
+(i) before the relevant commencement date, established the identity and residence of an individual under this section as in force before that date, and
+
+(ii) was required, immediately before the relevant commencement date and as a result of paragraph (*a*), to continue to treat that individual as so identified and so resident,
+
+shall continue to treat that individual as so identified and so resident until such time as the paying agent is in possession, or aware, of information which can reasonably be taken to indicate that the individual has been incorrectly identified or is not so resident or has changed his or her residence.”;
+
+(*e*) in subsection (6)(*b*) by inserting “or (*aa*)” after “paragraph (*a*)”;
+
+(*f*) in subsection (7) by inserting “(or as established, before the relevant commencement date, in accordance with this section as in force before that date)” after “this section”;
+
+(*g*) by inserting the following subsection after subsection (7):
+
+“(8) In this section, ‘relevant commencement date’ means the date on which *section 121(2)* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* comes into operation.”.
+
+(3) Section 898G (substituted by section 90 of, and Schedule 4 to, the Finance Act 2004) of the Act of 1997 is amended as follows:
+
+(*a*) in subsection (2) by substituting “ *Chapter 3* of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “section 32 of the Criminal Justice Act 1994”;
+
+(*b*) in subsection (4)(*b*) by substituting “ *Chapter 3* of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “section 32 of the Criminal Justice Act 1994”;
+
+(*c*) in subsection (5)(*b*)(iii) by substituting “ *Chapter 3* of *Part 4* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “section 32 of the Criminal Justice Act 1994”;
+
+(*d*) in subsection (6)(*a*) (substituted by section 124(1)(*b*) of the Finance Act 2006) by inserting “(or has done so, before the relevant commencement date, in accordance with this section as in force before that date)” after “in accordance with this section”;
+
+(*e*) by inserting the following paragraph after subsection (8)(*a*):
+
+“(*aa*) A paying agent who—
+
+(i) before the relevant commencement date, established the identity and residence of an individual under this section as in force before that date, and
+
+(ii) was required, immediately before the relevant commencement date and as a result of paragraph (*a*), to continue to treat that individual as so identified and so resident,
+
+shall continue to treat that individual as so identified and so resident until such time as the paying agent is in possession, or aware, of information which can reasonably be taken to indicate that the individual has been incorrectly identified or is not so resident or has changed his or her residence.”;
+
+(*f*) in subsection (8)(*b*) by inserting “or (*aa*)” after “paragraph (*a*)”;
+
+(*g*) in subsection (9) by inserting “(or as established, before the relevant commencement date, in accordance with this section as in force before that date)” after “this section”;
+
+(*h*) by inserting the following subsection after subsection (9):
+
+“(10) In this section, ‘ relevant commencement date’ means the date on which *section 121 (3)* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* comes into operation.”.
+
+### 122. Consequential amendment of Taxi Regulation Act 2003.
+
+**122**.— Section 36(1)(*f*) of the Taxi Regulation Act 2003 is amended by substituting “*Part 2* of the *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010*” for “Part IV of the Criminal Justice Act 1994”.
+
+## SCHEDULE 1 — REVOCATIONS OF STATUTORY INSTRUMENTS
+
+| Title of Instrument (1) | Number and Year (2) | Extent of Revocation (3) |
+|---|---|---|
+| Criminal Justice Act 1994 (Section 32(10)(*a*)) Regulations 1995 | S.I. No. 104 of 1995 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32(10)(*b*)) Regulations 1995 | S.I. No. 105 of 1995 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32(10)(*d*)) Regulations 1995 | S.I. No. 106 of 1995 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32(10)(*b*)) (No. 2) Regulations 1995 | S.I. No. 324 of 1995 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32(10)(*a*)) Regulations 2003 | S.I. No. 216 of 2003 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32) Regulations 2003 | S.I. No. 242 of 2003 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32) (Amendment) Regulations 2003 | S.I. No. 416 of 2003 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32) (Prescribed States or Countries) Regulations 2003 | S.I. No. 618 of 2003 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32) (Prescribed Activities) Regulations 2004 | S.I. No. 3 of 2004 | The whole Regulations. |
+| Criminal Justice Act 1994 (Section 32) (Prescribed States or Countries) Regulations 2004 | S.I. No. 569 of 2004 | The whole Regulations. |
+
+## F287[SCHEDULE 2 — Annex I to Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013[^46] on Access to the Activity of Credit Institutions and the Prudential Supervision of Credit Institutions and Investment Firms, Amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC
+
+LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
+
+1\. Taking deposits and other repayable funds.
+
+2\. Lending including *inter alia*: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting).
+
+3\. Financial leasing.
+
+4\. Payment services as defined in Article 4(3) of Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007[^47] on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC.
+
+5\. Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) insofar as such activity is not covered by point 4.
+
+6\. Guarantees and commitments.
+
+7\. Trading for own account or for account of customers in any of the following:
+
+(*a*) money market instruments (cheques, bills, certificates of deposit, etc.);
+
+(*b*) foreign exchange;
+
+(*c*) financial futures and options;
+
+(*d*) exchange and interest-rate instruments;
+
+(*e*) transferable securities.
+
+8\. Participation in securities issues and the provision of services relating to such issues.
+
+9\. Advice to undertakings on capital structure, industrial strategy and related questions and advice as well as services relating to mergers and the purchase of undertakings.
+
+10\. Money broking.
+
+11\. Portfolio management and advice.
+
+12\. Safekeeping and administration of securities.
+
+13\. Credit reference services.
+
+14\. Safe custody services.
+
+15\. Issuing electronic money.
+
+The services and activities provided for in Sections A and B of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004[^48] on markets in financial instruments, when referring to the financial instruments provided for in Section C of Annex I of that Directive, are subject to mutual recognition in accordance with Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013[^49].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F287: Substituted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 37, S.I. No. 486 of 2018.
+
+## F288[SCHEDULE 3 — Non-exhaustive list of factors suggesting potentially lower risk
+
+(1) Customer risk factors:
+
+(*a*) public companies listed on a stock exchange and subject to disclosure requirements (either by stock exchange rules or through law or enforceable means), which impose requirements to ensure adequate transparency of beneficial ownership;
+
+(*b*) public administrations or enterprises;
+
+(*c*) customers that are resident in geographical areas of lower risk as set out in *subparagraph (3)*.
+
+(2) Product, service, transaction or delivery channel risk factors:
+
+(*a*) life assurance policies for which the premium is low;
+
+(*b*) insurance policies for pension schemes if there is no early surrender option and the policy cannot be used as collateral;
+
+(*c*) a pension, superannuation or similar scheme that provides retirement benefits to employees, where contributions are made by way of deduction from wages, and the scheme rules do not permit the assignment of a member’s interest under the scheme;
+
+(*d*) financial products or services that provide appropriately defined and limited services to certain types of customers, so as to increase access for financial inclusion purposes;
+
+(*e*) products where the risks of money laundering and terrorist financing are managed by other factors such as purse limits or transparency of ownership (e.g. certain types of electronic money).
+
+(3) F289[Geographical risk factors - registration, establishment, residence in:]
+
+(*a*) Member States;
+
+(*b*) third countries having effective anti-money laundering (AML) or combating financing of terrorism (CFT) systems;
+
+(*c*) third countries identified by credible sources as having a low level of corruption or other criminal activity;
+
+(*d*) third countries which, on the basis of credible sources such as mutual evaluations, detailed assessment reports or published follow-up reports, have requirements to combat money laundering and terrorist financing consistent with the revised Financial Action Task Force (FATF) recommendations and effectively implement these requirements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F288: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 38, S.I. No. 486 of 2018.
+>
+> F289: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 27, S.I. No. 188 of 2021.
+
+## F290[SCHEDULE 4 — Non-exhaustive list of factors suggesting potentially higher risk
+
+(1) Customer risk factors:
+
+(*a*) the business relationship is conducted in unusual circumstances;
+
+(*b*) customers that are resident in geographical areas of higher risk as set out in *subparagraph (3)*;
+
+(*c*) non-resident customers;
+
+(*d*) legal persons or arrangements that are personal asset-holding vehicles;
+
+(*e*) companies that have nominee shareholders or shares in bearer form;
+
+(*f*) businesses that are cash intensive;
+
+(*g*) the ownership structure of the company appears unusual or excessively complex given the nature of the company’s F291[business;]
+
+F294[(*h*) the customer is a third country national who applies for residence rights or citizenship in the State in exchange for capital transfers, purchase of property or government bonds or investment in corporate entities in the State.]
+
+(2) Product, service, transaction or delivery channel risk factors:
+
+(*a*) private banking;
+
+(*b*) products or transactions that might favour anonymity;
+
+F292[(*c*) non face-to-face business relationships or transactions, without certain safeguards, such as electronic identification means, relevant trust services as defined in the Electronic Identification Regulation or any other secure, remote or electronic, identification process regulated, recognised, approved or accepted by the relevant national authorities;]
+
+(*d*) payment received from unknown or unassociated third parties;
+
+(*e*) new products and new business practices, including new delivery mechanism, and the use of new or developing technologies for both new and pre-existing F293[products;]
+
+F295[(*f*) transactions related to oil, arms, precious metals, tobacco products, cultural artefacts and other items of archaeological, historical, cultural and religious importance, or of rare or scientific value, as well as ivory and protected species.]
+
+(3) Geographical risk factors:
+
+(*a*) countries identified by credible sources, such as mutual evaluations, detailed assessment reports or published follow-up reports, as not having effective AML/CFT systems;
+
+(*b*) countries identified by credible sources as having significant levels of corruption or other criminal activity;
+
+(*c*) countries subject to sanctions, embargos or similar measures issued by organisations such as, for example, the European Union or the United Nations;
+
+(*d*) countries (or geographical areas) providing funding or support for terrorist activities, or that have designated terrorist organisations operating within their country.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F290: Inserted (26.11.2018) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018* (26/2018), s. 39, S.I. No. 486 of 2018.
+>
+> F291, F292, F293: Substituted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 28(a)(i), (b)(i), b(ii), S.I. No. 188 of 2021.
+>
+> F294, F295: Inserted (23.04.2021) by *Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021* (3/2021), s. 28(a)(ii), (b)(iii), S.I. No. 188 of 2021.
+
+[^1]: OJ No. L 119, 4.5.2016, p.1
+[^2]: OJ No. L 141, 5.6.2015, p. 73
+[^3]: OJ No. L 156, 19.6.2018, p. 43
+[^4]: OJ L 309, 25.11.2005, p.15
+[^5]: OJ L 319, 5.12.2007, p.1
+[^6]: OJ L 267, 10.10.2009, p.7
+[^7]: OJ No. L. 176, 27.6. 2013, p. 1
+[^8]: OJ No. L. 11, 17.1.2015, p. 37
+[^9]: OJ No. L. 171, 29.6.2016, p. 153
+[^10]: OJ No. L. 310, 25.11.2017, p. 1
+[^11]: OJ No. L. 345, 27.12.2017, p. 27
+[^12]: OJ No. L. 347, 28.12.2017, p. 1
+[^13]: OJ No. L. 74, 16.3.2018, p. 3
+[^14]: OJ No. L. 111, 25.4.2019, p. 4
+[^15]: OJ No. L. 150, 7.6.2019, p. 1
+[^16]: OJ No. L. 314, 5.12.2019, p. 1
+[^17]: OJ No. L. 204, 26.6.2020, p. 4
+[^18]: OJ No. L. 84, 11.3.2021, p. 1
+[^19]: OJ No. L. 116, 6.4.2021, p. 25
+[^20]: OJ No. L. 225, 25.6.2021, p. 52
+[^21]: OJ No. L. 275, 25.10.2022, p. 1
+[^22]: OJ L, 2023/2869, 20.12.2023
+[^23]: OJ L, 2024/1623, 19.6.2024
+[^24]: OJ L, 2024/2795, 31.10.2024
+[^25]: OJ No. L 186, 11.7.2019, p. 122.
+[^26]: OJ No. L 257, 28.8.2014, p. 73
+[^27]: OJ No. L 302, 18.11.2010, p. 1
+[^28]: OJ No. L 182, 29.6.2013, p. 19
+[^29]: OJ L 9, 15.1.2003, p. 3
+[^30]: OJ L 145, 30.4.2004, p. 1
+[^31]: OJ No. L 141, 5.6.2015, p. 1
+[^32]: OJ L 319, 5.12.2007, p.1
+[^33]: OJ No. L 173, 12.6.2014, p. 349
+[^34]: OJ No. L 173, 12.6.2014, p. 1
+[^35]: OJ No. L 345, 31.12.2003, p. 64
+[^36]: OJ No. L 390, 31.12.2004, p. 38
+[^37]: OJ No. L 135, 24.5.2016, p. 53.
+[^38]: OJ No. L 150, 9.6.2023, p. 40
+[^39]: OJ No. L141, 5.6.2015, p. 73
+[^40]: OJ No. L 267, 10.10.2009, p.7
+[^41]: OJ No. L 337, 23.12.2015, p.35
+[^42]: OJ No. L 150, 09.06.2023, p.1
+[^43]: OJ No. L 182, 29.6.2013, p. 19
+[^44]: OJ L 309, 25.11.2005, p.15
+[^45]: OJ L 309, 25.11.2005, p.15
+[^46]: OJ No. L 176, 27.6.2013, p. 338
+[^47]: OJ No. L 319, 5.12.2007, p. 1
+[^48]: OJ No. L 145, 30.4.2004, p. 1
+[^49]: OJ No. L 176, 27.6.2013, p. 338

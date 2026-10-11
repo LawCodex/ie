@@ -1,0 +1,11440 @@
+---
+title: "Value-Added Tax Consolidation Act 2010"
+identifier: "eli/2010/act/31"
+type: act
+jurisdiction: ie
+language: en
+number: 31
+year: 2010
+date: 2010-11-23
+last_amended: 2026-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2010/act/31/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2010/act/31/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Value-Added Tax Consolidation Act 2010
+
+AN ACT TO CONSOLIDATE ENACTMENTS RELATING TO VALUE-ADDED TAX.
+
+[23*rd November*, 2010]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Act included in definition of “Taxation Acts” by *Finance (Tax Appeals) Act 2015* (59/2015), s. 2(f), S.I. No. 110 of 2016.
+>
+> **Interpretation**
+>
+> 2\. In this Act— ...
+>
+> “Taxation Acts” means— ...
+>
+> (f) the Value-Added Tax Consolidation Act 2010, and the enactments amending or extending that Act,
+>
+> ...
+>
+> C2: Functions assigned to Tax Appeals Commission under Act extended and construed by *Finance (Tax Appeals) Act 2015* (59/2015), ss. 5(2) and 7(2), S.I. No. 110 of 2016.
+>
+> **Performance of Commission’s functions through Commissioners and staff**
+>
+> 5....
+>
+> (2) Any function assigned by this Act or the Taxation Acts to the Commission or the Commissioners, other than a function specified in *section 6(2)(b)*, *(f)*, *(g)*, or *(j)*, may be performed by any one or more of the Commission’s staff acting under the Commission’s authority.
+>
+> ...
+>
+> **Functions of Commissioners performable by one of their number**
+>
+> 7\. (1) Any provision of this Act, or the Taxation Acts, that confers a function on the Commissioners shall be read as conferring the function on, and accordingly as enabling, subject to the rules of procedure, if any, adopted under *section 6 (5)*, the function to be performed by, any one of the Commissioners.
+>
+> (2) Without prejudice to the generality of subsection (1), the granting of authority of the kind referred to in section 5(2) to a member or members of staff may, subject to the rules of procedure, if any, adopted under section 6(5), be done by any one of the Commissioners.
+>
+> C3: Reference to function of a “Commissioner” or “a member of the Commission” under Act construed (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 9(7), S.I. No. 110 of 2016.
+>
+> **Temporary Commissioners**
+>
+> **9.** ...
+>
+> (7) Notwithstanding that a temporary Commissioner is not, by virtue of section 4(2), to be regarded as a member of the Commission, where a function of a Commissioner falls to be performed by a temporary Commissioner, references in such of the provisions of—
+>
+> (a) this Act, other than those disapplied by subsection (6), or
+>
+> (b) the Taxation Acts,
+>
+> as are relevant to the performance of that function, to—
+>
+> (i) a Commissioner, or
+>
+> (ii) a member of the Commission,
+>
+> shall be read as including references to a temporary Commissioner.
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definition of “relevant Act” for purposes of data sharing and exchange pursuant to *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 26A; as inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (9/2022), s. 9, S.I. No. 202 of 2022.
+>
+> E2: Obligation on certain accountable persons under Act to make specified returns by electronic means imposed (1.09.2008) by *Tax Returns and Payments (Mandatory Electronic Filing and Payment of Tax) Regulations 2008* (S.I. No. 341 of 2008), in effect as per reg. 1(2); (1.06.2011) by *Tax Returns and Payments (Mandatory Electronic Filing and Payment of Tax) Regulations 2011* (S.I. No. 223 of 2011), in effect as per reg. 1(2); (1.06.2012) by *Tax Returns and Payments (Mandatory Electronic Filing and Payment of Tax) Regulations 2012* (S.I. No. 156 of 2012), reg. 4, in effect as per reg. 1(2); and (1.01.2015) by *Tax Returns and Payments (Mandatory Electronic Filing and Payment of Tax) Regulations 2014* (S.I. No. 572 of 2014), in effect as per reg. 1(2).
+>
+> E3: Act included in definition of “specified enactment” for purposes of data sharing and exchange pursuant to *Local Government (Household Charge) Act 2011* (36/2011), s. 14 (19.12.2011) by *Local Government (Household Charge) Act 2011* (36/2011), s. 14(3), commenced on enactment.
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title. — [VATA s. 44]
+
+**1**.— This Act may be cited as the Value-Added Tax Consolidation Act 2010.
+
+### 2. Interpretation — general. — [VATA s. 1 (in part) and s. 3(1B) and FA 2010 s. 165(4)]
+
+**2**.—(1) In this Act—
+
+“accountable person” has the same meaning as it has in *Part 2*;
+
+“accounting year” means a period of 12 months ending on 31 December, but if a taxable person customarily makes up accounts for periods of 12 months ending on another fixed date, then, for such a person, a period of 12 months ending on that fixed date;
+
+“agricultural produce” has the meaning assigned to it by *section 4(1)*;
+
+“agricultural service” has the meaning assigned to it by *section 4(1)*;
+
+“ancillary supply” means a supply, forming part of a composite supply, which is not physically and economically dissociable from a principal supply and is capable of being supplied only in the context of the better enjoyment of that principal supply;
+
+F1[“annual turnover” has the meaning assigned to it by *section 92B*;]
+
+“antiques” has the meaning assigned to it by *section 87(1)*;
+
+F2[“Appeal Commissioner” has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;]
+
+“assignment”, in relation to an interest in immovable goods, means the assignment by a person of that interest in those goods or any part of those goods to another person, except that, if that other person at the time of the assignment retains the reversion on that interest in those goods, that assignment shall be a surrender;
+
+“auction scheme” has the meaning assigned to it by *section 89(1)*;
+
+“body of persons” means any body politic, corporate or collegiate, and any company, partnership, fraternity, fellowship and society of persons, whether corporate or not corporate;
+
+“building”, in the definition of “development”, includes, in relation to a transaction, any prefabricated or like structure in respect of which the following conditions are satisfied:
+
+(*a*) the structure—
+
+(i) has a rigid roof and one or more rigid walls and (other than in the case of a structure used for the cultivation of plants) a floor,
+
+(ii) is designed so as to provide for human access to, and free movement in, its interior,
+
+(iii) is for a purpose that does not require that it be mobile or portable, and
+
+(iv) does not have or contain any aids to mobility or portability;
+
+and
+
+(*b*)(i) neither the agreement in respect of the transaction nor any other agreement between the parties to that agreement contains a provision relating to the rendering of the structure mobile or portable or the movement or re-location of the structure after its erection, and
+
+(ii) the person (in this subparagraph referred to as the “relevant person”) for whom the structure is constructed, extended, altered or reconstructed signs and delivers, at the time of the transaction, to the person who constructed, extended, altered or reconstructed the structure, a declaration of the relevant person’s intention to retain it on the site on which it is at that time located;
+
+“business” means an economic activity, whatever the purpose or results of that activity, and includes any activity of producers, traders or persons supplying services, including mining and agricultural activities and activities of the professions, and the exploitation of tangible or intangible property for the purposes of obtaining income therefrom on a continuing basis;
+
+“calendar quarter” means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October;F3[
+
+“call-off stock arrangements” means the dispatch or transport of goods from one Member State to another Member State where, at the time of the dispatch or transport of the goods to such other Member State, the identity of the person to whom those goods will be supplied at a later stage and after the goods have arrived in the Member State of destination is known to the supplier.]
+
+“capital goods” means developed immovable goods and includes refurbishment within the meaning of *section 63(1)*, and a reference to a capital good includes a reference to any part thereof and the term “capital good” shall be construed accordingly;
+
+“clothing” does not include footwear;
+
+“Collector-General” means the Collector-General appointed under section 851 of the Taxes Consolidation Act 1997;
+
+“collectors’ items” has the meaning assigned to it by *section 87(1)*;
+
+“Community” F4[, subject to *subsection (4A)*,] has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and cognate references shall be construed accordingly;
+
+“completed”, in respect of immovable goods, has the meaning assigned to it by *section 94(1)*;
+
+“composite supply” means a supply made by a taxable person to a customer comprising 2 or more supplies of goods or services or any combination of those, supplied in conjunction with each other, one of which is a principal supply;
+
+“contractor”, in relation to contract work, means a person who makes or assembles movable goods;
+
+“contract work” means the service of handing over by a contractor to another person of movable goods made or assembled by the contractor from goods entrusted to the contractor by that other person, whether or not the contractor has provided any part of the goods used;
+
+F7[“Customs Acts” has the meaning given to it by section 2(3) of the Customs Act 2015;]
+
+“customs-free airport” means the land which, under the Customs-free Airport Act 1947, for the time being constitutes the Customs-free airport;
+
+“development”, in relation to any land, means—
+
+(*a*) the construction, demolition, extension, alteration or reconstruction of any building on the land, or
+
+(*b*) the carrying out of any engineering or other operation in, on, over or under the land to adapt it for materially altered use;
+
+F8[“distance sales of goods imported from third territories or third countries” means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from outside the Community, to a customer in a Member State, where—
+
+(*a*) the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1), or for any other non-taxable person, and
+
+(*b*) the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier;]
+
+“electronically supplied services” includes—
+
+(*a*) website supply, web-hosting, distance maintenance of programmes and equipment,
+
+(*b*) supply of software and updating of it,
+
+(*c*) supply of images, text and information, and making databases available,
+
+(*d*) supply of music, films and games (including games of chance and gambling games) and of political, cultural, artistic, sporting, scientific and entertainment broadcasts and events, and
+
+(*e*) supply of distance teaching,
+
+and “electronic service” shall be construed accordingly, but where the supplier of a service and his or her customer communicate by means of electronic mail, this shall not of itself mean that the service performed is an electronic service;
+
+“enactment” means an Act or statutory instrument or any part of an Act or statutory instrument;
+
+“excisable products” means the products referred to in section 97 of the Finance Act 2001;
+
+“exempted activity” means—
+
+(*a*) a supply of immovable goods in respect of which, pursuant to F10[*sections 93(2)(a)(i)*, *94(2)* and *95(3)* and *(7)(b)*], tax is not chargeable, and
+
+F11[(*b*) a supply of any goods or services of a kind specified in *Schedule 1*;]
+
+“exportation of goods” means the exportation of goods to a destination outside the Community, and cognate words shall be construed accordingly;
+
+“farmer” has the meaning assigned to it by *section 4(1)*;
+
+“flat-rate addition” has the meaning assigned to it by *section 86(1)*;
+
+“flat-rate farmer” means—
+
+(*a*) a farmer who is not an accountable person,
+
+(*b*) a farmer who is an accountable person referred to in *section 9(4)* or *12(3)*, or
+
+(*c*) a person who, in accordance with *section 17(2)*, is deemed not to be an accountable person with respect to supplies of a kind specified in the definition of “farmer” in *section 4(1)*,
+
+in so far as that farmer engages in the supply of agricultural produce or agricultural services within the State;
+
+“footwear” includes shoes, boots, slippers and the like but does not include stockings, under-stockings, socks, ankle-socks or similar articles or footwear without soles or footwear which is or incorporates skating or swimming equipment;
+
+“free port” means the land declared to be a free port for the purposes of the Free Ports Act 1986 by an order made under section 2 of that Act;
+
+“freehold equivalent interest” means an interest in immovable goods (other than a freehold interest) the transfer of which constitutes a supply of goods in accordance with *Chapter 1* of *Part 3*;
+
+“fur skin” means any skin with the fur, hair or wool attached except the skin of woolled sheep or lamb;
+
+“goods” means all movable and immovable objects (other than things in action or money), and references to goods include references to both new and used goods;
+
+“goods threshold” means F12[€85,000];
+
+“hire”, in relation to movable goods, includes a letting on any terms including a leasing;
+
+F14[“immovable goods” has the same meaning as “immovable property” has in Article 13b (inserted by Council Implementing Regulation 1042/2013 of 7 October 2013[^1] ) of Council Implementing Regulation 282/2011/EU of 15 March 2011[^2];]
+
+“importation of goods” means the importation of goods from outside the Community into the State—
+
+(*a*) directly, or
+
+(*b*) through one or more than one other Member State where value-added tax referred to in the VAT Directive has not been chargeable on the goods in such other Member State or Member States in respect of the transaction concerned,
+
+and cognate words shall be construed accordingly;
+
+“independently”, in relation to a taxable person, excludes a person who is employed or who is bound to an employer by a contract of employment or by any other legal ties creating the relationship of employer and employee as regards working conditions, remuneration and the employer’s liability;
+
+“individual supply” means a supply of goods or services which is a constituent part of a multiple supply and which is physically and economically dissociable from the other goods or services forming part of that multiple supply, and is capable of being supplied as a good or service in its own right;
+
+“inspector of taxes” means an inspector of taxes appointed under section 852 of the Taxes Consolidation Act 1997;
+
+“intra-Community acquisition”, in relation to goods, has the meaning assigned to it by *section 24*;
+
+F9[“intra-Community distance sales of goods” means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from a Member State other than that in which the dispatch or transport of the goods to the customer ends, where—
+
+(*a*) the supply of goods is carried out for a taxable person, or for a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1) of the VAT Directive, or for any other non-taxable person, and
+
+(*b*) the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier;]
+
+“joint option for taxation” has the meaning assigned to it by *section 94*;
+
+“landlord’s option to tax” has the meaning assigned to it by *section 97*;
+
+F15[“livestock” means live—
+
+(*a*) cattle, sheep, goats, pigs and deer, and
+
+(*b*) horses normally intended for use in the preparation of foodstuffs or in agricultural production;]
+
+“local authority” has the meaning assigned to it by the Local Government Act 2001;
+
+“margin scheme” has the meaning assigned to it by *section 87(1)*;
+
+“Minister” means the Minister for Finance;
+
+“movable goods” means goods other than immovable goods;
+
+“multiple supply” means 2 or more individual supplies made by a taxable person to a customer where those supplies are made in conjunction with each other for a total consideration covering all of those individual supplies, and where those individual supplies do not constitute a composite supply;
+
+“new means of transport” means motorised land vehicles with an engine cylinder capacity exceeding 48 cubic centimetres or a power exceeding 7.2 kilowatts, vessels exceeding 7.5 metres in length and aircraft with a take-off weight exceeding 1,550 kilogrammes—
+
+(*a*) which are intended for the transport of persons or goods, and
+
+(*b*)(i) which in the case of vessels and aircraft were supplied 3 months or less after the date of first entry into service and in the case of land vehicles were supplied 6 months or less after the date of first entry into service, or
+
+(ii) which have travelled 6,000 kilometres or less in the case of land vehicles, sailed for 100 hours or less in the case of vessels or flown for 40 hours or less in the case of aircraft,
+
+other than vessels and aircraft of the kind referred to in *paragraph 4(2)* of *Schedule 2*;
+
+“person registered for value-added tax”—
+
+(*a*) in relation to another Member State, means a person currently issued with an identification number in that State for the purposes of accounting for value-added tax referred to in the VAT Directive,
+
+(*b*) in relation to the State, means a registered person;
+
+“principal supply” means the supply of goods or services which constitutes the predominant element of a composite supply and to which any other supply forming part of that composite supply is ancillary;
+
+“public body” means—
+
+(*a*) a Department of State,
+
+(*b*) a local authority, or
+
+(*c*) a body established by any enactment;
+
+“registered person” means a person who is registered in the register maintained under *section 65*;
+
+“regulations” means regulations under *section 120*;
+
+“repealed enactment” has the meaning assigned to it by *section 121*;
+
+“second-hand goods” has the meaning assigned to it by *section 87(1)*;
+
+“secretary” includes such persons as are referred to in section 1044(2) of the Taxes Consolidation Act 1997 and section 55(1) of the Finance Act 1920;
+
+“services threshold” means F13[€42,500];
+
+“stock-in-trade”, F16[in relation to a person, means goods that are]—
+
+(*a*) F16[movable goods of a kind] that the person has supplied in the ordinary course of the person’s business and that—
+
+(i) are held for supply (otherwise than because of *section 19(1)(f)*), or
+
+(ii) would be so held if they were mature or if their manufacture, preparation or construction had been completed,
+
+(*b*) materials incorporated into immovable goods of a kind that—
+
+(i) are supplied by the person in the ordinary course of the person’s business, and
+
+(ii) have not been supplied by the person since the goods were developed, but are held for supply, or would be so held if their development had been completed,
+
+and such materials shall be taken to have been supplied to the same extent as the immovable goods into which they have been incorporated are taken to have been supplied,
+
+(*c*) consumable materials that the person has incorporated into immovable goods in the course of a business that consists of the supply of a service involving constructing, repairing, painting or decorating immovable goods where that service has yet to be completed, and such materials shall be taken to have been supplied to the extent that the service in relation to which they have been used has been supplied, or
+
+(*d*) materials that have not been incorporated in goods and—
+
+(i) are used by the person in the manufacture or construction of goods of a kind that the person supplies in the ordinary course of the person’s business, or
+
+(ii) if the person’s ordinary business consists of repairing, painting or decorating immovable goods, are used by the person as consumable materials in the course of that business;
+
+“supply”—
+
+(*a*) in relation to goods, has the meaning assigned to it by *subsection (3)* and *Chapter 1* of *Part 3*,
+
+(*b*) in relation to services, has the meaning assigned to it by *Chapter 3* of *Part 3*,
+
+and cognate words shall be construed accordingly;
+
+“surrender”, in relation to an interest in immovable goods—
+
+(*a*) means the surrender by a person (in this definition referred to as the “lessee”) of an interest in those goods or any part of those goods to the person (in this definition referred to as the “lessor”) who, at the time of the surrender, retains the reversion on that interest in those goods, and
+
+(*b*) includes—
+
+(i) the abandonment of that interest in those goods by the lessee,
+
+(ii) the failure of the lessee to exercise any option of the kind referred to in *section 93(1)(a)* in relation to that interest in those goods (but excluding any such failure if such interest were created on or after 1 July 2008), and
+
+(iii) the recovery by the lessor of that interest in those goods by ejectment or forfeiture prior to the date that the interest would, but for its surrender, have expired;
+
+“tax” means value-added tax chargeable by virtue of this Act;
+
+“taxable dealer”—
+
+(*a*) in relation to supplies of gas through the natural gas distribution system, F17[or of heat or cooling energy through heating or cooling networks,] or of electricity, has the meaning assigned to it by *section 31(1)(a)*, and
+
+(*b*) in relation to supplies of movable goods (including a means of transport and agricultural machinery) has the meaning assigned to it by *section 87(1)*;
+
+“taxable goods”, in relation to any supply, intra-Community acquisition or importation, means goods the supply of which is not an exempted activity;
+
+“taxable period” means a period of 2 months beginning on 1 January, 1 March, 1 May, 1 July, 1 September or 1 November;
+
+“taxable person” means a person who independently carries on a business in the Community or elsewhere;
+
+“taxable services” means services the supply of which is not an exempted activity;
+
+“telecommunications services” means services relating to the transmission, emission or reception of signals, writing, images and sounds or information of any nature by wire, radio, optical or other electromagnetic systems, and includes—
+
+(*a*) the related transfer or assignment of the right to use capacity for such transmission, emission or reception, and
+
+(*b*) the provision of access to global information networks;
+
+“telephone card” means a card, or a means other than money—
+
+(*a*) that confers a right to access a telecommunications service and, in cases where the supplier of the telecommunications service so agrees with another supplier (in this definition referred to as a “contracted third party supplier”), a right to receive other services or goods from that contracted third party supplier, and
+
+(*b*) that, when the card or other means is supplied to a person other than for the purpose of resale, entitles the supplier to a consideration for the supply under circumstances that preclude the user of the card or means from being liable for any further charge for access to the telecommunications service or for the receipt of services or goods from a contracted third party supplier;
+
+“VAT Directive” means Council Directive No. 2006/112/EC of 28 November 2006 [^3] on the common system of value-added tax;
+
+“vessel”, in relation to transport, means a waterborne craft of any type, whether self-propelled or not, and includes a hovercraft;
+
+“works of art” has the meaning assigned to it by *section 87(1)*.
+
+(2) In this Act references to moneys received by a person include references to—
+
+(*a*) money lodged or credited to the account of the person in any bank, savings bank, building society, hire purchase finance concern or similar financial concern,
+
+(*b*) money (other than money referred to in *paragraph (a)*) which under an agreement (other than an agreement providing for discount or a price adjustment made in the ordinary course of business or an arrangement with creditors) has ceased to be due to the person,
+
+(*c*) money due to the person which, in accordance with section 1002 of the Taxes Consolidation Act 1997, is paid to the Revenue Commissioners by another person and has thereby ceased to be due to the person by that other person, and
+
+(*d*) money, which, in relation to money received by a person from another person, has been deducted in accordance with—
+
+(i) Chapter 1 of Part 18 of the Taxes Consolidation Act 1997, or
+
+(ii) Chapter 2 of Part 18 of the Taxes Consolidation Act 1997,
+
+and has thereby ceased to be due to the first-mentioned person by the other person,
+
+and money so lodged or credited to the account of a person shall be deemed to have been received by the person on the date of the making of the lodgement or credit and money which has so ceased to be due to a person shall be deemed to have been received by the person on the date of the cesser.
+
+(3) For the purposes of this Act, the provision of electricity, gas and any form of power, heat, refrigeration or ventilation shall be deemed to be a supply of goods and not a supply of services.
+
+(4) In this Act, a reference to the territory of a Member State has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and F5[, subject to *subsection (4A)*,] references to Member States and cognate references shall be construed accordingly.
+
+F6[(4A) In this Act, each reference to—
+
+(*a*) Community, and
+
+(*b*) Member State,
+
+shall apply as if the reference included a reference to Northern Ireland, save—
+
+(i) where the reference occurs in a provision specified in *Part 1* of F18[*Schedule 9*,]
+
+(ii) in the case of a provision specified in *Part 2* of *Schedule 9*, in so far as the provision applies to F18[services, and]]
+
+F1[(iii) where the reference occurs in a provision specified in *Part 3* of *Schedule 9*.]
+
+(5) References in any other enactment to the “Value-Added Tax Acts” mean this Act and every enactment which is to be read together with this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg 3(a), (b)(iii).
+>
+> F2: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(a), S.I. No. 110 of 2016.
+>
+> F3: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(a), in effect as per art. 2.
+>
+> F4, F5, F6: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 61(a)-(c), S.I. No. 723 of 2020.
+>
+> F7: Inserted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(a), commenced on enactment.
+>
+> F8, F9: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 4(a), (b), in effect as per reg. 2.
+>
+> F10: Substituted (22.12.2019) by *Finance Act 2019* (45/2019), s. 74 and sch. para. 2(a), commenced on enactment as per para. 6(a).
+>
+> F11: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 85(a), commenced on enactment.
+>
+> F12, F13: Substituted (1.01.2025) by *Finance Act 2024* (43/2024), s. 78, commenced as per s. 78.
+>
+> F14: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 38, commenced on enactment.
+>
+> F15: Substituted (1.01.2015) by *Finance (No. 2) Act 2013* (41/2013), s. 66(1)(a), commenced as per s. 66(2) and S.I. No. 498 of 2014.
+>
+> F16: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2, commenced on enactment.
+>
+> F17: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(a), in effect as per par. 4(b).
+>
+> F18: Substituted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 3(b)(i), (ii).
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: definitions of “goods threshold”, “services threshold” amended (1.01.2024) by *Finance (No. 2) Act 2023* (39/2023), s. 58, commenced as per s. 58; substituted (1.01.2025) as per F-note above.
+
+### 3. Charge of value-added tax. — [VATA s. 2]
+
+**3**.— Except as expressly otherwise provided by this Act, a tax called value-added tax is, subject to and in accordance with this Act and regulations, chargeable, leviable and payable on the following transactions:
+
+(*a*) the supply for consideration of goods by a taxable person acting in that capacity when the place of supply is the State;
+
+(*b*) the importation of goods into the State;
+
+(*c*) the supply for consideration of services by a taxable person acting in that capacity when the place of supply is the State;
+
+(*d*) the intra-Community acquisition for consideration by an accountable person of goods (other than new means of transport) when the acquisition is made within the State;
+
+(*e*) the intra-Community acquisition for consideration of new means of transport when the acquisition is made within the State.
+
+## PART 2 Accountable persons — PART 2 — Accountable persons
+
+### Chapter 1 Interpretation — Chapter 1 — Interpretation
+
+#### 4. Definitions — Part 2. — [VATA s. 8(3B) and (9)]
+
+**4**.—(1) In this Act—
+
+“agricultural produce”, in relation to a farmer, means goods (other than live greyhounds) produced by the farmer in the course of an Annex VII activity;
+
+“agricultural service”, in relation to a farmer, means any Annex VIII service supplied by the farmer using his or her own labour or that of his or her employees or effected by means of machinery, plant or other equipment normally used for the purposes of an Annex VII activity carried on by the farmer;
+
+“Annex VII activity” means any activity of a description specified in F19[Annex VII of the VAT Directive (the text of which Annex is contained in *Part 1* of *Schedule 4*) and Article 295(2)];
+
+“Annex VIII service” means any service of a description specified in F20[...] Annex VIII of the VAT Directive (the text of which Annex is contained in *Part 2* of *Schedule 4*);
+
+“farmer” means a person who engages in at least one Annex VII activity, and—
+
+(*a*) whose supplies consist exclusively of either or both of the following:
+
+(i) supplies of agricultural produce;
+
+(ii) supplies of agricultural services;
+
+or
+
+(*b*) whose supplies consist exclusively of either or both of the supplies specified in *paragraph (a)* and of one or more of the following:
+
+(i) supplies of machinery, plant or equipment which has been used by such person for the purposes of an Annex VII activity;
+
+F21[(ii) supplies of services consisting of the training of horses for racing, the total annual turnover for which has not exceeded, in the current calendar year or the previous calendar year, the services threshold;]
+
+(iii) supplies of goods and services (other than those referred to in *subparagraphs (i)* and *(ii)* or *paragraph (a)*) the total F22[annual turnover] for which is such that such person would not, because of *section 6(1)(c)* or *(d)*, be an accountable person if such supplies were the only supplies made by him or her.
+
+(2) In this Part “control”—
+
+(*a*) in relation to a body corporate, means the power of a person to secure, by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate, or by virtue of any powers conferred by the articles of association or other document regulating that or any other body corporate, that the affairs of the first-mentioned body corporate are conducted in accordance with the wishes of that person,
+
+(*b*) in relation to a partnership, means the right to a share of more than one-half of the assets, or of more than one-half of the income, of the partnership.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(a), commenced as per par. 10(c).
+>
+> F20: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(a), commenced as per par. 10(c).
+>
+> F21, F22: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 68(1)(a)(i), (ii), in effect as per s. 68(1).
+
+### Chapter 2 General rules — Chapter 2 — General rules
+
+#### 5. Persons who are, or who may become, accountable persons. — [VATA s. 8(1) and (4)]
+
+**5**.—(1)(*a*) Subject to *paragraph (c)*, a taxable person who engages in the supply, within the State, of taxable goods or services shall be—
+
+(i) an accountable person, and
+
+(ii) accountable for and liable to pay the tax charged in respect of such supply.
+
+(*b*) Subject to *paragraph (c)*, in addition, the persons referred to in F23[*sections 9*, *10*, *12*, *15*, *17*(1), *94*(3), *108C*, *109A* and *91J(10)*] shall be accountable persons.
+
+(*c*) A person not established in the State who supplies goods in the State only in the circumstances set out in *section 10*, or supplies a service in the State only in the circumstances set out in F24[*section 16(3)*,] shall not be an accountable person.
+
+(2) F25[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 5, in effect as per reg. 2.
+>
+> F24: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+>
+> F25: Deleted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 4.
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: subs. (1)(b) amended (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(a), commenced on enactment; substituted as per F-note above.
+>
+> E6: Previous affecting provision: subs. (1)(b) amended (23.12.2014) by *Finance Act 2014* (37/2014), s. 69(2)(a), commenced on enactment; substituted as per E-note above.
+>
+> E7: Previous affecting provision: subs. (1)(b) amended (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d), in effect as per reg. 1(2); substituted as per E-note above.
+
+#### 6. Persons not accountable persons unless they so elect. — [VATA s. 8(3) and (3D)(a)]
+
+**6**.—(1) Subject to *subsections (2)* and *(3)* and F29[*sections 9*, *10*, *12*,] *14(1)* and *17(1)*, and notwithstanding *section 5(1)*, the following persons shall not, unless they otherwise elect and then only during the period for which such election has effect, be accountable persons:
+
+F26[(*a*) a farmer, for whose supply, in the current calendar year or the previous calendar year, of—
+
+(i) agricultural services (other than insemination services, stock minding or stock-rearing), the total annual turnover for which has not exceeded the services threshold,
+
+(ii) goods being bovine semen, the total annual turnover for which has not exceeded the goods threshold,
+
+(iii) goods, being horticultural type products of the kind specified in *paragraph 22(1)* of *Schedule 3*, to persons who are not engaged in supplying those goods in the course or furtherance of business, the total annual turnover for which has not exceeded the goods threshold,
+
+(iv) either or both services of the kind specified in *subparagraphs (i)* and *(vi)*, together with any or all goods of the kind specified in *subparagraph (v)*, the total annual turnover for which has not exceeded the services threshold,
+
+(v) any or all goods of the kind specified in *subparagraph (ii)*,* subparagraph (iii)* where supplied in the circumstances set out in that subparagraph, and *subparagraph (vii)*, the total annual turnover for which has not exceeded the goods threshold,
+
+(vi) agricultural services of the kind specified in an order made under *section 86A*, the total annual turnover for which has not exceeded the services threshold, or
+
+(vii) agricultural produce of the kind specified in an order made under *section 86A*, the total annual turnover for which has not exceeded the goods threshold;]
+
+(*b*) a person whose supplies of taxable goods or services consist exclusively of—
+
+(i) supplies, to accountable persons and persons to whom *section 102* applies, of fish (not being at a stage of processing further than that of being gutted, salted and frozen) which he or she has caught in the course of a sea-fishing business, or
+
+(ii) supplies of the kind specified in *subparagraph (i)* and of either or both of the following:
+
+(I) supplies of machinery, plant or equipment which have been used by him or her in the course of a sea-fishing business;
+
+(II) supplies of other goods and services the total F27[annual turnover] for which is such that such person would not, because of *paragraph (c)* or *(d)*, be an accountable person if such supplies were the only supplies made by him or her;
+
+(*c*)F31[(i) subject to *subparagraph (ii)*, a person for whose supply of goods (other than supplies of the kind specified in *section 30(a)* and *(b)* made by a person established in the State) and services the total annual turnover has not exceeded, in the current calendar year or the previous calendar year, the goods threshold,]
+
+(ii) *subparagraph (i)* shall apply only if at least 90 per cent of the total F31[annual turnover] referred to therein is derived from the supply of taxable goods (other than goods chargeable at any of the rates specified in *section 46(1)(a)* and *(c)* which were produced or manufactured by the person referred to in *subparagraph (i)* wholly or mainly from materials chargeable at the rate specified in *section 46(1)(b)*);
+
+F31[(*d*) a person (other than a person to whom paragraph *(a)*, *(b)* or *(c)* applies) for whose supply of goods and services the total annual turnover has not exceeded, in the current calendar year or the previous calendar year, the services threshold;]
+
+F32[(*e*) a person who is an accountable person solely by virtue of making exempt supplies of immovable goods, supplies specified in *paragraphs 6* and *7* of *Schedule 1* or insurance and reinsurance services.]
+
+(2)(*a*) Supplies of bovine semen—
+
+(i) by a farmer to any other farmer licensed as an artificial insemination centre in accordance with the Live Stock (Artificial Insemination) Act 1947, or
+
+(ii) by a farmer to an accountable person over whom that farmer exercises control,
+
+shall be disregarded in calculating the total consideration referred to in *subsection (1)(a)(ii)*.
+
+(*b*) Where in the case of 2 or more persons one of whom exercises control over one or more of the other persons, supplies of goods of the same class or of services of the same nature are made by 2 or more of those persons, the total F31[annual turnover] relating to such supplies shall, for the purposes of the application of *paragraphs (c)* and *(d)* of *subsection (1)* in relation to each of those persons who made such supplies, be treated as if all of the supplies in question had been made by each of the last-mentioned persons.
+
+(*c*) Where a farmer supplies services or goods of the kind specified in F28[s*ubsection (1)(a)(i), (ii), (iii), (vi)* or *(vii)*,] then *paragraph (b)* shall be deemed to apply to such supplies, notwithstanding that that paragraph does not otherwise apply to supplies by a farmer.
+
+(*d*) *Subsection (1)* shall not apply to a supply of the kind referred to in F29[*section 12(3)* or *(5)*] or *17(1)*.
+
+F31[(3)(*a*) *Subsection (1)(b)* shall not apply to a person who is not established in the State.
+
+(*b*) Subject to *section 92D(1)*, *paragraphs (c)*and *(d)* of *subsection (1)* shall not apply to a person who is not established in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26, F27, F28: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 68(1)(b)(i), (ii), in effect as per subs. (1).
+>
+> F29: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+>
+> F30: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 6, in effect as per reg. 2.
+>
+> F31: Substituted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 5(a)(i)(I), (II), (ii), (b), (c).
+>
+> F32: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 5(a)(iii).
+>
+> **Editorial Notes:**
+>
+> E8: Procedure for election and cancellation of election to be an accountable person prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), regs. 3 and 4, in effect as per reg. 1(2).
+>
+> E9: Previous affecting provision: subs. (1)(c)(i) amended (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 6; substituted (6.03.2025) as per F-note above.
+
+#### 7. Treatment of persons as not accountable. — [VATA s. 8(6)]
+
+**7**.— An accountable person (other than a person to whom *section 8* applies) may, in accordance with regulations, be treated for the purposes of this Act as a person who is not an accountable person if the Revenue Commissioners are satisfied that, in the absence of an election under *section 6(1)*, the person would not be an accountable person.
+
+#### 8. Cancellation of election. — [VATA s. 8(5) and (5A)]
+
+**8**.—F33[(1)(*a*) Provision may be made by regulations for the cancellation, at the request of a person, of an election made by the person under this Part and for the payment by him or her to the Revenue Commissioners, as a condition of such cancellation, of such a sum as is calculated in accordance with *paragraph (b)*.
+
+(*b*) The sum referred to in *paragraph (a)* is calculated by the formula—
+
+(A + B) — C
+
+where—
+
+A is the amount of tax repaid to the person referred to in *paragraph (a)* for the period for which the election has effect in respect of tax borne or paid in relation to the supply of goods or services, other than services of the kind referred to in *paragraph 11* of *Schedule 3*,
+
+B is the tax deductible in accordance with *Chapter 1* of *Part 8* in respect of intra-Community acquisitions made by that person during that period, and
+
+C is the net total amount of tax (if any) paid by such person in accordance with *Chapter 3* of *Part 9* in relation to the supply of goods or services (other than services of the kind referred to in *paragraph 11* of *Schedule 3*) by that person in that same period.]
+
+(2)(*a*) Notwithstanding *subsection (1)*, provision may be made by regulations for the cancellation, at the request of a person who supplies services of a kind referred to in *paragraph 11* of *Schedule 3*, of an election made by the person under this Part and for the payment by him or her to the Revenue Commissioners, in addition to any amount payable in accordance with *subsection (1)*, of such an amount (in this subsection referred to as the “cancellation amount”), as shall be determined in accordance with *paragraph (b)*, as a condition of cancellation and the cancellation amount shall be payable as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period in which the cancellation comes into effect.
+
+(*b*)(i) Where the person referred to in *paragraph (a)*—
+
+(I) was entitled to deduct tax in accordance with *Chapter 1* of *Part 8* in respect of the acquisition, purchase or development of immovable goods used by that person in the course of a supply of services of a kind referred to in *paragraph 11* of *Schedule 3*, or
+
+(II) would be entitled to deduct tax in accordance with *Chapter 1* of *Part 8* in respect of the acquisition, as a result of a transfer to that person, of immovable goods used by him or her in the course of a supply of services of a kind referred to in *paragraph 11* of *Schedule 3*, if that tax had been chargeable but for the application of *section 20(2)(c)* on that transfer,
+
+then, in respect of each such acquisition, purchase or development, an amount (referred to in this subsection as the “adjustment amount”) shall be calculated in accordance with *subparagraph (ii)* and the cancellation amount shall be the sum of the adjustment amounts so calculated or, if there is only one such adjustment amount, that amount: but if there is no adjustment amount, the cancellation amount is nil.
+
+(ii) The adjustment amount shall be determined by the formula—
+
+<u>F33[D]× (10 —F33[E])</u>
+
+10
+
+where—
+
+F33[D] is—
+
+(I) the amount of tax deductible in respect of such acquisition, purchase or development of such immovable goods, or
+
+(II) the amount of tax that would be deductible in respect of such acquisition of such immovable goods if *section 20(2)(c)* had not applied to the transfer of such immovable goods,
+
+and
+
+F33[E] is the number of full years for which such immovable goods were used by the person in the course of the supply of services of a kind referred to in *paragraph 11* of *Schedule 3*: but if such number of full years is in excess of 10, such adjustment amount shall be deemed to be nil.
+
+(*c*) For the purposes of *paragraph (b)*, a full year shall be any continuous period of 12 months.
+
+(*d*) This subsection does not apply to immovable goods acquired or developed on or after 1 July 2008.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 3, commenced on enactment.
+
+### Chapter 3 Rules for intra-Community acquisitions — Chapter 3 — Rules for intra-Community acquisitions
+
+#### 9. Intra-Community acquisitions and accountable persons. — [VATA s. 8(1A)(a), (b), (c) and (d)]
+
+**9**.—(1) Where a person engages in the intra-Community acquisition of goods in the State in the course or furtherance of business, he or she shall be—
+
+(*a*) an accountable person, and
+
+(*b*) accountable for and liable to pay the tax chargeable.
+
+(2) Subject to *subsection (3)* and F34[*sections 12(3)* and *(5)*,] and *17(1)*, and notwithstanding *subsection (1)*, a person for whose intra-Community acquisitions of goods (being goods other than new means of transport or goods subject to a duty of excise) the total consideration for which has not exceeded and is not likely to exceed €41,000 in any continuous period of 12 months shall not, unless the person otherwise elects and then only during the period for which such election has effect, be an accountable person.
+
+(3) Where *section 5(1)* applies to a person referred to in *subsection (2)*, then *subsection (2)* shall not apply to the person unless *section 6(1)* also applies to him or her.
+
+(4) Subject to *subsection (5)*, a person who is an accountable person by virtue of this section or *section 10* and who is a person referred to in *section 6(1)(a)* or *(b)* shall be deemed to be an accountable person only in respect of—
+
+(*a*) intra-Community acquisitions of goods which are made by him or her, and
+
+(*b*) any services of the kind referred to in F34[*section 12* or *17(1)*] which are received by him or her.
+
+(5) A person may elect that *subsection (4)* shall not apply to him or her.
+
+(6) Subject to *subsection (7)*, a person who is an accountable person by virtue of this section or *section 10* and who is a person referred to in *section 17(2)* shall be deemed to be an accountable person only in respect of—
+
+(*a*) intra-Community acquisitions of goods which are made by him or her,
+
+(*b*) racehorse training services which are supplied by him or her, and
+
+(*c*) any services of the kind referred to in F34[*section 12* or *17(1)*] which are received by him or her.
+
+(7) A person may elect that *subsection (6)* shall not apply to him or her.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+
+#### 10. Certain supplies of goods — supplier not established in the State. — [VATA s. 8(1A)(f) and (g)]
+
+**10**.—(1) Where a person not established in the State supplies gas through the natural gas distribution system, F35[or heat or cooling energy through heating or cooling networks,] or electricity, to a recipient in the State, and where the recipient is—
+
+(*a*) a taxable person who carries on a business in the State, or
+
+(*b*) a public body,
+
+then that recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if the recipient supplied those goods in the course or furtherance of business.
+
+(2) Where a person not established in the State supplies goods in the State which are installed or assembled, with or without a trial run, by or on behalf of the person, and where the recipient of the supply of those goods is—
+
+(*a*) a taxable person who carries on a business in the State, or
+
+(*b*) a public body,
+
+then that recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if the recipient supplied those goods in the course or furtherance of business.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(b), commenced as per par. 4(b).
+
+#### 11. Other provisions in relation to goods. — [VATA s. 8(2B) and (3D)(b)]
+
+**11**.—(1) Where a person is an accountable person only because of an intra-Community acquisition of a new means of transport, then the person shall not, unless he or she so elects, be an accountable person for the purposes of this Act except for *section 79(2)* or *(3)*.
+
+(2) Where—
+
+(*a*) a person is an accountable person only because of an intra-Community acquisition of excisable products, and
+
+(*b*) by virtue of the acquisition, and in accordance with F36[Chapters 2A and 2B of Part 2 of Finance Act 2001], and any other enactment which is to be construed together with that Chapter, the duty of excise on those products is payable in the State,
+
+then the person shall not, unless he or she so elects, be an accountable person for any purposes of this Act except for *section 79(4)*.
+
+(3) A person who is not established in the State shall, unless the person opts to register in accordance with *section 65*, be deemed not to have made an intra-Community acquisition or a supply of goods in the State where the only supplies by him or her in the State are in the circumstances set out in *section 23*.
+
+F37[(4) A person who is not established in the State, and who does not have a fixed establishment in the State, shall be deemed not to have made an intra-Community acquisition or a supply of goods in the State where such person transfers goods to an accountable person in the State under call-off stock arrangements to which *section 23A* applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(b), commenced on enactment.
+>
+> F37: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(b), in effect as per reg. 2.
+
+### Chapter 4 Services supplied in the State by persons established outside the State — Chapter 4 — Services supplied in the State by persons established outside the State
+
+#### 12. Services received from abroad and accountable persons. — [VATA s. 8(1A)(aa) and (ab) and (2)(b) and (c)]
+
+**12**.—(1) Where—
+
+(*a*) a taxable person who carries on a business in the State, or a person to whom a registration number has been assigned in accordance with *section 65(2)*, receives a service from a supplier established outside the State, and
+
+(*b*) the place of supply of the service (as determined in accordance with *section 34(a)*) is the State,
+
+then the person is accountable for, and liable to pay, the tax chargeable in the State as if he or she had supplied that service for consideration in the course or furtherance of business.
+
+(2) Where—
+
+(*a*) a taxable person who carries on a business in the State, or
+
+(*b*) a public body,
+
+receives a service F38[(other than a service of a kind referred to in *section 33(2)(b)*, *(ba)* or *(c)*)] from a supplier not established in the State, and the place of supply of the service (as determined in accordance with *section 34(c)*) is the State, then the recipient of the service is accountable for, and liable to pay, the tax chargeable in the State as if that recipient had supplied the service for consideration in the course or furtherance of business.
+
+(3) Subject to *subsection (4)*, a person who is an accountable person by virtue of this section or F39[*section 17(1)*] and who is a person referred to in *section 6(1)(a)* or *(b)* shall be deemed to be an accountable person only in respect of—
+
+(*a*) any intra-Community acquisitions of goods which are made by him or her, and
+
+(*b*) services of the kind referred to in this section or F39[*section 17(1)*] which are received by him or her.
+
+(4) A person may elect that *subsection (3)* shall not apply to him or her.
+
+(5) Subject to *subsection (6)*, a person who is an accountable person by virtue of this section or F39[*section 17(1)*] and who is a person referred to in *section 17(2)* shall be deemed to be an accountable person only in respect of—
+
+(*a*) any intra-Community acquisitions of goods which are made by him or her,
+
+(*b*) racehorse training services which are supplied by him or her, and
+
+(*c*) services of the kind referred to in this section or F39[*section 17(1)*] which are received by him or her.
+
+(6) A person may elect that *subsection (5)* shall not apply to him or her.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (19.12.2018) by *Finance Act 2018* (30/2018), s. 62 and sch. 2 para. 2, in effect as per para. 5(d).
+>
+> F39: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+
+#### 13. Certain supplies of services — supplier not established in the State. — [VATA s. 8(2)(aa)]
+
+**13**.— F40[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Deleted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(a), in effect as per reg. 1(2).
+
+### Chapter 5 Supplementary provisions — Chapter 5 — Supplementary provisions
+
+#### 14. The State and public bodies. — [VATA s. 8(1A)(e) and (2A) and FA 2010 s. 117(2)(b) and (c)]
+
+**14**.—(1) For the purposes of *sections 9* and *10*, where an intra-Community acquisition is effected in the State by a public body, the acquisition shall be deemed to have been effected in the course or furtherance of business.
+
+(2) Notwithstanding *section 3* but subject to *subsection (3)*, the State or any public body shall not be treated as a taxable person acting in that capacity in respect of any activity or transaction that is carried out by it in, or is closely linked to, the exercise by the State or that public body of particular rights or powers conferred on it by any enactment, except where—
+
+(*a*) that activity is listed in Annex I of the VAT Directive (the text of which Annex is contained in *Schedule 6*) and is carried out by the State or the public body on a more than negligible scale, or
+
+(*b*) not treating the State or that public body as a taxable person in respect of that activity or transaction creates or would likely create a significant distortion of competition.
+
+(3)(*a*) For the purposes of this subsection “community facilities” means—
+
+(i) facilities for taking part in sporting or physical education activities and services closely related to the provision of such facilities (other than facilities for taking part in golf and for this purpose facilities for taking part in golf do not include facilities for taking part in pitch and putt), and
+
+(ii) the hiring of halls, meeting rooms, grounds and other facilities of a similar nature to non-profit making sporting, cultural, social and community organisations.
+
+(*b*) *Subsection (2)*, in so far as it applies to the supply of community facilities, comes into operation on such day or days as the Minister may by order appoint and different days may be so appointed for different purposes or different community facilities.
+
+(*c*) Neither the State nor any local authority shall be an accountable person with respect to the supply by it of a community facility until the coming into operation of an order under *paragraph (b)* in respect of that community facility.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to subs. (3)(b) exercised (1.01.2013) by *Value-Added Tax Consolidation Act 2010 (Section 14(2)) (Commencement) Order 2012* (S.I. No. 392 of 2012).
+>
+> 2\. The 1st day of January 2013 is appointed as the day on which subsection (2) of section 14 of the Value-Added Tax Consolidation Act 2010 (No. 31 of 2012) comes into operation in so far as that subsection applies to the supply of community facilities within the meaning of subsection (3)(a)(i) of that section.
+
+#### 15. VAT groups. — [VATA s. 8(8)]
+
+**15**.—(1) Subject to *subsection (2)*, where the Revenue Commissioners are satisfied that 2 or more persons established in the State, at least one of whom is a F41[accountable person], are closely bound by financial, economic and organisational links and it seems necessary or appropriate to them for the purpose of efficient and effective administration (including collection) of the tax to do so, then, for the purpose of this Act, the Commissioners may, whether following an application on behalf of those persons or otherwise—
+
+(*a*) by notice in writing (in this section referred to as a “group notification”) to each of those persons deem them to be a single F41[accountable person] (in this section referred to as a “group”), and the persons so notified shall then be regarded as being in the group for as long as this subsection applies to them, but *section 65* shall apply in respect of each of the members of the group, and—
+
+(i) one of those persons, who shall be notified accordingly by the Commissioners, shall be responsible for complying with this Act in respect of the group, and
+
+(ii) all rights and obligations arising under this Act in respect of the transactions of the group shall be determined accordingly,
+
+and
+
+(*b*) make each person in the group jointly and severally liable to comply with this Act and regulations (including the provisions requiring the payment of tax) that apply to each of those persons and subject to the penalties under this Act to which they would be subject if each such person were liable to pay to the Commissioners the whole of the tax chargeable, apart from regulations under this section, in respect of each such person.
+
+(2) This section shall not apply in the case of—
+
+(*a*) the supply of immovable goods by any person in the group to any other person in the group,
+
+(*b*) the requirement to issue an invoice or other document, in accordance with *Chapter 2* of *Part 9*, in respect of supplies to persons other than supplies between persons who are jointly and severally liable to comply with this Act in accordance with *subsection (1)(b)*,
+
+(*c*) the requirement to furnish a statement in accordance with *section 82* F42[or *83*], or
+
+(*d*) the transfer of ownership of goods specified in *section 20(2)(c)* from any person in the group to any other person in the group, except where, apart from this section, each of the persons whose activities are deemed to be carried on by the group is an accountable person.
+
+(3) The Revenue Commissioners may, by notice in writing to each person in the group, as on and from the date specified in the notice F43[...] cancel the group notification of the group.
+
+(4) As on and from the date on which the group notification of the group is cancelled under *subsection (3)*, this Act and regulations shall apply to all the persons who were members of the group as if that group notification had not been issued, but without prejudice to the liability of any of those persons for tax or penalties in respect of anything done or not done during the period for which the group notification was in force.
+
+F44[(4A) Where there has been a significant change in the financial, economic and organisational links between the persons in a group, the person in the group notified in accordance with *subsection (1)(a)(i)* shall, not later than 30 days after the end of the taxable period during which the significant change concerned occurs, notify the Revenue Commissioners in writing that there has been such a significant change.
+
+(4B) Where—
+
+(*a*) a person in a group ceases to be established in the State, or
+
+(*b*) the requirement that at least one of the persons in the group concerned is an accountable person is no longer met, the person in the group notified in accordance with *subsection (1)(a)(i)* shall, not later than 30 days after the end of the taxable period during which the circumstance described in *paragraph (a)* or *(b)*, as the case may be, has occurred, notify the Revenue Commissioners in writing of the occurrence of that circumstance.]
+
+(5) Where—
+
+(*a*) a person in the group (in this section referred to as the “landlord”) having acquired an interest in, or developed, immovable goods to which section 4 of the repealed enactment applied, whether such acquisition or development occurred before or after the landlord became a person in the group, subsequently surrenders possession of those immovable goods, or any part of them, to another person in the group (in this section referred to as the “occupant”) where the surrender of possession, if it were to a person not in the group, would not constitute a supply of immovable goods in accordance with section 4 of the repealed enactment, and
+
+(*b*) either the landlord or the occupant subsequently ceases to be a person in the group (in this section referred to as a “cessation”),
+
+then, F45[...]if the landlord has not exercised the landlord’s option to tax in accordance with *section 97* in respect of the letting of those immovable goods at the time of the cessation F46[...]—
+
+(i) the surrender of possession, or
+
+(ii) if that landlord surrendered possession of those immovable goods more than once to another person in the group, the first such surrender of possession,
+
+shall be deemed to occur when that first such cessation (in this section referred to as the “relevant cessation”) takes place.
+
+(6) F47[...]
+
+(7) The Revenue Commissioners may make regulations as seem to them to be necessary for the purposes of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 51(a)(i), commenced on enactment.
+>
+> F42: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 4, commenced on enactment.
+>
+> F43: Deleted (21.12.2021) by *Finance Act 2021* (45/2021), s. 51(a)(ii), commenced on enactment.
+>
+> F44: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 51(a)(iii), commenced on enactment.
+>
+> F45, F46, F47: Deleted (23.12.2025) by *Finance Act 2025* (18/2025), s. 75(a)(i), (ii),commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E11: Procedure for application for registration as group in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 4, in effect as per reg. 1(2).
+
+#### 16. Reverse charge for certain supplies. — [VATA s. 8(1B), (1C) and (1D)]
+
+**16**.—(1) F48[...]
+
+(2)(*a*) In this subsection—
+
+“allowance” has the meaning assigned to it by Article 3 of the Directive;
+
+“Directive” means Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 [^4] (as amended) establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC;
+
+“greenhouse gases” has the meaning assigned to it by Article 3 of the Directive;
+
+“greenhouse gas emission allowances” means allowances to emit greenhouse gases transferable in accordance with the Directive and other units that may be used by operators for compliance with the Directive;
+
+“operator” has the meaning assigned to it by Article 3 of the Directive.
+
+(*b*) Where a taxable person who carries on a business in the State (in this subsection referred to as a “recipient”) receives greenhouse gas emission allowances from another taxable person who carries on a business in the State, then—
+
+(i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
+
+(ii) the person who supplied those greenhouse gas emission allowances shall not be accountable for or liable to pay such tax in respect of that supply.
+
+(3)(*a*) *Paragraph (b)* and *sections 59(2)(i)* and *66(4)* shall be construed together with Chapter 2 of Part 18 of the Taxes Consolidation Act 1997.
+
+(*b*) Where a principal to whom F49[section 530A] of the Taxes Consolidation Act 1997 applies (other than a principal to whom subparagraphs (ii) or (iii) of F49[section 530A(1)(*b*)] of the Taxes Consolidation Act 1997 applies) receives services consisting of construction operations (as defined in paragraphs (*a*) to (*f*) of section 530(1) of that Act) from a subcontractor, then—
+
+(i) that principal shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that principal supplied those services in the course or furtherance of business, and
+
+(ii) the subcontractor shall not be accountable for or liable to pay such tax in respect of that supply.
+
+F50[(4)(*a*) In this subsection—
+
+“dealing in scrap metal” means the purchase, sale, resale or recovery of scrap metal;
+
+“recovery”, in relation to scrap metal, means any activity carried on for the purposes of reclaiming, recycling or re-using, in whole or in part, scrap metal and any activities related to such reclamation, recycling or re-use;
+
+“scrap metal” includes scrapped metal and metal waste originating from, or extracted from, the processing of metals, metal derived from vehicles, metal derived from construction and demolition waste, machine parts and metal items no longer useable in their original form due to their breaking, obsolescence, shearing, wearing or the like, and also includes goods listed in paragraphs (1) to (3) of Annex VI of the VAT Directive.
+
+(*b*) Notwithstanding *section 56*, where a taxable person carries on a business in the State, which consists of or includes dealing in scrap metal (in this subsection referred to as a “recipient”) and he or she receives a supply of scrap metal from another taxable person who carries on a business in the State, then—
+
+(i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
+
+(ii) the person who supplied the scrap metal shall not be accountable for or liable to pay such tax in respect of that supply.]
+
+F51[(5)(*a*) In this subsection “construction work”, in relation to immovable goods, includes—
+
+(i) construction, extension, alteration and demolition services, and
+
+(ii) engineering work or other operations which adapt those immovable goods for materially altered use.
+
+(*b*) Where an accountable person supplies construction work in the State to a taxable person (in this subsection referred to as a “recipient”) to whom the accountable person is connected (within the meaning of *section 97(3)*), then—
+
+(i) the recipient shall, in relation to such supplies, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
+
+(ii) the person who supplied the construction work shall not be accountable for or liable to pay such tax in respect of those supplies.]
+
+F52[(6)(*a*) In this subsection—
+
+“gas” means gas supplied through the natural gas distribution system.
+
+(*b*) Where a taxable person who carries on a business in the State makes a supply of gas or of electricity to a taxable dealer who carries on a business in the State (in this subsection referred to as a “recipient”), then—
+
+(i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
+
+(ii) the person who supplied that gas or electricity shall not be accountable for or liable to pay such tax in respect of that supply.
+
+(7)(*a*) In this subsection—
+
+“a gas or an electricity certificate” means an electronic document which conveys information about the source and production of energy.
+
+(*b*) Where a taxable person who carries on a business in the State makes a supply of a gas or an electricity certificate to another taxable person who carries on a business in the State (in this subsection referred to as a “recipient”), then—
+
+(i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
+
+(ii) the person who supplied that gas or electricity certificate shall not be accountable for or liable to pay such tax in respect of that supply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Repealed (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(1) and sch. 1 part 1 ref. no. 6, S.I. No. 355 of 2026.
+>
+> F49: Substituted (1.01.2012) by *Finance Act 2011* (6/2011), s. 20(3), in effect as per s. 20(4) and S.I. No. 651 of 2011.
+>
+> F50: Inserted (1.05.2011) by *Finance Act 2011* (6/2011), s. 59(1)(a), commenced as per s. 59(2).
+>
+> F51: Inserted (1.05.2012) by *Finance Act 2012* (9/2012), s. 86(1)(a), commenced as per s. 86(2).
+>
+> F52: Inserted (1.01.2016) by *Finance Act 2015* (52/2015), s. 52(1)(a), commenced as per s. 52(2).
+
+#### 17. Other provisions in relation to services. — [VATA s. 8(2)(d) and (3A)]
+
+**17**.—(1)(*a*) In this subsection—
+
+“premises provider” means a person who owns, occupies or controls land, and references to the premises provider’s land mean the land that is so owned, occupied or controlled;
+
+“relevant office” means the office of the Revenue Commissioners which would normally deal with the examination of the records kept by the premises provider in accordance with *Chapter 7* of *Part 9*.
+
+(*b*) Where a premises provider allows, in the course or furtherance of business, a person not established in the State to supply goods for consideration in the course or furtherance of business (in this subsection referred to as a “mobile trader”) on the premises provider’s land for a period of less than F53[28 consecutive days], then that premises provider shall, not later than 14 days before the day when the mobile trader is allowed to supply goods on that land, furnish to the Revenue Commissioners, at the relevant office, the following particulars:
+
+(i) the name and address of the mobile trader;
+
+(ii) the dates on which the mobile trader intends to supply goods on that land;
+
+(iii) the address of that land; and
+
+(iv) any other information as may be specified in regulations.
+
+F54[(*c*) Where a premises provider allows, in the course or furtherance of business, a promoter not established in the State to supply on the premises provider’s land—
+
+F55[(i) services consisting of the admission to, and the provision of any ancillary services related to, a cultural, artistic, entertainment or similar event, and]
+
+(ii) where, in accordance with *paragraph (g)* or *(ga)* of *section 34*, the place of supply of those services is where the event concerned actually takes place,
+
+then that premises provider shall, not later than 14 days before such services are scheduled to begin, furnish to the Revenue Commissioners, at the relevant office, the following particulars:
+
+(I) the name and address of the promoter;
+
+(II) details (including the dates, duration and venue) of the event or performance commissioned or procured by the promoter in the provision of that service; and
+
+(III) any other information related to the promoter or the event or performance, as may be specified in regulations.]
+
+(*d*) Where a premises provider fails to provide to the Revenue Commissioners true and correct particulars as required in accordance with *paragraph (b)* or *(c)*, then the Commissioners may, where it appears necessary to them to do so for the protection of the revenue, make the premises provider jointly and severally liable with a mobile trader or promoter, as the case may be, for the tax chargeable in respect of supplies made by that mobile trader or promoter on the premises provider’s land, and in those circumstances the Commissioners shall notify the premises provider in writing accordingly.
+
+(*e*) A premises provider who has been notified in accordance with *paragraph (d)* shall be deemed to be an accountable person and shall be liable to pay the tax referred to in that paragraph as if it were tax due in accordance with *Chapter 3* of *Part 9* by the premises provider for the taxable period within which the supplies are made by the mobile trader or promoter, but the premises provider shall not be liable to pay tax referred to in *paragraph (d)* which the Revenue Commissioners are satisfied was accounted for by a mobile trader or promoter.
+
+(2)(*a*) Where a person who supplies services consisting of the training of horses for racing, F56[the total annual turnover for which has exceeded, in the current calendar year or the previous calendar year, the services threshold,] would, but for the supply of such services, be a farmer, the person shall be deemed to be an accountable person only in respect of—
+
+(i) the supply of those services,
+
+(ii) any intra-Community acquisitions of goods made by him or her, and
+
+(iii) any services of the kind referred to in *subsection (1)* or F54[*section 12*] received by him or her.
+
+(*b*) In the absence of an election referred to in *section 6(1),* the person referred to in *paragraph (a)* shall be deemed not to be an accountable person in relation to the supply of any of the goods or services specified in—
+
+(i) *paragraph (a)* of the definition of “farmer” in *section 4(1)*, and
+
+(ii) *paragraph (b)(i)* and *(iii)* of that definition.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 56, commenced on enactment.
+>
+> F54: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(b), (d) and table, in effect as per reg. 1(2).
+>
+> F55: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 105 and sch. 2 par. 3(a), commenced as per par. 5(a).
+>
+> F56: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 68(1)(c), in effect as per subs. (1).
+
+#### 18. Distortion of competition, deemed taxable supplies, etc. — [VATA s. 8(3C), (3E) and (7)]
+
+**18**.—(1)(*a*) Notwithstanding *sections 5(1)* and *52(1)* but subject to *section 6(1)*, where a person (in this subsection referred to as the “relevant person”) supplies services which are exempt in accordance with F57[*section 52* and, *paragraph 3(4)* or *4(3)* of *Schedule 1*], then an authorised officer (being an officer of the Revenue Commissioners authorised by them in writing for the purposes of this subsection) shall—
+
+(i) if the officer is satisfied that that supply of those services has created or is likely to create a distortion of competition such as to place at a disadvantage a commercial enterprise which is an accountable person supplying similar-type services, or
+
+(ii) if the officer is satisfied that that supply of those services is managed or administered by or on behalf of another person who has a direct or indirect beneficial interest (either directly or through an intermediary) in the supply of those services,
+
+make a determination in relation to some or all of such supplies as specified in that determination deeming—
+
+(I) the relevant person to be supplying such supplies as specified in that determination in the course or furtherance of business,
+
+(II) the relevant person to be an accountable person in relation to the provision of such supplies as specified in that determination, and
+
+(III) such supplies as specified in that determination to be taxable supplies to which the rate specified in F58[F57[*paragraph (a)*, *(c)* or *(ca)*], as appropriate, of *section 46(1)*] refers.
+
+(*b*) Subject to *paragraph (c)*, where a determination is made under *paragraph (a)*, the Revenue Commissioners shall, as soon as may be after the making of the determination, issue a notice in writing of that determination to the relevant person, and such determination shall have effect from such date as may be specified in the notice of that determination.
+
+(*c*) A determination referred to in *paragraph (b)* shall have effect no sooner than the start of the next taxable period following that in which the notice referred to in that paragraph was issued in respect of that determination.
+
+(*d*) Where an authorised officer is satisfied that the conditions that gave rise to the making of a determination under *paragraph (a)* no longer apply, the officer shall cancel that determination by notice in writing to the relevant person, and that cancellation shall have effect from the start of the next taxable period following that in which the notice issued.
+
+(2) Where any goods or services are provided by a club or other similar organisation in respect of a payment of money by any of its members, then, for the purposes of this Act—
+
+(*a*) the provision of the goods or services shall be deemed to be a supply by the club or other organisation of the goods or services, as the case may be, in the course or furtherance of business carried on by it, and
+
+(*b*) the money shall be deemed to be consideration for the supply.
+
+(3)(*a*) In *paragraph (b)* “licensee” means—
+
+(i) where the licence is held by the nominee of a body corporate, the body corporate,
+
+(ii) in any other case, the holder of the licence.
+
+(*b*) The licensee of any premises (being premises in respect of which a licence for the sale of intoxicating liquor on or off those premises was granted)—
+
+(i) shall be deemed to be the promoter of any dance held, during the subsistence of that licence, on those premises, and
+
+(ii) shall be deemed to have received the total money (excluding tax) paid by those admitted to that dance together with any other consideration received or receivable in connection with the dance.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (21.12.2015) by *Finance Act 2015* (52/2015), s. 54(a), commenced on enactment.
+>
+> F58: Substituted (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011), s. 3(d), commenced as per s. 3.
+
+## PART 3 Taxable Transactions — PART 3 — Taxable Transactions
+
+### Chapter 1 Supply of goods — Chapter 1 — Supply of goods
+
+#### 19. Meaning of supply of goods. — [VATA s. 3(1), (1C) and (2)]
+
+**19**.—(1) In this Act “supply”, in relation to goods, means—
+
+(*a*) the transfer of ownership of the goods by agreement (including the transfer of ownership of the goods to a person supplying financial services of the kind specified in F59[*paragraph 6(1)*(*e*) of *Schedule 1*] where those services are supplied as part of an agreement of the kind referred to in *paragraph (c)* in respect of the goods),
+
+(*b*) the sale of movable goods pursuant to a contract under which commission is payable on purchase or sale by an agent or auctioneer who concludes agreements in the agent’s or auctioneer’s own name but on the instructions of, and for the account of, another person,
+
+(*c*) the handing over of the goods to a person pursuant to an agreement which provides for the renting of the goods for a certain period subject to a condition that ownership of the goods shall be transferred to the person on a date not later than the date of payment of the final sum under the agreement,
+
+(*d*) F60[...]
+
+(*e*) the transfer of ownership of the goods pursuant to—
+
+(i) their acquisition (otherwise than by agreement) by or on behalf of the State or a local authority, or
+
+(ii) their seizure by any person acting under statutory authority,
+
+(*f*) the application (otherwise than by way of disposal to another person) by a person for the purposes of any business carried on by him or her of the goods, being movable goods which were developed, constructed, assembled, manufactured, produced, extracted, purchased, imported or otherwise acquired by him or her or by another person on his or her behalf, except where tax chargeable in relation to the application would, if it were charged, be wholly deductible under *Chapter 1* of *Part 8*,
+
+(*g*) F61[subject to *subsection (1A)*,] the appropriation of the goods by an accountable person for any purpose other than the purpose of his or her business or the disposal of the goods free of charge by an accountable person where—
+
+(i) tax chargeable in relation to those goods—
+
+(I) upon their purchase, intra-Community acquisition or importation by the accountable person, or
+
+(II) upon their development, construction, assembly, manufacture, production, extraction or application under *paragraph (f)*,
+
+as the case may be, was wholly or partly deductible under *Chapter 1* of *Part 8*, or
+
+(ii) the ownership of those goods was transferred to the accountable person in the course of a transfer of a business or part thereof and that transfer of ownership was deemed not to be a supply of goods in accordance with *section 20(2)*,
+
+and
+
+(*h*) the transfer by a person of the goods from his or her business in the State to the territory of another Member State for the purposes of the person’s business, or a transfer of a new means of transport by a person in the State to the territory of another Member State, other than for the purposes of any of the following:
+
+(i) the transfer of the goods in question under the circumstances specified in *section 29(1)(b)* or *(d)* or *30*;
+
+(ii) the transfer of the goods to another person under the circumstances specified in *paragraphs 1(1)* to *(3)*, *3(1)* and *(3)* and *7(1)* to *(4)* of *Schedule 2* and the transfer of the goods referred to in *paragraphs 4(2)*, *(4)* and *(5)* and *5(2)* of *Schedule 2*;
+
+(iii) the transfer of the goods for the purpose of having a service carried out on them where the goods which were so transferred by the person are, F62[after being assigned a valuation or] after being worked on, returned to that person in the State;
+
+(iv) the temporary use of the goods in question in the supply of a service by the person in that other Member State;
+
+(v) the temporary use of the goods in question, for a period not exceeding 24 months, in that other Member State, where the importation into that other Member State of the same goods with a view to their temporary use would be eligible for full exemption from import duties.
+
+F61[(1A) *Subsection (1)(g)* does not apply in any case where the goods appropriated by an accountable person for any purpose other than the purposes of his or her business are immovable goods that are acquired or developed by an accountable person on or after 1 January 2011.]
+
+(2) For the purposes of this Act “supply”, in relation to immovable goods, shall be regarded as including the transfer in substance of—
+
+(*a*) the right to dispose of the immovable goods as owner, or
+
+(*b*) the right to dispose of the immovable goods.
+
+(3) Where 3 or more persons enter into agreements concerning the same goods and fulfil those agreements by a direct supply of the goods by the first person in the chain of sellers and buyers to the last buyer, then the supply to that last buyer shall be deemed, for the purposes of this Act, to constitute a simultaneous supply by each seller in the chain.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 5, commenced on enactment.
+>
+> F60: Deleted (1.05.2012) by *Finance Act 2012* (9/2012), s. 86(1), commenced as per s. 86(2).
+>
+> F61: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(a), in effect as per reg. 1(2).
+>
+> F62: Inserted (1.01.2013) by *European Union (Value-Added Tax) Regulations 2012* (S.I. No. 354 of 2012), reg. 2(a), in effect as per reg. 1(2).
+
+#### 20. Transfers, etc. deemed not to be supplies. — [VATA s. 3(5)(a), (b) and (d)]
+
+**20**.—(1) For the purposes of this Act, the transfer of ownership of goods pursuant to a contract of the kind referred to in *section 19(1)(c)* by the person supplying financial services of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* as part of that contract shall be deemed not to be a supply of the goods.
+
+(2) The transfer of ownership of goods—
+
+(*a*) as security for a loan or debt,
+
+(*b*) where the goods are held as security for a loan or debt, upon repayment of the loan or debt, or
+
+(*c*) being the transfer to an accountable person of a totality of assets, or part thereof, of a business (even if that business or part thereof had ceased trading) where those transferred assets constitute an undertaking or part of an undertaking capable of being operated on an independent basis,
+
+shall be deemed, for the purposes of this Act, not to be a supply of the goods.
+
+(3) The disposal of goods by an insurer who has taken possession of them from the owner of the goods (in this subsection referred to as the “insured”), in connection with the settlement of a claim under a policy of insurance, being goods—
+
+(*a*) in relation to the acquisition of which the insured had borne tax, and
+
+(*b*) which are of such a kind or were used in such circumstances that no part of the tax borne was deductible by the insured,
+
+shall be deemed, for the purposes of this Act, not to be a supply of the goods.
+
+#### 21. Supplies made free of charge. — [VATA s. 3(1A)]
+
+**21**.— Anything which is a supply of goods by virtue of *section 19(1)(f), (g)* or *(h)* shall be deemed, for the purposes of this Act, to have been effected for consideration in the course or furtherance of the business concerned except—
+
+(*a*) a gift of goods made in the course or furtherance of the business (otherwise than as one forming part of a series or succession of gifts made to the same person) the cost of which to the donor does not exceed a sum specified for that purpose in regulations, or
+
+(*b*) the gift, in reasonable quantity, to the actual or potential customer, of industrial samples in a form not ordinarily available for sale to the public.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E12: Amount specified for the purposes of section (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 5, in effect as per reg. 1(2).
+
+#### 22. Special rules in relation to supplies of goods. — [VATA s. 3(4), (5)(c) and (7)]
+
+**22**.—(1) Where an agent or auctioneer makes a sale of goods in accordance with *section 19(1)(b),* the transfer of those goods to that agent or auctioneer shall be deemed to be a supply of the goods to the agent or auctioneer at the time that the agent or auctioneer makes that sale.
+
+(2) Where a person (in this subsection F63[...] referred to as the “owner”)—
+
+(*a*) supplies financial services of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* in respect of a supply of goods within the meaning of *section 19(1)(c)*, and
+
+(*b*) enforces the owner’s right to recover possession of the goods,
+
+then the disposal of the goods by the owner shall be deemed, for the purposes of this Act, to be a supply of goods to which *paragraph 12* of *Schedule 1* does not apply.
+
+(3)(*a*) Where, in the case of a business carried on, or that has ceased to be carried on, by an accountable person, goods forming part of the assets of the business are, under any power exercisable by another person (including a liquidator and a receiver), disposed of by the other person in or towards the satisfaction of a debt owed by the accountable person, or in the course of the winding up of a company, then those goods shall be deemed to be supplied by the accountable person in the course or furtherance of his or her business.
+
+(*b*) A disposal of goods under this subsection shall include any assignment or surrender that is deemed to be a supply of immovable goods as provided by *section 95(5)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 6, commenced on enactment.
+
+#### 23. Supply following intra-Community acquisition. — [VATA s. 3(8)]
+
+**23**.—(1) F64[Subject to *subsections (2)* and *(3)*,] where a person who is not established in the State makes an intra-Community acquisition of goods in the State and makes a subsequent supply of the goods to an accountable person in the State, then the person to whom the supply is made shall be deemed, for the purposes of this Act, to have made that supply and the intra-Community acquisition shall be disregarded.
+
+(2) *Subsection (1)* shall apply only where—
+
+(*a*) the person who is not established in the State has not exercised his or her option to register in accordance with *section 65* by virtue of *section 11(3)*, and
+
+(*b*) the person to whom the supply is made is registered in accordance with *section 65*.
+
+F65[(3) *Subsection (1)* shall not apply to call-off stock arrangements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(c)(i), in effect as per reg. 2.
+>
+> F65: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(c)(ii), in effect as per reg. 2.
+
+#### 23A. Call-off stock arrangements
+
+F66[**23A.**—(1) This section applies to call-off stock arrangements which meet all of the following conditions:
+
+(*a*) goods are dispatched or transported by a taxable person, or by a third party acting on his or her behalf, to the State from another Member State, with a view to the goods being supplied in the State, at a later stage and after arrival, to an accountable person;
+
+(*b*) the accountable person is entitled to take ownership of the goods in accordance with an existing agreement with the taxable person;
+
+(*c*) the taxable person is not established in the State and does not have a fixed establishment in the State;
+
+(*d*) the accountable person is registered in accordance with *section 65*;
+
+(*e*) the identity and registration number of the accountable person are known to the taxable person at the time when the dispatch or transport of the goods begins;
+
+(*f*) the taxable person fulfils the requirements of Article 17a(2)(d) of the VAT Directive in the other Member State.
+
+(2) Subject to *subsections (3)* to *(7)*, where a taxable person transfers goods forming part of his or her business assets to an accountable person in the State under call-off stock arrangements to which this section applies, the transfer of such goods shall not be treated as a supply of goods for consideration.
+
+(3) Where all of the conditions set out in *subsection (1)* are met, and provided that the transfer to the accountable person referred to in *subsection (1)(a)* of the right to dispose of the goods as owner occurs within the period of 12 months after the arrival of the goods in the State, then, at the time of the transfer of that right—
+
+(*a*) a supply of goods in accordance with Article 138(1) of the VAT Directive shall be deemed to be made by the taxable person referred to in *subsection (1)(a)* in the other Member State, and
+
+(*b*) an intra-Community acquisition of the goods shall be deemed to be made by the accountable person to whom the goods are supplied in the State.
+
+(4) Where—
+
+(*a*) within the period referred to in *subsection (3)*, the goods have not been supplied to the accountable person referred to in *subsection (1)(a)* or a person substituted for that accountable person in accordance with *subsection (6)*, and
+
+(*b*) none of the circumstances referred to in *subsection (7)* have occurred,
+
+a supply of goods shall be deemed to take place on the day following the expiry of the period referred to in *subsection (3)*.
+
+(5) No supply of goods shall be deemed to take place where—
+
+(*a*) within the period referred to in *subsection (3)*, the right to dispose of the goods has not been transferred and the goods are returned to the Member State from which they were dispatched or transported, and
+
+(*b*) the taxable person records the return of the goods in the register provided for in Article 243(3) of the VAT Directive.
+
+(6) Where, within the period referred to in *subsection (3)*, the accountable person referred to in *subsection (1)(a)* is substituted by another accountable person, no supply of goods shall be deemed to take place at the time of the substitution, provided that—
+
+(*a*) all other applicable conditions set out in *subsection (1)* are met, and
+
+(*b*) the taxable person records the substitution in the register provided for in Article 243(3) of the VAT Directive.
+
+(7) (*a*) Subject to *paragraphs (b)* to *(d)*, where, within the period referred to in subsection (3), any of the conditions set out in *subsections (1)* and *(6)* cease to be fulfilled, a supply of goods shall be deemed to take place at the time that the relevant condition is no longer fulfilled.
+
+(*b*) If the goods are supplied to a person other than the accountable person referred to in *subsection (1)(a)* or a person substituted for that accountable person in accordance with *subsection (6)*, it shall be deemed that the conditions set out in *subsections (1)* and *(6)* cease to be fulfilled immediately before such supply.
+
+(*c*) If the goods are dispatched or transported to a country other than the Member State from which they were initially moved, it shall be deemed that the conditions set out in *subsections (1)* and *(6)* cease to be fulfilled immediately before such dispatch or transport starts.
+
+(*d*) In the event of the destruction, loss or theft of the goods, it shall be deemed that the conditions set out in *subsections (1)* and *(6)* cease to be fulfilled on the date that the goods were actually removed or destroyed, or if it is impossible to determine that date, the date on which the goods were found to be destroyed or missing.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(d), in effect as per reg. 2.
+
+### Chapter 2 Intra-Community acquisitions — Chapter 2 — Intra-Community acquisitions
+
+#### 24. Intra-Community acquisitions of goods. — [VATA s. 3A(1), (1A), (3) and (4)]
+
+**24**.—(1) In this Act “intra-Community acquisition”, in relation to goods, means the acquisition of—
+
+(*a*) movable goods (other than new means of transport)—
+
+(i) supplied by—
+
+(I) a person registered for value-added tax in a Member State,
+
+(II) a person obliged to be registered for value-added tax in a Member State,
+
+(III) a person who carries on an exempted activity in a Member State, or
+
+(IV) a flat-rate farmer in a Member State,
+
+(ii) supplied to a person in another Member State (other than an individual who is not a taxable person or who is not entitled to elect to be a taxable person, unless the individual carries on an exempted activity), and
+
+(iii) which have been dispatched or transported from the territory of a Member State to the territory of another Member State as a result of such supply,
+
+or
+
+(*b*) new means of transport supplied by a person in a Member State to a person in another Member State and which has been dispatched or transported from the territory of a Member State to the territory of another Member State as a result of being so supplied.
+
+(2) An intra-Community acquisition of goods shall be deemed not to occur where the supply of those goods is subject to value-added tax referred to in the VAT Directive in the Member State of dispatch under the provisions implementing Articles 4 and 35, first subparagraph of Article 139(3) and Articles 311 to 341 of that Directive in that Member State.
+
+F67[(2A) The application by the armed forces of a Member State taking part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy, for the use of those armed forces or for the use of the civilian staff accompanying those armed forces, of goods which those armed forces have not purchased subject to the general rules governing taxation on the domestic market of a Member State shall be treated as an intra-Community acquisition of goods for consideration, where the importation of those goods would not be eligible for the exemption provided for in the provisions implementing Article 143(1)(ga) of the VAT Directive in the Member State on whose domestic market the goods were purchased.]
+
+(3) For the purposes of this section and *section 32*—
+
+(*a*) a supply in the territory of another Member State shall be deemed to have arisen where, under similar circumstances, a supply would have arisen in the State under *Chapter 1* or *Chapter 1* of *Part 4* (including either of those Chapters as read with *section 2(3)*),
+
+(*b*) an activity in another Member State shall be deemed to be an exempted activity where the same activity, if carried out in the State, would be an exempted activity,
+
+(*c*) a person shall be deemed to be a flat-rate farmer in another Member State where, under similar circumstances, the person would be a flat-rate farmer in the State F68[...], and
+
+(*d*) a person shall be deemed to be a taxable person or a person who is entitled to elect to be a taxable person in another Member State where, under similar circumstances, the person would be an accountable person or entitled to elect to be an accountable person in the State in accordance with *Part 2*.
+
+(4) Where—
+
+(*a*) goods are dispatched or transported from outside the Community to a person in the State who is not registered for tax and who is not an individual, and
+
+(*b*) value-added tax referred to in the VAT Directive is chargeable on the importation of those goods into another Member State,
+
+then, for the purposes of *subsection (1)*, the person shall be deemed to be registered for value-added tax in that other Member State and the goods shall be deemed to have been dispatched or transported from that other Member State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: inserted (1.07.2022) by *Finance Act 2020* (26/2020), s. 42(1)(a), commenced as per subs. (2).
+>
+> F68: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 7, commenced on enactment.
+
+### Chapter 3 Supply of services — Chapter 3 — Supply of services
+
+#### 25. Meaning of supply of services. — [VATA s. 5(1) and (2)]
+
+**25**.—(1) In this Act “supply”, in relation to a service, means the performance or omission of any act or the toleration of any situation other than—
+
+(*a*) the supply of goods, and
+
+(*b*) a transaction specified in *section 20* or *22(2)*.
+
+(2) F69[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Deleted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(a), commenced on enactment.
+
+#### 26. Transfer of intangible business assets deemed not to be supply of services. — [VATA s. 5(8)]
+
+**26**.—(1) For the purposes of this section “accountable person” shall not include a person who is an accountable person solely by virtue of F70[*section 9*, *10*, *12*,] *14(1)* or *17(1)*.
+
+(2) The transfer of goodwill or other intangible assets of a business, in connection with the transfer of the business or part thereof (even if that business or that part thereof had ceased trading), or in connection with a transfer of ownership of goods in accordance with *section 20(2)(c)*, by—
+
+(*a*) an accountable person to a taxable person who carries on a business in the State, or
+
+(*b*) a person who is not an accountable person to another person,
+
+shall be deemed, for the purposes of this Act, not to be a supply of services.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+
+#### 27. Self-supply of services. — [VATA s. 5(3) and (3B)]
+
+**27**.—(1) For the purposes of this Act, any of the following, if so provided by regulations, and in accordance with those regulations, shall be deemed to be a supply of services by a person for consideration in the course or furtherance of that person’s business:
+
+(*a*) the use of goods (other than immovable goods) forming part of the assets of a business—
+
+(i) for the private use of an accountable person or of such person’s staff, or
+
+(ii) for any purposes other than those of an accountable person’s business,
+
+where the tax on those goods is wholly or partly deductible;
+
+(*b*) the supply of services carried out free of charge by an accountable person for such person’s own private use or that of such person’s staff or for any purposes other than those of such person’s business;
+
+(*c*) the supply of services by an accountable person for the purposes of such person’s business where the tax on such services, were they supplied by another accountable person, would not be wholly deductible.
+
+(2) F71[Subject to *subsection (3)*, the use of immovable goods] forming part of the assets of a business—
+
+(*a*) for the private use of an accountable person or of such person’s staff, or
+
+(*b*) for any purpose other than those of the accountable person’s business,
+
+is a taxable supply of services if—
+
+(i) that use occurs during a period of 20 years following the acquisition or development of those goods by the accountable person, and
+
+(ii) those goods are treated for tax purposes as forming part of the assets of the business at the time of their acquisition or development.
+
+F72[(3) *Subsection (2)* does not apply in the case of immovable goods that are acquired or developed by an accountable person on or after 1 January 2011.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(b)(i), in effect as per reg. 1(2).
+>
+> F72: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(b)(ii), in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E13: Procedure prescribed for calculation of private use proportion of immovable goods under section (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 7, in effect as per reg. 1(2).
+
+#### 28. Special rules in relation to supplies of services. — [VATA s. 5(4) to (4B)]
+
+**28**.—(1) The supply of services through a person (in this subsection referred to as the “agent”) who, while purporting to act on his or her own behalf, concludes agreements in his or her own name but on the instructions of, and for the account of, another person, shall be deemed, for the purposes of this Act, to constitute a supply of the services to and simultaneously by the agent.
+
+(2) Where services are supplied by a person and the person is not legally entitled to recover consideration in respect of or in relation to that supply but moneys are received in respect of or in relation to such supply, then, for the purposes of this Act—
+
+(*a*) the services in question shall be deemed to have been supplied for consideration, and
+
+(*b*) the moneys received shall be deemed to be consideration that the person who supplied the services in question became entitled to receive in respect of or in relation to the supply of those services.
+
+(3) Where a person is indemnified under a policy of insurance in respect of any amount payable in respect of services of a barrister or solicitor, those services shall be deemed, for the purposes of this Act, to be supplied to, and received by, such person.
+
+F73[(3A) (*a*) Where an injured party receives compensation pursuant to the Act of 2024 in respect of any amount payable in respect of services of a barrister or solicitor, those services shall be deemed, for the purposes of this Act, to be supplied to, and received by, the holder of the contract of insurance concerned under which the injured party was covered in respect of loss or injury caused by a vehicle.
+
+(*b*) In *paragraph (a)*—
+
+“Act of 2024” means the Motor Insurance Insolvency Compensation Act 2024;
+
+“injured party” has the meaning assigned to it by the Act of 2024.]
+
+F74[(4) Where, in the case of a business carried on, or that has ceased to be carried on, by an accountable person, services (being services that are supplied using the assets or part of the assets of an accountable person) are, under any power exercisable by another person (including a receiver or liquidator), supplied by that other person in or towards the satisfaction of a debt owed by the accountable person, or in the course of winding up of a company, then those services shall be deemed to be supplied by the accountable person in the course or furtherance of his or her business.
+
+(5) Where another person (including a receiver or liquidator), under any power exercisable by that other person, in or towards the satisfaction of a debt owed by a taxable person, or in the course of winding up of a company—
+
+(*a*) makes a supply consisting of a letting of immovable goods, being the assets or part of the assets of the taxable person, and
+
+(*b*) that other person exercises an option to tax that letting in accordance with *section 97(1)(a)(i)*,
+
+then that taxable person shall be deemed to have supplied that letting and to have exercised the option to tax.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Inserted (17.10.2024) by *Motor Insurance Insolvency Compensation Act 2024* (32/2024), s. 33, S.I. No. 537 of 2024.
+>
+> F74: Inserted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(a), commenced on enactment.
+
+## PART 4 Place of Taxable Transactions — PART 4 — Place of Taxable Transactions
+
+### Chapter 1 Place of supply of goods — Chapter 1 — Place of supply of goods
+
+#### 29. General rules. — [VATA s. 3(6)(a), (b), (c) and (cc)]
+
+**29**.—(1) For the purposes of this Act, the place where goods are supplied shall be deemed to be—
+
+(*a*) in the case of goods dispatched or transported and to which *section 30* does not apply, subject to *subsection (2)*, the place where the dispatch or transportation to the person to whom the goods are supplied begins,
+
+(*b*) in the case of goods which are installed or assembled, with or without a trial run, by or on behalf of the supplier, the place where the goods are installed or assembled,
+
+(*c*) in the case of goods not dispatched or transported, the place where the goods are located at the time of supply,
+
+(*d*) in the case of goods supplied on board vessels, aircraft or trains during transport, the places of departure and destination of which are within the Community, the place where the transport begins.
+
+(2) Where goods referred to in *subsection (1)(a)* are dispatched or transported from a place outside the Community, then, for the purposes of this Act, the place of supply by the person who imports those goods and the place of any subsequent supplies shall be deemed to be where the goods are imported.
+
+#### 30. Goods supplied to non-registered persons. — [VATA s. 3(6)(d)]
+
+F75[**30.**—Notwithstanding *section 29(1)(a)* or *(2)*, for the purposes of this Act, the place where goods are supplied shall be deemed to be—
+
+(*a*) subject to *section 35A*, in the case of an intra-Community distance sale of goods, the place where the goods are located when the dispatch or transport of the goods to the customer ends,
+
+(*b*) in the case of distance sales of goods imported from third territories or third countries into a Member State other than that in which the dispatch or transport of the goods to the customer ends, the place where the goods are located when the dispatch or transport of the goods to the customer ends;
+
+(*c*) in the case of distance sales of goods imported from third territories or third countries into the Member State in which the dispatch or transport of the goods to the customer ends, that Member State, provided that the value-added tax on those goods is declared under the provisions implementing Section 4 of Chapter 6 of Title XII of the VAT Directive in that Member State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F75: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 7, in effect as per reg. 2.
+
+#### 31. Gas and electricity supplies. — [VATA s. 3(6)(e) and (f) and (6A)]
+
+**31**.—(1)(*a*) In this subsection “taxable dealer” means an accountable person whose principal business in respect of supplies of gas through the natural gas distribution system, F76[of heat or cooling energy through heating or cooling networks,] or of electricity, received by that person, is the supply of those goods for consideration in the course or furtherance of business and whose own consumption of those goods is negligible.
+
+(*b*) For the purposes of this Act, the place where goods are supplied shall be deemed to be—
+
+(i) in the case of the supply of gas through the natural gas distribution system, F76[of heat or cooling energy through heating or cooling networks,] or of electricity, to a taxable dealer, whether in the State, in another Member State of the Community or outside the Community—
+
+(I) the place where that taxable dealer has established the business concerned or has a fixed establishment for which the goods are supplied,
+
+(II) in the absence of such a place of business or fixed establishment, the place where that taxable dealer has a permanent address or usually resides,
+
+(ii) in the case of the supply of gas through the natural gas distribution system F76[situated within the territory of the Community or any network connected to such a system, of heat or cooling energy through heating or cooling networks], or of electricity, to a customer other than a taxable dealer, the place where that customer has effective use and consumption of those goods.
+
+(2) Where all or part of the goods referred to in *subsection (1)(b)(ii)* are not consumed by the customer referred to in that subsection, then, for the purposes of this Act, the goods not so consumed shall be deemed to have been supplied to that customer and used and consumed by that customer—
+
+(*a*) at the place where the customer has established the business concerned or has a fixed establishment for which the goods are supplied,
+
+(*b*) in the absence of such a place of business or fixed establishment, at the place where the customer has a permanent address or usually resides.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(c), in effect as per reg. 1(2).
+
+### Chapter 2 Place of intra-Community transactions — Chapter 2 — Place of intra-Community transactions
+
+#### 32. Intra-Community acquisitions of goods. — [VATA s. 3A(2) and (5)]
+
+**32**.—(1) The place where an intra-Community acquisition of goods occurs shall be deemed to be the place where the goods are when the dispatch or transportation ends.
+
+(2) Without prejudice to *subsection (1)* but subject to *subsection (3)*, when the person acquiring the goods quotes his or her value-added tax registration number for the purpose of the acquisition, the place where an intra-Community acquisition of goods occurs shall be deemed to be within the territory of the Member State which issued that registration number, unless the person acquiring the goods can establish that such acquisition has been subject to value-added tax referred to in the VAT Directive in accordance with *subsection (1)*.
+
+(3) *Subsection (2)* shall not apply where—
+
+(*a*) the person quotes the registration number assigned to him or her in accordance with *section 65* for the purpose of making an intra-Community acquisition and the goods are dispatched or transported from the territory of a Member State directly to the territory of another Member State, neither of which is the State,
+
+(*b*) the person makes a subsequent supply of the goods to a person registered for value-added tax in the Member State where the dispatch or transportation ends,
+
+(*c*) the person issues an invoice in relation to that supply—
+
+(i) in such form and containing such particulars as would be required in accordance with *section 66(1)* if he or she made the supply of the goods in the State to a person registered for value-added tax in another Member State,
+
+(ii) containing an explicit reference to the EC simplified triangulation arrangements, and
+
+(iii) indicating that the recipient of that supply is liable to account for the value-added tax due in that Member State,
+
+and
+
+(*d*) in accordance with regulations, the person includes a reference to the supply in the statement referred to in *section 82* as if it were an intra-Community supply for the purposes of that section.
+
+#### 32A. Chain transactions
+
+F77[**32A.**—(1) In this section—
+
+“chain transaction” means a series of successive supplies of the same goods where those goods are dispatched or transported from one Member State to another Member State, directly from the first supplier of the goods to the last customer in the chain;
+
+“intermediary operator” means a supplier in a chain transaction, other than the first supplier, who dispatches or transports the goods or engages a third party to dispatch or transport the goods on his or her behalf.
+
+(2) Subject to *subsection (3)*, in a chain transaction, the dispatch or transport of the goods shall be ascribed only to the supply made to the intermediary operator.
+
+(3) Where the intermediary operator provides to his or her supplier a value-added tax identification number, issued to that intermediary operator by the Member State from which the goods are dispatched or transported, the dispatch or transport of the goods shall be ascribed only to the supply made by that intermediary operator.]
+
+F78[(4) This section does not apply to transactions in which a taxable person facilitates (within the meaning of *section 91G(1)*), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the supply of goods and is the deemed supplier of those goods under Article 14a of the VAT Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(e), in effect as per reg. 2.
+>
+> F78: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 8, in effect as per reg. 2.
+
+### Chapter 3 Place of supply of services — Chapter 3 — Place of supply of services
+
+#### 33. Application and interpretation of section 34. — [VATA s. 5(5A) to (5E) and (9)]
+
+**33**.—(1) For the purpose of applying *section 34*, every person registered for value-added tax is a taxable person.
+
+(2) In *section 34(c)* a supply of services connected with immovable goods includes—
+
+(*a*) a supply of services by experts or estate agents,
+
+(*b*) a provision of accommodation in a hotel or guesthouse or in an establishment having a similar function, or in a holiday camp or a site developed for use as a camping site, F79[...]
+
+F80[(*ba*) the supply of telecommunications services, radio or television broadcasting services or electronically supplied services, together with the provision of accommodation of the kind specified in *paragraph (b)*, where the supply is by the provider of that accommodation acting in his or her own name, and]
+
+(*c*) a supply of services involving the preparation and co-ordination of construction work (including a supply of services of architects and of persons who provide on-site supervision).
+
+(3) In *section 34(e)* “intra-Community transport of goods” means any transport of goods in respect of which the place of departure and the place of arrival are located within the territories of 2 different Member States.
+
+(4) In *section 34(k)* “short-term” means the continuous possession or use of a means of transport throughout a period of not more than 30 days or, if the means of transport is a vessel, not more than 90 days.
+
+F81[(4A) In *paragraphs (ka)* and *(kb)* of *section 34* “long-term” means the continuous possession or use of a means of transport throughout a period of more than 30 days or, if the means of transport is a vessel, more than 90 days.]
+
+F82[(4B) F83[...]]
+
+(5) The following services are specified for the purpose of *section 34(m)*:
+
+(*a*) services that consist of transferring or assigning copyrights, patents, licences, trade marks and similar rights;
+
+(*b*) advertising services;
+
+(*c*) the services of consultants, engineers, consultancy firms, lawyers, accountants and other similar services, as well as data processing and the provision of information;
+
+(*d*) services that consist of obligations to refrain from pursuing or exercising, wholly or partly, a business activity or a right referred to in this subsection;
+
+(*e*) services that consist of financial transactions (including banking transactions and financial fund management transactions but excluding the provision of safe deposit facilities) or insurance transactions (including reinsurance transactions);
+
+(*f*) services that consist of supplying staff;
+
+(*g*) services that consist of hiring out movable tangible property (other than a means of transport);
+
+F84[(*h*) services that consist of the provision of access to a natural gas distribution system situated within the territory of the Community or to any network connected to such a system, to the electricity system or to the heating or cooling networks, or the transmission or distribution through these systems or networks, and the provision of other services directly linked to those systems;]
+
+(*i*) telecommunications services;
+
+(*j*) radio F85[or] television broadcasting services;
+
+(*k*) electronically supplied services.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Deleted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(a)(i), in effect as per reg. 2(1).
+>
+> F80: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(a)(i), in effect as per reg. 2(1).
+>
+> F81: Inserted (1.01.2013) by *European Union (Value-Added Tax) (No. 2) Regulations 2012* (S.I. No. 429 of 2012), reg. 2(a), in effect as per reg. 1(2).
+>
+> F82: Inserted (1.01.2019) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(a), in effect as per reg. 2.
+>
+> F83: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 9, in effect as per reg. 2.
+>
+> F84: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(d), in effect as per reg. 1(2).
+>
+> F85: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(a)(ii), in effect as per reg. 2(1).
+
+#### 34. General rules. — [VATA s. 5(5)]
+
+**34**.— The following rules apply to determine the place where, for the purposes of this Act, services are supplied:
+
+(*a*) except as provided by *paragraphs (c)*, *(d)*, *(g)*, *(i)*, *(j)* and *(k)*, the place of supply of services to a taxable person acting as such is—
+
+(i) subject to *subparagraph (ii)*, the place where the person’s business is established,
+
+(ii) if the services are supplied to a fixed establishment of the person located in a place other than the place where the business is established, the place where the fixed establishment is located,
+
+(iii) if there is no such place of business or fixed establishment, the place where the permanent address or usual place of residence of the taxable person who receives the services is located;
+
+(*b*) except as provided by *paragraphs (c)* to *(n)*, the place of supply of services to a non-taxable person is—
+
+(i) subject to *subparagraph (ii)*, the place where the supplier’s business is established,
+
+(ii) if the services are supplied from a fixed establishment of the supplier located at a place other than the place where the supplier’s business is established, the place where the fixed establishment is located,
+
+(iii) if there is no such place of business or fixed establishment, the place where the permanent address or usual place of residence of the supplier is located;
+
+(*c*) if the supply of services is connected with immovable goods, or is the grant of a right to use those goods, the place where those goods are located;
+
+(*d*) if the supply of services is the provision of passenger transport, the place or the places where the transport takes place;
+
+(*e*) if the supply of services is the provision of the transport of goods to a non-taxable person and is not an intra-Community transport of goods, the place or places where the transport takes place;
+
+(*f*) if the supply of services is the provision of intra-Community transport of goods to a non-taxable person, the place of departure of those goods (being the place where the transport of the goods actually begins) irrespective of the distance covered by the means of transport in order to reach the place where the goods are located;
+
+F86[(*g*) if the supply of services, and of any ancillary services, is in respect of or related to admission to a cultural, artistic, sporting, scientific, educational, entertainment or similar event, such as a fair or exhibition, F87[(including the supply of tickets granting access to such an event)] and the supply is to a taxable person, the place where that event actually takes place F88[, except where attendance at such an event is virtual];]
+
+F90[(*ga*) if the supply of services, and of any ancillary services, is in respect of or related to F91[...] a cultural, artistic, sporting, scientific, educational, entertainment or similar activity, such as a fair or exhibition (including the supply of services of the organiser of such an activity F87[or the supply of tickets granting access to such an activity]), and the supply is to a non-taxable person, the place where that activity actually takes place;]
+
+F89[(*gb*) if the supply of services, and of any ancillary services, is in respect of or related to a cultural, artistic, sporting, scientific, educational, entertainment or similar activity, such as a fair or exhibition (including the supply of services of the organiser of such an activity or the supply of tickets granting access to such an activity), and that supply is streamed or otherwise made virtually available to a non-taxable person, the place where that person is established, has a permanent address or usually resides;]
+
+(*h*) if the supply of services is to a non-taxable person and consists of—
+
+(i) ancillary transport activities, such as loading, unloading and handling goods,
+
+(ii) carrying out valuations of, or work on, movable goods, or
+
+(iii) contract work,
+
+the place where those services are physically carried out;
+
+(*i*) if the supply of services is the provision of restaurant or catering services (other than those referred to in *paragraph (j)*), the place where those services are physically carried out;
+
+(*j*) if the supply of services is the provision of restaurant or catering services that are physically carried out on board a ship, aircraft or train during a section of a passenger transport operation undertaken within the Community and the first scheduled point of departure within the Community of that transport operation is in the State, the State;
+
+(*k*) if the supply of services consists of a short-term hiring out of a means of transport, the place where the means of transport is actually placed at the disposal of the customer;
+
+F92[(*ka*) subject to *paragraph (kb)*, if the supply of services consists of a long-term hiring out of a means of transport to a non-taxable person, the place where that person is established or has a permanent address or usually resides;
+
+(*kb*) if—
+
+(i) the supply of services consists of a long-term hiring out of a pleasure boat to a non-taxable person, and
+
+(ii) that service is actually provided by the supplier from his or her place of business or a fixed establishment situated in that place,
+
+the place where the pleasure boat is actually put at the disposal of the customer;]
+
+F87[(*kc*) F93[subject to *section 35A*] if the supply of services consists of the provision of—
+
+(i) telecommunications services,
+
+(ii) radio or television broadcasting services, or
+
+(iii) electronically supplied services,
+
+(other than the provision of those services to which *paragraph (c)* relates) to a non-taxable person, the place where that person is established, has a permanent address or usually resides;]
+
+F94[(*kd*) F95[...]]
+
+(*l*) F96[...]
+
+(*m*) if the supply of services consists of a supply of services specified in *section 33(5)* and the supply is to a non-taxable person—
+
+(i) who is established outside the Community,
+
+(ii) whose permanent address is outside the Community, or
+
+(iii) who usually resides outside the Community,
+
+the place where the person is established, has a permanent address or usually resides;
+
+(*n*) if the supply of services is the provision of services to a non-taxable person by an intermediary acting in the name and on behalf of another person, the place F97[where the underlying transaction is supplied].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(c)(i), in effect as per reg. 1(2).
+>
+> F87: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(b)(i)-(iii), in effect as per reg. 2(1).
+>
+> F88, F89: Inserted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 4(a), (b), in effect as per reg. 2.
+>
+> F90: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(c)(ii), in effect as per reg. 1(2).
+>
+> F91: Deleted (27.03.2013) by *Finance Act 2013* (8/2013), s. 105 and sch. 2 par. 3(b), commenced as per par. 5(a).
+>
+> F92: Inserted (1.01.2013) by *European Union (Value-Added Tax) (No. 2) Regulations 2012* (S.I. No. 429 of 2012), reg. 2(b), in effect as per reg. 1(2).
+>
+> F93: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 10(a), in effect as per reg. 2.
+>
+> F94: Inserted (1.01.2019) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(b)(ii), in effect as per reg. 2.
+>
+> F95: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 10(b), in effect as per reg. 2.
+>
+> F96: Deleted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(b)(iv), in effect as per reg. 2(1).
+>
+> F97: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 8, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: para. (kc) amended (1.01.2019) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(b)(i), in effect as per reg. 2; substituted as per F-note above.
+
+#### 35. Use and enjoyment provisions. — [VATA s. 5(6) to (6AF)]
+
+**35**.—(1) Where, in the case of a supply of services that consists of hiring out movable goods, the place of supply of the services would, apart from this subsection, be a place outside the Community but the services are in effect used and enjoyed in the State, the place of supply of those services is nevertheless taken to be the State for the purposes of this Act.
+
+(2) Where, in the case of a supply of services that consists of hiring out a means of transport, the place of supply of the services would, apart from this subsection, be the State but those services are in effect used and enjoyed outside the Community, the place of supply of those services is nevertheless taken to be outside the Community for the purposes of this Act.
+
+(3) Where, in the case of a supply of services that consists of the provision to a non-taxable person of a telecommunications service, a radio or a television broadcasting service or a telephone card, the place of supply of the service or card would, apart from this subsection, be outside the Community but the service is in effect used and enjoyed in the State, the place of supply is nevertheless taken to be the State for the purposes of this Act.
+
+(4) Where, in the case of a supply of services that consists of the provision by a taxable person established in the State of a telecommunications service or a telephone card to a non-taxable person, the place of supply of the service or card would, apart from this subsection, be outside the Community but the service is in effect used and enjoyed in the State, the place of supply is taken to be the State for the purposes of this Act.
+
+(5) Where, in the case of a supply of services that consists of the provision to a non-taxable person of financial services (including banking services and financial fund management services but not including the provision of safe deposit facilities) or insurance services (including reinsurance), the place of supply of the services would, apart from this subsection, be a place outside the Community but the services are in effect used and enjoyed in the State, the place of supply is nevertheless taken to be the State for the purposes of this Act.
+
+(6) Where money transfer services provided to a person in the State are in effect used and enjoyed in the State, the place of supply of intermediary services that are provided in respect of, or in relation to, those services to a principal established outside the Community, is taken to be the State for the purposes of this Act.
+
+### Chapter 4 — Place of supply for certain taxable persons making supplies of intra-Community distance sales of goods and supplies of telecommunication services, radio or television broadcasting services or electronically supplied services
+
+#### 35A. Amendment of Part 4 of Act of 2010
+
+F98[**35A.**—(1) Subject to *subsection (3)*, *sections 30(a)* and *34(kc)* shall not apply to—
+
+(*a*) intra-Community distance sales of goods, or
+
+(*b*) supplies of telecommunications services, radio or television broadcasting services or electronically supplied services, made by a taxable person where—
+
+(i) the taxable person is established or, in the absence of an establishment, has his or her permanent address or usually resides in the State only,
+
+(ii) the goods referred to in *paragraph (a)* are dispatched or transported to a Member State other than the State, or services referred to in *paragraph (b)* are supplied to a non-taxable person who is established, has his or her permanent address or usually resides in a Member State other than the State, and
+
+(iii) the total value of the supplies, exclusive of value-added tax, of goods referred to in *paragraph (a)* and services referred to in *paragraph (b)* does not in the current calendar year, and did not in the previous calendar year, exceed €10,000.
+
+(2) Subject to *subsections (3)* and *(4)*, where *subsection (1)* applies—
+
+(*a*) *section 29(1)(a)* shall apply to intra-Community distances sales of goods, and
+
+(*b*) *section 34(b)* shall apply to the supply of telecommunications services, radio or television broadcasting services or electronically supplied services.
+
+(3) Where, during a calendar year, the threshold referred to in *subsection (1)(iii)* is exceeded, *sections 30(a)* and *34(kc)* shall apply from the date on which that threshold is exceeded.
+
+(4) (*a*) A taxable person in respect of whom *subsection (1)* applies may opt for the place of supply of the supplies of goods referred to in *subsection (1)(a)* and services referred to in *subsection (1)(b)* to be determined in accordance with *sections 30(a)* and *34(kc)*.
+
+(*b*) Where a taxable person exercises the option provided for in paragraph (a), that option shall apply for a period of not less than 2 calendar years from the date on which the option is exercised.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 11, in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E15: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 5 Taxable Amount — PART 5 — Taxable Amount
+
+### Chapter 1 Taxable amount principal provisions — Chapter 1 — Taxable amount — principal provisions
+
+#### 36. Definitions — Chapter 1. — [VATA s. 10(10) (in part)]
+
+**36**.— In this Chapter—
+
+“open market price”, in relation to—
+
+(*a*) the supply of any goods or services (other than an interest in immovable goods which is not a freehold interest), or
+
+(*b*) the intra-Community acquisition of goods,
+
+means the price (excluding tax) which the goods might reasonably be expected to fetch or which might reasonably be expected to be charged for the services if sold in the open market at the time of the event in question;
+
+“open market value”, in relation to a supply of goods or services—
+
+(*a*) subject to *paragraph (b)*, means the total consideration (excluding tax) that a customer, at a marketing stage which is the same as the stage at which the supply of the goods or services takes place, would reasonably be expected to pay to a supplier at arm’s length under conditions of fair competition for a comparable supply of such goods or services,
+
+(*b*) if there is no comparable supply of goods or services, means—
+
+(i) in respect of goods, an amount that is not less than the purchase price of the goods or of similar goods or, in the absence of a purchase price, the cost price, determined at the time of supply,
+
+(ii) in respect of services, an amount that is not less than the full cost to the supplier of providing the service.
+
+#### 37. General rules on taxable amount. — [VATA s. 10(1) to (2) and (9A)]
+
+**37**.—(1) The amount on which tax is chargeable by virtue of *section 3(a)* or *(c)* shall, subject to this Chapter, be the total consideration which the person supplying goods or services becomes entitled to receive in respect of or in relation to such supply of goods or services, including all taxes, commissions, costs and charges whatsoever, but not including value-added tax chargeable in respect of that supply.
+
+(2) The amount on which tax is chargeable on the intra-Community acquisition of goods by virtue of *section 3(d)* or *(e)* shall, subject to this Chapter, be the total consideration, including all taxes, commissions, costs and charges whatsoever, but not including value-added tax chargeable in respect of that acquisition.
+
+(3) Where the consideration referred to in *subsection (1)* or *(2)* does not consist of or does not consist wholly of an amount of money, the amount on which tax is chargeable shall be the total amount of money which might reasonably be expected to be charged if the consideration consisted entirely of an amount of money equal to the open market price.
+
+(4) F99[Subject to *sections 91C(5)* and *91E(5)*, in relation to] the tax chargeable by virtue of *section 3(a)*, *(c)*, *(d)* or *(e)*, where an amount is expressed in a currency other than the currency of the State—
+
+(*a*) unless *paragraph (b)* applies, the exchange rate to be used shall be the latest selling rate recorded by the Central Bank of Ireland F100[or the European Central Bank] for the currency in question at the time the tax becomes due,
+
+(*b*) if there is an agreement with the Revenue Commissioners for a method to be used in determining the exchange rate, then—
+
+(i) the exchange rate to be used shall be the exchange rate obtained using that method, and
+
+(ii) the method so agreed shall be applied for all transactions where an amount is expressed in a currency other than that of the State until the agreement to use such method is withdrawn by the Revenue Commissioners.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(c), in effect as per reg. 2(1).
+>
+> F100: Inserted (1.01.2013) by *European Union (Value-Added Tax) Regulations 2012* (S.I. No. 354 of 2012), reg. 2(b), in effect as per reg. 1(2).
+
+#### 38. Determination that open market value applies. — [VATA s. 10(3A)]
+
+**38**.—(1) The Revenue Commissioners may, where they consider it necessary or appropriate to do so to ensure the correct collection of the tax, make a determination that the amount on which tax is chargeable on a supply of goods or services is the open market value of that supply, if the Commissioners are satisfied—
+
+(*a*) that the actual consideration in relation to that supply is—
+
+(i) lower than the open market value of that supply where the recipient of that supply—
+
+(I) has no entitlement to deduct tax under *Chapter 1* of *Part 8*,
+
+(II) is not entitled to deduct all of the tax chargeable on that supply, or
+
+(III) is a flat-rate farmer,
+
+(ii) lower than the open market value of that supply, being an exempted activity, where the supplier—
+
+(I) engages in the course or furtherance of business in non-deductible supplies or activities within the meaning of *section 61(1)*, or
+
+(II) is a flat-rate farmer,
+
+or
+
+(iii) higher than the open market value where the supplier—
+
+(I) engages in the course or furtherance of business in non-deductible supplies or activities within the meaning of *section 61(1)*, or
+
+(II) is a flat-rate farmer,
+
+and
+
+(*b*) that—
+
+(i) the supplier and the recipient of that supply are persons connected by financial or legal ties, being persons who are party to any agreement, understanding, promise or undertaking whether express or implied and whether or not enforceable or intended to be enforceable by legal proceedings, or
+
+(ii) either the supplier or the recipient of that supply exercises control (within the meaning assigned to it by *section 4(2)*) over the other.
+
+(2) For the purposes of this Act, a value determined in accordance with this section shall be deemed to be the true value of the supply to which it applies.
+
+(3) The Revenue Commissioners may make regulations as seem to them to be necessary for the purposes of this section.
+
+(4) An inspector of taxes, or such other officer as the Revenue Commissioners may authorise for the purpose, may make a determination under this section.
+
+#### 39. General provisions on consideration. — [VATA s. 10(3)]
+
+**39**.—(1) Where the consideration actually received in relation to the supply of any goods or services exceeds the amount that the person supplying the goods or services was entitled to receive, the amount on which tax is chargeable shall be the amount actually received (excluding tax chargeable in respect of the supply).
+
+(2) Subject to *subsection (3)*, where, in a case not coming within *section 38*, the consideration actually received in relation to the supply of any goods or services is less than the amount on which tax is chargeable or no consideration is actually received, such relief may be given by repayment or otherwise in respect of the deficiency as may be provided by regulations.
+
+(3) *Subsection (2)* shall not apply in the case of the letting of immovable goods which is a taxable supply of goods in accordance with *section 95*.
+
+(4) Where, following the issue of an invoice by an accountable person in respect of a supply of goods or services, the accountable person allows a reduction or discount in the amount of the consideration due in respect of that supply, the relief referred to in *subsection (2)* shall not be given until he or she issues the credit note required in accordance with *section 67(1)(b)* in respect of that reduction or discount.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E16: Procedure for claiming relief under subs. (2) by reason of the default of the debtor or the early termination of a hire purchase agreement prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 10, in effect as per reg. 1(2).
+
+#### 40. Special consideration rule, triangulation. — [VATA s. 10(5A)]
+
+**40**.— Where—
+
+(*a*) an intra-Community acquisition is deemed to have taken place in the territory of another Member State in accordance with *section 32(1)*,
+
+(*b*) the intra-Community acquisition has been subject to value-added tax, referred to in the VAT Directive, in that other Member State, and
+
+(*c*) the intra-Community acquisition is also deemed to have taken place in the State in accordance with *section 32(2)*,
+
+then the consideration for the intra-Community acquisition to which *paragraph (c)* relates shall be reduced to nil.
+
+#### 41. Two-thirds rule. — [VATA s. 10(8)]
+
+**41**.—(1) Where the value of movable goods (other than goods of a kind specified in *paragraph 8* of *Schedule 2*) provided under an agreement for the supply of services exceeds two-thirds of the total consideration under the agreement for the provision of those goods and the supply of the services (other than transport services in relation to them)—
+
+(*a*) the consideration shall be deemed to be referable solely to the supply of the goods, and
+
+(*b*) tax shall be charged at the appropriate rate or rates specified in *Chapter 1* of *Part 6* on the basis of any apportionment of the total consideration made in accordance with *subsection (2)*.
+
+(2) Where goods of different kinds are provided under an agreement of the kind referred to in *subsection (1)*, the amount of the consideration referable to the supply of goods of each kind shall be ascertained for the purposes of that subsection by apportioning the total consideration in proportion to the value of the goods of each kind provided.
+
+(3) This section shall also apply to an agreement for the supply of immovable goods and, accordingly, the references in *subsections (1)* and *(2)* to an agreement for the supply of services shall be deemed to include a reference to such an agreement.
+
+(4) This section does not apply in respect of a supply of services to which *section 16(3)* F101[or *(5)*] applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Inserted (1.05.2012) by *Finance Act 2012* (9/2012), s. 86(1)(c), commenced as per s. 86(2).
+
+#### 42. Taxable amount for certain supplies. — [VATA s. 10(4) to (4C) and (5)]
+
+**42**.—(1)(*a*) Subject to *paragraph (c)*, the amount on which tax is chargeable in relation to a supply of goods referred to in *section 19(1)(e)(ii)*, *(f)* or *(g)* or a supply of services by virtue of regulations made for the purposes of *section 27(1)(a)* or *(b)* shall be the cost (excluding tax) of the goods to the person supplying or acquiring the goods or the cost (excluding tax) of supplying the services, as the case may be.
+
+(*b*) The amount on which tax is chargeable in relation to a supply of services by virtue of regulations made for the purposes of *section 27(1)(c)* shall be the open market price of the services supplied.
+
+(*c*) Where the supply referred to in *paragraph (a)* is a supply of immovable goods (in this paragraph referred to as the “appropriation”), the cost to the person making the appropriation shall include an amount equal to the amount on which tax was chargeable on the supply of those goods to that person, being the last supply of those goods to that person which preceded the appropriation.
+
+(2)(*a*) The amount on which tax is chargeable in relation to the supply of goods referred to in *section 19(1)(h)* shall be the cost of the goods to the person making the supply or, in the absence of such a cost, the cost price of similar goods in the State.
+
+(*b*) Where an intra-Community acquisition occurs in the State following a supply of goods in another Member State which, if such supply were carried out in similar circumstances in the State would be a supply of goods in accordance with *section 19(1)(h)*, then the amount on which tax is chargeable in respect of that intra-Community acquisition shall be the cost to the person making the supply in that Member State or, in the absence of a cost to that person, the cost price of similar goods in that other Member State.
+
+(3) The amount on which tax is chargeable in relation to services for which the recipient is, by virtue of F102[*section 12* or *17(1)*], liable for the tax chargeable, shall be the consideration for which the services were in fact supplied to him or her.
+
+(4) In the case of a supply of goods of the kind referred to in *section 19(1)(c)*, where, as part of an agreement of the kind referred to in that section, the supplier of the goods is also supplying financial services of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* in respect of those goods, the amount on which tax is chargeable in respect of the supply of the goods in question shall be the greater of—
+
+(*a*) the open market price of the goods,
+
+(*b*) the amount of the total consideration as specified in *section 37(1)* which the person supplying the goods becomes entitled to receive in respect of or in relation to such supply.
+
+(5) Where goods chargeable with a duty of excise (other than alcohol products within the meaning of *section 92*), are supplied while warehoused, and before payment of the duty, to an unregistered person, the amount on which tax is chargeable in respect of the supply shall be increased by an amount equal to the amount of duty that would be payable in relation to the goods if the duty had become due at the time of the supply.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+
+#### 43. Vouchers, etc. — [VATA s. 10(6) to (7A) and s. 10(10) (in part)]
+
+**43**.—(1) In this section “redeemable value” means the amount stated on a coupon, stamp, telephone card, token or voucher or, where an amount is not so stated, the value expressed in terms of money for which a coupon, stamp, telephone card, token or voucher can be used as consideration (or part consideration) for a supply of goods or services.
+
+(2) Subject to *subsection (3)*, where a right to receive goods or services for the redeemable value of any coupon, stamp, telephone card, token or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that redeemable value.
+
+(3) Notwithstanding *subsection (2)*, where—
+
+(*a*) a supplier—
+
+(i) supplies a coupon, stamp, telephone card, token or voucher, which has a redeemable value, F103[to an accountable person] who acquires it in the course or furtherance of business with a view to resale, and
+
+(ii) promises to subsequently accept that coupon, stamp, telephone card, token or voucher at its redeemable value in full or part payment of the price of goods or services,
+
+and
+
+F103[(*b*) an accountable person who acquires that coupon, stamp, telephone card, token or voucher whether from the supplier referred to in *paragraph (a)* or from any other accountable person in the course or furtherance of business, supplies it for consideration in the course or furtherance of business,]
+
+then, in the case of each such supply, the consideration received shall not be disregarded for the purposes of this Act and when such coupon, stamp, telephone card, token or voucher is used in payment or part payment of the price of goods or services, its redeemable value shall be disregarded for the purposes of *section 37(3)*.
+
+(4) Provision may be made by regulations for the purpose of determining the amount on which tax is chargeable in relation to one or more of the following:
+
+(*a*) supplies of coupons, stamps, tokens or vouchers when supplied as things in action (not being coupons, stamps, tokens or vouchers specified in *subsection (2)*);
+
+(*b*) subject to *subsection (3)* or *(5)*, supplies of goods or services wholly or partly in exchange for coupons, stamps, telephone cards, tokens or vouchers of a kind specified in *subsection (2)* or *paragraph (a)*,
+
+and such regulations may, in the case of supplies referred to in *paragraph (a)*, provide that the amount on which tax is chargeable shall be nil.
+
+(5)(*a*) Where a supplier sells a voucher to a buyer at a discount and promises to subsequently accept that voucher at its face value in full or part payment of the price of goods purchased by a customer who was not the buyer of the voucher, and who does not normally know the actual price at which the voucher was sold by the supplier, the consideration represented by the voucher shall, subject to regulations (if any), be the sum actually received by the supplier on the sale of the voucher.
+
+(*b*) *Paragraph (a)* is for the purpose of giving further effect to Article 73 of the VAT Directive, and shall be construed accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F103: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 69, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E17: Amount on which tax is chargeable in relation to supplies of goods or services to which subs. (4)(a) and (b) applies prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 11, in effect as per reg. 1(2).
+
+#### 43A. Vouchers — Multi-purpose and single - purpose, etc.
+
+F104[**43A**.—(1) In this section—
+
+“multi-purpose voucher” means a voucher other than a single-purpose voucher;
+
+“single-purpose voucher” means a voucher where the place of supply of the goods or the services to which the voucher relates, and the tax due on those goods or services, are known at the time of issue of the voucher;
+
+“voucher” means an instrument, whether in an electronic or physical format, where there is an obligation to accept it as consideration or part consideration for a supply of goods or services and where the goods or services to be supplied or the identities of their potential suppliers are either indicated on the instrument itself or in related documentation, including the terms and conditions of use of such instruments.
+
+(2)(*a*) The actual handing over of goods or the actual provision of services in return for a multi-purpose voucher, accepted as consideration or part consideration by a supplier shall be a supply, but each preceding transfer of that multi-purpose voucher shall be disregarded for the purposes of this Act.
+
+(*b*) Where a multi-purpose voucher is issued or transferred by a taxable person, other than the taxable person carrying out the supply as set out in *paragraph (a)*, the supply of additional services, insofar as they can be identified, shall be subject to tax.
+
+(3) The taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be deemed to be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on or within the multi-purpose voucher or in the related documentation, less the amount of tax relating to the goods or services supplied.
+
+(4)(*a*) Each transfer of a single-purpose voucher made by a taxable person acting in his or her own name shall be regarded as a supply of goods or services to which the voucher relates and shall be subject to tax.
+
+(*b*) Where a transfer of a single-purpose voucher is made by a taxable person acting in the name of another person, that transfer shall be regarded as a supply of goods or services made by that other person in whose name the taxable person is acting.
+
+(*c*) Where the supplier of goods or services is not the taxable person who, acting in his or her own name, issued the single-purpose voucher, that supplier shall be deemed to have made that supply of the goods or services related to that voucher to that taxable person.
+
+(*d*) The actual handing over of the goods or the actual provision of the services in return for a single-purpose voucher accepted as consideration or part consideration by the supplier shall not be regarded as an independent transaction and shall not be subject to tax.
+
+(5) Where a supplier sells a single-purpose voucher to a buyer at a discount and promises to subsequently accept that voucher at its face value in full or part payment of the price of the goods or services purchased by a customer who was not the buyer of the voucher, and who does not normally know the actual price at which the voucher was sold by the supplier, the consideration represented by the voucher shall, subject to regulations (if any), be the sum actually received by the supplier on the sale of the voucher.
+
+(6) This section shall apply to a single-purpose voucher or a multi-purpose voucher issued on or after 1 January 2019.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F104: Inserted (1.01.2019) by *European Union (Value-Added Tax) (Vouchers) Regulations 2018* (S.I. No. 582 of 2018), reg. 3, in effect as per reg. 2.
+
+#### 44. Non-business use of immovable goods. — [VATA s. 10(4D)]
+
+**44**.—(1) The amount on which tax is chargeable in relation to a supply of services referred to in *section 27(2)* in any taxable period shall be an amount equal to one sixth of one twentieth of the cost of the immovable goods used to provide those services, being—
+
+(*a*) the amount on which tax was chargeable to the person making the supply in respect of that person’s acquisition or development of the immovable goods referred to in *section 27(2)*, and
+
+(*b*) in the case where *section 20(2)(c)* applied to the acquisition of the immovable goods, the amount on which tax would have been chargeable but for the application of that section,
+
+adjusted to correctly reflect the proportion of the use of the goods in that period.
+
+(2) The Revenue Commissioners may make regulations specifying methods which may be used—
+
+(*a*) to identify the proportion which correctly reflects the extent to which immovable goods are used for the purposes referred to in *section 27(2)*, and
+
+(*b*) to calculate the relevant taxable amount or amounts.
+
+### Chapter 2 Adjustment and recovery of consideration — Chapter 2 — Adjustment and recovery of consideration
+
+#### 45. Adjustment and recovery of consideration. — [VATA s. 35(1A) to (2)]
+
+**45**.—(1) Where, after the making of an agreement for the supply of goods or services and before the date on which under *section 74(1)* or *(2)*, as may be appropriate, any tax in respect of the transaction falls due, there is a change in the amount of tax chargeable on the supply in question, then, in the absence of agreement to the contrary, there shall be added to or deducted from the total amount of the consideration and any tax stated separately under the agreement an amount equal to the amount of the change in the tax chargeable.
+
+(2) References in *subsection (1)* to a change in the amount of tax chargeable on the supply of goods or services include references to a change to or from a situation in which no tax is being charged on the supply.
+
+(3) Subject to *subsection (4)*, where, in relation to a supply of goods or services by an accountable person, the person issues an invoice in which the tax chargeable in respect of the transaction is stated separately, then, for the purpose of its recovery, the tax so stated shall be deemed to be part of the consideration for the transaction and shall be recoverable accordingly by the person.
+
+(4) Where the invoice referred to in *subsection (3)* is issued pursuant to *section 66(1)*, *subsection (3)* shall not apply unless the invoice is in the form and contains the particulars specified by regulations.
+
+## PART 6 Rates and Exemption — PART 6 — Rates and Exemption
+
+### Chapter 1 Rates — Chapter 1 — Rates
+
+#### 46. Rates of tax. — [VATA s. 11(1), (1A) and (8)]
+
+**46**.—(1) Tax shall be charged, in relation to the supply of taxable goods or services, the intra-Community acquisition of goods and the importation of goods, at whichever of the following rates is appropriate in any particular case:
+
+(*a*) F105[subject to *subsection (1A)*,] F106[23 per cent] of the amount on which tax is chargeable other than in relation to goods or services on which tax is chargeable F107[at any of the rates specified in *paragraphs (b)*, *(c)*, *(ca)*, *(caa)*, F109[*(cab)*,] F112[*(cac)*,] *(cb)* and *(d)*];
+
+(*b*) zero per cent of the amount on which tax is chargeable in relation to goods in the circumstances specified in *paragraphs 1(1)* to *(3)*, *3(1)* and *(3)* and *7(1)* to *(4)* and *(6)* of *Schedule 2* or of goods or services of a kind specified in the other paragraphs of that Schedule;
+
+(*c*) F108[subject to *paragraphs (ca)*, *(caa)* F110[, *(cab)*] F113[, *(cac)*] and *(cb)*] 13.5 per cent of the amount on which tax is chargeable in relation to goods or services of a kind specified in *Schedule 3*;
+
+F115[(*ca*) F116[...] 9 per cent in relation to goods or services of a kind specified in F117[*paragraphs 7(a), 7A, 12* and *12A*] of *Schedule 3* on which tax would, but for this paragraph, be chargeable in accordance with *paragraph (c)*;]
+
+F118[(*caa*) during the period from 1 May 2022 to F119[31 December 2030], 9 per cent in relation to goods of a kind specified in *paragraph 17(2)* and *(3)* of *Schedule 3* on which tax would, but for this paragraph, be chargeable in accordance with *paragraph (c)*;]
+
+F111[(*cab*) during the period from 8 October 2025 to 25 November 2025, 9 per cent in relation to goods of a kind specified in *paragraph 9A* of *Schedule 3* on which tax would, but for this paragraph, be chargeable in accordance with *paragraph (c*);]
+
+F114[(*cac*) during the period from 26 November 2025 to 31 December 2030, 9 per cent in relation to—
+
+(i) goods of a kind specified in *subparagraph (2)* of *paragraph 9B* of *Schedule 3*, and
+
+(ii) services of a kind specified in *subparagraph (3)* of *paragraph 9B* of *Schedule 3*, on which tax would, but for this paragraph, be chargeable in accordance with *paragraph (c)*;]
+
+F120[F121[(*cb*) 9 per cent in relation to goods or services of a kind specified in *paragraphs 3(1)*, *3(3)* and *13(3)* of *Schedule 3* on which tax would, but for this paragraph, be chargeable in accordance with *paragraph (c)*;]]
+
+(*d*) 4.8 per cent of the amount on which tax is chargeable in relation to the supply of livestock F122[...].
+
+F123[(1A) During the period from 1 September 2020 to 28 February 2021, *paragraph (a)* of *subsection (1)* shall have effect as if there were substituted “21 per cent” for “23 per cent”.]
+
+(2) The rate at which tax is chargeable under *section 3(a)*, *(c)*, *(d)* or *(e)* is the rate in force at the time when the tax becomes due as provided by *section 74(1)* or *(2)* or *75* (whichever is applicable).
+
+(3) Goods or services which are specifically excluded from any paragraph of a Schedule shall, unless the contrary intention is expressed, be regarded as excluded from every other paragraph of that Schedule, and shall not be regarded as specified in that Schedule.
+
+(4)(*a*) The Minister may by order vary *Schedule 2* or *3* by adding to or deleting therefrom descriptions of goods or services of any kind or by varying any description of goods or services for the time being specified therein, but no order shall be made under this Chapter for the purpose of increasing any of the rates of tax or extending the classes of activities or goods in respect of which tax is for the time being chargeable.
+
+(*b*) The Minister may by order amend or revoke an order under this subsection (including an order under this paragraph).
+
+(*c*) An order under this subsection shall be laid before Dáil Éireann as soon as may be after it has been made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+F124[(5) (*a*) Where the European Commission adopts a decision to extend or further extend the period of application of the relief granted by Commission Decision (EU) 2020/491 to a date later than 30 April 2021 or to any later date, as the case may be (in this paragraph referred to as the “extended period”), the Minister shall by order amend *subclause (ii)* of *paragraph 11(4)(a)* of *Schedule 2* so as to extend or further extend, as the case may be, the period specified in that subclause for such extended period.
+
+(*b*) An order under *paragraph (a)* may, if so expressed, have retrospective effect.
+
+(*c*) An order under *paragraph (a)* shall be laid before Dáil Éireann as soon as may be after it has been made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(*d*) In this subsection—
+
+“Commission Decision (EU) 2020/491” means Commission Decision (EU) 2020/491 of 3 April 2020[^5] on relief from import duties and VAT exemption on importation granted for goods needed to combat the effects of the Covid-19 outbreak during 2020, as amended by Commission Decision (EU) 2020/1101 of 23 July 2020[^6] and Commission Decision (EU) 2020/1573 of 28 October 2020[^7];
+
+“Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 12(a), commenced on enactment.
+>
+> F106: Substituted (1.01.2012) by *Finance Act 2012* (9/2012), s. 87, commenced as per s. 87.
+>
+> F107, F108: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 7(a), (b), commenced on enactment.
+>
+> F109, F110, F111: Inserted (8.10.2025) by *Finance Act 2025* (18/2025), s. 70(a)(i)-(iii), in effect as per s. 70(1).
+>
+> F112, F113, F114: Inserted (26.11.2025) by *Finance Act 2025* (18/2025), s. 70(2)(a)(i)-(iii), in effect as per s. 70(2).
+>
+> F115: Inserted (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011) s. 3(c), commenced as per s. 3.
+>
+> F116: Deleted (1.01.2014) by *Finance (No. 2) Act 2013* (41/2013), s. 58, commenced as per s. 58.
+>
+> F117: Substituted (1.01.2025) by *Finance Act 2024* (43/2024), s. 79(a), commenced as per s. 79(a).
+>
+> F118: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 7(c), commenced on enactment.
+>
+> F119: Substituted (8.10.2025) by *Finance Act 2025* (18/2025), s. 69, in effect as per s. 69.
+>
+> F120: Inserted (1.11.2020) by *Finance Act 2020* (26/2020), s. 39(b), commenced as per s. 39.
+>
+> F121: Substituted (1.07.2026) by *Finance Act 2025* (18/2025), s. 71, commenced as per s. 71.
+>
+> F122: Deleted (1.01.2015) by *Finance (No. 2) Act 2013* (41/2013), s. 66(1)(b)(ii), commenced as per s. 66(2) and S.I. No. 498 of 2014.
+>
+> F123: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 12(b), commenced on enactment.
+>
+> F124: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 44(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to subs. (5) exercised (1.01.2022, deemed) by *Value - Added Tax Consolidation Act 2010 (Section 46(5)) Order 2022* (S.I. No. 665 of 2022), in effect as per art. 3.
+>
+> E19: Power pursuant to subs. (5) exercised (30.05.2021) by *Value-Added Tax Consolidation Act 2010 (section 46(5)) Order 2021* (S.I. No. 228 of 2021).
+>
+> E20: Previous affecting provision: subs. (1)(caa) substituted (3.04.2025) by *Finance (Local Property Tax and Other Provisions)(Amendment) Act 2025* (6/2025), s. 14, commenced as per s. 14; substituted (26.11.2025) as per F-note above.
+>
+> E21: Previous affecting provision: subs. (1)(caa) amended (2.10.2024) by *Finance Act 2024* (43/2024), s. 79(b), commenced as per s. 79(b); substituted (3.04.2025) as per E-note above.
+>
+> E22: Previous affecting provision: subs. (1)(caa) amended (11.10.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 59, commenced as per s. 59; substituted (2.10.2024) as per E-note above.
+>
+> E23: Previous affecting provision: subs. (1)(cb) amended (23.02.2023) by *Finance Act 2023* (11/2023), s. 5(a)(ii), commenced as per s. 5(a); substituted (1.07.2026) as per F-note above.
+>
+> E24: Previous affecting provision: subs. (1)(caa) amended (23.02.2023) by *Finance Act 2023* (11/2023), s. 5(a)(i), commenced as per s. 5(a); substituted (11.10.2023) as per E-note above.
+>
+> E25: Previous affecting provision: subs. (1)(caa) amended (15.12.2022) by *Finance Act 2022* (44/2022), s. 53, commenced on enactment; substituted (23.02.2023) as per E-note above.
+>
+> E26: Previous affecting provision: subs. (1)(cb) amended (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 7(d), commenced on enactment; substituted (23.02.2023) as per E-note above.
+>
+> E27: Previous affecting provision: subs. (1)(cb) amended (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 6, commenced on enactment; substituted (2.06.2022) as per E-note above.
+>
+> E28: Previous affecting provision: subs. (1)(c) amended (1.11.2020) by *Finance Act 2020* (26/2020), s. 39(a), commenced as per s. 39; substituted (2.06.2022) as per F-note above.
+>
+> E29: Previous affecting provision: subs. (1)(ca) amended (1.01.2019) by *Finance Act 2018* (30/2018), s. 43(a), commenced as per s. 43; substituted (1.01.2025) as per F-note above.
+>
+> E30: Previous affecting provision: subs. (1)(ca) amended (1.01.2015) by *Finance (No. 2) Act 2013* (41/2013), s. 66(1)(b)(i), commenced as per s. 66(2) and S.I. No. 498 of 2014; substituted (1.01.2019) as per E-note above.
+>
+> E31: Previous affecting provision: subs. (1)(a), (c) amended (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011) s. 3(a), (b), commenced as per s. 3; substituted (8.10.2025) as per F-note above.
+
+#### 47. Composite and multiple supplies. — [VATA s. 11(3)]
+
+**47**.—(1) Subject to *section 41*—
+
+(*a*) in the case of a composite supply, the tax chargeable on the total consideration which the accountable person is entitled to receive for that composite supply shall be at the rate specified in *section 46(1)* which is appropriate to the principal supply, but if that principal supply is an exempted activity, tax shall not be chargeable in respect of that composite supply,
+
+(*b*) in the case of a multiple supply—
+
+(i) the tax chargeable on each individual supply in that multiple supply shall be at the rate specified in *section 46(1)* appropriate to each such individual supply, and
+
+(ii) in order to ascertain the taxable amount referable to each individual supply for the purpose of applying the appropriate rate thereto, the total consideration which the accountable person is entitled to receive in respect of that multiple supply shall be apportioned between those individual supplies in a way that correctly reflects the ratio which the value of each such individual supply bears to the total consideration for that multiple supply.
+
+(2) In the case where a person acquires a composite supply or a multiple supply by means of an intra-Community acquisition, this section shall apply to that acquisition.
+
+(3) The Revenue Commissioners may make regulations as necessary specifying—
+
+(*a*) the circumstances or conditions under which a supply may or may not be treated as an ancillary supply, a composite supply, an individual supply, a multiple supply or a principal supply,
+
+(*b*) the methods of apportionment which may be applied for the purposes of *subsections (1)* and *(2)*,
+
+(*c*) a relatively small amount, or an element of a supply, which may be disregarded for the purposes of applying this section.
+
+#### 48. Works of art, etc. — [VATA s. 11(1AA)]
+
+**48**.—(1) Notwithstanding *section 46(1)*, tax shall be charged at the rate specified in F125[*paragraph (c)* or *(ca)*, as appropriate, of *section 46(1)*] of the amount on which tax is chargeable in relation to—
+
+(*a*) the importation into the State of goods specified in *Schedule 5*,
+
+(*b*) the supply of a work of art of the kind specified in *paragraph 1* of *Schedule 5*, effected by its creator or the creator’s successors in title, or
+
+(*c*) the supply of a work of art of the kind specified in *paragraph 1* of *Schedule 5*, effected on an occasional basis by an accountable person other than a taxable dealer where—
+
+(i) that work of art has been imported by the accountable person,
+
+(ii) that work of art has been supplied to the accountable person by its creator or the creator’s successors in title, or
+
+(iii) the tax chargeable in relation to the purchase, intra-Community acquisition or importation of that work of art by the accountable person was wholly deductible under *Chapter 1* of *Part 8*.
+
+(2) Notwithstanding *section 46(1)*, tax shall be charged at the rate specified in F125[*paragraph (c)* or *(ca)*, as appropriate, of *section 46(1)*] of the amount on which tax is chargeable in relation to the intra-Community acquisition in the State by an accountable person of a work of art of the kind specified in *paragraph 1* of *Schedule 5* where the supply of that work of art to that accountable person which resulted in that intra-Community acquisition is a supply of the kind that would be charged at the rate specified in F125[*paragraph (c)* or *(ca)*, as appropriate, of *section 46(1)*] in accordance with *subsection (1)(b)* or *(c)* if that supply had occurred within the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Substituted (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011) s. 3(d), commenced as per s. 3.
+
+#### 49. Contract work. — [VATA s. 11(1AB)]
+
+**49**.—(1) Notwithstanding *section 46(1)* but subject to *subsection (2)*, the rate at which tax is chargeable on a supply of contract work shall be the rate that would be chargeable if that supply of services were a supply of the goods being handed over by the contractor to the person to whom that supply is made.
+
+(2) *Subsection (1)* shall not apply to a supply of contract work in the circumstances specified in F126[*paragraph 3(4)* of *Schedule 2*].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 9, commenced on enactment.
+
+#### 50. Provisions in relation to certain supplies. — [VATA s. 11(4), (4A) and (6)]
+
+**50**.—(1) Where—
+
+(*a*) goods are supplied by a manufacturer to a person and materials have been supplied by or on behalf of that person for the manufacture of those goods, and
+
+(*b*) the rate of tax chargeable in relation to the supply of the goods (in this subsection referred to as the “goods rate”) exceeds the rate of tax (in this subsection referred to as the “materials rate”) that would be chargeable in relation to a supply within the State of the materials,
+
+then the manufacturer shall, in respect of the supply of such goods, be liable (in addition to any other liability imposed on the manufacturer by this Act) to pay tax on the value of the materials provided to the manufacturer at a rate equivalent to the difference between the goods rate and the materials rate.
+
+(2) Where—
+
+(*a*) goods of a kind specified in *paragraph 8* of *Schedule 2* are used by a person in the course of the supply by the person of taxable services, and
+
+(*b*) the goods are provided by or on behalf of the person to whom the services are supplied,
+
+the person who supplies the taxable services shall be liable in respect thereof (in addition to any other liability imposed on him or her under this Act) to pay tax on the value of the goods so used at the rate specified in F127[*paragraph (c)* or *(ca)*, as appropriate, of *section 46(1)*].
+
+(3) Where immovable goods consisting of machinery or business installations are let separately from other immovable goods of which they form part, tax shall be chargeable in respect of the transaction at the rate which would be chargeable if it were a hiring of movable goods of the same kind.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Substituted (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011) s. 3(d), commenced as per s. 3.
+
+#### 51. Determinations on rates and exemptions. — [VATA s. 11(1B)]
+
+**51**.—F128[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Repealed (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 60(1), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: subss. (6), (7) substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(b)(i), (ii), S.I. No. 110 of 2016; section repealed (18.12.2023) as per F-Note above.
+>
+> E33: Previous affecting provision: form of determination under section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 13, in effect as per reg. 1(2); section repealed (18.12.2023) as per F-Note above.
+
+### Chapter 2 Exemptions — Chapter 2 — Exemptions
+
+#### 52. General rule on exempted activity. — [VATA s. 6]
+
+**52**.—(1) Tax shall not be chargeable in respect of any exempted activity.
+
+(2) F129[(*a*) The Minister may by order amend *Schedule 1*.]
+
+(*b*) The Minister may by order amend or revoke an order under this subsection, including an order under this paragraph.
+
+(*c*) An order under this subsection shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F129: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 85(b), commenced on enactment.
+
+## PART 7 Provisions Relating to Imports, Exports, etc. — PART 7 — Provisions Relating to Imports, Exports, etc.
+
+### 53. Imports — general provisions. — [VATA s. 15(3), (6) and (8) and FA 2010 s. 125]
+
+**53**.—(1) The value of imported goods for the purposes of this section and *section 54* shall be their value determined in accordance with the acts for the time being in force adopted by the institutions of the Community relating to the valuation of goods for customs purposes, modified by the substitution of references to the territory of the State for references to the customs territory of the Community, together with any taxes, duties, expenses resulting from the transport of the goods to another place of destination within the Community (if that destination is known at the time of the importation) and other charges levied either outside or, by reason of importation, within the State (other than value-added tax) on the goods and not included in the determination.
+
+(2) With effect from 1 January 2011, where the importation of goods is followed by a supply or transfer of those goods to a person registered for value-added tax in another Member State, *paragraph 2(1)* of *Schedule 2* applies only if the person who imports those goods (in this subsection referred to as the “importer”)—
+
+(*a*) at the time of importation declares the following information:
+
+(i) the importer’s registration number;
+
+(ii) the identification number (referred to in the definition in *section 2(1)* of “person registered for value-added tax”) of the person to whom the goods are supplied or transferred;
+
+and
+
+(*b*) provides evidence, if so requested by the Revenue Commissioners, that the imported goods are to be transported or dispatched from the State to another Member State.
+
+(3) Subject to *subsection (1)* F130[and *sections 53A* and *54*], the F131[Customs Acts] shall apply to tax referred to in this section or *section 54* or *120(7)(b)* or *(c)* as if it were a duty of customs, with such exceptions and modifications (if any) as may be specified in regulations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F130: Substituted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 62, S.I. No. 723 of 2020.
+>
+> F131: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(c), commenced on enactment.
+>
+> F132: Substituted by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 55, not commenced as of date of revision.
+>
+> **Editorial Notes:**
+>
+> E34: Previous affecting provision: subs. (3) amended by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 55, not commenced; repealed (17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 4(a), S.I. No. 634 of 2020.
+
+### 53A. Postponed accounting
+
+F133[**53A.**—(1) Notwithstanding *section 53(3)* but subject to *subsection (4)*, an accountable person may account for the tax chargeable under *section 3(b)* on goods imported into the State by the person in the return to be furnished by the person, under *section 76* or *77*, in respect of the taxable period in which the tax has become so chargeable.
+
+(2) Where—
+
+(*a*) in accordance with *subsection (1)*, goods have been imported by an accountable person without payment of the tax chargeable on the importation of the goods, and
+
+(*b*) the tax is not accounted for in a return furnished by the accountable person under *section 76* or *77* in respect of the taxable period in which the tax has become so chargeable,
+
+the tax chargeable in respect of the importation of the goods shall become due as if this section did not apply.
+
+(3) Where the Revenue Commissioners are satisfied that—
+
+(*a*) an accountable person no longer complies with one or more of the requirements specified in regulations made under *section 120(7)(aa)(i)*, or
+
+(*b*) one or more conditions or restrictions, imposed by regulations made under *section 120(7)(aa)(ii)* as respects the accounting by an accountable person for tax by the means referred to in *subsection (1)*, are no longer satisfied or are no longer being observed,
+
+then *subsection (4)* applies.
+
+(4) Where this subsection applies, the Revenue Commissioners shall serve a notice in writing (a “notice of exclusion”) on the accountable person stating that the person is, from a date specified in the notice, excluded from accounting for tax by the means referred to in *subsection (1)* and if such a notice is served on that person then the means referred to in *subsection (1)* for accounting for tax shall, from the date specified in the notice, not be available to that person.
+
+(5) Where a notice of exclusion is served on a person under *subsection (4)*, the person may appeal the notice to the Appeal Commissioners in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133, F134: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 63, S.I. No. 723 of 2020.
+>
+> **Editorial Notes:**
+>
+> E35: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E36: Previous affecting provision: section inserted by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 56, not commenced; repealed (17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 4(a), S.I. No. 634 of 2020.
+
+### 54. Remission or repayment of tax on certain imported goods. — [VATA s. 15(5) and (5A)]
+
+**54**.—(1) The Revenue Commissioners may, in accordance with regulations, remit or repay, if they think fit, the whole or part of the tax chargeable—
+
+(*a*) on the importation of any goods which are shown to their satisfaction to have been previously exported,
+
+(*b*) on the importation of any goods if they are satisfied that the goods have been or are to be re-exported,
+
+(*c*) on the importation of any goods from the customs-free airport by an unregistered person who shows to the satisfaction of the Commissioners that he or she has already borne tax on the goods.
+
+(2) Subject to *subsection (3)*, the Revenue Commissioners shall, in accordance with regulations, repay the tax chargeable on the importation of goods where the goods have been dispatched or transported—
+
+(*a*) to another Member State from outside the Community, and
+
+(*b*) to a person (other than an individual) who is not registered for value-added tax in that other Member State.
+
+(3) *Subsection (2)* shall apply only where it is shown to the satisfaction of the Revenue Commissioners that the goods in question have been subject to value-added tax referred to in the VAT Directive in that other Member State.
+
+### 55. Goods in transit — miscellaneous provisions. — [VATA s. 15B(1) to (5A) and (7)]
+
+**55**.—(1)(*a*) In this section—
+
+“date of accession” means—
+
+(i) 1 January 1995 in respect of the Republic of Austria, the Republic of Finland (excluding the Åland Islands) and the Kingdom of Sweden,
+
+(ii) 1 May 2004 in respect of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic,
+
+(iii) 1 January 2007 in respect of the Republic of Bulgaria and F135[Romania,]
+
+F136[(iv) 1 July 2013 in respect of the Republic of Croatia;]
+
+“enlarged Community” means the Community after the accession of the new Member States;
+
+“new Member State” means any state referred to in the definition of “date of accession” with effect from the relevant date.
+
+(*b*) A word or expression that is used in this section and is also used in Council Directive No. 94/76/EC of 22 December 1994 [^8], has, unless the contrary intention appears, the meaning in this section that it has in that Council Directive.
+
+(2) Where—
+
+(*a*) goods from a new Member State were imported into the State before the date of accession,
+
+(*b*) the tax referred to in *section 3(b)* was not chargeable because the goods were, at the time of such importation, placed—
+
+(i) under an arrangement for temporary importation with total exemption from customs duty, or
+
+(ii) under one of the arrangements referred to in Article 156(1) of the VAT Directive,
+
+and
+
+(*c*) the goods are still subject to such an arrangement on the date of accession,
+
+then the provisions in force at the time the goods were placed under that arrangement shall continue to apply until the goods leave that arrangement on or after the date of accession.
+
+(3)(*a*) In this subsection “common transit procedure” means the procedure approved by the Council of the European Communities by Council Decision No. 87/415/EEC of 15 June 1987 [^9], approving the Convention done at Interlaken on the 20th day of May, 1987, between the European Community, the Republic of Austria, the Republic of Finland, the Republic of Iceland, the Kingdom of Norway, the Kingdom of Sweden, and the Swiss Confederation on a common transit procedure, the text of which is attached to that Council Decision.
+
+(*b*) Where—
+
+(i) goods were placed under the common transit procedure or under another customs transit procedure in a new Member State before the date of accession, and
+
+(ii) those goods have not left the procedure concerned before the date of accession,
+
+then the provisions in force at the time the goods were placed under that procedure shall continue to apply until the goods leave that procedure on or after the date of accession.
+
+(4) Where goods were in free circulation in a new Member State prior to entry into the State, an importation into the State shall be deemed to occur in the following cases:
+
+(*a*) the removal (including irregular removal) within the State of the goods referred to in *subsection (2)* from the arrangement referred to in *subsection (2)(b)(i)*;
+
+(*b*) the removal (including irregular removal) within the State of the goods referred to in *subsection (2)* from the arrangement referred to in *subsection (2)(b)(ii)*;
+
+(*c*) the termination within the State of any of the procedures referred to in *subsection (3)*.
+
+(5) An importation into the State shall be deemed to occur when goods, which were supplied within a new Member State before the date of accession, and which were not chargeable to a value-added tax in that new Member State, because of their exportation from that new Member State, are used in the State on or after the date of accession, and have not been imported before that date.
+
+(6) The tax referred to in *section 3(b)* shall not be chargeable where—
+
+(*a*) the imported goods referred to in *subsections (4)* and *(5)* are dispatched or transported outside the enlarged Community,
+
+(*b*) the imported goods referred to in *subsection (4)(a)* are other than means of transport and are being returned to the new Member State from which they were exported and to the person who exported them, or
+
+(*c*) the imported goods referred to in *subsection (4)(a)* are means of transport which were acquired in or imported into a new Member State before the date of accession in accordance with the general conditions of taxation in force on the domestic market of that new Member State and which have not been subject by reason of their exportation to any exemption from or refund of a value-added tax in that new Member State.
+
+(7) *Subsection (6)(c)* shall be deemed to be complied with where it is shown to the satisfaction of the Revenue Commissioners that—
+
+(*a*) the date of the first use of the means of transport was before 1 January 1987 in the case of means of transport entering the State from the Republic of Austria, the Republic of Finland (excluding the Åland Islands) or the Kingdom of Sweden,
+
+(*b*) the date of the first use of the means of transport was before 1 May 1996 in the case of means of transport entering the State from the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia or the Slovak Republic,
+
+(*c*) the date of the first use of the means of transport was before 1 January 1999 in the case of means of transport entering the State from the Republic of Bulgaria or F137[Romania,]
+
+F136[(*ca*) the date of the first use of the means of transport was before 1 July 2005 in the case of means of transport entering the State from the Republic of Croatia, or]
+
+(*d*) the tax due by reason of the importation does not exceed €130.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F135: Substituted (1.07.2013) by *European Union (Value-Added Tax) Regulations 2013* (S.I. No. 252 of 2013), regs. 3(a)(i), in effect as per reg. 2.
+>
+> F136: Inserted (1.07.2013) by *European Union (Value-Added Tax) Regulations 2013* (S.I. No. 252 of 2013), regs. 3(a)(ii) and (b)(ii), in effect as per reg. 2.
+>
+> F137: Substituted (1.07.2013) by *European Union (Value-Added Tax) Regulations 2013* (S.I. No. 252 of 2013), regs. 3(b)(i), in effect as per reg. 2.
+
+### 56. Zero-rating scheme for qualifying businesses. — [VATA s. 13A]
+
+**56**.—(1) For the purposes of this section and *paragraph 7(7)* of *Schedule 2*—
+
+“authorised person” means a qualifying person who has been authorised in accordance with *subsection (3)*;
+
+“qualifying person” means an accountable person whose turnover from—
+
+(*a*) supplies of goods made in accordance with *paragraph 1(1)* or *3(1)* or *(3)* of *Schedule 2*,
+
+(*b*) supplies of contract work where the place of supply is deemed to be F138[a Member State other than] the State, and
+
+(*c*) supplies of contract work made in accordance with *paragraph 3(4)* of *Schedule 2*,
+
+amounts to F139[...] 75 per cent F141[or more] of the person’s total turnover from supplying goods and services F142[for the period of 12 months immediately preceding the making of an application for authorisation under *subsection (2)*], except that turnover from goods supplied to an accountable person that are subsequently leased back from that person are excluded from the total turnover for the purpose of determining whether the accountable person is a qualifying person;
+
+“qualifying goods” means all taxable goods excluding motor vehicles within the meaning of *section 60(1)* and petrol;
+
+“qualifying services” means all taxable services excluding the provision of food or drink, accommodation, other personal services, entertainment services or the hire of motor vehicles within the meaning of *section 60(1)*.
+
+(2) A person who wishes to become an authorised person shall—
+
+(*a*) complete such application form as may be provided by the Revenue Commissioners for that purpose,
+
+F143[(*aa*) provide in the application form the particulars specified in such regulations as may be made under *section 120(7)(ab)*,]
+
+(*b*) certify the particulars shown on such form to be correct, and
+
+(*c*) submit to the Revenue Commissioners the completed and certified application form, together with such further information in support of the application as may be requested by them.
+
+(3)F148[(*a*) The Revenue Commissioners shall, subject to *paragraph (ab)*, issue to a person, who has made an application under *subsection (2)*, an authorisation in writing where they are satisfied that—
+
+(i) there is no risk to revenue, and
+
+(ii) the person—
+
+(I) is a qualifying person, and
+
+(II) has furnished the particulars, duly certified, as required under *subsection (2)*,
+
+and if not so satisfied shall refuse to issue the authorisation.]
+
+F144[(*aa*) Where the Revenue Commissioners decide under *paragraph (a)* to refuse to issue an authorisation, they shall give notice in writing to the person concerned of the decision and the reasons for that decision.
+
+(*ab*) An authorisation issued under *paragraph (a)* shall be subject to the conditions that the authorised person, during the period for which the authorisation is valid, shall—
+
+(i) keep full and true records in accordance with *section 84*, and
+
+(ii) comply with the provisions of—
+
+(I) this Act,
+
+(II) the Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997 ),
+
+(III) the Capital Gains Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997 ),
+
+(IV) the statutes relating to the duties of excise and to the management of those duties,
+
+(V) the Customs Act 2015 , and
+
+(VI) any instrument made under any of the enactments referred to in *clauses (I)* to *(V)*.]
+
+(*b*) An authorisation issued in accordance with *paragraph (a)* shall be valid for such period as may be determined by the Revenue Commissioners.
+
+(*c*) Where a person who has been authorised in accordance with *paragraph (a)* ceases to be a qualifying person, he or she shall, by notice in writing, advise the Revenue Commissioners accordingly not later than the end of the taxable period during which he or she ceased to be a qualifying person.
+
+F145[(*ca*) An authorised person shall, by notice in writing, advise the Revenue Commissioners immediately of any change in the particulars referred to in *subsection (2)(aa)*.]
+
+(*d*) F140[...]
+
+F146[(3A) (*a*) The Revenue Commissioners shall, by notice in writing, cancel an authorisation issued to a person in accordance with *subsection (3)* where they are satisfied that—
+
+(i) the person is no longer a qualifying person,
+
+(ii) the person has furnished, or there is furnished on his or her behalf, when making an application under *subsection (2)* for authorisation, particulars which are, in a material respect, false, incorrect or misleading, or
+
+(iii) the person has failed or is failing to comply with all or any of the conditions set out in *subsection (3)(ab)*.
+
+(*b*) A cancellation under *paragraph (a)* shall take effect—
+
+(i) if no appeal is brought under *subsection (10)*, on the date specified in the notice given under *paragraph (a)*, or
+
+(ii) if an appeal is brought under *subsection (10)*, on the date on which the appeal has been finally determined or is withdrawn or abandoned.
+
+(3B) Where—
+
+(*a*) a person’s authorisation is cancelled under *subsection (3A)*, and
+
+(*b*) it appears to be requisite to the Revenue Commissioners to do so for the protection of the revenue, the Revenue Commissioners may, notwithstanding any obligations as to secrecy, or other restriction upon disclosure of information imposed on them by any enactment or otherwise—
+
+(i) inform the suppliers to the person to whom the authorisation relates, in so far as is practicable, of—
+
+(I) the cancellation of that person’s authorisation,
+
+(II) the number of the authorisation so cancelled,
+
+(III) the date from which the cancellation has effect, and
+
+(IV) the name and address of the person to whom the authorisation issued,
+
+(ii) publish in Iris Oifigiúil a notice stating—
+
+(I) that the authorisation has been cancelled,
+
+(II) the number of the authorisation so cancelled,
+
+(III) the date from which the cancellation has effect, and
+
+(IV) the name and address of the person to whom the authorisation issued,
+
+and
+
+(iii) make publicly available the information which has been published in accordance with *subparagraph (ii)* in any other publication and in any manner, form, format or media.]
+
+(4) An authorised person shall furnish a copy of the authorisation referred to in *subsection (3)* to each accountable person in the State who supplies taxable goods or taxable services to the authorised person.
+
+(5) An accountable person who supplies goods or services in circumstances where *paragraph 7(7)* of *Schedule 2* applies shall, in addition to the details to be included on each invoice, credit note or other document required to be issued in accordance with *Chapter 2* of *Part 9*, include on that invoice, credit note or other document a reference to the number of the authorisation issued to the authorised person in accordance with *subsection (3)*.
+
+(6) In relation to each consignment of goods to be imported by an authorised person at the rate specified in *section 46(1)(b)* by virtue of *paragraph 7(7)* of *Schedule 2* the following conditions shall be complied with:
+
+(*a*) a copy of the authorisation referred to in *subsection (3)* shall be produced with the relevant customs entry; and
+
+(*b*) the relevant customs entry shall incorporate—
+
+(i) a declaration by the authorised person, or by his or her representative duly authorised in writing for that purpose, that he or she is an authorised person in accordance with this section for the purposes of *paragraph 7(7)* of *Schedule 2*, and
+
+(ii) a claim for importation at the rate specified in *section 46(1)(b)*.
+
+(7) For the purposes of *section 93(1)(c)(ii)*, the tax charged at the rate specified in *section 46(1)(b)* by virtue of *paragraph 7(7)* of *Schedule 2* shall be deemed to be tax which is deductible under *Chapter 1* of *Part 8*.
+
+(8) Where an authorised person is in receipt of a service in respect of which, had *paragraph 7(7)* of *Schedule 2* not applied, tax would have been chargeable at a rate other than the rate specified in *section 46(1)(b)* and all or part of such tax would not have been deductible by the authorised person under *Chapter 1* of *Part 8*, then that authorised person shall, in relation to such service, be liable to pay tax as if he or she had supplied the service for consideration in the course or furtherance of his or her business to a person who is not an authorised person.
+
+(9) For the purposes of this section, and subject to the direction and control of the Revenue Commissioners, any power, function or duty conferred or imposed on them may be exercised or performed on their behalf by an officer of the Revenue Commissioners.
+
+F147[(10) Any person aggrieved by a decision of the Revenue Commissioners in relation to—
+
+(*a*) the refusal under *subsection (3)(a)* to issue an authorisation, or
+
+(*b*) the cancellation of an authorisation under *subsection (3A)*,
+
+may appeal the decision to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of that decision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F138: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 10, commenced on enactment.
+>
+> F139, F140: Deleted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 64(a)(i), (c)(iv), S.I. No. 723 of 2020.
+>
+> F141: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 52, commenced on enactment.
+>
+> F142, F143, F144, F145, F146, F147: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 64(a)(ii), (b), (c)(ii), (iii), (d), (e), S.I. No. 723 of 2020.
+>
+> F148: Substituted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 64(c)(i), S.I. No. 723 of 2020.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: in subs. (1), definition of qualifying person amended, subs. (2)(aa) inserted, subs. (3)(a) substituted and (aa), (ab), (ca) inserted, subs. (3)(d) deleted, and subss. (3A), (3B) and (10) inserted by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 57, not commenced; repealed (17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 4(a), S.I. No. 634 of 2020.
+
+### 57. Remission of tax on goods exported, etc. — [VATA s. 13(1)(a) and (2)(a)]
+
+**57**.—(1) Regulations may make provision for remitting or repaying, subject to such conditions (if any) as may be specified in the regulations or as the Revenue Commissioners may impose, the tax chargeable in respect of the supply of goods, or of such goods as may be specified in the regulations, in cases where the Commissioners are satisfied that the goods have been or are to be exported.
+
+(2) Regulations may make provision for remitting or repaying, subject to such conditions (if any) as may be specified in the regulations or as the Revenue Commissioners may impose, the tax chargeable in respect of the supply of services directly linked to the export of goods or the transit of goods from a place outside the State to another place outside the State.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 15) (Amendment) Regulations 2020* (S.I. No. 736 of 2020), in effect as per reg. 2.
+
+### 58. Retail export scheme. — [VATA s. 13(1A) to (1D), (3B) and (3C)]
+
+**58**.—(1) In this section—
+
+F149[“traveller” means a person whose domicile or habitual residence is not situated within the Community;]
+
+“traveller’s qualifying goods” means goods (other than goods transported by the traveller for the equipping, fuelling and provisioning of pleasure boats, private aircraft or other means of transport for private use) which are supplied within the State to a traveller and which are exported by or on behalf of that traveller by the last day of the 3rd month following the month in which the supply takes place;
+
+“VAT refunding agent” means a person who supplies services which consist of the procurement of a zero-rating (within the meaning of *subsection (2)*) or repayment of tax in relation to supplies of a traveller’s qualifying goods.
+
+(2) The Revenue Commissioners shall, subject to and in accordance with regulations (if any), allow the application of *section 46(1)(b)* (in this section referred to as “zero-rating”) to—
+
+F150[(a) the supply of a traveller’s qualifying goods, where the total value of that supply of goods, including tax, is more than €75, and]
+
+(*b*) the supply of services by a VAT refunding agent consisting of the service of repaying the tax claimed by a traveller in relation to the supply of a traveller’s qualifying goods or the procurement of the zero-rating of the supply of a traveller’s qualifying goods,
+
+where they are satisfied that the supplier of the goods or services, as the case may be—
+
+(i) has at the time of the supply of the goods taken all reasonable steps to confirm that the purchaser is a traveller as defined in this section,
+
+(ii) has proof that the goods were exported by or on behalf of the traveller by the last day of the 3rd month following the month in which the supply takes place,
+
+(iii) has proof that, where an amount of tax has been charged to the traveller in respect of a supply of goods covered by *paragraph (ii)*, that the amount to be repaid to the traveller has been repaid to that traveller no later than the 25th working day following receipt by the supplier of the traveller’s claim to repayment,
+
+F151[(iiia) has, in respect of a traveller whose domicile or habitual residence is in the United Kingdom, proof that—
+
+(I) the goods have been imported into the United Kingdom by or on behalf of the traveller, and
+
+(II) value-added tax and duties of customs and excise, chargeable by virtue of the law of the United Kingdom, have been paid on the importation of those goods,]
+
+(iv) notifies the traveller in writing of any amount (including the mark-up) charged by the supplier for procuring the repayment of the amount claimed or arranging for the zero-rating of the supply and where an amount so notified is expressed in terms of a percentage or a fraction, such percentage or fraction shall relate to the tax remitted or repayable under this subsection,
+
+(v) uses, as the exchange rate in respect of moneys being repaid to a traveller in a currency other than the currency of the State—
+
+(I) unless *subparagraph (II)* applies, the latest selling rate recorded by the Central Bank of Ireland for the currency in question at the time of the repayment,
+
+(II) if there is an agreement with the Revenue Commissioners for a method to be used in determining the exchange rate, the exchange rate obtained using that method,
+
+and
+
+(vi) has made known to the traveller such details concerning the transaction as may be specified in regulations.
+
+(3) Regulations may make provision for the authorisation, subject to certain conditions, of accountable persons or a class of accountable persons for the purposes of zero-rating of the supply of a traveller’s qualifying goods or to operate as a VAT refunding agent in the handling of a repayment of tax on the supply of a traveller’s qualifying goods and such regulations may provide for the cancellation of such authorisation and matters consequential to such cancellation.
+
+(4) A VAT refunding agent acting as such may, in accordance with regulations, treat the tax charged to the traveller on the supply of that traveller’s qualifying goods as tax that is deductible by the agent in accordance with *section 59(2)* provided that that agent fulfils the conditions set out in *subsection (2)* in respect of that supply.
+
+(5) Where, in relation to a supply of goods, any of the conditions of *paragraphs (i)* to *(vi)* of *subsection (2)* are not complied with or are not complied with within the time limits specified in those paragraphs, where applicable, then—
+
+(*a*) that supply is not a supply of traveller’s qualifying goods, and
+
+(*b*) zero-rating is not applicable to the supply of services by a VAT refunding agent (if any) in respect of those goods.
+
+(6) For the purposes of this section, and subject to the direction and control of the Revenue Commissioners, any power, function or duty conferred or imposed on them may be exercised or performed on their behalf by an officer of the Revenue Commissioners.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149, F150: Substituted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 65(a), (b)(i), S.I. No. 723 of 2020.
+>
+> F151: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 65(b)(ii), S.I. No. 723 of 2020.
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 15) (Amendment) Regulations 2020* (S.I. No. 736 of 2020), in effect as per reg. 2.
+>
+> E40: Conditions regarding the application of the rate of zero per cent to a supply of goods or services specified in subs. (2) imposed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 15, in effect as per reg. 1(2).
+>
+> E41: Previous affecting provision: subs. (2)(a) substituted and para. (iiia) inserted by by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 58(a), (b), not commenced; repealed 17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 4(a), S.I. No. 634 of 2020.
+
+## PART 8 Deductions — PART 8 — Deductions
+
+### Chapter 1 General provisions — Chapter 1 — General provisions
+
+#### 59. Deduction for tax borne or paid. — [VATA s. 12(1), (1A) and (2)]
+
+**59**.—(1) In this subsection and *subsection (2)*—
+
+“qualifying activities” means—
+
+(*a*) transport outside the State of passengers and their accompanying baggage,
+
+(*b*) supplies of goods which, by virtue of *section 30*, are deemed to have taken place in the territory of another Member State but only if the supplier of those goods is registered for value-added tax in that other Member State,
+
+(*c*) F152[...]
+
+(*d*) services specified in F153[*paragraph 6(1)*, *7(1)*] or *8* of *Schedule 1* supplied—
+
+(i) outside the Community, or
+
+F154[(ii) directly in connection with the export of goods to a place outside the Community, and]
+
+(*e*) F155[...]
+
+(*f*) supplies of goods or services outside the State which would be taxable supplies if made in the State;
+
+F156[“qualifying vehicle” means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
+
+(*a*) in the period on or after 1 January 2009 and up to 31 December 2020, and has, for the purposes of that registration, a level of CO<sub>2</sub> emissions of less than 156g/km, or
+
+(*b*) on or after 1 January 2021, and has, for the purposes of that registration, a level of CO<sub>2</sub> emissions of less than 140g/km.]
+
+(2) Subject to *subsection (3)*, in computing the amount of tax payable by an accountable person in respect of a taxable period, that person may, in so far as the goods and services are used by him or her for the purposes of his or her taxable supplies or of any of the qualifying activities, deduct—
+
+(*a*) the tax charged to him or her during the period by other accountable persons by means of invoices, prepared in the manner prescribed by regulations, in respect of supplies of goods or services to him or her,
+
+(*b*) in respect of goods imported by him or her in the period, the tax paid by him or her or deferred as established from the relevant customs documents kept by him or her in accordance with *section 84(3)*,
+
+(*c*) subject to such conditions (if any) as may be specified in regulations, the tax chargeable during the period, being tax for which he or she is liable in respect of intra-Community acquisitions of goods,
+
+(*d*) subject to *section 61* and regulations (if any), 20 per cent of the tax charged to the accountable person F157[by means of invoices or other documents prepared in the manner prescribed by regulations or by relevant customs documents,] in respect of the purchase, hiring, intra-Community acquisition or importation of a qualifying vehicle, where that vehicle is used primarily for business purposes, being at least 60 per cent of the use to which that vehicle is put, and where the accountable person subsequently disposes of that vehicle the tax deducted by that person in accordance with this subsection shall be treated as if it were not deductible by that person for the purposes of *paragraph 12(c*) of *Schedule 1*,
+
+(*e*) the tax chargeable during the period, being tax for which the accountable person is liable by virtue of *section 10(1)* in respect of the supply to such person of gas through the natural gas distribution network, F158[or of heat or cooling energy through heating or cooling networks,] or of electricity, but only where the accountable person would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such person by another accountable person,
+
+(*f*) the tax chargeable during the period, being tax for which the accountable person is liable by virtue of *section 10(2)* in respect of goods which are installed or assembled but only where the accountable person would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such person by another accountable person,
+
+(*g*) the tax chargeable during the period, being tax for which he or she is liable by virtue of F159[*section 12* or *17(1)*] in respect of services received by him or her,
+
+(*h*) the tax chargeable during the period, being tax for which the recipient (within the meaning of *section 16(2)*) is liable by virtue of *section 16(2)* in respect of greenhouse gas emission allowances (within the meaning of *section 16(2)*) received by that recipient, but only where the recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such recipient by an accountable person,
+
+(*i*) the tax chargeable during the period, being tax for which the principal is liable by virtue of *section 16(3)* in respect of construction operations services received by that principal but only where that principal would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such principal by another accountable person,
+
+F160[(*ia*) the tax chargeable during the period, being tax for which the recipient (within the meaning of *section 16(4)(b)*) is liable by virtue of *section 16(4)(b)* in respect of scrap metal (within the meaning of *section 16(4)(a)*) received by that recipient, but only where the recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such recipient by an accountable person,]
+
+F161[(*ib*) the tax chargeable during the period, being tax for which the recipient (within the meaning of *section 16(5)(b)*) is liable by virtue of *section 16(5)(b)* in respect of supplies of construction work received by that recipient, but only where that recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such recipient by an accountable person,]
+
+F162[(*ic*) the tax chargeable during the period, being tax for which the recipient (within the meaning of *section 16(6)(b)*) is liable by virtue of *section 16(6) (b)* in respect of supplies of gas or of electricity received by that recipient, but only where that recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such a recipient by an accountable person,
+
+(*id*) the tax chargeable during the period, being tax for which the recipient (within the meaning of *section 16(7)(b)*) is liable by virtue of *section 16(7)(b)* in respect of a gas or an electricity certificate received by that recipient, but only where that recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such a recipient by an accountable person,]
+
+F153[(*j*) the tax chargeable during the period, being tax for which the accountable person is liable F163[by virtue of *section 94(6)(a)* or *(7)*] or *95(8)(c)* to *(e)*, in respect of a supply to that person of immovable goods,]
+
+(*k*) the tax chargeable during the period in respect of goods (other than supplies of goods referred to in *section 30*) treated as supplied by him or her in accordance with *section 19(1)(f)*,
+
+(*l*) subject to and in accordance with regulations, in respect of goods supplied under *section 19(1)(h)* an amount equal to any residual tax included in the consideration for the supply,
+
+(*m*) F164[...]
+
+(*n*) the tax chargeable during the period in respect of services treated as supplied by him or her for consideration in the course or furtherance of his or her business in accordance with *section 27(1)(c)*,
+
+(*o*) a flat-rate addition, which shall be deemed to be tax, charged to him or her during the period by means of invoices prepared in the manner prescribed by regulations and issued to him or her in accordance with *section 86(1)*,
+
+(*p*) the tax chargeable during the period, being tax for which he or she is liable by virtue of *section 90(5)(a)* in respect of investment gold (within the meaning of *section 90*) received by him or her, and
+
+(*q*) subject to such conditions (if any) as may be specified in regulations, in respect of goods referred to in *section 92*, the tax due in the period in accordance with that section.
+
+F165[(2A) F166[...]]
+
+(3) *Subsection (2)* shall not apply to—
+
+(*a*) an accountable person referred to in F167[*section 9(4)* or *12(3)*,]
+
+(*b*) an accountable person referred to in *section 9(6)* or *12(5)* unless the tax relates to racehorse training services supplied F168[by him or her, or]
+
+F169[(*c*) an accountable person referred to in *section 22(3)* or *28(4)*, or a taxable person who is deemed to have supplied a letting in accordance with *section 28(5)*, in respect of supplies to which those sections apply.]
+
+(4)(*a*) A person who, by election F170[...] is deemed to become an accountable person, shall, in accordance with regulations, be entitled, in computing the amount of tax payable by him or her in respect of the first taxable period for which he or she is so deemed to be an accountable person, to treat as tax deductible under *subsection (2)* such part of the value of the stock-in-trade held by him or her immediately before the commencement of that taxable period as could reasonably be regarded as the amount which he or she would be entitled to claim under *subsection (2)* if that person had been an accountable person at the time of the delivery to him or her of such stock-in-trade.
+
+(*b*) No claim shall lie under this subsection for a deduction for the tax relating to any stock-in-trade if, and to the extent that, a deduction under *subsection (2)* could be claimed apart from this subsection.
+
+(5) Where, in relation to any taxable period, the total amount deductible under this Chapter exceeds the amount which, but for this Chapter, would be payable in respect of such period, the excess shall be refunded to the accountable person in accordance with *section 99(1)*, but subject to *section 100*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F152: Deleted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(c)(i), commenced as per par. 4(b).
+>
+> F153: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 70, commenced on enactment.
+>
+> F154: Substituted (15.12.2022)) by *Finance Act 2022* (44/2022), s. 54(a)(i), commenced on enactment.
+>
+> F155: Deleted (15.12.2022) by *Finance Act 2022* (44/2022), s. 54(a)(ii), commenced on enactment.
+>
+> F156: Substituted (22.12.2019) by *Finance Act 2019* (45/2019), s. 53(a)(i), commenced on enactment.
+>
+> F157: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(b), commenced as per par. 10(c).
+>
+> F158: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(c)(ii), commenced as per par. 4(b).
+>
+> F159: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2).
+>
+> F160: Inserted (1.05.2011) by *Finance Act 2011* (6/2011), s. 59(1)(b), commenced as per s. 59(2).
+>
+> F161: Inserted (1.05.2012) by *Finance Act 2012* (9/2012), s. 86(1)(d), commenced as per s. 86(2).
+>
+> F162: Inserted (1.01.2016) by *Finance Act 2015* (52/2015), s. 52(1)(b), commenced as per s. 52(2).
+>
+> F163: Substituted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 7, S.I. No. 355 of 2026.
+>
+> F164: Deleted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 59(a), commenced on enactment.
+>
+> F165: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 59(b), commenced on enactment.
+>
+> F166: Deleted (22.12.2019) by *Finance Act 2019* (45/2019), s. 53(a)(ii), commenced on enactment.
+>
+> F167, F168: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 80(a), (b), commenced on enactment.
+>
+> F169: Inserted (12.11.2024) by *Finance Act 2024* (43/2024), s. 80(c), commenced on enactment.
+>
+> F170: Deleted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 6.
+>
+> **Editorial Notes:**
+>
+> E42: Method of calculating amount of deduction under subs. (2) in respect of acquisition of dual-use inputs prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 17, in effect as per reg. 1(2).
+>
+> E43: Method of calculating amount of deduction under subs. (2) in respect of stock-in-trade held at commencement of taxability, and records which the accountable person is required to retain prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 16, in effect as per reg. 1(2); as amended (22.11.2012) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(a).
+
+#### 60. General limits on deductibility. — [VATA s. 12(3) and s. 12(3A) (in part)]
+
+**60**.—(1) In this subsection and *subsection (2)*—
+
+“delegate” means a taxable person or a taxable person’s employee or agent who attends a qualifying conference in the course or furtherance of the taxable person’s business;
+
+“motor vehicles” means motor vehicles designed and constructed for the conveyance of persons by road and sports motor vehicles, estate cars, station wagons, motor cycles, motor scooters, mopeds and auto cycles, whether or not so designed and constructed, excluding vehicles designed and constructed for the carriage of more than 16 persons (inclusive of the driver), invalid carriages and other vehicles of a type designed for use by invalids or infirm persons;
+
+“qualifying accommodation” means the supply to a delegate of a service consisting of the letting of immovable goods F171[...]covered by *paragraph 11* of *Schedule 3*, for a maximum period starting from the night prior to the date on which the qualifying conference commences and ending on the date on which the conference concludes;
+
+“qualifying conference” means a conference or meeting in the course or furtherance of business organised to cater for 50 or more delegates, which takes place at a venue designed and constructed for the purposes of hosting 50 or more delegates and in respect of which the person responsible for organising the conference issues in writing the details of the conference to each taxable person who attends or sends a delegate, and such details shall include—
+
+(*a*) the location and dates of the conference,
+
+(*b*) the nature of the business being conducted,
+
+(*c*) the number of delegates for whom the conference is organised, and
+
+(*d*) the name, business address and value-added tax registration number of the person responsible for organising the conference.
+
+(2)(*a*) Notwithstanding anything in this Chapter, a deduction of tax under this Chapter shall not be made if, and to the extent that, the tax relates to—
+
+F172[(i) expenditure incurred by the accountable person on food or drink, or accommodation (other than qualifying accommodation in connection with attendance at a qualifying conference), or other personal services, for the accountable person, the accountable person’s agents or employees, except to the extent (if any) that such expenditure is incurred for the purposes of a supply of services, being the provision of food or drink, or accommodation, or other personal services, in respect of which that accountable person is accountable for tax,]
+
+(ii) expenditure incurred by the accountable person on food or drink, or accommodation or other entertainment services, where such expenditure forms all or part of the cost of providing an advertising service in respect of which tax is due and payable by the accountable person,
+
+F173[(iia) expenditure incurred by the accountable person on the acquisition or development, on or after 1 January 2011, of immovable goods forming part of the assets of a business where such goods are used or to be used for any purpose other than those of the accountable person’s business,]
+
+(iii) entertainment expenses incurred by the accountable person, his or her agents or his or her employees,
+
+(iv) subject to *section 59(2)(d)*, the purchase, hiring, intra-Community acquisition or importation of motor vehicles otherwise than as stock-in-trade or for the purpose of the supply thereof by a person supplying financial services of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* in respect of those motor vehicles as part of an agreement of the kind referred to in *section 19(1)(c)* or for the purposes of a business which consists in whole or part of the hiring of motor vehicles or for use, in a driving school business, for giving driving instruction,
+
+(v) the purchase, intra-Community acquisition or importation of petrol otherwise than as stock-in-trade, or
+
+(vi) the procurement of a supply of contract work where such supply consists of the handing over of goods to which this paragraph applies.
+
+(*b*)(i) In *subparagraph (i)* of *paragraph (a)*, reference to the provision of accommodation includes expenditure by the accountable person on a building, including the fitting out of such building, to provide such accommodation.
+
+(ii) In *subparagraph (iii)* of *paragraph (a)*, entertainment expenses includes expenditure on a building or facility, including the fitting out of such building or facility, to provide such entertainment.
+
+(3) Notwithstanding anything in this Chapter, where *section 87(3)* or *(8)* or *89(3)* has been applied to a supply of goods to an accountable person, that accountable person shall not deduct, in accordance with *section 59(2)*, any tax in relation to the supply to him or her.
+
+F174[(4) Notwithstanding anything in this Chapter, a person shall not deduct any tax on expenditure incurred for the purpose of supplies made in accordance with *Chapter 5* of *Part 10*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Deleted (1.01.2026) by *Finance Act 2025* (18/2025), s. 72(a), in effect as per s. 72.
+>
+> F172: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 81, commenced on enactment.
+>
+> F173: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(e), in effect as per reg. 1(2).
+>
+> F174: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 7.
+
+#### 61. Apportionment for dual-use inputs. — [VATA s. 12(4)]
+
+**61**.—(1) In this section—
+
+“deductible supplies or activities” means the supply of taxable goods or taxable services, or the carrying out of qualifying activities within the meaning of *section 59(1)*;
+
+“dual-use inputs” means movable goods or services (other than goods or services on the purchase or acquisition of which, by virtue of *section 60(2)*, a deduction of tax shall not be made, or services related to the development of immovable goods that are subject to *Chapter 2*) which are not used solely for the purposes of either deductible supplies or activities or non-deductible supplies or activities;
+
+F175[“non-deductible supplies or activities” means the supply of goods or services or the carrying out of activities other than deductible supplies or activities, and, in the case of immovable goods acquired or developed by an accountable person on or after 1 January 2011, includes any activity consisting of the use of those goods, or part of those goods, for any purpose other than the accountable person’s business;]
+
+“total supplies and activities” means deductible supplies or activities and non-deductible supplies or activities.
+
+(2) Where an accountable person engages in both deductible supplies or activities and non-deductible supplies or activities, then, in relation to the person’s acquisition of dual-use inputs for the purpose of that person’s business for a period, the person shall be entitled to deduct in accordance with *section 59(2)* only such proportion of tax, borne or payable on that acquisition, which is calculated in accordance with this section and regulations, as being attributable to his or her deductible supplies or activities and such proportion of tax is, for the purposes of this section, referred to as the “proportion of tax deductible”.
+
+(3) For the purposes of this section, the reference in *subsection (2)* to “tax, borne or payable” shall, in the case of an acquisition of a qualifying vehicle (within the meaning of *section 59(1)*) be deemed to be a reference to “20 per cent of the tax, borne or payable”.
+
+F176[(4) Subject to *subsection (5)*, the proportion of tax deductible by an accountable person in a taxable period shall be calculated on the basis of the ratio which the amount of the person’s tax-exclusive turnover from deductible supplies or activities in the accounting year in which that taxable period ends bears to the person’s tax-exclusive turnover from total supplies and activities in that accounting year.
+
+(5) Where the proportion of tax deductible calculated in accordance with *subsection (4)* does not—
+
+(a) correctly reflect the extent to which the dual-use inputs are used for the purposes of the person’s deductible supplies or activities, or
+
+(b) have due regard to the range of the person’s total supplies and activities,
+
+the accountable person shall use any other basis which results in a proportion of tax deductible which—
+
+(i) correctly reflects the extent to which the dual-use inputs are used for the purposes of the person’s deductible supplies or activities, and
+
+(ii) has due regard to the range of the person’s total supplies and activities.]
+
+(6) Where it is necessary to do so to ensure that the proportion of tax deductible by an accountable person is in accordance with F176[this section,] the accountable person shall—
+
+(*a*) calculate a separate proportion of tax deductible for any part of that person’s business, or
+
+(*b*) exclude, from the calculation of the proportion of tax deductible, amounts of turnover from incidental transactions by that person of the kind specified in *paragraph 6* of *Schedule 1* or amounts of turnover from incidental transactions by that person in immovable goods.
+
+(7) The proportion of tax deductible as calculated by an accountable person for a taxable period shall be adjusted in accordance with regulations if, for the accounting year in which the taxable period ends, that proportion does not—
+
+(*a*) correctly reflect the extent to which the dual-use inputs are used for the purposes of the person’s deductible supplies or activities, or
+
+(*b*) have due regard to the range of the person’s total supplies and activities.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(f), in effect as per reg. 1(2).
+>
+> F176: Substituted (25.12.2016) by *Finance Act 2016* (18/2016), s. 46, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E44: Method of calculating amount of deduction under section in respect of acquisition of dual-use inputs prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 17, in effect as per reg. 1(2).
+
+#### 62. Reduction of tax deductible in relation to qualifying vehicles. — [VATA s. 12(4A)]
+
+**62**.—(1)(*a*) This subsection applies where an accountable person deducts tax in relation to the purchase, intra-Community acquisition or importation of a qualifying vehicle (within the meaning of *section 59(1)*) in accordance with *section 59(2)(d)*, and disposes of that vehicle within 2 years of that purchase, acquisition or importation.
+
+(*b*) The accountable person shall be obliged to reduce the amount of the tax deductible by that person for the taxable period in which the qualifying vehicle is disposed of by an amount calculated in accordance with the formula—
+
+<u>TD × (4 — N)</u>
+
+4
+
+where—
+
+TD is the amount of tax deducted by that person on the purchase, acquisition or importation of that vehicle, and
+
+N is a number that is equal to the number of days from the date of purchase, acquisition or importation of that vehicle by that person to the date of disposal by that person, divided by 182 and rounded down to the nearest whole number,
+
+but if that N is greater than 4 then N shall be 4.
+
+(2)(*a*) This subsection applies where an accountable person deducts tax in relation to the purchase, intra-Community acquisition or importation of a qualifying vehicle (within the meaning of *section 59(1)*) in accordance with *section 59(2)(d)* and that vehicle is subsequently used for less than 60 per cent business purposes in a taxable period.
+
+(*b*) The accountable person is obliged to reduce the amount of tax deductible by that person for that taxable period by an amount calculated in accordance with the formula—
+
+<u>TD × (4 — N)</u>
+
+4
+
+where—
+
+TD is the amount of tax deducted by that person on the purchase, acquisition or importation of the qualifying vehicle, and
+
+N is a number that is equal to the number of days from the date of purchase, acquisition or importation of that vehicle by that person to the first day of the taxable period in which that vehicle is used for less than 60 per cent business purposes, divided by 182 and rounded down to the nearest whole number,
+
+but if that N is greater than 4 then N shall be 4.
+
+#### 62A. Adjustment of tax deductible in relation to unpaid consideration
+
+F177[**62A**.—(1) Subject to *subsection (4)*, where—
+
+(*a*) an accountable person has, during a taxable period (referred to in this section as the “initial period”), deducted tax in accordance with *subsection (2)* F178[...] of *section 59*, and
+
+(*b*) the consideration, or part thereof, due to the supplier of the goods or services has not been paid by that accountable person on or before the last day of the third taxable period following the initial period,
+
+that accountable person shall reduce the amount of tax deductible by him or her in accordance with *subsection (2)*.
+
+(2) Where *subsection (1)* applies, the accountable person shall reduce the amount of tax deductible by him or her, in the third taxable period following the initial period, by an amount calculated in accordance with the following formula, subject to any apportionment arising in accordance with *section 61*:
+
+(A-B) x C
+
+where—
+
+A is the total consideration (exclusive of value-added tax),
+
+B is the consideration or part thereof (exclusive of value-added tax) that has been paid, and
+
+C is the percentage rate of tax chargeable in relation to the supply of the goods or services.
+
+(3) Where an accountable person has reduced the amount of tax deductible in a taxable period in accordance with *subsection (2)* and subsequently that accountable person pays the consideration, or part thereof, due to the supplier of the goods or services, that accountable person shall, in the taxable period in which that consideration, or part thereof, was paid, increase the amount of the tax deductible by him or her, by an amount calculated in accordance with the following formula, subject to any apportionment arising in accordance with *section 61*:
+
+D x C
+
+where—
+
+D is the consideration or part thereof (exclusive of value-added tax) paid during that period, and
+
+C is the percentage rate of tax chargeable in relation to the supply of the goods or services.
+
+(4) Where, on or before the due date for submission of the return required under *section 76* or *77* relating to the third taxable period after the initial period, an accountable person satisfies the Revenue Commissioners that there are reasonable grounds for not having paid the full consideration, or part thereof, to the supplier on or before the date referred to in *subsection (1)(b)*, this section shall not apply.
+
+(5) The Revenue Commissioners may make regulations in relation to the operation of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Inserted (1.01.2014) by *Finance (No. 2) Act 2013* (41/2013), s. 60(1), commenced as per s. 60(2).
+>
+> F178: Deleted (22.12.2019) by *Finance Act 2019* (45/2019), s. 53(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E45: The section heading is taken from the amending section (*Finance (No. 2) Act 2013* (41/2013), s. 60) in the absence of one included in the amendment.
+
+### Chapter 2 Capital goods scheme — Chapter 2 — Capital goods scheme
+
+#### 63. Interpretation and application. — [VATA s. 12E(1), (2) and (3)(b)]
+
+**63**.—(1) In this Chapter—
+
+“adjustment period”, in relation to a capital good, means the period encompassing the number of intervals as provided for in *section 64(1)(a)* during which adjustments of deductions are required to be made in respect of a capital good;
+
+“base tax amount”, in relation to a capital good, means the amount calculated by dividing the total tax incurred in relation to that capital good by the number of intervals in the adjustment period applicable to that capital good;
+
+“capital goods owner” means—
+
+(*a*) unless *paragraph (b)* applies, a taxable person who incurs expenditure on the acquisition or development of a capital good,
+
+F179[(*b*) a taxable person, being a flat-rate farmer who incurs expenditure to develop or acquire a capital good, not being expenditure on—
+
+(i) a building or structure designed and used solely for the purposes of a farming business, or
+
+(ii) fencing, drainage or reclamation of land,
+
+which has actually been put to use in such a business carried on by him or her;]
+
+“deductible supplies or activities” has the meaning assigned to it by *section 61*;
+
+“initial interval”—
+
+(*a*) in relation to a capital good, unless *paragraph (b)* applies, means a period of 12 months beginning on the date when that capital good is completed,
+
+(*b*) in relation to a capital good that is supplied following completion, means, for the recipient of that supply, a period of 12 months beginning on the date of that supply;
+
+“initial interval proportion of deductible use”, in relation to a capital good, means the proportion that correctly reflects the extent to which a capital good is used during the initial interval for the purposes of a capital goods owner’s deductible supplies or activities;
+
+“interval”, in relation to a capital good, means the initial, second or subsequent interval in an adjustment period, whichever is appropriate;
+
+“interval deductible amount”, in relation to a capital good in respect of the second and each subsequent interval, means the amount calculated by multiplying the base tax amount in relation to that capital good by the proportion of deductible use for that capital good applicable to the relevant interval;
+
+“non-deductible amount”, in relation to a capital good, means the amount which is the difference between the total tax incurred in relation to that capital good and the total reviewed deductible amount in relation to that capital good;
+
+“proportion of deductible use”, in relation to a capital good for an interval other than the initial interval, means the proportion that correctly reflects the extent to which a capital good is used during that interval for the purposes of a capital goods owner’s deductible supplies or activities;
+
+“reference deduction amount”, in relation to a capital good, means the amount calculated by dividing the total reviewed deductible amount in relation to that capital good by the number of intervals in the adjustment period applicable to that capital good;
+
+“refurbishment” means development on a previously completed building, structure or engineering work;
+
+“second interval”, in relation to a capital good, means the period beginning on the day following the end of the initial interval in the adjustment period applicable to that capital good and ending on the final day of the accounting year during which the second interval begins;
+
+“subsequent interval”, in relation to a capital good, means each accounting year of a capital goods owner in the adjustment period applicable to that capital good, which follows the second interval;
+
+“total reviewed deductible amount”, in relation to a capital good, means the amount calculated by multiplying the total tax incurred in relation to that capital good by the initial interval proportion of deductible use in relation to that capital good;
+
+“total tax incurred”, in relation to a capital good, means—
+
+(*a*) the amount of tax charged to a capital goods owner in respect of that owner’s acquisition or development of a capital good,
+
+(*b*) in the case of a transferee where a transfer of ownership of a capital good to which *section 20(2)(c)* applies—
+
+(i) where such a transfer would have been a supply but for the application of *section 20(2)(c)* and that supply would have been exempt in accordance with *section 94(2)* or *95(3)* or *(7)(b)*, the total tax incurred that is required to be included in the copy of the capital good record that is required to be furnished by the transferor in accordance with *section 64(10)(c)*, and
+
+(ii) where such a transfer is not one to which *subparagraph (i)* applies, the amount of tax that would have been chargeable on that transfer but for the application of *section 20(2)(c)* and *section 56*,
+
+and
+
+(*c*) the amount of tax that would have been chargeable but for the application of *section 56* to a capital goods owner on the owner’s acquisition or development of a capital good.
+
+(2) This Chapter applies to capital goods—
+
+(*a*) on the supply or development of which tax was chargeable to a taxable person who carries on a business in the State, or
+
+(*b*) on the supply of which tax would have been chargeable to a taxable person who carries on a business in the State but for the application of *section 20(2)(c)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 11, commenced on enactment.
+
+#### 64. Capital goods scheme. — [VATA s. 12E (3)(a), (c) and (d) and (4) to (13)]
+
+**64**.—(1)(*a*) In relation to a capital good the number of intervals in the adjustment period during which adjustments of deductions are required under this Chapter to be made is—
+
+(i) in the case of refurbishment, 10 intervals,
+
+(ii) in the case of a capital good to which *subsection (5)(a)* or *(b)* applies, the number of full intervals remaining in the adjustment period applicable to that capital good plus one as required to be calculated in accordance with the formula set out in *subsection (6)(b)*, and
+
+(iii) in all other cases, 20 intervals.
+
+(*b*) Where a capital goods owner supplies or transfers by means of a transfer to which *section 20(2)(c)* applies a capital good during the adjustment period, then the adjustment period for that capital good for that owner shall end on the date of that supply or transfer.
+
+(2)(*a*) Where the initial interval proportion of deductible use in relation to a capital good differs from the proportion of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with *Chapter 1*, then that owner shall, at the end of the initial interval, calculate an amount in accordance with the formula—
+
+A — B
+
+where—
+
+A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with *Chapter 1*, and
+
+B is the total reviewed deductible amount in relation to that capital good.
+
+(*b*) Where in accordance with *paragraph (a)*—
+
+(i) A is greater than B, then the amount calculated in accordance with the formula set out in *paragraph (a)* shall be payable by that owner as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period immediately following the end of the initial interval, or
+
+(ii) B is greater than A, then that owner is entitled to increase the amount of tax deductible for the purposes of *Chapter 1* by the amount calculated in accordance with *paragraph (a)* for the taxable period immediately following the end of the initial interval.
+
+(*c*) Where a capital good is not used during the initial interval, then the initial interval proportion of deductible use is the proportion of the total tax incurred that is deductible by the capital goods owner in accordance with *Chapter 1*.
+
+(3)(*a*) Subject to *subsection (4)(e)*, where in respect of an interval (other than the initial interval) the proportion of deductible use for that interval in relation to a capital good differs from the initial interval proportion of deductible use in relation to the capital good, then the capital goods owner shall, at the end of that interval, calculate an amount in accordance with the formula—
+
+C — D
+
+where—
+
+C is the reference deduction amount in relation to that capital good, and
+
+D is the interval deductible amount in relation to that capital good.
+
+(*b*) Where in accordance with *paragraph (a)* —
+
+(i) C is greater than D, then the amount calculated in accordance with the formula set out in *paragraph (a)* shall be payable by that owner as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period immediately following the end of that interval, or
+
+(ii) D is greater than C, then that owner is entitled to increase the amount of tax deductible for the purposes of *Chapter 1* by the amount calculated in accordance with the formula set out in *paragraph (a)* for the taxable period immediately following the end of that interval.
+
+(*c*) Where for the second or any subsequent interval, a capital good is not used during that interval, the proportion of deductible use in respect of that capital good for that interval shall be the proportion of deductible use for the previous interval.
+
+(4)(*a*) Where in respect of a capital good for an interval (other than the initial interval) the proportion of deductible use expressed as a percentage differs by more than 50 percentage points from the initial interval proportion of deductible use expressed as a percentage, then the capital goods owner shall at the end of that interval calculate an amount in accordance with the formula—
+
+(C — D) × N
+
+where—
+
+C is the reference deduction amount in relation to that capital good,
+
+D is the interval deductible amount in relation to that capital good, and
+
+N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
+
+(*b*) Where in accordance with *paragraph (a)*—
+
+(i) C is greater than D, then the amount calculated in accordance with the formula set out in *paragraph (a)* shall be payable by that owner as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period immediately following the end of that interval, or
+
+(ii) D is greater than C, then that owner is entitled to increase the amount of tax deductible for the purposes of *Chapter 1* by the amount calculated in accordance with the formula set out in *paragraph (a)* for the taxable period immediately following the end of that interval.
+
+(*c*) *Paragraph (a)* shall not apply to a capital good or part thereof that has been subject to *subsection (5)(a)* or *(b)* during the interval to which *paragraph (a)* applies.
+
+(*d*) Where a capital goods owner is obliged to carry out a calculation referred to in *paragraph (a)* in respect of a capital good, then, for the purposes of the remaining intervals in the adjustment period, the proportion of deductible use in relation to that capital good for the interval in respect of which the calculation is required to be made shall be treated as if it were the initial interval proportion of deductible use in relation to that capital good and, until a further calculation is required under *paragraph (a)*, all other definition amounts shall be calculated accordingly.
+
+(*e*) Where the other provisions of this subsection apply to an interval, then *subsection (3)* does not apply to the interval.
+
+(5)(*a*) Where a capital goods owner who is a landlord in respect of all or part of a capital good terminates his or her landlord’s option to tax in accordance with *section 97(1)* in respect of any letting of that capital good, then—
+
+(i) that owner is deemed, for the purposes of this Chapter, to have supplied and simultaneously acquired the capital good to which that letting relates,
+
+(ii) that supply shall be deemed to be a supply on which tax is not chargeable and no option to tax that supply in accordance with *section 94(5)* shall be permitted on that supply, and
+
+(iii) the capital good acquired shall be treated as a capital good for the purposes of this Chapter and the amount calculated in accordance with *subsection (6)(b)* on that supply shall be treated as the total tax incurred in relation to that capital good.
+
+(*b*) Where in respect of a letting of a capital good that is not subject to a landlord’s option to tax in accordance with *section 97(1)*, a landlord subsequently exercises a landlord’s option to tax in respect of a letting of that capital good, then—
+
+(i) that landlord is deemed, for the purposes of this Chapter, to have supplied and simultaneously acquired that capital good to which that letting relates,
+
+(ii) that supply shall be deemed to be a supply on which tax is chargeable, and
+
+(iii) the capital good acquired shall be treated as a capital good for the purposes of this Chapter, and—
+
+(I) the amount calculated in accordance with *subsection (6)(a)* shall be treated as the total tax incurred in relation to that capital good,
+
+(II) the total tax incurred shall be deemed to have been deducted in accordance with *Chapter 1* at the time of that supply.
+
+(6)(*a*)(i) Where—
+
+(I) a capital goods owner supplies a capital good or transfers a capital good, being a transfer to which *section 20(2)(c)* applies (other than a transfer to which *subsection (10)(c)* F180[applies),] during the adjustment period in relation to that capital good,
+
+(II) tax is chargeable on that supply, or tax would have been chargeable on that transfer but for the application of *section 20(2)(c)*, and
+
+(III) the non-deductible amount in relation to that capital good for that owner is greater than zero or, in the case of a supply or transfer during the initial interval, that owner was not entitled to deduct all of the total tax incurred in accordance with *Chapter 1*,
+
+then that owner is entitled to increase the amount of tax deductible by that owner for the purposes of *Chapter 1* for the taxable period in which the supply or transfer occurs by an amount (in this paragraph referred to as the “relevant amount”) calculated in accordance with *subparagraph (II)*.
+
+(ii) The relevant amount shall be calculated in accordance with the formula—
+
+<u>E × N</u>
+
+T
+
+where—
+
+E is the non-deductible amount in relation to that capital good or, in the case of a supply before the end of the initial interval, the amount of the total tax incurred in relation to that capital good which was not deductible by that owner in accordance with *Chapter 1*,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one,
+
+T is the total number of intervals in the adjustment period in relation to that capital good.
+
+(*b*)(i) Where—
+
+(I) a capital goods owner supplies a capital good during the adjustment period applicable to that capital good,
+
+(II) tax is not chargeable on that supply, and
+
+(III) either—
+
+(A) the total reviewed deductible amount in relation to that capital good is greater than zero, or
+
+(B) in the case of a supply before the end of the initial interval where the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with *Chapter 1* is greater than zero,
+
+then that owner shall calculate, in accordance with *subparagraph (ii)*, an amount (in this paragraph referred to as the “relevant amount”) which shall be payable as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period in which the supply occurs.
+
+(ii) The relevant amount shall be calculated in accordance with the formula—
+
+<u>B × N</u>
+
+T
+
+where—
+
+B is the total reviewed deductible amount in relation to that capital good or, in the case of a supply to which *subparagraph (i)(III)(B)* applies, the amount of the total tax incurred in relation to that capital good which that owner claimed as a deduction in accordance with *Chapter 1*,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one, and
+
+T is the total number of intervals in the adjustment period in relation to that capital good.
+
+(*c*) Where a capital goods owner supplies or transfers, being a transfer to which *section 20(2)(c)* applies, part of a capital good during the adjustment period, then, for the remainder of the adjustment period applicable to that capital good—
+
+(i) the total tax incurred,
+
+(ii) the total reviewed deductible amount, and
+
+(iii) all other definition amounts,
+
+in relation to the remainder of that capital good for that owner shall be adjusted accordingly on a fair and reasonable basis.
+
+(7)(*a*) Where a tenant who has an interest in immovable goods (other than a freehold equivalent interest) and who is the capital goods owner in respect of a refurbishment of those goods assigns or surrenders the interest during the adjustment period applicable to the refurbishment, then the tenant—
+
+(i) shall, in accordance with the formula set out in *subsection (6)(b)*, calculate an amount in respect of the refurbishment, and
+
+(ii) shall pay the amount as if it were tax due (as provided by *Chapter 3* of *Part 9*) for the taxable period in which the assignment or surrender occurs.
+
+(*b*) *Paragraph (a)* shall not apply where—
+
+(i) either—
+
+(I) the total reviewed deductible amount in relation to that capital good is equal to the total tax incurred in relation to that capital good, or
+
+(II) in relation to an assignment or surrender that occurs prior to the end of the initial interval in relation to that capital good, the tenant was entitled to deduct all of the total tax incurred in accordance with *Chapter 1* in relation to that capital good,
+
+(ii) the tenant enters into a written agreement with the person to whom the interest is assigned or surrendered, to the effect that that person shall be responsible for all obligations under this Chapter in relation to the capital good referred to in *paragraph (a)* from the date of the assignment or surrender of the interest referred to in *paragraph (a)*, as if—
+
+(I) the total tax incurred and the amount deducted by that tenant in relation to that capital good were the total tax incurred and the amount deducted by the person to whom the interest is assigned or surrendered, and
+
+(II) any adjustments required to be made under this Chapter by the tenant were made,
+
+and
+
+(iii) the tenant issues a copy of the capital good record in respect of the capital good referred to in *paragraph (a)* to the person to whom the interest is being assigned or surrendered.
+
+(*c*) Where *paragraph (b)* applies, the person to whom the interest is assigned or surrendered—
+
+(i) shall be responsible for the obligations referred to in *paragraph (b)(ii)*, and
+
+(ii) shall use the information in the copy of the capital good record issued by the tenant in accordance with *paragraph (b)(iii)* for the purposes of calculating any tax chargeable or deductible in accordance with this Chapter in respect of that capital good by that person from the date of the assignment or surrender of the interest referred to in *paragraph (a)*.
+
+(*d*) Where the capital good is one to which *subsection (11)* applies, *paragraphs (a)*, *(b)* and *(c)* shall not apply.
+
+(8)(*a*) *Paragraph (c)* applies where—
+
+(i) either—
+
+(I) a capital goods owner supplies a capital good during the adjustment period applicable to that capital good and tax is chargeable on that supply, or
+
+(II) a capital goods owner transfers (other than a transfer to which *subsection (10)(c)* applies) a capital good during the adjustment period applicable to that capital good and tax would have been chargeable on that transfer but for the application of *section 20(2)(c)*,
+
+(ii) at the time of that supply or transfer, that owner and the person to whom the capital good is supplied or transferred are connected within the meaning of *section 97*, and
+
+(iii) the amount of tax—
+
+(I) chargeable on the supply of that capital good,
+
+(II) that would have been chargeable on the transfer of that capital good but for the application of *section 20(2)(c)*, or
+
+(III) that would have been chargeable on the supply but for the application of *section 56*,
+
+is less than the amount (in this subsection referred to as the “adjustment amount”) calculated in accordance with *paragraph (b)*.
+
+(*b*) The adjustment amount shall be calculated in accordance with the formula—
+
+<u>H × N</u>
+
+T
+
+where—
+
+H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
+
+T is the total number of intervals in the adjustment period in relation to that capital good.
+
+(*c*) The capital goods owner shall calculate an amount, which shall be payable by that owner as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period in which the supply or transfer occurs, in accordance with the formula—
+
+I — J
+
+where—
+
+I is the adjustment amount, and
+
+J is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of *section 20(2)(c)*, or the amount of tax that would have been chargeable on the supply but for the application of *section 56*.
+
+F181[(8A) (*a*) *Paragraph (b)* applies where—
+
+(i) either—
+
+(I) a capital goods owner supplies a capital good which has not been completed and tax is chargeable on that supply, or
+
+(II) a capital goods owner transfers (other than a transfer to which *subsection (10)(c)* applies) a capital good which has not been completed and tax would have been chargeable on that transfer but for the application of *section 20(2)(c)*,
+
+(ii) at the time of that supply or transfer, that owner and the person to whom the capital good is supplied or transferred are connected within the meaning of *section 97*, and
+
+(iii) the amount of tax—
+
+(I) chargeable on the supply of that capital good,
+
+(II) that would have been chargeable on the transfer of that capital good but for the application of *section 20(2)(c)*, or
+
+(III) that would have been chargeable on the supply but for the application of *section 56*,
+
+is less than the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer.
+
+(*b*) The capital goods owner shall calculate an amount, which shall be payable by that owner as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period in which the supply or transfer occurs, in accordance with the formula—
+
+K — L
+
+where—
+
+K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and
+
+L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of *section 20(2)(c)*, or the amount of tax that would have been chargeable on the supply but for the application of *section 56*.]
+
+(9)(*a*) In this subsection—
+
+“connected supply” means a supply or transfer of a capital good which is a supply or transfer on which a seller would, but for the application of this subsection, be obliged to calculate an amount of tax due in accordance with *subsection (8)*;
+
+“purchaser” means the person to whom the supply or transfer referred to in *subsection (8)* is made;
+
+“seller” means the capital goods owner referred to in *subsection (8)* who makes the supply or transfer of the capital good referred to in that subsection.
+
+(*b*) *Subsection (8)* shall not apply where—
+
+F182[(i) a connected supply occurs and the seller enters into a written agreement with the purchaser to the effect that the purchaser shall be responsible for all obligations under this Chapter in relation to the capital good from the date of the supply or transfer of that capital good, as if—
+
+(I) the purchaser had acquired or developed the capital good at the time it was acquired or developed by the seller,
+
+(II) the total tax incurred and the amount deducted by that seller in relation to that capital good were the total tax incurred and the amount deducted by the purchaser, and
+
+(III) any adjustments made in accordance with this Chapter by the seller were made by the purchaser,]
+
+and
+
+(ii) the seller issues a copy of the capital good record in respect of the capital good referred to in *subparagraph (i)* to the purchaser.
+
+F182[(*c*) Where *paragraph (b)* applies—
+
+(i) the purchaser shall:
+
+(I) be responsible for the obligations referred to in *paragraph (b)(i)*, and
+
+(II) use the information in the copy of the capital good record issued by the seller in accordance with *paragraph (b)(ii)* for the purposes of calculating any tax chargeable or deductible in accordance with this Chapter in respect of that capital good by that purchaser from the date on which the supply or transfer referred to in *paragraph (b)(i)* occurs,
+
+and
+
+(ii) the connected supply shall be deemed not to be a supply for the purposes of this Act.]
+
+(10)(*a*) Where a capital goods owner acquires a capital good—
+
+(i) by way of a transfer, being a transfer to which *section 20(2)(c)* applies other than a transfer to which *paragraph (c)* applies, on which tax would have been chargeable but for the application of *section 20(2)(c)*, or
+
+(ii) on the supply or development of which tax was chargeable in accordance with *section 56*,
+
+then, for the purposes of this Chapter, that capital goods owner is deemed to have claimed a deduction in accordance with *Chapter 1* of the tax that would have been chargeable—
+
+(I) on the transfer of that capital good but for the application of *section 20(2)(c)*, less any amount accounted for by that owner in respect of that transfer in accordance with *paragraph (b)*, and
+
+(II) on the supply or development of that capital good but for the application of *section 56*.
+
+(*b*)(i) Where—
+
+(I) a transfer of ownership of a capital good (in this paragraph referred to as the “relevant capital good”) occurs, being a transfer to which *section 20(2)(c)* applies, but excluding a transfer to which *paragraph (c)* applies, and
+
+(II) the transferee would not have been entitled to deduct all of the tax that would have been chargeable on that transfer but for the application of *section 20(2)(c)*,
+
+then that transferee shall calculate an amount (in this paragraph referred to as the “relevant amount”) in accordance with *subparagraph (ii)*.
+
+(ii) The relevant amount shall be calculated in accordance with the formula—
+
+F — G
+
+where—
+
+F is the amount of tax that would have been chargeable but for the application of *section 20(2)(c)*, and
+
+G is the amount of that tax that would have been deductible in accordance with *Chapter 1* by that transferee if *section 20(2)(c)* had not applied to that transfer.
+
+(iii) The relevant amount shall be payable by that transferee as if it were tax due in accordance with *Chapter 3* of *Part 9* for the taxable period in which the transfer occurs.
+
+(iv) For the purposes of this Chapter, the relevant amount shall be deemed to be the amount of the total tax incurred in relation to the relevant capital good that the transferee was not entitled to deduct in accordance with *Chapter 1*.
+
+(*c*) Where a capital goods owner makes a transfer of a capital good to which this paragraph applies—
+
+(i) the transferor shall issue a copy of the capital good record to the transferee,
+
+(ii) the transferee becomes the successor to the capital goods owner who transferred the capital good and is responsible for all obligations of that owner under this Chapter from the date of the transfer of that good, as if—
+
+(I) the total tax incurred and the amount deducted by the transferor in relation to the good were the total tax incurred and the amount deducted by the transferee, and
+
+(II) any adjustments required to be made under this Chapter by the transferor had been made,
+
+and
+
+(iii) the transferee as successor shall use the information in the copy of the capital good record issued by the transferor in accordance with *subparagraph (i)* for the purpose of calculating the tax chargeable or deductible by the successor in accordance with this Chapter for the remainder of the adjustment period applicable to that good as from the date of its transfer.
+
+(*d*) *Paragraph (c)* applies to a transfer of a capital good if—
+
+(i) the transfer is of the kind referred to in *section 20(2)(c)*, and
+
+(ii) but for the application of *section 20(2)*, that transfer would be a supply—
+
+(I) that is exempt in accordance with *section 94(2)* or *95(3)* or *(7)(b)*, or
+
+(II) in respect of which tax is chargeable in accordance with *section 95(7)(a)*.
+
+(11) Where a capital good is destroyed during the adjustment period in relation to that capital good, then no further adjustment under this Chapter shall be made by the capital goods owner in respect of any remaining intervals in the adjustment period in relation to that capital good.
+
+(12) A capital goods owner shall create and maintain a record (in this Chapter referred to as a “capital good record”) in respect of each capital good and that record shall contain sufficient information to determine any adjustments in respect of that capital good required in accordance with this Chapter.
+
+F183[(12A) (*a*) In this subsection—
+
+“end date” means the date on which either the mortgagee ceases to have possession or the receiver’s appointment ends;
+
+“mortgagee” includes any person having the benefit of a charge or lien or any person deriving title to the mortgage under the original mortgagee;
+
+F184[“start date” means—
+
+(i) where *subparagraph (i)* or *(ii)* of *paragraph (b)* applies, the date on which either the mortgagee takes possession or the receiver is appointed, or
+
+(ii) where *subparagraph (i)* or *(ii)* of *paragraph (ba)* applies, 1 May 2014.]
+
+(*b*) Where a capital good is held as security or is subject to a charge or lien and F185[, on or after 27 March 2013,] either—
+
+(i) a mortgagee takes possession, or
+
+(ii) a receiver is appointed by or on the application of a mortgagee F186[...] or by any other means,
+
+then the capital goods owner (in this subsection referred to as the “defaulter”) shall furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
+
+F188[(*ba*) Where a capital good is held as security or is subject to a charge or lien and, before 27 March 2013, either—
+
+(i) a mortgagee took possession, or
+
+(ii) a receiver was appointed by or on the application of a mortgagee F187[...] or by any other means,
+
+then the defaulter shall, within 60 days after the date of the passing of the Finance (No. 2) Act 2013 furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.]
+
+(*c*) Where *paragraph (b)* F189[or *(ba)*] applies the mortgagee or the receiver shall be responsible for all obligations of that defaulter under this Chapter as if—
+
+(i) the capital good were acquired or developed by that mortgagee or that receiver at the time it was acquired or developed by the defaulter,
+
+(ii) the total tax incurred and the amount deducted by the defaulter in relation to the good were the total tax incurred and the amount deducted by that mortgagee or that receiver, and
+
+(iii) any adjustments required to be made under this Chapter by the defaulter had been made,
+
+and that mortgagee or that receiver shall use the information in the copy of the capital good record issued by the defaulter, in accordance with *paragraph (b)* F189[or *(ba)*, as appropriate], for the purposes of calculating any tax payable F189[or deductible] by that mortgagee or that receiver in accordance with this Chapter and *section 76(2)* for the remainder of the adjustment period applicable to that capital good.
+
+(*d*) Where *paragraph (c)* applies and if—
+
+(i) the mortgagee ceases to have possession (other than where *paragraph (h)* applies or on a disposal of the capital good), or
+
+(ii) the receiver’s appointment ends (other than where *paragraph (h)* applies) and the capital good has not been disposed of by the receiver,
+
+then that mortgagee or that receiver shall furnish a copy of the capital goods record to the defaulter and from the end date the defaulter shall be treated for the purposes of this Chapter as if that defaulter were the capital goods owner.
+
+(*e*) Where *paragraph (d)* applies the defaulter shall be responsible for all obligations of that mortgagee or that receiver under this Chapter as if—
+
+(i) the capital good were acquired or developed by the defaulter at the time it was deemed, in accordance with *paragraph (c)(i)*, to have been acquired by the mortgagee or the receiver,
+
+(ii) the total tax deemed to be incurred and the amount deemed to be deducted by that mortgagee or that receiver, in accordance with *paragraph (c)(ii)*, in relation to the good were the total tax incurred and the amount deducted by the defaulter, and
+
+(iii) any adjustments required to be made under this Chapter by that mortgagee or that receiver had been made,
+
+and the defaulter shall use the information in the copy of the capital good record issued by the mortgagee or the receiver, in accordance with *paragraph (d)*, for the purposes of calculating any tax payable or deductible by that defaulter in accordance with this Chapter for the remainder of the adjustment period applicable to that capital good.
+
+(*f*) Where an amount of tax is payable in respect of an interval in accordance with *subsection (2)(b)(i)*, *(3)(b)(i)* or *(4)(b)(i)*, and where the start date or the end date or both occur during that interval, the amount of that tax that shall be payable by the mortgagee or the receiver shall be calculated in accordance with the following formula—
+
+J x <u>K</u>
+
+L
+
+where—
+
+J is the amount of the tax payable in accordance with *subsection (2)(b)(i)*, *(3)(b)(i)* or *(4)(b)(i)*,
+
+K is the number of days during the interval in which the mortgagee has possession or the receiver has been appointed,
+
+L is the number of days in the interval,
+
+and the defaulter shall pay the balance (if any).
+
+(*g*) Where there is an increase in the amount of tax deductible in respect of an interval in accordance with *subsection (2)(b)(ii)*, *(3)(b)(ii)* or *(4)(b)(ii)*, and where the start date or the end date or both occur during that interval, the amount of that increase in deductibility to which the mortgagee or the receiver shall be entitled shall be calculated using the following formula—
+
+M x <u>K</u>
+
+L
+
+where—
+
+M is the amount of the increase in deductibility in accordance with *subsection (2)(b)(ii)*, *(3)(b)(ii)* or *(4)(b)(ii)*,
+
+K is the number of days during the interval in which the mortgagee has possession or the receiver has been appointed,
+
+L is the number of days in the interval,
+
+and the defaulter shall be entitled to the balance (if any).
+
+(*h*) Where *paragraph (c)* applies and if—
+
+(i) a mortgagee ceases to have possession and another mortgagee takes possession,
+
+(ii) a mortgagee ceases to have possession and a receiver is appointed,
+
+(iii) a receiver’s appointment ends and a mortgagee takes possession, or
+
+(iv) a receiver’s appointment ends and another receiver is appointed,
+
+then, in each case, the person who ceases to have possession or whose appointment ends shall furnish a copy of the capital goods record to the mortgagee who takes possession or the receiver who is appointed and, from the start date, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner and shall be responsible for the obligations of the preceding mortgagee or receiver in accordance with *paragraphs (c)* and *(d)*.]
+
+(13) The Revenue Commissioners may make regulations necessary for the purposes of the operation of this Chapter, in particular in relation to the duration of a subsequent interval where the accounting year of a capital goods owner changes.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(d), commenced as per par. 4(b).
+>
+> F181: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 55, commenced on enactment.
+>
+> F182: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 71(a) and (b), commenced on enactment.
+>
+> F183: Inserted (27.03.2013) by *Finance Act 2013* (8/2013), s. 71(c), commenced on enactment.
+>
+> F184: Substituted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 62(a), commenced on enactment.
+>
+> F185: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 62(b), commenced on enactment.
+>
+> F186, F187: Deleted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 7, S.I. 355 of 2026.
+>
+> F188: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 62(c), commenced on enactment.
+>
+> F189: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 62(d), commenced on enactment.
+
+## PART 9 Obligations of Accountable Persons — PART 9 — Obligations of Accountable Persons
+
+### Chapter 1 Registration — Chapter 1 — Registration
+
+#### 65. Registration. — [VATA s. 9(1) to (2A)]
+
+**65**.—(1) The Revenue Commissioners shall set up and maintain a register of persons—
+
+(*a*) who are, or who may become, accountable persons, or
+
+(*b*) who are persons who F190[dispose of goods or supply services which pursuant to *section 22(3)* or *28(4)* or *(5)*] are deemed to be supplied by an accountable person in the course or furtherance of his or her business.
+
+(2) The Revenue Commissioners shall assign a registration number to each person registered in accordance with *subsection (1)*.
+
+F191[(2A) The Revenue Commissioners may cancel the registration number which has been assigned to a person in accordance with *subsection (2)*, where that person does not become or ceases to be an accountable person.]
+
+(3) F192[(*a*)] Every accountable person shall, within the period of 30 days beginning on the day on which the person first becomes an accountable person, furnish in writing to the Revenue Commissioners the particulars specified in regulations as being required for the purpose of registering the person for tax.
+
+F193[(*b*) Where an accountable person, when registering for tax, has furnished particulars specified in regulations referred to in *paragraph (a)* stating that he or she shall not engage in intra-Community trade, and the person subsequently engages in intra-Community trade, that person shall, within the period of 30 days beginning on the date on which he or she first engages in intra-Community trade, notify the Revenue Commissioners in writing of such an engagement.
+
+(*c*) Where an accountable person notifies the Revenue Commissioners under *paragraph (b)* regarding his or her engagement in intra-Community trade, the Revenue Commissioners shall request that person to correct the particulars furnished as specified in regulations referred to in *paragraph (a)*.
+
+(*d*) In this subsection, “intra-Community trade” means—
+
+(i) the intra-Community supply of goods made by an accountable person and dispatched or transported from the State to a person registered for value-added tax in another Member State, or
+
+(ii) the intra-Community acquisition of goods.]
+
+(4) F190[Every person who disposes of goods or supplies services which pursuant to *section 22(3)* or *28(4)* or *(5)* are deemed to be supplied by an accountable person in the course of his or her business shall, within 14 days of the disposal or the supply of a service,] furnish in writing to the Revenue Commissioners the particulars specified in regulations as being required for the purpose of registering the person for tax.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F190: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(b), (c), commenced on enactment.
+>
+> F191: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 56, commenced on enactment.
+>
+> F192: Inserted (15.12.2022) by *Finance Act 2022* (44/2022), s. 55(a)(i), commenced on enactment.
+>
+> F193: Inserted (15.12.2022) by *Finance Act 2022* (44/2022), s. 55(a)(ii), commenced on enactment.
+
+### Chapter 2 Invoicing — Chapter 2 — Invoicing
+
+#### 66. Issue of invoices and other documents. — [VATA s. 17(1), (1A) and (1C) to (1E)]
+
+**66**.—F194[(1)(*a*) An accountable person—
+
+(i) who supplies goods or services to—
+
+(I) another accountable person,
+
+(II) a public body,
+
+(III) a person who carries on an exempted activity,
+
+(IV) a person (other than an individual) in another Member State in such circumstances that tax is chargeable at any of the rates specified in *section 46(1)*, or
+
+(V) a person in another Member State who is liable to pay value-added tax pursuant to the VAT Directive on such supply,
+
+or
+
+F195[(ii) who supplies goods to a person the supply of which goods is deemed, by virtue of *section 30*, to have taken place in another Member State, except where the Union scheme within the meaning of *section 91A* is used,]
+
+shall issue to the person so supplied, in respect of each such supply, an invoice, in paper format or subject to *subsection (2)* in electronic format, and containing such particulars as may be specified by regulations.
+
+(*b*) Notwithstanding *paragraph (a)*, an accountable person who supplies goods or services to—
+
+(i) another accountable person,
+
+(ii) a public body, or
+
+(iii) a person who carries on an exempted activity in the State,
+
+may instead issue to the person so supplied, a simplified invoice to the amount of €100 or less, in respect of each such supply and in such form and containing such particulars as may be specified by regulations.
+
+(*c*) An accountable person who supplies goods or services, which if an invoice (in accordance with *paragraph (a)*) were issued at the time of each separate supply of those goods or services would become chargeable to tax within the same calendar month, may instead issue a summary invoice detailing those supplies of goods or services to the person so supplied for that calendar month, in such form and containing such particulars as may be specified by regulations.]
+
+F196[(2) An invoice or other document issued in electronic format by an accountable person is deemed to be so issued for the purposes of *subsection (1)*, if—
+
+(*a*) each such invoice or other document is issued and received by prior agreement between the person who issues the invoice or other document and the person who is in receipt of that invoice or document, and
+
+(*b*) the electronic system used to issue or receive any such invoice or other document conforms with such specifications as are required by regulations.
+
+(2A)(*a*) An accountable person who issues or receives an invoice or other document under this Chapter, and for the purposes of *section 84(1)*, shall apply business controls to each such invoice or other document to ensure—
+
+(i) the authenticity of the origin of that invoice or other document,
+
+(ii) the integrity of the content of that invoice or other document, and
+
+(iii) that there is a reliable audit trail for that invoice or other document and the supply of goods or services as described therein.
+
+(*b*) The accountable person shall furnish evidence of the business controls used to comply with *paragraph (a)* as may be required by the Revenue Commissioners and such evidence shall be subject to such conditions as may be specified in regulations (if any).]
+
+(3) Where a taxable person who carries on a business in the State supplies greenhouse gas emission allowances (within the meaning of *section 16(2)*) to a recipient (within the meaning of *section 16(2)*), the person shall issue a document to the recipient indicating—
+
+(*a*) that the recipient is liable to account for the tax chargeable on that supply, and
+
+(*b*) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding F197[the rate at which tax is chargeable and] the amount of tax payable.
+
+(4)(*a*) Where a subcontractor who is an accountable person supplies a service to which *section 16(3)* applies, then the subcontractor shall issue a document to the principal indicating—
+
+(i) that the principal is liable to account for the tax chargeable on that supply, and
+
+(ii) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding F197[the rate at which tax is chargeable and] the amount of tax payable.
+
+(*b*) Where the principal and the subcontractor so agree, *section 71(1)* may apply to this document as if it were an invoice.
+
+F198[(4A)(*a*) Where a taxable person who carries on a business in the State supplies scrap metal (within the meaning of *section 16(4)(a)*) to a recipient (within the meaning of *section 16(4)(b)*), the person shall issue a document to the recipient indicating—
+
+(i) that the recipient is liable to account for the tax chargeable on that supply, and
+
+(ii) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding F197[the rate at which tax is chargeable and] the amount of tax payable.
+
+(*b*) Where the recipient and the person who supplied the scrap metal so agree, *section 71(1)* may apply to this document as if it were an invoice.]
+
+F199[(4B)(*a*) Where an accountable person supplies construction work to which *section 16(5)(b)* applies, the person shall issue a document to the recipient of such supplies indicating—
+
+(i) that the recipient is liable to account for the tax chargeable on that supply, and
+
+(ii) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding the rate at which the tax is chargeable and the amount of tax payable.
+
+(*b*) Where the recipient and the person who supplied the construction work so agree, *section 71(1)* may apply to this document as if it were an invoice.]
+
+F200[(4C)(*a*) Where a taxable person who carries on a business in the State makes a supply of gas or electricity (to which *section 16(6)* applies) to a recipient (within the meaning of *section 16(6)(b)*), the person shall issue a document to the recipient indicating—
+
+(i) that the recipient is liable to account for the tax chargeable on that supply, and
+
+(ii) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding the rate at which tax is chargeable and the amount of tax payable.
+
+(*b*) Where the recipient and the person who supplied the gas or electricity so agree, F201[*section 71*] may apply to this document as if it were an invoice.
+
+(4D)(*a*) Where a taxable person who carries on a business in the State makes a supply of a gas or an electricity certificate (within the meaning of *section 16(7)(a)*), to a recipient (within the meaning of *section 16(7)(b)*), the person shall issue a document to the recipient indicating—
+
+(i) that the recipient is liable to account for the tax chargeable on that supply, and
+
+(ii) such other particulars as would be required to be included in that document if that document were an invoice required to be issued in accordance with *subsection (1)* but excluding the rate at which tax is chargeable and the amount of tax payable.
+
+(*b*) Where the recipient and the person who supplied the gas or electricity certificate so agree, *section 71(1)* may apply to this document as if it were an invoice.]
+
+(5) F202[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F194: Substituted (1.01.2013) by *European Union (Value-Added Tax) Regulations 2012* (S.I. No. 354 of 2012), reg. 2(c)(i), in effect as per reg. 1(2).
+>
+> F195: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 12, in effect as per reg. 2.
+>
+> F196: Substituted (1.01.2013) by *European Union (Value-Added Tax) Regulations 2012* (S.I. No. 354 of 2012), reg. 2(c)(ii), in effect as per reg. 1(2).
+>
+> F197: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(e), commenced as per par. 4(b).
+>
+> F198: Inserted (1.05.2011) by *Finance Act 2011* (6/2011), s. 59(1)(c), commenced as per s. 59(2).
+>
+> F199: Inserted (1.05.2012) by *Finance Act 2012* (9/2012), s. 86(1)(e), commenced as per s. 86(2).
+>
+> F200: Inserted (1.01.2016) by *Finance Act 2015* (52/2015), s. 52(1)(c), commenced as per s. 52(2).
+>
+> F201: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(d), commenced on enactment.
+>
+> F202: Deleted (31.03.2012) by *Finance Act 2012* (9/2012), s. 88, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E46: Additional information required to be included in document issued by travel agents under subs. (5)(b) prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 32, in effect as per reg. 1(2).
+>
+> E47: Certain messages issued or received by electronic means deemed to be so issued or received for the purposes of subs. (2) (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 21, in effect as per reg. 1(2); as amended (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 3, in effect as per reg. 1(2).
+>
+> E48: Particulars required to be included in invoices prescribed for purposes of subs. (1) (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20, in effect as per reg. 1(2); as amended (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 3, in effect as per reg. 1(2).
+
+#### 67. Amendments to invoices. — [VATA s. 17(3) to (3B), (9) and (11)]
+
+**67**.—(1) Where, subsequent to the issue of an invoice by a person to another person in accordance with *section 66(1)*, the consideration as stated in that invoice is increased or reduced, or a discount is allowed, whichever of the following provisions is appropriate shall have effect:
+
+(*a*) if the consideration is increased, the person shall issue to that other person another invoice in such form and containing such particulars as may be specified by regulations in respect of the increase;
+
+(*b*) if the consideration is reduced or a discount is allowed—
+
+(i) the person shall issue to that other person a document (in this Act referred to as a “credit note”) containing particulars of the reduction or discount in such form and containing such other particulars as may be specified by regulations, and
+
+(ii) if that other person is an accountable person, the amount which the accountable person may deduct under *Chapter 1* of *Part 8* shall, in accordance with regulations, be reduced by the amount of tax shown on that credit note.
+
+(2) Where a person who is entitled to receive a credit note under *subsection (1)(b)* from another person issues to that other person, before the date on which a credit note is issued by that other person, a document (in this subsection referred to as a “debit note”) in such form and containing such particulars as may be specified by regulations, then, for the purposes of this Act—
+
+(*a*) the person who issues the debit note shall, if the person to whom it is issued accepts it, be deemed to have received from the person by whom the note was accepted a credit note containing the particulars set out in that debit note, and
+
+(*b*) the person to whom the debit note is issued shall, if he or she accepts it, be deemed to have issued to the person from whom the debit note was received a credit note containing the particulars set out in that debit note.
+
+(3) Notwithstanding *subsection (5)* and *section 69(1)*, where a person issues an invoice in accordance with *section 66(1)* which indicates a rate of tax and subsequent to the issue of that invoice it is established that a lower rate of tax applied, then—
+
+(*a*) the amount of consideration stated on that invoice shall be deemed to have been reduced to nil,
+
+(*b*) *subsection (1)(b)* shall have effect, and
+
+(*c*) following the issue of a credit note in accordance with *subsection (1)(b)*, the person shall issue another invoice in accordance with this Act and regulations.
+
+(4) F203[...]
+
+(5) Notwithstanding *subsection (1)* but subject to *subsection (6)*, where, subsequent to the issue to a registered person of an invoice in accordance with *section 66(1)*, the consideration stated in that invoice is reduced or a discount is allowed in such circumstances that, by agreement between the persons concerned, the amount of tax stated in the invoice is unaltered, then—
+
+(*a*) *paragraph (b)* of *subsection (1)* shall not apply in relation to the person by whom the invoice was issued,
+
+(*b*) the reduction or discount concerned shall not be taken into account in computing the liability to tax of the person making the reduction or allowing the discount,
+
+(*c*) *section 69(1)* shall not apply, and
+
+(*d*) the amount which the person in whose favour the reduction or discount is made or allowed may deduct in respect of the relevant transaction under *Chapter 1* of *Part 8* shall not be reduced.
+
+(6) *Subsection (5)* shall not apply in any case where—
+
+(*a*) F203[...]
+
+(*b*) the person who issued the invoice referred to in *subsection (5)* was, at the time of its issue, a person authorised, in accordance with *section 80(1)*, to determine that person’s tax liability in respect of supplies of the kind in question by reference to the amount of moneys received.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F203: Deleted (1.01.2022) by *Finance Act 2021* (45/2021), s. 53(a), commenced as per s. 53.
+>
+> **Editorial Notes:**
+>
+> E49: Particulars required to be included in credit notes or debit notes issued in accordance with subs. (1)(b) or (2) as provided (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(5), in effect as per reg. 1(2).
+>
+> E50: Particulars required to be included in invoices issued in accordance with subs. (1)(a) as provided (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(4), in effect as per reg. 1(2).
+
+#### 68. Flat-rate farmer invoices and other documents. — [VATA s. 17(2), (4), (10), (11A) and (13)]
+
+**68**.—(1) A flat-rate farmer who, in accordance with *section 86(1)*, is required to issue an invoice in respect of the supply of agricultural produce or an agricultural service shall, in respect of each such supply, issue an invoice in the form and containing such particulars (in addition to those specified in *section 86(1)*) as may be specified by regulations, if the following conditions are fulfilled:
+
+(*a*) the issue of the invoice is requested by a purchaser;
+
+(*b*) the purchaser provides the form for the purpose of the invoice and enters the appropriate particulars thereon;
+
+(*c*) the purchaser gives a copy of the invoice to the flat-rate farmer,
+
+but may issue the invoice if those conditions or any of them are not fulfilled.
+
+(2) Where, subsequent to the issue by a flat-rate farmer of an invoice in accordance with *subsection (1)*, the consideration as stated on the invoice is increased or reduced, or a discount is allowed, whichever of the following provisions is appropriate shall have effect:
+
+(*a*) in case the consideration is increased—
+
+(i) the flat-rate farmer shall issue another invoice (if the conditions referred to in *subsection (1)* are fulfilled in relation to it)—
+
+(I) containing particulars of the increase and of the flat-rate addition appropriate thereto, and
+
+(II) in such form and containing such other particulars as may be specified by regulations,
+
+and
+
+(ii) the other invoice referred to in *subparagraph (i)* shall be deemed, for the purposes of *Chapter 1* of *Part 8*, to be issued in accordance with *section 86(1)*,
+
+but that farmer may not issue the invoice if any of the conditions referred to in *subsection (1)* is not fulfilled;
+
+(*b*) in case the consideration is reduced or a discount is allowed—
+
+(i) the flat-rate farmer shall issue a document (in this Chapter referred to as a “farmer credit note”)—
+
+(I) containing particulars of the reduction or discount, and
+
+(II) in such form and containing such other particulars as may be specified by regulations,
+
+and
+
+(ii) the amount which the person may deduct under *Chapter 1* of *Part 8* or is entitled to be repaid under *section 57, 102* or *104(4)* or *(5)* shall, in accordance with regulations, be reduced by an amount equal to the amount of the flat-rate addition appropriate to the amount of the reduction or discount.
+
+(3) Where a person who is entitled to receive a farmer credit note under *subsection (2)(b)* from another person issues to that other person, before the date on which a farmer credit note is issued by that other person, a document (in this Chapter referred to as a “farmer debit note”) in such form and containing such particulars as may be specified by regulations, then, for the purposes of this Act—
+
+(*a*) the person who issues the farmer debit note shall, if the person to whom it is issued accepts it, be deemed to have received a farmer credit note (containing the particulars set out in the farmer debit note) from the person by whom the farmer debit note was accepted, and
+
+(*b*) the person to whom the farmer debit note is issued shall, if he or she accepts it, be deemed to have issued a farmer credit note (containing the particulars set out in the farmer debit note) to the person from whom the farmer debit note was received.
+
+(4) Where—
+
+(*a*) agricultural produce or agricultural services are supplied to a registered person by a flat-rate farmer, and
+
+(*b*) the person to whom the agricultural produce or services are supplied issues to the other person, before the date on which an invoice is issued by that other person, a document (in this Act referred to as a “settlement voucher”) in such form and containing such particulars as may be specified by regulations,
+
+then, for the purposes of this Act—
+
+(i) the person who issues the settlement voucher shall, if the person to whom it is issued accepts it, be deemed to have received an invoice (containing the particulars set out in the voucher) from the person by whom the voucher was accepted, and
+
+(ii) the person to whom the settlement voucher is issued shall, if he or she accepts it, be deemed to have issued an invoice (containing the particulars set out in the voucher) to the person from whom the voucher was received.
+
+(5) The provisions of this Act (other than this Chapter) relating to credit notes and debit notes issued under *section 67(1)* or *(2)* respectively shall apply in relation to farmer credit notes and farmer debit notes as they apply in relation to such credit notes and debit notes.
+
+F204[(6) An invoice, settlement voucher or other document provided for in this section or in *section 86(1)* shall not issue in respect of supplies of a kind specified in an order made under *section 86A*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F204: Inserted (1.01.2017) by *Finance Act 2016* (18/2016), s. 47(1)(a), commenced as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E51: Particulars required to be included in certain invoices, credit notes, debit notes and settlement vouchers issued by a flat-rate farmer in accordance with section as specified (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 22, in effect as per reg. 1(2).
+
+#### 69. Invoices or credit notes — errors, etc. — [VATA s. 17(5) to (6A)]
+
+**69**.—(1) Where an accountable person—
+
+(*a*) issues an invoice stating a greater amount of tax than that properly attributable to the consideration stated therein, or
+
+(*b*) issues a credit note stating a lesser amount of tax than that properly attributable to the reduction in consideration or the discount stated therein,
+
+the accountable person shall be liable to pay to the Revenue Commissioners the excess amount of tax stated in the invoice or the amount of the deficiency of tax stated in the credit note.
+
+(2) A person who is not a registered person and who issues an invoice stating an amount of tax shall, in relation to the amount of tax stated, be deemed, for the purposes of this Act, to be an accountable person and shall be liable to pay that amount to the Revenue Commissioners.
+
+(3) Where a person (other than a flat-rate farmer) issues an invoice stating an amount of flat-rate addition, he or she shall be liable to pay to the Revenue Commissioners as tax the amount of flat-rate addition stated and shall, in relation to that amount, be deemed, for the purposes of this Act, to be an accountable person.
+
+(4) Where a flat-rate farmer issues an invoice stating an amount of flat-rate addition otherwise than in respect of an actual supply of agricultural produce or an agricultural service, or in respect of such a supply but stating a greater amount of flat-rate addition than is appropriate to the supply, the farmer shall be liable to pay to the Revenue Commissioners as tax the amount or the excess amount, as the case may be, of the flat-rate addition stated and shall, in relation to that amount or that excess amount, be deemed, for the purposes of this Act, to be an accountable person.
+
+(5) Where a flat-rate farmer, in a case in which he or she is required to issue a farmer credit note under *section 68(2)(b)*, fails to issue the credit note within the time allowed by regulations, or issues a credit note stating a lesser amount of flat-rate addition than is appropriate to the reduction in consideration or the discount, the farmer shall be liable to pay to the Revenue Commissioners as tax the amount of flat-rate addition that should have been stated on the credit note or the amount of the deficiency of flat-rate addition, as the case may be, and shall, in relation to that amount or that deficiency, be deemed, for the purposes of this Act, to be an accountable person.
+
+#### 70. Time limits for issuing invoices, etc. — [VATA s. 17(7) and (8)]
+
+**70**.—(1)(*a*) An invoice, credit note or document required to be issued in accordance with this Chapter shall be issued within such time after the date of supplying goods or services as may be specified by regulations.
+
+(*b*) An amendment of an invoice pursuant to *section 68(2)(b)* shall be effected within such time as may be specified by regulations.
+
+(2) Notwithstanding *subsection (1)*, where payment for the supply of goods or services (other than supplies of the kind specified in *paragraph 1(1)* or *(2)* of *Schedule 2*) is made to a person, either in full or by instalments, before the supply is completed, the person shall issue an invoice in accordance with *section 66(1)* or *68(1)*, as may be appropriate, within such time after the date of actual receipt of the full payment or the instalment as may be specified by regulations.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E52: Time limits for issuing invoices, credit notes and documents specified for purposes of section (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 23, in effect as per reg. 1(2); as amended (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(c), in effect as per reg. 1(2).
+
+#### 71. Self-billing and outsourcing. — [VATA s. 17(14)]
+
+**71**.—(1) An invoice required under this Chapter to be issued in respect of a supply by a person (in this section referred to as the “supplier”) is deemed to be so issued by that supplier if that invoice is drawn up and issued by the person to whom that supply is made (in this section referred to as the “customer”) where—
+
+(*a*) there is prior agreement between the supplier and the customer that the customer may draw up and issue the invoice,
+
+(*b*) the customer is a person registered for value-added tax,
+
+(*c*) any conditions which are imposed by this Act or by regulations on the supplier in relation to the form, content or issue of the invoice are met by the customer, and
+
+(*d*) agreed procedures are in place for the acceptance by the supplier of the validity of the invoice.
+
+(2) An invoice, which is deemed to be issued by the supplier in accordance with *subsection (1)*, is deemed to have been so issued when that invoice is accepted by that supplier in accordance with the agreed procedures referred to in *subsection (1)(d)*.
+
+(3) An invoice required to be issued by a supplier under this Chapter shall be deemed to be so issued by that supplier if—
+
+(*a*) the invoice is issued by a person who acts in the name and on behalf of the supplier, and
+
+(*b*) any conditions which are imposed by this Act or by regulations on the supplier in relation to the form, content or issue of the invoice are met.
+
+(4) Any credit note or debit note issued in accordance with this Chapter that amends and refers specifically and unambiguously to an invoice is treated as if it were an invoice for the purposes of this section.
+
+(5) The Revenue Commissioners may make regulations in relation to the conditions applying to invoices covered by this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E53: Obligation to include endorsement on invoices issued, by an accountable person, in accordance with section prescribed by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(6B), as inserted (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg 3(a)(ii), in effect as per reg. 1(2).
+
+#### 72. Storage of invoices. — [VATA s. 17(15)]
+
+**72**.—(1) A person who issues, or is deemed to issue, an invoice under this Chapter shall ensure that—
+
+(*a*) a copy of any invoice issued by the person,
+
+(*b*) a copy of any invoice deemed to be issued by the person in the circumstances specified in *section 71*, and
+
+(*c*) any invoice received by the person,
+
+is stored and, for the purposes of *section 84(1)*, the reference to the keeping of full and true records therein shall be construed accordingly in so far as it relates to invoices covered by this Chapter.
+
+(2) Any invoice not stored by electronic means in a manner which conforms with requirements laid down by the Revenue Commissioners shall be stored within the State but, subject to the agreement of the Commissioners and any conditions set by them, the invoice may be stored outside the State.
+
+#### 73. Requests for particulars in respect of repayment of tax. — [VATA s. 17(12)]
+
+**73**.—(1)(*a*) An accountable person shall, if requested in writing by another person and if the request states that the other person is entitled to repayment of tax under *section 103*, give to that other person in writing the particulars of the amount of tax chargeable by the accountable person in respect of the supply by the accountable person of the goods or services that are specified in the request.
+
+(*b*) An accountable person shall, if requested in writing by another person and if the request states that the other person is entitled to repayment of tax under *section 57*, *58*, *102* or *104(1)*, *(4)* or *(5)*, give to that other person in writing the particulars specified in regulations for the purposes of *section 66(1)* in respect of the goods or services supplied by the accountable person to that other person that are specified in the request.
+
+(*c*) An accountable person shall, if requested in writing by another person and if the request states that the other person is entitled to repayment of tax under *section 104(3)*, give to that other person in writing the particulars of the amount of tax chargeable by the accountable person in respect of the supply by the accountable person of the radio broadcasting reception apparatus and parts thereof that are specified in the request.
+
+(2) A flat-rate farmer shall, if requested in writing by another person and if the request states that the other person is entitled to repayment of the flat-rate addition under *section 57*, *102* or *104(4)* or *(5)*, give to that other person in writing the particulars specified in regulations for the purpose of *section 68(1)* in respect of the goods or services supplied by the flat-rate farmer to that other person that are specified in the request.
+
+(3) A request under *subsection (1)* or *(2)* shall be complied with by the person to whom it is given within 30 days after the date on which the request is received by the person.
+
+### Chapter 3 Returns and payment of tax — Chapter 3 — Returns and payment of tax
+
+#### 74. Tax due on supplies. — [VATA s. 19(1), (2) and (2B)]
+
+**74**.—(1) Tax chargeable under *section 3(a)* or *(c)* shall be due—
+
+(*a*) in case an invoice is required under *Chapter 2* to be issued, at the time of issue of the invoice or, if the invoice is not issued in due time, upon the expiration of the period within which the invoice should have been issued,
+
+(*b*) in case a person is liable under *section 69(1)* or *(2)* to pay an amount of tax by reference to an invoice, or credit note, issued by him or her, at the time of issue of that invoice or credit note,
+
+(*c*) in the case of continuous supplies of telecommunications services or electricity, or of gas which has the meaning assigned to it in *paragraph 17(3)* of *Schedule 3*—
+
+(i) supplied to a person other than a person to whom an invoice is required to be issued under *Chapter 2*, and
+
+(ii) for which there is a statement of account (being a balancing statement or demand for payment which issues at least once every 3 months),
+
+at the time of issue of the statement of account in respect of those supplies, F205[...]
+
+F206[(*ca*) in the case of a supply of goods in accordance with *section 91G*, at the time payment for the goods has been accepted, and]
+
+(*d*) in any other case, at the time the goods or services are supplied.
+
+(2) Notwithstanding anything in this Act but subject to *subsection (3)*, the tax chargeable under *section 3(a)* or *(c)*, other than tax chargeable in respect of supplies of the kind specified in *paragraph 1(1)* or *(2)* of *Schedule 2*, F207[...] shall be due not later than the time when the amount in respect of which it is payable has been received in full or in part, and where the amount is received in full or in part before the supply of the goods or services to which it relates, a supply for a consideration equal to the amount received of such part of the goods or services as is equal in value to the amount received, shall be deemed, for the purposes of this Act, to have taken place at the time of such receipt.
+
+(3) *Subsection (2)* does not apply to the tax chargeable in respect of supplies of goods or services where tax is due in accordance with *subsection (1)(a)*, *(b)* or *(c)* by an accountable person who is not authorised under *section 80* to account for tax due by reference to the amount of the moneys received during a taxable period or part thereof.
+
+(4) F208[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F205: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 13(a), in effect as per reg. 2.
+>
+> F206: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 13(b), in effect as per reg. 2.
+>
+> F207: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 12, commenced on enactment.
+>
+> F208: Deleted (1.01.2022) by *Finance Act 2021* (45/2021), s. 53(b), commenced as per s. 53.
+
+#### 75. Tax due on intra-Community acquisitions. — [VATA s. 19(1A)]
+
+**75**.— Tax chargeable under *section 3(d)* or *(e)* shall be due—
+
+(*a*) on the 15th day of the month following that during which the intra-Community acquisition occurs,
+
+(*b*) in case an invoice is issued before the date specified in *paragraph (a)* by the supplier in another Member State to the person acquiring the goods, when that invoice is issued.
+
+#### 76. Returns and remittances. — [VATA s. 19(3)(a) and (b) to (d)]
+
+**76**.—(1) Subject to *subsection (2)* F209[and *sections 91C(3)*, *91E(3)* and *91K(3)*], an accountable person shall, within 9 days immediately after the 10th day of the month immediately following a taxable period—
+
+(*a*) furnish to the Collector-General a true and correct return, prepared in accordance with regulations, of—
+
+(i) the amount of tax which became due by the person during that taxable period (other than tax already paid by him or her in relation to goods imported by him or her),
+
+(ii) the amount (if any) which may be deducted in accordance with *Chapter 1* of *Part 8* in computing the amount of tax payable by the person in respect of that taxable period, and
+
+(iii) such other particulars as may be specified in regulations,
+
+and
+
+(*b*) remit to the Collector-General, at the same time as so furnishing such return, the amount of tax (if any) payable by the person in respect of that taxable period.
+
+(2) F210[A person who disposes of goods or supplies services which pursuant to *section 22(3)* or *28(4)* or *(5)*] are deemed to be supplied by an accountable person in the course or furtherance of his or her business shall—
+
+(*a*) within 9 days immediately after the 10th day of the month immediately following a taxable period—
+
+F211[(i) furnish to the Collector-General—
+
+(I) a true and correct return, prepared in accordance with regulations, of the total amount of tax which became due F212[, and the amount (if any) which would have been deductible therefrom in accordance with *Chapter 1* of *Part 8* but for the application of *section 59(3)(c)*,] in that taxable period, by—
+
+(A) the accountable person in relation to the disposal of the goods or the supply of the services, and
+
+(B) the receiver, liquidator or other person exercising a power, in relation to any adjustment required under *Chapter 2* of *Part 8* or *section 95(4)(c)*,
+
+and
+
+(II) such other particulars as may be specified in regulations,]
+
+(ii) remit to the Collector-General, at the same time as so furnishing such return, the amount of tax payable in respect of that taxable period,
+
+F213[(*b*) send to the accountable person deemed to have disposed of the goods or supplied the services a statement containing such particulars as may be specified in regulations, and]
+
+(*c*) treat the amount of tax referred to in *paragraph (a)* as a necessary disbursement F214[out of the proceeds of the disposal or the income from the services deemed to be supplied by the accountable person.]
+
+(3) F215[The owner of the goods or the supplier of the services which pursuant to *section 22(3)* or *28(4)* or *(5)*] are deemed to be supplied by an accountable person in the course or furtherance of the accountable person’s business shall exclude from any return which the owner is or, but for this subsection, would be required to furnish under this Act, the tax payable in accordance with *subsection (2)*.
+
+(4)(*a*)(i) A return required to be furnished by an accountable person under this section or *section 77* F216[, or an adjustment to a return as referred to in *section 77A*,] may be furnished by the accountable person or another person acting under the accountable person’s authority for that purpose.
+
+(ii) A return purporting to be a return furnished by a person acting under an accountable person’s authority shall be deemed to be a return furnished by the accountable person unless the contrary is proved.
+
+(*b*) Where a return in accordance with *paragraph (a)* is furnished by a person acting under an accountable person’s authority, the provisions of any enactment relating to value-added tax shall apply as if that return had been furnished by the accountable person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F209: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 14, in effect as per reg. 2.
+>
+> F210: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(d), commenced on enactment.
+>
+> F211: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(e), commenced on enactment.
+>
+> F212: Inserted (12.11.2024) by *Finance Act 2024)* (43/2024), s. 82, commenced on enactment.
+>
+> F213: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(f), commenced on enactment.
+>
+> F214: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(g), commenced on enactment.
+>
+> F215: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(h), commenced on enactment.
+>
+> F216: Substituted (21.12.2015) by *Finance Act 2015* (52/2015), s. 53(a), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E54: Previous affecting provision: subs. (1) amended (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(d), in effect as per reg. 2(1); substituted as per F-note above.
+
+#### 77. Authorisations in relation to filing dates. — [VATA s. 19(3)(aa)]
+
+**77**.—(1)(*a*) In this section—
+
+“accounting period” means a period, as determined by the Collector-General from time to time in any particular case, consisting of a number of consecutive taxable periods not exceeding 6 or such other period not exceeding a continuous period of 12 months as may be specified by the Collector-General;
+
+“authorised person” means an accountable person who has been authorised in writing by the Collector-General for the purposes of this section, and “authorise” and “authorisation” shall be construed accordingly.
+
+(*b*) Where an accounting period begins before the end of a taxable period, the period of time from the beginning of the accounting period to the end of the taxable period during which the accounting period begins shall, for the purposes of this section, be treated as if such period of time were a taxable period, and any references in this section to a taxable period shall be construed accordingly.
+
+(*c*) Where an accounting period ends after the beginning of a taxable period, the period of time from the beginning of the taxable period during which the accounting period ends to the end of the accounting period shall, for the purposes of this section, be treated as if such period of time were a taxable period, and any references in this section to a taxable period shall be construed accordingly.
+
+(2) Notwithstanding *section 76(1)*—
+
+(*a*) the Collector-General may, from time to time, authorise in writing an accountable person for the purposes of this section unless the accountable person objects in writing to the authorisation,
+
+(*b*) an authorised person may, within 9 days immediately after the 10th day of the month immediately following an accounting period—
+
+(i) furnish to the Collector-General a true and correct return prepared in accordance with regulations of—
+
+(I) the amount of tax which became due by the person during the taxable periods which comprise the accounting period (other than tax already paid by him or her in relation to goods imported by him or her),
+
+(II) the amount (if any) which may be deducted in accordance with *Chapter 1* of *Part 8* in computing the amount of tax payable by the person in respect of those taxable periods, and
+
+(III) such other particulars as may be specified in regulations,
+
+and
+
+(ii) remit to the Collector-General, at the same time as so furnishing such return, any amount of tax payable by the person in respect of those taxable periods,
+
+(*c*) in the case of an authorised person referred to in *subsection (5)*, the amount of tax referred to in *paragraph (b)(ii)* shall be the balance of tax remaining to be paid (if any) after deducting from it the amount of tax paid by the person by direct debit in respect of his or her accounting period,
+
+(*d*) where the authorised person concerned furnishes and remits in accordance with this subsection, the person shall be deemed to have complied with *section 76(1)* in relation to those taxable periods.
+
+(3) For the purposes of issuing an authorisation to an accountable person, the Collector-General shall, where he or she considers it appropriate, have regard to the following matters:
+
+(*a*) he or she has reasonable grounds to believe that—
+
+(i) the authorisation will not result in a loss of tax, and
+
+(ii) the accountable person will meet all of his or her obligations under the authorisation;
+
+and
+
+(*b*) the accountable person—
+
+(i) has been a registered person during all of the period consisting of the 6 taxable periods immediately preceding the period in which an authorisation would, if it were issued, have effect, and
+
+(ii) has complied with *section 76(1)*.
+
+(4) An authorisation may—
+
+(*a*) be issued without conditions or subject to such conditions as the Collector-General, having regard in particular to the considerations referred to in *subsection (3)*, considers proper and specifies in writing to the accountable person concerned when issuing the authorisation,
+
+(*b*) without prejudice to the generality of *paragraph (a)*, require an authorised person to remit to the Collector-General, within 9 days immediately after the 10th day of the month immediately following each taxable period (other than the final taxable period) which is comprised in an accounting period, such an amount as may be specified by the Collector-General.
+
+(5)(*a*) Without prejudice to the generality of *subsection (4)*, an authorisation may require an authorised person to agree with the Collector-General a schedule of amounts of money (in this subsection referred to as “the schedule”) which he or she undertakes to pay on dates specified by the Collector-General by monthly direct debit from his or her account with a financial institution.
+
+(*b*) The total of the amounts specified in the schedule shall be the authorised person’s best estimate of his or her total tax liability for his or her accounting period.
+
+(*c*) The authorised person shall review on an on-going basis whether the total of the amounts specified in the schedule is likely to be adequate to cover his or her actual liability for his or her accounting period and, where this is not the case or is not likely to be the case, he or she shall agree a revised schedule of amounts with the Collector-General and adjust his or her monthly direct debit amounts accordingly.
+
+(6) The Collector-General may, by notice in writing, terminate an authorisation and, where an accountable person requests the Collector-General to do so, he or she shall terminate the authorisation.
+
+(7) For the purposes of terminating an authorisation, the Collector-General shall, where he or she considers it appropriate, have regard to the following matters:
+
+(*a*) he or she has reasonable grounds to believe that the authorisation has resulted or could result in a loss of tax; or
+
+(*b*) the accountable person—
+
+(i) has furnished, or there is furnished on his or her behalf, any incorrect information for the purposes of the issue to him or her of an authorisation, or
+
+(ii) has not complied with *section 76(1)* or this section, including the conditions (if any) specified by the Collector-General under *subsection (4)* or *(5)* in relation to the issue to him or her of an authorisation.
+
+(8) In relation to any taxable period in respect of which he or she has not complied with *section 76(1)*, a person whose authorisation is terminated shall be deemed to have complied with that section if, within 14 days of the issue to him or her of a notice of termination, he or she—
+
+(*a*) furnishes to the Collector-General the return specified in *section 76(1)*, and
+
+(*b*) remits to the Collector-General, at the same time as so furnishing such return, the amount of tax payable by him or her in accordance with *section 76(1)*.
+
+(9)(*a*) An authorisation shall be deemed to have been terminated by the Collector-General on the date that an authorised person—
+
+(i) ceases to trade (other than for the purposes of disposing of the stocks and assets of his or her business), whether for reasons of insolvency or any other reason,
+
+(ii) being a body corporate, goes into liquidation, whether voluntarily or not, or
+
+(iii) ceases to be an accountable person, dies or becomes bankrupt.
+
+(*b*) An accountable person to whom this subsection relates shall, in relation to any taxable period (or part of a taxable period) comprised in the accounting period which was in operation in his or her case on the date to which *paragraph (a)* relates, be deemed to have complied with *section 76(1)* if he or she—
+
+(i) furnishes to the Collector-General the return specified in *subsection (2)(b)*, and
+
+(ii) remits to the Collector-General, at the same time as so furnishing such return, the amount of tax payable by him or her for the purposes of *subsection (2)(b)* as if he or she were an authorised person whose accounting period ended on the last day of the taxable period during which the termination occurred.
+
+(*c*) For the purposes of *paragraph (b)*, the personal representative of a person who was an authorised person shall be deemed to be the accountable person concerned.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E55: Procedure for filing return in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), regs. 24, in effect as per reg. 1(2).
+
+#### 77A. Adjustments to returns
+
+F217[**77A.**—(1) Where, following the submission to the Collector-General of a return (in this section referred to as an “original return”) required to be furnished under *section 76* or *77*, as appropriate, that return is adjusted by an accountable person by means of—
+
+(*a*) a correction to the original return,
+
+(*b*) a replacement of the original return, or
+
+(*c*) a supplement to the original return,
+
+(in this section and in *section 76(4)* referred to as an “adjustment to a return”) the provisions of any enactment relating to value-added tax shall apply to that adjustment to a return as if it were a return required to be furnished under *section 76* or *77*, as appropriate.
+
+(2) Any adjustment to a return to which *subsection (1)* applies shall, where applicable, be deemed to be a claim for a refund of tax and be subject to the provisions of *section 99*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F217: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 53(b), commenced on enactment.
+
+#### 78. Electronic remittances and returns. — [VATA s. 19(3A)]
+
+**78**.—(1) In this section—
+
+“electronic remittance” means a remittance made by such electronic means (within the meaning of section 917EA of the Taxes Consolidation Act 1997) as are required by the Revenue Commissioners;
+
+“electronic return” means a return made by electronic means and in accordance with Chapter 6 of Part 38 of the Taxes Consolidation Act 1997;
+
+“relevant provisions” mean *sections 76(1)* and *(2)* and *77(2)(b)* and *(4)(b)*.
+
+(2) Subject to *subsection (3)*, where an electronic remittance or, as the case may be, an electronic return and electronic remittance of the amount payable (if any) referred to in the relevant provisions is or are made, then the relevant provisions shall apply and have effect as if “13 days” were substituted for “9 days” in each place where the latter occurs in the relevant provisions.
+
+(3) Where the remittance or return referred to in *subsection (2)* is made after the period provided for in that subsection, this Act shall apply and have effect without regard to the other provisions of this section.
+
+#### 79. Special provisions in relation to payment dates. — [VATA s. 19(4) to (6)]
+
+**79**.—(1) In this section—
+
+“registration of the vehicle” means the registration of the vehicle in accordance with section 131 of the Finance Act 1992;
+
+“vehicle registration tax” means the tax referred to in section 132 of the Finance Act 1992.
+
+(2) Notwithstanding *sections 76* and *77*, where a person makes an intra-Community acquisition of a new means of transport (other than a vessel or aircraft) in respect of which he or she is not entitled to a deduction under *Chapter 1* of *Part 8*, then—
+
+(*a*) the tax shall be payable—
+
+(i) subject to *subparagraphs (ii)* and *(iii)*, at the time of payment of the vehicle registration tax,
+
+(ii) subject to *subparagraph (iii)*, if no vehicle registration tax is payable, at the time of registration of the vehicle,
+
+(iii) if section 131 of the Finance Act 1992 does not provide for the registration of the vehicle, at a time not later than the time when the tax is due in accordance with *section 75*,
+
+(*b*) the person shall complete such form as may be provided by the Revenue Commissioners for the purpose of this subsection, and
+
+(*c*) the provisions relating to the recovery and collection of vehicle registration tax shall apply, with such exceptions and modifications (if any) as may be specified in regulations, to tax referred to in this subsection as if it were vehicle registration tax.
+
+(3) Notwithstanding *sections 76* and *77*, where a person makes an intra-Community acquisition of a new means of transport which is a vessel or aircraft, in respect of which he or she is not entitled to a deduction under *Chapter 1* of *Part 8*, then—
+
+(*a*) the tax shall be payable at a time and in a manner to be determined by regulations, and
+
+(*b*) the provisions relating to the recovery and collection of a duty of customs shall apply, with such exceptions and modifications (if any) as may be specified in regulations, to tax referred to in this subsection as if it were a duty of customs.
+
+(4) Notwithstanding *sections 76* and *77*, where *section 11(2)* applies—
+
+(*a*) the tax shall be payable at the time of payment of the duty of excise on the goods, and
+
+(*b*) the provisions relating to the recovery and collection of that duty of excise shall apply, with such exceptions and modifications (if any) as may be specified in regulations, to tax referred to in this subsection as if it were that duty of excise.
+
+(5) Notwithstanding *sections 76* and *77*, F218[where *section 91*, *91C* or *91E*] applies, the tax shall be F218[payable at the time specified in *section 91(6)*, *91C(4)* or *91E(4)*, as the case may be].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F218: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(e), in effect as per reg. 2(1).
+
+### Chapter 4 Tax due on moneys received — Chapter 4 — Tax due on moneys received
+
+#### 80. Tax due on moneys received basis. — [VATA s. 14]
+
+**80**.—(1) A person who satisfies the Revenue Commissioners that—
+
+F219[(*a*) taking one period with another, at least 90 per cent of the person’s annual turnover is derived from supplies to persons who are not registered persons, or]
+
+F219[(*b*) the total annual turnover which the person is entitled to receive has not exceeded and is not likely to exceed €2,000,000 in any continuous period of 12 months,]
+
+may, in accordance with regulations, be authorised to determine the amount of tax which becomes due by the person during any taxable period (or part thereof) during which the authorisation has effect by reference to the amount of the moneys which the person receives during that taxable period (or part thereof) in respect of taxable supplies.
+
+(2) Where an authorisation to which *subsection (1)* relates has not been cancelled under *subsection (4)*, then—
+
+(*a*) the rate of tax due by the person concerned in respect of a supply shall be the rate of tax chargeable at the time the goods or services are supplied,
+
+(*b*) if tax on a supply has already been due and payable under any other provisions of this Act prior to the issue of that authorisation, tax shall not be due again in respect of any such supply as a result of the application of *subsection (1)*, and
+
+(*c*) if no tax is due or payable on a supply made prior to the issue of that authorisation, tax shall not be due in respect of any such supply as a result of the application of *subsection (1)*.
+
+(3)(*a*) The Minister may, by order—
+
+(i) increase the amount specified in *subsection (1)(b)*, or
+
+(ii) where an amount stands specified by virtue of an order under this paragraph, including an order relating to this subparagraph, further increase the amount so specified.
+
+(*b*) An order under *paragraph (a)* shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 sitting days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(4) The Revenue Commissioners—
+
+(*a*) may, in accordance with regulations, cancel an authorisation under *subsection (1)*, and
+
+(*b*) may, by regulations, exclude from the application of *subsection (1)* any tax due in respect of specified descriptions of supplies of goods or services and any moneys received in respect of such supplies.
+
+(5) Where an authorisation has issued to any person in accordance with *subsection (1)* and the person fails to issue a credit note in accordance with *section 67(1)(b)* in respect of any supply where the consideration as stated in the invoice issued by that person for that supply is reduced or a discount is allowed, then, at the time when a credit note should have issued in accordance with *section 70(1)*—
+
+(*a*) such tax as is attributable to the reduction or discount shall be treated as being excluded from the application of *subsection (1)*, and
+
+(*b*) the person shall be liable for that tax as if it were tax due in accordance with *Chapter 3* at that time.
+
+(6) This section does not apply to tax provided for by *section 3(b)*, *(d)* or *(e)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F219: Substituted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 8(a), (b).
+>
+> **Editorial Notes:**
+>
+> E56: Procedure for application for authorisation to use moneys received basis of accounting pursuant to subs. (1)(a) and for determination of tax due by reference to moneys received prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 25, in effect as per reg. 1(2), as amended (22.11.2012) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(d).
+>
+> E57: Previous affecting provision: subs. (1)(b) amended (1.05.2014) by *Finance (No. 2) Act 2013* (41/2013), s. 63, superseded (6.03.2025) as per F-note above.
+>
+> E58: Previous affecting provision: subs. (1)(b) amended (1.05.2013) by *Finance Act 2013* (8/2013), s. 72, superseded as per F-note above.
+
+### Chapter 5 Expression of doubt — Chapter 5 — Expression of doubt
+
+#### 81. Letter of expression of doubt. — [VATA s. 19B]
+
+**81**.—(1) For the purposes of this section—
+
+“accountable person” includes a person who is not a registered person and is in doubt as to whether he or she is an accountable person in respect of a transaction and, in that case, references to a return and records are to be construed as referring to a return that would be due under *Chapter 3* and records that would be kept for the purposes of *Chapter 7* or *section 124(7)*, if that person were in fact an accountable person;
+
+“the law” has the meaning assigned to it by *subsection (2)*;
+
+“letter of expression of doubt” means a communication received in legible form which—
+
+(*a*) sets out full details of the circumstances of the transaction and makes reference to the provisions of the law giving rise to the doubt,
+
+(*b*) identifies the amount of tax in doubt in respect of the taxable period to which the expression of doubt relates,
+
+(*c*) is accompanied by supporting documentation as relevant, and
+
+(*d*) is clearly identified as a letter of expression of doubt for the purposes of this section,
+
+and reference to “an expression of doubt” shall be construed accordingly.
+
+(2)(*a*) Subject to *paragraph (b)*, where an accountable person is in doubt as to the correct application of any enactment relating to value-added tax (in this section referred to as “the law”) to a transaction which could—
+
+(i) give rise to a liability to tax by that person, or
+
+(ii) affect that person’s liability to tax or entitlement to a deduction or refund of tax,
+
+then the accountable person may, at the same time as the accountable person furnishes to the Collector-General the return due in accordance with *Chapter 3* for the period in which the transaction occurred, lodge a letter of expression of doubt with the Revenue Commissioners at the office of the Commissioners which would normally deal with the examination of the records kept by that person in accordance with *Chapter 7* or *section 124(7)*.
+
+(*b*) This section shall apply only if the return referred to in *paragraph (a)* is furnished within the time limits prescribed in *Chapter 3*.
+
+(3) A person whose expression of doubt concerns whether he or she is an accountable person shall lodge that expression of doubt for the purposes of applying *subsection (4)* not later than the 19th day of the month following the taxable period in which the transaction giving rise to the expression of doubt occurred.
+
+(4) Subject to *subsection (5)*, where a return and a letter of expression of doubt relating to a transaction are furnished by an accountable person to the Revenue Commissioners in accordance with this section, *section 114* shall not apply to any additional liability arising from a notification to that person by the Revenue Commissioners of the correct application of the law to that transaction, on condition that such additional liability is accounted for and remitted to the Collector-General by the accountable person as if it were tax due for the taxable period in which the notification is issued.
+
+(5) *Subsection (4)* does not apply where the Revenue Commissioners do not accept as genuine an expression of doubt in respect of the application of the law to a transaction, and an expression of doubt shall not be accepted as genuine in particular where the Commissioners—
+
+(*a*) have issued general guidelines concerning the application of the law in similar circumstances,
+
+(*b*) are of the opinion that the matter is otherwise sufficiently free from doubt as not to warrant an expression of doubt, or
+
+(*c*) are of the opinion that the accountable person was acting with a view to the evasion or avoidance of tax.
+
+(6) Where the Revenue Commissioners do not accept an expression of doubt as genuine, they shall notify the accountable person accordingly, and the accountable person shall account for any tax, which was not correctly accounted for in the return referred to in *subsection (2)*, as tax due for the taxable period in which the transaction occurred, and *section 114* shall apply accordingly.
+
+(7) An accountable person who is aggrieved by a decision of the Revenue Commissioners that the person’s expression of doubt is not genuine F220[may appeal the decision to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of that decision.]
+
+(8) A letter of expression of doubt shall be deemed not to have been made unless its receipt is acknowledged by the Revenue Commissioners and that acknowledgement forms part of the records kept by the accountable person for the purposes of *Chapter 7* or *section 124(7)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F220: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(c), S.I. No. 110 of 2016.
+
+### Chapter 6 Recapitulative statements — Chapter 6 — Recapitulative statements
+
+#### 82. Statement of intra-Community supplies of goods. — [VATA s. 19A]
+
+**82**.—(1) In this section—
+
+“intra-Community supplies of goods” means supplies of goods to a person registered for value-added tax in another Member State;
+
+“prescribed threshold” means—
+
+(*a*) subject to *paragraph (b)*, €100,000,
+
+(*b*) on and from 1 January 2012, €50,000.
+
+F221[(2) An accountable person shall, not later than the deadline fixed by this section, lodge with the Revenue Commissioners a statement—
+
+(*a*) of the person’s intra-Community supplies of goods,
+
+(*b*) prepared in accordance with, and containing such particulars as may be specified in, regulations (if any), and
+
+(*c*) including information about the value-added tax identification number of the taxable person to whom goods are intended to be supplied, where those goods are dispatched or transported by the accountable person under call-off stock arrangements referred to in Article 17a of the VAT Directive, and any subsequent change to such information.]
+
+(3)(*a*) Subject to *paragraph (b)*, in the case of intra-Community supplies of goods F222[, or the transfer of goods under call-off stock arrangements in accordance with the conditions set out in Article 17a of the VAT Directive,] made during a calendar month, the deadline referred to in *subsection (2)* is the 23rd day of the month immediately following the end of that calendar month.
+
+(*b*) This subsection does not apply to intra-Community supplies of goods—
+
+(i) in respect of which an authorisation has been given under *subsection (4)*, or
+
+(ii) when an accountable person elects to lodge statements as permitted by *subsection (5)*.
+
+(4) The Revenue Commissioners may, on written request, authorise an accountable person who makes no supplies of the kind referred to in *section 83* but who makes intra-Community supplies of goods that do not exceed, or are not likely to exceed, in a calendar year, an amount or amounts specified in regulations (if any), to lodge by 23 January following that calendar year a statement—
+
+(*a*) setting out details of those intra-Community supplies of goods,
+
+(*b*) prepared in accordance with, and containing such particulars as may be specified in, regulations (if any).
+
+(5)(*a*) Subject to *paragraph (b)*, if, when *subsection (4)* does not apply, the total value of an accountable person’s intra-Community supplies of goods for a period of a calendar quarter, or of any of the previous 4 calendar quarters, does not exceed the prescribed threshold, the person may lodge a statement setting out details of those supplies not later than the 23rd day of the month immediately following the quarter during which the supplies were made.
+
+(*b*) Where the value of the supplies referred to in *paragraph (a)* exceeds the prescribed threshold in any month, the deadline for lodging a statement in respect of those supplies is as provided by *subsection (3)*.
+
+(6) An accountable person who has made no intra-Community supplies of goods during a relevant period, but was required to lodge with the Revenue Commissioners a statement in respect of a previous period, shall, unless otherwise authorised by the Commissioners, lodge with them before the relevant deadline a statement to the effect that he or she made no such supplies during that period.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Substituted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(f)(i), in effect as per reg. 2.
+>
+> F222: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(f)(ii), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E59: Procedure for filing of statement or correction statement in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 26, in effect as per reg. 1(2).
+
+#### 83. Statement of intra-Community supplies of taxable services. — [VATA s. 19AA]
+
+**83**.—(1) In this section “intra-Community supplies of services” means supplies of services to a taxable person in another Member State or any other person registered for value-added tax in another Member State.
+
+(2) An accountable person shall, not later than the deadline fixed by this section, lodge with the Revenue Commissioners a statement—
+
+(*a*) of the person’s intra-Community supplies of services where the recipient is liable to pay the tax as provided by Article 196 of the VAT Directive,
+
+(*b*) prepared in accordance with, and containing such particulars as may be specified in, regulations (if any).
+
+(3) In the case of intra-Community supplies of services made during a calendar quarter, the deadline referred to in *subsection (2)* is the 23rd day of the month immediately following the end of that quarter, except where the accountable person elects to lodge statements monthly as provided by *subsection (4)*.
+
+(4) An accountable person who makes intra-Community supplies of services may elect to lodge statements of details of those services monthly, in which case the deadline for lodging those statements is not later than the 23rd day of each calendar month immediately following the month in which the supplies are made.
+
+(5) For the purposes of statements to be lodged in accordance with *subsection (2)*, services that are supplied continuously over a period of more than one year, in respect of which no statements of account or payments are made during that year, are to be regarded as being completed at the end of each calendar year until the date when the supply is finally completed.
+
+(6) An accountable person who has made no intra-Community supplies of services to which this section applies during a relevant period, but who was required to lodge with the Revenue Commissioners a statement in respect of a previous period, shall, unless otherwise authorised by the Commissioners, lodge with them before the relevant deadline a statement to the effect that he or she made no such supplies during that period.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E60: Procedure for filing of statement or correction statement in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 26, in effect as per reg. 1(2).
+
+### Chapter 7 Record keeping — Chapter 7 — Record keeping
+
+#### 84. Duty to keep records. — [VATA s. 16(1), (2), (3) and (4)]
+
+**84**.—(1) Every accountable person shall, in accordance with regulations, keep full and true records of all transactions which affect or may affect his or her liability to tax and entitlement to deductibility.
+
+(2) Every person (other than an accountable person) who supplies goods or services in the course or furtherance of business shall keep all invoices issued to him or her in connection with the supply of goods or services to him or her for the purpose of such business.
+
+(3) The following:
+
+(*a*) records kept by a person pursuant to this Chapter or *section 124(7)* and that are in the power, possession or procurement of the person;
+
+(*b*) any books, invoices, copies of customs entries, credit notes, debit notes, receipts, accounts, vouchers, bank statements or other documents whatsoever which relate to the supply of goods or services, the intra-Community acquisition of goods, or the importation of goods by the person and that are in the power, possession or F223[procurement of the person;]
+
+(*c*) in the case of any such book, invoice, credit note, debit note, receipt, account, voucher, or other document, which has been issued by the person to another person, any copy thereof which is in the power, possession or F223[procurement of the person; and]
+
+F224[(*d*) any linking documents that are in the power, possession or procurement of the person,]
+
+shall, subject to F225[*subsection (4)* and *sections 91C(7)* and *91E(7)*] F226[and notwithstanding any other law], be retained in that person’s power, possession or procurement for a period of 6 years from the date of the latest transaction to which the F223[records, linking documents, invoices, or any of the other documents], relate.
+
+(4) Notwithstanding the retention period specified in *subsection (3)*, the following retention periods shall apply:
+
+(*a*) where a person acquired or developed immovable goods to which section 4 of the repealed enactment applied, the period for which the person F223[shall retain records and linking documents] pursuant to this Chapter in relation to that person’s acquisition or development of those immovable goods shall be the duration that such person holds a taxable interest in such goods plus a further period of 6 years;
+
+(*b*) where a person exercised a waiver of exemption from tax in accordance with section 7 of the repealed enactment, the period for which the person F223[shall retain records and linking documents] pursuant to this Chapter shall be the duration of the waiver plus a further period of F223[6 years;]
+
+F224[(*c*) in the case of records and linking documents (required to be kept by a person pursuant to this Chapter) that relate to a transaction and to any return (required to be furnished in accordance with *section 76* or *77*) for a period in which the transaction affects or may affect the person’s liability to tax or entitlement to deductibility, where that transaction is the subject of—
+
+(i) an inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter to which this Act relates,
+
+(ii) a claim made under a provision of this Act,
+
+(iii) an appeal to the Appeal Commissioners under a provision of this Act, or
+
+(iv) proceedings relating to any matter to which this Act relates,
+
+those records and linking documents shall be retained in that person’s power, possession or procurement for the longer of—
+
+(I) a period of 6 years from the date of the transaction, and
+
+(II) until such time as—
+
+(A) the inquiry or investigation has been completed, or the claim has been determined, and
+
+(B) any appeal to the Appeal Commissioners in relation to the outcome of that inquiry or investigation or the determination of that claim, or to any other matter to which the Act relates, has become final and conclusive, and
+
+(C) any proceedings in relation to the outcome of that inquiry or investigation or the determination of that claim or that appeal, or to any other matter to which the Act relates, has been finally determined, and
+
+(D) the time limit for instituting any appeal or proceedings or any further appeal or proceedings has expired.]
+
+F227[(5) This Chapter shall not require the F228[retention of records, linking documents or invoices] or any of the other documents in respect of which the Revenue Commissioners notify the person concerned that retention is not required.]
+
+F229[(6) In this section “linking documents” means documents drawn up in the making up of accounts and returns and showing details of the calculations linking the records required to be kept by a person pursuant to this Chapter to the accounts and returns.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F223: Substituted (23.12.2014) by *Finance Act 2014* (37/2014), ss. 66(a)(i), (ii), (iv) and 66(b)(i), (ii), commenced on enactment.
+>
+> F224: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), ss. 66(a)(iii) and 66(b)(iii), commenced on enactment.
+>
+> F225: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(f), in effect as per reg. 2(1).
+>
+> F226: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 89(a), commenced on enactment.
+>
+> F227: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 89(b), commenced on enactment.
+>
+> F228: Substituted (23.12.2014) by *Finance Act 2014* (37/2014), s. 66(c), commenced on enactment.
+>
+> F229: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 66(d), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E61: Further particulars of details required to be included in the records which accountable persons are required to keep pursuant to section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 27, in effect as per reg. 1(2); as amended (22.11.2012) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(e).
+
+#### 85. Supplementary provisions on records. — [VATA s. 16(1A), (2A) and (5)]
+
+**85**.—(1) The requirement to keep records in accordance with this Chapter applies to—
+
+(*a*) a record relating to exercising and terminating a landlord’s option to tax,
+
+(*b*) a capital good record referred to in *Chapter 2* of *Part 8*,
+
+(*c*) a record relating to a joint option for taxation, and
+
+(*d*) the document relating to an assignment or surrender referred to in *section 95(9)(a)*.
+
+(2)(*a*) An accountable person who claims a deduction of tax pursuant to *Chapter 1* of *Part 8* in respect of qualifying accommodation within the meaning of *section 60(1)* shall retain full and true records in relation to the attendance by the delegate at the relevant qualifying conference (including the details referred to in *section 60(1)* issued to the accountable person by the person responsible for organising the conference).
+
+(*b*) A person responsible for organising a qualifying conference within the meaning of *section 60(1)* and to which *section 60(2)(a)(i)* relates shall keep full and true records of each such conference organised by the person.
+
+(3) Every person who trades in investment gold (within the meaning of *section 90*) shall, in accordance with regulations, keep full and true records of that person’s transactions in investment gold.
+
+F230[(4) An accountable person who transfers goods under call-off stock arrangements referred to in Article 17a of the VAT Directive shall keep full and true records for the purposes of verification by the Revenue Commissioners of the correct application of the said Article 17a.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F230: Inserted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(g), in effect as per reg. 2.
+
+## F231[PART 9A Reporting Obligations of Certain Payment Service Providers — PART 9A — Reporting Obligations of Certain Payment Service Providers]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F231: Inserted (1.01.2024) by *European Union (Value - Added Tax) Regulations 2023* (S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85A. Interpretation
+
+F232[**85A.**—(1) In this Part —
+
+“BIC” has the same meaning as it has in point (16) of Article 2 of the SEPA Regulation;
+
+“cross-border payment” shall be construed in accordance with *section 85B*;
+
+“‘home Member State” has the same meaning as it has in point (1) of Article 4 of the Payment Services Directive;
+
+“IBAN” has the same meaning as it has in point (15) of Article 2 of the SEPA Regulation;
+
+“payee” has the same meaning as it has in point (9) of Article 4 of the Payment Services Directive;
+
+“payer” has the same meaning as it has in point (8) of Article 4 of the Payment Services Directive;
+
+“payment account” has the same meaning as it has in point (15) of Article 2 of the SEPA Regulation;
+
+“Payment Services Directive”means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015[^10] on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
+
+“payment service provider” means any of the categories of payment service providers listed in points (a) to (d) of Article 1(1) of the Payment Services Directive or a natural or legal person benefiting from an exemption in accordance with Article 32 of that Directive;
+
+“payment service” means any of the business activities set out in points (3) to (6) of Annex I to the Payment Services Directive;
+
+“payment” means, subject to the exclusions provided for in Article 3 of the Payment Services Directive, a “payment transaction” as defined in point (5) of Article 4 of that Directive or a “money remittance” as defined in point (22) of Article 4 of that Directive;
+
+“SEPA Regulation” means Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012[^11] establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009, as amended by Regulation (EU) No 248/2014 of the European Parliament and of the Council of 26 February 2014[^12] .
+
+(2) Other than a word or expression defined in subsection (1), a word or expression which is used in this Part and is also used in Section 2a of Chapter 4 of Title XI of the VAT Directive, has unless the context otherwise requires, the same meaning in this Part as it has in that Section of the VAT Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F232: Inserted (1.01.2024) by *European Union (Value-Added Tax) Regulations 2023* (S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85B. Meaning of “cross-border payment"
+
+F233[**85B.**—(1) For the purposes of this Part, a cross-border payment is a payment in respect of which —
+
+(*a*) the payer is located in a Member State, and
+
+(*b*) the payee is located in another Member State, in a third territory or in a third country.
+
+(2) For the purposes of *subsection (1)(a)*, the location of a payer shall be considered to be in the Member State corresponding to—
+
+(*a*) the IBAN of the payer’s payment account or any other identifier which unambiguously identifies, and gives the location of, the payer, or
+
+(*b*) in the absence of an identifier referred to in *paragraph (a)*, the BIC or any other business identifier code that unambiguously identifies, and gives the location of, the payment service provider acting on behalf of the payer.
+
+(3) For the purposes of *subsection (1)(b)*, the location of a payee shall be considered to be in the Member State corresponding to—
+
+(*a*) the IBAN of the payee’s payment account or any other identifier which unambiguously identifies, and gives the location of, the payee, or
+
+(*b*) in the absence of an identifier referred to *in paragraph (a)*, the BIC or any other business identifier code that unambiguously identifies, and gives the location of, the payment service provider acting on behalf of the payee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F233: Inserted (1.01.2024) by *European Union (Value-Added Tax) Regulations 2023* (S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85C. Requirement to keep records
+
+F234[**85C.**—(1) Subject to *subsections (2)*, *(3)* and *(5)*, payment service providers shall keep detailed records, in accordance with *section 85D*, of the payees and payments relating to the payment services they provide for each calendar quarter.
+
+(2) *Subsection (1)* shall apply only to payment services that are provided in respect of cross-border payments.
+
+(3) *Subsection (1)* shall apply to a payment service provider where, in the course of a calendar quarter, that payment service provider provides payment services corresponding to more than 25 cross-border payments in respect of the same payee.
+
+(4) (*a*)For the purpose of *subsection (3)*, the number of cross-border payments shall be calculated by reference to the payment services (including any payment services referred to in *subsection (5)(a)*) provided by the payment service provider per Member State and, subject to *paragraph (b)*, per identifier referred to in *subsection (3)* of *section 85B*.
+
+(*b*) Where a payment service provider has information that a payee has more than one identifier, as referred to in *subsection (3)* of *section 85B*, the number of cross-border payments shall be calculated per payee.
+
+(5) (*a*) *Subsection (1)* shall not apply to payment services provided by a payment service provider of a payer in respect of a payment where at least one of the payment service providers of the payee is located in a Member State.
+
+(*b*) For the purpose of *paragraph (a)*, the location of a payment service provider of the payee shall be determined by reference to the payment service provider’s BIC or any other business identifier code that unambiguously identifies the payment service provider and the location of the payment provider.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F234: Inserted (1.01.2024) by *European Union (Value - Added Tax) Regulations 2023*(S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85D. Record keeping requirements
+
+F235[**85D.**—(1) The records referred to in *section 85C(1)* shall contain the following information:
+
+(*a*) the BIC or any other business identifier code that unambiguously identifies the payment service provider;
+
+(*b*) the name or business name of the payee, as it appears in the records of the payment services provider;
+
+(*c*) any VAT identification number or other national tax number of the payee, if available;
+
+(*d*) the IBAN or, if the IBAN is not available, any other identifier which unambiguously identifies, and gives the location of, the payee;
+
+(*e*) the BIC or any other business identifier code that unambiguously identifies, and gives the location of, the payment service provider acting on behalf of the payee where the payee receives funds without having any payment account;
+
+(*f*) the address of the payee as it appears in the records of the payment service provider, if available;
+
+(*g*) details of any cross-border payment in accordance with *subsection (2)*;
+
+(*h*) details of any payment refunds identified in relation to the cross-border payment in accordance with *subsection (2)*.
+
+(2) The information required to be kept in relation to *paragraphs (g)* and *(h)* of *subsection (1)* shall contain the following details:
+
+(*a*) the date and time of the payment or payment refund;
+
+(*b*) the amount and the currency of the payment or payment refund;
+
+(*c*) the Member State of origin of the payment received by or on behalf of the payee, as determined in accordance with *section 85B*;
+
+(*d*) the Member State of destination of any payment refund, as determined in accordance with *section 85B*;
+
+(*e*) the information used to determine the Member State of origin of the payment referred to in *paragraph (c)* or the Member State of destination of any payment refund referred to in *paragraph (d)*;
+
+(*f*) any reference which unambiguously identifies the payment;
+
+(*g*) where applicable, information that the payment was initiated at the physical premises of the merchant.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F235: Inserted (1.01.2024) by *European Union (Value - Added Tax) Regulations 2023* (S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85E. Retention of records by payment service providers
+
+F236[**85E.**—Any records retained by a payment service provider in accordance with *section 85C* shall be kept in electronic format for a period of 3 years from the end of the year of the date of payment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F236: Inserted (1.01.2024) by *European Union (Value - Added Tax) Regulations 2023*(S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85F. Reporting requirements of payment service providers
+
+F237[**85F.**—(1) This section shall apply to a payment service provider where the State is —
+
+(*a*) the home Member State of the payment service provider, or
+
+(*b*) a host Member State of the payment service provider, in a case in which the payment service provider provides payment services in Member States other than its home Member State.
+
+(2) Where this section applies to a payment service provider, the records referred to in section 85D shall be made available to the Revenue Commissioners in the manner specified in *section 85G* (inserted by the *European Union (Value-Added Tax) (No. 2) Regulations 2023* ( S.I. No. 651 of 2023 )).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F237: Inserted (1.01.2024) by *European Union (Value - Added Tax) Regulations 2023*(S.I. No. 650 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85G. Manner of reporting
+
+F238[**85G.**—The manner referred to in *section 85F* (inserted by the *European Union (Value-Added Tax) Regulations 2023*) ( S.I. No. 650 of 2023 )) is as follows:
+
+(*a*) the information contained in the records referred to in that section shall be provided to the Revenue Commissioners by electronic means, in such form as may be specified by Commissioners for that purpose, and
+
+(*b*) the information referred to in *paragraph (a)* shall be provided to the Revenue Commissioners no later than the end of the month following the calendar quarter to which the information relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F238: Inserted (1.01.2024) by *European Union (Value - Added Tax) (No. 2) Regulations 2023*(S.I. No. 651 of 2023), reg. 3, in effect as per reg. 2.
+
+## 85H. Retention and transmission of information by Revenue Commissioners
+
+F239[**85H.**—(1) The information provided in accordance with *section 85G* shall be retained by the Revenue Commissioners until the expiry of a period of 5 years from 31 December of the year during which the record concerned was transmitted to them.
+
+(2) The Revenue Commissioners shall transmit the information referred to in *subsection (1)* to the central electronic system of payment information established under Section 2 of Chapter V of Council Regulation 904/2010 of 7 October 2010[^13] (as amended by Council Regulation 2020/283 of 18 February 2020[^14] ) no later than the tenth day of the second month following the calendar quarter to which the information relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F239: Inserted (1.01.2024) by *European Union (Value - Added Tax) (No. 2) Regulations 2023*(S.I. No. 651 of 2023), reg. 3, in effect as per reg. 2.
+
+## PART 10 Special Schemes — PART 10 — Special Schemes
+
+### Chapter 1Special Schemes Miscellaneous — F240[Chapter 1 — Special Schemes — Miscellaneous] — Annotations Amendments: Inserted (1.01.2015) by European Union (Value-Added Tax) Regulations 2014 (S.I. No. 340 of 2014), reg. 3(g), in effect as per reg. 2(1).
+
+#### 86. Special provisions for tax invoiced by flat-rate farmers. — [VATA ss. 12A and 35(3)]
+
+**86.**—F241[(1) Subject to *section 68(1)* and *(6)* and *subsection (1A)*, where a flat-rate farmer supplies agricultural produce or an agricultural service to a person, the farmer shall issue to the person an invoice indicating the consideration (exclusive of the flat-rate addition) in respect of the supply and an amount (in this Act referred to as a “flat-rate addition”) equal to F242[4.5 per cent] of that consideration (exclusive of the flat-rate addition).
+
+(1A) Where *section 68(6)* applies, the issue of an invoice by a flat-rate farmer shall only apply in respect of agricultural produce or an agricultural service of a kind not specified in an order made by the Minister under *section 86A*.]
+
+(2) Where, in relation to a supply of agricultural produce or an agricultural service by a flat-rate farmer, the farmer issues an invoice in which the flat-rate addition is stated separately, that addition is recoverable by the farmer as part of the consideration for the F243[transaction other than where an order has been made by the Minister under *section 86A* relating to such supply of produce or service.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F241: Substituted and inserted (1.01.2017) by *Finance Act 2016* (18/2016), s. 47(1)(b)(i), commenced as per s. (2).
+>
+> F242: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 73, in effect as per s. 73.
+>
+> F243: Substituted (1.01.2017) by *Finance Act 2016* (18/2016), s. 47(1)(b)(ii), commenced as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E62: Previous affecting provision: subs. (1) substituted (1.01.2025) by *Finance Act 2024* (43/2024), s. 83, commenced as per s. 83; substituted (1.01.2026) as per F-note above.
+>
+> E63: Previous affecting provision: subs. (1) amended (1.01.2024) by *Finance (No. 2) Act 2023* (39/2023), s. 62, commenced as per s. 62; substituted (1.01.2025) as per F-note above.
+>
+> E64: Previous affecting provision: subs. (1) amended (1.01.2023) by *Finance Act 2022* (44/2022), s. 56, commenced as per s. 56; substituted (1.01.2024) as per F-note above.
+>
+> E65: Previous affecting provision: subs. (1) amended (1.01.2022) by *Finance Act 2021* (45/2021), s. 54, commenced as per s. 54; substituted (1.01.2023) as per F-note above.
+>
+> E66: Previous affecting provision: subs. (1) amended (1.01.2021) *Finance Act 2020* (26/2020), s. 40, commenced as per s. 40; substituted as per F-note above.
+>
+> E67: Previous affecting provision: subs. (1) amended (1.01.2015) by *Finance Act 2014* (37/2014), s. 67, commenced as per s. 67; substituted as per F-note above.
+>
+> E68: Previous affecting provision: subs. (1) amended (1.01.2014) by *Finance Act (No. 2) Act 2013* (41/2013), s. 64; superseded as per E-note above.
+>
+> E69: Previous affecting provision: subs. (1) amended (1.01.2013) by *Finance Act 2013* (8/2013), s. 73; superseded as per E-note above.
+
+#### 86A. Restriction of flat-rate addition
+
+F244[**86A.**—(1) Where, following a review carried out by the Revenue Commissioners in relation to a particular agricultural sector and having regard, in particular, to the business structures or models employed and the nature of the relationships and contractual arrangements in place between parties in the sector, the Minister is satisfied that the application of the flat-rate addition in accordance with *section 86* in respect of supplies of agricultural produce or agricultural services within that sector has resulted in, and if that application were retained would continue to contribute to, a systematic excess of the amount of flat-rate addition payments over the amount of non-recoverable tax on input costs borne by flat-rate farmers within that sector, the Minister may by order provide that the flat-rate addition shall not apply to supplies of a kind to be specified in the order.
+
+(2) In *subsection (1)*, “non-recoverable tax on input costs” means tax which would be deductible in accordance with *section 59* if the flat-rate farmers in the particular agricultural sector were registered for value-added tax, less tax which is recoverable by flat-rate farmers in that sector in accordance with a refund order made under *section 103*.
+
+(3) An order made under this section shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F244: Inserted (1.01.2017) by *Finance Act 2016* (18/2016), s. 47(1)(c), commenced as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E70: Power pursuant to subs. (1) exercised (8.07.2025) by *Value-Added Tax (Restriction of Flat-Rate Addition) Order 2025* (S.I. No. 327 of 2025).
+
+#### 87. Margin scheme — taxable dealers. — [VATA s. 10A, s. 12B(3) (in part) and s. 12C(5) (in part)]
+
+**87**.—(1) In this section—
+
+“agricultural machinery” means machinery or equipment (other than a motor vehicle within the meaning of *section 60(1)*) which has been used by a flat-rate farmer for the purpose of that farmer’s Annex VII activity in circumstances where any tax charged on the supply of that machinery or equipment to the farmer would have been deductible by him or her if he or she had elected to be an accountable person at the time of that supply of the machinery or equipment to the farmer;
+
+“antiques” means any of the goods specified in *paragraph 24* of *Schedule 3* or in *paragraph 3* of *Schedule 5*;
+
+“collectors’ items” means any of the goods specified in *paragraph 2* of *Schedule 5*;
+
+“margin scheme” means the special arrangements for the taxation of supplies of margin scheme goods;
+
+“margin scheme goods” means any works of art, collectors’ items, antiques or second-hand goods supplied within the Community to a taxable dealer—
+
+(*a*) by a person (other than a person referred to in *paragraph (c)*) who was not entitled to deduct, under *Chapter 1* of *Part 8*, any tax in respect of the person’s purchase, intra-Community acquisition or importation of those goods where that person is neither—
+
+(i) an accountable person who acquired those goods from a taxable dealer who applied the margin scheme to the supply of those goods to that accountable person, nor
+
+(ii) an accountable person who acquired those goods from an auctioneer (within the meaning of *section 89*) who applied the auction scheme (within the meaning of *section 89*) to the supply of those goods to that accountable person,
+
+F245[(*aa*) by an accountable person who was entitled to deduct tax in accordance with *section 59(2)(d)* in respect of a second-hand good, being a qualifying vehicle, as defined in *section 59(1)*,]
+
+(*b*) by a person in another Member State who was not entitled to deduct, under the provisions implementing Articles 167, 173, 176 and 177 of the VAT Directive, in that Member State, any value-added tax referred to in that Directive in respect of that person’s purchase, intra-Community acquisition or importation of those goods, or
+
+(*c*) by another taxable dealer who has applied the margin scheme to the supply of those goods or applied the provisions implementing Articles 4 and 35, first subparagraph of Article 139(3) and Articles 311 to 325 and 333 to 340 of the VAT Directive, in another Member State to the supply of those goods,
+
+and also includes goods acquired by a taxable dealer as a result of a disposal of goods by a person to the taxable dealer where that disposal was deemed not to be a supply of goods in accordance with *section 20(3)*;
+
+F246[“means of transport” means—
+
+(*a*) motorised land vehicles with an engine cylinder capacity exceeding 48 cubic centimetres or a power exceeding 7.2 kilowatts, other than agricultural machinery, and
+
+(*b*) vessels exceeding 7.5 metres in length and aircraft with a take-off weight exceeding 1,550 kilogrammes, other than vessels and aircraft of the kind referred to in *paragraph 4(2)* of *Schedule 2*,
+
+which are intended for the transport of persons or goods, other than new means of transport supplied where *section 24(1)(b)* applies in relation to that supply;]
+
+“precious metals” means silver (including silver plated with gold or platinum), gold (including gold plated with platinum), and platinum, and all items which contain any of those metals when the consideration for the supply does not exceed the open market price (within the meaning of *section 36*) of the metal concerned;
+
+“precious stones” means diamonds, rubies, sapphires and emeralds, whether cut or uncut, when they are not mounted, set or strung;
+
+“profit margin” means the profit margin in respect of a supply by a taxable dealer of margin scheme goods and—
+
+(*a*) subject to *paragraph (b)—*
+
+(i) shall be deemed to be inclusive of tax, and
+
+(ii) shall be an amount which is equal to the difference between the taxable dealer’s selling price for those goods and the taxable dealer’s purchase price for those goods,
+
+(*b*) shall be deemed to be nil in any case where the purchase price is greater than the selling price;
+
+“purchase price”, in relation to an acquisition of margin scheme goods, means the total consideration, including all taxes, commissions, costs and charges whatsoever, payable by a taxable dealer to the person from whom that taxable dealer acquired those goods;
+
+“second-hand goods” means any tangible movable goods which are suitable for further use either as they are or after repair, including means of transport and agricultural machinery F247[(purchased or acquired on or after 1 January 2010)], but not including F248[scrap metal within the meaning of *section 16(4)(a)*,] works of art, collectors’ items, antiques, precious metals and precious stones;
+
+“selling price” means the total consideration which a taxable dealer becomes entitled to receive in respect of or in relation to a supply of margin scheme goods, including all taxes, commissions, costs and charges whatsoever and value-added tax (if any) payable in respect of the supply;
+
+“taxable dealer”—
+
+(*a*) means an accountable person who in the course or furtherance of business, whether acting on the person’s own behalf, or on behalf of another person pursuant to a contract under which commission is payable on purchase or sale, purchases or acquires or applies for the purpose of his or her business margin scheme goods or the goods referred to in *subsection (4)(a)(ii)* and *(iii)*, with a view to resale, or imports the goods referred to in *subsection (4)(a)(i)*, with a view to resale, and
+
+(*b*) includes a person supplying financial services of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* who acquires or purchases margin scheme goods for the purpose of the supply thereof as part of an agreement of the kind referred to in *section 19(1)(c)*,
+
+and, for the purposes of this interpretation, a person in another Member State shall be deemed to be a taxable dealer where, in similar circumstances, that person would be a taxable dealer in the State under this section;
+
+“works of art” means any of the goods specified in *paragraph 18(2)* or *23* of *Schedule 3* or in *paragraph 1* of *Schedule 5*.
+
+(2) Subject to and in accordance with this section, a taxable dealer may apply the margin scheme to a supply of margin scheme goods.
+
+F249[(2A) A taxable dealer shall not apply the margin scheme to a supply of a new means of transport where *section 24(1)(b)* applies in relation to that supply.]
+
+(3) Where the margin scheme is applied to a supply of goods, the amount on which tax is chargeable on the supply in accordance with *section 3(a)* or *(c)* is, notwithstanding *Chapter 1* of *Part 5*, the profit margin less the amount of tax included in the profit margin.
+
+(4)(*a*) Subject to F250[*paragraphs (b)* and *(c)*] and to such conditions (if any) as may be specified in regulations, a taxable dealer may, notwithstanding *subsection (2)*, opt to apply the margin scheme to all that dealer’s supplies of any of the following as if they were margin scheme goods:
+
+(i) a work of art, collector’s item or antique which the taxable dealer imported;
+
+(ii) a work of art which has been supplied to the taxable dealer by its creator or the creator’s successors in title; or
+
+(iii) a work of art which has been supplied to the taxable dealer by an accountable person other than a taxable dealer F251[...].
+
+(*b*) Where a taxable dealer opts to apply the margin scheme in accordance with *paragraph (a)*, the option shall be for a period of not less than 2 years from the date when that option was exercised.
+
+F252[(*c*) The option provided for in *paragraph (a)* shall not apply where the works of art, collectors’ items or antiques supplied to or imported by the taxable dealer were chargeable at the rate of tax specified in *section 46(1)(c)*.]
+
+(5) Where a taxable dealer exercises the option in accordance with *subsection (4)*, in respect of the goods specified in *subsection (4)(a)(i)*, then, notwithstanding the definition of “purchase price” in *subsection (1)*, the purchase price for the purposes of determining the profit margin in relation to a supply of those goods shall be an amount equal to the value of those goods for the purposes of importation determined in accordance with *section 53* increased by the amount of any tax payable in respect of the importation of those goods.
+
+(6) Subject to *subsection (7)* and notwithstanding *Chapter 1* of *Part 8*, a taxable dealer who exercises the option in respect of the supply of the goods specified in *subsection (4)(a)* shall not be entitled to deduct any tax in respect of the purchase or importation of those goods.
+
+(7) Where a taxable dealer exercises the option in accordance with *subsection (4)*, the dealer may, notwithstanding *subsection (4)(b)*, in respect of any individual supply of the goods specified in *subsection (4)(a)*, opt not to apply the margin scheme to that supply, and in such case the right to deduction of the tax charged on the purchase, intra-Community acquisition or importation of those goods shall, notwithstanding *Chapter 1* of *Part 8*, arise only in the taxable period in which the dealer supplies those goods.
+
+(8)(*a*) In this subsection—
+
+“aggregate margin”, in respect of a taxable period—
+
+(i) subject to *paragraph (ii)*, means an amount which is equal to the difference between the taxable dealer’s total turnover in that taxable period from supplies of low value margin scheme goods, to which the same rate of tax applies, less the sum of that taxable dealer’s purchase prices of low value margin scheme goods to which that rate of tax applies to the supply thereof, in that taxable period,
+
+(ii) in any case where the sum of such purchase prices of that dealer is in excess of such total turnover, means an amount which shall be deemed to be nil (and, in any such case, subject to and in accordance with regulations (if any), the amount of the excess shall be carried forward and added to the sum of that dealer’s purchase prices for low value margin scheme goods for the purposes of calculating that dealer’s aggregate margin for the immediately following taxable period);
+
+“low value margin scheme goods” means margin scheme goods where the purchase price payable by the dealer for each individual item is less than €635.
+
+(*b*) Notwithstanding *subsection (3)* but subject to and in accordance with regulations (if any)—
+
+(i) where a taxable dealer acquires low value margin scheme goods in job lots or otherwise, the amount of tax due and payable in respect of the dealer’s supplies of low value margin scheme goods shall, in respect of a taxable period, be the amount of tax included in that dealer’s aggregate margin, or margins, for that period and the amount of tax in each aggregate margin shall be determined by the formula—
+
+<u>B</u>
+
+A × B + 100
+
+where—
+
+A is the aggregate margin for the taxable period in question, and
+
+B is the percentage rate of tax chargeable in relation to the supply of those goods,
+
+and
+
+(ii) where the taxable dealer referred to in *subparagraph (i)* makes supplies in any taxable period which are subject to different rates of tax, that taxable dealer shall calculate separate aggregate margins for that taxable period in respect of the supplies at each of the relevant rates.
+
+(*c*) Subject to and in accordance with regulations (if any), where a taxable dealer supplies a low value margin scheme good for an amount in excess of €635, then—
+
+(i) notwithstanding the definition of “low value margin scheme goods” in *paragraph (a)*, the supply of that good shall be deemed not to be a supply of a low value margin scheme good,
+
+(ii) in determining the aggregate margin for the taxable period in which the supply occurs, the dealer shall deduct the purchase price of that good from the sum of the dealer’s purchase prices of low value margin scheme goods for that period, and
+
+(iii) the purchase price of that good shall be used in determining the profit margin in relation to the supply of that good.
+
+(9) Notwithstanding *Chapter 2* of *Part 9*, a taxable dealer shall not, in relation to any supply to which the margin scheme has been applied, indicate separately the amount of tax chargeable in respect of the supply on any invoice or other document in lieu thereof issued in accordance with that Chapter.
+
+(10) Where the margin scheme is applied to a supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State, then, notwithstanding *paragraph 1(1)* of *Schedule 2*, *section 46(1)(b)* shall not apply unless such goods are of a kind specified elsewhere in that Schedule.
+
+(11) Notwithstanding *section 30*, where the margin scheme is applied to a supply of goods dispatched or transported, the place of supply of those goods shall be deemed to be the place where the dispatch or transportation begins.
+
+(12) Where a taxable dealer applies the margin scheme to a supply of goods on behalf of another person pursuant to a contract under which commission is payable on purchase or sale, the goods shall be deemed to have been supplied by that other person to the taxable dealer when that taxable dealer supplies those goods.
+
+(13) Notwithstanding *paragraph 12* of *Schedule 1*, where an accountable person acquires goods to which the margin scheme has been applied and the person subsequently supplies those goods, that paragraph shall not apply to that supply unless the goods consist of—
+
+(*a*) motor vehicles within the meaning of *section 60(1)* which that person acquired other than—
+
+(i) as stock-in-trade,
+
+(ii) for the purposes of a business which consists in whole or in part of the hiring of motor vehicles, or
+
+(iii) for use, in a driving school business, for giving driving instruction,
+
+or
+
+(*b*) goods used by that person solely in the course of an exempted activity.
+
+F253[(14)(*a*) Where an accountable person purchases or acquires motor vehicles, within the meaning of *section 60(1)*, as stock-in-trade and declares any such vehicle for registration to the Revenue Commissioners (in accordance with section 131 of the Finance Act 1992) on that person’s own behalf and where deductibility in accordance with *Chapter 1* of *Part 8* has been claimed by that person in respect of that motor vehicle, then—
+
+(i) that motor vehicle shall be treated for the purposes of this Act as if it were removed from stock-in-trade,
+
+(ii) such removal is deemed to be a supply of that motor vehicle by that person for the purposes of *section 19(1)(f)*, and
+
+(iii) for the avoidance of doubt, the amount of tax chargeable in respect of that supply is the amount referred to in *paragraph (b)(ii)(II)* and accordingly is not included in any amount which that person is entitled to deduct in accordance with *section 59(2)(k)*.
+
+(*b*) At the time when the accountable person, as referred to in paragraph (*a*), supplies to another person a motor vehicle which is deemed to have been previously supplied in accordance with *paragraph (a)* or section 12B(11)(*a*) of the repealed enactment then—
+
+(i) that motor vehicle is deemed to have been reacquired by the said accountable person as a margin scheme good immediately before the supply to the other person, and
+
+(ii) for the purpose of the calculation of the profit margin in relation to that supply, the purchase price of the motor vehicle is deemed to be the sum of—
+
+(I) the amount on which tax was chargeable on the supply of that motor vehicle to the said accountable person,
+
+(II) the tax which was chargeable on the supply referred to at *clause (I)*, and
+
+(III) the vehicle registration tax accounted for by the said accountable person in respect of that motor vehicle.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F245: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(c), commenced as per par. 10(c).
+>
+> F246: Substituted (21.12.2015) by *Finance Act 2015* (52/2015), s. 57(a), commenced on enactment.
+>
+> F247: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(d) , commenced as per par. 10(c).
+>
+> F248: Inserted (1.05.2011) by *Finance Act 2011* (6/2011), s. 59(1)(d), commenced as per subs. (2).
+>
+> F249: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 57(b), commenced on enactment.
+>
+> F250: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 5(a), in effect as per reg. 2.
+>
+> F251: Deleted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 5(b), in effect as per reg. 2.
+>
+> F252: Inserted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 5(c), in effect as per reg. 2.
+>
+> F253: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 105 and sch. 2 par. 3(c), commenced as per par. 5(a).
+>
+> **Editorial Notes:**
+>
+> E71: Obligation to include endorsement on invoices issued, by an accountable person, in accordance with section prescribed by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(6), (6A), as substituted and inserted (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg 3(a)(ii), in effect as per reg. 1(2).
+>
+> E72: Previous affecting provision: obligation on accountable persons to indicate that the margin scheme has been applied on invoices issued in accordance with subs. (9) imposed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(6), in effect as per reg. 1(2); substituted by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg 3(a)(ii), in effect as per reg. 1(2).
+
+#### 88. Margin scheme — travel agents. — [VATA s. 10C]
+
+**88**.—(1) In this section—
+
+“bought-in services” means goods or services which a travel agent purchases for the direct benefit of a traveller—
+
+(*a*) from another taxable person, or
+
+(*b*) from a person engaged in business outside the State;
+
+“margin scheme services” means bought-in services supplied by a travel agent to a traveller;
+
+“travel agent” means a taxable person who acts as a principal in the supply to a traveller of margin scheme services, and for the purposes of this section travel agent includes tour operator;
+
+“travel agent’s margin”, in relation to a supply of margin scheme services, means an amount which is calculated in accordance with the formula—
+
+A — B
+
+where—
+
+A is the total consideration which the travel agent becomes entitled to receive in respect of or in relation to that supply of margin scheme services, including all taxes, commissions, costs and charges whatsoever and value-added tax payable in respect of that supply, and
+
+B is the amount payable by the travel agent to a supplier in respect of bought-in services included in that supply of margin scheme services to the traveller, but any bought-in services purchased by the travel agent prior to 1 January 2010 in respect of which that travel agent claims deductibility in accordance with *Chapter 1* of *Part 8* shall be disregarded in calculating the margin,
+
+and if that B is greater than that A, then the travel agent’s margin in respect of that supply shall be deemed to be nil;
+
+“travel agent’s margin scheme” means the special arrangements for the taxation of margin scheme services.
+
+(2) A supply of margin scheme services by a travel agent to a traveller in respect of a journey shall be treated as a single supply.
+
+(3) The place of supply of margin scheme services is—
+
+(*a*) unless *paragraph (b)* applies, the place where a travel agent has established the travel agent’s business,
+
+(*b*) if those services are provided from a fixed establishment of that travel agent located in a place other than the place where the travel agent has established his or her business, the place where that fixed establishment is located.
+
+(4) The travel agent’s margin scheme shall apply to the supply of margin scheme services in the State.
+
+(5) Notwithstanding *Chapter 1* of *Part 5*, the amount on which tax is chargeable by virtue of F254[*paragraph (a)* or *(c)* of *section 3*] on a supply of margin scheme services shall be the travel agent’s margin less the amount of tax included in that margin.
+
+(6) Notwithstanding *sections 57*, *58*, *102* and *104(1)*, *(4)* and *(5)* and *Chapter 1* of *Part 8*, a travel agent shall not be entitled to a deduction or a refund of tax borne or paid in respect of bought-in services supplied by the travel agent as margin scheme services.
+
+(7) Where a travel agent supplies margin scheme services together with other goods or services to a traveller for a total consideration, then—
+
+(*a*) that total consideration shall be apportioned by the travel agent so as to correctly reflect the ratio which the value of those margin scheme services bears to that total consideration, and
+
+(*b*) the proportion of that total consideration relating to the value of the margin scheme services shall be subject to the travel agent’s margin scheme.
+
+(8) Margin scheme services shall be treated as intermediary services when the bought-in services are performed outside the Community.
+
+(9) Where a travel agent makes a supply of margin scheme services that includes some services that are treated as intermediary services in accordance with *subsection (8)*, then the total travel agent’s margin in respect of that supply shall be apportioned by the travel agent so as to correctly reflect the ratio which the cost to that travel agent of the bought-in services used in the margin scheme services that are treated as intermediary services in that supply bears to the total cost to that travel agent of all bought-in services used in making that supply of margin scheme services.
+
+(10) A travel agent, being an accountable person who supplies margin scheme services, shall include the tax due on the person’s supplies of margin scheme services for a taxable period in the return that that person is required to furnish in accordance with *section 76* or *77*.
+
+(11) The Revenue Commissioners may make such regulations as they consider necessary for the purposes of the operation of this section, including provisions for simplified accounting arrangements.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F254: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 13, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E73: Obligation on accountable persons to include the endorsement “margin scheme — travel agents” on invoices issued in respect of a supply of margin scheme services under section imposed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(7), in effect as per reg. 1(2).
+
+#### 89. Margin scheme — auctioneers. — [VATA s. 10B]
+
+**89**.—(1) In this section—
+
+“auctioneer” means an accountable person who, in the course or furtherance of business, acting on behalf of another person pursuant to a contract under which commission is payable on purchase or sale, offers tangible movable goods for sale by public auction with a view to handing them over to the highest bidder;
+
+“auctioneer’s margin” means an amount which is equal to the difference between the total amount, including any taxes, commissions, costs and charges whatsoever, payable by the purchaser to the auctioneer in respect of the auction of auction scheme goods and the amount payable by the auctioneer to the principal in respect of the supply of those goods and shall be deemed to be inclusive of tax;
+
+“auction scheme” means the special arrangements for the taxation of supplies of auction scheme goods;
+
+“auction scheme goods” means any works of art, collectors’ items, antiques or second-hand goods sold by an auctioneer at a public auction while acting on behalf of a principal who is—
+
+(*a*) a person who was not entitled to deduct, under *Chapter 1* of *Part 8*, any tax in respect of that person’s purchase, intra-Community acquisition or importation of those goods where that person is neither—
+
+(i) a person referred to in *paragraph (d)*, nor
+
+(ii) an accountable person who acquired those goods from—
+
+(I) an auctioneer who applied the auction scheme to the supply of those goods to that accountable person, or
+
+(II) a taxable dealer who applied the margin scheme to the supply of those goods to that accountable person,
+
+(*b*) an insurer to whom *section 20(3)* applies—
+
+(i) who took possession of those goods in connection with the settlement of a claim under a policy of insurance, and
+
+(ii) whose disposal of the goods is deemed not to be a supply of the goods as provided by *section 20(3)*,
+
+(*c*) a person in another Member State who was not entitled to deduct, under the provisions implementing Articles 167, 173, 176 and 177 of the VAT Directive, in that Member State, any value-added tax referred to in that Directive in respect of that person’s purchase, intra-Community acquisition or importation of those goods, or
+
+(*d*) a taxable dealer who applied the margin scheme to the supply of those goods or applied the provisions implementing Articles 4 and 35, first subparagraph of Article 139(3) and Articles 311 to 325 and 333 to 340 of the VAT Directive, in another Member State to the supply of those goods;
+
+“principal” means the person on whose behalf an auctioneer auctions goods;
+
+“purchaser” means the person to whom an auctioneer supplies auction scheme goods.
+
+(2) Subject to and in accordance with this section, an auctioneer shall apply the auction scheme to any supply of auction scheme goods.
+
+(3) The amount on which tax is chargeable in accordance with *section 3(a)* or *(c)* on a supply by an auctioneer of auction scheme goods is, notwithstanding *Chapter 1* of *Part 5*, the auctioneer’s margin less the amount of tax included in that margin.
+
+(4) Where auction scheme goods are auctioned, the auctioneer shall issue, subject to such conditions (if any) as may be specified in regulations, to both the principal and the purchaser, invoices or documents in lieu thereof setting out the relevant details in respect of the supply of the auction scheme goods.
+
+(5) Notwithstanding *Chapter 2* of *Part 9*, an auctioneer shall not, in relation to any supply to which the auction scheme has been applied, indicate separately the amount of tax chargeable in respect of the supply on any invoice or other document in lieu thereof issued in accordance with that Chapter.
+
+(6) Where auction scheme goods are auctioned by an auctioneer on behalf of a principal who is an accountable person—
+
+(*a*) the invoice or document in lieu thereof issued to the principal in accordance with *subsection (4)* shall be deemed to be an invoice for the purposes of *Chapter 2* of *Part 9*, and
+
+(*b*) that principal shall be deemed to have issued such invoice.
+
+(7) Where the auction scheme is applied to a supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State, then, notwithstanding *paragraph 1(1)* of *Schedule 2*, *section 46(1)(b)* shall not apply unless such goods are of a kind specified elsewhere in that Schedule.
+
+(8) Notwithstanding *section 30*, where the auction scheme is applied to a supply of goods dispatched or transported, the place of supply of those goods shall be deemed to be the place where the dispatch or transportation begins.
+
+(9) Where an auctioneer supplies auction scheme goods by public auction, the principal shall be deemed to have made a supply of the auction scheme goods in question to the auctioneer when that auctioneer sells those goods at a public auction.
+
+(10) Notwithstanding *paragraph 12* of *Schedule 1*, where an accountable person acquires goods to which the auction scheme has been applied and the person subsequently supplies those goods, that paragraph shall not apply to that supply unless the goods consist of—
+
+(*a*) motor vehicles within the meaning of *section 60(1)* which that person acquired other than—
+
+(i) as stock-in-trade,
+
+(ii) for the purposes of a business which consists in whole or in part of the hiring of motor vehicles, or
+
+(iii) for use, in a driving school business, for giving driving instruction,
+
+or
+
+(*b*) goods used by that person solely in the course of an exempted activity.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E74: Obligation to include endorsement on invoices issued, by an accountable person, in accordance with section prescribed by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(6), as substituted (1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg 3(a)(ii), in effect as per reg. 1(2).
+>
+> E75: Previous affecting provision: obligation on accountable persons to indicate that the margin scheme has been applied on invoices issued in accordance with subs. (5) imposed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 20(6), in effect as per reg. 1(2); substituted as per E-note above.
+
+#### 90. Investment gold. — [VATA s. 6A]
+
+**90**.—(1)(*a*) In this section—
+
+“intermediary” means a person who intervenes for another person in a supply of investment gold while acting in the name and for the account of that other person;
+
+“investment gold” means—
+
+(i) gold in the form of—
+
+(I) a bar, or
+
+(II) a wafer,
+
+of a weight accepted by a bullion market and of a purity equal to or greater than 995 parts per 1,000 parts, and
+
+(ii) gold coins which—
+
+(I) are of a purity equal to or greater than 900 parts per 1,000 parts,
+
+(II) are minted after 1800,
+
+(III) are or have been legal tender in their country of origin, and
+
+(IV) are normally sold at a price which does not exceed the open market value of the gold contained in the coins by more than 80 per cent.
+
+(*b*) For the purposes of the definition of “investment gold” in *paragraph (a)*, gold coins which are listed in the “C” series of the Official Journal of the European Communities as fulfilling the criteria referred to in that definition in respect of gold coins shall be deemed to fulfil those criteria for the whole year for which the list is published.
+
+(2) This section shall apply to—
+
+(*a*) investment gold, including investment gold which is represented by securities or represented by certificates for allocated or unallocated gold or traded on gold accounts and including, in particular, gold loans and swaps, involving a right of ownership or a claim in respect of investment gold, and
+
+(*b*) transactions concerning investment gold involving futures and forward contracts leading to a transfer of a right of ownership or a claim in respect of investment gold.
+
+(3) Notwithstanding *section 52(1)*, a person who produces investment gold or transforms any gold into investment gold may, in accordance with conditions set out in regulations, waive the person’s right to exemption from tax on a supply of investment gold to another person who is engaged in the supply of goods and services in the course or furtherance of business.
+
+(4) Where a person waives, in accordance with *subsection (3)*, the person’s right to exemption from tax in respect of a supply of investment gold, an intermediary who supplies services in respect of that supply of investment gold may, in accordance with conditions set out in regulations, waive the intermediary’s right to exemption from tax in respect of those services.
+
+(5)(*a*) Where a person waives, in accordance with *subsection (3)*, the person’s right to exemption from tax in respect of a supply of investment gold, then, for the purposes of this Act—
+
+(i) the person to whom the supply of investment gold is made shall, in relation thereto—
+
+(I) be an accountable person, and
+
+(II) be liable to pay the tax chargeable on that supply as if such accountable person had made that supply of investment gold for consideration in the course or furtherance of business,
+
+and
+
+(ii) the person who waived the right to exemption in respect of that supply shall not be liable to pay that tax.
+
+(*b*) Where a person is liable for tax in accordance with *paragraph (a)* in respect of a supply of investment gold, the person shall, notwithstanding *Chapter 1* of *Part 8*, be entitled, in computing the amount of tax payable by that person in respect of the taxable period in which that liability to tax arises, to deduct the tax for which he or she is liable on that supply if his or her subsequent supply of that investment gold is exempt from tax.
+
+(6)(*a*) An accountable person may, in computing the amount of tax payable by the accountable person in respect of any taxable period and notwithstanding *Chapter 1* of *Part 8*, deduct—
+
+(i) the tax charged to the accountable person during that period by other accountable persons by means of invoices, prepared in the manner prescribed by regulations, in respect of supplies of gold to such person,
+
+(ii) the tax chargeable during that period, being tax for which the accountable person is liable in respect of intra-Community acquisitions of gold, and
+
+(iii) the tax paid by the accountable person, or deferred, as established from the relevant customs documents kept by him or her in accordance with *section 84(3)* in respect of gold imported by him or her in that period,
+
+where that gold is subsequently transformed into investment gold and the accountable person’s subsequent supply of that investment gold is exempt from tax.
+
+(*b*) A person may claim, in accordance with regulations, a refund of—
+
+(i) the tax charged to the person on the purchase of gold (other than investment gold) by him or her,
+
+(ii) the tax chargeable to the person on the intra-Community acquisition of gold (other than investment gold) by him or her, and
+
+(iii) the tax paid or deferred on the importation by the person of gold (other than investment gold),
+
+where that gold is subsequently transformed into investment gold and that person’s subsequent supply of that investment gold is exempt from tax.
+
+(7)(*a*) An accountable person may, in computing the amount of tax payable by the accountable person in respect of a taxable period and notwithstanding *Chapter 1* of *Part 8*, deduct the tax charged to that accountable person during that period by other accountable persons by means of invoices, prepared in the manner prescribed by regulations, in respect of the supply to the first-mentioned accountable person of services consisting of a change of form, weight or purity of gold where that accountable person’s subsequent supply of that gold is exempt from tax.
+
+(*b*) A person may claim, in accordance with regulations, a refund of the tax charged to the person in respect of the supply to him or her of services consisting of a change of form, weight or purity of gold where his or her subsequent supply of that gold is exempt from tax.
+
+(8)(*a*) An accountable person who produces investment gold or transforms any gold into investment gold may, in computing the amount of tax payable by the accountable person in respect of a taxable period and notwithstanding *Chapter 1* of *Part 8*, deduct—
+
+(i) the tax charged to that accountable person during that period by other accountable persons by means of invoices, prepared in the manner prescribed by regulations, in respect of supplies of goods or services to the first-mentioned accountable person,
+
+(ii) the tax chargeable during that period, being tax for which that accountable person is liable in respect of intra-Community acquisitions of goods, and
+
+(iii) the tax paid by that accountable person, or deferred, as established from the relevant customs documents kept by him or her in accordance with *section 84(3)* in respect of goods imported by him or her in that period,
+
+where those goods or services are linked to the production or transformation of that gold and that accountable person’s subsequent supply of that investment gold is exempt from tax.
+
+(*b*) A person who produces investment gold or transforms any gold into investment gold may claim, in accordance with regulations, a refund of—
+
+(i) the tax charged to the person on the purchase by him or her of goods or services,
+
+(ii) the tax chargeable to the person on the intra-Community acquisition of goods by him or her, and
+
+(iii) the tax paid or deferred by the person on the importation of goods by him or her,
+
+where those goods or services are linked to the production or transformation of that gold and that person’s subsequent supply of that gold is exempt from tax.
+
+(9) Every trader in investment gold shall—
+
+(*a*) establish the identity of any person to whom that trader supplies investment gold when the total consideration which the trader is entitled to receive in respect of such supply, or a series of such supplies which are or appear to be linked, amounts to at least €15,000, and
+
+(*b*) retain a copy of all documents used to identify such person to whom the investment gold is so supplied as if they were records to be kept in accordance with *section 85(3)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E76: Procedure for claiming refund under subs. (6)(b), (7)(b) or (8)(b) prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 34, in effect as per reg. 1(2).
+>
+> E77: Procedure for application for waiver of exemption from tax on supplies of investment gold under subs. (3) and particulars required to be included in invoices issued in respect of such supplies prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 33, in effect as per reg. 1(2).
+
+#### 91. Electronic services scheme. — [VATA s. 5A]
+
+**91**.—(1) In this section—
+
+“electronic services scheme” means the special arrangements for the taxation of electronically supplied services provided for in Articles 358 to 369 of the VAT Directive;
+
+“EU value-added tax” means value-added tax referred to in the VAT Directive and includes tax within the meaning of *section 2*;
+
+“identified person” has the meaning assigned to it by *subsection (5)*;
+
+“Member State of consumption” means the Member State in which the supply of the electronic services takes place according to Article 58 of the VAT Directive;
+
+“Member State of identification” means the Member State which the non-established person chooses to contact to state when his or her activity within the Community commences in accordance with the provisions of the electronic services scheme;
+
+“national tax number” means a number (whether consisting of either or both numbers and letters) assigned to a non-established person by his or her own national taxation authorities;
+
+“non-established person” means a person who has his or her establishment outside the Community and has not also an establishment in the Community and who is not otherwise required to be a person registered for value-added tax within the meaning of *section 2*;
+
+“scheme participant” means a non-established person who supplies electronic services into the Community and who opts to use the electronic services scheme in any Member State;
+
+“VAT return” means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State under the electronic services scheme.
+
+(2) Subject to and in accordance with this section, a non-established person may opt to apply the electronic services scheme to his or her supplies of electronic services to non-taxable persons within the Community.
+
+(3) The Revenue Commissioners shall set up and maintain a register (referred to in this section as an “identification register”) of non-established persons who are identified in the State for the purposes of the electronic services scheme.
+
+(4) A non-established person who opts to be identified in the State for the purposes of the electronic services scheme shall inform the Revenue Commissioners, by electronic means in a manner specified by them, when his or her taxable activity commences and shall, at the same time, furnish them electronically with the following information:
+
+(*a*) the person’s name and postal address;
+
+(*b*) his or her electronic addresses, including website addresses;
+
+(*c*) his or her national tax number (if any); and
+
+(*d*) a statement that the person is not a person registered, or otherwise identified, for value-added tax purposes within the Community.
+
+(5)(*a*) Where a person has furnished the particulars required under *subsection (4)*, the Revenue Commissioners shall—
+
+(i) register that person in accordance with *subsection (3)*,
+
+(ii) allocate to that person an identification number, and
+
+(iii) notify that person electronically of that identification number.
+
+(*b*) For the purposes of this section, a person to whom such an identification number has been allocated shall be referred to as an “identified person”.
+
+(6)(*a*) Subject to *paragraph (b)*, an identified person shall, within 20 days immediately following the end of each calendar quarter—
+
+(i) furnish by electronic means to the Revenue Commissioners a VAT return, prepared in accordance with, and containing such particulars as are specified in, *subsection (7)*, in respect of supplies made in the Community in that quarter, and
+
+(ii) remit to the Revenue Commissioners, at the same time as so furnishing such return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax (if any) payable by that person in respect of that quarter in relation to—
+
+(I) supplies made in the State in accordance with *section 34(l)*, and
+
+(II) supplies made in other Member States in accordance with the provisions implementing Article 58 of the VAT Directive in such other Member States.
+
+(*b*) Where an identified person has not made any such electronic supplies to non-taxable persons into the Community within a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.
+
+(7) The VAT return referred to in *subsection (6)* shall be made in euro and shall contain—
+
+(*a*) the person’s identification number,
+
+(*b*) for each Member State of consumption where EU value-added tax has become due—
+
+(i) the total value, exclusive of EU value-added tax, of supplies of electronic services for the quarter,
+
+(ii) the amount of such value liable to EU value-added tax at the applicable rate, and
+
+(iii) the amount of EU value-added tax corresponding to such value at the applicable rate,
+
+and
+
+(*c*) the total EU value-added tax due (if any).
+
+(8) Notwithstanding *section 37(4)*, where supplies have been made using a currency other than the euro, the exchange rate to be used for the purposes of expressing the corresponding amount in euro on the VAT return shall be that published by the European Central Bank for the last date of the calendar quarter for which the VAT return relates or, if there is no publication on that date, on the next day of publication.
+
+(9) Notwithstanding *Chapter 1* of *Part 8*, a scheme participant who supplies services which are deemed in accordance with *section 34(l)* to be supplied in the State—
+
+(*a*) shall not, in computing the amount of tax payable by him or her in respect of such supplies, be entitled to deduct any tax borne or paid in relation to those supplies, but
+
+(*b*) shall be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, Council Directive No. 86/560/EEC of 17 November 1986 [^15], notwithstanding Articles 2(2), 2(3) and 4(2) of that Directive.
+
+(10) A scheme participant who supplies services which are deemed in accordance with *section 34(l)* to be supplied in the State shall be deemed to have fulfilled his or her obligations under *Chapters 1, 3* and *7* of *Part 9* if such participant has accounted in full in respect of such supplies in any Member State under the provisions of the electronic services scheme.
+
+(11) For the purposes of this Act, a VAT return required to be furnished in accordance with the electronic services scheme shall, in so far as it relates to supplies made in accordance with *section 34(l)*, be treated, with any necessary modifications, as if it were a return required to be furnished in accordance with *Chapter 3* of *Part 9*.
+
+(12)(*a*) An identified person shall—
+
+(i) keep full and true records of all transactions covered by the electronic services scheme which affect his or her liability to EU value-added tax,
+
+(ii) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(iii) make such records available, by electronic means and on request, to all Member States of consumption, and
+
+(iv) notwithstanding *Chapter 7* of *Part 9*, retain such records for each transaction for a period of 10 years from the end of the year when that transaction occurred.
+
+(*b*) A scheme participant who is deemed to supply services in the State in accordance with *section 34(l)* shall be bound by the requirements of *subparagraphs (i)*, *(ii)* and *(iv)* in relation to such supplies.
+
+(13) An identified person shall notify the Revenue Commissioners electronically—
+
+(*a*) of any changes in the information submitted under *subsection (4)*, and
+
+(*b*) if his or her taxable activity ceases or changes to the extent that he or she no longer qualifies for the electronic services scheme.
+
+(14) The Revenue Commissioners shall exclude an identified person from the identification register if—
+
+(*a*) they have reasonable grounds to believe that the person’s taxable activities have ended, or
+
+(*b*) the identified person—
+
+(i) notifies the Commissioners that he or she no longer supplies electronic services,
+
+(ii) no longer fulfils the requirements necessary to be allowed to use the electronic services scheme, or
+
+(iii) persistently fails to comply with the provisions of the electronic services scheme.
+
+(15) The Revenue Commissioners may make regulations as necessary for the purpose of giving effect to the electronic services scheme.
+
+F255[(16) This section shall not apply to electronic services supplied on or after 1 January 2015.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F255: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(h), in effect as per reg. 2(1).
+
+### Chapter 2Special Schemes for Telecommunications Services, Broadcasting Services and Electronically Supplied Services — F256[Chapter 2 — F257[Special schemes for taxable persons supplying services to non-taxable persons, making intra-Community distance sales of goods, making certain domestic supplies of goods or importing goods]] — Annotations Amendments: Inserted (1.01.2015) by European Union (Value-Added Tax) Regulations 2014 (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1). Substituted (1.07.2021) by European Union (Value-Added Tax) Regulations 2021 (S.I. No. 327 of 2021), reg. 15, in effect as per reg. 2.
+
+#### 91A. Definitions
+
+F258[**91A**.— In this Chapter—
+
+“broadcasting services” means either or both radio and television broadcasting services;
+
+“EU value-added tax” means value-added tax referred to in the VAT Directive and includes tax within the meaning of *section 2*;
+
+“identified person” has the meaning assigned to it by *section 91B(4)* or *91D(4)*, as the case may be;
+
+F260[“Implementing Regulation” means Council Implementing Regulation (EU) 282/2011 of 15 March 2011[^16] (as amended by Council Regulation (EU) 967/2012 of 9 October 2012[^17], Council Regulation (EU) 2019/2026 of 21 November 2019[^18] and Council Regulation (EU) 2020/1112 of 20 July 2020[^19]);]
+
+F267[“import scheme” means the scheme for the payment of value-added tax provided for in *sections 91I* to *91K*;]
+
+F268[“intrinsic value” has the same meaning as it has in Article 1(48) of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015[^20];]
+
+F261[“Member State of consumption” means—
+
+(*a*) in the case of the non-Union scheme, the Member State in which the supply of scheme services is deemed to take place according to Chapter 3 of Title V of the VAT Directive, and
+
+(*b*) in the case of the Union scheme—
+
+(i) in respect of the supply of scheme services, the Member State in which the supply is deemed to take place according to Chapter 3 of Title V of the VAT Directive,
+
+(ii) in respect of the intra-Community distance sales of goods, the Member State where the dispatch or transport to the consumer ends, and
+
+(iii) in respect of the supply of goods made by a taxable person facilitating those supplies in accordance with *section 91G(1)(b)*, and where the dispatch or transport of the goods supplied begins and ends in the same Member State, that Member State;]
+
+F262[“Member State of identification” means—
+
+(*a*) in the case of the non-Union scheme, the Member State in which the taxable person applies to be identified for the purposes of that scheme, and
+
+(*b*) in the case of the Union scheme—
+
+(i) the Member State in which the taxable person has established his or her business,
+
+(ii) where the taxable person has not established his or her business in the Community, but has a fixed establishment in the Community, the Member State in which he or she has that fixed establishment,
+
+(iii) where the taxable person has not established his or her business in the Community and has no fixed establishment in the Community, the Member State in which the dispatch or transport of the goods begins,
+
+(iv) where the taxable person has not established his or her business in the Community, and has more than one fixed establishment in the Community, the Member State in which he or she has a fixed establishment and which he or she has chosen to be the Member State of identification for the purposes of the Union scheme, or
+
+(v) where the taxable person has not established his or her business in the Community and has no fixed establishment in the Community, and there is more than one Member State in which the dispatch or transport of the goods begins, the Member State in which the dispatch or transport of the goods begins which he or she has chosen to be the Member State of identification for the purposes of the Union scheme.]
+
+“national tax number” means a number (whether consisting of either or both numbers and letters) assigned to a taxable person who has not established his or her place of business in the Community by the person’s own national taxation authority;
+
+F263[“non-Union scheme” means the scheme for scheme services supplied by a taxable person whose business is not established in the Community, and who has no fixed establishment in the Community;]
+
+F269[“qualifying domestic supplies of goods” means supplies of goods facilitated through the use of an electronic interface such as a marketplace, platform, portal or similar means in accordance with Article 14a(2) of the VAT Directive where the dispatch or transport of those goods begins and ends in the same Member State;]
+
+F264[“scheme services” means services supplied to non-taxable persons within the Community;]
+
+F270[“taxable person not established within the Community” means a taxable person who has not established his or her business in the Community and who has no fixed establishment there;]
+
+F271[“taxable person not established in the Member State of consumption” means a taxable person who has established his or her business in the Community or who has a fixed establishment there but who has not established his or her business, and has no fixed establishment, within the territory of the Member State of consumption;]
+
+F265[“Union scheme” means the scheme for—
+
+(*a*) scheme services, supplied by a taxable person whose business is established in the Community or who has a fixed establishment in the Community but whose business is not established in, and who has no fixed establishment in, the Member State of consumption,
+
+(*b*) intra-Community distance sales of goods, and
+
+(*c*) qualifying domestic supplies of goods;]
+
+F266[“VAT return” means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of the following supplies within the scope of the Union or non-Union scheme, as the case may be, made during a calendar quarter:
+
+(*a*) supplies of scheme services;
+
+(*b*) intra-Community distance sales of goods;
+
+(*c*) qualifying domestic supplies of goods.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F258: Inserted (1.10.2014) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(2).
+>
+> F259: Deleted (1.01.2019) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(c), in effect as per reg. 2.
+>
+> F260, F261, F262, F263, F264, F265, F266: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 16(a)-(g), in effect as per reg. 2.
+>
+> F267, F268, F269, F270, F271: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 16(h), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E78: Definition of non-Union scheme amended (1.01.2019) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(c), in effect as per reg. 2; substituted as per F-note above.
+
+#### 91B. Non-Union scheme (where the State is Member State of identification)
+
+F272[**91B**.—(1)(*a*) A taxable person may opt to apply the non-Union scheme to his or her supplies of scheme services within the Community, provided that the taxable person—
+
+(i) makes or intends to make supplies of scheme services in the course or furtherance of business, and
+
+F273[(ii) has not established his or her business in the Community and has no fixed establishment in the Community.]
+
+(*b*) A taxable person may not be registered in the State for the purposes of the non-Union scheme if he or she—
+
+(i) is already identified in another Member State for the purposes of the non-Union scheme F274[...], or
+
+(ii) is excluded from applying the non-Union scheme by Article 363 of the VAT Directive or Article 58 of the Implementing Regulation.
+
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “identification register”) of persons who are identified in the State for the purposes of the non-Union scheme.
+
+(3) A person who opts to be identified in the State for the purposes of the non-Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details:
+
+(*a*) the person’s name and postal address;
+
+(*b*) his or her electronic addresses, including website addresses;
+
+(*c*) his or her national tax number (if any);
+
+(*d*) the date when his or her supplies of scheme services shall commence or have commenced;
+
+(*e*) any previous registrations in any other Member State under the provisions of the non-Union scheme in that Member State, and
+
+F273[(*f*) a statement that the person has not established his or her business in the Community and has no fixed establishment in the Community.]
+
+(4)(*a*) Where a person has provided the details required under *subsection (3)* and the Revenue Commissioners are satisfied that the requirements for registration for the purposes of the non-Union scheme are met they shall—
+
+(i) register that person in the identification register,
+
+(ii) allocate to that person an identification number, and
+
+(iii) notify that person by electronic means of the identification number and the date from which the registration takes effect.
+
+(*b*) For the purposes of this section, a person to whom such an identification number has been allocated under *paragraph (a)(ii)* shall be referred to as an “identified person”.
+
+(5) An identified person shall notify the Revenue Commissioners by electronic means of the following:
+
+(*a*) any changes in the details provided under *subsection (3)*;
+
+(*b*) if his or her taxable activity ceases or changes to the extent that he or she no longer satisfies the conditions specified in *subsection (1)(a)*;
+
+(*c*) if he or she wishes to de-register from the non-Union scheme.]
+
+F275[(6) The Revenue Commissioners shall remove an identified person from the identification register if—
+
+(*a*) they have reasonable grounds to believe that the identified person’s taxable activities have ceased,
+
+(*b*) the identified person has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the non-Union scheme, or
+
+(*c*) the identified person notifies the Commissioners under *subsection (5)(b)* or (*c*).
+
+(7)(*a*) Subject to *paragraph (b)*, an identified person shall F276[by the end of the month] immediately following the end of each calendar quarter—
+
+(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the non-Union scheme and prepared in accordance with, and containing such particulars as are specified in, *subsection (8)*, in respect of supplies of scheme services made in the Community in that quarter, and
+
+(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to—
+
+(I) supplies of scheme services made in the State in accordance with F277[*Chapters 3* and *4* of *Part 4*], and
+
+(II) supplies of scheme services made in other Member States in accordance with the provisions implementing Article 58 of the VAT Directive.
+
+(*b*) Where an identified person has not made any such supplies of scheme services during a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.
+
+(8) The VAT return referred to in *subsection (7)* shall be made in euro and shall contain—
+
+(*a*) the person’s identification number,
+
+(*b*) for each Member State where EU value-added tax has become due in respect of supplies of scheme services—
+
+(i) the total value, exclusive of EU value-added tax, of supplies of scheme services made during the calendar quarter,
+
+(ii) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(iii) the amount of EU value-added tax corresponding to such value at the applicable rate or rates,
+
+and
+
+(*c*) the total EU value-added tax due, if any.
+
+(9) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro on the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to any value-added tax incurred by him or her in the Community.
+
+F278[(10A) Notwithstanding *subsection (10)*, where an identified person is required to be registered in the State under *section 65* in respect of activities other than those undertaken under the non-Union scheme, any deduction made in accordance with *section 59* shall include the tax charged in respect of all taxable activities covered by this scheme.]
+
+F279[(11) (*a*) Without prejudice to the provisions of *section 99*, where corrections to a VAT return (“the initial return”) are required after it has been submitted, the corrections shall be included in a subsequent VAT return submitted by electronic means within 3 years from the date on which the initial return was required to be submitted in accordance with *subsection (7)*.
+
+(*b*) The correction to the VAT return referred to in *paragraph (a)* shall contain—
+
+(i) the Member State of consumption to which the scheme services are supplied,
+
+(ii) the calendar quarter to which the correction relates, and
+
+(iii) the amount of value-added tax for which any corrections are required.]
+
+(12) Where, on the 10th day following the due date for submission of the VAT return in accordance with *subsection (7)(a)*, the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the identified person.
+
+(13) Where a VAT return has been submitted but no payment or only partial payment has been made, the Revenue Commissioners shall issue a reminder by electronic means to the identified person on the 10th day following the due date for payment of the EU value-added tax in accordance with *subsection (7)(a)*.
+
+(14) An identified person shall—
+
+(*a*) keep records of all transactions covered by the non-Union scheme and those records shall be sufficiently detailed, in accordance with Article 63c of the Implementing Regulation, to enable the Member State of consumption to verify that the VAT return is correct,
+
+(*b*) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(*c*) make such records available, by electronic means and on request, to the relevant Member State of consumption, and
+
+(*d*) notwithstanding *section 84*, retain such records for each transaction until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F272: Inserted (1.10.2014) by *European Union (Value-Added Tax) Regulations* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(2).
+>
+> F273: Substituted (1.01.2018) by *European Union (Value-Added Tax) Regulations 2018* (S.I. No. 581 of 2018), reg. 3(d)(i), (ii), in effect as per reg. 2.
+>
+> F274: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 17(a), in effect as per reg. 2.
+>
+> F275: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F276, F277: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 17(b)(i), (ii), in effect as per reg. 2.
+>
+> F278: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 17(c), in effect as per reg. 2.
+>
+> F279: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 17(d), in effect as per reg. 2.
+
+#### 91C. Non-Union scheme (where the State is Member State of consumption)
+
+F280[**91C**.—(1) A person who—
+
+(*a*) is an identified person within the meaning of *section 91B*, or
+
+(*b*) applies the non-Union scheme under the provisions implementing the scheme in another Member State, where that other Member State is the Member State of identification,
+
+shall be an accountable person for the purposes of this Act in relation to scheme services only insofar as those services are supplied in the State F281[in accordance with *Chapter 3* of *Part 4*] and, in relation to those supplies, for the purposes of this section shall be referred to as a “scheme participant”.
+
+(2) A scheme participant shall be regarded as having fulfilled his or her obligations as an accountable person under F287[*subsection (3)(a)* of *section 65*] and shall not otherwise be obliged or entitled to be registered under that section.
+
+(3) A scheme participant shall furnish the VAT return required for a calendar quarter under the provisions of the non-Union scheme to the tax authorities of the Member State of identification F282[by the end of the month] immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that the VAT return relates to scheme services taxable in the State, the VAT return shall be—
+
+(*a*) treated, with any necessary modifications, as if it were a return required to be furnished in accordance with *section 76*, and
+
+(*b*) deemed to have been received by the Collector-General on the date it was received by the tax authorities of the Member State of identification,
+
+and this Act shall apply to the scheme participant and have effect as if in *section 76(1)*—
+
+F283[(i) “by the end of the month” were substituted for “within 9 days immediately after the 10th day of the month”,]
+
+(ii) “a calendar quarter” were substituted for “a taxable period”, and
+
+(iii) in *paragraphs (a)(i)* and (*b*) “that calendar quarter” were substituted for “that taxable period” in each place.
+
+(4) A scheme participant shall remit the tax payable in relation to a calendar quarter under the provisions of the non-Union scheme to the tax authorities of the Member State of identification F284[by the end of the month] immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that the tax payable relates to scheme services taxable in the State, the tax payable shall be—
+
+(*a*) treated as if it were tax payable in accordance with *section 76*, and
+
+(*b*) deemed to have been paid to the Collector-General on the date it was received by the tax authorities of the Member State of identification,
+
+and this Act shall apply to the scheme participant and have effect as if in *section 76(1)*—
+
+F285[(i) “by the end of the month” were substituted for “within 9 days immediately after the 10th day of the month”,]
+
+(ii) “a calendar quarter” were substituted for “a taxable period”, and
+
+(iii) in *paragraphs (a)(i)* and *(b)* “that calendar quarter” were substituted for “that taxable period” in each place.
+
+(5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(6) Notwithstanding *Chapter 1* of *Part 8*, a scheme participant—
+
+(*a*) shall not, in computing the amount of tax payable by him or her in respect of scheme supplies, be entitled to deduct any tax borne or paid in relation to those supplies, but
+
+F286[(*b*) shall—
+
+(i) be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, Council Directive No. 86/560/EEC of 17 November 1986[^21], notwithstanding Articles 2(2) and (3) and 4(2) of that Directive, or
+
+(ii) where that scheme participant is an accountable person other than in relation to supplies of scheme services, subject to Chapter 1 of Part 8, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with *Chapter 3* of *Part 9*.]
+
+(7) Notwithstanding *section 84*, a scheme participant who supplies scheme services which, in accordance with *section 34(kc)*, are supplied in the State shall be bound by the requirements of *section 91B(14)(a)*, *(b)* and *(d)* in relation to such supplies and retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F280: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F281, F282, F283, F284, F285, F286: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 18(a)-(d), in effect as per reg. 2.
+>
+> F287: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 55(b), commenced on enactment.
+
+#### 91D. Union scheme (where the State is Member State of identification)
+
+F288[**91D**.—(1) F289[(*a*) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services, intra-Community distance sales of goods and qualifying domestic supplies of goods, provided that the taxable person—
+
+(i) makes or intends to make qualifying supplies of scheme services, intra-Community distance sales of goods and qualifying domestic supplies of goods in the course or furtherance of business,
+
+(ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, or if he or she has not established his or her business in the Community and does not have a fixed establishment in the State, the taxable person supplies goods from the State and has indicated that he or she wishes to identify in the State for the purposes of the Scheme, and
+
+(iii) has been assigned a registration number under *section 65(2).*]
+
+(*b*) For the purposes of this section, subject to *paragraph (c)*, a supply of a scheme service is a qualifying supply of a scheme service where—
+
+(i) the service is supplied to a non-taxable person in a Member State other than the State, and
+
+(ii) the taxable person does not have a fixed establishment in that other Member State.
+
+(*c*) A taxable person may not be registered in the State for the purposes of the Union scheme if he or she—
+
+(i) is already identified in another Member State for the purposes of F291[...] the Union scheme, or
+
+(ii) is excluded from applying the Union scheme by any provision of the Implementing Regulation.
+
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “identification register”) of persons who are identified in the State for the purposes of the Union scheme.
+
+(3) A person who opts to be identified in the State for the purposes of the Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details (unless that information has already been provided):
+
+(*a*) the person’s name and postal address;
+
+(*b*) his or her electronic addresses, including website addresses;
+
+(*c*) the registration number assigned to the person under *section 65(2)*;
+
+F290[(*d*) the date of commencement of supplies made under the Union scheme;]
+
+(*e*) the date from which the person wishes to be identified in the State;
+
+(*f*) any fixed establishments of that person in the Community (other than fixed establishments belonging to a group within the meaning of *section 15*);
+
+(*g*) any previous registrations in any other Member State under the provisions of the Union scheme in that Member State, and
+
+(*h*) such other information, necessary for the purpose of identification for the scheme, as may be specified in the form.
+
+(4)(*a*) Where a person has provided the details required under *subsection (3)* and the Revenue Commissioners are satisfied that the requirements for registration for the purposes of the Union scheme are met they shall—
+
+(i) register that person in the identification register, and
+
+(ii) notify that person by electronic means of the date from which the registration takes effect.
+
+(*b*) For the purposes of this section, a person who has been registered under *paragraph (a)* shall be referred to as an “identified person”.
+
+F292[(*c*) Where the taxable person has not established his or her business in the Community and has more than one fixed establishment in the Community including a fixed establishment in the State, and has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.
+
+(*d*) Where the taxable person has not established his or her business in the Community and has no fixed establishment therein, and there is more than one Member State in which the dispatch or transport of the goods begins, including the State, and the taxable person has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.]
+
+(5) An identified person shall notify the Revenue Commissioners by electronic means of the following:
+
+(*a*) any changes in the details provided under *subsection (3)*;
+
+(*b*) if his or her taxable activity ceases or changes to the extent that he or she no longer satisfies the conditions specified in *subsection (1)(a)*;
+
+(*c*) if he or she wishes to de-register from the Union scheme.]
+
+F293[(6) The Revenue Commissioners shall remove an identified person from the identification register if—
+
+(*a*) they have reasonable grounds to believe that the identified person’s taxable activities have ceased,
+
+(*b*) the identified person has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the Union scheme, or
+
+(*c*) the identified person notifies the Commissioners under *subsection (5)(b)* or *(c)*.
+
+F294[(7) (*a*) Subject to *paragraph (b)*, an identified person shall, by the end of the month immediately following the end of each calendar quarter—
+
+(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the Union scheme and prepared in accordance with, and containing such particulars as are specified in, *subsection (8)*, in respect of—
+
+(I) qualifying supplies of scheme services,
+
+(II) qualifying domestic supplies of goods, and
+
+(III) intra-Community distance sales of goods, made in the Community in that quarter, and
+
+(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to—
+
+(I) qualifying supplies of scheme services,
+
+(II) qualifying domestic supplies of goods, and
+
+(III) intra-Community distance sales of goods.
+
+(*b*) Where an identified person has not made any such—
+
+(i) qualifying supplies of scheme services,
+
+(ii) qualifying domestic supplies of goods, or
+
+(iii) intra-Community distance sales of goods,
+
+during a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.]
+
+F295[(8) (*a*) The VAT return referred to in *subsection (7)* shall be made in euro and shall contain—
+
+(i) the person’s identification number,
+
+(ii) for each Member State where EU value-added tax has become due in respect of qualifying supplies of scheme services, qualifying domestic supplies of goods or intra-Community distance sales of goods—
+
+(I) the total value, exclusive of EU value-added tax, of qualifying supplies of scheme services, qualifying domestic supplies of goods, or intra-Community distance sales of goods made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and (iii) the total EU value-added tax due, if any.
+
+(*b*) Where a taxable person makes intra-Community distance sales of goods, other than those to which *section 91G(1)(b)* applies, and those goods are dispatched or transported from a Member State other than the State, the VAT return referred to in *subsection (7)* shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which the goods are dispatched or transported,
+
+(ii) for each Member State where EU value-added tax has become due in respect of intra-Community distance sales of goods other than those to which *section 91G(1)(b)* applies, and those goods are dispatched or transported from a Member State other than the State, and for each Member State from which the goods are dispatched or transported—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of intra-Community distance sales of goods other than those to which *section 91G(1)(b)* applies, and those goods are dispatched or transported from a Member State other than the State, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due in each Member State from which the goods are dispatched or transported, if any.
+
+(*c*) Where a taxable person makes intra-Community distance sales of goods to which *section 91G(1)(b)* applies and the goods are dispatched or transported from a Member State other than the State, or makes qualifying domestic supplies of goods to which *section 91G(1)(b)* applies and the dispatch or transport of those goods begins and ends in the same Member State, the VAT return referred to in *subsection (7)* shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which the goods are dispatched or transported, if available,
+
+(ii) for each Member State where EU value-added tax has become due in respect of intra-Community distance sales of goods and qualifying domestic supplies of goods—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of intra-Community distance sales of goods and qualifying domestic supplies of goods, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due in each Member State from which the goods are dispatched or transported from, if any.
+
+(*d*) Where a person supplying scheme services has one or more fixed establishments in the Community from which scheme services are provided, other than that in the Member State of identification, the VAT return referred to in *subsection (7)* shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which scheme services are provided, and,
+
+(ii) for each Member State from which scheme services are provided, and for each Member State to which the scheme services are supplied—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of scheme services, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due, if any.]
+
+(9) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro on the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to value-added tax deductible pursuant to Article 168 of the VAT Directive.
+
+F296[(11) (*a*) Without prejudice to the provisions of *section 99*, where corrections to a VAT return (“the initial return”) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with *subsection (7)*.
+
+(*b*) The correction to the VAT return referred to in *paragraph (a)* shall contain—
+
+(i) the Member State of consumption of the goods or services,
+
+(ii) the calendar quarter to which the correction is made, and
+
+(iii) the amount of value-added tax for which a correction is required.]
+
+(12) Where, on the 10th day following the due date for submission of the VAT return in accordance with *subsection (7)(a)*, the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the identified person.
+
+(13) Where the VAT return has been submitted but no payment or only partial payment has been made, the Revenue Commissioners shall issue a reminder by electronic means to the identified person on the 10th day following the due date for payment of the EU value-added tax in accordance with *subsection (7)(a)*.
+
+(14) An identified person shall—
+
+(*a*) keep records of all transactions covered by the Union scheme and those records shall be sufficiently detailed, in accordance with Article 63c of the Implementing Regulation, to enable the Member State of consumption to verify that the VAT return is correct,
+
+(*b*) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(*c*) make such records available, by electronic means and on request, to the relevant Member State of consumption, and
+
+(*d*) notwithstanding *section 84*, retain such records for each transaction until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F288: Inserted by (1.10.2014) *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F289, F290: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 19(a)(i),(b), in effect as per reg. 2.
+>
+> F291: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 19(a)(ii), in effect as per reg. 2.
+>
+> F292: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 19(c), in effect as per reg. 2.
+>
+> F293: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F294, F295, F296: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 19(d)-(f), in effect as per reg. 2.
+
+#### 91E. Union scheme (where the State is Member State of consumption)
+
+F297[**91E**.—F298[(1) A person who applies the Union scheme under the provisions implementing the scheme in another Member State, where that other Member State is the Member State of identification, and who—
+
+(*a*) supplies scheme services,
+
+(*b*) makes intra-Community distance sales of goods, or
+
+(*c*) makes qualifying domestic supplies of goods, which are taxable in the State shall, in relation to those supplies or sales, be an accountable person for the purposes of this Act and, for the purposes of this section, shall be referred to as a “scheme participant”.]
+
+F299[(2) Notwithstanding F300[*subsection (3)(a)* of *section 65*], a scheme participant shall, in relation to—
+
+(*a*) supplies of scheme services,
+
+(*b*) intra-Community distance sales of goods, or
+
+(*c*) qualifying domestic supplies of goods,
+
+be regarded as having fulfilled his or her obligations as an accountable person under that subsection and shall not be obliged or entitled to be registered under that section unless he or she is an accountable person other than in relation to those supplies or sales.]
+
+(3) A scheme participant shall furnish the VAT return required for a calendar quarter under the provisions of the Union scheme to the tax authorities of the Member State of identification F301[by the end of the month] immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that the VAT return relates to F302[scheme services, intra-Community distance sales of goods or qualifying domestic supplies of goods, taxable in the State,] the VAT return shall be—
+
+(*a*) treated, with any necessary modifications, as if it were a return required to be furnished in accordance with *section 76*, and
+
+(*b*) deemed to have been received by the Collector-General on the date it was received by the tax authorities of the Member State of identification,
+
+and this Act shall apply to a scheme participant and have effect as if in *section 76(1)*—
+
+F303[(i) “by the end of the month” were substituted for “within 9 days immediately after the 10th day of the month”,]
+
+(ii) “a calendar quarter” were substituted for “a taxable period”, and
+
+(iii) in *paragraphs (a)(i)* and *(b)* “that calendar quarter” were substituted for “that taxable period” in each place.
+
+F304[(4) A scheme participant shall remit the tax payable in relation to a calendar quarter under the provisions of the Union scheme to the tax authorities of the Member State of identification by the end of the month immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that that tax payable relates to—
+
+(*a*) supplies of scheme services,
+
+(*b*) intra-Community distance sales of goods, or
+
+(*c*) qualifying domestic supplies of goods, taxable in the State, the tax payable shall be—
+
+(i) treated as if it were tax payable in accordance with *section 76*, and
+
+(ii) deemed to have been paid to the Collector-General on the date it was received by the tax authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in *section 76(1)*—
+
+(I) “by the end of the month” were substituted for “within 9 days immediately after the 10th day of the month”,
+
+(II) “a calendar quarter” were substituted for “a taxable period”, and
+
+(III) in *paragraphs (a)(i)* and *(b)* “that calendar quarter” were substituted for “that taxable period” in each place.]
+
+(5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+F305[(6) A scheme participant—
+
+(*a*) shall not, in computing the amount of tax payable by him or her in respect of supplies of scheme services, intra-Community distance sales of goods or qualifying domestic supplies of goods, be entitled to deduct any tax borne or paid in relation to those supplies or sales in the VAT return, but
+
+(*b*) shall—
+
+(i) be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, *section 101*, notwithstanding *subsection (14)* of that section, or
+
+(ii) where that scheme participant is an accountable person other than in relation to supplies of scheme services, intra-Community distance sales of goods or qualifying domestic supplies of goods, subject to *Chapter 1* of *Part 8*, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with *Chapter 3* of *Part 9*.]
+
+F306[(7) Notwithstanding *section 84*, a scheme participant who supplies scheme services, makes intra-Community distance sales of goods or makes qualifying domestic supplies of goods, which are taxable in the State, shall be bound by the requirements of *section 91D(14)(a)*, *(b)* and *(d)* in relation to such supplies or sales and shall retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F297: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F298, F299: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 20(a),(b), in effect as per reg. 2.
+>
+> F300: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 55(c), commenced on enactment.
+>
+> F301, F302, F303: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 20(c)(i)-(iii), in effect as per reg. 2.
+>
+> F304, F305, F306: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 20(d)-(f), in effect as per reg. 2.
+
+#### 91F. Regulations: special schemes for telecommunications services, broadcasting services and electronically supplied services
+
+F307[F308[**91F**.—(1) The Revenue Commissioners may make regulations as necessary for the purposes of giving effect to the non-Union scheme or the Union scheme, as the case may be.
+
+(2) The Revenue Commissioners may make regulations as necessary for the purposes of giving effect to the schemes contained in *sections 91G* to *91K*.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F307: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(i), in effect as per reg. 2(1).
+>
+> F308: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 21, in effect as per reg. 2.
+
+#### 91G. Electronic interfaces facilitating distance sales of goods
+
+F309[**91G.**—(1) (*a*) Where a taxable person facilitates (within the meaning of Article 5b of the Implementing Regulation), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the distance sale of goods imported from third territories or third countries in consignments of an intrinsic value which does not exceed €150, the taxable person shall be deemed to have received and supplied those goods himself or herself.
+
+(*b*) Where a taxable person facilitates (within the meaning aforesaid), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the supply of goods within the Community by a taxable person not established within the Community to a non-taxable person, the taxable person who facilitates the supply shall be deemed to have received and supplied those goods himself or herself.
+
+(2) Where a taxable person is deemed, by virtue of *paragraph (a)* or *(b)*, as the case may be, of *subsection (1)*, to have received and supplied goods, the dispatch or transport of the goods shall be ascribed to the supply made by that taxable person.
+
+(3) Where a taxable person is the deemed supplier of the goods concerned by virtue of *paragraph (a)* or *(b)*, as the case may be, of *subsection (1)*, such taxable person shall—
+
+(*a*) keep records of all transactions which are facilitated (within the meaning of *subsection (1)* through the use of the electronic interface and those records shall be sufficiently detailed, in accordance with Article 54c(1) of the Implementing Regulation, to enable the Member State in which the transactions are taxable to verify that the VAT return is correct,
+
+(*b*) make such records available, by electronic means and on request, to the Revenue Commissioners, and
+
+(*c*) make such records available, by electronic means and on request, to the relevant Member State in which the transactions are taxable.
+
+(4) A taxable person who facilitates (within the meaning of Article 54b of the Implementing Regulation) the supply of goods and services through the use of an electronic interface such as a marketplace, platform, portal or similar means to a non-taxable person within the Community in accordance with Title V of the VAT Directive where the taxable person is neither—
+
+(*a*) presumed to be acting in his or her own name for the supply of services under Article 9a of the Implementing Regulation, nor
+
+(*b*) deemed to have supplied the goods by virtue of *paragraph (a)* or *(b)*, as the case may be, of *subsection (1)*, shall—
+
+(i) keep records of all transactions which are facilitated (within the meaning aforesaid) through the use of the electronic interface and those records shall be sufficiently detailed, in accordance with Article 54c(2) of the Implementing Regulation, to enable the Member State in which the transactions are taxable to verify that the VAT return is correct,
+
+(ii) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(iii) make such records available, by electronic means and on request, to the relevant Member State in which the transactions are taxable, and
+
+(iv) notwithstanding *section 84*, retain such records for each transaction until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F309: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 22, in effect as per reg. 2.
+
+#### 91H. F310[Special arrangements for value-added tax on import
+
+**91H.**—(1) In this section “special arrangements for value-added tax on import” means the arrangements provided for in this section for the payment of value-added tax on import by the person presenting the goods to customs on behalf of the person to whom the goods are destined.
+
+(2) Where—
+
+(*a*) goods are imported into the State in a consignment with an intrinsic value which does not exceed €150,
+
+(*b*) the goods referred to in *paragraph (a)* are not subject to duties of excise,
+
+(*c*) the arrangements set out in *section 91I* have not been used to pay the value-added tax due on importation, and
+
+(*d*) the dispatch or transport of the goods ends in the State,
+
+the person presenting the goods to customs may pay the value-added tax on import due on behalf of the person to whom the goods are destined.
+
+(3) A person who wishes to apply the special arrangements for value-added tax on import shall—
+
+(*a*) be subject to the conditions applicable for the deferment of payment of customs duty in accordance with Regulation (EU) No. 952/2013[^22] of the European Parliament and of the Council, and
+
+(*b*) complete and submit to the Revenue Commissioners such application form as may be provided by the Revenue Commissioners for the purpose of the application of the special arrangements.
+
+(4) Where the person presenting the goods to customs decides to use the special arrangements for value-added tax on import—
+
+(*a*) the person for whom the goods are destined shall be liable for the payment of value-added tax, and
+
+(*b*) the person presenting the goods to customs shall—
+
+(i) collect the value-added tax due from the person for whom the goods are destined,
+
+(ii) take appropriate measures to ensure that the correct amount of value-added tax is paid by the person for whom the goods are destined, and
+
+(iii) pay the value-added tax collected to the Revenue Commissioners.
+
+(5) Where the person presenting the goods to customs uses the special arrangements for value-added tax on import, the value-added tax rate applicable to those goods is the value-added tax rate specified in *section 46(1)(a)*.
+
+(6) (*a*) Subject to *paragraph (b)*, the person presenting the goods to customs shall, not later than the 15th day of the month immediately following the month of importation of the goods concerned—
+
+(i) furnish by electronic means to the Revenue Commissioners a declaration in the form made available by the Commissioners for that purpose and prepared by the person concerned in accordance with, and containing such particulars as are specified in, *subsection (7)*, in respect of value-added tax collected through the use of the special arrangements for value-added tax on import in the month of importation of the goods, and
+
+(ii) remit to the Revenue Commissioners, at the same time as so furnishing the declaration referred to in *subparagraph (i)* into a bank account designated by them and denominated in euro, the amount of value-added tax (if any) so collected.
+
+(*b*) Where the person presenting the goods to customs has not collected any value-added tax due on import through the use of the special arrangements for value-added tax on import during a month, he or she shall furnish a nil declaration to the Revenue Commissioners in respect of that month.
+
+(7) The declaration referred to in *subsection (6)* shall contain the following particulars for the relevant month:
+
+(*a*) the total value added tax collected during that month;
+
+(*b*) the master reference number (within the meaning of Article 1(22) of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015[^23]) of declarations, where special arrangements for value-added tax on import have been applied, submitted for customs purposes where the value-added tax amount declared for customs purposes has been collected during the month;
+
+(*c*) the master reference number (within the meaning aforesaid) of declarations, where special arrangements for value-added tax on import have been applied, submitted for customs purposes where the value-added tax amount declared for customs purposes has not been collected during the month, and
+
+(*d*) the master reference number (within the meaning aforesaid) of—
+
+(i) relevant declarations submitted for customs purposes which have been invalidated, and
+
+(ii) the original corresponding declaration submitted for customs purposes.
+
+(8) A person using the special arrangements for value-added tax on import shall—
+
+(*a*) keep records of all transactions covered by those arrangements and those records shall be sufficiently detailed to verify that the value-added tax paid is correct,
+
+(*b*) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(*c*) notwithstanding *section 84*, retain such records for each such transaction until the expiry of a period of 3 years from 31 December of the year during which the transaction took place.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F310: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 22, in effect as per reg. 2.
+
+#### 91I. Import scheme - interpretation and general provisions
+
+F311[**91I.**—(1) In this section and *sections 91J* and *91K*—
+
+“intermediary” means a person established in the Community appointed by the taxable person making distance sales of goods imported from third territories or third countries as the person liable for the payment of the value-added tax and to fulfil the obligations laid down in the import scheme in the name and on behalf of the taxable person;
+
+“Member State of consumption” means the Member State where the dispatch or transport of the goods to the customer ends;
+
+“Member State of identification” means—
+
+(*a*) the Member State in which the taxable person has established his or her business,
+
+(*b*) if the taxable person has not established his or her business in the Community but has one or more fixed establishments therein, the Member State in which he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of the import scheme,
+
+(*c*) the Member State in which the taxable person chooses to register for the purposes of the import scheme, where that taxable person is not established within the Community,
+
+(*d*) the Member State in which the intermediary has established his or her business, or
+
+(*e*) if the intermediary has not established his or her business in the Community but has one or more fixed establishments therein, the Member State in which he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of the scheme;
+
+“VAT return” means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of distance sales of goods imported from third territories or third countries during a month.
+
+(2) For the purposes of *paragraphs (b)* and *(e)* of the definition of “Member State of identification” in *subsection (1)*, where the taxable person or the intermediary has more than one fixed establishment in the Community, he or she shall be bound by the decision to indicate the Member State of establishment for the calendar year concerned and the following two calendar years.
+
+(3) *Sections 91J* and *91K* apply to distance sales of goods imported from third territories or third countries, except products subject to duties of excise, in consignments of an intrinsic value which does not exceed €150.
+
+(4) The following taxable persons are permitted to use the import scheme where they are making distance sales of goods imported from third territories or third countries:
+
+(*a*) any taxable person established in the Community;
+
+(*b*) any taxable person whether or not established in the Community who is represented by an intermediary established in the Community;
+
+(*c*) any taxable person established outside the Community in a state or territory with which the Union has concluded an agreement on mutual assistance similar in scope to Council Directive 2010/24/EU of 16 March 2010[^24] and Regulation (EU) 904/2010 of 7 October 2010[^25] and who is making distance sales of goods from that state or territory.
+
+(5) Where a taxable person makes use of the import scheme, it shall apply to all of that taxable person’s distance sales of goods imported from third territories or third countries.
+
+(6) Where a taxable person appoints an intermediary referred to in *subsection (4)(b)* for the purposes of the import scheme, the taxable person cannot appoint more than one intermediary at the same time.
+
+(7) Where value-added tax is declared on distance sales of goods imported from third territories or third countries under the import scheme, the goods shall be regarded as having been supplied at the time when the payment has been accepted and the value-added tax shall become chargeable at the time of that supply.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F311: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 22, in effect as per reg. 2.
+
+#### 91J. Import scheme (where the State is Member State of identification)
+
+F312[**91J.**—(1) A taxable person, or intermediary acting on behalf of a taxable person, who is identified in the State for the purposes of the import scheme, shall notify the Revenue Commissioners by electronic means when he or she commences or ceases his or her activity under the import scheme, or changes that activity in such a way that he or she no longer meets the conditions necessary for use of the import scheme.
+
+(2) A taxable person, or where applicable, his or her intermediary, may not be registered in the State for the purposes of the import scheme if he or she—
+
+(*a*) is already identified in another Member State for the purposes of this scheme, or
+
+(*b*) is excluded from applying this scheme by Article 369r of the VAT Directive or Article 58 of the Implementing Regulation.
+
+(3) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “import scheme identification register”) of persons who are identified in the State for the purposes of the import scheme.
+
+(4) A taxable person who does not make use of an intermediary, shall provide the following information to the Revenue Commissioners before the person commences use of the import scheme:
+
+(*a*) his or her name and postal address;
+
+(*b*) his or her electronic addresses, including website addresses;
+
+(*c*) his or her value-added tax identification number or national tax number.
+
+(5) An intermediary shall provide the following information to the Revenue Commissioners before the intermediary commences use of the import scheme on behalf of a taxable person:
+
+(*a*) his or her name and postal address;
+
+(*b*) his or her electronic addresses, including website addresses;
+
+(*c*) his or her value-added tax identification number identification number.
+
+(6) An intermediary shall also provide the following information to the Revenue Commissioners in respect of each taxable person that he or she represents before such taxable person commences use of the import scheme:
+
+(*a*) the person’s name and postal address;
+
+(*b*) the person’s electronic addresses, including website addresses;
+
+(*c*) the person’s value-added tax identification number or national tax number;
+
+(*d*) the person’s identification number allocated in accordance with *subsection (8)(b)(iii)*.
+
+(7) A taxable person or, where applicable, his or her intermediary, who registers for use of the import scheme in the State, shall notify the Revenue Commissioners of any changes in the information provided under *subsection (4)*, *(5)* or *(6)*, as the case may be.
+
+(8) (*a*) Where a taxable person has provided the information required under *subsection (4)* and the Revenue Commissioners are satisfied that the requirements for registration for the purposes of the import scheme are met, the Revenue Commissioners shall—
+
+(i) register the person in the import scheme identification register,
+
+(ii) allocate to that person an identification number for the purposes of the import scheme, and
+
+(iii) notify that person by electronic means of the identification number so allocated and the date from which registration takes effect.
+
+(*b*) Where an intermediary has provided the information required under *subsections (5)* and *(6)*, and the Revenue Commissioners are satisfied that the requirements for registration for the purposes of the import scheme are met, the Revenue Commissioners shall—
+
+(i) register the intermediary in the import scheme identification register,
+
+(ii) allocate to the intermediary an identification number identifying the intermediary as an intermediary for the purpose of the import scheme,
+
+(iii) allocate to the intermediary an identification number in respect of each taxable person in respect of whom the intermediary is appointed, and
+
+(iv) notify the intermediary by electronic means of the identification numbers so allocated and the date from which the registration takes effect.
+
+(*c*) The identification number allocated under *paragraph (a)* or *(b)* shall be used only for the purpose of the import scheme.
+
+(9) (*a*) The Revenue Commissioners shall remove a taxable person not making use of an intermediary from the import scheme identification register where—
+
+(i) the taxable person notifies the Revenue Commissioners that he or she no longer makes distance sales of goods imported from third territories or third countries,
+
+(ii) the taxable person no longer meets the conditions necessary for use of the import scheme,
+
+(iii) the taxable person has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the import scheme, or
+
+(iv) it may otherwise be assumed by the Revenue Commissioners that the taxable person’s taxable activities of distance sales of goods imported from third territories or third countries have ceased.
+
+(*b*) The Revenue Commissioners shall remove an intermediary from the import scheme identification register where the intermediary—
+
+(i) has not acted as an intermediary on behalf of a taxable person making use of the import scheme for a period of 2 consecutive calendar quarters,
+
+(ii) no longer meets the conditions necessary for acting as an intermediary, or
+
+(iii) has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the import scheme.
+
+(*c*) The Revenue Commissioners shall remove a taxable person represented by an intermediary from the import scheme identification register where—
+
+(i) the intermediary notifies the Revenue Commissioners that the taxable person no longer makes distance sales of goods imported from third territories or third countries,
+
+(ii) the taxable person no longer meets the conditions necessary for use of the import scheme,
+
+(iii) the intermediary notifies the Revenue Commissioners that he or she no longer represents the taxable person,
+
+(iv) the taxable person has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the import scheme, or
+
+(v) it may otherwise be assumed by the Revenue Commissioners that the taxable activities of distance sales of goods imported from third territories or third countries of the taxable person have ceased.
+
+(10) (*a*) Where it appears requisite to them to do so for the protection of the revenue, the Revenue Commissioners may, in the case where the taxable person concerned is established outside the Community and no legal instrument relating to mutual assistance similar in scope to that provided for in Council Directive 2010/24/EU of 16 March 2010[^26] and Council Regulation (EU) 904/2010 of 7 October 2010[^27] exists with the country in which that taxable person is established, serve on an intermediary and the taxable person by whom the intermediary is appointed a notice in writing in accordance with *paragraph (c)*.
+
+(*b*) An intermediary shall be jointly and severally liable with the taxable person by whom the intermediary is appointed for the tax due and payable on the taxable supplies of that taxable person under the import scheme and shall be liable to pay that tax as if it were tax due and payable by the intermediary.
+
+(*c*) A notice served under *paragraph (a)* shall—
+
+(i) specify the date from which the notice shall have effect,
+
+(ii) state that the intermediary shall, by virtue of this subsection, be jointly and severally liable with the taxable person specified in the notice for the payment of tax due and payable by that taxable person on the taxable supplies of that taxable person under the import scheme and shall be liable to pay that tax as if it were tax due and payable by the intermediary, and
+
+(iii) specify the taxable person with whom the intermediary is so jointly and severally liable.
+
+(11) (*a*) Subject to *paragraph (b)*, a taxable person or his or her intermediary shall by the end of the month immediately following the end of the period covered by the VAT return—
+
+(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the import scheme and prepared in accordance with, and containing such particulars as are specified in, *subsection (12)*, in respect of supplies under the import scheme made in the Community in that month, and
+
+(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that month in relation to—
+
+(I) distance sales of goods imported from third territories or third countries where the place of supply is the State determined in accordance with *section 30*, and
+
+(II) distance sales of goods imported from third territories or third countries where the place of supply is a Member State (other than the State) determined in accordance with the provisions implementing Article 33 of the VAT Directive.
+
+(*b*) Where a taxable person has not made any distance sales of goods imported from third territories or third countries during a month, he or she or his or her intermediary shall furnish a nil VAT return in respect of that month.
+
+(12) The VAT return referred to in *subsection (11)* shall be made in euro and shall contain—
+
+(*a*) the person’s identification number allocated under *subsection (8)*,
+
+(*b*) for each Member State where EU value-added tax has become due in respect of distance sales of goods imported from third territories or third countries—
+
+(i) the total value, exclusive of EU value-added tax, of distance sales of goods imported from third territories or third countries made during the month,
+
+(ii) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(iii) the amount of EU value-added tax corresponding to such value at the applicable rate or rates,
+
+and
+
+(*c*) the total EU value-added tax due, if any.
+
+(13) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the month to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(14) (*a*) Without prejudice to the provisions of *section 99*, where corrections to a VAT return (“the initial return”) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with *subsection (11)*.
+
+(*b*) Where a correction is included in a subsequent VAT return under *paragraph (a)*, the subsequent VAT return shall identify—
+
+(i) the Member State of consumption to which the correction relates,
+
+(ii) the period for which the correction is made, and
+
+(iii) the amount of value-added tax for which a correction is required.
+
+(15) A taxable person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to any value-added tax incurred by him or her in the Community.
+
+(16) Where, on the 10th day following the due date for submission of the VAT return in accordance with *subsection (11)(a)*, the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the taxable person or his or her intermediary.
+
+(17) Where a VAT return has been submitted but no payment or only partial payment has been made, the Revenue Commissioners shall issue a reminder by electronic means to the taxable person or his or her intermediary on the 10th day following the due date for payment of the EU value-added tax in accordance with *subsection (11)(a)*.
+
+(18) A taxable person and where applicable his or her intermediary shall—
+
+(*a*) keep records of all transactions covered by the import scheme and those records shall be sufficiently detailed, in accordance with Article 63c(2) of the Implementing Regulation, to enable the Member State of consumption to verify that the VAT return is correct,
+
+(*b*) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(*c*) make such records available, by electronic means and on request, to the relevant Member State of consumption, and
+
+(*d*) notwithstanding *section 84*, retain such records for each transaction until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F312: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 22, in effect as per reg. 2.
+
+#### 91K. Import scheme (where the State is Member State of consumption)
+
+F313[**91K.**—(1) A person who—
+
+(*a*) is registered in the import scheme identification register (within the meaning of *section 91J*), or
+
+(*b*) applies the special scheme for distance sales of goods imported from third territories or third countries under the provisions implementing that scheme in another Member State, where that other Member State is the Member State of identification, shall, in relation to goods supplied in the State under the import scheme, be an accountable person for the purposes of this Act and, in relation to those supplies, shall, for the purposes of this section, be referred to as a “scheme participant”.
+
+(2) Notwithstanding F314[*subsection (3)(a)* of *section 65*], a scheme participant shall, in relation to supplies covered by the import scheme, be regarded as having fulfilled his or her obligations as an accountable person under the said F315[*subsection (3)*] and shall not otherwise be obliged or entitled to be registered under that section for supplies covered by the import scheme.
+
+(3) A scheme participant shall furnish the VAT return required for a month under the provisions of the import scheme to the relevant authorities of the Member State of identification by the end of the month immediately following the end of the period covered by the return and, for the purposes of this Act, to the extent that the VAT return relates to goods supplied under the import scheme taxable in the State, the VAT return shall be—
+
+(*a*) treated, with any necessary modifications, as if it were a return required to be furnished in accordance with *section 76*, and
+
+(*b*) deemed to have been received by the Collector-General on the date it was received by the relevant authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in *section 76(1)*—
+
+(i) “by the end of the month immediately following the end of the period covered by the return” were substituted for “within 9 days immediately after the 10th day of the month immediately following a taxable period”,
+
+(ii) “a month” were substituted for “a taxable period”, and
+
+(iii) in *paragraphs (a)(i)* and *(b)* “that month” were substituted for “that taxable period” in each place.
+
+(4) A scheme participant shall remit the tax payable in relation to a month under the provisions of the import scheme to the relevant authorities of the Member State of identification by the end of the month immediately following the end of the period covered by the return and, for the purposes of this Act, to the extent that the tax payable relates to goods supplied under the import scheme taxable in the State, the tax payable shall be—
+
+(*a*) treated as if it were tax payable in accordance with *section 76*, and
+
+(*b*) deemed to have been paid to the Collector-General on the date it was received by the relevant authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in *section 76(1)*—
+
+(i) “by the end of the month immediately following the end of the period covered by the return” were substituted for “within 9 days immediately after the 10th day of the month immediately following a taxable period”,
+
+(ii) “a month” were substituted for “a taxable period”, and
+
+(iii) in *paragraphs (a)(i)* and *(b)* “that month” were substituted for “that taxable period” in each place.
+
+(5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the month to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(6) Notwithstanding *Chapter 1* of *Part 8*, a scheme participant—
+
+(*a*) shall not, in computing the amount of tax payable by him or her in respect of goods supplied under the import scheme taxable in the State, be entitled to deduct any tax borne or paid in relation to those supplies in the VAT return, but
+
+(*b*) shall—
+
+(i) where that scheme participant is established or has a fixed establishment in the Community, be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, *section 101*, notwithstanding *subsection (14)* of that section, or
+
+(ii) where that scheme participant is not established and does not have a fixed establishment in the Community, be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, Council Directive No. 86/560/EEC of 17 November 1986[^28], notwithstanding Articles 2(2) and (3) and 4(2) of that Directive, or
+
+(iii) where that scheme participant is an accountable person other than in relation to distance sales of goods imported from third territories or third countries, subject to *Chapter 1* of *Part 8*, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with *Chapter 3* of *Part 9*.
+
+(7) Notwithstanding *section 84*, a scheme participant who makes distance sales of goods imported from third territories or third countries to the State which are taxable in the State shall be bound by the requirements of *section 91J(18)(a)*, *(b)* and *(d)* in relation to such sales and retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F313: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 22, in effect as per reg. 2.
+>
+> F314, F315: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 55(d)(i), (ii), commenced on enactment.
+
+### Chapter 3Suspension arrangements for alcohol products — F316[Chapter 3 — Suspension arrangements for alcohol products] — Annotations Amendments: Inserted (1.01.2015) by European Union (Value-Added Tax) Regulations 2014 (S.I. No. 340 of 2014), reg. 3(j), in effect as per reg. 2(1).
+
+#### 92. Suspension arrangements for alcohol products. — [VATA s. 3B]
+
+**92**.—(1) In this section—
+
+“alcohol products” has the meaning assigned to it by section 73(1) of the Finance Act 2003;
+
+“suspension arrangement” means an arrangement under which excisable products are produced, processed, held or moved, excise duty being suspended.
+
+(2) Where alcohol products are supplied while being held under a suspension arrangement, then—
+
+(*a*) any such supply effected while the products are held under that arrangement (other than the last such supply in the State) shall be deemed not to be a supply for the purposes of this Act other than for the purposes of *Chapter 1* of *Part 8*, and
+
+(*b*) any previous—
+
+(i) intra-Community acquisition, or
+
+(ii) importation,
+
+of such products shall be disregarded for the purposes of this Act.
+
+(3)(*a*) Subject to *paragraph (b)*, where tax is chargeable on a supply referred to in *subsection (2)*, then, notwithstanding *section 74(1)*, the tax on that supply shall be due at the same time as the duty of excise on the products is due.
+
+(*b*) *Paragraph (a)* shall not apply to a supply of the kind referred to in *paragraph 1(1)* or *(3)*, *3(1)* or *7(6)* of *Schedule 2*.
+
+(4) Where (other than in the circumstances set out in *section 11(2)*), an accountable person makes an intra-Community acquisition of alcohol products and by virtue of that acquisition, and in accordance with Chapters 1 and 2 of Part 2 of the Finance Act 2001, and any other enactment which is to be construed together with those Chapters, the duty of excise on those products is payable in the State, then, notwithstanding *section 75*, the tax on that intra-Community acquisition shall be due at the same time as the duty of excise on the products is due.
+
+(5) Where tax is chargeable on the importation of alcohol products, which are then placed under a suspension arrangement then, notwithstanding *section 53(3)*, the tax on that importation shall be due at the same time as the duty of excise on the products is due.
+
+(6) Notwithstanding *sections 37(1)* and *(2)* and *53(1)*, where *subsection (3)*, *(4)* or *(5)* applies, the amount on which tax is chargeable shall include the amount of the duty of excise chargeable on the products on their release for consumption in the State.
+
+(7) Notwithstanding any other provision to the contrary in this Act, where *subsection (3)*, *(4)* or *(5)* applies, then—
+
+(*a*) the tax shall be payable at the same time as the duty of excise is payable on the products,
+
+(*b*) the provisions of the statutes which relate to the duties of excise and the management thereof and of any instrument relating to duties of excise made under statute, shall, with any necessary modifications and exceptions as may be specified in regulations, apply to such tax as if it were a duty of excise, and
+
+(*c*) the person by whom the tax is payable shall complete such form as is provided for the purposes of this subsection by the Revenue Commissioners.
+
+### Chapter 4 Deposit Return Scheme — F317[CHAPTER 4 — Deposit Return Scheme]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F317, F318: Inserted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 61(a), commenced on enactment.
+
+#### 92A. Deposit Return Scheme
+
+F318[**92A**.—(1) In this Chapter—
+
+“approved body”has the same meaning as in the Regulations of 2021;
+
+“deposit” shall be construed in accordance with the Regulations of 2021;
+
+“deposit return scheme” means a deposit return scheme established pursuant to Regulation 4 of the Regulations of 2021 and references to “scheme” shall be construed accordingly;
+
+“in-scope bottle”, “in-scope container” and “in-scope product” have the same meaning, respectively, as in the Regulations of 2021;
+
+“operator”, in relation to the deposit return scheme, means an approved body that is operating the scheme;
+
+“Regulations of 2021” means the *Separate Collection (Deposit Return Scheme) Regulations 2021* (S.I. No. 599 of 2021);
+
+“tax due and payable” means the amount of tax, calculated in accordance with regulations made under *section 120(10)(l)*, that is due and payable in respect of a deposit.
+
+(2) For the purposes of giving effect to Article 92 of the VAT Directive, where—
+
+(*a*) a supply is made of an in-scope product, and
+
+(*b*) a deposit is chargeable in accordance with the Regulations of 2021 in relation to the supply referred to in *paragraph (a)*,
+
+then, the taxable amount referable to the deposit shall be deemed to be reduced to nil.
+
+(3) Notwithstanding *subsection (2)* and for the purposes of giving effect to Article 92 of the VAT Directive, where—
+
+(*a*) a supply is made of an in-scope product,
+
+(*b*) a deposit is chargeable in accordance with the Regulations of 2021 in relation to the supply referred to in *paragraph (a)*, and
+
+*(c)* the in-scope bottle or in-scope container concerned has not been returned in accordance with the Regulations of 2021,
+
+then—
+
+(i) the taxable amount referable to the deposit shall be the amount of that deposit, and
+
+(ii) the operator shall be deemed to be the accountable person in respect of the tax due and payable and shall comply with the provisions of *Chapter 3* of *Part 9* in relation to that tax.]
+
+### F319[CHAPTER 5 — Cross-border special scheme for small enterprises]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F319: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 9.
+
+#### 92B. Definitions
+
+F320[**92B**. —In this Chapter —
+
+“annual turnover“means the total consideration (other than consideration from disposals of tangible or intangible capital assets), exclusive of tax, from—
+
+(*a*) supplies of goods and services, in so far as those supplies would be chargeable to tax if supplied by a taxable person who is not exempt from tax, and
+
+(*b*) supplies of immovable goods, services specified in *paragraphs 6* and *7* of *Schedule 1* and, insurance and reinsurance services, unless those supplies are transactions which are incidental to the taxable person’s supplies and activities;
+
+“Member State annual turnover threshold“ means a threshold set by a Member State for the purposes of the application of the SME exemption scheme in that Member State;
+
+“Member State of establishment“, in relation to a taxable person, means the Member State in which the person has established that person’s business;
+
+“Member State of exemption“, in relation to a taxable person, means a Member State in which the person is not established and where that person avails of the SME exemption scheme as it applies in that Member State;
+
+“SME exemption scheme“ means the special scheme for small enterprises set out in Section 2 of Chapter I of Title XII of the VAT Directive;
+
+“SME exemption scheme number“ means the identification number ending with the suffix ‘EX’ that has been assigned to a taxable person, by the competent authority of the Member State of establishment, for the purpose of availing of the SME exemption scheme;
+
+“Union annual turnover“, in relation to a taxable person, means the annual turnover of the person in the territory of the Community during a calendar year;
+
+“Union threshold“ means €100,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F320: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 9.
+
+#### 92C. Special scheme for small enterprises where the State is the Member State of establishment
+
+F321[**92C**. —(1) A taxable person—
+
+(*a*) who has established his or her business in the State,
+
+(*b*) who makes, or intends to make, supplies of goods or services in one or more than one Member State (in this section referred to as a “relevant Member State”), in the course of or furtherance of business,
+
+(*c*) whose Union annual turnover, in the current calendar year and the immediately preceding calendar year, does not exceed the Union threshold,
+
+(*d*) whose annual turnover in the relevant Member State, in the current calendar year and the immediately preceding calendar year, does not exceed the Member State annual turnover threshold for that Member State, and
+
+(*e*) who has not been assigned an SME exemption scheme number in another Member State,
+
+may avail of the SME exemption scheme in that relevant Member State.
+
+(2) (*a*) A taxable person to whom *subsection (1)* applies shall notify the Revenue Commissioners of his or her intention to avail of the SME exemption scheme in a relevant Member State before the person commences availing of the scheme in that Member State.
+
+(*b*) A notification under *paragraph (a)* shall be made by electronic means, using such form as is made available by the Revenue Commissioners for the purpose (in this section known as the “prior notification form”), and shall include the following information:
+
+(i) the name, taxable activity, legal form, and address of the taxable person,
+
+(ii) the relevant Member State or Member States in which the taxable person intends to avail of the SME exemption scheme,
+
+(iii) the annual turnover of the taxable person, denominated in euro, in the State, and in each other Member State, in respect of the year in which the notification is made and the immediately preceding year.
+
+(3) (*a*) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “SME exemption scheme register”) of—
+
+(i) taxable persons established in the State in respect of whom the Revenue Commissioners are satisfied they meet the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption (in this section referred to as “SME identified persons”), and
+
+(ii) in respect of each SME identified person, the Member State or Member States of exemption (in this section referred to as the “registered Member State of exemption”).
+
+(*b*) The Revenue Commissioners shall assign to each SME identified person an SME exemption scheme number ending with the suffix ‘EX’.
+
+(4) (*a*) Where a taxable person notifies the Revenue Commissioners of the person’s intention to avail of the SME exemption scheme in accordance with *subsection (2)*, and the Revenue Commissioners are satisfied that the person meets the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption, the Revenue Commissioners shall, within the period referred to in *paragraph (b)*—
+
+(i) register the person in the SME exemption scheme register under *subsection (3)(a)*, and
+
+(ii) notify the person of the SME exemption scheme number assigned to that person under *subsection (3)(b)*.
+
+(*b*) The period referred to in *paragraph (a)* is 35 working days or such further period as shall be notified to the taxable person by the Revenue Commissioners where additional time is required in order to carry out checks to prevent tax evasion or avoidance.
+
+(5) An SME identified person who has been assigned an SME exemption scheme number may avail of the SME exemption scheme in a registered Member State of exemption—
+
+(*a*) in the case of a Member State of exemption which has been notified to the Revenue Commissioners under *subsection (2)*, from the date the person is notified of the SME exemption scheme number under *subsection (4)(a)(ii)*, or
+
+(*b*) in the case of a Member State of exemption which has been notified to the Revenue Commissioners under *subsection (6)*, from the date the person receives the confirmation referred to in *subsection (7)*.
+
+(6) (*a*) An SME identified person shall notify the Revenue Commissioners, in advance—
+
+(i) of any changes to the information previously notified to the Revenue Commissioners under*subsection (2)*, or under this subparagraph,
+
+(ii) where the person no longer wishes to avail of the SME exemption scheme in a registered Member State of exemption, or
+
+(iii) where the person intends to change, or cease, his or her taxable activity to the extent that the person no longer satisfies the requirements to avail of the SME exemption scheme.
+
+(*b*) A notification under *paragraph (a)* shall be made by electronic means, in such form as is made available by the Revenue Commissioners for that purpose (in this *section* referred to as an “updated notification form”), and shall include the SME exemption scheme number assigned to the taxable person under *subsection (3)(b)*.
+
+(*c*) A notification under *paragraph (a)(i)* or *(iii)* shall not be required in respect of any information to which *subsection (9)(a)(ii)* applies.
+
+(7) (*a*) An SME identified person shall notify the Revenue Commissioners under *subsection (6)* before availing of the SME exemption scheme in a Member State other than a registered Member State of exemption (in this paragraph referred to as a ‘new Member State of exemption’) and the Revenue Commissioners shall, where they are satisfied that the person is a person to whom *subsection (1)* applies, confirm to that person, within the period referred to in *paragraph (b)*, that the person may avail of the SME exemption scheme in that new Member State of exemption.
+
+(*b*) The period referred to in *paragraph (a)* is 35 working days, or such further period as shall be notified to the taxable person by the Revenue Commissioners where additional time is required in order to carry out checks to prevent tax evasion or avoidance.
+
+(8) Where an SME identified person notifies the Revenue Commissioners, in accordance with *subsection (6)(a)(ii)* that the person no longer wishes to avail of the SME exemption scheme in a Member State of exemption, that person shall cease to avail of the scheme—
+
+(*a*) in a case where the updated notification form is received by the Revenue Commissioners during the last month of a calendar quarter, from the first day of the second month of the next calendar quarter, or
+
+(*b*) in all other cases, from the first day of the next calendar quarter following the calendar quarter in which the Revenue Commissioners receive the updated notification form.
+
+(9) (*a*) An SME identified person shall, within one month following the end of each calendar quarter, furnish to the Revenue Commissioners, by electronic means using such form as is made available by the Revenue Commissioners for the purpose, a report (in this *subsection* referred to as the “quarterly report”) containing the following particulars:
+
+(i) the SME scheme exemption number assigned to the taxable person under *subsection (3)(b)*;
+
+(ii) the annual turnover of that taxable person in each Member State, or a nil return if no supplies have been made in a Member State, during that calendar quarter.
+
+(*b*) For the purposes of *paragraph (a)(ii)*, where a registered Member State of exemption applies different Member State annual turnover thresholds to different categories of taxable activity, the SME identified person shall specify, in the quarterly report, the person’s annual turnover in respect of each category of taxable activity.
+
+(*c*) Where supplies have been made by an SME identified person using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro on the quarterly report shall be that published by the European Central Bank on the first day of the calendar year to which the report relates or, if there is no publication on that date, on the next date of publication.
+
+(10) (*a*) Where, during a calendar year, the annual turnover of an SME identified person exceeds the Union threshold, the person shall, within 15 working days of the date on which the threshold was exceeded—
+
+(i) notify the Revenue Commissioners under *subsection (6)* that the threshold was exceeded, and
+
+(ii) furnish a report to the Revenue Commissioners for the period from the beginning of the calendar quarter in which the threshold was exceeded to the date on which the threshold was exceeded.
+
+(*b*) *Subsection (9)* shall, with all necessary modifications, apply to a report under *paragraph (a)* as it applies to a report under that subsection.
+
+(*c*) The Revenue Commissioners shall cancel the SME exemption scheme number which has been assigned to an SME identified person under *subsection (3)(b)* where the Revenue Commissioners have been notified under *paragraph (a)* that the annual turnover of the person exceeds the Union threshold.
+
+(11) The Revenue Commissioners shall amend the SME exemption scheme register, in respect of an SME identified person, as appropriate, where—
+
+(*a*) a Member State of exemption notifies the Revenue Commissioners that the person is not eligible for the SME exemption scheme, or the SME exemption scheme has ceased to apply, in that Member State, or
+
+(*b*) the person notifies to the Revenue Commissioners of any of the matters referred to in *subsection (6)(a)(i)* to *(iii)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F321: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 9.
+
+#### 92D. Special scheme for small enterprises not established in the State where the State is the Member State of exemption
+
+F322[**92D**.—(1) *Section 6(3)(b)* shall not apply to a taxable person —
+
+(*a*) who is established in the Community and not established in the State,
+
+(*b*) who makes, or intends to make, supplies of taxable goods and services in the course or furtherance of the person’s business in the State,
+
+(*c*) who has notified the competent authorities in that person’s Member State of establishment of the person’s intention to avail of the SME exemption scheme in the State and has received confirmation from that competent authority that that person may avail of the scheme in the State,
+
+(*d*) who has been provided with an SME exemption number by the competent authority of that person’s Member State of establishment as a result of a notification referred to in *paragraph (c)*, and
+
+(*e*) whose annual turnover does not exceed the Union threshold in the year in which the notification referred to in *paragraph (c)* was made, or in the year preceding that year.
+
+(2) Notwithstanding *section 6(3)*, a person established in another Member State who engages in the supply, within the State, of taxable goods and services and does not avail of SME exemption scheme shall be deemed to have elected under *section 6(1)* to be an accountable person for the purpose of this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F322: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 9.
+
+## PART 11 Immovable Goods — PART 11 — Immovable Goods
+
+### 93. Supply of immovable goods (old rules). — [VATA s. 4(1), (9) and (10) and s. 4 (11) (in part)]
+
+**93**.—(1)(*a*) In this section—
+
+(i) “interest”, in relation to immovable goods—
+
+(I) subject to *clause (II)*, means an estate or interest in those goods which, when it was created, was for a period of at least 10 years or, if it was for a period of less than 10 years, its terms contained an option for the person in whose favour the interest was created to extend it to a period of at least 10 years,
+
+(II) does not include a mortgage,
+
+(ii) a reference to the disposal of an interest includes a reference to the creation of an interest, and
+
+(iii) an interval of the type referred to in section 4(2A) of the repealed enactment shall be deemed to be an interest for the purposes of this section.
+
+(*b*) Where an interest is created and, at the date of its creation, its terms contain one or more options for the person in whose favour the interest was so created to extend the interest, then that interest shall be deemed to be for the period from the date of creation of that interest to the date that that interest would expire if those options were so exercised.
+
+(*c*) This section applies to immovable goods—
+
+(i) which have been developed by or on behalf of the person supplying them, or
+
+(ii) in respect of which the person supplying them was, or would, but for the operation of *section 20(2)(c)*, have been at any time entitled to claim a deduction under *Chapter 1* of *Part 8* for any tax borne or paid in relation to a supply or development of them.
+
+(2)(*a*)(i) Subject to *subparagraph (ii)*, where an interest in immovable goods was created prior to 1 July 2008 in such circumstances that a reversion on that interest (in this subsection referred to as a “reversionary interest”) was created and retained, then any subsequent disposal to another person of the reversionary interest or of an interest derived entirely from that reversionary interest shall be deemed to be a supply of immovable goods to which tax is not charged if, since the date the first-mentioned interest was created, those goods have not been developed by, on behalf of, or to the benefit of, the person making such subsequent disposal.
+
+(ii) This subsection shall not be construed as applying to a disposal of an interest which includes an interval.
+
+(*b*) For the purposes of this subsection, the Revenue Commissioners may make regulations specifying the circumstances or conditions under which development work on immovable goods is not treated as being on behalf of, or to the benefit of, a person.
+
+(3)(*a*) For the purposes of this subsection—
+
+“landlord” has the meaning assigned to it by *paragraph (b)*;
+
+“post-letting expenses”, in relation to an interest in immovable goods—
+
+(i) subject to *subparagraph (ii)*, means expenses which the landlord incurs—
+
+(I) in carrying out services which the landlord is obliged to carry out under the terms and conditions of the written contract entered into on the disposal of the interest which was chargeable to tax (other than transactions in relation to which the obligation to perform is not reflected in the consideration on which tax was charged on the disposal of that interest),
+
+(II) which directly relate to the collection of rent arising under the contract referred to in *clause (I)*,
+
+(III) which directly relate to a review of rent where the terms and conditions of the contract referred to in *clause (I)* provide for such a review, or
+
+(IV) which directly relate to the exercise of an option to extend the interest or to exercise a break-clause in relation to that interest where the terms and conditions of the contract referred to in *clause (I)* provide for such an option or such a break-clause,
+
+(ii) do not include any expenses relating to goods or services of the type specified in *section 60(2)*.
+
+(*b*) Where—
+
+(i) an interest in immovable goods was disposed of prior to 1 July 2008,
+
+(ii) that disposal was chargeable to tax, and
+
+(iii) the person who acquired that interest is obliged to pay rent to another person (in this subsection referred to as the “landlord”) under the terms and conditions laid down in respect of that interest,
+
+then the landlord—
+
+(I) shall, notwithstanding *Part 2*, be deemed not to be an accountable person in respect of transactions in relation to those immovable goods other than—
+
+(A) supplies of those immovable goods on which tax was chargeable in accordance with section 4 of the repealed enactment,
+
+(B) supplies of other goods or services effected for consideration by the landlord, or
+
+(C) post-letting expenses in respect of that interest,
+
+(II) shall not be entitled to deduct tax in respect of transactions in relation to those immovable goods other than—
+
+(A) supplies of those immovable goods on which tax was chargeable in accordance with section 4 (other than subsection (4) of that section) of the repealed enactment,
+
+(B) supplies of other goods or services effected for consideration by the landlord, or
+
+(C) post-letting expenses in respect of that interest,
+
+(III) shall be deemed, where the landlord is not the person who made the disposal of the interest, to be an accountable person in respect of post-letting expenses in relation to that interest, and
+
+(IV) shall, in relation to those post-letting expenses, be entitled to deduct tax, in accordance with *Chapter 1* of *Part 8*, as if those post-letting expenses were for the purposes of the landlord’s taxable supplies.
+
+### 94. Supplies of immovable goods (new rules). — [VATA s. 4B]
+
+**94**.—(1) In this section—
+
+“completed”, in respect of immovable goods, means that the development of those goods has reached the state, apart from only such finishing or fitting work that would normally be carried out by or on behalf of the person who will use them, where the goods can effectively be used for the purposes for which the goods were designed, and the utility services required for those purposes are connected to the goods;
+
+“occupied”, in respect of immovable goods, means—
+
+(*a*) occupied and fully in use following completion, where that use is one for which planning permission for the development of those goods was granted, and
+
+(*b*) where those goods are let, occupied and fully in such use by the tenant.
+
+(2) Subject to F323[*subsections (3)*, *(5)* and *(8)*] and *section 95(7)(a)*, tax is not chargeable on the supply of immovable goods—
+
+(*a*) that have not been developed within 20 years prior to that supply,
+
+(*b*) being completed immovable goods, the most recent completion of which occurred more than 5 years prior to that supply, and those goods have not been developed within that 5 year period,
+
+(*c*) being completed immovable goods that have not been developed since the most recent completion of those goods, where that supply—
+
+(i) occurs after the immovable goods have been occupied for an aggregate of at least 24 months following the most recent completion of those goods, and
+
+(ii) takes place after a previous supply of those goods on which tax was chargeable and that previous supply—
+
+(I) took place after the most recent completion of those goods, and
+
+(II) was a transaction between persons who were not connected within the meaning of *section 97*,
+
+(*d*) being a building that was completed more than 5 years prior to that supply and on which development was carried out in the 5 years prior to that supply where—
+
+(i) such development did not and was not intended to adapt the building for a materially altered use, and
+
+(ii) the cost of such development did not exceed 25 per cent of the consideration for that supply,
+
+or
+
+(*e*) being a building that was completed within the 5 years prior to that supply where—
+
+(i) the building had been occupied for an aggregate of at least 24 months following that completion,
+
+(ii) that supply takes place after a previous supply of the building on which tax was chargeable and that previous supply—
+
+(I) took place after that completion of the building, and
+
+(II) was a transaction between persons who were not connected within the meaning of *section 97*,
+
+and
+
+(iii) if any development of that building occurred after that completion—
+
+(I) such development did not and was not intended to adapt the building for a materially altered use, and
+
+(II) the cost of such development did not exceed 25 per cent of the consideration for that supply.
+
+(3) Where a person supplies immovable goods to another person and in connection with that supply a taxable person enters into an agreement with that other person or with a person connected with that other person to carry out a development in relation to those immovable goods, then—
+
+(*a*) the person who supplies the goods shall, in relation to that supply, be deemed to be a taxable person,
+
+(*b*) the supply of the goods shall be deemed to be a supply to which *section 3* applies, and
+
+(*c*) *subsection (2)* does not apply to that supply.
+
+(4) *Section 6(1)* and *(2)* does not apply in relation to a person who makes a supply of immovable goods.
+
+(5) F324[Where a taxable person] who carries on a business in the State supplies immovable goods to another taxable person who carries on a business in the State in circumstances where that supply would otherwise be exempted because of *subsection (2)*, or *section 95(3)* or *(7)(b)*, then, notwithstanding those provisions, tax is chargeable on that supply, but only if the supplier and the taxable person to whom the supply is made have, no later than the 15th day of the month after the month during which the supply occurred, entered into an agreement in writing to opt to have tax chargeable on that supply (in this Act referred to as a “joint option for taxation”).
+
+(6) Where a joint option for taxation is exercised in accordance with *subsection (5)*, then—
+
+(*a*) the person to whom the supply is made shall, in relation to that supply, be an accountable person and shall be liable to pay the tax chargeable on that supply as if that person supplied those goods, and
+
+(*b*) the person who made the supply shall not be accountable for or liable to pay such tax.
+
+(7)(*a*) In this subsection—
+
+“owner” means the accountable person referred to in *section 22(3)*;
+
+“purchaser” means the person to whom the immovable goods that are referred to in *paragraph (b)* are supplied;
+
+“vendor” means the person referred to in *section 22(3)*, not being the accountable person referred to in that section, who disposes of the immovable goods that are referred to in *paragraph (b)*.
+
+(*b*) Where a supply of immovable goods is a supply to which *section 22(3)* applies and that supply would otherwise be exempted because of *subsection (2)*, or *section 95(3)* or *(7)(b),* then, notwithstanding those provisions, tax is chargeable on that supply where—
+
+(i) the purchaser is a taxable person, and
+
+(ii) the vendor and the purchaser have, no later than the 15th day of the month after the month during which the supply occurred, entered into an agreement in writing to opt to have tax chargeable on that supply.
+
+(*c*) Where *paragraph (b)* applies—
+
+(i) the purchaser shall, in relation to that supply, be an accountable person and shall be liable to pay the tax chargeable on that supply as if that purchaser supplied those goods,
+
+(ii) neither the vendor nor the owner shall be accountable for or liable to pay that tax,
+
+and
+
+(iii) *sections 65(4)* and *76(2)* shall not apply.
+
+(*d*) *Paragraph (b)* shall not apply where the purchaser is a person connected (within the meaning of *section 97(3)*) with either the vendor or the owner.
+
+(*e*) F325[...]
+
+(8)(*a*) F326[...]
+
+(*b*) Where a taxable person supplies immovable goods to another person in circumstances where that supply would otherwise be exempt in accordance with *subsection (2)*, tax shall, notwithstanding that subsection, be chargeable on that supply where—
+
+(i) the immovable goods are buildings designed as or capable of being used as a dwelling,
+
+(ii) the person who makes that supply is a person who developed the immovable goods in the course of a business of developing immovable goods or a person connected with that person within the meaning of *section 97(3)*, and
+
+(iii) the person who developed those immovable goods was entitled to a deduction under *Chapter 1* of *Part 8* for tax chargeable to that person in respect of that person’s acquisition or development of those immovable goods.
+
+(*c*) In the case of a building to which this subsection would apply if the building were supplied by the taxable person at any time during the capital goods scheme adjustment period for that building—
+
+(i) *section 64(4)* and *(5)* shall not apply, and
+
+(ii) notwithstanding *section 64(2)*, the proportion of total tax incurred that is deductible by that person shall be treated as the initial interval proportion of deductible use.
+
+(*d*) F327[...]
+
+(9) F328[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F323, F324: Substituted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 7, S.I. No. 355 of 2026.
+>
+> F325: Deleted (19.12.2018) by *Finance Act 2018* (30/2018), s. 44, commenced on enactment.
+>
+> F326, F327, F328: Deleted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 7, S.I. No. 355 of 2026.
+
+### 95. Transitional measures for supplies of immovable goods. — [VATA s. 4(3)(ab) (in part) and (8) (in part) and s. 4C]
+
+**95**.—(1) This section applies to—
+
+(*a*) immovable goods which are acquired or developed by a taxable person prior to 1 July 2008, being completed immovable goods before 1 July 2008, and have not been disposed of by the taxable person prior to that date, until such time as those goods have been disposed of by that taxable person on or after that date, F329[...]
+
+(*b*) an interest in immovable goods within the meaning of *section 93* (other than a freehold interest or a freehold equivalent interest) created by a taxable person prior to 1 July 2008 and held by a taxable person on 1 July 2008 and the reversionary interest (within the meaning of *section 93(2)*) on that interest until that interest is surrendered after F330[after 1 July 2008, and]
+
+F331[(*c*) immovable goods being residential property or burial grounds which are acquired or developed by a public body prior to 1 July 2010, being completed immovable goods before 1 July 2010, and have not been disposed of by that public body prior to that date, until such time as those goods have been disposed of by that public body on or after that date.]
+
+(2) Where an interest to which *subsection (1)(b)* applies is surrendered, then, for the purposes of the application of *Chapter 2* of *Part 8* in respect of the immovable goods concerned—
+
+(*a*) the total tax incurred shall include the amount of tax chargeable on the surrender in accordance with *subsection (8)* and shall not include tax incurred prior to the creation of the surrendered interest, and
+
+(*b*) the adjustment period shall consist of the number of intervals specified in *subsection (12)(c)(iv)* and the initial interval shall begin on the date of that surrender.
+
+(3) In the case of a supply of immovable goods to which *subsection (1)(a)* applies, being completed immovable goods within the meaning of *section 94*—
+
+(*a*) where the person supplying those goods had no right to deduct under section 12 of the repealed enactment in relation to the tax chargeable on the acquisition or development of those goods prior to 1 July 2008, and
+
+(*b*) if any subsequent development of those immovable goods occurs on or after 1 July 2008—
+
+(i) that development does not and is not intended to adapt the immovable goods for a materially altered use, and
+
+(ii) the cost of that development does not exceed 25 per cent of the consideration for that supply,
+
+then, subject to *section 94(3)*, that supply is not chargeable to tax but a joint option for taxation may be exercised in respect of that supply in accordance with *section 94(5)* and that tax is payable in accordance with *section 94(6)*.
+
+(4)(*a*) Where a person referred to in *subsection (1)*—
+
+(i) acquired, developed or has an interest in immovable goods to which this section applies,
+
+(ii) was entitled to deduct tax, in accordance with section 12 of the repealed enactment, on that person’s acquisition or development of those goods, and
+
+(iii) makes a letting of those immovable goods to which *paragraph 11* of *Schedule 1* applies,
+
+then that person (in this subsection referred as the “landlord”) shall calculate an amount (in this subsection referred to as a “deductibility adjustment”) in accordance with the formula set out in *paragraph (b)* and that amount shall be payable as if it were tax due by that person in accordance with *Chapter 3* of *Part 9* for the taxable period in which that letting takes place.
+
+(*b*) The deductibility adjustment shall be calculated in accordance with the formula—
+
+<u>TD × (Y — N)</u>
+
+Y
+
+where—
+
+TD is the amount of the tax referred to in *paragraph (a)(ii)* that the landlord was entitled to deduct,
+
+Y is 20 or, if the interest when it was acquired by the landlord was for a period of less than 20 years, the number of full years in that interest, and
+
+N is the number of full years since the landlord acquired the interest in the immovable goods referred to in *paragraph (a)* or, if the goods were developed since that interest was acquired, the number of full years since the most recent development,
+
+but if that N is greater than that Y, the deductibility adjustment shall be deemed to be nil.
+
+F332[(*c*) Where the letting referred to in *paragraph (a)(iii)* is a supply to which *section 28(4)* applies, the receiver or person exercising the power shall calculate the deductibility adjustment in accordance with the formula set out in *paragraph (b)* and that amount shall be payable F333[by the receiver or person exercising the power] as if it were tax due for the taxable period in which that letting takes place.]
+
+(5) An assignment or surrender of an interest in immovable goods to which *subsection (1)(b)* applies is deemed to be a supply of immovable goods for the purposes of this Act for a period of 20 years from the creation of the interest or the most recent assignment of that interest before 1 July 2008, whichever is the later.
+
+(6) Where—
+
+(*a*) a person makes a supply of immovable goods to which this section applies,
+
+(*b*) tax is chargeable on that supply, and
+
+(*c*) that person was not entitled to deduct all the tax charged to that person on the acquisition or development of those immovable goods,
+
+then that person shall be entitled to make the appropriate adjustment that would apply under *section 64(6)(a)* as if the capital goods scheme applied to that transaction.
+
+F334[(6A) Where—
+
+(*a*) a public body makes a supply of immovable goods referred to in *subsection (1)*(*c*),
+
+(*b*) tax is chargeable on that supply, and
+
+(*c*) that public body was not entitled to deduct all the tax charged to that public body on the acquisition or development of those immovable goods,
+
+then that public body shall be entitled to make the appropriate adjustment that would apply under *section 64(6)(a)* as if the capital goods scheme applied to that transaction, but that adjustment shall not exceed the value-added tax chargeable on that supply of those goods.]
+
+(7) In the case of an assignment or surrender of an interest in immovable goods referred to in *subsection (5)*—
+
+(*a*) tax shall be chargeable where the person who makes the assignment or surrender was entitled to deduct in accordance with *Chapter 1* of *Part 8* any of the tax chargeable on the acquisition of that interest, or the development of those immovable goods, and
+
+(*b*) tax shall not be chargeable where the person who makes the assignment or surrender had no right to deduction under *Chapter 1* of *Part 8* on the acquisition of that interest or the development of those immovable goods, but a joint option for taxation of that assignment or surrender may be exercised.
+
+(8)(*a*) Notwithstanding *Chapter 1* of *Part 5*, the amount on which tax is chargeable on a taxable assignment or surrender to which *subsection (7)* applies shall be the amount calculated in accordance with the formula set out in *paragraph (b)* divided by the rate as specified in *F335[paragraph (c) or (ca)*, as appropriate, of *section 46(1)*] expressed in decimal form.
+
+(*b*) The amount of tax due and payable in respect of a taxable assignment or surrender to which *subsection (7)* applies is an amount calculated in accordance with the formula—
+
+T × <u>N</u>
+
+Y
+
+where—
+
+T is the total tax incurred referred to in *subsection (12)(d)* except for the amount of tax charged in respect of any development by the person who makes the assignment or surrender following the acquisition of the interest,
+
+N is the number of full intervals plus one that remain in the adjustment period referred to in *subsection (12)(c)* at the time of the assignment or surrender,
+
+Y is the total number of intervals in that adjustment period for the person making the assignment or surrender,
+
+and *paragraphs (c)* to *(e)* shall apply to that tax.
+
+(*c*) Where tax is chargeable in relation to a supply of immovable goods which is a surrender of an interest in immovable goods or an assignment of an interest in immovable goods to—
+
+(i) an accountable person,
+
+(ii) a Department of State or a local authority, or
+
+(iii) a person who supplies immovable goods of a kind referred to in *paragraph (a)* of the definition of “exempted activity” in *section 2(1)*, or services of a kind referred to in *paragraphs 1*, *5(4)*, *6*, *7*, *8*, *11* and *14(3)* of *Schedule 1*, in the course or furtherance of business,
+
+then—
+
+(I) the person to whom those goods are supplied shall be accountable for and liable to pay the tax chargeable on that supply,
+
+(II) such tax shall be payable as if it were tax due by that person in accordance with *Chapter 3* of *Part 9* for the taxable period within which the supply to the person took place, and
+
+(III) for the purposes of *subparagraphs (I)* and *(II),* the person to whom the goods are supplied shall be an accountable person and the person who made the surrender or assignment shall not be accountable for or liable to pay such tax.
+
+(*d*) Where the supply referred to in *paragraph (c)* is to a Department of State or a local authority, then, notwithstanding anything to the contrary effect in *section 14(2)*, the Department of State or local authority shall be accountable for and liable to pay the tax referred to in that paragraph.
+
+(*e*) (i) A surrender or assignment of immovable goods referred to in *paragraph (c)* shall be treated as a supply of goods made by the person to whom the goods are supplied.
+
+(ii) Subject to *subparagraph (iii)*, on the surrender or assignment of immovable goods referred to in *subparagraph (i)*, the person who makes the surrender or assignment shall issue a document to the person to whom the surrender or assignment is made indicating—
+
+(I) the value of the interest being surrendered or assigned, and
+
+(II) the amount of tax chargeable on that surrender or assignment.
+
+(iii) *Subparagraph (ii)* shall not apply where the person who makes the surrender or assignment is obliged to issue a document in accordance with *subsection (9)(a)* to the person to whom that surrender or assignment is made.
+
+(iv) For the purposes of *Chapter 1* of *Part 8*, that Chapter shall apply as if this paragraph had not been enacted.
+
+(9)(*a*) Where an interest in immovable goods referred to in *subsection (7)* is assigned or surrendered to a taxable person during the adjustment period and tax is payable in respect of that assignment or surrender, then the person who makes the assignment or surrender shall issue a document to the person to whom the interest is being assigned or surrendered containing the following information:
+
+(i) the amount of tax due and payable on that assignment or surrender; and
+
+(ii) the number of intervals remaining in the adjustment period as determined in accordance with *subsection (12)(c)(iv)*.
+
+(*b*) Where *paragraph (a)* applies, the person to whom the interest is assigned or surrendered shall be a capital goods owner for the purpose of *Chapter 2* of *Part 8* in respect of the capital good being assigned or surrendered, and shall be subject to that Chapter and for this purpose—
+
+(i) the adjustment period shall be the period referred to in *subsection (12)(c)* as correctly specified on the document referred to in *paragraph (a)*,
+
+(ii) the total tax incurred shall be the amount of tax referred to in *subsection (12)(d)* as correctly specified in the document referred to in *paragraph (a)*, and
+
+(iii) the initial interval shall be a period of 12 months beginning on the date on which the assignment or surrender occurs.
+
+(10) Where a person cancels an election to be an accountable person in accordance with *section 8(2)*, then, in respect of the immovable goods which were used in supplying the services for which that person made that election, *Chapter 2* of *Part 8* does not apply if those immovable goods are held by that person on 1 July 2008 and are not further developed after that date.
+
+(11) In the application of *Chapter 2* of *Part 8* to immovable goods and interests in immovable goods to which this section applies, *section 64(2)* to *(5)* shall be disregarded in respect of the person who, on 1 July 2008, owns those immovable goods or holds an interest in those immovable goods, but—
+
+(*a*) if that person develops those immovable goods and that development is a refurbishment (within the meaning of *Chapter 2* of *Part 8*) that is completed on or after 1 July 2008, *section 64(2)* to *(5)* shall not be disregarded in respect of that refurbishment,
+
+(*b*) if, on or after 23 February 2010, that person—
+
+(i) first uses those immovable goods (in this subsection referred to as the “first use”), or
+
+(ii) changes the use of those immovable goods (in this subsection referred to as the “changed use”),
+
+and the first use, or the changed use, as the case may be, is a use of those immovable goods for a purpose other than the provision of a letting of the type referred to in *paragraph 11(1)* of *Schedule 1*, then *section 64(4)(a)* to *(d)* shall not be disregarded for the remainder of the adjustment period applicable to those immovable goods.
+
+(12) For the purposes of applying *Chapter 2* of *Part 8* to immovable goods or interests in immovable goods to which this section applies—
+
+(*a*) any interest in immovable goods to which this section applies shall be treated as a capital good,
+
+(*b*) any person who has an interest in immovable goods to which this section applies shall be treated as a capital goods owner, but shall not be so treated to the extent that the person has a reversionary interest in those immovable goods if those goods were not developed by, on behalf of, or to the benefit of, that person,
+
+(*c*) the period to be treated as the adjustment period in respect of immovable goods or interests in immovable goods to which this section applies is—
+
+(i) in the case of the acquisition of the freehold interest or freehold equivalent interest in those immovable goods, 20 years from the date of that acquisition,
+
+(ii) in the case of the creation of an interest in those immovable goods, 20 years or, if the interest when it was created was for a period of less than 20 years, the number of full years in that interest when created, whichever is the shorter,
+
+(iii) in the case of the assignment or surrender of an interest in immovable goods prior to 1 July 2008, the period remaining in that interest at the time of the assignment or surrender of that interest or 20 years, whichever is the shorter, or
+
+(iv) in the case of—
+
+(I) the surrender or first assignment of an interest in immovable goods on or after 1 July 2008, the number of full years remaining in the adjustment period as determined in accordance with *subparagraphs (ii)* and *(iii)*, plus one, or
+
+(II) the second or subsequent assignment of an interest in immovable goods after 1 July 2008, the number of full intervals remaining in the adjustment period as determined in accordance with *clause (I)*, plus one,
+
+and this number shall thereafter be the number of intervals remaining in the adjustment period,
+
+but where the immovable goods have been developed since the acquisition of those immovable goods or the creation of that interest, 20 years from the date of the most recent development of those goods F336[(other than a development which is a refurbishment within the meaning of *section 63(1)*)],
+
+(*d*) the amount of tax charged, or the amount of tax that would have been chargeable but for the application of *section 20(2)(c)* or *56*, to the person treated as the capital goods owner on the acquisition of, or development of, the capital goods shall be treated as the total tax incurred,
+
+(*e*) the total tax incurred divided by the number of intervals in the adjustment period referred to in *paragraph (c)* shall be treated as the base tax amount,
+
+(*f*) each year in the adjustment period referred to in *paragraph (c)* shall be treated as an interval,
+
+(*g*) the first 12 months of the adjustment period referred to in *paragraph (c)* shall be treated as the initial interval,
+
+(*h*) the second year of the adjustment period referred to in *paragraph (c)* shall be treated as the second interval but, in the case of an interest which is assigned or surrendered on or after 1 July 2008, the second interval of the adjustment period shall have the meaning assigned to it by *Chapter 2* of *Part 8*,
+
+(*i*) each year following the second year in the adjustment period referred to in *paragraph (c)* shall be treated as a subsequent interval,
+
+(*j*) the amount which shall be treated as the total reviewed deductible amount shall be the amount of the total tax incurred as provided for in *paragraph (d)* less—
+
+(i) any amount of the total tax incurred which was charged to the person treated as the capital goods owner but which that owner was not entitled to deduct in accordance with *Chapter 1* of *Part 8*,
+
+(ii) any amount accounted for in accordance with section 12D(4) of the repealed enactment by the person treated as the capital goods owner in respect of a transfer of the goods to that owner prior to 1 July 2008,
+
+(iii) any tax payable in respect of those capital goods in accordance with *section 19(1)(f)*, or section 4(3)(*a*) of the repealed enactment, by the person treated as the capital goods owner, and
+
+(iv) where an adjustment of deductibility has been made in respect of the capital good in accordance with *subsection (4)(a)* or section 4(3)(*ab*) of the repealed enactment, the amount “TD” in the formula set out in *subsection (4)(b)*,
+
+(*k*) the amount referred to in *paragraph (d)* less the amount referred to in *paragraph (j)* shall be treated as the non-deductible amount,
+
+and for the purposes of applying *paragraphs (f)*, *(h)* and *(i)* “year” means each 12 month period in the adjustment period, the first of which begins on the first day of the initial interval referred to in *paragraph (g)*.
+
+(13)(*a*) Subject to *paragraph (b)*, where a taxable person acquires immovable goods on or after 1 July 2007, then, notwithstanding *subsection (11)*, *section 64(2)* shall apply and, notwithstanding *subsection (12)(j)*, the total reviewed deductible amount shall have the meaning assigned to it by *Chapter 2* of *Part 8*.
+
+(*b*) *Paragraph (a)* does not apply where a taxable person has made an adjustment in accordance with *section 61(7)* in respect of those goods.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F329: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 57(a), commenced on enactment.
+>
+> F330: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 57(a), commenced on enactment.
+>
+> F331: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 57(b), commenced on enactment.
+>
+> F332: Inserted (27.03.2013) by *Finance Act 2013* (8/2013), s. 68(i), commenced on enactment.
+>
+> F333: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s.84 and sch. para. 2(a), commenced on enactment as per sch. para. 5(a).
+>
+> F334: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 57(c), commenced on enactment.
+>
+> F335: Substituted (1.07.2011) by *Finance (No. 2) Act 2011* (8/2011), s. 3(d), commenced as per s. 3.
+>
+> F336: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 90, commenced on enactment.
+
+### 96. Waiver of exemption under old rules. — [VATA s. 7(2) (in part), s. 7(3), (4) and (6), s. 7B(1) to (5), s. 7B(6) (in part) and s. 7B(9) and (10)]
+
+**96.**—(1) In this section “waiver” means a waiver of exemption from tax under section 7(1) of the repealed enactment.
+
+(2) A waiver shall cease to have effect F337[on the date specified in *subsection (7A)*].
+
+(3) F340[...]
+
+(4) F341[...]
+
+(5) Where a person cancelled his or her waiver before 1 July 2008, then, for the purposes of applying *Chapter 2* of *Part 8*, the adjustment period (within the meaning of *section 63(1)* or, as the context may require, the period to be treated as the adjustment period in accordance with *section 95(12)*) in relation to any capital good the tax chargeable on that person’s acquisition or development of which that person was obliged to take into account when that person made that cancellation, shall be treated as if it ended on the date on which that cancellation had effect.
+
+(6) F338[*Subsections (6)* and *(7)*] apply to an accountable person (in those subsections referred to as a “landlord”)—
+
+(*a*) F339[who had a waiver which was cancelled before the date of the passing of the Finance Act 2025], and
+
+(*b*) who had not cancelled the waiver before 1 July 2008.
+
+(7) For the purposes of applying *Chapter 2* of *Part 8*, the adjustment period (within the meaning of *section 63(1)* or, as the context may require, the period to be treated as the adjustment period in accordance with *section 95(12)*) in relation to a capital good the tax chargeable on the landlord’s acquisition or development of which that landlord was obliged to take into account when that landlord cancelled his or her waiver, shall end on the date on which that cancellation had effect.
+
+F347[(7A) A waiver which has not been cancelled before the date of the passing of the *Finance Act 2025* shall be cancelled on the date of the passing of that Act.
+
+(7B) (*a*) This subsection applies to a waiver cancelled by virtue of *subsection (7A)*.
+
+(*b*) For the purposes of applying *Chapter 2* of *Part 8*, the adjustment period (within the meaning of *section 63(1)* or, as the context may require, the period to be treated as the adjustment period in accordance with *section 95(12)*) in relation to the tax chargeable on the landlord’s acquisition or development of a capital good, where that landlord used that capital good in relation to the supply of services to which a waiver applied, shall end on the date specified in *subsection (7A)*.]
+
+(8) F342[...]
+
+(9) F343[...]
+
+(10) F344[...]
+
+(11) F345[...]
+
+(12) F346[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F337, F338, F339: Substituted (23.12.2025) by *Finance Act 2025* (18/2025), s. 74(a), (b), commenced on enactment.
+>
+> F340, F341, F342, F343, F344, F345, F346: Deleted (23.12.2025) by *Finance Act 2025* (18/2025), s. 74(d), commenced on enactment.
+>
+> F347: Inserted (23.12.2025) by *Finance Act 2025* (18/2025), s. 74(c), commenced on enactment.
+
+### 97. Option to tax letting of immovable goods. — [VATA s. 7A]
+
+**97**.—(1)(*a*)(i) Tax shall be chargeable in accordance with this Act on the supply of a service to which *paragraph 11* of *Schedule 1* relates (in this section referred to as a “letting”) where, subject to *subsections (2)* and *(4)*, the supplier (in this section referred to as a “landlord”) opts to make that letting so chargeable.
+
+(ii) A landlord who exercises such option (in this Act referred to as a “landlord’s option to tax”) shall, notwithstanding *section 6(1)* and *(2)*, be an accountable person and liable to account for the tax on that letting in accordance with this Act, and that letting shall not be a supply to which *section 52* applies.
+
+(*b*) Where a taxable person is entitled to deduct tax on the acquisition or development of immovable goods on the basis that the goods will be used for the purpose of a letting or lettings in respect of which a landlord’s option to tax will apply, then—
+
+(i) the person shall be treated as having exercised the landlord’s option to tax in respect of any lettings of those immovable goods, and
+
+(ii) that option shall be deemed to continue in place until that person makes a letting in respect of which neither of the conditions of *paragraph (c)* is fulfilled.
+
+(*c*) A landlord’s option to tax in respect of a letting is exercised by—
+
+(i) a provision in writing in a letting agreement between the landlord and the person to whom the letting is made (in this section referred to as a “tenant”) that tax is chargeable on the rent, or
+
+(ii) the issuing by the landlord of a document to the tenant giving notification that tax is chargeable on the letting.
+
+(*d*) A landlord’s option to tax in respect of a letting is terminated—
+
+(i) in the case of an option exercised in accordance with *paragraph (b)*, by making a letting of the immovable goods referred to in that paragraph in respect of which neither of the conditions of *paragraph (c)* is fulfilled,
+
+(ii) in the case of an option exercised in accordance with *paragraph (c)*, by—
+
+(I) an agreement in writing between the landlord and tenant that the option is terminated and specifying the date of termination which shall not be earlier than the date of that agreement, or
+
+(II) the delivery to the tenant of a document giving notification that the option has been terminated and specifying the date of termination which shall not be earlier than the date that notification is received by the tenant,
+
+(iii) where the landlord and tenant become connected persons,
+
+(iv) where the landlord or a person connected with the landlord occupies the immovable goods that are subject to that letting whether that person occupies those goods by way of letting or otherwise, or
+
+(v) where the immovable goods that are subject to that letting are used or to be used for residential purposes within the meaning of *subsection (4)*.
+
+(2)(*a*) Subject to *paragraphs (b)* and *(c)*, a landlord may not opt to tax a letting—
+
+(i) where the landlord and the tenant in respect of that letting are connected persons, or
+
+(ii) where the landlord, whether or not connected to the tenant, or a person connected to the landlord, occupies the immovable goods that are subject to that letting whether that landlord or that person occupies those goods by way of letting or otherwise.
+
+(*b*)(i) Subject to *subparagraph (ii)*, *paragraph (a)(i)* and *subsection (1)(d)(iii)* shall not apply where the immovable goods which are the subject of the letting are used for the purposes of supplies or activities which entitle the tenant to deduct at least 90 per cent of the tax chargeable on the letting in accordance with *Chapter 1* of *Part 8*.
+
+(ii) Where a landlord has exercised a landlord’s option to tax in respect of a letting to which *paragraph (a)(i)* would have applied but for *subparagraph (i)*, *paragraph (a)(i)* shall apply from the end of the first accounting year in which the goods are used for the purposes of supplies or activities which entitle the tenant to deduct less than 90 per cent of the said tax chargeable.
+
+(*c*)(i) Subject to *subparagraph (ii)*, *paragraph (a)(ii)* and *subsection (1)(d)(iv)* shall not apply where the occupant (being any person including the landlord referred to in that paragraph or that subsection) uses the immovable goods which are the subject of the letting for the purpose of making supplies which entitle that occupant to deduct, in accordance with *Chapter 1* of *Part 8*, at least 90 per cent of all tax chargeable in respect of goods or services used by that occupant for the purpose of making those supplies.
+
+(ii) Where a landlord has exercised a landlord’s option to tax in respect of a letting to which *paragraph (a)(ii)* would have applied but for *subparagraph (i)*, *paragraph (a)(ii)* shall apply from the end of the first accounting year in which the immovable goods are used for the purpose of making supplies which entitle that occupant to deduct less than 90 per cent of the said tax chargeable.
+
+(3)(*a*) In this subsection—
+
+“control”, in the case of a body corporate or in the case of a partnership, has the meaning assigned to it by *section 4(2)*;
+
+“relative” means a brother, sister, ancestor or lineal descendant.
+
+(*b*) For the purposes of this section, any question of whether a person is connected with another person shall be determined in accordance with the following:
+
+(i) a person is connected with an individual if that person is the individual’s F348[...] F349[spouse or civil partner], or is a relative, or the F348[...] F349[spouse or civil partner] of a relative, of the individual or of the individual’s F348[...] F349[spouse or civil partner];
+
+(ii) a person is connected with any person with whom he or she is in partnership, and with the F348[...] F349[spouse or civil partner] or a relative of any individual with whom he or she is in partnership;
+
+(iii) subject to *clauses (IV)* and *(V)* of *subparagraph (v)*, a person is connected with another person if he or she has control over that other person, or if the other person has control over the first-mentioned person, or if both persons are controlled by another person or persons;
+
+(iv) a body of persons is connected with another person if that person, or persons connected with him or her, have control of that body of persons, or the person and persons connected with him or her together have control of it;
+
+(v) a body of persons is connected with another body of persons—
+
+(I) if the same person has control of both or a person has control of one and persons connected with that person or that person and persons connected with that person have control of the other,
+
+(II) if a group of 2 or more persons has control of each body of persons and the groups either consist of the same persons or could be regarded as consisting of the same persons by treating (in one or more cases) a member of either group as replaced by a person with whom he or she is connected,
+
+(III) if both bodies of persons act in pursuit of a common purpose,
+
+(IV) if any person or any group of persons or groups of persons having a reasonable commonality of identity have or had the means or power, either directly or indirectly, to determine the activities carried on or to be carried on by both bodies of persons, or
+
+(V) if both bodies of persons are under the control of any person or group of persons or groups of persons having a reasonable commonality of identity;
+
+(vi) a person in the capacity as trustee of a settlement is connected with—
+
+(I) any person who in relation to the settlement is a settlor, or
+
+(II) any person who is a beneficiary under the settlement.
+
+(4) A landlord’s option to tax may not be exercised in respect of all or part of a house or apartment or other similar establishment to the extent that those immovable goods are used or to be used for residential purposes, including any such letting—
+
+(*a*) governed by the Residential Tenancies Act 2004,
+
+(*b*) governed by the Housing (Rent Books) Regulations 1993 (S.I. No. 146 of 1993),
+
+(*c*) governed by section 10 of the Housing Act 1988,
+
+(*d*) of a dwelling to which Part II of the Housing (Private Rented Dwellings) Act 1982 applies, or
+
+(*e*) of accommodation which is provided as a temporary dwelling for emergency residential purposes.
+
+(5) A landlord’s option to tax, once exercised, shall immediately cease to have effect to the extent that the immovable goods which are the subject of the letting to which the option applies come to be used for residential purposes which fall within *subsection (4)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F348: Deleted (27.07.2011) by *Finance (No. 3) Act 2011* (18/2011), s. 4 and sch. 4, commenced on enactment.
+>
+> F349: Inserted (27.07.2011) by *Finance (No. 3) Act 2011* (18/2011), s. 4 and sch. 4, commenced on enactment.
+
+### 98. Valuation of an interest in immovable goods. — [VATA s. 10(9) (in part) and (10) (in part)]
+
+**98**.—(1) In this section—
+
+“interest”, in relation to immovable goods, shall be construed in accordance with *section 93(1)*;
+
+“open market value” has the meaning assigned to it by *section 36*.
+
+(2)(*a*) Where the Revenue Commissioners wish to ascertain the open market value of an interest in immovable goods, they may authorise a person to inspect the immovable goods and to report to them the open market value of that interest for the purposes of this Act, and a person having custody or possession of those goods shall permit the person so authorised to inspect the goods at such reasonable times as the Commissioners consider necessary.
+
+(*b*) Where the Revenue Commissioners require a valuation to be made by a person named by them, the costs of that valuation shall be defrayed by the Commissioners.
+
+## PART 12 Refunds and Repayments of Tax — PART 12 — Refunds and Repayments of Tax
+
+### 99. General provisions on refund of tax. — [VATA s. 20(1) to (1B), (4), (6) and (7)]
+
+**99**.—(1) Subject to *subsections (2)* and *(3)*, where in relation to a return lodged under *Chapter 3* of *Part 9* or a claim made in accordance with regulations, it is shown to the satisfaction of the Revenue Commissioners that, as respects any taxable period, the amount of tax (if any) actually paid to the Collector-General in accordance with *Chapter 3* of *Part 9* together with the amount of tax (if any) which qualified for deduction under *Chapter 1* of *Part 8* exceeds the tax (if any) which would properly be payable if no deduction were made under *Chapter 1* of *Part 8*, the Commissioners shall refund the amount of the excess less any sums previously refunded under this subsection or repaid under *Chapter 1* of *Part 8* and may include in the amount refunded any interest which has been paid under *section 114*.
+
+(2) Where the Revenue Commissioners apply *section 15* to a number of persons, the Commissioners may defer repayment of all or part of any tax refundable under *subsection (1)* to any one or more of those persons prior to the application of that section if any one or more of those persons have not furnished all returns and remitted all amounts of tax referred to in *section 76* or *77*, as may be appropriate, at the time of such application.
+
+(3)(*a*) Subject to *paragraph (b)*, the Revenue Commissioners may, where it appears requisite to them to do so for the protection of the revenue, require as a condition for making a refund in accordance with *subsection (1)* the giving of security of such amount and in such manner and form as they may determine.
+
+(*b*) The amount of security referred to in *paragraph (a)* shall not, in any particular case, exceed the amount to be refunded.
+
+(4) A claim for a refund under this Act may be made only within 4 years after the end of the taxable period to which it relates.
+
+(5) Where the Revenue Commissioners refund any amount due under *subsection (1)* or *section 100*, they may, if they so determine, refund any such amount directly into an account, specified by the person to whom the amount is due, in a financial institution.
+
+(6) The Revenue Commissioners shall not refund any amount of tax except as provided for in this Act or any order or regulations made under this Act.
+
+### 100. Unjust enrichment. — [VATA s. 20(5)]
+
+**100**.—(1) Where, due to a mistaken assumption in the operation of the tax, whether that mistaken assumption was made by an accountable person, any other person or the Revenue Commissioners, a person—
+
+(*a*) accounted, in a return furnished to the Revenue Commissioners, for an amount of tax for which that person was not properly accountable,
+
+(*b*) did not, because that person’s supplies of goods and services were treated as exempted activities, furnish a return to the Revenue Commissioners and, therefore, did not receive a refund of an amount of tax in accordance with *section 99(1)*, or
+
+(*c*) did not deduct an amount of tax in respect of qualifying activities, within the meaning of *section 59(1)*, which that person was entitled to deduct,
+
+then, in respect of the total amount of tax referred to in *paragraph (a)*, *(b)* or *(c)* (in this section referred to as the “overpaid amount”), that person may claim a refund of the overpaid amount and the Revenue Commissioners shall, subject to this section, refund to the claimant the overpaid amount unless they determine that the refund of that overpaid amount or part thereof would result in the unjust enrichment of the claimant.
+
+(2) A person who claims a refund of an overpaid amount under this section shall—
+
+(*a*) make that claim in writing setting out full details of the circumstances of the case and identifying the overpaid amount in respect of each taxable period to which the claim relates, and
+
+(*b*) furnish such relevant documentation to support the claim as the Revenue Commissioners may request.
+
+(3)(*a*) For the purposes of determining whether a refund of an overpaid amount or part thereof would result in the unjust enrichment of a claimant, the Revenue Commissioners shall have regard to—
+
+(i) the extent to which the cost of the overpaid amount was, for practical purposes, passed on by that claimant to other persons in the price charged by the claimant for goods or services supplied by the claimant,
+
+(ii) any net loss of profits which they have reason to believe, based on their own analysis and on any information that may be provided to them by that claimant, was borne by the claimant due to the mistaken assumption made in the operation of the tax, and
+
+(iii) any other factors that that claimant brings to their attention in this context.
+
+(*b*) The Revenue Commissioners may request from the claimant all reasonable information relating to the circumstances giving rise to the claim as may assist them in reaching a determination for the purposes of *paragraph (a)*.
+
+(4) Where, in accordance with *subsection (3)*, the Revenue Commissioners determine that a refund of an overpaid amount or part thereof would result in the unjust enrichment of a claimant, they shall refund only so much of the overpaid amount as would not result in the unjust enrichment of that claimant.
+
+(5) Where, in relation to any claim under *subsection (1)*, the Revenue Commissioners have withheld an amount of the overpaid amount claimed under *subsection (1)* as it would result in the unjust enrichment of the claimant, the Commissioners shall, notwithstanding *subsection (1)*, refund to the claimant that part of the withheld amount together with any interest payable in accordance with *section 105* which the claimant has undertaken to repay to the persons to whom the cost of the overpaid amount was passed on if they are satisfied that the claimant has adequate arrangements in place to identify and repay those persons.
+
+(6) Where a claimant receives a refund in accordance with *subsection (5)* and fails to repay the persons concerned at the latest by the 30th day next following the payment by the Revenue Commissioners of that refund, then any amount not so repaid shall, for the purposes of this Act, be treated as if it were tax due by the claimant for the taxable period within which that day falls.
+
+### 101. Intra-Community refunds of tax. — [VATA Sch. 6]
+
+**101**.—(1) For the purposes of this section—
+
+“applicant” means a taxable person who—
+
+(*a*) not being established in the Member State of refund, but being established in another Member State, and
+
+(*b*) having entered into transactions that give rise to a right of deduction in that other Member State,
+
+makes a refund application;
+
+“deductible transactions” means transactions that give rise to a right of deduction in the Member State concerned;
+
+“Member State of refund”, in relation to an applicant, means the Member State in which value-added tax (as referred to in the VAT Directive) was charged to the applicant in respect of—
+
+(*a*) goods or services supplied to the applicant by other taxable persons in that Member State, or
+
+(*b*) the importation of goods into that Member State;
+
+“non-deductible transactions” means transactions that do not give rise to a right of deduction in the Member State concerned;
+
+“refund application” means an electronic application submitted for a refund of tax charged in the Member State of refund to an applicant in respect of goods or services supplied to the applicant by taxable persons in that Member State or in respect of the importation of goods into that Member State.
+
+(2) The Revenue Commissioners shall, in accordance with this section and regulations (if any), make a refund to an applicant of tax charged to the applicant by accountable persons in the State or tax charged to that applicant on the importation of goods into the State, in cases where a full and correct refund application has been received by them from the Member State in which the applicant is established.
+
+(3)(*a*) Subject to *paragraph (b)*, where the State is the Member State of refund, the amount of tax that is refundable in accordance with *subsection (2)* is the amount of tax charged to an applicant by an accountable person in respect of supplies of goods or services in the State, or on the importation of goods by the applicant into the State, if those goods or services are used by the applicant for the purpose of the applicant’s business, but only to the extent that the applicant would be able to deduct that amount under *Chapter 1* of *Part 8* if the applicant were an accountable person in the State.
+
+(*b*) Where an applicant undertakes in the applicant’s Member State of establishment both deductible transactions and non-deductible transactions, the amount to be refunded by the Member State of refund is the proportion of tax attributable to the deductible transactions as determined in accordance with the law of the applicant’s Member State of establishment.
+
+(4) An applicant who wishes to claim a refund of tax may apply for the refund only through the electronic portal set up for the purpose by the applicant’s Member State of establishment.
+
+(5)(*a*) Where an applicant who carries out transactions of the kind referred to in *subsection (3)(b)* makes a refund application and the proportion of tax referred to in that subsection is subsequently adjusted, the applicant shall make a correction to the original amount that was applied for or has already been refunded.
+
+(*b*) The applicant shall make the correction in a refund application during the calendar year following the period for which the relevant refund application was made or, if the applicant makes no refund applications during that calendar year, by lodging a separate declaration via the electronic portal established by the Member State of establishment of the applicant.
+
+(6)(*a*)(i) Where the State is the Member State of refund, the applicant shall ensure that the refund application covers tax charged in respect of supplies of goods or services invoiced to the applicant and importations by the applicant during a refund period, being a period of not more than one calendar year and, subject to *subparagraph (ii)*, not less than 3 calendar months.
+
+(ii) A refund period may be less than 3 calendar months if the application in respect of the period relates to the last quarter of a calendar year.
+
+(*b*) A refund application may be lodged only on or before 30 September in the calendar year following the refund period.
+
+F350[(*ba*) F351[...]]
+
+(*c*) A refund application may cover tax charged in respect of transactions omitted from the applicant’s previous refund applications, but only if those transactions were completed during the relevant calendar year.
+
+(7)(*a*) An applicant is not entitled to make a refund application under this section for an amount less than €400 if the claim is for a period of less than one calendar year but at least 3 months.
+
+(*b*) An applicant is not entitled to make a refund application under this section for an amount less than €50 if the claim is for a period that represents a full calendar year or the last quarter of a calendar year.
+
+(8) As soon as is practicable after deciding not to forward to another Member State a refund application made by an applicant established in the State on the grounds that the applicant is not entitled to a refund, the Revenue Commissioners shall notify the decision to the applicant by electronic means.
+
+(9)(*a*) This subsection applies to a refund application in respect of which the State is the Member State of refund.
+
+(*b*) As soon as is practicable after receiving from an applicant a refund application to which this subsection applies, the Revenue Commissioners shall notify the applicant by electronic means of the date on which they received the application.
+
+(*c*) Within 4 months after the date on which they received a refund application from an applicant, the Revenue Commissioners shall, except as otherwise provided by this subsection—
+
+(i) decide whether or not to approve the application (whether wholly or partly), and
+
+(ii) notify their decision to the applicant by electronic means.
+
+(*d*)(i) At any time within 4 months after the date on which they received a refund application from an applicant established in another Member State, the Revenue Commissioners may request additional information in support of the details provided in the application.
+
+(ii) A request referred to in *subparagraph (i)* may be made to the applicant, the competent authority of the Member State where the applicant is established or any other person whom the Revenue Commissioners reasonably believe to be capable of providing relevant information.
+
+(*e*) Where the Revenue Commissioners request additional information in accordance with *paragraph (d)*, they shall, except when *paragraph (g)* applies—
+
+(i) decide whether or not to approve the application (whether wholly or partly), and
+
+(ii) notify their decision to the applicant by electronic means,
+
+within 2 months after the relevant date.
+
+(*f*) For the purpose of this subsection, the relevant date is—
+
+(i) where the Revenue Commissioners receive the requested information within one month after the date on which the request was notified to the recipient, the date on which the Commissioners received the additional information,
+
+(ii) where the Revenue Commissioners do not receive the requested information within one month after the date on which the request was made to the recipient, the date on which that period ends,
+
+(iii) where the Revenue Commissioners receive the requested information within one month referred to in *subparagraph (i)*, or that period expires without the Commissioners having received that information, the date that is 6 months after the date on which the refund application was made.
+
+(*g*) Where the Revenue Commissioners consider it necessary to do so, they may, at any time before they make a decision with respect to a refund application, request any of the persons referred to in *paragraph (d)* to provide further additional information concerning the application or the applicant.
+
+(*h*) Where the Revenue Commissioners request further additional information with respect to a refund application or the applicant as provided by *paragraph (g)*, they shall—
+
+(i) decide whether or not to approve the application (whether wholly or partly), and
+
+(ii) notify their decision to the applicant by electronic means,
+
+within 8 months after the date on which they received the refund application.
+
+(*i*) Where the Revenue Commissioners have reasonable doubts about the validity or accuracy of a refund application, they may request the original or a copy of the relevant invoice or importation document to be produced for inspection.
+
+(*j*) Without limiting the grounds on which the Revenue Commissioners may refuse a refund application, they may refuse to approve such an application on the ground that a request made by them under this subsection has been refused or has not been complied with within a reasonable time.
+
+(*k*) Where the Revenue Commissioners notify an applicant of their decision to approve a refund application either wholly or partly, they shall refund the amount due not later than 10 working days after the notification of the decision to the applicant.
+
+(*l*) Where the Revenue Commissioners decide to refuse to approve a refund application either wholly or partly, they shall include in their decision the grounds for the refusal.
+
+(10) Where the State is the Member State of refund, and the applicant requests payment of the refund to be made in another Member State, the Revenue Commissioners shall deduct from the refund amount any bank charges in respect of the payment.
+
+(11)(*a*) An applicant who has obtained a refund from the Revenue Commissioners based on an incorrect refund application containing an erroneous claim or declaration (whether or not the error was made intentionally, recklessly or carelessly) shall—
+
+(i) repay to the Commissioners the amount incorrectly obtained as a refund, and
+
+(ii) pay an amount of interest to the Commissioners.
+
+(*b*) Any such interest is to be calculated at the rate provided for in *section 114(2)* from the date on which the refund was made to the day on which the applicant repays to the Revenue Commissioners the amount incorrectly obtained as a refund.
+
+(*c*) The liability imposed on an applicant by this subsection is in addition to the liability imposed by F352[*section 116* or *116A*, as appropriate].
+
+(12) While an applicant to whom *subsection (11)* applies continues to fail to pay the Revenue Commissioners an amount payable under that subsection, the Commissioners shall withhold any further refund to that applicant up to the amount that is due from the applicant under that subsection.
+
+(13)(*a*) Subject to *paragraph (b)*, where the Revenue Commissioners refund an amount due to an applicant but not within the time limits prescribed by *subsection (9)*, they shall pay an amount of interest to the applicant calculated at the rate provided for in *section 105(4)* from the day following the last day of the period within which payment of the amount due is required to be made to the day on which the amount due is paid to the applicant.
+
+(*b*) *Paragraph (a)* does not apply if the applicant—
+
+(i) provides additional information in accordance with a request made by the Revenue Commissioners but not within one month after the date on which the request was notified to the applicant, or
+
+(ii) fails to provide all of the additional information requested within that period.
+
+(14) This section does not apply to F353[an applicant who supplies]—
+
+F354[(*a*) goods or services in respect of which the place of supply is the Member State of refund, other than—
+
+(i) goods or services for which the person who receives them is liable, F355[...]
+
+(ii) services, the supply of which is taxable in accordance with *section 34(kc)*, to which the Union scheme (within the meaning of *section 91A*) applies,] F356[or]
+
+F357[(iii) goods, the supply of which is taxable in accordance with section 30, to which the import scheme (within the meaning of *section 91A*) applies, or]
+
+(*b*) a transport service, or a service ancillary to such a service, that is exempted in the Member State of supply in accordance with Article 144, 146, 148, 149, 151, 153, 159 or 160 of the VAT Directive.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F350: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 5, in effect as per reg. 1(2).
+>
+> F351: Deleted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(e), commenced on enactment.
+>
+> F352: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 75(5)(b) and sch. part 2 para. (a), commenced on enactment.
+>
+> F353: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 14(a), commenced on enactment.
+>
+> F354: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(k), in effect as per reg. 2(1).
+>
+> F355: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 23(a), in effect as per reg. 2.
+>
+> F356, F357: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 23(b), (c), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E79: Previous affecting provision: subs. (6)(ba) inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 5, in effect as per reg. 1(2); deleted as per F-note above.
+>
+> E80: Previous affecting provision: subs. (14)(a) amended (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 14(b), commenced on enactment; superseded as per F-note above.
+
+### 102. Refunds to taxable persons established outside the Community. — [VATA s. 13(3)]
+
+**102**.—(1) In this section “deductible tax”, in relation to a person to whom this section applies—
+
+(*a*) subject to *paragraph (b)*, means tax chargeable (including any flat-rate addition) in respect of goods or services used by the person for the purposes of any business carried on by him or her to the extent that such tax would be deductible by that person under *Chapter 1* of *Part 8* if the business were carried on by that person within the State,
+
+(*b*) does not include tax chargeable in respect of goods for supply within the State.
+
+(2) In accordance with regulations, the Revenue Commissioners shall repay, to a person to whom this section applies, deductible tax chargeable in respect of supplies of goods or services to that person or in respect of goods imported by him or her.
+
+(3) This section applies to a person who satisfies the Revenue Commissioners that the person—
+
+(*a*) carries on a business outside the Community, and
+
+F358[(*b*) supplies no goods or services in the State other than—
+
+(i) services for which, in accordance with *section 10*, *12*, *16(3)(b)* or *17(1)*, the person to whom they are supplied is solely liable for the tax that is F359[chargeable,]
+
+(ii) services, the supply of which is taxable in accordance with *section 34(kc)*, to which the non-Union scheme (within the meaning of *section 91A*) F360[applies, or]]
+
+F361[(iii) goods, the supply of which is taxable in accordance with *section 30*, to which the import scheme (within the meaning of *section 91A*) applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F358: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(l), in effect as per reg. 2(1).
+>
+> F359, F360: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 24(a), (b), in effect as per reg. 2.
+>
+> F361: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 24(c), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E81: Previous affecting provision: subs. (3)(b) amended (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 3(d) and table, in effect as per reg. 1(2); superseded as per F-note above.
+
+### 103. Ministerial refund orders. — [VATA s. 20(3)]
+
+**103**.—(1) F362[Subject to *subsection (2A)*, the Minister] may by order provide that a person who fulfils to the satisfaction of the Revenue Commissioners such conditions as may be specified in the order shall be entitled to be repaid so much, as is specified in the order, of any tax borne or paid by the person as does not qualify for deduction under *Chapter 1* of *Part 8*.
+
+(2) F362[Subject to *subsection (2A)*, the Minister] may by order amend or revoke an order under this section, including an order under this subsection.
+
+F363[(2A) Where the Minister makes an order under this section, the Minister, in making the order, shall have regard to one or both of the following:
+
+(*a*) the nature or purpose, including any social purpose, of the goods or services to which the refund the subject of the order relates;
+
+(*b*) the nature or purpose of the person referred to in *subsection (1)* in relation to the goods or services to which the refund the subject of the order relates.
+
+F364[(2AA) Where a person referred to in *subsection (1)* has received a refund of tax, which is the subject of an order made under this section, and where, at any time after the refund of tax has been made, the Revenue Commissioners have reasonable grounds to believe that details of the claim giving rise to the refund were incorrect and that the person was therefore not entitled to all or part of that refund, it shall be considered that the conditions as specified in the order were not fulfilled by that person and accordingly that person shall be required to repay all or part of the refund, as appropriate, to the Revenue Commissioners.]
+
+(2B) Where the Minister makes an order under this section, the Minister may specify requirements in the order, to be complied with by the person referred to in *subsection (1)* after the refund the subject of the order has been paid to him or her, relating to—
+
+(*a*) the carrying out of a review—
+
+(i) at such time, or
+
+(ii) upon the occurrence of such event,
+
+as may be specified in the requirement concerned, to ascertain whether the conditions specified in the order continue to be fulfilled in relation to that person, or in relation to the goods or services to which such refund relates, or both, and
+
+(*b*) the repayment to the Revenue Commissioners of all or part of such refund, as specified in the requirement concerned, if, following such review, it is ascertained that one or more of those conditions—
+
+(i) is no longer fulfilled, or
+
+(ii) has, at any stage after such refund has been paid to that person, temporarily ceased to be fulfilled.]
+
+(3) An order under this section may, if so expressed, have retrospective effect.
+
+(4) An order under this section shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F362: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 85(c) and (d), commenced on enactment.
+>
+> F363: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 85(e), commenced on enactment.
+>
+> F364: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 55, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E82: Power pursuant to section exercised (1.01.2022) by *value-Added Tax (Refund of Tax) (Charities Compensation Scheme) (Amendment) Order 2021* (S.I. No. 713 of 2021), in effect as per art. 1(2).
+>
+> E83: Power pursuant to section exercised (1.01.2018) by *Value-Added Tax (Refund of Tax) (Charities Compensation Scheme) Order 2018* (S.I. No. 580 of 2018), in effect as per art. 1(2), (3) in relation to tax paid on expenditure on or after 1 January 2018 by a qualifying charity.
+>
+> E84: Power pursuant to section exercised (10.07.2013) by *Value-Added Tax (Refund of Tax) (Rescue Boats and Related Equipment) Order 2013* (S.I. No. 249 of 2013).
+>
+> E85: Power pursuant to section exercised (25.07.2012) by *Value-Added Tax (Refund of Tax) (Touring Coaches) Order 2012* (S.I. No. 266 of 2012).
+>
+> E86: Power pursuant to section exercised (12.06.2012) by *Value-Added Tax (Refund of Tax) (Flat-rate Farmers) Order 2012* (S.I. No. 201 of 2012).
+
+### 104. Repayments in specific circumstances. — [VATA ss. 5(6A), 13(1)(b) and (c), (2)(b) and (c) and (3A) and 20(2)]
+
+**104**.—(1)(*a*) In accordance with regulations, the Revenue Commissioners shall repay, to a person to whom this subsection applies, the residual tax included in the consideration for supply of a new means of transport where such new means of transport is subsequently dispatched or transported to another Member State.
+
+(*b*) This subsection applies to a person who is not entitled to a deduction under *Chapter 1* of *Part 8* of the tax borne or paid by the person on the purchase, intra-Community acquisition or importation of the new means of transport in question.
+
+(2)(*a*) F365[...]
+
+(*b*) F365[...]
+
+(*c*) F365[...]
+
+(*d*) Where a telephone card is used to access a telecommunications service, the value of the telephone card so used shall, for the purposes of *section 37(3)*, be disregarded.
+
+(3) Notwithstanding anything in this Act, a refund of the tax paid in respect of radio broadcasting reception apparatus and parts thereof belonging to an institution or society may be made to the institution or society but only if—
+
+(*a*) in the opinion of the Revenue Commissioners, it has for its primary object the amelioration of the lot of blind persons, and
+
+(*b*) it shows, to the satisfaction of the Revenue Commissioners, that the goods in question are intended for the use of blind persons.
+
+(4) Regulations may make provision for remitting or repaying, subject to such conditions (if any) as may be specified in the regulations or as the Revenue Commissioners may impose, the tax chargeable in respect of the supply of goods, or of such goods as may be specified in the regulations, in cases where the Commissioners are satisfied that—
+
+(*a*) the goods have been shipped on board an aircraft or ship proceeding to a place outside the State,
+
+(*b*) the goods are, or are to be used in, a fishing vessel used or to be used for the purposes of commercial sea fishing.
+
+(5) Regulations may make provision for remitting or repaying, subject to such conditions (if any) as may be specified in the regulations or as the Revenue Commissioners may impose, the tax chargeable in respect of the supply of both or any one (as may be specified in the regulations) of the following services:
+
+(*a*) the repair, maintenance and hiring of plant or equipment used in a vessel or an aircraft specified in *paragraph 4(2)* of *Schedule 2*,
+
+(*b*) the repair, maintenance and hiring of a vessel used, or of plant or equipment used in a vessel used, for the purposes of commercial sea fishing.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F365: Deleted (1.01.2019) by *Finance Act 2018* (30/2018), s. 45(1), commenced as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E87: Procedure and conditions for claiming refund of tax remitted in respect of the supply or importation of fishing nets used or to be used for the purposes of commercial sea-fishing under subs. (4)(b) prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 38, in effect as per reg. 1(2).
+
+### 105. Interest on refunds of tax. — [VATA s. 21A]
+
+**105**.—(1) For the purposes of this section—
+
+“claimant” means a person who submits a valid claim for a refundable amount;
+
+“overpaid amount” means an amount which is a refundable amount as a result of a claimant having made a payment of tax;
+
+“refundable amount” means an amount which a person is entitled to receive from the Revenue Commissioners in accordance with this Act or any order or regulations made under this Act and which is claimed within the period provided for in *section 99(4)*, but such amount does not include interest payable under this section;
+
+“valid claim” means a return or a claim, furnished in accordance with this Act or any order or regulations made under this Act, and which includes all information required by the Revenue Commissioners to establish the refundable amount.
+
+(2) Where a mistaken assumption in the operation of the tax is made by the Revenue Commissioners and, as a result, a refundable amount is payable to a claimant, interest at the rate set out in *subsection (4)* or prescribed by order under *subsection (7)* shall, subject to F366[section 960H(4)] of the Taxes Consolidation Act 1997, be payable by the Revenue Commissioners on that amount from—
+
+(*a*) in the case of an overpaid amount, the day that overpaid amount was received by the Revenue Commissioners,
+
+(*b*)(i) subject to *subparagraph (ii)*, in the case of any other refundable amount, the 19th day of the month following the taxable period in respect of which a claimant would have been entitled to receive a refundable amount but for the mistaken assumption in the operation of the tax by the Revenue Commissioners,
+
+(ii) where a return was due in accordance with *Chapter 3 o*f *Part 9* from the claimant referred to in *subparagraph (i)* in respect of the taxable period referred to in that subparagraph, the day such return was received,
+
+to the day on which the refundable amount is paid by the Revenue Commissioners to the claimant.
+
+(3) Where, for any reason other than a mistaken assumption in the operation of the tax made by the Revenue Commissioners, a refundable amount is payable to a claimant but is not paid until after the expiry of 93 days from the day the Revenue Commissioners receive a valid claim for that amount, interest at the rate specified in *subsection (4)* or prescribed by order under *subsection (7)* shall, subject to F366[section 960H(4)] of the Taxes Consolidation Act 1997, be payable by the Revenue Commissioners on that amount from the day on which that 93 days expires to the day on which the refundable amount is paid by the Revenue Commissioners to the claimant.
+
+(4) Interest payable in accordance with this section shall be simple interest payable at the rate of 0.011 per cent per day or part of a day, or such other rate as may be prescribed by the Minister by order under *subsection (7)*.
+
+(5) Interest shall not be payable if it amounts to less than €10.
+
+(6)(*a*) The Revenue Commissioners shall not pay interest in respect of any amount under this Act except as provided for by this section.
+
+(*b*) This section shall not apply in relation to any refund of tax in respect of which interest is payable under or by virtue of F367[section 941 of the Taxes Consolidation Act 1997 as it applies for the purposes of value-added tax].
+
+(7)(*a*) The Minister may, from time to time, make an order prescribing a rate for the purposes of *subsection (4)*.
+
+(*b*) Every order made by the Minister under *paragraph (a)* shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(8) The Revenue Commissioners may make regulations as necessary governing the operation of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F366: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(f), commenced as per par. 4(b).
+>
+> F367: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 128(4), deemed (as per subs. (5)) to apply as respects any tax (within the meaning of section 865B of the *Taxes Consolidation Act 1997* (39/1997)) paid or remitted to the Revenue Commissioners or the Collector-General, as the case may be, whether before, on or after the passing of the *Finance Act 2012* (9/2012).
+
+## PART 13 Administration and General — PART 13 — Administration and General
+
+### Chapter 1 Administration — Chapter 1 — Administration
+
+#### 106. Care and management of tax. — [VATA s. 43]
+
+**106**.— Tax is hereby placed under the care and management of the Revenue Commissioners.
+
+#### 107. Officer responsible in case of body of persons. — [VATA s. 33]
+
+**107**.—(1) In this section “provisions relating to tax” means—
+
+(*a*) the provisions of this Act and regulations, and
+
+(*b*) the provisions relating to tax of any subsequent Act.
+
+(2) The secretary or other officer acting as secretary for the time being of any body of persons shall be answerable in addition to the body for doing all such acts as are required to be done by the body under any of the provisions relating to tax.
+
+(3) Every officer referred to in *subsection (2)* may from time to time retain out of any money coming into that officer’s hands, on behalf of the body, so much thereof as is sufficient to pay the tax due by the body and shall be indemnified for all such payments made in pursuance of this section.
+
+(4) Any notice required to be given to a body of persons under any of the provisions relating to tax may be given to the secretary or other officer acting as secretary for the time being of that body.
+
+#### 108. Inspection and removal of records. — [VATA s. 18]
+
+**108**.—(1) In this section—
+
+“authorised officer” means an officer of the Revenue Commissioners authorised by them in writing for the purposes of this section;
+
+“records” means any document, or any other written or printed material in any form, including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form, which a person is required to keep, retain, issue or produce for inspection or which may be inspected under any provision relating to tax.
+
+(2) For the purposes of this Act and regulations, an authorised officer may at all reasonable times enter any premises or place where he or she has reason to believe that business is carried on or anything is done in connection with business and—
+
+(*a*) may require the person carrying on the business, or any person on those premises or in that place who is employed by the person carrying on the business or who is associated with that person in the carrying on of the business, to produce any books, records, accounts or other documents relating to the business or to any other business which the authorised officer has reason to believe may be, or have been, connected with such business or have, or have had, trading relations with such business,
+
+(*b*) may, if the authorised officer has reason to believe that any of the books, records, accounts or other documents which he or she has required to be produced to him or her under this subsection have not been so produced, search in those premises or that place for those books, records, accounts or other documents,
+
+(*c*) may, if the authorised officer has reason to believe that a person is carrying or has in that person’s possession any records which may be required as evidence in criminal proceedings in accordance with section 1078 of the Taxes Consolidation Act 1997 in relation to the tax, request the person to produce any such records, and if that person should fail to do so, the authorised officer or a member of the Garda Síochána may search that person, provided that—
+
+(i) the officer or the member of the Garda Síochána conducting the search ensures, as far as practicable, that the person understands the reason for the search,
+
+(ii) the search is conducted with due regard to the privacy of that person,
+
+(iii) the person being searched is not searched by an officer or member of the Garda Síochána of the opposite sex, and
+
+(iv) the person being searched is not requested to remove any clothing other than headgear or a coat, jacket, glove or a similar article of clothing,
+
+(*d*) may, in the case of any such books, records, accounts or other documents produced to or found by the authorised officer, take copies of or extracts from them and remove and retain them for such period as may be reasonable for their further examination or for the purposes of any proceedings in relation to tax,
+
+(*e*) may, if the authorised officer has reason to believe that goods connected with taxable supplies, intra-Community acquisitions or importations are held on those premises or in that place and that particulars of such goods have not been kept and retained, as required by this Act or by regulations, in the books, records, accounts or other documents of the business or of any other business similarly required to keep and retain particulars of those goods, search those premises or that place for those goods and, on their discovery, examine and take particulars of them,
+
+(*f*) may require the person carrying on the business, or any person on those premises or in that place who is employed by the person carrying on the business or who is associated with that person in the carrying on of the business, to give the authorised officer all reasonable assistance, including providing information and explanations and furnishing documents in connection with the business, as required by the authorised officer.
+
+(3) Nothing in *subsection (2)* shall be construed as requiring any person carrying on a profession, or any person employed by any person carrying on a profession, to produce to an authorised officer any documents relating to a client, other than such documents as are material to the tax affairs of the person carrying on the profession and, in particular, any such person shall not be required to disclose any information or professional advice of a confidential nature given to a client.
+
+(4) An accountable person shall, on request from an authorised officer, furnish to that officer, in respect of a specified period, the following information:
+
+(*a*) the name and address of each of his or her customers;
+
+(*b*) the total consideration payable in respect of supplies of goods and services made by him or her to each such customer and the tax thereon;
+
+(*c*) the value and description of any gifts or promotional items given by him or her to any person in connection with such supplies or any other payments made by him or her to any person in connection with such supplies;
+
+(*d*) the name, address and registration number of each of his or her suppliers;
+
+(*e*) the total consideration payable in respect of goods and services supplied to him or her from each supplier and the tax thereon.
+
+(5) A person shall not wilfully obstruct or delay an authorised officer in the exercise of his or her powers under this section.
+
+(6) Where, in pursuance of this section, an authorised officer enters any premises, carries out any search or requests production of any documents, he or she shall, on request, show his or her authorisation for the purpose of this section to the person concerned.
+
+F368[(7) The cases in which there is exercisable the powers conferred on an authorised officer by this section shall include the case specified in F369[*subsection (8)*] and this section shall be construed and have effect accordingly.
+
+F370[(8) (*a*) In this subsection—
+
+“EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by all subsequent amendments to that Agreement;
+
+“EEA state” means a state which is a contracting party to the EEA Agreement;
+
+“EU value-added tax” means value-added tax referred to in the VAT Directive and includes tax within the meaning of *section 2*;
+
+“financial institution” means—
+
+(i) a person who holds or has held a licence under section 9 or an authorisation granted under section 9A of the Central Bank Act 1971 , or a person who holds or has held a licence or other similar authorisation under the law of an EEA state, other than the State, which corresponds to a licence granted under the said section 9,
+
+(ii) a person referred to in section 7(4) of the Central Bank Act 1971 , or
+
+(iii) a credit institution (within the meaning of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)) which has been authorised by the Central Bank of Ireland to carry on the business of a credit institution in accordance with the provisions of any financial services legislation (within the meaning of those Regulations), other than an authorisation granted under section 9A of the Central Bank Act 1971;
+
+“records” means any document, or any other written or printed material in any form, including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form, which a person is required to keep, retain, issue or produce for inspection or which may be inspected under any provision relating to EU value-added tax.
+
+(*b*) The case referred to in *subsection (7)* is a case in which an authorised officer is required by Council Regulation 904/2010/EU of 7 October 2010[^29] on administrative cooperation and combating fraud in the field of value-added tax to provide to a requesting authority (as defined in Article 2 of that Council Regulation) in another Member State, on request by that authority, any books, records, accounts or other documents whether—
+
+(i) related to a business being carried on in the State or another Member State,
+
+(ii) connected with that business by means of trading relations, either current or otherwise, that such a business has had with other businesses, or
+
+(iii) held by a financial institution,
+
+and where such a request is made, the books, records, accounts or other documents that may be the subject of the exercise of the powers referred to in *subsection (7)* shall extend to such books, records, accounts or other documents as are deemed to be relevant by the authorised officer.
+
+(*c*) Notwithstanding any obligation as to secrecy or other restriction upon disclosure of information imposed by or under statute or otherwise, and subject to this section, an authorised officer may, for the purpose of fulfilling a request related to the case referred to in this subsection, serve on a financial institution a notice in writing—
+
+(i) requiring the financial institution, within such period as may be specified in the notice, not being less than 30 days from the date of service of the notice, to do either or both of the following, as may be specified in the notice:
+
+(I) to make available for inspection by the authorised officer such books, records, accounts or other documents as are in the financial institution's power, possession or procurement and as contain, or may, in the opinion of the authorised officer (being an opinion formed on reasonable grounds) contain, information relevant to the case referred to in this subsection;
+
+(II) to furnish to the authorised officer, in writing or otherwise, such information, explanations and particulars as the authorised officer may reasonably require, being information, explanations and particulars that are relevant to any such case,
+
+and
+
+(ii) informing the financial institution of the consequences under *section 115(5A)* of failing to comply with the notice.
+
+(*d*) Where, in compliance with the requirements of a notice under *paragraph (c)*, a financial institution makes available for inspection by an authorised officer, books, records, accounts or other documents specified in the notice, it shall afford the authorised officer reasonable assistance, including information, explanations and particulars, in relation to the use of all the electronic or other automatic means, if any, by which the books, records, accounts or other documents, in so far as they are in a non-legible form, are capable of being reproduced in a legible form and any data equipment or any associated apparatus or material.
+
+(*e*) An authorised officer shall not serve a notice on a financial institution under *paragraph (c)* without the consent in writing of a Revenue Commissioner and without having reasonable grounds to believe that the financial institution is likely to have information relevant to the case referred to in this subsection.
+
+(*f*) Where, in compliance with a notice served under *paragraph (c)*, a financial institution makes books, records, accounts or other documents available for inspection by an authorised officer, the authorised officer may take extracts from or make copies of all or any part of the books, records, accounts or other documents.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F368: Inserted (22.12.2019) by *Finance Act 2019* (45/2019), s. 54, commenced on enactment.
+>
+> F369, F370: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 57(a)(i), (ii), commenced on enactment.
+
+### Chapter 1A Special measures for the protection of the tax — F371[Chapter 1A — Special measures for the protection of the tax] — Annotations Amendments: Inserted (23.12.2014) by Finance Act 2014 (37/2014), s. 68(a), commenced on enactment.
+
+#### 108A. Notice of requirement to furnish certain information, etc.
+
+F372[**108A**.—(1) The Revenue Commissioners may, for the purposes of the prevention and detection of tax evasion, serve a notice in writing on an accountable person whom the Commissioners have reasonable grounds for believing is likely to have further information, explanations or particulars in respect of any books, records (within the meaning of *section 108*), accounts or other documents relating to his or her supplies of goods made to his or her customers which may assist in identifying taxable supplies in respect of which tax chargeable will not be, or is not likely to be, paid requiring the accountable person to furnish to the Commissioners any such information, explanations or particulars as they may reasonably require and which they consider may so assist.
+
+(2) A notice served under *subsection (1)* shall—
+
+(*a*) specify—
+
+(i) the date from which the notice shall have effect, being a date not earlier than 7 days from the date of service of the notice,
+
+(ii) the information, explanations or particulars, referred to in *subsection (1)*, required to be furnished to the Revenue Commissioners,
+
+(iii) the period for which the notice shall have effect, being a period not more than 2 months from the date specified under *subparagraph (i)*,
+
+(iv) the period within which the accountable person shall furnish the specified information, explanations or particulars to the Commissioners, being a period not less than 14 days from the end of the period specified under *subparagraph (iii)*, and
+
+(v) the form in which the specified information, explanations or particulars shall be furnished to the Commissioners,
+
+and
+
+(*b*) inform the accountable person of the consequences under *section 115(8A)* of failing to comply with the notice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F372: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 65(a), commenced on enactment.
+
+#### 108B. Notice of requirement to issue a document
+
+F373[**108B.**—(1) The Revenue Commissioners may, for the purposes of an inquiry or investigation, where they have reasonable grounds to believe that the service of such a notice may assist in the prevention and detection of tax evasion, serve a notice in writing on an accountable person, requiring such person, for such period as is specified in the notice, in relation to each supply of taxable goods or services made by that person to which the provisions of *section 66(1)(a)* do not apply, to issue, at the time of such supply, a document which shall—
+
+(*a*) contain all the particulars that would be required by regulations to be included in the document if that document were an invoice required to be issued in accordance with *section 66(1)(a)*, and
+
+(*b*) unless *subsection (2)* applies, state that the document is issued under *section 108B* of the Value-Added Tax Consolidation Act 2010.
+
+(2) A document issued pursuant to a notice served under *subsection (1)* may be issued as if it were an invoice issued in accordance with *section 66(1)*, using a sequential number from a series of numbers used for the purpose of identifying invoices issued in accordance with *section 66(1)*, subject to the accountable person keeping a separate record of the number within that series that applies to any such document so issued.
+
+(3) A notice served under *subsection (1)* shall—
+
+(*a*) specify the period for which the notice shall have effect, being a period of not more than 2 months beginning on a date not earlier than 7 days from the date of service of the notice, and
+
+(*b*) inform the accountable person of the consequences under *section 115(8B)* of failing to comply with the notice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F373: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 68(b), commenced on enactment.
+
+#### 108C. Joint and several liability for tax
+
+F374[**108C.**—(1) In this section—
+
+“first accountable person” means the person who, in relation to any taxable supply of goods or services or intra-Community acquisition of goods chargeable to tax in accordance with *section 3(a)*, *(c)*, *(d)* or *(e)* is, apart from this section, liable to pay the tax chargeable in accordance with *Chapter 3* of *Part 9*;
+
+“second accountable person” means a person, other than the first accountable person, who participates as a purchaser or as a supplier in a series of taxable supplies;
+
+“series of taxable supplies” means a supply of taxable goods or services made or received by an accountable person and any previous or subsequent supply of those taxable goods or services made or received by other accountable persons and includes intra-Community acquisitions of goods.
+
+(2) Where, in relation to a particular series of taxable supplies—
+
+(*a*) at the time a supply or intra-Community acquisition (forming part of that series) was made, the second accountable person knows that, or is reckless as to whether or not, that supply of goods or services or intra-Community acquisition is connected to the fraudulent evasion of tax, and
+
+(*b*) in respect of a taxable period, some or all of the tax due and payable in relation to the supply or intra-Community acquisition has not been remitted to the Collector-General by the first accountable person,
+
+the second accountable person is jointly and severally liable with the first accountable person for the tax due and payable on that supply or intra-Community acquisition in accordance with *subsection (3)* and shall be liable to pay that tax as if it were tax due and payable by the second accountable person in accordance with *Chapter 3* of *Part 9*.
+
+(3) The amount of tax for which the second accountable person is held, as referred to in *subsection (2)*, jointly and severally liable shall, for each taxable supply of goods or services or intra-Community acquisition, be calculated in accordance with the following formula—
+
+A - B
+
+where—
+
+A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under *section 3(a)*, *(c)*, *(d)* or *(e)*, and
+
+B is the amount of tax, if any, which may be deductible in accordance with *section 59(2)* by the first accountable person, provided that the aforementioned deductible tax is directly attributable to the acquiring of those goods and services which give rise to the charge to tax payable by the first accountable person.
+
+(4) Where, in relation to any period, the Revenue Commissioners or such officer as the Revenue Commissioners may authorise, have reason to believe that an amount of tax is due and payable to the Commissioners in accordance with this section, they shall serve a notice in writing on the second accountable person, specifying—
+
+(*a*) that the second accountable person is jointly and severally liable, in accordance with this section, for tax that has not been remitted,
+
+(*b*) the amount of tax due and payable by the second accountable person, and
+
+(*c*) the name and address of any accountable person, with whom the second accountable person is jointly and severally liable in accordance with this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F374: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 69(1), commenced on enactment.
+
+#### 108D. Cancellation of a registration number - special provisions for notification and publication
+
+F375[**108D.**— Where—
+
+(*a*) a registration number assigned to a person in accordance with *section 65(2)* is cancelled, and
+
+(*b*) it appears requisite to the Revenue Commissioners to do so for the protection of the revenue,
+
+the Commissioners may, notwithstanding any obligation as to secrecy or other restriction upon disclosure of information imposed on them by any enactment or otherwise—
+
+(i) inform the suppliers to the person to whom that registration number relates, insofar as it is practicable, that that person’s registration number has been cancelled and furnish them with—
+
+(I) that cancelled registration number,
+
+(II) the date from which that registration number has been cancelled, and
+
+(III) the name and address of the person to whom that registration number had been assigned,
+
+(ii) publish in *Iris Oifigiúil*—
+
+(I) the cancelled registration number,
+
+(II) the date from which that registration number has been cancelled, and
+
+(III) the name and address of the person to whom that registration number had been assigned,
+
+and
+
+(iii) make publicly available the information which has been published in accordance with *paragraph (ii)* in any other publication and in any manner, form, format or media.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F375: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 58, commenced on enactment.
+
+#### 109. Security to be given by certain taxable persons. — [VATA s. 23A]
+
+**109**.—(1) The Revenue Commissioners may, where it appears requisite to them to do so for the protection of the revenue, require an accountable person, as a condition of the person supplying goods or services under a taxable supply, to give security, or further security, of such amount and in such manner and form as they may determine, for the payment of any tax which is, or may become, due from him or her from the date of service on him or her of a notice in writing to that effect.
+
+(2) Where a notice is served on a person in accordance with *subsection (1)*, the person F376[may appeal to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice referred to in *subsection (1)*, the requirement to give security under that subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F376: Substituted (21.03.2010) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(d), S.I. No. 110 of 2016.
+
+#### 109A. Tax representative.
+
+F377[**109A.**—(1) Subject to *subsections (2)* and *(3)*, the Revenue Commissioners may, where it appears requisite to them to do so for the protection of the revenue, serve on a taxable person a notice in writing requiring the person to appoint a representative (in this section referred to as a “tax representative”) who is established in the Community to be the person who shall be liable for the payment of tax due and payable by the taxable person.
+
+(2) *Subsection (1)* shall apply where the taxable person is not established in the State and no legal instrument relating to mutual assistance similar in scope to that provided for in Directive 76/308/EEC[^30] and Regulation (EC) No 1798/2003[^31] exists with the country in which that taxable person is established.
+
+(3) *Subsection (1)* shall not apply to a taxable person not established within the Community who has opted for the special scheme provided for under Section 2 of Chapter 6 of Title XII of the VAT Directive.
+
+(4) A tax representative appointed in accordance with *subsection (1)* shall be jointly and severally liable with the taxable person referred to in that subsection for the tax due and payable on the taxable supplies of the taxable person and shall be liable to pay that tax as if it were tax due and payable by the tax representative in accordance with *Chapter 3* of *Part 9*.
+
+(5) A notice served under *subsection (1)* shall—
+
+(*a*) require the taxable person to furnish details of the appointment of the tax representative to the Revenue Commissioners within 21 days of receipt of the notice,
+
+(*b*) specify the form in which the details referred to in *paragraph (a)* shall be furnished to the Revenue Commissioners, and
+
+(*c*) inform the taxable person of the consequences under *section115(8C)* of failing to comply with the notice.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F377: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(b), commenced on enactment.
+
+### Chapter 2 Estimation, assessment and time limits — Chapter 2 — Estimation, assessment and time limits
+
+#### 110. Estimation of tax due. — [VATA s. 22]
+
+**110**.—(1)(*a*) Subject to *paragraph (b)*, where within the time prescribed by *section 76* or *77*, as may be appropriate, an accountable person fails to furnish in accordance with the relevant regulations a return of the tax payable by that person in respect of any period, then, without prejudice to any other action which may be taken, the Revenue Commissioners may, in accordance with regulations, but subject to *section 113*, estimate the amount of tax payable by him or her in respect of that period and serve notice on him or her of the amount estimated.
+
+(*b*) Where the Revenue Commissioners are satisfied that—
+
+(i) an amount estimated under *paragraph (a)* is excessive, they may amend the amount so estimated by reducing it, or
+
+(ii) an amount estimated under *paragraph (a)* is insufficient, they may amend the amount so estimated by increasing it,
+
+and, in either case, they shall serve notice on the person concerned of the revised amount estimated and such notice shall supersede any previous notice issued under this subsection.
+
+(2) Where a notice is served under *subsection (1)* on a person, the following provisions shall apply:
+
+F378[(*a*) a person who considers that he or she is not an accountable person may appeal to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice, for a determination on whether he or she is an accountable person;]
+
+(*b*) on the expiration of such period, if no such claim is required to be so referred, or if such a claim is required to be so referred, on final determination against the claim, the estimated tax specified in the notice shall be recoverable in the same manner and by the like proceedings as if the person had furnished, within the prescribed period, a true and correct return, in accordance with regulations, for the period to which the estimate relates, showing as due by that person such estimated tax;
+
+F379[(*c*) if, after the service of the notice, the person—
+
+(i) furnishes a return, in accordance with regulations, in respect of the period specified in the notice, and
+
+(ii) pays tax in accordance with the return, together with any interest and costs which may have been incurred in connection with the default,
+
+the notice shall stand discharged and the person may claim, in accordance with regulations, a refund of any excess tax which may have been paid in respect of the period specified in the notice.]
+
+(3) A notice given by the Revenue Commissioners under *subsection (1)* may extend to 2 or more taxable periods.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F378: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(e), S.I. No. 110 of 2016.
+>
+> F379: Substituted (21.12.2015) by *Finance Act 2015* (52/2015), s. 59, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E88: Particulars required to be included in notice of amount of tax estimated in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 41(1), in effect as per reg. 1(2).
+
+#### 111. Assessment of tax due. — [VATA s. 23]
+
+**111**.—(1) Where, in relation to any period, the inspector of taxes, or such other officer as the Revenue Commissioners may authorise to exercise the powers conferred by this section (in this section referred to as “other officer”), has reason to believe that an amount of tax is due and payable to the Revenue Commissioners by a person in any of the following circumstances:
+
+(*a*) the total amount of tax payable by the person F380[, including tax (if any) payable in accordance] F381[with *section 108C(3)*, *109A(4)* or *91J(10)(b)*] was greater than the total amount of tax (if any) paid by that person;
+
+(*b*) the total amount of tax refunded to the person in accordance with *section 99(1)* was greater than the amount (if any) properly refundable to that person;
+
+(*c*) an amount of tax is payable by the person and a refund under *section 99(1)* has been made F383[to the person;]
+
+F384[(*d*) the total amount of tax refunded to the person in accordance with an order under *section 103* was greater than the amount (if any) properly refundable to that person,]
+
+then, without prejudice to any other action which may be taken, the inspector or other officer—
+
+F383[(i) may, in accordance with regulations but subject to *section 113*, make an assessment in one sum of—
+
+(I) the total amount of tax F380[, including tax (if any) payable in accordance] F382[with *section 108C(3)*, *109A(4)* or *91J(10)(b)*] which in his or her opinion should have been paid,
+
+(II) the total amount of tax (including a nil amount) which in accordance with *section 99(1)* should have been refunded, or
+
+(III) the total amount of tax (including a nil amount) which in accordance with the order under *section 103* should have been refunded,
+
+as the case may be, in respect of such period, and]
+
+(ii) may serve a notice on the person specifying—
+
+(I) the total amount of tax so assessed,
+
+(II) the total amount of tax (if any) paid by the person or refunded to the person in relation to such period, and
+
+(III) the total amount so due and payable (referred to subsequently in this section as “the amount due”).
+
+F385[(2) Where a notice of assessment is served on a person under *subsection (1)*, the following paragraphs shall apply:
+
+(*a*) subject to *paragraph (b)*, a person aggrieved by an assessment made on that person under *subsection (1)* may appeal the assessment to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of assessment;
+
+(*b*) where, in accordance with *section 76* or *77*, a person on whom a notice of assessment is served is required to furnish a return and remit the amount of tax payable to the Collector-General, no appeal lies against the assessment until such time as the person—
+
+(i) furnishes the return in respect of each taxable period included in the period referred to in *subsection (1)*, and
+
+(ii) pays or has paid the amount of tax payable on the basis of that return;
+
+(*c*) in default of an appeal, in accordance with *paragraph (a)*, being made by a person on whom a notice of assessment has been served—
+
+(i) the assessment shall be final and conclusive, and
+
+(ii) the amount due shall be due and payable as if the tax were tax that the person referred to in *paragraph (b)* is liable to pay for the taxable period during which the period of 14 days after the date of the service of the notice of assessment expires;
+
+and
+
+(*d*) where an appeal is determined by agreement or otherwise, the amount due as determined in relation to the appeal shall be due and payable as if the tax were tax that the person referred to in *paragraph (a)* is liable to pay for the taxable period during which the appeal is so determined.
+
+(3) Interest shall not be chargeable in accordance with *section 114* from the date on which an assessment is made where—
+
+(*a*) the amount that was paid in accordance with *subsection (2)(b)(ii)* is greater than 80 per cent of the amount found to be due on determination of the appeal, and
+
+(*b*) the balance of the amount found to be due on determination of the appeal is paid within 30 days of such determination.]
+
+F386[(4) An assessment that is otherwise final and conclusive shall not, for any purpose of this Act, be regarded as not final and conclusive or as ceasing to be final and conclusive by reason only of the fact that a Revenue officer has amended, or may amend, the assessment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F380: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 69(2)(b), (c), commenced on enactment.
+>
+> F381, F382: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 25, in effect as per reg. 2.
+>
+> F383: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 91(a) and (c), commenced on enactment.
+>
+> F384: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 91(b), commenced on enactment.
+>
+> F385: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(f)(i), S.I. No. 110 of 2016.
+>
+> F386: Inserted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(f)(ii), S.I. No. 110 of 2016.
+>
+> **Editorial Notes:**
+>
+> E89: Particulars required to be included in notice of amount of tax assessed in accordance with section prescribed (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 41(2), in effect as per reg. 1(2); as amended (22.11.2012) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(g).
+>
+> E90: Previous affecting provision: subs. (1)(a), (i)(I) amended (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(c)(i), (ii), commenced on enactment; substituted as per F-note above.
+
+#### 112. Generation of electronic, etc. estimates and assessments. — [VATA s. 22A]
+
+**112**.— For the purposes of this Act and regulations, where an officer of the Revenue Commissioners nominated in accordance with regulations for the purposes of *section 110* or an inspector of taxes or an officer of the Revenue Commissioners authorised for the purposes of *section 111*, or any other officer of the Revenue Commissioners acting with the knowledge of such nominated officer or such inspector or such authorised officer causes to issue, manually or by any electronic, photographic or other process, a notice of estimation or assessment of tax bearing the name of such nominated officer or such inspector or such authorised officer, that estimate or assessment to which the notice of estimation or assessment of tax relates shall be deemed—
+
+(*a*) in the case of an estimate made under *section 110*, to have been made by such nominated officer, and
+
+(*b*) in the case of an assessment made under *section 111*, to have been made by such inspector or such authorised officer, as the case may be, to the best of such inspector’s or such authorised officer’s opinion.
+
+#### 113. Time limits. — [VATA s. 30]
+
+**113**.—(1) An estimation or assessment of tax under *section 110* or *111* may be made at any time not later than 4 years—
+
+(*a*) after the end of the taxable period to which the estimate or assessment relates, or
+
+(*b*) if the period for which the estimate or assessment is made consists of 2 or more taxable periods, after the end of the earlier or earliest taxable period within that period.
+
+(2)(*a*) Subject to *paragraphs (b)* and *(c)*, in this subsection “neglect” means negligence or a failure to give any notice, to furnish particulars, to make any return or to produce or furnish any invoice, credit note, debit note, receipt, account, voucher, bank statement, estimate or assessment, statement, information, book, document, record or declaration required to be given, furnished, made or produced by or under this Act or regulations.
+
+(*b*) A person shall be deemed not to have failed to do anything required to be done within a limited time if the person did it within such further time (if any) as the Revenue Commissioners may have allowed.
+
+(*c*) Where a person had a reasonable excuse for not doing anything required to be done, he or she shall be deemed not to have failed to do it if he or she did it without unreasonable delay after the excuse had ceased.
+
+(*d*) Notwithstanding *subsection (1)*, in a case in which any form of fraud or neglect has been committed by or on behalf of any person in connection with or in relation to tax, an estimate or assessment as referred to in that subsection may be made at any time for any period for which, by reason of the fraud or neglect, tax would otherwise be lost to the Exchequer.
+
+(3)(*a*) Where a person dies, an estimation or assessment of tax under *section 110* or *111*, as the case may be, may be made on the person’s personal representative for any period for which such an estimation or assessment could have been made on him or her immediately before his or her death, or could be made on him or her if he or she were living, in respect of tax which became due by the person before his or her death, and the amount of tax recoverable under any such estimation or assessment shall be a debt due from and payable out of the estate of the person.
+
+(*b*)(i) No estimation or assessment of tax shall be made by virtue of this subsection later than 3 years after the expiration of the year in which the deceased person died, in a case in which the grant of probate or letters of administration was made in that year.
+
+(ii) No such estimation or assessment shall be made later than 2 years after the expiration of the year in which such grant was made in any other case.
+
+(*c*) Notwithstanding *paragraphs (a)* and *(b)*, where the personal representative—
+
+(i) after the year in which the deceased person died, lodges a corrective affidavit for the purposes of the assessment of estate duty, or delivers an additional affidavit under section 48 of the Capital Acquisitions Tax Consolidation Act 2003, or
+
+(ii) is liable to deliver an additional affidavit under section 48 of the Capital Acquisitions Tax Consolidation Act 2003, has been so notified by the Revenue Commissioners and did not deliver such additional affidavit in the year in which the deceased person died,
+
+the estimation or assessment under *section 110* or *111* may be made at any time before the expiration of 2 years after the end of the year in which the corrective affidavit was lodged or the additional affidavit was or is delivered.
+
+(4) Subject to F387[*section 116(10)* or *116A(13)*, as appropriate], proceedings for the recovery of any penalty under this Act may be commenced at any time within 6 years next after the date on which it was incurred.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F387: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 75(5)(b) and sch. part 2 para. (b), commenced on enactment.
+
+### Chapter 3 Interest and penalties — Chapter 3 — Interest and penalties
+
+#### 114. Interest payable by accountable persons. — [VATA s. 21]
+
+**114**.—(1) Where any amount of tax becomes payable under F388[*section 76*, *77*, *91C(4)* or *91E(4)*] and is not paid, simple interest on the amount shall be paid by the accountable person, and such interest shall be calculated from the date on which the amount became payable and at a rate of 0.0274 per cent for each day or part of a day during which the amount remains unpaid.
+
+(2) Where an amount of tax is refunded to a person and—
+
+(*a*) no amount of tax was properly refundable to that person under *section 99(1)*, or
+
+(*b*) the amount of tax refunded is greater than the amount properly refundable to that person under *section 99(1)*,
+
+then simple interest shall be paid by that person on any amount of tax refunded to that person which was not properly refundable to that person under *section 99(1)*, from the date the refund was made, at the rate of 0.0274 per cent for each day or part of a day during which the person does not correctly account for any such amount refunded which was not properly refundable.
+
+(3)(*a*) Subject to *paragraph (b)*, where the amount of the balance of tax remaining to be paid in accordance with *section 77(2)(b)* and *(c)* by an authorised person referred to in *section 77(5)* (in this subsection referred to as the “balance”) represents more than 20 per cent of the tax which the authorised person became accountable for in respect of his or her accounting period, then, for the purposes of this subsection, that balance shall be deemed to be payable on a day (in this subsection referred to as the “accrual day”) which is 6 months prior to the final day for the furnishing of a return in accordance with *section 77(2)(b)* and simple interest in accordance with this section shall apply from that accrual day.
+
+(*b*) Where an authorised person can demonstrate to the satisfaction of the Collector-General that the amount of interest payable on the balance, in accordance with this subsection, is greater than the sum of the amounts of interest which would have been payable in accordance with this section if—
+
+(i) the authorised person were not so authorised,
+
+(ii) the person had submitted a return in accordance with *section 76(1)* for each taxable period comprising the accounting period, and
+
+(iii) the amounts which were paid by direct debit during a taxable period are deemed to have been paid on the due date for submission of that return for that taxable period,
+
+then that sum of the amounts of interest is payable.
+
+(4) *Subsections (1)* and *(2)* shall apply—
+
+(*a*) to tax recoverable by virtue of a notice under *section 110* as if the tax were tax which the person was liable to pay for the respective taxable period or periods comprised in the notice, and
+
+(*b*) to tax recoverable by virtue of a notice under *section 111* (whether a notice of appeal under that section is received or not) as if the tax were tax which the person was liable to pay for the taxable period or, as the case may be, the later or latest taxable period included in the period comprised in the notice.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F388: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(m), in effect as per reg. 2(1).
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of section restricted by *Taxes Consolidation Act 1997* (39/1997), s. 1080A, as inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 6, commenced on enactment.
+>
+> **Interest on overdue tax - supplementary provision**
+>
+> **1080A.** ...
+>
+> (2) This subsection shall apply where—
+>
+> (*a*) an agreement is entered into between a person and the Collector-General in relation to the payment by the person of declared liabilities under *section 849*, and
+>
+> (*b*) the agreement was entered into, or the person requested that the Collector-General enter into the agreement, on or before 30 September 2020.
+>
+> (3) Subject to *subsection (6)*, where *subsection (2)* applies, the following provisions shall not apply to the declared liabilities from the date on which the interest determined in accordance with subsection (5) applies to the declared liabilities in accordance with *subsection (4)*: ...
+>
+> (*s*) section 114 of the Value-Added Tax Consolidation Act 2010 ;
+>
+> (*t*) section 114A of the Value-Added Tax Consolidation Act 2010 ;
+>
+> ...
+>
+> (4) Where *subsection (2)* applies, the declared liabilities shall carry interest from the later of—
+>
+> (*a*) 1 August 2020, and
+>
+> (*b*) the date on which the agreement referred to in *subsection (2)* is entered into, and the amount of that interest shall be determined in accordance with *subsection (5)*.
+>
+> (5) The interest to be carried by the declared liabilities referred to in *subsection (4)* shall be the amount determined by the formula—
+>
+> DL x D x P
+>
+> where—
+>
+> DL is the amount of the declared liabilities which remains unpaid,
+>
+> D is the number of days (including part of a day) forming the period of delay, and
+>
+> P is 0.0082 per cent.
+>
+> ...
+>
+> C5: Application of section restricted (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 17(4), in effect as per reg. 1(2).
+>
+> *Apportionment*
+>
+> 17\. ...
+>
+> (4) Where in accordance with paragraph (3) an accountable person adjusts the amount of tax deductible for a review period and, subsequent to that adjustment, it is established that adjustment was incorrect, then section 114 of the Act does not apply to any additional liability for tax arising out of the correction of that adjustment, but only if—
+>
+> (*a*) that person, or any person acting on his or her behalf, did not act fraudulently or negligently in relation to that adjustment,
+>
+> (*b*) that person submitted, by the due date for submission of the return referred to in paragraph (3)(*c*), details setting out the basis on which the adjustment was made to the office of the Commissioners which would normally deal with the examination of the records kept by that person in accordance with Chapter 7 of Part 9 of the Act, and
+>
+> (*c*) that additional liability is not the subject of an assessment of tax under section 111 of the Act.
+
+#### 114A. Interest payable in certain circumstances.
+
+F389[**114A**.—(1) Where an amount of tax is refunded to a person in accordance with an order under *section 103* and—
+
+(*a*) no amount of tax was properly refundable to that person under the order, or
+
+(*b*) the amount of tax refunded is greater than the amount properly refundable to that person under that order,
+
+then simple interest shall be paid by that person on any amount of tax refunded to that person which was not properly refundable to that person under that order, from the date the refund was made, at the rate of 0.0274 per cent for each day or part of a day during which the person does not correctly account for any such amount refunded which was not properly refundable.
+
+(2) *Subsection (1)* shall apply to tax recoverable by virtue of a notice under *section 111* (whether a notice of appeal under that section is received or not) as if the tax were tax which the person was liable to pay for the taxable period or, as the case may be, the later or latest taxable period included in the period comprised in the notice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F389: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 92, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section restricted by *Taxes Consolidation Act 1997* (39/1997), s. 1080A, as inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 6, commenced on enactment.
+>
+> **Interest on overdue tax - supplementary provision**
+>
+> **1080A.** ...
+>
+> (2) This subsection shall apply where—
+>
+> (*a*) an agreement is entered into between a person and the Collector-General in relation to the payment by the person of declared liabilities under *section 849*, and
+>
+> (*b*) the agreement was entered into, or the person requested that the Collector-General enter into the agreement, on or before 30 September 2020.
+>
+> (3) Subject to *subsection (6)*, where *subsection (2)* applies, the following provisions shall not apply to the declared liabilities from the date on which the interest determined in accordance with subsection (5) applies to the declared liabilities in accordance with *subsection (4)*: ...
+>
+> (*s*) section 114 of the Value-Added Tax Consolidation Act 2010 ;
+>
+> (*t*) section 114A of the Value-Added Tax Consolidation Act 2010 ;
+>
+> ...
+>
+> (4) Where *subsection (2)* applies, the declared liabilities shall carry interest from the later of—
+>
+> (*a*) 1 August 2020, and
+>
+> (*b*) the date on which the agreement referred to in *subsection (2)* is entered into, and the amount of that interest shall be determined in accordance with *subsection (5)*.
+>
+> (5) The interest to be carried by the declared liabilities referred to in *subsection (4)* shall be the amount determined by the formula—
+>
+> DL x D x P
+>
+> where—
+>
+> DL is the amount of the declared liabilities which remains unpaid,
+>
+> D is the number of days (including part of a day) forming the period of delay, and
+>
+> P is 0.0082 per cent.
+>
+> ...
+
+#### 114B. Covid-19: special warehousing and interest provisions
+
+F390[**114B.**—(1) F391[Subject to *subsection (1A)*, in this section]—
+
+“the Acts” means—
+
+(*a*) this Act, other than this section,
+
+(*b*) Parts 18C and 18D of the Taxes Consolidation Act 1997,
+
+(*c*) the Stamp Duties Consolidation Act 1999 and the enactments amending or extending that Act,
+
+(*d*) the Capital Acquisitions Tax Consolidation Act 2003 and the enactments amending or extending that Act,
+
+(*e*) the Finance (Local Property Tax) Act 2012 and the enactments amending or extending that Act,
+
+(*f)* the Customs Act 2015 and the enactments amending or extending that Act,
+
+(*g*) the Capital Gains Tax Acts,
+
+(*h*) the Tax Acts, within the meaning of section 1 of the Taxes Consolidation Act 1997,
+
+(*i*) the statutes relating to the duties of excise and to the management of those duties, and
+
+(*j*) any instruments made under any of the enactments referred to in *paragraphs (a)* to *(i)*;
+
+“Covid-19” has the same meaning as it has in the Emergency Measures in the Public Interest (Covid-19) Act 2020;
+
+F392[“Covid-19 entitlement” means an entitlement to payment of an amount under—
+
+(*a*) section 485 of the Taxes Consolidation Act 1997,
+
+(*b*) section 28B of the Emergency Measures in the Public Interest (Covid-19) Act 2020,
+
+(*c*) any of the following schemes:
+
+(i) the scheme commonly known as the Live Performance Support Scheme Strand II;
+
+(ii) the scheme commonly known as the Live Performance Support Scheme Phase 3;
+
+(iii) the scheme commonly known as the Live Performance Restart Grant Scheme;
+
+(iv) the scheme commonly known as the Live Local Performance Support Scheme;
+
+(v) the scheme commonly known as the Commercial Entertainment Capital Grant Scheme;
+
+(vi) the scheme commonly known as the Music and Entertainment Business Assistance Scheme;
+
+(vii) the scheme commonly known as the Attractions and Activity Tourism Operators Business Continuity Scheme 2022;
+
+(viii) the scheme commonly known as the Strategic Tourism Transport Business Continuity Scheme 2022;
+
+(ix) the scheme commonly known as the Strategic Ireland Based Inbound Agents Tourism Business Continuity Scheme 2022;
+
+(x) the scheme commonly known as the Tourism Accommodation Providers Business Continuity Scheme 2022;
+
+(xi) the scheme commonly known as the Sustaining Enterprise Fund;
+
+(xii) the scheme commonly known as the Accelerated Recovery Fund;
+
+(xiii) the scheme commonly known as the Support for Licensed Outbound Travel Agents and Tour Operators;
+
+(xiv) the scheme commonly known as the Temporary Covid-19 Supports for Commercial Bus Operators,
+
+or
+
+(*d*) a scheme designated for the purpose of this paragraph by order of the Revenue Commissioners under *subsection (1B)*;]
+
+“Covid-19 liabilities” means, subject to *subsection (14)*, value-added tax due and payable by an accountable person under this Act and any regulations made under this Act, in respect of taxable periods in Period 1;
+
+“Period 1”, in relation to an accountable person, means the period—
+
+(*a*) beginning on the later of—
+
+(i) the first day of the taxable period immediately preceding the taxable period in which the accountable person’s business was first adversely affected by Covid-19, and
+
+(ii) 1 January 2020,
+
+and
+
+F393[(*b*) ending on 31 December 2021;]
+
+F394[“Period 2”, in relation to an accountable person, means the period beginning on 1 January 2022 and ending on 31 December 2022;]
+
+F395[“Period 3”, in relation to an accountable person, means the period beginning on 1 January 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.]
+
+F396[...]
+
+F398[(1A) Where an accountable person has a Covid-19 entitlement—
+
+(*a*) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(*b*) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the accountable person between 1 January 2022 and 30 April 2022,
+
+then, in this section—
+
+“Period 1”, in relation to the accountable person, means the period—
+
+(*a*) beginning on the later of—
+
+(i) the first day of the taxable period immediately preceding the taxable period in which the accountable person’s business was first adversely affected by Covid-19, and
+
+(ii) 1 January 2020,
+
+and
+
+(*b*) ending on 30 April 2022;
+
+“Period 2”, in relation to the accountable person, means the period beginning on 1 May 2022 and ending on 30 April 2023;
+
+“Period 3”, in relation to the accountable person, means the period beginning on 1 May 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
+
+(1B) The Revenue Commissioners may designate by order a scheme for the purpose of *paragraph (d)* of the definition of “Covid-19 entitlement” in *subsection (1)*, where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in *paragraph (c)* of that definition.]
+
+(2) For the purposes of this section, the business of an accountable person shall be treated as being adversely affected by Covid-19 on the date on which the Revenue Commissioners agreed to temporarily suspend the F399[collection of the liabilities] of the accountable person in respect of value-added tax as a consequence of the effect on the accountable person’s business of Covid-19.
+
+(3) This section shall apply to an accountable person—
+
+(*a*) who, as a consequence of the effect on the accountable person’s business of Covid-19 is unable to pay all or part of the accountable person’s Covid-19 liabilities,
+
+(*b*) who complies with the requirements to furnish returns under *Chapter 3* of *Part 9*, and
+
+(*c*) either—
+
+(i) the accountable person’s tax affairs are administered by the Personal Division or Business Division of the Office of the Revenue Commissioners, or
+
+(ii) the accountable person has formed the view that the accountable person is unable to pay all or part of the accountable person’s Covid-19 liabilities and has notified the Revenue Commissioners that the accountable person has formed such a view.
+
+(4) For the purposes of *subsection (3)(c)(i)*, an accountable person’s tax affairs shall be treated as being administered by the Personal Division or Business Division of the Office of the Revenue Commissioners where the most recent correspondence received by the accountable person from that Office indicates that to be the case.
+
+F400[(5) An inspector of taxes, or such other officer as the Revenue Commissioners have authorised for the purposes of *section 111*, may make such enquiries as he or she considers necessary to satisfy himself or herself as to whether an accountable person—
+
+(*a*) is unable to pay all or part of the accountable person’s Covid-19 liabilities, or
+
+(*b*) has a Covid-19 entitlement—
+
+(i) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(ii) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the accountable person between 1 January 2022 and 30 April 2022,
+
+as the case may be.]
+
+(6) Where this section applies to an accountable person, *section 114* shall not apply to the accountable person’s Covid-19 liabilities.
+
+(7) F401[...]
+
+F402[(8) Where—
+
+(*a*) this section applies to an accountable person,
+
+(*b*) the accountable person complies with the accountable person’s obligations under the Acts,
+
+(*c*) the accountable person has—
+
+(i) before 1 May 2024, engaged with the Collector-General regarding the accountable person’s Covid-19 liabilities with a view to entering into an agreement to pay those liabilities, and
+
+(ii) entered into an agreement referred to in *subparagraph (i)*, whether before or after 1 May 2024, and
+
+(*d*) the accountable person complies with the obligations of the accountable person under the agreement entered into as referred to in *paragraph (c)(ii)*,
+
+no interest shall be due and payable by the accountable person in respect of the accountable person’s Covid-19 liabilities during Period 1, Period 2 and Period 3.]
+
+(9) F404[...]
+
+F403[(10) Where an accountable person—
+
+(*a*) at any time during the period beginning on the first day of Period 1 and ending on 30 April 2024 fails to comply with the accountable person’s obligations under the Acts,
+
+(*b*) is not an accountable person to whom *subsection (8)(c)* applies, or
+
+(*c*) on or after 1 May 2024—
+
+(i) fails to comply with the accountable person’s obligations under the Acts, or
+
+(ii) fails to comply with an obligation referred to in *subsection (8)(d)*,
+
+simple interest shall be paid by the accountable person to the Revenue Commissioners on any amount of the Covid-19 liabilities remaining unpaid on—
+
+(I) in a case to which *paragraph (a)* or *(c)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+
+(II) in a case to which *paragraph (b)* applies, 1 May 2024,
+
+and such interest shall be calculated from—
+
+(A) in a case to which *paragraph (a)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred,
+
+(B) in a case to which *paragraph (b)* applies, the first day of Period 3, and
+
+(C) in a case to which *paragraph (c)* applies, 1 May 2024,
+
+until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0274 per cent.]
+
+(11) F405[...]
+
+(12) Where an accountable person has complied with the requirements to file returns under *Chapter 3* of *Part 9*, the failure of the accountable person to pay Covid-19 liabilities shall not, for the purpose of section 1094 or 1095 of the Taxes Consolidation Act 1997, be treated as a failure to comply with the obligations imposed on the accountable person by the Acts (within the meaning of section 1094 or 1095 of the Taxes Consolidation Act 1997, as the case may be).
+
+(13) Section 960E(2) of the Taxes Consolidation Act 1997 shall not apply in respect of Covid-19 liabilities where the accountable person concerned complies with the requirements to furnish returns under *Chapter 3* of *Part 9*.
+
+(14) Where an accountable person—
+
+(*a*) is an authorised person for the purposes of *section 77*, and
+
+(*b*) has been authorised to use an accounting period, within the meaning of that section, of 12 months’ duration which ends—
+
+(i) in that part of Period 1 which is on or after 1 February 2020, or
+
+(ii) in the month immediately following Period 1,
+
+the value-added tax due and payable for that accounting period by the accountable person under this Act and any regulations under this Act shall be treated as Covid-19 liabilities.
+
+(15) F397[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F390: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 4, commenced on enactment.
+>
+> F391: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 8(a)(i), commenced on enactment.
+>
+> F392: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 8(a)(ii), commenced on enactment.
+>
+> F393, F394, F395: Substituted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 11(a)(i)-(iii), commenced on enactment.
+>
+> F396, F397: Deleted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 11(a)(iv), (b), commenced on enactment.
+>
+> F398: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 8(b), commenced on enactment.
+>
+> F399: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 74 and sch. para. 4, in effect as per para. 6(a).
+>
+> F400: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 8(c), commenced on enactment.
+>
+> F401: Deleted (12.11.2024) by *Finance Act 2024* (43/2024), s. 109(a), commenced on enactment.
+>
+> F402, F403: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 109(b), (c), commenced on enactment.
+>
+> F404, F405: Deleted (19.12.2020) by *Finance Act 2020* (26/2020), s. 67(b), (d), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E91: Previous affecting provision: subss. (8), (10) substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 67(a), (c), commenced on enactment; substituted (12.11.2024) as per F-note above.
+
+#### 115. Penalties generally. — [VATA s. 26]
+
+**115**.—F406[(1) (*a*) A person who does not comply with *section 64(10)(c)(i)*, *64(12)*, *65(3)*, *86(1)*, F407[*91C(3)* or *(4)*, *91E(3)* or *(4)*,] *95(9)(a)* or *124(7)(a)* or *Chapter 2*, *3*, *6* or *7* of *Part 9* or any provision of regulations in regard to any matter to which those sections or Chapters relate shall be liable to a penalty of €4,000.
+
+(*b*) *Paragraph (a)* shall not apply to a person, being the second accountable person (as defined in *section 108C*), where—
+
+(i) that person is jointly and severally liable by virtue of *section 108C*, and
+
+(ii) the penalty which would otherwise arise under *paragraph (a)* only relates to the tax for which that person is jointly and severally liable by virtue of that section.]
+
+F408[(*c*) *Paragraph (a)* shall not apply to a person, being a tax representative appointed in accordance with *section 109A*, where—
+
+(i) that person is jointly and severally liable by virtue of *section 109A*, and
+
+(ii) the penalty which would otherwise arise under *paragraph (a)* only relates to the tax for which that person is jointly and severally liable by virtue of that section.]
+
+F409[(*d*) *Paragraph (a)* shall not apply to a person, being an intermediary (within the meaning of *section 91I*), where—
+
+(i) that person is jointly and severally liable by virtue of *section 91J(10)*, and
+
+(ii) the penalty which would otherwise arise under *paragraph (a)* only relates to the tax for which that person is jointly and severally liable by virtue of *section 91J(10)*.]
+
+F410[(1A) A person who does not comply with *subsection (4B)* of *section 15* shall be liable to a penalty of €4,000 in respect of the taxable period during which the person failed to comply with that subsection and to a further penalty of €4,000 for each subsequent taxable period during which the person has failed to comply with that subsection.
+
+(1B) Where the person referred to in *subsection (1A)* is a body of persons, the secretary to that body of persons shall be liable to a separate penalty of €4,000 in respect of the taxable period during which the person referred to in *subsection (1A)* failed to comply with *subsection (4B)* of *section 15* and to a separate further penalty of €4,000 for each subsequent taxable period during which that person has failed to comply with that subsection.]
+
+F411[(1C) (*a*) In this subsection, “payment service provider” has the same meaning as it has in *section 85A*.
+
+(*b*) A payment service provider who does not comply with F412[*section 85C*], as the case may be, shall be liable to a penalty of €4,000 in respect of the calendar quarter during which the payment service provider failed to comply with the section concerned and to a further penalty of €4,000 for each subsequent calendar quarter during which that payment service provider has failed to comply with F413[that section].
+
+(*c*) A payment service provider who does not comply with *section 85E* shall be liable to a penalty of €4,000.]
+
+F414[(*d*) (i) A payment service provider who does not comply with *section 85F(2)* shall be liable to a penalty of €4,000.
+
+(ii) A payment service provider who fails to provide the information contained in the records referred to in *section 85F(2)* in respect of the calendar quarter to which that information relates (in this subparagraph referred to as the “first-mentioned calendar quarter”), in the manner specified in *section 85G(a)*, by the end of the month following each calendar quarter subsequent to the first-mentioned calendar quarter, shall be liable to a further penalty of €4,000 in respect of such failure in respect of each such subsequent calendar quarter after the first-mentioned calendar quarter until the payment service provider provides the information concerned in the manner so specified.]
+
+(2) A person who is not a registered person and who, on or after 1 November 1972, issues an invoice in which an amount of tax is stated shall be liable to a penalty of €4,000.
+
+(3) Any person who, otherwise than under and in accordance with *section 68(2)(a)* or *86(1)* issues an invoice in which an amount of flat-rate addition is stated shall be liable to a penalty of €4,000.
+
+F415[(3A) A person who issues an invoice, settlement voucher or other document provided for in *section 68* or *86* in which an amount of flat-rate addition is stated in respect of supplies of goods or services which are the subject of an order made under *section 86A* shall be liable to a penalty of €4,000.]
+
+(4) Where a person referred to in *subsection (1)*, *(2)* or *(3)* is a body of persons, the secretary shall be liable to a separate penalty of €4,000.
+
+(5) A person who does not comply with *section 108(5)* or with a requirement of an authorised officer under that section shall be liable to a penalty of €4,000.
+
+F416[(5A) A financial institution which fails to comply with a notice served under section 108(8)(c) shall be liable to a penalty of €4,000.]
+
+(6) Where—
+
+(*a*) a person is authorised in accordance with *section 98(2)(a)* to inspect any immovable goods for the purpose of reporting to the Revenue Commissioners the open market value of an interest in those goods, and
+
+(*b*) the person having custody or possession of those goods prevents such inspection or obstructs the person so authorised in the performance of his or her functions in relation to the inspection,
+
+the person so having custody or possession shall be liable to a penalty of €4,000.
+
+(7) A person who supplies taxable goods or services in contravention of the requirement of security specified in *section 109* shall be liable to a penalty of €4,000 in respect of each such supply.
+
+F417[(7A) A person who does not comply with *section 56(3)(c)* shall be liable to a penalty of €4,000 in respect of the taxable period during which he or she ceased to be a qualifying person (within the meaning of *section 56*) and to a further penalty of €4,000 for each subsequent taxable period during which he or she is not such a person and has failed to advise the Revenue Commissioners accordingly.]
+
+F418[(7B) A person who does not comply with a requirement specified in an order under *section 103* shall be liable to a penalty of €4,000.]
+
+(8) A person who fails to comply with a notice issued under *section 124(7)(b)* shall be liable to a penalty of €4,000.
+
+F419[(8A) A person who fails to furnish to the Revenue Commissioners the information, explanations or particulars specified in a notice served on the person under *subsection (1)* of *section 108A* within the period specified in the notice shall be liable to a penalty of €4,000.]
+
+F420[(8B) A person who fails to comply with a notice issued under *section 108B* shall be liable to a penalty of €4,000.]
+
+F421[(8C) A person who fails to comply with a notice served under *section 109A(1)* shall be liable to a penalty of €4,000.]
+
+(9) In proceedings for recovery of a penalty under this Act—
+
+(*a*) a certificate signed by an officer of the Revenue Commissioners which certifies that the officer has inspected the relevant records of the Revenue Commissioners and that it appears from them that, during a stated period, stated particulars or stated returns were not furnished by the defendant shall be evidence until the contrary is proved that the defendant did not, during that period, furnish the particulars or return,
+
+(*b*) a certificate signed by an officer of the Revenue Commissioners which certifies that the officer has inspected the relevant records of the Revenue Commissioners and that it appears from them that a stated document was duly sent to the defendant on a stated day shall be evidence until the contrary is proved that that person received that document in the ordinary course,
+
+(*c*) a certificate signed by an officer of the Revenue Commissioners which certifies that the officer has inspected the relevant records of the Revenue Commissioners and that it appears from them that a stated notice was not issued by them to the defendant shall be evidence until the contrary is proved that the defendant did not receive the notice in question,
+
+(*d*) a certificate signed by an officer of the Revenue Commissioners which certifies that the officer has inspected the relevant records of the Revenue Commissioners and that it appears from them that, during a stated period, the defendant was an accountable person or was not an accountable person shall be evidence until the contrary is proved that, during that period, the defendant was an accountable person or was not an accountable person, as the case may be,
+
+(*e*) a certificate certifying as provided for in *paragraph (a)*, *(b)*, *(c)* or *(d)* and purporting to be signed by an officer of the Revenue Commissioners may be tendered in evidence without proof and shall be deemed, until the contrary is proved, to have been signed by an officer of the Revenue Commissioners.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F406: Substituted (23.12.2014) by *Finance Act 2014* (37/2014), s. 69(2)(d), commenced on enactment.
+>
+> F407: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(n), in effect as per reg. 2(1).
+>
+> F408: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(d)(i), commenced on enactment.
+>
+> F409: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 26, in effect as per reg. 2.
+>
+> F410: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 51(b), commenced on enactment.
+>
+> F411: Inserted (12.11.2024) by *Finance Act 2024* (43/2024), s. 84, commenced on enactment.
+>
+> F412, F413: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 76(a)(i), (ii), in effect as per s. 76.
+>
+> F414: Inserted (1.01.2026) by *Finance Act 2025* (18/2025), s. 76(b), in effect as per s. 76.
+>
+> F415: Inserted (1.01.2017) by *Finance Act 2016* (18/2016), s. 47(1)(d), commenced as per subs. (2).
+>
+> F416: Inserted (15.12.2022) by *Finance Act 2022* (44/2022), s. 57(b), commenced on enactment.
+>
+> F417: Inserted (6.02.2011) by *Finance Act 2011* (6/2011), s. 58(b), commenced on enactment.
+>
+> F418: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 93, commenced on enactment.
+>
+> F419: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 65(b), commenced on enactment.
+>
+> F420: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 68(c), commenced on enactment.
+>
+> F421: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(d)(ii), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E92: Previous affecting provision: subs. (1) amended (6.02.2011) by *Finance Act 2011* (6/2011), s. 58(a), commenced on enactment; superseded as per F-note above.
+
+#### 116. Penalty for deliberately or carelessly making incorrect returns, etc. — [VATA s. 27A]
+
+**116**.—(1) In this section—
+
+“carelessly” means failure to take reasonable care;
+
+“liability to tax” means a liability to the amount of the difference specified in *subsection (11)* or *(12)* arising from any matter referred to in *subsection (2)*, *(3)*, *(5)* or *(6)*;
+
+“period” means taxable period, accounting period or other period, as the context requires;
+
+“prompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that has been made to the Revenue Commissioners or to a Revenue officer in the period between—
+
+(*a*) the date on which a person is notified by a Revenue officer of the date on which an investigation or inquiry into any matter occasioning a liability to tax of that person will start, and
+
+(*b*) the date that the investigation or inquiry starts;
+
+“qualifying disclosure”, in relation to a person, means—
+
+(*a*) in relation to a penalty referred to in *subsection (4)*, a disclosure that the Revenue Commissioners are satisfied is a disclosure of—
+
+(i) complete information in relation to, and full particulars of, all matters occasioning a liability to tax that gives rise to a penalty referred to in *subsection (4)*, and
+
+(ii) full particulars of all matters occasioning any liability to tax or duty that gives rise to—
+
+(I) a penalty referred to in section 1077E(4) of the Taxes Consolidation Act 1997,
+
+(II) a penalty referred to in section 134A(2) of the Stamp Duties Consolidation Act 1999, and
+
+(III) the application of section 1077E(4) of the Taxes Consolidation Act 1997 to the Capital Acquisitions Tax Consolidation Act 2003,
+
+and
+
+(*b*) in relation to a penalty referred to in *subsection (7)*, a disclosure that the Revenue Commissioners are satisfied is a disclosure of complete information in relation to, and full particulars of, all matters occasioning a liability to tax that gives rise to a penalty referred to in *subsection (7)* for the relevant period,
+
+and which is made in writing to the Revenue Commissioners or to a Revenue officer and signed by or on behalf of that person and is accompanied by—
+
+(A) a declaration, to the best of that person’s knowledge, information and belief, made in writing that all matters contained in the disclosure are correct and complete, and
+
+(B) a payment of the tax and duty payable in respect of any matter contained in the disclosure and the interest on late payment of that tax and duty;
+
+“Revenue officer” means an officer of the Revenue Commissioners;
+
+“unprompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that the Revenue Commissioners are satisfied has been voluntarily furnished to them—
+
+(*a*) before an investigation or inquiry had been started by them or by a Revenue officer into any matter occasioning a liability to tax of that person, or
+
+(*b*) where the person is notified by a Revenue officer of the date on which an investigation or inquiry into any matter occasioning a liability to tax of that person will start, before that notification.
+
+F422[(1A) This section shall not apply to a person, being the second accountable person (as defined in *section 108C*), where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 108C*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to the tax for which that person is jointly and severally liable by virtue of *section 108C*.]
+
+F423[(1B) This section shall not apply to a person, being a tax representative appointed in accordance with *section 109A*, where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 109A*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of that section.]
+
+F424[(1C) This section shall not apply to a person, being an intermediary (within the meaning of *section 91I*), where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 91J(10)*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of *section 91J(10)*.]
+
+(2) Where a person furnishes a return or makes a claim or declaration for the purposes of this Act or of regulations and, in so doing, the person deliberately—
+
+(*a*) furnishes an incorrect return, or
+
+(*b*) makes an incorrect claim or declaration,
+
+then that person shall be liable to a penalty.
+
+(3) Where a person deliberately fails to comply with a requirement in accordance with this Act or regulations to furnish a return, then the person shall be liable to a penalty.
+
+(4) The penalty referred to—
+
+(*a*) in *subsection (2)*, shall be the amount specified in *subsection (11)*, and
+
+(*b*) in *subsection (3)*, shall be the amount specified in *subsection (12)*,
+
+reduced, where the person liable to the penalty cooperated fully with any investigation or inquiry started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, to—
+
+(i) 75 per cent of that amount where *paragraph (ii)* or *(iii)* does not apply,
+
+(ii) 50 per cent of that amount where a prompted qualifying disclosure is made by that person,
+
+(iii) 10 per cent of that amount where an unprompted qualifying disclosure has been made by that person.
+
+(5) Where a person furnishes a return or makes a claim or declaration for the purposes of this Act or of regulations and, in so doing, the person carelessly but not deliberately—
+
+(*a*) furnishes an incorrect return, or
+
+(*b*) makes an incorrect claim or declaration,
+
+then that person shall be liable to a penalty.
+
+(6) Where a person carelessly but not deliberately fails to comply with a requirement in accordance with this Act or regulations to furnish a return, then the person shall be liable to a penalty.
+
+(7)(*a*) The penalty referred to—
+
+(i) in *subsection (5)*, shall be the amount specified in *subsection (11)*, and
+
+(ii) in *subsection (6)*, shall be the amount specified in *subsection (12)*,
+
+reduced to 40 per cent in cases where the excess referred to in *subparagraph (I)* of *paragraph (b)* applies and to 20 per cent in other cases.
+
+(*b*) Where the person liable to the penalty cooperated fully with any investigation or inquiry started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to—
+
+(i) in *subsection (5)*, shall be the amount specified in *subsection (11)*, and
+
+(ii) in *subsection (6)*, shall be the amount specified in *subsection (12)*,
+
+reduced—
+
+(I) where the difference referred to in *subsection (11)* or *(12)*, as the case may be, exceeds 15 per cent of the amount referred to in *paragraph (b)* of *subsection (11)* or *paragraph (b)* of *subsection (12)*, to—
+
+(A) 30 per cent of that difference where *clause (B)* or *(C)* does not apply,
+
+(B) 20 per cent of that difference where a prompted qualifying disclosure is made by that person,
+
+(C) 5 per cent of that difference where an unprompted qualifying disclosure is made by that person,
+
+or
+
+(II) where the difference referred to in *subsection (11)* or *(12)*, as the case may be, does not exceed 15 per cent of the amount referred to in *paragraph (b)* of *subsection (11)* or *paragraph (b)* of *subsection (12)* to—
+
+(A) 15 per cent of that difference where *clause (B)* or *(C)* does not apply,
+
+(B) 10 per cent of that difference where a prompted qualifying disclosure is made by that person,
+
+(C) 3 per cent of that difference where an unprompted qualifying disclosure is made by that person.
+
+(8) Where, for the purposes of this Act or of regulations, a person deliberately or carelessly produces, furnishes, gives, sends or otherwise makes use of, any incorrect invoice, registration number, credit note, debit note, receipt, account, voucher, bank statement, estimate, statement, information, book, document or record, then the person shall be liable to—
+
+(*a*) a penalty of €3,000 where that person has acted carelessly,
+
+(*b*) a penalty of €5,000 where that person has acted deliberately.
+
+(9) Where any return, claim or declaration as is referred to in *subsection (2)* or *(5)* was furnished or made by a person, neither deliberately nor carelessly, and it comes to the person’s notice that it was incorrect, then, unless the error is remedied without unreasonable delay, the return, claim or declaration shall be treated for the purposes of this section as having been deliberately made or submitted by that person.
+
+(10) Subject to section 1077D(2) of the Taxes Consolidation Act 1997, proceedings or applications for the recovery of any penalty under this section shall not be out of time by reason that they are commenced after the time allowed by *section 113*.
+
+(11) The amount referred to in *paragraph (a)* of *subsection (4)* and in *paragraph (a)(i)* of *subsection (7)* shall be the difference between—
+
+(*a*) the amount of tax (if any) paid or claimed by the person concerned for the relevant period on the basis of the incorrect return, claim or declaration as furnished or otherwise made, and
+
+(*b*) the amount properly payable by, or refundable to, that person for that period.
+
+(12) The amount referred to in *paragraph (b)* of *subsection (4)* and in F425[*paragraphs (a)(ii)* and *(b)(ii)* of *subsection (7)*] shall be the difference between—
+
+(*a*) the amount of tax (if any) paid by that person for the relevant period before the start, by the Revenue Commissioners or by any Revenue officer, of any inquiry or investigation where the Revenue Commissioners had announced publicly that they had started an inquiry or investigation or where the Revenue Commissioners have, or a Revenue officer has, carried out an inquiry or investigation in respect of any matter that would have been included in the return if the return had been furnished by that person and the return had been correct, and
+
+(*b*) the amount of tax properly payable by that person for that period.
+
+(13) Where a second qualifying disclosure is made by a person within 5 years of that person’s first qualifying disclosure, then, as regards matters pertaining to that second disclosure—
+
+(*a*) in relation to *subsection (4)*—
+
+(i) *paragraph (ii)* shall apply as if “75 per cent” were substituted for “50 per cent”, and
+
+(ii) *paragraph (iii)* shall apply as if “55 per cent” were substituted for “10 per cent”,
+
+and
+
+(*b*) in relation to *subparagraph (I)* of *subsection (7)(b)*—
+
+(i) *clause (B)* shall apply as if “30 per cent” were substituted for “20 per cent”, and
+
+(ii) *clause (C)* shall apply as if “20 per cent” were substituted for “5 per cent”.
+
+(14) Where a third or subsequent qualifying disclosure is made by a person within 5 years of that person’s second qualifying disclosure, then, as regards matters pertaining to that third or subsequent disclosure, as the case may be—
+
+(*a*) the penalty referred to in *paragraphs (a)* and *(b)* of *subsection (4)* shall not be reduced, and
+
+(*b*) the reduction referred to in *subparagraph (I)* of *subsection (7)(b)* shall not apply.
+
+(15) A disclosure in relation to a person shall not be a qualifying disclosure where—
+
+(*a*) before the disclosure is made, a Revenue officer had started an inquiry or investigation into any matter contained in that disclosure and had contacted or notified that person, or a person representing that person, in this regard, or
+
+(*b*) matters contained in the disclosure are matters—
+
+(i) that have become known, or are about to become known, to the Revenue Commissioners through their own investigations or through an investigation conducted by a statutory body or agency,
+
+(ii) that are within the scope of an inquiry being carried out wholly or partly in public, or
+
+(iii) to which the person who made the disclosure is linked, or about to be linked, publicly.
+
+F426[(15A) (*a*) In this subsection the expressions “liability to tax or duty”, “offshore matters”, “penalty” and “specified penalty” have the same meanings as in section 1077E(15A)(a) (inserted by section 56(1) of the Finance Act 2016) of the Taxes Consolidation Act 1997.
+
+(*b*) A disclosure in relation to a person made on or after 1 May 2017 shall not be a qualifying disclosure where—
+
+(i) any matters contained in the disclosure relate directly or indirectly to offshore matters, and
+
+(ii) in any other case, the person, before the date the disclosure is made, has offshore matters occasioning a liability to tax or duty that are known or become known at any time to the Revenue Commissioners or any of their officers and the person is liable to a penalty other than a specified penalty in relation to those matters.]
+
+(16) For the purposes of this section, any return, claim or declaration submitted on behalf of a person shall be deemed to have been submitted by that person unless that person proves that it was submitted without that person’s consent or knowledge.
+
+(17) Where a person referred to in *subsection (2)*, *(3)*, *(5)* or *(6)* is a body of persons, the secretary shall be liable to a separate penalty of €1,500 or, in the case of deliberate behaviour, €3,000.
+
+(18) Where a person, in a case in which the person represents that he or she is a registered person or that goods imported by him or her were so imported for the purposes of a business carried on by him or her, improperly procures the importation of goods without payment of tax in circumstances in which tax is chargeable, then he or she shall be liable to a penalty of €4,000 and, in addition, he or she shall be liable to pay to the Revenue Commissioners the amount of any tax that should have been paid on the importation.
+
+(19) Where a person acquires goods without payment of value-added tax (as referred to in the VAT Directive) in another Member State as a result of the declaration of an incorrect registration number, the person shall be liable to a penalty of €4,000 and, in addition, he or she shall be liable to pay to the Revenue Commissioners an amount equal to the amount of tax which would have been chargeable on an intra-Community acquisition of those goods if that declaration had been the declaration of a correct registration number.
+
+(20)(*a*) Where, in pursuance of regulations made for the purposes of *section 57(1)*, tax on the supply of any goods has been remitted or repaid and—
+
+(i) either—
+
+(I) those goods are found in the State after the date on which they were alleged to have been or were to be exported, or
+
+(II) any condition specified in the regulations or imposed by the Revenue Commissioners is not complied with,
+
+and
+
+(ii) the presence of the goods in the State after that date or the non-compliance with the condition has not been authorised for the purposes of this subsection by the Revenue Commissioners,
+
+then—
+
+(A) the goods shall be liable to forfeiture, and
+
+(B) subject to *paragraph (b)*, the tax which was remitted or repaid shall be charged upon and become payable forthwith by the person to whom the goods were supplied or any person in whose possession the goods are found in the State and sections 960I(1), 960J, 960L and 960N of the Taxes Consolidation Act 1997 shall apply accordingly.
+
+(*b*) The Revenue Commissioners may, if they think fit, waive payment of the whole or part of the tax referred to in *subparagraph (B)* of *paragraph (a)*.
+
+(21)(*a*) For the purposes of this section “the declaration of an incorrect registration number” means—
+
+(i) the declaration by a person of another person’s registration number,
+
+(ii) the declaration by a person of a number which is not an actual registration number which the person purports to be his or her registration number,
+
+(iii) the declaration by a person of a registration number which is cancelled,
+
+(iv) the declaration by a person of a registration number which was obtained from the Revenue Commissioners by supplying incorrect information, or
+
+(v) the declaration by a person of a registration number which was obtained from the Revenue Commissioners for the purposes of acquiring goods without payment of value-added tax referred to in the VAT Directive, and not for any *bona fide* business purpose.
+
+(*b*) Where goods—
+
+(i) were supplied at the rate of zero per cent subject to the condition that they were to be dispatched or transported outside the State in accordance with *paragraph 1(1)* or *(2), 3(1)* or *7(3)* of *Schedule 2* and the goods were not so dispatched or transported,
+
+(ii) were acquired without payment of value-added tax referred to in the VAT Directive in another Member State as a result of the declaration of an incorrect registration number,
+
+(iii) were acquired in another Member State and those goods are new means of transport in respect of which the acquirer—
+
+(I) makes an intra-Community acquisition in the State,
+
+(II) is not entitled to a deduction under *Chapter 1* of *Part 8* in respect of the tax chargeable on that acquisition, and
+
+(III) fails to account for the tax due on that acquisition in accordance with *Chapter 3* of *Part 9*,
+
+or
+
+(iv) are being supplied by an accountable person who has not complied with *section 65(3)*,
+
+then those goods shall be liable to forfeiture.
+
+(*c*) Where an officer authorised by the Revenue Commissioners reasonably suspects that goods are liable to forfeiture in accordance with *paragraph (b)*, then those goods may be detained by that officer until such examination, inquiries or investigations as may be deemed necessary by that officer, or by another authorised officer of the Revenue Commissioners, have been made for the purpose of determining to the satisfaction of either officer whether or not those goods were so supplied or acquired.
+
+(*d*) Where a determination referred to in *paragraph (c)* has been made in respect of any goods, or upon the expiry of a period of 2 months from the date on which the goods were detained under that paragraph, whichever is the earlier, those goods shall be seized as liable to forfeiture or released.
+
+(22) The provisions of the Customs Acts relating to forfeiture and condemnation of goods shall apply to goods liable to forfeiture under *subsection (20)* or *(21)* as if they had become liable to forfeiture under those Acts and all powers which may be exercised by an F427[officer of Customs] under those Acts may be exercised by officers of the Revenue Commissioners authorised to exercise those powers for the purposes of those subsections and any provisions in relation to offences under those Acts shall apply, with any necessary modifications, in relation to those subsections.
+
+(23) Where an officer authorised by the Revenue Commissioners for the purposes of this subsection or a member of the Garda Síochána has reasonable grounds for suspecting that a criminal offence has been committed under section 1078 of the Taxes Consolidation Act 1997 in relation to tax, by a person who is not established in the State, or whom that officer believes is likely to leave the State, that officer may arrest the person.
+
+F428[(24) This section shall not apply in respect of any disclosure made, act done or omission made after the date of the passing of the Finance Act 2021.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F422: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 69(2)(e), commenced on enactment.
+>
+> F423: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(e), commenced on enactment.
+>
+> F424: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 27, in effect as per reg. 2.
+>
+> F425: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 15, commenced on enactment.
+>
+> F426: Inserted (1.05.2017) by *Finance Act 2016* (18/2016), s. 56(2), commenced as per subs. (4).
+>
+> F427: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(f), commenced on enactment.
+>
+> F428: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 75(4).
+
+#### 116A. Penalty for deliberately or carelessly making incorrect returns, etc.
+
+F429[**116A.**—(1) In this section—
+
+“carelessly” means failure to take reasonable care;
+
+“liability to tax” means a liability to the amount of the difference specified in *subsection (3)* or *(5)*, as the case may be, arising from any matter referred to in *subsection (2)* or *(4)*, as the case may be;
+
+“period” means taxable period, accounting period or other period, as the context requires;
+
+“prompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that has been made to the Revenue Commissioners or to a Revenue officer in the period between—
+
+(*a*) the date on which a person is notified by a Revenue officer of the date on which an inquiry or investigation into any matter occasioning a liability to tax of that person will start, and
+
+(*b*) the date that the inquiry or investigation starts;
+
+“qualifying disclosure”, in relation to a person, means—
+
+(*a*) in relation to a penalty referred to in *subsection (6)*, a disclosure that the Revenue Commissioners are satisfied is a disclosure of—
+
+(i) complete information in relation to, and full particulars of, all matters occasioning a liability to tax that gives rise to a penalty referred to in *subsection (6)*, and
+
+F430[(ii) full particulars of all matters occasioning any liability to tax or duty that gives rise to—
+
+(I) a penalty referred to in section 1077F(6) of the Taxes Consolidation Act 1997,
+
+(II) a penalty referred to in section 134A(2) of the Stamp Duties Consolidation Act 1999,
+
+(III) the application of section 1077F(6) of the Taxes Consolidation Act 1997 to the Capital Acquisitions Tax Consolidation Act 2003, and
+
+(IV) a penalty referred to in section 99C(6) of the Finance Act 2001, and
+
+and]
+
+(*b*) in relation to a penalty referred to in *subsection (7)* or *(8)*, as the case may be, a disclosure that the Revenue Commissioners are satisfied is a disclosure of complete information in relation to, and full particulars of, all matters occasioning a liability to tax that gives rise to a penalty referred to in *subsection (7)* or *(8)*, as the case may be, for the relevant period,
+
+made in writing to the Revenue Commissioners or to a Revenue officer and signed by or on behalf of that person and is accompanied by—
+
+(A) a declaration, to the best of that person’s knowledge, information and belief, made in writing that all matters contained in the disclosure are correct and complete, and
+
+(B) a payment of the tax and duty payable in respect of any matter contained in the disclosure and the interest on late payment of that tax and duty;
+
+“Revenue officer” means an officer of the Revenue Commissioners;
+
+“unprompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that the Revenue Commissioners are satisfied has been voluntarily furnished to them—
+
+(*a*) before an inquiry or investigation had been started by them or by a Revenue officer into any matter occasioning a liability to tax of that person, or
+
+(*b*) where the person is notified by a Revenue officer of the date on which an inquiry or investigation into any matter occasioning a liability to tax of that person will start, before that notification.
+
+(2) Where a person—
+
+(*a*) furnishes a return or makes a claim or declaration for the purposes of this Act or of regulations and, in so doing, the person deliberately—
+
+(i) furnishes an incorrect return, o
+
+(ii) makes an incorrect claim or declaration,
+
+or
+
+(*b*) furnishes a return or makes a claim or declaration for the purposes of this Act or of regulations and, in so doing, the person carelessly but not deliberately—
+
+(i) furnishes an incorrect return, or
+
+(ii) makes an incorrect claim or declaration,
+
+then—
+
+(I) in the case of *paragraph (a)*, that action shall be a deliberate default for the purposes of this section, and
+
+(II) in the case of *paragraph (b)*, that action shall be a careless default for the purposes of this section, and the person shall be liable to a penalty.
+
+(3) The penalty referred to in *subsection (2)* shall be the difference between—
+
+(*a*) the amount of tax (if any) paid or claimed by the person concerned for the relevant period on the basis of the incorrect return, claim or declaration as furnished or otherwise made, and
+
+(*b*) the amount properly payable by, or refundable to, that person for that period.
+
+(4) Where a person—
+
+(*a*) deliberately fails to comply, or
+
+(*b*) carelessly (but not deliberately) fails to comply, with a requirement in accordance with this Act or regulations to furnish a return, that failure to comply with a requirement shall—
+
+(i) in the case of *paragraph (a)*, be a deliberate default for the purposes of this section, and
+
+(ii) in the case of *paragraph (b)*, be a careless default for the purposes of this section
+
+and the person shall be liable to a penalty.
+
+(5) In relation to any matter that would have been included in a return referred to in *subsection (4)* if it had been delivered by a person and had been correct, the penalty referred to in *subsection (4)* shall be the difference between—
+
+(*a*) the amount of tax (if any) paid by the person for the relevant period before—
+
+(i) unless *subparagraph (ii)* applies, the date of the notice in writing from the Revenue Commissioners to the person concerned of an inquiry or investigation by the Revenue Commissioners or a Revenue officer into the matter, or
+
+(ii) where the Revenue Commissioners had announced publicly that they had started an inquiry or investigation into the matter, the date of that public announcement,
+
+and
+
+(*b*) the amount of tax properly payable by the person for that period.
+
+(6) (*a*) (i) Subject to *subparagraphs (ii)*, *(iii)* and *(iv)*, where a person is liable to a penalty under *subsection (2)* or *(4)*, as the case may be, for a deliberate default, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall not be reduced.
+
+(ii) Where *subparagraph (i)* applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 75 per cent of the difference referred to in subsection (3) or (5), as the case may be (referred to in this subsection and *subsections (7)* and *(8)* as “the difference”).
+
+(iii) Where *subparagraph (ii)* applies and the person made a prompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 50 per cent of the difference.
+
+(iv) Where *subparagraph (ii)* applies and the person made an unprompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 10 per cent of the difference.
+
+(*b*) (i) Subject to *subparagraph (ii)*, where a second qualifying disclosure is made by a person within 5 years of such person’s first qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, for a deliberate default shall not be reduced.
+
+(ii) Where *subparagraph (i)* applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, then—
+
+(I) where that person made a prompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 75 per cent of the difference, and
+
+(II) where the person made an unprompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 55 per cent of the difference.
+
+(*c*) Where a third or subsequent qualifying disclosure is made by a person within 5 years of such person’s second qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, for a deliberate default under *subsection (2)* or *(4)*, as the case may be, shall not be reduced.
+
+(7) (*a*) In this subsection and in *subsection (8)*, “significant consequences” means, where *subsection (2)* applies, the amount of the difference referred to in *subsection (3)* exceeds 15 per cent of the amount referred to in *paragraph (b)* of *subsection (3)* and, where *subsection (4)* applies, the amount of the difference referred to in *subsection (5)* exceeds 15 per cent of the amount referred to in *paragraph (b)* of *subsection (5)*.
+
+(*b*) (i) Subject to s*ubparagraphs (ii)*, *(iii)* and *(iv)*, where a person is liable to a penalty under *subsection (2)* or *(4)*, as the case may be, for a careless default which has significant consequences, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 40 per cent of the difference.
+
+(ii) Where *subparagraph (i)* applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 30 per cent of the difference.
+
+(iii) Where *subparagraph (ii)* applies and the person also made a prompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 20 per cent of the difference.
+
+(iv) Where *subparagraph (ii)* applies and the person also made an unprompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 5 per cent of the difference.
+
+(*c*) (i) Subject to *subparagraph (ii)*, where a second qualifying disclosure is made by a person within 5 years of such person’s first qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, for a careless default with significant consequences shall be reduced to 40 per cent of the difference.
+
+(ii) Where *subparagraph (i)* applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, then—
+
+(I) where the person made a prompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 30 per cent of the difference, and
+
+(II) where the person made an unprompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 20 per cent of the difference.
+
+(*d*) Where a third or subsequent qualifying disclosure is made by a person within 5 years of such person’s second qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, for a careless default with significant consequences shall be reduced to 40 per cent of the difference.
+
+(8) (*a*) Subject to *paragraphs (b)*, *(c)* and *(d)*, where a person is liable to a penalty under *subsection (2)* or *(4)*, as the case may be, for a careless default which does not have significant consequences, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 20 per cent of the difference.
+
+(*b*) Where *paragraph (a)* applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 15 per cent of the difference.
+
+(*c*) Where *paragraph (b)* applies and the person also made a prompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 10 per cent of the difference.
+
+(*d*) Where *paragraph (b)* applies and the person also made an unprompted qualifying disclosure, the penalty referred to in *subsection (3)* or *(5)*, as the case may be, shall be reduced to 3 per cent of the difference.
+
+F431[(9) Where—
+
+(*a*) the aggregate amount of—
+
+(i) the liability to tax (within the meaning of subsection (1)),
+
+(ii) the liability to tax (within the meaning of section 1077F(1) of the Taxes Consolidation Act 1997),
+
+(iii) the liability to duty (within the meaning of section 134A(15) of the Stamp Duties Consolidation Act 1999),
+
+(iv) the differences specified in subsections (5) and (5A), as appropriate, of section 58 of the Capital Acquisitions Tax Consolidation Act 2003 , and
+
+(v) the liability to tax (within the meaning of section 99C(1) of the Finance Act 2001), does not exceed €6,000, and
+
+(*b*) but for this subsection the penalty would be reduced in accordance with *subsection (7)* or *(8)* of this section, subsection (7) or (8) of section 1077F of the Taxes Consolidation Act 1997, subsection (5)(b) or (5A)(b) of section 134A of the Stamp Duties Consolidation Act 1999 or subsection (7) or (8) of section 99C of the Finance Act 2001, as the case may be,
+
+then, notwithstanding *subsection (2)* or *(4)*, as the case may be, that person shall not be liable to a penalty.]
+
+(10) Where any person is liable to a penalty under *subsection (2)* so much of the difference specified in *subsection (3)* as is attributable to a technical adjustment or an innocent error shall not be liable to a penalty.
+
+(11) Where, for the purposes of this Act or of regulations, a person deliberately or carelessly produces, furnishes, gives, sends or otherwise makes use of, any incorrect invoice, registration number, credit note, debit note, receipt, account, voucher, bank statement, estimate, statement, information, book, document or record, the person shall be liable to—
+
+(*a*) a penalty of €3,000 where that person has acted carelessly, or
+
+(*b*) a penalty of €5,000 where that person has acted deliberately.
+
+(12) Where any return, claim or declaration referred to in *subsection (2)* was furnished or made by a person, neither deliberately nor carelessly, and it comes to the person’s notice that it was incorrect, then, unless the error is remedied without unreasonable delay, the return, claim or declaration shall be treated for the purposes of this section as having been deliberately made or submitted by that person.
+
+(13) Subject to section 1077D(2) of the Taxes Consolidation Act 1997, proceedings or applications for the recovery of any penalty under this section shall not be out of time because they are commenced after the time allowed by *section 113*.
+
+(14) This section shall not apply to a person, being the second accountable person (within the meaning of *section 108C*), where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 108C*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to the tax for which that person is jointly and severally liable by virtue of *section 108C*.
+
+(15) This section shall not apply to a person, being a tax representative appointed in accordance with *section 109A*, where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 109A*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of that section.
+
+(16) This section shall not apply to a person, being an intermediary (within the meaning of *section 91I*), where—
+
+(*a*) that person is jointly and severally liable by virtue of *section 91J(10)*, and
+
+(*b*) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of *section 91J(10)*.
+
+(17) A disclosure in relation to a person shall not be a qualifying disclosure where—
+
+(*a*) before the disclosure is made, a Revenue officer had started an inquiry or investigation into any matter contained in that disclosure and had contacted or notified that person, or a person representing that person, in this regard, or
+
+(*b*) matters contained in the disclosure are matters—
+
+(i) that have become known, or are about to become known, to the Revenue Commissioners through their own investigations or through an investigation conducted by a statutory body or agency,
+
+(ii) that are within the scope of an inquiry being carried out wholly or partly in public, or
+
+(iii) to which the person who made the disclosure is linked, or about to be linked, publicly.
+
+(18) For the purposes of this section, any return, claim or declaration submitted on behalf of a person shall be deemed to have been submitted by that person unless that person proves that it was submitted without that person’s consent or knowledge.
+
+(19) Where a person referred to in *subsection (2)* or *(4)*, as the case may be, is a body of persons, the secretary shall be liable to a separate penalty of €1,500 or, in the case of deliberate behaviour, €3,000.
+
+(20) Where a person, in a case in which the person represents that he or she is a registered person or that goods imported by him or her were so imported for the purposes of a business carried on by him or her, improperly procures the importation of goods without payment of tax in circumstances in which tax is chargeable, then he or she shall be liable to a penalty of €4,000 and, in addition, he or she shall be liable to pay to the Revenue Commissioners the amount of any tax that should have been paid on the importation.
+
+(21) Where a person acquires goods without payment of value-added tax (as referred to in the VAT Directive) in another Member State as a result of the declaration of an incorrect registration number, the person shall be liable to a penalty of €4,000 and, in addition, he or she shall be liable to pay to the Revenue Commissioners an amount equal to the amount of tax which would have been chargeable on an intra-Community acquisition of those goods if that declaration had been the declaration of a correct registration number.
+
+(22) (*a*) Where, in pursuance of regulations made for the purposes of *section 57(1)*, tax on the supply of any goods has been remitted or repaid and—
+
+(i) either—
+
+(I) those goods are found in the State after the date on which they were alleged to have been or were to be exported, or
+
+(II) any condition specified in the regulations or imposed by the Revenue Commissioners is not complied with,
+
+and
+
+(ii) the presence of the goods in the State after that date or the non-compliance with the condition has not been authorised for the purposes of this subsection by the Revenue Commissioners,
+
+then—
+
+(A) the goods shall be liable to forfeiture, and
+
+(B) subject to *paragraph (b)*, the tax which was remitted or repaid shall be charged upon and become payable forthwith by the person to whom the goods were supplied or any person in whose possession the goods are found in the State and sections 960I(1), 960J, 960L and 960N of the Taxes Consolidation Act 1997 shall apply accordingly.
+
+(*b*) The Revenue Commissioners may, if they think fit, waive payment of the whole or part of the tax referred to in *subclause (B)* of *paragraph (a)*.
+
+(23) (*a*) For the purposes of this section “the declaration of an incorrect registration number” means—
+
+(i) the declaration by a person of another person’s registration number,
+
+(ii) the declaration by a person of a number which is not an actual registration number which the person purports to be his or her registration number,
+
+(iii) the declaration by a person of a registration number which is cancelled,
+
+(iv) the declaration by a person of a registration number which was obtained from the Revenue Commissioners by supplying incorrect information, or
+
+(v) the declaration by a person of a registration number which was obtained from the Revenue Commissioners for the purposes of acquiring goods without payment of value-added tax (as referred to in the VAT Directive), and not for any bona fide business purpose.
+
+(*b*) Where goods—
+
+(i) were supplied at the rate of zero per cent subject to the condition that they were to be dispatched or transported outside the State in accordance with *paragraph 1(1)* or *(2)*, *3(1)* or *7(3)* of *Schedule 2* and the goods were not so dispatched or transported,
+
+(ii) were acquired without payment of value-added tax (as referred to in the VAT Directive) in another Member State as a result of the declaration of an incorrect registration number,
+
+(iii) were acquired in another Member State and those goods are new means of transport in respect of which the acquirer—
+
+(I) makes an intra-Community acquisition in the State,
+
+(II) is not entitled to a deduction under *Chapter 1* of *Part 8* in respect of the tax chargeable on that acquisition, and
+
+(III) fails to account for the tax due on that acquisition in accordance with *Chapter 3* of *Part 9*,
+
+or
+
+(iv) are being supplied by an accountable person who has not complied with *section 65(3)*,
+
+then those goods shall be liable to forfeiture.
+
+(*c*) Where an officer authorised by the Revenue Commissioners reasonably suspects that goods are liable to forfeiture in accordance with *paragraph (b)*, then those goods may be detained by that officer until such examination, inquiries or investigations as may be deemed necessary by that officer, or by another authorised officer of the Revenue Commissioners, have been made for the purpose of determining to the satisfaction of either officer whether or not those goods were so supplied or acquired.
+
+(*d*) Where a determination referred to in *paragraph (c)* has been made in respect of any goods, or upon the expiry of a period of 2 months from the date on which the goods were detained under that paragraph, whichever is the earlier, those goods shall be seized as liable to forfeiture or released.
+
+(24) The provisions of the Customs Acts relating to forfeiture and condemnation of goods shall apply to goods liable to forfeiture under *subsection (22)* or *(23)* as if they had become liable to forfeiture under those Acts and all powers which may be exercised by an officer of customs under those Acts may be exercised by officers of the Revenue Commissioners authorised to exercise those powers for the purposes of those subsections and any provisions in relation to offences under those Acts shall apply, with any necessary modifications, in relation to those subsections.
+
+(25) Where an officer authorised by the Revenue Commissioners for the purposes of this subsection or a member of An Garda Síochána has reasonable grounds for suspecting that a criminal offence has been committed under section 1078 of the Taxes Consolidation Act 1997 in relation to tax, by a person who is not established in the State, or whom that officer believes is likely to leave the State, that officer may arrest the person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F429: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 75(2), commenced on enactment.
+>
+> F430, F431: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 88(a), (b), commenced on enactment.
+
+#### 117. Penalty for assisting in making incorrect returns, etc. — [VATA s. 28]
+
+**117**.— Any person who assists in or induces the making or delivery, for the purposes of tax, of any return, invoice, claim, credit note, debit note, receipt, account, voucher, bank statement, estimate, statement, information, book, document, record or declaration which he or she knows to be incorrect shall be liable to a penalty of €4,000.
+
+#### 118. Mitigation and application of penalties. — [VATA s. 31]
+
+**118**.—F432[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F432: Repealed (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 78(1)(c), commenced on enactment.
+
+### Chapter 4 Appeals and regulations — Chapter 4 — Appeals and regulations
+
+#### 119. Appeals. — [VATA s. 25 (in part)]
+
+**119**.—(1) Any person aggrieved by a determination of the Revenue Commissioners in relation to—
+
+(*a*) the treatment of one or more persons as a single accountable person in accordance with *section 15*,
+
+(*b*) the treatment of a person who allows supplies to be made on land owned, occupied or controlled by that person, as jointly and severally liable with another person, in accordance with *section 17(1)*,
+
+(*c*) a determination under *section 18(1)* or *38*,
+
+(*d*) the refusal of an application for authorisation to operate as a VAT refunding agent (within the meaning assigned by *section 58(1)*) or the cancellation of any such authorisation,
+
+(*e*) a liability to tax under *section 69(1)* or *(2)*,
+
+(*f*) the refusal to approve (either wholly or partly) a refund application made under *section 101*,
+
+(*g*) a charge of tax in accordance with regulations, or
+
+(*h*) a claim for repayment of tax,
+
+against which an appeal to the Appeal Commissioners is not otherwise provided for under this Act F433[may appeal the determination to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of that determination.]
+
+F434[(2) A person aggrieved by a decision of the Revenue Commissioners that the person is not an accountable person may appeal the decision to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of that decision.]
+
+(3) For the purpose of *subsection (1)(f)*, a failure by the Revenue Commissioners to make a decision in respect of a refund application within the time limits set out in *section 101(9)* is to be treated as a decision to refuse the application.
+
+(4) F435[...]
+
+(5) F435[...]
+
+(6) F435[...]
+
+(7) F435[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F433: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(g)(i), S.I. No. 110 of 2016.
+>
+> F434: Substituted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(g)(ii), S.I. No. 110 of 2016.
+>
+> F435: Deleted (21.03.2016) by *Finance (Tax Appeals) Act 2015* (59/2015), s. 42 and sch. 2 part 4 para. 4(g)(iii), S.I. No. 110 of 2016.
+>
+> **Editorial Notes:**
+>
+> E93: Previous affecting provision: subs. (4) amended (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 16, commenced on enactment; deleted as per F-note above.
+
+#### 120. Regulations. — [VATA s. 15(7) and s. 32 (in part)]
+
+**120**.—(1) The Revenue Commissioners shall make such regulations as seem to them to be necessary for the purpose of giving effect to this Act and of enabling them to discharge their functions thereunder and, without prejudice to the generality of the foregoing, the regulations may make provision in relation to all or any of the matters specified in *subsections (2)* to *(15)*.
+
+(2) As regards *Part 2*, regulations may provide for the manner in which a person may elect to be an accountable person and any such election may be cancelled, the treatment of an accountable person as a person who is not an accountable person, and the adjustments (including a charge of tax) which may be made as a condition of any such cancellation or treatment.
+
+(3) As regards *Part 3*, regulations may provide for the treatment under *section 27(1)* of the use and services specified therein as services supplied by a person for consideration in the course of business.
+
+(4) As regards *Part 4*, regulations may provide for the circumstances in which a person may exercise an election referred to in F436[*section 35A*].
+
+(5) As regards *Part 5*, regulations may provide for—
+
+(*a*) the adjustment of the liability of an accountable person who supplies goods or services and of the liability of an accountable person to whom goods or services are supplied where—
+
+(i) goods are returned,
+
+(ii) the consideration is reduced,
+
+(iii) a bad debt is incurred, or
+
+(iv) a discount is allowed,
+
+(*b*) the making of a determination under *section 38*,
+
+(*c*) the methods which may be used for the purposes of applying *section 44*.
+
+(6) As regards *Part 6*, regulations may provide for—
+
+(*a*) the manner in which any amount may be apportioned (including the methods of apportionment which may be applied for the purposes of *section 47(1)* and *(2)*),
+
+(*b*) the circumstances or conditions under which a supply may or may not be treated as an ancillary supply, a composite supply, an individual supply, a multiple supply or a principal supply,
+
+(*c*) a relatively small amount, or an element of a supply, which may be disregarded for the purposes of applying F437[*section 47*.]
+
+(*d*) F438[...]
+
+(7) As regards *Part 7*, regulations may F439[...]—
+
+(*a*) F440[provide for] the repayment, in accordance with section *54(2)*, of tax chargeable on the importation of goods,
+
+F441[(*aa*) as respects the accounting by an accountable person for tax by the means referred to in *section 53A(1)* —
+
+(i) specify requirements to be complied with by an accountable person, and
+
+(ii) impose conditions or restrictions that must be satisfied or observed in respect of all steps leading to the accounting for tax by the means so referred to (including conditions or restrictions the purpose of which is to secure that the necessary capacity and capability, on an on-going basis, exists on the part of the accountable person in order for him or her to account for tax by those means),
+
+and regulations under this paragraph may include provision for the furnishing to the Revenue Commissioners of documentation (including with respect to financial transactions entered into by the accountable person with other persons and accounts or facilities held by the accountable person with financial institutions) by the accountable person and provision the inclusion otherwise of which appears to the Revenue Commissioners to be requisite for the protection of the revenue,
+
+(*ab*) as respects an application by a person for authorisation in accordance with *subsection (2)* of *section 56*, specify the particulars to be included in the application form referred to in that subsection by the person making the application, including, without prejudice to the generality of the foregoing—
+
+(i) the following particulars:
+
+(I) confirmation that full and true records are being kept by the person in accordance with *section 84*;
+
+(II) confirmation that the person is complying with the provisions of—
+
+(A) this Act,
+
+(B) the Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997),
+
+(C) the Capital Gains Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997),
+
+(D) the statutes relating to the duties of excise and to the management of those duties,
+
+(E) the Customs Act 2015 , and
+
+(F) any instrument made under any of the enactments referred to in *subclauses (A)* to *(E)*;
+
+(III) a declaration that the person has not been convicted of any offence under any of the enactments or instruments referred to in *clause (II)*, and
+
+(ii) the form and manner in which the particulars shall be provided, by the person, in the application form,]
+
+(*b*) F442[provide for] the enabling of goods imported by registered persons or by such classes of registered persons as may be specified in the regulations for the purposes of a business carried on by them to be delivered or removed, subject to such conditions or restrictions as may be specified in the regulations or as the Revenue Commissioners may impose, without payment of the tax chargeable on the importation, and
+
+(*c*) F443[provide for] the tax to be accounted for by the persons or classes of persons referred to in *paragraph (b)* in the return, made by them under *section 76* or *77*, in respect of the taxable period during which the goods are so delivered or removed.
+
+(8) As regards *Part 8*, regulations may provide for—
+
+(*a*) the deduction of tax chargeable in respect of intra-Community acquisitions,
+
+(*b*) the manner in which the deduction entitlement referred to in *section 59(2)(d)* may be calculated,
+
+(*c*) the manner in which residual tax referred to in *section 59(2)(l)* may be calculated and deducted,
+
+(*d*) the operation of the capital goods scheme and in particular the duration of a subsequent interval where the accounting year of a capital goods owner changes,
+
+(*e*) the adjustments to be made by an accountable person of any apportionment referred to in *paragraph (g)* or deduction under *Chapter 1* of *Part 8* previously made, being adjustments by reference to changes, occurring not later than 5 years from the end of the taxable period to which the original apportionment or deduction relates—
+
+(i) in any of the matters by reference to which the apportionment or deduction was made or allowed, and
+
+(ii) the determination of the taxable period in and from which, or in which, any such adjustment is to take effect,
+
+(*f*) the relief (if any) to be given to an accountable person in respect of tax borne or paid by that person on stock-in-trade held by that person immediately before the commencement of the first taxable period for which that person is deemed to become an accountable person,
+
+(*g*) any of the following:
+
+(i) the apportionment between the tax which may be deducted under *Chapter 1* of *Part 8* and tax which may not be deducted under that Chapter;
+
+(ii) the review, by reference to the circumstances obtaining in any period not exceeding one year, of any such apportionment previously made;
+
+(iii) the charge or repayment of tax consequent on any such review;
+
+(iv) the furnishing of particulars by an accountable person to the Revenue Commissioners for the purpose of any such F444[review;]
+
+F445[(*h*) in relation to *section 62A*—
+
+(i) the manner in which an adjustment is calculated, and
+
+(ii) the circumstances in which an adjustment may not be required.]
+
+(9) As regards *Part 9*, regulations may provide for—
+
+(*a*) the particulars required for registration and the manner in which registration may be effected and cancelled,
+
+(*b*) the following:
+
+(i) the form of invoice, credit note, debit note and settlement voucher (including electronic form) required to be used for the purposes of this Act;
+
+(ii) the particulars required to be inserted in such documents or electronically recorded;
+
+(iii) the period within which such documents or electronic data are required to be issued or F446[transmitted;]
+
+(iv) such other conditions in relation to the issue or receipt, in any form, of an invoice, credit note, debit note and settlement voucher as may be imposed by the F447[Revenue Commissioners; and]
+
+F448[(v) the conditions to which the evidence of the business controls used to comply with *paragraph (a)* of *section 66(2A)* shall be subject as referred to in *paragraph (b)* of that provision,]
+
+(*c*) the furnishing of returns and the particulars to be shown thereon,
+
+(*d*) the time and manner in which tax shall be payable in respect of the goods referred to in *section 79(2)* and *(3)*,
+
+(*e*) the determination, under *section 80*, of a person’s tax liability for any period by reference to moneys received and the adjustments (including a charge of tax) which may be made when a person becomes entitled to determine his or her tax liability in such manner or, having been so entitled, ceases to be so entitled, or ceases to be an accountable person,
+
+(*f*) the following:
+
+(i) the form of statement required to be furnished in accordance with *section 82*;
+
+(ii) the particulars to be specified in such statement; and
+
+(iii) the amount or amounts to be applied for the purposes of *section 82(3)*,
+
+(*g*) the keeping by accountable persons of records and the retention of such records and supporting documents or other recorded data,
+
+(*h*) the keeping by persons trading in investment gold (within the meaning of *section 90*) of records and the retention of such records and supporting documents or other recorded data.
+
+(10) As regards *Part 10*, regulations may provide for—
+
+(*a*) the conditions for a taxable dealer to opt to apply the margin scheme to certain supplies in accordance with *section 87(4)*,
+
+(*b*) the determination of the aggregate margin in accordance with *section 87(8)*,
+
+(*c*) the manner in which the travel agent’s margin scheme referred to in *section 88* shall operate,
+
+(*d*) the form of the invoice or other document that shall be issued in accordance with *section 89(4)*,
+
+(*e*) the conditions under which a person may waive his or her right to exemption from tax on the supply of investment gold (within the meaning of *section 90*),
+
+(*f*) the conditions under which an intermediary (within the meaning of *section 90*) may waive his or her right to exemption from tax on that person’s supply of services,
+
+(*g*) the conditions under which a person may claim a refund of tax in accordance with *section 90(6)(b)*, *(7)(b)* and *(8)(b)*, and the manner in which such refund may be claimed,
+
+(*h*) the manner in which the electronic services scheme referred to in *section 91* shall F449[operate,]
+
+F450[(*i*) the manner in which the non-Union scheme or Union scheme (both within the meaning of *section 91A*) shall F451[operate,]]
+
+F452[(*j*) the manner in which the import scheme (within the meaning of *section 91A*) shall operate,
+
+(*k*) the manner in which the special arrangements for value-added tax on import (within the meaning of *section 91H*) shall F453[operate,]]
+
+F454[*(l)* the accounting for tax due and payable pursuant to *section 92A* in relation to the deposit return scheme (within the meaning of *section 92A*), including the method for calculating that tax.]
+
+(11) As regards *Part 11*, regulations may provide for—
+
+(*a*) F455[...]
+
+(*b*) the valuation of interests in or over immovable goods,
+
+(*c*) the specification of the circumstances or conditions under which development work on immovable goods is not treated as being on behalf of, or to the benefit of, a person.
+
+(12) As regards *Part 12*, regulations may provide for—
+
+(*a*) the refund of tax in excess of the amount required by law to be borne, or paid, to the Revenue Commissioners,
+
+(*b*) the manner in which residual tax referred to in *section 104(1)* may be calculated and repaid,
+
+(*c*) the conditions governing a person’s entitlement to interest in accordance with *section 105*.
+
+(13) As regards this Part, regulations may provide for—
+
+(*a*) the estimation of tax due for a taxable or other period,
+
+(*b*) the nomination by the Revenue Commissioners of officers to perform any acts and discharge any functions authorised by this Act to be performed or discharged by the Revenue Commissioners,
+
+(*c*) the manner in which tax is to be recovered in cases of default of payment,
+
+(*d*) disclosure to the Revenue Commissioners of such information as they may require for the ascertainment of liability to tax,
+
+(*e*) the remission at the discretion of the Revenue Commissioners of small amounts of tax and interest,
+
+(*f*) matters consequential on the death of a registered person or on his or her becoming subject to any incapacity, including the treatment of a person of such class or classes as may be specified in the regulations as a person carrying on the business of the deceased or incapacitated person,
+
+(*g*) the service of notices.
+
+F456[(13A) As regards *paragraph 4(3)* of *Schedule 1*, regulations may—
+
+(*a*) provide for the conditions under which training or retraining services may or may not be treated as vocational training or retraining services,
+
+(*b*) specify the bodies which provide Exchequer funding to providers for the purposes of providing education or vocational training or retraining,
+
+(*c*) provide for the conditions under which education provided to children or young people which, if provided by a recognised school within the meaning of section 10 of the Education Act 1998, would be the curriculum determined by the Minister for Education and Skills in accordance with that Act.]
+
+(14) As regards *Schedule 2*, regulations may provide for—
+
+(*a*) the conditions under which *paragraph 1(1)* of that Schedule is applicable to a supply of goods,
+
+(*b*) the importation of goods consigned to another Member State in accordance with *paragraph 2(1)* of that Schedule,
+
+(*c*) the supply of goods in accordance with *paragraph 3(1)* or *7(3)* of that Schedule,
+
+(*d*) the determination of average build for the purposes of *paragraph 10(1)* of that Schedule,
+
+(*e*) the determination of average foot size for the purposes of *paragraph 10(2)* of that Schedule.
+
+(15) As regards *Schedule 3* or *5*, regulations may provide for—
+
+F457[(*a*) the circumstances, terms and conditions under which (for the purposes of *paragraph 11* of *Schedule 3*) a letting of immovable goods consists of the provision of holiday or guest accommodation,]
+
+(*b*) the particulars to be furnished in relation to antiques as specified in *paragraph 24* of *Schedule 3* or *paragraph 3* of *Schedule 5*.
+
+(16) Regulations under this section may make different provisions in relation to different cases and may in particular provide for differentiation between different classes of persons affected by this Act and for the adoption of different procedures for any such different classes.
+
+(17) Regulations under this section—
+
+(*a*) for the purposes of *section 53(3)*, *57* or *104(4)* or *(5)*,
+
+(*b*) for the purposes of F458[*subsection (7)(aa)*, *(b)*] F459[and *(c)*, or]
+
+(*c*) F460[...]
+
+(*d*) in relation to the matters specified in—
+
+(i) *subsection (14)(d)* or *(e)*, or
+
+(ii) *subsection (15)(a)*,
+
+shall not be made without the consent of the Minister.
+
+(18) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Revenue Commissioners to be necessary for the purposes of giving full effect to—
+
+(*a*) F461[...]
+
+(*b*) Council Directive No. 86/560/EEC of 17 November 1986,
+
+(*c*) the VAT Directive, and
+
+(*d*) Council Directive No. 2008/9/EC of 12 February 2008.
+
+(19) Every regulation made under this section shall be laid before Dáil Éireann as soon as may be after it is made and, if a resolution annulling the regulation is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F436: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 28(a), in effect as per reg. 2.
+>
+> F437: Substituted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 60(2)(a), commenced on enactment.
+>
+> F438: Deleted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 60(2)(b), commenced on enactment.
+>
+> F439: Deleted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 66(a)(i), S.I. No. 723 of 2020.
+>
+> F440, F441, F442, F443: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 66(a)(ii)-(v), S.I. No. 723 of 2020.
+>
+> F444: Substituted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 61(a), commenced on enactment.
+>
+> F445: Inserted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 61(b), commenced on enactment.
+>
+> F446: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 74(a), commenced on enactment.
+>
+> F447: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 74(b), commenced on enactment.
+>
+> F448: Inserted (27.03.2013) by *Finance Act 2013* (8/2013), s. 74(c), commenced on enactment.
+>
+> F449: Substituted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(o)(i), in effect as per reg. 2(1).
+>
+> F450: Inserted (1.01.2015) by *European Union (Value-Added Tax) Regulations 2014* (S.I. No. 340 of 2014), reg. 3(o)(ii), in effect as per reg. 2(1).
+>
+> F451: Substituted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 28(1)(i), in effect as per reg. 2.
+>
+> F452: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 28(b)(ii), in effect as per reg. 2.
+>
+> F453: Substituted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 61(b)(i), commenced on enactment.
+>
+> F454: Inserted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 61(b)(ii), commenced on enactment.
+>
+> F455: Deleted (23.12.2025) by *Finance Act 2025* (18/2025), s. 75(b), commenced on enactment.
+>
+> F456: Inserted (25.12.2017) by *Finance Act 2017* (41/2017), s. 57(a), commenced on enactment.
+>
+> F457: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 72(b), in effect as per s. 72.
+>
+> F458: Substituted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 66(b), S.I. No. 723 of 2020.
+>
+> F459: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 17(a), commenced on enactment.
+>
+> F460: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 17(b), commenced on enactment.
+>
+> F461: Deleted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(g), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E94: Power pursuant to subs. (10)(l) exercised (1.02.2024) by *Value-Added Tax Regulations 2010 (Regulation 34B) (Amendment) Regulations 2024* (S.I. No. 31 of 2024), in effect as per reg. 2.
+>
+> E95: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 37) (Amendment) Regulations 2020* (S.I. No. 737 of 2020), in effect as per reg. 1(2).
+>
+> E96: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 15) (Amendment) Regulations 2020* (S.I. No. 736 of 2020), in effect as per reg. 2.
+>
+> E97: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 34A) (Amendment) Regulations 2020* (S.I. No. 735 of 2020), in effect as per reg. 2.
+>
+> E98: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *Value-Added Tax Regulations 2010 (Regulation 14A) (Amendment) Regulations 2020* (S.I. No. 734 of 2020), in effect as per reg. 1(2).
+>
+> E99: Power pursuant to section exercised (22.11.2012 and 1.01.2013) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), in effect as per reg. 1(2).
+>
+> E100: Power pursuant to section exercised (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), in effect as per reg. 1(2).
+>
+> E101: Previous affecting provision: substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 45(a), commenced on enactment; superseded (1.01.2026) as per F-Note above.
+>
+> E102: Previous affecting provision: subs. (7) and (7)(a) amended, subs. (7)(aa), (ab) inserted, subs. (7)(b), (c) amended and subs. (17)(b) amended by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 59(a), (b), not commenced; repealed 17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 4(a), S.I. No. 634 of 2020.
+
+## PART 14 Repeals, Consequential Amendments, Transitional Measures and Commencement — PART 14 — Repeals, Consequential Amendments, Transitional Measures and Commencement
+
+### 121. Definition of “repealed enactment”.
+
+**121**.— In this Part “repealed enactment” means the Value-Added Tax Act 1972 repealed by *section 122.*
+
+### 122. Repeal of Value-Added Tax Act 1972, etc.
+
+**122**.—(1) Subject to *subsections (2)* and *(3)*, the Value-Added Tax Act 1972 is repealed.
+
+(2)(*a*) This Act shall not apply as respects any taxable period ending on any date prior to 1 November 2010.
+
+(*b*) The repealed enactment shall continue to apply as respects any taxable period ending on any date prior to 1 November 2010 to the same extent that it would have applied if this Act had not been enacted.
+
+(3) Any provision of the repealed enactment which imposes a fine, forfeiture, penalty or punishment for any act or omission shall, in relation to any act or omission which took place or began before the date of the passing of this Act, continue to apply in substitution for the provision of this Act to which it corresponds.
+
+(4)(*a*) Subject to *paragraph (b)*, anything done under or in connection with the provisions of the repealed enactment which correspond to the provisions of this Act shall be deemed to have been done under or in connection with the provisions of this Act to which those provisions of the repealed enactment correspond.
+
+(*b*) Nothing in this subsection shall affect the operation of *section 124(3)* and *(4)*.
+
+### 123. Consequential amendments and repeals and revocations.
+
+**123**.—(1) *Schedule 7*, which provides for amendments to other enactments consequential on the passing of this Act, shall apply for the purposes of this Act.
+
+(2) The amendment of a statutory instrument effected by *subsection (1)* as read with *Schedule 7* does not prevent or restrict the subsequent amendment or revocation of the instrument by another statutory instrument.
+
+(3) The Acts specified in columns (1) and (2) of *Part 1* of *Schedule 8* are hereby repealed to the extent specified in column (3) of that Part.
+
+(4) The statutory instruments specified in columns (1) and (2) of *Part 2* of *Schedule 8* are hereby revoked to the extent specified in column (3) of that Part.
+
+### 124. Transitional provisions. — [VATA s. 16(6) and (7) and FA 2010 s. 117(2)(d)]
+
+**124**.—(1) The Revenue Commissioners shall have all the jurisdictions, powers and duties in relation to value-added tax under this Act which they had before the passing of this Act.
+
+(2) The continuity of the operation of the law relating to value-added tax shall not be affected by the substitution of this Act for the repealed enactment.
+
+(3) Any reference, whether express or implied, in any enactment or document (including this Act and any enactment amended by this Act)—
+
+(*a*) to any provision of this Act, or
+
+(*b*) to things done or to be done under or for the purposes of any provision of this Act,
+
+shall, if and in so far as the nature of the reference permits, be construed as including, in relation to the times, years or periods, circumstances or purposes in relation to which the corresponding provision in the repealed enactment applied or had applied, a reference to, or, as the case may be, to things done or to be done under or for the purposes of, that corresponding provision.
+
+(4) Any reference, whether express or implied, in any enactment or document (including the repealed enactment and enactments passed and documents made after the passing of this Act)—
+
+(*a*) to any provision of the repealed enactment, or
+
+(*b*) to things done or to be done under or for the purposes of any provision of the repealed enactment,
+
+shall, if and in so far as the nature of the reference permits, be construed as including, in relation to the times, years or periods, circumstances or purposes in relation to which the corresponding provision of this Act applies, a reference to, or as the case may be, to things done or deemed to be done or to be done under or for the purposes of, that corresponding provision.
+
+(5) All instruments, documents, determinations, authorisations, letters or notices of appointment made or issued under the repealed enactment and in force immediately before the commencement of this Act shall continue in force as if made or issued under this Act.
+
+(6) The validity of any determination made under subsection (3E) of section 8 of the Principal Act (within the meaning of section 112 of the Finance Act 2010) before 8 March 2008 by an authorised officer within the meaning of such subsection (3E) shall not be affected by paragraph (*c*) of subsection (1) of the Finance Act 2010, and any such determination shall continue in force as if such paragraph (*c*) had not been enacted.
+
+(7)(*a*) Every taxable dealer to whom section 12B or 12C of the repealed enactment applied shall, in addition to records required to be kept in accordance with any provision of *Chapter 7* of *Part 9* and regulations, keep a record of—
+
+(i) the name and address of each person from whom the taxable dealer purchased or acquired a means of transport or, as the case may be, agricultural machinery in the period from 1 January 2010 to 30 June 2010 in relation to which the taxable dealer deducted residual tax in accordance with such section 12B or 12C, as the case may be,
+
+(ii) the date on which such means of transport or agricultural machinery was so purchased or acquired,
+
+(iii) the amount of the residual tax so deducted in relation to each such means of transport or agricultural machinery, and
+
+(iv) the vehicle registration number of each such means of transport or, as the case may be, details of the make, model and, where appropriate, the year of manufacture, the engine number and registration number of each such agricultural machine.
+
+(*b*) A taxable dealer to whom section 12B or 12C of the repealed enactment applied shall, on receipt of a notice in writing to that effect from an officer of the Revenue Commissioners, furnish to that officer within the time specified in the notice (which shall not be less than 21 days from the date of the notice), or to such other officer of the Commissioners as may be specified in the notice, a copy of the information required to be kept by the taxable dealer under *paragraph (a*).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E103: Further details required to be included in records retained, in accordance with subs. (7), of all transactions that affect or may affect the accountable person’s liability to tax and entitlement to deductibility specified (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 27, in effect as per reg. 1(2); as amended (22.11.2012) by *Value-Added Tax (Amendment) Regulations 2012* (S.I. No. 458 of 2012), reg. 2(e).
+
+### 125. Commencement.
+
+**125**.— This Act shall be deemed to have come into force and apply as respects any taxable period commencing on or after 1 November 2010.
+
+## SCHEDULE 1 Exempt Activities — SCHEDULE 1 — Exempt Activities
+
+[VATA Sch. 1]
+
+### PART 1 — Activities in the Public Interest
+
+This Part sets out the exemptions for certain activities in the public interest in accordance with Chapter 2 of Title IX of the VAT Directive.
+
+*Postal services.*
+
+F462[1. Public postal services, including the supply of goods and services incidental to their provision, which are provided as part of a universal service, in accordance with Chapter 2 (as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008[^32]) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997[^33], by An Post (including postmasters) or by any other persons designated by the State in accordance with that Chapter (as so amended), but only if that supply is not on terms that have been individually negotiated.]
+
+*Medical and related services.*
+
+2\. (1) Hospital and medical care or treatment provided by a hospital, nursing home, clinic or similar establishment.
+
+(2) Services closely related to medical care covered by section 61 or 61A of the Health Act 1970 which are undertaken by or on behalf of the Health Service Executive or by home care providers duly recognised by that Executive under section 61A of that Act.
+
+F463[(3) Professional medical care services (other than dental or optical services) supplied by—
+
+(*a*) a member of a designated profession (within the meaning of section 3 of the Health and Social Care Professionals Act 2005) whose name is entered in the register of members of that profession under and in accordance with that Act,
+
+(*b*) a registered medical practitioner (within the meaning of section 2 of the Medical Practitioners Act 2007), or
+
+(*c*) a registered midwife or registered nurse (both within the meaning of section 2 of the Nurses and Midwives Act 2011),
+
+but only if those services are not supplied in the course of carrying on a business that wholly or partly consists of selling goods.]
+
+(4) The supply by dental technicians of services of a dental nature and of dentures or other dental prostheses.
+
+(5) Professional dental or optical services.
+
+(6) The collection, storage, supply, intra-Community acquisition or importation of human organs, human blood and human milk.
+
+(7) Other professional medical care services that, on 1 January 2010, were recognised by the Revenue Commissioners as exempt activities.
+
+*Certain independent groups, non-profit making organisations and other bodies.*
+
+3\. F464[(1) The supply of services by an independent group of persons, being a group that is an independent entity established for administrative convenience by persons each of whom carries on an activity which is exempt from, or is not subject to, tax, for the purpose of rendering to its members the services directly necessary to enable them to carry on that activity, but only if the group recovers from its members the exact amount of each member’s share of the joint expenses.]
+
+(2) The supply of goods and services closely related to welfare and social security by non-profit making organisations.
+
+(3) The supply of services and the supply of goods closely related to those services for the benefit of their members by non-profit making organisations whose aims are primarily of a political, trade union, religious, patriotic, philosophical, philanthropic or civic nature where such supply is made without payment other than the payment of any membership subscription.
+
+F465[(4) The provision by non-profit making organisations of—
+
+(*a*) facilities for participation in—
+
+(i) sporting activities, including golf, or
+
+(ii) physical educational activities,
+
+or
+
+(*b*) services closely related to the provision of those facilities.]
+
+F466[(5) The supply of cultural services, and the supply of goods closely linked to those services, by—
+
+(*a*) a public body on or after 1 July 2010,
+
+or
+
+(*b*) any cultural body (whether established by or under an enactment or not) that is recognised as such a body by the Revenue Commissioners for the purposes of this paragraph,
+
+but excluding the supply of services to which paragraph 5(2) relates.]
+
+*Children and education.*
+
+4\. (1) The supply of services for the protection or care of children and young persons, and the supply of goods closely related to that supply, otherwise than for profit.
+
+(2) The supply of services for the protection or care of children and young persons, and the supply of goods closely related to that supply, by persons whose activities may be regulated by regulations made under Part VII or VIII of the Child Care Act 1991.
+
+F467[(2A) The supply of services for the protection or care of children and young persons where such services are—
+
+(*a*) referred to in the Child Care (Placement of Children in Foster Care) Regulations 1995, and
+
+(*b*) provided by persons with whom arrangements have been made under section 58(1) of the Child and Family Agency Act 2013.]
+
+F468[(3) (*a*) The provision of—
+
+(i) children’s or young people’s education, school or university education, or
+
+(ii) vocational training or retraining (subject to any conditions as may be specified in regulations),
+
+including the supply of goods and services incidental to that provision, other than the supply of research services, but excluding instruction in the driving of mechanically propelled road vehicles other than the instruction of a kind to which clause (c) relates, by—
+
+(I) a public body,
+
+(II) a provider in receipt of Exchequer funds for the purposes of that provision from a body specified in regulations,
+
+(III) a recognised school within the meaning of the Education Act 1998,
+
+(IV) a college within the meaning of section 2 of the Regional Technical Colleges Act 1992, or
+
+(V) a university mentioned in section 3 of the Universities Act 1997.
+
+(*b*) The provision by a body of any of the following:
+
+(i) a programme of education and training within the meaning of the Qualifications and Quality Assurance (Education and Training) Act 2012 which is validated under section 45 of that Act;
+
+(ii) a course which is considered by the Minister for Justice and Equality as an acceptable basis for the granting of an immigration permission, where such body is included on a list published by that Minister;
+
+(iii) a course accredited by an approved college, within the meaning assigned by section 473A of the Taxes Consolidation Act 1997;
+
+(iv) education to children or young people which, if provided by a recognised school within the meaning of section 10 of the Education Act 1998, would be the curriculum determined by the Minister for Education and Skills in accordance with that Act (subject to any conditions as may be specified in regulations);
+
+(v) vocational training or retraining (subject to any conditions as may be specified in regulations),
+
+including the supply of goods and services incidental to that provision, other than the supply of research services, but excluding instruction in the driving of mechanically propelled road vehicles other than the instruction of a kind to which clause (c) relates.
+
+(*c*) Instruction in the driving of the following mechanically propelled road vehicles:
+
+(i) vehicles designed or constructed for the carriage of 1. 5 tonnes of goods or more;
+
+(ii) vehicles designed or constructed for the carriage of more than 9 persons (including the driver).]
+
+F469[(4) F470[Tuition] given privately by teachers and covering school or university education.]
+
+*Other activities.*
+
+5\. (1) Catering services supplied—
+
+(*a*) to patients of a hospital or nursing home in the hospital or nursing home, or
+
+(*b*) to school students at their school.
+
+(2) The promotion of, and admission to, live theatrical or musical performances, including circuses, but excluding—
+
+(*a*) dances, and
+
+(*b*) performances in conjunction with which facilities are available for the consumption of food or drink during all or part of the performance by persons attending the performance.
+
+F471[(3) The promotion of sporting events (other than in the course of the provision of facilities for taking part in sporting activities including golf or physical education activities of the kind specified in *subparagraph (1)* or *(1A)* of *paragraph 12* of *Schedule 3*).]
+
+(4) The provision of the national broadcasting and television services, excluding advertising.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F462: Substituted (1.01.2011) by *Finance Act 2011* (6/2011), s. 60(1)(a), commenced as per subs. (2)(a).
+>
+> F463: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 58, commenced on enactment.
+>
+> F464: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 59, commenced on enactment.
+>
+> F465: Substituted (1.03.2015) by *Finance Act 2014* (37/2014), s. 71(1)(a), commenced as per s. 71(1)(a).
+>
+> F466: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 60(1)(b), commenced on enactment.
+>
+> F467: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(1)(b), commenced on enactment.
+>
+> F468: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 57(b), commenced on enactment.
+>
+> F469: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 54(b)(ii), commenced on enactment.
+>
+> F470: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(h), commenced on enactment.
+>
+> F471: Substituted (1.01.2013) by *Finance Act 2013* (8/2013), s. 75(1)(a), commenced as per subs. (3).
+>
+> **Editorial Notes:**
+>
+> E104: Previous affecting provision: para. 4(3) substituted (21.12.2015) by *Finance Act 2015* (52/2015), s. 54(b)(i), commenced on enactment; substituted as per F-note above.
+
+### PART 2 — Other Exempted Activities
+
+*Financial services.*
+
+6\. (1) Financial services that consist of any of the following:
+
+F472[(*a*) F473[...] transferring or otherwise dealing in stocks, shares, debentures and other securities (other than documents establishing title to goods);]
+
+(*b*) arranging for, or underwriting, an issue of stocks, shares, debentures and other securities (other than documents establishing title to goods);
+
+(*c*) operating a current, deposit or savings account, and negotiating or dealing in payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collecting and factoring;
+
+(*d*) issuing, transferring, receiving or otherwise dealing in currency, bank notes and metal coins, in use as legal tender in any country, but excluding any such bank notes and coins that are supplied as investment goods or as F474[collectors’ pieces];
+
+F475[(*e*) an undertaking that is a qualifying company for the purposes of section 110 of the Taxes Consolidation Act 1997, other than a qualifying company which holds qualifying assets (within the meaning of the said section 110) that consist of plant and machinery;]
+
+(*f*) giving, or dealing in, credit guarantees or any other securities for money, and managing credit guarantees by the giver of the credit;
+
+(*g*) F476[...]
+
+(*h*) supplying services to a person under an arrangement that provides for the person to be reimbursed for the supply by the person of goods or services in accordance with a credit card, charge card or similar card scheme;
+
+(*i*) entering into specified financial transactions within the meaning of Part 8A of the Taxes Consolidation Act 1997 where those transactions correspond to financial services listed elsewhere in this F477[subparagraph].
+
+(2) F477[Financial services that consist of managing an undertaking of a kind specified in this subparagraph:]
+
+(*a*) a collective investment undertaking as defined in section 172A of the Taxes Consolidation Act 1997;
+
+F478[(*aa*) an investment limited partnership within the meaning of section 739J of the Taxes Consolidation Act 1997;]
+
+(*b*) a special investment scheme within the meaning of section 737 of the Taxes Consolidation Act 1997;
+
+(*c*) an undertaking that is administered by the holder of an authorisation granted under the European Communities (Life Assurance) Regulations 1984 (S.I. No. 57 of 1984), or by a person who is deemed, by Article 6 of those Regulations, to be such a holder, the criteria in relation to which are the criteria specified in relation to an arrangement to which section 9(2) of the Unit Trusts Act 1990 applies;
+
+(*d*) a unit trust scheme established solely for the purpose of superannuation fund schemes or charities;
+
+F479[(*e*) an undertaking that is a qualifying company for the purposes of section 110 of the Taxes Consolidation Act 1997, other than a qualifying company which holds qualifying assets (within the meaning of the said section 110) that consist of plant and machinery;]
+
+F478[(*ea*) an undertaking that enters into specified financial transactions within the meaning of Part 8A of the Taxes Consolidation Act 1997 where that undertaking corresponds to an undertaking specified elsewhere in this subparagraph;]
+
+F480[(*eb*) a defined contribution scheme (within the meaning of the Pensions Act 1990), other than a one-member arrangement (within the meaning of that Act);
+
+F481[(*ec*) an undertaking for collective investment in transferable securities (within the meaning of Article 1 of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009[^34]) which has been authorised by the competent authority (as defined in point (h) of Article 2(1) of that Directive) of another Member State;
+
+(*ed*) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011[^35]) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by F482[or registered with] the competent authority (as defined in F483[point (f)] of Article 4(1) of that Directive) of F484[a Member State];]]
+
+F485[(*ee*) the automatic enrolment retirement savings system established, maintained and controlled by An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir as provided for in the Automatic Enrolment Retirement Savings System Act 2024;]
+
+F477[(*f*) any other undertaking that is determined by the Minister to be a collective investment undertaking for the purposes of this subparagraph.]
+
+(3) A determination referred to in *subparagraph (2)(f*) takes effect on the date when it is notified to the undertaking concerned or on such later date as is specified in the determination.
+
+(4) In relation to an undertaking specified in *subparagraph (2)*, management of the undertaking can consist of any one or more of the 3 functions listed in F486[Annex II of Directive No. 85/611/EEC] of the European Parliament and Council (being the functions included in the activity of collective portfolio management) where the relevant function is F474[supplied] by the person who has responsibility for carrying out that function in respect of the undertaking.
+
+*Agency services.*
+
+F477[7.(1) The supply of agency services relating to the financial services specified in *subparagraph (1)* of *paragraph 6*, excluding management and safekeeping services in regard to the services specified in *clause (a)* of that subparagraph.
+
+(2) F487[...]]
+
+*Insurance and reinsurance services.*
+
+8\. F488[(1) Insurance and reinsurance transactions, and the supply of related services by insurance brokers and insurance agents.]
+
+(2) For the purposes of this paragraph “related services”F489[...] includes—
+
+(*a*) collecting insurance premiums and selling insurance, and
+
+(*b*) handling claims and providing claims settlement services where the supplier of the insurance services delegates authority to an agent and is bound by the agent’s decision in relation to claims.
+
+*Supply of investment gold.*
+
+9\. (1) The supply, intra-Community acquisition and importation of investment gold, other than supplies of investment gold to the Central Bank of Ireland.
+
+(2) In relation to investment gold, the supply of services of an intermediary acting in that capacity.
+
+(3) In this paragraph the expressions “intermediary” and “investment gold” have the meanings respectively assigned to them by *section 90(1)*.
+
+*Gambling and lotteries.*
+
+10\. F490[(1) The acceptance of bets that are subject to excise duty imposed by section 67 or 67A of the Finance Act 2002 and bets that are exempt from excise duty by virtue of section 68 of that Act.
+
+(1A) The supply of services by a remote betting intermediary (within the meaning of section 64 of the Finance Act 2002), the consideration for which consists of commission charges within the meaning of section 67B of that Act that are subject to excise duty imposed by that section.]
+
+F491[(1B) The acceptance of bets by a remote bookmaker (within the meaning of section 64 of the Finance Act 2002) from persons outside the State.
+
+(1C) The supply of services by a remote betting intermediary (within the meaning of section 64 of the Finance Act 2002) to persons outside the State, the consideration for which consists of commission charges for the use of the remote betting intermediary facilities.]
+
+(2) The issuing of tickets or coupons for the purpose of a lottery.
+
+*Letting of immovable goods.*
+
+11\. (1) The letting of immovable goods F492[, including a letting of emergency accommodation, but excluding any of the following:]
+
+(*a*) letting machinery or a business installation when let separately from any other immovable goods of which the machinery or installation forms part;
+
+F493[(*b*) supplies of the kind to which *paragraph 11* of *Schedule 3* relates, except where such supplies are used or to be used as emergency accommodation;]
+
+(*c*) providing facilities for taking part in sporting activities of the kind to which F494[*subparagraph (1)* or (1A) of *paragraph 12*] of *Schedule 3* relates;
+
+(*d*) providing parking accommodation for vehicles by the operators of car parks;
+
+(*e*) hiring safes.
+
+(2) Allowing a person to use a toll road or a toll bridge is not a letting of immovable goods for the purposes of this Act.
+
+*Other supplies of goods.*
+
+12\. The supply of goods (other than immovable goods or goods of a kind specified in *section 19(1)(h)*) by a person, being goods—
+
+(*a*) that were used for the purposes of a business carried on by the person,
+
+(*b*) in relation to the acquisition or application of which the person had borne tax, and
+
+(*c*) that are of such a kind, or were used in such circumstances, that no part of the tax was deductible under *Chapter 1* of *Part 8*.
+
+F495[*Gas and electricity services etc.*
+
+13\. (1) The importation of gas through a natural gas distribution system or any network connected to such a system or fed in from a vessel transporting gas into a natural gas system or any upstream pipeline network.
+
+(2) The importation of electricity.
+
+(3) The importation of heat or cooling energy through heating or cooling networks.]
+
+*Exemptions by derogation in accordance with Article 371 of the VAT Directive.*
+
+14\. (1) The provision of services by a funeral undertaking.
+
+(2) The supply of water by local authorities F496[and Irish Water].
+
+(3) Transporting passengers and their accompanying baggage.
+
+(4) The admission of spectators to sporting events.
+
+F497[*Imports by certain international bodies*
+
+15\. (1) The importation of goods by—
+
+(*a*) the European Union, the European Atomic Energy Community, the European Central Bank or the European Investment Bank, or
+
+(*b*) the bodies set up by either or both the Union and the Community to which the Protocol of 8 April 1965 on the privileges and immunities of the European Communities applies,
+
+within the limits and under the conditions of that Protocol and the agreements for its implementation or the agreements between the headquarters of those bodies and the host Member State of the headquarters, in so far as it does not lead to distortion of competition.
+
+F498[(1A) (*a*) The importation of goods by the European Commission or by an agency or body established under European Union law where the European Commission or such agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods imported are supplied for consideration by the European Commission or an agency or body established under European Union law.
+
+(*b*) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .]
+
+(2) The importation of goods by international bodies, other than those referred to in *subparagraph (1)*, recognised as such by the host Member State, or by members of such bodies, within the limits and under the conditions laid down by the international conventions establishing the bodies or by the agreements between the headquarters of those bodies and the host Member State of the headquarters.]
+
+F499[(3) The importation of goods by the armed forces of a Member State other than the State for the use of those forces or the civilian staff accompanying those forces or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F472: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 54(b), commenced on enactment.
+>
+> F473: Deleted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 63, commenced on enactment.
+>
+> F474: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 18, commenced on enactment.
+>
+> F475: Substituted (1.03.2023) by *Finance Act 2022* (44/2022), s. 61(1), commenced as per subs. (2).
+>
+> F476: Deleted (27.03.2013) by *Finance Act 2013* (8/2013), s. 75(1)(b), commenced on enactment.
+>
+> F477: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 75(1)(c), (d), (g) and (h), commenced on enactment.
+>
+> F478: Inserted (27.03.2013) by *Finance Act 2013* (8/2013), s. 75(1)(e) and (f), commenced on enactment.
+>
+> F479: Substituted (1.03.2023) by *Finance Act 2022* (44/2022), s. 61(1), commenced as per s. 61(2).
+>
+> F480: Inserted (1.03.2015) by *Finance Act 2014* (37/2014), s. 71(1)(c)(ii), commenced as per s. 71(4).
+>
+> F481: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 60, commenced on enactment.
+>
+> F482: Inserted (12.11.2024) by *Finance Act 2024* (43/2024), s. 85(a), commenced on enactment.
+>
+> F483: Substituted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 100(a) and sch. para. 4 , commenced as per s. 100(b) and sch. para. 7(1).
+>
+> F484: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 85(b), commenced on enactment.
+>
+> F485: Inserted (23.12.2025) by *Finance Act 2025* (18/2025), s. 77, commenced on enactment.
+>
+> F486: Substituted (27.03.2013) by *Finance Act 2013* (8/2013), s. 105 and sch. 2 par. 3(d), commenced as per par. 5(a).
+>
+> F487: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 62, commenced on enactment.
+>
+> F488: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(g)(i), commenced as per par. 4(b).
+>
+> F489: Deleted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(g)(ii), commenced as per subs. 4(b).
+>
+> F490: Substituted and inserted (1.08.2015) by *Finance Act 2011* (6/2011), s. 60(1)(c), S.I. No. 131 of 2015.
+>
+> F491: Inserted (21.12.2015) by *Finance Act 2015* (52/2015), s. 60, commenced on enactment.
+>
+> F492, F493: Substituted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 64(a), (b), commenced on enactment.
+>
+> F494: Substituted (1.03.2013) by *Finance Act 2013* (8/2013), s. 75(1)(i), in effect as per subs. (3).
+>
+> F495: Substituted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(g), in effect as per reg. 1(2).
+>
+> F496: Inserted (1.01.2014) by *Finance (No. 2) Act 2013* (41/2013), s. 67, commenced as per s. 67.
+>
+> F497: Inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(h), in effect as per reg. 1(2).
+>
+> F498: Inserted (1.01.2021, 21.12.2021) by *Finance Act 2021* (45/2021), s. 56(1)(a), commenced as per s. 56(2) and on enactment.
+>
+> F499: Inserted (1.07.2022) by *Finance Act 2020* (26/2020), s. 42(1)(b), commenced as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E105: Previous affecting provision: substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 45(b), commenced on enactment; para. 11(1)(b) substituted (1.01.2024) as per F-Note above.
+>
+> E106: Subs. (2)(e) amended (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(c)(i), commenced on enactment; para. (e) substituted (1.03.2023) as per F-note above.
+
+## SCHEDULE 2 Zero-rated Goods and Services — SCHEDULE 2 — Zero-rated Goods and Services
+
+[VATA Sch. 2]
+
+### PART 1 — International Supplies
+
+This Part sets out the exemptions with deductibility in accordance with Chapters 4 to 10 of Title IX of the VAT Directive.
+
+*Intra-Community transactions.*
+
+1\. F500[(1) The supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State, provided that the supplier of the goods has complied with *section 82* or, where the supplier has failed to so comply, he or she has justified such failure to the satisfaction of the Revenue Commissioners.]
+
+(2) The supply of new means of transport dispatched or transported directly by or on behalf of the supplier to a person in the territory of another Member State.
+
+(3) The supply of excisable products dispatched or transported from within the State to a person in another Member State when the movement of the products is subject to Chapter II of Part 2 of the Finance Act 2001 (which implements the arrangements specified in paragraphs 4 and 5 of Article 7, or Article 16, of Council Directive No. 92/12/EEC of 25 February 1992).
+
+(4) The supply of intra-Community transport services involving the carriage of goods to and from the Azores or Madeira.
+
+F501[(5) The supply of goods to a taxable person, being goods which that taxable person is deemed to supply under *section 91G*.]
+
+*Imports.*
+
+2\. (1) Subject to regulations (if any), the importation of goods that are, at the time of importation, consigned to another Member State.
+
+(2) The supply of transport services relating to the importation of goods where the value of the services is included in the taxable amount in accordance with *section 53(1)*.
+
+F502[(3) The importation of goods where the value-added tax is declared under the special scheme in Section 4 of Chapter 6 of Title XII of the VAT Directive and where, at the latest upon lodging of the import declaration, the identification number for the application of the special scheme of the supplier or of the intermediary acting on his or her behalf allocated under Article 369q of the VAT Directive has been provided at importation.]
+
+*Exports.*
+
+3\. (1) A supply of goods that are to be transported directly by or on behalf of the person making the supply outside the Community. This subparagraph does not apply to a supply of goods to a traveller that the traveller exports on behalf of the supplier. Any such supply is to be treated as a supply of traveller’s qualifying goods.
+
+(2) The carriage of goods in the State by or on behalf of a person in performing a contract to transfer the goods to a place outside the Community.
+
+(3) A supply of goods that are to be dispatched or transported directly outside the Community by or on behalf of the purchaser of the goods where that purchaser is established outside the State.
+
+(4) A supply of services that consists of work on movable goods acquired or imported for the purpose of undergoing that work within the Community and dispatched or transported out of the Community by or on behalf of the person providing the services.
+
+(5) In this paragraph “traveller” and “traveller’s qualifying goods” have the meanings respectively assigned to them by *section 58(1)*.
+
+*Services relating to vessels and aircraft.*
+
+4\. (1) F503[...]
+
+(2) The supply, modification, repair, maintenance, chartering and hiring of—
+
+(*a*) sea-going vessels of a gross tonnage of more than 15 tons being vessels used or to be used—
+
+(i) for the carriage of passengers for reward,
+
+(ii) for the purposes of a sea fishing business,
+
+(iii) for other commercial or industrial purposes, or
+
+(iv) for rescue or assistance at sea,
+
+or
+
+(*b*) aircraft used or to be used by a transport undertaking operating for reward chiefly on international routes.
+
+F506[(2A) The supply of services, other than those referred to in *subparagraph (2)*, to meet the direct needs of—
+
+(*a*) sea-going vessels to which *subparagraph (2)(a)* relates or their cargoes, or
+
+(*b*) aircraft to which *subparagraph (2)(b)* relates or their cargoes.]
+
+(3) Subject to regulations (if any), the supply, hiring, repair and maintenance of equipment incorporated or for use in sea-going vessels to which *subparagraph (2)(a*) relates.
+
+(4) The supply, repair, maintenance and hiring of equipment incorporated or used in aircraft to which *subparagraph (2)(b*) relates.
+
+(5) The supply of goods for the fuelling and provisioning of sea-going vessels and aircraft of the kind specified in *subparagraph (2)*, but excluding goods for supply on board the vessels or aircraft to passengers with a view to those goods being taken off the vessels or aircraft by those passengers.
+
+(6) F504[...]
+
+*Certain transactions treated as exports.*
+
+F507[5.(1) The supply of goods or services to—
+
+(*a*) the European Union, the European Atomic Energy Community, the European Central Bank or the European Investment Bank, or
+
+(*b*) the bodies set up by either or both the Union and the Community to which the Protocol of 8 April 1965 on the privileges and immunities of the European Communities applies,
+
+within the limits and under the conditions of that Protocol and the agreements for its implementation or the agreements between the headquarters of those bodies and the host Member State of the headquarters, in so far as it does not lead to distortion of competition.
+
+(1A) The supply of goods and services to international bodies, other than those referred to in *subparagraph (1)*, recognised as such by the host Member State, and to members of such bodies, within the limits and under the conditions laid down by the international conventions establishing the bodies or by the agreements between the headquarters of those bodies and the host Member State of the headquarters.]
+
+F508[(1B) The supply of goods or services to a Member State other than the State, where those goods or services are intended for the armed forces of any state which is party to the North Atlantic Treaty, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in the common defence effort of the parties to the North Atlantic Treaty.]
+
+F509[(1C) The supply of goods or services within the State, intended either for the armed forces of a Member State other than the State for the use of those forces, or the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.
+
+(1D) The supply of goods or services to a Member State other than the State, intended for the armed forces of any Member State, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.]
+
+F510[(1E) (*a*) The supply of goods or services to the European Commission or to an agency or body established under European Union law where the European Commission or such agency or body purchases those goods or services in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods and services purchased are supplied for consideration by the European Commission or an agency or body established under European Union law.
+
+(*b*) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.]
+
+(2) The supply of gold to the Central Bank of Ireland.
+
+*Services by intermediaries.*
+
+6\. (1) Services supplied by an intermediary acting in the name or on behalf of another person in obtaining—
+
+(*a*) the export of goods,
+
+(*b*) services specified in *subparagraph (2)*, or
+
+(*c*) the supply of goods or services outside the Community.
+
+(2) The following services are specified for the purposes of *subparagraph (1)(b*):
+
+(*a*) services of the kind referred to in *paragraph 1(4)* (Carriage of goods to or from the Azores or Madeira);
+
+(*b*) services of the kind referred to in *paragraph 3(2)* (Carriage of goods in transit to a place outside the Community);
+
+(*c*) F505[...]
+
+F511[(*d*) services of the kind referred to in—
+
+(i) *paragraph 4(2)* (Supply, hiring, repair, maintenance, etc. of sea-going vessels or aircraft), or
+
+(ii) *paragraph 4(2A)* (To meet the direct needs of sea-going vessels or aircraft, or of their cargoes);]
+
+F512[(*da*) services of the kind referred to in *paragraph 4(3)* (Supply, hiring, repair, maintenance, etc. of equipment incorporated or for use in sea-going vessels to which *paragraph 4(2)(a)* relates);
+
+(*db*) services of the kind referred to in *paragraph 4(4)* (Supply, hiring, repair, maintenance, etc. of equipment incorporated or for use in aircraft to which *paragraph 4(2)(b)* relates);]
+
+(*e*) services of the kind referred to in *paragraph 5(2)* (Supply of gold to the Central Bank of Ireland).
+
+(3) Services that are treated as intermediary services under the travel agent’s margin scheme in accordance with *section 88(8)*.
+
+*International trade, etc.*
+
+7\. (1) The supply of goods by a registered person within a free port to another registered person within a free port.
+
+(2) The supply of goods by a registered person within the customs-free airport to another registered person within the customs-free airport or a free port.
+
+(3) The supply of goods that are to be transported directly or on behalf of the person making the supply to a registered person within the customs-free airport.
+
+(4) The supply of goods that are a traveller’s qualifying goods, but only if *section 58(2)* is complied with.
+
+(5) The supply of services in obtaining a repayment of tax due on the supply of a traveller’s qualifying goods or as a result of the application of *subparagraph (4)* to that supply of goods, but only if *section 58(2)* is complied with.
+
+(6) Subject to such conditions and in such amounts as may be specified in regulations (if any)—
+
+(*a*) the supply of goods, in a tax-free shop approved by the Revenue Commissioners, to travellers departing the State for a place outside the Community, or
+
+(*b*) the supply, other than by means of a vending machine, of food, drink and tobacco products on board a vessel or aircraft to passengers departing the State for another Member State, for consumption on board that vessel or aircraft.
+
+(7) Subject to *section 56*, the supply of qualifying goods and qualifying services to, or the intra-Community acquisition or importation of qualifying goods by, an authorised person in accordance with that section (excluding a supply of goods within the meaning of *section 19(1)(f)* or *(g)*).
+
+(8) In this paragraph “traveller’s qualifying goods” has the meaning assigned to it by *section 58(1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F500: Substituted (1.01.2020) by *European Union (Value-Added Tax) Regulations 2019* (S.I. No. 687 of 2019), reg. 3(h), in effect as per reg. 2.
+>
+> F501, F502: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 29(a), (b), in effect as per reg. 2.
+>
+> F503, F504, F505: Deleted (1.01.2025) by *Finance Act 2024* (43/2024), s. 86(a), (b), commenced as per s. 86.
+>
+> F506: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 46(a)(i)(I), commenced on enactment.
+>
+> F507: Substituted and inserted (1.01.2011) by *European Union (Value-Added Tax) Regulations 2010* (S.I. No. 612 of 2010), reg. 4(i), in effect as per reg. 1(2).
+>
+> F508: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 41(1)(c)(i), commenced on enactment.
+>
+> F509: Inserted (1.07.2022) by *Finance Act 2020* (26/2020), s. 42(1)(c)(ii), commenced as per subs. (2).
+>
+> F510: Inserted (1.01.2021, 12.12.2021) by *Finance Act 2021* (45/2021), s. 56(1)(b)(i), commenced as per s. 56(3) and on enactment.
+>
+> F511: Substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 46(a)(i)(II), commenced on enactment.
+>
+> F512: Inserted (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(2)(a)(ii), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E107: Conditions specified for purposes of par. 7(6) (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 45(2), in effect as per reg. 1(2).
+>
+> E108: Previous affecting provision: para. 6(2)(d) substituted (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(2)(a)(i), commenced on enactment; substituted as per F-note above.
+
+### PART 2 — Supplies Within the State
+
+F513[This Part sets out special provisions in accordance with Article 105a(1) and Annex III of the VAT Directive.]
+
+*Food and drink.*
+
+8\. (1) A supply of food and drink of a kind used for human consumption, other than—
+
+F515[(*a*) a supply to which *paragraph 3(1)* or *(3)* of *Schedule 3* relates,]
+
+(*b*) supplies specified in *Part A*, *B*, *C* or *D* of *Table 1* F516[to this paragraph,]
+
+(*c*) supplies specified in *column (1)* of *Part E* or *F* F517[of that table, and]
+
+F518[(*d*) a supply to which *paragraph 5(1)* of *Schedule 1* relates.]
+
+Table 1
+
+Food and Drink
+
+<table><tr><td colspan="2">Part A</td></tr><tr><td colspan="2">Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them.</td></tr><tr><td colspan="2">Part B</td></tr><tr><td colspan="2">(<i>a</i>) F514[Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.]<br>(<i>b</i>) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form.</td></tr><tr><td colspan="2">Part C</td></tr><tr><td colspan="2">(<i>a</i>) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.<br>(<i>b</i>) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation.</td></tr><tr><td colspan="2">Part D</td></tr><tr><td colspan="2">Any of the following when supplied for human consumption without further preparation:<br>(<i>a</i>) potato crisps, potato sticks, potato puffs and similar products made from potato, or from potato flour or from potato starch;<br>(<i>b</i>) popcorn;<br>(<i>c</i>) salted or roasted nuts, whether or not in their shells.</td></tr><tr><td colspan="2">Part E</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>Any of the following items not being items specified in <i>column (2)</i> of this Part:<br>(<i>a</i>) drinking water, juice extracted from, and other drinkable products derived from F519[fruit, vegetables, plants, grains, seeds, or pulses], and syrups, concentrates, essences, powders, crystals or other products for the preparation of beverages;<br>(<i>b</i>) beverages other than those specified in <i>Part A</i> or <i>B</i>.</td><td>(<i>a</i>) F520[Tea, herbal tea and preparations derived from either or both of them, when supplied in non-drinkable form.]<br>(<i>b</i>) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from any of them, when supplied in non-drinkable form.<br>(<i>c</i>) Milk F521[...]<br>(<i>d</i>) Preparations and extracts derived from meat, yeast or eggs.<br>F522[(<i>e</i>) Oat milk, almond milk, rice milk, coconut milk, hemp milk, cashew milk, soy milk, pea milk, hazelnut milk, flax milk, potato milk or other similar milk substitute drinks.]</td></tr><tr><td colspan="2">Part F</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>All kinds of chocolates, sweets and similar confectionery (including glacé or crystallised fruits), biscuits, crackers and wafers, and all other kinds of confectionery and bakery products (whether cooked or uncooked), excluding bread within the meaning assigned to it in <i>column (2)</i> of this Part.</td><td>For the purposes of this Part “bread” means food for human consumption manufactured by baking dough composed exclusively of a mixture of cereal F523[or other] flour and any one or more of the ingredients included in <i>column (1)</i> of <i>Table 2</i> to this paragraph that do not exceed the quantities (if any) set out for each ingredient in <i>column (2)</i> of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.</td></tr></table>
+
+F524[Table 2
+
+Ingredients and Weight Limits thereof for Bread as defined in column (2) of Part F of Table 1
+
+| (1) Ingredients | (2) Weight limits for the ingredients, as percentage of weight of flour included in the dough |
+|---|---|
+| Fats and sugars (including any fats and sugars contained in any bread improver) | Not exceeding 12% in aggregate |
+| Dried fruit, vegetables, herbs and spices | Not exceeding 10% in aggregate |
+| Yeast or other leavening or aerating agent, seeds, salt, malt extract, milk, water, gluten and bread improver | No limit ] |
+
+(2) In this paragraph, a reference to supplying food and drink includes—
+
+(*a*) a reference to supplying food without drink, and
+
+(*b*) a reference to supplying drink without food.
+
+*Certain printed matter.*
+
+9\. The supply of printed books and booklets, including F525[atlases and newspapers], F527[and audiobooks supplied on physical means of support,] but excluding—
+
+(*a*) F526[newspapers which are wholly or predominantly devoted to advertising,] periodicals, brochures, catalogues, directories and programmes,
+
+(*b*) books of stationery, cheque books and similar products,
+
+(*c*) diaries, organisers, yearbooks, planners and similar products the total area of whose pages consist of 25 per cent or more of blank spaces for the recording of information,
+
+(*d*) albums and similar products, and
+
+(*e*) books of stamps, tickets or coupons.
+
+F528[*Certain electronically supplied matter*
+
+9A. The electronic supply of books, newspapers and audiobooks, but excluding —
+
+(*a*) such books, newspapers and audiobooks which are wholly or predominantly devoted to advertising or consist wholly or predominantly of video content or audible music,
+
+(*b*) the items specified in *subparagraphs (b)* to *(e)* of *paragraph 9,* and
+
+(*c*) the items specified in *subparagraphs (a)* to *(f)* of *paragraph 7A* of *Schedule 3.*]
+
+*Children’s clothing and footwear.*
+
+10\. (1) The supply of articles of children’s personal clothing of sizes that do not exceed the sizes of those articles appropriate to children of average build of 10 years of age, but excluding—
+
+(*a*) articles of clothing made wholly or partly of fur skin other than garments merely trimmed with fur skin, unless the trimming has an area greater than one-fifth of the area of the outside material, and
+
+(*b*) articles of clothing that are not described, labelled, marked or marketed on the basis of age or size.
+
+(2) The supply of articles of children’s personal footwear of sizes that do not exceed the size appropriate to children of average foot size of 10 years of age, but excluding footwear that is not described, labelled, marked or marketed on the basis of age or size.
+
+(3) In this paragraph, a child whose age is 10 years or 10 years and a fraction of a year is taken to be a child of 10 years of age.
+
+*Medicine, medical equipment and appliances*.
+
+11\. F525[(1) The supply of medicine of a kind used for—
+
+(*a*) human oral consumption, or
+
+(b) human non-oral consumption when supplied for the purpose of—
+
+(i) hormone replacement therapy, or
+
+(ii) nicotine replacement therapy.]
+
+(2) The supply of medicine of a kind used for animal oral consumption, excluding medicine which is packaged, sold or otherwise designated for the use of dogs, cats, cage birds or domestic pets.
+
+(3) The supply of medical equipment and appliances, being—
+
+(*a*) invalid carriages and other vehicles (excluding mechanically propelled road vehicles) of a kind designed for use by invalids or infirm persons,
+
+(*b*) orthopaedic appliances, surgical belts, trusses and similar products, deaf aids, and artificial limbs and other artificial parts of the body excluding artificial teeth, corrective spectacles and contact lenses,
+
+F529[(*ba*) automated external defibrillators,]
+
+(*c*) walking frames and crutches,
+
+(*d*) parts or accessories suitable for use solely or principally with any of the goods specified in F525[*clauses (a)*, *(b)*, *(ba)* and *(c)*]
+
+F530[(4) (*a*) The supply of personal protection equipment, thermometers, hand sanitiser, oxygen, medical ventilators and specialist respiratory equipment including respirators for intensive and sub-intensive care and other oxygen therapy apparatus including oxygen tents, when supplied—
+
+(i) to—
+
+(I) the Health Service Executive, for use in the delivery of Covid-19 related health care services, and
+
+(II) hospitals, general practitioners, nursing homes and residential care facilities, for use in the delivery of Covid-19 related health care services to their patients or residents, as the case may be, and
+
+(ii) subject to such order as may be made under *section 46(5)*, during the period beginning on 9 April 2020 and ending on F531[30 June 2022].
+
+(*b*) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.]
+
+F532[(5) F533[(*a*) The supply of Covid-19 in vitro diagnostic medical devices where those devices comply with the requirements of European Union legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998[^36] and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017[^37].]
+
+(*b*) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.]
+
+*Fertilisers, feeding stuffs, certain seeds, etc.*
+
+12\. (1) For the purpose of this paragraph “fertiliser” has the meaning assigned to it by the Fertilisers, Feeding Stuffs and Mineral Mixtures Act 1955.
+
+(2) Fertiliser that is supplied in units of not less than 10 kilograms and the sale or manufacture of which is not prohibited under section 4 or 6 of the Fertilisers, Feeding Stuffs and Mineral Mixtures Act 1955.
+
+(3) Animal feeding stuff, excluding feeding stuff which is packaged, sold or otherwise designated for the use of dogs, cats, cage birds or domestic pets.
+
+(4) Seeds, plants, trees, spores, bulbs, tubers, tuberous roots, corms, crowns and rhizomes, of a kind used for sowing in order to produce food.
+
+*Other zero-rated goods and services.*
+
+13\. (1) Services provided by the Commissioners of Irish Lights in connection with the operation of lightships, lighthouses or other navigational aids.
+
+(2) Life saving services provided by the Royal National Lifeboat Institution including the organisation and maintenance of the lifeboat service.
+
+F525[(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges.]
+
+The supply of sanitary towels and sanitary tampons.
+
+(4) F534[...]
+
+F535[*Solar panels*
+
+14\. The supply and installation of solar panels on or adjacent to immovable goods, being private dwellings] F536[or buildings used wholly or predominantly for the provision of primary or post-primary education by recognised schools within the meaning of the Education Act 1998].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F513, F514: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 6, in effect as per reg. 2.
+>
+> F515, F516, F517: Substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(b)(i)-(iii), commenced on enactment.
+>
+> F518: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(b)(iv), commenced on enactment.
+>
+> F519: Substituted (1.01.2025) by *Finance Act 2024* (43/2024), s. 87(a), commenced as per s. 87.
+>
+> F520: Substituted (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(2)(b), commenced on enactment.
+>
+> F521: Substituted (15.12.2022) by *Finance Act 2022* (44/2022), s. 63, commenced on enactment.
+>
+> F522: Inserted (1.01.2025) by *Finance Act 2024* (43/2024), s. 87(b), commenced as per s. 87.
+>
+> F523: Inserted (31.03.2012) by *Finance Act 2012* (9/2012), s. 94(a), commenced on enactment.
+>
+> F524: Substituted (31.03.2013) by *Finance Act 2012* (9/2012), s. 94(b), commenced on enactment.
+>
+> F525, F526: Substituted (1.01.2023) by *Finance Act 2022* (44/2022), s. 64(a)(i)(I),(II), (iii)(I),(II)(B), (iv), commenced as per s. 64.
+>
+> F527: Inserted (1.01.2024) by *Finance (No.2) Act 2023* (39/2023), s. 65(a)(i), commenced as per s. 65.
+>
+> F528: Substituted (1.01.2024) by *Finance (No.2) Act 2023* (39/2023), s. 65(a)(ii), commenced as per s. 65.
+>
+> F529: Inserted (1.01.2023) by *Finance Act 2022* (44/2022), s. 64(a)(iii)(II)(A), commenced as per s. 64.
+>
+> F530: (19.12.2020) by *Finance Act 2020* (26/2020), s. 44(a), commenced on enactment.
+>
+> F531: Substituted (1.01.2022, deemed) by *Value - Added Tax Consolidation Act 2010 (Section 46(5)) Order 2022* (S.I. No. 665 of 2022), art. 2, in effect as per art. 3.
+>
+> F532: Inserted (21.12.21) by *Finance Act 2021* (45/2021), s. 56(b)(ii), commenced on enactment.
+>
+> F533: Substituted (1.01.2023) by *Finance Act 2023* (11/2023), s. 5(b), commenced as per s. 5(b).
+>
+> F534: Deleted (1.01.2022) by *Finance Act 2020* (26/2020), s. 46(a)(ii), commenced as per para. (ii).
+>
+> F535: Inserted (1.05.2023) by *Finance Act 2023* (11/2023), s. 5(c)(i), commenced as per s. 5(c).
+>
+> F536: Inserted (18.12.2023) by *Finance (No. 2) Act 2023* (39/2023), s. 66, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E109: Previous affecting provision: para. 9A inserted (1.01.2023) by *Finance Act 2022* (44/2022), s. 64(a)(ii), commenced as per s. 64; para. 9A substituted (1.01.2024) as per F-note above.
+>
+> E110: Previous affecting provision: para. 11(4)(a) amended (30.04.2021) by *Value-Added Tax Consolidation Act 2010 (section 46(5)) Order 2021* (S.I. No. 228 of 2021), art. 2; substituted (1.01.2022, deemed) as per F-note above.
+
+## SCHEDULE 3 Goods and Services chargeable at the reduced rate — SCHEDULE 3 — Goods and Services chargeable at the reduced rate
+
+[VATA Sch. 3]
+
+### PART 1 — Interpretation
+
+*Definitions* — *Schedule 3*.
+
+1\. (1) In this Schedule—
+
+“food and drink table” means *Table 1* to *paragraph 8(1)* of *Schedule 2*;
+
+F537[...]
+
+“margin scheme supply” means a supply—
+
+(*a*) by a taxable dealer in accordance with *section 87(3)* or *(8)*, or
+
+(*b*) by an auctioneer within the meaning of *section 89(1)* and in accordance with F538[*section 89(3)*;]
+
+F539[“open farm” means a facility the principal function of which is the exhibition (other than on an occasional basis) of animals and agricultural activities, and such exhibition may also include rural heritage.]
+
+*Other interpretative provisions.*
+
+2\. (1) In this Schedule, a reference to supplying food and drink includes—
+
+(*a*) a reference to supplying food without drink, and
+
+(*b*) a reference to supplying drink without food.
+
+(2) For the purposes of *paragraph 12*, the expression “golf” does not include pitch and putt.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F537: Deleted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(c)(i), commenced on enactment.
+>
+> F538: Substituted (1.01.2012) by *Finance Act 2012* (9/2012) s. 95(1)(a), commenced as per subs. (2).
+>
+> F539: Inserted (1.01.2012) by *Finance Act 2012* (9/2012) s. 95(1)(b), commenced as per subs. (2).
+
+### PART 2 — Annex III Supplies
+
+This Part sets out supplies of goods and services as provided by Article 98 and Annex III of the VAT Directive.
+
+*Food and drink for human consumption.*
+
+3\. F540[(1) The supply of restaurant or catering services, excluding—
+
+(*a*) a supply to which *paragraph 5(1)* of *Schedule 1* relates,
+
+(*b*) the supply of food and drink that falls within *Part A* of the food and drink table, and
+
+(*c*) the supply of food and drink that falls within column (1) of *Part E* of the food and drink table, but not including juices extracted from fruit.]
+
+(2) F541[...]
+
+(3) The supply of food and drink that consists of or includes food and drink—
+
+(*a*) that—
+
+(i) has been heated, enabling it to be consumed at a temperature above the ambient air temperature,
+
+(ii) has been retained heated after cooking, enabling it to be consumed at a temperature above the ambient air temperature, or
+
+(iii) is supplied while still warm after cooking, enabling it to be consumed at a temperature above the ambient air temperature,
+
+and
+
+(*b*) that is above the ambient air temperature at the time when it is provided to a customer,
+
+being food and drink which fall within *Part B* of the food and drink table or that, apart from this subparagraph, would be chargeable to tax at the rate specified in *section 46(1)(b)*.
+
+(4) *Subparagraph (3)* does not apply to bread as defined in column (2) of *Part F* of the food and drink table.
+
+(5) Food of a kind used for human consumption (other than that chargeable to tax at the rate specified in *section 46(1)(b)*), being flour or egg based bakery products (including cakes, crackers, wafers and biscuits), but excluding—
+
+(*a*) wafers and biscuits wholly or partly covered or decorated with chocolate or some other product similar in taste and appearance,
+
+(*b*) food and drink which fall within *Part C* of the food and drink table, and
+
+(*c*) chocolates, sweets and similar confectionery.
+
+F542[*Food supplements.*
+
+3A. The supply of food supplements of a kind used for human oral consumption.]
+
+*Live animals, animal feeding stuffs.*
+
+4\. (1) Greyhound feeding stuff that is packaged, advertised or held out for sale solely as greyhound feeding stuff, and that is supplied in units of not less than 10 kilograms.
+
+(2) Live poultry and live ostriches.
+
+*Pharmaceutical products.*
+
+5\. Non-oral contraceptive products.
+
+F543[5A. F544[...]]
+
+*Certain safety equipment.*
+
+6\. Children’s car safety seats.
+
+*Books, newspapers and other printed matter.*
+
+7\. Printed matter consisting of—
+
+(*a*) F544[...] periodicals,
+
+(*b*) brochures, leaflets and programmes,
+
+(*c*) catalogues, including directories, and similar printed matter,
+
+(*d*) maps, hydrographic and similar charts, or
+
+(*e*) printed music other than in book or booklet form,
+
+but excluding—
+
+(i) other printed matter wholly or substantially devoted to advertising,
+
+(ii) the items specified in *subparagraphs (b*) to *(e*) of *paragraph 9* of *Schedule 2*, and
+
+(iii) any other printed matter.
+
+F545[*Certain electronically supplied matter*
+
+7A. The electronic supply of —
+
+(*a*) periodicals,
+
+(*b*) brochures, leaflets and programmes,
+
+(*c*) catalogues, including directories, and similar printed matter,
+
+(*d*) maps, hydrographic and similar charts,
+
+(*e*) children’s picture, drawing or colouring books, or
+
+(*f*) music printed or in manuscript form,
+
+but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content.]
+
+*Shows, exhibitions, cultural facilities, etc.*
+
+8\. (1) Promotion of, and admission to, showings of cinematographic films.
+
+(2) Promotion of, and admission to, live theatrical or musical performances, but excluding—
+
+(*a*) dances, and
+
+(*b*) performances of the kind specified in *paragraph 5(2)* of *Schedule 1*.
+
+F546[(3) Admission to fairgrounds or amusement parks, but excluding any part of the fee for such admission which relates to goods or services other than such admission.]
+
+F547[(4) Admission to—
+
+(*a*) exhibitions, of the kind normally held in museums and art galleries, of objects of historical, cultural, artistic or scientific interest (not being services of the kind specified in *paragraph 3(5)* of *Schedule 1*), or
+
+(*b*) built or natural heritage facilities which are open to the public other than on an occasional basis (not being services of the kind specified in *paragraph 3(5)* of *Schedule 1*),
+
+but excluding any part of the fee for such admission which relates to goods or services other than such admission.
+
+(5) Admission to an open farm, but excluding any part of the fee for such admission which relates to goods or services other than such admission.]
+
+*Private dwellings.*
+
+9\. (1) Services F548[(not being services referred to in *paragraph 9B(3)*)] consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, F550[other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2,] F559[or the supply and installation of low emissions heat pump heating systems as specified in *paragraph 12A*,] where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+
+(2) Services consisting of the routine cleaning of private dwellings.
+
+F551[*Housing as part of a social policy.*
+
+9A. The supply of housing, as part of a social policy, being the supply of an apartment, used or to be used for residential purposes, in an apartment block within the meaning of section 31E of the Stamp Duties Consolidation Act 1999.]
+
+F549[*Supply and construction of housing as part of a social policy.*
+
+9B. (1) In this paragraph—
+
+“apartment block” means a multi-storey building that comprises, or will comprise, not less than 3 apartments with grouped or common access;
+
+“completed” has the same meaning as it has in *section 94*.
+
+(2) The supply of immovable goods, as part of a social policy, which are or, when completed, will be—
+
+(*a*) one or more than one apartment, used or to be used for residential purposes, in an apartment block, or
+
+(*b*) an apartment block, used or to be used for residential purposes, but excluding any part of the apartment block that is not used or to be used for residential purposes.
+
+(3) Services consisting of the development, until completed, of immovable goods to which *subparagraph (2)* applies.]
+
+*Agricultural goods and services.*
+
+10\. (1) Agricultural services consisting of any of the following:
+
+(*a*) field work, including reaping, mowing, threshing, baling, harvesting, sowing and planting;
+
+(*b*) stock-minding, stock-rearing, farm relief services and farm advisory services (other than farm accountancy or farm management services);
+
+(*c*) disinfecting and ensilage of agricultural products;
+
+(*d*) destroying weeds and pests, and dusting and spraying crops and land;
+
+(*e*) lopping, tree felling and similar forestry services.
+
+F552[(2) Animal insemination services other than the services specified in *subparagraphs (4)* and *(5)* of *paragraph 13B*.]
+
+(3) The supply of livestock semen.
+
+*Hotel, holiday accommodation.*
+
+F553[11. Subject to regulations, if any, the letting of immovable goods where the letting consists of the provision of holiday or guest accommodation in—
+
+(*a*) a hotel,
+
+(*b*) a guesthouse,
+
+(*c*) all or part of a house,
+
+(*d*) all or part of an apartment, or
+
+(*e*) another establishment, including the letting of a place in a caravan park or camping site.]
+
+*Sporting facilities.*
+
+12\. F554[(1) The provision of facilities for taking part in sporting activities including golf or physical education activities, and closely related activities, by an entity other than a non-profit making organisation, the State or a public body.]
+
+F555[(1A) The provision of facilities for taking part in sporting activities including golf or physical education activities, and closely related activities, by the State or a public body, F556[where the total annual turnover for providing those facilities exceeds, in the current calendar year or the previous calendar year, the services threshold].]
+
+(2) F557[...]
+
+(3) F557[...]
+
+F558[*Low emissions heat pump heating systems*
+
+12A. The supply and installation of low emissions heat pump heating systems.]
+
+*Other services.*
+
+13\. (1) Services consisting of the acceptance for disposal of waste material.
+
+(2) Carrying out minor repairs or modifications to bicycles, shoes or leather goods, clothing or household linen.
+
+(3) Hairdressing services.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F540: Substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(c)(ii)(I), commenced on enactment.
+>
+> F541: Deleted (19.12.2020) by *Finance Act 2020* (26/2020), s. 43(c)(ii)(II), commenced on enactment.
+>
+> F542: Inserted (1.01.2020) by *Finance Act 2019* (45/2019), s. 55, commenced as per s. 55.
+>
+> F543: Inserted (1.01.2021) by *Finance Act 2020* (26/2020), s. 46(b)(i), commenced as per s. 46(b)(i).
+>
+> F544: Deleted (1.01.2023) by *Finance Act 2022* (44/2022), s. 64(b)(i)(ii), commenced as per s. 64.
+>
+> F545: Substituted (1.01.2024) by *Finance (No. 2) Act 2023* (39/2023), s. 65(b), commenced as per s. 65.
+>
+> F546: Substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 46(b)(ii), commenced on enactment.
+>
+> F547: Substituted and inserted (1.01.2012) by *Finance Act 2012* (9/2012) s. 95(1)(c), commenced as per subs. (2).
+>
+> F548, F549: Inserted (26.11.2025) by *Finance Act 2025* (18/2025), s. 70(2)(b)(i)(I), (II), in effect as per s. 70(2).
+>
+> F550: Inserted (1.05.2023) by *Finance Act 2023* (11/2023), s. 5(c)(ii), commenced as per s. 5(c).
+>
+> F551: Inserted (8.10.2025) by *Finance Act 2025* (18/2025), s. 70(1)(b)(i), in effect as per s. 70(1).
+>
+> F552: Substituted (1.01.2015) by *Finance (No. 2) Act 2013* (41/2013), s. 66(1)(c)(i), commenced as per s. 66(2) and S.I. No. 498 of 2014.
+>
+> F553: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 72(c), in effect as per s. 72.
+>
+> F554: Substituted (1.01.2013) by *Finance Act 2013* (8/2013), s. 75(2)(a) and (b), commenced as per subs. (3).
+>
+> F555: Inserted (1.01.2013) by *Finance Act 2013* (8/2013), s. 75(2)(c), commenced as per subs. (3).
+>
+> F556: Substituted (1.01.2026) by *Finance Act 2025* (18/2025), s. 68(1)(d), in effect as per s. 68(1).
+>
+> F557: Deleted (1.03.2015) by *Finance Act 2014* (37/2014), s. 71(3)(b), commenced as per s. 71(4)(c).
+>
+> F558, F559: Inserted (1.01.2025) by *Finance Act 2024* (43/2024), s. 88(a)(i), (ii), commenced as per s. 88.
+>
+> **Editorial Notes:**
+>
+> E111: Previous affecting provision: para. (11) substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 45(c), commenced on enactment; substituted (1.01.2026) as per F-note above.
+>
+> E112: Previous affecting provision: inserted (1.01.2019) by *Finance Act 2018* (30/2018), s. 43(b), commenced as per s. 43; para. 7A substituted (1.01.2024) as per F-note above.
+>
+> E113: Previous affecting provision: deleted (1.01.2023) by *Finance Act 2022* (44/2022), s. 64(b)(iii), commenced as per s. 64; para. 7A substituted (1.01.2024) as per F-note above.
+>
+> E114: Previous affecting provision: para. 11(a) amended (1.01.2013) by *Finance Act 2013* (8/2013), s. 75(2)(a) and (b), commenced as per subs. (3); substituted as per F-note above.
+>
+> E115: Lettings which constitute lettings provided in the short-term guest sector or holiday sector for the purposes of par. 11(a)(ii) specified (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 46, in effect as per reg. 1(2).
+
+### F561[PART 2A — Certain Supplies with Reduced Rate: Particular Provisions in Accordance with Annex III of the VAT Directive]
+
+F560[*District heating*.
+
+13A. The supply of district heating.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F560: Inserted (1.03.2012) by *Finance Act 2012* (9/2012), s. 95(3), commenced as per subs. (4).
+>
+> F561: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 7(a), in effect as per reg. 2.
+
+### F563[PART 2B — Certain Supplies with Reduced Rate: Particular Provisions in Accordance with Article 105a(3) and Annex III of the VAT Directive]
+
+F562[*Horses and greyhounds*
+
+13B. (1) The supply of live horses other than horses normally intended for use in—
+
+(*a*) the preparation of foodstuffs, or
+
+(*b*) agricultural production.
+
+(2) The hire of horses.
+
+(3) The supply of live greyhounds.
+
+(4) The supply of insemination services for greyhounds.
+
+(5) The supply of insemination services for horses other than horses normally intended for use in—
+
+(*a*) the preparation of foodstuffs, or
+
+(*b*) agricultural production.
+
+(6) The supply of horse semen from horses other than horses normally intended for use in—
+
+(*a*) the preparation of foodstuffs, or
+
+(*b*) agricultural production.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F562: Inserted (1.01.2015) by *Finance (No. 2) Act 2013* (41/2013), s. 66(1)(c)(ii), commenced as per s. 66(2) and S.I. No. 498 of 2014.
+>
+> F563: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 7(b), in effect as per reg. 2.
+
+### F564[PART 3 — Certain Supplies with Reduced Rate: Particular Provisions in Accordance with Article 105a(3) of the VAT Directive]
+
+*Housing.*
+
+F565[14. The supply of immovable goods used or to be used for residential purposes, other than immovable goods to which *paragraph 9A* or *9B(2),* as the case may be, applies.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F564: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 7(c), in effect as per reg. 2.
+>
+> F565: Substituted (26.11.2025) by *Finance Act 2025* (18/2025), s. 70(2)(b)(ii), in effect as per s. 70(2).
+>
+> **Editorial Notes:**
+>
+> E116: Previous affecting provision: paragraph substituted (8.10.2025) by *Finance Act 2025* (18/2025), s. 70(1)(b)(ii), in effect as per s. 70(1); substituted (26.11.2025) by *Finance Act 2025* (18/2025), s. 70(2)(b)(ii), in effect as per s. 70(2).
+
+### F566[PART 4 — Certain Supplies with Reduced Rate: Particular Provisions in Accordance with Article 105a(3) and Annex III of the VAT Directive]
+
+*Non-residential immovable goods.*
+
+15\. (1) The supply of immovable goods, other than immovable goods used or to be used for residential purposes.
+
+(2) Services consisting of the development of immovable goods (not being goods referred to in *paragraph 9(1)* F567[or *9B(3)*)] and work on those goods (including the installation of fixtures), F568[other than the supply and installation of low emissions heat pump heating systems as specified in *paragraph 12A*,] where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+
+(3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in *paragraph 9(2)*).
+
+*Concrete works.*
+
+16\. (1) The supply of concrete that is ready to pour, but excluding the margin scheme supply of the concrete.
+
+(2) The supply of blocks of concrete of a kind that comply with the specification contained in the F569[Irish Standard I.S. EN 771-3: 2011+A1:2015 Specification for masonry units – Part 3: Aggregate concrete masonry units (dense and lightweight aggregates)], but excluding the margin scheme supply of those blocks.
+
+*Energy products and supplies.*
+
+17\. (1) The supply of coal, peat and other solid substances offered for sale solely as fuel.
+
+(2) The supply of electricity, but not the distribution of electricity if the distribution is wholly or mainly in connection with the transmission of communication signals.
+
+(3) The supply of gas of a kind used for domestic or industrial heating or lighting, whether in gaseous or liquid form, but not including—
+
+F570[(*a*) “vehicle gas” within the meaning of section 94(1) of the Finance Act 1999,
+
+(*aa*) “liquefied petroleum gas” within the meaning of section 94(1) of the Finance Act 1999 when used or intended for use as a “propellant” within the meaning of that section,]
+
+(*b*) gas of a kind normally used for welding or cutting metal, or
+
+(*c*) gas sold as lighter fuel.
+
+F571[(4) The supply of hydrocarbon oil of a kind used for domestic or industrial heating, excluding gas oil (within the meaning of section 94(1) of the Finance Act 1999), other than gas oil which has been duly marked in accordance with Regulation 29(2)(a) of the Mineral Oil Tax Regulations 2012 (S.I. No. 231 of 2012).]
+
+*Photographic and related supplies.*
+
+18\. (1) The supply to a person of photographic prints (other than goods produced by means of a photocopying process), slides or negatives, that have been produced from goods provided by that person.
+
+(2) The supply of goods being—
+
+(*a*) photographic prints (other than goods produced by means of a photocopying process) mounted or unmounted, but unframed,
+
+(*b*) slides and negatives, and
+
+(*c*) cinematographic and video film,
+
+that record particular persons, objects or events, supplied under an agreement to photograph those persons, objects or events.
+
+(3) The supply by a photographer of—
+
+(*a*) negatives that have been produced from film exposed for the purpose of the photographer’s business, and
+
+(*b*) film that has been exposed for the purposes of the photographer’s business.
+
+(4) The supply of photographic prints produced by means of a vending machine which incorporates a camera and developing and printing equipment.
+
+(5) Services consisting of—
+
+(*a*) editing photographic, cinematographic and video film, or
+
+(*b*) microfilming.
+
+(6) Agency services relating to a supply specified in *subparagraph (1)*.
+
+*Hiring for short periods.*
+
+19\. Hiring—
+
+(*a*) a vehicle designed and constructed, or adapted, for the conveyance of persons by road,
+
+(*b*) a vessel designed and constructed for the conveyance of passengers and not exceeding 15 tonnes gross,
+
+(*c*) any kind of sports or pleasure boat, or
+
+(*d*) a caravan, mobile home, tent or trailer tent,
+
+to a person under an agreement (other than an agreement of the kind referred to in *section 19(1)(c)*) for any term or part of a term that, when added to the term of a previous hiring (whether of the same goods or of other goods of the same kind) to the same person during the 12 months ending on the date of the beginning of the existing hiring, does not exceed 5 weeks.
+
+*Certain repair and related services.*
+
+20\. (1) Services, other than those specified in *paragraph 13(2)*, consisting of—
+
+(*a*) repairing or maintaining movable goods, or
+
+(*b*) modifying used movable goods (other than contract work or services of a kind specified in *subparagraph (2)*), but excluding the supply in the course of any such repair, maintenance or modification of—
+
+(i) accessories, attachments or batteries, or
+
+(ii) tyres, tyre cases, interchangeable tyre treads, inner tubes and tyre flaps, for wheels of all kinds.
+
+(2) The following services are specified for the purposes of *subparagraph (1)*:
+
+(*a*) services specified in *paragraph 3(4)* of *Schedule 2* (Work on movable goods for export);
+
+(*b*) services specified in *paragraph 4(2)* of *Schedule 2* (Repair, etc. of sea-going vessels or aircraft);
+
+(*c*) services specified in *paragraph 4(4)* of *Schedule 2* (Repair, etc. of equipment used in international aircraft).
+
+*Miscellaneous services.*
+
+F572[(1) Services consisting of the care of the human body, including services supplied in the course of a health studio business or similar business, but excluding the following:
+
+(*a*) exempted activities referred to in Part 1 of Schedule 1;
+
+(*b*) hairdressing services referred to in paragraph 13(3);
+
+(*c*) sunbed services.]
+
+(2) Services supplied in the course of their profession by jockeys.
+
+(3) Services F573[of a kind supplied] in the course of their profession by veterinary surgeons.
+
+(4) Services supplied in the course of their profession by tour guides.
+
+(5) Instruction in the driving of mechanically propelled road vehicles, but excluding education, training or retraining of the kind specified in F574[*paragraph 4(3)(c)* of *Schedule 1*].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F566: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 7(d), in effect as per reg. 2.
+>
+> F567: Inserted (26.11.2025) by *Finance Act 2025* (18/2025), s. 70(2)(b)(iii), in effect as per s. 70(2).
+>
+> F568: Inserted (1.01.2025) by *Finance Act 2024* (43/2024), s. 88(b), commenced as per s. 88.
+>
+> F569: Substituted (23.12.2025) by *Finance Act 2025* (18/2025), s. 105 and sch. 3 para 5, in operation as per s. 105 and sch. para 6.
+>
+> F570: Substituted and inserted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(i), commenced on enactment.
+>
+> F571: Substituted (23.12.2014) by *Finance Act 2014* (37/2014), s. 71(3)(b), commenced on enactment.
+>
+> F572: Substituted (1.01.2018) by *Finance Act 2017* (41/2018), s. 56, commenced as per section.
+>
+> F573: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 61 and sch. 2 par. 19, commenced on enactment.
+>
+> F574: Substituted (25.12.2017) by *Finance Act 2017* (41/2017), s. 58(j), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E117: Previous affecting provision: para. 16(2) substituted (18.12.2013) by *Finance (No. 2) Act 2013* (41/2013), s. 84 and sch. para. 2(b), commenced as per sch. para. 5(a); substituted (23.12.2025) as per F-note above.
+>
+> E118: Previous affecting provision: subs. (4) substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(h)(i), commenced as per par. 4(b); deleted as per F-note above.
+
+### PART 5 — Supplies of Certain Live Plants and Similar Goods
+
+F575[This Part sets out special provisions in accordance with Annex III of the VAT Directive]
+
+*Plants and bulbs, etc.*
+
+22\. (1) The supply of nursery or garden centre stock consisting of live plants, live trees, live shrubs, bulbs, roots and the like, not being of a kind specified in *F576[paragraph 12(4)]* of *Schedule 2*, and cut flowers and ornamental foliage not being artificial or dried flowers or foliage.
+
+(2) The supply of miscanthus rhizomes, seeds, bulbs, roots and similar goods used for the agricultural production of bio-fuel.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F575: Substituted (1.01.2025) by *European Union (Value-Added Tax) Regulations 2024* (S.I. No. 725 of 2024), reg. 7(e), in effect as per reg. 2.
+>
+> F576: Substituted (31.03.2012) by *Finance Act 2012* (9/2012), s. 138 and sch. 6 par. 3(h)(ii), commenced as per par. 4(b).
+
+### PART 6 — Supplies of Certain Works of Art, Antiques and Literary Manuscripts
+
+This Part deals with special arrangements made in accordance with Article 311 and Annex IX of the VAT Directive.
+
+*Works of art.*
+
+23\. The supply of a work of art that is—
+
+(*a*) a painting, drawing or pastel, or any combination of them, that is produced entirely by hand, not being—
+
+(i) a hand-decorated article,
+
+(ii) a plan or drawing for the purpose of depicting topographical features, or
+
+(iii) a plan or drawing produced for an architectural, engineering, industrial, commercial or similar purpose,
+
+(*b*) an original lithograph, engraving, or print, or any combination of them, produced directly from lithographic stones, plates or other engraved surfaces, that are produced entirely by hand, or
+
+(*c*) an original sculpture or statue (not being a mass-produced reproduction or work of craftsmanship of a commercial nature),
+
+but excluding the margin scheme supply of such a work.
+
+*Antiques.*
+
+24\. The supply of an antique that is an article of furniture, silver, glass or porcelain (whether hand-decorated or not) of a kind specified in regulations, that is shown to the satisfaction of the Revenue Commissioners to be more than 100 years old, but excluding—
+
+(*a*) a work of art of a kind specified in *paragraph 23*, and
+
+(*b*) the margin scheme supply of an antique.
+
+*Literary manuscripts.*
+
+25\. The supply of a literary manuscript certified by the Director of the National Library as being of major national importance and of either cultural or artistic importance.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E119: Articles of furniture, silver, glass and porcelain specified for purposes of par. 24 (1.01.2011) by *Value-Added Tax Regulations 2010* (S.I. No. 639 of 2010), reg. 31, in effect as per reg. 1(2).
+
+## SCHEDULE 4 Agricultural Production Activities and Services — SCHEDULE 4 — Agricultural Production Activities and Services
+
+[VATA Sch. 4]
+
+### PART 1 — F577[Annex VII and Article 295(2)] of the VAT Directive
+
+List of Agricultural Production Activities
+
+1\. Crop Production.
+
+(*a*) General agriculture, including viticulture.
+
+(*b*) Growing of fruit (including olives) and of vegetables, flowers and ornamental plants, both in the open and under glass.
+
+(*c*) Production of mushrooms, spices, seeds and propagating materials; nurseries.
+
+2\. Stock Farming together with Cultivation.
+
+(*a*) General stock farming.
+
+(*b*) Poultry farming.
+
+(*c*) Rabbit farming.
+
+(*d*) Beekeeping.
+
+(*e*) Silkworm farming.
+
+(*f*) Snail farming.
+
+3\. Forestry.
+
+4\. Fisheries.
+
+(*a*) Fresh-water fishing.
+
+(*b*) Fish farming.
+
+(*c*) Breeding of mussels, oysters and other molluscs and crustaceans.
+
+(*d*) Frog farming.
+
+5\. Where a farmer processes—
+
+(*a*) products deriving essentially from his or her agricultural production, and
+
+(*b*) using means normally employed in an agricultural, forestry or fisheries undertaking,
+
+then such processing shall also be regarded as agricultural production.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F577: Substituted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(e)(i), commenced as per par. 10(c).
+
+### PART 2 — F578[...] Annex VIII of the VAT Directive
+
+List of Agricultural Services
+
+Supplies of agricultural services which normally play a part in agricultural production shall be considered the supply of agricultural services and include the following in particular:
+
+(*a*) Field work, reaping and mowing, threshing, baling, collecting, harvesting, sowing and planting.
+
+(*b*) Packing and preparation for market, for example drying, cleaning, grinding, disinfecting and ensilage of agricultural products.
+
+(*c*) Storage of agricultural products.
+
+(*d*) Stock minding, rearing and fattening.
+
+(*e*) Hiring out, for agricultural purposes, of equipment normally used in agricultural, forestry or fisheries undertakings.
+
+(*f*) Technical assistance.
+
+(*g*) Destruction of weeds and pests, dusting and spraying of crops and land.
+
+(*h*) Operation of irrigation and drainage equipment.
+
+(*i*) Lopping, tree felling and other forestry services.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F578: Deleted (6.02.2011) by *Finance Act 2011* (6/2011), s. 81 and sch. 3 par. 3(e)(ii), commenced as per par. 10(c).
+
+## SCHEDULE 5 — Works of Art, Collectors’ Items and Antiques chargeable at the rate specified in section 46(1)(c) in the circumstances specified in section 48
+
+[VATA Sch. 5]
+
+*Works of art.*
+
+1\. Every work of art being—
+
+(*a*) a picture (other than a painting, drawing or pastel specified in *paragraph 23* of *Schedule 3*), collage or similar decorative plaque, executed entirely by hand by an artist, other than—
+
+(i) plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes,
+
+(ii) hand-decorated manufactured articles, and
+
+(iii) theatrical scenery, studio back cloths or the like of painted canvas,
+
+(*b*) a sculpture cast, the production of which is limited to 8 copies and supervised by the artist or by the artist’s successors in title provided that, in the case of a statuary cast produced before 1 January 1989, the limit of 8 copies may be exceeded where so determined by the Revenue Commissioners,
+
+(*c*) a tapestry or wall textile made by hand from original designs provided by an artist, provided that there are not more than 8 copies of each,
+
+(*d*) individual pieces of ceramics executed entirely by an artist and signed by the artist,
+
+(*e*) enamels on copper, executed entirely by hand, limited to 8 numbered copies bearing the signature of the artist or the studio, excluding articles of jewellery, goldsmiths’ wares and silversmiths’ wares, or
+
+(*f*) a photograph taken by an artist, printed by the artist or under the artist’s supervision, signed and numbered and limited to 30 copies, all sizes and mounts included, other than photographs specified in *paragraph 18(2)(a*) of *Schedule 3*.
+
+*Collectors’ items.*
+
+2\. Every collectors’ item being one or more—
+
+(*a*) postage or revenue stamps, postmarks, first-day covers, pre-stamped stationery and the like, franked, or if unfranked not being of legal tender and not being intended for use as legal tender, or
+
+(*b*) collections and collectors’ pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest.
+
+*Antiques.*
+
+3\. Every antique being, subject to and in accordance with regulations, one or more goods which are shown to the satisfaction of the Revenue Commissioners to be more than 100 years old, other than goods specified in *paragraph 18(2)(a), 23* or *24* of *Schedule 3* or *paragraph 1* or *2* of this Schedule.
+
+## SCHEDULE 6 — Activities Listed in Annex 1 of the VAT Directive
+
+[VATA Sch. 7]
+
+1\. Telecommunication services.
+
+2\. Supply of water, gas, electricity and thermal energy.
+
+3\. Transport of goods.
+
+4\. Port and airport services.
+
+5\. Passenger transport.
+
+6\. Supply of new goods manufactured for sale.
+
+7\. Transactions in respect of agricultural products, carried out by agricultural intervention agencies pursuant to regulations on the common organisation of the market in those products.
+
+8\. Organisation of trade fairs and exhibitions.
+
+9\. Warehousing.
+
+10\. Activities of commercial publicity bodies.
+
+11\. Activities of travel agents.
+
+12\. Running of staff shops, cooperatives and industrial canteens and similar institutions.
+
+13\. Activities carried out by radio and television bodies in so far as these are not exempt pursuant to Article 132(1)(q) of the VAT Directive.
+
+## SCHEDULE 7 Consequential Amendments — SCHEDULE 7 — Consequential Amendments
+
+### PART 1 — Consequential Amendments to Acts
+
+In the Act specified in *column (1)* of the following table for the words set out or referred to in *column (2)* there shall be substituted the words set out in the corresponding entry in *column (3)*.
+
+| Act amended (1) | Words to be replaced (2) | Words to be substituted (3) |
+|---|---|---|
+| Criminal Justice (Legal Aid) Act 1962: |  |  |
+| section 10(1)(*d*)(i) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 10(1)(*d*)(ii) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| Companies Act 1990: |  |  |
+| section 205E(1), in the definition of “tax law”, in paragraph (*e*) | the Value-Added Tax Act 1972 and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| Finance Act 1992: |  |  |
+| section 134(7) | under section 12 of the Value-Added Tax Act, 1972 | under *Chapter 1* of *Part 8* of the *Value-Added Tax Consolidation Act 2010* |
+| section 134(7) | of the kind specified in paragraph (i)(*e*) of the First Schedule of the Value-Added Tax Act 1972, in respect of vehicles supplied pursuant to an agreement in accordance with section 3(1)(*b*) of that Act | of the kind specified in *paragraph 6(1)(e)* of *Schedule 1* to the *Value-Added Tax Consolidation Act 2010*, in respect of vehicles supplied pursuant to an agreement in accordance with *section 19(1)(c)* of that Act |
+| section 155(1), in the definition of “annual turnover”, in paragraph (*a*) | by virtue of section 10 of the Value-Added Tax Act, 1972 | by virtue of *Chapter 1* of *Part 5* of the *Value-Added Tax Consolidation Act 2010* |
+| section 155(1), in the definition of “annual turnover”, in paragraph (*b*) | contained in section 8(3) of the Value-Added Tax Act, 1972 | contained in *section 6(1)* and *(2)* of the *Value-Added Tax Consolidation Act 2010* |
+| section 155(3) | any provision in the Value-Added Tax Act, 1972 | any provision in the *Value-Added Tax Consolidation Act 2010* |
+| Criminal Assets Bureau Act 1996: |  |  |
+| section 1(1), in the definition of “Revenue Acts”, in paragraph (*e*) | the Value-Added Tax Act, 1972 | the *Value-Added Tax Consolidation Act 2010* |
+| Taxes Consolidation Act 1997: |  |  |
+| section 267N(2)(*b*)(i) | under section 12 of the Value-Added Tax Act 1972 | under *Chapter 1* of *Part 8* of the *Value-Added Tax Consolidation Act 2010* |
+| section 267N(2)(*b*)(ii) | under section 20(3) of that Act | under *section 103* of that Act |
+| section 319(1)(i) | under section 12 of the Value-Added Tax Act, 1972 | under *Chapter 1* of *Part 8* of the *Value-Added Tax Consolidation Act 2010* |
+| section 319(1)(ii) | under section 20(3) of that Act | under *section 103* of that Act |
+| section 527(3)(*a*) | under the Value-Added Tax Act, 1972 | under the *Value-Added Tax Consolidation Act 2010* |
+| section 531(5)(*c*)(ii)(I) | under the Value-Added Tax Act, 1972 | under the *Value-Added Tax Consolidation Act 2010* |
+| section 531(11)(*a*)(iv) | or the Value-Added Tax Act, 1972 | or the *Value-Added Tax Consolidation Act 2010* |
+| section 531(11A) | and the Value-Added Tax Act 1972 | and the *Value-Added Tax Consolidation Act 2010* |
+| section 531(13)(*a*)(v) | the Value-Added Tax Act 1972 | the *Value-Added Tax Consolidation Act 2010* |
+| section 811(1)(*a*)(iii) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 811A(6)(*b*)(i) | section 19B of the Value-Added Tax Act 1972 | *section 81* of the *Value-Added Tax Consolidation Act 2010* |
+| section 817D(1)(*d*) | the Value-Added Tax Act 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 847A(1)(*c*) | the Value-Added Tax Act, 1972 and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 858(1)(*a*)(v) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 859(1)(*e*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 885(1)(*b*), in the definition of “business” | (within the meaning of the Value-Added Tax Acts, 1972 to 1997) | (within the meaning of the *Value-Added Tax Consolidation Act 2010*) |
+| section 887(1)(*c*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 887(2) | but subject to section 17 of the Value-Added Tax Act, 1972 | but subject to *Chapter 2* of *Part 9* of the *Value-Added Tax Consolidation Act 2010* |
+| section 912(1)(*e*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 912B(1)(*d*) | relating to the Value-Added Tax Act, 1972, and the enactments amending or extending that Act and any instruments made thereunder | relating to the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act and any instruments made thereunder |
+| section 917D(1)(*d*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 960A, in the definition of “Acts” | the Value-Added Tax Act 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 960A, in the definition of “assessment” | under section 22 of the Value-Added Tax Act 1972 | under *section 110* of the *Value-Added Tax Consolidation Act 2010* |
+| section 960O(1) | “Act of 1972” means the Value-Added Tax Act 1972; | “*Act of 2010*” means the *Value-Added Tax Consolidation Act 2010*; |
+| section 960O(3)(*a*) | in accordance with section 21 of the Act of 1972 | in accordance with *section 114* of the *Act of 2010* |
+| section 960P(1) | “Act of 1972” means the Value-Added Tax Act 1972; | “*Act of 2010*” means the *Value-Added Tax Consolidation Act 2010*; |
+| section 960P(3)(*a*) | in accordance with section 21 of the Act of 1972 | in accordance with *section 114* of the *Act of 2010* |
+| section 1001(1)(*b*) | the Value-Added Tax Act, 1972 | the *Value-Added Tax Consolidation Act 2010* |
+| section 1002(1)(*a*)(v) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1003(3)(*d*)(i) | under the Value-Added Tax Act, 1972 | under the *Value-Added Tax Consolidation Act 2010* |
+| section 1006(1)(*c*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1077A(*d*) | the Value-Added Tax Act 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1077E, in the definition of “qualifying disclosure” | a penalty referred to in section 27A(4) of the Value-Added Tax Act 1972 | a penalty referred to in *section 116(4)* of the *Value-Added Tax Consolidation Act 2010* |
+| section 1078(1)(*e*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1078(9) | and sections 26(3D) and 27A(16) of the Value-Added Tax Act 1972 | and *sections 115(9)* and *116(16)* of the *Value-Added Tax Consolidation Act 2010* |
+| section 1079(1)(*e*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1086(1)(*c*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| section 1086(4)(*a*) | section 27A of the Value-Added Tax Act 1972 | *section 116* of the *Value-Added Tax Consolidation Act 2010* |
+| section 1086(4B)(*a*)(ii) | in subsection (11) or (12), as the case may be, of section 27A of the Value-Added Tax Act, 1972 | in *subsection (11)* or *(12)*, as the case may be, of *section 116* of the *Value-Added Tax Consolidation Act 2010* |
+| section 1089(1)(*b*) | section 21 of the Value-Added Tax Act, 1972 | *section 114* of the *Value-Added Tax Consolidation Act 2010* |
+| section 1104(3) | shall be construed together with the Value-Added Tax Acts, 1972 to 1997 | shall be construed together with the *Value-Added Tax Consolidation Act 2010* |
+| Stamp Duties Consolidation Act 1999: |  |  |
+| section 48 | under section 2 of the Value-Added Tax Act, 1972 | under *section 3* of the *Value-Added Tax Consolidation Act 2010* |
+| section 56 | under section 2 of the Value-Added Tax Act, 1972 | under *section 3* of the *Value-Added Tax Consolidation Act 2010* |
+| section 134A(1), in the definition of “qualifying disclosure” | section 27A(4) of the Value-Added Tax Act 1972 | *section 116(4)* of the *Value-Added Tax Consolidation Act 2010* |
+| Standards in Public Office Act 2001: |  |  |
+| section 1(*d*) | the Value-Added Tax Act, 1972, and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010*, and the enactments amending or extending that Act |
+| Local Government (Charges) Act 2009: |  |  |
+| section 11(2) | “Act of 1972” means the Value-Added Tax Act 1972; | “*Act of 2010*” means the *Value-Added Tax Consolidation Act 2010*; |
+| section 11(2), in the definition of “specified enactment”, in paragraph (*c*) | the Act of 1972 | the *Act of 2010* |
+| section 11(2), in the definition of “tax reference number”, in paragraph (*b*)(ii) | for the purposes of the Act of 1972 | for the purposes of the *Act of 2010* |
+| Finance Act 2010: |  |  |
+| section 77, in the definition of “supplier” | for the purposes of section 8 of the Value-Added Tax Act 1972 | for the purposes of *Part 2* of the *Value-Added Tax Consolidation Act 2010* |
+
+### PART 2 — Consequential Amendments to Statutory Instruments
+
+In the statutory instrument specified in *column (1)* of the following table for the words set out or referred to in *column (2)* there shall be substituted the words set out in the corresponding entry in *column (3)*.
+
+| Statutory Instrument amended (1) | Words to be replaced (2) | Words to be substituted (3) |
+|---|---|---|
+| Vehicle Registration and Taxation Regulations 1992 (S.I. No. 318 of 1992): |  |  |
+| regulation 14(3)(*b*) | under section 9 of the Value-Added Tax Act 1972 | under *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| regulation 17(3) | the registration number under the Value-Added Tax Acts, 1972 to 1992 | the registration number under the *Value-Added Tax Consolidation Act 2010* |
+| Criminal Justice (Legal Aid) (Tax Clearance Certificate) Regulations 1999 (S.I. No. 135 of 1999): |  |  |
+| regulation 2, in the definition of “the Acts”, in paragraph (*b*) | the Value-Added Tax Act, 1972 (No. 22 of 1972) and the enactments amending or extending that Act | the *Value-Added Tax Consolidation Act 2010* and the enactments amending or extending that Act |
+| Income Tax (Relevant Contracts) Regulations 2000 (S.I. No. 71 of 2000): |  |  |
+| regulation 2, in the definition of “VAT registered number” | under section 9 of the Value-Added Tax Act 1972 (No. 22 of 1972) | under *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| Taxes (Electronic Transmission of Certain Revenue Returns) (Specified Provisions and Appointed Day) Order 2000 (S.I. No. 289 of 2000): |  |  |
+| Schedule | Section 19(3)(*a*) (as amended by the Finance Act, 1983 (No. 15 of 1983)) of the Value-Added Tax Act, 1972 (No. 22 of 1972) | *Section 76(1)* of the *Value-Added Tax Consolidation Act 2010* |
+| Schedule | Section 19(3)(*aa*) (inserted by the Finance Act, 1989 (No. 10 of 1989)) of the Value-Added Tax Act, 1972 | *Section 77* of the *Value-Added Tax Consolidation Act 2010* |
+| Mineral Oil Tax Regulations 2001 (S.I. No. 442 of 2001): |  |  |
+| Schedule 2, in paragraph 1 | under section 9 of the Value-Added Tax Act, 1972 (No. 22 of 1972) | under *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| Taxes (Offset of Repayments) Regulations 2002 (S.I. No. 471 of 2002): |  |  |
+| regulation 2, in the definition of “estimate”, in paragraph (*c*) | section 22 of the Value-Added Tax Act 1972 (No. 22 of 1972) | *section 110* of the *Value-Added Tax Consolidation Act 2010* |
+| regulation 3(*a*)(ii) | arising under the Value-Added Tax Act 1972 and the enactments amending or extending that Act | arising under the *Value-Added Tax Consolidation Act 2010* and the enactments amending or extending that Act |
+| regulation 4(*a*)(v) | arising under the Value-Added Tax Act 1972 and the enactments amending or extending that Act | arising under the *Value-Added Tax Consolidation Act 2010* and the enactments amending or extending that Act |
+| European Communities (Directive 2000/31/EC) Regulations 2003 (S.I. No. 68 of 2003): |  |  |
+| regulation 7(1)(*h*) | in accordance with section 9 of the Value-Added Tax Act 1972 (No. 22 of 1972) | in accordance with *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| European Communities (Distance Marketing of Consumer Financial Services) Regulations 2004 (S.I. No. 853 of 2004): |  |  |
+| Schedule 1, in paragraph (*g*) | in accordance with section 9 of the Value-Added Tax Act 1972 (No. 22 of 1972) | in accordance with *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| Waste Management (Waste Electrical and Electronic Equipment) Regulations 2005 (S.I. No. 340 of 2005): |  |  |
+| regulation 15(3)(*a*)(ii) | the provisions of section 9 of the Value-Added Tax Act 1972 (No. 22 of 1972) | *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+| Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 (S.I. No. 142 of 2007): |  |  |
+| article 189(3)(*b*)(iv) | in accordance with section 9(1A) of the Value-Added Tax Act 1972 (No. 22 of 1972) | in accordance with *section 65(2)* of the *Value-Added Tax Consolidation Act 2010* |
+| Stamp Duty (E-stamping of Instruments) Regulations 2009 (S.I. No. 476 of 2009): |  |  |
+| regulation 2, in the definition of “VAT number” | under section 9(1A) (inserted by section 171 of the Finance Act 1992 (No. 9 of 1992)) of the Value-Added Tax Act 1972 (No. 22 of 1972) | under *section 65(2)* of the *Value-Added Tax Consolidation Act 2010* |
+| Broadcasting Act 2009 (Section 33) Levy Order, 2010 (S.I. No. 7 of 2010): |  |  |
+| article 2, in the definition of “VAT” | the Value-Added Tax Act 1972 | the *Value-Added Tax Consolidation Act 2010* |
+| Control of Excisable Products Regulations 2010 (S.I. No. 146 of 2010): |  |  |
+| regulation 4(1), in the definition of “VAT number”, in paragraph (*b*) | section 9 of the Value-Added Tax Act 1972 (No. 22 of 1972) | *section 65* of the *Value-Added Tax Consolidation Act 2010* |
+
+## SCHEDULE 8 Repeals and Revocations — SCHEDULE 8 — Repeals and Revocations
+
+### PART 1 — Repeals
+
+| Number and Year (1) | Short Title (2) | Extent of Repeal (3) |
+|---|---|---|
+| No. 19 of 1973. | Finance Act 1973. | Part V (sections 76 to 90), in so far as it is unrepealed. Section 98(5). Tenth Schedule. |
+| No. 6 of 1975. | Finance Act 1975. | Part V (sections 50 to 53), in so far as it is unrepealed. Section 29(3). |
+| No. 19 of 1975. | Finance (No. 2) Act 1975. | Sections 2 and 4(3) and (4). Schedule. |
+| No. 16 of 1976. | Finance Act 1976. | Part IV (sections 49 to 63), in so far as it is unrepealed. Section 83(5). Fifth Schedule, Part II. |
+| No. 34 of 1978. | Value-Added Tax (Amendment) Act 1978. | The whole Act. |
+| No. 11 of 1979. | Finance Act 1979. | Part III (sections 48 and 49), in so far as it is unrepealed. Section 59(4). |
+| No. 14 of 1980. | Finance Act 1980. | Part III (sections 80 to 82), in so far as it is unrepealed. Section 96(4). |
+| No. 16 of 1981. | Finance Act 1981. | Part III (sections 42 to 45), in so far as it is unrepealed. Section 54(4). |
+| No. 28 of 1981. | Finance (No. 2) Act 1981. | Part II (sections 10 to 15), in so far as it is unrepealed. Section 20(3). |
+| No. 14 of 1982. | Finance Act 1982. | Part III (sections 74 to 90), in so far as it is unrepealed. Section 105(4). |
+| No. 15 of 1983. | Finance Act 1983. | Part III (sections 77 to 89), in so far as it is unrepealed. Section 122(4). |
+| No. 9 of 1984. | Finance Act 1984. | Part III (sections 84 to 95), in so far as it is unrepealed. Section 116(4). |
+| No. 10 of 1985. | Finance Act 1985. | Part III (sections 41 to 54), in so far as it is unrepealed. Section 71(4). |
+| No. 13 of 1986. | Finance Act 1986. | Part III (sections 79 to 91), in so far as it is unrepealed. Section 118(4). Section 118(7), in so far as it relates to value-added tax. |
+| No. 10 of 1987. | Finance Act 1987. | Part III (sections 38 to 47), in so far as it is unrepealed. Section 55(4) and (8). |
+| No. 12 of 1988. | Finance Act 1988. | Part III (sections 59 to 63), in so far as it is unrepealed. Section 77(4) and (9). |
+| No. 10 of 1989. | Finance Act 1989. | Part III (sections 53 to 63), in so far as it is unrepealed. Section 100(4) and (9). |
+| No. 10 of 1990. | Finance Act 1990. | Part III (sections 97 to 107), in so far as it is unrepealed. Section 140(4) and (9). |
+| No. 13 of 1991. | Finance Act 1991. | Part III (sections 76 to 87), in so far as it is unrepealed. Section 132(4) and (9). |
+| No. 9 of 1992. | Finance Act 1992. | Part III (sections 164 to 198), in so far as it is unrepealed. Section 254(4) and (11). |
+| No. 13 of 1993. | Finance Act 1993. | Part III (sections 81 to 99), in so far as it is unrepealed. Section 143(4) and (9). |
+| No. 13 of 1994. | Finance Act 1994. | Part III (sections 90 to 101), in so far as it is unrepealed. Section 166(4) and (9). |
+| No. 8 of 1995. | Finance Act 1995. | Part III (sections 118 to 141), in so far as it is unrepealed. Section 179(4) and (10). |
+| No. 9 of 1996. | Finance Act 1996. | Part III (sections 87 to 100), in so far as it is unrepealed. Section 143(4) and (10). |
+| No. 22 of 1997. | Finance Act 1997. | Part III (sections 95 to 114), in so far as it is unrepealed. Section 166(4) and (10). |
+| No. 3 of 1998. | Finance Act 1998. | Part 3 (sections 104 to 117), in so far as it is unrepealed. Paragraph (v) of section 133(6). Sections 134(2) and 138(4) and (9). |
+| No. 2 of 1999. | Finance Act 1999. | Part 3 (sections 119 to 139), in so far as it is unrepealed. Section 217(4) and (10). |
+| No. 3 of 2000. | Finance Act 2000. | Part 3 (sections 107 to 124), in so far as it is unrepealed. Section 166(4) and (10). |
+| No. 7 of 2001. | Finance Act 2001. | Part 4 (sections 181 to 200), in so far as it is unrepealed. Section 243(4) and (10). Schedule 5, Part 4. |
+| No. 5 of 2002. | Finance Act 2002. | Part 3 (sections 98 to 110), in so far as it is unrepealed. Section 141(4) and (9). Schedule 6, paragraphs 1 and 6(*a*). |
+| No. 3 of 2003. | Finance Act 2003. | Part 3 (sections 112 to 131), in so far as it is unrepealed. Section 171(4) and (10). Schedule 6, paragraphs 2 and 3(*b*). |
+| No. 8 of 2004. | Finance Act 2004. | Part 3 (sections 54 to 65), in so far as it is unrepealed. Section 94(4) and (9). |
+| No. 5 of 2005. | Finance Act 2005. | Part 3 (sections 98 to 113), in so far as it is unrepealed. Section 150(4). |
+| No. 6 of 2006. | Finance Act 2006. | Part 3 (sections 92 to 101), in so far as it is unrepealed. Section 130(4). Schedule 2, paragraphs 8 and 9(*h*). |
+| No. 11 of 2007. | Finance Act 2007. | Part 3 (sections 75 to 98), in so far as it is unrepealed. Section 121, in so far as it relates to value-added tax. Section 130(4). Schedule 3. Schedule 4, paragraphs 3 and 6(*c*). |
+| No. 3 of 2008. | Finance Act 2008. | Part 3 (sections 82 to 109), in so far as it is unrepealed. Section 144(4). Schedule 4. Schedule 8, paragraph 3 and 7(*c*). |
+| No. 25 of 2008. | Finance (No. 2) Act 2008. | Part 3 (sections 67 to 77), in so far as it is unrepealed. Section 102(4). Schedule 3, paragraph 2. Schedule 5, Part 3. Schedule 6, paragraphs 4 and 7(*d*). |
+| No. 12 of 2009. | Finance Act 2009. | Part 3 (sections 20 to 22), in so far as it is unrepealed. Sections 29(4) and (7)(*b*) and 32(4). |
+| No. 34 of 2009. | National Asset Management Agency Act 2009. | Section 241. Schedule 3, Part 11. |
+| No. 5 of 2010. | Finance Act 2010. | Part 4 (sections 112 to 133), in so far as it is unrepealed. Section 165(4). Schedules 2 and 3. Schedule 4, paragraphs 4 and 6(*d*). |
+
+### PART 2 — Revocations
+
+| S.I. No. and Year (1) | Title (2) | Extent of Revocation (3) |
+|---|---|---|
+| S.I. No. 307 of 1975. | Imposition of Duties (No. 221) (Excise Duties) Order 1975. | Paragraph 16. |
+| S.I. No. 146 of 1978. | Value-Added Tax (Reduction of Rate) (No. 4) Order 1978. | The whole statutory instrument. |
+| S.I. No. 53 of 1981. | Value-Added Tax (Reduction of Rate) (No. 5) Order 1981. | The whole statutory instrument. |
+| S.I. No. 430 of 1985. | Value-Added Tax (Exempted Activities) (No. 1) Order 1985. | The whole statutory instrument. |
+| S.I. No. 413 of 1992. | European Communities (Value-Added Tax) Regulations 1992. | The whole statutory instrument. |
+| S.I. No. 303 of 1993. | Value-Added Tax (Threshold for Advance Payment) Order 1993. | The whole statutory instrument. |
+| S.I. No. 448 of 1994. | European Communities (Value-Added Tax) Regulations 1994. | The whole statutory instrument. |
+| S.I. No. 316 of 1997. | Value-Added Tax (Eligibility To Determine Tax Due By Reference To Moneys Received) Order 1997. | The whole statutory instrument. |
+| S.I. No. 520 of 2009. | European Communities (Value-Added Tax) Regulations 2009. | The whole statutory instrument. |
+| S.I. No. 317 of 2010. | European Communities (Value-Added Tax) Regulations 2010. | The whole statutory instrument. |
+
+## SCHEDULE 9 — Section 2(4A) — Non-application of section 2(4A) to certain provisions of Act
+
+F579[PART 1
+
+Section 33
+
+Section 34
+
+Section 35
+
+Section 56(1)
+
+Section 83
+
+Section 88(8)
+
+Section 91
+
+F580[...]
+
+F581[...]
+
+F582[...]
+
+F583[...]
+
+F584[...]
+
+PART 2
+
+F585[Section 35A]
+
+Section 59
+
+F586[Section 91A]
+
+F587[Section 91D]
+
+F588[Section 91E]
+
+Section 101
+
+Section 102(3)
+
+Paragraph 5(1A) of Schedule 2
+
+Paragraph 6(1)(c) of Schedule 2]
+
+F589[PART 3
+
+Section 92B
+
+Section 92C
+
+Section 92D]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F579: Inserted (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 67, S.I. No. 723 of 2020.
+>
+> F580, F581, F582, F583, F584: Deleted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 30(a), in effect as per reg. 2.
+>
+> F585, F586, F587, F588: Inserted (1.07.2021) by *European Union (Value-Added Tax) Regulations 2021* (S.I. No. 327 of 2021), reg. 30(b), in effect as per reg. 2.
+>
+> F589: Inserted (6.03.2025) by *European Union (Value-Added Tax) Regulations 2025* (S.I. No. 69 of 2025), reg. 10.
+
+[^1]: OJ No. L284, 26.10.2013, p.1
+[^2]: OJ No. L77, 23.3.2011, p.1
+[^3]: OJ No. L347, 11.12.2006, p.1
+[^4]: OJ No. L 275, 25.10.2003, p. 32
+[^5]: OJ No. L103, 3.4.2020, p.1
+[^6]: OJ No. L241, 27.7.2020, p.36
+[^7]: OJ No. L359, 29.10.2020, p.8
+[^8]: OJ No. L365, 31.12.1994, p.53
+[^9]: OJ No. L 226, 13.8.87, p. 1
+[^10]: OJ No. L. 337, 23.12.2015, p.35.
+[^11]: OJ No. L94, 30.3.12, p. 22.
+[^12]: OJ No. L84, 20.3.2014, p. 1.
+[^13]: OJ No. L268, 12.10.2010, p. 1.
+[^14]: OJ No. L62, 2.3.2020, p. 1.
+[^15]: OJ No. L326, 21.11.1986, p.40
+[^16]: OJ No. L77, 23.3.2011, p.1
+[^17]: OJ No. L290, 20.10.2012, p.1
+[^18]: OJ No. L313, 4.12.2019, p. 14
+[^19]: OJ No. L244, 29.7.2020, p. 9
+[^20]: OJ No. L343, 29.12.2015, p. 1
+[^21]: OJ No. L326, 21.11.1986, p. 40
+[^22]: OJ No. L269, 10.10.2013, p.1
+[^23]: OJ No. L343, 29.12.2015, p. 1
+[^24]: OJ No. L84, 31.3.2010, p. 1
+[^25]: OJ No. L268, 12.10.2010, p. 1
+[^26]: OJ No. L84, 31.3.2010, p.1
+[^27]: OJ No. L268, 12.10.2010, p. 1
+[^28]: OJ No. L326, 21.11.1986, p. 40
+[^29]: OJ No. L268, 12.11.2010, p.1
+[^30]: OJ No. L73, 19.3.1976, p.18
+[^31]: OJ No. L264, 15.10.2003, p.1
+[^32]: OJ No. L52, 27.02.2008, p. 3
+[^33]: OJ No. L15, 21.01.1998, p. 14
+[^34]: OJ No. L 302, 17.11.2009, p.32
+[^35]: OJ No. L 174, 1.7.2011, p.1
+[^36]: OJ No. L331, 7.12.1998, p. 1
+[^37]: OJ No. L117, 5.5.2017, p.176

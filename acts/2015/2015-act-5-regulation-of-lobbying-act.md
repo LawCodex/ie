@@ -1,0 +1,1429 @@
+---
+title: "Regulation of Lobbying Act 2015"
+identifier: "eli/2015/act/5"
+type: act
+jurisdiction: ie
+language: en
+number: 5
+year: 2015
+date: 2014-11-19
+last_amended: 2025-12-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2015/act/5/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2015/act/5/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Regulation of Lobbying Act 2015
+
+An Act to provide for establishing and maintaining a register of persons who carry on lobbying activities; to provide for a code of conduct relating to carrying on lobbying activities; to impose restrictions on involvement in lobbying by certain former designated public officials; to amend the Ethics in Public Office Act 1995; and to provide for related matters.
+
+[11 *th March*, 2015]
+
+**Be it enacted by the Oireachtas as follows:**
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Minister for Public Expenditure and Reform” construed (1.03.2023) by *Standards in Public Office (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 89 of 2023), arts. 2, 3 and sch. in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by Article 3 are transferred to the Department of Finance.
+>
+> (2) References to the Department of Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Finance.
+>
+> 3\. (1) The functions vested in the Minister for Public Expenditure, National Development Plan Delivery and Reform by or under the provisions of an Act specified in column (1) of the Schedule are transferred to the Minister for Finance to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified.
+>
+> (2) References to the Minister for Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Regulation of Lobbying Act 2015 (No. 5 of 2015)</td><td>The whole Act (other than section 3 of that Act in so far as it relates to the sanctioning by the Minister for Public Expenditure, National Development Plan Delivery and Reform of certain expenses incurred in the administration of that Act).</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> Note change of name of Department and Minister to Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2).
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement
+
+**1.** (1) This Act may be cited as the Regulation of Lobbying Act 2015.
+
+(2) This Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (1.01.2017) by *Regulation of Lobbying Act 2015 (Commencement) Order 2016* (S.I. No. 360 of 2016.
+>
+> 2\. The 1st day of January 2017 is appointed as the day on which Part 4 of the Regulation of Lobbying Act 2015 (No. 5 of 2015) comes into operation.
+>
+> E2: Power pursuant to subs. (2) exercised (1.09.2015) by *Regulation of Lobbying Act 2015 (Commencement) Order 2015* (S.I. No. 152 of 2015).
+>
+> 2\. The 1st day of September 2015 is appointed as the day on which Parts 1, 2, 3 and 5 of, and the Schedule to, the Regulation of Lobbying Act 2015 (No. 5 of 2015) come into operation.
+
+### 2. Review of Act
+
+**2.** (1) The Minister shall—
+
+(a) before the end of each relevant period, commence a review of the operation of this Act, and
+
+(b) not more than 6 months after the end of each relevant period, make a report to each House of the Oireachtas of the findings resulting from the review and of the conclusions drawn from the findings.
+
+(2) The following are relevant periods—
+
+(a) the period of 12 months beginning with the day on which this section comes into operation,
+
+(b) the period of 3 years beginning immediately after the end of the period specified in *paragraph (a)*, and
+
+F1[(c) each subsequent successive period of 5 years beginning on the commencement of section 2 of the Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023.]
+
+(3) A report made under *subsection (1)* shall include any such recommendations for amendments of this Act, or any instrument made under it, as appear to the Minister to be appropriate in consequence of the findings resulting from the review.
+
+(4) In conducting a review the Minister shall—
+
+(a) consult the Commission,
+
+(b) take into account any relevant report of a committee appointed by either House of the Oireachtas or jointly by both Houses, and
+
+(c) consult such persons carrying on lobbying activities and such bodies representing them, and such other persons, as the Minister considers appropriate.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 2, S.I. No. 531 of 2023.
+
+### 3. Expenses
+
+**3.** Any expenses incurred by the Minister in the administration of this Act and, to such extent as may be sanctioned by the Minister, any other expenses incurred in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+### 4. Regulations
+
+**4.** (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Regulations made under this Act shall be laid before each House of the Oireachtas as soon as may be after they are made and, if a resolution annulling the regulations is passed by either such House within the next 21 days on which that House has sat after the regulations are laid before it, the regulations shall be annulled accordingly, but without prejudice to the validity of anything previously done under the regulations.
+
+(3) Regulations made under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister F2[or the Commission, as the case may be,] to be necessary or expedient for the purposes of the regulations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 3, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (1.01.2025) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2024* (S.I. No. 424 of 2024), in effect as per reg. 1(2).
+>
+> E4: Power pursuant to section exercised (1.05.2019) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2019* (S.I. No. 144 of 2019), in effect as per reg. 1(2).
+>
+> E5: Power pursuant to section exercised (1.01.2017) by *Regulation of Lobbying Act 2015 (Fixed Payment Notice) Regulations 2016* (S.I. No. 361 of 2016), in effect as per reg. 2.
+>
+> E6: Power pursuant to section exercised (1.09.2016) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2016* (S.I. No. 362 of 2016), in effect as per reg. 1(2).
+>
+> E7: Power pursuant to section exercised (1.09.2015) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2015* (S.I. No. 367 of 2015), in effect as per reg. 1(2).
+>
+> E8: Power pursuant to section exercised (1.09.2015) by *Regulation of Lobbying Act 2015 (Appeals) Regulations 2015* (S.I. No. 366 of 2015, in effect as per reg. 2.
+
+### 5. Meaning of carrying on lobbying activities
+
+**5.** (1) For the purposes of this Act a person carries on lobbying activities if the person—
+
+(a) makes, or manages or directs the making of, any relevant communications on behalf of another person in return for payment (in money or money’s worth) in any of the circumstances in which *subsection (2)* applies to that other person,
+
+(b) makes, or manages or directs the making of, any relevant communications in any of the circumstances in which *subsection (2)* applies to the person, or
+
+F3[(c) makes, or manages or directs the making of, any relevant communications about the development or zoning of land under the F11[Planning and Development Acts 2000 to 2023 or the Planning and Development Act 2024].]
+
+(2) The circumstances in which this subsection applies to a person are that—
+
+(a) the person has more than 10 full-time employees and the relevant communications are made on the person’s behalf,
+
+(b) the person has one or more full-time employees and is a body which exists primarily to represent the interests of its members and the relevant communications are made on behalf of any of F4[the members,]
+
+(c) the person has one or more full-time employees and is a body which exists primarily to take up particular issues and the relevant communications are made in the furtherance of any of F5[those issues,]
+
+F8[(d) the person has no full-time employees and is a body which exists primarily to represent the interests of its members where one or more of the members of the body would fall within the scope of one of *paragraphs (a)* to *(c)* if such member or members were to carry on lobbying activities outside of the body and the relevant communications are made on behalf of any of the members, or
+
+(e) the person has no full-time employees and is a body which exists primarily to take up particular issues where one or more of the members of the body would fall within the scope of one of *paragraphs (a)* to *(c)* if such member or members were to carry on lobbying activities outside of the body and the relevant communications are made in the furtherance of any of those issues.]
+
+(3) For the purposes of the operation of *subsection (1)(b)* in relation to a body in circumstances in which *paragraph (b)* or *(c)* of *subsection (2)* applies to the body, the body “makes” a relevant communication only—
+
+(a) where it is made by an employee of the body, or
+
+F6[(b) where it is made by a person who holds, in the body, any office the functions of which relate to the affairs of the body as a whole,]
+
+(4) In *subsection (1)* “relevant communications” means communications (whether oral or written and however made), other than excepted communications, made personally (directly or indirectly) to a designated public official in relation to a relevant matter.
+
+(5) The following are excepted communications:
+
+(a) communications by or on behalf of an individual relating to his or her private affairs about any matter other than the development or zoning under the F12[Planning and Development Acts 2000 to 2023 or the Planning and Development Act 2024] of any land apart from the individual’s principal private residence;
+
+(b) communications by or on behalf of a country or territory other than the State;
+
+(c) communications by or on behalf of the European Union, the United Nations or any other international organisation;
+
+(d) communications requesting factual information or providing factual information in response to a request for the information;
+
+(e) communications requested by a public service body and published by it;
+
+(f) communications forming part of, or directly related to, negotiations on terms and conditions of employment undertaken by representatives of a trade union on behalf of its members;
+
+(g) communications the disclosure of which could pose a threat to the safety of any person;
+
+(h) communications the disclosure of which could pose a threat to the security of the State;
+
+(i) communications which are made in proceedings of a committee of either House of the Oireachtas;
+
+(j) communications by a designated public official in his or her capacity as such;
+
+(k) communications which—
+
+(i) are made by a person who is employed by, or holds any office or other position in, a public service body in his or her capacity as such, or
+
+(ii) are made by a person engaged for the purposes of a public service body in his or her capacity as such,
+
+and which relate to the functions of the public service body;
+
+(l) communications which—
+
+(i) are made by a person who is employed by, or holds any office or other position in, a body which is not a public service body, but is a body by which a designated public official is employed or in which a designated public official holds any office or other position, in his or her capacity as such, or
+
+(ii) are made by a person engaged for the purposes of such a body in his or her capacity as such,
+
+and which relate to the functions of the body;
+
+(m) communications by or on behalf of a body corporate made to a Minister of the Government who holds shares in, or has statutory functions in relation to, the body corporate, or to designated public officials serving in the Minister’s department, in the ordinary course of the business of the body corporate;
+
+(n) communications between members of a relevant body appointed by a Minister of the Government, or by a public service body, for the purpose of reviewing, assessing or analysing any issue of public policy with a view to reporting to the Minister of the Government or public service body on it;
+
+(o) any communications of a description prescribed under F7[*subsection (8)*;]
+
+F9[(p) communications by a political party to its members who are designated public officials and which are made exclusively in their capacity as members of the political party concerned.]
+
+(6) In *subsection (5)(n)* “relevant body” means a body—
+
+(a) the members of which are appointed by a Minister of the Government or by a public service body and include one or more persons who are designated public officials and one or more persons who are neither public servants nor engaged for the purposes of a public service body, and
+
+(b) which conducts its activities in accordance with the Transparency Code.
+
+(7) The Minister shall prepare and publish a code, to be known as “the Transparency Code”, setting out how, having regard to the public interest in their doing so with an appropriate level of transparency, bodies meeting the condition in *subsection (6)(a)* are to conduct their activities if they are to constitute a relevant body for the purposes of *subsection (5)(n)*.
+
+(8) The Minister may prescribe descriptions of communications which are to be excepted communications; and in determining whether or not to prescribe any description of communications the Minister shall have regard to the public interest in there being an appropriate level of transparency in relation to communications about any relevant matter and (in particular) to any arrangements for opening up such communications to public scrutiny otherwise than in accordance with this Act.
+
+(9) In this section—
+
+F10["political party" means a political party registered in the Register of Political Parties in accordance with section 25 of the Electoral Act 1992;]
+
+“principal private residence” means a dwelling house or part of a dwelling house occupied by an individual as his or her only or main residence and includes land which the individual has for his or her own occupation and enjoyment with that residence as its garden or grounds up to an area (exclusive of the dwelling house) not exceeding one acre;
+
+“relevant matter” means any matter relating to—
+
+(a) the initiation, development or modification of any public policy or of any public programme,
+
+(b) the preparation or amendment of an enactment, or
+
+(c) the award of any grant, loan or other financial support, contract or other agreement, or of any licence or other authorisation involving public funds,
+
+apart from any matter relating only to the implementation of any such policy, programme, enactment or award or of a technical nature.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3, F4, F5, F6, F7: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 4(a), (b)(i), (ii), (c), (d)(ii), S.I. No. 531 of 2023.
+>
+> F8, F9, F10: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 4(b)(iii), (d)(iii), (e), S.I. No. 531 of 2023.
+>
+> F11, F12: Substituted (31.12.2025) by *Planning and Development Act 2024* (34/2024, s. 631 and sch. 7 ref. no. 43(a), (b), S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 43.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (5)(a) amended (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 4(d)(i), S.I. No. 531 of 2023; substituted (31.12.2025) as per F-note above.
+
+### 6. Designated public officials
+
+**6.** (1) The following are designated public officials:
+
+(a) Ministers of the Government and Ministers of State;
+
+(b) other members of Dáil Éireann and Seanad Éireann;
+
+(c) members of the European Parliament for constituencies in the State;
+
+(d) members of local authorities;
+
+(e) special advisers appointed under section 11 of the Public Service Management Act 1997;
+
+(f) public servants of a prescribed description;
+
+(g) any other prescribed office holders or description of persons.
+
+(2) The Minister may prescribe descriptions of public servants under *subsection (1)(f)* by reference to their roles, levels of remuneration, grades or similar factors.
+
+(3) In determining whether or not to prescribe any description of public servants, office holders or description of persons, under *subsection (1)(f)* or *(g)*, the Minister shall have regard to the public interest and to any recommendations that may have been made under *section 2(3)*.
+
+(4) A body shall publish up-to-date lists showing—
+
+(a) the name and (where relevant) grade, and
+
+(b) brief details of the role or responsibilities,
+
+of each person employed by, or holding any office or other position in, the body who is a designated public official by virtue of *subsection (1)(f)* or *(g)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to subs. (2) exercised (1.01.2025) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2024* (S.I. No. 424 of 2024), in effect as per reg. 1(2).
+>
+> E11: Power pursuant to subs. (2) exercised (1.05.2019) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2019* (S.I. No. 144 of 2019), in effect as per reg. 1(2).
+>
+> E12: Power pursuant to subs. (2) exercised (1.09.2016) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2016* (S.I. No. 362 of 2016), in effect as per reg. 1(2).
+>
+> E13: Power pursuant to subs. (2) exercised (1.09.2018) by *Regulation of Lobbying Act 2015 (Designated Public Officials) Regulations 2015* (S.I. No. 367 of 2015), in effect as per reg. 1(2).
+
+### 7. Other definitions
+
+**7.** In this Act—
+
+“Commission” means Standards in Public Office Commission;
+
+F13["company" means a company formed and registered under the Companies Act 2014 or an existing company within the meaning of that Act;]
+
+F14["Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);]
+
+“designated public official” has the meaning given by *section 6*;
+
+“enactment” includes an instrument under an enactment;
+
+“full-time employee” has the meaning given by section 7 of the Protection of Employees (Part-Time Work) Act 2001;
+
+“international organisation” has the meaning given by section 186B of the Social Welfare Consolidation Act 2005;
+
+“local authority” has the meaning given by the Local Government Act 2001;
+
+“Minister” means Minister for Public Expenditure and Reform;
+
+F15["personal data" means personal data within the meaning of—
+
+(a) the Data Protection Regulation, or
+
+(b) Part 5 of the Data Protection Act 2018.]
+
+“pre-existing public service pension scheme” means an occupational pension scheme or pension arrangement, by whatever name called, for any part of the public service—
+
+(a) provided for by or under—
+
+(i) the Superannuation Acts (within the meaning of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012), or
+
+(ii) any enactment (other than the Public Service Pensions (Single Scheme and Other Provisions) Act 2012) or administrative measure for the like purpose and to the like effect as the Superannuation Acts and of either general or limited application,
+
+or
+
+(b) made by a relevant Minister (within the meaning of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012) or which has been approved or requires the approval or consent, however expressed, of either or both a relevant Minister and the Minister;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“public servant” means a person who is employed by, or holds any office or other position in, a public service body;
+
+“public service body” means—
+
+(a) a Department of State,
+
+(b) the Garda Síochána,
+
+(c) the Permanent Defence Force,
+
+(d) a local authority within the meaning of the Local Government Act 2001,
+
+(e) the National Treasury Management Agency,
+
+(f) the National Asset Management Agency,
+
+(g) the National Pensions Reserve Fund Commission,
+
+(h) the National Development Finance Agency,
+
+(i) the Health Service Executive,
+
+(j) an education and training board,
+
+(k) the Central Bank of Ireland,
+
+(l) any other body, other than a body specified or referred to in the Schedule, which—
+
+(i) is established by or under an enactment (other than the Companies Acts), or
+
+(ii) is established under the Companies Acts in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government,
+
+and in respect of which a pre-existing public service pension scheme exists or applies or may be made or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(m) any other body, other than a body specified or referred to in the Schedule, which is wholly or partly funded directly or indirectly out of monies provided by the Oireachtas or from the Central Fund or the growing produce of that Fund and in respect of which a pre-existing public service pension scheme exists or applies or may be made or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(n) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which any of the preceding paragraphs relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made or in respect of which the Single Public Service Pension Scheme is applicable;
+
+“Register” means Register of Lobbying;
+
+“registered person” means a person whose name is included on the Register (or who has become a registered person under *section 11(3)*);
+
+“relevant contravention” has the meaning given by *section 18*;
+
+“relevant date”, in relation to a relevant period, means the date falling 21 days after the end of the relevant period;
+
+“relevant period” means the period of 4 months ending with the last day of April, August and December in any year;
+
+“Single Public Service Pension Scheme” means the scheme established by Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+
+“trade union” means a trade union which is the holder of a negotiation licence under Part II of the Trade Union Act 1941 or is an excepted body within the meaning of section 6 of that Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 5, S.I. No. 531 of 2023.
+>
+> F14: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 228(a), S.I. No. 174 of 2018.
+>
+> F15: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 228(b), S.I. No. 174 of 2018.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Minister for Public Expenditure and Reform” construed (1.03.2023) by *Standards in Public Office (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 89 of 2023), arts. 2, 3 and sch. in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by Article 3 are transferred to the Department of Finance.
+>
+> (2) References to the Department of Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Finance.
+>
+> 3\. (1) The functions vested in the Minister for Public Expenditure, National Development Plan Delivery and Reform by or under the provisions of an Act specified in column (1) of the Schedule are transferred to the Minister for Finance to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified.
+>
+> (2) References to the Minister for Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Regulation of Lobbying Act 2015 (No. 5 of 2015)</td><td>The whole Act (other than section 3 of that Act in so far as it relates to the sanctioning by the Minister for Public Expenditure, National Development Plan Delivery and Reform of certain expenses incurred in the administration of that Act).</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> Note change of name of Department and Minister to Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2).
+
+## PART 2Registration — PART 2 — Registration
+
+### 8. Requirement to register
+
+**8.** (1) Subject to *subsection (2)*, a person shall not carry on lobbying activities unless the person is a registered person.
+
+F16[(1A) Subject to *subsection (2)*, a registered person whose entry on the Register has been marked under *section 11(4)* with a statement indicating that the person has ceased to carry on lobbying activities shall not carry on such activities.]
+
+F17[(2) A person does not contravene *subsection (1)* or *(1A)*, as the case may be—
+
+(a) in the first relevant period in which the person carries on lobbying activities if the person becomes a registered person before the relevant date, or
+
+(b) in the case of a person referred to in *subsection (1A)*, in the first relevant period in which the person recommences lobbying activities if the person complies with the requirements of *section 11(5)* before the relevant date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 6(a), S.I. No. 531 of 2023.
+>
+> F17: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 6(b), S.I. No. 531 of 2023.
+
+### 9. Register of Lobbying
+
+**9.** The Commission shall establish and maintain a register to be known as the Register of Lobbying (referred to in this Act as the “Register”).
+
+### 10. Content and public availability of Register
+
+**10.** (1) The Register shall contain—
+
+(a) the information contained in applications made to the Commission under *section 11*, and
+
+(b) the information contained in returns made to the Commission under *section 12*.
+
+(2) The Register shall be kept in such form as the Commission considers appropriate.
+
+(3) The Register shall be made available for inspection free of charge on a website maintained or used by the Commission.
+
+(4) The Commission may exclude from what is made available for inspection any personal data contained in the Register if the Commission considers that it is necessary to do so—
+
+(a) to prevent it being misused, or
+
+(b) to protect the safety of any person or the security of the State.
+
+(5) If a person gives to the Commission in such form as the Commission may require notice stating that he or she considers that any information contained in the Register relating to the person is inaccurate, out of date or misleading, supported by evidence for so considering in such form as the Commission may require, the Commission shall decide the matter and—
+
+(a) if satisfied that the information is inaccurate, out of date or misleading, amend or delete it (as appropriate) and notify the person of the amendment or deletion, or
+
+(b) if not satisfied that the information is inaccurate, out of date or misleading, notify the person of that with reasons.
+
+### 11. Details to be supplied by applicants for inclusion on Register
+
+**11.** (1) A person who wishes to be included on the Register shall make, in such manner and form as the Commission may require, an application to the Commission stating—
+
+(a) the person’s name,
+
+F18[(aa) the name of every person who is a member of a body referred to in *section 5(2)(d)* or *(e)*, as the case may be,]
+
+F20[(b) the address (or principal address) at which the person carries on business or carries on the person’s main activities or (if there is no such address) the address at which the person ordinarily resides,]
+
+(c) the person’s business or main activities,
+
+(d) any e-mail address, telephone number or website address relating to the person’s business or main activities,
+
+(e) any registration number issued to the person by the Companies Registration Office, and
+
+(f) (if a company) the person’s registered office.
+
+(2) The application shall contain a statement by the person by whom it is made that the information contained in it is correct.
+
+(3) The person shall be taken to become a registered person on making an application that complies with *subsections (1)* and *(2)*.
+
+(4) A registered person who has F21[...] ceased to carry on lobbying activities may notify the Commission, in such manner and form as the Commission may require, that the registered person wishes the person’s entry on the Register to be marked with a statement indicating that the person has F22[...] ceased to carry on lobbying activities and, on receipt of such notification, the Commission shall mark the person’s entry on the Register with such a statement.
+
+F19[(5) A registered person referred to in *subsection (4)* whose entry on the Register has been marked under that subsection with a statement indicating that the person has ceased to carry on lobbying activities, and who subsequently wishes to recommence such activities, shall notify the Commission accordingly, in such form and manner as the Commission may require, and, on receipt of such notification, the Commission shall remove such statement from the person’s entry on the Register.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18, F19: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 7(a)(i), (c), S.I. No. 531 of 2023.
+>
+> F20: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 7(a)(ii), S.I. No. 531 of 2023.
+>
+> F21, F22: Deleted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 7(b), S.I. No. 531 of 2023.
+
+### 12. Returns to be made by registered persons
+
+**12.** (1) A registered person shall, after the end of each relevant period but not later than the relevant date, make to the Commission, in such manner and form as the Commission may require, a return covering the relevant period.
+
+(2) *Subsection (1)* shall not apply to a registered person whose entry on the Register has been marked under *section 11(4)* with a statement indicating that the person has F23[...] ceased to carry on lobbying activities.
+
+(3) If the registered person has not carried on any lobbying activities in the period covered by the return, the return shall state that fact.
+
+(4) If the registered person has carried on lobbying activities in the period covered by the return, the return shall state—
+
+(a) where any of the communications concerned were made on behalf of another person (in this section referred to as a “client”), the relevant information relating to the client,
+
+(b) the designated public officials to whom the communications concerned were made and the body by which they are employed or in which they hold any office or other position,
+
+(c) the subject matter of those communications and the results they were intended to secure,
+
+(d) the type and extent of the lobbying activities carried on,
+
+(e) the name of the individual who had primary responsibility for carrying on the lobbying activities,
+
+(f) the name of each person who is or has been (whether before or after the passing of this Act) a designated public official employed by, or providing services to, the registered person and who was engaged in carrying on lobbying activities, F24[...]
+
+F25[(fa) the name of every person who is a member of a body referred to in *section 5(2)(d)* or *(e)*, as the case may be, and]
+
+(g) any such other information relating to carrying on lobbying activities as may be prescribed under *subsection (7)*.
+
+(5) In *subsection (4)(a)* “relevant information”, in relation to a client, means—
+
+(a) the client’s name,
+
+(b) the address (or principal address) at which the client carries on business or (if there is no such address) the address at which the client ordinarily resides,
+
+(c) the client’s business or main activities,
+
+(d) any e-mail address, telephone number or website address relating to the client’s business or main activities,
+
+(e) any registration number issued to the client by the Companies Registration Office, and
+
+(f) (if a company) the address of the client’s registered office.
+
+(6) The return shall contain details of any change during the relevant period in the information entered on the Register under *section 10(1)(a)* in relation to the person by whom it is made.
+
+(7) The Minister may prescribe for the purposes of *subsection (4)(g)* that a return is to include information as to—
+
+(a) the name of any person involved in carrying on lobbying activities (other than the person who has primary responsibility),
+
+(b) any other matters which appear to the Minister to be appropriate having regard to the public interest in there being an appropriate level of transparency in relation to carrying on lobbying activities and in opening up the carrying on of lobbying activities to public scrutiny.
+
+(8) A return shall contain a statement by the person by whom it is made that the information contained in it is correct.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23, F24: Deleted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 8(a), (b), S.I. No. 531 of 2023.
+>
+> F25: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 8(c), S.I. No. 531 of 2023.
+
+### 13. Requirement for further or corrected information
+
+**13.** (1) Where the Commission considers —
+
+(a) that further information is required if an application or return made by a person is to comply with *section 11* or *12*, or
+
+(b) that any information contained in an application made by a person under *section 11* or a return made by a person under *section 12* is inaccurate or misleading,
+
+the Commission may by notice given to the person require the person to provide further or corrected information within 21 days from the date on which the notice is given.
+
+(2) If a person does not comply with a requirement under *subsection (1)* relating to an application or return, the Commission shall—
+
+(a) remove from the Register the information contained in the application or return, and
+
+(b) notify the person of the reason for the removal of the information from the Register,
+
+and the person shall be treated for the purposes of this Act as never having made the application or return.
+
+(3) Where the Commission considers that any information contained in an application made by a person under *section 11* or a return made by a person under *section 12* is inaccurate or misleading, the Commission may immediately remove from the Register the information contained in the application or return pending provision of corrected information; and the person shall be treated for the purposes of this Act as never having made the application or return unless and until the corrected information is provided.
+
+### 14. Delayed publication
+
+**14.** (1) Where a person who gives information to the Commission in an application under *section 11* or a return under *section 12* considers that making any information available for inspection could reasonably be expected to—
+
+(a) have a serious adverse effect on—
+
+(i) the financial interests of the State,
+
+(ii) the national economy, or
+
+(iii) business interests generally or the business interests of any description of persons,
+
+or
+
+(b) cause a material financial loss to the person to whom the information relates or prejudice seriously the competitive position of that person in the conduct of the person’s occupation, profession or business or the outcome of any contractual or other negotiations being conducted by that person,
+
+the person may make an application to the Commission for the making of a determination under this section in relation to the information.
+
+(2) The Commission shall consult with any relevant Minister of the Government or Ministers of the Government before deciding an application under *subsection (1)(a)*.
+
+(3) An application under *subsection (1)* shall be decided before the end of the period of 21 days beginning with the day on which it is received.
+
+(4) If the Commission considers that making the information available for inspection could reasonably be expected to have the consequence specified in the application, the Commission may make a determination under this section in relation to the information if it appears to the Commission that the public interest would be better served by delaying making the information available for inspection than by making it available for inspection immediately.
+
+(5) The determination may (as the Commission considers appropriate) make provision for—
+
+(a) the exclusion from what is made available for inspection, or
+
+(b) the making available for inspection only in summary form,
+
+of anything which is the subject of the determination for such period, not exceeding 6 months, as is specified in the determination or until the determination is revoked (if that happens sooner).
+
+(6) If an application under *subsection (1)* is rejected in whole or in part, the Commission shall notify the applicant of the reasons for rejecting it.
+
+(7) The Commission shall cause a copy of a determination under this section to be provided to the applicant and any relevant Minister of the Government or Ministers of the Government consulted under *subsection (2)*.
+
+(8) The Commission may at any time review a determination made under this section and, if it appears to the Commission that the public interest would be better served by making the information available for inspection immediately than by delaying making it available for inspection, the Commission may decide to revoke the determination and on doing so the Commission shall inform—
+
+(a) the applicant, and
+
+(b) any relevant Minister of the Government or Ministers of the Government consulted under *subsection (2)*,
+
+that the determination has been revoked.
+
+(9) Where the Commission—
+
+(a) has excluded anything from what is available for inspection under *subsection (5)(a)*, or
+
+(b) has made anything available for inspection only in summary form under *subsection (5)(b)*,
+
+the Commission shall, when it subsequently becomes fully available for public inspection, publish on the Register an explanation of why it was so excluded or included only in summary form.
+
+(10) Where the Commission has made anything available for inspection only in summary form under *subsection (5)(b)*, the Commission shall publish on the Register a notice to that effect.
+
+(11) Nothing in this section prevents the making of a determination under this section in relation to any information on more than one occasion.
+
+(12) A document purporting to be a determination under this section and to be signed by the Commission shall, unless the contrary is proved, be deemed to be a determination made by the Commission and shall be received in any proceedings in any court without further proof.
+
+(13) The Freedom of Information Acts 1997 and 2003 do not apply to a record relating to any information which is the subject of a determination made under this section and in force.
+
+(14) The Commission shall not make available for publication any information which is the subject of a decision of the Commission under this section—
+
+(a) if no appeal is brought under *section 23*, until the end of the period specified in that section within which an appeal may be brought,
+
+(b) if such appeal is brought but no further appeal is brought under *section 24*, until the end of the period specified in that section within which such further appeal may be brought, and
+
+(c) if an appeal under *section 23* and further appeal under *section 24* are brought, until the further appeal is finally determined,
+
+but, if such appeal or further appeal is at any point withdrawn, then such information may be made available for publication once the appeal has been withdrawn.
+
+### 15. Evidence of entries on Register
+
+**15.** (1) Every document purporting to be a copy of an entry in the Register and purporting to be certified by the Commission or an officer of the Commission authorised in that behalf to be a true copy of the entry shall, without proof of the signature of the person purporting so to certify or that he or she was that officer, be received in evidence in any legal proceedings and shall, until the contrary is proved, be deemed to be a true copy of the entry and to be evidence of the terms of the entry.
+
+(2) Evidence of an entry in the Register may be given by production of a copy of it certified under this section and it shall not be necessary to produce the Register itself.
+
+(3) If the Register is kept otherwise than in legible form references in this section to a copy of an entry in the Register shall be construed as including references to a legible copy or reproduction of an entry in the Register.
+
+## PART 3Code of Conduct and Guidance — PART 3 — Code of Conduct and Guidance
+
+### 16. Code of conduct
+
+**16.** (1) The Commission may produce, and from time to time revise, a code of conduct for persons carrying on lobbying activities with a view to promoting high professional standards and good practice.
+
+(2) Before producing or revising the code of conduct the Commission shall consult such persons carrying on lobbying activities and such bodies representing them, and such other persons, as the Commission considers appropriate.
+
+(3) The code of conduct may contain different provisions in relation to different descriptions of persons carrying on lobbying activities.
+
+(4) The Commission shall publish the code of conduct in such manner and form as the Commission considers appropriate.
+
+(5) A person carrying on lobbying activities shall have regard to the code of conduct.
+
+### 17. Guidance
+
+**17.** (1) The Commission may issue guidance about the operation of this Act and may from time to time revise it or re-issue it.
+
+(2) The Commission shall publish the guidance in such manner and form as the Commission considers appropriate.
+
+(3) The Commission may make available information with a view to promoting awareness and understanding of this Act.
+
+## PART 4Enforcement — PART 4 — Enforcement
+
+### 18. Relevant contraventions
+
+**18.** For the purposes of this Act the following are relevant contraventions:
+
+F26[(a) contravening *subsection (1)* or *(1A)* of *section 8*;]
+
+(b) failing to make a return under *section 12* as required by that section;
+
+(c) providing to the Commission under this Act any information known to be inaccurate or misleading;
+
+(d) failing to comply with a requirement under *section 19(4)*;
+
+(e) obstructing an investigation under F27[*section 19*;]
+
+F28[(f) the taking of any action by a person that has as its intended purpose the avoidance or circumvention of the person’s obligations under *section 8(1)* or *12(1)*;
+
+(g) contravening *section 22(1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26, F27: Substituted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 9(a), (b), S.I. No. 531 of 2023.
+>
+> F28: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 9(c), S.I. No. 531 of 2023.
+
+### 19. Power to carry out investigation
+
+**19.** (1) If the Commission reasonably believes that a person may have committed or may be committing a relevant contravention, the Commission may authorise the carrying out of an investigation under this section.
+
+(2) The Commission may appoint such and so many persons as it may determine (referred to in this section as “authorised officers”) to carry out investigations under this section.
+
+(3) The Commission shall furnish an authorised officer with an authorisation and, when carrying out an investigation under this section, an authorised officer shall, if requested to do so by any person affected by the investigation, produce to the person the authorisation or a copy of it together with a form of personal identification.
+
+(4) An authorised officer may, for the purposes of carrying out an investigation under this section—
+
+(a) require any person to provide any information or explanation which the authorised officer may reasonably require for the purposes of the investigation,
+
+(b) require any person to produce any document or other thing of which the person has control, or to which the person has access, and which the authorised officer may reasonably require for the purposes of the investigation,
+
+(c) require any person to attend before the authorised officer to answer questions, and to make a declaration of the truth of the answers to the questions, for the purposes of the investigation,
+
+(d) (subject to *subsection (5)*) enter and search (if necessary accompanied by a member of the Garda Síochána) any premises at, on or in which the authorised officer reasonably believes there may be any document or other thing which the authorised officer may reasonably require for the purposes of the investigation,
+
+(e) inspect and take copies of, or extracts from, any document or other thing produced in compliance with a requirement under *paragraph (b)* or found on a search under *paragraph (d)* or pursuant to a warrant under *subsection (6)*,
+
+(f) require a person to make available in a legible form any documents so produced or found otherwise than in a legible form, or
+
+(g) require a person to give to the authorised officer such assistance as the authorised officer may reasonably require for the purposes of the investigation and make available to the authorised officer such reasonable facilities as are necessary for the authorised officer to exercise his or her powers.
+
+(5) An authorised officer shall not enter a dwelling when carrying out an investigation under this section otherwise than—
+
+(a) with the consent of the occupier, or
+
+(b) pursuant to a warrant under *subsection (6)*.
+
+(6) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for believing that there is in, on or at any premises any document or other thing which the authorised officer may reasonably require for the purposes of an investigation under this section, the judge may issue a warrant authorising a named person at any time or times within one month from the date of issue of the warrant, on production (if so requested) of the warrant, to enter and search the premises using reasonable force where necessary, and exercise all or any of the powers conferred on an authorised officer.
+
+(7) A warrant under *subsection (6)* may permit the person authorised by it to be accompanied by such members of the Garda Síochána or other persons as that person considers necessary.
+
+(8) An authorised officer may, if authorised by the Commission to do so, make interim reports to the Commission while carrying out an investigation under this section.
+
+(9) As soon as reasonably practicable after the conclusion of an investigation under this section the authorised officer by whom the investigation was carried out shall give to—
+
+(a) the Commission, and
+
+(b) the person under investigation,
+
+a copy of a report stating the findings of the investigation and the authorised officer’s conclusions on the findings together with his or her reasons for making them.
+
+(10) A statement or admission made by a person pursuant to a requirement under *subsection (4)* shall not be admissible in evidence in proceedings brought against that person for an offence (other than for an offence under *section 20*).
+
+(11) The production of a document or other thing in compliance with a requirement under *subsection (4)* does not prejudice a person’s lien on the document or other thing.
+
+(12) Nothing in this section shall operate to require a person to provide to an authorised officer any information or explanation, or to produce to an authorised officer any documents or other things, that he or she would be entitled to refuse to provide or produce on the grounds of legal professional privilege.
+
+(13) An authorised officer shall not disclose any information obtained under this section otherwise than in a report under this section.
+
+(14) In this section “premises” includes vessel, aircraft, vehicle and any other means of transport, as well as land and any other fixed or moveable structure.
+
+### 20. Offences
+
+**20.** (1) A person who commits a relevant contravention by making a return under *section 12* after the relevant date is guilty of an offence and liable on summary conviction to a class C fine.
+
+(2) A person who commits a relevant contravention F29[under *paragraph (a)*, *(b)* (save as provided for by *subsection (1)*), *(c)*, *(d)*, *(e)* or *(f)* of *section 18*] is guilty of an offence and liable—
+
+(a) on summary conviction to a class C fine, or
+
+(b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 2 years or both.
+
+(3) It shall be a defence in proceedings for an offence under this section for the person charged with the offence to prove that the person took all reasonable steps to avoid the commission of the offence.
+
+(4) Summary proceedings for an offence under this section may be brought and prosecuted by the Commission.
+
+(5) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for an offence under *subsection (1)* may be instituted within 12 months from the date of the offence.
+
+(6) Where an offence under this section is committed by a body corporate and the offence is proved to have been committed with the consent or connivance of any person who, when the offence was committed, was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in such a capacity, that person, as well as the body corporate, shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence under this section.
+
+(7) Where the affairs of a body corporate are managed by its members, *subsection (6)* applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if he or she were a director or manager of the body corporate.
+
+(8) Where a person is convicted of an offence under this section the court shall order the person to pay to the Commission a sum equal to the costs and expenses, measured by the court, incurred by the Commission in relation to the investigation, detection and prosecution of the offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 10, S.I. No. 531 of 2023.
+
+### 21. Fixed payments
+
+**21.** (1) Where a person commits an offence under *section 20(1)*, the Commission may serve a notice (in this section referred to as a “fixed payment notice”) on the person.
+
+(2) The fixed payment notice shall—
+
+(a) be in the prescribed form,
+
+(b) state that the person is alleged to have committed an offence under *section 20(1)*,
+
+(c) state that the person is not obliged to pay the fixed payment,
+
+(d) state that, if the fixed payment is paid to the Commission by the date specified in it, a prosecution in respect of the offence under *section 20(1)* will not be initiated, and
+
+(e) contain details of how the fixed payment is to be paid.
+
+F30[(3) The fixed payment notice may be served on the person:
+
+(a) where the Commission has been provided with the person’s email address, by sending it to the person by electronic means to that email address, provided that a record that the email has been sent to the person is made for the sender by the email system used;
+
+(b) by delivering it to the person;
+
+(c) by sending it by registered post or by any other form of recorded delivery service to—
+
+(i) in the case of an individual, the address at which the individual ordinarily resides or any other address provided by the individual for the purposes of this section,
+
+(ii) in the case of a company, its registered office, or
+
+(iii) in the case of any other body corporate or unincorporated body, its principal office or place of business.]
+
+(4) The fixed payment is €200.
+
+(5) No prosecution in respect of the offence under *section 20(1)* shall be initiated against the person—
+
+(a) until after the date specified in the fixed payment notice as that by which the fixed payment is to be paid, or
+
+(b) at all, if the fixed payment is paid to the Commission before that date.
+
+(6) The amount of any fixed payment received by the Commission under this section shall be paid into or disposed of for the benefit of the Exchequer as the Minister directs.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 11, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to section exercised (1.01.2017) by *Regulation of Lobbying Act 2015 (Fixed Payment Notice) Regulations 2016* (S.I. No. 361 of 2016), in effect as per reg. 2.
+
+## PART 5Miscellaneous and Supplementary — PART 5 — Miscellaneous and Supplementary
+
+### 22. Restrictions on post-term employment as lobbyist
+
+**22.** (1) A person who has been a relevant designated public official shall not—
+
+(a) carry on lobbying activities in circumstances to which this section applies, or
+
+(b) be employed by, or provide services to, a person carrying on lobbying activities in such circumstances,
+
+during the relevant period except with F31[the prior consent of the Commission and, where that consent is subject to conditions under *subsection (5)(a)(i)(II)*, in accordance with its terms].
+
+(2) In this section—
+
+“relevant designated public official” means a person who is a designated public official by virtue of *paragraph (a)*, *(e)* or *(f)* of *section 6(1)*;
+
+“relevant period” means the period of one year beginning with the day on which the person ceases to be a relevant designated public official.
+
+(3) The circumstances to which this section applies are any in which the making of the communications comprising the carrying on of lobbying activities—
+
+(a) involves any public service body with which the person was connected during the period of one year ending with the day on which the person ceased to be a relevant designated public official, or
+
+(b) is to a person who was a designated public official connected with that public service body during that period.
+
+(4) For the purposes of *subsection (3)* a public service body is one with which a person was connected at any time if it was at that time a public service body by which the person was employed or in which the person held any office or other position.
+
+F33[(4A) A person referred to in *subsection (1)* shall apply to the Commission for consent in such form and manner as the Commission may require.]
+
+F32[(5) (a) Where a person referred to in *subsection (1)* makes an application to the Commission for consent, the Commission shall, after any appropriate consultation (including with the person concerned, the person’s current, former or intended employer or such other person as the Commission considers appropriate) decide to—
+
+(i) give consent—
+
+(I) unconditionally, or
+
+(II) subject to conditions,
+
+or
+
+(ii) refuse to give consent for the whole or any part of the relevant period.
+
+(b) The Commission shall notify the person in writing of the decision under *paragraph (a)*, and, in the case of a decision under *subparagraph (i)(II)* or *(ii)* of *paragraph (a)*, the reasons for the decision.
+
+(c) A decision under *paragraph (a)* shall be made as soon as may be and, insofar as practicable, not later than 21 days after the receipt by the Commission of the application concerned.
+
+(d) Where a decision is not or is not likely to be provided to the person concerned within the period specified in *paragraph (c)*, the Commission shall notify the person concerned as soon as practicable of the extension of that period by a further period not exceeding 7 days.]
+
+F34[(6) Each public service body shall inform, in writing, every person who is a relevant designated public official employed by, or holding any office or other position in, that public service body of his or her obligations under this section, when taking up such employment, office or position, and when leaving such employment, office or position, in that public service body.]
+
+F35[(7) For the purposes of the performance by the Commission of its functions under this section, as soon as practicable after a public service body becomes aware that a relevant designated public official will be leaving his or her employment, office or position held in the public service body, that public service body shall notify the Commission of—
+
+(a) the name of the official and his or her address for correspondence, including his or her email address,
+
+(b) the grade or rank of the official,
+
+(c) the date on which the official took up such employment, office or position, and
+
+(d) the date on which the official will leave or left such employment, office or position.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31, F32: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 12(a), (c), S.I. No. 531 of 2023.
+>
+> F33, F34, F35: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 12(b), (d), S.I. No. 531 of 2023.
+
+### 22A. F36[Sanctions for contravention under section 18(f) or of section 22(1)
+
+**22A.** (1) This section applies to a contravention under *section 18(f)* or of *section 22(1)*, as the case may be.
+
+(2) On receipt of a report following an investigation carried out under *section 19* as to whether there has been a contravention to which this section applies, the Commission shall consider the report.
+
+(3) Where the Commission has considered the report referred to in *subsection (2)*, the Commission shall decide, subject to *subsection (4)*—
+
+(a) if there has been a relevant contravention to which this section applies, and
+
+(b) if so, as it thinks fit in the circumstances of the case, whether to impose on the person under investigation—
+
+(i) a minor sanction, or
+
+(ii) subject to *section 22B*, a major sanction.
+
+(4) For the purposes of making a decision under *subsection (3)*, the Commission may, if requested to do so by the person under investigation, or if it considers it proper to do so for the purposes of assisting it to make such decision, or for the purposes of observing fair procedures—
+
+(a) conduct an oral hearing, or
+
+(b) give to the person a notice stating that the person may, not later than 30 days beginning on the date of the notice, or such further period not exceeding 30 days as the Commission allows, make a submission in writing to the Commission on the report prepared in accordance with *section 19*.
+
+(5) Subject to *section 22F*, the Commission shall determine how an oral hearing under *subsection (4)(a)* is to be conducted.
+
+(6) The Commission shall notify the person to whom the report relates of a decision under *subsection (3)* as soon as practicable after it is made, which notification shall—
+
+(a) include the reasons for the decision,
+
+(b) inform the person that—
+
+(i) the person may, under *section 22D*, appeal the decision within 30 days beginning on the date of the notification,
+
+(ii) the appeal shall specify the grounds for the appeal, and
+
+(iii) the decision shall be suspended until, as the case may be—
+
+(I) the decision becomes final under *subsection (7)*, or
+
+(II) subject to *subsection (8)*, the disposal of the appeal under *section 22D*.
+
+(7) If, on the expiration of the period of 30 days beginning on the date of the notification under *subsection (6)*, no appeal under *section 22D* has been made, the decision under *subsection (3)* shall be final.
+
+(8) If, following an appeal of a decision under *subsection (3)*, the Circuit Court directs the Commission under *section 22D(5)(b)(ii)* to reconsider the decision, that decision shall be suspended until it has been reconsidered by the Commission.
+
+(9) A decision of the Commission under *subsection (3)(b)(ii)* to impose a major sanction shall not take effect unless the decision is confirmed by the Circuit Court under *section 22D* or *22E*, as the case may be.
+
+(10) A person shall not be the subject of both an administrative sanction and a criminal penalty under this Act for a contravention under *section 18(f)*.
+
+(11) The Commission in conducting an oral hearing under this section may take evidence on oath, and the administration of such an oath by any member of the Commission is hereby authorised.
+
+(12) An oral hearing under this section shall be conducted otherwise than in public unless the Commission, upon the application by or on behalf of the person under investigation, or of its own motion, determines that the proceedings (or part thereof) should be conducted in public.
+
+(13) In this section—
+
+"major sanction" means—
+
+(a) a financial sanction of an amount not exceeding €25,000,
+
+(b) a prohibition on the person from registering on the Register for a period of no more than 2 years,
+
+(c) a prohibition on the person from making or having a return made under *section 12* in respect of that person for a period of no more than 2 years, or
+
+(d) any combination of any of the sanctions specified in *paragraphs (a)* to *(c)*;
+
+"minor sanction" means—
+
+(a) advice,
+
+(b) a reprimand,
+
+(c) a caution, or
+
+(d) any combination of any of the sanctions specified in *paragraphs (a)* to *(c)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 13, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E15: The section title is taken from the amending section in absence of one included in the amendment.
+
+### 22B. F37[Matters to be considered in determining amount of financial sanction to be imposed
+
+**22B.** The Commission, in considering the amount of the financial sanction to be imposed under *section 22A*, shall take into account the circumstances of the contravention under *section 18(f)* or of *section 22(1)* and, without prejudice to the generality of the foregoing, may have regard to:
+
+(a) the need to ensure that any sanction imposed—
+
+(i) is appropriate and proportionate to the contravention concerned, and
+
+(ii) if applicable, will act as a sufficient incentive to ensure that any like contravention will not occur in the future;
+
+(b) the gravity and duration of the contravention concerned;
+
+(c) the extent of any failure by the person to cooperate with the investigation concerning that person;
+
+(d) any excuse or explanation given by the person for the contravention concerned or failure to cooperate with the investigation concerned;
+
+(e) the repeated occurrence of the contravention concerned by the person;
+
+(f) if applicable, the continuation of the contravention concerned after the person was notified of the investigation concerned;
+
+(g) if applicable, the extent and timeliness of any steps taken to end the improper conduct and any steps taken to remedy the consequences of the contravention concerned;
+
+(h) any precedents set by a court or the Commission in respect of a previous like contravention.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 14, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E16: The section title is taken from the amending section in absence of one included in the amendment.
+
+### 22C. Financial sanctions
+
+F38[**22C.** (1) A person on whom a financial sanction is imposed under *section 22A* shall pay the amount concerned by the date stated in the notification under *subsection (6)*, and subject to *subsections (8)* and *(9)*, of that section.
+
+(2) The Commission may recover as a simple contract debt, in any court of competent jurisdiction, any amount due and owing to the Commission in respect of a financial sanction imposed under *section 22A*.
+
+(3) All amounts received by the Commission under this section shall be paid into or disposed of for the benefit of the Exchequer as the Minister directs.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 15, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E17: The section title is taken from the amending section in absence of one included in the amendment.
+
+### 22D. Appeal to Circuit Court
+
+F39[**22D.** (1) A person the subject of a decision under *section 22A(3)(b)(i)* or *(ii)* may, not later than 30 days beginning on the date of the notification of the decision under *section 22A(6)*, appeal to the Court against the decision by notice in writing specifying the grounds of appeal.
+
+(2) The Court shall dismiss an appeal if it is of the opinion that the appeal is vexatious, frivolous, an abuse of process or without substance or foundation.
+
+(3) The Court may, on the hearing of an appeal under *subsection (1)*, consider whether—
+
+(a) the Commission in making its decision committed a serious or significant error of law or fact, or a series of minor errors of law or fact which when taken together amount to a serious or significant error,
+
+(b) the Commission complied with fair procedures in making its decision, and
+
+(c) the sanction imposed by the Commission was appropriate and proportionate.
+
+(4) In considering an appeal, the Court—
+
+(a) shall have regard to the record of the decision the subject of the appeal, and
+
+(b) may, where it considers it necessary or expedient for the fair and proper determination of the appeal, have regard to any submissions, documents, or evidence adduced by a party to an appeal whether or not already adduced or contained in the record of the decision as the Court considers appropriate.
+
+(5) The Court may, on the hearing of an appeal under *subsection (1)*—
+
+(a) confirm the decision the subject of the appeal, or
+
+(b) where it is satisfied by reference to the grounds of appeal that a serious or significant error of law or fact, or a series of minor errors of law or fact which when taken together amount to a serious or significant error, was made in making the decision the subject of the appeal, or that the decision was made without complying with fair procedures—
+
+(i) annul the decision and substitute such other decision as the Court considers appropriate, or
+
+(ii) remit the matter to the Commission for reconsideration and the making of a new decision, with or without direction as the Court considers appropriate.
+
+(6) A person shall, when making an appeal under this section, comply with the requirements of this section and any applicable rules of court made thereunder, and where a person does not so comply, the appeal shall be invalid and shall not be considered.
+
+(7) A decision of the Court under this section shall be final save that, by leave of that Court, an appeal shall lie from the decision to the High Court on a point of law and such appeal shall be brought no later than 21 days after the Court’s decision.
+
+(8) In this section, "Court" means the Circuit Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 16, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E18: The section title is taken from the amending section in absence of one included in the amendment.
+
+### Application to Circuit Court to confirm decision to impose major sanction
+
+F40[**22E.** (1) Where a person does not appeal against a decision by the Commission to impose a major sanction under *section 22A(3)(b)(ii)* to the Court within the period specified in *section 22A(6)*, the Commission shall, as soon as practicable after the expiration of that period, by motion on notice to the person concerned, make an application in a summary manner to the Court for confirmation of a decision to impose a major sanction.
+
+(2) The Court may, on the hearing of an application under *subsection (1)*—
+
+(a) confirm the decision the subject of the application, or
+
+(b) where it is satisfied on the basis of the evidence before it that there is a manifest and fundamental error of law that undermines the basis for the decision—
+
+(i) annul the decision and substitute such other decision as the Court considers appropriate, or
+
+(ii) remit the matter to the Commission for reconsideration and the making of a new decision, with or without directions as the Court considers appropriate.
+
+(3) The Commission shall, prior to making an application under *subsection (1)*, by notice to the person concerned, seek the consent in writing of that person to the imposition of the major sanction referred to in *subsection (1)*.
+
+(4) Where the person concerned consents to the imposition of the major sanction concerned in accordance with a notice under *subsection (3)*, an application by the Commission under *subsection (1)* may be made ex parte.
+
+(5) Where the person concerned consents to the imposition of the major sanction concerned in accordance with *subsection (3)*, the sanction shall take effect when the decision of the Commission has been confirmed by the Court in accordance with this section.
+
+(6) If the Court confirms the decision under *subsection (2)(a)* or substitutes the decision under *subsection (2)(b)(i)*, the decision of the Court shall be substituted for the decision the subject of the application.
+
+(7) The Commission shall, as soon as practicable, give notice to the person concerned of the decision of the Court, the date on which it was made and the date from which that decision shall take effect.
+
+(8) In this section, "Court" means the Circuit Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 17, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E19: The section title is taken from the amending section in absence of one included in the amendment.
+
+### Conduct of investigations and proceedings
+
+F41[**22F.** (1) Subject to *subsection (3)*, the Commission shall publish and from time to time revise, in such form and manner as the Commission considers appropriate, a code—
+
+(a) for authorised officers and the Commission for the conduct of investigations under *section 19*, and
+
+(b) for the Commission for the conduct of proceedings before the Commission under *sections 22A* to *22E*.
+
+(2) An authorised officer or a member of the Commission, as the case may be, shall have regard to a code published under *subsection (1)(a)* or *(b)*, as the case may be, in the performance of his or her functions as they relate to investigations or proceedings, as appropriate.
+
+(3) The Commission may, where it considers it appropriate, make regulations providing for the conduct of investigations under *section 19* and proceedings before the Commission under *sections 22A* to *22E*, having regard to the need for fairness in the conduct of such investigations and proceedings, in particular the need to address conflicts of interest which may arise in investigations or proceedings.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.06.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 18, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E20: The section title is taken from the amending section in absence of one included in the amendment.
+
+### Giving of notices, etc.
+
+F42[**22G.** (1) A notice that is required to be given to a person by the Commission under any of *sections 22* to *22E* shall be in writing and addressed to the person by name and, where the Commission has been provided with the person’s email address, may be given to the person by electronic means to that email address, provided that a record that the email has been sent to the person is made for the sender by the email system used.
+
+(2) Where for any reason it is not possible to effect the giving of a notice by electronic means or the Commission considers it otherwise appropriate to do so, the notice may be given by sending it by registered post to—
+
+(a) in the case of an individual—
+
+(i) the address at which the individual ordinarily resides, or
+
+(ii) any other address provided by the individual for the purposes of this section,
+
+(b) in the case of a company, its registered office, or
+
+(c) in the case of any other body corporate or unincorporated body, its principal office or place of business.
+
+(3) In this section, "notice" includes notification or any document.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 19, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E21: The section title is taken from the amending section in absence of one included in the amendment.
+
+### 23. Appeals
+
+**23.** (1) A person aggrieved by a decision of the Commission under *section 10(5)*, *14* or F43[*22(5)*] may appeal against the decision by giving notice to the Commission.
+
+(2) Notice of an appeal shall—
+
+(a) be given within 14 days of the decision concerned,
+
+(b) be in such form as the Commission may require, and
+
+(c) state the reasons for the appeal.
+
+(3) The Minister shall appoint a panel of suitable persons to consider appeals under *subsection (1)* (in this section referred to as “appeal officers”).
+
+(4) Appeal officers—
+
+(a) shall be appointed to the panel for such period as the Minister may determine,
+
+(b) shall be paid such fees and expenses as the Minister may from time to time determine,
+
+(c) may resign at any time,
+
+(d) shall hold office on such other terms and conditions as the Minister may from time to time determine including such terms and conditions as are likely, in the opinion of the Minister, to secure their independence and impartiality,
+
+(e) may at any time be removed from the panel by the Minister for stated reasons, and
+
+(f) are not civil servants of the Government or civil servants of the State.
+
+(5) Where the Commission receives notice of an appeal under *subsection (1)* it shall nominate an appeal officer to consider the appeal.
+
+(6) Appeal officers shall be independent and impartial in the carrying out of their functions.
+
+(7) The Minister may prescribe the procedure to be followed in the conduct of appeals.
+
+(8) On an appeal the appeal officer is not confined to considering the grounds on which the Commission’s decision was based but may, after hearing any evidence and considering any submissions that may be made, decide the matter which is the subject of the appeal as if it were being decided for the first time.
+
+(9) The appeal officer shall as soon as practicable, and in any event not later than 14 days after the receipt of notice of the appeal—
+
+(a) confirm the decision appealed against, or
+
+(b) revoke that decision and replace it with such other decision as the appeal officer considers appropriate.
+
+(10) The appeal officer shall give a copy of his or her decision, with the reasons for it, to the appellant and the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 20, S.I. No. 531 of 2023.
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to subs. (7) exercised (1.09.2015) by *Regulation of Lobbying Act 2015 (Appeals) Regulations 2015* (S.I. No. 366 of 2015), in effect as per reg. 2.
+
+### 24. Further appeal on point of law
+
+**24.** (1) Any person aggrieved by the decision of an appeal officer under *section 23* may appeal to the High Court on a point of law.
+
+(2) An appeal shall be brought no later than 21 days after notice of the appeal officer’s decision is given to the appellant.
+
+(3) A decision of the High Court under this section shall, where appropriate, specify the period within which effect is to be given to it.
+
+(4) No appeal shall lie from a decision of the High Court on an appeal under this section.
+
+### 25. Reports by Commission
+
+**25.** (1) The Commission shall prepare an annual report relating to the operation of this Act and shall cause a copy of it to be laid before each House of the Oireachtas no later than 30 June in the year following that to which it relates.
+
+(2) A report under *subsection (1)* shall (in particular) include, in a form which does not enable the identification of the persons involved, information relating to—
+
+(a) any determinations under *section 14* made or in force in that year,
+
+(b) any investigations under *section 19* concluded in that year,
+
+(c) any applications for consent under *section 22*, and all decisions on such applications, made in that year,
+
+(d) any convictions for offences under *section 20* F44[in that year,]
+
+(e) any fixed payment notices served under *section 21* F45[in that year,]
+
+F46[(f) any decisions made, or sanctions imposed, by the Commission under *section 22A* in that year,
+
+(g) any appeals taken under *section 22D* in that year, and
+
+(h) any applications for confirmation of a decision to impose a major sanction made under *section 22E* in that year.]
+
+F47[(3) Any information referred to in *paragraph (f)*, *(g)* or *(h)* of *subsection (2)* shall not be included in the report referred to in *subsection (1)*—
+
+(a) in a case where a decision has been made to impose a major sanction—
+
+(i) where an appeal has been brought, until the decision the subject of the appeal is confirmed by the Court under *section 22D*, or
+
+(ii) where no appeal has been brought, until the decision is confirmed by the Court under *section 22E*,
+
+and
+
+(b) in a case where a decision has been made to impose a minor sanction—
+
+(i) where an appeal has been brought, until the decision the subject of the appeal is confirmed by the Court under *section 22D*, or
+
+(ii) where the period for bringing an appeal has expired and no appeal has been brought, until the expiry of that period.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44, F45: Substituted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 21(a)(i), (ii), S.I. No. 531 of 2023.
+>
+> F46, F47: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 21(a)(iii), (b), S.I. No. 531 of 2023.
+
+### 26. Delegation of functions by Commission
+
+**26.** F48[(1)] Such functions of the Commission under this Act as may be specified by the Commission F49[, other than functions under this section and *sections 22A* (other than *subsection (6)*) and *22B*,] may be performed, under the supervision and subject to the general direction of the Commission, by members of the staff of the Commission duly authorised in that behalf by the Commission.
+
+F50[(2) For the purposes of the performance of some or all of its functions under this Act, the functions of the Commission may, unless otherwise stated, be performed by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48, F49, F50: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 22(a)-(c), S.I. No. 531 of 2023.
+
+### 27. Amendments relating to Commission
+
+**27.** The Ethics in Public Office Act 1995 is amended—
+
+(a) in section 21(2I) by inserting “and the *Regulation of Lobbying Act 2015*,” after “to 2001,”,
+
+(b) in section 33 by inserting “and the *Regulation of Lobbying Act 2015*” after “Act”,
+
+(c) in section 35(1) by inserting “or the *Regulation of Lobbying Act 2015*” after “Act”, and
+
+(d) in section 35(2) —
+
+(i) in paragraph (c) by deleting “or” after “court,”,
+
+(ii) in paragraph (d) by substituting “House, or” for “House.”, and
+
+(iii) by inserting the following paragraph after paragraph (d):
+
+“(e) the disclosure of information for inclusion in the Register of Lobbying in a report under *section 25* of the *Regulation of Lobbying Act 2015*.”.
+
+## SCHEDULE — Bodies that are not Public Service Bodies
+
+*Section 7*
+
+1\. Any body corporate established by Act of Parliament before 6 December 1922 that, upon its establishment, was of a commercial character.
+
+2\. Bord na gCon.
+
+3\. Bord na Móna Plc.
+
+4\. Córas Iompair Éireann.
+
+5\. Coillte Teoranta (being a company formed and registered under the Companies Actsas provided for by section 9 of the Forestry Act 1988).
+
+6\. Cork Airport Authority, public limited company.
+
+7\. daa, public limited company.
+
+8\. EirGrid Plc.
+
+9\. Electricity Supply Board.
+
+10\. Ervia.
+
+11\. F51[...]
+
+12\. Horse Racing Ireland.
+
+13\. Irish National Stud Company Limited.
+
+14\. Irish Aviation Authority.
+
+15\. An Post.
+
+16\. Raidió Teilifís Éireann.
+
+17\. Shannon Airport Authority, public limited company.
+
+18\. Teilifís na Gaeilge.
+
+F52[18A. Uisce Éireann.]
+
+19\. Railway Procurement Agency.
+
+20\. Voluntary Health Insurance Board.
+
+21\. A subsidiary of a body to which this Schedule relates, including a subsidiary of such a subsidiary.
+
+F53[22. Dublin Port Company.
+
+23\. Port of Cork Company.
+
+24\. Shannon Foynes Port Company.
+
+25\. Port of Waterford Company.
+
+26\. Drogheda Port Company.
+
+27\. Galway Harbour Company.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Deleted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 23(a), S.I. No. 531 of 2023.
+>
+> F52: Inserted (1.01.2023) by *Water Services (Amendment) Act 2022* (39/2022), s. 31 and sch. ref. 10, S.I. No. 678 of 2022.
+>
+> F53: Inserted (1.01.2024) by *Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023* (15/2023), s. 23(b), S.I. No. 531 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to "Ervia" construed (13.05.2024, 1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), ss. 6, 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> C4: Reference construed (1.10.2020) by *Greyhound Racing Act 2019* (15/2019), s. 8(2), S.I. No. 399 of 2020.
+>
+> **Change of name of Bord na gCon**
+>
+> 8\. (1) The name of the board (established by section 6 of the Principal Act) the present name of which is Bord na gCon, shall be Rásaíocht Con Éireann.
+>
+> (2) References in any enactment, statutory instrument or legal proceedings or any other document to Bord na gCon shall, on and from the commencement of this section, be read as references to Rásaíocht Con Éireann.
+>
+> C5: Functions transferred and references to "Railway Procurement Agency" construed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 7, commenced on enactment and S.I. No. 298 of 2015. The Authority referred to is the National Roads Authority.
+>
+> **Transfer of functions of dissolved body to Authority**
+>
+> 7\. (1) On the dissolution day, all functions that, immediately before the dissolution day, were vested in the dissolved body are transferred to the Authority.
+>
+> (2) References—
+>
+> (a) to the dissolved body, in any enactment (other than this Act or an enactment mentioned in the Schedule) or any instrument made under an enactment, in so far as they relate to a function transferred by subsection (1), or
+>
+> (b) to a person that has been granted a railway order, in any enactment or in any instrument made under an enactment, in the case of a railway order granted to the dissolved body before the dissolution day,
+>
+> shall be construed, on and after the dissolution day, as references to the Authority.
+
+[^1]: OJ No. L 119, 4.5.2016, p.1

@@ -1,0 +1,1711 @@
+---
+title: "Water Services (No. 2) Act 2013"
+identifier: "eli/2013/act/50"
+type: act
+jurisdiction: ie
+language: en
+number: 50
+year: 2013
+date: 2013-12-25
+last_amended: 2025-12-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2013/act/50/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2013/act/50/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Water Services (No. 2) Act 2013
+
+An Act to make provision for, and in relation to, the imposition of charges by Irish Water in respect of the provision by Irish Water of water services; to provide for the transfer, in part, of the functions of water services authorities under the Water Services Act 2007 to Irish Water; to repeal the Local Government (Delimitation of Water Supply Disconnection Powers) Act 1995, certain provisions of the Water Services Act 2013 and, for certain purposes, certain provisions of the Water Services Act 2007; to amend the Water Services Act 2007 and certain other enactments; and to provide for matters connected therewith.
+
+[25*th December*, 2013]
+
+**Be it enacted by the Oireachtas as follows:**
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation and commencement
+
+**1**. (1) This Act may be cited as the Water Services (No.2) Act 2013.
+
+(2) The Water Services Acts 2007 and 2012, the Act of 2013 and this Act may be cited together as the Water Services Acts 2007 to 2013.
+
+(3) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions, and for the repeal of different provisions effected by *subsections (1)* and *(2)* of *section 4*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (3) exercised (1.02.2016) by *Water Services (No. 2) Act 2013 (Commencement) Order 2016* (S.I. No. 41 of 2016).
+>
+> 2\. The 1st of February 2016 is appointed as the day on which the following provisions of the Water Services (No. 2) Act 2013 (No. 50 of 2013) shall come into operation:
+>
+> (i) section 19
+>
+> (ii) sub sections (1), (2), (3), (4), (5), (6), (7), (8) and (9) of section 28
+>
+> (iii) section 30
+>
+> E2: Power pursuant to section exercised (3.12.2014) by *Water Services (No. 2) Act 2013 (Sections 4(2) and 35) Commencement Order 2014* (S.I. No. 548 of 2014).
+>
+> 2\. The day appointed as the day on which subsection (2) (in so far as it relates to the repeal of section 12 of the Water Services Act 2013 (No. 6 of 2013)) of section 4 and section 35 of the Water Services (No. 2) Act 2013 (No. 50 of 2013) come into operation is the 3rd day of December 2014.
+>
+> E3: Power pursuant to section exercised (1.10.2014) by *Water Services (No. 2) Act 2013 (Commencement) (No. 2) Order 2014* (S.I. No. 422 of 2014).
+>
+> 2\. The 1st day of October 2014 is appointed as the day on which the following provisions of the Water Services (No. 2) Act 2013 (No. 50 of 2013) shall come into operation:
+>
+> (*a*) subsection (1), insofar as it is not already in operation, and subsection (3) of section 4;
+>
+> (*b*) Part 3 (insofar as it is not already in operation);
+>
+> (*c*) section 41.
+>
+> E4: Power pursuant to section exercised (7.02.2014) by *Water Services (No. 2) Act 2013 (Commencement) Order 2014* (S.I. No. 76 of 2014).
+>
+> 2\. The 7th day of February 2014 is appointed as the day on which the following provisions of the Water Services (No. 2) Act 2013 (No. 50 of 2013) shall come into operation:
+>
+> (*a*) sections 22 and 33;
+>
+> (*b*) Part 5 (other than section 41);
+>
+> (*c*) section 44.
+>
+> E5: Power pursuant to section exercised (1.01.2014) by *Water Services (No. 2) Act 2013 (Commencement) Order 2013* (S.I. No. 575 of 2013).
+>
+> 2\. The 1st day of January 2014 is appointed as the day on which the following provisions of the Water Services (No. 2) Act 2013 (No. 50 of 2013) shall come into operation:
+>
+> (*a*) Part 1, other than subsection (1) (insofar as it relates to the repeal of sections 105 and 106 of the Act of 2007) and subsections (2) and (3) of section 4;
+>
+> (*b*) Part 2, other than section 19;
+>
+> (*c*) Part 4, other than sections 28, 29, 30, 33 and 35;
+>
+> (*d*) Part 6, other than section 44.
+
+### 2. Definitions
+
+**2**. In this Act—
+
+“Act of 2000” means the Planning and Development Act 2000;
+
+“Act of 2001” means the Local Government Act 2001;
+
+“Act of 2007” means the Water Services Act 2007;
+
+“Act of 2013” means the Water Services Act 2013;
+
+F1["Act of 2024" means the Planning and Development Act 2024;]
+
+“Agency” means the Environmental Protection Agency;
+
+“city council” has the same meaning as it has in the Act of 2001;
+
+“Commission” means the Commission for Energy Regulation;
+
+“county council” has the same meaning as it has in the Act of 2001;
+
+“customer” means, in relation to the provision of water services, the occupier of the premises in respect of which the water services are provided;
+
+F2[“dwelling“ means a premises occupied by a person as his or her place of private residence (whether or not as his or her principal private residence);]
+
+“enactment” has the same meaning as it has in the Interpretation Act 2005;
+
+“EU Water Framework Directive” has the same meaning as it has in the Act of 2007;
+
+“excluded provision” means—
+
+(*a*) section 32(1)(*b*) (insofar as it relates to the provision, operation or maintenance of storm water sewers),
+
+(*b*) Part 4A, or
+
+(*c*) Part 6 (other than sections 91 and 92),
+
+of the Act of 2007;
+
+“investment plan” has the meaning assigned to it by *section 34*;
+
+“land” has the same meaning as it has in the Act of 2007;
+
+“local authority” means—
+
+(*a*) a city council, or
+
+(*b*) a county council;
+
+“Minister” means the Minister for the Environment, Community and Local Government;
+
+“occupier” means, in relation to a premises, the person for the time being entitled to the occupation of the premises;
+
+“pipe” has the same meaning as it has in the Act of 2007;
+
+“planning authority” has the same meaning as it has in the Act of 2000;
+
+“premises” has the same meaning as it has in the Act of 2007 and includes part of a premises;
+
+“property” includes—
+
+(*a*) land, equipment, pipes, sewers, structures, waterworks and waste water works, and
+
+(*b*) moneys, stocks, shares and securities,
+
+but does not include storm water sewers;
+
+“sanitary authority” means a sanitary authority for the purposes of the Local Government (Sanitary Services) Acts 1878 to 2001;
+
+“sewer” has the same meaning as it has in the Act of 2007;
+
+“storm water” has the same meaning as it has in the Act of 2007;
+
+“storm water sewer” means any pipe or other conduit—
+
+(*a*) used solely for the conveyance of storm water, or
+
+(*b*) designed or intended to be used for the conveyance of storm water (whether or not it is connected to a sewer by a storm water overflow within the meaning of the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007));
+
+F2["strategic funding plan" has the meaning assigned to it by *section 34A* (inserted by section 19 of the Water Services Act 2017);]
+
+“structure” has the same meaning as it has in the Act of 2007;
+
+F2["threshold amount" means the threshold amount specified by order under *section 53B* (inserted by section 9 of the Water Services Act 2017) of the Act of 2007;]
+
+“transfer day” shall be construed in accordance with *section 6*;
+
+“waste water works” has the same meaning as it has in the Act of 2007;
+
+“water charges plan” has the meaning assigned to it by *section 22*;
+
+F2["water services policy statement" has the meaning assigned to it by *section 32A* (inserted by section 18 of the Water Services Act 2017);]
+
+“waterworks” has the same meaning as it has in the Act of 2007.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 452 of 2025, art. 3(3) and sch. part 3 item 7(a).
+>
+> F2: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 14, S.I. No. 511 of 2017.
+>
+> F3: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: definition of "planning authority" amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> “planning authority” has the same meaning as it has in the F3[Act of 2024];
+>
+> C2: References to “county council” and “city council” construed (1.06.2014) by *Local Government Reform Act 2014* (1/2014), ss. 9(2), 25(2), S.I. No. 214 of 2014.
+>
+> **Cesser and amalgamation of certain local government areas**
+>
+> **9.**— ...
+>
+> (2) Except where otherwise provided for by this Act, a reference, however expressed, in any enactment—
+>
+> (*a*) to a county council or a city council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a county council or to a city council, as the case may be) shall, if the context permits, be read as a reference to a county council, a city council or a city and county council, and
+>
+> (*b*) to a county council and a city council (including a reference so construed) shall, if the context permits, be read as a reference to a county council, a city council and a city and county council.
+>
+> ...
+
+### 3. Expenses
+
+**3**. The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, be paid out of moneys provided by the Oireachtas.
+
+### 4. Repeals
+
+**4**. (1) Sections 17, 27, 30, 36, 37, 38, 40, 49, 52, 99, 102, 105 and 106 of the Act of 2007 are repealed.
+
+(2) Sections 12 F4[...] and 20 of the Act of 2013 are repealed.
+
+(3) The Local Government (Delimitation of Water Supply Disconnection Powers) Act 1995 is repealed.
+
+(4) The repeal of the provisions of the Act of 2007 effected by *subsection (1)* shall not have effect for the purposes of the operation of an excluded provision.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Deleted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(8), commenced on enactment.
+
+## PART 2 Transfer of Functions, Property and Staff — PART 2 — Transfer of Functions, Property and Staff
+
+### 5. Definitions in this Part
+
+**5**. In this Part—
+
+“employment transfer day” means, in relation to a member of staff of a local authority to whom a designation by that local authority under *section 19* applies—
+
+(*a*) the day on which an agreement first made by the local authority and Irish Water under *section 31* ceases to have effect, or
+
+(*b*) where such agreement is terminated before the period specified in *paragraph (*a*)* of *subsection (4)* of that section or the local authority and Irish Water make a further agreement or agreements under that section, such day as may be specified in writing by the Minister;
+
+“property vesting day” has the meaning assigned to it by *section 12(1)*;
+
+“water services authority” has the same meaning as it has in the Act of 2007.
+
+### 6. Transfer day
+
+**6**. The Minister shall, by order, appoint a day to be the transfer day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.01.2014) by *Water Services (No. 2) Act 2013 (Transfer Day) Order 2013* (S.I. No. 576 of 2013), in effect as per reg. 2.
+
+### 7. Transfer of functions from water service authorities to Irish Water
+
+**7**. (1) Subject to *section 10*, all functions conferred on water services authorities by the Act of 2007 (other than an excluded provision and section 22) shall, on the transfer day, stand transferred to Irish Water.
+
+(2) References to a water services authority or relevant water services authority in—
+
+(*a*) the Act of 2007 or in any instrument made under that Act, or
+
+(*b*) any other enactment (other than the Act of 2013) or instrument under any other enactment,
+
+in so far as they relate to any function transferred by this Act, shall on and after the transfer day, be construed as references to Irish Water.
+
+(3) All functions of sanitary authorities deemed to be functions of a water services authority under section 39 of the Act of 2007 shall, on the transfer day, be transferred to Irish Water.
+
+(4) References to a sanitary authority in any enactment or instrument under any enactment shall, on and after the transfer day, in so far as they relate to any function transferred by *subsection (3)*, be construed as references to Irish Water.
+
+### 8. Transfer of functions under certain other enactments to Irish Water
+
+**8**. (1) The functions of a local authority under section 2 of the Local Government (Financial Provisions) (No. 2) Act 1983 shall, on the transfer day and in so far only as that section relates to the Act of 2007, stand transferred to Irish Water and, accordingly, references in that section to a local authority shall be construed as including references to Irish Water.
+
+(2) The functions of a sanitary authority under section 65A (amended by section 12 of the Local Government (Financial Provisions) Act 1997) of the Public Health (Ireland) Act 1878 shall, on the transfer day stand transferred to Irish Water and, accordingly, references in that section to a sanitary authority shall be construed as references to Irish Water.
+
+(3) This section shall cease to have effect upon the commencement of *section 21*.
+
+### 9. Immunity
+
+**9**. Section 29 of the Act of 2007 shall apply to Irish Water as it applies to a water services authority, and accordingly references in that section to a water services authority shall be construed as including references to Irish Water.
+
+### 10. Continuance of certain functions of water service authorities
+
+**10**. Functions transferred to Irish Water under *section 7* shall, on and after the transfer day continue to be performable by a water services authority for the purposes of the performance of its functions under an excluded provision and, accordingly, for those purposes references in the Act of 2007 that, by virtue of *subsection (2)* of *section 7*, are to be construed as references to Irish Water shall be construed as including references to a water services authority.
+
+### 11. Provisions consequent upon transfer of functions to Irish Water
+
+**11**. (1) Anything commenced and not completed before the transfer day by or under the authority of a water services authority or a sanitary authority may, in so far as it relates to a function transferred to Irish Water on that day be carried on or completed on and after that day by Irish Water.
+
+(2) Every instrument made under an enactment and every document (including any certificate) granted or made, in the performance of a function transferred by *section 7*, shall, if and in so far as it was operative immediately before the transfer day, have effect on and after that day as if it had been granted or made by Irish Water.
+
+(3) References to a water services authority in the memorandum or articles of association of any company in so far as they relate to a function transferred by *section 7*, shall, on and after the transfer day, be construed as references to Irish Water.
+
+(4) Any money, stocks, shares or securities designated by an order under *section 12* that immediately before the property vesting day appointed by that order were standing in the name of a water services authority shall, on the request of Irish Water be transferred into its name.
+
+(5) A certificate signed by the Minister that any property, right or liability has or, as the case may be, has not vested in Irish Water pursuant to an order under *section 12* or *14* shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
+
+### 12. Transfer of property of water services authorities
+
+**12**. (1) The Minister may, on or after the transfer day, from time to time, by order, appoint a day (in this Part referred to as a “property vesting day”) for the purposes of this section and different property vesting days may be so appointed in relation to—
+
+(*a*) different water services authorities, and
+
+(*b*) different property or class or classes of property of a water services authority.
+
+(2) An order under this section shall designate such property, or such class or classes of property, of a water services authority as the Minister may determine.
+
+(3) The Minister may request a water services authority to furnish him or her with such information as he or she may require for the purposes of his or her deciding whether or not to make an order under *subsection (1)*.
+
+(4) A water services authority shall comply with a request under *subsection (3)* not later than 3 months from its having received the request.
+
+(5) On a property vesting day any land designated by the order by which that property vesting day was appointed and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, stand vested in Irish Water for all the estate or interest therein that, immediately before that day, was vested in the water services authority concerned, but subject to all trusts and equities affecting the land continuing to subsist and being capable of being performed.
+
+(6) On a property vesting day all property (other than land), including choses-in-action, designated by the order by which the property vesting day was appointed that immediately before that day, was vested in the water services authority concerned shall, without any assignment, stand vested in Irish Water.
+
+F5[(6A) The vesting of any property (including land or an interest in land) in Irish Water, on a property vesting day, is not to be considered as a disposal of the property by the water services authority concerned, but as a transfer to Irish Water.]
+
+(7) Every chose-in-action vested in Irish Water by virtue of *subsection (6)* may, on and after the property vesting day concerned, be sued on, recovered or enforced by Irish Water in its own name, and it shall not be necessary for Irish Water or the water services authority concerned to give notice to any person bound by the chose-in-action of the vesting effected by that subsection.
+
+(8) Any moneys received by a planning authority in accordance with section 48 or 49 of the Act of 2000 and vested in Irish Water pursuant to an order under this section, shall be expended by Irish Water for the purposes of the provision of water services in the functional area of that planning authority.
+
+(9) Section 183 of the Act of 2001 shall not apply to the vesting of land under this section.
+
+(10) In this section—
+
+“borough council” means a body specified in Chapter 1 of Part 1 of Schedule 6 to the Act of 2001;
+
+“town council” has the same meaning as it has in the Act of 2001;
+
+“water services authority” includes a town council and a borough council.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 10(2), commenced on enactment.
+>
+> F6: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: subs. (8) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> (8) Any moneys received by a planning authority in accordance with section 48 or 49 of the Act of 2000 F6[or section 584 or 585 of the Act of 2024] and vested in Irish Water pursuant to an order under this section, shall be expended by Irish Water for the purposes of the provision of water services in the functional area of that planning authority.
+>
+> C4: References to “town council” construed (1.06.2014) by *Local Government Reform Act 2014* (1/2014), ss. 9(2), 25(2), S.I. No. 214 of 2014.
+>
+> **Dissolution of town councils — consequential provisions**
+>
+> **25.**— ...
+>
+> (2) A function of a town council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a town council and whether of general application to town councils or otherwise under an enactment) that—
+>
+> (*a*) has not been repealed or otherwise provided for by this Act, or
+>
+> (*b*) is neither spent nor obsolete,
+>
+> shall, if the context permits in respect of one or more than one town council concerned, be read as a reference to a function of the local authority in whose administrative area the town council so dissolved is situated.
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to subs. (1) exercised (31.12.2025) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2025.*
+>
+> E8: Power pursuant to section exercised (30.09.2024) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2024* (S.I. No. 483 of 2024), in effect as per art. 2.
+>
+> E9: Power pursuant to section exercised (15.10.2023) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2023* (S.I. No. 494 of 2023), in effect as per art. 2.
+>
+> E10: Power pursuant to subs. (1) exercised (31.12.2022) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 3) Order 2022* (S.I. No. 674 of 2022), in effect as per art. 3.
+>
+> E11: Power pursuant to subs. (1) exercised (31.10.2022) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 2) Order 2022* (S.I. No. 499 of 2022), in effect as per art. 2.
+>
+> E12: Power pursuant to subs. (1) exercised (30.06.2022) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2022* (S.I. No. 300 of 2022), in effect as per art. 2.
+>
+> E13: Power pursuant to subs. (1) exercised (31.12.2021) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 3) Order 2021* (S.I. No. 721 of 2021), in effect as per art. 2.
+>
+> E14: Power pursuant to subs. (1) exercised (15.10.2021) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 2) Order 2021* (S.I. No. 533 of 2021), in effect as per art. 2.
+>
+> E15: Power pursuant to subs. (1) exercised (30.06.2021) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2021* (S.I. No. 319 of 2021), in effect as per art. 2.
+>
+> E16: Power pursuant to subs. (1) exercised (31.12.2020) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No.3) Order 2020* (S.I. No. 681 of 2020), in effect as per art. 2.
+>
+> E17: Power pursuant to subs. (1) exercised (30.09.2020) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 2) Order 2020* (S.I. No. 384 of 2020), in effect as per art. 2.
+>
+> E18: Power pursuant to subs. (1) exercised (31.05.2020) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2020* (S.I. No. 166 of 2020), in effect as per art. 2.
+>
+> E19: Power pursuant to subs. (1) exercised (31.12.2019) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2019* (S.I. No. 680 of 2019), in effect as per art. 2.
+>
+> E20: Power pursuant to subs. (1) exercised (31.12.2018) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 2) Order 2018* (S.I. No. 573 of 2018), in effect as per art. 2.
+>
+> E21: Power pursuant to subs. (1) exercised (27.07.2018) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2018* (S.I. No. 297 of 2018), in effect as per art. 2.
+>
+> E22: Power pursuant to subs. (1) exercised (31.12.2017) by *Water Services (No.2) Act 2013 (Property Vesting Day) (No. 2) Order 2017* (S.I. No. 607 of 2017), in effect as per art. 2.
+>
+> E23: Power pursuant to subs. (1) exercised (21.07.2017) by *Water Services (No.2) Act 2013 (Property Vesting Day) (No. 10) Order 2017* (S.I. No. 329 of 2017), in effect as per art. 2.
+>
+> E24: Power pursuant to subs. (1) exercised (30.06.2016) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2016* (S.I. No. 335 of 2016), in effect as per art. 2.
+>
+> E25: Power pursuant to subs. (1) exercised (24.12.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 9) Order 2015* (S.I. No. 632 of 2015).
+>
+> E26: Power pursuant to subs. (1) exercised (17.11.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 8) Order 2015* (S.I. No. 509 of 2015).
+>
+> E27: Power pursuant to subs. (1) exercised (30.10.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 7) Order 2015* (S.I. No. 461 of 2015).
+>
+> E28: Power pursuant to section exercised (17.07.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 6) Order 2015* (S.I. No. 319 of 2015).
+>
+> E29: Power pursuant to section exercised (8.05.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 5) Order 2015* (S.I. No. 181 of 2015).
+>
+> E30: Power pursuant to subs. (1) exercised (24.04.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 4) Order 2015* (S.I. No. 146 of 2015).
+>
+> E31: Power pursuant to subs. (1) exercised (8.04.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 3) Order 2015* (S.I. No. 112 of 2015).
+>
+> E32: Power pursuant to subs. (1) exercised (3.04.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) (No. 2) Order 2015* (S.I. No. 111 of 2015).
+>
+> E33: Power pursuant to section exercised (20.01.2015) by *Water Services (No. 2) Act 2013 (Property Vesting Day) Order 2015*, S.I. No. 13 of 2015.
+
+### 13. Transfer of rights and certain liabilities, and continuation of leases, licences and permissions granted by water services authorities
+
+**13**. (1) All rights and liabilities of a water services authority—
+
+(*a*) subsisting immediately before a property vesting day, and
+
+(*b*) arising by virtue of any contract or commitment (expressed or implied) relating to any land or other property designated by the order under *section 12* that appointed that day,
+
+shall on that day stand transferred to Irish Water.
+
+(2) Every right and liability transferred by *subsection (1)* to Irish Water may, on and after the property vesting day on which the right or liability stood transferred, be sued on, recovered or enforced by or against Irish Water in its own name, and it shall not be necessary for Irish Water or the water services authority concerned to give notice of its transfer to any person.
+
+(3) Every lease, licence, wayleave or permission granted by a water services authority in relation to land or other property vested in Irish Water by or under this Act, and in force immediately before the property vesting day concerned, shall continue in force as if granted by Irish Water.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section restricted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 10(1), commenced on enactment.
+>
+> **Loans relating to property**
+>
+> **10.** (1) Notwithstanding section 13 of the No. 2 Act of 2013, where property is transferred on a property vesting day to Irish Water in accordance with section 12 of that Act, then any financial loan relating to that property does not, vest in Irish Water.
+>
+> ...
+
+### 14. Transfer of other liabilities
+
+**14**. (1) The Minister may, from time to time, appoint a day by order for the purposes of this section, and different days may be so appointed in relation to—
+
+(*a*) different water services authorities, or
+
+(*b*) different contracts or commitments (expressed or implied) to which a water services authority is a party.
+
+(2) All rights and liabilities of a water services authority—
+
+(*a*) subsisting immediately before such day as may be appointed by order under this section, and
+
+(*b*) arising by virtue of any contract or commitment (expressed or implied) designated by that order,
+
+shall on that day stand transferred to Irish Water.
+
+(3) Every right and liability transferred by *subsection (2)* to Irish Water may, on and after the day on which the right or liability stood transferred, be sued on, recovered or enforced by or against Irish Water in its own name, and it shall not be necessary for Irish Water or the water services authority concerned to give notice of its transfer to any person.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to section exercised (25.04.2014) by *Water Services Act (No. 2) 2013 (Transfer of Other Liabilities) Order (No. 2) 2014* (S.I. No. 188 of 2014), in effect as per reg. 3.
+>
+> E35: Power pursuant to section exercised (21.02.2014) by *Water Services (No. 2) Act 2013 (Transfer of Other Liabilities) Order 2014* (S.I. No. 96 of 2014), in effect as per reg. 3.
+
+### 15. Liability for loss occurring before relevant day
+
+**15**. (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the relevant day of any of the functions of a water services authority transferred by this Act shall on and after that day, lie against Irish Water and not against the water services authority.
+
+(2) Any legal proceedings pending immediately before the relevant day to which a water services authority is a party arising out of the performance of any of the functions of a water services authority transferred by this Act, shall be continued, with the substitution in the proceedings of Irish Water, in so far as they so relate, for the water services authority.
+
+(3) Where, before the relevant day, agreement has been reached between the parties concerned in settlement of a claim to which *subsection (1)* relates, the terms of which have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, the terms of the agreement or judgment, as the case may be, shall, in so far as they are enforceable against a water services authority, be enforceable against Irish Water and not the water services authority.
+
+(4) Any claim made or proper to be made by a water services authority in respect of any loss or injury arising from the act or default of any person before the relevant day arising out of the performance of any of the functions of a water services authority transferred by this Act, shall be regarded as having been made by or proper to be made by Irish Water and may be pursued and sued for by Irish Water as if the loss or injury had been suffered by Irish Water.
+
+(5) This section shall—
+
+(*a*) not apply to a claim for damages in respect of a wrong within the meaning of the Civil Liability Act 1961,
+
+(*b*) not apply to proceedings brought for the sole purpose of recovering damages, in respect of such a wrong,
+
+(*c*) in the case of proceedings in respect of such a wrong that are brought for the purpose of recovering damages and other relief, not apply to that part of the proceedings that relates to the recovery of damages, or
+
+(*d*) not apply to any settlement of a claim or proceedings in so far as it imposes an obligation on a water services authority to make a payment or payments to any person.
+
+(6) In this section “relevant day” means—
+
+(*a*) in relation to a claim or proceedings in respect of land or other property transferred to Irish Water under *section 12* or any contract or commitment relating thereto, the property vesting day appointed for the purpose of the transfer of that land or property,
+
+(*b*) in relation to a claim or proceedings in respect of a contract or commitment designated under *section 14*, the day appointed under that section in respect of the contract or commitment,
+
+(*c*) in relation to a claim or proceedings in respect of the terms and conditions of employment of a member of the staff of a water services authority who—
+
+(i) has been accepted into the employment of Irish Water under *section 19*, or
+
+(ii) has been appointed to be a member of staff of Irish Water under *section 27*, the employment transfer day applicable to that member of staff,
+
+and
+
+(*d*) in relation to any other claim or proceedings, other than a claim or proceedings in respect of—
+
+(i) any land or other property owned by a water services authority,
+
+(ii) any contract or commitment entered into by a water services authority, or
+
+(iii) the terms and conditions of employment of any member of the staff of a water services authority,
+
+the transfer day.
+
+### 16. Licences under section 16 of the Local Government (Water Pollution) Act 1977
+
+**16**. A licence issued under section 16 of the Local Government (Water Pollution) Act 1977 and in force immediately before the transfer day shall, on and after that day, continue in force for the unexpired period of the licence as if granted by Irish Water.
+
+### 17. Licences and certificates under certain other enactments
+
+**17**. (1) Any licence granted to a water services authority under section 3 of the Foreshore Act 1933 shall continue in force on and after the transfer day for the unexpired period of the licence as if granted to Irish Water.
+
+(2) Any licence or certificate granted to a water services authority under the Regulations of 2007 shall continue in force on and after the transfer day for the unexpired period of that licence or certificate, as the case may be, as if granted to Irish Water.
+
+(3) Where an application for a licence under section 3 of the Foreshore Act 1933 was made before the transfer day and, immediately before that day, a decision in respect of that application had not been made by the appropriate Minister (within the meaning of the Foreshore Acts 1933 to 2009), then, for all purposes, the application shall be deemed to have been made by Irish Water.
+
+(4) Where an application for a licence or certificate under the Regulations of 2007 was made before the transfer day and, immediately before that day, a decision in respect of that application had not been made by the Agency, then, for all purposes, the application shall be deemed to have been made by Irish Water.
+
+(5) In this section “Regulations of 2007” means the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007).
+
+### 18. Other licences, authorisations and permits
+
+**18**. (1) The Minister may, from time to time, appoint a day by order for the purposes of this section, and different days may be so appointed in relation to—
+
+(*a*) different water services authorities, or
+
+(*b*) different relevant authorisations or different classes of relevant authorisation.
+
+(2) An order under this section shall designate such relevant authorisations, or such class or classes of relevant authorisation, as the Minister may determine.
+
+(3) A relevant authorisation—
+
+(*a*) designated by an order under this section, or
+
+(*b*) belonging to a class of relevant authorisation designated by such an order,
+
+shall continue in force on and after the day appointed for the purposes of this section by that order for the unexpired period of the authorisation as if issued to Irish Water.
+
+(4) In this section “relevant authorisation” means a licence, authorisation or permit (howsoever described) issued to a water services authority.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E36: Power pursuant to section exercised (30.10.2015) by *Water Services (No. 2) Act 2013 (Other Licences, Authorisations and Permits) Order 2015* (S.I. No. 462 of 2015), subject to transitional provision in art. 4.
+
+### 19. Transfer of staff
+
+**19**. (1) A local authority may, after consultation with Irish Water, designate for employment by Irish Water such members of its staff as it considers appropriate.
+
+(2) (*a*) A local authority shall, not later than 6 months before making a designation under this section in respect of a member of its staff, notify the member in writing that it proposes to make such a designation and that he or she or any trade union of which he or she is a member may, within such period as is specified in the notification, make representations to the local authority in respect of the proposal.
+
+(*b*) A local authority shall, before making a designation under this section in respect of a member of its staff consider any representations made in accordance with the notification under *paragraph (*a*)* by or on behalf of the member.
+
+(3) Irish Water shall accept into its employment on an employment transfer day each person who immediately before that day—
+
+(*a*) stood designated under this section for employment by Irish Water, and
+
+(*b*) was a member of the staff of the local authority to which that employment transfer day applies,
+
+on such terms and conditions of service, including terms and conditions relating to remuneration, as (save in accordance with a collective agreement negotiated with a recognised trade union or staff association) are not less favourable than the terms and conditions of service, including terms and conditions relating to remuneration, to which the person was subject immediately before that day.
+
+(4) In relation to persons accepted into the employment of Irish Water in accordance with this section, previous service with a local authority shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts 1967 to 2012, the Protection of Employees (Part-Time Work) Act 2001, the Organisation of Working Time Act 1997, the Minimum Notice and Terms of Employment Acts 1973 to 2005 and the Unfair Dismissals Acts 1977 to 2007.
+
+## PART 3 Water Charges — PART 3 — Water Charges
+
+### 20. Definition in this Part
+
+**20**. In this Part “approved water charges plan” means a water charges plan approved under *subsection (8)* of *section 22*.
+
+### 21. Power to charge for water services
+
+**21**. (1) Subject to *subsection (6)*, Irish Water shall charge each customer for the provision by it of water services.
+
+(2) The amount of a charge under *subsection (1)* shall be calculated by Irish Water in accordance with the approved water charges plan or an approved agreement, as may be appropriate.
+
+F7[(2A) The charging of customers of Irish Water for the provision of water services under this section is deemed to be part of the approved water charges plan.]
+
+(3) A charge under this section shall be payable on demand by the customer concerned in such manner and in respect of such period or periods as Irish Water shall determine in accordance with the approved water charges plan or an approved agreement, as may be appropriate.
+
+(4) Where a customer fails to pay a charge under this section, it shall be recoverable by Irish Water as a simple contract debt in any court of competent jurisdiction.
+
+(5) It shall be presumed, unless the contrary is proved, that the owner of a premises is also the occupier of that premises.
+
+F8[(6) Irish Water shall not charge—
+
+(*a*) for the provision of water services (other than water services referred to in *subsection (6A)*) to a dwelling (including its curtilage), or
+
+(*b*) for water services provided to a fire authority within the meaning of the Fire Services Act 1981.]
+
+F9[(6A) Irish Water shall charge for the provision of the following water services to a dwelling (including its curtilage):
+
+(*a*) services that exceed the threshold amount in respect of which a customer is liable to make a payment under section 53D (inserted by section 11 of the Water Services Act 2017) of the Act of 2007;
+
+(*b*) services referred to in paragraph (*b*) of section 3(16) of the Water Services Act 2014;
+
+(*c*) services referred to in paragraph (*c*) of section 3(16) of the Water Services Act 2014.]
+
+(7) Subject to *subsection (8)*, Irish Water may reduce or discontinue the supply of water to a premises where a charge under this section in respect of the premises remains wholly or partly unpaid for such period of time as may be specified in the approved water charges plan or an approved agreement, as may be appropriate.
+
+F10[(8) Irish Water shall not, by reason of a charge in respect of a dwelling being wholly or partly unpaid, reduce or discontinue the supply of water to that dwelling either temporarily or permanently.]
+
+F11[(8A) The amount of a charge for provision of water services that exceed the threshold amount may be calculated by Irish Water in relation to such provision over a period of less than 12 months (in this subsection referred to as the ‘lesser period’) in such proportion as is equal to the proportion of that lesser period to a period of 12 months.]
+
+(9) In this section—
+
+“approved agreement” means an agreement approved under *subsection (3)* of *section 23*;
+
+F12[...]
+
+“owner” has the same meaning as it has in the Act of 2007.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 15(*a*), S.I. No. 511 of 2017.
+>
+> F8: Substituted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 15(*b*), S.I. No. 511 of 2017.
+>
+> F9: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 15(*c*), S.I. No. 511 of 2017.
+>
+> F10: Substituted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 6, commenced on enactment.
+>
+> F11: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 15(*d*), S.I. No. 511 of 2017.
+>
+> F12: Deleted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 15(*e*), S.I. No. 511 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section extended (28.12.2014) by *Water Services Act 2014* (44/2014), s. 3(17), commenced on enactment.
+>
+> **Water charges - dwellings**
+>
+> **3.** ...
+>
+> (17) A charge made by Irish Water of a customer of Irish Water under section 21 of the No. 2 Act of 2013 includes a charge under this section.
+>
+> ...
+>
+> C7: Application of subs. (1) restricted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 3(1), commenced on enactment.
+>
+> **Water charges - dwellings**
+>
+> **3.** (1) Notwithstanding section 21(1) of the No. 2 Act of 2013, Irish Water shall not charge, before 1 January 2015, for water services provided by it to a dwelling.
+>
+> (2) Subsection (1) does not apply to non-domestic water supply and waste water charges made under the approved water charges plan in respect of the period from 1 October 2014 until 31 December 2014.
+>
+> ...
+>
+> C8: Application of subs. (3) extended (28.12.2014) by *Water Services Act 2014* (44/2014), s. 4(4) commenced on enactment.
+>
+> **Late payment charge - dwellings**
+>
+> **4.** ...
+>
+> (4) A late payment charge under this section is deemed to be a charge payable by the customer concerned under section 21(3) of the No. 2 Act of 2013.
+
+### 22. Water charges plan
+
+**22**. (1) Irish Water may, from time to time, and shall when so directed by the Commission, prepare and submit to the Commission a plan (in this Act referred to as a “water charges plan”) for the charging of customers for the provision of water services.
+
+(2) A water charges plan shall apply in respect of such period as the Commission shall direct.
+
+(3) A water charges plan shall specify—
+
+(*a*) the manner and method by which charges under *section 21* shall be calculated, and
+
+(*b*) the costs likely to be incurred by Irish Water in the performance of its functions under this Act during the period to which the water charges plan relates.
+
+(4) (*a*) A water charges plan may, where the quantity of water supplied to a premises is measurable by a meter, make provision for charges under *section 21* to be calculated by reference to the quantity of water supplied to, and the quantity of waste water discharged from, that premises.
+
+(*b*) A water charges plan may, where the quantity of water supplied to a premises is not measurable by a meter, make provision for charges under *section 21* to be calculated by reference to an assessment by Irish Water of—
+
+(i) the quantity of water supplied to the premises concerned, and
+
+(ii) the quantity of waste water discharged from the premises concerned,
+
+determined in such manner and by the application of such formula as is specified in the plan.
+
+(5) A water charges plan may make provision for charges under *section 21* in respect of the provision of a service connection (within the meaning of the Act of 2007) to or in respect of a premises.
+
+(6) A water charges plan may specify—
+
+(*a*) different methods in relation to different classes of customer as respects the calculation of charges under *section 21*,
+
+(*b*) different rates of charge under that section as respects different classes of customer, and
+
+(*c*) different methods of payment in respect of charges under that section.
+
+(7) Irish Water shall, when preparing a water charges plan take account of the following matters:
+
+(*a*) the need to ensure that Irish Water performs its functions in a commercially viable manner;
+
+(*b*) the public utility nature of its functions; and
+
+(*c*) the need to maintain a balance between the matters referred to in *paragraphs (*a*)* and *(*b*)*.
+
+(8) The Commission may, having regard to the most recent investment plan provided to the Commission under *subsection (8)* of *section 34* F13[, the most recent strategic funding plan most recently furnished by the Minister under *section 34A(5)(*b*)* (inserted by section 19 of the Water Services Act 2017)] and the costs likely to be incurred by Irish Water in the performance of its functions during the period to which a water charges plan submitted to the Commission under this section relates—
+
+(*a*) approve that water charges plan with or without modification, or
+
+(*b*) refuse to approve that water charges plan.
+
+(9) For the purposes of calculating a charge under *section 21*, the amount of waste water discharged from a premises is deemed to be equal to the amount of water supplied to that premises, unless Irish Water and the customer agree otherwise.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 16, S.I. No. 511 of 2017.
+
+### 23. Agreement in relation to water charges
+
+**23**. (1) Irish Water may make an agreement with a customer for the charging of that customer for the provision of water services.
+
+(2) An agreement under this section may include provision for—
+
+(*a*) a method of calculation of charges under *section 21* in respect of the customer concerned that is different from that applicable to customers to whom an approved water charges plan applies, and
+
+(*b*) the application of rates of charge under that section in respect of the customer concerned that are different from those that apply to customers to whom an approved water charges plan applies.
+
+(3) Irish Water shall submit an agreement made under this section to the Commission and the Commission shall, as soon as practicable thereafter—
+
+(*a*) approve the agreement, or
+
+(*b*) refuse to approve the agreement.
+
+### 23A. Registration with Irish Water
+
+F14[**23A.** (1) Where water services are provided to a dwelling by Irish Water, the owner of the dwelling shall, subject to *subsections (2)* and *(3)* —
+
+(*a*) register with Irish Water as a customer and confirm whether or not the dwelling is his or her principal private residence, or
+
+(*b*) notify Irish Water, in writing or in such other form and manner as Irish Water may specify, that he or she is not the occupier of the dwelling and provide—
+
+(i) the date of commencement of any agreement for the occupation of the dwelling, and
+
+(ii) the name of each person with whom the owner has such an agreement for the occupation of the dwelling,
+
+not later than—
+
+(I) 20 working days after the coming into operation of *section 47* of the Environment (Miscellaneous Provisions) Act 2015, and
+
+(II) where there is a change in the occupation of the dwelling after the coming into operation of *section 47* of the Environment (Miscellaneous Provisions) Act 2015, 20 working days after such a change.
+
+(2) *Subsection (1)(I)* shall not apply to the owner of a dwelling where, before the coming into operation of *section 47* of the Environment (Miscellaneous Provisions) Act 2015, Irish Water has been notified of the details of the occupation of the dwelling concerned.
+
+(3) Where the Residential Tenancies Act 2004 applies to the dwelling concerned, *subsection (1)(a)* shall not apply to the owner of the dwelling but that owner shall comply with *subsection (1)(b)*.
+
+(4) Notwithstanding *section 21(5)* and *subsection (5)* of this section, where the owner of a dwelling fails to comply with *subsection (1)(b)*, the owner shall pay to Irish Water any charge under *section 21* in respect of the dwelling for the period from the date of commencement of the agreement for the occupation of the dwelling until the date on which the owner so complies.
+
+(5) (*a*) Unless such an agreement expressly provides otherwise, an agreement for the occupation of a dwelling entered into after the coming into operation of *section 47* of the Environment (Miscellaneous Provisions) Act 2015 is deemed to include a provision that the occupier shall pay to Irish Water any charge under section 21 in respect of the dwelling for the period from the date on which the agreement commences until the date on which the occupier vacates the dwelling.
+
+(*b*) The exception provided for in *paragraph (a)* shall not apply to a dwelling to which the Residential Tenancies Act 2004 applies.
+
+(6) A person who registers with, or notifies, Irish Water under *subsection (1)* and provides information which to his or her knowledge is false or misleading in a material respect commits an offence and is liable on summary conviction to a class A fine.
+
+(7) In this section "dwelling" means a premises occupied, or which may be occupied, by a person as his or her place of private residence (whether or not as his or her principal private residence).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (1.10.2015) by *Environment (Miscellaneous Provisions) Act 2015* (29/2015), s. 47, S.I. No. 428 of 2015. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## PART 4 Irish Water — PART 4 — Irish Water
+
+### 24. Definitions in this Part
+
+**24**. In this Part—
+
+“regional body” means a body established by order under section 43 of the Local Government Act 1991;
+
+F15[...]
+
+F16["regional spatial and economic strategy" has the same meaning as it has in the Act of 2024;]
+
+“superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
+
+“water services strategic plan” has the meaning assigned to it by *section 33*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Deleted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 452 of 2025, art. 3(3) and sch. part 3 item 7(b).
+>
+> F16: Inserted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 452 of 2025, art. 3(3) and sch. part 3 item 7(b).
+
+### 25. Memorandum of association and articles of association of Irish Water
+
+**25**. (1) Irish Water shall take such steps as may be necessary under the Companies Acts to alter its F17[constitution] for the purpose of making them consistent with this Act.
+
+F17[(2) Notwithstanding anything contained in the Companies Acts, no alteration of the constitution of Uisce Éireann shall be valid or effectual unless made with the prior approval of the Minister and the Minister for Public Expenditure and Reform.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Substituted (1.01.2023) by *Water Services (Amendment) Act 2022* (30/2022), s. 30(*a*)(i), (ii), S.I. No. 678 of 2022.
+
+### 26. Directions of Minister
+
+**26**. (1) The Minister may give a direction in writing to Irish Water, in relation to the performance by Irish Water of its functions under this Act, requiring it to comply with such policies of the Government as are specified in the direction.
+
+(2) The Minister may, by direction in writing, amend or revoke a direction under this section (including a direction under this subsection).
+
+(3) F18[...]
+
+(4) Irish Water shall comply with a direction given to it under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Repealed (1.01.2023) by *Water Services (Amendment) Act 2022* (39/2022), s. 4(2), S.I. No. 678 of 2022.
+
+### 27. Staff
+
+**27**. (1) Irish Water may appoint such and so many persons to be members of its staff as it may from time to time determine.
+
+(2) The terms and conditions of service of the staff of Irish Water appointed under this section shall be such as may be determined from time to time by Irish Water.
+
+(3) There shall be paid by Irish Water to the members of its staff appointed under this section such remuneration and allowances as, from time to time, Irish Water determines.
+
+(4) Irish Water shall, in determining the remuneration or allowances for expenses to be paid to members of its staff appointed under this section or the other terms or conditions subject to which such members hold or are to hold their employment, have regard to Government or nationally agreed guidelines that are for the time being extant and to Government policy concerning remuneration and conditions of employment which is so extant and, in addition to the foregoing, Irish Water shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give to Irish Water with the consent of the Minister for Public Expenditure and Reform.
+
+(5) F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Repealed (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(7), commenced on enactment.
+
+### 28. Superannuation
+
+**28**. (1) As soon as may be after the commencement of this section, Irish Water shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of—
+
+F20[(1A) A scheme prepared under *subsection (1)* shall have effect, with respect to the pensionable service of a person mentioned in that subsection, on and from the day the person was accepted into the employment of Irish Water in accordance with *section 19* or was appointed under *section 27*, as the case may be.]
+
+(*a*) persons who were accepted into the employment of Irish Water in accordance with *section 19*, and
+
+(*b*) persons who were appointed under *section 27* and, immediately before their appointment, were—
+
+(i) officers of the Minister, or
+
+F21[(ii) members of the staff of a local authority or the Local Government Management Agency (unless their contracts of employment provide for a defined contribution scheme).]
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to, or in respect of whom, superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Irish Water may at any time prepare and submit to the Minister a scheme amending or revoking a scheme previously submitted and approved under this section.
+
+(4) A scheme or amending scheme submitted to the Minister under this section shall, if approved by the Minister with the consent of the Minister for Public Expenditure and Reform, be carried out by Irish Water in accordance with its terms.
+
+(5) (*a*) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit pursuant to a scheme under this section, such dispute shall be submitted to such person and determined in such manner as may be specified in the scheme.
+
+(*b*) A scheme under this section shall make provision for an appeal from a determination of a person referred to in *paragraph (a)* to such other person as may be specified in the scheme.
+
+(6) A superannuation benefit shall not be granted by Irish Water to or in respect of any persons who are members of a scheme under this section and no other arrangement shall be entered into for the provision of any superannuation benefit to such persons on their ceasing to hold office, other than in accordance with such scheme or schemes submitted and approved under this section or an arrangement approved by the Minister and the Minister for Public Expenditure and Reform.
+
+(7) (*a*) Subject to *section 30* and save in accordance with a collective agreement negotiated with a recognised trade union or staff association and approved by the Minister with the consent of the Minister for Public Expenditure and Reform, a scheme under this section shall, as respects a person referred to in *subsection (1)*, provide for the granting to or in respect of him or her of superannuation benefits upon and subject to such terms and conditions as are not less favourable and not more favourable to him or her than the terms and conditions in relation to the grant of such benefits that would have applied to him or her had he or she continued to be an officer of the Minister or a member of the staff of the local authority concerned.
+
+F22[(*b*) Irish Water shall not have any financial liability or responsibility in respect of any scheme made by the Minister under subsection (4) of section 9 of the Water Services Act 2014 for the granting of superannuation benefits in respect of service with the Minister or a local authority or the Local Government Management Agency, as the case may be, before the day the person is accepted under *section 19* or appointed under *section 27* into the employment or service of Irish Water, except as provided for in *paragraph (c)*.
+
+(*c*) Any increases in superannuation benefits payable under a scheme under this section which arise due to Irish Water increasing relevant pensionable remuneration or net pensionable remuneration shall be the responsibility of Irish Water.]
+
+(8) Where, in the period beginning on—
+
+(*a*) the date on which a person was accepted into the employment of Irish Water in accordance with *section 19*, or
+
+(*b*) the date on which a person referred to in *subsection (1)(*b*)* was appointed under *section 27*,
+
+and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person so accepted into the employment of Irish Water, or so appointed, the benefit shall be calculated and paid by Irish Water in accordance with such scheme, arrangements or enactments in relation to superannuation, as applied to the person immediately before the said date and, for that purpose, his or her pensionable service with Irish Water shall be aggregated with his or her previous pensionable service.
+
+(9) The Minister shall cause every scheme submitted and approved under this section to be laid before each House of the Oireachtas as soon as may be after it is approved, and if either such House, within the next 21 days on which that House sits after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to anything previously done thereunder.
+
+F23[(10) For the purposes of this section, an appointment under *section 27* includes an appointment by Ervia prior to the formation and registration of Irish Water under the Companies Acts of persons who were members of the staff of a local authority immediately before such appointment and commenced employment with Irish Water immediately on ceasing employment with Ervia.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(1)(*a*), commenced on enactment.
+>
+> F21: Substituted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(1)(*b*), commenced on enactment.
+>
+> F22: Substituted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(1)(*c*), commenced on enactment.
+>
+> F23: Inserted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(3), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to section exercised (1.01.2014) by *Irish Water Defined Benefit Superannuation Scheme* (S.I. No. 651 of 2022), in effect as per art. 2.
+
+### 29. Payments to Irish Water in respect of superannuation
+
+**29**. (1) The Minister shall, for the purposes of defraying the cost to Irish Water of paying superannuation benefits to or in respect of persons referred to in *subparagraph (i)* of *section 28* *(1)(*b*)*, pay to Irish Water a sum equal to the cost that the Minister would incur were he or she liable to pay superannuation benefits to or in respect of those persons upon their retirement from Irish Water or death and calculated on the basis that their pensionable service and pensionable remuneration upon retirement or death remained the same as their pensionable service and pensionable remuneration as officers of the Minister immediately before the date of their appointment under *section 27*.
+
+(2) The Minister shall, for the purposes of defraying the cost to Irish Water of paying superannuation benefits to or in respect of—
+
+(*a*) persons who were accepted into the employment of Irish Water in accordance with *section 19*, and
+
+(*b*) persons referred to in *subparagraph (ii)* of *section 28(1)(*b*)*,
+
+pay to Irish Water a sum equal to the cost that the local authority F24[or the Local Government Management Agency] would incur were it liable to pay superannuation benefits to or in respect of those members of staff upon their retirement from Irish Water or death and calculated on the basis that their pensionable service and pensionable remuneration upon retirement or death remained the same as their pensionable service and pensionable remuneration with the local authority F24[or the Local Government Management Agency] immediately before the date of their being so accepted into the employment of Irish Water, or their appointment under *section 27*.
+
+(3) A sum payable to Irish Water under *subsection (1)* or *(2)* may be paid in such instalments and at such intervals—
+
+(*a*) as may be agreed with the consent of the Minister for Public Expenditure and Reform, by the Minister with Irish Water, or
+
+(*b*) in the absence of an agreement under *paragraph (*a*)* as may, with the consent of the Minister for Public Expenditure and Reform, be determined by the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(2), commenced on enactment.
+
+### 30. Application of sections 2 and 2A of Financial Emergency Measures in the Public Interest Act 2010
+
+**30**. (1) Subject to *subsection (2)*, sections 2, 2A, 3, 5 and 6 of the Act of 2010 shall, subject to any necessary modifications, apply to a person who, after the relevant date within the meaning of that Act, becomes entitled to payment of superannuation benefits under a scheme made under *section 28*, in the same manner as it applies to a pensioner within the meaning of that Act.
+
+(2) Subsection (3) of section 2A (inserted by section 5(5) of the Financial Emergency Measures in the Public Interest Act 2013) of the Act of 2010 shall apply to a person who, not later than—
+
+(*a*) 31 August 2014, or
+
+(*b*) such other date as may be specified in accordance with section 9(1)(*b*)(ii) of the Financial Emergency Measures in the Public Interest Act 2013,
+
+becomes entitled to payment of superannuation benefits under a scheme made under *section 28*—
+
+(i) the aggregate of which exceeds €32,500 a year, or
+
+(ii) the aggregate of which when added to any public service pension within the meaning of the Act of 2010 to which the person is also entitled exceeds €32,500 a year,
+
+and, for that purpose, references in that subsection to relevant (post 29 February 2012) pensioner shall be construed as including references to such a person.
+
+(3) In this section—
+
+“Act of 2010” means the Financial Emergency Measures in the Public Interest Act 2010;
+
+“superannuation benefit” does not include—
+
+(*a*) any lump sum payment, or
+
+(*b*) any pension, gratuity or other allowance payable on resignation, retirement or death in respect of a period of reckonable service that is not a period of reckonable service to which *paragraph (*b*)* or *(*c*)* of *subsection (7)* of *section 28* applies.
+
+### 31. Performance of functions by local authorities on behalf of Irish Water
+
+**31**. (1) Irish Water may make an agreement with a local authority for the performance on behalf of Irish Water by that local authority of such functions of Irish Water as may be specified in the agreement.
+
+(2) The Minister may, by direction in writing, require Irish Water and a local authority to make an agreement with one another for the performance on behalf of Irish Water by that local authority of such functions of Irish Water as may be specified in the direction.
+
+(3) Both Irish Water and a local authority to whom a direction under *subsection (2)* is given shall comply with that direction.
+
+(4) (*a*) Subject to *paragraph (*b*)*, an agreement under *subsection (1)* or *(2)* shall cease to have effect 12 years after its making.
+
+(*b*) Provision may be made in an agreement under *subsection (1)* or *(2)* in relation to its termination before the expiration of the period specified in *paragraph (*a*)*.
+
+(5) Irish Water and a local authority may make a further agreement or agreements in respect of any period after the expiration of an agreement between them first made under *subsection (1)*.
+
+(6) Irish Water and each local authority with whom it has made an agreement to which *subsection (1)* or *(2)* applies shall—
+
+(*a*) not later than 2 years after the making of the agreement conduct a review of the operation of the agreement, and
+
+(*b*) not later than 7 years after the making of the agreement conduct a further review of the operation of the agreement.
+
+(7) Without prejudice to the generality of *subsections (1)*, *(2)* and *(5)* an agreement to which any of those subsections applies may include provision in relation to the following:
+
+(*a*) the reimbursement of the local authority by Irish Water in respect of expenditure incurred by the local authority in the performance of functions pursuant to the agreement;
+
+(*b*) standards that the local authority shall meet in the performance of those functions;
+
+(*c*) the resolution of disagreements between the local authority concerned and Irish Water in relation to the performance of those functions; and
+
+(*d*) the performance by a local authority of functions of Irish Water in, or in relation to, the administrative area (within the meaning of the Act of 2001) of another local authority.
+
+(8) The functions of Irish Water shall be performable on behalf of Irish Water by a local authority with whom it has made an agreement under *subsection (1)* or *(5)* or pursuant to a direction under *subsection (2)*—
+
+(*a*) in accordance with that agreement (including any limitations specified in the agreement as to the area, period in which, or extent to which the local authority shall perform those functions), and
+
+(*b*) for the period only in respect of which the agreement remains in effect.
+
+(9) A provision of or under this Act or any other enactment (whether passed or made before or after the passing of this Act) that vests functions in Irish Water or regulates the manner in which any function is to be performed shall have effect, for the purposes of the performance of that function by the local authority in accordance with *subsection (8)*, and references in any such provision to Irish Water shall for the purposes of the performance of the function by the local authority be construed as including references to the local authority.
+
+### 32. Codes of practice
+
+**32**. (1) Irish Water shall, as soon as practicable after the transfer day, prepare and submit to the Commission a code or codes of practice in accordance with this section.
+
+(2) A code of practice under this section shall make provision in relation to the following:
+
+(*a*) standards in relation to the performance by Irish Water of its functions;
+
+(*b*) billing by Irish Water of persons in respect of water services provided;
+
+(*c*) methods of payment of water charges;
+
+(*d*) the provision of information to customers of Irish Water for the purposes of enabling customers to communicate with Irish Water;
+
+(*e*) the making of complaints to Irish Water by customers in relation to the provision of water services, the standards of such F25[services, a notice under section 53D(1) (inserted by section 11 of the Water Services Act 2017) of the Act of 2007 or the contesting] of the amount of a charge;
+
+F26[(*ee*) the making of complaints to Irish Water by persons in relation to a refund under section 3C (inserted by section 22 of the Water Services Act 2017) of the Water Services Act 2014;]
+
+F27[(*ef*) the making of complaints to Irish Water by customers in relation to an allowance under section 53E (inserted by section 12 of the Water Services Act 2017);]
+
+F28[(*eg*) the making of complaints to Irish Water by customers in relation to an exemption under section 53F (inserted by section 13 of the Water Services Act 2017);]
+
+(*f*) the recording of matters to which *paragraph (*e*)* relates including retention of records to which that paragraph relates;
+
+(*g*) any other matters that the Commission considers necessary and appropriate to secure the interests of customers of Irish Water.
+
+(3) The Commission may—
+
+(*a*) approve a code of practice under this section with or without modification, or
+
+(*b*) refuse to approve such a code of practice.
+
+(4) Irish Water shall publish a code of practice approved under this section on the internet.
+
+(5) The Commission may direct Irish Water to comply with a code of practice approved under this section or a provision of a code of practice so approved.
+
+(6) Irish Water shall comply with a direction under *subsection (5)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 17(*a*), S.I. No. 511 of 2017.
+>
+> F26: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 17(*b*), S.I. No. 511 of 2017.
+>
+> F27: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 17(*c*), S.I. No. 511 of 2017.
+>
+> F28: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 17(*d*), S.I. No. 511 of 2017.
+
+### 32A. Water services policy statement
+
+F29[**32A.** (1) The Minister shall prepare a statement, in this Act referred to as a "water services policy statement", which shall be prepared—
+
+(*a*) in respect of the first statement, not later than 6 months after the coming into operation of this section, and
+
+(*b*) in respect of each subsequent statement, from time to time as determined by the Minister.
+
+(2) A water services policy statement shall contain information concerning the policy objectives and priorities of the Government regarding the provision of water services in the State for such period as may be specified in the statement.
+
+(3) In preparing the water services policy statement the Minister shall have regard to—
+
+(*a*) the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003) and in particular any river basin management plans for the time being in force made under Regulation 13 of those Regulations,
+
+(*b*) for the purpose of section 5(*d*) of the Act of 2007, the most recent report prepared by the Agency under section 58 of the Act of 1992,
+
+(*c*) for the purpose of section 5(*g*) of the Act of 2007, any regulations made under section 59 of the Act of 1992,
+
+(*d*) the most recent report prepared by the Agency under section 61 of the Act of 1992,
+
+(*e*) the need to prevent or abate risks to human health or the environment in the provision of water services,
+
+(*f*) any policy of the Government relating to spatial planning objectives,
+
+(*g*) any policy of the Government relating to promotion of economic development, and
+
+(*h*) the need for efficiency and cost-effectiveness in the provision of water services.
+
+(4) As soon as may be after the preparation of a water services policy statement the Minister shall cause a copy of the statement to be laid before each House of the Oireachtas.
+
+(5) The Minister shall publish, on a website maintained by the Minister, a water services policy statement as soon as may be after it has been laid under *subsection (4)*.
+
+(6) In this section, "Act of 1992" means the Environmental Protection Agency Act 1992.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 18, S.I. No. 511 of 2017.
+>
+> **Editorial Notes:**
+>
+> E38: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 33. Water services strategic plan
+
+**33**. (1) Irish Water shall—
+
+(*a*) after consultation with the Commission, the Agency, each local authority and each regional body, and
+
+(*b*) not later than such date as the Minister may direct,
+
+prepare and submit to the Minister a plan (in this Part referred to as a “water services strategic plan”) in accordance with this section.
+
+(2) Irish Water may—
+
+(*a*) after consultation with the Commission, the Agency, each local authority and each regional body, and
+
+(*b*) at any time during the period to which a water services strategic plan approved under this section relates,
+
+prepare and submit to the Minister a plan (in this Part also referred to as a “water services strategic plan”) amending or replacing the first-mentioned water services strategic plan.
+
+(3) A water services strategic plan shall be in such form as the Minister shall direct.
+
+(4) A water services strategic plan shall state the objectives of Irish Water in relation to the provision by it of water services in respect of the period of 25 years following the approval of the plan by the Minister under this section and the means by which it proposes to achieve those objectives, including in relation to—
+
+(*a*) drinking water quality,
+
+(*b*) the prevention or abatement of risks to human health or the environment relating to the provision of water services,
+
+(*c*) the existing and projected demand for water services,
+
+(*d*) existing and planned arrangements for the provision of water services by Irish Water,
+
+(*e*) existing and reasonably foreseeable deficiencies in the provision of water services by Irish Water,
+
+(*f*) existing and planned water conservation measures,
+
+(*g*) the management of the property of Irish Water.
+
+(5) Irish Water shall, when preparing a water services strategic plan—
+
+(*a*) ensure, as far as practicable, that the plan is consistent with—
+
+(i) the F30[National Planning Framework],
+
+(ii) F31[any regional spatial and economic strategy for the time being in force], and
+
+(iii) any river basin management plans under regulation 13 of the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003) for the time being in force,
+
+and
+
+(*b*) have regard to—
+
+F32[(i) proper planning and sustainable development in line with any development plans within the meaning of the Act of 2024, in particular with the integrated overall strategy and the objectives of the development plan within the meaning of Chapter 5 of Part 3 of that Act,
+
+(ii) housing strategies within the meaning of section 94 of the Act of 2000 or Part 7 of the Act of 2024,]
+
+(iii) special amenity area orders within the meaning of the Act of 2000,
+
+(iv) strategic development zones within the meaning of Part IX of the Act of 2000,
+
+(v) water quality management plans under section 15 of the Local Government (Water Pollution) Act 1977,
+
+(vi) waste management plans under section 22 of the Waste Management Act 1996, and
+
+(vii) such other matters as the Minister may direct.
+
+(6) The Minister shall, not later than 3 months after a water services strategic plan is submitted to him or her under this section—
+
+(*a*) approve the plan (with or without modification), or
+
+(*b*) refuse to approve the plan and require Irish Water to submit to him or her a revised water services strategic plan within such period as he or she directs.
+
+(7) The Minister shall, as soon as practicable after he or she has approved (with or without modification) a water services strategic plan cause a copy of it to be laid before each House of the Oireachtas.
+
+(8) As soon as practicable after the Minister has approved a water services strategic plan, Irish Water shall publish the plan on the internet.
+
+(9) Where a water services strategic plan is approved under this section, Irish Water shall—
+
+(*a*) not later than 5 years after the approval, and
+
+(*b*) not later than 5 years after the most recent review under this subsection,
+
+conduct a review of the implementation and operation of the plan.
+
+(10) An application for permission under Part III of the Act of 2000 shall not be refused by a planning authority or An Bord Pleanála solely on the ground that the development to which the application relates is not referred to in the water services strategic plan for the time being in force, provided that the planning authority or An Bord Pleanála, as the case may be, considers that the development will facilitate the achievement of the objectives of that plan.
+
+(11) In considering a proposed development under section 179 of the Act of 2000 a local authority shall not decide that the development should not be proceeded with solely on the grounds that the said development is not specifically referred to in the water services strategic plan in force if the authority considers the development will facilitate the achievement of the objectives of the water services strategic plan.
+
+(12) F33[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 18(2) and sch. 3 ref. 17, commenced on enactment.
+>
+> F31: Substituted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 452 of 2025, art. 3(3) and sch. part 3 item 7(c).
+>
+> F32: Substituted (31.12.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 10(a), (b).
+>
+> F33: Deleted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 18(2) and sch. 3 ref. 18, commenced on enactment.
+>
+> F34: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> F35, F36: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: subss. (5)(b)(iii), (iv) substituted, (10), (11) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> F34[(iii) special amenity area orders within the meaning of the Act of 2024,
+>
+> (iv) strategic development zones within the meaning of the Act of 2024, urban development zones within the meaning of that Act and a candidate UDZ within the meaning of Part 22 of that Act,]
+>
+> ...
+>
+> (10) An application for permission under Part III of the Act of 2000 F35[, an application for permission under Chapter 3 or 4 of Part 4 of the Act of 2024 or a request for an alteration of the terms or extension of the duration of a permission under Chapter 5 of Part 4 of that Act] shall not be refused by a planning authority or An Bord Pleanála solely on the ground that the development to which the application relates is not referred to in the water services strategic plan for the time being in force, provided that the planning authority or An Bord Pleanála, as the case may be, considers that the development will facilitate the achievement of the objectives of that plan.
+>
+> (11) In considering a proposed development under section 179 of the Act of 2000 F36[or section 159 of the Act of 2024] a local authority shall not decide that the development should not be proceeded with solely on the grounds that the said development is not specifically referred to in the water services strategic plan in force if the authority considers the development will facilitate the achievement of the objectives of the water services strategic plan.
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: subs. (5)(b)(i) amended (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 62, commenced on enactment; substituted (31.12.2025) as per F-note above.
+
+### 34. Investment plans
+
+**34**. (1) Irish Water shall—
+
+(*a*) not later than 4 weeks after the transfer day, and
+
+(*b*) before the end of the year in which the most recent investment plan expires,
+
+make a plan (in this Act referred to as an “investment plan”) in accordance with this section.
+
+(2) The investment plan first made after the transfer day shall apply in respect of the period commencing on the date of the making of the plan and ending on 31 December 2015.
+
+(3) Each investment plan made subsequent to the investment plan first made after the transfer day shall apply in respect of such period as the Commission determines.
+
+(4) An investment plan shall set out and particularise the investment in water services infrastructure that Irish Water considers necessary for the effective performance by it of its functions.
+
+(5) Irish Water shall, in making an investment plan, take account of—
+
+(*a*) the water services strategic plan,
+
+(*b*) any river basin management plans under regulation 13 of the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003) for the time being in force,
+
+F37[(*c*) any local area plans continued in force under section 81 of the Act of 2024 or any urban area plan, priority area plan or coordinated area plan under Chapter 6 of Part 3 of the Act of 2024 for the time being in force,
+
+(*d*) any development plans within the meaning of the Act of 2024,]
+
+F38[(*e*) any regional spatial and economic strategy, and]
+
+(*f*) any strategic development zones within the meaning of Part IX of the Act of 2000 to which the plan relates.
+
+(6) Irish Water shall, before preparing an investment plan, consult with—
+
+(*a*) the Agency,
+
+(*b*) each regional body in respect of whose functional area the investment plan is likely to apply, and
+
+(*c*) each planning authority in respect of whose functional area the investment plan is likely to apply.
+
+(7) Irish Water shall, for the purposes of enabling the Minister to make a decision in relation to the making of a grant under *section 36*, provide the Minister with the most recent investment plan.
+
+(8) Irish Water shall, when submitting a water charges plan to the Commission under *section 22*, provide the Commission with the most recent investment plan.
+
+(9) Irish Water shall, as soon as practicable after the approval of a water charges plan under *section 22*, provide a copy of the most recent investment plan to each regional body and each planning authority in respect of whose functional area the investment plan applies.
+
+(10) In this section “functional area” has, in relation to a planning authority, the same meaning as it has in the Act of 2000.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Substituted (31.12.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 10(c), (d).
+>
+> F38: Substituted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, S.I. No. 452 of 2025, art. 3(3) and sch. part 3 item 7(d).
+>
+> F39, F40: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subss. (5)(f) substituted, (10) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 40, not commenced as of date of revision.
+>
+> F40[(*f*) any strategic development zones within the meaning of the Act of 2024, any urban development zones within the meaning of that Act and any candidate UDZ within the meaning of Part 22 of that Act to which the plan relates.]
+>
+> ...
+>
+> (10) In this section “functional area” has, in relation to a planning authority, the same meaning as it has in F39[section 2 of the Act of 2024].
+
+### 34A. Strategic funding plan
+
+F41[**34A.** (1) Irish Water shall prepare and submit to the Minister a plan, in this Act referred to as a "strategic funding plan" which shall specify the arrangements that Irish Water proposes to make and measures that it proposes to take to implement the objectives of the water services strategic plan.
+
+(2) Irish Water shall submit a strategic funding plan to the Minister as soon as may be, and in any case, not more than 3 months after the Minister publishes a water services policy statement under *section 32A(5)* (inserted by section 18 of the Water Services Act 2017).
+
+(3) A strategic funding plan shall specify Irish Water’s opinion as to the following matters for the duration of the water charges plan:
+
+(*a*) costs likely to be incurred in the provision of water services to dwellings and in the recovery of those costs;
+
+(*b*) costs likely to be incurred in the provision of water services to premises other than dwellings and in the recovery of those costs;
+
+(*c*) estimated income of Irish Water;
+
+(*d*) estimated operating expenditure and capital expenditure of Irish Water.
+
+(4) The Minister shall, not later than one month after a strategic funding plan is submitted to him or her under this section—
+
+(*a*) approve the plan (with or without modification), or
+
+(*b*) refuse to approve the plan and require Irish Water to submit to him or her a revised strategic funding plan within such period as he or she directs.
+
+(5) The Minister shall, as soon as practicable after he or she has approved (with or without modification) a strategic funding plan—
+
+(*a*) cause a copy of it to be laid before each House of the Oireachtas,
+
+(*b*) furnish a copy of it to the Commission, and
+
+(*c*) publish the plan on a website maintained by the Minister.
+
+(6) A reference in this section to the water charges plan means a reference to the water charges plan being prepared by Irish Water under *section 22*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 19, S.I. No. 511 of 2017.
+>
+> **Editorial Notes:**
+>
+> E40: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 35. Borrowing by Irish Water
+
+**35**. (1) (*a*) F42[Uisce Éireann may, for the purposes of the *Water Services Acts 2007 to 2022* and with the consent of the Minister, the Minister for Finance] and the Minister for Public Expenditure and Reform, borrow money (including money in a currency other than the currency of the State) from such persons as it considers appropriate, whether by means of the issue of debentures (or other debt security) or otherwise.
+
+(*b*) The aggregate of moneys standing borrowed under this subsection at any one time shall not exceed €2 billion.
+
+(2) For the purposes of this section, moneys borrowed in a currency other than the currency of the State shall be deemed to be the equivalent in the currency of the State of the actual moneys borrowed, such equivalent being calculated at the rate of exchange prevailing at the time of the borrowing for that currency and the currency of the State.
+
+(3) F43[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Substituted (1.01.2023) by *Water Services (Amendment) Act 2022* (30/2022), s. 30(*b*), S.I. No. 678 of 2022.
+>
+> F43: Repealed (1.01.2023) by *Water Services (Amendment) Act 2022* (30/2022), s. 4(2), S.I. No. 678 of 2022.
+
+### 36. Grants by Minister
+
+**36**. (1) The Minister may, for the purposes of this Act and subject to such conditions as he or she may determine, make grants out of moneys provided by the Oireachtas to—
+
+(*a*) Irish Water, or
+
+(*b*) the Commission.
+
+F44[(1A) Without prejudice to the generality of *subsection (1)*, the Minister may, subject to such conditions as he or she sees fit in each financial year, make grants to Irish Water to such extent as may be sanctioned by the Minister for Public Expenditure and Reform out of moneys provided by the Oireachtas towards the expenditure incurred by Irish Water in the provision of water services to a dwelling.]
+
+(2) The Minister shall, before deciding—
+
+(*a*) whether or not to make a grant under this section to Irish Water, or
+
+(*b*) the amount of such grant,
+
+consider the investment plan provided to him or her in accordance with *subsection (7)* of *section 34*.
+
+F45[(2A) Without prejudice to the generality of *subsection (2)*, before deciding whether or not to make a grant under this section for the purposes referred to in *subsection (1A)*, the Minister shall also consider each of the following matters:
+
+(*a*) the most recent water charges plan approved by the Commission under *section 22(8)*;
+
+(*b*) the most recent strategic funding plan approved by the Minister under *section 34A* (inserted by section 19 of the Water Services Act 2017);
+
+(*c*) payments required to be made by Irish Water under section 3C (inserted by section 22 of the Water Services Act 2017) of the Water Services Act 2014 and the costs incurred by Irish Water in the administration of those payments;
+
+(*d*) the need to ensure the recovery of costs incurred in the provision of water services in accordance with Article 9 of the EU Water Framework Directive;
+
+(*e*) the environmental objectives of the EU Water Framework Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 20(*a*), S.I. No. 511 of 2017.
+>
+> F45: Inserted (17.11.2017) by *Water Services Act 2017* (29/2017), s. 20(*b*), S.I. No. 511 of 2017.
+
+### 37. Advances out of Central Fund
+
+**37**. The Minster for Finance may, for the purposes of this Act and subject to such conditions as he or she may determine, advance moneys out of the Central Fund or the growing produce thereof to Irish Water.
+
+### 38. Authorised persons
+
+**38**. (1) The Act of 2007 is amended—
+
+(*a*) by the insertion, in paragraph (*a*) of the definition of authorised person in subsection (1) of section 2, of “Irish Water,” after “the Minister,”, and
+
+(*b*) in section 22, by the insertion—
+
+(i) in subsection (1), of “Irish Water” after “The Minister,”,
+
+(ii) in paragraph (*c*) of subsection (2), of “Irish Water,” after “the Minister,”, and
+
+(iii) in paragraph (*c*) of subsection (7), of “Irish Water,” after “authorised person,”.
+
+(2) For the avoidance of doubt, a person who, immediately before the transfer day stood appointed to be an authorised person for the purposes of the Act of 2007 shall, on and after that day, continue to stand so appointed.
+
+## PART 5 Economic Regulation — PART 5 — Economic Regulation
+
+### 39. Performance of functions of Commission
+
+**39**. (1) The Commission shall perform its functions in a manner that best serves the interests of customers of Irish Water.
+
+(2) The Commission shall, in the performance of its functions under this Act, have regard to the need to ensure—
+
+(*a*) that the customers of Irish Water are provided with the quality of service provided for in a code of practice approved under *section 32*,
+
+(*b*) that water services are provided by Irish Water in an economical and efficient manner,
+
+(*c*) that Irish Water operates in a commercially viable manner,
+
+(*d*) the conservation of water resources,
+
+(*e*) the continuity, safety, security, and sustainability of water services,
+
+(*f*) that Irish Water can meet all reasonable demands for water both current and forseeable,
+
+(*g*) the recovery of costs of water services in accordance with Article 9 of the EU Water Framework Directive,
+
+(*h*) that Irish Water performs its functions in a manner that will enable the achievement by the State of the environmental objectives of that Directive,
+
+(*i*) that Irish Water performs its functions in an open and transparent manner.
+
+### 40. Advisory role of Commission
+
+**40**. The Commission shall advise the Minister in relation to the development and delivery of water services.
+
+### 41. Strategy statement
+
+**41**. (1) The Commission shall—
+
+(*a*) not later than 6 months after the commencement of this section, prepare and submit to the Minister a strategy statement in respect of the period of 3 years immediately following the year in which the strategy statement is so submitted, and
+
+(*b*) not later than 3 months before each third anniversary of the submission to the Minister in accordance with this subsection of the strategy statement for the time being in effect, prepare and submit to the Minister a strategy statement in respect of the period of 3 years immediately following the year in which it is so submitted.
+
+(2) The Minister shall, as soon as practicable after a strategy statement has been submitted to him or her under *subsection (1)*, cause a copy thereof to be laid before each House of the Oireachtas.
+
+(3) The Commission shall, as soon as practicable after copies of a strategy statement are laid before both Houses of the Oireachtas in accordance with *subsection (2)*, arrange for the strategy statement to be published on the internet.
+
+(4) In this section “strategy statement” means a statement that—
+
+(*a*) specifies the key objectives, outputs and related strategies, including use of resources, of the Commission in relation to the performance of its functions under this Act, and
+
+(*b*) is prepared in a form and manner that is in accordance with any directions issued from time to time by the Minister.
+
+### 42. Directions to Commission
+
+**42**. (1) The Minister may, from time to time and after having considered any representations made to him or her in accordance with an invitation under *subsection (4)*, give to the Commission such direction of a general policy nature as he or she considers appropriate.
+
+(2) The Commission shall comply with a direction under this section.
+
+(3) The Commission shall, upon the request of the Minister, provide the Minister with a report in writing of the measures (including the expenditure incurred by it as a result of such measures) that it has taken to comply with a direction under this section.
+
+(4) The Minister shall, before giving a direction under this section—
+
+(*a*) give a draft of the proposed direction to—
+
+(i) the Commission, and
+
+(ii) the Joint Committee referred to in paragraph 26 of Schedule 1 to the Electricity Regulation Act 1999,
+
+and invite those persons to make representations, in writing, in relation thereto within such period (being not less than 30 days from the giving of the draft to the Commission or publication of the draft under *paragraph (*b*)*, whichever occurs later) as is specified in the notice referred to in *paragraph (*b*)*, and
+
+(*b*) publish—
+
+(i) the draft and the reasons for the Minister’s proposing to give the direction concerned in *Iris Oifigiúil*, and
+
+(ii) a notice inviting the making of representations by interested persons in relation to the draft within such period (being not less than 30 days from the giving of the draft to the Commission under *paragraph (*a*)* or publication of the draft under this paragraph, whichever occurs later) as is specified in the notice.
+
+(5) Where the Minister proposes to give a direction under this section, he or she may consult in relation thereto with such other Ministers of the Government as he or she considers appropriate.
+
+(6) The Minister shall arrange for the publication in *Iris Oifigiúil* of each direction given by him or her under this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E41: Cessation of household water allowance outlined in direction on water charges policy made under section provided (28.12.2014) by *Water Services Act 2014* (44/2014), s. 3(11), commenced on enactment.
+
+### 43. Information and cooperation
+
+**43**. (1) The Commission may, from time to time, request Irish Water to provide the Commission with such information as the Commission may reasonably require to enable it to perform its functions under this Act.
+
+(2) Irish Water shall, as soon as reasonably practicable, comply with a request under *subsection (1)*.
+
+(3) The Commission shall, in so far as is consistent with the proper performance of its functions, endeavour to secure administrative cooperation between it and the Agency and for that purpose, the Commission shall enter into an arrangement with the Agency for the purposes of—
+
+(*a*) facilitating cooperation between the Commission and the Agency in the performance of their respective functions in so far as they relate to water services,
+
+(*b*) avoiding duplication of activities by the Commission and the Agency,
+
+(*c*) ensuring, as far as practicable, that the Commission and the Agency cooperate in a manner that best promotes the interests of consumers and the efficient provision of water services, and
+
+(*d*) ensuring, as far as practicable, consistency between decisions made or measures taken by the Commission and the Agency in relation to water services.
+
+(4) An arrangement under this section shall not operate to bind the Commission or the Agency.
+
+(5) The Commission and the Agency may make an arrangement varying the terms of an arrangement under this section (including an arrangement under this subsection).
+
+(6) The Commission shall give the Minister a copy of an arrangement under this section.
+
+(7) An arrangement under this section shall not operate to require a party to the arrangement to provide information to the other party to the arrangement if the disclosure of that information by the first-mentioned party is prohibited by law.
+
+## PART 6 Amendment of Certain Enactments — PART 6 — Amendment of Certain Enactments
+
+### 44. Amendment of Act of 1999
+
+**44**. (1) Section 11 of the Act of 1999 is amended—
+
+(*a*) in subsection (1) by substituting “, or Bord Gáis Éireann or Irish Water.” for “or Bord Gáis Éireann.”,
+
+(*b*) in subsection (4)—
+
+(i) after “its functions under this Act” by inserting “, the *Water Services (No.2) Act 2013*”, and
+
+(ii) in paragraph (bb) after “this Act” by inserting “, the *Water Services (No.2) Act 2013*”.
+
+(2) Section 13 of the Act of 1999 is amended in subsection (1A) by substituting “the Gas (Interim) (Regulation) Act 2002 or the *Water Services (No.2) Act 2013*.” for “or the Gas (Interim) Regulation Act, 2002.”.
+
+(3) Schedule 1 to the Act of 1999 is amended—
+
+(*a*) in paragraph 1, by substituting “as the Minister, following consultation with the Minister for the Environment, Community and Local Government may fix,” for “as the Minister may fix,”,
+
+(*b*) by inserting the following paragraph after paragraph 10:
+
+“10A. The Minister shall, where he or she receives a request from the Commission in relation to staffing or other resources required by the Commission in relation to the performance of its functions under the *Water Services (No.2) Act 2013*, consult with the Minister for the Environment, Community and Local Government.”,
+
+(*c*) by inserting the following paragraph after paragraph 16:
+
+“16A. For the purposes of meeting expenses properly incurred by the Commission in the discharge of its functions under the *Water Services (No.2) Act 2013* the Commission may make an order (in this Act referred to as a ‘levy order’) imposing such levy to be paid each year by Irish Water as may be specified by the Commission in the order.”,
+
+(*d*) in paragraph 18, by substituting “paragraph 16 or 16A” for “paragraph 16”,
+
+(*e*) in paragraph 19, by substituting “paragraph 16 or 16A” for “paragraph 16”,
+
+(*f*) by inserting the following paragraph after paragraph 21:
+
+“21A. The Minister for the Environment, Community and Local Government may from time to time, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, advance to the Commission out of moneys provided by the Oireachtas such sums as the Minister for the Environment, Community and Local Government may determine for the purposes of expenditure by the Commission in the performance of its functions under the *Water Services (No.2) Act 2013*.”,
+
+(*g*) in paragraph 22, by substituting “paragraphs 21 and 21A” for “paragraph 21”,
+
+(*h*) by inserting the following paragraph after paragraph 23:
+
+“23A. Paragraph 23 shall apply to advances made to the Commission by the Minister for the Environment, Community and Local Government under paragraph 21A as if those advances had been made by the Minister under paragraph 21.”,
+
+(*i*) by substituting the following paragraph for paragraph 24:
+
+“24. (*a*) The Commission may, for the purpose of the performance of its functions, borrow money, but shall not do so without the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(*b*) The Minister shall consult with the Minister for the Environment, Community and Local Government, prior to giving his or her consent under subparagraph (*a*) in relation to a proposal to borrow money for the performance of the Commission’s functions under the Water Services (No.2) Act 2013.”,
+
+and
+
+(*j*) in paragraph 25—
+
+(i) by substituting the following subparagraph for subparagraph (aa):
+
+“(aa) ensure, as far as is reasonably practicable, that such accounts identify separately in regard to the gas, LPG, electricity, water and petroleum sectors all elements of cost and revenue, with the basis of their calculation and the detailed attribution methods used, related to the discharge of the Commission’s functions under this Act and the *Water Services (No.2) Act 2013*.”,
+
+and
+
+(ii) by substituting the following subparagraph for subparagraph (*c*):
+
+“(*c*) not later than 30 November in each year make a report to the Minister and the Minister for the Environment, Community and Local Government in relation to its proposed work programme for the following year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas as soon as practicable.”.
+
+(4) In this section “Act of 1999” means the Electricity Regulation Act 1999.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: References to “Bord Gáis Éireann” or “The Irish Gas Board” construed as Ervia (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), ss. 8 (1),(2), S.I. No. 286 of 2014.
+
+### 45. Amendment of Act of 2007
+
+**45**. (1) Section 9 of the Act of 2007 is amended—
+
+(*a*) in subsection (1) by deleting “(whether or not the offence is committed in its functional area)”, and
+
+(*b*) by deleting subsection (2).
+
+(2) Section 11 of the Act of 2007 is amended—
+
+(*a*) in subsection (1) by deleting—
+
+(i) “which brought the prosecution, or person specified under regulations made under section 9(2) as the case may be”, and
+
+(ii) “or other person”,
+
+and
+
+(*b*) in subsection (2) by deleting “or person specified under regulations made under section 9(2)”.
+
+(3) Section 31 of the Act of 2007 is amended—
+
+(*a*) in subsection (2)—
+
+(i) by deleting “Subject to regulations made under subsection (3),” and “in its functional area”, and
+
+(ii) in paragraph (*a*) by deleting “in its functional area”,
+
+(*b*) in subsection (5) by deleting “in part or all of its functional area”,
+
+(*c*) in subsection (12) by deleting—
+
+(i) “other than with a group water services scheme or another water services authority”, and
+
+(ii) paragraph (*b*),
+
+and
+
+(*d*) by deleting subsections (1), (3), (7), (9), (11), (13), (14), (15), (16), (17), (18) and (20).
+
+(4) Section 32 of the Act of 2007 is amended—
+
+(*a*) in subsection (1)—
+
+(i) by deleting “, and shall when directed by the Minister,” and “, whether within or outside its functional area,”,
+
+(ii) in paragraph (*j*) by deleting “in part or all of its functional area or elsewhere as appropriate”, and
+
+(iii) in paragraph (l) by deleting “within its functional area”,
+
+and
+
+(*b*) by deleting subsections (2), (3), (4), (5), (7), (8), (9), (10), (11) and (12).
+
+(5) Section 41 of the Act of 2007 is amended—
+
+(*a*) in subsection (1), by substituting the following definition for the definition of “road authority”:
+
+“ ‘road authority’ means—
+
+(*a*) in the case of a toll road within the meaning of Part V of the Roads Act 1993, the National Roads Authority, and
+
+(*b*) in all other cases, a local authority within the meaning of the Act of 2001, other than a local authority referred to in Part 2 of Schedule 6 to that Act.”,
+
+and
+
+(*b*) by deleting subsections (13) and (14).
+
+(6) Section 42 of the Act of 2007 is amended—
+
+(*a*) in paragraph (*b*) of subsection (1) by deleting “in the functional area of the authority”, and
+
+(*b*) in paragraph (*b*) of subsection (2) by deleting “in the functional area of the authority”.
+
+(7) Section 44 of the Act of 2007 is amended in subsection (1) by deleting “in the functional area of a water services authority” and “of that area”.
+
+(8) Section 50 of the Act of 2007 is amended in subsection (2) by deleting “in its functional area”.
+
+(9) Section 54 of the Act of 2007 is amended in subsection (3) by deleting “, and shall on request from an authorised provider of water services or a person providing water services jointly with or on behalf of a water services authority or an authorised provider of water services in relation to a matter affecting a waterworks under his or her control,”.
+
+(10) Section 56 of the Act of 2007 is amended in subsection (16) by deleting “in all or part of its functional area”.
+
+(11) Section 58 of the Act of 2007 is amended in subsection (1)—
+
+(*a*) in paragraph (*a*) by deleting “serving any part of its functional area,”, and
+
+(*b*) by deleting paragraph (*b*).
+
+(12) Section 63 of the Act of 2007 is amended by deleting subsection (13).
+
+(13) Section 65 of the Act of 2007 is amended in subsection (3) by deleting “that granted it”.
+
+(14) Section 68 of the Act of 2007 is amended by deleting subsection (3).
+
+(15) Section 69 of the Act of 2007 is amended in subsection (5) by deleting “by which it was made”.
+
+(16) Section 70 of the Act of 2007 is amended in subsection (5) by substituting “when a leak” for “in whose functional area a leak”.
+
+(17) Section 73 of the Act of 2007 is amended by deleting subsection (2).
+
+(18) Section 92 of the Act of 2007 is amended by deleting subsection (3).
+
+(19) Section 93 of the Act of 2007 is amended in paragraph (*a*) of subsection (2) by deleting “to its functional area”.
+
+(20) Section 95 of the Act of 2007 is amended—
+
+(*a*) in subsection (1) by deleting “whether or not it is situated in its functional area,”,
+
+(*b*) in paragraph (*a*) of subsection (2) by deleting “whether within or outside its functional area”, and
+
+(*c*) by deleting subsection (3).
+
+(21) Section 97 of the Act of 2007 is amended by deleting subsection (6).
+
+(22) Section 98 of the Act of 2007 is amended in subsection (3) by deleting “in whose functional area the relevant pipes or accessories are situated”.
+
+(23) Section 104 of the Act of 2007 is amended by deleting subsection (10).
+
+(24) The amendments of the Act of 2007 effected by this section shall not have effect for the purposes of the operation of an excluded provision.
+
+### 46. Amendment of Act of 2013
+
+**46**. The Act of 2013 is amended—
+
+(*a*) in section 5 by substituting the following subsection for subsection (6):
+
+“(6) (*a*) The Board shall not alienate the share issued to it in accordance with subsection (4).
+
+(*b*) The Minister shall not alienate the shares issued to him or her in accordance with subsection (4).
+
+(*c*) The Minister for Finance shall not alienate the shares issued to him or her in accordance with subsection (4).”,
+
+(*b*) in section 18, by inserting “and the *Water Services (No. 2) Act 2013*” after “under this Act”, and
+
+(*c*) in subsection (2) of section 27, by substituting the following paragraph for paragraph (*b*):
+
+“(*b*) consult with the subsidiary, members of the public or such other persons as it considers appropriate in relation to the performance of any of its functions under this Act or the *Water Services (No. 2) Act 2013*.”.

@@ -1,0 +1,935 @@
+---
+title: "Urban Regeneration and Housing Act 2015"
+identifier: "eli/2015/act/33"
+type: act
+jurisdiction: ie
+language: en
+number: 33
+year: 2015
+date: 2015-07-28
+last_amended: 2025-12-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2015/act/33/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2015/act/33/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Urban Regeneration and Housing Act 2015
+
+An Act to make provision with respect to land in areas in which housing is required and in areas which are in need of renewal to prevent it lying idle or remaining vacant, to establish a register of vacant sites in those areas, to provide for a vacant sites levy, to amend the Derelict Sites Act 1990, to amend Parts II, III and V of the Planning and Development Act 2000, to amend the Housing (Miscellaneous Provisions) Act 2009 and to provide for related matters.
+
+[28 *th July*, 2015]
+
+**Be it enacted by the Oireachtas as follows:**
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of collectively cited *Planning and Development Acts* restricted (3.07.2017 for specified period to 31.12.2019 or up to 31.12.2021 if extended) by *Planning and Development (Housing) and Residential Tenancies Act 2016* (17/2016), s. 4(1), S.I. No. 270 of 2017.
+>
+> **Strategic housing developments and planning applications**
+>
+> 4\. (1) Subject to *subsection (4)*, during the specified period and notwithstanding anything to the contrary contained in any other provision of the *Planning and Development Acts 2000 to 2016*—
+>
+> (a) an application for permission for a strategic housing development shall—
+>
+> (i) be made to the Board under this section and not to a planning authority, other than an application for permission, the purpose of which is as set out in section 34(3A) of the Act of 2000,
+>
+> (ii) be so made only where *section 6 (7)(b)* applies or, in the case that a request is made under *section 7 (1)*, when the Board has complied with the request pursuant to *section 7 (2)*,
+>
+> (iii) be so made only where the applicant for permission has fulfilled the requirements set out in *section 8*,
+>
+> (iv) be in such form and contain such information as is prescribed, and
+>
+> (v) be accompanied by the appropriate fee, and
+>
+> (b) a copy of the application, shall be sent by the applicant to the planning authority or authorities in whose area or areas the proposed strategic housing development would be situated.
+>
+> ...
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation, construction and commencement
+
+**1.** (1) This Act may be cited as the Urban Regeneration and Housing Act 2015.
+
+(2) The Planning and Development Acts 2000 to 2014 and this Act may be cited together as the Planning and Development Acts 2000 to 2015 and shall be construed together as one.
+
+(3) This Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (3) exercised (1.09.2015) by *Urban Regeneration and Housing Act 2015 (Commencement) Order 2015* (S.I. No. 364 of 2015).
+>
+> 2\. The day appointed as the day on which the Urban Regeneration and Housing Act 2015 (No. 33 of 2015), other than section 34, comes into operation is 1 September 2015.
+
+### 2. Definitions
+
+**2.** In this Act—
+
+“Act of 2000” means Planning and Development Act 2000;
+
+“Act of 2010” means Planning and Development (Amendment) Act 2010;
+
+F1[“Act of 2024”means the Planning and Development Act 2024;]
+
+“Minister” means Minister for the Environment, Community and Local Government.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (31.12.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 12(a).
+
+## PART 2Vacant Site Levy — PART 2 — Vacant Site Levy
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to "Cathaoirleach" or "Cathaoirligh", "Leas-Chathaoirleach", "chief executive" and "deputy chief executive" construed (16.05.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), ss. 10, 23, 25, 26, 28 and sch. 1 parts 1, 2, S.I. No. 207 of 2024.
+>
+> **Functions of Mayor**
+>
+> **10.** (1) All functions (other than functions conferred by or under an enactment specified in Part 1 of Schedule 1) that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (2) All functions (other than functions conferred by or under an enactment specified in Part 2 of Schedule 1) that, immediately before the vesting day, vested in the chief executive of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (3) From the vesting day, a reference in any enactment (other than an enactment specified in Part 1 of Schedule 1) to Cathaoirleach shall, in so far as the reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (4) From the vesting day, a reference in any enactment (other than an enactment specified in Part 2 of Schedule 1) to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (5) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Príomh Chomhairleoir**
+>
+> **23.** (1) All functions conferred by or under an enactment specified in Part 1 of Schedule 1 that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Príomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in an enactment specified in Part 1 of Schedule 1 to Cathaoirleach or Cathaoirligh shall, in so far as that reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Príomh Chomhairleoir, or as including a reference to the Príomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Leas-Phríomh Chomhairleoir**
+>
+> **25.** (1) All functions conferred by or under any enactment that, immediately before the vesting day, vested in the Leas-Chathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Leas-Phríomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in any enactment to Leas-Chathaoirleach shall, in so far as that reference applies to the Leas-Chathaoirleach of Limerick City and County Council, be construed as a reference to the Leas-Phríomh Chomhairleoir, or as including a reference to the Leas-Phríomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> **Director general**
+>
+> **26.** (1) The chief executive of Limerick City and County Council shall, on and after the vesting day, be known as the director general of Limerick City and County Council and is in this Act referred to as the “director general”.
+>
+> (2) The person who, immediately before the vesting day, was the chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in an enactment specified in Part 2 of Schedule 1 to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the director general, or as including a reference to the director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Deputy director general**
+>
+> **28.** (1) On and after the vesting day, a deputy chief executive appointed by the director general under section 148 of the Principal Act shall be known as the deputy director general of Limerick City and County Council and is, in this Act, referred to as the “deputy director general”.
+>
+> (2) The person who, immediately before the vesting day, was the deputy chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in any enactment to deputy chief executive shall, in so far as the reference applies to the deputy chief executive of Limerick City and County Council, be construed as a reference to the deputy director general, or as including a reference to the deputy director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> Enactments for Purposes of Sections 10 and 23
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Provision<br>(2)</td><td>Extent of Modification<br>(3)</td></tr><tr><td>No. 37 of 2001</td><td>Local Government Act 2001</td><td>Sections 11(5)(b), 11(8), 31(4)(a), 31(5), 31(7), 31(9), 31(11), 33, 34(2)(e), 36, 37, 38, 104(7)(a), 133(6)(a), 134(4)(b), 140(8), 141(1)(b), 141(4), 142(2)(a), 142(5)(f), 143(1), 147, 148, 158(3), 174(8), 178(2)(b), 178(5), 180(3)(a), 189(9), 190(9), 216(2)(a), 219(1) and 220(1); paragraphs 3(4), 4(2), 4(3), 6(1), 6(2), 6(3), 7(9), 10, 13(5)(e), 13(6) and 16(4)(c) of Schedule 10; paragraph 3 of Schedule 14.</td></tr></table>
+>
+> PART 2
+>
+> Enactments for Purposes of Sections 10 and 26
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td><td>Provision<br>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 33 of 2015</td><td>Urban Regeneration and Housing Act 2015</td><td>Part 2</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Time periods in Part 2 construed by *Planning and Development Act 2000* (30/2000), s. 251A(1), as inserted (29.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 9, S.I. No. 100 of 2020, for temporary period initially ceased (20.04.2020) by S.I. No. 129 of 2020, secondly ceased (9.05.2020) by S.I. No. 131 of 2020, and further ceased (23.05.2020) by S.I. No. 165 of 2020.
+>
+> **[Calculation of time limits during emergency**
+>
+> **251A.** (1) Where calculating any appropriate period, specified period or other time limit referred to in the following Acts or provisions, or in any regulations made under those Acts or provisions, the period referred to in subsection (2) shall be disregarded: ...
+>
+> (d) Part 2 of the Urban Regeneration and Housing Act 2015;
+>
+> ...
+>
+> (2) The period to be disregarded under subsection (1) is the period beginning on the date section 9 of the Emergency Measures in the Public Interest (Covid-19) Act 2020 comes into operation and, subject to subsection (6), ending on the date that shall be specified by order under subsection (3) or that may be specified by order under subsection (4).
+>
+> …**]**
+
+### 3. Definitions (Part 2)
+
+**3.** In this Part—
+
+F2[“Board” means An Coimisiún Pleanála;]
+
+F3["core strategy" means a core strategy in—
+
+(a) a development plan—
+
+(i) continued in force by virtue of section 68 of the Act of 2024, or
+
+(ii) prepared, or varied, in accordance with section 69 of that Act, or
+
+(b) an integrated overall strategy under section 43 of that Act;]
+
+“housing” includes social and affordable housing;
+
+F4["housing strategy" has the same meaning as it has in section 2 of the Act of 2024;]
+
+F5["local area plan" means a plan continued in force by section 81 of the Act of 2024;]
+
+“market value”, in relation to a site, shall, other than in *section 21*, be construed in accordance with *section 12*;
+
+“owner” means—
+
+(a) in relation to land that is registered land within the meaning of the Registration of Title Act 1964, the registered owner, and
+
+(b) in relation to all other land, a person, other than a mortgagee not in possession, who, whether in his or her own right or as trustee or agent for any other person, is entitled to receive the rack rent of the land or, where the land is not let at a rack rent, would be so entitled if it were so let;
+
+F6[...]
+
+“register” has the meaning given to it by *section 6*;
+
+F7[“regeneration land” means land identified, after the coming into operation of *section 28*, by a planning authority—
+
+(a) in a development plan or local area plan made under the Act of 2000, in accordance with section 10(2)(h) of that Act, with the objective of development and renewal of areas in need of regeneration, and includes any structures on such land, or
+
+(b) in its development plan, priority area plan, coordinated area plan or urban area plan made under the Act of 2024, with the objective of development and renewal of areas in need of regeneration, and includes any structures on such land;]
+
+F7[“residential land” means land that is included by a planning authority—
+
+(a) in a development plan or local area plan under the Act of 2000 in accordance with section 10(2)(a) of that Act, or
+
+(b) in a development plan, priority area plan, coordinated area plan or urban area plan made under the Act of 2024,with the objective of zoning for use solely or primarily for residential purposes, and includes any structures on such land;]
+
+“Tribunal” means Valuation Tribunal;
+
+“vacant site” has the meaning given to it by *section 5*;
+
+“vacant site levy” has the meaning given to it by *section 15*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, S.I. 256 of 2025, art. 3(3) and sch. part 3 item 2.
+>
+> F3: Inserted (31.12.2025) by *Planning and Development (Amendment) Act 2025* (9/2025), s. 33(1), S.I. No. 634 of 2025.
+>
+> F4, F5: Inserted (31.12.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 12(d).
+>
+> F6: Deleted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 65(a), commenced on enactment.
+>
+> F7: Substituted (31.12.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, S.I. No. 633 of 2025, art. 3(3) and sch. part 3 item 12(b), (c).
+>
+> F8: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: definitions inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> F8[“functional area” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> F8[“habitable house” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> ...
+>
+> F8[“land” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> ...
+>
+> F8[“planning authority” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> ...
+>
+> F8[“structure” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> F8[“unauthorised development” has the same meaning as it has in section 2 of the Act of 2024;]
+>
+> F8[“unauthorised use” has the same meaning as it has in section 2 of the Act of 2024;]
+
+### 4. Application
+
+**4.** This Part applies to residential land or regeneration land.
+
+### 5. Vacant site
+
+**5.** (1) In this Part, a site is a vacant site if—
+
+(a) in the case of a site consisting of residential land—
+
+(i) the site is situated in an area in which there is a need for housing,
+
+(ii) the site is suitable for the provision of housing, and
+
+F9[(iii) the site, or the majority of the site is—
+
+(I) vacant or idle, or
+
+(II) being used for a purpose that does not consist solely or primarily of the provision of housing or the development of the site for the purpose of such provision, provided that the most recent purchase of the site occurred—
+
+(A) after it became residential land, and
+
+(B) before, on or after the commencement of section 63 of the Planning and Development (Amendment) Act 2018.]
+
+and
+
+(b) in the case of a site consisting of regeneration land—
+
+(i) the site, or the majority of the site, is vacant or idle, and
+
+(ii) the site being vacant or idle has adverse effects on existing amenities or reduces the amenity provided by existing public infrastructure and facilities (within the meaning of section 48 of the Act of 2000) in the area in which the site is situated or has adverse affects on the character of the area.
+
+(2) In this section—
+
+“site” means any area of land exceeding 0.05 hectares identified by a planning authority in its functional area but does not include any structure that is a person’s home;
+
+“home”, in relation to a person, means a dwelling in which the person ordinarily resides (notwithstanding any periods during which the dwelling is vacant) and includes any garden or portion of ground attached to and usually occupied with the dwelling or otherwise required for the amenity or convenience of the dwelling.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 63, commenced on enactment.
+>
+> F10: Substituted by *Planning and Development Act 2024* (34/2024), s.631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: sub. (1)(b)(ii) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> (ii) the site being vacant or idle has adverse effects on existing amenities or reduces the amenity provided by existing public infrastructure and facilities (within the meaning of F10[section 584 of the Act of 2024]) in the area in which the site is situated or has adverse affects on the character of the area.
+
+### 6. Register of vacant sites
+
+**6.** (1) Every planning authority shall, beginning on 1 January 2017, establish and maintain a register to be known as the vacant sites register (referred to in this Part as “the register”).
+
+(2) A planning authority shall enter on the register a description, including a map, of any site in its functional area which was, in the opinion of the planning authority, a vacant site for the duration of the 12 months preceding the date of entry.
+
+(3) The register shall be kept at the offices of the planning authority and shall be available for inspection at the offices of the planning authority during office hours and on the planning authority’s website.
+
+(4) A planning authority, or the Board on appeal, shall determine whether or not there was a need for housing in an area within the planning authority’s functional area for the purposes of this Part by reference to—
+
+(a) the housing strategy and the core strategy of the planning authority,
+
+(b) house prices and the cost of renting houses in the area,
+
+(c) the number of households qualified for social housing support in accordance with section 20 of the Housing (Miscellaneous Provisions) Act 2009 that have specified the area as an area of choice for the receipt of such support and any changes to that number since the adoption of the planning authority’s development plan, and
+
+(d) whether the number of habitable houses available for purchase or rent was less than 5 per cent of the total number of houses in the area.
+
+(5) A planning authority, or the Board on appeal, shall determine whether or not a site was suitable for the provision of housing for the purposes of this Part by reference to—
+
+(a) the core strategy,
+
+(b) whether the site was served by the public infrastructure and facilities (within the meaning of section 48 of the Act of 2000) necessary to enable housing to be provided and serviced, and
+
+(c) whether there was any thing affecting the physical condition of the land comprising the site which might affect the provision of housing.
+
+(6) A planning authority, or the Board on appeal, shall determine whether or not the site being vacant or idle has adverse effects on existing amenities or reduces the amenity provided by existing public infrastructure and facilities (within the meaning of section 48 of the Act of 2000) in the area in which the site is situated or has adverse affects on the character of the area for the purposes of this Part by reference to whether—
+
+(a) land or structures in the area were, or are, in a ruinous or neglected condition,
+
+(b) anti-social behaviour was or is taking place in the area, or
+
+(c) there has been a reduction in the number of habitable houses, or the number of people living, in the area,
+
+and whether or not these matters were affected by the existence of such vacant or idle land.
+
+(7) In determining for the purposes of this Part whether a site was vacant or idle for the duration of the 12 months concerned a planning authority, or the Board on appeal, shall not have regard to any unauthorised development or unauthorised use.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subss. (5)(b), (6) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> (b) whether the site was served by the public infrastructure and facilities (within the meaning of F11[section 584 of the Act of 2024]) necessary to enable housing to be provided and serviced, and
+>
+> ...
+>
+> (6) A planning authority, or the Board on appeal, shall determine whether or not the site being vacant or idle has adverse effects on existing amenities or reduces the amenity provided by existing public infrastructure and facilities (within the meaning of F11[section 584 of the Act of 2024]) in the area in which the site is situated or has adverse affects on the character of the area for the purposes of this Part by reference to whether—
+
+### 7. Procedure for entry on register
+
+**7.** (1) Before entering a site on the register a planning authority shall give written notice to the owner of the site setting out the reasons for the proposed entry and the owner may make submissions in respect of the proposed entry to the planning authority in writing within 28 days after the date of such notice.
+
+(2) Where a planning authority receives submissions in accordance with *subsection (1)* it shall consider those submissions and if it is of the opinion that the site was a vacant site for the duration of the 12 months concerned and continues to be a vacant site it shall enter the site on the register in accordance with *section 6(2)*.
+
+(3) The planning authority shall give written notice to the owner of a vacant site when it is entered on the register.
+
+(4) A notice under *subsection (3)* shall notify the owner that there shall be charged and levied for each year beginning with 2018 in respect of each vacant site in relation to which a market value has been determined and that stands entered on the register a levy in accordance with *section 15*.
+
+### 8. Entry on register
+
+**8.** A planning authority shall enter the following information on the register in respect of each vacant site—
+
+(a) in the case of a site referred to in *section 6(2)* that comprises registered land within the meaning of the Registration of Title Act 1964, the property ownership folio reference attaching to such land,
+
+(b) the name and address of the owner of the site referred to in *section 6(2)*,
+
+(c) particulars of the market value of the site referred to in *section 6(2)* as determined by the planning authority, or by the Tribunal on appeal, in accordance with *section 12*, and
+
+(d) such other information referred to in this Act as the Minister may prescribe F12[by regulations].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 65(b), commenced on enactment.
+
+### 9. Appeal against entry on register
+
+**9.** (1) The owner of a site that is entered on the register under *section 6(2)* may appeal against such entry to the Board within 28 days after the date of the notice given to him or her under *section 7(3)*.
+
+(2) On an appeal under this section the burden of showing that the site F13[was not a vacant site] for the duration of the 12 months concerned is on the owner of the site.
+
+(3) Where the Board determines that a site was not F13[a vacant site] for the duration of the 12 months concerned or was no longer a vacant site on the date on which the site was entered on the register in accordance with *section 6(2)* it shall give written notice to the planning authority who shall cancel the entry on the register in respect of that site.
+
+(4) Where the owner of a vacant site appeals under *subsection (1)* against the entry of a site on the register the entry shall not take effect until the appeal is finally determined.
+
+(5) Where an appeal under *subsection (1)* against an entry of a site on the register is unsuccessful or is withdrawn the entry shall be deemed to have effect from the date on which the site was entered under *section 6(2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 65(c), commenced on enactment.
+
+### 10. Obligation to owners to notify
+
+**10.** (1) The owner of a vacant site that stands entered on the register under *section 6(2)* shall notify the planning authority in whose functional area the site is located if it is no longer vacant or idle.
+
+(2) If, at any time, a planning authority is satisfied that a site that stands entered on the register under *section 6(2)* is no longer a vacant site it shall cancel the entry on the register in respect of that site.
+
+### 11. Notice to owners of sites on register
+
+**11.** (1) Every planning authority shall, before 1 June 2018, or such later date in that year as the Minister may specify by order, give a written notice to the owner of any vacant site that stands entered on the register on 1 January 2018—
+
+(a) stating that the site stands entered on the register,
+
+(b) setting out such matters as are entered in the register in respect of the site,
+
+(c) stating that there shall be charged and levied for each year beginning with 2018 in respect of each vacant site in relation to which a market value has been determined and that stands entered on the register a levy in accordance with *section 15*, and
+
+(d) informing the owner that he or she may make submissions in respect of the entry to the planning authority in writing within 28 days after the date of such notice.
+
+(2) Where a planning authority receives submissions in accordance with a notice under *subsection (1)* it shall consider those submissions and if it is satisfied that the site is no longer a vacant site it shall cancel the entry on the register in respect of that site.
+
+(3) Where a planning authority receives submissions in respect of a site in accordance with a notice under *subsection (1)* and after considering those submissions does not cancel the entry on the register in respect of the site it shall give written notice to the owner and the owner may appeal that decision to the Board within 28 days after the date of the notice.
+
+(4) On an appeal under this section the burden of showing that the site, or a majority of the site, is no longer a vacant site sh all be on the owner of the site.
+
+(5) Where the Board determines that a site is no longer a vacant site it shall give written notice to the planning authority who shall cancel the entry on the register in respect of that site.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (1) exercised (1.11.2018) by *Urban Regeneration and Housing Act 2015 (Section 11) Order 2018* (S.I. No. 374 of 2018), in effect as per art. 2.
+
+### 12. Market value of vacant site
+
+**12.** (1) A planning authority shall determine, as soon as may be after it is entered on the register, and at least once every 3 years thereafter, the market value of a vacant site by estimating or causing to be estimated the price which the unencumbered fee simple of such site would fetch if it was sold on the open market on the date of the determination in such manner and in such conditions as might reasonably be calculated to obtain for the vendor the best market price for the site.
+
+(2) The market value of the vacant site shall be estimated by the planning authority and it shall authorise a person it considerssuitably qualified for that purpose to inspect the site and report to it the value thereof and the person having possession or custody of the site shall permit the person so authorised to inspect at such reasonable times as the planning authority considers necessary.
+
+(3) Where a person authorised under *subsection (2)* is not permitted to inspect a property for the purposes of providing an estimate, he or she shall make an estimate of the market value of the site based on his or her knowledge of the site and property and the prevailing local market conditions.
+
+(4) Where the planning authority has determined the market value of a vacant site it shall enter particulars of the determination in the register (together with the date of entry in the register), and give written notice to the owner of the vacant site of the valuation or the revised valuation, as the case may be, which it has placed on the site and inform the owner of his or her right to appeal under *section 13*.
+
+### 13. Appeal of market value determination
+
+**13.** (1) The owner of a vacant site may appeal to the Tribunal against a determination made by a planning authority under *section 12(1)* within 28 days after the date of the notice given under *section 12(4)*.
+
+(2) The Tribunal shall hear and determine appeals under *subsection (1)*.
+
+(3) Subject to a right of appeal to the High Court on a question of law, the determination of the Tribunal under this section shall be final.
+
+(4) An appeal to the Tribunal shall contain a statement of the specific grounds for the appeal.
+
+(5) The Tribunal shall transmit a copy of every appeal received by it to the planning authority by whom the market value of the property was determined (who shall be the respondent in, and be entitled to be heard and adduce evidence at the hearing of, the appeal concerned) and to any other person appearing to the Tribunal to be affected directly by the determination and any such person shall be entitled to be heard and to adduce evidence at the hearing of the appeal.
+
+(6) The Tribunal shall, where any amendment falls to be made to the valuation of a vacant site pursuant to a determination of the Tribunal or a decision of the High Court in relation to an appeal under this section, give written notice of the amendment to the owner of the site and to the planning authority concerned who shall cause the appropriate entry in the register to be amended with effect from the date of entry referred to in *section 12(4)* and shall give written notice to the owner of the making of the amendment and of the date from which the amendment has e ffect.
+
+(7) Sections 4 and 39 of the Valuation Act 2001 shall apply to the determination of an appeal under this section as they apply to the determination of appeals under that Act.
+
+(8) The planning authority shall not make a demand for payment of vacant site levy under *section 15* —
+
+(a) before the expiry of the period during which an appeal may be brought under that subsection, and
+
+(b) where an appeal is brought under *subsection (1)*, before the appeal is finally determined or withdrawn.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to *Valuation Act 2001* (13/2001), s. 4(2) exercised (31.05.2018) by *Valuation Act 2001 (Vacant Site Appeal to Tribunal) (Fees) Regulations 2018* (S.I. No. 200 of 2018).
+
+### 14. Determination of zero market value
+
+**14.** A planning authority, and the Tribunal on appeal under *section 13*, may, where it considers it appropriate in all the circumstances, deem that a vacant site has a zero market value, in particular where—
+
+(a) no market exists for the site,or
+
+(b) the site is situated on contaminated lands and the estimated costs of remedial works necessary in order to use or develop the site exceed the market value of the site itself.
+
+### 15. Vacant site levy
+
+**15.** (1) Subject to *subsection (2)*, there shall be charged and levied for each year beginning with 2018 in respect of each vacant site in relation to which a market value has been determined in accordance with *section 12* and that stands entered on the register a levy to be known as vacant site levy.
+
+(2) Vacant site levy shall not be payable in respect of any land in respect of which the derelict sites levy within the meaning of the Derelict Sites Act 1990 is payable in accordance with that Act.
+
+(3) Vacant site levy shall be payable in arrears each year beginning in 2019 by the owner of a vacant site that stands entered on the register on 1 January of that year to the planning authority in whose functional area the vacant site is located.
+
+(4) Vacant site levy shall be payable on a demand being made by a planning authority in that behalf and if it is not paid within 2 months after the day on which it becomes payable it shall be recoverable as a simple contract debt in any court of competent jurisdiction.
+
+(5) A planning authority may provide for the payment of vacant site levy by instalments.
+
+### 16. Amount of levy
+
+F14[**16.** (1) The amount of the vacant site levy shall—
+
+(a) in respect of the year 2018, be such amount as is equal to 3 per cent of the market value of the vacant site determined in accordance with *section 12*, and
+
+(b) in respect of the year 2019 and every subsequent year thereafter, be such amount as is equal to—
+
+(i) 7 per cent, or
+
+(ii) such other percentage (not exceeding 7 per cent) as may stand prescribed, for the time being, by regulations,
+
+of the market value of the vacant site determined in accordance with *section 12*.
+
+(2) The Minister shall, in prescribing a percentage for the purpose of *subparagraph (ii)* of *paragraph (b)* of *subsection (1)*, have regard to changes in the value of property and the Residential Property Price Index published by the Central Statistics Office.
+
+(3) Where regulations under *subparagraph (ii)* of *paragraph (b)* of *subsection (1)* are proposed to be made, a draft of the regulations shall be laid before each House of the Oireachtas not later than 3 months before the beginning of the year in which it is proposed that the regulations shall come into operation, and the regulations shall not be made unless a resolution approving the draft is passed by each such House.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 64, commenced on enactment.
+
+### 17. Death or change of ownership
+
+**17.** (1) Notwithstanding *sections 15*and *16*, where in any year there is a change in ownership of a vacant site the amount of vacant site levy to be charged in respect of that site for that year, and for the preceding year, shall be zero.
+
+(2) *Subsection (1)*shall not apply where—
+
+(a) ownership of the site transfers from one company to an associated company,
+
+(b) the owner of the site transfers it to a connected person (other than where ownership of the site devolves on the death of the owner), or
+
+(c) ownership of the site changes, in the opinion of the planning authority in whose functional area the site is located, for the sole or principal purpose of avoiding the obligation to pay vacant site levy.
+
+(3) In *subsection (2)* “associated company”, in relation to another company, means—
+
+(a) a holding company or a subsidiary (both within the meaning of the Companies Act 2014) of that other company, or
+
+(b) a body corporate that is a subsidiary of the same company of which the other company is a subsidiary.
+
+(4) For the purposes of this section a person is connected with the owner of a vacant site if, but only if, he or she is—
+
+(a) that owner’s spouse, civil partner, parent, brother, sister, child, step-child or lawfully adopted child,
+
+(b) a person acting in his or her capacity as the trustee of any trust, the principal beneficiaries of which are the owner of the vacant site, the owner’s spouse or any of the owner’s children or any body corporate which the owner controls, or
+
+(c) a partner of that director.
+
+(5) A body corporate shall also be deemed to be connected with the owner of a vacant site if it is controlled by that owner.
+
+(6) For the purposes of this section, an owner of a vacant site shall be deemed to control a body corporate if, but only if, he is, alone or together with any of the persons referred to in *paragraph (a)*, *(b)* or *(c)* of *subsection (4)*, interested in more than one-half of the equity share capital of that body or entitled to exercise or control the exercise of more than one-half of the voting power at any general meeting of that body.
+
+(7) In *subsection (6)* —
+
+(a) “equity share capital” has the same meaning as in section 7 of the Companies Act 2014, and
+
+(b) references to voting power exercised by a director shall include references to voting power exercised by another body corporate which that director controls.
+
+### 18. Appeal against demand for payment of levy
+
+**18.** (1) The owner of a site who receives a demand for payment of vacant site levy under *section 15* may appeal against the demand to the Board within 28 days after the date of the demand.
+
+(2) On an appeal under this section the burden of showing that—
+
+F15[(a) the site was no longer a vacant site on 1 January in the year concerned, or]
+
+(b) the amount of the levy has been incorrectly calculated in respect of the site by the planning authority,
+
+is on the owner of the site.
+
+(3) Where the Board determines that a site was no longer a vacant site on 1 January in the year concerned, or is no longer a vacant site on the date on which the appeal under this section is made, it shall give written notice to the planning authority who shall cancel the entry on the register in respect of that site and shall cancel the demand made in respect of that year.
+
+(4) Where the Board determines that the amount of the levy has been incorrectly calculated in respect of a vacant site it shall give written notice to the planning authority of the correct amount who shall amend the demand made in respect of that year in accordance with the revised amount.
+
+(5) Where the owner of a vacant site appeals against a demand under *subsection (1)* such demand shall not take effect until such appeal is finally determined or withdrawn.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 65(d), commenced on enactment.
+
+### 19. Vacant site levy to be charge on land
+
+**19.** Where vacant site levy for a year is due and owing, the amount of vacant site levy shall on the day on which it becomes so due and payable, become and shall remain until payment thereof, a charge on the land concerned.
+
+### 20. False or misleading evidence
+
+**20.** A person who for the purposes of this Part makes any submission, or provides any evidence or information, which he or she knows, or ought reasonably know, to be false or misleading in a material aspect commits an offence and is liable on summary conviction to a class A fine or to a term of imprisonment not exceeding one month or to both.
+
+### 21. Receipts, certificates and requirements on sale of vacant site
+
+**21.** (1) Where a person pays a vacant site levy or an instalment of a vacant site levy to a planning authority, the planning authority shall give the person a receipt in writing in respect of the payment.
+
+(2) Where a planning authority receives payment in full of a vacant site levy, it shall, on application to it in writing by or on behalf of the owner of the site concerned, within 14 days of the application, give the owner a certificate (in this section referred to as a “certificate of discharge”) confirming that vacant site levy in respect of the year concerned has been paid.
+
+(3) The vendor of a vacant site entered on the register shall, before the completion of the sale of the site, pay to the relevant planning authority any vacant site levy due and owing to the relevant planning authority in respect of that site.
+
+(4) On or before the completion of the sale of a vacant site standing entered on the register, the vendor of the site shall, in respect of that site, give to the purchaser a certificate of discharge for each year in respect of which the site was a vacant site.
+
+(5) As against a bona fide purchaser or mortgagee of a site for full consideration in money or money’s worth without notice, or a person deriving title from or under such a purchaser or mortgagee, a certificate of discharge shall discharge the property concerned from liability for any vacant site levy due by the owner of that property for each year in respect of which the site was a vacant site.
+
+(6) A planning authority—
+
+(a) shall not charge a fee in respect of the issue by it of a receipt or a certificate of discharge, and
+
+(b) may charge a fee in respect of the issue by it of a duplicate of such receipt or certificate not exceeding the reasonable cost of issuing the duplicate.
+
+(7) In this section—
+
+“purchaser” includes, in relation to a residential property, a transferee under a transfer referred to in the definition of “sale” in this subsection;
+
+“residential property” means any building or structure which is in use as, or is suitable for use as, a dwelling and includes any shed, outhouse, garage or other building or structure and any yard, garden or other land, appurtenant to or usually enjoyed with that building, save that so much of any such yard, garden or other land that exceeds one acre shall not be taken into account for the purposes of this definition;
+
+“sale” includes, in relation to a residential property, the transfer of the residential property by the owner to another person—
+
+(a) in consequence of—
+
+(i) the exercise of a power under any enactment to compulsorily acquire land, or
+
+(ii) the giving of notice of intention to exercise such power,
+
+or
+
+(b) for no consideration or consideration that is significantly less than the estimated market value of the residential property concerned at the time of its transfer;
+
+“vendor” includes, in relation to a residential property—
+
+(a) a person who transfers the property to another person—
+
+(i) in consequence of—
+
+(I) the exercise of a power under any enactment to compulsorily acquire land, or
+
+(II) the giving of notice of intention to exercise such power,
+
+or
+
+(ii) for no consideration or consideration that is significantly less than the estimated market value of the residential property concerned at the time of its transfer,
+
+and
+
+(b) an agent of the owner of the residential property who—
+
+(i) receives the proceeds of the sale of the property or part thereof on behalf of the owner, or
+
+(ii) provides legal advice to the owner in connection with a transfer referred to in *subparagraph (ii)* of *paragraph (a)* of the property by the owner.
+
+### 22. Forged and altered documents
+
+**22.** (1) A person who forges or utters knowing it to be forged a certificate or other document purporting to be issued under this Part (in this section referred to as “a forged document”) commits an offence.
+
+(2) A person who alters with intent to defraud or deceive, or utters knowing it to be so altered, a certificate or other document issued under this Part (in this section referred to as “an altered document”) commits an offence.
+
+(3) A person who has, without lawful authority, in his or her possession a forged document or an altered document commits an offence.
+
+(4) A person who aids or abets the commission of an offence under this section commits an offence.
+
+(5) A person who commits an offence under this section is liable on summary conviction to a class A fine or to imprisonment for a term of not exceeding one month or to both.
+
+### 23. Proceeds of vacant site levy
+
+**23.** (1) Any money received by a planning authority pursuant to *section 15* shall be spent by it—
+
+(a) where the vacant site comprises residential land, on the provision of housing on residential land in the vicinity of the site, and
+
+(b) where the vacant site comprises regeneration land, on the development and renewal of regeneration land in the vicinity of the site.
+
+(2) Money referred to in *subsection (1)* may, in particular, be used—
+
+(a) for the payment of any costs, up to a total of 10 per cent of the total money received by the authority pursuant to *section 15*, incurred by the planning authority in giving effect to this Part, and
+
+(b) where the vacant site comprises regeneration land, for—
+
+(i) the preservation and protection of structures, or parts of structures, which are of special architectural, historical, archaeological, artistic, cultural, scientific, social or technical interest,
+
+(ii) the provision, or facilitation of the provision, of services and facilities for the local community, including education, training, childcare, recreational, leisure, artistic and cultural facilities and the renovation and extension of existing services and facilities,
+
+(iii) the preservation, improvement and extension of amenities and recreational amenities in or on the land,
+
+(iv) civic improvements, and
+
+(v) projects, services and works for the benefit of streets in urban areas, including the improvement of streets or footpaths in local shopping streets and business areas and the removal of graffiti.
+
+### 24. Service of notices
+
+**24.** Section 250 of the Act of 2000 applies to notices under this Part and references in that section to a notice is to be read as including a reference to a notice under this Part.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: section amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 44, not commenced as of date of revision.
+>
+> **24.** F16[ Section 396 of the Act of 2024] applies to notices under this Part and references in that section to a notice is to be read as including a reference to a notice under this Part.
+
+### 25. Regulations
+
+F17[**25.** (1) The Minister may make regulations for the purposes of this Part.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may make provision in relation to—
+
+(a) the establishment and maintenance of the register under *section 6*,
+
+(b) the procedure for the making of an entry in the register under *section 7*,
+
+(c) the procedure for the cancellation of an entry in the register,
+
+(d) the form of notice to be given under *section 7*, *9*, *11*, *12*, *13* or *18*,
+
+(e) the form of a demand for payment under *section 15*,
+
+(f) the form of a receipt or certificate under *section 21*.
+
+(3) Regulations under this Part may contain such incidental, supplemental and consequential provisions as appear to the Minister to be necessary or expedient.
+
+(4) Every regulation (other than a regulation under *subparagraph (ii)* of *paragraph (b)* of *subsection (1)* of *section 16*) or order under this Part shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation or order is passed by either such House within the next 21 days on which that House sits after the regulation or order is laid before it, the regulation or order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (19.07.2018) by *Planning and Development (Amendment) Act 2018* (16/2018), s. 65(e), commenced on enactment.
+
+### 26. Prosecutions
+
+**26.** An offence under *section 20* or *22* may be prosecuted summarily by the local authority in whose functional area the offence is committed.
+
+## PART 3Amendment of section 23 of Derelict Sites Act 1990 — PART 3 — Amendment of section 23 of Derelict Sites Act 1990
+
+### 27. Derelict sites levy not payable where vacant site levy payable
+
+**27.** Section 23 of the Derelict Sites Act 1990 is amended—
+
+(a) in subsection (1), by substituting “Subject to subsection (1A), there shall be charged” for “There shall be charged”, and
+
+(b) by inserting after subsection (1) the following:
+
+“(1A) The derelict sites levy shall not be payable in respect of any land in respect of which vacant site levy is payable in accordance with the Urban Regeneration and Housing Act 2015.”.
+
+## PART 4Amendment of Parts II and III of Act of 2000 — PART 4 — Amendment of Parts II and III of Act of 2000
+
+**Development Plans and Development Contributions**
+
+### 28. Amendment of section 10(2) of Act of 2000 - content of development plans
+
+**28.** Section 10(2) (as amended by section 7(b) of the Act of 2010) of the Act of 2000 is amended by substituting for paragraph (h) the following:
+
+“(h) the development and renewal of areas, identified having regard to the core strategy, that are in need of regeneration, in order to prevent—
+
+(i) adverse effects on existing amenities in such areas, in particular as a result of the ruinous or neglected condition of any land,
+
+(ii) urban blight and decay,
+
+(iii) anti-social behaviour, or
+
+(iv) a shortage of habitable houses or of land suitable for residential use or a mixture of residential and other uses;”.
+
+### 29. Amendment of section 48 of Act of 2000 - development contributions
+
+**29.** Section 48 (as amended by section 30 of the Act of 2010) of the Act of 2000 is amended by inserting after subsection (3) the following:
+
+“(3A) Where a permission which includes conditions referred to in subsection (1) has been granted under section 34 in respect of a development and the basis for the determination of the contribution under subsection (1) has changed—
+
+(a) where the development is one to which Part II of the Building Control Regulations 1997 (S.I. No. 496 of 1997) applies and a commencement notice within the meaning of that Part in respect of the development has not been lodged, or
+
+(b) where the development comprises houses and one or more of those houses has not been sold,
+
+the planning authority shall apply that change to the conditions of the permission where to do so would reduce the amount of the contribution payable.
+
+(3B) Where a development referred to in subsection (3A) comprises houses one or more of which has not been sold the planning authority shall apply the change in the basis for the determination of the contribution referred to in that subsection only in respect of the unsold houses.
+
+(3C) Where the planning authority applies a change in the basis for the determination of a development contribution under subsection (3A) it may amend a condition referred to in subsection (1) in order to reflect the change.”.
+
+### 30. Amendment of section 49 of Act of 2000 - supplementary development contribution schemes
+
+**30.** Section 49 of the Act of 2000 is amended by inserting the following after subsection (3A):
+
+“(3AA) Subsections (3A), (3B) and (3C) of section 48 shall apply where the basis for the determination of a contribution under subsection (1) has changed subject to—
+
+(a) the modification that references in those subsections to a contribution shall be construed as references to a contribution to a supplementary development contribution scheme,
+
+(b) any other necessary modifications, and
+
+(c) the provisions of this section.”.
+
+## PART 5Amendment of Part V of Act of 2000 — PART 5 — Amendment of Part V of Act of 2000
+
+**Housing Supply**
+
+### 31. Amendment of section 94 of Act of 2000 - housing strategies
+
+**31.** Section 94 of the Act of 2000 is amended—
+
+(a) by substituting for subsection (2) the following:
+
+“(2) In preparing a housing strategy, a planning authority shall—
+
+(a) have regard to the most recent summary of social housing assessments prepared under section 21(a) of the Housing (Miscellaneous Provisions) Act 2009 that relate to the area of the development plan,
+
+(b) consult with any body standing approved of for the purposes of section 6 of the Housing (Miscellaneous Provisions) Act 1992 in its functional area, and
+
+(c) have regard to relevant policies or objectives for the time being of the Government or any Minister of the Government that relate to housing and, in particular, social integration in the provision of housing services.”,
+
+and
+
+(b) in paragraphs (c) and (d) of subsection (4), by substituting “10 per cent” for “20 per cent” in each place.
+
+### 32. Amendment of section 95(1)(a) of Act of 2000 - housing strategies and development plans
+
+**32.** Section 95(1)(a) of the Act of 2000 is amended by inserting “, having regard to the overall strategy for the proper planning and sustainable development of the area of the development plan referred to in section 10,” after “a planning authority shall”.
+
+### 33. Amendment of section 96 of Act of 2000 - provision of social and affordable housing, etc.
+
+**33.** (1) Section 96 (inserted by section 3 of the Planning and Development (Amendment) Act 2002) of the Act of 2000 is amended—
+
+(a) in subsection (2), by inserting “prior to the lodgement of a commencement notice within the meaning of Part II of the Building Control Regulations 1997,” after “to which the application relates,”,
+
+(b) in subsection (3)(b) —
+
+(i) by deleting subparagraphs (ii) and (iii),
+
+(ii) by substituting for subparagraph (iv) the following:
+
+“(iv) the transfer to the ownership of the planning authority, or to the ownership of persons nominated by the authority in accordance with this Part, of houses on any other land within the functional area of the planning authority of such number and description as may be specified in the agreement,”,
+
+(iii) by inserting after subparagraph (iv) the following:
+
+“(iva) the grant to the planning authority of a lease under the Housing Acts 1966 to 2014 of houses on the land which is subject to the application for permission, or on any other land within the functional area of the planning authority, of such number and description as may be specified in the agreement,”,
+
+(iv) by deleting subparagraphs (v) and (vi),
+
+(v) by substituting for subparagraph (viii) the following:
+
+“(viii) a combination of the doing of 2 or more of the things referred to in subparagraphs (i) to (iva),”,
+
+and
+
+(vi) by substituting for all the words from “but, subject, in every case” to the end of the paragraph, the following:
+
+“but, subject, in every case, to the provision that is made under this paragraph resulting in the aggregate of the net monetary value of the property transferred, or the reduction in rent payable over the term of a lease referred to in paragraph (iva) (excluding any reduction for maintenance, management and void periods specified in such lease), by virtue of the agreement being equivalent to the net monetary value, that is to say, the open market value less the existing use value, of the land that the planning authority would receive if the agreement solely provided for a transfer of land under paragraph (a).”,
+
+(c) by substituting for subsection (3)(d) the following:
+
+“(d) Where houses are to be transferred to the planning authority in accordance with an agreement under paragraph (b), the price of such houses shall be determined on the basis of—
+
+(i) the site cost of the houses (calculated in accordance with subsection (6) ), and
+
+(ii) the costs, including normal construction and development costs and profit on those costs, calculated at open market rates that would have been incurred by the planning authority had it retained an independent builder to undertake the works, including the appropriate share of any common development works, as agreed between the authority and the developer.”,
+
+(d) in subsection (3)(e), by substituting “land or houses” for “land, houses or sites” and “the houses” for “the houses or sites”,
+
+(e) in subsection (3)(f), by deleting “or sites” and by inserting “, or to be the subject of a lease,” after “to be transferred”,
+
+(f) in subsection (6)(b), by substituting “on the date on which the permission referred to in subsection (2) is granted” for “on the date of the transfer of ownership of the land to the planning authority concerned”,
+
+(g) in subsection (7)(a) —
+
+(i) by inserting after subparagraph (i) the following:
+
+“(ia) in the case of an agreement referred to in subsection (3)(b)(iva), the number of houses and the rent payable under such an agreement;”,
+
+and
+
+(ii) by deleting subparagraph (ii),
+
+(h) in subsection (8), by inserting “the planning authority,” after “the date of the grant of permission,”, and
+
+(i) in subsection (9), by deleting “or sites” in each place.
+
+(2) Where, on the date of the coming into operation of *subsection (1)*, a permission has been granted subject to a condition referred to in section 96(2) of the Act of 2000 but a commencement notice within the meaning of Part II of the Building Control Regulations 1997 has not been lodged, any existing agreement under section 96 of the Act of 2000 may be amended prior to the lodgement of such commencement notice with the consent of all parties to such agreement provided that the agreement so amended complies with the provisions of section 96 on the date on which the agreement is amended.
+
+(3) Part V of the Act of 2000 applies to an agreement amended in accordance with *subsection (2)*.
+
+### 34. Amendment of section 96 of Act of 2000 - rental accommodation availability agreements
+
+**34.** (1) Section 96 (as amended by *section 33*) of the Act of 2000 is amended—
+
+(a) by inserting after subsection (3)(b)(iva) (inserted by *section 33(1)(b)*(iii)) the following:
+
+“(ivb) the entry into a rental accommodation availability agreement (which term shall, in this section, have the meaning given to it by section 2 of the Housing (Miscellaneous Provisions) Act 2009) with the planning authority, under Part 2 of that Act, in respect of houses on the land which is subject to the application for permission, or on any other land within the functional area of the planning authority, of such number and description as may be specified in the agreement,”,
+
+(b) in subsection (3)(b)(viii) (inserted by *section 33(1)(b)(v)*), by substituting “(ivb)” for “(iva) ”,
+
+(c) in subsection (3)(b) (as amended by *section 33(1)(b)(vi)*), by substituting “or of an agreement referred to in paragraph (ivb) (excluding any reduction for maintenance, management and void periods specified in such lease or such agreement)” for “(excluding any reduction for maintenance, management and void periods specified in such lease)”,
+
+(d) in subsection (3)(f), by inserting “or rental accommodation availability agreement” after “or to be the subject of a lease”, and
+
+(e) in subsection (7)(a)(ia) (inserted by *section 33(1)(g)*), by inserting “or (ivb)” after “in the case of an agreement referred to in subsection 3(b)(iva) ”.
+
+(2) Where, on the date of the coming into operation of *subsection (1)*, a permission has been granted subject to a condition referred to in section 96(2) of the Act of 2000 but a commencement notice within the meaning of Part II of the Building Control Regulations 1997 has not been lodged, any existing agreement under section 96 of the Act of 2000 may be amended prior to the lodgement of such commencement notice with the consent of all parties to such agreement provided that the agreement so amended complies with the provisions of section 96 on the date on which the agreement is amended.
+
+(3) Part V of the Act of 2000 applies to an agreement amended in accordance with *subsection (2)*.
+
+### 35. Repeal
+
+**35.** Section 38 of the Act of 2010 is repealed.
+
+### 36. Amendment of section 97 of Act of 2000 - development to which section 96 shall not apply
+
+**36.** Section 97(3)(a) of the Act of 2000 is amended by substituting “9 or fewer” for “4 or fewer”.
+
+## PART 6Amendment of Housing (Miscellaneous Provisions) Act 2009 — PART 6 — Amendment of Housing (Miscellaneous Provisions) Act 2009
+
+### 37. Amendment of section 31 of Housing (Miscellaneous Provisions) Act 2009
+
+**37.** Section 31 of the Housing (Miscellaneous Provisions) Act 2009 is amended by substituting the following for subsection (1):
+
+“(1) This section applies to a dwelling provided under the Housing Acts 1966 to 2014 or Part V of the Planning and Development Act 2000—
+
+(a) of which the housing authority is the owner,
+
+(b) of which the housing authority is not the owner and which is provided under a contract or lease between the housing authority and the owner of the dwelling, including a rental accommodation availability agreement, or
+
+(c) in respect of which housing assistance is being provided under Part 4 of the Housing (Miscellaneous Provisions) Act 2014.”.

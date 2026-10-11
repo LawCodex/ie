@@ -1,0 +1,285 @@
+---
+title: "Land and Conveyancing Law Reform Act 2013"
+identifier: "eli/2013/act/30"
+type: act
+jurisdiction: ie
+language: en
+number: 30
+year: 2013
+date: 2013-07-24
+last_amended: 2019-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2013/act/30/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2013/act/30/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Land and Conveyancing Law Reform Act 2013
+
+An Act to provide that certain statutory provisions apply to mortgages of a particular class notwithstanding the repeal and amendment of those statutory provisions by the Land and Conveyancing Law Reform Act 2009, to provide for the adjournment of legal proceedings in certain cases and to provide for related matters. [24*th July*, 2013]
+
+**Be it enacted by the Oireachtas as follows:**
+
+## 1. Application of certain statutory provisions
+
+**1**. (1) This section applies to a mortgage created prior to 1 December 2009.
+
+(2) As respects a mortgage to which this section applies, the statutory provisions apply and may be invoked or exercised by any person as if those provisions had not been repealed by section 8(3) and Schedule 2 of the Act of 2009.
+
+(3) As respects a mortgage to which this section applies the amended provisions apply and may be invoked or exercised by any person as if those provisions had not been amended by section 8(1) and Schedule 1 of the Act of 2009.
+
+(4) *Subsections (1)* to *(3)* are without prejudice to any right or entitlement which a person may otherwise have to rely on the statutory provisions or the amended provisions.
+
+(5) This section does not apply to proceedings initiated before the coming into operation of this section.
+
+(6) In this section—
+
+“Act of 1964” means the Registration of Title Act 1964;
+
+“Act of 2009” means the Land and Conveyancing Law Reform Act 2009;
+
+“amended provisions” means section 62(2) and (6) of the Act of 1964;
+
+“mortgage” has the same meaning as it has in the Conveyancing Act 1881;
+
+“statutory provisions” means sections 2 and 18 to 24 of the Conveyancing Act 1881, sections 3, 4 and 5 of the Conveyancing Act 1911 and section 62(3), (7) and (8) of the Act of 1964.
+
+## 2. Adjournment of proceedings to facilitate making of proposal for Personal Insolvency Arrangement
+
+**2**. (1) This section applies to land which is the principal private residence of—
+
+(a) the mortgagor of the land concerned, or
+
+(b) a person without whose consent a conveyance of that land would be void by reason of—
+
+(i) the Family Home Protection Act 1976, or
+
+(ii) the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
+
+(2) In any proceedings brought by a mortgagee seeking an order for possession of land to which the mortgage relates and which land is land to which this section applies, the court, without prejudice to any other power which a court may have to adjourn proceedings, may—
+
+(a) of its own motion, if it considers it appropriate to do so,
+
+(b) on application being made to the court by a relevant person and, having regard to the matters specified in *subsection (3)*, if it considers it appropriate to do so,
+
+adjourn the proceedings for a period not exceeding 2 months to enable the relevant person—
+
+(i) to consult with a personal insolvency practitioner with a view to the making of a proposal for a Personal Insolvency Arrangement, and
+
+(ii) where appropriate, to instruct the personal insolvency practitioner to make a proposal for a Personal Insolvency Arrangement under the Act of 2012.
+
+(3) The court in considering an application under *subsection (2)(b)* shall have regard to such matters as it considers appropriate and in particular shall have regard to the following:
+
+(a) whether the mortgagor has participated in any process relating to mortgage arrears operated by the mortgagee concerned which has been approved or required by the Central Bank of Ireland and which process relates to the land the subject of the mortgage;
+
+(b) whether the mortgagor has made any payments to the mortgagee in respect of monies advanced on foot of or secured by the mortgage in the 12 months immediately preceding the application and, if so, the amount of any such payments, the number and frequency of such payments, and the proportion which the amounts paid bear to the amount of any regular payments which the mortgagor was required to make under the terms of the mortgage or any associated loan agreement;
+
+(c) whether the proceedings have been adjourned on any previous occasion at the request of the mortgagor, and, if so, the number of any such adjournments and the period of such adjournments and the reasons for such adjournments;
+
+(d) the conduct of the parties to the mortgage in any attempt to find a resolution to the issue of dealing with arrears of payments due on foot of the mortgage; and
+
+(e) whether, having regard to the circumstances of the case, the application for an adjournment appears to the court to be primarily for the purpose of delaying the progress of the proceedings.
+
+(4) On the expiry of any period of adjournment granted under *subsection (2)*, the court may grant a further adjournment of the proceedings concerned where it considers that significant progress has been made in the preparation of a proposal for a Personal Insolvency Arrangement.
+
+(5) Where the court adjourns proceedings under F1[this section or *section 2A*,] the court may, where it considers it appropriate to do so, direct that the proceedings stand adjourned to another venue within the same circuit of the Circuit Court.
+
+(6) This section applies as respects mortgages created before or after the coming into operation of Part 10 of the Land and Conveyancing Law Reform Act 2009.
+
+(7) In F1[this section, *section 2A* and *section 3*]—
+
+“Act of 2012” means the Personal Insolvency Act 2012;
+
+“conveyance” has the same meaning as it has in the Family Home Protection Act 1976;
+
+“mortgage” means a deed of mortgage and includes a charge;
+
+“mortgagee” includes a person deriving title from a mortgagee and a receiver appointed by the mortgagee;
+
+“Personal Insolvency Arrangement” has the same meaning as it has in the Act of 2012;
+
+“personal insolvency practitioner” has the same meaning as it has in the Act of 2012;
+
+“relevant person” means a person—
+
+(a) who is a party to the proceedings referred to in *subsection (2)*, and
+
+(b) who is a person who may, under the provisions of the Act of 2012, make a proposal for a Personal Insolvency Arrangement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.08.2019) by *Land and Conveyancing Law Reform (Amendment) Act 2019* (22/2019), s. 2(a), (b), S.I. No. 397 of 2019.
+
+## 2A. Procedures to apply in certain proceedings
+
+F2[**2A.** (1) This section applies to proceedings brought by a mortgagee seeking an order for possession of land to which the mortgage relates and which land is land to which *section 2* applies—
+
+(a) which were adjourned under *section 2* and, on the expiry of the period of adjournment (including any period of further adjournment under that section), *subsection (5)* applies,
+
+(b) in which a relevant person made an application under *section 2(2)(b)* which application was refused, or
+
+(c) where the mortgagor has, prior to or following the commencement of the proceedings—
+
+(i) participated in good faith in a designated scheme, or
+
+(ii) engaged the services of a personal insolvency practitioner to assist him or her to resolve his or her mortgage arrears and, following such engagement, *subsection (5)* applies.
+
+(2) In proceedings to which this section applies, the court—
+
+(a) shall, when considering whether to make or refuse to make an order for possession, and
+
+(b) may, when considering whether to make any other order it considers appropriate in the circumstances,
+
+take account of—
+
+(i) the matters referred to in *subsection (3)*, and
+
+(ii) such additional matters as it considers appropriate.
+
+(3) The matters referred to in *subsection (2)(i)* are the following:
+
+(a) whether the making of the order would be proportionate in all the circumstances;
+
+(b) the circumstances of the mortgagor and his or her dependants (if any) in respect of whom the principal private residence the subject of the proceedings is their principal private residence;
+
+(c) whether the mortgagee has made a statement to the mortgagor of the terms on which the mortgagee would be prepared to settle the matter in such a way that the mortgagor and his or her dependants referred to in *paragraph (b)* could remain in the principal private residence;
+
+(d) the details of any proposal made, whether prior to or following the commencement of the proceedings by, or on behalf of, the mortgagor to enable the mortgagor and his or her dependants referred to in *paragraph (b)*—
+
+(i) to remain in the principal private residence, including any proposal for participation by the mortgagor in a designated scheme, or
+
+(ii) to secure alternative accommodation;
+
+(e) the response, if any, of the mortgagee to any proposal referred to in *paragraph (d)(i)*;
+
+(f) the conduct of the parties to the mortgage in any attempt to find a resolution to the issue of dealing with arrears of payments due on foot of the mortgage.
+
+(4) The matters to which the court may have regard for the purposes of *subsection (3)(a)* include the following:
+
+(a) the total amount that remains to be paid to the mortgagee on foot of the mortgage or any associated loan agreement;
+
+(b) the amount of arrears of payments due on foot of the mortgage;
+
+(c) the advised market value of the principal private residence on the date on which proceedings were commenced.
+
+(5) This subsection applies where a proposal for a Personal Insolvency Arrangement that includes a proposal in respect of the principal private residence concerned—
+
+(a) has not been made, or
+
+(b) has been made, and the Personal Insolvency Arrangement procedure has come to an end.
+
+(6) For the purposes of this section, a Personal Insolvency Arrangement procedure shall be considered to have come to an end where—
+
+(a) section 106(3), 108(8)(b), 111A(8) or (9) or 114(3) of the Act of 2012 applies to that procedure,
+
+(b) an application under section 115A of the Act of 2012 has been made in relation to a proposal for a Personal Insolvency Arrangement, and the court refuses to make an order under subsection (9) of that section, or
+
+(c) the Personal Insolvency Arrangement concerned has terminated under section 123 of the Act of 2012.
+
+(7) The Minister may, for the purposes of this section, by order designate a scheme where he or she is satisfied that—
+
+(a) the objectives of the scheme include providing persons who are dealing with arrears of payments due on foot of a mortgage on their principal private residence with assistance that is reasonably likely to—
+
+(i) enable such persons to address difficulties in dealing with such arrears, and
+
+(ii) facilitate, in so far as is possible, such persons in remaining in their principal private residence,
+
+and
+
+(b) it is reasonably likely that the assistance referred to in *paragraph (a)* will be provided under the scheme.
+
+(8) A reference in this section to the advised market value of a principal private residence is a reference to such value as specified in a statement of the advised market value of the principal private residence, provided by a licensee.
+
+(9) In this section—
+
+‘Act of 2011’ means the Property Services (Regulation) Act 2011;
+
+‘advised market value’, in relation to a principal private residence valued for sale by a licensee, means the licensee’s reasonable estimate, at the time of such valuation, of the amount that would be paid by a willing buyer in an arm’s length transaction after proper marketing where both parties act knowledgeably, prudently and without compulsion, and a reference to the advised market value of a principal private residence at a particular date is a reference to the licensee’s reasonable estimate of the amount that would have been so paid on that date;
+
+‘designated scheme’ means a scheme that is designated under *subsection (7)*;
+
+‘licence’ has the same meaning as it has in section 2(1) of the Act of 2011;
+
+‘licensee’ means the holder of a licence which is in force in respect of a property service that falls within paragraph (a) or (b) of the definition of ‘property service’ in section 2(1) of the Act of 2011;
+
+‘Personal Insolvency Arrangement procedure’ has the same meaning as it has in the Personal Insolvency Act 2012.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (1.08.2019) by *Land and Conveyancing Law Reform (Amendment) Act 2019* (22/2019), s. 3, S.I. No. 397 of 2019.
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (7) exercised (1.08.2019) by *Land And Conveyancing Law Reform Act 2013 (Designation Of Schemes) Order 2019* (S.I. No. 399 of 2019), in effect as per art. 1(2).
+>
+> E2: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 3. Proceedings relating to certain mortgages to be brought in Circuit Court
+
+**3**. (1) This section applies to land which is the principal private residence of—
+
+(a) the mortgagor of the land concerned, or
+
+(b) a person without whose consent a conveyance of that land would be void by reason of—
+
+(i) the Family Home Protection Act 1976, or
+
+(ii) the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010,
+
+and the mortgage concerned was created prior to 1 December 2009.
+
+(2) Subject to *subsection (4)*, proceedings brought by a mortgagee seeking an order for possession of land to which the mortgage relates and which land is land to which this section applies shall be brought in the Circuit Court.
+
+(3) The jurisdiction of the Circuit Court to hear and determine proceedings referred to in *subsection (2)* where the land concerned is land to which this section applies shall be exercised by the judge of the circuit where the land or any part of it is situated.
+
+(4) *Subsection (2)* does not preclude a person initiating proceedings in the High Court where other proceedings relating to the enforcement of the mortgagee’s rights under the mortgage concerned have been commenced in that court prior to the coming into operation of this section where those other proceedings have not been determined.
+
+## 4. Provision in respect of certain proceedings
+
+**4**. (1) Where after the coming into operation of this section a mortgagee commences proceedings seeking possession of land in which they rely upon the statutory provisions or the amended provisions, the proceedings shall be deemed to be commenced within time for the purposes of section 9 of the Civil Liability Act 1961 where the conditions specified in *subsection (2)* are met.
+
+(2) The conditions referred to in *subsection (1)* are that—
+
+(a) prior to the coming into operation of this section the mortgagee had commenced proceedings seeking possession of land relying on the statutory provisions or the amended provisions,
+
+(b) the proceedings concerned were commenced within the time limit applicable for the purposes of section 9(2) of the Civil Liability Act 1961,
+
+(c) the proceedings concerned were not determined before the coming into operation of this section,
+
+(d) the mortgage concerned was created prior to 1 December 2009,
+
+(e) the land the subject of the proceedings referred to in *subsection (1)* is the same land or a part of the same land as the land the subject of the proceedings referred to in *paragraph (a)*.
+
+(3) *Subsection (1)* shall only apply to proceedings issued within 6 months from the coming into operation of this section.
+
+(4) In this section—
+
+“Act of 2009” means the Land and Conveyancing Law Reform Act 2009;
+
+“amended provisions” means section 62(2) and (6) of the Act of 1964 as those provisions stood immediately prior to the coming into operation of section 8(1) and Schedule 1 of the Act of 2009;
+
+“mortgage” has the same meaning as it has in the Conveyancing Act 1881;
+
+“mortgagee” includes a person deriving title from a mortgagee and a receiver appointed by a mortgagee;
+
+“statutory provisions” means sections 2 and 18 to 24 of the Conveyancing Act 1881, sections 3, 4 and 5 of the Conveyancing Act 1911 and section 62(3), (7) and (8) of the Act of 1964.
+
+## 5. Short title and commencement
+
+**5**. (1) This Act may be cited as the Land and Conveyancing Law Reform Act 2013.
+
+(2) Sections 2 and 3 come into operation on such day or days as the Minister for Justice and Equality may by order or orders appoint and different days may be so appointed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to subs. (2) exercised (31.07.2013) by *Land and Conveyancing Law Reform Act 2013 (Commencement) Order 2013*.
+>
+> 2\. The 31st day of July 2013 is appointed as the day on which the Land and Conveyancing Law Reform Act 2013 (No. 30 of 2013), insofar as it is not already in operation, comes into operation.

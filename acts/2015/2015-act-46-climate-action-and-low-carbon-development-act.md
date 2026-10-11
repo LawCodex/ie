@@ -1,0 +1,1333 @@
+---
+title: "Climate Action and Low Carbon Development Act 2015"
+identifier: "eli/2015/act/46"
+type: act
+jurisdiction: ie
+language: en
+number: 46
+year: 2015
+date: 2015-12-10
+last_amended: 2026-07-27
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2015/act/46/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2015/act/46/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Climate Action and Low Carbon Development Act 2015
+
+An Act to provide for the approval of plans by the Government in relation to climate change for the purpose of pursuing the transition to a low carbon, climate resilient and environmentally sustainable economy; to establish a body to be known in the Irish language as An Chomhairle Chomhairleach um Athrú Aeráide or, in the English language, as the Climate Change Advisory Council; and to provide for matters connected therewith.
+
+[10 *th December*, 2015]
+
+**Be it enacted by the Oireachtas as follows:**
+
+## 1. Interpretation
+
+**1.** In this Act—
+
+“Act of 2001” means the Local Government Act 2001;
+
+F1["administrative area" has the meaning assigned to it by the Act of 2001;]
+
+“Agency” means the Environmental Protection Agency;
+
+“adaptation” means any adjustment to—
+
+(a) any system designed or operated by human beings, including an economic, agricultural or technological system, or
+
+(b) any naturally occurring system, including an ecosystem,
+
+that is intended to counteract the effects (whether actual or anticipated) of climatic stimuli, prevent or moderate environmental damage resulting from climate change or confer environmental benefits;
+
+“Advisory Council” has the meaning assigned to it by *section 8(2)*;
+
+F2["annual report" has the meaning assigned to it by section 12(1)(b);]
+
+F3["approved climate action plan" means a climate action plan approved by the Government under section 4(9);]
+
+“approved national adaptation framework” means a national adaptation framework approved by the Government under *section 5* and includes any variation or revision of such framework made in accordance with that section;
+
+F4["approved national long term climate action strategy" means a national long term climate action strategy approved by the Government under section 4(9);]
+
+F14[...]
+
+“approved sectoral adaptation plan” means a sectoral adaptation plan approved by the Government under *section 6* and includes any variation or revision of such sectoral adaptation plan made by the Government under *section 6(8)* or a variation or revision of such plan made in accordance with *section 6* ;
+
+F5["biodiversity" means the variability among living organisms from all sources including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part, and includes diversity within species, between species and of ecosystems;]
+
+F6["budget period" has the meaning assigned to it by section 6A(1);]
+
+F7["carbon budget" means the total amount of greenhouse gas emissions that are permitted during the budget period;]
+
+F8["climate action plan" has the meaning assigned to it by section 4(1)(a);]
+
+F9["climate neutral economy" means a sustainable economy and society where greenhouse gas emissions are balanced or exceeded by the removal of greenhouse gases;]
+
+F18["emissions" means, in relation to greenhouse gases, emissions of those gases into the earth’s atmosphere attributable to industrial, agricultural, energy or other anthropogenic activities in the State;]
+
+“establishment day” means the day appointed under *section 8(1)*;
+
+“greenhouse gas” means—
+
+(a) carbon dioxide,
+
+(b) methane,
+
+(c) nitrous oxide,
+
+(d) hydrofluorocarbons,
+
+(e) perfluorocarbons,
+
+(f) sulphur hexafluoride, or
+
+(g) nitrogen trifluoride;
+
+F10["joint committee" has the meaning assigned to it by the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013;]
+
+“local authority” has the meaning assigned to it by the Act of 2001;
+
+“Minister” means the Minister for the Environment, Community and Local Government;
+
+“mitigation” means any human intervention aimed at reducing harmful influences on the earth’s climate system, including action aimed at reducing emissions and creating or enhancing sinks;
+
+“national adaptation framework” has the meaning assigned to it by *section 5(1)*;
+
+F11["national climate objective" has the meaning assigned to it by section 3(1);]
+
+F12["national long term climate action strategy" has the meaning assigned to it by section 4(1)(b);]
+
+F15[...]
+
+F16[...]
+
+“periodic review” has the meaning assigned to it by *section 13*;
+
+“periodic review report” shall be construed in accordance with *section 13(5)*;
+
+F13["provisional carbon budget" has the meaning assigned to it by section 6A(3);]
+
+F19["removal" means, in relation to greenhouse gases, the removal of those gases from the earth’s atmosphere through the use of natural or technological solutions, including the creation or enhancement of sinks, or a change of land use, in the State;]
+
+“sectoral adaptation plan” shall be construed in accordance with *section 6(1)*;
+
+F17[...]
+
+“sink” means—
+
+(a) a process or activity (including photosynthesis), whether natural or man made, that contributes to, or assists in, the removal of one or more greenhouse gases from the earth’s atmosphere, or
+
+(b) an ecosystem or a mechanism (whether natural or man made), or part thereof, that contributes to, or assists in, the removal of one or more of such gases from the earth’s atmosphere.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, F13: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 3(a), S.I. No. 468 of 2021.
+>
+> F14, F15, F16, F17: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 3(d)(i)-(iv), S.I. No. 468 of 2021.
+>
+> F18, F19: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 3(b), (c), S.I. No. 468 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (22.07.2016) by *Climate Action and Environment (Transfer of Departmental Administration and Ministerial Functions) Order 2016* (S.I. No. 393 of 2016), arts. 2, 3 and sch., subject to transitional provisions in arts. 4-8. Note that name of Minister and Department was changed to Communications, Climate Action and Environment (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in operation as per art. 1(2). It was further changed to Environment, Climate and Communications (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020), in operation as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Communications, Energy and Natural Resources.
+>
+> (2) References to the Department of the Environment, Community and Local Government contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Communications, Energy and Natural Resources.
+>
+> 3\. (1) The functions conferred on the Minister for the Environment, Community and Local Government by or under any of the provisions of—
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) ...
+>
+> are transferred to the Minister for Communications, Energy and Natural Resources.
+>
+> (2) References to the Minister for the Environment, Community and Local Government contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Communications, Energy and Natural Resources.
+>
+> ...
+>
+> Schedule 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for the Environment, Community and Local Government to the Minister for Communications, Energy and Natural Resources.
+>
+> ...
+>
+> Climate Action and Low Carbon Development Act 2015 (No. 46 of 2015)
+>
+> ...
+
+## 2. Effect of Act
+
+**2.** F20[Nothing in this Act, a climate action plan, a national long term climate action strategy, a national adaptation framework, a sectoral adaptation plan, a carbon budget, a sectoral emissions ceiling or a local authority climate action plan] shall operate to affect—
+
+(a) existing or future obligations of the State under the law of the European Union, including—
+
+(i) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001[^1] on the assessment of the effects of certain plans and programmes on the environment,
+
+(ii) Council Directive 92/43/EEC of 21 May 1992[^2] on the conservation of natural habitats and of wild fauna and flora,
+
+(iii) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003[^3] establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC, and
+
+(iv) Decision No. 406/2009/EC of the European Parliament and of the Council of 23 April 2009 [^4] on the effort of Member States to reduce their greenhouse gas emissions to meet the Community’s greenhouse gas emission reduction commitments up to 2020,
+
+(b) existing or future obligations of the State under any international agreement,
+
+(c) any Act of the Oireachtas or instrument made thereunder that gives effect, or further effect, to any such obligation, or
+
+(d) existing or future entitlements of the State or any person under the said law, any such agreement or any such Act of the Oireachtas or instrument.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(a), S.I. No. 468 of 2021.
+
+## 2A. Limitation of liability
+
+F21[**2A.** For the avoidance of doubt no remedy or relief by way of damages or compensation is available with respect to or arising out of any failure, of whatever kind, to comply with any provision of this Act or any obligation or duty created thereunder.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 4, S.I. No. 468 of 2021.
+
+## 3. National climate objective
+
+F22[**3.** (1) The State shall, so as to reduce the extent of further global warming, pursue and achieve, by no later than the end of the year 2050, the transition to a climate resilient, biodiversity rich, environmentally sustainable and climate neutral economy (in this Act referred to as the "national climate objective").
+
+(2) For the purpose of enabling the State to pursue and achieve the national climate objective, the Minister shall make and submit to the Government for approval—
+
+(a) carbon budgets in accordance with *sections 6B* and *6D*,
+
+(b) a sectoral emissions ceiling in accordance with *section 6C*,
+
+(c) a climate action plan in accordance with *section 4*,
+
+(d) a national long term climate action strategy in accordance with *section 4*, and
+
+(e) a national adaptation framework in accordance with *section 5*.
+
+(3) The Minister and the Government shall carry out their respective functions under *sections 4*, *5*, *6*, *6A*, *6B*, *6C* and *6D* in a manner—
+
+(a) that is consistent with the ultimate objective specified in Article 2 of the United Nations Framework Convention on Climate Change done at New York on 9 May 1992, and:
+
+(i) any mitigation or adaptation commitments entered into by the European Union in response or otherwise in relation to that objective;
+
+(ii) the steps specified in Articles 2 and 4(1) of the Agreement done at Paris on 12 December 2015 to achieve that objective, and
+
+(b) which takes account of the most recent national greenhouse gas emissions inventory and projection of future greenhouse gas emissions, prepared by the Agency.
+
+(4) The Minister shall consult with the Advisory Council for the purpose of the performance, by him or her, of his or her functions under *sections 4*, *5* and *6*.
+
+(5) The Government may consult with the Advisory Council for the purpose of the performance by them of their functions under *sections 4* to *6D*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 5, S.I. No. 468 of 2021.
+
+## 4. Climate action plan and national long term climate action strategy
+
+F23[**4.** (1) The Minister shall, to enable the State to pursue and achieve the national climate objective—
+
+(a) prepare an annual update to the Climate Action Plan 2019 to Tackle Climate Breakdown, published by the Minister on 17 June 2019 (in this Act referred to as a ‘climate action plan’), and
+
+(b) prepare, not less frequently than once every 5 years, a national long term climate action strategy (in this Act referred to as a ‘national long term climate action strategy’).
+
+(2) The Minister shall, when preparing a climate action plan under *subsection (1)(a)*—
+
+(a) ensure that the plan is consistent with the carbon budget programme,
+
+(b) set out a roadmap of actions, to include—
+
+(i) sector specific actions that are required to comply with the carbon budget and sectoral emissions ceiling for the period to which the plan relates,
+
+(ii) sector specific actions that are required to address any failure, or projected failure, to comply with the carbon budget and sectoral emissions ceiling for the period to which the plan relates, and
+
+(iii) other actions and measures that are reasonably necessary to support Government policy on climate change, including measures to inform, and promote dialogue with, the public regarding the challenges and opportunities in the transition to a climate neutral economy,
+
+and
+
+(c) consult with—
+
+(i) any other Minister of the Government as he or she considers appropriate, including each Minister of the Government who has responsibility for sector specific actions, and
+
+(ii) the public and such persons as he or she considers appropriate.
+
+(3) The roadmap of actions referred to in *subsection (2)(b)* shall—
+
+(a) specify measures that, in the Minister’s opinion, will be required for the first budget period in a carbon budget programme,
+
+(b) set out an overview of the policies and, to the extent feasible, measures, that, in the Minister’s opinion, will be required for the second budget period in a carbon budget programme, and
+
+(c) outline potential policies that, in the Minister’s opinion, may be required for the third budget period in a carbon budget programme.
+
+(4) The Minister shall, in each year, commencing with the year 2021, submit a draft of the climate action plan to the Government for approval.
+
+(5) The national long term climate action strategy shall specify the manner in which it is proposed to achieve the national climate objective and shall include—
+
+(a) projected reductions in greenhouse gas emissions and the enhancement of sinks, for a minimum period of 30 years,
+
+(b) projected reductions in greenhouse gas emissions in each of the relevant sectors determined by the Government under *section 6C* and the enhancement of removals in such sectors, for a minimum period of 30 years, and
+
+(c) an assessment of potential opportunities for achieving reductions in greenhouse gas emissions in the sectors referred to in *paragraph (b)*.
+
+(6) When preparing the national long term climate action strategy the Minister shall—
+
+(a) ensure that the strategy is consistent with the carbon budget programme,
+
+(b) have regard to Article 15 of Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018[^5] on the Governance of the Energy Union and Climate Action, and
+
+(c) consult with—
+
+(i) any other Minister of the Government as he or she considers appropriate, and
+
+(ii) members of the public and such persons as he or she considers appropriate.
+
+(7) The Minister shall, as soon as may be after a draft national long term climate action strategy has been prepared, submit the draft national long term climate action strategy to the Government for approval.
+
+(8) For the purposes of performing their respective functions under this section, the Minister and the Government shall have regard to the following matters:
+
+(a) the need to deliver the best possible value for money consistent with the sustainable management of the public finances and to maximise, as far as practicable, the net benefits to society taking into account the impact of greenhouse gas emissions;
+
+(b) the need to promote sustainable development and restore, and protect, biodiversity;
+
+(c) relevant scientific or technical advice;
+
+(d) climate justice;
+
+(e) any recommendations or advice of the Advisory Council;
+
+(f) the social and economic imperative for early and cost-effective action in relation to climate change;
+
+(g) in so far as practicable, the need to maximise employment, the attractiveness of the State for investment and the long term competitiveness of the economy;
+
+(h) the fact that the means of achieving a climate neutral economy and other measures to enable the State to pursue the national climate objective may not yet be fully identified and may evolve over time through innovation, evolving scientific consensus and emerging technologies;
+
+(i) the role of behavioural change on the part of individuals and different sectors of society in supporting the Government to pursue the national climate objective and the policies and measures required to effect such change;
+
+(j) the risk of substantial and unreasonable carbon leakage as a consequence of measures implemented by the State to pursue the national climate objective;
+
+(k) the requirement for a just transition to a climate neutral economy which endeavours, in so far as is practicable, to—
+
+(i) maximise employment opportunities, and
+
+(ii) support persons and communities that may be negatively affected by the transition;
+
+(l) the protection of public health;
+
+(m) the National Planning Framework (or, where appropriate, the National Spatial Strategy);
+
+(n) the special economic and social role of agriculture, including with regard to the distinct characteristics of biogenic methane;
+
+(o) where a national long term climate action strategy has been approved under this section, the most recent approved national long term climate action strategy;
+
+(p) the 2019 Climate Action Plan or, where a climate action plan has been approved under this section, the most recent approved climate action plan;
+
+(q) where a national adaptation framework has been approved under *section 5*, the most recent approved national adaptation framework;
+
+(r) where sectoral adaptation plans have been approved under *section 6*, the most recent approved sectoral adaptation plans.
+
+(9) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+a climate action plan submitted to them under *subsection (4)* or a national long term climate action strategy submitted to them under *subsection (7)*.
+
+(10) The Minister shall, as soon as may be, cause an approved climate action plan and an approved national long term climate action strategy to be laid before the Houses of the Oireachtas.
+
+(11) A Minister of the Government, shall, in so far as practicable, perform his or her functions in a manner consistent with the most recent approved climate action plan and the most recent approved national long term climate action strategy.
+
+(12) In this section—
+
+"carbon leakage" means the transfer, due to climate policies, of production to other countries with less restrictive policies with regard to greenhouse gas emissions;
+
+"National Planning Framework" has the meaning F24[it has in the Planning and Development Act 2024];
+
+"National Spatial Strategy" means the "National Spatial Strategy: 2002-2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 6, S.I. No. 468 of 2021.
+>
+> F24: Substituted (2.10.2025) by *Planning and Development Act 2024* (34/2024), s. 631, sch. 7, ref. no. 45, S.I. No. 452 of 2025.
+
+## 5. National climate change adaptation framework
+
+**5.** (1) (a) The Minister shall, not later than 24 months after the passing of this Act, make, and submit to the Government for approval, a plan, which shall be known as a national climate change adaptation framework (in this Act referred to as a “national adaptation framework”).
+
+(b) The Minister—
+
+(i) shall review a national adaptation framework approved by the Government under this section not less than once in every period of 5 years, and
+
+(ii) may, having regard to that review and the requirements of adaptation in relation to the effects of climate change, make and submit to the Government for approval, a national adaptation framework.
+
+(2) A national adaptation framework shall—
+
+(a) specify the national strategy for the application of adaptation measures in different sectors and by a local authority in its administrative area in order to—
+
+(i) reduce the vulnerability of the State to the negative effects of climate change, and
+
+(ii) avail of positive effects of climate change that may occur,
+
+and
+
+(b) take into account any existing obligation of the State under the law of the European Union or any international agreement, referred to in *section 2*.
+
+(3) The Minister shall, before submitting a national adaptation framework to the Government for approval—
+
+(a) publish, in such manner as he or she considers appropriate, a draft of the national adaptation framework that he or she proposes to make,
+
+(b) publish a notice on the internet and in more than one newspaper circulating in the State inviting members of the public and any interested parties to make submissions in writing in relation to the proposed national adaptation framework within such period (not exceeding 2 months from the date of the publication of the notice) as may be specified in the notice, and
+
+(c) have regard to any submissions made pursuant to, and in accordance with, a notice under *paragraph (b)*.
+
+(4) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modification as they consider appropriate, a national adaptation framework submitted to them under this section.
+
+(5) The Government may, at any time, vary or revise a national adaptation framework approved by them under this section.
+
+F25[(5A) For the purposes of performing their respective functions under this section, the Minister and the Government shall have regard to the matters specified in *section 4(8)*.]
+
+(6) A national adaptation framework shall be laid before each House of the Oireachtas as soon as may be after it is approved by the Government.
+
+(7) F26[...]
+
+(8) A Minister of the Government shall, in the performance of his or her functions, have regard to a national adaptation framework approved by the Government under this section.
+
+(9) F27[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 7(a), S.I. No. 468 of 2021.
+>
+> F26, F27: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 7(b), S.I. No. 468 of 2021.
+
+## 6. Sectoral adaptation plan
+
+**6.** (1) The Government shall, within 3 months of the laying before each House of the Oireachtas of a national adaptation framework in accordance with *section 5(6)*, request such Ministers of the Government as they consider appropriate to submit to the Government, within a specified period, a plan (in this Act referred to as a “sectoral adaptation plan”) to be made by each such Minister of the Government to whom such request is made in relation to a matter for which each such Minister of the Government has responsibility.
+
+F28[(1A) The Government may request 2 or more Ministers of the Government to jointly make and submit a sectoral adaptation plan under *subsection (1)* (in this section referred to as a "joint sectoral adaptation plan"), in relation to a matter for which such Ministers of the Government share responsibility.]
+
+(2) A sectoral adaptation plan shall specify the adaptation policy measures the Minister of the Government concerned, having regard to the approved national adaptation framework, proposes to adopt for the purposes of—
+
+(a) enabling adaptation to the effects of climate change to be achieved in relation to the matter to which the sectoral adaptation plan relates, and
+
+(b) enabling the achievement of the F30[national climate objective].
+
+(3) A Minister of the Government to whom a request F31[under *subsection (1)* or *(1A)* has been made] shall, not later than the expiration of such period as the Government specify, make, and submit to the Government for approval, a sectoral adaptation plan and, in the preparation of such plan, each such Minister of the Government shall—
+
+(a) consult with any other Ministers of the Government as the Minister specifies under *subsection (4)*,
+
+(b) consult with the Agency,
+
+(c) have regard to the national adaptation framework approved by the Government F36[...], and
+
+(d) consult with the Advisory Council.
+
+(4) For the purposes of the consultation referred to in *subsection (3)(a)* to be carried out by a Minister of the Government to whom a request has been made F32[under *subsection (1)* or *(1A)*], the Minister shall specify one or more other Ministers of the Government with whom that Minister of the Government is to consult.
+
+(5) A Minister of the Government to whom a request has been made F33[under *subsection (1)* or *(1A)*] shall, before submitting a sectoral adaptation plan to the Government—
+
+(a) publish, in such manner as he or she considers appropriate, a draft of the sectoral adaptation plan that he or she proposes to make,
+
+(b) publish a notice on the internet and in more than one newspaper circulating in the State inviting members of the public and any interested parties to make submissions in writing in relation to the proposed sectoral adaptation plan, as the case may be, within such period (not exceeding 2 months from the date of the publication of the notice) as may be specified in the notice, and
+
+(c) have regard to any submissions made pursuant to, and in accordance with, a notice under *paragraph (b)*.
+
+(6) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+a sectoral adaptation plan submitted to them under this section.
+
+(7) F34[A Minister of the Government, or 2 or more Ministers of the Government in the case of a joint sectoral adaptation plan, may,] at any time, make and submit to the Government for approval a plan (in this section also referred to as a “sectoral adaptation plan”) revising or replacing an approved sectoral adaptation plan.
+
+(8) The Government may vary or revise a sectoral adaptation plan approved by them under this section.
+
+(9) A sectoral adaptation plan shall not be implemented unless it has been approved by the Government in accordance with this section.
+
+(10) Where F35[under *subsection (1)* or *(1A)*], the Government requests the Minister to make a sectoral adaptation plan, for the purposes of *subsection (3)(a)*, the Minister shall consult with any other Minister of the Government as he or she considers appropriate.
+
+F29[(11) For the purposes of performing their respective functions under this section, the Minister and the Government shall have regard to the matters specified in *section 4(8)*.
+
+(12) A reference in this Act to a sectoral adaptation plan shall, where the context admits, be construed as a reference to a joint sectoral adaptation plan.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28, F29: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 8(a), (g), S.I. No. 468 of 2021.
+>
+> F30: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(c), S.I. No. 468 of 2021.
+>
+> F31, F32, F33, F34, F35: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 8(b)(i), (c)-(f), S.I. No. 468 of 2021.
+>
+> F36: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 8(b)(ii), S.I. No. 468 of 2021.
+
+## 6A. Preparation of carbon budgets
+
+F37[**6A.** (1) A carbon budget, consistent with furthering the achievement of the national climate objective, shall be proposed by the Advisory Council, finalised by the Minister and approved by the Government for the period of five years commencing on 1 January 2021 and ending on 31 December 2025 and for each subsequent period of five years (in this Act referred to as a "budget period").
+
+(2) A carbon budget shall be made for three sequential budget periods so that, at any one time, there is a series of three carbon budgets which have effect under *section 6B* (in this Act referred to as a "carbon budget programme").
+
+(3) The carbon budget relating to the third budget period in a carbon budget programme shall be made in draft form and may be amended in accordance with *section 6B* (in this Act referred to as a "provisional carbon budget").
+
+(4) The Advisory Council shall prepare and submit a proposed carbon budget programme to the Minister as soon as may be after the coming into operation of section 9 of the Climate Action and Low Carbon Development (Amendment) Act 2021.
+
+(5) The first two carbon budgets proposed by the Advisory Council shall provide for a reduction in greenhouse gas emissions such that the total amount of annual greenhouse gas emissions in the year ending on 31 December 2030 is 51 per cent less than the annual greenhouse gas emissions reported for the year ending on 31 December 2018, as set out in the national greenhouse gas emissions inventory prepared by the Agency.
+
+(5A) (a) The Government shall make regulations for determining the greenhouse gas emissions to be taken into account, and the manner of calculating and accounting for such emissions (including any reductions), for the purpose of—
+
+(i) the first 2 carbon budgets referred to in *subsection (5)*, and
+
+(ii) every carbon budget thereafter.
+
+(b) The Government shall, when making regulations under *paragraph (a)*, have regard to the rules applied by the European Union in relation to the matters referred to in *paragraph (a)*.
+
+(5B) The Government may make regulations to specify the base year in relation to the reduction of greenhouse gas emissions for budget periods after 31 December 2030.
+
+(6) Not less than 12 months prior to the expiry of the first carbon budget in a carbon budget programme, the Advisory Council shall prepare and submit to the Minister—
+
+(a) a proposed carbon budget in respect of the budget period following the third budget period in the carbon budget programme, and
+
+(b) proposed amendments, if any, to the provisional carbon budget.
+
+(7) The Advisory Council shall provide the reasons for its proposed carbon budget programme under *subsection (4)*, a proposed carbon budget under *subsection (6)(a)* and any proposed amendments to a provisional carbon budget under *subsection (6)(b)*, in writing to the Minister.
+
+(8) Not more than 30 days after submitting a proposed carbon budget programme, a proposed carbon budget or any proposed amendments to a provisional carbon budget to the Minister under this section, the Advisory Council shall publish the proposed carbon budget programme, the proposed carbon budget or any proposed amendments to the provisional carbon budget, as the case may be, in such manner as the Advisory Council considers appropriate.
+
+(9) The Advisory Council shall—
+
+(a) carry out its functions under this section in a manner—
+
+(i) that is consistent with the ultimate objective specified in Article 2 of the United Nations Framework Convention on Climate Change done at New York on 9 May 1992 and the matters specified in *subparagraphs (i)* and *(ii)* of *section 3(3)(a)*, and
+
+(ii) which takes account of—
+
+(I) the most recent national greenhouse gas emissions inventory and projection of future greenhouse gas emissions, prepared by the Agency,
+
+(II) relevant scientific advice, including with regard to the distinct characteristics of biogenic methane,
+
+(III) international best practice on the reporting of greenhouse gas emissions and removal, and
+
+(IV) in so far as practicable, the need to maximise employment, the attractiveness of the State for investment and the long term competitiveness of the economy,
+
+(b) have regard to climate justice when carrying out its functions under this section, and
+
+(c) the Advisory Council shall comply with regulations under *subsection (5A)* when carrying out its functions under this section.
+
+(10) (a) The Minister shall, when preparing a carbon budget and a sectoral emissions ceiling, recommend to Government to decide that a Minister of the Government may comply with the carbon budget, and a sectoral emissions ceiling for which that Minister of the Government has responsibility, by the removal of greenhouse gas emissions.
+
+(b) Where the Government approves the recommendation of the Minister under *paragraph (a)*, the Minister of the Government concerned shall, when complying with the carbon budget and the sectoral emission ceiling for which that Minister of the Government has responsibility, comply with regulations made by the Government under *subsection (11)*.
+
+(11) (a) The Government shall make regulations for the purpose of—
+
+(i) determining how the removal of greenhouse gas emissions may be taken into account, and in particular the method of calculating and accounting for such removals, including the base year to be applied to such removals, when complying with a carbon budget and a sectoral emissions ceiling,
+
+(ii) specifying which removals may be used for the purposes referred to in *subparagraph (i)*, and
+
+(iii) determining the mechanism by which such removals are to be effected.
+
+(b) When making regulations under *paragraph (a)* the Government shall have regard to the rules applied by the European Union in respect of the matters specified in *subparagraphs (i)* to *(iii)* of *paragraph (a)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 9, S.I. No. 468 of 2021.
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (5A) exercised (12.10.2021) by *Climate Action and Low Carbon Development Act 2015 (Greenhouse Gas Emissions) Regulations 2021* (S.I. No. 531 of 2021).
+
+## 6B. Approval of carbon budget
+
+F38[**6B.** (1) The Minister, within four months of the receipt of a carbon budget under *section 6A*, shall—
+
+(a) cause a copy of the carbon budget to be presented to both Houses of the Oireachtas,
+
+(b) consider the carbon budget,
+
+(c) amend, if appropriate, and finalise the carbon budget,
+
+(d) submit the carbon budget to the Government for approval in accordance with *subsection (6)*, and
+
+(e) lay a copy of the carbon budget before both Houses of the Oireachtas for approval in accordance with *subsection (7)*.
+
+(2) Dáil Éireann may refer a carbon budget to a joint committee which shall consider the carbon budget and provide a report in writing containing its recommendations to both Houses of the Oireachtas within two months from the date it is presented to Dáil Éireann under *subsection (1)(a)*.
+
+(3) The Minister shall, at the written request of the joint committee to which a carbon budget has been referred under *subsection (2)*, attend before it and provide such information in relation to the carbon budget as the joint committee may reasonably require.
+
+(4) When finalising a carbon budget, the Minister shall consult with—
+
+(a) any other Minister of the Government as he or she considers appropriate, and
+
+(b) members of the public and such persons as he or she considers appropriate.
+
+(5) Where the Minister amends the carbon budget proposed by the Advisory Council, the Minister shall set out his or her reasons for doing so.
+
+(6) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+a carbon budget submitted to them under *subsection (1)(d)*.
+
+(7) Where the carbon budget is approved by the Government under *subsection (6)*, the Minister shall cause a copy of the carbon budget to be laid before each House of the Oireachtas, which shall consider the carbon budget as soon as may be, and the carbon budget shall have effect from the date on which a motion approving the carbon budget has been passed by the second such House.
+
+(8) Where the motion is not approved by both Houses of the Oireachtas under *subsection (7)*, the Minister shall within a period of two months—
+
+(a) consult with any other Minister of the Government as he or she considers appropriate,
+
+(b) consult with the Advisory Council,
+
+(c) amend the carbon budget, if appropriate, and
+
+(d) submit the carbon budget to the Government for approval to lay the budget before each House of the Oireachtas in accordance with *subsection (11)*.
+
+(9) Where the Minister does not amend the carbon budget under *subsection (8)(c)*, the Minister shall, in submitting the carbon budget to the Government under *subsection (8)(d)*, set out the reasons for his or her decision.
+
+(10) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+a carbon budget submitted to them under *subsection (8)(d)*.
+
+(11) Where a carbon budget is approved by the Government under *subsection (10)*, the Minister shall, as soon as may be, cause a copy of the carbon budget to be laid before each House of the Oireachtas and it shall have effect from the date on which it is laid before the Houses, or the second such House if it is laid before the Houses on different dates.
+
+(12) Not more than 30 days after a carbon budget takes effect under *subsection (7)* or *(11)*, as the case may be, the Minister shall publish the carbon budget in such manner as the Minister considers appropriate.
+
+(13) A Minister of the Government shall, in so far as practicable, perform his or her functions in a manner consistent with a carbon budget that has effect under *subsection (7)* or *(11)*, as the case may be.
+
+(14) This section applies to the first carbon budget programme and to an amendment to a provisional carbon budget in the same manner as it applies to a carbon budget, and a reference in this section to a carbon budget shall, where the context admits, be construed as a reference to the first carbon budget programme or to an amendment to a provisional carbon budget, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 9, S.I. No. 468 of 2021.
+
+## 6C. Sectoral emissions ceiling
+
+F39[**6C.** (1) The Minister shall prepare, within the limits of the carbon budget, the maximum amount of greenhouse gas emissions that are permitted in different sectors of the economy during a budget period (in this Act referred to as a "sectoral emissions ceiling") and different ceilings may apply to different sectors.
+
+(2) The sectors of the economy to which each sectoral emissions ceiling shall apply shall be determined from time to time by the Government.
+
+(3) The Minister shall, when preparing a sectoral emissions ceiling, consult with such Ministers of the Government as he or she considers appropriate.
+
+(4) The Minister shall, as soon as may be after a carbon budget takes effect under *section 6B*, finalise and submit each sectoral emissions ceiling to the Government for approval.
+
+(5) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+a sectoral emissions ceiling.
+
+(6) Where a provisional carbon budget is amended under *section 6B* or a carbon budget is revised under *section 6D*, the Minister shall—
+
+(a) consult with such Ministers of the Government as he or she considers appropriate, and
+
+(b) revise, if appropriate, a sectoral emissions ceiling for the budget period concerned.
+
+(7) Where the Minister revises a sectoral emissions ceiling under *subsection (6)(b)*, he or she shall, as soon as may be, submit the revision to the sectoral emissions ceiling to the Government for approval.
+
+(8) The Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+the revision to the sectoral emissions ceiling.
+
+(9) A Minister of the Government shall, in so far as practicable, in the performance of his or her functions, comply with the sectoral emissions ceiling that applies to the sector for which that Minister of the Government has responsibility.
+
+(10) For the purposes of performing their respective functions under this section, the Minister and the Government shall have regard to the matters specified in *paragraphs (a)* to *(n)* of *section 4(8)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 9, S.I. No. 468 of 2021.
+
+## 6D. Revision of carbon budgets
+
+F40[**6D.** (1) The Minister may revise a carbon budget in the circumstances set out in *subsection (2)*, *(4)* or *(5)*.
+
+(2) The Minister may revise a carbon budget where—
+
+(a) new obligations are imposed on the State under the law of the European Union or any international agreement referred to in *section 2*, or
+
+(b) there are significant developments in scientific knowledge in relation to climate change.
+
+(3) As soon as may be after the end of each budget period, the Agency shall provide the greenhouse gas emissions inventory for that budget period to the Minister and the Minister shall review the greenhouse gas emissions during that budget period.
+
+(4) Where the total greenhouse gas emissions for a preceding budget period are less than the carbon budget for that period, the Minister may carry forward the surplus from the preceding budget period to the current budget period and the current carbon budget shall be increased by the surplus carried forward.
+
+(5) Where the total greenhouse gas emissions for a preceding budget period exceed the carbon budget for that period, the Minister shall carry forward the excess greenhouse gas emissions from the preceding budget period to the current budget period and the current carbon budget shall be decreased by the amount of greenhouse gas emissions that are carried forward.
+
+(6) The Minister shall consult with and consider the advice of the Advisory Council prior to requesting the approval of the Government in relation to a revision of a carbon budget under this section.
+
+(7) The Minister shall, as soon as may be, submit the revision to a carbon budget under *subsection (2)*, *(4)* or *(5)* to the Government for approval and the Government may—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+the revision to a carbon budget submitted to them under this subsection.
+
+(8) A revision to a carbon budget under this section shall have effect from the date on which it is approved by the Government.
+
+(9) Not more than 30 days after a revision to a carbon budget takes effect under *subsection (8)*, the Minister shall publish the revised carbon budget in such manner as the Minister considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 9, S.I. No. 468 of 2021.
+
+## 7. Matters of which account is to be taken, and consultation, for the purposes of sections 5 and 6
+
+**7.** F41[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(b), S.I. No. 468 of 2021.
+
+## 8. Establishment of Climate Change Advisory Council
+
+**8.** (1) The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+
+(2) There shall stand established, on the establishment day, a body which shall be known, in the Irish language, as An Chomhairle Chomhairleach um Athrú Aeráide or, in the English language, as the Climate Change Advisory Council (in this Act referred to as “Advisory Council”) to perform the functions assigned to it under this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (18.01.2016) by *Climate Action and Low Carbon Development Act 2015 (Establishment Day) Order 2016* (S.I. No. 25 of 2016).
+
+## 9. Membership of Advisory Council and related matters
+
+**9.** (1) The Advisory Council shall consist of—
+
+(a) a chairperson, and
+
+(b) not fewer than 8 and not more than F42[13 ordinary members] (including ordinary members to whom *subsection (2)* applies).
+
+(2) Each of the following shall, ex officio, be ordinary members of the Advisory Council :
+
+(a) the Director General of the Agency;
+
+(b) F47[...]
+
+(c) the Director of Teagasc - The Agriculture and Food Development Authority; and
+
+(d) F48[...]
+
+F49[(e) the Director of the Irish National Meteorological Service, Met Éireann.]
+
+(3) The chairperson and ordinary members (other than an ordinary member to whom *subsection (2)* applies) of the Advisory Council shall be appointed by the Government, on the nomination of the Minister.
+
+F43[(4) In nominating and appointing the chairperson and the ordinary members under *subsection (3)*, the Minister and the Government shall—
+
+(a) have regard to the range of qualifications, experience and competence necessary for the proper and effective performance of the functions of the Advisory Council and ensure that each member has knowledge of, or expertise in, at least one of the following areas:
+
+(i) climate science;
+
+(ii) adaptation policy;
+
+(iii) transport policy;
+
+(iv) energy policy;
+
+(v) agricultural policy;
+
+(vi) behavioural and communication science;
+
+(vii) biodiversity and eco-system services;
+
+(viii) economics;
+
+(ix) finance;
+
+(x) political sociology or ethics in relation to climate,
+
+and
+
+(b) use their best endeavours to ensure that the membership of the Advisory Council has—
+
+(i) an appropriate balance of knowledge of, and expertise in, the areas specified in *subparagraphs (i)* to *(x)* of *paragraph (a)*, and
+
+(ii) an equitable balance between men and women.]
+
+(5) (a) The chairperson of the Advisory Council shall hold office for such period not exceeding 5 years as the Minister shall determine.
+
+F44[(b) An ordinary member (other than an ordinary member to whom *subsection (2)* applies) of the Advisory Council shall hold office for such period as the Minister shall determine, provided that—
+
+(i) at least 2 such members shall hold office for a period of three years from the date of their appointment to such office, and
+
+(ii) at least 3 such members shall hold office for a period of five years from the date of such appointment.]
+
+F45[(6) The chairperson and an ordinary member (other than an ordinary member to whom *subsection (2)* applies) of the Advisory Council whose term of office expires by the efflux of time shall be eligible for reappointment to the Advisory Council, provided that a person’s total period of membership of the Advisory Council does not exceed 10 years.]
+
+F46[(7) Where the term of office of the chairperson or an ordinary member (other than an ordinary member to whom *subsection (2)* applies) of the Advisory Council expires by the efflux of time and he or she is not reappointed, or by virtue of *subsection (6)* he or she is not eligible for reappointment, the chairperson or ordinary member may continue to hold office until the vacancy occasioned by him or her is filled by the appointment of another person.]
+
+(8) A member of the Advisory Council shall hold office on such terms and conditions (including terms and conditions in relation to allowances for expenses) as may be determined by the Minister with the consent of the Minister for Public Expenditure and Reform.
+
+(9) A member of the Advisory Council may resign from office by giving notice in writing to the Minister of his or her resignation and the resignation shall take effect on the day on which the Minister receives the notice.
+
+(10) The Government may, at any time, remove—
+
+(a) the chairperson, and
+
+(b) an ordinary member (other than an ordinary member to whom *subsection (2)*) applies,
+
+of the Advisory Council from office if, in the opinion of the Government, the chairperson, or such ordinary member, has become incapable through ill health of effectively performing his or her functions, or has committed stated misbehaviour, or his or her removal appears to the Government to be necessary for the effective performance by the Advisory Council of its functions.
+
+(11) If a member of the Advisory Council—
+
+(a) is nominated as a member of Seanad Éireann,
+
+(b) is elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(c) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to the European Parliament, or
+
+(d) becomes a member of a local authority,
+
+he or she thereupon ceases to be a member of the Advisory Council.
+
+(12) A person who is for the time being—
+
+(a) entitled under the Standing Orders of either House of the Oireachtas to sit therein,
+
+(b) a member of the European Parliament, or
+
+(c) entitled under the standing orders of a local authority to sit as a member thereof,
+
+shall, while he or she is so entitled or is such a member, be disqualified from membership of the Advisory Council.
+
+(13) A member of the Advisory Council shall cease to be qualified for office and shall cease to hold office if he or she—
+
+(a) is adjudicated bankrupt,
+
+(b) makes a composition or arrangement with creditors,
+
+(c) is convicted of an indictable offence in relation to a company,
+
+(d) is convicted of an offence involving fraud or dishonesty, whether or not in connection with a company,
+
+(e) is sentenced by a court of competent jurisdiction to a term of imprisonment, or
+
+(f) is, or is deemed to be, the subject of an order under section 160 of the Companies Act 1990 or a disqualification order within the meaning of Chapter 4 of Part 14 of the Companies Act 2014.
+
+(14) (a) If a member of the Advisory Council dies, resigns, ceases to be qualified for office and ceases to hold office or is removed from office, the Government may appoint a person to be a member of the Advisory Council to fill the casual vacancy so occasioned in the same manner as the member of the Advisory Council who occasioned the casual vacancy was appointed.
+
+(b) A person appointed to be a member of the Advisory Council pursuant to *paragraph (a)* shall hold office for that period of the term of office of the member who occasioned the casual vacancy concerned that remains unexpired at the date of his or her appointment and shall, subject to this section, be eligible for reappointment as a member of the Advisory Council on the expiry of such period.
+
+F50[(14A) The chairperson shall chair meetings of the Advisory Council and in the event of the chairperson being unable to attend a meeting, or if the office of chairperson is vacant, the ordinary members who are present shall choose one of their number to chair the meeting.
+
+(14B) Each member of the Advisory Council, including the chairperson, present at a meeting of the Advisory Council shall have a vote.
+
+(14C) Every question at a meeting of the Advisory Council shall be determined by a majority of the votes of the members who are present and voting on the question, and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(14D) The quorum for a meeting of the Advisory Council shall be 7.]
+
+(15) The Advisory Council may act notwithstanding one or more than one vacancy among its members.
+
+(16) The Advisory Council may establish committees consisting, in whole or in part, of persons who are members of the Advisory Council to—
+
+(a) assist and advise it in relation to the performance of any or all of its functions, and
+
+(b) perform such functions of the Advisory Council as it may, with the consent of the Minister, delegate to the committee.
+
+F51[(16A) Without prejudice to the generality of *subsection (16)*, the Advisory Council shall establish, under that subsection, a committee to be known as the Adaptation Committee to assist and advise it in relation to the performance of any or all of its functions in relation to adaptation.]
+
+(17) The chairperson of a committee established under *subsection (16)* shall be a member (other than an ordinary member to whom *subsection (2)* applies) of the Advisory Council.
+
+(18) The Agency shall—
+
+(a) provide the Advisory Council with such services of a secretarial and administrative nature as is appropriate for the performance by the Advisory Council of its functions, and
+
+(b) permit the Advisory Council to avail of the use of its premises, or such part of its premises as, following consultation between the Advisory Council and the Agency, is considered appropriate, for the purposes of the performance by the Advisory Council of its functions.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42, F43, F44, F45, F46: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 10(a), (c)-(f), S.I. No. 468 of 2021, subject to transitional provision in subs. (2).
+>
+> F47, F48: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 10(b)(i), S.I. No. 468 of 2021, subject to transitional provision in subs. (2).
+>
+> F49, F50, F51: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 10(b)(ii), (g), (h), S.I. No. 468 of 2021, subject to transitional provision in subs. (2).
+
+## 10. Disclosure of interests
+
+**10.** (1) Where at a meeting of the Advisory Council or a committee, a member of the Advisory Council F52[or a committee] present at the meeting who, otherwise than in his or her capacity as such member, has a material interest in any matter which falls to be considered by the Council or the committee, such member shall—
+
+(a) at the meeting disclose to the Advisory Council, or the committee, the fact of such interest and the nature of such interest,
+
+(b) neither influence nor seek to influence a decision to be made in relation to the matter,
+
+(c) absent himself or herself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(d) take no part in any deliberation of the Advisory Council, or the committee, relating to the matter, and
+
+(e) not vote on a decision relating to the matter.
+
+(2) Where a material interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned.
+
+(3) Where at a meeting of the Advisory Council a question arises as to whether or not a course of conduct, if pursued by a member of the Advisory Council, would constitute a failure by him or her to comply with the requirements of *subsection (1)*, the question may, subject to *subsection (4)*, be determined by the chairperson of the meeting, whose decision shall be final, and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(4) Where, at a meeting of the Advisory Council or a committee, the chairperson of the meeting is the member in respect of whom a question to which *subsection (3)* applies falls to be determined, then the other members of the Advisory Council attending the meeting shall choose one of their number to be chairperson of the meeting for the purpose of determining the question concerned.
+
+(5) Where the Government is satisfied that a member of the Advisory Council has contravened *subsection (1)*, the Government may, if they think fit, remove that member from office and, in the case of a person removed from office pursuant to this subsection, he or she shall thenceforth be disqualified for membership of the Advisory Council.
+
+(6) In this section—
+
+“committee” means a committee referred to in *section 9(16)*;
+
+“material interest” shall be construed in accordance with section 2(3) of the Ethics in Public Office Act 1995.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 14, S.I. No. 468 of 2021.
+
+## 11. General functions of Advisory Council
+
+**11.** (1) The functions of the Advisory Council shall be to advise and make recommendations to—
+
+(a) the Minister in relation to—
+
+F53[(i) the preparation of a climate action plan,
+
+(ii) the preparation of a national long term climate action strategy,
+
+(iii) the preparation of a national adaptation framework,
+
+(iv) the finalisation and revision of a carbon budget, and
+
+(v) compliance with any existing obligation of the State under the law of the European Union or any international agreement referred to in *section 2*,]
+
+(b) a Minister of the Government in relation to—
+
+F54[(i) sector specific actions, within his or her responsibility, which are to be included in the climate action plan, and]
+
+(ii) the making by him or her of a sectoral adaptation plan,
+
+(c) the Government in relation to the approval of—
+
+F55[(i) a climate action plan,
+
+(ii) a national long term climate action strategy,
+
+(iii) a national adaptation framework, and
+
+(iv) a sectoral adaptation plan,]
+
+and
+
+(d) the Government, the Minister and any other Minister of the Government in respect of any policy of the Government, or any policy that is proposed to be submitted to the Government for approval relating to—
+
+(i) the reduction of greenhouse gas emissions, and
+
+(ii) adaptation to the effects of climate change in the State.
+
+F56[(1A) The Advisory Council shall prepare and submit to the Minister—
+
+(a) a proposed carbon budget programme under *section 6A(4)*,
+
+(b) a proposed carbon budget under *section 6A(6)(a)*, and
+
+(c) proposed amendments, if any, to a provisional carbon budget under *section 6A(6)(b)*.]
+
+(2) For the purposes of the performance of its functions, the Advisory Council may—
+
+(a) gather such information as it considers necessary or appropriate, and
+
+(b) meet and consult with such persons (including members of the public) as it considers appropriate.
+
+(3) The Advisory Council shall be independent in the performance of its functions.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53, F54, F55: Substituted and inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 11(a)(i)-(iii), S.I. No. 468 of 2021.
+>
+> F56: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 11(b), S.I. No. 468 of 2021.
+
+## 12. Annual review by, and annual report of, Advisory Council
+
+**12.** (1) The Advisory Council shall—
+
+F57[(a) conduct a review (in this section referred to as the "annual review") by 30 October in each year of the progress made during the immediately preceding year in—
+
+(i) achieving reductions in greenhouse gas emissions,
+
+(ii) complying with the carbon budget and each sectoral emissions ceiling for that period, and
+
+(iii) furthering the achievement of the national climate objective,
+
+and]
+
+(b) not later than 30 days after the completion of the annual review, prepare and submit to the Minister a report F58[(in this Act referred to as the "annual report")] on its findings and recommendations consequent upon that annual review.
+
+(2) Without prejudice to the generality of *subsection (1)*, the annual report shall contain—
+
+(a) a summary of the findings set out in the most recent national greenhouse gas emissions inventory prepared by the Agency,
+
+(b) a summary of the most recent projection of future greenhouse gas emissions prepared by the Agency,
+
+F59[(ba) a projection of future greenhouse gas emissions in each sector of the economy to which a sectoral emissions ceiling applies,
+
+(bb) such recommendations, as the Advisory Council considers necessary or appropriate, in relation to sector specific actions to be included under *section 4(2)(b)(ii)* to address any failure, or projected failure, to comply with a sectoral emissions ceiling,]
+
+(c) such recommendations, as the Advisory Council considers necessary or appropriate, in relation to the most cost-effective manner of achieving reductions in greenhouse gas emissions in order to enable the achievement of the F60[national climate objective],
+
+(d) such recommendations as the Advisory Council considers necessary or appropriate, in relation to compliance with an existing obligation of the State under the law of the European Union or an international agreement referred to in *section 2* ,
+
+(e) such other recommendations or advice as the Advisory Council considers necessary or appropriate in order to enable the achievement of the F61[national climate objective], and
+
+(f) a summary of—
+
+(i) the activities of the Advisory Council under *section 11(2)*, and
+
+(ii) any information gathered in accordance with *section 11(2)*.
+
+(3) Not more than 30 days after submitting an annual report to the Minister under this section, the Advisory Council shall publish the annual report by such means as the Agency may advise.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57, F58: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 12(1)(a)(i), (ii), S.I. No. 468 of 2021, subject to exemption for period to 2022 in subs. (2).
+>
+> F59: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 12(b), S.I. No. 468 of 2021, subject to exemption for period to 2022 in subs. (2).
+>
+> F60, F61: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(c), S.I. No. 468 of 2021.
+
+## 13. Periodic review by Advisory Council
+
+**13.** (1) The Advisory Council shall, not later than 18 months after the establishment day, conduct a review (in this Act referred to as a “periodic review”) of—
+
+(a) progress made in meeting the obligations of the State under Decision No. 406/2009/EC of the European Parliament and of the Council of 23 April 2009 on the effort of Member States to reduce their greenhouse gas emissions to meet the Community’s greenhouse gas emission reduction commitments up to 2020, and
+
+(b) progress made in furthering the achievement of the F62[national climate objective].
+
+(2) The Advisory Council may, at any time it considers appropriate having regard to—
+
+(a) any significant developments relating to scientific knowledge in relation to climate change,
+
+(b) any significant developments in the law of the European Union or international law relating to the control and reduction of emissions of greenhouse gases or adaptation to the effects of climate change, or
+
+(c) the need to maintain progress to enable the achievement of the F63[national climate objective],
+
+conduct a review (in this Act also referred to as a “periodic review”) of—
+
+(i) progress made in furthering the achievement of the F64[national climate objective],
+
+F66[(ii) the most recent approved climate action plan, approved national long term climate action strategy, approved national adaptation framework, approved sectoral adaptation plans, the carbon budget programme or any sectoral emissions ceiling, and
+
+(iii) the implementation of the plans, strategy, framework, budget or sectoral emissions ceiling referred to in *paragraph (ii)*.]
+
+(3) The Minister may request the Advisory Council to conduct a periodic review of the matters referred to in *paragraphs (i)*, *(ii)* and (iii) of *subsection (2)* and when conducting that review to have regard to *paragraphs (a)*, *(b)* and *(c)* of that subsection.
+
+(4) The Advisory Council shall, not later than 30 days after receiving a request under *subsection (3)*, either—
+
+(a) initiate a periodic review, or
+
+(b) where it is of the opinion that a periodic review is not necessary having regard to *paragraphs (a)*, *(b)* and *(c)* of *subsection (2)*, notify the Minister of its opinion and the reasons for it.
+
+(5) The Advisory Council shall, not later than 30 days after the completion of a periodic review, prepare and submit to the Minister a report (in this Act referred to as a “periodic review report”) of its findings and recommendations consequent on that review.
+
+(6) The Minister shall, as soon as may be after receiving a periodic review report, cause the report to be submitted to the Government.
+
+(7) A periodic review report shall include—
+
+(a) where it is prepared consequent upon a periodic review under *subsection (2)* or *(3)*, a statement of the reason for conducting the periodic review,
+
+(b) a consideration of the F65[national climate objective] and any matter relating to that objective as the Advisory Council considers appropriate,
+
+(c) in relation to an existing obligation of the State under the law of the European Union or an international agreement referred to in *section 2* —
+
+(i) a consideration of compliance with such obligation and any matters relating to such obligation as the Advisory Council considers appropriate, and
+
+(ii) such advice or recommendations in relation to such compliance as the Advisory Council considers appropriate,
+
+F67[(d) such advice or recommendations, as the Advisory Council considers appropriate, in relation to—
+
+(i) the climate action plan,
+
+(ii) the national long term climate action strategy,
+
+(iii) the national adaptation framework,
+
+(iv) a sectoral adaptation plan,
+
+(v) the carbon budget programme, and
+
+(vi) any sectoral emissions ceiling,
+
+and]
+
+(e) such other advice or recommendations as the Advisory Council considers necessary or appropriate—
+
+(i) for the purposes of the development and implementation of the national policy regarding climate change, and
+
+(ii) in relation to likely future obligations of the State under the law of the European Union or an international agreement.
+
+(8) Not more than 30 days after submitting a periodic review report to the Minister in accordance with this section, the Advisory Council shall publish the report by such means as the Agency may advise.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62, F63, F64, F65: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(c), S.I. No. 468 of 2021.
+>
+> F66, F67: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 13(a), (b), S.I. No. 468 of 2021.
+
+## 14. Presentation of annual transition statement to each House of the Oireachtas
+
+**14.** F68[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Deleted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 18(b), S.I. No. 468 of 2021.
+
+## 14A. Climate Reporting
+
+F69[**14A.** (1) The Minister shall, in each year after the publication of the annual report and the Agency’s reports, at the written request of a joint committee, attend before it to give an account, for the period of the annual report, of the following matters:
+
+(a) progress under the most recent approved climate action plan, including the policies, mitigation measures and adaptation measures that have been adopted;
+
+(b) whether there has been a reduction or increase in greenhouse gas emissions based on the Agency’s reports;
+
+(c) compliance with the carbon budget and any measures envisaged to address any failure to so comply;
+
+(d) the implementation of adaptation policy measures under the most recent approved national adaptation framework.
+
+(2) Each Minister of the Government shall, in each year after the publication of the annual report and the Agency’s reports, at the written request of a joint committee, attend before such committee to give an account of the matters specified in *subsection (3)*.
+
+(3) For the purposes of *subsection (2)*, each Minister of the Government shall, in relation to the sector for which the Minister of the Government has responsibility, give an account, for the period of the annual report, of the following matters:
+
+(a) sector specific progress under the most recent approved climate action plan, including the policies and measures that have been adopted and any significant failure to implement such policies and measures, or to achieve sector specific targets;
+
+(b) whether there has been a reduction or increase in greenhouse gas emissions based on the Agency’s reports;
+
+(c) compliance with the sectoral emissions ceiling and any measures envisaged to address any failure to so comply;
+
+(d) the implementation of adaptation policy measures and any adaptation policy measures envisaged, where a sectoral adaptation plan has been prepared.
+
+(4) The joint committee may, where it considers it appropriate, having received an account from the Minister under *subsection (1)* or a Minister of the Government under *subsection (2)*, prepare a report on the recommendations of the committee with regard to any of the matters specified in *paragraphs (a)* to *(d)* of *subsection (1)* or in *paragraphs (a)* to *(d)* of *subsection (3)*, as the case may be, and where the committee prepares such a report, it shall provide a copy of the report to the Minister of the Government concerned.
+
+(5) A Minister of the Government shall consider any report provided to him or her under *subsection (4)* and that Minister shall provide a response in writing to the joint committee within a period of three months of the receipt of that report.
+
+(6) In this section, ‘the Agency’s reports’ means the national greenhouse gas emissions inventory and the projection of future greenhouse gas emissions prepared by the Agency.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 15(1), S.I. No. 468 of 2021, subject to exemption for period to 2022 in subs. (2).
+
+## 14B. Role of local authority
+
+F70[**14B.** (1) Each local authority shall prepare and make a plan relating to a period of five years (in this section referred to as a "local authority climate action plan") which shall specify the mitigation measures and the adaptation measures to be adopted by the local authority.
+
+(2) A local authority shall make a local authority climate action plan—
+
+(a) in the case of the first such plan, within 12 months of the receipt of a request from the Minister, which request shall be made not later than 18 months after the coming into operation of section 16 of the Climate Action and Low Carbon Development (Amendment) Act 2021, and
+
+(b) in the case of each subsequent plan, not less than once in every period of five years.
+
+(3) A local authority climate action plan shall, in so far as practicable, be consistent with the most recent approved climate action plan and national adaptation framework, and in making a local authority climate action plan, a local authority shall have regard to—
+
+(a) the most recent approved national long term climate action strategy,
+
+(b) the most recent approved sectoral adaptation plans, and
+
+(c) any policies of the Minister or the Government on climate change.
+
+(4) In making the local authority climate action plan, a local authority shall—
+
+(a) consult and co-operate with adjoining local authorities,
+
+(b) consult with the Public Participation Network in the administrative area of the local authority and such other persons as the local authority considers appropriate,
+
+(c) co-ordinate, where appropriate, with adjoining local authorities in relation to the mitigation measures and adaptation measures to be adopted,
+
+(d) consider any significant effects the implementation of the local authority climate action plan may have on adjoining local authorities, and
+
+(e) consider any submissions made to it by an adjoining local authority under *subsection (5)(c)*.
+
+(5) A local authority shall, before making a local authority climate action plan—
+
+(a) publish, in such manner as the local authority considers appropriate, a draft of the proposed local authority climate action plan,
+
+(b) publish a notice on the internet and in at least one newspaper circulating in the administrative area of the local authority inviting members of the public and any interested parties to make submissions in writing in relation to the proposed local authority climate action plan within such period (not exceeding two months from the date of the publication of the notice) as may be specified in the notice, and
+
+(c) have regard to any submissions made pursuant to, and in accordance with, a notice under *paragraph (b)*.
+
+(6) A local authority climate action plan shall be submitted to the members of the local authority concerned and those members shall, by resolution, within a period of six weeks—
+
+(a) approve, or
+
+(b) approve, subject to such modifications as they consider appropriate,
+
+the local authority climate action plan.
+
+(7) A local authority climate action plan shall have effect for a period of five years from the date on which it is approved by the members of the local authority concerned.
+
+(8) The Minister may issue guidelines, consistent with furthering the achievement of the national climate objective, to local authorities in respect of the content and preparation of a local authority climate action plan and a local authority shall comply with any such guidelines.
+
+(9) Not more than 30 days after a local authority climate action plan is approved under *subsection (6)*, the local authority shall publish the local authority climate action plan in such manner as the local authority considers appropriate.
+
+(10) A local authority may, at any time, vary or revise a local authority climate action plan approved under this section, and this section applies to any such variation or revision in the same manner as it applies to a local authority climate action plan, subject to the modification that any such variation or revision shall have effect for the unexpired period of the local authority climate action plan under *subsection (7)*, and to any other necessary modifications.
+
+(11) In this section, "adjoining local authority" means, in relation to a local authority, a local authority whose administrative area adjoins the administrative area of the first mentioned local authority.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Inserted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 16, S.I. No. 468 of 2021.
+
+## 15. Duties of certain bodies
+
+**15.** F71[(1) A relevant body shall, in so far as practicable, perform its functions in a manner consistent with—
+
+(a) the most recent approved climate action plan,
+
+(b) the most recent approved national long term climate action strategy,
+
+(c) the most recent approved national adaptation framework and approved sectoral adaptation plans,
+
+(d) the furtherance of the national climate objective, and
+
+(e) the objective of mitigating greenhouse gas emissions and adapting to the effects of climate change in the State.]
+
+(2) The relevant Minister may, from time to time, give a direction to a relevant body requiring it to prepare, and submit to him or her, within such period as may be specified in the direction, a report specifying—
+
+(a) the measures that the relevant body has adopted for the purposes of compliance by that relevant body with *subsection (1)*, and
+
+(b) the progress made by the relevant body in the performance of its functions in the manner referred to in that subsection.
+
+(3) The relevant Minister may, from time to time, give a direction to a relevant body requiring it to adopt such measures as are specified in the direction for the purposes of compliance by the relevant body with *subsection (1)*.
+
+(4) A relevant body shall comply with a direction under this section.
+
+(5) In this section—
+
+“Act of 2014” means the Freedom of Information Act 2014;
+
+“prescribed body” has the same meaning as it has in the Act of 2014;
+
+“public body” has the same meaning as it has in the Act of 2014;
+
+“relevant body” means—
+
+(a) a prescribed body, and
+
+(b) a public body;
+
+“relevant Minister” means, in relation to a relevant body that is—
+
+(a) a public body—
+
+(i) referred to in section 6(1)(a) of the Act of 2014, the Minister of the Government having charge of the Department of State concerned,
+
+(ii) referred to in section 6(1)(b) of the Act of 2014, such Minister of the Government as the Government may designate in relation to that public body,
+
+(iii) referred to in section 6(1)(c) of the Act of 2014 that was established or appointed by—
+
+(I) the Government, such Minister of the Government as the Government may designate in relation to that public body, or
+
+(II) a Minister of the Government, the Minister of the Government who established or appointed the public body concerned,
+
+(iv) referred to in paragraph (d) or (e) of section 6(1) of the Act of 2014, such Minister of the Government as the Government may designate in relation to that public body,
+
+(v) referred to in section 6(1)(f) of the Act of 2014, that is directly or indirectly controlled by—
+
+(I) a public body to which *subparagraph (ii)* or *(iv)* relates, such Minister of the Government as the Government may designate in relation to that public body,
+
+(II) a public body to which subparagraph (iii)(I) relates, such Minister of the Government as the Government may designate in relation to that public body, or
+
+(III) a public body to which subparagraph (iii)(II) relates, the Minister of the Government who established or appointed the public body referred to in section 6(1) (c) of the Act of 2014,
+
+(vi) referred to in section 6(1)(g) of the Act of 2014, the Minister for Education and Skills,
+
+(vii) referred to in section 6(1)(h) of the Act of 2014 (other than a public body referred to in *subparagraphs (i)* to *(iv)*), such Minister of the Government as the Government may designate in relation to that public body, and
+
+(viii) referred to in paragraph (a) or (b) of section 6(2) of the Act of 2014 (other than a public body referred to in *subparagraphs (i)* to *(iv)*), such Minister of the Government as the Government may designate in relation to that public body,
+
+and
+
+(b) a prescribed body, such Minister of the Government as the Government may designate in relation to that public body.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Substituted (7.09.2021) by *Climate Action and Low Carbon Development (Amendment) Act 2021* (32/2021), s. 17, S.I. No. 468 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C2: Application of section restricted (27.07.2026) by *Dublin Airport (Passenger Capacity) Act 2026* (25/2026), s. 39, S.I. No. 366 of 2026.
+>
+> **Modification of application of section 15 of Climate Action and Low Carbon Development Act 2015**
+>
+> **39.** The Minister and the Commission, in performing their functions under this Act, shall not be subject to the requirements referred to in section 15(1) of the Climate Action and Low Carbon Development Act 2015, having regard to the likely consequences for the economy of the State and for international connectivity if an order is not made by the Minister under section 25(1).
+>
+> C3: Application of section restricted (17.07.2026) by *Critical Infrastructure Act 2026* (16/2026), s. 7, S.I. No. 347 of 2026.
+>
+> **Modification of application of section 15 of Climate Action and Low Carbon Development Act 2015**
+>
+> **7.** Section 15 of the Climate Action and Low Carbon Development Act 2015 shall not apply to a relevant public body—
+>
+> (a) in respect of the performance of its relevant functions,
+>
+> (b) in respect of the carrying out of its duties under section 5, or
+>
+> (c) for the purposes of compliance with a direction given to it under section 6.
+
+## 16. Short title
+
+**16.** This Act may be cited as the Climate Action and Low Carbon Development Act 2015.
+
+[^1]: OJ No. L197, 21.07.2001, p.30
+[^2]: OJ No. L206, 22.07.1992, p.7
+[^3]: OJ No. L275, 25.10.2003, p.32
+[^4]: OJ No. L140, 05.06.2009, p.136
+[^5]: OJ No. L 328, 21.12.18, p. 1

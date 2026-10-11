@@ -1,0 +1,3029 @@
+---
+title: "Protected Disclosures Act 2014"
+identifier: "eli/2014/act/14"
+type: act
+jurisdiction: ie
+language: en
+number: 14
+year: 2014
+date: 2014-07-08
+last_amended: 2026-06-08
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2014/act/14/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2014/act/14/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Protected Disclosures Act 2014
+
+An Act to make provision for and in connection with the protection of persons from the taking of action against them in respect of the making of certain disclosures in the public interest and for connected purposes.
+
+[8 *th July*, 2014]
+
+**Be it enacted by the Oireachtas as follows:**
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to "Cathaoirleach" or "Cathaoirligh", "Leas-Chathaoirleach", "chief executive" and "deputy chief executive" construed (16.05.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), ss. 10, 23, 25, 26, 28 and sch. 1 parts 1, 2, S.I. No. 207 of 2024.
+>
+> **Functions of Mayor**
+>
+> **10.** (1) All functions (other than functions conferred by or under an enactment specified in Part 1 of Schedule 1) that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (2) All functions (other than functions conferred by or under an enactment specified in Part 2 of Schedule 1) that, immediately before the vesting day, vested in the chief executive of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (3) From the vesting day, a reference in any enactment (other than an enactment specified in Part 1 of Schedule 1) to Cathaoirleach shall, in so far as the reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (4) From the vesting day, a reference in any enactment (other than an enactment specified in Part 2 of Schedule 1) to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (5) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Príomh Chomhairleoir**
+>
+> **23.** (1) All functions conferred by or under an enactment specified in Part 1 of Schedule 1 that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Príomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in an enactment specified in Part 1 of Schedule 1 to Cathaoirleach or Cathaoirligh shall, in so far as that reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Príomh Chomhairleoir, or as including a reference to the Príomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Leas-Phríomh Chomhairleoir**
+>
+> **25.** (1) All functions conferred by or under any enactment that, immediately before the vesting day, vested in the Leas-Chathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Leas-Phríomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in any enactment to Leas-Chathaoirleach shall, in so far as that reference applies to the Leas-Chathaoirleach of Limerick City and County Council, be construed as a reference to the Leas-Phríomh Chomhairleoir, or as including a reference to the Leas-Phríomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> **Director general**
+>
+> **26.** (1) The chief executive of Limerick City and County Council shall, on and after the vesting day, be known as the director general of Limerick City and County Council and is in this Act referred to as the “director general”.
+>
+> (2) The person who, immediately before the vesting day, was the chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in an enactment specified in Part 2 of Schedule 1 to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the director general, or as including a reference to the director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Deputy director general**
+>
+> **28.** (1) On and after the vesting day, a deputy chief executive appointed by the director general under section 148 of the Principal Act shall be known as the deputy director general of Limerick City and County Council and is, in this Act, referred to as the “deputy director general”.
+>
+> (2) The person who, immediately before the vesting day, was the deputy chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in any enactment to deputy chief executive shall, in so far as the reference applies to the deputy chief executive of Limerick City and County Council, be construed as a reference to the deputy director general, or as including a reference to the deputy director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> Enactments for Purposes of Sections 10 and 23
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Provision<br>(2)</td><td>Extent of Modification<br>(3)</td></tr><tr><td>No. 37 of 2001</td><td>Local Government Act 2001</td><td>Sections 11(5)(b), 11(8), 31(4)(a), 31(5), 31(7), 31(9), 31(11), 33, 34(2)(e), 36, 37, 38, 104(7)(a), 133(6)(a), 134(4)(b), 140(8), 141(1)(b), 141(4), 142(2)(a), 142(5)(f), 143(1), 147, 148, 158(3), 174(8), 178(2)(b), 178(5), 180(3)(a), 189(9), 190(9), 216(2)(a), 219(1) and 220(1); paragraphs 3(4), 4(2), 4(3), 6(1), 6(2), 6(3), 7(9), 10, 13(5)(e), 13(6) and 16(4)(c) of Schedule 10; paragraph 3 of Schedule 14.</td></tr></table>
+>
+> PART 2
+>
+> Enactments for Purposes of Sections 10 and 26
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td><td>Provision<br>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 14 of 2014</td><td>Protected Disclosures Act 2014</td><td>The whole Act.</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Code of practice in relation to Act declared (28.10.2015) by *Industrial Relations Act 1990 (Code of Practice on Protected Disclosures Act 2014) (Declaration) Order 2015* (S.I. No. 464 of 2015).
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement
+
+**1.** (1) This Act may be cited as the *Protected Disclosures Act 2014*.
+
+(2) This Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (2) exercised (15.07.2014) by *Protected Disclosures Act 2014 (Commencement) Order 2014* (S.I. No. 327 of 2014).
+>
+> 2\. The 15th day of July 2014 is appointed as the day on which the Protected Disclosures Act 2014 (No. 14 of 2014) comes into operation.
+
+### 2. Provision for review
+
+**2.** The Minister shall—
+
+(a) not later than the end of the period of 3 years beginning on the day on which this Act is passed, commence a review of the operation of this Act, and
+
+(b) not more than 12 months after the end of that period, make a report to each House of the Oireachtas of the findings made on the review and of the conclusions drawn from the findings.
+
+### 2A. F1[Provision for further review
+
+**2A.** The Minister shall—
+
+(a) not later than the end of the period of 5 years beginning on the date of the passing of the Protected Disclosures (Amendment) Act 2022 commence a review of the operation of this Act, and
+
+(b) not more than 12 months after the end of the period referred to in *paragraph (a)* make a report to each House of the Oireachtas of the findings made on the review and the conclusions drawn from those findings.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 26, S.I. No. 510 of 2022.
+
+### 3. Interpretation
+
+**3.** (1) In this Act—
+
+F2["Annex" means the Annex to the Directive, the text of which for ease of reference is set out in *Schedule 6*;]
+
+F2["breach" means an act or omission—
+
+(a) that is unlawful and to which one or more of the following subparagraphs applies:
+
+(i) the act or omission falls within the scope of the Union acts set out in the Annex that concern the following areas:
+
+(I) public procurement;
+
+(II) financial services, products and markets, and prevention of money laundering and terrorist financing;
+
+(III) product safety and compliance;
+
+(IV) transport safety;
+
+(V) protection of the environment;
+
+(VI) radiation protection and nuclear safety;
+
+(VII) food and feed safety and animal health and welfare;
+
+(VIII) public health;
+
+(IX) consumer protection;
+
+(X) protection of privacy and personal data, and security of network and information systems;
+
+(ii) the act or omission affects the financial interests of the Union as referred to in Article 325 of the Treaty on the Functioning of the European Union and as further specified in relevant Union measures; or
+
+(iii) the act or omission relates to the internal market, as referred to in Article 26(2) of the Treaty on the Functioning of the European Union, including breaches of Union competition and State aid rules, as well as breaches relating to the internal market in relation to acts which breach the rules of corporate tax or to arrangements the purpose of which is to obtain a tax advantage that defeats the object or purpose of the applicable corporate tax law;
+
+or
+
+(b) that defeats the object or purpose of the rules in the Union acts and areas referred to in *paragraph (a)*;]
+
+F2["Commissioner" means the person who, for the time being, holds the office of Protected Disclosures Commissioner established by *section 10A*;]
+
+“contract of employment” means contract of service or apprenticeship, whether express or implied, and (if express) whether oral or in writing;
+
+F2["data protection law" means—
+
+(a) the Data Protection Acts 1988 to 2018,
+
+(b) the General Data Protection Regulation,
+
+(c) all law of the State giving further effect to the General Data Protection Regulation,
+
+(d) Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, and
+
+(e) all law of the State giving effect or further effect to Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 referred to in *paragraph (d)*;]
+
+F2["Directive" means Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019[^2] on the protection of persons who report breaches of Union law, as amended by Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020[^3];]
+
+“disclosure”, in a case in which information disclosed is information of which the person receiving the information is already aware, means bringing to the person’s attention;
+
+“educational establishment” means any university, college, school or other educational establishment;
+
+“employee” has the meaning given by section 1 of the Unfair Dismissals Act 1977 and includes an individual who is deemed to be an employee by virtue of *subsection (2)* *(a)*;
+
+“employer”, in relation to a worker, means, subject to *subsection (2)* *(c)*—
+
+(a) in the case of an individual who is a worker by virtue of paragraph(a) of the definition of that term, the person with whom the worker entered into, or for whom the worker works or worked under, the contract of employment,
+
+(b) in the case of an individual who is a worker by virtue of paragraph (b) of the definition of that term, the person with whom the worker entered into, or works or worked under, the contract,
+
+(c) in the case of an individual who is a worker by virtue of paragraph (c) of the definition of that term—
+
+(i) the person for whom the worker works or worked, or
+
+(ii) the person by whom the individual is or was introduced or supplied to do the work,
+
+F3[...]
+
+(d) in the case of an individual who is a worker by virtue of *paragraph (d)* of the definition of that term, the person who provides or provided the work experience or F4[training,]
+
+F5[(e) in the case of an individual who is a worker by virtue of *paragraph (e)* of the definition of that term, the undertaking of which the worker is or was a shareholder,
+
+(f) in the case of an individual who is a worker by virtue of *paragraph (f)* of the definition of that term, the undertaking, the administrative, management or supervisory body of which the worker is or was a member,
+
+(g) in the case of an individual who is a worker by virtue of *paragraph (g)* of the definition of that term and who is a volunteer, the person for whom the individual is or was a volunteer,
+
+(h) in the case of an individual who is a worker by virtue of *paragraph (h)* of the definition of that term, the person by whom or on whose behalf the recruitment process concerned is or was carried out, or
+
+(i) in the case of an individual who is a worker by virtue of *paragraph (i)* of the definition of that term, the person by whom or on whose behalf the pre-contractual negotiations are or were carried out;]
+
+F2["enactment" means—
+
+(a) an Act of the Oireachtas,
+
+(b) a statute that was in force in Saorstát Éireann immediately before the date of coming into operation of the Constitution and that continued in force by virtue of Article 50 of the Constitution, or
+
+(c) an instrument made under an Act of the Oireachtas or a statute referred to in *paragraph (b)*;]
+
+F2["European Union" has the same meaning as it has in the European Communities Act 1972;]
+
+F2["facilitator" means an individual who assists, in a confidential manner, a reporting person in the reporting process in a work-related context;]
+
+F2["feedback" means the provision to a reporting person of information on the action envisaged or taken as follow-up and on the reasons for such follow-up;]
+
+F2["follow-up" means any action taken by—
+
+(a) the recipient of a report made in the manner specified in *section 6* or *7*, or
+
+(b) a person to whom a report is transmitted under *section 7A*, *8*, *10C* or *10D*,
+
+to assess the accuracy of the information contained in the report and, where relevant, to address the relevant wrongdoing reported, including, but not limited to, actions such as an internal inquiry, an investigation, prosecution, an action for recovery of funds or the closure of the procedure;]
+
+F2["General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^4] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;]
+
+“Minister” means the Minister for Public Expenditure and Reform;
+
+F2["Ombudsman" means the person who holds the office of Ombudsman in accordance with the Ombudsman Act 1980;]
+
+F6["penalisation" means any direct or indirect act or omission which occurs in a work-related context, is prompted by the making of a report and causes or may cause unjustified detriment to a worker, and, in particular, includes—
+
+(a) suspension, lay-off or dismissal,
+
+(b) demotion, loss of opportunity for promotion or withholding of promotion,
+
+(c) transfer of duties, change of location of place of work, reduction in wages or change in working hours,
+
+(d) the imposition or administering of any discipline, reprimand or other penalty (including a financial penalty),
+
+(e) coercion, intimidation, harassment or ostracism,
+
+(f) discrimination, disadvantage or unfair treatment,
+
+(g) injury, damage or loss,
+
+(h) threat of reprisal,
+
+(i) withholding of training,
+
+(j) a negative performance assessment or employment reference,
+
+(k) failure to convert a temporary employment contract into a permanent one, where the worker had a legitimate expectation that he or she would be offered permanent employment,
+
+(l) failure to renew or early termination of a temporary employment contract,
+
+(m) harm, including to the worker’s reputation, particularly in social media, or financial loss, including loss of business and loss of income,
+
+(n) blacklisting on the basis of a sector or industry-wide informal or formal agreement, which may entail that the person will not, in the future, find employment in the sector or industry,
+
+(o) early termination or cancellation of a contract for goods or services,
+
+(p) cancellation of a licence or permit, and
+
+(q) psychiatric or medical referrals;]
+
+F2["person concerned" means a natural or legal person who is referred to in a report as a person to whom the relevant wrongdoing is attributed or with whom that person is associated;]
+
+F2["prescribed" means prescribed by order or regulations made by the Minister under this Act;]
+
+F2["prescribed person" means a person prescribed by order under *section 7*;]
+
+“protected disclosure” shall be construed in accordance with *section 5*;
+
+“public body” means—
+
+(a) a Department of State,
+
+(b) a local authority within the meaning of the Local Government Act 2001,
+
+(c) any other entity established by or under any enactment (other than the Companies Acts), statutory instrument or charter or any scheme administered by a Minister of the Government,
+
+(d) a company (within the meaning of the Companies Acts) a majority of the shares in which are held by or on behalf of a Minister of the Government,
+
+(e) a subsidiary (within the meaning of the Companies Acts) of such a company,
+
+(f) an entity established or appointed by the Government or a Minister of the Government,
+
+(g) any entity (other than one within *paragraph (e)*) that is directly or indirectly controlled by an entity within any of *paragraphs (b)* to *(f)*,
+
+(h) an entity on which any functions are conferred by or under any enactment (other than the Companies Acts), statutory instrument or charter, or
+
+F7[(i) a designated institution of higher education within the meaning of the Higher Education Authority Act 2022 that falls under paragraph (a) of section 53(1) of that Act and that is also a funded body within the meaning of that Act;]
+
+“relevant information” shall be construed in accordance with *section 5(2)*;
+
+“relevant wrongdoing” shall be construed in accordance with *subsections (3)* to *(5)* of *section 5*;
+
+F2["report" or "to report" means the oral or written communication of information on relevant wrongdoings;]
+
+F2["reporting person" means a worker who makes a report in accordance with this Act;]
+
+“trade union official” means an official of a trade union licensed under the Trade Union Acts 1871 to 1990;
+
+F8["worker" means an individual working in the private or public sector who acquired information on relevant wrongdoings in a work-related context and includes
+
+(a) an individual who is or was an employee,
+
+(b) an individual who entered into or works or worked under any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertook to do or perform (whether personally or otherwise) any work or services for another party to the contract for the purposes of that party’s business,
+
+(c) an individual who works or worked for a person in circumstances in which—
+
+(i) the individual is introduced or supplied to do the work by a third person, and
+
+(ii) the terms on which the individual is engaged to do the work are or were in practice substantially determined not by the individual but by the person for whom the individual works or worked, by the third person or by both of them,
+
+(d) an individual who is or was provided with work experience pursuant to a training course or programme or with training for employment (or with both) otherwise than under a contract of employment,
+
+(e) an individual who is or was a shareholder of an undertaking,
+
+(f) an individual who is or was a member of the administrative, management or supervisory body of an undertaking, including non-executive members,
+
+(g) an individual who is or was a volunteer,
+
+(h) an individual who acquires information on a relevant wrongdoing during a recruitment process,
+
+(i) an individual who acquires information on a relevant wrongdoing during pre-contractual negotiations (other than a recruitment process referred to in *paragraph (h)*), and
+
+(j) an individual who is deemed to be a worker by virtue of *subsection (2)(b)*,
+
+and any reference to a worker being employed or to employment shall be construed accordingly.]
+
+F2["work-related context" means current or past work activities in the public or private sector through which, irrespective of the nature of those activities, persons acquire information concerning a relevant wrongdoing and within which those persons could suffer penalisation if they reported such information;]
+
+(2) For the purposes of this Act—
+
+(a) an individual who is or was—
+
+(i) a member of the Garda Síochána, or
+
+(ii) a civil servant (within the meaning of the Civil Service Regulation Act 1956),
+
+is deemed to be an employee,
+
+(b) an individual who is or was a member of the Permanent Defence Force (within the meaning of the Defence Act 1954) or the Reserve Defence Force (within the meaning of that Act) is deemed to be a worker,
+
+(c) “employer”—
+
+(i) in relation to a member of the Garda Síochána (other than the Commissioner of the Garda Síochána), means the Commissioner of the Garda Síochána;
+
+(ii) in relation to a civil servant (within the meaning aforesaid), has the meaning given by section 2A(2) of the Unfair Dismissals Act 1977;
+
+(iii) in relation to a member of the Permanent Defence Force or the Reserve Defence Force (both within the meaning aforesaid), means the Minister for Defence.
+
+F9[(3) A word or expression that is used in this Act and which is also used in the Directive has, unless the contrary intention appears, the same meaning in this Act as it has in the Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(iv), S.I. No. 510 of 2022.
+>
+> F3: Deleted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(i)(I), S.I. No. 510 of 2022.
+>
+> F4: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(i)(II), S.I. No. 510 of 2022.
+>
+> F5: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(i)(III), S.I. No. 510 of 2022.
+>
+> F6: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(ii), S.I. No. 510 of 2022.
+>
+> F7: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 1(2), s. 145 and sch. 4, S.I. No. 554 of 2022, art. 2(k).
+>
+> F8: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(a)(iii), S.I. No. 510 of 2022.
+>
+> F9: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 4(b), S.I. No. 510 of 2022.
+
+### 4. Expenses
+
+**4.** The expenses incurred by the Minister under this Act shall be paid out of moneys provided by the Oireachtas.
+
+### 4A. F10[Orders and regulations
+
+**4A.** (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Without prejudice to any provision of this Act, regulations made under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every order made under *section 6(6)* or *7(2)* and regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House sits after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 5, S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E3: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 2Protected Disclosures — PART 2 — Protected Disclosures
+
+### 5. Protected disclosures
+
+**5.** (1) For the purposes of this Act “protected disclosure” means, subject to F11[*subsection (6)*] and *sections 17* and *18*, a disclosure of relevant information (whether before or after the date of the passing of this Act) made by a worker in the manner specified in *section 6*, *7*, F12[*7B*,] *8*, *9* or *10*.
+
+(2) For the purposes of this Act information is “relevant information” if—
+
+(a) in the reasonable belief of the worker, it tends to show one or more relevant wrongdoings, and
+
+(b) it came to the attention of the worker F13[in a work-related context].
+
+(3) The following matters are relevant wrongdoings for the purposes of this Act—
+
+(a) that an offence has been, is being or is likely to be committed,
+
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation, other than one arising under the worker’s contract of employment or other contract whereby the worker undertakes to do or perform personally any work or services,
+
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+
+(e) that the environment has been, is being or is likely to be damaged,
+
+(f) that an unlawful or otherwise improper use of funds or resources of a public body, or of other public money, has occurred, is occurring or is likely to occur,
+
+(g) that an act or omission by or on behalf of a public body is oppressive, discriminatory or grossly negligent or constitutes gross F14[mismanagement,]
+
+F15[(h) that a breach has occurred, is occurring or is likely to occur, or]
+
+F16[(i) that information tending to show any matter falling within any of the preceding paragraphs has been, is being or is likely to be concealed or destroyed or an attempt has been, is being or is likely to be made to conceal or destroy such information.]
+
+(4) For the purposes of *subsection (3)* it is immaterial whether a relevant wrongdoing occurred, occurs or would occur in the State or elsewhere and whether the law applying to it is that of the State or that of any other country or territory.
+
+(5) A matter is not a relevant wrongdoing if it is a matter which it is the function of the worker or the worker’s employer to detect, investigate or prosecute and does not consist of or involve an act or omission on the part of the employer.
+
+F17[(5A) A matter concerning interpersonal grievances exclusively affecting a reporting person, namely, grievances about interpersonal conflicts between the reporting person and another worker, or a matter concerning a complaint by a reporting person to, or about, his or her employer which concerns the worker exclusively, shall not be a relevant wrongdoing for the purposes of this Act and may be dealt with through any agreed procedures applicable to such grievances or complaint to which the reporting person has access or such other procedures, provided in accordance with any rule of law or enactment (other than this Act), to which the reporting person has access.]
+
+(6) A disclosure of information in respect of which a claim to legal professional privilege could be maintained in legal proceedings is not a protected disclosure if it is made by a person to whom the information was disclosed in the course of obtaining legal advice.
+
+(7) F18[The motivation] for making a disclosure is irrelevant to whether or not it is a protected disclosure.
+
+F19[(7A) F20[...]]
+
+(8) In proceedings involving an issue as to whether a disclosure is a protected disclosure it shall be presumed, until the contrary is proved, that it is.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(a), S.I. No. 510 of 2022.
+>
+> F12: Inserted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 4, in effect as per reg. 2.
+>
+> F13: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s.6(b), S.I. No. 510 of 2022.
+>
+> F14: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(c)(i), S.I. No. 510 of 2022.
+>
+> F15: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(c)(ii), S.I. No. 510 of 2022.
+>
+> F16: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(c)(iii), S.I. No. 510 of 2022.
+>
+> F17: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(d), S.I. No. 510 of 2022.
+>
+> F18: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 6(e), S.I. No. 510 of 2022.
+>
+> F19: Inserted (9.06.2018) by *European Union (Protection of Trade Secrets) Regulations 2018* (S.I. No. 188 of 2018), reg. 7(c), in effect as per reg. 1(2).
+>
+> F20: Repealed (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 3(a), S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: subss. (1), (7) amended (9.06.2018) by *European Union (Protection of Trade Secrets) Regulations 2018* (S.I. No. 188 of 2018), reg. 7(a), (b), in effect as per reg. 1(2); amendments substituted (1.01.2023) as per F-notes above.
+
+### 5A. F21[Anonymous reports
+
+**5A.** (1) Without prejudice to the provisions of any other enactment relating to anonymous reporting of wrongdoing, nothing in this Act shall oblige any person to accept and follow-up on anonymous reports made in the manner specified in *section 6* but a person may, if he or she considers it appropriate to do so, follow-up on a matter the subject of an anonymous report.
+
+(2) A worker who makes a disclosure in the manner specified under *section 6*, *7*, F22[*7B*,] *8*, *9* or *10* by way of an anonymous report and who is subsequently identified and penalised for having made the disclosure shall be treated for the purposes of this Act as having made a protected disclosure and shall be entitled to the same protections under *Part 3* as a worker who has been penalised for having made a protected disclosure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 7, S.I. No. 510 of 2022.
+>
+> F22: Inserted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 5, in effect as per reg. 2.
+
+### 6. Disclosure to employer or other responsible person
+
+**6.** (1) A disclosure is made in the manner specified in this section if the worker makes it—
+
+(a) to the worker’s employer, or
+
+(b) where the worker reasonably believes that the relevant wrongdoing which the disclosure tends to show relates solely or mainly—
+
+(i) to the conduct of a person other than the worker’s employer, or
+
+(ii) to something for which a person other than the worker’s employer has legal responsibility,
+
+to that other person.
+
+(2) A worker who, in accordance with a procedure the use of which by the worker is authorised by the worker’s employer, makes a disclosure to a person other than the employer is to be treated for the purposes of this Act as making the disclosure to the employer.
+
+F23[(3) Subject to *subsections (5)* to *(8)*, for the purposes of enabling the making of reports, an employer with 50 or more employees shall, in accordance with this section and *section 6A*, establish, maintain and operate internal reporting channels and procedures for the making of such reports and for follow-up (in this Act referred to as "internal reporting channels and procedures").
+
+(4) The threshold of 50 employees provided for by *subsection (3)* shall not apply where the employer—
+
+(a) is a public body, or
+
+(b) falls within the scope of the Union acts referred to in Parts I.B and II of the Annex.
+
+(5) *Subsection (3)* shall not come into effect for employers, other than public bodies and entities who fall within the scope of the Union acts referred to in Parts I.B and II of the Annex, with not less than 50 but not more than 249 employees until 17 December 2023.
+
+(6) (a) Following the carrying out, by or on behalf of the Minister, of an appropriate risk assessment taking into account the activities of the class or classes of employers concerned and the ensuing level of risk for, in particular, the environment and public health, the Minister may, by order, provide that *subsection (3)* shall apply to such class or classes of employers with less than 50 employees as the Minister may specify in such order.
+
+(b) Before making an order under this subsection, the Minister shall publish or cause to be published on a website maintained by or on behalf of the Minister and which is accessible to the public—
+
+(i) a copy of the proposed order,
+
+(ii) a copy of the risk assessment referred to in *paragraph (a)*, and
+
+(iii) a notice—
+
+(I) stating that the Minister intends to make the proposed order,
+
+(II) stating where, on the website concerned, the documents referred to in *subparagraphs (i)* and *(ii)* can be accessed,
+
+(III) inviting the making, during the period specified by the Minister for this purpose, of submissions to the Minister in relation to the proposed order, and
+
+(IV) stating the date of publication of the notice,
+
+and having considered any submissions made in response to the invitation referred to in clause (III) may make the order, with or without amendment.
+
+(c) Submissions made under *paragraph (b)(iii)(III)* shall be published or caused to be published by the Minister on a website maintained by or on behalf of the Minister and which is accessible to the public.
+
+(d) The Minister shall notify the Commission of the European Union of the making, amendment or revocation of an order under this subsection, and the notification shall include the reasons for making, amending or revoking the order and the criteria used in carrying out the risk assessment referred to in *paragraph (a)*.
+
+(7) (a) The Minister may by regulations provide that the internal reporting channels and procedures required to be established, maintained and operated by employers to whom *subsection (3)* applies shall also enable the making of reports by other persons or such class or classes of other persons, as the Minister may prescribe, referred to in points (b), (c) and (d) of Article 4.1 and Article 4.2 of the Directive, who are in contact with the entity concerned in the context of their work-related activities.
+
+(b) Where regulations are made under *paragraph (a)*, this section shall apply, with any necessary modifications, to such other persons or class or classes of such other persons referred to in paragraph (a) as may be so prescribed, as if a reference in this section to employees were a reference to such other persons or class or classes of such other persons so prescribed.
+
+(8) The Minister may, for the purpose of the calculation of the number of employees an employer has for the purposes of the application of this section, by regulation, provide for the methods to be applied by such class or classes of employers and in respect of such class or classes of employees as may be prescribed.
+
+(9) Internal reporting channels and procedures may be—
+
+(a) operated internally by a person or department designated for that purpose by an employer, or
+
+(b) provided externally by a third party authorised in that behalf by an employer.
+
+(10) (a) Subject to *paragraph (b)*, employers with less than 250 employees (including employers in respect of whom an order has been made under *subsection (6)*) may share resources as regards the receipt of reports under this section and any investigation to be carried out as part of the process of follow-up.
+
+(b) This subsection shall apply without prejudice to the obligations imposed on an employer to—
+
+(i) maintain confidentiality in accordance with *section 16*,
+
+(ii) diligently follow-up in accordance with *section 6A(1)(d)*, and
+
+(iii) provide feedback in accordance with *section 6A(1)(e)* and *(f)*.
+
+(11) Subject to *subsection (12)*, *section 6A* shall apply to a report made to an employer.
+
+(12) Where—
+
+(a) a worker, who is or was an employee of a public body, makes a disclosure of relevant information to the public body, in the manner specified in this section, before the commencement of section 8 of the Protected Disclosures (Amendment) Act 2022, and
+
+(b) the public body—
+
+(i) has established procedures under *section 21* (being that section as it stood before the commencement of section 28 of the Protected Disclosures (Amendment) Act 2022), and
+
+(ii) has not completed its consideration of such disclosure in accordance with those procedures before the commencement of the said section 8,
+
+then, where the worker so requests in writing, the public body shall, no later than 3 months after the date of such request, provide information to the worker on any actions taken or to be taken by that public body in relation to the relevant information concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 8, S.I. No. 510 of 2022.
+
+### 6A. F24[Internal reporting channels and procedures
+
+**6A.** (1) Internal reporting channels and procedures shall include the following:
+
+(a) channels for receiving reports that shall be designed, established and operated in a secure manner that ensures that the confidentiality of the identity of the reporting person and any third party mentioned in the report is protected and prevents access thereto by persons other than those referred to in *section 6(9)* and any designated person;
+
+(b) acknowledgement, in writing, to the reporting person of receipt of the report not more than 7 days after receipt of it;
+
+(c) the designation of an impartial person or persons who are competent to follow-up on reports (who may be the same person or persons as the recipient of the report) (in this section referred to as a "designated person") who will maintain communication with the reporting person and, where necessary, request further information from, and provide feedback to, that reporting person;
+
+(d) diligent follow-up by the designated person, which shall include at least the following:
+
+(i) the carrying out of an initial assessment, including seeking further information from the reporting person if required, as to whether there is *prima facie* evidence that a relevant wrongdoing may have occurred;
+
+(ii) if, having carried out an initial assessment, the designated person decides that there is no *prima facie* evidence that a relevant wrongdoing may have occurred—
+
+(I) closure of the procedure or referral of the matter to such other agreed procedures applicable to grievances to which a reporting person has access or such other procedures, provided in accordance with a rule of law or enactment (other than this Act), to which a reporting person has access, and
+
+(II) notification of the reporting person, in writing, as soon as practicable, of the decision and the reasons for it;
+
+(iii) if, having carried out an initial assessment, the designated person decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, the taking of appropriate action to address the relevant wrongdoing, having regard to the nature and seriousness of the matter concerned;
+
+(e) the provision of feedback to the reporting person within a reasonable period, being not more than 3 months from the date the acknowledgement of receipt of the report was sent to the reporting person under *paragraph (b)* or, if no such acknowledgement was sent, not more than 3 months from the date of expiry of the period of 7 days after the report was made;
+
+(f) the provision to the reporting person, where he or she so requests in writing, of further feedback at intervals of 3 months until such time as the procedure relating to the report concerned is closed, the first such period of 3 months commencing on the date on which feedback is provided to the reporting person under *paragraph (e)*;
+
+(g) the provision to workers of clear and easily accessible information, in such form and manner as the employer considers appropriate for the purposes of this paragraph, regarding—
+
+(i) the procedures applicable to the making of reports using the internal reporting channels and procedures,
+
+(ii) where the employer accepts anonymous reports, the conditions pursuant to which those reports may be accepted and follow-up undertaken, and
+
+(iii) the procedures for making a report to a prescribed person or the Commissioner, as the case may be, in the manner specified in *section 7*, and, where relevant, to institutions, bodies, offices or agencies of the European Union F25[in the manner specified in *section 7B*].
+
+(2) Internal reporting channels and procedures shall enable reports to be made—
+
+(a) in writing or orally, or both, and
+
+(b) in the case of a report made orally, by telephone or through other voice messaging systems and, upon request by the reporting person, by means of a physical meeting with the employer or a designated person, as the case may be, within a reasonable period from the making of the request.
+
+(3) Where, subject to the conditions referred to in *subsection (1)(g)(ii)*, an employer accepts an anonymous report, unless prohibited by any other enactment, this section shall apply, with any necessary modifications, to such a report as if references in this section to a report were a reference to an anonymous report.
+
+(4) Subject to this section, the internal reporting channels and procedures shall be accessible by workers of the entity concerned and of its subsidiaries and affiliates (in this subsection referred to as "the group"), where applicable, and, to any extent possible, by any of the group’s agents and suppliers and by any persons who acquire information on a relevant wrongdoing though their work-related activities with the entity and the group.
+
+(5) This section shall apply, with any necessary modifications, to a third party referred to in *paragraph (b)* of *section 6(9)* to the extent to which such third party is authorised as referred to in that paragraph as it applies to an employer who establishes internal reporting channels and procedures.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 9, S.I. No. 510 of 2022.
+>
+> F25: Inserted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 6, in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E5: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 7. Disclosure to prescribed person
+
+**7.** (1) A disclosure is made in the manner specified in this section if the worker—
+
+(a) makes the disclosure to a person prescribed under *subsection (2)* *(a)* F26[or the Commissioner], and
+
+(b) reasonably believes—
+
+(i) F27[in the case of a disclosure made to a person prescribed under *subsection (2)(a)*, that the relevant wrongdoing] falls within the description of matters in respect of which the person is prescribed under *subsection (2) (b)*, and
+
+(ii) that the information disclosed, and any allegation contained in it, are substantially true.
+
+(2) The Minister may by order—
+
+(a) prescribe such persons as, by reason of the nature of their responsibilities or functions, appear appropriate to be recipients of disclosures of relevant wrongdoings falling within the description of matters in respect of which they are prescribed, and
+
+(b) prescribe in respect of each prescribed person such description of matters as appears appropriate by reason of the nature of the responsibilities or functions of the person.
+
+F28[(2A) For the purposes of enabling the making of reports by workers, prescribed persons and the Commissioner shall establish, maintain and operate independent and autonomous external reporting channels and procedures for receiving and handling such reports and for follow-up (in this Act referred to as "external reporting channels and procedures").
+
+(2B) *Section 7A* shall apply to a report made to a prescribed person.
+
+(2C) *Section 10B* shall apply to a report made to the Commissioner.]
+
+(3) F29[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 10(a)(i), S.I. No. 510 of 2022.
+>
+> F27: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 10(a)(ii), S.I. No. 510 of 2022.
+>
+> F28: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 10(b), S.I. No. 510 of 2022.
+>
+> F29: Repealed (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 3(b), S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to subs. (2) exercised (6.06.2026) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) (Amendment) Order 2026* (S.I. No. 269 of 2026).
+>
+> E7: Power pursuant to subs. (2) exercised (26.05.2025) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) (Amendment) Order 2025* (S.I. No. 233 of 2025).
+>
+> E8: Power pursuant to subs. (2) exercised (26.10.2023) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) (Amendment) Order 2023* (S.I. No. 524 of 2023).
+>
+> E9: Power pursuant to subs. (2) exercised (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 367 of 2020).
+>
+> E10: Previous affecting provision: power pursuant to subs. (2) exercised (5.09.2016) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2016* (S.I. No. 490 of 2016); revoked (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 367 of 2020), art. 3(c).
+>
+> E11: Previous affecting provision: power pursuant to subs. (2) exercised (19.10.2015) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2015* (S.I. No. 448 of 2015); revoked (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 367 of 2020), art. 3(b).
+>
+> E12: Previous affecting provision: power pursuant to subs. (2) exercised (23.07.2014) by *Protected Disclosures Act 2014 (Section 7(2)) Order 2014* (S.I. No. 339 of 2014); revoked (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 367 of 2020), art. 3(a).
+
+### 7A. F30[External reporting channels and procedures
+
+**7A.** (1) External reporting channels and procedures shall include the following:
+
+(a) acknowledgement, in writing, to the reporting person of receipt of the report not more than 7 days after receipt of it, save where the reporting person explicitly requested otherwise or the prescribed person reasonably believes that acknowledging receipt of the report would jeopardise the protection of the identity of the reporting person;
+
+(b) diligent follow-up by the designated person, which shall include at least the following:
+
+(i) the carrying out of an initial assessment, including seeking further information from the reporting person if required, as to whether—
+
+(I) there is *prima facie* evidence that a relevant wrongdoing may have occurred, and
+
+(II) the report concerns matters that fall within the scope of the matters for which the prescribed person has responsibility by virtue of the functions conferred on the prescribed person by or under this or any other enactment;
+
+(ii) if, having carried out an initial assessment, the prescribed person decides that there is no *prima facie* evidence that a relevant wrongdoing may have occurred—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iii) if, having carried out an initial assessment, the prescribed person decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, but that the relevant wrongdoing is clearly minor and does not require further follow-up—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iv) having carried out an initial assessment—
+
+(I) closure of the procedure in the case of repetitive reports where the prescribed person decides that the report does not contain any meaningful new information about a relevant wrongdoing compared to a previous report (including any report made before the commencement of section 11 of the Protected Disclosures (Amendment) Act 2022 (in this clause referred to as a "past report")) made or transmitted to the prescribed person or to any other person in respect of which the relevant procedures (including any procedures that applied at the time any past report was made) were concluded, unless new legal or factual circumstances justify a different follow-up, and
+
+(II) notification of the reporting person, in writing, as soon as practicable, of the decision referred to in *clause (I)* and the reasons for it;
+
+(v) if, having carried out an initial assessment, the prescribed person decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred and the report concerns matters that fall within the scope of the matters referred to in *subparagraph (i)(II)*, the taking of appropriate action, in accordance with the functions conferred on the prescribed person by or under this or any other enactment, to address the relevant wrongdoing, having regard to the nature and seriousness of the matter concerned;
+
+(vi) having carried out an initial assessment, if the prescribed person decides that the disclosure concerns matters that are not within the scope of the matters referred to in *subparagraph (i)(II)*—
+
+(I) transmission of the report to—
+
+(A) such other prescribed person or persons as the prescribed person considers appropriate, or
+
+(B) where there is no such other prescribed person as referred to in subclause (A), the Commissioner,
+
+and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(c) where the procedure has not otherwise been closed under *subparagraph (ii)*, *(iii)* or *(iv)* of *paragraph (b)* and the report has not been transmitted to any other prescribed person or persons or the Commissioner, as the case may be, under *subparagraph (vi)(I)* of *paragraph (b)*, the provision of feedback to the reporting person within a reasonable period, being not more than—
+
+(i) where acknowledgement of receipt of the report was sent to the reporting person under paragraph (a)—
+
+(I) 3 months from the date of such acknowledgement, or
+
+(II) 6 months from the date of the acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(ii) where no acknowledgement of receipt of the report was sent to the reporting person under paragraph (a)—
+
+(I) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(II) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report;
+
+(d) where feedback is not or is not likely to be provided to the reporting person within the period of 3 months referred to in *paragraph (c)(i)(I)*, notification of the reporting person, in writing, as soon as practicable of the extension of that period under *paragraph (c)(i)(II)*;
+
+(e) the provision to the reporting person, where he or she so requests in writing, of further feedback at intervals of 3 months until such time as the procedure relating to the report concerned is closed, the first such period of 3 months commencing on the date on which feedback is provided to the reporting person under *paragraph (c)*;
+
+(f) save as provided for by or under any enactment or rule of law and subject to *subsection (4)*, communication, in writing, to the reporting person of the final outcome of any investigation triggered by the report;
+
+(g) where a report concerns a breach, transmission as soon as practicable of the information contained in the report to relevant competent institutions, bodies, offices or agencies of the Union, as appropriate, for further investigation, where provided for under Union law or the law of the State.
+
+(2) A reporting person shall, in respect of the report concerned and any follow-up procedures, without prejudice to his or her rights under this Act and to such extent as may reasonably and lawfully be required for the purposes of this Act, cooperate with a prescribed person in relation to the performance by the prescribed person of the functions conferred on that prescribed person by or under this Act.
+
+(3) Without prejudice to the period referred to in *subparagraph (i)(I)* or *(II)* or *subparagraph (ii)(I)* or *(II)* of *paragraph (c)*, as applicable, of *subsection (1)*, if necessary and appropriate, having due regard to the number of reports received by a prescribed person, the prescribed person may deal with reports of a serious relevant wrongdoing as a matter of priority.
+
+(4) *Subsection (1)(f)* shall operate without prejudice to any legal obligations applying to the prescribed person concerned as regards confidentiality, legal professional privilege, privacy and data protection.
+
+(5) External reporting channels and procedures shall be considered to be independent and autonomous if they meet the following criteria:
+
+(a) they are designed, established and operated in a manner that ensures the completeness, integrity and confidentiality of the information concerned and prevents access thereto by persons other than designated persons and any other members of staff duly authorised in that behalf;
+
+(b) they enable the durable storage of information in accordance with *section 16C* to allow further investigations to be carried out.
+
+(6) External reporting channels and procedures shall enable reports to be made to a prescribed person—
+
+(a) in writing and orally, and
+
+(b) in the case of a report made orally, by telephone or through other voice messaging systems and, upon request by the reporting person, by means of a physical meeting with the prescribed person or a designated person, as the case may be, within a reasonable period from the making of the request.
+
+(7) Each prescribed person shall designate one or more than one member of staff (in this section referred to as a "designated person") to be responsible for handling reports and, in particular, for—
+
+(a) providing any person with information on the procedures for making a report in the manner specified in *section 7*,
+
+(b) receiving and follow-up on reports made to the prescribed person, and
+
+(c) maintaining communication with the reporting person for the purpose of providing feedback and, where necessary, requesting further information from that reporting person.
+
+(8) Each prescribed person shall ensure that where a report is received by the prescribed person through channels and procedures other than those referred to in *subsections (5)* and *(6)* or is received by a member of staff other than a designated person—
+
+(a) it shall be forwarded promptly and without modification to the designated person, and
+
+(b) any information that might identify the reporting person or the person concerned shall not be disclosed by such member of staff.
+
+(9) Each prescribed person shall ensure that designated persons receive specific training for the purposes of handling reports.
+
+(10) Each prescribed person shall publish on a website maintained by or on behalf of such prescribed person in a separate, easily identifiable and accessible section at least the following information:
+
+(a) the conditions for qualifying for protection under this Act;
+
+(b) the contact details of the prescribed person to whom a report may be made in the manner specified in *section 7*, in particular the electronic and postal addresses and the telephone numbers for making the report, indicating whether the telephone conversations are recorded;
+
+(c) the procedures applicable to the making of reports using the external reporting channels and procedures, including the manner in which the prescribed person may request the reporting person to clarify the information reported or to provide additional information, the period for providing feedback (including further feedback) and the type and content of such feedback;
+
+(d) the confidentiality regime applicable to reports and, in particular, the information in relation to the processing of personal data in accordance with *section 16B* and under applicable data protection law;
+
+(e) the nature of the follow-up to be given in relation to reports;
+
+(f) the remedies and procedures for protection against penalisation and the availability of advice pursuant to Article 20.1(a) of the Directive for persons contemplating making a report;
+
+(g) a statement clearly explaining the conditions under which persons making a report using the external channels and procedures are protected from incurring liability for a breach of confidentiality pursuant to *sections 14* and *15*;
+
+(h) contact details for the support services provided under *section 21A*;
+
+(i) such other information as the Minister may specify in guidance under *section 21*.
+
+(11) (a) Each prescribed person shall review the external channels and procedures regularly but at least once within 3 years after the date of first publication of information under *subsection (10)* and at least once in every period of 3 years after the first such review.
+
+(b) In reviewing the external channels and procedures, the prescribed person shall take account of their operation and may consult with other prescribed persons in relation to the operation of external channels and procedures established, maintained and operated by them and adapt the external channels and procedures accordingly as the prescribed person considers necessary and appropriate.
+
+(12) Where a report made to a prescribed person is an anonymous report, unless prohibited by or under any other enactment, this section shall apply, with any necessary modifications, to such a report as if references in this section to a report were a reference to an anonymous report.
+
+(13) The provisions of this section (other than *paragraphs (b)(vi)* and *(c)* of *subsection (1)* and *subsections (10)* and *(11)*) shall apply, with any necessary modifications, to reports transmitted to a prescribed person under *subsection (1)(b)(vi)(I)* as those provisions apply to a report made to a prescribed person.
+
+(14) Where a report is transmitted to a prescribed person under *subsection (1)(b)(vi)(I)*, feedback shall be provided to the reporting person not later than—
+
+(a) where acknowledgement of receipt of the report was sent to the reporting person under *subsection (1)(a)* (in this subsection referred to as the "original acknowledgement")—
+
+(i) 3 months from the date of the original acknowledgement, or
+
+(ii) 6 months from the date of the original acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(b) where there was no original acknowledgement—
+
+(i) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(ii) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 11, S.I. No. 510 of 2022.
+
+### 7B. F31[Disclosure to relevant institutions, bodies, offices or agencies of European Union
+
+**7B.** A disclosure is made in the manner specified in this section if the worker–
+
+(a) makes the disclosure to a relevant institution, body, office or agency of the European Union, and
+
+(b) has reasonable grounds to believe that the information on breaches reported was true at the time of reporting and that such information fell within the scope of the Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 7, in effect as per reg. 2.
+
+### 8. Disclosure to Minister
+
+F32[**8.** (1) A disclosure is made in the manner specified in this section where the worker complies with the requirements specified in *subsection (2)* for making a report.
+
+(2) A worker may make a report to a relevant Minister if—
+
+(a) the worker is or was employed in a public body, and
+
+(b) one or more than one of the following conditions are met:
+
+(i) the worker has previously made a report of substantially the same information in the manner specified in section 6, 7 or 8, as the case may be, but no feedback has been provided to the worker in response to the report within the period specified in *section 6A(1)(e)*, *7A(1)(c)*, *10C(7)(b)*, *10D(7)(b)* or *10E(1)(c)*, as the case may be, or, where feedback has been provided, the worker reasonably believes that there has been no follow-up or that there has been inadequate follow-up;
+
+(ii) the worker reasonably believes the head of the public body concerned is complicit in the relevant wrongdoing concerned;
+
+(iii) the worker reasonably believes that the relevant wrongdoing concerned may constitute an imminent or manifest danger to the public interest, such as where there is an emergency situation or a risk of irreversible damage.
+
+(3) (a) The relevant Minister shall, without having considered the report or the information or any allegation contained therein, as soon as practicable but in any case not later than 10 days after receipt of a report, transmit the report to the Commissioner.
+
+(b) *Section 10D* shall apply to a report transmitted to the Commissioner under *paragraph (a)*.
+
+(4) Each Minister of the Government shall make, or cause to be made, available clear and easily accessible information, in such form and manner as the Minister of the Government considers appropriate, including on a website maintained by or on behalf of the Minister of the Government concerned, regarding the making of reports in the manner specified in this section to the Minister of the Government or any Minister of State to whom any function vested in that Minister of the Government is delegated.
+
+(5) In this section—
+
+"head of the public body concerned" means—
+
+(a) in relation to a Department of State, the Secretary General of the Department concerned,
+
+(b) in relation to the Office of the Director of Public Prosecutions, the Director of Public Prosecutions,
+
+(c) in relation to the Office of the Ombudsman, the Ombudsman,
+
+(d) in relation to the Office of the Information Commissioner, the Information Commissioner,
+
+(e) in relation to the Office of the Financial Services and Pensions Ombudsman, the Financial Services and Pensions Ombudsman,
+
+(f) in relation to the Houses of the Oireachtas Service, the Chairman of Dáil Éireann,
+
+(g) in relation to the Houses of the Oireachtas Commission, its chairperson,
+
+(h) in relation to the Office of the Ombudsman for Children, the Ombudsman for Children,
+
+(i) in relation to the Garda Síochána, the Garda Commissioner,
+
+(j) in relation to the Garda Síochána Ombudsman Commission, its chairperson, and
+
+(k) in relation to any other public body, the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
+
+"relevant Minister" means a Minister of the Government with responsibility for the public body concerned in whom functions, whether statutory or otherwise, as respects that public body, are vested, or a Minister of State to whom any such function is delegated.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 12, S.I. No. 510 of 2022.
+
+### 9. Disclosure to legal adviser
+
+**9.** A disclosure is made in the manner specified in this section if it is made by the worker in the course of obtaining legal advice (including advice relating to the operation of this Act) from a barrister, solicitor, trade union official or official of an excepted body (within the meaning of section 6 of the Trade Union Act 1941).
+
+### 10. Disclosure in other cases
+
+**10.** F33[A disclosure is made in the manner specified in this section if—
+
+(a) it is made otherwise than in the manner specified in *sections 6* to *9*,
+
+(b) the worker reasonably believes that the information disclosed in the report, and any allegation contained in it, are substantially true, and
+
+(c) the worker—
+
+(i) has previously made a disclosure of substantially the same information in the manner specified in *section 6*, *7* or *8*, as the case may be, but no appropriate action was taken in response to the report within the period specified in *section 6A(1)(e)*, *7A(1)(c)*, *10C(7)(b)*, *10D(7)(b)* or *10E(1)(c)*, F34[as the case may be,]
+
+F35[(ia) has previously made a disclosure of substantially the same information in the manner specified in *section 7B*, or]
+
+(ii) reasonably believes that—
+
+(I) the relevant wrongdoing concerned may constitute an imminent or manifest danger to the public interest, such as where there is an emergency situation or a risk of irreversible damage, or
+
+(II) if he or she were to make a report in the manner specified in *section 7* F36[, *7B*] or *8*, as the case may be—
+
+(A) there is a risk of penalisation, or
+
+(B) there is a low prospect of the relevant wrongdoing being effectively addressed, due to the particular circumstances of the case, such as those where evidence may be concealed or destroyed or where a prescribed person may be in collusion with the perpetrator of the wrongdoing or involved in the wrongdoing.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 13, S.I. No. 510 of 2022.
+>
+> F34: Substituted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 8(a), in effect as per reg. 2.
+>
+> F35, F36: Inserted (22.07.2023) by *European Union (Protection of Persons Who Report Breaches of Union Law) Regulations 2023* (S.I. No. 375 of 2023), reg. 8(b), (c), in effect as per reg. 2.
+
+## PART 2AOffice of the Protected Disclosures Commissioner — F37[PART 2A — Office of the Protected Disclosures Commissioner
+
+### 10A. Establishment of Office of the Protected Disclosures Commissioner
+
+**10A.** (1) There is hereby established an office to be known, in the Irish language, as *Oifig an Choimisinéara um Nochtadh Cosanta* and, in the English language, as the Office of the Protected Disclosures Commissioner and the holder of the office shall be known as the Protected Disclosures Commissioner (in this Act referred to as the "Commissioner").
+
+(2) The holder of the office of Commissioner shall be the person who, for the time being, holds the office of Ombudsman.
+
+(3) The Commissioner shall be a corporation sole with perpetual succession and an official seal and with power—
+
+(a) to sue and be sued, and
+
+(b) with the consent of the Minister and the Minister for Finance, to acquire, hold and dispose of land or an interest in land, and to acquire, hold and dispose of any other property.
+
+(4) The Commissioner shall be independent in the performance of his or her functions.
+
+(5) The Commissioner shall have all such powers as are necessary or expedient for, or incidental to, the performance of his or her functions under this Act.
+
+(6) Subject to this section, *Schedule 5* shall have effect in relation to the Commissioner.
+
+(7) The Commissioner shall perform the functions conferred on him or her by or under this Act or any other Act.
+
+(8) The Commissioner shall provide such administrative and support services to the Disclosures Recipient, appointed under *Schedule 3* pursuant to *section 18*, as are necessary for the performance of the functions of the Disclosures Recipient.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022, art. 2.
+
+### 10B. F38[Provisions applying to reports made to Commissioner in the manner specified in section 7
+
+**10B.** (1) The Commissioner shall ensure that the external reporting channels and procedures for making reports to the Commissioner in the manner specified in *section 7* meet the following criteria if they are to be considered to be independent and autonomous:
+
+(a) they are designed, established and operated in a manner that ensures the completeness, integrity and confidentiality of the information concerned and prevents access thereto by persons other than designated persons and any other members of staff duly authorised in that behalf;
+
+(b) they enable the durable storage of information in accordance with *section 16C* to allow further investigations to be carried out.
+
+(2) External reporting channels and procedures shall enable reports to be made to the Commissioner in the manner specified in *section 7*—
+
+(a) in writing and orally, and
+
+(b) in the case of a report made orally, by telephone or through other voice messaging systems and, upon request by the reporting person, by means of a physical meeting, with the Commissioner or a designated person, as the case may be, within a reasonable period from the making of the request.
+
+(3) The Commissioner shall acknowledge, in writing, to the reporting person, receipt of a report made to the Commissioner not more than 7 days after receipt of it, save where the reporting person explicitly requested otherwise or the Commissioner reasonably believes that acknowledging receipt of the report would jeopardise the protection of the identity of the reporting person.
+
+(4) The Commissioner shall ensure that where a report is received by the Commissioner through channels and procedures other than those provided for in *subsections (1)* and *(2)* or is received by a member of staff other than a designated person—
+
+(a) it shall be forwarded promptly and without modification to the designated person, and
+
+(b) any information that might identify the reporting person or the person concerned shall not be disclosed by such member of staff.
+
+(5) The Commissioner shall designate one or more than one member of staff (in this section referred to as a "designated person") to be responsible for handling reports and, in particular, for providing any person with information on the procedures for making a report in the manner specified in *section 7*.
+
+(6) The Commissioner shall ensure that designated persons receive specific training for the purposes of handling reports.
+
+(7) The Commissioner shall publish on a website maintained by or on behalf of the Commissioner in a separate, easily identifiable and accessible section at least the following information:
+
+(a) the conditions for qualifying for protection under this Act;
+
+(b) the contact details of the Commissioner for the purpose of making reports to the Commissioner in the manner specified in *section 7*, in particular the electronic and postal addresses and the telephone numbers for making such reports, indicating whether the telephone conversations are recorded;
+
+(c) the procedures applicable to the making of reports using the external reporting channels and procedures, including the manner in which the Commissioner may request the reporting person to clarify the information reported or to provide additional information, the period for providing feedback (including further feedback) and the type and content of such feedback;
+
+(d) the confidentiality regime applicable to reports and, in particular, the information in relation to the processing of personal data in accordance with *section 16B* and under applicable data protection law;
+
+(e) the nature of the follow-up to be given in relation to reports;
+
+(f) the remedies and procedures for protection against penalisation and the availability of advice pursuant to Article 20.1(a) of the Directive for persons contemplating making a report;
+
+(g) a statement clearly explaining the conditions under which persons making a report using the external channels and procedures are protected from incurring liability for a breach of confidentiality pursuant to *sections 14* and *15*;
+
+(h) contact details for the support services provided under *section 21A*;
+
+(i) such other information as the Minister may specify in guidance under *section 21*.
+
+(8) (a) The Commissioner shall review the external reporting channels and procedures regularly but at least once within 3 years after the date of first publication of information under *subsection (7)* and at least once in every period of 3 years after the first such review.
+
+(b) In reviewing the external reporting channels and procedures, the Commissioner shall take account of their operation and may consult with prescribed persons in relation to the operation of external channels and procedures established, maintained and operated for the purposes of enabling the making of reports to prescribed persons in the manner specified in *section 7* and adapt the external channels and procedures accordingly as the Commissioner considers necessary and appropriate.
+
+(9) A reporting person shall, in respect of the report concerned and any follow-up procedures, without prejudice to his or her rights under this Act and to such extent as may reasonably and lawfully be required for the purposes of this Act, cooperate with the Commissioner in relation to the performance by the Commissioner of the functions conferred on the Commissioner by or under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022.
+
+## 10C. F39[Commissioner to act as recipient of last resort in respect of certain reports
+
+**10C.** (1) Subject to *subsection (3)*, the Commissioner shall, within 14 days of receipt of a report made or transmitted to the Commissioner (other than reports transmitted to the Commissioner in the manner specified in *section 8*), or, in exceptional circumstances, due to the nature and complexity of such report, within such extended period as the Commissioner considers reasonable in those circumstances—
+
+(a) identify—
+
+(i) such prescribed person or persons (other than the Commissioner) as the Commissioner considers appropriate, or
+
+(ii) an other suitable person other than a prescribed person (in this section referred to as an "other suitable person") who, in the opinion of the Commissioner, appears, by reason of the nature of such person’s responsibilities or functions, to be appropriate to be the recipient of the report, and to have the competence to provide feedback and follow-up and protect the identity of the reporting person and persons concerned in accordance with *sections 16* and *16A*, where—
+
+(I) there is no prescribed person whom the Commissioner considers appropriate to be the recipient of the report, or
+
+(II) having regard to the nature of the relevant wrongdoing concerned or the circumstances of the report, the Commissioner is of the opinion that the report should not be transmitted to a prescribed person because to do so would create a risk of serious penalisation against the reporting person or that evidence of the relevant wrongdoing would be concealed or destroyed,
+
+and
+
+(b) transmit the report to such prescribed person or other suitable person, as the case may be.
+
+(2) The Commissioner shall notify the reporting person, in writing, as soon as practicable, of the transmission of the report under *subsection (1)* and the reasons for the transmission.
+
+(3) Where the period specified in *subsection (1)* is extended as provided for by that subsection, the Commissioner shall notify the reporting person, in writing, as soon as practicable, of the extension or any further extension, as the case may be, and the reasons for that extension or further extension.
+
+(4) When transmitting a report to an other suitable person under *subsection (1)*, the Commissioner shall inform such person, in writing, of the obligations imposed on the person by this Act.
+
+(5) Where a prescribed person or other suitable person cannot be identified under *subsection (1)*, the Commissioner shall accept the report and notify the reporting person accordingly and of the reasons for accepting the report, in writing, as soon as practicable.
+
+(6) The Commissioner shall establish procedures for handling reports accepted under *subsection (5)* and for follow-up.
+
+(7) The procedures referred to in *subsection (6)* shall include the following:
+
+(a) diligent follow-up, which shall include at least the following:
+
+(i) the carrying out of an initial assessment, including seeking further information from the reporting person if required, as to whether there is *prima facie* evidence that a relevant wrongdoing may have occurred;
+
+(ii) if, having carried out an initial assessment, the Commissioner decides that there is no *prima facie* evidence that a relevant wrongdoing may have occurred—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iii) if, having carried out an initial assessment, the Commissioner decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, but that the relevant wrongdoing is clearly minor and does not require further follow-up—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iv) having carried out an initial assessment—
+
+(I) closure of the procedure in the case of repetitive reports where the Commissioner decides that the report does not contain any meaningful new information about a relevant wrongdoing compared to a previous report (including any report made before the commencement of section 14 of the Protected Disclosures (Amendment) Act 2022 (in this clause referred to as a "past report")) made or transmitted to the Commissioner or any other person in respect of which the relevant procedures (including any procedures that applied at the time any past report was made) were concluded, unless new legal or factual circumstances justify a different follow-up, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision referred to in *clause (I)* and the reasons for it;
+
+(v) if, having carried out an initial assessment, the Commissioner decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, the taking of appropriate action in accordance with the functions conferred on the Commissioner by or under this Act to address the relevant wrongdoing, having regard to the nature and seriousness of the matter concerned;
+
+(b) where the procedure has not otherwise been closed under *subparagraph (ii)*, *(iii)* or *(iv)* of *paragraph (a)*, the provision of feedback to the reporting person within a reasonable period, being not more than—
+
+(i) where acknowledgement of receipt of the report was sent to the reporting person under *section 7A(1)(a)* or *10B(3)*, as the case may be—
+
+(I) 3 months from the date of such acknowledgement, or
+
+(II) 6 months from the date of the acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(ii) where no acknowledgement of receipt of the report was sent to the reporting person under *section 7A(1)(a)* or *10B(3)*, as the case may be—
+
+(I) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(II) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report;
+
+(c) where feedback is not or is not likely to be provided to the reporting person within the period of 3 months referred to in *paragraph (b)(i)(I)*, notification of the reporting person, in writing, as soon as practicable of the extension of that period under *paragraph (b)(i)(II)*;
+
+(d) the provision to the reporting person, where he or she so requests in writing, of further feedback at intervals of 3 months until such time as the procedure relating to the report concerned is closed, the first such period of 3 months commencing on the date on which feedback is provided to the reporting person under *paragraph (b)*;
+
+(e) save as provided for by or under any enactment or rule of law and subject to *subsection (11)*, communication to the reporting person, in writing, as soon as is practicable, of the final outcome of any investigation triggered by the report;
+
+(f) where a report concerns a breach, transmission as soon as practicable of the information contained in the report to relevant competent institutions, bodies, offices or agencies of the Union, as appropriate, for further investigation, where provided for under Union law or the law of the State.
+
+(8) (a) The Commissioner shall designate one or more than one member of staff (in this section referred to as a "designated person") to be responsible for handling reports and, in particular, for—
+
+(i) follow-up on reports accepted by the Commissioner under *subsection (5)*, and
+
+(ii) maintaining communication with a reporting person for the purpose of providing feedback and, where necessary, requesting further information from the reporting person in respect of a report accepted by the Commissioner under *subsection (5)*.
+
+(b) The Commissioner shall ensure that designated persons receive specific training for the purposes of handling reports.
+
+(9) A reporting person shall, in respect of the report concerned and any follow-up procedures, without prejudice to his or her rights under this Act and to such extent as may reasonably and lawfully be required for the purposes of this Act, cooperate with the Commissioner in relation to the performance by the Commissioner of the functions conferred on the Commissioner by or under this Act.
+
+(10) Without prejudice to the period referred to in *subparagraph (i)(I)* or *(II)* or *subparagraph (ii)(I)* or *(II)* of *paragraph (b)*, as applicable, of *subsection (7)*, if necessary and appropriate, having due regard to the number of reports received by the Commissioner, he or she may deal with reports of a serious relevant wrongdoing as a matter of priority.
+
+(11) *Subsection (7)(e)* shall operate without prejudice to any legal obligations applying to the Commissioner as regards confidentiality, legal professional privilege, privacy and data protection.
+
+(12) (a) A person to whom a report is transmitted under *subsection (1)(b)* may notify the Commissioner, in writing, not later than 7 days after the date of transmission of the report, that the person is of the opinion that the matter to which the report relates does not come within the remit, statutory or otherwise, of that person and of the reasons for that opinion.
+
+(b) The Commissioner shall, not later than 14 days after receipt of a notification under *paragraph (a)*—
+
+(i) if the Commissioner does not accept the opinion so notified, notify the person, in writing, of his or her decision and the decision of the Commissioner shall be final,
+
+(ii) if the Commissioner accepts the opinion so notified, identify such other prescribed person or persons or other suitable person under *subsection (1)(a)* and transmit the report accordingly under *subsection (1)(b)*, or
+
+(iii) where, for the purposes of *subparagraph (ii)*, a prescribed person or other suitable person cannot be identified in accordance with *subsection (1)(a)*, accept the report and notify the reporting person accordingly and of the reasons for accepting the report, in writing, as soon as practicable.
+
+(c) This section shall apply, with any necessary modifications, to a report accepted by the Commissioner under *paragraph (b)(iii)* as it applies to a report accepted under *subsection (5)*.
+
+(13) Where a report accepted by the Commissioner under *subsection (5)* or *(12)(b)(iii)* is an anonymous report, unless prohibited by or under any other enactment, *subsections (6)* to *(11)* shall apply, with any necessary modifications, to such a report as if references in those subsections to a report were a reference to an anonymous report.
+
+(14) The provisions of *section 7A* (other than *paragraphs (b)(vi)* and *(c)* of *subsection (1)* and *subsections (10)* and *(11)* of *section 7A*) shall apply, with any necessary modifications, to a report transmitted to a prescribed person under this section as those provisions apply to a report made to a prescribed person.
+
+(15) Where a report is transmitted to a prescribed person under this section feedback shall be provided to the reporting person not later than—
+
+(a) where acknowledgement of receipt of the report was sent to the reporting person under *section 7A(1)(a)* or *10B(3)* (in this subsection referred to as the "original acknowledgement"), as the case may be—
+
+(i) 3 months from the date of the original acknowledgement, or
+
+(ii) 6 months from the date of the original acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(b) where there was no original acknowledgement—
+
+(i) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(ii) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report.
+
+(16) *Section 10E* shall apply to a report transmitted to a suitable person under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022.
+
+## 10D. F40[Provisions applying to Commissioner in respect of reports made in the manner specified in section 8
+
+**10D.** (1) The Commissioner shall, on receipt of a report transmitted to him or her in the manner specified in *section 8*—
+
+(a) acknowledge, in writing, to the reporting person receipt of transmission of the report not more than 7 days after receipt of it from a relevant Minister (within the meaning of *section 8*), save where the reporting person explicitly requested otherwise or the Commissioner reasonably believes that acknowledging receipt of the report would jeopardise the protection of the identity of the reporting person, and
+
+(b) subject to *subsection (3)*, within 14 days of receipt of the report, or, in exceptional circumstances, due to the nature and complexity of the report, within such extended period as the Commissioner considers reasonable in those circumstances—
+
+(i) identify—
+
+(I) such prescribed person or persons (other than the Commissioner) as the Commissioner considers appropriate, or
+
+(II) an other suitable person other than a prescribed person (in this section referred to as an "other suitable person") who, in the opinion of the Commissioner, appears, by reason of the nature of such person’s responsibilities or functions, to be appropriate to be the recipient of the report, and to have the competence to provide feedback and follow-up and protect the identity of the reporting person and persons concerned in accordance with *sections 16* and *16A*, where—
+
+(A) there is no prescribed person whom the Commissioner considers appropriate to be the recipient of the report, or
+
+(B) having regard to the nature of the relevant wrongdoing concerned or the circumstances of the report the Commissioner is of the opinion that the report should not be transmitted to a prescribed person because to do so would create a risk of serious penalisation against the reporting person or that evidence of the relevant wrongdoing would be concealed or destroyed,
+
+and
+
+(ii) transmit the report to such prescribed person or other suitable person, as the case may be.
+
+(2) The Commissioner shall notify the reporting person, in writing, as soon as practicable, of the transmission of the report under *subsection (1)* and the reasons for the transmission.
+
+(3) Where the period specified in *subsection (1)* is extended as provided for by that subsection, the Commissioner shall notify the reporting person, in writing, as soon as practicable, of the extension or any further extension, as the case may be, and the reasons for that extension or further extension.
+
+(4) When transmitting a report to an other suitable person under *subsection (1)*, the Commissioner shall inform such person, in writing, of the obligations imposed on the person by this Act.
+
+(5) Where a prescribed person or other suitable person cannot be identified under *subsection (1)*, the Commissioner shall accept the report and notify the reporting person accordingly and of the reasons for accepting the report, in writing, as soon as practicable.
+
+(6) The Commissioner shall establish procedures for handling reports accepted under *subsection (5)* and for follow-up.
+
+(7) The procedures referred to in *subsection (6)* shall include the following:
+
+(a) diligent follow-up, which shall include at least the following:
+
+(i) the carrying out of an initial assessment, including seeking further information from the reporting person if required, as to whether there is *prima facie* evidence that a relevant wrongdoing may have occurred;
+
+(ii) if, having carried out an initial assessment, the Commissioner decides that there is no *prima facie* evidence that a relevant wrongdoing may have occurred—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iii) if, having carried out an initial assessment, the Commissioner decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, but that the relevant wrongdoing is clearly minor and does not require further follow-up—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iv) having carried out an initial assessment—
+
+(I) closure of the procedure in the case of repetitive reports where the Commissioner decides that the report does not contain any meaningful new information about a relevant wrongdoing compared to a previous report (including any report made before the commencement of section 14 of the Protected Disclosures (Amendment) Act 2022 (in this clause referred to as a "past report")) made to the relevant Minister (within the meaning of *section 8*) concerned or any other Minister of the Government or Minister of State or any other person in respect of which the relevant procedures (including any procedures that applied at the time any past report was made) were concluded, unless new legal or factual circumstances justify a different follow-up, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision referred to in *clause (I)* and the reasons for it;
+
+(v) if, having carried out an initial assessment, the Commissioner decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, the taking of appropriate action in accordance with the functions conferred on the Commissioner by or under this Act to address the relevant wrongdoing, having regard to the nature and seriousness of the matter concerned;
+
+(b) where the procedure has not otherwise been closed under *subparagraph (ii)*, *(iii)* or *(iv)* of *paragraph (a)*, the provision of feedback to the reporting person within a reasonable period, being not more than—
+
+(i) where acknowledgement of receipt of transmission of the report was sent to the reporting person under *subsection (1)(a)*—
+
+(I) 3 months from the date of such acknowledgement, or
+
+(II) 6 months from the date of the acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(ii) where no acknowledgement of receipt of transmission of the report was sent to the reporting person under *subsection (1)(a)*—
+
+(I) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(II) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report;
+
+(c) where feedback is not or is not likely to be provided to the reporting person within the period of 3 months referred to in *paragraph (b)(i)(I)*, notification of the reporting person, in writing, as soon as practicable of the extension of that period under *paragraph (b)(i)(II)*;
+
+(d) the provision to the reporting person, where he or she so requests in writing, of further feedback at intervals of 3 months until such time as the procedure relating to the report concerned is closed, the first such period of 3 months commencing on the date on which feedback is provided to the reporting person under *paragraph (b)*;
+
+(e) save as provided for by or under any enactment or rule of law and subject to *subsection (11)*, communication to the reporting person, in writing, as soon as practicable, of the final outcome of investigations triggered by the report;
+
+(f) where a report concerns a breach, transmission as soon as practicable of the information contained in the report to relevant competent institutions, bodies, offices or agencies of the Union, as appropriate, for further investigation, where provided for under Union law or the law of the State.
+
+(8) (a) The Commissioner shall designate one or more than one member of staff (in this section referred to as a "designated person") to be responsible for handling reports and, in particular, for—
+
+(i) follow-up on reports accepted by the Commissioner under *subsection (5)*, and
+
+(ii) maintaining communication with a reporting person for the purpose of providing feedback and, where necessary, requesting further information from the reporting person in respect of a report accepted by the Commissioner under *subsection (5)*.
+
+(b) The Commissioner shall ensure that designated persons receive specific training for the purposes of handling reports.
+
+(9) A reporting person shall, in respect of the report concerned and any follow-up procedures, without prejudice to his or her rights under this Act and to such extent as may reasonably and lawfully be required for the purposes of this Act, cooperate with the Commissioner in relation to the performance by the Commissioner of the functions conferred on the Commissioner by or under this Act.
+
+(10) Without prejudice to the period referred to in *subparagraph (i)(I)* or *(II)* or *subparagraph (ii)(I)* or *(II)* of *paragraph (b)*, as applicable, of *subsection (7)*, if necessary and appropriate, having due regard to the number of reports received by the Commissioner, he or she may deal with reports of a serious relevant wrongdoing as a matter of priority.
+
+(11) *Subsection (7)(e)* shall operate without prejudice to any legal obligations applying to the Commissioner as regards confidentiality, legal professional privilege, privacy and data protection.
+
+(12) (a) A person to whom a report is transmitted under *subsection (1)(b)(ii)* may notify the Commissioner, in writing, not later than 7 days after the date of transmission of the report, that the person is of the opinion that the matter to which the report relates does not come within the remit, statutory or otherwise, of that person and of the reasons for that opinion.
+
+(b) The Commissioner shall, not later than 14 days after receipt of a notification under *paragraph (a)*—
+
+(i) if the Commissioner does not accept the opinion so notified, notify the person, in writing, of his or her decision and the decision of the Commissioner shall be final,
+
+(ii) if the Commissioner accepts the opinion so notified, identify such other prescribed person or persons or other suitable person under *subsection (1)(b)(i)* and transmit the report accordingly under *subsection (1)(b)(ii)*, or
+
+(iii) where, for the purposes of *subparagraph (ii)*, a prescribed person or other suitable person cannot be identified in accordance with *subsection (1)(b)(i)*, accept the report and notify the reporting person accordingly and of the reasons for accepting the report, in writing, as soon as practicable.
+
+(c) This section shall apply, with any necessary modifications, to a report accepted by the Commissioner under *paragraph (b)(iii)* as it applies to a report accepted under *subsection (5)*.
+
+(13) Where a report accepted by the Commissioner under *subsection (5)* or *(12)(b)(iii)* is an anonymous report, unless prohibited by or under any other enactment, *subsections (6)* to *(11)* shall apply, with any necessary modifications, to such a report as if references in those subsections to a report were references to an anonymous report.
+
+(14) The provisions of *section 7A* (other than *paragraphs (b)(vi)* and *(c)* of *subsection (1)* and *subsections (10)* and *(11)* of *section 7A*) shall apply, with any necessary modifications, to a report transmitted to a prescribed person under this section as those provisions apply to a report made to a prescribed person.
+
+(15) Where a report is transmitted to a prescribed person under this section, feedback shall be provided to the reporting person not later than—
+
+(a) where acknowledgement of receipt of the report was sent to the reporting person under *section 7A(1)(a)* (in this subsection referred to as the "original acknowledgement")—
+
+(i) 3 months from the date of the original acknowledgement, or
+
+(ii) 6 months from the date of the original acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(b) where there was no original acknowledgement—
+
+(i) 3 months from the date of expiry of the period of 7 days after the report was made, or
+
+(ii) 6 months from the date of expiry of the period of 7 days after the report was made in duly justified cases due to the particular nature and complexity of the report.
+
+(16) *Section 10E* shall apply to a report transmitted to a suitable person under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022.
+
+## 10E. F41[Provisions applying to other suitable persons to whom reports are transmitted by Commissioner
+
+**10E.** (1) Where a report is transmitted by the Commissioner to an other suitable person (within the meaning of *section 10C* or *10D*, as the case may be) under *section 10C(1)(b)* or *10D(1)(b)(ii)*, such person (in this section referred to as the "person to whom the report is transmitted") shall—
+
+(a) acknowledge, in writing, to the reporting person, receipt of transmission of the report not more than 7 days after receipt of it, save where the reporting person explicitly requested otherwise or the person to whom the report is transmitted reasonably believes that acknowledging receipt of the report would jeopardise the protection of the identity of the reporting person,
+
+(b) diligently follow-up, which shall include at least the following:
+
+(i) the carrying out of an initial assessment, including seeking further information from the reporting person, if required, as to whether there is *prima facie* evidence that a relevant wrongdoing may have occurred;
+
+(ii) if, having carried out an initial assessment, the person to whom the report is transmitted decides that there is no *prima facie* evidence that a relevant wrongdoing may have occurred—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iii) if, having carried out an initial assessment, the person to whom the report is transmitted decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred but that the relevant wrongdoing is clearly minor and does not require further follow-up—
+
+(I) closure of the procedure, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision and the reasons for it;
+
+(iv) having carried out an initial assessment—
+
+(I) closure of the procedure in the case of repetitive reports where the person to whom the report is transmitted decides that the report does not contain any meaningful new information about a relevant wrongdoing compared to a previous report (including any report made before the commencement of section 14 of the Protected Disclosures (Amendment) Act 2022 (in this clause referred to as a "past report")) made to the person to whom the report is transmitted or to any other person in respect of which the relevant procedures (including any procedures that applied at the time any past report was made) were concluded, unless new legal or factual circumstances justify a different follow-up, and
+
+(II) notification of the reporting person, in writing, as soon as practicable of the decision referred to in *clause (I)* and the reasons for it;
+
+(v) if, having carried out such initial assessment, the person to whom the report is transmitted decides that there is *prima facie* evidence that a relevant wrongdoing may have occurred, take appropriate action, in accordance with the functions conferred on that person by or under this or any other enactment, to address the relevant wrongdoing, having regard to the nature and seriousness of the matter concerned,
+
+(c) where the procedure has not otherwise been closed under *subparagraph (ii)*, *(iii)* or *(iv)* of *paragraph (b)*, provide feedback to the reporting person within a reasonable period, being not more than—
+
+(i) where acknowledgement of receipt of the report was sent to the reporting person under *section 7A(1)(a)* or acknowledgement of receipt of transmission of the report was sent to the reporting person under *section 10D(1)(a)*, as the case may be (in this subsection referred to as the "original acknowledgement")—
+
+(I) 3 months from the date of the original acknowledgement, or
+
+(II) 6 months from the date of the original acknowledgement in duly justified cases due to the particular nature and complexity of the report,
+
+or
+
+(ii) where there was no original acknowledgement—
+
+(I) 3 months, from the date of expiry of the period of 7 days after the report was made, as the case may be, or
+
+(II) 6 months from the date of expiry of 7 days after the report was made, as the case may be, in duly justified cases due to the particular nature and complexity of the report,
+
+(d) where feedback is not or is not likely to be provided to the reporting person within the period of 3 months referred to in *paragraph (c)(i)(I)*, notify the reporting person, in writing, as soon as practicable of the extension of that period under *paragraph (c)(i)(II)*,
+
+(e) provide to the reporting person, where he or she so requests in writing, further feedback at intervals of 3 months until such time as the procedure relating to the report concerned is closed, the first such period of 3 months commencing on the date on which feedback is provided to the reporting person under *paragraph (c)*,
+
+(f) save as provided for by or under any enactment or rule of law and subject to *subsection (4)*, communicate to the reporting person, in writing, as soon as practicable, the final outcome of any investigation triggered by the report,
+
+(g) where a report concerns a breach, transmit as soon as practicable of the information contained in the report to relevant competent institutions, bodies, offices or agencies of the Union, as appropriate, for further investigation, where provided for under Union law or the law of the State.
+
+(2) A reporting person shall, in respect of the report concerned and any follow-up procedures, without prejudice to his or her rights under this Act and to such extent as may reasonably and lawfully be required for the purposes of this Act, cooperate with the person to whom the report is transmitted in relation to the performance by that person of the functions conferred on that person by or under this Act.
+
+(3) Without prejudice to the period referred to in *subparagraph (i)(I)* or *(II)* or *subparagraph (ii)(I)* or *(II)* of *paragraph (c)*, as applicable, of *subsection (1)*, if necessary and appropriate, having due regard to the number of reports received by the person to whom the report is transmitted, that person may deal with reports of a serious relevant wrongdoing as a matter of priority.
+
+(4) *Subsection (1)(f)* shall operate without prejudice to any legal obligations applying to the person to whom the report is transmitted as regards confidentiality, legal professional privilege, privacy and data protection.
+
+(5) The person to whom the report is transmitted shall designate one or more than one member of staff (in this section referred to as a "designated person") to be responsible for handling reports and, in particular, for—
+
+(a) follow-up on reports transmitted to that person, and
+
+(b) maintaining communication with the reporting person for the purpose of providing feedback and, where necessary, requesting further information from that reporting person.
+
+(6) The person to whom the report is transmitted shall, in so far as it is reasonably practicable in the circumstances concerned, ensure that designated persons receive specific training for the purposes of handling reports.
+
+(7) Where the report referred to in *subsection (1)* is an anonymous report, unless prohibited by or under any other enactment, this section shall apply, with any necessary modifications, to such a report as if references in this section to a report were a reference to an anonymous report.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022.
+
+## 10F. F42[Powers of Commissioner
+
+**10F.** (1) The Commissioner may, for the purpose of diligent follow-up on a report accepted by the Commissioner under this Act—
+
+(a) require any person who, in the opinion of the Commissioner, is in possession of information, or has any record, book, document or other thing in his or her power or control, that, in the opinion of the Commissioner, is relevant to the purpose aforesaid to furnish to the Commissioner any such information or record, book, document or other thing and, where appropriate, require the person to attend before him or her for that purpose, and
+
+(b) examine and take copies in any form of, or extracts from, any record, book, document or other thing that, in the opinion of the Commissioner, is relevant to the purpose aforesaid and for that purpose take possession of any such record, book, document or other thing and retain it in his or her possession for a reasonable period,
+
+and the person shall comply with a requirement under this subsection.
+
+(2) A requirement under *subsection (1)* shall be made by notice in writing given to the person to whom it is directed and shall specify the period within which and the place at which any information or record, book, document or other thing is to be furnished to the Commissioner or the place at which a person is to attend before the Commissioner.
+
+(3) (a) The Commissioner may appoint such and so many members of staff, and other suitably qualified persons, as the Commissioner considers appropriate to be authorised officers for the purpose referred to in *subsection (1)*.
+
+(b) A person appointed under *paragraph (a)* shall, on his or her appointment, be furnished by the Commissioner with a certificate of his or her appointment and, when exercising a power conferred under this section shall, on request by any person thereby affected, produce such certificate together with a form of personal identification to that person for inspection.
+
+(c) An appointment shall cease—
+
+(i) if the Commissioner revokes, in writing, the appointment,
+
+(ii) in the case of a person who at the time of his or her appointment was a member of staff of the Commissioner, upon the person ceasing to be such a member of staff, or
+
+(iii) in the case of an appointment for a fixed period, upon the expiry of that period.
+
+(d) In this subsection, "suitably qualified person" means a person, other than a member of staff of the Commissioner, who, in the opinion of the Commissioner, has the expertise and experience necessary to perform the functions conferred on an authorised officer under this section.
+
+(4) Subject to *subsections (5)* and *(6)*, an authorised officer may, for the purpose referred to in *subsection (1)*, enter any premises occupied by a person referred to in *subsection (1)(a)* and there—
+
+(a) require any person found on the premises to furnish him or her with such information in the possession of the person as he or she may reasonably require for the purpose aforesaid and to make available to him or her any record, book, document or other thing in his or her power or control that, in the opinion of the authorised officer, is relevant to that purpose, and
+
+(b) examine and take copies of, or extracts from, any such record, book, document or other thing made available to him or her as aforesaid or found on the premises.
+
+(5) An authorised officer shall not enter a dwelling other than—
+
+(a) with the consent of the occupier, or
+
+(b) pursuant to a warrant under *subsection (7)*.
+
+(6) Where an authorised officer is, in the exercise of his or her powers under this section, prevented from entering any premises an application may be made under *subsection (7)* authorising such entry.
+
+(7) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that any information or record, book, document or other thing required by the authorised officer for the purposes of performing his or her functions under this section is held at any premises or dwelling or any part of any premises or dwelling the judge may issue a warrant authorising the authorised officer, accompanied if the officer considers necessary by such other person or member of the Garda Síochána or both, at any time or times not later than 30 days from the date of issue of the warrant and on production if so requested of the warrant, to enter, if need be by reasonable force, the premises or dwelling or part of the premises or dwelling concerned and exercise all or any of the powers conferred on an authorised officer under this section.
+
+(8) Subject to *subsection (9)*, no enactment or rule of law prohibiting or restricting the disclosure or communication of information shall preclude a person from furnishing to the Commissioner or an authorised officer, as the case may be, any such information or record, book, document or other thing, as aforesaid.
+
+(9) A person to whom a requirement is addressed under *subsection (1)* or *(4)* shall be entitled to the same immunities and privileges as a witness in a court.
+
+(10) Subject to this Act, the procedure for diligent follow-up shall be such as the Commissioner considers appropriate in all the circumstances of the case and, without prejudice to the foregoing, shall be as informal as is consistent with the due performance of the functions of the Commissioner under this Act.
+
+(11) The Commissioner may, if he or she thinks fit, pay to any person who, for the purpose referred to in *subsection (1)*, attends before the Commissioner or furnishes information or any record, book, document or other thing to him or her—
+
+(a) sums in respect of travelling and subsistence expenses properly incurred by the person, and
+
+(b) allowances by way of compensation for loss of his or her time,
+
+of such amount as may be determined by the Minister.
+
+(12) If it appears to the Commissioner that a person has failed to comply with a requirement under *subsection (1)* or *(4)*, the Commissioner may apply to the Circuit Court for an order under *subsection (13)*.
+
+(13) If, on an application under *subsection (12)*, the Circuit Court is satisfied as to the failure of a person referred to in *subsection (12)* to comply with the requirement concerned, the Court may make an order directing that person to comply with the requirement.
+
+(14) A person who—
+
+(a) withholds, destroys, conceals or refuses to provide any information or record, book, document or other thing required for the purpose referred to in *subsection (1)*,
+
+(b) fails or refuses to comply with any requirement under *subsection (1)* or *(4)*, or
+
+(c) otherwise obstructs or hinders the Commissioner or an authorised officer in the performance of his or her functions under this section,
+
+commits an offence and shall be liable—
+
+(i) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 2 years, or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 14, S.I. No. 510 of 2022. A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+## PART 3Protections — PART 3 — Protections
+
+### 11. Protection of employees from dismissal for having made protected disclosure
+
+**11.** (1) The Unfair Dismissals Act 1977 is amended—
+
+(a) in section 1 by inserting the following definitions:
+
+“ ‘protected disclosure’ has the meaning given by the *Protected Disclosures Act 2014*;
+
+‘relevant wrongdoing’ has the meaning given by the *Protected Disclosures Act 2014*;”;
+
+(b) in section 6 by inserting the following paragraph after paragraph (b) of subsection (2):
+
+“(ba) the employee having made a protected disclosure,”;
+
+(c) in section 6 by inserting the following subsection after subsection (2C):
+
+“(2D) Sections 3 and 4 do not apply to a case falling within paragraph (ba) of subsection (2) and that paragraph applies to a person who would otherwise be excluded from this Act by any of paragraphs (a) to (c) and (e) to (k) of section 2(1).”;
+
+(d) in section 7 by inserting the following subsection after subsection (1):
+
+“(1A) In relation to a case falling within section 6(2)(ba) the reference in subsection (1)(c)(i) to 104 weeks has effect as if it were a reference to 260 weeks.”;
+
+and
+
+(e) in section 7 by inserting the following subsection after subsection (2A):
+
+“(2B) Where—
+
+(a) the dismissal of an employee results wholly or mainly from the employee having made a protected disclosure, and
+
+(b) the investigation of the relevant wrongdoing concerned was not the sole or main motivation for making the disclosure,
+
+the amount of compensation that is just and equitable may be up to 25 per cent less than the amount that it would otherwise be.”.
+
+(2) *Schedule 1* contains provisions for interim relief in cases where a claim is brought for redress for a dismissal which is an unfair dismissal by virtue of section 6(2)(ba) (inserted by *subsection (1)*) of the Unfair Dismissals Act 1977.
+
+### 12. Other protection of employees from penalisation for having made protected disclosure
+
+**12.** (1) An employer shall not penalise or threaten penalisation against an employee, or cause or permit any other person to penalise or threaten penalisation against an employee, for having made a protected disclosure.
+
+(2) *Subsection (1)* does not apply to the dismissal of an employee to whom section 6(2)(ba) of the Unfair Dismissals Act 1977 applies.
+
+(3) *Schedule 2* shall have effect in relation to an alleged contravention of *subsection (1)* .
+
+(4) *Subsection (3)* does not apply in relation to the penalisation of an employee if the employee is within paragraph (d) of section 2(1) of the Unfair Dismissals Act 1977.
+
+(5) Any person who, on examination authorised under *paragraph 3(1)* of *Schedule 2*, wilfully makes any material statement which the person knows to be false or does not believe to be true commits an offence and is liable on summary conviction to a class A fine or imprisonment for a term not exceeding 12 months or both.
+
+(6) A person to whom a notice under *paragraph 3(2)* of *Schedule 2* has been given and who refuses or wilfully neglects to attend in accordance with the notice or who, having so attended, refuses to give evidence or refuses or wilfully fails to produce any document to which the notice relates commits an offence and is liable on summary conviction to a class A fine.
+
+(7) A document purporting to be signed by the chairperson or a deputy chairperson of the Labour Court stating that—
+
+(a) a person named in the document was, by a notice under *paragraph 3(2)* of *Schedule 2*, required to attend before the Labour Court on a day and at a time and place specified in the document, to give evidence or produce a document, or both, and
+
+(b) a sitting of the Labour Court was held on that day and at that time and place, and the person did not attend before the Labour Court pursuant to the notice or, having so attended, refused to give evidence or refused or wilfully failed to produce the document, shall, in a prosecution of the person for an offence under *subsection (6)*, be evidence of the matters so stated without further proof unless the contrary is shown.
+
+F43[(7A) An employee who claims to have suffered penalisation wholly or mainly for having made a protected disclosure may apply to the Circuit Court for interim relief within 21 days immediately following the date of the last instance of penalisation or such longer period as the Court may allow.
+
+(7B) In this section and Schedule 2, references to "employee" include a worker referred to in *paragraphs (d)*, *(g)* and *(h)* of the definition of "worker" in *section 3(1)*.
+
+(7C) In any proceedings by an employee under the Workplace Relations Act 2015 in respect of an alleged contravention of *subsection (1)*, the penalisation shall be deemed, for the purposes of this section, to have been as a result of the employee having made a protected disclosure, unless the employer proves that the act or omission concerned was based on duly justified grounds.]
+
+(8) Summary proceedings for an offence under *subsection (5)* or *(6)* may be brought and prosecuted by the Minister for Jobs, Enterprise and Innovation.
+
+(9) F44[...]
+
+(10) F44[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 21, S.I. No. 510 of 2022.
+>
+> F44: Repealed (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 3(c), S.I. No. 510 of 2022, art. 2.
+>
+> **Editorial Notes:**
+>
+> E13: Redress and appeal procedures for purposes of subs. (1) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41 and 44 and sch. 5 part 1 item 28, sch. 6 part 1 item 34 and sch. 6 part 2 item 34, S.I. No. 410 of 2015.
+>
+> E14: Subs. (1) included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 2 item 18, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+
+### 13. Tort action for suffering detriment because of making protected disclosure
+
+**13.** (1) If a person causes detriment to another person because the other person or a third person made a protected disclosure, the person to whom the detriment is caused has a right of action in tort against the person by whom the detriment is caused.
+
+(2) A person may not both—
+
+(a) pursue a right of action under *subsection (1)* against a person in respect of a matter, and
+
+(b) in respect of the same matter make or present against the same person—
+
+(i) a claim for redress under the Unfair Dismissals Acts 1977 to 2007,
+
+(ii) a complaint under *Schedule 2*, or
+
+(iii) a complaint under section 114 of the Defence Act 1954 or section 6 of the Ombudsman (Defence Forces) Act 2004.
+
+F45[(2A) Where the investigation of the relevant wrongdoing concerned was not the sole or main motivation for making the protected disclosure concerned, in determining the amount of any damages to be awarded, in proceedings under this section, to a person to whom detriment is caused, the amount may be up to 25 per cent less than the amount that it would otherwise be.
+
+(2B) In any proceedings under this section in respect of alleged detriment caused to a person, the detriment so caused shall be deemed, for the purposes of this section, to have been caused as a result of the person or another person having made a protected disclosure, unless the person whom it is alleged caused the detriment proves that the act or omission concerned was based on duly justified grounds.]
+
+F46[(3) In *subsection (1)*, "detriment" means an act or omission referred to in any of *paragraphs (a)* to *(q)* of the definition of "penalisation" in *section 3*, subject to the modification that references in any of the said paragraphs to a worker shall be read as a reference to the person to whom the detriment is caused.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 22(a), S.I. No. 510 of 2022.
+>
+> F46: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 22(b), S.I. No. 510 of 2022.
+
+### 13A. F47[Tort action for damage caused by report of false information
+
+**13A.** A person who suffers damage resulting from the making of a report, where the reporting person knowingly reported false information, has a right of action in tort against the reporting person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 23, S.I. No. 510 of 2022, art. 2.
+
+### 14. Immunity from civil liability for making protected disclosure
+
+**14.** (1) No cause of action in civil proceedings, other than a defamation action (within the meaning of the Defamation Act 2009), shall lie against a person in respect of the making of a protected disclosure.
+
+(2) The Defamation Act 2009 is amended in Part 1 of Schedule 1 by inserting the following paragraph after paragraph 13:
+
+“13A. A protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”.
+
+### 14A. F48[Offences and penalties
+
+**14A.** (1) A person who—
+
+(a) hinders or attempts to hinder a worker in making a report,
+
+(b) penalises or threatens penalisation or causes or permits any other person to penalise or threaten penalisation against any of the following:
+
+(i) a reporting person;
+
+(ii) a facilitator;
+
+(iii) any third person who is connected with a reporting person and who could suffer retaliation in a work-related context, including as a colleague or relative of the reporting person;
+
+(iv) any legal entity that a reporting person owns, works for or is otherwise connected with in a work-related context,
+
+(c) brings vexatious proceedings against any person or legal entity referred to in *paragraph (b)*,
+
+(d) breaches the duty of confidentiality in *section 16* regarding the identity of reporting persons, or
+
+(e) fails to comply with the requirement in *section 6(3)* to establish, maintain and operate internal reporting channels and procedures referred to in the said *section 6(3)*,
+
+commits an offence.
+
+(2) A reporting person who makes a report containing any information that he or she knows to be false commits an offence.
+
+(3) A person who commits an offence under *subsection (1)(a)*, *(b)*, *(c)* or *(e)* is liable—
+
+(a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €250,000 or to imprisonment for a term not exceeding 2 years, or both.
+
+(4) A person who commits an offence under *subsection (1)(d)* is liable—
+
+(a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €75,000 or to imprisonment for a term not exceeding 2 years, or both.
+
+(5) A person who commits an offence under *subsection (2)* is liable—
+
+(a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €100,000 or to imprisonment for a term not exceeding 2 years, or both.
+
+(6) (a) Where an offence under *subsection (1)(a)*, *(b)*, *(c)*, *(d)* or *(e)* or *section 10F(14)* or *12(5)* or *(6)* has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person as well as the body corporate commits an offence and shall be liable to be proceeded against and punished as if he or she committed the first-mentioned offence.
+
+(b) Where the affairs of a body corporate are managed by its members, paragraph (a) shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(7) Summary proceedings for an offence under *subsection (1)(e)* may be brought and prosecuted by the Workplace Relations Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 24, S.I. No. 510 of 2022. A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E15: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 15. Making protected disclosure not to constitute criminal offence
+
+**15.** In a prosecution of a person for any offence prohibiting or restricting the disclosure of information it is a defence for the person to show that, at the time of the alleged offence, the disclosure was, or was reasonably believed by the person to be, a protected disclosure.
+
+### 16. Protection of identity of maker of protected disclosure
+
+F49[**16.** (1) A person to whom a report is made or transmitted under this Act (in this subsection referred to as "the first-mentioned person") shall not, without the explicit consent of the reporting person, disclose to another person, other than such persons (including members of staff designated under *section 6A*, *7A*, *10B*, *10C*, *10D* or *10E* for the purposes therein stated) as the first-mentioned person reasonably considers may be necessary for the purposes of the receipt or transmission of, or follow-up on, reports as required under this Act, the identity of the reporting person or any information from which the identity of the reporting person may be directly or indirectly deduced.
+
+(2) *Subsection (1)* shall not apply in the following cases:
+
+(a) where the disclosure is a necessary and proportionate obligation imposed by Union law or the law of the State in the context of investigations or judicial proceedings, including with a view to safeguarding the rights of defence of the person concerned;
+
+(b) where the person to whom the report was made or transmitted—
+
+(i) shows that he or she took all reasonable steps to avoid disclosing the identity of the reporting person or any such information referred to in *subsection (1)*, or
+
+(ii) reasonably believes that disclosing the identity of the reporting person or any such information is necessary for the prevention of serious risk to the security of the State, public health, public safety or the environment;
+
+(c) where the disclosure is otherwise required by law.
+
+(3) (a) Where the identity of the reporting person or any other information referred to in *subsection (1)* is disclosed to another person in accordance with *paragraph (a)* or *(b)(ii)* of *subsection (2)*, the reporting person shall be notified, in writing, before their identity or the information concerned is disclosed unless such notification would jeopardise—
+
+(i) the effective investigation of the relevant wrongdoing concerned,
+
+(ii) the prevention of serious risk to the security of the State, public health, public safety or the environment, or
+
+(iii) the prevention of crime or the prosecution of a criminal offence.
+
+(b) A notification under *paragraph (a)* shall include the reasons for the disclosure referred to in that paragraph.
+
+(4) Where reports are made or transmitted to a prescribed person, the Commissioner or an other suitable person (within the meaning of *section 10C* or *10D*, as the case may be) under this Act that include trade secrets (within the meaning of the European Union (Protection of Trade Secrets) Regulations 2018 (S.I. No. 188 of 2018)), the prescribed person, the Commissioner or such other suitable person shall not use or disclose those trade secrets for any purpose beyond what is necessary for proper follow-up of the disclosure concerned.
+
+(5) A reporting person shall have a right of action in tort against a person who fails to comply with *subsection (1)*.]
+
+## PART
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 16, S.I. No. 510 of 2022.
+
+### 16A. F50[Protection of identity of persons concerned
+
+**16A.**(1) The identity of any person concerned shall be protected by a prescribed person or the Commissioner, as the case may be, to whom a report is made or transmitted, as the case may be, or by an other suitable person (within the meaning of *section 10C* or *10D*) to whom a report is transmitted, under this Act, for as long as any investigation triggered by the report is ongoing.
+
+(2) *Subsection (1)* shall not preclude the disclosure of the identity of any person concerned where the prescribed person, the Commissioner or the suitable person, as the case may be, reasonably considers that such disclosure is necessary for the purposes of this Act or where such disclosure is otherwise authorised or required by law, as the case may be.
+
+(3) *Sections 7A*, *10B*, *10C*, *10D*, *10E*, *16B* and *22* shall, with any necessary modifications, apply to the protection of the identity of persons concerned as those provisions apply to the protection of the identity of reporting persons.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 17, S.I. No. 510 of 2022.
+
+### 16B. F51[Data protection
+
+**16B.** (1) (a) The rights and obligations provided for in Articles 12 to 22 and Article 34, and Article 5 in so far as any of its provisions correspond to the rights and obligations in Articles 12 to 22, of the General Data Protection Regulation, and in Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016[^5], are restricted in respect of relevant data—
+
+(i) to the extent necessary and proportionate for the purposes of—
+
+(I) safeguarding the important objectives of general public interest, and
+
+(II) the protection of the data subject or the rights and freedoms of others,
+
+and
+
+(ii) to the extent, and as long as, necessary to prevent and address attempts to hinder reporting or to impede, frustrate or slow down follow-up, in particular investigations, or attempts to find out the identity of reporting persons.
+
+(b) The important objectives of general public interest referred to in *paragraph (a)* are—
+
+(i) those referred to in section 60(7) of the Data Protection Act 2018, and
+
+(ii) the effective operation of this Act and, in particular, the protections afforded by this Part.
+
+(2) Without prejudice to the generality of *subsection (1)*, a restriction of a right or obligation under that subsection shall be considered necessary and, as the case may be, proportionate for the purposes referred to in *paragraph (a)* of *subsection (1)* where the exercise of the right or compliance with the obligation may—
+
+(a) necessitate the disclosure of information that might identify the reporting person where such disclosure would be contrary to *section 16*, or
+
+(b) prejudice the effective follow-up, including any investigation of the relevant wrongdoing concerned.
+
+(3) Where a restriction of a right or obligation is applied by a relevant person in accordance with *subsection (1)*, the relevant person shall inform the data subject of such restriction, unless to do so would—
+
+(a) necessitate the disclosure of information that might identify the reporting person where such disclosure of information would be contrary to *section 16*,
+
+(b) prejudice the effective follow-up, including any investigation, of the relevant wrongdoing concerned, or
+
+(c) prejudice the achievement of any of the important objectives of general public interest set out in *subsection (1)(b)*.
+
+(4) Where a relevant person informs a data subject of a restriction in accordance with *subsection (3)*, the relevant person shall also inform the data subject of the possibility of lodging a complaint with the Data Protection Commission or of seeking judicial remedy in relation to such restriction.
+
+(5) A relevant person shall ensure that relevant data in respect of which the relevant person is the controller is stored for no longer than is necessary for the fulfilment of the objective referred to in *subsection (1)(b)(i)*.
+
+(6) A relevant person shall implement technical and organisational measures to prevent the abuse or unlawful access to or transfer of relevant data in respect of which the relevant person is the controller, including but not limited to the following:
+
+(a) the use of secure storage, passwords, encryption and other methods to ensure that the relevant data can only be accessed by persons authorised by the relevant person to access that data;
+
+(b) the use of controls to ensure that the relevant data is only disclosed to persons authorised by the relevant person, or entitled or permitted by law, to receive that data;
+
+(c) data minimisation, including the use of anonymisation and pseudonymisation, where appropriate.
+
+(7) Any processing of personal data pursuant to this Act, including the exchange or transmission of personal data by prescribed persons, the Commissioner and any suitable persons, shall be carried out in accordance with applicable data protection law.
+
+(8) Personal data which are manifestly not relevant for the handling of a specific report shall not be collected or, if accidentally collected, shall be deleted without undue delay.
+
+(9) In this section—
+
+"relevant data" means personal data, including special categories of personal data within the meaning of Article 9 of the General Data Protection Regulation and data relating to criminal convictions and offences within the meaning of Article 10 of the General Data Protection Regulation, processed for the purposes of this Act including receiving, dealing with or transmitting a report or follow-up on such a report;
+
+"relevant person" means a person to whom a report is made under this Act or any person to whom a report is transmitted in the performance of the first-mentioned person’s functions under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 18, S.I. No. 510 of 2022.
+
+### 16C. Record keeping
+
+F52[**16C.** (1) This section applies to a person to whom a report (including an anonymous report) is made or transmitted under this Act (in this section referred to as a "person to whom this section applies").
+
+(2) Subject to *subsection (3)*, a person to whom this section applies shall keep a record of every report made or transmitted to the person under this Act.
+
+(3) (a) A person to whom an anonymous report is made or transmitted under this Act shall make a record, in such form and manner as the person considers appropriate, of its receipt or transmission, as the case may be, and of such information relating to the report as that person considers necessary and appropriate for the purposes of the application of this Act should the reporting person be subsequently identified and penalised for having made the report.
+
+(b) Records made under *paragraph (a)* shall be retained for no longer than is necessary and proportionate to comply with the provisions of this or any other enactment.
+
+(4) Where a recorded telephone line or another recorded voice messaging system is used to make a report under this Act, subject to the consent of the reporting person, the person to whom this section applies may document the oral reporting in the form of—
+
+(a) a recording of the conversation in a durable and retrievable form, or
+
+(b) a complete and accurate transcript of the conversation prepared by the member of staff designated under *section 6A*, *7A*, *10B*, *10C*, *10D* or *10E* for the purposes therein stated by the person to whom this section applies.
+
+(5) Where an unrecorded telephone line or another unrecorded voice messaging system is used to make a report under this Act the person to whom this section applies may document the oral reporting in the form of accurate minutes of the conversation prepared in writing by the member of staff designated under *section 6A*, *7A*, *10B*, *10C*, *10D* or *10E* for the purposes therein stated.
+
+(6) Where a reporting person has disclosed his or her identity, and the person to whom this section applies has documented the reporting in the form of a transcript or minutes in accordance with *subsection (4)* or *(5)*, as the case may be, the person to whom this section applies shall offer the reporting person the opportunity to check, rectify and agree by way of signature the transcript or minutes.
+
+(7) Where a reporting person requests a meeting in person with a member of staff designated under *section 6A*, *7A*, *10B*, *10C*, *10D* or *10E* for the purposes therein stated—
+
+(a) the person to whom this section applies shall ensure, subject to the consent of the reporting person, that complete and accurate records of the meeting are kept in a durable and retrievable form, and
+
+(b) the person to whom this section applies may document the meeting in the form of—
+
+(i) an audio recording of the conversation in a durable and retrievable form, or
+
+(ii) accurate minutes of the meeting prepared by a member of staff so designated,
+
+and where the reporting person has disclosed his or her identity, the person to whom this section applies shall offer that reporting person the opportunity to check, verify and agree the minutes of the meeting by signing them.
+
+(8) Reports referred to in *subsection (1)*, shall be retained for no longer than is necessary and proportionate to comply with the provisions of this or any other enactment.
+
+(9) *Section 16* applies to records made and reports retained under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 19, S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E16: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 17. Law enforcement, etc.
+
+**17.** (1) This section applies to a disclosure of relevant information, other than a disclosure of relevant information to which *section 18* applies, that might reasonably be expected to facilitate the commission of an offence or to prejudice or impair—
+
+(a) the prevention, detection or investigation of offences, the apprehension or prosecution of offenders or the effectiveness of lawful methods, systems, plans or procedures employed for any of those matters,
+
+(b) the enforcement or administration of, or compliance with, any law,
+
+(c) lawful methods, systems, plans or procedures employed for ensuring the safety of the public or the safety or security of persons or property,
+
+(d) the fairness of proceedings before a court or tribunal,
+
+(e) the security of a relevant institution, or
+
+(f) the security of any system of communications of the Garda Síochána, the Defence Forces or a relevant institution.
+
+(2) If a person has been prescribed in relation to the relevant information under *section 7*, the disclosure is not a protected disclosure unless—
+
+(a) it is made in the manner specified in *section 6(1)(a)*, *7* or *9*, or
+
+F53[(b) if it is taxpayer information (other than taxpayer information that relates to a breach referred to in *subparagraph (ii)* or *(iii)* of *paragraph (a)* of the definition of "breach" in *section 3*), it is made in the manner specified in section 10 to the Comptroller and Auditor General, or]
+
+(c) in any other case, it is made in the manner specified in *section 10*, the conditions in *subsection (3)* are met and it is made to a member of Dáil Éireann or Seanad Éireann.
+
+(3) The conditions referred to in *subsection (2)(c)* are—
+
+(a) that the person by whom the disclosure was made has made a disclosure of substantially the same relevant information in the manner specified in *section 7*,
+
+(b) that a reasonable period for taking action in relation to that disclosure has passed, and
+
+(c) that, having notified the person prescribed under *section 7* in relation to the relevant information, the person by whom that disclosure was made reasonably believes that no action has been taken in relation to that disclosure or that any action so taken was inadequate.
+
+(4) If no person has been prescribed under *section 7* in relation to the relevant information, the disclosure is not a protected disclosure unless—
+
+(a) it is made in the manner specified in *section 6(1)(a)* or *9*, or
+
+(b) it is made in the manner specified in *section 10*, the condition in *subsection (5)* is met and it is made to a member of Dáil Éireann or Seanad Éireann.
+
+(5) The condition referred to in *subsection (4)(b)* is that the disclosure is to the effect that—
+
+(a) an investigation undertaken for the purpose of the enforcement of any law, or anything done in the course of such an investigation, or
+
+(b) anything done for the purpose of the prevention or detection of any offence, the apprehension of an offender or the prosecution of an offence, is not authorised by law or contravenes any law.
+
+(6) Procedures established by Standing Orders of Dáil Éireann or Seanad Éireann may regulate how members of Dáil Éireann or Seanad Éireann are to deal with relevant information disclosed to them under *subsection (2)(c)* or *(4)(b)*.
+
+(7) In this section—
+
+“relevant institution” means—
+
+(a) a place to which the Prisons Acts 1826 to 2007 apply,
+
+(b) a military prison or detention barrack within the meaning in each case of the Defence Act 1954,
+
+(c) St. Patrick’s Institution,
+
+(d) a children detention school within the meaning of section 3 of the Children Act 2001, or
+
+(e) a remand centre designated under section 88 of the Children Act 2001;
+
+“taxpayer information” has the same meaning as in section 851A of the Taxes Consolidation Act 1997.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 27, S.I. No. 510 of 2022, art. 2.
+
+### 18. Security, defence, international relations and intelligence
+
+**18.** (1) This section applies to a disclosure of information if it might reasonably be expected—
+
+(a) to affect adversely—
+
+(i) the security of the State,
+
+(ii) the defence of the State, or
+
+(iii) the international relations of the State,
+
+or
+
+(b) to reveal, or lead to the revelation of, the identity of a person who has given information in confidence to a public body in relation to the enforcement or administration of the law or any other source of such information given in confidence.
+
+(2) Without prejudice to the generality of *subsection (1)* this section applies to a disclosure of information—
+
+(a) which was obtained or prepared for the purpose of intelligence in respect of the security or defence of the State,
+
+(b) which relates to—
+
+(i) the tactics, strategy or operations of the Defence Forces in or outside the State, or
+
+(ii) the detection, prevention or suppression of activities calculated or tending to undermine the public order or the authority of the State (which expression has the same meaning as in section 2 of the Offences Against the State Act 1939),
+
+(c) which consists of a communication between a Minister of the Government and a diplomatic mission or consular post in the State or a communication between the Government or a person acting on behalf of the Government and another government or a person acting on behalf of another government,
+
+(d) which consists of a communication between a Minister of the Government and a diplomatic mission or consular post of the State,
+
+(e) which was communicated in confidence to any person in or outside the State from any person in or outside the State, relates to a matter referred to in *subsection (1)* or to the protection of human rights and was expressed by the latter person to be confidential or to be communicated in confidence,
+
+(f) which was communicated in confidence from, to or within an international organisation of states or a subsidiary organ of such an organisation or an institution or body of the European Union or relates to negotiations between the State and such an organisation, organ, institution or body or within or in relation to such an organisation, organ, institution or body, or
+
+(g) which is contained in a record of an organisation, organ, institution or body referred to in *paragraph (f)* and the disclosure of which is prohibited by the organisation, organ, institution or body.
+
+(3) A disclosure of information to which this section applies is not a protected disclosure unless—
+
+(a) it is made in the manner specified in *section 6(1)(a)*, *8* or *9*, or
+
+(b) it is made in the manner specified in *section 10* to the Disclosures Recipient.
+
+(4) There shall be an office of Disclosures Recipient and *Schedule 3* shall have effect in relation to that office.
+
+### 19. Amendments of Garda Síochána Act 2005
+
+**19.** (1) The Garda Síochána Act 2005 is amended—
+
+(a) by inserting the following section after section 102:
+
+“**Protected disclosures relating to the Garda Síochána**
+
+**102A.** (1) Where a disclosure relating to the Garda Síochána is disclosed to the Ombudsman Commission as a prescribed person under *section 7* of the *Protected Disclosures Act 2014* in respect of disclosures so relating, it may, if it appears to it desirable in the public interest to do so, investigate the disclosure, even if the worker (within the meaning of that Act) making the disclosure is a member of the Garda Síochána.
+
+(2) The provisions of this Part relating to investigations and reports apply with the necessary modifications in relation to a relevant wrongdoing to which a disclosure referred to in subsection (1) relates as though it were the subject of a complaint referred to in section 91.”,
+
+and
+
+(b) by repealing section 124.
+
+(2) The Garda Síochána (Confidential Reporting of Corruption or Malpractice) Regulations 2007 (S.I. No. 168 of 2007) are revoked.
+
+### 20. Amendment of Ombudsman (Defence Forces) Act 2004
+
+**20.** (1) Section 4 of the Ombudsman (Defence Forces) Act 2004 is amended by inserting the following subsection after subsection (3):
+
+“(3A) If the complaint is that a person has penalised or threatened penalisation (within the meaning of the *Protected Disclosures Act 2014*) against, or caused or permitted any other person to penalise or threaten penalisation against, the complainant for having made a protected disclosure (within the meaning of that Act), the Ombudsman—
+
+(a) is not prevented from investigating any action that is the subject of the complaint, and
+
+(b) may not decide not to carry out, and may not decide to discontinue, an investigation into any such action,
+
+because no complaint has been made under section 114 of the Act of 1954.”.
+
+(2) The amendment made by *subsection (1)* does not affect any right to complain, under section 114 of the Defence Act 1954, that a person has penalised or threatened penalisation against, or caused or permitted any other person to penalise or threaten penalisation against, the complainant for having made a protected disclosure or to submit any grievance in relation to such a complaint in accordance with regulations under subsection (4) of the said section 114.
+
+## PART 5Miscellaneous and Supplementary — PART 5 — Miscellaneous and Supplementary
+
+### 21. Guidance
+
+F54[**21.** (1) The Minister may issue guidance for the purpose of assisting—
+
+(a) public bodies in the performance of their functions under *sections 6* and *6A*,
+
+(b) prescribed persons in the performance of their functions under *sections 7* and *7A*,
+
+(c) the Commissioner in the performance of his or her functions under *sections 7*, *7A*, *10B*, *10C* and *10D*,
+
+(d) other suitable persons (within the meaning of *section 10C* or *10D*, as the case may be) to whom a report is transmitted by the Commissioner under *section 10C(1)(b)* or *10D(1)(b)(ii)* in the performance of their functions under *section 10E*, and
+
+(e) Ministers of the Government in respect of the information required to be provided under *section 8(4)*,
+
+and may from time to time revise or re-issue such guidance.
+
+(2) Public bodies, prescribed persons, the Commissioner and other suitable persons (within the meaning aforesaid) shall have regard to any guidance issued under *subsection (1)* in the performance of their functions under this Act.
+
+(3) The Minister shall publish or cause to be published guidance issued under *subsection (1)* in such form and manner, including on a website maintained by or on behalf of the Minister, as the Minister considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 28, S.I. No. 510 of 2022, subject to transitional provision in subs. (2).
+
+### 21A. F55[Support measures
+
+**21A.** (1) The Minister shall make available, or cause to be made available, in such a form and manner, as the Minister considers appropriate, that is easily accessible to the public and free of charge, including on a website maintained by or on behalf of the Minister, comprehensive and independent information and advice on—
+
+(a) the making of a protected disclosure and related procedures,
+
+(b) protection against penalisation,
+
+(c) remedies available in respect of penalisation, and
+
+(d) the rights of the person concerned,
+
+under this Act.
+
+(2) Prescribed persons, the Commissioner, or other suitable persons (within the meaning of *section 10C* or *10D*, as the case may be), shall provide to the Workplace Relations Commission, the Labour Court or any court of competent jurisdiction such information as may be required by the body or court concerned for the purposes of making a determination, in any proceedings by a reporting person under this Act, as to whether the reporting person is entitled to the protections provided under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 29, S.I. No. 510 of 2022, art. 2.
+>
+> **Editorial Notes:**
+>
+> E17: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 22. Annual report
+
+F56[**22.** (1) Each public body, prescribed person and the Commissioner shall, not later than 1 March in each year, provide the following information to the Minister in respect of the immediately preceding calendar year in a form which does not enable the identification of reporting persons or persons concerned:
+
+(a) the number of reports made to the public body, prescribed person or Commissioner, as the case may be;
+
+(b) in the case of the Commissioner, the number of reports transmitted to the Commissioner under *section 8*;
+
+(c) in the case of the Commissioner, the number of reports transmitted by the Commissioner under *section 10C(1)(b)* or *10D(1)(b)(ii)* to an other suitable person (within the meaning of *section 10C* or *10D*, as the case may be);
+
+(d) the number of reports transmitted to the public body, prescribed person or Commissioner, as the case may be, under *sections 7*, *10B*, *10C* and *10D*;
+
+(e) in respect of each report referred to in *paragraphs (a)* to *(d)*, whether the relevant wrongdoing concerned was a breach;
+
+(f) the number of investigations and proceedings opened by the public body, prescribed person or Commissioner in relation to the relevant wrongdoings concerned as a result of the reports referred to in *paragraphs (a)* to *(d)*;
+
+(g) the number of investigations and proceedings opened, in the years preceding the year in respect of which the report is being made, by the public body, prescribed person or Commissioner in relation to the relevant wrongdoings concerned that remain open;
+
+(h) the number of investigations and proceedings closed by the public body, prescribed person or Commissioner in relation to the relevant wrongdoings concerned as a result of the reports referred to in *paragraphs (a)* to *(d)*;
+
+(i) in respect of each closed investigation or proceedings referred to in *paragraph (h)*, the outcome of the investigation or proceedings and the decision taken by the public body, prescribed person or Commissioner;
+
+(j) where relevant and in so far as it can be ascertained, the estimated financial damage and the amounts recovered following any investigation and proceedings referred to in *paragraph (h)*;
+
+(k) such other information relating to the performance of the functions of public bodies, prescribed bodies or the Commissioner, as the case may be under this Act, as may be requested by the Minister.
+
+(2) The information provided under *subsection (1)* shall be in such format as the Minister may specify.
+
+(3) The Minister shall submit to the Commission of the European Union, in aggregate form, the information provided to him or her under *subsection (1)* in relation to the reports referred to in *paragraph (e)* of that subsection.
+
+(4) The Minister shall publish, in aggregate form, the information provided to him or her under *subsection (1)* on a website maintained by or on behalf of the Minister.
+
+(5) Each public body, prescribed person and the Commissioner shall prepare and publish in such form and manner as the body, person or Commissioner, as the case may be, considers appropriate, including on a website maintained by or on behalf of the public body, prescribed person or Commissioner, as the case may be, not later than 31 March each year a report in respect of the immediately preceding calendar year containing—
+
+(a) a statement confirming that the public body, prescribed person or Commissioner has in place either or both of the following:
+
+(i) internal reporting channels and procedures;
+
+(ii) there are external reporting channels and procedures,
+
+and
+
+(b) the information provided to the Minister under *subsection (1)*.
+
+(6) Where a public body publishes a report of its activities in respect of any calendar year, the information referred to in *subsection (5)* may be included in the report.
+
+(7) The Commissioner shall, not later than 1 March in each year, provide to the Minister in respect of the immediately preceding calendar year, in a form which does not enable the identification of reporting persons or persons concerned, information regarding the number of reports transmitted by the Commissioner to other persons under *sections 10C(1)(b)* and *10D(1)(b)*.
+
+(8) The Minister may request, in writing, from a public body or prescribed person or the Commissioner, as the case may be, such further information relating to the performance of the functions of the public body, prescribed body or Commissioner concerning the implementation of this Act as the Minister may reasonably require for the purposes of this section.
+
+(9) (a) The Commissioner shall, as soon as practicable but not later than 6 months after the end of each year, cause a report on the performance of his or her functions under this Act (in this subsection referred to as the "annual report") to be laid before each House of the Oireachtas and may, from time to time, cause to be laid before each such House such other reports with respect to those functions as he or she thinks fit.
+
+(b) Notwithstanding *paragraph (a)*, if, but for this paragraph, the first annual report would relate to a period of less than 6 months, the first annual report shall relate to that period and to the year immediately following that period and shall be made as soon as practicable, but not later than 6 months after the end of that year.
+
+(c) An annual report shall include information in such form and regarding such matters as the Commissioner thinks fit or as the Minister may direct.
+
+(d) Nothing in this subsection shall be construed as requiring the Commissioner to include information the inclusion of which would, in the opinion of the Commissioner, be likely to prejudice the performance of his or her functions under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 30, S.I. No. 510 of 2022.
+
+### 23. No contracting-out of protections
+
+**23.** Any provision in an agreement is void in so far as it purports—
+
+(a) to prohibit or restrict the making of protected disclosures,
+
+(b) to exclude or limit the operation of any provision of this Act,
+
+(c) to preclude a person from bringing any proceedings under or by virtue of this Act, or
+
+(d) to preclude a person from bringing proceedings for breach of contract in respect of anything done in consequence of the making of a protected disclosure.
+
+### 24. Protection of disclosure provisions in other enactments
+
+**24.** (1) The Acts specified in column (2) of *Part 1* of *Schedule 4* are amended to the extent specified in column (4) of that Schedule.
+
+(2) The statutory instrument specified in column (2) of *Part 2* of *Schedule 4* is amended to the extent specified in column (4) of that Schedule.
+
+### 25. Interaction of Directive with other enactments
+
+F57[**25.** (1) This Act is without prejudice to any specific rules on the reporting of breaches as provided for in the sector-specific Union acts listed in *Part II* of the *Annex*.
+
+(2) Specific rules on the reporting of breaches referred to in *subsection (1)* shall continue to apply without prejudice to, and are in addition to, the provisions of this Act in so far as those provisions relate to the reporting of breaches of the sector-specific Union Acts referred to in *subsection (1)*.
+
+(3) Nothing in this Act shall be construed to prevent or prejudice the exercise of any right or entitlement of a person under or relating to any of the specific rules on the reporting of breaches referred to in *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 31, S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E18: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 26. Transitional provisions
+
+F58[**26.** The transitional provisions set out in *Schedule 7* shall have effect.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 32(a), S.I. No. 510 of 2022.
+>
+> **Editorial Notes:**
+>
+> E19: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## SCHEDULE 1 — Interim Relief Pending Determination of Claim for Unfair Dismissal
+
+*Section 11*.
+
+*Application for interim relief.*
+
+1\. (1) An employee who claims to have been dismissed by the employee’s employer wholly or mainly for having made a protected disclosure may apply to the Circuit Court for interim relief.
+
+(2) The Circuit Court shall not entertain an application for interim relief unless it is presented to the Court before the end of the period of 21 days immediately following the date of dismissal (whether before, on or after that date) or such longer period as the Court may allow.
+
+(3) The Court shall determine the application for interim relief as soon as practicable.
+
+(4) The employee shall give the employer prior written notice of intention to make the application for interim relief.
+
+(5) The Court shall not exercise any power it has of postponing the hearing of an application for interim relief except where it is satisfied that special circumstances exist which justify it in doing so.
+
+*Procedure on hearing of application and making of order.*
+
+2\. (1) This paragraph applies where, on hearing an employee’s application for interim relief, it appears to the Court that it is likely that there are substantial grounds for contending that dismissal results wholly or mainly from the employee having made a protected disclosure.
+
+(2) The Court shall announce its findings and explain to both parties (if present)—
+
+(a) what powers the Court may exercise on the application, and
+
+(b) in what circumstances it will exercise them.
+
+(3) The Court shall ask the employer (if present) whether the employer is willing, pending the determination or settlement of the claim—
+
+(a) to reinstate the employee (that is, to treat the employee in all respects as if the employee had not been dismissed), or
+
+(b) if not, to re-engage the employee in another position on terms and conditions not less favourable than those which would have been applicable to the employee if the employee had not been dismissed.
+
+(4) For the purposes of *subparagraph (3)(b)* “terms and conditions not less favourable than those which would have been applicable to the employee if the employee had not been dismissed” means, as regards seniority, pension rights and other similar rights, that the period before the dismissal should be regarded as continuous with the employee’s employment following the dismissal.
+
+(5) If the employer states a willingness to reinstate the employee, the Court shall make an order to that effect.
+
+(6) If the employer—
+
+(a) states a willingness to re-engage the employee in another position, and
+
+(b) specifies the terms and conditions on which the employer is willing to do so,
+
+the Court shall ask the employee whether he or she is willing to accept the position on those terms and conditions.
+
+(7) If the employee is willing to accept the position on those terms and conditions, the Court shall make an order to that effect.
+
+(8) If the employee is not willing to accept the position on those terms and conditions—
+
+(a) where the Court is of the opinion that the refusal is reasonable, the Court shall make an order for the continuation of the employee’s contract of employment, and
+
+(b) otherwise, the Court shall make no order.
+
+(9) If on the hearing of an application for interim relief the employer—
+
+(a) fails to attend before the Court, or
+
+(b) states an unwillingness either to reinstate or to re-engage the employee as mentioned in *subparagraph (3)*,
+
+the Court shall make an order for the continuation of the employee’s contract of employment.
+
+*Order for continuation of contract of employment.*
+
+3\. (1) An order under *paragraph 2* for the continuation of an employee’s contract of employment is an order that the contract of employment continue in force—
+
+(a) for the purposes of pay or any other benefit derived from the employment, seniority, pension rights and other similar matters, and
+
+(b) for the purposes of determining for any purpose the period for which the employee has been continuously employed,
+
+from the date of its termination (whether before or after the making of the order) until the determination or settlement of the claim.
+
+(2) Where the Court makes such an order it shall specify in the order the amount which is to be paid by the employer to the employee by way of pay in respect of each normal pay period, or part of any such period, falling between the date of dismissal and the determination or settlement of the claim.
+
+(3) Subject to the following provisions, the amount so specified shall be that which the employee could reasonably have been expected to earn during that period, or part, and shall be paid—
+
+(a) in the case of a payment for any such period falling wholly or partly after the making of the order, on the normal pay day for that period, and
+
+(b) in the case of a payment for any past period, within such time as may be specified in the order.
+
+(4) If an amount is payable in respect only of part of a normal pay period, the amount shall be calculated by reference to the whole period and reduced proportionately.
+
+(5) Any payment made to an employee by an employer under his or her contract of employment, or by way of damages for breach of that contract, in respect of a normal pay period, or part of any such period, goes towards discharging the employer’s liability in respect of that period under *subparagraph (2)* ; and, conversely, any payment under that subparagraph in respect of a period goes towards discharging any liability of the employer under, or in respect of breach of, the terms and conditions of employment or contract of employment in respect of that period.
+
+(6) If an employee, on or after being dismissed, receives a lump sum which, or part of which, is in lieu of wages but is not referable to any normal pay period, the Court shall take the payment into account in determining the amount of pay to be payable in pursuance of any such order.
+
+(7) For the purposes of this paragraph, the amount which an employee could reasonably have been expected to earn, the employee’s normal pay period and the normal pay day for each such period shall be determined as if the employee had not been dismissed.
+
+*Application for variation or revocation of order.*
+
+4\. (1) At any time between—
+
+(a) the making of an order under *paragraph 2*, and
+
+(b) the determination or settlement of the claim,
+
+the employer or the employee may apply to the Court for the revocation or variation of the order on the ground of a relevant change of circumstances since the making of the order.
+
+(2) *Paragraphs 1* and *2* apply in relation to such an application as in relation to an original application for interim relief except that, in the case of an application by the employer, *paragraph 1(4)* has effect with the substitution of a reference to the employee for the reference to the employer and of a reference to the employer for the reference to the employee.
+
+*Consequence of failure to comply with order.*
+
+5\. (1) If, on the application of an employee, the Court is satisfied that the employer has not complied with the terms of an order for the reinstatement or re-engagement of the employee under *paragraph 2*, the Court shall—
+
+(a) make an order for the continuation of the employee’s contract of employment, and
+
+(b) order the employer to pay compensation to the employee.
+
+(2) Compensation under *subparagraph (1)(b)* shall be of such amount as the Court considers just and equitable in all the circumstances having regard—
+
+(a) to the infringement of the employee’s right to be reinstated or re-engaged in pursuance of the order, and
+
+(b) to any loss suffered by the employee in consequence of the non-compliance.
+
+(3) *Paragraph 3* applies to an order under *subparagraph (1)(a)* as in relation to an order under *paragraph 2*.
+
+(4) If on the application of an employee the Court is satisfied that the employer has not complied with the terms of an order under *subparagraph (1)(a)* for the continuation of the employee’s contract of employment *subparagraph (5)* or *(6)* applies.
+
+(5) Where the non-compliance consists of a failure to pay an amount by way of pay specified in the order, the Court shall determine the amount owed by the employer on the date of the determination.
+
+(6) In any other case, the Court shall order the employer to pay the employee such compensation as the Court considers just and equitable in all the circumstances having regard to any loss suffered by the employee in consequence of the non- compliance.
+
+(7) Any sum awarded to the employee on the determination of the claim that he or she has been unfairly dismissed shall be specified separately from any amount determined under *subparagraph (5)*.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Schedule (other than para. 1(1)) applied with modifications by *Industrial Relations (Amendment) Act 2001* (11/2001), s. 11A, as inserted (1.08.2015) by *Industrial Relations (Amendment) Act 2015* (27/2015), s. 34, S.I. No. 329 of 2015.
+>
+> **[Interim relief pending determination of claim for unfair dismissal**
+>
+> **11A.** (1) Where a worker has made a claim under paragraph (aa) of section 6(2) of the Unfair Dismissals Act 1977, he or she may apply to the Circuit Court for interim relief pending determination of that claim.
+>
+> (2) Schedule 1 (other than paragraph 1(1)) to the Protected Disclosures Act 2014 shall apply to an application under subsection (1) with the following modifications:
+>
+> (*a*) the references to "employee" shall be construed as references to ‘worker or employee’;
+>
+> (*b*) in paragraph 2(1) the reference to "the employee having made a protected disclosure" shall be construed as a reference to "the grounds specified in paragraph (aa) of section 6(2) of the Unfair Dismissals Act 1977".
+>
+> (3) An application to the Circuit Court under this section shall be made to the Circuit Court sitting in the circuit in which the employer concerned carries on his or her business.**]**
+
+## SCHEDULE 2 — Redress for Contravention of section 12(1)
+
+*Section 12*.
+
+F59[*Decision under section 41 of Workplace Relations Act 2015*
+
+1\. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 12(1) shall do one or more of the following, namely—
+
+(a) declare that the complaint was or, as the case may be, was not well founded,
+
+(b) require the employer to take a specified course of action,
+
+F60[(c) subject to *paragraph 2A*, require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances, but not exceeding—
+
+(i) subject to *clause (ii)*, 260 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977, or
+
+(ii) in the case of an employee who is a worker referred to in *paragraph (h)* of the definition of "worker" in *section 3(1)*, and is not in receipt of remuneration, including allowances in the nature of pay and benefits in lieu of or in addition to pay, from the employer concerned, €15,000.]]
+
+F59[*Decision of Labour Court on appeal from decision referred to in paragraph 1*
+
+2\. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in paragraph 1, shall affirm, vary or set aside the decision of the adjudication officer.]
+
+F61[2A. Where the investigation of the relevant wrongdoing was not the sole or main motivation for making the protected disclosure concerned, in determining the amount of compensation that is just and equitable for the purposes of *paragraph 1(c)*, the amount that would be just and equitable may be up to 25 per cent less than the amount that it would otherwise be.]
+
+*Paragraphs 1 and 2: supplementary provisions.*
+
+3\. F62[...]
+
+*Enforcement of determinations of Labour Court.*
+
+4\. F62[...]
+
+*Provisions relating to winding up and bankruptcy.*
+
+5\. F62[...]
+
+*Amendment of Protection of Employees (Employers’ Insolvency) Act 1984.*
+
+6\. F62[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 34, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F60: Substituted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 25(a), S.I. No. 510 of 2022, art. 2.
+>
+> F61: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 25(b), S.I. No. 510 of 2022.
+>
+> F62: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 32, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+## SCHEDULE 3 — Disclosures Recipient
+
+*Section 18*.
+
+*Appointment.*
+
+(1) The Taoiseach shall appoint as the Disclosures Recipient a person who is a judge or retired judge of the High Court.
+
+*Term of office.*
+
+2\. (1) The Disclosures Recipient shall hold office for an initial term of 5 years and is eligible for re-appointment for one further term of 5 years.
+
+(2) The Disclosures Recipient may at any time resign by letter addressed to the Taoiseach, and the resignation takes effect on the date the Taoiseach receives the letter.
+
+(3) The Taoiseach may remove the Disclosures Recipient from office, but only for stated misbehaviour or for incapacity.
+
+(4) A person ceases to be the Disclosures Recipient on being—
+
+(a) nominated as a member of Seanad Éireann,
+
+(b) elected as a member of either House of the Oireachtas or of the European Parliament,
+
+(c) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy, or
+
+(d) becoming a member of a local authority.
+
+*Terms and conditions.*
+
+3\. The terms and conditions (including terms relating to allowances for expenses and, in the case of a person who is a retired judge of the High Court, terms relating to remuneration) on which the Disclosures Recipient holds office are such as may be determined at the time of appointment (or re-appointment) by the Taoiseach after consultation with the Minister for Public Expenditure and Reform.
+
+*Administration and support services.*
+
+4\. F63[...]
+
+*Functions.*
+
+5\. Where a protected disclosure is made to the Disclosures Recipient under *section 18*, the Disclosures Recipient shall consider the relevant information and—
+
+(a) if he or she considers that the disclosure of relevant information is not one to which *section 18* applies, shall give notice to the person by whom the disclosure was made stating that, and
+
+(b) otherwise, shall make a report—
+
+(i) referring the relevant information for consideration by the holder of such public office, or such public body, as appears to the Disclosures Recipient to be the most appropriate to consider the relevant information, and
+
+(ii) including any such recommendations for the taking of action in relation to the relevant information as the Disclosures Recipient may consider appropriate.
+
+*Reports.*
+
+6\. No later than 31 March in each year the Disclosures Recipient shall submit to the Taoiseach a report on his or her activities in the immediately preceding year.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Repealed (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 3(d), S.I. No. 510 of 2022, art. 2.
+
+## SCHEDULE 4Amendments — SCHEDULE 4 — Amendments
+
+*Section 24*.
+
+### PART 1 — Amendment of Acts
+
+*Section 24(1)*.
+
+| Item (1) | Short title, number and year (2) | Provision affected (3) | Amendment (4) |
+|---|---|---|---|
+| 1 | Protections for Persons Reporting Child Abuse Act 1998 (No. 49 of 1998) | Section 3 | After subsection (2) insert— “(3) This section does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 4 | After subsection (1) insert— “(1A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 5 | After subsection (1) insert— “(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 2 | Prevention of Corruption (Amendment) Act 2001 (No. 27 of 2001) | Section 8A | (a) After subsection (2) insert— “(2A) Subsection (1) does not apply to a communication, or furnishing of information, that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (b) After subsection (5) insert— |
+|  |  |  | “(5A) Subsection (5) does not apply to a communication, or furnishing of information, that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 3 | Standards in Public Office Act 2001 (No. 31 of 2001) | Section 5 | After subsection (2) insert— “(2A) Subsection (1) does not apply to the making of a complaint, or the furnishing of information, that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 4 | Competition Act 2002 (No. 14 of 2002) | Section 50 | (a) After subsection (2) insert— “(2A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (b) After subsection (3) insert— |
+|  |  |  | “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (c) After subsection (5) insert— |
+|  |  |  | “(5A) Subsection (5) does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 5 | Communications Regulation Act 2002 (No. 20 of 2002) | Section 24A | After subsection (2) insert— “(2A) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 24B | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 24C | Renumber as subsection (1) and after that subsection insert— |
+|  |  |  | “(2) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 6 | Health Act 2004 (No. 42 of 2004) | Section 55L | After subsection (3) insert— “ (4) This section does not apply where the protected disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 55M | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply where the protected disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 55S | After subsection (1) insert— |
+|  |  |  | “(1A) This section does not apply where the disclosure is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 7 | Employment Permits Act 2006 (No. 16 of 2006) | Section 26 | After subsection (3) insert— “(3A) Subsection (3) does not apply where the complaint is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 8 | Consumer Protection Act 2007 (No. 19 of 2007) | Section 87 | (a) After subsection (2) insert— “(2A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (b) After subsection (3) insert— |
+|  |  |  | “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (c) After subsection (5) insert— |
+|  |  |  | “(5A) Subsection (5) does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 9 | Chemicals Act 2008 (No. 13 of 2008) | Section 25 | Renumber as subsection (1) and after that subsection insert— |
+|  |  |  | “(2) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 26 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 10 | Charities Act 2009 (No. 6 of 2009) | Section 61 | Renumber as subsection (1) and after that subsection insert— |
+|  |  |  | “(2) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 62 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 11 | National Asset Management Agency Act 2009 (No. 34 of 2009) | Section 222 | After subsection (3) insert— “ (4) This section does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 223 | After subsection (3) insert— |
+|  |  |  | “(3A) Subsection (3) does not apply to the making of a complaint that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 224 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 12 | Inland Fisheries Act 2010 (No. 10 of 2010) | Section 37 | After subsection (3) insert— “(4) This section does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 38 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to the making of a complaint that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 39 | After subsection (1) insert— |
+|  |  |  | “(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 13 | Criminal Justice Act 2011 (No. 22 of 2011) | Section 20 | After subsection (1) insert— “(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 21 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 14 | Property Services (Regulation) Act 2011 (No. 40 of 2011) | Section 67 | (a) After subsection (2) insert— “(2A) Subsection (1) does not apply to a communication, or furnishing of information, that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (b) After subsection (3) insert— |
+|  |  |  | “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  |  | (c) After subsection (5) insert— |
+|  |  |  | “(5A) Subsection (5) does not apply to a communication, or furnishing of information, that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 15 | Protection of Employees (Temporary Agency Work) Act 2012 (No. 13 of 2012) | Section 21 | Renumber as subsection (1) and after that subsection insert— “(2) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 22 | After subsection (1) insert— |
+|  |  |  | “(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 23 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to the making of a complaint that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Section 24 | After subsection (1) insert— |
+|  |  |  | “(1A) Subsection (1) does not apply to the making of a complaint that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 16 | Further Education and Training Act 2013 (No. 25 of 2013) | Section 34 | After subsection (3) insert— “(4) This section does not apply to a communication that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+| 17 | Central Bank (Supervision and Enforcement) Act 2013 (No. 26 of 2013) | Section 38 | (a) After subsection (1) insert— (1A) Subsection (1) does not apply to a disclosure that is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*. ”. (b) In subsection (4) (a), after “disclosures” insert “and disclosures which would be protected disclosures but for subsection (1A)”. |
+
+### PART 2 — Amendment of Statutory Instrument
+
+*Section 24(2)*.
+
+| Item (1) | Citation, number and year (2) | Provision affected (3) | Amendment (4) |
+|---|---|---|---|
+| 1 | European Communities (Occurrence Reporting in Civil Aviation) Regulations 2007 (S.I. No. 285 of 2007) | Regulation 5 | After paragraph (3) insert— “(4) Paragraph (3) (b) does not apply where the making of the report or the giving of the information is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Regulation 6 | After paragraph (3) insert— |
+|  |  |  | “(4) Paragraph (3) does not apply where the making of the report or the giving of the information is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Regulation 9 | After paragraph (7) insert— |
+|  |  |  | “(8) Paragraphs (4) to (7) do not apply where the making of the report is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+|  |  | Regulation 11 | After paragraph (3) insert— |
+|  |  |  | “(4) Paragraph (1) does not apply where the making of the report or the giving of the information is a protected disclosure within the meaning of the *Protected Disclosures Act 2014*.”. |
+
+## F64[SCHEDULE 5 — The Protected Disclosures Commissioner — Section 10A
+
+1\. The Commissioner shall be assisted by such and so many officers and staff of the Ombudsman as may be designated from time to time by the Ombudsman for the purpose of staffing the Office of the Protected Disclosures Commissioner and any such designation may be revoked at any time.
+
+2\. (1) For the purposes of the Comptroller and Auditor General Acts 1866 to 1998, the person who stands appointed as the accounting officer for the appropriation accounts of the Office of the Ombudsman shall also be the accounting officer for the appropriation accounts of the Office of the Protected Disclosures Commissioner.
+
+(2) Nothing in *subparagraph (1)* shall be read so as to prevent the amalgamation of the appropriation accounts and vote of the Office of the Protected Disclosures Commissioner and the Office of the Ombudsman into one appropriation account and one vote.
+
+3\. The Commissioner may delegate in writing any of the functions of the Commissioner to a person designated under *paragraph 1*.
+
+4\. A delegation under *paragraph 3* may—
+
+(a) relate to functions generally or specified functions of the Commissioner, and
+
+(b) be to a specified member or specified members of the Ombudsman’s staff or to such members who are of a specified rank or grade or of a rank or grade not lower than a specified rank or grade, and may delegate different functions or classes of function to different such members or classes of members.
+
+5\. A delegation under *paragraph 3* may be revoked in whole or in part or amended in writing by the Commissioner.
+
+6\. A delegation under *paragraph 3* shall operate, so long as it continues in force, to confer on and vest in the person to whom any function is delegated that function so delegated.
+
+7\. References in this Act to the Commissioner shall be construed, where appropriate having regard to the context and any delegation under *paragraph 3*, as including references to any person to whom functions stand delegated by the delegation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 15 and sch. 1, S.I. No. 510 of 2022.
+
+## SCHEDULE 6 — ANNEX TO DIRECTIVE
+
+F65[Part I
+
+A. Point (a)(i) of Article 2(1) — public procurement:
+
+1\. Rules of procedure for public procurement and the award of concessions, for the award of contracts in the fields of defence and security, and for the award of contracts by entities operating in the fields of water, energy, transport and postal services and any other contract, as set out in:
+
+(i) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1);
+
+(ii) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65);
+
+(iii) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243);
+
+(iv) Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC (OJ L 216, 20.8.2009, p. 76).
+
+2\. Review procedures regulated by:
+
+(i) Council Directive 92/13/EEC of 25 February 1992 coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 76, 23.3.1992, p. 14);
+
+(ii) Council Directive 89/665/EEC of 21 December 1989 on the coordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts (OJ L 395, 30.12.1989, p. 33).
+
+B. Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:
+
+Rules establishing a regulatory and supervisory framework and consumer and investor protection in the Union's financial services and capital markets, banking, credit, investment, insurance and re-insurance, occupational or personal pensions products, securities, investment funds, payment services and the activities listed in Annex I to Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338), as set out in:
+
+(i) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, 10.10.2009, p. 7);
+
+(ii) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1);
+
+(iii) Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps (OJ L 86, 24.3.2012, p. 1);
+
+(iv) Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds (OJ L 115, 25.4.2013, p. 1);
+
+(v) Regulation (EU) No 346/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship fund (OJ L 115, 25.4.2013, p. 18);
+
+(vi) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34);
+
+(vii) Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EC (OJ L 158, 27.5.2014, p. 77);
+
+(viii) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84);
+
+(ix) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35);
+
+(x) Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12);
+
+(xi) Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.7.2007, p. 17);
+
+(xii) Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38);
+
+(xiii) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1);
+
+(xiv) Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1);
+
+(xv) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1);
+
+(xvi) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190);
+
+(xvii) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council (OJ L 35, 11.2.2003, p. 1);
+
+(xviii) Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149);
+
+(xix) Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22);
+
+(xx) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1);
+
+(xxi) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1).
+
+C. Point (a)(iii) of Article 2(1) — product safety and compliance:
+
+1\. Safety and compliance requirements for products placed in the Union market, as defined and regulated by:
+
+(i) Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product safety (OJ L 11, 15.1.2002, p. 4);
+
+(ii) Union harmonisation legislation concerning manufactured products, including labelling requirements, other than food, feed, medicinal products for human and veterinary use, living plants and animals, products of human origin and products of plants and animals relating directly to their future reproduction as listed in Annexes I and II to Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1);
+
+(iii) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive)(OJ L 263, 9.10.2007, p. 1).
+
+2\. Rules on marketing and use of sensitive and dangerous products, as set out in:
+
+(i) Directive 2009/43/EC of the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community (OJ L 146, 10.6.2009, p. 1);
+
+(ii) Council Directive 91/477/EEC of 18 June 1991 on control of the acquisition and possession of weapons (OJ L 256, 13.9.1991, p. 51);
+
+(iii) Regulation (EU) No 98/2013 of the European Parliament and the Council of 15 January 2013 on the marketing and use of explosives precursors (OJ L 39, 9.2.2013, p. 1).
+
+D. Point (a)(iv) of Article 2(1) — transport safety:
+
+1\. Safety requirements in the railway sector, as regulated by Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (OJ L 138, 26.5.2016, p. 102).
+
+2\. Safety requirements in the civil aviation sector, as regulated by Regulation (EU) No 996/2010 of the European Parliament and of the Council of 20 October 2010 on the investigation and prevention of accidents and incidents in civil aviation and repealing Directive 94/56/EC (OJ L 295, 12.11.2010, p. 35).
+
+3\. Safety requirements in the road sector, as regulated by:
+
+(i) Directive 2008/96/EC of the European Parliament and of the Council of 19 November 2008 on road infrastructure safety management (OJ L 319, 29.11.2008, p. 59);
+
+(ii) Directive 2004/54/EC of the European Parliament and of the Council of 29 April 2004 on minimum safety requirements for tunnels in the Trans-European Road Network (OJ L 167, 30.4.2004, p. 39);
+
+(iii) Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC (OJ L 300, 14.11.2009, p. 51).
+
+4\. Safety requirements in the maritime sector, as regulated by:
+
+(i) Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (OJ L 131, 28.5.2009, p. 11);
+
+(ii) Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents (OJ L 131, 28.5.2009, p. 24);
+
+(iii) Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146);
+
+(iv) Directive 2009/18/EC of the European Parliament and of the Council of 23 April 2009 establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC (OJ L 131, 28.5.2009, p. 114);
+
+(v) Directive 2008/106/EC of the European Parliament and of the Council of 19 November 2008 on the minimum level of training of seafarers (OJ L 323, 3.12.2008, p. 33);
+
+(vi) Council Directive 98/41/EC of 18 June 1998 on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community (OJ L 188, 2.7.1998, p. 35);
+
+(vii) Directive 2001/96/EC of the European Parliament and of the Council of 4 December 2001 establishing harmonised requirements and procedures for the safe loading and unloading of bulk carriers (OJ L 13, 16.1.2002, p. 9).
+
+5\. Safety requirements, as regulated by Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+E. Point (a)(v) of Article 2(1) — protection of the environment:
+
+1\. Any criminal offence against the protection of the environment as regulated by Directive 2008/99/EC of the European Parliament and of the Council of 19 November 2008 on the protection of the environment through criminal law (OJ L 328, 6.12.2008, p. 28) or any unlawful conduct infringing the legislation set out in the Annexes to Directive 2008/99/EC.
+
+2\. Rules on the environment and climate, as set out in:
+
+(i) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32);
+
+(ii) Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (OJ L 140, 5.6.2009, p. 16);
+
+(iii) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1);
+
+(iv) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13);
+
+(v) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
+
+3\. Rules on sustainable development and waste management, as set out in:
+
+(i) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3);
+
+(ii) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC (OJ L 330, 10.12.2013, p. 1);
+
+(iii) Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (OJ L 201, 27.7.2012, p. 60).
+
+4\. Rules on marine, air and noise pollution, as set out in:
+
+(i) Directive 1999/94/EC of the European Parliament and of the Council of 13 December 1999 relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars (OJ L 12, 18.1.2000, p. 16);
+
+(ii) Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants (OJ L 309, 27.11.2001, p. 22);
+
+(iii) Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise (OJ L 189, 18.7.2002, p. 12);
+
+(iv) Regulation (EC) No 782/2003 of the European Parliament and of the Council of 14 April 2003 on the prohibition of organotin compounds on ships (OJ L 115, 9.5.2003, p. 1);
+
+(v) Directive 2004/35/EC of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56);
+
+(vi) Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements (OJ L 255, 30.9.2005, p. 11);
+
+(vii) Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (OJ L 33, 4.2.2006, p. 1);
+
+(viii) Directive 2009/33/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of clean and energy-efficient road transport vehicles (OJ L 120, 15.5.2009, p. 5);
+
+(ix) Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 140, 5.6.2009, p. 1);
+
+(x) Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer (OJ L 286, 31.10.2009, p. 1);
+
+(xi) Directive 2009/126/EC of the European Parliament and of the Council of 21 October 2009 on Stage II petrol vapour recovery during refuelling of motor vehicles at service stations (OJ L 285, 31.10.2009, p. 36);
+
+(xii) Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 145, 31.5.2011, p. 1);
+
+(xiii) Directive 2014/94/EU of the European Parliament and of the Council of 22 October 2014 on the deployment of alternative fuels infrastructure (OJ L 307, 28.10.2014, p. 1);
+
+(xiv) Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC (OJ L 123, 19.5.2015, p. 55);
+
+(xv) Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (OJ L 313, 28.11.2015, p. 1).
+
+5\. Rules on the protection and management of water and soil, as set out in:
+
+(i) Directive 2007/60/EC of the European Parliament and of the Council of 23 October 2007 on the assessment and management of flood risks (OJ L 288, 6.11.2007, p. 27);
+
+(ii) Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council (OJ L 348, 24.12.2008, p. 84);
+
+(iii) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+6\. Rules relating to the protection of nature and biodiversity, as set out in:
+
+(i) Council Regulation (EC) No 1936/2001 of 27 September 2001 laying down control measures applicable to fishing for certain stocks of highly migratory fish (OJ L 263, 3.10.2001, p. 1);
+
+(ii) Council Regulation (EC) No 812/2004 of 26 April 2004 laying down measures concerning bycatches of cetaceans in fisheries and amending Regulation (EC) No 88/98 (OJ L 150, 30.4.2004, p. 12);
+
+(iii) Regulation (EC) No 1007/2009 of the European Parliament and of the Council of 16 September 2009 on trade in seal products (OJ L 286, 31.10.2009, p. 36);
+
+(iv) Council Regulation (EC) No 734/2008 of 15 July 2008 on the protection of vulnerable marine ecosystems in the high seas from the adverse impacts of bottom fishing gears (OJ L 201, 30.7.2008, p. 8);
+
+(v) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7);
+
+(vi) Regulation (EU) No 995/2010 of the European Parliament and of the Council of 20 October 2010 laying down the obligations of operators who place timber and timber products on the market (OJ L 295, 12.11.2010, p. 23);
+
+(vii) Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species (OJ L 317, 4.11.2014, p. 35).
+
+7\. Rules on chemicals, as set out in Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+8\. Rules relating to organic products, as set out in Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+
+F. Point (a)(vi) of Article 2(1) — radiation protection and nuclear safety
+
+Rules on nuclear safety, as set out in:
+
+(i) Council Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 172, 2.7.2009, p. 18);
+
+(ii) Council Directive 2013/51/Euratom of 22 October 2013 laying down requirements for the protection of the health of the general public with regard to radioactive substances in water intended for human consumption (OJ L 296, 7.11.2013, p. 12);
+
+(iii) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom (OJ L 13, 17.1.2014, p. 1);
+
+(iv) Council Directive 2011/70/Euratom of 19 July 2011 establishing a Community framework for the responsible and safe management of spent fuel and radioactive waste (OJ L 199, 2.8.2011, p. 48);
+
+(v) Council Directive 2006/117/Euratom of 20 November 2006 on the supervision and control of shipments of radioactive waste and spent fuel (OJ L 337, 5.12.2006, p. 21);
+
+(vi) Council Regulation (Euratom) 2016/52 of 15 January 2016 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No 3954/87 and Commission Regulations (Euratom) No 944/89 and (Euratom) No 770/90 (OJ L 13, 20.1.2016, p. 2);
+
+(vii) Council Regulation (Euratom) No 1493/93 of 8 June 1993 on shipments of radioactive substances between Member States (OJ L 148, 19.6.1993, p. 1).
+
+G. Point (a)(vii) of Article 2(1) — food and feed safety, animal health and animal welfare:
+
+1\. Union food and feed law governed by the general principles and requirements as defined by Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+2\. Animal health, as regulated by:
+
+(i) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health ("Animal Health Law") (OJ L 84, 31.3.2016, p. 1);
+
+(ii) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1).
+
+3\. Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+4\. Rules and standards on the protection and well-being of animals, as set out in:
+
+(i) Council Directive 98/58/EC of 20 July 1998 concerning the protection of animals kept for farming purposes (OJ L 221, 8.8.1998, p. 23);
+
+(ii) Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1);
+
+(iii) Council Regulation (EC) No 1099/2009 of 24 September 2009 on the protection of animals at the time of killing (OJ L 303, 18.11.2009, p. 1);
+
+(iv) Council Directive 1999/22/EC of 29 March 1999 relating to the keeping of wild animals in zoos (OJ L 94, 9.4.1999, p. 24);
+
+(v) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes (OJ L 276, 20.10.2010, p. 33).
+
+H. Point (a)(viii) of Article 2(1) — public health:
+
+1\. Measures setting high standards of quality and safety of organs and substances of human origin, as regulated by:
+
+(i) Directive 2002/98/EC of the European Parliament and of the Council of 27 January 2003 setting standards of quality and safety for the collection, testing, processing, storage and distribution of human blood and blood components and amending Directive 2001/83/EC (OJ L 33, 8.2.2003, p. 30);
+
+(ii) Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells (OJ L 102, 7.4.2004, p. 48);
+
+(iii) Directive 2010/53/EU of the European Parliament and of the Council of 7 July 2010 on standards of quality and safety of human organs intended for transplantation (OJ L 207, 6.8.2010, p. 14).
+
+2\. Measures setting high standards of quality and safety for medicinal products and devices of medical use, as regulated by:
+
+(i) Regulation (EC) No 141/2000 of the European Parliament and of the Council of 16 December 1999 on orphan medicinal products (OJ L 18, 22.1.2000, p. 1);
+
+(ii) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67);
+
+(iii) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43);
+
+(iv) Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ L 136, 30.4.2004, p. 1);
+
+(v) Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 378, 27.12.2006, p. 1);
+
+(vi) Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 324, 10.12.2007, p. 121);
+
+(vii) Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC (OJ L 158, 27.5.2014, p. 1).
+
+3\. Patients' rights, as regulated by Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross-border healthcare (OJ L 88, 4.4.2011, p. 45).
+
+4\. Manufacture, presentation and sale of tobacco and related products, as regulated by Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.4.2014, p. 1).
+
+I. Point (a)(ix) of Article 2(1) — consumer protection:
+
+Consumer rights and consumer protection, as regulated by:
+
+(i) Directive 98/6/EC of the European Parliament and of the Council of 16 February 1998 on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 27);
+
+(ii) Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136, 22.5.2019, p. 1);
+
+(iii) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28);
+
+(iv) Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (OJ L 171, 7.7.1999, p. 12);
+
+(v) Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC (OJ L 271, 9.10.2002, p. 16);
+
+(vi) Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’)(OJ L 149, 11.6.2005, p. 22);
+
+(vii) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66);
+
+(viii) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64);
+
+(ix) Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214).
+
+J. Point (a)(x) of Article 2(1) — protection of privacy and personal data, and security of network and information systems:
+
+(i) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications)(OJ L 201, 31.7.2002, p. 37);
+
+(ii) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)(OJ L 119, 4.5.2016, p. 1);
+
+(iii) Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1). .
+
+F66[(iv) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1).]
+
+Part II
+
+Article 3(1) refers to the following Union legislation:
+
+A. Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:
+
+1\. Financial services:
+
+(i) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)(OJ L 302, 17.11.2009, p. 32);
+
+(ii) Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs)(OJ L 354, 23.12.2016, p. 37);
+
+(iii) Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87);
+
+(iv) Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1);
+
+(v) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338);
+
+(vi) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014,p. 349);
+
+(vii) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1);
+
+(viii) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs)(OJ L 352, 9.12.2014, p. 1);
+
+(ix) Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ L 337, 23.12.2015, p. 1);
+
+(x) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19);
+
+(xi) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).
+
+F67[(xii) Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).]
+
+2\. Prevention of money laundering and terrorist financing:
+
+(i) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73);
+
+(ii) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1).
+
+B. Point (a)(iv) of Article 2(1) — transport safety:
+
+(i) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18);
+
+(ii) Directive 2013/54/EU of the European Parliament and of the Council of 20 November 2013 concerning certain flag State responsibilities for compliance with and enforcement of the Maritime Labour Convention, 2006 (OJ L 329, 10.12.2013, p. 1);
+
+(iii) Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (OJ L 131, 28.5.2009, p. 57).
+
+C. Point (a)(v) of Article 2(1) — protection of the environment:
+
+(i) Directive 2013/30/EU of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending Directive 2004/35/EC (OJ L 178, 28.6.2013, p. 66).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 33 and sch. 2, S.I. No. 510 of 2022.
+>
+> F66: Inserted (11.07.2023) by *Protected Disclosures Act 2014 (Digital Markets Act) (Amendment) Regulations 2023* (S.I. No. 359 of 2023), reg. 2.
+>
+> F67: Inserted (8.11.2024) by *European Union (Markets in Crypto-Assets) Regulations 2024* (S.I. No. 607 of 2024), reg. 23, in effect as per reg. 1(2).
+
+## SCHEDULE 7 — Transitional Provisions
+
+F68[1\. In this Schedule—
+
+"Act of 2022" means the Protected Disclosures (Amendment) Act 2022;
+
+"detriment" has the meaning given to it by *section 13*.
+
+2\. Subject as provided for therein, *section 12* (amended by section 21 of the Act of 2022) and *Schedule 2* (amended by section 25 of the Act of 2022) shall apply where a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022) who is or was an employee—
+
+(a) made a protected disclosure within the meaning of *section 5* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) before the date of the passing of the Act of 2022, and
+
+(b) was penalised after the date of the passing of the Act of 2022 for having made such a disclosure.
+
+3\. Subject as provided for therein, *section 13* (amended by section 22 of the Act of 2022) shall apply where—
+
+(a) before the date of the passing of the Act of 2022, a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022) made a protected disclosure within the meaning of *section 5* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022), and
+
+(b) after the date of the passing of the Act of 2022, a person caused detriment—
+
+(i) to the worker for having made such a disclosure, or
+
+(ii) to another person because the worker made such a disclosure.
+
+4\. Subject as provided for therein, *section 12* (amended by section 21 of the Act of 2022) and *Schedule 2* (amended by section 25 of the Act of 2022) shall apply to a person who—
+
+(a) was not a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022),
+
+(b) made a disclosure of relevant information within the meaning of *section 5(2)* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) before the commencement of section 4(a)(iii) of the Act of 2022 (in this paragraph referred to as "the disclosure"),
+
+(c) if the disclosure had been made after the commencement of section 4(a)(iii) of the Act of 2022, would—
+
+(i) fall within the definition of "worker" in *section 3* (amended by the said section 4(a)(iii)), and
+
+(ii) be an employee to whom *section 12* (amended by section 21 of the Act of 2022) and *Schedule 2* (amended by section 25 of the Act of 2022) would apply,
+
+and
+
+(d) is penalised after the commencement of section 4(a)(iii) of the Act of 2022.
+
+5\. Subject as provided for therein, *section 13* (amended by section 22 of the Act of 2022) shall apply where—
+
+(a) a person (in this section referred to as the "first-named person")—
+
+(i) was not a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022),
+
+(ii) made a disclosure of relevant information within the meaning of *section 5(2)* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) before the commencement of section 4(a)(iii) of the Act of 2022 (in this paragraph referred to as "the disclosure"), and
+
+(iii) if the disclosure had been made after the commencement of section 4(a)(iii) of the Act of 2022, would fall within the definition of "worker" in *section 3* (amended by the said section 4(a)(iii),
+
+and
+
+(b) after the date of the passing of the Act of 2022, a person caused detriment—
+
+(i) to the first-named person for having made the disclosure, or
+
+(ii) to another person because the first-named person made the disclosure.
+
+6\. Subject as provided for therein, *section 12* (amended by section 21 of the Act of 2022) and *Schedule 2* (amended by section 25 of the Act of 2022) shall apply where—
+
+(a) before the date of the passing of the Act of 2022, a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022) who is or was an employee—
+
+(i) made a protected disclosure within the meaning of *section 5* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022), and
+
+(ii) was penalised for having made such a disclosure,
+
+and
+
+(b) proceedings under *section 12* (amended by section 21 of the Act of 2022) are initiated after the commencement of the said section 21.
+
+7\. Subject as provided for therein, *section 13* (amended by section 22 of the Act of 2022) shall apply where—
+
+(a) before the date of the passing of the Act of 2022, a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022)—
+
+(i) made a protected disclosure within the meaning of *section 5* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022), and
+
+(ii) a person caused detriment—
+
+(I) to the worker for having made such a disclosure, or
+
+(II) to another person because the worker made such a disclosure.
+
+and
+
+(b) proceedings under *section 13* (amended by section 22 of the Act of 2022) are initiated after the commencement of the said section 22.
+
+8\. *Sections 14* and *15* shall apply where—
+
+(a) before the date of the passing of the Act of 2022, a disclosure of relevant information within the meaning of *section 5(2)* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) was made by a person who—
+
+(i) was not a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022), and
+
+(ii) would fall within the definition of "worker" in *section 3* (amended by the said section 4(a)(iii)) if the disclosure had been made after the commencement of the said section 4(a)(iii),
+
+and
+
+(b) proceedings under *section 14* or *15*, as the case may be, are initiated after the date of passing of the Act of 2022.
+
+9\. *Sections 16* (amended by section 16 of the Act of 2022), *16A* and *16B* shall apply to the following disclosures:
+
+(a) a protected disclosure within the meaning of *section 5* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) made before the date of the passing of the Act of 2022 by a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022);
+
+(b) a disclosure of relevant information within the meaning of *section 5(2)* (being that section in the terms as it stood before the commencement of section 6 of the Act of 2022) made before the date of the passing of the Act of 2022 by a person who—
+
+(i) was not a worker within the meaning of *section 3* (being that section in the terms as it stood before the commencement of section 4(a)(iii) of the Act of 2022), and
+
+(ii) would fall within the definition of "worker" in *section 3* (amended by the said section 4(a)(iii)) if the disclosure had been made after the commencement of the said section 4(a)(iii).
+
+10\. Notwithstanding the amendments of this Act made by the Act of 2022, and *paragraphs 2* to *9*, anything commenced under this Act but not completed before the commencement of those amendments may be carried on and completed after the commencement of those amendments as if those amendments had not been made.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (1.01.2023) by *Protected Disclosures (Amendment) Act 2022* (27/2022), s. 32(b) and sch. 3, S.I. No. 510 of 2022.
+
+[^1]: OJ No. L 119, 4.5.2016, p. 89.
+[^2]: OJ No. L 305, 26.11.2019, p. 17.
+[^3]: OJ No. L 347, 20.10.2020, p. 1.
+[^4]: OJ No. L 119, 4.5.2016, p. 1.
+[^5]: OJ No. L 119, 4.5.2016, p. 89.

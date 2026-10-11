@@ -1,0 +1,5837 @@
+---
+title: "Adoption Act 2010"
+identifier: "eli/2010/act/21"
+type: act
+jurisdiction: ie
+language: en
+number: 21
+year: 2010
+date: 2010-07-14
+last_amended: 2023-07-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2010/act/21/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2010/act/21/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Adoption Act 2010
+
+AN ACT TO PROVIDE FOR THE DISSOLUTION OF AN BORD UCHTÁLA AND THE ESTABLISHMENT OF A BODY TO BE KNOWN AS ÚDARÁS UCHTÁLA NA hÉIREANN AND IN THE ENGLISH LANGUAGE AS THE ADOPTION AUTHORITY OF IRELAND; TO PROVIDE FOR MATTERS RELATING TO THE ADOPTION OF CHILDREN; TO GIVE THE FORCE OF LAW TO THE CONVENTION ON THE PROTECTION OF CHILDREN AND CO-OPERATION IN RESPECT OF INTERCOUNTRY ADOPTION SIGNED AT THE HAGUE ON 29 MAY 1993; TO PROVIDE FOR THE MAKING AND RECOGNITION OF INTERCOUNTRY ADOPTIONS IN ACCORDANCE WITH BILATERAL AGREEMENTS AND WITH OTHER ARRANGEMENTS; TO PROVIDE FOR THE RECOGNITION OF CERTAIN ADOPTIONS EFFECTED OUTSIDE THE STATE; TO REPEAL THE ADOPTION ACTS 1952 TO 1998; TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS AND TO PROVIDE FOR RELATED MATTERS.
+
+[14*th July*, 2010]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions of Health Service Executive in relation to Act transferred to Child and Family Agency (1.01.2014, establishment day) by *Child and Family Agency Act 2013* (40/2013), s. 82 and sch. 1, S.I. Nos. 502, 503 of 2013.
+>
+> **82.** (1) The administration and business in connection with the performance of any of the functions transferred by subsection (2) are transferred, on the establishment day, to the Agency.
+>
+> (2) The functions vested in the Health Service Executive by or under the enactments specified in Schedule 1 shall, on the establishment day, stand transferred to the Agency.
+>
+> SCHEDULE 1
+>
+> Functions of Health Service Executive Transferred to Agency
+>
+> ....
+>
+> Adoption Act 2010
+>
+> ....
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of –
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 21 of 2010</td><td>Adoption Act 2010</td><td>Sections 36(5), 46(4), 89(3), 94(2), 102, 109, 112(3) and 124(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Functions transferred and references to “Department of Health and Children” and “Minister for Health and Children” construed (3.06.2011) by *Office of the Minister for Children and Youth Affairs (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 218 of 2011), arts. 2, 3(1), (3) and sch., in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Health and Children contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Health and Children by or under the Acts specified in the Schedule are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Health and Children contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> SCHEDULE
+>
+> Adoption Act 2010 (No. 21 of 2010)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Certain court fees excluded for proceedings under collectively cited *Adoption Acts 2010 to 2013* (30.10.2014) by *Supreme Court, Court of Appeal and High Court (Fees) Order 2014* (S.I. No. 492 of 2014), art. 6(1)(c), in effect as per art. 1(2).
+>
+> E2: Adoption Authority of Ireland excluded from definition of public bodies in *Freedom of Information Act 2014* (30/2014) in so far as it relates to certain records (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 6 and sch. 1 part 1(a), commenced as per s. 1(2).
+>
+> E3: Chief Executive Officer of Adoption Authority of Ireland prescribed as recipient of certain disclosures (23.07.2014) by *Protected Disclosures Act 2014 (Section 7(2)) Order 2014* (S.I. No. 339 of 2014), art. 2 and sch. ref. no. 1.
+>
+> E4: Previous affecting provision: certain court fees excluded for proceedings under collectively cited *Adoption Acts 2010 and 2011* (3.02.2014) by *Supreme Court and High Court (Fees) Order 2014* (S.I. No. 24 of 2014), art. 6(1)(c), in effect as per art. 1(2); revoked (30.10.2014) by *Supreme Court, Court of Appeal and High Court (Fees) Order 2014* (S.I. No. 492 of 2014), art. 11, in effect as per art. 1(2).
+>
+> E5: Previous affecting provision: certain court fees excluded for proceedings under collectively cited *Adoption Acts 2010 and 2011* (3.12.2013) by *Supreme Court and High Court (Fees) (No. 2) Order 2013* (S.I. No. 466 of 2013), art. 5(1)(c), in effect as per art. 1(2); revoked (3.02.2014) by *Supreme Court and High Court (Fees) Order 2014* (S.I. No. 24 of 2014), art. 11, in effect as per art. 1(2).
+>
+> E6: Previous affecting provision: certain court fees excluded for proceedings under collectively cited *Adoption Acts 2010 and 2011* (10.07.2013) by *Supreme Court and High Court (Fees) Order 2013* (S.I. No. 239 of 2013), art. 6(1)(c), in effect as per art. 1(2); revoked (03.12.2013) by *Supreme Court and High Court (Fees) (No. 2) Order 2013* (S.I. No. 466 of 2013), art. 10, in effect as per art. 1(2).
+>
+> E7: Previous affecting provision: certain court fees excluded for proceedings under collectively cited *Adoption Acts 2010 and 2011* (10.04.2012) by *Supreme Court and High Court (Fees) Order 2012* (S.I. No. 110 of 2012), art. 6(1)(c), in effect as per art. 1(2); revoked (10.07.2013) by *Supreme Court and High Court (Fees) Order 2013* (S.I. No. 239 of 2013), art. 13, in effect as per art. 1(2).
+
+## PART 1 Preliminary and General Matters — PART 1 — Preliminary and General Matters
+
+### 1. Short title.
+
+**1**.— This Act may be cited as the Adoption Act 2010.
+
+### 2. Commencement.
+
+**2**.— (1) This Act comes into operation on such day or days as the Minister may appoint by order or orders, either generally or with reference to any particular purpose or provision, and different days may be appointed for different purposes or different provisions.
+
+(2) An order under *subsection (1)* may, in respect of the repeal of the Acts specified in *Part 1* of *Schedule 1* and the revocation of the statutory instruments specified in *Part 2* of that Schedule effected by *section 7*, appoint different days for the repeal of different Acts or different provisions of them and the revocation of different statutory instruments or different provisions of them.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to section exercised (1.11.2010) by *Adoption Act 2010 (Commencement) Order 2010* (S.I. No. 511 of 2010).
+>
+> 2\. The 1st day of November 2010 is appointed as the day on which the Adoption Act 2010 (No. 21 of 2010) comes into operation.
+
+### 3. Interpretation.
+
+**3**.— (1) In this Act, unless the context otherwise requires—
+
+“accredited body” means a body of persons whose name is entered in the register of accredited bodies;
+
+F1[“Act of 1964” means the Guardianship of Infants Act 1964;]
+
+F1[”Act of 2010” means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;]
+
+F2[”Act of 2015” means the Gender Recognition Act 2015;]
+
+“Adopted Children Register” means the Adopted Children Register maintained by an tArd-Chláraitheoir under section 22 of the Adoption Act 1952 and continued in being by *section 84*;
+
+“Adoption Acts” means the Adoption Acts 1952 to 1998;
+
+“adoption committee” means a committee established by the F3[Child and Family Agency] under *section 36*;
+
+“adoption order” means an order for the adoption of a child made—
+
+(*a*) before the establishment day, by An Bord Uchtála under the Adoption Acts, or
+
+(*b*) on or after the establishment day, by the Authority under this Act;
+
+“Article”, in relation to a numbered Article, means the Article so numbered of the Hague Convention and a reference to a subdivision of a numbered Article shall be read accordingly;
+
+“assessment of eligibility and suitability”, in relation to a person, means an assessment of whether or not the person—
+
+(*a*) comes within the classes of persons in whose favour an adoption order may by virtue of *section 33* be made, and
+
+(*b*) is under *section 34* a suitable person to have parental rights and duties in relation to a child;
+
+“the Authority” means the body established by *section 94*;
+
+F4[”bilateral agreement” means an agreement referred to in *section 73* entered into by the Government and a non-contracting state concerning intercountry adoption;]
+
+“bilateral agreement adoption” means an adoption—
+
+(*a*) effected in accordance with a bilateral agreement in a state that is a party to the agreement, and
+
+(*b*) certified, in accordance with the agreement, by the competent authority of the state of the adoption as having been so effected;
+
+“Central Authority” means—
+
+(*a*) in relation to a Convention adoption, the body designated as the Central Authority by a contracting state, under Article 6 (which relates to the designation and appointment of Central Authorities) to perform the functions conferred under the Hague Convention on such authorities,
+
+(*b*) in relation to a bilateral agreement adoption, a body designated as the Central Authority under that agreement to perform the functions conferred under that agreement on such authorities, and
+
+(*c*) in relation to an intercountry adoption in the circumstances referred to in *section 81*, a body designated as the Central Authority under an arrangement under that section to perform the functions conferred under that arrangement on such authorities,
+
+and in each case, in relation to functions performable in the State, means the Authority;
+
+“chief executive officer” means the person appointed to be the chief executive officer of the Authority under *section 103*;
+
+“child” means any person who is under the age of 18 years;
+
+F1[”civil partner” shall be construed in accordance with section 3 of the Act of 2010;
+
+”cohabitant” shall be construed in accordance with section 172(1) of the Act of 2010;
+
+”cohabiting couple” means 2 adults who are cohabitants of each other and who have been living together as cohabitants for a continuous period of not less than 3 years;]
+
+“contracting state” means a state, other than any state to whose accession to the Hague Convention the State has raised an objection pursuant to Article 44 (which relates to accession to the Hague Convention), in respect of which the Hague Convention has entered into force in accordance with Article 46 and shall be read so that this Act shall have effect in relation to—
+
+(*a*) if a contracting state has declared under Article 45 (which makes special provision for states with 2 or more territorial units) that the Hague Convention shall extend to one or more than one territorial unit within that state, that unit or those units, and
+
+(*b*) each other contracting state;
+
+“Convention adoption” means an intercountry adoption effected in accordance with the Hague Convention in a contracting state and for which a certificate under paragraph (1) of Article 23 (which relates to recognition of adoptions certified by the competent authority of the state of adoption) has been provided;
+
+“declaration of eligibility and suitability” means a declaration issued by the Authority under *section 40;*
+
+“domestic adoption” means the adoption of a child who was habitually resident in the State before his or her adoption by a person or persons habitually resident in the State;
+
+F5["donor-conceived child" has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015;
+
+"father", in relation to a child, includes a man who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child;]
+
+“establishment day” means the establishment day appointed under *section 6*;
+
+“financial year”, in relation to the Authority, means a period of 12 months ending on 31 December in any year and, in the case of the first financial year of the Authority, means the period commencing on the establishment day and ending on 31 December in the year in which the establishment day falls;
+
+F2[”gender recognition certificate” has the same meaning as it has in the Gender Recognition Act 2015;]
+
+“guardian”, in relation to a child, means a person who—
+
+F6[(*a*) is a guardian of the child pursuant to the Act of 1964, other than a guardian appointed—
+
+(i) under section 6C of that Act where subsection (9) of that section applies to that appointment but the court has not made an order that that person enjoys the rights and responsibilities specified in subsection (11)(f) of that section, or
+
+(ii) under section 6E of that Act, or]
+
+(*b*) is appointed to be a guardian of the child by—
+
+(i) deed or will, or
+
+(ii) order of a court in the State,
+
+and has not been removed from office;
+
+“Hague Convention” means the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, 1993, the text of which, subject to *subsection (3)*, is set out for convenience of reference in *Schedule 2*;
+
+“interim order” means an order under *section 44*;
+
+“intercountry adoption” means the adoption of a child habitually resident in a state (the “state of origin”), whether a contracting state or non-contracting state, who has been, is being or is to be transferred into another state (the “receiving state”)—
+
+(*a*) after the child’s adoption in the state of origin by a person or persons habitually resident in the receiving state, or
+
+(*b*) for the purposes of an adoption, in either the receiving state or the state of origin, by a person or persons habitually resident in the receiving state;
+
+“intercountry adoption effected outside the State” means—
+
+(*a*) an adoption of a child effected outside the State at any time before the establishment day that, at that time, conformed to the definition of “foreign adoption” in section 1 of the Adoption Act 1991,
+
+(*b*) an adoption, other than an intercountry adoption, of a child effected outside the State at any time on or after the establishment day that conforms to the definition of “foreign adoption” in section 1 of the Adoption Act 1991 as it read on 30 May 1991, or
+
+(*c*) an intercountry adoption of a child effected outside the State at any time on or after the establishment day that, at that time, is in compliance with the applicable provisions of this Act and the Hague Convention;
+
+“local authority” has the same meaning as it has in the Local Government Act 2001;
+
+“Minister” means the Minister for Health and Children;
+
+“non-contracting state” means a state other than a contracting state;
+
+F7[...]
+
+F8[“parent” means, in relation to a child—
+
+(*a*) the mother or father of the child, or
+
+F9[(*b*) a woman (other than the mother) who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child,]
+
+and includes an adopter of the child;]
+
+“personal public service number” has the meaning assigned to it by section 262 of the Social Welfare (Consolidation) Act 2005;
+
+“prescribed” means prescribed by the Minister by regulations under this Act;
+
+“receiving state”, in relation to an intercountry adoption, means the state in which the prospective adopters of a child are habitually resident;
+
+“register of accredited bodies” means the register kept under section 35 of the Adoption Act 1952 as the Adoption Societies Register and continued in being under *section 126* as the register of accredited bodies;
+
+F2[”register of gender recognition of intercountry adoptions” means the register established under *section 91A*;]
+
+“register of intercountry adoptions” means the register established under section 6 of the Adoption Act 1991 as the Register of Foreign Adoptions and continued in being under *section 90* as the register of intercountry adoptions;
+
+“relative”, in relation to a child, means a grandparent, brother, sister, uncle or aunt of the child, whether of the whole blood, of the half-blood or by affinity and includes the spouse of any such person, F10[relationship to the child being traced through a parent of that child];
+
+F11[“relevant non-guardian” means, in relation to a child—
+
+(*a*) a father of the child who is not a guardian of the child pursuant to the Act of 1964,
+
+F12[(*b*) a parent of the child under section 5 of the Children and Family Relationships Act 2015 who is not a guardian pursuant to the Act of 1964,]
+
+(*c*) a person who is appointed as a guardian of the child pursuant to section 6C of the Act of 1964 where subsection (9) of that section applies to that appointment but in respect of which the court has not made an order that the person enjoys the rights and responsibilities specified in subsection (11)(f) of that section, or
+
+(*d*) a person appointed by the court to be a temporary guardian of the child under section 6E of the Act of 1964;]
+
+“state of origin”, in relation to a child, means the state in which the child is habitually resident before—
+
+(*a*) his or her adoption, or
+
+(*b*) his or her proposed adoption,
+
+by a person habitually resident in another state.
+
+F1[”step parent” has the meaning assigned to it by *section 37*;]
+
+(2) In this Act, references to adopters shall, where the context so requires, include references to an adopter.
+
+(3) In *Schedule 2*, in a head note to a numbered Article, the descriptor following the number—
+
+(*a*) is not part of the Hague Convention, and
+
+(*b*) shall be considered to have been added editorially for convenience of reference only.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(a), S.I. No. 443 of 2017.
+>
+> F2: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 32, S.I. No. 369 of 2015.
+>
+> F3: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F4: Substituted (31.07.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 49(a), commenced on enactment.
+>
+> F5: Inserted (4.05.2020) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(a), S.I. No. 80 of 2020.
+>
+> F6: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(c), S.I. No. 443 of 2017.
+>
+> F7: Deleted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(e), S.I. No. 443 of 2017.
+>
+> F8: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(b), S.I. No. 443 of 2017.
+>
+> F9: Substituted (4.05.2020) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(b), S.I. No. 80 of 2020.
+>
+> F10: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(d), S.I. No. 443 of 2017.
+>
+> F11: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(a), S.I. No. 443 of 2017.
+>
+> F12: Inserted (4.05.2020) by *Adoption (Amendment) Act 2017* (19/2017), s. 3(a), S.I. No. 80 of 2020.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 102, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 4. References to making arrangements for adoption.
+
+**4**.— In this Act, references to the making of arrangements for the adoption of a child (whether a domestic adoption or an intercountry adoption) shall be read as including references to the following activities:
+
+(*a*) making any agreement or arrangement for, or facilitating, the adoption or maintenance of the child by any person;
+
+(*b*) initiating or taking part in any negotiations the purpose or effect of which is the making of any such agreement or arrangement;
+
+(*c*) causing another person to initiate or take part in any such negotiations;
+
+(*d*) offering to enter into negotiations on behalf of the child’s parents or prospective adopters for the purpose of arranging an adoption;
+
+(*e*) carrying out or making any arrangement for the carrying out of an assessment of eligibility and suitability;
+
+(*f*) preparing reports on assessments of eligibility and suitability;
+
+(*g*) providing information, advice and counselling concerning adoption to any prospective adopters;
+
+(*h*) providing information, advice and counselling concerning adoption to a mother or guardian who proposes to place a child for adoption;
+
+(*i*) providing information and advice concerning the child’s medical or other status in connection with adoption;
+
+(*j*) placing a child with any prospective adopters;
+
+(*k*) one or more of the following:
+
+(i) assisting—
+
+(I) adopted persons (18 years of age or over) in tracing their F13[parents] or other relatives, and
+
+(II) F13[parents] or other relatives (18 years of age or over) of adopted persons in tracing the adopted persons;
+
+(ii) counselling the persons described in *subparagraph (i)*;
+
+(iii) mediating between adopted persons described in *subparagraph (i)* and F13[parents] or other relatives, both as described in that subparagraph.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 4, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E10: *Adoption Act 2010 (Accredited Bodies) Regulations 2010* (S.I. No. 524 of 2010), regs. 8 and 9, confirmed not applicable to accredited bodies registered in respect of an activity mentioned in pars. (e), (f), (g) or (k) of section (4.11.2010) by *Adoption Act 2010 (Accredited Bodies) Regulations 2010* (S.I. No. 524 of 2010), regs. 8(1) and 9(1), in effect as per reg. 2.
+>
+> E11: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 103, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 5. Supplemental provisions to section 4 in relation to certain intercountry adoptions.
+
+**5**.— In addition but without prejudice to *section 4*, in this Act, references to making arrangements for the adoption of a child shall be read in relation to an intercountry adoption as including references to the following activities:
+
+(*a*) contacting, directly or indirectly in connection with an intercountry adoption, any person, institution or authority in the child’s state of origin that is authorised by that state to make arrangements for adoption;
+
+(*b*) preparing pre-adoption reports for the purpose of Article 20 (which relates to Central Authorities keeping each other informed) or of any provision of a bilateral agreement;
+
+(*c*) transmitting to the Central Authority in the child’s state of origin the declaration of eligibility and suitability together with the assessment report prepared under *section 37* and the recommendation made under *section 39.*
+
+### 6. Establishment day.
+
+**6**.— The Minister by order shall appoint a day as the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (1.11.2010) by *Adoption Act 2010 (Establishment Day) Order 2010* (S.I. No. 512 of 2010).
+>
+> 2\. The 1st day of November 2010 is appointed as the establishment day for the purposes of the Adoption Act 2010 (No. 21 of 2010).
+
+### 7. Repeals and revocations.
+
+**7**.— (1) The Acts specified in *Part 1* of *Schedule 1* are repealed to the extent specified in *column (3)* of that Part of that Schedule.
+
+(2) The statutory instruments specified in *Part 2* of *Schedule 1* are revoked to the extent specified in *column (3)* of that Part of that Schedule.
+
+### 8. Expenses.
+
+**8**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Legal Effect of Hague Convention — PART 2 — Legal Effect of Hague Convention
+
+### 9. Hague Convention to have force of law.
+
+**9**.— The Hague Convention has the force of law in the State.
+
+### 10. Explanatory report.
+
+**10**.— (1) Judicial notice shall be taken of the explanatory report prepared by G. Parra-Aranguren in relation to the Hague Convention, a copy of which has been placed in the Oireachtas Library.
+
+(2) When interpreting any provision of the Hague Convention, a court or the Authority, as the case may be, shall pay due regard to that explanatory report.
+
+## PART 3 Placement for Adoption — PART 3 — Placement for Adoption
+
+### Chapter 1 Interpretation — Chapter 1 — Interpretation
+
+#### 11. Interpretation (Part 3).
+
+**11**.— In this Part—
+
+“accredited body” includes the F14[Child and Family Agency];
+
+“father”, in relation to a child, includes a person who believes himself to be the father of the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 104, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### Chapter 2 Placement of Children for Adoption — Chapter 2 — Placement of Children for Adoption
+
+#### 12. Visits and enquiries pertaining to adoptions.
+
+F15[**12.**— The Authority may authorise a member or employee of the Authority or of the Child and Family Agency to—
+
+(*a*) visit the homes of the child, the guardians of the child, the applicants for an adoption order or the recognition of an intercountry adoption effected outside the State and the person having custody of the child for the purposes of an adoption, and
+
+(*b*) make enquiries on behalf of the Authority.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 5, S.I. No. 443 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: subs. (2) substituted by *Children and Family Relationships Act 2015* (9/2015), s. 105, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 13. Restriction on placing child for adoption.
+
+**13**.— An accredited body shall not place a child for adoption unless—
+
+(*a*) the child has attained the age of 6 weeks,
+
+(*b*) it does so only for adoption purposes under this Act, and
+
+(*c*) it does so in accordance with this Act and the Hague Convention, in particular with Article 17 (which relates to when the state of origin may entrust a child to prospective adopters).
+
+#### 14. Explanation to mother or guardian as to effect of adoption.
+
+**14**.— Where the mother or guardian of a child proposes to place the child with an accredited body for adoption, the accredited body, before accepting the child, shall—
+
+(*a*) furnish the mother or guardian with a statement in writing explaining—
+
+(i) that a placement for adoption is the beginning of the adoption process,
+
+(ii) the effect of a placement for adoption upon the rights of a mother or guardian,
+
+(iii) the effect of an adoption order upon the rights of a mother or guardian, and
+
+(iv) the requirements specified in *sections 26* to *28* in respect of the consents necessary under this Act in relation to an adoption order,
+
+(*b*) ensure that the mother or guardian understands the statement and signs a document to that effect, and
+
+(*c*) provide information, advice and counselling to the mother or guardian concerned.
+
+#### 15. Care of child pending placement.
+
+**15**.— (1) Where a child has been placed with an accredited body for adoption, the accredited body, in accordance with such regulations as the Minister may make respecting arrangements—
+
+(*a*) for the care of children, and
+
+(*b*) for securing generally their welfare,
+
+may arrange for appropriate care for the child, subject to the accredited body’s control and supervision, pending the placement of the child for adoption.
+
+(2) Section 23P of the Child Care Act 1991 does not apply to—
+
+(*a*) the making of an arrangement by an accredited body under *subsection (1)*, or
+
+(*b*) a person undertaking the care of a child under the arrangement.
+
+#### 16. Right of father who wishes to be consulted.
+
+**16**.— F16[(1) A relevant non-guardian of a child, by notice to the Authority, may advise the Authority of his or her wish to be consulted in relation to—
+
+(*a*) a proposal by an accredited body to place the child for adoption, or
+
+(*b*) an application by the mother, step parent or relative of the child for an adoption order in respect of the child.]
+
+(2) A notice under *subsection (1)* shall be in writing, be in such form and contain such information as is specified by the Authority and may be given to the Authority before the birth of the child concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 6, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: section substituted by *Children and Family Relationships Act 2015* (9/2015), s. 106, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 17. Pre-placement consultation procedure.
+
+F17[**17.**— (1) Where an accredited body proposes to place a child for adoption—
+
+(*a*) the accredited body shall request the Authority in writing and in a form and manner approved by the Authority to provide the body with a copy of any notice received by the Authority under *section 16(1)* from a relevant non-guardian of that child, and
+
+(*b*) the Authority shall—
+
+(i) as soon as practicable, provide the notice (if any) to the accredited body, or
+
+(ii) where at the time of the request under *paragraph (a)*, it has not received any notice, so inform the accredited body and afterwards, if the Authority so receives a notice under *section 16(1)*, provide the notice forthwith to the accredited body.
+
+(2) Subject to this section and *section 18*, where an accredited body proposes to place a child for adoption, the accredited body shall, before placing the child for adoption, take such steps as are reasonably practicable, to consult any relevant non-guardian for the purposes of—
+
+(*a*) informing him or her of the proposed adoption,
+
+(*b*) explaining to him or her the legal implications of, and the procedures related to, adoption, and
+
+(*c*) ascertaining whether or not he or she objects to the proposed adoption.
+
+(3) Where—
+
+(*a*) each relevant non-guardian of a child indicates to the accredited body that he or she has no objection to the proposed placement of the child concerned for adoption, the accredited body may at any time thereafter, place the child for adoption, or
+
+(*b*) any relevant non-guardian objects to the proposed placement of the child for adoption, the accredited body shall—
+
+(i) notify in writing in the prescribed manner each of the parents, guardians and relevant non-guardians of the child, informing them that it is deferring the placement for such period (in this section referred to as the “deferral period”) as is specified in the notice, being a period of not less than 21 days, commencing on the date of the notice, for the purpose of affording the relevant non-guardian an opportunity to make an application to court under the Act of 1964, and
+
+(ii) defer the placement in accordance with the notification.
+
+(4) Where an accredited body receives a notice that an application to court referred to in *subsection (3) (b) (i)* has been made in relation to a child, the accredited body shall not place the child for adoption until the proceedings are concluded.
+
+(5) Where an accredited body has not received—
+
+(*a*) a notice referred to in *subsection (4)* within the deferral period, and
+
+(*b*) any indication from a relevant non-guardian under *paragraph (a)* or *(b)* of *subsection (3)* within 21 days of informing the person of the proposed placement of the child, as to whether or not he or she has any objection to the proposed placement,
+
+the accredited body may, at any time thereafter, place the child for adoption unless it receives a notice under *subsection (4)*.
+
+(6) A person who is a party to an application referred to in *subsection (3) (b) (i)* may apply to court for, and the court, where it is in the best interests of the child, may grant, such order as it considers appropriate to expedite the proceedings, which order may include, but shall not be limited to an order—
+
+(*a*) for substituted service, or
+
+(*b*) abridging the time fixed by rules of court for taking any step or doing any act in the proceedings.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 7, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E16: Power pursuant to subs. (3) exercised (20.12.2017) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) (Forms) Regulations 2017* (S.I. No. 606 of 2017).
+>
+> E17: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 107, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+>
+> E18: Previous affecting provision: forms prescribed for purposes of subs. (3)(b)(i) (3.11.2010) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) Regulations 2010* (S.I. No. 520 of 2010), reg. 3 and sch., in effect as per reg. 2; revoked (20.12.2017) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) (Forms) Regulations 2017* (S.I. No. 606 of 2017), reg. 4, in effect as per reg. 2.
+
+#### 18. Where father not consulted.
+
+F18[**18.**— (1) If an accredited body is unable to consult a relevant non-guardian of a child for the purposes of *section 17(2)*, the accredited body shall in a form and manner approved by the Authority, notify the Authority to that effect.
+
+(2) The Authority may, if satisfied that the accredited body has taken such steps as are reasonably practicable to consult any relevant non-guardian, authorise the accredited body to place the child for adoption.
+
+(3) At any time after being so authorised under *subsection (2)* the accredited body may place the child for adoption, but only if the accredited body has not been contacted by a relevant non-guardian indicating that he or she objects to the placement.
+
+(4) Where upon application to it by an accredited body that proposes to place a child for adoption, the Authority is satisfied that, having regard to—
+
+(*a*) the nature of the relationship between the relevant non-guardian and the person who proposes or persons who propose to place the child for adoption, or
+
+(*b*) other than in a case where the relevant non-guardian of the child is a person referred to in *paragraph (b), (c)* or *(d)* of the definition of “relevant non-guardian”, the circumstances of the conception of the child,
+
+it is inappropriate for the accredited body to contact the relevant non-guardian in respect of the placement of the child concerned—
+
+(i) the Authority may, after obtaining the approval of the High Court, authorise the accredited body to place the child for adoption, and
+
+(ii) the accredited body may, at any time after being so authorised, place the child for adoption.
+
+(5) If the identity of the father, referred to in *paragraph (a)* of the definition of “relevant non-guardian” (in this section referred to as “that father”), is unknown to an accredited body and the mother or guardian will not disclose the identity of that father, the accredited body shall—
+
+(*a*) counsel the mother or guardian concerned in order to attempt to obtain his or her or their, as the case may be, co-operation, advising such person or persons—
+
+(i) that the adoption may be delayed,
+
+(ii) the possibility of that father of the child contesting the adoption at some later date,
+
+(iii) that the absence of information about the medical, genetic and social background of the child may be detrimental to the health, development or welfare of that child, and
+
+(iv) such other matters as the accredited body considers appropriate in the circumstances,
+
+and
+
+(*b*) where the mother or guardian concerned, after counselling, will not disclose the identity of that father, furnish the Authority with a written report of the counselling that the accredited body has so provided.
+
+(6) Where the Authority receives a written report referred to in *subsection (5)(b)*, and is satisfied that the accredited body—
+
+(*a*) has taken such steps as are reasonably practicable to obtain the co-operation of the mother or guardian, and
+
+(*b*) has no other practical way of ascertaining that father’s identity, then—
+
+(i) the Authority may, after first obtaining the approval of the High Court, authorise the accredited body to place the child for adoption, and
+
+(ii) the accredited body may, at any time after being so authorised, if it has not ascertained the identity of that father, place the child for adoption.
+
+(7) Where the mother or guardian of a child provides or provide, as the case may be, an accredited body with a statutory declaration stating that he or she or they, as the case may be, is or are unable to identify that father, then—
+
+(*a*) the Authority may, after first obtaining the approval of the High Court, authorise the accredited body to place the child for adoption, and
+
+(*b*) the accredited body may, at any time thereafter, place the child for adoption, if the accredited body has not any other practical way of ascertaining that father’s identity.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 8, S.I. No. 443 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 108, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+>
+> E20: Previous affecting provisions: subs. (8) inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 10, S.I. No. 5 of 2014; substituted as per F-note above.
+
+#### 18A. No pre-placement consultation required
+
+F19[**18A.**—F20[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted by *Child and Family Relationships Act 2015* (9/2015), s. 109, not commenced.
+>
+> F20: Repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+## PART 4 Domestic Adoptions and Intercountry Adoptions — PART 4 — Domestic Adoptions and Intercountry Adoptions
+
+### Chapter 1 Adoption Orders and Consents to Adoption Orders — Chapter 1 — Adoption Orders and Consents to Adoption Orders
+
+#### 19. Welfare of child.
+
+F21[**19.**— (1) In any matter, application or proceedings under this Act which is, or are, before—
+
+(*a*) the Authority, or
+
+(*b*) any court,
+
+the Authority or the court, as the case may be, shall regard the best interests of the child as the paramount consideration in the resolution of such matter, application or proceedings.
+
+(2) In determining for the purposes of *subsection (1)* what is in the best interests of the child, the Authority or the court, as the case may be, shall have regard to all of the factors or circumstances that it considers relevant to the child who is the subject of the matter, application or proceedings concerned including—
+
+(*a*) the child’s age and maturity,
+
+(*b*) the physical, psychological and emotional needs of the child,
+
+(*c*) the likely effect of adoption on the child,
+
+(*d*) the child’s views on his or her proposed adoption,
+
+(*e*) the child’s social, intellectual and educational needs,
+
+(*f*) the child’s upbringing and care,
+
+(*g*) the child’s relationship with his or her parent, guardian or relative, as the case may be, and
+
+(*h*) any other particular circumstances pertaining to the child concerned.
+
+(3) In so far as practicable, in relation to any matter, application or proceedings referred to in *subsection (1)*, in respect of any child who is capable of forming his or her own views, the Authority or the court, as the case may be, shall ascertain those views and such views shall be given due weight having regard to the age and maturity of the child.
+
+(4) Without prejudice to the generality of *subsection (3)*, the Minister may make regulations prescribing the procedures by which the Authority or the court, as the case may be, shall determine how best to ascertain the views of the child, in so far as practicable, in any matter, application or proceedings, and, without prejudice to the generality of the foregoing, such regulations may—
+
+(*a*) make provision for the procedures that are to apply to enable a child to present his or her views in person or in writing or by other means (including by electronic means) to the Authority or the court, as the case may be,
+
+(*b*) make provision for the procedures that are to apply to enable a child to nominate an appropriate person to present the child’s views orally or in writing or by other means (including by electronic means) to the Authority or the court, as the case may be,
+
+(*c*) prescribe as appropriate persons—
+
+(i) a class or classes of persons who, in the opinion of the Minister having regard to the functions to be performed by members of such class or classes of persons under this section, are suitable to be appropriate persons for the purposes of such functions, or
+
+(ii) a class or classes of persons who, in the opinion of the Minister having considered the qualifications, training and expertise of such class or classes of persons by reference to the functions to be performed by members of such class or classes of persons under this section, are suitable to be appropriate persons for the purposes of such functions,
+
+(*d*) make provision for the procedures that are to apply in respect of any consultation by the Authority or the court, as the case may be, with a child or an appropriate person,
+
+(*e*) make provision for the consultation by the Child and Family Agency with a child for the purpose of ascertaining his or her views and for the procedures relating thereto, including procedures relating to the preparation and submission of any written reports arising from such consultation to the Authority or the court, as the case may be,
+
+(*f*) prescribe the standards to be applied by an appropriate person to the performance by the person of his or her functions under this section,
+
+(*g*) prescribe the allowable expenses that may be charged by an appropriate person referred to in *paragraph (c)(i)* and the fees and allowable expenses that may be charged by an appropriate person referred to in *paragraph (c)(ii)*,
+
+(*h*) make provision for such other matters as the Minister considers necessary to ensure that appropriate persons are capable of performing their functions under this section.
+
+(5) Regulations under this section may—
+
+(*a*) make different provision in relation to—
+
+(i) children of different ages and maturity, or
+
+(ii) different classes of appropriate persons,
+
+and
+
+(*b*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 9, S.I. No. 443 of 2017.
+
+#### 20. Authority’s power to make adoption order or recognise intercountry adoption effected outside State.
+
+**20**.— (1) On the application of a person, or persons if they are F22[a married couple, a couple who are civil partners of each other or a cohabiting couple], desiring to adopt a child, the Authority may make an adoption order for the adoption of the child by the applicant or applicants, as the case may be.
+
+(2) On the application of the adopters of a child adopted in an intercountry adoption effected outside the State, the Authority may recognise the intercountry adoption effected outside the State.
+
+(3) Where the applicants are F22[a married couple, a couple who are civil partners of each other or a cohabiting couple]—
+
+(*a*) the adoption order shall be for the adoption of the child by them jointly, or
+
+(*b*) the recognition referred to in *subsection (2)* shall be for the recognition of the intercountry adoption effected outside the State of the child by them jointly.
+
+(4) In making an adoption order, the Authority is required to take into account—
+
+(*a*) the relevant assessment report prepared under *section 37*, and
+
+(*b*) the relevant declaration of eligibility and suitability if one has been issued under *section 40.*
+
+(5) In recognising an intercountry adoption effected outside the State, the Authority may take into account—
+
+(*a*) the relevant instrument prepared by or on behalf of the Central Authority of that other state that is the equivalent of the assessment report referred to in *subsection (4)(a),* and
+
+(*b*) the relevant instrument prepared by or on behalf of the Central Authority of that other state that is the equivalent of a declaration of eligibility and suitability.
+
+(6) Where an application is made to the Authority under this section, the Authority, of its own motion or on the application of an interested person, may adjourn from time to time the making of a decision whether to make or refuse to make the adoption order or to recognise the intercountry adoption effected outside the State, as the case may be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 10, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 110, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 21. Discontinuance of proceedings for adoption order or for recognition of intercountry adoption effected outside State.
+
+**21**.— (1) By notice delivered to the F23[Child and Family Agency] at any time after an application under *section 20*, the applicant or applicants may discontinue the proceedings that are the subject of that application, without liability for any costs of the proceedings.
+
+F24[(2) The Child and Family Agency shall, as soon as practicable after receipt of notice under *subsection (1)*, give notice of the discontinuance to—
+
+(*a*) the Authority,
+
+(*b*) any adoption committee concerned,
+
+(*c*) the mother and any other guardians of the child, and
+
+(*d*) each relevant non-guardian of the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F24: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 11, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E22: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s.111, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+>
+> E23: Previous affecting provision: subs. (2) amended (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013; substituted as per F-note above.
+
+#### 22. Contribution by F25[Child and Family Agency] towards adoption expenses.
+
+**22**.— The F25[Child and Family Agency], at its discretion, may contribute towards the expenses incurred by any person in connection with an application under *section 20* in relation to a child towards whose support that body is entitled to contribute.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+#### 23. Children who may be adopted.
+
+F26[**23.**— (1) The Authority shall not make an adoption order in respect of a child unless—
+
+(*a*) the child—
+
+(i) resides in the State, and
+
+(ii) is, at the date of the making of the adoption order, less than 18 years of age,
+
+and
+
+(*b*) the child has—
+
+(i) in a case where the applicant is a step parent of the child, a home with the child’s parent and that step parent, for a continuous period of not less than 2 years at the date of the application for the adoption order, or
+
+(ii) in any other case, been in the care of the applicants for the prescribed period (if any).
+
+(2) The Authority, having regard to the particular circumstances of the case, may make an adoption order in respect of a child notwithstanding that the child has not—
+
+(*a*) in a case where the applicant is a step parent of the child, a home with the child’s parent and that step parent, for a continuous period of not less than 2 years at the date of the application for the adoption order, or
+
+(*b*) in any other case, been in the care of the applicants for the prescribed period under *subsection (1)(b)(ii)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 12, S.I. No. 443 of 2017.
+
+#### 24. Exception if child older than 7 years.
+
+**24**.— F27[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(1), S.I. No. 443 of 2017.
+
+#### 25. Correction of adoption order.
+
+**25**.— The Authority, of its own motion or on the application of an interested person, may amend an adoption order by correcting any error in the particulars contained in it.
+
+### Chapter 2 Consents to Adoption Orders — Chapter 2 — Consents to Adoption Orders
+
+#### 26. Consents to adoption orders.
+
+**26**.— (1) The Authority shall not make an adoption order without the consent of every person, being the child’s mother or guardian or other person having charge of or control over the child, unless the Authority dispenses with the consent—
+
+(*a*) with the sanction of the High Court if the person whose consent is necessary is a ward of court,
+
+(*b*) in accordance with an authorisation of the High Court by order under this section, if—
+
+(i) the person whose consent is necessary is not a ward of court, and
+
+(ii) the High Court is satisfied that the person is incapable by reason of mental infirmity of giving consent or cannot be found,
+
+(*c*) in accordance with an authorisation of the High Court by order under *section 31* in a case to which that section applies, or
+
+(*d*) in accordance with an authorisation of the High Court by order under *section 54* in a case to which that section applies.
+
+(2) A person may give consent to the making of an adoption order without knowing the identity of the applicant for the order.
+
+(3) A consent shall be given in writing in the prescribed form.
+
+(4) A consent may be withdrawn at any time before the making of an adoption order.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subs. (3) exercised (27.11.2017) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2017* (S.I. No. 535 of 2017), in effect as per reg. 2.
+>
+> E25: Previous affecting provision: forms prescribed for purposes of section (2.11.2010) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2010* (S.I. No. 519 of 2010), reg. 3 and sch., in effect as per reg. 2; revoked (27.11.2017) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2017* (S.I. No. 535 of 2017), reg. 4, in effect as per reg. 2.
+
+#### 27. Information for persons about consenting to adoption orders.
+
+**27**.— (1) A person whose consent to the making of an adoption order is necessary—
+
+(*a*) shall be informed before he or she gives the consent or as soon as may be after giving it—
+
+(i) that the consent may be withdrawn at any time before the making of the order,
+
+(ii) that he or she is entitled to be heard on the application for the order, and
+
+(iii) of the discretion of the High Court under *subsection (3)* of *section 31*, despite a subsequent withdrawal of the consent, to authorise the Authority to dispense with the consent in accordance with that section,
+
+and
+
+(*b*) shall be asked, on or after giving the consent, to state in writing whether he or she wishes—
+
+(i) to be informed of the date on which the Authority, if the person wishes to be heard, will hear the person or his or her counsel or solicitor on the application for the order, or
+
+(ii) otherwise to be consulted again in relation to the application for the order.
+
+(2) If a person whose consent to the making of an adoption order is necessary states that he or she does not wish to be—
+
+(*a*) informed as set out in *subsection (1)(b)(i)*, or
+
+(*b*) otherwise to be consulted again as set out in *subsection (1)(b)(ii)*,
+
+it is not necessary so to inform or consult him or her.
+
+(3) If the person does not so state, he or she shall be both informed and consulted in accordance with *subparagraphs (i)* and *(ii)* of *subsection (1)(b)*, unless he or she cannot be found, in which case the Authority is required to deal with the application as if the person had not given the consent.
+
+#### 28. Validity of consent.
+
+**28**.— (1) A consent to the making of an adoption order is not valid unless given—
+
+(*a*) after the child concerned has attained the age of 6 weeks, and
+
+(*b*) not earlier than 3 months before the application for adoption.
+
+(2) The Authority shall satisfy itself that every person whose consent to the making of an adoption order is necessary and has not been dispensed with—
+
+(*a*) has given the consent, and
+
+(*b*) understands the nature and effect of the consent and of the adoption order.
+
+#### 29. Enquiries on behalf of Authority.
+
+**29**.— (1) For the purposes of *sections 27* and *28*, the Authority may request and authorise any person either in or outside the State whom the Authority considers suitable for the purpose to—
+
+(*a*) make enquiries on its behalf, and
+
+(*b*) report to it the results of the enquiries.
+
+(2) The Authority is entitled, if it accepts the report as satisfactory, to regard that acceptance—
+
+(*a*) as sufficiently demonstrating the Authority’s compliance with *section 27* as to the subject matter of the enquiries, and
+
+(*b*) as compliance by the Authority with *section 28 (2)*.
+
+#### 30. Consultation with father.
+
+F28[**30.**— (1) In this section “father”, in relation to a child, includes a person who believes himself to be the father of the child.
+
+(2) Subject to this section, on the receipt of an application for an adoption order, the Authority shall take such steps as are reasonably practicable to ensure that every relevant non-guardian of the child is consulted in relation to the adoption.
+
+(3) Where the Authority is satisfied that, having regard to—
+
+(*a*) the nature of the relationship between the relevant non-guardian of a child and the mother or guardian of the child, or
+
+(*b*) other than in a case where the relevant non-guardian of the child is a person referred to in *paragraph (b), (c)* or *(d)* of the definition of “relevant non-guardian”, the circumstances of the conception of the child,
+
+it would be inappropriate for the Authority to consult the relevant non- guardian in respect of the adoption of that child, the Authority may, after first obtaining the approval of the High Court, make the adoption order without consulting the relevant non-guardian concerned.
+
+(4) If the identity of the father referred to in *paragraph (a)* of the definition of “relevant non-guardian” (in this section referred to as “that father”), is unknown to the Authority and the mother or guardian of the child will not or is unable to disclose the identity of that father, the Authority shall counsel the mother or guardian of the child, indicating—
+
+(*a*) that the adoption may be delayed,
+
+(*b*) the possibility of that father of the child contesting the adoption at some later date,
+
+(*c*) that the absence of information about the medical, genetic and social background of the child may be detrimental to the health, development or welfare of the child, and
+
+(*d*) such other matters as the Authority considers appropriate in the circumstances.
+
+(5) After counselling the mother or guardian of the child under *subsection (4)*, the Authority may, after first obtaining the approval of the High Court, make the adoption order without consulting that father if—
+
+(*a*) the mother or guardian of the child either refuses to reveal the identity of that father of the child, or provides the Authority with a statutory declaration that he or she is unable to identify that father, and
+
+(*b*) the Authority has no other practical means of ascertaining the identity of that father.
+
+(6) The Child and Family Agency or an accredited body, at the Authority’s request, shall assist in carrying out the Authority’s functions under this section.
+
+(7) An application for approval under this section shall be heard in private.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 13, S.I. No. 443 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 112, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+>
+> E27: Previous affecting provision: subs. (8) inserted (3.02.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 566 of 2013; substituted as per F-note above.
+
+#### 31. High Court may give custody of child to prospective adopters and authorise dispensing with consent to adoption.
+
+F29[**31.** (1) In this section “applicants” means the person or persons referred to in *subsection (2)(a)*.
+
+(2) Where—
+
+(*a*) a person has or persons have applied for an adoption order, and
+
+(*b*) a person whose consent to the making of the adoption order is necessary under *section 26*, and who has agreed to the placing of the child concerned for adoption either—
+
+(i) fails, neglects or refuses to give his or her consent to the adoption, or
+
+(ii) having previously consented to the adoption, withdraws his or her consent,
+
+the applicants for the adoption order may apply to the High Court for an order under *subsection (3)*.
+
+(3) Subject to *subsections (4)* and *(5)*, the High Court may make an order—
+
+(*a*) giving custody of the child to the applicants for a specified period, and
+
+(*b*) authorising the Authority to dispense with the consent of any person whose consent to the making of the adoption order is necessary under *section 26* to the adoption of the child by the applicants, with the adoption to be effected by an adoption order made during that specified period of custody.
+
+(4) In considering any application under *subsection (2)*, the High Court shall—
+
+(*a*) have regard to the following:
+
+(i) the relationship between the applicants and the child who is the subject of the application;
+
+(ii) the relationship between the child and his or her mother or guardian, as the case may be, and the efforts made by any of those persons to develop or maintain a relationship with the child;
+
+(iii) the proposed arrangements of the applicants and the mother or guardian or other person whose consent to the making of the adoption order is necessary under *section 26*, as the case may be, for the future care of the child;
+
+(iv) the rights, whether under the Constitution or otherwise, of the persons concerned (including the natural and imprescriptible rights of the child);
+
+(v) any other matter which the Court considers relevant to the application,
+
+and
+
+(*b*) in so far as is practicable, in a case where the child concerned is capable of forming his or her own views, give due weight to the views of that child, having regard to the age and maturity of the child,
+
+and, in the resolution of any such application, the best interests of the child shall be the paramount consideration.
+
+(5) If a person whose consent is necessary under *section 26* is a ward of court, his or her consent shall not be dispensed with, pursuant to an order under this section, except with the sanction of the court which granted the order for wardship.
+
+(6) Proceedings under this section shall be heard in private.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 14, S.I. No. 443 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+>
+> **Editorial Notes:**
+>
+> E28: Previous affecting provision: subs. (5) inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 12, S.I. No. 5 of 2014; substituted as per F-note above.
+>
+> E29: Previous affecting provision: application of subs. (5) restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40; amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31(a), S.I. No. 274 of 2008; and amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2017), s. 2(2), S.I. No. 334 of 2014; substituted as per F-note above.
+
+#### 32. Religion.
+
+F30[**32.** Notwithstanding *section 20*, in a case where—
+
+(*a*) the applicant or applicants, as the case may be,
+
+(*b*) the child, and
+
+(*c*) every person whose consent to the making of an adoption order is necessary under *section 26*,
+
+are not all of the same religion (if of any religion), the Authority shall not make an adoption order unless every person whose consent to the making of an adoption order is necessary under *section 26* knows, when so consenting, the religion (if any) of the applicant or each of the applicants, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 15, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 113, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### Chapter 3 Eligibility and Suitability to Adopt — Chapter 3 — Eligibility and Suitability to Adopt
+
+#### 33. Persons eligible for adoption order or recognition of intercountry adoption effected outside State.
+
+**33**.— (1) (*a*) The Authority shall not make an adoption order, or recognise an intercountry adoption effected outside the State, unless—
+
+(i) the applicants are a married couple who are living together,
+
+F31[(ia) the applicants are civil partners of each other who are living together,
+
+(ib) the applicants are a cohabiting couple,]
+
+F32[(ii) the applicant is a parent, step parent or relative of the child, or]
+
+(iii) the applicant, notwithstanding that he or she does not fall within *subparagraph (ii)*, satisfies the Authority that, in the particular circumstances, the adoption is desirable and in the best interests of the child.
+
+(*b*) Notwithstanding *paragraph (a)*, the Authority may recognise an intercountry adoption effected outside the State on the application of a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*.
+
+(2) Except as provided in *subsection (1)(a)*, the Authority shall not make an adoption order, or recognise an intercountry adoption effected outside the State, for the adoption of a child by more than one person.
+
+(3) Where an applicant for an adoption order is married, or an applicant, other than an applicant who is a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*, for the recognition of an intercountry adoption effected outside the State is married, the Authority shall not make the adoption order, or recognise the intercountry adoption effected outside the State, without the consent of the applicant’s spouse, given in the manner determined by the Authority, unless—
+
+(*a*) the couple are living apart under—
+
+(i) a decree of judicial separation under section 3 of the Judicial Separation and Family Law Reform Act 1989,
+
+(ii) a decree or order to like effect that was granted under the law of another jurisdiction and that is recognised in the State, or
+
+(iii) a deed of separation,
+
+(*b*) the spouse has deserted the applicant, or
+
+(*c*) conduct on the part of the spouse results in the applicant, with just cause, separating from the spouse and living apart from him or her.
+
+F33[(3A) Where an applicant—
+
+(*a*) for an adoption order, or
+
+(*b*) for the recognition of an intercountry adoption effected outside the State, other than an applicant who is a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*,
+
+is a civil partner of another person who is not an applicant, the Authority shall not make the adoption order, or recognise the intercountry adoption effected outside the State, without the consent of that applicant’s civil partner, given in the manner determined by the Authority unless—
+
+(i) the applicant and the applicant’s civil partner are living apart under a separation agreement,
+
+(ii) the civil partner has deserted the applicant, or
+
+(iii) conduct on the part of the civil partner results in the applicant, with just cause, leaving the civil partner and living separately and apart from him or her.
+
+(3B) Where an applicant—
+
+(*a*) for an adoption order, or
+
+(*b*) for the recognition of an intercountry adoption effected outside the State, other than an applicant who is a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*,
+
+is a cohabitant of another person who is not an applicant, the Authority shall not make the adoption order, or recognise the intercountry adoption effected outside the State, without the consent of that other person given in the manner determined by the Authority.]
+
+(4) The Authority shall not make an adoption order or, except where the applicant is a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*, recognise an intercountry adoption effected outside the State, unless—
+
+(*a*) the applicant and, if the applicants are F34[a married couple, a couple who are civil partners of each other or a cohabiting couple], each of them has attained the age of 21 years, or
+
+(*b*) the applicants are F35[a married couple, a couple who are civil partners of each other or a cohabiting couple] and one of them is F35[a parent] or a relative of the child and either of them has attained the age of 21 years.
+
+(5) Subject to *subsection (6)* and *section 81*, the Authority shall not make an adoption order unless the applicant or, if the applicants are F36[a married couple living together, a couple who are civil partners of each other living together or a cohabiting couple], each of them, is habitually resident in the State.
+
+(6) *Subsection (5)* does not prevent the Authority, for the purpose of an intercountry adoption effected in the State, from making an adoption order in favour of an applicant who, or, if the applicants are F37[a married couple living together, a couple who are civil partners of each other living together or a cohabiting couple], each of whom, is habitually resident in—
+
+(*a*) another contracting state,
+
+(*b*) a state that has a bilateral agreement with the State, or
+
+(*c*) a state that has an arrangement referred to in *section 81* with the State.
+
+(7) The Authority shall issue policy guidelines respecting the circumstances in which an adoption order in favour of an applicant referred to in *subsection (1)(a)(iii)* may be made.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(a)(i), S.I. No. 443 of 2017.
+>
+> F32: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(a)(ii), S.I. No. 443 of 2017.
+>
+> F33: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(b), S.I. No. 443 of 2017.
+>
+> F34: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(c)(i), S.I. No. 443 of 2017.
+>
+> F35: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(c)(ii), S.I. No. 443 of 2017.
+>
+> F36: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(d), S.I. No. 443 of 2017.
+>
+> F37: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 16(e), S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 114, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 34. Persons suitable for adoption order or recognition of intercountry adoption effected outside State.
+
+**34**.— The Authority shall not make an adoption order or, except where the applicant is a person referred to in *paragraph (a)* or *(c)* of *section 90(3)*, recognise an intercountry adoption, unless the Authority is satisfied that the applicant or, if the applicants are F38[a married couple living together, a couple who are civil partners of each other living together or a cohabiting couple], each of them—
+
+(*a*) is a suitable person to have parental rights and duties in respect of the child, and
+
+(*b*) without prejudice to the generality of *paragraph (a)*, is of good moral character, in good health and of an age so that he or she has a reasonable expectation of being capable throughout the child’s childhood of—
+
+(i) fulfilling his or her parental duties in respect of the child,
+
+(ii) promoting and supporting the child’s development and well-being,
+
+(iii) safeguarding and supporting the child’s welfare,
+
+(iv) providing the necessary health, social, educational and other interventions for the child, and
+
+(v) valuing and supporting the child’s needs in relation to his or her—
+
+(I) identity, and
+
+(II) ethnic, religious and cultural background,
+
+(*c*) has adequate financial means to support the child, and
+
+(*d*) has been provided with appropriate information, advice and counselling concerning adoption.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 17, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 115, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### Chapter 4 Adoption Committees — Chapter 4 — Adoption Committees
+
+#### 35. Applicants defined.
+
+**35**.— In *sections 36* to *39*, “applicants” means persons who apply to the F39[Child and Family Agency] under *section 37(1)*, and, if there is only one applicant, means that applicant.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+#### 36. Adoption committees of F40[Child and Family Agency].
+
+**36**.— (1) The F40[Child and Family Agency] shall establish one or more adoption committees.
+
+(2) The functions of an adoption committee are—
+
+(*a*) to advise and assist the Authority in the performance of its functions under this Act and section 6 of the Child Care Act 1991, and
+
+(*b*) to make recommendations to the Authority under *section 39* concerning the issuance to applicants of declarations of eligibility and suitability.
+
+(3) The membership of an adoption committee may include persons who are not employees of the F40[Child and Family Agency] but have special knowledge and experience related to the purposes of the committee.
+
+(4) The F40[Child and Family Agency] may make payments to a member of an adoption committee in respect of travelling and subsistence expenses incurred by the member in relation to the business of the committee.
+
+(5) Payments made under this section shall be in accordance with a scale determined by the Minister with the consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+### Chapter 5 Application by Prospective Adopters for Declaration of Eligibility and Suitability — Chapter 5 — Application by Prospective Adopters for Declaration of Eligibility and Suitability
+
+#### 37. Application to F41[Child and Family Agency] for Authority to issue declaration of eligibility and suitability.
+
+**37**.— (1) F42[A person habitually resident in the State, a step parent, a married couple married to each other, a couple who are civil partners of each other or a cohabiting couple], each of whom is habitually resident in the State, may apply to the F41[Child and Family Agency] for—
+
+(*a*) an assessment of eligibility and suitability in relation to himself, herself or themselves, and
+
+(*b*) the issuance by the Authority of a declaration of eligibility and suitability in accordance with that assessment.
+
+(2) An application under *subsection (1)* shall—
+
+(*a*) be made in writing addressed to an office of the F41[Child and Family Agency],
+
+(*b*) be made in conjunction with a separate application under this Act by the applicants for an adoption order or the recognition of an intercountry adoption including in the circumstances discussed in *section 81*, and
+
+(*c*) specify which state is the habitual residence of the child the applicants propose to adopt under their separate application referred to in *paragraph (b)*.
+
+(3) As soon as practicable after the F41[Child and Family Agency] receives an application under *subsection (1)*, the F41[Child and Family Agency] shall take the following steps concerning the adoption proposed under the separate application referred to in *subsection (2)(b)* or arrange for the steps to be taken by an accredited body:
+
+(*a*) providing information, advice and counselling to the applicants;
+
+(*b*) carrying out an assessment of eligibility and suitability in relation to the applicants;
+
+(*c*) preparing an assessment report that conforms to paragraph (1) of Article 15 (which relates to reports by Central Authorities of receiving states) and that includes—
+
+(i) the information described in Article 15, and
+
+(ii) a finding as to the eligibility and suitability of the applicants.
+
+(4) As soon as practicable after preparing the assessment report referred to in *subsection (3)(c)*, the F41[Child and Family Agency] shall refer the report to an adoption committee for the latter’s recommendation to the Authority under *section 39(1)*.
+
+F43[(5) A person may make an application for an adoption order in respect of a child where, at the date of the application—
+
+(*a*) the person is—
+
+(i) a spouse of a parent of the child,
+
+(ii) a civil partner of a parent of the child, or
+
+(iii) a cohabitant in a cohabiting couple where the other cohabitant is a parent of the child,
+
+and
+
+(*b*) the child, in respect of whom the adoption order is sought, has a home with the child’s parent and that person (in this Act referred to as a “step parent”), for a continuous period of not less than 2 years.
+
+(6) The Authority, having regard to the particular circumstances of the case may accept an application for an adoption order in respect of a child notwithstanding that the child has not a home with the child’s parent and that step parent, for a continuous period of not less than 2 years at the date of the application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F42: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 18(a), S.I. No. 443 of 2017.
+>
+> F43: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 18(b), S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E33: Child and Family Agency empowered to make regulations specifying charges in relation to services provided under section (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 95(1)(b), S.I. No. 502 of 2013.
+>
+> E34: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 116, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 38. Discontinuance by applicants of proceedings for issuance of declaration of eligibility and suitability.
+
+**38**.— (1) By notice delivered to the F44[Child and Family Agency] at any time after an application under *section 37(1)*, the applicants may discontinue the proceedings that are the subject of that application, without liability for any costs of the proceedings.
+
+F45[(2) The Child and Family Agency shall, as soon as practicable after receipt of notice under *subsection (1)*, give notice of the discontinuance to—
+
+(*a*) the Authority,
+
+(*b*) any adoption committee concerned,
+
+(*c*) the mother and any other guardian of the child, and
+
+(*d*) each relevant non-guardian of the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F45: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 19, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E35: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 117, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 39. Recommendation of adoption committee regarding issuance of declaration of eligibility and suitability.
+
+**39**.— (1) As soon as practicable after the receipt of the assessment report referred to it under *section 37(4)*, the adoption committee shall—
+
+(*a*) consider the report, and
+
+(*b*) recommend to the Authority, in writing, whether or not, under *section 40*, the Authority should issue a declaration of eligibility and suitability in favour of the applicants.
+
+(2) A recommendation under *subsection (1)* shall contain the committee’s reasons for it.
+
+(3) The committee shall deliver a copy of the recommendation and of the assessment report to the Authority, the F46[Child and Family Agency] and the applicants.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+### Chapter 6 Authoritys Power to Issue Declarations of Eligibility and Suitability to Prospective Adopters — Chapter 6 — Authority’s Power to Issue Declarations of Eligibility and Suitability to Prospective Adopters
+
+#### 40. Authority may issue declaration of eligibility and suitability.
+
+**40**.— (1) The Authority may issue a declaration of eligibility and suitability in favour of F47[a person, a married couple married to each other, a couple who are civil partners of each other or a cohabiting couple] who have applied under this Act to the Authority for, as may be appropriate, an adoption order, or the recognition of an intercountry adoption, in relation to a child habitually resident—
+
+(*a*) in the State (a domestic adoption),
+
+(*b*) in another contracting state (an intercountry adoption),
+
+(*c*) in a state that has a bilateral agreement with the State (an intercountry adoption), or
+
+(*d*) in the circumstances described in *section 81* (an adoption in an exceptional case), in a non-contracting state that is not a party to a bilateral agreement.
+
+(2) A declaration of eligibility and suitability may be issued only if, having considered both the assessment report prepared under *section 37* and the adoption committee’s recommendation under *section 39*, the Authority is satisfied—
+
+(*a*) that the applicant or, in the case of applicants who are F47[a married couple living together, a couple who are civil partners of each other living together or a cohabiting couple], each of them comes within the classes of persons in whose favour an adoption order may, by virtue of *section 33*, be made or an intercountry adoption may, by virtue of that section, be recognised, and
+
+(*b*) as to the matters specified in *section 34* in relation to the applicant or, in the case of applicants who are a married couple living together, each of them.
+
+(3) When issuing a declaration of eligibility and suitability, the Authority may include in it a statement relating to the age or state of health of a child whom the Authority considers that the applicant or applicants are suited to parent.
+
+(4) If the Authority is not satisfied as to the matters referred to in *subsection (2)*, it may refuse to issue a declaration of eligibility and suitability in favour of F47[the person, married couple, civil partners or cohabiting couple] referred to in *subsection (1)*, having first given him, her or them an opportunity to be heard.
+
+(5) A declaration of eligibility and suitability is not to be issued or refused if the Authority has received an applicable notice of discontinuance under *section 21* or *38.*
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 20, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 118, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 41. Expiration of declaration of eligibility and suitability.
+
+**41**.— (1) A declaration of eligibility and suitability expires after—
+
+(*a*) 24 months from the date of issuance of the declaration, or
+
+(*b*) a further period of not more than 12 months that the Authority may specify on application made to the Authority by the F48[person, married couple, civil partners or cohabiting couple] concerned within those 24 months.
+
+(2) Notwithstanding *subsection (1)*, if—
+
+(*a*) during the 24 months referred to in that subsection, together with the further period, if any, specified by the Authority under that subsection, and
+
+(*b*) before the making of an adoption order, or the recognition of an intercountry adoption, for which the declaration referred to in that subsection was issued,
+
+new information about the applicant’s or applicants’ eligibility and suitability to adopt has become available or there has been a change in the relevant circumstances, the Authority, after—
+
+(i) reconsidering the declaration of eligibility and suitability, and
+
+(ii) giving the F48[person, married couple, civil partners or cohabiting couple] concerned, an opportunity to be heard,
+
+may either—
+
+(I) amend the declaration of eligibility and suitability by attaching specified conditions to it, including but not limited to a condition that the eligibility and suitability of the F48[person, married couple, civil partners or cohabiting couple] be reconsidered at a hearing before the Authority, or
+
+(II) withdraw the declaration if the Authority considers that it would not be proper, having regard to this Act, to make the adoption order or recognise the intercountry adoption.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 21, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 119, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 42. Proof of declaration of eligibility and suitability.
+
+**42**.— A document purporting to be—
+
+(*a*) a copy of or extract from a declaration of eligibility and suitability, and
+
+(*b*) certified by an officer of the Authority to be a true copy of or extract from the declaration,
+
+shall—
+
+(i) be received in evidence in any legal proceedings, and
+
+(ii) until the contrary is proved, be deemed to be a true copy of or extract from the declaration and to be evidence of such declaration,
+
+without proof of the signature of the officer of the Authority.
+
+## PART 5 Adoption Proceedings Before the Authority — PART 5 — Adoption Proceedings Before the Authority
+
+### 43. Hearing of applications.
+
+**43**.— (1) The following persons are entitled to be heard on an application for an adoption order:
+
+(*a*) the applicant;
+
+(*b*) the child;
+
+(*c*) the mother of the child;
+
+(*d*) the father of the child or the person who believes himself to be the father;
+
+F49[(*da*) any other relevant non-guardian of the child;]
+
+F50[(*e*) any guardian of the child;]
+
+(*f*) the person who immediately before the placing of the child for adoption had charge of or control over the child;
+
+(*g*) a relative of the child;
+
+(*h*) a representative of—
+
+(i) an accredited body, or
+
+(ii) the F51[Child and Family Agency],
+
+which is or has been at any time concerned with the child;
+
+(*i*) an employee of the Authority;
+
+(*j*) another person whom the Authority, in its discretion, decides to hear.
+
+(2) A person who is entitled to be heard may be represented by counsel or a solicitor.
+
+(3) The Authority, of its own initiative or on the application of an interested person, may hear the application wholly or partly in private.
+
+(4) Where the Authority has notice of proceedings pending in any court in regard to the custody of a child in respect of whom an application is before the Authority, the Authority shall make no order in the matter until the proceedings have been disposed of.
+
+(5) For the purposes of *section 53*, a reference to a person in *paragraph (c)* or *(d)* of *subsection (1)* of this section shall be read in so far as it applies to a child in respect of whom an adoption order is in force or who is the subject of an intercountry adoption effected outside the State that has been recognised under this Act, as a reference to the adopters or the surviving adopter under the order or intercountry adoption effected outside the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 22(a), S.I. No. 443 of 2017.
+>
+> F50: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 22(b), S.I. No. 443 of 2017.
+>
+> F51: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 21, S.I. No. 502 of 2013.
+>
+> **Editorial Notes:**
+>
+> E38: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 120, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 44. Interim orders as to custody in adoption proceedings.
+
+**44**.— (1) In circumstances in which it is lawful to make an adoption order, the Authority, on application for such an order, may—
+
+(*a*) adjourn the application for the adoption order, and
+
+(*b*) make an interim order,
+
+giving custody of the child to the applicant for a probationary period not exceeding 2 years.
+
+(2) The Authority may attach, to the interim order, conditions in regard to the maintenance, education and supervision of the welfare of the child.
+
+(3) After providing an opportunity to be heard to the person who has custody of the child under the interim order, the Authority may revoke the interim order.
+
+(4) The Authority shall revoke the interim order at the request of—
+
+(*a*) the person to whom custody of the child has been given, or
+
+(*b*) the mother or guardian of the child.
+
+(5) A person shall not fail or refuse to comply with a condition of an interim order made under *subsection (1)*.
+
+### 45. Re-adoption.
+
+F52[**45.**— Where a child, in respect of whom an adoption order is in force or an intercountry adoption effected outside the State that has been recognised, is further placed for adoption—
+
+(*a*) a further adoption order may be made in respect of the child, and
+
+(*b*) for the purposes of the order, the child concerned shall be taken to be the lawful child of the adopter or adopters in whose favour the first-mentioned adoption order or intercountry adoption effected outside the State was made or recognised, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 23, S.I. No. 443 of 2017.
+
+### 46. Power to summon witnesses, etc.
+
+**46**.— (1) For the purposes of any proceedings before it under this Act, the Authority may—
+
+(*a*) summon witnesses to attend before it,
+
+(*b*) examine on oath the witnesses attending before it, or
+
+(*c*) require any such witness to produce to the Authority any document in the power or control of the witness.
+
+(2) A witness before the Authority is entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+(3) A person shall not—
+
+(*a*) on being duly summoned as a witness before the Authority, make default in attending, or
+
+(*b*) being in attendance as a witness, refuse to—
+
+(i) take an oath legally required by the Authority to be taken,
+
+(ii) produce any document in the witness’s power or control legally required by the Authority to be produced by the witness, or
+
+(iii) answer any question to which the Authority may legally require an answer.
+
+(4) Where a witness (other than an applicant for an adoption order or for the recognition of an intercountry adoption effected outside the State) attends before the Authority in pursuance of a summons issued on the initiative of the Authority, the Authority, if it thinks fit, may pay to the witness a sum—
+
+(*a*) for expenses incurred by the witness in connection with the attendance, and
+
+(*b*) in accordance with a scale prescribed by the Minister, with the sanction of the Minister for Finance.
+
+### 47. Service of documents.
+
+**47**.— A summons, notice or other document required or authorised by or under this Act to be issued by the Authority to any person may be served by registered post.
+
+### 48. Evidence.
+
+**48**.— The Authority may take evidence orally or on affidavit.
+
+### 49. Case stated for High Court.
+
+**49**.— (1) The Authority may refer any question of law arising on an application for an adoption order or the recognition of an intercountry adoption effected outside the State to the High Court for determination.
+
+(2) Notwithstanding *subsection (1)*, the Authority, unless it considers a question of law arising on an application for an adoption order or the recognition of an intercountry adoption effected outside the State to be frivolous, shall refer the question of law to the High Court for determination if requested to do so by—
+
+(*a*) an applicant for the order or the recognition of the intercountry adoption effected outside the State,
+
+(*b*) the mother or guardian of the child, or
+
+(*c*) any person having charge of or control over the child.
+
+(3) The Authority shall refer any question in relation to public policy arising with respect to entries in the register of intercountry adoptions to the High Court for determination.
+
+(4) Subject to rules of court, a question referred under this section to the High Court may be heard in private.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+
+## PART 6 Related Court Proceedings — PART 6 — Related Court Proceedings
+
+### 50. Relevant adoption not to be declared invalid if declaration not in child’s best interests.
+
+**50**.— (1) A relevant adoption shall not be declared invalid by a court if, after hearing any persons who the court considers ought to be heard, it is satisfied that—
+
+(*a*) the declaration would not be in the best interests of the child concerned, and
+
+(*b*) it would be proper not to make the declaration, having regard to those interests and to the rights under the Constitution of all persons concerned.
+
+(2) A relevant adoption, unless declared invalid by a court, shall be deemed for all purposes to be, and at all times since its making to have been valid.
+
+(3) For the purposes of this section, “relevant adoption” means an adoption order, an intercountry adoption effected outside the State or an entry in the register of intercountry adoptions that relates to an intercountry adoption.
+
+### 51. Orders by court as to custody of children in certain cases.
+
+**51**.— (1) If, in any proceedings, an adoption order is declared invalid by a court and the child concerned is in the custody of—
+
+(*a*) the person or persons in whose favour the adoption order was made, or
+
+(*b*) any other person or persons not being the person or persons who sought the declaration of invalidity,
+
+the court shall not make an order in those proceedings as to the custody of the child except in accordance with *subsection (2)*.
+
+(2) The court may make the order referred to in *subsection (1)*, as to the custody of the child, if—
+
+(*a*) the order is sought in the proceedings referred to in *subsection (1)*, and
+
+(*b*) the court is satisfied that, by reason of—
+
+(i) the fact that any person having custody of the child has been joined in the proceedings, and
+
+(ii) the other circumstances of the case,
+
+it is in the interests of justice that the question of the custody of the child should be determined in those proceedings rather than in separate proceedings.
+
+(3) However, if the court decides, in accordance with *subsection (2)*, to determine the question of the custody of the child, the court shall do so subject to section 3 of the Guardianship of Infants Act 1964.
+
+(4) Notwithstanding *subsection (1)*—
+
+(*a*) the person or persons in whose favour an adoption order is made, or
+
+(*b*) any other person or persons having custody of the adopted child,
+
+shall not, without the consent of the court, be joined or otherwise heard in any proceedings in a court in which the validity of the order is an issue.
+
+(5) In deciding whether to give consent under *subsection (4)*, the court may take into account submissions made to it by the Authority or by any other interested person relating to—
+
+(*a*) the identification, at the time of the submissions, of the person or persons concerned, or
+
+(*b*) any other relevant matter.
+
+## PART 7 Adoption Orders in Exceptional Cases and Role of High Court — PART 7 — Adoption Orders in Exceptional Cases and Role of High Court
+
+### 52. Interpretation (Part ).
+
+**52**.— (1) In this Part, “parents”—
+
+(*a*) includes a surviving parent, and
+
+(*b*) in relation to a child in respect of whom an adoption order is in force or who is the subject of an intercountry adoption effected outside the State that has been recognised, means—
+
+(i) the adopters, or
+
+(ii) the surviving adopter,
+
+under the order.
+
+(2) References in this Part to—
+
+(*a*) persons in whose favour the Authority has made a declaration under *section 53(1)*, or
+
+(*b*) persons applying for an adoption order,
+
+in the case of—
+
+(i) a declaration in favour of one person, or
+
+(ii) an application by one person,
+
+are references to that person.
+
+### 53. Adoption orders in relation to children where High Court order under section 54 applies.
+
+**53**.— (1) The Authority shall adjourn an application for an adoption order made to it and declare that it will make the adoption order if the High Court, by order under *section 54(2)*, authorises it to do so, if—
+
+(*a*) the Authority has heard—
+
+(i) the F53[Child and Family Agency],
+
+(ii) any persons specified in *paragraphs (a)* to *(h)* of *section 43(1)* who wish to be heard, and
+
+(iii) any other person whom the Authority, in its discretion, decides to hear,
+
+(*b*) but for this Part, the Authority would not have power to make the order, and
+
+(*c*) it is satisfied that, if an order of the High Court under *section 54 (2)* were made in favour of the applicants in respect of the child concerned, it would be proper to make the adoption order.
+
+(2) Where—
+
+(*a*) a High Court order is made under *section 54 (2)*, and
+
+F54[*(b)* an appeal against the order—
+
+(i) is not brought or the order is confirmed on appeal by the Court of Appeal, and
+
+(ii) is not brought (whether under Article 34.5.4° or on appeal from a decision of the Court of Appeal) or the order is confirmed on appeal by the Supreme Court,]
+
+then, subject to *subsection (3)*, at the request of the person or persons in whose favour the High Court order was made, the Authority, notwithstanding *section 23*, shall make an adoption order in relation to the child to whom the High Court order applies, in favour of that person or those persons.
+
+(3) The Authority shall not make an adoption order under *subsection (2)* if the Authority is satisfied that the relevant circumstances have so changed since the date of the declaration under *subsection (1)* that it would not be proper, having regard to this Act, to make the adoption order.
+
+(4) *Section 44* does not apply in relation to a request to the Authority for an adoption order under *subsection (2)*.
+
+(5) Where an adoption order is made under *subsection (2)* in relation to a child for whom a previous adoption order has been made, the child shall be taken, for the purposes of the first-mentioned order, to be the lawful child of the adopters under the previous order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F54: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 74(3) and sch. 2, S.I. No. 479 of 2014, in effect as per art. 2(f).
+
+### 54. Orders by High Court authorising Authority to make adoption orders for children whose parents fail in their duty towards them.
+
+**54**.— (1) Where applicants, in whose favour the Authority has made a declaration under *section 53(1)*, request the F55[Child and Family Agency] to apply to the High Court for an order under this section—
+
+F56[(*a*) if the Child and Family Agency is satisfied that every reasonable effort has been made to support the parents of the child to whom the declaration under *section 53(1)* relates,]
+
+(*a*) if the F55[Child and Family Agency] considers it proper to do so and an application in accordance with *paragraph (b)* has not been made by the applicants, the F55[Child and Family Agency] may apply to the High Court for the order, and
+
+(*b*) if, within the period of 3 months from the day on which the request was given, the F55[Child and Family Agency] either—
+
+(i) by notice in writing given to the applicants, declines to accede to the request, or
+
+(ii) does not give the applicants a notice under *subparagraph (i)* of this paragraph in relation to the request but does not make an application under *paragraph (a)* for the order,
+
+the applicants may apply to the High Court for the order.
+
+F57[(2) On an application being made under *paragraph (a)* or *(b)* of *subsection (1)*, the High Court by order may authorise the Authority to make an adoption order in relation to the child in favour of the applicants and to dispense with the consent of any person whose consent is necessary to the making of the adoption order.]
+
+F58[(2A) Before making an order under *subsection (2)*, the High Court shall be satisfied that—
+
+(*a*) for a continuous period of not less than 36 months immediately preceding the time of the making of the application, the parents of the child to whom the declaration under *section 53(1)* relates, have failed in their duty towards the child to such extent that the safety or welfare of the child is likely to be prejudicially affected,
+
+(*b*) there is no reasonable prospect that the parents will be able to care for the child in a manner that will not prejudicially affect his or her safety or welfare,
+
+(*c*) the failure constitutes an abandonment on the part of the parents of all parental rights, whether under the Constitution or otherwise, with respect to the child,
+
+(*d*) by reason of the failure, the State, as guardian of the common good, should supply the place of the parents,
+
+(*e*) the child—
+
+(i) at the time of the making of the application, is in the custody of and has a home with the applicants, and
+
+(ii) for a continuous period of not less than 18 months immediately preceding that time, has been in the custody of and has had a home with the applicants,
+
+and
+
+(*f*) that the adoption of the child by the applicants is a proportionate means by which to supply the place of the parents.]
+
+F59[(3) In considering an application for an order under *subsection (2)*, the High Court shall—
+
+(*a*) have regard to the following:
+
+(i) the rights, whether under the Constitution or otherwise, of the persons concerned (including the natural and imprescriptible rights of the child);
+
+(ii) any other matter which the High Court considers relevant to the application,
+
+and
+
+(*b*) in so far as is practicable, in a case where the child concerned is capable of forming his or her own views, give due weight to the views of that child, having regard to the age and maturity of the child,
+
+and, in the resolution of any such application, the best interests of the child shall be the paramount consideration.]
+
+(4) The High Court, of its own motion or on application to it in that behalf, may make orders—
+
+(*a*) adding other persons as parties to proceedings under this section, and
+
+(*b*) for the payment—
+
+(i) of any costs, in relation to the proceedings, that are incurred by the person and are not paid by another party, if legal aid for the proceedings under any scheme operated by or on behalf of the State for the provision of legal aid has been refused, or
+
+(ii) by the person of any costs in relation to the proceedings that are incurred by any other party.
+
+(5) The F55[Child and Family Agency] shall be joined as a party to proceedings under *subsection (1)(b)*.
+
+(6) Proceedings under this section shall be heard in private.
+
+(7) A request to the F55[Child and Family Agency] under *subsection (1)*—
+
+(*a*) may be given by handing it, or by sending it by prepaid post, to an employee of the F55[Child and Family Agency] at its premises, and
+
+(*b*) for the purposes of *subsection (1)(b)*, is given to the F55[Child and Family Agency] on the day on which it is handed or posted to it.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F56: Inserted (1.02.2018) by *Adoption (Amendment) Act 2017* (19/2017), s. 24(1)(a), S.I. No. 443 of 2017, art. 3(2), subject to transitional provision in subs. (2). The effect of this insertion is that there are two paras. (a) in subs. (1).
+>
+> F57: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 24(1)(b), S.I. No. 443 of 2017, subject to transitional provision in subs. (2).
+>
+> F58: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 24(1)(c), S.I. No. 443 of 2017, subject to transitional provision in subs. (2).
+>
+> F59: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 24(1)(d), S.I. No. 443 of 2017, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+
+### 55. Evidence to High Court.
+
+**55**.— (1) Subject to this section, the High Court shall not make an order under *section 54 (2)* without having heard—
+
+(*a*) the parents concerned (or either of them), and
+
+(*b*) any other persons who, in the opinion of the High Court, ought to be heard by it.
+
+(2) Where the parents concerned (or either of them), having been requested to give evidence to the High Court at the hearing of an application for an order under *section 54(2)*, fail or fails, or refuse or refuses, to do so, the High Court may make the order if it thinks fit, notwithstanding the absence of the evidence of the parents (or either of them).
+
+(3) Where the parents concerned (or either of them) fail or fails, or refuse or refuses, to respond to a request under *subsection (2)*, the failure or refusal may be taken by the High Court, for the purposes of *subsection (2)*, to be a failure or refusal by the parents (or either of them) to give evidence to the High Court at the hearing concerned.
+
+(4) The High Court may make an order under *section 54(2)* if it thinks fit, notwithstanding the absence of the evidence of the parents of the child concerned (or either of them) if—
+
+(*a*) the High Court is satisfied that—
+
+(i) the identity of the parents concerned (or either of them) is not known both to the persons applying for an order under *section 54 (2)* and to the Authority, and
+
+(ii) all appropriate measures have been taken to ascertain that identity, or
+
+(*b*) the High Court is satisfied that—
+
+(i) the whereabouts of the parents concerned (or either of them)—
+
+(I) at the time of the making of the application for the order, and
+
+(II) during the 12 months immediately preceding that time,
+
+are not known to the parties making the application and are not known to the Authority, and
+
+(ii) all appropriate measures have been taken to ascertain those whereabouts.
+
+(5) If the High Court is satisfied that the parents concerned (or either of them) are incapable by reason of mental infirmity of giving reliable evidence to the High Court on the hearing of an application under *paragraph (a)* or *(b)* of *section 54(1)*, the High Court may—
+
+(*a*) dispense with the evidence of the parents (or either of them), and
+
+(*b*) make the order under *section 54(2)* notwithstanding the absence of that evidence.
+
+### 56. Court costs.
+
+**56**.— (1) The F60[Child and Family Agency] shall pay to the parents of the child concerned, in respect of any costs—
+
+(*a*) that are incurred by them in relation to an application under *section 54(1)* or F61[an appeal to the Court of Appeal or the Supreme Court, as the case may be,] against the making of, or the refusal to make, an order under *section 54(2)*,
+
+(*b*) that are not paid by another party to the proceedings, and
+
+(*c*) in relation to which, legal aid under any scheme for the provision of legal aid operated by or on behalf of the State has been refused,
+
+either, as may be specified by the Court—
+
+(i) the whole or a part so specified of those costs, as taxed by a Taxing Master of the High Court, or
+
+(ii) such amount as, in the opinion of the F60[Child and Family Agency] and those parents, would be equal to the amount, as may be specified, of those costs or of a part so specified of them, if they were taxed by a Taxing Master of the High Court.
+
+(2) Where—
+
+(*a*) any costs of another party to the proceedings in relation to the application under *section 54(1)* or the appeal are ordered by F61[the High Court, the Court of Appeal or the Supreme Court] to be paid by the parents of the child concerned, and
+
+(*b*) legal aid in respect of those costs under any scheme for the provision of legal aid operated by or on behalf of the State has been refused,
+
+the F60[Child and Family Agency] shall pay to that other party, in respect of those costs either, as may be specified by the High Court or the Supreme Court—
+
+(i) the whole or a part so specified of those costs, as taxed by a Taxing Master of the High Court, or
+
+(ii) such amount as, in the opinion of the F60[Child and Family Agency] and that other party, would be equal to the amount, as may be so specified, of those costs or of a part so specified of them, if they were taxed by a Taxing Master of the High Court.
+
+(3) Where, on an application under *section 54 (1) (b)*—
+
+(*a*) the High Court makes an order under *section 54 (2)* and either—
+
+F61[(i) an appeal against the order—
+
+(I) is not brought or the order is confirmed on appeal by Court of Appeal, and
+
+(II) is not, brought (whether under Article 34.5.4° or on appeal from a decision of the Court of Appeal) or the order is confirmed on appeal by the Supreme Court, or
+
+(ii) the High Court refuses to make an order under section 54(2) but, following an appeal to the Court of Appeal or the Supreme Court, as the case may be, the order is made, and]
+
+(*b*) legal aid for the persons bringing the application under any scheme operated by or on behalf of the State for the provision of legal aid has been refused,
+
+the F60[Child and Family Agency] shall pay to the persons bringing the application, for any costs incurred by them in relation to—
+
+(i) the application, or
+
+(ii) the application and the appeal,
+
+that are not paid by another party to the proceedings either, F61[as may be specified by the High Court, the Court of Appeal or the Supreme Court]—
+
+(I) the whole or a part so specified of those costs, as taxed by a Taxing Master of the High Court, or
+
+(II) such amount as, in the opinion of the F60[Child and Family Agency] and those persons, would be equal to the amount, as may be specified, of those costs or of a part so specified of them if they were taxed by a Taxing Master of the High Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F61: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 74(3) and sch. 2 item 8, S.I. No. 479 of 2014, in effect as per reg. 2(f).
+
+## PART 8 Effects of Adoption orders and of State Recognition of Intercountry Adoptions — PART 8 — Effects of Adoption orders and of State Recognition of Intercountry Adoptions
+
+### 57. Recognition and effects of intercountry adoption effected outside State.
+
+**57**.— (1) In this section, “competent authority” includes a person serving in another state in the capacity of a competent authority for the purposes of an intercountry adoption effected outside the State.
+
+(2) Subject to *subsections (3)* and *(4)*, an intercountry adoption effected outside the State that—
+
+(*a*) if effected at any time before the establishment day—
+
+(i) is an adoption that, at that time, conformed to the definition of “foreign adoption” in section 1 of the Adoption Act 1991, and
+
+(ii) has been certified under a certificate issued by the competent authority of the state of the adoption as having been effected under and in accordance with the law of that state, or
+
+(*b*) if effected on or after the establishment day, has been certified under a certificate issued by the competent authority of the state of the adoption—
+
+(i) in the case of an adoption referred to in *paragraph (b)* of the definition of “intercountry adoption effected outside the State” in *section 3(1)*, as having been effected by an adopter or adopters who were habitually resident in that state at the time of the adoption under and in accordance with the law of that state, and
+
+(ii) in any other case, as having been effected in accordance with the Hague Convention or with a bilateral agreement or with an arrangement referred to in *section 81*, as the case may be,
+
+unless contrary to public policy, is hereby recognised, and is deemed to have been effected by a valid adoption order made on the later of the following:
+
+(I) the date of the adoption;
+
+(II) the date on which, under *section 90*, the Authority enters particulars of the adoption in the register of intercountry adoptions.
+
+(3) Subject to *subsection (4)*, if an intercountry adoption effected outside the State that, under *subsection (2)*, is recognised and deemed to have been effected by a valid adoption order has the effect in the state of the adoption of terminating a pre-existing legal parent-child relationship, the adoption, as of the date of the deeming under that subsection, has substantially the same effect as an adoption effected by an adoption order.
+
+(4) If an intercountry adoption effected outside the State that, under *subsection (2)* is recognised and deemed to have been effected by a valid adoption order, does not have the effect in the state of the adoption of terminating a pre-existing legal parent-child relationship, the adoption, as of the date of the deeming under that subsection, has the effect, in respect of the child, of making applicable *section 58(a)* but not *section 58(b)*.
+
+### 58. Parental rights and duties.
+
+F62[**58.** Subject to *section 58A*, upon an adoption order being made, or the recognition under this Act of an intercountry adoption effected outside the State—
+
+(*a*) the child concerned shall be considered, with regard to the rights and duties of parents and children in relation to each other as the child of the adopter or adopters, and
+
+(*b*) with respect to the child—
+
+(i) the mother or guardian of the child, and
+
+(ii) every relevant non-guardian of the child,
+
+shall, subject to *section 57*, lose all parental rights and be freed from all parental duties in respect of the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 25, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 121, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 58A. F63[Effect of adoption where adopter is step parent of child]
+
+F63[**58A.**— (1) *Section 58* shall not apply where the adopter of a child is a step parent of the child and, in that case, upon an adoption order being made—
+
+(*a*) the child concerned shall be considered, with regard to the rights and duties of parents and children in relation to each other, as the child of—
+
+(i) the adopter and the adopter’s spouse,
+
+(ii) the adopter and the adopter’s civil partner, or
+
+(iii) the adopter and the adopter’s co-habitant,
+
+and
+
+(*b*) with respect to the child—
+
+(i) the mother or guardian, unless such mother or guardian is a person referred to in *subparagraph (i), (ii)* or *(iii)* of *paragraph (a)*, and
+
+(ii) every relevant non-guardian of the child,
+
+shall, subject to *section 57*, lose all parental rights and shall be freed from all parental duties in respect of that child.
+
+(2) Nothing in this section shall operate to affect the legal parent-child relationship of a person, being a mother or guardian secondly referred to in *paragraph (b) (i)*, with regard to his or her child, who is the subject of the adoption order referred to in *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 26, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E40: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 59. Subsequent marriage of birth parents.
+
+**59**.— (1) Subject to *subsection (2)*—
+
+(*a*) the validity of an adoption order in relation to a child born of parents not married to each other and the provisions of this Act in regard to the effects of the order are not affected by the subsequent marriage of F64[those parents], and
+
+(*b*) the Legitimacy Act 1931 does not apply to the child unless the order is set aside.
+
+(2) *Subsection (1)* does not apply where the child has been adopted by one of his or her F65[parents referred to in *subsection (1)*] and their subsequent marriage to each other would, apart from that subsection, legitimate the child.
+
+(3) In that case, the Legitimacy Act 1931 applies and the adoption order ceases to be in force.
+
+(4) Upon the re-registration of the birth of the child under section 24 of the Civil Registration Act 2004, an tArd-Chláraitheoir shall cancel the entry in the Adopted Children Register concerned and notify the Authority accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 27(a), S.I. No. 443 of 2017.
+>
+> F65: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 27(b), S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E41: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 122, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 60. Property rights.
+
+**60**.— (1) In this section, “property” does not include property subject to an entailed interest under a disposition made before the date of the adoption order or the recognition of an intercountry adoption effected outside the State.
+
+(2) Where, at any time after the making of an adoption order or the recognition of an intercountry adoption effected outside the State, as the case may be, the F66[adopter or adopters], the adopted person or any other person dies intestate in respect of any real or personal property, that property shall devolve in all respects as if the adopted person were—
+
+F67[(*a*) the child of the adopter or adopters]
+
+F68[(*b*) subject to *section 58A*, not the child of any other person.]
+
+(3) In any disposition of real or personal property made, whether by instrument *inter vivos* or by will (including codicil), after the date of an adoption order or the recognition of an intercountry adoption effected outside the State, as the case may be—
+
+(*a*) a reference (whether express or implied) to the child or children of the adopter or adopters shall be read, unless the contrary intention appears, as, or as including, a reference to the adopted person,
+
+(*b*) a reference (whether express or implied) to the child or children of the adopted person’s F69[parent or parents] shall be read, unless the contrary intention appears, as not being, or as not including, a reference to the adopted person, and
+
+F70[(*c*) any reference (whether express or implied) to a person related to the adopted person in any degree shall be read, unless the contrary intention appears, as a reference to the person who would be related to the adopted person in that degree if the adopted person were—
+
+(i) the child of the adopter or adopters, and
+
+(ii) subject to *section 58A*, not the child of any other person.]
+
+(4) For the purposes of—
+
+(*a*) the devolution of any property in accordance with this section, and
+
+(*b*) the construction of any disposition to which *subsection (2)* applies,
+
+an adopted person shall be deemed to be related to any other person being the child or adopted child of the adopters or of either of them—
+
+F71[(i) where the adopters are a couple, within the meaning of *subsection (7)* and the other person is the child or adopted child of that couple, both persons, as brother or sister of the whole blood, and]
+
+(ii) in any other case, as brother or sister of the half-blood.
+
+(5) Notwithstanding any rule of law, a disposition made by will or codicil executed before the date of an adoption order or the recognition of an intercountry adoption effected outside the State, as the case may be, shall not be treated for the purposes of this section as made after that date by reason only that the will or codicil is confirmed by a codicil executed after that date.
+
+(6) Where an adoption order is made in respect of a person who had been previously adopted, the previous adoption shall be disregarded for the purposes of this section in relation to—
+
+(*a*) the devolution of any property on the death of a person dying intestate after the date of the subsequent adoption order, and
+
+(*b*) any disposition of property after that date.
+
+F72[(7) In this section references to adopters who are a couple means adopters who are—
+
+(*a*) married to each other,
+
+(*b*) civil partners of each other, or
+
+(*c*) a cohabiting couple,
+
+as the case may be, and any such references shall be construed as including references to adopters who were married to each other, civil partners of each other or living together as a cohabiting couple, as the case may be, at the time the adoption order concerned was made or the intercountry adoption effected outside the State concerned was recognised, as the case may be, but who are no longer married to each other, civil partners of each other or living together as a cohabiting coup le, as the case may be, at the time of the disposition of the property concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(a)(i), S.I. No. 443 of 2017.
+>
+> F67: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(a)(ii), S.I. No. 443 of 2017.
+>
+> F68: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(a)(iii), S.I. No. 443 of 2017.
+>
+> F69: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(b)(i), S.I. No. 443 of 2017.
+>
+> F70: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(b)(ii), S.I. No. 443 of 2017.
+>
+> F71: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(c), S.I. No. 443 of 2017.
+>
+> F72: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 28(d), S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E42: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 123, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 61. Stamp duty on land.
+
+F73[**61.**— For the purposes of the stamp duties chargeable on conveyances or transfers of land, an adopted person, shall, subject to *section 58A*, be regarded as the child of the adopter or adopters and not the child of any other person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 29, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: section substituted by *Children and Family Relationships Act 2015* (9/2015), s. 124, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 62. Orders to make payment for benefit of child.
+
+**62**.— Where an adoption order is made under this Act, then—
+
+(*a*) any order under which F74[a parent] of the child is required to make payments specifically for the benefit of the child, and
+
+(*b*) any agreement whereby F74[a parent] of the child has undertaken to make payments specifically for the benefit of the child,
+
+ceases to have effect, but without prejudice to the recovery of any arrears due under the order or agreement at the date of the adoption order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 30, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E44: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 125, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+### 63. Transitional — foreign adoptions in process immediately before establishment day.
+
+**63**.— (1) In this section, “foreign adoption” means a foreign adoption within the meaning of section 1 of the Adoption Act 1991.
+
+(2) If, immediately before the establishment day, a foreign adoption described in the Adoption Act 1991 is not yet effected but is still in process as provided for under that Act—
+
+(*a*) if the persons who applied under the Adoption Act 1991 had been issued with a declaration of eligibility and suitability before the establishment day, the adoption may proceed under this Act as if—
+
+(i) it were commenced under this Act and the date of the issue of the declaration were that day,
+
+(ii) the persons had applied under section 37 of this Act, and
+
+(iii) section 40(1)(*b*) of this Act read “in another contracting state or a state that, in the opinion of the Authority, applied standards regarding the adoption concerned that accord with those in the Hague Convention”,
+
+and
+
+(*b*) in any other case,
+
+the adoption may proceed under this Act as if it were commenced under this Act.
+
+### 63A. Continuation in force of certain declarations of eligibility and suitability
+
+F75[**63A.**— (1) A declaration of eligibility and suitability to which *section 63(2)(a)* applies and which—
+
+(*a*) was in force on the relevant date, and
+
+(*b*) specified the Russian Federation as the state to which the declaration applied,
+
+shall be deemed to have remained in force during the period commencing on the relevant date and ending on the day immediately preceding the passing of the Adoption (Amendment) Act 2013 and shall, subject to this Act, continue in force from such passing until 31 October 2014.
+
+(2) A declaration of eligibility and suitability which continues in force by virtue of *subsection (1)* shall not be amended under *section 41(2)* to specify any state other than the Russian Federation as the state to which the declaration applies.
+
+(3) In this section "relevant date" means, in relation to a declaration of eligibility and suitability, 31 October 2013.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Inserted (20.12.2013) by *Adoption (Amendment) Act 2013* (44/2013), s. 1, commenced on enactment.
+
+## PART 9 Intercountry Adoptions — PART 9 — Intercountry Adoptions
+
+### Chapter 1 Provisions Relating Generally to Intercountry Adoptions — Chapter 1 — Provisions Relating Generally to Intercountry Adoptions
+
+#### 64. Competent authority.
+
+**64**.— The Authority is the competent authority in the State for the purposes of the Hague Convention.
+
+#### 65. Competent authority for certifying that adoptions accord with Hague Convention.
+
+**65**.— Without prejudice to the generality of *section 64*, the Authority is the competent authority for the purpose of certifying—
+
+(*a*) under Article 23 (which relates to the recognition of an adoption certified by the competent authority of the state of adoption), adoptions effected in the State in accordance with the Hague Convention, and
+
+(*b*) under Article 27 (which relates to conversion of adoptions in the state of origin into adoptions terminating pre-existing legal parent-child relationships), the conversion of adoptions recognised in the State.
+
+#### 66. Role of Authority as Central Authority.
+
+**66**.— (1) The Authority is designated as the Central Authority to perform in the State the functions conferred on the Central Authority under this Act or by virtue of the Hague Convention.
+
+(2) Subject to *subsection (3)* and Article 22 (which relates to the performance of Central Authority functions by public authorities), the Authority may delegate in writing one or more of its functions as the Central Authority to the F76[Child and Family Agency] or such accredited bodies as the Authority may specify.
+
+(3) The following functions may not be delegated by the Authority:
+
+(*a*) as the Central Authority of the receiving state—
+
+(i) issuing, in accordance with paragraph (1) of Article 15 (which relates to reports by Central Authorities of receiving states), a declaration of eligibility and suitability as part of the report referred to in that Article, and
+
+(ii) arranging the return of a child under paragraph (1)(*c*) of Article 21 (which relates to measures by the Central Authority for child protection after a child’s transfer to the receiving State)*,* if the child’s interests so require;
+
+(*b*) as the Central Authority of the state of origin—
+
+(i) transmitting to the Central Authority of the receiving state the report referred to in Article 16 (which relates to reports by the Central Authorities of states of origin), proof that the necessary consents have been obtained and the reasons for the Authority’s determination concerning the placement, and
+
+(ii) deciding, in accordance with Article 17 (which relates to when the state of origin may entrust a child to prospective adoptive parents), whether the child should be entrusted to prospective adopters.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 21, S.I. No. 502 of 2013.
+
+#### 67. Procedural arrangements for cases where State is receiving state.
+
+**67**.— (1) For the purposes of the application of the Hague Convention in the State, *subsections (2)* to *(5)* have effect.
+
+(2) For the purpose of Article 14 (which relates to making applications for adoption to the Central Authority), an application to adopt a child habitually resident in another contracting state is made to the Authority (by persons habitually resident in the State) when the application is forwarded to the Authority on behalf of those persons by the F77[Child and Family Agency] together with—
+
+(*a*) the assessment report prepared under *section 37*, and
+
+(*b*) the recommendation made under *section 39*,
+
+in relation to those persons.
+
+(3) For the purpose of Article 17 (which provides for limits on the state of origin entrusting a child to prospective adoptive parents), the approval of the Authority is required before any decision is made in the state of origin that the child should be entrusted to prospective adopters.
+
+(4) For the purpose of determining if a child is or will be authorised to enter and reside permanently in the State, the Authority shall be satisfied as to compliance with Article 5 (which relates to when a Convention adoption may take place) and Article 17.
+
+(5) Without prejudice to the functions of the F77[Child and Family Agency] under any other enactment, the F77[Child and Family Agency] shall perform on behalf of the Authority the latter’s functions as the Central Authority—
+
+(*a*) in keeping the other Central Authorities informed as set out in Article 20 (which requires Central Authorities to keep each other informed), and
+
+(*b*) in relation to protecting children after their transfer to the State as the receiving state as set out in paragraph (1) of Article 21 (which relates to measures by the Central Authority for child protection after a child’s transfer to the receiving State).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 21, S.I. No. 502 of 2013.
+
+#### 68. State as receiving state: adoption orders for children placed for adoption in State.
+
+**68**.— (1) Subject to *subsection (2)*, the Authority may make an adoption order in relation to a child who—
+
+(*a*) was transferred to the State from the child’s state of origin, in accordance with Article 17 (which relates to when the state of origin may entrust a child to prospective adoptive parents), and
+
+(*b*) was placed, in accordance with the Hague Convention and this Act, with prospective adopters habitually resident in the State.
+
+(2) The Authority may make an adoption order under *subsection (1)* only on the application of the prospective adopters with whom the child was placed and only—
+
+(*a*) if satisfied that Article 4 (which relates to when an adoption may take place) and the relevant provisions of this Act have been met, and
+
+(*b*) F78[where the consent of a person is necessary] and has not been given, if the High Court has made an order—
+
+(i) under *section 31(3)(b)* authorising the Authority to dispense with consent as described in that provision, or
+
+(ii) under *section 54* authorising the Authority to make an adoption order in relation to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 31, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 126, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 69. Conversion of certain adoptions effected in contracting states and recognised in State.
+
+**69**.— (1) Subject to *subsection (2)*, the Authority may make an adoption order for the purpose of the conversion, in accordance with Article 27 (which relates to conversion of adoptions in the state of origin to adoptions terminating pre-existing legal parent-child relationships), of a Convention adoption that does not have the effect of terminating a pre-existing legal parent-child relationship, into an adoption having that effect, in relation to a child who—
+
+(*a*) was transferred to the State from the child’s state of origin, in accordance with Article 17 (which relates to when the state of origin may entrust a child to prospective adoptive parents), and
+
+(*b*) was placed, in accordance with the Hague Convention and this Act, with prospective adopters habitually resident in the State.
+
+(2) The Authority may make an adoption order under *subsection (1)* only on the application of the adopters of the child and only—
+
+(*a*) if satisfied that Article 4 (which relates to when an adoption may take place) and the relevant provisions of this Act have been met, and
+
+(*b*) F79[where the consent of a person is necessary] and has not been given, if the High Court has made an order—
+
+(i) under *section 31(3)(b)* authorising the Authority to dispense with consent as described in that provision, or
+
+(ii) under *section 54* authorising the Authority to make an adoption order in relation to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 32, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 127, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 70. Transfer of child from State for purpose of adoption in receiving state.
+
+**70**.— A child may be transferred from the State to another contracting state for the purpose of adoption in that state in accordance with the Hague Convention, but such a transfer may take place only—
+
+(*a*) if the following are satisfied:
+
+(i) Article 4 (which relates to when an adoption may take place);
+
+(ii) Article 5 (which relates further to when an adoption may take place);
+
+(iii) Article 15 (which relates to reports by the Central Authorities of receiving states);
+
+(iv) Article 16 (which relates to reports by the Central Authorities of states of origin);
+
+(v) Article 17 (which relates to when the state of origin may entrust a child to prospective adoptive parents);
+
+(vi) Article 18 (which relates to Central Authorities obtaining permissions for a child to leave his or her state of origin),
+
+(*b*) in accordance with Article 17 (which relates to when the state of origin may entrust a child to prospective adoptive parents)—
+
+(i) the Authority decides that the child should be entrusted to the prospective adopters, and
+
+(ii) the Central Authority of the receiving state approves that decision, and
+
+(*c*) if the transfer takes place in secure and appropriate circumstances and in the company of the adopters or prospective adopters.
+
+#### 71. Discussions relating to agreements under Article 39.
+
+**71**.— (1) The Authority, with the prior consent of the Minister, may enter into discussions with any contracting state concerning—
+
+(*a*) the possibility of the State entering into an agreement under paragraph (2) of Article 39 (which makes provision for international instruments on matters governed by the Hague Convention) with that contracting state, and
+
+(*b*) the terms and conditions of the agreement.
+
+(2) If the State, before or after the commencement of this section, has entered into an agreement under paragraph (2) of Article 39 with a contracting state, with a view to improving the application of the Convention in their mutual relations, the Minister shall cause the agreement to be laid before each House of the Oireachtas.
+
+(3) If an agreement referred to in *subsection (2)* is amended, the Minister shall cause the amended agreement to be laid before each House of the Oireachtas.
+
+(4) The agreement, and any amended agreement, has the force of law from the date on which it is entered into and for so long as it is in effect.
+
+(5) Judicial notice shall be taken of an agreement, or an amended agreement, under paragraph (2) of Article 39 (which makes provision for international instruments on matters governed by the Hague Convention).
+
+#### 72. Administrative arrangements with contracting states.
+
+**72**.— (1) The Authority may enter into administrative arrangements with any contracting state concerning the processing of applications—
+
+(*a*) made to the Authority by persons habitually resident in the State for the adoption of a child habitually resident in the contracting state, or
+
+(*b*) made to the Central Authority of a contracting state by persons habitually resident in the contracting state for the adoption of a child habitually resident in the State.
+
+(2) The Authority may terminate any administrative arrangement entered into under this section.
+
+### Chapter 2 Bilateral Agreements and other Arrangements Concerning Intercountry Adoptions — Chapter 2 — Bilateral Agreements and other Arrangements Concerning Intercountry Adoptions
+
+#### 73. Discussions and agreements with non-contracting states.
+
+**73**.— (1) The Authority, with the prior consent of the Minister and having regard for the principles of the Hague Convention, may enter into discussions with any non-contracting state concerning the possibility of the Government entering into a bilateral agreement with that state.
+
+(2) If the Government, before or after the commencement of this section, has entered into a bilateral agreement with a non-contracting state concerning intercountry adoption, the Minister shall cause the agreement to be laid before each House of the Oireachtas.
+
+(3) If a bilateral agreement referred to in *subsection (2)* is amended, the Minister shall cause the amended agreement to be laid before each House of the Oireachtas.
+
+(4) Judicial notice shall be taken of a bilateral agreement, or an amended bilateral agreement, from the date on which it is laid before the Houses.
+
+#### 74. Administrative arrangements with states that have bilateral agreements.
+
+**74**.— (1) The Authority may enter into an administrative arrangement with another state that is a party to a bilateral agreement if that arrangement concerns the processing of applications—
+
+(*a*) made to the Authority by persons habitually resident in the State for the adoption of a child habitually resident in that other state, or
+
+(*b*) made to the Central Authority of the other state by persons habitually resident in that other state for the adoption of a child habitually resident in the State.
+
+(2) The Authority may terminate any administrative arrangement entered into under this section.
+
+#### 75. Role of Authority as Central Authority under bilateral agreement.
+
+**75**.— (1) The Authority is designated as the Central Authority to perform in the State the functions conferred on the Central Authority by this Chapter or under a bilateral agreement.
+
+(2) Subject to *subsection (3)* and any restrictions in the bilateral agreement, the Authority may delegate in writing to the F80[Child and Family Agency], or to such accredited bodies as the Authority may specify, one or more of its functions as the Central Authority under a bilateral agreement.
+
+(3) The following functions may not be delegated by the Authority:
+
+(*a*) as the Central Authority of the receiving state—
+
+(i) issuing, in the circumstances described in paragraph (1) of Article 15 (which relates to reports by Central Authorities of receiving states), a declaration of eligibility and suitability,
+
+(ii) arranging a new placement of, or alternative long-term care for, a child if the child is withdrawn from placement with his or her prospective adopters in accordance with the bilateral agreement, and
+
+(iii) arranging the return of a child to his or her state of origin, if the child’s interests so require;
+
+(*b*) as the Central Authority of the state of origin and in accordance with a bilateral agreement—
+
+(i) ensuring that necessary consents have been obtained,
+
+(ii) determining whether the envisaged placement is in the best interests of the child concerned,
+
+(iii) transmitting to the Central Authority of the receiving state the report on the child, proof that the necessary consents have been obtained and the reasons for the Authority’s determination as to whether the envisaged placement is in the child’s best interests, and
+
+(iv) deciding whether the child should be entrusted to prospective adopters.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+#### 76. Competent authority for certifying that adoptions accord with bilateral agreement.
+
+**76**.— (1) Without prejudice to the generality of *section 64*, the Authority is the competent authority for the purpose of certifying—
+
+(*a*) adoptions effected in the State in accordance with a bilateral agreement, and
+
+(*b*) the conversion of adoptions that were effected in another state that is a party to a bilateral agreement and that are recognised in the State.
+
+(2) A certificate of the Authority that an adoption was effected in accordance with a bilateral agreement shall specify when the Authority and the Central Authority of the other state agreed to the adoption proceeding.
+
+#### 77. Procedural arrangements where State is receiving state under bilateral agreement.
+
+**77**.— (1) This section has effect for the purposes of the application of a bilateral agreement in the State.
+
+(2) For the purposes of a bilateral agreement, an application to adopt a child habitually resident in another state (that is a party to the agreement) is made to the Authority (by persons habitually resident in the State) when the application is forwarded to the Authority on behalf of those persons by the F81[Child and Family Agency], together with—
+
+(*a*) the assessment report prepared under *section 37*, and
+
+(*b*) the recommendation made under *section 39*,
+
+in relation to those persons.
+
+(3) The approval of the Authority is required before any decision is made in the state of origin that the child should be entrusted to prospective adopters.
+
+(4) For the purpose of determining if a child is or will be authorised to enter and reside permanently in the State, the Authority shall be satisfied that—
+
+(*a*) the prospective adopters are eligible and suited to adopt,
+
+(*b*) the prospective adopters have been counselled as may be necessary, and
+
+(*c*) the child is or will be authorised under the law to enter and reside permanently in the State.
+
+(5) Without prejudice to the functions of the F81[Child and Family Agency] under any other enactment, the F81[Child and Family Agency] shall perform on behalf of the Authority the latter’s functions as the Central Authority—
+
+(*a*) in keeping the other Central Authorities informed as set out in Article 20 (which relates to Central Authorities keeping each other informed), and
+
+(*b*) in relation to protecting children after their transfer to the State as the receiving state as set out in paragraph (1) of Article 21 (which relates to measures by the Central Authority for child protection after a child’s transfer to the receiving state).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+#### 78. State as receiving state under bilateral agreement: adoption orders for children placed for adoption in State.
+
+**78**.— (1) Subject to *subsection (2)*, the Authority may make an adoption order in relation to a child who—
+
+(*a*) was transferred to the State from the child’s state of origin in accordance with a bilateral agreement, and
+
+(*b*) was placed, in accordance with the bilateral agreement and this Act, with prospective adopters habitually resident in the State.
+
+(2) The Authority may make an adoption order under *subsection (1)* only on the application of the prospective adopters with whom the child was placed and only—
+
+(*a*) if satisfied that Article 4 (which relates to when an adoption may take place) and the relevant provisions of this Act have been met, and
+
+(*b*) F82[where the consent of a person is necessary] and has not been given, if the High Court has made an order—
+
+(i) under *section 31 (3) (b)* authorising the Authority to dispense with consent as described in that provision, or
+
+(ii) under *section 54* authorising the Authority to make an adoption order in relation to the child.
+
+(3) For the purpose of this section, Article 4 (which relates to when an adoption may take place) is applicable in respect of a bilateral agreement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 33, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E47: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 128, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 79. Conversion of certain adoptions effected under bilateral agreement in another state and recognised in the State.
+
+**79**.— (1) Subject to *subsection (2)*, the Authority may make an adoption order for the purpose of the conversion, in accordance with Article 27 (which relates to conversion of adoptions in state of origin to adoptions terminating pre-existing legal parent-child relationships), of a bilateral agreement adoption that does not have the effect of terminating a pre-existing legal parent-child relationship, into an adoption having that effect, in relation to a child who—
+
+(*a*) was transferred to the State from the child’s state of origin in accordance with a bilateral agreement, and
+
+(*b*) was placed, in accordance with the bilateral agreement and this Act, with prospective adopters habitually resident in the State.
+
+(2) The Authority may make an adoption order under *subsection (1)* only on the application of the adopters of the child and only—
+
+(*a*) if satisfied that Article 4 (which relates to when an adoption may take place) and the relevant provisions of this Act have been met, and
+
+(*b*) F83[where the consent of a person is necessary] and has not been given, if the High Court has made an order—
+
+(i) under *section 31 (3) (b)* authorising the Authority to dispense with consent as described in that provision, or
+
+(ii) under *section 54* authorising the Authority to make an adoption order in relation to the child.
+
+(3) For the purpose of this section, Article 17 (which relates to when state of origin may entrust a child to prospective adoptive parents) and Article 4 are applicable in respect of a bilateral agreement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 34, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E48: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 129, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 80. Transfer of child from State for purpose of adoption in receiving state.
+
+**80**.— A child may be transferred from the State to a non-contracting state for the purpose of adoption in that state in accordance with a bilateral agreement, but such a transfer may take place only in accordance with the agreement, and, in particular, if—
+
+(*a*) the requirements of the agreement as to consents to the adoption have been satisfied,
+
+(*b*) the Central Authority of the receiving state has—
+
+(i) determined that the prospective adopters are eligible and suited to adopt,
+
+(ii) ensured that the prospective adopters have been counselled as may be necessary, and
+
+(iii) determined that the child is or will be authorised to enter and reside permanently in the receiving state,
+
+(*c*) the Authority has decided, in accordance with the agreement, that the child should be entrusted to the prospective adopters,
+
+(*d*) the Central Authority of the receiving state has approved that decision, and
+
+(*e*) the transfer takes place in secure and appropriate circumstances and in the company of the adopters or prospective adopters.
+
+### Chapter 3 Arrangement in Exceptional Case with a Non-Contracting State — Chapter 3 — Arrangement in Exceptional Case with a Non-Contracting State
+
+#### 81. Exceptional case involving specific child.
+
+**81**.— (1) The Authority may enter into an arrangement with a non-contracting state that is not a party to a bilateral agreement if—
+
+(*a*) the arrangement relates to the adoption of a specific child by prospective adopters habitually resident either in the State or in the non-contracting state,
+
+(*b*) a declaration of eligibility and suitability in the State, or an equivalent instrument in the non-contracting state, has been issued for the prospective adopters,
+
+(*c*) the prospective adopters are relatives of the child, and
+
+(*d*) the Authority is satisfied that the standards that are being or will be applied to the adoption accord with those of the Hague Convention.
+
+(2) An arrangement made under *subsection (1)* may not be used by the Authority for the purpose of—
+
+(*a*) an adoption under an adoption order, or
+
+(*b*) the recognition of an intercountry adoption effected outside the State,
+
+other than the adoption or the recognition of the adoption of the specific child to whom the arrangement relates.
+
+### Chapter 4 Duty to Inform State about Adopted Child First Entering State — Chapter 4 — Duty to Inform State about Adopted Child First Entering State
+
+#### 82. Duty to inform F84[Child and Family Agency] and Authority of child’s entry.
+
+**82**.— (1) Where a child enters the State for the first time after his or her adoption by adopters habitually resident in the State, they shall notify the F84[Child and Family Agency] and the Authority of the child’s entry as soon as practicable and, in any event, not later than 3 months after the date of entry.
+
+(2) Where a child enters the State for the purpose of being adopted in the State by prospective adopters who are habitually resident in the State, they shall notify the F84[Child and Family Agency] and the Authority of the child’s entry as soon as practicable and, in any event, not later than 3 months after the date of entry.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+## PART 10 Adopted Children Register and Register of Intercountry Adoptions — PART 10 — Adopted Children Register and Register of Intercountry Adoptions
+
+### Chapter 1 Adopted Children Register — Chapter 1 — Adopted Children Register
+
+#### 83. Authority to send particulars to Ard-Chláraitheoir for entries in Adopted Children Register.
+
+**83**.— The Authority shall send to an tArd-Chláraitheoir the particulars necessary to enable him or her to comply with this Part.
+
+#### 84. Adopted Children Register.
+
+**84**.— (1) The Adopted Children Register maintained by an tArd-Chláraitheoir in accordance with section 22 of the Adoption Act 1952 shall, notwithstanding the repeal of that section by *section 7 (1)*—
+
+(*a*) continue in being, and
+
+(*b*) be kept and maintained by an tArd-Chláraitheoir in accordance with this Chapter.
+
+(2) An entry shall be made in the Adopted Children Register with respect to each adopted child who is the subject of an adoption order made by the Authority.
+
+(3) Each entry shall contain the F85[particulars, appropriate to the adoption concerned,] specified in *Schedule 3*.
+
+(4) If the date of the adopted child’s birth is unknown—
+
+(*a*) the Authority shall determine the probable date of birth, and
+
+(*b*) that date shall be entered in the Adopted Children Register as the adopted child’s date of birth.
+
+(5) If the Authority subsequently ascertains the actual date of the child’s birth—
+
+(*a*) the determination referred to in *subsection (4)* shall be cancelled, and
+
+(*b*) both the adoption order in respect of the child and the entry in the Adopted Children Register made under *subsection (4)* shall be correspondingly amended to show that actual date.
+
+(6) The country of birth of the child shall be entered in the Adopted Children Register if the Authority, being satisfied thereof, so directs.
+
+(7) If an adoption order is amended, the entry relating to the adoption shall be amended accordingly.
+
+(8) If an adoption order is set aside, the entry relating to the adoption shall be cancelled.
+
+(9) If directed to do so by the Authority, an tArd-Chláraitheoir shall correct an error in any entry in the Adopted Children Register.
+
+(10) Evidence of an entry in the Adopted Children Register and of the facts stated therein may be given by the production of a document purporting to be a legible copy of the entry and to be certified to be a true copy by an tArd-Chláraitheoir or a person authorised in that behalf by an tArd-Chláraitheoir.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 35, S.I. No. 443 of 2017.
+
+#### 85. Index to Adopted Children Register.
+
+**85**.— (1) An tArd-Chláraitheoir shall keep at his or her office an index to the Adopted Children Register.
+
+(2) Subject to *subsection (4)*, a person, following an application in writing, in a form standing approved by an tArd-Chláraitheoir, in that behalf to an tArd-Chláraitheoir and—
+
+(*a*) on payment to him or her of the prescribed fee, may, subject to such conditions (if any) as may stand determined by an tArd-Chláraitheoir, search the index to the Adopted Children Register,
+
+(*b*) on payment to him or her of the prescribed fee, shall be given by him or her—
+
+(i) a copy certified by him or her to be a true copy,
+
+(ii) a copy, or
+
+(iii) a certified extract,
+
+of an entry specified by the person in the Adopted Children Register.
+
+(3) Subject to *subsection (4)*, an tArd-Chláraitheoir shall, on application by a person to him or her in that behalf in writing and—
+
+(*a*) on payment to him or her of the prescribed fee, search the Adopted Children Register and the index to that Register, or
+
+(*b*) on payment to him or her of the prescribed fee, give the person—
+
+(i) a copy certified by him or her to be a true copy,
+
+(ii) a copy, or
+
+(iii) a certified extract,
+
+of an entry specified by the person in the Adopted Children Register.
+
+F86[(4) A copy of an entry or an extract thereof, referred to in *subsection (2)(b)* or *(3)(b)* shall omit any reference to or particulars of—
+
+(*a*) a personal public service number, and
+
+(*b*) any previous adoption,
+
+and “true copy” in those aforementioned provisions shall be construed accordingly.]
+
+(5) The Minister for Social Protection may, following consultation with the Minister, by regulations under this Act specify the particulars to be included in a certified extract referred to in *subsection (2)(b)(iii)* or *(3)(b)(iii)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 36, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E49: Previous affecting provision: fees prescribed for purposes of section (2.11.2010) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2010* (S.I. No. 518 of 2010), in effect as per reg. 2, revoked (4.12.17) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2017*, S.I. No. 536 of 2017, in effect as per reg. 2.
+
+#### 86. Separate index of connections between Adopted Children Register and register of births.
+
+**86**.— (1) An tArd-Chláraitheoir shall keep an index to make traceable the connection between each entry in the Adopted Children Register and the corresponding entry in the register of births.
+
+(2) Notwithstanding *section 85*, the index kept under *subsection (1)* shall not be open to public inspection, and no information from that index shall be given to any person except by order of a court or of the F87[Authority, or in accordance with section 6 of the Birth Information and Tracing Act 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F87: Substituted (3.10.2022) by *Birth Information and Tracing Act 2022* (14/2022), s. 72, S.I. No. 448 of 2022.
+
+#### 87. Certified copy of entry in Adopted Children Register as evidence of facts stated.
+
+**87**.— A certified copy of an entry in the Adopted Children Register, if purporting to be issued under the seal of Oifig an Ard-Chláraitheora, shall be received, without further proof, as evidence of the facts stated in the certified copy, and any requirement of law for the production of a certificate of birth shall be satisfied by the production of the certified copy.
+
+#### 88. Privacy of adoption records.
+
+**88**.— A court shall not make an order—
+
+(*a*) referred to in *section 86 (2)*,
+
+(*b*) for the discovery, inspection, production or copying of any book, document or record of the Authority (or of any extracts from any of them), or otherwise in relation to the giving or obtaining of information from any of them,
+
+unless the court is satisfied that it is in the best interests of any child concerned to make the order.
+
+#### 89. Abridged certificate of entry in Adopted Children Register.
+
+**89**.— (1) The Minister for Social Protection may, following consultation with the Minister, by regulations under this Act, provide for the issue by an tArd-Chláraitheoir, as respects any entry in the Adopted Children Register, of a certificate of such particulars contained in the entry as may be specified in the regulations.
+
+(2) A certificate referred to in *subsection (1)* may not disclose that the person to whom the certificate relates is an adopted person.
+
+(3) Regulations under this section may provide for the payment for a certificate referred to in *subsection (1)* of a fee of such amount as may be determined by the Minister for Social Protection following consultation with the Minister and with the consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E50: Power pursuant to section exercised (15.10.2019) by *Adoption Act 2010 (Abridged Certificate) Regulations 2019* (S.I. No. 508 of 2019), in effect as per reg. 2.
+>
+> E51: Previous affecting provision: power pursuant to section exercised (30.09.2011) by *Adoption Act 2010 (Abridged Certificate) Regulations 2011* (S.I. No. 611 of 2011), in effect as per reg. 1(2); revoked (15.10.2019) by *Adoption Act 2010 (Abridged Certificate) Regulations 2019* (S.I. No. 508 of 2019), reg. 6, in effect as per reg. 2.
+
+### Chapter 2 Register of Intercountry Adoptions — Chapter 2 — Register of Intercountry Adoptions
+
+#### 90. Register of intercountry adoptions.
+
+**90**.— (1) In this section, “competent authority” includes a person serving in another state in the capacity of a competent authority for the purposes of a bilateral agreement or an arrangement referred to in *section 81*.
+
+(2) The Register of Foreign Adoptions maintained until the establishment day under section 6 of the Adoption Act 1991 by An Bord Uchtála shall, notwithstanding the repeal of that section by *section 7(1)*, continue in being under this Act and, on and after the establishment day, shall be—
+
+(*a*) known as the register of intercountry adoptions, and
+
+(*b*) kept and maintained under this Act by the Authority.
+
+(3) The following persons may apply to the Authority to enter particulars of an intercountry adoption effected outside the State in the register of intercountry adoptions:
+
+(*a*) the adopted person;
+
+(*b*) a person by whom the adopted person was adopted;
+
+(*c*) any other person having an interest in the matter.
+
+(4) Not later than 3 months after the date when a child first enters the State after his or her intercountry adoption in another state by parents habitually resident in the State, the adopters shall ensure that an application to the Authority is made under *subsection (3)* to enter particulars of the adoption in the register of intercountry adoptions.
+
+(5) If any of the persons referred to in *subsection (3)* apply in accordance with this section to enter in the register of intercountry adoptions particulars of an adoption referred to in *subsection (4)*—
+
+(*a*) where the applicant is a person mentioned in *paragraph (a)* or *(c)* of *subsection (3)*, the application relieves both of the adopters of the duty under *subsection (4)*, or
+
+(*b*) where the applicant is one of the adopters, the application relieves the other adopter of the duty under *subsection (4)*.
+
+(6) An application under *subsection (3)* shall be accompanied by the certificate referred to in *section 57* issued by the competent authority of the state of adoption.
+
+(7) If the Authority is satisfied that the adoption is an intercountry adoption effected outside the State that complies with the requirements of this Act in relation to such an adoption, the Authority shall enter particulars of the adoption in the register of intercountry adoptions, together with a copy of the certificate referred to in *section 57* concerned.
+
+(8) If the High Court so directs under *section 92(1)*, an entry shall be made in the register of intercountry adoptions concerning a specified intercountry adoption effected outside the State.
+
+(9) An entry in the register of intercountry adoptions shall be in such form and contain such particulars as may be prescribed by regulations made under *section 152*.
+
+(10) A person making an application to the Authority under *subsection (3)* is required to furnish the Authority with such information as the Authority may reasonably require and the information shall be in such form (if any) as may be specified by the Authority.
+
+(11) An error in an entry in the register of intercountry adoptions may be corrected and, if the High Court so directs, a specified correction shall be made in the register.
+
+#### 91. Certified copy of entry in register of intercountry adoptions as evidence of facts stated.
+
+**91**.— (1) A document purporting to be a copy, and to be certified by an employee of the Authority to be a true copy, of an entry in the register of intercountry adoptions—
+
+(*a*) is evidence of the fact that the adoption to which it relates is an intercountry adoption effected outside the State and is deemed by this Act to have been effected by an adoption order made on the date specified in the copy, and
+
+(*b*) shall be issued by the Authority to any person on application by him or her to the Authority in that behalf and on payment by him or her to the Authority of such fee as may be specified by the Authority with the consent of the Minister.
+
+(2) Any requirement of law for the production of a certificate of birth is satisfied by the production of a document described in *subsection (1)* and certified to be a true copy of an entry in the register of intercountry adoptions in accordance with that subsection.
+
+#### 91A. Register of gender recognition of intercountry adoptions
+
+F88[**91A.**— (1) The Authority shall establish and maintain, in the Authority, a register to be called the register of gender recognition of intercountry adoptions, for the purpose of the registration of gender recognition of intercountry adoptions.
+
+(2) An entry in the register of gender recognition of intercountry adoptions shall be in such form and contain such particulars as may be prescribed by regulations made under *section 152A*.
+
+(3) The Authority shall keep an index to make traceable the connection between each entry in the intercountry adoptions register and the corresponding entry in the register of gender recognition of intercountry adoptions.
+
+(4) The index kept under *subsection (3)* shall not be open to public inspection, and no information from that index shall be given to any person except by order of a court.
+
+(5) A court shall not make an order referred to in *subsection (4)*, where the person to whom the information relates is a child of less than 18 years of age, unless satisfied that it is in the best interest of the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F88: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 33, S.I. No. 369 of 2015.
+
+#### 91B. Certified copy of entry in register of gender recognition of intercountry adoptions as evidence of facts stated
+
+F89[**91B.**— (1) Subject to *subsection (3)*, the Authority shall, on application by a person referred to in *subsection (2)*, in that behalf in writing and on payment to the Authority of the prescribed fee—
+
+(*a*) search the register of gender recognition of intercountry adoptions and the index to that register, or
+
+(*b*) give the person—
+
+(i) a copy certified by him or her to be a true copy,
+
+(ii) a copy, or
+
+(iii) a certified extract,
+
+of an entry in the register of gender recognition of intercountry adoptions specified by the person.
+
+(2) The following persons may make an application to the Authority under *subsection (1)*:
+
+(*a*) the person to whom the entry on the register of gender recognition of intercountry adoptions relates;
+
+(*b*) a person who is, in relation to the person referred to in *paragraph (a)* —
+
+(i) the surviving spouse or civil partner,
+
+(ii) if no surviving spouse or civil partner, the child,
+
+(iii) if no surviving spouse or civil partner or child, a parent, or
+
+(iv) if no surviving spouse or civil partner, child or parent, a surviving brother or sister.
+
+(3) A certified copy of a document referred to in *subsection (1)* shall not disclose the fact that the entry is contained in the register of gender recognition of intercountry adoptions.
+
+(4) Any requirement of law for the production of a certificate of birth is satisfied by the production of a certified copy of the document described in *subsection (1)*.
+
+(5) In *subsection (2)* "civil partner" has the same meaning as in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F89: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 33, S.I. 369 of 2015.
+
+#### 91C. Entry in register of gender recognition of intercountry adoptions
+
+F90[**91C.**— A person referred to in subparagraph (iv) of section 9(1)(a) of the Act of 2015 to whom a gender recognition certificate is issued by the Minister may contact the Authority and request that the particulars relating to the recognition of the gender of the person are entered in the register of gender recognition of intercountry adoptions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F90: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 33, S.I. No. 369 of 2015.
+
+#### 91D. Cancellation or amendment of entry in register of gender recognition of intercountry adoptions
+
+F91[**91D.**— (1) The Authority, as soon as practicable following receipt of a notice under section 14(9)(c) or 15(11)(c) of the Act of 2015, shall cancel the appropriate entry in the register of gender recognition of intercountry adoptions and the index referred to in *section 91A(3)*.
+
+(2) The Authority, as soon as practicable following receipt of a notice under section 16(8)(c) of the Act of 2015, shall correct the appropriate entry in the register of gender recognition of intercountry adoptions and the original entry shall be retained in the register.
+
+(3) The Authority, following a correction of an error of an entry in the register of intercountry adoptions under *section 90(11)* which corresponds to an entry in the register of gender recognition of intercountry adoptions, shall amend the appropriate entry in the second referred to register accordingly.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 33, S.I. No. 369 of 2015.
+
+### Chapter 3 Directions of High Court in Relation to Register of Intercountry Adoptions — Chapter 3 — Directions of High Court in Relation to Register of Intercountry Adoptions
+
+#### 92. Directions of High Court in relation to entries in register of intercountry adoptions.
+
+**92**.— (1) If, on application to the High Court in that behalf by a person who may make an application to the Authority under *section 90(3)*, the High Court is satisfied that an entry with respect to an adoption in the register of intercountry adoptions should be made, cancelled or corrected, the High Court may by order, as appropriate—
+
+(*a*) direct the Authority to procure the making of a specified entry in the register of intercountry adoptions,
+
+(*b*) subject to *subsection (2)*, direct the Authority to procure the cancellation of the entry concerned in the register of intercountry adoptions, or
+
+(*c*) direct the Authority to make a specified correction in the register of intercountry adoptions.
+
+(2) Unless satisfied that it would be in the best interests of the adopted person to do so, the High Court shall not give a direction under *subsection (1) (b)* based solely on the fact that, under the law of the state in which an adoption was effected, the adoption has been set aside, revoked, terminated, annulled or otherwise rendered void.
+
+(3) Where the High Court gives a direction under *subsection (1) (b)*, it may make orders in respect of the adopted person that appear to the High Court—
+
+(*a*) to be necessary in the circumstances, and
+
+(*b*) to be in the best interests of the person,
+
+including orders relating to the guardianship, custody, maintenance and citizenship of the person.
+
+(4) An order under *subsection (3)*, notwithstanding anything in any other Act, applies and shall be carried out to the extent necessary to give effect to the order.
+
+(5) If the High Court—
+
+(*a*) refuses to give a direction under *subsection (1)(a)*, or
+
+(*b*) gives a direction under *subsection (1)(b)*,
+
+the intercountry adoption effected outside the State shall not be recognised under this Act.
+
+(6) The High Court—
+
+(*a*) may direct that notice of an application under *subsection (1)* shall be given by the person making the application to such other persons (including the Attorney General and the Authority) as the High Court may determine, and
+
+(*b*) of its own motion or on application to it by the person concerned or a party to the application proceedings, may add any person as a party to the proceedings.
+
+(7) The Attorney General—
+
+(*a*) of his or her own motion, or
+
+(*b*) if so requested by the High Court,
+
+may make submissions to the High Court in relation to the application, without being added as party to the application proceedings.
+
+(8) If the High Court so determines, proceedings under this section shall be heard in private.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of section restricted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. 544 of 2004; as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014. **Note:** *Civil Liability and Courts Act 2004*, s. 40(2) (which lists “relevant enactments”) was repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013*, s. 2(2), S.I. No. 334 of 2014. However, section included in definition of “relevant enactment” for purposes of the in camera rule by *Civil Liability and Courts Act 2004* (31/2004), s. 39, as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4, S.I. No. 5 of 2014. **Note** also that subs. (8) previously inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 11, S.I. No. 5 of 2014, now substituted, provided that an application for approval under this section shall be heard in private.
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (2) **[**...**]**
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (*b*) the publication of the decision of the court in such proceedings, in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in *subparagraphs (iii)*, *(vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+>
+> (*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in *subparagraph (vi)* of *paragraph (c)*, an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (*f*) In this subsection—
+>
+> "commercially sensitive information" means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> "party to the proceedings" includes a witness in the proceedings;
+>
+> "sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+>
+> (*a*) subject to *paragraph (b)*, means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+
+## PART 11 Proof and Registration of Intercountry Adoptions effected outside the State — PART 11 — Proof and Registration of Intercountry Adoptions effected outside the State
+
+### 93. Proof of intercountry adoptions effected outside State.
+
+**93**.— (1) Documents, duly authenticated, that purport to be copies of the documents by which an intercountry adoption effected outside the State was made—
+
+(*a*) are deemed without further proof to be true copies of the documents unless the contrary is shown, and
+
+(*b*) are admissible as evidence of the adoption.
+
+(2) A document purporting to be a copy of a document or of one of the documents by which an intercountry adoption effected outside the State is made shall be regarded, for the purposes of this section, as being duly authenticated if the document purports—
+
+(*a*) to bear the seal of the court or other authority or the person or persons by which or by whom it was issued or executed, or
+
+(*b*) to be certified—
+
+(i) by a person in his or her capacity as a judge or officer of that court or in his or her capacity as that authority or as a member or officer of that authority, or
+
+(ii) by the person or persons by whom it was issued or executed.
+
+(3) The Minister, by regulations, may make provision in relation to the proof of intercountry adoptions effected outside the State and the regulations may make different provision for different states and different classes of adoptions.
+
+(4) Where an intercountry adoption effected outside the State is made in another state, it shall be presumed, unless the contrary is shown, that it was effected under and in accordance with the law of that state.
+
+## PART 12 Adoption Authority — PART 12 — Adoption Authority
+
+### Chapter 1 Authority Established — Chapter 1 — Authority Established
+
+#### 94. Establishment of Adoption Authority.
+
+**94**.— (1) On the establishment day, a body to be known as Údarás Uchtála na hÉireann or, in the English language, the Adoption Authority of Ireland is established to perform the functions assigned to it by this Act.
+
+(2) The Authority is a body corporate with perpetual succession and may—
+
+(*a*) sue and be sued in the Authority’s own name,
+
+(*b*) with the consent of the Minister and the Minister for Finance, acquire, hold and dispose of land or an interest in land, and
+
+(*c*) acquire, hold and dispose of any other property.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E52: Authority designated for purposes of *Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020* (13/2020), ss. 29, 31 (remote meetings and hearings) (4.09.2020) by *Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 (Remote Meetings and Remote Hearings of State Body – Adoption Authority of Ireland) Order 2020* (S.I. No. 335 of 2020).
+
+#### 95. Seal of Authority.
+
+**95**.— (1) The Authority shall provide itself with a seal as soon as may be after the establishment day.
+
+(2) The seal of the Authority shall be authenticated by—
+
+(*a*) the signatures of 2 members of the Authority, or
+
+(*b*) the signatures of both—
+
+(i) a member of the Authority, and
+
+(ii) an employee of the Authority authorised by the Authority to authenticate the seal.
+
+(3) Judicial notice shall be taken of the seal of the Authority and every document purporting to be an instrument made by the Authority and to be sealed with the seal of the Authority authenticated in accordance with this section, shall, unless the contrary is shown, be received in evidence and be deemed to be that instrument without further proof.
+
+#### 96. Functions of Authority.
+
+**96**.— (1) Without prejudice to the functions assigned to the Authority under this Act or any other enactment, the functions of the Authority include the following:
+
+(*a*) on and after the establishment day, performing the functions in relation to adoptions that before that day were performed by An Bord Uchtála;
+
+(*b*) as specified in *section 66*, performing in the State the role of a Central Authority under the Hague Convention;
+
+(*c*) at the request of the Minister, providing general advice to him or her about adoption matters;
+
+(*d*) undertaking or assisting in research projects and activities relating to adoption services;
+
+(*e*) compiling statistical information and other records as to the proper planning, development and provision of those adoption services;
+
+(*f*) maintaining the register of accredited bodies; F92[...]
+
+(*g*) maintaining the register of intercountry F93[adoptions;]
+
+F94[(*h*) maintaining the register of gender recognition of intercountry adoptions and the index referred to in *section 91A(3)*.]
+
+(2) The Authority has all the powers as are necessary or expedient for the performance by it of its functions.
+
+(3) The Authority may make such enquiries as it considers necessary for the performance of its functions.
+
+(4) The Authority shall endeavour to ensure that its adoption enquiries under this Act and adoption hearings before the Authority are conducted in a non-adversarial manner.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Deleted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 35(a), S.I. 369 of 2015.
+>
+> F93: Substituted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 35(b), S.I. No. 369 of 2015.
+>
+> F94: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 35(c), S.I. No. 369 of 2015.
+
+#### 97. Rules.
+
+**97**.— (1) The Authority, with the consent of the Minister, may make rules—
+
+(*a*) respecting its procedure, and
+
+F95[(*b*) governing the consultation that is required by this Act to be carried out with a relevant non-guardian (which shall include a person who believes himself to be the father) of a child before the child is placed for adoption or before an adoption order is made in respect of that child.]
+
+(2) The Minister shall ensure that every rule made by the Authority under *subsection (1)* is laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the rule is passed by either House within the next 21 days on which that House has sat after the rule is laid before it, the rule shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 37, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E53: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 130, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 98. Membership of Authority.
+
+**98**.— (1) The Authority shall consist of 7 members, being the chairperson, the deputy chairperson and 5 ordinary members, appointed by the Minister in accordance with this section.
+
+(2) A person is not eligible for appointment as chairperson or deputy chairperson unless the person—
+
+(*a*) is or was, at any time during the 2 years immediately before the appointment, a Judge of the Supreme Court, F96[the Court of Appeal,] the High Court, the Circuit Court or the District Court, or
+
+(*b*) is of not less than 10 years standing as a barrister or solicitor.
+
+(3) Of the 5 ordinary members to be appointed by the Minister—
+
+(*a*) one shall be a social worker with experience in adoption practice,
+
+(*b*) one shall be a social worker with research expertise in child welfare, child protection or both,
+
+(*c*) one shall be a barrister or solicitor with experience in the practice of law in relation to families and children,
+
+(*d*) one shall be a medical practitioner whose name is for the time being included in a division of the register of medical practitioners referred to in paragraph (*a*) or (*b*) of subsection (2) of section 43 of the Medical Practitioners Act 2007 (as amended by the Health (Miscellaneous Provisions) Act 2007, No. 42 of 2007), and
+
+(*e*) one shall be a person with appropriate training in psychology.
+
+(4) The Minister, to the extent practicable, shall endeavour to ensure that there is an equitable balance between men and women in the membership of the Authority.
+
+(5) Each member of the Authority shall hold office for a period which the Minister shall determine, not exceeding 5 years from the date of appointment to the office.
+
+(6) An appointed member who completes a term of office is eligible for reappointment to the Authority, but may not serve as a member for more than 2 consecutive terms.
+
+(7) An appointed member may resign office by letter addressed to the Minister and the resignation takes effect on the later of—
+
+(*a*) the date specified in the letter, or
+
+(*b*) the receipt of the letter by the Minister.
+
+(8) If an appointed member resigns, dies, ceases to hold office (other than on completing a term of office), ceases to be qualified for office or is removed from office, the Minister as soon as practicable shall appoint a person to fill the casual vacancy so occasioned.
+
+(9) A person appointed under *subsection (8)* holds office for the unexpired portion of his or her predecessor’s term of office.
+
+(10) An appointed member, with the consent of the Authority, may vacate his or her office for a specified period of time if, in that member’s opinion, he or she has a conflict of interest in relation to a matter being considered by the Authority.
+
+(11) The Minister may at any time remove an appointed member of the Authority from office if—
+
+(*a*) in the Minister’s opinion—
+
+(i) the member has become incapable through ill-health of performing the functions of the office,
+
+(ii) the member has committed stated misbehaviour, or
+
+(iii) the member’s removal from office is necessary for the Authority to perform its functions in an effective manner,
+
+(*b*) the member has contravened, or failed to discharge a duty imposed by, a provision of the Ethics in Public Office Act 1995 that by a regulation made under section 3 of that Act applies to that member, or
+
+(*c*) in performing functions under this Act, the member has not complied with a code of conduct under section 10(3) of the Standards in Public Office Act 2001.
+
+(12) A person immediately ceases to be a member of the Authority if the person—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is convicted of an indictable offence,
+
+(*d*) is convicted of an offence involving fraud or dishonesty,
+
+(*e*) has a declaration under section 150 of the Companies Act 1990 made against him or her or is subject or is deemed to be subject to a disqualification order by virtue of Part VII of that Act,
+
+(*f*) is sentenced to a term of imprisonment by a court of competent jurisdiction, or
+
+(*g*) is removed by a competent authority for any reason (other than failure to pay a fee) from any register established for the purpose of registering members of a profession.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F96: Inserted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 70, S.I. No. 479 of 2014, in effect as per art. 2(c).
+
+#### 99. Membership of either House of Oireachtas, European Parliament or local authority.
+
+**99**.— (1) A person is not eligible for appointment as a member of the Authority or of a committee of the Authority, if the person is—
+
+(*a*) a member of either House of the Oireachtas or of the European Parliament,
+
+(*b*) regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*c*) a member of a local authority.
+
+(2) An appointed member of the Authority or a member of a committee of the Authority immediately ceases to hold office on—
+
+(*a*) being nominated as a member of Seanad Éireann,
+
+(*b*) being elected as a member of either House of the Oireachtas or of the European Parliament,
+
+(*c*) being regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) becoming a member of a local authority.
+
+#### 100. Meetings of Authority.
+
+**100**.— (1) The Minister, in consultation with the Authority, shall fix the date, time and place of the first meeting of the Authority.
+
+(2) The Authority shall hold as many meetings as are necessary for performing its functions but shall hold at least 12 meetings a year.
+
+(3) The chairperson at any reasonable time may call a meeting of the Authority.
+
+(4) Any 4 members of the Authority may call a meeting of the Authority if the chairperson—
+
+(*a*) refuses to call a meeting after being presented with a requisition for that purpose signed by not fewer than 4 members, or
+
+(*b*) without refusing to call a meeting, does not call one within 7 days after being presented with the requisition.
+
+F97[(5) Subject to *subsection (7)*, the members present at a meeting called under *subsection (4)* shall choose one of their number to chair the meeting.]
+
+F98[(6) The quorum for a meeting of the Authority is—
+
+(*a*) the chairperson or deputy chairperson, or
+
+(*b*) in the case of a meeting called under *subsection (4)*, and where applicable, the member chosen under *subsection (5)* to chair the meeting who, for that meeting, shall be regarded as the chairperson for the purposes of *subsections (9)* and *(10)*,
+
+and 2 other members, one of whom may be the deputy chairperson where the chairperson or another member chosen under *subsection (5)* is presiding.]
+
+(7) The chairperson shall preside at all meetings of the Authority at which he or she is present.
+
+(8) Each question at a meeting shall be determined by a majority of the votes of the members present and voting on the question.
+
+(9) In the case of an equal division of votes, the chairperson, or in the absence of the chairperson, the deputy chairperson has a second or casting vote.
+
+(10) Each decision of the Authority shall be announced by the chairperson, the deputy chairperson or the other member authorised by the chairperson and neither the existence of nor the content of any opinion of any other member, whether assenting or dissenting, shall be disclosed.
+
+(11) Subject to this Act, the Authority may regulate, by standing orders or otherwise, the procedures and business of the Authority.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97, F98: Substituted (3.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 38(a), (b), S.I. No. 341 of 2023.
+
+#### 101. Committees of Authority.
+
+**101**.— (1) The Authority may—
+
+(*a*) establish one or more committees to provide assistance and advice to the Authority in relation to the performance of the Authority’s functions, and
+
+(*b*) determine the membership and terms of reference of each committee.
+
+(2) Each committee—
+
+(*a*) shall be chaired by a member of the Authority,
+
+(*b*) may include as members persons who are not members or employees of the Authority, and
+
+(*c*) consists of the chairperson of the committee and the other persons, whether members of the Authority or not, who the Authority may appoint.
+
+(3) The Authority may regulate the procedure of each committee but, subject to any such regulation, a committee may regulate its own procedure.
+
+(4) At any time, the Authority may—
+
+(*a*) dissolve any of the committees, or
+
+(*b*) remove a member of any of the committees from his or her membership.
+
+#### 102. Remuneration and expenses of members of Authority and committees.
+
+**102**.— (1) A person—
+
+(*a*) appointed as chairperson of the Authority, or
+
+(*b*) who is the deputy chairperson of the Authority, in respect of any period during which he or she acts as chairperson of the Authority,
+
+shall be paid by the Authority, out of moneys at its disposal, such remuneration and allowances for expenses as the Minister may from time to time determine with the consent of the Minister for Finance.
+
+(2) A member of the Authority and a member of a committee of the Authority shall be paid by the Authority, out of moneys at its disposal, such remuneration and allowances for expenses as the Minister may determine with the consent of the Minister for Finance.
+
+### Chapter 2 Chief Executive Officer — Chapter 2 — Chief Executive Officer
+
+#### 103. Chief executive officer.
+
+**103**.— (1) The Authority shall appoint a person recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be the chief executive officer of the Authority.
+
+(2) Notwithstanding *subsection (1)*, the Minister may appoint the first chief executive officer for a term to be determined by the Minister.
+
+(3) A person is not eligible for appointment as the chief executive officer if the person is—
+
+(*a*) a member of either House of the Oireachtas or of the European Parliament,
+
+(*b*) regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*c*) a member of a local authority.
+
+(4) The chief executive officer holds office, subject to *subsection (3)*, on the terms and conditions (including those relating to remuneration, allowances and superannuation) to be determined by the Authority with the approval of the Minister given with the consent of the Minister for Finance.
+
+(5) The chief executive officer, with the approval of the Minister, may be removed from office by the Authority for stated reasons.
+
+(6) The chief executive officer may attend any meeting of the Authority or of a committee of the Authority.
+
+#### 104. Functions of chief executive officer.
+
+**104**.— (1) The chief executive officer shall—
+
+(*a*) carry on and manage and control generally the administration and business of the Authority,
+
+(*b*) perform such other functions as may be assigned to him or her by or under this Act or any other enactment or as may be determined by the Authority, and
+
+(*c*) provide the Authority with information (including financial information) relating to the performance of his or her functions as the Authority may require.
+
+(2) The chief executive officer is responsible to the Authority for—
+
+(*a*) the performance of the chief executive officer’s functions and the implementation of the Authority’s policies,
+
+(*b*) supporting the Authority in all functions of a judicial nature conferred on the Authority by this Act,
+
+(*c*) maintaining on behalf of the Authority—
+
+(i) the register of accredited bodies, and
+
+(ii) the register of intercountry adoptions.
+
+(3) Such of the functions of the chief executive officer as he or she may specify from time to time may be performed, with the consent of the Authority, by such employee of the Authority as may be authorised by the chief executive officer.
+
+(4) If the chief executive officer is absent or the position of chief executive officer is vacant, the functions of the chief executive officer under this section may be performed by an employee of the Authority designated by the Authority.
+
+#### 105. Accountability of chief executive officer to Public Accounts Committee.
+
+**105**.— (1) The chief executive officer, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, shall give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the Authority is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Authority in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Authority for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Authority referred to in any—
+
+(i) special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or
+
+(ii) other report of the Comptroller and Auditor General (insofar as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) In the performance of the duties of the chief executive officer under this section, the chief executive officer shall not question or express an opinion on—
+
+(*a*) the merits of any policy of the Government or of a Minister of the Government, or
+
+(*b*) the objectives of such a policy.
+
+#### 106. Accountability of chief executive officer to other Oireachtas Committees.
+
+**106**.— (1) In this section, “committee” means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas, other than—
+
+(*a*) the Committee on Members’ Interests of Dáil Éireann,
+
+(*b*) the Committee on Members’ Interests of Seanad Éireann, and
+
+(*c*) the Committee referred to in *section 105(1)*,
+
+or a sub-committee of such a committee.
+
+(2) Subject to *subsection (3)*, the chief executive officer, at the request in writing of a committee, shall attend before it to give account for the general administration of the Authority.
+
+(3) The chief executive officer is not required to give account before a committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+(4) Where the chief executive officer is of opinion that a matter in respect of which he or she is requested to give an account before a committee is a matter to which *subsection (3)* applies—
+
+(*a*) he or she shall inform the committee of the opinion and the reasons for it, and
+
+(*b*) unless the information is conveyed to the committee at a time when the chief executive officer is before it, the information shall be so conveyed in writing.
+
+(5) Where the chief executive officer has informed a committee of his or her opinion in accordance with *subsection (4)* and the committee does not withdraw the request referred to in *subsection (2)* insofar as it relates to a matter the subject of that opinion—
+
+(*a*) the chief executive officer, not later than 21 days after being informed by the committee of its decision not to withdraw the request, may apply to the High Court in a summary manner for determination of the question whether the matter is one to which *subsection (3)* applies, or
+
+(*b*) the chairperson of the committee, on behalf of the committee, may make such an application,
+
+and the High Court shall determine the matter.
+
+(6) Pending determination of an application under *subsection (5)*, the chief executive officer shall not attend before the committee to give account for the matter that is the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which *subsection (3)* applies, the committee shall withdraw the request referred to in *subsection (2)*, but if the High Court determines that *subsection (3)* does not apply, the chief executive officer shall attend before the committee to give account for the matter.
+
+(8) In the performance of his or her duties under this section, the chief executive officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+### Chapter 3 Accountability, Plans, Reports and Funding — Chapter 3 — Accountability, Plans, Reports and Funding
+
+#### 107. Directions to Authority.
+
+**107**.— (1) The Minister may give general directions in writing to the Authority for any purpose in relation to the provisions of this Act, or any other enactment, and for any matter or thing referred to in this Act—
+
+(*a*) as specified or to be specified, or
+
+(*b*) as determined or to be determined.
+
+(2) The Minister may direct the Authority to supply the Minister with information, reports or statistics, in the manner and within the period, both as the Minister may determine, in relation to the performance of the functions assigned by or under this Act to the Authority.
+
+(3) The Authority shall comply with a direction under *subsection (1)* or *(2)* given by the Minister.
+
+#### 108. Corporate plan of Authority.
+
+**108**.— (1) The Authority shall prepare, adopt and at the times specified in *subsection (2)*, submit to the Minister for approval a corporate plan for the 3 years immediately following the date of its submission.
+
+(2) A corporate plan shall be submitted at the following times:
+
+(*a*) within 6 months of the establishment day;
+
+(*b*) within 6 months of the appointment of a new Minister for Health and Children if he or she requests that a new corporate plan be submitted;
+
+(*c*) at the end of the 3 year period since the last corporate plan was submitted.
+
+(3) The corporate plan shall be prepared in a form and manner in accordance with any direction given by the Minister and shall specify—
+
+(*a*) the key objectives of the Authority for the 3 year period concerned and the strategies for achieving those objectives, and
+
+(*b*) the uses to which the Authority proposes to apply its resources.
+
+(4) In preparing the corporate plan, the Authority shall have regard to the policies of the Government or a Minister of the Government to the extent that those policies may affect or relate to the functions of the Authority.
+
+(5) Within 3 months of receiving a corporate plan, the Minister shall—
+
+(*a*) approve the plan, or
+
+(*b*) refuse to approve the plan if the plan is not amended in accordance with any directions that may be given by the Minister to the Authority.
+
+(6) An approved corporate plan may be amended by the Minister at any time or may be amended by the Authority, but in the latter case only after—
+
+(*a*) the Authority submits the proposed amendment to the Minister for approval, and
+
+(*b*) the amendment is approved by the Minister.
+
+(7) *Subsections (3)* to *(6)* apply with the necessary modifications in respect of an amendment by the Authority to an approved corporate plan.
+
+(8) Nothing in a corporate plan is to be taken to prevent the Authority from, or to limit the Authority in, performing its functions.
+
+(9) The Minister shall ensure that a copy of an approved corporate plan is laid before both Houses of the Oireachtas—
+
+(*a*) within 21 days of the plan being approved by the Minister, and
+
+(*b*) if the plan is amended under *subsection (6)* after being approved by the Minister, within 21 days of—
+
+(i) in the case of an amendment made by the Minister, the making of the amendment, or
+
+(ii) in the case of an amendment made by the Authority, the approval of the amendment by the Minister.
+
+(10) The Authority shall ensure that, as soon as practicable after copies of an approved plan are laid before the Houses of the Oireachtas, the plan is published—
+
+(*a*) on the Internet, and
+
+(*b*) in accordance with such other arrangements as the Minister may specify.
+
+(11) The Authority shall provide the Minister with a progress report on the implementation of an approved corporate plan for the Authority in the Authority’s annual report and, at the request of the Minister, at other times that the Minister may specify.
+
+#### 109. Grants to Authority.
+
+**109**.— The Minister shall advance to the Authority out of moneys provided by the Oireachtas such sum as the Minister may, with the consent of the Minister for Finance, determine for the purposes of expenditure by the Authority in the performance of its functions.
+
+#### 110. Submission of business plan.
+
+**110**.— (1) The Minister may, at any time before the beginning of a financial year, request the Authority to submit to the Minister a business plan for that financial year, and the Authority shall comply with such a request.
+
+(2) A business plan shall—
+
+(*a*) be prepared in the form and manner and in accordance with any directions given by the Minister,
+
+(*b*) indicate the Authority’s activities for the period to which the business plan relates,
+
+(*c*) contain estimates of the number of employees of the Authority for the period to which the plan relates,
+
+(*d*) contain any other information specified by the Minister, and
+
+(*e*) accord with policies and objectives of the Minister and the Government.
+
+(3) In preparing the business plan, the Authority shall have regard to the corporate plan in operation at that time approved under *section 108* and any direction given by the Minister under *section 107*.
+
+(4) The Authority shall give effect to the business plan unless the Minister, within 30 days of the submission of the plan, directs the Authority in writing to either amend the plan or not to give effect to it.
+
+(5) At the same time as giving a direction to the Authority under *subsection (4)*, the Minister shall give his or her reasons in writing for the direction to the Authority.
+
+(6) The Authority shall comply with a direction under *subsection (4)*.
+
+#### 111. Code of governance.
+
+**111**.— (1) As soon as practicable after the Authority is established, it shall submit to the Minister for approval a code of governance that includes an outline of—
+
+(*a*) the guiding principles applicable to the Authority as a public body having the functions described in *section 96*,
+
+(*b*) the structure of the Authority, including the role and responsibilities of the Authority and the chief executive officer,
+
+(*c*) the processes and guidelines to be followed to ensure compliance with the reporting requirements imposed on the Authority by or under this Act, and
+
+(*d*) the Authority’s internal controls, including its procedures relating to internal audit, risk management, public procurement and financial reporting.
+
+(2) The Authority shall review the code of governance periodically at the times that may be specified by the Minister and shall revise the code as the Authority considers appropriate.
+
+(3) In preparing or making revisions to the code of governance, the Authority shall have regard to any direction given by the Minister under *section 107*.
+
+(4) Following the Minister’s approval of the code of governance or of any revisions to it, the Authority shall arrange for the publication of the code or the revised code.
+
+(5) The Authority shall indicate in its annual report its arrangements for implementing and maintaining adherence to the code of governance.
+
+#### 112. Accounts of Authority.
+
+**112**.— (1) The chief executive officer shall cause to be kept all proper and usual books or other records of account of—
+
+(*a*) all income and expenditure of the Authority,
+
+(*b*) the source of the income and the subject matter of the expenditure, and
+
+(*c*) the property, assets and liabilities of the Authority.
+
+(2) Without prejudice to the generality of *subsection (1)*, the chief executive officer shall also keep such special accounts as the Minister may direct.
+
+(3) The books, records and special accounts kept under this section shall be—
+
+(*a*) kept in the form, and
+
+(*b*) for the accounting periods,
+
+that the Minister may specify, with the consent of the Minister for Finance.
+
+(4) The accounts of the Authority prepared by the chief executive officer and approved by the Board shall be submitted to the Comptroller and Auditor General for audit not later than 3 months after the end of the financial year to which the accounts relate.
+
+(5) Within one month of the Comptroller and Auditor General issuing an audit certificate for the accounts of the Authority, a copy of—
+
+(*a*) the accounts, and
+
+(*b*) the report of the Comptroller and Auditor General on the accounts,
+
+shall be presented to the Minister who, within 2 months after their receipt, shall cause copies thereof to be laid before each House of the Oireachtas.
+
+(6) If required by the Minister, the Authority shall furnish to the Minister the information the Minister may require in respect of any balance sheet, account or report of the Authority.
+
+(7) The Authority, the chief executive officer and other employees of the Authority—
+
+(*a*) whenever so requested by the Minister, shall permit any person appointed by the Minister to examine the books or other records of account of the Authority in respect of any financial year or other period, and
+
+(*b*) shall facilitate the examination,
+
+and the Authority shall pay such fee as may be fixed by the Minister for the examination.
+
+### Chapter 4 Standards, Codes of Conduct, Disqualification, etc. — Chapter 4 — Standards, Codes of Conduct, Disqualification, etc.
+
+#### 113. Standards of integrity.
+
+**113**.— (1) In performing functions under this or any other enactment as—
+
+(*a*) a member of the Authority or a committee of the Authority,
+
+(*b*) the chief executive officer or an employee of the Authority,
+
+(*c*) a person engaged under *section 124* by the Authority as an adviser, or
+
+(*d*) an employee of a person referred to in *paragraph (c)*,
+
+a person shall maintain proper standards of integrity, conduct and concern for the public interest.
+
+(2) *Subsection (1)* applies to an employee of a person referred to in *subsection (1)(c)* in respect only of duties of employment relating to the purposes for which the Authority has engaged that person.
+
+#### 114. Codes of conduct.
+
+**114**.— (1) For the purposes of *section 113 (1)*, the Authority shall issue codes of conduct for the guidance of persons who are—
+
+(*a*) members of a committee of the Authority but are not members of the Authority,
+
+(*b*) employees of the Authority other than employees to whom a code of conduct under section 10(3) of the Standards in Public Office Act 2001 applies,
+
+(*c*) engaged under *section 124* by the Authority as advisers, or
+
+(*d*) employees of persons referred to in *paragraph (c)*.
+
+(2) A code of conduct issued under this section for the guidance of persons referred to in *subsection (1)* shall indicate the standards of integrity and conduct to be maintained by them in performing their functions under this or any other enactment.
+
+(3) A person to whom the code of conduct relates is required to have regard to and be guided by the code in performing functions under this or any other enactment.
+
+(4) The terms and conditions on which a person is employed by the Authority or by a person referred to in *subsection (1) (c)* or on which a person is engaged by the Authority as an adviser are deemed to include the requirements that apply to that person under *subsection (3)*.
+
+#### 115. Availability of codes of conduct.
+
+**115**.— (1) Subject to *subsection (2)*, the Authority, as soon as practicable after issuing a code of conduct, shall make the code available to the persons for whose guidance it was issued.
+
+(2) A code of conduct for the guidance of employees of a person engaged by the Authority as an adviser shall be issued by the Authority to the employer and shall be made available by the employer to those employees.
+
+(3) In the absence of evidence to the contrary, a document purporting to be a code of conduct issued under this section—
+
+(*a*) is that code of conduct, and
+
+(*b*) is admissible in any proceedings before a court or other tribunal,
+
+and any provision of the code of conduct that appears to the court or other tribunal to be relevant to a question in the proceedings may be taken into account by the court or tribunal in determining the question.
+
+#### 116. Gifts.
+
+**116**.— (1) The Authority may accept gifts of money, land or other property upon such trusts or conditions (if any) as may be specified by the donor.
+
+(2) The Authority shall not accept a gift if the trusts or conditions attaching to it would be inconsistent with the Authority’s—
+
+(*a*) functions, or
+
+(*b*) obligations,
+
+under this Act or any other enactment.
+
+#### 117. Annual report.
+
+**117**.— (1) Not later than 30 June in each year, the Authority shall prepare and adopt an annual report in relation to the performance of the Authority’s functions during the immediately preceding calendar year.
+
+(2) An annual report shall include—
+
+(*a*) a statement of the activities undertaken by the Authority,
+
+(*b*) a report on the implementation of the Authority’s corporate plan approved under *section 108*,
+
+(*c*) a report on the implementation of the Authority’s business plan submitted to the Minister under *section 110*,
+
+(*d*) a report on the Authority’s arrangements for implementing and maintaining adherence to its code of governance,
+
+(*e*) other particulars that the Authority considers appropriate or as the Minister may specify, including but not limited to financial statements,
+
+(*f*) the number of applications for adoption and the decisions of the Authority thereon,
+
+(*g*) the names of the accredited bodies concerned in the applications,
+
+(*h*) the number of applications for registration of accredited bodies and the decisions of the Authority thereon, and
+
+(*i*) the name and address—
+
+(i) of each of the accredited bodies entered in the register of accredited bodies, and
+
+(ii) of each of the accredited bodies whose name was removed from the register,
+
+during the immediately preceding year.
+
+(3) As soon as may be, but in any event not later than 21 days after adopting the annual report, the Authority shall submit a copy of the annual report to the Minister.
+
+(4) The Minister shall ensure that copies of the annual report are laid before each House of the Oireachtas within 21 days of the Minister receiving the report.
+
+(5) The Authority shall ensure that the annual report is published—
+
+(*a*) on the Internet, and
+
+(*b*) in accordance with any other arrangements that the Minister may specify,
+
+as soon as practicable after copies of the report are laid before the Houses of the Oireachtas.
+
+#### 118. Information to be furnished to Minister and Authority’s discretion to publish other reports.
+
+**118**.— (1) The Authority, whenever requested by the Minister, shall furnish to the Minister any information that the Minister may require relating to the policies and activities of the Authority.
+
+(2) The Authority, as it considers relevant and appropriate, may publish reports in addition to the annual report on matters related to the Authority’s activities and functions.
+
+#### 119. Prohibition against unauthorised disclosure of confidential information.
+
+**119**.— (1) In this section “confidential information” means—
+
+(*a*) information that is expressed by the Authority to be confidential either as regards particular information or as regards information of a particular class or description, or
+
+(*b*) proposals of a commercial nature or tenders submitted to the Authority by any person.
+
+(2) Except in the circumstances specified in *subsection (3)*, a person shall not disclose confidential information obtained while performing functions as—
+
+(*a*) a member of the Authority or a committee of the Authority,
+
+(*b*) the chief executive officer or any other employee of the Authority,
+
+(*c*) a person engaged by the Authority as an adviser, or
+
+(*d*) an employee of a person referred to in *paragraph (c)*.
+
+(3) A person does not contravene *subsection (2)* by disclosing confidential information if the disclosure—
+
+(*a*) is made to or authorised by the Authority,
+
+(*b*) is made to the Minister by or on behalf of the Authority or in compliance with this Act, or
+
+(*c*) is required by law.
+
+#### 120. Disqualification resulting from membership of either House of the Oireachtas, European Parliament or local authority.
+
+**120**.— The chief executive officer immediately ceases to hold office on—
+
+(*a*) being nominated as a member of Seanad Éireann,
+
+(*b*) being elected as a member of either House of the Oireachtas or of the European Parliament,
+
+(*c*) being regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) becoming a member of a local authority.
+
+#### 121. Secondment of employees resulting from membership of either House of Oireachtas, European Parliament or local authority.
+
+**121**.— (1) An employee of the Authority (other than the chief executive officer) is immediately seconded from employment with the Authority on—
+
+(*a*) being nominated as a member of Seanad Éireann,
+
+(*b*) being elected as a member of either House of the Oireachtas or of the European Parliament,
+
+(*c*) being regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) becoming a member of a local authority.
+
+(2) No remuneration or allowances are payable by the Authority in respect of the secondment period from employment under *subsection (1)* and that period is not to be counted as service with the Authority for the purposes of any superannuation benefit.
+
+(3) In relation to a person seconded under *subsection (1)* from employment, the secondment period begins on the occurrence of the relevant event referred to in that subsection and ends when the person ceases to be a member of either House of the Oireachtas, a member of the European Parliament or a member of a local authority, as the case may be.
+
+### Chapter 5 Employees of Authority, etc. — Chapter 5 — Employees of Authority, etc.
+
+#### 122. Employees of Authority.
+
+**122**.— (1) The Authority, subject to *subsections (2)* and *(3)*, may appoint persons to be the Authority’s employees and may determine their duties.
+
+(2) Employees appointed under this section shall be recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004.
+
+(3) *Subsection (2)* does not apply to employees appointed under this section during the 3 months beginning on the establishment day or during a shorter period that the Minister may specify.
+
+(4) The Authority, with the approval of the Minister given with the consent of the Minister for Finance, shall determine—
+
+(*a*) the terms and conditions of employment (including terms and conditions relating to remuneration and allowances) of employees appointed under this section, and
+
+(*b*) the grades of the employees of the Authority and the numbers of employees in each grade.
+
+(5) A person is not eligible for appointment as an employee of the Authority if the person is—
+
+(*a*) a member of either House of the Oireachtas or of the European Parliament,
+
+(*b*) regarded pursuant to section 19 of the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy, or
+
+(*c*) a member of a local authority.
+
+(6) The remuneration and allowances of the Authority’s employees are payable by the Authority to the employees out of funds at the Authority’s disposal.
+
+#### 123. Superannuation.
+
+**123**.— (1) In this section, “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death.
+
+(2) The Authority shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such employees of the Authority as it may think fit.
+
+(3) Every such scheme shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme, and different terms may be fixed in respect of different classes of persons.
+
+(4) Every such scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
+
+(5) A scheme submitted by the Authority under this section, if approved by the Minister with the consent of the Minister for Finance, shall be carried out by the Authority in accordance with the terms of the scheme.
+
+(6) No superannuation benefit shall be granted by the Authority, nor shall any other arrangements be entered into by the Authority for the provision of such a benefit, to or in respect of an employee, otherwise than—
+
+(*a*) in accordance with a scheme under this section, or
+
+(*b*) with the consent of the Minister and the Minister for Finance.
+
+(7) Each scheme made under this section shall make provision for appeals.
+
+(8) The terms and conditions governing superannuation benefits granted under schemes made under this section to persons who transferred to the Authority under *section 137* shall be no less favourable than those terms and conditions to which those persons were entitled immediately before their transfer.
+
+(9) Where, in the period beginning on the establishment day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who was transferred to the Authority under *section 137*—
+
+(*a*) the benefit shall be calculated by the Authority in accordance with such scheme, or such enactments in relation to superannuation, as applied to the person immediately before the transfer, and
+
+(*b*) the person’s pensionable service with the Authority shall be aggregated with the person’s previous pensionable service and the benefit, as so calculated, shall be paid by the Authority.
+
+(10) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to anything done previously.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E54: Power pursuant to section exercised (3.04.2017) by *Adoption Authority of Ireland Superannuation Scheme 2017* (S.I. No. 157 of 2017), in effect as per art. 1(2).
+
+#### 124. Advisers.
+
+**124**.— (1) The Authority, with the approval of the Minister given with the consent of the Minister for Finance, may engage such advisers as the Authority considers necessary for the performance of its functions.
+
+(2) Any fees due to an adviser engaged under this section are payable by the Authority out of funds at the Authority’s disposal.
+
+## PART 13 Registration of Accredited Bodies — PART 13 — Registration of Accredited Bodies
+
+### Chapter 1 Arrangements for Adoption — Chapter 1 — Arrangements for Adoption
+
+#### 125. Restrictions on making arrangements for adoption.
+
+**125**.— (1) A person shall not—
+
+(*a*) make or attempt to make an arrangement for the adoption of a child,
+
+(*b*) for the purpose of having a child adopted—
+
+(i) retain the child in the person’s custody, or
+
+(ii) arrange to have the child retained in the custody of another person, or
+
+(*c*) take part in the management or control of a body of persons which exists wholly or partly for the purpose of making arrangements for adoption.
+
+(2) A person shall not give a child, or cause a child to be given, to another person for the purpose of having the child adopted unless—
+
+(*a*) the first-mentioned person is a parent of the child, and
+
+F99[(*b*) the person who intends to adopt the child is—
+
+(i) a parent of the child,
+
+(ii) a relative of the child,
+
+(iii) the spouse of the parent of a child,
+
+(iv) the civil partner of the parent of a child, or
+
+(v) the cohabitant of a parent of the child, where the cohabitant and that parent are a cohabiting couple.]
+
+F100[(3) A person shall not receive a child for the purpose of adopting the child unless the person is—
+
+(*a*) a parent of the child,
+
+(*b*) a relative of the child,
+
+(*c*) the spouse of a parent of the child,
+
+(*d*) the civil partner of a parent of the child,
+
+(*e*) the cohabitant of a parent of the child where the cohabitant and that parent are a cohabiting couple, or
+
+(*f*) a person with whom a child is placed by an accredited body or the Child and Family Agency.]
+
+(4) Notwithstanding *subsections (1)* and *(2)*, the F101[Child and Family Agency] may carry out any of the activities described in those subsections.
+
+(5) Notwithstanding *subsections (1)* and *(2)*, an accredited body may carry out any of the activities described in those subsections in respect of which the accredited body is registered in the register of accredited bodies.
+
+(6) Notwithstanding *subsection (1)(a)*, a person may carry out an activity described in *paragraph (g)*, *(h)* or *(i)* of *section 4* so long as that person is not also carrying out an activity described in *paragraphs (a)* to *(f)*, *(j)* or *(k)* of that section or any of the activities described in *section 5*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 38(a), S.I. No. 443 of 2017.
+>
+> F100: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 38(b), S.I. No. 443 of 2017.
+>
+> F101: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> **Editorial Notes:**
+>
+> E55: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 131, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+>
+> E56: Previous affecting provision: subs. (3)(d) amended (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 21, S.I. No. 502 of 2013; substituted as per F-note above.
+
+### Chapter 2 Register of Accredited Bodies — Chapter 2 — Register of Accredited Bodies
+
+#### 126. Register of accredited bodies.
+
+**126**.— (1) The Adoption Societies Register kept under section 35 of the Adoption Act 1952 by An Bord Uchtála is continued in being and, on and after the establishment day, is to be—
+
+(*a*) known as the register of accredited bodies, and
+
+(*b*) kept and maintained under this Act by the Authority.
+
+(2) Entries in the register of accredited bodies shall be in the form and contain the particulars required under *section 127*.
+
+(3) The register of accredited bodies shall be made available for inspection by any person at all reasonable times.
+
+(4) Every document purporting to be a copy of or extract from an entry in the register of accredited bodies and purporting to be certified by the chief executive officer to be a true copy of or extract from the register of accredited bodies shall—
+
+(*a*) be received in evidence in any legal proceedings, and
+
+(*b*) until the contrary is proved, be deemed to be a true copy of or extract from such entry, and to be evidence of such entry,
+
+without proof of the signature of the chief executive officer.
+
+#### 127. Registration of accredited bodies.
+
+**127**.— (1) Subject to this section, the Authority shall enter in the register of accredited bodies—
+
+(*a*) the name of any body of persons that applies to be registered and furnishes to the Authority such information as the Authority considers necessary to determine if the body of persons is entitled to be registered,
+
+(*b*) particulars of the activity or activities in respect of which the body of persons is registered, and
+
+(*c*) particulars of the state or states of origin to which the registration relates in any case where the registration of the body of persons is for any such activity or activities related to the adoption or maintenance of a child whose state of origin is—
+
+(i) another contracting state, or
+
+(ii) a state that has a bilateral agreement with the State.
+
+(2) The Authority shall not register in the register of accredited bodies any body of persons in respect of any activity or activities unless satisfied that the body of persons meets the requirements prescribed for the time being under *section 151* in respect of that activity, those activities or any combination of those activities.
+
+(3) The Authority may refuse to register in the register of accredited bodies any body of persons in respect of any activity or activities—
+
+(*a*) if that body of persons does not meet the requirements referred to in *subsection (2)* that are applicable to that body of persons, or
+
+(*b*) if it appears to the Authority that any person who—
+
+(i) takes part in the management or control of the body of persons, or
+
+(ii) is engaged on behalf of the body of persons in connection with that activity,
+
+is not a fit and proper person to act in that regard.
+
+(4) A body of persons that is registered in the register of accredited bodies in respect of—
+
+(*a*) one or more of the activities specified in *paragraphs (e)* to *(g)* of *section 4*, or
+
+(*b*) an activity specified in *section 5 (b)*,
+
+is disqualified for registration in respect of any other activity.
+
+(5) On registering a body of persons in the register of accredited bodies, the Authority shall issue to the body of persons a certificate of registration specifying—
+
+(*a*) the activity or activities for which that body of persons is registered, and
+
+(*b*) if the body of persons is registered for any activity or activities specified in *section 4* or *5* related to the adoption or maintenance of a child whose state of origin is—
+
+(i) another contracting state, or
+
+(ii) a state that has a bilateral agreement with the State,
+
+the state or states of origin to which the registration relates.
+
+(6) Notwithstanding any other provision of this section, the Authority—
+
+(*a*) under Article 12 (which relates to when an accredited body in one contracting state may act in another), may authorise an accredited body to act in another state, and
+
+(*b*) subject to any applicable provision of a bilateral agreement, may authorise an accredited body to act in a state that has entered into a bilateral agreement with the State.
+
+#### 128. Renewal of registration.
+
+**128**.— (1) Subject to *section 130*, the period of registration of an accredited body is 5 years from the date of registration.
+
+(2) Subject to any regulations made under *section 151*, an accredited body may apply for renewal of registration for further periods, each of which shall not exceed 3 years.
+
+(3) An accredited body shall furnish to the Authority such information as the Authority considers necessary to determine whether the registration of the body should be renewed.
+
+(4) *Subsections (2)*, *(3)* and *(4)* of *section 127* apply in relation to an application for renewal of registration as those subsections apply in relation to an application for registration.
+
+(5) A term of renewal of registration, including a renewal pursuant to an application for renewal of registration referred to in *section 129*, takes effect from the expiry of the previous registration.
+
+#### 129. Cancellation of registration for failure to apply for renewal.
+
+**129**.— (1) If an accredited body does not apply for renewal of registration when it is required by *section 128* to do so, the Authority shall inform the accredited body by notice in writing that its registration will be cancelled one month after the date of the notice unless an application for renewal of registration is received within that month.
+
+(2) If the accredited body does not apply for renewal of registration within one month of the date of the notice under *subsection (1)*, the Authority shall cancel the body’s registration.
+
+#### 130. Cancellation of registration for other reasons.
+
+**130**.— The Authority may cancel the registration of an accredited body in respect of any or all of the activities for which it is registered if—
+
+(*a*) there are grounds on which the Authority would be entitled or required to refuse an application for the registration of the accredited body,
+
+(*b*) it appears to the Authority that this Act is not, or the regulations under *section 151* are not, being complied with by the accredited body, or
+
+(*c*) an offence under this Act is committed by the accredited body or by any person acting on its behalf.
+
+#### 131. Amendment of registration.
+
+**131**.— The Authority may amend an entry in the register of accredited bodies relating to an accredited body if the Authority considers the amendment necessary or desirable in the circumstances.
+
+#### 132. Duty to notify of registration decisions.
+
+**132**.— (1) Where the Authority proposes in respect of an activity to—
+
+(*a*) refuse to register an applicant in the register of accredited bodies,
+
+(*b*) refuse to renew the registration of an accredited body,
+
+(*c*) amend the registration of an accredited body, or
+
+(*d*) cancel the registration of an accredited body,
+
+in respect of that activity, the Authority shall give written notice to the applicant or the accredited body concerned of the proposal and of the reasons for it.
+
+(2) The notice of the Authority’s proposal shall include a statement that the applicant or accredited body concerned may make representations in writing to the Authority within 21 days of receiving the notice.
+
+(3) The Authority—
+
+(*a*) before any decision on a proposal of which notice is given under *subsection (1)*, shall take into consideration any representations made to the Authority by the applicant or accredited body concerned within the 21 days referred to in *subsection (2)*, and
+
+(*b*) on carrying out the proposal, shall give written notice to the applicant or accredited body of the Authority’s decision and of the reasons for the decision.
+
+(4) The notice of the Authority’s decision shall include a statement that the applicant or accredited body concerned may appeal the decision to the District Court within 21 days of receiving the notice.
+
+#### 133. Accredited bodies to furnish information to Authority and permit inspection of their records.
+
+**133**.— An accredited body, every officer of the accredited body and every other person taking part in its management or control shall—
+
+(*a*) furnish the Authority with such information as the Authority may from time to time by notice in writing require with regard to the accredited body’s constitution, membership, employees, organisation and activities, and
+
+(*b*) at all reasonable times permit a member or employee of the Authority authorised by the Authority to inspect and make copies of all books and documents relating to adoption that are under the control of the accredited body.
+
+#### 134. Notices in Iris Oifigiúil of registration and cancellation.
+
+**134**.— The Authority shall cause to be published in *Iris Oifigiúil* a notice in the prescribed form of every registration and cancellation of registration in the register of accredited bodies.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E57: Form of notice prescribed for purposes of section (14.12.2010) by *Adoption Act 2010 (Section 134) (Forms) Regulations 2010* (S.I. No. 597 of 2010), reg. 3 and sch., in effect as per reg. 4.
+
+### Chapter 3 Appeals Respecting Registration of Accredited Bodies — Chapter 3 — Appeals Respecting Registration of Accredited Bodies
+
+#### 135. Appeals from decisions relating to registration.
+
+**135**.— (1) Any body of persons may appeal to the District Court against a decision of the Authority under *section 132*, in respect of an activity—
+
+(*a*) to refuse to register in the register of accredited bodies that body of persons,
+
+(*b*) to refuse to renew the registration of that body of persons in the register of accredited bodies,
+
+(*c*) to amend the registration of that body of persons in the register of accredited bodies, or
+
+(*d*) to cancel the registration of that body of persons in the register of accredited bodies,
+
+in respect of that activity.
+
+(2) The appeal shall be brought not later than 21 days after the body of persons concerned receives written notice of the decision and notice of the appeal shall be given by that body of persons to the Authority.
+
+(3) After hearing the appeal, the District Court may—
+
+(*a*) confirm the decision under appeal, or
+
+(*b*) direct the Authority, as may be appropriate, in respect of the activity concerned—
+
+(i) to register the body of persons in the register of accredited bodies,
+
+(ii) to renew the registration of the body of persons,
+
+(iii) to withdraw the amendment of the registration, or
+
+(iv) to restore the cancelled registration.
+
+(4) A decision of the District Court under this section on a matter of fact is final.
+
+(5) The Authority is entitled—
+
+(*a*) to be given notice of an appeal under this section, and
+
+(*b*) to appear, be heard and adduce evidence at the hearing of the appeal.
+
+## PART 14 Dissolution of An Bord Uchtla — PART 14 — Dissolution of An Bord Uchtála
+
+### 136. Dissolution of An Bord Uchtála.
+
+**136**.— An Bord Uchtála is dissolved by this Act on the establishment day.
+
+### 137. Transfer of persons to be employees of Authority.
+
+**137**.— (1) In this section—
+
+“recognised trade union or association of employees” means—
+
+(*a*) a trade union, or
+
+(*b*) an association of employees,
+
+recognised by the Authority for the purposes of negotiations that are concerned with the terms and conditions of employment;
+
+“terms and conditions of service” includes terms and conditions in respect of tenure of office, remuneration and related matters.
+
+(2) The Minister, in relation to civil servants serving in the Department of Health and Children and the Minister for Justice and Law Reform, in relation to civil servants serving in the Department of Justice and Law Reform, shall designate civil servants immediately before the establishment day to be transferred to the Authority on the establishment day.
+
+(3) Staff transferred in accordance with *subsection (2)* are deemed to be public servants in the employment of the Authority.
+
+(4) Save in accordance with a collective agreement negotiated with any recognised trade unions and staff associations concerned, a person who is transferred to the Authority under *subsection (2)* shall not, at the time of the transfer, receive pay at a lesser scale of pay or be made subject to less beneficial terms and conditions of service (including those relating to tenure of office) than the scale of pay to which the person was entitled or the terms and conditions of service (including those relating to tenure of office) to which he or she was subject immediately before the transfer.
+
+(5) The previous service in the civil service of a person transferred under this section is to be counted as service for the purposes of, but subject to any exceptions or exclusions in, the following Acts:
+
+(*a*) the Redundancy Payments Acts 1967 to 2007;
+
+(*b*) the Protection of Employees (Part-Time Work) Act 2001;
+
+(*c*) the Protection of Employees (Fixed-Term Work) Act 2003;
+
+(*d*) the Organisation of Working Time Act 1997;
+
+(*e*) the Minimum Notice and Terms of Employment Acts 1973 to 2005;
+
+(*f*) the Unfair Dismissals Acts 1977 to 2007;
+
+(*g*) the Maternity Protection Acts 1994 and 2004;
+
+(*h*) the Parental Leave Acts 1998 and 2006;
+
+(*i*) the Adoptive Leave Acts 1995 and 2005;
+
+(*j*) the Carer’s Leave Act 2001;
+
+(*k*) the Terms of Employment (Information) Acts 1994 and 2001.
+
+### 138. Transfer of property and liabilities to Authority.
+
+**138**.— (1) On the establishment day all property that, immediately before that day, was the property of An Bord Uchtála is transferred to and vested in the Authority without any conveyance or assignment.
+
+(2) All rights and liabilities of An Bord Uchtála arising by virtue of any contract, agreement or arrangement—
+
+(*a*) entered into by or on behalf of An Bord Uchtála before the establishment day, and
+
+(*b*) in effect immediately before that day,
+
+are on the establishment day transferred to the Authority.
+
+(3) Each right and liability transferred under this section, on or after its transfer, may be sued on, recovered or enforced by or against the Authority in the Authority’s own name.
+
+(4) The Authority need not give notice of the transfer to the person whose right or liability is transferred.
+
+### 139. Preservation of contracts, etc., and adaptation of references.
+
+**139**.— (1) Every contract, agreement or arrangement made between An Bord Uchtála and any other person and in force immediately before the establishment day—
+
+(*a*) continues in force on and after that day,
+
+(*b*) has effect as if the name of the Authority were substituted in the contract, agreement or arrangement for that of An Bord Uchtála, and
+
+(*c*) is enforceable by or against the Authority.
+
+(2) Notwithstanding *subsection (1)*, a person who, immediately before the establishment day, has a contract, agreement or arrangement with An Bord Uchtála is entitled as of that day, without any legal consequences, to terminate the contract by notice in writing delivered to the Authority.
+
+### 140. Records of An Bord Uchtála.
+
+**140**.— Each record held by An Bord Uchtála immediately before the establishment day—
+
+(*a*) is transferred on that day to the Authority, and
+
+(*b*) on and from that day, is the property of the Authority and shall be held by the Authority.
+
+### 141. Pending legal proceedings.
+
+**141**.— (1) If, immediately before the establishment day, any legal proceedings to which An Bord Uchtála is a party are pending in any court or tribunal—
+
+(*a*) the Authority’s name is substituted in the proceedings for that of An Bord Uchtála, and
+
+(*b*) the proceedings do not abate because of the substitution.
+
+(2) Any reference to An Bord Uchtála in an order made by a court or tribunal before the establishment day shall be read on and after the establishment day as a reference to the Authority.
+
+### 142. Pending adoption proceedings.
+
+**142**.— If, immediately before the establishment day, any proceedings brought by an applicant or applicants to An Bord Uchtála for an adoption order are continuing—
+
+(*a*) the Authority’s name is substituted in the proceedings for that of An Bord Uchtála, and
+
+(*b*) the proceedings do not abate because of the substitution.
+
+### 143. References to Adoption Board in enactments made before establishment day.
+
+**143**.— (1) In *subsection (2)*, “statutory instrument” does not include an adoption order or any amendment to an adoption order.
+
+(2) Subject to this Act, on and after the establishment day, references to An Bord Uchtála or the Adoption Board—
+
+(*a*) in any Act passed before the establishment day, or
+
+(*b*) in any statutory instrument made before that day under an Act,
+
+are to be read as references to the Authority, unless the context otherwise requires.
+
+## PART 15 Offences — PART 15 — Offences
+
+### Chapter 1 Contraventions and Non-Compliance Other than as Provided in Other Parts — Chapter 1 — Contraventions and Non-Compliance Other than as Provided in Other Parts
+
+#### 144. Prohibition against certain advertisements.
+
+**144**.— F102[(1)] A person shall not publish or cause to be published an advertisement indicating—
+
+(*a*) that a parent or guardian of a child desires to have the child adopted,
+
+(*b*) that a person desires to adopt a child, or
+
+(*c*) that a person (not being an accredited body, the F103[Child and Family Agency] or the Authority) is willing to make arrangements for the adoption of a child.
+
+F104[(2) In this section “guardian” includes any guardian of a child who stands appointed under the Act of 1964.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 39(a), S.I. No. 443 of 2017.
+>
+> F103: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F104: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 39(b), S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E58: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 132, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 145. Prohibition against receiving, making or giving certain payments and rewards or agreeing to do so.
+
+**145**.— (1) A person who is—
+
+(*a*) an adopter,
+
+(*b*) a prospective adopter,
+
+(*c*) a parent, or
+
+(*d*) a guardian,
+
+of a child shall not receive or agree to receive, in consideration of the adoption of the child, any payment or other reward.
+
+(2) A person shall not make or give, or agree to make or give, any—
+
+(*a*) payment, or
+
+(*b*) other reward,
+
+the receipt of which is prohibited by *subsection (1)*.
+
+(3) A person shall not—
+
+(*a*) receive, make or give any payment or other reward, or
+
+(*b*) agree to receive, make or give any payment or other reward,
+
+in consideration of making arrangements for the adoption of a child.
+
+(4) *Subsections (2)* and *(3)* do not apply to accredited bodies in respect of—
+
+(*a*) reasonable costs and expenses related to their functions, including reasonable fees paid as remuneration for professional services, and
+
+(*b*) the receipt of gifts of money with the prior approval of the Authority.
+
+(5) This section does not apply in respect of payments made for the maintenance of a child referred to in *subsection (1)*.
+
+F105[(6) In this section “guardian” includes any guardian of a child who stands appointed under the Act of 1964.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Inserted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 40, S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E59: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 133, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+#### 146. Prohibition against false or misleading statements or information.
+
+**146**.— A person shall not—
+
+(*a*) knowingly make any false or misleading statement or furnish any false or misleading information, or
+
+(*b*) aid or abet another person to make any false or misleading statement or furnish any false or misleading information,
+
+to the Authority, an accredited body or a person acting on behalf of either of them.
+
+### Chapter 2 Offences and Penalties — Chapter 2 — Offences and Penalties
+
+#### 147. Offences.
+
+**147**.— (1) An accredited body is guilty of an offence if the accredited body—
+
+(*a*) contravenes *section 13*, or
+
+(*b*) fails to discharge a duty to which it is subject under *section 14*, *17* or *18* or under a provision of the regulations referred to in *section 15(1)*.
+
+(2) A person is guilty of an offence if the person—
+
+(*a*) contravenes *section 44(5)* or *119*, *subsection (1)*, *(2)* or *(3)* of *section 125*, *subsection (1)*, *(2)* or *(3)* of *section 145* or *section 146*,
+
+(*b*) fails to discharge a duty to which the person is subject under *subsection (1)* or *(2)* of *section 82* or *section 133*, or
+
+(*c*) contravenes a provision of, or fails to discharge a duty to which the person is subject under a provision of, the regulations made under this Act.
+
+(3) A person is guilty of an offence if the person contravenes *section 46 (3)*.
+
+(4) A person is guilty of an offence if the person fails to discharge a duty to which the person is subject under *section 90 (4)*.
+
+(5) A person is guilty of an offence if the person contravenes *section 144*.
+
+(6) In determining for the purposes of *subsection (2)* whether a person has contravened *section 125(1)(a)*, the court shall have regard to the matters set out in *sections 4* and *5* and also to whether the person did any or all of the following:
+
+(*a*) prepared documentation to assist any prospective adopter habitually resident in the State in complying with the adoption laws of the state of origin of the child concerned;
+
+(*b*) provided assistance to any prospective adopter habitually resident in the State in relation to any legal matter that arose in the state of origin of the child concerned and relates to the effecting of the adoption in that state or to the release of that child from that state for the purpose of adoption in the State;
+
+(*c*) provided assistance in transferring the child concerned to the State;
+
+(*d*) carried out any other activity the purpose of which was to assist any prospective adopter habitually resident in the State in adopting the child concerned whose state of origin is another contracting state or a state that has a bilateral agreement with the State.
+
+#### 148. Penalties.
+
+**148**.— (1) An accredited body guilty of an offence under *section 147 (1)* is liable on summary conviction to a fine not exceeding €5,000.
+
+(2) A person guilty of an offence under *section 147 (2)* is liable on summary conviction to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both.
+
+(3) A person guilty of an offence under *section 147 (3)* is liable on summary conviction to a fine not exceeding €3,000.
+
+(4) A person guilty of an offence under *section 147 (4)* is liable on summary conviction to a fine not exceeding €2,000 or imprisonment for a term not exceeding 6 months or both.
+
+(5) A person guilty of an offence under *section 147 (5)* is liable on summary conviction to a fine not exceeding €5,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E60: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 149. Proceedings for offences.
+
+**149**.— (1) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for an offence under this Act may be instituted at any time within 12 months from the date of the offence or, if later, 12 months from the date on which evidence that, in the opinion of the person by whom the proceedings are brought, is sufficient to justify the bringing of the proceedings comes to that person’s knowledge.
+
+(2) Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any wilful neglect on the part of, any person who, when the offence was committed, was a director, a member of the committee of management or other controlling authority of the body concerned, or the manager, secretary or other officer of the body or a person who was purporting to act in any such capacity, that person shall also be guilty of an offence and shall be liable to be proceeded against and punished as if guilty of the first-mentioned offence.
+
+## PART 16 Regulations — PART 16 — Regulations
+
+### 150. Regulations.
+
+**150**.— (1) Subject to *sections 85(5)* and *89,* the Minister may make regulations—
+
+(*a*) for any purpose in relation to which regulations are provided for in this Act,
+
+(*b*) prescribing any matter or thing referred to in this Act as prescribed or to be prescribed, and
+
+(*c*) generally for the purpose of giving effect to this Act.
+
+(2) Regulations under this Act may contain such consequential, supplementary and ancillary provisions as the Minister of the Government making the regulations considers necessary or expedient.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E61: Power pursuant to section exercised (18.01.2018) by *Adoption Act 2010 (Register of Gender Recognition of Intercountry Adoptions) (Fees) Regulations 2018* (S.I. No. 8 of 2018), in effect as per reg. 2.
+>
+> E62: Power pursuant to section exercised (18.01.2018) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2018* (S.I. No. 7 of 2018), in effect as per reg. 2.
+>
+> E63: Power pursuant to section exercised (20.12.2017) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) (Forms) Regulations 2017* (S.I. No. 606 of 2017), in effect as per reg. 2.
+>
+> E64: Power pursuant to section exercised (27.11.2017) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2017* (S.I. No. 535 of 2017), in effect as per reg. 2.
+>
+> E65: Power pursuant to section exercised (14.12.2010) by *Adoption Act 2010 (Section 134) (Forms) Regulations 2010* (S.I. No. 597 of 2010), in effect as per reg. 4.
+>
+> E66: Power pursuant to section exercised (4.11.2010) by *Adoption Act 2010 (Accredited Bodies) Regulations 2010* (S.I. No. 524 of 2010), in effect as per reg. 2.
+>
+> E67: Power pursuant to section exercised (3.11.2010) by *Adoption Act 2010 (Register of Intercountry Adoptions) Regulations 2010* (S.I. No. 521 of 2010), in effect as per reg. 2.
+>
+> E68: Previous affecting provision: power pursuant to section exercised (4.12.2017) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2017* (S.I. No. 536 of 2017), in effect as per reg. 2; revoked (18.01.2018) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2018* (S.I. No. 7 of 2018), reg. 7, in effect as per reg. 2.
+>
+> E69: Previous affecting provision: power pursuant to section exercised (27.11.2017) by *Adoption Act 2010 (Register of Gender Recognition of Intercountry Adoptions) (Fees) Regulations 2017* (S.I. No. 537 of 2017), in effect as per reg. 2; revoked (18.01.2018) by *Adoption Act 2010 (Register of Gender Recognition of Intercountry Adoptions) (Fees) Regulations 2018* (S.I. No. 8 of 2018, reg. 6, in effect as per reg. 2.
+>
+> E70: Previous affecting provision: power pursuant to section exercised (3.11.2010) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) Regulations 2010* (S.I. No. 520 of 2010), in effect as per reg. 2; revoked (20.12.2017) by *Adoption Act 2010 (Pre-Placement Consultation Procedure) (Forms) Regulations 2017* (S.I. No. 606 of 2017), reg. 4.
+>
+> E71: Previous affecting provision: power pursuant to section exercised (2.11.2010) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2010* (S.I. No. 519 of 2010), in effect as per reg. 2; revoked (27.11.2017) by *Adoption Act 2010 (Consent to Adoption Order) (Forms) Regulations 2017* (S.I. No. 535 of 2017), reg. 4, in effect as per reg. 2.
+>
+> E72: Previous affecting provision: power pursuant to section exercised (2.11.2010) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2010* (S.I. No. 518 of 2010), in effect as per reg. 2.revoked (4.12.17) by *Adoption Act 2010 (Section 85) (Fees) Regulations 2017* (S.I. No. 536 of 2017), reg. 6, in effect as per reg. 2.
+
+### 151. Regulations relating to accredited bodies.
+
+**151**.— (1) Without prejudice to the generality of *section 150*, the Minister shall make such regulations as he or she thinks appropriate for the purpose of ensuring that the activities specified in *sections 4* and *5* are carried on only by accredited bodies.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may—
+
+(*a*) prescribe the form of entries in the register of accredited bodies and the particulars to be contained in such entries,
+
+(*b*) prescribe requirements in respect of applications to the Authority for registration, and for renewal of registration, in the register of accredited bodies,
+
+(*c*) prescribe requirements for the purpose of *section 127 (2)*,
+
+(*d*) impose on accredited bodies and their officers or employees duties to furnish to the Authority information concerning their constitutions, membership, employees, organisation and activities,
+
+(*e*) prescribe the conditions and limits in accordance with which accredited bodies shall pursue only non-profit objectives, and
+
+(*f*) provide for the auditing of the composition, operation and financial management of accredited bodies.
+
+(3) The Minister shall consult with the Authority before making regulations under this section.
+
+(4) Regulations under this section may provide differently for bodies of persons applying for registration, or for renewal of registration, in the register of accredited bodies, in relation to different categories of activities or for accredited bodies registered in respect of different categories of activities.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E73: Power pursuant to section exercised (4.11.2010) by *Adoption Act 2010 (Accredited Bodies) Regulations 2010* (S.I. No. 524 of 2010), in effect as per reg. 2.
+
+### 152. Regulations relating to register of intercountry adoptions.
+
+**152**.— Without prejudice to the generality of *section 150*, the Minister may make regulations prescribing the form of entries in the register of intercountry adoptions and the particulars to be contained in those entries.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E74: Power pursuant to section exercised (3.11.2010) by *Adoption Act 2010 (Register of Intercountry Adoptions) Regulations 2010* (S.I. No. 521 of 2010), in effect as per reg. 2.
+
+### 152A. Regulations relating to register of gender recognition of intercountry adoptions
+
+F106[**152A.**— Without prejudice to the generality of *section 150*, the Minister may make regulations, prescribing the form of entries in the register of gender recognition of intercountry adoptions and the particulars to be contained in those entries and shall have regard to the need to have information contained in those entries that shall render them traceable to an entry in the register of intercountry adoptions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F106: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 34, S.I. No. 369 of 2015.
+>
+> **Editorial Notes:**
+>
+> E75: Power pursuant to section exercised (24.11.2015) by *Adoption Act 2010 (Register of Gender Recognition of Intercountry Adoptions) Regulations 2015* (S.I. No. 534 of 2015).
+
+### 153. Regulations relating to Hague Convention.
+
+**153**.— (1) Without prejudice to the generality of *section 150*, the Minister may make regulations for the purpose of enabling this Act and the Hague Convention to have full effect.
+
+(2) The power conferred by *subsection (1)* includes power to prohibit the charging and collection of fees and other remuneration and to limit the amount of any fees or remuneration.
+
+### 154. Regulations relating to transfer of child from State for adoption in receiving state.
+
+**154**.— Without prejudice to the generality of *section 150*, the Minister may make regulations prescribing procedures for the transfer of a child to another contracting state under *section 70*.
+
+### 155. Laying of regulations before Houses of Oireachtas.
+
+**155**.— The Minister shall ensure that every regulation made by the Minister under this Part is laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the regulation is passed by either House within 21 sitting days after the day on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+## PART 17 Consequential Amendments to Other Acts — PART 17 — Consequential Amendments to Other Acts
+
+### 156. References to adoptions, etc.
+
+**156**.— (1) Every reference in any Act or in any instrument made under any Act, however expressed, to adoptions or adoption orders or adopted persons under any or all of the Adoption Acts 1952 to 1998 shall be read as a reference to adoptions or adoption orders made under this Act, or persons adopted under an adoption order made under this Act, as the case may be.
+
+(2) Every reference in any Act or in any instrument made under any Act, however expressed, to foreign adoptions recognised by law shall be read as a reference to intercountry adoptions effected outside the State and recognised under this Act.
+
+(3) Every reference in any Act or in any instrument made under any Act, however expressed, to a registered adoption society shall be read as a reference to an accredited body.
+
+(4) Every reference in any Act or in any instrument made under any Act, to An Bord Uchtála shall be read as a reference to the Authority.
+
+### 157. Amendment of Adoptive Leave Act 1995.
+
+**157**.— The Adoptive Leave Act 1995 is amended—
+
+(*a*) in section 2(1)—
+
+(i) by inserting the following definitions:
+
+“ ‘accredited body’ means a body of persons whose name is entered in the register of accredited bodies maintained under *Part 13* of the *Adoption Act 2010*;
+
+‘adoption order’ means an adoption order within the meaning of section 3 (1) of the Adoption Act 2010;
+
+‘Authority’ has the meaning assigned to it by *section 3 (1)* of the *Adoption Act 2010*;”,
+
+(ii) by substituting the following for the definition of “foreign adoption” :
+
+“ ‘foreign adoption’ means an intercountry adoption effected outside the State within the meaning of *section 3(1)* of the *Adoption Act 2010*;”, and
+
+(iii) by deleting the definition of “registered adoption society”,
+
+(*b*) in section 7(2), by substituting the following for paragraph (*c*)(i):
+
+“(*c*) (i) having caused her employer to be supplied with a copy of an applicable ‘declaration of eligibility and suitability’ (within the meaning of *section 3 (1)* of the *Adoption Act 2010*) before the expected day of placement, if not already supplied, and”,
+
+(*c*) in section 8(6), by substituting the following for paragraph (*b*):
+
+“(*b*) having caused her employer to be supplied with a copy of an applicable instrument, prepared by or on behalf of the Central Authority of the state of the adoption, that is equivalent to a ‘declaration of eligibility and suitability’ (within the meaning of *section 3 (1)* of the *Adoption Act 2010*).”,
+
+(*d*) in section 9(2)(*c*), by substituting the following for subparagraph (ii)(I);
+
+“(I) causing his employer to be supplied with a copy of an applicable instrument, prepared by or on behalf of the Central Authority of the state of the adoption, that is equivalent to a ‘declaration of eligibility and suitability’ (within the meaning of *section 3 (1)* of the *Adoption Act 2010*) as soon as reasonably practicable but not later than 4 weeks after the commencement of the leave, and”,
+
+(*e*) in section 11(2), by substituting the following for paragraph (*b*):
+
+“(*b*) causing his employer to be supplied with a copy of an applicable instrument, prepared by or on behalf of the Central Authority of the state of the adoption, that is equivalent to a ‘declaration of eligibility and suitability’ (within the meaning of *section 3 (1)* of the *Adoption Act 2010*) as soon as reasonably practicable but not later than 4 weeks after the commencement of the leave, and”,
+
+and
+
+(*f*) in F107[section 13]—
+
+(i) in subsections (1)(*b*), (2) and (6), by substituting “accredited body” for “registered adoption society” wherever occurring, and
+
+(ii) in subsections (6), (7) and (8), by substituting “the Authority” for “An Bord Uchtála” wherever occurring.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Substituted (31.07.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 49(b), commenced on enactment.
+
+### 158. Amendment of Child Care Act 1991.
+
+**158**.— The Child Care Act 1991 is amended—
+
+(*a*) in section 6, by substituting the following for subsections (1) and (2):
+
+“(1) The F108[Child and Family Agency] shall provide, or ensure the provision of, a service for the adoption of children in accordance with the *Adoption Act 2010*.
+
+(2) For the purposes of this section, the F108[Child and Family Agency] may enter into arrangements with an accredited body within the meaning of *section 3 (1)* of the *Adoption Act 2010*.”,
+
+(*b*) in section 23O, by substituting the following for paragraph (*g*) of the definition of “private foster care arrangement”:
+
+“(*g*) is placed for adoption under an adoption order within the meaning of *section 3 (1)* of the *Adoption Act 2010* or is the subject of an intercountry adoption effected outside the State recognised by that Act,”,
+
+(*c*) in section 23V(1), by substituting “an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or an intercountry adoption effected outside the State recognised by that Act” for “the Adoption Acts, 1952 to 1998”,
+
+(*d*) in F109[section 23V(2)(*a*)], by substituting “the *Adoption Act 2010*” for “the Adoption Acts, 1952 to 1998”, and
+
+(*e*) in section 44, by substituting the following for subsections (1) and (2):
+
+“(1) Where a child is adopted under the *Adoption Act 2010* and the child, immediately before the adoption, was being maintained in foster care by the F108[Child and Family Agency] with the adopter or adopters, the F108[Child and Family Agency], subject to—
+
+(*a*) any general directions that may be given by the Minister, and
+
+(*b*) any conditions that may be imposed by the F108[Child and Family Agency],
+
+may contribute to the child’s maintenance as if the child continued to be in foster care.
+
+(2) Where a child is adopted under the *Adoption Act 2010*, any care order in force in respect of the child ceases to have effect.”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+>
+> F109: Substituted (31.07.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 49(c), commenced on enactment.
+
+### 159. Amendment of Civil Registration Act 2004.
+
+**159**.— The Civil Registration Act 2004 is amended—
+
+(*a*) in section 2—
+
+(i) in subsection (1)—
+
+(I) by deleting the definitions of “adoption” and “foreign adoption”,
+
+(II) in the definition of “event”, to delete the references to adoption and foreign adoption,
+
+(III) by deleting paragraph (*c*) of the definition of “registrar”, and
+
+(IV) by deleting paragraphs (*c*) and (*d*) of the definition of “the required particulars”,
+
+(ii) in subsection (3)(*a*), by deleting “adoption, foreign adoption,”,
+
+(*b*) in section 8—
+
+(i) in subsection (1)(*a*), by deleting “adoptions,”,
+
+(ii) in subsection (2), by substituting “deaths and marriages” for “deaths, marriages, adoptions and foreign adoptions”,
+
+(iii) in subsection (4), by inserting “, including his or her functions under *Chapter 1* of *Part 10* of the *Adoption Act 2010*” after “the performance of his or her functions”,
+
+(iv) in subsection (5), by inserting “, including his or her functions under *Chapter 1* of *Part 10* of the *Adoption Act 2010*” after “the performance of his or her functions”, and
+
+(v) in subsection (6), by inserting “, including his or her functions under *Chapter 1* of *Part 10* of the *Adoption Act 2010*” after “such of his or her functions”,
+
+(*c*) by deleting subsections (1)(*c*) and (5) of section 13,
+
+(*d*) in section 61, by substituting the following for subsection (3):
+
+“(3) This section does not apply to the register of stillbirths or an index to that register or an index kept under—
+
+(*a*) section 22(5) of the Adoption Act 1952, or
+
+(*b*) *section 86* of the *Adoption Act 2010*.”,
+
+(*e*) in section 73—
+
+(i) in subsection (1), by substituting the following for paragraphs (*f*) to (*h*):
+
+“(*f*) decrees of nullity, or
+
+(*g*) any other prescribed matters.”,
+
+(ii) in subsection (3)(*a*), by substituting “decree of divorce or decree of nullity” for “decree of divorce, decree of nullity or adoption” in both places where it occurs, and
+
+(iii) in subsection (7), by substituting “decree of divorce or decree of nullity” for “decree of divorce, decree of nullity or adoption”,
+
+(*f*) in the First Schedule, by deleting Parts 3 and 4, and
+
+(*g*) in the Second Schedule, by deleting the references to the enactments specified in *Schedule 4* .
+
+### 160. Amendment of section 99(1) of Defence Act 1954.
+
+**160**.— Section 99(1) (as amended by section 24(2) of the Status of Children Act 1987) of the Defence Act 1954 is amended by substituting “an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or an intercountry adoption effected outside the State and recognised under that Act” for “the Adoption Acts, 1952 to 1976,”.
+
+### 161. Amendment of section 46(1) of Freedom of Information Act 1997.
+
+**161**.— The Freedom of Information Act 1997 is amended in section 46(1) (as amended by section 29 of the Freedom of Information (Amendment) Act 2003 and section 74 of the Safety, Health and Welfare at Work Act 2005), by inserting the following after paragraph (*dc*):
+
+“(*dd*) a record held or created under the relevant statutory provisions by the Adoption Authority or an employee of the Authority, relating to or arising from the making of an adoption order or the recognition of an intercountry adoption effected outside the State, within the meaning of the *Adoption Act 2010*, (other than a record concerning any other functions of the Authority or the general administration of the Authority),”.
+
+### 162. Amendment of section 2(1) of Guardianship of Infants Act 1964.
+
+**162**.— Section 2(1) (inserted by section 4 of the Children Act 1997) of the Guardianship of Infants Act 1964 is amended by substituting the following definition for the definition of “adoption order”:
+
+“ ‘adoption order’ means—
+
+(*a*) an adoption order within the meaning of the *Adoption Act 2010*; or
+
+(*b*) an intercountry adoption effected outside the State and recognised under that Act;
+
+and for the time being in force;”.
+
+### 163. Amendment of Married Women’s Status Act 1957.
+
+**163**.— The Married Women’s Status Act 1957 is amended—
+
+(*a*) in section 7(8), by substituting “a child adopted under an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or who is the subject of an intercountry adoption effected outside the State and recognised under that Act” for “adopted person (within the meaning of the Adoption Act 1952 (No. 25 of 1952)).”, and
+
+(*b*) in section 8(5), by substituting “a child adopted under an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or who is the subject of an intercountry adoption effected outside the State and recognised under that Act” for “adopted person (within the meaning of the Adoption Act 1952 (No. 25 of 1952)).”.
+
+### 164. Amendment of section 20(9) of Ministerial and Parliamentary Offices Act 1938.
+
+**164**.— Subsection (9) of section 20 (inserted by section 15(1) of the Ministerial, Parliamentary and Judicial Offices and Oireachtas Members (Miscellaneous Provisions) Act 2001) of the Ministerial and Parliamentary Offices Act 1938 is amended by substituting the following for the definition of “adopted child”:
+
+“ ‘adopted child’ means a child adopted under an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or who is the subject of an intercountry adoption effected outside the State and recognised under that Act;”.
+
+### 165. Amendment of paragraph 1(2) of First Schedule to Official Languages Act 2003.
+
+**165**.— Paragraph 1(2) of the First Schedule to the Official Languages Act 2003 is amended—
+
+(*a*) in the Irish text, deleting “An Bord Uchtála” and by inserting “Údarás Uchtála na hÉireann” and,
+
+(*b*) in the English text, deleting “An Bord Uchtála” and by inserting “Údarás Uchtála na hÉireann”.
+
+### 166. Amendment of section 6A(6)(b) of Oireachtas (Allowances to Members) Act 1938.
+
+**166**.— Paragraph (*b*) of section 6A(6) (inserted by section 1 of the Oireachtas (Allowances to Members) (Amendment) Act 1968) of the Oireachtas (Allowances to Members) Act 1938 is amended by substituting “an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or a recognition of an intercountry adoption effected outside the State within the meaning of that Act” for “an adoption order under the Adoption Act 1952”.
+
+### 167. Amendment of Part II of First Schedule to Ombudsman Act 1980.
+
+**167**.— The Ombudsman Act 1980 is amended—
+
+(*a*) in Part II of the First Schedule, by deleting “An Bord Uchtála”, and
+
+(*b*) in the Second Schedule, by inserting “Údarás Uchtála na hÉireann”.
+
+### 168. Amendment of Part 2 of Schedule 1 to Ombudsman for Children Act 2002.
+
+**168**.— Part 2 of Schedule 1 to the Ombudsman for Children Act 2002 is amended by deleting the following:
+
+“The reference in the said Part I to the Department of Health and Children does not include a reference to — An Bord Uchtála.”.
+
+### 169. Amendment of section 2(1) of Parental Leave Act 1998.
+
+**169**.— Section 2(1) of the Parental Leave Act 1998 is amended by substituting the following for the definition of “adoption order”:
+
+“‘adoption order’ means an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or a recognition of an intercountry adoption effected outside the State within the meaning of that Act;”.
+
+### 170. Amendment of section 6(2)(b) of Prosecution of Offences Act 1974.
+
+**170**.— Section 6(2)(*b*) of the Prosecution of Offences Act 1974 is amended by substituting “within the meaning of *section 3(1)* of the *Adoption Act 2010* or a recognition of an intercountry adoption effected outside the State within the meaning of that Act” for “under the Adoption Acts, 1952 and 1964”.
+
+### 171. Amendment of Social Welfare Consolidation Act 2005.
+
+**171**.— The Social Welfare Consolidation Act 2005 is amended—
+
+(*a*) in section 3(6), by substituting “an adoption order within the meaning of *section 3 (1)* of the *Adoption Act 2010* or is the subject of an intercountry adoption effected outside the State and recognised under that Act” for “the Adoption Acts 1952 to 1998”,
+
+(*b*) in each of subparagraphs (i), (ii) and (iii) of paragraph (*b*) of the definition of “adopting parent” in section 58(1), by substituting “an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or the recognition of an intercountry adoption effected outside the State within the meaning of that Act” for “an adoption order, or to the effecting of a foreign adoption”,
+
+(*c*) in section 58(1), by deleting the definition of “foreign adoption”, and
+
+(*d*) in section 82(9), by substituting “an adoption order within the meaning of *section 3 (1)* of the *Adoption Act 2010* or the subject of an intercountry adoption effected outside the State and recognised under that Act” for “the Adoption Acts 1952 to 1998”.
+
+### 172. Amendment of Status of Children Act 1987.
+
+**172**.— The Status of Children Act 1987 is amended—
+
+(*a*) in section 3(2), by substituting the following for paragraph (*b*):
+
+“(*b*) In this subsection ‘adopted person’ means a person who has been adopted under an adoption order within the meaning of *section 3 (1)* of the *Adoption Act 2010* or, where the person has been adopted outside the State, whose adoption is recognised by virtue of the law for the time being in force in the State.”,
+
+(*b*) in section 27(3), by substituting “*section 60* of the *Adoption Act 2010* (which relates to the property rights of persons adopted under the *Adoption Act 2010*)” for “the provisions of section 26 of the Adoption Act 1952 (which relates to the property rights of persons adopted under the Adoption Acts, 1952 to 1976)”, and
+
+(*c*) in section 27(4)(*a*), by substituting “section 60 (as construed in accordance with subsection (3) of this section) of the *Adoption Act 2010*” for “section 26 (as construed in accordance with subsection (3) of this section) of the Adoption Act 1952”.
+
+### 173. Amendment of section 4A of Succession Act 1965.
+
+**173**.— Section 4A (inserted by section 29 of the Status of Children Act 1987) of the Succession Act 1965 is amended by substituting the following for subsection (4):
+
+“(4) This section is without prejudice to section 60 (which section as construed in accordance with section 27(3) of the Act of 1987 relates to the property rights of adopted persons) of the *Adoption Act 2010*.”.
+
+### 174. Amendment of Taxes Consolidation Act 1997.
+
+**174**.— The Taxes Consolidation Act 1997 is amended—
+
+(*a*) in section 6(*a*), by substituting the following for subparagraph (ii):
+
+“(ii) a child who is adopted under an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or the subject of an intercountry adoption effected outside the State and recognised under that Act,”,
+
+and
+
+(*b*) in Schedule 13, by substituting the following for paragraph 106:
+
+“106. Údarás Uchtála na hÉireann.”.
+
+### 175. Amendment of various other statutes.
+
+**175**.— The following are amended by substituting “an adoption order within the meaning of *section 3(1)* of the *Adoption Act 2010* or an intercountry adoption effected outside the State being recognised within the meaning of that Act” for “the Adoption Act 1952 (No. 25 of 1952),” or for “the Adoption Act 1952”, as the case may be:
+
+(*a*) section 13(1) of the Army Pensions Act 1959;
+
+(*b*) section 47(2) of the Civil Liability Act 1961;
+
+(*c*) section 7(1)(*b*) of the Courts of Justice and Court Officers (Superannuation) Act 1961;
+
+(*d*) section 11(1) of the Irish Nationality and Citizenship Act 1956.
+
+### 176. Savers.
+
+**176**.— (1) An application made under the Adoption Acts to An Bord Uchtála for—
+
+(*a*) an adoption order, or
+
+(*b*) the recognition of an adoption effected outside the State,
+
+before the establishment day that was not determined before that day shall, on that day, be deemed to be an application for an adoption order, or the recognition of an intercountry adoption effected outside the State, as the case may be, under this Act and this Act shall apply to the application accordingly.
+
+(2) An application made under the Adoption Acts by a person or persons for an assessment of his, her or their eligibility and suitability to adopt a child before the establishment day that was not determined before that day shall, on that day, be deemed to be an application for such an assessment and the issuance of a declaration of eligibility and suitability under this Act and this Act shall apply to the application accordingly.
+
+(3) If An Bord Uchtála has taken steps, before the establishment day, to satisfy itself that a person or persons were eligible or suitable to adopt a child under the Adoption Acts but has not determined the eligibility or suitability of that person or those persons before that day, the person or persons concerned shall be deemed to have made an application for an assessment of his, her or their eligibility and suitability under this Act and this Act shall apply accordingly.
+
+(4) Anything commenced but not completed before the commencement of *Part 13* by a registered adoption society (within the meaning of section 3 of the Adoption Act 1952) under the Adoption Acts may be carried on and completed by such a body of persons under this Act if the body of persons is registered in the register of accredited bodies in respect of the activity concerned.
+
+(5) A summons, notice or other document issued or given under the Adoption Acts to any person by An Bord Uchtála before the establishment day shall, on or after that day, be regarded as a summons, notice or other document issued or given by the Authority to the person under the corresponding provision of this Act.
+
+(6) A notice or other document sent or given under the Adoption Acts by any person to An Bord Uchtála or the F110[Child and Family Agency] before the establishment day shall, on or after that day, be regarded as a notice or other document sent or given to the Authority or the F110[Child and Family Agency], as the case may be, under the corresponding provision of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F110: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2, part 21, S.I. No. 502 of 2013.
+
+## SCHEDULE 1 Repeals and Revocations — SCHEDULE 1 — Repeals and Revocations
+
+### PART 1 — Acts Repealed
+
+| Number and Year (1) | Short title (2) | Extent of Repeal (3) |
+|---|---|---|
+| No. 25 of 1952 | Adoption Act 1952 | The whole Act. |
+| No. 2 of 1964 | Adoption Act 1964 | The whole Act. |
+| No. 24 of 1974 | Adoption Act 1974 | The whole Act. |
+| No. 29 of 1976 | Adoption Act 1976 | The whole Act. |
+| No. 30 of 1988 | Adoption Act 1988 | The whole Act. |
+| No. 14 of 1991 | Adoption Act 1991 | The whole Act. |
+| No. 10 of 1998 | Adoption Act 1998 | The whole Act. |
+| No. 3 of 2004 | Civil Registration Act 2004 | Sections 31 to 35. |
+
+### PART 2 — Statutory Instruments Revoked
+
+| Title | Statutory Instrument Number | Extent of Revocation |
+|---|---|---|
+| (1) | (2) | (3) |
+| Adoption Rules 1988 | S.I. No. 304 of 1988 | The whole Rules. |
+| Adoption Rules 1990 | S.I. No. 170 of 1990 | The whole Rules. |
+| Adoption Rules 1991 | S.I. No. 247 of 1991 | The whole Rules. |
+| Adoption Regulations 1993 | S.I. No. 254 of 1993 | The whole Regulations. |
+| Adoption Rules 1996 | S.I. No. 223 of 1996 | The whole Rules. |
+| Adoption Rules 1999 | S.I. No. 315 of 1999 | The whole Rules. |
+
+## SCHEDULE 2
+
+Text of Hague Convention
+
+Convention on Protection of Children and Co-Operation in Respect of Intercountry Adoption
+
+(Concluded 29 May 1993)
+
+(Entered into force 1 May 1995)
+
+The States signatory to the present Convention,
+
+Recognizing that the child, for the full and harmonious development of his or her personality, should grow up in a family environment, in an atmosphere of happiness, love and understanding,
+
+Recalling that each State should take, as a matter of priority, appropriate measures to enable the child to remain in the care of his or her family of origin,
+
+Recognizing that intercountry adoption may offer the advantage of a permanent family to a child for whom a suitable family cannot be found in his or her State of origin,
+
+Convinced of the necessity to take measures to ensure that intercountry adoptions are made in the best interests of the child and with respect for his or her fundamental rights, and to prevent the abduction, the sale of, or traffic in children,
+
+Desiring to establish common provisions to this effect, taking into account the principles set forth in international instruments, in particular the United Nations Convention on the Rights of the Child, of 20 November 1989, and the United Nations Declaration on Social and Legal Principles relating to the Protection and Welfare of Children, with Special Reference to Foster Placement and Adoption Nationally and Internationally (General Assembly Resolution 41/85, of 3 December 1986),
+
+Have agreed upon the following provisions—
+
+CHAPTER I
+
+Scope of the Convention
+
+**Article 1 — Objects.**
+
+The objects of the present Convention are—
+
+(*a*) to establish safeguards to ensure that intercountry adoptions take place in the best interests of the child and with respect for his or her fundamental rights as recognized in international law;
+
+(*b*) to establish a system of co-operation amongst Contracting States to ensure that those safeguards are respected and thereby prevent the abduction, the sale of, or traffic in children;
+
+(*c*) to secure the recognition in Contracting States of adoptions made in accordance with the Convention.
+
+**Article 2 — Application of convention.**
+
+(1) The Convention shall apply where a child habitually resident in one Contracting State (“the State of origin”) has been, is being, or is to be moved to another Contracting State (“the receiving State”) either after his or her adoption in the State of origin by spouses or a person habitually resident in the receiving State, or for the purposes of such an adoption in the receiving State or in the State of origin.
+
+(2) The Convention covers only adoptions which create a permanent parent-child relationship.
+
+**Article 3 — When Convention ceases to apply.**
+
+The Convention ceases to apply if the agreements mentioned in Article 17, sub-paragraph c, have not been given before the child attains the age of eighteen years.
+
+CHAPTER II
+
+Requirements for Intercountry Adoptions
+
+**Article 4 — When adoption may take place.**
+
+An adoption within the scope of the Convention shall take place only if the competent authorities of the State of origin—
+
+(*a*) have established that the child is adoptable;
+
+(*b*) have determined, after possibilities for placement of the child within the State of origin have been given due consideration, that an intercountry adoption is in the child’s best interests;
+
+(*c*) have ensured that;
+
+(1) the persons, institutions and authorities whose consent is necessary for adoption, have been counselled as may be necessary and duly informed of the effects of their consent, in particular whether or not an adoption will result in the termination of the legal relationship between the child and his or her family of origin,
+
+(2) such persons, institutions and authorities have given their consent freely, in the required legal form, and expressed or evidenced in writing,
+
+(3) the consents have not been induced by payment or compensation of any kind and have not been withdrawn, and
+
+(4) the consent of the mother, where required, has been given only after the birth of the child; and
+
+(*a*) have ensured, having regard to the age and degree of maturity of the child, that—
+
+(1) he or she has been counselled and duly informed of the effects of the adoption and of his or her consent to the adoption, where such consent is required,
+
+(2) consideration has been given to the child’s wishes and opinions,
+
+(3) the child’s consent to the adoption, where such consent is required, has been given freely, in the required legal form, and expressed or evidenced in writing, and
+
+(4) such consent has not been induced by payment or compensation of any kind.
+
+**Article 5 — Further to when adoption may take place.**
+
+An adoption within the scope of the Convention shall take place only if the competent authorities of the receiving State—
+
+(*a*) have determined that the prospective adoptive parents are eligible and suited to adopt;
+
+(*b*) have ensured that the prospective adoptive parents have been counselled as may be necessary; and
+
+(*c*) have determined that the child is or will be authorized to enter and reside permanently in that State.
+
+CHAPTER III
+
+Central Authorities and Accredited Bodies
+
+**Article 6 — Designation and appointment of Central Authorities.**
+
+(1) A Contracting State shall designate a Central Authority to discharge the duties which are imposed by the Convention upon such authorities.
+
+(2) Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and to specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
+
+**Article 7 — Co-operation among Central Authorities.**
+
+(1) Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their States to protect children and to achieve the other objects of the Convention.
+
+(2) They shall take directly all appropriate measures to—
+
+(*a*) provide information as to the laws of their States concerning adoption and other general information, such as statistics and standard forms;
+
+(*b*) keep one another informed about the operation of the Convention and, as far as possible, eliminate any obstacles to its application.
+
+**Article 8 — No improper financial or other gain in adoption.**
+
+Central Authorities shall take, directly or through public authorities, all appropriate measures to prevent improper financial or other gain in connection with an adoption and to deter all practices contrary to the objects of the Convention.
+
+**Article 9 — Duty of Central Authorities to take appropriate** **measures.**
+
+Central Authorities shall take, directly or through public authorities or other bodies duly accredited in their State, all appropriate measures, in particular to—
+
+(*a*) collect, preserve and exchange information about the situation of the child and the prospective adoptive parents, so far as is necessary to complete the adoption;
+
+(*b*) facilitate, follow and expedite proceedings with a view to obtaining the adoption;
+
+(*c*) promote the development of adoption counselling and post-adoption services in their States;
+
+(*d*) provide each other with general evaluation reports about experience with intercountry adoption;
+
+(*e*) reply, in so far as is permitted by the law of their State, to justified requests from other Central Authorities or public authorities for information about a particular adoption situation.
+
+**Article 10 —Accreditation only to competent bodies.**
+
+Accreditation shall only be granted to and maintained by bodies demonstrating their competence to carry out properly the tasks with which they may be entrusted.
+
+**Article 11 — Requirements for accredited bodies.**
+
+An accredited body shall—
+
+(*a*) pursue only non-profit objectives according to such conditions and within such limits as may be established by the competent authorities of the State of accreditation;
+
+(*b*) be directed and staffed by persons qualified by their ethical standards and by training or experience to work in the field of intercountry adoption; and
+
+(*c*) be subject to supervision by competent authorities of that State as to its composition, operation and financial situation.
+
+**Article 12 — When accredited body in one contracting state may act** **in another.**
+
+A body accredited in one Contracting State may act in another Contracting State only if the competent authorities of both States have authorized it to do so.
+
+**Article 13 — Communication of Central Authorities designations to** **Permanent Bureau of Hague Conference on Private International** **Law.**
+
+The designation of the Central Authorities and, where appropriate, the extent of their functions, as well as the names and addresses of the accredited bodies shall be communicated by each Contracting State to the Permanent Bureau of the Hague Conference on Private International Law.
+
+CHAPTER IV
+
+Procedural Requirements in Intercountry Adoption
+
+**Article 14 — Application for adoption to Central Authority.**
+
+Persons habitually resident in a Contracting State, who wish to adopt a child habitually resident in another Contracting State, shall apply to the Central Authority in the State of their habitual residence.
+
+**Article 15 — Report by Central Authority of receiving State.**
+
+(1) If the Central Authority of the receiving State is satisfied that the applicants are eligible and suited to adopt, it shall prepare a report including information about their identity, eligibility and suitability to adopt, background, family and medical history, social environment, reasons for adoption, ability to undertake an intercountry adoption, as well as the characteristics of the children for whom they would be qualified to care.
+
+(2) It shall transmit the report to the Central Authority of the State of origin.
+
+**Article 16 — Report by Central Authority of State of origin.**
+
+(1) If the Central Authority of the State of origin is satisfied that the child is adoptable, it shall—
+
+(*a*) prepare a report including information about his or her identity, adoptability, background, social environment, family history, medical history including that of the child’s family, and any special needs of the child;
+
+(*b*) give due consideration to the child’s upbringing and to his or her ethnic, religious and cultural background;
+
+(*c*) ensure that consents have been obtained in accordance with Article 4; and
+
+(*d*) determine, on the basis in particular of the reports relating to the child and the prospective adoptive parents, whether the envisaged placement is in the best interests of the child.
+
+(2) It shall transmit to the Central Authority of the receiving State its report on the child, proof that the necessary consents have been obtained and the reasons for its determination on the placement, taking care not to reveal the identity of the mother and the father if, in the State of origin, these identities may not be disclosed.
+
+**Article 17 — When State of origin may entrust child to prospective** **adoptive parents.**
+
+Any decision in the State of origin that a child should be entrusted to prospective adoptive parents may only be made if—
+
+(*a*) the Central Authority of that State has ensured that the prospective adoptive parents agree;
+
+(*b*) the Central Authority of the receiving State has approved such decision, where such approval is required by the law of that State or by the Central Authority of the State of origin;
+
+(*c*) the Central Authorities of both States have agreed that the adoption may proceed; and
+
+(*d*) it has been determined, in accordance with Article 5, that the prospective adoptive parents are eligible and suited to adopt and that the child is or will be authorized to enter and reside permanently in the receiving State.
+
+**Article 18 — Central Authorities to obtain permissions for child to** **leave state of origin.**
+
+The Central Authorities of both States shall take all necessary steps to obtain permission for the child to leave the State of origin and to enter and reside permanently in the receiving State.
+
+**Article 19 — Requirements for transfer of child to receiving State.**
+
+(1) The transfer of the child to the receiving State may only be carried out if the requirements of Article 17 have been satisfied.
+
+(2) The Central Authorities of both States shall ensure that this transfer takes place in secure and appropriate circumstances and, if possible, in the company of the adoptive or prospective adoptive parents.
+
+(3) If the transfer of the child does not take place, the reports referred to in Articles 15 and 16 are to be sent back to the authorities who forwarded them.
+
+**Article 20 — Central authorities to keep each other informed.**
+
+The Central Authorities shall keep each other informed about the adoption process and the measures taken to complete it, as well as about the progress of the placement if a probationary period is required.
+
+**Article 21 — Measures by Central Authority for child protection** **after transfer to receiving State.**
+
+(1) Where the adoption is to take place after the transfer of the child to the receiving State and it appears to the Central Authority of that State that the continued placement of the child with the prospective adoptive parents is not in the child’s best interests, such Central Authority shall take the measures necessary to protect the child, in particular—
+
+(*a*) to cause the child to be withdrawn from the prospective adoptive parents and to arrange temporary care;
+
+(*b*) in consultation with the Central Authority of the State of origin, to arrange without delay a new placement of the child with a view to adoption or, if this is not appropriate, to arrange alternative long-term care; an adoption shall not take place until the Central Authority of the State of origin has been duly informed concerning the new prospective adoptive parents;
+
+(*c*) as a last resort, to arrange the return of the child, if his or her interests so require.
+
+(2) Having regard in particular to the age and degree of maturity of the child, he or she shall be consulted and, where appropriate, his or her consent obtained in relation to measures to be taken under this Article.
+
+**Article 22 — Performance of Central Authority functions by public** **authorities and accredited bodies.**
+
+(1) The functions of a Central Authority under this Chapter may be performed by public authorities or by bodies accredited under Chapter III, to the extent permitted by the law of its State.
+
+(2) Any Contracting State may declare to the depositary of the Convention that the functions of the Central Authority under Articles 15 to 21 may be performed in that State, to the extent permitted by the law and subject to the supervision of the competent authorities of that State, also by bodies or persons who—
+
+(*a*) meet the requirements of integrity, professional competence, experience and accountability of that State; and
+
+(*b*) are qualified by their ethical standards and by training or experience to work in the field of intercountry adoption.
+
+(3) A Contracting State which makes the declaration provided for in paragraph 2 shall keep the Permanent Bureau of the Hague Conference on Private International Law informed of the names and addresses of these bodies and persons.
+
+(4) Any Contracting State may declare to the depositary of the Convention that adoptions of children habitually resident in its territory may only take place if the functions of the Central Authorities are performed in accordance with paragraph 1.
+
+(5) Notwithstanding any declaration made under paragraph 2, the reports provided for in Articles 15 and 16 shall, in every case, be prepared under the responsibility of the Central Authority or other authorities or bodies in accordance with paragraph 1.
+
+CHAPTER V
+
+Recognition and Effects of the Adoption
+
+**Article 23 — Recognition of adoption certified by competent auth****ority of State of adoption.**
+
+(1) An adoption certified by the competent authority of the State of the adoption as having been made in accordance with the Convention shall be recognized by operation of law in the other Contracting States. The certificate shall specify when and by whom the agreements under Article 17, sub-paragraph *(c)*, were given.
+
+(2) Each Contracting State shall, at the time of signature, ratification, acceptance, approval or accession, notify the depositary of the Convention of the identity and the functions of the authority or the authorities which, in that State, are competent to make the certification. It shall also notify the depositary of any modification in the designation of these authorities.
+
+**Article 24 — Refusal of recognition of adoption in Contracting State** **if against public policy.**
+
+The recognition of an adoption may be refused in a Contracting State only if the adoption is manifestly contrary to its public policy, taking into account the best interests of the child.
+
+**Article 25 — Special provision for Article 39 adoptions.**
+
+Any Contracting State may declare to the depositary of the Convention that it will not be bound under this Convention to recognize adoptions made in accordance with an agreement concluded by application of Article 39, paragraph 2.
+
+**Article 26 — Matters included in recognition of adoptions.**
+
+(1) The recognition of an adoption includes recognition of
+
+(*a*) the legal parent-child relationship between the child and his or her adoptive parents;
+
+(*b*) parental responsibility of the adoptive parents for the child;
+
+(*c*) the termination of a pre-existing legal relationship between the child and his or her mother and father, if the adoption has this effect in the Contracting State where it was made.
+
+(2) In the case of an adoption having the effect of terminating a pre-existing legal parent-child relationship, the child shall enjoy in the receiving State, and in any other Contracting State where the adoption is recognized, rights equivalent to those resulting from adoptions having this effect in each such State.
+
+(3) The preceding paragraphs shall not prejudice the application of any provision more favourable for the child, in force in the Contracting State which recognizes the adoption.
+
+**Article 27 — Conversion of adoptions in State of origin to adoptions** **terminating pre-existing legal parent-child relationships.**
+
+(1) Where an adoption granted in the State of origin does not have the effect of terminating a pre-existing legal parent-child relationship, it may, in the receiving State which recognizes the adoption under the Convention, be converted into an adoption having such an effect—
+
+(*a*) if the law of the receiving State so permits; and
+
+(*b*) if the consents referred to in Article 4, sub-paragraphs (*c*) and (*d*), have been or are given for the purpose of such an adoption.
+
+(2) Article 23 applies to the decision converting the adoption.
+
+CHAPTER VI
+
+General Provisions
+
+**Article 28 — Certain laws of States of origin not affected by** **Convention.**
+
+The Convention does not affect any law of a State of origin which requires that the adoption of a child habitually resident within that State take place in that State or which prohibits the child’s placement in, or transfer to, the receiving State prior to adoption.
+
+**Article 29 — Conditions respecting contact with prospective adop****tive parents.**
+
+There shall be no contact between the prospective adoptive parents and the child’s parents or any other person who has care of the child until the requirements of Article 4, sub-paragraphs *(a)* to *(c)*, and Article 5, sub-paragraph *(a)*, have been met, unless the adoption takes place within a family or unless the contact is in compliance with the conditions established by the competent authority of the State of origin.
+
+**Article 30 — Protecting information concerning child’s origin.**
+
+(1) The competent authorities of a Contracting State shall ensure that information held by them concerning the child’s origin, in particular information concerning the identity of his or her parents, as well as the medical history, is preserved.
+
+(2) They shall ensure that the child or his or her representative has access to such information, under appropriate guidance, in so far as is permitted by the law of that State.
+
+**Article 31 — Limitation on use of personal data.**
+
+Without prejudice to Article 30, personal data gathered or transmitted under the Convention, especially data referred to in Articles 15 and 16, shall be used only for the purposes for which they were gathered or transmitted.
+
+**Article 32 — No improper financial or other gain in intercountry** **adoption.**
+
+(1) No one shall derive improper financial or other gain from an activity related to an intercountry adoption.
+
+(2) Only costs and expenses, including reasonable professional fees of persons involved in the adoption, may be charged or paid.
+
+(3) The directors, administrators and employees of bodies involved in an adoption shall not receive remuneration which is unreasonably high in relation to services rendered.
+
+**Article 33 — Duty of competent authority concerning respect for** **Convention.**
+
+A competent authority which finds that any provision of the Convention has not been respected or that there is a serious risk that it may not be respected, shall immediately inform the Central Authority of its State. This Central Authority shall be responsible for ensuring that appropriate measures are taken.
+
+**Article 34 — Right to certified translation of a document and its cost.**
+
+If the competent authority of the State of destination of a document so requests, a translation certified as being in conformity with the original must be furnished. Unless otherwise provided, the costs of such translation are to be borne by the prospective adoptive parents.
+
+**Article 35 — Competent authorities to act expeditiously.**
+
+The competent authorities of the Contracting States shall act expeditiously in the process of adoption.
+
+**Article 36 — Where State has two or more systems of law in different** **territorial units.**
+
+In relation to a State which has two or more systems of law with regard to adoption applicable in different territorial units—
+
+(*a*) any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State;
+
+(*b*) any reference to the law of that State shall be construed as referring to the law in force in the relevant territorial unit;
+
+(*c*) any reference to the competent authorities or to the public authorities of that State shall be construed as referring to those authorized to act in the relevant territorial unit;
+
+(*d*) any reference to the accredited bodies of that State shall be construed as referring to bodies accredited in the relevant territorial unit.
+
+**Article 37 — Where State has two or more systems of law applicable** **to different categories of persons.**
+
+In relation to a State which with regard to adoption has two or more systems of law applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
+
+**Article 38 — Further in relation to State with different territorial** **units.**
+
+A State within which different territorial units have their own rules of law in respect of adoption shall not be bound to apply the Convention where a State with a unified system of law would not be bound to do so.
+
+**Article 39 — Provision for international instruments on matters gov****erned by Convention.**
+
+(1) The Convention does not affect any international instrument to which Contracting States are Parties and which contains provisions on matters governed by the Convention, unless a contrary declaration is made by the States Parties to such instrument.
+
+(2) Any Contracting State may enter into agreements with one or more other Contracting States, with a view to improving the application of the Convention in their mutual relations. These agreements may derogate only from the provisions of Articles 14 to 16 and 18 to 21. The States which have concluded such an agreement shall transmit a copy to the depositary of the Convention.
+
+**Article 40 — No reservation to Convention.**
+
+No reservation to the Convention shall be permitted.
+
+**Article 41 — Application pursuant to Article 14 after Convention** **in force.**
+
+The Convention shall apply in every case where an application pursuant to Article 14 has been received after the Convention has entered into force in the receiving State and the State of origin.
+
+**Article 42 — Regularly convening Special Commission to review** **Convention.**
+
+The Secretary General of the Hague Conference on Private International Law shall at regular intervals convene a Special Commission in order to review the practical operation of the Convention.
+
+CHAPTER VII
+
+Final Clauses
+
+**Article 43 — Special provision respecting Hague Conference on** **Private International Law.**
+
+(1) The Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law at the time of its Seventeenth Session and by the other States which participated in that Session.
+
+(2) It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands, depositary of the Convention.
+
+**Article 44 — Accession to Hague Convention.**
+
+(1) Any other State may accede to the Convention after it has entered into force in accordance with Article 46, paragraph 1.
+
+(2) The instrument of accession shall be deposited with the depositary.
+
+(3) Such accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the six months after the receipt of the notification referred to in sub-paragraph (*b*) of Article 48. Such an objection may also be raised by States at the time when they ratify, accept or approve the Convention after an accession. Any such objection shall be notified to the depositary.
+
+**Article 45 — Special provision for States with two or more terri****torial units.**
+
+(1) If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in the Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
+
+(2) Any such declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.
+
+(3) If a State makes no declaration under this Article, the Convention is to extend to all territorial units of that State.
+
+**Article 46 — When Convention enters into force.**
+
+(1) The Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the third instrument of ratification, acceptance or approval referred to in Article 43.
+
+(2) Thereafter the Convention shall enter into force—
+
+(*a*) for each State ratifying, accepting or approving it subsequently, or acceding to it, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession;
+
+(*b*) for a territorial unit to which the Convention has been extended in conformity with Article 45, on the first day of the month following the expiration of three months after the notification referred to in that Article.
+
+**Article 47 — Denunciation of Convention by State party to it.**
+
+(1) A State Party to the Convention may denounce it by a notification in writing addressed to the depositary.
+
+(2) The denunciation takes effect on the first day of the month following the expiration of twelve months after the notification is received by the depositary. Where a longer period for the denunciation to take effect is specified in the notification, the denunciation takes effect upon the expiration of such longer period after the notification is received by the depositary.
+
+**Article 48 — Depositary to provide information to States members** **of the Hague Conference on Private International Law,** *et al*.
+
+The depositary shall notify the States Members of the Hague Conference on Private International Law, the other States which participated in the Seventeenth Session and the States which have acceded in accordance with Article 44, of the following—
+
+(*a*) the signatures, ratifications, acceptances and approvals referred to in Article 43;
+
+(*b*) the accessions and objections raised to accessions referred to in Article 44;
+
+(*c*) the date on which the Convention enters into force in accordance with Article 46;
+
+(*d*) the declarations and designations referred to in Articles 22, 23, 25 and 45;
+
+(*e*) the agreements referred to in Article 39;
+
+(*f*) the denunciations referred to in Article 47.
+
+In witness whereof the undersigned, being duly authorized thereto, have signed this Convention.
+
+Done at The Hague, on the 29th day of May 1993, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Seventeenth Session and to each of the other States which participated in that Session.
+
+## F111[SCHEDULE 3 — Particulars of Adoptions to be entered in Adopted Children Register]
+
+F111[1\. Information about the child.
+
+(1) Personal public service number of child.
+
+(2) Date and country of birth of child.
+
+(3) Sex of child.
+
+(4) Forename(s) and surname of child.
+
+2\. Information about the person who is (i) married to or (ii) in a civil partnership with or (iii) cohabiting with the adopter (if any).
+
+(1) Forename(s), surname, birth surname, address and occupation.
+
+(2) Former surname(s) (if any).
+
+(3) Date of birth.
+
+(4) Civil status.
+
+(5) Personal public service number.
+
+3\. Information about the adopter or adopters.
+
+(1) Forename(s), surname, birth surname, address and occupation.
+
+(2) Former surname(s) (if any).
+
+(3) Date of birth.
+
+(4) Civil status.
+
+(5) Personal public service number.
+
+4\. Information about previous adoption (if any).
+
+(1) Date of previous adoption.
+
+(2) Country of previous adoption.
+
+(3) Reference number from relevant adoption register.
+
+5\. Other information.
+
+(1) Date of adoption order.
+
+(2) Date of registration.
+
+(3) Signature of an tArd-Chláraitheoir or an officer of an tArd-Chláraitheoir duly authorised by him or her.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F111: Substituted (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 41 and sch., S.I. No. 443 of 2017.
+>
+> **Editorial Notes:**
+>
+> E76: Previous affecting provision: section amended by *Children and Family Relationships Act 2015* (9/2015), s. 134, not commenced; repealed (19.10.2017) by *Adoption (Amendment) Act 2017* (19/2017), s. 2(2), S.I. No. 443 of 2017.
+
+## SCHEDULE 4 — Amendment of Second Schedule to Civil Registration Act 2004
+
+| Number and Year (1) | Short Title (2) | Extent of Repeal (3) |
+|---|---|---|
+| No. 25 of 1952 | Adoption Act 1952 | Section 22. |
+| No. 14 of 1991 | Adoption Act 1991 | Sections 6 and 7. |
