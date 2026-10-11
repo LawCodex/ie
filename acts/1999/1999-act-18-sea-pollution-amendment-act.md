@@ -1,0 +1,633 @@
+---
+title: "Sea Pollution (Amendment) Act, 1999"
+identifier: "eli/1999/act/18"
+type: act
+jurisdiction: ie
+language: en
+number: 18
+year: 1999
+date: 1999-06-30
+last_amended: 2021-11-22
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1999/act/18/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1999/act/18/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Sea Pollution (Amendment) Act, 1999
+
+AN ACT TO GIVE EFFECT TO THE INTERNATIONAL CONVENTION ON OIL POLLUTION PREPAREDNESS, RESPONSE AND CO-OPERATION, 1990, DONE AT LONDON ON THE 30TH DAY OF NOVEMBER 1990, TO AMEND THE SEA POLLUTION ACT, 1991, AND TO PROVIDE FOR RELATED MATTERS. [30*th June*, 1999]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act and collectively cited *Sea Pollution Acts 1991 to 2006* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...</td><td>...</td><td>...<br>Sea Pollution Acts 1991 to 2006<br>...</td></tr></table>
+>
+> C2: Functions in relation to collectively cited *Sea Pollution Acts 1991 to 1999* transferred and references to “Minister for” and “Department of Communications, Marine and Natural Resources” construed (1.01.2006) by *Maritime Transport, Safety and Security (Transfer of Departmental Administration and Ministerial Functions) Order 2005* (S.I. No. 842 of 2005), arts. 3, 4 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9. Note that name changed to Transport, Tourism and Sport (2.04.2011) by *Transport (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 141 of 2011), in effect as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of Transport.
+>
+> (2) References to the Department of Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, from the commencement of this Order, be construed as references to the Department of Transport.
+>
+> 4\. (1) The functions vested in the Minister for Communications, Marine and Natural Resources-
+>
+> (a) by or under the Acts specified in Part 1,
+>
+> ...
+>
+> of the Schedule to this Order are transferred to the Minister for Transport.
+>
+> (2) References to the Minister for Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Transport.
+>
+> ...
+>
+> **Schedule**
+>
+> Article 4(1)
+>
+> **Part 1**
+>
+> **Acts**
+>
+> ...
+>
+> Sea Pollution Acts 1991 to 1999
+>
+> ...
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act—
+
+“authorised officer” means a person appointed by the Minister under *section 4*, or section 11 of the Energy (Miscellaneous Provisions) Act, 1995;
+
+F1["Convention" means the International Convention on Oil Pollution Preparedness, Response and Co-operation 1990, done at London on 30 November 1990 together with the Protocol done at London on 15 March 2000;]
+
+“designated area” means an area for the time being designated under F2[the Maritime Jurisdiction Act 2021];
+
+“functions” includes powers and duties and references to the performance of functions include references to the exercise of powers and the carrying out of duties;
+
+“harbour authority” means—
+
+(*a*) in the case of a harbour to which the Harbours Act, 1946, applies, a harbour authority within the meaning of that Act;
+
+(*b*) in the case of a harbour under the control of a company established pursuant to section 7 of the Harbours Act, 1996, the company concerned;
+
+(*c*) in the case of a fishery harbour centre to which the Fishery Harbour Centres Act, 1968, applies, the Minister;
+
+(*d*) in the case of a harbour under the control of a local authority, the local authority concerned; or
+
+(*e*) in the case of a harbour under the management of Iarnród éireann — Irish Rail, Iarnród éireann — Irish Rail;
+
+F3["hazardous and noxious substances" means any substance other than oil which, if introduced into the marine environment, is likely to create a hazard to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;
+
+"hazardous and noxious substances handling facility" means a facility where hazardous and noxious substances are loaded into or unloaded from ships;
+
+"hazardous and noxious substances pollution emergency plan" in relation to a harbour, offshore unit, oil handling facility, hazardous and noxious substances handling facility, Irish ship or an area of seashore in whole or in part within the functional area, or contiguous to the functional area, of a local authority, means a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances approved by the Minister under section 2 of this Act;]
+
+“Irish ship” means an Irish ship within the meaning of section 9 of the Mercantile Marine Act, 1955;
+
+F4["local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);]
+
+“maritime administration” means a person in a state other than the State performing functions the same as or similar to those performed by the Minister under this Act;
+
+“the Minister” means the Minister for the Marine and Natural Resources;
+
+“offshore unit” means any fixed or floating offshore installation or structure, in the State or a designated area, engaged in gas or oil exploration, exploitation or production activities, or the loading or unloading of oil;
+
+“oil handling facility” means a facility in the State or a designated area that presents an oil pollution risk and includes oil terminals, pipelines and other similar facilities;
+
+“oil pollution emergency plan”, in relation to a harbour, offshore unit, oil handling facility F5[, relevant Irish ship] or an area of seashore in whole or in part within the functional area, or contiguous to the functional area, of a local authority, means a plan approved by the Minister under *section 2*;
+
+“oil pollution incident” means any occurrence or series of occurences involving a discharge of oil, or giving rise to circumstances from which it is reasonable to infer that there is likely to be a discharge of oil, from a ship, offshore unit or oil handling facility, and which poses a threat or gives rise to circumstances from which it is reasonable to infer that there is likely to be a threat to the marine environment in the State, a designated area or a prescribed area;
+
+F5["pollution incident by hazardous and noxious substances" means any occurrence or series of occurrences having the same origin, including fire or explosion, which results or may result in a discharge, release or emission of hazardous and noxious substances and which poses or may pose a threat to the marine environment in the State, or to the coastline or related interests of one or more states, and which requires emergency action or immediate response;]
+
+“the Principal Act” means the Sea Pollution Act, 1991;
+
+F5["Protocol" means the Protocol specified in the definition of "Convention";
+
+"relevant Irish ship" means an Irish ship which is—
+
+(*a*) an oil tanker of not less than 150 tons gross tonnage, or
+
+(*b*) a ship other than an oil tanker of not less than 400 tons gross tonnage;]
+
+“seashore” has the same meaning as it has in the Foreshore Act, 1933.
+
+F6[(2) A reference in this Act to the State includes a reference to—
+
+(*a*) the inland waters of the State,
+
+F7[(*b*) the territorial sea of the State within the meaning of the Maritime Jurisdiction Act 2021, its seabed and subsoil, and
+
+(*c*) the exclusive economic zone of the State within the meaning of the Maritime Jurisdiction Act 2021.]]
+
+(3) A reference in this Act to a section is a reference to a section of this Act unless it is indicated that a reference to some other enactment is intended.
+
+(4) A reference in this Act to a subsection or paragraph is a reference to the subsection or paragraph of the provision in which the reference occurs unless it is indicated that a reference to some other provision is intended.
+
+(5) A reference in this Act to an enactment shall be construed as a reference to that enactment as amended, adapted or extended, whether before or after the commencement of this section, by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 35(a), S.I. No. 605 of 2006.
+>
+> F2: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 20, S.I. No. 601 of 2021.
+>
+> F3: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 35(b), S.I. No. 605 of 2006.
+>
+> F4: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F5: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 35(c)-(e), S.I. No. 605 of 2006.
+>
+> F6: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 93(7), commenced on enactment.
+>
+> F7: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 20, S.I. No. 601 of 2021.
+>
+> F8: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: definition of “Irish ship” substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> "Irish ship" means an Irish ship within the meaning of section 33 of the Merchant Shipping (Registration of Ships) Act 2014;
+
+## 2. Preparation and submission of plans to Minister.
+
+**2.**—(1) A harbour authority shall, F9[as soon as possible] after the commencement of this section, prepare and submit to the Minister a plan for the prevention and minimisation of damage arising out of an oil pollution incident occurring in a harbour under its control.
+
+F10[(1A) A harbour authority shall, as soon as possible after the commencement of this subsection, prepare and submit to the Minister a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances occurring in a harbour under its control.]
+
+(2) The operator of an offshore unit or oil handling facility shall, F9[as soon as possible] after the commencement of this section, prepare and submit to the Minister a plan for the prevention and minimisation of damage arising out of an oil pollution incident occurring on the offshore unit or oil handling facility concerned.
+
+F10[(2A) The operator of a hazardous and noxious substances handling facility shall, as soon as possible after the commencement of this subsection, prepare and submit to the Minister a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances occurring on the handling facility concerned.]
+
+(3) The Minister may require a local authority, within such period as is specified by the Minister, to prepare and submit to him or her a plan for the prevention and minimisation of damage, arising out of an oil pollution incident, to any area of seashore that is in whole or in part within its functional area or contiguous thereto.
+
+F10[(3A) The Minister may require a local authority, within such period as is specified by the Minister, to prepare and submit to him or her a plan for the prevention and minimisation of damage, arising out of a pollution incident by hazardous and noxious substances, to any area of seashore that is in whole or in part within its functional area or contiguous thereto.
+
+(3B) The owner or master of a relevant Irish ship shall, as soon as possible after the commencement of this subsection, prepare and submit to the Minister a plan for the prevention and minimisation of damage arising out of an oil pollution incident and a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances occurring on such ship.]
+
+(4) The Minister may approve a plan to which this section applies.
+
+(5) A plan to which this section applies shall include such provisions and provide for the adoption of such measures and procedures by the harbour authority, F9[operator, local authority or Irish ship concerned] as the Minister may direct.
+
+(6) A person who fails to comply with a requirement or direction of a Minister under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 20(a), (e), S.I. No. 605 of 2006.
+>
+> F10: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 20(b)-(d), S.I. No. 605 of 2006.
+
+## 3. Oil pollution emergency plans.
+
+F11[**3.**— (1) A harbour authority shall, in relation to a harbour under its control, have in place—
+
+(*a*) an oil pollution emergency plan, and
+
+(*b*) a hazardous and noxious substances pollution emergency plan.
+
+(2) (*a*) The operator of an offshore unit or oil handling facility shall, in relation to the unit or handling facility concerned, have in place an oil pollution emergency plan.
+
+(*b*) The operator of a hazardous and noxious substances handling facility shall, in relation to the handling facility concerned, have in place a hazardous and noxious substances pollution emergency plan.
+
+(*c*) The master, or such other person as may have charge, of a relevant Irish ship shall ensure that there is on board the ship an oil pollution emergency plan and a hazardous and noxious substances pollution emergency plan in relation to the ship. Each such plan shall be in the English language.
+
+(*d*) The master, or such other person as may have charge, of a ship registered in a country, other than the State, which is a party to the Convention shall ensure that there is on board the ship—
+
+(i) an emergency plan for the prevention and minimisation of damage arising from an oil pollution incident,
+
+(ii) an emergency plan for the prevention and minimisation of damage arising from a pollution incident by hazardous and noxious substances, and
+
+(iii) where any such plan is not in the English language, a duly certified copy of the plan in the English language,
+
+and each such plan shall comply with the legal requirements of the country in which the ship is registered.
+
+(*e*) Where the Minister has made regulations under paragraph (*f*), the master, or such other person as may have charge, of a ship to which such regulations apply shall ensure that there is on board the ship—
+
+(i) an emergency plan for the prevention and minimisation of damage arising from an oil pollution incident,
+
+(ii) an emergency plan for the prevention and minimisation of damage arising from a pollution incident by hazardous and noxious substances, and
+
+(iii) where any such plan is not in the English language, a duly certified copy of the plan in the English language,
+
+and each such plan shall comply with those regulations.
+
+(*f*) (i) In respect of a ship registered in a country which is not a party to the Convention, the Minister may by regulations require the master, or such other person as may have charge, of the ship, while that ship is in the State to have on board the ship—
+
+(I) an emergency plan for the prevention and minimisation of damage arising from an oil pollution incident,
+
+(II) an emergency plan for the prevention and minimisation of damage arising from a pollution incident by hazardous and noxious substances, and
+
+(III) where any such plan is not in the English language, a duly certified copy of each such plan in the English language.
+
+(ii) Regulations under this paragraph may provide for all or any of the following matters in relation to each such plan:
+
+(I) the matters to be covered by such plan;
+
+(II) such other and incidental matters as appear to the Minister to be necessary.
+
+(*g*) Paragraphs (*d*), (*e*) and (*f*) apply only to a ship which is—
+
+(i) an oil tanker of not less than 150 tons gross tonnage, or
+
+(ii) a ship other than an oil tanker of not less than 400 tons gross tonnage.
+
+(3) (*a*) Each local authority of which a requirement is made under section 2(3) shall, in relation to the area of seashore to which the requirement relates, have in place an oil pollution emergency plan.
+
+(*b*) Each local authority of which a requirement is made under section 2(3A) shall, in relation to the area of seashore to which the requirement relates, have in place a hazardous and noxious substances pollution emergency plan.
+
+(4) A person who contravenes this section shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 21, S.I. No. 605 of 2006.
+
+## 4. Authorised officers.
+
+**4.**—(1) The Minister may appoint such persons or classes of persons as he or she considers appropriate to be authorised officers for the purposes of this Act.
+
+(2) A person appointed under *subsection (1)* shall, on his or her appointment, be furnished by the Minister with a warrant of his or her appointment and when exercising a power conferred by this Act shall, if requested by any person thereby affected, produce such warrant to that person for inspection.
+
+F12[(3) For the purposes of the *Sea Pollution Acts 1991 to 2006*, an authorised officer may—
+
+(*a*) enter at any time a relevant facility or ship, or any part thereof, for the purpose of exercising any powers conferred on him or her by this section,
+
+(*b*) make inspections and carry out such tests as he or she thinks fit in relation to the carrying on of any activities in a relevant facility or ship, including the monitoring and assessment of the effects on the marine environment of such activities,
+
+(*c*) make such inspections and carry out such tests in a relevant facility or ship as he or she thinks fit for the purposes of monitoring and assessing the effects on the marine environment of any oil pollution incident or a pollution incident by hazardous and noxious substances,
+
+(*d*) require any person in a relevant facility or ship to produce to him or her such documents, records or materials as are in that person’s possession or control relating to any plan which is required to be kept on board the relevant facility or ship and to give to him or her such information as he or she may reasonably require in respect of such documents, records or materials, or
+
+(*e*) require any person holding any position of authority or responsibility in relation to the implementation of any plan referred to in paragraph (*d*) to give to him or her such information as he or she may reasonably require in relation to the procedures employed or steps taken to ensure the carrying out of and compliance with such plan.
+
+(3A) In this section ‘relevant facility or ship’ means one or more of the following:
+
+(*a*) a harbour;
+
+(*b*) an offshore unit;
+
+(*c*) an oil handling facility;
+
+(*d*) a hazardous and noxious substances handling facility;
+
+(*e*) a relevant Irish ship;
+
+(*f*) a ship to which one or more of paragraphs (*d*), (*e*) and (*f*) of section 3(2) applies.]
+
+(4) Any person who—
+
+(*a*) obstructs or impedes an authorised officer in the exercise of his or her powers under this section,
+
+(*b*) without reasonable excuse, refuses or fails to comply with a requirement made of him or her under *subsection (3)*, or
+
+(*c*) makes a statement or furnishes information to an authorised officer, pursuant to a requirement made of him or her under *subsection (3)* by such officer, that is false or misleading in a material respect, knowing it to be false or misleading or being reckless as to whether it is so false or misleading,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted and inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 22, S.I. No. 605 of 2006.
+
+## 5. Powers of harbour-masters.
+
+**5.**—Section 25 of the Principal Act is hereby amended by—
+
+(*a*) the insertion in subsection (1) of the following paragraph:
+
+“(*aa*) take samples of oil, oily mixtures, noxious liquid substances, harmful substances, sewage or garbage from the ship concerned;”,
+
+and
+
+(*b*) the insertion of the following subsection after subsection (1):
+
+“(1A) A harbour-master may enter any oil handling facility within the harbour in respect of which he is harbour-master and there make inspections and carry out such tests as he thinks fit—
+
+(*a*) in relation to the carrying on of any activities in such facility, including the monitoring and assessment of the effects on the marine environment of such activities, or
+
+(*b*) for the purposes of monitoring and assessing the effects on the marine environment of any oil pollution incident.”.
+
+## 6. Giving of directions by Minister.
+
+**6.**—(1) The Minister may—
+
+(*a*) give a direction in writing to a harbour authority requiring it to make such modifications or alterations to an oil pollution emergency plan F13[or a hazardous and noxious substances pollution emergency plan] approved by him or her in respect of a harbour under its control as he or she deems appropriate, or
+
+(*b*) in relation to a harbour, give a direction (in writing or otherwise) to the harbour authority concerned to do or refrain from doing anything, the doing or refraining from doing of which is, in the opinion of the Minister, necessary or expedient for the purposes of responding to an oil pollution incident F13[or a pollution incident by hazardous and noxious substances] in that harbour.
+
+F14[(2) The Minister may—
+
+(*a*) give a direction in writing to the operator of an offshore unit, oil handling facility or hazardous and noxious substances handling facility or to the master, or such other person as may have charge, of a relevant Irish ship requiring the operator, master or other person concerned to make such modifications or alterations to either or both an oil pollution emergency plan and a hazardous and noxious substances pollution emergency plan in respect of the offshore unit, handling facility or relevant Irish ship, as the case may be, under the control of the operator, or the master or such other person, as the Minister deems appropriate, or
+
+(*b*) in relation to an offshore unit, oil handling facility, hazardous and noxious substances handling facility or relevant Irish ship, give a direction (in writing or otherwise) to the operator of such offshore unit or handling facility or to the master, or such other person as may have charge, of a relevant Irish ship, as the case may be, to do or refrain from doing anything, the doing or refraining from doing of which is, in the opinion of the Minister, necessary or expedient for the purposes of responding to an oil pollution incident or a pollution incident by hazardous and noxious substances in or on the offshore unit, handling facility or relevant Irish ship concerned.]
+
+(3) The Minister may—
+
+(*a*) give a direction in writing to a local authority requiring it to make such modifications or alterations to an oil pollution emergency plan F13[or a hazardous and noxious substances pollution emergency plan] approved by him or her in respect of an area of seashore within or contiguous to the functional area of the local authority concerned, or
+
+(*b*) in relation to such area of seashore as he or she deems appropriate, give a direction (in writing or otherwise) to a local authority to do or refrain from doing anything, the doing or refraining from doing of which is, in the opinion of the Minister, necessary or expedient for the purposes of responding to an oil pollution incident F13[or a pollution incident by hazardous and noxious substances].
+
+(4) A person who fails to comply with a direction under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 24(a), (b), S.I. No. 605 of 2006.
+>
+> F14: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 24(c), S.I. No. 605 of 2006.
+
+## 7. Duty to report oil pollution incident.
+
+**7.**—The Principal Act is hereby amended by—
+
+(*a*) the substitution of the following section for section 13:
+
+“13.—(1) Whenever there is an incident, whether on board or outside a ship—
+
+(*a*) resulting in a discharge, in the State or a prescribed area, of a pollutant or quantity of a pollutant in excess of that permitted under section 10, from a ship, or
+
+(*b*) giving rise to circumstances from which it is reasonable to infer that there is likely to be a discharge, in the State or a prescribed area, of a pollutant or quantity of a pollutant in excess of that permitted under section 10, from a ship,
+
+the master of the ship concerned or of any other ship involved in such incident or from which such incident was observed shall forthwith report the matter to the Minister or, where the incident or discharge occurs in a harbour, to the harbour-master of such harbour or person for the time being performing the functions of harbour-master in relation to such harbour.
+
+(2) Where the presence of oil in the sea is observed from a ship in the State or a prescribed area the master of such ship shall forthwith report the matter to the Minister, or where the presence of oil is observed from a ship in a harbour, to the harbour authority concerned.
+
+(3) A harbour-master or person performing, for the time being, the functions of harbour-master in relation to a harbour shall—
+
+(*a*) on receipt of a report under subsection (1) or (2),
+
+(*b*) on being informed of an incident resulting in a discharge in the harbour concerned, of a pollutant or quantity of a pollutant in excess of that permitted under section 10, or the existence of circumstances from which it is reasonable to infer that there is likely to be a discharge of a pollutant or quantity of a pollutant in excess of that permitted under section 10 in the harbour, or
+
+(*c*) on observing an incident referred to in paragraph (*b*), or a pollutant or quantity of a pollutant in excess of that permitted under section 10 in the sea, within the harbour,
+
+report the matter to the Minister.
+
+(4) A report under this section shall comply with such requirements (if any) as the Minister may prescribe.
+
+(5) A person who contravenes this section or a requirement prescribed under subsection (4) shall be guilty of an offence.
+
+(6) In this section ‘pollutant’ means oil, an oily mixture, noxious liquid substance, harmful substance, sewage or garbage.”,
+
+and
+
+(*b*) the insertion of the following sections after section 13:
+
+“13A.—(1) Whenever there is an incident whether on board or outside an Irish ship—
+
+(*a*) resulting in a discharge, outside the State or a prescribed area, of oil from a ship, or
+
+(*b*) giving rise to circumstances from which it is reasonable to infer that there is likely to be a discharge, outside the State or a prescribed area, of oil from a ship,
+
+the master of any Irish ship involved in such incident or of any Irish ship from which such incident was observed, shall forthwith report the matter to the maritime administration, in the state closest to the place where the incident occurred, or to the person performing, in relation to the port closest to the said place, functions the same as or similar to the functions performed by a harbour-master in relation to a harbour, as may be appropriate.
+
+(2) Where the presence of oil in the sea is observed from an Irish ship outside the State or a prescribed area the master of such ship shall forthwith report the matter to the maritime administration, in the state closest to the place where such presence was observed, or to the person performing, in relation to the port closest to the said place, functions the same as or similar to the functions performed by a harbour-master in relation to a harbour, as may be appropriate.
+
+(3) A person who contravenes this section shall be guilty of an offence.
+
+13B.—(1) Whenever an incident occurs on an offshore unit or an oil handling facility resulting in a discharge of oil, in the State or a designated area, or giving rise to circumstances from which it is reasonable to infer that there is likely to be a discharge of oil in the State or a designated area the person for the time being in charge of the offshore unit or oil handling facility concerned shall forthwith report the matter to—
+
+(*a*) the Minister, or
+
+(*b*) in the case of an oil handling facility in a harbour, to the harbour-master, or person performing, for the time being, the functions of harbour-master in relation to that harbour.
+
+(2) Whenever a person on an offshore unit or oil handling facility observes an incident involving a discharge of oil in the State or a designated area, or an incident from which, having regard to all the circumstances observed, it would be reasonable to infer that a discharge of oil in the State or a designated area is likely to occur, or observes the presence of oil in the sea, he shall report the matter to the person, for the time being in charge of the offshore unit or oil handling facility concerned.
+
+(3) A person for the time being in charge of an offshore unit or oil handling facility shall on receipt of a report under subsection (2) forthwith report the matter to the Minister.
+
+(4) A harbour-master or person performing for the time being the functions of harbour-master in relation to a harbour shall on receipt of a report under subsection (1) forthwith report the matter to the Minister.
+
+(5) A report under this section shall comply with such requirements (if any) as the Minister may prescribe.
+
+(6) A person who contravenes this section or a requirement prescribed under subsection (5) shall be guilty of an offence.”.
+
+## 8. Minister to prepare plan for preventing and minimising oil pollution damage.
+
+F15[**8.**— (1) The Minister shall prepare a plan (in this section referred to as "the plan") specifying the measures to be taken to prevent and minimise damage in the State resulting from discharges (in this section referred to as "discharges") of oil or hazardous and noxious substances from ships, offshore units, oil handling facilities and hazardous and noxious substances handling facilities (either or both of which handling facilities are, in this section, referred to as "handling facilities").
+
+(2) Without prejudice to the generality of subsection (1), the plan shall provide for—
+
+(*a*) the placing, at such places in the State as may be specified therein, of such equipment and materials to be used in connection with the removal, degrading or disposal of discharges into the sea or onto land as may be specified in the plan,
+
+(*b*) the training of such persons or classes of persons as may be specified in the plan in the use of equipment and materials to which paragraph (*a*) applies, and generally in the carrying out of operations to prevent and minimise damage in the State resulting from discharges from ships, offshore units or handling facilities,
+
+(*c*) the conducting of exercises by such persons or classes of persons and at such intervals as are specified in the plan to ensure the greater effectiveness of measures taken to prevent or minimise damage in the State resulting from discharges from ships, offshore units or handling facilities,
+
+(*d*) the maintenance and improvement of co-operation and communication between persons required to comply with such provisions of the plan as are specified in a direction of the Minister under subsection (3), and
+
+(*e*) the co-ordination of the activities of persons to whom paragraph (*d*) applies, when carrying out operations to prevent and minimise damage in the State resulting from discharges from ships, offshore units or handling facilities.
+
+(3) The Minister may, by direction in writing, require such persons as he or she considers appropriate to comply with such provisions of the plan as are specified in the direction.
+
+(4) The plan shall be published in such manner as the Minister considers appropriate.
+
+(5) A person who fails to comply with a direction of the Minister under this section shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 28, S.I. No. 605 of 2006.
+
+## 9. Acquisition of equipment and materials by Minister.
+
+F16[**9.**— The Minister may, alone or jointly with a foreign maritime administration, arrange for the provision, on such terms as he or she considers appropriate, whether by purchasing, leasing, hiring or otherwise, of such equipment and materials as he or she considers necessary or expedient for the carrying out of operations for the prevention or minimising of damage in the State resulting from discharges of oil or hazardous and noxious substances from ships, offshore units, oil handling facilities or hazardous and noxious substances handling facilities, or for the training of persons in the carrying out of such operations, or for the purposes of operations undertaken in relation to vessels in distress in accordance with section 7 of the Merchant Shipping (Salvage and Wreck) Act 1993 or in relation to salvage operations as defined in section 12 of that Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 29, S.I. No. 605 of 2006.
+
+## 10. Provision of assistance by foreign maritime administration.
+
+**10.**— Where the maritime administration of a party to the Convention provides, pursuant to a request of the Minister, assistance in preventing or minimising damage in the State resulting from a discharge of oil F17[or hazardous and noxious substances] from a ship, offshore unit F18[, oil handling facility or hazardous and noxious substances handling facility,] the Minister may, on such terms and conditions as he or she considers appropriate, reimburse such foreign maritime administration for the expenses incurred by it in so providing assistance.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 30(a), S.I. No. 605 of 2006.
+>
+> F18: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 30(b), S.I. No. 605 of 2006.
+
+## 11. Provision of assistance by Minister outside State.
+
+**11.**—(1) The Minister may, pursuant to a request from a party to the Convention or the maritime administration thereof, provide assistance in preventing or minimising damage outside the State resulting from a discharge of oil F19[or hazardous and noxious substances] from a ship, offshore unit F20[, oil handling facility or hazardous and noxious substances handling facility,] including the provision of equipment, materials or technical advice, or the carrying out of operations to prevent or minimise such damage.
+
+(2) Assistance under *subsection (1)* shall be provided on such terms as the Minister considers appropriate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 31(a), S.I. No. 605 of 2006.
+>
+> F20: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 31(b), S.I. No. 605 of 2006.
+
+## 12. Ships anchored outside harbour.
+
+**12.**—(1) The master of a ship at anchor at a place in the State other than a harbour shall immediately notify the Minister of the fact and of the place at which it is at anchor.
+
+(2) A person shall not transfer or cause to be transferred ship’s stores, F21[cargo, oil or hazardous and noxious substances] to or from a ship in a place in the State (not being a harbour) other than in accordance with a permit granted by the Minister under *subsection (3).*
+
+(3) The Minister may, upon an application being made by the owner, charterer, hirer or master of a ship, grant a permit to the applicant allowing the transfer to or from the ship concerned of ship’s stores, F21[cargo, oil or hazardous and noxious substances] outside a harbour.
+
+(4) An application for a permit under *subsection (3)* shall comply with such requirements (if any) as the Minister may prescribe.
+
+(5) A permit under *subsection (3)* shall be in such form as the Minister may prescribe.
+
+(6) The Minister may attach such conditions as the or she considers appropriate to a permit under *subsection (3).*
+
+(7) A person who contravenes *subsection (1) or (2)* or a condition attached to a permit under *subsection (3)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 32, S.I. No. 605 of 2006.
+
+## 13. Amendment of section 3 of Principal Act.
+
+**13.**—Section 3 of the Principal Act is hereby amended by—
+
+(*a*) in subsection (1)—
+
+(i) the insertion in the definition of “maritime casualty” of “pollution,” after the words “resulting in”, and
+
+(ii) the insertion of the following definition:
+
+“‘prescribed area’ means an area outside the State prescribed by the Minister for the purposes of this Act;”,
+
+(*b*) the insertion of the following subsection after subsection (2):
+
+“(2A) A reference in this Act to the State includes a reference to—
+
+(*a*) the inland waters of the State,
+
+(*b*) the territorial seas of the State, and the seabed and subsoil beneath those seas, and
+
+(*c*) any area lying within a line, every point of which is 200 nautical miles from the baselines for the purposes of the Maritime Jurisdiction Acts, 1959 to 1988, and the waters above it, provided that this paragraph shall not be construed as constituting a claim by the State to any area that—
+
+(i) is under the jurisdiction of a state other than the State, and
+
+(ii) the State recognises as being under such jurisdiction.”,
+
+and
+
+(*c*) the substitution of the following subsection for subsection (3):
+
+“(3) A reference in this Act to a country other than the State includes a reference to the territorial seas and inland waters of that country.”.
+
+## 14. Detention of ships.
+
+**14.**—The Principal Act is hereby amended by—
+
+(*a*) the substitution in section 22 of the following subsection for subsection (2):
+
+“(2) Without prejudice to any other power conferred on an inspector under this Act, an inspector to whom this section applies may, if he is satisfied that a ship (or any fitting or equipment thereon) does not comply with a certificate referred to in subsection (1) or is so defective that the ship is not fit to put to sea without presenting a serious threat to living marine resources, detain a ship, or take a ship to such place in the State as he considers appropriate, and there detain it until such time as any directions given by him under this section in relation to the ship have been complied with”,
+
+(*b*) the substitution in section 24 of the following subsection for subsection (1):
+
+“(1) Whenever an inspector or a harbour-master has reasonable cause to believe that a ship has caused or may cause pollution and the ship is in the State, he may stop and detain the ship, or take it to such place in the State as he considers appropriate and there detain it.”
+
+(*c*) the substitution of the following section for section 39:
+
+“39.—(1) Where an inspector or harbour-master has, in the exercise of the powers conferred on him by section 22(2) or 24 detained a ship and the persons on board the ship at a port or other place in the State, any inspector, or the harbour-master concerned, who suspects that a person on board the ship has committed an offence under this Act shall (unless he is proceeding under section 39A), as soon as may be, apply to a judge of the District Court for an order authorising the continued detention of the ship and those persons, and the said judge may grant an order authorising such detention for a period of 48 hours if he is satisfied that the applicant inspector or harbour-master has such a suspicion as aforementioned.
+
+(2) Upon the expiration of the period of 48 hours—
+
+(*a*) the ship shall be released unless an order providing for its further detention is made under section 39A before the expiration of the said period of 48 hours, and
+
+(*b*) each person on board the ship shall be released unless an order providing for his further detention is made under the said section before the expiration of the said period.”,
+
+and
+
+(*d*) the insertion of the following section after section 39:
+
+“39A.— Where an inspector or harbour-master has, in the exercise of the powers conferred on him by section 22(2) or 24, detained a ship and the persons on board the ship at a port or other place in the State, any inspector or the harbour-master concerned shall, as soon as may be, bring the master of the ship and any other persons on board the ship, against whom proceedings for an offence under this Act have been or are about to be instituted, before a judge of the District Court and thereupon the said judge shall, if he is satisfied that such proceedings have been or are about to be instituted against the master and those other persons or any one or more of them, by order directed to an inspector or the harbour-master concerned, require such inspector or harbour-master to detain at a specified place in the State the ship and each person (including the master) aforesaid in respect of whom he is so satisfied, until such proceedings have been adjudicated upon by a court in exercise of its criminal jurisdiction.”.
+
+## 15. Provision relating to offences under Principal Act.
+
+**15.**—The Principal Act is hereby amended by—
+
+(*a*) the substitution in section 29(*a*) of “£1,500” for “£1,000”, and
+
+(*b*) the substitution of the following section for section 31:
+
+“31.—Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other officer of such body corporate or a person who was purporting to act in any such capacity, that officer or person shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.”.
+
+## 16. Penalties.
+
+**16.**—A person who commits an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500, or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000,000, or to imprisonment for a term not exceeding 5 years, or to both.
+
+## 17. Application of certain provisions of Principal Act to offences under this Act.
+
+**17.**—Sections 30 (other than subsection (2)), 31, 32 and 33 of the Principal Act shall apply to this Act as they apply to the Principal Act, subject to the necessary modifications.
+
+## 18. Miscellaneous.
+
+**18.**—Subsections (1), (2), (3) and (4) of section 2 of the Oil Pollution of the Sea (Civil Liability and Compensation) (Amendment) Act, 1998, are hereby repealed.
+
+## 19. Short title, collective citation, construction and commencement.
+
+**19.**—(1) This Act may be cited as the Sea Pollution (Amendment) Act, 1999.
+
+(2) The Sea Pollution Acts, 1991 and 1995, the Sea Pollution Acts, 1991 and 1996, and this Act may be cited as the Sea Pollution Acts, 1991 to 1999, and shall be construed together as one Act.
+
+(3) This Act shall come into operation on such day or days as the Minister may appoint, by order or orders, either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (3) exercised (1.09.1999) by *Sea Pollution (Amendment) Act, 1999, (Commencement) Order 1999* (S.I. No. 295 of 1999).
+>
+> 2\. The 1st day of September, 1999 is hereby appointed as the day on which the Sea Pollution (Amendment) Act, 1999 (No. 18 of 1999), shall come into operation.

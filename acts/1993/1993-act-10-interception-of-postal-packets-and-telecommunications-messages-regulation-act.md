@@ -1,0 +1,671 @@
+---
+title: "Interception of Postal Packets and Telecommunications Messages (Regulation) Act, 1993"
+identifier: "eli/1993/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 1993
+date: 1993-06-06
+last_amended: 2025-04-02
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1993/act/10/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1993/act/10/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Interception of Postal Packets and Telecommunications Messages (Regulation) Act, 1993
+
+AN ACT TO REGULATE THE INTERCEPTION OF CERTAIN POSTAL PACKETS AND TELECOMMUNICATIONS MESSAGES AND TO MAKE PROVISION FOR RELATED MATTERS. [6*th June*, 1993]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Act applied with modifications (1.12.2014) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 25(8), S.I. No. 541 of 2014.
+>
+> **Action on request.**
+>
+> **25.**— ...
+>
+> (8) The authorisation is deemed to be an authorisation under section 2 of the Act of 1993, and that Act and section 110 of the Act of 1983 (in so far as it relates to directions related to such authorisations) have effect accordingly, with any necessary modifications, for all purposes as if the authorisation and any such directions had been given under the Act of 1993 and the Act of 1983.
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+“the Act of 1983” means the Postal and Telecommunications Services Act, 1983;
+
+F1[“Act of 2024” means the Policing, Security and Community Safety Act 2024;]
+
+“authorisation” means an authorisation by the Minister of an interception;
+
+F3[...]
+
+“the Commissioner” means the Commissioner of the Garda Síochána;
+
+“communication” means a postal packet or a telecommunications message;
+
+“copy”, in relation to a communication intercepted pursuant to an authorisation, means any of the following, whether or not in the form of a document—
+
+(*a*) any copy or transcript of the communication or any extract from, or summary of, the communication or transcript, and
+
+(*b*) any record of the identities of the persons to or by whom the communication was sent;
+
+F4[...]
+
+F2[“Independent Examiner” has the same meaning as it has in the Act of 2024;]
+
+“interception” means—
+
+(*a*) an act—
+
+(i) that consists of the opening or attempted opening of a postal packet addressed to any person or the delaying or detaining of any such postal packet or the doing of anything to prevent its due delivery or the authorising, suffering or permitting of another person (who is not the person to whom the postal packet is addressed) to do so, and
+
+(ii) that, if done otherwise than in pursuance of a direction under section 110 of the Act of 1983, constitutes F5[an offence under section 53 of the Communications Regulation (Postal Services) Act 2011],
+
+or
+
+(*b*) an act—
+
+(i) that consists of the listening or attempted listening to, or the recording or attempted recording, by any means, in the course of its transmission, of a telecommunications message, other than such listening or recording, or such an attempt, where either the person on whose behalf the message is transmitted or the person intended to receive the message has consented to the listening or recording,
+
+and
+
+(ii) that, if done otherwise than in pursuance of a direction under section 110 of the Act of 1983, constitutes an offence under section 98 of that Act,
+
+and cognate words shall be construed accordingly;
+
+“the Minister” means the Minister for Justice;
+
+“the nominated officer” means the officer of the Minister nominated by the Minister under *section 6* of this Act for the purposes of this Act;
+
+“postal packet” and “telecommunications message” have the meanings that they have respectively in the Act of 1983, but, for the avoidance of doubt, it is hereby declared that the latter expression includes a telegram;
+
+“serious offence” means an offence which satisfies both of the following conditions:
+
+(*a*) it is an offence for which a person aged 21 years or over, of full capacity and not previously convicted may be punished by imprisonment for a term of 5 years or more, and
+
+(*b*) it is an offence—
+
+(i) that involves loss of human life, serious personal injury or serious loss of or damage to property or a serious risk of any such loss, injury or damage,
+
+(ii) that results or is likely to result in substantial gain, or
+
+(iii) the facts and circumstances of which are such as to render it a specially serious case of its kind;
+
+and includes an act or omission done or made outside the State that would be a serious offence if done or made in the State:
+
+Provided, however, that an offence consisting of an attempt, conspiracy or incitement to commit an offence shall not be a serious offence unless the offence which is the subject of the attempt, conspiracy or incitement is itself a serious offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2: Inserted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(a)(ii), S.I. No. 107 of 2025.
+>
+> F3, F4: Deleted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(a)(i), S.I. No. 107 of 2025.
+>
+> F5: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 54(3)(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C2: The history of the title of Minister of **Justice** may be traced as follows:
+>
+> • Title of Minister for **Justice** altered to **Justice, Equality and Law Reform** (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice, Equality and Law Reform** altered to **Justice and Law Reform** (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice and Law Reform** altered to **Justice and Equality** (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in effect as per art. 1(2);
+>
+> • Certain functions under s. 2 transferred and references to Minister for **Justice and Equality** transferred to **Communications, Energy and Natural Resources** (13.03.2012) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 76 of 2012), in effect as per art. 1(2);
+>
+> • Certain functions under s. 2 transferred and references to Minister for **Communications, Energy and Natural Resources** construed as **Justice and Equality** (17.06.2014) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2014* (S.I. No.280 of 2014), in effect as per art. 1(2).
+>
+> • Title of Minister for **Justice and Equality** altered to **Justice** (1.11.2020) by *Justice and Equality (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 452 of 2025), in effect as per art. 1(2).
+>
+> • Title of Minister for **Justice** altered to **Justice, Home Affairs and Migration** (5.06.2025) by *Justice (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 242 of 2025), in effect as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: definition of "the chairperson of the Garda Síochána Ombudsman Commission" inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 12(a), S.I. No. 150 of 2015; deleted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(a)(i), S.I. No. 107 of 2025.
+
+## 2. Authorisation of interceptions.
+
+**2.**—(1) The Minister may give an authorisation, but only for the purpose of criminal investigation or in the interests of the security of the State.
+
+(2) (*a*) Subject to *paragraph (b)* of this subsection, an authorisation shall be given by warrant under the hand of the Minister.
+
+(*b*) If the Minister considers that the case is one of exceptional urgency, an authorisation may be given orally (whether by telephone or otherwise) by the Minister and, if it is so given, it shall be confirmed, as soon as may be, by warrant under the hand of the Minister.
+
+(*c*) The nominated officer shall maintain a record of any authorisations given under *paragraph (b)*.
+
+(3) The Minister shall not give an authorisation unless he considers that the conditions specified in *section 4* or *5* of this Act, as may be appropriate, stand fulfilled, and that there has not been a contravention of *section 6* of this Act, in relation to the proposed interception.
+
+(4) A warrant under this section—
+
+(*a*) shall bear the date on which the authorisation to which it relates is given,
+
+(*b*) shall state—
+
+(i) whether the proposed interception is in relation to postal packets or telecommunications messages or both, and
+
+(ii) that the requirements of this Act in relation to the giving of the authorisation to which the warrant relates have been complied with,
+
+(*c*) shall specify—
+
+(i) the postal address to which and (unless the Minister considers that to restrict the authorisation to which the warrant relates to a specified person or persons would be prejudicial to the purposes of the proposed interception) the person or persons to whom the proposed interception relates, or
+
+(ii) the telecommunications address to which the proposed interception relates,
+
+or, where appropriate, the matters specified in both *subparagraphs (i)* and *(ii)* of this paragraph, and
+
+(*d*) may require the person to whom it is addressed to disclose the intercepted material to such persons as are specified in the warrant.
+
+(5) Subject to *sections 7* and *8 (6)* of this Act, an authorisation shall remain in force for such period not exceeding 3 months from the date on which it is given as may be specified in the warrant and shall then cease to have effect unless that period is extended under *subsection (6)* of this section.
+
+(6) (*a*) Subject to *paragraph (b)* of this subsection, the Minister may, from time to time as occasion requires while an authorisation is in force, by warrant under his hand extend the period for which the authorisation is in force for such further period not exceeding 3 months at a time as may be specified in the warrant.
+
+(*b*) *Subsections (2) (b), (3), (4)* and *(5)* of this section shall apply in relation to an extension under this subsection as if it were an authorisation under *subsection (1)* of this section.
+
+(7) The Minister may consult the F6[Independent Examiner] before deciding whether to give an authorisation, or extend the period for which an authorisation is in force, in any particular case or in a case of any particular class.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F6: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(b), S.I. No. 107 of 2025.
+>
+> **Modifications (not altering text):**
+>
+> C3: Certain functions under section (applications for an authorisation pursuant to s. 6(1)(a)(ii)(II)) transferred and reference to Minister for **Communications, Energey and Natural Resources** construed as **Justice and Equality** (17.06.2014) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2014* (S.I. No. 280 of 2014), arts. 2, 3, subject to transitional provisions in arts. 4-6.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of the functions transferred by Article 3 are transferred to the Department of Justice and Equality.
+>
+> (2) References to the Department of Communications, Energy and Natural Resources contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Justice and Equality.
+>
+> 3\. (1) The functions vested in the Minister for Communications, Energy and Natural Resources by virtue of the Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2012 ( S.I. No. 76 of 2012 ) are transferred to the Minister for Justice and Equality.
+>
+> (2) References to the Minister for Communications, Energy and Natural Resources contained in any Act or any instrument made thereunder and relating to any functions transferred by this Article shall, on and from the commencement of this Order, be construed as references to the Minister for Justice and Equality.
+>
+> The history of the title of Minister of **Justice** may be traced as follows:
+>
+> • Title of Minister for **Justice** altered to **Justice, Equality and Law Reform** (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice, Equality and Law Reform** altered to **Justice and Law Reform** (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice and Law Reform** altered to **Justice and Equality** (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in effect as per art. 1(2);
+>
+> • Functions under section transferred and references to Minister for **Justice and Equality** transferred to **Communications, Energy and Natural Resources** (13.03.2012) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 76 of 2012), in effect as per art. 1(2);
+>
+> • Functions under section transferred and references to Minister for **Communications, Energy and Natural Resources** construed as **Justice and Equality** (17.06.2014) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2014* (S.I. No.280 of 2014), arts. 2, 3, subject to transitional provisions in arts. 4-6.
+>
+> • Title of Minister for **Justice and Equality** altered to **Justice** (1.11.2020) by *Justice and Equality (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 452 of 2025), in effect as per art. 1(2).
+>
+> • Title of Minister for **Justice** altered to **Justice, Home Affairs and Migration** (5.06.2025) by *Justice (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 242 of 2025), in effect as per art. 1(2).
+
+## 3. Restriction of power under Act of 1983 to require interceptions.
+
+**3.**—A direction under section 110 of the Act of 1983 requiring an interception shall not be issued or remain in force unless there is in force an authorisation relating to the interception or the direction is a general one requiring an interception if and for so long as an authorisation is in force.
+
+## 4. Conditions justifying interception for purpose of criminal investigation.
+
+**4.**—The conditions referred to in *section 2* of this Act in relation to an interception for the purpose of criminal investigation are—
+
+(*a*) (i) that—
+
+(I) investigations are being carried out F7[or the F9[Police Ombudsman]], or another public authority charged with the investigation of offences of the kind in question, concerning a serious offence or a suspected serious offence,
+
+(II) investigations not involving interception have failed, or are likely to fail, to produce, or to produce sufficiently quickly, either or, as the case may be, both of the following, that is to say:
+
+(A) information such as to show whether the offence has been committed or as to the facts relating to it,
+
+(B) evidence for the purpose of criminal proceedings in relation to the offence,
+
+and
+
+(III) there is a reasonable prospect that the interception of postal packets sent to a particular postal address or of telecommunications messages sent to or from a particular telecommunications address would be of material assistance (by itself or in conjunction with other information or evidence) in providing information, or evidence, such as aforesaid,
+
+or
+
+(ii) that—
+
+F8[(I) in the case of a serious offence that is apprehended but has not been committed, investigations are being carried out—
+
+(A) for the purpose of preventing the commission of the offence, by the Garda Síochána or another public authority charged with the prevention of offences of the kind in question, or
+
+(B) for the purpose of enabling the offence to be detected, if it is committed, by the Garda Síochána or the F10[Police Ombudsman] or another public authority charged with the investigation of offences of the kind in question,]
+
+(II) investigations not involving interception have failed, or are likely to fail, to produce, or to produce sufficiently quickly, information as to the perpetrators, the time, the place, and the other circumstances, of the offence that would enable the offence to be prevented or detected, as the case may be, and
+
+(III) there is a reasonable prospect that the interception of postal packets sent to a particular postal address or of telecommunications messages sent to or from a particular telecommunications address would be of material assistance (by itself or in conjunction with other information) in preventing or detecting the offence, as the case may be,
+
+and
+
+(*b*) that the importance of obtaining the information or evidence concerned is, having regard to all the circumstances and notwithstanding the importance of preserving the privacy of postal packets and telecommunications messages, sufficient to justify the interception.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F7, F8: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 12(b), S.I. No. 150 of 2015.
+>
+> F9, F10: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(c), S.I. No. 107 of 2025.
+
+## 5. Conditions justifying interception in interests of security of State.
+
+**5.**—The conditions referred to in *section 2* of this Act in relation to an interception in the interests of the security of the State are—
+
+(*a*) that there are reasonable grounds for believing that particular activities that are endangering or likely to endanger the security of the State are being carried on or are proposed to be carried on,
+
+(*b*) that investigations are being carried out by or on behalf of the person applying for the authorisation concerned to ascertain whether activities of the kind aforesaid are in fact being carried on or proposed to be carried on and, if so, by whom and their nature and extent,
+
+(*c*) that investigations not involving interception have failed, or are likely to fail, to produce, or to produce sufficiently quickly, information that would show whether the activities are being carried on or proposed to be carried on and, if so, by whom and their nature and extent,
+
+(*d*) that there is a reasonable prospect that the interception of postal packets sent to a particular postal address or of telecommunications messages sent to or from a particular telecommunications address would be of material assistance (by itself or in conjunction with other information) in providing information such as aforesaid, and
+
+(*e*) that the importance of obtaining the information concerned is, having regard to all the circumstances and notwithstanding the importance of preserving the privacy of postal packets and telecommunications messages, sufficient to justify the interception.
+
+## 6. Applications for authorisations.
+
+**6.**—(1) An application for an authorisation—
+
+(*a*) shall be made in writing—
+
+F11[(i) in case the authorisation is for the purpose of criminal investigation, either by—
+
+(I) the Commissioner, or
+
+(II) the F12[Police Ombudsman], and]
+
+(ii) in case the authorisation is in the interests of the security of the State, either by—
+
+(I) the Commissioner, or
+
+(II) the Chief of Staff of the Defence Forces,
+
+and shall be sent or given to such officer (in this Act referred to as “the nominated officer”) of the Minister as may be nominated by the Minister for the purposes of this Act,
+
+(*b*) shall include sufficient information to enable the Minister to determine whether the conditions specified in *section 4* or *5*, as the case may be, of this Act stand fulfilled in relation to the proposed interception, and
+
+(*c*) shall, in the case of an application pursuant to *paragraph (a) (ii) (II)* of this subsection, be accompanied by a recommendation in writing of the Minister for Defence supporting the application.
+
+(2) The nominated officer shall consider any application under this section and, having made any inquiries he thinks necessary, shall make a submission to the Minister signed by him and stating his opinion as to whether or not the conditions specified in *section 4* or *5*, as the case may be, of this Act stand fulfilled in relation to the proposed interception and stating, if in his opinion those conditions do not stand so fulfilled, in what respects they do not so stand.
+
+(3) For the purpose of *subsection (2)* of this section, information which is in the possession of the nominated officer when he receives an application under this section (whether as the result of a previous application for an authorisation or otherwise) or which he receives after that time may be treated as if it had been included in the application.
+
+(4) The duties of the nominated officer under this Act may in his absence be discharged by such officer of the Minister as may be designated by the Minister for the purpose.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 12(c), S.I. No. 150 of 2015.
+>
+> F12: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(d), S.I. No. 107 of 2025.
+>
+> **Modifications (not altering text):**
+>
+> C4: Certain functions under s. 2 (applications for an authorisation pursuant to s. 6(1)(a)(ii)(II)) transferred and reference to Minister for **Communications, Energey and Natural Resources** construed as **Justice and Equality** (17.06.2014) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2014* (S.I. No. 280 of 2014), arts. 2, 3, subject to transitional provisions in arts. 4-6.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of the functions transferred by Article 3 are transferred to the Department of Justice and Equality.
+>
+> (2) References to the Department of Communications, Energy and Natural Resources contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Justice and Equality.
+>
+> 3\. (1) The functions vested in the Minister for Communications, Energy and Natural Resources by virtue of the Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2012 ( S.I. No. 76 of 2012 ) are transferred to the Minister for Justice and Equality.
+>
+> (2) References to the Minister for Communications, Energy and Natural Resources contained in any Act or any instrument made thereunder and relating to any functions transferred by this Article shall, on and from the commencement of this Order, be construed as references to the Minister for Justice and Equality.
+>
+> The history of the title of Minister of **Justice** may be traced as follows:
+>
+> • Title of Minister for **Justice** altered to **Justice, Equality and Law Reform** (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice, Equality and Law Reform** altered to **Justice and Law Reform** (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2);
+>
+> • Title of Minister for **Justice and Law Reform** altered to **Justice and Equality** (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in effect as per art. 1(2);
+>
+> • Certain functions under s. 2 transferred and references to Minister for **Justice and Equality** transferred to **Communications, Energy and Natural Resources** (13.03.2012) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 76 of 2012), in effect as per art. 1(2);
+>
+> • Certain functions under s. 2 transferred and references to Minister for **Communications, Energy and Natural Resources** construed as **Justice and Equality** (17.06.2014) by *Authorisation of Certain Interceptions (Transfer of Departmental Administration and Ministerial Functions) Order 2014* (S.I. No. 280 of 2014), in effect as per art. 1(2).
+>
+> • Title of Minister for **Justice and Equality** altered to **Justice** (1.11.2020) by *Justice and Equality (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 452 of 2025), in effect as per art. 1(2).
+>
+> • Title of Minister for **Justice** altered to **Justice, Home Affairs and Migration** (5.06.2025) by *Justice (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 242 of 2025), in effect as per art. 1(2).
+
+## 7. Cesser of interceptions no longer required.
+
+**7.**—If the Commissioner F13[, the F14[Police Ombudsman]] or the Chief of Staff of the Defence Forces, as may be appropriate, considers that interceptions to which an authorisation relates are no longer required, then, without delay—
+
+(*a*) he shall so inform the nominated officer, and
+
+(*b*) the latter shall inform the person to whom the warrant concerned is addressed,
+
+and thereupon the authorisation shall cease to be in force.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F13: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 12(d), S.I. No. 150 of 2015.
+>
+> F14: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(e), S.I. No. 107 of 2025.
+
+## 8. F15[Duties of Independent Examiner in relation to Act.
+
+**8.**—(1) The Independent Examiner shall undertake the duties specified in this section.
+
+(2) The Independent Examiner shall have the duty of ascertaining whether the provisions of this Act are being complied with.
+
+(3) For the purpose of performing his or her functions under *subsection (2*), the Independent Examiner—
+
+(*a*) shall have the power to investigate any case in which an authorisation has been given, and
+
+(*b*) without prejudice to section 242 of the Act of 2024, shall have access to and may inspect any official documents relating to an authorisation or the application therefor.
+
+(4) The Independent Examiner may, if he or she thinks it desirable to do so, communicate with the Taoiseach or the Minister on any matter concerning interceptions.
+
+(5) Without prejudice to section 242 of the Act of 2024, every person who was concerned in, or has information relevant to, the making of the application for, or the giving of, an authorisation, or was otherwise concerned with the operation of any provision of this Act relating to the application or authorisation, shall give the Independent Examiner, on request by him or her, such information as is in his or her possession relating to the application or authorisation.
+
+(6) If the Independent Examiner informs the Minister that he or she considers that a particular authorisation that is in force should not have been given or (because of circumstances arising after it had been given) should be cancelled or that the period for which it was in force should not have been extended or further extended, the Minister shall, as soon as may be, inform the Minister for Environment, Climate and Communications and shall then cancel the authorisation.
+
+(7) Nothing in this section shall affect the functions of the Data Protection Commissioner under section 10 of the Data Protection Act 1988 and Part 6 of the Data Protection Act 2018.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(f), S.I. No. 107 of 2025, subject to transitional provisions in subss. (2)-(5).
+>
+> **Modifications (not altering text):**
+>
+> C5: References to "Data Protection Commissioner" or to the "Office of the Data Protection Commissioner" construed as a reference to the "Data Protection Commission" (25.05.2018 establishment day) by *Data Protection Act 2018* (7/2018), s. 14, S.I. No. 175 of 2018.
+>
+> **Transfer of functions of Data Protection Commissioner to Commission**
+>
+> **14.** ...
+>
+> (1) All functions that, immediately before the establishment day, were vested in the Data Protection Commissioner are transferred to the Commission.
+>
+> (2) A reference in any enactment or instrument under an enactment to the Data Protection Commissioner or to the Office of the Data Protection Commissioner shall be construed as a reference to the Commission.
+>
+> (3) A reference in the Act of 1988 (other than in section 1(3)(c)(iii) in so far as it refers to the Commissioner of the Garda Síochána) to the Commissioner shall be construed as a reference to the Commission.
+>
+> (4) This section shall come into operation on the establishment day.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: subs. (1A) amended (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 177, S.I. No. 174 of 2018; section substituted (2.04.2025) as per F-note above.
+>
+> E3: Previous affecting provision: subs. (1) substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 66, commenced on enactment: substituted (26.01.2011) as per E-note above.
+>
+> E4: Previous affecting provision: subs. (1) substituted (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 11, commenced on enactment; section substituted (2.04.2025) as per F-note above.
+>
+> E5: Previous affecting provision: additional functions of designated judge prescribed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 11, commenced on enactment; section substituted (2.04.2025) as per F-note above.
+>
+> E6: Previous affecting provision: subs. (1A) substituted (26.01.2011) by *Communications (Retention of Data) Act 2011*(3/2011), s. 11, commenced on enactment; section substituted (2.04.2025) as per F-note above.
+>
+> E7: Previous affecting provision: subs. (1A) inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 66, commenced on enactment; substituted (26.01.2011) as per E-note above.
+>
+> E8: Previous affecting provision: additional functions of designated judge prescribed (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 67(1), commenced on enactment; section substituted (2.04.2025) as per F-note above.
+
+## 9. Complaints procedure.
+
+**9.**—(1) A contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act, or a failure to fulfil a condition specified in *section 4* or *5* of this Act, in relation to an authorisation shall not of itself render the authorisation invalid or constitute a cause of action at the suit of a person affected by the authorisation, but any such contravention shall be subject to investigation in accordance with the subsequent provisions of this section and nothing in this subsection shall affect a cause of action for the infringement of a constitutional right.
+
+(2) (*a*) There shall stand established the office of Complaints Referee and the holder of the office shall be known as the Complaints Referee and is referred to in this section as “the Referee”.
+
+(*b*) A person appointed to be the Referee shall be a judge of the Circuit Court, a judge of the District Court or a person who is for the time being a practising barrister, or a practising solicitor, of not less than 10 years' standing.
+
+(*c*) The Referee shall be appointed by the Taoiseach, shall hold office for a term of 5 years and, subject to the provisions of this subsection, shall be eligible for reappointment as the Referee.
+
+(*d*) Subject to the provisions of this subsection, the terms and conditions, including terms and conditions relating—
+
+(i) except in a case where the Referee is a judge of the Circuit Court or a judge of the District Court, to remuneration, and
+
+(ii) to allowances for expenses,
+
+upon which the Referee shall hold office shall be such as may be determined by the Minister, with the consent of the Minister for Finance, at the time of his appointment or reappointment.
+
+(*e*) The Referee may at any time resign his office as the Referee by letter sent to the Taoiseach and the resignation shall take effect on and from the date of receipt of the letter.
+
+(*f*) The Referee may be removed from office by the Taoiseach but only for stated misbehaviour or incapacity and upon resolutions passed by Dáil Éireann and by Seanad Éireann calling for his removal.
+
+(3) A person who believes that a communication sent to or by him has been intercepted after the commencement of this Act in the course of its transmission by F16[a postal service provider (within the meaning of the Communications Regulation (Postal Services) Act 2011)] or Bord Telecom Éireann may apply to the Referee for an investigation under this section into the matter.
+
+(4) Where an application is made under this section (other than one appearing to the Referee to be frivolous or vexatious), the Referee shall investigate—
+
+(*a*) whether a relevant authorisation was in force at the material time, and
+
+(*b*) if so, whether there has been any contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act in relation to the authorisation.
+
+(5) If, on an investigation under this section, the Referee concludes that there has been a contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act in relation to a relevant authorisation, he shall—
+
+(*a*) notify the applicant concerned in writing of that conclusion,
+
+(*b*) make a report of his findings to the Taoiseach, and
+
+(*c*) if he thinks fit, by order do one or more of the following, that is to say:
+
+(i) quash the relevant authorisation,
+
+(ii) direct the destruction of any copy of the communications intercepted pursuant to the authorisation,
+
+(iii) make a recommendation for the payment to the applicant of such sum by way of compensation as may be specified in the order.
+
+(6) If, during an investigation under this section in relation to an authorisation for the purpose of criminal investigation, the Referee concludes that there has not been a contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act in relation to the authorisation but that the offence concerned was not a serious offence, he shall, having given notice to the Minister of his intention to do so, refer the question whether the offence was a serious offence to the F17[Independent Examiner] for his determination, and—
+
+(*a*) if the F18[Independent Examiner] agrees that the offence was not a serious offence, the Referee shall—
+
+(i) notify the applicant concerned in writing of the conclusion of the Referee,
+
+(ii) make a report of the findings of the Referee to the Taoiseach, and
+
+(iii) if he thinks fit, by order do one or more of the following, that is to say:
+
+(I) quash the relevant authorisation,
+
+(II) direct the destruction of any copy of the communications intercepted pursuant to the authorisation,
+
+(III) make a recommendation for the payment to the applicant of such sum by way of compensation as may be specified in the order,
+
+and
+
+(*b*) if the F19[Independent Examiner] disagrees with the conclusion of the Referee on the question aforesaid, the Referee shall give notice in writing to the applicant stating only that there has been no contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act in relation to a relevant authorisation.
+
+(7) A notification given or report made under *subsection (5)* or *(6)* of this section shall state the effect of any order under it in the case in question.
+
+(8) If, on an investigation under this section, the Referee comes to any conclusion other than those mentioned in *subsections (5)* and *(6)* of this section, he shall give notice in writing to the applicant concerned stating only that there has been no contravention of a provision of *section 2*, *6*, *7* or *8 (6)* of this Act in relation to a relevant authorisation.
+
+(9) Subject to *subsection (6)* of this section, a decision of the Referee under this section shall be final.
+
+(10) For the purpose of an investigation under this section, the Referee shall have access to and may inspect any official documents relating to a relevant authorisation or the application therefor.
+
+(11) Every person who was concerned in, or has information relevant to, the making of the application for, or the giving of, a relevant authorisation, or was otherwise concerned with the operation of any provision of this Act relating to the application or authorisation, shall give the Referee, on request by him, such information as is in his possession relating to the application or authorisation.
+
+(12) The Minister shall implement any recommendation under *subsection (5) (c) (iii)* or *(6) (a) (iii) (III)* of this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 54(3)(b), commenced on enactment.
+>
+> F17, F18, F19: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(g), S.I. No. 107 of 2025.
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), art. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 10 of 1993</td><td>Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993</td><td>Section 9(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note change of title of Minister and Department of **Public Expenditure and Reform** to
+>
+> • **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2);
+>
+> • **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in effect as per art. 1(2).
+>
+> C7: References to Bord Telecom Éireann p.l.c or Bord Telecom Éireann construed (9.04.1999) by *Postal and Telecommunications Services (Amendment) Act 1999* (5/1999), s. 7(1), S.I. No. 87 of 1999.
+>
+> **Application to all licenced operators of certain provisions.**
+>
+> **7**.—(1) A reference to the company or to Bord Telecom éireann, as the case may be, in section 13 of the Post Office (Amendment) Act, 1951, sections 52(2), 96(d), 98, 99 and 110 of the Act of 1983, section 7 of the Broadcasting and Wireless Telegraphy Act, 1988, and in the Interception of Postal Packets and Telecommunications Messages (Regulation) Act, 1993 shall be construed as a reference to “a licensed operator”.
+>
+> ...
+
+## 10. Provisions in relation to certain proceedings and evidence.
+
+**10.**—(1) (*a*) Subject to *paragraph (b)* of this subsection, where a person is charged with an offence under section 45 of the Telegraph Act, 1863, the second paragraph of section 11 of the Post Office (Protection) Act, 1884, or F20[section 53 of the Communications Regulation (Postal Services) Act 2011 or section 98 of the Act of 1983], or an ancillary offence, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.
+
+(*b*) *Paragraph (a)* of this subsection does not apply to proceedings brought by the Minister for Transport, Energy and Communications, An Post or Bord Telecom Éireann.
+
+(2) (*a*) This subsection applies to any action brought in respect of an alleged act or omission that constitutes, or would, but for F21[section 53 (4) of the Communications Regulation (Postal Services) Act 2011 or section 98(2) of the Act of 1983], constitute, an offence referred to in *subsection (1)* of this section.
+
+(*b*) In an action to which this subsection applies any question whether an act or omission referred to in *paragraph (a)* of this subsection was done or made shall be determined before the determination of any question whether an authorisation was given; and, accordingly, in any such action, unless and until it is determined that the said act or omission was done or made, no person to whom this paragraph applies shall give any evidence, or be asked any question, and nothing shall be made the subject of discovery, or be disclosed, produced or alleged by or on behalf of the defendant, that would show or tend to show—
+
+(i) that an authorisation was or was not given, or
+
+(ii) that an application for an authorisation was or was not made or that proposals for or steps towards the making of such an application were or were not made or taken.
+
+(*c*) If it is determined, in accordance with *paragraph (b)* of this subsection, that the act or omission in question was done or made, the court shall, on the application of any party to the proceedings, and on such terms as the court may determine, allow any amendment to any pleading that may be necessary for the determination of the question whether an authorisation was given.
+
+(*d*) *Paragraph (b)* of this subsection applies to—
+
+(i) any member of the Civil Service (within the meaning of the Civil Service Commissioners Act, 1956), the Defence Forces or the Garda Síochána F23[or any designated officer (within the meaning of the Act of 2024)],
+
+(ii) any person in the employment of F22[a postal service provider (within the meaning of the Communications Regulation (Postal Services) Act 2011)] or Bord Telecom Éireann, or
+
+(iii) any other person on whom a function is conferred by this Act.
+
+(*e*) This subsection shall not apply if a person has been convicted of an offence referred to in *subsection (1)* of this section in respect of the act or omission in question.
+
+(3) Subject to *subsection (4)* of this section, a person shall not be compellable in any proceedings, other than proceedings for an offence referred to in *subsection (1)* of this section, or a related or ancillary offence, to make discovery of any document, to produce or disclose any document or thing, or to give evidence or information, to a court or tribunal or to any person (other than the F24[Independent Examiner] or the Complaints Referee) that shows or tends to show any of the matters specified in *subparagraphs (i)* and *(ii)* of *subsection (2) (b)* of this section.
+
+(4) Where a person is convicted of an offence referred to in *subsection (1)* of this section or a related or ancillary offence—
+
+(*a*) evidence of the conviction shall be admissible in any proceedings for the purpose of proving, where to do so is relevant to any issue in those proceedings, that he committed that offence, and
+
+(*b*) *subsection (3)* of this section shall not apply in relation to evidence of the conviction.
+
+(5) (*a*) A certificate signed by a person authorised for the purpose by the Minister and stating any of the matters specified in *subparagraphs (i)* and *(ii)* of *subsection (2) (b)* of this section shall be admissible, as evidence of the facts stated in the certificate, in any legal proceedings in which evidence of those facts is admissible.
+
+(*b*) A document purporting to be a certificate under this subsection of a person authorised as aforesaid and to be signed by him shall be deemed, for the purpose of this subsection, to be such a certificate and to be so signed, unless the contrary is shown.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20, F21, F22: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 54(3)(c)-(e), commenced on enactment.
+>
+> F23, F24: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(h)(i), (ii), S.I. No. 107 of 2025, subject to transitional provisions in subss. (2)-(5).
+>
+> **Modifications (not altering text):**
+>
+> C8: References to Bord Telecom Éireann p.l.c or Bord Telecom Éireann construed (9.04.1999) by *Postal and Telecommunications Services (Amendment) Act 1999* (5/1999), s. 7(1), S.I. No. 87 of 1999.
+>
+> **Application to all licenced operators of certain provisions.**
+>
+> **7**.—(1) A reference to the company or to Bord Telecom éireann, as the case may be, in section 13 of the Post Office (Amendment) Act, 1951 , sections 52(2), 96(d), 98, 99 and 110 of the Act of 1983, section 7 of the Broadcasting and Wireless Telegraphy Act, 1988, and in the Interception of Postal Packets and Telecommunications Messages (Regulation) Act, 1993 shall be construed as a reference to “a licensed operator”.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (2)(d)(i) substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 12(e), S.I. No. 150 of 2015: substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (1/2024), s. 274(1)(h)(i), S.I. No. 107 of 2025.
+
+## 11. Retention of official documents.
+
+**11.**—(1) All the official documents relating to an authorisation and the application therefor shall be retained for a period of at least 3 years from the date on which the authorisation ceases to be in force.
+
+(2) *Subsection (1)* of this section does not apply to a copy of a communication intercepted pursuant to an authorisation.
+
+## 12. Restriction of disclosure of existence of authorisations and of matter intercepted.
+
+**12.**—(1) The Minister shall ensure that such arrangements as he considers necessary exist—
+
+(*a*) to limit to the minimum necessary the disclosure of—
+
+(i) the fact that an authorisation has been given, and
+
+(ii) the contents of any communication which has been intercepted pursuant to an authorisation,
+
+and
+
+(*b*) to secure that copies of any such communication—
+
+(i) are not made to any extent greater than is necessary, and
+
+(ii) are destroyed as soon as their retention is no longer necessary.
+
+(2) In *paragraphs (a)* and *(b)* of *subsection (1)* of this section “necessary” means necessary for the purpose of the prevention or detection of serious offences or in the interests of the security of the State.
+
+## 13. Amendment of Act of 1983.
+
+**13.**—(1) The reference in subsection (2) of section 98 of the Act of 1983 to subsection (1) of that section shall be deemed to include a reference to section 45 of the Telegraph Act, 1863, the second paragraph of section 11 of the Post Office (Protection) Act, 1884, and subsection (5) (inserted by *subsection (3)* of this section) of the said section 98.
+
+(2) The following subsections are hereby inserted after subsection (2) of section 98 of the Act of 1983:
+
+“(2A) A person employed by the company who discloses to any person any information concerning the use made of telecommunications services provided for any other person by the company shall be guilty of an offence unless the disclosure is made—
+
+(*a*) at the request or with the consent of that other person,
+
+(*b*) for the prevention or detection of crime or for the purpose of any criminal proceedings,
+
+(*c*) in the interests of the security of the State,
+
+(*d*) in pursuance of an order of a court,
+
+(*e*) for the purpose of civil proceedings in any court, or
+
+(*f*) to another person to whom he is required, in the course of his duty as such employee, to make such disclosure.
+
+(2B) A request by a member of the Garda Síochána to a person employed by the company to make a disclosure in accordance with the provisions of subsection (2A) shall be in writing and be signed by a member of the Garda Síochána not below the rank of chief superintendent.
+
+(2C) A request by an officer of the Defence Forces to a person employed by the company to make a disclosure in accordance with the provisions of subsection (2A) shall be in writing and be signed by an officer of the Permanent Defence Force who holds an army rank not below that of colonel.”.
+
+(3) The following subsections are hereby substituted for subsection (5) of the said section 98:
+
+“(5) A person who discloses the existence, substance or purport of a telecommunications message that was transmitted by the Minister before the vesting day and intercepted or who uses for any purpose any information obtained from any such message shall be guilty of an offence.
+
+(6) In this section ‘intercept’ means listen to, or record by any means, in the course of its transmission, a telecommunications message but does not include such listening or recording where either the person on whose behalf the message is transmitted or the person intended to receive the message has consented to the listening or recording, and cognate words shall be construed accordingly.”.
+
+## 14. Repeal of section 18 of Official Secrets Act, 1963.
+
+**14.**—Section 18 (which enables the Minister to require the production to him of certain telegrams) of the Official Secrets Act, 1963, is hereby repealed.
+
+## 15. Expenses.
+
+**15.**—Any expenses incurred by the Minister, the Minister for Defence and the Minister for Transport, Energy and Communications in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 16. Short title and transitional provision.
+
+**16.**—(1) This Act may be cited as the Interception of Postal Packets and Telecommunications Messages (Regulation) Act, 1993.
+
+(2) Notwithstanding anything contained in this Act, a warrant issued by the Minister authorising an interception and in force upon the passing of this Act shall continue in force until it is cancelled or until the end of the period of one month immediately after the passing of this Act, whichever is the earlier, and, if it has not been cancelled, shall expire at the end of that period and the warrant shall be deemed, for the purposes of *section 3* of this Act, to be, during the period after such passing while it is in force, an authorisation.

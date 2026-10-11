@@ -1,0 +1,1775 @@
+---
+title: "Sea Pollution Act, 1991"
+identifier: "eli/1991/act/27"
+type: act
+jurisdiction: ie
+language: en
+number: 27
+year: 1991
+date: 1991-11-26
+last_amended: 2025-09-16
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1991/act/27/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1991/act/27/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Sea Pollution Act, 1991
+
+AN ACT TO MAKE PROVISION FOR THE PREVENTION OF POLLUTION OF THE SEA BY OIL AND OTHER SUBSTANCES; AND TO GIVE EFFECT TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS DONE AT LONDON ON THE 2nd DAY OF NOVEMBER, 1973, AS AMENDED BY THE PROTOCOL DONE AT LONDON ON THE 17th DAY OF FEBRUARY, 1978; AND TO GIVE EFFECT TO THE PROTOCOL RELATING TO INTERVENTION ON THE HIGH SEAS IN CASES OF POLLUTION BY SUBSTANCES OTHER THAN OIL DONE AT LONDON ON THE 2nd DAY OF NOVEMBER, 1973; AND TO PROVIDE FOR THE REPEAL OF THE OIL POLLUTION OF THE SEA ACTS, 1956 TO 1977; AND TO PROVIDE FOR OTHER MATTERS RELATED TO THE FOREGOING MATTERS. [26*th November*, 1991]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act and collectively cited *Sea Pollution Acts 1991 to 2006* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...</td><td>...</td><td>...<br>Sea Pollution Acts 1991 to 2006<br>...</td></tr></table>
+>
+> C2: Functions in relation to collectively cited *Sea Pollution Acts 1991 to 1999* transferred and references to “Minister for” and “Department of Communications, Marine and Natural Resources” construed (1.01.2006) by *Maritime Transport, Safety and Security (Transfer of Departmental Administration and Ministerial Functions) Order 2005* (S.I. No. 842 of 2005), arts. 3, 4 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9. Note that name changed to Transport, Tourism and Sport (2.04.2011) by *Transport (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 141 of 2011), in effect as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of Transport.
+>
+> (2) References to the Department of Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, from the commencement of this Order, be construed as references to the Department of Transport.
+>
+> 4\. (1) The functions vested in the Minister for Communications, Marine and Natural Resources-
+>
+> (a) by or under the Acts specified in Part 1,
+>
+> ...
+>
+> of the Schedule to this Order are transferred to the Minister for Transport.
+>
+> (2) References to the Minister for Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Transport.
+>
+> ...
+>
+> **Schedule**
+>
+> Article 4(1)
+>
+> **Part 1**
+>
+> **Acts**
+>
+> ...
+>
+> Oil Pollution of the Sea (Civil Liability and Compensation) Acts 1988 to 2005
+>
+> Sea Pollution Acts 1991 to 1999
+>
+> ...
+>
+> C3: Prosecution of offence under Act excluded from application of *Prosecution of Offences Act 1974* (22/1974), s. 3 (19.06.1996) by *Dumping Act Sea Act 1996* (14/1996), s. 12(1), commenced on enactment.
+>
+> **Prosecution of offences under Sea Pollution Act, 1991, by Attorney General.**
+>
+> **12.**—(1) Section 3 of the Prosecution of Offences Act, 1974, shall not apply to the prosecution of an offence under the Sea Pollution Act, 1991, or to any functions in relation to that matter to which, but for this subsection, it would apply.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Provision for Minister to grant authorisation for survey or inspection under the Act for purpose of ensuring compliance with the Act, or rules and regulations made under the Act, as give effect to international conventions, made (2.03.1998) by *European Communities (Ship Inspection and Survey Organisations) Regulations 1998* (S.I. No. 56 of 1998), reg. 4(1)(e), in effect as per reg. 1(2).
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Sea Pollution Act, 1991.
+
+### 2. Commencement.
+
+**2.**—This Act shall come into operation on such day or days as the Minister by order appoints and different days may be appointed for different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (1.06.1994) by *Sea Pollution Act, 1991 (Section 8) (Commencement) Order 1994* (S.I. No. 123 of 1994).
+>
+> 2\. The 1st day of June, 1994 is hereby appointed as the day on which Section 8 of the Sea Pollution Act, 1991 shall come into operation.
+>
+> E3: Power pursuant to section exercised (20.11.1992) by *Sea Pollution Act, 1991 (Commencement) Order 1992* (S.I. No. 380 of 1992).
+>
+> 2\. The 20th day of November, 1992, is hereby appointed as the day on which the Sea Pollution Act, 1991, other than section 8, shall come into operation.
+
+### 3. Interpretation.
+
+**3.**—(1) In this Act, except where the context otherwise requires—
+
+F1["AFS Convention" means the International Convention on the Control of Harmful Anti-fouling Systems done at London on 5 October 2001;
+
+"anti-fouling system" means a coating, paint, surface treatment, surface, or device that is used on a ship to control or prevent attachment of unwanted organisms;
+
+"ballast water" means water with its suspended matter taken on board a ship to control trim, list, draught, stability or stresses of the ship;
+
+"ballast water management" means mechanical, physical, chemical, and biological processes, either singularly or in combination, to remove, render harmless, or avoid the uptake or discharge of harmful aquatic organisms and pathogens within ballast water and sediments;
+
+"BWM Convention" means the International Convention for the Control and Management of Ships’ Ballast Water and Sediments 2004 done at London on 13 February 2004;]
+
+“discharge”, in relation to oil, oily mixtures, noxious liquid substances, harmful substances, F2[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments], or any effluent containing any of those substances, means any release, howsoever caused, from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying of any substance from a ship, but does not include—
+
+(*a*) dumping, within the meaning of the Dumping at Sea Act, 1981, or
+
+(*b*) the release of oil, oily mixtures, noxious liquid substances or harmful substances directly arising from the exploration, exploitation and associated offshore processing of sea-bed mineral resources F3[or in connection with the operation of a pipe-line or cable for the transport or transmission of an energy product (within the meaning of the Continental Shelf Act, 1968), whether derived from mineral resources as aforesaid or not], or
+
+(*c*) the release of oil, oily mixtures, noxious liquid substances or harmful substances for the purpose of legitimate scientific research into pollution abatement or control;
+
+F4["harmful aquatic organisms and pathogens" means aquatic organisms or pathogens which, if introduced into the sea, including estuaries, or into fresh water courses, may create hazards to the environment, human health, property or resources, impair biological diversity or interfere with other legitimate uses of such areas;]
+
+F5["hazardous and noxious substances" means any substance other than oil which, if introduced into the marine environment, is likely to create a hazard to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;
+
+"hazardous and noxious substances handling facility" means a facility where hazardous and noxious substances are loaded into or unloaded from ships;
+
+"hazardous and noxious substances pollution emergency plan" in relation to a harbour, offshore unit, oil handling facility, hazardous and noxious substances handling facility, Irish ship or an area of seashore in whole or in part within the functional area, or contiguous to the functional area, of a local authority, means a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances approved by the Minister under section 2 of the Sea Pollution (Amendment) Act 1999;]
+
+“fauna” means all wild animals (both aquatic and terrestrial) and includes in particular wild birds, wild mammals, reptiles, non-aquatic invertebrate animals and amphibians, and all such wild animals' eggs and young, and also includes all species of fish and other aquatic invertebrate animals and their eggs or spawn or brood or young;
+
+“flora” means all plants (both aquatic and terrestrial) which occur in the wild (whether within or without the State) and are not trees, shrubs or other plants being grown in the course of agriculture or horticulture and includes, in particular, lichens, mosses, liverworts, fungi, algae, marine algae and vascular plants, namely, flowering plants, ferns, and fern-allied plants and any community of such plants;
+
+“garbage” means all kinds of victual, domestic and operational waste (excluding fresh fish and parts thereof) and any other substance generated during the normal operation of a ship and liable to be disposed of either continuously or periodically other than a substance specifically regulated by this Act;
+
+“harbour” includes any dock, pier, wharf, jetty, boatslip, offshore terminal, installation or place intended or used for the accommodation, berthing or anchorage or for the shipping, unshipping or transhipping of goods;
+
+“harbour authority” means—
+
+(*a*) in the case of a harbour to which the Harbours Act, 1946, applies, a harbour authority within the meaning of that Act;
+
+(*b*) in the case of a harbour under the control of the Commissioners of Public Works in Ireland, the Commissioners;
+
+(*c*) in the case of a fishery harbour centre to which the Fishery Harbour Centres Act, 1968, applies, or Dún Laoghaire Harbour, the Minister for the Marine;
+
+(*d*) in the case of a harbour under the control of a local authority, the local authority concerned; or
+
+(*e*) in the case of a harbour under the management of Iarnród Éireann — Irish Rail, that company;
+
+“harbour-master” means a person appointed by a harbour authority to be a harbour-master and includes a person appointed by a harbour authority to enforce the provisions of this Act;
+
+“harmful substance” means any substance which, if introduced into the sea, is liable to—
+
+(*a*) create hazards to human health,
+
+(*b*) harm living marine resources,
+
+(*c*) harm flora and fauna,
+
+(*d*) damage amenities, or
+
+(*e*) interfere with legitimate uses of the sea,
+
+and any substance subject to control by the MARPOL Convention or prescribed under *section 10* as a harmful substance and includes any such substance carried at sea, however carried;
+
+“inspector” means a person being—
+
+(*a*) a surveyor of ships, or
+
+(*b*) a person appointed to be an inspector by warrant of the Minister under *section 20*, or
+
+(*c*) an officer holding a commissioned naval rank in the Defence Forces, or
+
+(*d*) a member of the Garda Síochána;
+
+“the Intervention Convention” means the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, done at Brussels on the 29th day of November, 1969;
+
+“the Intervention Protocol” means the Protocol Relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil, 1973, done at London on the 2nd day of November, 1973;
+
+“living marine resources” includes fish and the spawning grounds, or the food, of fish and includes all marine invertebrates, all crustaceans, and molluscs found in the sea;
+
+F6["maritime casualty" means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in—
+
+(*a*) material damage or imminent threat of material damage to a ship or cargo, or
+
+(*b*) pollution;]
+
+“MARPOL Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, done at London on the 2nd day of November, 1973, as amended by the Protocol thereto done at London on the 17th day of February, 1978;
+
+“master”, in relation to a ship, means the person having, for the time being, the command or charge of the ship;
+
+“the Minister” means the Minister for the Marine;
+
+“noxious liquid substance” means any liquid substance which, if introduced into the sea, is liable to—
+
+(*a*) create hazards to human health,
+
+(*b*) harm living marine resources,
+
+(*c*) harm flora and fauna,
+
+(*d*) damage amenities, or
+
+(*e*) interfere with legitimate uses of the sea,
+
+and any liquid substance prescribed under *section 10* as a noxious liquid substance;
+
+“oil” (other than in *section 26*) means petroleum in any form including crude oil, fuel oil, diesel oil, lubricating oil, sludge, oil refuse and refined products and any oil or oily mixture prescribed as such under *section 10* but does not include any substance prescribed as a noxious liquid substance;
+
+“oily mixture” means a mixture which has any oil content;
+
+“owner”, in relation to a ship, means the person registered as the owner of the ship, the person who owns the ship, and, in the case of a ship which is owned by a state (including the State) and is operated by a person who in that state is registered as the ship's operator, “owner” means the person registered as such operator;
+
+“pollution”, when used without qualification, includes pollution by oil, by an oily mixture, by a noxious liquid substance, by a harmful substance, by sewage or by garbage;
+
+“prescribe” means prescribe by regulations made by the Minister and “prescribed” shall be construed accordingly;
+
+F7["prescribed area" means an area outside the State prescribed by the Minister for the purposes of this Act;]
+
+“related interests” has the meaning specified in *section 26 (5) (b)*;
+
+F4["sediments" means matter settled out of ballast water within a ship;]
+
+“sewage” means—
+
+(*a*) drainage and other wastes from any form of toilets, urinals and water closet scuppers on board a ship; or
+
+(*b*) drainage from medical quarters on board a ship by way of wash basins, wash tubs and scuppers located in such quarters; or
+
+(*c*) drainage from spaces containing live animals on board a ship; or
+
+(*d*) any other waste water discharged from a ship when such water is intermingled with any of the drainages specified at *paragraph* (*a*), (*b*) or (*c*);
+
+“ship” means a vessel of any type whatsoever operating in the marine environment and includes hydrofoil boats, air-cushion vehicles, submersibles, floating craft and fixed or floating platforms and includes fixtures, fittings and equipment;
+
+“surveyor of ships” means a person appointed to be a surveyor of ships by warrant of the Minister under section 724 of the Merchant Shipping Act, 1894;
+
+“transfer”, in relation to oil, means transfer in bulk.
+
+(2) Any word or expression which is used without definition in this Act and is also used in the Merchant Shipping Act, 1894, or the Mercantile Marine Act, 1955, shall, unless the context otherwise requires, have the same meaning in this Act as it has in that Act.
+
+F8[(2A) A reference in this Act to the State includes a reference to—
+
+(*a*) the internal waters of the State,
+
+(*b*) the territorial sea of the State within the meaning of the Maritime Jurisdiction Act 2021, its seabed and subsoil, and
+
+(*c*) the exclusive economic zone of the State (within the meaning of the Maritime Jurisdiction Act 2021).]
+
+F9[(3) A reference in this Act to a country other than the State includes a reference to the territorial sea and internal waters of that country.]
+
+(4) A reference in this Act to a section is a reference to a section of this Act unless it is indicated that a reference to some other Act is intended.
+
+(5) A reference in this Act to a subsection or to a paragraph is a reference to the subsection or paragraph of the provision in which the reference occurs unless it is indicated that a reference to some other provision is intended.
+
+(6) A reference in this Act to any enactment shall be construed as a reference to that enactment as amended or adapted by any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 34(a), (c), (d), S.I. No. 605 of 2006.
+>
+> F2: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 34(b), S.I. No. 605 of 2006.
+>
+> F3: Inserted (21.12.1995) by *Energy (Miscellaneous Provisions) Act, 1995* (35/1995), s. 7, commenced on enactment.
+>
+> F4: Inserted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 34(a), (c), (d), S.I. No. 605 of 2006.
+>
+> F5: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 34(c), S.I. No. 605 of 2006.
+>
+> F6: Substituted (1.08.2000) by *Merchant Shipping (Investigation of Marine Casualties) Act, 2000* (14/2000), s. 45, S.I. No. 252 of 2000.
+>
+> F7: Inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 13(a)-(c), S.I. No. 295 of 1999.
+>
+> F8: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 13, S.I. No. 601 of 2021.
+>
+> F9: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2, item 13, S.I. No. 601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: subs. (3) substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 13(d), S.I. No. 295 of 1999; substituted as per F-note above.
+>
+> E5: Previous affecting provision: subs. (2A) substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 93(4), commenced on enactment; substituted as per F-note above.
+>
+> E6: Previous affecting provision: subs. (2A) inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 13(b), S.I. No. 295 of 1999; substituted as per F-note above.
+>
+> E7: Previous affecting provision: definition of “maritime casualty” amended (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 13(a)(i), S.I. No. 295 of 1999; substituted as per F-note above.
+
+### 4. Exemptions from Act.
+
+**4.**—(1) This Act shall not apply to any warship or to any ship for the time being used by the government of any country for purposes other than commercial purposes.
+
+(2) The Minister may, where he is satisfied that such an exemption would not result in an increased risk of pollution, by regulations exempt, subject to such conditions (if any) as may be specified in the regulations, any class or classes of ships registered in the State from compliance with any provision of this Act or of any regulations made thereunder.
+
+### 5. Laying of orders and regulations before each House of Oireachtas.
+
+**5.**—Every order and regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next twenty-one days on which that House has sat after the order or regulation has been laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 6. Fees.
+
+**6.**—(1) Fees under this Act shall be taken and collected in such manner as the Minister for Finance may, from time to time, direct and any fees so taken and collected shall be paid into, or disposed of for the benefit of, the Exchequer in accordance with the directions of the Minister for Finance.
+
+(2) The Public Offices Fees Act, 1879, shall not apply in respect of any fees taken and collected under this Act.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 27 of 1991</td><td>Sea Pollution Act 1991</td><td>Sections 6(1), 17(5) and 33(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 7. Expenses of Minister.
+
+**7.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 8. Repeals.
+
+**8.**—Each enactment set out in the *First Schedule* to this Act is hereby repealed to the extent specified in the third column of that Schedule.
+
+### 9. Continuance of orders, regulations etc.
+
+**9.**—Every order and regulation made, and every direction given, by the Minister, under any provision of any enactment which is repealed by this Act, which is in force immediately before the commencement of this Act (or, as the case may be, before the commencement of the relevant provision of this Act) shall continue in force and may be amended or revoked as if it were made or given, as the case may be, under this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to section exercised (15.05.1995) by *Sea Pollution Act, 1991 (Intervention Convention) (Countries of Acceptance) Order 1995* (S.I. No. 117 of 1995), in effect as per art. 2.
+
+## PART IIPrevention of Pollution — PART II — Prevention of Pollution
+
+### 10. Prohibition on discharge of oil and other substances.
+
+**10.**—(1) To give full effect to the purposes of this Act, the Minister may make regulations—
+
+(*a*) prohibiting or regulating the discharge anywhere at sea from a ship registered in the State or the discharge in the State from any ship of any oil, oily mixture, noxious liquid substance, harmful substance, F10[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments];
+
+(*b*) governing prescribed operations on board ship relating to any such substance carried on the ship.
+
+(2) The owner and the master of a ship in respect of which there is a contravention of regulations under this section shall be guilty of an offence.
+
+F11[(2A) Without prejudice to *subsection (2)*, any person (other than the persons specified in that subsection) responsible for a contravention of regulations under this section shall be guilty of an offence.
+
+(2B) *Subsection (2A)* shall apply only in respect of a discharge of a polluting substance specified in Annex 1 or Annex II to the MARPOL Convention.]
+
+(3) Regulations under this section may relate to ships generally or to any class of ship, to substances generally or any description of substance, and be made subject to such conditions and such exemptions as may be prescribed.
+
+(4) The Minister may by regulations provide that any prescribed substance shall, for the purposes of this Act, be a harmful substance, a noxious liquid substance, an oil or oily mixture, F10[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments].
+
+(5) The Minister may by regulations require the notification at such time and in such manner as may be prescribed, by the master or owner of a ship carrying any prescribed substance of any intent to load or unload any such substance in the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006.
+>
+> F11: Inserted (15.11.2010) by *European Communities (Ship-Source Pollution) Regulations 2010* (S.I. No. 542 of 2010), reg. 1(a).
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (16.09.2025) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2025* (S.I. No. 432 of 2025).
+>
+> E10: Power pursuant to section exercised (22.05.2024) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2024* (S.I. No. 235 of 2024).
+>
+> E11: Power pursuant to section exercised (19.04.2023) by *Sea Pollution (Ballast Water Management Convention) Regulations 2023* (S.I. No. 188 of 2023).
+>
+> E12: Power pursuant to section exercised (29.06.2018) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2018* (S.I. No. 236 of 2018).
+>
+> E13: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E14: Power pursuant to section exercised (10.02.2017) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2017* (S.I. No. 48 of 2017).
+>
+> E15: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E16: Power pursuant to section exercised (1.12.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 3) Regulations 2016* (S.I. No. 582 of 2016).
+>
+> E17: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E18: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E19: Power pursuant to section exercised (1.10.2014) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2014* (S.I. No. 275 of 2014), in effect as per reg. 1(2).
+>
+> E20: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E21: Power pursuant to section exercised (9.02.2013) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2013* (S.I. No. 35 of 2013), in effect as per reg. 1(2).
+>
+> E22: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E23: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E24: Power pursuant to section exercised (1.02.2012) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) (No. 2) Regulations 2011* (S.I. No. 596 of 2011), in effect as per reg. 1(2).
+>
+> E25: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E26: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E27: Power pursuant to section exercised (1.01.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2010* (S.I. No. 664 of 2010), in effect as per reg. 1(2).
+>
+> E28: Power pursuant to section exercised (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), in effect as per reg. 1(2).
+>
+> E29: Power pursuant to section exercised (1.12.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) Regulations 2008* (S.I. No. 281 of 2008), in effect as per reg. 1(2).
+>
+> E30: Power pursuant to section exercised (27.09.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) (No. 2) Regulations 2008* (S.I. No. 372 of 2008), in effect as per reg. 1(2).
+>
+> E31: Power pursuant to section exercised (18.07.2008) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2008* (S.I. No. 282 of 2008), in effect as per reg. 1(2).
+>
+> E32: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E33: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E34: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E35: Power pursuant to section exercised (24.05.2006) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) Regulations 2006* (S.I. No. 269 of 2006).
+>
+> E36: Power pursuant to section exercised (1.01.2003) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2002* (S.I. No. 641 of 2002), in effect as per reg. 1(2).
+>
+> E37: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E39: Previous affecting provision: power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007); revoked (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), reg. 18, in effect as per reg. 1(2).
+>
+> E40: Previous affecting provision: power pursuant to section exercised (2.05.2006) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2006* (S.I. No. 239 of 2006); revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(c), in effect as per reg. 1(2).
+>
+> E41: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E42: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E43: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E44: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E45: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E46: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E47: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E48: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 11. Saver for discharges in certain circumstances.
+
+**11.**—Regulations under *section 10* shall not apply to—
+
+(*a*) the discharge into the sea of any oil, oily mixture, noxious liquid substance, harmful substance, F12[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments] for the purpose of—
+
+(i) securing the safety of a ship, or
+
+(ii) saving life at sea,
+
+if such discharge was, having regard to all the circumstances, necessary and reasonable; or
+
+(*b*) the discharge into the sea of any oil, oily mixture, noxious liquid substance, harmful substance, F12[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments] which resulted from any damage to the ship, or to its equipment provided that all reasonable steps have been taken after the occurrence of the damage or, as the case may be, the discovery of the discharge, to prevent or minimise the discharge and the owner or the master did not act with intent to cause damage or recklessly; or
+
+(*c*) the discharge into the sea of any prescribed substance for the purpose of minimising the damage from pollution, provided that the discharge was sanctioned by or on behalf of the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E49: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E50: Power pursuant to section exercised (9.02.2013) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2013* (S.I. No. 35 of 2013), in effect as per reg. 1(2).
+>
+> E51: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E52: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E53: Power pursuant to section exercised (1.02.2012) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) (No. 2) Regulations 2011* (S.I. No. 596 of 2011), in effect as per reg. 1(2).
+>
+> E54: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E55: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E56: Power pursuant to section exercised (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), in effect as per reg. 1(2).
+>
+> E57: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E58: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E59: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E60: Power pursuant to section exercised (1.01.2003) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2002* (S.I. No. 641 of 2002), in effect as per reg. 1(2).
+>
+> E61: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E62: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E63: Previous affecting provision: power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007); revoked (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), reg. 18, in effect as per reg. 1(2).
+>
+> E64: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E65: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E66: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E67: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E68: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E69: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E70: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E71: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 12. Facilities for disposal of oily residues and other substances.
+
+**12.**—(1) Whenever the Minister is of opinion, in relation to any harbour in the State, that—
+
+(*a*) facilities for the discharge or disposal of oil, oily mixtures, noxious liquid substances, harmful substances, F13[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments] are necessary, or
+
+(*b*) that the facilities which exist at the harbour for such discharge or such disposal are inadequate,
+
+he may, by regulations, require—
+
+(i) where there is a harbour authority in charge of the harbour, the harbour authority, and
+
+(ii) in any other case, the person under whose control the harbour is,
+
+to make such provision as may be specified in the regulations for such discharge or such disposal.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may make provision for all or any of the following matters:
+
+(*a*) the manner in which oil, oily mixtures, noxious liquid substances, harmful substances, F14[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems and ships’ ballast water and sediments] may be discharged from a ship;
+
+(*b*) the disposal of any such substance so discharged;
+
+(*c*) the facilities for such discharge or such disposal to be provided by a harbour authority or, as the case may be, the person having control of the harbour;
+
+(*d*) the time within which such facilities are to be provided;
+
+(*e*) the circumstances under which an extension of the time for the provision of such facilities may be granted;
+
+(*f*) the manner in which, and the time within which, an application for such extension of time may be made.
+
+(3) A harbour authority or person having control of a harbour providing facilities for the discharge or disposal of oil, oily mixtures, noxious liquid substances, harmful substances, F13[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments] in pursuance of regulations under this section may make reasonable charges and impose reasonable conditions in respect of the use of any facilities so provided.
+
+(4) A person who contravenes a regulation under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006.
+>
+> F14: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(b), S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E72: Power pursuant to section exercised (16.09.2025) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2025* (S.I. No. 432 of 2025).
+>
+> E73: Power pursuant to section exercised (22.05.2024) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2024* (S.I. No. 235 of 2024).
+>
+> E74: Power pursuant to section exercised (19.04.2023) by *Sea Pollution (Ballast Water Management Convention) Regulations 2023* (S.I. No. 188 of 2023).
+>
+> E75: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E76: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E77: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E78: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E79: Power pursuant to section exercised (1.10.2014) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2014* (S.I. No. 275 of 2014), in effect as per reg. 1(2).
+>
+> E80: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E81: Power pursuant to section exercised (9.02.2013) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2013* (S.I. No. 35 of 2013), in effect as per reg. 1(2).
+>
+> E82: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E83: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E84: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E85: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E86: Power pursuant to section exercised (1.01.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2010* (S.I. No. 664 of 2010), in effect as per reg. 1(2).
+>
+> E87: Power pursuant to section exercised (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), in effect as per reg. 1(2).
+>
+> E88: Power pursuant to section exercised (1.12.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) Regulations 2008* (S.I. No. 281 of 2008), in effect as per reg. 1(2).
+>
+> E89: Power pursuant to section exercised (27.09.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) (No. 2) Regulations 2008* (S.I. No. 372 of 2008), in effect as per reg. 1(2).
+>
+> E90: Power pursuant to section exercised (18.07.2008) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2008* (S.I. No. 282 of 2008), in effect as per reg. 1(2).
+>
+> E91: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E92: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E93: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E94: Power pursuant to section exercised (24.05.2006) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) Regulations 2006* (S.I. No. 269 of 2006).
+>
+> E95: Power pursuant to section exercised (1.01.2003) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2002* (S.I. No. 641 of 2002), in effect as per reg. 1(2).
+>
+> E96: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E97: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E98: Previous affecting provision: power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007); revoked (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), reg. 18, in effect as per reg. 1(2).
+>
+> E99: Previous affecting provision: power pursuant to section exercised (2.05.2006) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2006* (S.I. No. 239 of 2006); revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(c), in effect as per reg. 1(2).
+>
+> E100: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E101: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E102: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E103: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E104: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E105: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E106: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E107: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 13. Report of discharge in State or into harbour or prescribed area.
+
+F15[**13.**— (1) Whenever there is an incident, whether on board or outside a ship—
+
+(*a*) resulting in a discharge, in the State or a prescribed area, of hazardous and noxious substances or a pollutant or, in the event that a regulation has been made under *section 10*, a quantity of a pollutant in excess of that permitted under such a regulation, from a ship, or
+
+(*b*) giving rise to circumstances from which it is reasonable to infer that there is likely to be such a discharge, in the State or a prescribed area, from a ship,
+
+the master of the ship concerned or of any other ship involved in such incident or from which such incident is observed shall forthwith report the matter to the Minister or, where the incident or discharge occurs in or is observed from a harbour, to the harbour-master, or person for the time being performing the functions of harbour-master, in relation to such harbour.
+
+(2) Where the presence of oil or hazardous and noxious substances in the sea is observed from a ship in the State or a prescribed area the master of such ship shall forthwith report the matter to the Minister, or where such presence is observed from a ship in a harbour, to the harbour-master or person for the time being performing the functions of harbour-master in relation to such harbour.
+
+(3) A harbour-master or person performing, for the time being, the functions of harbour-master in relation to a harbour shall—
+
+(*a*) on receipt of a report under *subsection (1)* or *(2)*,
+
+(*b*) on being informed of an incident resulting in a discharge, in the harbour concerned, of hazardous and noxious substances or a pollutant or, in the event that a regulation has been made under *section 10*, a quantity of a pollutant in excess of that permitted under such a regulation, or the existence of circumstances from which it is reasonable to infer that there is likely to be a discharge of hazardous and noxious substances or a pollutant or quantity of a pollutant in excess of that permitted under *section 10* in the harbour, or
+
+(*c*) on observing an incident referred to in *paragraph (b)*, or hazardous and noxious substances or a pollutant or, in the event that a regulation has been made under *section 10*, a quantity of a pollutant in excess of that permitted under such a regulation in the sea, within the harbour,
+
+report the matter to the Minister.
+
+(4) A report under this section shall be made forthwith, using the quickest means of communication available, and shall comply with such requirements (if any) as the Minister may prescribe.
+
+(5) A person who contravenes this section or a requirement prescribed under *subsection (4)* shall be guilty of an offence.
+
+(6) In this section "pollutant" means oil, an oily mixture, noxious liquid substance, harmful substance, sewage or garbage, other than hazardous and noxious substances.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 25, S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E108: Previous affecting provision: subs. (6) amended (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006; section substituted as per F-note above.
+>
+> E109: Previous affecting provision: section substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 7(a), S.I. No. 295 of 1999; substituted as per F-note above.
+
+### 13A. Duty on Irish ships to report pollution incident.
+
+F16[**13A.**— (1) Whenever there is an incident, whether on board or outside an Irish ship—
+
+(*a*) resulting in a discharge, outside the State or a prescribed area, of oil or hazardous and noxious substances from a ship, or
+
+(*b*) giving rise to circumstances from which it is reasonable to infer that there is likely to be such a discharge, outside the State or a prescribed area, from a ship,
+
+the master of any Irish ship involved in such incident or of any Irish ship from which such incident was observed, shall forthwith report the matter to the maritime administration, in the state closest to the place where the incident occurred, or to the person performing, in relation to the port closest to that place, functions the same as or similar to the functions performed by a harbour-master in relation to a harbour in the State, as may be appropriate.
+
+(2) Where the presence of oil or hazardous and noxious substances in the sea outside the State or a prescribed area is observed from an Irish ship the master of such ship shall forthwith report the matter to the maritime administration in the state closest to the place where such presence was observed, or to the person performing, in relation to the port closest to that place, functions the same as or similar to the functions performed by a harbour-master in relation to a harbour in the State, as may be appropriate.
+
+(3) A person who contravenes this section shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2007* (29/2007), s. 26, S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E110: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E111: Previous affecting provision: section inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 7(b), S.I. No. 295 of 1999; substituted as per F-note above.
+
+### 13B. Duty on offshore units and handling facilities to report pollution incidents.
+
+F17[**13B.**— (1) Whenever an incident occurs on an offshore unit, oil handling facility or hazardous and noxious substances handling facility—
+
+(*a*) resulting in a discharge of oil or hazardous and noxious substances in the State or a designated area, or
+
+(*b*) giving rise to circumstances from which it is reasonable to infer that there is likely to be such a discharge in the State or a designated area,
+
+the person for the time being in charge of the offshore unit or handling facility concerned shall forthwith report the matter to the Minister or, in the case of a handling facility in a harbour, to the harbour-master, or person performing, for the time being, the functions of harbour-master in relation to that harbour.
+
+(2) Whenever a person on an offshore unit, oil handling facility or hazardous and noxious substances handling facility observes an incident involving a discharge in the State or a designated area of oil or hazardous and noxious substances, or an incident from which, having regard to all the circumstances observed, it would be reasonable to infer that such a discharge in the State or a designated area is likely to occur, or observes the presence of oil or hazardous and noxious substances in the sea, he or she shall report the matter to the person for the time being in charge of the offshore unit or handling facility concerned.
+
+(3) A person for the time being in charge of an offshore unit, oil handling facility or hazardous and noxious substances handling facility shall, on receipt of a report under *subsection (2)*, forthwith report the matter to the Minister.
+
+(4) A harbour-master or person performing for the time being the functions of harbour-master in relation to a harbour shall, on receipt of a report under *subsection (1)*, forthwith report the matter to the Minister.
+
+(5) A report under this section shall comply with such requirements (if any) as the Minister may prescribe.
+
+(6) A person who contravenes this section or a requirement prescribed under *subsection (5)* shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2007* (29/2007), s. 27, S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E112: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E113: Previous affecting provision: section inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 7(c), S.I. No. 295 of 1999; substituted as per F-note above.
+
+### 14. Equipment etc., of ships to prevent pollution.
+
+**14.**—(1) The Minister may by regulations require the owner or master of a ship, or ship of a prescribed class, registered in the State to have such ship—
+
+(*a*) constructed, fitted or operated in such manner as may be specified in the regulations, and
+
+(*b*) comply with such other requirements as may be so specified,
+
+so as to prevent, control or reduce the discharge into the sea of oil, oily mixtures, noxious liquid substances, harmful substances, F18[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments].
+
+(2) Any person being the owner or master of a ship who contravenes any regulation under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E114: Power pursuant to section exercised (16.09.2025) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2025* (S.I. No. 432 of 2025).
+>
+> E115: Power pursuant to section exercised (22.05.2024) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2024* (S.I. No. 235 of 2024).
+>
+> E116: Power pursuant to section exercised (19.04.2023) by *Sea Pollution (Ballast Water Management Convention) Regulations 2023* (S.I. No. 188 of 2023).
+>
+> E117: Power pursuant to section exercised (29.06.2018) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2018* (S.I. No. 236 of 2018).
+>
+> E118: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E119: Power pursuant to section exercised (10.02.2017) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2017* (S.I. No. 48 of 2017).
+>
+> E120: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E121: Power pursuant to section exercised (1.12.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 3) Regulations 2016* (S.I. No. 582 of 2016).
+>
+> E122: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E123: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E124: Power pursuant to section exercised (1.10.2014) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2014* (S.I. No. 275 of 2014), in effect as per reg. 1(2).
+>
+> E125: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E126: Power pursuant to section exercised (9.02.2013) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2013* (S.I. No. 35 of 2013), in effect as per reg. 1(2).
+>
+> E127: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E128: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E129: Power pursuant to section exercised (1.02.2012) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) (No. 2) Regulations 2011* (S.I. No. 596 of 2011), in effect as per reg. 1(2).
+>
+> E130: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E131: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E132: Power pursuant to section exercised (1.01.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2010* (S.I. No. 664 of 2010), in effect as per reg. 1(2).
+>
+> E133: Power pursuant to section exercised (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), in effect as per reg. 1(2).
+>
+> E134: Power pursuant to section exercised (1.12.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) Regulations 2008* (S.I. No. 281 of 2008), in effect as per reg. 1(2).
+>
+> E135: Power pursuant to section exercised (27.09.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) (No. 2) Regulations 2008* (S.I. No. 372 of 2008), in effect as per reg. 1(2).
+>
+> E136: Power pursuant to section exercised (18.07.2008) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2008* (S.I. No. 282 of 2008), in effect as per reg. 1(2).
+>
+> E137: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E138: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E139: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E140: Power pursuant to section exercised (24.05.2006) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) Regulations 2006* (S.I. No. 269 of 2006).
+>
+> E141: Power pursuant to section exercised (1.01.2003) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2002* (S.I. No. 641 of 2002), in effect as per reg. 1(2).
+>
+> E142: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E143: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E144: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E145: Previous affecting provision: power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007); revoked (1.07.2010) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2010* (S.I. No. 313 of 2010), reg. 18, in effect as per reg. 1(2).
+>
+> E146: Previous affecting provision: power pursuant to section exercised (2.05.2006) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2006* (S.I. No. 239 of 2006); revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(c), in effect as per reg. 1(2).
+>
+> E147: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E148: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E149: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E150: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E151: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E152: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E153: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 15. Keeping of records.
+
+**15.**—(1) The master of a ship to which *section 14* applies shall keep—
+
+(*a*) such records as may be prescribed of operations on board his ship in relation to any prescribed substance;
+
+(*b*) such records as may be prescribed of the discharge of any prescribed substance resulting from damage to a ship, or for the purpose of—
+
+(i) securing the safety of a ship, or
+
+(ii) saving life at sea, or
+
+(*c*) such records as may be prescribed of the discharge of any substance, in excess of the quantity, if any, permitted by regulations under *section 10*.
+
+(2) The Minister may, in regulations under *subsection (1)*, make provision for all or any of the following matters in relation to any prescribed substance—
+
+(*a*) the manner and form in which any records required under this section should be kept;
+
+(*b*) the custody and preservation of any such records;
+
+(*c*) the disposal of any such records;
+
+(*d*) the making available of any such records for inspection;
+
+(*e*) such other and incidental matters as appear to the Minister to be necessary.
+
+(3) Any person who—
+
+(*a*) contravenes this section or any regulation made thereunder, or
+
+(*b*) makes in any record required to be kept under this section any entry or alteration which is to his knowledge false or misleading in a material respect,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E154: Power pursuant to section exercised (16.09.2025) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2025* (S.I. No. 432 of 2025).
+>
+> E155: Power pursuant to section exercised (22.05.2024) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2024* (S.I. No. 235 of 2024).
+>
+> E156: Power pursuant to section exercised (19.04.2023) by *Sea Pollution (Ballast Water Management Convention) Regulations 2023* (S.I. No. 188 of 2023).
+>
+> E157: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E158: Power pursuant to section exercised (10.02.2017) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2017* (S.I. No. 48 of 2017).
+>
+> E159: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E160: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E161: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E162: Power pursuant to section exercised (1.10.2014) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2014* (S.I. No. 275 of 2014), in effect as per reg. 1(2).
+>
+> E163: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E164: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E165: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E166: Power pursuant to section exercised (1.02.2012) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) (No. 2) Regulations 2011* (S.I. No. 596 of 2011), in effect as per reg. 1(2).
+>
+> E167: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E168: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E169: Power pursuant to section exercised (1.01.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2010* (S.I. No. 664 of 2010), in effect as per reg. 1(2).
+>
+> E170: Power pursuant to section exercised (1.12.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) Regulations 2008* (S.I. No. 281 of 2008), in effect as per reg. 1(2).
+>
+> E171: Power pursuant to section exercised (27.09.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) (No. 2) Regulations 2008* (S.I. No. 372 of 2008), in effect as per reg. 1(2).
+>
+> E172: Power pursuant to section exercised (18.07.2008) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2008* (S.I. No. 282 of 2008), in effect as per reg. 1(2).
+>
+> E173: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E174: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E175: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E176: Power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007).
+>
+> E177: Power pursuant to section exercised (24.05.2006) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) Regulations 2006* (S.I. No. 269 of 2006).
+>
+> E178: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E179: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E180: Previous affecting provision: power pursuant to section exercised (2.05.2006) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2006* (S.I. No. 239 of 2006); revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(c), in effect as per reg. 1(2).
+>
+> E181: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E182: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E183: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E184: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E185: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E186: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E187: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E188: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 16. Application of sections 14 and 15 to foreign ships.
+
+**16.**—*Sections 14* and *15* shall apply in relation to a ship and the owner and master of a ship registered in a country other than the State whilst that ship is in the State as if the ship was registered in the State.
+
+## PART IIIEnforcement — PART III — Enforcement
+
+### 17. Surveys and inspections of ships.
+
+**17.**—(1) The Minister, in order to establish that any ship or class of ship complies with the requirements of regulations under *section 14*, may by regulations require that any ship, or ship of such class as may be specified in the regulations, its equipment and fittings be surveyed, inspected or tested in such manner and at such times as may be prescribed.
+
+(2) All duties in respect of a survey, inspection or test for the purposes of regulations under this section shall be performed in accordance with the directions of the Minister by—
+
+(*a*) a surveyor of ships, or
+
+(*b*) an inspector appointed under *section 20* for the purposes of this section.
+
+(3) The owner or master of a ship shall submit the ship to such survey, inspection or test as may be prescribed and shall pay such fee as may be prescribed by order under *subsection (5)*.
+
+(4) If the surveyor of ships or other person appointed for the purposes of this section is satisfied that the ship, its equipment or fittings to which the survey relates complies with the requirements of this Act the Minister shall, on payment of the prescribed fee, cause to be issued a certificate of compliance with such requirements in such form and manner and subject to such conditions as he may prescribe.
+
+(5) The Minister, with the consent of the Minister for Finance, may by order prescribe the fees to be paid for surveys, inspections and tests carried out and certificates issued under this section.
+
+(6) When a ship has been surveyed, inspected or tested pursuant to regulations made under this section and a certificate has been issued under *subsection (4)* in relation to such ship, no change, other than the replacement of any defective equipment or fittings, shall be made, without prior consent given by or on behalf of the Minister, in the structure, equipment and fittings of the ship.
+
+(7) The owner and the master of a ship in respect of which there is a contravention of this section or regulations under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 27 of 1991</td><td>Sea Pollution Act 1991</td><td>Sections 6(1), 17(5) and 33(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E189: Power pursuant to section exercised (16.09.2025) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2025* (S.I. No. 432 of 2025).
+>
+> E190: Power pursuant to section exercised (22.05.2024) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2024* (S.I. No. 235 of 2024).
+>
+> E191: Power pursuant to section exercised (23.02.2024) by *Sea Pollution (Ballast Water Management Convention) (Amendment) Regulations 2024* (S.I. No. 61 of 2024).
+>
+> E192: Power pursuant to section exercised (19.04.2023) by *Sea Pollution (Ballast Water Management Convention) Regulations 2023* (S.I. No. 188 of 2023).
+>
+> E193: Power pursuant to section exercised (29.06.2018) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2018* (S.I. No. 236 of 2018).
+>
+> E194: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E195: Power pursuant to section exercised (10.02.2017) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2017* (S.I. No. 48 of 2017).
+>
+> E196: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E197: Power pursuant to section exercised (1.12.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 3) Regulations 2016* (S.I. No. 582 of 2016).
+>
+> E198: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E199: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E200: Power pursuant to section exercised (1.01.2017) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) (No. 2) Regulations 2016* (S.I. No. 578 of 2016), in effect as per reg. 1(2).
+>
+> E201: Power pursuant to section exercised (30.08.2016) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2016* (S.I. No. 461 of 2016).
+>
+> E202: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E203: Power pursuant to section exercised (1.10.2014) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2014* (S.I. No. 275 of 2014), in effect as per reg. 1(2).
+>
+> E204: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E205: Power pursuant to section exercised (9.02.2013) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2013* (S.I. No. 35 of 2013), in effect as per reg. 1(2).
+>
+> E206: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2012* (S.I. No. 492 of 2012), in effect as per reg. 1(2).
+>
+> E207: Power pursuant to section exercised (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), in effect as per reg. 1(2).
+>
+> E208: Power pursuant to section exercised (1.02.2012) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) (No. 2) Regulations 2011* (S.I. No. 596 of 2011), in effect as per reg. 1(2).
+>
+> E209: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Air Pollution from Ships) (Amendment) Regulations 2011* (S.I. No. 383 of 2011), in effect as per reg. 1(2).
+>
+> E210: Power pursuant to section exercised (1.08.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2011* (S.I. No. 365 of 2011), in effect as per reg. 1(2).
+>
+> E211: Power pursuant to section exercised (1.01.2011) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2010* (S.I. No. 664 of 2010), in effect as per reg. 1(2).
+>
+> E212: Power pursuant to section exercised (1.12.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) Regulations 2008* (S.I. No. 281 of 2008), in effect as per reg. 1(2).
+>
+> E213: Power pursuant to section exercised (27.09.2008) by *Sea Pollution (Prevention of Pollution By Sewage from Ships) (Amendment) (No. 2) Regulations 2008* (S.I. No. 372 of 2008), in effect as per reg. 1(2).
+>
+> E214: Power pursuant to section exercised (18.07.2008) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2008* (S.I. No. 282 of 2008), in effect as per reg. 1(2).
+>
+> E215: Power pursuant to section exercised (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), in effect as per reg. 1(2).
+>
+> E216: Power pursuant to section exercised (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), in effect as per reg. 1 and sch. 1.
+>
+> E217: Power pursuant to section exercised (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), in effect as per reg. 1(2).
+>
+> E218: Power pursuant to section exercised (25.10.2007) by *Sea Pollution (Prevention of Air Pollution from Ships) Regulations 2007* (S.I. No. 728 of 2007).
+>
+> E219: Power pursuant to section exercised (1.01.2003) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2002* (S.I. No. 641 of 2002), in effect as per reg. 1(2).
+>
+> E220: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) (Amendment) Regulations 1997* (S.I. No. 515 of 1997), in effect as per reg. 1.
+>
+> E221: Power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1).
+>
+> E222: Power pursuant to section exercised (1.07.1994) by *Sea Pollution Act, 1991 (Survey Fees) Order 1994* (S.I. No. 195 of 1994), in effect as per art. 1.
+>
+> E223: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E224: Previous affecting provision: power pursuant to section exercised (2.05.2006) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2006* (S.I. No. 239 of 2006); revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(c), in effect as per reg. 1(2).
+>
+> E225: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+>
+> E226: Previous affecting provision: power pursuant to section exercised (30.04.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2003* (S.I. No. 191 of 2003); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(d), in effect as per reg. 1(2).
+>
+> E227: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 2002* (S.I. No. 642 of 2002), in effect as per reg. 1(2); revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(c), in effect as per reg. 1(2).
+>
+> E228: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Pollution By Garbage From Ships) (Amendment) Regulations 1997* (S.I. No. 516 of 1997), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(b), in effect as per reg. 1(2).
+>
+> E229: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Prevention of Oil Pollution) (Amendment) Regulations 1997* (S.I. No. 514 of 1997), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(b), in effect as per reg. 1(2).
+>
+> E230: Previous affecting provision: power pursuant to section exercised (30.01.1998) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 1997* (S.I. No. 513 of 1997), in effect as per reg. 1(1); revoked (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), reg. 11, in effect as per reg. 1(2). Also revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(a), in effect as per reg. 1(2).
+>
+> E231: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations 1994* (S.I. No. 46 of 1994), in effect as per reg. 1; revoked (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 29, in effect as per reg. 1(2).
+>
+> E232: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Pollution by Garbage From Ships) Regulations 1994* (S.I. No. 45 of 1994), in effect as per reg. 1; revoked (1.01.2013) by *Sea Pollution (Prevention of Pollution by Garbage from Ships) Regulations 2012* (S.I. No. 372 of 2012), reg. 11(a), in effect as per reg. 1(2).
+>
+> E233: Previous affecting provision: power pursuant to section exercised (1.06.1994) by *Sea Pollution (Prevention of Oil Pollution) Regulations, 1994* (S.I. No. 44 of 1994), in effect as per reg. 1; revoked (30.11.2007) by *Sea Pollution (Prevention of Oil Pollution) Regulations 2007* (S.I. No. 788 of 2007), reg. 40(a), in effect as per reg. 1(2).
+
+### 18. Surveys on behalf of a MARPOL Convention country.
+
+**18.**—(1) The Minister, at the request of the Government of another country which is a Party to the MARPOL Convention, may cause a ship registered in that country to be surveyed; in that case, *sections 14* and *17* shall apply to such ship as if it were a ship registered in the State and the owner had submitted to the survey.
+
+(2) A certificate issued under *section 17* in respect of such a ship shall contain a statement that it has been issued at the request of the Government concerned.
+
+(3) A copy of a survey report and a copy of a certificate made or issued in pursuance of this section shall be transmitted as soon as possible to the Government concerned.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E234: Power pursuant to section exercised (1.09.2017) by *Sea Pollution (Control of Pollution by Noxious Liquid Substances in Bulk) (Amendment) Regulations 2017* (S.I. No. 393 of 2017).
+>
+> E235: Power pursuant to section exercised (26.08.2016) by *Sea Pollution (Harmful Substances in Packaged Form) (Amendment) Regulations 2016* (S.I. No. 459 of 2016).
+>
+> E236: Power pursuant to section exercised (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), in effect as per reg. 1(2).
+>
+> E237: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Sea Pollution (Harmful Substances In Packaged Form) Regulations 2009* (S.I. No. 491 of 2009), in effect as per reg. 1(2); revoked (1.01.2014) by *Sea Pollution (Harmful Substances in Packaged Form) Regulations 2013* (S.I. No. 510 of 2013), reg. 10(b), in effect as per reg. 1(2).
+
+### 19. Surveyors of ships.
+
+**19.**—A surveyor of ships shall be an inspector for the purposes of this Act and shall, subject to such directions as may be given by the Minister, report to the Minister generally—
+
+(*a*) whether the requirements of this Act are being complied with;
+
+(*b*) what measures have been taken for the prevention of pollution caused by the escape from ships of oil, oily mixtures, noxious liquid substances, harmful substances, F19[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments];
+
+(*c*) whether facilities exist in any harbour or any other place in the State for the discharge and disposal of such substances and whether such facilities are adequate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(a), S.I. No. 605 of 2006.
+
+### 20. Appointment of inspectors.
+
+**20.**—(1) The Minister may, by warrant, appoint a person to be an inspector to carry out for the purposes of this Act such functions as are specified in the warrant.
+
+(2) Every inspector appointed under *subsection (1)* shall be furnished with a warrant of his authority and, when exercising a function under this Act, shall, if requested, produce the warrant for inspection.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section extended (5.06.2008) by *Sea Pollution (Control of Pollution By Noxious Liquid Substances in Bulk) Regulations 2008* (S.I. No. 217 of 2008), reg. 25(1), in effect as per reg. 1(2).
+>
+> *Measures of control*
+>
+> 25\. (1) Surveyors appointed by the Minister under section 20 of the Act shall be appointed for the purpose of implementing this Regulation.
+>
+> ...
+>
+> C7: Application of section extended (29.03.2008) by *Sea Pollution (Control of Anti-Fouling Systems on Ships) Regulations 2008* (S.I. No. 82 of 2008), reg. 8(2), in effect as per reg. 1and sch. 1.
+>
+> *Survey and Certification*
+>
+> ...
+>
+> (2) Surveyors appointed by the Minister under section 20 of the Act shall be appointed for the purpose of implementing these Regulations.
+
+### 21. Powers of inspectors.
+
+**21.**—(1) An inspector may do all such things as he considers necessary for the purpose of carrying out his functions under this Act.
+
+(2) Without prejudice to the generality of *subsection (1)* and any other provision of this Act, an inspector may—
+
+(*a*) at any time, go on board any ship while the ship is in the State or an Irish ship anywhere and inspect the ship and all machinery, boats, equipment or fittings thereon and test any equipment on board the ship with which, under this Act, the ship is required to be fitted;
+
+(*b*) inspect any document on board the ship and require any person on board to produce to him any document in his possession or control or to make return to any enquiry;
+
+(*c*) require any person on board a ship to furnish him with his name and address;
+
+(*d*) take samples of oil, oily mixtures, noxious liquid substances, harmful substances, F20[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention or anti-fouling systems] from any ship;
+
+(*e*) copy any entry in any prescribed document or record and require the person by whom the document or record is kept to certify the copy as a true copy of the entry;
+
+(*f*) copy any entry in any log book of the ship or other record on the ship and require the master of the ship to certify the copy as a true copy of the entry;
+
+(*g*) at any time, enter any place, whether on land or at sea, and therein inspect—
+
+(i) any container for the storage, or
+
+(ii) any apparatus for the transfer to or from a ship,
+
+of oil, oily mixtures, noxious liquid substances, harmful substances, F20[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention or anti-fouling systems];
+
+(*h*) by summons under his hand require any person to attend before him and examine him on oath (which the inspector is hereby authorised to administer);
+
+(*i*) require a witness to make and subscribe a declaration of the truth of any statements made at his examination.
+
+(3) A witness before an inspector shall be entitled to the same immunities and privileges as if he were a witness before the High Court and shall be allowed such expenses as would be allowed to a witness attending the High Court on a *sub poena*: and any dispute as to the amount of those expenses shall be referred to a Taxing Master who shall, on request made to him under the hand of an inspector, ascertain and certify the amount of the expenses.
+
+(4) For the purpose of boarding a ship in order to exercise his functions under this Act, an inspector may require the master of the ship to take such measures and provide such facilities as may be necessary to enable him to go on board.
+
+(5) An inspector may, for the purposes of this Act, require the master of a ship to be and remain on board whilst he is inspecting the ship and the inspector may require the master to answer any questions or to furnish any information which may appear to the inspector to be necessary or relevant.
+
+(6) Any person who—
+
+(*a*) on being summoned as a witness before an inspector and tendered the expenses to which he is entitled under this section, makes default in attending, or refuses to take an oath legally required by the inspector to be taken, or
+
+(*b*) refuses or neglects to make any answer, or to give any return, or to produce any document, or to make or subscribe to any declaration, or to certify a copy of any entry which the inspector is entitled to require, or
+
+(*c*) on being requested by an inspector to stop a ship for the purpose of enabling the inspector to board the ship in order to inspect it, fails or neglects to bring the ship to a stop, or
+
+(*d*) wilfully impedes an inspector in the exercise of his functions under this Act,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(c), S.I. No. 605 of 2006.
+
+### 22. Defective ship or equipment.
+
+**22.**—(1) Where an inspector determines, having inspected a ship, that the ship or any equipment or fitting thereon—
+
+(*a*) does not correspond substantially with the particulars specified in a certificate under *section 17* or an equivalent certificate issued by another Party to the MARPOL Convention, or
+
+(*b*) is so defective that the ship is not fit to put to sea without presenting a serious threat of damage to the marine environment,
+
+the inspector shall direct the master forthwith to do everything that is necessary to ensure that—
+
+(i) the ship or its equipment corresponds with the said particulars, or
+
+(ii) any defect so determined by the inspector is remedied,
+
+as the case may be.
+
+F21[(2) Without prejudice to any other power conferred on an inspector under this Act, an inspector to whom this section applies may, if he is satisfied that a ship (or any fitting or equipment thereon) does not comply with a certificate referred to in *subsection (1)* or is so defective that the ship is not fit to put to sea without presenting a serious threat to living marine resources, detain a ship, or take a ship to such place in the State as he considers appropriate, and there detain it until such time as any directions given by him under this section in relation to the ship have been complied with.]
+
+(3) An inspector shall take all such steps as appear to him to be necessary to ensure that a ship in relation to which he has given directions under this section will not put to sea or leave harbour for the purpose of proceeding to the nearest repair yard, without presenting an undue threat of damage to living marine resources.
+
+(4) Any person who—
+
+(*a*) fails to comply with a direction of any inspector under this section, or
+
+(*b*) puts to sea, or attempts to put to sea, otherwise than in accordance with this Act, a ship which has been detained by an inspector under *subsection (2)*,
+
+shall be guilty of an offence.
+
+(5) Without prejudice to any prosecution which may be brought pursuant to *subsection (4)*, if the master of a ship registered in the State does not comply with a direction of an inspector under this section, the inspector shall forthwith report the fact of such failure to the Minister and the Minister, having considered the report of the inspector and such other information in relation to such failure as he reasonably considers to be necessary or relevant, may direct that a certificate under *section 17* issued in relation to the ship be withdrawn.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 14(a), S.I. No. 295 of 1999.
+
+### 23. Refusal of entry of ships into harbour or State.
+
+**23.**—(1) A harbour-master may refuse entry into the harbour over which he has control to a ship which he has reasonable cause to believe—
+
+(*a*) does not comply with the requirements of this Act, or
+
+(*b*) would cause a serious threat of damage to flora or fauna, living marine resources, the harbour or other ships,
+
+unless the entry of the ship is necessary for the purpose of saving life.
+
+(2) Where the Minister or a person appointed by the Minister under *subsection (4)* to act on his behalf is satisfied that a ship is a ship to which *paragraph (a)* or *(b)* of *subsection (1)* relates, he may, in his absolute discretion, by direction prohibit the entry of the ship into the State or into a harbour or require the ship to leave the State or a harbour and, in either case, to comply with such conditions as may be specified.
+
+(3) If a harbour-master has refused entry under *subsection (1)*, the Minister, or a person appointed by him under *subsection (4)* to act on his behalf, may direct the harbour-master to permit the ship to enter, and to comply with such conditions as may be specified by the Minister or the person appointed under *subsection (4)*, following consultation with the harbour-master, in which case the harbour-master shall permit the ship to enter the harbour upon such conditions, and the master of the ship shall comply with those conditions.
+
+(4) The Minister may by warrant appoint a person to act on his behalf for the purposes of *subsections (2)* and *(3)* and that person shall be furnished with a warrant and, when exercising a function under this section, shall, if requested, produce the warrant for inspection.
+
+(5) The Minister may by regulations provide, in respect of ships generally or ships of any prescribed class, for—
+
+(*a*) the giving by the owner or master of a ship of notice of the entry or intended entry of the ship into the State and of its passage and destination while in the State and such other information relating to the ship and its cargo as may be prescribed;
+
+(*b*) preventing the entry of a ship or of a ship carrying a specified cargo into the State if he has reasonable cause to believe it will cause serious threat of hazards to human health, damage to human life, harm to living marine resources, or harm to flora or fauna, or damage to amenities, or interference with legitimate uses of the sea.
+
+(6) The owner, the master and any person who fails to comply with a direction, or the requirements of regulations, under this section shall be guilty of an offence.
+
+### 24. Detention of ships.
+
+**24.**—F22[(1) Whenever an inspector or a harbour-master has reasonable cause to believe that a ship has caused or may cause pollution and the ship is in the State, he may stop and detain the ship, or take it to such place in the State as he considers appropriate and there detain it.]
+
+(2) The powers conferred on a harbour-master by *subsection (1)* may only be exercised whilst the ship concerned is within the harbour over which he has control.
+
+(3) Any ship which is detained pursuant to *section 22 (2)* or *subsection (1)* of this section shall be released if—
+
+(*a*) the inspector or the harbour-master is reasonably satisfied that the ship no longer presents a serious threat to living marine resources or has ceased to be a cause of pollution, as the case may be, or
+
+(*b*) the inspector is of the opinion that the ship can put to sea or leave the harbour for the purpose of proceeding to the nearest repair yard without presenting an undue threat of damage to flora or fauna or to living marine resources, and—
+
+(i) the master of the ship undertakes to have the defect in the ship, or its equipment, whereby the ship is a cause of pollution, remedied, and
+
+(ii) the owner of the ship puts forward security which, in the opinion of the inspector, is satisfactory for the payment of the cost of remedying any pollution damage which may be caused by the ship whilst it is on its voyage to the nearest repair yard.
+
+(4) If a ship which has been detained pursuant to this section leaves or attempts to leave any harbour or other place otherwise than in accordance with this section the owner and the master of the ship shall each be guilty of an offence and the ship, wherever it may be, may be detained, or be further detained, by an inspector or by a harbour-master in his harbour.
+
+(5) An inspector or a harbour-master, in the exercise of his powers under this Act, shall not unduly detain or delay a ship.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 14(b), S.I. No. 295 of 1999.
+
+### 25. Powers of harbour-masters.
+
+**25.**—(1) Without prejudice to any other power conferred by this Act, a harbour-master, in the case of any ship which may be in the harbour over which he has control, may—
+
+*(a)*go on board the ship and inspect, for the purposes of ascertaining the circumstances relating to an alleged discharge of any oil, oily mixture, noxious liquid substance, harmful substance, F23[sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention or anti-fouling systems] into the harbour, the ship and its machinery and any boats, equipment, cargo or articles on board;
+
+F24[(*aa*) take samples of oil, oily mixtures, noxious liquid substances, harmful substances, sewage or garbage from the ship concerned;]
+
+(*b*) require the production of and inspect any record or other document required to be kept, under this Act or otherwise;
+
+(*c*) copy any entry in any such record or document and require the master of the ship or the person by whom the record or document is kept to certify that the copy is a true copy.
+
+F24[(1A) A harbour-master may enter any oil handling facility F25[or hazardous and noxious substances handling facility] within the harbour in respect of which he is harbour-master and there make inspections and carry out such tests as he thinks fit—
+
+(*a*) in relation to the carrying on of any activities in such facility, including the monitoring and assessment of the effects on the marine environment of such activities, or
+
+(*b*) for the purposes of monitoring and assessing the effects on the marine environment of any oil pollution incident F25[or pollution incident by hazardous and noxious substances].]
+
+(2) Any person who—
+
+(*a*) fails to comply with a requirement of a harbour-master under this section, or
+
+(*b*) wilfully impedes a harbour-master in the exercise of his functions under this section,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(c), S.I. No. 605 of 2006.
+>
+> F24: Inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 5, S.I. No. 295 of 1999.
+>
+> F25: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 23, S.I. No. 605 of 2006.
+
+### 26. Powers of Minister to prevent, mitigate or eliminate pollution.
+
+**26.**—(1) Subject to *subsection (6)*, the Minister or any person authorised by him (an “authorised person”) may for the purpose of preventing, mitigating or eliminating danger from pollution or threat of pollution by oil, or by any substance other than oil as defined in *subsection (10)*, following upon a maritime casualty or acts related to such a casualty, give such directions as seem to him to be appropriate to—
+
+(*a*) the owner or master of the ship; or
+
+(*b*) any person who is, or who reasonably appears to the Minister or authorised person to be, in charge of the ship; or
+
+(*c*) any salvor who is in possession of the vessel and is in charge of a salvage operation; or
+
+(*d*) such other person, to whom it may appear reasonable and necessary to the Minister or authorised person to give directions.
+
+(2) The Minister or authorised person in the exercise of his power under this section, shall not unduly detain or delay a ship from proceeding on its voyage.
+
+(3) Subject to *subsection (6)*, if, in the opinion of the Minister, the powers conferred by *subsection (1)* are, or have proved to be, inadequate for the purpose, the Minister, or authorised person, may take such action and do such things in relation to the ship concerned or its stores, equipment or cargo as appear, having regard to all the circumstances, to be necessary and reasonable for the purpose of preventing, mitigating or eliminating the effects of pollution arising from a maritime casualty.
+
+(4) Without prejudice to the generality of any powers conferred by this section any directions given, or action taken, under this section may include—
+
+(*a*) the movement of a ship in, out of, or beyond, the limits of a harbour or to a specified place in such manner as may be specified;
+
+(*b*) the restraint or control of a ship or its movements and the attendance on the ship of such tug-boats, salvage vessels, other craft or aircraft as may be specified;
+
+(*c*) the boarding of the ship, for the purposes of assessing the damage thereto or the giving of advice or assistance in relation to the repairing of such damage;
+
+(*d*) the unloading, discharge or transfer from a ship of any oil or oily mixture, whether carried on the ship in bulk as cargo or carried in the bunkers of the ship as fuel, and the unloading of the stores, equipment, cargo or any other substance on a ship;
+
+(*e*) the specification of the type or class of vessel by which any such operation of unloading, discharging or transfer is to be carried out;
+
+(*f*) the storage or other disposal of any oil, oily mixture, stores, equipment, cargo or any other substance unloaded, discharged or transferred from a ship;
+
+(*g*) the taking, or the restriction on taking, of specified salvage measures in relation to a ship or any oil, oily mixture, stores, equipment, cargo or any other substance;
+
+(*h*) the sinking, destruction or taking over of control of a F26[ship;]
+
+F27[(*i*) the establishment and maintenance of a temporary exclusion zone around a maritime casualty or an offshore unit, oil handling facility or hazardous and noxious substances handling facility.]
+
+(5) *(a)*The powers conferred by this section may be exercised if, but only if, the Minister or authorised person has reasonable grounds for believing that, following upon a maritime casualty or acts related to such a casualty, there is grave and imminent danger of major harmful consequences through pollution to the coastline or to related interests.
+
+(*b*) In this subsection “related interests” means the interests of the State and the health and well-being of its citizens and, without prejudice to the foregoing, includes—
+
+(i) the health of the coastal population and the well-being of any area concerned;
+
+(ii) marine resources, flora and fauna, and the habitats of such flora and fauna;
+
+(iii) maritime coastal, port or estuarine activities, including fisheries activities, which constitute means of livelihood for persons concerned;
+
+(iv) the tourist attractions of any area concerned.
+
+(6) The Minister shall furnish an authorised person with a certificate of his authority and that person shall, if requested, produce the certificate for inspection.
+
+(7) Any person who—
+
+(*a*) wilfully contravenes, or fails to comply with, a direction under this section, or
+
+(*b*) wilfully obstructs a person who is acting in compliance with such a direction,
+
+shall be guilty of an offence.
+
+(8) Every person who complies with a direction under this section shall take all possible means to avoid any risk to human life and, in a prosecution of a person for failure to comply with a direction under this section, it shall be a defence for the person to establish that he had reasonable grounds for believing that compliance with the direction would have involved a serious risk to human life.
+
+(9) The owner of a ship shall be liable to pay to the Minister the expenses of or incidental to any action taken by the Minister or an authorised person in pursuance of this section and those expenses shall, without prejudice to any other remedy, be recoverable as salvage is recoverable.
+
+(10) In this section—
+
+“oil” means crude oil, fuel oil, diesel oil and lubricating oil;
+
+“ship” does not include any installation or device engaged in the exploration and exploitation of the resources of the sea-bed and the ocean floor and the subsoil thereof;
+
+“substance other than oil”, referred to in *subsection (1)*, means any substance in a list annexed to the Intervention Protocol and any other substance which is liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea F27[, and includes hazardous and noxious substances].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Substituted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 33(a), S.I. No. 605 of 2006.
+>
+> F27: Inserted (14.06.2007) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 33(a), (b), S.I. No. 605 of 2006.
+
+### 27. Right to recover compensation from Minister.
+
+**27.**—(1) Any person who establishes that any measures taken outside the territorial waters of the State pursuant to *section 26* in relation to a ship registered in the State or in a country which is a party to the Intervention Convention went beyond what were reasonably necessary to achieve their purpose shall be entitled to recover compensation from the Minister either by an award referred to in *subsection (3)* or in any court of competent jurisdiction for any loss or damage caused to that person by reason of the fact that such measures exceeded those reasonably necessary to achieve that purpose.
+
+(2) In considering whether a person is entitled to recover compensation from the Minister pursuant to *subsection (1)*, account shall be taken of—
+
+(*a*) the extent and probability of imminent damage if those measures had not been taken;
+
+(*b*) the likelihood of those measures being effective; and
+
+(*c*) the extent of the damage caused by such measures.
+
+(3) An arbitration award under the Intervention Convention on a claim for compensation to which *subsection (1)* relates shall be deemed to be an arbitration award under the Arbitration Act, 1954.
+
+### 28. Orders concerning Conventions and Protocols.
+
+**28.**—If the Minister is satisfied that—
+
+(*a*) any country (other than the State) has accepted or denounced the Intervention Convention, the Intervention Protocol or the MARPOL Convention F28[, the AFS Convention, the BWM Convention] or any Convention or Protocol which has been ratified by the State and which amends or extends any such Convention or Protocol, or
+
+(*b*) any such Convention or Protocol extends, or ceases to extend, to any territory,
+
+he may by order so declare.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 37(d), S.I. No. 605 of 2006.
+>
+> **Editorial Notes:**
+>
+> E238: Power pursuant to section exercised (15.05.1995) by *Sea Pollution Act 1991 (Intervention Protocol) (Countries of Acceptance) Order 1995* (S.I. No. 118 of 1995), in effect as per art. 2.
+>
+> E239: Power pursuant to section exercised (15.05.1995) by *Sea Pollution Act, 1991 (Intervention Convention) (Countries of Acceptance) Order 1995* (S.I. No. 117 of 1995), in effect as per art. 2.
+>
+> E240: Power pursuant to section exercised (15.05.1995) by *Prevention of Pollution From Ships (Marpol 73/78) (Countries of Acceptance) Order 1995* (S.I. No. 116 of 1995), in effect as per art. 1(2).
+
+## PART IIIA ACTS OF EUROPEAN COMMUNITIES — PART IIIA — ACTS OF EUROPEAN COMMUNITIES
+
+### F29[28A. Power of Minister to make regulations to give effect to acts of European Communities.
+
+**28A.**— (1) The Minister may make regulations to give effect to any act adopted by an institution of the European Communities in respect of any matter referred to in *Part II* or *III*.
+
+(2) A person who contravenes a regulation under this section shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (8.12.2006) by *Sea Pollution (Miscellaneous Provisions) Act 2006* (29/2006), s. 36, S.I. No. 605 of 2006.
+
+## PART IVMiscellaneous — PART IV — Miscellaneous
+
+### 29. Penalties.
+
+**29.**—A person who commits an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F30[£1,500], or to imprisonment for any term not exceeding twelve months, or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000,000, or to imprisonment for any term not exceeding 5 years, or, at the discretion of the court, to both such fine and such imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 15(a), S.I. No. 295 of 1999.
+>
+> **Editorial Notes:**
+>
+> E241: A fine of £1,500 converted (1.01.1999) to €1,904.60. This translates into a class B fine, not exceeding €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> E242: A fine of £10,000 converted (1.01.1999) to €12,697.38. This is multiplied by 1.75 to €22,220.41 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9 and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 29A. Penalties for certain offences.
+
+F31[**29A.** Where *section 29(b)* applies and the offence concerned is an offence under *section 10(2A)*, the fine shall not exceed €500,000 and the term of imprisonment shall not exceed 3 years.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (15.11.2010) by *European Communities (Ship-Source Pollution) Regulations 2010* (S.I. No. 542 of 2010), reg. 2(b).
+
+### 30. Proceedings for offences.
+
+**30.**—(1) Summary proceedings for any offence under this Act may be brought and prosecuted by the Minister.
+
+(2) Summary proceedings for an offence in relation to a particular harbour or a particular harbour-master may be brought and prosecuted by the harbour authority.
+
+(3) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings in relation to an offence under this Act may be instituted—
+
+(*a*) in every case, within two years from the date of the offence, or
+
+(*b*) if, at the expiry of that period, the person to be charged is outside the State, within six months of the date on which he next enters the State.
+
+(4) Proceedings in relation to an offence under this Act may be taken at any place in the State, and the offence, for all incidental purposes, may be treated as having been committed in that place.
+
+(5) Without prejudice to any other jurisdiction, proceedings in relation to an offence under this Act may be brought against a person at any place where he may, for the time being, be.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E243: Section (other than subs. (2)) applied with necessary modifications to *Sea Pollution (Amendment) Act 1999* (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 17, S.I. No. 295 of 1999.
+
+### 31. Offences by body corporate.
+
+F32[**31.**—Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other officer of such body corporate or a person who was purporting to act in any such capacity, that officer or person shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 15(b), S.I. No. 295 of 1999.
+>
+> **Editorial Notes:**
+>
+> E244: Section applied with necessary modifications to *Sea Pollution (Amendment) Act 1999* (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 17, S.I. No. 295 of 1999.
+
+### 32. Indictment of body corporate.
+
+**32.**—(1) A body corporate may be sent forward, with or without recognisances, for trial, on indictment, for an offence under this Act.
+
+(2) On arraignment before the Central Criminal Court or the Circuit Court, the body corporate may enter in writing by its representative a plea of guilty or, as the case may be, not guilty, and, if it does not appear by a representative appointed by it for the purpose, or, though it does so appear, fails to enter any plea, the court shall order a plea of not guilty to be entered and the trial shall proceed as though the body corporate had duly entered that plea.
+
+(3) A statement in writing purporting to be signed by the secretary of the body corporate to the effect that the person named in the statement has been appointed as the representative of the body for the purposes of this section shall be admissible without further proof as evidence that the person has been so appointed.
+
+(4) Any summons or document required to be served for the purpose, or in the course, of proceedings for an offence under this Act on a body corporate may be served by leaving it at, or by sending it by registered post to, the registered office of that body or, if there is no such office in the State, by leaving it at, or sending it by registered post to, any place in the State at which the body conducts its business.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E245: Section applied with necessary modifications to *Sea Pollution (Amendment) Act 1999* (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 17, S.I. No. 295 of 1999.
+
+### 33. Collection and application of fines.
+
+**33.**—(1) Subject to *subsection (3)*, all fines in respect of offences under this Act shall be paid into the Exchequer in accordance with such directions as may, from time to time, be given by the Minister for Finance.
+
+(2) Where a fine imposed on the owner or master of a ship is not duly paid, the court may, without prejudice to any other powers for enforcing payment, direct that any amount of the fine remaining unpaid be levied by the distress and sale of such property, comprising the ship, its equipment and stores as the court thinks necessary.
+
+(3) Where it appears to the court imposing a fine that any person has incurred, or will incur, expense in removing any pollution, or making good any damage attributable to the offence, the court may order that the whole of the fine, or such part thereof as may be specified in the order, be paid to that person for or towards defraying the expense.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 27 of 1991</td><td>Sea Pollution Act 1991</td><td>Sections 6(1), 17(5) and 33(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E246: Section applied with necessary modifications to *Sea Pollution (Amendment) Act 1999* (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 17, S.I. No. 295 of 1999.
+
+### 34. Proof of certain documents.
+
+**34.**—Every document purporting to be a record kept in pursuance of this Act, the Intervention Convention, the Intervention Protocol or the MARPOL Convention, or to be a true copy, certified as such by the person required to keep the record, of any entry therein shall, unless the contrary is shown, be presumed to be such and be admissible as evidence of the facts therein without further proof.
+
+### 35. Presumption of discharge.
+
+**35.**—Where, as respects a ship registered in the State or a ship wherever registered while in the State, a discharge of any substance to which this Act applies is sighted and the ship is sighted in close proximity to the discharge, it shall be presumed, until the contrary is proved, that it was discharged from the ship.
+
+### 36. Amendment of Continental Shelf Act, 1968.
+
+**36.**—(1) The Continental Shelf Act, 1968, is hereby amended by the substitution for section 7 of the following section:
+
+“Discharge of oil or other substances.
+
+7.—(1) The Minister for Energy, in consultation with the Minister for the Marine, may make regulations prohibiting or regulating the discharge of any oil, oily mixture, noxious liquid substance, harmful substance, sewage or garbage—
+
+(*a*) from a pipe-line, or
+
+(*b*) otherwise than from a ship, as a result of any operation for the exploration of the sea-bed and subsoil, or the exploitation of their natural resources in a designated area.
+
+(2) Where there is a contravention of any such regulations the owner of the pipe-line or, as the case may be, the person carrying on the operations shall be guilty of an offence.
+
+(3) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,000, or to imprisonment for any term not exceeding twelve months, or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000,000, or to imprisonment for any term not exceeding 5 years, or, at the discretion of the court, to both such fine and such imprisonment.
+
+(4) In this section ‘oil’, ‘oily mixture’, ‘noxious liquid substance’, ‘harmful substance’, ‘sewage’, ‘garbage’ and ‘discharge’ have the same meanings as in the *Sea Pollution Act, 1991.”*.
+
+(2) Section 7 of the Continental Shelf Act, 1968 (inserted in that Act by *subsection (1)*), shall apply for the purposes of this Act to the national territory as it applies to designated areas.
+
+### 37. Amendment of Oil Pollution of the Sea (Civil Liability and Compensation) Act, 1988.
+
+**37.**—The Oil Pollution of the Sea (Civil Liability and Compensation) Act, 1988, shall have effect subject to the provisions of the *Second Schedule*.
+
+### 38. Evidence of expenses of Minister.
+
+**38.**—Where the Minister is entitled under *section 26* to recover any expenses a certificate sealed with the official seal of the Minister and certifying the amount of the expenses shall be *prima facie* evidence of that amount.
+
+### 39. Provisions relating to detention of ships.
+
+F33[**39.**—(1) Where an inspector or harbour-master has, in the exercise of the powers conferred on him by *section 22(2)* or *24* detained a ship and the persons on board the ship at a port or other place in the State, any inspector, or the harbour-master concerned, who suspects that a person on board the ship has committed an offence under this Act shall (unless he is proceeding under *section 39A*), as soon as may be, apply to a judge of the District Court for an order authorising the continued detention of the ship and those persons, and the said judge may grant an order authorising such detention for a period of 48 hours if he is satisfied that the applicant inspector or harbour-master has such a suspicion as aforementioned.
+
+(2) Upon the expiration of the period of 48 hours—
+
+(*a*) the ship shall be released unless an order providing for its further detention is made under *section 39A* before the expiration of the said period of 48 hours, and
+
+(*b*) each person on board the ship shall be released unless an order providing for his further detention is made under the said section before the expiration of the said period.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 14(c), S.I. No. 295 of 1999.
+
+### 39A. Detention of ships.
+
+F34[**39A.**— Where an inspector or harbour-master has, in the exercise of the powers conferred on him by *section 22(2)* or *24*, detained a ship and the persons on board the ship at a port or other place in the State, any inspector or the harbour-master concerned shall, as soon as may be, bring the master of the ship and any other persons on board the ship, against whom proceedings for an offence under this Act have been or are about to be instituted, before a judge of the District Court and thereupon the said judge shall, if he is satisfied that such proceedings have been or are about to be instituted against the master and those other persons or any one or more of them, by order directed to an inspector or the harbour-master concerned, require such inspector or harbour-master to detain at a specified place in the State the ship and each person (including the master) aforesaid in respect of whom he is so satisfied, until such proceedings have been adjudicated upon by a court in exercise of its criminal jurisdiction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Inserted (1.09.1999) by *Sea Pollution (Amendment) Act 1999* (18/1999), s. 14(d), S.I. No. 295 of 1999.
+>
+> **Editorial Notes:**
+>
+> E247: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 40. Detention of master of ship pending determination of proceedings (including appeals) under Act.
+
+**40.**—(1) Where a person is convicted of an offence under this Act, or proceedings in relation to an offence are dismissed, and the ship in relation to which the offence has been committed has been detained under this Act, the Judge or, as the case may be, the District Justice, concerned shall, by order directed to an inspector or harbour-master, require the inspector or harbour-master, in the event of an appeal from, or other proceedings in relation to, the order of the court hearing the matter, to detain the master on board the ship further pending the determination of the appeal or other proceedings (and any proceedings consequent on the appeal or other proceedings) at a specified place in the State or until further order.
+
+(2) Where, in respect of an offence under this Act, an order is made under this section or under *section 39* for the detention of the master, a District Justice may, at his discretion, by order directed to an inspector or harbour-master, as the case may be, require the master to be released unless the ship is being detained under *section 22, 24* or *26*, if security which, in the opinion of the District Justice, is satisfactory is given for the payment, in the event of conviction of the defendant in respect of the offence or offences with which he is charged, or in the event of his failure to attend before any court when such attendance is required for the purposes of any preliminary examination under the Criminal Procedure Act, 1967, in relation to the offence or offences or any trials, appeals or other proceedings in relation to the offence or offences, of a sum that, in the opinion of the District Justice, is sufficient to provide for—
+
+(*a*) payment of the maximum fine or fines ordered, or which may be ordered, to be paid in respect of the offence or offences, or such sum as, in the opinion of the District Justice, is satisfactory having regard to the circumstances of the case,
+
+(*b*) the estimated amount of the costs (if any) of any trials, appeals or other proceedings in relation to the offence or offences awarded, or which may be awarded, against the defendant concerned.
+
+(3) Where an order is made under this section for the detention or release of the master, he shall be detained or released, as the case may be, in accordance with the terms of the order.
+
+### 41. Payment out of security provided for in section 40.
+
+**41.**—Whenever security is given by a defendant pursuant to *section 40* for the payment of any fine imposed in respect of an offence under this Act and for the estimated costs of any trials, appeals or other proceedings in respect of such an offence, the court may, when the trial, appeal or other proceedings, as the case may, has or have been finally determined, if it decides that it is proper so to do, on application of the prosecutor, direct that the amount of the fine imposed in respect of the offence together with the amount of any costs awarded in respect of any trial, appeal or other proceedings, be paid to the Minister out of the security.
+
+### 42. Costs of prosecutions.
+
+**42.**—Where a person is convicted of an offence under this Act committed after the commencement of this section, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Minister or to the harbour authority concerned the costs and expenses, measured by the court, reasonably incurred by the Minister or authority in relation to the investigation, detection and prosecution of the offence, including costs incurred in the taking of samples, the carrying out of tests, examinations and analyses and in respect of the remuneration and other expenses of employees, consultants and advisers.
+
+### 43. Service of documents.
+
+**43.**—(1) Where a District Justice proposes to make an order for the release on bail of a defendant before him charged with an offence under this Act who is ordinarily resident outside the State, he shall (unless he is satisfied that all documents (including an indictment) required by law to be served on the defendant in connection with or for the purpose of the charge or of any proceedings arising out of or connected with the charge can be duly served on the defendant in the State) direct that those documents may, in lieu of being served on the defendant, be served on a person specified in the direction who is ordinarily resident in the State.
+
+(2) Where a District Justice who has given a direction under this section or another District Justice acting in his place is satisfied that, owing to the death or absence from the State of a person specified in the direction or for any other reason, a document referred to in *subsection (1)* cannot be served on that person, the Justice shall direct that the document may be served on another person specified in the direction who is ordinarily resident in the State.
+
+(3) Service of a document referred to in this section on a person specified in a direction under this section shall be deemed for all purposes to be service on the defendant concerned.
+
+## FIRST SCHEDULE — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 57 & 58 Vic., c. 60 | Merchant Shipping Act, 1894 | Subsection (2) of section 448 |
+| No. 25 of 1956 | Oil Pollution of the Sea Act, 1956 | The Whole Act |
+| No. 1 of 1965 | Oil Pollution of the Sea (Amendment) Act, 1965 | The Whole Act |
+| No. 15 of 1977 | Oil Pollution of the Sea (Amendment) Act, 1977 | The Whole Act |
+
+## SECOND SCHEDULE — Amendment of Oil Pollution of the Sea (Civil Liability and Compensation) Act, 1988
+
+1\. In this Schedule—
+
+“the Principal Act” means the Oil Pollution of the Sea (Civil Liability and Compensation) Act, 1988.
+
+2\. Any word or expression which is used without definition in the Principal Act and is also used in the Merchant Shipping Act, 1894, shall, unless the context otherwise requires, have the same meaning in the Principal Act as it has in the said Act of 1894.
+
+3\. Section 16 (1) of the Principal Act is subject to section 44 (2) of that Act.
+
+4\. In section 19 of the Principal Act the following shall be substituted for subsection (1):
+
+“(1) It shall be the duty of such persons as may be prescribed to submit annually to the Minister in such manner and on or before such date as may be prescribed, a return for the volume of crude oil and fuel oil carried by sea and received by such persons in harbours, terminal installations and offshore terminals in the State.”.
+
+5\. In section 37 of the Principal Act the following subsection shall be inserted:
+
+“(4) Proceedings for an offence under this Act may be taken at any place in the State.”.
+
+6\. In section 39 of the Principal Act the following shall be substituted for subsection (1):
+
+“(1) Any summons or other document required to be served for the purpose, or in the course, of proceedings under this Act on a body corporate may be served by leaving it at, or sending it by registered post to, the registered office of that body or, if there is no such office in the State, by leaving it at, or sending it by registered post to the body at, any place in the State at which it conducts its business.”.
+
+7\. In section 45 of the Principal Act (which relates to fees) for “the owner of any ship” there shall be substituted “any person”.

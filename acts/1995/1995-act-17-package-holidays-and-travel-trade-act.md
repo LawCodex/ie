@@ -1,0 +1,1858 @@
+---
+title: "Package Holidays and Travel Trade Act, 1995"
+identifier: "eli/1995/act/17"
+type: act
+jurisdiction: ie
+language: en
+number: 17
+year: 1995
+date: 1995-07-17
+last_amended: 2022-11-29
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1995/act/17/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1995/act/17/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Package Holidays and Travel Trade Act, 1995
+
+AN ACT TO ENABLE EFFECT TO BE GIVEN TO COUNCIL DIRECTIVE NO. 90/314/EEC OF 13 JUNE 1990 OF THE EUROPEAN COMMUNITIES ON PACKAGE TRAVEL, PACKAGE HOLIDAYS AND PACKAGE TOURS, TO AMEND THE TRANSPORT (TOUR OPERATORS AND TRAVEL AGENTS) ACT, 1982, AND TO PROVIDE FOR CONNECTED MATTERS. [17*th July*, 1995]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text)**:
+>
+> C1: Functions transferred and references to "Director" construed (1.05.2007, establishment day) by *Consumer Protection Act 2007* (19/2007), s. 37(1)-(3) and sch. 1 part 1, subject to transitional provisions in subss. (4), (5), S.I. No. 179 of 2007.
+>
+> **37.**— (1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred to the Agency on the establishment day.
+>
+> (2) The functions vested in the Director by or under the existing enactments are transferred to the Agency on the establishment day.
+>
+> (3) References to the Director and the office of the Director contained in any Act (within the meaning of the Interpretation Act 2005 ) or instrument (including a licence or certificate granted, nomination made or consent or authorisation given thereunder) relating to any functions transferred by subsection (2) shall, on and after the establishment day, be read as references to the Agency.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Existing Enactments
+>
+> *Section 2 .*
+>
+> PART 1
+>
+> Enactments — Acts of the Oireachtas
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>No. 17 of 1995</td><td>Package Holidays and Travel Trade Act 1995</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> C2: Functions transferred and references to "Minister" construed (27.02.2001, establishment day) by *Aviation Regulation Act 2001* (1/2001), s. 9(1), (2) and (3), subject to transitional provisions in subss. (4)-(7), S.I. No. 47 of 2001.
+>
+> **9.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are hereby transferred, on the establishment day, to the Commission.
+>
+> (2) There are hereby transferred, on the establishment day, to the Commission the functions vested in the Minister by or under each of the following— ...
+>
+> (*b*) the Package Holidays and Travel Trade Act, 1995,
+>
+> ...
+>
+> (3) References to the Minister contained in any Act or instrument relating to any functions transferred by subsection (2) shall, on the establishment day, be construed as references to the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Enforcement of Act provided for (1.05.2007) by *Consumer Protection Act 2007* (19/2007), s. 73(8) and sch. 4 (written undertaking to comply or to refrain from act or practice, compensate, reimburse or return item, or publish advertisement containing a corrective statement) and s. 75(2) and sch. 5 (service of compliance notice by authorised officer), S.I. No. 178 of 2007. Note that the *Consumer Protection Act 2007*, s. 86 (publication of traders’ names, consumer protection list) also applies to these forms of enforcement, and s. 94 gives the Central Bank and Financial Services Authority functions in respect of, among other provisions, ss. 73, 75 and 86 of the 2007 Act.
+>
+> E2: Previous affecting provision: competent authority designated for purpose of Act (30.05.2006) by *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2006* (S.I. No. 290 of 2006), reg. 4(1) and sch. ref. no. 5; revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(a), in effect as per reg. 1(2).
+
+## PART I — Preliminary and General
+
+### 1. Short title, collective citation and commencement.
+
+**1.** — (1) This Act may be cited as the Package Holidays and Travel Trade Act, 1995.
+
+(2) The Transport (Tour Operators and Travel Agents) Act, 1982 and this Act may be cited together as the Transport (Travel Trade) Acts, 1982 and 1995.
+
+(3) This Act shall come into operation on such day or days as may be fixed therefor by order or orders of the Minister either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes or different provisions of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (1.09.1995, 1.10.1995) by *Package Holidays and Travel Trade Act, 1995 (Commencement) Order 1995* (S.I. No. 235 of 1995).
+>
+> 2\. The 1st day of September, 1995, is hereby fixed as the day on which section 5 of the Act, shall come into operation.
+>
+> 3\. The 1st day of October, 1995, is hereby fixed as the day on which all other sections of the Act, 1995, shall come into operation.
+
+### 2. Interpretation.
+
+**2.** — (1) In this Act, except where the context otherwise requires—
+
+“the Act of 1982” means the Transport (Tour Operators and Travel Agents) Act, 1982;
+
+“authorised officer” has the meaning assigned to it by *section 21*;
+
+F1[...]
+
+F2[...]
+
+“contravenes”, in reference to any provision of this Act, includes a failure or refusal to comply with the provision;
+
+“the Directive” means Council Directive No. 90/314/EEC of 13 June 1990[^1] on package travel, package holidays and package tours the text of which in the English language is set out for convenience of reference in the *Schedule* to this Act;
+
+“the Director” means the Director of Consumer Affairs;
+
+F4["Directive" means Directive (EU) No. 2015/2302 of the European Parliament and the Council of 25 November 2015 on package travel and linked travel arrangements;
+
+"durable medium" means any instrument which enables the traveller or the trader to store information addressed personally to him or her in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;
+
+"establishment" shall be construed in accordance with Article 49 of the Treaty on the Functioning of the European Union and means the actual pursuit of an economic activity, as referred to in that Article, by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out and, in this Act, a reference to an organiser or a retailer being “established” is to be construed accordingly;]
+
+“functions” includes powers and duties;
+
+F5["insolvency" means the organiser or the trader facilitating a linked travel arrangement is unable to, or is failing to, meet its financial or contractual obligations under this Act owed by it to travellers in respect of package travel contracts or linked travel arrangements and that, in relation to that organiser or trader, one or more of the following events has occurred:
+
+(*a*) a petition is granted by a court for the compulsory winding up of the business of the organiser or trader;
+
+(*b*) the organiser or trader, by reason of being unable to fulfil its financial obligations, seeks a voluntary winding up of the business or has convened a meeting of the creditors of the organiser or trader, for the purpose of considering a settlement of the liabilities of the organiser or trader to its creditors;
+
+(*c*) a receiver is appointed over the assets of the organiser or trader;
+
+(*d*) the organiser or trader has failed to discharge its debts or is unable to discharge those debts or has ceased to carry on business by reason of the inability to discharge those debts;
+
+(*e*) the organiser or trader has committed an act of bankruptcy;
+
+(*f*) the Commission for Aviation Regulation has reasonable grounds for believing that, having regard to all the circumstances, the organiser or trader is unable to, or has failed to, carry out the obligations under this Act owed by it to travellers in respect of package travel contracts or linked travel arrangements;
+
+"insurance undertaking" means a person who carries out non-life insurance business authorised under the European Communities (Non-Life Insurance) Framework Regulations 1994 ( S.I. No. 359 of 1994 ) or under the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015);
+
+"lack of conformity" means a failure to perform or improper performance of the travel services included in a package;
+
+"linked travel arrangement" means at least two different types of travel services purchased for the purpose of the same trip or holiday, not constituting a package, resulting in the conclusion of separate contracts with the individual travel service providers, if a trader facilitates—
+
+(*a*) on the occasion of a single visit or contact with the trader’s point of sale, the separate selection and separate payment of each travel service by travellers, or
+
+(*b*) in a targeted manner, the procurement of at least one additional travel service from another trader where a contract with such other trader is concluded not later than 24 hours after the confirmation of the booking of the first travel service,
+
+but where—
+
+(i) not more than one type of travel service referred to in *paragraphs (a)*, *(b)* or *(c)* of the definition of ‘travel service’ and
+
+(ii) one or more tourist services referred to in *paragraph (d)* of that definition,
+
+are purchased, those services do not constitute a linked travel arrangement if the tourist services referred to in *paragraph (d)* of that definition do not exceed 25 per cent of the combined value of the services and are not advertised as, and do not otherwise represent, an essential feature of the trip or holiday;]
+
+“the Minister” means the Minister for Transport, Energy and Communications;
+
+“offer” includes an invitation to a person, whether by means of advertising or otherwise, to make an offer to buy a package;
+
+F8["organiser" means a trader who combines and sells or offers for sale packages, either directly or through another trader or together with another trader, or a trader who transmits the traveller’s data to another trader in accordance with *paragraph (b)(v)* of the definition of ‘package’ in this subsection;]
+
+F9["package" means a combination of at least two different types of travel services for the purpose of the same trip or holiday, if—
+
+(*a*) those services are combined by one trader, including at the request of or in accordance with the selection of the traveller, before a single contract on all services is concluded, or
+
+(*b*) irrespective of whether separate contracts are concluded with individual travel service providers, those services are—
+
+(i) purchased from a single point of sale and those services have been selected before the traveller agrees to pay,
+
+(ii) offered, sold or charged at an inclusive or total price,
+
+(iii) advertised or sold under the term ‘package’ or under a similar term,
+
+(iv) combined after the conclusion of a contract by which a trader entitles the traveller to choose among a selection of different types of travel services, or
+
+(v) purchased from separate traders through linked online booking processes where—
+
+(I) the name, payment details and e-mail address of the traveller are transmitted from the trader with whom the first contract is concluded to another trader or traders, and
+
+(II) a contract with the latter trader or traders is concluded not later than 24 hours after the confirmation of the booking of the first travel service,
+
+but a combination of travel services where not more than one type of travel service referred to in *paragraph (a)*, *(b)* or *(c)* of the definition of "travel service" is combined with one or more tourist services referred to in *paragraph (d)* of that definition is not a package if the latter tourist service or services —
+
+(*a*) do not exceed 25 per cent of the value of the combination and are not advertised as and do not otherwise represent an essential feature of the combination; or
+
+(*b*) are selected and purchased only after the performance of a travel service referred to in *paragraph (a)*, *(b)* or *(c)* of the definition of ‘travel service’ has started;]
+
+F3[...]
+
+F6["package travel contract" means a contract on the package as a whole or, if the package is provided under separate contracts, all contracts covering travel services included in the package;
+
+"point of sale" means—
+
+(*a*) any retail premises, whether movable or immovable,
+
+(*b*) a retail website or similar online sales facility, including where retail websites or online sales facilities are presented to travellers as a single facility, or
+
+(*c*) a telephone service;]
+
+“premises” includes any building, dwelling, temporary construction, vehicle, ship or aircraft;
+
+“record” means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
+
+F10["repatriation" means the traveller’s return to the place of departure or to another place the contracting parties agree upon;]
+
+F11["retailer" means a trader other than the organiser who sells or offers for sale packages combined by an organiser;]
+
+F7["start of the package" means the beginning of the performance of travel services included in the package;
+
+"trader" means a natural person or legal person, irrespective of whether privately or publicly owned, who is acting, including through any other person acting in the name of the trader or on behalf of the trader, for purposes relating to the trader’s trade, business, craft or profession in relation to contracts to which this Act applies, whether acting in the capacity of organiser, retailer, trader facilitating a linked travel arrangement or as a travel service provider;
+
+"travel service" means—
+
+(*a*) the carriage of passengers,
+
+(*b*) accommodation which is not intrinsically part of carriage of passengers and is not for residential purposes,
+
+(*c*) the rental of—
+
+(i) cars,
+
+(ii) other motor vehicles within the meaning of Article 3(11) of Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007[^2], or
+
+(iii) motorcycles requiring a Category A driving licence in accordance with Regulation 9(1), (3) and (4) of the Road Traffic (Licensing of Drivers) Regulations 2006 ( S.I. No. 537 of 2006 ), or
+
+(*d*) any other tourist service not intrinsically part of a travel service within the meaning of *paragraphs (a)*, *(b)* or *(c)*;
+
+"traveller" means any person who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of this Act;
+
+"unavoidable and extraordinary circumstances" means a situation beyond the control of the party who seeks to rely on such a situation and the consequences of which could not have been avoided even if all reasonable measures had been taken.]
+
+(2) F12[...]
+
+F13[(3) (*a*) Subject to *paragraph (b)*, this Act applies to packages offered for sale or sold by traders to travellers and to linked travel arrangements facilitated by traders for travellers.
+
+(*b*) This Act does not apply to:
+
+(i) packages and linked travel arrangements covering a period of less than 24 hours unless overnight accommodation is included;
+
+(ii) packages offered for sale or sold, and linked travel arrangements facilitated, occasionally and on a not-for-profit basis for a limited group of travellers;
+
+(iii) packages and linked travel arrangements purchased on the basis of a general agreement for the arrangement of business travel between a trader and another person who is acting for purposes relating to the latter person’s trade, business, craft or profession.]
+
+(4) In this Act—
+
+(*a*) a reference to a section or a Part is a reference to a section or a Part of this Act unless it is indicated that a reference to some other enactment is intended;
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+(5) In this Act a reference to any enactment shall be construed as a reference to that enactment, as adapted or extended by or under any subsequent enactment including this Act.
+
+(6) A word or expression that is used in this Act and is also used in the Directive has, unless the contrary intention appears, the meaning in this Act that it has in the Directive.
+
+(7) In construing a provision of this Act, a court shall give to it a construction that will give effect to the Directive and, for this purpose a court shall have regard to the provisions of the Directive including its preamble.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2, F3: Deleted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(a).
+>
+> F4, F5, F6, F7: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(b).
+>
+> F8: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(c)(i).
+>
+> F9: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(c)(ii).
+>
+> F10: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(c)(iii).
+>
+> F11: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(1)(c)(iv).
+>
+> F12: Deleted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 3(2).
+>
+> F13: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 4.
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to "Director" construed (1.05.2007) by *Consumer Protection Act 2007* (19/2007), ss. 2, 37(1), (2), (3) and sch. 1 pt. 1, subject to transitional provisions in s. 37(4)-(5), S.I. 179 of 2007 (establishment day).
+>
+> **37.**— (1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred to the Agency on the establishment day.
+>
+> (2) The functions vested in the Director by or under the existing enactments are transferred to the Agency on the establishment day.
+>
+> (3) References to the Director and the office of the Director contained in any Act (within the meaning of the Interpretation Act 2005 ) or instrument (including a licence or certificate granted, nomination made or consent or authorisation given thereunder) relating to any functions transferred by subsection (2) shall, on and after the establishment day, be read as references to the Agency.
+>
+> SCHEDULE 1
+>
+> Existing Enactments
+>
+> *Section 2 .*
+>
+> PART 1
+>
+> Enactments — Acts of the Oireachtas
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>No. 17 of 1995</td><td>Package Holidays and Travel Trade Act 1995</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> C4: Functions transferred and references to "Minister" construed (27.02.2001) by *Aviation Regulation Act 2001* (1/2001), s. 9(1), (2) and (3), subject to transitional provisions in s. 9(4)-(7), S.I. No. 47 of 2001, art. 2 (establishment day).
+>
+> **9.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are hereby transferred, on the establishment day, to the Commission.
+>
+> (2) There are hereby transferred, on the establishment day, to the Commission the functions vested in the Minister by or under each of the following—
+>
+> ...
+>
+> (*b*) the Package Holidays and Travel Trade Act, 1995 ,
+>
+> ...
+>
+> (3) References to the Minister contained in any Act or instrument relating to any functions transferred by subsection (2) shall, on the establishment day, be construed as references to the Commission.
+>
+> ...
+
+### 3. Organiser.
+
+**3.** — F14[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Repealed (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(1).
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: power pursuant to section exercised (29.09.1995) by *Package Holidays and Travel Trade Act, 1995 (Occasional Organisers) Regulations 1995* (S.I. No. 271 of 1995); revoked (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(2)(b).
+
+### 4. Expenses.
+
+**4.** — The expenses incurred by the Minister, any other Minister of the Government or the Director in the administration of this Act (including the costs and expenses incurred in the investigation and prosecution of offences) shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 5. Fees.
+
+**5.** — F15[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Repealed (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(1).
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: functions transferred and references to "Department" and "Minister" for Finance construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2 and 3 and sch. 1 part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-9; section repealed as per F-note above.
+>
+> E6: Previous affecting provision: power pursuant to section exercised (1.09.1995) by *Approved Bodies (Fees) Regulations 1995* (S.I. No. 236 of 1995), in effect as per reg. 2; revoked (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(2)(c).
+
+### 6. Offences.
+
+**6.** — F16[(1) A person who commits an offence under this Act F17[(other than *section 22(11)* or *22A(15)*)] is liable on summary conviction to a class A fine.
+
+(2) A person who commits an offence under F18[*section 22(11)* or *22A(15)*] is liable—
+
+(*a*) on summary conviction to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.]
+
+(3) Where an offence under this Act has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to have been facilitated by any neglect on the part of any director, manager, secretary or other similar officer of such body or of any person who was purporting to act in any such capacity, that officer or person, as well as such body, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first mentioned offence.
+
+(4) No contract shall become enforceable or unenforceable and no right of action in civil proceedings in respect of any loss shall arise by reason only of the commission of an offence under *section 22* F19[or *22A*].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 55(a), commenced on enactment. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F17, F18: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 5(1)(a) and (b).
+>
+> F19: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 5(1)(c).
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: subss. (1), (2) amended (30.06.2005) by *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (12/2005), s. 83(a)(i), (ii), S.I. No. 323 of 2005, art. 3(b); substituted as per F-notes above.
+
+### 7. Proceedings.
+
+**7.** — (1) Summary proceedings in respect of an offence under any section of this Act may be brought and prosecuted by the Director.
+
+F20[(2) Summary proceedings may be brought and prosecuted by the Commission for Aviation Regulation in respect of an offence under —
+
+(*a*) *sections 21* and *26*, and
+
+(*b*) *sections 22* and *22A*, only in so far as the offence relates to the provision of security for packages or linked travel arrangements for the carriage of passengers referred to in *paragraph (a)* in the definition of ‘travel services’ outside the State and Northern Ireland, irrespective of whether or not the carriage commences in the State or in another Member State.]
+
+(3) Nothwithstanding the provisions of section 10(4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be commenced at any time within F21[2 years] from the date on which the offence was committed.
+
+(4) (*a*) Where a judge of the District Court proposes to make an order for the release on bail of a defendant charged with an offence under this Act or the Act of 1982 who is ordinarily resident outside the State, the judge may (unless satisfied that all documents required by law to be served on the defendant in connection with or for the purpose of the charge or of any proceedings arising out of or connected with the charge can be duly served on the defendant in the State) direct that those documents may, in lieu of being served on the defendant, be served on a person specified in the direction who is ordinarily resident in the State.
+
+(*b*) Service of a document referred to in this subsection on a person specified in the direction shall be deemed for all purposes to be served on the defendant.
+
+(5) In the case of a person ordinarily resident, or a body corporate established, outside the State service of documents relating to the charge may be effected by being served either on the person to be charged or on a person being a nominated agent under *section 10 (1) (i)* F22[...].
+
+(6) A body corporate may be sent forward for trial on indictment for an offence under *section 21, 22 (3)* or *26* with or without recognisances.
+
+(7) Where a person is convicted of an offence under this Act, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Minister or the Director, as the case may be, the costs and expenses, measured by the court, incurred by the Minister or the Director, as the case may be, in relation to the investigation, detection and prosecution of the offence.
+
+(8) The provisions of section 382 of the Companies Act, 1963, shall extend to every body corporate (whether or not a company within the meaning of that Act) charged on indictment with an offence under *section 21, 22 (3)* or *26* .
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 5(2)(a).
+>
+> F21: Substituted (30.06.2005) by *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (12/2005), s. 83(b), S.I. No. 323 of 2005, art. 3(b).
+>
+> F22: Deleted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 5(2)(b).
+
+### 8. Particular functions of Director.
+
+**8.** — The Director may—
+
+(*a*) request persons engaging in or proposing to engage in such practices, business or activities as are, or are likely to be, contrary to the obligations imposed on them by any provision of this Act to refrain from such practices, business or activities;
+
+(*b*) institute proceedings in the High Court for orders requiring persons engaging or proposing to engage in any practices, business or activities as are, or are likely to be, contrary to the obligations imposed on them by any provision of this Act to discontinue or refrain from such practices, business or activities.
+
+### 9. Laying of regulations before Houses of Oireachtas.
+
+**9.** — Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## PART II — Regulation of Travel Contract
+
+### 10. Brochure content.
+
+F23[**10.**— (1) Before the traveller is bound by any package travel contract or any corresponding offer, the organiser and, where the package is sold through a retailer, the retailer, shall provide the traveller with the standard information set out in the relevant form in *Part A* or *B* of *Schedule 1*, as appropriate, and, where applicable to the package, with the following information—
+
+(*a*) the main characteristics of the travel services, namely—
+
+(i) the travel destination or destinations, itinerary and periods of stay, the dates and, where accommodation is included, the number of nights included,
+
+(ii) the means, characteristics and categories of transport, the points, dates and time, or approximate time where exact times are not yet determined, of departure and return, the duration and places of intermediate stops and transport connections,
+
+(iii) the location, main features and, where applicable, tourist category of the accommodation under the rules of the country of destination,
+
+(iv) the meal plan,
+
+(v) visits, excursions or other services included in the total price agreed for the package,
+
+(vi) where it is not apparent from the context, whether any of the travel services will be provided to the traveller as part of a group and, if so, where possible, the approximate size of the group,
+
+(vii) the language in which other tourist services will be carried out where those services provided for the benefit of the traveller depend on effective oral communication; and
+
+(viii) whether the trip or holiday is generally suitable for persons with reduced mobility and, upon the traveller’s request, precise information on the suitability of the trip or holiday taking into account the traveller’s needs,
+
+(*b*) the trading name, geographical address, telephone number and email address of the organiser and, where the package is sold through a retailer, the retailer,
+
+(*c*) the total price of the package inclusive of taxes and, where applicable, of all additional fees, charges and other costs or, where those costs cannot reasonably be calculated in advance of the conclusion of the contract, an indication of the type of additional costs for which the traveller may be liable,
+
+(*d*) the arrangements for payment, including any amount or percentage of the price which is to be paid as a down payment and the timetable for payment of the balance, or financial guarantees to be paid or provided by the traveller,
+
+(*e*) the minimum number of persons required for the package to take place and the time-limit, referred to in *section 18A(4)(a)*, before the start of the package for the possible termination of the contract if that number is not reached,
+
+(*f*) general information on passport and visa requirements, including approximate periods for obtaining visas, and information on health formalities, of the country of destination,
+
+(*g*) information that the traveller may terminate the contract at any time before the start of the package in return for payment of an appropriate termination fee, or, where applicable, the standardised termination fees requested by the organiser, in accordance with *section 18A(1)*;
+
+(*h*) information on any term in the contract providing for the traveller to take out optional or compulsory insurance to cover the cost of termination of the contract by the traveller or the cost of assistance, including repatriation, in the event of accident, illness or death, but nothing in this Act makes it compulsory for a traveller to purchase any such insurance and no such term in the contract affects any rights of a traveller provided for in this Act, in European Union passenger rights legislation or the relevant international conventions in relation to the cost of the termination of the contract or the cost of assistance, or both, as the case may be;
+
+(*i*) in the case of packages offered for sale by an organiser who has no place of business in the State, a nominated agent with an address within the State who will accept service on behalf of and represent the organiser in any proceedings (including criminal proceedings) in respect of or arising out of or connected with any package travel contract or brought pursuant to or in connection with any provision of this Act.
+
+(2) Where a package travel contract is concluded by telephone, the organiser and, where the package is sold through a retailer, the retailer, shall provide the traveller with the standard information set out in *Part B* of *Schedule 1*, and the information set out in *paragraphs (a)* to *(h)* of *subsection (1)*.
+
+(3) (*a*) With respect to *paragraph (b)(v)* of the definition of package in *section 2(1)*, the organiser, and the trader to whom the data referred to in that paragraph are transmitted, shall each ensure that, before the traveller is bound by a contract or any corresponding offer, the information set out in *paragraphs (a)* to *(h)* of *subsection (1)* is provided to the traveller, in so far as that information is relevant to the respective travel services offered by the organiser or the trader, as the case may be.
+
+(*b*) The organiser shall provide to the traveller, at the same time as the information referred to in *paragraph (a)* is provided, the standard information set out in *Part C* of *Schedule 1*.
+
+(4) The information referred to in *subsections (1)* to *(3)* shall be provided in a clear, comprehensible and prominent manner and, where such information is provided in writing, it shall be legible.
+
+(5) (*a*) An organiser who contravenes *subsection (1)*, *(2)*, *(3)* or *(4)* shall be guilty of an offence.
+
+(*b*) A retailer, where a package is sold through the retailer, who contravenes *subsection (1)*, *(2)* or *(4)* shall be guilty of an offence.
+
+(*c*) A trader who contravenes *subsection (3)(a)* or *(4)* shall be guilty of an offence.
+
+(*d*) In proceedings for an offence under *subsection (2)* it shall be a defence for an organiser if he or she can show that the contravention was due to the act or omission of the trader in failing to provide the organiser with the information required under that paragraph.
+
+(6) In *subsection (1)(h)*, references to “European Union passenger rights legislation” and the “relevant international conventions” shall be construed in accordance with *section 19(14)* and *section 20(8)* and *(9)*, respectively.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 6.
+
+### 10A. Binding character of pre-contractual information and conclusion of the package travel contract.
+
+F24[**10A.**— (1) The information provided to the traveller pursuant to *section 10(1)(a)*, *(c)*, *(d)*, *(e)* and *(g)* shall form an integral part of the package travel contract and shall not be altered unless the contracting parties expressly agree to that alteration.
+
+(2) The organiser and, where a package is sold through a retailer, the retailer, shall communicate all changes to the pre-contractual information to the traveller in a clear, comprehensible and prominent manner before the conclusion of the package travel contract.
+
+(3) Where the organiser and, where a package is sold through a retailer, the retailer, has not complied with the requirement to provide information on additional fees, charges or other costs referred to in *section 10(1)(c)* before the conclusion of the package travel contract, the traveller shall not be liable for those fees, charges or other costs.
+
+(4) An organiser and, where a package is sold through a retailer, the retailer, who contravenes *subsection (2)* shall be guilty of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 7.
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 11. Liability for misleading brochures.
+
+**11.**— F25[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Repealed (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(1).
+
+### 12. Information to be provided before conclusion of contract.
+
+**12.**— F26[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Repealed (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(1).
+
+### 13. Information to be provided before start of package.
+
+F27[**13.**— (1) The organiser of the package travel contract shall ensure that the package travel contract or confirmation of the contract sets out the full content of the agreement which shall include the information referred to in *section 10(1)(a)* to *(h)* and the following information:
+
+(*a*) any special requirements of the traveller which the organiser has accepted,
+
+(*b*) that the organiser is—
+
+(i) responsible for the proper performance of all travel services included in the contract in accordance with *section 19*, and
+
+(ii) obliged to provide assistance if the traveller is in difficulty in accordance with *section 20B*;
+
+(*c*) the name, address and contact details of —
+
+(i) the Commission for Aviation Regulation or, where the organiser is established in another Member State, the competent authority charged by that Member State with responsibility for insolvency protection, and
+
+(ii) the person with whom the organiser has arranged security in the event of the organiser’s insolvency in accordance with this Act or, where the organiser is established in another Member State, with the law of that Member State giving effect to Article 17 of the Directive;
+
+(*d*) the name, address, telephone number, e-mail address and, where applicable, the fax number of the organiser’s local representative, of a contact point or of another service which enables the traveller to contact the organiser quickly and communicate with the organiser efficiently, to request assistance when the traveller is in difficulty or to complain about any lack of conformity perceived during the performance of the package;
+
+(*e*) that the traveller is required to communicate any lack of conformity which he or she perceives during the performance of the package in accordance with *section 19(2)*;
+
+(*f*) where a minor who is unaccompanied by a parent or another person responsible for him or her travels on the basis of a package travel contract which includes accommodation, information enabling direct contact with the minor or the person responsible at the minor’s accommodation;
+
+(*g*) the in-house complaint handling procedures available and the alternative dispute resolution (“ADR”) mechanisms pursuant to the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of 2015), and, where applicable, the ADR entity by which the trader is covered and the online dispute resolution platform pursuant to Regulation (EU) No. 524/2013 of the European Parliament and of the Council of 21 May 2013[^3] and the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 500 of 2015);
+
+(*h*) the traveller’s right to transfer the package travel contract to another traveller in accordance with *section 16*.
+
+(2) (*a*) With respect to *paragraph (b)(v)* of the definition of package in *section 2(1)*, the trader to whom the data referred to in that paragraph are transmitted shall inform the organiser of the conclusion of the contract leading to the creation of a package and shall provide the organiser with the information necessary to comply with the organiser’s obligations under this Act.
+
+(*b*) On being informed by a trader that a package has been created, the organiser shall provide to the traveller the information referred to in *paragraphs (a)* to *(h)* of *subsection (1)* on a durable medium.
+
+(3) The information referred to in *subsections (1)* and *(2)* shall be provided in a clear, comprehensible and prominent manner.
+
+(4) The organiser shall, in reasonable time prior to the start of the package, provide the traveller with—
+
+(*a*) the necessary receipts, vouchers and tickets for the travel services provided as part of the package,
+
+(*b*) information on the scheduled times of departure,
+
+(*c*) the deadline for check-in, where applicable, and
+
+(*d*) the scheduled times for intermediate stops, transport connections and arrival.
+
+(5) (*a*) An organiser who contravenes *subsection (1)* or *(2)(b)* shall be guilty of an offence.
+
+(*b*) In proceedings for an offence under *subsection (2)(b)* it shall be a defence for an organiser if he or she can show that the contravention was due to the act or omission of the trader in failing to provide the organiser with the information required under that paragraph.
+
+(6) A trader who contravenes *subsection (2)(a)* shall be guilty of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 8.
+
+### 14. Essential terms of contract.
+
+**14.**— F28[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Repealed (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(1).
+
+### 15. Form of contract.
+
+F29[**15.**— (1) The organiser shall ensure that a package travel contract is in plain and intelligible language, and where the contract is in writing, it shall be legible.
+
+(2) The organiser, and, where a package is sold through a retailer, the retailer, shall—
+
+(*a*) at the conclusion of the package travel contract or without undue delay after the conclusion of the contract, provide the traveller with a copy or confirmation of the contract on a durable medium,
+
+(*b*) at the traveller’s request, provide a paper copy of the package travel contract to the traveller where the contract has been concluded in the simultaneous physical presence of the parties, and
+
+(*c*) where a package travel contract is an off-premises contract as defined in Regulation 2(1) of the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013), provide a copy or confirmation of the package travel contract to the traveller on paper or, with the agreement of the traveller, on another durable medium.
+
+(3) (*a*) An organiser who contravenes *subsection (1)* or *(2)* shall be guilty of an offence.
+
+(*b*) In proceedings for an offence under *subsection (2)* it shall be a defence for an organiser if he or she can show that the failure to comply with that subsection is due to the act or omission of the retailer in failing to provide the traveller with a copy or confirmation of the contract required under *subsection (2)*.
+
+(4) (*a*) A retailer who contravenes *subsection (2)* shall be guilty of an offence.
+
+(*b*) In proceedings for an offence under *subsection (2)* it shall be a defence for a retailer if he or she can show that the failure to comply with that subsection is due to the act or omission of the organiser in failing to provide the retailer with a copy or confirmation of the contract required under *subsection (2)* and the retailer took all reasonable steps to obtain a copy or confirmation, as the case may be, from the organiser with which to provide the traveller.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 9.
+
+### 16. Transfer of booking.
+
+F30[**16.**— (1) (*a*) A traveller may, before the start of the package, transfer the package travel contract to a person who satisfies all the conditions applicable to that contract on giving reasonable notice on a durable medium to the organiser.
+
+(*b*) For the purposes of *paragraph (a)*, notice given by the traveller to the organiser not later than 7 days before the start of the package shall be deemed to be reasonable notice.
+
+(2) The transferor and the transferee of the package travel contract shall be jointly and severally liable for the payment of the balance due under the contract and for any additional fees, charges or other costs arising from the transfer.
+
+(3) The organiser shall inform the transferor of the actual costs of the transfer and those costs shall not be unreasonable and shall not exceed the actual cost incurred by the organiser due to the transfer of the package travel contract.
+
+(4) The organiser shall provide the transferor with a statement justifying, and the basis for the calculation of, the additional fees, charges or other costs arising from the transfer of the package travel contract.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 10.
+
+### 17. Contract price revision.
+
+F31[**17.**— (1) After the conclusion of the package travel contract, prices may only be increased if there is a term in the contract—
+
+(*a*) expressly stating that the price may be increased, and
+
+(*b*) that the traveller is entitled to a price reduction in the circumstances specified in *subsection (6)*.
+
+(2) Where *subsection (1)* applies, the package travel contract shall state how price revisions will be calculated.
+
+(3) The price of the package travel contract may only be increased as a direct consequence of changes in—
+
+(*a*) the price of the carriage of passengers resulting from the cost of fuel or other power sources,
+
+(*b*) the level of taxes or fees on the travel services included in the contract imposed by third parties not directly involved in the performance of the package, including tourist taxes, landing taxes or embarkation or disembarkation fees at ports and airports, or
+
+(*c*) the exchange rates relevant to the package.
+
+(4) If the price increase referred to in *subsection (1)* exceeds 8 per cent of the total price of the package, *subsections (2)* to *(7)* of *section 18* shall apply.
+
+(5) Irrespective of the extent of a price increase in respect of a package travel contract, an organiser may only increase the price of a package if the organiser notifies the traveller clearly and in comprehensible language of the price increase, with a statement justifying, and the basis for the calculation of, the increase, on a durable medium not later than 20 days before the start of the package.
+
+(6) If the package travel contract contains a term expressly stating that the price may be increased as referred to in *subsection (1)*, the traveller shall be entitled to a price reduction corresponding to any decrease in the costs referred to in *paragraph (a)*, *(b)* or *(c)* of *subsection (3)* that occur after the conclusion of the contract but before the start of the package.
+
+(7) Where there is a price decrease in the circumstances referred to in *subsection (6)*, the organiser may deduct actual administrative expenses from the refund of monies owed to the traveller and shall, at the request of the traveller, provide a statement justifying, and the basis for the calculation of, those administrative expenses.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 11.
+
+### 18. Alteration or cancellation by organiser.
+
+F32[**18.**— (1) The organiser shall not unilaterally change any term of a package travel contract before the start of the package, other than the price in accordance with *section 17*, unless—
+
+(*a*) the organiser has expressly reserved that right in the contract,
+
+(*b*) the change is insignificant, and
+
+(*c*) the organiser informs the traveller of the change in a clear, comprehensible and prominent manner on a durable medium.
+
+(2) If, before the start of the package, the organiser—
+
+(*a*) is constrained to alter significantly any of the main characteristics of the travel services as referred to in *section 10(1)(a)*,
+
+(*b*) cannot fulfil the special requirements as referred to in *section 13(1)(a)*, or
+
+(*c*) proposes to increase the price of the package by more than 8 per cent in accordance with *section 17(4)*,
+
+the traveller may within a reasonable period specified by the organiser—
+
+(i) accept the proposed change, or
+
+(ii) terminate the contract without paying a termination fee.
+
+(3) If the traveller terminates the package travel contract under *subsection (2)(ii)*, the traveller may accept a substitute package where this is offered by the organiser, which shall, where possible, be of equivalent quality to, or a higher quality than, the original package.
+
+(4) The organiser shall, without undue delay, inform the traveller in a clear, comprehensible and prominent manner on a durable medium of—
+
+(*a*) any proposed change referred to in *subsection (2)(a)*, *(b)* or *(c)* and, where *subsection (5)* applies, the impact of that proposed change on the price of the package,
+
+(*b*) a reasonable period within which the traveller shall inform the organiser of his or her decision under *subsection (2)(i)* or *(ii)*,
+
+(*c*) the consequences of the traveller’s failure to respond within the period referred to in *paragraph (b)*, and
+
+(*d*) in the circumstances referred to in *subsection (3)*, the substitute package offered by the organiser and the price of that substitute package.
+
+(5) Where the changes to the package travel contract referred to in *subsection (2)(a)*, *(b)* or *(c)* or the substitute package referred to in *subsection (3)* result in a package of lower quality or cost, the traveller shall be entitled to a corresponding price reduction.
+
+(6) Where the traveller terminates the package travel contract under *subsection (2)(ii)* and the traveller does not accept a substitute package under *subsection (3)*, the organiser shall refund all payments made by or on behalf of the traveller without undue delay and in any event not later than 14 days after the contract is terminated.
+
+(7) In the circumstances referred to in *subsection (6)*, *subsections (2)* to *(8)* of *section 20* shall apply with any necessary modifications.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 12.
+
+### 18A. Termination of the package travel contract and the right of withdrawal before the start of the package.
+
+F33[**18A.**— (1) A traveller may terminate a package travel contract at any time before the start of the package and, where the traveller terminates the contract, he or she may be required to pay to the organiser an appropriate and justifiable termination fee in accordance with *subsection (2)*.
+
+(2) (*a*) The package travel contract may specify reasonable standardised termination fees based on the time of the termination of the contract before the start of the package and the expected cost savings and income from alternative deployment of the travel services.
+
+(*b*) Where no standardised termination fees are specified in the package travel contract, the amount of the termination fee shall correspond to the price of the package minus the cost savings and income from alternative deployment of the travel services.
+
+(3) At the request of the traveller, the organiser shall provide to the traveller a statement justifying the amount of the termination fees.
+
+(4) (*a*) Notwithstanding *subsections (1)* and *(2)*, and subject to *paragraph (b)*, the traveller shall have the right to terminate the package travel contract before the start of the package in the event of unavoidable and extraordinary circumstances occurring at the place of destination or its immediate vicinity and significantly affecting the performance of the package, or which significantly affect the carriage of passengers to the destination.
+
+(*b*) Where the traveller terminates the package travel contract under paragraph (a), the traveller shall—
+
+(i) not be required to pay any termination fee,
+
+(ii) be entitled to a full refund from the organiser of all payments made for the package without undue delay, and
+
+(iii) not be entitled to additional compensation.
+
+(5) The organiser may terminate the package travel contract where—
+
+(*a*) the number of persons enrolled for the package is smaller than the minimum number stated in the contract and the organiser notifies the traveller of the termination of the contract within the period fixed in the contract, but in any event not later than—
+
+(i) 20 days before the start of the package in the case of trips lasting more than six days,
+
+(ii) 7 days before the start of the package in the case of trips lasting between two and six days, or
+
+(iii) 48 hours before the start of the package in the case of trips lasting less than two days,
+
+or
+
+(*b*) the organiser is prevented from performing the contract because of unavoidable and extraordinary circumstances and notifies the traveller of the termination of the contract without undue delay before the start of the package.
+
+(6) Where the organiser terminates the package travel contract in accordance with *subsection (5)*, the organiser shall provide the traveller with a full refund of any payments made for the package, but shall not be liable for additional compensation.
+
+(7) The organiser shall—
+
+(*a*) reimburse any payments made by or on behalf of the traveller for the package minus the appropriate termination fee under *subsections (1)* and *(2)*, or
+
+(*b*) make any refunds due to the traveller required under *subsection (4)* or *(6)*, as the case may be,
+
+without undue delay and in any event not later than 14 days after the package travel contract is terminated.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 13.
+>
+> **Editorial Notes:**
+>
+> E9: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 19. Significant failure of performance after start of the package.
+
+F34[**19.**— (1) The organiser shall be responsible for the performance of the travel services included in the package travel contract, irrespective of whether those services are to be performed by the organiser or by other travel service providers.
+
+(2) The traveller shall inform the organiser without undue delay, taking into account the circumstances of the case, of any lack of conformity which he or she perceives during the performance of a travel service included in the package travel contract.
+
+(3) The organiser shall remedy any lack of conformity unless —
+
+(*a*) it is impossible to remedy the lack of conformity, or
+
+(*b*) it entails disproportionate costs, taking into account the extent of the lack of conformity and the value of the travel services affected.
+
+(4) If the organiser fails to remedy the lack of conformity referred to in *subsection (3)* due to the circumstances referred to in *paragraph (a)* or *(b)* of that subsection, *section 20* shall apply.
+
+(5) Other than in the circumstances referred to in *subsection (3)*, where the organiser fails to remedy the lack of conformity within a reasonable period specified by the traveller, the traveller may do so and may request, from the organiser, reimbursement of the expenses incurred by him or her which were necessary to remedy the lack of conformity which shall be paid by the organiser.
+
+(6) Notwithstanding *subsection (5)*, it shall not be necessary for the traveller to specify a time-limit within which the lack of conformity is to be remedied by the organiser if the organiser refuses to remedy the lack of conformity or if immediate remedy is required.
+
+(7) (*a*) Where a significant proportion of the travel services cannot be provided as agreed in the package travel contract, the organiser shall offer, at no extra cost to the traveller, suitable alternative arrangements for the continuation of the package of, where possible, equivalent quality to, or a higher quality than, those specified in the contract, including where the traveller’s return to the place of departure is not provided as agreed.
+
+(*b*) Where the proposed alternative arrangements offered by the organiser referred to in *paragraph (a)* result in a package of lower quality than that specified in the package travel contract, the organiser shall grant the traveller a corresponding price reduction.
+
+(*c*) The traveller may reject the proposed alternative arrangements offered by the organiser referred to in *paragraph (a)* or *(b)* only if they are not comparable to what was agreed in the package travel contract or the price reduction granted is inadequate, as the case may be.
+
+(8) Where a lack of conformity substantially affects the performance of the package and the organiser has failed to remedy it within a reasonable period specified by the traveller under *subsection (5)*, the traveller may terminate the package travel contract without paying a termination fee and may, where appropriate in the circumstances, request, in accordance with *section 20*, a price reduction or compensation for damages or both which shall be paid by the organiser to the traveller.
+
+(9) If it is impossible to make alternative arrangements in accordance with *subsection (7)(a)* or the traveller rejects the proposed alternative arrangements offered to him or her in accordance with *subsection (7)(c)*, the traveller is, where appropriate in the circumstances, entitled, in accordance with *section 20*, to a price reduction or compensation for damages or both, without terminating the package travel contract, which shall be paid by the organiser to the traveller.
+
+(10) If the package includes the carriage of passengers, the organiser shall, in the cases referred to in *subsections (8)* and *(9)*, provide for the repatriation of the traveller by equivalent means of transport without undue delay and at no extra cost to the traveller.
+
+(11) (*a*) Subject to *paragraph (b)*, for so long as it is impossible to ensure the return of a traveller as agreed in the package travel contract due to unavoidable and extraordinary circumstances, the organiser shall be liable for the cost of necessary accommodation for the traveller, where possible of equivalent standard, for a period not exceeding three nights.
+
+(*b*) Where European Union passenger rights legislation applicable to the relevant means of transport for the return of a traveller apply, the organiser shall be liable for the costs of necessary accommodation of the traveller for any such longer periods as are provided for under the relevant provisions of that legislation.
+
+(12) (*a*) The limitation on the liability of an organiser for the cost of necessary accommodation for a traveller for the period referred to in *subsection (11)* shall not apply to any person with reduced mobility and any person accompanying such a person, pregnant women, unaccompanied minors and persons in need of specific medical assistance, provided that the organiser has been notified of the particular needs of such persons not later than 48 hours before the start of the package.
+
+(*b*) In *paragraph (a)*, "person with reduced mobility" means any person whose mobility when using transport is reduced due to any physical disability (sensory or locomotor, permanent or temporary), intellectual disability or impairment, or any other cause of disability, or age, and whose situation needs appropriate attention and the adaptation to his or her particular needs of the service made available to all passengers.
+
+(13) The organiser shall not be entitled to rely on the existence of unavoidable and extraordinary circumstances to limit the organiser’s liability under *subsection (11)* where the relevant transport provider is not entitled to rely on such circumstances under applicable European Union passenger rights legislation.
+
+(14) In this section, “European Union passenger rights legislation” means:
+
+(*a*) Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No. 295/91[^4];
+
+(*b*) Regulation (EC) No. 1371/2007 of the European Parliament and of the Council of 23 October 2007 on rail passengers’ rights and obligations[^5];
+
+(*c*) Regulation (EU) No. 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation (EC) No. 2006/2004[^6];
+
+(*d*) Regulation (EU) No. 181/2011 of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation (EC) No. 2006/2004[^7].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 14.
+
+### 20. Extent and financial limits of liability.
+
+F35[**20.**— (1) A traveller shall be entitled to an appropriate price reduction from an organiser for any period during which there was lack of conformity, unless the organiser shows that the lack of conformity is attributable to the traveller.
+
+(2) Subject to *subsection (3)*, a traveller shall be entitled to receive, without undue delay, appropriate compensation from an organiser for any damage which the traveller sustains as a result of any lack of conformity.
+
+(3) A traveller shall not be entitled to compensation from an organiser for damage sustained by the traveller as a result of any lack of conformity where an organiser can show that the lack of conformity is—
+
+(*a*) attributable to the traveller,
+
+(*b*) attributable to a third party unconnected with the provision of the travel services included in the package travel contract and is unforeseeable or unavoidable, or
+
+(*c*) due to unavoidable and extraordinary circumstances.
+
+(4) Where the relevant international conventions limit the extent of or the conditions under which compensation shall be paid by a travel service provider carrying out a travel service which is part of a package, the same limitation shall apply to the liability, if any, of an organiser to pay compensation to a traveller under this Act.
+
+(5) Without prejudice to *subsection (4)*, a package travel contract may include a term limiting the amount of compensation which an organiser shall pay to a traveller for damage sustained by the traveller as a result of any lack of conformity, which compensation shall not be less than three times the total price of the package, but such term shall not have the effect or purport to have the effect of limiting compensation in respect of —
+
+(*a*) death or personal injury, or
+
+(*b*) damage caused intentionally or negligently.
+
+(6) Subject to *subsection (7)*, any right of travellers to compensation or price reduction, including the right to present claims, under this Act shall not affect the right of travellers, including the right to present claims, under:
+
+(*a*) Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No. 295/91[^8];
+
+(*b*) Regulation (EC) No. 1371/2007 of the European Parliament and of the Council of 23 October 2007 on rail passengers’ rights and obligations[^9];
+
+(*c*) Regulation (EC) No. 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents[^10];
+
+(*d*) Regulation (EU) No. 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation (EC) No. 2006/2004[^11];
+
+(*e*) Regulation (EU) No. 181/2011 of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation (EC) No. 2006/2004[^12];
+
+(*f*) the relevant international conventions in so far as those conventions are applicable to or in the State.
+
+(7) Where a traveller claims or has received compensation or a price reduction under this Act and has also received compensation or a price reduction under any one or more of the Regulations or the relevant international conventions referred to in *subsection (6)*, the compensation or price reduction received under those Regulations or relevant international conventions, as the case may be, shall be deducted from the compensation or price reduction received by the traveller under this Act in order to avoid overcompensation.
+
+(8) In this section—
+
+"relevant international conventions" means—
+
+(*a*) the Athens Convention,
+
+(*b*) the Convention concerning International Carriage by Rail (COTIF),
+
+(*c*) the Montreal Convention, and
+
+(*d*) the Warsaw Convention.
+
+(9) In *subsection (8)* —
+
+"Athens Convention" means the Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at Athens on 13 December 1974, as amended by the Protocol to the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at London on 1 November 2002;
+
+"Convention concerning International Carriage by Rail (COTIF)" means the Convention concerning International Carriage by Rail (COTIF), done at Berne on 9 May 1980, as amended by the Protocol for the Modification of the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, done at Vilnius on 3 June 1999;
+
+"Montreal Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999;
+
+"Warsaw Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended:
+
+(*a*) by the Protocol to Amend the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Warsaw on 12 October 1929, done at The Hague on 28 September 1955;
+
+(*b*) by the Convention, Supplementary to the Warsaw Convention, for the Unification of Certain Rules relating to International Carriage by Air Performed by a Person Other than the Contracting Carrier, done at Guadalajara on 18 September 1961;
+
+(*c*) by the Montreal Protocol No. 4, done at Montreal on 25 September 1975.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 15.
+
+### 20A. Possibility to contact the organiser via the retailer.
+
+F36[**20A.**— (1) A traveller may address a message, request or complaint in relation to the performance of the package directly to the retailer through which the package was purchased and the retailer shall forward the message, request or complaint to the organiser without undue delay.
+
+(2) For the purpose of compliance with time-limits or limitation periods, receipt by the retailer of a message, request or complaint referred to in *subsection (1)* shall be deemed to be receipt by the organiser.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 16.
+>
+> **Editorial Notes:**
+>
+> E10: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 20B. Obligation to provide assistance
+
+F37[**20B.**— (1) An organiser shall give appropriate assistance without undue delay to a traveller in difficulty, including in the circumstances referred to in *section 19(11)*, including—
+
+(*a*) by providing appropriate information on health services, local authorities and consular assistance, and
+
+(*b*) by assisting the traveller to make distance communications and helping the traveller to find alternative travel arrangements.
+
+(2) The organiser shall be entitled to charge the traveller a reasonable fee for assistance provided by the organiser if the difficulty is caused intentionally by, or through the negligence of, the traveller, but the fee shall not, in any event, exceed the actual costs incurred by the organiser.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 16.
+
+### 21. Authorised officers.
+
+**21.** — (1) In this section “authorised officer” means:
+
+(*a*) a person appointed and authorised in writing by the Director to exercise, for the purpose of this Act, the functions conferred by this section,
+
+(*b*) a person appointed and authorised in writing by the Minister to exercise for the purpose of the Act of 1982 F38[and this Act], the functions conferred by this section.
+
+(2) Every authorised officer shall be furnished with a warrant of appointment and, when exercising any function conferred by this section shall, if requested to do so by a person affected, produce the warrant or a copy thereof to that person.
+
+(3) An appointment as an authorised officer shall cease—
+
+(*a*) in the case of an appointment made by the Minister, when the Minister revokes the appointment;
+
+(*b*) in the case of an appointment made by the Director, when the Director revokes the appointment;
+
+(*c*) where it is for a fixed period, upon the expiry of that period; or
+
+(*d*) where the person appointed is an officer of the Minister, the Director or the Minister for Enterprise and Employment, upon ceasing to be such an officer.
+
+(4) An authorised officer may, for the purpose of obtaining any information which may be required in relation to the matter under investigation in order to enable the Minister to exercise functions under the Act of 1982 F39[and this Act], or the Director to exercise functions under this Act, on production of his authorisation, if so required—
+
+(*a*) at all reasonable times enter any premises, at which there are reasonable grounds to believe that any trade or business or any activity in connection with a trade or business is or has been carried on, or that records in relation to such trade, business or activities are kept, and search and inspect the premises and any records on the premises;
+
+(*b*) secure for later inspection any premises or any part of a premises in which such records are kept or there are reasonable grounds for believing that such records are kept;
+
+(*c*) require any person who carries on such trade, business or activity or any person employed in connection therewith to produce such records and in the case of information in a non-legible form to reproduce it in a legible form or to give to the officer such information as the officer may reasonably require in relation to any entries in such records;
+
+(*d*) inspect and take copies of or extracts from any such records (including in the case of information in a non-legible form a copy of or extract from such information in a permanent legible form);
+
+(*e*) remove and retain the said records for such period as may be reasonable for further examination, subject to a warrant being issued for that purpose by the District Court;
+
+(*f*) require any such person to give to the officer any information which the officer may reasonably require in regard to the trade, business or activity or in regard to the persons carrying on such trade, business or activity (including, in particular, in the case of an incorporated body of persons, information in regard to the membership thereof and of its committee of management or other controlling authority) or employed in connection therewith;
+
+(*g*) require any such person to give to the officer any other information which the officer may reasonably require in regard to such trade, business or activity;
+
+(*h*) require any person by or on whose behalf data equipment is or has been used or any person having charge of, or otherwise concerned with the operation of, the data equipment or any associated apparatus or material, to afford the officer all reasonable assistance in relation thereto;
+
+(*i*) summon, at any reasonable time, any other person employed in connection with the trade, business or activity to give to the officer any information which the officer may reasonably require in regard to such activity and to produce to the officer any records which are in that person's power and control.
+
+(5) An authorised officer shall not, other than with the consent of the occupier, enter a private dwelling unless the officer has obtained a warrant from the District Court authorising such entry.
+
+(6) Where an authorised officer, in the exercise of any power under this section, is prevented from entering any premises that officer or the person by whom the officer was appointed may apply to the District Court for a warrant authorising such entry.
+
+(7) An authorised officer, where the officer considers it necessary, may be accompanied by a member of the Garda Síochána when performing any powers conferred on an authorised officer by this Act.
+
+(8) A person who obstructs or interferes with an authorised officer in the exercise of functions under this Act or gives to an authorised officer information which is false or misleading shall be guilty of an offence.
+
+(9) A person who refuses to comply with any request or requirement of an authorised officer in the exercise of functions under this Act shall be guilty of an offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 17(a).
+>
+> F39: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 17(b).
+
+### 22. Search warrant
+
+F40[**21A.** — (1) If a judge of the District Court is satisfied by information on oath of an authorised officer that there are reasonable grounds for believing that—
+
+(*a*) evidence of or relating to the commission or intended commission of an offence under this Act or the Act of 1982 is to be found on land or a premises, or
+
+(*b*) a record related to anything to which *paragraph (a)* refers is or may be on the land or premises,
+
+then the judge may issue a search warrant.
+
+(2) A search warrant under this section shall be expressed and operate to authorise a named authorised officer, accompanied by such authorised officers or other persons as the named authorised officer thinks necessary, at any time, within one month from the date of issue of the warrant, on production, if so requested, of the warrant, to enter, using reasonable force if necessary, the land or premises named in the warrant and to exercise all or any of the functions conferred on an authorised officer under *section 21*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 55(b), commenced on enactment.
+
+## PART III — Security
+
+### 22. Security requirements in the event of insolvency.
+
+F41[**22.**— (1) An organiser shall provide security in accordance with the requirements specified in this section and *sections 23* to *25* for the refund of all payments made to the organiser by or on behalf of travellers where the travel services included in the package travel contract are not, or will not be, performed by the organiser as a consequence of the insolvency of the organiser.
+
+(2) Where the carriage of passengers is included in a package travel contract, an organiser shall ensure that the security referred to in *subsection (1)* shall also provide for the costs of the repatriation of travellers in the circumstances referred to in that subsection.
+
+(3) Where the travel services included in the package travel contract are not, or will not be, performed by the organiser as a consequence of the insolvency of the organiser, the continuation of the package, on the same contractual terms, may be offered to the traveller as an alternative to a refund by—
+
+(i) another organiser,
+
+(ii) an entity providing the security for the insolvent organiser, or
+
+(iii) the entity responsible for the administration of the security provided by the insolvent organiser.
+
+(4) Where the performance of the package is affected by the insolvency of an organiser, the security referred to in *subsection (1)* shall ensure repatriations and, if necessary, the financing of accommodation prior to the repatriation, or the continuation of the package shall be available to travellers at no cost to the traveller.
+
+(5) Where a travel service included in a package travel contract has not been performed due to the insolvency of the organiser, the security referred to in *subsection (1)* shall provide for refunds to travellers of the costs of the package travel contract without undue delay after the traveller’s request.
+
+(6) The security referred to in *subsection (1)* shall be effective and provide for reasonably foreseeable costs including in particular—
+
+(*a*) that it shall be available as soon as travel services are not being, or will not be, fully performed, or where service providers require travellers to pay for them, as a consequence of the insolvency of an organiser, and
+
+(*b*) the amounts of payments affected by the insolvency of the organiser made by or on behalf of travellers in respect of packages, taking into account the length of the period between down payments and final payments and the completion of the packages, as well as the estimated cost for repatriations in the event of the insolvency of an organiser.
+
+(7) The security referred to in *subsection (1)* shall be provided in respect of all packages an organiser sells or offers for sale in the European Union, irrespective of the traveller’s place of residence, the place of departure or where the package is sold.
+
+(8) Where an organiser is not established in the State or in another Member State and sells or offers for sale packages in the State, or by any means directs the sale or offers for sale of such packages to a person in the State, the organiser shall provide security in accordance with *subsection (1)* in respect of those packages.
+
+(9) An organiser established in another Member State who sells or offers for sale packages in the State and who provides security in accordance with the law of that Member State giving effect to Article 17 of the Directive in that Member State shall be considered to have complied with the requirement to provide security in accordance with *subsection (1)*.
+
+(10) An organiser shall inform the Commission for Aviation Regulation of the nature and amount of the security the organiser has arranged in order to comply with *subsection (1)*.
+
+(11) An organiser who fails to provide security in accordance with *subsection (1)* or *(8)*, as the case may require, shall be guilty of an offence.
+
+(12) In this section “organiser” means, other than in *subsection (8)*, *(9)* or *(10)*, an organiser established in the State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 18.
+>
+> **Editorial Notes:**
+>
+> E11: Previous affecting provision: subss. (2)(b), (3) substituted (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 55(c)(i), (ii), commenced on enactment; section substituted as per F-note above.
+
+### 22A. Insolvency protection and information requirements for linked travel arrangements.
+
+F42[**22A.**— (1) A trader facilitating linked travel arrangements shall provide security in accordance with the requirements specified in this section and *sections 23* to *25* for the refund of all payments received by the trader from travellers where a travel service which is part of a linked travel arrangement is not, or will not be, performed as a consequence of the insolvency of the trader.
+
+(2) Where a trader referred to in *subsection (1)* is the person responsible for the carriage of passengers, the security referred to in *subsection (1)* shall also provide for costs of the repatriation of travellers in the circumstances referred to in that subsection.
+
+(3) The security referred to in *subsection (1)* shall be provided in respect of all linked travel arrangements a trader sells or offers for sale in the European Union, irrespective of the traveller’s place of residence, the place of departure or where the linked travel arrangement is sold.
+
+(4) Where the performance of the linked travel arrangement is affected by the insolvency of the trader facilitating the arrangement, the security referred to in *subsection (1)* shall ensure repatriations and, if necessary, the financing of accommodation prior to the repatriation shall be available to travellers at no cost to the traveller.
+
+(5) Where a travel service which is part of a linked travel arrangement has not been performed due to the insolvency of the trader facilitating the linked travel arrangement, the security referred to in *subsection (1)* shall provide for refunds to travellers of the costs of the travel service without undue delay after the traveller’s request.
+
+(6) The security referred to in *subsection (1)* shall be effective and provide for reasonably foreseeable costs including in particular—
+
+(*a*) that it shall be available as soon as travel services are not being, or will not be, fully performed, or where service providers require travellers to pay for them, as a consequence of the insolvency of a trader, and
+
+(*b*) the amounts of payments affected by the insolvency of the trader made by or on behalf of travellers in respect of linked travel arrangements, taking into account the length of the period between down payments and final payments and the completion of the linked travel arrangements, as well as the estimated cost for repatriations in the event of the insolvency of a trader.
+
+(7) Where a trader is not established in a Member State and sells or offers for sale linked travel arrangements in the State, or by any means directs the sale or offers for sale of such linked travel arrangements to a person in the State, the trader shall provide security in accordance with *subsection (1)* in respect of those linked travel arrangements.
+
+(8) A trader facilitating linked travel arrangements established in another Member State who sells or offers for sale linked travel arrangements in the State, and who provides security in accordance with the law of that Member State giving effect to Article 19 of the Directive in that Member State shall be considered to have complied with the requirement to provide security in accordance with *subsection (1).*
+
+(9) Before a traveller shall be bound by an offer of, or by a contract leading to the creation of, a linked travel arrangement, a trader facilitating the linked travel arrangement (including where the trader is not established in the State or in another Member State) or who, by any means, directs the sale or offer for sale of such linked travel arrangement to a person in the State, shall state in a clear, comprehensible and prominent manner in accordance with *subsection (12)* that—
+
+(*a*) the traveller will be entitled to benefit from the security against insolvency required to be provided by the trader in accordance with *subsection (1)*,
+
+(*b*) the traveller will not be entitled to benefit from the rights which apply exclusively to packages under this Act, and
+
+(*c*) each service provider will be solely responsible for the proper contractual performance of the service provided by that service provider.
+
+(10) The information required to be provided under *subsection (9)* to a traveller by a trader facilitating a linked travel arrangement shall be provided in the manner set out in the relevant form specified in *Schedule 2* or, where the particular type of linked travel arrangement is not provided for in any of the forms set out in that *Schedule*, the required information shall be provided in a form to the like effect which contains that information.
+
+(11) Where a trader facilitating linked travel arrangements has not complied with the requirements of *subsections (1)* to *(10)* insofar as they apply to the trader, the rights conferred on travellers and the obligations imposed on organisers and retailers under *sections 16*, *18A*, *19*, *20*, *20A* and *20B* shall apply to the travel services included in the linked travel arrangements and those sections shall apply to the trader as they apply to an organiser or retailer, as the case may be, with any necessary modifications.
+
+(12) Where a linked travel arrangement is the result of the conclusion of a contract between a traveller and a trader who does not facilitate the linked travel arrangement, that trader shall inform the trader facilitating the linked travel arrangement of the conclusion of the relevant contract.
+
+(13) *Section 25A* shall apply to traders facilitating linked travel arrangements as it applies to organisers selling or offering for sale packages, with any necessary modifications.
+
+(14) A trader facilitating linked travel arrangements shall inform the Commission for Aviation Regulation of the nature and amount of the security it has arranged in order to comply with *subsection (1)*.
+
+(15) A trader facilitating linked travel arrangements who fails to provide security in accordance with *subsection (1)* or *(7)* shall be guilty of an offence.
+
+(16) In this section “trader facilitating linked travel arrangements” means, other than in *subsection (7)*, *(8)* or *(14)*, a trader facilitating linked travel arrangements who is established in the State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 19.
+>
+> **Editorial Notes:**
+>
+> E12: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 23. Bonding where an approved body has a reserve fund or insurance.
+
+F43[**23.**— An organiser and a trader facilitating linked travel arrangements shall provide security under *sections 22* and *22A* to refund travellers in the circumstances referred to in those sections and, where applicable, to provide for the costs of repatriation and, if necessary, the financing of accommodation prior to repatriation, in one or more than one of the following ways:
+
+(*a*) by depositing a sum of money, the amount of which shall be determined in the manner specified in *section 24*, in a bank or financial institution in the State, in the sole name of the Commission for Aviation Regulation, which shall, in the event of the insolvency of the organiser or the trader, be fully and exclusively available to the Commission, without restriction or condition;
+
+(*b*) by entering into a contract of guarantee secured with an insurance undertaking or the holder of a licence or authorisation referred to in *section 24(5)*(a) who is authorised to provide that guarantee in the State, and which shall, in the event of the insolvency of the organiser or the trader, be fully and exclusively available to the Commission for Aviation Regulation, without restriction or condition;
+
+(*c*) by entering into a contract for an insurance policy of the type set out in *section 25* with an insurance undertaking referred to in *paragraph (a)(i)* or *(ii)* of *section 24(5)* who is authorised to provide that policy of insurance in the State, the proceeds of which shall, in the event of the insolvency of the organiser or the trader, be fully and exclusively available, without restriction or condition.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 20.
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references to "Department" and "Minister" for Tourism, Culture and Sport construed (1.06.2011) by *Tourism and Sport (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 217 of 2011), arts. 2 and 3(1)(a)(iii), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Transport, Tourism and Sport.
+>
+> (2) References to the Department of Tourism, Culture and Sport contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Transport, Tourism and Sport.
+>
+> 3\. (1) The functions vested in the Minister for Tourism, Culture and Sport—
+>
+> (a) by or under— ...
+>
+> (iii) sections 23 and 24 of the Package Holidays and Travel Trade Act 1995 (No. 17 of 1995),
+>
+> ...
+>
+> are transferred to the Minister for Transport, Tourism and Sport.
+>
+> (2) References to the Minister for Tourism, Culture and Sport contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Transport, Tourism and Sport.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.10.1995) by *Package Holidays and Travel Trade Act, 1995 (Bonds) Regulations 1995* (S.I. No. 270 of 1995), in effect as per reg. 2; revoked (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(2)(a).
+
+### 24. Bonding where an approved body does not have a reserve fund or insurance.
+
+F44[**24.**— (1) A security provided under *section 23(a)* or *(b)* shall be—
+
+(*a*) valid for not more than one year from the date of its commencement,
+
+(*b*) available to the Commission for Aviation Regulation for the refund of travellers in the circumstances referred to in *section 22* or *22A* for a period of not more than six months following its expiry where it is not replaced by a new security,
+
+(*c*) available to the Commission for Aviation Regulation in respect of a package or a linked travel arrangement, regardless of when the package travel contract or linked travel arrangement, was made with the traveller,
+
+(*d*) an amount that is 4 per cent of the turnover of an organiser or a trader facilitating linked travel arrangements for the latest financial year for which the organiser or trader, as the case may be, has prepared accounts and financial statements or such other amount as shall satisfy the Commission is sufficient to comply with the requirement to provide security in accordance with *section 22* or *22A*, and is not less than 4 per cent and not more than 10 per cent of the projected turnover of the organiser or trader, for the year for which the security is being arranged, having regard to the factors specified in *subsection (6)* and the information provided under *subsection (7)*, and
+
+(*e*) provided to the Commission for Aviation Regulation—
+
+(i) where the security is a guarantee secured with an insurance undertaking, in the form specified in *Schedule 3*, or
+
+(ii) where the security is a guarantee secured with a person referred to in *subsection (5)(a)(iii)*, in the form specified in *Schedule 4*.
+
+(2) A security provided under *section 23(a)* or *(b)* shall be available to defray any reasonable expenses incurred by the Commission for Aviation Regulation, or provide for any payments made by the Commission, in the refund of travellers affected by the insolvency of an organiser or a trader facilitating linked travel arrangements, as the case may be, in accordance with *section 22* or *22A*.
+
+(3) Where a security provided under *section 23(a)* is made available to the Commission for Aviation Regulation in the event of the insolvency of an organiser or a trader facilitating linked travel arrangements, and the Commission is satisfied that all payments have been refunded to travellers in accordance with *section 22* or *22A*, and any expenses of the Commission have been defrayed in accordance with *subsection (2)*, any residual amount of the security shall be returned to the provider of the security.
+
+(4) The Commission for Aviation Regulation may release an organiser or a trader or a provider of the security from any liability under the security where it is satisfied that the organiser or trader facilitating linked travel arrangements, has discharged all of the obligations the organiser or trader has to refund all payments to travellers in accordance with *section 22* or *22A*, in respect of package travel contracts or linked travel arrangements or that no such obligations will arise.
+
+(5) (*a*) A security of the type set out at *section 23(b)* shall be secured only with—
+
+(i) an insurance undertaking authorised to carry out non-life insurance business (Class 15, suretyship) under the European Communities (Non-Life Insurance) Framework Regulations 1994 (S.I. No. 359 of 1994) (continued in force by section 16 of the Finance (Miscellaneous Provisions) Act 2015),
+
+(ii) an insurance undertaking authorised to carry out non-life insurance business (Class 15, suretyship) under the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015), or
+
+(iii) a person who is the holder of a licence or authorisation to carry on banking business under the Central Bank Act 1971.
+
+(*b*) A security of the type set out at *section 23(c)* shall be secured only with an insurance undertaking referred to in *paragraph (a)(i)* or *(ii)*.
+
+(6) For the purposes of carrying out its functions under this section, the Commission for Aviation Regulation shall, as it considers appropriate, have regard to the following:
+
+(*a*) the financial, business and organisational resources of the organiser or trader facilitating linked travel arrangements concerned;
+
+(*b*) the arrangements made by the organiser or trader facilitating linked travel arrangements concerned, to ensure adequate finances are available to discharge the organiser’s or trader’s actual and potential obligations in respect of the package travel contracts or linked travel arrangements sold or offered for sale, or intended to be sold or offered for sale during the period of the security;
+
+(*c*) factors determining the value of the packages or linked travel arrangements being sold including the destination, time of travel or mode of transport;
+
+(*d*) the past activities of the organiser or trader facilitating linked travel arrangements concerned, and the membership or management of that organiser or trader, or the past activities of any person employed by that organiser or trader, or, if that organiser or trader is a body corporate, the past activities of any director, shadow director, de facto director, secretary, shareholder, officer or servant of the body corporate including whether such a person is or was a restricted person, or is an undischarged bankrupt;
+
+(*e*) the manner in which the organiser or trader facilitating linked travel arrangements concerned is carrying on the business of the sale or offering for sale of package travel contracts or linked travel arrangements, as the case may be.
+
+(7) An organiser or a trader facilitating linked travel arrangements, established in the State, shall maintain the following books, accounts, financial statements and records at its principal place of business or, where the organiser or trader is a corporate body, at its registered office, in the State—
+
+(*a*) annual accounts duly audited and certified, annual returns and financial statements,
+
+(*b*) a record, which may be in ledger, computer or other form, of all daily transactions including receipts and expenditures, duly analysed by the different methods of receipt and payment (cash, cheque, debit card, credit card, electronic funds transfer, voucher or any other type of payment), including all monies paid on deposit,
+
+(*c*) a full record of all bank lodgements and other transactions including cash and credit transactions from which regular financial information can be derived to ascertain the financial position of the business of the organiser or trader facilitating linked travel arrangements from time to time, and a regular and proper bank reconciliation, and
+
+(*d*) copies of all package travel contracts entered into by the organiser or contracts concluded giving rise to linked travel arrangements facilitated by the trader, as the case may be, relevant to the business of the organiser or trader as appropriate, during the period of the security,
+
+and shall furnish copies or extracts thereof on request by an authorised officer within the period specified by that person which shall not be less than 14 days from the date of the request.
+
+(8) In this section—
+
+"Act of 2014" means the Companies Act 2014;
+
+"de facto director" shall be construed in accordance with section 222 of the Act of 2014;
+
+"financial statements" means a summary (as at a particular date) of the assets, liabilities and financial position of the organiser or trader facilitating linked travel arrangements, as the case may be, together with the profit or loss, since the date of the previous financial statements and shall comprise—
+
+(*a*) a balance sheet as at the end of the financial year,
+
+(*b*) a profit and loss account for the financial year, and
+
+(*c*) any other additional statements and information attached to the foregoing and forming part of them,
+
+and such statements shall give a true and fair view of the assets, liabilities and financial position as at the end of the financial year, and the profit or loss for the financial year, of the organiser or trader;
+
+"financial year" shall be construed in accordance with section 288 of the Act of 2014;
+
+"projected turnover" means the total of receipts estimated by an organiser or a trader facilitating linked travel arrangements in respect of package travel contracts or linked travel arrangements, as appropriate, to be sold or offered for sale during the period of the security of the type referred to in *section 24* being arranged by such organiser or trader, as the case may be;
+
+"restricted person" has the same meaning as it has in section 818(1) of the Act of 2014;
+
+"shadow director" shall be construed in accordance with section 221(1) of the Act of 2014;
+
+"undischarged bankrupt" has the same meaning as it has in section 2(1) of the Act of 2014.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 21.
+>
+> C6: Functions transferred and references to "Department" and "Minister" for Tourism, Culture and Sport construed (1.06.2011) by *Tourism and Sport (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 217 of 2011), arts. 2 and 3(1)(a)(iii), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Transport, Tourism and Sport.
+>
+> (2) References to the Department of Tourism, Culture and Sport contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Transport, Tourism and Sport.
+>
+> 3\. (1) The functions vested in the Minister for Tourism, Culture and Sport—
+>
+> (*a*) by or under— ...
+>
+> (iii) sections 23 and 24 of the Package Holidays and Travel Trade Act 1995 (No. 17 of 1995),
+>
+> ...
+>
+> are transferred to the Minister for Transport, Tourism and Sport.
+>
+> (2) References to the Minister for Tourism, Culture and Sport contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Transport, Tourism and Sport.
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: power pursuant to section exercised (1.10.1995) by *Package Holidays and Travel Trade Act, 1995 (Bonds) Regulations 1995* (S.I. No. 270 of 1995), in effect as per reg. 2; revoked (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 27(2)(a).
+
+### 25. Insurance.
+
+**25.** — F45[(1) An organiser or a trader facilitating linked travel arrangements who is arranging security in the manner provided for by this section, shall have insurance under one or more than one appropriate policy with an insurance undertaking referred to in *paragraph (a)(i)* or *(ii)* of *section 24(5)* authorised to provide that policy of insurance in the State, under which the insurance undertaking agrees to indemnify travellers (who shall be insured persons under the policy) and refund them in the circumstances referred to in *section 22* or *22A*.
+
+(2) An organiser or a trader facilitating linked travel arrangements, shall, if arranging security in the manner provided for by this section, ensure that it is a term of every contract with a traveller that the traveller acquires the benefit of a policy of a kind referred to in *subsection (1)* in the event of the insolvency of the organiser.]
+
+(3) In this section “appropriate policy” means one which does not contain a condition which provides (in whatever terms) that no liability shall arise under the policy, or that any liability so arising shall cease—
+
+(*a*) in the event of some specified thing being done or omitted to be done after the happening of the event giving rise to a claim under the policy,
+
+(*b*) in the event of the failure of the policy holder to make payments to the insurer in connection with that policy or with other policies, or
+
+(*c*) unless the policy holder keeps specified records or provides the insurer with information therefrom.
+
+F46[(4) No term or condition of a policy of insurance arranged under this section shall provide for or permit the deduction of expenses or administrative fees or charges (however called or described) from the amount a traveller is entitled to receive and which shall be paid to a traveller under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Substituted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 22(1)(a), subject to transitional provision in para. (2).
+>
+> F46: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 22(1)(b).
+
+### 25A. Administrative cooperation
+
+F47[**25A.**— (1) (*a*) The Commission for Aviation Regulation is designated as the central contact point for the purposes of Article 18 of the Directive and this Act.
+
+(*b*) The performance of a function as central contact point pursuant to the designation under *paragraph (a)* shall be a function of the Commission for Aviation Regulation under the Act of 2001.
+
+(2) The central contact point referred to in *subsection (2)* shall:
+
+(*a*) make available to central contact points in other Member States all necessary information on the requirements in relation to insolvency protection applicable in the State;
+
+(*b*) make available to central contact points in other Member States the identity of the body or bodies providing insolvency protection for the purposes of this Act to organisers and traders facilitating linked travel arrangements established in the State;
+
+(*c*) publish (including online) an inventory listing organisers who comply with the insolvency protection requirements in *section 22*,
+
+(*d*) where it has a concern about the compliance with the requirements for insolvency protection of an organiser established in another Member State, seek clarification from the Member State in which that organiser is established, and
+
+(*e*) respond to requests from central contact points in other Member States for information about the compliance with the requirements for insolvency protection of an organiser established in the State as soon as possible, taking into account the urgency and complexity of the matter, and in any event provide an initial response not later than 15 working days from receiving the request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 23.
+>
+> **Editorial Notes:**
+>
+> E15: The section heading is taken from the content of the section in the absence of one included in the amendment.
+
+### 25B. Administrative cooperation, certain obligations of retailers and traders, third party liability, non-waiver of rights or obligations and consumer information.
+
+F48[**25B.**— (1) Where the organiser is established outside the European Economic Area, the retailer shall be subject to the obligations imposed on organisers under *sections 19*, *20*, *20A*, *20B* and *22*, unless the retailer can satisfy the Commission for Aviation Regulation that the organiser complies with those sections.
+
+(2) A trader shall be liable for any errors due to technical defects in the booking system which are attributable to the trader and, where the trader has agreed to arrange the booking of a package or of travel services which are part of linked travel arrangements, for the errors made during the booking process, other than where the booking errors are attributable to the traveller or caused by unavoidable and extraordinary circumstances.
+
+(3) Where an organiser or, pursuant to *subsection (1)*, a retailer, pays compensation, grants a price reduction or otherwise complies with the obligations imposed on the organiser or retailer, as the case may be, under this Act, nothing in this Act shall be construed as preventing the organiser or retailer seeking redress from any third parties whose acts or omissions contributed to the event which gave rise to the requirement to pay compensation, grant a price reduction or to meet those other obligations.
+
+(4) The obligations imposed on an organiser or trader facilitating linked travel arrangements under this Act shall apply and have effect notwithstanding any declaration or purported declaration by such organiser or trader to the effect that he or she is acting exclusively as a travel service provider, as an intermediary or in any other capacity, or that a package or a linked travel arrangement does not constitute a package or a linked travel arrangement.
+
+(5) Travellers may not waive the rights conferred on them by this Act and any contractual arrangement or any statement by the traveller which directly or indirectly waives or limits, or purports to waive or limit, the rights conferred on travellers pursuant to this Act or which has, or intends to have, the aim or effect of avoiding the application of this Act shall not be binding on the traveller.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 23.
+>
+> **Editorial Notes:**
+>
+> E16: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 25C. Application of consumer regulations
+
+F49[**25C.**— F50[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (11.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 23.
+>
+> F50: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 4, S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E17: The section heading is taken from the content of the section in the absence of one included in the amendment.
+
+## PART IV — Amendment of Transport (Tour Operators and Travel Agents) Act, 1982
+
+### 26. Functions of authorised persons.
+
+**26.** — (1) The functions set out in *subsections (4)* and *(5)* of *section 21*, shall be exercisable, for the purposes of the Act of 1982, by a person authorised by the Minister under section 11 of that Act.
+
+(2) A person who—
+
+(*a*) obstructs or interferes with a person authorised by the Minister under the Act of 1982 in the exercise of functions under that Act shall be guilty of an offence under this Act,
+
+(*b*) refuses to comply with any request or requirement of a person so authorised in the exercise of functions under that Act shall be guilty of an offence under this Act.
+
+### 27. Amendment of section 2 of the Act of 1982.
+
+**27.** — Section 2(1) of the Act of 1982 is hereby amended by—
+
+(*a*) the substitution for the definitions of “ carrier ”, “ Minister ”, “ overseas travel contract ”, “ tour operator ” and “ travel agent ” of the following definitions:
+
+" ‘carrier’ means a person (other than a package provider where the package includes transport commencing in the State to destinations outside the State or Northern Ireland) whose principal business is the provision of transport by land, sea or air on aircraft, vessels or other modes of transport owned and operated by such person;
+
+‘the Minister’ means the Minister for Transport, Energy and Communications;
+
+‘overseas travel contract’ means a contract for the carriage of a party to the contract (with or without any other person) by air, sea or land transport commencing in the State to a place outside the State or Northern Ireland, whether the provision of the carriage is the sole subject matter of the contract or is associated with the provision thereunder of any accommodation, facility or service;
+
+‘tour operator’ means a person other than a carrier who arranges for the purpose of selling or offering for sale to any person accommodation for travel by air, sea or land transport commencing in the State to destinations outside the State or Northern Ireland or who holds himself out by advertising or otherwise as one who may make available such accommodation, either solely or in association with other accommodation, facilities or other services;
+
+‘travel agent’ means a person other than a carrier who as agent sells or offers to sell to, or purchases or offers to purchase on behalf of, any person, accommodation on air, sea or land transport commencing in the State to destinations outside the State or Northern Ireland or who holds himself out by advertising or otherwise as one who may make available such accommodation, either solely or in association with other accommodation, facilities or services;",
+
+(*b*) the insertion of the following definitions:
+
+“ ‘package’ and ‘package provider’ have the meanings assigned to them by the *Package Holidays and Travel Trade Act, 1995*;”.
+
+### 28. Amendment of section 6 of the Act of 1982.
+
+**28.** — Section 6 of the Act of 1982 is hereby amended by the substitution for subsection (5) of the following:
+
+“(5) A licence granted under this Act shall, unless earlier surrendered or revoked, remain in force for such period as the Minister thinks fit and specifies in the licence.”.
+
+### 29. Amendment of section 8 of the Act of 1982.
+
+**29.** — Section 8 of the Act of 1982 is hereby amended by the substitution for subsection (2) of the following:
+
+“(2) The Minister may also revoke, or vary the terms and conditions of, a licence granted under this Act if he is no longer satisfied that—
+
+(*a*) the financial, business and organisational resources of the holder of the licence or any financial arrangements made by him are adequate for discharging his actual and potential obligations in respect of the business for which he has been granted a licence, or
+
+(*b*) having regard to—
+
+(i) the past activities of the holder of the licence or of any person employed by him or, if such licence holder is a body corporate, having regard to the past activities of any director, secretary, shareholder, officer or servant of the body corporate, or
+
+(ii) the manner in which the holder of the licence is carrying on his business,
+
+he is a fit and proper person to carry on business as a tour operator or travel agent, as the case may be.
+
+### 30. Amendment of section 13 (4) (d) of the Act of 1982.
+
+**30.** — Section 13 (4) of the Act of 1982 is hereby amended by the substitution for paragraph (*d*) of the following paragraph:
+
+“(*d*) to defray any reasonable expenses incurred by the Minister or, as the case may be, the person nominated or approved of by the Minister as trustee, or provide for any payments to the Minister or trustee on behalf of a customer of a tour operator or travel agent in respect of an overseas travel contract which could not be completed by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to such overseas travel contract.”.
+
+### 31. Amendment of section 18 of the Act of 1982.
+
+**31.** — (1) Section 18 (1) of the Act of 1982 is hereby amended by the insertion of the following paragraph:
+
+“(*e*) to defray any reasonable expenses related to the recovery of monies due under subsection (7) where the Minister is satisfied that in undertaking such expenses there would be a substantial interest in protecting the fund.”.
+
+(2) Section 18 of the Act of 1982 is hereby amended by the insertion of the following subsection:
+
+“(7) Where payments have been made from the fund under subsection (1), because the Bond is insufficient, the fund shall be an unsecured creditor of the tour operator or travel agent concerned, in respect of such payments.”.
+
+### 32. Amendment of section 20 of the Act of 1982.
+
+**32.** — F51[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Deleted (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 55(d), commenced on enactment.
+
+### 33. Amendment of section 22 (2) of the Act of 1982.
+
+**33.** — Section 22 of the Act of 1982 is hereby amended by the substitution for subsection (2) of the following:
+
+“(2) The provisions of section 382 of the Companies Act, 1963 shall extend to every body corporate (whether or not a company within the meaning of the Act) charged on indictment with an offence under section 20 of this Act.”.
+
+### 34. Powers of Court under the Act of 1982.
+
+**34.** — The High Court may, on the application of the Minister, make orders requiring persons engaging or proposing to engage in any practices, business or activities as are, or are likely to be, contrary to the obligations imposed on them by any provision of the Act of 1982 to discontinue or refrain from such practices, business or activities.
+
+## F52[SCHEDULE 1
+
+Part A
+
+**Standard information form for package travel contracts where the use of hyperlinks is possible**
+
+The combination of travel services offered to you is a package within the meaning of the Package Holidays and Travel Trade Act 1995 . Therefore, you will benefit from all EU rights applying to packages. XY will be fully responsible for the proper performance of the package as a whole. Additionally, as required by law, XY has protection in place to refund your payments and, where transport is included in the package, to ensure your repatriation in the event that it becomes/they become insolvent.
+
+More information on key rights under the Package Holidays and Travel Trade Act 1995 shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+Key rights under the Package Holidays and Travel Trade Act 1995
+
+— Travellers will receive all essential information about the package before concluding the package travel contract.
+
+— There is always at least one trader who is liable for the proper performance of all the travel services included in the contract.
+
+— Travellers are given an emergency telephone number or details of a contact point where they can get in touch with the organiser or the travel agent.
+
+— Travellers may transfer the package to another person, on reasonable notice and possibly subject to additional costs.
+
+— The price of the package may only be increased if specific costs rise (for instance, fuel prices) and if expressly provided for in the contract, and in any event not later than 20 days before the start of the package. If the price increase exceeds 8 per cent of the price of the package, the traveller may terminate the contract. If the organiser reserves the right to a price increase, the traveller has a right to a price reduction if there is a decrease in the relevant costs.
+
+— Travellers may terminate the contract without paying any termination fee and get a full refund of any payments if any of the essential elements of the package, other than the price, are changed significantly. If before the start of the package the trader responsible for the package cancels the package, travellers are entitled to a refund and compensation where appropriate.
+
+— Travellers may terminate the contract without paying any termination fee before the start of the package in the event of exceptional circumstances, for instance if there are serious security problems at the destination which are likely to affect the package.
+
+— Additionally, travellers may at any time before the start of the package terminate the contract in return for an appropriate and justifiable termination fee.
+
+— If, after the start of the package, significant elements of the package cannot be provided as agreed, suitable alternative arrangements will have to be offered to the traveller at no extra cost. Travellers may terminate the contract without paying any termination fee, where services are not performed in accordance with the contract and this substantially affects the performance of the package and the organiser fails to remedy the problem.
+
+— Travellers are also entitled to a price reduction and/or compensation for damages where the travel services are not performed or are improperly performed.
+
+— The organiser has to provide assistance if the traveller is in difficulty.
+
+— If the organiser or, in some Member States, the retailer becomes insolvent, payments will be refunded. If the organiser or, where applicable, the retailer becomes insolvent after the start of the package and if transport is included in the package, repatriation of the travellers is secured. XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if services are denied because of XY’s insolvency.
+
+The organiser or retailer must provide a hyperlink to the Package Holidays and Travel Trade Act 1995 .
+
+Part B
+
+**Standard information form for package travel contracts in situations other than those covered by Part A**
+
+The combination of travel services offered to you is a package within the meaning of the Package Holidays and Travel Trade Act 1995 . Therefore, you will benefit from all EU rights applying to packages. XY will be fully responsible for the proper performance of the package as a whole. Additionally, as required by law, XY has protection in place to refund your payments and, where transport is included in the package, to ensure your repatriation in the event that it becomes/they become insolvent.
+
+Key rights under the Package Holidays and Travel Trade Act 1995
+
+— Travellers will receive all essential information about the package before concluding the package travel contract.
+
+— There is always at least one trader who is liable for the proper performance of all the travel services included in the contract.
+
+— Travellers are given an emergency telephone number or details of a contact point where they can get in touch with the organiser or the travel agent.
+
+— Travellers may transfer the package to another person, on reasonable notice and possibly subject to additional costs.
+
+— The price of the package may only be increased if specific costs rise (for instance fuel prices), and if expressly provided for in the contract, and in any event not later than 20 days before the start of the package. If the price increase exceeds 8 per cent of the price of the package, the traveller may terminate the contract. If the organiser reserves the right to a price increase, the traveller has a right to a price reduction if there is a decrease in the relevant costs.
+
+— Travellers may terminate the contract without paying any termination fee and get a full refund of any payments if any of the essential elements of the package, other than the price, are changed significantly. If before the start of the package the trader responsible for the package cancels the package, travellers are entitled to a refund and compensation where appropriate.
+
+— Travellers may terminate the contract without paying any termination fee before the start of the package in the event of exceptional circumstances, for instance if there are serious security problems at the destination which are likely to affect the package.
+
+— Additionally, travellers may at any time before the start of the package terminate the contract in return for an appropriate and justifiable termination fee.
+
+— If, after the start of the package, significant elements of the package cannot be provided as agreed, suitable alternative arrangements will have to be offered to the traveller at no extra cost. Travellers may terminate the contract without paying any termination fee, where services are not performed in accordance with the contract and this substantially affects the performance of the package and the organiser fails to remedy the problem.
+
+— Travellers are also entitled to a price reduction and/or compensation for damages where the travel services are not performed or are improperly performed.
+
+— The organiser has to provide assistance if the traveller is in difficulty.
+
+— If the organiser or, in some Member States, the retailer becomes insolvent, payments will be refunded. If the organiser or, where applicable, the retailer becomes insolvent after the start of the package and if transport is included in the package, repatriation of the travellers is secured. XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if services are denied because of XY’s insolvency.
+
+(Website where the Package Holidays and Travel Trade Act 1995 can be found.)
+
+Part C
+
+**Standard information form where the organiser transmits data to another trader in accordance with paragraph (b)(v) of the definition of package in section 2(1)**
+
+If you conclude a contract with AB not later than 24 hours after receiving the confirmation of the booking from XY the travel service provided by XY and AB will constitute a package within the meaning of the Package Holidays and Travel Trade Act 1995 . Therefore, you will benefit from all EU rights applying to packages. XY will be fully responsible for the proper performance of the package as a whole. Additionally, as required by law, XY has protection in place to refund your payments and, where transport is included in the package, to ensure your repatriation in the event that it becomes insolvent.
+
+More information on key rights under the Package Holidays and Travel Trade Act 1995 shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+Key rights under the Package Holidays and Travel Trade Act 1995
+
+— Travellers will receive all essential information about the travel services before concluding the package travel contract.
+
+— There is always at least one trader who is liable for the proper performance of all the travel services included in the contract.
+
+— Travellers are given an emergency telephone number or details of a contact point where they can get in touch with the organiser or the travel agent.
+
+— Travellers may transfer the package to another person, on reasonable notice and possibly subject to additional costs.
+
+— The price of the package may only be increased if specific costs rise (for instance, fuel prices) and if expressly provided for in the contract, and in any event not later than 20 days before the start of the package. If the price increase exceeds 8 per cent of the price of the package, the traveller may terminate the contract. If the organiser reserves the right to a price increase, the traveller has a right to a price reduction if there is a decrease in the relevant costs.
+
+— Travellers may terminate the contract without paying any termination fee and get a full refund of any payments if any of the essential elements of the package, other than the price, are changed significantly. If before the start of the package the trader responsible for the package cancels the package, travellers are entitled to a refund and compensation where appropriate.
+
+— Travellers may terminate the contract without paying any termination fee before the start of the package in the event of exceptional circumstances, for instance if there are serious security problems at the destination which are likely to affect the package.
+
+— Additionally, travellers may at any time before the start of the package terminate the contract in return for an appropriate and justifiable termination fee.
+
+— If, after the start of the package, significant elements of the package cannot be provided as agreed, suitable alternative arrangements will have to be offered to the traveller at no extra cost. Travellers may terminate the contract without paying any termination fee, where services are not performed in accordance with the contract and this substantially affects the performance of the package and the organiser fails to remedy the problem.
+
+— Travellers are also entitled to a price reduction and/or compensation for damages where the travel services are not performed or are improperly performed.
+
+— The organiser has to provide assistance if the traveller is in difficulty.
+
+— If the organiser or, in some Member States, the retailer becomes insolvent, payments will be refunded. If the organiser or, where applicable, the retailer becomes insolvent after the start of the package and if transport is included in the package, repatriation of the travellers is secured. XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if services are denied because of XY’s insolvency.
+
+The organiser or retailer must provide a hyperlink to the Package Holidays and Travel Trade Act 1995.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Substituted (26.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) (No. 2) Regulations 2019* (S.I. No. 105 of 2019), reg. 3(a).
+
+## SCHEDULE 2
+
+F53[Part A
+
+**Standard information form where the trader facilitating an online linked travel arrangement within the meaning of paragraph (a) of the definition of linked travel arrangement in section 2(1) is a carrier selling a return ticket**
+
+If, after selecting and paying for one travel service, you book additional travel services for your trip or holiday via our company/XY, you will NOT benefit from rights applying to packages under the Package Holidays and Travel Trade Act 1995 . Therefore, our company/XY will not be responsible for the proper performance of those additional travel services. In case of problems please contact the relevant service provider. However, if you book any additional travel services during the same visit to our company’s/XY’s booking website, the travel services will become part of a linked travel arrangement. In that case XY has, as required by the Package Holidays and Travel Trade Act 1995 , protection in place to refund your payments to XY for services not performed because of XY’s insolvency, and, where necessary, for your repatriation. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider.
+
+More information on insolvency protection shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity, or where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if the services are denied because of XY’s insolvency. Note: This insolvency protection does not cover contracts with parties other than XY, which can be performed despite XY’s insolvency.
+
+The organiser or trader must provide a hyperlink to the Package Holidays and Travel Trade Act 1995.
+
+Part B
+
+**Standard information form where the trader facilitating an online linked travel arrangement within the meaning of paragraph (a) of the definition of linked travel arrangement in section 2(1) is a trader other than a carrier selling a return ticket**
+
+If, after selecting and paying for one travel service, you book additional travel services for your trip or holiday via our company/XY, you will NOT benefit from rights applying to packages under the Package Holidays and Travel Trade Act 1995 . Therefore, our company/XY will not be responsible for the proper performance of the individual travel services. In case of problems please contact the relevant service provider. However, if you book any additional travel services during the same visit to our company’s/XY’s booking website, the travel services will become part of a linked travel arrangement. In that case XY has, as required by the Package Holidays and Travel Trade Act 1995 , protection in place to refund your payments to XY for services not performed because of XY’s insolvency. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider.
+
+More information on insolvency protection shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if the services are denied because of XY’s insolvency. Note: This insolvency protection does not cover contracts with parties other than XY, which can be performed despite XY’s insolvency.
+
+The organiser or trader must provide a hyperlink to the Package Holidays and Travel Trade Act 1995.
+
+Part C
+
+**Standard information form in the case of linked travel arrangements within the meaning of paragraph (a) of the definition of linked travel arrangement in section 2(1) where the contracts are concluded in the simultaneous physical presence of the trader (other than a carrier selling a return ticket) and the traveller**
+
+If, after selecting and paying for one travel service, you book additional travel services for your trip or holiday via our company/XY, you will NOT benefit from rights applying to packages under the Package Holidays and Travel Trade Act 1995 . Therefore, our company/XY will not be responsible for the proper performance of the individual travel services. In case of problems please contact the relevant service provider. However, if you book any additional travel services during the same visit to or contact with our company/XY, the travel services will become part of a linked travel arrangement. In that case XY has, as required by the Package Holidays and Travel Trade Act 1995 , protection in place to refund your payments to XY for services not performed because of XY’s insolvency. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider.
+
+XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if the services are denied because of XY’s insolvency. Note: This insolvency protection does not cover contracts with parties other than XY, which can be performed despite XY’s insolvency.
+
+(Website where the Package Holidays and Travel Trade Act 1995 can be found.)
+
+Part D
+
+**Standard information form where the trader facilitating an online linked travel arrangement within the meaning of paragraph (b) of the definition of linked travel arrangement in section 2(1) is a carrier selling a return ticket**
+
+If you book additional travel services for your trip or holiday via this link/these links, you will NOT benefit from rights applying to packages under the Package Holidays and Travel Trade Act 1995 . Therefore, our company/XY will not be responsible for the proper performance of those additional travel services. In case of problems, please contact the relevant service provider. However, if you book additional travel services via this link/these links not later than 24 hours after receiving the confirmation of the booking from our company/XY, those travel services will become part of a linked travel arrangement. In that case XY has, as required by the Package Holidays and Travel Trade Act 1995 , protection in place to refund your payments to XY for services not performed because of XY’s insolvency, and, where necessary, for your repatriation. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider.
+
+More information on insolvency protection shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if the services are denied because of XY’s insolvency. Note: This insolvency protection does not cover contracts with parties other than XY, which can be performed despite XY’s insolvency.
+
+The organiser or trader must provide a hyperlink to the Package Holidays and Travel Trade Act 1995.
+
+Part E
+
+**Standard information form where the trader facilitating an online linked travel arrangement within the meaning of paragraph (b) of the definition of linked travel arrangement in section 2(1) is a trader other than a carrier selling a return ticket**
+
+If you book additional travel services for your trip or holiday via this link/these links, you will NOT benefit from rights applying to packages under the Package Holidays and Travel Trade Act 1995 . Therefore, our company/XY will not be responsible for the proper performance of those additional travel services. In case of problems please contact the relevant service provider. However, if you book additional travel services via this link/these links not later than 24 hours after receiving the confirmation of the booking from our company/XY, those travel services will become part of a linked travel arrangement. In that case XY has, as required by the Package Holidays and Travel Trade Act 1995 , protection in place to refund your payments to XY for services not performed because of XY’s insolvency. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider.
+
+More information on insolvency protection shall be provided in the form of a hyperlink.
+
+Following the hyperlink the traveller will receive the following information:
+
+XY has taken out insolvency protection with YZ (the entity in charge of the insolvency protection, e.g. a guarantee fund or an insurance company). Travellers may contact this entity or, where applicable, the competent authority (contact details, including name, geographical address, email and telephone number) if the services are denied because of XY’s insolvency. Note: This insolvency protection does not cover contracts with parties other than XY, which can be performed despite XY’s insolvency.
+
+The organiser or trader must provide a hyperlink to the Package Holidays and Travel Trade Act 1995.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Inserted (26.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) (No. 2) Regulations 2019* (S.I. No. 105 of 2019), reg. 3(b).
+
+## SCHEDULE 3
+
+F54[PACKAGE HOLIDAYS AND TRAVEL TRADE ACT 1995 (“The Act”)
+
+*Terms of Security to be Secured by an Organiser or Trader with an Insurance Undertaking*
+
+I/We (name of Insurance Undertaking)
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+hereafter referred to as the Surety, having our registered office at
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+at the behest of
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+of
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+(being an organiser, or a trader facilitating linked travel arrangements, under the Act) hereby undertake and acknowledge that I/we are bound to pay to the Commission for Aviation Regulation such sum as the Commission may demand, but not exceeding
+
+€
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+(euro)
+
+to be applied in accordance with *section 22* or *22A* of the Act, as appropriate, for the purposes set out in those sections.
+
+This security shall come into effect on the _______ day of _____________, 20____, and shall cease to have effect after the _______ day of ____________, 20____, and shall be available to the Commission for Aviation Regulation in respect of a package or a linked travel arrangement, as the case may be, regardless of when the package travel contract or linked travel arrangement, was made with the traveller, PROVIDED THAT the Commission shall make any demand under this security not later than 6 months following the expiry date of this security.
+
+Notwithstanding the generality of the foregoing, where this security is replaced by a new security arranged by the organiser or trader facilitating linked travel arrangements, as the case may be, in accordance with *section 22* or *22A* of the Act, and which complies with *section 24* of the Act, the liability of the Surety under this security shall cease on the commencement of such new security.
+
+IT IS AGREED that this money shall become payable upon demand in writing from the Commission for Aviation Regulation in one or more of the following events —
+
+(*a*) a petition is granted by a court for the compulsory winding up of the business of the organiser or trader;
+
+(*b*) the organiser or trader by reason of being unable to fulfil its financial obligations, seeks a voluntary winding up of the business or has convened a meeting of the creditors of the organiser or trader, for the purpose of considering a settlement of the liabilities of the organiser or trader to its creditors;
+
+(*c*) a receiver is appointed over the assets of the organiser or trader;
+
+(*d*) the organiser or trader has failed to discharge its debts or is unable to discharge those debts or has ceased to carry on business by reason of the inability to discharge those debts;
+
+(*e*) the organiser or trader has committed an act of bankruptcy;
+
+(*f*) the Commission for Aviation Regulation has reasonable grounds for believing that, having regard to all the circumstances, the organiser or trader is unable to, or has failed to, carry out the obligations under the Act owed by it to travellers in respect of package travel contracts or linked travel arrangements to which the Act applies.
+
+IT IS FURTHER AGREED that, in circumstances outlined at paragraph (f), the Commission for Aviation Regulation will, before calling for payment under the security, notify the organiser or trader facilitating linked travel arrangements in writing by delivering the notice to the organiser or trader’s principal place of business or registered office in the State, of its proposal to call the security and the reasons for such proposal and shall afford the organiser or trader concerned all reasonable opportunity to make representations to the Commission.
+
+IT IS A CONDITION of this security that the Commission for Aviation Regulation will repay to the Surety such part of the sum advanced as shall not be expended for the benefit of the travellers of the organiser or trader facilitating linked travel arrangements or to defray the reasonable expenses incurred by the Commission under *section 24(2)* of the Act.
+
+Monies payable under this security shall be applied for all or any of the following purposes —
+
+In respect of an organiser:
+
+\- For the refund of travellers in the circumstances referred to in *section 22* of the Act.
+
+In respect of a trader facilitating a linked travel arrangement:
+
+\- For the refund of travellers in the circumstances referred to in *section 22A* of the Act.
+
+Without prejudice to any existing right of a traveller to recover compensation under the Act, nothing in this instrument shall be construed as enabling such traveller to recover any such compensation out of any sum of money made available under this security.
+
+Signed FOR AND ON BEHALF OF
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+this __________________ day of ____________________ 20____.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Inserted (26.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) (No. 2) Regulations 2019* (S.I. No. 105 of 2019), reg. 3(b).
+
+## SCHEDULE 4
+
+F55[PACKAGE HOLIDAY AND TRAVEL TRADE ACT 1995 (“the Act”)
+
+*Terms of Security to be Provided by an Organiser or Trader and Guaranteed by a Bank*
+
+Part I
+
+(To be completed by the organiser or trader)
+
+I/We _______________________________________________
+
+of _______________________________________________
+
+__________________________________________________
+
+(being an organiser, or a trader facilitating linked travel arrangements, under the Act), hereby undertake and acknowledge that I/we are bound to pay to the Commission for Aviation Regulation such sum as the Commission may demand, but not exceeding
+
+€ _______________________________________________________________________________
+
+_______________________________________________________________________________
+
+(euro)
+
+to be applied in accordance with *section 22* or *22A* of the Act, as appropriate, for the purposes set out in those sections.
+
+This security shall come into effect on the _______ day of _____________, 20____, and shall cease to have effect after the _______ day of ____________, 20____, and shall be available to the Commission for Aviation Regulation in respect of a package or a linked travel arrangement, as the case may be, regardless of when the package travel contract or linked travel arrangement, was made with the traveller, PROVIDED THAT the Commission shall make any demand under this security not later than 6 months following the expiry date of this security.
+
+Notwithstanding the generality of the foregoing, where this security is replaced by a new security arranged by me/us in accordance with *section 22* or *22A* of the Act, as appropriate, and which complies with *section 24* of the Act, my/our liability under this security shall cease on the commencement of such new security.
+
+IT IS AGREED that this money shall become payable upon demand in writing from the Commission for Aviation Regulation in one or more of the following events —
+
+(*a*) a petition is granted by a court for the compulsory winding up of the business of the organiser or trader;
+
+(*b*) the organiser or trader by reason of being unable to fulfil its financial obligations, seeks a voluntary winding up of the business or has convened a meeting of the creditors of the organiser or trader, for the purpose of considering a settlement of the liabilities of the organiser or trader to its creditors;
+
+(*c*) a receiver is appointed over the assets of the organiser or trader;
+
+(*d*) the organiser or trader has failed to discharge its debts or is unable to discharge those debts or has ceased to carry on business by reason of the inability to discharge those debts;
+
+(*e*) the organiser or trader has committed an act of bankruptcy;
+
+(*f*) the Commission for Aviation Regulation has reasonable grounds for believing that, having regard to all the circumstances, the organiser or trader is unable to, or has failed to, carry out the obligations under the Act owed by it to travellers in respect of package travel contracts or linked travel arrangements to which the Act applies.
+
+Monies payable under this security shall be applied for all or any of the following purposes —
+
+In respect of an organiser:
+
+\- For the refund of travellers in the circumstances referred to in *section 22* of the Act.
+
+In respect of a trader facilitating a linked travel arrangement:
+
+\- For the refund of travellers in the circumstances referred to in *section 22A* of the Act.
+
+Without prejudice to any existing right of a traveller to recover compensation under the Act, nothing in this instrument shall be construed as enabling such traveller to recover any such compensation out of any sum of money made available under this security.
+
+Signed FOR AND ON BEHALF OF
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+this _______________ day of _____________________ 20____.
+
+Part II
+
+Guaranteed by Bank
+
+(Holder of a licence or an authorisation to carry on banking business under the Central Bank Act 1971)
+
+We
+
+_______________________________________________________
+
+(name of Bank),
+
+having our registered office at:
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+hereafter referred to as “the Guarantor”, hereby guarantee the due payment of the sum specified in Part I above i.e.
+
+€
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+(euro)
+
+upon demand in writing from the Commission for Aviation Regulation.
+
+IT IS A CONDITION of this Guarantee that the Commission for Aviation Regulation will repay to us as the Guarantor such part of the sum paid by us to the Commission as shall not be expended in accordance with Part I above or to defray the reasonable expenses incurred by the Commission under *section 24(2)* of the Act.
+
+IT IS AGREED THAT in circumstances outlined in *paragraph (f)* of *Part I* above, the Commission for Aviation Regulation will, before calling on the Guarantor for payment under the security, notify the organiser or trader facilitating linked travel arrangements in writing by delivering the notice to the organiser or trader’s principal place of business or registered office in the State, of its proposal to apply the security and the reasons for such proposal and shall afford the organiser or trader all reasonable opportunity to make representations to the Commission.
+
+This security shall come into effect on the _______ day of _____________, 20____, and shall cease to have effect after the _______ day of ____________, 20____, and shall be available to the Commission for Aviation Regulation in respect of a package or a linked travel arrangement, as the case may be, regardless of when the package travel contract or linked travel arrangement, was made with the traveller, PROVIDED THAT the Commission shall make any demand on us not later than 6 months following the expiry date of this security.
+
+Notwithstanding the generality of the foregoing, where this security is replaced by a new security arranged by the organiser or trader facilitating linked travel arrangements, as the case may be, in accordance with *section 22* or *22A* of the Act, and which complies with *section 24* of the Act, our liability under this guarantee shall cease on the commencement of such new security.
+
+Signed FOR AND ON BEHALF OF
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+this _________________ day of ____________________ 20____.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (26.03.2019) by *European Union (Package Travel And Linked Travel Arrangements) (No. 2) Regulations 2019* (S.I. No. 105 of 2019), reg. 3(b).
+
+[^1]: O.J. No. L 158/59 23.6.1990.
+[^2]: OJ No. L 263, 9.10.2007, p. 1
+[^3]: OJ No. L 165, 18.6.2013, p. 1
+[^4]: OJ No. L. 46, 17.2.2004, p. 1
+[^5]: OJ No. L. 315, 3.12.2007, p. 14
+[^6]: OJ No. L. 334, 17.12.2010, p. 1
+[^7]: OJ No. L. 55, 28.2.2011, p. 1
+[^8]: OJ No. L 46, 17.2.2004, p. 1
+[^9]: OJ No. L 315, 3.12.2007, p. 14
+[^10]: OJ No. L 131, 28.5.2009, p. 24
+[^11]: OJ No. L 334, 17.12.2010, p.1
+[^12]: OJ No. L. 55, 28.2.2011, p. 1

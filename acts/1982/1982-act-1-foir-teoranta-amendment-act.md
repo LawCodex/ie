@@ -1,0 +1,46 @@
+---
+title: "Fóir Teoranta (Amendment) Act, 1982"
+identifier: "eli/1982/act/1"
+type: act
+jurisdiction: ie
+language: en
+number: 1
+year: 1982
+date: 1982-01-25
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1982/act/1/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Fóir Teoranta (Amendment) Act, 1982
+
+AN ACT TO AMEND AND EXTEND THE FÓIR TEORANTA ACTS, 1972 TO 1976. [25*th January*, 1982]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+“the Act of 1976” means the Fóir Teoranta (Amendment) Act, 1976;
+
+“the Company” means Fóir Teoranta;
+
+“the Minister” means the Minister for Finance;
+
+“the Principal Act” means the Fóir Teoranta Act, 1972.
+
+## 3. Increase of Company's power to borrow.
+
+**2.**—The aggregate at any one time of the borrowings of the Company (including borrowings from the Minister and borrowings for any of the purposes of the Company which are consequent upon section 19 of the Principal Act, but excluding borrowings by Taiscí Stáit Teoranta) shall not exceed £70,000,000, and, accordingly, section 12 of the Principal Act (as amended by the Act of 1976) shall be construed as if that sum were substituted for the sum mentioned therein.
+
+## 4. Increase of advances by Minister.
+
+**3.**—The aggregate at any time of advances to the Company by the Minister (including advances for the purposes of any of the functions of the Company consequent upon section 19 of the Principal Act, but excluding advances made to Taiscí Stáit Teoranta) which have not been repaid shall not exceed £70,000,000, and, accordingly, section 13 (3) of the Principal Act (as amended by the Act of 1976) shall be construed as if that sum were substituted for the sum mentioned therein.
+
+## 5. Short title and collective citation.
+
+**4.**—(1) This Act may be cited as the Fóir Teoranta (Amendment) Act, 1982.
+
+(2) The Fóir Teoranta Acts, 1972 to 1976, and this Act may be cited together as the Fóir Teoranta Acts, 1972 to 1982.

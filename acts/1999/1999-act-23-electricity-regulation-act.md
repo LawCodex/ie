@@ -1,0 +1,8996 @@
+---
+title: "Electricity Regulation Act, 1999"
+identifier: "eli/1999/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 1999
+date: 1999-07-11
+last_amended: 2025-12-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1999/act/23/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1999/act/23/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Electricity Regulation Act, 1999
+
+AN ACT TO ENABLE EFFECT TO BE GIVEN TO DIRECTIVE NO. 96/92/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 19 DECEMBER 1996[^1], TO ESTABLISH A BODY KNOWN AS AN COIMISIÚN UM RIALÁIL LEICTREACHAIS OR IN THE ENGLISH LANGUAGE THE COMMISSION FOR ELECTRICITY REGULATION, TO GIVE POWER TO THAT COMMISSION TO GRANT LICENCES TO GENERATE AND SUPPLY ELECTRICITY AND TO GRANT AUTHORISATIONS TO CONSTRUCT GENERATING STATIONS, TO PROVIDE FOR ACCESS TO THE TRANSMISSION OR DISTRIBUTION SYSTEM BY HOLDERS OF LICENCES, HOLDERS OF AUTHORISATIONS OR BY ELIGIBLE CUSTOMERS, TO AMEND AND REPEAL CERTAIN PROVISIONS OF THE ELECTRICITY (SUPPLY) ACT, 1927 AND TO PROVIDE FOR RELATED MATTERS. [11*th July,* 1999]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Collective citation by *Maritime Area Planning Act 2021*, s.1(3), S.I. No. 394 of 2022.
+>
+> C2: Application of collectively cited *Electricity and Gas Regulation Acts 1999 to 2002* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in operation as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...</td><td>...</td><td>...<br>Electricity and Gas Regulations Acts 1999 to 2002<br>...</td></tr></table>
+>
+> C3: Functions transferred and “Minister for” and “Department of Public Enterprise” construed (18.06.2002) by *Communications, Energy and Geological Survey of Ireland (Transfer of Departmental Administration and Ministerial Functions) Order 2002* (S.I. No. 300 of 2002), arts. 3 and 4, subject to transitional provisions in arts. 5-9.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> (2) References to the Department of Public Enterprise contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise -
+>
+> (*a*) by or under any of the enactments or the provisions of the enactments mentioned in Part 1 of the Schedule to this Order,
+>
+> (*b*) under the Regulations mentioned in Part 2 of that Schedule, and
+>
+> (*c*) in relation to the Geological Survey of Ireland, are transferred to the Minister for the Marine and Natural Resources.
+>
+> (2) References to the Minister for Public Enterprise contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Reso(fb)(
+>
+> SCHEDULE
+>
+> PART 1.
+>
+> Enactments and provisions of enactments, functions under which are transferred from the Minister for Public Enterprise to the Minister for the Marine and Natural Resources.
+>
+> ...
+>
+> Electricity and Gas Regulation Acts 1999 to 2002
+>
+> ...
+
+## PART IPreliminary And General — PART I — Preliminary And General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Electricity Regulation Act, 1999.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (14.07.1999) by *Electricity Regulation Act, 1999 (Commencement) Order 1999* (S.I. No. 213 of 1999).
+>
+> 2\. The 14th day of July, 1999, is hereby appointed as the day on which the Electricity Regulation Act, 1999 (No. 23 of 1999), shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, except where the context otherwise requires—
+
+F1["2019 ACER Regulation" means Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 2019[^2] establishing a European Agency for the Cooperation of Energy Regulators;]
+
+F2["2019 Internal Electricity Market Directive" means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019[^3] on common rules for the internal market for electricity and amending Directive 2012/27/EU;
+
+"2019 Internal Electricity Market Regulation" means Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019[^4] on the internal electricity market;]
+
+F10["Agency" means the European Agency for the Cooperation of Energy Regulators established under the 2019 ACER Regulation;]
+
+F11["aggregation" means a function performed by a natural or legal person who combines multiple customer loads or generated electricity for sale, purchase or auction in any electricity market;]
+
+F12["aggregation" means a function performed by a natural or legal person who combines multiple customer loads or generated electricity for sale, purchase or auction in any electricity market;
+
+"ancillary service", in relation to electricity, means a service necessary for the operation of a transmission or distribution system, including balancing and non-frequency ancillary services, but not including congestion management;]
+
+“authorisation” means an authorisation granted under *section 16*;
+
+“authorised officer” means a person appointed under *section 11* to be an authorised officer;
+
+“Authority” means Northern Ireland Authority for Utility Regulation;
+
+F13["balancing" means balancing as defined in point (10) of Article 2 of Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity[^5];
+
+"balancing energy" means balancing energy as defined in Article 2(11) of Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity[^6];]
+
+“Board” means the Electricity Supply Board;
+
+F14["citizen energy community" means a legal entity that —
+
+(*a*) is based on voluntary and open participation and is effectively controlled by members or shareholders that are natural persons, local authorities, including municipalities, or small enterprises,
+
+(*b*) has for its primary purpose to provide environmental, economic or social community benefits to its members or shareholders or to the local areas where it operates rather than to generate financial profits, and
+
+(*c*) may engage in generation, including from renewable sources, distribution, supply, consumption, aggregation, energy storage, energy efficiency services or charging services for electric vehicles or provide other energy services to its members or shareholders;]
+
+F15[“combined heat and power” means the simultaneous generation in one process of—
+
+(*a*) thermal energy and electrical energy,
+
+(*b*) thermal energy and mechanical energy, or
+
+(*c*) thermal, electrical and mechanical energy;]
+
+F16[“Commission” means the Commission for Energy Regulation;]
+
+F17["congestion", in relation to electricity, means congestion as defined in Article 2 F18[(4)] of Regulation (EU) 2019/9433 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity;
+
+"demand response" means the change of electricity load by final customers from their normal or current consumption patterns in response to market signals, including in response to time-variable electricity prices or incentive payments, or in response to the acceptance of the final customer’s bid to sell demand reduction or increase at a price in an organised market as defined in Article 2(4) of Commission Implementing Regulation (EU) No 1348/2014[^7], whether alone or through aggregation;]
+
+F19[“the Department” means the Department of Enterprise, Trade and Investment in Northern Ireland;]
+
+“direct line”, in relation to electricity, means an electric line which is used or is to be used to carry electricity for the purpose of supply and the construction of which line is permitted under *section 37*;
+
+“distribution”, in relation to electricity, means the transport of electricity by means of a distribution system, that is to say, a system which consists of electric lines, electric plant, transformers and switchgear and which is used for conveying electricity to final customers;
+
+“distribution code” means a code in respect of all technical aspects relating to connection to and operation of the distribution system prepared by F20[the distribution system operator] under *section 33*;
+
+F21[“distribution system operator” means the holder of a licence under *section 14(1)(*g*)*;]
+
+F22[“economically justifiable demand” means the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions by energy generation processes other than cogeneration;]
+
+F23["electricity derivative" means a financial instrument specified in point 5, 6 or 7 of Section C of Annex I to Directive 2014/65/EU[^8] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU4 , where that instrument relates to electricity;]
+
+F24[“Electricity Market Directive” F30[means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the Internal market for electricity and amending Directive 2012/27/EU[^9];]]
+
+F24[“Electricity Market Regulation” means F31[Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal electricity market;]]
+
+F22[“electricity production from combined heat and power” means electricity produced from combined heat and power calculated in accordance with *section 7*;]
+
+F32[“electricity supply contract” means a contract for the supply of electricity, but does not include an electricity derivative;]
+
+F33["electricity undertaking" means any person engaged in generation, transmission, distribution, aggregation, demand response, energy storage, supply or purchase of electricity, and who is responsible for the commercial, technical or maintenance tasks related to those functions, including a holder of a licence or authorisation under this Act or a person who has been granted a permit under section 37 of the Principal Act, but does not include final customers;]
+
+F34[“electric line“ has the meaning assigned to it by section 4(1) of the ESB (Electronic Communications Networks) Act 2014;]
+
+“electric plant” means any plant, apparatus or appliance used for, or for purposes connected with, the generation, transmission, distribution or supply of electricity, other than—
+
+(*a*) an electric line,
+
+(*b*) a meter used for ascertaining the quantity of electricity supplied to any premises, or
+
+(*c*) an electrical appliance under the control of a consumer;
+
+F35["energy storage" means, in the electricity system, deferring the final use of electricity to a moment later than when it was generated, or the conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy or use as another energy carrier;]
+
+F36["energy storage facility" means, in the electricity system, a facility where energy storage occurs;]
+
+F37[“energy undertaking” means an electricity undertaking or a natural gas undertaking;]
+
+F3["ENTSO for Electricity" means the European Network of Transmission System Operators for Electricity referred to in Article 28 of the 2019 Internal Electricity Market Regulation;]
+
+“establishment day” means the day appointed under *section 8*;
+
+F4["EU DSO entity" means the European Entity for Distribution System Operators referred to in Article 52 of the 2019 Internal Electricity Market Regulation;]
+
+F38["final customer" means a customer who purchases electricity for own use;]
+
+“forecast statement” has the meaning assigned to it by *section 38*;
+
+“functions” includes powers and duties;
+
+F39[“gas installer” means LPG installer or natural gas installer, as the case may be;]
+
+“generate”, in relation to electricity, means to produce electricity;
+
+“generating station” means a station for the generation of electricity;
+
+“grid code” means a code in respect of all technical aspects relating to connection to and operation of the transmission system prepared by F40[the transmission system operator] under *section 33*;
+
+F5["guidelines", in relation to electricity, means guidelines adopted pursuant to Article 61 of the 2019 Internal Electricity Market Regulation;]
+
+F22[“high efficiency combined heat and power” means combined heat and power production which on an annual basis—
+
+(*a*) in the case of small scale combined heat and power and micro-combined heat and power, achieves primary energy savings calculated in accordance with *paragraphs 3* and *4* of *Schedule 3*, and
+
+(*b*) in the case of all other combined heat and power, achieves primary energy savings calculated in accordance with *paragraphs 3* and *4* of *Schedule 3* of at least 10 per cent compared with the references for separate production of heat and electricity;]
+
+F41["household customer" means a customer who purchases electricity for the customer’s own household consumption, excluding commercial or professional activities;]
+
+F42["interconnector" means equipment used to link electricity systems;]
+
+F43[“Internal Market Regulations” means the European Communities (Internal Market in Electricity) Regulations 2000 and 2005;]
+
+“licence” means a licence issued under *section 14*;
+
+F24[“linepack” means the storage of gas by compression in gas transmission and distribution systems, but not including facilities reserved for transmission system operators carrying out their functions;]
+
+F39[“LPG” means liquefied petroleum gas;]
+
+F39[“LPG fitting” means any non-portable appliance, apparatus or other thing including associated pipework and flueing which is used or designed to be used by—
+
+(*a*) a domestic customer, or
+
+F39[(*b*) such class or classes of industrial or commercial customer as the Commission may specify from time to time, in connection with the consumption or use of LPG;]
+
+in connection with the consumption or use of LPG;]
+
+F44[“LPG incident”means an event or occurrence of a class prescribed by regulations made by the Commission under section 9JG;
+
+“LPG safety licence” means a licence granted under section 9JE;
+
+“LPG undertaking”means any person who imports LPG or purchases LPG directly from a refinery within the State and makes LPG available to individual domestic or commercial final customers by way of LPG cylinder, bulk tank or via a piped LPG distribution network;]
+
+F45["market participant", in the context of electricity, means a market participant as defined in point 25 of Article 2 of Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity[^10];]
+
+F19[“the Memorandum of Understanding” means the Memorandum of Understanding relating to the establishment and operation of a single competitive wholesale electricity market in the State and in Northern Ireland entered into between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland signed on behalf of the Government of Ireland on 5 December 2006 and on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland on 6 December 2006;]
+
+F22[“micro-combined heat and power unit” means a combined heat and power unit with a maximum capacity of less than 50 kWe;]
+
+F46[“Minister” means Minister for Communications, Energy and Natural Resources;]
+
+F24[“natural gas exchange” means a virtual trading location for the purchase and sale of natural gas;]
+
+F47[“natural gas fitting” means any appliance, apparatus or other thing including associated pipework and flueing which is used or designed to be used by—
+
+(*a*) a domestic customer, or
+
+(*b*) such class or classes of industrial or commercial customer as the Commission may specify from time to time,
+
+in connection with the consumption or use of natural gas whether the appliance, apparatus or thing is the property of a natural gas undertaking or otherwise;]
+
+F48[“natural gas infrastructure” means any pipeline, facility, structure or installation which is or has been established, maintained or operated, for the purpose of the supply, storage, transmission, distribution and use of natural gas under a natural gas licence;]
+
+F49["Natural Gas Market Directive" means Directive 2009/73/EC of the European Parliament and Council of 13 July 2009[^11] as amended by Directive (EU) 2019/692 of the European Parliament and of the Council of 17 April 2019[^12];]
+
+F24[“Natural Gas Market Regulation” means Regulation (EC) 715/2009 of the European Parliament and of the Council of 13 July 2009;]
+
+F37[“natural gas undertaking” means a person engaged in the transmission, distribution, supply or storage of natural gas, including any holder of a licence or a consent under this Act, or any person who has been granted a licence or given a consent under the Gas Acts, 1976 to 2002,]
+
+F6["network codes", in relation to electricity, means network codes established pursuant to Article 59 of the 2019 Internal Electricity Market Regulation;
+
+"non-frequency ancillary service", in in relation to electricity, means a service used by a transmission system operator or distribution system operator for steady state voltage control, fast reactive current injections, inertia for local grid stability, short-circuit current, black start capability and island operation capability;]
+
+F50["offshore" has the meaning assigned to it by *section 13A*;]
+
+F52[“petroleum undertaking” has the meaning given to it by *section 13A(1)*;]
+
+F53[“piped LPG distribution network” means a pipeline system connected to a central storage bulk tank or LPG cylinder but not including a bulk tank or LPG cylinder as the case may be, and includes pipework above and below ground and all other equipment necessary upstream of the point of delivery and downstream of the emergency control valve, supplying gas to two or more customers;]
+
+“prescribe” means to prescribe by regulations made by the Minister or the Commission under this Act and cognate words shall be construed accordingly;
+
+“Principal Act” means the Electricity (Supply) Act, 1927;
+
+F19[“public electricity supplier” means the holder of a licence under *section 14(1)*(*h*);]
+
+F54["recharging point" means an interface that is capable of charging one electric vehicle at a time or exchanging the battery of one electric vehicle at a time;]
+
+“record” means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
+
+F7["regional coordination centre" means a regional coordination centre established pursuant to Article 35 of the 2019 Internal Electricity Market Regulation;]
+
+“renewable, sustainable or alternative forms of energy” means energy used in the production of electricity which uses as its primary source one or a combination of more than one of the following—
+
+(*a*) wind,
+
+(*b*) hydro,
+
+(*c*) biomass,
+
+(*d*) waste, including waste heat,
+
+(*e*) biofuel,
+
+(*f*) geothermal,
+
+(*g*) fuel cells,
+
+(*h*) tidal,
+
+(*i*) solar,
+
+(*j*) wave;
+
+F55[(*k*) ambient energy.]
+
+F19[“the SEM Committee” means the committee referred to in *Section 8A*;]
+
+F19[“SEM matter” shall be construed in accordance with *section 8A(5)*;]
+
+F56["the Single Electricity Market" means the arrangements in the State and Northern Ireland—
+
+(*a*) initially described in the Memorandum of Understanding,
+
+(*b*) designed to promote the establishment and operation of a single competitive wholesale electricity market in the State and Northern Ireland, and
+
+(*c*) which allow for the efficient application of the European Union rules for cross-border trade in electricity contained within or adopted pursuant to the Electricity Market Regulation as amended from time to time and as supplemented by—
+
+(i) network codes established under Article 6 of that Regulation, and
+
+(ii) guidelines adopted under Article 18 of that Regulation;]
+
+F19[“Single Electricity Market operator” means the holder of a licence under *section 14(1)*(*j*) or a person exempted from the requirement to hold such a licence;]
+
+“single premises” means one or more buildings or structures, occupied and used by a person, where each building or structure is adjacent to, or contiguous with, the other building or structure;
+
+F22[“small scale combined heat and power” means combined heat and power units with an installed capacity greater than 50 kWe and less than 1 MWe;]
+
+“supply”, in relation to electricity, means supply through electric lines to final customers for consumption;
+
+F8["system operation region" means the system operation region to be approved by the Agency pursuant to Article 36 of the 2019 Internal Electricity Market Regulation;]
+
+“transmission”, F57[subject to *section 2A*,] in relation to electricity, means the transport of electricity by means of a transmission system, F58[“in the State or offshore, or both,] that is to say, a system which consists, wholly or mainly, of high voltage lines and electric plant and which is used for conveying electricity from a generating station to a substation, from one generating station to another, from one substation to another or to or from any interconnector or to final customers but shall not include any such lines which the Board may, from time to time, with the approval of the Commission, specify as being part of the distribution system but shall include any interconnector owned by the Board.
+
+F21[“transmission system operator” means the holder of a licence under *section 14(1)(*e*)*;]
+
+F9["Union wide network development plan" means the plan adopted pursuant to Article 30(1)(*b*) of the 2019 Internal Electricity Market Regulation;]
+
+F22[“useful heat” means heat produced in a cogeneration process to satisfy an economically justifiable demand for heat or cooling;]
+
+F59[“wholesale customer” means a natural or legal person purchasing electricity for the purpose of resale inside or outside the system where he or she is established.]
+
+F19[(1A) (*a*) Notwithstanding the definition of "Department" in *subsection (1)* where the electricity functions of the Department of Enterprise, Trade and Investment in Northern Ireland are, under the law for the time being in force in Northern Ireland, exercisable by any other Department, Ministry or authority, references to the Department in this Act shall be construed as references to such other Department, Ministry or authority, as the case may be.
+
+(*b*) Notwithstanding the definition of "Authority" in *subsection (1)* where the electricity functions of the Authority are, under the law for the time being in force in Northern Ireland, exercisable by any other authority, Department, Ministry, person or statutory body, references to the Authority in this Act shall be construed as references to such other authority, Department, Ministry, person or statutory body, as the case may be.
+
+(*c*) In this subsection "electricity functions" has the same meaning as it has in Article 9 of the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007.]
+
+(2) In this Act—
+
+(*a*) a reference to a section or Schedule is a reference to a section of or Schedule to this Act unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to the performance of functions includes with respect to powers and duties, a reference to the exercise of powers and the carrying out of duties.
+
+(3) A reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment, including this Act.
+
+(4) The Minister may from time to time by order amend the definition of renewable, sustainable or alternative sources of energy by the addition of further renewable, sustainable or alternative sources of energy.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6, F7, F8, F9: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), art. 3(*a*), (*c*)-(i), in operation as per art. 1(2).
+>
+> F10: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), art. 3(*b*), in operation as per art. 1(2).
+>
+> F11: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 3(1)(*a*), in operation as per reg. 1(2).
+>
+> F12: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*a*), in operation as per reg. 1(2).
+>
+> F13: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*b*), in operation as per reg. 1(2).
+>
+> F14: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*c*), in operation as per reg. 1(2).
+>
+> F15: Substituted (29.07.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 6(*a*)(i), S.I. No. 298 of 2009.
+>
+> F16: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*a*)(i), commenced on enactment.
+>
+> F17: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*d*), in operation as per reg. 1(2).
+>
+> F18: Substituted (18.07.2022) by *European Union (Internal Market in Electricity) (4) Regulations 2022* (S.I. No. 366 of 2022), reg. 3(1), in operation as per reg. 1(2).
+>
+> F19: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 3(*a*), (*b*), S.I. No. 287 of 2007.
+>
+> F20: Substituted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 25(4)(*a*), commenced as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> F21: Inserted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 25(4)(*b*), (*d*), commenced as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> F22: Inserted (29.07.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 6(*a*)(ii), S.I. No. 298 of 2009.
+>
+> F23: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*e*), in operation as per reg. 1(2).
+>
+> F24, F25, F26, F27, F28, F29: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(*b*), (*c*), (*d*).
+>
+> F30: Substituted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 3(1)(*b*), in operation as per reg. 1(2).
+>
+> F31: Substituted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 3(1)(*c*), in operation as per reg. 1(2).
+>
+> F32: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(*b*).
+>
+> F33: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*f*), in operation as per reg. 1(2).
+>
+> F34: Substituted (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2007), s. 4(3), S.I. No. 286 of 2014.
+>
+> F35: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*g*), in operation as per reg. 1(2).
+>
+> F36: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 3(1)(*d*), in operation as per reg. 1(2).
+>
+> F37: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*a*)(ii), commenced on enactment.
+>
+> F38: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*h*), in operation as per reg. 1(2).
+>
+> F39: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 23, S.I. No. 42 of 2011.
+>
+> F40: Substituted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 25(4)(*c*), commenced as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> F41: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*j*), in operation as per reg. 1(2).
+>
+> F42: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(i), in operation as per reg. 1(2).
+>
+> F43: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 3(*a*), S.I. No. 287 of 2007.
+>
+> F44: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(1)(*a*), S.I. No. 20 of 2013.
+>
+> F45: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*k*), in operation as per reg. 1(2).
+>
+> F46: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(1)(*b*), S.I. No. 20 of 2013.
+>
+> F47: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 11, S.I. No. 68 of 2008.
+>
+> F48: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(1)(*b*), S.I. No. 20 of 2013.
+>
+> F49: Substituted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 8.
+>
+> F50, F51: Inserted (31.07.2022) by Maritime Area Planning Act 2021 (50/2021), s. 188(*b*), S.I. No. 394 of 2022.
+>
+> F52: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*a*), S.I. No. 500 of 2013.
+>
+> F53: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(1)(*b*), S.I. No. 20 of 2013.
+>
+> F54: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 3(1)(*l*), in operation as per reg. 1(2).
+>
+> F55: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 3(1)(*e*), in operation as per reg. 1(2).
+>
+> F56: Substituted (1.10.2018) by *Energy Act 2016* (12/2016), s. 8, S.I. No. 372 of 2018.
+>
+> F57: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(1), S.I. No. 266 of 2007.
+>
+> F58: Inserted (31.07.2022) by *Maritime Area Planning Act 2021* (50/2022), s. 188(*a*), S.I. No. 394 of 2022.
+>
+> F59: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(1)(*d*).
+>
+> **Modifications (not altering text):**
+>
+> C4: “Commission for Energy Regulation” construed (2.10.2017) by *Energy Act 2017* (12/2016), s. 4, commenced (28.04.2017) by S.I. No. 171 of 2017, appointed day order made (2.10.2017) by *Change of Name of Commission for Energy Regulation to Commission for Regulation of Utilities (Appointed Day) Order 2017* (S.I. No. 397 of 2017).
+>
+> **Change of name of Commission for Energy Regulation**
+>
+> **4.** The Commission for Energy Regulation (established by section 8 of the Act of 1999) shall, on and from such day as the Minister appoints by order, be known as the Commission for Regulation of Utilities or in the Irish language as An Coimisiún um Rialáil Fóntais and references in this Act or any other Act of the Oireachtas, any instrument made under this Act or any other Act of the Oireachtas, any legal proceedings and any document to the Commission for Energy Regulation shall from that day be read as references to the Commission for Regulation of Utilities.
+>
+> C5: “Commission for Electricity Regulation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 5, commenced on enactment.
+>
+> **Commission for Energy Regulation**
+>
+> **5.**—The Commission for Electricity Regulation (established by section 8 of the Act of 1999) shall, on the appointed day, be known as the Commission for Energy Regulation or in the Irish language as An Coimisiún um Rialáil Fuinnimh and references in that Act, any other Act of the Oireachtas, any instrument made under any Act of the Oireachtas, any legal proceedings and any document to the Commission for Electricity Regulation shall from that day be construed as references to the Commission for Energy Regulation.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of "electricity derivative" inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity)(Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(1); substituted as per F-note above.
+>
+> E3: Previous affecting provision: definition of Agency inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011*(S.I. No. 630 of 2011), reg. 40(1); substituted as per F-note above.
+>
+> E4: Previous affecting provision: definition of “Natural Gas Market Directive” inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(1); substituted as per F-note above.
+>
+> E5: Previous affecting provision: definition of “single electricity market” substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 3(*a*), S.I. No. 287 of 2007; substituted as per F-note above.
+
+### 2A. Position of interconnectors as respects transmission system.
+
+F60[**2A.**— (1) An interconnector owned by the Board shall be part of the transmission system.
+
+(2) Subject to *subsection (3)* an interconnector owned by a person other than the Board shall not be part of the transmission system.
+
+F61[(3) Notwithstanding *subsection (2)*—
+
+(*a*) an interconnector owned by a person other than the Board—
+
+(i) shall, where *subsection (4)* applies, and
+
+(ii) may, where the Commission determines that it is in the public interest,
+
+be considered to be part of the transmission system for the purposes of calculating charges and imposing charges for use of the transmission system, and
+
+(*b*) an interconnector owned by the transmission system operator shall be regarded as part of the transmission system for the purposes of the functions of the transmission system operator.
+
+(4) For the purpose of *subsection (3)(*a*)*, an interconnector constructed pursuant to *section 16A* shall be deemed to be in the public interest.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(2), S.I. No. 266 of 2007.
+>
+> F61: Substituted and inserted (8.07.2008) by *Electricity Regulation (Amendment) (EirGrid) Act 2008* (11/2008), s. 3, commenced on enactment.
+
+### 3. Laying of orders, etc.
+
+**3.**—Every order, other than orders under *section 1(2)* or *section 27(6)*, or regulations made by the Minister, in the case of orders or regulations made by the Minister, or by the Commission, in the case of orders or regulations made by the Commission, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Service of notices.
+
+F62[**4.**—(1) Any notice required to be served or given by or under this Act shall be addressed to the person concerned and served or given in one of the following ways:
+
+(*a*) by addressing it to the person by name and delivering it to him or her;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or carries on any profession, business or occupation;
+
+(*c*) by sending it by post in a prepaid registered letter addressed to the person at the address at which he or she ordinarily resides or carries on any profession, business or occupation;
+
+(*d*) if an address for the service of notices has been furnished by the person, by leaving it at, or sending it by prepaid registered post addressed to him or her to, that address;
+
+(*e*) by sending it by means of electronic mail or a facsimile machine, to a device or facility for the reception of electronic mail or facsimiles located at the address at which the addressee concerned carries on any profession, business or occupation or, if an address for the service of a notice has been furnished by the energy undertaking concerned, that address, but only if—
+
+(i) the recipient’s facility for the reception of electronic mail generates a message confirming a receipt of the electronic mail, or
+
+(ii) the sender’s facsimile machine generates a message confirming successful delivery of the total number of pages of the notice,
+
+and it is also given in one of the other ways mentioned in any of the preceding paragraphs;
+
+(*f*) where the address at which the person ordinarily resides cannot be ascertained by reasonable inquiry and notice is required to be served on, or given to, him or her in respect of any premises, by delivering it to a person over the age of 16 years resident in or employed on the premises, or by affixing it in a conspicuous position on or near the premises.
+
+(2) Where the name of the person concerned cannot be ascertained by reasonable inquiry, a notice under this Act may be addressed to “the occupier”, “the owner” or “the person in charge”, as the case may be.
+
+(3) For the purposes of this section, a company within the meaning of the Companies Acts or the Companies Act 2014, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+(4) For the purpose of this section, an EEA company within the meaning of Part 21 of the Companies Act 2014 that establishes a branch in the State shall be deemed to be ordinarily resident at the address of the branch notified under section 1302 of that Act.
+
+(5) A person shall not at any time during the period of 3 months after a notice is affixed under *subsection (1)(*f*)* remove, damage or deface the notice without lawful authority and a person who contravenes this subsection commits an offence.
+
+(6) A person who commits an offence under *subsection (5)* is liable on summary conviction to a class A fine.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Substituted (28.04.2017) by *Energy Act 2017* (12/2016), s. 9, S.I. No. 171 of 2017. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 5. Offences by bodies corporate
+
+**5.**—(1) Where an offence under this Act has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a person being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, *subsection (1)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+### 6. Prosecution of offences.
+
+**6.**—(1) Summary proceedings for offences F63[under this Act and under sections 40D to I of the Gas Act 1976] may be brought and prosecuted by the Commission.
+
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within F64[2 years] from the date of the offence.
+
+F65[(3) Proceedings for an offence under *Part IIA* of this Act committed in any part of—
+
+(*a*) the licensed area (within the meaning of *section 13A)* to which *subparagraph (i)* or *(ii)*, or both, of *paragraph* (*a*) of the definition of “licensed area” relates, or
+
+(*b*) a designated area,
+
+may be taken, and the offence may for all incidental purposes be treated, as having been committed in any place in the State.]
+
+F66[(4) Where a person is convicted of an offence in proceedings brought by the Commission the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Commission the costs and expenses, measured by the court, incurred by the Commission in relation to the investigation, detection and prosecution of the offence.
+
+(5) Where a court imposes a fine or affirms or varies a fine imposed by another court for an offence in proceedings brought by the Commission, it shall, on the application of the Commission (made before the time of such imposition, affirmation or variation), provide by order for the payment of the amount of the fine to the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 11.
+>
+> F64: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 10(*a*), S.I. No. 171 of 2017.
+>
+> F65: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*b*), S.I. No. 500 of 2013.
+>
+> F66: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s.10(*b*), S.I. No. 171 of 2017.
+
+### 7. Combined heat and power.
+
+F67[**7.**—(1) Electricity production from combined heat and power shall be calculated in accordance with *paragraphs 1* and *2* of *Schedule 3*.
+
+(2) The Minister may by order appoint a person to calculate and certify the actual power to heat ratios of such classes of combined heat and power units as are specified in the order, and such person shall have such powers and duties as are specified in the order.
+
+(3) A person appointed under *subsection (2)* shall calculate the actual power to heat ratios of combined heat and power units in accordance with this Act and the Directive.
+
+F68[(4) The Minister may by order specify power-to-heat ratio default values for any technology or technologies which satisfy the definition of combined heat and power, provided that—
+
+(*a*) in respect of the technologies referred to in *paragraphs* (*a*) to (*e*) of Part II of Annex I to the Directive, such default values shall be consistent with those specified in paragraph (*b*) of that Annex, and
+
+(*b*) in respect of technologies other than those referred to in *paragraph* (*a*) of this subsection, such default values shall be notified to the European Commission.]
+
+(5) The relative amount of primary energy savings provided by combined heat and power production shall be calculated in accordance with *paragraphs 3* and *4* of *Schedule 3*.
+
+(6) F69[...]
+
+(7) F69[...]
+
+(8) The Minister may by order amend or revoke an order made under this section including an order made under this subsection.
+
+(9) The provisions of this section and *Schedule 3* apply to installations or generating stations whether first licensed before or after the coming into operation of section 6 of the Energy (Miscellaneous Provisions) Act 2006.
+
+F70[(10) In this section “Directive” means Directive 2012/27/EU of the European Parliament and of the Council of 25 October 20121.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (29.07.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 6(*b*), S.I. No. 298 of 2009.
+>
+> F68: Substituted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014*, (S.I. No. 426 of 2014), reg. 25(*a*).
+>
+> F69: Repealed (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 25(*b*), commenced on enactment.
+>
+> F70: Substituted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 25(*c*).
+>
+> **Editorial Notes:**
+>
+> E6: Additional requirements on CER when calculating and certifying actual power to heat ratio of a combined heat and power generating station in accordance with section imposed (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 35(1).
+>
+> E7: Previous affecting provision: additional requirements on CER when calculating and certifying actual power to heat ratio of a combined heat and power generating station in accordance with section imposed (11.12.2009) *European Communities (High Efficiency Combined Heat and Power) Regulations 2009* (S.I. No. 499 of 2009), reg. 3; revoked (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 45(*c*).
+>
+> E8: Previous affecting provision: power pursuant to subs. (2) exercised (30.07.2009) *Electricity Regulation Act 1999 (Appointment of Person to Calculate Power to Heat Ratios of Combined Heat and Power Units) Order 2009* (S.I. No. 299 of 2009); revoked (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 45(*b*).
+
+## PART IIEstablishment of Commission for Electricity Regulation — PART II — Establishment of Commission for Electricity Regulation
+
+### 8. Establishment of Commission.
+
+**8.**—(1) The Minister shall by order appoint a day to be the establishment day for the purposes of this Act.
+
+(2) There shall stand established on the establishment day a body to be known in the Irish language as An Coimisiún um Rialáil Leictreachais or in the English language as the Commission for Electricity Regulation and in this Act referred to as the “Commission” to perform the functions conferred on it by this Act.
+
+(3) F71[*Schedule 1*] shall apply to the Commission.
+
+(4) The Commission shall be a body corporate with perpetual succession and a common seal and power to sue and be sued in its corporate name and to acquire, hold and dispose of land or an interest in land, and to acquire, hold and dispose of any other property.
+
+(5) The seal of the Commission shall be authenticated by the signature of the chairperson of the Commission, or by the signatures of any other member of the Commission and a member of the staff of the Commission authorised by the Commission to act in that behalf.
+
+(6) Judicial notice shall be taken of the seal of the Commission and every document purporting to be an instrument made by and to be sealed with the seal of the Commission (purporting to be authenticated in accordance with this section) shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(1)(*b*), commencement on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C6: “Commission for Energy Regulation” construed (2.10.2017) by *Energy Act 2016* (12/2016), s. 4, commenced (28.04.2017) by S.I. No. 171 of 2017, day appointed (2.10.2017) by S.I. No. 397 of 2017.
+>
+> **Change of name of Commission for Energy Regulation**
+>
+> **4.** The Commission for Energy Regulation (established by section 8 of the Act of 1999) shall, on and from such day as the Minister appoints by order, be known as the Commission for Regulation of Utilities or in the Irish language as An Coimisiún um Rialáil Fóntais and references in this Act or any other Act of the Oireachtas, any instrument made under this Act or any other Act of the Oireachtas, any legal proceedings and any document to the Commission for Energy Regulation shall from that day be read as references to the Commission for Regulation of Utilities.
+>
+> C7: “Commission for Electricity Regulation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 5, commenced on enactment.
+>
+> **Commission for Energy Regulation**
+>
+> **5.**—The Commission for Electricity Regulation (established by section 8 of the Act of 1999) shall, on the appointed day, be known as the Commission for Energy Regulation or in the Irish language as An Coimisiún um Rialáil Fuinnimh and references in that Act, any other Act of the Oireachtas, any instrument made under any Act of the Oireachtas, any legal proceedings and any document to the Commission for Electricity Regulation shall from that day be construed as references to the Commission for Energy Regulation.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to subs. (1) exercised (14.07.1999) *Electricity Regulation Act, 1999 (Establishment Day) Order 1999* (S.I. No. 214 of 1999).
+
+### 8A. Single Electricity Market Committee.
+
+F72[**8A.**—(1) There shall be a committee of the Commission to be known as the Single Electricity Market Committee or as the SEM Committee.
+
+(2) The SEM Committee shall comprise such members as stand appointed to it from time to time.
+
+(3) *Schedule 1A* applies to the SEM Committee.
+
+(4) Any decision as to the exercise of a relevant function of the Commission in relation to a SEM matter shall be taken on behalf of the Commission by the SEM Committee.
+
+(5) For the purposes of this Act a matter is a SEM matter if the SEM Committee determines that the exercise of a relevant function of the Commission in relation to that matter materially affects, or is likely materially to affect, the Single Electricity Market.
+
+(6) For the purposes of this section “relevant function ” means—
+
+(*a*) a function under this Act relating to electricity,
+
+(*b*) a function under the Internal Market Regulations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 4, S.I. No. 731 of 2007.
+
+### 8B. Commission and working arrangements as respects Single Electricity Market.
+
+F73[**8B.**—(1) The Commission shall publish a statement—
+
+(*a*) setting out the procedures and working arrangements adopted by the Commission for ensuring compliance with *section 8A(4)*, and
+
+(*b*) describing how the Commission will work together with the Authority in the exercise of their respective statutory functions in relation to the Single Electricity Market.
+
+(2) A statement under this section may be amended from time to time and the Commission shall as soon as practicable thereafter publish the statement as so amended.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 5, S.I. No. 731 of 2007.
+
+### 9. Functions of Commission.
+
+**9.**—(1) The Commission shall have the following functions, namely—
+
+(*a*) to publish, pursuant to a policy direction or directions of the Minister, which shall be made publicly available when given to the Commission, proposals for a system of contracts and other arrangements, including appropriate rights and obligations, for trading in electricity,
+
+(*b*) to engage in a public consultation process on the procedures to be adopted by the Commission to implement the proposals drawn up under *paragraph (*a*)*,
+
+(*c*) to advise the Minister on the impact of electricity generation in relation to sustainability, and international agreements on the environment to which the State is or becomes a party,
+
+(*d*) following the public consultation process referred to in *paragraph (*b*)* and taking account of matters raised in the public consultation process, to make regulations, subject to the consent of the Minister, establishing a system of trading in electricity, including the supervision and review of such a system by the Commission, F74[...]
+
+F75[(*da*) to monitor the level and effectiveness of market opening and the development of competition in the supply of electricity and gas to final customers, which shall include but is not limited to monitoring—
+
+(i) final tariffs charged to domestic customers including those on prepayment systems,
+
+(ii) rates of customer switching between licensed electricity and gas suppliers,
+
+(iii) disconnection and de-energisation rates,
+
+(iv) charges for, and the execution of, maintenance services,
+
+(v) complaints by domestic customers,
+
+(vi) any distortion or restriction of competition in the supply of electricity and gas to final customers,
+
+(vii) whether the development and operation of competition in the supply of electricity and gas is benefitting final F76[customers,]
+
+(viii) the level of market opening and of competition on natural gas exchanges,
+
+F79[(ix) the impact of dynamic price contracts and of the use of smart metering systems,
+
+(x) the relationship between household and wholesale prices,
+
+(xi) the evolution of grid tariffs and levies,
+
+(xii) the availability of comparison tools that meet the requirements set out in Article 14 of the 2019 Internal Electricity Market Directive, and (xiii) the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities,
+
+(xiii) the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities,]
+
+(*db*) to take any actions which the Commission, on foot of the monitoring in *paragraph (da)*, has determined to be necessary in order to—
+
+(i) prevent a distortion or restriction of competition in the supply of electricity and gas to final customers, or
+
+(ii) ensure that final customers are benefiting from competition in the supply of electricity and gas,
+
+F80[(*dc*) where the Commission determines it to be necessary under *paragraph (db)*, to—
+
+(i) examine the charges and the costs underlying such charges for electricity which have been supplied by the Board,
+
+(ii) examine any proposal by the Board to alter charges for the supply of electricity,
+
+(iii) examine the charges and the costs underlying such charges for natural gas which have been supplied in accordance with the licence granted to Bord Gáis Energy or its assignees,
+
+(iv) examine any proposal by Bord Gáis Energy or its assignees to alter charges for the supply of natural gas,
+
+(v) issue directions or approvals to the Board or Bord Gáis Energy or its assignees, in relation to either or both the nature or the amount of any charge or proposed charge for the supply of electricity or natural gas as relevant, to such class or classes of final customers as the Commission may specify, and
+
+(vi) publish a notice on the Commission’s website of any directions or approvals issued under *subparagraph (v)* stating the nature of the direction and the reasons for it,]]
+
+F81[(*dd*) to advise the Minister or other relevant persons on and publish at least annually—
+
+(i) any relevant information arising from the monitoring in *paragraph (da)*,
+
+(ii) any determination made by the Commission under *paragraph (db)*, and
+
+(iii) any action which the Commission has taken or intends to take under *paragraphs (db) and (dc)* and on the outcomes or intended outcomes of such actions,
+
+(*de*) to ensure such arrangements are in place, as the Commission deems appropriate, which have the effect of securing the extent to which each generating station, group of generating stations or all generating stations, owned by the Board, supplies electricity to or is supplied with electricity by, either or both, the public electricity supplier, suppliers and generators licensed under *section 14(1)*,
+
+(*df*) to examine charges, and the costs underlying such charges, or any proposal to alter such charges, as the Commission deems appropriate, for electricity supplied from each generating station, group of generating stations or all generating stations, owned by the Board, to the public electricity supplier, suppliers and generators licensed under *section 14(1)*,
+
+(*dg*) following an examination under *paragraph (df)* and where the Commission considers it necessary, to issue directions or approvals to the Board in relation to either or both the nature and the amount of any charge or proposed charge referred to in *paragraph (df)*,
+
+(*dh*) F82[...]
+
+(*di*) F82[...]]
+
+F83[(*dj*) to publish recommendations, at least annually, in relation to compliance of supply prices with Article 3 of the Natural Gas Market Directive and F77[Article 5 of the 2019 Internal Electricity Market Directive],
+
+(*dk*) to monitor the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, suppliers and customers and other market parties pursuant to the F78[2019 Internal Electricity Market Regulation] and the Natural Gas Market Regulation,
+
+(*dl*) to respect contractual freedom with regard to interruptible supply contracts as well as with regard to long-term contracts provided that they are compatible with European Union law and consistent with European Union policies,
+
+(*dm*) to monitor the occurrence of restrictive contractual practices, including exclusivity clauses which may prevent F84[...] customers from contracting simultaneously with more than one supplier or restrict their choice to do so and, where appropriate, to inform the Competition Authority of such practices,
+
+F86[(*dn*) where applicable, to monitor technical cooperation between electricity transmission system operators and third-country electricity transmission system operators, and
+
+(*do*) to review and approve, as appropriate, the criteria determined by the electricity transmission system operator to underpin the dispatch of generation installations and the use of interconnectors and such criteria shall—
+
+(i) be objective, published, applied in a non-discriminatory matter, and be without prejudice to the supply of electricity on the basis of existing contractual obligations ensuring the proper functioning of the internal market in electricity, and
+
+(ii) take into account the economic precedence of electricity from available generation installations or interconnector transfers and the technical constraints on the system,]]
+
+F87[(*dp*) to monitor and assess the performance of transmission system operators and distribution system operators in relation to the development of a smart grid that promotes energy efficiency and the integration of energy from renewable sources, based on a limited set of indicators, and publish a national report every two years, including recommendations,
+
+(*dq*) to contribute to the compatibility of data exchange processes for the most important market processes at regional level,
+
+(*dr*) to cooperate, where appropriate with the Competition and Consumer Protection Commission, other regulatory bodies and the European Commission, as necessary, when conducting an investigation relating to competition law,]
+
+F88[(*e*) to advise the Minister on the development of the electricity and gas industries and on the exercise of the functions of the Minister under this F89[Act,]]
+
+F90[(*ea*) to regulate the activities of natural gas undertakings, holders of LPG safety licences for the purposes of making LPG available via a piped LPG distribution network and natural gas installers, with respect to safety,
+
+(*eb*) to promote the safety of—
+
+(i) natural gas customers and the public generally as respects the supply, storage, transmission, distribution and use of natural gas (excluding such activities carried out at upstream pipelines or facilities except where such pipeline or facility is engaged in the storage of natural gas), and
+
+(ii) LPG customers and the public generally as respects the supply and use of LPG,]
+
+F91[(*ec*) to consult with The National Standards Authority of Ireland regarding standards and specifications relating to F92[gas safety,]]
+
+F93[(*ed*) to regulate the activities of LPG installers with respect to safety,]
+
+F94[(*f*) to contribute to the development of the internal market and to the development of compatible regulatory frameworks between regions of the European Union, by engaging, co-operating and consulting with other national regulatory authorities, the Agency and with the European Commission in regard to cross-border issues F95[, F96[in particular through participation in the work of the Agency’s Board of Regulators pursuant to Article 21 of the 2019 ACER Regulation]and in respect of infrastructure to and from a third country, to co-operate with the relevant authorities of the third country, after consulting the regulatory authorities of other Member States, aiming at, as regards such infrastructure, consistent application of the Natural Gas Market Directive in the territory of the European Union],
+
+(*fa*) to share information, as necessary for the fulfilment of its functions, with other national regulatory authorities and the Agency F99[and, in particular, to share information within the Agency],
+
+F102[(*faa*) to ensure that any information obtained from another regulatory authority in regard to a cross-border issue under the Natural Gas Market Directive, the Natural Gas Market Regulation, the F25[2019 Internal Electricity Market Directive] or the Electricity Market Regulation is treated confidentially to the same extent that is required of the other regulatory authority,]
+
+(*fb*) to co-operate with other regulatory authorities, at least at a regional level, to—
+
+(i) foster the creation of operational arrangements in order to enable optimal management of the electricity and gas networks,
+
+(ii) promote joint electricity and gas exchanges and the allocation of cross-border capacity,
+
+(iii) co-ordinate the development of network codes F100[and guidelines] for electricity and gas transmission system operators and electricity and gas undertakings,
+
+(iv) develop rules on access to cross border infrastructure including allocation of capacity and congestion management F97[except where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature],
+
+(v) foster operational arrangements to enable an adequate level of interconnection capacity within the region and between regions to allow the development of effective competition and improvement of security of supply,
+
+(vi) foster non-discriminatory operational arrangements in regard to supply undertakings, F27[...]
+
+(vii) contribute to safeguarding secure electricity and gas supplies on the internal market by co-operating with, and keeping other national regulatory authorities informed of any co-operation measure which the Commission takes pursuant to this section. Such cooperation shall cover situations resulting or likely to result in the short-term in a severe disruption of supply and shall include—
+
+(I) co-ordination of national emergency measures referred to in Article 8 of Directive 2004/67/EC of 26 April 2004 of the European Parliament and of the Council[^13],
+
+(II) identification and, where necessary, development or upgrading of electricity and natural gas interconnections, and
+
+(III) conditions and practical procedures for mutual F26[assistance, and]
+
+F101[(viii) coordinate the joint oversight of entities performing functions at regional level, and
+
+(ix) coordinate, in cooperation with other involved authorities, the joint oversight of national, regional and European resource adequacy assessments,]
+
+F103[(*fb*)(*a*) to publish the rules referred to in *section 9(1)(fb)(iv)*]
+
+F95[(*fbb*) to consult and co-operate with the relevant authorities of third countries in relation to the operation of gas infrastructure to and from third countries with a view to ensuring, as regards the infrastructure concerned, that the Natural Gas Market Directive is applied consistently in the territory and territorial seas of the State,]
+
+(*fc*) to engage with transmission system operators in order to—
+
+(i) promote and facilitate co-operation between transmission system operators at a regional level on cross-border issues,
+
+(ii) foster the consistency of legal, regulatory and technical frameworks,
+
+(iii) facilitate the integration of isolated systems forming electricity and gas islands in the European Union, and
+
+(iv) create competitive internal electricity and gas markets,
+
+(*fd*) to ensure that electricity and gas transmission system operators have one or more integrated systems at regional level covering 2 or more Member States for capacity allocation and for checking the security of the network,]
+
+F98[(*fda*) to ensure that transmission system operators make available interconnector capacities to the utmost extent pursuant to Article 16 of the 2019 Internal Electricity Market Regulation,]
+
+F104[(*fe*) to request the opinion of the Agency on the compliance of a decision, taken by another regulatory authority on a cross border trade issue, with F105[network codes and] guidelines referred to in the Natural Gas Market Regulation, the Natural Gas Market Directive, the F28[2019 Internal Electricity Market Directive] or the Electricity Market Directive,
+
+(*ff*) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the F106[network codes or] guidelines referred to in *paragraph (fe)*, to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
+
+(*fg*) where, following a request to the Agency by another regulatory authority in regard to a decision made by the Commission on a cross-border trade issue, the European Commission has requested the Commission to withdraw its decision, to comply with any such decision within a period of 2 months and to inform the European Commission accordingly,]
+
+F107[(*g*) to grant, monitor the performance of, modify, revoke and enforce licences and authorisations pursuant to this Act,
+
+(*h*) to publish information and advice and settle disputes in accordance with the provisions of this Act,
+
+(*i*) to carry out the role assigned to it by *section 39,* F108[...]
+
+F109[(*j*) to comply with and implement relevant legally binding decisions of the Agency and of the European Commission,]]
+
+F110[(*k*) to collect and recover the carbon revenue levy (within the meaning of *section 40D*) under F111[*Part VIB*,]]
+
+F112[*(ka)* to act as the competent authority for the purposes of European Communities (Geological Storage of Carbon Dioxide) Regulations 2011 and 2014,]
+
+F113[F114[(*l*) to ensure compliance by electricity and gas undertakings, including transmission system operators, distribution system operators and system owners, and other market participants, with their obligations under the Natural Gas Market Directive, the 2019 Internal Electricity Market Directive, the 2019 Internal Electricity Market Regulation, the network codes and the guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation, and other relevant law of the European Union, including as regards cross-border issues, as well as with decisions of the Agency, in accordance with their statutory functions,]
+
+F115[(*la*) in close cooperation with the other regulatory authorities, to ensure the compliance of the ENTSO for Electricity and the EU DSO entity with their obligations under the 2019 Internal Electricity Market Directive, the 2019 Internal Electricity Market Regulation, the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation, and other relevant law of the European Union, including as regards cross-border issues, as well as with the Agency’s decisions, and jointly identify any failure of the ENTSO for Electricity and the EU DSO entity to comply with their respective obligations,
+
+(*lb*) where the Commission has not been able to reach an agreement (with the other regulatory authorities), within a period of 4 months after the start of consultations, on the matter of whether a failure to comply, as referred to in *paragraph (la)*, has occurred or as to the extent of any such failure, to refer, jointly with those other authorities, the matter to the Agency for a decision, pursuant to Article 6(10) of the 2019 ACER Regulation,
+
+*(lc*) to implement the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation through national measures or, where so required, coordinated regional or Union-wide measures,]
+
+F116[(*m*) to carry out investigations into the functioning of the electricity and gas markets,
+
+(*n*) to decide upon and impose effective and proportionate measures to promote effective competition,
+
+(*o*) to have regard to the benefits of developing demand-side participation in electricity markets, including through energy efficiency, demand-response, distributed generation, energy storage and the use of digital technologies,
+
+(*p*) to have regard to the facilitation of consumers to provide, consume and trade electricity that they have generated,
+
+(*q*) to have regard to the need to provide for flexibility in the trading of electricity to facilitate trading close to real time in order to better integrate renewable electricity and provide accurate price signals to the market,
+
+(*r*) to have regard to the use of energy storage technologies in participating in the balancing of electricity demand and supply, F85[...]
+
+(*s*) to have regard to the need to ensure that grid connection policy takes account of renewable energy policy, including any such policy in relation to community energy F117[projects,]]]
+
+F118[(*t*) to approve products and procurement process for non-frequency ancillary F119[services,]
+
+(*u*) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the F120[network,]]
+
+F122[*(v)* to ensure a level playing field where electricity undertakings are subject to transparent, proportionate and non-discriminatory rules, fees and treatment, in particular with respect to —
+
+(i) balancing responsibility,
+
+(ii) access to wholesale markets,
+
+(iii) access to data,
+
+(iv) switching processes and billing regimes, and
+
+(v) where applicable, F123[licensing,]
+
+*(w)* to ensure that market participants from third countries, when operating within the internal market for electricity, comply with applicable Union and national law, including that concerning environmental and safety F124[policy, and]]
+
+F125[*(x)* to perform its functions under the European Union (Renewable Energy) Regulations 2022 (S.I. No. 76 of 2022).]
+
+F121[(1A) For the purposes of this Act, the functions of the Commission under the Electricity Market Directive and under the Natural Gas Market Directive and any regulations made under either, shall be deemed to be functions of the Commission under this Act.]
+
+F126[(1B) The Commission shall be responsible for ensuring non-discrimination, effective competition and the efficient functioning of the electricity and gas markets, by monitoring in particular—
+
+(*a*) the rules on the management and allocation of interconnection capacity in conjunction with the regulatory authority or authorities of those Member States with which the interconnection exists,
+
+(*b*) mechanisms to deal with management of congestion capacity within the electricity and gas systems,
+
+(*c*) the time taken by transmission and distribution system operators to make connections and repairs,
+
+(*d*) the publication of appropriate information by transmission and distribution system operators concerning interconnectors, grid usage and capacity allocation to interested parties, taking into account the need to treat non-aggregated information as commercially confidential,
+
+(*e*) effective unbundling of accounts to ensure that there are no cross-subsidies between generation, transmission, distribution, storage, LNG and supply activities, F127[or other electricity and non-electricity activities]
+
+(*f*) conditions of access to storage facilities, linepack and to other ancillary services in relation to gas,
+
+(*g*) the application by storage operators of the criteria relating to storage facilities that fall under Article 33 of the Natural Gas Market Directive,
+
+(*h*) the extent to which transmission and distribution system owners and operators fulfil their functions in accordance with statutory requirements,
+
+(*i*) the level of competition and transparency in respect of wholesale prices,
+
+(*j*) F130[...]
+
+(*k*) ensuring compliance by transmission system operators with recommendations of the Commission in regard to amendment or modification of investment plans of transmission system operators,
+
+(*l*) compliance with, and review of, past performance of network security and reliability rules, and
+
+(*m*) the terms, conditions and tariffs for connecting new producers of electricity to guarantee that these are objective, transparent and non-discriminatory, in particular taking full account of the costs and benefits of the various renewable energy sources technologies, distributed generation and combined heat and power.]
+
+F131[(1BA) F132[...]]
+
+F133[F128[(1BA) The Commission shall ensure compliance of electricity undertakings, including transmission and distribution system owners and operators, with transparency obligations.]
+
+(1C) The Commission shall in its annual report, under *paragraph 25(*c*)* of the *Schedule* include details on the carrying out and fulfilment of its duties under F134[Articles 59 and 60 of the 2019 Internal Electricity Market Directive], and Article 41 of the Natural Gas Market Directive and *subsection (3)* of *section 9BA*.]
+
+F129[(1CA) The Commission shall report annually on its activity and the fulfilment of its duties to the European Commission and the Agency, including on the steps taken and the results obtained as regards each of the tasks listed in Articles 59 and 60 of the 2019 Internal Electricity Market Directive.]
+
+F136[(1CB) The Commission shall report annually until at least 2032 on the developments in dynamic electricity price contracts, including market offers and the impact on consumers’ bills and specifically the level of price volatility.]
+
+F137[(1D)(*a*) Any dispute between a gas transmission, gas distribution, LNG or gas storage system operator and a person regarding—
+
+(i)(I) the matters specified in *section 9(1B)*, in relation to gas,
+
+(II) the terms and conditions for the provision of balancing services or the methodologies used to calculate such terms and conditions,
+
+(III) the terms and conditions, including tariffs or the methodologies used to calculate or establish such terms and conditions for connection and access to the national networks,
+
+F138[...]
+
+(ii) F138[...]
+
+shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and the system operator shall comply with and be bound by any such determination.
+
+(*b*) The Commission shall issue a binding determination referred to in *paragraph (*a*)* within 2 months from the date of receipt of the complaint. This 2 month period may be extended by a further 2 months (and such further extension as may be consented to by the applicant) where the Commission seeks additional information in the matter.
+
+(*c*) This subsection does not apply to a dispute between a final customer and a system operator where the dispute concerns a refusal to offer to enter into a third party access agreement within the meaning of *section 10A or 10B* of the Gas Act 1976.]
+
+F135[(1E) The Commission, when carrying out the monitoring of compliance referred to in *paragraph (*k*)* of *subsection (1B)*, may formulate proposals, by way of recommendations to be included by it in its report referred to in *subsection (1C)*, for the amendment or modification of investment plans referred to in that paragraph (*k*) so as to ensure their consistency with the Union wide network development plan referred to in Article 30(1)(*b*) of the 2019 Internal Electricity Market Regulation and Article 8(3)(*b*) of the Natural Gas Market Regulation.]
+
+F140[(1F) It shall be a function of the Commission to ensure that there is a high standard of protection for all final customers, including in their dealings with energy undertakings.]
+
+F141[(1FA) For the purposes of *subsection (1F)* “final customer”—
+
+(*a*) in the case of an electricity undertaking, has the meaning given to it by *section 2*, and
+
+(*b*) in the case of a natural gas undertaking, has the meaning given to it by section 2 of the Gas (Interim) (Regulation) Act 2002.]
+
+F142[(1G) F143[(*a*) In carrying out its functions under *paragraphs* (*ea*), (*eb*) and (*ed*) the Commission shall, having consulted with the Minister, establish and implement a LPG and natural gas safety regulatory framework, and report annually to the Minister on the functioning of such framework,]
+
+(*b*) The framework established under *paragraph* (*a*) shall include—
+
+(i) a system for the inspection and testing of all natural gas transmission and distribution pipelines, storage and LNG facilities to an extent and at a frequency specified in the framework,
+
+(ii) a system for the regulation, certification, ongoing inspection of the work and assessment of the competence of individual trained natural gas installers F144[and LPG installers],
+
+(iii) procedures for the investigation of complaints regarding the competence of any particular natural gas installer F145[or LPG installer],
+
+F146[(iv) procedures for the investigation of a LPG incident as prescribed by regulations under *section 9H* and any incidents involving natural gas which in the opinion of the Commission warrant such investigation,]
+
+(v) procedures relating to the making of a report to the Minister in respect of an investigation under *subparagraph (iv)*,
+
+(vi) any other matter considered necessary by the Commission.
+
+(*c*) The Commission may review or amend the framework referred to in *paragraph (*a*)* as often as it considers necessary.]
+
+F147[(1H) (*a*) In carrying out its functions under *paragraphs* (*ea*), (*eb*) and (*ed*) of *subsection (1)* the Commission may require natural gas undertakings and LPG undertakings to regularly advise and provide information to their final customers and the public as respects—
+
+(i) best practice in relation to the safe use of natural gas and LPG and on the operation and maintenance of natural gas fittings and LPG fittings, and
+
+(ii) the detection and reporting of natural gas and LPG leaks and other faults in natural gas fittings and LPG fittings, in such manner as the Commission may, from time to time, direct.
+
+(*b*) Without prejudice to the generality of *paragraph* (*a*), the Commission may direct a natural gas undertaking or a LPG undertaking, as the case may be, to engage in, either on its own or in concert with any other natural gas undertaking or LPG undertaking (whether or not such other undertaking operates within the State), campaigns promoting natural gas safety or LPG safety, as the case may be, which campaigns shall take such form as the Commission may specify in its direction and each natural gas undertaking or LPG undertaking concerned shall comply with any such direction.]
+
+F148[(1I) The Commission may, if necessary, direct a transmission system operator or a distribution system operator to modify the terms and conditions, including tariffs or methodologies referred to in Article 59 of the 2019 Internal Electricity Market Directive, so as to ensure that they are proportionate and applied in a non-discriminatory manner, in accordance with Article 18 of the 2019 Internal Electricity Market Regulation.]
+
+(2) Notwithstanding the generality of *subsection (1) (*a*)*, a policy direction of the Minister shall include a direction that procedures of the Commission enable the implementation of orders made by the Minister under *sections 39* and *40*.
+
+F149[(3) It shall be the duty of the Minister and the Commission to carry out their functions and exercise the powers conferred on them under this Act in a manner which—
+
+(*a*) in relation to electricity, does not discriminate unfairly between holders of licences, authorisations and the Board or between applicants for authorisations or licences,
+
+(*b*) in relation to gas, does not discriminate unfairly between holders of licences, consents and Bord Gáis Éireann or between applicants for consents or F150[licences,]
+
+(*c*) the Minister or the Commission, as the case may be, considers protects the interests of final customers of electricity or gas or both, F151[as the case may be, and]]
+
+F152[*(*d*)* in relation to electricity, ensures that no undue barriers exist for electricity as regards market entry, operation and exit, without prejudice to any competence retained in relation to third countries.]
+
+F153[(4)(*a*) F154[In carrying out the duty imposed by *subsection (3)* and the functions specified in Article 59 of the 2019 Internal Electricity Market Directive and Article 41 of the Natural Gas Market Directive, the Minister and the Commission shall, in close consultation with the authorities specified in *paragraph (aa)* and without prejudice to their competence, have regard to the need]—
+
+(i) to promote competition in the generation and supply of electricity and in the supply of natural gas in accordance with this Act,
+
+(ii) to secure that all reasonable demands by final customers of electricity for electricity are satisfied,
+
+(iii) to secure that licence holders are capable of financing the undertaking of the activities which they are licensed to undertake,
+
+(iv) to promote safety and efficiency on the part of electricity and natural gas undertakings,
+
+(v) to promote the continuity, security and quality of supplies of electricity,
+
+(vi) to promote the use of renewable, sustainable or alternative forms of energy,
+
+(vii) to secure that there is sufficient capacity in the natural gas system to enable reasonable expectations of demand to be met, F158[...]
+
+(viii) to secure the continuity, security and quality of supplies of natural F159[gas,]
+
+F160[(ix) to promote flexibility in the internal market for electricity within the F165[Union, and]]
+
+F166[(x) to ensure that electricity prices reflect actual demand and supply.]
+
+F161[(*aa*) The authorities referred to in paragraph (*a*) are every other relevant authority in the State, including the Competition and Consumer Protection Commission, and, as regards Article 59 of the 2019 Internal Electricity Market Directive, including every authority, including regulatory authority, in neighbouring Member States and neighbouring third countries, as appropriate, together with the European Commission and the Agency.]
+
+F167[*(ab)* Without prejudice to the duties of the Minister and the Commission under *subsection (3)* and *paragraph (*a*)*, nothing in this Act or other legislation shall unduly hamper —
+
+(i) cross-border trade in electricity,
+
+(ii) consumer participation, including through demand response,
+
+(iii) investments into, in particular, variable and flexible energy generation, energy storage and the deployment of electromobility and new interconnectors between Member States.]
+
+(*b*) In carrying out its duties under *paragraph* (*a*) of this subsection, the Commission shall also have regard to the following objectives:
+
+(i) to integrate large and small scale production of electricity and gas from renewable resources and distributed production in both transmission and distribution networks in the most cost effective way F162[and facilitating their operation in relation to other energy networks of gas or heat];
+
+F155[(ii) to develop –
+
+(I) competitive and properly efficient and reliable functional regional cross border electricity markets, and
+
+(II) competitive and properly efficient and reliable functional regional gas markets;]
+
+(iii) to eliminate restrictions on trade in electricity and gas between Member States, including developing appropriate cross-border transmission capacities to meet demand and enhancing the integration of national markets which may facilitate electricity and gas flows across the European Union;
+
+(iv) to promote system adequacy;
+
+F156[(v) to facilitate access to the network for new electricity generation capacity, energy storage facilities and for gas production, in particular removing barriers that could prevent access for new market entrants and of electricity and gas from renewable sources;]
+
+(vi) in fixing and approving tariffs or methodologies and the balancing services, to ensure that system operators and system users are granted appropriate incentives, in both the short and long term to—
+
+(I) increase the efficiencies F163[, and, in relation to electricity especially energy efficiency,] in system performance,
+
+(II) to foster market integration,
+
+(III) to foster security of supply, and
+
+(IV) to support research F157[activities;]]
+
+F164[(vii) to ensure that customers benefit through the efficient functioning of the market in the State, promoting effective competition and helping to ensure a high level of consumer protection, and in relation to duties under the 2019 Internal Electricity Market Directive in close cooperation with the Competition and Consumer Protection Commission;
+
+(viii) to contribute to the compatibility of necessary data exchange processes for customer switching.]
+
+(5) Without prejudice to *subsections (3)* and *(4)*, it shall be the duty of the Commission:
+
+(*a*) to take account of the protection of the environment;
+
+(*b*) to encourage the efficient use and production of electricity;
+
+(*c*) to take account of the needs of rural customers, the disadvantaged and the elderly;
+
+(*d*) to encourage research and development into—
+
+(i) methods of generating electricity using renewable, sustainable and alternative forms of energy and combined heat and power, and
+
+(ii) methods of increasing efficiency in the use and production of electricity;
+
+F168[...]
+
+(*e*) to require that the system operator gives priority to generating stations using renewable, sustainable or alternative energy sources when selecting F169[generating stations, and]
+
+F170[(*f*) to take account of the rights of customers, particularly household customers and small enterprises, to be supplied with electricity of a quality specified by the Commission pursuant to Regulation 26 of the European Communities (Internal Market in Electricity) Regulations 2005 at reasonable, F171[competitive,] easily and clearly comparable and transparent prices.]
+
+F172[(5A) Where the Single Electricity Market is in operation, *subsections* *(3)*, *(4)* and *(5)* shall not apply in relation to a matter which is a SEM matter.]
+
+F173[(6) In carrying out its functions pursuant to this Act, the Commission shall:
+
+(*a*) act in as consistent a manner as practicable, and
+
+F174[(*b*) any decisions taken by it shall be fully reasoned and justified and shall be publically available while preserving the confidentiality of commercially sensitive information.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Deleted (20.12.2000) by *European Communities (Internal Market in Electricity) Regulations* (S.I. No. 445 of 2000), reg. 31(*a*), in operation as per reg. 1(2)(*a*).
+>
+> F75: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*a*).
+>
+> F76, F77, F78: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*a*)(i), (*b*), (*c*), in operation as per reg. 1(2).
+>
+> F79: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*a*)(ii), in operation as per reg. 1(2).
+>
+> F80: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(2)(*a*)(i).
+>
+> F81: Substituted (17.09.2010) by *European Communities (Internal Market in Electricity) Regulations 2010* (S.I. No. 450 of 2010), reg. 3.
+>
+> F82: Deleted (17.09.2010) by *European Communities (Internal Market in Electricity) Regulations 2010* (S.I. No. 450 of 2010), reg. 3.
+>
+> F83: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*b*).
+>
+> F84, F85: Deleted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*d*), (*j*), in operation as per reg. 1(2).
+>
+> F86: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(2)(*a*)(ii).
+>
+> F87: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*e*), in operation as per reg. 1(2).
+>
+> F88: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 6(*a*), commenced on enactment.
+>
+> F89: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(ii).
+>
+> F90: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*a*), S.I. No. 20 of 2013.
+>
+> F91: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 12(*a*), S.I. No. 68 of 2008.
+>
+> F92: Substituted (27.07.2011) by *Energy (Biofuel Obligations and Miscellaneous Provisions) Act 2010* (11/2010), s. 24(*a*), S.I. No. 280 of 2011.
+>
+> F93: Inserted (27.07.2010) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 24(*b*), S.I. No. 280 of 2011.
+>
+> F94: Substituted and inserted (1.02.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*c*).
+>
+> F95: Inserted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 9(*a*), (*b*).
+>
+> F96, F97, F98: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*f*), (*g*), (*h*), in operation as per reg. 1(2).
+>
+> F99, F100, F101: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(1)(*a*), (*c*), (*d*)(iii) in operation as per reg. 1(2).
+>
+> F102: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(2)(*a*)(iii).
+>
+> F25, F26: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(1)(*b*), (*d*)(ii), in operation as per reg. 1(2).
+>
+> F27: Deleted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(1)(*b*), (*d*)(i), in operation as per reg. 1(2).
+>
+> F103: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 9(1), in operation as per reg. 1(2).
+>
+> F104: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(2)(*a*)(iv).
+>
+> F105, F106: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(2)(*a*), (*b*), in operation as per reg. 1(2).
+>
+> F28: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(2)(*a*), in operation as per reg. 1(2).
+>
+> F107: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(iii), subject to transitional provision in reg. 40.
+>
+> F108: Deleted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 2(*a*), commenced on enactment.
+>
+> F109: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*d*).
+>
+> F110: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 2(*c*), commenced on enactment.
+>
+> F111: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*e*).
+>
+> F112: Inserted (12.06.2014) by *European Communities (Geological Storage of Carbon Dioxide) (Amendment) Regulations 2014* (S.I. No. 279 of 2014), reg. 6.
+>
+> F113: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*f*).
+>
+> F114: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(i), in operation as per reg. 1(2).
+>
+> F115: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(i), in operation as per reg. 1(2).
+>
+> F116: Substituted and inserted (7.10.2016) by *Energy Act 2016* (12/2016), s. 11, S.I. No. 509 of 2016.
+>
+> F117: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*k*), in operation as per reg. 1(2).
+>
+> F118: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(*l*), in operation as per reg. 1(2).
+>
+> F119: Amended (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*a*)(i), in operation as per reg. 1(2).
+>
+> F120: Substituted (15.02.2022) by *European Union (Renewable Energy) Regulations 2022* (S.I. No. 76 of 2022), reg. 11(*a*).
+>
+> F121: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*g*).
+>
+> F122: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*a*)(iii), in operation as per reg. 1(2).
+>
+> F123: Substituted (15.02.2022) by *European Union (Renewable Energy) Regulations 2022*(S.I. No. 76 of 2022), reg. 11(*b*).
+>
+> F124: Substituted (15.02.2022) by *European Union (Renewable Energy) Regulations 2022*(S.I. No. 76 of 2022), reg. 11(*c*).
+>
+> F125: Inserted (15.02.2022) by *European Union (Renewable Energy) Regulations 2022*(S.I. No. 76 of 2022), reg. 11(*d*).
+>
+> F126: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*h*).
+>
+> F127, F128, F129: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(2)(*a*)(i), (*b*), (*d*), in operation as per reg. 1(2).
+>
+> F130: Deleted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(2)(*a*)(ii), in operation as per reg. 1(2).
+>
+> F131: Inserted (20.06.2005) by *European Communities (Internal Market in Natural Gas) Regulations 2005* (S.I. No. 320 of 2005), reg. 5.
+>
+> F132: Deleted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(i).
+>
+> F133: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*j*).
+>
+> F134, F135: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(2)(*c*), (*e*), in operation as per reg. 1(2).
+>
+> F136: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 12(4), in operation as per reg. 1(2).
+>
+> F137: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*k*).
+>
+> F138: Deleted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(2)(*b*).
+>
+> F139: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*l*).
+>
+> F140: Substituted (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 10.
+>
+> F141: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 12, S.I. No. 171 of 2017.
+>
+> F142: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 12(*b*), S.I. No. 68 of 2008.
+>
+> F143: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*b*), S.I. No. 20 of 2013.
+>
+> F144: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 24(*d*), S.I. No. 280 of 2011.
+>
+> F145: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 24(*e*), S.I. No. 280 of 2011.
+>
+> F146: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012.* (3/2012), s. 17(2)(*c*), S.I. No. 20 of 2013.
+>
+> F147: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*d*), S.I. No. 20 of 2013.
+>
+> F148: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 9(*a*), in operation as per reg. 1(2).
+>
+> F149: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 6(*b*), commenced on enactment.
+>
+> F150: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*b*)(i), in operation as per reg. 1(2).
+>
+> F151: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*b*)(ii), in operation as per reg. 1(2).
+>
+> F152: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*b*)(iii), in operation as per reg. 1(2).
+>
+> F153: Substituted( (1.11.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*m*).
+>
+> F154, F155, F156, F157: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 6(*a*), (*d*)(ii), (iii), (v), in operation as per reg. 1(2).
+>
+> F158: Deleted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 6(*b*)(i), in operation as per reg. 1(2).
+>
+> F159: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*c*)(i)(I), in operation as per reg. 1(2).
+>
+> F160, F161, F162, F163, F164: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 6(*b*)(iii), (*d*)(i), (iv), (vi), in operation as per reg. 1(2).
+>
+> F165: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*c*)(i)(II), in operation as per reg. 1(2).
+>
+> F166: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*c*)(i)(III), in operation as per reg. 1(2).
+>
+> F167: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*c*)(ii), in operation as per reg. 1(2).
+>
+> F168: Deleted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*d*)(i), commenced on enactment, subject to transitional provision in reg. 40.
+>
+> F169: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*d*)(ii), subject to transitional provision in reg. 40.
+>
+> F170: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*d*)(iii), subject to transitional provision in reg. 40.
+>
+> F171: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 17(1), in operation as per reg. 1(2).
+>
+> F172: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 6(*b*), S.I. No. 287 of 2007.
+>
+> F173: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*e*).
+>
+> F174: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*n*).
+>
+> **Modifications (not altering text):**
+>
+> C8: Reference to “Competition Authority” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39, S.I. No. 366 of 2014.
+>
+> **Transfer of functions to Commission**
+>
+> **39.** (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> (*b*) the Competition Authority, shall, on and after that day, be construed as references to the Commission.
+>
+> ...
+>
+> C9: Application of Act extended (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 19(1).
+>
+> **Billing-regulated energy sector**
+>
+> **19. (1)** It shall be a function of the CER under the Act of 1999, to ensure the provision of smart metering systems in the electricity and natural gas retail market and the CER may take all reasonable steps to discharge its functions in accordance with the Directive, the Electricity Market Directive and the Natural Gas Market Directive.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E10: Powers prescribed for performance of functions under subs. (1F) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(4A)(*a*), as inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 22, S.I. No. 171 of 2017.
+>
+> E11: Process for referral of complaints under subss. (1B) provided (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 22.
+>
+> E12: Previous affecting provision: subs. (1)(u) amended (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(1)(*a*)(ii); substituted as per F-note above.
+>
+> E13: Previous affecting provision: subs. (4)(*a*)(viii) amended (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 6(*b*)(ii), in operation as per reg. 1(2); substituted (17.01.2022) as per F-note above.
+>
+> E14: Previous affecting provision: subs. (1E) substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*l*); substituted as per F-note above.
+>
+> E15: Previous affecting provision: process for referral of complaints under subs. (1B) provided (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 33(2); revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(*d*).
+>
+> E16: Previous affecting provision: subs. (1)(*m*), (*n*) inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*f*); substituted as per F-note above.
+>
+> E17: Previous affecting provision: subs. (1)(dn) inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*b*); substituted as per F-note above.
+>
+> E18: Previous affecting provision: subs. (1)(*l*) inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(2)(*f*); substituted as per F-note above.
+>
+> E19: Commission’s consumer protection obligations specified (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 3.
+>
+> E20: Previous affecting provision: subs. (1G)(*a*) amended (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 24(*c*), S.I. No. 280 of 2011; substituted as per F-note above.
+>
+> E21: Previous affecting provision: subs. (1)(*j*) amended (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 2(*b*), commenced on enactment; substituted as per F-note above.
+>
+> E22: Previous affecting provision: subs. (1)(da)-(dc) substituted (17.09.2010) by *European Communities (Internal Market in Electricity) Regulations 2010* (S.I. No. 450 of 2010), reg. 3; substituted as per F-note above.
+>
+> E23: Previous affecting provision: subs. (1H) inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 12(*b*), S.I. No. 68 of 2008; substituted as per F-note above.
+>
+> E24: Previous affecting provision: subs. (1)(ea), (eb) inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 12(*a*), S.I. No. 68 of 2008; substituted as per F-note above.
+>
+> E25: Previous affecting provision: subs. (1E) amended (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), reg. 6(*a*), S.I. No. 287 of 2007; substituted as per F-note above.
+>
+> E26: Previous affecting provision: subs. (1)(da)-(dc) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(i), subject to transitional provision in reg. 40; substituted as per F-note above.
+>
+> E27: Previous affecting provision: subs. (1)(dd)-(dg) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(i), subject to transitional provision in reg. 40; substituted as per F-note above.
+>
+> E28: Previous affecting provision: subs. (1)(dh)-(di) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(i), subject to transitional provision in reg. 40; deleted as per F-note above.
+>
+> E29: Previous affecting provision: subs. (1)(*f*) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(iii), subject to transitional provision in reg. 40; substituted as per F-note above.
+>
+> E30: Previous affecting provision: subs. (1)(*j*) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*a*)(iii), subject to transitional provision in reg. 40; substituted as per F-note above.
+>
+> E31: Previous affecting provision: subs. (1A) amended (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*b*); substituted as per F-note above.
+>
+> E32: Previous affecting provision: subss. (1D)-(1F) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 3(*c*), subject to transitional provision in reg. 40; substituted as per F-note above.
+>
+> E33: Previous affecting provision: subss. (1B), (1C) inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 12(1), subject to transitional provision in reg. 3; substituted as per F-note above.
+>
+> E34: Previous affecting provision: power pursuant to subs. (1)(*d*) exercised (21.07.2003) by *Electricity Regulation Act 1999 (Market Arrangements for Electricity) Regulations 2003* (S.I. No. 304 of 2003), in operation as per reg. 9; revoked (18.02.2006) by *Electricity Regulation Act 1999 (Market Arrangements for Electricity) (Revocation) Regulations 2006* (S.I. No. 78 of 2006), reg. 2, in operation as per reg. 1(2).
+>
+> E35: Previous affecting provision: subs. (4)(*a*), (*d*)-(*h*) substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 6(*c*)(i), (ii), commenced on enactment; substituted as per F-note above.
+>
+> E36: Previous affecting provision: subs. (1A) inserted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 31(*b*), in operation as per reg. 1(2)(*a*); substituted as per F-note above.
+>
+> E37: Previous affecting provision: power pursuant to subs. (1)(*d*) exercised (17.02.2000) *Electricity Regulation Act 1999 (Trading Arrangements in Electricity) Regulations 2000* (S.I. No. 49 of 2000), in operation as per reg. 6; revoked (1.11.2007) by *Electricity Regulation Act 1999 (Trading Arrangements in Electricity) (Revocation) Regulations 2007* (S.I. No. 723 of 2007), reg. 2.
+>
+> E38: Previous affecting provision: subs. (1)(da)-(dc) inserted (20.12.2000) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 31(*a*), in operation as per reg. 1(2)(*a*); substituted as per F-note above.
+
+### 9A. Approval of terms and conditions
+
+F175[**9A.**—F176[(1) Subject to *subsection (1A)*, the Commission shall be responsible for –
+
+(*a*) determining or approving prior to their entry into force, at least the methodologies used to calculate the terms and conditions for the provision of balancing ancillary services in relation to electricity and gas systems,
+
+(*b*) providing in the most economic manner ancillary services, with the appropriate incentives for network users to balance the input and off-take of gas in the system, and
+
+(*c*) providing ancillary services in a fair and non-discriminatory manner and based on objective criteria.
+
+(1A) *Subsection (1)* shall not apply where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature.]
+
+(2) The Commission shall publish the methodologies or the terms and conditions referred to in *9A(1)* on a publically available website.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(3).
+>
+> F176: Substituted and inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(3), in operation as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: section inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 12(2); substituted as per F-note above.
+
+### 9B. Functions of Commission regarding all-island energy market.
+
+F177[**9B.**—(1) It shall be, and be deemed always to have been, a function of the Commission to participate in the development of an all-island energy market, including the preparation of proposals and the provision of advice to the Minister in regard to any part or aspect of the establishment, management and operation of such a market.
+
+(2) The Commission may take all actions it considers necessary, in carrying out its function under *subsection (1)*.
+
+(3) The powers conferred on the Commission by *subsection (1)* include the power to direct—
+
+(*a*) a person holding a licence under *section 14(1)*(*e*) or ESB National Grid to negotiate with any person holding an analogous licence as respects any part of Northern Ireland and to enter into an agreement with any such person to establish an entity to be known as a single market operator,
+
+(*b*) the holder of a licence under *section 14(1)*(*e*) or ESB National Grid to take such steps as are necessary to ensure the proper functioning and operation of the system of trading in electricity for which it is responsible on foot of a direction from the Commission under this Act or the European Communities (Internal Market in Electricity) Regulations 2000 and 2005, and
+
+(*c*) the holder of a licence granted under *section 14* or a person who stands licensed to generate electricity by virtue of *subsection (1A) or (1B) of section 14* to comply with any directions, codes or rules made by the Commission under this Act or the European Communities (Internal Market in Electricity) Regulations 2000 and 2005.
+
+(4) The power of the Commission under *subsection (3)* includes the power to direct that necessary expenditure be undertaken by the holder of a licence under *section 14(1)*(*e*) or ESB National Grid.
+
+(5) Without prejudice to the generality of *subsection (2)* the Commission in exercising its powers under this section may—
+
+(*a*) liaise,
+
+(*b*) co-operate, or
+
+(*c*) enter into arrangements including arrangements involving—
+
+(i) the sharing of information, or
+
+(ii) the sharing of expenditure,
+
+with a relevant person in any other Member State of the European Union and in particular the Northern Ireland Authority for Energy Regulation.
+
+(6) In this section—
+
+“all-island energy market” means a market in energy for the island of Ireland resulting from the integration of the equivalent markets in Ireland with those of Northern Ireland;
+
+“island of Ireland” includes its islands and seas;
+
+“ESB National Grid” means the National Grid Business Unit of the Board performing the functions of the transmission system operator under this Act and the European Communities (Internal Market in Electricity) Regulations 2000 and 2005, pending the granting of a licence under *section 14(1)*(*e*);
+
+“market in energy” includes a market in respect of—
+
+(*a*) the generation, supply, transmission, distribution and trading, including the export or import, of electricity, including electricity generated from renewable sources,
+
+(*b*) the storage, supply, transmission, distribution and trading, including the export and import, of natural gas,
+
+(*c*) energy efficiency services,
+
+(*d*) energy research and development, and
+
+(*e*) other sustainable energy activities;
+
+“relevant person” means—
+
+(*a*) any person exercising a function in relation to an energy market which corresponds to any of the functions of the Commission or the Minister under—
+
+(i) the Electricity and Gas Regulation Acts 1999 to 2002,
+
+(ii) European Communities (Internal Market in Electricity) Regulations 2000 and 2005,
+
+and
+
+(*b*) any person engaged in—
+
+(i) generation, supply, including the export or import, transmission or distribution of electricity, or
+
+(ii) storage, supply including the export or import, transmission or distribution of natural gas;
+
+“single market operator”means an entity established pursuant to an agreement made under *subsection (3)* for the purpose of establishing and operating a system of contracts and arrangements (including such rights and obligations as appear to the Commission to be necessary) for trading in electricity on the island of Ireland.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 3, commenced on enactment.
+
+### 9BA. Functions of Commission relating to Single Electricity Market.
+
+F178[**9BA.**—(1) In addition to the functions conferred on it by section 9, the Commission shall have as a function, following consultation with the Authority, the taking of all necessary steps (including the making of regulations under *subsection (2)* to have effect in the State in connection therewith) to establish and facilitate the operation of the Single Electricity Market, including a Trading and Settlement Code in relation to that market.
+
+(2) (*a*) The Commission may make regulations for the purposes of *subsections (1) and (3)*.
+
+(*b*) Without prejudice to the generality of paragraph (*a*) regulations under *subsection (1)* may—
+
+(i) subject to *paragraph (iii)*, require every person holding a licence under *section 14(1)*(*a*) to (*d*) and (*h*) to make available for trading under the Single Electricity Market such electricity as is generated by that person or available to that person for supply,
+
+(ii) prescribe an amount of electricity to be a threshold quantity (expressed in megawatts) for the purposes of paragraph (iii) and may prescribe different amounts in relation to different classes of licence holder,
+
+(iii) provide that a person holding a licence under *section 14* who does not generate an amount of electricity greater than the relevant threshold quantity may, but is not required to, make available for trading under the Single Electricity Market such electricity as is generated by that person.
+
+(3) In performing the function referred to in *subsection (1)* the Commission shall monitor, supervise and keep under review the operation and effectiveness of the Single Electricity Market including the functions of the Single Electricity Market operator, and may make regulations under *subsection (2)* in relation to the Single Electricity Market.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F178: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 7, S.I. No. 287 of 2007.
+>
+> C10: Term “Single Electricity Market” construed (30.07.2016) by *Energy Act 2016* (12/2016), s. 7(2), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7.** ...
+>
+> (2) During the interim period section 9BA of the Act of 1999 shall have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E40: Power pursuant to subs. (2) exercised (29.03.2017) by *Electricity Regulation Act 1999 (Single Electricity Market) (No. 2) Regulations 2017* (S.I. No. 117 of 2017).
+>
+> E41: Power pursuant to subs. (2) exercised (3.07.2007) by *Electricity Regulation Act 1999 (Single Electricity Market) Regulations 2007* (S.I. No. 406 of 2007).
+>
+> E42: Previous affecting provision: power pursuant to subs. (2) exercised (11.01.2017 in part) by *Electricity Regulation Act 1999 (Single Electricity Market) Regulations 2017* (S.I. No. 3 of 2017), in operation as per reg. 1(3); revoked (29.03.2017) by *Electricity Regulation Act 1999 (Single Electricity Market) (No. 2) Regulations 2017* (S.I. No. 117 of 2017), reg. 6(1), subject to transitional provision in para. (2).
+
+### 9BB. Restriction on disclosure of information.
+
+F179[**9BB.**—(1) (*a*) This subsection applies to information received by the Minister or the Commission, which information has been given to that person under or by virtue of—
+
+(i) any provision of the law of Northern Ireland corresponding to a provision under this Act (including a condition in a licence, exemption or authorisation granted under it) or the Internal Market Regulations, or
+
+(ii) a licence, exemption or authorisation granted in Northern Ireland by the Department analogous to a licence, exemption or authorisation which may be granted by the Commission under this Act.
+
+(*b*) Subject to *paragraph* (*c*), information to which this subsection applies shall not be disclosed or published by the recipient of the information unless—
+
+(i) that person is required or permitted to disclose that information—
+
+(I) under or by virtue of any enactment, or
+
+(II) by order of a Court exercising its jurisdiction,
+
+or
+
+(ii) such disclosure or publication is made for the purpose of facilitating the performance of any of the functions of that person under this Act.
+
+(*c*) The Minister and the Commission, to the extent that each of them believes it necessary or expedient for the effective operation of the Single Electricity Market, may share information with such persons exercising a function in Northern Ireland in relation to electricity which corresponds to any of the functions of the Commission or the Minister under—
+
+(i) the Electricity and Gas Regulation Acts 1999 to 2002, or
+
+(ii) the Internal Market Regulations,
+
+including information which is commercially sensitive, and information which has been furnished to that person by the holder of a licence or exemption under *section 14* or the holder of an authorisation under *section 16*.
+
+(2) (*a*) This subsection applies to information received by the holder of a licence, an exemption or an authorisation, which information has been given to that person under or by virtue of—
+
+(i) this Act (including a condition of a licence, exemption or authorisation granted under it),
+
+(ii) the Internal Market Regulations,
+
+(iii) any corresponding provision of the law of Northern Ireland, or
+
+(iv) a licence, exemption or authorisation granted in Northern Ireland by the Department analogous to a licence, exemption or authorisation which may be issued by the Commission under this Act.
+
+(*b*) Information to which this subsection applies shall not be disclosed or published by the recipient of the information unless that person is required to disclose or publish that information—
+
+(i) by reason of a condition in a licence, exemption or authorisation,
+
+(ii) under or by virtue of any enactment, or
+
+(iii) by order of a Court exercising its jurisdiction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 8, S.I. No. 287 of 2007.
+
+### 9BC. Principal objective and functions of Minister, the Commission and SEM Committee in carrying out their functions in relation to the Single Electricity Market.
+
+F180[**9BC.**—(1) The principal objective of—
+
+(*a*) the Minister in carrying out his or her electricity functions in relation to matters which the Minister considers materially affect, or are likely materially to affect, the Single Electricity Market,
+
+(*b*) the Commission in giving effect to any decision of the SEM Committee, and
+
+(*c*) the SEM Committee in carrying out its functions under *section 8A(4)*,
+
+is to protect the interests of consumers of electricity in the State and Northern Ireland supplied by authorised persons, wherever appropriate by promoting effective competition between persons engaged in, or in commercial activities connected with, the sale or purchase of electricity through the Single Electricity Market.
+
+(2) The Minister, the Commission and the SEM Committee shall carry out their respective functions referred to in *subsection (1)* in the manner which each considers is best calculated to further the principal objective, having regard to—
+
+(*a*) the need to secure that all reasonable demands for electricity in the State and Northern Ireland are met,
+
+(*b*) the need to secure that authorised persons are able to finance the activities which are the subject of conditions or obligations imposed by or under this Act or the Internal Market Regulations or any corresponding provision of the law of Northern Ireland,
+
+(*c*) the need to secure that the functions of the Minister, the Commission, the Authority, and the Department in relation to the Single Electricity Market are exercised in a co-ordinated manner,
+
+(*d*) the need to ensure transparent pricing in the Single Electricity Market, and
+
+(*e*) the need to avoid unfair discrimination between consumers in the State and consumers in Northern Ireland.
+
+(3) The Minister, the Commission and the SEM Committee may, in carrying out any of the functions mentioned in *subsection (1)*, have regard to the interests of consumers in the State and Northern Ireland in relation to gas.
+
+(4) Subject to *subsection (2)*, the Minister, the Commission and the SEM Committee shall carry out the functions mentioned in *subsection (1)* in the manner which each of them consider is best calculated—
+
+(*a*) to promote efficiency and economy on the part of authorised persons,
+
+(*b*) to secure a diverse, viable and environmentally sustainable long-term energy supply in the State and Northern Ireland,
+
+(*c*) to promote research into, and the development and use of—
+
+(i) new techniques by or on behalf of authorised persons, and
+
+(ii) methods of increasing efficiency in the use and generation of electricity.
+
+(5) Subject to *subsection (2)*, in carrying out any of the functions mentioned in *subsection (1)* the Minister, the Commission and the SEM Committee shall have regard to—
+
+(*a*) the effect on the environment in the State and Northern Ireland of the activities of authorised persons, and
+
+(*b*) the need, where appropriate, to promote the use of energy from renewable energy sources.
+
+(6) In carrying out any of the functions mentioned in *subsection (1)* the Minister, the Commission and the SEM Committee shall not discriminate unfairly as regards terms and conditions—
+
+(*a*) between authorised persons, or
+
+(*b*) between persons who are applying to become authorised persons.
+
+(7) In this section—
+
+“authorised person” means the holder of a licence or exemption under a provision of this Act relating to electricity or under any corresponding provision of the law of Northern Ireland;
+
+“electricity functions” means—
+
+(*a*) functions under this Act, and
+
+(*b*) functions under the Internal Market Regulations,
+
+relating to electricity;
+
+“environmentally sustainable” includes the need to guard against climate change;
+
+“renewable energy sources” has the same meaning as in Directive 2003/54/EC of the European Parliament and of the Council of 26 June 2003 concerning common rules for the internal market in electricity and repealing Directive 96/92/EC[^14].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 9, S.I. No. 287 of 2007.
+
+### 9BD. Performance of functions relating to Single Electricity Market.
+
+F181[**9BD.**—The Minister, the Commission and the SEM Committee shall have regard to the objective that the performance of any of their respective functions in relation to the Single Electricity Market should, to the extent that the person exercising the function believes is practical in the circumstances, be transparent, accountable, proportionate, consistent and targeted only at cases where action is needed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F181: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 10, S.I. No. 287 of 2007.
+
+### 9C. Function of Commission relating to electrical safety.
+
+F182[F183[**9C.**—(1) It is a function of the Commission to regulate the activities of electrical contractors with respect to safety.
+
+(2) In carrying out its functions under this section, the Commission may by notice require electricity undertakings to advise and provide information to their final customers and the public in respect of the safe installation and maintenance of electrical works in such manner and frequency as the Commission, may from time to time, direct.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F182: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 4, S.I. No. 68 of 2008.
+>
+> F183: Inserted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 7, S.I. No. 122 of 2012.
+
+### 9D. Regulation of electrical contractors.
+
+F184[**9D.**—(1) (*a*) The Commission may appoint a person or persons to be a designated body for the purposes of this section and such body may be referred to as an Electrical Safety Supervisory Body.
+
+(*b*) Where the Commission has not appointed a person or persons to be a designated body, or a designated body is, in the opinion of the Commission, no longer able to carry out its functions under this section, the Commission may, with the consent of the Minister, appoint an employee of the Commission to carry out those functions on a temporary basis.
+
+(2) (*a*) In determining the number of persons appointed under *subsection (1)* the Commission shall have regard to the costs likely to be incurred—
+
+(i) by the Commission in carrying out its functions under this section, and
+
+(ii) by final customers.
+
+(*b*) *Paragraph 16 of Schedule 1* shall apply to any costs incurred by the Commission in carrying out its functions under this section.
+
+(*c*) In *paragraph* (*b*) the words “any costs incurred by the Commission” includes any moneys provided by the Commission to a designated body, following its appointment under *subsection (1)*, to facilitate that body in establishing and carrying out its functions.
+
+(3) A person shall not be appointed to be a designated body, or if so appointed shall cease to act as a designated body, if that person is or becomes a trade association or performs representative functions on behalf of persons working in the electrical industry.
+
+(4) A person who does not for the time being stand appointed as a designated body shall not describe himself or herself as an Electrical Safety Supervisory Body or in a manner likely to suggest that such person is a designated body for the purposes of this section.
+
+(5) (*a*) The Commission shall publish criteria (in this section referred to as “the criteria”) relating to—
+
+(i) electrical safety supervision,
+
+(ii) the safety standards to be achieved and maintained by electrical contractors, and
+
+(iii) the procedures to be operated by a person appointed as a designated body.
+
+(*b*) The criteria to be published in connection with *paragraph* (*a*) shall include, but shall not be limited to, the following information:
+
+(i) the procedures to be adopted by a designated body for the registration of its members;
+
+(ii) the procedures to be followed by a person applying for membership of a designated body;
+
+(iii) the services which a designated body may carry out on behalf of its members to facilitate the performance of its functions;
+
+(iv) the standards of training and safety to be achieved and maintained by members of a designated body and the procedures to be followed by a designated body in monitoring such standards;
+
+(v) the procedures to be followed by a designated body for the inspection of any work carried out by one of its members, or by a person who is not a registered electrical contractor;
+
+(vi) the procedures to be followed by a designated body in connection with the suspension or revocation of the membership of one of its members;
+
+(vii) the matters to be covered by a completion certificate in respect of different categories or classes of electrical works and the circumstances in which each such class of certificate shall be used;
+
+(viii) the type of accounts to be kept by the designated body, and the manner in which such accounts should be audited;
+
+(ix) the method by which the accounts kept under *subparagraph (viii)* should be published; and
+
+(x) the procedures to be followed, and the records to be maintained, by a designated body or its members (where appropriate), in connection with *subparagraphs (i) to (ix).*
+
+(*c*) The Commission may review or amend the criteria as often as it considers necessary.
+
+(6) The Commission shall not appoint a person to be a designated body unless it is satisfied that the person is capable of complying with the criteria, and as respects each person who is a member (in this section referred to as a “registered electrical contractor”) of that designated body that the body has, or will have if appointed, the capability and entitlement to—
+
+(*a*) inspect any work carried out by a registered electrical contractor,
+
+(*b*) monitor the training and safety standards of a person who is a registered electrical contractor,
+
+(*c*) review training undertaken by a person engaged either as an employee or as an independent contractor of a registered electrical contractor,
+
+(*d*) issue directions to a registered electrical contractor regarding the training to be given to or undertaken by a class or classes of persons engaged either as employees or as independent contractors,
+
+(*e*) suspend the membership of a registered electrical contractor in a designated body where that registered electrical contractor is the subject of an investigation by that body into whether—
+
+(i) work carried out by the registered electrical contractor concerned is unsafe or otherwise of an unsatisfactory standard,
+
+(ii) the training of employees and independent contractors engaged by the registered electrical contractor concerned is materially inadequate, or
+
+(iii) the registered electrical contractor has acted in contravention of the criteria to a material extent,
+
+(*f*) suspend or revoke the membership of a registered electrical contractor in the designated body where that body is satisfied that any of the matters specified in *subparagraphs (i)* to *(iii)* of *paragraph* (*e*) apply as respects the contractor concerned.
+
+(7) (*a*) Where a designated body decides to suspend or revoke the membership of a registered electrical contractor in that body, such designated body shall inform, in writing, both—
+
+(i) the Commission, and
+
+(ii) the registered electrical contractor concerned,
+
+of its decision to suspend or revoke the membership of a registered electrical contractor in the designated body.
+
+(*b*) A registered electrical contractor, the subject of a decision under *paragraph* (*a*), may submit an appeal, in writing, of the decision to the Commission within 28 days of being informed of the decision.
+
+(8) (*a*) The Commission shall appoint one or more persons (“Appeals Officer”) to—
+
+(i) duly consider, and
+
+(ii) furnish a report to the Commission on,
+
+any appeal submitted by a registered electrical contractor relating to a decision made by the designated body to suspend or revoke his or her membership in the designated body.
+
+(*b*) The Commission shall have regard to the report of the Appeals Officer under *paragraph (*a*)* and shall advise the designated body, the Appeals Officer and the registered electrical contractor concerned of its decision to confirm, vary or set aside the decision of the designated body concerned.
+
+(*c*) An appeal shall not be considered under this subsection if—
+
+(i) it relates to any matter the subject of proceedings before a court or other tribunal, until those proceedings are determined, or
+
+(ii) it is not submitted to the Commission within 28 days of the registered electrical contractor concerned being informed of the decision.
+
+(9) Notwithstanding the generality of *subsections (7)* and *(8)*, the Commission may specify the procedures to be followed by:
+
+(*a*) the Appeals Officer in considering the appeal;
+
+(*b*) the Appeals Officer in drafting his or her report to the Commission;
+
+(*c*) the designated body when suspending or revoking the membership of a registered electrical contractor; and
+
+(*d*) a registered electrical contractor who is the subject of a decision by the designated body to suspend or revoke his or her membership in the designated body,
+
+in the criteria published under *subsection (5)*.
+
+(10) (*a*) The tariff of fees and charges imposed by a designated body relating to—
+
+(i) membership of an electrical contractor in that body,
+
+(ii) registration of an electrical contractor as a registered electrical contractor,
+
+(iii) inspections of electrical works, and
+
+(iv) any service provided to a member of a designated body by or on behalf of that body,
+
+shall be subject to the approval of the Commission.
+
+(*b*) All expenses and costs incurred by a designated body in carrying out any of its functions under this section shall be defrayed by the designated body out of funds at its disposal which are obtained in accordance with *paragraph* (*a*).
+
+(11) A person may not be a member of more than one designated body.
+
+(12) Where a registered electrical contractor carries out electrical works, the works shall be carried out in accordance with the safety requirements approved by the Commission from time to time.
+
+(13) Where a registered electrical contractor carries out electrical works, which by reason of a determination by the Commission under *subsection (27)* are specified works, the registered electrical contractor concerned shall issue a completion certificate to the person who requested the works to be carried out.
+
+(14) Where specified works are carried out by an electrical contractor who is not a member of a designated body, the person on whose behalf the specified works are being carried out shall request a designated body to arrange for the carrying out of an inspection of the works and, if the works meet the safety requirements approved by the Commission, for the issue of a completion certificate.
+
+(15) A designated body which receives a request under *subsection (14)* shall arrange for the carrying out of the inspection as soon as practicable and, if appropriate, the issue of a completion certificate.
+
+(16) Subject to *subsection (17)*, a designated body shall be entitled to payment of fees and charges in respect of the inspection of the works, and those fees and charges shall be no greater than is set out in the tariff of fees and charges published by the designated body concerned.
+
+(17) The tariff of fees and charges referred to in *subsection (16)* shall not have effect until approved by the Commission, which approval shall not be given unless the Commission is satisfied that the fees and charges are calculated on the basis of the reasonable costs attributable to the carrying out of inspections under this section.
+
+(18) The Commission shall specify a form of completion certificate to be used for the purposes of this section and may specify different forms for different circumstances or different classes of electrical work and may make provision relating to—
+
+(*a*) procedures to be followed, and
+
+(*b*) records to be maintained,
+
+by registered electrical contractors and a designated body in connection with the issue of such certificates.
+
+(19) (*a*) The Commission may conduct an inspection or audit of a designated body to verify compliance by the designated body with the requirements of this section, the terms and conditions of appointment and the criteria of the Commission.
+
+(*b*) The Commission may appoint a person to assist it in performing inspections or audits referred to in *paragraph* (*a*).
+
+(20) The Commission may determine the appointment of a designated body—
+
+(*a*) in accordance with the terms and conditions of the appointment,
+
+(*b*) where the Commission is of the opinion that an act or default by the designated body is a cause of serious danger to the public, with immediate effect, or
+
+(*c*) where it is, in the opinion of the Commission, in the interests of consumers that the appointment be determined, and *paragraph* (*b*) does not apply, on giving not less than 3 months notice or such shorter period as may be specified in the terms and conditions of appointment in that respect.
+
+(21) The Commission may appoint a person, including a person who is an employee of a designated body, to be an authorised officer for the purposes of carrying out inspections of electrical work—
+
+(*a*) of registered electrical contractors on any land where the authorised officer believes such work is being or has been carried out by such a contractor, or
+
+(*b*) which has been the subject of a completion certificate,
+
+but an authorised officer who is an employee of a designated body shall not exercise the powers conferred under this section as respects the work of a person who is a member of a designated body other than the designated body by which the authorised officer concerned is employed.
+
+(22) A person appointed to be an authorised officer under *subsection (21)* shall on his or her appointment be furnished with a certificate of his or her appointment, and when exercising a power conferred by this section shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
+
+(23) A registered electrical contractor and every employee or independent contractor of a registered electrical contractor shall give all reasonable assistance to—
+
+(*a*) an authorised officer in the exercise of his or her powers under this section, and
+
+(*b*) the Commission in exercising its powers under *subsection (19)* including a person assisting the Commission pursuant to *subsection (19)*.
+
+(24) A person shall not obstruct—
+
+(*a*) an authorised officer performing any function he or she is authorised to exercise or perform under this section,
+
+(*b*) the Commission in exercising its powers under this section, or
+
+(*c*) a person assisting the Commission pursuant to *subsection (19)*.
+
+(25) A person shall not describe himself or herself as a registered electrical contractor or in a manner likely to suggest that such person is a registered electrical contractor unless that person is for the time being a member of a designated body.
+
+(26) A person who contravenes *subsection (4), (24)* or *(25)* is guilty of an offence and liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding F185[€50,000] or a term of imprisonment not exceeding 3 years or to both.
+
+(27) The Commission, having consulted with such persons as it considers appropriate, may determine that a class or classes of electrical works be specified works.
+
+(28) In this section—
+
+“completion certificate”means a certificate the form of which has been specified by the Commission under *subsection (18)*;
+
+“designated body” means a person appointed under *subsection (1)* to be a designated body for the purposes of this section;
+
+“specified works ”means such class or classes of works as have been determined to be such by the Commission in accordance with *subsection (27)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F184: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 4, S.I. No. 68 of 2008.
+>
+> F185: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 13(*a*), S.I. No. 171 of 2017.
+
+### 9E. Designated electrical works.
+
+F186[**9E.**—(1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of electrical works to be designated electrical works.
+
+(2) Where the Commission proposes to make regulations under *subsection (1)* the Minister, where he or she has approved the draft of such regulations, shall cause a draft of the regulations to be laid before each House of the Oireachtas and the regulations shall not be made until a resolution approving of the draft has been passed by each such House.
+
+(3) A person shall not carry out electrical works which are designated electrical works unless that person is a registered electrical contractor.
+
+(4) A person who contravenes *subsection (3*) is guilty of an offence and liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F186: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 4, S.I. No. 68 of 2008.
+>
+> C11: Terms “Restricted Electrical Works” and “Designated Electrical Works” construed (1.10.2013) by *Electricity Regulation Act 1999 (Restricted Electrical Works) Regulations 2013* (S.I. No. 264 of 2013), regs. 4(1)-(3), in operation as per reg. 2.
+>
+> *Restricted Electrical Works*
+>
+> **4.** (1) For the purposes of these Regulations and section 9E(1) of the Act, the phrase "Restricted Electrical Works" has the same meaning as and shall be construed as a reference to "Designated Electrical Works".
+>
+> 4\. (2) For the purposes of section 9E(1) of the Act "Designated Electrical Works" means:
+>
+> (*a*) the installation, commissioning, inspection or testing of a new Electrical Installation which is fixed, fastened or mounted or otherwise secured so that its position does not change and requires connection or re-connection to the distribution network or the transmission network, as the case may be;
+>
+> (*b*) the modification, installation or replacement of a Distribution Board including customer tails on either side of the Main Protective Device or of an Electrical Installation in any of the special locations listed in Part 7 of the National Rules for Electrical Installations, as the case may be;
+>
+> (*c*) the installation or replacement of one or more circuits in an Electrical Installation, including the installation of one or more additional protective devices for such circuits on a Distribution Board; or
+>
+> (*d*) the inspection, testing or certification of, or reporting on, existing Electrical Installations covered by Part 6 of the National Rules for Electrical Installations;
+>
+> 4\. (3) For the purposes of section 9E(1) of the Act, "Designated Electrical Works" does not include:
+>
+> (*a*) Electrical works in potentially explosive atmospheres;
+>
+> (*b*) Electrical works in a Commercial Premises setting including MV and HV connection and installations;
+>
+> (*c*) Electrical works on a construction site;
+>
+> (*d*) Electrical works within exhibitions, shows and stands;
+>
+> (*e*) Electrical works on agricultural and horticultural installations;
+>
+> (*f*) Electrical works on public lighting and associated cabling;
+>
+> (*g*) Minor electrical works including the replacement of an electrical accessory such as a light switch, the replacement or relocation of a light fitting where the existing circuit is retained, the provision of an additional socket to an existing radial circuit, or electrical works which do not require the issuance of a completion certificate under section 9D of the Act.
+>
+> **Editorial Notes:**
+>
+> E43: Power pursuant to section exercised (1.10.2013) *Electricity Regulation Act 1999 (Restricted Electrical Works) Regulations 2013* (S.I. No. 264 of 2013), in operation as per reg. 2.
+
+### 9EA. Electrical investigation officer.
+
+F187[**9EA.**—(1) The Commission may appoint a person to be an electrical investigation officer for the purposes of investigating whether designated electrical works and specified works are carried out safely and adequately and by registered electrical contractors.
+
+(2) In exercising his or her powers under this section an electrical investigation officer may enter on any land or premises at any reasonable time where he or she has reason to believe that designated electrical works or specified works have been or are being carried out and there—
+
+(*a*) make such inspections or inquiries and carry out such tests including inspection of specified or designated electrical work carried out by any person in the interests of safety, as he or she thinks fit,
+
+(*b*) take any verbal or written statement, measurement or photograph or make any electrical or electronic recording which he or she considers necessary for the purposes of any such inspection or inquiry,
+
+(*c*) take samples of electrical cabling or fittings or any other part of an electrical installation which he or she considers necessary to the inspection or inquiry,
+
+(*d*) require any relevant person in authority to produce to him or her such documents, records or materials as are in that person’s possession or control relating to the matter under inquiry and to give to him or her such information as he or she may reasonably require in regard to such documents, records or materials,
+
+(*e*) inspect and copy or extract information from documents, records or materials produced to him or her under *paragraph* (*d*) or which he or she finds during the course of entry on the land or into the premises concerned,
+
+(*f*) carry out such designated works or specified works or take such measures as he or she considers appropriate, including requesting the distribution system operator to disconnect or turn off the supply of electricity, for the protection of any person or any property from any danger arising from electrical works,
+
+(*g*) where he or she has carried out designated works or specified works under *paragraph* (*f*) issue a completion certificate for such works,
+
+(*h*) instruct any person to perform or refrain from performing any act, if in the opinion of the electrical investigation officer, the performance or non performance of such act is necessary for the purposes of preserving evidence or in order to reduce or prevent any danger arising from electricity.
+
+(3) Where an electrical investigation officer enters on any land or into any premises in pursuance of his or her duties under this section, he or she shall act in a reasonable manner and shall provide a report on his or her activities and findings to either the Commission or the designated body or both as the case may be.
+
+(4) A person appointed under *subsection (1)* shall be furnished with a certificate of his or her appointment by the Commission and when exercising a power conferred by this section shall, if requested by any person thereby affected, produce the certificate to such person for inspection.
+
+(5) Where an electrical investigation officer enters on land or into any premises in pursuance of powers conferred by this section, the Commission shall ensure as soon as possible after the powers have been exercised under this section that—
+
+(*a*) the land or premises, as the case may be, is left no less secure by reason of the entry, and
+
+(*b*) any damage caused by the electrical investigation officer is made good or that compensation is paid to the occupier or owner of the land concerned.
+
+(6) A person commits an offence if he or she—
+
+(*a*) obstructs or impedes an electrical investigation officer in the exercise of his or her powers conferred by this section,
+
+(*b*) fails or refuses to comply with an instruction given by an electrical investigation officer under this section,
+
+(*c*) knowingly gives to an electrical investigation officer information which is false or misleading in a material respect, or
+
+(*d*) turns on or reconnects the supply of electricity which supply has been turned off or disconnected by the distribution system operator on the request of the electrical investigation officer without the consent of the distribution system operator.
+
+(7) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €15,000.
+
+(8) In this section:
+
+“designated electrical works” means a class of electrical works designated under *section 9E(1)*;
+
+“electrical investigation officer” means a person appointed as such under *subsection (1)*;
+
+“specified works” has the meaning assigned to it by *section 9D(28)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F187: Inserted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 6, S.I. No. 122 of 2012. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E44: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 9F. Regulation of gas installers.
+
+F188[**9F.**—(1) (*a*) The Commission may appoint a person to be the designated body for the purposes of this section and such body may be referred to as a Gas Safety Supervisory Body.
+
+(*b*) Where the Commission has not appointed a person to be the designated body, or the designated body is, in the opinion of the Commission, no longer able to carry out its functions under this section, the Commission may, with the consent of the Minister, appoint an employee of the Commission to carry out those functions on a temporary basis.
+
+(2) (*a*) In appointing a person to be the designated body in accordance with *subsection (1)* the Commission shall have regard to the costs likely to be incurred—
+
+(i) by the Commission in carrying out its functions under this section, and
+
+(ii) by final customers.
+
+(*b*) *Paragraph 16 of Schedule 1* shall apply to any costs incurred by the Commission in carrying out its functions under this section.
+
+(*c*) In paragraph (*b*) the words “any costs incurred by the Commission” includes any moneys provided by the Commission to the designated body, following its appointment under *subsection (1)*, to facilitate that body in establishing and carrying out its functions.
+
+(3) A person shall not be appointed to be the designated body, or if so appointed shall cease to act as the designated body, if that person is or becomes a trade association or performs representative functions on behalf of persons working in the gas industry.
+
+(4) A person who does not for the time being stand appointed as the designated body shall not describe himself or herself as a Gas Safety Supervisory Body or in a manner likely to suggest that such person is the designated body for the purposes of this section.
+
+(5) (*a*) The Commission shall publish criteria (in this section referred to as “the criteria”) relating to—
+
+(i) gas safety supervision,
+
+(ii) the safety standards to be achieved and maintained by gas installers, and
+
+(iii) the procedures to be operated by a person appointed as the designated body.
+
+(*b*) The criteria document to be published in connection with *paragraph (*a*)* shall include, but shall not be limited to, the following information:
+
+(i) the procedures to be adopted by the designated body for the registration of its members;
+
+(ii) the procedures to be followed by a person applying for membership of the designated body;
+
+(iii) the services which the designated body may carry out on behalf of its members;
+
+(iv) the standards of training and safety to be achieved and maintained by members of the designated body and the procedures to be followed by the designated body in monitoring such standards;
+
+(v) the procedures to be followed by the designated body for the inspection of any work carried out by one of its members;
+
+(vi) the procedures to be followed by the designated body in connection with the suspension or revocation of the membership of one of its members;
+
+(vii) the matters to be covered by a completion certificate in respect of different categories or classes of gas works and the circumstances in which each such class of certificate shall be used;
+
+(viii) the type of accounts to be kept by the designated body, and the manner in which such accounts should be audited;
+
+(ix) the method by which the accounts kept under *subparagraph (viii)* should be published; and
+
+(x) the procedures to be followed, and the records to be maintained, by the designated body or its members (where appropriate), in connection with *subparagraphs (i)* to *(ix)*.
+
+(*c*) The Commission may review or amend the criteria as often as it considers necessary.
+
+(6) The Commission shall not appoint a person to be the designated body unless it is satisfied that the person is capable of complying with the criteria, and as respects each person who is a member (in this section referred to as a “registered gas installer”) of the designated body that the body has, or will have if appointed, the capability and entitlement to—
+
+(*a*) inspect any work carried out by a registered gas installer,
+
+(*b*) monitor the training and standards of a person who is a registered gas installer,
+
+(*c*) suspend the membership of a registered gas installer in the designated body where that registered gas installer is the subject of an investigation by that body into whether—
+
+(i) work carried out by the registered gas installer concerned is unsafe or otherwise of an unsatisfactory standard, or
+
+(ii) the registered gas installer concerned has acted in contravention of the criteria to a material extent,
+
+(*d*) suspend or revoke the membership of a registered gas installer in the designated body where the body has established that any of the matters specified in *subparagraphs (i)* or *(ii)* of *paragraph* (*c*) apply as respects the installer concerned.
+
+(7) (*a*) Where the designated body decides to suspend or revoke the membership of a registered gas installer in the body, the designated body shall inform, in writing, both—
+
+(i) the Commission, and
+
+(ii) the registered gas installer concerned,
+
+of its decision to suspend or revoke the membership of a registered gas installer in the designated body.
+
+(*b*) A registered gas installer, the subject of a decision under *paragraph (*a*)*, may submit an appeal, in writing, of the decision to the Commission within 28 days of being informed of the decision.
+
+(8) (*a*) The Commission shall appoint one or more persons (“Appeals Officer”) to—
+
+(i) duly consider, and
+
+(ii) furnish a report to the Commission on,
+
+any appeal submitted by a registered gas installer relating to a decision made by the designated body to suspend or revoke his or her membership in the designated body.
+
+(*b*) The Commission shall have regard to the report of the Appeals Officer under *paragraph (*a*)* and shall advise the designated body, the Appeals Officer and the registered gas installer concerned of its decision to confirm, vary or set aside the decision of the body.
+
+(*c*) An appeal shall not be considered under this subsection if—
+
+(i) it relates to any matter the subject of proceedings before a court or other tribunal, until those proceedings are determined, or
+
+(ii) it is not submitted to the Commission within 28 days of the registered gas installer concerned being informed of the decision.
+
+(9) Notwithstanding the generality of *subsections (7)* and *(8)*, the Commission may specify the procedures to be followed by—
+
+(*a*) the Appeals Officer in considering the appeal,
+
+(*b*) the Appeals Officer in drafting his or her report to the Commission,
+
+(*c*) the designated body when suspending or revoking the membership of a registered gas installer, and
+
+(*d*) a registered gas installer who is the subject of a decision by the designated body to revoke his or her membership in the designated body,
+
+in the criteria published under *subsection (5)*.
+
+(10) (*a*) The tariff of fees and charges imposed by the designated body relating to—
+
+(i) membership of a gas installer in the body,
+
+(ii) registration of a gas installer as a registered gas installer,
+
+(iii) inspections of gas works, and
+
+(iv) any service provided to a member of the designated body by or on behalf of the body,
+
+shall be subject to the approval of the Commission.
+
+(*b*) The designated body may impose fees and charges under *paragraph* (*a*) of different amounts in respect of different categories of membership, registration or service as the Commission may specify in the criteria.
+
+(*c*) All expenses incurred by the designated body in carrying out any of its functions under this section shall be defrayed by the designated body out of funds at its disposal which are obtained in accordance with *paragraph* (*a*).
+
+(11) Where a registered gas installer carries out any gas works, the works shall be carried out in accordance with any safety requirements which the Commission may specify in the criteria.
+
+(12) Where a registered gas installer carries out any gas works, the registered gas installer concerned shall issue the appropriate completion certificate to the person who requested that the works be carried out.
+
+(13) A person on whose behalf a registered gas installer has carried out any gas works may request, on grounds specified in writing, that the designated body arrange for the carrying out of an inspection of those gas works.
+
+(14) The designated body shall, after it receives a request under *subsection (13)*, arrange for the carrying out of an inspection as soon as practicable, and following its completion, shall advise, in writing, both the registered gas installer who carried out the gas works and the person who requested that the inspection be carried out, as to whether the gas works meet the safety requirements of the Commission.
+
+(15) Subject to *subsection (16)*, the designated body shall be entitled to payment of fees and charges in respect of the inspection of gas works under *subsection (14)*, which fees and charges shall be no greater than is set out in the tariff of fees and charges published by the designated body.
+
+(16) The tariff of fees and charges referred to in *subsection (15)* shall not have effect until approved by the Commission, which approval shall not be given unless the Commission is satisfied that the fees and charges are calculated on the basis of the reasonable costs attributable to the carrying out of inspections under this section.
+
+(17) The Commission shall specify a form of completion certificate to be used for the purposes of this section and may specify different forms for different circumstances or different classes of work and may make provision relating to—
+
+(*a*) procedures to be followed, and
+
+(*b*) records to be maintained,
+
+by registered gas installers in connection with the issue of such certificates.
+
+(18) (*a*) The Commission may conduct an inspection or audit of the designated body to verify compliance by the designated body with the requirements of this section, the terms and conditions of appointment and the criteria of the Commission.
+
+(*b*) The Commission may appoint a person to assist it in performing inspections or audits referred to in *paragraph* (*a*).
+
+(19) The Commission may determine the appointment of the designated body—
+
+(*a*) in accordance with the terms and conditions of the appointment,
+
+(*b*) where the Commission is of the opinion that an act or default by the designated body is a cause of serious danger to the public, with immediate effect, or
+
+(*c*) where it is, in the opinion of the Commission, in the interests of consumers that the appointment be determined, and *paragraph* (*b*) does not apply, on giving not less than 3 months notice or such shorter period as may be specified in the terms and conditions of appointment in that respect.
+
+(20) The Commission may appoint a person, including a person who is an employee of the designated body, to be an authorised officer for the purposes of carrying out inspections of the work—
+
+(*a*) of a registered gas installer on any land where the authorised officer believes such work is being or has been carried out by such an installer, or
+
+(*b*) which has been the subject of a completion certificate.
+
+(21) A person appointed to be an authorised officer under *subsection (20)* shall on his or her appointment be furnished with a certificate of his or her appointment, and when exercising a power conferred by this section shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
+
+(22) A registered gas installer and every employee or independent contractor of a registered gas installer shall give all reasonable assistance to—
+
+(*a*) an authorised officer in the exercise of his or her powers under this section, and
+
+(*b*) the Commission in exercising its powers under *subsection (18)* including a person assisting the Commission pursuant to *subsection (18)*.
+
+(23) A person shall not obstruct—
+
+(*a*) an authorised officer performing any function he or she is authorised to exercise or perform under this section,
+
+(*b*) the Commission in exercising its powers under this section, or
+
+(*c*) a person assisting the Commission pursuant to *subsection (18)*.
+
+(24) A person shall not—
+
+(*a*) describe himself or herself as a registered gas installer, or
+
+(*b*) describe himself or herself in a manner likely to suggest that he or she is a registered gas installer, unless that person is a member of the designated body.
+
+(25) A person who contravenes *subsection (4)*, *(23)* or *(24)* is guilty of an offence and liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding F189[€50,000] or a term of imprisonment not exceeding 3 years or to both.
+
+(26) In this section—
+
+“completion certificate”means a certificate the form of which has been specified by the Commission under *subsection (17)*;
+
+“designated body”means a person appointed under *subsection (1)* to be the designated body for the purposes of this section;
+
+“gas works” means works designated to be such under *section 9G*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 68 of 2008.
+>
+> F189: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 13(*b*), S.I. No. 171 of 2017.
+
+### 9G. Gas works.
+
+F190[**9G.**—(1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of works to be gas works.
+
+F191[(2) In this section “works” means work which is related to the installation, removal, repair or replacement of a natural gas fitting or an LPG fitting.]]
+
+F192[(3) A person shall not carry out works which are gas works unless that person is—
+
+(*a*) a registered gas installer,
+
+(*b*) a gas transmission system operator carrying out its functions in accordance with the terms and conditions of the relevant licence,
+
+(*c*) a gas distribution system operator carrying out its functions in accordance with the terms and conditions of the relevant licence,
+
+(*d*) a gas emergency officer appointed under *section 9I* performing his or her duties, or
+
+(*e*) a gas safety officer appointed under *section 9J* performing his or her functions under that section.
+
+(4) A person who contravenes *subsection (3)* is guilty of an offence and liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F190: Inserted (11.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 68 of 2008.
+>
+> F191: Substituted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 25, S.I. No. 280 of 2011.
+>
+> F192: Inserted (29.06.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 238 of 2009.
+>
+> **Editorial Notes:**
+>
+> **Modifications (not altering text):**
+>
+> C12: "Works which are gas works" described (27.06.2011) by *Electricity Regulation Act 1999 (Liquefied Petroleum Gas Works) Regulations 2011* (S.I. No. 299 of 2011), reg. 4, in operation as per reg. 2.
+>
+> 4(1) For the purposes of section 9G(3) of the Act, "works which are gas works" means the installation, removal, repair, servicing, maintenance or replacement (or any combination of the foregoing) of a LPG fitting covered by I.S. 813 and or I.S. EN 1949 which is:
+>
+> (*a*) used or designed to be used by a Domestic Customer; or
+>
+> (*b*) which is designed to be used by a Domestic Customer but which is installed in a Commercial or an Industrial Premises;
+>
+> 4(2) For the purposes of section 9G(3) of the Act "works which are gas works" does not include—
+>
+> (*a*) the installation, removal, repair, servicing, maintenance or replacement of LPG Fittings designed to be used by commercial gas customers;
+>
+> (*b*) the installation, removal, repair, servicing, maintenance or replacement of LPG Fittings designed to be used by industrial gas customers;
+>
+> (*d*) the design of gas works;
+>
+> (*e*) work on the Point of Delivery;
+>
+> (*f*) work upstream of the Point of Delivery;
+>
+> (*g*) work on LPG Fittings for the supply of gas for automotive use;
+>
+> (*h*) work that is specifically designed to be effected by a person without the use of a tool;
+>
+> (*i*) the manufacture of Appliances or LPG Fittings;
+>
+> (*j*) the connection or replacement of a flexible connector connecting a refillable LPG storage cylinder to installation pipework;
+>
+> (*k*) work on a single LPG installation (excluding repair or maintenance) without fixed pipework, achieved by a flexible connector from an adjacent LPG storage cylinder; or
+>
+> (*l*) The welding of pipework for Domestic Customers prior to the admission of gas.
+>
+> E45: Power pursuant to section exercised (27.06.2011) by *Electricity Regulation Act 1999 (Liquefied Petroleum Gas Works) Regulations 2011* (S.I. No. 299 of 2011), in operation as per reg. 2.
+>
+> E46: Power pursuant to section exercised (26.06.2009) by *Electricity Regulation Act 1999 (Gas Works) Regulations 2009* (S.I. No. 225 of 2009), in operation as per reg. 2.
+>
+> E47: Previous affecting provision: definition of "works which are gas works" provided (26.06.2009) by *Electricity Regulation Act 1999 (Gas Works) Regulations 2009* (S.I. No. 225 of 2009), reg. 4, in operation as per reg. 2; superseded (27.06.2011) by *Electricity Regulation Act 1999 (Liquefied Petroleum Gas Works) Regulations 2011* (S.I. No. 299 of 2011, reg. 4, in operation as per reg. 2.
+
+### 9H. Regulations relating to gas safety.
+
+F193[F194[**9H.**—(1) The Commission may, in the performance of its functions under *paragraphs* (*ea*), (*eb*) and (*ed*) of *section 9(1)* make regulations relating to gas safety.
+
+(2) Without prejudice to the generality of *subsection (1)* regulations made under this section may provide for—
+
+(*a*) specifications or requirements regarding the installation or maintenance of natural gas fittings and LPG fittings, and
+
+(*b*) the conditions to be fulfilled before natural gas or LPG may be connected or reconnected to any premises following the installation, maintenance, modification or repair of a natural gas fitting or LPG fitting, as the case may be.]
+
+(3) Where the Commission propose to make regulations under this section, the Commission shall, before doing so, consult with the Minister, the Minister for the Environment, Heritage and Local Government and such other Minister of the Government (if any) as, in the opinion of the Commission, appears appropriate.
+
+(4) A person who fails to comply with regulations made under this section is guilty of an offence under this section.
+
+(5) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or to both.
+
+(6) (*a*) Notwithstanding anything specified in regulations made under *subsection (2)*, nothing in this section shall be construed as placing an onus of responsibility on a gas installer to ensure that a natural gas fitting F195[or LPG fitting] which he or she has correctly installed in a dwelling, place of business or any common area is safely maintained after the point of delivery of natural gas F196[or LPG, as the case may be], unless a contractual obligation exists obliging the installer concerned to do so.
+
+(*b*) Unless specified in any other enactment, the person responsible for ensuring that a natural gas fitting F197[or LPG fitting] is safely maintained after the point of delivery of natural gas F198[or LPG, as the case may be,] shall be—
+
+(i) in the case of a dwelling:
+
+(I) where that dwelling is the subject of a tenancy, but is not the subject of a lease between a landlord and tenant, the person entitled to receive the rent;
+
+(II) where that dwelling is the subject of a lease between a landlord and tenant, the landlord (subject to the responsibilities of landlords and tenants as set out in sections 12 and 16 of the Residential Tenancies Act 2004); or
+
+(III) where that dwelling is not the subject of a lease or tenancy between a landlord and tenant, the person who would be entitled to receive the rent if the dwelling were the subject of a tenancy or lease,
+
+(ii) in the case of a premises used as a place of business:
+
+(I) where that premises is the subject of a lease between a landlord and tenant, and a covenant (whether express or implied and whether general or specific) exists that the tenant, as lessee, shall keep the premises in repair, the tenant in occupation; or
+
+(II) where that premises is not a premises to which *clause (I)* applies, such person as the Commission may specify from time to time in the framework F199[published under *section 9(1G)*], following consultation with the Minister, the Minister for the Environment, Heritage and Local Government and such other Minister of the Government (if any) as, in the opinion of the Minister, appears appropriate,
+
+and
+
+(iii) in the case of a common area of land which includes any dwellings the subject of *subparagraph (i)*, or any places of business the subject of *subparagraph (ii)*, or both, and which area is being managed by a management company, that management company.
+
+(*c*) For the purposes of this subsection—
+
+(i) the term “business ”is to be interpreted in accordance with the meaning given it by section 3 of the Landlord and Tenant (Amendment) Act 1980,
+
+(ii) the term “dwelling ”is to be interpreted in accordance with the meaning given it by section 4 of the Residential Tenancies Act 2004,
+
+(iii) the terms “lease”, “landlord”, “tenant”, and tenancy” as they are used in *paragraph (*b*)(i)* , are to be interpreted in accordance with the meaning given to them by section 5 of the Residential Tenancies Act 2004, and
+
+(iv) the terms lease”, lessee”, landlord ”and tenant ”as they are used in *paragraph (*b*)(ii)* are to be interpreted in accordance with the meaning given to them by section 3 of the Landlord and Tenant (Amendment) Act 1980.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F193: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 68 of 2008.
+>
+> F194: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*e*), S.I. No. 20 of 2013.
+>
+> F195: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 26(*f*), S.I. No. 280 of 2011.
+>
+> F196: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 26(*g*), S.I. No. 280 of 2011.
+>
+> F197: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 26(*h*), S.I. No. 280 of 2011.
+>
+> F198: Inserted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010.* (11/2010), s. 26(i), S.I. No. 280 of 2011.
+>
+> F199: Substituted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 26(*j*), S.I. No. 280 of 2011.
+>
+> **Editorial Notes:**
+>
+> E48: Power pursuant to section exercised (31.03.2014) by *Liquefied Petroleum Gas Safety (Liquefied Petroleum Gas Incident Reporting and Investigation) Regulations 2014* (S.I. No. 78 of 2014), in operation as per reg. 2.
+>
+> E49: Previous affecting provision: subss. (1), (2) amended (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 26(*a*)-(*e*), S.I. 280 of 2011; substituted as per F-note above.
+
+### 9I. Gas emergency officers.
+
+F200[F201[**9I.**—(1) A transmission system operator or a distribution system operator in relation to natural gas or a holder of a LPG safety licence may appoint a person to be a gas emergency officer for the purposes of this section.
+
+(2) A gas emergency officer may, subject to this section, enter and inspect any land (with reasonable force, if he or she considers it necessary in the circumstances) without giving notice or obtaining the consent of any person, and there take such measures as the officer considers appropriate for the protection of any person or any property from any danger arising from natural gas or LPG.
+
+(3) A person appointed under *subsection (1)* shall be furnished with a certificate of his or her appointment by the system operator or LPG undertaking making the appointment, and when exercising a power conferred by this section shall, if requested by any person thereby affected, produce such certificate to such person.
+
+(4) A gas emergency officer may not exercise the powers conferred by this section unless he or she is of the opinion that there is or may be a danger to any person or property arising from—
+
+(*a*) the use, misuse or leakage of natural gas or LPG, or
+
+(*b*) a defect or possible defect in any pipeline or natural gas fitting or LPG fitting.
+
+(5) Without prejudice to the generality of *subsection (2)*, in exercising his or her powers under this section a gas emergency officer may—
+
+(*a*) instruct any person to evacuate any place until such time as the premises are, in the opinion of the officer, safe,
+
+(*b*) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-performance of such act is necessary in order to reduce or prevent any danger arising from natural gas or LPG,
+
+(*c*) search for any escaped natural gas or LPG, or any leak or defect in any pipeline or natural gas fitting or LPG fitting, or
+
+(*d*) interrupt or disconnect the supply of natural gas or LPG without notice.
+
+(6) Where a gas emergency officer enters on land in pursuance of powers conferred by this section, the transmission system operator or the distribution system operator or a LPG undertaking on whose behalf the entry was made shall ensure as soon as possible after the powers have been exercised under this section that—
+
+(*a*) the land is left no less secure by reason of the entry, and
+
+(*b*) any damage caused by the gas emergency officer is made good or that compensation is paid to the occupier or owner of the land concerned.
+
+(7) A person who—
+
+(*a*) obstructs or impedes a gas emergency officer in the exercise of powers conferred by this section,
+
+(*b*) fails or refuses to comply with an instruction given by a gas emergency officer under this section,
+
+(*c*) knowingly gives to a gas emergency officer information which is false or misleading in a material respect, or
+
+(*d*) turns on or reconnects the supply of natural gas or LPG where supply has been turned off or disconnected by a gas emergency officer, without the consent of a gas emergency officer,
+
+commits an offence.
+
+(8) A person who commits an offence under *subsection (7)* is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or to both.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F200: Inserted (12.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 68 of 2008.
+>
+> F201: Substituted (30.01.2015) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*f*), S.I. No. 17 of 2015. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 9J. Gas safety officers.
+
+F202[F203[**9J.**—(1) The Commission may appoint a person to be a gas safety officer for the purposes of—
+
+(*a*) this section,
+
+(*b*) *paragraphs* (*ea*), (*eb*) and (*ed*) of *section 9(1)*,
+
+(*c*) *section 9(1G)*, and
+
+(*d*) investigating alleged contraventions of *sections 9F(4)*, *9F(23)* and *(24)*, *9G(3)* and *9H(4)*.]
+
+(2) A gas safety officer may, subject to the provisions of this section—
+
+(*a*) enter and inspect any land (with force if he or she considers it necessary in the circumstances) without giving notice or obtaining the consent of any person, and there inspect any—
+
+(i) natural gas pipeline,
+
+F204[(i*a*) piped LPG distribution network,]
+
+(ii) natural gas installation or facility (including a storage facility),
+
+(iii) natural gas fitting, F205[...]
+
+F206[(iii*a*) LPG fitting, or,]
+
+(iv) ventilation fittings (whether mechanical or otherwise) associated with or required for the safe operation of a natural gas fitting F207[or LPG fitting],
+
+and take such measures as the officer considers appropriate for the protection of any person or any property F208[from any danger arising from natural gas or LPG, as the case may be,]
+
+(*b*) enter on any land at any reasonable time and there—
+
+(i) make such inspections and carry out such tests as he or she thinks fit in relation to any activities in or on a premises or installation,
+
+(ii) take any measurement or photograph or make any electrical or electronic recording which he or she considers necessary for the purposes of any such examination or inquiry,
+
+(iii) require any relevant person in authority to produce to him or her such documents, records or materials as are in that person’s possession or control relating to the matter under inquiry and to give to him or her such information as he or she may reasonably require in regard to such documents, record or materials,
+
+(iv) inspect and copy or extract information from documents, records or materials produced to him or her under subparagraph (iii) or which he or she finds during the course of entry to premises,
+
+(v) take samples of natural gas F209[or LPG, as the case may be].
+
+(3) A person appointed under *subsection (1)* shall be furnished with a certificate of his or her appointment by the Commission, and when exercising a power conferred by this section shall, if requested by any person thereby affected, produce such certificate to such person.
+
+(4) Without prejudice to the generality of *subsection (2)*, in exercising his or her powers under this section, a gas safety officer may—
+
+(*a*) instruct any person to evacuate any premises until such time as the premises are, in the opinion of the officer, safe,
+
+(*b*) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-performance of such act is necessary in order to reduce or prevent any danger arising from natural gas F210[or LPG, as the case may be],
+
+F211[(*c*) search for any escaped natural gas or LPG, as the case may be, or any leak or defect in any pipeline, natural gas fitting or LPG fitting,]
+
+(*d*) interrupt or disconnect the supply of F212[natural gas or LPG, as the case may be,] without notice.
+
+(5) Where a gas safety officer enters on land in pursuance of powers conferred by this section, the Commission shall ensure as soon as possible after the powers have been exercised under this section—
+
+(*a*) that the land is left no less secure by reason of the entry,
+
+(*b*) any damage caused by the gas safety officer is made good or that compensation is paid to the occupier or owner of the land concerned.
+
+(6) A person who—
+
+(*a*) obstructs or impedes a gas safety officer in the exercise of powers conferred by this section,
+
+(*b*) fails or refuses to comply with an instruction given by a gas safety officer under this section,
+
+(*c*) knowingly gives to a gas safety officer information which is false or misleading in a material respect, or
+
+(*d*) turns on or reconnects the supply of natural gas F213[or LPG, as the case may be,] which supply has been turned off or disconnected by a gas safety officer, without the consent of a gas safety officer,
+
+is guilty of an offence.
+
+(7) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F202: Inserted (11.03.2008) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 13, S.I. No. 68 of 2008.
+>
+> F203: Substituted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 8, S.I. No. 122 of 2012.
+>
+> F204: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 17(2)(*g*), S.I. No. 20 of 2013.
+>
+> F205: Deleted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*b*), S.I. No. 42 of 2011.
+>
+> F206: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*c*), S.I. No. 42 of 2011.
+>
+> F207: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*d*), S.I. No. 42 of 2011.
+>
+> F208: Substituted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*e*), S.I. No. 42 of 2011.
+>
+> F209: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*f*), S.I. No. 42 of 2011.
+>
+> F210: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*g*), S.I. No. 42 of 2011.
+>
+> F211: Substituted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*h*), S.I. No. 42 of 2011.
+>
+> F212: Substituted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(i), S.I. No. 42 of 2011.
+>
+> F213: Inserted (1.02.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*j*), S.I. No. 42 of 2011.
+>
+> **Editorial Notes:**
+>
+> E50: Commission empowered to appoint person to be a gas safety officer in accordance with subs. (1) for investigation of an incident, whether or not reported, (31.03.2014) by *Liquefied Petroleum Gas Safety (Liquefied Petroleum Gas Incident Reporting and Investigation) Regulations 2014* (S.I. No. 78 of 2014), reg. 6, in operation as per reg. 2.
+>
+> E51: Previous affecting provision: subs. (1)(*b*) substituted (27.07.2011) by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 27(*a*), S.I. No. 280 of 2011; substituted as per F-note above.
+
+### 9JA. Improvement plan.
+
+F214[**9JA.**—(1) Where the Commission is of the opinion that a LPG undertaking or a natural gas undertaking or a person under the control or on behalf of that undertaking—
+
+(*a*) is not operating in accordance with the LPG or natural gas safety regulatory framework under *section 9(1G)*, or
+
+(*b*) is contravening or has contravened or is failing to comply with or has failed to comply with any other requirement of this Part,
+
+the Commission may give a direction in writing to the LPG undertaking or the natural gas undertaking concerned requiring it to submit to the Commission, within the time period stated in the direction, a plan (in this section referred to as an “improvement plan”) specifying the remedial action proposed to be taken by the LPG undertaking or the natural gas undertaking to rectify the matters set down in the direction.
+
+(2) Where an improvement plan is submitted in accordance with *subsection (1)* or re-submitted under *paragraph* (*b*), the Commission shall, within 30 days, write to the LPG undertaking or the natural gas undertaking—
+
+(*a*) stating that the Commission is satisfied with the remedial action proposed to be taken, or
+
+(*b*) if the Commission is not satisfied that the remedial action proposed to be taken is adequate, directing that the plan be revised and re-submitted to the Commission within a specified time period.
+
+(3) The Commission may withdraw a direction under this section at any time before a date specified in the direction and may extend and further extend such date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F214: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013.
+
+### 9JB. Improvement notice.
+
+F215[**9JB.**—(1) Where the Commission is of the opinion that—
+
+(*a*) a LPG undertaking or a natural gas undertaking has failed to comply with a direction to submit or implement an appropriate improvement plan under *section 9JA*, or
+
+(*b*) a LPG undertaking or a natural gas undertaking or a person under the control of or on behalf of that undertaking—
+
+(i) is not operating in accordance with the LPG or natural gas safety regulatory framework under *section 9(1G)*, or
+
+(ii) is contravening or has contravened or is failing to comply with or has failed to comply with any other requirement of this Part,
+
+the Commission may serve a written notice (in this section referred to as an “improvement notice”) on that LPG undertaking or natural gas undertaking.
+
+(2) An improvement notice shall—
+
+(*a*) state that the Commission is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reasons for that opinion,
+
+(*c*) where applicable, state that the LPG undertaking or natural gas undertaking has failed to submit or implement an improvement plan,
+
+(*d*) direct the LPG undertaking or natural gas undertaking to remedy the alleged contraventions or the matters occasioning that notice by a date specified in the notice, which shall not be earlier than the period within which an appeal may be brought under *subsection (5)*,
+
+(*e*) contain details of the consequences, under this section of a failure to comply with the notice,
+
+(*f*) include information regarding the making of an appeal under *subsection (5)*, and
+
+(*g*) include any other requirement that the Commission considers appropriate.
+
+(3) An improvement notice may include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates or otherwise comply with the notice.
+
+(4) Where the Commission proposes to serve an improvement notice, it shall notify the LPG undertaking or natural gas undertaking concerned in writing of its intention to serve the improvement notice and the LPG undertaking or natural gas undertaking concerned may, within 21 days of such notification, make representations to the Commission, which shall consider them.
+
+(5) Where the Commission decides, having considered any representations made to it under *subsection (4)*, to serve an improvement notice, a LPG undertaking or natural gas undertaking which is aggrieved by such improvement notice may, within the period of 14 days beginning on the day on which the notice is served on it, appeal to the High Court against the notice and in determining the appeal the Court may—
+
+(*a*) if it is satisfied that in the circumstances of the case it is reasonable to do so, confirm the notice with or without modification, or
+
+(*b*) cancel the notice.
+
+(6) Where an appeal against an improvement notice is taken, the notice shall, unless cancelled by the High Court, take effect on the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(7) Where no appeal is taken against an improvement notice, the notice shall take effect on the expiration of the period during which such an appeal may be taken or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(8) The Commission may withdraw an improvement notice at any time before the date specified in it under *subsection (2)*(*d*) and the Commission may extend or further extend that date at any time when an appeal against the notice is not pending.
+
+(9) A person who fails to comply with an improvement notice commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €25,000.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F215: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 9JC. Prohibition notice.
+
+F216[**9JC.**—(1) Where the Commission is of the opinion that an activity being or likely to be carried on by or under the control or on behalf of the holder of a LPG safety licence or a natural gas undertaking involves a substantial risk to safety, the Commission may serve a notice (in this section referred to as a “prohibition notice”) on that holder or natural gas undertaking.
+
+(2) A prohibition notice shall—
+
+(*a*) state that the Commission is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reasons for that opinion,
+
+(*c*) specify the activity, or the infrastructure, in respect of which that opinion is held,
+
+(*d*) where, in the opinion of the Commission, the matter involves a contravention, or is likely to involve a contravention, of the requirements of this section, specify the provision or provisions concerned and the reasons for that opinion,
+
+(*e*) prohibit the carrying on of the activity concerned until the matters which give rise or are likely to give rise to the risk are remedied, and
+
+(*f*) contain details of the consequences under this section of a failure to comply with the notice.
+
+(3) A prohibition notice may include directions—
+
+(*a*) as to the measures to be taken to remedy any contravention or matter to which the notice relates or to otherwise comply with the notice, and
+
+(*b*) to bring the notice to the attention of any person affected by it, or to the attention of the public generally.
+
+(4) A prohibition notice shall take effect—
+
+(*a*) if the notice so declares, immediately the notice is received by the holder of the LPG safety licence or natural gas undertaking or the person on whom it is served,
+
+(*b*) if no appeal is taken against the notice, on the expiration of the period during which such an appeal may be taken or on the day specified in the notice as that on which it is to come into effect, whichever is the later, or
+
+(*c*) in case an appeal is taken (unless the notice is cancelled by the High Court) on the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(5) The bringing of an appeal against a prohibition notice which is to take effect in accordance with *subsection (4)*(*a*) does not have the effect of suspending the operation of the notice unless—
+
+(*a*) the appellant applies to the High Court to have the operation of the notice suspended until the appeal is disposed of, and
+
+(*b*) on such application, if it thinks proper to do so, the Court directs that the operation of the notice be suspended until the appeal is disposed of.
+
+(6) (*a*) The holder of a LPG safety licence or natural gas undertaking which is aggrieved by a prohibition notice may, within the period of 7 days beginning on the day on which the notice is served on it, appeal to the High Court against the notice and in determining the appeal the Court may—
+
+(i) if it is satisfied that in the circumstances of the case it is reasonable to do so, confirm the notice with or without modification, or
+
+(ii) cancel the notice.
+
+(*b*) Where on the hearing of an appeal under this section a prohibition notice is confirmed, notwithstanding *subsection (4)*, the High Court by which the appeal is heard may, on the application of the appellant, suspend the operation of the notice for such period as in the circumstances of the case the Court considers appropriate.
+
+(7) The Commission may at any time withdraw a prohibition notice.
+
+(8) A person who fails to comply with a prohibition notice commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €25,000.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F216: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 9JD. Restricting or prohibiting LPG or natural gas activities in emergencies.
+
+F217[**9JD.**—(1) Where the Commission considers that the risk to the safety of—
+
+(*a*) human life,
+
+(*b*) a piped LPG distribution network or natural gas infrastructure, or
+
+(*c*) property not in the ownership of the holder of a LPG safety licence or natural gas undertaking concerned,
+
+is so serious that any of the activities of a LPG or natural gas undertaking should be restricted or should be immediately prohibited until specified measures have been taken to reduce the risk to a level which is as low as is reasonably practicable, the Commission may apply, *ex parte*, to the High Court for an order restricting or prohibiting the activities concerned.
+
+(2) The High Court may make such interim or interlocutory order as it considers appropriate, and the Court in considering whether to make the order shall consider whether the elimination or necessary reduction of the risk concerned could be achieved by the issue of an emergency direction or a prohibition notice.
+
+(3) Any order of the High Court under *subsection (2)* shall have effect notwithstanding the terms of any permission given under this Act or any other enactment for the carrying on of the activity concerned or, where the order refers to another person, the carrying out of an activity by such person.
+
+(4) On any application for the revocation or variation of an order made under this section, the Commission shall be entitled to appear, be heard and adduce evidence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F217: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013.
+
+### 9JE. LPG safety licences.
+
+F218[**9JE.**—(1) For the purposes of ensuring LPG safety a person shall not make available LPG by way of a piped LPG distribution network for use by individual domestic final customers unless a LPG safety licence is in force in respect of the activity.
+
+(2) A person who contravenes *subsection (1)* commits an offence and is liable—
+
+(*a*) on summary conviction to a class A fine, or
+
+(*b*) on conviction on indictment to a fine not exceeding €500,000.
+
+(3) The Commission may, upon application to it, grant or refuse to grant to a LPG undertaking a LPG safety licence to make LPG available to final customers by way of a piped LPG distribution network.
+
+(4) A LPG safety licence is granted subject to such conditions as are specified in the licence.
+
+(5) An application for a LPG safety licence shall be—
+
+(*a*) in writing and be in such form and contain such information as the Commission may request, and
+
+(*b*) accompanied by such a fee, if any, as the Commission may determine under *section 9JF* to be appropriate, having regard to the application being made.
+
+(6) The Commission shall make information on such fees payable under *subsection (5)*(*b*) available on the request of an applicant for a LPG safety licence.
+
+(7) The Commission shall monitor the activities of a holder of a LPG safety licence to ensure that the holder complies with the terms and conditions of the licence.
+
+(8) The Minister may specify by regulations the criteria in accordance with which an application for a LPG safety licence in respect of any activity referred to in *subsection (1)* may be determined by the Commission.
+
+(9) The criteria specified by the Minister under *subsection (8)* may relate to any or all of the following:
+
+(*a*) the safety of the piped LPG distribution network,
+
+(*b*) the qualifications of an applicant, including the technical qualifications of the applicant, and
+
+(*c*) any other criteria specified by regulations made under *subsection (8)*.
+
+(10) A person shall comply with any request in writing from the Commission for additional information specified by regulations made under *subsection (8)*.
+
+(11) A person undertaking any of the activities mentioned in *subsection (1)* on the commencement of this section shall apply for a LPG safety licence, within 3 months of such commencement or such other periods as may be agreed by the Commission.
+
+(12) A holder of a LPG safety licence shall—
+
+(*a*) operate, maintain and develop such facilities or systems as may be required for the purpose of carrying out the activity for which it is licensed with due regard to safety and in accordance with the terms of the licence,
+
+(*b*) provide the Commission with sufficient information to ensure that LPG activities licensed under this section may take place in a safe and secure manner, and
+
+(*c*) provide all documents, records, accounts, estimates and other information, whether oral or written, requested from time to time by the Commission, in the form and at the times specified by the Commission, for the purpose of verifying that the holder of the licence is complying with the conditions of the licence, or as may be required by the Commission in the performance of its duties or functions imposed under this Act.
+
+(13) The Commission shall reach a determination on the issue of a LPG safety licence under *subsection (1)* as soon as practicable after it has completed its assessment but no later than 6 months after the date of receipt of all information including receipt of the additional information requested under *subsection (9)*.
+
+(14) A LPG safety licence remains in force until it is revoked by the Commission or replaced by a new safety licence.
+
+(15) The Commission shall, as soon as practicable after the issue of a LPG safety licence to a LPG undertaking, ensure that a copy of that licence is published in the manner prescribed by the Commission.
+
+(16) Where—
+
+(*a*) the holder of a LPG safety licence, requests the Commission to modify the terms or conditions of the licence, or
+
+(*b*) the Commission is of the opinion that a LPG safety licence should be amended,
+
+the Commission may modify the terms or conditions of the licence.
+
+(17) The procedures to be followed before modifying LPG safety licences shall be as prescribed under sections 19 and 20 in regard to all licences and authorisations other than a modification made to give effect to an order under *section 39* or *40*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F218: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 9JF. Fees relating to applications for LPG safety licences.
+
+F219[**9JF.**—(1) Where a LPG undertaking submits an application for a safety licence it shall be accompanied by such fee, if any, as the Commission may determine to be appropriate, having regard to the nature of the designated LPG activity to which the safety licence relates.
+
+(2) The level of fees shall be structured to ensure that the fee relating to the licence is sufficient to enable the Commission to recover the reasonable costs and expenses which the Commission is likely to incur by reason of its consideration of the application concerned and matters directly pertaining to the application concerned including the costs and expenses incurred in determining conditions relating to the grant or the refusal to grant a LPG safety licence.
+
+(3) The Commission shall make information on the structure and methodology of how it has determined such fees available to the LPG undertaking concerned where requested to do so.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F219: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013.
+
+### 9JG. Regulations (LPG incident).
+
+F220[**9JG.**—(1) The Commission may make regulations relating to the reporting and investigation of LPG incidents.
+
+(2) Each of the following is a class of event or occurrence which is a LPG incident—
+
+(*a*) the death of any person,
+
+(*b*) injury to any person which requires medical attention to be given to such person in hospital other than as an out-patient, or
+
+(*c*) loss or damage to any building, land or other property, where in the opinion of the LPG undertaking concerned the aggregate value of such loss or damage is in excess of €6,500,
+
+resulting from the use, misuse, abuse, leakage, combustion or explosion of LPG.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F220: Inserted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 18(1), S.I. No. 20 of 2013.
+>
+> **Editorial Notes:**
+>
+> E52: Power pursuant to subs. (1) exercised (31.03.2014) by *Liquefied Petroleum Gas Safety (Liquefied Petroleum Gas Incident) Regulations 2014* (S.I. No. 77 of 2014), in operation as per reg. 2.
+
+### 9K. Extension of gas safety provisions to liquefied petroleum gas.
+
+F221[**9K.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Inserted by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 14, not commenced as of date of revision. Note that s. 14 is prospectively repealed by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 28, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: section inserted by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 14, not commenced as of date of revision. Note that s. 14 is prospectively repealed by *Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010* (11/2010), s. 28, not commenced as of date of revision.
+>
+> **9K.**— A reference in—
+>
+> (*a*) *sections 9F* to *9J* of this Act,
+>
+> (*b*) *paragraphs* (*ea*) to (*ec*) of section 9(1), and
+>
+> (*c*) *subsections (1G)* and *(1H)* of *section 9*,
+>
+> to natural gas shall be construed and have effect as if it included a reference to liquefied petroleum gas.
+
+### 9L. Energy efficient tariffs
+
+F222[**9L.**—The Commission shall, through licence conditions, place a requirement on energy undertakings to ensure that tariffs do not create incentives that may unnecessarily increase the volume of distributed or transmitted energy.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F222: Substituted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I.No. 426 of 2014), reg. 29, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E53: Previous affecting provision: section substituted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 9(1)(*a*), S.I. 122 of 2012; substituted per F-note above.
+>
+> E54: Previous affecting provision: section inserted by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*c*), not commenced; s. 3(*c*) repealed (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 22(*d*), S.I. No. 122 of 2012.
+>
+> E55: Previous affecting provision: section inserted (18.12.2009) by *European Communities (Energy End-use Efficiency and Energy Services) Regulations 2009* (S.I. No. 542 of 2009), reg. 19; substituted as per F-note above.
+
+### 9M. Informative billing.
+
+F223[**9M.**—(1) The Commission shall, where it considers it appropriate, having regard to *subsection (2)*, direct an energy undertaking to comply with the requirements of *subsection (5)*, or part thereof, from such date and in such manner as it may specify in that direction.
+
+(2) In determining whether to issue a direction under *subsection (1)*, the Commission shall have regard to the likely costs to the undertaking concerned of complying with such a direction and the likely energy efficiency benefits to final customers of the actions required of the undertaking concerned.
+
+(3) Before issuing a direction under *subsection (1)*, the Commission shall undertake a public consultation process.
+
+(4) Nothing in this section shall affect the responsibilities or duties of an energy undertaking under F224[the Data Protection Regulation or the Data Protection Act 2018].
+
+(5) The Commission may, by direction under *subsection (1)*, require an energy undertaking to do any or all of the following:
+
+(*a*) provide bills to its final customers, based on actual energy use, at such frequency as may be specified by the Commission to enable those customers to regulate their own energy consumption in a timely manner;
+
+(*b*) provide such information in or with a bill to its final customers that, in the opinion of the Commission provides a comprehensive account of the customer’s current energy costs;
+
+(*c*) present bills to its final customers in a manner which, in the opinion of the Commission, is clear and easily understandable; or
+
+(*d*) provide any or all of the following information in or with its bills, contracts, or other relevant communications, in a manner which, in the opinion of the Commission, is clear and understandable—
+
+(i) current actual prices and actual consumption of energy,
+
+(ii) a comparison of the final customer’s current energy consumption with that customer’s consumption for the same period in the previous year, in graphic form where the Commission considers it practicable,
+
+(iii) a comparison of the final customer’s energy use with the energy use of an average normalised or benchmarked final customer, or
+
+(iv) sources of information on available energy efficiency improvement measures, comparative customer profiles or objective technical specifications for energy-using equipment, including contact information and website addresses.
+
+(6) The Commission may request that an energy undertaking provide such information, and in such format, as the Commission considers necessary for the purposes of determining whether to issue a direction under *subsection (1)*, or for the purposes of monitoring compliance with a direction so issued.
+
+(7) In this section a “bill” includes a bill provided or made available to the final customer in electronic format.
+
+(8) An energy undertaking that fails to comply with a direction issued by the Commission under *subsection (1)*, or with a request under *subsection (6)*, commits an offence and is liable on summary conviction to a class A fine.
+
+(9) Where a direction under *subsection (1)* or a request under *subsection (6)* is to be issued or given to an energy undertaking, it shall be addressed to the undertaking and shall be given to the undertaking in one of the following ways—
+
+(*a*) by delivering it to the energy undertaking concerned,
+
+(*b*) by leaving it at the address at which the energy undertaking concerned carries on business,
+
+(*c*) by sending it by post in a pre-paid registered letter addressed to the energy supplier concerned at the address at which the undertaking carries on business,
+
+(*d*) if an address for the service of a direction or request has been furnished by the energy undertaking concerned, by leaving it at, or sending it by pre-paid registered post addressed to the energy undertaking at, that address, or
+
+(*e*) by sending it by means of electronic mail or a facsimile machine, to a device or facility for the reception of electronic mail or facsimiles located at the address at which the energy undertaking concerned carries on business or, if an address for the service of a direction or request has been furnished by the energy undertaking concerned, that address, but only if—
+
+(i) the recipient’s facility for the reception of electronic mail generates a message confirming a receipt of the electronic mail, or
+
+(ii) the sender’s facsimile machine generates a message confirming successful delivery of the total number of pages of the direction or request,
+
+and it is also given in one of the other ways mentioned in any of the preceding paragraphs.
+
+(10) For the purposes of *subsection (9)*, a company registered under the Companies Acts is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.]
+
+F225[(11) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^15] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F223: Substituted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 9(1)(*a*), S.I. No. 122 of 2012. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> F224: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 185(*a*), S.I. No. 174 of 2018.
+>
+> F225: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 185(*b*), S.I. No. 174 of 2018.
+>
+> **Modifications (not altering text):**
+>
+> C14: Application of subs. (5) restricted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 19(5).
+>
+> *Billing - regulated energy sector*
+>
+> **19.** ...
+>
+> (5) Smart metering systems installed in accordance with the Electricity Market Directive and the Natural Gas Market Directive shall enable accurate billing information based on actual consumption and final customers, notwithstanding the provisions of section 9M(5) of the Act of 1999 shall have the possibility of easy access to complementary information on historical consumption allowing detailed self- checks. Such complementary information shall include detailed data according to the time of use for any day, week, month and year. These data shall be made available to the final customer by way of the internet or the meter interface for the period of at least the previous 24 months or the period since the start of the supply contract if this is shorter.
+>
+> ...
+>
+> C15: Application of section restricted (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 9(3).
+>
+> *Electricity and gas consumption data*
+>
+> **9.** ...
+>
+> (3) Notwithstanding the provisions of section 9M (inserted by Regulation 19 of the European Communities (Energy End-Use Efficiency and Energy Services) Regulations 2009 ( S.I. No. 542 of 2009 )) of the Act of 1999 the Commission shall put in place procedures such that final customers are properly informed of actual electricity and gas consumption and related charges frequently enough to enable them to regulate their own electricity and gas consumption.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E56: Previous affecting provision: section inserted (18.12.2009) by *European Communities (Energy End-use Efficiency and Energy Services) Regulations 2009* (S.I. No. 542 of 2009), reg. 19; substituted as per F-note above.
+
+### 9N. Functions of Commission under Part IIA relating to petroleum safety.
+
+F226[**9N.**—In addition to the functions conferred on it by *section 9*, the Commission has the functions specified in *Part IIA* relating to petroleum safety.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F226: Inserted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 9(1)(*a*), S.I. No. 122 of 2012.
+
+### 9O. Regional coordination centres
+
+F227[**9O.**—(1) It shall be a function of the Commission to approve a proposal for the establishment of one or more than one regional coordination centre in accordance with Article 35(1) of the 2019 Internal Electricity Market Regulation.
+
+(2) In the event of the establishment of one or more than one regional coordination centre within the Commission’s system operation region, it shall be a function of the Commission –
+
+(*a*) to approve the costs related to the activities of each regional coordination centre, which are to be borne by the transmission system operators within the system operation region, and to be taken into account in the calculation of tariffs, provided that they are reasonable and appropriate,
+
+(*b*) to approve the cooperative decision-making process,
+
+(*c*) to ensure that each regional coordination centre is equipped with all the necessary human, technical, physical and financial resources for fulfilling its obligations under the 2019 Internal Electricity Market Directive and carrying out its tasks independently and impartially,
+
+(*d*) to propose jointly with other regulatory authorities of the system operation region additional tasks and additional powers that could be assigned to each regional coordination centre by the State, in coordination with other regulatory authorities in the system operation region,
+
+(*e*) to ensure compliance by each regional coordination centre with the obligations under the 2019 Internal Electricity Market Directive and other relevant law of the European Union, in particular as regards cross-border issues, and jointly identify any failure of the regional coordination centre to comply with those obligations,
+
+(*f*) where the Commission has not been able to reach an agreement (with the other regulatory authorities in the system operation region), within a period of 4 months after the start of consultations, on the matter of whether a failure to comply, as referred to in *paragraph (*e*)*, has occurred or as to the extent of any such failure, to refer, jointly with those other authorities, the matter to the Agency for a decision, pursuant to Article 6(10) of the 2019 ACER Regulation,
+
+(*g*) to monitor the performance of system coordination and report annually to the Agency in relation to such monitoring in accordance with Article 46 of the 2019 Internal Electricity Market Regulation.
+
+(3) In performing its functions under this section, the Commission shall take all reasonable steps to ensure that such performance is closely coordinated with all relevant actions taken by other regulatory authorities in its system operation region.
+
+(4) For the purposes of Article 62(2)(*a*) and (*b*) and (3) of the 2019 Internal Electricity Market Directive, *section 55* shall be construed as if –
+
+(*a*) "improper conduct" includes failure by a regional coordination centre (which has its seat in the State) to comply with an obligation under the 2019 Internal Electricity Market Directive or the 2019 Internal Electricity Market Regulation or with any decision referred to in *subsection (5)* or any relevant legally binding decision of the Agency, and
+
+(*b*) in circumstances of improper conduct referred to in *paragraph (*a*)*, "specified body" means such a regional coordination centre,
+
+and *Part IX* and *Schedule 4* shall apply in accordance with this subsection with any other necessary modifications.
+
+(5) For the purposes of Article 62(2)(*c*) of the 2019 Internal Electricity Market Directive, the Commission, in conjunction with other regulatory authorities in its system operation region, may make and issue to a regional coordination centre a decision that the centre shall do, or shall refrain from doing, one or more things specified in the decision and the centre shall comply with any such decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F227: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 4, in operation as per reg. 1(2)
+>
+> **Editorial Notes:**
+>
+> E57: The section heading is taken from the amending regulation in the absence of one included in the amendment.
+
+### F228[9P. Functions of Commission in relation to Electricity Costs Emergency Benefit Scheme
+
+**9P.**—(1) The following shall be functions of the Commission:
+
+(*a*) to ensure that the distribution system operator and electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2022 for the purpose of the efficient operation of the Electricity Costs Emergency Benefit Scheme;
+
+(*b*) to take such steps as are necessary to ensure the distribution system operator and electricity suppliers perform the respective functions conferred on them by or under the Act of 2022;
+
+(*c*) to report to the Minister, at such intervals as are agreed by the Commission and the Minister, in relation to the performance by the distribution system operator and electricity suppliers of the respective functions conferred on them by or under the Act of 2022.
+
+(2) In this section, "Act of 2022" means the Electricity Costs (Domestic Electricity Accounts) Emergency Measures Act 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F228: Inserted (8.03.2022) by *Electricity Costs (Domestic Electricity Accounts) Emergency Measures Act 2022* (1/2022), s. 6, S.I. No. 104 of 2022.
+
+### 9Q. F229[Functions of Commission in relation to Electricity Costs Emergency Benefit Scheme II
+
+**9Q.**—(1) The following shall be functions of the Commission:
+
+(*a*) to ensure that the distribution system operator and electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2022 for the purpose of the efficient operation of the Electricity Costs Emergency Benefit Scheme II;
+
+(*b*) to take such steps as are necessary to ensure the distribution system operator and electricity suppliers perform the respective functions conferred on them by or under the Act of 2022;
+
+(*c*) to report to the Minister, at such intervals as are agreed by the Commission and the Minister, in relation to the performance by the distribution system operator and electricity suppliers of the respective functions conferred on them by or under the Act of 2022.
+
+(2) In this section, "Act of 2022" means the Electricity Costs (Domestic Electricity Accounts) Emergency Measures and Miscellaneous Provisions Act 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F229: Inserted (18.10.2022) by *Electricity Costs (Domestic Electricity Accounts) Emergency Measures and Miscellaneous Provisions Act 2022* (32/2022), s. 6, S.I. No. 520 of 2022, art. 2
+>
+> **Editorial Notes:**
+>
+> E58: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 9R. Functions of Commission in relation to Electricity Costs Emergency Benefit Scheme III and Submeter Support Scheme
+
+F230[**9R.**—(1) The following shall be functions of the Commission:
+
+(*a*) to ensure that the distribution system operator and electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2023 for the purpose of the efficient operation of the Electricity Costs Emergency Benefit Scheme III;
+
+(*b*) to ensure that the electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2023 for the purpose of the efficient operation of the Submeter Support Scheme;
+
+(*c*) to take such steps as are necessary to ensure the distribution system operator and electricity suppliers perform the respective functions conferred on them by or under the Act of 2023;
+
+(*d*) to report to the Minister, at such intervals as are agreed by the Commission and the Minister, in relation to the performance by the distribution system operator and electricity suppliers of the respective functions conferred on them by or under the Act of 2023;
+
+(*e*) to consider any objection made to the Commission under section 6(6) of the Act of 2023;
+
+(*f*) to establish procedures for the consideration of an objection made to the Commission under section 6 (6) of the Act of 2023 and to publish such procedures on its website on or before 1 December 2023.
+
+(2) In this section, "Act of 2023" means the Electricity Costs (Emergency Measures) Domestic Accounts Act 2023.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F230: Inserted (18.11.2023) by *Electricity Costs (Emergency Measures) Domestic Accounts Act 2023* (29/2023), s. 10, S.I. No. 559 of 2023, art. 2.
+
+### 9S. Functions of Commission in relation to Electricity Costs Emergency Benefit Scheme IV and Submeter Support Scheme II
+
+F231[**9S.**—(1) The following shall be functions of the Commission:
+
+(*a*) to ensure that the distribution system operator and electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2024 for the purpose of the efficient operation of the Electricity Costs Emergency Benefit Scheme IV;
+
+(*b*) to ensure that the electricity suppliers have in place such administrative and operational arrangements that the Commission considers necessary or expedient for the performance by them of the respective functions conferred on them by or under the Act of 2024 for the purpose of the efficient operation of the Submeter Support Scheme II;
+
+(*c*) to take such steps as are necessary to ensure the distribution system operator and electricity suppliers perform the respective functions conferred on them by or under the Act of 2024;
+
+(*d*) to report to the Minister, at such intervals as are agreed by the Commission and the Minister, in relation to the performance by the distribution system operator and electricity suppliers of the respective functions conferred on them by or under the Act of 2024;
+
+(*e*) to consider any objection made to the Commission under section 6(6) of the Act of 2024;
+
+(*f*) to establish procedures for the consideration of an objection made to the Commission under section 6 (6) of the Act of 2024 and to publish such procedures on its website on or before 1 November 2024.
+
+(2) In this section, "Act of 2024" means the Electricity Costs (Emergency Measures) Domestic Accounts Act 2024.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F231: Inserted (18.10.2024) by *Electricity Costs (Emergency Measures) Domestic Accounts Act 2024* (33/2024), s. 10, S.I. No. 540 of 2024.
+
+### 10. Directions to Commission.
+
+**10.**—(1) Subject to *subsections (2)* and *(4)*, the Minister may give directions to the Commission as regards the performance of its functions under this Act, including directions in relation to the terms and conditions of licences.
+
+(2) The Minister shall not give directions in respect of—
+
+(*a*) the persons to whom licences or authorisations may be granted, or
+
+(*b*) the performance of its functions in relation to individual holders of licences or authorisations, individual eligible customers or the Board.
+
+(3) The Commission shall comply with directions given by the Minister under *subsection (1)*.
+
+(4) This section shall stand repealed on the 19th day of February, 2000.
+
+### 10A. Policy directions to Commission.
+
+F232[**10A.**— (1) (*a*) In the interests of the proper and effective regulation of the electricity and natural gas markets and the formulation of policy applicable to such proper and effective regulation, the Minister may give such general policy directions to the Commission, as he or she considers appropriate, to be followed by the Commission in the exercise of its functions.
+
+(*b*) Notwithstanding the generality of *paragraph* (*a*), such general policy directions may have regard to the following issues—
+
+(i) security of energy supply,
+
+(ii) sustainability of energy supply,
+
+(iii) competitiveness of energy supply, or
+
+(iv) such other matter which the Minister considers appropriate.
+
+(2) The Commission shall comply with any direction given under *subsection (1)*, and shall report to the Minister on the implementation (including the costs of such implementation) of any directions given under *subsection (1)* in the report prepared in accordance with *paragraph 25*(*b*) of *Schedule 1* to this Act.
+
+(3) Before giving a direction under *subsection (1)*, the Minister shall—
+
+(*a*) provide a draft of the proposed direction to—
+
+(i) the Commission,
+
+F233[(ii) the Joint Committee referred to in *paragraph 26* of *Schedule 1* of this Act,
+
+(iii) the SEM Committee, and]
+
+F234[(iv) any other person the Minister deems appropriate,]
+
+inviting them, in writing, to make representations on the proposal and specifying the period (being not less than 30 days from the giving of the draft to the Commission F235[or publication under *paragraph (*b*)*,] whichever is the later) within which representations relating to the proposal may be made by them, and
+
+(*b*) publish a draft of the proposed policy direction to the Commission, which shall—
+
+(i) include details of the proposed policy direction, including the reasons for giving the direction, and
+
+(ii) specifying the period (being not less than 30 days from the giving of the draft to the Commission or such publication, whichever is the later) within which representations relating to the proposal may be made by interested parties.
+
+F236[(3A) The Minister, having provided a draft of the proposed direction to the persons referred to in *subsection (3)(*a*)* and having published a draft of that direction under *subsection (3)(*b*)*, shall provide a draft of the proposed direction to the Department.]
+
+(4) F237[Subject to *subsection (4A)*, the Minister,] having considered any representations made under *subsection (3)*, may give the direction under *subsection (1)*, with or without amendment.
+
+F238[(4A) The Minister shall not give a direction under *subsection (1)* where the SEM Committee has informed the Minister that the proposed direction would materially affect, or would be likely to materially affect, the Single Electricity Market.]
+
+(5) Where, in the opinion of the Minister, a direction which the Minister proposes to give to the Commission under *subsection (1)* relates or may relate to the functions of another Minister of the Government, the Minister shall consult with that Minister of the Government prior to the carrying out of any obligation imposed on him or her under *subsection (3)*.
+
+(6) The Minister shall not give a direction under *subsection (1)* in respect of—
+
+(*a*) a person who has applied for, or holds a licence, authorisation or consent, or
+
+(*b*) a person to whom a licence, authorisation or consent may be granted by the Commission, or
+
+(*c*) the performance of the functions of the Commission in relation to individual energy undertakings or persons.
+
+(7) Where the Minister gives a direction under *subsection (1)*, a notice of such direction and details thereof, including reasons for giving the direction, shall be published in the *Iris Oifigiúil*.]
+
+F239[(8) Nothing in this section shall allow the Commission to seek or take instructions from any natural or legal person in relation to a decision on a matter which is set out in Article 37 of the Electricity Market Directive or in Article 41 of the Natural Gas Market Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F232: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 7, commenced on enactment.
+>
+> F233: Substituted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*a*)(i), S.I. No. 731 of 2007.
+>
+> F234: Inserted (1.1.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*a*)(i), S.I. No. 731 of 2007.
+>
+> F235: Substituted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*a*)(ii), S.I. No. 731 of 2007.
+>
+> F236: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*b*), S.I. No. 731 of 2007.
+>
+> F237: Substituted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*c*), S.I. No. 731 of 2007.
+>
+> F238: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 11(*d*), S.I. No. 731 of 2007.
+>
+> F239: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(4).
+
+### 11. Authorised officers.
+
+**11.**—F240[(1) In this section, a “person to whom this section applies” means the Board, a holder of a licence or an authorisation F241[or a registration granted under *Part IIIA*] F242[or a natural gas licence granted under section 16 of the Gas (Interim) (Regulation) Act, 2002, or a consent given under the Gas Act, 1976] F243[, or Bord Gáis Éireann or Irish Water.]]
+
+(2) The Commission may appoint persons to be authorised officers for the purposes of this section.
+
+(3) A person appointed under *subsection (2)* shall, on his or her appointment, be furnished by the Commission with a certificate of his or her appointment and when exercising a power conferred by *subsection (4)* shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
+
+F244[(3A) An appointment under this section as an authorised officer shall cease—
+
+(*a*) on the revocation by the Commission of the appointment,
+
+(*b*) if the appointment is for a fixed period, on the expiry of that period, or
+
+(*c*) if the person appointed ceases to be a member of staff of the Commission, on the date on which he or she so ceases.]
+
+(4) For the purposes of the exercise by the Commission of its functions under this Act, F245[the Water Services (No. 2) Act 2013] F246[or the Gas (Amendment) Act, 2000] an authorised officer may—
+
+(*a*) enter at any reasonable time any premises owned or occupied by a person to whom this section applies for the purpose of exercising any powers conferred on him or her by this subsection,
+
+F247[(*b*) require a person to whom this section applies or any member, officer or employee of the person to whom this section applies to produce to the authorised officer any books, documents or records (and in the case of such information in a non-legible form to reproduce it in permanent legible form) which are in his or her power or control or to give him or her such information, whether oral or written, as the officer may reasonably require in relation to any entries in such records,
+
+(*bb*) require any such person to give to the officer any other information, whether oral or written, which the officer may reasonably require to determine whether this Act F248[, the Water Services (No. 2) Act 2013] or the Gas (Interim) (Regulation) Act, 2002, are being complied with,]
+
+(*c*) inspect and take extracts from or make copies of any books, documents and records (including in the case of information in a non-legible form a copy of or extract from such information in a permanent legible form), and
+
+(*d*) require a person to whom this section applies to maintain such books, documents and records for such period or periods of time as the authorised officer may direct.
+
+(5) Where an authorised officer in exercise of his or her powers under this section is prevented from entering any premises an application may be made under *section 12* for a warrant to authorise such entry.
+
+(6) A person to whom this section applies who—
+
+(*a*) obstructs or impedes an authorised officer in the exercise of a power under this section,
+
+(*b*) fails or refuses to comply with a requirement under this section,
+
+(*c*) knowingly alters, suppresses or destroys any books, documents or records which the person concerned has been required to produce, or may reasonably expect to be required to produce, or
+
+(*d*) knowingly gives to the Commission or to an authorised officer information which is false or misleading, in a material respect,
+
+shall be guilty of an offence and shall be liable on summary conviction F249[to a class A fine].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F240: Substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 12(*a*), commenced on enactment.
+>
+> F241: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*a*), commenced on enactment.
+>
+> F242: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act, 2002* (10/2002), s. 18(*a*), commenced on enactment.
+>
+> F243: Substituted (7.02.2014) by *Water Services (No.2) Act 2013* (50/2013), s. 44(1)(*a*), S.I. No. 76 of 2014.
+>
+> F244: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 14(*a*), S.I. No. 171 of 2017.
+>
+> F245: Inserted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(1)(*b*)(i), S.I. No. 76 of 2014.
+>
+> F246: Inserted (11.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 12(*b*), commenced on enactment.
+>
+> F247: Substituted and inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 18(*b*), commenced on enactment.
+>
+> F248: Inserted (7.02.2014) by *Water Services (No.2) Act 2013* (50/2013), s. 44(1)(*b*)(ii), S.I. No. 76 of 2014.
+>
+> F249: Substituted (28.04.2016) by *Energy Act 2016* (12/2016), s. 14(*b*), S.I. No. 171 of 2017. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 12. Search warrants.
+
+**12.**—If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that there has been a contravention of a condition or requirement of a licence or an authorisation F250[or a registration granted under Part IIIA] F251[or a natural gas licence granted under section 16 of the Gas (Interim) (Regulation) Act, 2002, or a consent given by the Minister prior to the appointed day under section 8(7) or 40(1) of the Gas Act, 1976, or given by the Commission under section 39A(1) of the Gas Act, 1976] F252[or that the Board or Bord Gáis éireann has failed to comply with a requirement under section 7(1) of the Gas (Amendment) Act, 2000] the judge may issue a warrant authorising the authorised officer, accompanied by other authorised officers or members of the Garda Síochána, at any time or times within one month from the date of issue of the warrant, on production if so required of the warrant, to enter such premises as are specified in the warrant, if need be by reasonable force, and exercise all or any of the powers conferred on an authorised officer under *section 11*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F250: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*b*), commenced on enactment.
+>
+> F251: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 18(*c*), commenced on enactment.
+>
+> F252: Inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 13, commenced on enactment.
+
+### 13. Prohibition on unauthorised disclosure of information.
+
+**13.**—(1) Save as otherwise provided by law, a person shall not disclose confidential information obtained by him or her while performing duties as a member of, or as a member of the staff of, or an adviser or consultant to, or as an authorised officer of, the Commission, unless he or she is duly authorised by the Commission to do so.
+
+F253[(1A) In *subsection (1)* “duties” means duties falling to be performed in the course of the performance by the Commission of its functions under this Act, the Gas (Amendment) Act, 2000, F254[the Gas (Interim) (Regulation) Act 2002 or the Water Services (No. 2) Act 2013.]]
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence and shall be liable on summary conviction to a F255[class A fine] or imprisonment for a period not exceeding 12 months or, at the discretion of the District Court, to both such fine and imprisonment.
+
+(3) (*a*) In this section “confidential information” means that which is expressed by the Commission to be confidential either as regards particular information or as regards information of a particular class or description.
+
+(*b*) In expressing information to be confidential, the Commission shall have regard to the requirement to protect information of a confidential commercial nature.
+
+(4) The Freedom of Information Act, 1997, is hereby amended in the Third Schedule thereto by the addition to Part I at the end thereof—
+
+(*a*) in column (2), of “*Electricity Regulation Act, 1999*.”, and
+
+(*b*) in column (3), of “*Section 13.*”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F253: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(4), commenced on enactment.
+>
+> F254: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(2), S.I. No. 76 of 2014.
+>
+> F255: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 13(*c*), S.I. No. 171 of 2017. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C16: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(*a*) and sch. 3 part 1, commenced on enactment. This section is listed in sch. 3 part 1.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.**—(1) A head shall refuse to grant an FOI request if—
+>
+> (*a*) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of *Part 1* or *2* of *Schedule 3* of an enactment specified in that Schedule), or
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Enactments Excluded from Application of *Section 41*
+>
+> PART I
+>
+> Statutes
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 23 of 1999</td><td>Electricity Regulation Act 1999</td><td>Section 13.</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E59: Previous affecting provision: subs. (1A) inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 14, commenced on enactment; substituted as per F-note above.
+
+## PART IIARegulation of Petroleum Activities — F256[PART IIA — Regulation of Petroleum Activities] — Annotations Amendments: Inserted (22.10.2010) by Petroleum (Exploration and Extraction) Safety Act 2010 (4/2010), s. 3(d), S.I. No. 227 of 2010.
+
+### 13A. Interpretation
+
+F257[**13A.**—(1) In this Part—
+
+“Act of 1960” means Petroleum and Other Minerals Development Act 1960;
+
+F258[...]
+
+“Act of 1976” means Gas Act 1976;
+
+“accepted safety case” means a safety case in respect of a designated petroleum activity or activities which has been accepted by the Commission under this Part and includes any revision made to a safety case which—
+
+(*a*) may take effect without prior acceptance by the Commission, or
+
+(*b*) has been accepted by the Commission;
+
+“combined operation” means a designated petroleum activity carried out from an installation with another installation for purposes related to the other installation which thereby materially affects the risks to the safety of persons or the protection of the environment on any or all of the installations;
+
+“Commission” means Commission for Energy Regulation;
+
+“competent authority” means Commission;
+
+“contact points” means the body or authority appointed by another Member State without offshore oil and gas operations under its jurisdiction for the purposes of exchanging information with competent authorities in other Member States;
+
+“contractor” means any entity contracted by an operator or owner to perform any activity on behalf of the operator or owner;
+
+“Court” means High Court;
+
+“decommissioning”, in relation to petroleum infrastructure, means taking the facility, structure or installation, or any part of such facility, structure or installation, permanently out of use with a view to its abandonment in situ or removal;
+
+F259["designated area" has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+“designated petroleum activity” means a petroleum activity which is designated by regulations under *section 13D*;
+
+“Directive” means Directive 2013/30/EU of the European Parliament and of the Council of 12 June 2013 [^16];
+
+“Environmental Liability Regulations” means European Communities (Environmental Liability) Regulations 2008 (S.I. No. 547 of 2008) (as amended by the European Communities (Environmental Liability) (Amendment) Regulations 2011 (S.I. No. 307 of 2011));
+
+“established petroleum activity” means a designated petroleum activity which immediately before 22 May 2010 was being carried out by a petroleum undertaking and continued to be carried on after 22 May 2010 by a petroleum undertaking;
+
+“European Union Offshore Oil and Gas Authorities Group” means the forum set up under Commission Decision (2012/C18/07) of 19 January 2012[^17];
+
+F258[...]
+
+F260["exclusive economic zone" has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+“foreshore” has the same meaning as in section 1 of the Foreshore Act 1933;
+
+“installation ”means the class of petroleum infrastructure which includes a stationary, fixed or mobile facility, or combination of facilities permanently inter-connected by bridges or other structures, used for carrying out activities or in connection with such activities;
+
+F260["internal waters" shall be construed in accordance with section 8 of the Maritime Jurisdiction Act 2021;]
+
+“licensed area ”means the whole or any part of—
+
+(*a*) the State, including F261[the internal waters of the State and the territorial sea of the State], and
+
+(*b*) a designated area,
+
+in respect of which a petroleum authorisation is in force;
+
+“major accident” means, in relation to petroleum infrastructure or petroleum activities—
+
+(*a*) an event involving an explosion, fire, loss of well control, or release of oil, gas or dangerous substances involving, or with a significant potential to cause, fatalities or serious personal injury,
+
+(*b*) an event leading to serious damage of petroleum infrastructure involving, or with a significant potential to cause, fatalities or serious personal injury,
+
+(*c*) any other event leading to fatalities or serious injury to multiple persons, or
+
+(*d*) any major environmental incident resulting from incidents referred to in *paragraphs (*a*)*, *(*b*)* and *(*c*)* and which relates to petroleum activities carried out offshore;
+
+“major accident hazard” means a hazard that if realised could result in a major accident;
+
+“major environmental incident” means an incident which results, or is likely to result, in significant adverse effects on the environment in accordance with the Environmental Liability Regulations;
+
+“non-production installation” means the class of installation involved in carrying out offshore petroleum exploration or other designated petroleum activity or activities whilst stationed in the licensed area, but does not include installations involved in production of petroleum;
+
+“offshore” means situated in the territorial seas, the exclusive economic zone or a designated area;
+
+“operator” means the entity appointed under *section 13KA(1)* to conduct designated petroleum activities including managing and controlling the functions of petroleum infrastructure (except non- production installations) in carrying out petroleum activities;
+
+“owner” means a person entitled to control the operation of a non-production installation;
+
+“petroleum” includes—
+
+(*a*) any mineral oil or relative hydrocarbon and natural gas and other liquid or gaseous hydrocarbons and their derivatives or constituent substances existing in its natural condition in strata (including, without limitation, distillate, condensate, casinghead gasoline and other substances that are ordinarily produced from oil and gas wells), and
+
+(*b*) any other substance contained in oil and natural gas brought to the surface with them in the normal process of extraction,
+
+but does not include coal and bituminous shales and other stratified deposits from which oil can be extracted by distillation;
+
+“petroleum authorisation” means any one or more of the following:
+
+(*a*) an exploration licence granted under *section 8* of the Act of 1960;
+
+(*b*) a petroleum prospecting licence granted under *section 9* of the Act of 1960;
+
+(*c*) a reserved area licence granted under *section 19* of the Act of 1960;
+
+(*d*) a lease undertaking granted under *section 10* of the Act of 1960;
+
+(*e*) a petroleum lease granted under *section 13* of the Act of 1960;
+
+(*f*) a consent given under *section 40* of the Act of 1976;
+
+“petroleum incident” means an event or occurrence in, at or in the precincts of petroleum infrastructure which is an event or occurrence of a class prescribed by regulations made by the Commission under *section 13V* and includes all major accidents;
+
+“petroleum infrastructure” means any facility, structure or installation which is or has been established, maintained or operated, or is intended to be established, for the purpose of carrying on a petroleum activity and includes onshore and offshore facilities, installations and structures or a combination of such facilities, installations and structures;
+
+“petroleum undertaking” means a person to whom a petroleum authorisation has been given or granted;
+
+“processing”, in relation to petroleum, means the treatment of unprocessed or partially processed petroleum at a processing plant or terminal or offshore processing installation;
+
+“published in the prescribed manner”, in relation to any document or information (howsoever described), means—
+
+(*a*) published on a relevant internet website, or
+
+(*b*) available for inspection, at the offices of the Commission and at all reasonable times, by members of the public;
+
+“relevant internet website” means the internet website of the Commission (including part of such a website)—
+
+(*a*) to which access is readily available by members of the public, and
+
+(*b*) where anything published on the website is readily available for inspection by members of the public;
+
+“revised safety case” means a safety case submitted for review under *section 13N*;
+
+“safety case” means a document, in accordance with the safety case guidelines, describing the components of the safety management system relating to the designated petroleum activity concerned, or the safety and environmental management system with respect to designated petroleum activities carried out offshore (and all petroleum infrastructure associated with carrying out that designated petroleum activity);
+
+“safety case guidelines” means guidelines prepared under *section 13L*;
+
+“safety framework” means the risk-based petroleum safety framework established under *section 13I*;
+
+“safety permit” means a permit issued under *section 13P*;
+
+F260["territorial sea" has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+“tripartite consultation” means a formal arrangement established by the Commission under *section 13H(2) (*h*)* to enable dialogue and cooperation between the Commission, operators and owners, and workers’ representatives;
+
+“upstream pipeline” means so much of any pipeline (including the subsea and onshore sections) operated or constructed—
+
+(*a*) as part of a petroleum production project, or
+
+(*b*) for the purpose of conveying unprocessed petroleum from one or more than one such project to a processing plant or terminal or final coastal landing terminal.
+
+(2) (*a*) In this Part, “petroleum activity” includes any activity referred to in *paragraph (*b*)* —
+
+(i) that is authorised to be carried on under or in connection with a petroleum authorisation,
+
+(ii) which is carried on from, by means of or on, or for purposes connected with, any petroleum infrastructure, and
+
+(iii) which is carried on in a licensed area.
+
+(*b*) The activities referred to in *paragraph (*a*)* include, but are not limited to, the following:
+
+(i) petroleum exploration activities carried on under any one or more of the authorisations referred to in *paragraphs (*a*)* to *(*d*)* of the definition of “petroleum authorisation” in *subsection (1)* and in respect of which petroleum infrastructure for the drilling of exploration wells in the seabed or subsoil is intended to be established, maintained or operated;
+
+(ii) petroleum extraction activities carried on under an authorisation referred to in *paragraph (*e*)* of the definition of “petroleum authorisation” in *subsection (1)* and in respect of which petroleum infrastructure for the drilling of wells as part of a petroleum field plan of development and the subsequent extraction, and processing of petroleum, and offshore storage and loading of petroleum is intended to be established, maintained or operated;
+
+(iii) activities relating to the conveyance of unprocessed, partially processed or fully processed petroleum by subsea pipelines or vessels and petroleum infrastructure, including the onshore section of any subsea pipeline carried on pursuant to an authorisation referred to in *paragraph (*f*)* of the definition of “petroleum authorisation” in *subsection (1)* ;
+
+(iv) activities relating to the processing of petroleum at a petroleum processing plant or terminal, offshore installation or other similar facility carried on under the terms and conditions of an authorisation referred to in paragraph (*e*) of the definition of “petroleum authorisation” in *subsection (1)* ;
+
+(v) activities relating to the decommissioning of petroleum infrastructure.
+
+(3) Any reference in this Part to a petroleum activity or a designated petroleum activity includes, unless the context otherwise requires, a reference to the establishment, maintenance or operation of any petroleum infrastructure for the purpose of carrying on the petroleum activity or designated petroleum activity.
+
+(4) A word or expression that is used in this Part and is also used in the Directive has, unless the contrary intention appears, the same meaning in this Part as it has in the Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F257: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 2, S.I. No. 109 of 2016.
+>
+> F258: Deleted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 30(*a*), (*c*), S.I. No. 601 of 2021.
+>
+> F259: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 30(*b*), S.I. No. 601 of 2021.
+>
+> F260: Inserted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 30(*d*), S.I. No. 601 of 2021.
+>
+> F261: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 30(*e*), S.I. No. 601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E60: Prescribed occurrence designated as event or occurrence for purposes of subs. (1), definition of petroleum incident, para. (*f*) (13.01.2014) by *Petroleum Safety (Petroleum Incident) Regulations 2014* (S.I. No. 4 of 2014), reg. 4, in operation as per reg. 2.
+>
+> E61: Previous affecting provision: section inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010; substituted as per F-note above.
+
+### 13B. Safety obligations.
+
+F262[**13B.**—Nothing in this Part shall be read so as to be restrictive of any other duty, requirement or obligation imposed by law in respect of safety which would otherwise apply to a petroleum undertaking.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F262: Inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010.
+
+### 13C. Application of Part IIA.
+
+F263[**13C.**—This Part applies to any petroleum undertaking that—
+
+(*a*) proposes to carry on a designated petroleum activity, or
+
+(*b*) is carrying on an established petroleum activity.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F263: Inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010.
+
+### 13D. Designated petroleum activity.
+
+F264[**13D.**—(1) Subject to *subsection (3)*, the Commission shall, where safety considerations render it appropriate, by regulation, designate for the purposes of this Part any petroleum activity or a class or classes of such activity to be a designated petroleum activity.
+
+(2) For the purposes of making a designation under *subsection (1)*, the Commission shall have regard to the following:
+
+(*a*) the nature of the petroleum activity;
+
+(*b*) the type of petroleum infrastructure;
+
+(*c*) an assessment of the risks posed by the carrying on of the petroleum activity;
+
+(*d*) the safety measures required to reduce the risks;
+
+(*e*) the extent to which the petroleum activity and petroleum infrastructure is regulated by or under another Act of the Oireachtas.
+
+(3) (*a*) Before making a designation under *subsection (1)*, the Commission shall for the purpose of satisfying itself that it is appropriate and in the public interest that the petroleum activity or class or classes of such activity be designated—
+
+(i) consult with the persons specified in *paragraph* (*b*), and
+
+(ii) give interested persons, organisations and other bodies an opportunity to make representations to it concerning the proposed designation,
+
+(*b*) The Commission shall consult with—
+
+(i) The National Standards Authority of Ireland,
+
+(ii) the Health and Safety Authority,
+
+(iii) the Environmental Protection Agency,
+
+(iv) the Minister for Transport,
+
+(v) the Irish Aviation Authority, and
+
+(vi) such other persons as may be prescribed by order by the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F264: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I No. 500 of 2013.
+>
+> **Editorial Notes:**
+>
+> E62: Power pursuant to subs. (1) exercised (30.11.13) by *Petroleum Safety (Designation of Certain Classes of Petroleum Activity) Regulations 2013* (S.I. No. 89 of 2013), in operation as per reg. 2.
+
+### 13E. Prohibition on carrying on designated petroleum activity without safety permit.
+
+F265[**13E.**—(1) A person shall not carry on a designated petroleum activity or, subject to *section 13M(2)*(*b*), an established petroleum activity, unless a safety permit is in force in respect of the petroleum activity concerned.
+
+(2) A person who contravenes *subsection (1)* commits an offence.
+
+(3) A person who commits an offence under *subsection (2)* is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €3,000,000 or a term of imprisonment not exceeding 3 years or both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F265: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+
+### 13F. Conditions attaching to petroleum authorisations.
+
+F266[**13F.**—It shall be a condition of every petroleum authorisation that purports to authorise a person to carry on a designated petroleum activity or an established petroleum activity that person hold a safety permit mentioned in *section 13E(1)* in respect of any such activity carried on after the commencement of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F266: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+
+### 13G. Object of Commission relating to petroleum safety.
+
+F267[**13G.**—The principal objective of the Commission in exercising its functions under this Part is to protect the public by fostering and encouraging safety as respects the carrying on of designated petroleum activities.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F267: Inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010.
+
+### 13GA. Competent authority
+
+F268[**13GA.**—(1) The Commission is appointed as the competent authority in the State for the purposes of Article 8 of the Directive.
+
+(2) The principal objective of the Commission in exercising its functions as competent authority is the effective safety regulatory oversight of operator and owner compliance with this Part in reducing the risk and potential consequences (including major environmental incidents) of major accidents offshore to a level that is as low as is reasonably practicable.
+
+(3) The Commission shall—
+
+(*a*) monitor and enforce compliance by operators and owners with their obligations under this Part with respect to safety;
+
+(*b*) regularly exchange knowledge, information and experience with other competent authorities in other Member States, inter alia, through the European Union Offshore Oil and Gas Authorities Group;
+
+(*c*) prepare and submit an annual report to the European Commission;
+
+(*d*) co-operate with other competent authorities and contact points under Article 27 of the Directive;
+
+(*e*) establish mechanisms for—
+
+(i) the confidential reporting of safety and environmental concerns relating to offshore designated petroleum activities from any source, and
+
+(ii) the appropriate investigation of such reports while maintaining the anonymity of the individuals concerned;
+
+(*f*) prepare and send to the European Commission a report of the summary findings of any investigation of petroleum incidents which resulted in an offshore major accident, at the conclusion of the investigation or at the conclusion of the legal proceedings with respect to the petroleum incident as appropriate;
+
+(*g*) operate in accordance with the requirements of this Act and Annex III to the Directive.
+
+(4) Where the Commission considers that a major accident hazard relating to designated petroleum activities to be carried out offshore is likely to have significant effects on the environment in another Member State, the Commission shall, prior to making its decision under *section 13P(1)* to accept a safety case or a revised safety case, forward the relevant information to the competent authority of the potentially affected Member State. The Commission shall endeavour, jointly with the competent authority of that Member State, to adopt measures to prevent damage without prejudice to its regulatory functions.
+
+(5) The Commission may—
+
+(*a*) advise the Minister on matters relating to the functions and obligations of the competent authority;
+
+(*b*) request a petroleum undertaking, operator or owner to provide a report on the circumstances of any major accident in which they have been involved, either themselves or through subsidiaries outside of the European Union. The report shall be in such form, provided in such timeframe, and accompanied by such additional information and particulars as may be determined by the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F268: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (3/2015), s. 3, S.I. No. 109 of 2016.
+
+### 13H. Functions of Commission relating to petroleum safety
+
+F269[**13H.**—(1) The Commission shall do all things necessary and reasonable to further its objectives and shall exercise its powers and perform its functions in the public interest.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Commission’s functions under this Part are—
+
+(*a*) to regulate designated petroleum activities with respect to safety, which may include specifying standards and codes of practice referred to in *section 13L(3)*,
+
+(*b*) subject to *sections 13S* to *13U*, to investigate and report to the Minister in writing on petroleum incidents,
+
+(*c*) to monitor and enforce compliance by petroleum undertakings, operators and owners with their obligations under this Part,
+
+(*d*) to issue safety permits,
+
+(*e*) to provide safety information to the public when appropriate,
+
+(*f*) to assess, and where relevant accept or reject, safety cases and notifications submitted by operators and owners under this Part,
+
+(*g*) to carry out the objectives of the competent authority as set out in *section 13GA*,
+
+(*h*) to establish a mechanism for tripartite consultation on—
+
+(i) the safety framework established under *section 13I*,
+
+(ii) the safety case guidelines under *section 13L*,
+
+(iii) matters set out in Annex VI to the Directive, and
+
+(iv) any other matter considered necessary by the Commission.
+
+(3) The Commission shall, in performing its functions under this Part, have regard to—
+
+(*a*) such functions with respect to the safety of petroleum activities as may be performed by the persons specified in *subsection (4)*,
+
+(*b*) the need to co-operate and consult with the persons specified in *subsection (4)* for the purpose of—
+
+(i) encouraging and fostering safety in the carrying on of petroleum activities, and
+
+(ii) avoiding duplication of activities by the Commission and the persons specified in *subsection (4)*.
+
+(4) The following are the persons to whom *paragraphs (*a*)* and *(*b*)* of *subsection (3)* apply:
+
+(*a*) the National Standards Authority of Ireland;
+
+(*b*) the Health and Safety Authority;
+
+(*c*) the Environmental Protection Agency;
+
+(*d*) the Minister for Transport, Tourism and Sport;
+
+(*e*) the Irish Aviation Authority;
+
+(*f*) such other persons as may be prescribed by order by the Minister.
+
+(5) Where necessary, the Commission may prepare and implement coordinated or joint procedures with other authorities, specified in *subsection (4)*, to carry out its functions under this Part.
+
+(6) The Commission shall—
+
+(*a*) make annual plans for the purpose of carrying out its function to monitor and enforce compliance under *subsection (2)(*c*)*,
+
+(*b*) provide advice on any matter requested by the Minister—
+
+(i) under *section 9A(3)* of the Act of 1960 to support the Minister’s consideration of the technical capability of a person under that section, and
+
+(ii) on the technical capacity of any operator proposed by a petroleum undertaking to the Minister,
+
+and
+
+(*c*) inform the Minister immediately in circumstances where it determines that an operator no longer has the capacity to meet its obligations under this Part.
+
+(7) *Subsections (3)*, *(4)* and *(5)* of *section 9* do not apply to the functions of the Commission under this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F269: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (3/2015), s. 4, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E63: Previous affecting provision: section inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010; substituted as per F-note above.
+
+### 13HA. Emergency preparedness
+
+F270[**13HA.** The Commission may—
+
+(*a*) at its own behest or following consultation with other agencies, direct operators and owners to conduct tests or exercises on their preparedness to respond effectively to major accidents, and
+
+(*b*) where a petroleum undertaking assumes the responsibility for the discharge of operator responsibility under *section 9B(2)* or *(4)* of the Act of 1960, take, or direct the petroleum undertaking to take, adequate measures to ensure the continuing safety of designated petroleum activities up to and including prohibiting designated petroleum activities taking place.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F270: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2016), s. 5, S.I. No. 109 of 2016.
+
+### 13I. Safety framework.
+
+F271[**13I.**—F272[(1) In exercising its functions under *section 13H*, the Commission shall, subject to *subsection (5)* and after consultation with such of the persons specified in *subsection (2)* as the Commission considers appropriate, establish and implement a risk-based petroleum safety framework (in this Part referred to as a “safety framework”).]
+
+(2) The following are the persons specified for the purposes of *subsection (1)*:
+
+(*a*) the Minister,
+
+(*b*) the Minister for the Environment, Heritage and Local Government with respect to petroleum activities undertaken on the foreshore,
+
+(*c*) the Minister for Transport,
+
+(*d*) the Health and Safety Authority, and
+
+(*e*) any other relevant person.
+
+(3) (*a*) The safety framework shall be in writing and shall contain information relating to—
+
+(i) the nature and scope of the petroleum activities and petroleum infrastructure to be regulated by the Commission, and
+
+(ii) the systems and procedures to be operated by the Commission in regulating designated petroleum activities.
+
+(*b*) The information contained in the safety framework shall include, but shall not be limited to, the following information:
+
+(i) a list of designated petroleum activities;
+
+F273[(ii) procedures for the assessment by the Commission of safety cases and notifications;
+
+(iii) the processes used by the Commission to assure compliance by petroleum undertakings operators and owners with the safety framework and this Part. These processes shall include, but are not limited to, audit and inspection by the Commission of petroleum undertakings, operators and owners and the establishment of a scheme of independent verification by owners and operators in accordance with requirements and procedures stated by the Commission;]
+
+(iv) the standards and system for assessing safety performance;
+
+(v) any other matter considered necessary by the Commission.
+
+(4) In considering what other matters it may be necessary to include in the safety framework, the Commission may have regard to—
+
+(*a*) technological developments in the petroleum exploration and extraction industry,
+
+(*b*) best practice relating to the carrying on of petroleum activities,
+
+(*c*) the necessity to keep under review safety standards and specifications relating to designated petroleum activities,
+
+(*d*) any directions given by the Minister under *section 13J*,
+
+(*e*) recommendations made in reports on petroleum incidents, or
+
+(*f*) any submissions or recommendations made by interested persons, organisations and other bodies in relation to the safety of petroleum activities.
+
+(5) (*a*) The Commission shall not establish or implement a safety framework until after a public consultation process has taken place in respect of the safety framework.
+
+(*b*) In *paragraph (*a*)* “public consultation process” means an invitation by the Commission to the public for submissions, within a specified time limit, on a draft of the proposed safety framework where such invitation is made by means of a notice to that effect published in a newspaper circulating within the State and published in the prescribed manner.
+
+(6) The Commission shall report annually to the Minister on the functioning of the safety framework.
+
+(7) The Commission may, from time to time, review or amend the safety framework.
+
+(8) The Commission shall publish in the prescribed manner—
+
+(*a*) a copy of the safety framework, and
+
+(*b*) where the safety framework has been amended in accordance with *subsection (7)*, a copy of the safety framework as amended.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F271: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F272: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 6(*a*), S.I. No.109 of 2016.
+>
+> F273: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 6(*b*), S.I. No. 109 of 2016.
+
+### 13J. Directions by Minister.
+
+F274[**13J.**—(1) The Minister may give written directions to the Commission relating to—
+
+(*a*) the measures to be taken arising from reports prepared by the Commission under *section 13H(2)*(*b*) with regard to petroleum incidents, and
+
+(*b*) review or amendment of the safety framework where the Minister considers it is in the public interest for the safety framework to be so reviewed or amended.
+
+(2) The Commission shall comply with any directions of the Minister given under this section.
+
+(3) A notice of any direction of the Minister under this section shall be published in the *Iris Oifigiúil* as soon as practicable after it is given.
+
+(4) Where the safety framework referred to in *section 13I* has not been published within 6 months after the commencement of that section, the Minister may direct the Commission in writing to publish that safety framework no later than the date specified in the direction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F274: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+
+### 13K. General duties of petroleum undertakings.
+
+F275[**13K.**—(1) In addition to complying with the requirements of any other provisions of this Part a petroleum undertaking shall ensure that—
+
+(*a*) any petroleum activity is carried on in such a manner as to reduce any risk to safety to a level that is as low as is reasonably practicable, and
+
+(*b*) any petroleum infrastructure is designed, constructed, installed, maintained, modified, operated and decommissioned in such a manner as to reduce any risk to safety to a level that is as low as is reasonably practicable.
+
+(2) Without prejudice to the generality of *subsection (1)*, the duties of a petroleum undertaking include, but are not limited to, the following—
+
+(*a*) as regards any petroleum infrastructure, ensuring, in so far as is reasonably practicable—
+
+(i) that the construction and installation of petroleum infrastructure is sound and fit for the purpose for which it has been designed,
+
+(ii) that the modification, maintenance or other work is carried out in such a manner to secure that the soundness and fitness for purpose for which the infrastructure is designed is not compromised,
+
+(iii) that safe operating limits for the infrastructure have been established,
+
+(*b*) ensuring that the standards of safety and training of persons carrying on petroleum activities or operating petroleum infrastructure, are such so as to ensure, in so far as is reasonably practicable, the competence of such persons to undertake the activities concerned,
+
+(*c*) preparing, implementing and operating, arrangements and procedures for ensuring, in so far as is reasonably practicable, that the risk of a petroleum incident is as low as is reasonably practicable,
+
+(*d*) having adequate plans in place and adopting measures to be taken in the case of an emergency or serious and imminent danger arising from the carrying on of petroleum activities, and
+
+(*e*) F276[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F275: Inserted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 227 of 2010.
+>
+> F276: Deleted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*a*), S.I. No. 109 of 2016.
+
+### 13KA. Obligations on petroleum undertakings
+
+F277[**13KA.**—(1) A petroleum undertaking shall appoint an operator prior to carrying out any designated petroleum activities. A petroleum undertaking shall ensure that the operator has the capacity to meet the requirements of this Act for the carrying out of designated petroleum activities under the appointment.
+
+(2) Prior to the appointment of an operator by a petroleum undertaking, the petroleum undertaking shall notify the Minister of its proposed appointment and seek the approval of the Minister for the appointment.
+
+(3) Where the Minister objects to the appointment of an operator by a petroleum undertaking under *section 13KA(1)*, the petroleum undertaking shall comply with any direction by the Minister to—
+
+(*a*) propose a suitable alternative operator to the Minister for consideration as soon as possible, or
+
+(*b*) assume the responsibilities of the operator under this Part.
+
+(4) Where a petroleum undertaking has received a notification from the Minister under *section 9B(4)* of the Act of 1960 regarding the determination of the Commission on the capacity of the operator, the petroleum undertaking shall assume responsibility for the discharge of operator responsibilities, and shall, without delay, propose a replacement operator to the Minister.
+
+(5) A petroleum undertaking shall not change the appointed operator without the prior written approval of the Minister.
+
+(6) A petroleum undertaking shall take all reasonable steps to ensure that its appointed operator is discharging his or her obligations under *section 13KB* in carrying out designated petroleum activities and is complying with the requirements of this Part.
+
+(7) A petroleum undertaking shall comply with any request by the Commission for a report on the circumstances of any major accident in which the undertaking has been involved, either itself or through a subsidiary, in conducting oil or gas operations outside of the European Union.
+
+(8) A petroleum undertaking shall communicate details of the mechanism established by the Commission for the confidential reporting of safety concerns to its employees and ensure that reference to confidential reporting is included in relevant training and notices.
+
+(9) Without prejudice to the existing scope of liability relating to the prevention and remediation of environmental damage under the Environmental Liability Regulations, a petroleum undertaking is financially liable for the prevention and remediation of environmental damage within the meaning of those Regulations, caused by offshore petroleum activities carried out pursuant to a petroleum authorisation.
+
+(10) A petroleum undertaking shall comply with any request by the Commission for such information as it requires to discharge its functions under this Part.
+
+(11) A petroleum undertaking shall put in place any necessary arrangements to ensure that it has the continued technical and financial capability to discharge its obligations under this Part and the conditions of its petroleum authorisation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F277: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 7, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E64: Procedure for approval of or objection to appointment of an operator under section prescribed by *Petroleum and Other Minerals Development Act 1960* (7/1960), s. 9B as inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 22(2), S.I. No. 109 of 2016.
+
+### 13KB. Obligations on operators
+
+F278[**13KB.**—(1) An operator shall ensure that the risk of all major accident hazards in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
+
+(2) The use of contractors by an operator in carrying out petroleum activities and any action or omissions carried out by contractors which may lead or contribute to a major accident does not relieve the operator of his or her duties under this Act.
+
+(3) An operator shall have primary responsibility for, inter alia, the control of risks of a major accident that are a result of its carrying on designated petroleum activities and for continuously improving control of those risks so as to ensure that the risks are reduced to a level that is as low as is reasonably practicable.
+
+(4) An operator shall comply with any direction issued by the Commission under *section 13HA.*
+
+(5) Where an activity carried out by an operator poses an immediate danger to human health or significantly increases the risk of a major accident, the operator shall take suitable measures which may include, suspending the relevant activity until the danger or risk is adequately controlled.
+
+(6) In the case of a major accident, the operator shall take all suitable measures to prevent its escalation and to limit the consequences for human health and the environment and shall put into action without delay the internal emergency response plan described in the accepted safety case.
+
+(7) An operator shall take measures to use technical means or procedures, as the Commission considers adequate, in order to promote the reliability of the collection and recording of relevant data in the discharge of its reporting requirements to the Commission and to prevent possible manipulation thereof.
+
+(8) An operator shall comply with any request of the Commission for a report on the circumstances of any major accident in which the operator has been involved, either itself or through a subsidiary, in conducting oil or gas operations outside of the European Union.
+
+(9) An operator shall communicate details of the mechanism established by the Commission for the confidential reporting of safety concerns to its employees and contractors connected with carrying out designated petroleum activities, and shall ensure that reference to confidential reporting is included in relevant training and notices.
+
+(10) Where requested by the Commission, an operator shall provide the Commission, or any other person acting under the direction of the Commission, with transport to or from the petroleum infrastructure associated with petroleum activities, including the conveyance of their equipment, at any reasonable time, and with accommodation, meals and other subsistence in connection with the visits, for the purpose of facilitating the Commission in carrying out its functions under this Part.
+
+(11) An operator shall comply with any request by the Commission for such information as it requires to discharge its functions under this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F278: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 7, S.I. No. 109 of 2016.
+
+### 13KC. Obligations on owners
+
+F279[**13KC.**—(1) An owner shall ensure that the risk of all major accident hazards related to a non-production installation in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
+
+(2) An owner shall comply with any direction issued by the Commission under *section 13HA*.
+
+(3) Where an activity carried out by an owner poses an immediate danger to human health or significantly increases the risk of a major accident, the owner shall take suitable measures which may include, if deemed necessary, suspending the relevant activity until the danger or risk is adequately controlled.
+
+(4) In the case of a major accident, an owner concerned shall take all suitable measures to prevent its escalation and to limit the consequences for human health and the environment and shall put into action without delay the internal emergency response plan described in the accepted safety case.
+
+(5) An owner shall take suitable measures to use suitable technical means or procedures in order to promote the reliability of the collection and recording of relevant data in the discharge of its reporting requirements to the Commission and to prevent possible manipulation thereof.
+
+(6) An owner shall communicate details of the mechanism established by the Commission for the confidential reporting of safety concerns to its employees and contractors connected with carrying out designated petroleum activities, and shall ensure that reference to confidential reporting is included in relevant training and notices.
+
+(7) Where requested by the Commission, an owner shall provide the Commission, or any other person acting under the direction of the Commission, with transport to or from the petroleum infrastructure associated with petroleum activities, including the conveyance of their equipment, at any reasonable time, and with accommodation, meals and other subsistence in connection with the visits, for the purpose of facilitating the Commission in carrying out its functions under this Part.
+
+(8) An owner shall comply with any request by the Commission for such information as it requires to discharge its functions under this Part.
+
+(9) An owner shall comply with any request by the Commission for a report on the circumstances of any major accident in which they have been involved, either themselves or through subsidiaries, outside of the European Union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F279: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 7, S.I. No. 109 of 2016.
+
+### 13L. Safety case guidelines
+
+F280[**13L.**—(1) Subject to *subsection (2)*, the Commission shall, from time to time, prepare guidelines ("safety case guidelines") relating to the preparation and contents of a safety case applicable to all or any designated petroleum activity or activities.
+
+(2) For the purpose of developing safety case guidelines, the Commission—
+
+(*a*) may consult, as it considers appropriate, with—
+
+(i) the National Standards Authority of Ireland,
+
+(ii) the Health and Safety Authority,
+
+(iii) the Environmental Protection Agency,
+
+(iv) the Minister for Transport, Tourism and Sport,
+
+(v) the Irish Aviation Authority, and
+
+(vi) such other persons as may be prescribed by order by the Minister,
+
+and
+
+(*b*) may give interested persons, organisations and other bodies an opportunity to make representations to it concerning the proposed guidelines.
+
+(3) Safety case guidelines may include provision for one or more of the following:
+
+(*a*) the appropriate contents of a safety case;
+
+(*b*) the appropriate technical principles and specifications relating to the design, construction, operation, maintenance, modification and decommissioning of petroleum infrastructure;
+
+(*c*) the standards and codes of practice applicable to designated petroleum activities including relevant standards and codes of practice, that have been formulated or recommended by the National Standards Authority of Ireland;
+
+(*d*) the safety standards to be achieved and maintained in respect of each designated petroleum activity;
+
+(*e*) the procedures to be followed by an operator, or where relevant an owner, for the submission of a safety case or a revised safety case for acceptance by the Commission;
+
+(*f*) the relevant performance indicators according to which safety performance in respect of each designated petroleum activity will be assessed;
+
+(*g*) guidance on the corporate major accident prevention policy to be submitted as part of the safety case or notification;
+
+(*h*) guidance on the description of the safety management system or, with respect to designated petroleum activities carried out offshore, the safety and environmental management system, to be included as part of the safety case or notification;
+
+(*i*) guidance on the description of the scheme of independent verification to be established by the operator or the owner as the case may be, and to be included in the safety case or notification as appropriate;
+
+(*j*) guidance on emergency response arrangements to be described in the safety case or notification;
+
+(*k*) guidance on the preparation and maintenance of a complete inventory of emergency response equipment by operators and owners pertinent to operations;
+
+(*l*) guidance on the worker representative consultation in the preparation and review of safety cases and notifications;
+
+(*m*) the procedures to be followed by an operator for the submission of a notification, or revised notification for acceptance by the Commission;
+
+(*n*) guidance on the contents of a design notification to be submitted by an operator before the intended submission of a safety case relating to relevant designated petroleum activities;
+
+(*o*) guidance on the contents of a combined operation notification to be submitted by an operator.
+
+(4) The Commission shall ensure, where appropriate, that the information to be included in safety cases and notifications as specified under safety case guidelines is consistent with the requirements of the Directive and, in particular, Annex I and Annex IV.
+
+(5) Safety case guidelines shall specify that safety cases or notifications relating to any designated petroleum activity carried out offshore (and all petroleum infrastructure associated with the carrying out of that designated petroleum activity) shall include a safety and environmental management system.
+
+(6) The Commission may revise any safety case guidelines or may withdraw those guidelines and prepare new guidelines.
+
+(7) The Commission shall ensure that safety case guidelines are published in the prescribed manner as soon as practicable after the guidelines have been prepared.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F280: Substituted (29.02.2015) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 8, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E65: Previous affecting provision: section inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013; substituted as per F-note above.
+
+### 13M. Safety case
+
+F281[**13M.**—(1) (*a*) An owner shall, where relevant, and at least 6 months or, such other lesser time as the Commission may specify, before an operator proposes to commence a designated petroleum activity from the non-production installation, submit a safety case to the Commission for acceptance.
+
+(*b*) An owner shall submit a safety case with respect to a non-production installation and the review and revision of that safety case.
+
+(2) (*a*) An operator that proposes to carry on a designated petroleum activity shall prepare a safety case and shall, at least 6 months or, such other lesser time as the Commission may specify in writing, before it proposes to commence the activity, submit the safety case to the Commission for acceptance.
+
+(*b*) An operator shall submit a safety case (except with respect to a non-production installation) and the review and revision of that safety case.
+
+(3) (*a*) An operator shall not carry on a designated petroleum activity unless the safety case submitted under *subsection (2)(*a*)*, and where relevant the associated owner safety case for the non-production installation, has been accepted by the Commission and a safety permit has been issued under *section 13P* in respect of the designated petroleum activity.
+
+(*b*) Notwithstanding *section 13E(1)*, a petroleum undertaking may continue to carry on an established petroleum activity where the petroleum undertaking has submitted a safety case to the Commission within 12 months of the publication in the prescribed manner of the guidelines relating to that activity pursuant to the Act of 2010 until the day which is 14 days after the Commission notifies the petroleum undertaking of—
+
+(i) the acceptance of the safety case and issue of a safety permit under *section 13P*, or
+
+(ii) the refusal of a safety permit under *section 13Q(1)*.
+
+(4) A safety case shall be prepared in accordance with such safety case guidelines as shall be prepared and published by the Commission under *section 13L*.
+
+(5) A safety case shall contain such particulars as are specified in the safety case guidelines that relate to the designated petroleum activity or activities in respect of which the safety case is being prepared and shall include sufficient particulars to demonstrate to the Commission that—
+
+(*a*) the operator is complying with his or her obligations under *section 13KB* or where relevant the owner is complying with his or her obligations under *section 13KC*,
+
+(*b*) the operator, or where relevant the owner, has the ability to properly assess and effectively control risks which may arise from the carrying on of the designated petroleum activity or activities to a level that is as low as is reasonably practicable,
+
+(*c*) having identified all major accident hazards and the risks presented by those hazards, the relevant owner or operator has taken such measures as are adequate to ensure that its safety management system or the safety and environmental management system with respect to designated petroleum activities carried out offshore, is capable of reducing the risks to a level that is as low as is reasonably practicable,
+
+(*d*) all petroleum incident risks have been evaluated and emergency measures are in place in the event of such petroleum incident arising,
+
+(*e*) adequate arrangements for monitoring, audit and for the making of reports on safety performance and compliance have been established,
+
+(*f*) the emergency response arrangements are—
+
+(i) consistent with the major accident hazard risk assessment described in the safety case and the relevant national emergency response arrangements which are in place to prevent escalation or limit the consequences of a major accident, and
+
+(ii) capable of being put into action without delay to respond to any major accident or a situation where there is an immediate risk of a major accident,
+
+(*g*) it has consulted with workers’ representatives in the preparation and review of the safety case, and
+
+(*h*) a complete inventory of emergency response equipment pertinent to their operation has been prepared and is maintained.
+
+(6) A petroleum activity shall cease to be an established petroleum activity where—
+
+(*a*) the Commission accepts the safety case and issues a safety permit under *section 13P*,
+
+(*b*) the Commission refuses to issue a safety permit under *section 13Q(1)*, or
+
+(*c*) the petroleum undertaking fails to submit a safety case within the time period specified in *subsection (1) (*b*)*.
+
+(7) In this section “audit” means systematic assessment of the adequacy of the safety management system, carried out by persons who are sufficiently independent of the system (but who may be employed by the operator or owner) to ensure that such assessment is objective.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F281: Substituted (29.02.2015) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 9, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E66: Previous affecting provision: section inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013; substituted as per F-note above.
+
+### 13MA. Revised safety case - transitional arrangement
+
+F282[**13MA.** (1) Where a petroleum undertaking—
+
+(*a*) has an accepted safety case and safety permit under *section 13P* to carry out a designated petroleum activity or activities with respect to production prior to 19 July 2015, or
+
+(*b*) is carrying out established petroleum activities in accordance with *section 13M(3)(*b*)*,
+
+an operator appointed by that petroleum undertaking shall submit a revised safety case by the earliest of the following dates—
+
+(i) the date of the scheduled review of the safety case under *section 13N(2)(*a*)*,
+
+(ii) the date by which the petroleum undertaking is required to submit the revised safety case as stated in a notice in writing issued by the Commission, or
+
+(iii) 19 July 2018.
+
+(2) Notwithstanding any other provision of this Act and subject to *subsection (3)*, a petroleum undertaking who satisfies either the conditions set out in *subsection (1) (*a*)* or *(*b*)*, may continue to carry out designated petroleum activities in accordance with its existing safety permit and accepted safety case until the assessment by the Commission of the revised safety case, submitted under *subsection (1)* has been completed.
+
+(3) A petroleum undertaking referred to in *subsection (1)* shall review its safety case during the period from the commencement of this section under the *Petroleum (Exploration and Extraction) Safety Act 2015* and the submission of the safety case in accordance with *subsection (1)* —
+
+(*a*) whenever such a review is necessary because of new facts or to take account of new technical knowledge about safety matters,
+
+(*b*) whenever such a review is necessitated arising from—
+
+(i) reports related to audits (whether within the meaning of *section 13M(7)* or otherwise), or
+
+(ii) reports on safety performance and compliance,
+
+(*c*) in circumstances where the petroleum undertaking considers it appropriate to do so,
+
+(*d*) where the Commission issues a notice in writing to a petroleum undertaking requiring it to do so, or
+
+(*e*) where a change is made to the safety management system which could significantly affect the ability of the petroleum undertaking to comply with its duty to reduce the risks to a level that is as low as is reasonably practicable.
+
+(4) Where in consequence of the review under *subsection (3)* it is necessary to revise a safety case, the petroleum undertaking shall do so as soon as practicable and inform the Commission in writing of the details of such revision. Where the revision of a safety case results in a material alteration of the safety case previously accepted by the Commission, the petroleum undertaking shall immediately inform the Commission and a revised safety case in accordance with *subsection (1)* shall be submitted to the Commission by the operator appointed by the petroleum undertaking.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F282: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 9, S.I. No. 109 of 2016.
+
+### 13N. Review and revision of safety case
+
+F283[F284[**13N.**—(1) A safety case shall be regarded as a working document by which an operator, or owner, as the case may be, may demonstrate that the safety management system, or the safety and environmental management system with respect to designated petroleum activities carried out offshore, described in the safety case is being properly implemented and continues to be maintained.
+
+(2) A safety case shall be reviewed—
+
+(*a*) at least every 5 years,
+
+(*b*) whenever such a review is necessary because of new facts or to take account of new technical knowledge about safety matters,
+
+(*c*) whenever such a review is necessitated arising from—
+
+(i) reports relating to audits (whether within the meaning of *section 13M(7)* or otherwise),
+
+(ii) reports on safety performance and compliance,
+
+(*d*) in circumstances where the operator, or the owner as the case may be, considers it appropriate to do so,
+
+(*e*) where the Commission issues a notice in writing to an operator or owner requiring it to do so, or
+
+(*f*) where a change is made to the safety management system, or the safety and environmental management system with respect to designated petroleum activities carried out offshore, which could significantly affect the ability of the operator or the owner, as the case may be, to comply with his or her duty to reduce the risk of major accident hazards to a level that is as low as is reasonably practicable,
+
+and where in consequence of that review it is necessary to revise the safety case, the operator, or owner as the case may be, shall do so as soon as practicable and inform the Commission of the details of such revision.
+
+(3) Where the revision of a safety case results in a material alteration of the safety case previously accepted by the Commission under *section 13P* the operator, or the owner as the case may be, shall submit the proposed revision to the Commission and any proposed revision shall not be made unless it has been accepted by the Commission in accordance with *section 13P*.
+
+(4) A revised safety case shall be submitted to the Commission for the purposes of this section in accordance with such procedures as are specified by the Commission in the safety case guidelines.
+
+(5) Where the Commission has revised the safety case guidelines under *section 13L(4*), it may specify a date by which the operator or owner must submit a revised safety case under this section for assessment by the Commission.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F283: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F284: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 10, S.I. No. 109 of 2016.
+
+### 13O. Duty to conform with safety case
+
+F285[F286[**13O.**—(1) Where an operator has prepared and has had accepted a safety case under *section 13P* (and where relevant a combined operation notification under *section 13OA*), the operator shall ensure that as long as he or she carries on the designated petroleum activity or activities to which the safety case (and where relevant the associated combined operations notification) and associated safety permit relates, that the safety case and the safety management system (or where relevant the safety and environmental management system) described in the safety case (and where relevant the associated combined operations notification) and any revision of the safety case under *section 13N* (and where relevant a revision to the associated combined operation notification under *section 13OA*) is implemented and followed.
+
+(2) Where an owner has prepared and has had accepted a safety case under *section 13P*, the owner shall ensure that as long as the designated petroleum activity or activities to which the safety case and the associated safety permit relates is being carried out, that the safety case and the safety management system (or where relevant the safety and environmental management system) described in the safety case and any revision of the safety case under *section 13N* is implemented and followed.
+
+(3) An operator who fails to comply with *subsection (1)* or an owner who fails to comply with *subsection (2)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €3,000,000.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F285: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F286: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 11, S.I. No. 109 of 2016. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 13OA. Notifications
+
+F287[**13OA.**—(1) An operator shall submit a design notification or revised design notification to the Commission in accordance with the procedures and timescale set out in safety case guidelines where the operator intends to carry out a designated petroleum activity or activities related to production under a petroleum authorisation.
+
+(2) The Commission shall assess the design notification or a revised design notification submitted by an operator.
+
+(3) The Commission may—
+
+(*a*) accept a design notification,
+
+(*b*) accept a design notification with observations on matters to be taken into account by the operator when submitting a safety case under *section 13M*, or
+
+(*c*) refuse a design notification,
+
+having considered whether the information contained in the design notification or revised design notification complies with the safety case guidelines and whether the operator has provided sufficient demonstration that the operator is—
+
+(i) capable of implementing the safety management system (or where relevant the safety and environmental management system) described in the design notification, and
+
+(ii) capable of carrying on the designated petroleum activity or activities concerned in compliance with its duties under *section 13KB*.
+
+(4) The Commission, in deciding whether or not to accept a design notification, may, for the purposes of satisfying itself under *subsection (2)*, request in writing such additional information as it may reasonably require from an operator and the operator shall comply with any such request.
+
+(5) Where there is a revision of a design notification which results in a material change to the design notification previously accepted by the Commission under this section, the operator concerned shall submit the proposed revision of a design notification to the Commission and any proposed revision shall not be made until the Commission has carried out its assessment of the revision of the design notification under this section.
+
+(6) The revised design notification shall be submitted to the Commission for the purposes of this section in accordance with such procedures as are specified by the Commission in safety case guidelines.
+
+(7) The Commission shall notify the relevant petroleum undertaking and operator of the acceptance of a design notification.
+
+(8) The acceptance of a design notification or a revised design notification by the Commission shall not be interpreted as relieving an operator of its duties under *section 13KB*.
+
+(9) Where an operator or owner proposes to carry on a combined operation, the operator and owner involved in a combined operation shall jointly prepare the combined operation notification.
+
+(10) One of the persons referred to in *subsection (9)* shall submit a combined operation notification or revised combined operation notification to the Commission in accordance with the procedures and timescale set out in safety case guidelines.
+
+(11) The Commission shall only accept a combined operation notification or a revised combined operation notification where the information contained in the combined operation notification or revised combined operation notification complies with the safety case guidelines and the Commission is satisfied the operators and owners concerned are—
+
+(*a*) capable of implementing the safety management system, or where relevant the safety and environmental management system, described in the combined operation notification, and
+
+(*b*) subject to any conditions of the safety permit, capable of carrying on the combined operation concerned in compliance with their duties under *sections 13KB* and *13KC*.
+
+(12) The Commission, in deciding whether or not to accept a combined operation notification, may, for the purposes of satisfying itself under *subsection (11)*, request in writing such additional information as it may reasonably require from an operator and the operator shall comply with any such request.
+
+(13) The Commission shall notify the relevant petroleum undertaking and operator of the acceptance of the combined operation notification.
+
+(14) The acceptance of a combined operation notification by the Commission shall not be interpreted as relieving an operator of his or her duties under *section 13KB* or, where relevant, an owner of his or her duties under *section 13KC*.
+
+(15) Where there is a revision of a combined operation notification which results in a material change to the combined operation notification previously accepted by the Commission under this section, the operator concerned shall submit the proposed revision of combined operation notification to the Commission and any proposed revision shall not be made until the Commission has carried out its assessment of the revision of the combined operation notification under this section.
+
+(16) A revised combined operation notification shall be submitted to the Commission for the purposes of this section in accordance with such procedures specified by the Commission in safety case guidelines.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F287: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 12, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E67: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 13P. Safety permit
+
+F288[F289[**13P.**—(1) The Commission shall only accept a safety case or a revised safety case for the purposes of issuing a safety permit under this section where the information contained in the safety case or the revised safety case complies with the requirements of *section 13M(4)* and the Commission is satisfied that the operator and, where relevant, the owner—
+
+(*a*) is capable of implementing the safety management system, or where relevant the safety and environmental management system, described in its safety case, and
+
+(*b*) subject to any conditions of the safety permit, is capable of carrying on the designated petroleum activity or activities concerned in compliance with its obligations under section 13KB with respect to an operator and *section 13KC* with respect to an owner.
+
+(2) The Commission, in deciding whether or not to issue a safety permit, for the purpose of satisfying itself under *subsection (1)*, may request in writing such additional information as it may reasonably require from a petroleum undertaking, operator or owner and the undertaking, operator or owner shall comply with any such request.
+
+(3) The Commission shall notify—
+
+(*a*) an operator in writing of its acceptance or refusal of a safety case under *section 13P(1)*,
+
+(*b*) an owner in writing of its acceptance or refusal of a safety case under *section 13P(1)*, and
+
+(*c*) a petroleum undertaking of its acceptance of a safety case submitted by the operator or, where relevant, the owner by issuing a safety permit to that petroleum undertaking.
+
+(4) It shall be a condition of a safety permit that the operator, and where relevant the owner, act in accordance with the accepted safety case or safety cases and, where relevant, the combined operations notification accepted by the Commission under *section 13OA(11)*.
+
+(5) Subject to *subsection (4)*, the Commission may attach such conditions to a safety permit as it considers appropriate including conditions—
+
+(*a*) restricting or prohibiting the operation of specified parts of petroleum infrastructure, maintained or intended to be established, in connection with the carrying on of the designated petroleum activity or activities concerned,
+
+(*b*) restricting or prohibiting the carrying on of specified activities carried out on, from or in connection with petroleum infrastructure,
+
+(*c*) specifying requirements to be complied with in respect of all or any of the different phases of the designated petroleum activity or activities concerned,
+
+(*d*) in respect of when a safety permit shall be subject to review by the Commission,
+
+(*e*) relating to audits (whether within the meaning of *section 13M(7)* or otherwise) and reporting requirements, or
+
+(*f*) in respect of safety performance requirements.
+
+(6) The Commission shall determine the form of a safety permit.
+
+(7) The Commission shall issue a safety permit under *subsection (1)* or a request for information under *subsection (2)* as soon as practicable after it has completed its assessment but no later than 6 months after the date of receipt of the safety case or revised safety case of an operator or owner or receipt of the additional information requested under *subsection (2)*.
+
+(8) The acceptance of a safety case or revised safety case by the Commission and the issuing of a safety permit shall not be interpreted as relieving a petroleum undertaking of its duties under *section 13K*, an operator of his or her duties under *section 13KB* or an owner of his or her duties under *section 13KC* and does not imply any transfer of responsibility to the Commission.
+
+(9) A safety permit shall remain in operation for such period as may be specified in writing by the Commission unless it is revoked by the Commission under *section 13Q* or replaced by a new safety permit.
+
+(10) The Commission shall, as soon as practicable after the issue of a safety permit to a petroleum undertaking, ensure that a copy of that permit is published in the prescribed manner.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F288: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F289: Substituted (29.02.2015) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 13, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E68: Certain petroleum activities designated as requiring a safety permit (30.11.2013) by *Petroleum Safety (Designation of Certain Classes of Petroleum Activity) Regulations 2013* (S.I. No. 89 of 2013), reg. 4, in operation as per reg. 2.
+
+### 13Q. Refusal or revocation of safety permit.
+
+F290[**13Q.**—(1) The Commission may—
+
+(*a*) refuse to issue a safety permit where the Commission is not satisfied for the purposes of *section 13P(1)*, or
+
+(*b*) revoke a safety permit issued under *section 13P(3)* in all or any of the following circumstances:
+
+(i) non-compliance with its conditions;
+
+(ii) failure to comply with an improvement notice issued under *section 13Z*;
+
+(iii) where, in the opinion of the Commission, the petroleum undertaking is not complying with its duties under *section 13K*.
+
+(2) Where the Commission proposes to refuse or revoke a safety permit in accordance with *subsection (1)*, it shall notify in writing the petroleum undertaking concerned of the proposal and the petroleum undertaking may, within 21 days of the notification, make representations to the Commission, which shall consider them.
+
+(3) Where the Commission decides under *subsection (1)* to refuse or revoke a safety permit and, having considered representations (if any) made by the petroleum undertaking under *subsection (2)*, it shall notify the petroleum undertaking concerned of the decision and the reasons for the decision.
+
+F291[(4) Where the Commission decides to refuse a safety permit or revoke a safety permit issued by it, the petroleum undertaking concerned may, not later than 21 days of the date of notification of the decision, appeal to the High Court.
+
+(5) Where an appeal is taken under *subsection (4)*, the decision of the Commission under *subsection (3)* shall, unless cancelled by the Court, take effect on the day next following the day on which the decision is confirmed on appeal or the appeal is withdrawn, or on such day as is specified by the Court, whichever is later.]
+
+F292[(5A) Where no appeal is made under *subsection (4)*, the decision of the Commission under *subsection (3)* shall take effect on the day on which the time allowed for an appeal has elapsed.]
+
+(6) On hearing an appeal under *subsection (4)*, the Court may either confirm or vary the decision of the Commission or allow the appeal.
+
+(7) Any decision of the Court on an appeal under *subsection (4)* shall be final, save that, an appeal from the decision may be made to the Supreme Court on a specified point of law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F290: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F291: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 14, S.I. No. 109 of 2016.
+>
+> F292: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 14, S.I. 109 of 2016.
+
+### 13R. Fees relating to consideration of safety case.
+
+F293[**13R.**—(1) Where F294[an operator or owner]—
+
+(*a*) submits a safety case under *section 13M*, or
+
+(*b*) submits a revised safety case under *section 13N*,
+
+it shall be accompanied by such fee as the Commission may determine to be appropriate, having regard to the nature of the designated petroleum activity and the nature and extent of the petroleum infrastructure to which the safety case or revised safety case relates.
+
+(2) The level of fees shall be structured to ensure that the fee relating to the safety case or revised safety case concerned is sufficient to enable the Commission recover the reasonable costs and expenses which the Commission is likely to incur by reason of its consideration of the safety case or revised safety case concerned and matters directly pertaining to the case concerned including the costs and expenses incurred in determining conditions relating to the issue of a safety permit or the refusal to issue a safety permit.
+
+(3) The Commission shall make information on the structure and methodology of how it has determined such fees available to the F295[the operator or owner concerned] where requested to do so.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F293: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F294: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*b*)(i), S.I. No. 109 of 2016.
+>
+> F295: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*b*)(ii), S.I. No. 109 of 2016.
+
+### 13S. Reportable petroleum incident
+
+F296[F297[**13S.**—(1) Where a petroleum incident occurs, the operator and the owner concerned shall notify the Commission of the petroleum incident, without delay, after the occurrence of the petroleum incident and such notification shall be—
+
+(*a*) in such form,
+
+(*b*) provided in such timeframe, and
+
+(*c*) accompanied by such additional information and particulars,
+
+as may be prescribed by the Commission.
+
+(2) Where an activity carried out by an operator or an owner poses an immediate danger to human health or significantly increases the risk of a petroleum incident and the operator takes suitable measures in line with his or her obligation under *section 13KB(5)* or the owner takes suitable measures in line with his or her obligation under *section 13KC(3)*, the operator or owner shall notify the Commission accordingly, in such form and accompanied by such additional information and particulars as may be prescribed by the Commission, without delay, and no later than 24 hours after taking those measures.
+
+(3) On receipt of a notification of a petroleum incident under *subsection (1)* or a notification of suitable measures taken under *subsection (2)* the Commission shall consider the notification and where it considers that it is necessary, the Commission may request a further report giving additional details of the incident and the circumstances associated with it and any suitable measures taken, and in that event the Commission shall notify the owner or operator concerned and request that such further report be furnished to it within such period of time specified in the request and is reasonable in the circumstances.
+
+(4) An operator or owner who fails to comply with this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine,
+
+(*b*) on conviction on indictment, to a fine not exceeding €1,000,000.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F296: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F297: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 15, S.I. No. 109 of 2016. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 13T. Actions Commission may take following petroleum incident.
+
+F298[F299[**13T.**—(1) The Commission may on its own initiative or following receipt of—
+
+(*a*) a notification under *section 13S(1)* or *(2)* or a report under *section 13S(3)*, appoint a petroleum safety officer to investigate the petroleum incident or the suitable measures taken, or
+
+(*b*) a confidential report under *section 13GA(3)(*e*)*, appoint a petroleum safety officer to investigate the concerns.
+
+(2) Where the Commission receives—
+
+(*a*) a notification under *section 13S(1)* of a petroleum incident,
+
+(*b*) a notification under *section 13S(2)* of suitable measures taken,
+
+(*c*) a report under *section 13S(3)* in respect of a petroleum incident or suitable measures taken,
+
+(*d*) a confidential report under *section 13GA(3)(*e*)* relating to offshore designated petroleum activities,
+
+(*e*) a report by a petroleum safety officer of an investigation under *subsection (1)*,
+
+the Commission may issue to the petroleum undertaking, operator or owner concerned—
+
+(i) an improvement notice,
+
+(ii) a prohibition notice,
+
+(iii) a notice requiring the operator or owner to revise its safety case, or
+
+(iv) a notice that the Commission intends to revoke the relevant safety permit.
+
+(3) Nothing in *subsection (2)* shall limit the power of the Commission to issue a notice of a kind specified in that subsection in circumstances other than those referred to in this section.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F298: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F299: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 16, S.I. No. 109 of 2016.
+
+### 13U. Reporting of petroleum incidents to Minister by Commission
+
+F300[F301[**13U.**—(1) The Commission shall prepare and send to the Minister a report in respect of each petroleum incident which results in—
+
+(*a*) the loss of human life,
+
+(*b*) serious personal injury being suffered by a person,
+
+(*c*) damage to property the ownership of which is held by a person other than the petroleum undertaking operator or owner concerned, or
+
+(*d*) a major accident.
+
+(2) The Commission may prepare and send to the Minister a report in respect of a petroleum incident other than an incident referred to in *subsection (1)* where, in the opinion of the Commission, it is appropriate to do so by reason of the seriousness of the petroleum incident concerned.
+
+(3) The Commission may, with the consent of the Minister, publish a non- confidential version of the reports issued to the Minister under *subsection (1)* or *(2)*.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F300: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3, S.I. No. 500 of 2013.
+>
+> F301: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 17, S.I. No. 109 of 2016.
+
+### 13V. Regulations (Part IIA).
+
+F302[F303[**13V.**—The Commission shall, for the purposes of enabling this Part to have full effect, make regulations—
+
+(*a*) prescribing all major accidents as a class of event for the purposes of the definition of petroleum incident,
+
+(*b*) prescribing a class of event or occurrence for the purposes of the definition of petroleum incident which in the opinion of the Commission may materially increase the risk of an event or occurrence referred to in *section 13U(1)(*a*)* to *(*d*)* occurring,
+
+(*c*) prescribing a class of event or occurrence for the purposes of the definition of petroleum incident to enable the Commission to discharge its reporting obligations to the European Commission, and
+
+(*d*) prescribing a form to be used by operators or owners in notifying the Commission of a petroleum incident, the timeframe for such reporting and the classes of information to be included in such a form.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F302: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F303: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 18, S.I. No. 109 of 2016.
+>
+> **Editorial Notes:**
+>
+> E69: Power pursuant to section exercised (3.04.2016) by *Petroleum Safety (Petroleum Incident) Regulations 2016* (S.I. No. 166 of 2016), in operation as per reg. 2.
+>
+> E70: Previous affecting provision: power pursuant to section exercised (29.02.2016) by *Petroleum Safety (Petroleum Incident) Regulations 2016* (S.I. No. 81 of 2016), in operation as per reg. 2; replaced (13.04.2016) by *Petroleum Safety (Petroleum Incident) Regulations 2016* (S.I. No. 166 of 2016), as per reg. 2 and in operation as per reg. 2.
+>
+> E71: Previous affecting provision: power pursuant to section exercised (13.01.2014) *Petroleum Safety (Petroleum Incident) Regulations 2014* (S.I. No. 4 of 2014), in operation as per reg. 2; revoked (13.04.2016) by *Petroleum Safety (Petroleum Incident) Regulations 2016* (S.I. No. 166 of 2016), reg. 3.
+
+### 13W. Petroleum safety officers.
+
+F304[**13W.**—(1) The Commission may appoint any of its officers or any other person to be a petroleum safety officer for the purposes of the exercise by the Commission of its functions under this Part.
+
+(2) (*a*) A person appointed under *subsection (1)* shall be furnished with a certificate of his or her appointment by the Commission.
+
+(*b*) When exercising a power conferred on him or her by this section, a petroleum safety officer shall, if requested by a person affected, produce the certificate of his or her appointment or a copy of such certificate to such person.
+
+(3) A petroleum safety officer may, subject to this section—
+
+(*a*) at any time board or otherwise enter, inspect, examine and search any place which he or she has reasonable grounds for believing is used for the purposes of or in connection with a designated petroleum activity and there make such inspection, carry out such tests or examination as may be necessary of any—
+
+(i) petroleum infrastructure,
+
+(ii) upstream pipeline,
+
+(iii) activity, process or procedure,
+
+(iv) plant, vessel or equipment, or
+
+(v) records,
+
+to ascertain whether the provisions of this Part are being complied with and for those purposes take with him or her and use any equipment or materials he or she considers necessary,
+
+(*b*) carry out an investigation where appointed to do so under *section 13T(1)*,
+
+(*c*) direct that the place and anything at, in or on it, be left undisturbed for so long as is reasonably necessary for any search, examination, investigation, inspection or inquiry under this Part,
+
+(*d*) take any measurement or photograph or make any electrical or electronic recording which he or she considers necessary for the purposes of any such examination or inquiry,
+
+(*e*) take samples of any fluid or gas or other substance found at that place,
+
+(*f*) as regards any article or substance he or she finds at that place, require any relevant person in authority to supply the officer without charge with any such article or substance,
+
+(*g*) require any relevant person in authority to produce to him or her such documents, records or materials (and in the case of information in a non-legible form to reproduce it in a legible form) as are in that person’s possession or control relating to the matter under inquiry and to give to him or her such information as the officer may reasonably require in regard to such documents, records or materials,
+
+(*h*) inspect and take copies of or extracts from any such documents, records or materials or any electronic information system at that place or premises, including in the case of information in a non-legible form, copies or extracts from such information in a permanent legible form or require that such copies be provided,
+
+(*i*) remove and retain such records for such period as may be reasonable for further examination,
+
+(*j*) require any relevant person in authority to give to the officer any information that the officer may reasonably require for the purposes of any search, examination, investigation, inspection or inquiry under this Part,
+
+(*k*) require any person he or she finds at that place to give the officer such assistance and facilities within the person’s power or control as are reasonably necessary to enable the officer to exercise any of his or her powers under this Part,
+
+(*l*) exercise such other powers as may be necessary for the purposes of the exercise by the Commission of its functions under this Part.
+
+(4) Without prejudice to the generality of *subsection (3)*(*l*) where, in the opinion of the petroleum safety officer, there is a substantial and imminent risk to safety, the petroleum safety officer may—
+
+(*a*) instruct any person to evacuate any place referred to in *subsection (3)*(*a*) until such time as the place is, in the opinion of the officer, safe,
+
+(*b*) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-performance of such act is necessary in order to reduce or prevent any danger arising from the carrying on of any petroleum activity,
+
+(*c*) search for any escaped oil or gas, or any leak or defect in any petroleum infrastructure, upstream pipeline or plant or equipment,
+
+(*d*) interrupt the flow of any oil or gas, or disconnect any part of any petroleum infrastructure, upstream pipeline or plant or equipment,
+
+(*e*) liaise with any other authorised person appointed by a body that has functions that are similar or ancillary to the functions of the Commission with respect to the safety of petroleum activities.
+
+(5) Where a petroleum safety officer has reasonable cause to apprehend any serious obstruction in the exercise of his or her duty or otherwise considers it necessary, he or she may be accompanied by—
+
+(*a*) a member or members of the Garda Síochána, or
+
+(*b*) a member or members of the Defence Forces, where the place concerned is in any part of—
+
+F305[(i) the licensed area to which *subparagraph (i)* or *(ii)* or both of *paragraph (*a*)* of the definition of “licensed area” relates, or,]
+
+(ii) a designated area.
+
+(6) A petroleum safety officer shall not enter a dwelling other than—
+
+(*a*) with the consent of the occupier, or
+
+(*b*) in accordance with a warrant from a District Court issued under *subsection (8)*.
+
+(7) Where a petroleum safety officer, in the exercise of his or her powers under this section, is prevented from entering any place, an application may be made, subject to *subsection (9)*, to the District Court for a warrant under *subsection (8)* authorising such entry.
+
+(8) Without prejudice to the powers of a petroleum safety officer under this Part, if a judge of the District Court is satisfied by information on oath of a petroleum safety officer that there are reasonable grounds for believing that—
+
+(*a*) there are any articles or substances at any place or any records (including documents stored in a non-legible form) or information relating to a place, that the petroleum safety officer requires to inspect for the purposes of enforcing this Part, or
+
+(*b*) there is to be found, or such an inspection is likely to disclose, evidence of a contravention of or failure to comply with a provision of this Part,
+
+the judge may issue a warrant authorising a petroleum safety officer, alone or accompanied by such other persons as may be necessary, at any time or times within one month of the date of issue of the warrant, on production of the warrant if requested, to enter the place, if necessary by the use of reasonable force, and perform any of the functions of a petroleum safety officer under this section.
+
+(9) Where the place the subject of an application under *subsection (8)* is located in any part of—
+
+(*a*) the licensed area to which *subparagraphs (i)* or *(ii)*, or both, of *paragraph* (*a*) of the definition of “licensed area” relates, or
+
+(*b*) a designated area,
+
+the application for a search warrant may be made to a judge assigned to any district court district.
+
+(10) A person who—
+
+(*a*) obstructs or impedes a petroleum safety officer in the exercise of powers conferred by this section,
+
+(*b*) fails or refuses to comply with any instruction, requirement or direction of a petroleum safety officer for any of the purposes of this section,
+
+(*c*) knowingly gives to a petroleum safety officer information which is false or misleading in a material respect,
+
+F306[(*d*) alters, suppresses or destroys any documents, records or materials (including documents stored in non-legible form) that the person has been required to produce or may reasonably expect to be required to produce, or]
+
+(*e*) interferes with any action taken by a petroleum safety officer to interrupt the flow of oil or gas or to disconnect any part of any petroleum infrastructure, upstream pipeline or plant,
+
+commits an offence.
+
+(11) A person who commits an offence under this section is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €3,000,000 or a term of imprisonment not exceeding 3 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F304: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F305: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*c*), S.I. No. 109 of 2016.
+>
+> F306: Substituted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 9(1)(*b*), S.I. No. 122 of 2012.
+
+### 13X. Emergency direction.
+
+F307[**13X.**—(1) Where a petroleum safety officer is of the opinion that the condition of any petroleum infrastructure or any part of such infrastructure, or an upstream pipeline or any activity, process or procedure carried on, from or in connection with, such infrastructure or pipeline, poses such a substantial and imminent risk to safety that the activity should be ceased until specified measures have been taken to reduce the risk to a level that is as low as is reasonably practicable, the officer shall immediately inform the Commission.
+
+(2) The Commission, on being informed of the opinion of the petroleum safety officer as respects a matter referred to in *subsection (1)*, may, where it is satisfied that it is necessary to do so for the immediate protection of human life or petroleum infrastructure, issue an emergency direction in writing to the petroleum undertaking F308[, operator or owner] stating that the activity should be ceased immediately and the measures that are required to be taken to reduce the risk to a level that is as low as is reasonably practicable.
+
+(3) If a petroleum undertaking F309[, an operator or owner] fails to comply with the direction under *subsection (2)*, the Commission may apply *ex parte* to the Court for an order restricting or prohibiting that activity.
+
+(4) The Court may, upon an application under *subsection (3)*, make such order as it considers appropriate.
+
+(5) An order under this section shall have effect notwithstanding the terms of any permission given under any other enactment for the activity to which the application under this section relates.
+
+(6) On an application by any person for the revocation or variation of an order under *subsection (3)*, the Commission shall be entitled to be heard.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F307: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F308: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*d*)(i), S.I. No. 109 of 2016.
+>
+> F309: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*d*)(ii), S.I. No. 109 of 2016.
+
+### 13Y. Improvement plan
+
+F310[**13Y.**—(1) Where the Commission is of the opinion that a petroleum undertaking, operator or owner, or a person under the control or on behalf of that undertaking, operator or owner—
+
+(*a*) is not operating in accordance with the approved safety case, or in accordance with any conditions of the safety permit issued to that petroleum undertaking, operator or owner,
+
+(*b*) is not operating in such a manner as to ensure compliance with the duties under sections 13K and 13KA with respect to a petroleum undertaking, or section 13KB with respect to an operator or section 13KC with respect to an owner, or
+
+(*c*) is contravening, has contravened, is failing to comply with or has failed to comply with any other requirement of this Part,
+
+the Commission may give a direction in writing to the petroleum undertaking, operator or owner concerned requiring it to submit to the Commission, within the time period stated in the direction, a plan (in this Part referred to as an “improvement plan”) specifying the remedial action proposed to be taken by the petroleum undertaking, operator or owner to rectify the matters set down in the direction.
+
+(2) Where an improvement plan is submitted in accordance with *subsection (1)* or re-submitted under *paragraph (*b*)*, the Commission shall, within 30 days, write to the petroleum undertaking, operator or owner—
+
+(*a*) stating that the Commission is satisfied with the remedial action proposed to be taken, or
+
+(*b*) where the Commission is not satisfied that the remedial action proposed to be taken is adequate, directing that the plan be revised and re-submitted to the Commission within a specified time period.
+
+(3) The Commission may withdraw a direction under this section at any time before a date specified in the direction or may extend and further extend such date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F310: Substituted(29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 19, S.I. No. 109 of 2016
+>
+> **Editorial Notes:**
+>
+> E72: Previous affecting provision: section inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013; substituted as per F-note above.
+
+### 13Z. Improvement notice
+
+F311[**13Z.**—(1) Where the Commission is of the opinion that—
+
+(*a*) a petroleum undertaking, operator or owner has failed to comply with a direction under *section 13Y* to submit or implement an appropriate improvement plan, or
+
+(*b*) a petroleum undertaking, operator or owner or a person under the control of, or on behalf of that undertaking, operator or owner—
+
+(i) is not operating in accordance with the accepted safety case, or in accordance with any conditions of the safety permit issued to the undertaking,
+
+(ii) is not operating in such a manner as to ensure compliance with the duties under *sections 13K* and *13KA* with respect to a petroleum undertaking, or *section 13KB* with respect to an operator or, *section 13KC* with respect to an owner, or
+
+(iii) is contravening, has contravened, is failing to comply with or has failed to comply with any other requirement of this Part,
+
+the Commission may serve a written notice (in this Part referred to as an “improvement notice”) on that petroleum undertaking, operator or owner, as the case may be.
+
+(2) An improvement notice shall—
+
+(*a*) state that the Commission is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reasons for that opinion,
+
+(*c*) where applicable, state that the petroleum undertaking, operator or owner has failed to submit or implement an improvement plan,
+
+(*d*) direct the petroleum undertaking, operator or owner to remedy the alleged contraventions or the matters occasioning that notice by a date specified in the notice, which shall not be earlier than the period within which an appeal may be brought under *subsection (5)*,
+
+(*e*) contain details of the consequences, under this section or under *section 13Q*, of a failure to comply with the notice,
+
+(*f*) include information regarding the making of an appeal under *subsection (5)*, and
+
+(*g*) include any other requirement that the Commission considers appropriate.
+
+(3) An improvement notice may include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates or otherwise comply with the notice.
+
+(4) Where the Commission proposes to serve an improvement notice, it shall first notify the petroleum undertaking, operator or owner concerned in writing of its intention to serve the improvement notice and the petroleum undertaking, operator or owner concerned may, within 21 days of such notification, make representations to the Commission, which shall consider them.
+
+(5) Where the Commission, having considered any representations made to it under *subsection (4)*, serves an improvement notice, the petroleum undertaking, operator or owner aggrieved by such improvement notice may, within the period of 14 days beginning on the day on which the improvement notice is served on it, appeal to the Court against the notice and in determining the appeal the Court may—
+
+(*a*) if it is satisfied that in the circumstances of the case it is reasonable to do so, confirm the notice with or without modification, or
+
+(*b*) cancel the notice.
+
+(6) In considering an appeal against an improvement notice, the Court shall take into account the general duties of petroleum undertakings, operators or owners under section 13K.
+
+(7) Where an appeal against an improvement notice is taken, the notice shall, unless cancelled by the Court, take effect on the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(8) Where no appeal is taken against an improvement notice, the notice shall take effect on the expiration of the period during which such an appeal may be taken or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(9) The Commission may withdraw an improvement notice at any time before the date specified in it under *subsection (2) (*d*)* and the Commission may extend or further extend that date at any time when an appeal against the notice is not pending.
+
+(10) A person who fails to comply with an improvement notice served on him or her commits an offence and is liable—
+
+(*a*) on summary conviction to a class A fine, or
+
+(*b*) on conviction on indictment to a fine not exceeding €3,000,000.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F311: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 19, S.I. No. 109 of 2016. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E73: Previous affecting provision: section inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013; substituted as per F-note above.
+
+### 13AA. Prohibition notice.
+
+F312[**13AA.**—F313[(1) Where the Commission is of the opinion that an activity being or likely to be, carried on by, under the control of or on behalf of a petroleum undertaking, an operator or an owner involves a substantial risk to safety, the Commission may serve a notice (in this Part referred to as a “prohibition notice”) on that petroleum undertaking, operator or owner.]
+
+(2) A prohibition notice shall—
+
+(*a*) state that the Commission is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reasons for that opinion,
+
+(*c*) specify the activity, or the infrastructure, in respect of which that opinion is held,
+
+(*d*) where, in the opinion of the Commission, the matter involves a contravention, or is likely to involve a contravention, of the requirements of this Part, specify the provision or provisions concerned and the reasons for that opinion,
+
+(*e*) prohibit the carrying on of the activity concerned until the matters which give rise or are likely to give rise to the risk are remedied, and
+
+(*f*) contain details of the consequences under this section of a failure to comply with the notice.
+
+(3) A prohibition notice may include directions—
+
+(*a*) as to the measures to be taken to remedy any contravention or matter to which the notice relates or to otherwise comply with the notice, and
+
+(*b*) to bring the notice to the attention of any person affected by it, or to the attention of the public generally.
+
+(4) A prohibition notice shall take effect—
+
+(*a*) if the notice so declares, immediately the notice is received by the petroleum undertaking or the person on whom it is served,
+
+(*b*) if no appeal is taken against the notice, on the expiration of the period during which such an appeal may be taken or on the day specified in the notice as that on which it is to come into effect, whichever is the later, or
+
+(*c*) in case an appeal is taken (unless the notice is cancelled by the Court) on the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn or on the day specified in the notice as that on which it is to come into effect, whichever is the later.
+
+(5) The bringing of an appeal against a prohibition notice which is to take effect in accordance with *subsection (4)(*a*)* shall not have the effect of suspending the operation of the notice provided that—
+
+(*a*) the appellant may apply to the Court to have the operation of the notice suspended until the appeal is disposed of, and
+
+(*b*) on such application, the Court may, if it thinks proper to do so, direct that the operation of the notice be suspended until the appeal is disposed of.
+
+(6) (*a*) A petroleum undertaking F314[or an operator or an owner] which is aggrieved by a prohibition notice may, within the period of 7 days beginning on the day on which the notice is served on it, appeal to the Court against the notice and in determining the appeal the Court may—
+
+(i) if it is satisfied that in the circumstances of the case it is reasonable to do so, confirm the notice with or without modification; or
+
+(ii) cancel the notice.
+
+(*b*) Where on the hearing of an appeal under this section a prohibition notice is confirmed, notwithstanding *subsection (4)*, the Court by which the appeal is heard may, on the application of the appellant, suspend the operation of the notice for such period as in the circumstances of the case the Court considers appropriate.
+
+F315[(7) In considering an appeal against a prohibition notice, the Court shall take into account the general duties of petroleum undertakings, operators, owners and others.]
+
+(8) The Commission may at any time withdraw a prohibition notice.
+
+F316[(9) A person who fails to comply with a prohibition notice commits an offence and is liable—
+
+(*a*) on summary conviction to a class A fine, or
+
+(*b*) on conviction on indictment to a fine not exceeding €3,000,000.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F312: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F313: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*e*)(i), S.I. No. 109 of 2016.
+>
+> F314: Inserted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*e*)(ii), S.I. No. 109 of 2016.
+>
+> F315: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*e*)(iii), S.I. No. 109 of 2016.
+>
+> F316: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*e*)(iv), S.I. No. 109 of 2016. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 13AB. Circumstances in which application may be made to Court for immediate suspension of petroleum activities.
+
+F317[**13AB.**—(1) Where the Commission considers that the risk to the safety of—
+
+(*a*) human life,
+
+(*b*) petroleum infrastructure, or
+
+(*c*) property not in the ownership of F318[the petroleum undertaking, operator or owner concerned],
+
+is so serious that any of the petroleum activities of F319[a petroleum undertaking, an operator or owner] should be restricted or should be immediately prohibited until specified measures have been taken to reduce the risk to a level which is as low as is reasonably practicable, the Commission may apply, *ex parte*, to the Court for an order restricting or prohibiting the activities concerned.
+
+(2) The Court may make such interim or interlocutory order as it considers appropriate, and the Court in considering whether to make the order shall consider whether the elimination or necessary reduction of the risk concerned could be achieved by the issue of an emergency direction or a prohibition notice.
+
+(3) Any such order shall have effect notwithstanding the terms of any permission given under this Act or any other enactment for the carrying on of the activity concerned or, where the order refers to another person, the carrying out of an activity by such person.
+
+(4) On any application for the revocation or variation of an order made under *subsection (1)*, the Commission shall be entitled to appear, be heard and adduce evidence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F317: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F318: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*f*)(i), S.I. No. 109 of 2016.
+>
+> F319: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 21(*f*)(ii), S.I. No. 109 of 2016.
+
+### 13AC. Access to safety case information.
+
+F320[F321[**13AC.**—(1) An operator who has an accepted safety case to which a safety permit relates shall make available a copy of the accepted safety case to any member of the public who requests it.
+
+(2) Notwithstanding *subsection (1)*, the obligation to make available a copy of an accepted safety case does not extend to releasing any content of an accepted safety case that relates to matters of industrial, commercial or personal confidentiality, public security or defence of the State.
+
+(3) Where an operator proposes to omit any content of an accepted safety case which relates to the matters referred to in *subsection (2)*, he or she shall obtain the prior written consent of the Commission.
+
+(4) (*a*) An operator who makes available a copy of an accepted safety case is entitled to charge the person who requests it a fee in respect of the making available of that copy, provided that the amount charged by the undertaking does not exceed an amount which is reasonable having regard to the cost of making it available.
+
+(*b*) For the purposes of *paragraph (*a*)*, the Commission may give an operator such direction as it considers appropriate in relation to what is a reasonable fee.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F320: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2013* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+>
+> F321: Substituted (29.02.2016) by *Petroleum (Exploration and Extraction) Safety Act 2015* (26/2015), s. 20, S.I. No. 109 of 2016.
+
+### 13AD. Contraventions in the licensed area.
+
+F322[**13AD.**—A contravention of any provision of this Part (including a failure to comply with the conditions of a safety permit) which occurs in any part of—
+
+(*a*) the licensed area to which *subparagraphs (i)* or *(ii)*, or both, of *paragraph* (*a*) of the definition of “licensed area” relates, or
+
+(*b*) a designated area,
+
+shall be treated as having occurred in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F322: Inserted (18.12.2013) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 3(*d*), S.I. No. 500 of 2013.
+
+## PART IIILicences and Authorisations — PART III — Licences and Authorisations
+
+### 14. Licences to generate and supply electricity.
+
+F323[**14.**—(1) The Commission may grant or refuse to grant to F324[any person who is an electricity undertaking or who intends to carry out a function of an electricity undertaking] a licence—
+
+(*a*) to generate electricity,
+
+(*b*) to supply electricity to eligible customers,
+
+(*c*) F325[...]
+
+(*d*) F325[...]
+
+(*e*) to discharge the functions of the transmission system operator,
+
+(*f*) to discharge the functions of the transmission system owner,
+
+(*g*) to discharge the functions of the F326[distribution system operator,]
+
+(*h*) to discharge the functions of the F327[public electricity supplier, or]
+
+F328[(*i*) to transport electricity across and F329[maintain an interconnector,]]
+
+F330[(*j*) to act as the Single Electricity Market operator,]
+
+F331[(*k*) to discharge the functions of Distribution System F332[Owner,]]
+
+F333[*(*l*)* to carry out the function of aggregation,
+
+(*m*) to carry out the function of demand response, and
+
+(*n*) to carry out the function of energy storage,]
+
+F334[(*o*) to discharge the functions of an electricity undertaking engaged in purchasing electricity, not for own use]
+
+and where the Commission grants such a licence, that licence shall be subject to such terms and conditions as may be specified in the licence.]
+
+F335[(1A) The Commission may by order provide that a person generating electricity by means of a specified class or classes of generating station shall stand licensed to generate electricity subject to such terms and conditions as may be specified in such order.
+
+(1B) The Commission may by order amend or revoke an order made under *subsection (1A)* of this subsection.
+
+(1C) The Commission shall not make an order under *subsection (1A)* or *(1B)* unless a notice of intention to make such an order is published in at least one newspaper circulating in the State at least one month before the making of the order.
+
+(1D) The draft order shall be published by the Commission in such manner as it shall determine, so as to bring it to the attention of those likely to be affected by it and the notice of intention published under *subsection (1C)* shall state the manner in which a copy of the draft order may be obtained.]
+
+(2) The Commission may grant to the Board a licence to supply electricity to eligible customers, subject to terms and conditions as may be specified in the licence.
+
+F336[(2A) A licence under *paragraph* (*e*) of *subsection (1)* shall only be granted to EirGrid.
+
+F353[(2AA) A licence under *paragraph (*e*)* of *subsection (1)* shall provide for the ownership, by the transmission system operator concerned, of transmission assets for the following purposes:
+
+(*a*) the development or proposed development of a transmission system which is offshore;
+
+(*b*) the extension or proposed extension of an existing transmission system to a transmission system referred to in *paragraph (*a*)*;
+
+(*c*) facilities that are not offshore but that relate, or will relate, to connecting a transmission system (or part thereof) referred to in *paragraph (*a*)* to an existing transmission system;
+
+(*d*) any transmission assets as may be determined by the Commission as assets of the transmission system operator.]
+
+(2B) A licence under *paragraph* (*f*) of *subsection (1)* shall only be granted to the Board or a subsidiary of the Board.
+
+(2C) A licence under *paragraph* (*g*) of *subsection (1)* shall only be granted to the Board or a subsidiary of the Board.
+
+(2D) A licence under *paragraph* (*h*) of *subsection (1)* shall only be granted to the Board.]
+
+F337[(2DA) A licence under paragraph (*k*), of *subsection (1)* shall—
+
+(*a*) only be granted to the Board, and
+
+(*b*) not take effect prior to the transfer date fixed under the European Communities (Internal Market in Electricity) (Electricity Supply Board) Regulations 2007.]
+
+F338[(2E) A licence under *subsection (1)* may include such terms and conditions relating to participation in and the operation of the Single Electricity Market as the Commission considers necessary or expedient.
+
+(2F) The Commission may grant an exemption from the requirement to hold a licence to act as the Single Electricity Market operator to a person who holds a licence to perform corresponding functions in Northern Ireland.]
+
+F339[(2G) A licence under *paragraphs* (*b*), (*c*) or (*d*) of *subsection (1)* may include conditions to ensure that where the holder of the licence is registered in another Member State, the holder of the licence shall comply with—
+
+(*a*) the conditions of the licence, and
+
+(*b*) the requirements of this Act.]
+
+F340[(2H) The holder of an electricity supply licence under *subsection (1)(*b*)* and *(1)(*h*)* shall maintain for not less than 5 years and make available on a request being made by the Commission, the Competition and Consumer Protection Commission or the European Commission all relevant data relating to all transactions in electricity supply contracts and electricity derivatives with wholesale customers and transmission system operators.
+
+(2I) The data referred to in *subsection (2H)* shall include details on the characteristics of relevant transactions such as duration, delivery and settlement rules, the quantity, the dates and times of execution and the transaction prices and means of identifying the wholesale customer concerned, as well as specified details of all unsettled electricity supply contracts and electricity derivatives.
+
+(2J) The Commission may decide to make available to market participants elements of this information provided that commercially sensitive information on individual market players or individual transactions is not released. This subsection shall not apply to information about financial instruments which fall within the scope of F341[Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014].
+
+(2K) F343[...]
+
+(2L) In the event that the authorities referred to in *subsection (2H)* require access to data kept by entities falling within the scope of F342[Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014], the authorities responsible under that Directive shall provide them with the required data.]
+
+F344[(2M) (*a*) The Commission may, in carrying out its function under *section 9(1F)*, in a licence under *subsection (1)(*b*)*, specify such standards of performance and quality in connection with the supply of electricity to final customers as the Commission determines ought to be achieved.
+
+(*b*) The holder of a licence referred to in *paragraph (*a*)* shall comply with such standards of performance as may be specified by the Commission in the licence concerned.]
+
+(3) Any licence granted under this section shall be deemed to contain a condition that it shall be subject to modification for the purposes of compliance with any enactment implementing, whether in whole or in part, Council Directive No. 96/92/EC of the European Parliament and of the Council of 19 December, 1996 concerning common rules for the internal market in electricity.
+
+(4) An application for a licence under this section shall be in writing and be in such form and contain such information as the Commission may request.
+
+(5) An application for a licence under this section shall be accompanied by such a fee, if any, as the Commission may determine to be appropriate, having regard to the application being made, and the Commission shall make information on such fees available on request.
+
+(6) A licence granted by the Commission shall be subject to—
+
+(*a*) modification in accordance with *section 19*, or
+
+(*b*) revocation by the Commission in accordance with this Act.
+
+(7) Where the Commission refuses to grant a licence to a person—
+
+(*a*) the person shall be notified, in writing, by the Commission of the reasons for the refusal,
+
+(*b*) within 28 days of the making of a refusal, the Commission shall notify, in writing, the Commission of the European Communities of the reasons for the refusal, and
+
+(*c*) the person may appeal the refusal in accordance with *section 29*.
+
+F345[(8)(*a*) The holder of a licence granted under *paragraph (*a*)* of *subsection (1)* may supply electricity to the holder of a licence granted under *paragraph (*b*), (*c*)* or *(*d*)* of that subsection or to the Board.
+
+(*b*) The holder of a licence under *paragraph (*a*)* of *subsection (1)* may supply an amount of electricity to its own premises or to its own subsidiary, or subsidiaries, whether or not eligible, which does not exceed the amount of electricity produced by the holder of the licence or electricity which is purchased, in place of such electricity, in accordance with the trading arrangements provided for in any Regulations made by the Commission under *section 9(1)(*d*)*.]
+
+(9) A licence granted under *paragraph (*b*)*, (*c*) or (*d*) of *subsection (1)* shall not authorise the supply of electricity to an eligible customer or final customer until after the 19th day of February, 2000.
+
+(10) F346[...]
+
+(11) The Commission shall monitor licensees to ensure that they continue to conform to all the conditions and requirements of their licences.
+
+(12) The Board shall be obliged to supply electricity to the holder of a licence under *subsection (1)* in accordance with the trading arrangements provided for in regulations to be made by the Commission under *section 9(1) (*d*)*.
+
+F347[(13) (*a*) Subject to such arrangements as the Commission may approve in the interest of economic efficiency in relation to the discharge by the holders of licences of their functions under *paragraphs (*f*)* and *(*g*)* of F348[*subsection (1)*], the Commission shall ensure that the licence granted pursuant to the said *paragraph (*f*)* shall contain provisions which—
+
+(i) secure the complete and effective separation of that part of the business of the licensee as relates to any of the ownership, maintenance and construction of the transmission system (or any part thereof) from all other parts of its business, and
+
+(ii) require the preparation of separate accounts in respect of that part of the licensee’s business which relates to the ownership, maintenance and construction of the transmission system (or any part thereof).
+
+(*b*) Subject to such arrangements as the Commission may approve in the interest of economic efficiency in relation to the discharge by the holders of licences of their functions under *paragraphs (*f*)* and *(*g*)* of F349[*subsection (1)*], the Commission shall ensure that the licence granted pursuant to the said *paragraph (*g*)* shall contain provisions which—
+
+(i) secure the complete and effective separation of that part of the business of the licensee as relates to any of the operation, maintenance and development of the distribution system (or any part thereof) from all other parts of its business, and
+
+(ii) require the preparation of separate accounts in respect of that part of the licensee’s business which relates to the operation, maintenance and development of the distribution system (or any part thereof).]
+
+F350[(14) The Commission shall grant a licence to generate electricity pursuant to *subsection (1)(*a*)* to the Board in respect of existing generating stations which are not already licensed under this Act as soon as practicable after the coming into operation of this subsection.]
+
+F351[(15) For the purposes of this section a person acts as Single Electricity Market operator if the responsibilities of that person include responsibility, pursuant to the Trading and Settlement Code under the Single Electricity Market, for calculating charges and other payments due under that code.]
+
+F352[(16) For the purposes of this section, "any person" means an electricity undertaking.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F323: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 16(*a*).
+>
+> F324: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(2)(*a*), in operation as per reg. 1(2).
+>
+> F325: Repealed (28.03.2011) by *European Communities (Renewable Energy) Regulations 2011* (S.I. No 147 of 2011), reg. 12.
+>
+> F326: Substituted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(3)(*a*), S.I. No. 266 of 2007.
+>
+> F327: Substituted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(3)(*b*), S.I. No. 266 of 2007.
+>
+> F328: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(3)(*c*), S.I. No. 266 of 2007.
+>
+> F329: Substituted (1.01.2009) by *European Communities (Internal Market in Electricity) (Electricity Supply Board) Regulations 2008* (S.I. No. 280 of 2008), s. 22(*a*)(i), commenced on transfer date as per reg. 1(2) and notice in Iris Oifigiúil of 30 December 2008, No. 105 p. 1537.
+>
+> F330: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*a*)(iv), S.I. No. 287 of 2007.
+>
+> F331: Inserted (1.01.2009) by *European Communities (Internal Market in Electricity) (Electricity Supply Board) Regulations 2008* (S.I. No. 280 of 2008), s. 22(*a*)(iii), commenced on transfer date as per reg. 1(2) and notice in Iris Oifigiúil of 30 December 2008, No. 105 p. 1537.
+>
+> F332: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(2)(*b*), in operation as per reg. 1(2).
+>
+> F333: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(2)(*c*), in operation as per reg. 1(2).
+>
+> F334: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 10(1)(*a*), in operation as per reg. 1(2).
+>
+> F335: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 16(*b*).
+>
+> F336: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 16(*c*).
+>
+> F337: Inserted (1.01.2009) by *European Communities (Internal Market in Electricity) (Electricity Supply Board) Regulations 2008* (S.I. No. 280 of 2008), s. 22(*b*), commenced on transfer date as per reg. 1(2) and notice in Iris Oifigiúil of 30 December 2008, No. 105 p. 1537.
+>
+> F338: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*b*), S.I. No. 287 of 2007.
+>
+> F339: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(5).
+>
+> F340: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(3).
+>
+> F341, F342: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(3)(*a*), in operation as per reg. 1(2).
+>
+> F343: Deleted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 10(3)(*b*), in operation as per reg. 1(2).
+>
+> F344: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 15, S.I. No. 171 of 2017.
+>
+> F345: Substituted (20.12.2000) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 32, in operation as per reg. 1(2)(*a*).
+>
+> F346: Repealed (17.04.2001) by *Electricity (Supply) (Amendment) Act 2001* (9/2001), s. 9(*a*)(iii), commenced on enactment.
+>
+> F347: Inserted (20.12.2000) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I.No. 445 of 2000), reg. 32(1)(*c*), in operation as per reg. 1(2)(*a*).
+>
+> F348: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005) reg. 16(*d*)(i).
+>
+> F349: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 16(*d*)(ii).
+>
+> F350: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 16(*e*).
+>
+> F351: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*c*), S.I. No. 287 of 2007.
+>
+> F352: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2022), reg. 10(*b*), in operation as per reg. 1(2).
+>
+> F353: Inserted (31.07.2022) by *Maritime Area Planning Act 2021* (50/2021), s. 189, S.I. No. 394 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C17: Term licence construed (10.04.2002) by Gas (Interim) (Regulation) Act 2002 (10/2002), s. 16(17)(*a*), commenced on enactment.
+>
+> **Natural Gas Licence**
+>
+> **17.** (*a*) in sections 14(7), 29, 30 and 32 of the Act of 1999 to a licence shall be construed as including a reference to a natural gas licence and an order made under section 2 (1) of the Gas (Amendment) Act, 1987,
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E74: Power pursuant to subs. (1A) exercised (7.09.2022) by *Electricity Regulation Act 1999 (Section14(1A)) Order 2022* (S.I. No. 460 of 2022), in operation as per art. 2.
+>
+> E75: Licences issued under subs. (1)(*c*) and (*d*) deemed to be licences granted by CER under subs. (1)(*b*) (23.10.2014) by *European Union (Renewable Energy) Regulations 2014* (S.I. No. 483 of 2014), reg. 12.
+>
+> E76: Provision made for transfer of licence under section (18.07.2008) by *European Communities (Internal Market in Electricity) (Electricity Supply Board) Regulations 2008* (S.I. No. 208 of 2008), in effect on signature and as per reg. 1(3).
+>
+> E77: Obligations of licence holders under subs. (1) prescribed (3.07.2007) by *Electricity Regulation Act 1999 (Single Electricity Market) Regulations 2007* (S.I. No. 406 of 2007), regs. 3, 5(1).
+>
+> E78: Limited exemption for a licence holder under subs. (1)(*a*) prescribed (3.07.2007) by *Electricity Regulation Act 1999 (Single Electricity Market) Regulations 2007* (S.I. No. 406 of 2007), reg. 5(3).
+>
+> E79: Licences under subs. (1)(*h*) are subject to conditions prescribed (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 17(1).
+>
+> E80: Issue of licences under subs. (1)(*e*)-(*g*) prior to 1.07.2006 (date specified by Commission in Decision CER/06/123 Part 1.4) restricted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 5(1) and reg. 32(2), (as para. (2) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 36(11)), in operation as per reg. 3 and notice of Minister in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> E81: Previous affecting provision: power pursuant to subs. (1A) exercised (25.09.2008) by *Electricity Regulation Act 1999 (Section 14(1A) Order 2008* (S.I. No. 384 of 2008), in operation as per reg. 2; revoked (7.09.2022) by *Electricity Regulation Act 1999 (Section14(1A)) Order 2022* (S.I. No. 460 of 2022), art. 3, in operation as per art. 2.
+>
+> E82: Previous affecting provision: subs. (1)(i) amended (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*a*) (iii), S.I. No. 287 of 2007; substituted as per F-note above.
+>
+> E83: Previous affecting provision: subs. (1)(*c*) amended (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*a*)(i), S.I. No. 287 of 2007; repealed as per F-note above.
+>
+> E84: Previous affecting provision: subs. (1)(*d*) amended (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 12(*a*)(ii), S.I. No. 287 of 2007; repealed as per F-note above.
+>
+> E85: Previous affecting provision: subs. (1)(*d*) amended (29.07.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 6(*c*), S.I. No. 298 of 2009 (as amended (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 20, S.I. No. 287 of 2007); repealed as per F-note above.
+>
+> E86: Previous affecting provision: subs. (1)(*c*), (*d*) substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 5, commenced on enactment; repealed as per F-note above.
+>
+> E87: Previous affecting provision: subs. (1)(*c*) amended (17.04.2001) by *Electricity (Supply) (Amendment) Act 2001* (9/2001), s. 9(*a*)(i), commenced on enactment; repealed as per F-note above.
+>
+> E88: Previous affecting provision: subs. (1)(*d*) substituted (17.04.2001) by *Electricity (Supply) (Amendment) Act 2001* (9/2001), s. 9(*a*)(ii), commenced on enactment; repealed per F-note above.
+>
+> E89: Previous affecting provision: subs. (1)(*c*) amended (20.12.2000) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 32(1)(*a*), commenced as per reg. 1(2)(*a*); repealed as per F-note above.
+
+### 14A. Transitional power to modify licence conditions concerning Single Electricity Market, etc.
+
+F354[**14A.**—(1) The Commission may, in accordance with this section, modify the conditions of a particular licence where the Commission considers it necessary or expedient to do so—
+
+(*a*) for the purpose of implementing, or facilitating the operation of, the Single Electricity Market, or
+
+(*b*) in consequence of, or for giving full effect to, those arrangements.
+
+(2) The power to modify licence conditions under this section includes the power—
+
+(*a*) to make modifications relating to the operation of the transmission system or the distribution system, and
+
+(*b*) to make incidental, consequential or transitional modifications.
+
+(3) Conditions included in a licence by virtue of the power conferred by this section—
+
+(*a*) need not relate to the activity authorised by the licence,
+
+(*b*) may require the holder of a licence under *section 14(1)*(*e*) to carry out the responsibilities referred to in *section 14(15)* and to apply for or cause an affiliated company or a subsidiary company to apply for a licence under *section 14(1)*(*j*) in such form as may be approved by the Commission,
+
+(*c*) may do any of the things authorised by *section 14*,
+
+(*d*) may require the holder of a licence to enter into such new contracts or other arrangements, or new contracts or other arrangements for such purposes or of such description, as may be specified in or determined by or under the conditions,
+
+(*e*) may include provision for determining the terms on which such new contracts or other arrangements are to be entered into, including terms for the contract or arrangement to be governed by a law other than the law of the State,
+
+(*f*) may require the licence holder to amend or terminate, or agree to the amendment or termination of, such existing contracts or other arrangements, or existing contracts or other arrangements of such description, as may be specified in or determined by or under the conditions.
+
+(4) Before making modifications under this section, the Commission shall consult—
+
+(*a*) the holder of any licence being modified, and
+
+(*b*) such other persons as the Commission considers appropriate.
+
+(5) *Subsection (4)* may be satisfied by consultation before, or after or both, the coming into operation of this section.
+
+(6) Notwithstanding *section 8A(4)*, consultation referred to in *subsections (4)* and *(5)* may, subject to *subsection (8)*, be performed by the Commission otherwise than in accordance with *section 8A(4)* where such consultation is performed jointly with the Authority.
+
+(7) Notwithstanding *section 8A*, modifications under this section may, subject to *subsection (8)*, be made by the Commission otherwise than in accordance with *section 8A(4)*, but in such event it shall consult the Authority before making any such modification.
+
+(8) *Subsections (6)* and *(7)* shall cease to have effect where the SEM Committee referred to in *section 8A* has been appointed in accordance with *Schedule 1A*, but without prejudice to any things done or steps taken prior to those subsections ceasing to have effect.
+
+(9) The Commission shall publish any modifications under this section in such manner as it considers appropriate.
+
+(10) The power of the Commission to modify a licence under this section may not be exercised after the end of the period of 2 years beginning with the day on which this section comes into operation.
+
+(11) Subject to *subsection (12)*, nothing in this section prejudices the generality of any other power to modify a licence, and nothing in *subsection (2)* or *(3)* prejudices the generality of *subsection (1)*.
+
+(12) Where a licence is modified under this section, *sections 19* to *22* and *sections 29* to *31* shall not apply in relation to any such modification.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F354: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 13, S.I. No. 287 of 2007.
+
+### 14B. Supplementary power to modify licence conditions
+
+F355[**14B.**—F29[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F355: Inserted by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019* (8/2019), s. 9, not commenced.
+>
+> F29: Repealed (17.12.2020) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020*, s. 4(*a*), S.I. No. 634 of 2020.
+>
+> **Editorial Notes:**
+>
+> E90: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 15. Permits under section 37 of Principal Act.
+
+**15.**—(1) A person who has been granted a permit under *section 37* of the Principal Act on or after the 1st day of September, 1998, shall apply for a licence or an authorisation within 3 months of the coming into operation of this section or such other period as may be agreed by the Commission.
+
+(2) An application to the Board for a permit under *section 37* of the Principal Act which has not been the subject of a decision by the Board before the commencement of this section shall be deemed to be an application for a licence under *section 14* and an authorisation under *section 17* and shall be dealt with accordingly.
+
+(3) A permit granted under *section 37* of the Principal Act on or after the 1st day of September, 1998, shall expire 12 months after the commencement of this section or on the granting on an earlier date of a licence or authorisation by the Commission.
+
+(4) A permit granted under *section 37* of the Principal Act before the 1st day of September, 1998, shall, subject to the provisions of this Act, continue in full force and effect.
+
+(5) The power of modification or revocation of a permit referred to in *subsection (3)* or *(4)* shall be exercisable by the Commission and not by the Board, and any powers conferred on the Board by such a permit shall be exercisable by the Commission and not by the Board.
+
+### 16. Authorisations to construct or reconstruct a generating station.
+
+**16.**—F356[(1) A person shall not—
+
+(*a*) construct or reconstruct a generating station for the purpose of supply to final customers, or
+
+(*b*) construct an interconnector,
+
+unless an appropriate authorisation has been granted to the person by the Commission.]
+
+(2) Notwithstanding the Electricity (Supply) Acts, 1927 to 1995, the Board may not construct or reconstruct a generating station unless an authorisation has been granted to it by the Commission.
+
+F357[(3) Subject to *section 17*, the Commission may grant or may refuse to grant to any person an authorisation—
+
+(*a*) to construct or reconstruct a generating station, or,
+
+(*b*) to construct an interconnector,
+
+and where the Commission grants such an authorisation, that authorisation shall be subject to such terms and conditions as may be specified in the authorisation, including, as respects a generating station, the generating capacity of such station.]
+
+F358[(3A) The Commission may by order provide for—
+
+(*a*) the authorisation of persons in relation to the construction or reconstruction of a class or classes of generating station, subject to such terms and conditions, including conditions relating to generating capacity and notification to the Commission, as may be specified in the order, and
+
+(*b*) such ancillary matters, including application procedures or the dispensing with such procedures, as may be specified in the order.
+
+(3B) The Commission may by order amend or revoke an order made under *subsection (3A)* of this section.
+
+(3C) The Commission shall not make an order under *subsections (3A)* or *(3B)* unless a notice of intention to make such an order is published in at least one newspaper circulating in the State at least one month before the making of the order.
+
+(3D) the draft order shall be published by the Commission in such manner as it shall determine, so as to bring it to the attention of those likely to be affected by it, and the notice of intention published under *subsection (3C)* shall state the manner in which a copy of the draft order may be obtained.]
+
+(4) A person who contravenes *subsection (1)* shall be liable on conviction on indictment to a fine not exceeding £100,000.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F356: Substituted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(4)(*a*), S.I. No. 266 of 2007.
+>
+> F357: Substituted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(4)(*b*), S.I. No. 266 of 2007.
+>
+> F358: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 13(*b*).
+>
+> **Editorial Notes:**
+>
+> E91: Power pursuant to subs. (3A) exercised (7.09.2022) by *Electricity Regulation Act 1999 (Section16(3A)) Order 2022* (S.I. No. 459 of 2022), in operation as per art. 2.
+>
+> E92: Previous affecting provision: power pursuant to subs. (3A) exercised (25.09.2008) by *Electricity Regulation Act 1999 (Section 16(3A)) Order 2008* (S.I. No. 383 of 2008); revoked (7.09.2022) by *Electricity Regulation Act 1999 (Section16(3A)) Order 2022* (S.I. No. 459 of 2022), art. 3, in operation as per art. 2.
+>
+> E93: Previous affecting provision: subs. (1) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 13(*a*); substituted as per F-note above.
+
+### 16A. Construction of an interconnector.
+
+F359[**16A.**— The Commission may, with the consent of the Minister F360[, who shall take into account the electricity interconnection targets set out in point (1) of Article 4(*d*) of Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action[^18] ], secure the construction of an interconnector or interconnectors by one or more of the following means:
+
+(*a*) a competitive tender;
+
+(*b*) an authorisation granted to a person without a prior competitive tender where the person demonstrates, to the satisfaction of the Commission, that the granting of an authorisation, subject to such conditions as the Commission deems necessary and appropriate, is in the long term interests of final customers; or
+
+(*c*) requesting the transmission system operator to provide for the construction of an interconnector in its development plan.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F359: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(5), S.I. No. 266 of 2007.
+>
+> F360: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 5(3), in operation as per reg. 1(2).
+
+### 17. Application for authorisation.
+
+**17.**—(1) An application for an authorisation under *section 16* shall be in writing F361[unless that it is not required by virtue of an order made under *section 16(3A)* or *(3B)*,] and be in such form and contain such information as the Commission may reasonably request.
+
+F362[(1A) The Commission shall publish the authorisation procedures as determined by it in such manner as it shall determine so as to bring it to the attention of those likely to be affected by it.]
+
+(2) An application for an authorisation shall be accompanied by such a fee, if any, as the Commission may determine.
+
+F363[(2A) The Commission shall determine an application in accordance with the criteria specified in an order made under *section 18*.
+
+(2B) The Commission shall ensure that authorisation procedures for small generators and distributed generation take into account their limited size and potential impact.
+
+(2C) An authorisation granted by the Commission under this section, shall be in writing and, unless previously revoked in accordance with any term contained in the authorisation, shall continue in force for such period as may be specified in or determined by or under the authorisation.
+
+(2D) *Subsection (2C)* shall not apply to an authorisation provided for in an order made under *section 16(3A)* or *(3B)*.]
+
+(3) An authorisation granted by the Commission shall be subject to—
+
+(*a*) modification in accordance with *section 19*, or
+
+(*b*) revocation by the Commission in accordance with this Act.
+
+F364[(3A) A person who is granted an authorisation other than pursuant to an order made under *section 16(3A)* or *(3B)*, may appeal the terms and conditions of that authorisation under *section 29*.
+
+(3B) Where the Commission modifies an authorisation or the terms and conditions of an authorisation the holder of the authorisation may appeal the modification in accordance with *section 29*.]
+
+F365[(4) Where the Commission refuses to grant an authorisation—
+
+(*a*) the reasons for such refusal shall be objective, non-discriminatory, well founded and duly substantiated,
+
+(*b*) the applicant for the authorisation shall be notified, in writing, by the Commission of the reasons for the refusal, and
+
+(*c*) the applicant may appeal the refusal in accordance with *section 29*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F361: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 14(*a*), subject to transitional provision in reg. 40.
+>
+> F362: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 14(*b*), subject to transitional provision in reg. 40.
+>
+> F363: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 14(*c*), subject to transitional provision in reg. 40.
+>
+> F364: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 14(*d*), subject to transitional provision in reg. 40.
+>
+> F365: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* ( S.I. No. 60 of 2005), reg. 14(*e*), subject to transitional provision in reg. 40.
+>
+> **Modifications (not altering text):**
+>
+> C18: Term “authorisation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(17)(*b*), commenced on enactment.
+>
+> **Natural gas licences**
+>
+> **17.** ...
+>
+> (*b*) in sections 17(4), 29, 30 and 32 of the Act of 1999 to an authorisation shall be construed as including a reference to a consent of a type mentioned in section 8(7), 39A(1) or 40(1) of the Gas Act, 1976, other than a consent in regard to an upstream pipeline.
+
+### 18. Orders specifying criteria for considering applications for authorisations.
+
+**18.**—(1) The Minister shall specify by order the criteria in accordance with which an application for an authorisation F366[to construct or reconstruct a generating station] may be determined by the Commission.
+
+F367[(2) The criteria specified by the Minister under *subsection (1)*, in relation to an authorisation to construct or reconstruct a generating station, may relate to—
+
+(*a*) the safety and security of the electricity system, electric plant and domestic lines,
+
+(*b*) protection of public health and safety,
+
+(*c*) the protection of the environment including the limitation of emissions to the atmosphere, water or land,
+
+(*d*) the siting of a generating station and associated land use,
+
+(*e*) use of public ground,
+
+(*f*) the efficient production and use of energy,
+
+(*g*) the nature of the primary source of energy to be used by a generating station,
+
+(*h*) the qualifications of an applicant, including the technical, economical and financial qualifications of the applicant, F368[...]
+
+(*i*) public service obligations provided for in an order under F369[under section 39, and]]
+
+F370[F371[*(*j*)* the contribution of generating capacity to meeting the overall European Union target of at least a 32% share of energy from renewable sources in the Union’s gross final consumption of energy in 2030 referred to in Article 3(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council[^19] , and]
+
+(*k*) the contribution of generating capacity to reducing emissions.]
+
+(3) The Minister may by order amend or revoke an order under this section including an order made under this subsection.
+
+(4) An order under *subsection (3)* shall not be made unless a notice of intention to make such an order is published in a daily newspaper published and circulating in the State at least one month before the making of the order.
+
+F372[(5) The draft order shall be published by the Minister, in such manner as he shall determine, so as to bring it to the attention of those likely to be affected by it, and the notice of intention published under *subsection (4)* shall state the manner in which a copy of the draft order may be obtained.]
+
+(6) An order under this section shall not provide for the use of nuclear fission for the generation of electricity.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F366: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(6), S.I. No. 266 of 2007.
+>
+> F367: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 15(*a*), subject to transitional provision in reg. 40.
+>
+> F368: Deleted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(6)(*a*).
+>
+> F369: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(6)(*b*).
+>
+> F370: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(6)(*c*).
+>
+> F371: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 10, in operation as per reg. 1(2).
+>
+> F372: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 15(*b*), subject to transitional provision in reg. 40.
+>
+> **Editorial Notes:**
+>
+> E94: Power pursuant to subs. (1) exercised (5.10.1999) by *Electricity Regulation Act, 1999 (Criteria For Determination of Authorisations) Order 1999* (S.I. No. 309 of 1999).
+
+### 19. Modification of licence or authorisation.
+
+**19.**—(1) Where the holder of a licence or an authorisation so requests the Commission may modify the conditions or requirements of the licence or authorisation.
+
+(2) Where the Commission is of the opinion that a licence or an authorisation should be amended it may do so with or without the consent of the holder of the licence or the authorisation, as the case may be.
+
+(3) Where the Commission is of the opinion that a modification of a condition or requirement of a licence or an authorisation is a modification of a class required by an order of the Minister made under *section 39* or *40* the Commission may modify the conditions or requirements of the licence or authorisation concerned without the consent of the holder of that licence or authorisation, as the case may be.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C19: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C20: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+
+### 20. Procedures to be followed before modifying licences or authorisations.
+
+**20.**—(1) *Subsections (2) to (6)* shall apply to all modifications of a licence or an authorisation other than a modification made to give effect to an order under *section 39* or *40*.
+
+(2) Before modifying a licence or an authorisation the Commission shall issue a notice—
+
+(*a*) stating that it proposes to make such modification,
+
+(*b*) stating the nature of such modification and the reasons therefor, and
+
+(*c*) specifying the period (being not less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modification may be made.
+
+(3) The Commission shall consider any representations or objections which are made under *subsection (2)* and not withdrawn.
+
+(4) A notice under *subsection (2)* shall be given—
+
+(*a*) by publishing the notice in a newspaper circulating in the State F373[in the State, and (where the proposed modification relates to the Single Electricity Market) in Northern Ireland, and]
+
+(*b*) by serving a copy of the notice on the holder of the licence or authorisation.
+
+(5) The Commission shall send a copy of a notice issued under *subsection (2)* to the Minister who shall arrange, without undue delay, to provide a copy of the notice to the Oireachtas library.
+
+(6) Where, within the period specified in *subsection (2) (*c*)*, no objections or representations are made or such objections or representations as are made in that period are subsequently withdrawn, the modification of the licence or authorisation concerned shall have effect accordingly.
+
+(7) Where objections or representations made within the period specified in *subsection (2) (*c*)* are not withdrawn—
+
+(*a*) the Commission may either accept or reject such objections or representations, in whole or in part, and the modification shall have effect accordingly, or
+
+(*b*) where it is satisfied that sufficient grounds exist to warrant a public hearing, the Commission may cause such a public hearing to be held.
+
+(8) Where the Commission rejects any objections or representations made under this section without a public hearing being held, the reasons for the rejection and the refusal of a public hearing shall be notified to the persons who made those objections or representations and the proposed modification shall be effected in accordance with *section 22(3)*.
+
+F374[(9) Where a modification relates to the Single Electricity Market, the Commission shall have due regard in exercising its functions under this section and sections 21 to 23 to the desirability of similar modifications (including similar modifications in Northern Ireland) having effect at the same time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F373: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(1)(*a*), S.I. No. 287 of 2007.
+>
+> F374: Inserted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(2), S.I. No. 287 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C21: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions and term “Single Electricity Market” construed (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), (*d*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C22: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+
+### 21. Public hearings of Commission.
+
+**21.**—(1) Where the Commission proposes to hold a public hearing under *section 20(7) (*b*)* it shall issue a notice stating—
+
+(*a*) the date (being not less than 28 days from the date of giving notice) on which it is intended to hold the hearing, and
+
+(*b*) the location at which it is intended to hold the hearing.
+
+(2) A notice referred to in *subsection (1)* shall be given—
+
+(*a*) by publishing the notice in a newspaper circulating in the State F375[in the State, and (where the proposed modification relates to the Single Electricity Market) in Northern Ireland, and]
+
+(*b*) by serving the notice on the holder of the licence or authorisation concerned and any persons by whom objections or representations were made in the period referred to in *section 20(2) (*c*)*.
+
+(3) All hearing of the Commission shall be open to members of the public and may be held before the Commission or any other person authorised by the Commission to hold such a hearing and references to the Commission in *subsection (4)* shall include references to any other person so authorised.
+
+(4) At a public hearing held for the purposes of this section—
+
+(*a*) those persons by whom objections or representations were made in the period referred to in *section 20(2) (*c*)* may be heard,
+
+(*b*) the Commission may assess the interest of any person who applies to be a party to the hearing and may admit or exclude them for stated reasons, and
+
+(*c*) the Commission may administer oaths, issue notices, issue subpoenas, compel the attendance of witnesses and the production of books, accounts, papers, records, documents and material and take and receive evidence.
+
+(5) The Commission may, following consultation with the Minister, make rules concerning the practice and procedures to be adopted at such public hearings.
+
+(6) A witness before a public hearing shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F375: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(1)(*b*), S.I. No. 287 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C23: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions and term “Single Electricity Market” construed (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), (*d*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C24: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+
+### 22. Determination by Commission following public hearing.
+
+**22.**—(1) The Commission shall, within a reasonable period from the date of completion of a public hearing, make a determination—
+
+(*a*) to modify a licence or an authorisation in accordance with the proposed modification set out in the notice issued under *section 20(2)(*b*)* or otherwise, or
+
+(*b*) not to make the modification concerned.
+
+(2) Notice of a determination made under *subsection (1)* shall be given to the holder of the licence or authorisation concerned and any parties to the hearing and the determination shall be made available by the Commission to any other person on request.
+
+(3) Subject to *subsection (4)*, the modification of a licence or authorisation shall be effected—
+
+(*a*) by serving notice of the modification on the holder of the licence or authorisation concerned, and
+
+(*b*) by publishing the notice in a newspaper circulating F376[in the State, and (where the proposed modification relates to the Single Electricity Market) in Northern Ireland, and]
+
+(4) A modification of a licence or authorisation shall take effect on the day which is 28 days after the day on which—
+
+(*a*) service of notice of modification on the holder of the licence or authorisation concerned is effected, or
+
+(*b*) notice of modification of the licence or authorisation concerned is published in a newspaper circulating in the State.
+
+whichever is the later, unless an appeal is made under *section 29(2)* in which case the modification shall not come into effect, unless confirmed under *section 30(7)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F376: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(1)(*c*), S.I. No. 287 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C25: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions and term “Single Electricity Market” construed (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), (*d*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C26: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+
+### 23. Directions by Commission to protect public health, etc.
+
+**23.**—(1) In this section and in *sections 24, 25* and *26* “condition or requirement” means any term or condition of a licence or an authorisation or any requirement imposed by or under this Act.
+
+(2) Where the Commission is satisfied that all or any of the circumstances set out in *subsection (3)* have arisen or are likely to arise it may direct the holder of the licence or authorisation concerned or the Board in respect of the transmission and distribution system to discontinue or to refrain from specified practices.
+
+(3) The circumstances referred to in *subsection (2)* are—
+
+(*a*) where the Commission is of the opinion that immediate action is necessary to protect—
+
+(i) public health or safety or the environment,
+
+(ii) the continuity of supplies of electricity,
+
+(iii) the interests of other holders of licences or authorisations;
+
+(*b*) where the Commission is of the opinion that the holder of a licence or an authorisation is contravening or is likely to contravene a condition or a requirement and immediate action is necessary to cease or prevent such contravention; or
+
+(*c*) where the Commission is of the opinion that immediate action is necessary to prevent dissipation of the assets of the holder of a licence or an authorisation.
+
+(4) Nothing in this section shall authorise the Commission to give directions relating to industrial disputes.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E95: Commission may revoke authorisation for failure to comply with direction under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 16(3A)) Order 2008* (S.I. No. 383 of 2008), art. 8(*b*), in operation as per art. 2.
+
+### 24. Issue of notice by Commission concerning contraventions, etc.
+
+**24.**—(1) Where the Commission is of the opinion that the holder of a licence or an authorisation F377[has contravened,] may be contravening or may be likely to contravene a condition or requirement, it may issue a notice under *subsection (2)* to the holder of the licence or authorisation.
+
+(2) The notice referred to in *subsection (1)* shall—
+
+(*a*) specify—
+
+(i) the condition or requirement which the Commission considers that the holder of the licence or authorisation F378[has contravened,] may be contravening or may be likely to contravene, or
+
+(ii) the acts or omissions which in the opinion of the Commission F378[constitute,] may constitute or would be likely to constitute contravention of the condition or requirement concerned,
+
+and
+
+(*b*) specify the period (being not less than 28 days from the date of the issuing of the notice) within which representations or objections may be made.
+
+(3) The Commission shall consider any representations or objections which are made under *subsection (2)* and not withdrawn.
+
+F379[(4) On consideration of any representations or objections, the Commission may give a direction to the holder of a licence or an authorisation—
+
+(*a*) to take such measures as are necessary to cease the contravention or to prevent a future contravention, and
+
+(*b*) where there has been a contravention, to undertake such remedial actions as are necessary to rectify the situation and to prevent a re-occurrence of the contravention concerned.]
+
+(5) As soon as practicable after giving a direction in accordance with *subsection (4)* or *section 23(2)* the Commission shall give notice of the direction in accordance with *subsection (10)*.
+
+(6) Subject to *subsection (7),* the Commission may revoke a direction given under this section.
+
+(7) Before revoking a direction the Commission shall give notice in accordance with *subsection (10)*—
+
+(*a*) stating that it proposes to revoke the direction and setting out the effect of the revocation, and
+
+(*b*) specifying the period (being not less than 28 days from the publication of the notice) within which representations or objections with respect to the proposed revocation may be made.
+
+(8) The Commission shall consider any representations or objections which are made under *subsection (7)* and not withdrawn.
+
+(9) If, after giving notice of a revocation made in accordance with *subsection (6)*, the Commission decides not to revoke the direction to which the notice refers, it shall give notice of its decision.
+
+(10) A notice under this section shall be given—
+
+(*a*) by publishing the notice in a newspaper circulating F380[in the State, and F381[(where the direction or revocation concerned relates to the Single Electricity Market)] in Northern Ireland, and]
+
+(*b*) by serving a copy of the notice and a copy of the direction or revocation, as the case may be, on the holder of the licence or authorisation to whom the notice, direction or revocation relates.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F377: Inserted (28.04.2016) by *Energy Act 2017* (12/2016), s. 16(*a*), S.I. No. 171 of 2017.
+>
+> F378: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 16(*b*), S.I. No. 171 of 2017
+>
+> F379: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 16(*c*), S.I. No. 171 of 2017.
+>
+> F380: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(1)(*d*), S.I. No. 287 of 2007.
+>
+> F381: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 16(*d*), S.I. No. 171 of 2017.
+>
+> **Editorial Notes:**
+>
+> E96: Commission may revoke approval for failure to comply with direction under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 14(1A)) Order 2008* (S.I. No. 384 of 2008), art. 7 and sch. condition 13(1)(*c*), in operation as per art. 2
+>
+> E97: Commission may revoke authorisation for failure to comply with direction under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 16(3A)) Order 2008* (S.I. No. 383 of 2008), art. 7 and sch. para. 8(*b*), in operation as per art. 2.
+
+### 25. Determination by Commission of specified breach.
+
+**25.**—(1) Where the Commission decides not to give a direction under *section 24(4)*, the Commission may make a determination that the holder of a licence or an authorisation has committed a specified breach of a condition or requirement.
+
+(2) As soon as practicable after making a determination under *subsection (1)* the Commission shall—
+
+(*a*) publish a notice of the determination in a newspaper circulating F382[in the State, and F383[(where the determination relates to the Single Electricity Market)] in Northern Ireland, and]
+
+(*b*) serve a copy of the notice and a copy of the determination on the holder of the licence or authorisation to whom the determination relates.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F382: Substituted (18.06.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 16(1)(*e*), S.I. No. 287 of 2007.
+>
+> F383: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 17, S.I. No. 171 of 2017.
+>
+> **Editorial Notes:**
+>
+> E98: Commission may revoke approval for failure to comply with determination under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 14(1A)) Order 2008* (S.I. No. 384 of 2008), art. 7 and condition 13(1)(*c*), in operation as per art. 2.
+>
+> E99: Commission may revoke authorisation for failure to comply with determination under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 16(3A)) Order 2008* (S.I. No. 383 of 2008), art. 7 and sch. para. 8(*b*), in operation as per art. 2.
+
+### 26. Compliance with direction or determination.
+
+**26.**—(1) In order to ensure compliance with a direction given under F384[*section 23(2)* or] *section 24*, the Commission may apply in a summary manner *ex parte* or on notice to the High Court for an order requiring the holder of a licence or an authorisation who, in the opinion of the Commission, is contravening or who is likely to contravene a condition or requirement to discontinue or to refrain from specified practices.
+
+(2) The High Court may make such order as it thinks fit and may confirm, revoke or vary a direction given by the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F384: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(3), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E100: Commission may revoke approval for failure to comply with order under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 14(1A)) Order 2008* (S.I. No. 384 of 2008), art. 7 and condition 13(1)(*c*), in operation as per art. 2.
+>
+> E101: Commission may revoke authorisation for failure to comply with order under section as provided (25.09.2008) by *Electricity Regulation Act 1999 (Section 16(3A)) Order 2008* (S.I. No. 383 of 2008), art. 7 and sch. para. 8(*b*), in operation as per art. 2.
+
+### 27. Eligible customers.
+
+**27.**—F385[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F385: Repealed (28.04.2017) by *Energy Act 2016* (12/2016), s. 3(*b*), S.I. No. 171 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E102: Previous affecting provision: power pursuant to subss. (3) and (5) exercised (with effect from 19.02.2004 and 19.02 2005) by *Electricity Regulation Act 1999 (Eligible Customer) (Consumption of Electricity) Order 2003* (S.I. No. 632 of 2003); section repealed as per F-note above.
+>
+> E103: Previous affecting provision: power pursuant to subs. (3) exercised (19.02.2002) by *Electricity Regulation Act 1999 (Eligible Customer) Order 2002* (S.I. No. 3 of 2002), in operation as per art. 1(*b*); superseded (with effect from 19.02.2004 and 19.02 2005) by *Electricity Regulation Act 1999 (Eligible Customer) (Consumption of Electricity) Order 2003* (S.I. No. 632 of 2003), art. 2.
+
+### 28. Purchase of electricity from combined heat and power.
+
+**28.**—F386[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F386: Deleted (17.04.2001) by *Electricity (Supply) (Amendment) Act 2001* (9/2001), s. 9(*b*), commenced on enactment.
+
+## PARTIIIARegistration of market participants that are not electricity undertakings — PART IIIA — Registration of market participants that are not electricity undertakings]
+
+F387[> **Annotations:**
+>
+> **Amendments:**
+>
+> F387: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28A. Interpretation (Part IIIA).
+
+F388[**28A.**— In this Part—
+
+"active customer" means a final customer, or a group of jointly acting final customers, who consumes or stores electricity generated within its premises located within confined boundaries or, where so provided for in rules made by the Commission in that regard under Regulation 10 of the Regulations of 2022, within other premises, or who sells self-generated electricity or participates in flexibility or energy efficiency schemes, provided that those activities do not constitute its primary commercial or professional activity;
+
+"electricity activity" means—
+
+(*a*) in relation to a relevant market participant other than a relevant market participant that is an active customer or a citizen energy community, an activity referred to in the definition of “market participant” in Article 2(25) of the 2019 Internal Electricity Market Regulation,
+
+(*b*) in relation to a relevant market participant that is an active customer, an activity referred to in the definition of “active customer” in Regulation 2(1) of the Regulations of 2022, and
+
+(*c*) in relation to a relevant market participant that is a citizen energy community, an activity referred to in *paragraph (*c*)* of the definition of “citizen energy community” in *section 2(1)*.
+
+"Register" means the register established and maintained under *section 28AB*;
+
+"registration" means a registration granted to a relevant market participant by the Commission under *section 28AE*;
+
+"Regulations of 2022" means the European Union (Renewable Energy) Regulations 2022 ( S.I. No. 76 of 2022);
+
+"relevant market participant" means a market participant that is not an electricity undertaking;
+
+"terms and conditions" means terms and conditions specified in a registration for the purpose of ensuring compliance by a relevant market participant with the obligations referred to in Article 59(1)(*b*) of the 2019 Internal Electricity Market Directive in so far as those obligations relate to the relevant market participant.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F388: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AB. Register of relevant market participants.
+
+F389[**28AB.**— (1) The Commission shall establish and maintain a register of relevant market participants registered under this Part which shall, in particular, include—
+
+(*a*) the name of the relevant market participant,
+
+(*b*) the names, addresses and contact numbers of relevant contact persons, including, in the case of a body corporate, the names, addresses and contact details of the directors of the company,
+
+(*c*) the address of the relevant market participant or in the case of a body corporate, its registered office,
+
+(*d*) the electricity activity that is the subject of the registration,
+
+(*e*) the date on which the relevant market participant will commence the electricity activity that is the subject of the registration.
+
+(2) The Register may be in book form, electronic form or such other form as the Commission may determine.
+
+(3) The holder of a registration to which an entry in the Register relates, shall as soon as practicable after the holder becomes aware of any error in the entry, or any change in circumstances that is likely to have a bearing on the accuracy of the entry, give notice in writing to the Commission of the error, or change in circumstances, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F389: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AC. Registration for purpose of engaging in electricity activity.
+
+F390[**28AC.**— (1) Subject to *subsection (2)*, a relevant market participant who wishes to engage in an electricity activity may not engage in the activity unless the relevant market participant has been registered under this Part in respect of that activity.
+
+(2) (*a*) The Commission may, by order, specify—
+
+(i) a class or classes of relevant market participant who are not required to be registered under this Part, or
+
+(ii) a class or classes of electricity activity the engaging in which by relevant market participants does not require the relevant market participants to be registered under this Part,
+
+or both.
+
+(*b*) In specifying a class or classes of relevant market participant for the purposes of *paragraph (*a*)(i)*, the Commission shall have regard to—
+
+(i) a the obligations of the class or classes of relevant market participant concerned were the class or classes concerned to be required to register, and
+
+(ii) the requirements of Regulations 3(2)(*a*) and 7(3)(*b*) of the Regulations of 2022.
+
+(*c*) In specifying a class or classes of electricity activity for the purposes of *paragraph (*a*)(ii)*, the Commission shall specify the class or classes by reference to the scale of the class or classes of electricity activities concerned.
+
+(*d*) The Commission may by order amend or revoke an order under this subsection.
+
+(*e*) The Commission shall not make an order under this subsection unless a notice of intention to make such an order is published on its website at least one month before the making of the order.
+
+(*f*) The draft order shall be published by the Commission in such manner as it shall determine, so as to bring it to the attention of those likely to be affected by it and the notice of intention published under *paragraph (*e*)* shall state the manner in which a copy of the draft order may be obtained.
+
+(3) An application to be registered shall be made in accordance with *section 28AD*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F390: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AD. F391[Application for registration.
+
+**28AD.**— (1) An application by a relevant market participant for registration under this Part shall—
+
+(*a*) be in writing,
+
+(*b*) specify—
+
+(i) the name of the relevant market participant proposing to engage in the electricity activity that is to be the subject of the registration, including, in the case of a body corporate, the company registration number,
+
+(ii) the names, addresses and contact numbers of relevant contact persons including, in the case of a body corporate, the names, addresses and contact details of the directors of the company,
+
+(iii) the address of the relevant market participant or in the case of a body corporate, the address of its registered office,
+
+(iv) the electricity activity that is to be the subject of the registration,
+
+(v) the date on which it is estimated that the relevant market participant will commence the electricity activity that is to be the subject of the registration,
+
+(*c*) be in such form, contain such other information and be accompanied by such documents, if any, as the Commission shall specify on its website in accordance with *subsection (3)*, and
+
+(*d*) be accompanied by such fee as the Commission may determine.
+
+(2) The Commission may request an applicant to provide it with such additional information and documents as the Commission may reasonably request for the purpose of the application and where such a request is made the applicant shall provide such information and documents to the Commission.
+
+(3) The Commission shall publish on its website the procedures for making an application under this section and any other requirements relating to the making of such an application.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F391: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AE. Consideration of application by Commission.
+
+F392[**28AE.**— (1) The Commission shall grant an application for registration duly made in accordance with *section 28AD* by a relevant market participant who is required, pursuant to *section 28AC*, to be registered, unless the Commission is satisfied, having regard to the application and the information and documentation (if any) provided to it under *section 28AD*, that the relevant market participant concerned would, if registered, not be able to comply with the terms and conditions to be specified in the registration.
+
+(2) Where an application for registration is granted, the registration granted shall be subject to such terms and conditions as may be specified in the registration and the Commission shall—
+
+(*a*) record the appropriate particulars in the Register, and
+
+(*b*) issue the relevant market participant with a registration permitting it to engage in the electricity activity concerned in accordance with the registration and the terms and conditions specified therein.
+
+(3) (*a*) Where the Commission proposes to refuse an application for registration it shall give a written notice of the proposal to refuse to the relevant market participant concerned and the notice shall—
+
+(i) state the reasons for the proposal to refuse, and
+
+(ii) specify the period (being not less than 28 days from the date on which the notice is given) within which representations or objections with respect to the proposal to refuse may be made.
+
+(*b*) The Commission shall consider such representations or objections, if any, as are made under paragraph (*a*) and not withdrawn and shall respond in writing to the relevant market participant concerned in respect of any such representations and objections within a reasonable period of the Commission having received them.
+
+(*c*) Where the Commission, having considered such, if any, representations or objections referred to in *paragraph (*b*)*, decides to refuse to grant the application, it shall give a written notice of the decision to the applicant accordingly and such notice shall state the reasons for the decision and inform the applicant that it may, within a period of 28 days from the date the notice is given, appeal the decision to the Circuit Court.
+
+(*d*) On hearing an appeal under *paragraph (*c*)* in relation to the decision of the Commission to refuse to grant the application, the Court may either confirm the decision or allow the appeal and where the appeal is allowed, the Commission shall grant the application and *subsection (2)* shall apply accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F392: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AF. Modification of registration.
+
+F393[**28AF.**— (1) Where the Commission is of the opinion that a registration granted to a relevant market participant under this Part, including any terms and conditions specified in the registration, should be modified, it may make such modification in accordance with this section.
+
+(2) Where the Commission proposes to make a modification under *subsection (1)*, it shall serve a written notice of the proposal on the relevant market participant concerned and the notice shall—
+
+(*a*) state the nature of the modification,
+
+(*b*) state the date on which it is proposed the modification is to come into effect, which date shall be stated to be subject to the making of representations or objections or the taking of an appeal, under this section in respect of the modification,
+
+(*c*) state the reasons for the modification, and
+
+(*d*) specify the period (being not less than 28 days from the date on which the notice is given) within which representations or objections with respect to the modification may be made.
+
+(3) The Commission shall consider any representations or objections which are made under *subsection (2) (*d*)* and not withdrawn and shall respond in writing to the relevant market participant concerned in respect of any such representations and objections within a reasonable period of the Commission having received them.
+
+(4) The Commission, having considered such, if any, representations and objections referred to in subsection (3) shall decide whether or not to make the modification proposed under *subsection (2)*, and, where representations or objections are made and the Commission considers, on foot of those representations or objections, that a modification other than that proposed should be made, it may decide to make that other modification.
+
+(5) The Commission shall give the relevant market participant a written notice of its decision under *subsection (4)* and, where its decision is to make the modification proposed under *subsection (2)* or to make, in accordance with *subsection (4)*, a modification other than that modification, the notice shall state the reasons for that decision and shall inform the relevant market participant of the matters set out in *subsections (6)* to *(8)*.
+
+(6) A modification under this section shall come into effect on the day that is 28 days after the date on which the notice referred to in *subsection (5)* is given, unless an appeal is made under *subsection (7)*, in which case the modification shall not come into effect unless confirmed in accordance with that subsection in which case it shall come into effect in accordance with *subsection (8)*.
+
+(7) A relevant market participant may, not later than 28 days from the date on which a notice is given under *subsection (5)*, appeal to the Circuit Court and on hearing an appeal under this subsection the Court may confirm or vary the modification or allow the appeal and cancel the modification.
+
+(8) Where an appeal is taken under *subsection (7)*, the modification shall, unless cancelled by the Court, come into effect on the day next following the day on which the modification is confirmed or varied, on appeal or the appeal is withdrawn, or on such day as is specified by the Court, whichever is later.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F393: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+### 28AG. Functions of Commission for purpose of ensuring compliance by relevant market participant with registration.
+
+F394[**28AG.**(1) The Commission shall monitor, in accordance with this Act, the compliance by relevant market participants with registrations granted to them and any terms and conditions specified in those registrations (in this section referred to as "obligations").
+
+(2) If, in the opinion of the Commission, a relevant market participant may not be, or is likely to not be, complying with its obligations, the Commission may give a written notice in accordance with *subsection (3)* to the relevant market participant concerned.
+
+(3) A notice under *subsection (2)* shall—
+
+(*a*) specify the acts or omissions that in the opinion of the Commission, may constitute, or would be likely to constitute, a failure to comply with the registration concerned, and
+
+(*b*) specify the period (being not less than 28 days from the date on which the notice is given) within which representations or objections may be made.
+
+(4) The Commission shall consider any representations or objections which are made under *subsection (3)* and not withdrawn.
+
+(5) The Commission, having considered any representations or objections, referred to in *subsection (4)*, may make a determination that a relevant market participant is not complying with its obligations.
+
+(6) The Commission may issue a direction to a relevant market participant where it has made a determination under *subsection (5)* that a relevant market participant is not complying with its obligations.
+
+(7) A direction issued under *subsection (6)* shall specify the acts or omissions that in the opinion of the Commission constitute the failure by the relevant market participant to comply with its obligations and shall direct the relevant market participant to take, within the period of time specified in the direction, such remedial actions as are specified in the direction.
+
+(8) As soon as practicable after giving a direction under *subsection (6)*, the Commission shall give a written notice of the direction to the relevant market participant concerned.
+
+(9) A relevant market participant may make representations or objections to the Commission in respect of a direction issued to it under *subsection (6)* within a period of 28 days from the date on which the notice of the direction is given.
+
+(10) The Commission shall consider any representations or objections made to it in accordance with *subsection (9)* and shall respond in writing to the relevant market participant concerned in respect of any such representations or objections within a reasonable period of the Commission having received them.
+
+(11) The Commission may withdraw a direction and where it does so it shall give a written notice of the withdrawal to the relevant market participant concerned that sets out the effect of the withdrawal.
+
+(12) A relevant market participant that is aggrieved by a direction issued to it under *subsection (6)* may—
+
+(*a*) if no representations or objections are made under *subsection (9)*, within the period of 28 days from the date on which the notice of the direction is given, or
+
+(*b*) if representations or objections are made under *subsection (9)*, within the period of 28 days from the date of the response of the Commission in respect of those representations or objections,
+
+appeal to the Circuit Court against the direction, and in determining the appeal, the Court may make such order as it considers appropriate, including to confirm, vary or revoke the direction.
+
+(13) Where a relevant market participant fails to comply in full or in part with a direction issued under *subsection (6)* within the period specified in the direction or fails to cooperate with the Commission with regard to the direction, and the period within which an appeal may be made under *subsection (12)* has passed, the Commission may apply to the Circuit Court for an order directing the relevant market participant to comply with the direction.
+
+(14) Where a direction is issued to a relevant market participant under *subsection (6)* (in this subsection referred to as the "current direction") and a direction under this section has previously been issued to the market participant concerned (in this subsection referred to as the "previous direction") in circumstances where—
+
+(*a*) the previous direction was not withdrawn or revoked by the Circuit Court under this section, or
+
+(*b*) an appeal in respect of the previous direction is not awaiting determination by the Circuit Court under this section,
+
+the Commission may, where it considers it necessary to do so, temporarily suspend the registration of the relevant market participant concerned in accordance with this section until the non-compliance with the obligations which is the subject of the current direction has been rectified, and where it does so the Commission shall give a written notice, in accordance with this section, to the relevant market participant of the temporary suspension and the relevant market participant shall not engage in the activity during the period of the temporary suspension.
+
+(15) Where the Commission proposes to temporarily suspend a registration, it shall give a written notice to the relevant market participant concerned of the proposal and the notice shall—
+
+(*a*) state the reasons for the proposed temporary suspension, and
+
+(*b*) specify the period (being not less than 28 days from the date on which the notice is given) within which representations or objections with respect to the proposal may be made.
+
+(16) The Commission shall consider such representations or objections, if any, as are made under *subsection (15)(*b*)* and shall respond in writing to the relevant market participant concerned in respect of any such representations and objections within a reasonable period of the Commission having received them.
+
+(17) Where the Commission, having considered such, if any, representations or objections as are made under *subsection (15)(*b*)*, decides to temporarily suspend a registration, it shall give a written notice to the relevant market participant concerned of the decision and that notice shall state the reasons for the decision.
+
+(18) Where the Commission decides to temporarily suspend a registration, the relevant market participant concerned may, not later than 28 days from the date of the notice referred to in *subsection (17)* is given, appeal to the Circuit Court.
+
+(19) On hearing an appeal under *subsection (18)*, the Circuit Court may either confirm or vary the decision of the Commission or allow the appeal and annul the decision.
+
+(20) Where an appeal is taken under *subsection (18)*, the decision of the Commission under *subsection (17)* shall, unless cancelled by the Circuit Court, take effect on the day following the day on which the decision is confirmed on appeal or the appeal is withdrawn, or on such day as is specified by the Circuit Court, whichever is later.
+
+(21) Where no appeal is made under *subsection (18)*, the decision of the Commission under *subsection (17)* shall take effect on the day on which the time allowed for an appeal has elapsed.
+
+(22) Any decision of the Circuit Court on an appeal under *subsection (18)* shall be final, save that, an appeal from the decision may be made to the High Court on a specified point of law.
+
+(23) *Sections 23* to *26* shall not apply in respect of the holder of a licence or an authorisation in respect of the obligations of such a person that arise by reason of holding a registration granted under this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F394: Inserted (21.07.2022) by *Circular Economy and Miscellaneous Provisions Act 2022* (26/2022), s. 42(*c*), commenced on enactment.
+
+## PART IVAppeal Panels — PART IV — Appeal Panels
+
+### 29. Establishment of Appeal Panel.
+
+**29.**—F395[(1) This section applies to—
+
+(*a*) a person whose application for a licence or an authorisation is refused,
+
+(*b*) a person who is a holder of a licence or an authorisation and who wishes to appeal against a decision of the Commission—
+
+(i) to modify the licence or authorisation concerned, other than a modification of a class required by an order made under *section 39* of *40*, or
+
+(ii) to refuse to modify the licence or authorisation concerned at the request of the holder of that licence or authorisation.]
+
+F396[(2) A person to whom this section applies may, within 28 days of the making of a decision—
+
+(*a*) to refuse to grant a licence or an authorisation,
+
+(*b*) to modify a licence or an authorisation, or
+
+(*c*) to refuse to modify a licence or an authorisation,
+
+request the Minister to establish a panel to be known and in this Act referred to as an “Appeal Panel”.]
+
+(3) When requested to establish an Appeal Panel, following consultation with the Competition Authority as to the composition of the Appeal Panel, the Minister shall, within one month, establish an Appeal Panel to consider an appeal made under this section.
+
+(4) An Appeal Panel established under this section shall consist of at least three persons, one of whom shall be appointed by the Minister to be the chairperson of the Appeal Panel.
+
+(5) An Appeal Panel shall have all the powers and duties of the Commission that are necessary to carry out the functions of the Appeal Panel under this Act.
+
+(6) An Appeal Panel shall be independent in the performance of its functions.
+
+(7) The Minister may by order amend or revoke an order made under this section including an order made under this subsection.
+
+(8) All appeals under *Part IV* of this Act shall be determined within six months.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F395: Substituted (8.10.2006) by *European Communities (Internal Market in Electricity) Regulations 2006* (S.I. No. 524 of 2006), reg. 2(*a*)(i).
+>
+> F396: Substituted (8.10.2006) by *European Communities (Internal Market in Electricity) Regulations 2006* (S.I. No. 524 of 2006), reg. 2(*a*)(ii).
+>
+> **Modifications (not altering text):**
+>
+> C27: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions and term “Single Electricity Market” construed (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), (*d*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C28: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+>
+> C29: Terms “licence” and “authorisation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(17)(*a*), (*b*), commenced on enactment.
+>
+> **Natural Gas Licences**
+>
+> **16.** ...
+>
+> (17)(*a*) in sections 14(7), 29, 30 and 32 of the Act of 1999 to a licence shall be construed as including a reference to a natural gas licence and an order made under section 2 (1) of the Gas (Amendment) Act, 1987,
+>
+> (*b*) in sections 17(4), 29, 30 and 32 of the Act of 1999 to an authorisation shall be construed as including a reference to a consent of a type mentioned in section 8 (7), 39A(1) or 40 (1) of the Gas Act, 1976, other than a consent in regard to an upstream pipeline.
+>
+> C30: Reference in subs. (1)(*b*)(i) to order made under s. 39 construed in certain circumstances (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 21(8), commenced on enactment.
+>
+> **Public Service Obligations**
+>
+> **21.** ...
+>
+> (8) The reference in section 29(1)(*b*)(i) of the Act of 1999 to an order made under section 39 shall, in the case of a proposed modification of a natural gas licence or a consent given by the Minister prior to the appointed day under section 8 (7) or 40 (1) of the Gas Act, 1976, or a consent given by the Commission under section 39A(1) (inserted by section 12) of the Gas Act, 1976, be taken to mean an order made under subsection (1).
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E104: Power pursuant to subss. (3), (7) exercised (3.01.2018) by *Electricity Regulation Act 1999 (Establishment of Appeal Panel) (Amendment) Order 2018* (S.I. No. 5 of 2018).
+>
+> E105: Power pursuant to subs. (3) exercised (10.11.2017) by *Electricity Regulation Act 1999 (Establishment of Appeal Panel) Order 2017* (S.I. No. 495 of 2017).
+>
+> E106: Previous affecting provisions: subss. (1), (2) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 32(1); substituted as per F-note above.
+
+### 30. Functions of Appeal Panel.
+
+**30.**—F397[(1) An Appeal Panel shall hear and determine an appeal against-
+
+(*a*) a refusal to grant a licence or an authorisation,
+
+(*b*) a modification, or
+
+(*c*) a refusal to modify a licence or an authorisation,
+
+and shall specify, on notice to the Commission and the appellant, the date on which the appeal shall be heard.]
+
+(2) An Appeal Panel shall have the powers, rights and privileges vested in the High Court or a judge thereof on the hearing of an action in respect of—
+
+(*a*) the enforcement of the attendance of witnesses and their examination on oath or otherwise, and
+
+(*b*) the compelling of the production of documents.
+
+(3) A summons signed by the chairperson of the Appeal Panel or by such other member of the Appeal Panel as may be authorised by the Appeal Panel may be substituted for and shall be equivalent to any formal procedure capable of being issued in an action for enforcing the attendance of witnesses and compelling the production of documents.
+
+(4) Where a person—
+
+(*a*) being duly summoned to attend before an Appeal Panel makes a default in attending,
+
+(*b*) being in attendance as a witness before an Appeal Panel refuses to take an oath lawfully required by that Panel to be taken or to produce any document in his or her power or control lawfully required by that Appeal Panel to be produced by him or her or to answer any question to which the Appeal Panel may lawfully require an answer, or
+
+(*c*) being in attendance before an Appeal Panel does anything which, if the Appeal Panel were a court of law having power to commit for contempt, would be contempt of court,
+
+that person shall be guilty of an offence and shall be liable on summary conviction to a F398[class A fine].
+
+(5) A witness before an Appeal Panel shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+(6) An Appeal Panel may confirm the refusal to grant a licence or an authorisation or may direct the Commission to grant a licence or an authorisation with or without conditions laid down by the Appeal Panel and where such a direction is made the Commission shall, in accordance with the decision of the Appeal Panel, grant the licence or authorisation, subject to such conditions as may be specified by the Commission which are not inconsistent with the decision of the Appeal Panel.
+
+(7) In the case of a modification of a licence or an authorisation, the Appeal Panel may either confirm the modification or direct the Commission not to make it.
+
+(8) In the case of a refusal to modify a licence or an authorisation, the Appeal Panel may either confirm the decision of the Commission or may direct the Commission to modify the licence or authorisation.
+
+(9) The Appeal Panel shall notify the persons concerned of its decision in respect of an appeal under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F397: Substituted (8.10.2006) by *European Communities (Internal Market in Electricity) Regulations 2006* (S.I. No. 524 of 2006), reg. 2(*b*).
+>
+> F398: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 13(*d*), S.I. No. 171 of 2017. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C31: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C32: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+>
+> C33: Terms “licence” and “authorisation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(17)(*a*), (*b*), commenced on enactment.
+>
+> **Natural Gas Licences**
+>
+> **16.** ...
+>
+> (17)(*a*) in sections 14(7), 29, 30 and 32 of the Act of 1999 to a licence shall be construed as including a reference to a natural gas licence and an order made under section 2 (1) of the Gas (Amendment) Act, 1987,
+>
+> (*b*) in sections 17(4), 29, 30 and 32 of the Act of 1999 to an authorisation shall be construed as including a reference to a consent of a type mentioned in section 8 (7), 39A(1) or 40 (1) of the Gas Act, 1976, other than a consent in regard to an upstream pipeline.
+>
+> **Editorial Notes:**
+>
+> E107: Previous affecting provision: subs. (1) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 32(2); substituted as per F-note above.
+
+### 31. Orders for establishment of Appeal Panels and related matters.
+
+**31.**—(1) An order made by the Minister under *section 29(3)* for the purpose of establishing an Appeal Panel may provide for—
+
+(*a*) the membership, on such terms and conditions as the Minister considers appropriate, of the Appeal Panel,
+
+(*b*) the procedure to be adopted by the Appeal Panel in considering any matter referred to it, and
+
+(*c*) any other matters which the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.
+
+(2) The remuneration and allowances for expenses, if any, of a member of an Appeal Panel shall be such as may be determined by the Minister, with the approval of the Minister for Finance, and shall form part of the expenses of the Commission.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C34: Application of ss. 19-22 and 29-31 extended to modified licences for interim period under certain conditions (30.07.2017) by *Energy Act 2016* (12/2016), s. 7(3)(*c*), commenced on enactment.
+>
+> **Single Electricity Market: provision in respect of revised arrangements in the State and Northern Ireland**
+>
+> **7**. ...
+>
+> (3) (*a*) During the interim period the Commission for Energy Regulation may modify the conditions of a licence or authorisation where the Commission considers it necessary or expedient to do so—
+>
+> (i) for the purpose of implementing, or facilitating the operation of, the revised arrangements in the State and Northern Ireland, or
+>
+> (ii) in consequence of, or for giving full effect to, those arrangements.
+>
+> (*b*) The power to modify the conditions of a licence or authorisation under this subsection includes the power to make incidental, consequential or transitional modifications.
+>
+> (*c*) Where a licence or authorisation is modified under this subsection, sections 19 to 22 and 29 to 32 of the Act of 1999 shall apply in relation to any such modification.
+>
+> (*d*) Sections 20(4)(*a*) and (9), 21(2)(*a*) and 22(3)(*b*) of the Act of 1999 shall, for the purposes of this subsection, have effect as if references to the Single Electricity Market included references to the revised arrangements in the State and Northern Ireland.
+>
+> C35: Functions under subs. (2) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1999</td><td>Electricity Regulation Act 1999</td><td>Section 31(2); Schedule, paragraphs 1, 2, 10, 13, 21, 25, 30, 31, 33, 34, 35, 36 and 40M</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C36: Application of ss. 19-22 and 29-31 restricted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 3(2).
+>
+> **European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations**
+>
+> **3.** (1) The Commission shall cause every gas transmission licence to contain such terms and conditions as it considers necessary for the purpose of ensuring that every holder of such a licence complies with the provisions of the European Regulation which relate to the provision of access to the transmission system.
+>
+> (2) Sections 19 to 22 and sections 29 to 31 of the Act of 1999 shall not apply in relation to any modifications made in accordance with paragraph (1) of this Regulation.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E108: Power pursuant to subs. (1)(*a*) exercised (3.01.2018) by *Electricity Regulation Act 1999 (Establishment of Appeal Panel) (Amendment) Order 2018* (S.I. No. 5 of 2018).
+>
+> E109: Power pursuant to section exercised (10.11.2017) by *Electricity Regulation Act 1999 (Establishment of Appeal Panel) Order 2017* (S.I. No. 495 of 2017).
+
+### 32. Review of determination of Commission.
+
+**32.**—F399[(1) Without prejudice to any right under this Act to appeal to an Appeal Panel, a person shall not question in any legal proceedings—
+
+*(*a*)* the validity of a decision of the Commission on an application made to it for the grant of a licence or an authorisation or for the modification of a licence or an authorisation,
+
+*(*b*)* a modification by the Commission of a licence or an authorisation,
+
+*(*c*)* a decision of an Appeal Panel under *section 30*, or
+
+*(*d*)* any decision (whether described as a decision, selection or determination or otherwise) made by the Commission under the Gas (Amendment) Act 2000, or under regulations under that Act,
+
+otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (hereafter in this section referred to as “the Order”).]
+
+F400[(2) An application for leave to apply for judicial review in respect of any matter referred to in subsection (1) shall—
+
+(*a*) subject to *subsection (2A)*, be made within the period of two months commencing on the date on which the decision is given, and
+
+(*b*) be made by motion on notice to—
+
+(i) the Commission,
+
+(ii) if the application relates to a decision concerning a matter referred to in *paragraph* (*a*), (*b*) or (*c*) of *subsection (1)* and the applicant for leave is not the applicant for, or holder of, the licence or authorisation concerned, the applicant for, or holder of, that licence or authorisation,
+
+(iii) if the application relates to a decision referred to in *paragraph* (*d*) of *subsection (1)* and the applicant for leave is not the person in respect of whom the decision was made, that person, and
+
+(iv) any other person specified for that purpose by order of the High Court,
+
+and such leave shall not be granted unless the High Court is satisfied that there are substantial grounds for contending that the decision is invalid or ought to be quashed, and that the applicant has a substantial interest in the matter which is the subject of the application.
+
+(2A) The Court may extend the period referred to in *subsection (2)*(*a*) within which an application for leave to apply for judicial review under the Order may be made in relation to a matter referred to in that subsection if, but only if, it is satisfied that each of the following conditions is fulfilled—
+
+(*a*) the applicant—
+
+(i) did not become aware until after the expiration of the period referred to in that subsection of the material facts on which the grounds for the said application for leave are based, or
+
+(ii) did, before that period's expiration, become aware of those facts but only after such number of days of that period had elapsed as would not have made it reasonably practicable for the applicant to have made the said application for leave before that period's expiration,
+
+(*b*) the applicant could not with reasonable diligence have become aware of those facts until after the expiration of that period, or, as the case may be, those number of days had elapsed,
+
+(*c*) the said application for leave has been made as soon as is reasonably practicable after the applicant has become aware of those facts.]
+
+(3) (*a*) The determination of the High Court of such an application for leave to apply for judicial review or of an application for such judicial review shall be final and no appeal shall lie from the decision of the High Court to the Supreme Court in either case save with the leave of the High Court which leave shall only be granted where the High Court certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.
+
+(*b*) This subsection shall not apply to a determination of the High Court in so far as it involves a question as to the validity of any law having regard to the provisions of the Constitution.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F399: Substituted (8.10.2006) by *European Communities (Internal Market in Electricity) Regulations 2006* (S.I. No. 524 of 2006), reg. 2(*c*).
+>
+> F400: Substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 15, commenced on enactment.
+>
+> C37: Terms “licence” and “authorisation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(17)(*a*), (*b*), commenced on enactment.
+>
+> **Natural Gas Licences**
+>
+> **16.** ...
+>
+> (17)(*a*) in sections 14(7), 29, 30 and 32 of the Act of 1999 to a licence shall be construed as including a reference to a natural gas licence and an order made under section 2 (1) of the Gas (Amendment) Act, 1987,
+>
+> (*b*) in sections 17(4), 29, 30 and 32 of the Act of 1999 to an authorisation shall be construed as including a reference to a consent of a type mentioned in section 8 (7), 39A(1) or 40 (1) of the Gas Act, 1976, other than a consent in regard to an upstream pipeline.
+>
+> **Editorial Notes:**
+>
+> E110: Previous affecting provision: subs. (1)(*b*), (*c*) substituted and (*d*) inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 32(3); substituted as per F-note above.
+>
+> E111: Previous affecting provision: subs. (1) substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 15, commenced on enactment; substituted as per F-note above.
+
+## PART VAccess to Transmission and Distribution Systems — PART V — Access to Transmission and Distribution Systems
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C38: Certain existing duties, obligations and requirements transferred and references construed (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 25, in operation as per reg. 1(2)(*b*) and notice in Iris Oifigiúil, 22 June 2001, No. 50 p. 822.
+>
+> *Grid code and distribution code*
+>
+> **25.** (1) For the purposes of Part V of the Act of 1999—
+>
+> (*a*) any existing duty, obligation or requirement on the Board in respect of the transmission system which relates to functions conferred on the transmission system operator by or under these Regulations shall be regarded as a duty, obligation or requirement on the transmission system operator, and not on the Board.
+>
+> (*b*) any existing duty, obligation or requirement on the Board in relation to the operation of the distribution system which is transferred to the distribution system operator by or under these Regulations shall be regarded as a duty, obligation or requirement on the distribution system operator, licensed under section 14(1)(*g*) of the Act of 1999, and
+>
+> (*c*) any existing duty, obligation or requirement on the Board in relation to the ownership of the transmission system which is transferred to the transmission system owner by or under these Regulations shall be regarded as a duty, obligation or requirement on the transmission system owner, licensed under section 14(1)(*f*) of the Act of 1999,
+>
+> and Part V of the Act of 1999 shall be construed accordingly.
+>
+> (2) Any work commenced or being carried out by the Board for the purposes of any duty, obligation or requirement on the Board under Part V of the Act of 1999 in relation to transmission, distribution or ownership of the transmission system shall, by agreement of the parties, be continued and carried out by the transmission system operator in the case of work in relation to transmission, by the distribution system operator in the case of work in relation to distribution, and by the transmission system owner in the case of work in relation to ownership of the transmission system.
+>
+> (3) (*a*) In the event of a dispute between the transmission system owner, the transmission system operator or the distribution system operator over which duties, obligations or rights are to be exercisable by which party, the matter in dispute shall be submitted to the Commission for decision.
+>
+> (*b*) The Commission shall issue directions regarding its decision on the matter in dispute submitted to it pursuant to *subparagraph (*a*)*, as it sees fit, and the transmission system owner, the transmission system operator and the distribution system operator shall comply with such directions.
+>
+> ...
+
+### 33. Preparation of grid code and distribution code.
+
+**33.**—(1) Subject to *subsection (2)*, within such time and following such consultation as the Commission may direct, the Board shall make regulations, subject to the approval of the Commission, setting out a grid code in relation to the transmission system of the Board and a distribution code in relation to the distribution system of the Board.
+
+(2) The Commission may from time to time give directions to the Board in respect of—
+
+(*a*) the matters to be specified in the grid code and the distribution code, and
+
+(*b*) the review and revision by the Board from time to time of the grid code and the distribution code,
+
+and the Board shall comply with directions given by the Commission under this section.
+
+(3) All releases of information under this section shall be made available within one month of any request for same.
+
+### 34. Terms for connection to and use of transmission or distribution system.
+
+**34.**—(1) Subject to *subsection (4)*, where an application is made to the Board by any person, the Board shall offer to enter into an agreement for connection to or use of the transmission or distribution system, subject to terms and conditions specified in accordance with directions given to the Board by the Commission under this section from time to time.
+
+F401[(1A) An offer under *subsection (1)* may, on request of the applicant, be on the basis that the applicant constructs, or that either or both the applicant and the transmission system operator arranges to have constructed, the connection to the transmission system, and any such connection constructed or arranged to be constructed by the applicant shall be the property of the person with whom the agreement is made, and shall, for the purposes of F402[*section 37(4)*], be deemed to be a direct line.]
+
+F403[(1B) An offer under *subsection (1)*, made for the purpose of connecting a generating station to the distribution system, may, on request of the applicant, be on the basis that the applicant constructs, or that either or both the applicant and the distribution system operator arranges to have constructed, the connection to the distribution system, and any such connection constructed or arranged to be constructed by the applicant shall be the property of the person with whom the agreement is made, and shall, for the purposes of *section 37(4)*, be deemed to be a direct line.]
+
+F404[(1C) The Commission shall publish directions that are given by it to the Board under this section.]
+
+F406[(1D) In relation to an application to the transmission system operator under *subsection (1)*, by any person, including new generation installations and energy storage facilities, the terms and conditions mentioned in that subsection shall be published by the transmission system operator, following their approval by the Commission.]
+
+(2) Without prejudice to the generality of *subsection (1)*, directions given by the Commission under this section may provide for:
+
+(*a*) the matters to be specified in an agreement for connection to and use of the transmission or distribution system;
+
+(*b*) the matters to be specified in an agreement for use of the transmission or distribution system;
+
+(*c*) the terms and conditions upon which an offer for connection to the transmission or distribution system is made;
+
+(*d*) the methods for determining the proportion of the costs to be borne by the person making the application for connection to the transmission or distribution system and to be borne by the Board being costs which are directly or indirectly incurred in carrying out works under an agreement or making a connection or modifying an existing connection;
+
+(*e*) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the Board; and
+
+(*f*) any other matters which the Commission considers necessary or expedient for the purpose of making an offer for connection to or use of the transmission or distribution system,
+
+and the Board shall comply with directions given by the Commission under this section within such time period as may be specified by the Commission.
+
+F405[(2A) In a case where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature, then subsection (1), in so far as it provides for the giving of directions by the Commission to the Board, and subsection (2) shall not apply and, in such a case, the terms and conditions to be specified in the agreement referred to in subsection (1) shall be those fixed and approved by the Agency.]
+
+(3) An offer made under *subsection (1)* to a person who is not the holder of a licence under *section 14* or an authorisation under *section 16* F407[or a registration granted under *Part IIIA*] or an eligible customer shall be subject to the grant of a licence or authorisation F407[or registration] to that person or to that person becoming an eligible customer F407[or to that person being a relevant market participant of a class specified by order under section 28AC(2)(*a*)(i) or engaging in a class of electricity activity specified by order under 28AC(2)(*a*)(ii)].
+
+(4) The Board shall not be required under *subsection (1)* to enter into an agreement where—
+
+(*a*) it has demonstrated to the satisfaction of the Commission that it is not in the public interest to provide additional capacity to meet the requirements to be imposed by that agreement,
+
+(*b*) to enter into an agreement under this section would be likely to involve the Board:
+
+(i) in a breach of this Act;
+
+(ii) in a breach of regulations made under this Act;
+
+(iii) in a breach of the grid code or distribution code; or
+
+(iv) in a breach of the conditions of any licence or authorisation granted to the Board under this Act,
+
+or
+
+(*c*) the person making the application does not undertake to be bound by the terms of the grid code or distribution code in so far as those terms are applicable to that person.
+
+F408[(5) (*a*) Where the Board refuses to offer to enter into an agreement under this section, it shall serve notice on the applicant of the reasons for such refusal, having regard to Article 9 of the 2019 Internal Electricity Market Directive.
+
+(*b*) The reasons referred to in *subparagraph (*a*)* shall be based on objective and technically and economically justified criteria.
+
+(*c*) The Commission shall ensure that the criteria referred to in *subparagraph (*b*)* are consistently applied.]
+
+F409[(5A) (*a*) The transmission system operator or the distribution system operator, as the case may be, shall, where refusal of access takes place, provide relevant information to the applicant on measures that would be necessary to reinforce the network.
+
+(*b*) The information specified in subparagraph (*a*) shall be provided in all cases when access for recharging points has been denied.
+
+(*c*) The party requesting such information may be charged by the transmission system operator a fee reflective of the administrative cost of providing the information referred to in paragraph (*a*) and any such fee shall be displayed by the transmission system operator on its website.]
+
+F410[(5B) (*a*) The transmission system operator shall not be entitled to refuse the connection of a new generating installation or energy storage facility on the grounds of possible future limitations to available network capacities, such as congestion in distant parts of the transmission system;
+
+(*b*) The transmission system operator shall supply necessary information if refusing connection to those seeking connection;
+
+(*c*) *Paragraphs (*a*)* and *(*b*)* shall be without prejudice to the possibility for the transmission system operator to limit the guaranteed connection capacity or to offer connections subject to operational limitations, in order to ensure economic efficiency regarding new generating installations or energy storage facilities, provided that such limitations have been approved by the Commission;
+
+*(*d*)* The Commission shall ensure that any limitations in guaranteed connection capacity or operational limitations are introduced on the basis of transparent and non-discriminatory procedures and do not create undue barriers to market entry;
+
+(*e*) Where the generating installation or energy storage facility bears the costs related to ensuring unlimited connection, no limitation shall apply;
+
+(*f*) The transmission system operator shall not be entitled to refuse a new connection point, on the ground that it would lead to additional costs resulting from the necessary capacity increase of system elements in the close-up range to the connection point.]
+
+F411[(6)(*a*) Any dispute between the transmission system operator or the distribution system operator and any person who is, or claims to be, a person to whom the transmission system operator or the distribution system operator, as the case may be, F412[is obliged –
+
+(i) to make an offer for connection to and use of the transmission system or distribution system, or
+
+(ii) to consult with regarding proposed charges in accordance with *section 36(2)*,
+
+as the case may be,] whether as to the terms and conditions (including proposed charges) or otherwise, shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and the transmission system operator or the distribution system operator, as the case may be shall comply with and be bound by any such direction.
+
+(*b*) Any dispute between a transmission system operator or a distribution system operator in regard to duties under the F413[2019 Internal Electricity Market Directive] and a person as respects matters specified in *section 9(1B)* in relation to electricity shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and such direction shall be binding on all parties concerned.
+
+(*c*)(i) The Commission shall issue the determination referred to in *paragraphs* (*a*) and (*b*) within 2 months from the date of the receipt of the complaint.
+
+(ii) The period referred to in *subparagraph (i)* may be extended by 2 months where the Commission seeks additional information in the matter, and such further extension as may be consented to by the applicant.
+
+(iii) Where the applicant concerns connection tariffs for major new generation facilities, the period concerned may be extended by the Commission without the consent of the applicant.
+
+(*d*) In the event of cross border disputes, the Commission has jurisdiction if the transmission system operator licensed under *section 14(1)*(*e*) is the system operator which refuses use of or access to the transmission system.]
+
+(7) In order to secure compliance with a determination made under this section the Commission may apply in a summary manner on notice to the High Court for an order requiring the Board to comply with the determination of the Commission made under this section.
+
+(8) Where providing for use of the transmission or distribution system or where offering terms for the carrying out of works for the purpose of connection to the transmission or distribution system of the Board, the Board shall not discriminate unfairly as between any persons or classes of persons.
+
+F414[(9) The provisions of this section shall also apply to citizen energy communities that manage distribution networks.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F401: Inserted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 33, in operation as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> F402: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 30(2), subject to transitional provision in reg. 40.
+>
+> F403: Inserted (15.06.2009) by *European Communities (Internal Market in Electricity) Regulations 2009* (S.I. No. 226 of 2009), reg. 2.
+>
+> F404, F405: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(4)(*a*), (*b*), in operation as per reg. 1(2).
+>
+> F406: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2020), reg. 7(1)(*a*), in operation as per reg. 1(2).
+>
+> F407: Inserted (18.10.2022) by *Electricity Costs (Domestic Electricity Accounts) Emergency Measures and Miscellaneous Provisions Act 2022* (32/2022), s. 10(*a*)-(*c*), S.I. No. 520 of 2022.
+>
+> F408: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 8(*a*), in operation as per reg. 1(2).
+>
+> F409: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 8(*b*), in operation as per reg. 1(2).
+>
+> F410: Inserted (9.05.2022) by *European Union (Internal Market in Electricity) (3) Regulations 2022* (S.I. No. 227 of 2020), reg. 7(1)(*b*), in operation as per reg. 1(2).
+>
+> F411: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 26(4).
+>
+> F412, F413: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 9(*b*)(i), (ii), in operation as per reg. 1(2).
+>
+> F414: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 8(*c*), in operation as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E112: New electricity producers, in discharging functions under section in regard to applications for connection to the transmission system from new producers of electricity from high efficiency combined heat and power generating stations and high efficiency cogeneration, required to endeavour to complete the grid connection application process within 24 months of a direction of the Commission by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), regs. 8(10) and 22(8,) as inserted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 34(*c*) and (*f*).
+>
+> E113: Section 34(*b*) purported to be substituted (1.12.2012) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(7); amendment not implemented as no such provision.
+>
+> E114: Previous affecting provision: subs. 6(*a*), (*b*) substituted (8.10.2006) by *European Communities (Internal Market in Electricity) Regulations 2006* (S.I. No. 524 of 2006), reg. 2(*d*); substituted as per F-note above.
+>
+> E115: Previous affecting provision: subs. (6) substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 31; substituted as per F-note above.
+
+### 34A. Terms for access to interconnector.
+
+F415[**34A.**—(1) Subject to *subsection (3)* the holder of a licence under *section 14(1)*(*i*) (in this section referred to as the “interconnector operator”) shall offer access to the interconnector concerned on the basis of published non-discriminatory terms which shall be subject to the approval of and directions given by the Commission.
+
+(2) Without prejudice to the generality of *subsection (1)* the Commission may give directions to the interconnector operator which provide for—
+
+(*a*) the matters to be specified in an agreement for use of the interconnector,
+
+(*b*) the terms and conditions upon which an offer for access to the interconnector is made,
+
+(*c*) the basis upon which charges may be made for access to the interconnector,
+
+(*d*) the terms and conditions upon which applications for access are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the interconnector operator, and
+
+(*e*) any other matters which the Commission considers necessary or expedient for the purpose of making an offer of access to the interconnector,
+
+and the interconnector operator shall comply with directions given by the Commission under this section within such period of time as may be specified by the Commission.
+
+(3) The interconnector operator shall not be required under *subsection (1)* to enter into an agreement where—
+
+(*a*) it has demonstrated to the satisfaction of the Commission that it is not in the public interest to do so,
+
+(*b*) to enter into an agreement under this section would be likely to involve the interconnector operator—
+
+(i) in a breach of this Act,
+
+(ii) in a breach of regulations made under this Act,
+
+(iii) in a breach of the grid code or distribution code, or
+
+(iv) in a breach of the conditions of any licence or authorisation granted to the interconnector operator under this Act.
+
+(4) Where the interconnector operator refuses to enter into an agreement under this section the interconnector operator shall serve notice on the applicant of the reasons for such refusal.
+
+(5) Any dispute between the interconnector operator and a person who is, or claims to be, a person to whom the interconnector operator is obliged to make an offer of access to the interconnector (and whether the dispute relates to the making of an offer, the terms offered, the proposed charge or otherwise)—
+
+(*a*) where the offer is made by the interconnector operator, or
+
+(*b*) where an offer is refused by the interconnector operator,
+
+may, upon the application of that person, be determined by the Commission and the interconnector operator shall comply with and be bound by any such determination.]
+
+F416[(6) A person who transports electricity across an interconnector without being duly licensed to do so under *section 14(1)* commits an offence and is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 12 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €50,000 or a term of imprisonment not exceeding3 years or to both.
+
+(7) Summary proceedings for an offence under this section may be brought and prosecuted by the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F415: Inserted (23.05.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 8(7), S.I. No. 266 of 2007.
+>
+> F416: Inserted (8.07.2008) by *Electricity Regulation (Amendment) (EirGrid) Act 2008* (11/2008), s. 4, commenced on enactment.
+
+### 34B. Arrangements and agreements relating to transmission system and All-Island Transmission Networks.
+
+F417[**34B.**—(1) Where the Single Electricity Market is in operation the Commission may direct the transmission system operator to seek to enter into and maintain in force such arrangements as are necessary to—
+
+(*a*) enable the transmission system operator, subject to such terms and conditions as may be specified by the Commission in any direction, to offer any person who makes an application pursuant to *section 34(1)*, an agreement for connection to the transmission system or use of the All-Island Transmission Networks,
+
+(*b*) enable the Northern Ireland System Operator to offer any person who makes an application to the Northern Ireland System Operator, an agreement for connection to the Northern Ireland Transmission System or use of the All-Island Transmission Networks.
+
+(2) The Commission may make regulations for the purposes of *subsection (1)*.
+
+(3) Without prejudice to the generality of *subsection (2)*, regulations under *subsection (2)* may—
+
+(*a*) prescribe those matters in respect of which the Commission may make directions including, without limitation, directions in relation to—
+
+(i) the basis upon which payments are to be made by the transmission system operator to the Northern Ireland System Operator and by the Northern Ireland System Operator to the transmission system operator, in each case in relation to connection to the transmission system, connection to the Northern Ireland Transmission System and use of the All-Island Transmission Networks, and
+
+(ii) the method for determining the proportion of the costs to be borne by the person making an application for connection to the transmission system and the proportion to be borne by the transmission system operator,
+
+(*b*) prescribe the circumstances in which the transmission system operator can refuse to make an offer to an applicant to enter into an agreement for connection to the transmission system or use of the All-Island Transmission Networks,
+
+(*c*) prescribe the circumstances in which the transmission system operator can refuse to make an offer to enter into an arrangement with the Northern Ireland System Operator pursuant to *subsection (1)*,
+
+(*d*) provide for the resolution of disputes between the transmission system operator and any applicant for an offer to enter into an agreement for connection to the transmission system or use of the All-Island Transmission Networks or any person who has entered into an agreement with the transmission system operator for connection to the transmission system or use of the All-Island Transmission Networks,
+
+(*e*) provide for the resolution of disputes between the transmission system operator and the Northern Ireland System Operator in connection with any arrangement entered into or sought to be entered into pursuant to *subsection (1)*,
+
+(*f*) provide for the basis upon which charges are determined for connection to the transmission system and for use of the All-Island Transmission Networks, and
+
+(*g*) prescribe the circumstances (if any) in which the transmission system operator shall continue to be obliged to make an offer to enter into an agreement for connection to or use of the transmission system pursuant to *section 34(1)*.
+
+(4) In this section—
+
+“All-Island Transmission Networks” means the transmission system together with the Northern Ireland Transmission System;
+
+“Northern Ireland System Operator” means the holder of a transmission licence granted under Article 10(1)(*b*) of the Electricity (Northern Ireland) Order 1992 and who is, from time to time, designated by the Authority as the transmission system operator for Northern Ireland;
+
+“Northern Ireland Transmission System” shall have the meaning given to the term “transmission system” in the licence granted to the Northern Ireland System Operator under Article 10(1)(*b*) of the Electricity (Northern Ireland) Order 1992.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F417: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 17, S.I. No. 731 of 2007.
+
+### 35. Charges for connection to and use of transmission or distribution system.
+
+**35.**—(1) Subject to *subsection (2)*, within such time as the Commission may direct, the Board shall prepare a statement for the approval of the Commission setting out the basis upon which charges are imposed—
+
+(*a*) for use of the transmission or distribution system of the Board, and
+
+(*b*) for connection to the transmission or distribution system of the Board.
+
+(2) The Commission may give directions to the Board from time to time in respect of the basis for charges for use of and connection to the transmission or distribution system of the Board.
+
+(3) Notwithstanding the generality of *subsection (2)*, directions given by the Commission under this section may provide for—
+
+(*a*) the methods of charging to be included in the statement to be prepared by the Board,
+
+(*b*) the form and the extent of the information to be provided by the Board to applicants,
+
+(*c*) the form of charges and information about those charges to be included in the statement to be prepared by the Board,
+
+(*d*) the procedure to be adopted in the submission by the Board of a statement of charges and the approval by the Commission of such statement, and
+
+(*e*) the nature of information to be provided to applicants seeking connection to or use of the transmission or distribution systems and its presentation and transparency,
+
+and the Board shall comply with directions given by the Commission under this section.
+
+(4) A charge for connection to or for the use of the transmission or distribution system of the Board shall be calculated in accordance with directions given by the Commission under this section so as to enable the Board to recover—
+
+(*a*) the appropriate proportion of the costs directly or indirectly incurred in carrying out any necessary works, and
+
+(*b*) a reasonable rate of return on the capital represented by such costs.
+
+(5) The Commission, solely, will determine what constitutes an “appropriate proportion” referred to in *subsection (4)(*a*)* and a “reasonable rate of return” referred to in *subsection (4)(*b*)*.
+
+F418[(6) *Subsections (1)* to *(5)* shall not apply in a case where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature.
+
+(7) The Commission shall publish the statement referred to in *subsection (1)*.
+
+(8) With a view to increasing transparency in the market and providing all interested parties with all necessary information and decisions or proposals for decisions concerning transmission and distribution tariffs, as referred in Article 60(3) of the 2019 Internal Electricity Market Directive, the Commission shall make publicly available the detailed methodology and underlying costs used for the calculation of the relevant network tariffs, while preserving the confidentiality of commercially sensitive information.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F418: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 7(5), in operation as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E116: New electricity producers, in discharging functions under section in regard to applications for connection to the transmission system from new producers of electricity from high efficiency combined heat and power generating stations and high efficiency cogeneration, required to endeavour to complete the grid connection application process within 24 months of a direction of the Commission by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), regs. 8(10) and 22(8,) as inserted (29.09.2014) by *European Union (Energy Efficiency) Regulations 2014* (S.I. No. 426 of 2014), reg. 34(*c*) and (*f*).
+
+### 36. Approval by Commission of statement of charges.
+
+**36.**—(1) The Board shall send each statement prepared in accordance with *section 35* to the Commission for its approval (in this section referred to as the “statement”) and the statement, and in particular any charges referred to therein, shall not apply until such time as it has been approved of by the Commission.
+
+(2) The Commission shall consult with the Board and have regard to any submission made by the Board to the Commission prior to making a decision as to whether to approve of or not, as the case may be, a statement submitted by the Board to the Commission for approval.
+
+(3) A statement and, in particular, charges referred to therein, shall not take effect until such time as it is approved of by the Commission, subject to such modifications, if any, as the Commission considers appropriate.
+
+(4) Any charges imposed by the Board on or before the commencement of this section shall, subject to the approval of the Commission, continue in force until a statement has been approved of by the Commission under this section and thereafter all charges shall be in accordance with a statement approved of by the Commission.
+
+F419[(5) In the event of delay in the fixing of transmission or distribution tariffs or methodologies (the "final transmission or distribution tariffs or methodologies"), the Commission shall have the power to fix or approve transmission or distribution tariffs or methodologies which shall have effect on a provisional basis and to decide on, and implement, the appropriate compensatory measures if the final transmission and distribution tariffs or methodologies differ from those provisional tariffs or methodologies in any respect.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F419: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 9(*c*), in operation as per reg. 1(2).
+
+### 36A. Charges of Market Operator.
+
+F420[**36A.**—(1) Subject to *subsection (2)*, within such time as the Commission may direct, the Market Operator shall prepare a statement for the approval of the Commission setting out the basis on which charges are imposed in relation to participation in the trading arrangements under the Single Electricity Market (in this section referred to as “the trading arrangements”).
+
+(2) The Commission may give directions to the Market Operator from time to time in respect of the basis for charges imposed for participation in the trading arrangements.
+
+(3) Notwithstanding the generality of *subsection (2)*, directions given by the Commission under this section may provide for—
+
+(*a*) the methods of charging to be included in the statement to be prepared by the Market Operator,
+
+(*b*) the form and extent of information to be provided by the Market Operator to persons participating in the trading arrangements,
+
+(*c*) the form of charges and information about those charges to be included in the statement to be prepared by the Market Operator,
+
+(*d*) the procedure to be adopted in the submission by the Market Operator of a statement of charges and the approval by the Commission of such statement, and
+
+(*e*) the nature of information to be provided to persons seeking to participate in the trading arrangements, and the presentation and transparency of that information, and the Market Operator shall comply with directions given by the Commission under this section.
+
+(4) Charges relating to participation in the trading arrangements shall be calculated in accordance with directions given by the Commission under this section so as to enable the Market Operator to recover—
+
+(*a*) the costs and expenses directly or indirectly incurred in operating the trading arrangements, and
+
+(*b*) a reasonable rate of return on capital expenditure included in such costs.
+
+(5) The Commission, solely, will determine what constitutes a “reasonable rate of return” referred to in *subsection (4)*(*b*).
+
+(6) In this section and in *section 36B*, “Market Operator” means the holder of a licence to act as the Single Electricity Market operator granted under *section 14(1)*(*j*) or a person granted an exemption from the requirement to hold such a licence pursuant to *section 14(2F)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F420: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 14, S.I. No. 731 of 2007.
+
+### 36B. Approval by Commission of statement of charges of Market Operator.
+
+F421[**36B.**— (1) The Market Operator shall send each statement prepared in accordance with *section 36A* to the Commission for its approval (in this section referred to as the “statement”) and such statement, and in particular any charges referred to in it, shall not apply until such time as it has been approved by the Commission.
+
+(2) The Commission shall consult with the Market Operator and have regard to any submission made by the Market Operator to the Commission prior to making a decision as to whether or not to approve, as the case may be, a statement submitted by the Market Operator to the Commission for approval.
+
+(3) A statement and, in particular, charges referred to in it, shall not take effect until such time as it is approved by the Commission, subject to such modifications, if any, as the Commission considers appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F421: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 14, S.I. No. 731 of 2007.
+
+### 37. Direct lines.
+
+**37.**—F422[(1) The Commission may grant or refuse to grant a permission to a person to whom this section applies to construct a direct line not connected to the transmission system or distribution system when initially constructed for the purpose of facilitating the supply of electricity F423[, without making such permission subject to disproportionate administrative procedures or costs].
+
+(1A) The Commission shall not grant a permission referred to in *subsection (1)* unless a person has made an application for connection to and use of the transmission system or the distribution system and either—
+
+(*a*) the application has been refused on the grounds of lack of capacity, or
+
+(*b*) a dispute to which *section 34(6)* refers has been presented to the Commission for a determination and the Commission in making its determination pursuant to *section 34(6)* forms the view that it is in the public interest to issue a permission pursuant to *subsection (1)*.]
+
+F424[(1B) (*a*) The Commission may refuse to grant a permission if the granting of such permission would obstruct the application of the provisions on public service obligations contained in Article 9 of the Internal Electricity Market Directive.
+
+(*b*) The Commission shall give duly substantiated reasons for a refusal.]
+
+(2) A permission to construct a direct line granted by the Commission under this subsection shall require the person to whom the permission was granted to comply with such technical and other conditions, including those which may be necessary to ensure that direct lines are compatible with the transmission or distribution system, to such extent as the Commission may specify in the permission.
+
+(3) The owner of a direct line constructed under *subsection (1)* may allow the direct line to be used for the transport of electricity to F425[customers within the State, individually or jointly].
+
+(4) (*a*) Where there is a connection made between a direct line and the transmission or distribution system of the Board, on the application of the Board, the Commission may direct the owner of a direct line constructed under F426[*section 34(1A)* or *(1B)* or] *subsection (1)* to transfer the ownership of the direct line to the Board on such terms, including terms as to compensation, as may be agreed between the Board and the owner of the direct line.
+
+F427[(*aa*) Where there is a connection made between a direct line constructed under *section 34(1A)* and the transmission system of the transmission system operator, the Commission shall, on the application of the transmission system operator, direct the owner of such direct line to transfer the ownership of the direct line to the transmission system operator on such terms, including terms as to compensation, as may be agreed between the transmission system operator and the owner of the direct line or as may be determined by the Commission.]
+
+F428[(*b*) In default of agreement between the Board, or the transmission system operator, and the owner as to compensation (and save where such compensation is determined by the Commission under *paragraph (aa)*), such compensation shall be assessed under the provisions of the Acquisition of Land (Assessment of Compensation) Act 1919, and for this purpose the Board, or the transmission system operator, as appropriate, shall be deemed to be a public authority.]
+
+F429[(5) This section applies to the holder of a licence, the holder of an authorisation or F430[any customer].
+
+(6) A person to whom a permission is granted pursuant to *subsection (1)* may by means of that direct line supply—
+
+(*a*) their own premises,
+
+(*b*) their own subsidiaries, and
+
+F431[(*c*) all customers within the State, individually or jointly.]]
+
+F432[(7) The possibility of supplying electricity through a direct line under this section shall not affect the possibility of contracting electricity in accordance with Article 6 of the Internal Electricity Market Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F422: Substituted and inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 30(1)(*a*), subject to transitional provision in reg. 40.
+>
+> F423: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*a*), in operation as per reg. 1(2).
+>
+> F424: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*b*), in operation as per reg. 1(2).
+>
+> F425: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*c*), in operation as per reg. 1(2).
+>
+> F426, F427: Inserted (31.07.2022) by*Maritime Area Planning Act 2021* (50/2021), s. 190(*a*), (*b*), S.I. 394 of 2022.
+>
+> F428: Substituted (31.07.2022) by *Maritime Area Planning Act 2021* (50/2021), s. 190(*c*), S.I. 394 of 2022.
+>
+> F429: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 30(1)(*b*), subject to transitional provision in reg. 40.
+>
+> F430: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*d*), in operation as per reg. 1(2).
+>
+> F431: Substituted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*e*), in operation as per reg. 1(2).
+>
+> F432: Inserted (17.01.2022) by *European Union (Internal Market in Electricity) Regulations 2022* (S.I. No. 20 of 2022), reg. 9(*f*), in operation as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+
+### 38. Estimate of capacity, forecast flows and loading.
+
+F433[**38.**— (1) On and after the commencement of this section, and at such intervals as the Commission may direct, the transmission system operator shall prepare a statement, (to be known and in this Act referred to as a “forecast statement”) based on the information available to it, in a form approved of by the Commission.
+
+(2) A forecast statement shall include forecasts in respect of capacity, forecast flows and loading on each part of the transmission system of the transmission system operator and fault levels for each electricity transmission node together with:
+
+(*a*) such further information as shall be reasonably necessary to enable any person seeking use of the transmission or distribution system to identify and evaluate the opportunities available when connecting to and making use of the transmission or distribution system;
+
+(*b*) a statement identifying those parts of the transmission system of the transmission system operator most suited to new connections and to the transport of further quantities of electricity;
+
+(*c*) the generating capacity which is likely to be connected to the transmission system;
+
+(*d*) the demand for electricity in the period to which the statement relates; and
+
+(*e*) a statement on the demand for electricity generated from renewable, sustainable or alternative sources generally and a statement on arrangements for the supply of electricity to customers who have opted to purchase such electricity.
+
+(3) The transmission system operator may revise from time to time the information set out in and, with the approval of the Commission, alter the form of each forecast statement and shall, at least once in every year, revise such statements.
+
+(4) The transmission system operator shall give a copy of a forecast statement and of each revision of the forecast statement under *subsection (3)* to the Commission.
+
+(5) Subject to *subsection (6)*, the transmission system operator shall give a copy of a forecast statement or, as the case may be, of the latest revision of the forecast statement, to any person who requests a copy of such statement or statements within fourteen days of the date that the request was received.
+
+(6) The transmission system operator may, with the prior consent of the Commission, omit from a forecast statement given under *subsection (4)* any confidential details as to the capacity, loading or other information, where disclosure of that information would, in the opinion of the Commission, prejudice the commercial interests of the transmission system operator or any other person.
+
+(7) The transmission system operator may make a charge for each forecast statement given under *subsection (4)* of an amount which shall not exceed the maximum amount specified by the Commission for the purpose of this subsection.
+
+(8) In this section the period to which the forecast statement relates shall be seven calendar years on and after the date on which the statement is prepared by the transmission system operator.
+
+(9) The transmission system operator shall consult with the Northern Ireland System Operator on each occasion when it prepares, alters or varies a forecast statement.
+
+(10) The preparation of any plan in accordance with this section shall, so far as practicable, be co-ordinated with the preparation of any equivalent document prepared by the Northern Ireland System Operator and such plans shall, so far as possible, be prepared on a consistent basis.
+
+(11) In this section—
+
+“Northern Ireland System Operator” means the holder of a transmission licence granted under Article 10(1)(*b*) of the Electricity (Northern Ireland) Order 1992 and who is, from time to time, designated by the Authority as the transmission system operator for Northern Ireland.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F433: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 15, S.I. No. 731 of 2007.
+
+## PART VIPublic Service Obligations and Transitional Arrangements — PART VI — Public Service Obligations and Transitional Arrangements
+
+### 39. Public service obligations.
+
+**39.**—(1) The Minister, following consultation with the Minister for the Environment and Local Government, shall by order direct the Commission to impose on the Board and holders of licences or authorisations, or holders of a permit under *section 37* of the Principal Act, public service obligations which may include obligations in relation to—
+
+(*a*) security of supply,
+
+(*b*) regularity, quality and price of supplies,
+
+F434[(*c*) environmental protection, including energy efficiency and climate protection, and]
+
+(*d*) use of indigenous energy sources.
+
+(2) Notwithstanding the generality of *subsection (1)*, an order made by the Minister under this section may require the Commission to impose on F435[the Board, the holder of a licence, the holder of an authorisation or the holder of a permit under *section 37* of the Principal Act] a requirement to make such arrangements F436[as are necessary to ensure that, in any specified period,] there shall be available to F437[the Board, the holder of a licence, the holder of an authorisation or the holder of a permit under *section 37* of the Principal Act] F438[...] from—
+
+(*a*) generating stations which use as their primary energy fuel source peat harvested within the State provided that the amount of peat used in any calendar year to F436[generate that electricity] may not exceed 15 per cent. of the overall primary energy necessary to produce the electricity consumed in the State that year, and
+
+(*b*) generating stations chosen as a result of a competitive process established by the Minister, the Commission or the Commission of the European Communities, as the case may be, which use as their primary fuel source such renewable, sustainable or alternative forms of energy as may be specified in the order or which operate as combined heat and power plants.
+
+(3) Notwithstanding the generality of *subsection (1)*, an order made under this section may provide for—
+
+(*a*) the imposition of a public service obligation on F439[the Board, the holder of a licence, the holder of an authorisation or the holder of a permit under *section 37* of the Principal Act] in respect of electricity which is produced using indigenous fuel or renewable, sustainable or alternative forms of energy as their primary source or which operate as combined heat and power plants as a result of a competitive process established by the Minister or the Commission of the European Communities prior to this enactment, and
+
+(*b*) measures designed to encourage effective and efficient use of electricity and to reduce demand for electricity.
+
+(4) The Minister shall send a copy of an order made under F440[this section,] to the Commission of the European Communities not later than 28 days after the making of the order.
+
+F441[(5) Subject to *subsections (6)*, *(6A)* and *(7)*, an order under this section shall provide, following a calculation by the Commission of whether any additional costs are incurred or additional benefits are received by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act in complying with an order under this section, including any such costs incurred or benefits received after the variation or revocation of such an order—
+
+(*a*) (i) where it is calculated that there are additional costs incurred, for the recovery, by way of a levy on final customers of the additional costs, including a reasonable rate of return on the capital represented by such costs where appropriate,
+
+(ii) where it is calculated that there are additional benefits received, for the making of a payment to final customers representing the additional benefits,
+
+(*b*) in relation to a calculation under *paragraph (*a*)(i)*, for the collection and recovery of payments in respect of the levy—
+
+(i) from final customers by the Board or the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act,
+
+(ii) from the Board or such holders of a licence, authorisation or permit by the distribution system operator or the transmission system operator, and
+
+(iii) from the distribution system operator by the transmission system operator,
+
+(*bb*) in relation to a calculation under *paragraph (*a*)(ii)*, for the collection and recovery of amounts in respect of the payments under that paragraph—
+
+(i) from the Board or the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act by the distribution system operator or the transmission system operator, and
+
+(ii) from the distribution system operator by the transmission system operator,
+
+(*c*) for the making, out of payments collected under *paragraph (*b*)*, of payments to the Board and holders of licences or authorisations, or holders of permits under section 37 of the Principal Act as appropriate, and
+
+(*d*) for the making, out of payments collected under *paragraph (bb)*, of payments—
+
+(i) to the distribution system operator by the transmission system operator,
+
+(ii) to the Board, the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act by the distribution system operator or the transmission system operator, and
+
+(iii) to final customers by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act.]
+
+F442[(5A) F443[(*a*) The levy referred to in *paragraph (*a*)(i)* of *subsection (5)* shall be imposed on final customers in respect of a levy period and the payment referred to in *paragraph (*a*)(ii)* of *subsection (5)* shall be made to final customers in respect of a payment period in such a manner that—
+
+(i) the levy or payment is apportioned between each category of electricity accounts specified in paragraph 1 of Schedule 2 on the basis of the maximum demand attributable to that category of accounts as a proportion of the aggregate of the maximum demand attributable to each of the three categories of accounts, and
+
+(ii) each holder of an electricity account who is a final customer is charged and liable to pay the levy in respect of each electricity account on the basis set out in*paragraph 2* of *Schedule 2*.]
+
+(*b*) The attribution of the maximum demand in respect of each category of electricity account shall be carried out by the distribution system operator with the approval of the Commission in respect of each levy period F444[or payment period.]
+
+F445[(*c*) In this subsection and in *Schedule 2*—
+
+"levy period" means a calendar year or such shorter period as may be specified in the order;
+
+"payment period" means a calendar year or such shorter period as may be specified in the order.]]
+
+(6) An order made under this section which, F446[in accordance with *subparagraph (i)* of *subsection (5)(*a*)*], provides for the recovery of additional costs referred to in F447[that subparagraph] shall provide that such costs shall be recovered in respect of a F448[specified period] and that the amount to be paid in respect of each year F449[or part of a year] in that period to the Board or to a holder of a licence or an authorisation F450[or the holder of a permit under *section 37* of the Principal Act] shall be the amount of the additional costs certified by the Commission as having been incurred by the Board or such holder of a licence or an authorisation F450[or the holder of a permit under *section 37* of the Principal Act] in accordance with the order.
+
+F451[(6A) An order made under this section which, in accordance with *subparagraph (ii)* of *subsection (5)(*a*)*, provides for a payment referred to in that subparagraph shall provide that such payment shall be made in respect of a specified period and that the amount to be paid in respect of each year or part of a year by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act to a final customer shall be the amount of the additional benefits certified by the Commission as having been received by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act in accordance with the order.]
+
+(7) An order made under this section may—
+
+(*a*) impose requirements (whether as to the furnishing of records or other information or the affording of facilities for the examination and testing of meters or otherwise) on the Board F452[, the transmission system operator, the distribution system operator] and on holders of licences or authorisations,
+
+F453[(*b*) provide for the times at which any payments under *subsection (5)* are to be made,]
+
+(*c*) require the amount of any overpayment or underpayment which is made by or to any person to be set off against or added to any subsequent liability or entitlement of F454[that person,]
+
+F455[(*d*) without prejudice to the generality of *paragraph (*c*)*—
+
+(i) provide for estimated and actual additional costs to be included in the calculation of additional costs and estimated and actual additional benefits to be included in the calculation of additional benefits,
+
+(ii) provide for adjustment in the calculation of additional costs or additional benefits to account for—
+
+(I) over recovery or under recovery of additional costs, or
+
+(II) over recovery or under recovery of additional benefits,
+
+arising in a previous payment period or levy period (within the meaning of *subsection (5A)*)
+
+and
+
+(*e*) provide that payments referred to in *subsection (5)(*d*)(iii)* may be made to a final customer by way of credit given for purchase of electricity.]
+
+F456[(8) The Minister shall exercise the powers conferred by this section so as to ensure that the sums realised by F457[payments pursuant to *subsection (5)*] or otherwise are sufficient (after the payment of the administrative expenses, as certified by the Commission, of the Board and holders of licences or authorisations or holders of permits under *section 37* of the Principal Act incurred in the F458[collection of the payments]) to pay to the Board and holders of licences or authorisations or holders of permits under *section 37* of the Principal Act F459[, the distribution system operator and final customers] the payment required to be made by the order.]
+
+(9) The Minister may by order, amend or revoke an order made under this section including an order made under this subsection but such amendment or revocation shall be without prejudice to the continued operation of the order in respect of additional costs F460[or additional benefits] of the type referred to in *subsection (5)* which the Commission certifies in respect of each year or part thereof of the unexpired part of the specified period of years to have been reasonably incurred notwithstanding the amendment or revocation.
+
+(10) A draft of the order proposed to be made under this section shall be given by the Minister to the person or persons upon whom the obligation is to be imposed one month before the order is made.
+
+(11) For the purposes of orders made under this section, “public service obligation” means an obligation placed on electricity undertakings which takes account of general social, economic and environmental factors.
+
+F461[(12) In making an order under this section, the Minister shall have regard for the need for public service obligations to be imposed in a non-discriminatory and transparent manner.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F434: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*a*), subject to transitional provision in reg. 40.
+>
+> F435: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*b*), subject to transitional provision in reg. 40.
+>
+> F436: Substituted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*a*)(i), (iii), commenced on enactment.
+>
+> F437: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*b*), commenced on enactment.
+>
+> F438: Deleted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*a*)(ii), commenced on enactment.
+>
+> F439: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*b*), subject to transitional provision in reg. 40.
+>
+> F440: Substituted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*c*), subject to transitional provision in reg. 40.
+>
+> F441: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(i), S.I. No. 352 of 2022.
+>
+> F442: Inserted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*d*), commenced on enactment.
+>
+> F443: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(ii)(I), S.I. No. 352 of 2022.
+>
+> F444: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(ii)(II), S.I. No. 352 of 2022.
+>
+> F445: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(ii)(III), S.I. No. 352 of 2022.
+>
+> F446: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(iii)(I), S.I. No. 352 of 2022.
+>
+> F447: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(iii)(II), S.I. No. 352 of 2022.
+>
+> F448: Substituted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*e*)(ii), commenced on enactment.
+>
+> F449: Inserted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*e*)(iii), commenced on enactment.
+>
+> F450: Inserted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*e*)(i), commenced on enactment.
+>
+> F451: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(iv), S.I. No. 352 of 2022.
+>
+> F452: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(v)(I), S.I. No. 352 of 2022.
+>
+> F453: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(v)(II), S.I. No. 352 of 2022.
+>
+> F454: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(v)(III), S.I. No. 352 of 2022.
+>
+> F455: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(v)(IV), S.I. No. 352 of 2022.
+>
+> F456: Substituted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*f*), commenced on enactment.
+>
+> F457: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(vi)(I), S.I. No. 352 of 2022.
+>
+> F458: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(vi)(II), S.I. No. 352 of 2022.
+>
+> F459: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(vi)(III), S.I. No. 352 of 2022.
+>
+> F460: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*a*)(vii), S.I. No. 352 of 2022.
+>
+> F461: Inserted (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 22(*e*), subject to transitional provision in reg. 40.
+>
+> **Modifications (not altering text):**
+>
+> C39: Application of section modified (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 26, commenced as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> *Public service obligations*
+>
+> 26\. (1) For the purposes of an order made under section 39 of the Act of 1999 any obligation which the Commission is directed by the Minister to impose on the Board in relation to any functions assigned by virtue of these Regulations to:
+>
+> (*a*) the transmission system operator,
+>
+> (*b*) the distribution system operator, or
+>
+> (*c*) the transmission system owner,
+>
+> shall be regarded—
+>
+> (i) in the case of *subparagraph (*a*)*, as an obligation on the transmission system operator and not the Board,
+>
+> (ii) in the case of *subparagraph (*b*)* as an obligation on the distribution system operator licensed under section 14(1)(*g*) of the Act of 1999, and
+>
+> (iii) in the case of *subparagraph (*c*)* as an obligation on the transmission system owner licensed under section 14(1)(*f*) of the Act of 1999.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E117: Power pursuant to section exercised (17.12.2025) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2025* (S.I. No. 689 of 2025).
+>
+> E118: Power pursuant to section exercised (19.12.2024) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No. 2) Order 2024* (S.I. No. 756 of 2024).
+>
+> E119: Power pursuant to section exercised (25.07.2024) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No. 1) Order 2024* (S.I. No. 377 of 2024).
+>
+> E120: Power pursuant to section exercised (20.02.2023) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2023* (S.I. No. 119 of 2023).
+>
+> E121: Power pursuant to section exercised (16.10.2021) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2021* (S.I. No. 532 of 2021).
+>
+> E122: Power pursuant to section exercised (2.11.2020) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No. 2) Order 2020* (S.I. No. 500 of 2020).
+>
+> E123: Power pursuant to section exercised (27.02.2020) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2020* (S.I. No. 56 of 2020).
+>
+> E124: Power pursuant to section exercised (29.09.2019) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2019* (S.I. No. 497 of 2019).
+>
+> E125: Power pursuant to section exercised (27.09.2018) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2018* (S.I. No. 403 of 2018).
+>
+> E126: Power pursuant to section exercised (13.10.2017) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2017* (S.I. No. 459 of 2017).
+>
+> E127: Power pursuant to section exercised (8.12.2016) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2016* (S.I. No. 600 of 2016).
+>
+> E128: Power pursuant to section exercised (11.12.2015) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2015* (S.I. No. 556 of 2015).
+>
+> E129: Power pursuant to section exercised (19.12.2014) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2014* (S.I. No. 603 of 2014).
+>
+> E130: Power pursuant to section exercised (25.10.2013) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2013* (S.I. No. 421 of 2013).
+>
+> E131: Power pursuant to section exercised (31.10.2012) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2012* (S.I. No. 438 of 2012).
+>
+> E132: Power pursuant to section exercised (28.09.2011) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2011* (S.I. No. 513 of 2011).
+>
+> E133: Power pursuant to section exercised (3.11.2010) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2010* (S.I. No. 532 of 2010).
+>
+> E134: Power pursuant to section exercised (3.11.2009) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2009* (S.I. No. 444 of 2009).
+>
+> E135: Power pursuant to section exercised (18.07.2008) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2008* (S.I. No. 284 of 2008).
+>
+> E136: Power pursuant to section exercised (30.07.2007) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No 2) Order 2007* (S.I. No. 583 of 2007).
+>
+> E137: Power pursuant to section exercised (14.07.2007) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2007* (S.I. No. 582 of 2007).
+>
+> E138: Power pursuant to section exercised (5.08.2005) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No. 2) Order 2005* (S.I. No. 511 of 2005).
+>
+> E139: Power pursuant to section exercised (20.07.2005) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2005* (S.I. No. 380 of 2005).
+>
+> E140: Power pursuant to section exercised (21.04.2004) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2004* (S.I. No. 174 of 2004).
+>
+> E141: Power pursuant to section exercised (19.12.2002) by *Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) Order 2002* (S.I. No. 614 of 2002).
+>
+> E142: Power pursuant to section exercised (23.05.2002) by *Electricity Regulation Act 1999 (Public Service Obligations) Order 2002* (S.I. No. 217 of 2002).
+>
+> E143: Previous affecting provision: subs. (5)(*a*) amended (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No 60 of 2005), reg. 22(*d*), subject to transitional provision in reg. 40; subsection substituted as per F-note above.
+>
+> E144: Previous affecting provision: subs. (5)(*a*) amended (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*b*)(i), (*c*)(i), commenced on enactment; subsection substituted as per F-note above.
+>
+> E145: Previous affecting provision: subs. (5)(*b*) substituted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*b*)(ii), commenced on enactment; subsection substituted as per F-note above.
+>
+> E146: Previous affecting provision: subs. (5)(*c*) amended (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 32(*c*)(ii), commenced on enactment; subsection substituted as per F-note above.
+>
+> E147: Previous affecting provision: subs. (5)(*b*) substituted (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 26(3), in operation as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822; subsection substituted as per F-note above.
+
+### 40. Transitional arrangements.
+
+**40.**—(1) Where the Minister is satisfied that as a consequence of the implementation of Directive No. 96/92/EC of the European Parliament and of the Council of 19 December, 1996, the Board is unable to recover specified costs or revenue relating to a generating station constructed or under construction or reconstruction before the 19th day of February, 1997, he or she shall, after consultation with the Commission and the Commission of the European Communities, by order provide for the payment to the Board of an annual sum and for the recovery from final customers of the amounts so paid to the Board.
+
+(2) The sum referred to in *subsection (1)* shall be calculated in accordance with the order in respect of the annual specified amounts of unrecovered costs or revenue that may occur in each single year applied only to a specified period of years.
+
+(3) Notwithstanding the generality of *subsection (1)*, the Minister may by order provide for—
+
+(*a*) a levy on final customers in respect of electricity provided to such customers,
+
+(*b*) the collection of payments in that respect by the Board and holders of licences or authorisations, or holders of a permit under section 37 of the Principal Act,
+
+(*c*) the making of payments to the Board, out of such payments so collected,
+
+(*d*) a condition that any amount paid to the Board under the order shall be used for purposes specified in the order and that the Commission shall have the power to ascertain whether such a condition is being complied with,
+
+(*e*) conditions, in which a levy would be paid to the Board,
+
+(*f*) the recovery from the Board of an amount or part thereof paid to it under the order where it has not been used in accordance with the order, and
+
+(*g*) the certification by the Commission in respect of each year in the specified period of years that in that year the conditions specified in the order have been satisfied.
+
+(4) An order made under this section may—
+
+(*a*) impose requirements (whether as to the furnishing of records or other information or the affording of facilities for the examination and testing of meters or otherwise) on the Board,
+
+(*b*) provide for the times at which payments (whether payments by way of levy or payments to the Board) are to be made,
+
+(*c*) require the amount of any overpayment or underpayment which is made by or to any person to be set off against or added to any subsequent liability or entitlement of that person, and
+
+(*d*) provide for the date of termination of the arrangement provided for in the order.
+
+(5) The Minister shall exercise the powers conferred by this section so as to ensure that the sums realised by the levy are sufficient (after the payment of the administrative expenses of holders of licences to supply under *section 14* or of the Board incurred in the collection of the levy) to pay to the Board the payment required to be made by the order.
+
+(6) Subject to *subsection (7)*, the Minister may by order amend or revoke an order made under this section including an order made under this subsection.
+
+(7) The sum calculated in accordance with *subsection (2)* shall not be altered.
+
+(8) A draft of the order proposed to be made under *subsection (6)* shall be given to the Board by the Minister one month before the order is made.
+
+## PART VIA Emergency Measures in Event of Sudden Crisis — F462[PART VIA — Emergency Measures in Event of Sudden Crisis] — Annotations Amendments: Inserted (24.12.2006) by Energy (Miscellaneous Provisions) Act 2006 (40/2006), s. 9, commenced on enactment.
+
+### 40A. Emergency measures.
+
+F463[**40A.**—(1) In the event of a sudden crisis in the energy market and where the physical safety or security of persons, apparatus or installations, or the integrity of the natural gas or electricity transmission system or the natural gas or electricity distribution system is threatened the Minister may by order direct—
+
+(*a*) the Commission,
+
+(*b*) the holder of a licence under *section 14*,
+
+(*c*) a person referred to in *section 10A(2)*(*b*)*(i)*, *(ii)*, *(iii)* or *(iv)* of the Gas Act 1976,
+
+to take such safeguard measures as the Minister considers necessary, and the person to whom the order is directed shall comply with the direction.
+
+(2) In making an order under this section the Minister shall have regard to the objective that the measures subject to a direction under the order—
+
+(*a*) should cause the least possible disturbance to the functioning of the internal market in gas or electricity, and
+
+(*b*) are not wider in scope than is strictly necessary to remedy the sudden difficulties.
+
+(3) The Minister may by order, amend or revoke an order made under this section, including an order under this subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F463: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 9, commenced on enactment.
+
+## PART VIB Carbon Revenue Levy — F464[PART VIB — Carbon Revenue Levy] — Annotations Amendments: Inserted (30.06.2010) by Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010 (13/2010), s. 3, commenced on enactment
+
+### 40B. Interpretation (Part VIB).
+
+F465[**40B.**— In this Part—
+
+“allowance” has the meaning given to it by the Regulations of 2004;
+
+“CADA” has the same meaning as in the Electricity Regulation Act 1999 (Public Service Obligations) Order 2002 (S.I. No. 217 of 2002) (as amended by the Electricity Regulation Act 1999 (Public Service Obligations) (Amendment) (No. 2) Order 2007 (S.I. No. 583 of 2007));
+
+“carbon revenue levy” has the meaning given to it by *section 40D*;
+
+“electricity generator” means a person licensed under *section 14(1)*(*a*) to generate electricity;
+
+“emissions” has the meaning given to it by the Regulations of 2004;
+
+“installation” has the meaning given to it by the Regulations of 2004;
+
+“levy period” means—
+
+(*a*) a period of 3 months, and
+
+(*b*) in the case where the final levy period is less than 3 months, that period;
+
+“operator” has the meaning given to it by the Regulations of 2004;
+
+“qualifying generating station” has the meaning given to it by *section 40D*;
+
+“Regulations of 2004” means the European Communities (Greenhouse Gas Emissions Trading) Regulations 2004 (S.I. No. 437 of 2004);
+
+“relevant date” means the date of the passing of the Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010;
+
+“Single Electricity Market Trading and Settlement Code” means the code of that name established pursuant to *section 9BA(1)* and designated by the Commission pursuant to the Electricity Regulation Act 1999 (Single Electricity Market) Regulations 2007 (S.I. No. 406 of 2007), as from time to time revised, amended, supplemented or replaced;
+
+“tonne of carbon dioxide equivalent” has the meaning given to it by the Regulations of 2004.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F465: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40C. Application of Part VIB to certain electricity generators.
+
+F466[**40C.**—This Part applies to every electricity generator who—
+
+(*a*) is the operator of an installation that is in receipt of allowances issued by the Environmental Protection Agency pursuant to the Regulations of 2004, and
+
+(*b*) is bound by the Single Electricity Market Trading and Settlement Code.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F466: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40D. Carbon revenue levy.
+
+F467[**40D.**—(1) Each electricity generator shall, subject to and in accordance with this Part and any regulations made under this Part, pay to the Commission, in respect of the immediately preceding levy period, a levy (in this Part referred to as the “carbon revenue levy”) on such amount of the revenues received during that levy period by the electricity generator concerned, through participation in the Single Electricity Market, as is attributable to the emissions from each installation of which the electricity generator is the operator, which amount is calculated in accordance with the formula—
+
+E x P
+
+where—
+
+E is the total of the emissions, during the levy period concerned, from each installation of which the electricity generator concerned is the operator, calculated in accordance with the formula for the calculation of emissions set out in Schedule 4 to the Regulations of 2004, expressed in tonnes of carbon dioxide equivalent, and
+
+P is the simple arithmetic average of the daily price of allowances for the levy period concerned by reference to such index as may be determined by the Commission from time to time in accordance with *subsection (2)*.
+
+(2) When making a determination for the purposes of the construction of “P” in the formula in *subsection (1)*, the Commission shall have regard to such transparent and accessible pricing information relating to allowance trading, including the daily price thereof, as may be available and the Commission shall, as soon as practicable, publish the determination on its website.
+
+(3) The first levy period begins on the first day of the month immediately following the relevant date.
+
+(4) The carbon revenue levy shall be payable in accordance with this Part in respect of all levy periods up to and including the final levy period which ends on F468[the date of the passing of the Electricity Regulation (Carbon Revenue Levy) (Amendment) Act 2012].
+
+(5) Save in accordance with *subsection (6)*, no carbon revenue levy is payable by an electricity generator in respect of a generating station which is the subject of an order under *section 39*.
+
+(6) (*a*) This subsection applies to a generating station in respect of which the following conditions are complied with (in this Part referred to as a “qualifying generating station”)—
+
+(i) the generating station is the subject of an order under *section 39*, and
+
+(ii) the electricity generator who is the operator of the generating station concerned is a counterparty to a CADA.
+
+(*b*) For the purposes of the construction of “E” in the formula in *subsection (1)*, the total of the emissions, during the levy period concerned, calculated in accordance with the formula for the calculation of emissions set out in Schedule 4 to the Regulations of 2004, shall, in the case of a qualifying generating station, include only such portion of the emissions as is attributable to the quantity of electricity produced by the qualifying generating station—
+
+(i) in respect of which revenues are received during that levy period by the electricity generator concerned through participation in the Single Electricity Market, and
+
+(ii) in respect of which the electricity generator does not receive payments from the Board in accordance with the CADA.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F467: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+>
+> F468: Substituted (25.05.2012) by *Electricity Regulation (Carbon Revenue Levy) (Amendment) Act 2012* (15/2012), s. 1, commenced on enactment.
+
+### 40E. Calculation of amount of carbon revenue levy.
+
+F469[**40E.**—The amount of the carbon revenue levy payable by an electricity generator in respect of the immediately preceding levy period shall be calculated by reference to—
+
+(*a*) the amount calculated in accordance with the formula in *section 40D(1)*, and
+
+(*b*) the percentage rate provided for by *section 40F*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F469: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40F. Percentage rate.
+
+F470[**40F.**—(1) For the purpose of calculating the amount of the carbon revenue levy under *section 40E* and taking account of the fact that electricity generators, for the purposes of compliance with the Regulations of 2004, may require to purchase a proportion of their allowances, the percentage rate referred to in *section 40E(*b*)* shall be—
+
+(*a*) such percentage rate as stands specified by order under *subsection (2)*, or
+
+(*b*) where no amount stands so specified, 65 per cent.
+
+(2) (*a*) The Minister may, from time to time, review the percentage rate provided for by *subsection (1)* and may, subject to this section, having considered any representations made under *subsection (4)(*a*)*, by order provide for a percentage rate in lieu of the percentage rate provided for by *subsection (1)(*a*)* or the percentage rate specified in *subsection (1)(*b*)*.
+
+(*b*) The Minister may revoke an order under this subsection without providing for a percentage rate, in which case the percentage rate specified in *subsection (1)(*b*)* shall apply.
+
+(3) For the purposes of a review under this section the Minister shall have regard to—
+
+(*a*) the effect of the carbon revenue levy on electricity generators, and
+
+(*b*) such advice as the Commission may give to the Minister in relation to the competitiveness of electricity supplies and such other matters as the Commission considers appropriate or as the Minister may request.
+
+(4) (*a*) Before making an order under *subsection (2)*, the Minister, following consultation with the persons specified in *paragraph (*b*)* , shall publish a draft of the proposed order on the internet and by such other means as the Minister considers appropriate inviting persons to make representations in writing to the Minister in relation to the proposed order within 28 days from the date of publication on the internet.
+
+(*b*) For the purposes of *paragraph (*a*)*, the Minister shall consult with—
+
+(i) the Commission, and
+
+(ii) electricity generators,
+
+and may consult with such other persons as he or she considers appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F470: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40G. Returns to Commission.
+
+F471[**40G.**—(1) Each electricity generator shall make a return to the Commission within 10 working days of the end of each levy period, in the prescribed form and manner, of—
+
+(*a*) the total of the emissions, during the levy period concerned, from each installation of which the electricity generator is the operator, calculated in accordance with the formula for the calculation of emissions set out in Schedule 4 to the Regulations of 2004, expressed in tonnes of carbon dioxide equivalent,
+
+(*b*) in the case of a qualifying generating station, information relating to such portion of the total of the emissions referred to in *paragraph (*a*)* as is attributable to the quantity of electricity produced by the qualifying generating station—
+
+(i) in respect of which revenues are received during the levy period concerned by the electricity generator through participation in the Single Electricity Market, and
+
+(ii) in respect of which the electricity generator does not receive payments from the Board in accordance with the CADA,
+
+and
+
+(*c*) such other information as may be prescribed by the Commission for the purposes of this section relating to the verification of—
+
+(i) the calculation of the total of the emissions referred to in *paragraph (*a*)*, and
+
+(ii) in the case of a qualifying generating station, the portion of the total of the emissions as referred to in *paragraph (*b*)*.
+
+(2) The Commission may make regulations providing for all or any of the following matters:
+
+(*a*) the form and manner in which returns are to be made, including by electronic means, as appropriate;
+
+(*b*) requirements relating to the certification of returns by or on behalf of the electricity generator;
+
+(*c*) the information to be contained in returns relating to the verification of—
+
+(i) the calculation of the total of the emissions referred to in *subsection (1)(*a*)*, and
+
+(ii) in the case of a qualifying generating station, the portion of the total of the emissions as referred to in *subsection (1)(*b*)*;
+
+(*d*) such other matters as the Commission considers appropriate relating to the making of returns.
+
+(3) The Commission may request an electricity generator to give to the Commission such evidence as the Commission may reasonably require in order to verify any information, particulars or documents given to the Commission in respect of a return made under this section.
+
+(4) A request under *subsection (3)* shall be in such form as the Commission determines and shall specify a period of not less than 10 working days from the date of the request within which such evidence shall be given to the Commission.
+
+(5) A person commits an offence where he or she knowingly gives to the Commission under this section information which is false or misleading in a material respect.
+
+(6) A person convicted of an offence under *subsection (5)* is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000 or a term of imprisonment not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €15,000 or a term of imprisonment not exceeding 3 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F471: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E148: Power pursuant to section exercised (1.10.2010) by *Electricity Regulation (Amendment) (Carbon Levy) Act 2010 Regulations 2010* (S.I. No. 474 of 2010), in operation as per reg. 1(2).
+
+### 40H. Notice of amount of carbon revenue levy.
+
+F472[**40H.**—The Commission shall, within 10 working days of receipt of the return under *section 40G*, or within such longer period as the Commission may, in any particular case, determine, give to each electricity generator, in such form and manner as the Commission may determine, a notice in respect of the levy period concerned specifying—
+
+(*a*) the average of the daily price of allowances for the levy period concerned referred to in the construction of "P" in the formula in *section 40D(1)*,
+
+(*b*) the percentage rate provided for by *section 40F*,
+
+(*c*) the amount of the carbon revenue levy payable by the electricity generator, calculated in accordance with *section 40E*, in respect of each installation of which the electricity generator is the operator,
+
+(*d*) the date by which the carbon revenue levy is due and payable and the form and manner in which it is to be paid, including by electronic means, as appropriate, and
+
+(*e*) the consequences of non-payment of the carbon revenue levy.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F472: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40I. Payment of carbon revenue levy.
+
+F473[**40I.**—Within 15 working days after the date of the notice given under *section 40H*, each electricity generator shall pay to the Commission, in the form and manner specified in the notice, the amount of the carbon revenue levy payable by the electricity generator.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F473: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40J. Condition of licences granted under section 14(1)(a).
+
+F474[**40J.**—It shall be a condition of every licence granted under *section 14(1)(*a*)*, whether granted before or after the relevant date, that the holder of the licence complies with the requirements imposed by this Part on electricity generators in respect of the carbon revenue levy.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F474: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40K. Interest on unpaid amount of carbon revenue levy.
+
+F475[**40K.**—If all or any part of the amount of carbon revenue levy specified in a notice given under *section 40H* is not paid on or before the date specified in the notice as the date on which the amount becomes payable, interest on the unpaid amount accrues at a rate calculated in accordance with Regulation 5 of the European Communities (Late Payment in Commercial Transactions) Regulations 2002 (S.I. No. 388 of 2002) for each day or part of a day beginning on the day on which the amount should have been paid and ending on the day immediately before the day on which it is paid.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F475: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40L. Recovery of unpaid carbon revenue levy and interest.
+
+F476[**40L.**—The Commission may recover, as a simple contract debt in any court of competent jurisdiction, from the electricity generator by whom it is payable any amount due and owing to the Commission under this Part in respect of the carbon revenue levy and any interest that has accrued on that amount.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F476: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+
+### 40M. Proceeds of carbon revenue levy.
+
+F477[**40M.**—(1) The proceeds of the carbon revenue levy collected by the Commission under this Part shall be paid into an account, established by the Commission for the purposes of this section, which is separate from the Commission’s other accounts and moneys standing to the credit of that account shall not be used by the Commission other than in accordance with this section.
+
+(2) The Minister For Finance may direct, following consultation with the Minister, that such amount as the Minister for Finance may determine of any dividend referred to in section 7 of the Electricity (Supply) (Amendment) Act 2001 be paid into the account referred to in *subsection (1)*, in any financial year, in such manner as the Minister for Finance may direct under the said *section 7*.
+
+(3) The Minister may give a direction that such sum or sums as the Minister may specify, with the prior consent of the Minister for Finance, standing to the credit of the account referred to in *subsection (1)* shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister may direct following consultation with the Minister for Finance.
+
+(4) *Section 10A* shall not apply to any direction given by the Minister under *subsection (3)*.
+
+(5) The Commission shall manage and control the account referred to in *subsection (1)*.
+
+(6) The Commission shall—
+
+(*a*) keep in such form as may be approved by the Minister, with the consent of the Minister for Finance, all proper and usual accounts relating to the account referred to in *subsection (1)*, and
+
+(*b*) as soon as may be after the end of each financial year, submit the accounts to the Comptroller and Auditor General for audit and those accounts when so audited shall, together with—
+
+(i) the report of the Comptroller and Auditor General thereon, and
+
+(ii) a report of the Commission to the Minister in relation to the performance of its functions under this Part in the previous year,
+
+be presented as soon as may be after the end of the financial year to the Minister, who shall cause copies of the accounts and the reports referred to in *subparagraphs (i)* and *(ii)* to be laid before each House of the Oireachtas.]
+
+F478[(7) (*a*) The Minister may give a direction to the Commission to close the account referred to in *subsection (1)*.
+
+(*b*) The Commission shall—
+
+(i) close the account not later than 45 days after the date of the direction given under *paragraph (*a*)*, and
+
+(ii) pay moneys (if any) standing to the credit of the account as the Minister may direct under *subsection (3)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F477: Inserted (30.06.2010) by *Electricity Regulation (Amendment) (Carbon Revenue Levy) Act 2010* (13/2010), s. 3, commenced on enactment.
+>
+> F478: Inserted (7.10.2016) by *Energy Act 2016* (12/2016), s. 18, S.I. No. 509 of 2016.
+>
+> **Modifications (not altering text):**
+>
+> C40: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9. Note that the wording in the schedule table, column 3 implies that the change referred to is in the schedule, para. 40M. However, there is no such provision, and “Minister for Finance” is mentioned in s. 40M.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by *paragraph (1)* shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in *Schedule 1*, and
+>
+> (*b*) the statutory instruments specified in *Schedule 2*,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1999</td><td>Electricity Regulation Act 1999</td><td>Section 31(2); Schedule, paragraphs 1, 2, 10, 13, 21, 25, 30, 31, 33, 34, 35, 36 and 40M</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## PART VIIConsequential Repeals and Amendments — PART VII — Consequential Repeals and Amendments
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C41: Part applied with modifications (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 29, in operation as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> *Application of certain functions*
+>
+> 29\. (1) Any duty, obligation, or requirement on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator’s functions under these Regulations, shall also be regarded as a duty, obligation or requirement on the transmission system operator.
+>
+> (2) Any power conferred on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator's functions under these Regulations shall, to that extent, be regarded as a power conferred on the transmission system operator and not on the Board, other than where it is also necessary for the Board to discharge its functions as transmission system owner in which case that power shall be a power conferred on both the Board and the transmission system operator.
+>
+> (3) Any work commenced or being carried out by the Board for the purposes of any duty, obligation or requirement on the Board or in exercise of any power conferred on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator's functions under these Regulations, shall be continued and carried out by the transmission system operator.
+>
+> (4) In the event of a dispute between the transmission system owner and the transmission system operator over any matter in paragraph (1), (2) or (3), the matter in dispute shall be submitted to the Commission for decision. The Commission shall issue directions regarding its decision, as it sees fit, regarding the matter in dispute, and the transmission system owner and the transmission system operator shall comply with such directions.
+
+### 41. Repeals.
+
+**41.**—Sections 36 and 37 of the Principal Act are hereby repealed.
+
+### 42. Amendment of section 35 of Principal Act.
+
+**42.**—Section 35 of the Principal Act is hereby amended in subsection (1) by the insertion after “granted under this Act” of “or a licence granted under *section 14* of the *Electricity Regulation Act, 1999*,” and the subsection as so amended is set out in the Table to this section.
+
+TABLE
+
+(1) From and after the expiration of six months from the passing of this Act or such further period as may be fixed by the Board for any particular area, no person (other than the Board) shall sell electricity or supply electricity for sale unless he is an authorised undertaker or is a person authorised by a permit granted under this Act or a licence granted under *section 14* of the *Electricity Regulation Act, 1999*, to supply electricity.
+
+### 43. Amendment of section 45 of Principal Act.
+
+**43.**—Section 45 of the Principal Act is hereby amended in paragraph (*a*) of subsection (5) by the insertion after “the Board” of “or a holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, as the case may be” and the paragraph as so amended is set out in the Table to this section.
+
+TABLE
+
+(5) A special order made under this section may incorporate—
+
+(*a*) the Acquisition of Land (Assessment of Compensation) Act, 1919, with the modification that the expression “public authority” shall include the Board or a holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, as the case may be.
+
+### 44. Amendment of section 77 of Principal Act.
+
+**44.**—Section 77 of the Principal Act is hereby amended by the substitution for that section of the following section:
+
+<table><tr><td rowspan="3">“Payment by local authorities of expenses of certain alterations.</td><td>77.—Whenever a local authority on account of or for the purpose of an alteration to a road or bridge—</td></tr><tr><td>(<i>a</i>) requires an authorised undertaker or a holder of an authorisation under <i>section 16</i> of the <i>Electricity Regulation Act, 1999</i>, or the holder of a direct line permission under <i>section 37</i> of the <i>Electricity Regulation Act, 1999</i>, to alter the position or depth of underground electrical wires, mains, or other electrical works or the position of poles or other structures carrying electrical wires or mains or other above ground electrical works, or</td></tr><tr><td>(<i>b</i>) requires the Board to alter the position or depth of any such underground electrical works or the position of any such above ground electrical works as aforesaid belonging to or under the control of the Board,</td></tr><tr><td></td><td>the expenses incurred by such authorised undertaker or holder of an authorisation under <i>section 16</i> of the <i>Electricity Regulation Act, 1999</i>, or holder of a direct line permission under <i>section 37</i> of the <i>Electricity Regulation Act, 1999</i>, or by the Board, as the case may be, in complying with such requisition shall be paid to such authorised undertaker or holder of an authorisation under <i>section 16</i> of the <i>Electricity Regulation Act, 1999</i>, or holder of a direct line permission under <i>section 37</i> of the <i>Electricity Regulation Act, 1999</i>, or to the Board, as the case may require, by such local authority or, demand as part of the expenses of the maintenance of such road or bridge and the amount of such expenses so to be paid to such authorised undertaker or holder of an authorisation under <i>section 16</i> of the <i>Electricity Regulation Act, 1999</i>, or holder of a direct line permission under <i>section 37</i> of the <i>Electricity Regulation Act, 1999</i>, or to the Board shall be fixed by an arbitrator appointed by the Commission for Electricity Regulation established under <i>section 8</i> of the <i>Electricity Regulation Act, 1999</i>.”.</td></tr></table>
+
+### 45. Amendment of section 98 of Principal Act.
+
+**45.**—Section 98 of the Principal Act is hereby amended by the substitution for that section of the following section:
+
+| “Lopping of trees by Board, an authorised undertaker or holder of an authorisation. | 98.—(1) The Board, an authorised undertaker or a holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, or holder of a direct line permission under *section 37* of the *Electricity Regulation Act, 1999*, as the case may be, may, taking due care and attention to avoid unneccessary damage, lop or cut any tree, shrub or hedge which obstructs or interferes with any electrical wires of the Board or of such authorised undertaker or holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, or holder of a direct line permission under *section 37* of the *Electricity Regulation Act, 1999*, as the case may be, or with the erection or laying of any such electrical wires or with the survey of the proposed route of any transmission or distribution lines of the Board or of such authorised undertaker or of any electric wire of a holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, or holder of a direct line permission under *section 37* of the *Electricity Regulation Act, 1999.* |
+|---|---|
+|  | (2) Before lopping or cutting any tree, shrub or hedge under this section the Board or an authorised undertaker or a holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999*, or holder of a direct line permission under *section 37* of the *Electricity Regulation Act, 1999*, as the case may be, shall give to the occupier of the land or in the case of a road or street to the local authority charged with the maintenance of such road or street on which such tree, shrub or hedge is standing, seven days notice of its intention to lop or cut the same and such occupier or local authority may if he or it, as the case may be, so desires and so informs the Board or such authorised undertaker or holder of an authorisation, as the case may be, within seven days himself or itself carry out such lopping or cutting. |
+|  | (3) When the occupier of land cuts or lops any tree, shrub or hedge under this section the expense incurred by him in so doing shall be paid to him on demand by the Board or such authorised undertaker or holder of an authorisation under *section 16* of the *Electricity Regulation Act, 1999,* or holder of a direct line permission under *section 37* of the *Electricity Regulation Act, 1999,* as the case may be, and the amount of such expenses shall, in default of agreement, be fixed by an arbitrator appointed by the Commission for Electricity Regulation established under *section 8* of the *Electricity Regulation Act, 1999*.”. |
+
+### 46. Amendment of Freedom of Information Act, 1997.
+
+**46.**—The First Schedule of the Freedom of Information Act, 1997, is hereby amended by the inclusion in paragraph 1(2) of the following—
+
+“the Commission for Electricity Regulation,”.
+
+## PART VIIIMiscellaneous — PART VIII — Miscellaneous
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C42: Part applied with modifications (20.06.2001) by *European Communities (Internal Market in Electricity) Regulations 2000* (S.I. No. 445 of 2000), reg. 29, in operation as per reg. 1(2)(*b*) and notice in Iris Oifigiúil of 22 June 2001, No. 50 p. 822.
+>
+> *Application of certain functions*
+>
+> 29\. (1) Any duty, obligation, or requirement on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator’s functions under these Regulations, shall also be regarded as a duty, obligation or requirement on the transmission system operator.
+>
+> (2) Any power conferred on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator's functions under these Regulations shall, to that extent, be regarded as a power conferred on the transmission system operator and not on the Board, other than where it is also necessary for the Board to discharge its functions as transmission system owner in which case that power shall be a power conferred on both the Board and the transmission system operator.
+>
+> (3) Any work commenced or being carried out by the Board for the purposes of any duty, obligation or requirement on the Board or in exercise of any power conferred on the Board under Part VII and Part VIII of the Act of 1999 necessary for the discharge of the transmission system operator's functions under these Regulations, shall be continued and carried out by the transmission system operator.
+>
+> (4) In the event of a dispute between the transmission system owner and the transmission system operator over any matter in paragraph (1), (2) or (3), the matter in dispute shall be submitted to the Commission for decision. The Commission shall issue directions regarding its decision, as it sees fit, regarding the matter in dispute, and the transmission system owner and the transmission system operator shall comply with such directions.
+
+### 47. Compulsory acquisition of land by Commission, etc.
+
+**47.**—(1) Subject to *subsection (2)* the power to make a special order conferred on the Board by section 45(1) of the Principal Act shall be exerciseable by the Commission and not by the Board on the application of the Board or a holder of an authorisation or a person who has applied for an authorisation and any references in that Act to the making of special orders shall be construed as references to the making of such orders by the Commission.
+
+(2) A special order made by the Commission shall operate to confer on an applicant for an authorisation under *section 16* the functions which such an order would confer on the Board.
+
+(3) Where an application is made to the Commission for a special order under this section, section 45(2) to (6) of the Principal Act shall apply to the Commission as it does to the Board.
+
+### 48. Construction of sections 51 and 52(1) of Principal Act.
+
+**48.**—The power to lay electric lines conferred on the Board by section 51 and section 52(1) of the Principal Act may, with the consent of the Commission, also be exercised by the holder of an authorisation or the holder of a direct line permission under *section 37* and the said section 51 and 52(1) shall apply to the holder of an authorisation or the holder of a direct line permission under the said *section 37* in like manner as they apply to the Board.
+
+### 49. Construction of section 53 of Principal Act.
+
+**49.**—A holder of an authorisation or the holder of a direct line permission may, with the consent of the Commission, for the purposes of such authorisation, exercise the powers conferred on the Board by subsections (1) to (5) and (9) of section 53 of the Principal Act and references to the Board in those subsections shall be construed as including references to a holder of an authorisation.
+
+### 50. Construction of section 54 of Principal Act.
+
+**50.**—(1) Subject to *subsection (2)*, references in section 54 of the Principal Act to an authorised undertaker shall include references to the holder of an authorisation or the holder of a direct line permission under *section 37.*
+
+(2) Where regulations made before the commencement of this section are made by the Board under the Principal Act which regulate the placing of electric lines across or along or either over or under any railway, land, inland navigation, dock or harbour those regulations shall apply to the holder of an authorisation or the holder of a direct line permission under *section 37.*
+
+(3) The Board shall not amend regulations to which *subsection (2)* applies without the consent of the Commission.
+
+(4) The Commission may prescribe modifications to regulations referred to in *subsection (2)* for the purposes of enabling their application to the holder of an authorisation or the holder of a direct line permission under *section 37*.
+
+### 51. Construction of section 91 of Principal Act.
+
+**51.**—Section 91 of the Principal Act shall apply to the holder of an authorisation or the holder of a direct line permission under *section 37* in like manner as it applies to an authorised undertaker and references to the Board shall be construed as references to the Commission for that purpose.
+
+### 52. Application of certain regulations.
+
+**52.**—Regulations made by the Board before the commencement of this section under section 2 of the Electricity (Supply) (Amendment) Act, 1949, shall have effect in respect of persons to whom licences or authorisations have been granted under this Act or in respect of eligible customers.
+
+### 53. Amendment of section 2(2) of Electricity (Supply) (Amendment) Act, 1949.
+
+**53.**—Section 2 of the Electricity (Supply) (Amendment) Act, 1949, is hereby amended by the substitution of the following subsection for subsection (2):
+
+“(2) Where the Board proposes to make regulations under this section the purposes of which are not solely connected with the procedure, administration or internal direction of the Board, it shall submit the regulations to the Commission for approval and the Commission may—
+
+(*a*) approve of the regulations with or without amendments, or
+
+(*b*) refuse to approve of the regulations until amendments specified by the Commission are made by the Board.”.
+
+### 54. Repeal of section 2(3), (4) and (6) of Electricity (Supply) (Amendment) Act, 1949.
+
+**54.**— Section 2(3), (4) and (6) of the Electricity (Supply) (Amendment) Act, 1949, is hereby repealed.
+
+## PART IXPower to Carry Out Investigations and Impose Administrative Sanction — F479[PART IX — Power to Carry Out Investigations and Impose Administrative Sanction] — Annotations Amendments: Inserted (28.04.2017) by Energy Act 2016 (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 55. Definitions (Part IX and Schedule 4)
+
+F480[**55.**—In this Part and *Schedule 4*—
+
+“improper conduct ”means—
+
+(*a*) failure by the holder of a licence under *subsection (1)(*b*)* of *section 14* to comply, under *subsection (2M)(*b*)* of that section, with such standards of performance as may be specified by the Commission under *subsection (2M)(*a*)* of that section in the licence concerned,
+
+(*b*) failure by the holder of a licence under *section 14(1)(*e*)*, *(*g*)* or *(*h*)*, as the case may be, to comply, under Regulation 26(1) of the European Communities (Internal Market in Electricity) Regulations 2005 (S.I. No. 60 of 2005), with such standards of performance as may be specified by the Commission under Regulation 26(2) of those Regulations in the licence concerned,
+
+(*c*) failure by an interconnector operator to comply with the determination of the Commission under *section 34A(5)*,
+
+(*d*) failure, by the holder of a licence under section 16*(1)(*a*)* of the Gas (Interim) (Regulation) Act 2002, under *section 16(1F)* of that Act, to keep, and make available on a request being made, data relating to transactions in gas supply contracts and gas derivatives with wholesale customers, transmission system operators and storage and LNG operators, or
+
+(*e*) failure by the holder of a licence under *subsection (1)(*a*)*, *(*c*)* or *(*d*)* of section 16 of the Gas (Interim) (Regulation) Act 2002 to comply, under *subsection (4A)(*b*)* of that section, with such standards of performance as may be specified by the Commission under *subsection (4A)(*a*)* of that section in the licence concerned;
+
+“inspector ”means a person appointed under *section 56(1)* to be an inspector for the purposes of this Part;
+
+“investigation ”means an investigation under *section 57(1)*;
+
+“investigation report”, in relation to an investigation, means a report in writing prepared, following the completion of the investigation, by the inspector appointed under *section 57(2)* to carry out the investigation;
+
+“major sanction ”means—
+
+(*a*) a direction to a specified body that the specified body pay a sum, as specified in the direction, but not exceeding €50,000, to the Commission, being the whole or a part of the cost to the Commission of an investigation of the specified body,
+
+(*b*) a direction to a specified body that the specified body pay a sum, as specified in the direction, but not exceeding 10 per cent of the turnover of the specified body, to the Commission by way of a financial penalty for improper conduct, by the specified body, specified in the direction, or
+
+(*c*) any combination of the sanctions specified in *paragraphs (*a*)* and *(*b*)*;
+
+“minor sanction ”means—
+
+(*a*) the issue, to a specified body, of—
+
+(i) advice,
+
+(ii) a caution,
+
+(iii) a warning, or
+
+(iv) a reprimand,
+
+or
+
+(*b*) any combination of any of the sanctions specified in *paragraph (*a*)* ;
+
+“premises” includes vessel, aircraft, vehicle and any other means of transport, as well as land and any other fixed or movable structure;
+
+“specified body ”means a person referred to in any of *paragraphs (*a*)* to *(*e*)* of the definition in this section of “improper conduct”;
+
+“turnover” means, in relation to a specified body, the turnover of the body in the financial year of the body ending immediately before the financial year in which the improper conduct took place.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F480: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 56. Appointment of inspectors
+
+F481[**56.**—(1) For the purposes of this Part—
+
+(*a*) the Commission may appoint such members of its staff as it thinks fit to be inspectors for such period and subject to such terms as the Commission may determine,
+
+(*b*) the Commission may appoint such other persons as it thinks fit to be inspectors for such period and subject to such terms (including terms as to remuneration and allowances for expenses) as the Commission, with the approval of the Minister and the consent of the Minister for Public Expenditure and Reform, may determine.
+
+(2) Each inspector shall, on his or her appointment, be furnished with a certificate of appointment and, when exercising a power conferred on him or her or performing any function imposed by this Part, shall, if requested by any person thereby affected, produce the certificate or a copy of it, to that person for inspection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F481: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 57. Investigation
+
+F482[**57.**—(1) Where the Commission considers it is necessary to do so for the purpose of the performance of any of the functions conferred on it by or under this Act or any other Act of the Oireachtas, the Commission may cause such investigation as it thinks fit to be carried out to identify any improper conduct by a specified body.
+
+(2) For the purposes of the investigation, the Commission shall appoint an inspector, subject to such terms as it thinks fit—
+
+(*a*) to carry out the investigation, and
+
+(*b*) to submit to the Commission an investigation report following the completion of the investigation.
+
+(3) The terms of appointment of an inspector may define the scope of the investigation to be carried out by the inspector, whether as respects the matters or the period to which it is to extend or otherwise, and in particular may limit the investigation to matters connected with particular circumstances.
+
+(4) Where more than one inspector has been appointed to carry out an investigation, the investigation report shall be prepared jointly by the inspectors so appointed and this Part shall, with all necessary modifications, be construed accordingly.
+
+(5) Where the Commission has appointed an inspector to carry out an investigation, the inspector shall, as soon as is practicable after being so appointed—
+
+(*a*) give notice in writing to the specified body concerned of the matters to which the investigation relates, and
+
+(*b*) give the specified body—
+
+(i) copies of any documents relevant to the investigation, and
+
+(ii) a copy of this Part,
+
+and
+
+(*c*) without prejudice to the generality of *section 58*, afford the specified body an opportunity to respond within 30 days from the date on which it received the notice referred to in *paragraph (*a*)*, or such further period not exceeding 30 days as the inspector allows, to the matter to which the investigation relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F482: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 58. Powers of inspectors
+
+F483[**58.**—(1) For the purposes of an investigation, an inspector may—
+
+(*a*) subject to *subsections (13)* and *(14)*, at all reasonable times enter, inspect, examine and search any premises at, in or by means of, which any activity of a specified body, authorised by or under any enactment or by any licence or authorisation held by the specified body, is carried on,
+
+(*b*) subject to *subsections (13)* and *(14)*, at all reasonable times enter, inspect, examine and search any dwelling occupied by—
+
+(i) a specified body, or
+
+(ii) a director, manager or any member of staff of a specified body,
+
+that carries on an activity referred to in *paragraph (*a*)*, being a dwelling as respects which there are reasonable grounds to believe records, books, accounts or other documents relating to the carrying on of that activity are being kept in it,
+
+(*c*) without prejudice to any other power conferred by this subsection, require any person found in or on any premises referred to in any of the preceding paragraphs or any person in charge of or in control of such premises or directing any activity therein referred to in *paragraph (*a*)* to produce any records, books, accounts or other documents which it is necessary for the inspector to see for the purposes of the investigation (and the inspector may inspect, examine and copy any such records, books, accounts or other documents so produced or require any such person to provide a copy of them or of any entries in them to the inspector),
+
+(*d*) require any person referred to in *paragraph (*c*)* to afford such facilities and assistance within the person’s control or responsibilities as are reasonably necessary to enable the inspector to exercise any of the powers conferred on the inspector under *paragraph (*a*)*, *(*b*)* or *(*c*)*,
+
+(*e*) require any person by whom or on whose behalf data equipment is, or has been, used in connection with an activity referred to in *paragraph (*a*)*, or any person having charge of, or otherwise concerned with the operation of, such data equipment or any associated apparatus or material, to afford the inspector all reasonable assistance in respect of its use,
+
+(*f*) require the specified body or the specified body’s employee or agent to give such authority in writing addressed to any bank that the inspector requires for the purpose of enabling the inspection of any account or accounts opened, or caused to be opened, by the specified body at such bank (or any documents relating thereto) and to obtain from such bank copies of such documents relating to such account or accounts for such period or periods as the inspector deems necessary to fulfil that purpose, and
+
+(*g*) be accompanied by a member of the Garda Síochána if there is reasonable cause to apprehend any serious obstruction in the performance of any of the inspector’s functions under this subsection.
+
+(2) A requirement under *subsection (1)(*c*)*, *(*d*)*, *(*e*)* or *(*f*)* shall specify a period within which, or a date and time on which, the person the subject of the requirement is to comply with it.
+
+(3) For the purposes of an investigation, an inspector—
+
+(*a*) may require a person who, in the inspector’s opinion—
+
+(i) possesses information that is relevant to the investigation, or
+
+(ii) has any records, books, accounts or other documents within that person’s possession or control or within that person’s procurement that are relevant to the investigation,
+
+to provide that information or those records, books, accounts or other documents, as the case may be, to the inspector, and
+
+(*b*) where the inspector thinks fit, may require that person to attend before the inspector for the purpose of so providing that information or those records, books, accounts or other documents, as the case may be,
+
+and the person shall comply with the requirement.
+
+(4) A requirement under *subsection (3)* shall specify—
+
+(*a*) a period within which, or a date and time on which, the person the subject of the requirement is to comply with it, and
+
+(*b*) as the inspector concerned thinks fit—
+
+(i) the place at which the person shall attend to give the information concerned or to which the person shall deliver the records, books, accounts or other documents concerned, or
+
+(ii) the place to which the person shall send the information or the records, books, accounts or other documents concerned.
+
+(5) A person required to attend before an inspector under *subsection (3)*—
+
+(*a*) is also required to answer fully and truthfully any question put to the person by the inspector, and
+
+(*b*) if so required by the inspector, shall answer any such question under oath.
+
+(6) Where it appears to an inspector that a person has failed to comply or fully comply with a requirement under *subsection (1)*, *(3)* or *(5)*, the inspector may, on notice to that person and with the consent of the Commission, apply in a summary manner to the Circuit Court for an order under *subsection (7)*.
+
+(7) Where satisfied after hearing the application about the person’s failure to comply or fully comply with the requirement in question, the Circuit Court may, subject to *subsection (10)*, make an order requiring that person to comply or fully comply, as the case may be, with the requirement within a period specified by the Court.
+
+(8) An application under *subsection (6)* to the Circuit Court shall be made to a judge of that Court for the circuit in which the person the subject of the application ordinarily resides or carries on any profession, business or occupation.
+
+(9) The administration of an oath referred to in *subsection (5)(*b*)* by an inspector is hereby authorised.
+
+(10) A person the subject of a requirement under *subsection (1)*, *(3)* or *(5)* shall be entitled to the same immunities and privileges in respect of compliance with such requirement as if the person were a witness before the High Court.
+
+(11) Any statement or admission made by a person pursuant to a requirement under *subsection (1)*, *(3)* or *(5)* is not admissible against that person in criminal proceedings other than criminal proceedings for an offence under *subsection (17)*, and this shall be explained to the person in ordinary language by the inspector concerned.
+
+(12) Nothing in this section shall be taken to compel the production by any person of any records, books, accounts or other documents which he or she would be exempt from producing in proceedings in a court on the ground of legal professional privilege.
+
+(13) An inspector shall not, other than with the consent of the occupier, enter a private dwelling without a warrant issued under *subsection (14)* authorising the entry.
+
+(14) A judge of the District Court, if satisfied on the sworn information of an inspector that—
+
+(*a*) (i) there are reasonable grounds for suspecting that any information is, or records, books, accounts or other documents required by an inspector under this section are, held on any premises or any part of any premises, and
+
+(ii) an inspector, in the performance of functions under *subsection (1)*, has been prevented from entering the premises or any part thereof,
+
+or
+
+(*b*) it is necessary that the inspector enter a private dwelling and exercise therein any of his or her powers under this section,
+
+may issue a warrant authorising the inspector, accompanied if necessary by other persons, at any time or times within 30 days from the date of issue of the warrant and on production if so requested of the warrant, to enter, if need be by reasonable force, the premises or part of the premises concerned and perform all or any such functions and exercise all or any such powers.
+
+(15) For the purposes of an investigation, an inspector may, if he or she thinks it proper to do so, of his or her own volition or at the request of the specified body to whom the investigation relates, conduct an oral hearing.
+
+(16) Part 1 of Schedule 4 shall have effect for the purposes of an oral hearing referred to in *subsection (15)*.
+
+(17) Subject to *subsection (12)*, a person who—
+
+(*a*) withholds, destroys, conceals or refuses to provide any information or records, books, accounts or other documents required for the purposes of an investigation,
+
+(*b*) fails or refuses to comply with any requirement of an inspector under this section, or
+
+(*c*) otherwise obstructs or hinders an inspector in the performance of functions conferred by or under this Part,
+
+commits an offence and is liable—
+
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(18) Subject to *subsection (19)*, where a specified body is convicted summarily of an offence under *subsection (17)*, the court may, after having regard to the nature of the offence and the circumstances in which it was committed, order that any licence or authorisation held by the specified body be revoked and that the former holder be prohibited (which may be a permanent prohibition, a prohibition for a specified period or a prohibition subject to specified conditions) from applying for any new licence or authorisation or a particular class of new licence or authorisation.
+
+(19) An order under *subsection (18)* shall not take effect until—
+
+(*a*) the ordinary time for bringing an appeal against the conviction concerned or the order has expired without any such appeal having been brought,
+
+(*b*) such appeal has been withdrawn or abandoned, or
+
+(*c*) on any such appeal, the conviction or order, as the case may be, is upheld.
+
+(20) Subject to *subsection (21)*, where a specified body is convicted on indictment of an offence under *subsection (17)*, the court shall order that all licences and authorisations held by the specified body be revoked and that the former holder be permanently prohibited from applying for any new licence or authorisation.
+
+(21) An order under *subsection (20)* shall not take effect until—
+
+(*a*) the ordinary time for bringing an appeal against the conviction concerned has expired without any such appeal having been brought,
+
+(*b*) any such appeal has been withdrawn or abandoned, or
+
+(*c*) on any such appeal, the conviction is upheld.
+
+(22) In this section, “records, books, accounts or other documents” includes copies of records, books, accounts or other documents.
+
+(23) In this section where records, books, accounts or other documents are held or maintained in electronic form, the obligation to produce or provide records, books, accounts or other documents includes an obligation to provide those records, books, accounts or other documents in a legible and comprehensible printed form.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F483: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+
+### 59. Actions to be taken by inspector upon completion of investigation
+
+F484[**59.**—(1) Subject to *subsection (3)*, where an inspector has completed an investigation, the inspector shall, as soon as is practicable after having considered, in so far as they are relevant to the investigation, any information or records, books, accounts or other documents provided to the inspector pursuant to any requirement under *section 58* or any statement or admission made by any person pursuant to any requirement under that section, any submissions made and any evidence presented (whether at an oral hearing referred to in *section 58(15)* or otherwise)—
+
+(*a*) prepare a draft of the investigation report, and
+
+(*b*) give to the specified body to whom the investigation relates—
+
+(i) a copy of the draft of the investigation report,
+
+(ii) a copy of this section, and
+
+(iii) a notice in writing stating that the specified body may, not later than 30 days from the date on which it received the notice, or such further period not exceeding 30 days as the inspector allows, make submissions in writing to the inspector on the draft of the investigation report.
+
+(2) Subject to *subsection (3)*, an inspector who has complied with *subsection (1)* following the completion of an investigation shall, as soon as is practicable after—
+
+(*a*) the expiration of the period referred to in *subsection (1)(*b*)(iii)*, and
+
+(*b*) having—
+
+(i) considered the submissions (if any) referred to in *subsection (1)(*b*)(iii)* made before the expiration of that period on the draft of the investigation report concerned, and
+
+(ii) made any revisions to the draft of the investigation report which, in the opinion of the inspector are warranted following such consideration,
+
+prepare the final form of the investigation report and submit it to the Commission along with any such submissions annexed to the report.
+
+(3) Where an inspector states, whether in a draft of the investigation report or in the final form of the investigation report, that he or she is satisfied that improper conduct by the specified body to whom the investigation relates has occurred or is occurring, the inspector shall not make any recommendation, or express any opinion, in the report as to any major sanction or any minor sanction, as the case may be, that he or she thinks ought to be imposed on the specified body in respect of such improper conduct in the event that the Commission is also satisfied that improper conduct by the specified body has occurred or is occurring.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F484: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 60. Actions to be taken by Commission on receipt of investigation report
+
+F485[**60.**—(1) On receipt of an investigation report submitted to it by an inspector in accordance with *section 59(2)*, the Commission shall consider the report and any submissions annexed to it.
+
+(2) Subject to *subsection (3)*, where the Commission has considered an investigation report (and any submissions annexed to it) under *subsection (1)*, the Commission—
+
+(*a*) if it is satisfied that improper conduct by the specified body to whom the investigation relates has occurred or is occurring, shall, subject to *subsection (6)* and *section 61*—
+
+(i) impose a minor sanction on the specified body, or
+
+(ii) impose a major sanction on the specified body,
+
+as it thinks fit in the circumstances of the case,
+
+(*b*) if it is not satisfied that improper conduct has occurred or is occurring but is of the opinion that a further investigation of the specified body is warranted, shall cause the further investigation to be carried out pursuant to its powers under *section 57*, or
+
+(*c*) if it is not satisfied that improper conduct has occurred or is occurring and is not of the opinion that a further investigation of the specified body is warranted, shall take no further action.
+
+(3) Where the Commission has considered an investigation report (and any submissions annexed to it) in accordance with *subsection (1)*, the Commission may, if it considers it proper to do so for the purposes of assisting it to make a decision under *subsection (2)*, or for the purposes of observing fair procedures, for those purposes—
+
+(*a*) conduct an oral hearing, or
+
+(*b*) give to the specified body to whom the investigation concerned relates—
+
+(i) a copy of the investigation report, and
+
+(ii) a notice in writing stating that the specified body may, not later than 30 days from the date it received the notice, or such further period not exceeding 30 days as the Commission allows, make submissions in writing to the Commission on the investigation report.
+
+(4) *Part 2* of *Schedule 4* shall have effect for the purposes of an oral hearing referred to in *subsection (3)(*a*)*.
+
+(5) The Commission shall, as soon as is practicable after making a decision under *subsection (2)*, give notice in writing of the decision and the reasons for the decision to the specified body to whom the investigation concerned relates and, if *subsection (2)(*a*)* applies in the case of that specified body, set out in that notice—
+
+(*a*) the minor sanction or major sanction imposed on the specified body for the improper conduct specified in the notice in respect of which the Commission is satisfied as referred to in that subsection, and
+
+(*b*) the reasons for the imposition of such minor sanction or major sanction, as the case may be.
+
+(6) Where *subsection (2)(*a*)* applies in the case of a specified body the Commission shall, in deciding the sanction to be imposed on the specified body, take into consideration the matters referred to in *section 65*.
+
+(7) The Commission may publish particulars, in such form and manner and for such period as it thinks fit, of any imposition of any major sanction or any minor sanction, as the case may be, on a specified body pursuant to a decision confirmed or given under *section 62* or *63*, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F485: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 61. Confirmation of High Court required before decision to impose sanction takes effect
+
+F486[**61.**—A decision under *section 60(2)* to impose a major sanction on a specified body shall not take effect unless the decision is confirmed by the High Court under *section 62* or *63*, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F486: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 62. Appeal to High Court against decision to impose major sanction
+
+F487[**62.**—(1) A specified body, the subject of a decision under *section 60(2)(*a*)* to impose a major sanction, may, not later than 30 days from the date the specified body received the notice under *section 60(5)*, appeal to the High Court against the decision.
+
+(2) The High Court may, on the hearing of an appeal by a specified body under *subsection (1)*, consider any evidence adduced or argument made, whether or not adduced or made to an inspector or the Commission.
+
+(3) Subject to *subsection (4)*, the High Court may, on the hearing of an appeal by a specified body under *subsection (1)*—
+
+(*a*) either—
+
+(i) confirm the decision the subject of the appeal, or
+
+(ii) cancel that decision and replace it with such other decision as the Court considers appropriate, which may be a decision—
+
+(I) to do either or both of the following:
+
+(*a*) impose a different major sanction on the specified body;
+
+(*b*) impose a minor sanction on the specified body,
+
+or
+
+(II) to impose neither a major sanction nor a minor sanction on the specified body,
+
+and
+
+(*b*) whether *paragraph (*a*)(i)* or *(ii)* is applicable, make such order as to costs as it thinks fit in respect of the appeal.
+
+(4) The High Court shall, for the purposes of *subsection (3)(*a*)(i)* or *(ii)(I)*, take into consideration the matters referred to in *section 65*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F487: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 63. Application to High Court to confirm decision to impose major sanction
+
+F488[**63.**—(1) Where a specified body does not, within the period allowed under *section 62(1)*, appeal to the High Court against a decision under *section 60(2)(*a*)* to impose a major sanction on the specified body, the Commission shall, as soon as is practicable after the expiration of that period by motion on notice to the specified body make an application in a summary manner to the High Court for confirmation of the decision.
+
+(2) The High Court shall, on the hearing of an application under *subsection (1)*, confirm the decision under *section 60(2)(*a*)* unless the Court considers that there is good reason not to do so.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F488: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 64. Provisions supplemental to decisions of High Court
+
+F489[**64.**—(1) The decision of the High Court on an appeal under *section 62* or an application made under *section 63* is final except that the Commission or the specified body the subject of the decision may, by leave of the Court or the Court of Appeal, appeal against the decision to the Court of Appeal on a specified question of law.
+
+(2) Where the High Court confirms or gives a decision under *section 62(3)* or *63(2)*, the Commission shall, as soon as is practicable after the decision is confirmed or given, as the case may be, give notice in writing of the decision to the specified body the subject of the decision.
+
+(3) Any amount specified in paragraph (*a*) or (*b*) of the definition of “major sanction” in *section 55* due to the Commission pursuant to a decision confirmed or given under *section 62(3)* or *63(2)*, as the case may be, by the High Court shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform may direct.
+
+(4) The Commission may recover, as a simple contract debt in any court of competent jurisdiction, from the person by whom it is payable any amount due and owing to the Commission pursuant to a decision confirmed or given under *section 62(3)* or *63(2)*, as the case may be, by the High Court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F489: Inserted (28.04.2014) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 65. Matters to be considered in determining sanction to be imposed
+
+F490[**65.**—The Commission or the High Court, as appropriate, in considering—
+
+(*a*) the minor sanction or major sanction to be imposed on a specified body pursuant to *section 60(2)(*a*)*, or
+
+(*b*) the minor sanction or major sanction (if any) to be imposed on a specified body pursuant to a decision confirmed or given under *section 62(3)* or *63(2)*, as the case may be,
+
+shall take into account the circumstances of the improper conduct concerned (including the factors occasioning it) and, without prejudice to the generality of the foregoing, may have regard to—
+
+(i) the need to ensure that any sanction imposed—
+
+(I) is appropriate and proportionate to the improper conduct, and
+
+(II) if applicable, will act as a sufficient incentive to ensure that any like improper conduct will not occur in the future,
+
+(ii) the seriousness of the improper conduct,
+
+(iii) the turnover of the specified body in the financial year of the body ending in the year immediately before the financial year in which the improper conduct last occurred,
+
+(iv) the extent of any failure by the specified body to co-operate with the investigation concerned of the specified body,
+
+(v) any excuse or explanation by the specified body for the improper conduct or failure to co-operate with the investigation concerned,
+
+(vi) any gain (financial or otherwise) made by the specified body or by any person in which the specified body has a financial interest as a consequence of the improper conduct,
+
+(vii) the amount of any loss suffered or costs incurred as a result of the improper conduct,
+
+(viii) the duration of the improper conduct,
+
+(ix) the repeated occurrence of improper conduct by the specified body,
+
+(x) if applicable, the continuation of the improper conduct after the specified body was notified of the investigation concerned,
+
+(xi) if applicable, the absence, ineffectiveness or repeated failure of internal mechanisms or procedures of the specified body intended to prevent improper conduct from occurring,
+
+(xii) if applicable, the extent and timeliness of any steps taken to end the improper conduct and any steps taken for remedying the consequences of the improper conduct,
+
+(xiii) whether a sanction in respect of like improper conduct has already been imposed on the specified body by a court, the Commission or another person, and
+
+(xiv) any precedents set by a court, the Commission or another person in respect of previous improper conduct.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F490: Inserted (28.04.2016) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+### 66. Powers of Commission
+
+F491[**66.**—The powers conferred on the Commission by this Part are without prejudice to the powers conferred on it by or under this Act or any other Act of the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F491: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 5, S.I. No. 171 of 2017.
+
+## SCHEDULE F492[1] — The Commission for Electricity Regulation
+
+1\. The Commission shall consist of at least one but not more than three members, each of whom shall be appointed by the Minister on such terms and conditions of appointment, including remuneration, F493[as the Minister, following consultation with the Minister for the Environment, Community and Local Government may fix], with the consent of the Minister for Finance, to hold office in a full-time capacity for a period of F494[not less than five ] and not more than seven years.
+
+F495[1A. The members of the Commission shall be appointed –
+
+(*a*) by means of an independent and impartial procedure, and
+
+(*b*) on the basis of objective, transparent and published criteria,
+
+which ensure that candidates for appointment to membership of the Commission have the necessary skill and experience for such membership.]
+
+2\. Where there is more than one member of the Commission, the Minister shall appoint one of them to be chairperson of the Commission on such terms and conditions of appointment, including remuneration, as the Minister may fix, with the consent of the Minister for Finance F496[...].
+
+F497[2A. Where the chairperson appointed pursuant to *paragraph 2* is not available to perform his or her duties, the Minister may appoint another member of the Commission to be the acting chairperson of the Commission for a specified period not exceeding 6 months, and a person so appointed shall perform the duties and functions of the chairperson.
+
+2B. Where there is more than one member of the Commission, each member of the Commission, including the chairperson, shall have a vote and any matter on which a decision is to be taken by the Commission shall be determined by a majority of the votes of the members of the Commission present when the vote is called and voting on the question and in the case of an equal division of votes the chairperson of the Commission appointed pursuant to *paragraph 2* or *2A* shall, if present and voting, have a second and casting vote.]
+
+F498[3\. A member of the Commission whose term of office expires by effluxion of time shall be eligible for re-appointment to serve a second term.]
+
+F499[3A.In appointing a member of the Commission under *paragraph 1* or re-appointing a member of the Commission under *paragraph 3*, the Minister shall seek to ensure an appropriate rotation of Commission members so that terms of office do not all end within the same 12 month period.]
+
+4\. A member of the Commission shall not be entitled to serve more than F500[two terms of office as a member].
+
+5\. A member of the Commission may—
+
+(*a*) at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect from the date of receipt of the letter, and
+
+F501[(*b*) be removed from office by the Minister, if in his or her opinion the member has become incapable through ill-health of effectively performing his or her duties, or for stated misbehaviour, being misbehaviour that is established by reference to transparent criteria that have been put in place prior to the act or default concerned, and in case a member is removed from office under this paragraph, the Minister shall cause to be laid before each House of the Oireachtas a statement of the reasons for the removal.]
+
+6\. The Commission may act notwithstanding a vacancy or vacancies in its membership.
+
+7\. A member of the Commission shall not hold any other office or employment in respect of which emoluments are payable.
+
+F502[7A. A member of the Commission who is appointed to be a member of the SEM Committee established by *section 8A*, or a corresponding Committee in Northern Ireland, shall not for the purposes of *paragraph 7* be regarded as holding any other office or employment in respect of which emoluments are payable.]
+
+8\. A member of the Commission shall not, for a period of twelve months following his or her resignation, removal or retirement from the office of Commission, hold any office or employment or act as a consultant where he or she may be liable to use or disclose information acquired by him or her in the exercise of the functions of the Commission.
+
+9\. Subject to this Act, the Commission shall be independent in the performance of its functions.
+
+10\. The Commission may, subject to the consent of the Minister and the Minister for Finance, appoint such and so many persons to be members of its staff as it considers necessary to assist it in the performance of its functions on such terms and conditions including terms and conditions as to remuneration and grading as may be agreed.
+
+F503[10A. The Minister shall, where he or she receives a request from the Commission in relation to staffing or other resources required by the Commission in relation to the performance of its functions under the *Water Services (No. 2) Act 2013*, consult with the Minister for the Environment, Community and Local Government.]
+
+11\. The Commission may perform such of its functions as it may deem proper through or by any member of its staff.
+
+12\. The Commission shall designate a member of its staff as deputy member of the Commission who shall assume and carry out with the authority of the Commission all of the functions of the Commission in the absence of the members or when the membership of the Commission is vacant.
+
+13\. The Minister may make available to the Commission, on a request being made by the Commission, such staff, premises, equipment, services and other resources as the Minister may determine from time to time in consultation with the Minister for Finance.
+
+14\. Members of the staff of the Minister whose services are afforded to the Commission by secondment shall remain civil servants of the Minister and in any particular case a period of assignment on secondment to the Commission shall not exceed two years.
+
+15\. The Commission shall pay to the Minister such sum or sums as the Minister may specify to be the expenses incurred by the Minister in establishing the office of Commission and in making available to the Commission such staff, premises, equipment, services and other resources under *paragraph 13.*
+
+F504[16\. For the purposes of meeting expenses properly incurred by the Commission in the discharge of its functions under this Act, the Commission may make an order (in this Act referred to as a “levy order”) imposing a levy to be paid each year on such class or classes of—
+
+(*a*) energy undertakings,
+
+(*b*) petroleum undertakings, or
+
+(*c*) holders of LPG safety licences,
+
+as may be specified by the Commission in the order and separate orders may be made under this paragraph in respect of electricity undertakings, natural gas undertakings, holders of LPG safety licences and petroleum undertakings and in respect of different classes of such undertakings.]
+
+F505[16A. For the purposes of meeting expenses properly incurred by the Commission in the discharge of its functions under the Water Services (No. 2) Act 2013 the Commission may make an order (in this Act referred to as a “levy order”) imposing such levy to be paid each year by Irish Water as may be specified by the Commission in the order.]
+
+F506[17\. Whenever a levy order is made under paragraph 16 there shall be paid to the Commission by each undertaking to which the levy order applies such amount as shall be appropriate having regard to the terms of the levy order.]
+
+18\. A levy order made under F507[*paragraph 16* or *16A*] may be amended or revoked by the Commission by order.
+
+19\. An amendment to a levy order made under F508[*paragraph 16* or *16A*] which provides for an increase in the levy may only take effect in the year after the year in which the amendment is made.
+
+F509[20.(1) Any excess of the revenue of the Commission over its expenditure in any year shall be applied by the Commission to meet its expenses in the following year and the levy for that year shall take into account such excess.
+
+(2) Any expenses incurred by the Commission which are not recovered by the levy payable for a particular year may be recovered by the Commission on foot of a levy order in a subsequent year.
+
+(3) In making a subsequent levy order the Commission shall, in so far as is reasonably practicable, apply the amount of the excess of revenue in a particular year or the amount of expenses not recovered in a particular year to the class of undertaking to which it most closely relates.]
+
+21\. The Minister may from time to time, with the consent of the Minister for Finance, advance to the Commission out of moneys provided by the Oireachtas such sums as the Minister may determine for the purposes of expenditure by the Commission in the performance of its functions.
+
+F510[21A. The Minister for the Environment, Community and Local Government may from time to time, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, advance to the Commission out of moneys provided by the Oireachtas such sums as the Minister for the Environment, Community and Local Government may determine for the purposes of expenditure by the Commission in the performance of its functions under the Water Services (No.2) Act 2013.]
+
+22\. The sums to be advanced under F511[*paragraphs 21* and *21A*] shall be expended solely for the purpose and exercise of the functions conferred on the Commission by this Act.
+
+23\. The Commission shall pay to the Minister on every sum advanced to the Commission under this Act interest from the date of the advance of such sum until the same is repaid at such rate and in such manner as shall be appointed by the Minister at the time of the advance and at such rate as may be determined from time to time and such rate of interest shall not at any time exceed that fixed by an order under section 20 of the Courts Act, 1981.
+
+F512[23A. *Paragraph 23* shall apply to advances made to the Commission by the Minister for the Environment, Community and Local Government under *paragraph 21A* as if those advances had been made by the Minister under *paragraph 21*.]
+
+F513[24\. (*a*) The Commission may, for the purpose of the performance of its functions, borrow money, but shall not do so without the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(*b*) The Minister shall consult with the Minister for the Environment, Community and Local Government, prior to giving his or her consent under *subparagraph (*a*)* in relation to a proposal to borrow money for the performance of the Commission’s functions under the Water Services (No. 2) Act 2013.]
+
+25\. The Commission shall—
+
+F514[(*a*) keep in such form as may be approved by the Minister, with the concurrence of the Minister for Finance, all proper and usual accounts of all moneys received or expended by it including an income and expenditure account and balance sheet,
+
+(F515[(*aa*) ensure, as far as is reasonably practicable, that such accounts identify separately in regard to the gas, LPG, electricity, water and petroleum sectors all elements of cost and revenue, with the basis of their calculation and the detailed attribution methods used, related to the discharge of the Commission’s functions under this Act and the Water Services (No. 2) Act 2013,]]
+
+F516[(*b*) submit accounts kept under *subparagraph* (*a*) in respect of each year to the Comptroller and Auditor General for audit and those accounts when so audited shall, together with—
+
+(i) the report of the Comptroller and Auditor General thereon, and
+
+(ii) a report of the Commission to the Minister in relation to the performance of its functions in the previous year,
+
+be presented within 6 months of the end of the financial year to the Minister, who shall cause copies of the accounts, the report of the Comptroller and Auditor General, and the report of the Commission in relation to its functions to be laid before each House of the Oireachtas, and]
+
+F517[(*c*) not later than 30 November in each year make a report to the Minister and the Minister for the Environment, Community and Local Government in relation to its proposed work programme for the following year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas as soon as practicable.]
+
+F518[25A. (1) The Commission shall—
+
+(*a*) not later than 6 months after the coming into operation of section 19 of the Energy Act 2016, prepare and submit to the Minister an energy strategy statement in respect of the period of 3 years immediately following the year in which the energy strategy statement is so submitted, and
+
+(*b*) not later than 3 months before each third anniversary of the submission to the Minister in accordance with this subparagraph of the energy strategy statement for the time being in effect, prepare and submit to the Minister an energy strategy statement in respect of the period of 3 years immediately following the year in which it is so submitted.
+
+(2) The Minister shall, as soon as is practicable after an energy strategy statement has been submitted to him or her under *subparagraph (1)*, cause a copy thereof to be laid before each House of the Oireachtas.
+
+(3) The Commission shall, as soon as is practicable after copies of an energy strategy statement are laid before both Houses of the Oireachtas in accordance with *subparagraph (2)*, arrange for the energy strategy statement to be published on the internet.
+
+(4) In this section "energy strategy statement" means a statement that—
+
+(*a*) specifies the key objectives, outputs and related strategies, including use of resources, of the Commission in relation to the performance of its energy and safety functions and those functions not covered by section 41 of the Water Services (No. 2) Act 2013,
+
+(*b*) except for the first energy strategy statement, includes a review of the outcomes and effectiveness of the previous energy strategy statement, and
+
+(*c*) is prepared in a form and manner that is in accordance with any directions issued from time to time by the Minister.
+
+(5) When preparing an energy strategy statement the Commission may consult such persons or bodies of persons that it considers appropriate.]
+
+26\. From time to time, and whenever so requested, the Commission shall account for the performance of its functions to a Joint Committee of the Oireachtas and shall have regard to any recommendations of such Joint Committee relevant to its functions.
+
+27\. The Commission may from time to time engage such consultants or advisers as it may consider necessary to assist it in the discharges of its functions and any fees due to a consultant or adviser engaged under this paragraph shall form part of the expenses of the Commission.
+
+28\. No action or other proceedings shall lie or be maintainable (except in the case of wilful neglect or default) against any member of the Commission arising from a failure to perform or to comply with any of the functions conferred on the Commission by this Act.
+
+29\. Where the Commission is satisfied that any member of the staff of the Commission or authorised person appointed by the Commission has discharged his or her duties in a *bona fide* manner, the Commission shall indemnify the member of staff or authorised person against all actions or claims howsoever arising in respect of the discharge by him or her of his or her duties.
+
+30\. (*a*) The Minister may, with the consent of the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of a member of the Commission ceasing to hold office or for the making of contributions to a pension scheme approved of by the Minister with the consent of the Minister for Finance which has been entered into by a member of the Commission.
+
+(*b*) The Minister may, with the consent of the Minister for Finance, make a scheme amending or revoking a scheme under this paragraph, including a scheme under this subparagraph.
+
+(*c*) If any dispute arises as to the claim of a member of the Commission to, or the amount of, any pension, gratuity or other allowance payable in pursuance of a scheme under this paragraph, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance for determination by him or her.
+
+(*d*) A scheme under this paragraph shall be carried out by the Minister in accordance with its terms.
+
+(*e*) No pension, gratuity or other allowance shall be granted by the Minister to or in respect of any person referred to in *subparagraph (*a*)* ceasing to hold office otherwise than in accordance with a scheme under this paragraph or as otherwise may be approved of by the Minister with the consent of the Minister for Finance.
+
+31\. The Commission may prepare and submit to the Minister a scheme or schemes or may make such other arrangements with the approval of the Minister given with the consent of the Minister for Finance, for the granting of superannuation benefits to or in respect of such members of staff of the Commission, including a member appointed as a deputy member of the Commission in accordance with *paragraph 12*, as he or she may think fit.
+
+32\. Every scheme made under *paragraph 30* or *31* shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+33\. Every scheme made under *paragraph 31* may with the consent of the Minister for Finance be amended or revoked by a subsequent scheme prepared, submitted and approved under *paragraph 31*.
+
+34\. A scheme made under *paragraph 31* submitted by the Commission to the Minister shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Commission in accordance with its terms.
+
+35\. No superannuation benefits shall be granted by the Commission nor shall any other arrangements be entered into by the Commission for the provision of such a benefit to or in respect of a member of the staff of the Commission otherwise than in accordance with a scheme under *paragraph 31* or otherwise as may be approved of by the Minister with the consent of the Minister for Finance.
+
+36\. If any dispute arises as to the claim of any person to, or the amount of any superannuation benefit payable in pursuance of a scheme or schemes under *paragraph 30* or *31*, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, for determination by him or her.
+
+37\. As soon as may be the Commission shall establish a fund administered by trustees who shall be appointed by the Commission from which superannuation benefits payable in respect of a member of the staff of the Commission ceasing to hold office, under a scheme under *paragraph 31* shall be paid.
+
+38\. A scheme under *paragraph 30* or *31* shall be laid before each House of the Oireachtas by the Minister, in the case of a scheme under *paragraph 30*, or by the Commission, in the case of a scheme under *paragraph 31*, as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+39\. Where a member of the Commission is—
+
+(*a*) nominated as a member of Seanad éireann, or
+
+(*b*) nominated to stand as a candidate for election as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to the European Parliament to fill a vacancy,
+
+the member shall thereupon cease to be a member of the Commission.
+
+40\. Where a person employed by the Commission—
+
+(*a*) is nominated as a member of Seanad éireann, or
+
+(*b*) is elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to the European Parliament to fill a vacancy,
+
+he or she shall thereupon stand seconded from his or her employment by the Commission and shall not be paid by, or be entitled to receive from, the Commission remuneration or allowances in respect of the period commencing on such nomination or election, or when he or she is so regarded as having been elected, as the case may be, and ending when he or she ceases to be a member of either such House or such Parliament.
+
+41\. A person who is, for the time being, entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from becoming a member of, or a member of the staff of the Commission.
+
+42\. Without prejudice to the generality of *paragraph 40* that paragraph shall be construed as prohibiting, among other things the reckoning of a period mentioned in that paragraph as service with the Commission for the purposes of any superannuation benefits.
+
+43\. In this Schedule—
+
+“expenses” means outgoings of the Commission to include the remuneration of the Commission and its staff, any expenditure incurred by the Commission or its staff in consequence of the carrying out of the functions of the Commission, payments to the Minister under this Act and repayment of any advance or interest or any advance made by the Minister under this Act;
+
+“superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F492: Numbered (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(1)(*a*), commenced on enactment.
+>
+> F493: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*a*), S.I. No. 76 of 2014.
+>
+> F494: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(8)(*a*).
+>
+> F495: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 11(*a*), in operation as per reg. 1(2).
+>
+> F496: Deleted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(2)(*a*), commenced on enactment.
+>
+> F497: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(2)(*b*), commenced on enactment.
+>
+> F498: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 10(2)(*b*).
+>
+> F499: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 40(8)(*b*).
+>
+> F500: Substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), reg. 10(2)(*d*), commenced on enactment.
+>
+> F501: Substituted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 11(*b*), in operation as per reg. 1(2).
+>
+> F502: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 18, S.I. No. 731 of 2007.
+>
+> F503: Inserted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*b*), S.I. No. 76 of 2014.
+>
+> F504: Substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 19(1)(*a*), S.I. No. 20 of 2013.
+>
+> F505: Inserted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*c*), S.I. No. 76 of 2014.
+>
+> F506: Substituted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 4(*a*), S.I. No. 227 of 2010.
+>
+> F507: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*d*), S.I. No. 76 of 2014.
+>
+> F508: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*e*), S.I. No. 76 of 2014.
+>
+> F509: Substituted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 4(*b*), S.I. No. 227 of 2010.
+>
+> F510: Inserted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*f*), S.I. No. 76 of 2014.
+>
+> F511: Substituted (7.02.2014) by *Water Services (No.2) Act 2013* (50/2013), s. 44(3)(*g*), S.I. No. 76 of 2014.
+>
+> F512: Inserted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*h*), S.I. No. 76 of 2014.
+>
+> F513: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(i), S.I. No. 76 of 2014.
+>
+> F514: Substituted(10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*e*), commenced on enactment.
+>
+> F515: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*j*)(i), S.I. No. 76 of 2014.
+>
+> F516: Substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(2)(*e*)(i), commenced on enactment.
+>
+> F517: Substituted (7.02.2014) by *Water Services (No. 2) Act 2013* (50/2013), s. 44(3)(*j*)(ii), S.I. No. 76 of 2014.
+>
+> F518: Inserted (1.07.2018) by *Energy Act 2016* (12/2016), s. 19, S.I. No. 227 of 2018.
+>
+> **Modifications (not altering text):**
+>
+> C43: “Commission for Energy Regulation” construed (28.04.2017) by *Energy Act 2016* (12/2016), s. 4, S.I. No. 171 of 2017.
+>
+> **Change of name of Commission for Energy Regulation**
+>
+> 4\. The Commission for Energy Regulation (established by section 8 of the Act of 1999) shall, on and from such day as the Minister appoints by order, be known as the Commission for Regulation of Utilities or in the Irish language as An Coimisiún um Rialáil Fóntais and references in this Act or any other Act of the Oireachtas, any instrument made under this Act or any other Act of the Oireachtas, any legal proceedings and any document to the Commission for Energy Regulation shall from that day be read as references to the Commission for Regulation of Utilities.
+>
+> C44: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9. Note that the wording in the schedule table, column 3 implies that the change referred to in 40M is in the schedule. However, there is no such provision, and “Minister for Finance” is mentioned in s. 40M.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in *Schedule 1*, and
+>
+> (*b*) the statutory instruments specified in *Schedule 2*,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1999</td><td>Electricity Regulation Act 1999</td><td>Section 31(2); Schedule, paragraphs 1, 2, 10, 13, 21, 25, 30, 31, 33, 34, 35, 36 and 40M</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C45: Functions under para. 24 transferred to Minister of Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 9(2), 20 and sch. 2 part 1, commenced as per s. 1(2) and S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister**
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1999</td><td>Electricity Regulation Act 1999</td><td>Paragraph 24 of Schedule 1</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C46: “Commission for Electricity Regulation” construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 5, commenced on enactment.
+>
+> **Commission for Energy Regulation**
+>
+> **5.**—The Commission for Electricity Regulation (established by section 8 of the Act of 1999) shall, on the appointed day, be known as the Commission for Energy Regulation or in the Irish language as An Coimisiún um Rialáil Fuinnimh and references in that Act, any other Act of the Oireachtas, any instrument made under any Act of the Oireachtas, any legal proceedings and any document to the Commission for Electricity Regulation shall from that day be construed as references to the Commission for Energy Regulation.
+>
+> **Editorial Notes:**
+>
+> E149: Power pursuant to Act exercised (31.12.2025) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2025* (S.I. No. 600 of 2025), in operation as per art. 1(2).
+>
+> E150: Power pursuant to para. 16 exercised (31.12.2025) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2025* (S.I. No. 599 of 2025), in operation as per art. 1(2).
+>
+> E151: Power pursuant to Act exercised (31.12.2025) by *Electricity Regulation Act 1999 (Gas) Levy Order 2025* (S.I. No. 598 of 2025), in operation as per art. 1(2).
+>
+> E152: Power pursuant to Act exercised (31.12.2025) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2025* (S.I. No. 597 of 2025), in operation as per art. 1(2).
+>
+> E153: Power pursuant to para. 16A exercised (31.12.2025) by *Electricity Regulation Act, 1999) (Water) Levy Order 2025* (S.I. No. 596 of 2025), in operation as per art. 1(2).
+>
+> E154: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2024) by *Electricity Regulation Act 1999 (LGP Safety Licence) Levy Order 2024* (S.I. No. 671 of 2024), in operation as per art. 1(2); revoked (1.01.2026) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2025* (S.I. No. 599 of 2025), art. 1(3), in opertion as per art. 1(2).
+>
+> E155: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2024) by *Electricity Regulation Act, 1999 (Water) Levy Order 2024* (S.I. No. 670 of 2024), in operation as per art. 1(2); revoked (1.01.2026) by *Electricity Regulation Act, 1999) (Water) Levy Order 2025* (S.I. No. 596 of 2025), art. 1(3), in operation as per art. 1(2).
+>
+> E156: Previous affecting provision: power pursuant to Act exercised (31.12.2024) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2024* (S.I. No. 669 of 2024), in operation as per art. 1(2); revoked (1.01.2026) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2025* (S.I. No. 600 of 2025), art. 1(3), in operation as per art. 1(2).
+>
+> E157: Previous affecting provision: power pursuant to Act exercised (31.12.2024) by *Electricity Regulation Act 1999 (Gas) Levy Order 2024* (S.I. No. 668 of 2024), in operation as per art. 1(2); revoked (1.01.2026) by *Electricity Regulation Act 1999 (Gas) Levy Order 2025* (S.I. No. 598 of 2025), art. 1(3), in operation as per art. 1(2).
+>
+> E158: Previous affecting provision: power pursuant to Act exercised (31.12.2024) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2024* (S.I. No. 667 of 2024), in operation as per art. 1(2); revoked (1.01.2026) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2025* (S.I. No. 597 of 2025), art. 1(3), in operation as per art. 1(2).
+>
+> E159: Previous affecting provision: power pursuant to Act exercised (31.12.2023) by *Electricity Regulation Act 1999 (Gas) Levy Order 2023* (S.I. No. 600 of 2023), in operation as per art. 1(2); revoked (1.01.2025) by *Electricity Regulation Act 1999 (Gas) Levy Order 2024* (S.I. No. 668 of 2024), art. 1(3), in operation as per art. 1(2).
+>
+> E160: Previous affecting provision: power pursuant to Act exercised (31.12.2023) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2023* (S.I. No. 599 of 2023), in operation as per art. 1(2); revoked (1.01.2025) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2024* (S.I. No. 667 of 2024), art. 1(3), in operation as per art. 1(2).
+>
+> E161: Previous affecting provision: power pursuant to Act exercised (31.12.2023) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2023* (S.I. No. 598 of 2023), in operation as per art. 1(2); revoked (1.01.2025) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2024* (S.I. No. 671 of 2024), art. 1(3), in operation as per art. 1(2).
+>
+> E162: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2023) by *Electricity Regulation Act 1999 (Water) Levy Order 2023* (S.I. No. 597 of 2023), in operation as per art. 1(2); revoked (1.01.2025) by *Electricity Regulation Act, 1999 (Water) Levy Order 2024* (S.I. No. 670 of 2024), art. 1(3), in operation as per art. 1(2).
+>
+> E163: Previous affecting provision: power pursuant to Act exercised (31.12.2023) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2023* (S.I. No. 596 of 2023), in operation as per art. 1(2); revoked (1.01.2025) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2024* (S.I. No. 669 of 2024), art. 1(3), in operation as per art. 1(2).
+>
+> E164: Previous affecting provision: power pursuant to Act exercised (31.12.2022) by *Electricity Regulation Act 1999 (Gas) Levy Order 2022* (S.I. No. 624 of 2022), in operation as per art. 1(2); revoked (1.01.2024) by *Electricity Regulation Act 1999 (Gas) Levy Order 2023* (S.I. No. 600 of 2023), art. 1(3), in operation as per art. 1(2).
+>
+> E165: Previous affecting provision: power pursuant to Act exercised (31.12.2022) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2022* (S.I. No. 623 of 2022), in operation as per art. 1(2); revoked (1.01.2024) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2023* (S.I. No. 599 of 2023), art. 1(3), in operation as per art. 1(2).
+>
+> E166: Previous affecting provision: power pursuant to Act exercised (31.12.2022) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2022* (S.I. No. 627 of 2022), in operation as per art. 1(2); revoked (1.01.2024) by *Electricity Regulation Act 1999 (Lpg Safety Licence) Levy Order 2023* (S.I. No. 598 of 2023), art. 1(3), in operation as per art. 1(2).
+>
+> E167: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2022) by*Electricity Regulation Act, 1999) (Water) Levy Order 2022*(S.I. No. 626 of 2022), in operation as per art. 1(2); revoked (1.01.2024) by *Electricity Regulation Act 1999 (Water) Levy Order 2023* (S.I. No. 597 of 2023), art. 1(3), in operation as per art. 1(2).
+>
+> E168: Previous affecting provision: power pursuant to Act exercised (31.12.2022) by*Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2022*(S.I. No. 625 of 2022), in operation as per art. 1(2); revoked (1.01.2024) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2023* (S.I. No. 596 of 2023), art. 1(3), in operation as per art. 1(2).
+>
+> E169: Previous affecting provision: power pursuant to Act exercised (31.12.2021) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2021* (S.I. No. 671 of 2021), in operation as per art. 1(2); revoked (1.01.2023) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2022* (S.I. No. 625 of 2022), art. 1(3), in operation as per art. 1(2).
+>
+> E170: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2021) by *Electricity Regulation Act, 1999 (Water) Levy Order 2021* (S.I. No. 670 of 2021), in operation as per art. 1(2); revoked (1.01.2023) by *Electricity Regulation Act, 1999) (Water) Levy Order 2022* (S.I. No. 626 of 2022), art. 1(3), in operation as per art. 1(2).
+>
+> E171: Previous affecting provision: power pursuant to Act exercised (31.12.2021) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2021* (S.I. No. 669 of 2021), in operation as per art. 1(2); revoked (1.01.2023) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2022* (S.I. No. 627 of 2022), art. 1(3), in operation as per art. 1(2).
+>
+> E172: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2021) by *Electricity Regulation Act 1999 (Gas) Levy Order 2021* (S.I. No. 668 of 2021), in operation as per art. 1(2); revoked (1.01.2023) by *Electricity Regulation Act 1999 (Gas) Levy Order 2022* (S.I. No. 624 of 2022), art. 1(3), in operation as per art. 1(2).
+>
+> E173: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2021) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2021* (S.I. No. 667 of 2021), in operation as per art. 1(2); revoked (1.01.2023) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2022* (S.I. No. 623 of 2022), art. 1(3), in operation as per art. 1(2).
+>
+> E174: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2020) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2020* (S.I. No. 595 of 2020), in operation as per art. 1(2); revoked (1.01.2022) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2021* (S.I. No. 669 of 2021), art. 1(3), in operation as per art. 1(3).
+>
+> E175: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2020) by *Electricity Regulation Act, 1999 (Water) Levy Order 2020* (S.I. No. 594 of 2020), in operation as per art. 1(2); revoked (1.01.2022) by *Electricity Regulation Act, 1999) (Water) Levy Order 2021* (S.I. No. 670 of 2021), art. 1(3), in operation as per art. 1(3).
+>
+> E176: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2020) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2020* (S.I. No. 593 of 2020), in operation as per art. 1(2); revoked (1.01.2022) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2021* (S.I. No. 671 of 2021), art. 1(3), in operation as per art. 1(3).
+>
+> E177: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2020) by *Electricity Regulation Act 1999 (Gas) Levy Order 2020* (S.I. No. 592 of 2020), in operation as per art. 1(2); revoked (1.01.2022) by *Electricity Regulation Act 1999 (Gas) Levy Order 2021* (S.I. No. 668 of 2021), art. 1(3), in operation as per art. 1(3).
+>
+> E178: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2020) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2020* (S.I. No. 591 of 2020), in operation as per art. 1(2); revoked (1.01.2022) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2021* (S.I. No. 667 of 2021), art. 1(3), in operation as per art 1(3).
+>
+> E179: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2019) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2019* (S.I. No. 623 of 2019), in operation as per art. 1(2); revoked (1.01.2021) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2020* (S.I. No. 593 of 2020), art. 1(3), in operation as per art. 1(3).
+>
+> E180: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2019) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2019* (S.I. No. 622 of 2019), in operation as per art. 1(2); revoked (1.01.2021) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2020* (S.I. No. 591 of 2020), art. 1(3), in operation as per art. 1(3).
+>
+> E181: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2019) by *Electricity Regulation Act 1999 (Gas) Levy Order 2019* (S.I. No. 621 of 2019), in operation as per art. 1(2); revoked (1.01.2021) by *Electricity Regulation Act 1999 (Gas) Levy Order 2020* (S.I. No. 592 of 2020) art. 1(3), in operation as per art. 1(3).
+>
+> E182: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2019) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2019* (S.I. No. 620 of 2019), in operation as per art. 1(2); revoked (1.01.2021) by Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2020 (S.I. No. 595 of 2020), art. 1(3), in operation as per art. 1(3).
+>
+> E183: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2019) by *Electricity Regulation Act 1999 (Water) Levy Order 2019* (S.I. No. 619 of 2019), in operation as per art. 1(2); revoked (1.01.2021) by *Electricity Regulation Act, 1999 (Water) Levy Order 2020* (S.I. No. 594 of 2020), art. 1(3), in operation as per art. 1(3).
+>
+> E184: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2018) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2018* (S.I. No. 528 of 2018), in operation as per art. 1(2); revoked (1.01.2020) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2019* (S.I. No. 622 of 2019), art. 1(3), in operation as per art. 1(2).
+>
+> E185: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2018) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2018* (S.I. No. 517 of 2018), in operation as per art. 1(2); revoked (1.01.2020) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2019* (S.I. No. 620 of 2019), art. 1(3), in operation as per art. 1(2).
+>
+> E186: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2018) by *Electricity Regulation Act 1999 (Water) Levy Order 2018* (S.I. No. 516 of 2018), in operation as per art. 1(2); revoked (1.01.2020) by *Electricity Regulation Act 1999 (Water) Levy Order 2019* (S.I. No. 619 of 2019), art. 1(3), in operation as per art. 1(2).
+>
+> E187: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2018) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2018* (S.I. No. 515 of 2018), in operation as per art. 1(2); revoked (1.01.2020) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2019* (S.I. No. 623 of 2019), in operation as per art. 1(2).
+>
+> E188: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2018) by *Electricity Regulation Act 1999 (Gas) Levy Order 2018* (S.I. No. 514 of 2018), in operation as per art. 1(2); revoked (1.01.2020) by *Electricity Regulation Act 1999 (Gas) Levy Order 2019* (S.I. No. 621 of 2019), art. 1(3), in operation as per art. 1(2).
+>
+> E189: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2017) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2017* (S.I. No. 585 of 2017), in operation as per art. 1(2); revoked (1.01.2019) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2018* (S.I. No. 515 of 2018), art. 1(3), in operation as per art. 1(2).
+>
+> E190: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2017) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2017* (S.I. No. 584 of 2017), in operation as per art. 1(2); revoked (31.12.2018) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2018* (S.I. No. 517 of 2018), art. 1(3), in operation as per art. 1(2).
+>
+> E191: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2017) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2017* (S.I. No. 583 of 2017), in operation as per art. 1(2); revoked (1.01.2019) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2018* (S.I. No. 528 of 2018), art. 1(3), in operation as per art. 1(2).
+>
+> E192: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2017) by *Electricity Regulation Act 1999 (Gas) Levy Order 2017* (S.I. No. 582 of 2017), in operation as per art. 1(2); revoked (1.01.2019) by *Electricity Regulation Act 1999 (Gas) Levy Order 2018* (S.I. No. 514 of 2018), art. 1(3), in operation as per art. 1(2).
+>
+> E193: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2017) by *Electricity Regulation Act 1999 (Water) Levy Order 2017* (S.I. No. 581 of 2017), in operation as per art. 1(2); revoked (1.01.2019) by *Electricity Regulation Act 1999 (Water) Levy Order 2018* (S.I. No. 516 of 2018), art. 1(3), in operation as per art. 1(2).
+>
+> E194: Additional information in relation to the report prepared in accordance with para. 25(*c*) prescribed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 9(4)(*a*)-(*c*), commenced on enactment.
+>
+> E195: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2016) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2016* (S.I. No. 601 of 2016), in operation as per art. 1(2); revoked (1.01.2018) by *Electricity Regulation Act 1999 (LPG Safety Licence) Levy Order 2017* (S.I. No. 584 of 2017), art. 1(3), in operation as per art. 1(2), (3).
+>
+> E196: Previous affecting provision: power pursuant to Act exercised (31.12.2016) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2016* (S.I. No. 590 of 2016), in operation as per art. 1(2); revoked (1.01.2018) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2017* (S.I. No. 585 of 2017), art. 1(3), in operation as per art. 1(2), (3).
+>
+> E197: Previous affecting provision: power pursuant to Act exercised (31.12.2016) by *Electricity Regulation Act 1999 (Gas) Levy Order 2016* (S.I. No. 589 of 2016), in operation as per art. 1(2); revoked (1.01.2018) by *Electricity Regulation Act 1999 (Gas) Levy Order 2017* (S.I. No. 582 of 2017), art. 1(3), in operation as per art. 1(2), (3).
+>
+> E198: Previous affecting provision: power pursuant to Act exercised (31.12.2016) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2016* (S.I. No. 588 of 2016), in operation as per art. 1(2); revoked (1.01.2018) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2017* (S.I. No. 583 of 2017), art. 1(3), in operation as per art. 1(2), (3).
+>
+> E199: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2016) by *Electricity Regulation Act 1999 (Water) Levy Order 2016* (S.I. No. 591 of 2016), in operation as per art. 1(2); revoked (1.01.2018) by *Electricity Regulation Act 1999 (Water) Levy Order 2017* (S.I. No. 581 of 2017), art. 1(3), in operation as per art. 1(2), (3).
+>
+> E200: Previous affecting provision: power pursuant to para. 16 exercised (31.05.2016) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2016* (S.I. No. 283 of 2016), in operation as per art. 1(2); revoked (1.01.2017) by *Electricity Regulation Act, 1999 (LPG Safety Licence) Levy Order 2016* (S.I. No. 601 of 2016), art. 1(3).
+>
+> E201: Previous affecting provision: power pursuant to para. 16 exercised (31.12.2015) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2015* (S.I. No. 570 of 2015); revoked (1.01.2017) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2016* (S.I. No. 590 of 2016), art. 1(3).
+>
+> E202: Previous affecting provision: power pursuant to Act exercised (31.12.2015) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2015* (S.I. No. 562 of 2015), in operation as per art. 1(2); revoked (1.01.2017) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2016* (S.I. No. 588 of 2016), art. 1(3).
+>
+> E203: Previous affecting provision: power pursuant to Act exercised (31.12.2015) by *Electricity Regulation Act 1999 (Gas) Levy Order 2015* (S.I. No. 561 of 2015), in operation as per art. 1(2); revoked (1.01.2017) by *Electricity Regulation Act 1999 (Gas) Levy Order 2016* (S.I. No. 589 of 2016), art. 1(3).
+>
+> E204: Previous affecting provision: power pursuant to para. 16A exercised (31.12.2015) by *Electricity Regulation Act 1999 (Water) Levy Order 2015* (S.I. No. 559 of 2015), in operation as per art. 1(2); revoked (1.01.2017) by *Electricity Regulation Act 1999 (Water) Levy Order 2016* (S.I. No. 591 of 2016), art. 1(3).
+>
+> E205: Previous affecting provision: power pursuant to para. 16A exercised (1.01.2015) by *Electricity Regulation Act 1999 (Water) Levy Order 2014* (S.I. No. 557 of 2014), in operation as per art. 1(2); revoked (1.01.2016) by *Electricity Regulation Act 1999 (Water) Levy Order 2015* (S.I. No. 559 of 2015), art. 1(3).
+>
+> E206: Previous affecting provision: power pursuant to para. 16A exercised (1.03.2014) by *Electricity Regulation Act 1999 (Water) Levy Order 2014* (S.I. No. 101 of 2014); revoked (1.01.2015) by *Electricity Regulation Act 1999 (Water) Levy Order 2014* (S.I. No. 557 of 2014), art. 1(3).
+>
+> E207: Previous affecting provision: power pursuant to Act exercised (31.12.2014) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2014* (S.I. No. 560 of 2015), in operation as per art. 1(2); revoked (1.01.2016) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2015* (S.I. No. 570 of 2015), art. 1(3).
+>
+> E208: Previous affecting provision: power pursuant to Act exercised (31.12.2014) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2014* (S.I. No. 558 of 2014), in operation as per art. 1(2); revoked (1.01.2015) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2014* (S.I. No. 560 of 2015), art. 1(3).
+>
+> E209: Previous affecting provision: power pursuant to Act exercised (31.12.2014) by *Electricity Regulation Act 1999 (Gas) Levy Order 2014* (S.I. No. 551 of 2014), in operation as per art. 1(2); revoked (1.01.2016) by *Electricity Regulation Act 1999 (Gas) Levy Order 2015* (S.I. No. 561 of 2015), art. 1(3).
+>
+> E210: Previous affecting provision: power pursuant to Act exercised (31.12.2014) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2014* (S.I. No. 550 of 2014), in operation as per art. 1(2); revoked (1.01.2016) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2015* (S.I. No. 562 of 2015), art. 1(3).
+>
+> E211: Previous affecting provision: power pursuant to Act exercised (31.12.2013) by *Electricity Regulation Act 1999 (Gas) Levy Order 2013* (S.I. No. 488 of 2013), in operation as per art. 1(2); revoked (1.01.2015) by *Electricity Regulation Act 1999 (Gas) Levy Order 2014* (S.I. No. 551 of 2014), art. 1(3).
+>
+> E212: Previous affecting provision: power pursuant to Act exercised (31.12.2013) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2014* (S.I. No. 479 of 2013), in operation as per art. 1(2); revoked (1.01.2015) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2014* (S.I. No. 558 of 2014), reg. 1(3).
+>
+> E213: Previous affecting provision: power pursuant to Act exercised (31.12.2013) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2013* (S.I. No. 478 of 2013), in operation as per art. 1(2); revoked (1.01.2015) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2014* (S.I. No. 550 of 2014), art. 1(3).
+>
+> E214: Previous affecting provision: power pursuant to Act exercised (26.04.2013) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2013* (S.I. No. 136 of 2013), in operation as per art. 1(2) ; revoked (1.01.2014) by *Electricity Regulation Act 1999 (Petroleum Safety) Levy Order 2013* (S.I. No. 479 of 2013), art. 1(3).
+>
+> E215: Previous affecting provision: para. 25(aa) substituted (24.01.2013) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 19(1)(*b*) , S.I. No. 20 of 2013; substituted as per F-note above.
+>
+> E216: Previous affecting provision: power pursuant to Act exercised (31.12.2012) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2012* (S.I. No. 518 of 2012), in operation as per art. 1(2); revoked (1.01.2014) by *Electricity Regulation Act 1999 (Gas) Levy Order 2013* (S.I. No. 488 of 2013), art. 1(3).
+>
+> E217: Previous affecting provision: power pursuant to Act exercised (31.12.2012) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2012* (S.I. No. 517 of 2012), in operation as per art. 1(2); revoked (1.01.2014) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2013* (S.I. No. 478 of 2013), art. 1(3).
+>
+> E218: Previous affecting provision: power pursuant to Act exercised (31.12.2011) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2011* (S.I. No. 646 of 2011), in operation as per art. 1(2); revoked (1.01.2013) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2012* (S.I. No. 517 of 2012), art. 1(3).
+>
+> E219: Previous affecting provision: power pursuant to Act exercised (31.12.2011) by *Electricity Regulation Act 1999 and Gas (Interim)(Regulation) Act 2002 (Gas) Levy Order 2011* (S.I. No. 645 of 2011), in operation as per art. 1(2); revoked (1.01.2013) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2012* (S.I. No. 518 of 2012), art. 1(3).
+>
+> E220: Previous affecting provision: para. 25(aa) substituted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 4(*c*), S.I. No. 227 of 2010; substituted as per E-note above.
+>
+> E221: Previous affecting provision: para. 16 substituted (22.05.2010) by *Petroleum (Exploration and Extraction) Safety Act 2010* (4/2010), s. 4(*a*), S.I. No. 227 of 2010; substituted as per F-note above.
+>
+> E222: Previous affecting provision: power pursuant to Act exercised (31.12.2010) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2010* (S.I. No. 600 of 2010), in operation as per art. 1(2); revoked (1.01.2012) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2011* (S.I. No. 646 of 2011), art. 1(3).
+>
+> E223: Previous affecting provision: power pursuant to Act exercised (31.12.2010) by *Electricity Regulation Act 1999 and Gas (interim) (Regulation) Act 2002 (Gas) Levy Order 2010* (S.I. No. 599 of 2010), in operation as per art. 1(2); revoked (1.01.2012) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2011* (S.I. No. 645 of 2011), art. 1(3).
+>
+> E224: Previous affecting provision: power pursuant to Act exercised (31.12.2009) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2009* (S.I. No. 502 of 2009), in operation as per art. 1(2); revoked (1.01.2011) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2010* (S.I. No. 599 of 2010), art. 1(3).
+>
+> E225: Previous affecting provision: power pursuant to Act exercised (31.12.2009) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2014* (S.I. No. 501 of 2009), in operation as per art. 1(2); revoked (1.01.2011) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2010* (S.I. No. 600 of 2010), art. 1(3).
+>
+> E226: Previous affecting provision: power pursuant to Act exercised (31.12.2008) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2008* (S.I. No. 571 of 2008), in operation as per art. 1(2); revoked (1.01.2010) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2009* (S.I. No. 502 of 2009), art. 1(3).
+>
+> E227: Previous affecting provision: power pursuant to Act exercised (31.12.2008) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2008* (S.I. No. 563 of 2008), in operation as per art. 1(2); revoked (1.01.2010) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2009* (S.I. No. 501 of 2009), art. 1(3).
+>
+> E228: Previous affecting provision: power pursuant to Act exercised (31.12.2007) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2007* (S.I. No. 823 of 2007), in operation as per art. 1(2); revoked (1.01.2009) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2008* (S.I. No. 563 of 2008), reg. 1(3).
+>
+> E229: Previous affecting provision: power pursuant to Act exercised (31.12.2007) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2007* (S.I. No. 822 of 2007), in operation as per art. 1(2); revoked (1.01.2009) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2008* (S.I. No. 571 of 2008), art. 1(3).
+>
+> E230: Previous affecting provision: power pursuant to Act exercised (31.12.2006) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2006* (S.I. No. 640 of 2006), in operation as per art. 1(2); revoked (1.01.2008) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2007* (S.I. No. 823 of 2007), art. 1(3).
+>
+> E231: Previous affecting provision: power pursuant to Act exercised (31.12.2006) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2006* (S.I. No. 631 of 2006), in operation as per art. 1(2); revoked (1.01.2008) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2007* (S.I. No. 822 of 2007), art. 1(3).
+>
+> E232: Previous affecting provision: para. 3 amended (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(2)(*c*), commenced on enactment; substituted as per F-note above.
+>
+> E233: Previous affecting provision: para. 25(*c*) substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 10(2)(*e*)(ii), commenced on enactment; substituted as per F-note above.
+>
+> E234: Previous affecting provision: power pursuant to Act exercised (31.12.2005) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2005* (S.I. No. 819 of 2005), in operation as per art. 1(2); revoked (1.01.2007) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2006* (S.I. No. 640 of 2006), art. 1(3).
+>
+> E235: Previous affecting provision: power pursuant to Act exercised (31.12.2005) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2005* (S.I. No. 818 of 2005), in operation as per art. 1(2); revoked (1.01.2007) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2006* (S.I. No. 631 of 2006), art. 1(3).
+>
+> E236: Previous affecting provision: certain expenses deemed to have been incurred under para. 16 (8.02.2005) by *European Communities (Internal Market in Electricity) Regulations 2005* (S.I. No. 60 of 2005), reg. 24(2); reg. 24 revoked (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 13(2).
+>
+> E237: Previous affecting provision: power pursuant to Act exercised (31.12.2004) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2004* (S.I. No. 834 of 2004), in operation as per art. 1(2); revoked (1.01.2006) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2005* (S.I. No. 818 of 2005), art. 1(3).
+>
+> E238: Previous affecting provision: power pursuant to Act exercised (31.12.2004) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2004* (S.I. No. 833 of 2004), in operation as per art. 1(2); revoked (1.01.2006) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2005* (S.I. No. 819 of 2005), art. 1(3).
+>
+> E239: Previous affecting provision: power pursuant to Act exercised (31.12.2003) by *Electricity Regulation Act 1999 (Gas) Levy Order 2003* (S.I. No. 693 of 2003), in operation as per art. 1(2); revoked (1.01.2005) by *Electricity Regulation Act 1999 and Gas (Interim) (Regulation) Act 2002 (Gas) Levy Order 2004* (S.I. No. 834 of 2004), art. 1(3).
+>
+> E240: Previous affecting provision: power pursuant to Act exercised (31.12.2003) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2003* (S.I. No. 692 of 2003), in operation as per art. 1(2); revoked (1.01.2005) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2004* (S.I. No. 833 of 2004), art. 1(3).
+>
+> E241: Previous affecting provision: paras. 16 and 17 amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*b*), (*c*), commenced on enactment; substituted as per F-note above.
+>
+> E242: Previous affecting provision: para. 20 amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*d*), commenced on enactment; substituted as per F-note above.
+>
+> E243: Previous affecting provision: para. 25(aa) inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 22(1)(*e*), commenced on enactment; substituted as per E-note above.
+>
+> E244: Previous affecting provision: power pursuant to Act exercised (31.12.2002) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2002* (S.I. No. 607 of 2002), in operation as per art. 1(2); revoked (1.01.2004) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2003* (S.I. No. 692 of 2003), art. 1(3).
+>
+> E245: Previous affecting provision: power pursuant to Act exercised (31.12.2002) by *Electricity Regulation Act 1999 (Gas) Levy (No. 2) Order 2002* (S.I. No. 606 of 2002), in operation as per art. 1(2); revoked (1.01.2004) by *Electricity Regulation Act 1999 (Gas) Levy Order 2003* (S.I. No. 693 of 2003), art. 1(3).
+>
+> E246: Previous affecting provision: power pursuant to Act exercised (20.11.2002) by *Electricity Regulation Act 1999 (Gas) Levy Order 2002* (S.I. No. 522 of 2002), in operation as per art. 1(2); revoked (1.01.2003) by *Electricity Regulation Act 1999 (Gas) Levy (No. 2) Order 2002* (S.I. No. 606 of 2002), art. 1(3).
+>
+> E247: Previous affecting provision: power pursuant to Act exercised (31.12.2001) by *Electricity Regulation Act 1999 Levy Order 2001* (S.I. No. 580 of 2001), in operation as per art. 1(2); revoked (1.01.2003) by *Electricity Regulation Act 1999 (Electricity) Levy Order 2002* (S.I. No. 607 of 2002), art. 1(3).
+>
+> E248: Previous affecting provision: power pursuant to Act exercised (31.12.2000) by *Electricity Regulation Act 1999 (Schedule Paragraph 16) Levy Order 2000* (S.I. No. 447 of 2000), in operation as per art. 1(2); revoked (1.01.2002) by *Electricity Regulation Act 1999 Levy Order 2001* (S.I. No. 580 of 2001), art. 1(3).
+>
+> E249: Previous affecting provision: power pursuant to Act exercised (31.12.1999) by *Electricity Regulation Act 1999 (Schedule Paragraph 16) Levy (No. 2) Order 1999* (S.I. No. 436 of 1999); revoked (1.01.2001) by *Electricity Regulation Act 1999 (Schedule Paragraph 16) Levy Order 2000* (S.I. No. 447 of 2000), art. 1(3).
+>
+> E250: Previous affecting provision: power pursuant to para. 16 exercised (6.12.1999) by *Electricity Regulation Act 1999 (Schedule Paragraph 16) Levy Order 1999* (S.I. No. 382 of 1999), in operation as per art. 1(2); revoked (1.01.2000) by *Electricity Regulation Act 1999 (Schedule Paragraph 16) Levy (No. 2) Order 1999* (S.I. No. 436 of 1999), art. 1(3).
+
+## SCHEDULE 1A — Single Electricity Market Committee
+
+F519[1\. The SEM Committee shall consist of—
+
+(*a*) not more than 3 persons appointed by the Minister after consultation with the Commission,
+
+(*b*) not more than 3 persons appointed by the Minister, with the approval of the Department,
+
+(*c*) a person (the “independent member”) appointed by the Minister with the approval of the Department and after consultation with the Commission,
+
+(*d*) subject to the provisions of *paragraph 3*, where a person stands appointed under that paragraph, that person (the “deputy independent member”).
+
+2\. (*a*) A person appointed under *paragraph (1)*(*a*) shall be a member of the Commission.
+
+(*b*) A person appointed under *paragraph (1)*(*b*) shall be a member of, or a member of the staff of, the Authority.
+
+3\. The Minister may, with the approval of the Department and after consultation with the Commission, appoint a person (the “deputy independent member”) who—
+
+(*a*) may attend and take part in meetings of the SEM Committee, but,
+
+(*b*) may not vote on any matter except in the absence of the independent member.
+
+4\. *Paragraphs 5* to *12* apply in relation to the deputy independent member as they apply in relation to the independent member.
+
+5\. (*a*) Subject to this Schedule, the members shall hold and vacate office in accordance with the terms of their appointment.
+
+(*b*) Those terms of appointment shall be determined by the Minister with the approval of the Minister for Finance and the Department F520[and those terms shall include a term that an appointee is not to disclose information which is subject to a duty of confidentiality either while holding office or after holding office].
+
+F521[(*c*) The members of the SEM Committee shall be appointed –
+
+(i) by means of an independent and impartial procedure, and
+
+(ii) on the basis of objective, transparent and published criteria,
+
+which ensure that candidates for appointment to membership of the SEM Committee have the necessary skill and experience for such membership.]
+
+6\. A person shall not be appointed as a member for a term exceeding 5 years.
+
+7\. A person holding office as a member may resign that office by giving notice in writing to the Minister and the Department.
+
+8\. A person holding office as an independent member may be removed from office by the Minister with the approval of the Department on the grounds of incapacity or misbehaviour F522[, being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be].
+
+9\. A person holding office as a member under *paragraph 1*(*a*)—
+
+(*a*) may be removed from office by the Minister—
+
+(i) on the grounds of incapacity or misbehaviour F523[, being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be], or
+
+(ii) at the request of the Commission,
+
+(*b*) shall cease to hold office if he or she ceases to be a member of the Commission.
+
+10\. A person holding office as a member under *paragraph 1*(*b*)—
+
+(*a*) may be removed from office by the Minister with the approval of the Department—
+
+(i) on the grounds of incapacity or misbehaviour F524[, being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be], or
+
+(ii) at the request of the Authority,
+
+(*b*) shall cease to hold office if he or she ceases to be a member of, or a member of the staff of, the Authority.
+
+11\. A previous appointment as a member does not affect a person’s eligibility for appointment to that office.
+
+12\. (*a*) The Commission shall pay to the persons appointed under *paragraph 1*(*c*) and *3* such remuneration as may be determined by the Minister with the consent of the Minister for Finance.
+
+(*b*) The Commission shall pay to the members such travelling and other allowances as may be determined by the Minister with the consent of the Minister for Finance.
+
+13\. (*a*) The SEM Committee may establish sub-committees.
+
+(*b*) A sub-committee of the SEM Committee may include persons who are not members of the SEM Committee.
+
+14\. (*a*) Subject to the provisions of this Schedule, the SEM Committee may regulate its own procedures.
+
+(*b*) A person shall be treated for the purposes of those procedures as being present at a meeting of the SEM Committee if, in accordance with arrangements made under those procedures, that person is able to hear and be heard by all the persons participating in the meeting.
+
+(*c*) A meeting of the SEM Committee may be held outside the State.
+
+(*d*) The validity of anything done by the SEM Committee is not affected by a vacancy or vacancies in its membership or by a defect in the appointment of a member.
+
+15\. The quorum for a meeting of the SEM Committee is—
+
+(*a*) the independent member (or the deputy independent member) and one other member, or
+
+(*b*) one member appointed under *paragraph 1*(*a*) and one member appointed under *paragraph 1*(*b*).
+
+16\. (*a*) A matter may be decided by agreement—
+
+(i) of all the members of the SEM Committee (whether at a meeting or not), or
+
+(ii) of all the members of the SEM Committee present at a meeting.
+
+(*b*) Where at any meeting of the SEM Committee all the members present are not agreed as to any matter falling to be decided at that meeting, the following provisions of this paragraph apply.
+
+(*c*) The matter shall be put to a vote and may be decided by a majority of the votes cast.
+
+(*d*) For this purpose there shall be 3 votes of which—
+
+(i) the independent member (or the deputy independent member) if present shall have one,
+
+(ii) the members appointed under *paragraph 1(*a*)* who are present shall have one, and
+
+(iii) the members appointed under *paragraph 1(*b*)* who are present shall have one.
+
+(*e*) There shall be no casting vote, and accordingly where there is an equality of votes cast the matter shall not be decided at the meeting (but may be decided at a later meeting).
+
+(*f*) In relation to a vote falling to be cast under *clause (ii)* or *(iii)* of *paragraph (*d*)*—
+
+(i) where all the members mentioned in the clause concerned are agreed as to how the vote is to be cast, the vote shall be cast in that manner,
+
+(ii) where a majority of those members are agreed as to how the vote is to be cast, the vote shall be cast in that manner,
+
+(iii) in any other case, no vote shall be cast.
+
+(*g*) Nothing in this paragraph affects the application of *paragraph 15*.
+
+17\. (*a*) Anything which is authorised or required to be done by the SEM Committee may be done by—
+
+(i) any member of the SEM Committee who is authorised for that purpose by the Committee, either generally or specifically,
+
+(ii) any sub-committee of the SEM Committee which is so authorised, or
+
+(iii) any member of the staff of the Commission or the Authority who is so authorised.
+
+(*b*) *Subparagraph (*a*)(ii)* does not apply to a sub-committee whose members include any person who is not a member, or member of the staff, of the Commission or the Authority.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F519: Inserted (1.11.2007) by *Electricity Regulation (Amendment) (Single Electricity Market) Act 2007* (5/2007), s. 19 and sch., S.I. No. 731 of 2007.
+>
+> F520, F521, F522, F523, F524: Inserted (1.01.2021) by *European Union (Internal Market in Electricity) (Regulatory Authority Matters) Regulations 2020* (S.I. No. 704 of 2020), reg. 12(*a*)-(*d*), in operation as per reg. 1(2).
+
+## F525[SCHEDULE 2 — Categorisation of Accounts
+
+1\. For the purposes of *section 39* the categories of electricity account are—
+
+(*a*) Domestic Accounts, meaning electricity accounts held by final customers and which are identified by the distribution system operator as liable for distribution use of system charges at the rate for urban domestic customers or the rate for rural domestic customers;
+
+(*b*) Small Accounts, meaning electricity accounts held by final customers which are not Domestic Accounts or Medium-Large Accounts;
+
+(*c*) Medium-Large Accounts, meaning electricity accounts held by final customers which, in respect of each such account, the distribution system operator certifies as having a maximum import capacity of not less than 30kVA.
+
+Computation of amount of levy payable by holders of individual electricity accounts
+
+2\. The amount of levy to be imposed on F526[or payment to be made in respect of] each electricity account in respect of a levy period F527[or payment period,] shall be computed—
+
+(*a*) in the case of a Domestic Account by dividing the amount of the F528[levy or payment attributed to] that category of accounts in accordance with *section 39(5A)* by the number of electricity accounts certified by the distribution system operator as falling within that category;
+
+(*b*) in the case of a Small Account by dividing the amount of the F528[levy or payment attributed to] that category of accounts in accordance with *section 39(5A)* by the number of electricity accounts certified by the distribution system operator as falling within that category;
+
+(*c*) in the case of a Medium-Large Account by applying the formula in *paragraph 3* of this Schedule.
+
+Formula to be applied in computation of amount of levy payable by holders of Medium-Large electricity accounts
+
+3\. The amount of levy payable F529[or payment payable to] by the holder of an electricity account in respect of each electricity account which is certified by the distribution system operator as being a Medium-Large Account shall be calculated according to the following formula—
+
+<table><tr><td></td><td rowspan="2">A ×</td><td>B</td><td></td></tr><tr><td></td><td>C</td><td></td></tr></table>
+
+Where
+
+A is the proportion of the F530[levy or payment attributable to] the category of Medium-Large Accounts in accordance with *section 39(5A)* expressed as a monetary amount;
+
+B is the maximum import capacity of the electricity account of the final customer expressed in kVA;
+
+C is the aggregate of the maximum import capacities of electricity accounts which are certified by the distribution system operator as Medium-Large Accounts expressed in kVA.
+
+Construction and Interpretation
+
+4\. (*a*) In this Schedule a reference to the distribution system operator shall in the case of a final customer who has a direct connection to the transmission system be construed as including a reference to the transmission system operator.
+
+(*b*) In this Schedule—
+
+"formula determined by the Commission" means a formula determined by the Commission following consultation with the electricity industry, and having been approved by the Minister, which formula is, after such approval, published by the Commission;
+
+"maximum import capacity" means in relation to an individual electricity account—
+
+(i) the agreed maximum import capacity being the maximum import capacity expressed in kVA agreed by the holder of the electricity account with the distribution system operator, or
+
+(ii) in a case where the maximum import capacity has not been agreed with such an operator, the deemed maximum import capacity being the level of maximum import capacity calculated by the distribution system operator (in accordance with a formula determined by the Commission) as being the maximum import capacity in relation to that account.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F525: Inserted (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 33 and sch., commenced on enactment.
+>
+> F526: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*b*)(i)(I), S.I. No. 352 of 2022.
+>
+> F527: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*b*)(i)(II), S.I. No. 352 of 2022.
+>
+> F528: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*b*)(i)(III), S.I. No. 352 of 2022.
+>
+> F529: Inserted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022),s. 12(*b*)(ii)(I), S.I. No. 352 of 2022.
+>
+> F530: Substituted (11.07.2022) by *EirGrid, Electricity and Turf (Amendment) Act 2022* (17/2022), s. 12(*b*)(ii)(II), S.I. No. 352 of 2022.
+
+## F531[SCHEDULE 3 — Combined Heat and Power
+
+1\. Subject to *paragraph 2*, electricity production from combined heat and power shall be calculated as follows:
+
+(*a*) in the case of combined cycle gas turbine with heat recovery or in the case of steam condensing extraction turbine with an annual overall efficiency of 80 per cent or greater, the total annual electricity production of the unit measured at the outlet of the main generators shall be considered to be electricity produced from combined heat and power;
+
+(*b*) in the case of any other technology or technologies which satisfy the definition of combined heat and power and which have an annual overall efficiency of 75 per cent or greater, the total annual electricity production of the unit measured at the outlet of the main generators shall be considered to be electricity produced from combined heat and power; and
+
+(*c*) in the case of combined heat and power units with an annual overall efficiency below the values referred to in *subparagraphs* (*a*) and (*b*), the electricity produced from combined heat and power is calculated as follows:
+
+E <sub>CHP</sub> = H <sub>CHP</sub> . C
+
+where:
+
+|  | E <sub>CHP</sub> | is electricity production from combined heat and power. |
+|---|---|---|
+|  | C | is the actual power to heat ratio of the unit. |
+|  | H <sub>CHP</sub> | is the amount of useful heat from combined heat and power (calculated as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine). |
+
+2\. If a share of the energy content of the fuel input to the combined heat and power process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in *paragraph 1*.
+
+3\. The relative amount of primary energy savings provided by combined heat and power production shall be calculated as follows:
+
+Where:
+
+|  | PES | is primary energy savings. |
+|---|---|---|
+|  | CHPηH | is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power. |
+|  | RefηH | is the efficiency reference value for separate heat production determined in accordance with *section 7(6)*. |
+|  | CHPηE | is the electrical efficiency of the combined heat and power, defined as annual electricity production from combined heat and power divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power. Where a combined heat and power unit generates mechanical energy, the annual electricity from combined heat and power may be increased by the amount of electricity which is equivalent to that of mechanical energy. |
+|  | RefηE | is the efficiency reference value for separate electricity production determined in accordance with *section 7(6)*. |
+
+4\. Values used for calculation of electricity from combined heat and power and the amount of primary energy savings provided by combined heat and power shall be determined on the basis of—
+
+(*a*) the expected or actual operation of the unit under normal conditions of use, or
+
+(*b*) in the case of micro-combined heat and power units, certified values.
+
+5\. The principles in accordance with which efficiency reference values for separate electricity and heat production may be determined under an order made under *section 7(6)* are as follows:
+
+(*a*) the comparison with separate electricity production shall be based on the principle that the same fuel categories are compared and the comparison is with the best available and economically justifiable technology for separate production of heat and electricity on the market in the year of construction of the power unit concerned;
+
+(*b*) the efficiency reference values for units older than 10 years of age shall be fixed on the reference values of units of 10 years of age;
+
+(*c*) the efficiency reference values for separate electricity production and heat production shall, if necessary, be calibrated to reflect Irish climatic conditions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F531: Inserted (29.07.2009) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 6(*d*) and sch., S.I. No. 298 of 2009.
+
+## SCHEDULE 4 — Provisions Applicable to Oral Hearings Conducted Pursuant to Section 58 or 60
+
+F532[Part 1
+
+Oral Hearing Conducted by Inspector Pursuant to *Section 58(15)*
+
+1\. The inspector conducting the oral hearing for the purposes of an investigation may take evidence on oath, and the administration of such an oath by the inspector is authorised.
+
+2\. The inspector may by notice in writing require any person to attend the oral hearing at such time and place as is specified in the notice to give evidence in respect of any matter in issue in the investigation or to produce any relevant documents within his or her possession or control or within his or her procurement.
+
+3\. Subject to *paragraph 4*, a person referred to in *paragraph 2* may be examined and cross-examined at the oral hearing.
+
+4\. A person referred to in *paragraph 2* shall be entitled to the same immunities and privileges in respect of compliance with any requirement referred to in that paragraph as if the person were a witness before the High Court.
+
+5\. Where a person referred to in *paragraph 2* does not comply or fully comply with a requirement referred to in that paragraph, the inspector may apply by way of motion on notice to the Circuit Court, for an order requiring the person to comply or fully comply, as the case may be, with the requirement within a period to be specified by the Court, and the Court may make the order sought or such other order as it thinks fit or refuse to make any order.
+
+6\. The jurisdiction conferred on the Circuit Court by *paragraph 5* may be exercised by the judge of that Court for the circuit in which the person concerned ordinarily resides or carries on any profession, business or occupation.
+
+7\. The oral hearing shall be held otherwise than in public.
+
+8\. The reasonable travelling and subsistence expenses of any person attending before the inspector in accordance with *paragraph 2* shall be paid out of moneys provided by the Commission.
+
+Part 2
+
+Oral Hearing Conducted by Commission Pursuant to *Section 60(3)*
+
+1\. The Commission, in conducting the oral hearing for the purposes of assisting it to make a decision under *section 60(2)* or for the purposes of observing fair procedures, may take evidence on oath, and the administration of such an oath by any member of the Commission is authorised.
+
+2\. The Commission may by notice in writing require any person to attend the oral hearing at such time and place as is specified in the notice to give evidence in respect of any matter in issue in the making of the decision under section 60(2) or to produce any relevant documents within his or her possession or control or within his or her procurement.
+
+3\. Subject to *paragraph 4*, a person referred to in *paragraph 2* may be examined and cross-examined at the oral hearing.
+
+4\. A person referred to in *paragraph 2* shall be entitled to the same immunities and privileges in respect of compliance with any requirement referred to in that paragraph as if the person were a witness before the High Court.
+
+5\. Where a person referred to in *paragraph 2* does not comply or fully comply with a requirement referred to in that paragraph, the Commission may apply by way of motion on notice to the Circuit Court, for an order requiring the person to comply or fully comply, as the case may be, with the requirement within a period to be specified by the Court, and the Court may make the order sought or such other order as it thinks fit or refuse to make any order.
+
+6\. The jurisdiction conferred on the Circuit Court by *paragraph 5* may be exercised by the judge of that Court for the circuit in which the person concerned ordinarily resides or carries on any profession, business or occupation.
+
+7\. The oral hearing shall be held otherwise than in public unless—
+
+(*a*) the specified body to whom the investigation concerned relates makes a request in writing to the Commission that the hearing (or a part thereof) be held in public and states in the request the reasons for the request, and
+
+(*b*) the Commission, after considering the request (in particular, the reasons for the request), is satisfied that it would be appropriate to comply with the request.
+
+8\. The reasonable travelling and subsistence expenses of any person attending before the Commission in accordance with *paragraph 2* shall be paid out of moneys provided by the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F532: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 6, S.I. No. 171 of 2017.
+
+[^1]: <sup>(1)</sup> O.J. No. L. 027, 30.01.1997, p. 20
+[^2]: OJ L 158, 14.6.2019, p. 54
+[^3]: OJ L 158, 14.6.2019, p. 22
+[^4]: OJ L 158, 14.6.2019, p. 54
+[^5]: OJ L 158, 14.6.2019, p. 54
+[^6]: OJ L 158, 14.6.2019, p. 54
+[^7]: OJ L 363, 18.12.2014, p. 121
+[^8]: OJ L 173, 12.6.2014, p. 349
+[^9]: OJ L 158, 14.6.2019, p. 125
+[^10]: OJ L 158, 14.6.2019, p. 54
+[^11]: OJ No. L211, 14.8.2009, p.94
+[^12]: OJ No. L117, 3.5.2019, p.1
+[^13]: 5 OJ No. L 127, 29.04.2004, p.92
+[^14]: OJ No L 176, 17.07.2003, p.37
+[^15]: OJ No. L 119, 4.5.2016, p.1
+[^16]: OJ No. L178, 28.6.2013 p.66
+[^17]: OJ No. C18, 21.1.2012, p.8
+[^18]: OJ L 328, 21.12.2018, p. 1.
+[^19]: OJ L 328, 21.21.2018, p.82.

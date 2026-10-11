@@ -1,0 +1,1917 @@
+---
+title: "Fisheries (Amendment) Act, 1997"
+identifier: "eli/1997/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 1997
+date: 1997-05-14
+last_amended: 2025-02-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1997/act/23/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1997/act/23/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Fisheries (Amendment) Act, 1997
+
+AN ACT TO AMEND AND EXTEND THE LAWS RELATING TO FISHERIES, TO PROHIBIT PERSONS FROM ENGAGING IN AQUACULTURE EXCEPT WITH AND IN ACCORDANCE WITH A LICENCE TO ESTABLISH A PROCEDURE FOR THE GRANTING, RENEWAL, AMENDMENT AND REVOCATION OF LICENCES, TO ALLOW FOR APPEALS AGAINST DECISIONS RELATING TO LICENCES, AND FOR CONNECTED PURPOSES. [14*th May*, 1997]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of collectively cited *Aquaculture Acts* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...<br>...</td><td>...<br>...</td><td>...<br>Aquaculture Acts 1997 to 2006<br>...</td></tr></table>
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1997</td><td>Fisheries (Amendment) Act 1997</td><td>Sections 25, 27(3), 35A(2), 36, 37, 63(1), 64(1) and (3) and 68(6)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Application of collectively cited *Aquaculture Acts* potentially restricted (1.08.2008) by *European Communities (Health of Aquaculture Animals and Products) Regulations 2008* (S.I. No. 261 of 2008), reg. 43(2)(b), in effect as per reg. 1. Note also conditions of licence granted under Act may be modified in accordance with reg. 43(2)(a).
+>
+> (2) If there is a conflict between—
+>
+> (a) a condition of an aquaculture licence (within the meaning of Part VIA (inserted by the Foyle and Carlingford Fisheries Act 2007) of the Foyle Fisheries Act 1952 or the Fisheries (Amendment) Act 1997) and a condition of a fish health authorisation, the condition of the fish health authorisation prevails, or
+>
+> (b) between the Aquaculture Acts and these Regulations, these Regulations prevail.
+>
+> C4: Functions in relation to collectively cited *Aquaculture Acts* transferred and references to “Department of” and “Minister for Communications, Marine and Natural Resources” construed (9.10.2007) by *Sea Fisheries, Foreshore and Dumping at Sea (Transfer of Departmental Administration and Ministerial Functions) Order 2007* (S.I. No. 707 of 2007), arts. 2, 3 and sch. 1, subject to transitional provisions in arts. 4-8. Note: as of date of this revision, name of Department and Minister changed to Agriculture, Food and the Marine (17.10.2011) by *Agriculture, Fisheries and Food (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 455 of 2011).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Agriculture and Food.
+>
+> (2) A reference to the Department of Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall be construed as a reference to the Department of Agriculture and Food.
+>
+> 3\. (1) A function vested in the Minister for Communications, Marine and Natural Resources by or under—
+>
+> (a) an enactment cited in Part 1 of the Schedule to this Order, and
+>
+> (b) Regulations made under section 3 of the European Communities Act 1972 cited in Part 2 of that Schedule,
+>
+> is transferred to the Minister for Agriculture and Food.
+>
+> (2) A reference to the Minister for Communications, Marine and Natural Resources contained in an enactment or instrument made under an enactment and relating to a function transferred by this Article shall be construed as a reference to the Minister for Agriculture and Food.
+>
+> ...
+>
+> SCHEDULE
+>
+> PART 1
+>
+> ...
+>
+> Aquaculture Acts 1997 to 2006
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: application of Act potentially restricted by *European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 31, as amended (18.07.2005) by *European Communities (Natural Habitats) (Amendment) Regulations 2005* (S.I. No. 378 of 2005), reg. 3(13); revoked (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 73(1), in effect as per reg. 1(3), subject to transitional provisions in reg. 73(3).
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title, collective citation, construction and commencement.
+
+**1.**—(1) This Act may be cited as the Fisheries (Amendment) Act, 1997.
+
+(2) The Fisheries Acts, 1959 to 1995, and this Act may be cited together as the Fisheries Acts, 1959 to 1997, and shall be construed together as one.
+
+(3) This Act shall come into operation on such day or days as may be fixed therefor by order or orders of the Minister, either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (3) exercised (16.06.1998 and 30.06.1998) by *Fisheries (Amendment) Act, 1997 (Commencement) (No. 2) Order 1998* (S.I. No. 203 of 1998).
+>
+> 2\. The 16th day of June, 1998, is hereby fixed as the day on which sections 19, 22, 24 to 39, 68 and 70 of, and the Schedule to, the Fisheries (Amendment) Act, 1997 (No. 23 of 1997), shall come into operation.
+>
+> 3\. The provisions, other than sections 11 and 13, of the Fisheries (Amendment) Act, 1997 (No. 23 of 1997), shall come into operation on the 30th day of June, 1998, save in so far as already in operation prior to that date.
+>
+> E3: Power pursuant to subs. (3) exercised (26.02.1998) by *Fisheries (Amendment) Act, 1997 (Commencement) Order 1998* (S.I. No. 46 of 1998).
+>
+> 2\. The 26th day of February, 1998, is hereby fixed as the day on which sections 2, 3, 4(1) (in so far as it repeals section 54A of the Act of 1980), 5(2), 10, 23, 63, 64, 65(2), 65(3), 66 and 67, shall come into operation.
+
+### 2. Non-application to Moville Area of the Foyle Fisheries area.
+
+**2.**—This Act shall not apply to or in relation to the Moville Area, within the meaning of the Foyle Fisheries Act, 1952.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted by *Foyle and Carlingford Fisheries Act 2007* (17/2007), s. 34(a), not commenced as of date of revision.
+>
+> F2: Substituted by *Foyle and Carlingford Fisheries Act 2007* (17/2007), s. 34(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: section amended by *Foyle and Carlingford Fisheries Act 2007* (17/2007), s. 34, not commenced as of date of revision.
+>
+> **2.**—This Act shall not apply to or in relation to the Moville Area F1[or the Louth Area], within F2[the respective meanings of those terms in] the Foyle Fisheries Act, 1952.
+
+### 3. Interpretation.
+
+**3.**—(1) In this Act, unless the context otherwise requires—
+
+“the Act of 1980” means the Fisheries Act, 1980;
+
+“application regulations” means regulations made under *section 10 (2)*;
+
+“aquaculture” means the culture or farming of any species of fish, aquatic invertebrate animal of whatever habitat or aquatic plant, or any aquatic form of food suitable for the nutrition of fish;
+
+“aquaculture licence” means a licence granted under *section 14* to engage in aquaculture or operations in relation to aquaculture, not being a trial licence;
+
+“the Board” means the Aquaculture Licences Appeals Board established by *section 22* and, in relation to an oral hearing of an appeal in pursuance of *section 49*, includes a person authorised by the Board to conduct the hearing;
+
+“Chairperson” means the Chairperson of the Board and includes the Deputy Chairperson and a member appointed under *section 28(3)* *(c)* to preside at a meeting, while so presiding;
+
+“land” includes land covered by water and the water covering that land;
+
+“licence” means an aquaculture licence or a trial licence;
+
+“licensee” means a person to whom a licence is granted, or that person's heirs, executors, administrators or assigns to whom the benefit of the licence has devolved;
+
+“licensing authority” means—
+
+(*a*) the Minister,
+
+(*b*) an officer to whom functions have been delegated under *section 21(1)* by the Minister, or
+
+(*c*) the Board;
+
+F3[‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);]
+
+“the Principal Act” means the Fisheries (Consolidation) Act, 1959, as amended;
+
+“trial licence” means a licence granted under *section 14* to carry out any operation, activity, trials or experiments referred to in *section 9 (1)*.
+
+(2) In *Part II*—
+
+(*a*) “oyster bed licence” means an oyster bed licence within the meaning of Part XIV of the Principal Act; and
+
+(*b*) “oyster fishery order” means an oyster fishery order within the meaning of Part XIV of the Principal Act as in force immediately before the commencement of *section 5*, and includes an oyster fishery order applying to mussels, mussel beds and mussel fisheries by virtue of section 282 of the Principal Act as then in force.
+
+(3) In *sections 9*, *13(1)*, (*2*) and (*3*), *14* and *40*, a reference to the Minister shall, where functions have been delegated to an officer of the Minister under *section 21(1)*, be construed as including a reference to that officer.
+
+(4) In this Act, including a Schedule to this Act—
+
+(*a*) a reference to any other enactment shall, except to the extent that the context otherwise requires, be construed as a reference to that enactment as amended by or under any other enactment, including this Act;
+
+(*b*) a reference to a section, Chapter or Part is a reference to a section, Chapter or Part of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*c*) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*d*) a reference to a Schedule is a reference to a Schedule to this Act.
+
+(5) A reference in this Act to the performance of functions includes a reference to the exercise of powers and the performance of duties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: definition of “local authority” inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 2, commenced on enactment; substituted as per F-note above.
+>
+> E5: By virtue of *Foreshore Act 1933* (12/1933), s. 3C, as inserted (29.06.2005) by *Maritime Safety Act 2005* (11/2005), s. 60(c), commenced on enactment, a licence area covered by a foreshore licence, which is deemed to be an aquaculture licence under this section, is to be construed by reference to the definition of “foreshore” in *Foreshore Act 1933*, s. 1.
+
+### 4. Repeal of sections 54 and 54A of Act of 1980 and revocation of orders and savings.
+
+**4.**—(1) Sections 54 and 54A (inserted by Regulation 21 of the European Communities (Environmental Impact Assessment) Regulations, 1989 (S.I. No. 349 of 1989)) of the Act of 1980 are hereby repealed.
+
+(2) Any order under section 54 of the Act of 1980 in force immediately before the commencement of this section is, on that commencement, revoked.
+
+(3) The revocation of an order referred to in *subsection (2)* shall not affect the validity or the operation of any aquaculture licence granted under section 54 of the Act of 1980 and the licence shall continue as if that section had never been repealed.
+
+### 5. Repeal and amendment of provisions of Principal Act.
+
+**5.**—(1) Section 15 of the Principal Act is hereby repealed.
+
+(2) Section 15A of the Principal Act (inserted by Article 18 of the European Communities (Environmental Impact Assessment) Regulations, 1989 (S.I. No. 349 of 1989)) is hereby repealed.
+
+(3) Section 244 of the Principal Act is hereby amended—
+
+(*a*) by inserting in the definition of “oyster bed (1959 Act) licence” the words “before the commencement of *section 12* of the *Fisheries (Amendment)**Act*, *1997*,” after “under section 245”, and
+
+(*b*) by inserting in the definition of “oyster fishery (1959 Act) order” the words “before the commencement of *section 12* of the *Fisheries (Amendment)**Act*, *1997*,” after “under Chapter III of this Part”.
+
+(4) Section 247 of the Principal Act is hereby repealed.
+
+(5) Section 252 of the Principal Act is hereby amended by the substitution of “oyster bed (1959 Act) licence” for “grant any oyster bed (1959 Act) licence in lieu thereof to the licensee or his representative”.
+
+(6) Sections 256, 257, 258, 259, 260 and 269 of the Principal Act are hereby repealed.
+
+(7) Section 282 of the Principal Act is hereby amended by the substitution of “Sections 261 to 268” for “Sections 256 to 269”.
+
+(8) For the avoidance of doubt, section 312 of the Principal Act, to the extent if any that, by virtue of section 72 of the Act of 1980 and the table to that section, it is in force, is hereby repealed.
+
+## PART IIRegulation of Aquaculture and Related Matters — PART II — Regulation of Aquaculture and Related Matters
+
+### 6. Regulation of aquaculture.
+
+**6.**—(1) A person who, at any place or in any waters, engages in aquaculture except under and in accordance with an aquaculture licence, a trial licence, or an oyster bed licence or an oyster fishery order shall be guilty of an offence.
+
+(2) If an offence under *subsection (1)* of which a person was convicted is continued after the conviction, the person shall be guilty of a further offence on every day on which the act or omission constituting the offence continues, and for each such further offence the person shall be liable on summary conviction to a fine not exceeding F4[€300] or on conviction on indictment to a fine not exceeding F5[€2,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(a)(i), commenced on enactment.
+>
+> F5: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(a)(ii), commenced on enactment.
+
+### 7. Aquaculture licences.
+
+**7.**—(1) Subject to *section 8*, the licensing authority may, if satisfied that it is in the public interest to do so, license a person, at a place or in waters specified in the licence, to engage in aquaculture or such operations in relation to aquaculture, and subject to such conditions, as it thinks fit and specifies in the licence.
+
+(2) A licence may be granted notwithstanding the existence of any public right to fish in any waters to which the licence relates.
+
+(3) Without limiting the generality of *subsection (1)*, conditions to which an aquaculture licence may be subject may include or relate to any or all of the following:
+
+(*a*) a specification, by means of a map or otherwise, of the boundaries or limits of the place or waters in relation to which the licence is granted;
+
+(*b*) the amount of feed inputs;
+
+(*c*) annual or seasonal limits on stock inputs, outputs and standing stock on site;
+
+(*d*) operational practices, including the fallowing of sites;
+
+(*e*) the reporting of incidences of disease and the presence of parasites;
+
+(*f*) the disposal of dead fish;
+
+(*g*) measures for preventing escapes of fish, and arrangements for the reporting of escapes;
+
+(*h*) monitoring and inspection of the aquaculture carried on pursuant to the licence;
+
+(*i*) the keeping of records by the licensee;
+
+(*j*) the protection of the environment (including the man-made environment of heritage value) and the control of discharges;
+
+(*k*) appropriate environmental, water quality and biological monitoring.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: licence under section extended to Louth Area by *Foyle Fisheries Act 1952* (5/1952), s. 53(V); as inserted by *Foyle and Carlingford Fisheries Act 2007* (17/2007), s. 4(1), not commenced as of date of revision .
+>
+> *Provisions in respect of certain existing licences.*
+>
+> **53V.**— (1) This section applies to an aquaculture licence which—
+>
+> (a) is granted under the Fisheries (Amendment) Act 1997 ,
+>
+> (b) (i) is in force immediately before the day on which this Part comes into operation as respects the Louth Area, or
+>
+> (ii) is the subject of an application to which section 53W(2) refers, and (c) authorises the doing of any act in the Louth Area, but nothing in this section affects the operation of such a licence in relation to any area other than the Louth Area.
+>
+> (2) Subject to section 53W(2), a licence to which this section applies shall, in so far as it authorises the doing of any act in the Louth Area, have effect on and after the day on which section 53A comes into operation as respects the Louth Area or from which the licence authorises the doing of any act, whichever as respects the licence concerned is the later, as if granted by the Commission under section 53A.
+>
+> C7: Application of section restricted (6.11.2008) by *European Communities (Control of Dangerous Substances in Aquaculture) Regulations 2008* (S.I. 466 of 2008), reg. 5(1).
+>
+> *Conditions of aquaculture licence*
+>
+> 5\. (1) Notwithstanding the generality of section 7 of the Fisheries (Amendment) Act 1997 , a licensing authority may grant or attach conditions to an aquaculture licence, amend an aquaculture licence, revoke an aquaculture licence or refuse an application for an aquaculture licence, if, in the opinion of the licensing authority, it is necessary, supplementary or ancillary for these Regulations to have full effect.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E6: Provision for aquaculture licence to be rendered ineffective on revocation of fish health authorisation made (1.08.2008) by *European Communities (Health of Aquaculture Animals and Products) Regulations 2008* (S.I. No. 261 of 2008), reg. 17(10).
+
+### 8. Limitation on licensing to engage in aquaculture.
+
+**8.**—(1) The licensing authority shall not license a person to engage in aquaculture within the limits of an oyster bed or oyster fishery the property of any private person or to which an oyster bed licence or oyster fishery order relates, without the consent of that private person or of the person who for the time being is beneficially entitled to the oyster bed or oyster fishery.
+
+(2) The licensing authority may license a person to engage in aquaculture within the limits of a several fishery, as defined by section 3 of the Principal Act, only—
+
+(*a*) if the person is the owner of the fishery, or
+
+(*b*) with the consent in writing of the owner.
+
+(3) An aquaculture licence shall not be construed as taking away or abridging any right on, to or over any portion of the seashore enjoyed by a person under a local or special Act, or any charter, letters patent, prescription or immemorial usage, or a right of several fishery, without the consent of that person.
+
+### 9. Trial licences.
+
+**9.**—(1) The Minister may license a person, other than in fresh water—
+
+(*a*) to carry on, at a place or in waters specified in the licence, such operations for the purpose of investigating the suitability of the place or waters for aquaculture, or for any activity forming part of an aquaculture operation, or
+
+(*b*) to carry out such other trials or experiments (including trials in the culture or farming of novel species),
+
+for such period—
+
+(i) in the case of salmon, not exceeding one year, and
+
+(ii) in all other cases, not exceeding 3 years,
+
+and subject to such conditions, which may include or relate to all or any of the matters specified in *section 7 (3)*, as the Minister thinks fit and specifies in the licence.
+
+(2) Without limiting the generality of *subsection (1)*, a trial licence may specify, by means of a map or otherwise, the boundaries or limits of the place or waters in relation to which the licensee is licensed.
+
+(3) A trial licence is not capable of being renewed.
+
+(4) The Minister may revoke a trial licence where he or she considers that there has been a contravention of or failure to comply with the terms of the licence or of a condition subject to which it was granted.
+
+### 10. Applications for licences.
+
+**10.**—(1) A person may, in accordance with the application regulations, apply to the Minister for an aquaculture licence or trial licence.
+
+(2) The Minister shall make regulations providing for procedures in relation to the making of applications for aquaculture or trial licences and the consideration of applications, and the regulations may contain different provisions in respect of different classes of applications.
+
+(3) The application regulations may, in particular and without limiting the generality of *subsection (2)*—
+
+(*a*) provide for the form of applications,
+
+(*b*) require applicants to publish or give specified notices relating to their applications,
+
+(*c*) require applicants to furnish to specified persons any specified information relating to their applications,
+
+(*d*) in connection with Council Directive 85/337/EEC[^1] or any Directive amending or replacing that Directive—
+
+(i) require the submission of an environmental impact statement to the Minister in respect of specified applications,
+
+(ii) provide that the Minister may require, in the case of specified applications, the submission of an environmental impact statement in respect of the application,
+
+(iii) specify the information to be contained in an environmental impact statement,
+
+(iv) allow the Minister to determine, for the purposes of dealing with an application, the adequacy of the information contained in an environmental impact statement,
+
+(*e*) provide for the availability for inspection of documents or extracts from documents relating to applications, the period of such availability, and for the purchase of copies of or extracts from such documents,
+
+(*f*) provide for consultation with such bodies, including statutory bodies, as may be prescribed for that purpose,
+
+(*g*) provide for the making of submissions or observations to the licensing authority in relation to applications and the period during which such submissions or observations may be made,
+
+(*h*) require applicants to submit further information relating to their applications,
+
+(*i*) require the production of evidence to verify particulars or information given by an applicant, and
+
+(*j*) require the licensing authority to publish or give specified notices about applications or decisions on applications.
+
+F6[(4) Where the submission to the Minister of an environmental impact statement is required under regulations made under subsection (3)(*d*) in respect of an application for a licence, the Minister, if requested by the applicant, shall, after consultation with such persons as the Minister considers appropriate, give a written opinion to the applicant of the information to be contained in the statement, before the applicant submits the statement.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to section exercised (4.07.2018) by *Aquaculture (Licence Application) (Amendment) Regulations 2018* (S.I. No. 240 of 2018).
+>
+> E8: Power pursuant to section exercised (25.08.2016) by *Aquaculture (Licence Application) (Amendment) Regulations 2016* (S.I. No. 464 of 2016).
+>
+> E9: Power pursuant to section exercised (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. No. 301 of 2012).
+>
+> E10: Power pursuant to section exercised (21.07.2010) by *Aquaculture (Licence Application) (Amendment) (No. 2) Regulations 2010* (S.I. No. 369 of 2010).
+>
+> E11: Power pursuant to section exercised (4.06.2010) by *Aquaculture (Licence Application) (Amendment) Regulations 2010* (S.I. No. 280 of 2010).
+>
+> E12: Power pursuant to section exercised (30.06.1998) by *Aquaculture (Licence Application) Regulations 1998* (S.I. No. 236 of 1998).
+>
+> E13: Previous affecting provision: power pursuant to section exercised (20.04.2006) by *Aquaculture (Licence Application) (Amendment) Regulations 2006* (S.I. No. 197 of 2006); revoked (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. 301 of 2012), reg. 3(b).
+>
+> E14: Previous affecting provision: power pursuant to section exercised (7.04.2001) by *Aquaculture (Licence Application) (Amendment) Regulations 2001* (S.I. No. 145 of 2001); revoked (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. 301 of 2012), reg. 3(a).
+>
+> E15: Previous affecting provision: subs. (4) inserted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), art. 17; substituted as per F-note above.
+
+### 11. Person not to engage in aquaculture in anticipation of grant of licence.
+
+**11.**—F7[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Repealed (23.12.1998) by *Fisheries and Foreshore (Amendment) Act 1998* (54/1998), s. 4(2), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E16: Section not commenced prior to repeal.
+
+### 12. Determination of applications for licences.
+
+**12.**—(1) The licensing authority shall determine an application for a licence by deciding to—
+
+(*a*) grant the licence or a variation of the licence, or
+
+(*b*) refuse to grant the licence.
+
+(2) A variation referred to in *subsection (l) (a)* may be a variation of the term of the licence or of a condition to which the licence is to be subject, or the inclusion or omission of a term or condition.
+
+(3) The licensing authority shall, as soon as practicable after determining an application, advise the applicant in writing of its decision.
+
+### 13. Period for determination of applications for licences.
+
+**13.**—(1) The Minister shall endeavour to determine an application for a licence—
+
+(*a*) in the case of an application for a trial licence, as soon as practicable, but in any case not later than four months after all requirements of or under the application regulations relating to the application have been complied with, and
+
+(*b*) in the case of an application for an aquaculture licence received on or after the commencement of this section—
+
+(i) within four months from the date on which all requirements of or under the application regulations relating to the application have been complied with, or
+
+(ii) such other period as the Minister may prescribe, either generally or in respect of a particular class of applications to which the application belongs.
+
+(2) Where it appears to the Minister that it would not be possible or appropriate, because of the particular circumstances relating to an application for a licence, to determine the application within the period referred to in *subsection (1)*, the Minister shall, by notice in writing served on the applicant and any person who has made submissions or observations in relation to the application in accordance with the application regulations, inform the applicant and those persons of the reasons why it would not be possible or appropriate to determine the application within that period and shall specify the date before which, or the period within which, the Minister intends that the application shall be determined.
+
+(3) Where a notice has been served under *subsection (2)*, the Minister shall take such steps as are open to him or her to ensure that the application is determined before the date, or within the period, specified in the notice.
+
+(4) The Minister may make regulations—
+
+(*a*) providing that *subsection (1)* shall not have effect for such period as is specified in the regulations, or
+
+(*b*) varying a period mentioned in that subsection, either generally or in respect of a particular class or particular classes of applications,
+
+where it appears to the Minister to be necessary, because of exceptional circumstances, to do so and, for so long as the regulations are in force, this section shall be construed and have effect accordingly.
+
+(5) In this section “application for a licence” shall include an application for a review of an aquaculture licence.
+
+### 14. Granting of licences.
+
+**14.**—(1) Where the Minister determines an application for a trial licence by deciding to grant the licence, the Minister shall grant the licence as soon as practicable after so deciding.
+
+(2) Where the Minister determines an application for an aquaculture licence by deciding to grant the licence or a variation of the licence and no appeal is lodged against the decision within the time allowed by *section 40 (1)* for the lodging of such appeals, the Minister shall grant the licence or licence as so varied as soon as practicable after the last day on which such an appeal could be lodged.
+
+(3) Where the Minister determines an application for an aquaculture licence by deciding to grant the licence or a variation of the licence and an appeal is lodged against the decision within the time allowed by *section 40 (1)* for the lodging of such appeals, the Minister shall not grant the licence or licence as so varied unless the appeal is, or where more than one appeal is lodged against the decision all of the appeals are—
+
+(*a*) withdrawn, or
+
+(*b*) determined by the Board pursuant to *section 48* by confirming under *section 40 (4)*(*a*) the decision of the Minister, or
+
+(c) dismissed by the Board pursuant to *section 51*,
+
+but shall grant the licence as soon as practicable thereafter.
+
+(4) In this section, a reference to a case in which the Minister decides to grant an aquaculture licence shall include a reference to a case in which the Minister, following a review of an aquaculture licence in accordance with *section 70*, decides to alter any or all of the terms of the licence, or to amend or delete any conditions to which the licence is subject, or to impose conditions or additional conditions in relation to the licence.
+
+### 15. Duration of aquaculture licences.
+
+**15.**—(1) Where an aquaculture licence is granted with the consent of a person referred to in *section 8* and a period is specified in that consent, the licence shall remain in force for that period only.
+
+(2) Subject to *subsection (1)*, an aquaculture licence shall be for such period, not exceeding 20 years, as may be specified in the licence.
+
+### 16. Effect of licence.
+
+**16.**—(1) A licence is binding on the State and on all persons whomsoever, and, subject to *section 8 (3)*, shall operate to enable the licensee to carry on, in accordance with the licence, such operations as are specified in the licence, free from all prior or other rights, titles, estates or interests, if any.
+
+(2) In addition to his or her entitlement under *subsection (1)*, and notwithstanding anything contained in the Fisheries Acts, 1959 to 1995, or any instrument under those Acts, a licensee and any person acting under the directions of a licensee shall, by virtue of, but subject to the conditions of, the licence and the requirements of any regulations made under *section 71*, have the exclusive right to do within the boundaries or limits specified in the licence anything authorised by the licence or necessary or expedient to conduct the operations specified in the licence.
+
+### 17. Application of sections 263 and 264 of Principal Act.
+
+**17.**—Sections 263 and 264 of the Principal Act shall, with the necessary modifications, each apply to any operation carried on pursuant to a licence as they apply to an oyster fishery granted under an oyster fishery order.
+
+### 18. Licence may be amended to give effect to later agreements.
+
+**18.**—The licensing authority may amend an aquaculture licence so as to give effect to any undertaking or agreement which, after the date of the licence, may have been given or entered into by or on behalf of a licensee with any other person.
+
+### 19. Renewal of licence.
+
+**19.**—Subject to *section 15 (1)*, an aquaculture licence granted for a period specified in the licence may, on the expiration of the period, be renewed or further renewed by the licensing authority for such period as may be specified by it, after consultation with such bodies, if any, as may be prescribed for that purpose.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (4.07.2018) by *Aquaculture (Licence Application) (Amendment) Regulations 2018* (S.I. No. 240 of 2018).
+>
+> E18: Power pursuant to section exercised (30.06.1998) by *Aquaculture (Licence Application) Regulations 1998* (S.I. No. 236 of 1998).
+>
+> E19: Previous affecting provision: power pursuant to section exercised (7.04.2001) by *Aquaculture (Licence Application) (Amendment) Regulations 2001* (S.I. No. 145 of 2001); revoked (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. No. 301 of 2012), reg. 3(a).
+
+### 19A. Renewal of licence after its expiration
+
+F8[**19A.**— (1) The power of the licensing authority to renew or to further renew an aquaculture licence under section 19 is exercisable notwithstanding the expiration of the period for which the licence was granted or renewed.
+
+(2) Where, prior to the passing of the Sea-Fisheries and Maritime Jurisdiction Act 2006, an aquaculture licence has been renewed or further renewed after the expiration of the period for which the licence was granted or renewed, such renewal shall be and be deemed always to have been as valid and effectual as if the licence had been renewed or further renewed on the expiration of the period in question.
+
+(3) If, because of the validation expressed to be effected by subsection (2), that subsection would, but for this subsection, conflict with a constitutional right of any person, the validation shall be subject to such limitation as is necessary to secure that it does not so conflict but shall be otherwise of full force and effect.
+
+(4) A licensee who has applied for the renewal or further renewal of an aquaculture licence shall, notwithstanding the expiration of the period for which the licence was granted or renewed but subject otherwise to the terms and conditions of the licence, be entitled to continue the aquaculture or operations in relation to aquaculture authorised by the licence pending the decision on the said application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* s. 101(c), commenced on enactment.
+
+### 20. Offence of interfering with licensee's rights under licence.
+
+**20.**—Except as permitted by or under this Act, if a person, by trespass, fishing or otherwise interferes with anything done or being done pursuant to a licence, and the interference is carried on without the permission of the licensee, then, notwithstanding the existence of any public right to fish, the person so interfering shall be guilty of an offence.
+
+### 21. Delegation of certain functions by Minister.
+
+**21.**—(1) The Minister may, by instrument under his or her hand or seal, delegate to a named officer of the Minister who is an established civil servant for the purpose of the Civil Service Regulation Act, 1956, the function of determining applications for licences, or applications of a particular class or description.
+
+(2) A delegation under *subsection (1)* is without prejudice to the right of the Minister to perform the function delegated.
+
+(3) Subject to *section 62 (2)*, a function delegated under *subsection (1)* shall be exercisable and performed by the delegate in accordance with—
+
+(*a*) the general directives, if any, issued under *section 62 (1)* by the Minister,
+
+(*b*) the general superintendence and control of the Minister, and
+
+(*c*) such limitations, if any, as may be specified by the Minister in the instrument of delegation or in writing at any time after the delegation of the function.
+
+(4) The Minister may, at any time, revoke a delegation under *sub-section (1)*.
+
+(5) Where a delegation under *subsection (1)* is revoked at a time when an application for a licence has not been fully determined by the delegate, the Minister himself or herself, or another duly delegated officer, may determine the application.
+
+(6) In this section, a reference to determining applications for aquaculture licences shall include a reference to determining applications for reviews of aquaculture licences.
+
+## PART IIIAppeals and Related Matters — PART III — Appeals and Related Matters
+
+### Chapter IAquaculture Licences Appeals Board — Chapter I — Aquaculture Licences Appeals Board
+
+#### 22. Aquaculture Licences Appeals Board.
+
+**22.**—(1) There is hereby established, on such day as shall be appointed for that purpose by order of the Minister, a body to be known as the Aquaculture Licences Appeals Board, to perform the functions assigned to it by this Act.
+
+(2) The provisions of the *Schedule* shall have effect in relation to the Board.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to subs. (1) exercised (16.06.1998) by *Aquaculture Licences Appeals Board (Establishment) Order 1998* (S.I. No. 204 of 1998).
+
+#### 23. Membership of Board.
+
+**23.**—(1) The Board shall consist of a Chairperson and six other members.
+
+F9[(1A) A person who is, for the time being—
+
+(*a*) entitled under the Standing Orders of either House of the Oireachtas to sit therein,
+
+(*b*) a member of the European Parliament, or
+
+(*c*) a member of a local authority,
+
+shall be disqualified from being appointed as the Chairperson or member of the Board.]
+
+(2) The Chairperson shall be appointed by the Government.
+
+(3) The Minister shall prescribe not less than two organisations which, in the Minister’s opinion, are representative of each of the following classes of organisation:
+
+(*a*) organisations which, in the Minister’s opinion, are concerned with the promotion of the development of aquaculture or are representative of persons carrying on the business of developing aquaculture;
+
+(*b*) organisations which, in the Minister’s opinion, are concerned with the conservation, development and protection of wild fisheries;
+
+(*c*) organisations which, in the Minister’s opinion, are representative of persons whose professions or occupations relate to physical planning and development;
+
+(*d*) organisations which, in the Minister’s opinion, are representative of persons concerned with the protection and preservation of the environment and amenities;
+
+(*e*) organisations which, in the Minister’s opinion, are concerned with the promotion of general economic development; and
+
+(*f*) organisations which, in the Minister’s opinion, are concerned with the promotion of community development.
+
+(4) Subject to *subsection (5)*, the Minister shall appoint as members of the Board from amongst those persons nominated by each of the classes of organisations prescribed under *subsection (3)* one member to represent each class of organisation, or in default of such nominations after the Minister has given each a reasonable opportunity to do so, then from among such persons as the Minister thinks fit.
+
+(5) Where because of the illness of the Chairperson or of any other member, or for any other reason, a sufficient number of members of the Board is not available to enable the Board to perform its functions effectively, the Minister may appoint a person who, in the Minister's opinion, has the appropriate knowledge or experience in matters relevant to the functions of the Board to act as a member of the Board in place of an absent member during the absence.
+
+(6) An organisation prescribed under *subsection (3)* shall, whenever so requested by the Minister, select such number of candidates (not being less than two), as the Minister may specify for appointment as members of the Board and shall inform the Minister of the names of the candidates selected and of the reasons why, in the opinion of the organisation, they are suitable for such appointment.
+
+(7) Subject to *subsection (5)* and except in the case of a reappointment under *section 24 (1)* (*b*), the Minister shall not appoint a person to be a member unless the person was amongst those selected pursuant to a request under *subsection (6)* in relation to that appointment, but—
+
+(a) if all of the appropriate organisations refuse or fail to select any candidate, or
+
+(*b*) if the Minister decides not to appoint as a member any of the candidates selected by such organisations,
+
+pursuant to a particular request under *subsection (6)*, then either—
+
+(i) the Minister shall appoint as a member a person who was amongst those selected by such an organisation pursuant to a previous request (if any) under that subsection in relation to that appointment, or
+
+(ii) the Minister shall make a further such request and shall appoint as a member a person who was amongst those selected pursuant to that request made in relation to the appointment.
+
+(8) Where a request is made under *subsection (6)* or (*7*)(*ii*), failure or refusal by the organisation of whom the request is made to select the number of candidates specified in the request shall not preclude the appointment as a member of a person who was selected in relation to that appointment either by the organisation or by any other organisation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant to subs. (3) exercised (14.12.2017) by *Fisheries (Amendment) Act 1997 (Prescribed Organisations For Aquaculture Licences Appeals Board) Regulations 2017* (S.I. No. 588 of 2017).
+>
+> E22: Previous affecting provision: power pursuant to subs. (3) exercised (1.12.2011) by *Fisheries (Amendment) Act 1997 (Prescribed Organisations for the Aquaculture Licences Appeals Board) Regulations 2011* (S.I. No. 621 of 2011); revoked (14.12.2017) by *Fisheries (Amendment) Act 1997 (Prescribed Organisations For Aquaculture Licences Appeals Board) Regulations 2017* (S.I. No. 588 of 2017), reg. 3.
+>
+> E23: Previous affecting provision: power pursuant to subs. (3) exercised (31.03.1998) by *Fisheries (Amendment) Act, 1997 (Section 23) Regulations 1998* (S.I. No. 84 of 1998); revoked (1.12.2011) by *Fisheries (Amendment) Act 1997 (Prescribed Organisations for the Aquaculture Licences Appeals Board) Regulations 2011* (S.I. No. 621 of 2011), reg. 3.
+
+#### 24. Tenure of office of Chairperson and members of Board.
+
+**24.**—(1) Subject to this section—
+
+F10[(*a*) the Chairperson shall hold office for such period, not exceeding five years, as shall be specified by the Government when appointing the Chairperson, and may be re-appointed for a second or subsequent term of office, and]
+
+(*b*) a member of the Board, other than the Chairperson, shall hold office for such period, not exceeding five years, as shall be specified by the Minister when appointing the member, and may be re-appointed for a second or subsequent term of office.
+
+(2) The Chairperson or other member of the Board may resign the office of Chairperson or member, as the case may be, by letter addressed to the Minister, and the resignation shall take effect on the date of the receipt of the letter by the Minister.
+
+(3) F11[...]
+
+(4) Where the Chairperson or other member of the Board—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is nominated as a candidate for election to either House of the Oireachtas or to the European Parliament, or
+
+F12[(*c*) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to that Parliament to fill a vacancy, or
+
+(*d*) becomes a member of a local authority]
+
+he or she shall thereupon cease to be the Chairperson or a member of the Board, as the case may be.
+
+(5) The Minister may remove the Chairperson or other member of the Board from office—
+
+(*a*) if the Chairperson or member becomes incapable through ill-health of effectively performing his or her functions,
+
+(*b*) for stated misbehaviour, or
+
+(c) if the Chairperson's or member's removal appears to the Minister to be necessary for the effective performance by the Board of its functions,
+
+and the Minister shall cause to be laid before each House of the Oireachtas a statement in writing of the reasons for any such removal.
+
+(6) Where the Chairperson or other member of the Board—
+
+(*a*) is adjudged bankrupt or makes, under the protection or procedure of a court, a composition or arrangement with creditors, or
+
+(*b*) is convicted on indictment by a court of competent jurisdiction,
+
+he or she shall thereupon be disqualified from holding, and shall cease to hold, office as Chairperson or member, as the case may be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Substituted (3.02.2025) by *Agriculture Appeals (Amendment) Act 2024* (38/2024), s. 16(a), S.I. No. 7 of 2025.
+>
+> F11: Deleted (3.02.2025) by *Agriculture Appeals (Amendment) Act 2024* (38/2024), s. 16(b), S.I. No. 7 of 2025.
+>
+> F12: Substituted and inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 4, commenced on enactment.
+
+#### 25. Remuneration, etc., of Chairperson and members of Board.
+
+**25.**—There shall be paid by the Board to the Chairperson and each other member of the Board such remuneration and allowances for expenses as the Minister, with the consent of the Minister for Finance, determines.
+
+#### 26. Chairperson to ensure efficient performance of functions of Board.
+
+**26.**—(1) It shall be the function of the Chairperson, or, where he or she is not available or where the office of Chairperson is vacant, the Deputy Chairperson, to ensure the efficient performance of the functions of the Board.
+
+(2) Where the Chairperson is of the opinion that the conduct of a member of the Board has been such as to bring the Board into disrepute or has been prejudicial to the effective performance by the Board of its functions, the Chairperson may, in his or her absolute discretion—
+
+(*a*) require the member to attend for interview and on the member so attending interview the member privately and inform the member of that opinion, or
+
+(*b*) otherwise investigate the matter and, if he or she considers it appropriate so to do, report to the Minister the result of the investigation.
+
+#### 27. Deputy Chairperson.
+
+**27.**—(1) The Minister shall appoint from amongst the members of the Board a person to be the Deputy Chairperson of the Board for such period, not exceeding the period remaining to be served of the member's current term of office as a member of the Board, as the Minister thinks fit and specifies at the time of the appointment.
+
+(2) If the Deputy Chairperson ceases to be a member of the Board, he or she shall thereupon cease to be Deputy Chairperson.
+
+(3) The Deputy Chairperson shall, in addition to his or her remuneration as a member of the Board, be paid by the Board such additional remuneration, if any, as the Minister, with the consent of the Minister for Finance, determines.
+
+(4) The Deputy Chairperson may resign the office of Deputy Chairperson by letter addressed to the Minister and the resignation shall take effect on the date of the receipt of the letter by the Minister.
+
+#### 28. Meetings and procedure of Board.
+
+**28.**—(1) The Board shall hold such meetings as may be necessary for the performance of its functions.
+
+(2) Subject to *section 34 (l)*(*d*), the Chairperson and each other member, at a meeting of the Board, shall have a vote on any matter before the Board.
+
+(3) At a meeting of the Board—
+
+(*a*) the Chairperson, if present, shall preside,
+
+(*b*) if and for so long as the Chairperson is not present, or if the office of Chairperson is vacant, the Deputy Chairperson shall, if present, preside, or
+
+(*c*) if and for so long as the Chairperson is not present or the office of Chairperson is vacant and the Deputy Chairperson is not present or the office of Deputy Chairperson is vacant, the members present shall appoint one of their number to preside.
+
+(4) Every question at a meeting of the Board shall be determined by a majority of votes of the members present and, in the event that voting is equally divided, the person presiding shall have a casting vote in addition to his or her deliberative vote.
+
+(5) Subject to any provision of this Act or any regulation made under this Act which regulates or otherwise affects the procedure of the Board, the Board shall regulate its own procedure.
+
+(6) Subject to *subsections (7)* and (*8*), the Board may perform any of its functions through or by the Chairperson or any other member of the Board or other person who, in either case, has been duly authorised by the Board in that behalf.
+
+(7) *Subsection (6)* shall be construed as enabling a member of the Board finally to determine a particular case only if the case has been considered at a meeting of the Board before the giving of the authorisation.
+
+(8) *Subsection (6)* shall not be construed as enabling the Board to authorise a person who is not a member of the Board finally to deter-mine a particular case with which the Board is concerned.
+
+#### 29. Board's quorum, vacancies, etc.
+
+**29.**—(1) The quorum for a meeting of the Board shall be four.
+
+(2) Subject to *subsection (1)*, the Board may act notwithstanding a vacancy in the office of Chairperson, Deputy Chairperson or among the other members.
+
+(3) Where a vacancy occurs in the office of Chairperson, Deputy Chairperson or among the other members, the Minister shall, as soon as practicable, take steps to fill the vacancy.
+
+#### 30. Disclosure of confidential information.
+
+**30.**—(1) A person who discloses confidential information obtained by the person in his or her capacity of Chairperson or other member of the Board, secretary of the Board or consultant or adviser engaged by the Board F13[or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C], unless the person is authorised by the Board to do so, shall be guilty of an offence.
+
+(2) In *subsection (1)* “confidential information” includes information, or information of a particular class or description of information, expressed by the Board to be confidential.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 6, commenced on enactment.
+
+#### 31. Prohibition of certain communications in relation to appeals.
+
+**31.**—(1) A person who communicates with the Chairperson or other member of the Board, the secretary of the Board or a consultant or adviser engaged by the Board F14[or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C], for the purpose of influencing improperly the consideration by the Board of an appeal or the decision of the Board in relation to an appeal shall be guilty of an offence.
+
+(2) If the Chairperson or a member, secretary or consultant or adviser F15[or employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C] is of the opinion that a communication is in contravention of *subsection (1)*, he or she shall not entertain the communication further and shall immediately inform the Board in writing of the substance of the communication, and the Board shall acknowledge in writing the receipt of such information.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (27.11.2001) by s. 7(a), *Fisheries (Amendment) Act 2001* (40/2001), commenced on enactment.
+>
+> F15: Inserted (27.11.2001) by s. 7(b), *Fisheries (Amendment) Act 2001* (40/2001), commenced on enactment.
+
+#### 32. Secretary of Board.
+
+**32.**—An officer of the Minister who is an established civil servant for the purpose of the Civil Service Regulation Act, 1956, and who is seconded to the Board for that purpose, either on a whole-time or part-time basis, shall act as secretary of the Board.
+
+#### 33. Declaration of interests.
+
+**33.**—(1) A person to whom this section applies shall give to the Board a declaration in the prescribed form, signed by him or her, containing particulars of—
+
+(*a*) every interest of his or hers which is an interest to which this section applies, and
+
+(*b*) every change in any such interest or any other interest to which this section applies subsequently acquired by the person.
+
+(2) This section applies to—
+
+(*a*) the Chairperson,
+
+(*b*) other members of the Board,
+
+F16[(*c*) the secretary of the Board,
+
+(*d*) each consultant or adviser engaged by the Board, and
+
+(*e*) each employee of the Board and each person of whose services the Board has availed itself pursuant to section 35C.]
+
+(3) This section applies to the following interests:
+
+(*a*) any estate or interest which a person to whom this section applies has in any land, or in any process, development or operation, associated with aquaculture or fish processing or the manufacture, sale or distribution of products used in aquaculture or fish processing;
+
+(*b*) any business or dealing in or developing land, or any process, development or operation associated with aquaculture or fish processing or the manufacture, sale or distribution of products used in aquaculture or fish processing, in which such a person is engaged or employed and any such business carried on by a company or other body of which he or she, or any nominee of his or hers, is a member;
+
+(c) any profession, business or occupation in which such a person is engaged, whether on his or her own behalf or otherwise, and which relates to dealing in or developing land or to any process, development or operation associated with aquaculture or fish processing or the manufacture, sale or distribution of products used in aquaculture or fish processing.
+
+(4) A person to whom this section applies who has an interest to which this section applies shall be regarded as complying with the requirements of *subsection (1)* only if he or she gives to the Board a declaration mentioned in that subsection within the period of 28 days—
+
+(*a*) beginning on the day on which he or she becomes such a person, or
+
+(*b*) where there is a change in an interest particulars of which are contained in a declaration already given by the person, or where the person acquires any other interest to which this section applies, beginning on the day on which the change occurs or, as the case may be, the other interest is acquired.
+
+(5) For the purposes of this section but subject to *subsection (6)*, a person shall be regarded as having an estate or interest in land or an activity if the person, or the person's nominee, is a member of a company or any other body which has an estate or interest in the land or activity.
+
+(6) For the purposes of this section, a person shall not be regarded as having an interest to which this section applies if the interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering or discussing, or in voting on, any question in respect of a matter arising or coming before the Board or in performing a function in relation to that matter.
+
+(7) Where a person to whom this section applies has an interest to which this section applies by reason only of the beneficial ownership of shares in a company or other body by him or her or by his or her nominee and the total nominal value of those shares does not exceed the lesser of—
+
+(*a*) £1,000, or
+
+(*b*) one-hundredth part of the total nominal value of either the issued share capital of the company or body, or where that capital is issued in shares of more than one class, the issued share capital of the class or classes of shares in which he or she has an interest,
+
+*subsection (1)* shall not have effect in relation to that interest.
+
+(8) The Board shall, for the purposes of this section, keep a register (in this section referred to as the “register of interests”) and shall enter in it the particulars contained in declarations given to the Board pursuant to this section.
+
+(9) The register of interests shall be available for inspection by any person at the office of the Board during normal office hours, and a copy of the register or any entry in the register may be obtained by any person on the payment to the Board of such fee, if any, as the Board may fix, not exceeding the reasonable cost of making the copy.
+
+(10) Where a person ceases to be a person to whom this section applies, all particulars entered in the register of interests as a result of a declaration being given by the person to the Board pursuant to this section shall be removed from the register by the Board as soon as practicable after the expiration of the period of 20 years beginning on the day on which the person ceases to be a person to whom this section applies.
+
+(11) Subject to *subsection (12)*, a person who, when purporting to comply with *subsection (1)*, gives particulars which are false or which, to his or her knowledge, are misleading in a material respect, shall be guilty of an offence.
+
+(12) In proceedings for an offence under this section it shall be a defence for the defendant to prove that at the relevant time he or she believed, in good faith and on reasonable grounds, that—
+
+(*a*) the relevant particulars were true,
+
+(*b*) there was no matter about which he or she was then required to make a declaration under *subsection (1)*, or
+
+(*c*) that the matter in relation to which the offence is alleged was not one about which he or she was so required to make a declaration.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted and inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 8, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subs. (1) exercised (14.07.1998) by *Fisheries (Amendment) Act, 1997 (Section 33) Regulations 1998* (S.I. No. 269 of 1998).
+
+#### 34. Disclosure of interests.
+
+**34.**—(1) Where the Chairperson or other member of the Board, the secretary of the Board or a consultant or adviser engaged by the Board F17[or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C] has a pecuniary or other beneficial interest in, or material to, any appeal or matter to be considered by the Board, he or she shall—
+
+(*a*) disclose to the Board the nature of the interest in advance of any consideration of the appeal or matter,
+
+(*b*) neither influence nor seek to influence a decision in relation to the appeal or matter,
+
+(*c*) take no part in any consideration of the appeal or matter, or
+
+(*d*) withdraw from the meeting of the Board for so long as the appeal is being considered or matter discussed by the Board and shall not vote or otherwise participate in the determination of the appeal or consideration of the matter or, in the case of a member, be counted towards a quorum at the meeting during that time.
+
+(2) For the purposes of this section, but without limiting the generality of *subsection (1)*, a person shall be regarded as having a beneficial interest if—
+
+(*a*) the person or any member of the person's household, or any nominee of the person or of any member of his or her household, is a member of a company or other body which has a beneficial interest in, or material to, a matter referred to in that subsection,
+
+(*b*) the person or any member of the person's household is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) the person or any member of the person's household is a party to any arrangement or agreement (whether or not enforceable) concerning land to which such a matter relates, or
+
+(*d*) any member of the person's household has a beneficial interest in, or material to, such a matter.
+
+(3) For the purposes of this section, a person shall not be regarded as having a beneficial interest in, or material to, a matter by reason only of an interest of the person or of a company or other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering or discussing, or in voting on, a question in respect of a matter arising or coming before the Board or in performing a function in relation to such a matter.
+
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by the person to comply with the requirements of *subsection (1)*, the question shall be determined by the Board and particulars of the determination shall be recorded in the minutes of the meeting concerned.
+
+(5) Where a disclosure is made to the Board pursuant to *subsection (1)*, particulars of the disclosure shall be recorded in the minutes of the meeting concerned.
+
+F18[(6) Where the Minister is satisfied that a member of the Board has failed to comply with subsection (1), the Minister may, if he or she thinks fit, remove that member from office or take such other action as he or she considers appropriate and, in case a person is removed from office pursuant to this subsection, he or she shall thereafter be disqualified from membership of the Board.
+
+(7) Where the Board is satisfied that a person who is not a member of the Board has failed to comply with subsection (1), the Board shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(8) For the purposes of this section a person shall not be regarded as having an interest in any matter by reason only of an interest of that person, or of any company in which he or she has an interest, which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question relating to the matter, or in performing any function in relation to that matter.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 9, commenced on enactment.
+>
+> F18: Substituted and inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(d), commenced on enactment.
+
+#### 35. Consultants and advisers.
+
+**35.**—(1) The Board may, from time to time, engage such consultants or advisers as it considers necessary for the performance of its functions and any fees due to a consultant or adviser so engaged shall be paid by the Board out of moneys made available by the Oireachtas.
+
+(2) Any person may notify the Board in writing of his or her willingness to be engaged by the Board as a consultant or adviser and give to the Board particulars of his or her qualifications and experience, and the Board shall maintain a list of such persons.
+
+(3) The Board shall, in engaging a consultant or adviser under this section, have regard to the list maintained under *subsection (2)*, but nothing in this subsection shall be construed as precluding the Board from engaging as a consultant or adviser a person whose name is not on the list.
+
+(4) The Board shall include in its annual report a statement of the names of the persons, if any, engaged pursuant to this section during the year to which the report relates.
+
+#### 35A. Employees of Board.
+
+F19[**35A.**—(1) The Board shall appoint such and so many persons to be employees to the Board as the Board, subject to the approval of the Minister, given with the consent of the Minister for Finance, as to the number and kind of those employees, from time to time considers appropriate.
+
+(2) The Board may employ a person in a part-time capacity to be remunerated by the payment of fees in such amounts as the Board may, with the approval of the Minister, given with the consent of the Minister for Finance, from time to time determine.
+
+(3) An employee of the Board holds his or her employment on such terms and conditions as the Board, subject to the approval of the Minister, given with the consent of the Minister for Finance, from time to time determines.
+
+(4) There shall be paid by the Board to its employees out of moneys at its disposal such remuneration and allowances as the Board, subject to the approval of the Minister, given with the consent of the Minister for Finance, from time to time determines.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001*, s. 5, commenced on enactment.
+
+#### 35B. Superannuation of employees of Board.
+
+F20[**35B.**—(1) The Board shall prepare and submit to the Minister for his or her approval, a scheme or schemes for the granting of pensions, gratuities and other allowances on retirement or death to or in respect of such whole-time employees of the Board as it considers appropriate.
+
+(2) The Board may, at any time, prepare and submit to the Minister a scheme amending a scheme under this section.
+
+(3) Where a scheme is submitted to the Minister pursuant to this section, the Minister may, with the consent of the Minister for Finance, approve the scheme without modification or with such modification (whether by way of addition, omission or variation) as the Minister, with such consent, thinks proper.
+
+(4) A scheme submitted to the Minister under this section shall, if approved of by the Minister, with the consent of the Minister for Finance, be carried out by the Board in accordance with its terms.
+
+(5) A scheme approved of under this section shall fix the time and conditions of retirement for all persons to or in respect of whom pensions, gratuities or other allowances are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(6) If a dispute arises as to the claim of a person to, or the amount of, a pension, gratuity or other allowance payable in pursuance of a scheme under this section, the dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, whose decision shall be final.
+
+(7) Every scheme approved of under this section shall be laid before each House of the Oireachtas as soon as may be after it is approved of and if either House within the next 21 days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001*, s. 5, commenced on enactment.
+
+#### 35C. Provision of services by Minister to Board and Board to Minister.
+
+F21[**35C.**—(1) For the purpose of enabling the Board to perform its functions, the Minister may provide services (including services of staff) to the Board, on such terms and conditions (including payment for such services) as may be agreed, and the Board may avail itself of such services.
+
+(2) The Board may provide services (including services of staff) to the Minister on such terms and conditions (including payment for such services) as may be agreed, and the Minister may avail himself or herself of such services.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 5, commenced on enactment.
+
+#### 35D. Membership of either House of Oireachtas, etc.
+
+F22[**35D.**—(1) Where a person who is an employee of the Board is nominated as a member of Seanad Éireann or for election to either House of the Oireachtas or the European Parliament, or is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to that Parliament to fill a vacancy, or becomes a member of a local authority, he or she shall stand seconded from employment by the Board and shall not be paid by, or be entitled to receive from, the Board any remuneration or allowances—
+
+(*a*) in case he or she is nominated as a member of Seanad Éireann — in respect of the period commencing on his or her acceptance of the nomination and ending when he or she ceases to be a member of that House,
+
+(*b*) in case he or she is nominated for election to either such House or to the European Parliament or is regarded as having been elected to the European Parliament — in respect of the period commencing on his or her nomination or appointment and ending when he or she ceases to be a member of that House or Parliament or fails to be elected or withdraws his or her candidature, as may be appropriate, or
+
+(*c*) in case he or she becomes a member of a local authority — in respect of the period commencing on his or her becoming a member of the local authority and ending when he or she ceases to be a member of that authority.
+
+(2) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or is a member of the European Parliament is, while he or she is so entitled or is such a member, disqualified from being an employee of the Board.
+
+(3) A person who is for the time being a member of a local authority is, while holding office as such member, disqualified from becoming an employee of the Board.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 5, commenced on enactment.
+
+#### 36. Grants to Board.
+
+**36.**—The Minister may in each financial year, after consultation with the Board in relation to its proposed work programme and expenditure for that year, make grants of such amounts as may be sanctioned by the Minister for Finance out of moneys provided by the Oireachtas towards the expenditure incurred by the Board in the performance of its functions.
+
+#### 37. Accounts and audits.
+
+**37.**—(1) The Board shall keep, in such form as may be approved by the Minister with the consent of the Minister for Finance, proper and usual accounts of all moneys received or expended by it.
+
+(2) Accounts kept in pursuance of *subsection (1)* shall be submitted annually to the Comptroller and Auditor General for audit at such times as the Minister, with the consent of the Minister for Finance, directs and those accounts, when so audited, shall (together with the report of the Comptroller and Auditor General on the accounts) be presented to the Minister, who shall cause copies of the audited accounts and the report to be laid before each House of the Oireachtas.
+
+#### 38. Annual report, etc.
+
+**38.**—(1) As soon as practicable, but not later than six months, after the end of each financial year, the Board shall, in writing, report to the Minister on its proceedings in that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) The report shall identify the appellants involved and the number, subject matter and results of each appeal determined by the Board during the year to which it relates.
+
+(3) The Board shall give to the Minister such information relating to the performance of its functions as the Minister may from time to time request.
+
+#### 39. Board to keep itself informed of certain policies and objectives.
+
+**39.**—(1) The Board shall keep itself informed of the policies and objectives of any public authority whose functions have, or may have, a bearing on the matters with which the Board is concerned.
+
+(2) In this section, “public authority” means a public authority within the meaning of section 3 (1) of the Environmental Protection Agency Act, 1992, An Bord Iascaigh Mhara within the meaning of the Sea Fisheries Act, 1952, Údarás na Gaeltachta within the meaning of the Údarás na Gaeltachta Act, 1979, the Marine Institute within the meaning of the Marine Institute Act, 1991, or F23[Inland Fisheries Ireland].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.06.2010) by *Inland Fisheries Act 2010* (10/2010), s. 8(3)(a) and sch. 2 part 11, commenced on enactment.
+
+### Chapter IIAppeals to Board — Chapter II — Appeals to Board
+
+#### 40. Appeals against decisions of Minister on aquaculture licence applications, etc.
+
+**40.**—(1) A person aggrieved by a decision of the Minister on an application for an aquaculture licence or by the revocation or amendment of an aquaculture licence may, before the expiration of a period of one month beginning on the date of publication in accordance with this Act of that decision, or the notification to the person of the revocation or amendment, appeal to the Board against the decision, revocation or amendment, by serving on the Board a notice of appeal.
+
+(2) A notice of appeal shall be served—
+
+(*a*) by sending it by registered post to the Board,
+
+(*b*) by leaving it at the office of the Board, during normal office hours, with a person who is apparently an employee of the Board, or
+
+(c) by such other means as may be prescribed.
+
+(3) The Board shall not consider an appeal notice of which is received by it later than the expiration of the period referred to in *subsection (1)*.
+
+(4) Where an appeal is brought under this section and is not withdrawn, the Board shall, subject to *subsection (5)*, determine the appeal by—
+
+(*a*) confirming the decision or action of the Minister,
+
+(*b*) determining the application for the licence as if the application had been made to the Board in the first instance, or
+
+(*c*) in relation to the revocation or amendment of a licence, substituting its decision on the matter for that of the Minister.
+
+(5) The Board shall not determine an appeal as provided in *subsection (4)(a)* except in circumstances referred to in *section 48*, *51* or *52*.
+
+(6) The determination under *subsection (4)(b)* or *(c)* of an appeal shall annul the decision or action of the Minister immediately the determination is made.
+
+(7) *Section 7*, with the necessary modifications, shall apply to and in relation to the determination under *subsection (4)(b)* of an application or so far as it relates to an amendment of a licence as referred to in *subsection (4)(c)*, as it applies to and in relation to the determination by the Minister of such an application or the amendment of such a licence, as the case may be.
+
+F24[(8) (*a*) A determination of an appeal under this section (including an appeal to which section 52 refers) and the notification of that determination shall state the main reasons and considerations on which the determination is based.
+
+(*b*) The Board shall, on request from any person, provide a summary of the main reasons and considerations on which the determination of an appeal before the commencement of the Fisheries (Amendment) Act, 2001, was based.]
+
+F25[(9) Subject to *subsection (10)*, the Board shall, as soon as practicable, publish on its website notices of appeal served on it under *subsection (1)*.
+
+(10) *Subsection (9)* shall not apply as regards notices of appeal received by the Board later than the expiration of the period referred to in *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 10, commenced on enactment.
+>
+> F25: Inserted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(a).
+
+#### 41. Provisions as to making of appeals.
+
+**41.**—(1) For an appeal under *section 40* to be valid, the notice of appeal shall—
+
+(*a*) be in writing,
+
+(*b*) state the name and address of the appellant,
+
+(*c*) state the subject matter of the appeal,
+
+(*d*) state the appellant's particular interest in the outcome of the appeal,
+
+F26[(*e*) state in full the grounds of the appeal and the reasons, considerations and arguments on which they are based,
+
+(*f*) where an environmental impact assessment is required under Regulation 3 of the Aquaculture Appeals (Environmental Impact Assessment) Regulations 2012 (S.I. No. 468 of 2012), include evidence of compliance with paragraph (3A) of the said Regulation 3,
+
+and
+
+(*g*) be accompanied by such fee, if any, as may be payable in respect of such an appeal in accordance with regulations under *section 63*,]
+
+and shall be accompanied by such documents, particulars or other information relating to the appeal as the appellant considers necessary or appropriate.
+
+(2) The requirement of *subsection (1)(e)* shall apply whether or not the appellant requests, or proposes to request, in accordance with *section 49*, an oral hearing of the appeal.
+
+(3) Without prejudice to *section 46*, an appellant shall not be entitled to elaborate in writing on, or make further submissions in writing in relation to, the grounds of appeal stated in the notice of appeal or to submit further grounds of appeal, and any such elaboration, submissions or further grounds of appeal received by the Board shall not be considered by it.
+
+(4) Without prejudice to *section 47*, the Board shall not consider any documents, particulars or other information submitted by an appellant other than the documents, particulars or other information which accompanied the notice of appeal.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Substituted and inserted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(b).
+
+#### 42. Joinder of actions.
+
+**42.**—The Board may, in its discretion, treat two or more appeals as, and the appellants as parties to, a single appeal and may at any time separate such appeals.
+
+#### 43. Submission of documents, etc., to Board by Minister.
+
+**43.**—(1) The Board shall, as soon as practicable after receiving a notice of appeal, send by post to the Minister a copy of the notice.
+
+(2) The Minister shall, within 14 days after receiving a copy of the notice of appeal sent to him or her in accordance with *subsection (1)*, submit to the Board—
+
+(*a*) a copy of the aquaculture licence application concerned and of any drawings, maps, particulars, evidence, environmental impact statement, other written study or further information received or obtained from the applicant for the licence in accordance with a requirement of or under regulations under this Act,
+
+(*b*) a copy of any report prepared for the Minister in relation to the application, revocation or amendment, and
+
+(*c*) a copy of any document recording the decision of the Minister in respect of the application, revocation or amendment and of the notification of the decision given to the applicant.
+
+#### 44. Submissions or observations by other parties to appeal.
+
+**44.**—(1) The Board shall, as soon as practicable after receiving a notice of appeal, give a copy to each other party to the appeal.
+
+(2) The Minister and each other party except the appellant may make submissions or observations in writing to the Board in relation to the appeal within a period of F27[30 days] beginning on the day on which a copy of the notice of appeal is sent to that party by the Board and any submissions or observations received by the Board after the expiration of that period shall not be considered by it.
+
+(3) Where no submissions or observations have been received from a party within the period referred to in *subsection (2)*, the Board may, without further notice to that party, determine the appeal.
+
+(4) Without prejudice to *section 46*, a party shall not be entitled to elaborate in writing on any submissions or observations made in accordance with *subsection (2)* or make any further submissions or observations in writing in relation to the appeal, and any such elaboration or further submissions or observations shall not be considered by the Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(c).
+
+#### 45. Submissions or observations by persons other than parties to appeal.
+
+**45.**—(1) A person who is not a party may make submissions or observations in writing to the Board in relation to an appeal.
+
+F28[(2) (a) Without prejudice to *subsection (3)*, submissions or observations referred to in *subsection (1)* may be made within a period set by the Board (being not less than 30 days from the date on which the Board published the notice of appeal under *section 40(9)*).
+
+(*b*) The Board shall not consider any submissions or observations received after the period set by it under *paragraph (a)*.]
+
+(3) *Subsection (2)* shall not apply to submissions or observations made by a Member State of the European Communities (within the meaning of the European Communities Act, 1972) arising from consultation in accordance with Directive 85/337/EEC[^2] (or any provision amending or replacing that Directive) in relation to the effects on the environment of the aquaculture or proposed aquaculture to which the appeal relates.
+
+(4) Without prejudice to *section 46*, a person who makes submissions or observations to the Board in accordance with this section shall not be entitled to elaborate in writing on the submissions or observations or to make further submissions or observations in writing in relation to the appeal, and any such elaboration or further submissions or observations shall not be considered by the Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(d).
+
+#### 46. Power of Board to request submissions or observations.
+
+**46.**—(1) Where the Board is of the opinion that, in the particular circumstances of an appeal, it is appropriate in the interests of justice to request a party or other person who has made submissions or observations to the Board in relation to the appeal to make submissions or observations in relation to any matter which has arisen in relation to the appeal, it may, in its discretion, notwithstanding *section 41(3)*, *44(4)*, *45(4)* or *50(4)*, serve on the party or person a notice—
+
+(*a*) requesting the party or person, within a period specified in the notice F29[(being not less than 30 days beginning on the date of service of the notice)] to submit to the Board submissions or observations in relation to the matter, and
+
+(*b*) stating that, if submissions or observations are not received before the expiration of the specified period, the Board will, after the expiration of that period and without further notice to the person, pursuant to *section 48*, determine the appeal.
+
+(2) A party or other person shall not be entitled to elaborate in writing on submissions or observations made in response to a request under *subsection (1)* or make further submissions or observations in writing in relation to the matter concerned, and any such elaboration, or further submissions or observations shall not be considered by the Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(e).
+
+#### 47. Power of Board to require submission of documents, etc.
+
+**47.**—(1) Where the Board is of the opinion that any document, particulars or other information is or are necessary for the purpose of enabling it to determine an appeal, it shall serve on a party or on any person who has made submissions or observations to the Board in relation to the appeal a notice—
+
+(*a*) requiring the party or person, within a period specified in the notice (being not less than F30[30] days beginning on the date of service of the notice) to submit to the Board such documents, particulars or other information as are specified in the notice, and
+
+(*b*) stating that, if the documents, particulars or other information is or are not received by the Board before the expiration of the specified period, the Board will, after the expiration of that period and without further notice to the party or person, pursuant to *section 48*, determine the appeal.
+
+(2) A person who refuses or fails to comply with a requirement under *subsection (1)(a)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (27.06.2019) by *European Union (Aquaculture Appeals) (Environmental Impact Assessment) Regulations 2019* (S.I. No. 341 of 2019), reg. 2(f).
+
+#### 48. Powers of Board where notice served under section 46 or 47.
+
+**48.**—Where a notice has been served under *section 46* or *47*, the Board, at any time after the expiration of the period specified in the notice, may, having considered all submissions or observations or documents, particulars or other information, as the case may be, submitted by the person on whom the notice has been served, without further notice to that person, determine the appeal.
+
+#### 49. Oral hearings.
+
+**49.**—(1) Subject to *subsections (2)* and *(3)*, the Board of its own motion or at the request of a party, shall have an absolute discretion to hold an oral hearing of an appeal under this Chapter.
+
+(2) An oral hearing may be conducted on behalf of the Board by one or more members of the Board, or other persons, authorised by the Board for that purpose.
+
+(3) A request by a party for an oral hearing of an appeal—
+
+(*a*) shall be made in writing to the Board and shall be accompanied by such fee, if any, as may be payable in respect of such request in accordance with regulations under *section 63*;
+
+(*b*) if not accompanied by that fee, if any, shall not be considered by the Board;
+
+(*c*) subject to *paragraph (d)*, shall be made within the period of
+
+one month referred to in *section 40(1)*; or
+
+(*d*) in the case where the party is not the appellant, shall be made within the period referred to in *section 44(2)*.
+
+(4) The Board shall not consider a request for an oral hearing of an appeal received later than the time referred to in *subsection (3)(c)* or *(d)* for making a request.
+
+(5) Where the Board is requested to hold an oral hearing of an appeal and decides to determine the appeal without an oral hearing, it shall serve notice of its decision on the person who requested the hearing, on each other party to the appeal and on each person who, in accordance with *section 45*, made submissions or observations to the Board in relation to the appeal.
+
+#### 50. Matters other than those raised by parties or other persons may be taken into account in determining appeals.
+
+**50.**—(1) The Board, in determining an appeal, may take into account matters other than those raised by the parties or by any person who has made submissions or observations to the Board in accordance with *section 45*, if the matters are matters to which, under *section 61*, it may have regard.
+
+(2) The Board shall give notice in writing to each of the parties and to each of the persons who have made submissions or observations in relation to the appeal, of the matters it proposes to take into account under *subsection (1)* and shall indicate in the notice—
+
+(*a*) in a case where it proposes to hold an oral hearing of the appeal or where an oral hearing of the appeal has been concluded and it considers it expedient to re-open the hearing, that submissions in relation to the matters may be made in writing to the person or persons conducting the hearing, or
+
+(*b*) in a case where it does not propose to hold an oral hearing of the appeal or where an oral hearing of the appeal has been concluded and it does not consider it expedient to re-open the hearing, that submissions or observations in relation to the matters may be made in writing to the Board,
+
+within a period specified in the notice, being not less than 14 or more than 28 days beginning on the date of service of the notice.
+
+(3) Submissions or observations received by the Board after the expiration of the period specified in the notice referred to in *subsection (2)* shall not be considered by the Board.
+
+(4) Without prejudice to *section 46*, where a party or a person referred to in *subsection (1)* makes submissions or observations to the Board in accordance with *subsection (2)*, he or she shall not be entitled to elaborate in writing on those submissions or observations, or make further submissions or observations in writing in relation to the matters referred to in *subsection (1)*, and any such elaboration or further submissions or observations shall not be considered by the Board.
+
+#### 51. Board may dismiss appeals if vexatious, etc.
+
+**51.**—(1) The Board shall have an absolute discretion to dismiss an appeal where, having considered the grounds of appeal, it is of the opinion that the appeal is vexatious, frivolous or without substance or foundation.
+
+(2) The Board, in exercising its power under *subsection (1)*, may have regard to the matters to which, under *section 61*, it is required to have regard in determining an appeal.
+
+#### 52. Appeals against conditions.
+
+**52.**—(1) Where—
+
+(*a*) an appeal is brought against a decision to grant or amend an aquaculture licence,
+
+(*b*) the appeal relates only to a condition or conditions to which the decision provides the aquaculture licence shall be subject, and
+
+(*c*) the Board is satisfied, having regard to the nature of the condition or conditions, that the determination by the Board of the relevant application as if the application had been made to the Board in the first instance would not be warranted,
+
+then, subject to compliance by the Board with *subsection (2)*, it may, in its absolute discretion, deal with the appeal by reference only to the condition or conditions to which the appeal relates, and such other conditions, if any, as the Board considers relevant.
+
+(2) In exercising its power under *subsection (1)*, apart from considering the condition or conditions to which the relevant appeal relates and other conditions, if any, which, in accordance with that subsection it considers relevant, the Board shall be restricted to considering the matters which under *section 61* it would be restricted to considering were it determining the relevant application as if it had been made to it in the first instance.
+
+#### 53. Withdrawal of appeals.
+
+**53.**—An appellant may, by notice in writing to the Board at any time before the appeal is determined by the Board, withdraw the appeal.
+
+#### 54. Power of Board to declare appeals and applications withdrawn.
+
+**54.**—(1) Where the Board is of the opinion that an appeal, or an application for an aquaculture licence to which the appeal relates, has been abandoned, it may serve on the person who made the appeal or application, as may be appropriate, a notice stating that it is of that opinion and requiring the person, within the period specified in the notice (being not less than 14 or more than 28 days beginning on the date of service of the notice) to make to the Board a submission in writing as to why the appeal or application should not be regarded as having been withdrawn.
+
+(2) Where a notice has been served under *subsection (1)*, the Board may, at any time after the expiration of the period specified in the notice, and after considering any submissions made to the Board pursuant to the notice, declare—
+
+(*a*) in a case where the notice refers to an application for an aquaculture licence, that the application shall be regarded as having been withdrawn, and
+
+(*b*) in a case where the notice refers to an appeal, that the appeal shall be regarded as having been withdrawn.
+
+(3) Where under *subsection (2)**(a)* the Board declares that an application for an aquaculture licence is to be regarded as having been withdrawn—
+
+(*a*) any appeal in relation to the application shall be regarded as having been withdrawn and accordingly shall not be determined by the Board, and
+
+(*b*) notwithstanding any previous decision relating to the application, no aquaculture licence shall be granted as a result of the application.
+
+#### 55. Time for appeals, etc., extended where offices of Board closed.
+
+**55.**—Where a provision of or under this Act requires or allows appeals, submissions, observations or a request to be made, or documents, particulars or other information to be submitted, to the Board within a specified period and the last day of that period is a day on which the offices of the Board are closed, the appeal, submissions, observations or request, or documents, particulars or other information, shall be regarded as having been received before the expiration of that period if received by the Board on the next following day on which the offices of the Board are open.
+
+#### 56. Duty and objective of Board.
+
+**56.**—(1) The Board shall, as far as practicable, ensure that appeals are dealt with and determined expeditiously and that all steps are taken to avoid unnecessary delays.
+
+(2) Without limiting the generality of *subsection (1)* but subject to *subsections (3)* and *(4)*, the Board should endeavour to ensure that every appeal is determined within—
+
+(*a*) a period of four months beginning on the date of the receipt by the Board of the notice of appeal, or
+
+(*b*) such other period as the Minister may prescribe, either generally or in respect of a particular class or particular classes of appeals.
+
+(3) Where it appears to the Board that it would not be possible or appropriate, because of the particular circumstances of an appeal, to determine an appeal within the period required by *subsection (2)*, it shall, by notice in writing served on the parties to the appeal and all persons who made submissions or observations to the Board in accordance with *section 45* before the expiration of that period, inform those parties and persons of the reasons why the appeal would not be determined within that period and shall specify the date before which, or the period within which, the Board intends that the appeal shall be determined.
+
+(4) Where a notice has been served under *subsection (3)*, the Board shall endeavour to ensure that the appeal is determined before the date, or within the period, specified in the notice.
+
+(5) The Minister may make regulations—
+
+(*a*) providing that *subsection (2)* shall not have effect for such period as is specified in the regulations, or
+
+(*b*) varying a period mentioned in that subsection either generally or in respect of a particular class or particular classes of appeals,
+
+where it appears to the Minister to be necessary, because of exceptional circumstances, to do so and, for so long as such regulations are in force, this section shall be construed and have effect accordingly.
+
+(6) The Board shall, at such intervals as it thinks fit or the Minister may direct, conduct reviews of its organisation and of the systems and procedures used by it in relation to appeals.
+
+(7) Where the Minister gives a direction under *subsection (6)*, the Board shall report to the Minister the results of the review and shall comply with any direction which the Minister may, after consultation with the Board on those results, give in relation to all or any of the matters which were the subject of the review.
+
+(8) The Board may, on its own initiative or at the request of the Minister, make submissions or recommendations to the Minister on any matter relating to its functions or to licensing (including trial licensing) policy.
+
+(9) The Minister may consult with the Board on any matter relating to the performance of—
+
+(*a*) the functions of the Board, or
+
+(*b*) the functions in relation to aquaculture assigned to the Minister by or under the Fisheries Acts, 1959 to 1995 as amended by this Act, or by any order, regulation or other instrument under those Acts or this Act.
+
+#### 57. Certain powers in relation to oral hearings of appeals.
+
+**57.**—(1) In conducting an oral hearing of an appeal, the Board may require any officer of the Minister or an officer of the Marine Institute to give to the Board such information in relation to the appeal as the Board may reasonably require, and the officer shall comply with the requirement.
+
+(2)F31[...]
+
+(3)F31[...]
+
+(4) The Board, in conducting an oral hearing of an appeal, may take evidence on oath and for that purpose may administer oaths, and a person giving evidence at an oral hearing shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+(5) Subject to *subsection (6)*, the Board in conducting an oral hearing of an appeal may, by notice in writing to any person, require the person to attend at such time and place as is specified in the notice to give evidence in relation to any matter in question at the hearing or to produce any books, deeds, contracts, accounts, vouchers, maps, plans or other documents in his or her possession, custody or control which relate to the matter.
+
+(6) The following provisions shall have effect for the purposes of *subsection (5)*:
+
+(*a*) it shall not be necessary for a person to attend in compliance with a notice at a place more than 10 miles from his or her ordinary place of residence unless an amount of money sufficient to cover the reasonable and necessary expenses of the attendance has been paid or tendered to the person;
+
+(*b*) the Board shall pay or tender to any person whose attendance is required such amount of money as it considers will cover the reasonable and necessary expenses of the attendance;
+
+(*c*) the Board shall pay to any person who in compliance with a notice has attended at any place all reasonable and necessary expenses of the attendance which have not already been paid to the person and in default of such payment by the Board the expenses shall be recoverable as a simple contract debt in a court of competent jurisdiction;
+
+(*d*) every person to whom a notice has been given who—
+
+(i) refuses or wilfully neglects to attend in accordance with the notice,
+
+(ii) wilfully alters, suppresses, conceals or destroys any document to which the notice relates, or
+
+(iii) having so attended, refuses to give evidence or refuses or wilfully fails to produce any document to which the notice relates,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F32[€600].
+
+(7) In this section “the Board” includes F33[a consultant or adviser engaged under section 35(1) or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C] by the Board to conduct an oral hearing on its behalf.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Deleted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001) s. 11(a), commenced on enactment.
+>
+> F32: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(e), commenced on enactment.
+>
+> F33: Substituted (27.11.2001) by *Fisheries (Amendment) Act 2001* (40/2001), s. 11(b), commenced on enactment.
+
+#### 57A. Board or consultant or adviser or employee or other person may inspect land, etc.
+
+F34[**57A.**—(1) The Board or a consultant or adviser engaged under section 35(1) or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C to carry out an inspection on its behalf as referred to in section 59 may visit and inspect any land, foreshore or area or water to which an appeal under this Chapter relates, whether or not the appeal is the subject of an oral hearing.
+
+(2) A person who obstructs the Board or a consultant or adviser engaged by the Board in the performance of the Board’s or that consultant’s or adviser’s or employee’s or person’s functions under subsection (1) shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Inserted (27.11.2001) by *Fisheries (Amendment) Act, 2001* (40/2001), s. 12, commenced on enactment.
+
+#### 58. Reference of certain questions of law to High Court.
+
+**58.**—Where a question of law arises on any appeal to the Board, the question may be referred by the Board to the High Court for decision.
+
+#### 59. Reports of inspections, etc.
+
+**59.**—Where in connection with the performance by the Board of its functions an inspection is carried out, or an oral hearing is conducted, on behalf of the Board F35[by a consultant or adviser engaged under section 35(1) for the purpose of the inspection or oral hearing or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C, the consultant, adviser, employee or person] shall make to the Board a written report on the inspection or hearing, and shall include in the report a recommendation relating to the appeal with which the inspection or hearing was concerned, and the Board shall, before determining the appeal, consider the report and any recommendation contained in the report.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Substituted (27.11.2001) by Fisheries (Amendment) Act 2001 (40/2001), s. 13, commenced on enactment.
+
+#### 60. Appeal regulations.
+
+**60.**—(1) The Minister may make regulations providing for such additional, incidental, consequential or supplemental procedural matters in respect of appeals as appear to the Minister to be necessary or expedient.
+
+(2) Without limiting the generality of *subsection (1)*, regulations under this section may in particular make provision for—
+
+(*a*) the procedures of the Board in relation to appeals and the notification of the results of an appeal,
+
+(*b*) the persons who may be heard at an oral hearing of an appeal,
+
+(c) matters related to the implementation of Directive 85/337/EEC[^3] on Environmental Impact Assessment, or any provision amending or replacing that Directive, and
+
+(*d*) the availability for inspection of documents or extracts from documents relating to appeals, the period of such availability, and the purchase of copies of or extracts from such documents.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E25: Power pursuant to section exercised (8.12.2021) by *Aquaculture Licensing Appeals (Fees) Regulations 2021* (S.I. No. 771 of 2021), in effect as per reg. 1(2).
+>
+> E26: Power pursuant to section exercised (25.06.2019) by *Aquaculture Appeals (Environmental Impact Assessment) (Amendment) Regulations 2019* (S.I. No. 276 of 2019).
+>
+> E27: Power pursuant to section exercised (23.11.2012) by *Aquaculture Appeals (Environmental Impact Assessment) Regulations 2012* (S.I. 468 of 2012).
+>
+> E28: Power pursuant to section exercised (21.07.2010) by *Aquaculture (Licence Application) (Amendment) (No. 2) Regulations 2010* (S.I. No. 369 of 2010).
+>
+> E29: Power pursuant to section exercised (27.11.1998) by *Aquaculture Licensing Appeals (Fees) Regulations 1998* (S.I. No. 449 of 1998).
+
+## PART IVMiscellaneous — PART IV — Miscellaneous
+
+### 61. Matters to which licensing authority shall have regard in determining aquaculture licence applications and appeals.
+
+**61.**—The licensing authority, in considering an application for an aquaculture licence or an appeal against a decision on an application for a licence or a revocation or amendment of a licence, shall take account, as may be appropriate in the circumstances of the particular case, of—
+
+(*a*) the suitability of the place or waters at or in which the aquaculture is or is proposed to be carried on for the activity in question,
+
+(*b*) other beneficial uses, existing or potential, of the place or waters concerned,
+
+(*c*) the particular statutory status, if any, (including the provisions of any development plan, within the meaning of the Local Government (Planning and Development) Act, 1963 as amended) of the place or waters,
+
+(*d*) the likely effects of the proposed aquaculture, revocation or amendment on the economy of the area in which the aquaculture is or is proposed to be carried on,
+
+(*e*) the likely ecological effects of the aquaculture or proposed aquaculture on wild fisheries, natural habitats and flora and fauna, and
+
+(*f*) the effect or likely effect on the environment generally in the vicinity of the place or water on or in which that aquaculture is or is proposed to be carried on—
+
+(i) on the foreshore, or
+
+(ii) at any other place, if there is or would be no discharge of trade or sewage effluent within the meaning of, and requiring a licence under section 4 of the Local Government (Water Pollution) Act, 1977, and
+
+(*g*) the effect or likely effect on the man-made environment of heritage value in the vicinity of the place or waters.
+
+### 62. General policy directives.
+
+**62.**—(1) The Minister may from time to time issue such general directives as to policy in relation to aquaculture as the Minister considers necessary and the licensing authority shall, in performing its functions, have regard to any such directives.
+
+(2) Nothing in this section shall be construed as enabling the Minister to exercise any power or control in relation to a particular case with which the Board or an officer to whom functions have been delegated under *section 21 (1)* is or may be concerned.
+
+(3) Where the Minister gives a directive under *subsection (1)*, the following provisions shall apply:
+
+(*a*) as soon as practicable after issuing it the Minister shall cause a copy of the directive to be laid before each House of the Oireachtas;
+
+(*b*) the directive shall be published in *Iris Oifigiúil*; and
+
+(*c*) the Minister shall cause a copy of the directive to be sent to the Board and to each officer, if any, to whom a function has been delegated under *section 21(1)*.
+
+(4) The Minister may amend or revoke a directive under this section and *subsection (3)*, with the necessary modifications, shall apply as if the amendment or revocation were a directive under *subsection (1)*.
+
+### 63. Fees in relation to applications and appeals.
+
+**63.**—(1) The Minister may, with the consent of the Minister for Finance, make regulations providing for—
+
+(*a*) the payment to the Minister of prescribed fees in relation to applications for licences, applications for the renewal of licences or applications under *section 70* for reviews of licences, and
+
+(*b*) the payment to the Board of prescribed fees in relation to appeals to the Board under *section 40*, including oral hearings of such appeals,
+
+and the regulations may provide for the payment of different fees in relation to cases of different classes or descriptions, for exemption from payment of fees in specified circumstances, for the waiver, remission or refund (in whole or in part) of fees in specified circumstances and for the manner in which fees are to be disposed of.
+
+(2) Where under regulations under this section a fee is payable by an applicant in respect of an application referred to in *subsection (1)(a)—*
+
+(*a*) the application shall not be determined unless the fee is received, and
+
+(*b*) the period within which, pursuant to *section 13*, the licensing authority shall endeavour to determine an application shall not be regarded as having commenced earlier than the day on which the fee is received.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E30: Power pursuant to subs. (1)(b) exercised (8.12.2021) by *Aquaculture Licensing Appeals (Fees) Regulations 2021* (S.I. No. 771 of 2021), in effect as per reg. 1(2).
+>
+> E31: Power pursuant to section exercised (27.11.1998) by *Aquaculture Licensing Appeals (Fees) Regulations 1998* (S.I. No. 449 of 1998), in effect as per reg. 1(2).
+>
+> E32: Power pursuant to section exercised (15.09.1998) by *Aquaculture (Licence Application and Licence Fees) (No. 2) Regulations 1998* (S.I. No. 324 of 1998), in effect as per reg. 1(2).
+>
+> E33: Power pursuant to section exercised (14.07.1998) by *Aquaculture (Licence Application and Licence Fees) Regulations 1998* (S.I. No. 270 of 1998), in effect as per reg. 1(2).
+
+### 64. Fees for licences.
+
+**64.**—(1) The Minister may, with the consent of the Minister for Finance, make regulations providing for the payment of fees to the Minister in respect of licences.
+
+(2) Without limiting the generality of *subsection (1)*, the regulations may—
+
+(*a*) provide for the payment of different fees in respect of different classes of licences or the renewal of licences, and
+
+(*b*) set out the basis on which the fees payable in respect of licences, licences of a particular class, or the renewal of licences are to be determined.
+
+(3) Every fee received by the Minister under this section shall be paid into, and be disposed of for the benefit of, the Exchequer in such manner as the Minister for Finance shall direct.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to section exercised (1.10.2000) by *Aquaculture (Licence Fees) Regulations 2000* (S.I. No. 282 of 2000), in effect as per reg. 1(2).
+>
+> E35: Power pursuant to section exercised (15.09.1998) by *Aquaculture (Licence Application and Licence Fees) (No. 2) Regulations 1998* (S.I. No. 324 of 1998), in effect as per reg. 1(2).
+>
+> E36: Power pursuant to section exercised (14.07.1998) by *Aquaculture (Licence Application and Licence Fees) Regulations 1998* (S.I. No. 270 of 1998), in effect as per reg. 1(2).
+
+### 65. Offences and general penalty for contravention or failure to comply with provision of Act.
+
+**65.**—(1) A person who contravenes or fails to comply with a term of a licence or a condition subject to which it is issued shall be guilty of an offence.
+
+F36[(2) A person guilty of an offence under subsection (1), section 6(1), 20 or 67(2) is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.
+
+(2A) A person guilty of an offence (other than an offence under a provision mentioned in subsection (2) or under section 6(2) or 57(6)) is liable on summary conviction to a fine not exceeding €2,000.]
+
+(3) Notwithstanding section 309 of the Principal Act, a summary offence under the *Fisheries (Amendment)* *Act*, *1997*, shall be prosecuted only—
+
+(*a*) by the Minister; or
+
+(*b*) at the suit of the Director of Public Prosecutions.
+
+F37[(4) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under subsection (1) or section 6(1) may be instituted within 12 months from the date on which the offence was committed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(f)(i), commenced on enactment.
+>
+> F37: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(f)(ii), commenced on enactment.
+
+### 65A. Offence by body corporate, etc.
+
+F38[**65A.**— Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any other person who, when the offence was committed, was, or purported to act as, a director, manager, secretary or other officer (including a member of such body) such other person as well as the body, or the person so purporting to act on behalf of the body, is guilty of an offence and is liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(g), commenced on enactment.
+
+### 65B. Prosecutor may appeal dismissal of proceedings in District Court.
+
+F39[**65B.**— (1) Where any proceedings tried summarily in the District Court for an offence under this Act are dismissed, whether on the merits or without prejudice, the prosecutor may appeal against the order of dismissal to the judge of the Circuit Court within whose Circuit the courthouse in which the order was made is situated.
+
+(2) The judge of the Circuit Court on an appeal under subsection (1) may vary, confirm or reverse the order and his or her decision is final and conclusive and not appealable.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(g)
+
+### 66. Costs of prosecutions.
+
+**66.**—Where a person is convicted of an offence under *section 65 (2)**(a)* or *(b)* committed after the commencement of this section, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Minister the costs and expenses, measured by the court, incurred by the Minister in relation to the investigation, detection and prosecution of the offence, including costs and expenses incurred in the taking of samples and the carrying out of tests, examinations and analyses.
+
+### 67. Removal of unlawful aquaculture structures and equipment under Foreshore Act.
+
+**67.**—(1) Section 12 (other than subsection (2)(b)) of the Foreshore Act, 1933, shall, with the necessary modifications, extend and apply to and in relation to—
+
+(*a*) structures, articles or equipment used or capable of being used for aquaculture which, before or after the commencement of this section, have been erected or placed in position without lawful authority on foreshore belonging to the State, and
+
+(*b*) any such structure, article or equipment erected or placed in position on such foreshore for a purpose authorised by or in accordance with a condition of a licence or other permission under this Act, where its operation for that purpose has ceased to be so authorised.
+
+(2) A person who fails to comply with an order under section 12(1)(*a*) of the Foreshore Act, 1933 as modified by *subsection (1)* of this section shall be guilty of an offence under this Act.
+
+### 67A. Reduction in licensed area, etc.
+
+F40[**67A.**— The Minister may, on the application of a licensee and subject to such conditions (if any) as the Minister may consider appropriate in the circumstances and specifies in writing, reduce the area or permitted aquaculture or both to which the licensee’s licence relates, absolutely or for such period as the Minister specifies in writing and the licence shall have effect and be noted accordingly in the register of licences maintained under section 78.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(h), commenced on enactment.
+
+### 67B. Permission of use of novel or experimental equipment by licensee.
+
+F41[**67B.**— The Minister may, on the application of a licensee and subject to such conditions (if any) as the Minister may consider appropriate in the circumstances and specifies in writing, permit the licensee to use novel or experimental equipment within the licensed area for such period as the Minister specifies in writing. Such permission shall be granted only if the Minister is satisfied that the use of the novel or experimental equipment will have no greater environmental or visual impact than that which existed prior to the introduction and use of such equipment and shall be noted in the register of licences maintained under section 78.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(h), commenced on enactment.
+
+### 68. Revocation or amendment of aquaculture licences.
+
+**68.**—(1) Subject to *subsection (3)* F42[...], the Minister may, in his or her discretion and, subject to *subsection (5)*, without compensation to the licensee, revoke an aquaculture licence if the Minister—
+
+(*a*) is satisfied that there has been a breach of any condition specified in the licence,
+
+(*b*) is satisfied that the aquaculture operation to which the licence relates is not being properly maintained, or
+
+(*c*) considers that it is in the public interest to do so.
+
+(2) Subject to *subsection (3)* F43[...], the Minister may amend an aquaculture licence if he or she considers it is in the public interest to do so.
+
+(3) The following shall apply in relation to the revocation or amendment of an aquaculture licence:
+
+(*a*) the Minister shall not revoke or amend the licence unless and until he or she has given by post to the licensee not less than 28 days notice in writing stating that the Minister has under consideration the revocation or amendment, as the case may be, of the licence;
+
+(*b*) the notice shall also state—
+
+(i) where it states that the Minister has under consideration the amendment of the licence, the specified amendment under consideration and the grounds on which it is so under consideration, or
+
+(ii) where it states that the Minister has under consideration the revocation of the licence, the grounds on which the revocation is under consideration;
+
+(*c*) the Minister shall consider any representations in relation to a proposed revocation or amendment made to the Minister by the licensee before the expiration of the notice.
+
+(4) The application regulations may provide for such procedural matters in relation to the revocation or amendment of licences as the Minister considers necessary or expedient.
+
+(5) Where under *subsection (1)(c)* or *(2)* the Minister revokes or amends an aquaculture licence, the licensee shall be entitled to be paid by the Minister compensation for any loss suffered by him or her by reason of the revocation or amendment and, in default of agreement, the amount of compensation shall be determined under and in accordance with the Acquisition of Land (Assessment of Compensation) Act, 1919.
+
+(6) Any expenses incurred by the Minister under this section shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Deleted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(i), commenced on enactment.
+>
+> F43: Deleted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(i)), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to section exercised (4.07.2018) by *Aquaculture (Licence Application) (Amendment) Regulations 2018* (S.I. No. 240 of 2018).
+>
+> E38: Power pursuant to section exercised (25.08.2016) by *Aquaculture (Licence Application) (Amendment) Regulations 2016* (S.I. No. 464 of 2016).
+>
+> E39: Power pursuant to section exercised (30.06.1998) by *Aquaculture (Licence Application) Regulations 1998* (S.I. No. 236 of 1998), in effect as per reg. 2.
+>
+> E40: Previous affecting provision: power pursuant to section exercised (7.04.2001) by *Aquaculture (Licence Application) (Amendment) Regulations 2001* (S.I. No. 145 of 2001); revoked (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. No. 301 of 2012), reg. 3.
+
+### 69. Cesser of aquaculture licences in certain circumstances.
+
+F44[**69.**— (1) (*a*) Subject to paragraph (*b*), where aquaculture in respect of which a licence has been granted has not commenced within 2 years after the date on which the licence was granted, the licence ceases to have effect.
+
+(*b*) A licensee, who considers that there are exceptional reasons why aquaculture, in respect of which a licence has been granted to the licensee, has not been commenced or cannot commence within the period specified in paragraph (*a*), may apply to the Minister, giving those reasons, for a determination that the licence concerned shall not cease to have effect.
+
+(*c*) The Minister may, at his or her discretion, having considered the reasons given by the licensee under paragraph (*b*), determine whether or not the licence shall cease to have effect. The determination of the Minister is final.
+
+(2) (*a*) Subject to paragraph (*b*), where aquaculture in respect of which a licence has been granted has ceased for a continuous period of 2 years, the Minister shall, without compensation to the licensee, revoke the licence.
+
+(*b*) A licensee, who considers that there are exceptional reasons why aquaculture, in respect of which a licence has been granted to the licensee, has ceased or is likely to cease for the period referred to in paragraph (*a*), may apply to the Minister, giving those reasons, for a determination not to revoke the licence.
+
+(*c*) The Minister may, in his or her discretion, having considered the reasons given by the licensee under paragraph (*b*), determine whether or not to revoke the licence. The determination of the Minister is final.
+
+(*d*) This subsection is deemed to have come into operation on 30 June 1998.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (4.04.2006 and 30.06.1998) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 101(j), commenced on enactment.
+
+### 70. Review of aquaculture licences.
+
+**70.**—(1) The Minister may, on the application of the licensee made at any time after the expiration of a period of three years commencing on the granting of the licence or its last renewal under *section 19*, review an aquaculture licence.
+
+(2) On completion of a review under *subsection (1)*, the Minister may decide to—
+
+(*a*) alter any or all of the terms of the licence,
+
+(*b*) amend or delete any condition to which the licence is subject,
+
+(*c*) attach conditions or additional conditions to the licence, or
+
+(*d*) do none or all or any of those things.
+
+(3) *Part III* shall apply to the decision of the Minister on an application for a review of an aquaculture licence in the same manner as it applies to a decision of the Minister on an application for an aquaculture licence.
+
+(4) The application regulations may provide for such procedural matters in relation to applications for reviews of aquaculture licences and decisions on such applications, including the application of environmental impact assessment requirements, as the Minister considers necessary or expedient.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section restricted (6.11.2008) by *European Communities (Control of Dangerous Substances in Aquaculture) Regulations 2008* (S.I. No. 466 of 2008), reg. 3(2).
+>
+> *Application of these Regulations to an aquaculture licence*
+>
+> **3.** (1) A licensing authority shall not grant an aquaculture licence if, in the opinion of the authority-
+>
+> (*a*) the applicant is unable to comply with limits on the quantity and concentration of a dangerous substance that may be discharged,
+>
+> (*b*) the applicant is unable to comply with required emission standards,
+>
+> (*c*) it is necessary in order to secure compliance with environmental quality objectives or standards,
+>
+> (*d*) it is necessary for the protection of human health, plant health, animal health or welfare, or the environment, or
+>
+> (*e*) it is necessary, ancillary or supplementary for an act of the institutions of the European Communities (including an act cited in the preamble to these Regulations) to have full effect.
+>
+> (2) Notwithstanding section 70(1) of the Fisheries (Amendment) Act 1997, the Minister shall carry out a review of an aquaculture licence, granted before the making of these Regulations in accordance with that section, for the purpose of assessing compliance with these Regulations—
+>
+> (*a*) as soon as may be after the commencement of these Regulations and shall ensure that such a review is completed, in so far as is reasonably practicable, before 1 January 2009, and
+>
+> (*b*) at such intervals as the Minister may determine having regard to the objectives of the Directive.
+>
+> **Editorial Notes:**
+>
+> E41: Power pursuant to section exercised (4.07.2018) by *Aquaculture (Licence Application) (Amendment) Regulations 2018* (S.I. No. 240 of 2018).
+>
+> E42: Power pursuant to section exercised (25.08.2016) by *Aquaculture (Licence Application) (Amendment) Regulations 2016* (S.I. No. 464 of 2016).
+>
+> E43: Power pursuant to section exercised (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. No. 301 of 2012).
+>
+> E44: Power pursuant to section exercised (30.06.1998) by *Aquaculture (Licence Application) Regulations 1998* (S.I. No. 236 of 1998), in effect as per reg. 2.
+>
+> E45: Previous affecting provision: power pursuant to section exercised (7.04.2001) by *Aquaculture (Licence Application) (Amendment) Regulations 2001* (S.I. No. 145 of 2001), in effect as per Reg. 2; revoked (31.07.2012) by *Aquaculture (Licence Application) (Amendment) Regulations 2012* (S.I. No. 301 of 2012), reg. 3(a).
+
+### 71. Aquaculture regulations.
+
+**71.**—(1) The Minister may make regulations establishing such requirements in relation to the management and operation of aquaculture as the Minister considers necessary or expedient.
+
+(2) A person who contravenes or fails to comply with a regulation under *subsection (1)* shall be guilty of an offence triable summarily.
+
+### 72. False or misleading statements in relation to licence applications or appeals.
+
+**72.**—(1) A person who in or in relation to an application for a licence, or an appeal against a decision on an application for an aquaculture licence or the revocation or amendment of a licence, makes a statement in writing which to the person's knowledge is false or misleading in a material respect shall be guilty of an offence.
+
+(2) Where a person is convicted of an offence under *subsection (1)*, any licence granted to that person, or to some other person on whose behalf the convicted person was authorised to act, consequent on the application or appeal in relation to which the information was furnished, shall be revoked from the date of the conviction.
+
+### 73. Applications for judicial review of decisions on licence applications or appeals.
+
+**73.**—(1) A person shall not question—
+
+(*a*) a decision on an application for a licence or the revocation or amendment of a licence, or
+
+(*b*) a determination of the Board on an appeal,
+
+otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (in this section referred to as “the Order”).
+
+F45[(1A) The High Court shall not grant leave for judicial review unless it is satisfied that—
+
+(*a*) the applicant has a sufficient interest in the matter which is the subject of the application, or
+
+(*b*) the applicant—
+
+(i) is a body or organisation (other than a State authority, a public authority or governmental body or agency) the aims or objectives of which relate to the promotion of environmental protection, and
+
+(ii) has, during the period of 12 months preceding the date of the application, pursued those aims or objectives.
+
+(1B) A sufficient interest for the purposes of paragraph (*a*) of subsection (1A) is not limited to an interest in land or other financial interest.
+
+(1C) The Court, in determining either an application for leave for judicial review under this Act, or an application for judicial review on foot of such leave, shall act as expeditiously as possible consistent with the administration of justice.]
+
+(2) An application for leave to apply for judicial review under the Order in respect of a decision or determination referred to in *subsection (1)*—
+
+(*a*) shall be made within the period of three months commencing on the date on which the decision or determination was made, and
+
+(*b*) shall be made by notice of motion (grounded in the manner specified in the Order in respect of an *ex parte* motion for leave) which shall be served on—
+
+(i) if the application relates to a decision on an application for a licence, the Minister or the officer of the Minister by whom the decision was made, as the case may be, and where the applicant for leave is not the applicant for the licence, it shall also be served on the applicant for the licence,
+
+(ii) if the application relates to a determination referred to in *subsection (1)(b)*, the Board and each party or each other party, as the case may be, to the appeal, or
+
+(iii) any other person specified for that purpose by order of the High Court,
+
+and leave shall not be granted unless the High Court is satisfied that there are substantial grounds for contending that the decision or determination is invalid or ought to be quashed.
+
+(3) The determination of the High Court of an application for leave to apply for judicial review referred to in *subsection (2)*, or of an application for such judicial review, shall be final and no appeal shall lie from the decision of the High Court to the Supreme Court in either case except with the leave of the High Court, which leave shall only be granted where the High Court certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.
+
+(4) *Subsection (3)* shall not apply to a determination of the High Court in so far as it involves a question as to the validity of any law having regard to the provisions of the Constitution.
+
+(5) References in this subsection to the Order shall be construed as including references to the Order as amended or re-enacted (with or without modification) by rules of court.
+
+F46[(6) In this section “State authority, a public authority or governmental body or agency” means—
+
+(*a*) a Minister of the Government;
+
+(*b*) the Commissioners of Public Works in Ireland;
+
+(*c*) a harbour authority within the meaning of the Harbours Act 1946;
+
+(*d*) a local authority within the meaning of the Local Government Act 2001;
+
+(*e*) the Health Service Executive;
+
+(*f*) a person established—
+
+(i) by or under any enactment (other than the Companies Acts),
+
+(ii) by any scheme administered by the Government, or
+
+(iii) under the Companies Acts, in pursuance of powers conferred by or under another enactment, and financed wholly or partly, whether directly or indirectly, by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or by subscription for shares held by or on behalf of a Minister of the Government;
+
+(*h*) a company (within the meaning of the Companies Acts), a majority of the shares in which are held by or on behalf of a Minister of the Government.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014), reg. 5(a).
+>
+> F46: Inserted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014)), reg. 5(b).
+
+### 74. Provisions in respect of certain licence applications.
+
+**74.**—(1) Where an application under section 15 of the Principal Act for a fish culture licence or under section 54 of the Act of 1980 for an aquaculture licence has been received by the Minister before the commencement of this section and has not been determined by the Minister before that commencement, the application shall, on that commencement, be deemed to be an application for an aquaculture licence under this Act.
+
+(2) Subject to *subsection (3)*, the provisions of this Act and any regulations made under this Act relating to aquaculture licences shall apply and have effect in relation to applications to which *subsection (1)* applies as if the applications were made on the commencement of this section.
+
+(3) Where, before the commencement of this section, public notice has been given in relation to an application to which *subsection (1)* applies and interested persons or bodies have been afforded an opportunity to make submissions or observations in relation to the application, the requirements of the application regulations in relation to the giving of notice of an application for an aquaculture licence or the making of submissions or observations in relation to such an application shall not apply to that application.
+
+(4) Where the Minister is satisfied that sufficient information has been provided for the Minister to decide an application to which *subsection (1)* applies in accordance with the provisions of this Act, the requirements of the application regulations in relation to the information which is required in respect of an application for an aquaculture licence shall not apply to that application.
+
+### 75. Provisions in respect of certain existing licences.
+
+**75.**—(1) Subject to *subsection (2)*—
+
+(*a*) a fish culture licence granted under section 15 of the Principal Act,
+
+(*b*) an aquaculture licence granted under section 54 of the Act of 1980, or
+
+(*c*) a foreshore licence granted for aquaculture purposes under the Foreshore Act, 1933,
+
+before the commencement of this section shall, on that commencement, be deemed to be an aquaculture licence granted under this Act.
+
+(2) Notwithstanding *subsection (1)* and without prejudice to the power of the Minister under *section 68*, the duration of—
+
+(*a*) a licence granted under section 54 of the Act of 1980, shall not be affected by the repeal of that section by *section 4(1)*, or
+
+(*b*) a licence granted under section 15 of the Principal Act shall not be affected by the repeal of that section by *section 5*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E46: By virtue of *Foreshore Act 1933* (12/1933), s. 3C, as inserted (29.06.2005) by *Maritime Safety Act 2005* (11/2005), s. 60(c), commenced on enactment, a licence area covered by a foreshore licence, which is deemed to be an aquaculture licence under this section, is to be construed by reference to the definition of “foreshore” in *Foreshore Act 1933*, s. 1.
+
+### 76. Ownership of stock.
+
+**76.**—(1) For the removal of doubt, it is hereby provided that the ownership of any fish or aquatic plants of a species specified in a licence and which are cultivated or farmed in accordance with that licence vests in the licensee.
+
+(2) Nothing in *subsection (1)* prevents a licensee from transferring or otherwise disposing of the ownership of any fish or aquatic plants referred to in that subsection.
+
+### 77. Recapture of escaped stock.
+
+**77.**—(1) F47[Inland Fisheries Ireland] may take such action as it considers necessary to recapture stock which has escaped from a facility operated under a licence.
+
+(2) The Minister, or an officer of the Minister designated by the Minister for the purposes of this section, may, notwithstanding any other provision of this Act or of the Fisheries Acts, 1959 to 1995, authorise a licensee or other person or body to take such action as is specified in the authorisation to recapture stock which has escaped from a facility operated under a licence.
+
+(3) An authorisation referred to in *subsection (2)* may be granted subject to such conditions, if any, as the Minister or the designated officer, as the case may be, considers necessary or expedient.
+
+(4) The reasonable costs of a person taking action in pursuance of an authorisation under *subsection (2)* may be recovered from the licensee as a debt due and payable to the person who incurred the costs.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Substituted (1.06.2010) by *Inland Fisheries Act 2010* (10/2010), s. 8(3)(a) and sch. 2, pt. 11, commenced on enactment.
+
+### 78. Register of licences.
+
+**78.**—(1) The Minister shall, within a period of three months commencing on the commencement of this section, establish and maintain a register of licences which shall contain a copy of each licence granted under this Act and such other information as may from time to time be prescribed by regulations.
+
+(2) The register of licences shall be kept at the offices of the Minister and shall be made available for inspection by any person free of charge during normal office hours.
+
+(3) When a request is made for a copy of an entry in the register of licences, the copy shall be provided to the person requesting it on the payment by the person to the Minister of such fee, if any, as may be fixed, not exceeding the reasonable cost of making the copy.
+
+(4) Every document purporting to be a copy of an entry in the register of licences and purporting to be certified by an officer of the Minister as a true copy of the entry shall, without proof of the signature of the person purporting so to certify or that he or she is an officer of the Minister, be received in evidence in any legal proceedings and shall, unless the contrary is shown, be deemed to be a true copy of the entry and be evidence of the terms of the entry.
+
+(5) Evidence of an entry in the register of licences may be given by production of a copy of the entry certified pursuant to this section and it shall not be necessary to produce the register of licences itself.
+
+(6) The Minister may keep the register of licences otherwise than in legible form but so that the register is capable of being used to make a legible copy or reproduction (in this section referred to as a “copy record”) of any entry in the register.
+
+(7) In any proceedings a certificate signed by an officer of the Minister stating that a copy or copy record of an entry in the register has been made in accordance with *subsection (6)* shall be evidence of the fact of the making of the entry and that the copy or copy record of the entry attached to the certificate is a true copy or reproduction of the entry, until the contrary is shown.
+
+(8) A document purporting to be a certificate under *subsection (7)* shall be deemed to be that certificate without proof of the signature of the person purporting to sign it or that the person was a proper person to so sign, until the contrary is shown.
+
+(9) In any proceedings a copy record may be given in evidence and shall be *prima facie* evidence of the facts stated in it, if the court is satisfied as to the reliability of the system used to make the copy record and the original entry on which it was based.
+
+### 79. Restriction of application of Part X of Principal Act.
+
+**79.**—Part X of the Principal Act shall not apply to fish produced pursuant to a licence.
+
+### 80. Amendment of Environmental Protection Agency Act, 1992.
+
+**80.**—Section 73 (1) of the Environmental Protection Agency Act, 1992, is hereby amended by the insertion of “or the Aquaculture Licences Appeals Board” after “which the Minister for the Marine”.
+
+### 81. Appointment of staff of Marine Institute as authorised officers and powers in relation to aquaculture.
+
+**81.**—(1) A person employed by the Marine Institute may be appointed as an authorised officer under the Fisheries Acts, 1959 to 1995, as amended by this Act, for any of the purposes for which an officer of the Minister may be appointed as an authorised officer under those Acts.
+
+(2) In addition to any other powers he or she may have under the Fisheries Acts, 1959 to 1995, as amended by this Act, a member of the Garda Síochána, or an officer of the Minister or a person employed by the Marine Institute and appointed as an authorised officer under those Acts, may, for the purposes of determining whether a provision of this Act, or a regulation made under this Act, relating to aquaculture, or a condition to which an aquaculture licence or trial licence is subject, is being or has been complied with—
+
+(*a*) enter any place or waters the subject of an aquaculture licence or trial licence or on or in which he or she believes, on reasonable grounds, aquaculture is being or has been carried on, or any building or structure used in connection with such place, waters or aquaculture,
+
+(*b*) inspect anything found on or in such a place, waters or building or structure he or she believes may be evidence of such aquaculture,
+
+(*c*) require the production of any—
+
+(i) licence, or
+
+(ii) book or other document he or she believes on reasonable grounds to be evidence of the carrying on of aquaculture on or in the place or waters,
+
+and inspect and take copies of any such licence, books or other documents, and
+
+(*d*) do all such other acts or things as he or she is authorised to do by or under the Fisheries Acts, 1959 to 1995, as amended by this Act.
+
+### 82. Application of Foreshore Acts, 1933 and 1992 to aquaculture.
+
+**82.**—The Minister, in considering an application for a lease or a licence under the Foreshore Acts, 1933 and 1992, which is sought in connection with the carrying on of aquaculture pursuant to an aquaculture licence, shall have regard to any decision of the licensing authority in relation to the aquaculture licence.
+
+## SCHEDULE — Aquaculture Licences Appeals Board
+
+1\. The Board shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and, with the consent of the Minister, to acquire, hold and dispose of land or any other property.
+
+2\. The Board shall, as soon as practicable after its establishment, provide itself with a seal.
+
+3\. The seal of the Board shall be authenticated by the signature of the Chairperson or of some other member authorised by the Board to act in that behalf.
+
+4\. Judicial notice shall be taken of the seal of the Board and every document purporting to be an instrument made by the Board and to be sealed with the seal (purporting to be authenticated in accordance with *paragraph 3*) of the Board shall be received in evidence and be deemed to be such instrument without proof, unless the contrary is shown.
+
+5\. The Minister may fix the date, time and place of the first meeting of the Board.
+
+[^1]: <sup>(1)</sup>O.J. No. L175, 5.7.1985.
+[^2]: <sup>(2)</sup>O.J. No. L175, 5.7.1985.
+[^3]: <sup>(3)</sup>OJ. No. L175, 5.7.1985.

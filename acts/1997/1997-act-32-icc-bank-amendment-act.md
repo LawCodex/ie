@@ -1,0 +1,46 @@
+---
+title: "ICC Bank (Amendment) Act, 1997"
+identifier: "eli/1997/act/32"
+type: act
+jurisdiction: ie
+language: en
+number: 32
+year: 1997
+date: 1997-05-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1997/act/32/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# ICC Bank (Amendment) Act, 1997
+
+AN ACT TO AMEND AND EXTEND THE ICC BANK ACTS, 1933 to 1992. [21*st May*, 1997]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Definition.
+
+**1.**—In this Act, “the Company” means ICC Bank public limited company.
+
+## 2. Increase in borrowing powers of Company.
+
+**2.**—Paragraph 4 of the Schedule to the Industrial Credit Act, 1933, is hereby amended by the substitution in clause (i) of subparagraph (*d*) (inserted by section 5 of the Industrial Credit (Amendment) Act, 1971) of “£2,300,000,000” for “£1,300,000,000” (inserted by section 5 of the ICC Bank Act, 1992), and the said clause, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(i) the amount so raised or borrowed and standing unpaid at any particular time shall not exceed £2,300,000,000 less the amount (if any) which the Minister has, under a guarantee or guarantees given by him, paid in respect of the principal of moneys raised or borrowed by the Company and which stands at that time not repaid to the Minister by the Company,
+
+## 3. Increase of capital of Company.
+
+**3.**—Notwithstanding anything to the contrary in the ICC Bank Acts, 1933 to 1992, or the memorandum and articles of association of the Company, it shall be lawful for the Company to increase its share capital to a total of £40,000,000 divided into shares of £1 each or such other denominations as shall be in accordance with the memorandum of association of the Company.
+
+## 4. Alteration of memorandum and articles of association of Company.
+
+**4.**—The Company shall take such steps as may be necessary under the Companies Acts, 1963 to 1990, to alter its memorandum and articles of association to make them consistent with the *ICC Bank Acts, 1933* to *1997*.
+
+## 5. Short title, collective citation and construction.
+
+**5.**—(1) This Act may be cited as the ICC Bank (Amendment) Act, 1997.
+
+(2) The ICC Bank Acts, 1933 to 1992, and this Act may be cited together as the ICC Bank Acts, 1933 to 1997, and shall be construed together as one Act.

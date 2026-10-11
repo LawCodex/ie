@@ -1,0 +1,455 @@
+---
+title: "Criminal Justice Act, 1993"
+identifier: "eli/1993/act/6"
+type: act
+jurisdiction: ie
+language: en
+number: 6
+year: 1993
+date: 1993-04-03
+last_amended: 2023-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1993/act/6/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1993/act/6/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice Act, 1993
+
+AN ACT TO ENABLE THE COURT OF CRIMINAL APPEAL TO REVIEW UNDULY LENIENT SENTENCES, TO MAKE OTHER PROVISION IN RELATION TO SENTENCING, TO PROVIDE FOR THE PAYMENT BY OFFENDERS OF COMPENSATION FOR INJURY OR LOSS RESULTING FROM THEIR OFFENCES, TO AMEND THE CRIMINAL PROCEDURE ACT, 1967, AND THE PUNISHMENT OF INCEST ACT, 1908, AND TO PROVIDE FOR CONNECTED MATTERS. [3*rd April*, 1993]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1.** — (1) In this Act, unless the context otherwise requires—
+
+“ compensation order ” and “ injured party ” have the meanings assigned to them by *section 6* ;
+
+“ imprisonment ” includes detention in Saint Patrick's Institution;
+
+“ sentence ” includes a sentence of imprisonment and any other order made by a court in dealing with a convicted person other than—
+
+(*a*) an order under section 17 of the Lunacy (Ireland) Act, 1821, or section 2 (2) of the Trial of Lunatics Act, 1883, or
+
+(*b*) an order postponing sentence for the purpose of obtaining a medical or psychiatric report or a report by a probation officer;
+
+“ sentencing court ” means the court referred to in *section 2 (1)*.
+
+(2) References in *sections 2 (1)* and *4 (1)* to conviction of a person on indictment include references to conviction of a person after signing a plea of guilty and being sent forward for sentence under section 13 (2) (*b*) of the Criminal Procedure Act, 1967.
+
+(3) This Act shall not apply to sentences imposed on persons convicted before its commencement.
+
+(4) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended, and
+
+(*b*) a reference to a subsection or paragraph is a reference to the subsection or paragraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+## 2. Review of certain sentences.
+
+**2.** — (1) If it appears to the Director of Public Prosecutions that a sentence imposed by a court (in this Act referred to as the “ sentencing court ”) on conviction of a person on indictment was unduly lenient, he may apply to the Court of Criminal Appeal to review the sentence.
+
+(2) An application under this section shall be made, on notice given to the convicted person, within 28 days F1[, or such longer period not exceeding 56 days as the Court may, on application to it in that behalf, determine,] from the day on which the sentence was imposed.
+
+(3) On such an application, the Court may either—
+
+(*a*) quash the sentence and in place of it impose on the convicted person such sentence as it considers appropriate, being a sentence which could have been imposed on him by the sentencing court concerned, or
+
+(*b*) refuse the application.
+
+(4) Section 6 of the Prosecution of Offences Act, 1974 (which prohibits certain communications in relation to criminal proceedings), shall apply, with any necessary modifications, to communications made to the persons mentioned in that section for the purpose of influencing the making of a decision in relation to an application under this section as it applies to such communications made for the purpose of making a decision to withdraw or not to initiate criminal proceedings or any particular charge in criminal proceedings.
+
+F2[(5) Where the convicted person in relation to whom an application under this section is made is a person who was under the age of 18 years when the sentence was imposed on him by the sentencing court concerned and he has attained the age of 18 years on or before the date on which the application is determined by the Court, the reference in *subsection (3)(a)* to a sentence which could have been imposed on him by the sentencing court concerned shall be construed as a reference to a sentence which could have been imposed on him by the sentencing court concerned had he attained that age at the time when the sentence was so imposed.
+
+(6) Where *subsection (5)* applies and the application under this section is in respect of a sentence imposed on a person convicted of treason or murder before the person has attained the age of 18 years, the Court may, notwithstanding section 2 of the Criminal Justice Act 1990, impose such sentence as it considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 23, S.I. No. 390 of 2006.
+>
+> F2: Inserted (1.08.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 61(1), S.I. No. 391 of 2023, art. 3(c), subject to transitional provision in subs. (2).
+
+## Minor and consequential provisions.
+
+**3.**—F3[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 7, S.I. No. 479 of 2014.
+
+## 4. Minor and consequential provisions.
+
+**4.** — (1) The registrar of a court which has imposed a sentence on conviction of a person on indictment shall—
+
+(*a*) give to the Director of Public Prosecutions, on request, a copy of any reports or other relevant documents that were considered by the court before it imposed the sentence, and
+
+(*b*) if the sentence has become the subject of an application under *section 2* , give a copy of those documents to the Court of Criminal Appeal and the convicted person.
+
+F4[(2) Where an application has been made to the Court of Appeal under *section 2*—
+
+(*a*) a legal aid (appeal) certificate shall be deemed for the purposes of the Criminal Justice (Legal Aid) Act 1962 to have been granted in respect of the person whose sentence is the subject of the application, and
+
+(*b*) the person shall be entitled to free legal aid in the preparation and conduct of his or her case before the Court of Appeal and to have a solicitor and counsel assigned to him or her for that purpose in the manner prescribed by regulations under section 10 of that Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 51, S.I. No. 479 of 2014.
+
+## 5. F5[Effect of certain offences on persons in respect of whom committed.
+
+**5.**—F6[(1) This section applies to an offence where a natural person in respect of whom the offence has been committed, has suffered harm, including physical, mental or emotional harm, or economic loss, which was directly caused by that offence.]
+
+(2) (*a*) When imposing sentence on a person for an offence to which this section applies, a court shall take into account, and may, where necessary, receive evidence or submissions concerning, any effect (whether long-term or otherwise) of the offence on the person in respect of whom the offence was committed.
+
+(*b*) For the purposes of *paragraph (a)*, a "person in respect of whom the offence was committed" includes, where, as a result of the offence, that person has died, is ill or is otherwise incapacitated, a family member of that person.
+
+(3) (*a*) When imposing sentence on a person for an offence to which this section applies, a court shall, upon application by the person in respect of whom such offence was committed, hear the evidence of the person in respect of whom the offence was committed as to the effect of the offence on such person.
+
+(*b*) For the purpose of *paragraph (a)*, where the person in respect of whom the offence was committed—
+
+(i) is a child under the age of 14 years, the child, or his or her parent or guardian, may give evidence as to the effect of the offence concerned on that child,
+
+(ii) is—
+
+(I) a person with a mental disorder (not resulting from the offence concerned), the person or a family member,
+
+(II) a person with a mental disorder (not resulting from the offence concerned), who is a child, the person or his or her parent or guardian,
+
+may give evidence as to the effect of the offence concerned on that person,
+
+(iii) is a person who is ill or is otherwise incapacitated as a result of the offence, a family member of the person may give evidence as to the effect of the offence concerned on that person and on his or her family members,
+
+(iv) has died as a result of the offence, a family member of the person may give evidence as to the effect of the offence concerned—
+
+(I) on the person between the commission of the offence and his or her death (where relevant), and
+
+(II) on the family members of the person who has died.
+
+(*c*) A person who has been convicted of an offence to which this section applies may not give evidence pursuant to *paragraph (b)* in respect of that offence.
+
+(*d*) Where more than one family member seeks to avail of *paragraph (b)*, the court may direct the family members to nominate one or more family members for the purpose of that paragraph.
+
+(*e*) Where the court directs the family members to nominate one or more family members pursuant to *paragraph (d)* and the family members are unable to reach agreement, the court may, having regard to the degree of relationship between the family members and the person in respect of whom the offence was committed, nominate one or more family members as it considers appropriate.
+
+(4) Where no evidence is given pursuant to *subsection (3)*, the court shall not draw an inference that the offence had little or no effect (whether long-term or otherwise) on the person in respect of whom the offence was committed or, where appropriate, on his or her family members.
+
+(5) (*a*) The court may, in the interests of justice, order that information relating to the evidence given under *subsection (3)* or a part of it shall not be published or broadcast.
+
+(*b*) If any matter is published or broadcast in contravention of *paragraph (a)*, the following persons, namely—
+
+(i) in the case of a publication in a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical,
+
+(ii) in the case of any other publication, the person who publishes it, and
+
+(iii) in the case of a broadcast, any person who transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of the editor of a newspaper,
+
+shall be guilty of an offence.
+
+(*c*) A person guilty of an offence under *paragraph (b)* shall be liable—
+
+(i) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(*d*) Where an offence under *paragraph (b)* is committed by a body corporate and is proved to have been so committed with the consent, connivance or approval of or to be attributable to any neglect on the part of a person being a director, manager, secretary or other officer of the body corporate or any other person who was acting or purporting to act in any such capacity, that person as well as the body corporate shall be guilty of an offence and be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(*e*) Where the affairs of a body corporate are managed by its members, *paragraph (d)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(6) In this section and in *sections 5A* and *5B*, unless the context otherwise requires—
+
+F7["Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;]
+
+"broadcast" has the meaning it has in section 2 of the Broadcasting Act 2009;
+
+"child" means a person under the age of 18;
+
+F7["civil partner" means a person in a civil partnership or legal relationship to which section 3 of the Act of 2010 applies;
+
+"cohabitant" means a cohabitant within the meaning of section 172(1) of the Act of 2010;]
+
+F8["family member", in relation to a person in respect of whom an offence is committed, means—
+
+(*a*) a spouse, civil partner or cohabitant of the person,
+
+(*b*) a child or step-child of the person,
+
+(*c*) a parent or grandparent of the person,
+
+(*d*) a brother, sister, half brother or half sister of the person,
+
+(*e*) a grandchild of the person,
+
+(*f*) an aunt, uncle, nephew or niece of the person, and
+
+(*g*)any other person—
+
+(*i*) who is or, where the person is deceased, was dependent on the person, or
+
+(*ii*) who a court considers has or, where the person is deceased, had a sufficiently close connection with that person as to warrant his or her being treated as a family member;]
+
+"guardian", in relation to a child, has the meaning it has in the Children Act 2001;
+
+"mental disorder" includes a mental illness, mental disability, dementia or any disease of the mind;
+
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public.]
+
+## Section
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F5: Substituted (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), s. 4, S.I. No. 414 of 2010.
+>
+> F6: Substituted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 31(a), S.I. No. 530 of 2017.
+>
+> F7: Inserted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 31(b)(ii), S.I. No. 530 of 2017.
+>
+> F8: Substituted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 31(b)(i), S.I. No. 530 of 2017.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: subs. (1) amended by (20.09.2012) by *Criminal Justice (Female Genital Mutilation) Act 2012* (11/2012), s. 13, S.I. No. 353 of 2012.
+
+## 5A. Evidence through television link.
+
+F9[**5A.**— (1) (*a*) A child or a person with a mental disorder in respect of whom an offence to which *section 5* applies was committed, may give evidence pursuant to *section 5(3)*, whether from within or outside the State, through a live television link unless the court sees good reason to the contrary.
+
+(*b*) Any other person in respect of whom an offence to which *section 5* applies was committed may, with the leave of the court, give evidence pursuant to *section 5(3)*, whether from within or outside the State, through a live television link.
+
+(2) Evidence given under *subsection (1)* shall be video recorded.
+
+(3) While evidence is being given pursuant to *subsection (1)* (except through an intermediary pursuant to *section 5B(1)*), neither the judge, nor the barrister or solicitor concerned in the examination of the witness, shall wear a wig or gown.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Inserted (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), s. 5, S.I. No. 414 of 2010.
+>
+> **Editorial Notes:**
+>
+> E2: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 5B. Evidence through intermediary.
+
+F10[**5B.**— (1) Where a child or a person with a mental disorder is giving, or is to give evidence through a live television link, pursuant to *section 5A*, the court may, on the application of the prosecution or the accused, if satisfied that, having regard to the age or mental condition of the witness, the interests of justice require that any questions to be put to the witness be put through an intermediary, direct that any such questions be so put.
+
+(2) Questions put to a witness through an intermediary under this section shall be either in the words used by the questioner or so as to convey to the witness in a way which is appropriate to his or her age and mental condition, the meaning of the questions being asked.
+
+(3) An intermediary referred to in *subsection (1)* shall be appointed by the court and shall be a person who, in its opinion, is competent to act as such.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), s. 6, S.I. No. 414 of 2010.
+>
+> **Editorial Notes:**
+>
+> E3: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 6. Compensation order.
+
+**6.** — (1) Subject to the provisions of this section, on conviction of any person of an offence, the court, instead of or in addition to dealing with him in any other way, may, unless it sees reason to the contrary, make (on application or otherwise) an order (in this Act referred to as a “ compensation order ”) requiring him to pay compensation in respect of any personal injury or loss resulting from that offence (or any other offence that is taken into consideration by the court in determining sentence) to any person (in this Act referred to as the “ injured party ”) who has suffered such injury or loss.
+
+(2) The compensation payable under a compensation order (including a compensation order made against a parent or guardian of the convicted person and notwithstanding, in such a case, any other statutory limitation as to amount) shall be of such amount (not exceeding, in the case of such an order made by the District Court, such amount as may stand prescribed for the time being by law as the limit of that Court's jurisdiction in tort) as the court considers appropriate, having regard to any evidence and to any representations that are made by or on behalf of the convicted person, the injured party or the prosecutor, and shall not exceed the amount of the damages that, in the opinion of the court, the injured party would be entitled to recover in a civil action against the convicted person in respect of the injury or loss concerned.
+
+(3) Where the commission of the offence by the convicted person involved the taking of property out of the possession of the injured party and the property has been recovered, any loss occurring to the injured party by reason of the property being damaged while out of his possession shall be treated for the purposes of *subsection (1)* as having resulted from the offence, irrespective of how the damage was caused or who caused it.
+
+(4) A compensation order shall not be made in respect of an injury or loss that results from the use of a mechanically propelled vehicle (within the meaning of the Road Traffic Act, 1961) in a public place unless it appears to the court that—
+
+(*a*) it is in respect of an injury or loss as respects which the use of the vehicle by the convicted person was in breach of section 56 (which provides for the compulsory insurance of mechanically propelled vehicles) of that Act, or
+
+(*b*) it is in respect of a loss which is treated by *subsection (3)* as having resulted from the offence,
+
+and, where a compensation order is made in respect of injury or loss resulting from such use, the amount of the compensation may include an amount representing the whole or part of any loss of or reduction in preferential rates of insurance resulting from such use.
+
+(5) In determining whether to make a compensation order against a person, and in determining the amount of the compensation, the court shall have regard—
+
+(*a*) to his means, or
+
+(*b*) in a case to which section 99 of the Children Act, 1908 (which empowers a court to require a parent or guardian to pay any fine, damages or costs imposed on or awarded against a child or young person), applies, to the means of the parent or guardian,
+
+so far as they appear or are known to the court and for that purpose the court may require the convicted person or his parent or guardian, as the case may be, to give evidence as to his means and financial commitments.
+
+(6) A compensation order may provide for payment of the compensation by such instalments and at such times as the court shall in all the circumstances consider reasonable.
+
+(7) Where the court considers—
+
+(*a*) that it would be appropriate both to impose a fine and to make a compensation order, but
+
+(*b*) that the convicted person has insufficient means to pay both an appropriate fine and appropriate compensation, the court may, if it is satisfied that the means are sufficient to justify its doing so, make a compensation order and, if it is satisfied that it is appropriate to do so having regard to the means that would remain after compliance with the order, impose a fine.
+
+(8) At any time after a compensation order has ceased to be suspended by virtue of *section 8* and before it has been complied with or fully complied with, the District Court (or, where the amount payable under the order exceeds such amount as may stand prescribed for the time being by law as the limit of that Court's jurisdiction in tort, the court which made the order) may—
+
+(*a*) on the application of the convicted person concerned and on being satisfied that the injured party concerned has been given an opportunity of making representations to the Court on the issue and having regard to any such representations that are made by him or on his behalf, reduce the amount remaining to be paid, vary any instalment payable, or direct that no payments or further payments be made, under the order if it appears to the Court that, because of a substantial reduction in the means of the convicted person, his means are insufficient to satisfy the order in full, or
+
+(*b*) on the application of the injured party concerned and on being satisfied that the convicted person concerned has been given an opportunity of making representations to the Court on the issue and having regard to any such representations that are made by him or on his behalf, increase the amount to be paid, the amount of any instalment or the number of instalments payable, under the order if it appears to the Court that—
+
+(i) because of a substantial increase in the means of the convicted person, his means are sufficient for the relevant purposes aforesaid, and
+
+(ii) any increased amount to be paid under the order would not exceed—
+
+(I) the amount of the damages that the injured party concerned would be entitled to recover in a civil action against the convicted person in respect of the injury or loss concerned, or
+
+(II) such amount as may stand prescribed for the time being by law as the limit of the Court's jurisdiction in tort,
+
+whichever is the lesser.
+
+(9) The references to damages in the aforesaid section 99 shall be construed as if they included references to compensation under a compensation order and subsections (5) and (6) of that section shall not apply in relation to a compensation order.
+
+(10) This section is without prejudice to any other enactment which provides for the payment of compensation by a person convicted of an offence or otherwise proved to have committed an offence.
+
+(11) The making of a compensation order against a parent or guardian of a convicted person shall not of itself give rise to any other liability on the part of the parent or guardian in respect of the injury or loss.
+
+(12) In this section—
+
+(*a*) in a case where death has resulted from an offence specified in *subsection (1)* —
+
+“ loss ” means any matter (including mental distress resulting from the death and funeral expenses) for which damages could be awarded in respect of the death by virtue of Part V of the Civil Liability Act, 1961,
+
+“ injured party ” includes a dependant (within the meaning of the said Part V) of the deceased person concerned,
+
+(*b*) references to conviction of a person include references to dealing with a person under section 1 (1) of the Probation of Offenders Act, 1907, and
+
+(*c*) the third reference in *subsection (1)*, the second reference in *subsection (2)* and the references in *subsections (7) (b)* and *(8)* (other than *paragraph (b) (ii)*) to a convicted person, however expressed, include, in a case to which the aforesaid section 99 applies, references to his parent or guardian.
+
+(13) In assessing for the purposes of this section the means of a person, the court shall take into account his financial commitments.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of section restricted (1.05.2002) by *Children Act 2001* (24/2001), s. 113(7), S.I. No. 151 of 2002.
+>
+> **Compensation by parent or guardian.**
+>
+> **113.** ...
+>
+> (7) Notwithstanding anything in *section 6* of the Criminal Justice Act, 1993, any sum ordered by a court to be paid under this section in respect of loss of or damage to property shall not be greater than the cost of its replacement or repair, as the case may be, and shall not include any loss or damage of a consequential nature.
+
+## 7. Payment of compensation to District Court clerks for transmission, and attachment of earnings orders.
+
+**7.** — (1) Subject to *subsection (2)*, payments under a compensation order or an order under *section 6 (8)* shall be made, for transmission to the injured party concerned, to such District Court clerk as may be determined from time to time by the court which made the order.
+
+(2) For the purposes of *subsection (1)* and of securing compliance with compensation orders and orders under *section 6 (8)* —
+
+(*a*) subsections (2), (4), (5) and (6) of section 9 (which relates to the transmission of maintenance order payments through District Court clerks),
+
+(*b*) Part III (which relates to attachment of earnings), and
+
+(*c*) section 29 (which amends the Enforcement of Court Orders Act, 1940),
+
+of the Family Law (Maintenance of Spouses and Children) Act, 1976, shall apply to those orders with the following modifications and any other necessary modifications, that is to say:
+
+(i) in the said subsections (2) and (4)—
+
+(I) the references to payments shall be construed as including payments under a compensation order or an order under *section 6 (8)* to a District Court clerk pursuant to *subsection (1)*, and
+
+(II) the references to the maintenance creditor shall be construed as references to the injured party,
+
+(ii) in the said Part III—
+
+(I) in section 10—
+
+(A) subparagraphs (i) and (ii) of subsection (1) (*a*) shall not apply,
+
+(B) the reference to the District Court in subsection (1) (*a*) (iii) (I) shall be construed as a reference to a court, and
+
+(C) in subsection (2), paragraph (*a*) shall be deleted and the following paragraph shall be substituted for paragraph (*b*):
+
+“(*b*) in any other case, to the District Court clerk specified by the attachment of earnings order for transmission to the injured party concerned”,
+
+(II) the references to an antecedent order shall be construed as references to a compensation order and an order under *section 6 (8)*,
+
+(III) the references to the maintenance creditor shall be construed as references to the injured party, and
+
+(IV) the references to the maintenance debtor shall be construed as references to the convicted person or, in a case to which section 99 of the Children Act, 1908, applies, to his parent or guardian,
+
+and
+
+(iii) in the said section 29 the reference to a maintenance order shall be construed as including a reference to a compensation order and an order under *section 6 (8)*.
+
+## 8. Suspension of compensation order pending appeal.
+
+**8.** — (1) The operation of a compensation order shall be suspended—
+
+(*a*) in any case, until the ordinary time for giving notice of an appeal or of an application for leave to appeal (whether against the conviction to which the order relates or the sentence) has expired, and
+
+(*b*) in a case where the notice aforesaid is given within that time or such extended time as the court to which the appeal is brought may allow, until the appeal or any further appeal therefrom is finally determined or abandoned or the ordinary time for instituting any further appeal has expired.
+
+(2) Where the operation of a compensation order is suspended under *subsection (1) (b)*, the order shall not take effect if the conviction concerned is reversed on appeal.
+
+(3) A court hearing an appeal against conviction or sentence may annul or vary the compensation order concerned.
+
+(4) A person against whom a compensation order is made may appeal against the order to the court to which an appeal against the conviction concerned may be brought and *subsections (1) (b)* and *(3)* shall apply in relation to an appeal under this subsection as they apply, or would apply, to an appeal against the conviction.
+
+(5) Where a compensation order has been made against a person in respect of an offence taken into consideration in determining his sentence, the order shall cease to have effect if he successfully appeals against his conviction of the offence, or, if more than one, all the offences, of which he was convicted in the proceedings in which the order was made.
+
+(6) In this section references to conviction of a person include references to dealing with a person under section 1 (1) of the Probation of Offenders Act, 1907.
+
+## 9. Effect of compensation order on civil proceedings.
+
+**9.** — Where—
+
+(*a*) a compensation order has been made in favour of a person, and
+
+(*b*) damages in respect of the injury or loss concerned fall to be assessed in civil proceedings,
+
+then—
+
+(i) if the damages, as so assessed, exceed any amount paid under the compensation order, the damages awarded shall not exceed the amount of that excess, and
+
+(ii) if any amount paid under the compensation order exceeds the damages, as so assessed, the court may order that the amount of the excess be repaid by that person to the person against whom the compensation order was made,
+
+and, upon the award of damages or, as the case may be, the making of the order by the court, the compensation order shall cease to have effect.
+
+## 10. Service of documents.
+
+**10.** — (1) A document required by *section 2* or *4* of this Act to be given to a convicted person may, subject to *subsection (3)*, be so given—
+
+(*a*) by delivering it to him or to his solicitor,
+
+(*b*) by addressing it to him and leaving it at his usual or last known residence or place of business or by addressing it to his solicitor and leaving it at the solicitor's office,
+
+(*c*) by sending it by registered post to him at his usual or last known residence or place of business or to his solicitor at the solicitor's office, or
+
+(*d*) in the case of a body corporate, by delivering it, or sending it by registered post, to the secretary or other officer of the body at its registered or principal office.
+
+(2) For the purposes of *subsection (1)* the solicitor retained to appear on behalf of the convicted person at his trial shall be deemed to continue to be retained on his behalf unless he is discharged by the Court of Criminal Appeal.
+
+(3) A document required by *section 2* or *4* of this Act to be given to a convicted person shall be given personally to him if he was not represented by a solicitor at his trial or if his solicitor has been so discharged.
+
+## Amendment of Criminal Procedure Act, 1967.
+
+**11.**—F11[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Repealed (1.10.2001) by *Criminal Justice Act 1999* (10/1999), s. 22(c), S.I. No. 193 of 2001.
+
+## 12. Amendment of Punishment of Incest Act, 1908.
+
+**12.** — Section 1 (incest by males) of the Punishment of Incest Act, 1908, is hereby amended by the substitution for “liable, at the discretion of the court, to be kept in penal servitude for any term not less than three years, and not exceeding seven years, or to be imprisoned for any time not exceeding two years with or without hard labour” of “ liable to imprisonment for a term not exceeding 20 years ”.
+
+## 13. Repeals.
+
+**13.** — Sections 9, 10 and 11 of the Criminal Damage Act, 1991, are hereby repealed.
+
+## 14. Short title and commencement.
+
+**14.** — (1) This Act may be cited as the Criminal Justice Act, 1993.
+
+(2) This Act shall come into operation one month after the date of its passing.

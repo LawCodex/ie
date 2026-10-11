@@ -1,0 +1,917 @@
+---
+title: "Courts-Martial Appeals Act, 1983"
+identifier: "eli/1983/act/19"
+type: act
+jurisdiction: ie
+language: en
+number: 19
+year: 1983
+date: 1983-06-29
+last_amended: 2022-07-06
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1983/act/19/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1983/act/19/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Courts-Martial Appeals Act, 1983
+
+AN ACT TO ESTABLISH A COURTS-MARTIAL APPEAL COURT, TO MAKE PROVISION FOR THE GRANT BY THE STATE OF FREE LEGAL AID IN CERTAIN COURTS-MARTIAL CASES AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [29*th June*, 1983]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Revocation of order under subs. (9) or (15) deemed to be sentence of court martial by *Defence Act 1954* (18/1954), s. 212A(16) as inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 61, S.I. No. 254 of 2008.
+>
+> **Power to suspend sentence.**
+>
+> **212A.**— ...
+>
+> (16) The revocation of an order under subsection (9) or (15) of this section shall for the purposes of this Act and the Courts-Martial Appeals Act 1983 be deemed to be a sentence of a court-martial.
+>
+> C2: Order deemed to be sentence of court martial by *Defence Act 1954* (18/1954), s. 213(10) as substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 63, S.I. No. 254 of 2008.
+>
+> **Order for payment of compensation.**
+>
+> **213.**— ...
+>
+> (10) An order under this section shall, for the purposes of this Act and the Courts-Martial Appeals Act 1983, be deemed to be a sentence of a court-martial.
+>
+> **Editorial Notes:**
+>
+> E1: Proceedings prior to 20.07.2009 not affected (20.07.2009) by *Rules of the Superior Courts (Courts-Martial Appeal Court) 2009* (S.I. No. 270 of 2009), rule 2.
+>
+> E2: Legal aid restricted under certain conditions (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 18.
+>
+> E3: Witness expenses prescribed (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 17, as amended (30.06.2010) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2010* (S.I. No. 327 of 2010).
+>
+> E4: Fees and expenses prescribed (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), regs. 11-16, schs. 3 and 4, as amended (30.06.2010) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2010* (S.I. No. 327 of 2010).
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Courts-Martial Appeals Act, 1983.
+
+### 2. Commencement of Part III.
+
+**2.**—*Part III* of this Act shall come into operation on such day as may be fixed therefor by order of the Minister.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (16.12.1986) by *Courts-Martial Appeals Act, 1983 (Commencement of Part III) Order 1986* (S.I. No. 426 of 1986).
+>
+> 2\. The 16th day of December, 1986, is hereby fixed as the day on which Part III of the Courts-Martial Appeals Act 1983 (19/1983), shall come into operation.
+
+### 3. Definitions.
+
+**3.**—In this Act—
+
+F1[”Act of 1947” means the Courts of Justice Act 1947;]
+
+“the Act of 1954” means the Defence Act, 1954;
+
+“the Court” means the Courts-Martial Appeal Court established by section 9;
+
+“the Minister” means the Minister for Defence.
+
+F1[”military judge”—
+
+(*a*) means a military judge appointed under Chapter IVC of Part V of the Act of 1954, and
+
+(*b*) in relation to the performance of the functions of a military judge under this Act or any instrument made under it, where a temporary designation of a Circuit Judge to carry out the functions of a military judge has been made under section 11A of the Act of 1947, references to the performance of such functions shall be construed in accordance with *section 3A*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 11(a), S.I. No. 568 of 2011.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: definition amended by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 pt. 2, not commenced as of date of revision.
+>
+> **3.**— ...
+>
+> “the Court” means the Courts-Martial Appeal Court F47[...];
+>
+> ...
+
+### 3A. Performance of functions of military judge by Circuit Judge.
+
+F2[**3A**.—(1) Where a Circuit Judge has been temporarily designated under section 11A of the Courts of Justice Act 1947 pursuant to a request under section 184LA of the Act of 1954, notwithstanding the definition of military judge in section 3, references in this Act, or any instrument made under it, to a military judge in relation to the carrying out of the functions of a military judge under this Act, or any instrument made under it, shall be construed in accordance with such temporary designation of such Circuit Judge and nothing in this Act, or any statutory instrument made under it, shall be construed as preventing such Circuit Judge from carrying out such functions of a military judge.
+
+(2) In this section "Circuit Judge" has the meaning assigned to it by the Act of 1947.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (9.11.2012) by *Defence (Amendment) Act 2011* (17/2011), s. 11(b), S.I. No. 568 of 2012.
+
+### 4. Expenses.
+
+**4.**—The expenses incurred by a Minister of the Government in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 5. Amendment of section 202 of Act of 1954.
+
+**5.**—Section 202 of the Act of 1954 is hereby amended—
+
+(*a*) by the substitution of the following paragraph for paragraphs (*b*) and (*c*) of subsection (1):
+
+“(*b*) the court-martial shall order that such person be kept in custody in an institution suitable for the detention of such person until such time as he is fit to take his trial or until his release is sooner ordered by the Minister or the High Court, which court shall for that purpose have all the powers which a judge of the Central Criminal Court would have had if the case had been tried before him.”, and
+
+(*b*) by the substitution of the following subsection for subsection (2):
+
+“(2) A finding under this section shall not require confirmation or be subject to revision.”,
+
+and that section, as so amended, is set out in the Table to this section.
+
+TABLE
+
+202.—(1) Where at the trial by court-martial of a person charged with an offence it appears that such person is by reason of insanity unfit to take his trial, the following provisions shall have effect, that is to say:—
+
+(*a*) the court-martial shall find specially that fact;
+
+(*b*) the court-martial shall order that such person be kept in custody in an institution suitable for the detention of such person until such time as he is fit to take his trial or until his release is sooner ordered by the Minister or the High Court, which court shall for that purpose have all the powers which a judge of the Central Criminal Court would have had if the case had been tried before him.
+
+(2) A finding under this section shall not require confirmation or be subject to revision.
+
+### 6. Amendment of section 203 of Act of 1954.
+
+**6.**—Section 203 of the Act of 1954 is hereby amended—
+
+(*a*) by the substitution of the following paragraph for paragraphs (*b*) and (*c*) of subsection (1):
+
+“(*b*) the court-martial shall order that such person be kept in custody in an institution suitable for the detention of such person until further order of the High Court, which court shall for that purpose have all the powers which a judge of the Central Criminal Court would have had if such person had been tried before him.”, and
+
+(*b*) by the substitution of the following subsection for subsection (2):
+
+“(2) A finding under this section shall not require confirmation or be subject to revision.”,
+
+and that section, as so amended, is set out in the Table to this section.
+
+TABLE
+
+203.—(1) Where at the trial by court-martial of a person charged with an offence it appears that such person did the act or made the omission charged, but was insane at the time when he did the said act or made the said omission, the following provisions shall have effect, that is to say:—
+
+(*a*) the court-martial shall find specially that the accused was guilty of the act or omission charged but was insane at the time he did the act or made the omission;
+
+(*b*) the court-martial shall order that such person be kept in custody in an institution suitable for the detention of such person until further order of the High Court, which court shall for that purpose have all the powers which a judge of the Central Criminal Court would have had if such person had been tried before him.
+
+(2) A finding under this section shall not require confirmation or be subject to revision.
+
+### 7. Amendment of section 215 of Act of 1954.
+
+**7.**—Section 215 of the Act of 1954 is hereby amended by the substitution for “Subject to section 204,” of “Subject to sections 202 to 204,” and that section, as so amended, is set out in the Table to this section.
+
+TABLE
+
+215.—Subject to sections 202 to 204, the finding and sentence of a court-martial shall not be valid except in so far as the same may be confirmed by a confirming authority under this Chapter.
+
+### 8. Restriction of section 224 of Act of 1954.
+
+**8.**—Section 224 of the Act of 1954 (quashing of finding of court-martial) shall not have effect in relation to the finding or sentence of a court-martial against which the person convicted may, by virtue of an order under *section 24* of this Act, appeal to the Court.
+
+## PART IICourts-Martial Appeal Court — PART II — Courts-Martial Appeal Court
+
+### 9. Establishment and constitution of the Courts-Martial Appeal Court.
+
+**9.**—F3[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 6, S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; superseded as per F-note above.
+
+### 10. Court to be a superior court of record, etc.
+
+**10.**—F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 6, S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; superseded as per F-note above.
+
+### 11. Registrar of the Court.
+
+**11.**—F5[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 6, S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; superseded as per F-note above.
+
+### 12. Sittings and procedure of the Court.
+
+**12.**—F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 6, S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; superseded as per F-note above.
+
+### 13. Right of appeal to the Court.
+
+**13.**—F7[(1)]A person convicted by a court-martial may appeal to the Court against the finding or sentence change F8[...] of the court-martial or against both such finding and such sentence.
+
+F9[(2) A person in respect of whom a finding or order of committal is made under section 202 or 203 of the Act of 1954 may appeal that finding or order of committal to the Court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F8: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F9: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 14. Appeal to the Supreme Court.
+
+**14.**—F10[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 6, S.I. No. 479 of 2014, subject to transitional provisions as per s. 78(3).
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; superseded as per F-note above.
+
+### 15. Interlocutory applications.
+
+**15.**—F11[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Repealed (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 73, sch. 1 item 6, S.I. No. 479 of 2014.
+
+### 16. Consequential orders of the Court.
+
+**16.**—Where a person convicted by a court-martial gives notice of appeal to the Court, the Court shall have power to make all consequential orders it may think fit, including—
+
+(*a*) in the case of an appellant who is a member of the Defence Forces, an order suspending the operation of a sentence of F12[...] imprisonment or detention pending the determination of the appeal, and
+
+(*b*) in the case of an appellant who is not a member of the Defence Forces, an order admitting the appellant to bail on such terms as the Court thinks proper pending the determination of the appeal.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), ss. 1, 16 and sch. 3.
+
+### 17. Hearing of appeal by the Court.
+
+**17.**—(1) An appeal to the Court shall be heard and determined by the Court on the proceedings of the trial of the appellant, with power to the Court to hear new or additional evidence and to refer any matter for report by the F13[military judge presiding at the court-martial] by which the appellant was tried.
+
+(2) F14[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F14: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 18. Jurisdiction of the Court.
+
+**18.**—F15[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Repealed (29.12.1993) by *Criminal Procedure Act 1993* (40/1993), s. 13 and sch., commenced on enactment.
+
+### 19. Finding of guilty but insane.
+
+**19.**—If on any appeal F16[(other than an appeal under sections 203B to 203D (inserted by the Defence (Amendment) Act 2007) of the Act of 1954)] it appears to the Court that, although the appellant did the act or made the omission charged against him, he was insane at the time when the act was done or the omission was made so as not to be responsible according to law for the act or omission, the Court may quash the sentence passed at the trial and order the appellant to be kept in custody in like manner as if the case had been determined by the Court of Criminal Appeal on appeal from a conviction on indictment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11, sch. 4, S.I. No. 254 of 2008.
+
+### 19A. Appeals (mental disorder at time of trial).
+
+F17[**19A.**—Where an appeal is made to the Court under section 203B (inserted by the Defence (Amendment) Act 2007) of the Act of 1954 from a finding by a court-martial pursuant to section 202 of that Act, the Court shall, if it allows the appeal, order that the appellant be tried or retried, as the case may be, by court-martial for the offence alleged.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11, sch. 4, S.I. No. 254 of 2008.
+
+### 19B. Appeals (mental disorder at time of commission of offence).
+
+F18[**19B.**—(1) A person tried for an offence by court-martial and found not guilty by reason of insanity may appeal to the Court against the finding on all or any of the following grounds:
+
+(*a*) that it was not proved that the person did the act or made the omission in question;
+
+(*b*) that the person was not, at the time when he did the act or made the omission, suffering from a mental disorder of the nature referred to in section 203(1) of the Act of 1954;
+
+(*c*) that the military judge ought to have made a finding in respect of the person that he was unfit to take his trial.
+
+(2) If on an appeal to the Court on the ground referred to in subsection (1)(*a*) of this section, the Court is satisfied that it was not established that the appellant did the act or made the omission in question it shall order that the appellant be acquitted.
+
+(3) If, on an appeal to the Court on the ground referred to in *subsection (1)(b)* of this section, the Court is satisfied that the appellant did the act or made the omission alleged but having considered the evidence or any new evidence relating to the mental condition of the appellant given by a consultant psychiatrist is satisfied that he was not suffering from a mental disorder of the nature referred to in section 203(1) of the Act of 1954, the Court shall substitute a verdict of guilty of the offence charged or of any other offence of which it is satisfied that the person could (by virtue of the charge) and ought to have been convicted, and shall have the like powers of punishing or otherwise dealing with the person as the court-martial concerned would have had if the person had been convicted of the offence in respect of which the verdict of guilty has been so substituted.
+
+(4) If, on appeal to the Court on the ground set out at *subsection (1)(c)* of this section, the Court is satisfied that the appellant ought to have been found unfit to take his trial it shall make a finding to that effect and, in that case the provisions of section 202(1)(*b*) of the Act of 1954 shall apply.
+
+(5) If on appeal to the Court, the Court is satisfied, having considered the evidence or any new evidence relating to the mental condition of the appellant, that he was at the time that the offence alleged was committed suffering from a mental disorder of the nature referred to in section 203(1) of the Act of 1954 and that but for that disorder the appellant would have been found guilty of the offence charged or of another offence of which the person could have been found guilty by virtue of the charge, the Court shall dismiss the appeal.
+
+(6) In this section and in *section 19C* of this Act "consultant psychiatrist" has the same meaning as in the Mental Health Act 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 19C. F19[Appeals (supplementary provisions).
+
+**19C.**—(1) Where an appeal is made to the Court against a decision by a court-martial to make or not to make an order of committal under section 202(1)(*b*) or 203(2) of the Act of 1954, the Court may, having considered the evidence or any new evidence relating to the mental condition of the person charged given by a consultant psychiatrist, make such order, being an order that it was open to the court-martial to make, as it considers appropriate and, without prejudice to the provisions of section 13 of the Criminal Law (Insanity) Act 2006 relating to the review of orders of committal, no further appeal shall lie from an order made on an appeal under this section.
+
+(2) Where the Court allows an appeal against a conviction or against a verdict of not guilty by reason of insanity on the ground that the appellant ought to have been found unfit to take his trial, or allows an appeal against a conviction on the ground that the appellant ought to have been found not guilty by reason of insanity, it shall have the same powers to deal with the appellant as the court-martial concerned would have had under section 202 or 203 of the Act of 1954 if it had come to the same conclusion.
+
+(3) All ancillary and procedural provisions contained in a statute or an instrument made under statute relating to appeals against convictions, including provisions relating to leave to appeal, shall apply with the necessary modifications to appeals under *sections 19A* and *19B* of this Act and *subsection (1)* of this section.
+
+(4) The powers of the Court in an appeal under *section 19A* or *19B* of this Act or *subsection (1)* of this section shall include the power to make any such order as may be necessary for the purpose of doing justice in accordance with the provisions of this Act and the Criminal Law (Insanity) Act 2006.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 20. Convictions and sentences of the Court, etc.
+
+**20.**—(1) Where on any appeal the Court substitutes a conviction of a different offence or substitutes a different sentence, that conviction or sentence shall, for the purposes of the Defence Acts, 1954 to 1979, and any instrument made thereunder, be deemed to be a duly confirmed finding or sentence of a court-martial.
+
+(2) Notwithstanding section 206 of the Act of 1954, the Court may by order provide for the date on which a sentence substituted by it, or passed by a court-martial and not varied by the Court, shall commence or take effect.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E11: Application of section not restricted (1.09.2008) by *Rules of Procedure (Defence forces) 2008* (S.I. No. 204 of 2008), rl. 34. Rule 34 provides for setting of effective date for application of certain sentences.
+
+### 21. Postponement of execution of sentence of death.
+
+**21.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 9 and sch. 2, commenced on enactment.
+
+### 22. Defence of appeal.
+
+**22.**—The defence of an appeal under this Part of this Act shall be undertaken by F21[the Director of Military Prosecutions].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11, sch. 4, S.I. No. 254 of 2008.
+
+### 22A. Case stated for the Court on question of law.
+
+F22[**22A.**—Where an appeal is made to the summary court-martial under section 178E (inserted by the Defence (Amendment) Act 2007) of the Act of 1954, the military judge—
+
+(*a*) shall, if requested by the appellant or the respondent, unless the military judge considers the request frivolous, and
+
+(*b*) may, without request,
+
+refer any question of law arising in that appeal to the Court for determination in accordance with this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11, sch. 4, S.I. No. 254 of 2008.
+
+### 22B. Review of certain sentences.
+
+F23[**22B.**—(1) An application by the Director of Military Prosecutions under section 212B (inserted by the Defence (Amendment) Act 2007) of the Defence Act 1954 to review a sentence awarded by a court-martial shall be made, on notice given to the convicted person, within 28 days or such longer period not exceeding 56 days as the Court may, on application to it in that behalf, determine, from the day on which the sentence was awarded.
+
+(2) On such an application, the Court may either—
+
+(*a*) quash the sentence and in its place award to the convicted person the sentence it considers appropriate, being a sentence which could have been awarded to him by the court-martial concerned, or
+
+(*b*) refuse the application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 23. Rules of court.
+
+**23.**—The Superior Courts Rules Committee shall, with the concurrence of the Minister for Justice, make rules of court for the purposes of this Part of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (20.12.2011) by *Rules of the Superior Courts (Courts-Martial Appeal Court) 2011* (S.I. No. 693 of 2011).
+>
+> E13: Power pursuant to section exercised (20.07.2009) by *Rules of the Superior Courts (Courts-Martial Appeal Court) 2009* (S.I. No. 270 of 2009).
+>
+> E14: Power pursuant to section exercised (28.04.2000) by *Rules of the Superior Courts (No. 2) (Courts-Martial Appeal Court Rules (Amendment)) 2000* (S.I. No. 105 of 2000).
+>
+> E15: Power pursuant to section exercised (18.07.1983) by *The Courts-Martial Appeal Court Rules* (S.I. No. 206 of 1983).
+
+### 23A. Section 23: supplemental provisions.
+
+F24[**23A**.— Without prejudice to the generality of *section 23*, rules of court made under that section may, in relation to the functions of a military judge provided for in those rules, include provisions required for the performance of the functions of a military judge by a Circuit Judge who, pursuant to section 184LA of the Act of 1954 is temporarily designated to perform such functions under section 11A of the Act of 1947.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 11(c), S.I. No. 568 of 2011.
+
+### 24. Application of Part II.
+
+**24.**—The provisions of this Part of this Act shall have effect in relation to convictions by courts-martial of which the findings are or were promulgated on or after such day (whether before or after the passing of this Act) as the Minister may fix by order under this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E16: Power pursuant to section exercised (15.07.1983) by *Courts-Martial Appeals Act, 1983 (Application of Part II) Order 1983* (S.I. No. 201 of 1983).
+
+## PART III Legal Aid — PART III — Legal Aid
+
+### 25. Definitions for Part III.
+
+**25.**—In this Part of this Act—
+
+“legal aid certificate” means a legal aid (preliminary proceedings) certificate, a legal aid (court-martial) certificate, F25[a legal aid (court-martial appeal) certificate] or a legal aid (Supreme Court) certificate;
+
+“the prescribed authority” means the person prescribed by regulations under *section 33* of this Act to be the prescribed authority for the purposes of this Part of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 49(a), S.I. No. 479 of 2014.
+>
+> F26: Inserted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(a)(i), not commenced as of date of revision.
+>
+> F27: Substituted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(a)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: definition of "Act of 2022" inserted and definition of "legal aid certificate" substituted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(a)(i), (ii), not commenced as of date of revision.
+>
+> F26[“Act of 2022” means the Defence Forces (Evidence) Act 2022;]
+>
+> F27[“legal aid certificate” means a legal aid (preliminary proceedings) certificate, a legal aid (court-martial) certificate, a legal aid (case stated) certificate, a legal aid (application concerning forensic evidence retention period) certificate, a legal aid (court-martial appeal) certificate or a legal aid (Supreme Court) certificate;]
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: definition of “legal aid certificate” amended by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced; substituted (28.10.2014) as per F-note above.
+
+### 26. Legal aid (preliminary proceedings) certificate.
+
+**26.**—Where—
+
+(*a*) a person (in this section referred to as “the accused”) is charged with an offence against military law, and
+
+F28[(*b*) any of the provisions of the Act of 1954 or any instrument made under that Act permit the accused to be represented by counsel or by a solicitor at the investigation of the charge or the taking down of the evidence pursuant to any such provisions or instrument (or at both such investigation and such taking down of evidence),]
+
+then, if it appears to the prescribed authority—
+
+(i) that the means of the accused are insufficient to enable him to obtain legal aid, and
+
+(ii) that by reason of the gravity of the charge or of exceptional circumstances it is essential in the interests of justice that he should have legal aid at the investigation of the charge or the taking down of the evidence (or at both such investigation and such taking down of evidence),
+
+the prescribed authority shall, on application being made to him in that behalf, grant in respect of the accused a certificate for free legal aid (in this Part of this Act referred to as “a legal aid (preliminary proceedings) certificate”) and thereupon the accused shall be entitled to such aid and to have a solicitor and (where he is charged with F30[an offence for which a person would be required on conviction to be sentenced to imprisonment for life] and the prescribed authority thinks fit) counsel assigned to him for such investigation or such taking down of evidence (or both such investigation and such taking down of evidence) in such manner as may be prescribed by regulations under *section 33* of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F29: Substituted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(b), not commenced as of date of revision.
+>
+> F30: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1 para. 5(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: para. (b) amended by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(b), not commenced as of date of revision.
+>
+> F28[(*b*) F29[any of the provisions of the Act of 1954 or the Act of 2022 or any instrument made under either of those Acts] or any instrument made under that Act permit the accused to be represented by counsel or by a solicitor at the investigation of the charge or the taking down of the evidence pursuant to any such provisions or instrument (or at both such investigation and such taking down of evidence),]
+
+### 27. Legal aid (court-martial) certificate.
+
+**27.**—(1) Where—
+
+F31[(*a*) a person (in this section referred to as "the accused")—
+
+(i) is, at the direction of the Director of Military Prosecutions, to be tried by court-martial, or
+
+(ii) appeals to the summary court-martial pursuant to section 178E (inserted by the Defence (Amendment) Act 2007) of the Act of 1954,
+
+and]
+
+(*b*) a certificate for free legal aid (in this Part of this Act referred to as “a legal aid (court-martial) certificate”) is granted in respect of the accused by the prescribed authority,
+
+the accused shall be entitled to free legal aid in the preparation and conduct of his defence at the trial F32[or of his appeal, as the case may be,] and to have a solicitor and (where the prescribed authority thinks fit) counsel assigned to him for that purpose in such manner as may be prescribed by regulations under *section 33* of this Act.
+
+(2) A legal aid (court-martial) certificate shall be granted in respect of the accused if (but only if)—
+
+(*a*) application is made therefor,
+
+(*b*) it appears to the prescribed authority that the means of the accused are insufficient to enable him to obtain legal aid, and
+
+(*c*) either—
+
+(i) the trial is on F33[a charge of an offence for which a person would be required on conviction to be sentenced to imprisonment for life], or
+
+(ii) it appears to the prescribed authority that, having regard to all the circumstances of the case (including the nature of such defence, if any, as may have been set up F34[or appeal, as the case may be]), it is essential in the interests of justice that the accused should have legal aid in the preparation and conduct of his defence at the trial F35[or of his appeal, as the case may be].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (01.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F32: Inserted (01.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F33: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1 para. 5(b), commenced on enactment.
+>
+> F34: Inserted (01.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F35: Inserted (01.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### 27A. Legal aid (case stated) certificate.
+
+F36[**27A.**—(1) Where—
+
+(*a*) a person appeals to the summary court-martial under section 178E (inserted by the Defence (Amendment) Act 2007) of the Act of 1954 and the military judge before whom the appeal is heard refers a question of law arising in the proceedings to the Court pursuant to *section 22A* of this Act, and
+
+(*b*) a certificate for free legal aid (in this Part of this Act referred to as "a legal aid (case stated) certificate") is granted in respect of the person by the prescribed authority or under *subsection (3)* of this section,
+
+the person shall be entitled to free legal aid in the preparation and conduct of his case in relation to the case stated and to have a solicitor and counsel assigned to him for that purpose in such manner as may be prescribed by regulations under section 33 of this Act.
+
+(2) A legal aid (case stated) certificate shall be granted in respect of the person concerned if (but only if)—
+
+(*a*) application is made therefor,
+
+(*b*) it appears to the prescribed authority that the means of the person are insufficient to enable him to obtain legal aid, and
+
+(*c*) it appears to the prescribed authority that, by reason of the serious nature of the offence with which the person is charged or of exceptional circumstances, it is essential in the interests of justice that a legal aid (case stated) certificate should be granted in respect of the person.
+
+(3) Where, in relation to a case stated, a person is refused a legal aid (case stated) certificate by the prescribed authority, he may apply for the certificate to the Court either—
+
+(*a*) by letter addressed to the registrar of the Court setting out the facts of the case and the grounds of the application, or
+
+(*b*) to the Court itself,
+
+and the Court shall grant the certificate if (but only if)—
+
+(i) it appears to the Court that the means of the person are insufficient to enable him to obtain legal aid, and
+
+(ii) it appears to the Court that, by reason of the serious nature of the offence with which the person is charged or of exceptional circumstances, it is essential in the interests of justice that a legal aid (case stated) certificate should be granted in respect of the person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+### F37[Legal aid (application concerning forensic evidence retention period) certificate.
+
+**27B.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: section inserted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 94(c), not commenced as of date of revision.
+>
+> **27B.** (1) Where—
+>
+> (*a*) a person appeals to the summary court-martial under section 37(6), 48(6) or 52(11) of the Act of 2022 or makes an application to the summary court-martial under section 45(1) or 60(6) of the Act of 2022, and
+>
+> (*b*) a certificate for free legal aid (in this Part referred to as a "legal aid (application concerning forensic evidence retention period) certificate") is granted in respect of the person concerned by the prescribed authority,
+>
+> the person shall be entitled to free legal aid in the preparation and conduct of his or her appeal or the application, as the case may be, and to have a solicitor and counsel assigned to him or her for that purpose in such manner as may be prescribed by regulations under *section 33* of this Act.
+>
+> (2) A legal aid (application concerning forensic evidence retention period) certificate shall be granted in respect of a person concerned if (but only if)—
+>
+> (*a*) application is made therefor, and
+>
+> (*b*) it appears to the prescribed authority that the means of the person concerned are insufficient to enable him or her to obtain legal aid.
+
+### 28. Legal aid (Courts-Martial Appeal Court) certificate.
+
+**28.**—(1) Where—
+
+F38[(*a*) a person (in this section referred to as "the accused")—
+
+(i) is convicted by a court-martial, or
+
+(ii) is found to be unfit to take his trial pursuant to section 202 of the Act of 1954, or
+
+(iii) is found not guilty by reason of insanity pursuant to section 203 of the Act of 1954,
+
+and]
+
+(*b*) a certificate for free legal aid (in this Part of this Act referred to as “F39[a legal aid (court-martial appeal) certificate]”) is granted in respect of the accused by the prescribed authority or under *subsection (3)* of this section,
+
+the accused shall be entitled to free legal aid in the preparation and conduct of an appeal against the finding or sentence of the court-martial or against both such finding and such sentence F40[or against a decision by a court-martial to make or not to make an order of committal under section 202(1)(*b*) or section 203(2) of the Act of 1954] and to have a solicitor and counsel assigned to him for that purpose in such manner as may be prescribed by regulations under *section 33* of this Act.
+
+(2) F39[A legal aid (court-martial appeal) certificate] shall be granted in respect of the accused if (but only if)—
+
+(*a*) application is made therefor,
+
+(*b*) it appears to the prescribed authority that the means of the accused are insufficient to enable him to obtain legal aid, and
+
+(*c*) either—
+
+(i) the conviction is F41[an offence for which a person would be required on conviction to be sentenced to imprisonment for life], or
+
+(ii) it appears to the prescribed authority that, by reason of the serious nature of the offence or of exceptional circumstances, it is essential in the interests of justice that the accused should have legal aid in the preparation and conduct of an appeal.
+
+(3) Where the accused is refused F39[a legal aid (court-martial appeal) certificate] by the prescribed authority, he may apply for the certificate to the Court either—
+
+(*a*) by letter addressed to the registrar of the Court setting out the facts of the case and the grounds of the application, or
+
+(*b*) to the Court itself,
+
+and the Court shall grant the certificate if (but only if)—
+
+(i) it appears to the Court that the means of the accused are insufficient to enable him to obtain legal aid, and
+
+(ii) either—
+
+(I) the conviction is of F42[an offence for which a person would be required on conviction to be sentenced to imprisonment for life], or
+
+(II) it appears to the Court that, by reason of the serious nature of the offence or of exceptional circumstances, it is essential in the interests of justice that the accused should have legal aid in the preparation and conduct of an appeal.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (1.09.2008) by *Defence (Amendment) Act* 2007 (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F39: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 49(b)(i), (ii), (iii), S.I. No. 479 of 2014.
+>
+> F40: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+>
+> F41: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1 para. 5(a), commenced on enactment.
+>
+> F42: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1 para. 5(a), commenced on enactment.
+
+### 29. Legal aid (Supreme Court) certificate.
+
+**29.**—(1) Where—
+
+(*a*) a person (in this section referred to as “the accused”) is charged with an offence against military law,
+
+(*b*) an appeal is brought to the Supreme Court from a determination of the Court in relation to the offence or the punishment (if any) imposed in respect thereof, and
+
+(*c*) a certificate for free legal aid (in this Part of this Act referred to as “a legal aid (Supreme Court) certificate”) is granted in respect of the accused by the Court or under *subsection (3)* of this section,
+
+the accused shall be entitled to free legal aid in the preparation and conduct of his case in relation to the appeal and to have a solicitor and counsel assigned to him for that purpose in such manner as may be prescribed by regulations under *section 33* of this Act.
+
+(2) A legal aid (Supreme Court) certificate shall be granted if (but only if)—
+
+(*a*) application is made therefor, and
+
+(*b*) it appears to the Court that the means of the accused are insufficient to enable him to obtain legal aid.
+
+(3) Where the accused is refused a legal aid (Supreme Court) certificate by the Court, he may apply for the certificate to the Supreme Court either—
+
+(*a*) by letter addressed to the registrar of the Supreme Court setting out the facts of the case and the grounds of the application, or
+
+(*b*) to the Supreme Court itself,
+
+and the Supreme Court shall grant the certificate if (but only if) it appears to that court that the means of the accused are insufficient to enable him to obtain legal aid.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: section repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced as of date of revision.
+>
+> **29.**—F48[...]
+
+### 30. Payment of expenses of legal aid.
+
+**30.**—(1) Where a legal aid (preliminary proceedings) certificate has been granted in respect of a person, any fees, costs or other expenses properly incurred in preparing and conducting the person's case in relation to the proceedings to which the certificate relates shall, subject to regulations under *section 33* of this Act, be paid out of moneys provided by the Oireachtas.
+
+(2) Where a legal aid (court-martial) certificate has been granted in respect of a person, any fees, costs or other expenses properly incurred in preparing and conducting the defence to which the certificate relates shall, subject to regulations under *section 33* of this Act, be paid out of moneys provided by the Oireachtas.
+
+(3) Where F43[a legal aid (court-martial appeal) certificate] or a legal aid (Supreme Court) certificate has been granted in respect of a person, any fees, costs or other expenses properly incurred in preparing and conducting the person's case in relation to the appeal to which the certificate relates shall, subject to regulations under *section 33* of this Act, be paid out of moneys provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 49(c), S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: words “or a legal aid (Supreme Court) certificate”, repealed by *Courts and Court Officers Act 1995* (31/1995), s. 3 and sch. 1 part 2, not commenced as of date of revision.
+>
+> **30.**— ...
+>
+> (3) Where a legal aid (Courts-Martial Appeal Court) certificate F49[...] has been granted in respect of a person, any fees, costs or other expenses properly incurred in preparing and conducting the person's case in relation to the appeal to which the certificate relates shall, subject to regulations under section 33 of this Act, be paid out of moneys provided by the Oireachtas.
+
+### 31. Restriction of section 18.
+
+**31.**—(1) Where a legal aid (preliminary proceedings) certificate or a legal aid (court-martial) certificate has been granted in respect of a person, the Court shall not have jurisdiction under *section 18* of this Act to award costs to the person in respect of proceedings in relation to which the certificate applies.
+
+(2) Where F44[a legal aid (court-martial appeal) certificate] has been granted in respect of a person, the Court shall not have jurisdiction under *section 18* of this Act to award costs to the person in respect of court proceedings in relation to which the certificate applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 49(d), S.I. No. 479 of 2014.
+
+### 32. Statement as to means.
+
+**32.**—Before a person is granted a legal aid certificate he may be required by the prescribed authority, the court or the judge, as the case may be, granting the certificate to furnish a written statement in such form as may be prescribed by the Minister by regulations under *section 33* of this Act about matters relevant for determining whether his means are insufficient to enable him to obtain legal aid.
+
+### 33. Regulations.
+
+**33.**—(1) The Minister may make regulations for carrying this Part of this Act into effect and the regulations may, in particular, prescribe—
+
+(*a*) the form of legal aid certificates,
+
+(*b*) the rates or scales of payment of any fees, costs or other expenses payable out of moneys provided by the Oireachtas pursuant to such certificates, and
+
+(*c*) the manner in which solicitors and counsel are to be assigned pursuant to such certificates.
+
+(2) Regulations under this section in relation to the matters specified in *paragraph (b)* of *subsection (1)* of this section shall not be made without the consent of the Minister for Finance.
+
+F45[(2A) Without prejudice to the generality of *subsection (1)*, regulations under this section may, in relation to the functions of a military judge provided for in those regulations, include provisions required for the performance of the functions of a military judge by a Circuit Judge who, pursuant to section 184LA of the Act of 1954 is temporarily designated to perform such functions under section 11A of the Act of 1947.]
+
+(3) Every regulation made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next subsequent twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 11(d), S.I. No. 568 of 2011.
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 19 of 1983</td><td>Courts-Martial Appeals Act 1983</td><td>Sections 33(2) and 34(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to section exercised (12.11.2011) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2011* (S.I. No. 579 of 2011).
+>
+> E19: Power pursuant to section exercised (30.06.2010) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2010* (S.I. No. 327 of 2010).
+>
+> E20: Power pursuant to section exercised (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008).
+>
+> E21: Previous affecting provision: power pursuant to section exercised (27.04.2009) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2009* (S.I. No. 153 of 2009); revoked (30.06.2010) by *Courts-Martial (Legal Aid) (Amendment) Regulations 2010* (S.I. No. 327 of 2010), reg. 6 .
+>
+> E22: Previous affecting provision: power pursuant to section exercised (1.01.1993) by *Courts-Martial (Legal Aid) Regulations 1993* (S.I. No. 309 of 1993); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E23: Previous affecting provision: power pursuant to section exercised (1.01.1991) by *Courts-Martial (Legal Aid) Regulations 1991* (S.I. No. 210 of 1991); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E24: Previous affecting provision: power pursuant to section exercised (1.01.1990) by *Courts-Martial (Legal Aid) Regulations 1990* (S.I. No. 68 of 1990); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E25: Previous affecting provision: power pursuant to section exercised (1.01.1989) by *Courts-Martial (Legal Aid) Regulations 1989* (S.I. No. 25 of 1989); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E26: Previous affecting provision: power pursuant to section exercised (27.04.1988) by *Courts-Martial (Legal Aid) Regulations 1988* (S.I. No. 125 of 1988); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E27: Previous affecting provision: power pursuant to section exercised (1.01.1987) by *Courts-Martial (Legal Aid) Regulations 1987* (S.I. No. 46 of 1987); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+>
+> E28: Previous affecting provision: power pursuant to section exercised (16.12.1986) by *Courts-Martial (Legal Aid) Regulations 1986* (S.I. No. 425 of 1986); revoked (2.07.2008) by *Courts-Martial (Legal Aid) Regulations 2008* (S.I. No. 206 of 2008), reg. 19.
+
+### 34. Penalty for false or misleading statements.
+
+**34.**—(1) A person who, for the purpose of obtaining free legal aid under this Part of this Act, whether for himself or some other person, knowingly makes a false statement or false representation either verbally or in writing or knowingly conceals any material fact shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F46[€2,000] or to imprisonment for a term not exceeding six months or to both.
+
+(2) Upon conviction of a person of an offence under this section, the court by which the person is convicted may, if in the circumstances of the case the court so thinks fit, order the person to pay to the Minister the whole or part (as the court considers appropriate) of any sum paid under *section 30* of this Act in respect of the free legal aid in relation to which the offence was committed, and any sum paid to the Minister pursuant to this section shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008. A fine of €2,000 translates into a class C fine not exceeding €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 19 of 1983</td><td>Courts-Martial Appeals Act 1983</td><td>Sections 33(2) and 34(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>

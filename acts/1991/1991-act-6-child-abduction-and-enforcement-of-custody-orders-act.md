@@ -1,0 +1,1447 @@
+---
+title: "Child Abduction and Enforcement of Custody Orders Act, 1991"
+identifier: "eli/1991/act/6"
+type: act
+jurisdiction: ie
+language: en
+number: 6
+year: 1991
+date: 1991-03-27
+last_amended: 2022-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1991/act/6/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1991/act/6/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Child Abduction and Enforcement of Custody Orders Act, 1991
+
+AN ACT TO GIVE THE FORCE OF LAW TO THE CONVENTION ON THE CIVIL ASPECTS OF INTERNATIONAL CHILD ABDUCTION SIGNED AT THE HAGUE ON THE 25th DAY OF OCTOBER, 1980, AND THE EUROPEAN CONVENTION ON RECOGNITION AND ENFORCEMENT OF DECISIONS CONCERNING CUSTODY OF CHILDREN AND ON RESTORATION OF CUSTODY OF CHILDREN SIGNED AT LUXEMBOURG ON THE 20th DAY OF MAY, 1980, AND TO PROVIDE FOR MATTERS CONSEQUENT UPON AND OTHERWISE RELATED TO THE MATTERS AFORESAID. (27*th March*, 1991]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred (1.01.2014, establishment day) by *Child and Family Agency Act 2013* (40/2013), ss. 6, 82 and sch. 1, S.I. Nos. 502 and 503 of 2013.
+>
+> **Saving.**
+>
+> **6.**—The Minister shall by order appoint a day to be the establishment day for the purposes of this Act.
+>
+> ...
+>
+> **Transfer of certain functions of Health Service Executive**
+>
+> **82.**—(1)The administration and business in connection with the performance of any of the functions transferred by subsection (2) are transferred, on the establishment day, to the Agency.
+>
+> (2) The functions vested in the Health Service Executive by or under the enactments specified in Schedule 1 shall, on the establishment day, stand transferred to the Agency.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Functions of Health Service Executive Transferred to Agency
+>
+> Section 82
+>
+> ...
+>
+> Child Abduction and Enforcement of Custody Orders Act 1991
+>
+> ...
+>
+> C2: Application of Act not affected ( 1.01.2011) by *Protection of Children (Hague Convention) Act 2000* (37/2000), s. 12(a), S.I. No. 650 of 2010.
+>
+> **Establishment day**
+>
+> **12.**—Nothing in this Act shall affect—
+>
+> (a) the application in the State, subject to section 17, of the Child Abduction and Enforcement of Custody Orders Act, 1991, or
+>
+> ...
+>
+> C3: Functions transferred and references construed (1.05.2005) by *Health Act 2004* (42/2004), ss. 4, 59, 67(2), S.I. No. 885 of 2004.
+>
+> **Saving.**
+>
+> **4.**—The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+>
+> ...
+>
+> **59.**—(1) The functions that, immediately before the establishment day, were the functions of a specified body under or in connection with the enactments referred to in Schedule 3 are, by this Act, transferred to the Executive on that day.
+>
+> (2) If a provision of an enactment referred to in Schedule 3 , or a provision of an instrument made under such enactment, does not come into effect until on or after the establishment day, a function that on the passing of that enactment or the making of that instrument was assigned under or in connection with that provision to a specified body is, by this Act, transferred to the Executive on the commencement of that provision.
+>
+> (3)The functions transferred by this Act to the Executive include the functions specified in any enactment referred to in Schedule 3 as a function of the following:
+>
+> (a) the chief executive officer of a health board;
+>
+> (b) the Regional Chief Executive of the Eastern Regional Health Authority;
+>
+> (c) the area chief executive of an Area Health Board.
+>
+> ...
+>
+> **67.**—(2) References (however expressed) in any enactment referred to in Schedule 3 to a functional area of a health board, the Eastern Regional Health Authority or an Area Health Board are on and after the establishment day to be read as references to—
+>
+> (a) the corresponding functional area of the Executive or that area as redefined in accordance with this section, or
+>
+> (b) if the context so requires, the area comprising all of the corresponding functional areas of the Executive or comprising all of those areas as redefined in accordance with this section.
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Transfer of Functions and References to Functional Areas
+>
+> Sections 59 and 67
+>
+> ...
+>
+> 33\. Child Abduction and Enforcement of Custody Orders Act 1991
+>
+> ...
+>
+> C4: Functions transferred and references to “Department of Equality and Law Reform” and “Minister for Equality and Law Reform” construed (8.07.1997) by *Equality and Law Reform (Transfer of Departmental Administration and Ministerial Functions) Order 1997* (S.I. No. 297 of 1997), arts. 3, 4(1)(a), 4(2), commenced as per art. 1(2).
+>
+> **3.**—(1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Justice.
+>
+> (2)References to the Department of Equality and Law Reform contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Justice.
+>
+> **4.**—(1) The functions vested in the Minister for Equality and Law Reform
+>
+> (a) by or under any of the Acts mentioned in the Schedule to this Order, and
+>
+> ...
+>
+> are hereby transferred to the Minister for Justice.
+>
+> (2) References to the Minister for Equality and Law Reform contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Justice.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Proceedings under Act designated as family law proceedings for purposes of *Mediation Act 2017* (1.01.2018) by *Mediation Act 2017* (27/2017), s. 2(1), S.I. No. 591 of 2017.
+>
+> E2: The Central Authority under Part II or Part III of this Act is designated as a “prescribed person” for the purposes of the *Civil Liability and Courts Act 2004* (31/2004), s. 40(4) (1.07.2005) by *Civil Liability and Courts Act 2004 (Section 40(4)) Order 2005* (S.I. No. 338 of 2005), art. 3 and sch. item 20.
+>
+> E3: Requirement to grant legal aid in respect of proceedings under the Act provided (11.10.1996) by *Civil Legal Aid Act 1995* (32/1995), s. 28(5)(b), S.I. No. 272 of 1996.
+>
+> E4: Provision for a Court to give directions for procurement of a written report on any questions affecting the welfare of a party to proceedings under this Act or any other person to whom such proceedings relate made (1.08.1996) by *Family Law Act 1995* (26/1995), s. 47(6)(g), S.I. No. 46 of 1996.
+>
+> E5: Previous affecting provision: provision made for references to health board(s) in this Act to be construed as references to the Health Service Executive, following dissolution and replacement of health boards (1.01.2005) by *Health Act 2004* (42/2004), ss. 56, 58 and 59, S.I. No. 887 of 2004; superseded (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), ss. 82 and sch. 1, 97 and sch. 2 part 5, S.I. No. 502 of 2013.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title, construction and commencement.
+
+**1.**—(1) This Act may be cited as the Child Abduction and Enforcement of Custody Orders Act, 1991.
+
+(2) The Courts (Supplemental Provisions) Acts, 1961 to 1988, and this Act, insofar as it affects the jurisdiction or procedure of any court in the State, shall be construed together as one.
+
+(3) This Act shall come into operation on such day or days as the Minister shall fix by order or orders either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.10.1991) by *Child Abduction and Enforcement of Custody Orders Act, 1991 (Commencement) Order 1991* (S.I. No. 235 of 1991).
+>
+> 2\. The Child Abduction and Enforcement of Custody Orders Act, 1991, shall come into operation on the 1st day of October, 1991.
+
+### 2. Interpretation.
+
+**2.**—F1[(1) In this Act—]
+
+“Central Authority in the State” shall be construed in accordance with *section 8* or *22* (as may be appropriate) of this Act;
+
+“child” where used in the context of the Children Act, 1908, includes a young person within the meaning of that Act;
+
+F2["Council Regulation" means Council Regulation (EU) 2019/1111 of 25 June 2019[^1];]
+
+“the Court” means the High Court;
+
+“the Hague Convention” means the Convention on the Civil Aspects of International Child Abduction, signed at The Hague on the 25th day of October, 1980;
+
+F3[...]
+
+“the Luxembourg Convention” means the European Convention on Recognition and Enforcement of Decisions concerning Custody of Children and on Restoration of Custody of Children, signed at Luxembourg on the 20th day of May, 1980;
+
+“the Minister” means the F4[the Minister for Justice, Equality and Law Reform];
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“probation and welfare officer” means a person appointed by the F5[the Minister for Justice, Equality and Law Reform] to be a probation and welfare officer or to be a welfare officer or probation officer.
+
+F6[(2) References in this Act to the Hague Convention shall, where the context requires in relation to applications under the Hague Convention to which the Council Regulation relates, be deemed to include references to the Council Regulation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.03.2005) by *European Communities (Judgments in Matrimonial Matters and Matters of Parental Responsibility) Regulations 2005* (S.I. No. 112 of 2005), reg. 8(a)(i).
+>
+> F2: Substituted (1.08.2022) by *European Union (Decisions in Matrimonial Matters and in Matters of Parental Responsibility and International Child Abduction) Regulations 2022* (S.I. No. 400 of 2022), reg. 9(a), in effect as per reg. 1(2).
+>
+> F3: Deleted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12 item 1, S.I. No. 887 of 2004.
+>
+> F4: Substituted (9.01.1998) by *Children Act 1997* (40/1997), s. 18(a), commenced as per s. 1(2).
+>
+> F5: Substituted (9.01.1998) by *Children Act 1997* (40/1997), s. 18(b), commenced as per s. 1(2).
+>
+> F6: Inserted (1.03.2005) by *European Communities (Judgments in Matrimonial Matters and Matters of Parental Responsibility) Regulations 2005* (S.I. No. 112 of 2005), reg. 8(a)(iii).
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: definition of "Council Regulation" inserted (1.03.2005) by *European Union (Decisions in Matrimonial Matters and in Matters of Parental Responsibility and International Child Abduction) Regulations 2022* (S.I. No. 112 of 2005), reg. 8(a)(ii), substituted as per F Note above.
+>
+> E8: Previous affecting provision: definitions of “the Minister” and “the Minister” within the definition of “probation and welfare officer” substituted (1.08.1996) by *Family Law Act 1995* (26/1995), s. 55(a) and (b), S.I. No. 46 of 1996.
+
+## PART IIThe Hague Convention — PART II — The Hague Convention
+
+### 3. “Contracting State”.
+
+**3.**—In this Part “Contracting State” means a state in respect of which the Hague Convention is in force in accordance with the provisions of that Convention and shall be construed so that this Act shall have effect in relation to—
+
+(*a*) the states which have acceded to that Convention, or any states which may accede to that Convention, and in respect of which the State has made a declaration pursuant to Article 38 of that Convention, and
+
+(*b*) the places as respects which that Convention has effect by virtue of Articles 39 and 40 of that Convention.
+
+### 4. Contracting States and declarations, reservations, withdrawals and denunciations under Hague Convention.
+
+**4.**—(1) The Minister for Foreign Affairs may by order declare—
+
+(*a*) that any state specified in the order is a Contracting State, or
+
+(*b*) that—
+
+(i) a declaration (the text of which shall be set out in the order) has been made pursuant to Article 38, 39 or 40 of the Hague Convention, or
+
+(ii) a reservation, or a withdrawal thereof (the text of which shall be set out in the order) has been made pursuant to Article 24, 26 or (in the case of a withdrawal) 42 of that Convention, or
+
+(iii) a denunciation (the text of which shall be set out in the order) has been made pursuant to Article 44 of that Convention,
+
+to the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+
+(2) An order that is in force under *subsection (1)* of this section shall, as the case may be, be evidence—
+
+(*a*) that any state specified in the order is a Contracting State;
+
+(b) that a declaration, a reservation, a withdrawal of a reservation or a denunciation set out in the order was made and of its contents.
+
+(3) The Minister for Foreign Affairs may by order amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (20.07.2011) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2011*, S. I. No. 400 of 2011.
+>
+> E10: Previous affecting provision: power pursuant to section exercised (25.06.2008) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2008* (S.I. No. 220 of 2008), in effect as per reg. 4; revoked (20.07.2011) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2011* (S.I. No. 400 of 2011), reg. 3.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2001* (S.I. No. 507 of 2001), in effect as per reg. 4; revoked (25.06.2008) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2008* (S.I. No. 220 of 2008), reg. 3.
+>
+> E12: Previous affecting provision: power pursuant to section exercised (10.12.1998) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Contracting States) (Hague Convention)(Section 4(1)(B)) Order 1998* (S.I. No. 478 of 1998), in effect as per reg. 3; revoked (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2001* (S.I. No. 507 of 2001), reg. 3, in effect as per reg. 4.
+>
+> E13: Previous affecting provision: power pursuant to section exercised (25.5.1998) by *Child Abduction and Enforcement of Custody Orders Act, 1991 (Contracting States) (Hague Convention) Order 1998* (S.I. No. 238 of 1998), in effect as per reg. 3; revoked (10.12.1998) by *Child Abduction and Enforcement of Custody Orders Act, 1991 (Contracting States)(Hague Convention) (Revocation) Order 1998*(S.I. No. 477 of 1998), reg. 2, in effect as per reg. 4.
+>
+> E14: Previous affecting provision: power pursuant to section exercised (13.3.1997) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Contracting States) (Hague Convention) Order 1997* (S.I. No. 123 of 1997), in effect as per reg. 3, as amended (10.12.1998) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Contracting States) (Hague Convention) (Amendment) Order 1998* (S.I. No. 476 of 1998), reg. 2, in effect as per reg. 3; revoked (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 4) (Hague Convention) Order 2001* (S.I. No. 507 of 2001), reg. 3, in effect as per reg. 4.
+
+### 5. Evidence of decisions and determinations of authorities of Contracting States and other matters relating to Hague Convention.
+
+**5.**—(1) For the purposes of Article 14 of the Hague Convention a document, duly authenticated, which purports to be a copy of a decision or determination of a judicial or administrative authority of a Contracting State other than the State shall without further proof be deemed to be a true copy of the decision or determination, unless the contrary is shown.
+
+(2) For the purposes of Articles 14 and 30 of the Hague Convention the original or a copy of any such document as is mentioned in Article 8 of that Convention shall be admissible—
+
+(*a*) insofar as it consists of a statement of fact, as evidence of that fact, and
+
+(*b*) insofar as it consists of a statement of opinion, as evidence of that opinion.
+
+(3) A document which—
+
+(*a*) purports to be a translation of a decision or determination of a judicial or administrative authority of a Contracting State other than the State or of a document mentioned in Article 8 of the Hague Convention, and
+
+(*b*) is certified as correct by a person competent to do so,
+
+shall be admissible as evidence of the translation.
+
+(4) A document purporting to be a copy of a decision, determination or declaration of a judicial or administrative authority of a Contracting State shall, for the purposes of this Part, be regarded as being duly authenticated if it purports—
+
+(*a*) to bear the seal of that authority, or
+
+(*b*) to be certified by a person in his capacity as a judge or officer of that authority to be a true copy of a decision, determination or declaration of that authority.
+
+### 6. Hague Convention to have the force of law.
+
+**6.**—(1) Subject to the provisions of F7[the Council Regulation and this Part], the Hague Convention shall have the force of law in the State and judicial notice shall be taken of it.
+
+(2) The text of the Hague Convention in the English language is set out for convenience of reference in the *First Schedule* to this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (1.03.2005) by *European Communities (Judgments in Matrimonial Matters and Matters of Parental Responsibility) Regulations 2005* (S.I. No. 112 of 2005), s. 8(b).
+
+### 7. Jurisdiction of the Court for purposes of Part II.
+
+**7.**—(1) For the purposes of this Part and the Hague Convention the Court shall have jurisdiction to hear and determine applications under that Convention.
+
+F8[(2) For the purposes of such applications—
+
+(*a*) references to "judicial or administrative authority" in the Hague Convention, and
+
+(*b*) references to F9["authority competent for enforcement"] and to "court" in F10[Chapter III] of the Council Regulation,
+
+shall be construed as references to the Court unless the context otherwise requires.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (1.03.2005) by *European Communities (Judgments in Matrimonial Matters and Matters of Parental Responsibility) Regulations 2005* (S.I. No. 112 of 2005), s. 8(c).
+>
+> F9, F10: Substituted (1.08.2022) by *European Union (Decisions in Matrimonial Matters and in Matters of Parental Responsibility and International Child Abduction) Regulations 2022* (S.I. No. 400 of 2022), reg. 9(b)(i), (ii), in effect as per reg. 1(2).
+
+### 8. Central Authority for purposes of Hague Convention.
+
+**8.**—(1) The Minister may by order appoint a Central Authority (referred to in this Part as the Central Authority in the State) to discharge the functions under the Hague Convention of a Central Authority.
+
+(2) Notwithstanding *subsection (1)* of this section, unless and until the Minister appoints a Central Authority under this section, the said functions shall be discharged by the Minister and references in this Part to the Central Authority in the State shall be construed, accordingly, as references to the Minister.
+
+(3) The Minister may by order amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E15: Power pursuant to section exercised (3.05.1993) by *Child Abduction and Enforcement of Custody Orders Act, 1991 (Appointment of Central Authorities) Order 1993* (S.I. No. 121 of 1993).
+
+### 9. Application for return of child removed to the State.
+
+**9.**—(1) Any application, in such form as may be prescribed, made under the Hague Convention in respect of a child removed to the State may be addressed to the Central Authority in the State.
+
+(2) Where the Central Authority in the State receives any such application and is satisfied that the application is an application to which the Hague Convention applies, it shall take action or cause action to be taken under that Convention to secure the return of the child.
+
+### 10. Application for return of child removed from the State.
+
+**10.**—(1) Any application, in such form as may be prescribed, made under the Hague Convention in respect of a child removed from the State to another Contracting State may be addressed to the Central Authority in the State.
+
+(2) Where the Central Authority in the State receives any such application and is satisfied that the application is an application to which the Hague Convention applies, it shall, on behalf of the applicant, take any action required to be taken by a Central Authority under that Convention.
+
+(3) Nothing in *subsection (1)* of this section shall prevent the Central Authority in the State from dealing with any application made under the Hague Convention by or on behalf of a person in respect of a child removed from a Contracting State (not being the State) to another Contracting State (not being the State).
+
+### 11. Operation of this Part not to affect jurisdiction of the Court.
+
+**11.**—Nothing in this Part shall prevent a person from applying in the first instance to the Court, whether or not under the Hague Convention, in respect of the breach of rights of custody of, or breach of rights of access to, a child removed to the State.
+
+### 12. Interim powers of the Court for the purposes of Part II.
+
+**12.**—(1) Where an application has been made or is about to be made to the Court under the Hague Convention, the Court may of its own motion or on an application under this section, at any time before the application is determined, give such interim directions as it thinks fit for the purpose of securing the welfare of the child concerned, or preventing prejudice to interested persons or changes in the circumstances relevant to the determination of the application.
+
+(2) An application for interim directions under this section may, where the case is one of urgency, be made *ex parte*.
+
+### 13. Notice and stay of certain proceedings for purposes of Part II.
+
+**13.**—(1) Any person who has an interest in proceedings in the Court or in proceedings about to be commenced in the Court under this Part in respect of a child removed to the State shall, where he knows that an application relating to the custody of the child is pending in or before any court in the State, give notice to that court of the proceedings, or pending proceedings (as the case may be), under the Hague Convention and that court, having notified the parties to the proceedings before it of that notice, shall stay in accordance with Article 16 of that Convention all further proceedings in the matter and shall notify the Court of the stay.
+
+(2) For the purpose of this section an application relating to custody of a child shall be construed as including a reference to an application for—
+
+(*a*) an order making, varying or discharging an order regarding the custody of, or the right of access to, a child under the Guardianship of Infants Act, 1964;
+
+(*b*) an order made pursuant to Part II or IV of the Children Act, 1908, in relation to the care of a child;
+
+(*c*) the recognition or enforcement of a decision relating to custody under *Part III* of this Act.
+
+### 14. Reports for purposes of Part II.
+
+**14.**—Where the Central Authority in the State is requested to provide information relating to a child under Article 7.*d* of the Hague Convention it may—
+
+(*a*) request a probation and welfare officer to make a report to it in writing with respect to any matter relating to the child which appears to it to be relevant;
+
+(*b*) request F11[the F12[Child and Family Agency]] to arrange for a suitably qualified person to make such a report to it; or
+
+(*c*) request any court to which a written report relating to the child has been made to send it a copy of the report,
+
+and any such request shall be duly complied with.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12, item 2, S.I. No. 887 of 2004.
+>
+> F12: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 5, S.I. No. 502 of 2013.
+
+### 15. Declaration by the Court of wrongful removal of child.
+
+**15.**—F13[(1) The Court may, on an application made for the purposes of Article 15 of the Hague Convention by any person appearing to the Court to have an interest in the matter, make a declaration that the removal of any child from, or his retention outside, the State was—
+
+(*a*) in the case of a removal to or retention in a Member State, a wrongful removal or retention within the meaning of Article 2 of the Council Regulation, or
+
+(*b*) in any other case, wrongful within the meaning of Article 3 of the Hague Convention.]
+
+(2) The Central Authority in the State shall take action or cause action to be taken to assist the person referred to in *subsection (1)* of this section in making an application under this section if a request for such assistance, in such form as may be prescribed, is made by him or on his behalf by the Central Authority of another Contracting State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.03.2005) by *European Communities (Judgments in Matrimonial Matters and Matters of Parental Responsibility) Regulations 2005* (S.I. No. 112 of 2005), s. 8(d).
+
+### 16. Provision of certain documents by courts in the State for purposes of Hague Convention.
+
+**16.**—As respects a decision relating to custody made by a court in the State (including a declaration made by the Court under *section 15* of this Act) the registrar or clerk of the court shall, at the request of a person who wishes to make an application under the Hague Convention in a Contracting State other than the State or at the request on his behalf of the Central Authority in the State and subject to any conditions that may be specified by rules of court, give to the person or the Central Authority, as the case may be, the following documents—
+
+(*a*) a copy of the decision duly authenticated;
+
+(*b*) Where the decision was given in default of appearance, the original or a copy, certified by the registrar or clerk of the court to be a true copy, of a document establishing that notice of the institution of proceedings was served on the person in default.
+
+## PART IIIThe Luxembourg Convention — PART III — The Luxembourg Convention
+
+### 17. Interpretation of Part III.
+
+**17.**—In this Part—
+
+“Contracting State” means a state in respect of which the Luxembourg Convention is in force in accordance with the provisions of that Convention and shall be construed so that this Part shall have effect in relation to the places as respects which that Convention has effect by virtue of Articles 24 and 25 of that Convention;
+
+“decision relating to custody” has the meaning given to it in Article 1 of the Luxembourg Convention;
+
+“enforcement order” means an order of the Court for the recognition or enforcement of a decision relating to custody to which either Article 7 or 12 of the Luxembourg Convention applies.
+
+### 18. Contracting States and declarations, reservations, withdrawals, notifications and denunciations under Luxembourg Convention.
+
+**18.**—(1) The Minister for Foreign Affairs may by order declare—
+
+(*a*) that any state specified in the order is a Contracting State, or
+
+(*b*) that—
+
+(i) a reservation, or a withdrawal thereof (the text of which shall be set out in the order) has been made pursuant to Article 6.3, 17, 18 or (in the case of a withdrawal) 27 of the Luxembourg Convention, or
+
+(ii) a declaration (the text of which shall be set out in the order) has been made pursuant to Article 24 or 25 of that Convention, or
+
+(iii) a notification (the text of which shall be set out in the order) has been received pursuant to Article 2 of that Convention, or
+
+(iv) a notification of a decision or of an alteration or revocation of a decision (the text of which shall be set out in the order) has been made pursuant to Article 20 of that Convention, or
+
+(v) a denunciation (the text of which shall be set out in the order) has been made pursuant to Article 29 of that Convention,
+
+to or by, as the case may be, the Secretary General of the Council of Europe.
+
+(2) An order that is in force under *subsection (1)* of this section shall, as the case may be, be evidence—
+
+(*a*) that any state specified in the order is a Contracting State;
+
+(*b*) that a reservation, a withdrawal of a reservation, a declaration, a notification or a denunciation set out in the order was made or received and of its contents.
+
+(3) The Minister for Foreign Affairs may by order amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E16: Power pursuant to section exercised (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 18) (Luxembourg Convention) Order 2001* (S.I. No. 508 of 2001), in effect as per reg. 4.
+>
+> E17: Previous affecting provision: power pursuant to section exercised (25.05.1998) by *Child Abduction and Enforcement of Custody Orders Acts 1991 (Contracting States) (Luxembourg Convention) Order 1998* (S.I. No. 237 of 1998), in effect as per reg. 3; revoked (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 18) (Luxembourg Convention) Order 2001* (S.I. No. 508 of 2001), reg. 3, in effect as per reg. 4.
+>
+> E18: Previous affecting provision: power pursuant to section exercised (13.03.1997) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Contracting States) (Luxembourg Convention) Order 1997* (S.I. No. 124 of 1997), in effect as per reg. 3; revoked (12.11.2001) by *Child Abduction and Enforcement of Custody Orders Act 1991 (Section 18) (Luxembourg Convention) Order 2001* (S.I. No. 508 of 2001), reg. 3, in effect as per reg. 4.
+
+### 19. Evidence of decisions and declarations of authorities of Contracting States and other matters relating to Luxembourg Convention.
+
+**19.**—(1) For the purposes of the Luxembourg Convention—
+
+(*a*) a document, duly authenticated, which purports to be a copy of a decision or declaration relating to custody of a judicial or administrative authority of a Contracting State other than the State shall without further proof be deemed to be a true copy of the decision or declaration, unless the contrary is shown; and
+
+(*b*) the original or a copy of any other document as is mentioned in Article 13 of the Luxembourg Convention shall be admissible—
+
+(i) insofar as it consists of a statement of fact, as evidence of that fact, and
+
+(ii) insofar as it consists of a statement of opinion, as evidence of that opinion.
+
+(2) A document which—
+
+(*a*) purports to be a translation of a decision or declaration of a judicial or administrative authority of a Contracting State other than the State or any other document mentioned in Article 13 of the Luxembourg Convention, and
+
+(*b*) is certified as correct by a person competent to do so,
+
+shall be admissible as evidence of the translation.
+
+(3) A document purporting to be a copy of a decision or declaration relating to custody made by a judicial or administrative authority of a Contracting State shall, for the purposes of this Part, be regarded as being duly authenticated if it purports—
+
+(*a*) to bear the seal of that authority, or
+
+(*b*) to be certified by a person in his capacity as a judge or officer of that authority to be a true copy of a decision or declaration of that authority.
+
+### 20. Application of this Part.
+
+**20.**—This Part applies to any decision relating to custody (by whatever name called) that is a decision relating to custody for the purposes of the Luxembourg Convention.
+
+### 21. Luxembourg Convention to have the force of law.
+
+**21.**—(1) Subject to the provisions of this Part (including the restrictions on recognition and enforcement of a decision relating to custody contained in *section 28* of this Act), the Luxembourg Convention shall have the force of law in the State and judicial notice shall be taken of it.
+
+(2) The text of the Luxembourg Convention in the English language is set out for convenience of reference in the *Second Schedule* to this Act.
+
+### 22. Central Authority for purposes of Luxembourg Convention.
+
+**22.**—(1) The Minister may by order appoint a Central Authority (referred to in this Part as the Central Authority in the State) to discharge the functions under the Luxembourg Convention of a Central Authority.
+
+(2) Notwithstanding *subsection (1)* of this section, unless and until the Minister appoints a Central Authority under this section, the said functions shall be discharged by the Minister and references in this Part to the Central Authority in the State shall be construed, accordingly, as references to the Minister.
+
+(3) The Minister may by order amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to section exercised (3.05.1993) by *Child Abduction and Enforcement of Custody Orders Act, 1991 (Appointment of Central Authorities) Order 1993* (S.I. No. 121 of 1993).
+
+### 23. Jurisdiction of the Court for purposes of Part III.
+
+**23.**—For the purposes of this Part and the Luxembourg Convention the Court shall have jurisdiction to hear and determine applications under that Convention for the recognition or enforcement of a decision relating to custody.
+
+### 24. Applications for recognition and enforcement of custody decisions in the State.
+
+**24.**—(1) Any application, in such form as may be prescribed, made by or on behalf of a person on whom any rights are conferred by a decision relating to custody made by an authority in a Contracting State other than the State for the recognition or enforcement of the decision in the State may be addressed to the Central Authority in the State.
+
+(2) Where the Central Authority in the State receives any such application and is satisfied that the application is an application to which the Luxembourg Convention applies, it shall take action or cause action to be taken under that Convention to secure the recognition or enforcement of the decision.
+
+### 25. Applications in the first instance to the Court.
+
+**25.**—Nothing in this Part shall prevent a person from applying in the first instance to the Court under the Luxembourg Convention for the recognition or enforcement of a decision relating to custody made by an authority in a Contracting State, other than the State.
+
+### 26. Interim powers of the Court for the purposes of Part III.
+
+**26.**—(1) Where an application has been made or is about to be made to the Court under the Luxembourg Convention for the recognition or enforcement of a decision relating to custody, the Court may of its own motion or on an application under this section, at any time before the application is determined, give such interim directions as it thinks fit for the purpose of securing the welfare of the child concerned, or preventing prejudice to interested persons or changes in the circumstances relevant to the determination of the application.
+
+(2) An application for interim directions under this section may, where the case is one of urgency, be made *ex parte*.
+
+### 27. Notice and stay of certain proceedings for purposes of Part III.
+
+**27.**—(1) Any person who has an interest in proceedings in the Court under this Part for the recognition or enforcement of a decision relating to custody made by an authority in a Contracting State other than the State shall, where he knows that an application relating to custody of the child is pending in or before any court in the State and such proceedings were commenced before the proceedings in the Contracting State which resulted in the decision in respect of which recognition or enforcement is sought were instituted, give notice to the Court of those proceedings and the Court may stay all further proceedings in the application for recognition or enforcement until the other proceedings have been determined.
+
+(2) Any person who has an interest in proceedings in the Court under this Part for the recognition or enforcement of a decision relating to custody made by an authority in a Contracting State other than the State shall, where he knows that an application relating to custody of the child is pending in or before any court in the State and such proceedings were commenced after the proceedings in the Contracting State which resulted in the decision in respect of which recognition or enforcement is sought were instituted, give notice to that court of the proceedings under the Luxembourg Convention and that court having notified the parties to the proceedings before it of that notice shall stay all further proceedings in the matter until the Court determines the application for recognition or enforcement. The court concerned shall notify the Court of the stay.
+
+(3) For the purpose of this section an application relating to custody of a child shall be construed as including a reference to an application for—
+
+(*a*) an order making, varying or discharging an order regarding the custody of, or the right of access to, a child under the Guardianship of Infants Act, 1964;
+
+(*b*) an order made pursuant to Part II or IV of the Children Act, 1908, in relation to the care of a child.
+
+### 28. Refusal of application for recognition or enforcement of custody decision in the State.
+
+**28.**—(1) The Court shall refuse an application made under this Part for recognition or enforcement in the State of a decision relating to custody where—
+
+(*a*) in relation to a decision to which Article 8 of the Luxembourg Convention applies, the Court is of opinion on any of the grounds specified in Article 10.1. *a*, *b*, *c* or *d* of that Convention that the decision should not be recognised or enforced in the State;
+
+(*b*) in relation to a decision to which Article 9 or 10 of that Convention applies, the Court is of opinion on any of the grounds specified in the said Articles that the decision should not be recognised or enforced in the State;
+
+(*c*) the Court is of opinion that the decision is not enforceable in the Contracting State where it was made and is not a decision to which Article 12 of the Convention applies.
+
+(2) Where an application is made to the Court under this Part for recognition or enforcement in the State of a decision relating to custody and an application to the Court in respect of the child is pending under *Part II* of this Act the Court shall stay all further proceedings under this Part until the other proceedings have been determined.
+
+(3) The references in Article 9.1.*c* of the Luxembourg Convention to the removal of the child are to his improper removal within the meaning of that Convention.
+
+(4) For the purposes of this section a decision relating to custody includes a decision varying that decision.
+
+### 29. Enforcement of custody decisions.
+
+**29.**—A decision relating to custody in respect of which an enforcement order has been made shall be of the same force and effect and, as respects the enforcement of the decision, the Court shall have the same powers, and proceedings may be taken, as if the decision was a decision of the Court.
+
+### 30. Reports for purposes of Part III.
+
+**30.**—Where the Central Authority in the State is requested to make enquiries about a child under Article 15.1.*b* of the Luxembourg Convention the Central Authority may—
+
+(*a*) request a probation and welfare officer to make a report to it in writing with respect to any matter relating to the child which appears to it to be relevant;
+
+(*b*) request F14[the F15[Child and Family Agency]] to arrange for a suitably qualified person to make such a report to it;
+
+(*c*) request any court to which a written report relating to the child has been made to send it a copy of the report,
+
+and any such request shall be duly complied with.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12, item 3, S.I. No. 887 of 2004.
+>
+> F15: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 5, S.I. No. 502 of 2013.
+
+### 31. Variation and revocation of custody decisions.
+
+**31.**—(1) Where a decision relating to custody is varied or revoked by an authority in the Contracting State in which it was made, any person appearing to the Court to have an interest in the matter may make an application to the Court for an order for variation or revocation of the order of recognition or enforcement of that decision.
+
+(2) Where an application is made under *subsection (1)* of this section for revocation of an order the Court shall, if it is satisfied that the decision (in respect of which the order of recognition or enforcement was made) has been revoked by an authority in the Contracting State in which it was made, discharge the order and the decision shall cease to be enforceable in the State.
+
+(3) Where an application is made under *subsection (1)* of this section for variation of an order, the Court may, if it is satisfied that the decision has been varied by an authority in the Contracting State in which it was made and, subject to the grounds of refusal specified in *section 28 (1)* of this Act, make an order varying the order and a decision so varied shall be of the same force and effect, and as respects the enforcement of the decision so varied, the Court shall have the same powers and proceedings may be taken, as if the decision so varied was a decision of the Court.
+
+(4) The Central Authority in the State shall assist the person referred to in *subsection (1)* of this section if a request for such assistance, in such form as may be prescribed, is made by him or on his behalf by the Central Authority of the Contracting State in question.
+
+### 32. Applications for recognition and enforcement of custody decisions in another Contracting State.
+
+**32.**—(1) A person on whom any rights are conferred by a decision relating to custody made by a court in the State or by an authority within the meaning of the Luxembourg Convention in another Contracting State may make an application, in such form as may be prescribed, to the Central Authority in the State under Article 4 of the Luxembourg Convention with a view to securing its recognition or enforcement in another Contracting State.
+
+(2) Where the Central Authority in the State receives any such application and is satisfied that the application is an application to which Article 4 of the Luxembourg Convention applies it shall, on behalf of the applicant, take any action required to be taken by a Central Authority under that Convention.
+
+### 33. Provision of certain documents by courts in the State for purposes of Luxembourg Convention.
+
+**33.**—As respects a decision relating to custody made by a court in the State (including a declaration made by a court under *section 34* of this Act), the registrar or clerk of the court shall, at the request of a person who wishes to make an application under the Luxembourg Convention in a Contracting State other than the State or at the request on his behalf of the Central Authority in the State and subject to any conditions that may be specified by rules of court, give to the person or the Central Authority, as the case may be, all or any of the documents referred to in Article 13.1.*b*, *c* and *d* of that Convention, that is to say—
+
+(*a*) a copy of the decision duly authenticated;
+
+(*b*) a certificate signed by the registrar or clerk of the court stating—
+
+(i) the nature of the proceedings,
+
+(ii) the date on which the time for the lodging of an appeal against the decision will expire or, if it has expired, the date on which it expired,
+
+(iii) whether notice of appeal against, or, in any case where the defendant does not appear, a notice to set aside, the decision has been entered, and
+
+(iv) such particulars (if any) as may be specified by rules of court,
+
+and
+
+(*c*) in case the decision was given in default of appearance, the original or a copy, certified by the registrar or clerk of the court to be a true copy, of a document establishing that notice of the institution of proceedings was served on the person in default.
+
+### 34. Declaration by a court of unlawful removal of child.
+
+**34.**—(1) Where a court in the State makes a decision relating to the custody of a child who has been removed from the State that court may also, on an application made by any person for the purposes of Article 12 of the Luxembourg Convention, make a declaration that the removal of the child from the State was unlawful if it is satisfied that the applicant has an interest in the matter and that the child has been taken from or sent or kept out of the State without the consent of any of the persons having the right to determine the child's place of residence under the law of the State.
+
+(2) The Central Authority in the State shall take action or cause action to be taken to assist the person referred to in *subsection (1)* of this section in making an application under this section if a request for such assistance, in such form as may be prescribed, is made by him or on his behalf by the Central Authority of another Contracting State.
+
+## PART IVSupplementary — PART IV — Supplementary
+
+### 35. Termination of existing custody orders.
+
+**35.**—Where the Court makes—
+
+(*a*) an order for the return of a child under *Part II* of this Act; or
+
+(*b*) an order recognising or enforcing a decision relating to the custody of a child (other than a decision relating only to rights of access) under *Part III* of this Act,
+
+the Court may, on notice to any interested parties, discharge any order regarding the custody of, or the right of access to, the child.
+
+### 36. Power of the Court to order disclosure of child's whereabouts.
+
+**36.**—(1) Where—
+
+(*a*) in proceedings for the return of a child under *Part II* of this Act, or
+
+(*b*) on an application for the recognition or enforcement of a decision in respect of a child under *Part III* of this Act,
+
+there is not available to the Court adequate information as to the whereabouts of the child, the Court may order any person who, it has reason to believe, may have relevant information to disclose it to the Court.
+
+(2) Any person who is the subject of an order under *subsection (1)* of this section may, notwithstanding production of the child, be ordered to disclose any information that is relevant to proceedings under *Part II* or *III* of this Act.
+
+(3) Where—
+
+(*a*) in proceedings in a Contracting State other than the State for the return of a child under the Hague Convention, or
+
+(*b*) in proceedings for the recognition or enforcement of a decision in a Contracting State other than the State in respect of a child under the Luxembourg Convention,
+
+or where such proceedings are about to be commenced, there is not available to the authorities in the Contracting State adequate information as to the whereabouts of the child, the Court may, on application made to it by any person, if it is satisfied that the applicant has an interest in the matter and that the child has been taken from or sent or kept out of the State without the consent of any of the persons having the right to determine the child's place of residence under the law of the State, order any person who, it has reason to believe, may have relevant information to disclose it to the Court.
+
+(4) Any person who is the subject of an order under *subsection (3)* of this section may, notwithstanding production of the child in the Contracting State, be ordered to disclose any information that is relevant to proceedings in that state.
+
+(5) A person shall not be excused from complying with any order under this section by reason that to do so may incriminate him or his spouse of an offence; but a statement or admission made in compliance with any such order shall not be admissible in evidence against either of them in proceedings for an offence other than perjury.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Reference to perjury construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021* (13/2021), s. 4(2) and sch. 2 item 34, S.I. No. 378 of 2021.
+>
+> **References to perjury or subornation of perjury**
+>
+> **4.** ...
+>
+> (2) A reference in an enactment specified in Schedule 2 to perjury or to subornation of perjury, howsoever described, in relation to an act committed on or after the coming into operation of this subsection, shall be construed as a reference to perjury or to subornation of perjury, as the case may be, within the meaning of this Act.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> *Section 4(2)*
+>
+> ...
+>
+> 34\. Child Abduction and Enforcement of Custody Orders Act 1991, section 36(5)
+>
+> ...
+
+### 36A. Obtaining information as to whereabouts of child.
+
+F16[**36A.**—The Central Authority in the State may, for the purposes of obtaining any information that is necessary or expedient for the performance of its functions under Article 7(*a*) of the Hague Convention or, as may be appropriate, Article 5.1.*a* of the Luxembourg Convention, require any holder of a public office or body financed wholly or partly by means of monies provided by the Oireachtas to provide it with any information in the possession or procurement of the holder or body which would assist in discovering the whereabouts of a child and any such request shall be duly complied with.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (1.01.2011) by *Protection of Children (Hague Convention) Act 2000* (37/2000), s. 17, S.I. No. 650 of 2010.
+
+### 37. Power of Garda Síochána to detain a child and matters consequential upon such detention.
+
+**37.**—(1) A member of the Garda Síochána shall have power to detain a child who he reasonably suspects is about to be or is being removed from the State in breach of any of the following orders of a court in the State—
+
+(*a*) an order regarding the custody of, or right of access to, the child (whether or not such an order contains an order prohibiting the removal of the child from the jurisdiction without leave of the court) or any order relating to the child made by the court in the exercise of its jurisdiction relating to wardship of a child;
+
+(*b*) an order made pursuant to Part II or IV of the Children Act, 1908, in relation to the care of the child;
+
+(*c*) an order made under *section 12* of this Act or an order made for return of the child under *Part II* of this Act;
+
+(*d*) an order made under *section 26* of this Act or an order made for recognition or enforcement of a decision relating to custody under *Part III* of this Act,
+
+or while proceedings for one of those orders are pending or an application for one of those orders is about to be made.
+
+F17[(2) Where a child is detained under this section a member of the Garda Síochána shall as soon as possible—
+
+(*a*) return the child to the custody of a person (not being the F18[Child and Family Agency]) in favour of whom a court has made an order referred to in subsection (1) of this section unless the member has reasonable grounds for believing that such person will act in breach of such order, or
+
+(*b*) where the child has been in the care of the F18[Child and Family Agency], return the child to it, or
+
+(*c*) in a case other than one to which *paragraph* (*a*) or (*b*) of this subsection applies, or where the member is of the belief referred to in the said *paragraph* (*a*), deliver the child into the care of the F18[Child and Family Agency].]
+
+(3) Where a member of the Garda Síochána delivers into the care of F19[the F18[Child and Family Agency]] a child in accordance with *subsection (2) (c)* of this section, he shall as soon as possible inform or cause to be informed—
+
+(*a*) a parent of the child, or
+
+(*b*) a person acting *in loco parentis*, or
+
+(*c*) the Central Authority referred to in *section 8* (in a case to which *subsection (1) (c)* of this section applies) or *section 22* (in a case to which *subsection (1) (d)* of this section applies) of this Act, of such delivery.
+
+(4) Where any child is delivered into the care of F19[the F18[Child and Family Agency]] in accordance with *subsection (2) (c)* of this section F20[the F18[Child and Family Agency]] shall arrange suitable care and accommodation for the child, which may include placing the child in foster care or residential care, pending the determination of an application under *subsection (5)* of this section by F20[the F18[Child and Family Agency]].
+
+(5) Where a child is delivered into the care of F19[the F18[Child and Family Agency]] under *subsection (2) (c)* of this section F20[the F18[Child and Family Agency]] shall apply at the next sitting of the District Court or, in the event that the next sitting is not due to be held within three days of the date on which the child is delivered into the care of F20[the F18[Child and Family Agency]], at a specially arranged sitting of the District Court held within the said three days, for directions as to the child's release from such care or otherwise in relation to the child's care and the District Court may make such order as it thinks proper in the circumstances regarding custody of and, where appropriate, access to, the child, taking into account any order referred to in *subsection (1)* of this section relating to the child and without prejudice to proceedings that may be pending or any application that is about to be made for one of those orders in relation to the child.
+
+(6) Any order containing a direction under *subsection (5)* of this section shall be of the same force and effect as if it were an order made by the District Court under section 11 of the Guardianship of Infants Act, 1964.
+
+(7) The jurisdiction of the District Court in respect of proceedings under *subsection (5)* of this section may be exercised by the justice of the District Court for the time being assigned to the district court district where the child resides or was at a material time residing and where a justice for the district in which the proceedings are brought is not immediately available, an order may be made by any justice of the District Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12, item 4(a), S.I. No. 887 of 2004.
+>
+> F18: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 5, S.I. No. 502 of 2013.
+>
+> F19: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12, item 4(b), S.I. No. 887 of 2004.
+>
+> F20: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 12, item 4(c), S.I. No. 887 of 2004.
+
+## PART VMiscellaneous — PART V — Miscellaneous
+
+### 38. Rules of court.
+
+**38.**—(1) Proceedings under *Part II* or *III* of this Act shall be commenced in a summary manner.
+
+(2) Rules of court may make provision for the expeditious hearing of an application under *Part II* or *III* of this Act.
+
+### 39. Amendment of Judicial Separation and Family Law Reform Act, 1989.
+
+**39.**—(1) In this section “the Act of 1989” means the Judicial Separation and Family Law Reform Act, 1989.
+
+(2) The proceedings to which subsections (3) and (4) of section 33 (conduct of family proceedings in the High Court) of the Act of 1989 apply shall be deemed to include proceedings under this Act.
+
+(3) Section 45 of the Act of 1989 is hereby amended by the substitution of the following for “and the Status of Children Act, 1987” in subsection (1):
+
+“, the Status of Children Act, 1987, and the *Child Abduction and Enforcement of Custody Orders Act, 1991*,”.
+
+### 40. Costs.
+
+**40.**—(1) The costs of any proceedings under any provision of this Act shall be in the discretion of the court concerned.
+
+(2) Without prejudice to the generality of *subsection (1)* of this section, a court in making an order for costs in any proceedings under this Act—
+
+(*a*) may direct the person who removed or retained a child, or who prevented the exercise of rights of access in relation to a child, to pay any necessary expenses incurred by or on behalf of the applicant in the proceedings, including travel expenses, any costs incurred or payments made for locating the child, the costs of legal representation of the applicant and those of returning the child;
+
+(*b*) shall otherwise have regard to the provisions of Article 26 of the Hague Convention (where proceedings under *Part II* of this Act are concerned) or Article 5.3 of the Luxembourg Convention (where proceedings under *Part III* of this Act are concerned).
+
+### 41. Regulations.
+
+**41.**—(1) The Minister may make regulations for the purpose of giving effect to this Act.
+
+(2) Without prejudice to the generality of *subsection (1)* of this section, regulations under this section may prescribe forms to be used in connection with any of the provisions of this Act.
+
+### 42. Laying of orders and regulations before Houses of Oireachtas.
+
+**42.**—Every order or regulation made by the Minister under this Act (other than an order made under *section 1 (3)* of this Act) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent twenty-one days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 43. Expenses.
+
+**43.**—The expenses incurred in the administration of this Act by the Minister or a Central Authority appointed under *section 8* or *22* of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## FIRST SCHEDULE — Text of the Convention on the Civil Aspects of International Child Abduction
+
+The States signatory to the present Convention
+
+Firmly convinced that the interests of children are of paramount importance in matters relating to their custody,
+
+Desiring to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access,
+
+Have resolved to conclude a Convention to this effect, and have agreed upon the following provisions—
+
+### CHAPTER I — Scope of the Convention
+
+*Article 1*
+
+The objects of the present Convention are:
+
+(*a*) to secure the prompt return of children wrongfully removed to or retained in any Contracting State; and
+
+(*b*) to ensure that rights of custody and of access under the law of one Contracting State are effectively respected in the other Contracting States.
+
+*Article 2*
+
+Contracting States shall take all appropriate measures to secure within their territories the implementation of the objects of the Convention. For this purpose they shall use the most expeditious procedures available.
+
+*Article 3*
+
+The removal or the retention of a child is to be considered wrongful where:
+
+(*a*) it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and
+
+(*b*) at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention.
+
+The rights of custody mentioned in sub-paragraph (*a*) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.
+
+*Article 4*
+
+The Convention shall apply to any child who was habitually resident in a Contracting State immediately before any breach of custody or access rights. The Convention shall cease to apply when the child attains the age of 16 years.
+
+*Article 5*
+
+For the purposes of this Convention:
+
+(*a*) ‘rights of custody’ shall include rights relating to the care of the person of the child and, in particular, the right to determine the child's place of residence;
+
+(*b*) ‘rights of access’ shall include the right to take a child for a limited period of time to a place other than the child's habitual residence.
+
+### CHAPTER II — Central Authorities
+
+*Article 6*
+
+A Contracting State shall designate a Central Authority to discharge the duties which are imposed by the Convention upon such authorities.
+
+Federal States, States with more than one system of law or States having autonomous territorial organizations shall be free to appoint more than one Central Authority and to specify the territorial extent of their powers. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which applications may be addressed for transmission to the appropriate Central Authority within that State.
+
+*Article 7*
+
+Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their respective State to secure the prompt return of children and to achieve the other objects of this Convention.
+
+In particular, either directly or through any intermediary, they shall take all appropriate measures—
+
+(*a*) to discover the whereabouts of a child who has been wrongfully removed or retained;
+
+(*b*) to prevent further harm to the child or prejudice to interested parties by taking or causing to be taken provisional measures;
+
+(*c*) to secure the voluntary return of the child or to bring about an amicable resolution of the issues;
+
+(*d*) to exchange, where desirable, information relating to the social background of the child;
+
+(*e*) to provide information of a general character as to the law of their State in connection with the application of the Convention;
+
+(*f*) to initiate or facilitate the institution of judicial or administrative proceedings with a view to obtaining the return of the child and, in a proper case, to make arrangements for organizing or securing the effective exercise of rights of access;
+
+(*g*) where the circumstances so require, to provide or facilitate the provision of legal aid and advice, including the participation of legal counsel and advisers;
+
+(*h*) to provide such administrative arrangements as may be necessary and appropriate to secure the safe return of the child;
+
+(*i*) to keep each other informed with respect to the operation of this Convention and, as far as possible, to eliminate any obstacles to its application.
+
+### CHAPTER III — Return of Children
+
+*Article 8*
+
+Any person, institution or other body claiming that a child has been removed or retained in breach of custody rights may apply either to the Central Authority of the child's habitual residence or to the Central Authority of any other Contracting State for assistance in securing the return of the child.
+
+The application shall contain—
+
+(*a*) information concerning the identity of the applicant, of the child and of the person alleged to have removed or retained the child;
+
+(*b*) where available, the date of birth of the child;
+
+(*c*) the grounds on which the applicant's claim for return of the child is based;
+
+(*d*) all available information relating to the whereabouts of the child and the identity of the person with whom the child is presumed to be.
+
+The application may be accompanied or supplemented by—
+
+(*e*) an authenticated copy of any relevant decision or agreement;
+
+(*f*) a certificate or an affidavit emanating from a Central Authority, or other competent authority of the State of the child's habitual residence, or from a qualified person, concerning the relevant law of that State;
+
+(*g*) any other relevant document.
+
+*Article 9*
+
+If the Central Authority which receives an application referred to in Article 8 has reason to believe that the child is in another Contracting State, it shall directly and without delay transmit the application to the Central Authority of that Contracting State and inform the requesting Central Authority, or the applicant, as the case may be.
+
+*Article 10*
+
+The Central Authority of the State where the child is shall take or cause to be taken all appropriate measures in order to obtain the voluntary return of the child.
+
+*Article 11*
+
+The judicial or administrative authorities of Contracting States shall act expeditiously in proceedings for the return of children.
+
+If the judicial or administrative authority concerned has not reached a decision within six weeks from the date of commencement of the proceedings, the applicant or the Central Authority of the requested State, on its own initiative or if asked by the Central Authority of the requesting State, shall have the right to request a statement of the reasons for the delay. If a reply is received by the Central Authority of the requested State, that Authority shall transmit the reply to the Central Authority of the requesting State, or to the applicant, as the case may be.
+
+*Article 12*
+
+Where a child has been wrongfully removed or retained in terms of Article 3 and, at the date of the commencement of the proceedings before the judicial or administrative authority of the Contracting State where the child is, a period of less than one year has elapsed from the date of the wrongful removal or retention, the authority concerned shall order the return of the child forthwith.
+
+The judicial or administrative authority, even where the proceedings have been commenced after the expiration of the period of one year referred to in the preceding paragraph, shall also order the return of the child, unless it is demonstrated that the child is now settled in its new environment.
+
+Where the judicial or administrative authority in the requested State has reason to believe that the child has been taken to another State, it may stay the proceedings or dismiss the application for the return of the child.
+
+*Article 13*
+
+Notwithstanding the provisions of the preceding Article, the judicial or administrative authority of the requested State is not bound to order the return of the child if the person, institution or other body which opposes its return establishes that—
+
+(*a*) the person, institution or other body having the care of the person of the child was not actually exercising the custody rights at the time of removal or retention, or had consented to or subsequently acquiesced in the removal or retention; or
+
+(*b*) there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation.
+
+The judicial or administrative authority may also refuse to order the return of the child if it finds that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate to take account of its views.
+
+In considering the circumstances referred to in this Article, the judicial and administrative authorities shall take into account the information relating to the social background of the child provided by the Central Authority or other competent authority of the child's habitual residence.
+
+*Article 14*
+
+In ascertaining whether there has been a wrongful removal or retention within the meaning of Article 3, the judicial or administrative authorities of the requested State may take notice directly of the law of, and of judicial or administrative decisions, formally recognized or not in the State of the habitual residence of the child, without recourse to the specific procedures for the proof of that law or for the recognition of foreign decisions which would otherwise be applicable.
+
+*Article 15*
+
+The judicial or administrative authorities of a Contracting State may, prior to the making of an order for the return of the child, request that the applicant obtain from the authorities of the State of the habitual residence of the child a decision or other determination that the removal or retention was wrongful within the meaning of Article 3 of the Convention, where such a decision or determination may be obtained in that State. The Central Authorities of the Contracting States shall so far as practicable assist applicants to obtain such a decision or determination.
+
+*Article 16*
+
+After receiving notice of a wrongful removal or retention of a child in the sense of Article 3, the judicial or administrative authorities of a Contracting State to which the child has been removed or in which it has been retained shall not decide on the merits of rights of custody until it has been determined that the child is not to be returned under this Convention or unless an application under this Convention is not lodged within a reasonable time following receipt of the notice.
+
+*Article 17*
+
+The sole fact that a decision relating to custody has been given in or is entitled to recognition in the requested State shall not be a ground for refusing to return a child under this Convention, but the judicial or administrative authorities of the requested State may take account of the reasons for that decision in applying this Convention.
+
+*Article 18*
+
+The provisions of this Chapter do not limit the power of a judicial or administrative authority to order the return of the child at any time.
+
+*Article 19*
+
+A decision under this Convention concerning the return of the child shall not be taken to be a determination on the merits of any custody issue.
+
+*Article 20*
+
+The return of the child under the provisions of Article 12 may be refused if this would not be permitted by the fundamental principles of the requested State relating to the protection of human rights and fundamental freedoms.
+
+### CHAPTER IV — Right of Access
+
+*Article 21*
+
+An application to make arrangements for organizing or securing the effective exercise of rights of access may be presented to the Central Authorities of the Contracting States in the same way as an application for the return of a child.
+
+The Central Authorities are bound by the obligations of co-operation which are set forth in Article 7 to promote the peaceful enjoyment of access rights and the fulfilment of any conditions to which the exercise of those rights may be subject. The Central Authorities shall take steps to remove, as far as possible, all obstacles to the exercise of such rights.
+
+The Central Authorities, either directly or through intermediaries, may initiate or assist in the institution of proceedings with a view to organizing or protecting these rights and securing respect for the conditions to which the exercise of these rights may be subject.
+
+### CHAPTER V — General Provisions
+
+*Article 22*
+
+No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in the judicial or administrative proceedings falling within the scope of this Convention.
+
+*Article 23*
+
+No legalization or similar formality may be required in the context of this Convention.
+
+*Article 24*
+
+Any application, communication or other document sent to the Central Authority of the requested State shall be in the original language, and shall be accompanied by a translation into the official language or one of the official languages of the requested State or, where that is not feasible, a translation into French or English.
+
+However, a Contracting State may, by making a reservation in accordance with Article 42, object to the use of either French or English, but not both, in any application, communication or other document sent to its Central Authority.
+
+*Article 25*
+
+Nationals of the Contracting States and persons who are habitually resident within those States shall be entitled in matters concerned with the application of this Convention to legal aid and advice in any other Contracting State on the same conditions as if they themselves were nationals of and habitually resident in that State.
+
+*Article 26*
+
+Each Central Authority shall bear its own costs in applying this Convention.
+
+Central Authorities and other public services of Contracting States shall not impose any charges in relation to applications submitted under this Convention. In particular, they may not require any payment from the applicant towards the costs and expenses of the proceedings or, where applicable, those arising from the participation of legal counsel or advisers. However, they may require the payment of the expenses incurred or to be incurred in implementing the return of the child.
+
+However, a Contracting State may, by making a reservation in accordance with Article 42, declare that it shall not be bound to assume any costs referred to in the preceding paragraph resulting from the participation of legal counsel or advisers or from court proceedings, except in so far as those costs may be covered by its system of legal aid and advice.
+
+Upon ordering the return of a child or issuing an order concerning rights of access under this Convention, the judicial or administrative authorities may, where appropriate, direct the person who removed or retained the child, or who prevented the exercise of rights of access, to pay necessary expenses incurred by or on behalf of the applicant, including travel expenses, any costs incurred or payments made for locating the child, the costs of legal representation of the applicant, and those of returning the child.
+
+*Article 27*
+
+When it is manifest that the requirements of this Convention are not fulfilled or that the application is otherwise not well founded, a Central Authority is not bound to accept the application. In that case, the Central Authority shall forthwith inform the applicant or the Central Authority through which the application was submitted, as the case may be, of its reasons.
+
+*Article 28*
+
+A Central Authority may require that the application be accompanied by a written authorization empowering it to act on behalf of the applicant, or to designate a representative so to act.
+
+*Article 29*
+
+This Convention shall not preclude any person, institution or body who claims that there has been a breach of custody or access rights within the meaning of Article 3 or 21 from applying directly to the judicial or administrative authorities of a Contracting State, whether or not under the provisions of this Convention.
+
+*Article 30*
+
+Any application submitted to the Central Authorities or directly to the judicial or administrative authorities of a Contracting State in accordance with the terms of this Convention, together with documents and any other information appended thereto or provided by a Central Authority, shall be admissible in the courts or administrative authorities of the Contracting States.
+
+*Article 31*
+
+In relation to a State which in matters of custody of children has two or more systems of law applicable in different territorial units—
+
+(*a*) any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State;
+
+(*b*) any reference to the law of the State of habitual residence shall be construed as referring to the law of the territorial unit in that State where the child habitually resides.
+
+*Article 32*
+
+In relation to a State which in matters of custody of children has two or more systems of law applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
+
+*Article 33*
+
+A State within which different territorial units have their own rules of law in respect of custody of children shall not be bound to apply this Convention where a State with a unified system of law would not be bound to do so.
+
+*Article 34*
+
+This Convention shall take priority in matters within its scope over the Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of minors, as between Parties to both Conventions. Otherwise the present Convention shall not restrict the application of an international instrument in force between the State of origin and the State addressed or other law of the State addressed for the purposes of obtaining the return of a child who has been wrongfully removed or retained or of organizing access rights.
+
+*Article 35*
+
+This Convention shall apply as between Contracting States only to wrongful removals or retentions occurring after its entry into force in those States.
+
+Where a declaration has been made under Article 39 or 40 the reference in the preceding paragraph to a Contracting State shall be taken to refer to the territorial unit or units in relation to which this Convention applies.
+
+*Article 36*
+
+Nothing in this Convention shall prevent two or more Contracting States, in order to limit the restrictions to which the return of the child may be subject, from agreeing among themselves to derogate from any provisions of this Convention which may imply such a restriction.
+
+### CHAPTER VI — Final Clauses
+
+*Article 37*
+
+The Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law at the time of its Fourteenth Session.
+
+It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+
+*Article 38*
+
+Any other State may accede to the Convention.
+
+The instruments of accession shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+
+The Convention shall enter into force for a State acceding to it on the first day of the third calendar month after the deposit of its instrument of accession.
+
+The accession will have effect only as regards the relations between the acceding State and such Contracting States as will have declared their acceptance of the accession. Such a declaration will also have to be made by any Member State ratifying, accepting or approving the Convention after an accession. Such declaration shall be deposited at the Ministry of Foreign Affairs of the Kingdom of the Netherlands; this Ministry shall forward, through diplomatic channels, a certified copy to each of the Contracting States.
+
+The Convention will enter into force as between the acceding State and the State that has declared its acceptance of the accession on the first day of the third calendar month after the deposit of the declaration of acceptance.
+
+*Article 39*
+
+Any State may, at the time of signature, ratification, acceptance, approval or accession, declare that the Convention shall extend to all the territories for the international relations of which it is responsible, or to one or more of them. Such a declaration shall take effect at the time the Convention enters into force for that State.
+
+Such declaration, as well as any subsequent extension, shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+
+*Article 40*
+
+If a Contracting State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time. Any such declaration shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and shall state expressly the territorial units to which the Convention applies.
+
+*Article 41*
+
+Where a Contracting State has a system of government under which executive, judicial and legislative powers are distributed between central and other authorities within that State, its signature or ratification, acceptance or approval of, or accession to this Convention, or its making of any declaration in terms of Article 40 shall carry no implication as to the internal distribution of powers within that State.
+
+*Article 42*
+
+Any State may, not later than the time of ratification, acceptance, approval or accession, or at the time of making a declaration in terms of Article 39 or 40, make one or both of the reservations provided for in Article 24 and Article 26, third paragraph. No other reservation shall be permitted.
+
+Any State may at any time withdraw a reservation it has made. The withdrawal shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+
+The reservation shall cease to have effect on the first day of the third calendar month after the notification referred to in the preceding paragraph.
+
+*Article 43*
+
+The Convention shall enter into force on the first day of the third calendar month after the deposit of the third instrument of ratification, acceptance, approval or accession referred to in Articles 37 and 38.
+
+Thereafter the Convention shall enter into force—
+
+(1) for each State ratifying, accepting, approving or acceding to it subsequently, on the first day of the third calendar month after the deposit of its instrument of ratification, acceptance, approval or accession;
+
+(2) for any territory or territorial unit to which the Convention has been extended in conformity with Article 39 or 40, on the first day of the third calendar month after the notification referred to in that Article.
+
+*Article 44*
+
+The Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 43 even for States which subsequently have ratified, accepted, approved it or acceded to it.
+
+If there has been no denunciation, it shall be renewed tacitly every five years.
+
+Any denunciation shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands at least six months before the expiry of the five year period. It may be limited to certain of the territories or territorial units to which the Convention applies.
+
+The denunciation shall have effect only as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.
+
+*Article 45*
+
+The Ministry of Foreign Affairs of the Kingdom of the Netherlands shall notify the States Members of the Conference, and the States which have acceded in accordance with Article 38, of the following:—
+
+(1) the signatures and ratifications, acceptances and approvals referred to in Article 37;
+
+(2) the accessions referred to in Article 38;
+
+(3) the date on which the Convention enters into force in accordance with Article 43;
+
+(4) the extensions referred to in Article 39;
+
+(5) the declarations referred to in Articles 38 and 40;
+
+(6) the reservations referred to in Article 24 and Article 26, third paragraph, and the withdrawals referred to in Article 42;
+
+(7) the denunciations referred to in Article 44.
+
+In Witness Whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at The Hague, on the 25th day of October, 1980, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Fourteenth Session and to each other State having participated in the preparation of this Convention at this Session.
+
+(Here follow signatures on behalf of certain States.)
+
+## SECOND SCHEDULE — European Convention on Recognition and Enforcement of Decisions Concerning Custody of Children and on Restoration of Custody of Children
+
+The member States of the Council of Europe, signatory hereto,
+
+Recognising that in the member States of the Council of Europe the welfare of the child is of overriding importance in reaching decisions concerning his custody;
+
+Considering that the making of arrangements to ensure that decisions concerning the custody of a child can be more widely recognised and enforced will provide greater protection of the welfare of children;
+
+Considering it desirable, with this end in view, to emphasise that the right of access of parents is a normal corollary to the right of custody;
+
+Noting the increasing number of cases where children have been improperly removed across an international frontier and the difficulties of securing adequate solutions to the problems caused by such cases;
+
+Desirous of making suitable provision to enable the custody of children which has been arbitrarily interrupted to be restored;
+
+Convinced of the desirability of making arrangements for this purpose answering to different needs and different circumstances;
+
+Desiring to establish legal co-operation between their authorities,
+
+Have agreed as follows:
+
+Article 1
+
+For the purposes of this Convention:
+
+*a*. *child* means a person of any nationality, so long as he is under 16 years of age and has not the right to decide on his own place of residence under the law of his habitual residence, the law of his nationality or the internal law of the State addressed;
+
+*b*. *authority* means a judicial or administrative authority;
+
+*c*. *decision relating to custody* means a decision of an authority in so far as it relates to the care of the person of the child, including the right to decide on the place of his residence, or to the right of access to him;
+
+*d*. *improper removal* means the removal of a child across an international frontier in breach of a decision relating to his custody which has been given in a Contracting State and which is enforceable in such a State; improper removal also includes:
+
+i. the failure to return a child across an international frontier at the end of a period of the exercise of the right of access to this child or at the end of any other temporary stay in a territory other than that where the custody is exercised;
+
+ii. a removal which is subsequently declared unlawful within the meaning of Article 12.
+
+PART I
+
+*Central authorities*
+
+Article 2
+
+1\. Each Contracting State shall appoint a central authority to carry out the functions provided for by this Convention.
+
+2\. Federal States and States with more than one legal system shall be free to appoint more than one central authority and shall determine the extent of their competence.
+
+3\. The Secretary General of the Council of Europe shall be notified of any appointment under this Article.
+
+Article 3
+
+1\. The central authorities of the Contracting States shall co-operate with each other and promote co-operation between the competent authorities in their respective countries. They shall act with all necessary despatch.
+
+2\. With a view to facilitating the operation of this Convention, the central authorities of the Contracting States:
+
+*a*. shall secure the transmission of requests for information coming from competent authorities and relating to legal or factual matters concerning pending proceedings;
+
+*b*. shall provide each other on request with information about their law relating to the custody of children and any changes in that law;
+
+*c*. shall keep each other informed of any difficulties likely to arise in applying the Convention and, as far as possible, eliminate obstacles to its application.
+
+Article 4
+
+1\. Any person who has obtained in a Contracting State a decision relating to the custody of a child and who wishes to have that decision recognised or enforced in another Contracting State may submit an application for this purpose to the central authority in any Contracting State.
+
+2\. The application shall be accompanied by the documents mentioned in Article 13.
+
+3\. The central authority receiving the application, if it is not the central authority in the State addressed, shall send the documents directly and without delay to that central authority.
+
+4\. The central authority receiving the application may refuse to intervene where it is manifestly clear that the conditions laid down by this Convention are not satisfied.
+
+5\. The central authority receiving the application shall keep the applicant informed without delay of the progress of his application.
+
+Article 5
+
+1\. The central authority in the State addressed shall take or cause to be taken without delay all steps which it considers to be appropriate, if necessary by instituting proceedings before its competent authorities, in order:
+
+*a*. to discover the whereabouts of the child;
+
+*b*. to avoid, in particular by any necessary provisional measures, prejudice to the interests of the child or of the applicant;
+
+*c*. to secure the recognition or enforcement of the decision;
+
+*d*. to secure the delivery of the child to the applicant where enforcement is granted;
+
+*e*. to inform the requesting authority of the measures taken and their results.
+
+2\. Where the central authority in the State addressed has reason to believe that the child is in the territory of another Contracting State it shall send the documents directly and without delay to the central authority of that State.
+
+3\. With the exception of the cost of repatriation, each Contracting State undertakes not to claim any payment from an applicant in respect of any measures taken under paragraph 1 of this Article by the central authority of that State on the applicant's behalf, including the costs of proceedings and, where applicable the costs incurred by the assistance of a lawyer.
+
+4\. If recognition or enforcement is refused, and if the central authority of the State addressed considers that it should comply with a request by the applicant to bring in that State proceedings concerning the substance of the case, that authority shall use its best endeavours to secure the representation of the applicant in the proceedings under conditions no less favourable than those available to a person who is resident in and a national of that State and for this purpose it may, in particular, institute proceedings before its competent authorities.
+
+Article 6
+
+1\. Subject to any special agreements made between the central authorities concerned and to the provisions of paragraph 3 of this Article:
+
+*a*. communications to the central authority of the State addressed shall be made in the official language or in one of the official languages of that State or be accompanied by a translation into that language;
+
+*b*. the central authority of the State addressed shall nevertheless accept communications made in English or in French or accompanied by a translation into one of these languages.
+
+2\. Communications coming from the central authority of the State addressed, including the results of enquiries carried out, may be made in the official language or one of the official languages of that State or in English or French.
+
+3\. A Contracting State may exclude wholly or partly the provisions of paragraph 1.*b* of this Article. When a Contracting State has made this reservation any other Contracting State may also apply the reservation in respect of that State.
+
+PART II
+
+*Recognition and enforcement of decisions and restoration of custody of children*
+
+Article 7
+
+A decision relating to custody given in a Contracting State shall be recognised and, where it is enforceable in the State of origin, made enforceable in every other Contracting State.
+
+Article 8
+
+1\. In the case of an improper removal, the central authority of the State addressed shall cause steps to be taken forthwith to restore the custody of the child where:
+
+*a*. at the time of the institution of the proceedings in the State where the decision was given or at the time of the improper removal, if earlier, the child and his parents had as their sole nationality the nationality of that State and the child had his habitual residence in the territory of that State, and
+
+*b*. a request for the restoration was made to a central authority within a period of six months from the date of the improper removal.
+
+2\. If, in accordance with the law of the State addressed, the requirements of paragraph 1 of this Article cannot be complied with without recourse to a judicial authority, none of the grounds of refusal specified in this Convention shall apply to the judicial proceedings.
+
+3\. Where there is an agreement officially confirmed by a competent authority between the person having the custody of the child and another person to allow the other person a right of access, and the child, having been taken abroad, has not been restored at the end of the agreed period to the person having the custody, custody of the child shall be restored in accordance with paragraphs *1.b* and *2* of this Article. The same shall apply in the case of a decision of the competent authority granting such a right to a person who has not the custody of the child.
+
+Article 9
+
+1\. In cases of improper removal, other than those dealt with in Article 8, in which an application has been made to a central authority within a period of six months from the date of the removal, recognition and enforcement may be refused only if:
+
+*a*. in the case of a decision given in the absence of the defendant or his legal representative, the defendant was not duly served with the document which instituted the proceedings or an equivalent document in sufficient time to enable him to arrange his defence; but such a failure to effect service cannot constitute a ground for refusing recognition or enforcement where service was not effected because the defendant had concealed his whereabouts from the person who instituted the proceedings in the State of origin:
+
+*b*. in the case of a decision given in the absence of the defendant or his legal representative, the competence of the authority giving the decision was not founded:
+
+i. on the habitual residence of the defendant, or
+
+ii. on the last common habitual residence of the child's parents, at least one parent being still habitually resident there, or
+
+iii. on the habitual residence of the child;
+
+*c*. the decision is incompatible with a decision relating to custody which became enforceable in the State addressed before the removal of the child, unless the child has had his habitual residence in the territory of the requesting State for one year before his removal.
+
+2\. Where no application has been made to a central authority, the provisions of paragraph 1 of this Article shall apply equally, if recognition and enforcement are requested within six months from the date of the improper removal.
+
+3\. In no circumstances may the foreign decision be reviewed as to its substance.
+
+Article 10
+
+1\. In cases other than those covered by Articles 8 and 9, recognition and enforcement may be refused not only on the grounds provided for in Article 9 but also on any of the following grounds:
+
+*a*. if it is found that the effects of the decision are manifestly incompatible with the fundamental principles of the law relating to the family and children in the State addressed;
+
+*b*. if it is found that by reason of a change in the circumstances including the passage of time not including a mere change in the residence of the child after an improper removal, the effects of the original decision are manifestly no longer in accordance with the welfare of the child;
+
+*c*. if at the time when the proceedings were instituted in the State of origin:
+
+i. the child was a national of the State addressed or was habitually resident there and no such connection existed with the State of origin:
+
+ii. the child was a national both of the State of origin and of the State addressed and was habitually resident in the State addressed:
+
+*d*. if the decision is incompatible with a decision given in the State addressed or enforceable in that State, after being given in a third State, pursuant to proceedings begun before the submission of the request for recognition or enforcement, and if the refusal is in accordance with the welfare of the child.
+
+2\. In the same cases, proceedings for recognition or enforcement may be adjourned on any of the following grounds:
+
+*a*. if an ordinary form of review of the original decision has been commenced;
+
+*b*. if proceedings relating to the custody of the child, commenced before the proceedings in the State of origin were instituted, are pending in the State addressed;
+
+*c*. if another decision concerning the custody of the child is the subject of proceedings for enforcement or of any other proceedings concerning the recognition of the decision.
+
+Article 11
+
+1\. Decisions on rights of access and provisions of decisions relating to custody which deal with the right of access shall be recognised and enforced subject to the same conditions as other decisions relating to custody.
+
+2\. However, the competent authority of the State addressed may fix the conditions for the implementation and exercise of the right of access taking into account, in particular, undertakings given by the parties on this matter.
+
+3\. Where no decision on the right of access has been taken or where recognition or enforcement of the decision relating to custody is refused, the central authority of the State addressed may apply to its competent authorities for a decision on the right of access, if the person claiming a right of access so requests.
+
+Article 12
+
+Where, at the time of the removal of a child across an international frontier, there is no enforceable decision given in a Contracting State relating to his custody, the provisions of this Convention shall apply to any subsequent decision, relating to the custody of that child and declaring the removal to be unlawful, given in a Contracting State at the request of any interested person.
+
+PART III
+
+*Procedure*
+
+Article 13
+
+1\. A request for recognition or enforcement in another Contracting State of a decision relating to custody shall be accompanied by:
+
+*a*. a document authorising the central authority of the State addressed to act on behalf of the applicant or to designate another representative for that purpose;
+
+*b*. a copy of the decision which satisfies the necessary conditions of authenticity;
+
+*c*. in the case of a decision given in the absence of the defendant or his legal representative, a document which establishes that the defendant was duly served with the document which instituted the proceedings or an equivalent document;
+
+*d*. if applicable, any document which establishes that, in accordance with the law of the State of origin, the decision is enforceable;
+
+*e*. if possible, a statement indicating the whereabouts or likely whereabouts of the child in the State addressed;
+
+*f*. proposals as to how the custody of the child should be restored.
+
+2\. The documents mentioned above shall, where necessary, be accompanied by a translation according to the provisions laid down in Article 6.
+
+Article 14
+
+Each Contracting State shall apply a simple and expeditious procedure for recognition and enforcement of decisions relating to the custody of a child. To that end it shall ensure that a request for enforcement may be lodged by simple application.
+
+Article 15
+
+1\. Before reaching a decision under paragraph *1.b* of Article 10, the authority concerned in the State addressed:
+
+*a*. shall ascertain the child's views unless this is impracticable having regard in particular to his age and understanding; and
+
+*b*. may request that any appropriate enquiries be carried out.
+
+2\. The cost of enquiries in any Contracting State shall be met by the authorities of the State where they are carried out.
+
+Requests for enquiries and the results of enquiries may be sent to the authority concerned through the central authorities.
+
+Article 16
+
+For the purposes of this Convention, no legalisation or any like formality may be required.
+
+PART IV
+
+Reservations
+
+Article 17
+
+1\. A Contracting State may make a reservation that, in cases covered by Articles 8 and 9 or either of these Articles, recognition and enforcement of decisions relating to custody may be refused on such of the grounds provided under Article 10 as may be specified in the reservation.
+
+2\. Recognition and enforcement of decisions given in a Contracting State which has made the reservation provided for in paragraph 1 of this Article may be refused in any other Contracting State on any of the additional grounds referred to in that reservation.
+
+Article 18
+
+A Contracting State may make a reservation that it shall not be bound by the provisions of Article 12. The provisions of this Convention shall not apply to decisions referred to in Article 12 which have been given in a Contracting State which has made such a reservation.
+
+PART V
+
+Other instruments
+
+Article 19
+
+This Convention shall not exclude the possibility of relying on any other international instrument in force between the State of origin and the State addressed or on any other law of the State addressed not derived from an international agreement for the purpose of obtaining recognition or enforcement of a decision.
+
+Article 20
+
+1\. This Convention shall not affect any obligations which a Contracting State may have towards a non-contracting State under an international instrument dealing with matters governed by this Convention.
+
+2\. When two or more Contracting States have enacted uniform laws in relation to custody of children or created a special system of recognition or enforcement of decisions in this field, or if they should do so in the future, they shall be free to apply, between themselves, those laws or that system in place of this Convention or any part of it. In order to avail themselves of this provision the States shall notify their decision to the Secretary General of the Council of Europe. Any alteration or revocation of this decision must also be notified.
+
+PART VI
+
+Final clauses
+
+Article 21
+
+This Convention shall be open for signature by the member States of the Council of Europe. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
+
+Article 22
+
+1\. This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which three member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of Article 21.
+
+2\. In respect of any member State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
+
+Article 23
+
+1\. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council to accede to this Convention, by a decision taken by the majority provided for by Article 20.*d* of the Statute and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee.
+
+2\. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
+
+Article 24
+
+1\. Any State may at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
+
+2\. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt by the Secretary General of such declaration.
+
+3\. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
+
+Article 25
+
+1\. A State which has two or more territorial units in which different systems of law apply in matters of custody of children and of recognition and enforcement of decisions relating to custody may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that this Convention shall apply to all its territorial units or to one or more of them.
+
+2\. Such a State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territorial unit specified in the declaration. In respect of such territorial unit the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt by the Secretary General of such declaration.
+
+3\. Any declaration made under the two preceding paragraphs may, in respect of any territorial unit specified in such declaration, be withdrawn by notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
+
+Article 26
+
+1\. In relation to a State which has in matters of custody two or more systems of law of territorial application:
+
+*a*. reference to the law of a person's habitual residence or to the law of a person's nationality shall be construed as referring to the system of law determined by the rules in force in that State or, if there are no such rules, the system of law with which the person concerned is most closely connected;
+
+*b*. reference to the State of origin or to the State addressed shall be construed as referring, as the case may be, to the territorial unit where the decision was given or to the territorial unit where recognition or enforcement of the decision or restoration of custody is requested.
+
+2\. *Paragraph 1.a* of this Article also applies *mutatis mutandis* to States which have in matters of custody two or more systems of law of personal application.
+
+Article 27
+
+1\. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it avails itself of one or more of the reservations provided for in paragraph 3 of Article 6, Article 17 and Article 18 of this Convention. No other reservation may be made.
+
+2\. Any Contracting State which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.
+
+Article 28
+
+At the end of the third year following the date of the entry into force of this Convention and, on his own initiative, at any time after this date, the Secretary General of the Council of Europe shall invite the representatives of the central authorities appointed by the Contracting States to meet in order to study and to facilitate the functioning of the Convention. Any member State of the Council of Europe not being a party to the Convention may be represented by an observer. A report shall be prepared on the work of each of these meetings and forwarded to the Committee of Ministers of the Council of Europe for information.
+
+Article 29
+
+1\. Any Party may at any time denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
+
+2\. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
+
+Article 30
+
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention, of:
+
+*a*. any signature;
+
+*b*. the deposit of any instrument of ratification, acceptance, approval or accession;
+
+*c*. any date of entry into force of this Convention in accordance with Articles 22, 23, 24 and 25;
+
+*d*. any other act, notification or communication relating to this Convention.
+
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at Luxembourg, the 20th day of May 1980, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe and to any State invited to accede to this Convention.
+
+(Here follow signatures on behalf of certain States.)
+
+[^1]: 1 OJ L 178, 2.7.2019, p. 1

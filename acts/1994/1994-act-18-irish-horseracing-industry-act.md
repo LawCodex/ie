@@ -1,0 +1,2597 @@
+---
+title: "Irish Horseracing Industry Act, 1994"
+identifier: "eli/1994/act/18"
+type: act
+jurisdiction: ie
+language: en
+number: 18
+year: 1994
+date: 1994-07-10
+last_amended: 2026-02-05
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1994/act/18/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1994/act/18/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Irish Horseracing Industry Act, 1994
+
+AN ACT TO PROVIDE FOR THE IMPROVEMENT AND DEVELOPMENT OF THE HORSERACING INDUSTRY AND FOR THE BETTER CONTROL OF RACECOURSES AND FOR THIS AND OTHER PURPOSES TO ESTABLISH A BODY TO BE CALLED THE IRISH HORSERACING AUTHORITY, TO DEFINE ITS FUNCTIONS, TO MAKE PROVISION IN RELATION TO BOOKMAKERS ENGAGED IN COURSE BETTING AND TO IMPOSE LEVIES ON THEM IN RESPECT OF SUCH BETTING, TO ASSIGN FUNCTIONS TO THE IRISH TURF CLUB AND THE IRISH NATIONAL HUNT STEEPLECHASE COMMITTEE IN RELATION TO HORSERACING, TO DISSOLVE THE RACING BOARD AND TO TRANSFER ITS PROPERTIES, STAFF AND LIABILITIES TO THE IRISH HORSERACING AUTHORITY, TO DISSOLVE THE APPEAL COMMITTEE AND TO ESTABLISH A COMMITTEE TO BE CALLED THE BOOKMAKERS APPEAL COMMITTEE, TO REPEAL THE RACING BOARD AND RACECOURSES ACTS, 1945 AND 1975, TO AMEND AND EXTEND THE TOTALISATOR ACT, 1929, THE BETTING ACT, 1931, AND THE LICENSING ACTS, 1833 TO 1988, AND TO PROVIDE FOR CONNECTED MATTERS. [10*th July*, 1994]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Irish Horseracing Industry Act, 1994.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, save where the context otherwise requires—
+
+“the Act of 1945” means the Racing Board and Racecourses Act, 1945;
+
+“the Act of 1975” means the Racing Board and Racecourses (Amendment) Act, 1975;
+
+F1["Act of 2024" means the Gambling Regulation Act 2024;]
+
+“authorised bookmaker” means a licensed bookmaker who is the holder of a course-betting permit;
+
+“authorised officer” means a person appointed in writing by the Authority to be an authorised officer for the purposes of this Act;
+
+“authorised racecourse” means a racecourse including the precincts thereof authorised by the Authority under *section 59*;
+
+F7["betting intermediary" means a person who, in the course of business, provides facilities that enable persons to make bets with persons (other than the first-mentioned person);]
+
+F2["betting licence" has the same meaning as it has in the Act of 2024;]
+
+“betting office” means any premises at an authorised racecourse in which betting is permitted by regulations under *section 53*;
+
+“the chairman” means the chairman of the Authority;
+
+“the chief executive” means the chief officer of the Authority;
+
+“company” means—
+
+(*a*) a company within the meaning of the Companies Acts, 1963 to 1990, or
+
+(*b*) a body established under the laws of a state other than the State and corresponding to a body referred to in *paragraph (a)*;
+
+“company of the Authority” means a company established under *section 36*;
+
+“course bet” means a bet entered into by an authorised bookmaker at an authorised racecourse;
+
+“course-betting permit” means a permit granted by the Authority under *section 48 (1)*;
+
+“course-betting representative permit” means a permit granted by the Authority under *section 48 (2)*;
+
+“the establishment day” means the day appointed to be the establishment day for the purposes of this Act by the Minister under *section 3*;
+
+“executive”, in relation to a racecourse, means the person who owns or exercises control over that racecourse;
+
+“functions” includes powers and duties;
+
+F6["HRI" means Horse Racing Ireland established under section 5 of the Horse and Greyhound Racing Act, 2001;]
+
+F3["in-person and remote betting licence" has the same meaning as it has in the Act of 2024;]
+
+F4["in-person betting licence" has the same meaning as it has in the Act of 2024;]
+
+F9["integrity services" means those services operated by or on behalf of the Racing Regulatory Body for the purposes of enforcing discipline and ensuring that horses are run fairly and properly;]
+
+F8["jockeys" and "qualified riders" have the same meaning as in the Rules of Racing;]
+
+“levy” means levy payable under *section 54*;
+
+F12["licensed bookmaker" means a licensee (within the meaning of the Act of 2024) of an in-person betting licence or an in-person and remote betting licence for the time being in force under the Act of 2024 where that licence authorises the licensee to act as a bookmaker (within the meaning of section 3 (2) of the Act of 2024);]
+
+“licensed racecourse” means a racecourse which is licensed by the Racing Regulatory Body under the Rules of Racing;
+
+“the Minister” means the Minister for Agriculture, Food and Forestry;
+
+F5["pool betting" has the same meaning as it has in the Act of 2024;]
+
+“precincts”, in relation to an authorised racecourse, means any place (including a car-park) adjacent to the racecourse under the control of the executive of a racecourse to which the public habitually resort for the purpose of attending and watching horseracing;
+
+“prescribed” means prescribed by regulations made by the Authority under this Act;
+
+“racecourse authorisation” means an authorisation granted to a licensed racecourse by the Authority under *section 59*;
+
+“race-fixture” means the venue and the day of a race-meeting and where a race-meeting lasts for more than one day each day of the meeting shall be a separate race-fixture;
+
+“race-meeting” means a series of horseraces held at a racecourse;
+
+“race-programme” means the category, prizes, conditions and number of races at a race-fixture;
+
+F10["Racing Regulatory Body" means—
+
+(*a*) the Irish Turf Club, in relation to flat racing,
+
+(*b*) the Irish National Hunt Steeplechase Committee, in relation to national hunt racing, including point-to-point steeplechases, or
+
+(*c*) both, in relation to horseracing generally,
+
+and includes any limited company formed under the Companies Act 2014 by such body for the purpose of carrying out its functions under this Act;]
+
+F11["Rules of Racing" means, in relation to—
+
+(*a*) flat racing, the Rules of Racing as laid down by the Irish Turf Club,
+
+(*b*) national hunt racing, the Irish National Hunt Steeplechase Rules as laid down by the Irish National Hunt Steeplechase Committee, and
+
+(*c*) point-to-point steeplechases, the regulations for Point-to-Point Steeplechases issued by the Stewards of the Irish National Hunt Steeplechase Committee;]
+
+“starting price licence” means a licence granted by the Authority under *section 33*;
+
+“subsidiary” means—
+
+(*a*) in relation to the Racing Board, a racecourse established under section 14 of the Act of 1945, the Tote Investors (Ireland) Limited, or the Leopardstown Club Limited, and
+
+(*b*) in relation to the Authority, a company of the Authority, a racecourse established under *section 38*, or any subsidiary of the Racing Board transferred to the Authority by this Act;
+
+“superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
+
+F13["totalisator licence" means a betting licence to the extent that the licence authorises the licensee (within the meaning of the Act of 2024) of that licence to provide pool betting for an event, a series of events or a class of events;]
+
+(2) References however expressed in any enactment in force before the establishment day to an authorised racecourse under the Act of 1945 shall be construed on and after the establishment day as a reference to an authorised racecourse under this Act.
+
+(3) In this Act:
+
+(*a*) a reference to a section is a reference to a section of this Act unless it is indicated that reference to some other enactment is intended;
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+(4) In this Act a reference to any enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any subsequent enactment including this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5: Inserted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(a)(i), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+>
+> F6: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 1, S.I. No. 630 of 2001, art. 2.
+>
+> F7, F8: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 2(a), (b), S.I. No. 138 of 2016, art. 2.
+>
+> F9, F10, F11: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 2(b)-(d), S.I. No. 138 of 2016, art. 2.
+>
+> F12, F13: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(a)(ii), (iii), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+>
+> **Modifications (not altering text):**
+>
+> C1: Term "the Authority" construed (18.12.2001) *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 1, S.I. No. 630 of 2001, art. 2.
+>
+> Schedule
+>
+> Section 7
+>
+> Amendments to Act of 1994
+>
+> ...
+>
+> the Act of 1994 shall have effect as if each reference therein to the Authority were a reference to HRI.
+>
+> C2: Functions transferred and references to Minister construed (1.05.2010) by *Horse and Greyhound Racing (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 179 of 2010), arts. 2 and 3, in effect as per art. 1(2), subject to transitional provisions in art. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Agriculture, Fisheries and Food.
+>
+> (2) References to the Department of Arts, Sport and Tourism contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be read as references to the Department of Agriculture, Fisheries and Food.
+>
+> 3\. (1) The functions vested in the Minister for Arts, Sport and Tourism by or under — ...
+>
+> (*c*) the Irish Horseracing Industry Act 1994 (No. 18 of 1994),
+>
+> ...
+>
+> are transferred to the Minister for Agriculture, Fisheries and Food.
+>
+> (2) References to the Minister for Arts, Sport and Tourism contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be read as references to the Minister for Agriculture, Fisheries and Food.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: functions transferred (18.06.2002) by *Horse and Greyhound Racing (Transfer of Departmental Administration and Ministerial Functions) Order 2002* (S.I. No. 297 of 2002), arts. 3, 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; superseded as per C-note above.
+
+### 3. Establishment day.
+
+**3.**—The Minister may by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (1.12.1994) by *Irish Horseracing Industry Act 1994 (Establishment Day) Order 1994* (S.I. No. 391 of 1994).
+>
+> 2\. The 1st day of December, 1994, is hereby appointed as the establishment day for the purposes of the Irish Horseracing Industry Act, 1994 (No. 18 of 1994).
+
+### 4. Repeals.
+
+**4.**—The Act of 1945 and the Act of 1975 are hereby repealed on the establishment day.
+
+### 5. Prosecution of summary offences.
+
+**5.**—Proceedings in relation to a summary offence under this Act (other than *section 65 (5)* or *67 (2)* or *(3)*) may be brought and prosecuted by the Authority.
+
+### 6. Offences and penalties.
+
+**6.**—(1) A person who contravenes *section 14 (1), 15 (1), 16 (1), 17 (1), 47 (3), 48 (7), (18)* or *(19), 50 (3), 51 (3)* or *(4), 52, 53 (4), 55 (3), 57 (6), 60 (2), 62 (5), 65 (5)* or *67 (2)* or *(3)* shall be guilty of a summary offence.
+
+(2) A person who contravenes *section 33 (1), 47 (1), 54 (1)*, or *59 (6)* shall be guilty of an offence.
+
+(3) Where an offence under this Act is committed by a body corporate or by a person acting on behalf of a body corporate and is proved to have been so committed with the consent, connivance or approval of, or to have been facilitated by any neglect on the part of any director, manager, secretary or any other officer of such body, such person shall also be guilty of an offence.
+
+(4) A person guilty of an offence under this Act, shall be liable—
+
+F14[(*a*) on summary conviction, to a class A fine, or]
+
+(*b*) on conviction on indictment, to a fine not exceeding £100,000.
+
+(5) F15[...]
+
+(6) In this section, a reference to the contravention of a provision includes, where appropriate, a reference to a refusal or a failure, to comply with that provision.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 3(a), S.I. No. 138 of 2016, art. 2. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 3(1), S.I. No. 662 of 2010.
+>
+> F15: Deleted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 3(b), S.I. No. 138 of 2016, art. 2.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (5) amended (25.07.1999) *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 12(3), S.I. No. 211 of 1999, art. 2; subection deleted (9.03.2016) as per F-note above.
+
+### 7. Laying of orders and regulations before Houses of Oireachtas.
+
+**7.**—Every order or regulation made by the Minister (other than an order made under *section 3*, *54 (6)* or *68 (2)*) or regulation made by the Authority under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 8. Expenses of Minister.
+
+**8.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided for by the Oireachtas.
+
+## PART II — The Irish Horseracing Authority
+
+### 9. Establishment of Authority.
+
+**9.**—(1) On the establishment day there shall stand established a body to be known as the Irish Horseracing Authority to perform the functions conferred on it by this Act.
+
+(2) The provisions of the *Schedule* to this Act shall have effect with respect to the Authority.
+
+### 10. General functions of Authority.
+
+F16[**10.**—(1) The general functions of HRI are—
+
+(*a*) to provide for the overall administration, governance, development and promotion of the Irish horseracing industry, other than the functions of the Racing Regulatory Body set out in *section 39(1)*, including promoting and increasing attendance at authorised racecourses;
+
+(*b*) to provide a single structure for the administration and financial management of Irish horseracing.
+
+(2) The general functions of HRI include:
+
+(*a*) the processing of—
+
+(i) all charges, including the collection of licence fees for licences to be issued, and financial sanctions imposed, by the Racing Regulatory Body, imposed on participants in the horseracing industry, other than charges in respect of certifying of hunter certificates and the acceptance of horseracing entries and declarations for point-to-point steeplechases (which shall be paid to the organisers of the point-to-point steeplechases), and
+
+(ii) payments to participants in the horseracing industry;
+
+(*b*) the provision of registry office services including the following activities—
+
+(i) naming of horses, the issuing of horseracing passports and registration of matters relating to racehorses, including the registration of hunter certificates,
+
+(ii) horserace entries and declarations (other than point-to-point steeplechases),
+
+(iii) racing calendar publication,
+
+(iv) stakeholding of race entry funds and prize money for horseraces, and
+
+(v) registration of racehorse owners including racing colours;
+
+(*c*) the management of the development and promotion of the Irish horseracing industry (including the development of authorised racecourses, the guaranteeing of the costs of integrity services and prize money);
+
+(*d*) the promotion of the Irish thoroughbred horse;
+
+(*e*) representing Irish horseracing internationally in respect of its functions;
+
+(*f*) the provision of financial and other support, at its discretion, to—
+
+(i) maintain and improve the health and welfare status of the thoroughbred horse, and
+
+(ii) assist educational and other institutions and organisations in providing improved training and education facilities and courses for the thoroughbred horse industry to satisfy the training and educational needs of that industry at all levels;
+
+(*g*) the provision, at its discretion, of financial support for point-to-point steeplechases;
+
+(*h*) the making, at its discretion, of grants, loans or other disbursements to authorised racecourses;
+
+(*i*) the allocation of race-fixtures and the setting of race-programmes (other than point-to-point steeplechases);
+
+(*j*) the negotiation, in consultation with executives of authorised racecourses, of all income from media rights (within the meaning of section 10 (1) of the Horse and Greyhound Racing Act 2001);
+
+F17[(*k*) subject to the Act of 2024, the control of the operations of on course authorised bookmakers;]
+
+(*l*) the provision, maintenance to a specification agreed by HRI with the Racing Regulatory Body, and operation of mobile track equipment, including starting stalls, photo finish and camera patrol equipment and any other such equipment agreed from time to time between HRI and the Racing Regulatory Body and the provision to the Racing Regulatory Body of photographs, films, sound recordings and other connected materials or data generated by such equipment as required by the Racing Regulatory Body for its examination and use in the enforcement of the Rules of Racing;
+
+(*m*) the operation of racecourses which are owned or leased by HRI;
+
+(*n*) the management of any subsidiary of HRI;
+
+(*o*) the performance of any functions of the Racing Regulatory Body which may be transferred to HRI in the future by agreement of both parties and subject to the consent of the Minister.
+
+(3) HRI shall have all such powers as are necessary for or incidental to the performance of its functions under this Part and Part IV, including the power to issue directives setting protocols and procedures to carry out its functions under *subsections (1)* and *(2)*. Any such directives, protocols or procedures shall be published by HRI.
+
+(4) HRI shall provide such information in relation to the activities mentioned in *subsection (2)(a)*, *(b)*, *(c)*, *(i)*, *(k)* and *(l)* to the Racing Regulatory Body as is necessary for the Racing Regulatory Body to fulfil its statutory functions.
+
+(5) HRI shall consult with the Racing Regulatory Body before issuing any directive. HRI may dispense with such consultation where it considers there is an urgency to make the directive and shall inform the Racing Regulatory Body accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 5(1), S.I. No. 629 of 2016, art. 2.
+>
+> F17: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(b), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+
+### 10A. Incidental, etc. powers of Authority.
+
+F18[**10A.**—F19[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 2, S.I. No. 211 of 1999, art. 2.
+>
+> F19: Repealed (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 5(2)(a), S.I. No. 629 of 2016, art. 2.
+>
+> **Editorial Notes:**
+>
+> E4: The section heading is taken from the inserting section in the absence of one included in the amendment.
+
+### 11. Conferring of additional functions on Authority.
+
+**11.**—(1) The Minister may, with the consent of the Minister for Finance, by order—
+
+(*a*) confer on the Authority, in relation to the development and promotion of horseracing, such additional functions connected with the functions for the time being of the Authority or the services or activities that the Authority is authorised for the time being to provide or carry on (including functions of the Minister in relation to any directive, regulation or other act adopted by an institution of the European Communities in relation to horseracing) as the Minister considers appropriate, and
+
+(*b*) make such provision as he considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Authority of functions under this section or the performance by the Authority of functions so conferred (including provision for the transfer to the Authority of any property held by the Minister for the purposes of functions conferred on the Authority under this section).
+
+(2) The Minister may by order amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 12. Charges by Authority.
+
+**12.**—(1) The Authority may make such charges, as it considers necessary and appropriate in consideration of—
+
+(*a*) the performance by it of its functions,
+
+(*b*) the provision by it of any service,
+
+(*c*) the carrying on by it of any activities, and
+
+(*d*) the application for or the granting of any licence, permit or authorisation granted by it.
+
+(2) The Authority may recover as a simple contract debt in any Court of competent jurisdiction from any person by whom it is payable any amount due and owing under *subsection (1)*.
+
+### 13. Membership of either House of Oireachtas or of European Parliament by members or staff of Authority.
+
+**13.**—(1) Where a member of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or as a representative in the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to the European Parliament to fill a vacancy,
+
+he shall thereupon cease to be a member of Authority.
+
+(2) Where a person who is a member of the staff of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or as a representative in the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to the European Parliament to fill a vacancy,
+
+he shall thereupon stand seconded from employment by the Authority and shall not be paid by, or be entitled to receive from, the Authority any remuneration or allowances in respect of the period commencing on such nomination or election or when he is so regarded as having been elected, as the case may be, and ending when he ceases to be a member of either such House or a representative in such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or is a representative in the European Parliament shall, while he is so entitled or is such a representative, be disqualified from becoming a member of the Authority or the staff of the Authority.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, *inter alia*, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any superannuation benefits.
+
+### 14. Disclosure by members of Authority of interests.
+
+**14.**—(1) A member of the Authority who has any material or financial interest—
+
+(*a*) in any body corporate with which the Authority has made a contract or proposes to make any contract,
+
+(*b*) in any contract which the Authority has made or proposes to make, or
+
+(*c*) in any racecourse in relation to a racecourse authorisation,
+
+shall, at a meeting of the Authority where any of the foregoing matters have arisen—
+
+(i) disclose the fact of such interest and the nature thereof,
+
+(ii) absent himself from the meeting or that part of the meeting during which the matter is discussed,
+
+(iii) take no part in any deliberations of the Authority relating to the matter, and
+
+(iv) not vote on a decision relating to the matter.
+
+(2) Where an interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member of the Authority by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(3) Where at a meeting of the members of the Authority a question arises as to whether or not a course of conduct, if pursued by a member of the Authority, would constitute a failure by him to comply with the requirements of *subsection (1)*, the question may be determined by the chairman of the meeting whose decision shall be final and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(4) Where the Minister is satisfied that a member of the Authority has contravened *subsection (1)*, he may, if he thinks fit, remove that member from office and, in case a person is removed from office pursuant to this subsection, he shall thenceforth be disqualified from being a member of the Authority.
+
+### 15. Disclosure by directors of subsidiaries of interests.
+
+**15.**—(1) A director of a subsidiary of the Authority who has any material or financial interest—
+
+(*a*) in any body corporate with which the subsidiary has made a contract or proposes to make a contract, or
+
+(*b*) in any contract which the subsidiary has made or proposes to make,
+
+shall, at a meeting of the subsidiary where any of the foregoing matters have arisen—
+
+(i) disclose the fact of such interest and the nature thereof,
+
+(ii) absent himself from the meeting or that part of the meeting during which the matter is discussed,
+
+(iii) take no part in any deliberations of the subsidiary relating to the matter, and
+
+(iv) not vote on any decision relating to the matter.
+
+(2) Where an interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the director by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(3) Where at a meeting of the directors of a subsidiary of the Authority a question arises as to whether or not a course of conduct, if pursued by a director of the subsidiary, would constitute a failure by him to comply with the requirements of *subsection (1)*, the question may be determined by the chairman of the meeting whose decision shall be final and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(4) Where the Minister is satisfied that a director has contravened *subsection (1)*, he may, if he thinks fit, direct the Authority to remove that director from office and, in case a person is removed from office pursuant to this subsection, he shall thenceforth be disqualified from being a director of the subsidiary.
+
+(5) Section 194 of the Companies Act, 1963, shall not apply to a director of a subsidiary of the Authority.
+
+### 16. Disclosure by members of staff of certain interests.
+
+**16.**—(1) Where a member of the staff of the Authority or a subsidiary of the Authority has an interest, otherwise than in his capacity as such a member, in any contract, agreement or arrangement, or proposed contract, agreement or arrangement, to which the company or the subsidiary is a party, he shall—
+
+(i) disclose to the Authority or the subsidiary, as the case may be, his interest and the nature thereof,
+
+(ii) take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by directors or members of the staff of the company or the subsidiary in relation thereto, and
+
+(iii) make no recommendation in relation to the contract, agreement or arrangement.
+
+(2) *Subsection (1)* does not apply to contracts, or proposed contracts, of employment of members of the staff of the Authority with the Authority or of a subsidiary of the Authority with the subsidiary.
+
+### 17. Prohibition on unauthorised disclosure of information.
+
+**17.**—(1) A person shall not disclose confidential information obtained by him while performing duties as—
+
+(*a*) a member of the Authority or a member of the staff of the Authority or an adviser or consultant to the Authority, or
+
+(*b*) a director or a member of the staff of, or an adviser or consultant to a subsidiary of the Authority, or
+
+(*c*) a member of a committee established under this Act,
+
+unless he is duly authorised by the Authority or the subsidiary, as the case may be, or by a member of the staff of the Authority or the subsidiary, as the case may be, duly authorised in that behalf, to do so.
+
+(2) In this section “confidential” means that which is expressed by the company or the subsidiary concerned, as the case may be, to be confidential either as regards particular information or as regards information of a particular class or description.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.**—(1) A head shall refuse to grant an FOI request if—
+>
+> (*a*) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of Part 1 or 2 of Schedule 3 of an enactment specified in that Schedule), or
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Enactments Excluded from Application of *Section 41*
+>
+> PART I
+>
+> Statutes
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Section 17.</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: certain functions under section excluded from obligation to refuse an FOI request (21.4.1998) by *Freedom of Information Act 1997* (13/1997), s. 32 and sch. 3 part 1, commenced as per s. 1(2); repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+
+### 18. Committees.
+
+**18.**—(1) The Authority may establish committees to assist and advise it in relation to the performance of any of its functions.
+
+(2) The Authority may delegate to a committee any of its functions which, in its opinion, can be better or more conveniently exercised or performed by a committee.
+
+(3) The Authority shall decide the terms of reference for any committee and may regulate the procedure of any such committee.
+
+(4) The members of a committee shall be appointed by the Authority.
+
+(5) A committee shall consist of such number of members as the Authority thinks proper.
+
+(6) A committee may include persons who are not members of the Authority.
+
+(7) A member of a committee who fails to perform his functions may be removed at any time by the Authority.
+
+(8) The Authority may at any time dissolve a committee.
+
+(9) The Authority may appoint a person to be chairman of a committee.
+
+(10) The acts of a committee shall be subject to confirmation by the Authority save where it dispenses with the necessity for such confirmation.
+
+(11) There shall be paid out of the income of the Authority to members of a committee such allowances for expenses incurred by them in the discharge of their functions as the Authority may determine with the consent of the Minister and the Minister for Finance.
+
+(12) In this section “a committee” means a committee of the Authority established under this section.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 19. Race-fixtures committee
+
+F20[**19.**—(1) The committee ("race-fixtures committee") established by HRI to recommend the fixing of the annual list of race-fixtures to HRI other than point-to-point steeplechases continues in being.
+
+(2) The race-fixtures committee, when considering race-fixtures for a racecourse, shall, before recommending the removal of any existing fixture from that racecourse, consult with the executive of the racecourse concerned and seek to agree with such executive how such removal may be achieved having regard to the economic importance of the fixture to that racecourse, in the context of the best interests of the horseracing industry.
+
+(3) The chairman of the race-fixtures committee shall report to HRI on the activities of the race-fixtures committee.
+
+(4) The race-fixtures committee shall have not more than 5 members (including a chairman) and shall include at least one representative from the Racing Regulatory Body and one from authorised racecourses with such other members that HRI considers appropriate.
+
+(5) The chairman of the race-fixtures committee shall be appointed by HRI.
+
+(6) The membership of the race-fixtures committee shall be limited to members of HRI.
+
+(7) A member of the race-fixtures committee who fails to perform his or her functions may be removed at any time by HRI.
+
+(8) HRI may regulate the procedure of the race-fixtures committee.
+
+(9) There shall be paid out of the income of HRI to members of the race-fixtures committee such allowances for expenses (if any) incurred by them in the discharge of their functions as HRI may determine with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(10) The secretariat and the executive functions in serving the work of the race-fixtures committee shall be provided by HRI.
+
+(11) HRI shall not be bound by any recommendation of the race-fixture committee and the final decision as to a race-fixture shall be taken by HRI.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 6(1), S.I. No. 138 of 2016, art. 2.
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: subs. (1A) inserted, subs. (2)(a), (b) amended and subs. (4) deleted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 2(a)-(c), S.I. No. 630 of 2001, art. 2; substituted (9.03.2016) as per F-note above.
+
+### 20. Race-programme committee.
+
+**20.**—The Authority shall, after consultation with the Racing Regulatory Body, establish a committee (“the race-programme committee”) to determine the race-programme for all race-fixtures.
+
+### F21[20A. Industry services committee.
+
+**20A.**— (1) HRI shall establish a committee ("industry services committee") to identify and improve the requirements of those employed in the industry and represent the interests of such workers.
+
+(2) The chairman of the industry services committee shall report to HRI on the activities of the committee.
+
+(3) The industry services committee shall have not more than 5 members (including a chairman) who shall represent the interests of—
+
+(*a*) jockeys and qualified riders,
+
+(*b*) persons (other than stable staff) employed in the horseracing industry, and
+
+(*c*) stable staff.
+
+(4) HRI shall, having consulted with the industry services sector, determine the constituencies and method of election of members of the industry services committee.
+
+(5) The industry services committee shall elect a chairman from among the committee members.
+
+(6) The term of office of an ordinary member of the industry services committee shall be 4 years and no member shall serve for more than 2 consecutive terms.
+
+(7) The industry services committee may include persons who are not members of HRI.
+
+(8) A member of the industry services committee who fails to perform his or her functions may be removed at any time by HRI.
+
+(9) There shall be paid out of the income of HRI to members of the industry services committee such allowances for expenses (if any) incurred by them in the discharge of their functions as HRI may determine with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(10) HRI may regulate the procedure of the industry services committee.
+
+(11) The secretariat and the executive functions relating to the work of the industry services committee shall be provided by HRI.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 6(2), S.I. No. 138 of 2016, art. 2.
+
+### F22[20B. Betting committee
+
+**20B.**—(1) HRI shall establish a committee ("betting committee") to identify and improve the requirements of the betting sector generally.
+
+(2) The chairman of the betting committee shall report to HRI on the activities of the committee.
+
+(3) The betting committee shall have no more than 5 members (including a chairman) and members shall represent the interests of—
+
+(*a*) on-course betting operators,
+
+(*b*) off-course betting operators, and
+
+(*c*) betting intermediaries,
+
+licensed for such activities.
+
+(4) HRI shall, having consulted with the betting sector, determine the constituencies and method of election of members of the betting committee.
+
+(5) The betting committee shall elect a chairman from among the committee members.
+
+(6) The term of office of an ordinary member of the betting committee shall be 4 years and no member shall serve more than 2 consecutive terms.
+
+(7) The betting committee may include persons who are not members of HRI.
+
+(8) A member of the betting committee who fails to perform his or her functions may be removed at any time by HRI.
+
+(9) There shall be paid out of the income of HRI to members of the betting committee such allowances for expenses (if any) incurred by them in the discharge of their functions as HRI may determine with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(10) HRI may regulate the procedure of the betting committee.
+
+(11) The secretariat and the executive functions relating to the work of the betting committee shall be provided by HRI.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 6(2), S.I. No. 138 of 2016, art. 2.
+
+### 21. Chief executive.
+
+**21.**—(1) There shall be a chief officer of the Authority who shall be known, and is referred to in this Act, as the chief executive.
+
+(2) The chief executive shall carry on and manage and control generally the administration and business of the Authority, advise the Authority in relation to the performance of its functions and perform such other functions as may be determined by the Authority.
+
+(3) The chief executive shall hold office on and subject to such terms and conditions (including terms and conditions relating to remuneration) as may be approved of by the Authority with the consent of the Minister and the Minister for Finance.
+
+(4) The chief executive shall be paid, out of moneys at the disposal of the Authority, such allowances for expenses incurred by him in the performance of his functions as may be determined by the Authority with the consent of the Minister and the Minister for Finance.
+
+(5) The chief executive shall be appointed, and may be removed from office at any time where he fails to perform his functions satisfactorily, by the Authority.
+
+(6) The chief executive shall devote the whole of his time to the duties as chief executive and shall not hold any other office or position without the consent of the Authority.
+
+(7) The chief executive may make proposals to the Authority on any matter relating to its activities.
+
+### 22. Staff of Authority.
+
+**22.**—(1) The Authority may appoint such and such number of persons to be members of the staff of the Authority as it may determine.
+
+(2) There shall be paid by the Authority to its officers and employees such remuneration and allowances for expenses as the Authority thinks fit.
+
+(3) In determining the remuneration or allowances for expenses to be paid to its officers or employees or the terms or conditions subject to which such officers or employees hold or are to hold their employment, the Authority shall have regard either to Government or nationally agreed guidelines which are for the time being extant, or to Government policy concerning remuneration and conditions of employment which is so extant, and, in addition to the foregoing, the Authority shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give from time to time to the Authority with the consent of the Minister for Finance.
+
+(4) The grades of the staff of the Authority, and the number of staff in each grade, shall be determined by the Authority.
+
+(5) The Authority may at any time remove any officer or employee of the Authority from being its officer or employee where that officer or employee fails to perform his functions satisfactorily.
+
+(6) The Authority may perform any of its functions through or by the chief executive or any other member of its staff duly authorised by the Authority in that behalf.
+
+(7) A person accepted into the employment of the Authority under *section 75* or appointed to the Authority under this section may be seconded from time to time to serve with a subsidiary of the Authority.
+
+(8) Every member of the staff of the Authority seconded under *subsection (7)* shall continue to be a member of the staff of the Authority, but shall, while so seconded, be subject to the direction of the subsidiary of the Authority to which the member is seconded in its day to day operations, subject to such arrangements as may be made between the Authority and that company or racecourse, as the case may be.
+
+### 23. Superannuation of staff of Authority.
+
+**23.**—F23[(1) HRI shall, with the consent of the Minister and the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of persons—
+
+(*a*) appointed to positions on the staff of HRI, or
+
+(*b*) transferred under section 27 of the Horse and Greyhound Racing Act, 2001, to HRI or a subsidiary of HRI and who—
+
+(i) immediately before the establishment of HRI, were members of the staff of the Irish Horseracing Authority or a subsidiary of it and members of a superannuation scheme made by the Irish Horseracing Authority, or
+
+(ii) immediately before the commencement of section 8 of the Horse and Greyhound Racing Act, 2001, were members of the staff of the Racing Regulatory Body and members of a superannuation scheme made by the Racing Regulatory Body.]
+
+(2) A scheme under *subsection (1)* shall fix the time and conditions of retirement for all persons (including the chief executive) to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) The Authority may, with the consent of the Minister and the Minister of Finance, make a scheme amending or revoking a scheme under this section including a scheme under this subsection.
+
+(4) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefits payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, whose decision shall be final.
+
+(5) No superannuation benefits shall be granted by the Authority on the resignation, retirement or death of persons (including the chief executive) who are members of a scheme under this section, nor shall any other arrangement be entered into for the provision of superannuation benefits to such persons on ceasing to hold office, other than in accordance with such scheme or schemes under this section.
+
+(6) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+F24[(7) Superannuation benefits granted under schemes under this section to persons who—
+
+(*a*) immediately before the establishment of HRI, were members of the staff of the Irish Horseracing Authority or a subsidiary of it, or
+
+(*b*) immediately before the commencement of section 8 of the Horse and Greyhound Racing Act, 2001, were members of the staff of the Racing Regulatory Body,
+
+and the terms and conditions relating to those benefits shall not be less favourable to those persons than those to which they were entitled before that establishment or commencement, as the case may be.]
+
+(8) Where in the period beginning on the establishment day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who has transferred to the staff of F25[HRI or its subsidiaries under section 27 of the Horse and Greyhound Racing Act, 2001], the benefit shall be calculated and paid by the Authority in accordance with the scheme or such enactments in relation to superannuation as applied to the person immediately before the establishment day and, for that purpose, his pensionable service with the Authority or its subsidiary shall be aggregated with his previous pensionable service.
+
+(9) A scheme submitted by the Authority under this section, shall, if approved of by the Minister with the consent of the Minister for Finance, be carried out by the Authority in accordance with its terms.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23, F24, F25: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 3(a)-(c), S.I. No. 630 of 2001, art. 2.
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 24. Premises of Authority.
+
+**24.**—(1) The Authority may for the purposes of providing premises necessary for the due performance of its functions—
+
+(*a*) purchase or take on lease any land,
+
+(*b*) build, equip and maintain offices and premises.
+
+(2) The Authority may sell or lease any land, offices or premises held by it which are no longer required for the due performance of its functions.
+
+### 25. Application of funds of Authority.
+
+**25.**—The Authority may apply its funds for all or any of the following purposes, that is to say—
+
+(*a*) the payment of expenses incurred by it in the exercise and performance of its functions under this Act,
+
+(*b*) the payment of any moneys in accordance with the terms of any totalisator licence held by the Authority or a company of the Authority,
+
+(*c*) the making of payments, grants or loans for all or any one or more of the following purposes—
+
+(i) the provision of stake-money and prizes at horse races held at authorised racecourses,
+
+(ii) the reduction or subsidisation of entrance fees and similar charges in respect of such horse races,
+
+(iii) the carriage of horses competing at race-fixtures,
+
+(iv) the reduction or subsidisation of the charges to the public for admission to authorised racecourses,
+
+F26[(v) the improvement of authorised racecourses and the amenities thereof, and in so doing may use a graded system of grant rates and may make—
+
+(I) grants of up to 100 per cent. of the cost of projects involving essential non-revenue enhancing works such as health and safety measures, and
+
+(II) grants of lower rates in respect of other development work,]
+
+(vi) any other purpose, conducive to the improvement of horseracing,
+
+(vii) any purpose, conducive to the improvement of the breeding of horses or to the development of the export trade in horses,
+
+and the Authority may attach to any payment, grant or loan so made or proposed to be made by it such conditions as the Authority thinks proper.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 4, S.I. No. 630 of 2001, art. 2.
+
+### 26. Prize money.
+
+F27[**26.**—(1) HRI shall, in respect of each horserace at a race-fixture at an authorised racecourse, approve the amount and form of any prize offered and, where the prize is in monetary form, make such deductions, as it sees fit, from the prize money in accordance with a directive of HRI under *section 10(3)*.
+
+(2) HRI shall not alter a directive referred to in *subsection (1)* affecting trusts or charitable funds extant on the commencement of section 7 of the Horse Racing Ireland Act 2016, however so administered without the agreement of the person administering the trust or the fund.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 7, S.I. No. 138 of 2016, art. 2.
+>
+> **Editorial Notes:**
+>
+> E7: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 27. Advances by Minister to Authority.
+
+**27.**—The Minister may from time to time, with the consent of the Minister for Finance, advance to the Authority out of moneys provided by the Oireachtas, such sums as the Minister may determine for the purpose of expenditure by the Authority in the performance of its functions.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 28. Accounts and audits of Authority.
+
+**28.**—(1) The Authority (and any subsidiary of the Authority) shall keep in such form as may be approved of by the Minister all proper and usual accounts of all moneys received or expended by it including a profit and loss account, a balance sheet and a cash flow statement in relation to its functions under this Act.
+
+F28[(2) Accounts kept in pursuance of this section shall be submitted not later than 3 months after the end of the financial year to which they relate by HRI to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account, the balance sheet and such other (if any) accounts kept pursuant to this section as the Minister, after consultation with the Minister for Finance, may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.]
+
+F29[(3) The chief executive shall, whenever required to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which HRI is required by this Act to prepare,
+
+(*b*) the economy and efficiency of HRI in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by HRI for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting HRI referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act, 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éreann.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (2.07.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 13, commenced on enactment.
+>
+> F29: Inserted (2.07.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 13, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 29. Reports to Minister by Authority.
+
+**29.**—(1) As soon as may be after the end of the accounting year of the Authority in which F30[the day of the establishment of HRI] falls and of each subsequent accounting year of the Authority, the Authority shall present a report to the Minister of its activities in that year and the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+(2) The Authority (or any subsidiary of the Authority) shall, whenever so requested by the Minister, furnish to him information in relation to such matters as he may specify concerning or relating to the scope of its activities, or its strategy, generally or in respect of any account prepared by the Authority or any report specified in *subsection (1)* or the policy and activities, other than day to day activities, of the Authority.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 5, S.I. No. 630 of 2001, art. 2.
+
+### 29A. Compliance by HRI with State Bodies Code of Practice, etc.
+
+F31[**29A.**—(1) HRI (or a subsidiary of HRI) shall, whenever so requested by the Minister, furnish to him or her, information in relation to such matters as he or she may specify concerning, or relating to, the scope of its activities (including its compliance with the Code of Practice for the Governance of State Bodies issued by the Minister for Public Expenditure and Reform or other such codes or policy documents that may issue from time to time by a member of the Government), or its strategy, generally or in respect of any account prepared by HRI or any report specified in *section 29(1)* or the policy and activities, other than day to day activities, of HRI.
+
+(2) The Minister may give a direction to HRI in relation to its compliance with a code or policy document referred to in *subsection (1)*.
+
+(3) The Minister may require HRI and the Racing Regulatory Body to agree procedures to ensure compliance with Government codes of practice, guidelines and policy documents and provision of financial and other information in relation to any matter funded by HRI.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 8, S.I. No. 629 of 2016, art. 2.
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 30. Borrowing by Authority.
+
+**30.**—The Authority or any subsidiary of it may, for the purpose of providing for current or capital expenditure, from time to time borrow money (whether on the security of the assets of the Authority or otherwise), including money in a currency other than the currency of the State but shall not do so without the consent of the Minister and the Minister for Finance.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C10: Certain functions under section transferred to Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9, 20 and sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.**— …
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20.**— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> *Sections 9 and 20*
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Section 30</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> ...
+
+### 31. Gifts.
+
+**31.**—(1) The Authority may accept gifts of money, land or other property upon such trusts or conditions (if any) as may be specified by the donor.
+
+(2) The Authority shall not accept a gift if the trusts or conditions attached to it would be inconsistent with its functions.
+
+### 32. Investments, joint ventures, etc.
+
+**32.**—The Authority or any of its subsidiaries may, as it sees fit—
+
+(*a*) invest its funds in any lawful manner, or
+
+(*b*) with the consent of the Minister and the Minister for Finance and subject to any conditions of either of those Ministers enter into joint ventures or partnerships with other persons,
+
+for the benefit of Irish horseracing.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C11: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 33. Starting price.
+
+**33.**—(1) A person shall not determine or disseminate the starting price on any horse race at a race-fixture at an authorised racecourse save under and in accordance with a starting price licence.
+
+(2) The Authority shall, subject to this section, grant a starting price licence, subject to such conditions or restrictions as it sees fit, to a person who is acceptable to it and is nominated by the executive of an authorised racecourse or a body representing authorised racecourses to determine and disseminate the starting price in respect of horse races—
+
+(*a*) in the case of a nomination by the executive of an authorised racecourse, at race-fixtures at its racecourse, or
+
+(*b*) in the case of a nomination by a body representing authorised racecourses, at race-fixtures at any or all racecourses which that body represents.
+
+(3) It shall be a condition of a starting price licence that the person who makes the nomination under *subsection (2)* shall not have any involvement in the determination or dissemination of the starting price or any property rights in relation to the starting price to which the licence relates.
+
+(4) In the absence of a nomination acceptable to the Authority under *subsection (2)*, the Authority may grant to another person a starting price licence, subject to such conditions or restrictions as it sees fit, to determine and disseminate the starting price in respect of horse races at race-fixtures at any racecourse specified in the licence in respect of which a starting price licence has not been granted under *subsection (2)*.
+
+(5) There shall be not more than one starting price determined for the purposes of dissemination in respect of any particular horse in any horse race at a race-fixture.
+
+(6) The Authority may, in order to protect the integrity of the starting price return—
+
+(*a*) restrict who may be granted a starting price licence, or
+
+(*b*) limit the number of starting price licences.
+
+(7) A starting price licence shall be in force for such period as the Authority may decide and in order to protect the integrity of the starting price return different licences may be in force for different periods.
+
+(8) The Authority may, in order to protect the integrity of the starting price return, revoke or suspend for such period as it thinks fit a starting price licence.
+
+### 34. Authority or company of Authority may hold and operate totalisator licence.
+
+F32[**34.**— The Authority or, with the consent of the Authority, a company of the Authority may—
+
+(*a*) apply for and hold a totalisator licence, and
+
+(*b*) provide pool betting pursuant to the licence in accordance with the Act of 2024 and, where the pool betting is provided from one or more premises specified in the licence under section 114 (2) or 115 (3) of that Act, provide the pool betting in such place or places on the premises as it thinks fit.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(c), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+
+### 35. Company of Authority may hold and operate bookmakers licence.
+
+**35.**—A company of the Authority established for the sole purpose of carrying on the business of bookmaker may apply for and hold F33[an in-person betting licence or an in-person and remote betting licence that authorises the licensee of the licence to act as a bookmaker (within the meaning of section 3 (2) of the Act of 2024)].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Inserted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(d), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+
+### 36. Establishment of companies by Authority.
+
+**36.**—F34[(1) HRI may, either by itself or with another person, with the consent of the Minister and the Minister for Public Expenditure and Reform, and subject to any conditions of either of those Ministers, establish or take part in the establishment of a company to perform any of the functions conferred upon it by this Act.]
+
+(2) The Authority may exercise total or partial control of the board of directors, by whatever name called, of a company of the Authority that controls or manages the company.
+
+(3) The memorandum and articles of association of a company of the Authority shall be in such form consistent with this Act as may be approved of by the Authority.
+
+(4) A company of the Authority shall make such reports and in such manner to the Authority as it may require.
+
+(5) A company of the Authority may enter into joint ventures with other persons.
+
+(6) The chief officer of a company of the Authority shall hold office on and subject to such terms and conditions (including terms and conditions relating to remuneration) as may be approved of by the board of directors (or other authority, by whatever name called, that controls any such company) with the consent of the Minister and the Minister for Finance.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 10, S.I. No. 138 of 2016, art. 2.
+>
+> **Modifications (not altering text):**
+>
+> C12: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 37. Authority may acquire, etc., shares in, and become member of, company.
+
+**37.**—The Authority may, with the consent of the Minister and the Minister for Finance, acquire, hold and dispose of shares or other interests in a company and become a member of a company.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C13: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 38. Authority may establish, etc., racecourses.
+
+**38.**—(1) The Authority may, after giving notice to the executives of all authorised racecourses, establish or lease and operate, racecourses.
+
+(2) The Authority may maintain, equip and develop any racecourse established or leased by it under this section.
+
+(3) A racecourse established or leased by the Authority under this section may be operated and maintained by a company of the Authority.
+
+(4) The Authority may organise and hold race-meetings at any racecourse operated or maintained by or on behalf of it under this section.
+
+(5) The Authority may sell or lease any racecourse established under this section.
+
+(6) Any racecourse established under section 14 of the Act of 1945 which is in being immediately before the establishment day shall on that day continue in being as if established under this section.
+
+### 38A. Thoroughbred foal levy.
+
+F35[**38A.**—(1) There may be charged and levied by the Authority in each year beginning with such year as may be prescribed, with the consent of the Minister, a levy (referred to subsequently in this section as "levy") on all thoroughbred foals registered in a stud-book.
+
+F36[(2) Levy shall be paid by the owner or keeper (acting as an agent of the owner) of a thoroughbred foal born in the State in advance of registering the foal in a stud-book in the State.]
+
+F37[(2A) A person who maintains a stud-book may refuse to register a foal until the owner or keeper (acting as an agent of the owner) of the foal is able to provide proof that levy has been paid.]
+
+(3) Levy shall be paid to the Authority at such time and in such manner as may be prescribed.
+
+(4) Subject to *subsection (5)*, the rate or scale of rates of levy in each year shall be such rate or rates as may be prescribed with the consent of the Minister.
+
+(5) Any rate prescribed under *subsection (4)* shall not be more than £1,000.
+
+(6) The Authority may enter into arrangements with another person who maintains a stud-book for the collection and recovery of levy.
+
+(7) The Authority may recover as a simple contract debt in any court of competent jurisdiction levy from any person by whom it is payable.
+
+(8) The proceeds of levy shall be expended on the basis of a programme for the benefit of horse breeders to be decided by the Authority after consultation with any person which the Authority considers to be representative of horse breeders.
+
+(9) In this section "stud-book" means a stud-book maintained by a body approved under the European Communities (Equine Stud-Book and Competition) Regulations, 1993 (S.I. No. 305 of 1993).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 5, S.I. No. 211 of 1999, art. 2.
+>
+> F36: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 9, S.I. No. 138 of 2016, art. 2.
+>
+> F37: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 9, S.I. No. 138 of 2016, art. 2.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (1.01.2012) by *Thoroughbred Foal Levy Regulations 2011* (S.I. No. 735 of 2011), in effect as per 1(2).
+>
+> E10: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (1.01.2008) by *Thoroughbred Foal Levy Regulations 2007* (S.I. No. 853 of 2007), in effect as per 1(2); revoked (1.01.2012) *Thoroughbred Foal Levy Regulations 2011* (S.I. No. 735 of 2011), reg. 4, in effect as per reg. 1(2).
+>
+> E12: Previous affecting provision: power pursuant to section exercised (1.01.2007) *Thoroughbred Foal Levy Regulations 2006* (S.I. No. 650 of 2006), in effect as per. 1(2); revoked (1.01.2008) by *Thoroughbred Foal Levy Regulations 2007* (S.I. No. 853 of 2007), reg. 5, in effect as per reg. 1(2).
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Thoroughbred Foal Levy Regulations 2005* (S.I. No. 826 of 2005), in effect as per reg. 1(2); revoked (1.01.2007) by *Thoroughbred Foal Levy Regulations 2006* (S.I. No. 650 of 2006), reg. 5, in effect as per reg. 1(2).
+>
+> E14: Previous affecting provision: power pursuant to section exercised (1.01.2004) by *Thoroughbred Foal Levy (Amendment) Regulations 2004* (S.I. No. 173 of 2004), in effect as per reg. 1(b); revoked (1.01.2006) by *Thoroughbred Foal Levy Regulations 2005* (S.I. No. 826 of 2005), reg. 5(b), in effect as per reg. 1(2).
+>
+> E15: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Thoroughbred Foal Levy Regulations 2000* (S.I. No. 178 of 2000), in effect as per reg. 1(b); revoked (1.01.2006) by *Thoroughbred Foal Levy Regulations 2005* (S.I. No. 826 of 2005), reg. 5(a), in effect as per reg. 1(2).
+
+## PART III — The Racing Regulatory Body
+
+### 39. Racing Regulatory Body.
+
+**39.**—F38[(1) The Racing Regulatory Body continues in being and the general functions of that Body shall, for the purposes of this Act, be—
+
+(*a*) to be solely and independently responsible for the making and enforcing of the Rules of Racing,
+
+(*b*) to provide adequate integrity services to horseracing,
+
+(*c*) to ensure the provision of on-course integrity services by employing, monitoring and controlling the activities of horseracing officials, including the following—
+
+(i) inspectors of courses,
+
+(ii) clerks of the courses,
+
+(iii) clerks of scales,
+
+(iv) handicappers,
+
+(v) starters,
+
+(vi) judges,
+
+(vii) veterinary officers,
+
+(viii) medical officers,
+
+(ix) security officers,
+
+(x) stewards’ secretaries,
+
+(xi) veterinary assistants, and
+
+(xii) senior racing officials,
+
+(*d*) upon payment to HRI of the appropriate licence fee, to license racecourses, under the Rules of Racing and all participants in racing, including all classes of trainers, jockeys, jockeys’ valets, jockeys’ agents and stablestaff,
+
+(*e*) to set charges for licences, registration of hunter certificates and participation in point-to-point steeplechases, in consultation with HRI, and in so doing to have regard to the annual budget agreed under *section 42*,]
+
+F39[(*f*) to make all decisions relating to doping control, forensics and handicapping in respect of horseracing,
+
+(*g*) to be responsible for the representation of Irish horseracing internationally in respect of its functions under this Act,
+
+(*h*) to develop codes of practice and assurance schemes for matters within its functions under this Act, and
+
+(*i*) to maintain the existing nature of point-to-point steeplechases, including making and enforcing the Irish National Hunt Steeplechase Regulations for point-to-point steeplechase as made by the Stewards of the Irish National Hunt Steeplechase Committee).]
+
+F40[(2) Nothing in this section shall prevent the transfer of any functions specified in *subsection (1)* to HRI in accordance with paragraph (f) of section 8(1) of the Horse and Greyhound Racing Act, 2001.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Substituted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 11(1), S.I. No. 629 of 2016, art. 2.
+>
+> F39: Inserted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 11(1), S.I. No. 629 of 2016, art. 2.
+>
+> F40: Inserted (1.05.2002) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 6(b), S.I. No. 185 of 2002, art. 2.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: paras. (a)-(d) substituted (1.05.2002) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 6(a), S.I. No. 185 of 2002, art. 2; substituted (1.01.2017) as per F-note above.
+>
+> E17: Previous affecting provision: section renumbered as s. 39(1) (1.05.2002) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 6(b), S.I. No. 185 of 2002, art. 2; subs. (1) substituted and inserted (1.01.2017) as per F-notes above.
+
+### F41[39A. Accounts, etc. of Racing Regulatory Body
+
+**39A.** (1) The Racing Regulatory Body shall keep all proper and usual accounts of all moneys received or expended by it including a profit and loss account, a balance sheet and a cash flow statement in relation to its functions under this Act.
+
+(2) Accounts kept in pursuance of this section shall be submitted not later than 3 months after the end of the financial year to which they relate by the Racing Regulatory Body to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account, the balance sheet and such other (if any) accounts kept pursuant to this section as the Minister, after consultation with the Minister for Public Expenditure and Reform, may direct and a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+
+(3) The chief executive of the Racing Regulatory Body or a person acting in such a capacity shall, whenever required to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the Racing Regulatory Body is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Racing Regulatory Body in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Racing Regulatory Body for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Racing Regulatory Body referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(4) The Racing Regulatory Body shall, whenever so requested by the Minister, furnish to him or her information in relation to such matters as he or she may specify concerning or relating to the scope of its activities under this Act (including its compliance with such codes or policy documents that may issue from time to time by a member of the Government) or its strategy, generally or in respect of any account prepared by it under *subsection (1)* or the policy and activities, other than day to day provision of integrity services.
+
+(5) The Racing Regulatory Body shall whenever requested by HRI, furnish information in relation to its functions under *section 39* (including such information in relation to its income derived from its functions in order to assist HRI in determining annual budget requirements) as is specified in the request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.01.2019) by *Horse Racing Ireland Act 2016* (2/2016), s. 12, S.I. No. 640 of 2018, art. 2.
+>
+> **Editorial Notes:**
+>
+> E18: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 40. Charges by Racing Regulatory Body.
+
+**40.**—(1) Subject to *sections 41 (1)* and *42*, the Racing Regulatory Body may make such charges as it considers necessary to enable it to perform any of its functions or to provide any of its services.
+
+(2) The Racing Regulatory Body may recover as a simple contract debt in any court of competent jurisdiction from any person from whom it is payable any amount due and owing under this section.
+
+### 41. Funds of Racing Regulatory Body.
+
+F42[**41.**—Funds held by the Racing Regulatory Body in individual client accounts including all supporting assets and liabilities in respect of the functions to be transferred to HRI under section 8 of the Horse and Greyhound Racing Act, 2001, shall be transferred to HRI on the commencement of that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 7, S.I. No. 630 of 2001, art. 2.
+
+### 42. Costs of integrity services.
+
+**42.**—F43[(1)]The costs of integrity services provided by the Racing Regulatory Body shall be guaranteed by the Authority on the basis that the budget prepared by the Racing Regulatory Body of the costs of such services shall be submitted to and agreed annually with the Authority and the guarantee shall be limited to the amount of the costs of integrity services contained in the agreed budget.
+
+F44[(2) If in respect of the costs of integrity services in any particular year, agreement is not reached between HRI and the Racing Regulatory Body on the budget—
+
+(*a*) they may agree to the appointment of one expert or group of persons or consultancy to arbitrate on the cost of the provision of those services for that year and the decision of the expert or group or consultancy shall be final and binding on both parties, or
+
+(*b*) in case they fail to agree to any such appointment to arbitrate on that cost, the Minister may appoint a person to so arbitrate and the decision of that person shall be final and binding on both parties.]
+
+F45[(3) HRI shall account for and pay, without undue delay or any set off, counterclaim or deduction, to the Racing Regulatory Body any funds received by it—
+
+(*a*) under *section 39(1)(d)*,
+
+(*b*) as a result of registration of hunter certificates or registration of participants in point-to-point steeplechases, or
+
+(*c*) in the form of fines under the Rules of Racing,
+
+and such amounts shall be taken into consideration when determining a budget for integrity services under *subsection (1)* after appropriate deductions for the reasonable requirements of the Racing Regulatory Body to ensure it maintains appropriate independent functions and infrastructure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Renumbered as s. 42(1) (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 8(a), S.I. No. 630 of 2001, art. 2.
+>
+> F44: Inserted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 8(b), S.I. No. 630 of 2001, art. 2.
+>
+> F45: Substituted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 11(2), S.I. No. 629 of 2016, art. 2.
+
+### 43. Collection of fees and charges on behalf of Authority.
+
+**43.**—F46[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 9, S.I. No. 630 of 2001, art. 2.
+
+### 44. Alteration of Rules of Racing.
+
+**44.**—F47[(1) The Racing Regulatory Body shall consult with HRI when making or amending the Rules of Racing. The Racing Regulatory Body may dispense with such consultation where it considers there is an urgency to make the Rules of Racing and shall inform HRI accordingly.]
+
+F48[(2) HRI shall publish in the racing calendar any Rules referred to it under *subsection (1)* and any other information required to be published under the Rules of Racing, in accordance with the Rules of Racing.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Substituted (1.01.2017) by *Horse Racing Ireland Act 2016* (2/2016), s. 11(3), S.I. No. 629 of 2016, art. 2.
+>
+> F48: Inserted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 10(b), S.I. No. 630 of 2001, art. 2.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: section renumbered as s. 44(1) (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 10(a), S.I. No. 630 of 2001, art. 2; substituted (1.01.2017) as per F-note above.
+
+### 45. Appeals against sanctions of Racing Regulatory Body.
+
+**45.**—F49[(1) Where the Racing Regulatory Body imposes a sanction against any person involved in horseracing or refuses to grant to a person a licence or suspends or revokes a licence granted, under *section 39(b)* or *(c)*, it shall afford the person an opportunity to appeal to it or such other person nominated by it against the sanction imposed or the refusal to grant or the suspension or revocation, of the licence, as the case may be.]
+
+(2) The Racing Regulatory Body shall provide an appeals procedure and ensure that any appeal referred to in *subsection (1)* is heard in a fair and impartial manner.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 11, S.I. No. 630 of 2001, art. 2.
+
+### 46. Racing Regulatory Body to determine whether race-fixtures may be held.
+
+**46.**—The Racing Regulatory Body or a person acting on its behalf shall, in respect of each race-fixture to be held at an authorised racecourse, determine before the fixture whether that race-fixture may be held having considered the following criteria—
+
+(*a*) the safety of horses and riders both on and off the racetrack,
+
+(*b*) the condition in respect of safety of fences, hurdles or other obstacles on the racetrack,
+
+(*c*) the condition of the running surface of the racetrack,
+
+(*d*) the efficiency of the management of the racecourse in respect of the holding of horse races at that fixture, and
+
+(*e*) any other matter that might affect the safe operation of horse races at the race-fixture.
+
+## PART IV — Bookmakers and Betting
+
+### 47. Prohibition of course-betting by bookmakers not holding permits from Authority.
+
+**47.**—(1) A person shall not carry on the business of a bookmaker at an authorised racecourse F50[or point-to-point steeplechase meeting], unless such person is an authorised bookmaker or a person specified in a course-betting representative permit.
+
+(2) An authorised officer or a person acting under the direction of the executive of an authorised racecourse who has reasonable cause to believe that a person is not an authorised bookmaker or a person specified in a course-betting representative permit and is carrying on the business of a bookmaker at an authorised racecourse may require the person to immediately leave the racecourse.
+
+(3) A person shall comply with a requirement made of him under *subsection (2)*.
+
+(4) Where a person fails to comply with a requirement made of him under *subsection (2)* an authorised officer or a person acting under the direction of the executive of the authorised racecourse concerned may, with the assistance of a member of the Garda Síochána if he considers it necessary, remove (by reasonable force if necessary) the person from the racecourse.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 13(a), S.I. No. 138 of 2016, art. 2.
+
+### 48. Course-betting permits and course-betting representative permits.
+
+**48.**—(1) Subject to *subsection (3)*, the Authority may grant to a licensed bookmaker a permit (“a course-betting permit”) authorising him to carry on, in person, at an authorised racecourse F51[or point-to-point steeplechase meeting] the business of bookmaking in respect of horse races held at an authorised racecourse F51[or point-to-point steeplechase meeting] and races or other events taking place elsewhere.
+
+(2) The Authority may grant to an authorised bookmaker a permit (“a course-betting representative permit”) to carry on, in the absence of that authorised bookmaker, through an employee or agent (being a licensed bookmaker) specified in the permit the business of bookmaking as specified in *subsection (1)*.
+
+(3) A course-betting permit granted to a company of the Authority shall restrict the company on a racecourse to operate only from a betting office.
+
+(4) The Authority may refuse an application for a permit under this section where it considers the applicant is not a fit or proper person to hold such a permit or the person to be specified in a course-betting representative permit is not a fit or proper person.
+
+(5) An application for a permit under this section shall be in such form and contain such particulars as the Authority may from time to time require.
+
+(6) F52[Subject to the Act of 2024, the Authority may attach to a permit granted under this section such terms and conditions] as it thinks fit and it may also, from time to time, attach further terms or conditions or vary the conditions to such a permit or remove any such terms or conditions.
+
+(7) (*a*) The holder of a permit granted under this section shall comply with any terms or conditions attached to the permit.
+
+(*b*) A person specified in a course-betting representative permit shall comply with any terms or conditions attached to the permit.
+
+(8) A course-betting permit shall contain the name of the holder thereof.
+
+(9) (*a*) The Authority may, where it feels it has reasonable grounds for so doing at any time, suspend for such time as it thinks fit or revoke a permit granted under this section.
+
+(*b*) An authorised bookmaker who without reasonable cause fails or neglects to pay or credit to a person with whom he has a bet an amount due to that person shall have any permit granted to him suspended or revoked by the Authority.
+
+F53[(*c*) HRI may, where an authorised bookmaker has failed to comply with regulations made under *section 53(1)(b)*, suspend for such time as it thinks fit or revoke a permit granted under this section to that bookmaker.]
+
+(10) Where the Authority, in the exercise of its powers under this section, proposes to refuse an application for a permit under this section or to suspend or revoke a permit granted under this section it shall—
+
+(*a*) inform the bookmaker concerned in writing of the proposal, and
+
+(*b*) afford to him upon request, within 7 days after being so informed, an opportunity to make to it any written or oral representations in relation to the proposal and shall consider any such representations made to it.
+
+(11) Where an application for a permit under this section is refused, or a permit granted under this section is suspended or revoked, notice of the refusal, suspension or revocation shall be served on the bookmaker concerned either personally or by prepaid registered post within the period of 7 days beginning on the day on which the Authority decides on the refusal, suspension or revocation.
+
+(12) Subject to *subsections (13)* and *(14)*, where a permit granted under this section is suspended or revoked, the suspension or revocation shall be expressed as coming into operation on a specified day which shall not be before the expiration of the period of 14 days beginning on the day on which the authority decides on the suspension or revocation.
+
+(13) Where the suspension or revocation of a permit granted under this section is in respect of a failure or neglect to pay or credit to a person an amount due to the person by the bookmaker concerned in respect of a bet entered into by the person with the bookmaker, the permit shall be suspended or revoked immediately.
+
+(14) Where—
+
+(*a*) an appeal is taken under *section 57* against the suspension or revocation of a permit granted under this section,
+
+(*b*) the suspension or revocation is not in respect of a failure or neglect to pay or credit to a person an amount due to the person by the bookmaker concerned in respect of a bet entered into by the person with the bookmaker, and
+
+(*c*) on the day on which the suspension or revocation is expressed as coming into operation, the appeal has not been withdrawn or determined,
+
+the operation of the suspension or revocation shall stand suspended until (as may be appropriate) the appeal is withdrawn or determined by the Bookmakers Appeal Committee.
+
+(15) A permit granted under this section shall be in force for such period not exceeding 3 years as the Authority may decide specified therein.
+
+(16) Where an authorised bookmaker ceases to be a licensed bookmaker, or is the subject of an exclusion notice under *section 62*, any permit granted to him under this section shall, for the purposes of this Act, cease to be in force.
+
+(17) Where the person specified in a course-betting representative permit is the subject of an exclusion notice, or ceases to be a licensed bookmaker, the permit shall, for the purposes of this Act, cease to be in force.
+
+(18) An authorised bookmaker who ceases to be a licensed bookmaker shall surrender to the Authority any permit granted to him under this section upon such cessation.
+
+(19) The holder of a permit granted under this section or his employee or agent shall not wilfully alter such permit granted under this section and any such permit so altered shall cease to be in force.
+
+(20) A course-betting permit granted under section 24 of the Act of 1945 which is in force immediately before the establishment day shall, on that day, continue in force as if granted under this section.
+
+(21) (*a*) In this section “employee or agent” means—
+
+(i) a spouse F54[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], parent, child, sibling, nephew or niece of the authorised bookmaker, or
+
+(ii) F55[a person who has been nominated as his employee or agent by a bookmaker.]
+
+(*b*) The Authority may by regulations amend the definition in this subsection.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 13(b), S.I. No. 138 of 2016, art. 2.
+>
+> F52: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(e), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+>
+> F53: Inserted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 12, S.I. No. 630 of 2001, art. 2.
+>
+> F54: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 3 item 20, S.I. No. 648 of 2010, art. 3
+>
+> F55: Substituted (1.12.2000) by *Racecourses (Course-Betting Representative Permits) Regulations 2000* (S.I. No. 442 of 2000) reg. 3, in effect as per reg. 1(b).
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to subs. (21)(b) exercised (1.12.2000) by *Racecourses (Course-Betting Representative Permits) Regulations 2000* (S.I. No. 442 of 2000), in effect as per reg. 1(b).
+>
+> E21: Power pursuant to subs. (21)(b) exercised (1.07.1999) by *Racecourses (Course-Betting Representative Permits) Regulations 1999* (S.I. No. 130 of 1999), in effect as per reg. 1(b).
+>
+> E22: Previous affecting provision: subs. (21)(a)(ii) substituted (1.07.1999) by *Racecourses (Course-Betting Representative Permits) Regulations 1999* (S.I. No. 130 of 1999), reg. 3, in effect as per reg. 1(b); substituted (1.12.2000) as per F-note above.
+
+### 49. Authorised officers.
+
+**49.**—(1) The Authority may appoint in writing such and so many persons as it sees fit to be authorised officers for the purposes of this Act.
+
+(2) A warrant of appointment as an authorised officer shall be issued to every person appointed under this section who when exercising any function conferred on the person as an authorised officer, shall, if requested by a person affected, produce the warrant to that person.
+
+(3) The Authority may at any time terminate an appointment as an authorised officer.
+
+(4) Every person appointed to be an authorised officer under the Act of 1945 and being such an officer immediately before the establishment day shall, on that day, continue to be an authorised officer as if appointed under this section.
+
+(5) An appointment under this section as an authorised officer shall cease—
+
+(*a*) where the Authority terminates it under *subsection (3)*, or
+
+(*b*) where the person appointed is an officer or employee of the Authority or its subsidiary upon his ceasing to be such an officer or employee.
+
+### 50. Requirement to produce course-betting, or course-betting representative, permit to authorised officer.
+
+**50.**—(1) An authorised officer may require any person, whom he observes carrying on the business of a bookmaker at any authorised racecourse F56[or point-to-point steeplechase meeting], to produce his course-betting permit, or course-betting representative permit, as the case may be.
+
+(2) Where a person who is required under this section to produce his permit—
+
+(*a*) refuses or fails to produce such permit, or
+
+(*b*) produces such permit, but fails or refuses to permit an authorised officer making the requirement to read or examine such permit,
+
+the authorised officer may require the person's name and address.
+
+(3) A person shall not refuse or fail to comply with a requirement made to him by an authorised officer under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 13(c), S.I. No. 138 of 2016, art. 2.
+
+### 51. Powers of entry, inspection, etc., of authorised officers and officers of customs and excise.
+
+**51.**—(1) An authorised officer may at all reasonable times without warrant enter any authorised racecourse F57[, point-to-point steeplechase meeting] or any betting office or any other place or premises where he has reasonable grounds to believe the business of bookmaking is carried on and may—
+
+(*a*) require any person whom he has reasonable grounds to believe is carrying on the business of bookmaking or employed in connection therewith to produce all books, accounts or other documents or records relating to bookmaking at an authorised racecourse F57[, point-to-point steeplechase meeting] and, in the case of such information in a non-legible form (including such information in a computer), to produce it in a legible form,
+
+(*b*) search for, inspect and take copies of or extracts from any books, accounts or other documents or records (including, in the case of any such information in non-legible form, a copy of or extract from such information in a permanent legible form) relating to bookmaking at an authorised racecourse F57[, point-to-point steeplechase meeting], and
+
+(*c*) remove and retain the said books, accounts or other documents or records for such period as may be reasonable for further examination.
+
+(2) An officer of customs and excise may at all reasonable times without warrant enter any authorised racecourse F58[, point-to-point steeplechase meeting] or any betting office and may—
+
+(*a*) require any person whom he has reasonable grounds to believe is carrying on the business of bookmaking or employed in connection therewith to produce all books, accounts or other documents or records relating to bookmaking and, in the case of such information in a non-legible form (including such information in a computer), to produce it in a legible form,
+
+(*b*) search for, inspect and take copies of or extracts from any books, accounts or other documents or records (including, in the case of any such information in non-legible form, a copy of or extract from such information in a permanent legible form) relating to bookmaking, and
+
+(*c*) remove and retain the said books, accounts or other documents or records for such period as may be reasonable for further examination.
+
+(3) A person shall not refuse or fail to comply with a requirement made to him by an officer under this section and shall provide to such officer all facilities and assistance necessary for the exercise by such officer of any power conferred on him by this section.
+
+(4) A person shall not by himself, or by any person in his employment or acting by his direction or with his consent, refuse or fail to admit any authorised officer or officer of customs and excise in the execution of his duty requiring to enter a racecourse (or any part thereof) F59[, a point-to-point steeplechase meeting] or a betting office in pursuance of this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57, F58, F59: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 13(d)-(f), S.I. No. 138 of 2016, art. 2.
+
+### 52. Obstruction of authorised officers or officers of customs and excise.
+
+**52.**—A person shall not resist, obstruct or impede an authorised officer or an officer of customs and excise in the exercise of any power conferred on him by this Act.
+
+### 53. Regulations in relation to authorised bookmakers.
+
+**53.**—(1) F60[Subject to the Act of 2024 and this section, the Authority may, by regulations, provide]—
+
+(*a*) for fixing the conditions governing and fixing the charges to be made by the executive of an authorised racecourse to an authorised bookmaker for admission to the racecourse (and different charges may be fixed in respect of different authorised racecourses and in respect of different parts of the same racecourse):
+
+Provided that in fixing such conditions and charges, the Authority shall not fix for the admission of an authorised bookmaker to any part of that racecourse a charge exceeding 5 times the charge then made to a member of the public for admission to that part,
+
+F64[(*b*) for governing the activities of authorised bookmakers at authorised racecourses, including—
+
+F61[(i) the relevant betting activities that may be made available, and]
+
+(ii) the methods of bookmaking and practices employed by such bookmakers such as—
+
+(I) the timing for opening a book,
+
+(II) the setting, changing and presentation of betting odds on offer,
+
+(III) the requirements for pay-outs of winnings, and
+
+(IV) the use of appropriate modern facilities and equipment.]
+
+(*c*) for the provision of facilities for authorised bookmakers by the executive of an authorised racecourse,
+
+(*d*) for the permitting of authorised bookmakers to operate from betting offices F65[at authorised racecourses],
+
+(*e*) for the regulation of—
+
+F62[(i) the relevant betting activities that may be made available at betting offices,]
+
+(ii) the structure and location of betting offices,
+
+(iii) the operation and opening hours of betting offices,
+
+(iv) the persons who may be admitted to, or permitted to place bets at, betting offices,
+
+(v) good order and conduct at betting offices.
+
+F66[(1A) The Authority shall consult with the Gambling Regulatory Authority of Ireland before making regulations providing for any matter referred to in *paragraphs (b)* to *(e)* of *subsection (1)*.]
+
+F68[(2) Regulations made under *subsection (1)(e)(iii)* of this section in respect of the opening hours of betting offices may permit betting offices to open for business any time at an authorised racecourse—
+
+F63[(*a*) on any day and during such hours that are not prescribed under section 176 (1) of the Act of 2024 as days or hours, or both, during which a licensee (within the meaning of the Act of 2024) of an in person gambling licence may not open a premises in respect of which the licence is held, and]
+
+(*b*) on the day of a race-fixture at the racecourse, also from the time the public are permitted admission to the racecourse and up to two hours after the conclusion at it of the last race where that would exceed the hours referred to in *paragraph (a)*.]
+
+(3) The Authority where it proposes to make regulations under *subsection (1)* may have regard to any agreement between authorised racecourses and authorised bookmakers in relation to any matter referred to in that subsection.
+
+(4) A person to whom any regulation made under *subsection (1)* applies shall comply with such regulation.
+
+F67[(5) In this section, "relevant betting activity" has the same meaning as it has in the Act of 2024.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60, F61, F62, F63: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(f)(i), (iii), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+>
+> F64: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 13, S.I. No. 630 of 2001, art. 2.
+>
+> F65: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 8(2), S.I. No. 211 of 1999, art. 2.
+>
+> F66, F67: Inserted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 265(1)(f)(ii), (iv), S.I. No. 31 of 2026, art. 2(i)(iii)(III), subject to transitional provisions in subss. (2), (3).
+>
+> F68: Substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 14, S.I. No. 630 of 2001, art. 2.
+>
+> **Editorial Notes:**
+>
+> E23: Power pursuant to section exercised (1.03.2006) by *Horseracing On-Course Betting Office (Amendment) Regulations 2006* (S.I. No. 481 of 2006), in effect as per reg. 1(2).
+>
+> E24: Power pursuant to subs. (1)(b) exercised (1.12.2004) by *Authorised Bookmakers (Code Of Practice Of Bookmakers At Authorised Racecourses) Regulations 2004* (S.I. No. 755 of 2004), in effect as per reg. 1(b).
+>
+> E25: Power pursuant to subs. (1)(e) exercised (1.12.2001) by *Horseracing (On-course Betting Office) (Amendment) Regulations 2001* (S.I. No. 545 of 2001), in effect as per reg. 1(b).
+>
+> E26: Power pursuant to subs. (1)(d), (e) exercised by (28.10.1995) by *Horseracing (On-course Betting Office) Regulations 1995* (S.I. No. 320 of 1995), in effect as per reg. 1(b).
+>
+> E27: Previous affecting provision: subs. (2) amended (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 6, S.I. No. 211 of 1999, art. 2; substituted (18.12.2001) as per F-note above.
+>
+> E28: Previous affecting provision: power pursuant to subs. (1)(d) exercised (24.11.1998) by *Horse racing (On-course Betting Office) (Amendment) Regulations, 1998* (S.I. No. 572 of 1998), in effect as per reg. 1(b); revoked (1.03.2006) by *Horse Racing On-Course Betting Office (Amendment) Regulations 2006* (S.I. No. 481 of 2006), reg. 4, in effect as per reg. 1(2).
+
+### 54. Levies payable by authorised bookmakers on course bets.
+
+**54.**—(1) F69[(*a*) An authorised bookmaker who enters into a bet at an authorised racecourse F70[or point-to-point steeplechase meeting] on an event taking place there or elsewhere, other than by means of telecommunications from outside the racecourse, shall pay to the Authority a levy on such bet.]
+
+(*b*) The rates of levy payable under *paragraph (a)* shall be—
+
+(i) in respect of a bet with an authorised bookmaker other than in a betting office and placed solely on a horse race taking place at the authorised racecourse F71[or point-to-point steeplechase meeting] at which the bet is placed F75[, zero per cent. or such other percentage of not more than 5 per cent.] as the Authority, with the consent of the Minister, may from time to time prescribe, or
+
+(ii) in respect of all bets placed in a betting office at an authorised racecourse F72[or point-to-point steeplechase meeting] and in respect of any bet placed at an authorised racecourse F73[or point-to-point steeplechase meeting] where all or any part of that bet relates to an event being either a horse race or any other event taking place elsewhere, the same rate of levy as that rate of excise duty which would apply under section 24 of the Finance Act, 1926 (as amended by section 31 of the Finance Act, 1985) to such bet if it was placed other than at an authorised racecourse F74[or point-to-point steeplechase meeting].
+
+(*c*) If the event the subject of a bet under *paragraph (b)(i)* is determined in favour of the person with whom the bookmaker enters into the bet, the bookmaker shall, from the total amount which he would otherwise pay or credit to that person in respect of the bet, make a deduction calculated at the rate of percentage referred to in that subparagraph of that total amount.
+
+(*d*) For the purposes of this section the amount of a bet shall be taken to be the sum which, by the terms of the bet, the bookmaker by whom it is entered into, will be entitled to receive, retain or take credit for if the event the subject of the bet, is determined in his favour.
+
+(2) (*a*) An authorised bookmaker who fails or neglects to pay any sum payable by him in respect of a levy may have any permit granted to him under *section 48* suspended or revoked by the Authority.
+
+(*b*) The Authority may restore any such permit where it is satisfied that all arrears of levy due under *subsection (1)* (including interest at an appropriate percentage rate) have been paid.
+
+(3) Every levy payable by any person shall be recoverable from that person by the Authority as a simple contract debt in any court of competent jurisdiction.
+
+(4) (*a*) Where a bookmaker is found not to have paid levy due or not to have made proper returns to the Authority in respect of such levy or both for a period of one month, the Authority may make an assessment of levy due and may charge interest at an appropriate rate from the day on which any such levy first became due and in doing so shall have regard to the level of interest rates generally in the State.
+
+(*b*) (i) Subject to *subparagraph (ii)*, interest at an appropriate percentage rate to be charged by the Authority under this section shall be 15 per cent. per annum.
+
+(ii) The Authority may, with the consent of the Minister, if it is satisfied that the appropriate percentage rate for the time being standing specified in this section, ought, having regard to the level of rates of interest generally in the State, to be varied, by regulations vary the rate of interest so standing specified and this section shall have effect in accordance with the terms of any such regulations.
+
+(5) (*a*) Whenever it is proved to the satisfaction of the Authority that a course bet in respect of which a levy is payable has become a void bet the Authority may subject to such conditions as it thinks fit to impose, either, as the case may require, repay the levy paid or remit the levy chargeable in respect of such course bet.
+
+(*b*) In this paragraph “void bet” means a course bet placed either on a horse in a race at a race-fixture or on another event which has been abandoned, declared void or postponed to another day or placed on a horse which does not achieve a fair start as required by the Rules of Racing.
+
+(6) *Subsection (1)(b)(ii)* shall come into operation on such day as the Minister may appoint by order.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Substituted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 3(1), S.I. No. 211 of 1999, art. 2.
+>
+> F70, F71, F72, F73, F74: Inserted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 13(g), S.I. No. 138 of 2016, art. 2.
+>
+> F75: Substituted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 3(2), S.I. No. 211 of 1999, art. 2.
+>
+> **Editorial Notes:**
+>
+> E29: Power pursuant to subs. (4)(b)(ii) exercised (1.02.1999) by *Horseracing (Interest on Late Payment of Levies on Course Bets) Regulations 1998* (S.I. No. 571 of 1998), in effect as per reg. 1(b).
+>
+> E30: Power pursuant to subs. (6) exercised (28.10.1995) by *Irish Horseracing Industry Act 1994 (Section 54(1)(b)(ii)) (Commencement) Order 1995* (S.I. No. 268 of 1999), art. 2.
+>
+> 2\. The 28th day of October, 1995, is hereby appointed as the day on which section 54(1)(b)(ii) of the Irish Horseracing Industry Act, 1994 (No. 18 of 1994), shall come into operation.
+
+### 54A. Turnover charge payable by authorised bookmakers on course bets.
+
+F76[**54A.**—(1) An authorised bookmaker who enters into a bet at an authorised racecourse, on an event taking place there or elsewhere, other than by means of telecommunications from outside the racecourse, the subject of levy under *section 54*, shall pay to the Authority a turnover charge on such bet.
+
+(2) The rate of turnover charge payable under *subsection (1)* shall be—
+
+(*a*) in respect of a bet with an authorised bookmaker other than in a betting office and placed solely on a horse race taking place at the authorised racecourse at which the bet is placed, F77[0.5 per cent]. or such other percentage of not more than 2.5 per cent. as the Authority, with the consent of the Minister, may, from time to time, prescribe; and
+
+(*b*) in respect of all bets placed in a betting office and in respect of any bet placed at an authorised racecourse where all or any part of that bet relates to an event being either a horse race or any other event taking place elsewhere, 0.3 per cent. or such other percentage standing specified under regulations under *section 54D*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2.
+>
+> F77: Substituted (1.03.2004) by *Authorised Bookmakers (Course Bets Turnover Charge) Regulations 2004* (S.I. No. 172 of 2004), reg. 3, in effect as per reg. 1(b).
+>
+> **Editorial Notes:**
+>
+> E31: Power pursuant to section exercised (1.03.2004) by *Authorised Bookmakers (Course Bets Turnover Charge) Regulations 2004* (S.I. No. 172 of 2004), in effect as per reg. 1(b).
+
+### F78[54B. Flat rate charges payable by authorised bookmakers.
+
+****54B**.**—The Authority may make such flat rate charges as it considers necessary and appropriate in respect of—
+
+(*a*) the activities of an authorised bookmaker,
+
+(*b*) the activities of a licensed bookmaker at licensed rececourses which are licensed to hold point to point race-meetings,
+
+(*c*) a pitch held by an authorised bookmaker at an authorised racecourse,
+
+(*d*) a pitch held by a licensed bookmaker at a licensed racecourse which is licensed to hold point to point race-meetings,
+
+(*e*) a betting office,
+
+and different charges may be made in respect of different locations or race-meetings having regard to the potential value of the location or meeting for the business of bookmaking.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2.
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to section exercised (1.01.2004) by *Racecourses (Authorised Bookmakers Pitch Charges) Regulations 2004* (S.I. No. 171 of 2004), in effect as per reg. 1(b).
+
+### F79[54C. Suspension or revocation of course-betting permit if charges are not paid.
+
+**54C.**—(1) An authorised bookmaker who fails or neglects to pay any sum payable by him in respect of a charge due under *section 54A* or *54B* may have any permit granted to him under *section 48* suspended or revoked by the Authority.
+
+(2) The Authority may restore any such permit where it is satisfied that all arrears of the charge is paid (including interest at an appropriate percentage rate).
+
+(3) The Authority may recover as a simple contract debt in any court of competent jurisdiction from any person by whom it is payable any amount due and owing under *section 54A* or *54B*.
+
+(4) In *section 54(4)* and *(5)* any reference to levy shall be construed as including a reference to charges under *section 54A* or *54B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F79: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2.
+
+### 54D. Turnover charge payable by licensed bookmakers on off course bets.
+
+F80[**54D.**—(1) A licensed bookmaker who enters into a bet on any event, subject to the duty of excise imposed by section 24 of the Finance Act, 1926, shall pay to the Revenue Commissioners for and on behalf of the Authority a turnover charge on such bet of F81[zero per cent.] or such other percentage of not more than 2.5 per cent. as the Minister, with the consent of the Minister for Finance, may from time to time, specify in regulations.
+
+(2) Any percentage specified by regulations under *subsection (1)* shall be the percentage specified for the purposes of section 54A(2)(b) and of section 32A(2)(b) of the Greyhound Industry Act, 1958.
+
+(3) The provisions of sections 24(4), 25 and 26 of the Finance Act, 1926, and section 32 of the Finance Act, 1929, shall, subject to any necessary modifications, apply to the turnover charge imposed by *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2.
+>
+> F81: Substituted (29.07.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 19(1), S.I. No. 363 of 2001, art. 2.
+
+### 54E. Annual charge payable in respect of registered premises.
+
+F82[**54E.**—F83[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F82: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2
+>
+> F83: Repealed (31.08.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 20, commenced as per s. 20.
+>
+> **Editorial Notes:**
+>
+> E33: Previous affecting provision: section , repealed as per F-note above.
+
+### 54F. Transfer by Authority of portion of sums collected to Board na gCon.
+
+F84[**54F.**—The Authority shall transfer to Bord na gCon 20 per cent. of any amount paid to or collected by or on behalf of the Authority under *section 54D(1)* or *54E*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(1), S.I. No. 211 of 1999, art. 2.
+
+### 55. Regulations for payment of levies on course bets.
+
+**55.**—(1) The Authority may make regulations for securing the payment of levies F85[or charges under this Part] and generally for carrying the provisions in relation to levies F86[or charges under this Part] into effect and in particular for—
+
+(*a*) requiring authorised bookmakers who are liable to pay levies F87[or charges under this Part]—
+
+(i) to enter, in the prescribed manner and at the prescribed time, particulars of all course bets in the prescribed records,
+
+(ii) to retain such records for the prescribed time,
+
+(iii) to send, on the request of the Authority, such records to the Authority,
+
+(iv) to furnish copies of such records to the Authority at such time or times as may be prescribed,
+
+(*b*) entering into arrangements by the Authority with (and taking security from) authorised bookmakers desiring to pay levies F88[or charges under this Part] on the basis of returns furnished by them,
+
+(*c*) the granting to authorised bookmakers by the Authority of remissions or refunds (as the case may require) of a levy F89[or a charge under this Part] in cases in which the whole or any part of the contingent liability of a bookmaker in respect of a bet made, laid or otherwise entered into by him is shown to the satisfaction of the Authority to have been transferred to another bookmaker by means of a fresh bet made, laid or otherwise entered into by the first-mentioned bookmaker with the second-mentioned bookmaker.
+
+(2) A person who, without reasonable cause, contravenes any regulations made under *subsection (1)* may have any permit granted to him under *section 48* suspended or revoked by the Authority.
+
+(3) A person shall comply with any regulation made under this section and shall not make, in any record kept in pursuance of any regulation under this section, any false entry with regard to a course bet.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F85, F86, F87, F88, F89: Inserted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 4(2)(a), (b), S.I. No. 211 of 1999, art. 2.
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to subs. (1) exercised (27.09.1998) by *Racecourses (Payment of Levies on Course Bets) (Amendment) Regulations 1998* (S.I. No. 570 of 1998), in effect as per reg. 1(b).
+>
+> E35: Power pursuant to subs. (1) exercised (1.01.1998) by *Racecourses (Payment of Levies on Course Bets) (Amendment) Regulations 1997* (S.I. No. 494 of 1997), in effect as per reg. 1(b).
+>
+> E36: Power pursuant to subs. (1) exercised (28.10.1995) by *Racecourses (Payment of Levies on Course Bets) Regulations 1995* (S.I. No. 306 of 1995), in effect as per reg. 1(b).
+
+## PART V — The Bookmakers Appeal Committee
+
+### 56. Bookmakers Appeal Committee.
+
+**56.**—(1) There shall, on the establishment day, be a committee (to be known as the Bookmakers Appeal Committee) to determine the appeals provided for by *section 57*.
+
+(2) The Bookmakers Appeal Committee shall consist of the following members—
+
+(*a*) a chairman who shall be a judge or a practising barrister or solicitor of at least 7 years’ standing, and
+
+(*b*) 4 ordinary members.
+
+(3) The members of the Bookmakers Appeal Committee shall be appointed by the Minister and shall be eligible for re-appointment and each appointment shall, subject to *subsection (5)*, be for a period of 3 years and, subject to the provisions of this section, each such member shall hold office as such member upon such terms and conditions as the Minister may determine at the time of his appointment.
+
+(4) A member of the Bookmakers Appeal Committee may, by letter addressed to the Minister, resign his membership.
+
+(5) The term of office of a member of the Bookmakers Appeal Committee appointed to fill a casual vacancy on the Committee shall be the remainder of the term of office of the member in relation to whom the vacancy occurred.
+
+(6) Where the chairman of the Bookmakers Appeal Committee is temporarily unable to act, he shall appoint another member to act in his place.
+
+(7) The quorum of the Bookmakers Appeal Commitee shall be 3.
+
+(8) A determination shall not be made by the Bookmakers Appeal Committee unless a majority of the Bookmakers Appeal Committee hearing the appeal are in favour of the determination.
+
+(9) A member of the Bookmakers Appeal Committee (other than a judge) shall be paid by the Authority such remuneration (if any) and allowances for expenses (if any) as the Authority determines, with the consent of the Minister and the Minister for Finance, and the expenses (including that of a judge) of the Committee shall, be paid by the Authority.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C14: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1994</td><td>Irish Horseracing Industry Act 1994</td><td>Sections 11, 18, 19, 23(1), 27, 28, 32, 36, 37 and 56(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the *Irish Horseracing Industry Act 1994* can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 57. Appeals against decisions of Authority in relation to course-betting permits and course-betting representative permits.
+
+**57.**—(1) Where the Authority refuses to grant a course-betting permit to a licensed bookmaker, or a course-betting representative permit to an authorised bookmaker or suspends or revokes a course-betting permit or a course-betting representative permit held by an authorised bookmaker, that bookmaker may within the period of 14 days beginning on the day on which the Authority decides on the refusal, suspension or revocation, appeal in writing to the Bookmakers Appeal Committee against the refusal, suspension or revocation.
+
+(2) (*a*) The Bookmakers Appeal Committee, after conducting a hearing in relation to an appeal under this section, shall either refuse the appeal or—
+
+(i) in the case of an appeal against the refusal of a permit, direct the Authority to grant a permit,
+
+(ii) in the case of an appeal against the suspension of a permit, annul the suspension, vary the period of the suspension or the date on which it is to begin or both, or annul the suspension and direct the Authority to revoke a permit, or
+
+(iii) in the case of an appeal against the revocation of a permit, annul the revocation or annul the revocation and direct the Authority to suspend the permit for a period beginning and ending on dates specified by the Committee.
+
+(*b*) The Authority shall comply with a direction given under this section.
+
+(3) At a hearing conducted by the Bookmakers Appeal Committee in relation to an appeal under this section—
+
+(*a*) the appellant may appear in person or be represented by counsel, solicitor or agent,
+
+(*b*) the Authority may be represented by counsel or solicitor or by an officer of the Authority,
+
+(*c*) the appellant and the Authority may tender any evidence relevant to the appeal, and—
+
+(i) the appellant may examine and re-examine witnesses called by him and cross-examine witnesses called by the Authority, and
+
+(ii) the Authority may examine and re-examine witnesses called by it and cross-examine witnesses called by the appellant,
+
+(*d*) if, in relation to any witness, the Bookmakers Appeal Committee so determines or either party to the appeal so requests, the Bookmakers Appeal Committee shall require the witness to be examined on oath (which the chairman is hereby empowered to administer).
+
+(4) The Bookmakers Appeal Committee shall cause a hearing in relation to an appeal under this section to be held as soon as may be and shall cause not less than 14 days notice of the date, time and place of the hearing to be given to the appellant and the Authority.
+
+(5) (*a*) The Bookmakers Appeal Committee may—
+
+(i) summon witnesses to attend hearings conducted by it,
+
+(ii) require any such witness to answer any question relevant to the appeal, and
+
+(iii) require any such witness to produce to it any document or record (including, in the case of any such information in non-legible form, a copy or extract from such information in a permanent legible form) in his possession or control.
+
+(*b*) A witness before the Bookmakers Appeal Committee shall be entitled to the same immunities and privileges as if he were a witness in the High Court, and claims of privilege and immunity shall be determined by the Committee.
+
+(*c*) A summons under *paragraph (a) (i)* shall be signed by at least one member of the Bookmakers Appeal Committee.
+
+(6) (*a*) A person on being duly summoned as a witness before the Bookmakers Appeal Committee shall appear as such witness, unless before the hearing he gives to the satisfaction of the Committee reasonable cause for not appearing at that hearing.
+
+(*b*) A person being in attendance as a witness before the Bookmakers Appeal Committee shall—
+
+(i) take any oath which the Committee may legally require him to take,
+
+(ii) answer any question which the Committee may require him to answer under *subsection (5) (a) (ii)*, and
+
+(iii) produce any document or record in his possession or control which the Committee may require him to produce under *subsection (5) (a) (iii)*.
+
+### 58. Dissolution of Appeal Committee, etc.
+
+**58.**—(1) On the establishment day the Appeal Committee (established under section 4 of the Act of 1975) shall stand dissolved.
+
+(2) An appeal which, before the establishment day, is pending before the aforesaid Appeal Committee shall be heard and determined as if it was an appeal under *section 57*.
+
+## PART VI — Authorised Racecourses
+
+### 59. Authorised Racecourses.
+
+**59.**—(1) The Authority shall, subject to such terms and conditions as it thinks fit, grant an authorisation (“a racecourse authorisation”) to a licensed racecourse (“authorised racecourse”) where the Authority considers it is able to provide appropriate facilities and services to carry on horseracing at race-meetings and accommodate persons associated with horseracing (including members of the public watching horseracing).
+
+(2) (*a*) An authorised racecourse shall be authorised for a period of 5 years—
+
+(i) in the case of a first racecourse authorisation, from such date as the Authority may determine, or
+
+(ii) in the case of a second or subsequent racecourse authorisation, from the day after the expiry of the last authorisation.
+
+(*b*) Application for a racecourse authorisation shall be made by the executive of the licensed racecourse concerned to the Authority and shall be in such form and contain such information as the Authority may decide.
+
+(3) The Authority may where it has reasonable grounds to believe that an authorised racecourse is not complying with any term or condition of a racecourse authorisation revoke or suspend (for such period as it thinks fit) the authorisation.
+
+(4) An authorised racecourse (within the meaning of the Act of 1945) in existence immediately before the establishment day shall on that day be deemed to be an authorised racecourse for a period of two years.
+
+(5) The Authority may, as it sees fit, from time to time, attach new terms or conditions to a racecourse authorisation.
+
+(6) (*a*) The Authority may require in the interests of the horseracing industry the executive of a racecourse which is not an authorised racecourse not to operate a racecourse.
+
+(*b*) The executive concerned shall comply with a requirement made of it under this subsection.
+
+### 60. Regulations in relation to executives of authorised racecourses.
+
+**60.**—(1) The Authority may by regulations provide for requiring the executives of authorised racecourses to keep such information as may be prescribed and to furnish to the Authority such returns and information as may be prescribed.
+
+(2) The executive of an authorised racecourse shall comply with any regulation made under *subsection (1)*.
+
+### 61. Broadcasting and filming rights.
+
+**61.**—(1) F90[...]
+
+(2) Subject to *subsection (3)*, the property rights in relation to any broadcast of any part of a race-fixture or any photograph, film or sound recording taken or made for commercial purposes at a race-fixture shall vest in the executive of the authorised racecourse concerned.
+
+(3) F91[...]
+
+(4) In this section “broadcast” has the meaning assigned to it by the Broadcasting and Wireless Telegraphy Act, 1988.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90, F91: Repealed (18.12.2001, establishment day) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 10(11), S.I. No. 630 of 2001, art. 2.
+>
+> **Modifications (not altering text):**
+>
+> C15: Application of section restricted (2.07.2001) *Horse and Greyhound Racing Act 2001* (20/2001), s. 10(12), commenced on enactment.
+>
+> **Media rights committee.**
+>
+> **10.—**...
+>
+> (12) Nothing in section 61 of the Act of 1994 or this section shall prohibit HRI from independently carrying out its functions under *paragraph (b)* of *section 8(1)*.
+>
+> ...
+
+### 62. Exclusion of certain persons from racecourses.
+
+**62.**—(1) The Authority or the Racing Regulatory Body, may exclude by notice (“an exclusion notice”) a person from being either—
+
+(*a*) on any authorised racecourse, or
+
+(*b*) on such authorised racecourse or racecourses as the Authority or, as the case may be, the Racing Regulatory Body may think fit and specify in the exclusion notice,
+
+where it has reason to believe that the person is not a fit or proper person to be on such racecourse.
+
+(2) The Authority or the Racing Regulatory Body, as the case may be, may by notice, revoke an exclusion notice made by it.
+
+(3) Where the Authority or the Racing Regulatory Body makes a notice under this section it shall cause the notice to be delivered personally or sent by registered post to—
+
+(*a*) the person to whom the notice applies, and,
+
+(*b*) to the executive of each racecourse to which the notice relates.
+
+(4) Where any person to whom an exclusion notice (which is in force) applies is found on any racecourse to which the notice relates, the executive of that racecourse may, with the assistance of a member of the Garda Síochána if it considers it necessary, have the person removed (by reasonable force if necessary) from the racecourse.
+
+(5) Any person excluded from a racecourse by virtue of *subsection (1)* shall comply with the exclusion notice.
+
+## PART VII — Amendment of Totalisator Act, 1929
+
+### 63. Amendment of Totalisator Act, 1929.
+
+**63.**—(1) The Totalisator Act, 1929, is hereby amended by the insertion in section 3 (6) (as amended by section 26 (4) of the Act of 1945) after “operate in any place or places” of “, save where a totalisator operates in respect of a horse race at a place or places not being an authorised racecourse (within the meaning of the *Irish Horseracing Industry Act, 1994*),”, and the said subsection, as so amended, is set out in the Table to this section.
+
+(2) This section shall come into operation on the establishment day.
+
+TABLE
+
+(6) Where the Minister grants a licence to any person or persons to operate in any place or places, save where a totalisator operates in respect of a horse race at a place or places not being an authorised racecourse (within the meaning of the *Irish Horseracing Industry Act, 1994*), or where the Revenue Commissioners set up, maintain or work a totalisator at any place or places the persons having the management of such place or places shall provide a place or places whether in a building or not where licensed bookmakers (provided always that they are not disqualified persons under any recognised Rules of Racing) may carry on their business and to which the public may resort for the purpose of betting.
+
+## PART VIII — Amendment of Betting Act, 1931
+
+### 64. Amendment of Betting Act, 1931.
+
+**64.**—(1) Section 1 of the Betting Act, 1931, is hereby amended by the substitution for the definition of “licensed bookmaker” of the following definition:
+
+“‘licensed bookmaker’ means—
+
+(*a*) a person (not being a body corporate or an unincorporated body of persons) who is the holder of a bookmaker's licence issued under section 7 of this Act, or
+
+(*b*) a company established under *section 36* of the *Irish Horseracing Industry Act, 1994*, to carry on business as a bookmaker that holds a licence issued under section 7A of this Act,
+
+and for the time being in force.”.
+
+(2) The Betting Act, 1931, is hereby amended by the insertion after section 7 of the following section:
+
+“Issue of bookmaker's licence to company established under *section 36* of *Irish Horseracing Industry Act, 1994*.
+
+7A (1) A company established under *section 36* of the *Irish Horseracing Industry Act, 1994*, to carry on business as a bookmaker that applies to the Revenue Commissioners in writing in the prescribed form for a bookmaker's licence commencing on such date (being either the next following 1st day of December or a day not more than 14 days after the date of the application) as specified in the application shall, upon delivery to the Revenue Commissioners of an application for a bookmaker's licence and payment to the Revenue Commissioners by the applicant of the excise duty required by law to be paid for taking out such licence as is specified in such application, be issued by the Revenue Commissioners with a bookmaker's licence in accordance with this section.
+
+(2) A bookmaker's licence issued under this section shall be in the prescribed form and shall state the name and registered office of the company to whom it is issued and shall operate and be expressed to authorise such company to act and carry on business as a bookmaker during the period commencing on the date specified therein (which shall be the date specified in that behalf in the application for such licence) and ending at midnight on the next following 30th day of November, but subject and without prejudice to all restrictions and prohibitions for the time being imposed by law in respect of the places in which the business of bookmaking may be carried on.”.
+
+(3) Section 8 (1) of the Betting Act, 1931, is hereby amended by the insertion after “premises in which the business of bookmaking is carried on” of “, other than a premises being a betting office (within the meaning of the *Irish Horseracing Industry Act, 1994*),” and the said subsection, as so amended, is set out in the Table to this section.
+
+(4) The Betting Act, 1931, and this section may be cited together as the *Betting Acts, 1931* and *1994*.
+
+(5) This section shall come into operation on the establishment day.
+
+TABLE
+
+(1) The Revenue Commissioners shall continue to keep in the prescribed form the register (in this Act referred to as the register of bookmaking offices) established and heretofore kept by them under the Betting Act, 1926, of premises in which the business of bookmaking is carried on, other than a premises being a betting office (within the meaning of the *Irish Horseracing Industry Act, 1994*), and shall register therein all such premises as they are by virtue of this Act required to register therein.
+
+## PART IX — Amendment of Licensing Acts, 1833 to 1988
+
+### 65. Licensing of sale of intoxicating liquor at race-fixtures.
+
+**65.**—(1) It shall be lawful for the Revenue Commissioners, notwithstanding anything contained in the Licensing Acts, 1833 to 1988, on the application to them of the executive of an authorised racecourse, to grant to the executive, or a person nominated by the executive—
+
+(*a*) a licence for the sale of intoxicating liquor at the authorised racecourse for consumption at the racecourse, and
+
+(*b*) a renewal of a licence granted under this section.
+
+(2) A licence granted under this section shall be in force for the period specified therein and shall operate, to authorise, during the period beginning from the time the racegoing public are permitted admission by the executive of the authorised racecourse concerned to a race-fixture (but not before 10.30 in the morning) and ending F92[two hours] after the conclusion of the last race of the fixture, but during no other period, the sale of intoxicating liquor at the race-fixture for consumption at the racecourse, to persons attending the race-fixture.
+
+(3) Upon the grant of a licence under this section, any licence under the Licensing Acts, 1833 to 1988, relating to an authorised racecourse shall cease to have effect during the hours which a licence granted under this section operates.
+
+(4) A licence granted under this section shall cease to have effect should the racecourse to which it relates cease, for whatsoever reason, to be an authorised racecourse.
+
+(5) The holder of a licence granted under this section shall comply with the provisions of this section relating to the licence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Substituted (25.07.1999) by *Horse and Greyhound Racing (Betting Charges and Levies) Act 1999* (24/1999), s. 7, S.I. No. 211 of 1999, art. 2.
+
+### 66. Restrictions of certain provisions of Licensing Acts, 1833 to 1988.
+
+**66.**—Sections 4 and 5 and Part III of the Intoxicating Liquor Act, 1927, and the provisions, in relation to prohibited hours, of the Licensing Acts, 1833 to 1988, shall not apply to an authorised racecourse in respect of which a licence has been granted under *section 65*.
+
+### 67. Search of racecourse by member of Garda Síochána.
+
+**67.**—(1) If a member of the Garda Síochána is of the opinion that there are reasonable grounds for supposing, or a complaint has been made to such a member, that the holder of a licence granted under *section 65* is not complying with the provisions of that section, the member may, without warrant, enter into and search the racecourse concerned and request and take the names and addresses of any persons found therein in connection with the non-compliance.
+
+(2) A person shall not—
+
+(*a*) refuse to give his name or address, or
+
+(*b*) give a false name or address,
+
+when so requested under *subsection (1)*.
+
+(3) A person shall not by himself, or by any person in his employment or acting by his direction or with his consent, refuse or fail to admit any member of the Garda Síochána in the execution of his duty requiring to enter a racecourse (or any part thereof) in pursuance of this section.
+
+### 68. Collective citation and commencement (Part IX).
+
+**68.**—(1) The Licensing Acts, 1833 to 1988, and this Part may be cited together as the *Licensing Acts, 1833* to *1994*.
+
+(2) This Part shall come into operation on such day as the Minister may appoint by order.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to subs. (2) exercised (1.12.1994) by *Irish Horseracing Industry Act 1994 (Part IX) (Commencement) Order 1994* (S.I. No. 392 of 1994), art. 2.
+>
+> 2\. The 1st day of December, 1994, is hereby appointed as the day on which Part IX of the Irish Horseracing Industry Act, 1994 (No. 18 of 1994), shall come into operation.
+
+## PART X — Transfer of Assets and Liabilities of Racing Board to Authority
+
+### 69. Dissolution of Racing Board.
+
+**69.**—F93[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F93: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 70. Transfer of property and liabilities of Racing Board to Authority.
+
+**70.**—F94[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F94: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 71. Preservation of certain continuing contracts and adaptation references to Authority in certain documents.
+
+**71.**—F95[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F95: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 72. Pending legal proceedings.
+
+**72.**—F96[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 73. Final accounts of Racing Board.
+
+**73.**—F97[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 74. Transfer of totalisator licences.
+
+**74.**—F98[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 75. Transfer of staff.
+
+**75.**—F99[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F99: Repealed (18.12.2001) *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+### 76. Exemption from stamp duties.
+
+**76.**—F100[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F100: Repealed (27.03.1998) by *Finance Act 1998* (3/1998), s. 125 and sch. 8, commenced on enactment.
+
+### 77. Continuance of instruments and documents, etc.
+
+**77.**—(1) All instruments (including regulations) made and documents issued under the Racing Board and Racecourses Acts, 1945 and 1975, in force immediately before the repeal of those Acts shall continue in force upon such repeal as if made or issued under this Act.
+
+(2) F101[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Repealed (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 15, S.I. No. 630 of 2001, art. 2.
+
+## F102[SCHEDULE — Section 9 — Horse Racing Ireland
+
+1\. HRI shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and to acquire, hold and dispose of land or an interest in land and to acquire, hold and dispose of any other property.
+
+2\. HRI shall consist of a chairman and 13 ordinary members.
+
+3\. The chairman and ordinary members of HRI shall be appointed by the Minister having regard to creating a balance between the different interests in the horseracing industry.
+
+4\. The chairman may at any time resign his or her office by letter addressed to the Minister.
+
+5\. The Minister may at any time remove the chairman from office.
+
+6\. Subject to this *Schedule*, the chairman shall hold office on such terms and conditions as the Minister may determine.
+
+7\. (1) There shall be paid by HRI to the chairman such remuneration and allowances (if any) for expenses as HRI thinks fit, subject to the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform.
+
+(2) In determining the remuneration or allowances for expenses to be paid to its chairman, HRI shall have regard to Government or nationally agreed guidelines which are for the time being extant or to Government policy concerning remuneration and conditions of employment which is so extant, and, in addition to the foregoing, HRI shall comply with any direction regarding such remuneration, allowances, terms or conditions which the Minister may give from time to time to HRI with the consent of the Minister for Public Expenditure and Reform.
+
+8\. (1) Of the ordinary members of HRI—
+
+(*a*) 3 shall be nominees of the Racing Regulatory Body,
+
+(*b*) one shall be nominated for appointment thereto by such persons as the Minister considers to be representative of authorised racecourses,
+
+(*c*) one shall be nominated for appointment thereto by such persons as the Minister considers to be representative of racehorse breeders,
+
+(*d*) one shall be nominated for appointment thereto by such persons as the Minister considers to be representative of racehorse owners,
+
+(*e*) one shall be nominated for appointment thereto by such persons as the Minister considers to be representative of racehorse trainers,
+
+(*f*) 2 shall be nominated for appointment thereto by the industry services committee—
+
+(i) one of whom shall be the chairman of the committee, and
+
+(ii) one of whom shall be a representative of stable staff,
+
+(*g*) one shall be nominated for appointment thereto by the betting industry being the chairman of the betting committee, and
+
+(*h*) 3 shall be chosen by the Minister for their specific skill and competencies and one of whom, at least, shall be representative of the horseracing industry in Northern Ireland.
+
+(2) Subject to *subparagraphs (3)* and *(4)*, persons nominated under *subparagraph (1)(a)* to *(e)* shall be elected at a general meeting of—
+
+(*a*) in the case of a person nominated under *subparagraph (1)(a)*, the Racing Regulatory Body, or
+
+(*b*) in the case of a person nominated under *subparagraph (1)(b)* to *(e)*, the interest concerned,
+
+specially convened for that purpose, upon adequate notice being given of the meeting by the Racing Regulatory Body or the interest concerned, as the case may be.
+
+(3) In the event of a dispute in respect of any aspect of the method of election to be carried out under *subparagraph (2)*, the Minister shall decide the method.
+
+(4) The Minister may, as he or she considers appropriate, decide on or approve alternative arrangements for the election of persons to be nominated under *subparagraph (1)(a)* to *(e)* to those specified in *subparagraph (2)* where the need arises.
+
+(5) Where the Racing Regulatory Body or any persons referred to in *subparagraph (1)(b)* to *(e)* fail to make a nomination by such date as the Minister may require for nominations under *subparagraph (1)**(a)* to *(e)* to be given to him or her, the Minister may appoint such person, in the absence of the nomination, as he or she decides.
+
+(6) Nominations under *subparagraph (1)(a)* to *(g)* and appointments under *subparagraph (1)(h)* shall, in so far as is practicable and having regard to relevant experience, create an equitable balance between men and women.
+
+9\. Subject to this *Schedule*, each ordinary member of HRI shall hold office on such terms and conditions as the Minister may determine.
+
+10\. (1) The term of office of the chairman shall be 5 years.
+
+(2) Subject to this paragraph, the term of office of an ordinary member of HRI shall be 4 years.
+
+(3) A member of HRI shall not serve in any capacity for more than 2 consecutive terms.
+
+11\. (1) If a member of HRI dies, resigns, becomes disqualified or is removed from office, the Minister may appoint a person to be a member of HRI to fill the casual vacancy so occasioned and the person so appointed shall be appointed in the same manner as the member of HRI who occasioned the casual vacancy.
+
+(2) A person appointed to be a member of HRI by virtue of this paragraph shall hold office for the remainder of the term of office of the member who occasioned the casual vacancy he or she is appointed to fill and shall be eligible for re-appointment as a member of HRI.
+
+12\. Subject to *paragraph 10(3)*, a member of HRI whose term of office expires by effluxion of time shall be eligible for re-appointment as a member of HRI.
+
+13\. Where a member of HRI, whose term of office has expired, has not been reappointed or may not be reappointed by virtue of having served 2 consecutive terms, the member shall continue in office until the vacancy occasioned by him or her is filled by the appointment of another person.
+
+14\. The Minister may at any time remove an ordinary member of HRI from office.
+
+15\. An ordinary member of HRI may resign his or her office as a member by letter addressed to the Minister.
+
+16\. A member of HRI shall be disqualified from holding and shall cease to hold office if he or she—
+
+(*a*) is adjudged bankrupt or is sentenced by a court of competent jurisdiction to a term of imprisonment,
+
+(*b*) commits an offence under this Act,
+
+(*c*) is disqualified from holding any licence, permit or authorisation granted under this Act, or
+
+(*d*) is the subject of an exclusion notice under *section 62*.
+
+17\. Each ordinary member of HRI shall be paid, out of moneys at the disposal of HRI, such remuneration (if any) and allowances for expenses incurred by him or her (if any) as HRI may with the consent of the Minister and the Minister for Public Expenditure and Reform determine.
+
+18\. HRI shall hold such and so many meetings as may be necessary for the due execution of its functions.
+
+19\. The quorum for a meeting of HRI shall be 7.
+
+20\. At a meeting of HRI—
+
+(*a*) the chairman shall, if present, be the chairman of the meeting, and
+
+(*b*) if and so long as the chairman is not present or if the office of chairman is vacant, the members of HRI who are present shall choose one of their number to be chairman of the meeting.
+
+21\. The chairman and each ordinary member of HRI present at a meeting thereof shall have a vote.
+
+22\. Every question at a meeting of HRI shall be determined by a majority of the votes of the members present voting on the question and, in the case of an equal division of votes, the chairman of the meeting shall have a second or casting vote.
+
+23\. HRI may act notwithstanding one or more than one vacancy among its members.
+
+24\. Subject to this *Schedule*, HRI shall regulate by standing orders or otherwise the procedure and business of HRI.
+
+25\. The seal of HRI shall be authenticated by the signature of the chairman or some other member thereof authorised by HRI to act in that behalf and the signature of an officer of HRI authorised by HRI to act in that behalf.
+
+26\. Judicial notice shall be taken of the seal of HRI and every document purporting to be a regulation, directive or other instrument made by HRI and to be sealed with the seal of HRI shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Substituted (9.03.2016) by *Horse Racing Ireland Act 2016* (2/2016), s. 4(1), S.I. No. 138 of 2016, art. 2, subject to transitional provision in sub. (2).
+>
+> **Editorial Notes:**
+>
+> E38: Previous affecting provision: paras. 2, 7 and 9 substituted and para. 11A inserted (18.12.2001) by *Horse Racing Ireland (Membership) Act 2001* (46/2001), s. 1(1)(a)-(d), commenced on enactment; schedule substituted as per F-note above.
+>
+> E39: Previous affecting provision: para. 11A inserted (18.12.2001) by *Horse Racing Ireland (Membership) Act 2001* (46/2001), s. 1(1)(d), S.I. No. 630 of 2001, art. 2; substituted as per F-note above.
+>
+> E40: Previous affecting provision: para. 2 amended (2.07.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(a), commenced on enactment; substituted as per E-note above.
+>
+> E41: Previous affecting provision: para. 7 substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(b), S.I. No. 630 of 2001, art. 2; substituted as per E-note above.
+>
+> E42: Previous affecting provision: para. 9(2)-(4) substituted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(c), S.I. No. 630 of 2001, art. 2; substituted as per E-note above.
+>
+> E43: Previous affecting provision: para. 9(5) inserted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(c), S.I. No. 630 of 2001, art. 2; substituted (18.12.2001) as per E-note above.
+>
+> E44: Previous affecting provision: para. 11A inserted (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(d), S.I. No. 630 of 2001, art. 2; substituted as per E-note above.
+>
+> E45: Previous affecting provision: para. 17 amended (18.12.2001) by *Horse and Greyhound Racing Act 2001* (20/2001), s. 7 and sch. para. 16(e), S.I. No. 630 of 2001, art. 2; substituted as per F-note above.

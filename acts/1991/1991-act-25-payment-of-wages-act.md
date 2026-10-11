@@ -1,0 +1,762 @@
+---
+title: "Payment of Wages Act, 1991"
+identifier: "eli/1991/act/25"
+type: act
+jurisdiction: ie
+language: en
+number: 25
+year: 1991
+date: 1991-07-23
+last_amended: 2022-12-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1991/act/25/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1991/act/25/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Payment of Wages Act, 1991
+
+AN ACT TO PROVIDE FURTHER PROTECTION FOR EMPLOYEES IN RELATION TO THE PAYMENT OF WAGES, TO FACILITATE THE PAYMENT OF WAGES OTHERWISE THAN IN CASH, FOR THAT PURPOSE TO REPEAL THE TRUCK ACTS, 1831 TO 1896, AND RELATED ENACTMENTS AND TO PROVIDE FOR CONNECTED MATTERS. [23*rd July*, 1991]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> Payment of Wages Act 1991 (No. 25 of 1991)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 1, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E2: Previous affecting provision: functions transferred to Department of Social Protection and Department of and Minister for Jobs, Enterprise and Innovation construed (1.09.2017) by *Labour Affairs and Labour Law (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 361 of 2017), arts. 2, 3, 6-8, in effect as per art. 1(2), subject to transitional provisions in arts. 4, 5; superseded as per C-note above.
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act—
+
+"cash" means cash that is legal tender;
+
+"contract of employment" means—
+
+(*a*) a contract of service or of apprenticeship, and
+
+(*b*) any other contract whereby an individual agrees with another person to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract) whose status by virtue of the contract is not that of a client or customer of any profession or business undertaking carried on by the individual, and the person who is liable to pay the wages of the individual in respect of the work or service shall be deemed for the purposes of this Act to be his employer,
+
+whether the contract is express or implied and if express, whether it is oral or in writing;
+
+F1["contract worker" has the meaning assigned to it in *section 4F*;]
+
+"employee" means a person who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer; and for the purpose of this definition, a person holding office under, or in the service of, the State (including a member of the Garda Síochána or the Defence Forces) or otherwise as a civil servant, within the meaning of the Civil Service Regulation Act, 1956, shall be deemed to be an employee employed by the State or the Government, as the case may be, and an officer or servant of a local authority for the purposes of the F4[Local Government Act 2001 (as amended by the Local Government Reform Act 2014)], a harbour authority, a health board or F5[a member of staff of an education and training board] shall be deemed to be an employee employed by the authority F5[or board], as the case may be;
+
+"employer", in relation to an employee, means the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
+
+F2["mandatory charge" means a contractually-imposed and receipted payment that—
+
+(*a*) a customer is required to pay in order to receive certain goods or services provided to the customer by or on behalf of an employer, and
+
+(*b*) is payable by the customer in addition to an amount payable for the cost of such goods or services;]
+
+"the Minister" means the Minister for Labour;
+
+"strike" and "industrial action" have the meanings assigned to them by the Industrial Relations Act, 1990;
+
+F3["tip or gratuity" means a payment that is—
+
+(*a*) voluntarily made to, or left for, an employee or group of employees by a customer, in circumstances in which a reasonable person would be likely to infer that the customer intended or assumed that the payment would be kept by the employee or shared with other employees, or
+
+(*b*) voluntarily made to an employer, or to a person engaging contract workers, by a customer, in circumstances in which a reasonable person would be likely to infer that the customer intended or assumed that the payment would be distributed to an employee, a group of employees or to a contract worker;]
+
+"the Tribunal" means the Employment Appeals Tribunal;
+
+"wages", in relation to an employee, means any sums payable to the employee by the employer in connection with his employment, including—
+
+(*a*) any fee, bonus or commission, or any holiday, sick or maternity pay, or any other emolument, referable to his employment, whether payable under his contract of employment or otherwise, and
+
+(*b*) any sum payable to the employee upon the termination by the employer of his contract of employment without his having given to the employee the appropriate prior notice of the termination, being a sum paid in lieu of the giving of such notice:
+
+Provided however that the following payments shall not be regarded as wages for the purposes of this definition:
+
+(i) any payment in respect of expenses incurred by the employee in carrying out his employment,
+
+(ii) any payment by way of a pension, allowance or gratuity in connection with the death, or the retirement or resignation from his employment, of the employee or as compensation for loss of office,
+
+(iii) any payment referable to the employee's redundancy,
+
+(iv) any payment to the employee otherwise than in his capacity as an employee,
+
+(v) any payment in kind or benefit F6[in kind,]
+
+F1[(vi) any payment by way of tips or gratuities.]
+
+(2) Except in *section 5 (5) (f)*, a reference in this Act to an employer receiving a payment from an employee is a reference to his receiving such a payment in his capacity as the employee's employer.
+
+(3) In this Act, a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended.
+
+(4) In this Act, a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraphof the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 2(a), (b)(ii), S.I. No. 543 of 2022.
+>
+> F4: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 pt. 6, S.I. No. 214 of 2014.
+>
+> F5: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6, S.I. No. 211 of 2013.
+>
+> F6: Substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 2(b)(i), S.I. No. 543 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: functions transferred and Employment Appeals Tribunal construed by *Workplace Relations Act 2015* (16/2015), s. 66, not commenced as of date of revision.
+>
+> **Transfer of functions from Employment Appeals Tribunal**
+>
+> **66.**(1) (*a*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Commission in so far as they relate to any claim for redress, dispute or complaint determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (*b*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Labour Court in so far as they relate to appeals determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (2) (*a*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (a) of subsection (1) shall be construed as references to the Commission.
+>
+> (*b*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (b) of subsection (1) shall be construed as references to the Labour Court.
+>
+> (3) This section shall come into operation on the dissolution day.
+>
+> C3: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> Payment of Wages Act 1991 (No. 25 of 1991)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: functions transferred to Department of Social Protection and Department of and Minister for Jobs, Enterprise and Innovation construed (1.09.2017) by *Labour Affairs and Labour Law (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 361 of 2017), arts. 2, 3, 6-8, in effect as per art. 1(2), subject to transitional provisions in arts. 4, 5; superseded as per C-note above.
+
+## 2. Modes of payment of wages.
+
+**2.**—(1) Wages may be paid by and only by one or more of the following modes:
+
+(*a*) a cheque, draft or other bill of exchange within the meaning of the Bills of Exchange Act, 1882,
+
+(*b*) a document issued by a person who maintains an account with the Central Bank of Ireland or a holder of a licence under section 9 of the Central Bank Act, 1971, which, though not such a bill of exchange as aforesaid, is intended to enable a person to obtain payment from that bank or that holder of the amount specified in the document,
+
+(*c*) a draft payable on demand drawn by a holder of such a licence as aforesaid upon himself, whether payable at the head office or some other office of the bank to which the licence relates,
+
+(*d*) a postal, money or paying order, or a warrant, or any other like document, issued by or drawn on An Post or a document issued by an officer of a Minister of the Government that is intended to enable a person to obtain payment from that Minister of the Government of the sum specified in the document,
+
+(*e*) a document issued by a person who maintains an account with a trustee savings bank within the meaning of the Trustee Savings Banks Act, 1989, that is intended to enable a person to obtain payment from the bank of the sum specified in the document,
+
+(*f*) a credit transfer or another mode of payment whereby an amount is credited to an account specified by the employee concerned,
+
+(*g*) cash,
+
+(*h*) any other mode of payment standing specified for the time being by regulations made by the Minister after consultation with the Minister for Finance.
+
+(2) Where wages fall to be paid to an employee by a mode other than cash at a time when, owing to a strike or other industrial action affecting a financial institution, cash is not readily available to the employee, the employer concerned shall, if the employee consents, pay the wages by another mode (other than cash) specified in *subsection (1)* and, if the employee does not so consent, pay them in cash.
+
+(3) An employer who pays wages to an employee otherwise than by a mode specified in *subsection (1)* or contravenes *subsection (2)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by *paragraph (1)* shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 25 of 1991</td><td>Payment of Wages Act 1991</td><td>Section 2(1)(h)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E4: A fine of £1,000 converted (1.01.1999) to €1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 2, S.I. No. 662 of 2010.
+
+## 3. Repeal of Truck Acts, 1831 to 1896, and related enactments.
+
+**3.**—(1) The enactments specified in *column (2)* of the *Schedule* to this Act are hereby repealed to the extent specified in *column (3)* of that Schedule.
+
+(2) Notwithstanding any provision of this Act—
+
+(*a*) where, immediately before the commencement of this Act, an employee's wages were being paid to him in cash, the employer shall, while the employee is in the employment concerned, continue to pay those wages to him in cash unless any other mode of payment specified in *section 2* is agreed upon by the employer or an organisation representative of employers (of which the employer is a member) and the employee or an organisation representative of employees (of which the employee is a member), and
+
+(*b*) where, immediately before such commencement, an employee's wages were being paid to him, pursuant to section 3 of the Payment of Wages Act, 1979, by an instrument or mode of payment to which that section applied, then, if after such commencement, the agreement or other arrangement authorising payment of the wages by the instrument or mode aforesaid is terminated in a manner specified in that section, the employer shall pay those wages to him in cash unless any other mode of payment specified in *section 2* is agreed upon as aforesaid.
+
+(3) An employer who contravenes *subsection (2)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E5: A fine of £1,000 converted (1.01.1999) to €1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 2, S.I. No. 662 of 2010.
+
+## 4. Statements of wages and deductions from wages.
+
+**4.**—(1) An employer shall give or cause to be given to an employee a statement in writing specifying clearly the gross amount of the wages payable to the employee and the nature and amount of any deduction therefrom and the employer shall take such reasonable steps as are necessary to ensure that both the matter to which the statement relates and the statement are treated confidentially by the employer and his agents and by any other employees.
+
+(2) A statement under this section shall be given to the employee concerned—
+
+(*a*) if the relevant payment is made by a mode specified in *section 2 (1) (f)*, as soon as may be thereafter,
+
+(*b*) if the payment is made by a mode of payment specified in regulations under *section 2 (1) (h)*, at such time as may be specified in the regulations,
+
+(*c*) if the payment is made by any other mode of payment, at the time of the payment.
+
+(3) Where a statement under this section contains an error or omission, the statement shall be regarded as complying with the provisions of this section if it is shown that the error or omission was made by way of a clerical mistake or was otherwise made accidentally and in good faith.
+
+(4) An employer who contravenes *subsection (1)* or *(2)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Fixed payment of €1,500 in relation to offence under section prescribed for purposes of *Workplace Relations Act 2015* (16/2015), s. 36(1)(b) (1.10.2015) by *Workplace Relations Act 2015 (Fixed Payment Notice) Regulations 2015* (S.I. No. 419 of 2015), reg. 4(2).
+>
+> E7: Provision made for fixed payment notice for offence under section (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 36(5)(b), S.I. No. 410 of 2015; as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 7, S.I. No. 543 of 2022.
+>
+> E8: A fine of £1,000 converted (1.01.1999) to €1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 2, S.I. No. 662 of 2010.
+
+## 4A. Application of sections 4B to 4F.
+
+F7[**4A.** (1) The Minister may by regulation prescribe an employer or class of employer to which *sections 4B to 4E* (in so far as they are in operation) apply, and those sections shall apply to employers or classes of employers so prescribed.
+
+(2) The Minister may by regulation prescribe a person or class of person (whether or not such person is an employer) to whom *section 4F* (in so far as it is in operation) applies and that section shall apply to persons or classes of person so prescribed.
+
+(3) When making regulations under *subsection (1)*, the Minister—
+
+(*a*) shall have regard to the following:
+
+(i) whether or not employers to which the regulations relate are carrying on a business in the State in relation to which the payment of tips or gratuities by customers typically applies;
+
+(ii) the likely impact of such regulations on employment, either generally or in the particular economic sector to which the regulations relate;
+
+(iii) the impact on the welfare of employees of *sections 4B* to *4E* not applying to their employers;
+
+(iv) the need for customers of employers to which the regulations relate to be informed as to how tips or gratuities and mandatory charges paid will be treated;
+
+(v) the need for employees of employers to which the regulations relate to understand how tips or gratuities will be treated;
+
+(vi) the costs, including administrative and financial costs, of *sections 4B* to *4E* applying to the employers to which the regulations relate,
+
+(*b*) shall consult with—
+
+(i) such organisations as the Minister considers to be representative of the employers to which the regulations relate, or a substantial number of such employers, and
+
+(ii) a person, group or organisation that the Minister considers to be representative of a substantial number of employees of the employers to which the regulations relate,
+
+and
+
+(*c*) may—
+
+(i) specify employees of employers to which the regulations relate, or classes of such employees, in respect of whom the regulations shall not apply, and
+
+(ii) consult with such persons (if any), other than persons referred to in *paragraph (b)*, as the Minister considers appropriate having regard to the circumstances.
+
+(4) When making regulations under *subsection (2)*, the Minister—
+
+(*a*) shall have regard to the following:
+
+(i) whether or not persons to whom the regulations relate are carrying on a business in the State in relation to which the payment of tips or gratuities by customers typically applies;
+
+(ii) the likely impact of such regulations on employment, either generally or in the particular economic sector to which the regulations relate;
+
+(iii) the impact on the welfare of contract workers of *section 4F* not applying to the persons in respect of whom they are contract workers;
+
+(iv) the need for customers of persons to whom the regulations relate to be informed as to how tips or gratuities and mandatory charges paid will be treated;
+
+(v) the need for contract workers of persons to whom the regulations relate to understand how tips or gratuities will be treated by the person;
+
+(vi) the costs, including administrative and financial costs, of *section 4F* applying to the persons to which the regulations relate,
+
+(*b*) shall consult with—
+
+(i) such organisations as the Minister considers to be representative of the persons to whom the regulations relate, or a substantial number of such persons, and
+
+(ii) a person, group or organisation that the Minister considers to be representative of a substantial number of contract workers working for such persons, and
+
+(*c*) may—
+
+(i) specify employees of persons to which the regulations relate, classes of such employees or contract workers in respect of such persons in respect of whom the regulations shall not apply, and
+
+(ii) consult with such persons (if any), other than persons referred to in *paragraph (b)*, as the Minister considers appropriate having regard to the circumstances.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F7: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022.
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (1.12.2022) by *Payment of Wages Act 1991 (Application of Sections 4B to 4F) Regulations 2022* (S.I. No. 544 of 2022), in effect as per reg. 2.
+
+## 4B. Treatment of certain tips and gratuities.
+
+F8[**4B.** (1) An employer to which this section applies shall, in a manner that is fair in the circumstances and in accordance with this Act, distribute to his or her employees any tips or gratuities received by the employer by an electronic mode of payment.
+
+(2) Subject to *subsection (3)*, an employer shall not retain any share of tips or gratuities received by the employer by an electronic mode of payment.
+
+(3) An employer may only retain a share of tips or gratuities received by the employer by an electronic mode of payment—
+
+(*a*) in so far as such retention is required or permitted by this Act, or
+
+(*b*) where that employer—
+
+(i) regularly performs, to a substantial degree, the same work performed by some or all of the employees, and
+
+(ii) retains a share of tips or gratuities received by an electronic mode of payment that is no more than an amount that is fair and reasonable in the circumstances having regard to the amount of such work so performed by that employer.
+
+(4) In considering a complaint under Part 4 of the Workplace Relations Act 2015 regarding whether or not a distribution under *subsection (1)* of tips or gratuities to an employee is fair, an adjudication officer shall have regard to all of the factors or circumstances that he or she considers relevant, including—
+
+(*a*) the seniority or experience of the employee,
+
+(*b*) the value of sales, income or revenue generated for the business by the employee,
+
+(*c*) the proportion or number of hours worked by the employee during the pay period in which the tip or gratuity was made,
+
+(*d*) whether the employee is on a full-time or part-time contract of employment,
+
+(*e*) the role and influence of the employee in providing service to customers,
+
+(*f*) whether the employee was consulted in relation to the manner of distribution, and
+
+(*g*) whether there is an agreement, whether formal or informal, between the employer and the employee providing for the manner in which tips or gratuities are to be distributed.
+
+(5) (*a*) An employer to which this section applies shall, no later than 10 days from the date on which a distribution of tips or gratuities is made, give or cause to be given to an employee a statement in writing specifying clearly—
+
+(i) the total amount of tips or gratuities distributed by the employer for the period to which the statement relates, and
+
+(ii) the amount of tips or gratuities distributed to the employee to whom the statement is provided.
+
+(*b*) The employer shall take such reasonable steps as are necessary to ensure that both the matter to which the statement under *paragraph (a)* relates and the statement are treated confidentially by the employer and his or her agents and by any other employees.
+
+(6) Where a statement under this section contains an error or omission, the statement shall be regarded as complying with the provisions of this section if it is shown that the error or omission was made by way of a clerical mistake or was otherwise made accidentally and in good faith.
+
+(7) An employer to which this section applies shall, before establishing or making a material change to its policy on the manner in which tips or gratuities shall be distributed amongst employees, or on the way in which mandatory charges shall be treated, consult with those employees.
+
+(8) An employer who contravenes *subsection (5)(a)* shall be guilty of an offence and shall be liable on summary conviction to a class C fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022. A class C fine means a fine not exceeding €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E10: Provision made for fixed payment notice for offence under subs. (8) by *Workplace Relations Act 2015* (16/2015), s. 36(5)(b), as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 7, S.I. No. 543 of 2022.
+>
+> E11: Redress procedure for purpose of subss. (1), (2) provided by *Workplace Relations Act 2015* (16/2015), s. 41 and sch. 5 part 1 item 3, item 3 substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 8, S.I. No. 543 of 2022.
+
+## 4C. Prohibition on certain deductions.
+
+F9[**4C.** An employer to which this section applies shall not—
+
+(*a*) without prejudice to the generality of *section 5(1),* make a deduction from an employee’s wages in respect of tips or gratuities made to, or left for, an employee, or
+
+(*b*) make a deduction from tips or gratuities to be distributed, in accordance with *section 4B*, to an employee, other than—
+
+(i) as required by or under this Act, by any other statute or by any instrument made under any statute, or
+
+(ii) to the extent as is fair and reasonable in order to meet costs directly arising from paying tips or gratuities by means of electronic modes of payment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022.
+>
+> **Editorial Notes:**
+>
+> E12: Redress procedure for purpose of section provided by *Workplace Relations Act 2015* (16/2015), s. 41 and sch. 5 part 1 item 3, item 3 substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 8, S.I. No. 543 of 2022.
+
+## 4D. Treatment of matters described as service charge.
+
+F10[**4D.** (1) Where an employer to which this section applies—
+
+(*a*) describes a charge (including a mandatory charge) imposed on a customer as a "service charge", or any similar or cognate term, whether in a tips and gratuities notice or in any other medium, or
+
+(*b*) in any other way leads customers to believe that a mandatory charge shall be distributed to employees,
+
+the employer shall treat all payments, whether made by an electronic mode of payment or any other means, received from customers pursuant to such a charge as if any such payment was a tip or gratuity received by an electronic mode of payment.
+
+(2) An employer who contravenes *subsection (1)* shall be guilty of an offence and shall be liable on summary conviction to a class C fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022. A class C fine means a fine not exceeding €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E13: Provision made for fixed payment notice for offence under subs. (2) by *Workplace Relations Act 2015* (16/2015), s. 36(5)(b), as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 7, S.I. No. 543 of 2022.
+
+## 4E. Tips and gratuities notice.
+
+F11[**4E.** (1) An employer to which this section applies shall, in accordance with regulations made under *subsection (2)*, display a notice (in this Act referred to as a "tips and gratuities notice") stating—
+
+(*a*) whether or not tips or gratuities are distributed to and amongst employees,
+
+(*b*) where tips or gratuities are so distributed to and amongst employees, the manner in which they are distributed and the amounts so distributed,
+
+(*c*) whether mandatory charges, or any portion of them, are distributed to and amongst employees, and if so, the manner in which they are distributed and the amounts so distributed, and
+
+(*d*) such further or additional information as may be prescribed under *subsection (2)*.
+
+(2) The Minister may by regulations prescribe, either generally or in relation to particular employers or classes of employers to which this section applies—
+
+(*a*) particulars of the information referred to in *paragraphs (a)* to *(d)* of *subsection (1)* that shall be contained in a tips and gratuities notice,
+
+(*b*) further or additional information relating to tips or gratuities, or mandatory charges, in addition to the information referred to in *paragraphs (a)* to *(c)* of *subsection (1)*, that shall be contained in a tips and gratuities notice, and
+
+(*c*) the manner in which, or particular locations at which (including on a website or other online digital platform hosted by the employer, or at the place of business at which employees carry out their employment), a tips and gratuities notice shall be displayed.
+
+(3) An employer who contravenes *subsection (1)* shall be guilty of an offence and shall be liable on summary conviction to a class C fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022. A class C fine means a fine not exceeding €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to subs. (2) exercised (1.12.2022) by *Payment of Wages Act 1991 (Display of Notices) Regulations 2022* (S.I. No. 545 of 2022), in effect as per reg. 2.
+>
+> E15: Provision made for fixed payment notice for offence under subs. (3) by *Workplace Relations Act 2015* (16/2015), s. 36(5)(b), as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 7, S.I. No. 543 of 2022.
+
+## F12[4F. Tips and gratuities notice - contract workers.
+
+**4F.** (1) A person to whom this section applies shall, in accordance with regulations made under *subsection (2)*, display a notice (in this Act referred to as a "contract worker tips and gratuities notice") stating—
+
+(*a*) whether or not tips or gratuities are distributed to and amongst contract workers,
+
+(*b*) where tips or gratuities are so distributed to and amongst contract workers, the manner in which they are distributed and the amounts so distributed,
+
+(*c*) whether mandatory charges, or any portion of them, are distributed to and amongst contract workers, and if so, the manner in which they are distributed and the amounts so distributed, and
+
+(*d*) such further or additional information as may be prescribed under *subsection (2)*.
+
+(2) The Minister may by regulations prescribe, either generally or in relation to particular persons or classes of person to whom this section applies—
+
+(*a*) particulars of the information referred to in *paragraphs (a)* to *(d)* of *subsection (1)* that shall be contained in a contract worker tips and gratuities notice,
+
+(*b*) further or additional information relating to tips or gratuities, or mandatory charges, in addition to the information referred to in *paragraphs (a)* to *(c)* of *subsection (1)*, that shall be contained in a contract worker tips and gratuities notice, and
+
+(*c*) the manner in which, or particular locations at which (including on a website or other online digital platform hosted by the person, or at the place of business at which contract workers carry out their work or provide their service), a contract worker tips and gratuities notice shall be displayed.
+
+(3) A person who contravenes *subsection (1)* shall be guilty of an offence and shall be liable on summary conviction to a class C fine.
+
+(4) In this Act, "contract worker" means a natural person who carries out work other than as an employee, including on a contract for service, for a person to whom this section applies.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Inserted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 3, S.I. No. 543 of 2022. A class C fine means a fine not exceeding €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010, ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E16: Power pursuant to subs. (2) exercised (1.12.2022) by *Payment of Wages Act 1991 (Display of Notices) Regulations 2022* (S.I. No. 545 of 2022), in effect as per reg. 2.
+>
+> E17: Provision made for fixed payment notice for offence under subs. (3) by *Workplace Relations Act 2015* (16/2015), s. 36(5)(b), as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 7, S.I. No. 543 of 2022.
+
+## 5. Regulation of certain deductions made and payments received by employers.
+
+**5.**—(1) An employer shall not make a deduction from the wages of an employee (or receive any payment from an employee) unless—
+
+(*a*) the deduction (or payment) is required or authorised to be made by virtue of any statute or any instrument made under statute,
+
+(*b*) the deduction (or payment) is required or authorised to be made by virtue of a term of the employee's contract of employment included in the contract before, and in force at the time of, the deduction or payment, or
+
+(*c*) in the case of a deduction, the employee has given his prior consent in writing to it.
+
+(2) An employer shall not make a deduction from the wages of an employee in respect of—
+
+(*a*) any act or omission of the employee, or
+
+(*b*) any goods or services supplied to or provided for the employee by the employer the supply or provision of which is necessary to the employment,
+
+unless—
+
+(i) the deduction is required or authorised to be made by virtue of a term (whether express or implied and, if express, whether oral or in writing) of the contract of employment made between the employer and the employee, and
+
+(ii) the deduction is of an amount that is fair and reasonable having regard to all the circumstances (including the amount of the wages of the employee), and
+
+(iii) before the time of the act or omission or the provision of the goods or services, the employee has been furnished with—
+
+(I) in case the term referred to in *subparagraph (i)* is in writing, a copy thereof,
+
+(II) in any other case, notice in writing of the existence and effect of the term,
+
+and
+
+(iv) in case the deduction is in respect of an act or omission of the employee, the employee has been furnished, at least one week before the making of the deduction, with particulars in writing of the act or omission and the amount of the deduction, and
+
+(v) in case the deduction is in respect of compensation for loss or damage sustained by the employer as a result of an act or omission of the employee, the deduction is of an amount not exceeding the amount of the loss or the cost of the damage, and
+
+(vi) in case the deduction is in respect of goods or services supplied or provided as aforesaid, the deduction is ofan amount not exceeding the cost to the employer of the goods or services, and
+
+(vii) the deduction or, if the total amount payable to the employer by the employee in respect of the act or omission or the goods or services is to be so paid by means of more than one deduction from the wages of the employee, the first such deduction is made not later than 6 months after the act or omission becomes known to the employer or, as the case may be, after the provision of the goods or services.
+
+(3) (*a*) An employer shall not receive a payment from an employee in respect of a matter referred to in *subsection (2)* unless, if the payment were a deduction, it would comply with that subsection.
+
+(*b*) Where an employer receives a payment in accordance with *paragraph (a)* he shall forthwith give a receipt for the payment to the employee.
+
+(4) A term of a contract of employment or other agreement whereby goods or services are supplied to or provided for an employee by an employer in consideration of the making of a deduction by the employer from the wages of the employee or the making of a payment to the employer by the employee shall not be enforceable by the employer unless the supply or provision and the deduction or payment complies with *subsection (2)*.
+
+(5) Nothing in this section applies to—
+
+(*a*) a deduction made by an employer from the wages of an employee, or any payment received from an employee by an employer, where—
+
+(i) the purpose of the deduction or payment is the reimbursement of the employer in respect of—
+
+(I) any overpayment of wages, or
+
+(II) any overpayment in respect of expenses incurred by the employee in carrying out his employment,
+
+made (for any reason) by the employer to the employee, and
+
+(ii) the amount of the deduction or payment does not exceed the amount of the overpayment,
+
+or
+
+(*b*) a deduction made by an employer from the wages of an employee, or any payment received from an employee by an employer, in consequence of any disciplinary proceedings if those proceedings were held by virtue of a statutory provision, or
+
+(*c*) a deduction made by an employer from the wages of an employee in pursuance of a requirement imposed on the employer by virtue of any statutory provision to deduct and pay to a public authority, being a Minister of the Government, the Revenue Commissioners or a local authority for the purposes of the F13[Local Government Act 2001 (as amended by the Local Government Reform Act 2014)], amounts determined by that authority as being due to it from the employee, if the deduction is made in accordance with the relevant determination of that authority, or
+
+(*d*) a deduction made by an employer from the wages of an employee in pursuance of any arrangements—
+
+(i) which are in accordance with a term of a contract made between the employer and the employee to whose inclusion in the contract the employee has given his prior consent in writing, or
+
+(ii) to which the employee has otherwise given his prior consent in writing,
+
+and under which the employer deducts and pays to a third person amounts, being amounts in relation to which he has received a notice in writing from that person stating that they are amounts due to him from the employee, if the deduction is made in accordance with the notice and the amount thereof is paid to the third person not later than the date on which it is required by the notice to be so paid, or
+
+(*e*) a deduction made by an employer from the wages of an employee, or any payment received from an employee by his employer, where the employee has taken part in a strike or other industrial action and the deduction is made or the payment has been required by the employer on account of the employee’s having taken part in that strike or other industrial action, or
+
+(*f*) a deduction made by an employer from the wages of an employee with his prior consent in writing, or any payment received from an employee by an employer, where the purpose of the deduction or payment is the satisfaction (whether wholly or in part) of an order of a court or tribunal requiring the payment of any amount by the employee to the employer, or
+
+(*g*) a deduction made by an employer from the wages of an employee where the purpose of the deduction is the satisfaction (whether wholly or in part) of an order of a court or tribunal requiring the payment of any amount by the employer to the court or tribunal or a third party out of the wages of the employee.
+
+(6) Where—
+
+(*a*) the total amount of any wages that are paid on any occasion by an employer to an employee is less than the total amount of wages that is properly payable by him to the employee on that occasion (after making any deductions therefrom that fall to be made and are in accordance with this Act), or
+
+(*b*) none of the wages that are properly payable to an employee by an employer on any occasion (after making any such deductions as aforesaid) are paid to the employee,
+
+then, except in so far as the deficiency or non-payment is attributable to an error of computation, the amount of the deficiency or non-payment shall be treated as a deduction made by the employer from the wages of the employee on the occasion.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> **Editorial Notes:**
+>
+> E18: Redress and appeal procedures for purpose of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44 and sch. 5 part 1 item 3, sch. 6 part 1 item 4, sch. 6 part 2 item 4, S.I. No. 410 of 2015, item 3 as substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 8, S.I. No. 543 of 2022.
+>
+> E19: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act* (16/2015). s. 28 and sch. 4 item 2, S.I. No. 410 of 2015.
+
+## 6. F14[Complaint to adjudication officer under section 41 of Workplace Relations Act 2015]
+
+F14[**6.** (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015, in relation to a complaint of a contravention of F15[*section 4C* or *5*] as respects a deduction made by an employer F16[from the wages or tips or gratuities] of an employee or the receipt from an employee by an employer of a payment, that the complaint is, in whole or in part, well founded as respects the deduction or payment shall include a direction to the employer to pay to the employee compensation of such amount (if any) as he considers reasonable in the circumstances not exceeding—
+
+(*a*) F17[the net amount of the wages, or tip or gratuity as the case may be] (after the making of any lawful deduction therefrom) that—
+
+(i) in case the complaint related to a deduction, would have been paid to the employee in respect of the week immediately preceding the date of the deduction if the deduction had not been made, or
+
+(ii) in case the complaint related to a payment, were paid to the employee in respect of the week immediately preceding the date of payment,
+
+or
+
+(*b*) if the amount of the deduction or payment is greater than the amount referred to in *paragraph (a)*, twice the former amount.
+
+(2) (*a*) An adjudication officer shall not give a decision referred to in *subsection (1)* in relation to a deduction or payment referred to in that subsection at any time after the commencement of the hearing of proceedings in a court brought by the employee concerned in respect of the deduction or payment.
+
+(*b*) An employee shall not be entitled to recover any amount in proceedings in a court in respect of such a deduction or payment as aforesaid at any time after an adjudication officer has given a decision referred to in *subsection (1)* in relation to the deduction or payment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 4, S.I. No. 410 of 2015, subject to transnational provision in subs. (3).
+>
+> F15, F16, F17: Substituted (27.10.2022) by *Payment of Wages (Amendment) (Tips and Gratuities) Act 2022* (23/2022), s. 6(a)-(c), S.I. No. 543 of 2022.
+
+## 7. F18[Decision of Labour Court on appeal from decision referred to in section 6]
+
+**7.**—F18[A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in *section 6*, shall affirm, vary or set aside the decision of the adjudication officer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 4, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant exercised (1.01.1992) by *Payment of Wages (Appeals) Regulations 1991* (S.I. No. 351 of 1991).
+
+## 8. Enforcement of decisions of rights commissioner and determinations of Tribunal.
+
+**8.**—F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 4, S.I. No. 410 of 2015.
+
+## 9. Powers of authorised officers.
+
+**9.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.10.2015) by *Workplace Relations Act 2015*, s. 8(1) and sch. 2 part 1 ref. 4, S.I. No. 410 of 2015.
+
+## 10. Provisions in relation to offences.
+
+**10.**—(1) Proceedings for an offence under this Act may be brought and prosecuted by the Minister.
+
+(2) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+(3) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in anysuch capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.
+
+## 11. Voidance of certain provisions in agreements.
+
+**11.**—A provision in an agreement (whether a contract of employment or not and whether made before or after the commencement of this Act) shall be void in so far as it purports to preclude or limit the application of, or is inconsistent with, any provision of this Act.
+
+## 12. Laying of regulations before Houses of Oireachtas.
+
+**12.**—Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 13. Expenses of Minister.
+
+**13.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 14. Short title and commencement.
+
+**14.**—(1) This Act may be cited as the Payment of Wages Act, 1991.
+
+(2) This Act shall come into operation on such day as the Minister may appoint by order.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant exercised (1.01.1992) by *Payment of Wages Act 1991 (Commencement) Order 1991* (S.I. No. 350 of 1991) art 2.
+>
+> 2\. The 1st day of January, 1992, is hereby appointed as the day on which the Payment of Wages Act, 1991 (No. 25 of 1991), shall come into operation.
+
+## SCHEDULE — Enactments Repealed
+
+| Session and Chapter or Number & Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 17 Geo. 2, c. 8 | Truck Act, 1743 | Sections 6 and 7 |
+| 1 & 2 Will. 4, c. 37 | Truck Act, 1831 | The whole Act |
+| 9 Vict., c. 2 | County Works (Ireland) Act, 1846 | Section 20 |
+| 37 & 38 Vict., c. 48 | Hosiery Manufacture (Wages) Act, 1874 | The whole Act |
+| 50 & 51 Vict., c. 46 | Truck Amendment Act, 1887 | The whole Act |
+| 59 & 60 Vict., c. 44 | Truck Act, 1896 | The whole Act |
+| No. 40 of 1979 | Payment of Wages Act, 1979 | The whole Act |

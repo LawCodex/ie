@@ -1,0 +1,58 @@
+---
+title: "Courts Act, 1985"
+identifier: "eli/1985/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 1985
+date: 1985-12-26
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1985/act/23/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Courts Act, 1985
+
+AN ACT TO ENABLE THE NUMBER OF ORDINARY JUDGES OF THE HIGH COURT TO BE, DURING A LIMITED PERIOD, NOT MORE THAN FIFTEEN AND TO ENABLE THE NUMBER OF ORDINARY JUDGES OF THE CIRCUIT COURT TO BE NOT MORE THAN FIFTEEN AND TO PROVIDE FOR CERTAIN OTHER RELATED MATTERS. [26*th December*, 1985]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Number of ordinary judges of High Court.
+
+**1.**—(1) For so long as this section is in force the reference in section 1 of the Courts (No. 2) Act, 1981, to fourteen shall be construed as being a reference to fifteen.
+
+(2) This section shall cease to be in force on the day on which a vacancy amongst the ordinary judges of the High Court first occurs after the 2nd day of April, 1987.
+
+## 2. Amendment of Courts Act, 1977.
+
+**2.**—The Courts Act, 1977, is hereby amended—
+
+(*a*) in section 1, by the substitution of the following subsection for subsection (2) (inserted by section 30 of the Courts Act, 1981):
+
+“(2) The number of ordinary judges of the Circuit Court shall not be more than fifteen”,
+
+and
+
+(*b*) in section 2—
+
+(i) by the substitution of the following paragraph for paragraph (*a*) (inserted by the said section 30) of subsection (1):
+
+“(*a*) There shall be six judges of the Circuit Court permanently assigned to the Dublin Circuit.”,
+
+and
+
+(ii) by the substitution of the following paragraph for paragraph (*a*) (inserted by the said section 30) of subsection (2):
+
+“(*a*) to the Dublin Circuit if at the date of the appointment there are less than six judges permanently assigned to that circuit, or”.
+
+## 3. Consequential.
+
+**3.**—For so long as *section 1* of this Act is in force, paragraph (*b*)(inserted by the Courts (No. 2) Act, 1981) of subsection (1) of section 14 of the Law Reform Commission Act, 1975, shall be construed and have effect as if each of the references therein to fifteen were a reference to sixteen.
+
+## 4. Short title, collective citation and construction.
+
+**4.**—(1) This Act may be cited as the Courts Act, 1985.
+
+(2) The Courts (Supplemental Provisions) Acts, 1961 to 1983, and this Act may be cited together as the Courts (Supplemental Provisions) Acts, 1961 to 1985, and shall be construed together as one.

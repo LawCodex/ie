@@ -1,0 +1,1030 @@
+---
+title: "Control of Dogs Act, 1986"
+identifier: "eli/1986/act/32"
+type: act
+jurisdiction: ie
+language: en
+number: 32
+year: 1986
+date: 1986-12-17
+last_amended: 2025-06-09
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1986/act/32/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1986/act/32/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Control of Dogs Act, 1986
+
+AN ACT TO PROVIDE FOR THE LICENSING AND CONTROL OF DOGS AND TO PROVIDE FOR THE PROTECTION OF LIVESTOCK FROM WORRYING BY DOGS AND OTHERWISE TO AMEND AND EXTEND THE LAW RELATING TO DOGS; AND TO PROVIDE FOR CERTAIN OTHER MATTERS CONNECTED THEREWITH. [17*th December*, 1986]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> C1: Functions transferred and references to "Cathaoirleach" or "Cathaoirligh", "Leas-Chathaoirleach", "chief executive" and "deputy chief executive" construed (16.05.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), ss. 10, 23, 25, 26, 28 and sch. 1 parts 1, 2, S.I. No. 207 of 2024.
+>
+> **Functions of Mayor**
+>
+> **10.** (1) All functions (other than functions conferred by or under an enactment specified in Part 1 of Schedule 1) that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (2) All functions (other than functions conferred by or under an enactment specified in Part 2 of Schedule 1) that, immediately before the vesting day, vested in the chief executive of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (3) From the vesting day, a reference in any enactment (other than an enactment specified in Part 1 of Schedule 1) to Cathaoirleach shall, in so far as the reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (4) From the vesting day, a reference in any enactment (other than an enactment specified in Part 2 of Schedule 1) to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (5) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Príomh Chomhairleoir**
+>
+> **23.** (1) All functions conferred by or under an enactment specified in Part 1 of Schedule 1 that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Príomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in an enactment specified in Part 1 of Schedule 1 to Cathaoirleach or Cathaoirligh shall, in so far as that reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Príomh Chomhairleoir, or as including a reference to the Príomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Functions of Leas-Phríomh Chomhairleoir**
+>
+> **25.** (1) All functions conferred by or under any enactment that, immediately before the vesting day, vested in the Leas-Chathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Leas-Phríomh Chomhairleoir.
+>
+> (2) From the vesting day, a reference in any enactment to Leas-Chathaoirleach shall, in so far as that reference applies to the Leas-Chathaoirleach of Limerick City and County Council, be construed as a reference to the Leas-Phríomh Chomhairleoir, or as including a reference to the Leas-Phríomh Chomhairleoir, as the context may require.
+>
+> (3) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> **Director general**
+>
+> **26.** (1) The chief executive of Limerick City and County Council shall, on and after the vesting day, be known as the director general of Limerick City and County Council and is in this Act referred to as the “director general”.
+>
+> (2) The person who, immediately before the vesting day, was the chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in an enactment specified in Part 2 of Schedule 1 to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the director general, or as including a reference to the director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Deputy director general**
+>
+> **28.** (1) On and after the vesting day, a deputy chief executive appointed by the director general under section 148 of the Principal Act shall be known as the deputy director general of Limerick City and County Council and is, in this Act, referred to as the “deputy director general”.
+>
+> (2) The person who, immediately before the vesting day, was the deputy chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in any enactment to deputy chief executive shall, in so far as the reference applies to the deputy chief executive of Limerick City and County Council, be construed as a reference to the deputy director general, or as including a reference to the deputy director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> Enactments for Purposes of Sections 10 and 23
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Provision<br>(2)</td><td>Extent of Modification<br>(3)</td></tr><tr><td>No. 37 of 2001</td><td>Local Government Act 2001</td><td>Sections 11(5)(b), 11(8), 31(4)(a), 31(5), 31(7), 31(9), 31(11), 33, 34(2)(e), 36, 37, 38, 104(7)(a), 133(6)(a), 134(4)(b), 140(8), 141(1)(b), 141(4), 142(2)(a), 142(5)(f), 143(1), 147, 148, 158(3), 174(8), 178(2)(b), 178(5), 180(3)(a), 189(9), 190(9), 216(2)(a), 219(1) and 220(1); paragraphs 3(4), 4(2), 4(3), 6(1), 6(2), 6(3), 7(9), 10, 13(5)(e), 13(6) and 16(4)(c) of Schedule 10; paragraph 3 of Schedule 14.</td></tr></table>
+>
+> PART 2
+>
+> Enactments for Purposes of Sections 10 and 26
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td><td>Provision<br>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1986</td><td>Control of Dogs Act 1986</td><td>The whole Act.</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Collectively cited *Control of Dogs Acts* designated as primarily the responsibility of the Minister although functions conferred on local authorities (1.01.2002) by *Local Government Act 2001* (37/2001), s. 63(2)(a) and sch. 12 part 1, S.I. No. 588 of 2001.
+
+## 1. Interpretation.
+
+**1.**—In this Act—
+
+“damage” includes death or injury to any person (including any disease caused to a person or any impairment of his physical or mental condition) and includes injury to, or total or partial destruction of, property;
+
+“dispose of” means to sell or to give away;
+
+“dog” includes a bitch of any age or a dog of any age;
+
+“dog licence” means a licence entitling a person to keep a dog;
+
+“dog warden” means a person employed under *section 15* of this Act to be a dog warden for the purposes of this Act;
+
+F1[“general dog licence” means a licence entitling a person to keep an unspecified number of dogs at a premises specified in the licence, one premises only being so specified;]
+
+“greyhound” includes any whippet and any strain or cross of greyhound or whippet;
+
+“licence” includes, as the context may require, a dog licence and a general dog licence;
+
+“livestock” means cattle, sheep, swine, horses and all other equine animals, poultry, goats and deer not in the wild state;
+
+F2[“local authority ” means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014); and references to the functional area of a local authority shall be construed accordingly and local authority shall, as the context may require, include any other person with whom a local authority has entered into an arrangement pursuant to section 15 of this Act;]
+
+“the Minister” means the Minister for the Environment;
+
+“occupier” includes a person who owns and occupies, as well as a person who occupies only, any premises and in relation to any land includes a person who is in possession of land under a letting in conacre or for the purposes of agistment or for temporary depasturage;
+
+“owner” in relation to a dog includes the occupier of any premises where the dog is kept or permitted to live or remain at any particular time unless such occupier proves to the contrary: Provided always that where there is more than one dwelling in any house, the occupier of the dwelling in which the dog is kept, or is permitted to live or remain, shall, until the contrary is proved, be presumed to be the owner;
+
+“person in charge of livestock” includes the occupier of any land on which the livestock are kept, or the owner of the livestock, or any member of the family of such occupier or owner, or any person authorised to take charge of the livestock by any of them;
+
+“poultry” means domestic fowls, turkeys, geese, ducks, guinea-fowls, pigeons and peafowl and includes, whilst in captivity, pheasants, partridges, grouse and quail;
+
+“premises” includes any house or land;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“public place” means any street, road, seashore, park, land, field or other place to which the public have access, whether by right or by permission, and whether subject to or free of charge;
+
+“sterilise” means to render permanently incapable of breeding;
+
+“stray dog” has the meaning assigned to it by *section 11* of this Act;
+
+“Superintendent of the Garda Síochána” means the Superintendent of the Garda Síochána for the area in which a dog is, is found, or is shot;
+
+“veterinary surgeon” means any person who is lawfully qualified to practise veterinary surgery in the State;
+
+“worry” in relation to livestock, means to attack or kill or to chase livestock in such a way as may reasonably be expected to cause the death of or injury or suffering to the livestock or to result in financial loss to the owner of the livestock.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 2(1), S.I. No. 443 of 1998, subject to transitional provision in subs. (4).
+>
+> F2: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. 214 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to Minister for **Rural and Community Development** construed as Minister for **Agriculture, Food and the Marine** (1.06.2025) by *Dog Control (Transfer of Departmental Administration and Ministerial Functions) Order 2025* (S.I. No. 238 of 2025), arts. 2, 3 and sch, in effect as per art. 1(2), subject to transitional provisions in arts. 4-6, 8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Agriculture, Food and the Marine.
+>
+> (2) References to the Department of Rural and Community Development contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Agriculture, Food and the Marine.
+>
+> 3\. (1) The functions vested in the Minister for Rural and Community Development by or under the Acts specified in the Schedule are transferred to the Minister for Agriculture, Food and the Marine.
+>
+> (2) References to the Minister for Rural and Community Development contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Agriculture, Food and the Marine.
+>
+> ...
+>
+> SCHEDULE
+>
+> The Control of Dogs Act 1986 (No. 32 of 1986)
+>
+> Section 8 (2) of the Control of Dogs (Amendment) Act 1992 (No. 13 of 1993)
+>
+> ...
+>
+> The history of the Ministers concerned with the collectively cited *Control of Dogs Acts* can be traced as follows:
+>
+> • Name of Minister for the **Environment** changed to **Environment and Local Government** (22.07.1997) by *Environment (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 322 of 1997), in effect as per art. 1(2);
+>
+> • Name of Minister for the **Environment and Local Government** changed to **Environment, Heritage and Local Government** (10.06.2003) by *Environment and Local Government (Alteration of Name of Department and Title of Minister) Order 2003* (S.I. No. 233 of 2003), in effect as per art. 1(2);
+>
+> • Name of Minister for the **Environment, Heritage and Local Government** changed to **Environment, Community and Local Government** (2.05.2011) by *Environment, Heritage and Local Government (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 193 of 2011), in effect as per art. 1(2);
+>
+> • Name of Minister for the **Environment, Community and Local Government** changed to **Housing, Planning, Community and Local Government** (23.07.2016) by *Environment, Community and Local Government (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 394 of 2016), in effect as per art. 1(2);
+>
+> • Functions transferred and references to Minister for **Housing, Planning, Community and Local Government** construed as Minister for **Rural and Community Development** (27.07.2017) by *Community Development (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 357 of 2017), arts. 2, 3 and sch, in effect as per art. 1(2), subject to transitional provisions in arts. 4-6, 8;
+>
+> • Functions transferred and references to Minister for **Rural and Community Development** construed as Minister for **Agriculture, Food and the Marine** (1.06.2025) by *Dog Control (Transfer of Departmental Administration and Ministerial Functions) Order 2025* (S.I. No. 238 of 2025), arts. 2, 3 and sch, in effect as per art. 1(2), subject to transitional provisions in arts. 4-6, 8.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of local authority amended (1.01.1994) by *Local Government (Dublin) Act 1993* (31/1993), s. 4(1) and sch. 1, S.I. No. 400 of 1993; substituted as per F-note above.
+
+## 2. Prohibition on keeping a dog without a licence.
+
+**2.**—(1) Subject to *section 5* of this Act, it shall be unlawful for any person to—
+
+(*a*) keep a dog unless he holds either—
+
+(i) a dog licence for that dog, or
+
+F3[(ii) a general dog licence relating to the premises where the dog is kept, or,]
+
+F4[(*b*) take possession, unless he is the holder of a general dog licence relating to the premises where the dog is intended to be kept, of a dog, pursuant to a change of ownership, before the issue of a dog licence in respect of that dog, or,]
+
+(*c*) transfer possession of a dog pursuant to a change of ownership to any other person unless the other person is the holder of a dog licence for that dog or a general dog licence F5[relating to the premises where the dog is intended to be kept].
+
+(2) The occupier of any premises where a dog is found shall, for the purposes of this section, be deemed to be the person who keeps the dog unless he proves that—
+
+(*a*) he is not the owner of the dog, and
+
+(*b*) the dog was kept on the premises either—
+
+(i) without his knowledge, or
+
+(ii) by some other person who had a licence for the dog.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 2(2)(a), S.I. No. 443 of 1998, subject to transitional provision in subs. (4).
+>
+> F4: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 2(2)(b), S.I. No. 443 of 1998, subject to transitional provision in subs. (4).
+>
+> F5: Inserted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 2(2)(c), S.I. No 443 of 1998, subject to transitional provision in subs. (4).
+
+## 3. Issue of licences.
+
+**3.**—(1) A dog licence shall be issued to a person by the local authority for the functional area in which the dog is kept at, or is intended to be kept after, the issue of the licence.
+
+(2) A general dog licence shall be issued to a person by the local authority and shall relate to all dogs kept by F6[such person at the premises specified in the licence] within the functional area of the local authority.
+
+(3) A local authority may, with the consent of the Minister, enter into arrangements with any other person for the issue of licences on its behalf.
+
+(4) A licence which, before the commencement of this Act, was issued pursuant to section 37 of the Finance Act, 1925, shall be deemed for all purposes to be a licence issued under this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 2(3), S.I. No. 443 of 1998, subject to transitional provision in subs. (4).
+
+## 4. Persons disqualified from holding a licence.
+
+**4.**—A local authority shall not issue a dog licence or a general dog licence to any person who—
+
+(*a*) is under the age of sixteen years, or
+
+(*b*) is disqualified, pursuant to *section 18* of this Act, from keeping a dog.
+
+## 5. Exemption from holding a licence.
+
+**5.**—A licence shall not be required in respect of any dog—
+
+(*a*) whilst such dog is in the possession of a local authority;
+
+(*b*) whilst such dog is in the possession of the Irish Society for the Prevention of Cruelty to Animals or any other person with whom a local authority has entered into an arrangement pursuant to *section 15* of this Act;
+
+(*c*) which is kept by the Garda Síochána and wholly used by a member of the Garda Síochána in the execution of his duty;
+
+(*d*) which is kept and wholly or mainly used for the purpose of guidance by a blind person or a person whose eyesight is so defective that he is unable to find his way about without guidance;
+
+(*e*) which is under the age of four months and is kept with its dam or foster-mother;
+
+(*f*) whilst such dog is in the possession of an inspector (within the meaning of the Diseases of Animals Act, 1966), or other officer of the Minister for Agriculture, or a member of the Garda Síochána, for the purposes of that Act;
+
+(*g*) which is imported into the State for a period not exceeding thirty days;
+
+(*h*) which is a greyhound and is purchased for export and which is exported from the State within thirty days after the date of purchase;
+
+(*i*) which is kept by such other class of person as may be prescribed by the Minister.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (1.06.2013) by *Control of Dogs (Amendment) Regulations 2013* (S.I. No. 156 of 2013), in effect as per reg. 2.
+>
+> E4: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+
+## 6. Transfer of dog licence.
+
+**6.**—(1) A dog licence issued to a person in respect of a dog may be transferred to any other person when possession of the dog is transferred to such other person.
+
+(2) *Subsection (1)* of this section shall not apply in any case where the ownership of the dog is transferred to any other person.
+
+## 7. Duration of licence.
+
+F7[**7.**— (1) A dog licence shall be in the prescribed form and shall be valid—
+
+(*a*) at the option of the person to whom it is issued, for—
+
+(i) a period of 12 months, or
+
+(ii) any longer period standing prescribed for the time being,
+
+from the date of its issue, or
+
+(*b*) at the option of the person to whom it is issued, for a period that is contemporaneous with the remainder of the lifetime of the dog in respect of which the licence is issued.
+
+(2) A general dog licence shall be in the prescribed form and shall be valid, at the option of the person to whom it is issued, for the period of 12 months, or any longer period standing prescribed for the time being, from the date of its issue.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (1.01.2012) by *Dog Breeding Establishments Act 2010* (29/2010), s. 24, S.I. No. 699 of 2011.
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+>
+> E6: Power pursuant to section exercised (2.01.2012) by *Control of Dogs (Amendment) Regulations 2011* (S.I. No. 700 of 2011), in effect as per reg. 2.
+>
+> E7: Previous affecting provision: section amended (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 3, S.I. No. 443 of 1998; section substituted as per F-note above.
+>
+> Previous affecting provision: power pursuant to section exercised (3.02.1987) by *Control of Dogs Regulations 1987* (S.I. No. 30 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 8. Fee for licence.
+
+F8[**8.**— (1) Subject to *subsection (2)*, the following fees are payable to a local authority:
+
+(*a*) in respect of the issue of a dog licence to which *paragraph (a)* of *subsection (1)* of *section 7* (inserted by section 24 of the Dog Breeding Establishments Act 2010) applies, €20;
+
+(*b*) in respect of the issue of a dog licence to which *paragraph (b)* of the said *subsection (1)* applies, €140; or
+
+(*c*) in respect of the issue of a general dog licence, €400.
+
+F9[(2) The operator of a dog breeding establishment registered under the Dog Breeding Establishments Act 2010, where that operator is required to hold a general dog licence, shall not, other than where the operator is a fee exempt applicant within the meaning of section 9 of that Act, be liable to pay a fee in respect of the issue of that licence.]
+
+(3) The Minister may by order amend *subsection (1)* by substituting for an amount standing specified for the time being in that subsection an amount equal to the amount obtained by multiplying the first-mentioned amount by the figure specified in *subsection (4)* and, if the amount so obtained is not a whole number of euros and the Minister considers it appropriate to do so rounding (up or down as he or she thinks fit) the amount to the nearest whole number of euros.
+
+(4) The figure mentioned in *subsection (3)* is the quotient rounded up to 3 decimal places obtained by dividing the consumer price index number in respect of the year in which the order concerned is made by the consumer price index number in respect of the year in which section 25 of the Dog Breeding Establishments Act 2010 comes into operation.
+
+(5) Whenever an order is proposed to be made under this section, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving the draft has been passed by each such House.
+
+(6) In this section "consumer price index number" means the All Items Consumer Price Index Number compiled by the Central Statistics Office, and a reference to the consumer price index number in respect of any year is a reference to the consumer price index number at such date in that year as is determined by the Minister with the consent of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (1.01.2012) by *Dog Breeding Establishments Act 2010* (29/2010), s. 25, S.I. No. 699 of 2011.
+>
+> F9: Substituted (1.09.2016) by *Environment (Miscellaneous Provisions) Act 2015* (29/2015), s. 46, S.I. No. 505 of 2016.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (1)(a), (b) amended (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 4(a), (b), S.I. No. 443 of 1998; section substituted as per F-note above.
+>
+> E9: Previous affecting provision: subs. (2) substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 4(c), S.I. No. 443 of 1998; section substituted as per F-note above.
+
+## 9. Control of dogs.
+
+**9.**—(1) The owner or any other person in charge of a dog shall not permit the dog to be in any place other than—
+
+(*a*) the premises of the owner, or
+
+(*b*) the premises of such other person in charge of the dog, or
+
+(*c*) the premises of any other person, with the consent of that person,
+
+unless such owner or such other person in charge of the dog accompanies it and keeps it under effectual control.
+
+(2) If a dog worries livestock, the owner or any other person in charge of the dog shall be guilty of an offence unless it is established that at the material time the dog worried the livestock for the purpose of removing trespassing livestock and that having regard to all the circumstances the action was reasonable and necessary.
+
+(3) F10[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Repealed (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 11(a), S.I. No. 443 of 1998.
+
+## 10. Control of greyhounds.
+
+**10.**—(1) A person shall not permit a greyhound to be in any public place unless such greyhound is being led by means of a sufficiently strong chain or leash.
+
+(2) A person shall not lead or cause or permit to be led by any one person more than four greyhounds at a time in any public place.
+
+## 11. Stray dogs.
+
+**11.**—(1) A dog warden shall take all reasonable steps to seize and detain any dog that appears to him to be a stray dog and he may enter any premises (other than a dwelling) for the purposes of such seizure and detention.
+
+(2) A member of the Garda Síochána may seize and detain any dog that appears to him to be a stray dog and he may enter any premises (other than a dwelling) for the purposes of such seizure and detention.
+
+(3) Whenever a member of the Garda Síochána seizes or detains a dog pursuant to *subsection (2)* of this section, he may deliver the dog to the local authority in whose functional area the dog was found.
+
+(4) Whenever a stray dog is seized or detained pursuant to this section by a dog warden or a member of the Garda Síochána, the local authority or, as the case may be, the Superintendent of the Garda Síochána shall give notice to the owner or other person in charge of the dog, if the name of such owner or other person is known to it or him or can be readily ascertained, that the dog has been seized and detained and that the dog will be disposed of, or destroyed, after five days from the date of the giving of the notice, if such dog is not claimed and all expenses relating to its seizure and detention are not paid by the owner or, as the case may be, the person in charge of the dog.
+
+(5) If any person claims a dog which has been seized and detained pursuant to this section, the local authority or the Superintendent of the Garda Síochána shall give the dog to such person if such person—
+
+(*a*) satisfies the local authority or the Superintendent of the Garda Síochána, as the case may be, that he is the owner of the dog or has been authorised by the owner to claim the dog,
+
+F11[(*b*) makes a declaration in the prescribed form stating that, either (as the case may be), he is such owner or has been so authorised to claim the dog and produces, for inspection by the local authority or the Superintendent of the Garda Síochána, a dog licence relating to the dog or a general dog licence issued either before or after the commencement of section 2 of the Control of Dogs (Amendment) Act, 1992, and (if issued after such commencement) relating to the premises where the dog is kept, and]
+
+(*c*) pays the amount of the expenditure incurred by the local authority or by the Garda Síochána in respect of the seizure and detention of the dog.
+
+(6) Whenever a stray dog is seized or detained pursuant to this section by a dog warden or a member of the Garda Síochána, the local authority, or as the case may be, the Superintendent of the Garda Síochána shall cause an entry to be made in the register required to be kept under *section 14* of this Act.
+
+(7) Five days following the making of an entry in the register pursuant to *subsection (6)* of this section, or following the giving of a notice pursuant to *subsection (4)* of this section, whichever is the later, the local authority, or the Superintendent of the Garda Síochána, as the case may be, if no person has been given the dog pursuant to *subsection (5)* of this section and paid all expenses relating to its seizure and detention, may, subject to *subsection (8)* of this section, dispose of the dog or arrange for its destruction in a humane manner.
+
+(8) A local authority or a Superintendent of the Garda Síochána, as the case may be, shall not dispose of a dog pursuant to *subsection (7)* of this section for the purposes of animal experimentation.
+
+(9) A local authority may, before disposing of a dog under this section, sterilise, or arrange to have sterilised, the dog.
+
+(10) Where a local authority or a Superintendent of the Garda Síochána disposes of a dog under this section, the person to whom the dog is given shall become the owner of the dog and the title of its previous owner shall thereupon become extinguished.
+
+(11) In this Act “stray dog” includes any dog which appears to be unaccompanied by a person unless such dog is on the premises of its owner or of some other person who has the dog in his charge or of any other person with that person’s consent.
+
+(12) The Minister may, by regulations, vary the period of days specified in *subsections (4)* and (*7*) of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 5, S.I. No. 443 of 1998.
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (3.02.1987) by *Control of Dogs Regulations 1987* (S.I. No. 30 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 12. Unwanted dogs.
+
+**12.**—(1) A local authority may accept from its owner, or from a person authorised by the owner, an unwanted dog and, subject to *subsection (2)* of this section, may dispose of such dog or arrange for its destruction in a humane manner.
+
+(2) A local authority shall not dispose of a dog pursuant to *subsection (1)* of this section for the purposes of animal experimentation.
+
+(3) A local authority may, before disposing of a dog under this section, sterilise, or arrange to have sterilised, the dog.
+
+(4) Where a local authority disposes of a dog under this section, the person to whom the dog is given shall become the owner of the dog and the title of its previous owner shall thereupon become extinguished.
+
+## 13. Finding of stray dogs.
+
+**13.**—(1) Any person, other than a dog warden or a member of the Garda Síochána, who finds and takes possession of a stray dog shall, forthwith—
+
+(*a*) return the dog to its owner, or
+
+(*b*) deliver the dog to a dog warden, or
+
+(*c*) detain the dog and give notice in writing containing a description of the dog, the address of the place where it was found, and the address of the place where it is detained to the member in charge at the nearest Garda Station to the place where the dog was found, or to a dog warden.
+
+(2) In particular and without prejudice to the provisions of *subsection (1)* of this section, where any person has reasonable grounds for believing that a stray dog has worried or is about to worry livestock, such person may seize the dog and shall forthwith deliver it to a dog warden.
+
+(3) Where a person has found a stray dog and has retained possession of the dog for a year after the date on which he gave the notice referred to in *subsection (1)* of this section, and the dog has not been claimed by its owner within that year, such person shall become the owner of the dog and the title of the former owner to the dog shall be extinguished.
+
+(4) *Subsection (3)* of this section shall not apply if, during the period of a year specified in that subsection, the person who found the dog has ascertained who is the owner of the dog, whereupon such person shall notify the owner that the dog is in his possesion and that the dog can be collected from him.
+
+(5) Notwithstanding the provisions of *section 2* of this Act, a person who is not the holder of a general dog licence and who detains a stray dog pursuant to this section shall not be required to obtain a dog licence relating to that dog until he has kept the dog in his possession for a period of not less than twenty-eight days, and the said *section 2* shall be construed and have effect accordingly.
+
+## 14. Register of seized dogs.
+
+**14.**—(1) Every local authority shall keep a register of all dogs—
+
+(*a*) seized by a dog warden employed by it, and
+
+(*b*) detained by any other person and notified to such dog warden.
+
+(2) Every Superintendent of the Garda Síochána shall keep a register of all dogs—
+
+(*a*) seized by a member of the Garda Síochána under his control, and
+
+(*b*) detained by any other person and notified to the member in charge of any Garda Station within his area, and
+
+(*c*) shot by any person and reported to the member in charge of any Garda Station within his area.
+
+(3) Every register maintained under this section shall contain the following particulars, that is to say:
+
+(*a*) a description of the dog;
+
+(*b*) in the case of a dog seized by a dog warden or a member of the Garda Síochána, the date of the seizure of the dog and particulars of the manner in which the dog is disposed of or, as the case may be, destroyed;
+
+(*c*) in the case of a dog which was detained by any other person, the date of notification of the detention to, as the case may be, the dog warden or the member in charge of the Garda Station concerned, the place where the dog was found, and the place where the dog is detained.
+
+(4) Every register maintained under this section shall be open for inspection at all reasonable times by any interested person.
+
+(5) Every entry in a register maintained under this section shall be retained therein for a period of not less than one year.
+
+## 15. Duties of a local authority.
+
+**15.**—(1) Every local authority shall employ one or more persons to be dog wardens for the purposes of this Act and every person so employed shall be furnished with a certificate of his appointment and when exercising a power under this Act shall, if requested by any person thereby affected, produce such certificate for inspection by the person.
+
+(2) Every local authority shall establish and maintain one or more shelters for dogs seized, accepted or detained under any of the provisions of this Act and may, F12[...] enter into arrangements with any person for the provision and maintenance of such shelters and for the exercise by such person of the functions of the local authority under this Act in respect of the acceptance, detention, disposal and destruction of stray and unwanted dogs.
+
+(3) Subject to the provisions of this Act, a local authority may enter into arrangements with any other local authority, or with the Irish Society for the Prevention of Cruelty to Animals, or, F12[...] with a person connected with animal welfare, for the exercise of all or any of its functions, other than its functions under *section 17* or *section 30* of this Act, under this Act by, as the case may be, such other local authority, such Society or such person.
+
+(4) A local authority may assist any person providing homes or shelters for stray or unwanted dogs by helping that person in money or kind or by the provision of services or facilities (including the services of staff).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Deleted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 6, S.I. No. 443 of 1998.
+>
+> **Editorial Notes:**
+>
+> E12: Delegation of reserved functions under section restricted in certain circumstances (1.06.2014) by *Local Government (Performance of Reserved Functions in Respect of Municipal District Members) Regulations 2014* (S.I. No. 231 of 2014), art. 6(1), in effect as per art. 2.
+>
+> E13: Functions under subss. (2)-(4) designated reserved functions and performable by elected council of a local authority or members of a joint body as provided (1.01.2002) bv *Local Government Act 2001* (37/2001), s. 131 and sch. 14A part 3 item 104, S.I. No. 588 of 2001.
+>
+> E14: Functions under subss. (2)-(4) designated reserved functions and performable by resolution of members of local authority as provided (1.03.1993) by *Local Government Act, 1991 (Reserved Functions) Order 1993* (S.I. No. 37 of 1993), art. 2 and sch., in effect as per art. 3.
+
+## 16. Powers of dog wardens.
+
+**16.**—(1) A dog warden may—
+
+(*a*) where he has reasonable grounds for believing that a person is committing, or has committed, an offence under this Act or under any regulation or bye-law made thereunder, request of the person his name and address and may request that any information given be verified;
+
+(*b*) seize any dog and detain it in order to ascertain whether an offence under this Act is being or has been committed and may enter any premises (other than a dwelling) for the purposes of such seizure and detention;
+
+(*c*) enter any premises (other than a dwelling) for the purpose of preventing or ending—
+
+(i) an attack by a dog on any person, or
+
+(ii) the worrying of livestock;
+
+(*d*) enter any premises (other than a dwelling)—
+
+(i) which are registered in accordance with regulations made under *section 19* of this Act, or
+
+F13[(ii) where he has reasonable grounds for believing that a guard dog is, or more than 5 dogs that are aged over 4 months are, kept,]
+
+and therein examine such dogs as he may find there and the kennels or part of the premises in which the dogs are kept;
+
+(*e*) request any person who owns, is in charge of, or is in possession of a dog to produce, as the case may be, a dog licence or a general dog licence, within ten days of the date of the request, for examination by the dog warden.
+
+(2) A dog warden, in exercising a power of entry into any premises under this Act, may bring with him into such premises such other persons as he believes to be necessary for the purpose of assisting him in the exercise of his powers and functions under this Act and the dog warden and any such other person may take with them into the premises such equipment as they consider to be necessary.
+
+(3) Any person who—
+
+(*a*) obstructs or impedes a dog warden in the exercise of his functions under this Act, or
+
+(*b*) refuses to give his name and address to a dog warden when requested so to do, or who gives a name or address which is false or misleading when so requested,
+
+shall be guilty of an offence F14[...].
+
+(4) Where a member of the Garda Síochána is of opinion that a person is committing or has committed an offence under this section, he may arrest the person without warrant.
+
+F15[(5) (*a*) Where a dog has been seized under *subsection (1) (b)* of this section and the dog warden who seized it is satisfied that an offence under this Act has been committed in relation to the dog, the dog may either be detained until the District Court has made an order in relation to it or be destroyed unless—
+
+(i) within 5 days of such seizure, the owner of the dog or some other person undertakes in writing to pay to the local authority in whose functional area the dog was seized, in such manner, at such time or times and by means of such number of payments as may be specified in the undertaking, the reasonable cost of keeping the dog, and
+
+(ii) the terms of the undertaking are complied with by the owner or other person, as the case may be.
+
+(*b*) An amount due and unpaid by a person pursuant to an undertaking under *paragraph (a)* of this subsection may be recovered from the person by the local authority concerned as a simple contract debt in any court of competent jurisdiction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 7(a), S.I. No. 443 of 1998.
+>
+> F14: Repealed (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 11(b), S.I. No. 443 of 1998.
+>
+> F15: Inserted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 7(b), S.I. No. 443 of 1998.
+
+## 17. Bye-laws.
+
+F16[**17.**—(1) A local authority may make bye-laws relating to the control of dogs within its functional area.
+
+(2) A bye-law under *subsection (1)* shall, subject to *subsection (3)*, be made in accordance with, and read as if it was made under Part 19 of the Local Government Act, 2001.
+
+(3) *Section 27(1)(d)* and *section 30* shall apply in respect of a bye-law under *subsection (1)* and paragraphs (h) and (i) of section 199(3) of the Local Government Act, 2001, and sections 205 to 208 of that Act shall not apply in respect of such bye-law.
+
+(4) Bye-laws under *subsection (1)* may, without prejudice to the generality of that subsection or of section 199(3) of the Local Government Act, 2001, make provision for all or any of the following matters:
+
+(*a*) specify areas in such part of the functional area of the local authority as may be specified in the bye-laws in which the person in charge of a dog shall be required to keep the dog on a leash,
+
+(*b*) specify areas in such part of the functional area of the local authority as may be specified in the bye-laws in which a dog, other than a dog being used by a blind person or by a person whose eyesight is so defective that the person is unable to find his or her way without guidance, shall not be allowed.
+
+(5) Bye-laws made under this section shall not apply to a dog being used—
+
+(*a*) in the execution of his or her duty by a member of the Garda Síochána, or
+
+(*b*) for such other purpose as the Minister may prescribe.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (10.07.2006) by *Local Government Act 2001* (37/2001), s. 211(1), S.I. No. 361 of 2006.
+>
+> **Editorial Notes:**
+>
+> E15: Delegation of reserved functions under section restricted in certain circumstances (1.06.2014) by *Local Government (Performance of Reserved Functions in Respect of Municipal District Members) Regulations 2014* (S.I. No. 231 of 2014), art. 6(1), in effect as per art. 2.
+>
+> E16: Functions under section designated reserved functions and performable by elected council of a local authority or members of a joint body as provided (1.01.2002) bv *Local Government Act 2001* (37/2001), s. 131 and sch. 14A part 3 item 105, S.I. No. 588 of 2001.
+>
+> E17: Previous affecting provision: subs. 2(a) repealed (1.07.1997) by *Litter Pollution Act 1997* (12/1997), s. 35(2), S.I. No. 213 of 1997; section substituted as per F-note above.
+>
+> E18: Previous affecting provision: power to make bye-laws under section construed by *Local Government Act 1994* (8/1994), s. 37(3)(c), not commenced; deleted (1.07.1997) by *Litter Pollution Act 1997* (12/1997), s. 35(1)(a), commenced on enactment.
+>
+> E19: Previous affecting provision: subss. (3), (4) repealed (1.01.1996) by *Local Government Act 1994* (8/1994), s. 4(1) and sch. 1 part 1, S.I. No. 362 of 1995. Subs. (5) also repealed by same provision but repeal not commenced. Section substituted as per F-note above.
+
+## 18. Disqualification from keeping a dog.
+
+**18.**—(1) Any person who is convicted under the Protection of Animals Acts, 1911 and 1965, of the offence of cruelty to a dog may, in addition to any penalty imposed under those Acts, be disqualified from keeping a dog for such period as the Court thinks fit.
+
+(2) Notwithstanding anything contained in any enactment, where a person is so convicted and disqualified the Court may make such order as it thinks fit for the disposal or humane destruction of any dog kept by such person, and may order that the expense incurred in the disposal or humane destruction of a dog under this section, including the expense of any veterinary surgeon, shall be paid by the person convicted in addition to any other penalty which the Court may impose.
+
+(3) Any person who makes default in the payment of any expenses ordered to be paid pursuant to *subsection (2)* of this section, shall be guilty of an offence F17[...].
+
+(4) Where the Court orders, pursuant to *subsection (2)* of this section, the destruction of a dog, the Court may direct that the dog be delivered to a dog warden or any suitable person for that purpose, and the person to whom the dog is delivered shall, as soon as possible, destroy the dog, or cause it to be destroyed, in a humane manner.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Repealed (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 11(c), S.I. No. 443 of 1998.
+
+## 19. Regulation of premises and dogs.
+
+F18[**19.**—(1) The Minister may, by regulations, specify standards for premises at which a guard dog is, or more than 5 dogs aged over 4 months are, kept, and make provision for the use and control of dogs.
+
+(2) Without prejudice to the generality of *subsection (1)* of this section, regulations under this section may—
+
+(*a*) prohibit the keeping of a guard dog or more than 5 dogs aged over 4 months at any premises unless the premises are registered under regulations under *paragraph (b)* of this subsection;
+
+F19[(*aa*) provide for the establishment and maintenance of a database containing information relating to all dogs in the State,
+
+(*ab*) make provision in relation to such database, including provision in relation to the information or classes of information that shall be recorded in such database, the publication of such information and the persons to whom such information may be provided;]
+
+(*b*) make provision, in relation to premises at which a guard dog is, or more than 5 dogs aged over 4 months are, kept for—
+
+(i) the registration of the premises by the local authority in whose functional area the premises are situated and for the form of the register to be established and maintained by the local authority for that purpose;
+
+(ii) the requirements to be complied with to enable any such premises to be registered;
+
+(iii) the circumstances in which registration of any such premises may be refused or cancelled;
+
+(iv) the construction and operation of kennels in any such premises;
+
+(v) the keeping of records by the owner or occupier of such premises and the inspection of such records;
+
+(*c*) make provision for the regulation of the use of guard dogs at or in the immediate vicinity of premises used wholly or mainly for the purposes of any business, profession or occupation;
+
+(*d*) make provision for the muzzling of dogs or of specified classes of dogs either generally or in specified circumstances;
+
+(*e*) make provision for the control of dogs or of specified classes of dogs, including different provision for different classes of dogs;
+
+(*f*) make provision for the prohibition of the presence of specified classes of dogs in public places or specified public places;
+
+(*g*) make provision for the prohibition of the ownership, keeping, purchase, disposal (whether by sale or otherwise), abandonment, allowing to stray, breeding or importation of specified classes of dogs, being dogs that, in the opinion of the Minister, have such characteristics as to cause them to be a danger to the public;
+
+(*h*) require the destruction or sterilisation in a humane manner of dogs to which regulations under *paragraph (g)* of this subsection relate and which are in the State;
+
+(*i*) make provision for the effecting by owners of dogs or of specified classes of dogs of contracts of insurance against injury or damage caused by the dogs to persons or property;
+
+(*j*) make provision for the identification of dogs or of specified classes of dogs and of their ownership by the wearing by the dogs concerned of collars or harnesses having the name and address of their owners inscribed thereon or on a plate, badge or disc attached thereto;
+
+(*k*) make provision for other means of identification of dogs or of specified classes of dogs and of their ownership;
+
+(*l*) require that a dog shall carry a means of licence identification whether by means of a disc, badge or plate attached to its collar or harness or by other means;
+
+(*m*) make provision for the exemption from all or any of the provisions of the regulations of an inspector (within the meaning of the Diseases of Animals Act, 1966) or other officer of the Minister for Agriculture and Food, or an officer of a local authority in relation to the possession of a dog for the purposes of that Act and of a dog when in such possession;
+
+(*n*) make provision for the exemption from all or any of the provisions of the regulations of specified classes of persons in relation to the possession or use of dogs or of specified classes of dogs either generally or in specified circumstances and of dogs or of specified classes of dogs when in such possession or being so used;
+
+(*o*) provide for the classification of persons or dogs for the purpose of the regulations in such manner and by reference to such matters as may be specified in the regulations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(1), S.I. No. 443 of 1992.
+>
+> F19: Inserted (1.01.2012) by *Dog Breeding Establishments Act 2010* (29/2010), s. 26, S.I. No. 699 of 2011.
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to section exercised (9.06.2025) by *Control of Dogs (XL Bully) (Amendment) Regulations 2025* (S.I. No. 214 of 2025), in effect as per reg. 2.
+>
+> E21: Power pursuant to section exercised (1.10.2024) by *Control of Dogs (XL Bully) Regulations 2024* (S.I. No. 491 of 2024), in effect as per reg. 2.
+>
+> E22: Power pursuant to section exercised (1.03.2020) by *Control of Dogs (Dog Licensing Database) Regulations 2019* (S.I. No. 683 of 2019), in effect as per reg. 2.
+>
+> E23: Power pursuant to section exercised (1.06.2013) by *Control of Dogs (Amendment) Regulations 2013* (S.I. No. 156 of 2013), in effect as per reg. 2.
+>
+> E24: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2; confirmed continued in force (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(2), S.I. No. 443 of 1992.
+>
+> E25: Power pursuant to section exercised (11.12.1989) by *Control of Dogs Act 1986 (Guard Dogs) (Amendment) Regulations 1989* (S.I. No. 329 of 1989); confirmed continued in force (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(2), S.I. No. 443 of 1992.
+>
+> E26: Power pursuant to section exercised (1.02.1989) by *Control of Dogs Act 1986 (Guard Dogs) Regulations 1988* (S.I. No. 255 of 1988), in effect as per reg. 1(2); confirmed continued in force (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(2), S.I. No. 443 of 1992.
+>
+> E27: Previous affecting provision: power pursuant to section exercised (8.10.1996) by *Control of Dogs (Restriction of Certain Dogs) (Amendment) Regulations 1996* (S.I. No. 295 of 1996); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E28: Previous affecting provision: power pursuant to section exercised (1.06.1991 and 14.06.1991) by *Control of Dogs (Restriction of Certain Dogs) Regulations 1991* (S.I. No. 123 of 1991), in effect as per reg. 2; revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E29: Previous affecting provision: power pursuant to section exercised (14.06.1991) by *Control of Dogs (Restriction of Certain Dogs) (Amendment) Regulations 1991* (S.I. No. 146 of 1991); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 20. Amendment of Protection of Animals Act, 1911.
+
+**20.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (6.03.2014) by *Animal Health and Welfare Act 2013* (15/2013), s. 4 and sch. 1, S.I. No. 106 of 2014.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: subss. (2), (3), repealed (5.03.1997) by *Control of Horses Act 1996* (37/1996), s. 48(2), S.I. No. 99 of 1997.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (19.05.1994) by *Protection of Animals Act 1911 (Section 1) (Variation of Fines) Regulations 1994* (S.I. No. 148 of 1994), subject to transitional provision in reg. 2(2); rendered obsolete by repeal of enabling section as per F-note above.
+
+## 21. Liability of owner for damage by dog.
+
+**21.**—(1) The owner of a dog shall be liable in damages for damage caused in an attack on any person by the dog and for injury done by it to any livestock; and it shall not be necessary for the person seeking such damages to show a previous mischievous propensity in the dog, or the owner's knowledge of such previous propensity, or to show that such injury or damage was attributable to neglect on the part of the owner.
+
+(2) Where livestock are injured by a dog on land on to which they had strayed, and either the dog belonged to the occupier of the land or its presence on the land was authorised by the occupier, a person shall not be liable under this section in respect of injury done to the livestock, unless the person caused the dog to attack the livestock.
+
+(3) A person is liable in damages for any damage caused by a dog kept on any premises or structure to a person trespassing thereon only in accordance with the rules of law relating to liability for negligence.
+
+(4) (*a*) Any damage or injury for which a person is made liable under this section shall be deemed to be attributable to a wrong within the meaning of the Civil Liability Act, 1961, and the provisions of that Act shall apply accordingly.
+
+(*b*) Sections 11 (2) (*a*) and 11 (2) (*b*) of the Statute of Limitations, 1957, shall apply to such damage.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Reference construed (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s. 3(4), commenced on enactment. Note that s. 3(1) is prospectively substituted by *Legal Services Regulation Act 2015* (65/2015), s. 221(1)(a), not commenced as of date of revision.
+>
+> **Special time limit for actions in respect of personal injuries.**
+>
+> **3.**—(1) An action, other than one to which section 6 of this Act applies, claiming damages in respect of personal injuries to a person caused by negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or of a provision made by or under a statute or independently of any contract or any such provision) shall not be brought after the expiration of [2 years] from the date on which the cause of action accrued or the date of knowledge (if later) of the person injured.
+>
+> ...
+>
+> (4) The reference in section 21 (4) (b) of the Control of Dogs Act, 1986, to section 11 (2) (b) of the Principal Act shall be construed as a reference to subsection (1) of this section.
+
+## 22. Dangerous dogs.
+
+**22.**—(1) Where—
+
+(*a*) on a complaint being made to the District Court by any interested person that a dog is dangerous and not kept under proper control, or
+
+(*b*) on the conviction of any person for an offence under *section 9 (2)* of this Act,
+
+it appears to the Court that the dog is dangerous and not kept under proper control, the Court may, in addition to any other penalty which it may impose, order that the dog be kept under proper control or be destroyed.
+
+(2) Whenever the Court orders the destruction of a dog pursuant to *subsection (1)* of this section, the Court may—
+
+(*a*) direct that the dog be delivered to a dog warden or any suitable person to be destroyed, and
+
+(*b*) direct that the expenses of the destruction of the dog be paid by the owner of the dog.
+
+(3) Whenever a dog is delivered to a dog warden or any other person pursuant to an order of the Court to be destroyed, the person to whom the dog is delivered shall, as soon as possible, destroy the dog, or cause it to be destroyed, in a humane manner.
+
+(4) Any sums payable by the owner of a dog pursuant to a direction of the Court under *subsection (2) (b)* of this section may be recovered by a local authority as a simple contract debt in any court of competent jurisdiction.
+
+(5) Where a dog is proved to have caused damage in an attack on any person, or to have injured livestock, it may be dealt with under this section as a dangerous dog which has not been kept under proper control.
+
+## 23. Defence in action for damages for shooting dog.
+
+**23.**—(1) It shall be a defence to any action for damages against a person for the shooting of a dog, or to any charge arising out of the shooting of a dog, if the defendant proves that—
+
+(*a*) the dog was shot when it was worrying, or was about to worry, livestock and that there were no other reasonable means of ending or preventing the worrying; or
+
+(*b*) (i) the dog was a stray dog which was in the vicinity of a place where livestock had been injured or killed, and
+
+(ii) the defendant reasonably believed that the dog had been involved in the injury or killing, and
+
+(iii) there were no practicable means of seizing the dog or ascertaining to whom it belonged; and
+
+(*c*) he was the person in charge of the livestock; and
+
+(*d*) he notified within forty-eight hours the member in charge at the nearest Garda Station to the place where the dog was shot of the incident.
+
+(2) The provisions of *subsection (1) (a)* and *subsection (1) (b) (i)* and *(iii)* of this section shall be deemed to have been satisfied if the defendant believed that those provisions had been satisfied and he had reasonable grounds for that belief.
+
+## 24. Burial of carcases.
+
+**24.**—F21[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Repealed (6.03.2014) by *Animal Health and Welfare Act 2013* (15/2013), s. 4 and sch. 1, S.I. No. 106 of 2014.
+
+## 25. Nuisance by barking dogs.
+
+**25.**—(1) Where, on a complaint being made to the District Court by any person, it appears that a nuisance has been created as a result of excessive barking by a dog, the court may—
+
+(*a*) order the occupier of the premises in which the dog is kept to abate the nuisance by exercising due control over the dog;
+
+(*b*) make an order limiting for such period as may be specified in the order the number of dogs to be kept by the respondent on his premises;
+
+(*c*) direct that the dog be delivered to a dog warden to be dealt with by him in accordance with the provisions of this Act as if the dog were an unwanted dog.
+
+(2) Before any person makes a complaint to the District Court in relation to a nuisance caused by the excessive barking of a dog, he shall serve notice in the prescribed form, within such time as may be specified in the notice, of his intention to make such a complaint on the occupier of the premises in which the dog is kept.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (28.02.1987) by *Control of Dogs (No. 2) Regulations 1987* (S.I. No. 59 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 26. Search warrants.
+
+**26.**—(1) If a Justice of the District Court or a Peace Commissioner is satisfied by the information on oath of a member of the Garda Síochána that there were reasonable grounds for believing that—
+
+(*a*) a dog has attacked a person or has worried livestock, and
+
+(*b*) in consequence of the attack or the worrying, the owner of the dog has committed an offence under this Act, and
+
+(*c*) a person is in possession in any premises of a dog which the member of the Garda Síochána has reasonable grounds for believing to be the dog involved in the said attack or the said worrying,
+
+the District Justice or, as the case may be, the Peace Commissioner may issue a search warrant under this section.
+
+(2) A search warrant under this section shall be expressed, and shall operate, to authorise the member of the Garda Síochána named in the search warrant, along with such other members of the Garda Síochána as may be necessary, to enter the premises specified in the search warrant and search for the dog.
+
+(3) A member of the Garda Síochána who is authorised by a search warrant under this section to enter a premises may use such force as may be reasonably necessary to secure entry into the premises.
+
+(4) Any dog which is found during a search pursuant to a search warrant under this section may be removed from the premises and detained by the Garda Síochána for examination.
+
+## 27. Offences and penalities.
+
+F22[**27.**—(1) A person who—
+
+(*a*) keeps or takes or transfers possession of a dog contrary to *section 2* of this Act, or
+
+(*b*) fails to comply with the provisions of *section 9 (1)* or *10* or *subsection (1)* or *(2)* of *section 13* of this Act, or
+
+(*c*) fails to produce a licence when requested so to do under *section 16* of this Act, or
+
+(*d*) is in breach of any bye-law under *section 17* of this Act, or
+
+(*e*) keeps a dog when he is disqualified for holding a licence under *section 18* of this Act, or
+
+(*f*) is in breach of any regulation under *section 19* of this Act, or
+
+(*g*) permits the carcase of any livestock to remain unburied contrary to *section 24* of this Act,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding F23[£1,500] or to imprisonment for a term not exceeding 3 months or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 9, S.I. No. 443 of 1998.
+>
+> F23: Substituted (10.07.2006) by *Local Government Act 2001* (37/2001), s. 211(2), S.I. No. 361 of 2006. A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to section exercised (1.12.2023) by *Statutory Instrument to Increase Fixed Payment Notices Under the Control of Dogs Act 2023* (S.I. No. 540 of 2023), in effect as per reg. 2.
+
+## 28. Provisions regarding certain offences.
+
+**28.**—(1) Where a dog warden has reasonable grounds for believing that a person is committing or has committed an offence under F24[F25[*paragraph (a)*, *(b)*, *(c)* or *(d)* of *section 27(1)* of this Act] or any offence under *paragraph (f)* of the said *section 27 (1)* that may be prescribed], he may serve the person with a notice in the prescribed form stating that the person is alleged to have committed an offence and specifying the offence, and that the person may during the period of 21 days beginning on the date of the notice, make to the local authority specified in the notice a payment of the prescribed amount accompanied by the notice and that a prosecution in respect of the alleged offence will not be instituted during the period specified in the notice and, if the payment specified in the notice is made during that period, no prosecution in respect of the alleged offence will be instituted.
+
+(2) Where notice is given under *subsection (1)* of this section—
+
+(*a*) a person to whom the notice applies may, during the period specified in the notice, make to the local authority so specified the payment specified in the notice accompanied by the notice;
+
+(*b*) the local authority specified in the notice may receive the payment, issue a receipt for it and retain the money so paid for disposal in accordance with this Act, and any payment so received shall not be recoverable in any circumstances by the person who made it;
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and, if the payment so specified is made during that period, no prosecution in respect of the alleged offence shall be instituted.
+
+(3) In a prosecution for an offence F26[F27[*paragraph (a)*, *(b)*, *(c)* or *(d)* of *section 27(1)* of this Act] or an offence under *paragraph (f)* of the said *section 27 (1)* prescribed under *subsection (1)* of this section], the onus of proving that a payment pursuant to a notice under this section has been made shall lie on the defendant.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992) s. 10(a), S.I. No. 443 of 1998.
+>
+> F25: Substituted (10.07.2006) by *Local Government Act 2001* (37/2001), s. 211(3), S.I. No. 361 of 2006.
+>
+> F26: Substituted (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 10(b), S.I. No. 443 of 1998.
+>
+> F27: Substituted (10.07.2006) by *Local Government Act 2001* (37/2001), s. 211(3), S.I. No. 361 of 2006.
+>
+> **Editorial Notes:**
+>
+> E35: Power pursuant to section exercised (1.12.2023) by *Statutory Instrument to Increase Fixed Payment Notices Under the Control of Dogs Act 2023* (S.I. No. 540 of 2023), in effect as per reg. 2.
+>
+> E36: Power pursuant to section exercised (1.06.2013) by *Control of Dogs (Amendment) Regulations 2013* (S.I. No. 156 of 2013), in effect as per reg. 2.
+>
+> E37: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (3.02.1987) by *Control of Dogs Regulations 1987* (S.I. No. 30 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 29. Amendment of Protection of Animals (Amendment) Act, 1965.
+
+**29.**—F28[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Repealed (6.03.2014) by *Animal Health and Welfare Act 2013* (15/2013), s. 4 and sch. 1, S.I. No. 106 of 2014.
+
+## 30. Prosecution of offences.
+
+**30.**—(1) An offence under this Act may be prosecuted by the local authority in whose area the offence was committed.
+
+(2) In a prosecution under this Act in relation to the keeping of an unlicensed dog, it shall be presumed, until the contrary is shown by the defendant, that, at the time the alleged offence was committed, a licence was required in respect of the dog and that the defendant did not, at that time, hold a licence for that dog.
+
+F29[(3) All fines in respect of offences under this Act shall be paid to the local authority in whose area the offence was committed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (10.07.2006) by *Local Government Act 2001* (37/2001), s. 211(4), S.I. No. 361 of 2006.
+
+## 31. Regulations.
+
+**31.**—(1) The Minister may make regulations for prescribing any matter referred to in this Act as prescribed or to be prescribed or in relation to any matter referred to in this Act as the subject of regulations (other than a regulation under *section 20* of this Act).
+
+(2) Every regulation made by the Minister under this Act, other than a regulation made under *section 27* of this Act, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+(3) Every regulation made by the Minister under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to section exercised (1.12.2023) by *Statutory Instrument to Increase Fixed Payment Notices Under the Control of Dogs Act 2023* (S.I. No. 540 of 2023), in effect as per reg. 2.
+>
+> E40: Power pursuant to section exercised (1.06.2013) by *Control of Dogs (Amendment) Regulations 2013* (S.I. No. 156 of 2013), in effect as per reg. 2.
+>
+> E41: Power pursuant to section exercised (2.01.2012) by *Control of Dogs (Amendment) Regulations 2011* (S.I. No. 700 of 2011), in effect as per reg. 2.
+>
+> E42: Power pursuant to section exercised (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), in effect as per reg. 2.
+>
+> E43: Power pursuant to section exercised (11.12.1989) by *Control of Dogs Act 1986 (Guard Dogs) (Amendment) Regulations 1989* (S.I. No. 329 of 1989); confirmed continued in force (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(2), S.I. No. 443 of 1992.
+>
+> E44: Power pursuant to section exercised (1.02.1989) by *Control of Dogs Act 1986 (Guard Dogs) Regulations 1988* (S.I. No. 255 of 1988), in effect as per reg. 1(2); confirmed continued in force (1.02.1999) by *Control of Dogs (Amendment) Act 1992* (13/1992), s. 8(2), S.I. No. 443 of 1992.
+>
+> E45: Previous affecting provision: power pursuant to section exercised (8.10.1996) by *Control of Dogs (Restriction of Certain Dogs) (Amendment) Regulations 1996* (S.I. No. 295 of 1996); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E46: Previous affecting provision: power pursuant to section exercised (14.06.1991) by *Control of Dogs (Restriction of Certain Dogs) (Amendment) Regulations 1991* (S.I. No. 146 of 1991); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E47: Previous affecting provision: power pursuant to section exercised (1.06.1991 and 14.06.1991) by *Control of Dogs (Restriction of Certain Dogs) Regulations 1991* (S.I. No. 123 of 1991), in effect as per reg. 2; revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E48: Previous affecting provision: power pursuant to section exercised (28.02.1987) by *Control of Dogs (No. 2) Regulations 1987* (S.I. No. 59 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+>
+> E49: Previous affecting provision: power pursuant to section exercised (3.02.1987) by *Control of Dogs Regulations 1987* (S.I. No. 30 of 1987); revoked (1.02.1999) by *Control of Dogs Regulations 1998* (S.I. No. 442 of 1998), reg. 4 and sch. 1, in effect as per reg. 2.
+
+## 32. Service of notices.
+
+**32.**—Where a notice is required or authorised by this Act to be given to a person, the notice shall be addressed to that person and shall be given to him in one of the following ways:
+
+(*a*) by delivering it to him,
+
+(*b*) by leaving it at the address at which he ordinarily resides,
+
+(*c*) by sending it by post in a prepaid registered letter addressed to him at the address at which he ordinarily resides.
+
+## 33. Grants to local authorities and other bodies.
+
+**33.**—The Minister may, with the consent of the Minister for Finance, make grants towards the expenses of a local authority incurred under this Act or to any person concerned with the provision of homes or shelters for stray or unwanted dogs or with the welfare of dogs.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions under section transferred and references construed (15.07.2015) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2015* (S.I. No. 318 of 2015), s. 3(1) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8
+>
+> 3\. (1) The functions vested in the Minister for Finance by or under any of the provisions of the Acts specified in the Schedule are transferred to the Minister for Public Expenditure and Reform.
+>
+> (2) References to the Minister for Finance contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule
+>
+> ...
+>
+> No. 32 of 1986 Control of Dogs Act 1986 Section 33
+>
+> ...
+
+## 34. Expenses of Minister.
+
+**34.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 35. Extension of Act to other animals.
+
+**35.**—The Minister may by regulations extend the provisions of *section 12* of this Act, of *sections 15 (2)* and *15 (4)* of this Act and of *section 33* of this Act to other species of animal, members of which are commonly domesticated.
+
+## 36. Repeals.
+
+**36.**—Each of the enactments specified in the Schedule to this Act is hereby repealed to the extent specified in the third column of that Schedule.
+
+## 37. Short title and commencement.
+
+**37.**—(1) This Act may be cited as the Control of Dogs Act, 1986.
+
+(2) This Act or any specified provision of this Act shall come into operation on such day or days as the Minister may appoint by order.
+
+## SCHEDULE — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| 2 & 3 Vict. c. 78 | Dublin Police Act, 1839 | Section 15. |
+| 5 & 6 Vict. c. 24 | Dublin Police Act, 1842 | In section 14 (2), the words “or suffer to be at large any unmuzzled ferocious Dog, or set on or urge any Dog or other Animal to attack, worry, or put in Fear any Person, Horse, or other Animal”. |
+| 10 & 11 Vict. c. 89 | Town Police Clauses Act, 1847 | In section 28, the words “Every Person who suffers to be at large any unmuzzled ferocious Dog, or sets on or urges any Dog or other Animal to attack, worry or put in fear any Person or Animal: Every Owner of any Dog who suffers such Dog to go at large, knowing or having reasonable Ground for believing it to be in a rabid State, or to have been bitten by any Dog or other Animal in a rabid State: Every Person, who after public Notice given by any Justice directing Dogs to be confined on account of Suspicion of canine Madness, suffers any Dog to be at large during the Time specified in such Notice:”. |
+| 14 & 15 Vict. c. 92 | Summary Jurisdiction (Ireland) Act, 1851 | In section 10 (1) the words “or set on or urge any dog or other animal to attack or worry any person, horse, or other animal,” ; section 10 (7). |
+| 17 & 18 Vict. c. 103 | Towns Improvement (Ireland) Act, 1854 | In section 72, the words “Every Person who suffers to be at large any unmuzzled ferocious Dog or sets on or urges any Dog or other Animal to attack, worry, or put in fear any Person or Animal, shall be liable to a Fine not exceeding Ten Shillings: Every Owner of any Dog who suffers such Dog to go at large, knowing or having reasonable Ground for believing it to be in a rabid State, or to have been bitten by any Dog or other Animal in a rabid State, shall be liable to a Fine not exceeding Ten Shillings: Every Person who, after public Notice given by any Justice or Justices at Petty Sessions, Chief Magistrate, or Chairman of Commissioners, directing Dogs to be confined on account of Suspicion of canine Madness, suffers any Dog to be at large during the Time specified in such Notice, shall be liable to a Fine not exceeding Ten Shillings:”. |
+| 1871, c. 56 | Dogs Act, 1871 | The whole Act. |
+| 1906, c. 32 | Dogs Act, 1906 | The whole Act. |
+| No. 28 of 1925 | Finance Act, 1925 | Sections 37 to 39. |
+| No. 35 of 1926 | Finance Act, 1926 | Section 41. |
+| No. 17 of 1960 | Dogs (Protection of Livestock) Act, 1960 | The whole Act. |
+| No. 23 of 1963 | Finance Act, 1963 | Section 33. |
+| No. 10 of 1965 | Protection of Animals (Amendment) Act, 1965 | Part III. |
+| No. 6 of 1966 | Diseases of Animals Act, 1966 | Section 56. |
+| No. 20 of 1976 | Local Government (Planning and Development) Act, 1976 | Paragraphs (*d*) and (*k*) of section 43 (1). |
+| No. 15 of 1983 | Finance Act, 1983 | Section 65. |
+| No. 11 of 1985 | Animals Act, 1985 | Section 3. |

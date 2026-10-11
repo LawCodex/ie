@@ -1,0 +1,3075 @@
+---
+title: "Refugee Act, 1996"
+identifier: "eli/1996/act/17"
+type: act
+jurisdiction: ie
+language: en
+number: 17
+year: 1996
+date: 1996-06-26
+last_amended: 2015-04-20
+status: repealed
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1996/act/17/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1996/act/17/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Refugee Act, 1996
+
+AN ACT TO GIVE EFFECT TO THE CONVENTION RELATING TO THE STATUS OF REFUGEES DONE AT GENEVA ON THE 28TH DAY OF JULY, 1951, THE PROTOCOL RELATING TO THE STATUS OF REFUGEES DONE AT NEW YORK ON THE 31ST DAY OF JANUARY, 1967, AND THE CONVENTION DETERMINING THE STATE RESPONSIBLE FOR EXAMINING APPLICATIONS FOR ASYLUM LODGED IN ONE OF THE MEMBER STATES OF THE EUROPEAN COMMUNITIES DONE AT DUBLIN ON THE 15TH DAY OF JUNE, 1990, TO PROVIDE FOR THE APPOINTMENT OF A PERSON TO BE KNOWN AS THE REFUGEE APPLICATIONS COMMISSIONER AND THE ESTABLISHMENT OF A BOARD TO BE KNOWN AS THE REFUGEE APPEAL BOARD AND TO PROVIDE FOR MATTERS RELATED TO THE MATTERS AFORESAID. [26*th June*, 1996]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), signed 25.11.2014, support the operation in the State of Regulation (EU) No. 604/2013 of the European Parliament and of the Council of 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person.
+>
+> E2: Functions in relation to Act transferred from Health Service Executive to Child and Family Agency (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 82 and sch. 1, S.I. No. 502 of 2014.
+>
+> E3: Provision for retention and deletion of passenger data in respect of offence under Act made (1.11.2011) by *European Communities (Communication of Passenger Data) Regulations 2011* (S.I. No. 597 of 2011), in effect as per reg. 1(2).
+>
+> E4: *European Communities (Eligibility for Protection) Regulations 2006* (S.I. No. 518 of 20106), as amended by S.I. No. 426 of 2013, give effect (10.10.2006) to Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted.
+>
+> E5: Functions in relation to Act transferred to Health Service Executive and references to functional areas construed (1.01.2005) by *Health Act 2004* (42/2004), ss. 59, 67 and sch. 3 item 22, S.I. No. 887 of 2004.
+>
+> E6: Act referred to in definition of health and personal social services (23.12.2004) by *Health Act 2004* (42/2004), s. 2 and sch. 1, S.I. No. 886 of 2004.
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, unless the context otherwise requires—
+
+F1[‘the Tribunal’ means the Refugee Appeals Tribunal established by section 15;]
+
+“applicant” means a person who has made an application for a declaration under *section 8*;
+
+“authorised officer” means a person authorised in writing by the Commissioner to exercise the powers conferred on an authorised officer by or under this Act;
+
+“the Commissioner” shall be construed in accordance with *section 6*;
+
+“convention country” means a country other than the State for the time being standing designated in an order under *section 22(6)*;
+
+“declaration” shall be construed in accordance with *section 17*;
+
+“the Dublin Convention” means the Convention determining the state responsible for examining applications for asylum lodged in one of the Member States of the European Communities done at Dublin on the 15th day of June, 1990 (the text of which, in the English language, is, for convenience of reference, set out in the *Fourth Schedule* to this Act);
+
+“the establishment day” means the day appointed by the Minister under *section 14*;
+
+“the High Commissioner” means the United Nations High Commissioner for Refugees and includes the Representative for Ireland of the High Commissioner;
+
+“the Geneva Convention” means the Convention relating to the Status of Refugees done at Geneva on the 28th day of July, 1951, and includes the Protocol relating to the Status of Refugees done at New York on the 31st day of January, 1967 (the text of which, in the English language, is, for convenience of reference, set out in the *Third Schedule* to this Act);
+
+“immigration officer” means an immigration officer appointed under the Aliens Order, 1946 (S.R.& O., No. 395 of 1946);
+
+“information” means information in the form of a document (including a thing) or in any other form;
+
+“membership of a particular social group” includes membership of a trade union and also includes membership of a group of persons whose defining characteristic is their belonging to the female or the male sex or having a particular sexual orientation;
+
+“the Minister” means the Minister for Justice;
+
+“prescribed” means prescribed by regulations made by the Minister.
+
+F2[‘Regulations of 2006’ means the European Communities (Eligibility for Protection) Regulations 2006 (S.I. No. 518 of 2006);]
+
+F3[‘Regulations of 2013’ means the European Union (Subsidiary Protection) Regulations 2013;]
+
+F4[‘working day’ means any day not being a Saturday, Sunday or public holiday;]
+
+(2) In this Act—
+
+(*a*) a reference to any enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any subsequent enactment including this Act,
+
+(*b*) a reference to a section is a reference to a section of this Act unless it is indicated that reference to some other enactment is intended,
+
+(*c*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(a)(i), S.I. No. 9 of 2000.
+>
+> F2: Inserted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 3, in effect as per reg. 1(2).
+>
+> F3: Inserted (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 33, in effect as per reg. 1(2).
+>
+> F4: Inserted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(a)(ii), S.I. No. 9 of 2000.
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Application Form) Regulations 2000* (S.I. No. 345 of 2000), in effect as per reg. 1(2).
+>
+> E8: Previous affecting provision: power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Travel Document) Regulations 2000* (S.I. No. 347 of 2000), in effect as per reg. 1(2); revoked (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), in effect as per reg. 2(1).
+
+## 2. “Refugee”.
+
+**2.**—In this Act “a refugee” means a person who, owing to a well founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his or her nationality and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country; or who, not having a nationality and being outside the country of his or her former habitual residence, is unable or, owing to such fear, is unwilling to return to it, but does not include a person who—
+
+(*a*) is receiving from organs or agencies of the United Nations (other than the High Commissioner) protection or assistance,
+
+(*b*) is recognised by the competent authorities of the country in which he or she has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country,
+
+F5[(*c*) there are serious grounds for considering that he or she—
+
+(i) has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes,
+
+(ii) has committed a serious non-political crime outside the State prior to his or her arrival in the State, or
+
+(iii) has been guilty of acts contrary to the purposes and principles of the United Nations.]
+
+(*d*) F6[...]
+
+(*e*) F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(a), S.I. No. 415 of 2003.
+>
+> F6: Deleted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(a), S.I. No. 415 of 2003.
+>
+> **Editorial Notes:**
+>
+> E9: Acts of persecution for purposes of section prescribed (10.10.2006) by *European Communities (Eligibility for Protection) Regulations 2006* (S.I. No. 518 of 2006), reg. 9, in effect as per reg. 1(2).
+
+## 3. Extension to refugees of certain rights.
+
+**3.**—(1) Subject to *section 17(2)*, a refugee in relation to whom a declaration is in force shall be entitled to the same rights and privileges as those conferred by law on persons generally who are not Irish citizens (as distinct from such rights or privileges conferred on any particular person or group of such persons).
+
+(2) (*a*) Without prejudice to the generality of *subsection (1)*, a refugee in relation to whom a declaration is in force—
+
+(i) shall be entitled to seek and enter employment, to carry on any business, trade or profession and to have access to education and training in the State in the like manner and to the like extent in all respects as an Irish citizen,
+
+(ii) shall be entitled to receive, upon and subject to the terms and conditions applicable to Irish citizens, the same medical care and services and the same social welfare benefits as those to which Irish citizens are entitled,
+
+(iii) shall be entitled, subject to *section 4(2)*—
+
+(I) to reside in the State, and
+
+(II) to the same rights of travel in or to or from the State as those to which Irish citizens are entitled,
+
+(iv) shall have the same freedom to practise his or her religion and the same freedom as regards the religious education of his or her child as an Irish citizen,
+
+(v) shall have access to the courts in the like manner and to the like extent in all respects as an Irish citizen, and
+
+(vi) shall have the right to form and be a member of associations and trade unions in the like manner and to the like extent in all respects as an Irish citizen.
+
+(*b*) In *paragraph (a)* “social welfare benefits” includes any payment or services provided for in or under the Social Welfare Acts, the Health Acts, 1947 to 1994, and the Housing Acts, 1966 to 1992.
+
+(*c*) Without prejudice to the generality of *subsection (1)* or section 3 of the Aliens Act, 1935, and notwithstanding anything contained in section 45 of the Land Act, 1965, section 16 of the Mercantile Marine Act, 1955, or an order under the Air Navigation and Transport Act, 1946, a refugee in relation to whom a declaration is in force shall be entitled to acquire, hold, dispose or otherwise deal with real or personal property or an interest in such property in the like manner, to the like extent and subject to the like obligations and limitations as an Irish citizen.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: subs. (2)(c) amended by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> (*c*) Without prejudice to the generality of *subsection (1)* or section 3 of the Aliens Act, 1935, and notwithstanding anything contained in section 45 of the Land Act, 1965, F7[section 15 of the Merchant Shipping (Registration of Ships) Act 2014], or an order under the Air Navigation and Transport Act, 1946, a refugee in relation to whom a declaration is in force shall be entitled to acquire, hold, dispose or otherwise deal with real or personal property or an interest in such property in the like manner, to the like extent and subject to the like obligations and limitations as an Irish citizen.
+
+## 4. Travel document.
+
+**4.**—(1) Subject to *subsection (2)*, the Minister shall, on application in writing in that behalf and on payment to the Minister of such fee (if any) as may be prescribed with the consent of the Minister for Finance, issue to a refugee in relation to whom a declaration is in force a travel document identifying the holder thereof as a person to whom a declaration has been given.
+
+(2) The Minister may, in the interest of national security or public policy (“*ordre public*”), refuse to issue a travel document.
+
+(3) A travel document shall be in such form as may be prescribed or in a form to the like effect.
+
+(4) A person who applies to the Minister for a travel document under this section shall furnish to the Minister such information (if any) as the Minister may reasonably require for the purpose of his or her functions under this section.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td>Sections 4(1), 18(6) and 24(3); Schedule, paragraph 9, Second Schedule, paragraphs 1(b), 5 and 8(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to section exercised (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), in effect as per reg. 1(2).
+>
+> E11: Previous affecting provision: ower pursuant to subs. (3) exercised (20.11.2000) by *Refugee Act, 1996 (Travel Document) Regulations 2000* (S.I. No. 347 of 2000), in effect as per reg. 1(2); revoked (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), reg. 5, in effect as per reg. 1(2).
+
+## 5. Prohibition of refoulement.
+
+**5.**—(1) A person shall not be expelled from the State or returned in any manner whatsoever to the frontiers of territories where, in the opinion of the Minister, the life or freedom of that person would be threatened on account of his or her race, religion, nationality, membership of a particular social group or political opinion.
+
+(2) Without prejudice to the generality of *subsection (1)*, a person's freedom shall be regarded as being threatened if, *inter alia*, in the opinion of the Minister, the person is likely to be subject to a serious assault (including a serious assault of a sexual nature).
+
+## 6. Refugee Applications Commissioner.
+
+**6.**—(1) (a) For the purposes of this Act, there shall be a person (referred to in this Act as “the Commissioner”) who shall be known as the Refugee Applications Commissioner.
+
+(*b*) The Commissioner shall perform the functions conferred on him or her by this Act.
+
+(2) The Commissioner shall be independent in the exercise of his or her functions under this Act.
+
+(3) The provisions of the *First Schedule* shall have effect in relation to the Commissioner.
+
+## 7. Annual report and information to Minister.
+
+**7.**—(1) The Commissioner shall, no(t later than 3 months after the end of each year, submit a report in writing to the Minister of his or her activities during that year and, not later than 1 month after such submission, the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+(2) The Commissioner shall furnish to the Minister such information relating to his or her activities as the Minister may from time to time require.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Activities of Commissioner extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 16(2).
+>
+> *Provisions in relation to the Commissioner*
+>
+> 16\. ...
+>
+> (2) A reference in section 7 of the Act of 1996 to the activities of the Commissioner shall include a reference to the activities of the Commissioner under these Regulations.
+>
+> ...
+>
+> C4: Activities of Commissioner extended (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 27(2), in effect as per reg. 1(2).
+>
+> *Provisions in relation to the Commissioner*
+>
+> 27\. ...
+>
+> (2) A reference in section 7 of the Act of 1996 to the activities of the Commissioner shall include a reference to the activities of the Commissioner under these Regulations.
+>
+> ...
+
+## 7A. Establishment of Refugee Advisory Board.
+
+F8[**7A.** —(1) There shall be a board to be known as the Refugee Advisory Board (in this Act referred to as ‘the Board’) to perform the functions conferred on it by this Act.
+
+(2) The Board shall be independent in the performance of its functions.
+
+(3) The provisions of the Schedule to this section shall have effect in relation to the Board.
+
+(4) (*a*) The Board shall, in every second year beginning with the year F9[2005], prepare and submit to the Minister a report in writing on the operation in the preceding 2 years of this Act and may include in the report information and comment in respect of asylum policy and refugees including any proposals to amend legislation and recommendations regarding the practice or procedures of public or private bodies in relation to applicants and any other matters relating to such operation coming to its attention to which it considers that his or her attention should be drawn and, not later than 1 month after such submission, the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+(*b*) The Board shall, at the request of the Minister, prepare and furnish to him or her a report in writing on such matters relating to the performance of its functions as the Minister may specify and as soon as may be after the receipt by the Minister of the report, he or she shall cause a copy of it to be laid before each House of the Oireachtas.
+
+(5) The Commissioner shall, whenever so requested by the Board, furnish to the Board information in relation to such matters as the Board may specify relating to the performance of its functions.
+
+SCHEDULE
+
+*Subsection (3).*
+
+Refugee Advisory Board
+
+1\. The Board shall consist of a chairperson and F9[15] ordinary members who shall be appointed to be members of the Board by the Minister.
+
+2\. The Commissioner shall be a member of the Board and shall act as secretary to the Board.
+
+3\. Of the members of the Board—
+
+(*a*) one shall be a representative of the Minister nominated by the Minister,
+
+(*b*) one shall be a representative of the Minister for Foreign Affairs nominated by the Minister for Foreign Affairs,
+
+(*c*) one shall be a representative of the Minister for Social, Community and Family Affairs nominated by the Minister for Social, Community and Family Affairs,
+
+(*d*) one shall be a representative of the Minister for Education and Science nominated by the Minister for Education and Science,
+
+(*e*)one shall be a representative of the Minister for Health and Children nominated by the Minister for Health and Children,
+
+(*f*) one shall be a representative of the Minister for the Environment and Local Government nominated by the Minister for the Environment and Local Government,
+
+(*g*) one shall be a representative of the Minister for Enterprise, Trade and Employment nominated by the Minister for Enterprise, Trade and Employment,
+
+F10[(*gg*) one shall be the chairperson of the Refugee Appeals Tribunal,]
+
+(*h*) six shall be women and six shall be men.
+
+4\. The High Commissioner shall be given not less than 7 days’ notice in writing of the date and time of each meeting of the Board and shall be entitled to be present at and heard at each meeting either in person or through a representative.
+
+5\. In the selection of persons for appointment to membership of the Board regard shall be had to—
+
+(*a*) the desirability of ensuring that a person or persons representative of refugees and applicants is or are appointed to membership of the Board, and
+
+(*b*) the person’s interest in or knowledge of asylum and the provision of protection and assistance to refugees or his or her competence otherwise to assist the Board in the performance of its functions.
+
+6\. Subject to the provisions of this Schedule, the members of the Board shall hold office upon such terms and conditions as the Minister may determine.
+
+7\. The term of office of a member of the Board shall be 5 years and, subject to the provisions of this Schedule, a member shall be eligible for reappointment.
+
+8\. Where a casual vacancy occurs among the members of the Board, the Minister may appoint a person to be a member of the Board to fill the vacancy and a member so appointed shall hold office for the remainder of the term of office for which his or her predecessor had been appointed, and the person shall be so appointed in the manner specified in paragraph 3 or 5, as the case may be, in which such predecessor was so appointed.
+
+9\. Members of the Board shall be paid such remuneration and such allowances for expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+10\. The Minister may remove from office any member of the Board who, in the opinion of the Minister, has become incapable through illness of effectively performing his or her functions or has committed stated misbehaviour.
+
+11\. The Board shall meet at least four times a year.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(a)(i), S.I. No. 9 of 2000.
+>
+> F9: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(b)(i), (ii), S.I. No. 415 of 2003.
+>
+> F10: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(b)(iii), S.I. No. 415 of 2003.
+
+## 8. Applications for declaration.
+
+**8.**—(1) (*a*) A person who arrives at the frontiers of the State seeking asylum in the State or seeking the protection of the State against persecution or requesting not to be returned or removed to a particular country or otherwise indicating an unwillingness to leave the State for fear of persecution—
+
+(i) shall be interviewed by an immigration officer as soon as practicable after such arrival, and
+
+(ii) may apply to the Minister for a declaration.
+
+(*b*) The immigration officer concerned shall inform a person referred to in *paragraph (a)*, where possible in a language that the person understands, that he or she may apply under that paragraph for a declaration and that he or she is entitled to consult a solicitor and the High Commissioner.
+
+F11[(*c*) A person who at any time is in the State (whether lawfully or unlawfully) and is seeking the status of a refugee in the State may apply to the Minister for a declaration and, if he or she does so, shall be interviewed by an authorised officer or an immigration officer at such times as may be specified by the authorised officer or the immigration officer, as the case may be, who shall also inform the person that he or she is entitled to consult a solicitor and the High Commissioner and the person shall make himself or herself available for such interview at the times so specified.]
+
+F11[(2) An interview under subsection (1) shall, in relation to the person the subject of the interview, seek to establish *inter alia*—
+
+(*a*) whether the person wishes to make an application for a declaration and, if he or she does so wish, the general grounds upon which the application is based,
+
+(*b*) the identity of the person,
+
+(*c*) the nationality and country of origin of the person,
+
+(*d*) the mode of transport used and the route travelled by the person to the State,
+
+(*e*) the reason why the person came to the State, and
+
+(*f*) the legal basis for the entry into or presence in the State of the person,
+
+and shall, where necessary and possible, be conducted with the assistance of an interpreter and a record of the interview shall be kept by the officer conducting it and a copy of it shall be furnished to the person and, if the interview was conducted by an immigration officer, to the Commissioner.]
+
+F11[(3) (*a*) The Commissioner shall notify the High Commissioner in writing of the making of an application and the notice shall include the name of the applicant and the name of his or her country of origin and such other information as the Minister may specify by notice in writing addressed to the Commissioner.
+
+(*b*) The Commissioner shall furnish a copy of the record of any interview under subsection (1)—
+
+(i) to the Minister, and
+
+(ii) to the High Commissioner whenever so requested by him or her in writing.]
+
+F11[(4) An application under subsection (1) shall be made in writing in the prescribed form or in a form to the like effect and shall be addressed to the Commissioner.]
+
+F11[(5) (*a*) Where it appears to an immigration officer or an authorised officer that a child under the age of 18 years, who has either arrived at the frontiers of the State or has entered the State, is not in the custody of any person, the officer shall, as soon as practicable, so inform the F12[Child and Family Agency] and thereupon the provisions of the Child Care Act, 1991, shall apply in relation to the child.]
+
+F13[(*b*) Where it appears to the F12[Child and Family Agency], on the basis of information available to it, that an application for a declaration should be made by or on behalf of a child referred to in paragraph (*a*), the F12[Child and Family Agency] shall arrange for the appointment of an employee of the F12[Child and Family Agency] or such other person as it may determine to make an application on behalf of the child.]
+
+(*c*) Any costs incurred by a person under *paragraph (b)* other than any legal costs arising from such application shall be paid by the F12[Child and Family Agency].
+
+(*d*) F14[...]
+
+(6) For the purposes of this Act, a person who travels by sea or air from outside the State and lands in the State shall be deemed to arrive at the frontiers of the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(c), S.I. No. 9 of 2000.
+>
+> F12: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 8, S.I. No. 502 of 2013.
+>
+> F13: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 15 item 1(a)-(c), S.I. No. 887 of 2004.
+>
+> F14: Deleted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 15 item 1(d), S.I. No. 887 of 2004.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), regs. 9-11.
+>
+> *Applicant under section 8 of Act of 1996 to whom Article 18(1)(a) of EU Regulation applies*
+>
+> 9\. (1) This Regulation applies to a person—
+>
+> (a) to whom Article 18(1)(a) of the EU Regulation applies,
+>
+> (b) who is present in the State, and
+>
+> (c) who is the subject of a decision by the Commissioner, made under Article 18(1)(a) of the EU Regulation, that the State is the Member State responsible under the EU Regulation for examining the person’s application for international protection.
+>
+> (2) A person to whom this Regulation applies shall be deemed to have applied, on the date on which this Regulation applies to him or her, for a declaration under section 8 of the Act of 1996, and the provisions of that Act shall, with any necessary modifications, apply accordingly.
+>
+> (3) The Commissioner shall send a person to whom this Regulation applies, and his or her legal representative (if known), a notice in writing informing him or her of the effect of paragraph (2).
+>
+> (4) Notwithstanding anything contained in those Regulations, Regulations 10, 11, 12, 13, 14 and 15 shall not apply to a person to whom this Regulation applies.
+>
+> *Applicant under section 8 of Act of 1996 to whom Article 18(1)(c) of EU Regulation applies*
+>
+> 10\. (1) This Regulation applies to a person—
+>
+> (a) to whom Article 18(1)(c) of the EU Regulation applies,
+>
+> (b) who has made an application under section 8 of the Act of 1996, which application was, under that Act, withdrawn or deemed to have been withdrawn,
+>
+> (c) who is present in the State, and
+>
+> (d) whom the Commissioner has agreed to take back on the grounds that the State is the Member State responsible under the EU Regulation for examining the person’s application for international protection.
+>
+> (2) A person to whom this Regulation applies may, in accordance with this Regulation, make an application for the completion of the investigation under section 11 of the Act of 1996 of his or her application under section 8 of that Act.
+>
+> (3) The Commissioner shall send a person to whom this Regulation applies, and his or her legal representative (if known), a notice in writing informing him or her of—
+>
+> (a) his or her entitlement to make an application under paragraph (2), and
+>
+> (b) the requirements under paragraph (4) for the making of such an application.
+>
+> ...
+>
+> (5) On receipt of an application under paragraph (2) that is made in accordance with paragraph (4), the Commissioner shall proceed to complete his or her investigation under section 11 of the Act of 1996 of the person’s application under section 8 of that Act and, for the purposes of such an investigation—
+>
+> (a) the provisions of the Act of 1996 shall, subject to paragraph (b) and any other necessary modifications, apply, and
+>
+> (b) where the Commissioner had, under section 13(1) of the Act of 1996 and before the sending of the notice under paragraph (3), sent the person a copy of a report to which section 13(2) of the Act of 1996 applies, section 13 of the Act of 1996 shall apply to that investigation as if that report had not been prepared.
+>
+> (6) Notwithstanding anything contained in those Regulations, Regulations 11, 12, 13, 14 and 15 shall not apply to a person to whom this Regulation applies.
+>
+> *Applicant under section 8 of Act of 1996 to whom Article 18(1)(d) of EU Regulation applies*
+>
+> 11\. ...
+>
+> (4) An appeal referred to in paragraph (2)—
+>
+> (a) may be made only by a person to whom this Regulation applies to whom a notice under paragraph (3) has been sent,
+>
+> (b) subject to subparagraph (c), shall be made in the manner prescribed under section 16(1) of the Act of 1996, and
+>
+> (c) shall be made within 15 working days of the sending to the person of a notice under paragraph (3).
+>
+> (5) Where a person to whom this Regulation applies appeals in accordance with this Regulation, the provisions of the Act of 1996 shall, with any necessary modifications, apply to that appeal, as if the notice sent by the Minister under section 17(5) of the Act of 1996 had not been sent.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E12: Procedure for unaccompanied minors prescribed (1.03.2011) by *Refugee Act 1996 (Asylum Procedures) Regulations 2011* (S.I. No. 52 of 2011), reg. 4, in effect as per reg. 1(2).
+>
+> E13: Power pursuant to subs. (4) exercised (20.11.2000) by *Refugee Act, 1996 (Application Form) Regulations 2000* (S.I. No. 345 of 2000), in effect as per reg. 1(2).
+>
+> E14: Procedure for determination under the Dublin Convention prescribed (20.11.2000) by *Dublin Convention (Implementation) Order 2000* (S.I. No. 343 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E15: Previous affecting provision: health board substituted by Health Service Executive (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 15 item 1(a)-(c), S.I. No. 887 of 2004; substituted as per F-note above.
+
+## 9. Leave to enter or remain in State.
+
+**9.**—(1) Subject to the subsequent provisions of this section, an applicant, being a person referred to in *section 8(1)(a)*, shall be given leave to enter the State by the immigration officer concerned.
+
+(2) Subject to the subsequent provisions of this section, a person to whom leave to enter the State is given under *subsection (1)* or an applicant, being a person referred to in *section 8(1) (c)*, shall be entitled to remain in the State until—
+
+F15[(*a*) the date on which his or her application is transferred to a convention country pursuant to section 22 or to a safe third country (within the meaning of that section), or
+
+(*b*) the date on which his or her application is withdrawn or deemed to be withdrawn under this section or section 11, or]
+
+(*c*) the date on which notice is sent that the Minister has refused to give him or her a declaration.
+
+F16[(3) (*a*) The Commissioner shall give or cause to be given to a person referred to in subsection (2) a temporary residence certificate (in this section referred to as ‘a certificate’) stating the name and containing a photograph of the person and such other information relating to the person as may be prescribed and specifying the date on which the person's application for a declaration was received by the Commissioner and stating that, subject to the provisions of this Act, and, without prejudice to any other permission or leave granted to the person to remain in the State, the person shall not be removed from the State before the final determination of his or her application.
+
+(*b*) A certificate shall remain the property of the Minister.
+
+F17[(*c*) A certificate shall be deemed to be a registration certificate for the purposes of section 12 of the Immigration Act 2004 and a person who is the holder of a certificate that is in force shall be deemed to have complied with section 9 of that Act.]
+
+(*d*) If a person forges, or fraudulently alters, or assists in forging or fraudulently altering, or procures the forging or fraudulent alteration of a certificate, that person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500, or to imprisonment for a term not exceeding 12 months, or to both.]
+
+(4) An applicant shall not—
+
+(*a*) leave or attempt to leave the State without the consent of the Minister, or
+
+(*b*) … [declared unconstitutional, see E-note below]
+
+F15[(4A) (*a*) An applicant shall inform the Commissioner of his or her address and of any change of address as soon as possible.
+
+(*b*) Where 5 working days have elapsed since the making of an application for a declaration and the applicant has not informed the Commissioner of his or her address, the application shall be deemed to be withdrawn.]
+
+F15[(5) (*a*) An immigration officer or an authorised person may, by notice in writing, require an applicant—
+
+(i) to reside or remain in particular districts or places in the State, or
+
+(ii) to report at specified intervals to an immigration officer or person or persons authorised by the Minister or member of the Garda Síochána specified in the notice,
+
+and the applicant shall comply with the requirement.
+
+(*b*) In this subsection ‘an authorised person’ means a person appointed by the Minister to be an authorised person for the purposes of this subsection.
+
+(6) Upon application to the Minister in that behalf by the applicant concerned, the Minister may, as he or she thinks fit, direct the immigration officer or the authorised person concerned to withdraw the requirement concerned or to amend it in a specified manner.]
+
+(7) A person who contravenes F15[*subsection (4)*, *(4A)* or *(5)*] shall be guilty of an offence and shall be liable on summary conviction to a fine notexceeding £500 or to imprisonment for a term not exceeding 1 month or to both.
+
+(8) Where an immigration officer or a member of the Garda Síochána, with reasonable cause, suspects that an applicant—
+
+(*a*) poses a threat to national security or public order in the State,
+
+(*b*) has committed a serious non-political crime outside the State,
+
+(*c*) has not made reasonable efforts to establish his or her true identity,
+
+(*d*) intends to avoid removal from the State in the event of his or her application for asylum being transferred to a convention country pursuant to *section 22* F18[or a safe third country (within the meaning of that section)],
+
+(*e*) intends to leave the State and enter another state without lawful authority, or
+
+(*f*) without reasonable cause has destroyed his or her identity or travel documents or is in possession of forged identity documents.
+
+he or she may detain the person in a prescribed place (referred to subsequently in this Act as “a place of detention”).
+
+(9) The Minister shall make regulations providing for the treatment of persons detained pursuant to this section.
+
+(10) (*a*) A person detained pursuant to *subsection (8)* shall, as soon as practicable, be brought before a judge of the District Court assigned to the District Court district in which the person is being detained.
+
+(*b*) Where a person is brought before a judge of the District Court pursuant to *paragraph (a)*, the judge may—
+
+(i) subject to *paragraph (c)*, and if satisfied that one or more of the paragraphs of *subsection (8)* applies in relation to the person, commit the person concerned to a place of detention for a period not exceeding F15[21 days] from the time of his or her detention, or
+
+(ii) without prejudice to *paragraph (c)*, release the person and the judge may make such release subject to such conditions as he or she considers appropriate, including, but without prejudice to the generality of the foregoing, any one or more of the following conditions:
+
+(I) that the person resides or remains in a particular district or place in the State,
+
+(II) that he or she reports to a specified Garda Síochána station or immigration officer at specified intervals,
+
+(III) that he or she surrenders any passport or travel document in his or her possession.
+
+(*c*) If, at any time during the detention of a person pursuant to this section, an immigration officer or a member of the Garda Síochána is of opinion that none of the paragraphs of *subsection (8)* applies in relation to the person, he or she shall, as soon as practicable, be brought before a judge of the District Court assigned to the District Court district where the person is being detained and if thejudge is satisfied that none of the paragraphs of *subsection (8)* applies in relation to the person, the judge shall release the person.
+
+(*d*) Where a person is released from a place of detention subject to one or more of the conditions referred to in *subsection (10) (b) (ii)*, a judge of the District Court assigned to the District Court district in which the person resides may, on the application of the person, an immigration officer or a member of the Garda Síochána, if he or she considers it appropriate to do so, vary (whether by the alteration, addition or revocation of a condition) a condition.
+
+(11) *Subsections (4), (5), (8)* and *(10)* shall apply only to an applicant who, but for the provisions of this Act, would not be entitled to enter or remain in the State.
+
+(12) (*a*) *Subsection (8)* shall not apply to a person who is under the age of 18 years.
+
+(*b*) If and for so long as the immigration officer or, as the case may be, the member of the Garda Síochána concerned has reasonable grounds for believing that the person is not under the age of 18 years, the provisions of *subsection (8)* shall apply as if he or she had attained the age of 18 years.
+
+F19[(*c*) Where an unmarried child under the age of 18 years is in the custody of any person (whether a parent or a person acting *in loco parentis* or any other person) and such person is detained pursuant to the provisions of this section, the immigration officer or the member of the Garda Síochána concerned shall, without delay, notify the F20[Child and Family Agency] of the detention and of the circumstances thereof.]
+
+(13) (*a*) A member of the Garda Síochána may detain a person who, in the member's opinion, has failed to comply with a condition imposed by the District Court under *subsection (10)* in a place of detention.
+
+(*b*) A person detained under *paragraph (a)* shall be brought as soon as practicable before a judge of the District Court assigned to the District Court district in which the person is being detained; and *subsection (10)* shall apply to such person detained under *paragraph (a)* as it applies to a person detained pursuant to *subsection (8)* with any necessary modifications.
+
+(*c*) If a judge of the District Court is satisfied in relation to a person brought before him or her pursuant to *paragraph (b)* that the person has complied with the condition concerned, the judge shall order the release of the person.
+
+(14) (*a*) Where a judge of the District Court commits a person to a place of detention under *subsection (10) (b)* or *(13) (b)*, a judge of the District Court assigned to the District Court district in which the person is being detained may, if satisfied that one or more of the paragraphs of *subsection (8)* applies in relation to the person, commit him or her for further periods (each period being a period not exceeding F15[21 days]) pending the determination of the person’s application under *section 8*.
+
+(*b*) If at any time during the detention of a person pursuant to this section the person indicates a desire to leave the State, he or she shall, as soon as practicable, be brought before a judge of the District Court assigned to the District Court district in which the person is being detained and the judge shall, if he or she is satisfied that the person does not wish to proceed with his or her application for a declaration and wishes to leave the State, order the Minister to arrange for the removal of the person from the State and may include in the order such ancillary or consequential provisions as he or she may determine and the person concerned shall be deemed to have withdrawn his or her application for a declaration.
+
+F16[(15) A person referred to in subsection (1) shall not be given leave to enter the State under that subsection if he or she is the subject of an order under section 4 of the Immigration Act, 1999.]
+
+(16) Where, pursuant to *subsection (15)*, a person is not given leave to enter the State he or she shall not be entitled to make an application for a declaration without the consent of the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(c)(i)-(iv), (vi), (vii), S.I. No. 415 of 2003.
+>
+> F16: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(d), S.I. No. 9 of 2000.
+>
+> F17: Substituted (13.02.2004) by *Immigration Act 2004* (1/2004), s. 16(4), commenced on enactment.
+>
+> F18: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(c)(v), S.I. No. 415 of 2003.
+>
+> F19: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 15 item 2, S.I. No. 887 of 2004.
+>
+> F20: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 93 and sch. 2 part 8, S.I. No. 502 of 2013.
+>
+> **Editorial Notes:**
+>
+> E16: Declared unconstitutional: subs. (4)(b) declared unconstitutional (09.02.2018) by *N.H.V v Minister for Justice and Equality* [2017] IESC 82.
+>
+> E17: Additional particulars for temporary residence certificate specified (19.08.2002) by *Refugee Act 1996 (Temporary Residence Certificate) Regulations 2002* (S.I. No. 426 of 2002), reg. 4, in effect as per reg. 1(2).
+>
+> E18: Power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Places and Conditions of Detention) Regulations 2000* (S.I. No. 344 of 2000), in effect as per reg. 1(2).
+>
+> E19: Previous affecting provision: subs. (4A) inserted (5.09.2000) by *Illegal Immigrants (Trafficking) Act 2000* (29/2000), s. 9(a), S.I. No. 266 of 2000; substituted as per F-note above.
+>
+> E20: Previous affecting provision: additional particulars for temporary residence certificate specified (20.11.2000) by *Refugee Act, 1996 (Temporary Residence Certificate) Regulations 2000* (S.I. No. 346 of 2000), reg. 3, in effect as per reg. 1(2); revoked (19.08.2002) by *Refugee Act 1996 (Temporary Residence Certificate) Regulations 2002* (S.I. No. 426 of 2002), reg. 3, in effect as per reg. 1(2).
+
+## 9A. Powers of authorised officers and immigration officers.
+
+F21[**9A.**—(1) An authorised officer, a member of the Garda Síochána or an immigration officer may, for the purposes of this Act, take or cause to be taken the fingerprints of an applicant.
+
+(2) Fingerprints shall not be taken under this section from a person under the age of 14 years except in the presence of a person who is—
+
+(*a*) a parent or a person who is acting *in loco parentis*; or
+
+F22[(*b*) an employee of the F23[Child and Family Agency] or other person appointed by the F23[Child and Family Agency] under section 8(5)(*b*).]
+
+(3) The fingerprints of a person under the age of 14 years shall not be taken under this section without the prior approval—
+
+(*a*) in the case of an authorised officer or an immigration officer who is not a member of the Garda Síochána, of the Minister or a person designated for that purpose by the Minister; or
+
+(*b*) in the case of a member of the Garda Síochána, of his or her chief superintendent or a person designated for that purpose by his or her chief superintendent.
+
+(4) If and for so long as the authorised officer, the immigration officer or, as the case may be, the member of the Garda Síochána concerned has reasonable grounds for believing that the person is not under the age of 14 years, the provisions of subsection (2) shall apply as if he or she had attained the age of 14 years.
+
+(5) An applicant who refuses to permit his or her fingerprints to be taken pursuant to subsection (1) shall be deemed not to have made reasonable efforts to establish his or her true identity within the meaning of section 9(8)(*c*), and to have failed to comply with the requirements of section 11C.
+
+(6) The Commissioner of the Garda Síochána shall arrange for the maintenance of a record of fingerprints taken pursuant to subsection (1).
+
+(7) Every fingerprint of an applicant taken pursuant to subsection (1) and every copy thereof shall, if not previously destroyed, be destroyed—
+
+(*a*) in case the applicant becomes a citizen of the State, before the expiration of one month after the granting of the certificate of naturalisation or of Irish citizenship to him or her or the acknowledgement by the Minister of the validity of his or her declaration accepting Irish citizenship, as the case may be;
+
+(*b*) in any other case, before the expiration of 10 years after the taking of such fingerprints.
+
+(8) Information obtained pursuant to subsection (1) may be communicated to convention countries or a safe third country (within the meaning of section 22) as if it was information to which subsection (9) or, as may be appropriate, subsection (10) of that section relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(d), S.I. No. 415 of 2009.
+>
+> F22: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 15 item 3, S.I. No. 887 of 2004.
+>
+> F23: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 8, S.I. No. 502 of 2013.
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 7(2).
+>
+> *Right to remain in the State*
+>
+> 7\. (1) An applicant who appeals under Regulation 6 shall, subject to paragraph (2), be entitled to remain in the State pending the outcome of the appeal.
+>
+> (2) The following provisions of the Act of 1996 shall apply to the entitlement of the applicant under paragraph (1) to remain in the State, as if the references to an applicant in those provisions was a reference to an applicant referred to in paragraph (1):
+>
+> (a) subsections (4), (4A)(a), (5), (6) and (7) of section 9;
+>
+> (b) section 9A.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: section inserted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(e), S.I. No. 9 of 2000; substituted as per F-note above.
+
+## 10. Provisions relating to detained persons.
+
+**10.**—(1) The immigration officer or, as the case may be, the member of the Garda Síochána concerned shall, without delay, inform a person detained pursuant to *subsection (8)* or (*13*) (*a*) of *section 9* or cause him or her to be informed, where possible in a language that the person understands—
+
+(*a*) that he or she is being detained pursuant to *section 9*,
+
+(*b*) that he or she shall, as soon as practicable, be brought before a court which shall determine whether or not he or she should be committed to a place of detention or released pending consideration of that person’s application for a declaration under *section 8*,
+
+(*c*) that he or she is entitled to consult a solicitor,
+
+(*d*) that he or she is entitled to have notification of his or her detention, the place of detention concerned and every change of such place sent to the High Commissioner and to another person reasonably named by him or her,
+
+(*e*) that he or she is entitled to leave the State in accordance with the provisions of this paragraph at any time during the period of his or her detention and if he or she indicates a desire to do so, he or she shall, as soon as practicable, be brought before a court and the court may make such orders as may be necessary for his or her removal from the State, and
+
+(*f*) that he or she is entitled to the assistance of an interpreter for the purpose of consultation with a solicitor pursuantto *paragraph (c)* and for the purpose of any appearance before a court pursuant to *section 9*.
+
+(2) The immigration officer or, as the case may be, the member of the Garda Síochána concerned shall also explain to a person detained pursuant to *subsection (8)* or *(13) (a)* of *section 9*, where possible in a language that the person understands, that, if he or she does not wish to exercise a right specified in *subsection (1)* immediately, he or she will not be precluded thereby from doing so later.
+
+(3) The immigration officer or, as the case may be, the member of the Garda Síochána concerned shall notify the Commissioner and F24[the Tribunal] of the detention or release of a person pursuant to the provisions of *section 9*.
+
+(4) The Commissioner or, as the case may be, F24[the Tribunal] shall ensure that the application for a declaration of a person detained pursuant to *subsection (8)* or *(13) (a)* of *section 9* shall be dealt with as soon as may be and, if necessary, before any other application for a declaration of a person not so detained.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(f), S.I. No. 9 of 2000.
+>
+> **Editorial Notes:**
+>
+> E22: Requirement for written notice under section and additional information to be included prescribed (20.11.2000) by *Refugee Act, 1996 (Places and Conditions of Detention) Regulations 2000* (S.I. No. 344 of 2000), reg. 5, in effect as per reg. 1(2).
+
+## 11. Investigation of applications by Commissioner.
+
+**11.**—F25[(1) Where an application is received by the Commissioner under section 8 and the application is not withdrawn or deemed to be withdrawn pursuant to this section or section 9 or 22, it shall be the function of the Commissioner to investigate the application for the purpose of ascertaining whether the applicant is a person in respect of whom a declaration should be given.]
+
+F25[(2) In a case to which subsection (1) applies, the Commissioner shall, for the purposes of that provision, direct an authorised officer or officers to interview the applicant concerned and the officer or officers shall comply with any such direction and furnish a report in writing in relation to the interview concerned to the Commissioner F26[...].]
+
+F27[(2A) An applicant interviewed under subsection (2) shall, whenever necessary for the purpose of ensuring appropriate communication during the interview, be provided by the Commissioner with the services of an interpreter.
+
+(2B) An interview under subsection (2) shall take place without the presence of family members of the applicant unless the Commissioner considers it necessary for an appropriate investigation to have other family members present.]
+
+F25[(3)(*a*) The applicant concerned, the High Commissioner or any other person concerned may make representations in writing to the Commissioner in relation to any matter relevant to an investigation by him or her under this section and the Commissioner shall take account of any such representations made before or during an interview under subsection (2).
+
+(*b*) The High Commissioner may, whenever he or she so requests, be present at an interview under subsection (2).]
+
+(4) (*a*) The Commissioner may, for the purposes of his or her functions under this Act, by notice in writing, request the Minister, the Minister for Foreign Affairs or such other persons as may be specified in the notice to make such inquiries and to furnish to him or her such information in his or her possession or control as he or she may reasonably require within such period as shall be specified in the notice.
+
+(*b*) Following the receipt of a request under *subsection (1)*, the Minister or the Minister for Foreign Affairs, as the case may be, may withhold any information in his or her possession or control in the interest of national security or public policy (“*ordre public*”).
+
+(5) Nothing in the Data Protection Act, 1988, shall be construed as prohibiting a person from giving to the Commissioner, on requestby him or her, such information as is in the person’s possession or control relating to the application.
+
+(6) F28[...]
+
+(7) F28[...]
+
+(8) F29[On receipt by the Commissioner of an application under the provisions of this Act,] the Commissioner shall, without delay, give or cause to be given to the applicant a statement in writing specifying, where possible in a language that he or she understands—
+
+(*a*) the procedures to be observed in the investigation of applications under this section,
+
+(*b*) the entitlement of the applicant to consult a solicitor,
+
+(*c*) the entitlement of the applicant to contact the High Commissioner,
+
+(*d*) the entitlement of the applicant to make written submissions to the Commissioner,
+
+F25[(*e*) the duty of the applicant to co-operate with the Commissioner and to furnish information relevant to his or her application for a declaration,
+
+(*f*) the obligation of the applicant to comply with subsections (4), (4A) and (5) of section 9 and the possible consequences of non-compliance with that obligation including the possibility that his or her application for a declaration may be deemed to be withdrawn and that the Minister may refuse to give the applicant a declaration,]
+
+F30[(*g*) the possible consequences of the failure of the applicant to attend an interview under this section.]
+
+F25[(9) An applicant may withdraw his or her application for a declaration by sending notice of withdrawal to the Commissioner.]
+
+F30[(10) Where an applicant does not attend for interview with an authorised officer under this section on the date and at the time fixed for the interview then, unless the applicant, not later than 3 working days from that date, furnishes the Commissioner with an explanation for the non-attendance which in the opinion of the Commissioner is reasonable in the circumstances, his or her application shall be deemed to be withdrawn.
+
+(11) Where—
+
+(*a*) it appears to the Commissioner that an applicant is failing in his or her duty to co-operate with the Commissioner or to furnish information relevant to his or her application for a declaration, or
+
+(*b*) the Minister notifies the Commissioner that he or she is of opinion that the applicant is in breach of subsection (4)(*a*), (4A) or (5) of section 9,
+
+the Commissioner shall send to the applicant a notice in writing inviting the applicant to indicate in writing (within 15 working days of the sending of the notice) whether he or she wishes to continue with his or her application and, if an applicant does not furnish an indication within the time specified in the notice, his or her application for a declaration shall be deemed to be withdrawn.
+
+(12) The procedures to be followed in investigations under this section may be prescribed and different procedures may be prescribed for different classes of applications.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(e)(i)-(iii), (v), (vi), S.I. No. 415 of 2003.
+>
+> F26: Deleted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 4(a), in effect as per reg. 1(2).
+>
+> F27: Inserted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 4(b), in effect as per reg. 1(2).
+>
+> F28: Deleted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(e)(iv), S.I. No. 415 of 2003.
+>
+> F29: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(g)(i), (ii), (v), S.I. No. 9 of 2000.
+>
+> F30: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(e)(v), (vi), S.I. No. 415 of 2003.
+>
+> **Modifications (not altering text):**
+>
+> C7: Application of section extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 10.
+>
+> *Applicant under section 8 of Act of 1996 to whom Article 18(1)(c) of EU Regulation applies*
+>
+> 10\. (1) This Regulation applies to a person—
+>
+> (a) to whom Article 18(1)(c) of the EU Regulation applies,
+>
+> (b) who has made an application under section 8 of the Act of 1996, which application was, under that Act, withdrawn or deemed to have been withdrawn,
+>
+> (c) who is present in the State, and
+>
+> (d) whom the Commissioner has agreed to take back on the grounds that the State is the Member State responsible under the EU Regulation for examining the person’s application for international protection.
+>
+> (2) A person to whom this Regulation applies may, in accordance with this Regulation, make an application for the completion of the investigation under section 11 of the Act of 1996 of his or her application under section 8 of that Act.
+>
+> (3) The Commissioner shall send a person to whom this Regulation applies, and his or her legal representative (if known), a notice in writing informing him or her of—
+>
+> (a) his or her entitlement to make an application under paragraph (2), and
+>
+> (b) the requirements under paragraph (4) for the making of such an application.
+>
+> ...
+>
+> (5) On receipt of an application under paragraph (2) that is made in accordance with paragraph (4), the Commissioner shall proceed to complete his or her investigation under section 11 of the Act of 1996 of the person’s application under section 8 of that Act and, for the purposes of such an investigation—
+>
+> (a) the provisions of the Act of 1996 shall, subject to paragraph (b) and any other necessary modifications, apply, and
+>
+> (b) where the Commissioner had, under section 13(1) of the Act of 1996 and before the sending of the notice under paragraph (3), sent the person a copy of a report to which section 13(2) of the Act of 1996 applies, section 13 of the Act of 1996 shall apply to that investigation as if that report had not been prepared.
+>
+> (6) Notwithstanding anything contained in those Regulations, Regulations 11, 12, 13, 14 and 15 shall not apply to a person to whom this Regulation applies.
+>
+> **Editorial Notes:**
+>
+> E23: Procedure for conduct of interview under section prescribed (1.03.2011) by *Refugee Act 1996 (Asylum Procedures) Regulations 2011* (S.I. No. 52 of 2011), reg. 3, in effect as per reg. 1(2).
+>
+> E24: Previous affecting provision: section amended (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(g), S.I. No. 9 of 2000; superseded in part as per F-notes above.
+
+## 11A. Burden of proof.
+
+F31[**11A.**—(1) Where, at any time during the investigation of an application by the Commissioner under section 11, it appears to him or her that an applicant—
+
+(*a*) is a national of, or has a right of residence in, a country standing designated by order under section 12(4) as a safe country of origin, or
+
+(*b*) had lodged a prior application for asylum in another state party to the Geneva Convention,
+
+then the applicant shall be presumed not to be a refugee unless he or she shows reasonable grounds for the contention that he or she is a refugee.
+
+(2) Where an application is one to which section 22 applies, it shall be for the applicant to show that his or her application should be examined in the State.
+
+(3) Where an applicant appeals against a recommendation of the Commissioner under section 13, it shall be for him or her to show that he or she is a refugee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(f), S.I. No. 415 of 2003.
+
+## 11B. Credibility.
+
+F32[**11B.**—The Commissioner or the Tribunal, as the case may be, in assessing the credibility of an applicant for the purposes of the investigation of his or her application or the determination of an appeal in respect of his or her application, shall have regard to the following:
+
+(*a*) whether the applicant possesses identity documents, and, if not, whether he or she has provided a reasonable explanation for the absence of such documents;
+
+(*b*) whether the applicant has provided a reasonable explanation to substantiate his or her claim that the State is the first safe country in which he or she has arrived since departing from his or her country of origin or habitual residence;
+
+(*c*) whether the applicant has provided a full and true explanation of how he or she travelled to and arrived in the State;
+
+(*d*) where the application was made other than at the frontiers of the State, whether the applicant has provided a reasonable explanation to show why he or she did not claim asylum immediately on arriving at the frontiers of the State unless the application is grounded on events which have taken place since his or her arrival in the State;
+
+(*e*) where the applicant has forged, destroyed or disposed of any identity or other documents relevant to his or her application, whether he or she has a reasonable explanation for so doing;
+
+(*f*) whether the applicant has adduced manifestly false evidence in support of his or her application, or has otherwise made false representations, either orally or in writing;
+
+(*g*) whether the applicant, without reasonable cause, having withdrawn his or her application and not having been refused a declaration under section 17, has made a subsequent application under section 8;
+
+(*h*) whether the applicant, without reasonable cause, has made an application following the notification of a proposal under section 3(3)(*a*) of the Immigration Act 1999;
+
+(*i*) whether the applicant has complied with the requirements of section 11C;
+
+(*j*) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(4)(*a*);
+
+(*k*) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(4A);
+
+(*l*) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(5);
+
+(*m*) whether, in the case of an application to which section 16 applies, the applicant has furnished information in relation to the application which he or she could reasonably have furnished during the investigation of the application by the Commissioner but did not so furnish.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(f), S.I. No. 415 of 2003.
+
+## 11C. Duty to co-operate.
+
+F33[**11C.**—(1) It shall be the duty of an applicant to co-operate in the investigation of his or her application and in the determination of his or her appeal, if any.
+
+(2) In compliance with subsection (1), an applicant shall furnish to the Commissioner or the Tribunal, as may be appropriate, as soon as reasonably practicable, all information in his or her possession, control or procurement relevant to his or her application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(f), S.I. No. 415 of 2003.
+
+## 12. Prioritisation of applications.
+
+F34[**12.**—(1) Subject to the need for fairness and efficiency in dealing with applications for a declaration under this Act, the Minister may, where he or she considers it necessary or expedient to do so, give a direction in writing to the Commissioner or the Tribunal or to both requiring either or both of them, as the case may be, to accord priority to certain classes of applications determined by reference to one or more of the following matters:
+
+(*a*) the grounds of applications under section 8,
+
+(*b*) the country of origin or habitual residence of applicants,
+
+(*c*) any family relationship between applicants,
+
+(*d*) the ages of applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(*e*) the dates on which applications were made,
+
+(*f*) considerations of national security or public policy,
+
+(*g*) the likelihood that the applications are well-founded,
+
+(*h*) if there are special circumstances regarding the welfare of applicants or the welfare of family members of applicants,
+
+(*i*) whether applications do not show on their face grounds for the contention that the applicant is a refugee,
+
+(*j*) whether applicants have made false or misleading representations in relation to their applications,
+
+(*k*) whether applicants had lodged prior applications for asylum in another country,
+
+(*l*) whether applications under section 8 were made at the earliest opportunity after arrival in the State,
+
+(*m*) whether applicants are nationals of or have a right of residence in a country of origin designated as safe under this section,
+
+(*n*) if an applicant is a person to whom paragraph (*a*), (*b*) or (*c*) of section 2 applies.
+
+(2) The Commissioner or the Tribunal shall comply with a direction given to him, her or it under this section.
+
+(3) The Minister may be a direction revoke or alter a direction given by him or her under subsection (1).
+
+F35[(4)(*a*) The Minister may, by order made after consultation with the Minister for Foreign Affairs, designate a country as a safe country of origin.
+
+(*b*) The Minister may make an order under paragraph (*a*) only if he or she is satisfied that, on the basis of the legal situation, the application of the law within a democratic system and the general political circumstances, it can be shown that, in the country concerned, there is generally and consistently no persecution, construed in accordance with section 2 and Regulation 9 of the Regulations of 2006, no torture or inhuman or degrading treatment or punishment and no threat by reason of indiscriminate violence in situations of international or internal armed conflict.
+
+(*c*) In making the assessment referred to in paragraph (*b*), the Minister shall take account of, among other things, the extent to which protection against persecution or mistreatment is provided in the country concerned by—
+
+(i) the relevant laws and regulations of the country and the manner in which they are applied,
+
+(ii) observance of the rights and freedoms laid down in the European Convention on Human Rights, the International Covenant for Civil and Political Rights and the Convention against Torture, in particular the rights from which derogation cannot be made under Article 15(2) of the European Convention on Human Rights,
+
+(iii) respect of the non-refoulement principle according to the Geneva Convention, and
+
+(iv) provision for a system of effective remedies against violations of these rights and freedoms.
+
+(*d*) The determination as to whether an order under paragraph (*a*) should be made in relation to a particular country shall be based on, among other things, available information from other Member States, the High Commissioner, the Council of Europe and other relevant international organisations.
+
+(*e*) Where the Minister considers it appropriate, he or she shall, in consultation with the Minister for Foreign Affairs, review a designation under paragraph (*a*) having regard to the matters specified in paragraphs (*b*) to (*d*).
+
+(*f*) The Minister shall notify the European Commission of the making, amendment or revocation of an order under paragraph (*a*).]
+
+(5) In this section—
+
+‘the Convention against Torture’ means the Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment adopted by resolution 39/46 of the General Assembly of the United Nations on 10 December 1984;
+
+F36[‘country’ includes part of a country;]
+
+‘the European Convention on Human Rights’ means the Convention for the Protection of Human Rights and Fundamental Freedoms done at Rome on the 4th day of November, 1950;
+
+‘the International Covenant on Civil and Political Rights’ means the International Covenant on Civil and Political Rights adopted by Resolution 2200A (XXI) of the General Assembly of the United Nations on 16 December 1966.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(g), S.I. No. 415 of 2003.
+>
+> F35: Substituted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 5(a), in effect as per reg. 1(2).
+>
+> F36: Inserted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 5(b), in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E25: Power pursuant to subs. (4)(a) exercised (9.12.2004) by *Refugee Act 1996 (Safe Countries of Origin) Order 2004* (S.I. No. 714 of 2004), in effect as per art. 1(2).
+>
+> E26: Power pursuant to subs. (4)(a) exercised (15.09.2003) by *Refugee Act 1996 (Safe Countries of Origin) Order 2003* (S.I. No. 422 of 2003), in effect as per art. 1(2).
+>
+> E27: Previous affecting provisions: section amended (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(h), S.I. No. 9 of 2000; substituted as per F-note above.
+
+## 13. Recommendations and reports of Commissioner.
+
+F37[**13.**—(1) Where the Commissioner carries out an investigation under section 11 he or she shall, as soon as may be, prepare a report in writing of the results of the investigation and such report shall refer to the matters raised by the applicant in the interview under section 11 and to such other matters as the Commissioner considers appropriate and shall set out the findings of the Commissioner together with his or her recommendation whether the applicant concerned should or, as the case may be, should not be declared to be a refugee.
+
+(2) Where an application for a declaration is withdrawn or deemed to be withdrawn pursuant to section 9 or 11, then—
+
+(*a*) any investigation under section 11 shall be terminated,
+
+(*b*) the report referred to in subsection (1) shall state that the application has been withdrawn or deemed to be withdrawn, as the case may be, and shall include a recommendation that the applicant concerned should not be declared to be a refugee, and
+
+(*c*) no appeal under section 16 shall lie against a recommendation under paragraph (*b*).
+
+(3) The Commissioner shall, if so requested by the High Commissioner, notify him or her of the making of the recommendation under subsection (1).
+
+(4) (*a*) The Commissioner shall send a copy of a report under subsection (1) to the applicant concerned, to his or her solicitor (if known) and, if so requested by the High Commissioner, to him or her.
+
+(*b*) Where a report under subsection (1) (other than a report to which subsection (2) applies) includes a recommendation that the applicant should not be declared to be a refugee, the Commissioner shall, subject to subsections (5) and (8), send a notice in writing to the applicant stating that the applicant may appeal to the Tribunal under section 16 against the recommendation and may request an oral hearing within 15 working days from the sending of the notice.
+
+(*c*) Where the applicant has not appealed against the recommendation referred to in paragraph (*b*) within 15 working days after the sending of a notice under that paragraph, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(*d*) Where a report under subsection (1) includes a recommendation that the applicant should be declared to be a refugee, the Commissioner shall, as soon as may be, furnish the report to the Minister.
+
+(*e*) Where a report under subsection (1) includes a recommendation pursuant to subsection (2) that the applicant should not be declared to be a refugee, the Commissioner shall, as soon as may be, furnish the report to the Minister.
+
+(5) Where a report under subsection (1) includes a recommendation that the applicant should not be declared to be a refugee and includes among the findings of the Commissioner any of the findings specified in subsection (6), then the following shall, subject to subsection (8), apply:
+
+(*a*) the notice under paragraph (*b*) of subsection (4) shall, notwithstanding that subsection, state that the applicant may appeal to the Tribunal under section 16 against the recommendation within 10 working days from the sending of the notice, and that any such appeal will be determined without an oral hearing;
+
+(*b*) notwithstanding paragraph (*c*) of subsection (4), where the applicant has not appealed against the recommendation within 10 working days after the sending of a notice under paragraph (*b*) of that subsection, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(6) The findings referred to in subsection (5) are—
+
+(*a*) that the application showed either no basis or a minimal basis for the contention that the applicant is a refugee;
+
+(*b*) that the applicant made statements or provided information in support of the application of such a false, contradictory, misleading or incomplete nature as to lead to the conclusion that the application is manifestly unfounded;
+
+(*c*) that the applicant, without reasonable cause, failed to make an application as soon as reasonably practicable after arrival in the State;
+
+(*d*) the applicant had lodged a prior application for asylum in another state party to the Geneva Convention (whether or not that application had been determined, granted or rejected); or
+
+(*e*) the applicant is a national of, or has a right of residence in, a safe country of origin for the time being so designated by order under section 12(4).
+
+(7) (*a*) The Minister may give a direction in writing to the Commissioner requiring him or her to investigate under section 11 such class of applications as may be specified in the direction in accordance with the procedures referred to in subsection (8) and the Commissioner shall comply with a direction given to him or her under this subsection.
+
+(*b*) The Minister may by a direction revoke or alter a direction given by him or her under paragraph (*a*).
+
+(8) Where an application referred to in subsection (7) has been investigated under section 11 and the relevant report under subsection (1) includes a recommendation that the applicant should not be declared to be a refugee and contains among the findings of the Commissioner any of the findings specified in subsection (6), then the following shall, subject to subsection (9), apply:
+
+(*a*) the notice under paragraph (*b*) of subsection (4) shall, notwithstanding that subsection, state that the applicant may appeal to the Tribunal under section 16 against the recommendation within 4 working days from the sending of the notice, and that any such appeal will be determined without an oral hearing,
+
+(*b*) notwithstanding paragraph (*c*) of subsection (4), where the applicant has not appealed against the recommendation within 4 working days after the sending of a notice under paragraph (*b*) of that subsection, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(9) (*a*) Where an application is to be investigated in accordance with the procedures referred to in subsection (8), the Commissioner shall notify the applicant accordingly in writing and shall send a copy of the notice to his or her solicitor (if known) and, if so requested by the High Commissioner, to him or her.
+
+(*b*) Paragraphs (*a*) and (*b*) of subsection (8) shall not apply to such an application unless the applicant concerned and his or her solicitor (if known) have been notified in accordance with paragraph (*a*).
+
+(10) Where a report under subsection (1) (other than a report to which subsection (2) applies) includes a recommendation that the applicant should not be declared to be a refugee, then, subject to subsection (11), the Commissioner shall furnish the applicant concerned and his or her solicitor (if known) and the High Commissioner, whenever so requested by him or her, with copies of any reports, documents or representations in writing submitted to the Commissioner under section 11 and an indication in writing of the nature and source of any other information relating to the application which has come to the notice of the Commissioner in the course of an investigation by him or her under that section.
+
+(11) Where information has been supplied to the Commissioner, a Department of State or another branch or office of the public service by or on behalf of the government of another state in accordance with an undertaking (express or implied) that the information would be kept confidential, the information shall not, without the consent of the other state, be produced or further disclosed otherwise than in accordance with the undertaking.]
+
+F38[(12) If a recommendation under subsection (1) cannot be made within 6 months of the date of the application for a declaration under section 8, the Commissioner shall, upon request from the applicant, provide the applicant with information on the estimated time within which a recommendation may be made.
+
+(13) The provision under subsection (12) by the Commissioner of an estimated time within which a recommendation may be made shall not of itself oblige the Commissioner to make a recommendation within that time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(h), S.I. No. 415 of 2003.
+>
+> F38: Inserted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 6, in effect as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 10(5)(b).
+>
+> *Applicant under section 8 of Act of 1996 to whom Article 18(1)(c) of EU Regulation applies*
+>
+> 10\. ...
+>
+> (5) On receipt of an application under paragraph (2) that is made in accordance with paragraph (4), the Commissioner shall proceed to complete his or her investigation under section 11 of the Act of 1996 of the person’s application under section 8 of that Act and, for the purposes of such an investigation—
+>
+> (a) the provisions of the Act of 1996 shall, subject to paragraph (b) and any other necessary modifications, apply, and
+>
+> (b) where the Commissioner had, under section 13(1) of the Act of 1996 and before the sending of the notice under paragraph (3), sent the person a copy of a report to which section 13(2) of the Act of 1996 applies, section 13 of the Act of 1996 shall apply to that investigation as if that report had not been prepared.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E28: Comprehension requirement under certain conditions in relation to recommendation under subs. (1) imposed (1.03.2011) by *Refugee Act 1996 (Asylum Procedures) Regulations 2011* (S.I. No. 52 of 2011), reg. 5, in effect as per reg. 1(2).
+>
+> E29: Previous affecting provision: subs. (3)(c) amended (5.09.2000) by *Illegal Immigrants (Trafficking) Act 2000* (29/2000), s. 9(b), S.I. No. 266 of 2000; substituted as per F-note above.
+>
+> E30: Previous affecting provision: section amended (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(i), S.I. No. 9 of 2000; substituted as per F-note above.
+
+## 14. Establishment day.
+
+**14.**—The Minister may by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E31: Power pursuant to section exercised (4.10.2000) by *Refugee Act, 1996 (Establishment Day) Order 2000* (S.I. No. 309 of 2000).
+
+## 15. Refugee Appeal Board.
+
+F39[**15.**—(1) On the establishment day there shall stand established a Tribunal to be known as the Refugee Appeals Tribunal (in this Act referred to as ‘the Tribunal’) to consider and decide appeals under section 16 of this Act.
+
+(2) The Tribunal shall be independent in the performance of its functions.
+
+(3) The provisions of the Second Schedule shall have effect in relation to the Tribunal.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(j), S.I. No. 9 of 2000.
+
+## 16. Appeals to Appeal Board.
+
+**16.**—F40[(1) The applicant may appeal in the prescribed manner against a recommendation of the Commissioner under section 13 (other than a recommendation pursuant to section 13(2)).]
+
+F40[(2) The Tribunal may—
+
+(*a*) affirm a recommendation of the Commissioner, or
+
+(*b*) set aside a recommendation of the Commissioner and recommend that the applicant should be declared to be a refugee.]
+
+F40[(2A) Where an applicant fails, without reasonable cause, to attend an oral hearing under subsection (10), then unless the applicant, not later than 3 working days from the date fixed for the oral hearing, furnishes the Tribunal with an explanation for not attending the hearing which the Tribunal considers reasonable in the circumstances his or her appeal shall be deemed to be withdrawn.]
+
+F41[(2B) Where—
+
+(*a*) it appears to the Tribunal that an applicant is failing in his or her duty to co-operate with the Commissioner or to furnish information relevant to his or her appeal, or
+
+(*b*) the Minister notifies the Tribunal that he or she is of opinion that the applicant is in breach of subsection (4)(*a*), (4A) or (5) of section 9,
+
+the Tribunal shall send to the applicant a notice in writing inviting the applicant to indicate in writing (within 15 working days of the sending of the notice) whether he or she wishes to continue with his or her appeal and, if an applicant does not furnish an indication within the time specified in the notice, his or her appeal shall be deemed to be withdrawn.]
+
+F42[(3) An appeal under this section shall be brought by notice in writing within the period specified in section 13(4)(*b*) or 13(5)(*a*) or 13(8)(*a*), as appropriate, and the notice shall specify the grounds of appeal and, except in a case to which section 13(5) or 13(8) applies, shall indicate whether the applicant wishes the Tribunal to hold an oral hearing for the purpose of his or her appeal.]
+
+(4) The F43[Tribunal] shall transmit a copy of the notice received by it under *subsection (3)* F44[to the Commissioner and notification of the making of the appeal to the High Commissioner].
+
+(5) The Commissioner shall furnish the F43[Tribunal] with copies of any reports, documents or representations in writing submitted to the Commissioner under *section 11* F45[...] and an indication in writing of the nature and source of any other information relating to the application which has come to the notice of the Commissioner in the course of an investigation by him or her.
+
+(6) The F43[Tribunal] may, for the purposes of its functions under this Act, request the Commissioner to make such further inquiries and to furnish the F43[Tribunal] with such further information as the F43[Tribunal] considers necessary within such period as may be specified by the F43[Tribunal].
+
+(7) The Commissioner shall furnish the F43[Tribunal] with observations in writing concerning any matter arising on the grounds of appeal whenever so requested by the F43[Tribunal] and a copy of such observations shall be furnished to the applicant concerned and his or her solicitor (if known).
+
+(8) The F43[Tribunal] shall furnish the applicant concerned and his or her F44[solicitor (if known) and the High Commissioner whenever so requested by him or her] with copies of any reports, observations, or representations in writing or any other document, furnished to the F43[Tribunal] by the Commissioner copies of which have not been previously F44[furnished to the applicant or, as the case may be, the High Commissioner] pursuant to *section 11 (6)* and an indication in writing of the nature and source of any other information relating to the appeal which has come to the notice of the F43[Tribunal] in the course of an appeal under this section.
+
+F42[(9) (*a*) An applicant may withdraw his or her appeal to the Tribunal by sending notice of withdrawal to the Tribunal and the Tribunal shall, as soon as may be, notify the Minister and the Commissioner of the withdrawal.
+
+(*b*) Where an appeal is deemed to be withdrawn pursuant to subsection (2A) or (2B), the Tribunal shall, as soon as may be, notify the applicant, his or her solicitor (if known), the Minister and the Commissioner of the withdrawal.]
+
+(10) The F43[Tribunal] shall, where appropriate, following a notice under *subsection (3)*, hold an oral hearing for the purpose of an appeal under this section.
+
+(11) (*a*) For the purposes of an oral hearing (if any) under this section, the F43[Tribunal] may—
+
+(i) direct in writing any person whose evidence is required by the F43[Tribunal] to attend before the F43[Tribunal] on a date and at a time and place specified in the direction and there to give evidence and to produce any document or thing in his or her possession or control specified in the direction,
+
+(ii) direct any such person to produce any specified document or thing in his or her possession or control, or
+
+(iii) give any other directions for the purpose of an appeal that appear to the F43[Tribunal] reasonable and just.
+
+(*b*) *Subparagraphs (i)* and *(ii)* of *paragraph (a)* shall not apply to a document or thing relating to information as respects which the Minister or the Minister for Foreign Affairs, as the case may be, directs (which he or she is hereby empowered to do) that the information be withheld in the interest of national security or public policy (“*ordre public*”).
+
+(*c*) The F43[Tribunal] shall enable the applicant and the Commissioner or an authorised officer to be present at the hearing and present their case to the F43[Tribunal] in person or through a legal representative or other person.
+
+F46[(*d*) The Tribunal shall, where necessary for the purpose of ensuring appropriate communication during the hearing, provide the applicant with the services of an interpreter.]
+
+(12) Subject to *subsection (13)*, a witness whose evidence has been or is to be given before the F43[Tribunal] shall be entitled to the same privileges and immunities as a witness in a court.
+
+(13) Where information has been supplied to the Commissioner, a Department of State or another branch or office of the public service by or on behalf of the government of another state in accordance with an undertaking (express or implied) that the information would be kept confidential, the information shall not, without the consent of the other state, be produced or further disclosed otherwise than in accordance with the undertaking.
+
+(14) An oral hearing under this section shall be held in private.
+
+(15) Notwithstanding *subsection (14)*, the High Commissioner may be present at an oral hearing under this section for the purpose of observing the proceedings.
+
+(16) Before deciding an appeal under this section, the F43[Tribunal] shall consider the following:
+
+(*a*) the relevant notice under *subsection (3)*,
+
+(*b*) F45[...] the report of the Commissioner under *section 13*,
+
+(*c*) any observations made to the F43[Tribunal] by the Commissioner or the High Commissioner,
+
+(*d*) the evidence adduced and any representations made at an oral hearing, if any, and
+
+(*e*) any documents, representations in writing or other information furnished to the Commissioner pursuant to *section 11*.
+
+F41[(16A) The Tribunal shall affirm a recommendation of the Commissioner unless it is satisfied, having considered the matters referred to in subsection (16), that the applicant is a refugee.]
+
+F44[(17) (*a*) A decision of the Tribunal under subsection (2) and the reasons therefor shall be communicated by the Tribunal to the applicant concerned and his or her solicitor (if known).
+
+(*b*) A decision of the Tribunal under subsection (2) F45[...] and the reasons therefor shall be communicated by the Tribunal to the Minister together with a copy of the report of the Commissioner under section 13.
+
+(*c*) A decision of the Tribunal under subsection (2) shall be communicated to the High Commissioner.]
+
+F41[(18) The Tribunal shall ensure that an appeal against a recommendation of the Commissioner to which section 13(5) or 13(8) applies shall be dealt with as soon as may be and, if necessary, before any other application for a declaration.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(i)(i)-(iii), S.I. No. 415 of 2003.
+>
+> F41: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(i)(iii), (viii), (x), S.I. No. 415 of 2003.
+>
+> F42: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(i)(iv), (vi), S.I. No. 415 of 2003.
+>
+> F43: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(k)(i), S.I. No. 9 of 2000.
+>
+> F44: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(k)(iii)-(vi), S.I. No. 9 of 2000.
+>
+> F45: Deleted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(i)(v), (vii), (ix), S.I. No. 415 of 2003.
+>
+> F46: Substituted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 7, in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E32: Affirmation and recommendation under subs. (2) made subject to *European Communities (Eligibility for Protection) Regulations 2006* (S.I. No. 518 of 2006) (10.10.2006) by *European Communities (Eligibility for Protection) Regulations 2006* (S.I. No. 518 of 2006), reg. 3(1)(a), (b), in effect as per reg. 1(2).
+>
+> E33: Previous affecting provision: subs. (3) amended (5.09.2000) by *Illegal Immigrants (Trafficking) Act 2000* (29/2000), s. 9(c), S.I. No. 266 of 2000; subsection substituted as per F-note above.
+>
+> E34: Previous affecting provision: subs. (11)(d) amended (20.01.2000) by *Refugee Act 1999* (22/1999), s. 11(1)(k)(i), S.I. No. 9 of 2000; substituted as per F-note above.
+>
+> E35: Previous affecting provision: section amended (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(k), S.I. No. 9 of 2000; superseded in part as per F-note above.
+
+## 17. Declaration that person is refugee.
+
+**17.**—(1) Subject to the subsequent provisions of this section, where a report under *section 13* is furnished to the Minister or where the F47[Tribunal] sets aside a recommendation of the Commissioner under *section 16*, the Minister—
+
+(*a*) shall, in case the report or, as the case may be, the decision of the F47[Tribunal] includes a recommendation that the applicant concerned should be declared to be a refugee, give to the applicant a statement in writing (in this Act referred to as “a declaration”) declaring that the applicant is a refugee, and
+
+(*b*) may, in any other case, refuse to give the applicant a declaration,
+
+and he or she shall notify the High Commissioner of the giving of or, as the case may be, the refusal to give the applicant a declaration.
+
+F48[(1A) Where an application is withdrawn or (other than pursuant to section 22) deemed to be withdrawn, or an appeal under section 16 is withdrawn or deemed to be withdrawn, the Minister shall refuse to give the applicant a declaration.]
+
+(2) (*a*) If the Minister considers that in the interest of national security or public policy (“*ordre public*”) it is necessary to do so, he or she may by order—
+
+(i) provide that *sections 3, 9* and *18* shall not apply to a person specified in the order, being a person to whom a declaration has been given, and
+
+(ii) require the person to leave the State and the order shall specify the measures to be taken for the purpose of the removal of the person from the State including where necessary the temporary detention or restraint of the person.
+
+(*b*) A person with respect to whom an order under *paragraph (a) (ii)* is made shall not be required to leave the State before the expiry of 30 days from the date of the making of the order.
+
+(*c*) Where the Minister has made an order under the said *paragraph (a) (ii)* in respect of a person, he or she shall send a copy of the order to the person, the High Commissioner and the applicant’s solicitor (if known).
+
+(3) For the purposes of this Act, a person who, before the commencement of this Act, was recognised by the Minister as a refugee within the meaning of the Geneva Convention shall be deemed to be a person in respect of whom a declaration has been given under this section.
+
+(4) The Minister shall not give a declaration to a refugee who has been recognised as a refugee under the Geneva Convention by a state other than the State and who has been granted asylum in that state and whose reason for leaving or not returning to that state and for seeking a declaration in the State does not relate to a fear of persecution in that state.
+
+F49[(5) Where the Minister has decided to refuse to give a declaration, F50[other than to an applicant to whom subsection (5A) applies,] he or she shall send to the applicant a notice in writing stating that—
+
+(*a*) his or her application for a declaration has been refused,
+
+(*b*) he or she may make an application for a subsidiary protection declaration under the European Union (Subsidiary Protection) Regulations 2013 within 15 working days from the sending of the notice by completing the form for such an application and addressing it to the Commissioner, and
+
+(*c*) unless he or she makes an application for a subsidiary protection declaration referred to in paragraph (*b*), the Minister may make an order under section 3 of the Immigration Act, 1999, requiring the applicant to leave the State and if the notice contains the statement specified in subsection (4) of that section, it shall not be necessary for the Minister to give the notification specified in subsection (3) of that section.]
+
+and a copy of the notice shall be sent to the High Commissioner and to the applicant's solicitor (if known).
+
+F51[(5A) Where the Minister has decided to refuse to give a declaration to an applicant who has made an application under Regulation 3A (inserted by Regulation 5 of the European Union (Subsidiary Protection) (Amendment) Regulations 2015) of the Regulations of 2013, he or she shall send to the applicant a notice in writing stating that—
+
+(*a*) his or her application for a declaration has been refused,
+
+(*b*) from the date of the sending of the notice, Regulations 4 to 20 of the Regulations of 2013 shall apply to his or her application under Regulation 3A of the Regulations of 2013 and the application will be investigated by the Commissioner in accordance with the Regulations of 2013, and
+
+(*c*) he or she may, within 15 working days from the sending of the notice, furnish to the Commissioner further information, in writing and in the form set out in Schedule 1B (inserted by Regulation 8 of the European Union (Subsidiary Protection) (Amendment) Regulations 2015) to the Regulations of 2013 or a form to the like effect, in respect of the application referred to in paragraph (*b*).
+
+(5B) The Minister shall transmit a copy of a notice under subsection (5A) to the Commissioner.]
+
+(6) The Minister may, at his or her discretion, grant permission in writing to a person who has withdrawn his or her application or to whom the Minister has refused to give a declaration to remain in the State for such period and subject to such conditions as the Minister may specify in writing.
+
+F52[(7) A person to whom the Minister has refused to give a declaration may not make a subsequent application for a declaration under this Act without the consent of the Minister.]
+
+F53[(7A) The consent of the Minister referred to in subsection (7)—
+
+(*a*) may only be given following a preliminary examination as to whether new elements or findings relating to the examination of whether the person qualifies as a refugee have arisen or been presented by the person, and
+
+(*b*) shall be given if, following the preliminary examination referred to in paragraph (*a*), new elements or findings arise or are presented by the applicant which significantly add to the likelihood of the applicant qualifying as a refugee.
+
+(7B) An application for the consent referred to in subsection (7) shall be accompanied by—
+
+(*a*) a written statement of the reasons why the person concerned considers that the Minister should consent to a subsequent application for a declaration being made,
+
+(*b*) where the previous application or appeal was withdrawn or deemed to be withdrawn, a written explanation of the circumstances giving rise to the withdrawal or deemed withdrawal of the application or appeal,
+
+(*c*) all relevant information being relied upon by the person concerned to demonstrate that he or she is entitled to protection in the State, and
+
+(*d*) a written statement drawing to the Ministers attention any new elements or findings relating to the investigation of whether he or she is entitled to protection in the State which have arisen since his or her previous application for a declaration was the subject of a notice under subsection (5).
+
+(7C) The Minister shall, as soon as practicable after receipt by him or her of an application under subsection (7B), give or cause to be given to the person concerned a statement in writing specifying, in a language that the person may reasonably be supposed to understand—
+
+(*a*) the procedures that are to be followed for the purposes of subsections (7) to (7H),
+
+(*b*) the entitlement of the person to communicate with the High Commissioner,
+
+(*c*) the entitlement of the person to make submissions in writing to the Minister,
+
+(*d*) the duty of the person to co-operate with the Minister and to furnish information relevant to his or her application, and
+
+(*e*) such other information as the Minister considers necessary to inform the person of the effect of subsections (7) to (7H), and of any other relevant provision of F49[this Act, the Regulations of 2006 or the Regulations of 2013].
+
+(7D) Pursuant to an application under subsection (7B), and subject to subsection (7E), the Minister shall consent to a subsequent application for a declaration being made where he or she is satisfied that—
+
+(*a*) since his or her previous application for a declaration was the subject of a notice under subsection (5), new elements or findings have arisen or have been presented by the person concerned which makes it significantly more likely that the person will be declared to be a refugee, and
+
+(*b*) the person was, through no fault of the person, incapable of presenting those elements or findings for the purposes of his or her previous application for a declaration (including, as the case may be, any appeal under section 16).
+
+(7E) Pursuant to an application under subsection (7B) by or on behalf of a person who the Minister has, under Regulation 4(5) of the Regulations of 2006, determined not to be a person eligible for subsidiary protection, F54[or to whom the Minister has refused under Regulation 20(3) of the Regulations of 2013 to give a subsidiary protection declaration,] the Minister shall consent to a subsequent application for a declaration being made where he or she is satisfied that—
+
+(*a*) since his or her previous application for a declaration was the subject of a notice under subsection (5), new elements or findings have arisen or have been presented by the person concerned which makes it significantly more likely that the person will qualify for protection in the State, and
+
+(*b*) the person was, through no fault of the person, incapable of presenting those elements or findings for the purposes of his or her previous application for a declaration (including, as the case may be, any appeal under section 16) or, as the case may be, for the purposes of his or her application for subsidiary protection under Regulation 4 of the Regulations of 2006 F54[or for a subsidiary protection declaration under F55[Regulation 3 or 3A of the Regulations of 2013] (including any appeal under Regulation 8 of those Regulations)].
+
+(7F) Where the Minister consents to the making of a subsequent application for a declaration, he or she shall, as soon as practicable, notify the person concerned of that fact.
+
+(7G) Where the Minister refuses to consent to the making of a subsequent application for a declaration, he or she shall, as soon as practicable, notify the person concerned of that fact and of the reasons for it and of how a review of that decision may be sought.
+
+F49[(7H) In this section “protection in the State” has the same meaning as it has in the Regulations of 2013.]]
+
+(8) F56[...]
+
+(9) The Minister may by order amend or revoke an order under this section including an order under this subsection.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(l)(i), (ii), S.I. No. 9 of 2000.
+>
+> F48: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(j), S.I. No. 415 of 2003.
+>
+> F49: Substituted (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 34(a), (b) and (d), in effect as per reg. 1(2).
+>
+> F50: Inserted (20.04.2015) by *European Union (Subsidiary Protection) (Amendment) Regulations 2015* (S.I. No. 137 of 2015), reg. 6(a), in effect as per reg. 1(2).
+>
+> F51: Inserted (20.04.2015) by *European Union (Subsidiary Protection) (Amendment) Regulations 2015* (S.I. No. 137 of 2015), reg. 6(a), (b), in effect as per reg. 1(2).
+>
+> F52: Substituted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 8(a), in effect as per reg. 1(2).
+>
+> F53: Inserted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 8(b), in effect as per reg. 1(2).
+>
+> F54: Inserted (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 34(c), in effect as per reg. 1(2).
+>
+> F55: Substituted (20.04.2015) by *European Union (Subsidiary Protection) (Amendment) Regulations 2015* (S.I. No. 137 of 2015), reg. 6(c), in effect as per reg. 1(2).
+>
+> F56: Deleted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(l)(iii), S.I. No. 9 of 2000.
+>
+> **Editorial Notes:**
+>
+> E36: Comprehension requirement under certain conditions in relation to recommendation under subss. (7F), (7G) imposed (1.03.2011) by *Refugee Act 1996 (Asylum Procedures) Regulations 2011* (S.I. No. 52 of 2011), reg. 6, in effect as per reg. 1(2).
+>
+> E37: Previous affecting provision: subs. (5)(c) substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(l)(i),(ii), S.I. No. 9 of 2000; subsection substituted as per F-note above.
+
+## 18. Member of family of refugee.
+
+**18.**—(1) Subject to *section 17(2)*, a refugee in relation to whom a declaration is in force may apply to the Minister for permission to be granted to a member of his or her family to enter and to reside in the State and the Minister shall cause such an application to be referred to the Commissioner and a notification thereof to be given to the High Commissioner.
+
+(2) Where an application is referred to the Commissioner under *subsection (1)*, it shall be the function of the Commissioner to investigate the application and to submit a report in writing to the Minister and such report shall set out the relationship between the refugee concerned and the person the subject of the application and the domestic circumstances of the person.
+
+(3) (*a*) Subject to *subsection (5)*, if, after consideration of a report of the Commissioner submitted to the Minister under *subsection (2)*, the Minister is satisfied that the person thesubject of the application is a member of the family F57[or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] of the refugee, the Minister shall grant permission in writing to the person to enter and reside in the State and the person shall be entitled to the rights and privileges specified in *section 3* for such period as the refugee is entitled to remain in the State.
+
+(*b*) In *paragraph (a)*, “member of the family”, in relation to a refugee, means—
+
+(i) in case the refugee is married, his or her spouse (provided that the marriage is subsisting on the date of the refugee's application pursuant to *subsection (1)*),
+
+(ii) in case the refugee is, on the date of his or her application pursuant to *subsection (1)*, under the age of 18 years and is not married, his or her parents, or
+
+(iii) a child of the refugee who, on the date of the refugee's application pursuant to *subsection (1)*, is under the age of 18 years and is not married.
+
+(4) (*a*) The Minister may, at his or her discretion, grant permission to a dependent member of the family of a refugee to enter and reside in the State and such member shall be entitled to the rights and privileges specified in *section 3* for such period as the refugee is entitled to remain in the State.
+
+(*b*) In *paragraph (a)*, “dependent member of the family”, in relation to a refugee, means any grandparent, parent, brother, sister, child, grandchild, ward or guardian of the refugee who is dependent on the refugee or is suffering from a mental or physical disability to such extent that it is not reasonable for him or her to maintain himself or herself fully.
+
+(5) The Minister may refuse to grant permission to enter and reside in the State to a person referred to in *subsection (3)* or *(4)* or revoke any permission granted to such a person in the interest of national security or public policy (“*ordre public*”).
+
+(6) The Minister may, on application in writing in that behalf and on payment to the Minister of such fee (if any) as may be prescribed with the consent of the Minister for Finance, issue to a person in respect of whom a permission granted under *subsection (3)* or *(4)* is in force a travel document identifying the holder thereof as such a person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 170 and sch. part 5 item 16, S.I. No. 648 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td>Sections 4(1), 18(6) and 24(3); Schedule, paragraph 9, Second Schedule, paragraphs 1(b), 5 and 8(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to section exercised (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), in effect as per reg. 1(2).
+
+## 19. Protection of identity of applicants.
+
+**19.**—(1) The Commissioner, the F58[Board, the Tribunal], the Minister, the Minister for Foreign Affairs and their respective officers shall take all practicable steps to ensure that the identity of applicants is kept confidential.
+
+F59[(2) Subject to sections 9(15) and 26, no matter likely to lead members of the public to identify a person as an applicant under this Act shall be published in a written publication available to the public or be broadcast without the consent of that person.]
+
+(3) If any matter is published or broadcast in contravention of *subsection (2)*, the following persons, namely—
+
+(*a*) in the case of a publication in a newspaper or periodical, any proprietor, an editor and any publisher of the newspaper or periodical,
+
+(*b*) in the case of any other publication, the person who publishes it, and
+
+(*c*) in the case of matter broadcast, any person who transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of the editor of a newspaper,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both.
+
+(4) Where a person is charged with an offence under *subsection (3)* it shall be a defence to prove that at the time of the alleged offence he or she was not aware, and neither suspected nor had reason to suspect, that the publication or broadcast in question was of such matter as is mentioned in *subsection (2)*.
+
+F60[(4A) (*a*) The chairperson of the Tribunal may, at his or her discretion, decide not to publish (other than to the persons referred to in section 16(17)) a decision of the Tribunal which in his or her opinion is not of legal importance.
+
+(*b*) Any decision published shall exclude any matters which would tend to identify a person as an applicant under the Act or otherwise breach the requirement that the identity of applicants be kept confidential.]
+
+(5) In this section—
+
+“a broadcast” means the transmission, relaying or distribution by wireless telegraphy of communications, sounds, signs, visual images or signals intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
+
+“written publication” includes a film, a sound track and any other record in permanent form (including a record that is not in a legible form but which is capable of being reproduced in a legible form) but does not include an indictment or other document prepared for use in particular legal proceedings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(m), S.I. No. 9 of 2000.
+>
+> F59: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(k)(i), S.I. No. 415 of 2003.
+>
+> F60: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(k)(ii), S.I. No. 415 of 2003.
+
+## 20. Prohibition of false information and alteration of identity documents.
+
+**20.**—(1) In this section “identity documents” includes a passport, visa, national identity card, driving licence, birth certificate, marriage certificate or any other document establishing a person's nationality or identity purporting to be issued by or on behalf of a local or national authority of any country or by an organ or agency of the United Nations.
+
+(2) If a person, for the purposes of or in relation to an application under *section 8*, gives or makes to the Commissioner, F61[the Tribunal, an authorised officer or an immigration officer] any statement or information which is to his or her knowledge false or misleading in any material particular, that person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding F61[12 months] or to both.
+
+(3) If a person, for the purposes of or in relation to an application for a declaration, destroys or conceals the identity documents of an applicant or of a person who subsequently makes an application for a declaration with intent to deceive, he or she shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding F61[12 months] or to both.
+
+(4) If a person forges, or fraudulently alters, or assists in forging or fraudulently altering, or procures to be forged or fraudulently altered any identity documents for reward and such documents are used or intended to be used in connection with an application for a declaration, that person shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding F61[12 months] or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding £60,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(5) If a person sells or supplies, or has in his or her possession for the purpose of sale or supply, forged identity documents and such documents are used or intended to be used in connection with an application for a declaration, that person shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or to imprisonment for a term not exceeding F61[12 months] or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(6) A member of the Garda Síochána may arrest without warrant a person whom the member reasonably suspects of committing or of having committed an offence under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(n), S.I. No. 9 of 2000.
+
+## 21. Revocation of declaration.
+
+**21.**—(1) Subject to *subsection (2)*, if the Minister is satisfied that a person to whom a declaration has been given—
+
+(*a*) has voluntarily re-availed himself or herself of the protection of the country of his or her nationality,
+
+(*b*) having lost his or her nationality, has voluntarily re-acquired it,
+
+(*c*) has acquired a new nationality (other than the nationality of the State) and enjoys the protection of the country of his or her new nationality,
+
+(*d*) has voluntarily re-established himself or herself in the country which he or she left or outside which he or she remained owing to fear of persecution,
+
+(*e*) can no longer, because the circumstances in connection with which he or she has been recognised as a refugee have ceased to exist, continue to refuse to avail himself or herself of the protection of the country of his or her nationality,
+
+(*f*) being a person who has no nationality is, because the circumstances in connection with which he or she has been recognised as a refugee have ceased to exist, able to return to the country of his or her former habitual residence,
+
+(*g*) is a person whose presence in the State poses a threat to national security or public policy (“*ordre public*”), or
+
+(*h*) is a person to whom a declaration has been given on the basis of information furnished to the Commissioner or, as the case may be, the F62[Tribunal] which was false or misleading in a material particular,
+
+the Minister may, if he or she considers it appropriate to do so, revoke the declaration.
+
+(2) The Minister shall not revoke a declaration on the grounds specified in *paragraph (e)* or *(f)* where the Minister is satisfied that the person concerned is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself or herself of the protection of his or her nationality or for refusing to return to the country of his or her former habitual residence, as the case may be.
+
+(3) (*a*) Where the Minister proposes to revoke a declaration under *subsection (1)*, he or she shall send a notice in writing to the person concerned of his or her proposal and of the reasons for it and shall at the same time send a copy thereof to the person’s solicitor (if known) and to the High Commissioner.
+
+(*b*) A person who has been notified of a proposal under *paragraph (a)* may, within F62[15 working days] of the issue of the notification, make representations in writing to the Minister and the Minister shall—
+
+(i) before deciding the matter, take into consideration any representations duly made to him or her under this paragraph in relation to the proposal, and
+
+(ii) send a notice in writing to the person of his or her decision and of the reasons for it.
+
+(4) (*a*) A notice under *subsection (3) (a)* shall include a statement that the person concerned may make representations in writing to the Minister within F62[15 working days] of the issue by the Minister of the notice.
+
+(*b*) A notice under *subsection (3) (b) (ii)* shall include a statement that the person concerned may appeal to the High Court under *subsection (5)* against the decision of the Minister to revoke a declaration under *subsection (1)* within F62[15 working days] from the date of the notice.
+
+(5) A person concerned may appeal to the High Court against a decision of the Minister under this section and that Court may, as it thinks proper, on the hearing of the appeal, confirm the decision of the Minister or direct the Minister to withdraw the revocation of the declaration.
+
+(6) A person concerned shall not be required to leave the State before the expiry of F62[15 working days] from the date of notice of a proposal under *subsection (3)* and, if an appeal is brought against the decision of the Minister, before the final determination or, as the case may be, the withdrawal of the appeal.
+
+(7) The Minister may, at his or her discretion, grant permission in writing to a person in respect of whom a declaration has been revoked under *subsection (1)* to remain in the State for such period and subject to such conditions as the Minister may specify in writing.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(o), S.I. No. 9 of 2000.
+
+## 22. Dublin Convention, agreements with safe third countries etc.
+
+F63[**22.**—(1) The Minister may make such orders as appear to him or her to be necessary or expedient for the purpose of giving effect to—
+
+(*a*) the Dublin Convention,
+
+(*b*) Council Regulation (EC) No. 343/2003[^1],
+
+(*c*) the Agreement between the European Community and the Republic of Iceland and the Kingdom of Norway concerning the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in a Member State or in Iceland or Norway done at Brussels on the 19th day of January 2001,
+
+(*d*) any agreement of the kind referred to in subsection (5).
+
+(2) Without prejudice to the generality of subsection (1), an order under this section may—
+
+(*a*) specify the circumstances and procedure by reference to which an application for asylum—
+
+(i) shall be examined in the State,
+
+(ii) shall be transferred to a convention country for examination or to a safe third country, or
+
+(iii) shall be accepted for examination in the State pursuant to a request made by a convention country in which the application for asylum was lodged or pursuant to an agreement to which subsection (1)(*d*) refers,
+
+and the powers referred to in this subsection shall be exercised by whichever of the persons mentioned in subsection (4)(*a*) is specified in the order,
+
+(*b*) provide for an appeal against a determination to transfer an application for asylum to a convention country or a safe third country and for the procedure in relation to such an appeal,
+
+(*c*) provide, where the order specifies that the making of an appeal shall not suspend the transfer of the application or of the applicant to the convention country or the safe third country, that such transfer is without prejudice to the appeal decision,
+
+(*d*) require that an application for asylum shall not be investigated by the Commissioner until it has been decided whether a convention country is responsible for examining the application or whether the application should be transferred to a safe third country,
+
+(*e*) require that an application for asylum which is being investigated by the Commissioner shall be transferred to a convention country for examination,
+
+(*f*) provide that where an application has been transferred to a convention country for examination or to a safe third country the person concerned shall go to that convention country or to that safe third country,
+
+(*g*) provide for the transit through the State of a person whose application for asylum has been transferred from a convention country to another convention country for examination,
+
+(*h*) provide for the investigation of an application for asylum by the Commissioner notwithstanding that a convention country has responsibility for examining the application,
+
+(*i*) specify the measures to be taken for the purpose of the removal of a person whose application has been transferred to a convention country or a safe third country from the State to that convention country or safe third country including, where necessary, the temporary detention or restraint of the person, and
+
+(*j*) provide for the temporary detention (for a period not exceeding 48 hours) of a person who, having arrived in the State directly from a convention country or a safe third country, makes an application for asylum until a decision on the matters at paragraph (*a*) has been made.
+
+(3) An order under this section may make provision for such consequential, incidental, ancillary and supplementary matters as the Minister considers necessary or expedient.
+
+(4) (*a*) The persons referred to in subsection (2)(*a*) are the Minister, the Commissioner, and an immigration officer.
+
+(*b*) The Tribunal shall consider and decide appeals under subsection (2)(*b*).
+
+F64[(5)(*a*) The Minister may, by order made after consultation with the Minister for Foreign Affairs, designate a country as a safe third country where the Minister is satisfied that an applicant for asylum will be treated in that country in accordance with the principles specified in paragraph (*b*).
+
+(*b*) The principles referred to in paragraph (*a*) are the following:
+
+(i) life and liberty are not threatened on account of race, religion, nationality, membership of a particular social group or political opinion;
+
+(ii) the principle of non-refoulement in accordance with the Geneva Convention is respected;
+
+(iii) the prohibition of removal, in violation of the right to freedom from torture and cruel, inhuman or degrading treatment as laid down in international law, is respected; and
+
+(iv) the possibility exists to request refugee status and, if found to be a refugee, to receive protection in accordance with the Geneva Convention.
+
+(*c*) The Minister shall not make an order under paragraph (*a*) in respect of a country unless that country and the State are parties to an agreement which provides for—
+
+(i) the prompt transfer to that country of an application for asylum made in the State by a person who has arrived from that country, and
+
+(ii) the prompt transfer to the State of an application for asylum made in that country by a person who has arrived from the State.
+
+(*d*) An application for asylum shall not be transferred to a safe third country pursuant to an agreement referred to in paragraph (*c*) unless the removal to that country of the person who made the application for asylum would be reasonable on the basis of a connection he or she has with that country.
+
+(*e*) An order under paragraph (*a*) may make provision for such consequential, incidental, ancillary and supplementary matters as the Minister considers necessary or expedient.
+
+(*f*) The Minister shall, from time to time, notify the European Commission of the countries that are designated as safe third countries under paragraph (*a*).]
+
+(6) (*a*) The Minister for Foreign Affairs may by order designate the countries which are parties to the Dublin Convention or to the Agreement referred to in subsection (1)(*c*) or the countries to which the Council Regulation referred to in subsection (1)(*b*) applies.
+
+(*b*) The Minister for Foreign Affairs may by order amend or revoke an order under this subsection including an order under this paragraph.
+
+(7) The Minister may by order amend or revoke an order under this section (other than an order under subsection (6)) including an order under this subsection.
+
+(8) Where an application has been transferred to a convention country for examination or to a safe third country, the application shall be deemed to be withdrawn.
+
+(9) (*a*) The Minister shall, pursuant to Article 14 of the Dublin Convention or the corresponding provision of the agreement referred to in subsection (1)(*c*), communicate information to convention countries or to any relevant country pursuant to that agreement in relation to matters referred to in that Article.
+
+(*b*) The Commissioner shall, pursuant to Article 15 of the Dublin Convention or the corresponding provision of the agreement referred to in subsection (1)(*c*), communicate information to convention countries or to any relevant country pursuant to that agreement in relation to matters referred to in that Article:
+
+provided that information concerning the grounds on which a particular application for asylum is based or the grounds on which a decision concerning such an application is based shall not be communicated under this section without the prior consent of the person the subject of the application.
+
+(10) The Minister and the Commissioner may communicate to a safe third country such information relating to an application for asylum or to the person making such application (including personal information) as may be necessary for giving effect to an agreement to which subsection (1)(*d*) refers:
+
+provided that information concerning the grounds on which a particular application for asylum is based or the grounds on which a decision concerning such an application is based shall not be communicated under this section without the prior consent of the person the subject of the application.
+
+(11) In this section, ‘an application for asylum’ means a request whereby a person seeks the protection of the State or a convention country or a safe third country by claiming refugee status under the Geneva Convention and includes an application for a declaration under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(l), S.I. No. 415 of 2003.
+>
+> F64: Substituted (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 9, in effect as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C10: Procedure prescribed (1.03.2011) by *European Communities (Asylum Procedures) Regulations 2011* (S.I. No. 51 of 2011), reg. 10, in effect as per reg. 1(2).
+>
+> *Transfer under section 22 of Act of 1996 to safe third country of application for asylum*
+>
+> 10\. Where an application for asylum is to be transferred to a safe third country pursuant to an agreement referred to in section 22(5)(c) (as amended by Regulation 9) of the Act of 1996, the Minister shall—
+>
+> (a) inform the applicant, and his or her legal representative (if known), of the transfer, and
+>
+> (b) provide the applicant, and his or her legal representative (if known), with a document informing the authorities of the safe third country, in the language of that country, that the application for asylum has not been examined in substance.
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to section exercised (20.11.2000) by *Dublin Convention (Implementation) Order 2000* (S.I. No. 343 of 2000), in effect as per art. 1(2).
+>
+> E40: Power pursuant to section exercised (13.09.1997) by *Refugee Act, 1996 (Section 22 (6)(A) ) (Designated Countries) Order 1997* (S.I. No. 376 of 1997)
+>
+> E41: Previous affecting provision: power pursuant to section exercised (30.07.2004) by *Refugee Act (Section 22) (Amendment) Order 2004* (S.I. No. 500 of 2004); ceased to have effect on revocation of *Refugee Act 1996 (Section 22) Order 2003* (S.I. No. 423 of 2003) (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 19, subject to transitional provision in reg. 20.
+>
+> E42: Previous affecting provision: power pursuant to section exercised (15.09.2003) by *Refugee Act 1996 (Section 22) Order 2003* (S.I. No. 423 of 2003), in effect as per art. 1(2); revoked (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 19, subject to transitional provision in reg. 20..
+>
+> E43: Previous affecting provision: section amended (20.11.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(p), S.I. No. 346 of 2000; substituted as per F-note above.
+>
+> E44: Previous affecting provision: power pursuant to section exercised (1.09.1997) by *Dublin Convention (Implementation) Order 1997* (S.I. No. 360 of 1997), in effect as per art. 1(2); revoked (20.11.2000) by *Dublin Convention (Implementation) Order 2000* (S.I. No. 343 of 2000), art. 1(3), in effect as per art. 1(2).
+
+## 23. Regulations.
+
+**23.**—The Minister may make regulations for the purpose of enabling this Act to have full effect and, in particular, but without prejudice to the generality of the foregoing, regulations under this section may make provision in relation to—
+
+(*a*) applications for a declaration and the procedure for and in relation to such applications, and
+
+(*b*) appeals under this Act to the F65[Tribunal] and the procedure for and in relation to such appeals.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(q), S.I. No. 9 of 2000.
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to section exercised (1.03.2011) by *Refugee Act 1996 (Asylum Procedures) Regulations 2011* (S.I. No. 52 of 2011), in effect as per reg. 1(2).
+>
+> E46: Power pursuant to section exercised (19.08.2002) by *Refugee Act 1996 (Temporary Residence Certificate) Regulations 2002* (S.I. No. 426 of 2002), in effect as per reg. 1(2).
+>
+> E47: Power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Transitional) Regulations 2000* (S.I. No. 348 of 2000), in effect as per reg. 1(2).
+>
+> E48: Previous affecting provision: power pursuant to section exercised (13.12.2002) by *Refugee Act, 1996 (Appeals) Regulations 2002* (S.I. No. 571 of 2002), in effect as per reg. 1(2); revoked (15.09.2003) by *Refugee Act 1996 (Appeals) Regulations 2003* (S.I. No. 424 of 2003), reg. 3(1), in effect as per reg. 1(2), subject to transitional provisions in reg. 3(2).
+>
+> E49: Previous affecting provision: power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Appeals) Regulations 2000* (S.I. No. 342 of 2000), in effect as per reg. 1(2); revoked (13.12.2002) by *Refugee Act, 1996 (Appeals) Regulations 2002* (S.I. No. 571 of 2002), reg. 1(3), in effect as per reg. 1(2).
+>
+> E50: Previous affecting provision: power pursuant to section exercised (20.11.2000) by *Refugee Act, 1996 (Temporary Residence Certificate) Regulations 2000* (S.I. No. 346 of 2000), in effect as per reg. 1(2); revoked (19.08.2002) by *Refugee Act 1996 (Temporary Residence Certificate) Regulations 2002* (S.I. No. 426 of 2002), reg. 3, in effect as per reg. 1(2).
+
+## 24. “Programme refugees”.
+
+**24.**—(1) In this section “a programme refugee” means a person to whom leave to enter and remain in the State for temporary protection or resettlement as part of a group of persons has been given by the Government and whose name is entered in a register established and maintained by the Minister for Foreign Affairs, whether or notsuch person is a refugee within the meaning of the definition of “refugee” in *section 2*.
+
+(2) A programme refugee shall, during such period as he or she is entitled to remain in the State pursuant to leave given by the Government, be entitled to the rights and privileges specified in *section 3*.
+
+(3) Subject to *subsection (4)*, the Minister may, on application in writing in that behalf and on payment to the Minister of such fee (if any) as may be prescribed with the consent of the Minister for Finance, issue to a programme refugee a travel document identifying the holder thereof as a programme refugee.
+
+(4) The Minister may, in the interest of national security or public policy (“*ordre public*”), refuse to issue a travel document.
+
+(5) A travel document shall be in such form as may be prescribed or in a form to the like effect.
+
+(6) A person who applies to the Minister for a travel document under this section shall furnish to the Minister such information (if any) as the Minister may reasonably require for the purpose of his or her functions under this section.
+
+F66[(7) (*a*) The Minister may, after consultation with the Minister for Foreign Affairs, enter into agreements with the High Commissioner for the reception and resettlement in the State of refugees.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(m), S.I. No. 415 of 2003.
+>
+> **Modifications (not altering text):**
+>
+> C11: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td>Sections 4(1), 18(6) and 24(3); Schedule, paragraph 9, Second Schedule, paragraphs 1(b), 5 and 8(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E51: Power pursuant to section exercised (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), in effect as per reg. 1(2).
+>
+> E52: Previous affecting provision: power pursuant to subs. (5) exercised (20.11.2000) by *Refugee Act, 1996 (Travel Document) Regulations 2000* (S.I. No. 347 of 2000), in effect as per reg. 1(2); revoked (1.08.2011) by *Refugee Act 1996 (Travel Document and Fee) Regulations 2011* (S.I. No. 404 of 2011), reg. 5, in effect as per reg. 1(2).
+
+## 25. Saving.
+
+**25.**—Nothing in this Act shall be construed as preventing the extradition of a person in accordance with the provisions of the Extradition Acts, 1965 to 1994.
+
+## 26. Annual report to Houses of Oireachtas.
+
+**26.**—The Minister shall, not later than 2 months after the end of each year beginning with the year 1996, make a report to each House of the Oireachtas stating the number of cases (if any) in which *sections 9(15)*, *17(2)* and *18(5)* were applied in the preceding year and the circumstances of any such case.
+
+## 27. Laying of orders and regulations before Houses of Oireachtas.
+
+**27.**—Every order (other than an order under *subsection (2)* or *(8)* of *section 17*) or regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to anything previously done thereunder.
+
+## 28. Transitional provision.
+
+**28.**—Where, before F67[commencement of this section], a person had made an application to the Minister for asylum but a decision in relation thereto had not been made by the Minister then, the application shall be deemed to be an application under *section 8* and shall be dealt with accordingly; any step taken by the Minister before such commencement in relation to the application (being a step required to be taken under this Act in relation to an application under this Act) shall be deemed to have been taken under this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(r), S.I. No. 9 of 2000.
+
+## 28A. Transitional.
+
+F68[**28A.**—(1) Where an application has been made under section 8 before the commencement of section 7 of the Immigration Act 2003—
+
+(*a*) in case, before such commencement, the applicant has been interviewed under section 11, then, upon such commencement, this Act shall apply to the application as if the said section 7 had not been commenced,
+
+(*b*) in any other case, then, upon such commencement, this Act, as amended by the said section 7, shall apply to the application.
+
+(2) The Commissioner shall give or cause to be given to each applicant to whose application subsection (1)(*b*) applies, before he or she is interviewed under section 11, a statement in writing giving a short explanation of the amendments made by the said section 7.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(n), S.I. No. 415 of 2003.
+
+## 29. Expenses of Minister.
+
+**29.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 30. Short title and commencement.
+
+**30.**—(1) This Act may be cited as the Refugee Act, 1996.
+
+(2) This Act shall come into operation on such day or days as, by
+
+order or orders made by the Minister under this section, may be fixed therefor either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E53: Power pursuant to subs. (2) exercised (20.11.2000) by *Refugee Act 1996 (Commencement) Order 2000* (S.I. No. 365 of 2000).
+>
+> 2\. The 20th day of November 2000 is hereby fixed as the day on which the Refugee Act, 1996 (No. 17 of 1996), insofar as it is not in operation, shall come into operation.
+>
+> E54: Power pursuant to subs. (2) exercised (26.10.2000) by *Refugee Act 1996 (Section 23) (Commencement) (No. 3) Order 2000* (S.I. No. 341 of 2000).
+>
+> 2\. The 26th day of October 2000 is hereby fixed as the day on which section 23 of the Refugee Act, 1996 (No. 17 of 1996), shall come into operation.
+>
+> E55: Power pursuant to subs. (2) exercised (4.10.2000) by *Refugee Act, 1996 (Sections 14 and 15 and Second Schedule) (Commencement) (No. 2) Order 2000* (S.I. No. 308 of 2000).
+>
+> 2\. The 4th day of October 2000 is hereby fixed as the day on which sections 14 and 15 of, and the Second Schedule to, the Refugee Act, 1996 (No. 17 of 1996), shall come into operation.
+>
+> E56: Power pursuant to subs. (2) exercised (20.01.2000) by *Refugee Act 1996 (Section 6 and First Schedule) (Commencement) Order 2000* (S.I. No. 8 of 2000).
+>
+> 2\. The 20th day of January 2000 is hereby fixed as the day on which section 6 and the First Schedule to the Refugee Act, 1996 (No. 17 of 1996), shall come into operation.
+>
+> E57: Power pursuant to section exercised (29.08.1997) by *Refugee Act, 1996 (Sections 1, 2, 5, 22 and 25) (Commencement) Order 1997* (S.I. No. 359 of 1997).
+>
+> 2\. The 29th day of August 1997 is hereby fixed as the day on which sections 1 , 2 , 5 , 22 and 25 of the Refugee Act 1996 (No. 17 of 1996), shall come into operation.
+>
+> E58: Power pursuant to section exercised (1.10.1996) by *Refugee Act, 1996 (Section 24(1)) (Commencement) Order 1996* (S.I. No. 290 of 1996).
+>
+> 2\. The 1st day of October, 1996, is hereby fixed as the day on which section 24 (1) of the Refugee Act, 1996 (No. 17 of 1996), shall come into operation for the purpose of regulation 14(2) of the Irish Nationality and Citizenship Regulations, 1956 ( S.I. No. 216 of 1956 ), (inserted by the Irish Nationality and Citizenship (Fees) Regulations, 1996 ( S.I. No. 291 of 1996 )).
+
+## FIRST SCHEDULE — REFUGEE APPLICATIONS COMMISSIONER
+
+F69[F70[1\. The position of Commissioner shall be a position in the Civil Service (within the meaning of the Public Service Management (Recruitment and Appointments) Act 2004) and a person shall not be appointed to be the Commissioner unless the person has been duly selected following a competition under that Act for the position.]
+
+2\. The term of office of the Commissioner shall be 5 years and a person may be reappointed to the office for a second or subsequent term.
+
+3\. The Commissioner shall be paid such remuneration and such allowances for expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+4\. The Commissioner—
+
+(*a*) may at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect on and from the date of receipt of the letter,
+
+(*b*) may at any time be removed from office by the Minister if, in the opinion of the Minister, he or she has become incapable through ill-health of effectively performing his or her functions or has committed stated misbehaviour, and
+
+(*c*) shall in any case vacate his or her office on attaining the age of 65 years.
+
+5\. The Minister may appoint such and so many persons to be members of the staff of the Commissioner as he or she considers necessary to assist the Commissioner in the performance of his or her functions and such members shall receive such remuneration and be subject to such other terms and conditions of service as the Minister may, with the consent of the Minister for Finance, determine.
+
+6\. Members of the staff of the Commissioner shall be civil servants within the meaning of the Civil Service Regulation Act, 1956.
+
+7\. The Minister may delegate to the Commissioner the powers exercisable by him or her under the F70[Public Service Management (Recruitment and Appointments) Act 2004], and the Civil Service Regulation Acts, 1956 to 1996, as the appropriate authority in relation to members of the staff of the Commissioner and, if the Minister does so, then, so long as the delegation remains in force—
+
+(*a*) those powers shall, in lieu of being exercisable by the Minister, be exercisable by the Commissioner, and
+
+(*b*) the Commissioner shall, in lieu of the Minister, be for the purposes of this Act the appropriate authority in relation to members of the staff of the Commissioner.
+
+8\. (1) The Commissioner shall keep, in such form as may be approved of by the Minister, all proper and usual accounts of all moneys received or expended by him or her and all such special accounts (if any) as the Minister may direct.
+
+(2) Accounts kept in pursuance of this paragraph in respect of each year shall be submitted by the Commissioner for audit to the Comptroller and Auditor General in the following year on a date not later than a date specified by the Minister and, as soon as may be after the audit, a copy of those accounts, or of such extracts from those accounts as the Minister may specify, together with the report of the Comptroller and Auditor General on the accounts, shall be furnished by the Commissioner to the Minister who shall cause copies of the documents so furnished to be laid before each House of the Oireachtas.
+
+9\. The Commissioner may delegate to any members of the staff of the Commissioner any of his or her functions under this Act save those conferred by section 7.]
+
+F71[10\. (1) Where the Commissioner is for any reason temporarily unable to act as the Commissioner or the office of the Commissioner is vacant, the Minister shall appoint a person to be the Commissioner for the duration of the inability or until an appointment is made in accordance with paragraph 1, as the case may be, and the person so appointed may perform all the functions conferred on the Commissioner by this Act.
+
+(2) A person appointed under this paragraph shall hold office upon such terms and conditions as may be determined by the Minister after consultation with the Minister for Finance.
+
+11\. The Commissioner may, if he or she considers it appropriate to do so in the interest of the fair and efficient discharge of the business of his or her office, determine the order in which different classes of such business shall be discharged having regard to the following matters:
+
+(*a*) the grounds of the applications under section 8,
+
+(*b*) the country of origin of the applicants,
+
+(*c*) any family relationship between applicants,
+
+(*d*) the ages of the applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(*e*) the dates on which applications were made.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(s), S.I. No. 9 of 2000.
+>
+> F70: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61 and sch. 2 part 1, commenced on enactment.
+>
+> F71: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(o), S.I. No. 415 of 2003.
+>
+> **Modifications (not altering text):**
+>
+> C12: Functions of Commissioner extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 16(3).
+>
+> *Provisions in relation to the Commissioner*
+>
+> 16\. ...
+>
+> (3) A reference in the First Schedule to the Act of 1996 to the functions of the Commissioner (including a reference to the functions of the Commissioner conferred by that Act) shall be deemed to include a reference to the functions conferred on the Commissioner by these Regulations.
+>
+> C13: Functions of Commissioner extended (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 27(3), in effect as per reg. 1(2), function in para. 11 excluded by reg. 27(4).
+>
+> *Provisions in relation to the Commissioner*
+>
+> 27\. ...
+>
+> (3) Subject to paragraph (4), a reference in the First Schedule to the Act of 1996 to the functions of the Commissioner (including a reference to the functions of the Commissioner conferred by that Act) shall be deemed to include a reference to the functions conferred on the Commissioner by these Regulations.
+>
+> (4) Paragraph (3) shall not apply to the function of the Commissioner specified in paragraph 11 of the First Schedule to the Act of 1996.
+>
+> ...
+>
+> C14: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td>Sections 4(1), 18(6) and 24(3); Schedule, paragraph 9, Second Schedule, paragraphs 1(b), 5 and 8(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## SECOND SCHEDULE
+
+F72[Refugee Appeals Tribunal
+
+1\. The Tribunal shall consist of the following members—
+
+(*a*) a chairperson, and
+
+(*b*) such and such number of ordinary members as the Minister, with the consent of the Minister for Finance, considers necessary for the expeditious dispatch of the business of the Tribunal,
+
+each of whom shall have had not less than F73[5 years’] experience as a practising barrister or practising solicitor before his or her appointment.
+
+F73[2\. (*a*) The members of the Tribunal shall be appointed by the Minister.
+
+F74[(*b*) A person shall not be appointed to be the chairperson unless the person has been duly selected following a competition under the Public Service Management (Recruitment and Appointments) Act 2004 for the position.]]
+
+3\. The term of office of the chairperson shall be 5 years and a person may be reappointed to the office for a second or subsequent term.
+
+4\. Each ordinary member of the Tribunal shall be a part-time member and, subject to this Schedule, shall hold office for a term of 3 years on such terms and conditions as the Minister may, subject to the provisions of this Schedule, determine when appointing him or her.
+
+F73[5\. (*a*) The chairperson shall hold office under a contract of service in writing, containing such terms and conditions (including terms and conditions relating to remuneration, allowances and expenses and superannuation), as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+(*b*) Each ordinary member shall be paid such remuneration and allowances and expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.]
+
+6\. A member of the Tribunal may resign his or her membership by letter addressed to the Minister and the resignation shall take effect from the date of receipt of the letter by the Minister.
+
+7\. An ordinary member of the Tribunal may be removed from office by the Minister for stated reasons.
+
+F75[8\. (1) If a member of the Tribunal dies, resigns, becomes disqualified or is removed from office, the Minister may appoint another person to be a member of the Tribunal to fill the casual vacancy so occasioned and the person appointed shall be appointed in the same manner of the Tribunal member who occasioned the vacancy.
+
+(2) Where the chairperson is for any reason temporarily unable to act as the chairperson, or the office of the chairperson is vacant, the Minister shall appoint a person to be the chairperson for the duration of the inability or until an appointment is made under paragraph 2, as appropriate, and the person so appointed may perform all the functions conferred on the chairperson by this Act.
+
+(3) A person appointed under this paragraph shall hold office upon such terms and conditions as may be determined by the Minister after consultation with the Minister for Finance.]
+
+9\. The Minister may appoint such and so many persons to be members of the staff of the Tribunal as he or she considers necessary to assist the Tribunal in the performance of its functions and such members of the staff of the Tribunal shall receive such remuneration and be subject to such other terms and conditions of service as the Minister may, with the consent of the Minister for Finance, determine.
+
+10\. Members of the staff of the Tribunal shall be civil servants within the meaning of the Civil Service Regulation Act, 1956.
+
+11\. Whenever the Tribunal consists of more than one member, it shall be grouped into divisions each of which shall consist of one member.
+
+12\. The chairperson shall convene a meeting of the members of the Tribunal at least twice a year to review the work of the Tribunal and, where necessary, to make provision for training programmes for members of the Tribunal.
+
+F75[13\. The chairperson shall assign to each division the business to be transacted by it.]]
+
+F76[14\. The chairperson shall endeavour to ensure that the business of the Tribunal is managed efficiently and that the business assigned to each division is disposed of as expeditiously as may be consistent with fairness and natural justice.
+
+15\. The chairperson may, if he or she considers it appropriate to do so in the interest of the fair and efficient discharge of the business of the Tribunal, assign classes of business to each division having regard to the following matters:
+
+(*a*) the grounds of the appeals set out in the notices of appeal,
+
+(*b*) the country of origin of applicants,
+
+(*c*) any family relationship between applicants,
+
+(*d*) the ages of the applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(*e*) the provision of this Act pursuant to which the appeals are made.
+
+16\. The chairperson may delegate to a member of his or her staff his or her function of assigning to each division the business to be transacted by it.
+
+17\. The chairperson may from time to time issue guidelines or guidance notes generally on the practical application and operation of the provisions, or any particular provisions, of this Act and on developments in the law relating to refugees.
+
+18\. The chairperson may from time to time convene a meeting with a member or members of the Tribunal for the purpose of discussing matters relating to the discharge of the business of the Tribunal, including, in particular, such matters as the avoidance of undue divergences in the exercise by the members of their functions under section 16.
+
+19\. The chairperson shall, not later than 3 months after the end of each year, submit a report in writing to the Minister of his or her activities during that year and, not later than 1 month after such submission, the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+20\. The chairperson may, if he or she considers it appropriate to do so, make a report in writing to the Minister in relation to any function performed by him or her under this Act or any matter relating to the operation of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Substituted (20.01.2000) by *Immigration Act 1999* (22/1999), s. 11(1)(t), S.I. No. 9 of 2000.
+>
+> F73: Substituted (5.09.2000) by *Illegal Immigrants (Trafficking) Act 2000* (29/2000), s. 9(d), S.I. No. 266 of 2000.
+>
+> F74: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61 and sch. 2 part 1, commenced on enactment.
+>
+> F75: Substituted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(p), S.I. No. 415 of 2003.
+>
+> F76: Inserted (15.09.2003) by *Immigration Act 2003* (26/2003), s. 7(p)(ii), S.I. No. 415 of 2003.
+>
+> **Modifications (not altering text):**
+>
+> C15: Application of schedule extended (25.11.2014) by *European Union (Dublin System) Regulations 2014* (S.I. No. 525 of 2014), reg. 17(2).
+>
+> *Provisions in relation to the Tribunal*
+>
+> 17\. ...
+>
+> (2) A reference in the Second Schedule to the Act of 1996 to—
+>
+> (a) a function of the Tribunal or the chairperson or a member of the Tribunal (including a reference to a function conferred by that Act) shall be deemed to include a reference to the functions conferred upon the Tribunal, chairperson or member, as the case may be, by these Regulations,
+>
+> (b) the work or business of the Tribunal shall include a reference to the work or business of the Tribunal by virtue of these Regulations, and
+>
+> (c) an applicant and an appeal shall include a reference to an applicant or an appeal, as the case may be, under these Regulations.
+>
+> C16: Application of schedule extended (14.11.2013) by *European Union (Subsidiary Protection) Regulations 2013* (S.I. No. 426 of 2013), reg. 28(2), in effect as per reg. 1(2).
+>
+> *Provisions in relation to the Tribunal*
+>
+> 28\. ...
+>
+> (2) A reference in the Second Schedule to the Act of 1996 to—
+>
+> (a) a function of the Tribunal or the chairperson or a member of the Tribunal (including a reference to a function conferred by that Act) shall be deemed to include a reference to the functions conferred upon the Tribunal, chairperson or member, as the case may be, by these Regulations,
+>
+> (b) the work or business of the Tribunal shall include a reference to the work or business of the Tribunal by virtue of these Regulations, and
+>
+> (c) an applicant and an appeal shall include a reference to an applicant or an appeal, as the case may be, under these Regulations.
+>
+> C17: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td>Sections 4(1), 18(6) and 24(3); Schedule, paragraph 9, Second Schedule, paragraphs 1(b), 5 and 8(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## THIRD SCHEDULE — Geneva Convention
+
+CONVENTION
+
+1951 RELATING TO THE STATUS OF REFUGEES
+
+PREAMBLE
+
+The High Contracting Parties
+
+*Considering* that the Charter of the United Nations and the Universal Declaration of Human Rights approved on 10 December 1948 by the General Assembly have affirmed the principle that human beings shall enjoy fundamental rights and freedoms without discrimination,
+
+*Considering* that the United Nations has, on various occasions, manifested its profound concern for refugees and endeavoured to assure refugees the widest possible exercise of these fundamental rights and freedoms,
+
+*Considering* that it is desirable to revise and consolidate previous international agreements relating to the status of refugees and to extend the scope of and the protection accorded by such instruments by means of a new agreement,
+
+*Considering* that the grant of asylum may place unduly heavy burdens on certain countries, and that a satisfactory solution of a problem of which the United Nations has recognized the international scope and nature cannot therefore be achieved without international co-operation,
+
+*Expressing* the wish that all States, recognizing the social and humanitarian nature of the problem of refugees, will do everything within their power to prevent this problem from becoming a cause of tension between States,
+
+*Noting* that the United Nations High Commissioner for Refugees is charged with the task of supervising international conventions providing for the protection of Refugees, and recognizing that the effective co-ordination of measures taken to deal with this problem will depend upon the co-operation of States with the High Commissioner,
+
+Have agreed as follows.
+
+### CHAPTER I — General Provisions
+
+*Article 1*
+
+Definition of the term “Refugee”
+
+**A.**For the purposes of the present Convention, the term “refugee” shall apply to any person who:
+
+(1) Has been considered a refugee under the Arrangements of 12 May 1926 and 30 June 1928 or under the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 or the Constitution of the International Refugee Organization;
+
+Decisions of non-eligibility taken by the International Refugee Organization during the period of its activities shall not prevent the status of refugee being accorded to persons who fulfil the conditions of paragraph 2 of this section;
+
+(2) As a result of events occurring before 1 January 1951 and owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.
+
+In the case of a person who has more than one nationality, the term “the country of his nationality” shall mean each of the countries of which he is a national, and a person shall not be deemed to be lacking the protection of the country of his nationality if, without any valid reason based on well-founded fear, he has not availed himself of the protection of one of the countries of which he is a national.
+
+**B.**(1) For the purposes of this Convention, the words “events occurring before 1 January 1951” in Article 1, Section A, shall be understood to mean either:
+
+(*a*) “events occurring in Europe before 1 January 1951” or
+
+(*b*) “events occurring in Europe or elsewhere before 1 January 1951”
+
+and each Contracting State shall make a declaration at the time of signature, ratification or accession, specifying which of these meanings it applies for the purpose of its obligations under this Convention.
+
+(2) Any Contracting State which has adopted alternative (*a*) may at any time extend its obligations by adopting alternative (*b*) by means of a notification addressed to the Secretary-General of the United Nations.
+
+**C.**This Convention shall cease to apply to any person falling under the terms of Section A if:
+
+(1) He has voluntarily re-availed himself of the protection of the country of his nationality; or
+
+(2) Having lost his nationality, he has voluntarily re-acquired it; or
+
+(3) He has acquired a new nationality, and enjoys the protection of the country of his new nationality; or
+
+(4) He has voluntarily re-established himself in the country which he left or outside which he remained owing to fear of persecution; or
+
+(5) He can no longer, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, continue to refuse to avail himself of the protection of the country of his nationality;
+
+Provided that this paragraph shall not apply to a refugee falling under section A (1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself of the protection of the country of nationality;
+
+(6) Being a person who has no nationality he is, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence;
+
+Provided that this paragraph shall not apply to a refugee falling under section A (1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
+
+**D.**This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
+
+When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall *ipso facto* be entitled to the benefits of this Convention.
+
+**E.**This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+
+**F.**The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+
+(*a*) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+
+(*b*) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+
+(*c*) he has been guilty of acts contrary to the purposes and principles of the United Nations.
+
+*Article 2*
+
+General obligations
+
+Every refugee has duties to the country in which he finds himself, which require in particular that he conform to its laws and regulations as well as to measures taken for the maintenance of public order.
+
+*Article 3*
+
+Non-discrimination
+
+The Contracting States shall apply the provisions of this Convention to refugees without discrimination as to race, religion or country of origin.
+
+*Article 4*
+
+Religion
+
+The Contracting States shall accord to refugees within their territories treatment at least as favourable as that accorded to their nationals with respect to freedom to practise their religion and freedom as regards the religious education of their children.
+
+*Article 5*
+
+Rights granted apart from this Convention
+
+Nothing in this Convention shall be deemed to impair any rights and benefits granted by a Contracting State to refugees apart from this Convention.
+
+*Article 6*
+
+The term “in the same circumstances”
+
+For the purpose of this Convention, the term “in the same circumstances” implies that any requirements (including requirements as to length and conditions of sojourn or residence) which the particular individual would have to fulfil for the enjoyment of the right in question, if he were not a refugee, must be fulfilled by him, with the exception of requirements which by their nature a refugee is incapable of fulfilling.
+
+*Article 7*
+
+Exemption from reciprocity
+
+1\. Except where this Convention contains more favourable provisions, a Contracting State shall accord to refugees the same treatment as is accorded to aliens generally.
+
+2\. After a period of three years' residence, all refugees shall enjoy exemption from legislative reciprocity in the territory of the Contracting States.
+
+3\. Each Contracting State shall continue to accord to refugees the rights and benefits to which they were already entitled, in the absence of reciprocity, at the date of entry into force of this Convention for that State.
+
+4\. The Contracting States shall consider favourably the possibility of according to refugees, in the absence of reciprocity, rights and benefits beyond those to which they are entitled according to paragraphs 2 and 3, and to extending exemption from reciprocity to refugees who do not fulfil the conditions provided for in paragraphs 2 and 3.
+
+5\. The provisions of paragraphs 2 and 3 apply both to the rights and benefits referred to in articles 13, 18, 19, 21 and 22 of this Convention and to rights and benefits for which this Convention does not provide.
+
+*Article 8*
+
+Exemption from exceptional measures
+
+With regard to exceptional measures which may be taken against the person, property or interests of nationals of a foreign State, the Contracting States shall not apply such measures to a refugee who is formally a national of the said State solely on account of such nationality. Contracting States which, under their legislation, are prevented from applying the general principle expressed in this article, shall, in appropriate cases, grant exemptions in favour of such refugees.
+
+*Article 9*
+
+Provisional measures
+
+Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
+
+*Article 10*
+
+Continuity of residence
+
+1\. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
+
+2\. Where a refugee has been forcibly displaced during the Second World War from the territory of a Contracting State and has, prior to the date of entry into force of this Convention, returned there for the purpose of taking up residence, the period of residence before and after such enforced displacement shall be regarded as one uninterrupted period for any purposes for which uninterrupted residence is required.
+
+*Article 11*
+
+Refugee seamen
+
+In the case of refugees regularly serving as crew members on board a ship flying the flag of a Contracting State, that State shall give sympathetic consideration to their establishment on its territory and the issue of travel documents to them on their temporary admission to its territory particularly with a view to facilitating their establishment in another country.
+
+### CHAPTER II — Juridical Status
+
+*Article 12*
+
+Personal status
+
+1\. The personal status of a refugee shall be governed by the law of the country of his domicile or, if he has no domicile, by the law of the country of his residence.
+
+2\. Rights previously acquired by a refugee and dependent on personal status, more particularly rights attaching to marriage, shall be respected by a Contracting State, subject to compliance, if this be necessary, with the formalities required by the law of that State, provided that the right in question is one which would have been recognized by the law of that State had he not become a refugee.
+
+*Article 13*
+
+Movable and immovable property
+
+The Contracting States shall accord to a refugee treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances as regards the acquisition of movable and immovable property and other rights pertaining thereto, and to leases and other contracts relating to movable and immovable property.
+
+*Article 14*
+
+Artistic rights and industrial property
+
+In respect of the protection of industrial property, such as inventions, designs or models, trade marks, trade names, and of rights in literary, artistic and scientific works, a refugee shall be accorded in the country in which he has his habitual residence the same protection as is accorded to nationals of that country. In the territory of any other Contracting State, he shall be accorded the same protection as is accorded in that territory to nationals of the country in which he has habitual residence.
+
+*Article 15*
+
+Right of association
+
+As regards non-political and non-profit-making associations and trade unions the Contracting State shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country, in the same circumstances.
+
+*Article 16*
+
+Access to courts
+
+1\. A refugee shall have free access to the courts of law on the territory of all Contracting States.
+
+2\. A refugee shall enjoy in the Contracting State in which he has his habitual residence the same treatment as a national in matters pertaining to access to the Courts, including legal assistance and exemption from *cautio judicatum solvi*.
+
+3\. A refugee shall be accorded in the matters referred to in paragraph 2 in countries other than that in which he has his habitual residence the treatment granted to a national of the country of his habitual residence.
+
+### CHAPTER III — Gainful Employment
+
+*Article 17*
+
+Wage-earning employment
+
+1\. The Contracting State shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country in the same circumstances, as regards the right to engage in wage-earning employment.
+
+2\. In any case, restrictive measures imposed on aliens or the employment of aliens for the protection of the national labour market shall not be applied to a refugee who was already exempt from them at the date of entry into force of this Convention for the Contracting States concerned, or who fulfils one of the following conditions:
+
+(*a*) He has completed three years' residence in the country;
+
+(*b*) He has a spouse possessing the nationality of the country of residence. A refugee may not invoke the benefits of this provision if he has abandoned his spouse;
+
+(*c*) He has one or more children possessing the nationality of the country of residence.
+
+3\. The Contracting States shall give sympathetic consideration to assimulating the rights of all refugees with regard to wage-earning employment to those of nationals, and in particular of those refugees who have entered their territory pursuant to programmes of labour recruitment or under immigration schemes.
+
+*Article 18*
+
+Self-employment
+
+The Contracting States shall accord to a refugee lawfully in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the right to engage on his own account in agriculture, industry, handicrafts and commerce and to establish commercial and industrial companies.
+
+*Article 19*
+
+Liberal professions
+
+1\. Each Contracting State shall accord to refugees lawfully staying in their territory who hold diplomas recognized by the competent authorities of that State, and who are desirous of practising a liberal profession, treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
+
+2\. The Contracting States shall use their best endeavours consistently with their laws and constitutions to secure the settlement of such refugees in the territories, other than the metropolitan territory, for whose international relations they are responsible.
+
+### CHAPTER IV — Welfare
+
+*Article 20*
+
+Rationing
+
+Where a rationing system exists, which applies to the population at large and regulates the general distribution of products in short supply, refugees shall be accorded the same treatment as nationals.
+
+*Article 21*
+
+Housing
+
+As regards housing, the Contracting States, in so far as the matter is regulated by laws or regulations or is subject to the control of public authorities, shall accord to refugees lawfully staying in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
+
+*Article 22*
+
+Public education
+
+1\. The Contracting States shall accord to refugees the same treatment as is accorded to nationals with respect to elementary education.
+
+2\. The Contracting States shall accord to refugees treatment as favourable as possible, and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, with respect to education other than elementary education and, in particular, as regards access to studies, the recognition of foreign school certificates, diplomas and degrees, the remission of fees and charges and the award of scholarships.
+
+*Article 23*
+
+Public relief
+
+The Contracting States shall accord to refugees lawfully staying in their territory the same treatment with respect to public relief and assistance as is accorded to their nationals.
+
+*Article 24*
+
+Labour legislation and social security
+
+1\. The Contracting States shall accord to refugees lawfully staying in their territory the same treatment as is accorded to nationals in respect of the following matters:
+
+(a) In so far as such matters are governed by laws or regulations or are subject to the control of administrative authorities: remuneration, including family allowances where these form part of remuneration, hours of work, overtime arrangements, holidays with pay, restrictions on home work, minimum age of employment, apprenticeship and training, women's work and the work of young persons, and the enjoyment of the benefit of collective bargaining;
+
+(*b*) Social security (legal provisions in respect of employment injury, occupational diseases, maternity, sickness, disability, old age, death, unemployment, family reponsibilities and any other contingency which, according to national laws or regulations, is covered by a social security scheme), subject to the following limitations:
+
+(i) There may be appropriate arrangements for the maintenance of acquired rights and rights in course of acquisition;
+
+(ii) National laws or regulations of the country of residence may prescribe special arrangements concerning benefits or portions of benefits which are payable wholly out of public funds, and concerning allowances paid to persons who do not fulfil the contribution conditions prescribed for the award of a normal pension.
+
+2\. The right to compensation for the death of a refugee resulting from employment injury or from occupational disease shall not be affected by the fact that the residence of the beneficiary is outside the territory of the Contracting State.
+
+3\. The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the+ future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
+
+4\. The Contracting States will give sympathetic consideration to extending to refugees so far as possible the benefits of similar agreements which may at any time be in force between such Contracting States and non-contracting States.
+
+### CHAPTER V — Administrative Measures
+
+*Article 25*
+
+Administrative assistance
+
+1\. When the exercise of a right by a refugee would normally require the assistance of authorities of a foreign country to whom he cannot have recourse, the Contracting States in whose territory he is residing shall arrange that such assistance be afforded to him by their own authorities or by an international authority.
+
+2\. The authority or authorities mentioned in paragraph 1 shall deliver or cause to be delivered under their supervision to refugees such documents or certifications as would normally be delivered to aliens by or through their national authorities.
+
+3\. Documents or certifications so delivered shall stand in the stead of the official instruments delivered to aliens by or through their national authorities, and shall be given credence in the absence of proof to the contrary.
+
+4\. Subject to such exceptional treatment as may be granted to indigent persons, fees may be charged for the services mentioned herein, but such fees shall be moderate and commensurate with those charged to nationals for similar services.
+
+5\. The provisions of this article shall be without prejudice to articles 27 and 28.
+
+*Article 26*
+
+Freedom of movement
+
+Each Contracting State shall accord to refugees lawfully in its territory the right to choose their place of residence and to move freely within its territory, subject to any regulations applicable to aliens generally in the same circumstances.
+
+*Article 27*
+
+Identity papers
+
+The Contracting States shall issue identity papers to any refugee in their territory who does not possess a valid travel document.
+
+*Article 28*
+
+Travel documents
+
+1\. The Contracting States shall issue to refugees lawfully staying in their territory travel documents for the purpose of travel outside their territory unless compelling reasons of national security or public order otherwise require, and the provisions of the Schedule to this Convention shall apply with respect to such documents. The Contracting States may issue such a travel document to any other refugee in their territory; they shall in particular give sympathetic consideration to the issue of such a travel document to refugees in their territory who are unable to obtain a travel document from the country of their lawful residence.
+
+2\. Travel documents issued to refugees under previous international agreements by parties thereto shall be recognised and treated by the Contracting States in the same way as if they had been issued pursuant to this article.
+
+*Article 29*
+
+Fiscal charges
+
+1\. The Contracting States shall not impose upon refugees duties, charges or taxes, of any description whatsoever, other or higher than those which are or may be levied on their nationals in similar situations.
+
+2\. Nothing in the above paragraph shall prevent the application to refugees of the laws and regulations concerning charges in respect of the issue to aliens of administrative documents including identity papers.
+
+*Article 30*
+
+Transfer of assets
+
+1\. A Contracting State shall, in conformity with its laws and regulations permit refugees to transfer assets which they have brought into its territory, to another country where they have been admitted for the purposes of resettlement.
+
+2\. A Contracting State shall give sympathetic consideration to the application of refugees for permission to transfer assets wherever they may be and which are necessary for their resettlement in another country to which they have been admitted.
+
+*Article 31*
+
+Refugees unlawfully in the country of refuge
+
+1\. The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of Article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence.
+
+2\. The Contracting States shall not apply to the movements of such refugees restrictions other than those which are necessary and such restrictions shall only be applied until their status in the country is regularized or they obtain admission into another country. The Contracting States shall allow such refugees a reasonable period and all the necessary facilities to obtain admission into another country.
+
+*Article 32*
+
+Expulsion
+
+1\. The Contracting States shall not expel a refugee lawfully in their territory save on grounds of national security or public order.
+
+2\. The expulsion of such a refugee shall be only in pursuance of a decision reached in accordance with due process of law. Except where compelling reasons of national security otherwise require, the refugee shall be allowed to submit evidence to clear himself, and to appeal to and be represented for the purpose before competent authority or a person or persons specially designated by the competent authority.
+
+3\. The Contracting States shall allow such a refugee a reasonable period within which to seek legal admission into another country. The Contracting States reserve the right to apply during that period such internal measures as they may deem necessary.
+
+*Article 33*
+
+Prohibition of expulsion or return
+
+(“refoulement”)
+
+1\. No Contracting State shall expel or return (*“refouler”*) a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.
+
+2\. The benefit of the present provision may not, however, be claimed by a refugee whom there are reasonable grounds for regarding as a danger to the security of the country in which he is, or who, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of that country.
+
+*Article 34*
+
+Naturalization
+
+The Contracting States shall as far as possible facilitate the assimilation and naturalization of refugees. They shall in particular make every effort to expedite naturalization proceedings and to reduce as far as possible the charges and costs of such proceedings.
+
+### CHAPTER VI — Executory And Transitory Provisions
+
+*Article 35*
+
+Co-operation of the national authorities with the United Nations
+
+1\. The Contracting States undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of this Convention.
+
+2\. In order to enable the Office of the High Commissioner or any other agency of the United Nations which may succeed it, to make reports to the competent organs of the United Nations, the Contracting States undertake to provide them in the appropriate form with information and statistical data requested concerning:
+
+(*a*) the condition of refugees,
+
+(*b*) the implementation of this Convention, and
+
+(*c*) laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
+
+*Article 36*
+
+Information on national legislation
+
+The Contracting States shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of this Convention.
+
+*Article 37*
+
+Relation to previous Conventions
+
+Without prejudice to article 28, paragraph 2, of this Convention, this Convention replaces, as between parties to it, the Arrangements of 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30 July 1935, the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 and the Agreement of 15 October 1946.
+
+### CHAPTER VII — Final Clauses
+
+*Article 38*
+
+Settlement of disputes
+
+Any dispute between parties to this Convention relating to its interpretation or application, which cannot be settled by other means, shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
+
+*Article 39*
+
+Signature, ratification and accession
+
+1\. This Convention shall be opened for signature at Geneva on 28 July 1951 and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from 28 July to 31 August 1951 and shall be reopened for signature at the Headquarters of the United Nations from 17 September 1951 to 31 December 1952.
+
+2\. This Convention shall be open for signature on behalf of all States Members of the United Nations, and also on behalf of any other State invited to attend the Conference of Plenipotentiaries onthe Status of Refugees and Stateless Persons or to which an invitation to sign will have been addressed by the General Assembly. It shall be ratified and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+
+3\. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+
+*Article 40*
+
+Territorial application clause
+
+1\. Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the States concerned.
+
+2\. At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later.
+
+3\. With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject where necessary for constitutional reasons, to the consent of the governments of such territories.
+
+*Article 41*
+
+Federal clause
+
+In the case of a Federal or non-unitary State, the following provisions shall apply:
+
+(*a*) With respect to those articles of this Convention that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of Parties which are not Federal States.
+
+(*b*) With respect to those articles of this Convention that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the Federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation, to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment.
+
+(*c*) A Federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention showing the extent to which effect has been given to that provision by legislative or other action.
+
+*Article 42*
+
+Reservations
+
+1\. At the time of signature, ratification or accession, any State may make reservations to articles of the Convention other than to articles 1, 3, 4, 16 (1), 33, 36 to 46 inclusive.
+
+2\. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw the reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
+
+*Article 43*
+
+Entry into force
+
+1\. This Convention shall come into force on the ninetieth day following the day of deposit of the sixth instrument of ratification or accession.
+
+2\. For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the day of deposit by such State of its instrument of ratification or accession.
+
+*Article 44*
+
+Denunciation
+
+1\. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. Such denunciation shall take effect for the Contracting State concerned one year from the date upon which it is received by the Secretary-General of the United Nations.
+
+3\. Any State which has made a declaration or notification under article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
+
+*Article 45*
+
+Revision
+
+1\. Any Contracting State may request revision of this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. The General Assembly of the United Nations shall recommend the steps, if any, to be taken in respect of such request.
+
+*Article 46*
+
+Notifications by the Secretary-General of the United Nations
+
+The Secretary-General of the United Nations shall inform all Members of the United Nations and non-member States referred to in article 39:
+
+(*a*) of declarations and notifications in accordance with Section B of article 1;
+
+(*b*) of signatures, ratifications and accessions in accordance with article 39;
+
+(*c*) of declarations and notifications in accordance with article 40;
+
+(*d*) of reservations and withdrawals in accordance with article 42;
+
+(*e*) of the date on which this Convention will come into force in accordance with article 43;
+
+(*f*) of denunciations and notifications in accordance with article 44;
+
+(*g*) of requests for revision in accordance with article 45.
+
+*In faith whereof* the undersigned, duly authorized, have signed this Convention on behalf of their respective Governments,
+
+*Done* at Geneva, this twenty-eighth day of July, one thousand nine hundred and fifty-one, in a single copy, of which the English and French texts are equally authentic and which shall remain deposited in the archives of the United Nations, and certified true copies of which shall be delivered to all Members of the United Nations and to the non-member States referred to in article 39.
+
+SCHEDULE
+
+Paragraph 1
+
+1\. The travel document referred to in article 28 of this Convention shall be similar to the specimen annexed hereto.
+
+2\. The document shall be made out in at least two languages, one of which shall be in English or French.
+
+Paragraph 2
+
+Subject to the regulations obtaining in the country of issue, children may be included in the travel document of a parent or, in exceptional circumstances, of another adult refugee.
+
+Paragraph 3
+
+The fees charged for issue of the document shall not exceed the lowest scale of charges for national passports.
+
+Paragraph 4
+
+Save in special or exceptional cases, the document shall be made valid for the largest possible number of countries.
+
+Paragraph 5
+
+The document shall have a validity of either one or two years, at the discretion of the issuing authority.
+
+Paragraph 6
+
+1\. The renewal or extension of the validity of the document is a matter for the authority which issued it, so long as the holder has not established lawful residence in another territory and resides lawfully in the territory of the said authority. The issue of a new document is, under the same conditions, a matter for the authority which issued the former document.
+
+2\. Diplomatic or consular authorities, specially authorized for the purpose, shall be empowered to extend, for a period not exceeding six months, the validity of travel documents issued by their Governments.
+
+3\. The Contracting States shall give sympathetic consideration to renewing or extending the validity of travel documents or issuing new documents to refugees no longer lawfully resident in their territory who are unable to obtain a travel document from the country of their lawful residence.
+
+Paragraph 7
+
+The Contracting States shall recognize the validity of the documents issued in accordance with the provisions of article 28 of this Convention.
+
+Paragraph 8
+
+The competent authorities of the country to which the refugee desires to proceed shall, if they are prepared to admit him and if a visa is required, affix a visa on the document of which he is the holder.
+
+Paragraph 9
+
+1\. The Contracting States undertake to issue transit visas to refugees who have obtained visas for a territory of final destination.
+
+2\. The issue of such visas may be refused on grounds which would justify refusal of a visa to any alien.
+
+Paragraph 10
+
+The fees for the issue of exit, entry or transit visas shall not exceed the lowest scale of charges for visas on foreign passports.
+
+Paragraph 11
+
+When a refugee has lawfully taken up residence in the territory of another Contracting State, the responsibility for the issue of a new document, under the terms and conditions of article 28, shall be that of the competent authority of that territory, to which the refugee shall be entitled to apply.
+
+Paragraph 12
+
+The authority issuing a new document shall withdraw the old document and shall return it to the country of issue, if it is stated in the document that it should be so returned; otherwise it shall withdraw and cancel the document.
+
+Paragraph 13
+
+1\. Each Contracting State undertakes that the holder of a travel document issued by it in accordance with article 28 of this Convention shall be readmitted to its territory at any time during the period of its validity.
+
+2\. Subject to the provisions of the preceding sub-paragraph, a Contracting State may require the holder of the document to comply with such formalities as may be prescribed in regard to exit from or return to its territory.
+
+3\. The Contracting States reserve the right, in exceptional cases, or in cases where the refugee's stay is authorized for a specific period, when issuing the document, to limit the period during which the refugee may return to a period of not less than three months.
+
+Paragraph 14
+
+Subject only to the terms of paragraph 13, the provisions of this Schedule in no way affect the laws and regulations governing the conditions of admission to, transit through, residence and establishment in, and departure from, the territories of the Contracting States.
+
+Paragraph 15
+
+Neither the issue of the document nor the entries made thereon determine or affect the status of the holder, particularly as regards nationality.
+
+Paragraph 16
+
+The issue of the document does not in any way entitle the holder to the protection of the diplomatic or consular authorities of the country of issue, and does not confer on these authorities a right of protection.
+
+ANNEX
+
+Specimen Travel Document
+
+The document will be in booklet form (approximately 15 × 10 centimetres).
+
+It is recommended that it be so printed that any erasure or alteration by chemical or other means can be readily detected, and that the words “Convention of 28 July 1951” be printed in continuous repetition on each page, in the language of the issuing country.
+
+1967 PROTOCOL RELATING TO THE STATUS OF REFUGEES
+
+*The States Parties* to the present Protocol,
+
+*Considering* that the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 (hereinafter referred to as the Convention) covers only those persons who have become refugees as a result of events occurring before 1 January 1951,
+
+*Considering* that new refugee situations have arisen since the Convention was adopted and that the refugees concerned may therefore not fall within the scope of the Convention,
+
+*Considering* that it is desirable that equal status should be enjoyed by all refugees covered by the definition in the Convention irrespective of the dateline 1 January 1951,
+
+*Have agreed* as follows:
+
+*Article I*
+
+General provision
+
+1\. The States Parties to the present Protocol undertake to apply articles 2 to 34 inclusive of the Convention to refugees as hereinafter defined.
+
+2\. For the purpose of the present Protocol, the term “refugee” shall, except as regards the application of paragraph 3 of this article, mean any person within the definition of article 1 of the Convention as if the words “As a result of events occurring before 1 January 1951 and …” and the words “…as a result of such events”, in article 1 A (2) were omitted.
+
+3\. The present Protocol shall be applied by the States Parties hereto without any geographic limitation, save that existing declarations made by States already Parties to the Convention in accordance with article 1 B (1) (*a*) of the Convention, shall, unless extended under article 1 B (2) thereof, apply also under the present Protocol.
+
+*Article II*
+
+Co-operation of the national authorities with the United Nations
+
+1\. The States Parties to the present Protocol undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of the present Protocol.
+
+2\. In order to enable the Office of the High Commissioner, or any other agency of the United Nations which may succeed it to make reports to the competent organs of the United Nations, the States Parties to the present Protocol undertake to provide them with the information and statistical data requested, in the appropriate form, concerning:
+
+(*a*) The condition of refugees;
+
+(*b*) The implementation of the present Protocol;
+
+(*c*) Laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
+
+*Article III*
+
+Information on national legislation
+
+The States Parties to the present Protocol shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of the present Protocol.
+
+*Article IV*
+
+Settlement of disputes
+
+Any dispute between States Parties to the present Protocol which relates to its interpretation or application and which cannot be settled by other means shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
+
+*Article V*
+
+Accession
+
+The present Protocol shall be open for accession on behalf of all States Parties to the Convention and of any other State Member of the United Nations or member of any of the specialized agencies or to which an invitation to accede may have been addressed by the General Assembly of the United Nations. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+
+*Article VI*
+
+Federal clause
+
+In the case of a Federal or non-unitary State, the following provisions shall apply:
+
+(*a*) With respect to those articles of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of States Parties which are not Federal States;
+
+(*b*) With respect to those articles of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the Federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment;
+
+(*c*) A Federal State Party to the present Protocol shall, at the request of any other State Party hereto transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol, showing the extent to which effect has been given to that provision by legislative or other action.
+
+*Article VII*
+
+Reservations and Declarations
+
+1\. At the time of accession, any State may make reservations in respect of article IV of the present Protocol and in respect of the application in accordance with article I of the present Protocol of any provisions of the Convention other than those contained in articles 1, 3, 4, 16 (1) and 33 thereof, provided that in the case of a State Party to the Convention reservations made under this article shall not extend to refugees in respect of whom the Convention applies.
+
+2\. Reservations made by States Parties to the Convention in accordance with article 42 thereof shall, unless withdrawn, be applicable in relation to their obligations under the present Protocol.
+
+3\. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw such reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
+
+4\. Declarations made under article 40, paragraphs 1 and 2, of the Convention by a State Party thereto which accedes to the present Protocol shall be deemed to apply in respect of the present Protocol, unless upon accession a notification to the contrary is addressed by the State Party concerned to the Secretary-General of the United Nations. The provisions of article 40, paragraphs 2 and 3, and of article 44, paragraph 3, of the Convention shall be deemed to apply *mutatis mutandis* to the present Protocol.
+
+*Article VIII*
+
+Entry into force
+
+1\. The present Protocol shall come into force on the day of deposit of the sixth instrument of accession.
+
+2\. For each State acceding to the Protocol after the deposit of the sixth instrument of accession, the Protocol shall come into force on the date of deposit by such State of its instrument of accession.
+
+*Article IX*
+
+Denunciation
+
+1\. Any State Party hereto may denounce this Protocol at any time by a notification addressed to the Secretary-General of the United Nations.
+
+2\. Such denunciation shall take effect for the State Party concerned one year from the date on which it is received by the Secretary-General of the United Nations.
+
+*Article X*
+
+Notifications by the Secretary-General of the United Nations
+
+The Secretary-General of the United Nations shall inform the States referred to in article V above of the date of entry into force, accessions, reservations and withdrawals of reservations to and denunciations of the present Protocol, and of declarations and notifications relating hereto.
+
+*Article XI*
+
+Deposit in the Archives of the Secretariat of the United Nations
+
+A copy of the present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, signed by the President of the General Assembly and by the Secretary-General of the United Nations, shall be deposited in the archives of the Secretariat of the United Nations. The Secretary-General will transmit certified copies thereof to all States Members of the United Nations and to the other States referred to in article V above.
+
+## FOURTH SCHEDULE — Dublin Convention
+
+**Convention**
+
+determining the state responsible for examining applications for
+
+asylum lodged in one of the Member States of the European
+
+Communities
+
+**Preamble**
+
+His Majesty the King of the Belgians,
+
+Her Majesty the Queen of Denmark,
+
+The President of the Federal Republic of Germany,
+
+The President of the Hellenic Republic,
+
+His Majesty the King of Spain,
+
+The President of the French Republic,
+
+The President of Ireland,
+
+The President of the Italian Republic,
+
+His Royal Highness the Grand Duke of Luxembourg,
+
+Her Majesty the Queen of the Netherlands,
+
+The President of the Portuguese Republic,
+
+Her Majesty the Queen of the United Kingdom of Great Britain and Northern Ireland,
+
+HAVING REGARD to the objective, fixed by the European Council meeting in Strasbourg on 8 and 9 December 1989, of the harmonization of their asylum policies;
+
+DETERMINED, in keeping with their common humanitarian tradition, to guarantee adequate protection to refugees in accordance with the terms of the Geneva Convention of 28 July 1951, as amended by the New York Protocol of 31 January 1967 relating to the Status of Refugees, hereinafter referred to as the “Geneva Convention” and the “New York Protocol” respectively;
+
+CONSIDERING the joint objective of an area without internal frontiers in which the free movement of persons shall, in particular, beensured, in accordance with the provisions of the Treaty establishing the European Economic Community, as amended by the Single European Act;
+
+AWARE of the need, in pursuit of this objective, to take measures to avoid any situations arising, with the result that applicants for asylum are left in doubt for too long as regards the likely outcome of their applications and concerned to provide all applicants for asylum with a guarantee that their applications will be examined by one of the Member States and to ensure that applicants for asylum are not referred successively from one Member State to another without any of these States acknowledging itself to be competent to examine the application for asylum;
+
+DESIRING to continue the dialogue with the United Nations High Commissioner for Refugees in order to achieve the above objectives;
+
+DETERMINED to co-operate closely in the application of this Convention through various means, including exchanges of information,
+
+HAVE DECIDED TO CONCLUDE THIS CONVENTION AND TO THIS END HAVE DESIGNATED AS THEIR PLENIPOTENTIARIES:
+
+(Designation of Plenipotentiaries)
+
+WHO, having exchanged their Full Powers, found in good and due form,
+
+HAVE AGREED AS FOLLOWS;
+
+ARTICLE 1
+
+1\. For the purposes of this Convention:
+
+(*a*) Alien means: any person other than a national of a Member State;
+
+(*b*) Application for asylum means: a request whereby an alien seeks from a Member State protection under the Geneva Convention by claiming refugee status within the meaning of Article 1 of the Geneva Convention, as amended by the New York Protocol;
+
+(*c*) Applicant for asylum means: an alien who has made an application for asylum in respect of which a final decision has not yet been taken;
+
+(*d*) Examination of an application for asylum means: all the measures for examination, decisions or rulings given by the competent authorities on an application for asylum, except for procedures to determine the State responsible for examining the application for asylum pursuant to this Convention;
+
+(*e*) Residence permit means: any authorization issued by the authorities of a Member State authorizing an alien to stay in its territory, with the exception of visas and “stay permits” issued during examination of an application for a residence permit or for asylum;
+
+(*f*) Entry visa means: authorization or decision by a Member State to enable an alien to enter its territory, subject to the other entry conditions being fulfilled;
+
+(*g*) Transit visa means: authorization or decision by a Member State to enable an alien to transit through its territory or pass through the transit zone of a port or airport, subject to the other transit conditions being fulfilled.
+
+2\. The nature of the visa shall be assessed in the light of the definitions set out in paragraph 1, points (*f*) and (*g*).
+
+ARTICLE 2
+
+The Member States reaffirm their obligations under the Geneva Convention, as amended by the New York Protocol, with no geographic restriction of the scope of these instruments, and their commitment to co-operating with the services of the United Nations High Commissioner for Refugees in applying these instruments.
+
+ARTICLE 3
+
+1\. Member States undertake to examine the application of any alien who applies at the border or in their territory to any one of them for asylum.
+
+2\. That application shall be examined by a Single Member State, which shall be determined in accordance with the criteria defined in this Convention. The criteria set out in Articles 4 to 8 shall apply in the order in which they appear.
+
+3\. That application shall be examined by that State in accordance with its national laws and its international obligations.
+
+4\. Each Member State shall have the right to examine an application for asylum submitted to it by an alien, even if such examination is not its responsibility under the criteria defined in this Convention, provided that the applicant for asylum agrees thereto.
+
+The Member State responsible under the above criteria is then relieved of its obligations, which are transferred to the Member State which expressed the wish to examine the application. The latter State shall inform the Member State responsible under the said criteria if the application has been referred to it.
+
+5\. Any Member State shall retain the right, pursuant to its national laws, to send an applicant for asylum to a third State, in compliance with the provisions of the Geneva Convention, as amended by the New York Protocol.
+
+6\. The process of determining the Member State responsible for examining the application for asylum under this Convention shall start as soon as an application for asylum is first lodged with a Member State.
+
+7\. An applicant for asylum who is present in another Member State and there lodges an application for asylum after withdrawing his or her application during the process of determining the State responsible shall be taken back, under the conditions laid down in Article 13, by the Member State with which that application for asylum was lodged, with a view to completing the process of determining the State responsible for examining the application for asylum.
+
+This obligation shall cease to apply if the applicant for asylum has since left the territory of the Member States for a period of at least three months or has obtained from a Member State a residence permit valid for more than three months.
+
+ARTICLE 4
+
+Where the applicant for asylum has a member of his family who has been recognized as having refugee status within the meaning of the Geneva Convention, as amended by the New York Protocol, in a Member State and is legally resident there, that State shall be responsible for examining the application, provided that the persons concerned so desire.
+
+The family member in question may not be other than the spouse of the applicant for asylum or his or her unmarried child who is a minor of under eighteen years, or his or her father or mother where the applicant for asylum is himself or herself an unmarried child who is a minor of under eighteen years.
+
+ARTICLE 5
+
+1\. Where the applicant for asylum is in possession of a valid residence permit, the Member State which issued the permit shall be responsible for examining the application for asylum.
+
+2\. Where the applicant for asylum is in possession of a valid visa, the Member State which issued the visa shall be responsible for examining the application for asylum, except in the following situations:
+
+(*a*) if the visa was issued on the written authorization of another Member State, that State shall be responsible for examining the application for asylum. Where a Member State first consults the central authority of another Member State, inter alia for security reasons, the agreement of the latter shall not constitute written authorization within the meaning of this provision,
+
+(*b*) where the applicant for asylum is in possession of a transit visa and lodges his application in another Member State in which he is not subject to a visa requirement, that State shall be responsible for examining the application for asylum,
+
+(*c*) where the applicant for asylum is in possession of a transit visa and lodges his application in the State which issued him or her with the visa and which has received written confirmation from the diplomatic or consular authorities of the Member State of destination that the alien for whom the visa requirement was waived fulfilled the conditions for entry into that State, the latter shall be responsible for examining the application for asylum.
+
+3\. Where the applicant for asylum is in possession of more than one valid residence permit or visa issued by different Member States, the responsibility for examining the application for asylum shall be assumed by the Member States in the following order:
+
+(*a*) the State which issued the residence permit conferring the right to the longest period of residency or, where the periods of validity of all the permits are identical, the State which issued the residence permit having the latest expiry date;
+
+(*b*) the State which issued the visa having the latest expiry date where the various visas are of the same type;
+
+(*c*) where visas are of different kinds, the State which issued the visa having the longest period of validity, or where the periods of validity are identical, the State which issued the visa having the latest expiry date. This provision shall not apply where the applicant is in possession of one or more transit visas, issued on presentation of an entry visa for another Member State. In that case, that Member State shall be responsible.
+
+4\. Where the applicant for asylum is in possession only of one or more residence permits which have expired less than two years previously or one or more visas which have expired less than six months previously and enabled him or her actually to enter the territory of a Member State, the provisions of paragraphs 1, 2 and 3 of this Article shall apply for such time as the alien has not left the territory of the Member States.
+
+Where the applicant for asylum is in possession of one or more residence permits which have expired more than two years previously or one or more visas which have expired more than six months previously and enabled him or her to enter the territory of a Member State and where an alien has not left Community territory, the Member State in which the application is lodged shall be responsible.
+
+ARTICLE 6
+
+When it can be proved that an applicant for asylum has irregularly crossed the border into a Member State by land, sea or air, having come from a non-member State of the European Communities, the Member State thus entered shall be responsible for examining the application for asylum.
+
+That State shall cease to be responsible, however, if it is proved that the applicant has been living in the Member State where the application for asylum was made at least six months before making his application for asylum. In that case it is the latter Member State which is responsible for examining the application for asylum.
+
+ARTICLE 7
+
+1\. The responsibility for examining an application for asylum shall be incumbent upon the Member State responsible for controlling the entry of the alien into the territory of the Member States, except where, after legally entering a Member State in which the need for him or her to have a visa is waived, the alien lodges his or her application for asylum in another Member State in which the need for him or her to have a visa for entry into the territory is also waived. In this case, the latter State shall be responsible for examining the application for asylum.
+
+2\. Pending the entry into force of an agreement between Member States on arrangements for crossing external borders, the Member State which authorizes transit without a visa through the transit zone of its airports shall not be regarded as responsible for control on entry, in respect of travellers who do not leave the transit zone.
+
+3\. Where the application for asylum is made in transit in an airport of a Member State, that State shall be responsible for examination.
+
+ARTICLE 8
+
+Where no Member State responsible for examining the application for asylum can be designated on the basis of the other criteria listed in this Convention, the first Member State with which the application for asylum is lodged shall be responsible for examining it.
+
+ARTICLE 9
+
+Any Member State, even when it is not responsible under the criteria laid out in this Convention may, for humanitarian reasons based in particular on family or cultural grounds, examine an application for asylum at the request of another Member State, provided that the applicant so desires.
+
+If a Member State thus approached accedes to the request, responsibility for examining the application shall be transferred to it.
+
+ARTICLE 10
+
+1\. The Member State responsible for examining an application for asylum according to the criteria set out in this Convention shall be obliged to:
+
+(*a*) Take charge under the conditions laid down in Article 11 of an applicant who has lodged an application for asylum in a different Member State.
+
+(*b*) Complete the examination of the application for asylum.
+
+(*c*) Re-admit or take back under the conditions laid down in Article 13 an applicant whose application is under examination and who is irregularly in another Member State.
+
+(*d*) Take back, under the conditions laid down in Article 13, an applicant who has withdrawn the application under examination and lodged an application in another Member State.
+
+(*e*) Take back, under the conditions laid down in Article 13, an alien whose application it has rejected and who is illegally in another Member State.
+
+2\. If a Member State issues to the applicant a residence permit valid for more than three months, the obligations specified in paragraph 1, points (*a*) to (*e*) shall be transferred to that Member State.
+
+3\. The obligations specified in paragraph 1, points (*a*) to (*d*) shall cease to apply if the alien concerned has left the territory of the Member State for a period of at least three months.
+
+4\. The obligations specified in paragraph 1, points (*d*) and (*e*) shall cease to apply if the State responsible for examining the application for asylum, following the withdrawal or rejection of the application, takes and enforces the necessary measures for the alien to return to his country of origin or to another country which he may lawfully enter.
+
+ARTICLE 11
+
+1\. If a Member State with which an application for asylum has been lodged considers that another Member State is responsible for examining the application, it may, as quickly as possible and in any case within the six months following the date on which the application was lodged, call upon the other Member State to take charge of the applicant.
+
+If the request that charge be taken is not made within the six-month time limit, responsibility for examining the application for asylum shall rest with the State in which the application was lodged.
+
+2\. The request that charge be taken shall contain indications enabling the authorities of that other State to ascertain whether it is responsible on the basis of the criteria laid down in this Convention.
+
+3\. The State responsible in accordance with those criteria shall be determined on the basis of the situation obtaining when the applicant for asylum first lodged his application with a Member State.
+
+4\. The Member State shall pronounce judgment on the request within three months of receipt of the claim. Failure to act within that period shall be tantamount to accepting the claim.
+
+5\. Transfer of the applicant for asylum from the Member State where the application was lodged to the Member State responsible must take place not later than one month after acceptance of the request to take charge or one month after the conclusion of any proceedings initiated by the alien challenging the transfer decision if the proceedings are suspensory.
+
+6\. Measures taken under Article 18 may subsequently determine the details of the process by which applicants shall be taken in charge.
+
+ARTICLE 12
+
+Where an application for asylum is lodged with the competent authorities of a Member State by an applicant who is on the territory of another Member State, the determination of the Member State responsible for examining the application for asylum shall be made by the Member State on whose territory the applicant is. The latter Member State shall be informed without delay by the Member State which received the application and shall then, for the purpose of applying this Convention, be regarded as the Member State with which the application for asylum was lodged.
+
+ARTICLE 13
+
+1\. An applicant for asylum shall be taken back in the cases provided for in Article 3 (7) and in Article 10 as follows:
+
+(*a*) the request for the applicant to be taken back must provide indications enabling the State with which the request is lodged to ascertain that it is responsible in accordance with Article 3 (7) and with Article 10;
+
+(*b*) the State called upon to take back the applicant shall give an answer to the request within eight days of the matter being referred to it. Should it acknowledge responsibility, it shall then take back the applicant for asylum as quickly as possible and at the latest one month after it agrees to do so.
+
+2\. Measures taken under Article 18 may at a later date set out the details of the procedure for taking the applicant back.
+
+ARTICLE 14
+
+1\. Member States shall conduct mutual exchanges with regard to:
+
+—national legislative or regulatory measures or practices applicable in the field of asylum;
+
+—statistical data on monthly arrivals of applicants for asylum, and their breakdown by nationality. Such information shall be forwarded quarterly through the General Secretariat of the Council of the European Communities, which shall see that it is circulated to the Member States and the Commission of the European Communities and to the United Nations High Commissioner for Refugees.
+
+2\. The Member States may conduct mutual exchanges with regard to:
+
+—general information on new trends in applications for asylum;
+
+—general information on the situation in the countries of origin or of provenance of applicants for asylum.
+
+3\. If the Member State providing the information referred to in paragraph 2 wants it to be kept confidential, the other Member States shall comply with this wish.
+
+ARTICLE 15
+
+1\. Each Member State shall communicate to any Member State that so requests such information on individual cases as is necessary for:
+
+—determining the Member State which is responsible for examining the application for asylum;
+
+—examining the application for asylum;
+
+—implementing any obligation arising under this Convention.
+
+2\. This information may only cover:
+
+—personal details of the applicant, and, where appropriate, the members of his family (full name — where appropriate, former name—, nicknames or pseudonyms, nationality — present and former—, date and place of birth);
+
+—identity and travel papers (references, validity, date of issue, issuing authority, place of issue, etc.);
+
+—other information necessary for establishing the identity of the applicant;
+
+—places of residence and routes travelled;
+
+—residence permits or visas issued by a Member State;
+
+—the place where the application was lodged;
+
+—the date any previous application for asylum was lodged, the date the present application was lodged, the stage reached in the proceedings and the decision taken, if any.
+
+3\. Furthermore, one Member State may request another Member State to let it know on what grounds the applicant for asylum bases his or her application and, where applicable, the grounds for any decisions taken concerning the applicant. It is for the Member State from which the information is requested to decide whether or not to impart it. In any event, communication of the information requested shall be subject to the approval of the applicant for asylum.
+
+4\. This exchange of information shall be effected at the request of a Member State and may only take place between authorities the designation of which by each Member State has been communicated to the Committee provided for under Article 18.
+
+5\. The information exchanged may only be used for the purposes set out in paragraph 1. In each Member State such information may only be communicated to the authorities and courts and tribunals entrusted with:
+
+—determining the Member State which is responsible for examining the application for asylum;
+
+—examining the application for asylum;
+
+—implementing any obligation arising under this Convention.
+
+6\. The Member State that forwards the information shall ensure that it is accurate and up-to-date.
+
+If it appears that this Member State has supplied information which is inaccurate or which should not have been forwarded, the recipient Member State, shall be immediately informed thereof. They shall be obliged to correct such information or to have it erased.
+
+7\. An applicant for asylum shall have the right to receive, on request, the information exchanged concerning him or her, for such time as it remains available.
+
+If he or she establishes that such information is inaccurate or should not have been forwarded, he or she shall have the right to have it corrected or erased. This right shall be exercised in accordance with the condition laid down in paragraph 6.
+
+8\. In each Member State concerned, the forwarding and receipt of exchanged information shall be recorded.
+
+9\. Such information shall be kept for a period not exceeding that necessary for the ends for which it was exchanged. The need to keep it shall be examined at the appropriate moment by the Member State concerned.
+
+10\. In any event, the information thus communicated shall enjoy at least the same protection as is given to similar information in the Member State which receives it.
+
+11\. If data are not processed automatically but are handled in some other form, every Member State shall take the appropriate measures to ensure compliance with this Article by means of effective controls. If a Member State has a monitoring body of the type mentioned in paragraph 12, it may assign the control task to it.
+
+12\. If one or more Member States wishes to computerize all or part of the information mentioned in paragraphs 2 and 3, such computerization is only possible if the countries concerned have adopted laws applicable to such processing which implement the principles of the Strasbourg Convention of 28 February 1981 for the Protection of Individuals, with regard to Automatic Processing of Personal Data and if they have entrusted an appropriate national body with the independent monitoring of the processing and use of data forwarded pursuant to this Convention.
+
+ARTICLE 16
+
+1\. Any Member State may submit to the Committee referred to in Article 18 proposals for revision of this Convention in order to eliminate difficulties in the application thereof.
+
+2\. If it proves necessary to revise or amend this Convention pursuant to the achievement of the objectives set out in Article 8a of the Treaty establishing the European Economic Community, such achievement being linked in particular to the establishment of a harmonized asylum and a common visa policy, the Member State holding the Presidency of the Council of the European Communities shall organize a meeting of the Committee referred to in Article 18.
+
+3\. Any revision of this Convention or amendment hereto shall be adopted by the Committee referred to in Article 18. They shall enter into force in accordance with the provisions of Article 22.
+
+ARTICLE 17
+
+1\. If a Member State experiences major difficulties as a result of a substantial change in the circumstances obtaining on conclusion of this Convention, the State in question may bring the matter before the Committee referred to in Article 18 so that the latter may put to the Member States measures to deal with the situation or adopt such revisions or amendments to this Convention as appear necessary, which shall enter into force as provided for in Article 16 (3).
+
+2\. If, after six months, the situation mentioned in paragraph 1 still obtains, the Committee, acting in accordance with Article 18 (2), may authorize the Member State affected by that change to suspend temporarily the application of the provisions of this Convention, without such suspension being allowed to impede the achievement of the objectives mentioned in Article 8a of the Treaty establishing the European Economic Treaty or contravene other international obligations of the Member States.
+
+3\. During the period of suspension, the Committee shall continue its discussions with a view to revising the provisions of this Convention, unless it has already reached an agreement.
+
+ARTICLE 18
+
+1\. A Committee shall be set up comprising one representative of the Government of each Member State.
+
+The Committee shall be chaired by the Member State holding the Presidency of the Council of the European Communities.
+
+The Commission of the European Communities may participate in the discussions of the Committee and the working parties referred to in paragraph 4.
+
+2\. The Committee shall examine, at the request of one or more Member States, any question of a general nature concerning the application or interpretation of this Convention.
+
+The Committee shall determine the measures referred to in Article 11 (6) and Article 13 (2) and shall give the authorization referred to in Article 17 (2).
+
+The Committee shall adopt decisions revising or amending the Convention pursuant to Articles 16 and 17.
+
+3\. The Committee shall take its decisions unanimously, except where it is acting pursuant to Article 17 (2), in which case it shall take its decisions by a majority of two-thirds of the votes of its members.
+
+4\. The Committee shall determine its rules of procedure and may set up working parties.
+
+The Secretariat of the Committee and of the working parties shall be provided by the General Secretariat of the Council of the European Communities.
+
+ARTICLE 19
+
+As regards the Kingdom of Denmark, the provisions of this Convention shall not apply to the Faroe Islands nor to Greenland unless a declaration to the contrary is made by the Kingdom of Denmark. Such a declaration may be made at any time by a communication to the Government of Ireland, which shall inform the Governments of the other Member States thereof.
+
+As regards the French Republic, the provisions of this Convention shall apply only to the European territory of the French Republic.
+
+As regards the Kingdom of the Netherlands, the provisions of this Convention shall apply only to the territory of the Kingdom of the Netherlands in Europe.
+
+As regards the United Kingdom the provisions of this Convention shall apply only to the United Kingdom of Great Britain and Northern Ireland. They shall not apply to the European territories for whose external relations the United Kingdom is responsible unless a declaration to the contrary is made by the United Kingdom. Such a declaration may be made at any time by a communication to the Government of Ireland, which shall inform the Governments of the other Member States thereof.
+
+ARTICLE 20
+
+This Convention shall not be the subject of any reservations.
+
+ARTICLE 21
+
+1\. This Convention shall be open for the accession of any State which becomes a member of the European Communities. The instruments of accession will be deposited with the Government of Ireland.
+
+2\. It shall enter into force in respect of any State which accedes thereto on the first day of the third month following the deposit of its instrument of accession.
+
+ARTICLE 22
+
+1\. This Convention shall be subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Government of Ireland.
+
+2\. The Government of Ireland shall notify the Governments of the other Member States of the deposit of the instruments of ratification, acceptance or approval.
+
+3\. This Convention shall enter into force on the first day of the third month following the deposit of the instrument of ratification, acceptance or approval by the last signatory State to take this step.
+
+The State with which the instruments of ratification, acceptance or approval are deposited shall notify the Member States of the date of entry into force of this Convention.
+
+[^1]: Heading added according to the provisions of Protocol No. 11 (ETS No. 155).

@@ -1,0 +1,4013 @@
+---
+title: "Irish Aviation Authority Act, 1993"
+identifier: "eli/1993/act/29"
+type: act
+jurisdiction: ie
+language: en
+number: 29
+year: 1993
+date: 1993-12-01
+last_amended: 2025-08-07
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1993/act/29/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1993/act/29/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Irish Aviation Authority Act, 1993
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A COMPANY, TO BE KNOWN AS ÚDARÁS EITLÍOCHTA NA hÉIREANN OR, IN THE ENGLISH LANGUAGE, THE IRISH AVIATION AUTHORITY, TO PROVIDE CERTAIN SERVICES IN RELATION TO CIVIL AVIATION, TO DEFINE ITS FUNCTIONS AND TO PROVIDE FOR THE CONFERRAL ON IT OF CERTAIN FUNCTIONS OF THE MINISTER FOR TRANSPORT, ENERGY AND COMMUNICATIONS UNDER THE AIR NAVIGATION AND TRANSPORT ACTS, 1936 TO 1988, AND THE AIR NAVIGATION (EUROCONTROL) ACTS, 1963 TO 1983, TO AMEND THE AIR NAVIGATION AND TRANSPORT ACTS, 1936 TO 1988, AND TO PROVIDE FOR RELATED MATTERS. [1*st December*, 1993]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Certain instruments continued in force and references construed (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 50, S.I. No. 220 of 2023.
+>
+> **Continuance of certain instruments**
+>
+> **50.** (1) An order, regulation, direction, licence, permission, register, registration, certificate, instrument of approval, notice, instruction or other instrument, document or record that was made, given, established, issued or granted under a provision of, or made under, the ANT Acts or the Act of 1993, that relates to a matter to which a function of the IANS relates and that is in force immediately before the vesting day shall, on and after the vesting day, in so far as it so relates, continue in force and may continue to be amended, revoked, cancelled, withdrawn, suspended or endorsed by the IANS.
+>
+> (2) References in any enactment or other record or document referred to in subsection (1) to the IAA shall, on and after the vesting day, in so far as the reference relates to a matter to which a function of the IANS relates, be construed as a reference to the IANS.
+>
+> C2: Application restricted (22.12.22) by *Air Navigation and Transport Act 2022* (40/2022), s. 17(2)(d), (3), S.I. No. 741 of 2022.
+>
+> **Articles of association**
+>
+> **17.** ...
+>
+> (2) The articles of association of the IANS shall provide that— ...
+>
+> (*d*) if the Minister appoints, amongst the first directors, a director of the IAA to be a director of the IANS—
+>
+> (i) the consent referred to in paragraph (b) (i) is not required in respect of that appointment, and
+>
+> (ii) the appointment shall be for the unexpired portion of the period the director of the IAA had left to run as such director at the time his or her appointment takes effect as a director of the IANS,
+>
+> …
+>
+> (3) A director of the IANS to whom subsection (2) (d) applies shall, by virtue of this subsection and notwithstanding anything contained in the Act of 1993 or the Act of 2014, cease to be a director of the IAA immediately upon the date on which his or her appointment as a director of the IANS takes effect.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**— (1) This Act may be cited as the Irish Aviation Authority Act, 1993.
+
+(2) This Act shall come into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed therefor either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions (including the application of *section 10* to different enactments specified therein).
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of subs. (2) restricted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(2), commenced on enactment. The amendment referred to below relates to the substitution and insertion of ss. 57, 57A and 57B of this Act.
+>
+> **Amendment of Part III (Eurocontrol Convention) of Act of 1993.**
+>
+> 3.― ….
+>
+> (2) Section 1(2) of the Act of 1993 does not apply to an amendment to that Act provided for in subsection (1)(c) of this section.
+
+### 2. Interpretation.
+
+**2.**— (1) In this Act, except where the context otherwise requires — “the Act of 1946” means the Air Navigation and Transport Act, 1946;
+
+“the Act of 1988” means the Air Navigation and Transport Act, 1988;
+
+“the Acts” means the Air Navigation and Transport Acts, 1936 to 1988;
+
+“aerodrome” includes an area of water intended for use for landing or taking off by aircraft and also includes an area, whether on land or water or on a building or other structure or elsewhere, intended for use for landing or taking off by aircraft capable of descending or climbing vertically;
+
+“aeronautical communications services” means services providing communications facilities for any purpose connected with aviation;
+
+“the Agency” means the Agency for the safety of air navigation comprised in Eurocontrol;
+
+“air navigation services” includes services providing, giving or issuing information, directions or instructions, or other facilities, for the purposes of or in connection with the navigation or movement of aircraft;
+
+“aircraft” means a machine that can derive support in the atmosphere from the reactions of the air, other than the reactions of the air against the earth's surface;
+
+“airspace” means the atmosphere above ground or sea level through which aircraft can fly;
+
+F1[“authorised officer" means a person authorised, or deemed to be authorised, under *section 63B(1)* to perform the functions conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022;]
+
+F2[“authorised officer of the company" means a person referred to in the definition of "authorised officer" authorised in writing by the company to perform the functions conferred on authorised officers of the company by or under this Act or the Air Navigation and Transport Act 2022;]
+
+“the Chicago Convention” means the Convention on International Civil Aviation opened for signature at Chicago on the 7th day of December, 1944, and includes the Annexes thereto and any amendment of the said Convention or Annexes whether made before or after the commencement of this section and any Annexes added to the Convention after such commencement;
+
+“the Chief Executive” means the chief executive of the company appointed under *section 38* ;
+
+“the Commissioners” means the Commissioners of Public Works in Ireland;
+
+“the company” means the company referred to in *section 11*;
+
+F4["contracting state" means a state, including the State, which is a party to Annex IV of the Eurocontrol Convention;]
+
+“determination”, in relation to a relevant authority, means a decision of the authority as to whether or not any sum is due to Eurocontrol, the company or the Minister in respect of air navigation services or aeronautical communications services provided by Eurocontrol, the company, the Minister or any other person;
+
+F8["electronic device" includes any device that uses electronic, digital, magnetic, optical, electromagnetic, biometric or photonic means, or other forms of related technology, or any combination thereof, to store or transmit data, or both store and transmit data;]
+
+F9["electronic record" includes electronic, digital, magnetic, optical, electromagnetic, biometric or photonic means of storing data, or other forms of related technology, or any combination thereof, by means of which data is stored;]
+
+F5["Eurocontrol" means the European Organisation for the Safety of Air Navigation (Eurocontrol) established by the Eurocontrol Convention and references to Eurocontrol include references to the General Assembly and the Council comprised in Eurocontrol and to the Agency;]
+
+F6["Eurocontrol Convention" means the International Convention relating to Co-operation for the Safety of Air Navigation signed at Brussels on 13 December 1960, as amended by the Additional Protocol signed at Brussels on 6 July 1970, the Protocol signed at Brussels on 21 November 1978 and the Protocol signed at Brussels on 12 February 1981, as consolidated by the Protocol signed at Brussels on 27 June 1997, (the consolidated text of which is set out for convenience of reference in the English language in Schedule 1 to the Aviation Act 2006), the Final Act and Protocol on the accession of the European Community to the Eurocontrol Convention signed at Brussels on 8 October 2002 (the text of which is set out for convenience of reference in the English language in Schedule 2 to the Aviation Act 2006), and by any other protocol or other instrument which may be signed after the passing of the Aviation Act 2006;]
+
+“functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+“the International Civil Aviation Organisation” means the organisation of that name established by the Chicago Convention;
+
+“Irish airspace” means the airspace within the lateral limits of the Shannon Flight Information Region, and the Shannon Upper Flight Information Region, established pursuant to the Chicago Convention;
+
+F10["Irish Coast Guard" means that part of the Department of Transport that is known by that name;]
+
+“licence” means a licence granted by virtue of *section 60* and cognate expressions shall be construed correspondingly;
+
+“land” includes land covered by water and “ land areas ” shall be construed accordingly;
+
+F7["The Minister" means the Minister for Transport;]
+
+F11[...]
+
+“operator”, in relation to an aircraft, means a person engaged, or proposing to engage, in the operation of aircraft who is for the time being responsible for the management of the aircraft;
+
+“other airspace” means areas of airspace, other than Irish airspace, in which the company is authorised pursuant to agreements with—
+
+(*a*) any persons who manage and control airspace for which states other than the State are responsible or who are responsible for the provision of air navigation services or aeronautical communications services in that airspace, or
+
+(*b*) international organisations,
+
+or both, to provide air navigation services;
+
+“owner”, in relation to an aircraft, means the person who is registered as the owner of the aircraft in the register established under the Act of 1946, a register established under *section 60* or a corresponding register established in a state other than the State;
+
+“the Principal Act” means the Air Navigation and Transport Act, 1936;
+
+“recognised trade unions and staff associations” means trade unions and staff associations recognised by the company for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions, of employees;
+
+F3["record" includes, in addition to a record in writing and an electronic record and—
+
+(*a*) a disc, tape, sound-track or other device in which data, sounds or signals are embodied so as to be capable, with or without the aid of some other mechanical or electrical equipment, of being reproduced in legible or audible form,
+
+(*b*) a film, disc, tape or other mechanical or electronic device in which visual images are embodied so as to be capable, with or without the aid of some other mechanical or electrical equipment, of being reproduced in visual form, and
+
+(*c*) a photograph, map, plan or drawing,
+
+and any reference to a copy of records includes, in the case of a record falling within *paragraph (a)* only, a transcript of the sounds or signals embodied therein, in the case of a record falling within *paragraph (b)*, a still reproduction of the images embodied therein and, in the case of a record falling within both of those paragraphs, such transcript together with such a still reproduction;]
+
+“relevant authority”, in relation to a contracting state, means—
+
+(*a*) any court or tribunal which, under the law of that state, may determine questions as to whether or not a sum is due to Eurocontrol, the company or the Minister in respect of air navigation services provided by Eurocontrol, the company or the Minister or any other person;
+
+(*b*) an administrative authority which, under the law of that state, may determine such questions, being a determination which, in that state, is subject to appeal to, or review by, a court or tribunal;
+
+(*c*) a court or tribunal which, under the law of that state, may determine an appeal from, or carry out a review of, a determination made in respect of any such question by another relevant authority;
+
+“State aerodromes” means Cork Airport, Dublin Airport and Shannon Airport and “ State aerodrome ” shall be construed accordingly;
+
+“State authority” means a Minister of the Government, the Commissioners or an agent of the Minister;
+
+F12[...]
+
+“subsidiary” means a subsidiary (within the meaning of section 155 of the Companies Act, 1963) of the company;
+
+“superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
+
+“terminal services” means the air navigation services provided for aircraft landing at or taking off from an aerodrome or while in the vicinity of an aerodrome before landing at or after taking off from that aerodrome;
+
+“the vesting day” means the day appointed under *section 11 (2)* to be the vesting day.
+
+(2) A reference in this Act to a certificate or licence includes a reference to an instrument of approval or other authorisation or permission and a reference in this Act to the grant or renewal of a certificate or licence includes a reference to the validation, revalidation or variation of the certificate or licence.
+
+(3) A reference in this Act to a section, Part or Schedule is a reference to a section or Part of or the Schedule to this Act unless it is indicated that reference to some other enactment is intended.
+
+(4) A reference in this Act to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(5) A reference in this Act to any enactment shall be construed as a reference to that enactment as amended or adapted, whether before or after the commencement of this section, by or under any subsequent enactment.
+
+(6) Where any function of the company is, under the memorandum of association of a subsidiary, a function of the subsidiary, every provision of, or of any instrument under, this Act or any other enactment relating to the company shall, in respect of that function, apply to the subsidiary as it applies to the company.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 57(a), (b), (c), S.I. No. 220 of 2023.
+>
+> F4, F5, F6, F7: Substituted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 2(a)(i)-(iv), commenced on enactment.
+>
+> F8, F9, F10: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 57(d), S.I. No. 220 of 2023.
+>
+> F11, F12: Deleted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 2(a)(v), (vi), commenced on enactment.
+
+### 3. Application to state aircraft.
+
+**3.**— (1) Subject to the provisions of this section, this Act (other than this section and *section 68* ) shall not apply to state aircraft or to aerodromes under the control of the Minister for Defence.
+
+(2) Subject to the Defence Acts, 1954 to 1993, and the exigencies of the security of the State, aircraft of the Defence Forces being operated in Irish airspace outside a designated area (within the meaning of *section 68* ) shall be so operated in accordance with any arrangements in force for the time being made by the Minister for Defence and the company.
+
+(3) Aircraft being used for customs or police purposes of the State shall, when being operated in Irish airspace, comply with any directions issued by virtue of *section 60* that are in force unless, in the case of an emergency, such compliance is not reasonably possible.
+
+(4) The Minister may by order declare that specified provisions of, or of instruments under, this Act shall, with any specified modifications, apply to state aircraft (other than state aircraft of the State), and any such provision so declared shall apply and have effect accordingly.
+
+(5) In this section “ state aircraft ” means aircraft of any state used in the military, customs or police service of that state.
+
+### 4. Saving for lighthouse authorities.
+
+**4.**—Nothing in this Act or any order or other instrument made thereunder shall prejudice or affect the rights, powers or privileges of any general or local lighthouse authority.
+
+### 5. Provisions in relation to orders and regulations made by Minister or company.
+
+**5.**— (1) An order or regulation made by the Minister or the company under this Act may be made applicable to any aircraft in or over the State or to aircraft registered in the State wherever they may be.
+
+(2) An order or regulation made by the Minister or the company under this Act may authorise the Minister or the company, as the case may be, to give directions for carrying out the purposes of the order or regulation, as the case may be, in respect of such matters and things as may be specified in the order or regulation, as the case may be, and, where an order or regulation so authorises, the Minister or the company, as the case may be, may give such a direction.
+
+(3) An order or regulation made by the Minister or the company under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister or the company, as the case may be, to be necessary or expedient for the purposes of the order or regulation.
+
+(4) Before making an order or regulation, or giving a direction (other than a direction to the company), under or by virtue of this Act or the Acts relating to a matter to which a function of the company relates, the Minister shall consult with the company in relation to the order, regulation or direction.
+
+(5) (*a*) The Minister may by order amend or revoke an order made by him under this Act and by direction amend or revoke a direction given by him under or by virtue of this Act.
+
+(*b*) The company may by order amend or revoke an order made by it under this Act and by direction amend or revoke a direction given by it under or by virtue of this Act.
+
+(*c*) An order or direction under this subsection shall be made or given in the like manner and its making or giving shall be subject to the like (if any) consents and conditions as the order or direction that it is amending or revoking.
+
+(6) The Minister shall not—
+
+(*a*) make an order or regulation under this Act or the Acts in relation to a matter as respects which the company may make an order or regulation under this Act or the Acts, or
+
+(*b*) give a direction (other than a direction to the company) in relation to a matter as respects which the company may give a direction.
+
+(7) Before making an order under *section 15* or *58 (2)* or an order amending or revoking such an order, the Minister shall cause a draft of the order to be laid before each House of the Oireachtas and the order shall not be made unless a resolution approving of the draft has been passed by each such House.
+
+(8) Before making an order or regulation under this Act, the company shall inform the Minister of its intention to make the order or regulation and of its purpose.
+
+(9) The Chief Executive or any other member of the staff of the company may, if duly authorised in that behalf by the company in relation to a particular direction or class of direction which the company is authorised to give, give the direction or a direction of that class, as the case may be, on behalf of the company.
+
+(10) The company shall not, in any order or regulation made or direction given under or by virtue of this Act, make provision in relation to the safeguarding of civil aviation against acts of unlawful interference.
+
+(11) F13[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Repealed (21.02.2001) by *Aviation Regulation Act 2001* (1/2001), s. 47, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Activity under section deemed not unlawful as regards discrimination on grounds of age or disability (18.10.1999) by *Employment Equality Act 1998* (21/1998), s. 17(3)(e), S.I. No. 320 of 1999.
+>
+> **Compliance with statutory requirements etc.**
+>
+> **17.**— ...
+>
+> (3) In relation to discrimination on the age ground or the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision made by or under— ...
+>
+> (*e*) sections 5, 14, 58 and 60 of the Irish Aviation Authority Act, 1993.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024).
+>
+> E2: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E3: Power pursuant to section exercised (2.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E4: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E5: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), in effect as per art. 1.
+>
+> E6: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), in effect as per art. 1(2).
+>
+> E7: Power pursuant to section exercised (13.03.2008) by *Irish Aviation Authority (Designated Areas) Order 2007* (S.I. No. 806 of 2007), in effect as per art. 2.
+>
+> E8: Power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Protected Area) Order 2005* (S.I. No. 777 of 2005), in effect as per art. 1(b).
+>
+> E9: Power pursuant to section exercised (1.05.2005) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), in effect as per art. 1.
+>
+> E10: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), in effect as per art. 1(2).
+>
+> E11: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2004* (S.I. No. 856 of 2004), in effect as per art. 1(2).
+>
+> E12: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft) (Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E13: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E14: Power pursuant to section exercised (14.11.2003) by *Irish Aviation Authority (Eurocontrol Safety Regulatory Requirements) Order 2003* (S.I. No. 387 of 2003), in effect as per art. 2.
+>
+> E15: Power pursuant to section exercised (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), in effect as per. art. 1(2).
+>
+> E16: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (En Route Obstacles to Air Navigation) Order 1999* (S.I. No. 423 of 1999), in effect as per art. 1.
+>
+> E17: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Tethered Balloons, Airships, Free Balloons and Kites) Order 1999* (S.I. No. 422 of 1999), in effect as per art. 1(2).
+>
+> E18: Power pursuant to section exercised (27.05.1997) by *Air Navigation (Operations) (Amendment) Order 1997* (S.I. No. 220 of 1997).
+>
+> E19: Power pursuant to subs. (5) exercised (3.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) (Amendment) Order 1997* (S.I. No. 102 of 1997).
+>
+> E20: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E21: Previous affecting provision: power pursuant to section exercised (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), in effect as per art. 2; revoked (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024), art. 3.
+>
+> E22: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25, subject to transitional provision in art. 26.
+>
+> E23: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E24: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E25: Previous affecting provision: power pursuant to section exercised (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007), in effect as per art. 1(2); revoked (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), art. 3, in effect as per art. 2.
+>
+> E26: Previous affecting provision: power pursuant to section exercised (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), in effect as per art. 1(2); revoked (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007),art. 3, in effect as per art. 1(2).
+>
+> E27: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E28: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), in effect as per art. 1(2); revoked (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), art. 3, in effect as per art. 1(2).
+>
+> E29: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations)(Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E30: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E32: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) (Amendment) Order 2005* (S.I. No. 216 of 2005), in effect as per art. 1(4); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E33: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E34: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004), in effect as per art. 1(2); revoked (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), art. 3, in effect as per art. 1(2).
+>
+> E35: Previous affecting provision: power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003), in effect as per art. 1(2); revoked (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004, art. 3, in effect as per art. 1(2).
+>
+> E36: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E37: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), in effect as per art. 1(2); revoked (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003, art. 3, in effect as per art. 1(2).
+>
+> E38: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E39: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E40: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E41: Previous affecting provision: power pursuant to section exercised (16.05.2002) by *Irish Aviation Authority (Designated Areas) Order 2002* (S.I. No. 140 of 2002), in effect as per art. 2; revoked (13.03.2008) by *Irish Aviation Authority (Designated Areas) Order 2007* (S.I. No. 806 of 2007), art. 6, in effect as per art. 2.
+>
+> E42: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2002* (S.I. No. 14 of 2002), in effect as per art. 1; revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E43: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E44: Previous affecting provision: power pursuant to section exercised (1.02.2002) by *Irish Aviation Authority (Fees) Order 2001* (S.I. 567 of 2001), in effect as per art. 1(2); revoked (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), art. 3, in effect as per art. 1(2).
+>
+> E45: Previous affecting provision: power pursuant to section exercised (1.01.2002) by *Irish Aviation Authority (Aeronautical Radio and Radar Equipment) Order 2001* (S.I. No. 565 of 2001), in effect as per art. 1(2); revoked (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), art. 2(2)(i), in effect as per art. 1(2).
+>
+> E46: Previous affecting provision: power pursuant to section exercised (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), in effect as per art. 1(2); revoked (1.02.2001) by *Irish Aviation Authority (Fees) Order 2001* (S.I. No. 567 of 2001), art. 3, in effect as per art. 1(2).
+>
+> E47: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Fees)(Amendment) Order 2000* (S.I. No. 336 of 2000), in effect as per art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E48: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E49: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), in effect as per art. 1(2); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E50: Previous affecting provision: power pursuant to section exercised (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), in effect as per art. 1; revoked (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), art. 3, in effect as per art. 1.
+>
+> E51: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Rockets and Small Aircraft) Order 2000* (S.I. No. 25 of 2000), in effect as per. art. 2; revoked (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015, art. 3, in effect as per art. 1(2).
+>
+> E52: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), in effect as per. art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E53: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Air Operator Certificates) Order 1999* (S.I. No. 420 of 1999), in effect as per art. 1; revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2).
+>
+> E54: Previous affecting provision: power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Noise Certification and Limitation) (Amendment) Order 1999* (S.I. No. 421 of 1999), in effect as per art. 1(4); revoked (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), art. 2, in effect as per art. 1(2).
+>
+> E55: Previous affecting provision: power pursuant to section exercised (1.06.1999) by *Air Navigation (Personnel Licensing) (No. 2) (Amendment) Order 1999* (S.I. No. 159 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E56: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E57: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E58: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 1998* (S.I. No. 487 of 1998), in effect as per art. 1(2); revoked (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E59: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), in effect as per art. 1(2); revoked (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E60: Previous affecting provision: power pursuant to section exercised (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2); revoked (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), art. 3, in effect as per art. 1(2).
+>
+> E61: Previous affecting provision: power pursuant to section exercised (27.05.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) (Amendment) Order 1997* (S.I. No. 219 of 1997); revoked (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E62: Previous affecting provision: power pursuant to subs. (5) exercised (3.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) Order 1997* (S.I. No. 101 of 1997); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E63: Previous affecting provision: power pursuant to section exercised (12.11.1996) by *Irish Aviation Authority (Aerodrome Standards) Order 1996* (S.I. No. 323 of 1996), in effect as per art. 1; revoked (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), art. 3, in effect as per art. 1.
+>
+> E64: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E65: Previous affecting provision: power pursuant to section exercised (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), in effect as per art. 1(4); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art 1(2).
+>
+> E66: Previous affecting provision: previous affecting provision: power pursuant to section exercised (20.02.1996) by *Air Navigation (Fees) (Amendment) Order 1996* (S.I. No. 49 of 1996), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2).
+>
+> E67: Previous affecting provision: power pursuant to section exercised (25.08.1995) by *Air Navigation (Personnel Licensing) (Amendment) Order 1995* (S.I. No. 222 of 1995), in effect as per art. 2; revoked (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), art. 3, in effect as per art. 1(4).
+>
+> E68: Previous affecting provision: power pursuant to section exercised (14.09.1995) by *Air Navigation (Designated Areas) Order 1995* (S.I. No. 170 of 1995), in effect as per art. 1(2); revoked (16.05.2002) by *Irish Aviation Authority (Designated Areas) Order 2002* (S.I. No. 140 of 2002), art. 6, in effect as per art. 2.
+
+### 6. Laying of orders and regulations before Houses of Oireachtas.
+
+**6.**—Every order or regulation made by the Minister or the company under this Act F14[, other than an order made by the Minister under *section 15* or *58(2)*,] shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 61(a), S.I. No. 327 of 1998.
+>
+> **Editorial Notes:**
+>
+> E69: Previous affecting provision: power pursuant to section exercised (1.06.1999) by *Air Navigation (Personnel Licensing) (No. 2) (Amendment) Order 1999* (S.I. No. 159 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E70: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E71: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E72: Previous affecting provision: power pursuant to section exercised (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), in effect as per art. 1(4); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art 1(2).
+>
+> E73: Previous affecting provision: power pursuant to section exercised (18.04.1995) by *Air Navigation (Fees) Order 1995* (S.I. No. 74 of 1995), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), art. 3, in effect as per art. 1(2).
+
+### 7. Directions by Minister to company.
+
+**7.**— (1) The Minister may give a direction in writing to the company—
+
+(*a*) requiring the company—
+
+(i) to comply with policy decisions of a general kind made by the Government in relation to aviation in so far as the decisions affect functions of the company, or
+
+(ii) to do or refrain from doing anything to which a function of the company relates specified in the direction the doing, or the refraining from the doing, of which is, in the opinion of the Minister, necessary or expedient in the national interest or for the purpose of enabling the Government or the State to become a member of an international organisation whose principal function or one of whose principal functions relates to air navigation or a party to an international agreement relating wholly or mainly to air navigation or to discharge its obligations as a member of such an organisation or as a party to such an agreement,
+
+(*b*) requiring the company—
+
+(i) to give a direction—
+
+(I) under *paragraph (h)* of *section 60 (1)* in relation to a specified area,
+
+(II) under *subparagraph (I)* of *paragraph (i)* of *section 60 (1)* in relation to specified restrictions on the flight of aircraft in a specified area of airspace, or
+
+(III) under *subparagraph (II)* of the said *paragraph (i)* in relation to a specified area of airspace,
+
+or
+
+(ii) to revoke or amend a direction given by the company under *section 60 (1)* pursuant to a direction of the Minister under this subsection,
+
+(*c*) for the purposes of section 16 of the Act of 1988, or
+
+(*d*) whenever the Minister is satisfied that the interests of the State or the public so require, requiring the company to achieve and maintain, in relation to the measures taken by it and the human and material resources employed by it for the purpose of safeguarding civil aviation against acts of unlawful interference, standards not lower than those specified.
+
+(2) If the company considers that compliance by it with a direction under *subsection (1)* would adversely affect the safety of aircraft, it shall so inform the Minister.
+
+(3) The company shall comply with a direction under this section.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Power of Minister under section extended (22.12.2022) by *Air Navigation and Transport Act 2022* (40/2022), s. 86(6), S.I. No. 741 of 2022.
+>
+> **Restructuring of IAA**
+>
+> **86.**— ...
+>
+> (6) In addition to section 7 of the Act of 1993, the Minister may give a direction to the IAA or the IANS in relation to any matter relating to or in anticipation of the restructuring.
+>
+> ...
+
+### 8. Disposal of monies received by Minister.
+
+**8.**—Moneys received by the Minister under this Act shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 9. Expenses.
+
+**9.**—The expenses incurred by the Minister in the execution of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 10. Repeals.
+
+**10.**— (1) Section 15 of the Act of 1946, the Air Navigation (Eurocontrol) Acts, 1963 to 1983, and section 15 of the Act of 1988 are hereby repealed.
+
+(2) An order or regulation that is made under a provision of the Air Navigation (Eurocontrol) Acts, 1963 to 1983, and is in force immediately before the commencement of this section shall continue in force on and after such commencement and may be amended or revoked as if made under the corresponding provision of this Act and a reference in any such order or regulation to the Minister shall, in so far as the order or regulation relates to a matter to which a function of the company relates, be construed as a reference to the company.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E74: Previous affecting provision: power pursuant to section exercised (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), in effect as per reg. 1; revoked (1.01.2006) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 2005* (S.I. No. 776 of 2005), art. 7 in effect as per art. 1.
+>
+> E75: Previous affecting provision: power pursuant to section exercised (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), in effect as per reg. 1; revoked (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), art. 7, in effect as per reg. 1.
+>
+> E76: Previous affecting provision: power pursuant to section exercised (21.01.1997) by *Irish Aviation Authority (Eurocontrol) (Route Charges) (Amendment) Regulations 1997* (S.I. No. 44 of 1997), in effect as per reg. 1(1); revoked (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), art. 7, in effect as per reg. 1.
+>
+> E77: Previous affecting provision: power pursuant to section exercised (1.01.1995) by *Irish Aviation Authority (Eurocontrol) (Route Charges) Regulations 1994* (S.I. No. 456 of 1994), in effect as per reg. 1(1); revoked (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), art. 7, in effect as per reg. 1.
+
+## PART II Establishment and Administration of Company — PART II — Establishment and Administration of Company
+
+### 11. Formation of company.
+
+**11.**— (1) The Minister, after consultation with the Minister for Finance, shall cause a private company conforming to the conditions laid down in this Act to be formed and registered under the Companies Acts, 1963 to 1990.
+
+(2) The Minister shall by order appoint a day to be the vesting day for the purposes of this Act as soon as practicable after the registration of the company under the Companies Acts, 1963 to 1990.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E78: Power pursuant to subs. (2) exercised (1.01.1994) by *Irish Aviation Authority Act, 1993 (Vesting Day) Order 1993* (S.I. No. 414 of 1993).
+
+### 12. Name and capital formation of company.
+
+**12.**— (1) The name of the company shall be Údarás Eitlíochta na hÉireann or, in the English language, The Irish Aviation Authority.
+
+(2) The authorised share capital of the company shall be such amount as may be determined from time to time by the Minister for Finance, after consultation with the Minister, divided into shares of one pound each.
+
+F16[(3) Section 6 (1)(b) of the Companies Act, 1963, shall not apply to the company.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15, F16: Substituted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 61(b), S.I. No. 327 of 1998.
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 13. Form of memorandum of association.
+
+**13.**—The memorandum of association of the company and of any subsidiary shall be in such form consistent with this Act as may be approved of by the Minister with the consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 14. Objects of company.
+
+**14.**— (1) The principal objects of the company shall be stated in its memorandum of association to be—
+
+(*a*) to give effect to the Annexes to the Chicago Convention specified in F19[*Schedule 1*] except in so far as they relate to the making of agreements between the State and other states,
+
+(*b*) to ensure that Irish airspace and other airspace in relation to which air navigation services are provided by the company are used in a safe and efficient manner and to facilitate their use,
+
+(*c*) subject to *section 68*, to provide, operate and manage, or arrange for the provision, operation and management of, air navigation services in Irish and other airspace,
+
+(*d*) to such extent as the company considers appropriate, to operate and manage terminal services at State aerodromes and licensed aerodromes and to regulate the provision, operation and management of terminal services at State aerodromes and at licensed aerodromes,
+
+(*e*) to provide, operate and manage aeronautical communications services in accordance with the agreement set out in the Exchange of Notes between the Government of Ireland and the Government of the United Kingdom relating to the Oceanic Control Centres at Shannon and Prestwick which entered into force on the 1st day of April, 1966, and any agreement, whether made before or after the commencement of this section, amending or replacing that agreement and to provide, operate and manage other aeronautical communications services,
+
+(*f*) to impose charges for the use of services provided by the company,
+
+(*g*) to arrange for the medical examination of applicants for and holders of certificates or licences issued by the company,
+
+(*h*) to regulate for the purposes of *paragraph (a)* the following:
+
+(i) the registration, airworthiness, operation and maintenance of aircraft, and
+
+(ii) the competence of persons engaged in or associated with—
+
+(I) the design, manufacture, maintenance, repair andmodification of aircraft and parts and materials for aircraft,
+
+(II) the operation of aircraft,
+
+(III) the operation and maintenance of air navigation services in Irish and other airspace and the maintenance of air navigation systems,
+
+(IV) the operation of aeronautical communications services and the maintenance of aeronautical communications systems, and
+
+(V) the operation and management of, and the provision of services at, aerodromes,
+
+(*i*) to advise, on its own initiative or at the request of the Minister, the Government, the Minister or another Minister of the Government or any other person in relation to any matter to which a function of the company relates,
+
+(*j*) to take such measures as it considers necessary or expedient to give effect to the purposes of—
+
+F18[(i) the Eurocontrol Convention,]
+
+(ii) the Arrangements, and
+
+(iii) international agreements or conventions to which the State is a party,
+
+in so far as those purposes relate to matters to which functions of the company relate,
+
+(*k*) to attend (by its directors or staff) and, unless the Minister otherwise directs, to represent (by its directors or staff) the State, whether alone or with others, at meetings with, or arranged or organised by, international organisations or governments of other states in so far as the meetings relate to matters to which functions of the company relate,
+
+(*l*) to undertake research and development respecting the environment, and branches of science, in so far as the research and development relates to matters to which functions of the company relate, on its own behalf or on behalf of others,
+
+(*m*) to undertake, or participate with others, including governments of other states, in, activities which are related to matters to which its functions relate, are consistent with its other objects and will, in the opinion of the company, enhance its effectiveness and profitability,
+
+(*n*) to provide, in relation to matters to which its functions relate, such consultancy, advisory and training services in and outside the State as the company thinks fit, and
+
+(*o*) to utilise, manage and develop the resources available to it in a manner consistent with the objects aforesaid.
+
+(2) Nothing in this section shall prevent or restrict the inclusion among the objects of the company, as stated in its memorandum of association, of all such objects and powers as are reasonably necessary or proper for or incidental or ancillary to the due attainment of the principal objects aforesaid and are not inconsistent with this Act or with the active promotion of aviation safety and the orderly development of civil aviation.
+
+(3) The company shall have power to do anything (including making regulations) that appears to it to be necessary, expedient, or incidental to, or which appears to it to facilitate, either directly or indirectly, the performance by it of its functions as specified in, or in an order under, this Act or in its memorandum of association and is not inconsistent with any law for the time being in force.
+
+(4) The Minister may, for the purpose of giving full effect to the conferral of functions by or under this Act on the company, by order adapt any enactment with the consent of any other Minister of the Government responsible for the administration of that enactment.
+
+(5) Any function conferred on the company by or under this Act and which, immediately before the commencement of this section, was a function of the Minister shall, upon such commencement, cease to be a function of the Minister.
+
+F19[(6) (*a*) For the avoidance of doubt, the reference to "(including making regulations)" in *subsection (3)* includes making regulations that apply to the Irish Coast Guard.
+
+(*b*) The company shall consult with the Irish Coast Guard before it makes regulations that apply to the Irish Coast Guard.
+
+(*c*) The company shall, in making regulations that apply to the Irish Coast Guard, have regard to—
+
+(i) the public benefit of the Irish Coast Guard,
+
+(ii) the need to balance safety regulation with the need to provide effective emergency aviation responses to medical emergencies, accidents and serious incidents within the State,
+
+(iii) the need to provide for greater specificity in relation to the regulatory framework for the oversight of aviation activities by and for the Irish Coast Guard, and
+
+(iv) any regulations made under *section 69A*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17, F18: Substituted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 2(b), commenced on enactment.
+>
+> F19: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 58(a), (b), S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C10: Activity under section deemed not unlawful as regards discrimination on grounds of age or disability (18.10.1999) by *Employment Equality Act 1998* (21/1998), s. 17(3)(e), S.I. No. 320 of 1999.
+>
+> **Compliance with statutory requirements etc.**
+>
+> **17.**— ...
+>
+> (3) In relation to discrimination on the age ground or the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision made by or under—
+>
+> ...
+>
+> (*e*) sections 5, 14, 58 and 60 of the Irish Aviation Authority Act, 1993.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E79: Power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Protected Area) Order 2005* (S.I. No. 777 of 2005), in effect as per art. 1(b).
+>
+> E80: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2004* (S.I. No. 856 of 2004), in effect as per art. 1(2).
+>
+> E81: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), in effect as per art. 1(2).
+>
+> E82: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft (Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E83: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E84: Power pursuant to section exercised (1.07.2002) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2002* (S.I. No. 220 of 2002), in effect as per art. 1.
+>
+> E85: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E86: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E87: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E88: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E89: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations)(Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E90: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E91: Previous affecting provision: power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Operations)(Amendment) Order 2003* (S.I. No. 388 of 2003), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E92: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E93: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E94: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E95: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E96: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E97: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+
+### 15. Conferral of additional functions on company.
+
+**15.**—The Minister may, if he so thinks fit, by order—
+
+(*a*) confer on the company such additional functions relating to civil aviation and connected with the functions for the time being of the company as he considers appropriate, and
+
+(*b*) make such provision as he considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the company of functions under this section or the performance by the company of functions so conferred.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Additional principal object prescribed (29.05.2020) by *European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020* (S.I. No. 195 of 2020), reg. 3(2).
+>
+> *Functions of Authority*
+>
+> 3\. (1) The Authority shall carry out the functions of the State under Articles 4, 5, 7, 8, 9, 13, 15 (other than paragraph (4)) and 16 (other than paragraphs (7), (8) and (12)) of Regulation (EU) No. 376/2014.
+>
+> (2) In addition to those set out in its memorandum of association under section 14(1) of the Irish Aviation Authority Act 1993 (No. 29 of 1993), the principal objects of the Authority shall also include the carrying out of the functions referred to in paragraph (1) and complying with Regulation (EU) No. 376/2014 and these Regulations.
+>
+> (3) The Authority shall take such steps under the Companies Act 2014 as may be necessary to alter its memorandum and articles of association to make them consistent with these Regulations.
+>
+> C12: Additional principal object prescribed (29.05.2012) by *European Union (Air Traffic Flow Management) Regulations 2012* (S.I. No. 175 of 2012), reg. 3(1).
+>
+> *Tasks of Authority*
+>
+> **3.** (1) In addition to those set out in its memorandum of association, under section 14(1) of the Irish Aviation Authority Act 1993 (No. 29 of 1993), the principal objects of the Authority shall also include the performance of air traffic flow management and capacity management for the purpose of the ATFM Regulation.
+>
+> (2) The Authority shall take such steps under the Companies Acts as may be necessary to alter its memorandum and articles of association to make them consistent with these Regulations.
+>
+> ...
+>
+> C13: Additional principal object prescribed (22.07.2008) by *European Communities (Harmonisation of Technical Requirements and Administrative Procedures in the Field of Civil Aviation) Regulations 2008* (S.I. No. 283 of 2008), reg. 3(1).
+>
+> **3.** (1) In addition to those set out in its memorandum of association, pursuant to section 14(1) of the Principal Act, the principal objects of the Authority shall also include the giving effect to the European Regulation.
+>
+> (2) The Authority shall take such steps under the Companies Acts as may be necessary to alter its memorandum and articles of association to make them consistent with these Regulations.
+>
+> ...
+>
+> C14: Additional principal object prescribed (28.09.2003) by *European Communities (European Aviation Safety Agency) Regulations 2003* (S.I. No. 469 of 2003), reg. 4(1), in effect as per reg. 2.
+>
+> **4.** (1) In addition to those set out at Section 14 (1) of the 1993 Act the principal objects of the Authority shall include-
+>
+> to give effect to the EASA Regulation.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E98: Power pursuant to section exercised (1.01.2013) by *European Communities (Civil Aviation Security) (Amendment) Regulations 2012* (S.I. No. 551 of 2012), in effect as per reg. 1(2).
+
+### 16. General duty of company.
+
+**16.**— (1) It shall be the general duty of the company—
+
+(*a*) to conduct its affairs so as to ensure that the revenues of the company are not less than sufficient taking one year with another to—
+
+(i) meet all charges and costs which are properly chargeable to its revenue account,
+
+(ii) generate the capital it requires, and
+
+(iii) remunerate its capital and pay interest on and repay its borrowings, and
+
+(*b*) to conduct its business at all times in a cost-effective and efficient manner.
+
+F20[(1A) (*a*) It shall be the duty of the company to provide such assistance and advice as the Minister may require it to provide for the Minister or any other person in connection with any of the Minister’s functions relating to civil aviation.
+
+(*b*) A requirement under *paragraph (a)* may be expressed as a continuing requirement in relation to a type of assistance or advice specified in the requirement.
+
+(*c*) It shall be the duty of the company to give the Minister such information as the Minister may specify and the company has or can reasonably be expected to obtain with respect to such matters relating to it or to civil aviation as the Minister may specify.
+
+(*d*) It shall be the duty of the company to permit the Minister to have access to all documents which are under its control and relate to matters specified pursuant to *paragraph (a)*, *(b)* or *(c)*.
+
+(*e*) The company shall be entitled to recover expenses reasonably incurred by it in providing assistance or advice to the Minister pursuant to this subsection.]
+
+(2) Nothing in *section 14* or this section shall be construed as imposing on the company, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 59, S.I. No. 220 of 2023.
+
+### 17. Articles of association.
+
+**17.**— (1) The articles of association of the company shall be in such form consistent with this Act as may be approved of by the Minister with the consent of the Minister for Finance.
+
+(2) F21[Subject to *subsection (3)*, the articles] of association of the company shall provide that—
+
+(*a*) the number of directors (including the chairman) shall be F21[7, 8 or 9];
+
+(*b*) the chairman and other directors shall be appointed and may be removed from office by the Minister with the consent of the Minister for Finance;
+
+(*c*) (i) subject to *subparagraph (ii)*, each director (including the chairman) shall be appointed for a period of F21[not more than 5 years] and shall be eligible for reappointment,
+
+(ii) of the first directors, other than the chairman, 2, who shall be selected by lot at the first meeting of the directors, shall hold office for a period of 1 year, 2, who shall be selected as aforesaid, shall hold office for a period of 2 years, 2, who shall be selected as aforesaid, shall hold office for a period of 3 years and 2, who shall be selected as aforesaid, shall hold office for a period of 4 years;
+
+(*d*) the directors may act notwithstanding one or more vacancies in their number;
+
+(*e*) the remuneration and allowances for expenses of the chairman and other directors shall be determined by the Minister with the consent of the Minister for Finance;
+
+(*f*) F22[...]
+
+(*g*) the company shall, in consultation with recognised trade unions and staff associations, establish machinery for the purposes of negotiations concerned with the pay and conditions of service of its staff;
+
+(*h*) the company may, with the approval of the Minister given with the consent of the Minister for Finance, acquire or establish subsidiaries or invest in other undertakings for the purpose of carrying out its objects as stated in its memorandum of association, and may assign any of its functions to subsidiaries;
+
+(*i*) the company shall not dispose of a subsidiary to which a function specified in *paragraphs (a)* to *(k)* of *section 14 (1)* stands assigned;
+
+(*j*) the aggregate amount standing invested (whether by the purchase of shares or the provision of loans or guarantees of loans) by the company in enterprises (including subsidiaries) shall not exceed £25,000,000 without the approval of the Minister given with the consent of the Minister for Finance, investments such as aforesaid by a subsidiary being regarded for the purposes of this paragraph as investments of the company.
+
+F23[(3) *Paragraphs (a)* and *(b)* of *subsection (2)* shall not apply to a director of the company who is such director by virtue of *section 38(6)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 60(a)(i), (ii), (iii), S.I. No. 220 of 2023.
+>
+> F22: Deleted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 60(a)(iv), S.I. No. 220 of 2023.
+>
+> F23: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 60(b), S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C15: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 18. Restriction on alteration of memorandum or articles of association.
+
+**18.**—Notwithstanding anything contained in the Companies Acts, 1963 to 1990, an alteration in the memorandum of association or articles of association of the company or of a subsidiary shall not be valid or effectual unless made with the prior approval of the Minister given with the consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C16: Application of section restricted (7.08.2025) by *European Union (ReFuelEU Aviation) (Competent Authorities) Regulations 2025* (S.I. No. 396 of 2025), regs. 3(2), (3).
+>
+> 3\. —...
+>
+> (2) The IAA shall —
+>
+> (a) alter its constitution to include as a principal object the object to perform the functions assigned to it in relation to the ReFuelEU Aviation Regulation, and
+>
+> (b) take such steps under the Act of 2014 as may be necessary to so alter its constitution.
+>
+> (3) Section 18 of the Act of 1993 shall not apply to the alteration referred to in paragraph (2).
+>
+> ...
+>
+> C17: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 19. Issue of shares, and creation of debt due, to Minister for Finance in consideration of transfer of property.
+
+**19.**— (1) The company shall issue to the Minister for Finance on the vesting day such number of shares in the share capital of the company as may be agreed upon by the Minister and the Minister for Finance and may from time to time thereafter issue to the Minister for Finance such number of shares of the company as may be so agreed upon.
+
+(2) The Minister shall, with the consent of the Minister for Finance, issue to the company on or before the vesting day a certificate stating the amount which in the opinion of the Minister represents the value of the property to be transferred to the company pursuant to *sections 77* , *78* and *79* on the vesting day.
+
+(3) On the vesting day an amount equal to the value of the property aforesaid less the nominal value of the shares of the company issued to the Minister for Finance under *subsection (1)* on the vesting day shall become and be a debt due by the company to the Minister for Finance and the debt shall be subject to such terms and conditions (including terms and conditions in relation to its repayment and payment of interest thereon) as may be determined by the Minister for Finance.
+
+(4) If property is transferred to the company under *section 77* after the vesting day, the Minister shall, with the consent of the Minister for Finance, issue as soon as may be to the company a certificate stating the amount which in his opinion represents the value of the property and, upon such issue, an amount equal to the amount aforesaid shall become and be a debt due by the company to the Minister for Finance and the debt shall be subject to such terms and conditions (including terms and conditions in relation to its repayment and payment of interest thereon) as may be determined by the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C18: Provision for transfer of shares issued to Minister for Finance under Act to Minister for Public Expenditure and Reform made and provision for references to the Minister for Finance to be construed as references to the Minister Public Expenditure and Reform made (4.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 16(4), commenced on enactment.
+>
+> **Transfer of property, etc. to Minister.**
+>
+> **16.**— ...
+>
+> (4) (*a*) Any shares or stock issued to the Minister for Finance by a public service body and registered in his or her name or held in trust on his or her behalf by any person, in accordance with a relevant enactment, shall on the appointed day, stand transferred to the Minister or be held in trust on behalf of the Minister, as may be appropriate, and from that day references in a relevant enactment to the Minister for Finance shall be construed as references to the Minister.
+>
+> (*b*) This subsection shall apply notwithstanding any restriction contained in any enactment in relation to the transfer or alienation of shares or stock to which a relevant enactment applies.
+>
+> (*c*) In this subsection—
+>
+> “Act of 2004” means the State Airports Act 2004 ;
+>
+> “relevant enactment” means— ...
+>
+> (vi) section 19 or 24 of the Act of 1993,
+>
+> ...
+
+### 20. Issue of share to Minister.
+
+**20.**— (1) The company shall issue to the Minister one share of one pound in the share capital of the company.
+
+(2) The Minister may exercise in respect of his share in the share capital of the company all the rights and powers of a holder of such shares and, where a right or power is exercisable by attorney, exercise it by his attorney.
+
+(3) The cost of such share shall be advanced to the Minister out of the Central Fund or the growing produce thereof.
+
+(4) The Minister shall not transfer or alienate his share in the share capital of the company.
+
+### 21. Issue of shares to subscribers to memorandum of association of company.
+
+**21.**— (1) The company shall issue one share of one pound in the share capital of the company to each of the subscribers to the memorandum of association of the company.
+
+(2) The cost of such shares shall be advanced to the subscribers out of the Central Fund or the growing produce thereof.
+
+### 22. Exercise of powers by Minister for Finance in respect of shares.
+
+**22.**—The Minister for Finance may, subject to this Act, exercise in respect of the shares of the company held by him all the rights and powers of a holder of such shares and, where a right or power is exercisable by attorney, exercise it by his attorney.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C19: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 23. Transfer by Minister for Finance of shares.
+
+**23.**— (1) The Minister for Finance may, from time to time as occasion requires, F24[...] transfer to any person one of his shares in the share capital of the company.
+
+(2) F24[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Deleted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 61(a), (b), S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C20: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 24. Obligation of certain shareholders to hold shares in trust.
+
+**24.**— (1) A member of the company to whom a share in the share capital of the company is issued under *section 21* or transferred under *section 23 (1)* or this section shall hold that share in trust for the Minister for Finance and shall accordingly be bound to pay all dividends and other money which he receives in respect of the share to the Minister for Finance for the benefit of the Exchequer and to transfer, as and when required by the Minister for Finance, the share to him or a person nominated in that behalf by him.
+
+(2) Save when required pursuant to *subsection (1)*, such member shall not transfer or alienate his share in the share capital of the company.
+
+(3) Upon the death of a member of the company referred to in *subsection (1)*, the share in the share capital of the company held by such member shall, without the necessity for a transfer, vest in the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C21: Provision for transfer of shares issued to Minister for Finance under Act to Minister for Public Expenditure and Reform made and provision for references to the Minister for Finance to be construed as references to the Minister Public Expenditure and Reform made (4.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 16(4), commenced on enactment.
+>
+> **Transfer of property, etc. to Minister.**
+>
+> **16.**— ...
+>
+> (4) (*a*) Any shares or stock issued to the Minister for Finance by a public service body and registered in his or her name or held in trust on his or her behalf by any person, in accordance with a relevant enactment, shall on the appointed day, stand transferred to the Minister or be held in trust on behalf of the Minister, as may be appropriate, and from that day references in a relevant enactment to the Minister for Finance shall be construed as references to the Minister.
+>
+> (*b*) This subsection shall apply notwithstanding any restriction contained in any enactment in relation to the transfer or alienation of shares or stock to which a relevant enactment applies.
+>
+> (*c*) In this subsection—
+>
+> “Act of 2004” means the State Airports Act 2004 ;
+>
+> “relevant enactment” means— ...
+>
+> (vi) section 19 or 24 of the Act of 1993,
+>
+> ...
+
+### 25. Payment of dividends, etc., into Exchequer.
+
+**25.**—All amounts representing dividends or other money received by the Minister for Finance in respect of shares held by him in the share capital of the company and all amounts representing repayment of or interest on repayable advances received or recovered by him from the company shall be paid into or disposed of for the benefit of the Exchequer in such manner as he may direct.
+
+### 26. Borrowing by company and subsidiaries.
+
+**26.**— (1) (*a*) Subject to the consent of the Minister and the Minister for Finance, the company or a subsidiary may, whether by means of the issue of debentures or otherwise, borrow money (including money in a currency other than the currency of the State) for capital purposes including working capital from persons other than the Minister for Finance.
+
+F25[(*b*) The aggregate at any time of borrowings under *paragraph (a)* shall not exceed—
+
+(i) such amount as the Minister has, with the consent of the Minister for Public Expenditure and Reform, specified by order, or
+
+(ii) if no such amount stands so specified, €40 million.]
+
+(2) The company or a subsidiary may borrow money (including money in a currency other than the currency of the State) temporarily but the aggregate standing unrepaid at any time of such borrowings shall not exceed such amount as may stand approved for the time being by the Minister and the Minister for Finance.
+
+(3) For the purposes of this section, moneys borrowed in a currency other than the currency of the State shall be deemed to be the equivalent in the currency of the State of the actual moneys borrowed, such equivalent being calculated at the rate of exchange prevailing at the time of the borrowing for that currency and the currency of the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 62, S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C22: Certain functions transferred to Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011 (10/2011)*, s. 9(2) and sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.**— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> PART I
+>
+> Functions performable with consent of Minister for Finance STATUTES
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Section 26</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 27. Guaranteeing by Minister for Finance of borrowing by company.
+
+**27.**— (1) In relation to borrowings by the company under *section 26* , the Minister for Finance, after consultation with the Minister, may guarantee, in such form and manner and in such money (including money in a currency other than the currency of the State) and on such terms and conditions as he thinks fit, the due repayment by the company of the principal of any money borrowed by the company or the due payment of instalments or other amounts of money owed by the company under a contract entered into by the company or the payment of interest on any money, instalment or amount or both the repayment of principal or payment of such instalments or amounts, as the case may be, and the payment of the interest, and any such guarantee may include a guarantee of payment of commission and incidental expenses arising in connection with such borrowings or such contract.
+
+(2) The Minister for Finance shall not so exercise the powers conferred on him by this section that the amount, or the aggregate amount, of money which he may at any one time be liable to pay on foot of any guarantee or guarantees under this section for the time being in force, together with the amount of money (if any) which he had previously paid on foot of any guarantee under this section and which has not been repaid by the company, F26[exceeds—
+
+(*a*) such amount as the Minister has, with the consent of the Minister for Public Expenditure and Reform, specified by order, or
+
+(*b*) if no such amount stands so specified, €32 million.]
+
+(3) For the purpose of calculating the amount of borrowings or instalments or other money guaranteed by the Minister for Finance under this section by reference to the limit on money in *subsection (2)*, the equivalent in the currency of the State of borrowings or instalments or other money in a foreign currency shall be calculated at the rate of exchange prevailing at the time of the giving of the guarantee for that currency and the currency of the State.
+
+(4) Where a guarantee under this section is or has been given, the company shall, if the Minister for Finance so requires, give to him such security (including, in particular, debentures) as may be specified in the requirement for the purpose of securing to the said Minister the repayment of any money which he may be liable to pay or has paid under the guarantee.
+
+(5) The Minister for Finance shall, as soon as may be after the expiration of every financial year, lay before each House of the Oireachtas a statement setting out with respect to each guarantee under this section given during that year or given at any time before, and in force at, the commencement of that year—
+
+(*a*) particulars of the guarantee,
+
+(*b*) in case any payment has been made by him under the guarantee before the end of that year, the amount of the payment and the amount (if any) repaid to him on foot of the payment, and
+
+(*c*) the amount of money covered by the guarantee which was outstanding at the end of that year.
+
+(6) Money paid by the Minister for Finance under a guarantee under this section shall be repaid to him (with interest thereon at such rate or rates as he appoints) by the company within such period from the date of payment by the Minister for Finance as may be specified by him after consultation with the company.
+
+(7) Where the whole or any part of the money required by *subsection (6)* to be repaid to the Minister for Finance has not been repaid in accordance with that subsection, the amount so remaining outstanding shall be repaid to the Central Fund out of moneys provided by the Oireachtas.
+
+(8) Notwithstanding the provision of money under *subsection (7)* to repay an amount to the Central Fund, the company shall remain liable to the Minister for Finance in respect of that amount and that amount (together with interest thereon at such rate or rates as the Minister for Finance appoints) shall be repaid to the Minister for Finance by the company at such times and in such instalments as he appoints and, in default of repayment as aforesaid and without prejudice to any other method of recovery, shall be recoverable by him from the company as a simple contract debt in any court of competent jurisdiction.
+
+(9) In relation to a guarantee under this section in money in a currency other than the currency of the State—
+
+(*a*) each of the references to principal, each of the references to instalments or other amounts of money, each of the references to interest and the reference to commission and incidental expenses in *subsection (1)* shall be taken as referring to the equivalent in the currency of the State of the actual principal, the actual instalments or other amounts of money, the actual interest or the actual commission and incidental expenses, as may be appropriate;
+
+(*b*) the reference to the amount of money in *subsection (5) (c)* shall be taken as referring to the equivalent in the currency of the State of the actual amount of money, such equivalent being calculated according to the rate of exchange prevailing for the time being for that currency and the currency of the State;
+
+(*c*) each of the references to money in *subsections (6)* to *(8)* shall be taken as referring to the cost in the currency of the State of the actual money.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 63, S.I. No. 220 of 2023.
+
+### 28. Loans by Minister for Finance to company for purposes of working capital.
+
+**28.**— (1) During the period of three years from the vesting day, the Minister for Finance may make loans to the company the aggregate amount of which standing unrepaid at any time shall not exceed £15,000,000.
+
+(2) A loan under this section shall be subject to such terms and conditions (including terms and conditions relating to the payment of interest on the loan and the repayment of the loan) as the Minister for Finance may determine.
+
+(3) Money lent to the company under this section shall be used by it as working capital.
+
+(4) Where money lent to the company under this section has not been repaid in accordance with the terms and conditions determined under *subsection (2)*, the amounts so remaining outstanding shall be repaid to the Central Fund out of moneys provided by the Oireachtas.
+
+(5) Notwithstanding the provision of money under *subsection (4)* to repay an amount to the Central Fund, the company shall remain liable to the Minister for Finance in respect of that amount and that amount (together with interest thereon at such rate or rates as the Minister for Finance appoints) shall be repaid to the Minister for Finance by the company at such times and in such instalments as he appoints and, in default of repayment as aforesaid and without prejudice to any other method of recovery, shall be recoverable by him from the company as a simple contract debt in any court of competent jurisdiction.
+
+### 28A. Advances and grants by Minister to company
+
+F27[**28A.**— (1) The Minister may, from time to time, with the consent of the Minister for Public Expenditure and Reform, advance or grant to the company out of moneys provided by the Oireachtas such sums as the Minister may determine for the purposes of expenditure by the company in the performance of its functions.
+
+(2) The sums to be advanced or granted under *subsection (1)* shall be expended solely for the purpose and exercise of the functions conferred on the company by this Act or as the Minister may direct.
+
+(3) The company shall pay to the Minister, on every sum advanced to it under this section, interest from the date of the advance of such sum until the same is repaid at such rate and in such manner as shall be appointed by the Minister at the time of the advance and at such rate as may be determined from time to time, and such rate of interest shall not at any time exceed that fixed by an order under section 20 of the Courts Act 1981.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 64, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E99: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 29. Provision of money for payments out of Central Fund.
+
+**29.**— (1) All money from time to time required by the Minister for Finance to meet sums which may become payable by him under *section 27* or *28* shall be advanced out of the Central Fund or the growing produce thereof.
+
+(2) The Minister for Finance may, for the purpose of providing for advances out of the Central Fund under this section, borrow on the security of the Central Fund or the growing produce thereof any sums required for the purpose and, for the purpose of such borrowing, he may create and issue securities bearing interest at such rate and subject to such conditions as to repayment, redemption or any other matter as he thinks fit, and shall pay all sums so borrowed into the Exchequer.
+
+(3) The principal of and interest on all securities issued under this section and the expenses incurred in connection with the issue of the securities shall be charged on and payable out of the Central Fund or the growing produce thereof.
+
+### 29A. Statement of strategy
+
+F28[**29A.**— (1) Subject to *subsection (2)*, the company shall—
+
+(*a*) as soon as is practicable after the commencement of section 65 of the Air Navigation and Transport Act 2022 but, in any case, not later than 6 months after that commencement, and
+
+(*b*) thereafter, not earlier than 6 months before and not later than 6 months later than each subsequent period of 3 years following the laying before each House of the Oireachtas in accordance with *subsection (4)* of the first statement of strategy,
+
+prepare and submit to the Minister for the Minister’s approval a statement of strategy for the company for the ensuing period of 3 years.
+
+(2) A statement of strategy shall—
+
+(*a*) comply with any directions issued from time to time by the Minister in respect of the form and manner of the statement’s preparation,
+
+(*b*) set out the key objectives, outputs and related strategies of the company for performing its functions under this Act during the period to which the statement relates, including the use of resources,
+
+(*c*) have regard to the need to ensure the most beneficial, effective and efficient use of the company’s resources,
+
+(*d*) identify the relevant performance indicators (financial and non-financial) and specify the manner in which the company proposes to assess its performance in respect of the objectives, outputs and strategies referred to in *paragraph (b)*,
+
+(*e*) except for the first statement of strategy, include a review of the outcomes and effectiveness of the preceding statement of strategy, and
+
+(*f*) include any other matters that the Minister may from time to time direct.
+
+(3) When preparing the statement of strategy, the company shall consult with stakeholders and may consult with any other persons it considers appropriate.
+
+(4) The Minister shall, as soon as is practicable after a statement of strategy has been submitted to him or her in accordance with *subsection (1)* and he or she has approved it, cause a copy of the statement to be laid before each House of the Oireachtas.
+
+(5) The company shall, as soon as practicable after the statement of strategy has been laid before each House of the Oireachtas, arrange for the statement to be published on the internet.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 65, S.I. No. 220 of 2023.
+
+### 29B. Business plan
+
+F29[**29B.**— (1) Subject to *subsections (2)* and *(3)*, the company shall, in each year—
+
+(*a*) prepare and adopt a business plan in respect of that year or of such other period as may be determined by the Minister, and
+
+(*b*) submit the plan to the Minister.
+
+(2) A business plan shall—
+
+(*a*) indicate the activities of the company for the period to which the business plan relates,
+
+(*b*) contain estimates of the number of—
+
+(i) employees of company, and
+
+(ii) staff members of the company who are not employees of the company,
+
+for the period and the business to which the plan relates, and
+
+(*c*) accord with policies and objectives of the Minister and the Government as they relate to the functions of the company.
+
+(3) The company shall, in preparing the business plan, have regard to the statement of strategy in operation at that time as approved under *section 29A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 65, S.I. No. 220 of 2023.
+
+### 30. Accounts and audits.
+
+F30[**30.** (1) Without prejudice to the requirements of the Companies Act 2014, the company shall keep, in such form as may be approved of by the Minister with the consent of the Minister for Public Expenditure and Reform, all proper and usual accounts and shall also keep in such form all such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept pursuant to this section shall be submitted annually by the company to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the accounts so audited and a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+
+(3) A subsidiary of the company may, subject to the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform following prior consultation by the Minister with the Comptroller and Auditor General, appoint a statutory auditor or statutory audit firm to be a statutory auditor of the subsidiary for the purposes of, and in accordance with, the Companies Act 2014 .
+
+(4) In this section, "statutory auditor" and "statutory audit firm" each has the same meaning as it has in the Companies Act 2014.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 66, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E100: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+
+### 31. Annual report and furnishing of information to Minister.
+
+**31.**— (1) Not later than 6 months after the end of each accounting year, the company shall submit a report in writing to the Minister of its activities and those of any subsidiaries during that year and, not later than 3 months after such submission, the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) A report of the company under this section shall include information, in such form as the Minister may direct after consultation with the company and with the consent of the Minister for Finance, regarding the operations, cost-effectiveness and financial targets of the company and any subsidiaries.
+
+(3) The company shall, if so required by the Minister, furnish to him such information as he may require in respect of any balance sheet or other account or any report of the company or any subsidiaries or in relation to the policy and operations (other than day-to-day operations) of the company or any subsidiaries.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C23: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 32. Reports by company on its technical and safety standards.
+
+**32.**— (1) The company shall, in the period ending 3 years after the vesting day and subsequently, whenever so required by the Minister, submit to him a report in writing specifying the general technical and safety standards in relation to aircraft and air navigation that it applies and enforces in the performance of its functions.
+
+(2) Whenever, after the submission of a report to the Minister under *subsection (1)*, the Minister so requests the company shall submit to the Minister a report in writing specifying the extent (if any) to which the standards achieved and enforced by the company, since the date of the submission of the first-mentioned report to the Minister, differ from the technical and safety standards standing specified in that report.
+
+(3) F31[(*a*) (i) Subject to *paragraph (aa)*, the Minister shall, at least once in the period of 3 years beginning on the relevant day and in each subsequent period of 3 years beginning on the expiration of the last previous period, appoint a person to carry out an examination of the performance by the company of its functions in so far as they relate to the application and enforcement of technical and safety standards in relation to aircraft and air navigation and to report in writing to the Minister the results of the examination.
+
+(ii) In *subparagraph (i)*, "relevant day" means the last day on which a report under this subsection was submitted to the Government and the company before the commencement of section 67 of the Air Navigation and Transport Act 2022.]
+
+F32[(*aa*) The Minister may make regulations to specify any of the following:
+
+(i) any aspect of the company’s performance of its functions which shall be the subject of an examination referred to in *paragraph (a)*;
+
+(ii) the scope of such examination;
+
+(iii) the form and manner of the report under *paragraph (a)*.]
+
+F33[(*ab*) Regulations made under *paragraph (aa)* may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.]
+
+(*b*) The Minister shall submit a copy of a report under *paragraph (a)* to the Government and the company.
+
+F33[(*bb*) The Minister shall cause a copy of the report under *paragraph (a)* to be published on a website of the Government.]
+
+(*c*) The costs of an examination and report under *paragraph (a)* shall be paid to the Minister by the company.
+
+(*d*) A director or member of the staff of the company shall not be appointed under *paragraph (a)* and a person standing appointed under *paragraph (a)* shall be disqualified for appointment as a director or member of the staff of the company.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 67(a), S.I. No. 220 of 2023.
+>
+> F32, F33: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 67(a), (b), S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E101: Power pursuant to subs. (3)(aa) exercised (3.10.2024) by *Examination of the Irish Aviation Authority (Application and Enforcement of Technical and Safety Standards) Regulations 2024* (S.I. No. 509 of 2024).
+
+### 32A. Annual aviation safety performance statements
+
+F34[**32A.**— (1) The company shall, not later than 30 April in each year commencing from 2022, prepare and submit to the Minister a statement relating to its performance in regulating aviation safety (in this section called an "aviation safety performance statement").
+
+(2) An aviation safety performance statement shall be in 2 parts as follows:
+
+(*a*) details, including the aims and objectives, of regulatory activity planned for the current year (in this subsection called a "regulatory performance plan");
+
+(*b*) a review of the company’s regulatory performance during the preceding year having regard to the regulatory performance plan for that year and any other relevant matters.
+
+(3) The review of the company’s regulatory performance required by *subsection (2)(b)* shall include details of the activities carried out during the relevant year and the outcome and follow up from external oversight in relation to—
+
+(*a*) the European Aviation Safety Programme referred to in Article 5 of the EASA Basic Regulation,
+
+(*b*) the safety programme established and maintained by the State pursuant to Article 7 of the EASA Basic Regulation,
+
+(*c*) the State Plan for Aviation Safety prepared pursuant to Article 8 of the EASA Basic Regulation,
+
+(*d*) the annual review of aviation safety performance in the State prepared by the company, and
+
+(*e*) the Universal Safety Oversight Audit Programme of the International Civil Aviation Organization.
+
+(4) An aviation safety performance statement shall be in the form, and relate to the matters, that the Minister directs.
+
+(5) The Minister shall, within one month after receiving an aviation safety performance statement, lay it before each House of the Oireachtas.
+
+(6) In this section, "EASA Basic Regulation" means Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018[^1] on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 68, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E102: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 33. Disclosure by directors of certain interests.
+
+**33.**— (1) Where at a meeting of the directors of the company or any subsidiary any of the following matters arises, namely—
+
+(*a*) an arrangement to which the company or a subsidiary is a party or a proposed such arrangement,
+
+(*b*) a contract or other agreement with the company or a subsidiary or a proposed such contract or other agreement,
+
+(*c*) the giving, grant or renewal by the company or a subsidiary of a certificate, licence, authorisation or instrument of approval, or
+
+(*d*) the revocation, cancellation, withdrawal, suspension or endorsement by the company or a subsidiary of a certificate, licence, authorisation or instrument of approval, given or granted—
+
+(i) by the company or a subsidiary, or
+
+(ii) by the Minister under a provision of, or made under, the Acts,
+
+then, any director of the company or the first-mentioned subsidiary present at the meeting who otherwise than in his capacity as such a director is in any way, whether directly or indirectly, interested in the matter—
+
+(I) shall at the meeting disclose to the company or the first-mentioned subsidiary the fact of such interest and the nature thereof,
+
+(II) shall absent himself from the meeting or that part of the meeting during which the matter is discussed,
+
+(III) shall take no part in any deliberations of the directors relating to the matter, and
+
+(IV) shall not vote on a decision relating to the matter.
+
+(2) Where an interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the director by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(3) Where at a meeting of the directors of the company or a subsidiary a question arises as to whether or not a course of conduct, if pursued by a director of the company or the subsidiary, would constitute a failure by him to comply with the requirements of *subsection (1)*, the question may be determined by the chairman of the meeting whose decision shall be final and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(4) Where the Minister is satisfied that a director has contravened *subsection (1)*, he may, if he thinks fit, and with the consent of the Minister for Finance, remove that director from office and, in case a person is removed from office pursuant to this subsection, he shall thenceforth be disqualified from being a director of the company or a subsidiary.
+
+(5) Section 194 of the Companies Act, 1963, shall not apply to a director of the company or a subsidiary.
+
+(6) A person who fails to comply with this section shall be guilty of an offence.
+
+(7) Nothing in this section shall be taken to prejudice the operation of any rule of law restricting directors of a company from having any interest in contracts with the company.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C24: Functions under subs. (4) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 34. Disclosure by members of staff of certain interests.
+
+**34.**— (1) (*a*) Where a member of the staff of the company or a subsidiary has an interest, otherwise than in his capacity as such a member, in any contract, agreement or arrangement, or proposed contract, agreement or arrangement, to which the company or the subsidiary is a party or in a matter referred to in *paragraph (c)* or *(d)* of *section 33 (1)*, he shall—
+
+(i) disclose to the company or the subsidiary, as the case may be, his interest and the nature thereof,
+
+(ii) take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by directors or members of the staff of the company or the subsidiary in relation thereto or in relation to the matter aforesaid, and
+
+(iii) make no recommendation in relation to the contract, agreement or arrangement or the matter aforesaid.
+
+(*b*) *Paragraph (a)* does not apply to contracts, or proposed contracts, of employment of members of the staff of the company with the company or of a subsidiary with a subsidiary.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+### 35. Prohibition on unauthorised disclosure of information.
+
+**35.**— (1) A person shall not disclose confidential information obtained by him while performing duties as a director or member of the staff of, or an adviser or consultant to, the company or a subsidiary unless he is duly authorised by the company or the subsidiary, as the case may be, or by a member of the staff of the company or the subsidiary, as the case may be, duly authorised in that behalf, to do so.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+(3) In this section “ confidential ” means that which is expressed by the company or the subsidiary concerned, as the case may be, to be confidential either as regards particular information or as regards information of a particular class or description.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C25: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.**—(1) A head shall refuse to grant an FOI request if—(a) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of Part 1 or 2 of Schedule 3of an enactment specified in that Schedule), or
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Enactments Excluded from Application of *Section 41*
+>
+> PART I
+>
+> Statutes
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Section 35</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E103: Previous affecting provision: person holding record under section excluded from requirement to refuse an FOI request (21.04.1998) by *Freedom of Information Act 1997* (13/1997), s. 32 and sch. 3, commenced pursuant to s. 1(2); revoked (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced on enactment, subject to savings and transitional provisions in ss. 6(1)(h), 43(1) and 55.
+
+### 36. Decisions by company in relation to technical and safety standards of aircraft and air navigation.
+
+**36.**— (1) Before making a decision in relation to or affecting technical or safety standards in relation to aircraft or air navigation or otherwise affecting or likely to affect the safety of civil aviation, the directors of the company shall obtain and consider the opinion of the Chief Executive in relation to the matter to be decided.
+
+(2) Where, in the opinion of the Chief Executive, the implementation of a decision of the directors of the company would contravene the technical or safety standards referred to in *section 32* or otherwise adversely affect the safety of civil aviation, the following provisions shall have effect:
+
+(*a*) the Chief Executive shall inform the directors of his opinion aforesaid and upon being so informed, the directors shall refrain from implementing the decision,
+
+(*b*) the relevant proceedings of the meetings at which the question decided was considered and the decision was taken shall be recorded in the minutes of the meetings,
+
+(*c*) the chairman of the company shall inform the Minister of the decision and of the opinion of the Chief Executive in relation thereto,
+
+(*d*) the Minister shall be furnished by the company with such information relating to the matter as he may reasonably request, including records, minutes and other material and shall also be furnished by the Chief Executive or any director with such information or explanations as he may reasonably request and the Minister may furnish a person appointed under *paragraph (f)* to examine the decision with any information or explanations furnished to him under this paragraph,
+
+(*e*) the Minister, after consultation with the chairman of the company and the Chief Executive, shall, if he considers it necessary or expedient to do so, direct the company to take such action (pending the submission to the Minister of the report under *paragraph (f)* and compliance with any direction under *paragraph (g)* in relation to the matter) as he may specify for the maintenance of the standards aforesaid or the safety of civil aviation,
+
+(*f*) the question decided by the directors and the decision shall be examined by a person appointed by the Minister, with the consent of the Minister for Finance who, in the opinion of the Minister, is suitably qualified and the person shall submit to the Minister and the company a report of the result of his examination and the report shall include a recommendation as to the decision that, in his opinion, should be taken by the directors of the company on the question and the reasons for the recommendation,
+
+(*g*) the Minister, having considered the recommendation, may—
+
+(i) direct the directors to make and implement such decision as he may specify on the question, or
+
+(ii) direct the directors to consider the recommendation and make such decision as they think fit,
+
+and the directors shall comply with the direction.
+
+(3) The company shall pay to the Minister the costs of an examination and recommendation under *subsection (2) (f)*.
+
+(4) (*a*) Unless authorised by the Minister to do so, a person shall not disclose that the provisions of *subsection (2)* have had effect in relation to a decision of the directors of the company or that a decision to which that subsection applies has been made.
+
+(*b*) A person who contravenes *paragraph (a)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C26: Functions under subs. (2)(f) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 37. Membership of either House of Oireachtas or European Parliament.
+
+**37.**— (1) Where a director of the company is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to such Parliament to fill a vacancy,
+
+he shall thereupon cease to be a director of the company.
+
+(2) Where a person employed by the company is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to the said section 15 as having been elected to such Parliament to fill a vacancy,
+
+he shall thereupon stand seconded from employment by the company and shall not be paid by, or be entitled to receive from, the company any remuneration or allowances in respect of the period commencing on such nomination or election, or when he is so regarded as having been elected (as the case may be), and ending when he ceases to be a member of either such House or such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he is so entitled or is such a member, be disqualified for becoming a director of the company or for employment in any capacity by the company.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting the reckoning of a period therein mentioned as service with the company for the purpose of any pensions, gratuities or other allowances payable on resignation, retirement or death.
+
+### 38. Chief Executive.
+
+**38.**— (1) There shall be a chief executive of the company (who shall be known as and is referred to in this Act as “ the Chief Executive ”).
+
+F35[(2) The first Chief Executive appointed after the commencement of section 69 of the Air Navigation and Transport Act 2022 shall be appointed by the Minister for a period not exceeding 7 years and may, after consultation with the directors of the company, be removed from office by the Minister.]
+
+F36[(3) Each subsequent Chief Executive shall be appointed by the Minister, after consultation with the directors of the company, for a period not exceeding 7 years and may, after consultation with such directors, be removed from office by the Minister.]
+
+(4) F37[...]
+
+(5) The functions of the Chief Executive shall be to—
+
+(*a*) carry on, manage and control generally the administration of the company,
+
+(*b*) advise the directors of the company on any matter relating to or affecting the technical or safety standards specified under *section 32* or the safety of civil aviation, and
+
+(*c*) advise the directors of the company in relation to the performance of the other functions of the company and, in particular, but without prejudice to the generality of the foregoing, in relation to the making of orders and regulations, and the giving of directions, by the company,
+
+subject to the lawful directions of the directors of the company.
+
+(6) The Chief Executive shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration and allowances) as may be determined by the directors of the company after consultation with the Minister and with the consent of the Minister for Finance.
+
+F38[(7) Each Chief Executive appointed after the commencement referred to in *subsection (2)* shall be *ex officio* a director of the company.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35, F36: Substituted (15.02.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 69(a), S.I. No. 65 of 2023.
+>
+> F37: Deleted (15.02.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 69(a), S.I. No. 65 of 2023.
+>
+> F38: Inserted (15.02.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 69(b), S.I. No. 65 of 2023.
+
+### 39. Remuneration, etc., of staff.
+
+F39[**39.**— (1) The company may appoint such and so many persons to be members of its staff as it considers necessary to assist it in the performance of its functions on such terms and conditions including terms and conditions as to remuneration and grading as may be agreed.
+
+(2) The company shall, in determining the remuneration or allowances for expenses to be paid to members of its staff or the other terms or conditions subject to which such members hold or are to hold their employment, have regard to Government or nationally agreed guidelines which are for the time being extant or to Government policy concerning remuneration and conditions of employment which is so extant.
+
+(3) The company shall, in addition to complying with *subsection (2)*, comply with any directives with regard to such remuneration, allowances, terms or conditions referred to in that subsection which the Minister may give to the company with the consent of the Minister for Public Expenditure and Reform.
+
+(4) The company shall submit to the Minister, on an annual basis, a three‑year workforce plan that sets out forecast staffing levels for the organisation, as approved by the company.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 70, S.I. No. 220 of 2023.
+
+### 40. Transfer of staff of Minister to company.
+
+**40.**— (1) Every person who is on the day immediately before the vesting day a member of the staff of the Air Navigation Services Office of the Department of Transport, Energy and Communications and is designated by the Minister for employment by the company shall, on the vesting day, be transferred to and become a member of the staff of the company.
+
+(2) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person referred to in *subsection (1)* shall not, while in the service of the company, be brought to less beneficial conditions of service (including conditions in relation to tenure of office) or of remuneration than the conditions of service (including conditions in relation to tenure of office) or remuneration to which he was subject immediately before the vesting day.
+
+(3) In relation to persons transferred to the company under *subsection (1)*, previous service in the civil service shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1991, the Holidays (Employees) Acts, 1973 and 1991, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, and the Unfair Dismissals Acts, 1977 to 1993.
+
+### 41. Superannuation.
+
+**41.**— (1) The company shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such members of the staff of the company as it may think fit.
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every such scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
+
+(4) A scheme submitted by the company under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the company in accordance with its terms.
+
+(5) Superannuation benefits granted under schemes under this section to persons who, immediately before the vesting day, were members of the staff of the Minister for Transport, Energy and Communications and the terms and conditions relating to those benefits shall not be less favourable to those persons than those to which they were entitled immediately before that day.
+
+(6) No superannuation benefit shall be granted by the company nor shall any other arrangements be entered into by the company for the provision of such a benefit to or in respect of a member of the staff of the company otherwise than in accordance with a scheme under this section.
+
+(7) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, for determination by him.
+
+(8) Where, in the period beginning on the vesting day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who was transferred to the staff of the company under *section 40* , the benefit shall be calculated by the company in accordance with such scheme, or such enactments in relation to superannuation, as applied to the person immediately before the vesting day and, for that purpose, his pensionable service with the company shall be aggregated with his previous pensionable service and shall be paid by the company out of the fund established under *subsection (9)*.
+
+(9) As soon as may be after the vesting day, the company shall establish a fund administered by trustees who shall be appointed by the company from which superannuation benefits payable under a scheme under this section shall be paid.
+
+(10) The Minister for Finance shall determine an appropriate contribution, related to reckonable service given before the vesting day, towards the superannuation benefits which may be granted to or in respect of persons who are transferred to the staff of the company under *section 40* and shall, subject to *subsection (12)*, pay such contribution to the trustees appointed under *subsection (9)* at such times and in such manner as he shall determine.
+
+(11) Where any part of the contribution under *subsection (10)* remains unpaid for any period after the vesting day, interest shall be payable by the Minister for Finance to the trustees appointed under *subsection (9)* at such rate as the Minister for Finance may determine in respect of that period on the amount so unpaid.
+
+(12) Payments under *subsection (10)* or *(11)* shall be made not later than 7 years after the vesting day.
+
+(13) Moneys required to be paid by the F41[Minister for Public Expenditure and Reform] under this section shall be advanced out of the Central Fund or the growing produce thereof F42[by the Minister for Finance, on the request of the Minister for Public Expenditure and Reform].
+
+(14) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40, F41: Substituted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 73(a), S.I. No. 401 of 2011.
+>
+> F42: Inserted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 73(b), S.I. No. 401 of 2011.
+
+### 42. Acquisition of land.
+
+F44[**42.**— (1) The company may acquire by agreement or, in accordance with the Second Schedule to the Air Navigation and Transport (Amendment) Act, 1998 (as applied by this section) compulsorily, any land or any easement or other right over land, or any water right, for the purpose of the performance of the functions conferred on it by this Act.
+
+(2) Notwithstanding the provisions of any other Act, no person shall be entitled to acquire compulsorily any land or any easement or other right in respect of land belonging to the company, or to alienate, terminate, restrict or otherwise interfere with, without the agreement of the company, any right of the company in respect of such land.
+
+(3) The company shall not be entitled to acquire compulsorily under this section any land, easement or other right belonging to the State or a State authority.
+
+(4) The Second Schedule to the Air Navigation and Transport (Amendment) Act, 1998, shall, for the purposes of the acquisition of land by the company under this section, apply with the following modifications:
+
+(*a*) the reference in subparagraph (1) of paragraph 1 to "section 17" shall be construed as a reference to this section, and
+
+(*b*) a reference to "the company" shall be construed as a reference to the Irish Aviation Authority.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43, F44: Substituted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 62, S.I. No. 327 of 1998.
+
+### 42A. Right of entry on land by Authority.
+
+F46[**42A.**— Section 19 of the Air Navigation and Transport (Amendment) Act, 1998, shall, for the purposes of this Act, apply subject to the following modifications:
+
+(*a*) references to an "authorised person" shall be construed as references to an authorised officer of the company, and
+
+(*b*) references to "the company" shall be construed as references to the company within the meaning of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45, F46: Inserted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 63, S.I. No. 327 of 1998.
+>
+> **Editorial Notes:**
+>
+> E104: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 43. Charges by company in respect of air navigation and aeronautical communications services.
+
+**43.**—F47[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Repealed (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 8(1), S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E105: Previous affecting provision: references to Aer Rianta and Dublin Airport Authority under section or any instrument made under section construed (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 33(4), commenced on enactment; section repealed as per F-note above.
+>
+> E106: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 2005* (S.I. No. 776 of 2005), in effect as per art. 1; section repealed as per F-note above.
+>
+> E107: Previous affecting provision: subs. (1) amended (21.02.2001) by *Aviation Regulation Act 2001* (1/2001), s. 37, commenced on enactment; section repealed as per F-note above.
+>
+> E108: Previous affecting provision: power pursuant to section exercised (1.07.2000) by *Irish Aviation Authority (Terminal Charges) Regulations 2000* (S.I. No. 202 of 2000), in effect as per reg. 1; section repealed as per F-note above.
+>
+> E109: Previous affecting provision: power pursuant to section exercised (1.02.1999) by *Irish Aviation Authority (Terminal Charges) Regulations 1999* (S.I. No. 23 of 1999), in effect as per reg. 1; revoked (1.07.2000) by *Irish Aviation Authority (Terminal Charges) Regulations 2000* (S.I. No. 202 of 2000),art. 7, in effect as per reg. 1.
+>
+> E110: Previous affecting provision: power pursuant to section exercised (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), in effect as per reg. 1; revoked (1.01.2006) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 2005* (S.I. No. 776 of 2005), art. 7 in effect as per art. 1.
+>
+> E111: Previous affecting provision: power pursuant to section exercised (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), in effect as per reg. 1; revoked (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), art. 7, in effect as per reg. 1.
+>
+> E112: Previous affecting provision: power pursuant to section exercised (21.01.1997) by *Irish Aviation Authority (Eurocontrol) (Route Charges) (Amendment) Regulations 1997* (S.I. No. 44 of 1997), in effect as per reg. 1(1); revoked (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), art. 7, in effect as per reg. 1.
+>
+> E113: Previous affecting provision: power pursuant to section exercised (1.01.1996) by *Irish Aviation Authority (Terminal Charges) Regulations 1995* (S.I. No. 378 of 1995), in effect as per reg. 1; revoked (1.02.1999) by *Irish Aviation Authority (Terminal Charges) Regulations 1999* (S.I. No. 23 of 1999), reg. 8, in effect as per reg. 1.
+>
+> E114: Previous affecting provision: power pursuant to section exercised (1.01.1995) by *Irish Aviation Authority (Eurocontrol) (Route Charges) Regulations 1994* (S.I. No. 456 of 1994), in effect as per reg. 1(1); revoked (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), art. 7, in effect as per reg. 1.
+
+### 44. Other charges by company.
+
+F48[**44.**— (1) The company may charge such amounts as it considers appropriate in respect of any of the following:
+
+(*a*) the performance by it of its functions under this Act or any other enactment;
+
+(*b*) services provided by it to other persons;
+
+(*c*) property, real or personal, sold, hired or leased by it to other persons.
+
+(2) The company may charge such amounts as it considers appropriate in respect of any functions performed by it pursuant to any European Union Regulations listed in *Schedule 2*.
+
+(3) Any amount due by a person to the company in respect of a charge under this section may be recovered by the company from the person as a simple contract debt in any court of competent jurisdiction.
+
+(4) Regulations made under section 23 of the Aviation Regulation Act 2001 and in force immediately before the commencement of section 8(2) of the Air Navigation and Transport Act 2022 shall continue in force on and after that commencement as if—
+
+(*a*) references in that section to the Commission for Aviation Regulation were references to the company, and
+
+(*b*) references in those Regulations to such Commission included references to the company,
+
+and *subsection (5)* shall be construed accordingly.
+
+(5) The company may, by regulations made under section 23 of the Aviation Regulation Act 2001, revoke regulations referred to in *subsection (4)*, whether in whole or in part, to take account of when a charge under this section supersedes a levy under that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 71, S.I. No. 220 of 2023.
+
+### 45. Recoupment by Minister of certain costs of company.
+
+**45.**— (1) (*a*) The Minister may, with the consent of the Minister for Finance, give a direction to the company—
+
+(i) requiring the company to exempt specified classes of users of aeronautical communications services, or specified aeronautical communications services, provided by the company from the payment of fees or charges to the company for the provision of those services, or
+
+(ii) requiring the company, in accordance with the International Civil Aviation Organisation and Eurocontrol charging principles, to provide by regulations under *section 43* or by order under *section 60 (1) (j)* as may be appropriate, for the exemption from the payment to the company of charges or fees imposed under *section 43* or *60 (1) (j)*, as the case may be, for the provision by it of air navigation services or aeronautical communications services or the performance by it of functions specified in *section 14 (1) (h)* in respect of specified classes of flights by aircraft or specified classes of persons.
+
+(*b*) The company shall comply with a direction under this subsection.
+
+(*c*) The Minister shall pay to the company an amount equal to the amount of any costs incurred by it in the provision of services or the performance of functions to which an exemption specified in a direction under this subsection relates.
+
+(2) Payments under this section shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+(3) In this section “ the International Civil Aviation Organisation and Eurocontrol charging principles ” means the principles specified in and developed under and in accordance with the provisions of Article 15 of the Chicago Convention and any amendment thereof whether made before or after the commencement of this section and the principles specified in the document entitled “ Conditions of Application of the Route Charges Systems and Conditions of Payment ” reference doc. 90.60.04, published by Eurocontrol and any amendment thereof, whether made before or after the commencement of this Act.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C27: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 29 of 1993</td><td>Irish Aviation Authority Act 1993</td><td>Sections 8, 9, 12, 13, 17, 18, 22, 23, 30, 31, 33(4), 36(2)(f) and 45</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 45A. Detention and sale of aircraft by Authority for unpaid air navigation and aeronautical communications services charges.
+
+F49[**45A.**— Section 40 of the Air Navigation and Transport (Amendment) Act, 1998, shall for the purposes of this Act, apply subject to the following modifications:
+
+(*a*) references (other than in paragraph (c) of subsection (9) and subsection (10)) to "charges imposed by the company under section 39"’ or to "charges" shall be construed as references to charges imposed or levied under *section 43* or *44*, and
+
+(*b*) references (other than in the said paragraph (c)) to "the company" shall be construed as references to the company within the meaning of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 64, S.I. No. 327 of 1998.
+>
+> **Editorial Notes:**
+>
+> E115: The section heading is taken from the amending section in absence of one included in the amendment.
+
+## PART III Provisions in relation to Eurocontrol Convention — PART III — Provisions in relation to Eurocontrol Convention
+
+### 46. Power of Minister to give effect to Eurocontrol Convention.
+
+**46.**—Subject to *section 5 (6)*, the Minister may make such orders as appear to him necessary or expedient for carrying out and giving effect to, or to any provision of, the Eurocontrol Convention F50[...].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Deleted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(a), commenced on enactment.
+
+### 47. Power of company to give effect to Eurocontrol Convention.
+
+**47.**—The company may, with the consent of the Minister, make such orders in relation to matters to which functions of the company relate as appear to it to be necessary or expedient for carrying out and giving effect to, or to any provision of, the Eurocontrol Convention F51[...].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Deleted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(b), commenced on enactment.
+
+### 48. Status and privileges of Eurocontrol and privileges of its personnel.
+
+**48.**— (1) Eurocontrol shall have the legal capacity of a body corporate and anything which may be required or authorised by law to be done by or to Eurocontrol may be done by or to the Agency on behalf of Eurocontrol.
+
+(2) Eurocontrol shall be entitled to—
+
+(*a*) the like exemption or relief from taxes and rates, other than taxes on the importation of goods or taxes or duties which form part of the price of goods sold, as is accorded to a foreign sovereign state,
+
+(*b*) exemption, subject to compliance with such conditions as the Revenue Commissioners may prescribe, from taxes on the importation of goods directly imported by Eurocontrol for its official use in the State or for exportation, or on the importation of any publications of Eurocontrol directly imported by it, and
+
+(*c*) exemption from prohibitions and restrictions on importation or exportation in the case of goods directly imported or exported by Eurocontrol for its official use and in the case of any publications of Eurocontrol directly imported or exported by it.
+
+(3) Subject to *subsection (4)*, any rule of law relating to the inviolability of the official archives and premises of an envoy of a foreign sovereign state accredited to the President shall extend to the official archives of Eurocontrol and to premises occupied by Eurocontrol wholly or mainly for the housing of its installations and, without prejudice to the generality of the foregoing provisions, no judgment or order of any court shall be enforced by the levying of execution upon anything forming part of any such installations.
+
+(4) *Subsection (3)* (except so far as it relates to execution) shall not preclude access to any premises, or the inspection of any record or document—
+
+(*a*) by a member of the Garda Síochána or other person acting in the execution of a warrant or other legal process or having reason to believe that an offence has been, is being or is about to be committed on the premises, or
+
+(*b*) by any person investigating an accident or other incident in pursuance of the Acts or this Act or an order or regulation under the Acts or this Act.
+
+(5) Persons employed by Eurocontrol in the State shall be entitled to exemption from customs duties and charges, other than those in respect of services rendered, in the case of importation of their personal effects, movable property and other household effects which are not new and which they bring into the State on first taking up residence in the State for the purpose of such employment and in the case of exportation of those effects and property upon their ceasing to be employed by Eurocontrol in the State.
+
+(6) Persons employed by Eurocontrol shall enjoy inviolability for their official papers and documents.
+
+(7) The Director General of the Agency shall enjoy immunity from jurisdiction in respect of acts, other than acts which would constitute a road traffic offence or acts whereby damage is caused by a motor vehicle belonging to, or driven by, him, but including words spoken or written.
+
+(8) Representatives of member states of Eurocontrol shall, whilst exercising their functions, and in the course of any journey to or from a meeting of Eurocontrol, enjoy inviolability for their official papers and documents.
+
+(9) In this section “ installations ” means apparatus for locating, directing, affording navigational aid to, or otherwise communicating with aircraft in flight, including apparatus for recording or processing material received or transmitted by such apparatus, and any other apparatus for use in connection with any such apparatus as aforesaid.
+
+### 49. Venue for proceedings for recovery of sums due to Eurocontrol.
+
+**49.**— (1) Proceedings for the recovery of a sum due by a person to Eurocontrol in respect of air navigation services or aeronautical communications services provided by Eurocontrol or any other person shall be brought—
+
+(*a*) if the residence or, as the case may be, the registered office of the first-mentioned person, is situated in a contracting state, in that state,
+
+(*b*) if his residence or, as the case may be, his registered office is not situated in a contracting state, in any contracting state in which the person has a place of business,
+
+(*c*) if his residence or, as the case may be, his registered office is not situated, and he has no place of business, in a contracting state, in any contracting state in which he has assets, or
+
+(*d*) if his residence or, as the case may be, his registered office is not situated, and he has no place of business or assets, in a contracting state, in the contracting state in which Eurocontrol, for the time being, has its headquarters.
+
+(2) Proceedings in the State for the recovery of a sum due by a person to Eurocontrol may be taken against the person in any court of competent jurisdiction by Eurocontrol, the company or the Minister.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E116: Power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 2005* (S.I. No. 776 of 2005), in effect as per reg. 1.
+>
+> E117: Previous affecting provision: power pursuant to section exercised (1.02.1999) by *Irish Aviation Authority (Terminal Charges) Regulations 1999* (S.I. No. 23 of 1999), in effect as per reg. 1; revoked (1.07.2000) by *Irish Aviation Authority (Terminal Charges) Regulations 2000* (S.I. No. 202 of 2000),art. 7, in effect as per reg. 1.
+>
+> E118: Previous affecting provision: power pursuant to section exercised (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), in effect as per reg. 1; revoked (1.01.2006) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 2005* (S.I. No. 776 of 2005), art. 7 in effect as per art. 1.
+>
+> E119: Previous affecting provision: power pursuant to section exercised (12.01.1998) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1998* (S.I. No. 4 of 1998), in effect as per reg. 1; revoked (1.02.1999) by *Irish Aviation Authority (Eurocontrol) (Consolidated Route Charges) Regulations 1999* (S.I. No. 22 of 1999), art. 7, in effect as per reg. 1.
+>
+> E120: Previous affecting provision: power pursuant to section exercised (1.01.1996) by *Irish Aviation Authority (Terminal Charges) Regulations 1995* (S.I. No. 378 of 1995), in effect as per reg. 1; revoked (1.02.1999) by *Irish Aviation Authority (Terminal Charges) Regulations 1999* (S.I. No. 23 of 1999), reg. 8, in effect as per reg. 1.
+
+### 50. Enforceability and recognition of determination made in another contracting state.
+
+**50.**—Subject to the provisions of this Act, a determination made in a contracting state other than the State shall be enforceable or recognised, as the case may be, in the State.
+
+### 51. Application for enforcement of determination made in another contracting state.
+
+**51.**— (1) An application for the enforcement of a determination made by a relevant authority in a contracting state other than the State shall be made to the High Court.
+
+(2) On application to it for the enforcement of a determination, the High Court shall, unless it refuses to do so pursuant to *section 54* , make an order for the enforcement of the determination to the extent that the debt to which the determination relates has not been satisfied.
+
+(3) In an application for the enforcement of a determination under this section, the determination may not be reviewed as to its substance.
+
+### 52. Documents required to accompany request for enforcement of determination.
+
+**52.**— (1) The following documents shall be attached to an application for the enforcement, pursuant to the provisions of this Act, of a determination made in a contracting state other than the State, that is to say—
+
+(*a*) a certified copy of the determination,
+
+(*b*) in the case of a determination by a relevant authority (being a court or tribunal) which is made by default, the original or a certified copy of a document establishing that notice of the proceedings was duly served on the person against whom enforcement is sought,
+
+(*c*) in the case of a determination by a relevant authority (being an administrative authority), a document establishing that the determination was subject to review by a court or tribunal but is no longer so subject because the court or tribunal has made a final decision and has dismissed the appeal concerned or because the appeal concerned has been withdrawn or because the time within which an appeal should be lodged has expired, and
+
+(*d*) documents establishing that the determination is enforceable in the contracting state where the determination was made and that the person against whom enforcement is sought has received notice of the determination in due time.
+
+(2) If the court so requires, a translation of the documents specified in *subsection (1)* shall be produced; the translation shall be certified as correct by a person competent to do so.
+
+(3) For the purposes of this Part—
+
+(*a*) a document, duly certified, which purports to be a copy of a determination of a relevant authority in a contracting state other than the State shall, without further proof, be deemed to be a true copy of that determination, unless the contrary is shown,
+
+(*b*) the original or a copy of any document specified in *paragraph (b), (c)* or *(d)* of *subsection (1)* shall be evidence of any matter to which the document relates, and
+
+(*c*) a document provided pursuant to *subsection (2)* which purports to be a translation of a document specified in *subsection (1)* and to be certified as correct by a person competent to do so shall, without further proof, be deemed to be such translation, unless the contrary is shown.
+
+(4) A document purporting to be a copy of a determination by a relevant authority shall be deemed to be duly certified if—
+
+(*a*) in the case of a determination by a court, it purports to bear the seal of that court or to be certified by any person in his capacity as a judge or officer of that court to be a true copy of a determination made by that court, or
+
+(*b*) in the case of a determination by a relevant authority other than a court, it purports to be certified by any person in his capacity as an officer of that authority to be a true copy of a determination made by that authority.
+
+### 53. Effect of order for enforcement of determination.
+
+**53.**— (1) Whenever an order for the enforcement of a determination has been made pursuant to *section 51* —
+
+(*a*) the determination shall, to the extent to which its enforcement is authorised pursuant to the order, be of the same force and effect, and
+
+(*b*) for or as respects the enforcement of the determination, the High Court shall have the same powers and proceedings may be taken, as if the determination was a judgment of the High Court.
+
+(2) Whenever, on application to it in that behalf pursuant to *section 51* , the High Court makes an order for the enforcement of a determination, the order may provide for the payment of the reasonable costs of and incidental to the application and such costs shall be recoverable as if they were sums recoverable under the determination.
+
+(3) Where, on an application for the enforcement of a determination pursuant to *section 51* , it is shown that, in accordance with the laws of the contracting state in which the determination was made, interest is recoverable under the determination from a particular date or time, the rate of interest and the date or time from which it is recoverable shall be noted in the order for enforcement, if such order is made, and interest in accordance with the noted particulars shall be payable on the amount specified in the determination.
+
+(4) Interest on any amount due on foot of a determination in respect of which an order for enforcement has been made shall be recoverable only pursuant to this section.
+
+### 54. Non-recognition or non-enforcement of determination.
+
+**54.**— (1) A determination by a relevant authority in a contracting state other than the State shall not be recognised or enforced in the State if—
+
+(*a*) the contracting state is not the state or one of the states in which, pursuant to the provisions of *section 49* , proceedings leading to the making of the determination should have been brought, or
+
+(*b*) the determination is not final, or
+
+(*c*) the determination is manifestly contrary to public policy in the State, or
+
+(*d*) the person against whom the proceedings leading to the determination were brought did not, notwithstanding that due notice of the proceedings may have been duly served on him in the contracting state, receive notice of the proceedings in sufficient time to enable him to defend the proceedings or, as the case may be, to apply for the proceedings to be reviewed, or
+
+(*e*) proceedings relating to the same sum have been previously commenced, and are pending, in the State, or
+
+(*f*) the determination is incompatible with the judgment of any court in the State, or
+
+(*g*) the determination involved the application of the rules of private international law relating to a question concerning—
+
+(i) the status or legal capacity of natural persons, or
+
+(ii) rights of property arising out of a matrimonial relationship, or
+
+(iii) wills or the laws relating to succession,
+
+(being rules which are different from the corresponding rules of private international law applicable within the State) and the determination was different from the determination which would have been made if the rules of private international law applicable within the State had applied.
+
+(2) For the purposes of *subsection (1) (b)*, a determination by a relevant authority in a contracting state shall be deemed to be final if—
+
+(*a*) neither an appeal from, nor an application for review of, the determination is pending in that state, and
+
+(*b*) it is not possible for any of the reasons specified in *subsection (3)* for such an appeal to be brought or for such an application to be made.
+
+(3) The reasons referred to in *subsection (2) (b)* are—
+
+(*a*) the law applicable in the contracting state does not provide for an appeal from, or review of, the determination, being a determination made by either a court or a tribunal,
+
+(*b*) the time within which an appeal must be brought or an application for review must be made has expired,
+
+(*c*) an appeal which has been brought or an application for review which has been made, has been withdrawn, or
+
+(*d*) the determination has been confirmed by, or made in pursuance of a direction contained in, a determination which was made by a relevant authority and is final and without appeal.
+
+(4) If, on an appeal against an order of a court enforcing a determination, the appellant satisfies the court that the determination is not final, the court may, on such terms as it may think fit—
+
+(*a*) set aside the order, or
+
+(*b*) adjourn the appeal until such time as the determination has become final.
+
+(5) Nothing in *subsection (4)* shall require the court either to set aside an order of a court enforcing a determination or to adjourn an appeal against such an order in any case where—
+
+(*a*) the court is satisfied that there is no ground (other than that specified in *subsection (3)*) on which the order could be set aside, and
+
+(*b*) the court is not satisfied that the appellant intends to continue with an appeal or application for review in relation to the order which is pending or, as the case may be, to bring any appeal, or make any application, which it is open to him to bring or make in respect of the determination.
+
+### 55. Enforcement in other contracting states of determination by court in State.
+
+**55.**—As respects a determination by a court in the State, the registrar or clerk of the court shall, at the request of an interested party and subject to any rules that may be specified by rules of court, give to the interested party—
+
+(*a*) a certified copy of the determination,
+
+(*b*) in the case of a determination made in default of appearance, the original or a copy, certified by the registrar or clerk of the court to be a true copy, of a document establishing that notice of the institution of proceedings was served on the person in default, and
+
+(*c*) a certificate stating:
+
+(i) the nature of the proceedings,
+
+(ii) the grounds pursuant to *section 49* on which the court assumed jurisdiction in the matter,
+
+(iii) the date on which the time for the lodging of an appeal against the determination will expire, or, if it has expired, the date on which it expired,
+
+(iv) whether notice of appeal against or, in a case where the defendant did not appear, a notice to set aside, the determination has been entered,
+
+(v) the rate of interest, if any, payable on so much of the amount specified in the determination as is unpaid and the date from which it is payable,
+
+(vi) such other particulars as may be specified by rules of court.
+
+### 56. Keeping of records by aircraft operators.
+
+**56.**—The company may by regulations made by it under this section—
+
+(*a*) require the operators of aircraft to keep records of the movements of the aircraft in such form and containing such particulars as may be specified in the regulations,
+
+(*b*) provide for the production to and the inspection by authorised officers of the company of records kept pursuant to the regulations,
+
+(*c*) provide that records of the movements of aircraft kept by such persons as may be designated in the regulations shall, until the contrary is proved, be evidence in proceedings in relation to an offence under the Acts, of the matters entered, pursuant to the regulations, in the records, and that documents purporting to be records of the movements of aircraft and to be kept by persons designated for the purpose in the regulations shall, until the contrary is proved, be deemed to be such records and to be so kept.
+
+### Parties to Eurocontrol Convention.
+
+F52[**57.**— (1) The Minister, after consultation with the Minister for Foreign Affairs, may by order declare that any state specified in the order is a party to the Eurocontrol Convention.
+
+(2) An order that is in force under *subsection (1)* shall be evidence that any state specified in the order is a party to the Eurocontrol Convention.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Inserted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(c), commenced on enactment.
+
+### 57A. Regulations.
+
+F53[**57A.**— The Minister may make regulations to—
+
+(*a*) give effect to a common European air traffic flow management system established by Eurocontrol under Articles 2(1)(e), 7(2)(d) and 19 of the Eurocontrol Convention, and
+
+(*b*) ensure compliance with that system.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(c), commenced on enactment.
+
+### 57B. Random checks and inspections.
+
+F54[**57B.**— (1) For the purposes of ensuring compliance with this Part and the Eurocontrol Convention an authorised person may—
+
+(*a*) enter any premises of an aircraft operator for the purpose of carrying out random checks and inspections,
+
+(*b*) require the owner or any person employed at the premises or any person in charge of the premises to give to him or her such information in the person’s power or control that the authorised person may reasonably require and to produce to him or her any records (in whatever form kept) or books or documents found by or produced to the authorised person,
+
+(*c*) at such premises, inspect and take copies of, or extracts from any books, records or other documents (including in the case of information in non-legible form a copy of or extract from such information in permanent legible form),
+
+F56[(*d*) inspect, copy or extract information from any material (including information in any form) or thing found or produced to the authorised person.]
+
+(*e*) require any person by or on whose behalf data equipment is or has been used on the premises in relation to the business of the aircraft operator concerned or any person having charge of, or otherwise concerned with the operation of, the data equipment or any associated apparatus or material, to afford the authorised person all reasonable assistance in relation to its use,
+
+(*f*) secure for later inspection the premises or any records, books, documents or products found in the premises.
+
+(2) Where an authorised person carries out any random check or inspection under this section, he or she shall, if requested by a person affected, produce his or her authorisation showing his or her identity and position.
+
+(3) An authorised person shall not, in order to carry out a random check or inspection under this section, other than with the consent of the occupier, enter a private dwelling unless a warrant under this section has been obtained authorising such entry.
+
+(4) An authorised person shall be accompanied by a member of the Garda Síochána where, in the course of carrying out or attempting to carry out a random check or inspection under this section a premises is required to be broken open for that check or inspection or the use of force is necessary.
+
+(5) If a judge of the District Court is satisfied on the sworn information of an authorised person that there are reasonable grounds for suspecting that there is information required by an authorised person held on any premises or any part of any premises or there is anything which an authorised person requires to inspect for purposes of enforcing this Part, the judge may issue a warrant authorising an authorised person, accompanied, if appropriate, by other authorised persons or by a member or members of the Garda Síochána, at any time or times, within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter, if necessary by reasonable force, the premises and to carry out a random check or inspection under this section.
+
+(6) An application under *subsection (5)* shall be made to the judge of the District Court in whose district court district the premises is situated.
+
+(7) In this section—
+
+"authorised person" means—
+
+(*a*) an authorised officer,
+
+(*b*) an authorised officer of the company, or
+
+(*c*) an officer of Eurocontrol;
+
+"premises" includes an aircraft.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Inserted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(c), commenced on enactment.
+>
+> F55, F56: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 179, S.I. No. 174 of 2018.
+
+### 57C. Evidence in proceedings.
+
+F57[**57C.**— For the purposes of this Act, a document purporting to be published by Eurocontrol shall be admissible in any proceedings, without further proof, as evidence of the matters mentioned in the said document, unless the contrary is shown.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Inserted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 3(1)(c), commenced on enactment.
+
+## PART IV Provisions in relation to Chicago Convention, Certain Other International Agreements and Certain Organisations — PART IV — Provisions in relation to Chicago Convention, Certain Other International Agreements and Certain Organisations
+
+### 58. F58[Schedule 1 - Annexes to Chicago Convention
+
+**58.**—(1) Subject to *subsection (2)*, the company, after consultation with the Minister, may make such orders as appear to it to be necessary or expedient for the purpose of giving effect to the Annexes (or any part thereof) to the Chicago Convention specified in *Schedule 1*.
+
+(2) *Subsection (1)* shall not entitle the company to make an order—
+
+(*a*) relating to the making of agreements between the State and any other state, or
+
+(*b*) relating to a function of the company which is not a function referred to in that subsection.
+
+(3) The Minister may by order amend *Schedule 1* by the insertion therein of a reference to an Annex (or any part thereof) to the Chicago Convention, whether added to that Convention before or after the commencement of section 72 of the Air Navigation and Transport Act 2022, and references in that Act and this Act to the Annexes to the Chicago Convention shall include references to any Annex to the Chicago Convention to which an order under this subsection relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 72, S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C28: Activity under section deemed not unlawful as regards discrimination on grounds of age or disability (18.10.1999) by *Employment Equality Act 1998* (21/1998), s. 17(3)(e), S.I. No. 320 of 1999.
+>
+> **Compliance with statutory requirements etc.**
+>
+> **17.**— ...
+>
+> (3) In relation to discrimination on the age ground or the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision made by or under—
+>
+> ...
+>
+> (*e*) sections 5, 14, 58 and 60 of the Irish Aviation Authority Act, 1993.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E121: Power pursuant to section exercised (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), in effect as per art. 1(2).
+>
+> E122: Power pursuant to section exercised (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024).
+>
+> E123: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E124: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023).
+>
+> E125: Power pursuant to section exercised (1.03.2023) by *Irish aviation authority (Upper airspace and Rockets) Order 2023* (S.I. No. 25 of 2023), in effect as per art. 2.
+>
+> E126: Power pursuant to section exercised (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E127: Power pursuant to section exercised (2.02.2023) by *Irish Aviation (Flying Displays) Order 2023* (S.I. No. 23 of 2023).
+>
+> E128: Power pursuant to section exercised (1.05.2022) by *Irish Aviation Authority (Regulation of Irish Coast Guard Aviation Operations) Order 2022* (S.I. No. 212 of 2022), in effect as per art. 1(2).
+>
+> E129: Power pursuant to section exercised (28.01.2021) by *Irish Aviation Authority (Testing for Alcohol) Order 2021* (S.I. No. 22 of 2021), in effect as per art. 1(2).
+>
+> E130: Power pursuant to section exercised (18.06.2019) by *Irish Aviation Authority (Standardised Rules of the Air) Order 2019* (S.I. No. 266 of 2019), in effect as per art. 1(2).
+>
+> E131: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E132: Power pursuant to subs. (2) exercised (14.11.2013) by *Irish Aviation Authority Act 1993 (Amendment of Schedule) (Annexe 19 to Chicago Convention) Order 2013* (S.I. No. 483 of 2013).
+>
+> E133: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), in effect as per art. 1.
+>
+> E134: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), in effect as per art. 1(2).
+>
+> E135: Power pursuant to section exercised (1.05.2005) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), in effect as per art. 1.
+>
+> E136: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2004* (S.I. No. 856 of 2004), in effect as per art. 1(2).
+>
+> E137: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), in effect as per art. 1(2).
+>
+> E138: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft) (Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E139: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E140: Power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Eurocontrol Safety Regulatory Requirements) Order 2003* (S.I. No. 387 of 2003), in effect as per art. 2.
+>
+> E141: Power pursuant to section exercised (1.07.2002) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2002* (S.I. No. 220 of 2002), in effect as per art. 1.
+>
+> E142: Power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Rules of the Air) Order 2001* (S.I. No. 568 of 2001), in effect as per art. 1(2).
+>
+> E143: Power pursuant to section exercised (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), in effect as per art. 1(2).
+>
+> E144: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (En Route Obstacles to Air Navigation) Order 1999* (S.I. No. 423 of 1999), in effect as per art. 1.
+>
+> E145: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Tethered Balloons, Airships, Free Balloons and Kites) Order 1999* (S.I. No. 422 of 1999), in effect as per art. 1(2).
+>
+> E146: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E147: Power pursuant to subs. (2) exercised (28.07.1995) by *Irish Aviation Authority Act 1993 (Amendment of Schedule) Order 1995* (S.I. No. 171 of 1995).
+>
+> E148: Previous affecting provision: power pursuant to section exercised (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), in effect as per art. 2; revoked (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024), art. 3.
+>
+> E149: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority(Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25, subject to transitional provision in art. 26.
+>
+> E150: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E151: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E152: Previous affecting provision: power pursuant to section exercised (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007), in effect as per art. 1(2); revoked (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), art. 3, in effect as per art. 2.
+>
+> E153: Previous affecting provision: power pursuant to section exercised (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), in effect as per art. 1(2); revoked (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007),art. 3, in effect as per art. 1(2).
+>
+> E154: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E155: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), in effect as per art. 1(2); revoked (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), art. 3, in effect as per art. 1(2).
+>
+> E156: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations)(Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E157: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E158: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E159: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) (Amendment) Order 2005* (S.I. No. 216 of 2005), in effect as per art. 1(4); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E160: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E161: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004), in effect as per art. 1(2); revoked (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), art. 3, in effect as per art. 1(2).
+>
+> E162: Previous affecting provision: power pursuant to section exercised (1.03.2004) by *Irish Aviation Authority (Rules of the Air) Order 2004* (S.I. No. 72 of 2004), in effect as per art. 1(2); revoked (18.06.2019) by *Irish Aviation Authority (Standardised Rules Of The Air) Order 2019* (S.I. No. 266 of 2019), art. 12, in effect as per art. 1(2).
+>
+> E163: Previous affecting provision: power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003), in effect as per art. 1(2); revoked (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004, art. 3, in effect as per art. 1(2).
+>
+> E164: Previous affecting provision: power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Operations)(Amendment) Order 2003* (S.I. No. 388 of 2003), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E165: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), in effect as per art. 1(2); revoked (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003, art. 3, in effect as per art. 1(2).
+>
+> E166: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E167: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E168: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E169: Previous affecting provision: power pursuant to section exercised (19.03.2002) by *Irish Aviation Authority (Rules of the Air) (Amendment) Order 2002* (S.I. No. 76 of 2002), in effect as per art. 1(4); revoked (1.03.2004) by *Irish Aviation Authority (Rules of the Air) Order 2004* (S.I. No. 72 of 2004), art. 19, in effect as per art. 1(2).
+>
+> E170: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2002* (S.I. No. 14 of 2002), in effect as per art. 1; revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E171: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E172: Previous affecting provision: power pursuant to section exercised (1.02.2002) by *Irish Aviation Authority (Fees) Order 2001* (S.I. 567 of 2001), in effect as per art. 1(2); revoked (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), art. 3, in effect as per art. 1(2).
+>
+> E173: Previous affecting provision: power pursuant to section exercised (1.01.2002) by *Irish Aviation Authority (Aeronautical Radio and Radar Equipment) Order 2001* (S.I. No. 565 of 2001), in effect as per art. 1(2); revoked (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), art. 2(2)(i), in effect as per art. 1(2).
+>
+> E174: Previous affecting provision: power pursuant to section exercised (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), in effect as per art. 1(2); revoked (1.02.2001) by *Irish Aviation Authority (Fees) Order 2001* (S.I. No. 567 of 2001), art. 3, in effect as per art. 1(2).
+>
+> E175: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Fees)(Amendment) Order 2000* (S.I. No. 336 of 2000), in effect as per art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E176: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E177: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), in effect as per art. 1(2); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E178: Previous affecting provision: power pursuant to section exercised (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), in effect as per art. 1; revoked (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), art. 3, in effect as per art. 1.
+>
+> E179: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Rockets and Small Aircraft) Order 2000* (S.I. No. 25 of 2000), in effect as per. art. 2; revoked (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015, art. 3, in effect as per art. 1(2).
+>
+> E180: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), in effect as per. art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E181: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Air Operator Certificates) Order 1999* (S.I. No. 420 of 1999), in effect as per art. 1; revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2).
+>
+> E182: Previous affecting provision: power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Noise Certification and Limitation) (Amendment) Order 1999* (S.I. No. 421 of 1999), in effect as per art. 1(4); revoked (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), art. 2, in effect as per art. 1(2).
+>
+> E183: Previous affecting provision: power pursuant to section exercised (1.06.1999) by *Air Navigation (Personnel Licensing) (No. 2) (Amendment) Order 1999* (S.I. No. 159 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E184: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E185: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Rules of the Air) Order 1999* (S.I. No. 20 of 1999), in effect as per art. 1(2); revoked (1.03.2002) by *Irish Aviation Authority (Rules of the Air) Order 2001* (S.I. No. 568 of 2001), art. 19, in effect as per art. 1(2).
+>
+> E186: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E187: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 1998* (S.I. No. 487 of 1998), in effect as per art. 1(2); revoked (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E188: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), in effect as per art. 1(2); revoked (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E189: Previous affecting provision: power pursuant to section exercised (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2); revoked (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), art. 3, in effect as per art. 1(2).
+>
+> E190: Previous affecting provision: power pursuant to section exercised (12.11.1996) by *Irish Aviation Authority (Aerodrome Standards) Order 1996* (S.I. No. 323 of 1996), in effect as per art. 1; revoked (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), art. 3, in effect as per art. 1.
+>
+> E191: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E192: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E193: Previous affecting provision: previous affecting provision: power pursuant to section exercised (20.02.1996) by *Air Navigation (Fees) (Amendment) Order 1996* (S.I. No. 49 of 1996), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2).
+>
+> E194: Previous affecting provision: power pursuant to section exercised (25.08.1995) by *Air Navigation (Personnel Licensing) (Amendment) Order 1995* (S.I. No. 222 of 1995), in effect as per art. 2; revoked (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), art. 3, in effect as per art. 1(4).
+>
+> E195: Previous affecting provision: power pursuant to section exercised (18.04.1995) by *Air Navigation (Fees) Order 1995* (S.I. No. 74 of 1995), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), art. 3, in effect as per art. 1(2).
+
+### 58A. Schedule 2 - European Union Regulations
+
+F59[**58A.**— (1) The company is the competent authority in the State for the purposes of the European Union Regulations listed in *Schedule 2*.
+
+(2) A function of a competent authority under a European Union Regulation listed in *Schedule 2* shall be a function of the company under this Act.
+
+(3) Without prejudice to the European Communities Act 1972, the Minister may by order amend *Schedule 2*—
+
+(*a*) by the insertion therein of a reference to a European Union Regulation, or
+
+(*b*) by the deletion therefrom of a reference to a European Union Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 72, S.I. No. 220 of 2023.
+
+### 59. Power of company to apply certain Annexes to Chicago Convention to internal flying.
+
+**59.**—The company may by order direct that any of the provisions of the Annexes to the Chicago Convention specified in F60[*Schedule 1*], whether or not those provisions are limited to aircraft of any special description or engaged in any special kind of navigation, shall apply to or in relation to any aircraft in or over the State and, whenever such an order is in force, such of the said provisions as are specified in the order shall apply to or in relation to any aircraft in or over the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 73, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E196: Power pursuant to section exercised (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), in effect as per art. 1(2).
+>
+> E197: Power pursuant to section exercised (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024).
+>
+> E198: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E199: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023).
+>
+> E200: Power pursuant to section exercised (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E201: Power pursuant to section exercised (2.02.2023) by *Irish Aviation (Flying Displays) Order 2023* (S.I. No. 23 of 2023).
+>
+> E202: Power pursuant to section exercised (1.05.2022) by *Irish Aviation Authority (Regulation of Irish Coast Guard Aviation Operations) Order 2022* (S.I. No. 212 of 2022), in effect as per art. 1(2).
+>
+> E203: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E204: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), in effect as per art. 1(2).
+>
+> E205: Power pursuant to section exercised (1.05.2005) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), in effect as per art. 1.
+>
+> E206: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2004* (S.I. No. 856 of 2004), in effect as per art. 1(2).
+>
+> E207: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), in effect as per art. 1(2).
+>
+> E208: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft)(Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E209: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E210: Power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Eurocontrol Safety Regulatory Requirements) Order 2003* (S.I. No. 387 of 2003), in effect as per art. 2.
+>
+> E211: Power pursuant to section exercised (1.07.2002) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2002* (S.I. No. 220 of 2002), in effect as per art. 1.
+>
+> E212: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E213: Previous affecting provision: power pursuant to section exercised (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), in effect as per art. 2; revoked (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024), art. 3.
+>
+> E214: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority(Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25, subject to transitional provision in art. 26.
+>
+> E215: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E216: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E217: Previous affecting provision: power pursuant to section exercised (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007), in effect as per art. 1(2); revoked (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), art. 3, in effect as per art. 2.
+>
+> E218: Previous affecting provision: power pursuant to section exercised (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), in effect as per art. 1(2); revoked (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007),art. 3, in effect as per art. 1(2).
+>
+> E219: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E220: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), in effect as per art. 1(2); revoked (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), art. 3, in effect as per art. 1(2).
+>
+> E221: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations) (Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E222: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E223: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E224: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) (Amendment) Order 2005* (S.I. No. 216 of 2005), in effect as per art. 1(4); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E225: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E226: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004), in effect as per art. 1(2); revoked (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), art. 3, in effect as per art. 1(2).
+>
+> E227: Previous affecting provision: power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003), in effect as per art. 1(2); revoked (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004, art. 3, in effect as per art. 1(2).
+>
+> E228: Previous affecting provision: power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Operations)(Amendment) Order 2003* (S.I. No. 388 of 2003), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E229: Previous affecting provision: power pursuant to section exercised (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), in effect as per art. 1(2); revoked (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003, art. 3, in effect as per art. 1(2).
+>
+> E230: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E231: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E232: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E233: Previous affecting provision: power pursuant to section exercised (19.03.2002) by *Irish Aviation Authority (Rules of the Air) (Amendment) Order 2002* (S.I. No. 76 of 2002), in effect as per art. 1(4); revoked (1.03.2004) by *Irish Aviation Authority (Rules of the Air) Order 2004* (S.I. No. 72 of 2004), art. 19, in effect as per art. 1(2).
+>
+> E234: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2002* (S.I. No. 14 of 2002), in effect as per art. 1; revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E235: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E236: Previous affecting provision: power pursuant to section exercised (1.02.2002) by *Irish Aviation Authority (Fees) Order 2001* (S.I. 567 of 2001), in effect as per art. 1(2); revoked (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), art. 3, in effect as per art. 1(2).
+>
+> E237: Previous affecting provision: power pursuant to section exercised (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), in effect as per art. 1(2); revoked (1.02.2001) by *Irish Aviation Authority (Fees) Order 2001* (S.I. No. 567 of 2001), art. 3, in effect as per art. 1(2).
+>
+> E238: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Fees)(Amendment) Order 2000* (S.I. No. 336 of 2000), in effect as per art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E239: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E240: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), in effect as per art. 1(2); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E241: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), in effect as per. art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E242: Previous affecting provision: power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Noise Certification and Limitation) (Amendment) Order 1999* (S.I. No. 421 of 1999), in effect as per art. 1(4); revoked (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), art. 2, in effect as per art. 1(2).
+>
+> E243: Previous affecting provision: power pursuant to section exercised (1.06.1999) by *Air Navigation (Personnel Licensing) (No. 2) (Amendment) Order 1999* (S.I. No. 159 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E244: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E245: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E246: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 1998* (S.I. No. 487 of 1998), in effect as per art. 1(2); revoked (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E247: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), in effect as per art. 1(2); revoked (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E248: Previous affecting provision: power pursuant to section exercised (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2); revoked (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), art. 3, in effect as per art. 1(2).
+>
+> E249: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E250: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E251: Previous affecting provision: power pursuant to section exercised (18.04.1995) by *Air Navigation (Fees) Order 1995* (S.I. No. 74 of 1995), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), art. 3, in effect as per art. 1(2).
+
+### 60. Provisions of orders made by company.
+
+**60.**— (1) Without prejudice to the generality of *section 58* an order under *subsection (1)* of that section may make provision—
+
+(*a*) prescribing the authority by which any of the powers exercisable under a provision of an Annexe to the Chicago Convention specified in F61[*Schedule 1*] by a contracting state or by any authority therein are to be exercised in the State,
+
+(*b*) F63[(i) for the licensing of aerodromes and the regulation of aeronautical safety standards at aerodromes],
+
+(ii) for the regulation of the refuelling of aircraft wherever they may be,
+
+(iii) for the inspection of aerodromes and terminals and installations at aerodromes and other places used for the landing of aircraft,
+
+(iv) for the inspection of aircraft, wherever they may be,
+
+(v) for the inspection of—
+
+(I) records kept by persons carrying on the business of aircraft operation in relation to that business,
+
+(II) records kept in relation to aircraft, whether by crews of aircraft, operators of aircraft, persons engaged in the manufacture, repair or maintenance of aircraft or the management of aerodromes or otherwise,
+
+(vi) for the inspection and approval of premises where there is carried on the business of—
+
+(I) the design, manufacture, maintenance, repair or modification of aircraft or parts for aircraft,
+
+(II) the production of material (including fuel) for aircraft,
+
+(III) the storage of aircraft or parts or material (including fuel) for aircraft, or
+
+(IV) the operation of aircraft,
+
+(vii) for the approval of persons carrying on a business referred to in *subparagraph (vi)*,
+
+(viii) for the inspection of work carried on in premises referred to in *subparagraph (vi)*,
+
+(ix) for the licensing of persons engaged in the inspection or supervision of aircraft,
+
+(x) for prohibiting or regulating the use of unlicensed aerodromes or the use of other places for the landing of aircraft,
+
+(*c*) as to the manner and conditions of the issue and renewal of any certificate or licence required by an order under this Act or by any such Annexes including provisions requiring the passing of examinations and tests before such issue or renewal and as to the form, custody, production, cancellation, suspension, endorsement and surrender of any such certificate or licence,
+
+(*d*) as to the registration of aircraft in the State,
+
+(*e*) as to the conditions subject to which aircraft may be used in different circumstances and for different purposes,
+
+(*f*) as to the conditions subject to which aircraft may enter or leave, or operate in, the State or passengers or goods may be conveyed by aircraft into or from the State or within the State,
+
+(*g*) if the company considers it appropriate to do so, exempting from the provisions of an order under this section or any such Annexe, or any of them, aircraft flown for experimental purposes or any other classes of aircraft or any classes of persons,
+
+(*h*) for the giving of directions by the company prohibiting the flight by aircraft over an area specified in the direction and declared therein to be a prohibited area,
+
+(*i*) for the giving of directions by the company appointing any area of airspace to be—
+
+(I) a restricted area, that is to say, an area of airspace within which the flight of aircraft is made subject to specified restrictions, or
+
+(II) a danger area, that is to say, an area of airspace within which it is declared in the direction that activities may exist at specified times that are a danger to aircraft in flight,
+
+(*j*) F62[(i) requiring the payment of fees, in such amounts as are specified, by the company for the performance of its functions under this Act or any other enactment, including—
+
+(I) in respect of applications for the grant or renewal of any certificate, licence or instrument of approval,
+
+(II) for the purposes of an order under this section or an Annexe referred to in *paragraph (a)*, or
+
+(III) functions under an Annexe referred to in *paragraph (a)*, and,]
+
+(ii) for securing compliance with a direction under section *45 (1) (a) (ii)*,
+
+(*k*) supplementing any such Annexe, in such manner as may appear to it to be necessary or expedient so as to promote the safety of aircraft and of persons and property carried in them and to prevent aircraft endangering persons and property,
+
+(*l*) for the control and regulation of lights the purpose of which is to aid air navigation, other lights at or in the neighbourhood of aerodromes and lights which are liable to endanger aircraft,
+
+(*m*) for requiring the installation of warning lights on buildings or other structures which might constitute a danger to aircraft,
+
+(*n*) regulating the making of signals and other communications by or to aircraft and persons carried therein, and regulating the use of any sign for purposes connected with air navigation, and
+
+(*o*) for access to and entry on or into any premises or place or any aircraft by a person where such access or entry is reasonably necessary for the performance by the person of functions conferred on him by any such order.
+
+(2) Section 12 of the Act of 1946, as amended by section 39 of the Act of 1988, shall, with any necessary modifications, apply in relation to an area declared by a direction issued by virtue of *subsection (1) (h)* to be a prohibited area as it applies to a prohibited area referred to in the said section 12.
+
+F64[(3) The company may recover, as a simple contract debt in any court of competent jurisdiction, from a person an amount of any fee due to it by the person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61, F62: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 74(a)(i), (ii), S.I. No. 220 of 2023.
+>
+> F63: Substituted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 61(c), S.I. No. 327 of 1998.
+>
+> F64: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 74(b), S.I. No. 220 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C29: Activity under section deemed not unlawful as regards discrimination on grounds of age or disability (18.10.1999) by *Employment Equality Act 1998* (21/1998), s. 17(3)(e), S.I. No. 320 of 1999.
+>
+> **Compliance with statutory requirements etc.**
+>
+> **17.**— ...
+>
+> (3) In relation to discrimination on the age ground or the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision made by or under—
+>
+> ...
+>
+> (*e*) sections 5, 14, 58 and 60 of the Irish Aviation Authority Act, 1993 .
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E252: Power pursuant to section exercised (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024).
+>
+> E253: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E254: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023).
+>
+> E255: Power pursuant to section exercised (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E256: Power pursuant to section exercised (2.02.2023) by *Irish Aviation (Flying Displays) Order 2023* (S.I. No. 23 of 2023).
+>
+> E257: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E258: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), in effect as per art. 1.
+>
+> E259: Power pursuant to section exercised (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), in effect as per art. 1(2).
+>
+> E260: Power pursuant to section exercised (1.05.2005) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), in effect as per art. 1.
+>
+> E261: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2004* (S.I. No. 856 of 2004), in effect as per art. 1(2).
+>
+> E262: Power pursuant to section exercised (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), in effect as per art. 1(2).
+>
+> E263: Power pursuant to section exercised (1.03.2004) by *Irish Aviation Authority (Rules of the Air) Order 2004* (S.I. No. 72 of 2004), in effect as per art. 1(2).
+>
+> E264: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft) (Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E265: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E266: Power pursuant to para. (k) exercised (2.09.2003) by *Irish Aviation Authority (Eurocontrol Safety Regulatory Requirements) Order 2003* (S.I. No. 387 of 2003), in effect as per art. 2.
+>
+> E267: Power pursuant to section exercised (1.07.2002) by *Irish Aviation Authority (Air Traffic Control Standards) Order 2002* (S.I. No. 220 of 2002), in effect as per art. 1.
+>
+> E268: Power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Rules of the Air) Order 2001* (S.I. No. 568 of 2001), in effect as per art. 1(2).
+>
+> E269: Power pursuant to section exercised (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), in effect as per art. 1(2).
+>
+> E270: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (En Route Obstacles to Air Navigation) Order 1999* (S.I. No. 423 of 1999), in effect as per art. 1.
+>
+> E271: Power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Tethered Balloons, Airships, Free Balloons and Kites) Order 1999* (S.I. No. 422 of 1999), in effect as per art. 1(2).
+>
+> E272: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E273: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), in effect as per art. 2; revoked (8.02.2024) by *Irish Aviation Authority (Fees) Order 2015 (Revocation) Order 2024* (S.I. No. 80 of 2024), art. 3.
+>
+> E274: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25, subject to transitional provision in art. 26.
+>
+> E275: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E276: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E277: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007), in effect as per art. 1(2); revoked (1.01.2016) by *Irish Aviation Authority Fees Order 2015* (S.I. No. 523 of 2015), art. 3, in effect as per art. 2.
+>
+> E278: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), in effect as per art. 1(2); revoked (1.01.2008) by *Irish Aviation Authority (Fees) (No. 2) Order 2007* (S.I. No. 805 of 2007),art. 3, in effect as per art. 1(2).
+>
+> E279: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E280: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations)(Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E281: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), in effect as per art. 1(2); revoked (1.05.2007) by *Irish Aviation Authority (Fees) Order 2007* (S.I. No. 119 of 2007), art. 3, in effect as per art. 1(2).
+>
+> E282: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E283: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E284: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) (Amendment) Order 2005* (S.I. No. 216 of 2005), in effect as per art. 1(4); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E285: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E286: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004), in effect as per art. 1(2); revoked (1.01.2006) by *Irish Aviation Authority (Fees) Order 2005* (S.I. No. 775 of 2005), art. 3, in effect as per art. 1(2).
+>
+> E287: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003), in effect as per art. 1(2); revoked (1.01.2005) by *Irish Aviation Authority (Fees) Order 2004* (S.I. No. 854 of 2004, art. 3, in effect as per art. 1(2).
+>
+> E288: Previous affecting provision: power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Operations)(Amendment) Order 2003* (S.I. No. 388 of 2003), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E289: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), in effect as per art. 1(2); revoked (1.01.2004) by *Irish Aviation Authority (Fees) Order 2003* (S.I. No. 682 of 2003, art. 3, in effect as per art. 1(2).
+>
+> E290: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E291: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E292: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E293: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2002* (S.I. No. 14 of 2002), in effect as per art. 1; revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E294: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E295: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.02.2002) by *Irish Aviation Authority (Fees) Order 2001* (S.I. 567 of 2001), in effect as per art. 1(2); revoked (1.01.2003) by *Irish Aviation Authority (Fees) Order 2002* (S.I. No. 486 of 2002), art. 3, in effect as per art. 1(2).
+>
+> E296: Previous affecting provision: power pursuant to section exercised (19.03.2002) by *Irish Aviation Authority (Rules of the Air) (Amendment) Order 2002* (S.I. No. 76 of 2002), in effect as per art. 1(4); revoked (1.03.2004) by *Irish Aviation Authority (Rules of the Air) Order 2004* (S.I. No. 72 of 2004), art. 19, in effect as per art. 1(2).
+>
+> E297: Previous affecting provision: power pursuant to section exercised (1.01.2002) by *Irish Aviation Authority (Aeronautical Radio and Radar Equipment) Order 2001* (S.I. No. 565 of 2001), in effect as per art. 1(2); revoked (1.03.2005) by *Irish Aviation Authority (Air Traffic Service Systems) Order 2004* (S.I. No. 855 of 2004), art. 2(2)(i), in effect as per art. 1(2).
+>
+> E298: Previous affecting provision: power pursuant to section and subs. (1)(j)(I) exercised (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), in effect as per art. 1(2); revoked (1.02.2001) by *Irish Aviation Authority (Fees) Order 2001* (S.I. No. 567 of 2001), art. 3, in effect as per art. 1(2).
+>
+> E299: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (14.11.2000) by *Irish Aviation Authority (Fees)(Amendment) Order 2000* (S.I. No. 336 of 2000), in effect as per art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E300: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E301: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), in effect as per art. 1(2); revoked (1.10.2008) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2008* (S.I. No. 355 of 2008), art. 3, in effect as per art. 1(2).
+>
+> E302: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Air Operator Certificates) Order 1999* (S.I. No. 420 of 1999), in effect as per art. 1; revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2).
+>
+> E303: Previous affecting provision: power pursuant to section exercised (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), in effect as per art. 1; revoked (1.10.2008) by *Irish Aviation Authority (Aerodrome Standards) Order 2008* (S.I. No. 356 of 2008), art. 3, in effect as per art. 1.
+>
+> E304: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Rockets and Small Aircraft) Order 2000* (S.I. No. 25 of 2000), in effect as per. art. 2; revoked (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015, art. 3, in effect as per art. 1(2).
+>
+> E305: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), in effect as per. art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E306: Previous affecting provision: power pursuant to section exercised (7.01.2000) by *Irish Aviation Authority (Noise Certification and Limitation) (Amendment) Order 1999* (S.I. No. 421 of 1999), in effect as per art. 1(4); revoked (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), art. 2, in effect as per art. 1(2).
+>
+> E307: Previous affecting provision: power pursuant to section exercised (1.06.1999) by *Air Navigation (Personnel Licensing) (No. 2) (Amendment) Order 1999* (S.I. No. 159 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E308: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E309: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Rules of the Air) Order 1999* (S.I. No. 20 of 1999), in effect as per art. 1(2); revoked (1.03.2002) by *Irish Aviation Authority (Rules of the Air) Order 2001* (S.I. No. 568 of 2001), art. 19, in effect as per art. 1(2).
+>
+> E310: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E311: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 1998* (S.I. No. 487 of 1998), in effect as per art. 1(2); revoked (14.11.2000) by *Irish Aviation Authority (Aerodromes and Visual Ground Aids) Order 2000* (S.I. No. 334 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E312: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), in effect as per art. 1(2); revoked (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E313: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2); revoked (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), art. 3, in effect as per art. 1(2).
+>
+> E314: Previous affecting provision: power pursuant to section exercised (12.11.1996) by *Irish Aviation Authority (Aerodrome Standards) Order 1996* (S.I. No. 323 of 1996), in effect as per art. 1; revoked (4.02.2000) by *Irish Aviation Authority (Aerodrome Standards) Order 2000* (S.I. No. 26 of 2000), art. 3, in effect as per art. 1.
+>
+> E315: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E316: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E317: Previous affecting provision: power pursuant to section exercised (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), in effect as per art. 1(4); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art 1(2).
+>
+> E318: Previous affecting provision: previous affecting provision: power pursuant to section exercised (20.02.1996) by *Air Navigation (Fees) (Amendment) Order 1996* (S.I. No. 49 of 1996), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2).
+>
+> E319: Previous affecting provision: power pursuant to section exercised (25.08.1995) by *Air Navigation (Personnel Licensing) (Amendment) Order 1995* (S.I. No. 222 of 1995), in effect as per art. 2; revoked (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), art. 3, in effect as per art. 1(4).
+>
+> E320: Previous affecting provision: power pursuant to section and subs. (1)(j)(i) exercised (18.04.1995) by *Air Navigation (Fees) Order 1995* (S.I. No. 74 of 1995), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), art. 3, in effect as per art. 1(2).
+
+### 61. Expenses of international organisations.
+
+**61.**— (1) Any sums required for the contribution by the State for membership of or for the organisation and operations of—
+
+(*a*) the International Civil Aviation Organisation,
+
+(*b*) Eurocontrol,
+
+(*c*) the European Civil Aviation Conference, or
+
+(*d*) any other international organisation specified by the Minister by order after consultation with the company whose functions relate to a matter to which a function of the company relates,
+
+shall be paid by the Minister out of moneys provided by the Oireachtas.
+
+(2) The company shall pay to the Minister an amount equal to the amount of any payments made by him under *subsection (1)*.
+
+### 62. Attendance of company at meetings of or organised by certain international organisations.
+
+**62.**— (1) (*a*) The company may attend a meeting of or organised by any of the organisations specified in *paragraph (b)* in so far as the meeting relates to a matter to which a function of the company relates with, in the case of an organisation specified in *subparagraph (iv)* of *paragraph (b)*, the consent of the Minister and, if the organisation has functions in addition to those relating to civil aviation, the consent of the Minister for Foreign Affairs.
+
+(*b*) The organisations referred to in *paragraph (a)* are:
+
+(i) the International Civil Aviation Organisation,
+
+(ii) Eurocontrol,
+
+(iii) the European Civil Aviation Conference,
+
+(iv) any other international organisation of which the State is a member and whose functions relate to a matter to which a function of the company relates.
+
+(*c*) The representatives of the company at a meeting of or organised by an organisation referred to in *subparagraph (i), (ii)* or *(iii)* of *paragraph (b)* shall also represent the State at the meeting unless the Minister otherwise directs and the representatives of the company at a meeting of or organised by an organisation referred to in *subparagraph (iv)* of *paragraph (b)* shall, if so directed by the Minister with the consent of the Minister for Foreign Affairs, also represent the State.
+
+(2) The company may and, if so directed by the Minister, shall attend, as an observer, a meeting of or organised by an international organisation of which the State is not a member if the subject matter of the meeting is or includes a matter to which a function of the company relates and such attendance is permitted by the organisation.
+
+(3) Wherever so requested by the Minister, the company shall submit to him a report in writing of the proceedings at a meeting referred to in *subsection (1)* or *(2)* attended by it or in relation to such matters arising at or relating to such a meeting as the Minister may specify.
+
+### 63. Negotiation by company of certain agreements with international organisations or other states.
+
+**63.**— (1) The company may, with the consent and on behalf of the Government, conduct negotiations with the states or organisations concerned in relation to the making or amendment of international agreements to which the State or the Government will be or is a party for the provision in the State of air navigation services or aeronautical communications services or affecting any other matter to which a function of the company relates.
+
+(2) The company shall furnish to the Minister reports in writing in relation to negotiations conducted by it under *subsection (1)* and shall furnish to the Minister recommendations and advice in relation to the proposed agreements or amendments of agreements to which the negotiations relate.
+
+## PART IV Enforcement — PART IVA — Enforcement]
+
+F65[> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63A. Definitions - Part IVA
+
+F66[**63A.**— In this Part—
+
+"relevant person" means—
+
+(*a*) an officer of the Permanent Defence Force holding a commissioned rank,
+
+(*b*) an officer of the Minister,
+
+(*c*) an officer of customs, or
+
+(*d*) a member of the staff of the company;
+
+"relevant provision" means a provision of—
+
+(*a*) this Act (including a European Union Regulation listed in *Schedule 2*) relating to a function of the company, or
+
+(*b*) another enactment (other than the Aviation Regulation Act 2001) relating to a function of the company.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63B. Appointment of authorised officers
+
+F67[**63B.**— (1) The company may authorise in writing a relevant person to perform the functions conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022 and shall, at the same time as such authorisation, furnish the relevant person with a certificate of his or her authorisation.
+
+(2) A person who was an authorised officer within the meaning of section 2 immediately before the commencement of section 75 of the Air Navigation and Transport Act 2022 shall, on and after that commencement, be deemed to be authorised under *subsection (1)* on the same terms and conditions as he or she was such authorised officer immediately before that commencement.
+
+(3) The company shall, in the case of an authorised officer who is such by virtue of the operation of *subsection (2)*, as soon as is practicable after the commencement referred to in that subsection, furnish the officer with a certificate of his or her authorisation.
+
+(4) An authorised officer shall, when performing a function conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022, if requested by any person thereby affected, produce his or her certificate referred to in *subsection (1)* or *(3)*, as the case may be, to that person for inspection.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63C. Powers of authorised officers
+
+F68[**63C.**— (1) For the purposes of the exercise by the company of its functions under this Act relating to the enforcement of a relevant provision, an authorised officer may—
+
+(*a*) enter at any reasonable time any premises or place at which there are reasonable grounds for the officer to believe that a trade or business, or an activity in connection with a trade or business, relevant to the relevant provision is being, or has been, carried on by a person to whom this section applies otherwise than in accordance with that provision and search and inspect the premises or place and any records found therein or thereon,
+
+(*b*) require any such person to produce to him or her any records which are in the person’s power or control, and in the case of information in a non-legible form to reproduce it in a legible form, and to give to the officer such information as he or she may reasonably require in relation to any entries in such records,
+
+(*c*) secure for later inspection any premises or place or part thereof in or on which records are kept or where there are reasonable grounds for the officer to believe that such records are kept,
+
+(*d*) inspect and take extracts from or make copies of any such records (including in the case of information in a non-legible form a copy of or extract from such information in a permanent legible form),
+
+(*e*) remove and retain such records for such period as may be reasonable for further examination,
+
+(*f*) require the person to maintain such records for such period of time, as may be reasonable, as the authorised officer directs,
+
+(*g*) require the person to give to the officer any information which he or she may reasonably require, or
+
+(*h*) require any person on the premises or place having charge of, or otherwise concerned with the operation of, the data equipment or any associated apparatus or material, to afford the officer all reasonable assistance in relation to it and assist in the retrieval of information connected with the operation of such data equipment, apparatus or material.
+
+(2) This section applies to the following persons:
+
+(*a*) an airport authority;
+
+(*b*) an air navigation service provider;
+
+(*c*) any person responsible for the carriage of passengers, mail or freight by air;
+
+(*d*) a supplier of ground handling services;
+
+(*e*) a tour operator or a travel agent;
+
+(*f*) a trader within the meaning of section 2 of the Package Holidays and Travel Trade Act 1995;
+
+(*g*) an aerodrome operator;
+
+(*h*) a person carrying on the business of the design, manufacture, maintenance, repair or modification of aircraft or parts for aircraft;
+
+(*i*) a person carrying on the business of the production of material (including fuel) for aircraft;
+
+(*j*) a person carrying on the activity of the operation of aircraft;
+
+(*k*) a person engaged in the training of persons engaged in any activities referred to in *paragraphs (a)* to *(d)* or *(g)* to *(j)*.
+
+(3) Where an authorised officer in exercise of his or her powers under this section is prevented from entering any premises or place, an application may be made under *section 63D* to the District Court for a warrant to authorise such entry.
+
+(4) An authorised officer shall not, other than with the consent of the occupier, enter a private dwelling, unless he or she has obtained a warrant under *section 63D* from the District Court authorising such entry.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (1.05.2022) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63D. Search warrants
+
+F69[**63D.**— If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that information required by an authorised officer for the purposes of the exercise by the company of its functions under this Act relating to a relevant provision is held at any premises or place, the judge may issue a warrant authorising the authorised officer, accompanied if the officer considers it necessary by other authorised officers or members of the Garda Síochána, at any time or times, within one month from the date of issue of the warrant, on production, if so required, of the warrant, to enter, if need be by reasonable force, the premises or place and exercise all or any of the powers conferred on an authorised officer under *section 63C*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Inserted (1.05.2022) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63E. Indemnification
+
+F70[**63E.**— Where the company is satisfied that a member of staff of the company or an authorised officer has discharged his or her duties in pursuance of the functions of the company in a bona fide manner, the company shall indemnify the member or officer, as the case may be, against all actions or claims howsoever arising in respect of the discharge by him or her of his or her duties.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Inserted (1.05.2022) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+### 63F. Fixed charge offences
+
+F71[**63F.**— (1) (*a*) This section applies to such summary offences under this Act as may be declared by the Minister by regulations, made after consultation with the Minister for Justice, to be fixed charge offences.
+
+(*b*) Subject to *subsection (9)*, the regulations referred to in *paragraph (a)* shall prescribe the amount of each fixed charge for each fixed charge offence.
+
+(2) Where an authorised officer has reasonable grounds for believing that a fixed charge offence is being or has been committed by a person—
+
+(*a*) if the officer identifies the person, the officer shall serve, or cause to be served, personally or by post, on the person a notice under this section,
+
+(*b*) if the officer does not identify the person and the offence involves the use of a registered aircraft, the officer shall serve, or cause to be served, personally or by post, on the operator or registered owner of the aircraft a notice under this section, or
+
+(*c*) if the officer does not identify the person and the offence involves the use of an unmanned aircraft registered to an operator, the officer shall serve, or cause to be served, personally or by post, on the registered operator of the unmanned aircraft a notice under this section.
+
+(3) A notice under this section shall be in the form prescribed by regulations made by the Minister and—
+
+(*a*) shall contain details of the manner of payment of a fixed charge, and
+
+(*b*) may specify the person to whom and the place where the payment is to be made and whether the payment is to be accompanied by the notice, duly completed.
+
+(4) A notice served pursuant to this section shall contain a statement to the effect that—
+
+(*a*) the person on whom it is served is alleged to have committed an offence specified in the notice,
+
+(*b*) the person may, during the period of 28 days beginning on the date of the notice, make a payment of a fixed charge of a prescribed amount as specified in the notice, and
+
+(*c*) a prosecution in respect of the alleged offence will not be instituted during the periods specified in the notice or, if a payment so specified in accordance with the notice, is made during the appropriate period so specified in relation to the payment, at all.
+
+(5) The payment of a fixed charge shall not be accepted after the expiration of the period of 28 days beginning on the date the notice provided for by this section was served.
+
+(6) Where a notice is served under this section—
+
+(*a*) a person or the person to whom the notice applies may, during the period specified in the notice and in accordance with the notice, make a payment specified in the notice,
+
+(*b*) the payment—
+
+(i) may be received in accordance with the notice and the person receiving the payment may issue a receipt for it, and
+
+(ii) shall be paid into or disposed of for the benefit of the Exchequer as the Minister for Public Expenditure and Reform directs, and shall not be recoverable by the person who made it,
+
+(*c*) a prosecution in respect of the alleged offence to which the notice relates shall not be instituted during the periods specified in the notice or, if a payment so specified is made during the period so specified in accordance with the notice, in relation to the payment, at all.
+
+(7) A fixed charge offence shall be an offence for the purposes of this Act.
+
+(8) In a prosecution for a fixed charge offence it shall be presumed, until the contrary is shown, that—
+
+(*a*) the relevant notice under this section has been served or caused to be served, and
+
+(*b*) a payment pursuant to the relevant notice under this section, accompanied by the notice, duly completed (unless the notice provides for payment without the notice accompanying the payment), has not been made.
+
+(9) Regulations prescribing the amount of a fixed charge may prescribe different amounts in relation to any of the following:
+
+(*a*) different fixed charge offences;
+
+(*b*) fixed charge offences involving different classes of aircraft.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (1.05.2022) by *Air Navigation and Transport Act 2022* (40/2022), s. 75, S.I. No. 220 of 2023.
+
+## PART V Miscellaneous — PART V — Miscellaneous
+
+### 64. Costs of investigation by Minister of accidents to aircraft.
+
+**64.**— (1) The Minister may by order provide for the payment by the owner or operator of an aircraft of all or part of the costs incurred by the Minister in the investigation of an accident of a specified kind, or other incident of a specified kind, involving the aircraft.
+
+(2) An order under this section may apply to—
+
+(*a*) aircraft generally or specified classes of aircraft, and
+
+(*b*) owners or operators generally of aircraft or specified classes of such owners or operators.
+
+### 65. Powers of company in relation to accidents and other incidents affecting aircraft.
+
+**65.**— (1) The company may by order—
+
+(*a*) require that notice be given to the company in such manner, within such time and by such person as may be specified of—
+
+(i) any accident involving an aircraft notice of which is required by or under the Acts to be given to the Secretary of the Department of Transport, Energy and Communications, or
+
+(ii) any incident (other than an accident aforesaid) of a kind specified in the order involving aircraft, and
+
+(*b*) provide for the investigation by officers of the company of incidents specified pursuant to *paragraph (a) (ii)* in an order under this section.
+
+(2) Without prejudice to the generality of *subsection (1)*, an order under this section may—
+
+(*a*) authorise a member of the staff of the company who is conducting an investigation under this section to detain the aircraft concerned,
+
+(*b*) authorise such a member to have access to the aircraft concerned and its equipment, to examine and test the aircraft and its equipment and to remove and detain any such equipment,
+
+(*c*) authorise such a member to obtain from any person such information within his knowledge or procurement as he may reasonably require for the purposes of his functions under this section and for that purpose to require his attendance at a specified place and time on a specified day,
+
+(*d*) authorise such a member to have access to such records as he may reasonably require for the purposes of his functions under this section and to examine and take copies of or of extracts from any such records, and
+
+(*e*) authorise such a member to enter any place where such entry is reasonably required for the purposes of his functions.
+
+(3) An officer of the Minister who is investigating an accident referred to in *subsection (1)* shall allow members of the staff of the company authorised by the company in that behalf to have access to the aircraft involved in the accident, and to examine the aircraft and its equipment, at such reasonable times as the officer of the Minister may determine.
+
+(4) The company shall, if so requested by the Minister, furnish to him a report in writing in relation to any incident investigated by it under this section and specifying the results of the investigation.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E321: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E322: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023).
+>
+> E323: Power pursuant to section exercised (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E324: Power pursuant to subs. (1)(a)(ii) exercised (2.09.2003) by *Irish Aviation Authority (Eurocontrol Safety Regulatory Requirements) Order 2003* (S.I. No. 387 of 2003), in effect as per art. 2.
+>
+> E325: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E326: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25 subject to transitional provision in art. 26.
+>
+> E327: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E328: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E329: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E330: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+
+### 65A. Aviation Stakeholders Forum and Licence Holders Charter
+
+F72[**65A.**— (1) Subject to *subsection (2)*, the company shall, not less than twice a year, convene a forum, to be known as the Aviation Stakeholders Forum, to foster the maintenance and improvement of aviation safety and to support the development of a positive aviation safety culture within the aviation community.
+
+(2) The company shall, as soon as is practicable after consultation with aviation stakeholders, by notice published on the company’s website—
+
+(*a*) specify the organisations invited to participate in the Forum, which shall include recognised aviation stakeholder groups, recognised aviation trade unions and representative bodies, certified aviation organisations and other interested parties, and
+
+(*b*) determine the rules and procedures of the Forum including the composition of membership to ensure a representative participation from each organisation and the publication of minutes of meetings of the Forum.
+
+(3) The Forum shall meet for the following purposes:
+
+(*a*) promoting the sharing of best practice aviation safety initiatives;
+
+(*b*) engaging with the company on matters relating to the regulation of aviation safety in commercial air transport;
+
+(*c*) the provision of views on proposals for European Union or national regulatory changes in relation to aviation safety;
+
+(*d*) the establishment of routine communication channels to enable the sharing of aviation lessons learned, best aviation practices, aviation safety performance indicators and the provision of information on specific aviation safety risks.
+
+(4) The company shall, as soon as is practicable after consultation with the Forum, publish a charter, to be known as the Licence Holders Charter, on the company’s website setting out the standards of engagement that will be undertaken by the company with the holders of licences.
+
+(5) Without prejudice to the generality of *subsection (4)*, the reference to standards in that subsection includes a reference to standards relating to the following:
+
+(*a*) the principle of "just culture" as defined in Article 2 of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014[^2] on the reporting, analysis and follow-up of occurrences in civil aviation;
+
+(*b*) general principles and policies relating to enforcement actions undertaken by the company;
+
+(*c*) the right to a response in writing from the company in relation to any refusal to grant a licence, suspension or revocation of a licence or amendment of a licence;
+
+(*d*) the right to avail of an appeal mechanism in relation to any refusal to grant a licence, suspension or revocation of a licence or amendment of a licence;
+
+(*e*) the right to make representations in relation to an enforcement action undertaken by the company;
+
+(*f*) the general guidance that the company will give to the holders of licences as regards the discharge of their obligations as such holders.
+
+(6) In this section, "Forum" means the Aviation Stakeholders Forum referred to in *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 76, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E331: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 65B. Crew peer support programmes
+
+F73[**65B.**— (1) (*a*) Subject to *paragraph (b)*, the company shall, at such times as it may determine, conduct a review of the effectiveness of airline provisions concerning crew peer support programmes.
+
+(*b*) The company shall, not later than 12 months after the commencement of section 76 of the Air Navigation and Transport Act 2022, conduct a review.
+
+(*c*) The company shall publish on the company’s website a report on the results of a review.
+
+(*d*) A review shall consider the following:
+
+(i) the use of the programme by pilots;
+
+(ii) the pilots’ perception of the programme;
+
+(iii) the protection of confidentiality;
+
+(iv) the promotion, by accountable managers of recognised organisations of aircraft crew members, of the use of the programme and trust in it;
+
+(v) the access and referral to professional advice as necessary, including referral to mental and psychological health professionals;
+
+(vi) confidential arrangements for the temporary cessation of duty;
+
+(vii) the process for returning to work;
+
+(viii) resourcing;
+
+(ix) accessibility, including online access;
+
+(x) the selection and training of peers;
+
+(xi) the independence of peers from management or supervisory functions or any other conflict of interest.
+
+(*e*) In conducting a review, the company shall seek the direct feedback of pilots and other stakeholders, at the same time protecting the confidentiality of all information provided.
+
+(2) Any deficiencies or opportunities for improvement identified by the company in the course of a review shall be dealt with directly through the company’s oversight programme or through the State Plan for Aviation Safety, as applicable.
+
+(3) Nothing in this section shall be construed to prejudice the generality of Commission Regulation (EU) No. 965/2012 of 5 October 2012[^3] laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No. 216/2008 of the European Parliament and of the Council.
+
+(4) In this section—
+
+"programme" means a crew peer support programme referred to in *subsection (1)(a)*;
+
+"review" means a review referred to in *subsection (1)(a)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 77, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E332: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 66. Power of Minister to require cancellation or refusal of registration of aircraft.
+
+**66.**— (1) If it appears to the Minister that an aircraft does not comply with the standards specified in a direction under section 13 of the Act of 1988, he may give a direction in writing to the company requiring it to cancel the registration of the aircraft under this Act on such date as may be specified in the direction or, as may be appropriate, to refuse to register the aircraft under this Act.
+
+(2) Upon receipt of a direction under this section, the company shall forthwith notify the owner of the aircraft concerned of the direction and its contents and shall cancel the registration concerned on the date specified in the direction or, as the case may be, refuse to register the aircraft under this Act.
+
+### 67. Detention of aircraft.
+
+**67.**—The powers conferred on the Minister by sections 32 and 41 of the Act of 1988 in relation to a matter to which a function of the company relates shall, in lieu of being exercisable by the Minister, be exercisable by the company with the following, and any other necessary, modifications:
+
+(*a*) F74[...]
+
+(*b*) F75[...]
+
+(*c*) F76[...]
+
+(*d*) in subsection (1) of the said section 41, the following shall be substituted for paragraphs (*a*) to (*d*):
+
+“(*a*) any provision of the *Irish Aviation Authority Act, 1993*, or order or regulations made or directions given thereunder,
+
+(*b*) the Annexes to the Chicago Convention specified in F77[*Schedule 1*] to the *Irish Aviation Authority Act, 1993*,
+
+(*c*) (i) the Eurocontrol Convention,
+
+(ii) the Principal Act and instruments made thereunder,
+
+(iii) orders made under Part II of the Act of 1946 and regulations made and directions given under such orders, or
+
+(iv) instruments made under the Air Navigation (Eurocontrol) Act, 1963.”, and
+
+(*e*) in the said section 41, the following shall be substituted for subsection (6):
+
+“(6) In this section ‘ authorised officer ’ means an authorised officer of the company within the meaning of the *Irish Aviation Authority Act, 1993.* ”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74, F75, F76: Repealed (4.04.2006) by *Aviation Act 2006* (7/2006), s. 6, commenced on enactment.
+>
+> F77: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 78, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E333: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) (Amendment) (No. 2) Order 2023* (S.I. No. 103 of 2023).
+>
+> E334: Power pursuant to section exercised (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023).
+>
+> E335: Power pursuant to section exercised (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023).
+>
+> E336: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E337: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Airworthiness of Aircraft) (Amendment) Order 2003* (S.I. No. 684 of 2003), in effect as per art. 1(4).
+>
+> E338: Power pursuant to section exercised (1.01.2004) by *Irish Aviation Authority (Personnel Licensing) (Amendment) Order 2003* (S.I. No. 683 of 2003), in effect as per art. 1(4).
+>
+> E339: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E340: Previous affecting provision: power pursuant to section exercised (21.12.2015) by *Irish Aviation Authority (Small Unmanned Aircraft (Drones) and Rockets) Order 2015* (S.I. No. 563 of 2015), in effect as per art. 1(2); revoked (2.02.2023) by *Irish Aviation Authority (Unmanned Aircraft Systems (Drones)) Order 2023* (S.I. No. 24 of 2023), art. 25, subject to transitional provision in art. 26.
+>
+> E341: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E342: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E343: Previous affecting provision: power pursuant to section exercised (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), in effect as per art. 1(2); revoked (1.07.2024) by *Irish Aviation Authority (Operations) Order 2024* (S.I. No. 298 of 2024), art. 3(1), in effect as per art. 1(2), subject to transitional provision in art. 3(2).
+>
+> E344: Previous affecting provision: power pursuant to section exercised (16.12.2005) by *Irish Aviation Authority (Operations)(Amendment No. 2) Order 2005* (S.I. No. 778 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E345: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E346: Previous affecting provision: power pursuant to section exercised (3.05.2005) by *Irish Aviation Authority (Operations) (Amendment) Order 2005* (S.I. No. 217 of 2005), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3, in effect as per art. 1(2).
+>
+> E347: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E348: Previous affecting provision: power pursuant to section exercised (2.09.2003) by *Irish Aviation Authority (Operations)(Amendment) Order 2003* (S.I. No. 388 of 2003), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E349: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Operations)(Amendment) Order 2002* (S.I. No. 592 of 2002), in effect as per art. 1(4); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E350: Previous affecting provision: power pursuant to section exercised (31.12.2002) by *Irish Aviation Authority (Obstacles to Aircraft in Flight) (Amendment) Order 2002* (S.I. No. 591 of 2002), in effect as per art. 1(4); revoked (1.05.2005) by *Irish Aviation Authority (Obstacles To Aircraft in Flight) Order 2005* (S.I. No. 215 of 2005), art. 1, in effect as per art. 1.
+>
+> E351: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E352: Previous affecting provision: power pursuant to section exercised (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), in effect as per art. 1(2); revoked (1.03.2006) by *Irish Aviation Authority (Operations) Order 2006* (S.I. No. 61 of 2006), art. 3(1), in effect as per art. 1(2).
+>
+> E353: Previous affecting provision: power pursuant to section exercised (14.11.2000) by *Irish Aviation Authority (Operations) (Amendment) Order 2000* (S.I. No. 335 of 2000), in effect as per art. 1(4); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002), art. 3(1), in effect as per art. 1(2).
+>
+> E354: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Irish Aviation Authority (Operations) Order 1999* (S.I. No. 19 of 1999), in effect as per art. 1(2); revoked (1.10.2002) by *Irish Aviation Authority (Operations) Order 2002* (S.I. No. 437 of 2002, art. 3, in effect as per art. 1(2).
+>
+> E355: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+
+### 68. Designation of areas of Irish airspace for use by Defence Forces.
+
+**68.**— (1) The company shall by order made with the consent of the Minister and the Minister for Defence designate areas of Irish airspace (an area so designated being referred to in this section as “ a designated area ”) for use by the Defence Forces.
+
+(2) Aircraft other than aircraft of the Defence Forces shall not enter a designated area without the permission of the person operating air navigation services in the area.
+
+(3) Air navigation services in a designated area may be provided and operated by the Minister for Defence or, with the consent of the Minister for Defence, by the company or, by agreement between them, by the Minister for Defence and the company.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E356: Power pursuant to subs. (1) exercised (13.03.2008) by *Irish Aviation Authority (Designated Areas) Order 2007* (S.I. No. 806 of 2007), in effect as per art. 2.
+>
+> E357: Previous affecting provision: power pursuant to subs. (1) exercised (16.05.2002) by *Irish Aviation Authority (Designated Areas) Order 2002* (S.I. No. 140 of 2002), in effect as per art. 2; revoked (13.03.2008) by *Irish Aviation Authority (Designated Areas) Order 2007* (S.I. No. 806 of 2007), art. 6, in effect as per art. 2.
+>
+> E358: Previous affecting provision: power pursuant to section exercised (14.09.1995) by *Air Navigation (Designated Areas) Order 1995* (S.I. No. 170 of 1995), in effect as per art. 1(2); revoked (16.05.2002) by *Irish Aviation Authority (Designated Areas) Order 2002* (S.I. No. 140 of 2002), art. 6, in effect as per art. 2.
+
+### 69. Charge of rates on property of company.
+
+**69.**—Property vested in the company on or after the vesting day shall from the commencement of the financial year commencing next after the vesting day, cease to be exempt from the rate chargeable by a local authority notwithstanding that the property may appear as exempt on a valuation list.
+
+### 69A. Regulations may be made to give effect to certain provisions of EASA Basic Regulation
+
+F78[**69A.**— (1) The Minister may make regulations for the purpose of exercising the opt-in provisions of Article 2.6 of the EASA Basic Regulation to give effect to certain provisions of the EASA Basic Regulation relating to the regulation of aviation activities by aircraft (including related engines, propellers, parts, non-installed equipment and equipment to control aircraft remotely) while carrying out search and rescue, firefighting, coastguard or similar activities or services under the control and responsibility of the State, undertaken in the public interest by or on behalf of the Irish Coast Guard and the personnel and organisations involved in the activities and services performed by those aircraft.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may—
+
+(*a*) make provision in relation to all or any aspect of (including any combination of) the matters set out in sections I, II, III and VII of Chapter III of the EASA Basic Regulation as may be specified in the regulations,
+
+(*b*) apply either generally or to such class of persons or activities or services as may be specified in the regulations, and
+
+(*c*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations (including provisions repealing, amending or applying, with or without modification, other law, exclusive of this Act, the European Communities Act 1972 and the European Communities Act 2007).
+
+(3) When making regulations under *subsection (1)*, the Minister shall have regard to the following:
+
+(*a*) the aim to strengthen the national aviation safety regulatory framework for aviation activities of the Irish Coast Guard and aligning it with European aviation safety regulations;
+
+(*b*) the need to provide for greater specificity in relation to the regulatory framework of the oversight of aviation activities by and for the Irish Coast Guard;
+
+(*c*) the need to secure the operation and safety of the aircraft, and persons and property contained therein, operated by or on behalf of the Irish Coast Guard and mitigate the risks pertaining to safety;
+
+(*d*) the need to allow for immediate reaction to accidents and serious incidents and balance the safety requirements with search and rescue objectives;
+
+(*e*) the interests and views of the civil aviation sector and the general public;
+
+(*f*) the interest of international cooperation within the European aviation industry and the promotion of European aviation safety standards;
+
+(*g*) the need to promote effectiveness in regulatory, certification and oversight processes.
+
+(4) The Minister shall consult with the Irish Coast Guard and the company before he or she makes regulations under this section.
+
+(5) A word or expression which is used in this section and which is also used in the EASA Basic Regulation has, unless the context otherwise requires, the same meaning in this section as it has in the EASA Basic Regulation.
+
+(6) In this section "EASA Basic Regulation" has the meaning assigned to it by *section 32A(6)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 79, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E359: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### Transfer of certain functions under Wireless Telegraphy Act 1926 to company.
+
+F79[**70.**―(1) The Commission may, by order―
+
+(*a*) transfer to the company the functions of the Commission under section 5 of the Wireless Telegraphy Act 1926, or
+
+(*b*) assign to the company functions of the Commission under section 7 of that Act in so far, in each case, as they relate to apparatus for wireless telegraphy in aircraft.
+
+(2) If an order under *subsection (1)* is in force, in relation to functions under section 7, those functions continue to be vested in the Commission but concurrently with the company and so as to be capable of being performed, as the Commission may determine, either by the Commission or the company.
+
+(3) The company shall remit to the Commission any fees paid to it under section 5 of the Wireless Telegraphy Act 1926 , subject to the deduction of amounts determined by the company and the Commission for expenses incurred by the company under that section.
+
+(4) The company shall provide the Commission with information in relation to such matters concerning the performance of functions transferred or assigned to it under this section as the Commission specifies in writing.
+
+(5) In this section, "the Commission" means the Commission for Communications Regulation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Substituted (15.05.2007) by *Communications Regulation (Amendment) Act 2007* (22/2007), s. 4(2) and sch. 1 part 9 item 1, S.I. No. 224 of 2007, subject to savings and transitional provisions in s. 4(4) and sch. 3.
+>
+> **Editorial Notes:**
+>
+> E360: Previous affecting provision: functions transferred and references in a transferred function to the Director or the Minister construed (27.04.2002) by *Communications Regulation Act 2002* (20/2002), s. 9 and sch. 1, pt. 1, commenced on enactment; s. 9 repealed and s. 70 substituted (15.05.2007) by *Communications Regulation (Amendment) Act 2007* (22/2007), s. 4, S.I. No. 224 of 2007.
+>
+> E361: Previous affecting provision: functions transferred and references to the Minister construed (30.06.1997) by *Telecommunications (Miscellaneous Provisions) Act 1996* (34/1996), s. 4(2) and sch. 2 part 1, S.I. No. 110 of 1997; s. 4 and sch. 2 repealed (1.12.2002) by *Communications Regulation Act 2002* (20/2002), s. 38, S.I. No. 510 of 2002.
+
+### 71. Restriction of Worker Participation (State Enterprises) Acts, 1977 to 1991.
+
+**71.**—The Worker Participation (State Enterprises) Acts, 1977 to 1991, shall not apply to the company.
+
+### 71A. Accountability of company, etc., to Committees of Oireachtas
+
+F80[**71A.**— (1) The Chief Executive or a relevant officer shall, whenever required by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, attend before and give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the company is required by or under this Act or any other enactment to prepare,
+
+(*b*) the economy and efficiency of the company in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the company for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the company referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) From time to time, and whenever so requested, the Chief Executive or a relevant officer shall account for the performance of the company’s functions to a Committee of one or both Houses of the Oireachtas and the company shall have regard to any recommendations of such Committee relevant to its functions.
+
+(3) (*a*) *Paragraph (b)* applies where the Chief Executive or a relevant officer is requested by a Committee of the Oireachtas to—
+
+(i) attend before that Committee, and
+
+(ii) provide that Committee with information relating to the company’s functions.
+
+(*b*) The Chief Executive or relevant officer, as appropriate, shall—
+
+(i) appear before the Committee, and
+
+(ii) provide the Committee with such information relating to the aviation safety performance statement referred to in *section 32A* as the Committee requires.
+
+(4) In this section, "relevant officer" means an officer of the company nominated by the company for the purposes of one or more of *subsections (1)* to *(3)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 80, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E362: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 72. Miscellaneous amendments of Acts.
+
+**72.**— (1) Sections 55 and 56 of the Principal Act, as amended, in each case, by the Act of 1988, shall have effect as if the references to an order under Part II of the Act of 1946 included references to an order under this Act.
+
+(2) The powers conferred on the Minister by sections 13 and 14 of the Air Navigation and Transport Act, 1950, may be exercised also by the company and, for the purposes of such exercise—
+
+(*a*) the references in paragraphs (*a*) and (*b*) of subsection (2) of section 13 to an authorised person shall be construed as references to an authorised officer of the company, and
+
+(*b*) the references in those sections to the Minister shall be construed as references to the company.
+
+(3) The powers conferred on the Minister by section 9 of the Act of 1988 in relation to the licences and authorisations specified in that section may be exercised by him also in relation to licences and authorisations for the operation of aerodromes granted by the company.
+
+(4) An authorised officer of the company may for the purposes of the enforcement of any provisions of—
+
+(*a*) the Acts or this Act or an instrument made or given thereunder and relating to a matter to which a function of the company relates,
+
+(*b*) the Annexes to the Chicago Convention specified in F81[*Schedule 1*], or
+
+(*c*) the Eurocontrol Convention,
+
+exercise any of the powers conferred by section 18 of the Act of 1988 on an authorised person within the meaning of that section and, for the purposes of such exercise, subsections (2) and (4) of that section shall apply in relation to an authorised officer of the company as they apply in relation to an authorised person within the meaning aforesaid.
+
+(5) The powers conferred on an authorised officer within the meaning of section 33 of the Act of 1988 by subsection (1) (*b*) of that section may be exercised by an authorised person within the meaning of section 18 of that Act.
+
+(6) (*a*) Section 28 of the Act of 1988 is hereby amended by the substitution of “£100,000” for “£50,000” in each place where it occurs in subsections (1) (*b*), (2) (*b*) and (3) (*b*).
+
+(*b*) Section 29 of the Act of 1988 is hereby amended by the substitution of “£100,000” for “£50,000” in subsections (1) (*b*) and (2) (*b*).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 81, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E363: Power pursuant to section exercised (1.01.2006) by *Irish Aviation Authority (Protected Area) Order 2005* (S.I. No. 777 of 2005), in effect as per art. 1(b).
+
+### 73. Proceedings.
+
+**73.**— (1) Summary proceedings for an offence consisting of a contravention of an instrument to which *section 74* applies made, given or issued by the company or an offence under *section 74 (5)* (other than an offence in relation to an authorised officer) may be brought and prosecuted by the company.
+
+(2) Summary proceedings for an offence under *section 33, 34, 35* or *36* or an offence consisting of a contravention of an instrument to which *section 74* applies made, given or issued by the Minister or an offence under section *74 (5)* in relation to an authorised officer may be prosecuted by the Minister.
+
+(3) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C30: Application of provisions under section extended (28.09.2003) by *European Communities (European Aviation Safety Agency) Regulations 2003* (S.I. No. 469 of 2003), reg. 8(2), in effect as per reg. 2, as amended (8.04.2008) by *European Communities (European Aviation Safety Agency) (Amendment) Regulations 2008* (S.I. No. 95 of 2008), reg. 3(c), in effect as per reg. 2.
+>
+> **8.** …
+>
+> (2) The provisions of Sections 73 and 74 of the 1993 Act, **[**... **]** shall apply accordingly.
+
+### 74. Offences.
+
+**74.**— (1) Without prejudice to *subsection (2)*, if in relation to an aircraft there is a contravention of a provision of this Act or an instrument to which this section applies, the operator of the aircraft (not being the State) and the pilot in command thereof shall be deemed to have contravened the provision or instrument, as the case may be.
+
+(2) A person who contravenes or is deemed to have contravened an instrument to which this section applies or fails to comply with a condition thereof shall be guilty of an offence.
+
+(3) A person guilty of—
+
+(*a*) an offence under *section 33, 34, 35* or *36*, or
+
+(*b*) an offence under *subsection (2)* (other than such an offence consisting of a contravention of regulations under *section 43 (4)* or *56* ),
+
+shall be liable—
+
+(i) on summary conviction, to a fine not exceeding F83[€5,000] or to imprisonment for a term not exceeding F85[6 months] or to both, or
+
+(ii) on conviction on indictment, to a fine not exceeding F87[€500,000] or to imprisonment for a term not exceeding 3 years or to both.
+
+(4) A person guilty of an offence under *subsection (2)* consisting of a contravention of a regulation under *section 43 (4)* or *section 56* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F89[€5,000] or to imprisonment for a term not exceeding 6 months or to both.
+
+F91[(5) A person who obstructs or impedes an authorised officer, an authorised officer of the company, a member of the staff of the company or an officer of Eurocontrol in the performance of any function conferred on him or her by or under this Act or fails to furnish to such a member information to which he or she is entitled under *section 57B* or an order under *section 65* is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.]
+
+(6) In a prosecution of a person for an offence under this Act (other than *sections 33* to *36*), it shall be a defence for the person to prove that the contravention concerned was due to stress of weather or other unavoidable cause and in a prosecution of the operator or pilot in command of an aircraft for such an offence, it shall be a defence for him to prove that the contravention concerned took place without his actual default or privity.
+
+(7) Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person, being a director, manager or secretary of such body, or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.
+
+(8) On conviction of a person on indictment for an offence under this Act, the court may, in addition to any other penalty, order any apparatus, equipment or other thing, other than an aircraft, used to commit the offence to be forfeited.
+
+(9) (*a*) In this section “an instrument to which this section applies” means an order or regulation made under this Act or (in so far as it relates to a matter to which a function of the company relates) the Acts or the Air Navigation (Eurocontrol) Acts, 1963 to 1983, a direction or authorisation to aircraft to proceed given under this Act or (in so far as it relates to such a matter as aforesaid) the Acts or under an order or regulation made under this Act or (in so far as it relates to such a matter as aforesaid) the Acts and a certificate, licence or authorisation issued or given under this Act or (in so far as it relates to such a matter as aforesaid) the Acts.
+
+(*b*) In *paragraph (a)* “authorisation to proceed” means an authorisation or instruction, whether oral or written and by whatever name called given by or on behalf of the company to the pilot in charge of an aircraft in relation to the piloting, control or movement of the aircraft or otherwise in relation to the aircraft.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82, F83, F84, F85, F86, F87, F88, F89, F90, F91: Substituted (4.04.2006) by *Aviation Act 2006*6 (7/2006), s. 2(c)(i), (ii), (iii), (iv), commenced on enactment. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C31: Words in subs. (9)(a) construed (28.09.2003) by *European Communities (European Aviation Safety Agency) Regulations 2003* (S.I. No. 469 of 2003), reg. 8(1), in effect as per reg. 2, as amended (8.04.2008) by *European Communities (European Aviation Safety Agency) (Amendment) Regulations 2008* (S.I. No. 95 of 2008), reg. 3(b), in effect as per reg. 2.
+>
+> **8.** (1) The phrase “an instrument to which this section applies” in Section 74(9)(a) of the 1993 Act shall be deemed to include **[**the EASA Regulation,**]** an EASA rule and any rule, regulation, direction, authorization certificate or licence issued in accordance with that rule.
+>
+> ...
+>
+> C32: Application of provisions under section extended (28.09.2003) by *European Communities (European Aviation Safety Agency) Regulations 2003* (S.I. No. 469 of 2003), reg. 8(2), in effect as per reg. 2, as amended (8.04.2008) by *European Communities (European Aviation Safety Agency) (Amendment) Regulations 2008* (S.I. No. 95 of 2008), reg. 3(c), in effect as per reg. 2.
+>
+> **8.** ….
+>
+> (2) The provisions of Sections 73 and 74 of the 1993 Act, **[**... **]** shall apply accordingly.
+
+### 74A. Definitions - sections 74B to 74D
+
+F92[**74A.**— In sections *74B* to *74D*—
+
+"enforcement notice" means a notice under *section 74B(2)*;
+
+"IAA" means the company referred to in *section 11*;
+
+"IANS" means the company referred to in section 10 of the Air Navigation and Transport Act 2022;
+
+"relevant provision" means a provision of—
+
+(*a*) this Act (including a European Union Regulation listed in *Schedule 2*) relating to a function of the IANS, or
+
+(*b*) another enactment (other than the Aviation Regulation Act 2001) relating to a function of the IANS.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 82, S.I. No. 220 of 2023.
+
+### 74B. Issue of enforcement notices
+
+F93[**74B.**— (1) *Subsection (2)* applies where the IAA is of the opinion (in this section referred to as the "relevant opinion") that the IANS—
+
+(*a*) has failed to comply or fully comply with a relevant provision,
+
+(*b*) is failing to comply or fully comply with a relevant provision, or
+
+(*c*) has failed to comply or fully comply with a relevant provision in circumstances that make it likely that the failure will continue or be repeated.
+
+(2) The IAA may give the IANS a notice in writing—
+
+(*a*) stating the relevant opinion,
+
+(*b*) specifying the relevant provision as to which the IAA is of that opinion and the reasons why it is of that opinion,
+
+(*c*) directing the IANS to take such steps as are specified in the notice to remedy the failure concerned or, as the case may be, the matters occasioning it, and
+
+(*d*) specifying a period (ending not earlier than the period specified in *section 74C* within which an application under that section against any directions specified in the notice may be made) within which those steps must be taken.
+
+(3) The steps specified in an enforcement notice to remedy any failure or matter to which the notice relates may be framed so as to afford the IANS a choice between different ways of remedying the failure or matter, as the case may be.
+
+(4) Where the IANS makes an application under *section 74C(1)* against any direction specified in an enforcement notice, the steps specified in the notice need not be taken by the IANS pending the determination, withdrawal or abandonment of the application.
+
+(5) The IAA may cancel an enforcement notice by notice in writing given to the IANS.
+
+(6) Where the IANS fails to take the steps specified in an enforcement notice given to it, the IAA may, on notice to the IANS, apply in a summary manner to the High Court for an order requiring the IANS to take those steps (or to take such varied or other steps for the like purpose as may be specified in the order), and the High Court—
+
+(*a*) may—
+
+(i) make the order sought,
+
+(ii) make the order sought subject to such variations to those steps as may be specified in the order, or
+
+(iii) make the order sought subject to such other steps for the like purpose as may be specified in the order,
+
+or
+
+(*b*) may dismiss the application,
+
+and, whether *paragraph (a)* or *(b)* is applicable, may make such order as to costs as it thinks fit in respect of the application.
+
+(7) Without prejudice to the powers of the High Court to enforce an order under *subsection (6)(a)*, if the IANS fails to comply with the order it shall be guilty of an offence and liable on conviction on indictment to a fine not exceeding €150,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F93: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 82, S.I. No. 220 of 2023.
+
+### 74C. Application for cancellation of direction specified in enforcement notice
+
+F94[**74C.**— (1) The IANS may, on notice to the IAA, not later than 30 days after being given an enforcement notice, apply to the High Court for the cancellation of any direction specified in the notice and, on such an application, the High Court may—
+
+(*a*) cancel the direction,
+
+(*b*) confirm the direction, or
+
+(*c*) vary the direction,
+
+and, whether *paragraph (a)*, *(b)* or *(c)* is applicable, make such order as to costs as it thinks fit in respect of the application.
+
+(2) The decision of the High Court on a direction specified in an enforcement notice shall be final save that, by leave of that Court or the Court of Appeal, an appeal by the IAA or the IANS, as the case may be, from the decision shall lie to the Court of Appeal on a point of law.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F94: Inserted (1/05/2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 82, S.I. No. 220 of 2023.
+
+### 74D. Rules of court
+
+F95[**74D.**— Rules of court may make provision for the expedition of the hearing of proceedings under *sections 74B* and *74C*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F95: Inserted (1/05/2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 82, S.I. No. 220 of 2023.
+
+## PART VI Transitional Provisions — PART VI — Transitional Provisions
+
+### 75. Continuance of certain instruments.
+
+**75.**— (1) An order, regulation, direction, licence, permission, register, registration, certificate, instrument of approval, notice, instruction or other instrument, document or record that was made, given, established, issued or granted under a provision of, or made under, the Acts, relates to a matter to which a function of the company relates and is in force immediately before the vesting day shall, on and after the vesting day, in so far as it so relates, continue in force and may be amended, revoked, cancelled, withdrawn, suspended or endorsed by the company as if it had been made, given, established, issued or granted under the corresponding provision of, or made under, this Act.
+
+(2) References in any statute or instrument under statute or other document or record referred to in *subsection (1)* to the Minister shall, on and after the vesting day, in so far as the reference relates to a matter to which a function of the company relates, be construed as a reference to the company.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E364: Power pursuant to section exercised (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015), in effect as per art. 2.
+>
+> E365: Power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Airworthiness of Aircraft) Order 1996* (S.I. No. 324 of 1996), in effect as per art. 1(2).
+>
+> E366: Previous affecting provision: power pursuant to section exercised (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), in effect as per art. 1(2); revoked (7.03.2023) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2023* (S.I. No. 102 of 2023), art. 29, subject to transitional provision in art. 30.
+>
+> E367: Previous affecting provision: power pursuant to section exercised (15.12.2009) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2009* (S.I. No. 492 of 2009), in effect as per art. 1(2); revoked (1.03.2015) by *Irish Aviation Authority (Noise Certification and Limitation) Order 2015* (S.I. No. 55 of 2015), art. 2(1), in effect as per art. 1(2).
+>
+> E368: Previous affecting provision: power pursuant to section exercised (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005), in effect as per art. 2; revoked (1.06.2015) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2015* (S.I. No. 107 of 2015) art. 4, in effect as per art. 2.
+>
+> E369: Previous affecting provision: power pursuant to section exercised (1.01.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), in effect as per art. 2; revoked (12.10.2005) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2005* (S.I. No. 634 of 2005, art. 4, in effect as per art. 2.
+>
+> E370: Previous affecting provision: power pursuant to section exercised (1.03.2002) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), in effect as per art. 2; revoked (1.01.2005) by *Irish Aviation Authority (Nationality Registration of Aircraft) Order 2004* (S.I. No. 857 of 2004), art. 4, in effect as per art. 2.
+>
+> E371: Previous affecting provision: power pursuant to section exercised (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), in effect as per. art. 1(2); revoked (1.01.2001) by *Irish Aviation Authority (Fees) (No. 2) Order 2000* (S.I. No. 433 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E372: Previous affecting provision: power pursuant to section exercised (1.03.1999) by *Air Navigation (Personnel Licensing) (Amendment) Order 1999* (S.I. No. 21 of 1999), in effect as per art. 1(3); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E373: Previous affecting provision: power pursuant to section exercised (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), in effect as per art. 1(2); revoked (1.03.2000) by *Irish Aviation Authority (Fees) Order 2000* (S.I. No. 24 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E374: Previous affecting provision: power pursuant to section exercised (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), in effect as per art. 1(2); revoked (1.01.1999) by *Irish Aviation Authority (Fees) Order 1998* (S.I. No. 486 of 1998), art. 3, in effect as per art. 1(2).
+>
+> E375: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 1996* (S.I. No. 322 of 1996), in effect as per art. 2; revoked (1.03.2001) by *Irish Aviation Authority (Nationality and Registration of Aircraft) Order 2001* (S.I. No. 566 of 2001), art. 4, in effect as per art. 2.
+>
+> E376: Previous affecting provision: power pursuant to section exercised (1.03.1997) by *Air Navigation (Personnel Licensing) (Amendment) (No. 2) Order 1996* (S.I. No. 321 of 1996), in effect as per art. 1(2); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art. 1(2).
+>
+> E377: Previous affecting provision: power pursuant to section exercised (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), in effect as per art. 1(4); revoked (17.11.2000) by *Irish Aviation Authority (Personnel Licensing) Order 2000* (S.I. No. 333 of 2000), art. 3, in effect as per art 1(2).
+>
+> E378: Previous affecting provision: power pursuant to section exercised (25.08.1995) by *Air Navigation (Personnel Licensing) (Amendment) Order 1995* (S.I. No. 222 of 1995), in effect as per art. 2; revoked (1.06.1996) by *Air Navigation (Personnel Licensing) (Amendment) Order 1996* (S.I. No. 50 of 1996), art. 3, in effect as per art. 1(4).
+>
+> E379: Previous affecting provision: power pursuant to section exercised (18.04.1995) by *Air Navigation (Fees) Order 1995* (S.I. No. 74 of 1995), in effect as per art. 1(2); revoked (1.09.1997) by *Irish Aviation Authority (Fees) Order 1997* (S.I. No. 295 of 1997), art. 3, in effect as per art. 1(2).
+
+### 76. Continuance of pending legal proceedings.
+
+**76.**—Any legal proceedings relating to a matter to which a function of the company relates and pending immediately before the vesting day to which the Minister, any other State authority or the State is a party shall be continued with the substitution in the proceedings, in so far as they so relate, for any such party of the company.
+
+### 77. Transfer of land.
+
+**77.**— (1) (*a*) On the vesting day such land which, immediately before that day, was vested in the Minister, the Minister for Finance or the Commissioners as may be designated by the Minister for the purposes of this section with the consent of the Minister for Finance and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, but subject to *subsection (2)*, stand vested in the company for all the estate or interest for which immediately before the vesting day it was vested in the Minister, the Minister for Finance or the Commissioners, as the case may be, but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(*b*) On such day after the vesting day, but not more than one year thereafter, as may be specified by the Minister with the consent of the Minister for Finance, such land vested in the Minister, the Minister for Finance or the Commissioners as may be designated by the Minister for the purposes of this section with the consent of the Minister for Finance and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, but subject to *subsection (2)*, stand vested in the company for all the estate or interest for which immediately before the day so specified it was vested in the Minister, the Minister for Finance or the Commissioners but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(2) *Subsection (1)* shall not operate to vest in the company any minerals or any rights of mining or taking minerals, or any foreshore, within the meaning of the Foreshore Act, 1933.
+
+(3) Where, immediately before the vesting day, land vested in the Minister, the Minister for Finance or the Commissioners was being used for the purpose of a function of the Minister corresponding to a function of the company, the Minister, the Minister for Finance or the Commissioners, as the case may be, may, upon and subject to such terms and conditions as the Minister, the Minister for Finance or the Commissioners, as the case may be, may determine, lease or let the land to, or license its use by, the company or a subsidiary.
+
+### 78. Transfer of other property.
+
+**78.**— (1) On the vesting day all property other than land, including choses-in-action, which immediately before that day was the property of the Minister and was used in connection with a function of the Minister corresponding to a function of the company shall stand vested in the company without any assignment.
+
+(2) The Minister may on his own initiative and shall on the application of the company issue a certificate in respect of specified prop erty stating, as he thinks proper, that the property vested in the company under this section or did not so vest and the certificate shall be conclusive evidence of the facts so stated.
+
+(3) Every chose-in-action transferred by *subsection (1)* to the company may, after the vesting day, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company or the Minister to give notice to the person bound by the chose-in-action of the transfer effected by that subsection.
+
+### 79. Transfer of rights and liabilities.
+
+**79.**— (1) Subject to *sections 80* and *81* , all rights and liabilities of the Minister arising by virtue of any contract or commitment (expressed or implied) entered into by him before the vesting day in relation to a function of the Minister corresponding to a function of the company shall on that day stand transferred to the company.
+
+(2) The Minister may on his own initiative and shall on the application of the company issue a certificate in respect of a specified contract or commitment stating, as he thinks proper, that the rights and liabilities of the Minister thereunder were transferred on the vesting day to the company under this section or were not so transferred and the certificate shall be conclusive evidence of the facts so certified.
+
+(3) Every right and liability transferred by *subsection (1)* to the company may, on and after the vesting day, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company or the Minister to give notice to the person whose right or liability is transferred by this section of such transfer.
+
+### 80. Transitional financial provisions.
+
+**80.**— (1) The company shall pay to or in respect of every officer of the Minister transferred to the staff of the company under this Act any amount due to or in respect of that officer in respect of service as such officer and unpaid on the vesting day and the company shall, with the concurrence of the Minister for Finance, be reimbursed by the Minister in respect of any such payments (other than payments made in respect of untaken leave).
+
+(2) The company may pay any amounts owed by the Minister for goods and services provided to the Minister in the performance of a function of the Minister corresponding to a function of the company, and unpaid on the vesting day, and the company shall, with the concurrence of the Minister for Finance, be reimbursed by the Minister in respect of any such payments.
+
+(3) The Minister shall, with the concurrence of the Minister for Finance, pay to the company an amount equal to the amount of any advance payments received by him before the vesting day in respect of goods or services to be provided by the company on or after the vesting day less the amount of any costs incurred by him in collecting such payments.
+
+(4) The company shall collect any amount due to the Minister after the vesting day in respect of goods or services provided by the Minister before the vesting day in the performance of a function of the Minister corresponding to a function of the company and, for the purposes of this subsection, any such amount shall be deemed to be a simple contract debt due to the company that may be recovered by the company in any court of competent jurisdiction; and the company shall pay to the Minister an amount equal to the amount of any sum collected or recovered by it under this section less the amount of any costs incurred by it in collecting or recovering the amount.
+
+(5) Where any payments fall to be made by the company in respect of overpayments made to the Minister for goods and services provided by him before the vesting day in the performance of a function of the Minister corresponding to a function of the company, the Minister shall pay to the company an amount equal to the amount of the payments aforesaid.
+
+(6) All sums required to be paid under this section shall become due and payable on such date or dates as the Minister, in consultation with the company and with the concurrence of the Minister for Finance, may determine.
+
+(7) The company shall furnish to the Minister such information, records and documents as the Minister may require for the purposes of this section and the Minister and his officers may inspect and take copies of or of extracts from all relevant records and documents of the company.
+
+(8) The Minister shall furnish to the company such information, records and documents as the company may require for the purposes of this section and the company and its officers may inspect and take copies of or of extracts from all relevant records and documents held by the Minister, his Department or other State authorities.
+
+(9) In the event of a disagreement as to any amount to be paid by the Minister to the company or by the company to the Minister under this section, the decision of the Minister, given with the concurrence of the Minister for Finance, shall be final.
+
+### 81. Liability for loss occurring before vesting day.
+
+**81.**— (1) Subject to *subsection (2)*, where a claim in respect of any loss, injury or damage arising out of the exercise before the vesting day of functions transferred to the company by or under this Act has not been made before that day or, if so made, has not been satisfied or otherwise disposed of, the claim shall, after that day, lie against the company and not against the Minister, any other State authority or the State.
+
+(2) *Subsection (1)* shall not apply in relation to a loss or an injury or damage referred to in *subsection (1)* if there is in force a policy of insurance under which the Minister is insured against any sum which he is liable to pay by way of damages or costs in respect of the loss, injury or damage.
+
+(3) Where, before the vesting day, agreement in settlement of a claim to which *subsection (1)* relates has been reached between the parties and the terms of the agreement have not been implemented or judgment has been given in favour of the person making the claim and the judgment has not been enforced, the terms of the agreement or the judgment, as the case may be, shall, in so far as enforceable against the Minister, any other State authority or the State, be enforceable against the company and not against the Minister, any other State authority or the State.
+
+(4) Any claim made or proper to be made by the Minister, any other State authority or the State in respect of any loss, injury or damage arising from the act or default of any person before the vesting day shall, where the claim relates to functions assigned to the company by or under this Act, be regarded as made by or proper to be made by the company and may be pursued and sued for by the company as if the loss, injury or damage had been suffered by the company.
+
+(5) Where, before the vesting day, settlement of a claim to which *subsection (4)* relates has been reached between the parties and the terms of the agreement have not been implemented or judgment has been given in favour of the Minister, any other State authority or the State and the judgment has not been enforced, the terms of the agreement or the judgment, as the case may be, shall, in so far as enforceable by the Minister, any other State authority or the State, be enforceable by the company.
+
+(6) This section does not apply to a claim by one State authority against another.
+
+(7) The Minister shall pay to the company a sum equal to the amount of any payment made by the company in respect of a claim referred to in *subsection (1)* or *(3)* including any payment in respect of costs necessarily incurred in relation to the claim by any party.
+
+(8) The company shall pay to the Minister a sum equal to the amount of any payment received by the company in respect of a claim referred to in *subsection (4)* or *(5)* less the amount of any payment made by the company in respect of costs necessarily incurred by it in relation to the claim and, where such a claim is unsuccessful, the Minister shall pay to the company an amount equal to the amount of any payment made by the company in respect of costs necessarily incurred by it in relation to the claim.
+
+## F96[SCHEDULE 1 — Sections 14, 58, 59, 60, 67, and 72 — Annexes to Chicago Convention in relation to which functions stand conferred on company
+
+Annexe 1 - Personnel Licensing
+
+Annexe 2 - Rules of the Air
+
+Annexe 4 - Aeronautical Charts
+
+Annexe 5 - Units of Measurement to be used in Ground and Air Operations
+
+Annexe 6 - Operation of Aircraft
+
+Annexe 7 - Aircraft Nationality and Registration Marks
+
+Annexe 8 - Airworthiness of Aircraft
+
+Annexe 10 - Aeronautical Telecommunications
+
+Annexe 11 - Air Traffic Services
+
+Annexe 12 - Search and Rescue (limited to rescue co-ordination centres and rescue sub-centres)
+
+Annexe 14 - Aerodromes
+
+Annexe 15 - Aeronautical Information Services
+
+Annexe 16 - Environmental Protection (other than environmental protection which falls within Volume IV, Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA))
+
+Annexe 17 - Security
+
+Annexe 18 - The Safe Transport of Dangerous Goods by Air
+
+Annexe 19 - Safety Management]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F96: Substituted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 83 and sch. 2, S.I. No. 220 of 2023.
+>
+> **Editorial Notes:**
+>
+> E380: Previous affecting provision: schedule amended (28.07.1995) by *Irish Aviation Authority Act 1993 (Amendment of Schedule) Order 1995* (S.I. No. 171 of 1995), art. 2; schedule substituted as per F-note above.
+>
+> E381: Previous affecting provision: schedule amended (14.11.2013) by *Irish Aviation Authority Act 1993 (Amendment of Schedule) (Annexe 19 to Chicago Convention) Order 2013* (S.I. No. 483 of 2013), art. 2; schedule substituted as per F-note above.
+
+## SCHEDULE 2 — Section 58A — European Union Regulations under which company is competent authority
+
+F97[**European Union Regulation**
+
+**Aviation Safety**
+
+1\. Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018[^4] on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, amended by Commission Delegated Regulation (EU) 2021/1087, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council, and Council Regulation (EEC) No 3922/91
+
+2\. Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008[^5] on common rules for the operation of air services in the Community (Recast), as amended by Regulation (EU) 2018/1139 of the European Parliament and of the Council, Regulation (EU) 2019/2 of the European Parliament and of the Council, Regulation (EU) 2020/696 of the European Parliament and of the Council, Commission Delegated Regulation (EU) 2020/2114 and Commission Delegated Regulation (EU) 2020/2115
+
+3\. Commission Regulation (EU) No 965/2012 of 5 October 2012[^6] laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, as amended by Commission Regulation (EU) No 800/2013, Commission Regulation (EU) No 71/2014, Commission Regulation (EU) No 83/2014, Commission Regulation (EU) No 379/2014, Commission Regulation (EU) No 2015/140, Commission Regulation (EU) No 2015/640, Commission Regulation (EU) No 2015/1329, Commission Regulation (EU) No 2015/2338, Commission Regulation (EU) No 2016/1199, Commission Regulation (EU) No 2017/363, Commission Regulation (EU) 2018/394, Commission Regulation (EU) 2018/1042, Commission Implementing Regulation (EU) 2018/1975, Commission Implementing Regulation (EU) 2019/1384, Commission Implementing Regulation (EU) 2019/1387 and Commission Implementing Regulation (EU) 2020/2036
+
+4\. Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014[^7] on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 as amended by Regulation (EU) 2018/1139
+
+5\. Commission Implementing Regulation (EU) 2015/1018 of 29 June 2015[^8] laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council
+
+6\. Commission Regulation (EU) No 452/2014 of 29 April 2014[^9] laying down technical requirements and administrative procedures related to air operations of third country operators pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, as amended by Commission Regulation (EU) 2016/1158
+
+7\. Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012[^10] laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010, as amended by Commission Regulation (EU) 2015/340, Commission Implementing Regulation (EU) 2016/1185, Commission Implementing Regulation 2017/835, Commission Implementing Regulation 2020/469, amended by Commission Implementing Regulation (EU) 2020/1177 and Commission Implementing Regulation (EU) 2020/886
+
+8\. Commission Regulation (EU) 2018/395 of 13 March 2018[^11] laying down detailed rules for the operation of balloons as well as for the flight crew licensing for balloons pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, as amended by Commission Implementing Regulation (EU) 2020/357
+
+9\. Commission Implementing Regulation (EU) 2018/1976 of 14 December 2018[^12] laying down detailed rules for the operation of sailplanes as well as for the flight crew licensing for sailplanes pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council, as amended by Commission Implementing Regulation (EU) 2020/358
+
+10\. Commission Implementing Regulation (EU) 2018/1048 of 18 July 2018[^13] laying down airspace usage requirements and operating procedures concerning performance-based navigation
+
+11\. Commission Implementing Regulation (EU) 2019/947 of 24 May 2019[^14] on the rules and procedures for the operation of unmanned aircraft, as amended by Commission Implementing Regulation (EU) 2020/639, Commission Implementing Regulation (EU) 2020/746 and Commission Implementing Regulation (EU) 2021/1166
+
+12\. Commission Delegated Regulation (EU) 2019/945 of 12 March 2019[^15] on unmanned aircraft systems and on third-country operators of unmanned aircraft systems, as amended by Commission Delegated Regulation (EU) 2020/1058
+
+13\. Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004[^16] laying down the framework for the creation of the single European sky (the framework Regulation), as amended by Regulation (EC) No 1070/2009 of the Parliament and of the Council
+
+14\. Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004[^17] on the provision of air navigation services in the single European sky (the service provision Regulation), as amended by Regulation (EC) No 1070/2009 of the Parliament and of the Council
+
+15\. Regulation (EC) No 551/2004 of the European Parliament and of the Council of 10 March 2004[^18] on the organisation and use of the airspace in the single European sky (the airspace Regulation), as amended by Regulation (EC) No 1070/2009 of the Parliament and of the Council
+
+16\. Commission Regulation (EU) No 1332/2011 of 16 December 2011[^19] laying down common airspace usage requirements and operating procedures for airborne collision avoidance, as amended by Commission Regulation (EU) 2016/583
+
+17\. Commission Regulation (EU) 2015/340 of 20 February 2015[^20] laying down technical requirements and administrative procedures relating to air traffic controllers’ licences and certificates pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, amending Commission Implementing Regulation (EU) No 923/2012 and repealing Commission Regulation (EU) No 805/2011
+
+18\. Commission Implementing Regulation (EU) 2017/373 of 1 March 2017[^21] laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation (EC) No 482/2008, Implementing Regulations (EU) No. 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011, as amended by Commission Implementing Regulation (EU) 2020/469 amended by Commission Implementing Regulation (EU) 2020/1177
+
+19\. Commission Implementing Regulation (EU) 2019/317 of 11 February 2019[^22] laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013
+
+**Air Passengers**
+
+20\. Regulation (EC) No 1107/2006 of the European Parliament and of the Council of 5 July 2006[^23] concerning the rights of disabled persons and persons with reduced mobility when travelling by air, and corrected by Corrigendum to Regulation (EC) No 1107/2006
+
+**Aerodromes**
+
+21\. Commission Regulation (EU) No 139/2014 of 12 February 2014[^24] laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, as amended by Commission Regulation (EU) 2017/161, Commission Regulation (EU) 2018/401 and Commission Delegated Regulation (EU) 2020/2148
+
+**Airworthiness**
+
+22\. Commission Regulation (EU) No 748/2012 of 3 August 2012[^25] laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (recast), as amended by Commission Regulation (EU) No 7/2013, Commission Regulation (EU) No 69/2014, Commission Regulation (EU) 2015/1039, Commission Regulation (EU) 2016/5, Commission Delegated Regulation (EU) 2019/897, Commission Delegated Regulation (EU) 2020/570, Commission Delegated Regulation (EU) 2021/699 and Commission Delegated Regulation (EU) 2021/1088
+
+23\. Commission Regulation (EU) No 1321/2014 of 26 November 2014[^26] on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks, as amended by Commission Regulation (EU) No 2015/1088, Commission Regulation (EU) No 2015/1536, Commission Regulation (EU) No 2017/334, Commission Regulation (EU) 2018/750, Commission Regulation (EU) 2018/1142, Commission Implementing Regulation (EU) 2019/1383, Commission Implementing Regulation (EU) 2019/1384, Commission Implementing Regulation (EU) 2020/270, Commission Implementing Regulation (EU) 2020/1159, Commission Implementing Regulation (EU) 2021/685 and Commission Implementing Regulation (EU) 2021/700
+
+24\. Commission Regulation (EU) No 2015/640 of 23 April 2015[^27] on additional airworthiness specifications for a given type of operations and amending Regulation (EU) No 965/2012, as amended by Commission Implementing Regulation (EU) 2019/133, Commission Implementing Regulation (EU) 2020/1159 and Commission Implementing Regulation (EU) 2021/97
+
+**Administrative Procedures for Aviation Safety**
+
+25\. Council Regulation (EEC) No 3922/91 of 16 December 1991[^28] on the harmonisation of technical requirements and administrative procedures in the field of civil aviation, as amended by Regulation (EC) No 1899/2006 of the European Parliament and the Council, Regulation (EC) No 1900/2006 of the European Parliament and the Council, Commission Regulation (EC) No 8/2008 and Commission Regulation (EC) No 859/2008
+
+26\. Commission Regulation (EU) No 1178/2011 of 3 November 2011[^29] laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 2016/2008 of the European Parliament and of the Council, as amended by Commission Regulation (EU) No 290/2012, Commission Regulation (EU) No 70/2014, Commission Regulation (EU) No 245/2014, Commission Regulation (EU) 2015/445, Commission Regulation (EU) 2016/539, Commission Regulation (EU) 2018/1065, Commission Regulation (EU) 2018/1119, Commission Implementing Regulation (EU) 2018/1974, Commission Implementing Regulation (EU) 2019/27, Commission Implementing Regulation (EU) 2019/430, Commission Implementing Regulation (EU) 2019/1747, Commission Implementing Regulation (EU) 2020/359, Commission Delegated Regulation (EU) 2020/723 Commission Implementing Regulation (EU) 2020/2193 and Commission Implementing Regulation (EU) 2021/1310
+
+27\. Commission Delegated Regulation (EU) 2020/723 of 4 March 2020[^30] laying down detailed rules with regard to the acceptance of third-country certification of pilots and amending Commission Regulation (EU) No 1178/2011
+
+**Aviation Security**
+
+28\. Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008[^31] on common rules in the field of civil aviation security and repealing Regulation (EC) No. 2320/2002, as amended by Commission Regulation (EU) No 18/2010
+
+29\. Commission Regulation (EC) No 272/2009 of 2 April 2009[^32] supplementing the common basic standards on civil aviation security laid down in the Annex to Regulation (EC) No 300/2008 of the European Parliament and of the Council, as amended by Commission Regulation (EU) No 297/2010, Commission Regulation (EU) No 720/2011, Commission Regulation (EU) No 1141/2011 and Commission Regulation (EU) No 245/2013
+
+30\. Commission Regulation (EU) No 72/2010 of 26 January 2010[^33] laying down procedures for conducting Commission inspections in the field of aviation security, as amended by Commission Implementing Regulation (EU) No 2016/472
+
+31\. Commission Implementing Regulation (EU) 2015/1998 of 5 November 2015[^34] laying down detailed measures for the implementation of the common basic standards on aviation security, as amended by Commission Implementing Regulation (EU) 2015/2426, Commission Implementing Regulation (EU) 2017/815, Commission Implementing Regulation (EU) 2017/837, Commission Implementing Regulation (EU) 2018/55, Commission Implementing Regulation (EU) 2019/103, Commission Implementing Regulation (EU) 2019/413, Commission Implementing Regulation (EU) 2020/111, Commission Implementing Regulation (EU) 2020/910 and Commission Implementing Regulation 2021/255
+
+32\. Commission Regulation (EU) No 1254/2009 of 18 December 2009[^35] setting criteria to allow Member States to derogate from the common basic standards on civil aviation security and to adopt alternative security measures, as amended by Commission Regulation (EU) 2016/2096
+
+33\. Commission Regulation (EC) 748/2009 of 5 August 2009[^36] on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC on or after 1 January 2006 specifying the administering Member State for each aircraft operator, as amended by Commission Regulation (EU) No 82/2010, Commission Regulation (EU) No 115/2011, Commission Regulation (EU) No. 394/2011, Commission Regulation (EU) No 100/2012, Commission Regulation (EU) No 109/2013, Commission Regulation (EU) No 815/2013, Commission Regulation (EU) No 100/2014, Commission Regulation (EU) 2015/180, Commission Regulation (EU) 2016/282, Commission Regulation (EU) 2017/294, Commission Regulation (EU) 2018/336, Commission Regulation (EU) 2019/225, Commission Regulation (EU) 2019/226, Commission Regulation (EU) 2020/535 and Commission Regulation (EU) 2021/66]
+
+F98[**Sustainable Air Transport**
+
+34\. Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18 October 2023[^37] on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation) in so far as it relates to enforcement of the application of the Regulation in respect of aircraft operators and Union airport managing bodies (within the meaning of those terms in that Regulation)]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Inserted (1.05.2023) by *Air Navigation and Transport Act 2022* (40/2022), s. 84 and sch. 3, S.I. No. 220 of 2023.
+>
+> F98: Inserted (7.08.2025) by *European Union (ReFuelEU Aviation) (Competent Authorities) Regulations 2025* (S.I. No. 396 of 2025), reg. 3(1).
+
+[^1]: OJ L212, 22.8.2018, p.1
+[^2]: OJ No. L122, 24.4.2014, p.18
+[^3]: OJ No. L296, 25.10.2012, p.1
+[^4]: OJ No. L212, 22.8.2018, p.1
+[^5]: OJ No. L293, 31.10.2008, p.3
+[^6]: OJ No. L296, 25.10.2012, p.1
+[^7]: OJ No. L122, 24.4.2014, p.18
+[^8]: OJ No. L163, 30.6.2015, p.1
+[^9]: OJ No. L133, 6.5.2014, p.12
+[^10]: OJ No. L281, 13.10.2012, p.1
+[^11]: OJ No. L71, 14.3.2018, p.10
+[^12]: OJ No. L326, 20.12.2018, p.64
+[^13]: OJ No. L189, 26.7.2018, p.3
+[^14]: OJ No. L152, 11.6.2019, p.45
+[^15]: OJ No. L152, 11.6.2019, p.1
+[^16]: OJ No. L96, 31.3.2004, p.1
+[^17]: OJ No. L96, 31.3.2004, p.10
+[^18]: OJ No. L96, 31.3.2004, p.20
+[^19]: OJ No. L336, 20.12.2011, p.20
+[^20]: OJ No. L63, 6.3.2015, p.1
+[^21]: OJ No. L62, 8.3.2017, p.1
+[^22]: OJ No. L56, 25.2.2019, p.1
+[^23]: OJ No. L204, 26.7.2006, p.1
+[^24]: OJ No. L44, 14.2.2014, p.1
+[^25]: OJ No. L224, 21.8.2012, p.1
+[^26]: OJ No. L362, 17.12.2014, p.1
+[^27]: OJ No. L106, 24.4.2015, p.18
+[^28]: OJ No. L373, 31.12.1991, p.4
+[^29]: OJ No. L311, 25.11.2011, p.1
+[^30]: OJ No. L170, 2.6.2020, p.1
+[^31]: OJ No. L97, 9.4.2008, p.72
+[^32]: OJ No. L91, 3.4.2009, p.7
+[^33]: OJ No. L23, 27.1.2010, p.1
+[^34]: OJ No. L299, 14.11.2015, p.1
+[^35]: OJ No. L338, 19. 12.2009, p.17
+[^36]: OJ No. L219, 22.8.2009, p.1
+[^37]: OJ L, 2023/2405, 31.10.2023

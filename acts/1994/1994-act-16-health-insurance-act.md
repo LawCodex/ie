@@ -1,0 +1,3483 @@
+---
+title: "Health Insurance Act, 1994"
+identifier: "eli/1994/act/16"
+type: act
+jurisdiction: ie
+language: en
+number: 16
+year: 1994
+date: 1994-06-30
+last_amended: 2026-04-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1994/act/16/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1994/act/16/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Health Insurance Act, 1994
+
+AN ACT TO REGULATE FURTHER, IN THE INTERESTS OF THE COMMON GOOD, THE PROVISION OF VOLUNTARY HEALTH INSURANCE SO AS TO PROVIDE, *INTER ALIA*, FOR THE ESTABLISHMENT OF THE HEALTH INSURANCE AUTHORITY, FOR THE ESTABLISHMENT OF SCHEMES FOR THE EQUALISATION OF RISKS BETWEEN HEALTH BENEFITS UNDERTAKINGS, FOR A MINIMUM RANGE OF COVER UNDER SUCH INSURANCE, FOR UNIFORMITY OF THE PREMIUMS CHARGED BY EACH PARTICULAR SUCH UNDERTAKING IN RESPECT OF SPECIFIED RANGES OF SUCH COVER AND FOR THE ESTABLISHMENT OF A REGISTER OF SUCH UNDERTAKINGS AND TO PROVIDE FOR RELATED MATTERS. [30*th June*, 1994]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.** — (1) This Act may be cited as the Health Insurance Act, 1994.
+
+(2) F1[This Act] shall come into operation on such day or days as the Minister shall fix by order or orders either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(a), S.I. No. 514 of 2001, art. 3(f).
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (4.02.1999) by *Health Insurance Act, 1994 (Commencement) Order 1999* (S.I. No. 28 of 1999).
+>
+> 2\. Sections 12(1), 12(2), 12(3), 12(6), 12(7), 17 and 19 to 34 shall come into operation on the fourth day of February 1999.
+>
+> E2: Power pursuant to section exercised (1.07.1994) by *Health Insurance Act 1994 (Commencement) Order 1994* (S.I. No. 191 of 1994).
+>
+> 2\. Sections 1 to 11, 12 (4), 12 (5), 13 to 16 and 18 shall come into operation on the first day of July, 1994.
+
+### 1A. Principal objective of Minister and Authority in performing respective functions under Act.
+
+F2[**1A.** — F3[(1) The principal objective of this Act is to ensure that, in the interests of the common good and across the health insurance market, access to health insurance cover is available to consumers of health services with no differentiation made between them (whether effected by risk equalisation credits or stamp duty measures or other measures, or any combination thereof), in particular as regards the costs of health services, based in whole or in part on the health risk status, age or sex of, or frequency of provision of health services to, any such consumers or any class of such consumers, and taking into particular account for the purposes of that objective—
+
+(*a*) the fact that the health needs of consumers of health services increase as they become less healthy, including as they approach and enter old age,
+
+(*b*) the desirability of ensuring, in the interests of societal and intergenerational solidarity, and regardless of the health risk status or age of, or frequency of provision of health services to, any particular generation (or part thereof), that the burden of the costs of health services be shared by insured persons by providing for a cost subsidy between the more healthy and the less healthy, including between the young and the old, and, without prejudice to the generality of that objective, in particular that the less healthy, including the old, have access to health insurance cover by means of risk equalisation credits,
+
+(*c*) the manner in which the health insurance market operates in respect of health insurance contracts, both in relation to individual registered undertakings and across the market, and
+
+(*d*) the importance of discouraging registered undertakings from engaging in practices, or offering health insurance contracts, whether by segmentation of the health insurance market (by whatever means) or otherwise, which have as their object or effect the favouring of the coverage by the undertakings of the health insurance risk of the more healthy, including the young, over the coverage of the health insurance risk of the less healthy, including the old.]
+
+(2) A registered undertaking shall not engage in a practice, or effect an agreement (including a health insurance contract), which has as its object or effect (whether in whole or in part) the avoidance of the achievement of the principal objective F4[...].
+
+(3) Nothing in this section shall affect the operation of *section 7(5)* or *7A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 3, commenced on enactment.
+>
+> F3: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 2(a), commenced on enactment.
+>
+> F4: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 2(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E3: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 2. Interpretation.
+
+**2.** — (1) In this Act, save where the context otherwise requires—
+
+F5["Act of 2001" means the Health Insurance (Amendment) Act 2001;]
+
+F7[...]
+
+F8["authorised officer" means a person appointed under *section 18E* to be an authorised officer;]
+
+“the Authority” means the Health Insurance Authority established by *section 20* ;
+
+F15["community rated health insurance contract" means a health insurance contract which complies with *section 7(1)* or which would comply with that section but for its falling within *section 7(5)* or *7A*;
+
+"community rating" means measures which, whether in whole or in part, apply towards the achievement of the principal objective F17[...];]
+
+F20["day patient service" means a health service provided in, or by persons attached to, a hospital in the following circumstances—
+
+(*a*) the patient concerned is admitted on an elective basis for care or treatment or both,
+
+(*b*) such care or treatment does not require the use of a bed overnight, and
+
+(*c*) the patient is discharged as scheduled;]
+
+F21["effect", in relation to a health insurance contract or other agreement, means to enter into or renew such contract or agreement, as the case may be;]
+
+“establishment day” means the day appointed under *section 19*;
+
+F9["frequency of provision of health services" includes history of health insurance claims;]
+
+F24["functions" includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;]
+
+“health benefits undertaking” means a person (including a body established under the laws of a place outside the State) carrying on health insurance business;
+
+“health insurance business” means the business of effecting health insurance contracts;
+
+F25[“health insurance contract" means, without prejudice to *section 2A*, a contract of insurance, or any other insurance arrangement, the purpose or one of the purposes of which is to provide for the making of payments by an undertaking, whether or not in conjunction with other payments, specifically for the reimbursement or discharge in whole or in part of fees or charges in respect of the provision of hospital in-patient services or relevant health services, but does not include—
+
+(*a*) a contract of insurance, or any other insurance arrangement, the sole purpose of which is to provide for the making of payments, directly to the person who effected the contract or entered into the arrangement or to any of the persons named in the contract or the arrangement, by an undertaking in respect of sickness, injury or disease of amounts calculated by reference only to the duration of—
+
+(i) the sickness, injury or disease, or
+
+(ii) the treatment of the sickness, injury or disease,
+
+or
+
+(*b*) a contract of insurance, or any other insurance arrangement, the sole purpose of which is to provide for the making of payments by an undertaking, to or on behalf of a dependent person (within the meaning of the Health (Nursing Homes) Act, 1990), in respect of the provision, other than as hospital in-patient services, of nursing care to such a person, or
+
+(*c*) F26[...]
+
+F27[(*d*) a contract of insurance, or any other insurance arrangement, the purpose of which is to provide for the making of payments specifically for the reimbursement or discharge of fees or charges in respect of the provision of hospital in-patient services or relevant health services to persons or any dependants of any of them and one of the following conditions is satisfied—
+
+(i) neither the said persons nor any such dependants are ordinarily resident in the State, or
+
+(ii) where any of the persons to whom the said contract or arrangement relates are temporarily resident in the State during the subsistence of the said contract or arrangement—
+
+(I) those persons are so resident solely for the purpose of carrying out their duties as employees, and
+
+(II) those persons constitute not more than—
+
+(A) 20 per cent of the total number of persons (other than dependants of them) to whom the said contract or arrangement relates, and
+
+(B) 20 of the total number of persons employed in the State by the one person;]]
+
+“health services” means medical, surgical, diagnostic, nursing, dental, chiropody, chiropractic, eye therapy, occupational therapy, physiotherapy or speech therapy services or treatment or services or treatment provided in connection therewith, or similar services or treatment;
+
+F25["hospital in-patient services" means in-patient services within the meaning of the Health Act, 1970, and includes any day patient service;]
+
+F10["health risk status", in relation to any person (howsoever described), includes—
+
+(*a*) the present use of, or likely future use of, hospital services by the person,
+
+(*b*) the sexual orientation of the person, and
+
+(*c*) the suffering or prospective suffering of the person from a chronic illness or other medical condition or from an illness or medical condition of a particular kind;]
+
+F6["in-patient indemnity payment" means any payment made pursuant to a health insurance contract by a registered undertaking for the purposes of reimbursing or discharging, in whole or in part, fees or charges in respect of the provision of hospital in-patient services.]
+
+F28[“net premium" —
+
+(*a*) in relation to a health insurance contract effected for a period other than a period commencing on or after 1 January 2013, means the premium payable under the contract in respect of an individual in any year of assessment after—
+
+F29[(i) excluding the effect (if any) on the premium, for that year of assessment, of section 470 of the Taxes Consolidation Act 1997, and]
+
+(ii) the deduction (if any) made from the premium to which the individual is entitled, for that year of assessment, by virtue of section 470B of the Taxes Consolidation Act 1997,
+
+(*b*) in relation to a health insurance contract effected for a period commencing on or after 1 January 2013, means the premium payable under the contract in respect of an individual in any year of assessment after—
+
+F30[(i) excluding the effect (if any) on the premium, for that year of assessment, of section 470 of the Taxes Consolidation Act 1997, and]
+
+(ii) taking into account the part (if any) of the premium which the individual is entitled not to have collected from the policy holder concerned, for that year of assessment, by virtue of *section 11C(1)*;]
+
+“the Minister” means the Minister for Health;
+
+“out-patient services” has the meaning assigned to it by section 56 of the Health Act, 1970;
+
+F25["premium" has the meaning assigned to it by the Insurance Act, 1936, and, in relation to a health insurance contract, includes any payment made to the undertaking concerned in respect of each person party to or named in the contract;]
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+F11["principal objective" means the principal objective specified in *section 1A(1)*;]
+
+“quarter” means a period of three months ending on the 31st day of March, 30th day of June, 30th day of September or 31st day of December;
+
+“registered”, in relation to an undertaking, means registered in the Register and cognate words shall be construed accordingly;
+
+“the Register” means the Register of Health Benefits Undertakings established under *section 14*;
+
+“the Registrar” means the Registrar and Chief Executive of the Authority;
+
+F20["relevant health services" means out-patient services, general medical practitioner services and services consisting of the supply of drugs or medical preparations;]
+
+“restricted membership undertaking” means an undertaking which effects health insurance contracts with its members and the membership of which is restricted to persons and their dependants of a common vocational, occupational or other group or class;
+
+F18[...]
+
+F12["risk equalisation credits" has the meaning assigned to it by *section 6A(1)*;]
+
+F13["Risk Equalisation Scheme" shall be construed in accordance with *section 11A*;]
+
+F19[...]
+
+“undertaking” means a health benefits F16[undertaking;]
+
+F23["year of assessment" has the same meaning as in section 2 of the Taxes Consolidation Act 1997.]
+
+(2) (*a*) In this Act a reference to a section or a Schedule is a reference to a section of, or a Schedule to, this Act unless it is indicated that reference to some other enactment is intended.
+
+(*b*) In this Act a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+(*c*) References in this Act to any enactment or to regulations are to any such enactment or regulations as amended.
+
+F14[(3) In this Act a reference to—
+
+(*a*) a disease includes a reference to an illness, and
+
+(*b*) an illness includes a reference to a disease.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F5, F6: Inserted (10.06.2009) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 3(a), (c), S.I. No. 213 of 2009.
+>
+> F7: Deleted (29.06.2005) by *Health Insurance (Amendment) Act 2001* (17/2001), ss. 3(a), 15(3), S.I. No. 322 of 2005.
+>
+> F8, F9, F10, F11, F12, F13, F14: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), ss. 3(a)(iv), 3(b), commenced on enactment.
+>
+> F15, F16: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 4(a), (d), commenced on enactment.
+>
+> F17, F18, F19: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 3(a)(i), 3(a)(iii), commenced on enactment.
+>
+> F20: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), ss. 3(b), (e), S.I. No. 514 of 2001, art. 3(b).
+>
+> F21, F22, F23: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), ss. 4(b), 4(c), 4(e), commenced on enactment.
+>
+> F24: Inserted (16.04.2003) by *Health Insurance (Amendment) Act 2003* (11/2003), s. 2, commenced on enactment.
+>
+> F25: Substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), ss. 2, 3(c), (d), S.I. No. 514 of 2001, arts. 3(a), (b).
+>
+> F26: Deleted (1.01.2010) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 21 and sch. ref. no. 2, S.I. No. 213 of 2009, art. 4.
+>
+> F27: Substituted (10.06.2009) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 3(b), S.I. No. 213 of 2009.
+>
+> F28: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 3(a)(ii), commenced on enactment.
+>
+> F29, F30: Substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 2, commenced on enactment.
+>
+> F31: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), ss. 4, 15(3), S.I. No. 514 of 2001.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: definition of "net premium" inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 4(c), commenced on enactment; substituted (26.12.2012) as per F-note above.
+>
+> E5: Previous affecting provision: definition of "risk equalisation" substituted (19.07.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 3(f), S.I. No. 514 of 2001, art. 3(b); deleted (26.12.2012) as per F-note above.
+
+### Certain arrangements by employers to constitute health insurance contracts.
+
+F31[**2A.** — (1) Subject to *subsections (2) and (3)*, any arrangement entered into by an employer whereby he or she agrees to reimburse or discharge the whole or a part of fees or charges which have been or may be incurred by an employee, or any dependant of an employee, of the employer in respect of the provision to the employee or such a dependant of hospital in-patient services shall be deemed to be a health insurance contract for the purposes of this Act and, accordingly, an employer who enters into such an arrangement shall be deemed, for the purposes of this Act, to be carrying on a health insurance business.
+
+(2) *Subsection (1)* does not apply to any arrangement entered into by a Minister of the Government with respect to a person holding office under, or in the service of, the State (including a member of the Defence Forces and a civil servant within the meaning of the Civil Service Regulation Act, 1956) or any dependant of such a person.
+
+(3) *Subsection (1)* does not apply to any arrangement entered into by an employer whereby he or she agrees to discharge the whole or part of an excess amount payable by an insured person or reimburse, in whole or in part, such a person in respect of the payment by the person of such an amount.
+
+(4) In *subsection (3)*—
+
+"excess amount" means an amount (not being an amount that exceeds £100 or such other amount as may be prescribed or that is payable to the insurer) payable in respect of the provision to the insured person, on a distinct occasion, of hospital in-patient services and which amount falls to be paid by the insured person by reason of the operation, and the operation alone, of an excess clause;
+
+"excess clause" means a provision of the contract referred to in the definition of ‘insured person’ in this subsection which provides that an amount of the kind referred to in the preceding definition shall not be payable by the insurer;
+
+"insured person" means an employee, or any dependant of an employee, of the employer, being an employee or dependant who is party to or named in a health insurance contract effected with an undertaking other than the employer;
+
+"insurer" means the undertaking which has effected the contract referred to in the preceding definition.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 4, S.I. No. 514 of 2001, art. 3(c).
+>
+> **Editorial Notes:**
+>
+> E6: £100 converted (1.01.1999) to €126.97.
+>
+> E7: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 3. Regulations.
+
+**3.** — (1) The Minister may—
+
+(*a*) by regulations provide for any matter referred to in this Act as prescribed or to be prescribed, and
+
+(*b*) make regulations generally for the purpose of giving effect to this Act and, if in any respect any difficulty arises during the period of two years after the commencement of this section in bringing into operation this Act, by regulations do anything which appears to be necessary or expedient for bringing this Act into operation.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister F32[(or, in the case of regulations under *section 11E*, the Authority)] to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation under this Act F33[...] shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done there-under.
+
+(4) F34[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 4(a), commenced on enactment.
+>
+> F33: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 4(b), commenced on enactment.
+>
+> F34: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 4(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to section exercised (30.03.2022) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2022* (S.I. No. 148 of 2022).
+>
+> E9: Power pursuant to section exercised (30.03.2022) by *Health Insurance Act 1994 (Risk Equalisation Scheme) (Amendment) Regulations 2022* (S.I. No. 147 of 2022).
+>
+> E10: Power pursuant to section exercised (30.03.2022) by *Health Insurance Act 1994 (Preparation of Financial Statements) Regulations 2022* (S.I. No. 146 of 2022).
+>
+> E11: Power pursuant to section exercised (1.01.2017) by *Health Insurance Act 1994 (Lifetime Cover) (Revocation) Regulations 2016* (S.I. No. 627 of 2016), in effect as per reg. 1(2).
+>
+> E12: Power pursuant to section exercised (1.03.2016) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2015* (S.I. No. 608 of 2015), in effect as per reg. 1(2).
+>
+> E13: Power pursuant to section exercised (1.05.2015) by *Health Insurance Act 1994 (Open Enrolment) Regulations 2015* (S.I. No. 79 of 2015), in effect as per reg. 1(2).
+>
+> E14: Power pursuant to section exercised (13.03.2015) by *Health Insurance Act 1994 (Minimum Benefit) (Amendment) Regulations 2015* (S.I. No. 96 of 2015).
+>
+> E15: Power pursuant to section exercised (1.01.2015) by *Health Insurance Act 1994 (Minimum Benefit) (Amendment) Regulations 2014* (S.I. No. 612 of 2014), in effect as per reg. 1(2).
+>
+> E16: Power pursuant to section exercised (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014).
+>
+> E17: Power pursuant to section exercised (19.12.2013) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2013* (S.I. No. 522 of 2013).
+>
+> E18: Power pursuant to section exercised (21.12.2011) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2011* (S.I. No. 690 of 2011).
+>
+> E19: Power pursuant to section exercised (16.03.2009) by *Health Insurance Act 1994 (Registration) (Amendment) Regulations 2009* (S.I. No. 72 of 2009), in effect as per reg. 1(3).
+>
+> E20: Power pursuant to subs. exercised (29.07.2009) by *Health Insurance Act 1994 (Information Returns) Regulations 2009* (S.I. No. 294 of 2009).
+>
+> E21: Power pursuant to section exercised (27.06.2008) by *Risk Equalisation (Amendment) Scheme 2008* (S.I. No. 228 of 2008).
+>
+> E22: Power pursuant to section exercised (1.05.2007) by *Risk Equalisation (Amendment) Scheme 2007* (S.I. No. 220 of 2007).
+>
+> E23: Power pursuant to section exercised (1.07.2005) by *Health Insurance Act 1994 (Registration) (Amendment) Regulations 2005* (S.I. No. 335 of 2005), in effect as per reg. 3.
+>
+> E24: Power pursuant to section exercised (1.07.2005) by *Health Insurance Act 1994 (Minimum Benefit) (Amendment) Regulations 2005* (S.I. No. 333 of 2005), in effect as per reg. 3.
+>
+> E25: Power pursuant to section exercised (30.06.2005) by *Risk Equalisation (Amendment) Scheme 2005* (S.I. No. 334 of 2005).
+>
+> E26: Power pursuant to section exercised (19.12.2003) by *Risk Equalisation (Amendment) Scheme 2003* (S.I. No. 710 of 2003).
+>
+> E27: Power pursuant to section exercised (1.07.2003 and date to be notified) by *Risk Equalisation Scheme 2003* (S.I. No. 261 of 2003), in effect as per reg. 2.
+>
+> E28: Power pursuant to section exercised (9.02.1999) by *Health Insurance Act, 1994 (Risk Equalisation) (Revocation) Regulations 1999* (S.I. No. 32 of 1999).
+>
+> E29: Power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Minimum Benefit) Regulations 1996* (S.I. No. 83 of 1996), in effect as per art. 2.
+>
+> E30: Power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Registration) Regulations 1996* (S.I. No. 80 of 1996), in effect as per reg. 2.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (17.11.2010) by *Health Insurance Act 1994 (Information Returns) Regulations 2009* (S.I. No. 539 of 2010); revoked (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014), reg. 4(b).
+>
+> E32: Previous affecting provision: subs. (4)(a) amended (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 5, commenced on enactment; subs. (4) deleted (26.12.2012) as per F-note above.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (1.07.2005) by *Health Insurance Act 2001 (Open Enrolment) Regulations 2005* (S.I. No. 332 of 2005), in effect as per reg. 2; revoked (1.05.2015) by *Health Insurance Act 1994 (Open Enrolment) Regulations 2015* (S.I. No. 79 of 2015, reg. 9, in effect as per reg. 1(2).
+>
+> E34: Previous affecting provision: subs. (3) amended (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(b)(i), S.I. No. 514 of 2001, art. 3(f); amendment deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 4(b), commenced on enactment.
+>
+> E35: Previous affecting provision: subs. (4) inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(b)(ii), S.I. No. 514 of 2001, art. 3(f); subsection deleted (26.12.2012) as per F-note above.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (14.06.2001) by *The Health Insurance Act 1994 (Section 17) Levy Regulations 2001* (S.I. No. 255 of 2001); revoked (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014), reg. 4(a).
+>
+> E37: Previous affecting provision: power pursuant to section exercised (28.03.1996 and date to be notified) by *Health Insurance Act (Risk Equalisation Scheme) 1996* (S.I. No. 84 of 1996), in effect as per art. 2; revoked (9.02.1999) by *Health Insurance Act, 1994 (Risk Equalisation) (Revocation) Regulations 1999* (S.I. No. 32 of 1999), reg. 2.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Lifetime Cover) Regulations 1996* (S.I. No. 82 of 1996), in effect as per art. 2; revoked (1.01.2017) by *Health Insurance Act 1994 (Lifetime Cover) (Revocation) Regulations 2016* (S.I. No. 627 of 2016), reg. 2, in effect as per reg. 1(2).
+>
+> E39: Previous affecting provision: power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Open Enrolment) Regulations 1996* (S.I. No. 81 of 1996); revoked (1.07.2005) by *Health Insurance Act, 2001 (Open Enrolment) Regulations 2005* (S.I. No. 332 of 2005), reg. 12, in effect as per reg. 2.
+
+### 4. F35[Offences.
+
+**4.** — (1) A person who contravenes a provision of this Act shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+(2) A person who contravenes a provision of a regulation under this Act stated to be a penal regulation shall be guilty of an offence and shall be liable on summary conviction to a class A fine or imprisonment for a term not exceeding 12 months or both.
+
+(3) A person who, after conviction for an offence under *subsection (1)* or *(2)*, continues to contravene the provision concerned, shall be guilty of an offence on each day on which the contravention continues and for each such offence shall be liable—
+
+(*a*) on summary conviction, to a class E fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000.
+
+(4) Where an offence under this Act is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person, as well as the body corporate, shall be guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(5) Where the affairs of a body corporate are managed by its members, *subsection (4)* applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(6) The Authority may bring and prosecute summary proceedings for an offence under this Act.
+
+(7) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act to which that provision applies may be instituted—
+
+(*a*) within 12 months from the date on which the offence was committed, or
+
+(*b*) within 6 months from the date on which evidence sufficient, in the opinion of the person instituting the proceedings, to justify proceedings comes to that person’s knowledge,
+
+whichever is the later, provided that no such proceedings shall be commenced later than 2 years from the date on which the offence concerned was committed.
+
+(8) For the purposes of *subsection (7)(b)*, a certificate signed by or on behalf of the person initiating the proceedings as to the date on which evidence referred to in that subsection came to his or her knowledge shall be evidence of that date and, in any legal proceedings, a document purporting to be a certificate under this subsection and to be so signed shall be deemed to be so signed and admitted as evidence without proof of the signature of the person purporting to sign the certificate, unless the contrary is shown.
+
+(9) On convicting a person of an offence under this Act, the court shall unless satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Authority the costs and expenses, measured by the court, incurred by the Authority in relation to the investigation, detection and prosecution of the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (25.01.2013) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 5(1), commenced as per subs. (2). A class A fine means a fine not greater than €5,000, and a class E fine means a fine not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), 8(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: power pursuant to section exercised (1.07.2005) by *Health Insurance Act 2001 (Open Enrolment) Regulations 2005* (S.I. No. 332 of 2005), in effect as per reg. 2; revoked (1.05.2015) by *Health Insurance Act 1994 (Open Enrolment) Regulations 2015* (S.I. No. 79 of 2015, reg. 9, in effect as per reg. 1(2).
+
+### 5. Repeals.
+
+**5.** — Sections 22, 23 and 24 of the Voluntary Health Insurance Act, 1957, are hereby repealed.
+
+### 6. Expenses.
+
+**6.** — Any expenses incurred by the Minister in the administration of this Act shall, to such extent as may be approved by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART II — Health Insurance Contracts
+
+### 6A. Interpretation of Part II.
+
+F36[F37[**6A.** — (1)In this Part and *Schedules 3* and *4*—
+
+"advanced cover" shall be construed in accordance with *section 11E(4)*;
+
+"age group" means age group as prescribed in regulations made under *section 7D*, and includes any age group, whether or not by reference to any one or more of the following:
+
+(*a*) being less than a specified age;
+
+(*b*) being of a specified age or over such age but under another specified age; or
+
+(*c*) being of a specified age or over such age;
+
+"age-related tax credit" has the same meaning as in section 470B(4) of the Taxes Consolidation Act 1997;
+
+"approved accounting standards" means accounting standards which are in accordance with generally accepted accounting principles in the State;
+
+"changed existing contract" has the meaning assigned to it by F38[*section 7AB(2)*];
+
+"cumulative net financial impact", in relation to a registered undertaking or former registered undertaking which has furnished the Authority with information under *section 7F(1)* in respect of a period, means the difference between—
+
+(*a*) the total amount of the age-related tax credits and risk equalisation credits recorded in accounts for that undertaking in respect of that period as extracted from that information by the undertaking in respect of that period, and
+
+(*b*) the total amount of the stamp duty referred to in section 125A of the Stamp Duties Consolidation Act 1999 recorded in accounts for that undertaking in respect of that period as extracted from that information by the undertaking in respect of that period;
+
+"draft report" has the meaning assigned to it by *section 7F(7)*;
+
+"Fund" means the Risk Equalisation Fund established under *section 11D*;
+
+F39["Health Service Executive approved drugs" means—
+
+(*a*) drugs which are included in one or more of the following lists:
+
+(i) the Reimbursement List established and published by the Health Service Executive under section 17 of the Health (Pricing and Supply of Medical Goods) Act 2013;
+
+(ii) the list maintained by the Health Service Executive under the programme commonly known as the National Cancer Control Programme;
+
+(iii) the list maintained by the Health Service Executive under the programme commonly known as the HSE Access and Integration Drug Management Programme (formerly known as the Acute Hospitals Drugs Management Programme);
+
+(iv) the list maintained by the Health Service Executive under the programme commonly known as the HSE Medicines Management Programme,
+
+(*b*) drugs which—
+
+(i) are normal human immunoglobulin products assigned the code J06BA under the Anatomical Therapeutic Chemical classification system established by the World Health Organisation, and
+
+(ii) were granted a marketing authorisation (within the meaning of Regulation 3(1) of the Medicinal Products (Control of Manufacture) Regulations 2007 (S.I. No. 539 of 2007)) prior to the commencement of section 17 of the Health (Pricing and Supply of Medical Goods) Act 2013,
+
+or
+
+(*c*) drugs which have been approved for reimbursement or funding through the public health system by the Health Service Executive having regard to the criteria set out in Part 3 of Schedule 3 to the Health (Pricing and Supply of Medical Goods) Act 2013;]
+
+F40[F41["high cost claim" means a claim, or more than one claim, arising in any period of 12 months prescribed for that purpose relating to an insured person under a health insurance contract or contracts effected by the same registered undertaking—
+
+(*a*) the amount, or the cumulative amount, of which claim or claims, as the case may be, exceeds the high cost claim threshold, and
+
+(*b*) which has or have been paid by the undertaking,
+
+other than a claim for the cost of drugs that are not Health Service Executive approved drugs;]
+
+"high cost claim credit" means the amount that is equal to the high cost claim quota share multiplied by the amount by which the high cost claim exceeds the high cost claim threshold;
+
+"high cost claim quota share" means the percentage that is specified in *paragraph 2* of *Schedule 5* as the high cost claim quota share, being the portion of a high cost claim in excess of the high cost claim threshold payable from the Fund as a high cost claim credit;
+
+"high cost claim threshold", in relation to a high cost claim, means the sum of the following amounts:
+
+(*a*) the amount that is specified in *paragraph 1* of *Schedule 5*, and
+
+(*b*) the amount (if any) of any other risk equalisation credits (other than high cost claim credits) claimed from the Fund relating to the insured person under a health insurance contract or contracts arising in the period of 12 months to which the high cost claim relates;]
+
+F42["hospital utilisation credit" means the relevant amount payable from the Fund in respect of each hospital stay (whether on an overnight accommodation or day case basis) in private hospital accommodation, on or after 31 March 2013 if the stay is on an overnight accommodation basis and on or after 1 March 2016 if the stay is on an overnight accommodation or day case basis, by a person who is an insured person under a health insurance contract effected for any period commencing on or after the date concerned;]
+
+"information return" means an information return referred to in *section 7D(1)*;
+
+"non-advanced cover" shall be construed in accordance with *section 11E(4)*;
+
+"positive", in relation to the cumulative net financial impact on a registered undertaking or former registered undertaking which has submitted one or more information returns to the Authority in respect of a period, means that, for that period and that undertaking, the amount specified in *paragraph (a)* of the definition of "cumulative net financial impact" in this subsection exceeds the amount specified in *paragraph (b)* of that definition;
+
+F42[ "private hospital accommodation" means—
+
+(*a*) accommodation in a private hospital, whether or not in a hospital bed, or
+
+(*b*) accommodation in a publicly funded hospital where a charge is payable under section 55 of the Health Act 1970;]
+
+"relevant amount", in relation to the definition of F43["hospital utilisation credit"] in this section and an insured person referred to in that definition, means the lower of the following:
+
+F42[(*a*) the amount concerned specified in *Schedule 3* for the purposes of that definition multiplied by the number of nights on an overnight accommodation basis, or, as applicable, the number of days on a day case basis, that the insured person stayed in private hospital accommodation which fall within the hospital stay concerned referred to in that definition F40[but only if that number of nights’ or days’ accommodation were paid under the health insurance contract concerned];]
+
+(*b*) the sum of all benefits paid under the health insurance contract concerned referred to in that definition in respect of hospital in-patient services provided during the hospital stay concerned referred to in that definition of the insured person;
+
+"relevant contract" has the meaning assigned to it by section 125A(1) of the Stamp Duties Consolidation Act 1999;
+
+"relevant contract (advanced cover)" means a relevant contract which is not a relevant contract (non-advanced cover);
+
+"relevant contract (non-advanced cover)" means a relevant contract which falls within a type of relevant contract specified in regulations under *section 11E* as a type of relevant contract in respect of which the Authority is satisfied under that section that it does not provide for advanced cover;
+
+"relevant financial provisions" means—
+
+(*a*) the Risk Equalisation Scheme,
+
+(*b*) section 125A of the Stamp Duties Consolidation Act 1999, or
+
+(*c*) section 470B of the Taxes Consolidation Act 1997,
+
+or any combination of any of the Risk Equalisation Scheme (including any constituent provision of the Scheme) and any section referred to in *paragraph (b)* or *(c)*;
+
+"relevant market sector", in relation to information returns made to the Authority for any period of 6 months referred to in *section 7D(1)*, means all the registered undertakings or former registered undertakings which have made those returns;
+
+"relevant period" has the meaning assigned to it by *section 7D(1)(b)*;
+
+"risk equalisation credits"—
+
+(*a*) in relation to an individual insured under a health insurance contract effected by a registered undertaking for any period commencing on or after 1 January 2013, means—
+
+(i) the payment from the Fund to the undertaking on behalf of the individual of any F43[hospital utilisation credits] which the individual is entitled to have so paid, F44[...]
+
+F40[(ia) the payment from the Fund to the undertaking on behalf of the individual of any high cost claim credits which the individual is entitled to have so paid, and]
+
+(ii) the payment from the Fund of the part (if any) of the premium payable under the contract which the individual is entitled to have so paid by virtue of *section 11C(1),*
+
+and
+
+(*b*) in relation to such undertaking and such contract, means—
+
+(i) the amount of the F43[hospital utilisation credit] (if any) referred to in *paragraph (a)(i)*, F44[...]
+
+F40[(ia) the amount of the high cost claim credits (if any) referred to in *paragraph (a)(ia)*, and]
+
+(ii) the amount of the part (if any) of the premium payable referred to in *paragraph (a)(ii)* that it has not collected from the policy holder by virtue of *section 11C(1)*;
+
+"type of cover" means a specific health insurance contract which provides for the payment of prescribed benefits where either—
+
+(*a*) the particulars relating to the contract are contained in The Register of Health Insurance Contracts, or
+
+(*b*) the particulars relating to the contract were once contained in that Register but, notwithstanding that such particulars are no longer contained in that Register, prescribed benefits are still payable under the contract.
+
+(2) F45[...]]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 6, commenced on enactment.
+>
+> F37: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 6, commenced on enactment.
+>
+> F38: Substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 3(1)(a), commenced on enactment.
+>
+> F39: Inserted (1.04.2022, deemed) by *Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024* (42/2024), s. 7(1)(b), commenced as per s. 7(2).
+>
+> F40: Inserted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), ss. 2(a)(i)(II), (ii)(II), (b), (c), S.I. No. 145 of 2022.
+>
+> F41: Substituted (1.04.2022, deemed) by *Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024* (42/2024), s. 7(1)(a), commenced as per s. 7(2).
+>
+> F42: Substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), ss. 2(1)(a), (b), (c), commenced as per s. 7(2).
+>
+> F43: Substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 2(2), commenced as per s. 7(2).
+>
+> F44: Deleted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), ss. 2(a)(i)(I), (ii)(I), S.I. No. 145 of 2022.
+>
+> F45: Deleted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 3(d), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E41: Previous affected provision: definition of "relevant amount" amended (1.01.2014) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 3(c), commenced as per subs. (2); substituted (1.03.2016) as per F-note above.
+>
+> E42: Previous affected provision: definition of "age group" and certain words substituted, definition of "type of cover" inserted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 2(a), (b), (c), commenced on enactment; section substituted (19.07.2009 and 26.12.2012) as per F-notes above.
+
+### 6B. Duration of entrustment act
+
+F46[**6B.** — (1) The entrustment act shall endure until the relevant date whereupon it shall cease to be in force.
+
+(2) The Minister may, after consultation with the European Commission and the Minister for Finance and having regard, if such be the case, of the need to continue the Risk Equalisation Scheme for the purposes of assisting in the achievement of the principal objective and of the period for which the Scheme needs to so continue, make an order specifying a date for the purposes of *paragraph (b)* of the definition of "relevant date".
+
+(3) An order made under *subsection (2)* shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which the House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(4) In this section—
+
+"entrustment act", in relation to paragraph 15 of the European Union framework for State aid in the form of public service compensation (2011) (2012/C 8/03)1 , means—
+
+(*a*) this Part, and
+
+(*b*) section 125A of the Stamp Duties Consolidation Act 1999 ;
+
+"relevant date" means—
+
+(*a*) subject to *paragraph (b)*, 31 March 2027, or
+
+(*b*) the later date (if any) specified for the purposes of this paragraph in the last order made under *subsection (2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Inserted (1.04.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 2, commenced as per s. 8(2)(b).
+>
+> **Editorial Notes:**
+>
+> E43: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 7. Prohibition of non-community rated health insurance contracts.
+
+F47[**7.** — (1) Subject to *subsection (5)* and *section 7A*—
+
+(*a*) a registered undertaking shall not make an offer to effect a health insurance contract of a particular type—
+
+(i) unless the offer is maintained—
+
+(I) for a period of not less than F48[60] consecutive days commencing on the day on which the offer is first made, and
+
+(II) throughout that period on the same terms and conditions on which the offer is first made,
+
+and
+
+(ii) unless the offer is to effect that contract for a period of 12 consecutive months except that the offer may be to effect the contract for a shorter or longer period if, and only if—
+
+(I) in all the circumstances of the case, there is good and sufficient reason for doing so, and
+
+(II) the entering into of the contract by the undertaking does not in any way prejudice the achievement of the principal objective, F50[...]
+
+and
+
+(*b*) the net premium payable for each insured person under any health insurance contract effected by a particular registered undertaking shall be the same as that payable under every other such contract (after due allowance has been made in respect of the payment of any net premium by instalments) that—
+
+(i) is effected by that undertaking,
+
+(ii) is in respect of the same period as that to which the first-mentioned contract relates,
+
+(iii) relates to the same health services as those to which the first-mentioned contract relates, and
+
+(iv) provides for the same payments by the undertaking in respect of those services as those provided for by the first-mentioned contract.
+
+(2) A registered undertaking shall not contravene *subsection (1)*.
+
+(3) Without prejudice to the generality of *subsection (1)*, net premiums payable under health insurance contracts shall not be varied by reference to—
+
+F49[(*a*) the health risk status, age or sex of, or frequency of provision of health services to, a person, or]
+
+(*b*) F51[...]
+
+(*c*) the amounts of payments or the number of different payments to which a person becomes entitled under such a contract.
+
+(4) Subject to *subsection (6)*, the amounts of the payments provided by a health insurance contract in respect of the health services to which it relates shall not be varied by reference to the age, sex or sexual orientation of the person to whom those services are provided.
+
+(5) Notwithstanding *subsections (1)* to *(3)*, a net premium payable under a health insurance contract effected by a registered undertaking—
+
+(*a*) shall, in so far as it relates to a person under the age of 18 years, be—
+
+(i) waived, or
+
+(ii) reduced, such a net premium being not more than 50 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,
+
+and
+
+(*b*) may be reduced in so far as it relates—
+
+F52[(i) (I) to a person who is of or over the age of 18 years and under the age of 21 years, such a net premium being not more than 50 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,
+
+(II) to a person who is of or over the age of 21 years and under the age of 22 years, such a net premium being not less than 51 per cent and not more than 60 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,
+
+(III) to a person who is of or over the age of 22 years and under the age of 23 years, such a net premium being not less than 61 per cent and not more than 70 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,
+
+(IV) to a person who is of or over the age of 23 years and under the age of 24 years, such a net premium being not less than 71 per cent and not more than 80 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,
+
+(V) to a person who is of or over the age of 24 years and under the age of 25 years, such a net premium being not less than 81 per cent and not more than 90 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking, and
+
+(VI) to a person who is of or over the age of 25 years and under the age of 26 years, such a net premium being not less than 91 per cent and not more than 100 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking,]
+
+(ii) to a person who is a member of a restricted membership undertaking and is in receipt of a pension recognised for the purposes of the undertaking, or
+
+(iii) to a person who is a member, for the purposes of health insurance, of a group of persons, such a net premium being, if it is reduced, not less than 90 per cent of the net premium in respect of a person other than the persons specified in this subsection under a health insurance contract effected by that undertaking.
+
+F53[(5A) Where a registered undertaking proposes to reduce the net premium payable in the manner provided by *subsection (5)(b)(i)*, it shall do so in relation to all classes of persons referred to in *clauses (I)* to *(VI)* of that subsection in the manner provided in those clauses.]
+
+(6) Where any person named in a health insurance contract effected by a registered undertaking—
+
+(*a*) is the spouse, a child or a dependent of a party to the contract, or
+
+(*b*) is the spouse, a child or a dependent of another person named in the contract,
+
+then the undertaking may aggregate or combine, as it thinks fit, claims in respect of health services, other than in-patient services, for the purposes of calculating payments, other than in-patient indemnity payments, to be made by it pursuant to the contract.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 6, commenced on enactment.
+>
+> F48, F49: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), ss. 7(a)(i), (b), commenced on enactment.
+>
+> F50, F51: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 7(a)(ii), commenced on enactment.
+>
+> F52: Substituted (1.05.2015) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 2(1)(a), commenced as per subs. (2).
+>
+> F53: Inserted (25.12.2014) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 2(1)(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E44: Previous affecting provision: section substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 5, S.I. No. 514 of 2001, art. 3(d); substituted (26.12.2012) as per F-note above.
+
+### 7A. Premiums which may be charged under health insurance contracts in certain circumstances.
+
+F54[**7A.** — F55[(1) In this section, "insured person" means any person, other than the registered undertaking, who—
+
+(*a*) is party to or named in the health insurance contract concerned (other than a health insurance contract of a type referred to in *section 10(3)*), and
+
+(*b*) is of or over the age of 30 years.]
+
+F56[(2) F62[Notwithstanding *section 7*, but subject to *subsections (2A)* and *(3)*, a registered undertaking shall require,] on account of any of the circumstances referred to in *paragraph (a), (b), (c), (cc)* or *(d)* of *subsection (4)*, the payment under a health insurance contract of a net premium the amount of which is greater than that of the net premium (in this section referred to as the "unadjusted net premium") which could have been required to be paid if this section had not been enacted.
+
+F64[(2A)*(a)* Subject to *paragraph (b)*, a registered undertaking shall ensure that any requirement it has made under *subsection (2)* is not withdrawn and otherwise continues to have effect.
+
+*(b)* A registered undertaking shall ensure that any requirement it has made under *subsection (2)* is withdrawn and otherwise does not continue to have effect in relation to an insured person who has, since 1 May 2015—
+
+(i) a continuous period of cover of not less than 10 years, or
+
+(ii) 2 or more continuous periods of cover totalling not less than 10 years.
+
+*(c)* In this subsection, "continuous period of cover" shall be construed in accordance with the Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) Regulations 2014 (S.I. No. 312 of 2014).]]
+
+F63[(3)Any obligation to require the payment of such greater amount is subject to regulations under *subsection (6)* (whether made before, on or after the commencement of section 3 of the Health Insurance (Amendment) Act 2014).]
+
+(4) The following are the circumstances mentioned in *subsection (2)*—
+
+(*a*) the insured person has not previously effected or been named in a health insurance contract with the registered undertaking concerned or any other undertaking,
+
+F65[(*b*) the insured person has previously effected or been named in a health insurance contract with a restricted membership undertaking.]
+
+(*c*) in the period of the F57[13 weeks] preceding the date on which the registered undertaking concerned was requested to effect the health insurance contract (not being a contract that falls within *paragraph (b)*) no health insurance contract was in force to which the insured person was a party or in which he or she was named,
+
+F66[(*cc*) in the period of the 13 weeks preceding the date on which the registered undertaking concerned was requested to effect the health insurance contract, a health insurance contract was in force in respect of which the insured person was a party to or named in the contract and in respect of whom any registered undertaking providing that contract could have required the payment of a net premium that was greater than the unadjusted premium,]
+
+(*d*) the following conditions are complied with in relation to the health insurance contract concerned—
+
+(i) the contract provides more favourable terms to the insured person (whether in respect of the health services to which the contract relates or the nature or the amounts of the payments to be made by the registered undertaking concerned in respect of those services) than those provided to the insured person in the contract prior to its being renewed or, as the case may be, than those provided to the insured person in the health insurance contract lastly effected with another undertaking to which the insured person was a party or in which he or she was named,
+
+(ii) the provision of those more favourable terms has been made at the request of the insured person.
+
+(5) The difference between the amount of the F58[net premium] which a registered undertaking requires to be paid by virtue of this section and the amount of the F59[unadjusted net premium] is referred to in this section as the "relevant increase".
+
+(6) The Minister may by regulations provide that the amount of the relevant increase—
+
+(*a*) shall be determined by the registered undertaking concerned in a manner specified in the regulations (in *subsection (7)* referred to as the "relevant method"),
+
+(*b*) shall not, in any case, be greater than such percentage as is specified in the regulations of the amount of the F60[unadjusted net premium].
+
+(7) Regulations under *subsection (6)* may—
+
+(*a*) specify a different relevant method or a different percentage of the amount of the F61[unadjusted net premium] by reference to—
+
+(i) the different circumstances referred to in *paragraphs (a)* to *(d)* of *subsection (4)* on account of which the relevant increase is required to be paid,
+
+(ii) different cases involving any of those circumstances that may occur,
+
+(*b*) require that the registered undertaking concerned, in determining the amount of the relevant increase, take into account, to the extent and in the manner specified in the regulations, any previous period or periods during which the insured person was a party to or named in a health insurance contract effected with that or any F64[other registered undertaking,]]
+
+F67[*(c)* require that the registered undertaking concerned, in determining the amount of any relevant increase, take into account, to the extent and subject to any conditions specified in the regulations—
+
+(i) in respect of a person who has been an insured person for a period of not less than 3 years, any period or periods (each of which period is not less than 6 months) totalling not more than 3 years where, during that period or periods, the insured person concerned ceased to be an insured person for the purposes of this section,
+
+(ii) in respect of a person who has resided outside the State for a period of not less than 6 months, the period during which that person so resided, provided he or she becomes an insured person within a prescribed period of ceasing to reside outside the State,
+
+(iii) in respect of a person who was formerly a member of the Permanent Defence Force, the period during which he or she was such member, provided he or she becomes an insured person within the prescribed period of ceasing to be such member,
+
+(iv) in respect of a person who resides in the State and is insured under the Joint Sickness Insurance Scheme of the European Institutions, the period during which he or she has been a member of that scheme.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Inserted (9.06.2009) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 6, S.I. No. 212 of 2009).
+>
+> F55, F56, F57, F58, F59, F60, F61: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 7(a), (b), (c)(i), (d)(i), (ii), (e), (f), commenced on enactment.
+>
+> F62, F63: Substituted (25.12.2014) by *Health Insurance (Amendment) Act 2014* (42/2014), ss. 3(a), (b), commenced on enactment.
+>
+> F64: Substituted (21.12.2017) by *Health Insurance (Amendment) Act 2017* (37/2017), s. 2(a), (b)(i), commenced on enactment.
+>
+> F65: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 8, commenced on enactment.
+>
+> F66: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 7(c)(ii), commenced on enactment.
+>
+> F67: Inserted (21.12.2017) by *Health Insurance (Amendment) Act 2017* (37/2017), s. 2(b)(ii), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to section exercised (1.09.2018, 1.11.2018, 1.02.2019) by *Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) (Amendment) Regulations 2018* (S.I. No. 224 of 2018), in effect as per reg. 2(a), (b).
+>
+> E46: Power pursuant to section exercised (1.08.2014) by *Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) Regulations 2014* (S.I. No. 312 of 2014), in effect as per reg. 2.
+
+### F68[7AB. Submission of new type of health insurance contract and furnishing of certain other types of health insurance contract to Authority.
+
+F69[**7AB.** — (1) A registered undertaking shall not offer in the State a new type of health insurance contract (and regardless of whether the contract is already offered outside the State by the undertaking or any other person) unless it has submitted a sample of the contract to the Authority not later than 30 days before first making such offer.
+
+(2) Subject to *subsection (3)*, a registered undertaking shall not change in any material particular the benefits payable under a type of health insurance contract that it offers in the State unless it has submitted a sample of the contract as so changed (in this Act referred to as a "changed existing contract") to the Authority not later than 30 days before first making such change.
+
+F70[(3)*(a)* A registered undertaking shall not in any calendar year change the benefits payable under a type of relevant contract (non-advanced cover) that it offers in the State such that it becomes a type of relevant contract (advanced cover) except—
+
+(i) in the case of a calendar year before 1 January 2017, with effect from 1 March of that calendar year, and
+
+(ii) in the case of the calendar year 2017 and any subsequent calendar year, with effect from 1 April of each such calendar year.
+
+*(b)* A registered undertaking shall not in any calendar year change the benefits payable under a type of relevant contract (advanced cover) that it offers in the State such that it becomes a type of relevant contract (non-advanced cover) except—
+
+(i) in the case of a calendar year before 1 January 2017, with effect from 1 March of that calendar year, and
+
+(ii) in the case of the calendar year 2017 and any subsequent calendar year, with effect from 1 April of each such calendar year.]
+
+(4) Without prejudice to *section 7(1)(a)*, a registered undertaking may vary the premium payable for effecting a type of health insurance contract if it gives notice in writing of the variation to the Authority not less than 30 days before the variation takes effect.
+
+(5) Notwithstanding *subsection (1)*, a registered undertaking which has made an offer in the State to effect a health insurance contract of a particular type and which has maintained the offer for not less than the 60 consecutive days required by *section 7(1)(a)(i)(I)* may cease to make that offer in the State if it gives notice in writing of the cesser to the Authority not less than 30 days before the cesser takes effect.
+
+(6) Without prejudice to the operation of *subsection (5)*, the notice in writing required to be given to the Authority under that subsection by a registered undertaking in respect of a cesser referred to in that subsection may be given before the expiration of the 60 consecutive days referred to in that subsection.
+
+(7) Nothing in *subsections (2)* to *(6)* shall be construed to prejudice a health insurance contract of the type referred to in *subsection (5)* effected before the cesser referred to in *subsection (5)* takes effect and, accordingly, the contract continues in being in accordance with the terms and conditions on which it was effected.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 8, commenced on enactment.
+>
+> F69: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 9, commenced on enactment.
+>
+> F70: Substituted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E47: Previous affecting provision: subs. (3)(a)(ii), (b)(ii) substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 4, commenced on enactment; subsection substituted (26.12.2016) as per F-note above.
+
+### 7AC. Register of Health Insurance Contracts.
+
+F71[**7AC.** — (1) The Authority shall, as soon as may be after the commencement of section 8 of the Health Insurance (Miscellaneous Provisions) Act 2009, establish and maintain a register to be known as The Register of Health Insurance Contracts.
+
+(2) F72[Subject to *section 11E*, The Register] of Health Insurance Contracts shall be in such form and shall contain such particulars relating to any type of health insurance contract on offer in the State on or after the establishment of the Register as may be specified by the Authority.
+
+(3) The Authority shall ensure that the contents of The Register of Health Insurance Contracts are available for inspection by members of the public free of charge at the office of the Authority during normal working hours.
+
+(4) The Authority may make the contents of The Register of Health Insurance Contracts available for inspection by members of the public free of charge on the Authority’s website.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 8, commenced on enactment.
+>
+> F72: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 10, commenced on enactment.
+
+### 7B. Provision of information.
+
+F73[**7B.** — (1) In this section—
+
+"any insured person concerned" means any person who is a party to or named in the health insurance contract referred to in *subsection (3)* (other than the requester);
+
+"the first-mentioned undertaking" shall be construed in accordance with *subsection (2)*;
+
+"the requester" shall be construed in accordance with *subsection (2)*.
+
+(2) The Minister may by regulations require each registered undertaking ("the first-mentioned undertaking") to furnish to another registered undertaking ("the requester"), if—
+
+(*a*) the requester needs the statement for the purposes referred to in *subsection (3)*,
+
+(*b*) the requester makes a request for the statement, and
+
+(*c*) the information concerned is in the possession of, or may reasonably be procured by, the first-mentioned undertaking, a statement in writing of—
+
+(i) the period or periods during which any insured person concerned was a party to or named in a health insurance contract effected with the first-mentioned undertaking,
+
+(ii) unless a statement of this matter would fall to be provided under *subparagraph (iii)*, the extent to which the first-mentioned undertaking could have been required to discharge or pay fees or charges in relation to hospital accommodation under the health insurance contract lastly effected by it, being a contract to or in which any insured person concerned was a party or named,
+
+(iii) in respect of each (if any) health insurance contract effected by the first-mentioned undertaking, being a contract to or in which any insured person concerned was a party or named and under which the undertaking required or could have required the payment of a premium of an amount referred to in *section 7A(2)*, the extent to which the undertaking could have been required under that contract to discharge or pay fees or charges in relation to hospital accommodation, and
+
+(iv) such other matters as may be prescribed for the purpose of facilitating compliance by the requester with *section 7A*.
+
+(3) The purposes mentioned in *subsection (2)* are the determination by the requester of the amount of the relevant increase (within the meaning of *section 7A*) it proposes to require a person to pay to it under a health insurance contract to be effected or effected by it with that person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Inserted (9.06.2009) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 7, S.I. No. 212 of 2009.
+>
+> **Editorial Notes:**
+>
+> E48: Power pursuant to section exercised (1.09.2018, 1.11.2018, 1.02.2019) by *Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) (Amendment) Regulations 2018* (S.I. No. 224 of 2018), in effect as per reg. 2(a), (b).
+>
+> E49: Power pursuant to section exercised (1.08.2014) by *Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) Regulations 2014* (S.I. No. 312 of 2014), in effect as per reg. 2.
+
+### 7C. Registered insurers shall make all reasonable efforts to obtain certain information in respect of insured persons, etc.
+
+F74[**7C.** — (1) A registered undertaking shall, in respect of each health insurance contract that provides for the making of in-patient indemnity payments and that is effected by it on or after 1 January 2009, make all reasonable efforts to obtain the relevant information in respect of each insured person.
+
+(2) A registered undertaking may, for the purposes of obtaining, in respect of a health insurance contract referred to in *subsection (1)*, the relevant information in respect of each insured person, request in writing the policy holder to furnish the undertaking with the relevant information in respect of each insured person not later than 30 days from the date of receipt of the request.
+
+(3) A request under *subsection (2)* shall be accompanied by a copy of this section.
+
+(4) The policy holder, the subject of a request under *subsection (2)*, shall comply with that request.
+
+(5) A registered undertaking which has obtained relevant information for the purposes of *subsection (1)* shall not make use of, or disclose, the relevant information except—
+
+(*a*) for the purposes of making a claim referred to in section 470(3)(b)(ii) or 470B(6)(b)(ii) of the Taxes Consolidation F75[Act 1997,]
+
+F76[(*aa*) for the purposes of making a claim referred to in *section 11C(2)*, or]
+
+(*b*) for the purposes of complying with section 125A of the Stamp Duties Consolidation Act 1999.
+
+(6) In this section, " relevant information ", in relation to an insured person, means—
+
+(*a*) the name of the person,
+
+(*b*) the sex of the person,
+
+(*c*) the date of birth of the person, and
+
+(*d*) the Personal Public Service Number (within the meaning of section 262 of the Social Welfare Consolidation Act 2005) of the person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+>
+> F75: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 11(a), commenced on enactment.
+>
+> F76: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 11(b), commenced on enactment.
+
+### 7D. Obligation to make information returns to Authority.
+
+F77[**7D.** — (1) A registered undertaking or former registered undertaking to which this subsection applies by virtue of *subsection (4)* shall, not later than 30 days (or such longer period as the Authority may permit in its discretion) after the expiration of each period of 6 months, the first such 6 months period commencing on 1 January 2009, make an information return to the Authority—
+
+(*a*) in such form as may be prescribed, and
+
+(*b*) subject to *subsections (2)* and *(5)*, containing such information concerning the undertaking’s health insurance business or former health insurance business, as the case may be, during the period of 6 months concerned (in this Part referred to as the "relevant period") as may be prescribed.
+
+(2) Subject to F79[*subsections (5)* and *(6)*], the information referred to in *subsection (1)* which may be prescribed includes—
+
+(*a*) the total number of persons insured, or a class thereof, with the registered undertaking or former registered undertaking concerned during the relevant period,
+
+F78[(*b*) the total number of persons insured, or a class thereof, in each age group, the gender profile of each age group, and the type of cover of each age group, in respect of the relevant period,]
+
+(*c*) the total number of persons in each age group, or a class thereof, effecting health insurance contracts during the relevant period,
+
+(*d*) the in-patient indemnity payments, or a class thereof, made by the registered undertaking or former registered undertaking concerned during the relevant period,
+
+(*e*) information relating to the health insurance services provided during the relevant period, and
+
+(*f*) such other information relating to the relevant period, other than personal data, which may reasonably be considered to be information which will enable or assist the Minister or the Authority to perform their respective functions under this Act.
+
+(3) The information concerning a registered undertaking’s or former registered undertaking’s health insurance business or former health insurance business, as the case may be, to be contained in an information return may include information that came into existence before the enactment of this section.
+
+(4) *Subsection (1)* applies to each undertaking that was a registered undertaking, but not a restricted membership undertaking, for all, or any part of, the period of 6 months concerned.
+
+(5) The references in *subsection (1)* to health insurance business and former health insurance business shall not include so much of any such business which is comprised of health insurance contracts to which the relevant financial provisions do not apply, and the references to information in that subsection and *subsection (2)* shall be construed accordingly.]
+
+F80[(6)(*a*) Where the benefits payable under a type of cover to which an information return relates have materially changed, regulations made under this section may require a registered undertaking or former registered undertaking to which *subsection (1)* applies to make separate information returns in respect of each material level of benefit.
+
+(*b*) Regulations made under this section may require a registered undertaking or former registered undertaking to which *subsection (1)* applies to make separate information returns in respect of the sum of all types of cover to which an information return relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F77: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+>
+> F78: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 12, commenced on enactment.
+>
+> F79: Substituted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 3(a)(i), commenced on enactment.
+>
+> F80: Inserted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 3(b), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C1: Reference to personal data construed (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 165, S.I. No. 174 of 2018.
+>
+> **Reference to personal data in enactment**
+>
+> **165.** Subject to this Act, a reference in any enactment to personal data within the meaning of the Act of 1988 shall be construed as including a reference to personal data within the meaning of—
+>
+> (*a*) the Data Protection Regulation, and
+>
+> (*b*) *Part 5*.
+>
+> **Editorial Notes:**
+>
+> E50: Power pursuant to section exercised (30.03.2022) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2022* (S.I. No. 148 of 2022).
+>
+> E51: Power pursuant to section exercised (1.03.2016) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2015* (S.I. No. 608 of 2015), in effect as per reg. 1(2).
+>
+> E52: Power pursuant to section exercised (19.12.2013) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2013* (S.I. No. 522 of 2013).
+>
+> E53: Power pursuant to section exercised (21.12.2011) by *Health Insurance Act 1994 (Information Returns) (Amendment) Regulations 2011* (S.I. No. 690 of 2011).
+>
+> E54: Power pursuant to subsection exercised (29.07.2009) by *Health Insurance Act 1994 (Information Returns) Regulations 2009* (S.I. No. 294 of 2009).
+>
+> E55: Previous affecting provision: subs. (2)(b) substituted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 3(a)(ii), commenced on enactment; substituted (26.12.2012) as per F-note above.
+
+### 7E. Evaluation and analysis of information returns, etc.
+
+F81[**7E.** — (1) The Authority shall, for the purposes of enabling the Minister to perform his or her functions under this Act or of enabling or assisting it to perform its functions under this Act—
+
+(*a*) evaluate and analyse all information returns made to it F82[together with such other information relevant to those purposes as it considers appropriate,] and, without limiting the generality of the foregoing, having particular regard to—
+
+F86[(i) the average insurance claim payment per insured person made by the relevant market sector during the relevant periods in respect of the total number of persons insured, or a class thereof, during the relevant periods,
+
+(ii) the average insurance claim payment per insured person made by the relevant market sector during the relevant periods in respect of subgroups of the total number of persons insured, or a class thereof, during the relevant periods, where such subgroups include such combinations of the following groups of insured persons as the Authority determines to be relevant:
+
+(I) those in different age groups;
+
+(II) those of differing sex;
+
+(III) those with differing types of cover,
+
+(iii) the F87[hospital utilisation] in respect of each group and subgroup referred to in *subparagraphs (i)* and *(ii)*, and *(iv)* the net financial impact on each registered undertaking or former registered undertaking of the relevant financial provisions during the relevant periods, and
+
+(iv) the net financial impact on each registered undertaking or former registered undertaking of the relevant financial provisions during the relevant periods, and]
+
+(v) F89[...]
+
+(*b*) as soon as may be after the end of each 6 months period, 12 months period, or longer period, as specified by the Minister by notice in writing given to the Authority (in this paragraph referred to as the "specified period"), prepare and furnish to the Minister a report in relation to—
+
+(i) such evaluation and analysis in respect of the information returns which relate to the F87[specified period (taking into account the objective specified in subparagraph (iii)(II))] F83[and in respect of the other information referred to in *paragraph (a)*],
+
+(ii) such matters concerning the carrying on of health insurance business and developments in relation to health insurance generally that the Authority considers ought to be brought to the attention of the Minister (including information in relation to the profitability of any registered undertaking or former registered undertaking where the operation of the relevant financial provisions is expected to result in a positive cumulative net financial impact on the undertaking),
+
+F88[(iii) (I) subject to *subsection (1A)*, the amounts of the risk equalisation credits that the Authority considers, after having regard to such evaluation and analysis, would need to be afforded, under the Risk Equalisation Scheme, to persons insured by registered undertakings (other than restricted membership undertakings) having regard to the principal objective (in so far as the principal objective relates to relevant contracts), the aim of avoiding overcompensation being made to a registered undertaking or former registered undertaking under the operation of the relevant financial provisions (other than section 470B of the Taxes Consolidation Act 1997), the aim of maintaining the sustainability of the health insurance market and the aim of having fair and open competition in the health insurance market, and
+
+(II) the objective that the projected net average insurance claim payment per insured person for a relevant age group of insured persons for any period of 12 consecutive months duration should be not less than 125 per cent of the projected net average insurance claim payment per insured person for all age groups of insured persons for that same period, and]
+
+(iv) if the amounts referred to in *subparagraph (iii)* were given effect by a statutory provision, the amount of the stamp duty that the Authority considers F90[, after having regard to the aim of avoiding the Fund sustaining surpluses or deficits from year to year (as calculated using approved accounting standards)] would need to be paid, pursuant to section 125A of the Stamp Duties Consolidation Act 1999, by registered undertakings (other than restricted membership undertakings) in respect of the persons insured by them in order to meet the cost to the F91[Fund] of the total of the amounts referred to in *subparagraph (iii)*.
+
+F92[(1A) The Minister may, by notice in writing given to the Authority, require the Authority to prepare any report to be furnished to him or her pursuant to *paragraph (b)* of *subsection (1)*, in so far as the report relates to *subparagraph (iii)* of that paragraph—
+
+(*a*) in the case of F93[hospital utilisation credit], on the basis of the amount specified in the notice or on the basis of the amount specified in Schedule 3 or both,
+
+(*b*) on the basis of the classes of insured person specified in the notice or on the basis of the classes of insured person specified in *column 1 of Table 2* F94[set out in Schedule 4 or both, or]
+
+F95[*(c)* in the case of high cost claims, on the basis of the amount and percentage specified in the notice or on the basis of the amount and percentage specified in *Schedule 5* or both.]]
+
+F92[(2) The Minister shall—
+
+(*a*) first, after having regard to—
+
+(i) the principal objective (in so far as the principal objective relates to relevant contracts),
+
+(ii) any report furnished to him or her pursuant to *subsection (1)(b)*,
+
+(iii) the aim of avoiding overcompensation being made to a registered undertaking or former registered undertaking under the operation of the relevant financial provisions (other than section 470B of the Taxes Consolidation Act 1997),
+
+(iv) the aim of maintaining the sustainability of the health insurance market,
+
+(v) the aim of having fair and open competition in the health insurance F96[market,]
+
+(vi) the aim of avoiding the Fund sustaining surpluses or deficits from year to year (as calculated using approved accounting F96[standards), and ]
+
+F97[(vii) the objective specified in *subsection (1)(b)(iii)(II)*,]
+
+(*b*) second, after taking into account the amendments (if any) that he or she wishes to propose to the relevant financial provisions (other than section 470B of the Taxes Consolidation Act 1997) in view of the regard given the matters referred to in *paragraph (a)* (and whether or not those amendments accord with any matter set out in the report referred to in *paragraph (a)(iii)*), and
+
+(*c*) third, after consultation with the Minister for Finance on the amendments (if any) referred to in *paragraph (b)*,
+
+make such recommendations to the Minister for Finance relating to section 125A of the Stamp Duties Consolidation Act 1999 as the Minister considers appropriate.].
+
+(3) The Minister may engage a person whom he or she considers to be competent and qualified to do so to advise him or her and to consult with him or her in relation to the functions of the Minister under this section.]
+
+F97[(4) In this section—
+
+"net", in relation to the average insurance claim payment per insured person for—
+
+*(a)* a relevant age group of insured persons, or
+
+*(b)* all age groups of insured persons,
+
+means after the application of the projected net financial impact of the relevant financial provisions for the 12 consecutive months concerned referred to in *subsection (1)(b)(iii)(II)*;
+
+"relevant age group of insured persons" means an age group of insured persons specified in *column 1* of *Table 2* set out in *Schedule 4* in respect of which, in accordance with *section 11C*, part of the premium payable in respect of such insured person is, or is expected to be, payable from the Fund.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F81: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+>
+> F82, F83, F84, F85: Inserted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), ss. 4(a)(i), 4(a)(ii)(I), commenced on enactment.
+>
+> F86: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 13(a)(i), commenced on enactment.
+>
+> F87, F88: Substituted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), ss. 3(a)(i), (ii)(I), (II) commenced on enactment.
+>
+> F89: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 13(a)(i), commenced on enactment.
+>
+> F90: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 13(a)(ii)(II)(A), commenced on enactment.
+>
+> F91: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 13(a)(ii)(II)(B), commenced on enactment.
+>
+> F92: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 13(b), commenced on enactment.
+>
+> F43: Substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 2(2), commenced as per s. 7(2).
+>
+> F93: Substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 2(2), commenced as per s. 7(2).
+>
+> F94: Substituted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 3(a), S.I. No. 145 of 2022, art. 2.
+>
+> F95: Inserted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 3(b), S.I. No. 145 of 2022, art. 2.
+>
+> F96: Substituted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), ss. 3(b)(i), (ii), commenced on enactment.
+>
+> F97: Inserted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), ss. 3(b)(iii), (c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E56: Previous affecting provision: subs. (1)(b)(iii) substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), ss. 13(a)(ii)(I), commenced on enactment; substituted (1.03.2016) as per F-note above.
+>
+> E57: Previous affecting provision: subs. (1A) inserted (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 4(b), commenced on enactment; substituted (26.12.2012) as per F-note above.
+>
+> E58: Previous affecting provision: subs. (1)(b)(iii) amended (16.12.2011) by *Health Insurance (Miscellaneous Provisions) Act 2011* (34/2011), s. 4(a)(ii)(II), commenced on enactment; para. (iii) substituted (26.12.2012) as per E-note above.
+
+### 7F. Overcompensated undertaking required to make payment to Exchequer if it has made more than reasonable profit.
+
+F98[**7F.** — F99[(1) A registered undertaking or former registered undertaking shall, in respect of each year—
+
+(*a*) maintain and furnish to the Authority (before F106[1 May] of the next succeeding year), in such form as may be specified by the Authority, a statement of profit and loss in respect of—
+
+(i) its relevant health insurance business in the State, and
+
+(ii) such other health insurance services, provided by the undertaking, as may be prescribed,
+
+(*b*) maintain and furnish to the Authority (before F107[1 May] of the next succeeding year), in such form as may be specified by the Authority, a balance sheet in respect of—
+
+(i) its relevant health insurance business in the State, and
+
+(ii) such other health insurance services, provided by the undertaking, as may be prescribed, and
+
+(*c*) furnish to the Authority (before F108[1 May] of the next succeeding year), such other information relating to the year as may be prescribed and, without limiting the generality of the foregoing, such information may include a statement of profit and loss and a balance sheet in respect of its relevant health insurance business in the State as it relates to those persons receiving age-related tax credits, in respect of health insurance contracts effected for any period before 1 January 2013, or receiving risk equalisation credits.]
+
+(2) (*a*) A statement of profit and loss or balance sheet shall, prior to its being furnished to the Authority pursuant to *subsection (1)*, be certified by an independent accountant in such form as may be specified by the Authority.
+
+(*b*) The Minister may prescribe the bases for the calculation of costs, premia and other relevant financial data that are to be included in a statement of profit and loss or balance sheet to be furnished to the Authority pursuant to *subsection (1)*.
+
+(3) A registered undertaking or former registered undertaking which has furnished the Authority with information under *subsection (1)* shall provide the Authority with such assistance as is reasonably necessary for the due performance of the Authority’s functions under this section in relation to such information.
+
+F100[(4)(*a*) F114[...]
+
+F109[(*b*) The Authority shall take what would constitute a reasonable profit for a registered undertaking in respect of its relevant health insurance business in the State, in respect of the 3 year period from 1 January 2011 to the end of 2013, as being a return on equity that does not exceed 12 per cent per annum in respect of that business for that period as calculated using approved accounting standards and having regard to the European Union Framework for State aid in the form of public service compensation (2011) (2012/C8/03)[^1], (the text of which is set out for convenience of reference in Schedule 2).]
+
+(*c*) *Paragraph (b)* shall, with all necessary modifications, apply to each relevant 3 year period as it applies to the 3 year period referred to in that paragraph.]
+
+F115[(4A) *(a)* The Authority shall take what would constitute a reasonable profit for a registered undertaking in respect of its relevant health insurance business in the State, in respect of the 3 year period from 1 January 2016 to the end of 2018, as being a return on sales, gross of reinsurance and excluding investment income, that does not exceed F116[6 per cent per annum] in respect of that business for that 3 year period taken as a whole and as calculated using approved accounting standards and having regard to the European Union framework for State aid in the form of public service compensation (2011) (2012/C8/03).
+
+*(b)* F116[Subject to *paragraph (c)*, *paragraph (a)* shall, with all necessary modifications, apply] to each applicable 3 year period as it applies to the 3 year period referred to in that paragraph.]
+
+F117[*(c)* In respect of each of the following applicable 3 year periods—
+
+(i) the 3 year period from 1 January 2020 to the end of 2022, and
+
+(ii) the 3 year period from 1 January 2021 to the end of 2023,
+
+the reference in *paragraph (a)* to 6 per cent per annum shall, as respects the applicable 3 year period referred to in *subparagraph (i)*, be read as a reference to 4. 9 per cent per annum and, as respects the applicable 3 year period referred to in *subparagraph (ii)*, be read as a reference to 5. 5 per cent per annum and *paragraph (a)* shall apply accordingly.]
+
+(5) The Authority shall—
+
+(*a*) F118[...]
+
+F101[(*b*) as soon as may be, make a determination as to whether or not the cumulative net financial impact of the relevant financial provisions on a registered undertaking or former registered undertaking is positive for—
+
+(i) F119[...]
+
+(ii) if *paragraph (b)* of *subsection (4)* is applicable, the period from 1 January of 2011 to the end F122[of 2013,]
+
+(iii) if *paragraph (c)* of *subsection (4)* is applicable, the period from 1 January of the first year of the relevant 3 year period to the end of the last year of the relevant 3 year period,
+
+to which the information furnished to it under *subsection (1)* relates and, if so, the amount by which the cumulative net financial impact is positive.]
+
+F115[(iv) if *paragraph (a)* of *subsection (4A)* is applicable, the period from 1 January 2016 to the end of 2018, or
+
+(v) if *paragraph (b)* of *subsection (4A)* is applicable, the period from 1 January of the first year of the applicable 3 year period to the end of the last year of the applicable 3 year period,]
+
+(6) (*a*) Where the Authority determines under *subsection (5)(b)* that there is a positive cumulative net financial impact on a registered undertaking or former registered undertaking in respect of a period, it shall make a determination as to whether the undertaking has or has not, in respect of that period, made a profit which is in excess of the reasonable profit F120[...] in respect of that period.
+
+(*b*) Where the Authority determines under *paragraph (a)* that a registered undertaking or former registered undertaking has made a profit which is in excess of a reasonable profit in respect of a period, it shall make a further determination as to the monetary equivalent amount of the profit which is in excess of the corresponding monetary equivalent amount of such reasonable profit in respect of that period.
+
+(7) Where, in respect of a period, the Authority has determined under *subsection (5)(b)* that the cumulative net financial impact of the relevant financial provisions on a registered undertaking or former registered undertaking was positive, and determined under *subsection (6)(a)* that the undertaking has made a profit which is F110[in excess of the reasonable profit], it shall prepare a report (in this Part referred to as the "draft report") setting out—
+
+(*a*) the reasonable profit, F121[...]
+
+(*b*) the amount determined under *subsection (5)(b)* to be the positive cumulative net financial impact on the undertaking,
+
+(*c*) the monetary equivalent amount determined under *subsection (6)(b)* to be the profit of the undertaking which is in excess of the corresponding monetary equivalent amount of F111[the reasonable profit],
+
+(*d*) the cumulative amount of overcompensation, being the lower of the amounts referred to in *paragraphs (b)* and *(c)*,
+
+(*e*) the amount of overcompensation to be paid to F102[the Fund] by the undertaking, being the cumulative amount of overcompensation referred to in *paragraph (d)* reduced by the total amount of overcompensation paid or due to be paid to F103[the Fund] pursuant to the operation of *subsection (10)* in respect of all the periods prior to the first-mentioned period, and
+
+(*f*) the bases on which it made the determinations, and calculated the amounts, referred to in *paragraphs (a)* to *(e)*.
+
+(8) (*a*) The Authority shall, as soon as may be after the preparation of the draft report—
+
+(i) furnish a copy of the draft report to the registered undertaking or former registered undertaking the subject of the report,
+
+(ii) invite the undertaking to make representations to the Authority in relation to the draft report before the expiration of 21 days (or such longer period as the Authority may permit in its discretion) from the day on which the undertaking received the report, and
+
+(iii) take into account any such representations made to it within that period before preparing the final report as soon as is practicable after the expiration of that period of 21 days (or, if applicable, the expiration of the longer period permitted pursuant to *subparagraph (ii)*).
+
+(*b*) The determinations of the Authority contained in its final report shall be final and conclusive (including for the purposes of any proceedings concerning the recovery of an amount referred to in *subsection (11)*).
+
+(*c*) The Authority shall furnish the final report to the Minister as soon as may be after it has been prepared.
+
+(9) Where the Minister is furnished with a report under *subsection (8)*, the Minister shall, as soon as may be, furnish a copy of the report to the registered undertaking or former registered undertaking the subject of the report together with a copy of this section.
+
+(10) Where a registered undertaking or former registered undertaking is furnished with a copy of a report under *subsection (9)*, it shall, not later than 2 months from the date on which it is given the report, pay to F104[the Fund] the amount set out in the report pursuant to *paragraph (e)* of *subsection (7)*.
+
+(11) The Minister on behalf of the Minister for Finance may recover, as a simple contract debt in any court of competent jurisdiction, from the registered undertaking or former registered undertaking by which it is payable, any amount due and owing to F105[the Fund] pursuant to the operation of *subsection (10)*.
+
+(12) Notwithstanding that the Authority may not, in respect of a particular year, or in respect of a particular registered undertaking or former registered undertaking, be required under *subsection (8)* to furnish a report to the Minister, the Minister may make a request in writing to the Authority to be furnished, within the period specified in the request (being a period reasonable in the circumstances), with such information relating to any determination it has made under *subsection (5)* or *(6)* in respect of a particular registered undertaking or former registered undertaking (including information relating to the basis on which such determination was made) as the Minister specifies in the request.
+
+(13) The Authority shall comply with a request made under *subsection (12)* by the Minister.]
+
+F123[(13A) For the purposes of this Act, a registered undertaking has not made a profit in excess of the reasonable profit in respect of its health insurance business in the State in respect of the 3 year period referred to in *subsection (4)(b)*, or in respect of a relevant 3 year period, if its return on equity exceeds 12 per cent per annum in respect of that business for part of that period but not for all of that period.]
+
+F126[(14) In this section—
+
+F115["applicable 3 year period" means—
+
+*(a)* the 3 year period from 1 January 2017 to the end of 2019, and
+
+*(b)* the 3 year period from 1 January 2018 to the end of 2020,
+
+and so on for each succeeding 3 year period;]
+
+F122["reasonable profit"—
+
+*(a)* shall be construed in accordance with *subsection (4)* in respect of a 3 year period referred to in *paragraph (b)* of that subsection and in respect of a relevant 3 year period, and
+
+*(b)* shall be construed in accordance with *subsection (4A)* in respect of a 3 year period referred to in *paragraph (a)* of that subsection and in respect of an applicable 3 year period;]
+
+F112["relevant health insurance business in the State", in relation to a registered undertaking or former registered undertaking, means all of the undertaking’s health insurance business in the State;]
+
+F122["relevant 3 year period" means—
+
+*(a)* the period from 1 January 2012 to the end of 2014;
+
+*(b)* the period from 1 January 2013 to the end of 2015.]]
+
+F125["return on equity", in relation to a registered undertaking or former registered undertaking, not being a company established under the Companies Acts, and its relevant health insurance business in the State, includes the equivalent, as calculated using approved accounting standards, for such an undertaking, of a return on equity for a registered undertaking that is such a company.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+>
+> F99, F100, F101, F102, F103, F104, F105: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 14(a)-(d), commenced on enactment.
+>
+> F106, F107, F108, F109, F110, F111, F112, F113: Substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 5(a), (b)(ii), (e)(i), (iii), (g)(ii), commenced on enactment.
+>
+> F114: Deleted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 5(b)(i), commenced on enactment.
+>
+> F115: Inserted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 4(a), (b)(ii), (c)(i), commenced on enactment.
+>
+> F116: Substituted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 4(a), (b), S.I. No. 145 of 2022, art. 2.
+>
+> F117: Inserted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 4(c), S.I. No. 145 of 2022, art. 2.
+>
+> F118, F119, F120, F121: Deleted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 5(b)(i), 5(c), 5(d), 5(e)(ii), commenced on enactment.
+>
+> F122: Substituted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 4(b)(i), (c)(ii), (iii), commenced on enactment.
+>
+> F123, F124, F125: Inserted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 5(f), (g)(iv), commenced on enactment.
+>
+> F126: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 14(e), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E59: Power pursuant to subs. (2)(b) exercised (30.03.2022) by *Health Insurance Act 1994 (Preparation of Financial Statements) Regulations 2022* (S.I. No. 146 of 2022).
+>
+> E60: Previous affecting provision: definition of "reasonable inserted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s 5(g)(i), commenced on enactment; substituted (26.12.2016) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 4(c)(ii), commenced on enactment.
+
+### 7G. Disclosure of contents of information returns.
+
+F127[**7G.** — (1) The contents of information returns shall, in so far as they can be related to individual registered undertakings or former registered undertakings, be disclosed only where necessary for the purposes of the functions of the Minister or the Authority under this Act.
+
+(2) Subject to *subsection (1)*, the Authority may, where it considers it appropriate to do so, disclose aggregate data derived from information returns.
+
+(3) Nothing in this section shall preclude the disclosure of information by means of a report furnished to the Minister pursuant to *section 7E(1)(b)* or *7F(8)(c)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F127: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+
+### 7H. Registered undertaking to provide certain premium information to policy holders or certain other persons.
+
+F128[**7H.** — Where a registered undertaking effects a health insurance contract on or after the commencement of *section 9* of the *Health Insurance (Miscellaneous Provisions) Act 2009* (including any renewal of such a contract entered into before that commencement), it shall, at the same time as effecting the contract, or as soon as is practicable thereafter, give—
+
+(*a*) the policy holder, or
+
+(*b*) the person to whom the registered undertaking issues the request for payment of the premium due under the health insurance contract, where that person is not the policy holder,
+
+a statement in writing setting out—
+
+(i) the premium payable under the contract in respect of each insured person before any deduction referred to in the definition of "net premium" in *section 2* is made from the premium, and
+
+(ii) the net premium under the contract in respect of each insured person] F129[after deducting from the net premium the deduction to which such insured person is entitled, for the year of assessment concerned, by virtue of section 470 of the Taxes Consolidation Act 1997.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F128: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 9, commenced on enactment.
+>
+> F129: Inserted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 6, commenced on enactment.
+
+### 8. Obligation to provide health insurance.
+
+F130[**8.** — (1) A registered undertaking, other than a restricted membership undertaking, shall not refuse to effect a health insurance contract with or for a person of whatever age or such a person and his or her dependants except in such cases (if any) or in such circumstances (if any) as may be prescribed.
+
+(2) A restricted membership undertaking shall not—
+
+(*a*) impose as a condition of qualification for membership of the undertaking a requirement as to age,
+
+(*b*) refuse to admit to membership of the undertaking a person who is qualified for such membership and requests to be so admitted, or
+
+(*c*) refuse to effect a health insurance contract with or for such a person as aforesaid or with or for such a person and his or her dependants,
+
+except in such cases (if any) or in such circumstances (if any) as may be prescribed.
+
+F131[(3) For the purposes of this Act, the Minister may prescribe the maximum waiting periods for eligibility for services or payments, or both, under a health insurance contract which a registered undertaking may impose in respect of the person effecting the contract or his or her dependents including, but without prejudice to the generality of the foregoing, in respect of a person who—
+
+(*a*) is of or under a prescribed age,
+
+(*b*) is of or over a prescribed age,
+
+(*c*) is suffering from a medical condition when the contract is effected,
+
+(*d*) effects a health insurance contract in the State without previously having effected a health insurance contract in the State,
+
+(*e*) effects a health insurance contract with the undertaking having previously effected a health insurance contract with that undertaking whether in respect of the same or different services or payments, or both, or
+
+(*f*) effects a health insurance contract with the undertaking having previously effected a health insurance contract with another registered undertaking whether in respect of the same or different services or payments, or both.]
+
+(4)(*a*) Subject to *paragraph (b)*, where a health insurance contract effected by a person with a registered undertaking ceases to be in force for any reason, that or any other registered undertaking shall not refuse to effect another health insurance contract with the person, irrespective of his or her age, in respect of the same services except in such cases (if any) or in such circumstances (if any) as may be prescribed.
+
+(*b*) A restricted membership undertaking may refuse to effect a health insurance contract with a person referred to in *paragraph (a)* if the person is not entitled to membership of the undertaking.
+
+F132[(5) Where a health insurance contract ("the first-mentioned contract") effected with a registered undertaking (including such undertaking which is a restricted membership undertaking) ceases to be in force and a person who was a party to or named in that contract effects, within such period after that cesser as may be prescribed, another health insurance contract with a registered undertaking ("the second-mentioned contract"), then insofar as the second-mentioned contract is in respect of such services or payments, or both, as would have been provided or payable, as appropriate, under the first-mentioned contract—
+
+(*a*) the waiting period for eligibility for the service or the payment, or both, under the second-mentioned contract to—
+
+(i) the person, or
+
+(ii) any other person who is named in the contract and was also a party to or named in the first-mentioned contract,
+
+shall not be any longer than it would have been if the second-mentioned contract had been effected at the time the first-mentioned contract had been effected, and
+
+(*b*) there shall be deemed to be expired so much of that waiting period as is equal to so much of the like period under the first-mentioned contract as had expired at the time of the cesser aforesaid.]
+
+(6) F133[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F130: Substituted (29.06.2005) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 8, S.I. No. 322 of 2005.
+>
+> F131, F132: Substituted (25.12.2014) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 4(a), (b), commenced on enactment.
+>
+> F133: Deleted (25.12.2014) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 4(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E61: Power pursuant to section exercised (1.05.2015) by *Health Insurance Act 1994 (Open Enrolment) Regulations 2015* (S.I. No. 79 of 2015), in effect as per reg. 1(2).
+>
+> E62: Previous affecting provision: power pursuant to section exercised (1.07.2005) by *Health Insurance Act 2001 (Open Enrolment) Regulations 2005* (S.I. No. 332 of 2005), in effect as per reg. 2; revoked (1.05.2015) by *Health Insurance Act 1994 (Open Enrolment) Regulations 2015* (S.I. No. 79 of 2015, reg. 9, in effect as per reg. 1(2).
+>
+> E63: Previous affecting provision: power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Open Enrolment) Regulations 1996* (S.I. No. 81 of 1996); revoked (1.07.2005) by *Health Insurance Act, 2001 (Open Enrolment) Regulations 2005* (S.I. No. 332 of 2005), reg. 12, in effect as per reg. 2.
+
+### 9. Prohibition of termination of, or refusal to renew, health insurance contracts.
+
+F134[ **9.** — (1) A registered undertaking shall not terminate or (irrespective of whether or not the contract provides for its renewal) refuse to renew a health insurance contract without the consent of the other party to the contract except—
+
+*(a)* where there has been fraudulent misrepresentation to the undertaking in relation to the contract which has, or could have, resulted in financial loss to the undertaking,
+
+*(b)* where the undertaking ceases to carry on health insurance business in the State, or
+
+*(c)* subject to *subsections (2)* to *(5)*, where the undertaking has ceased to offer, in the State, health insurance contracts of the type of that contract.
+
+(2) Where a registered undertaking refuses to renew a health insurance contract ("non-renewed contract") on the ground referred to in *subsection (1)(c)* and that contract provides for benefits in respect of hospital in-patient services, it shall, at the same time as such refusal, offer, to the other party to the non-renewed contract, a replacement health insurance contract ("replacement contract") where—
+
+*(a)* subject to *subsection (3)*, the hospital in-patient services for which the benefits are payable under the replacement contract are the same as, or more than, such services for which benefits are payable under the non-renewed contract, and
+
+*(b)* subject to *subsection (4)*, the benefits payable in respect of hospital in-patient services under the replacement contract are the same as, or more than, the level of such benefits payable under the non-renewed contract.
+
+(3) *Subsection (2)(a)* shall not apply in the case of a hospital in-patient service—
+
+*(a)* which is no longer available in the State at the time of the refusal referred to in *subsection (2)*, or
+
+*(b)* in respect of which the registered undertaking has ceased to offer (whether before such refusal or with effect on or after the time of such refusal), in the State, any health insurance contract under which benefits are payable in respect of such service.
+
+(4) *(a)* *Paragraph (b)* applies if—
+
+(i) the replacement contract provides that the insured person who makes a claim under the contract for payment of benefits in respect of hospital in-patient services provided to the person is liable to pay an amount (‘excess amount’) towards the provision of such services, and
+
+(ii) the excess amount—
+
+(I) is not greater than €100 where the non-renewed contract did not provide for an equivalent to the excess amount, or
+
+(II) is not greater than €100 more than the equivalent to the excess amount provided in the non-renewed contract.
+
+*(b)* The provision in the replacement contract for the payment of the excess amount shall be disregarded for the purposes of *subsection (2)(b)*.
+
+(5) Without prejudice to the generality of *section 8(5)*, where the second-mentioned contract referred to in that section is the replacement contract, it shall be presumed for the purposes of this section that the services or payment provided for in the replacement contract are the same as those provided for in the first-mentioned contract referred to in *section 8(5)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F134: Substituted (1.01.2017) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 5, commenced as per s. 9(2)(a).
+>
+> **Editorial Notes:**
+>
+> E64: Power pursuant to section exercised (1.01.2017) by *Health Insurance Act 1994 (Lifetime Cover) (Revocation) Regulations 2016* (S.I. No. 627 of 2016), in effect as per reg. 1(2).
+>
+> E65: Previous affecting provision: power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Lifetime Cover) Regulations 1996* (S.I. No. 82 of 1996), in effect as per art. 2; revoked (1.01.2017) by *Health Insurance Act 1994 (Lifetime Cover) (Revocation) Regulations 2016* (S.I. No. 627 of 2016), reg. 2, in effect as per reg. 1(2).
+
+### 10. Minimum level of health insurance cover.
+
+**10.** — (1) F137[Subject to *subsection (3)*, a health insurance contract effected by a registered undertaking]
+
+(*a*) shall relate, at least, to such health services and F136[relevant] health services as may be prescribed, and
+
+(*b*) in so far as it relates to services prescribed under *paragraph (a)*, shall provide for the payment by the undertaking in respect of those services of amounts that are not less than such amounts as may be prescribed.
+
+(2)The Minister may engage a person whom he or she considers competent and qualified to do so to advise him or her in relation to the performance of the functions of the Minister under this section.
+
+F138[(3) *Subsection (1)* shall not apply to a health insurance contract—
+
+(*a*) where, and without prejudice to the generality of *paragraphs (a)* to *(d)* of the definition of "health insurance contract" (inserted by section 2 of the Act of 2001) in *section 2(1)*, such a contract, either of itself or as construed with any linked or related other health insurance contract, makes no provision for the making of in-patient indemnity payments, or
+
+*(b)* relating solely to the public hospital daily in-patient charges made under the Health (In-patient Charges) Regulations 1987 (S.I. No. 116 of 1987).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F135, F136: Substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(c), S.I. No. 514 of 2001.
+>
+> F137: Substituted (10.06.2009) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 4(a), S.I. No. 213 of 2009, art 3.
+>
+> F138: Inserted (10.06.2009) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 4(b), S.I. No. 213 of 2009, art 3.
+>
+> **Editorial Notes:**
+>
+> E66: Power pursuant to section exercised (13.03.2015) by *Health Insurance Act 1994 (Minimum Benefit) (Amendment) Regulations 2015* (S.I. No. 96 of 2015).
+>
+> E67: Power pursuant to section exercised (1.01.2015) by *Health Insurance Act 1994 (Minimum Benefit) (Amendment) Regulations 2014* (S.I. No. 612 of 2014), in effect as per reg. 1(2).
+>
+> E68: Power pursuant to section exercised (1.07.2005) by *Health Insurance Act, 1994 (Minimum Benefit) (Amendment) Regulations 2005* (S.I. No. 333 of 2005), in effect as per reg. 3.
+>
+> E69: Power pursuant to section exercised (28.03.1996) by *Health Insurance Act, 1994 (Minimum Benefit) Regulations 1996* (S.I. No. 83 of 1996), in effect as per art. 2.
+
+### 11. Prohibition of inducements by registered undertakings.
+
+**11.** — A registered undertaking or a person acting on behalf of such an undertaking shall not—
+
+(*a*) make or offer to make a payment to a person,
+
+(*b*) forego or offer to forego a payment or part of a payment from a person,
+
+(*c*) give or offer to give any goods to a person,
+
+(*d*) provide or offer to provide any service for a person, or
+
+(*e*) give or provide or offer to give or provide any other thing of value to or for a person,
+
+as an inducement to the person—
+
+(i) to terminate or not to effect or renew a health insurance contract with that undertaking, or
+
+(ii) (I) to forego a payment to or on behalf of the person in respect of a hospital in-patient service or F139[a relevant] health service under a health insurance contract effected between the undertaking and the person, and
+
+(II) to avail of his or her entitlements under Chapter II of Part IV of the Health Act, 1970, as respects the service.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139: Substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(d), S.I. No. 514 of 2001.
+
+### 11A. Risk Equalisation Scheme.
+
+F140[**11A.** — This section and *sections 11B* to *11G*, the regulations under *section 11E*, the regulations under *section 11F*, and *Schedules 3* and *4*, shall comprise a scheme (to be known as the "Risk Equalisation Scheme") for the purposes of assisting in the achievement of the principal objective.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F140: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+
+### 11B. Application of Risk Equalisation Scheme.
+
+F141[**11B.** —(1) Subject to *subsection (2)*, the Risk Equalisation Scheme shall apply to—
+
+(*a*) each registered undertaking, and
+
+(*b*) each undertaking that has ceased to be a registered undertaking but was a registered undertaking at any time when the Scheme was in force.
+
+(2) The Risk Equalisation Scheme shall not apply to a restricted membership undertaking.
+
+(3) The Risk Equalisation Scheme shall not apply to so much of the activities of a registered undertaking as consist of effecting health insurance contracts where such a contract—
+
+(*a*) either of itself or as construed with any linked or related other health insurance contract, makes no provision for the making of in-patient indemnity payments, or
+
+(*b*) relates solely to the public hospital daily in-patient charges made under the Health (In-patient Charges) Regulations 1987 (S.I. No. 116 of 1987).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F141: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+
+### 11C. Payment from Fund of risk equalisation credits.
+
+F142[**11C.** — (1) (*a*) Where a registered undertaking effects, before 31 March 2013, a relevant contract for any period commencing on or after 1 January 2013, it shall, in respect of each insured person who falls within a class of insured person specified in *column 1* of *Table 1* set out in *Schedule 4*, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
+
+(i) as is equal to the amount (if any) specified in *column 2* of that Table opposite that class of insured person, and
+
+(ii) on the basis that that part of the premium payable is payable from the Fund.
+
+(*b*) Where a registered undertaking effects, on or after F143[1 April 2026], a relevant contract for any period commencing on or after that date, it shall, in respect of each insured person who falls within a class of insured person specified in *column 1* of *Table 2* set out in *Schedule 4*, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
+
+(i) as is equal to the amount (if any) specified in *column 2* of that *Table* opposite that class of insured person, and
+
+(ii) on the basis that that part of the premium payable is payable from the Fund.
+
+(2) F144[Subject to *subsection (2A)*, a registered undertaking or former registered undertaking may] in accordance with the regulations under *section 11F*, make a claim to the Authority to be paid an amount equal to its risk equalisation credits for the period to which the claim relates.
+
+F145[(2A) A claim (or a part thereof) for a payment shall not be made to the Authority by a registered undertaking or former registered undertaking under *subsection (2)* if entitlement to the risk equalisation credits to which the claim (or a part thereof) relates arose more than 6 years before 31 March in the period of 12 months prior to the date of the making of the claim.]
+
+(3) Where the Authority receives a claim referred to in *subsection (2)* from a registered undertaking or former registered undertaking, it shall, in accordance with the regulations under *section 11F*, pay out of the Fund to the undertaking that amount that the Authority is satisfied is so payable, in accordance with the Risk Equalisation Scheme, in respect of the risk equalisation credits to which the claim relates.
+
+(4) Information concerning the amounts of stamp duty paid by registered undertakings or former registered undertakings pursuant to section 125A of the Stamp Duties Consolidation Act 1999 shall, at the request of the Authority, be disclosed to the Authority by the Revenue Commissioners or a Revenue officer (within the meaning of section 851A of the Taxes Consolidation Act 1997) for the purposes of assisting the Authority in performing its functions under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+>
+> F143: Substituted (1.04.2026) by *Health Insurance (Amendment) Act 2025* (14/2025), s. 2, commenced as per s. 8(4).
+>
+> F144: Substituted (1.04.2023) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 5(b), S.I. No. 112 of 2022.
+>
+> F145: Inserted (1.04.2023) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 5(c), S.I. No. 112 of 2023.
+>
+> **Editorial Notes:**
+>
+> E70: Previous affecting provision: subs. (1)(b) amended (1.04.2025) by *Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024* (42/2024), s. 8, commenced as per s. 1(5); amendment substituted (1.04.2026) as per F-note above.
+>
+> E71: Previous affecting provision: subs. (1)(b) substituted (1.04.2024) by *Health Insurance (Amendment) Act 2023* (36/2023), s. 2, commenced as per s. 7(4); substituted (1.04.2025) as per F-note above.
+>
+> E72: Previous affecting provision: subs. (1)(b) amended (1.04.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 3, commenced as per s. 8(2)(b); substituted (1.04.2024) as per F-note above.
+>
+> E73: Previous affecting provision: subs. (1)()b) amended (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 5(a), S.I. No. 145 of 2022; substituted (1.04.2023) as per F-note above.
+>
+> E74: Previous affecting provision: date in subs. (1)(b) substituted (1.04.2021) by *Health Insurance (Amendment) Act 2020* (24/2020), s. 2, commenced as per s. 6(2)(b); substituted (1.04.2022) as per F-note above.
+>
+> E75: Previous affecting provision: date in subs. (1)(b) substituted (1.04.2020) by *Health Insurance (Amendment) Act 2019* (49/2019), s. 2, commenced as per s. 6(2)(b); substituted (1.04.2021) as per E-note above.
+>
+> E76: Previous affecting provision: date in subs. (1)(b) substituted (1.04.2019) by *Health Insurance (Amendment) Act 2018* (35/2018), s. 2, commenced as per s. 8(3); substituted (1.04.2020) as per E-note above.
+>
+> E77: Previous affecting provision: date in subs. (1)(b) substituted (1.04.2018) by *Health Insurance (Amendment) Act 2017* (37/2017), s. 3, commenced as per s. 7(2)(b); substituted (1.04.2019) as per E-note above.
+>
+> E78: Previous affecting provision: date in subs. (1)(b) substituted (1.04.2017) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 6, commenced as per s. 9(b); substituted (1.04.2018) as per E-note above.
+>
+> E79: Previous affecting provision: date in subs. (1)(b) substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 3, commenced as per s. 7(2); substituted (26.12.2016) as per E-note above.
+>
+> E80: Previous affecting provision: date in subs. (1)(b) substituted (1.03.2015) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 6(1), commenced as per s. 6(2), substituted (1.03.2016) as per E-note above.
+>
+> E81: Previous affecting provision: date in subs. (1)(b) substituted (1.03.2014)) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 7(1), commenced as per s. 7(2); substituted (1.03.2015) as per E-note above.
+
+### 11D. Risk Equalisation Fund.
+
+F146[**11D.** — (1) The Authority shall establish, administer and maintain a fund to be known as the Risk Equalisation Fund (in this Act referred to as "the Fund").
+
+(2) The Authority shall open and maintain—
+
+(*a*) subject to *paragraph (b)*, an account (in this Act referred to as a "current account") for all moneys paid into the Fund, and
+
+(*b*) an account (in this Act referred to as an "investment account") for such moneys (if any) that are not immediately required for the purposes of the current account.
+
+(3) The National Treasury Management Agency may, at the request of the Authority and on the Authority’s behalf, invest moneys (if any) in the investment account of the Fund and any income, capital or other benefit received in respect of moneys invested under this subsection shall be paid into the investment account or invested under this subsection as directed by the Authority.
+
+(4) Subject to *subsection (5)*, the following shall be paid into the Fund:
+
+(*a*) all stamp duty paid, in respect of health insurance contracts effected to provide health insurance cover for any period commencing on or after 1 January 2013, by virtue of section 125A of the Stamp Duties Consolidation Act 1999; and
+
+(*b*) any other moneys which may belong to or accrue to the Fund or be received by the Authority in respect of it (including any amount referred to in *section 7F(10)* or *subsection (7)*).
+
+(5) (*a*) In this section "special account" means the account (if any) established under *paragraph (d)*.
+
+(*b*) The Minister may, for the purpose of maintaining a sufficient amount of moneys in the current account of the Fund, having regard to the sums payable from the current account, request the Minister for Finance to advance moneys to the special account from the Central Fund.
+
+(*c*) A request under *paragraph (b)* shall be approved by the Minister for Finance, following consultation with the Minister for Public Expenditure and Reform, before any moneys are advanced to the special account pursuant to a request under that paragraph.
+
+(*d*) For the purposes of moneys advanced to the current account of the Fund pursuant to a request under paragraph (b), an account shall be established which shall be—
+
+(i) in the name of the Minister, and
+
+(ii) an account with the Paymaster General.
+
+(*e*) The Minister shall, subject to such conditions as the Minister for Finance considers appropriate, manage and control the special account for the purpose of maintaining an amount of moneys in the current account of the Fund that is sufficient to meet the sums payable from that current account.
+
+(*f*) Whenever the moneys in the current account of the Fund are insufficient to meet the sums payable from that account—
+
+(i) there shall be paid into that account from the investment account of the Fund the moneys necessary to meet those sums payable, and
+
+(ii) if there is still a shortfall in the current account of the Fund to meet those sums payable after the moneys in the investment account have been paid into it, there shall be paid into the current account from the special account the moneys necessary to meet the shortfall.
+
+(6) The following shall be paid out of the Fund:
+
+(*a*) amounts payable to registered undertakings by virtue of *section 11C(3)*;
+
+(*b*) amounts payable to the Central Fund to repay moneys paid into the current account of the Fund from the special account;
+
+(*c*) costs, charges and expenses incurred in maintaining, protecting, administering and applying the Fund; and
+
+(*d*) other sums properly payable out of the Fund.
+
+(7) Where it comes to the knowledge of the Authority that, for whatever reason, there has been a payment (including any part thereof) from the Fund to a registered undertaking or former registered undertaking which is not in accordance with this Act, the Authority may recover the amount concerned—
+
+(*a*) as a simple contract debt in any court of competent jurisdiction from the registered undertaking or former registered undertaking concerned, or
+
+(*b*) by deducting that amount from any payment from the Fund otherwise due to the registered undertaking or former registered undertaking concerned.
+
+(8) The Authority shall keep all proper and usual accounts of all moneys paid into the Fund and disbursements from the Fund, including—
+
+(*a*) an income and expenditure account,
+
+(*b*) a cash-flow statement, and
+
+(*c*) a balance sheet.
+
+(9) As soon as may be after the end of each financial year of the Authority, the Authority shall submit—
+
+(*a*) the accounts of the Fund to the Comptroller and Auditor General for audit, and
+
+(*b*) a copy of an abstract of the accounts as so audited together with a copy of the report of the Comptroller and Auditor General thereon to the Minister.
+
+(10) The Minister shall cause copies of the 2 documents referred to in *subsection (9)(b)* to be laid before each House of the Oireachtas as soon as may be after the documents are submitted to him or her by the Authority.
+
+(11) There shall be included among the debts which, under section 285 of the Companies Act 1963 are, in the distribution of the assets of a registered undertaking or former registered undertaking which is a company being wound up, to be paid in priority to all other debts, all amounts payable to the Fund by virtue of *section 7F(10)* or *subsection (7)*, and the Companies Act 1963 shall be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F146: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+
+### 11E. Specification by Authority of certain health insurance contracts as not providing for advanced cover.
+
+F147[**11E.** — (1) The Authority shall, before 1 January 2013—
+
+(*a*) first, evaluate and analyse each type of relevant contract on offer in the State in order to ascertain, to the Authority’s satisfaction, whether that type of relevant contract does not provide for advanced cover, and
+
+(*b*) second, if the Authority is satisfied that that type of relevant contract does not provide for advanced cover—
+
+(i) by regulations specify that the Authority is satisfied that that type of relevant contract does not provide for advanced cover, and
+
+(ii) after making such regulations, enter particulars in The Register of Health Insurance Contracts to indicate that that type of relevant contract has been so specified as not providing for advanced cover.
+
+(2) Where a sample of a new type of relevant contract is submitted to the Authority under *section 7AB(1)*, the Authority shall, before the expiration of 30 days after the sample was so submitted—
+
+(*a*) first, evaluate and analyse the new type of relevant contract in order to ascertain, to the Authority’s satisfaction, whether that type of relevant contract does not provide for advanced cover, and
+
+(*b*) second, if the Authority is satisfied that that type of relevant contract does not provide for advanced cover—
+
+(i) by regulations specify that the Authority is satisfied that that type of relevant contract does not provide for advanced cover, and
+
+(ii) after making such regulations, enter particulars in The Register of Health Insurance Contracts to indicate that that type of relevant contract has been so specified as not providing for advanced cover.
+
+(3) Where a changed existing contract which is a relevant contract is submitted to the Authority under *section 7AB(2)*, the Authority shall, before the expiration of 30 days after the changed existing contract was so submitted—
+
+(*a*) first, evaluate and analyse that type of relevant contract in order to ascertain, to the Authority’s satisfaction, whether that type of relevant contract does not provide for advanced cover, and
+
+F148[(*b*) second—
+
+(i) if the Authority is satisfied that that type of relevant contract does not provide for advanced cover where regulations do not presently specify that that type of relevant contract does not provide for advanced cover—
+
+(I) by regulations specify that the Authority is satisfied that that type of relevant contract does not provide for advanced cover, and
+
+(II) after making such regulations, enter particulars in The Register of Health Insurance Contracts to indicate that that type of relevant contract has been so specified as not providing for advanced cover,
+
+(ii) if the Authority is not satisfied as referred to in *paragraph (a)* in respect of that type of relevant contract where regulations ("the relevant regulations") presently specify ("relevant specification") that the Authority is satisfied that that type of relevant contract does not provide for advanced cover—
+
+(I) by regulations amend the relevant regulations to revoke the relevant specification with effect from the date on which the change concerned in a material particular of the benefits payable under that type of relevant contract is to be first made, and
+
+(II) after making such regulations, amend, with effect from the date referred to in *clause (I)*, the particulars entered in The Register of Health Insurance Contracts in respect of the relevant specification.]
+
+F149[(3A) The Authority may at any time review any evaluation and analysis referred to in *subsection (1), (2)* or *(3)* that it has carried out and, if it is satisfied, after such review, that anything that resulted from such evaluation and analysis was not, or is no longer, correct, then the Authority may carry out a further evaluation and analysis referred to in *subsection (1), (2)* or *(3)*, as the case may be, and its powers to make regulations referred to in this section and to enter particulars in, or amend particulars entered in, The Register of Health Insurance Contracts shall, with all necessary modifications, apply to any such further evaluation and analysis.]
+
+(4) For the purposes of this Act—
+
+(*a*) a relevant contract which provides health insurance cover for—
+
+(i) not more than 66 per cent of the full cost for hospital charges in a private hospital, or
+
+(ii) not more than the prescribed minimum payments within the meaning of the Health Insurance Act 1994 (Minimum Benefit) Regulations 1996 (S.I. No. 83 of 1996),
+
+whichever is the greater, is a relevant contract which provides for non-advanced cover, and
+
+(*b*) any other relevant contract is a relevant contract which provides for advanced cover,
+
+and references in this Act to "non-advanced cover" and "advanced cover" shall be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F147: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+>
+> F148: Substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), 8(a), commenced on enactment.
+>
+> F149: Inserted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), 8(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E82: Power pursuant to subs. (2) exercised (1.04.2026, deemed) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2026* (S.I. No. 216 of 2026), in operation as per reg. 1(2).
+>
+> E83: Power pursuant to subs. (2) exercised (1.03.2026) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2026* (S. I. No. 54 of 2026), in operation as per reg. 1(2).
+>
+> E84: Power pursuant to subs. (3) exercised (22.10.2025) by *Health Insurance Act 1994 (Section 11E(3)) (Amendment) Regulations 2025* (S.I. No. 506 of 2025), in effect as per reg. 1(2).
+>
+> E85: Power pursuant to subs. (2) exercised (22.10.2025, 1.09.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2025* (S.I. No. 505 of 2025), in effect as per reg. 1(2), (3).
+>
+> E86: Power pursuant to subs. (2) exercised (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2025* (S.I. No. 15 of 2025), in effect as per reg. 1(2).
+>
+> E87: Power pursuant to section exercised (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), in effect as per reg. 1(2).
+>
+> E88: Power pursuant to subs. (3) exercised (20.12.2024) by *Health Insurance Act 1994 (Section 11E(3)) (Amendment) Regulations 2024* (S.I. No. 690 of 2024), in effect as per reg. 1(2).
+>
+> E89: Power pursuant to subs. (2) exercised (10.12.2024) by *Health Insurance Act 1994 (Section 11E(2)) (No. 2) Regulations 2024* (S.I. No. 691 of 2024), in effect as per reg. 1(2).
+>
+> E90: Power pursuant to subs. (2) exercised (29.08.2024) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2024* (S.I. No. 412 of 2024), in effect as per reg. 1(2).
+>
+> E91: Power pursuant to subs. (2) exercised (29.09.2022) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2022* (S.I. No. 553 of 2022), in effect as per reg. 1(2).
+>
+> E92: Power pursuant to subs. (2) exercised (1.10.2020) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2020* (S.I. No. 378 of 2020), in effect as per reg. 1(2).
+>
+> E93: Power pursuant to subs. (3) exercised (1.04.2020) by *Health Insurance Act 1994 (Section 11e(3)) Regulations 2013 (Amendment) Regulations 2020* (S.I. No. 90 of 2020), in effect as per reg. 1(2).
+>
+> E94: Power pursuant to subs. (3) exercised (20.09.2019) by *Health Insurance Act 1994 (Section 11E(3)) (No. 3) (Amendment) Regulations 2019* (S.I. No. 471 of 2019).
+>
+> E95: Power pursuant to subs. (3) exercised (1.08.2019) by *Health Insurance Act 1994 (Section 11E(3)) (No. 3) Regulations 2013* (S.I. No. 401 of 2019), in effect as per reg. 1(2).
+>
+> E96: Power pursuant to subs. (2) exercised (25.11.2016) by *Health Insurance Act 1994 (Section 11 E(2) (No. 2)) Regulations 2016* (S.I. No. 573 of 2016), in effect as per reg. 1(2).
+>
+> E97: Power pursuant to subs. (2) exercised (25.11.2015) by *Health Insurance Act 1994 (Section 11E(2) (No. 3)) Regulations 2015* (S.I. No. 544 of 2015), in effect as per reg. 1(2).
+>
+> E98: Power pursuant to subs. (2) exercised (13.04.2015) by *Health Insurance Act 1994 (Section 11E(2) (No. 2)) Regulations 2015* (S.I. No. 151 of 2015), in effect as per reg. 1(2).
+>
+> E99: Power pursuant to subs. (2) exercised (13.03.2015) by *Health Insurance Act 1994 (Section 11E(2)) (Revocation) Regulations 2015* (S.I. No. 102 of 2015).
+>
+> E100: Power pursuant to subs. (2) exercised (13.03.2015) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2015* (S.I. No. 101 of 2015), in effect as per reg. 1(2).
+>
+> E101: Power pursuant to subs. (2) exercised (22.12.2014) by *Health Insurance Act 1994 (Section 11E(2)) (No. 5) Regulations 2014* (S.I. No. 621 of 2014), in effect as per reg. 1(2).
+>
+> E102: Power pursuant to subs. (3) exercised (2.10.2014) by *Health Insurance Act 1994 (Section 11E(3)) Regulations 2014* (S.I. No. 438 of 2014), in effect as per reg. 1(2).
+>
+> E103: Power pursuant to subs. (2) exercised (2.10.2014) by *Health Insurance Act 1994 (Section 11E(2)) (Revocation) Regulations 2014* (S.I. No. 437 of 2014).
+>
+> E104: Power pursuant to subs. (2) exercised (29.08.2014) by *Health Insurance Act 1994 (Section 11E(2)) (No. 3) Regulations 2014* (S.I. No. 389 of 2014), in effect as per reg. 1(2).
+>
+> E105: Power pursuant to subs. (2) exercised (9.05.2014) by *Health Insurance Act 1994 (Section 11E(2)) (No. 2) Regulations 2014* (S.I. No. 202 of 2014), in effect as per reg. 1(2).
+>
+> E106: Power pursuant to subs. (2) exercised (18.03.2014) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2014* (S.I. No. 148 of 2014), in effect as per reg. 1(2).
+>
+> E107: Power pursuant to subs. (3) exercised (19.12.2013) by *Health Insurance Act 1994 (Section11E(3)) (No. 4) Regulations 2013* (S.I. No. 567 of 2013), in effect as per reg. 1(2).
+>
+> E108: Power pursuant to subs. (3) exercised (26.09.2013) by *Health Insurance Act 1994 (Section11E(3)) (No. 3) Regulations 2013* (S.I. No. 364 of 2013), in effect as per reg. 1(2).
+>
+> E109: Power pursuant to subs. (3) exercised (20.06.2013) by *Health Insurance Act 1994 (Section 11E(3)) (No. 2) Regulations 2013* (S.I. No. 204 of 2013), in effect as per reg. 1(2).
+>
+> E110: Power pursuant to subsection exercised (20.06.2013) by *Health Insurance Act 1994 (Section 11E(2)) (No. 2) Regulations 2013* (S.I. No. 203 of 2013), in effect as per reg. 1(2).
+>
+> E111: Power pursuant to subs. (3) exercised (20.03.2013) by *Health Insurance Act 1994 (Section11E(3)) Regulations 2013* (S.I. No. 92 of 2013), in effect as per reg. 1(2).
+>
+> E112: Previous affecting provision: power pursuant to subs. (2) exercised (31.12.2021) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2021* (S.I. No. 696 of 2021), in effect as per reg. 1(2); revoked (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), reg. 7(1)(b), in effect as per reg. 1(2), subject to transitional provision in reg. 7(2).
+>
+> E113: Previous affecting provision: power pursuant to subs. (2) exercised (1.12.2020) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2020* (S.I. No. 538 of 2020), in effect as per reg. 1(2); revoked (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), reg. 7(1)(a), in effect as per reg. 1(2), subject to transitional provision in reg. 7(2).
+>
+> E114: Previous affecting provision: power pursuant to subs. (2) exercised (1.03.2016) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2016* (S.I. No. 120 of 2016), in effect as per reg. 1(2); revoked (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), reg. 6(1)(c), in effect as per reg. 1(2).
+>
+> E115: Previous affecting provision: power pursuant to subs. (2) exercised (30.10.2014) by *Health Insurance Act 1994 (Section 11E(2)) (No. 4) Regulations 2014* (S.I. No. 496 of 2014), in effect as per reg. 1(2); revoked (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), reg. 6(1)(b), in effect as per reg. 1(2).
+>
+> E116: Previous affecting provision: power pursuant to subs. (3) exercised (19.12.2013) by *Health Insurance Act 1994 (Section11E(2)) (No. 3) Regulations 2013* (S.I. No. 568 of 2013), in effect as per reg. 1(2); revoked (1.01.2025) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2024* (S.I. No. 693 of 2024), reg. 6(1)(a), in effect as per reg. 1(2).
+>
+> E117: Previous affecting provision: power pursuant to subs. (2) exercised (20.03.2013) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2013* (S.I. No. 93 of 2013), in effect as per reg. 1(2); revoked (13.03.2015) by *Health Insurance Act 1994 (Section 11E(2)) (Revocation) Regulations 2015* (S.I. No. 102 of 2015), reg. 2(a).
+>
+> E118: Previous affecting provision: power pursuant to subs. (2) exercised (4.04.2014) by *Health Insurance Act 1994 (Section 11E(2)) (Amendment) Regulations 2014* (S.I. No. 167 of 2014); revoked (2.10.2014) by *Health Insurance Act 1994 (Section 11E(2)) (Revocation) Regulations 2014* (S.I. No. 437 of 2014), reg. 2(b).
+>
+> E119: Previous affecting provision: power pursuant to subs. (2) exercised (18.03.2014) by *Health Insurance Act 1994 (Section 11E(2)) Regulations 2014* (S.I. No. 148 of 2014), in effect as per reg. 1(2); revoked (2.10.2014) by *Health Insurance Act 1994 (Section 11E(2)) (Revocation) Regulations 2014* (S.I. No. 437 of 2014), reg. 2(b).
+
+### 11F. Scheme regulations.
+
+F150[**11F.** — The Minister may make regulations relating to the making and determination of claims referred to in *section 11C(2)*, including, without prejudice to the generality of the foregoing—
+
+(*a*) the minimum or maximum periods, or both, to which the claims, or a class of the claims, may relate,
+
+(*b*) the information returns to be made by registered undertakings or former registered undertakings to the Authority in respect of relevant contracts, or a class of relevant contracts, offered or entered into by them,
+
+(*c*) the provision of other information by a registered undertaking or former registered undertaking required by the Authority in respect of a particular claim or class of claims, and
+
+(*d*) the making of enquiries by the Authority and the keeping of records by registered undertakings or former registered undertakings, in respect of claims or a class of claims.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F150: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E120: Power pursuant to section exercised (30.03.2022) by *Health Insurance Act 1994 (Risk Equalisation Scheme) (Amendment) Regulations 2022* (S.I. No. 147 of 2022).
+>
+> E121: Power pursuant to section exercised by *Health Insurance Act 1994 (Risk Equalisation Scheme) Regulations 2013* (S.I. No. 70 of 2013), in effect as per reg. 1(2).
+
+### 11G. Power to specify form of documents for purposes of Risk Equalisation Scheme.
+
+F151[**11G.** — (1) The Authority may specify the form of documents (including the form of a claim referred to in *section 11C(2)*) required for the purposes of the Risk Equalisation Scheme as the Authority thinks appropriate.
+
+(2) The Authority’s power under *subsection (1)* may be exercised in such a way as to—
+
+(*a*) include in the specified form of any document referred to in that subsection a statutory declaration—
+
+(i) to be made by the person completing the form, and
+
+(ii) as to whether the particulars contained in the form are true and correct to the best of that person’s knowledge and belief,
+
+and
+
+(*b*) specify 2 or more forms of any document referred to in that subsection, whether as alternatives, or to provide for particular circumstances or particular cases, as the Authority thinks appropriate.
+
+(3) The form of a document specified under this section shall be—
+
+(*a*) completed in accordance with such directions and instructions as are specified in the document,
+
+(*b*) accompanied by such other documents as are specified in the document, and
+
+(*c*) if the completed document is required to be provided to—
+
+(i) the Authority,
+
+(ii) another person on behalf of the Authority, or
+
+(iii) any other person, so provided in the manner (if any) specified in the document.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F151: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 15, commenced on enactment.
+
+### 12. Risk equalisation schemes.
+
+**12.** — F152[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F152: Repealed (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 20(a), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E122: Power pursuant to section exercised (27.06.2008) by *Risk Equalisation (Amendment) Scheme 2008* (S.I. No. 228 of 2008).
+>
+> E123: Power pursuant to section exercised (1.05.2007) by *Risk Equalisation (Amendment) Scheme 2007* (S.I. No. 220 of 2007).
+>
+> E124: Power pursuant to section exercised (30.06.2005) by *Risk Equalisation (Amendment) Scheme 2005* (S.I. No. 334 of 2005).
+>
+> E125: Power pursuant to section exercised (19.12.2003) by *Risk Equalisation (Amendment) Scheme 2003* (S.I. No. 710 of 2003).
+>
+> E126: Power pursuant to section exercised (1.07.2003 and date to be notified) by *Risk Equalisation Scheme 2003* (S.I. No. 261 of 2003), in effect as per reg. 2.
+>
+> E127: Power pursuant to section exercised (9.02.1999) by *Health Insurance Act, 1994 (Risk Equalisation) (Revocation) Regulations 1999* (S.I. No. 32 of 1999).
+>
+> E128: Previous affecting provision: subs. (5) inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 10, commenced on enactment; section repealed (26.12.2012) as per F-note above.
+>
+> E129: Previous affecting provision: subs. (2)(c) substituted (10.06.2009) by *Voluntary Health Insurance (Amendment) Act 2008* (6/2008), s. 5, S.I. No. 213 of 2009, art 3; repealed (26.12.2012) as per F-note above.
+>
+> E130: Previous affecting provision: section amended (22.02.2007) by *Health Insurance (Amendment) Act 2007* (3/2007), s. 2(a), (b), commenced on enactment; repealed (26.12.2012) as per F-note above
+>
+> E131: Previous affecting provision: section amended (16.04.2003) by *Health Insurance (Amendment) Act 2003* (11/2003), s. 5(a)-(c), commenced on enactment; repealed (26.12.2012) as per F-note above.
+>
+> E132: Previous affecting provision: section substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 9, S.I. No. 514 of 2001; repealed (26.12.2012) as per F-note above.
+>
+> E133: Previous affecting provision: power pursuant to section exercised (28.03.1996 and date to be notified) by *Health Insurance Act (Risk Equalisation Scheme) 1996* (S.I. No. 84 of 1996), in effect as per art. 2; revoked (9.02.1999) by *Health Insurance Act, 1994 (Risk Equalisation) (Revocation) Regulations 1999* (S.I. No. 32 of 1999), reg. 2.
+
+### 12A. Risk equalisation schemes - further provisions.
+
+F153[**12A.** — F154[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F153: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001) s. 9, S.I. No. 514 of 2001.
+>
+> F154: Repealed (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 20(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E134: The section heading is taken from the contents of the section in the absence of one included in the amendment.
+>
+> E135: Previous affecting provision: subs. (5) inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 10, commenced on enactment; section repealed (26.12.2012) as per F-note above.
+>
+> E136: Previous affecting provision: subs. (4) substituted (22.02.2007) by *Health Insurance (Amendment) Act 2007* (3/2007), s. 3, commenced on enactment; section repealed (26.12.2012) as per F-note above.
+
+### 12B. Limited exemption from requirement to make returns and otherwise comply with risk equalisation scheme.
+
+F155[**12B.** — F156[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F155: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 10, S.I. No. 514 of 2001.
+>
+> F156: Repealed (22.02.2007) by *Health Insurance (Amendment) Act 2007* (3/2007), s. 4, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E137: The section is taken from the amending section in the absence of one included in the amendment.
+>
+> E138: Previous affected provision: subs. (1) substituted and subs. (1A) inserted (16.04.2003) by *Health Insurance (Amendment) Act 2003* (11/2003), s. 6(a), (b); repealed (22.02.2007) as per F-note above.
+
+### 13. Advertising and promotion of health insurance business.
+
+F157[**13.** — (1) Subject to *subsection (3)*, if the Minister considers, after having consulted with the Authority, that it is in the interests of policy holders or potential policy holders of a type of health insurance contract that certain information should accompany the contract, the Minister may make regulations—
+
+(*a*) specifying the type of contract and the information,
+
+(*b*) requiring registered undertakings which supply the contract to ensure that the information accompanies the contract in the manner and form specified in the regulations,
+
+(*c*) regulating or prohibiting the supply by registered undertakings of the contract if any regulation made under paragraph (b) is not complied with in so far as the regulation applies to the contract, and
+
+(*d*) without prejudice to the generality of *paragraph (a)*, requiring registered undertakings to include a statement in their offers to renew health insurance contracts, or a class of such offers, as to the rights (including open enrolment rights), or a class of such rights, of the policy holders concerned in respect of the contracts.
+
+(2) Subject to *subsection (3)*, if the Minister considers, after having consulted with the Authority, that it is in the interests of policy holders or potential policy holders of a type of health insurance contract that certain information should accompany advertisements which relate (whether in whole or in part) to the contract, the Minister may make regulations—
+
+(*a*) specifying the type of contract and the information, and
+
+(*b*) requiring registered undertakings, the advertising of which relates (whether in whole or in part) to the contract, to ensure that the information accompanies the advertisements in the manner and form specified in the regulations.
+
+(3) The Minister shall not make a regulation under this section unless the Minister is of the opinion that—
+
+(*a*) the typical policy holder or potential policy holder of the type of health insurance contract concerned would need the information concerned in order to make an informed contract decision, and
+
+(*b*) if such information was withheld, omitted or concealed, it would be likely to cause the typical policy holder or potential policy holder of such a contract to make a contract decision that the policy holder or potential policy holder, as the case may be, would not otherwise make.
+
+(4) Nothing in this section shall be construed to preclude a regulation being made under this section which applies to all types of health insurance contract.
+
+(5) Regulations made under *subsection (2)* may be expressed to apply to a type of advertisement specified in the regulations.
+
+(6) In this section—
+
+"accompanied"—
+
+(*a*) in relation to information to accompany a health insurance contract—
+
+(i) includes accompanied by way of being incorporated into or stamped on the contract, and
+
+(ii) in the case of an offer to renew the contract, includes accompanied by way of being incorporated into or stamped on the offer to renew the contract made prior to the issue of the contract where such offer is accepted,
+
+and
+
+(*b*) in relation to information to accompany an advertisement which relates (whether in whole or in part) to a health insurance contract, includes accompanied by way of—
+
+(i) being incorporated into the advertisement, or
+
+(ii) there being a reference in the advertisement to the means by which the information may be readily obtained;
+
+"advertisement" includes any form of advertising or marketing;
+
+"contract decision", in relation to a type of health insurance contract, means—
+
+(*a*) a decision on whether or not to enter into a contract of health insurance of that type, or
+
+(*b*) if a contract of health insurance of that type has already been entered into, a decision on whether or not to—
+
+(i) cancel the contract,
+
+(ii) renew the contract, or
+
+(iii) exercise a contractual right under the contract;
+
+"supply" in relation to a health insurance contract, includes furnish, offer or agree to supply and expose or display for supply.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F157: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 11, commenced on enactment.
+
+## PART III — Registration of Health Insurance Undertakings
+
+### 14. The Register.
+
+**14.** — (1) The Minister shall cause a register of undertakings to be established which shall be known as The Register of Health Benefits Undertakings and is referred to in this Act as “ the Register ”.
+
+(2) The Register shall be in such form and shall contain such particulars in relation to undertakings as may be prescribed.
+
+(3) Upon the establishment of the Register, the following undertakings shall be entered in it:
+
+(*a*) an undertaking duly authorised pursuant to the Council Directives to carry on health insurance business in the State, and
+
+(*b*) the Voluntary Health Insurance Board.
+
+(4) Upon application to the Minister or the Authority, as the case may be, in that behalf and upon furnishing to the Minister or the Authority, as the case may be, such information (if any) as the Minister or the Authority, as the case may be, may require, any other undertaking which was lawfully carrying on health insurance business in the State on the 30th day of June, 1994 and complies with the provisions of this Act shall be entered in the Register.
+
+(5) F158[Subject to *subsection (5A)*, the Minister] may by regulations provide for the registration of undertakings (other than those specified in *subsections (3)* and *(4)*) of such classes as may be specified upon and subject to such terms and conditions as may be specified including (but without prejudice to the generality of the foregoing)—
+
+(*a*) in the case of a restricted membership undertaking, terms and conditions requiring it to satisfy specified financial criteria and to effect not less than a specified number of health insurance contracts within a specified period, and
+
+(*b*) in the case of any other undertaking, a term or condition requiring the undertaking to be the holder of an authorisation (within the meaning of the Insurance Act, 1989) for the time being in force to carry on non-life insurance business (within the meaning aforesaid).
+
+F159[(5A) The Minister shall not, on or after the commencement of section 12 of the Health Insurance (Miscellaneous Provisions) Act 2009, provide by regulations for the registration of any restricted membership undertaking which was not registered before that commencement.]
+
+(6) Upon the registration of an undertaking, the Minister or the Authority, as the case may be, shall cause a certificate containing such particulars of the registration as the Minister or the Authority, as the case may be, may determine and signed by an officer of the Minister or the Authority, as the case may be, authorised in that behalf by the Minister or the Authority, as the case may be, to be prepared and furnished to the undertaking and, if the undertaking is removed from the Register, it shall return the certificate to the Minister or the Authority, as the case may be.
+
+(7) The Register may be established and maintained in a form that is not legible if it is capable of being converted into a legible form.
+
+(8) A certificate issued by or on behalf of the Minister or the Authority, as the case may be, and stating that the undertaking specified in the certificate is or, as the case may be, is not registered shall, without proof of the signature of the person purporting to sign the certificate or that that person was the proper person so to sign, be evidence in any legal proceedings of the matters stated in the certificate, until the contrary is shown.
+
+(9) On the establishment day, *subsections (4), (6)* and *(8)* shall cease to have effect in so far as they relate to the Minister.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F158: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 12(a), commenced on enactment.
+>
+> F159: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 12(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E139: Power pursuant to section exercised (16.03.2009) by *Health Insurance Act 1994 (Registration) (Amendment) Regulations 2009* (S.I. No. 72 of 2009), in effect as per reg. 1(3).
+>
+> E140: Power pursuant to section exercised (1.07.2005) by *Health Insurance Act 1994 (Registration) (Amendment) Regulations 2005* (S.I. No. 335 of 2005), in effect as per reg. 3.
+>
+> E141: Power pursuant to section exercised (28.03.1996) by *Health Insurance Act 1994 (Registration) Regulations 1996* (S.I. No. 80 of 1996), in effect as per reg. 2.
+
+### 15. Removal from Register.
+
+**15.** — (1) Where the authorisation of a registered undertaking under the Council Directives is withdrawn, pursuant to the Council Directives, the undertaking shall be removed from the Register.
+
+(2) (*a*) Where a registered undertaking—
+
+(i) is convicted on indictment in the State for an offence or is convicted outside the State for an offence consisting of acts or omissions which would constitute an offence triable on indictment in the State if done or made in the State, or
+
+(ii) contravenes a provision of this Act or of a regulation thereunder stated to be penal,
+
+the undertaking shall be removed from the Register if the Minister or the Authority, as the case may be, so directs and the High Court so directs under *subsection (3)* or *(4)*.
+
+(*b*) Where the Minister or the Authority, as the case may be, proposes to give a direction under this subsection, the Minister or the Authority, as the case may be, shall send by registered post to the undertaking concerned, at the address of the undertaking specified in the Register, a notice stating the proposal and the reasons therefor and, before deciding whether to give the direction, shall take into account any representations made in relation to the proposal by the undertaking within the period of 21 days from the giving of the notice.
+
+(3) (*a*) An undertaking to which a direction of the Minister or the Authority, as the case may be, under *subsection (2)* relates may, within the period of 21 days from the date of the direction, apply to the High Court for cancellation of the direction and on such an application—
+
+(i) that Court may—
+
+(I) cancel the direction, or
+
+(II) confirm the direction and direct that the undertaking be removed from the Register, or
+
+(III) give such other directions (if any) to the Minister or the Authority, as the case may be, as the Court thinks proper,
+
+or
+
+(ii) if the Minister or the Authority, as the case may be, satisfies that Court that the undertaking has, without reasonable cause, delayed unduly in proceeding with the application, that Court shall, unless it is satisfied that there are good reasons for not doing so, confirm the direction and direct that the undertaking be removed from the Register.
+
+(*b*) The High Court may direct how, as between the parties to an application under *paragraph (a)*, the costs of the application are to be borne.
+
+(4) Where an undertaking to whom a direction of the Minister or the Authority, as the case may be, under *subsection (2)* relates does not, within the period of 21 days beginning on the date of the direction, apply to the High Court for cancellation of the direction, that Court shall, on application to it *ex parte* in that behalf by the Minister or the Authority, as the case may be, unless it is satisfied that there are good reasons for not doing so, confirm the direction and direct that the undertaking be removed from the Register.
+
+(5) The decision of the High Court on an application under this section shall be final, save that, by leave of that Court or of the Supreme Court, an appeal, by the Minister or the Authority, as the case may be, or the undertaking concerned, from the decision shall lie to the Supreme Court on a question of law.
+
+(6) On the giving of a direction by the Minister or the Authority under *subsection (2)* in relation to an undertaking or upon the removal of an undertaking from the Register, the Minister or the Authority, as the case may be, shall forthwith send by registered post to the undertaking at the address of the undertaking specified in the Register a notice in writing stating, as may be appropriate—
+
+(*a*) that the direction has been given, the reasons for it and its date, or
+
+(*b*) that the undertaking has been removed from the Register.
+
+(7) (*a*) Upon application to the Minister or the Authority, as the case may be, in that behalf and upon furnishing to the Minister or the Authority, as the case may be, such information (if any) as the Minister or the Authority, as the case may be, may require, an undertaking that has been removed from the Register shall, if the Minister or the Authority, as the case may be, so thinks fit and so directs in writing, be entered in the Register and such entry shall be subject to such terms and conditions (if any) as the Minister or the Authority, as the case may be, determines and specifies in the direction.
+
+(*b*) A copy of a direction under this subsection shall be furnished to the undertaking concerned and it shall comply with any terms or conditions contained in it.
+
+(8) On the establishment day, *subsections (2)* to *(7)* shall cease to have effect in so far as they relate to the Minister.
+
+### 16. Prohibition on carrying on of health insurance business by persons other than registered undertakings.
+
+**16.** — A person other than a registered undertaking shall not carry on health insurance business.
+
+### 17. Levy on registered undertakings.
+
+**17.** — F160[(1) In this section,
+
+"assessable amount", in relation to a quarter, means the gross amount received by a registered undertaking by way of premiums in that quarter in respect of the health insurance business of the undertaking in the State on or after the establishment day, but excluding any amount—
+
+(*a*) so received in the course of or by way of reinsurance, or
+
+(*b*) so paid in respect of a stamp duty under section 125A of the Stamp Duties Consolidation Act 1999.]
+
+(2) A registered undertaking shall, within 30 days from the end of the quarter following the establishment day and within 30 days from the end of each quarter thereafter, deliver to the Authority a statement in writing showing the assessable amount for that undertaking in respect of that quarter.
+
+(3) There shall be charged on every statement delivered in pursuance of *subsection (2)* a levy of an amount equal to such percentage of the assessable amount shown therein as may be prescribed having regard to the costs and expenses referred to in *subsection (4)*.
+
+(4) The levy charged under *subsection (3)* on a statement delivered in pursuance of *subsection (2)* shall be paid by the undertaking concerned to the Authority upon delivery of the statement and the amount so paid shall be used by the Authority to defray the costs and expenses F161[...] incurred by it in the performance of its functions.
+
+(5) There shall be furnished to the Authority by a registered undertaking such particulars as the Authority may deem necessary in relation to a statement under this section delivered by it to the Authority.
+
+(6) In the case of failure by a registered undertaking to deliver a statement required under *subsection (2)* within the time specified in that subsection or of failure by a registered undertaking to pay any levy chargeable on such a statement on the delivery thereof, the undertaking shall be liable to pay, in addition to the levy, interest thereon at the rate of 15 per cent. per annum from the expiration of the quarter to which the statement relates until the day on which the levy is paid.
+
+(7) An amount payable to the Authority under *subsection (4)* or *(6)* may be recovered by the Authority from the registered undertaking concerned as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F160: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 13, commenced on enactment.
+>
+> F161: Deleted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 16, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E142: Power pursuant to section exercised (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014).
+>
+> E143: Previous affecting provision: power pursuant to section exercised (17.11.2010) by *Health Insurance Act 1994 (Information Returns) Regulations 2009* (S.I. No. 539 of 2010); revoked (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014), reg. 4(b).
+>
+> E144: Previous affecting provision: subs. (4) amended (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(e), S.I. No. 514 of 2001; deleted (26.12.2012) as per F-note above.
+>
+> E145: Previous affecting provision: power pursuant to section exercised (14.06.2001) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2001* (S.I. No. 255 of 2001); revoked (24.11.2014) by *Health Insurance Act 1994 (Section 17) Levy Regulations 2014* (S.I. No. 528 of 2014), reg. 4(a).
+
+### 18. Records.
+
+**18.** — (1) A registered undertaking—
+
+(*a*) shall maintain such records relating to its health insurance business as may be prescribed, and
+
+(*b*) shall furnish to the Minister or the Authority, as the case may be, such information regarding the health insurance business aforesaid carried on by it as the Minister or the Authority may require for the purposes of his or her or, as the case may be, its functions under this Act.
+
+(2) Upon the establishment day, *subsection (1)* shall cease to have effect in so far as it relates to the Minister.
+
+## F162[PART IIIA — Enforcement Notices]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F162: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 14, commenced on enactment.
+
+### 18A. Interpretation of Part IIIA.
+
+F163[**18A.** — In this Part—
+
+"enforcement notice" means a notice under *section 18B(1)*;
+
+"relevant provision" means—
+
+(*a*) a provision of this Act, or
+
+(*b*) a provision of a regulation under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F163: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 14, commenced on enactment.
+
+### 18B. Issue of enforcement notices.
+
+F164[**18B.** — (1) Without prejudice to the generality of *sections 4* and *15*, where the Authority is of the opinion that a person—
+
+(*a*) is contravening a relevant provision, or
+
+(*b*) has contravened a relevant provision in circumstances that make it likely that the contravention will continue or be repeated,
+
+then the Authority may serve on the person a notice in writing, accompanied by a copy of this Part—
+
+(i) stating that it is of that opinion,
+
+(ii) specifying the relevant provision as to which it is of that opinion and the reasons why it is of that opinion,
+
+(iii) directing the person to take such steps as are specified in the notice to remedy the contravention or, as the case may be, the matters occasioning it, and
+
+(iv) specifying a period (ending not earlier than the period specified in *section 18C(1)* within which an application under that section against any direction specified in the notice may be made) within which those steps must be taken, being a period reasonable in the circumstances.
+
+(2) The steps specified in an enforcement notice to remedy any contravention or matter to which the notice relates may be framed so as to afford the person on whom it is served a choice between different ways of remedying the contravention or matter, as the case may be.
+
+(3) Where a person on whom an enforcement notice has been served makes an application under *section 18C(1)* against any direction specified in the notice, the steps specified in the notice need not be taken by the person pending the determination, withdrawal or abandonment of the application.
+
+(4) The Authority may cancel an enforcement notice by notice in writing served on the person concerned.
+
+(5) Where a person fails to take the steps specified in an enforcement notice served on the person, the Authority may, on notice to that person, apply in a summary manner to the High Court for an order requiring the person to take those steps (or to take such varied or other steps for the like purpose as may be specified in the order), and the Court—
+
+(*a*) may—
+
+(i) make the order sought,
+
+(ii) make the order sought subject to such variations to those steps as may be specified in the order, or
+
+(iii) make the order sought subject to such other steps for the like purpose as may be specified in the order, or
+
+(*b*) may dismiss the application, and, whether *paragraph (a)* or *(b)* is applicable, may make such order as to costs as it thinks fit in respect of the application. Application for cancellation of direction specified in enforcement notice.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F164: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 14, commenced on enactment.
+
+### 18C. Application for cancellation of direction specified in enforcement notice.
+
+F165[**18C.** — (1) A person on whom an enforcement notice has been served may, on notice to the Authority, not later than 45 days after being so served, apply to the High Court for the cancellation of any direction specified in the notice and, on such an application, the Court may—
+
+(*a*) cancel the direction,
+
+(*b*) confirm the direction, or
+
+(*c*) vary the direction,
+
+and, whether *paragraph (a), (b)* or *(c)* is applicable, make such order as to costs as it thinks fit in respect of the application.
+
+(2) The decision of the High Court under this section on a direction specified in an enforcement notice shall be final save that, by leave of that Court or of the Supreme Court, an appeal by the Authority or the person concerned, as the case may be, from the decision shall lie to the Supreme Court on a question of law.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F165: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 14, commenced on enactment.
+
+### 18D. Rules of Court.
+
+F166[**18D.** — Rules of Court may make provision for the expedition of the hearing of proceedings under this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F166: Inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 14, commenced on enactment.
+
+## F167[PART IIIB]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F167: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 17, commenced on enactment.
+
+### 18E. Authorised officers of Authority.
+
+F168[**18E.** — F169[(1) Where, in the opinion of the Authority, it is necessary to do so for the purposes referred to in *section 18F(1)(a)*, the Authority may appoint, in writing—
+
+(*a*) any of its officers or employees, or
+
+(*b*) consultants or advisers engaged under *section 23* who, in the opinion of the Authority, have qualifications and experience suitable to satisfactorily exercise the powers conferred upon authorised officers by or under this Act,
+
+to be authorised officers to exercise the powers conferred upon authorised officers by or under this Act.]
+
+(2) Every authorised officer appointed under this section shall be furnished with a warrant of appointment and shall, when exercising any power conferred on him or her by or under this Act, if requested by a person affected, produce the warrant of appointment or copy of it to that person F171[together with a form of personal identification].
+
+F170[(3) A person’s appointment under *subsection (1)* as an authorised officer shall cease upon—
+
+(*a*) the revocation by the Authority of the appointment,
+
+(*b*) if the appointment was for a fixed period, the expiration of that period, or
+
+(*c*) if the person’s appointment was in his or her capacity as an officer or employee of the Authority, or as a consultant or adviser engaged under *section 23*, his or her ceasing, for whatever reason, to be such officer or employee, or such consultant or adviser, as the case may be,
+
+whichever first occurs.]]
+
+F172[(4) Whenever requested to do so by the Authority, an authorised officer shall, as soon as is practicable after being so requested, give to the Authority a report on the exercise by the officer of all or any of the powers conferred upon authorised officers by or under this Act.
+
+(5) A person who is an authorised officer immediately before the commencement of section 4 of the Health Insurance (Amendment) Act 2022 shall, on that commencement, be deemed to be appointed under *subsection (1)* as an authorised officer on the same terms and conditions that applied to him or her immediately before that commencement (and, in the case of an appointment for a fixed period made before that commencement, for the unexpired portion of that period left to run after that commencement), and the other provisions of this section shall, with all necessary modifications, be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F168: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 17, commenced on enactment.
+>
+> F169, F170: Substituted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 4(a), (c), commenced as per s. 8(2)(a).
+>
+> F171, F172: Inserted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 4(b), (d), commenced as per s. 8(2)(a).
+
+### 18F. Powers of authorised officers.
+
+F173[**18F.** — F174[(1) (*a*) The powers conferred by this section may be exercised in respect of any person to whom this section applies for the purposes of—
+
+(i) securing the enforcement of the provisions of this Act (including any regulations made under this Act), or
+
+(ii) enabling or assisting the Minister or the Authority to perform any of their respective functions under this Act.
+
+(*b*) Subject to *subsection (6)*, the following are persons to whom this section applies (whether they are within or outside the State):
+
+(i) a registered undertaking;
+
+(ii) a former registered undertaking;
+
+(iii) a person who has applied for registration in the Register;
+
+(iv) a person whom the Authority or an authorised officer reasonably believes is or has been acting as, or claiming or holding itself out to be, a registered undertaking;
+
+(v) a person who is or has been, or whom the Authority or an authorised officer reasonably believes is or has been, without being registered in the Register, effecting, or offering to effect, health insurance contracts in respect of which the person is required to be a registered undertaking;
+
+(vi) a related undertaking of any of the persons referred to in any of *subparagraphs (i)* to *(v)*;
+
+(vii) a person whom the Authority or an authorised officer reasonably believes may possess or have control of information about a health insurance contract;
+
+(viii) any other person whom the Authority or an authorised officer reasonably believes may possess information about a person referred to in any of *subparagraphs (i)* to *(vii)*;
+
+(ix) a person who is, in relation to a person referred to in any of *subparagraphs* **(i)** to *(viii)*, a person specified in paragraph *(c)*;
+
+(x) a person who is or has been an officer or employee or agent of a person referred to in any of *subparagraphs (i)* to *(ix)* or is, in relation to a person who is or has been such an officer, employee or agent, a person specified in *paragraph (c)*.
+
+(*c*) The persons referred to in *subsection (1)(b)(ix)* and (*x*) are—
+
+(i) an administrator within the meaning of section 1 (1) of the Insurance (No. 2) Act 1983 ,
+
+(ii) an examiner, liquidator, receiver or official assignee, and
+
+(iii) a person with functions corresponding to those of any of the persons referred to in *subparagraph (i)* or *(ii)* under the law of a state other than the State.]
+
+(2) An authorised officer may do all or any of the following:
+
+(*a*) subject to *subsection (3)*, at all reasonable times enter any premises, at which there are reasonable grounds for believing that any books, records or other documents in relation to the issue of any health insurance contract, or in relation to the acceptance of any premium in respect of a health insurance contract, are kept, and search and inspect the premises and such books, records or other documents on the premises;
+
+(*b*) secure for later inspection any premises or any part of a premises in which books, records or other documents are kept or there are reasonable grounds for believing that such books, records or other documents are kept;
+
+(*c*) require any person to whom this section applies F178[...] to produce to the authorised officer such books, records or other documents and in the case of information in a non-legible form to reproduce it in a legible form or to give to the officer such information or explanation as the officer may reasonably require in relation to any entries in such books, records or other documents;
+
+(*d*) inspect and take copies of or extracts from, or remove for a reasonable period for further examination, any books, records, F179[data (including data that constitutes personal data)] or other documents in whatever form kept (including, in the case of information in a non-legible form, a copy of or extract from such information in a permanent legible form) which the officer finds or which is produced to the officer in the course of inspection;
+
+(*e*) require any person to whom this section applies F178[...] to give to the authorised officer such information as the officer may reasonably require in relation to any entries in such books, records or other documents;
+
+(*f*) require any person to whom this section applies to give to the authorised officer any information which the authorised officer may require in regard to the business or activity concerned or in regard to the persons carrying on such business or activity or employed in connection therewith;
+
+(*g*) require any person by whom or on whose behalf data equipment is or has been used or any person having charge of, or otherwise concerned with the operation of, the data equipment or any associated apparatus or material, to afford the authorised officer reasonable assistance in relation thereto;
+
+(*h*) summon, at any reasonable time, any other person employed in connection with the business or activity concerned to give to the authorised officer any information which the officer may reasonably require in regard to such business or activity and to produce to the authorised officer any books, records or other documents which are in that person’s power or control;
+
+(i) require any person employed in the premises concerned to prepare a report on aspects of the business specified by the authorised officer or activities of a person to whom this section applies or to explain entries in any books, records, documents or other materials furnished.
+
+(3) An authorised officer shall not, other than with the consent of the occupier, enter a private dwelling unless he or she has obtained a warrant issued by a judge of the District Court under *subsection (8)* authorising such entry.
+
+(4) A person who has in his or her power, possession or procurement any books, records or other documents referred to in *subsection (2)* shall—
+
+(*a*) produce them at the request of an authorised officer and permit the authorised officer to inspect and take copies of, or extracts from, them,
+
+(*b*) at the request of an authorised officer, give any information which may be reasonably required with regard to them, and
+
+(*c*) give such other assistance and information to an authorised officer as is reasonable in the circumstances.
+
+(5) Where any person from whom production of a book, record or other document is required claims a lien thereon the production of it shall be without prejudice to the lien.
+
+(6) The duty to produce or provide any information, document, material or explanation extends to F175[any person (not being a person to whom this section applies)] who appears to the Minister, the Authority or the authorised officer to have the information, document, material or explanation in his or her possession or under his or her control.
+
+(7) An authorised officer, where he or she considers it necessary, may be accompanied by a member of the Garda Síochána when performing any powers conferred on an authorised officer by this Act.
+
+(8) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that there is information required by an authorised officer under this section held on any premises or any part of any premises, the judge may issue a warrant authorising an authorised officer, accompanied by other authorised officers or by a member of the Garda Síochána, at any time or times within one month from the date of issue of the warrant, on production of the warrant if so requested, to enter the premises, if need be by reasonable force, and exercise all or any of the powers conferred on an authorised officer under this section.
+
+(9) A person shall not—
+
+(*a*) obstruct or impede an authorised officer in the exercise of a power under this section,
+
+(*b*) give to an authorised officer information which the person knows is false or misleading, or
+
+(*c*) without reasonable excuse, fail to comply with a request or requirement made by an authorised officer under this section.
+
+(10) (*a*) If any officer, employee, shareholder or agent of a person to whom this section applies refuses to produce to an authorised officer when requested to do so any book or document which it is his or her duty under this section to produce, or refuses to cooperate with an authorised officer when required to do so, or refuses to answer any question put to him or her by an authorised officer with respect to the affairs of the person to whom this section applies, the authorised officer may certify the refusal under his or her hand to the High Court.
+
+(*b*) Where a refusal is certified to the High Court, the High Court may enquire into the case and, after hearing any witnesses who may be produced against or on behalf of the officer, employee, shareholder or agent of the person to whom this section applies and any statement which may be offered in defence, make any order or direction as it thinks fit.
+
+(*c*) An order or direction made under *paragraph (b)* may include a direction to the person concerned to attend or re-attend before the authorised officer or produce particular books or documents or answer a particular question put to him or her by the authorised officer, or a direction that the person concerned need not produce a particular book or document or answer a particular question put to him or her by the authorised officer.
+
+(11) A person shall not falsely represent himself or herself as an authorised officer.
+
+F180[(11A) An authorised officer may require a person to provide him or her with the person’s name and address where—
+
+(*a*) the authorised officer has reasonable grounds for believing that the person—
+
+(i) is committing or has committed an offence under this Act, or
+
+(ii) has deliberately concealed or destroyed evidence, or is deliberately concealing or destroying evidence, or is likely to deliberately conceal or destroy evidence, of such an offence,
+
+or
+
+(*b*) the authorised officer has reasonable grounds for requiring such information for the purpose of applying for a warrant under *subsection (8)*.]
+
+(12) In this section—
+
+"agent", in relation to a person to whom this section applies, includes past as well as present agents, and includes its bankers, accountants, solicitors, auditors and its financial and other advisers, whether or not those persons are officers or persons to whom this section applies;
+
+F182["Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 201618 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);]
+
+F176["person to whom this section applies" shall be construed in accordance with subsection (1)(b) and (c);]]
+
+F182["personal data" means personal data within the meaning of—
+
+*(a)* the Data Protection Regulation, or
+
+*(b)* Part 5 of the Data Protection Act F177[2018;]]
+
+F181["related undertaking", in relation to a person (in this definition referred to as the "first-mentioned person"), means—
+
+(*a*) if the first-mentioned person is a company, another company that is related within the meaning of section 2 (10) of the Companies Act 2014,
+
+(*b*) a partnership of which the first-mentioned person is a member,
+
+(*c*) if the business of the first-mentioned person and another person have been so carried on that the separate business of each of them, or a substantial part thereof, is not readily identifiable, that other person,
+
+(*d*) if the decision as to how and by whom the business of the first‑mentioned person and another person shall be managed can be made either by the same person or by the same group of persons acting in concert, that other person,
+
+(*e*) a person who performs a specific and limited purpose by or in connection with the business of the first-mentioned person, or
+
+(*f*) if provision is required to be made for the first-mentioned person and another person in any consolidated accounts compiled in accordance with the Seventh Council Directive 83/349/EEC of 13 June 1983[^2], that other person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 2, commenced as per s. 8(2)(a).
+>
+> F173: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 17, commenced on enactment.
+>
+> F174, F175, F176, F177: Substituted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 5(a), (c), (e)(i), (ii), commenced as per s. 8(2)(b).
+>
+> F178: Deleted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 5(b), commenced as per s. 8(2)(b).
+>
+> F179: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 180(a), S.I. No. 174 of 2018.
+>
+> F180, F181: Inserted (1.01.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 5(d), (e)(iii), commenced as per s. 8(2)(b).
+>
+> F182: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 180(b), S.I. No. 174 of 2018.
+
+### 18G. Privileged legal material.
+
+F183[**18G.** — (1) Subject to *subsection (2)*, nothing in this Part shall compel the disclosure by any person of privileged legal material or authorise the taking of privileged legal material.
+
+(2) The disclosure of information may be compelled, or possession of it taken, pursuant to the powers of this Part, notwithstanding that it is apprehended that the information is privileged legal material provided the compelling of its disclosure or the taking of its possession is done by means whereby the confidentiality of the information can be maintained (as against the person compelling such disclosure or taking such possession) pending the determination by the court of the issue as to whether the information is privileged legal material.
+
+(3) Without prejudice to *subsection (4)*, where, in the circumstances referred to in *subsection (2)*, information has been disclosed or taken possession of pursuant to the powers in this Part, the person—
+
+(*a*) to whom such information has been so disclosed, and
+
+(*b*) who has taken possession of it,
+
+shall (unless the person has, within the period subsequently mentioned in this subsection, been served with notice of an application under *subsection (4)* in relation to the matter concerned) apply to the court for a determination as to whether the information is privileged legal material and an application under this subsection shall be made within 7 days after the disclosure or the taking of possession.
+
+(4) A person who, in the circumstances referred to in *subsection (2)*, is compelled to disclose information, or from whose possession information is taken, pursuant to the powers in this Part, may apply to the court for a determination as to whether the information is privileged legal material.
+
+(5) Pending the making of a final determination of an application under *subsection (3)* or (*4*), the court may give such interim or interlocutory directions as the court considers appropriate including, without prejudice to the generality of the foregoing, directions as to—
+
+(*a*) the preservation of the information, in whole or in part, in a safe and secure place in any manner specified by the court,
+
+(*b*) the appointment of a person with suitable legal qualifications possessing the level of experience, and the independence from any interest falling to be determined between the parties concerned, that the court considers to be appropriate for the purpose of—
+
+(i) examining the information, and
+
+(ii) preparing a report for the court with a view to assisting or facilitating the court in the making by the court of its determination as to whether the information is privileged legal material.
+
+(6) An application under *subsection (3), (4)* or *(5)* shall be by motion and may, if the court directs, be heard otherwise than in public.
+
+(7) In this section—
+
+"court" means the High Court;
+
+"information" means information contained in a document, a computer (including a personal organiser or any other electronic means of information storage or retrieval) or otherwise;
+
+"privileged legal material" means information which, in the opinion of the court, a person is entitled to refuse to produce on the grounds of legal professional privilege.]
+
+> **Amendments:**
+>
+> F183: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 17, commenced on enactment.
+
+## PART IV — The Health Insurance Authority
+
+### 19. Establishment day.
+
+**19.** — The Minister may by order appoint a day to be the establishment day for the purposes of this Part.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E146: Power pursuant to section exercised (1.02.2001) by *The Health Insurance Act 1994 (Establishment Day) Order, 2001* (S.I. No. 40 of 2001).
+>
+> 2\. The 1st day of February, 2001 is hereby appointed as the establishment day for the purposes of Part IV of the Health Insurance Act 1994 (No. 16 of 1994).
+
+### 20. Establishment of Authority.
+
+**20.** — (1) On the establishment day there shall stand established a body which shall be known as The Health Insurance Authority and is referred to in this Act as “ the Authority ” to perform the functions conferred on it by this Act.
+
+(2) The provisions of the F184[*Schedule 1*] shall have effect with respect to the Authority.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F184: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 15, commenced on enactment.
+
+### 21. Functions of Authority.
+
+**21.** — F185[(1) In addition to the functions conferred on the Authority by F186[*sections 4(6), 7AC, 7D, 7E, 7F, 7G, 14, 15, 17* and *18* and *Parts IIIA* and *IIIB*], the principal functions of the Authority shall be—
+
+F187[(*a*) to manage and administer the Risk Equalisation Scheme,]
+
+(*b*) to maintain The Register of Health Benefits Undertaking and The Register of Health Insurance Contracts,
+
+(*c*) to evaluate and analyse information and other returns made to it,
+
+(*d*) to take such action as it considers appropriate to increase the awareness of members of the public of their rights as consumers of health insurance and of the health insurance services available to them,
+
+(*e*) to advise the Minister either at his or her request or on its own initiative on matters relating to the functions of the Minister under this Act, the functions of the Authority under this Act and health insurance generally,
+
+(*f*) without prejudice to the generality of *paragraph (e)*, to advise the Minister either at his or her request or on its own initiative as to whether, in the opinion of the Authority, the principal objective specified in *section 1A(1)* is being achieved to the appropriate extent, and
+
+(*g*) to monitor the operation of this Act and the carrying on of health insurance business and developments in relation to health insurance generally.]
+
+(2) The Authority shall have all such powers as are necessary for or incidental to the performance of its functions.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F185: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 16, commenced on enactment.
+>
+> F186, F187: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 18(a), (b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E147: Previous affecting provision: subs. (1)(c) amended (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(f), S.I. No. 514 of 2001; subsection substituted (19.07.2009) as per F-note above.
+
+### 22. Conferral of additional functions on Authority.
+
+**22.** — (1) The Minister may, with the consent of the Minister for Finance and, if in so far as the order relates to the supervision of registered undertakings, the Minister for Enterprise and Employment, by order—
+
+(*a*) confer on the Authority such additional functions in relation to health insurance and related matters as he or she considers appropriate, and
+
+(*b*) make such provision as he or she considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Authority of functions under this section or the performance by the Authority of functions so conferred.
+
+(2) The Minister may, with the consent of the Minister for Finance and, if in so far as the order relates to the supervision of registered undertakings, the Minister for Enterprise and Employment, by order amend or revoke an order under this section (including an order under this subsection).
+
+(3) Where an order is proposed to be made under this section, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made unless a resolution approving of the draft is passed by each such House.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions under subs. (2) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 16 of 1994</td><td>Health Insurance Act 1994</td><td>Section 22, 30 and 32</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 23. Consultants and advisers.
+
+**23.** — Subject to the prior approval of the Minister, the Authority may from time to time engage such consultants or advisers as it may consider necessary for the performance of its functions and any fees payable by the Authority to a consultant or adviser engaged under this section shall be paid by the Authority out of moneys at its disposal.
+
+### 24. Power to borrow.
+
+**24.** — (1) The Authority may, subject to the consent of the Minister and the Minister for Finance, borrow money (including money in a currency other than the currency of the State) for capital or current purposes.
+
+(2) Any moneys borrowed by the Authority pursuant to this section and any interest accruing thereon may be secured on the revenue or property of the Authority.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions under section transferred to Minister for Public Expenditure (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20(1) and sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.**— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in *Part 1* of *Schedule 2* are transferred to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20.**— (1) The Minister shall not perform a function transferred by *subsection (2)* of *section 9* without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> *Sections 9* and *20*
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 16 of 1994</td><td>Health Insurance Act 1994</td><td>Section 24</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 25. Gifts.
+
+**25.** — (1) The Authority may accept gifts of money, land or other property upon such trusts or conditions (if any) as may be specified by the donor.
+
+(2) The Authority shall not accept a gift if the trusts or conditions attached to it would be inconsistent with its functions.
+
+### 26. The Registrar.
+
+**26.** — (1) There shall be a chief officer of the Authority who shall be known as the Registrar and Chief Executive and is referred to in this Act as “ the Registrar ”.
+
+(2) The first Registrar shall be appointed, and may be removed from office at any time, by the Minister.
+
+(3) Thereafter, the Registrar shall be appointed, and may be removed from office at any time, by the Authority with the consent of the Minister.
+
+(4) The Registrar shall not be a member of the Authority.
+
+(5) The Registrar shall carry on and manage and control generally the administration and business of the Authority and perform such other functions as may be determined by the Authority.
+
+(6) The Registrar shall not hold any other office or position without the consent of the Authority.
+
+(7) The Registrar shall hold office on and subject to such terms and conditions (including terms and conditions relating to remuneration and superannuation) as may be determined by the Minister with the consent of the Minister for Finance.
+
+(8) The Registrar shall be paid, out of moneys at the disposal of the Authority, such allowances for expenses incurred by him or her in the performance of his or her functions as may be determined by the Minister with the consent of the Minister for Finance.
+
+(9) The Registrar may make proposals to the Authority on any matter relating to its activities.
+
+### 27. Staff of Authority.
+
+**27.** — (1) The Authority may appoint such, and such number of, persons to be members of the staff of the Authority as it may determine with the consent of the Minister and the Minister for Finance.
+
+(2) (*a*) A member of the staff of the Authority (other than the Registrar) shall hold his or her office or employment on such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the Authority may, with the consent of the Minister and the Minister for Finance, determine.
+
+(*b*) The Authority may, with the consent of the Minister, remove from office a member of its staff (other than the Registrar) at any time.
+
+(3) The Authority may perform any of its functions through or by the Registrar, or any other member of its staff, duly authorised by the Authority in that behalf.
+
+### 28. Superannuation of staff of Authority.
+
+**28.** — (1) The Authority may, with the consent of the Minister and the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of persons appointed to whole-time positions on the staff of the Authority.
+
+(2) A scheme under *subsection (1)* shall fix the time and conditions of retirement for all persons (including the Registrar) to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) The Authority may, with the consent of the Minister and the Minister for Finance, make a scheme amending or revoking a scheme under this section including a scheme under this subsection.
+
+(4) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, the dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, whose decision shall be final.
+
+(5) No superannuation benefits shall be granted by the Authority on the resignation, retirement or death of a member of the staff of the Authority (including the Registrar) otherwise than in accordance with a scheme or schemes under this section.
+
+(6) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E148: Power pursuant to section exercised (21.12.2016) by *Health Insurance Authority Superannuation Scheme 2016* (S.I. No. 637 of 2016), in effect as per reg. 1(2).
+>
+> E149: Previous affecting provision: power pursuant to section exercised (1.02.2001 deemed) by *Health Insurance Authority Employee Superannuation Scheme 2014* (S.I. No. 318 of 2014), in effect as per art. 2; revoked (21.12.2016) by *Health Insurance Authority Superannuation Scheme 2016* (S.I. No. 637 of 2016), art. 3, in effect as per art. 1(2).
+
+### 29. Membership of either House of the Oireachtas or of European Parliament.
+
+**29.** — (1) Where a member of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to such Parliament to fill a vacancy,
+
+he or she shall thereupon cease to be a member of the Authority.
+
+(2) Where a person who is a member of the staff of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to such Parliament to fill a vacancy,
+
+he or she shall thereupon stand seconded from employment by the Authority and shall not be paid by, or be entitled to receive from, the Authority any remuneration or allowances in respect of the period commencing on such nomination or election, or when he or she is so regarded as having been elected, as the case may be, and ending when he or she ceases to be a member of either such House or such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from becoming a member of the Authority or the staff of the Authority.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, *inter alia*, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any pensions, gratuities or other allowances payable on resignation, retirement or death.
+
+### 30. Advances by Minister to Authority.
+
+**30.** — F188[(1)] The Minister may from time to time, with the consent of the Minister for Finance, advance to the Authority, out of moneys provided by the Oireachtas, such sums as the Minister may determine for the purposes of expenditure by the Authority in the performance of its functions.
+
+F189[(2) Such moneys advanced to the Authority under *subsection (1)* as—
+
+(*a*) the Minister, with the consent of the Minister for Finance, determines, and
+
+(*b*) on the passing of the Health Insurance (Amendment) Act 2003, have not been repaid, shall not require to be repaid.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F188, F189: Inserted (16.04.2003) by *Health Insurance (Amendment) Act 2003* (11/2003), s. 7, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions under section transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> …
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> …
+>
+> Schedule 1
+>
+> Enactments
+>
+> …
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 16 of 1994</td><td>Health Insurance Act 1994</td><td>Section 22, 30 and 32</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 31. Disclosure by member of Authority of interest in proposed contract.
+
+**31.** — A member of the Authority who is in any way, whether directly or indirectly, interested in—
+
+(*a*) any body corporate with which the Authority proposes to make any contract, or
+
+(*b*) any contract which the Authority proposes to make,
+
+shall disclose to the Authority the fact of that interest and the nature thereof and shall take no part in any deliberation or decision of the Authority relating to the contract, and the disclosure shall be recorded in the minutes of the Authority.
+
+### 32. Accounts and audits of Authority.
+
+**32.** — (1) The Authority shall, in addition to any account kept by it F190[under F191[the Risk Equalisation Scheme]], keep in such form as may be approved by the Minister with the concurrence of the Minister for Finance all proper and usual accounts of all moneys received or expended by it including an income and expenditure account and balance sheet and, in particular, shall keep all such special accounts as the Minister may direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted as soon as may be after the end of the financial year of the Authority to which they relate to the Comptroller and Auditor General for audit and a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be furnished to the Minister as soon as may be and the Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F190: Substituted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 13(g), S.I. No. 514 of 2001.
+>
+> F191: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 19, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions under section transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 16 of 1994</td><td>Health Insurance Act 1994</td><td>Section 22, 30 and 32</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 33. Reports and information to Minister.
+
+**33.** — (1) The Authority shall furnish to the Minister such information regarding its income and expenditure as he or she may direct.
+
+(2) As soon as may be after the end of each financial year of the Authority, but not later than 6 months thereafter, the Authority shall make a report to the Minister of its activities during that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(3) Each report under *subsection (2)* shall include information in such form and regarding such matters (if any) as the Minister may direct.
+
+(4) The Authority shall, whenever so requested by the Minister, furnish to the Minister information in relation to such matters as he or she may specify concerning or relating to the scope of its activities generally, or in respect of any account prepared by the Authority or any report specified in *subsection (2)* or *section 32* or the policy activities, other than day to day activities, of the Authority.
+
+### 33A. Annual report with respect to the operation of a scheme.
+
+F192[**33A.** — F193[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F192: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 11, S.I. No. 514 of 2001.
+>
+> F193: Repealed (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 20, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E150: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 33B. Equality of treatment of undertakings.
+
+F194[**33B.** — Without prejudice to any specific provision of this Act, or regulations thereunder, in that behalf and save where the operation of the provision necessarily requires a difference in such treatment, the Minister and the Authority shall perform the functions conferred on them by or under this Act in such a manner as will result in registered undertakings being treated equally in similar circumstances.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F194: Inserted (19.11.2001) by *Health Insurance (Amendment) Act 2001* (17/2001), s. 12, S.I. No. 514 of 2001.
+>
+> **Editorial Notes:**
+>
+> E151: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 34. Disclosure of information.
+
+**34.** — (1) A person shall not, without the consent of the Authority, disclose any information obtained by him or her while performing (or as a result of having performed) duties as a member, or member of the staff of, or an adviser or consultant to, the Authority.
+
+(2) Nothing in *subsection (1)* shall prevent the disclosure of information in a report made by the Authority or by or on behalf of the Authority to the Minister.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C6: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.**—(1) A head shall refuse to grant an FOI request if—
+>
+> (*a*) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of Part 1 or 2 of Schedule 3 of an enactment specified in that Schedule), or
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Enactments Excluded from Application of *Section 41*
+>
+> PART I
+>
+> Statutes
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 16 of 1994</td><td>Health Insurance Act 1994</td><td>Section 34(1).</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 35. Liability of Authority for acts, omissions etc.
+
+F195[**35.** — (1) None of the following persons, that is to say, the Authority, the Registrar, or a member, or member of staff, of the Authority shall be liable in damages in respect of any act done or omitted to be done by it or him or her in the performance, or purported performance, of its or his or her functions unless the act or omission concerned was done in bad faith.
+
+(2) Without prejudice to the generality of *subsection (1)*, a person to whom that subsection applies shall not be liable in damages in respect of any recommendation, determination, advice, direction, report, or notice made, given, prepared or published by it or him or her unless it was made, given, prepared or published, as the case may be, in bad faith.
+
+(3) Without prejudice to *subsection (4)*, the Authority may, subject to the provisions of any enactment or rule of law, indemnify the Registrar, or any member, or member of staff, of the Authority in respect of any act done or omitted to be done by him or her in the performance, or purported performance, of his or her functions as Registrar or as such member or member of staff unless the act or omission concerned was done in bad faith.
+
+(4) The Authority may indemnify the Registrar or any member, or member of staff, of the Authority in respect of any liability on his or her part to pay damages or costs by reason of any act done or omitted to be done by him or her in the performance, or purported performance, of his or her functions as Registrar or as such member or member of staff, as the case may be, being a liability that—
+
+(*a*) has been determined in proceedings before a court or tribunal of a place other than the State, or arises by virtue of an agreement entered into in settlement of proceedings before such a court or tribunal, and
+
+(*b*) would not have been determined if the provisions of this section had been applied in those proceedings by the court or tribunal or, as the case may be, would not have been the subject of an agreement as aforesaid but for the reliance, in good faith, by the Registrar or such member, or member of staff, on any legal opinion or advice to the effect that the provisions of this section would not be applied by the court or tribunal in those proceedings.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F195: Inserted (16.04.2003) by *Health Insurance (Amendment) Act 2003* (11/2003), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E152: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## F196[SCHEDULE 1] — The Health Insurance Authority
+
+1\. The Authority shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and, with the consent of the Minister, to acquire, hold and dispose of land or an interest in land or to acquire, hold and dispose of any other property.
+
+2\. The Authority shall consist of F197[7 members], who shall be appointed to be members of the Authority by the Minister and of whom one shall be the chairman of the Authority and the others shall be ordinary members thereof.
+
+3\. (1) The Minister may as occasion requires appoint one of the members of the Authority to be the chairman of the Authority.
+
+(2) Where the chairman of the Authority ceases during his or her term of office as chairman to be a member of the Authority, he or she shall also then cease to be chairman of the Authority.
+
+4\. The chairman of the Authority may at any time resign his or her office by letter addressed to the Minister.
+
+5\. The Minister may at any time remove the chairman of the Authority from office.
+
+6\. Subject to the provisions of this Schedule, the chairman of the Authority shall hold office on such terms and conditions as the Minister may determine.
+
+7\. The chairman of the Authority shall be paid, out of moneys at the disposal of the Authority, such remuneration (if any) and allowances for expenses incurred by him or her (if any) as the Minister, with the consent of the Minister for Finance, may determine.
+
+8\. Subject to the provisions of this Schedule, each ordinary member of the Authority shall hold office on such terms and conditions as the Minister may determine.
+
+9\. (1) The term of office of the chairman of the Authority F198[shall not exceed 5 years].
+
+(2) The term of office of an ordinary member of the Authority shall be such period not exceeding 5 years as the Minister may, with the consent of the Minister for Finance, determine when appointing him or her.
+
+10\. (1) If a member of the Authority dies, resigns, becomes disqualified or is removed from office, the Minister may appoint a person to be a member of the Authority to fill the casual vacancy so occasioned and the person so appointed shall be appointed in the same manner as the member of the Authority who occasioned the casual vacancy.
+
+(2) A person appointed to be a member of the Authority by virtue of this paragraph shall hold office for the remainder of the term of office of the member occasioning the vacancy he or she is appointed to fill and shall be eligible for re-appointment as a member of the Authority.
+
+11\. A member of the Authority whose term of office expires by effluxion of time shall be eligible for re-appointment as a member of the Authority.
+
+12\. The Minister may at any time remove an ordinary member of the Authority from office.
+
+13\. An ordinary member of the Authority may resign his or her office as a member by letter addressed to the Minister.
+
+14\. A member of the Authority shall be disqualified for holding and shall cease to hold office if he or she is adjudged bankrupt or makes a composition or arrangement with creditors or is sentenced by a court of competent jurisdiction to a term of imprisonment or penal servitude.
+
+15\. Each ordinary member of the Authority shall be paid, out of moneys at the disposal of the Authority, such remuneration (if any) and allowances for expenses incurred by him or her (if any) as the Minister may, with the consent of the Minister for Finance, sanction.
+
+16\. The Authority shall hold such and so many meetings as it considers appropriate for the performance of its functions.
+
+17\. The Minister may fix the date, time and place of the first meeting of the Authority.
+
+18\. The quorum for a meeting of the Authority F197[shall be 4.]
+
+19\. At a meeting of the Authority—
+
+(*a*) the chairman of the Authority shall, if present, be the chairman of the meeting,
+
+(*b*) if and so long as the chairman of the Authority is not present or if the office of chairman is vacant, the members of the Authority who are present shall choose one of their number to be the chairman of the meeting.
+
+20\. The chairman of the Authority, and each ordinary member of the Authority present at a meeting thereof shall have a vote.
+
+21\. Every question at a meeting of the Authority shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equal division of votes, the chairman of the meeting shall have a second or casting vote.
+
+22\. F197[Subject to paragraph 18, the Authority] may act notwithstanding one or more than one vacancy among its members.
+
+23\. Subject to the provisions of this Schedule, the Authority shall regulate, by standing orders or otherwise, the procedure and business of the Authority.
+
+24\. The Authority shall, as soon as may be after its establishment, provide itself with a seal.
+
+25\. The seal of the Authority shall be authenticated by the signature of the chairman of the Authority or some other member thereof authorised by the Authority to act in that behalf and by the signature of an officer of the Authority authorised by the Authority to act in that behalf.
+
+26\. Judicial notice shall be taken of the seal of the Authority and every document purporting to be an instrument made by the Authority and to be sealed with the seal (purporting to be authenticated in accordance with *paragraph 25*) of the Authority shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+27\. Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal may be entered into or executed on behalf of the Authority by any person generally or specially authorised by the Authority in that behalf.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F196: Substituted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 17, commenced on enactment.
+>
+> F197: Substituted (27.06.2019) by *Health Insurance (Amendment) Act 2018* (35/2018), s. 5(a), (b), (c), S.I. No. 307 of 2019.
+>
+> F198: Substituted (1.01.2026) by *Health Insurance (Amendment) Act 2025* )14/2025), s. 3, commenced as per s. 8(3).
+
+## SCHEDULE 2 — EUROPEAN UNION FRAMEWORK FOR STATE AID IN THE FORM OF PUBLIC SERVICE COMPENSATION (2011) (2012/C8/03)
+
+F199[(Text with EEA relevance)
+
+2012/C 8/03
+
+1\. PURPOSE AND SCOPE
+
+1\. For certain services of general economic interest (SGEIs) to operate on the basis of principles and under conditions that enable them to fulfil their missions, financial support from the public authorities may prove necessary where revenues accruing from the provision of the service do not allow the costs resulting from the public service obligation to be covered.
+
+2\. It follows from the case-law of the Court of Justice of the European Union [1] that public service compensation does not constitute State aid within the meaning of Article 107(1) of the Treaty on the Functioning of the European Union if it fulfils a certain number of conditions [2]. Where those conditions are met, Article 108 of the Treaty does not apply.
+
+3\. Where public service compensation does not meet those conditions, and to the extent the general criteria for the applicability of Article 107(1) of the Treaty are satisfied, such compensation constitutes State aid and is subject to Articles 106, 107 and 108 of the Treaty.
+
+4\. In its Communication on the application of the European Union State aid rules to compensation granted for the provision of services of general economic interest [3], the Commission has clarified the conditions under which public service compensation is to be regarded as State aid. Furthermore, in its Commission Regulation on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to de minimis aid granted to undertakings providing services of general economic interest [4], the Commission will set out the conditions under which small amounts of public service compensation should be deemed not to affect trade between Member States and/or not to distort or threaten to distort competition. In those circumstances, compensation is not caught by Article 107(1) of the Treaty and consequently does not fall under the notification procedure provided for in Article 108(3) of the Treaty.
+
+5\. Article 106(2) of the Treaty provides the legal basis for assessing the compatibility of State aid for SGEIs. It states that undertakings entrusted with the operation of SGEIs or having the character of a revenue-producing monopoly are subject to the rules contained in the Treaty, in particular to the rules on competition. However, Article 106(2) of the Treaty provides for an exception from the rules contained in the Treaty insofar as the application of the competition rules would obstruct, in law or in fact, the performance of the tasks assigned. This exception only applies where the development of trade is not affected to such an extent as would be contrary to the interests of the Union.
+
+6\. Commission Decision 2012/21/EU [5] on the application of Article 106(2) of the Treaty on the Functioning of the European Union to State aid in the form of public service compensation granted to certain undertakings entrusted with the operation of services of general economic interest [6] lays down the conditions under which certain types of public service compensation are to be regarded as compatible with the internal market pursuant to Article 106(2) of the Treaty and exempt from the requirement of prior notification under Article 108(3) of the Treaty.
+
+7\. The principles set out in this Communication apply to public service compensation only in so far as it constitutes State aid not covered by Decision 2012/21/EU. Such compensation is subject to the prior notification requirement under Article 108(3) of the Treaty. This Communication spells out the conditions under which such State aid can be found compatible with the internal market pursuant to Article 106(2) of the Treaty. It replaces the Community framework for State aid in the form of public service compensation [7].
+
+8\. The principles set out in this Communication apply to public service compensation in the field of air and maritime transport, without prejudice to stricter specific provisions contained in sectoral Union legislation. They apply neither to the land transport sector, nor to the public service broadcasting sector, which is covered by the Communication from the Commission on the application of State aid rules to public service broadcasting [8].
+
+9\. Aid for providers of SGEIs in difficulty will be assessed under the Community guidelines on State aid for rescuing and restructuring firms in difficulty [9].
+
+10\. The principles set out in this Communication apply without prejudice to:
+
+(*a*) requirements imposed by Union law in the field of competition (in particular Articles 101 and 102 of the Treaty);
+
+(*b*) requirements imposed by Union law in the field of public procurement;
+
+(*c*) the provisions of the Commission Directive 2006/111/EC of 16 November 2006 on the transparency of financial relations between Member States and public undertakings as well as on financial transparency within certain undertakings [10];
+
+(*d*) additional requirements flowing from the Treaty or from sectoral Union legislation.
+
+2\. CONDITIONS GOVERNING THE COMPATIBILITY OF PUBLIC SERVICE COMPENSATION THAT CONSTITUTES STATE AID
+
+2.1. General provisions
+
+11\. At the current stage of development of the internal market, State aid falling outside the scope of Decision 2012/21/EU may be declared compatible with Article 106(2) of the Treaty if it is necessary for the operation of the service of general economic interest concerned and does not affect the development of trade to such an extent as to be contrary to the interests of the Union. The conditions set out in sections 2.2 to 2.10 must be met in order to achieve that balance.
+
+2.2. Genuine service of general economic interest as referred to in Article 106 of the Treaty
+
+12\. The aid must be granted for a genuine and correctly defined service of general economic interest as referred to in Article 106(2) of the Treaty.
+
+13\. In its Communication on the application of the European Union State aid rules to compensation granted for the provision of services of general economic interest, the Commission has provided guidance on the requirements concerning the definition of a service of general economic interest. In particular, Member States cannot attach specific public service obligations to services that are already provided or can be provided satisfactorily and under conditions, such as price, objective quality characteristics, continuity and access to the service, consistent with the public interest, as defined by the State, by undertakings operating under normal market conditions. As for the question of whether a service can be provided by the market, the Commission’s assessment is limited to checking whether the Member State’s definition is vitiated by a manifest error, unless provisions of Union law provide a stricter standard.
+
+14\. For the scope of application of the principles set out in this Communication, Member States should show that they have given proper consideration to the public service needs supported by way of a public consultation or other appropriate instruments to take the interests of users and providers into account. This does not apply where it is clear that a new consultation will not bring any significant added value to a recent consultation.
+
+2.3. Need for an entrustment act specifying the public service obligations and the methods of calculating compensation
+
+15\. Responsibility for the operation of the SGEI must be entrusted to the undertaking concerned by way of one or more acts, the form of which may be determined by each Member State. The term “Member State” covers the central, regional and local authorities.
+
+16\. The act or acts must include, in particular:
+
+(*a*) the content and duration of the public service obligations;
+
+(*b*) the undertaking and, where applicable, the territory concerned;
+
+(*c*) the nature of any exclusive or special rights assigned to the undertaking by the granting authority;
+
+(*d*) the description of the compensation mechanism and the parameters for calculating, monitoring and reviewing the compensation; and
+
+(*e*) the arrangements for avoiding and recovering any overcompensation.
+
+2.4. Duration of the period of entrustment
+
+17\. The duration of the period of entrustment should be justified by reference to objective criteria such as the need to amortise non-transferable fixed assets. In principle, the duration of the period of entrustment should not exceed the period required for the depreciation of the most significant assets required to provide the SGEI.
+
+2.5. Compliance with the Directive 2006/111/EC
+
+18\. Aid will be considered compatible with the internal market on the basis of Article 106(2) of the Treaty only where the undertaking complies, where applicable, with Directive 2006/111/EC [11]. Aid that does not comply with that Directive is considered to affect the development of trade to an extent that would be contrary to the interest of the Union within the meaning of Article 106(2) of the Treaty.
+
+2.6. Compliance with Union public procurement rules
+
+19\. Aid will be considered compatible with the internal market on the basis of Article 106(2) of the Treaty only where the responsible authority, when entrusting the provision of the service to the undertaking in question, has complied or commits to comply with the applicable Union rules in the area of public procurement. This includes any requirements of transparency, equal treatment and non-discrimination resulting directly from the Treaty and, where applicable, secondary Union law. Aid that does not comply with such rules and requirements is considered to affect the development of trade to an extent that would be contrary to the interests of the Union within the meaning of Article 106(2) of the Treaty.
+
+2.7. Absence of discrimination
+
+20\. Where an authority assigns the provision of the same SGEI to several undertakings, the compensation should be calculated on the basis of the same method in respect of each undertaking.
+
+2.8. Amount of compensation
+
+21\. The amount of compensation must not exceed what is necessary to cover the net cost [12] of discharging the public service obligations, including a reasonable profit.
+
+22\. The amount of compensation can be established on the basis of either the expected costs and revenues, or the costs and revenues actually incurred, or a combination of the two, depending on the efficiency incentives that the Member State wishes to provide from the outset, in accordance with paragraphs 40 and 41.
+
+23\. Where the compensation is based, in whole or in part, on expected costs and revenues, they must be specified in the entrustment act. They must be based on plausible and observable parameters concerning the economic environment in which the SGEI is being provided. They must rely, where appropriate, on the expertise of sector regulators or of other entities independent from the undertaking. Member States must indicate the sources on which these expectations are based [13]. The cost estimation must reflect the expectations of efficiency gains achieved by the SGEI provider over the lifetime of the entrustment.
+
+Net cost necessary to discharge the public service obligations
+
+24\. The net cost necessary, or expected to be necessary, to discharge the public service obligations should be calculated using the net avoided cost methodology where this is required by Union or national legislation and in other cases where this is possible.
+
+Net avoided cost methodology
+
+25\. Under the net avoided cost methodology, the net cost necessary, or expected to be necessary, to discharge the public service obligations is calculated as the difference between the net cost for the provider of operating with the public service obligation and the net cost or profit for the same provider of operating without that obligation. Due attention must be given to correctly assessing the costs that the service provider is expected to avoid and the revenues it is expected not to receive, in the absence of the public service obligation. The net cost calculation should assess the benefits, including intangible benefits as far as possible, to the SGEI provider.
+
+26\. Annex IV to Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and users’ rights relating to electronic communications networks and services [14], and Annex I to Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common rules for the development of the internal market of Community postal services and the improvement of quality of service [15], contain more detailed guidance on how to apply the net avoided cost methodology.
+
+27\. Although the Commission regards the net avoided cost methodology as the most accurate method for determining the cost of a public service obligation, there may be cases where the use of that methodology is not feasible or appropriate. In such cases, where duly justified, the Commission can accept alternative methods for calculating the net cost necessary to discharge the public service obligations, such as the methodology based on cost allocation.
+
+Methodology based on cost allocation
+
+28\. Under the cost allocation methodology, the net cost necessary to discharge the public service obligations can be calculated as the difference between the costs and the revenues for a designated provider of fulfilling the public service obligations, as specified and estimated in the entrustment act.
+
+29\. The costs to be taken into consideration include all the costs necessary to operate the SGEI.
+
+30\. Where the activities of the undertaking in question are confined to the SGEI, all its costs may be taken into consideration.
+
+31\. Where the undertaking also carries out activities falling outside the scope of the SGEI, the costs to be taken into consideration may cover all the direct costs necessary to discharge the public service obligations and an appropriate contribution to the indirect costs common to both the SGEI and other activities. The costs linked to any activities outside the scope of the SGEI must include all the direct costs and an appropriate contribution to the common costs. To determine the appropriate contribution to the common costs, market prices for the use of the resources, where available, can be taken as a benchmark [16]. In the absence of such market prices, the appropriate contribution to the common costs can be determined by reference to the level of reasonable profit [17] the undertaking is expected to make on the activities falling outside the scope of the SGEI or by other methodologies where more appropriate.
+
+Revenue
+
+32\. The revenue to be taken into account must include at least the entire revenue earned from the SGEI, as specified in the entrustment act, and the excessive profits generated from special or exclusive rights even if linked to other activities as provided in *paragraph 45*, regardless of whether those excessive profits are classified as State aid within the meaning of Article 107(1) of the Treaty.
+
+Reasonable profit
+
+33\. Reasonable profit should be taken to mean the rate of return on capital [18] that would be required by a typical company considering whether or not to provide the service of general economic interest for the whole duration of the entrustment act, taking into account the level of risk. The level of risk depends on the sector concerned, the type of service and the characteristics of the compensation mechanism.
+
+34\. Where duly justified, profit level indicators other than the rate of return on capital can be used to determine what the reasonable profit should be, such as the average return on equity [19] over the entrustment period, the return on capital employed, the return on assets or the return on sales.
+
+35\. Whatever indicator is chosen, the Member State must provide the Commission with evidence that the projected profit does not exceed what would be required by a typical company considering whether or not to provide the service, for instance by providing references to returns achieved on similar types of contracts awarded under competitive conditions.
+
+36\. A rate of return on capital that does not exceed the relevant swap rate [20] plus a premium of 100 basis points [21] is regarded as reasonable in any event. The relevant swap rate is the swap rate whose maturity and currency correspond to the duration and currency of the entrustment act.
+
+37\. Where the provision of the SGEI is connected with a substantial commercial or contractual risk, for instance because the compensation takes the form of a fixed lump sum payment covering expected net costs and a reasonable profit and the undertaking operates in a competitive environment, the reasonable profit may not exceed the level that corresponds to a rate of return on capital that is commensurate with the level of risk. That rate should be determined where possible by reference to the rate of return on capital that is achieved on similar types of public service contracts awarded under competitive conditions (for example, contracts awarded under a tender). Where it is not possible to apply that method, other methods for establishing a return on capital may also be used, upon justification [22].
+
+38\. Where the provision of the SGEI is not connected with a substantial commercial or contractual risk, for instance because the net cost incurred in providing the service of general economic interest is essentially compensated ex post in full, the reasonable profit may not exceed the level that corresponds to the level specified in *paragraph 36*. Such a compensation mechanism provides no efficiency incentives for the public service provider. Hence its use is strictly limited to cases where the Member State is able to justify that it is not feasible or appropriate to take into account productive efficiency and to have a contract design which gives incentives to achieve efficiency gains.
+
+Efficiency incentives
+
+39\. In devising the method of compensation, Member States must introduce incentives for the efficient provision of SGEI of a high standard, unless they can duly justify that it is not feasible or appropriate to do so.
+
+40\. Efficiency incentives can be designed in different ways to best suit the specificity of each case or sector. For instance, Member States can define upfront a fixed compensation level which anticipates and incorporates the efficiency gains that the undertaking can be expected to make over the lifetime of the entrustment act.
+
+41\. Alternatively, Member States can define productive efficiency targets in the entrustment act whereby the level of compensation is made dependent upon the extent to which the targets have been met. If the undertaking does not meet the objectives, the compensation should be reduced following a calculation method specified in the entrustment act. In contrast, if the undertaking exceeds the objectives, the compensation should be increased following a method specified in the entrustment act. Rewards linked to productive efficiency gains are to be set at a level such as to allow balanced sharing of those gains between the undertaking and the Member State and/or the users.
+
+42\. Any such mechanism for incentivising efficiency improvements must be based on objective and measurable criteria set out in the entrustment act and subject to transparent ex post assessment carried out by an entity independent from the SGEI provider.
+
+43.. Efficiency gains should be achieved without prejudice to the quality of the service provided and should meet the standards laid down in Union legislation.
+
+Provisions applicable to undertakings also carrying out activities outside the scope of the SGEI or providing several SGEIs
+
+44\. Where an undertaking carries out activities falling both inside and outside the scope of the SGEI, the internal accounts must show separately the costs and revenues associated with the SGEI and those of the other services in line with the principles set out in *paragraph 31*. Where an undertaking is entrusted with the operation of several SGEIs because the granting authority or the nature of the SGEI is different, the undertaking’s internal accounts must make it possible to verify whether there has been any overcompensation at the level of each SGEI.
+
+45\. If the undertaking in question holds special or exclusive rights linked to activities, other than the SGEI for which aid is granted, that generate profits in excess of the reasonable profit, or benefits from other advantages granted by the State, these must be taken into consideration, irrespective of their classification for the purposes of Article 107(1) of the Treaty, and added to the undertaking’s revenue. The reasonable profit on the activities for which the undertaking holds special or exclusive rights has to be assessed from an ex ante perspective, in the light of the risk, or the absence of risk, incurred by the undertaking in question. That assessment also has to take into account the efficiency incentives that the Member State has introduced in relation to the provision of the services in question.
+
+46\. The Member State may decide that the profits accruing from other activities outside the scope of the SGEI, in particular those activities which rely on the infrastructure necessary to provide the SGEI, must be allocated in whole or in part to the financing of the SGEI.
+
+Overcompensation
+
+47\. Overcompensation should be understood as compensation that the undertaking receives in excess of the amount of aid as defined in *paragraph 21* for the whole duration of the contract. As stated in *paragraphs 39* to *42*, a surplus that results from higher than expected efficiency gains may be retained by the undertaking as additional reasonable profit as specified in the entrustment act [23].
+
+48\. Since overcompensation is not necessary for the operation of the SGEI, it constitutes incompatible State aid.
+
+49\. Member States must ensure that the compensation granted for operating the SGEI meets the requirements set out in this Communication and in particular that undertakings are not receiving compensation in excess of the amount determined in accordance with this the requirements set out in this section. They must provide evidence upon request from the Commission. They must carry out regular checks, or ensure that such checks are carried out, at the end of the period of entrustment and, in any event, at intervals of not more than three years. For aid granted by means other than a public procurement procedure with publication [24], checks should normally be made at least every two years.
+
+50\. Where the Member State has defined upfront a fixed compensation level which adequately anticipates and incorporates the efficiency gains that the public service provider can be expected to make over the period of entrustment, on the basis of a correct allocation of costs and revenues and of reasonable expectations as described in this section, the overcompensation check is in principle confined to verifying that the level of profit to which the provider is entitled in accordance with the entrustment act is indeed reasonable from an ex ante perspective.
+
+2.9. Additional requirements which may be necessary to ensure that the development of trade is not affected to an extent contrary to the interests of the Union
+
+51\. The requirements set out in sections 2.1 to 2.8 are usually sufficient to ensure that aid does not distort competition in a way that is contrary to the interests of the Union.
+
+52\. It is conceivable, however, that in some exceptional circumstances, serious competition distortions in the internal market could remain unaddressed and the aid could affect trade to such an extent as would be contrary to the interest of the Union.
+
+53\. In such a case, the Commission will examine whether such distortions can be mitigated by requiring conditions or requesting commitments from the Member State.
+
+54\. Serious competition distortions such as to be contrary to the interests of the Union are only expected to occur in exceptional circumstances. The Commission will restrict its attention to those distortions where the aid has significant adverse effects on other Member States and the functioning of the internal market, for example, because they deny undertakings in important sectors of the economy the possibility to achieve the scale of operations necessary to operate efficiently.
+
+55\. Such distortions may arise, for instance, where the entrustment either has a duration which cannot be justified by reference to objective criteria (such as the need to amortise non-transferable fixed assets) or bundles a series of tasks (typically subject to separate entrustments with no loss of social benefit and no additional costs in terms of efficiency and effectiveness in the provision of the services). In such a case, the Commission would examine whether the same public service could equally well be provided in a less distortive manner, for instance by way of a more limited entrustment in terms of duration or scope or through separate entrustments.
+
+56\. Another situation in which a more detailed assessment may be necessary is where the Member State entrusts a public service provider, without a competitive selection procedure, with the task of providing an SGEI in a non-reserved market where very similar services are already being provided or can be expected to be provided in the near future in the absence of the SGEI. Those adverse effects on the development of trade may be more pronounced where the SGEI is to be offered at a tariff below the costs of any actual or potential provider, so as to cause market foreclosure. The Commission, while fully respecting the Member State’s wide margin of discretion to define the SGEI, may therefore require amendments, for instance in the allocation of the aid, where it can reasonably show that it would be possible to provide the same SGEI at equivalent conditions for the users, in a less distortive manner and at lower cost for the State.
+
+57\. Closer scrutiny is also warranted where the entrustment of the service obligation is connected with special or exclusive rights that seriously restrict competition in the internal market to an extent contrary to the interest of the Union. While the primary route for apprehending such a case remains Article 106(1) of the Treaty, the State aid may not be deemed compatible where the exclusive right provides for advantages that could not be properly assessed, quantified or apprehended according to the methodologies to calculate the net costs of the SGEI described in section 2.8.
+
+58\. The Commission will also pay attention to situations where the aid allows the undertaking to finance the creation or use of an infrastructure that is not replicable and enables it to foreclose the market where the SGEI is provided or related relevant markets. Where this is the case, it may be appropriate to require that competitors are given fair and non-discriminatory access to the infrastructure under appropriate conditions.
+
+59\. If distortions of competition are a consequence of the entrustment hindering effective implementation or enforcement of Union legislation aimed at safeguarding the proper functioning of the internal market, the Commission will examine whether the public service could equally well be provided in a less distortive manner, for instance by fully implementing the sectoral Union legislation.
+
+2.10. Transparency
+
+60\. For each SGEI compensation falling within the scope of this Communication, the Member State concerned must publish the following information on the internet or by other appropriate means:
+
+(*a*) the results of the public consultation or other appropriate instruments referred to in *paragraph 14*;
+
+(*b*) the content and duration of the public service obligations;
+
+(*c*) the undertaking and, where applicable, the territory concerned;
+
+(*d*) the amounts of aid granted to the undertaking on a yearly basis.
+
+2.11. Aid which meets the conditions laid down in Article 2(1) of Decision 2012/21/EU
+
+61\. The principles set out in *paragraphs 14, 19, 20, 24, 39, 51 to 59* and *60(a)* do not apply to aid which meets the conditions laid down in Article 2(1) of Decision 2012/21/EU.
+
+3\. REPORTING AND EVALUATION
+
+62\. Member States shall report to the Commission on the compliance with this Communication every two years. The reports must provide an overview of the application of this Communication to the different sectors of service providers, including:
+
+(*a*) a description of the application of the principles set out in this Communication to the services falling within its scope, including in-house activities;
+
+(*b*) the total amount of aid granted to undertakings falling within the scope of this Communication with a breakdown by the economic sector of the beneficiaries;
+
+(*c*) an indication of whether, for a particular type of service, the application of the principles set out in this Communication has given rise to difficulties or complaints by third parties; and
+
+(*d*) any other information concerning the application of the principles set out in this Communication required by the Commission and to be specified in due time before the report is to be submitted.
+
+The first report shall be submitted by 30 June 2014.
+
+63\. In addition, in accordance with the requirements of Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article 93 of the EC Treaty [25] (now Article 108 of the Treaty) and Commission Regulation (EC) No 794/2004 of 21 April 2004 implementing Council Regulation (EC) No 659/1999 laying down detailed rules for the application of Article 93 of the EC Treaty [26], Member States must submit annual reports to the Commission on the aid granted following a decision of the Commission based on this Communication.
+
+64\. The reports will be published on the internet site of the Commission.
+
+65\. The Commission intends to carry out a review of this Communication by 31 January 2017.
+
+4\. CONDITIONS AND OBLIGATIONS ATTACHED TO COMMISSION DECISIONS
+
+66\. Pursuant to Article 7(4) of Regulation (EC) No 659/1999, the Commission may attach to a positive decision conditions subject to which aid may be considered compatible with the internal market, and lay down obligations to enable compliance with the decision to be monitored. In the field of SGEI, conditions and obligations may be necessary in particular to ensure that aid granted to the undertakings concerned does not lead to undue distortions of competition and trade in the internal market. In this context, periodic reports or other obligations may be necessary, in the light of the specific situation of each service of general economic interest.
+
+5\. APPLICATION
+
+67\. The Commission will apply the provisions of this Communication from 31 January 2012.
+
+68\. The Commission will apply the principles set out in this Communication to all aid projects notified to it and will take a decision on those projects in accordance with those principles, even if the projects were notified prior to 31 January 2012.
+
+69\. The Commission will apply the principles set out in this Communication to unlawful aid on which it takes a decision after 31 January 2012 even if the aid was granted before this date. However, where the aid was granted before 31 January 2012, the principles set out in *paragraphs 14, 19, 20, 24, 39* and *60* do not apply.
+
+6\. APPROPRIATE MEASURES
+
+70\. The Commission proposes as appropriate measures for the purposes of Article 108(1) of the Treaty that Member States publish the list of existing aid schemes regarding public service compensation which have to be brought into line with this Communication by 31 January 2013, and that they bring those aid schemes into line with this Communication by 31 January 2014.
+
+71\. Member States should confirm to the Commission by 29 February 2012 that they agree to the appropriate measures proposed. In the absence of any reply, the Commission will take it that the Member State concerned does not agree.
+
+[1] Judgments in Case C-280/00 Altmark Trans GmbH and Regierungspräsidium Magdeburgv Nahverkehrsgesellschaft Altmark GmbH (“Altmark”) [2003] ECR I-7747 and Joined Cases C-34/01 to C-38/01 Enirisorse SpA v Ministero delle Finanze [2003] ECR I-14243.
+
+[2] In its judgment in Altmark, the Court of Justice held that public service compensation does not constitute State aid if four cumulative criteria are met. First, the recipient undertaking must actually have public service obligations to discharge, and the obligations must be clearly defined. Second, the parameters on the basis of which the compensation is calculated must be established in advance in an objective and transparent manner. Third, the compensation cannot exceed what is necessary to cover all or part of the costs incurred in the discharge of the public service obligations, taking into account the relevant receipts and a reasonable profit. Finally, where the undertaking which is to discharge public service obligations, in a specific case, is not chosen pursuant to a public procurement procedure which would allow for the selection of the tenderer capable of providing those services at the least cost to the community, the level of compensation needed must be determined on the basis of an analysis of the costs which a typical undertaking, well run and adequately provided with the relevant means, would have incurred.
+
+[3] See page 23 of this Official Journal.
+
+[4] See page 4 of this Official Journal.
+
+[5] OJ L 7, 11.1.2012, p. 3.
+
+[6] OJ L 7, 11.1.2012.
+
+[7] OJ C 297, 29.11.2005, p. 4.
+
+[8] OJ C 257, 27.10.2009, p. 1.
+
+[9] OJ C 244, 1.10.2004, p. 2.
+
+[10] OJ L 318, 17.11.2006, p. 17.
+
+[11] Directive 2006/111/EC on the transparency of financial relations between Member States and public undertakings as well as on financial transparency within certain undertakings.
+
+[12] In this context, net cost means net cost as determined in paragraph 25 or costs minus revenues where the net avoided cost methodology cannot be applied.
+
+[13] Public sources of information, cost levels incurred by the SGEI provider in the past, cost levels of competitors, business plans, industry reports, etc.
+
+[14] OJ L 108, 24.4.2002, p. 51.
+
+[15] OJ L 15, 21.1.1998, p. 14.
+
+[16] In Chronopost (Joined Cases C-83/01 P, C-93/01 P and C-94/01 P Chronopost SA [2003] ECR I-6993), the European Court of Justice referred to “normal market conditions”: “In the absence of any possibility of comparing the situation of La Poste with that of a private group of undertakings not operating in a reserved sector, “normal market conditions”, which are necessarily hypothetical, must be assessed by reference to the objective and verifiable elements which are available”.
+
+[17] The reasonable profit will be assessed from an ex ante perspective (based on expected profits rather than on realised profits) in order not to remove the incentives for the undertaking to make efficiency gains when operating activities outside the SGEI.
+
+[18] The rate of return on capital is defined here as the Internal Rate of Return (IRR) that the company makes on its invested capital over the lifetime of the project, that is to say the IRR on the cash flows of the contract.
+
+[19] In any given year the accounting measure return on equity (ROE) is defined as the ratio between earnings before interests and taxes (EBIT) and equity capital in that year. The average annual return should be computed over the lifetime of the entrustment by applying as discount factor either the company’s cost of capital or the rate set by the Commission Reference rate Communication, whatever more appropriate.
+
+[20] The swap rate is the longer maturity equivalent to the Inter-Bank Offered Rate (IBOR rate). It is used in the financial markets as a benchmark rate for establishing the funding rate.
+
+[21] The premium of 100 basis points serves, inter alia, to compensate for liquidity risk related to the fact that an SGEI provider that invests capital in an SGEI contract commits that capital for the duration of the entrustment act and will be unable to sell its stake as rapidly and at as low a cost as is the case with a widely held and liquid risk-free asset.
+
+[22] For instance, by comparing the return with the weighted average cost of capital (WACC) of the company in relation to the activity in question, or with the average return on capital for the sector in recent years, taking into account whether historical data can be appropriate for forward-looking purposes.
+
+[23] Similarly, a deficit which results from efficiency gains lower than expected should be partially borne by the undertaking when stipulated in the entrustment act.
+
+[24] Such as aid granted in relation to in-house contracts, concessions with no competitive allocation, public procurement procedures with no prior publication.
+
+[25] OJ L 83, 27.3.1999, p. 1.
+
+[26] OJ L 140, 30.4.2004, p. 1.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F199: Substituted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 20, commenced on enactment.
+>
+> F200: Substituted (25.12.2013) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 9, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E153: Previous affecting provision: schedule inserted (19.07.2009) by *Health Insurance (Miscellaneous Provisions) Act 2009* (24/2009), s. 18, commenced on enactment; substituted (26.12.2012) as per F-note above.
+
+## F201[SCHEDULE 3 — AMOUNT SPECIFIED FOR PURPOSES OF DEFINITION OF "HOSPITAL UTILISATION CREDIT" — 1. For the provision of in-patient services on overnight accommodation basis – €165 per night. — 2. For the provision of in-patient services on day case basis – €100.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F201: Substituted (1.04.2026) by *Health Insurance (Amendment) Act 2025* (14/2025), s. 4(1), commenced as per subs. 8(3), subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E154: Previous affecting provision: schedule substituted (1.04.2024) by *Health Insurance (Amendment) Act 2023* (36/2023), s. 3(1), commenced as per s. 7(4), subject to transitional provision in s. 3(2); substituted (1.04.2026) as per F-note above.
+>
+> E155: Previous affecting provision: schedule substituted (1.04.2021) by *Health Insurance (Amendment) Act 2020* (24/2020), s. 3(1), commenced as per s. 6(2)(b), subject to transitional provision in subs. (2); substituted (1.04.2024) as per F-note above.
+>
+> E156: Previous affecting provision: schedule substituted (1.04.2020) by *Health Insurance (Amendment) Act 2019* (49/2019), s. 3(1), commenced as per s. 6(2)(b), subject to transitional provision in subs. (2); substituted (1.04.2021) as per F-note above.
+>
+> E157: Previous affecting provision: schedule substituted (1.04.2018) by *Health Insurance (Amendment) Act 2017* (37/2017), s. 4, commenced as per s. 7(2)(b), subject to transitional provision in subs. (2); substituted (1.04.2020) as per E-note above.
+>
+> E158: Previous affecting provision: schedule amended (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 4(1), commenced as per s. 7(2), subject to transitional provision in subs. (2); substituted (1.04.2018) as per E-note above.
+>
+> E159: Previous affecting provision: schedule amended (1.03.2015) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 6(1), commenced as per s. (2), subject to transitional provision in subs. (3); substituted (1.03.2016) as per E-note above.
+>
+> E160: Previous affecting provision: schedule amended (1.03.2014) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 10(1), commenced as per s. (2), subject to transitional provision in subs. (3); substituted (1.03.2015) as per E-note above.
+>
+> E161: Previous affecting provision: schedule inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 21, commenced on enactment; substituted as per E-note above.
+
+## SCHEDULE 4 — AMOUNT OF PREMIUM TO BE PAID FROM FUND IN RESPECT OF CERTAIN CLASSES OF INSURED PERSON BASED ON AGE AND SEX OF INSURED PERSONS AND THEIR TYPE OF INSURANCE COVER ON DATE CONTRACT IS EFFECTED
+
+F202[TABLE 1
+
+*AMOUNT APPLICABLE FOR PERIOD FROM AND INCLUDING 1 JANUARY 2013 TO AND INCLUDING 30 MARCH 2013*
+
+| Class of Insured Person | Amount of premium to be paid from Fund |
+|---|---|
+| Male aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+|  |  |
+| Male aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+|  |  |
+| Female aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €600.00 |
+| Male aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €600.00 |
+| Female aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €600.00 |
+|  |  |
+| Female aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €600.00 |
+| Male aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €975.00 |
+| Male aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €975.00 |
+| Female aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €975.00 |
+| Female aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €975.00 |
+|  |  |
+| Male aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €1,400.00 |
+| Male aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,400.00 |
+| Female aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €1,400.00 |
+| Female aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,400.00 |
+| Male aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,025.00 |
+|  |  |
+| Male aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,025.00 |
+| Female aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,025.00 |
+| Female aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,025.00 |
+| Male aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,400.00 |
+| Male aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,400.00 |
+|  |  |
+| Female aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,400.00 |
+| Female aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,400.00 |
+| Male aged 85 years and over on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,700.00 |
+| Male aged 85 years and over on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,700.00 |
+| Female aged 85 years and over on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €2,700.00 |
+|  |  |
+| Female aged 85 years and over on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,700.00 |
+
+F203[TABLE 2
+
+*AMOUNTS APPLICABLE ON OR AFTER 1 APRIL 2026*]
+
+| Class of Insured Person | Amount of premium to be paid from Fund |
+|---|---|
+| Male aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 50 years and over but less than 55 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 55 years and over but less than 60 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Female aged 60 years and over but less than 65 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | Nil |
+| Male aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €300 |
+| Male aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,125 |
+| Female aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €175 |
+| Female aged 65 years and over but less than 70 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €600 |
+| Male aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €425 |
+| Male aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,700 |
+| Female aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €325 |
+| Female aged 70 years and over but less than 75 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,100 |
+| Male aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €625 |
+| Male aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,350 |
+| Female aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €450 |
+| Female aged 75 years and over but less than 80 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,625 |
+| Male aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €650 |
+| Male aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,750 |
+| Female aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €500 |
+| Female aged 80 years and over but less than 85 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,875 |
+| Male aged 85 years and over on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €650 |
+| Male aged 85 years and over on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €2,750 |
+| Female aged 85 years and over on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be | €500 |
+| Female aged 85 years and over on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be | €1,875 ] |
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F202: Inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 21, commenced on enactment.
+>
+> F203: Substituted (1.04.2026) by *Health Insurance (Amendment) Act 2025* (14/2025), s. 5, commenced as per s. 8(4).
+>
+> **Editorial Notes:**
+>
+> E162: Previous affecting provision: Table 2 substituted (1.04.2025) by *Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024* (42/2024), s. 9, commenced as per s. 1(5); substituted (1.04.2026) as per F-note above.
+>
+> E163: Previous affecting provision: Table 2 substituted (1.04.2024) by *Health Insurance (Amendment) Act 2023* (36/2023), s. 4, commenced as per s. 7(4); substituted (1.04.2025) as per F-note above.
+>
+> E164: Previous affecting provision: Table 2 substituted (1.04.2023) by *Health Insurance (Amendment) Act 2022* (49/2022), s. 6, commenced as per s. 8(2)(b); substituted (1.04.2024) as per F-note above.
+>
+> E165: Previous affecting provision: Table 2 substituted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 6, S.I. No. 145 of 2022; substituted (1.04.2023) as per F-note above.
+>
+> E166: Previous affecting provision: Table 2 substituted (1.04.2021) by *Health Insurance (Amendment) Act 2020* (24/2020), s. 3, commenced as per s. 6(2)(b); substituted (1.04.2022) as per E-note above.
+>
+> E167: Previous affecting provision: Table 2 substituted (1.04.2020) by *Health Insurance (Amendment) Act 2019* (49/2019), s. 4, commenced as per s. 6(2)(b); substituted (1.04.2020) as per E-note above.
+>
+> E168: Previous affecting provision: Table 2 substituted (1.04.2019) by *Health Insurance (Amendment) Act 2018* (35/2018), s. 4, commenced as per s. 8(3); substituted (1.04.2020) as per E-note above.
+>
+> E169: Previous affecting provision: Table 2 substituted (1.04.2018) by *Health Insurance (Amendment) Act 2017* (37/2017), s. 5, commenced as per s. 7(2)(b); substituted (1.04.2019) as per E-note above.
+>
+> E170: Previous affecting provision: Table 2 substituted (1.04.2017) by *Health Insurance (Amendment) Act 2016* (19/2016), s. 7, commenced as per s. 9(2)(b); substituted (1.04.2018) as per E-note above.
+>
+> E171: Previous affecting provision: Table 2 substituted (1.03.2016) by *Health Insurance (Amendment) Act 2015* (54/2015), s. 5, commenced as per s. 7(2); substituted (1.04.2017) as per E-note above.
+>
+> E172: Previous affecting provision: Table 2 substituted (1.03.2015) by *Health Insurance (Amendment) Act 2014* (42/2014), s. 7(1), commenced as per s. 7(2); substituted (1.03.2016) as per E-note above.
+>
+> E173: Previous affected provision: Table 2 substituted (1.03.2014) by *Health Insurance (Amendment) Act 2013* (48/2013), s. 11(1), commenced as per s. 11(2); substituted (1.03.2015) as per E-note above.
+>
+> E174: Previous affected provision: schedule inserted (26.12.2012) by *Health Insurance (Amendment) Act 2012* (45/2012), s. 21, commenced on enactment; substituted (1.03.2014) as per E-note above.
+
+## F204[SCHEDULE 5 — Section 6A — AMOUNT AND PERCENTAGE SPECIFIED FOR PURPOSES OF DEFINITIONS RELATING TO HIGH COST CLAIMS — 1. Amount specified for the purposes of paragraph (a) of the definition of "high cost claim threshold" – €50,000. — 2. Percentage specified as the high cost claim quota share – 50 per cent.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F204: Substituted (1.04.2026) by *Health Insurance (Amendment) Act 2025* (14/2025), s. 6(1), commenced as per s. 8(4), subject to transitional provision in s. 6(2).
+>
+> **Editorial Notes:**
+>
+> E175: Previous affecting provision: schedule substituted (1.04.2024) by *Health Insurance (Amendment) Act 2023* (36/2023), s. 5(1), commenced as per s. 7(2), subject to transitional provision in s. 5(2); substituted (1.04.2026) as per F-note above.
+>
+> E176: Previous affecting provision: schedule inserted (1.04.2022) by *Health Insurance (Amendment) Act 2021* (47/2021), s. 7, S.I. No. 415 of 2022; substituted (1.04.2024) per F-note above.
+
+[^1]: OJC 8/04, 11.01.2012, p.15
+[^2]: OJ L 193, 18.7.1983, p.1

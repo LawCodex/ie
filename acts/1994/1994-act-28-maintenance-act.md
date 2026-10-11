@@ -1,0 +1,1195 @@
+---
+title: "Maintenance Act, 1994"
+identifier: "eli/1994/act/28"
+type: act
+jurisdiction: ie
+language: en
+number: 28
+year: 1994
+date: 1994-11-23
+last_amended: 2019-05-28
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1994/act/28/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1994/act/28/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Maintenance Act, 1994
+
+AN ACT TO ENABLE EFFECT TO BE GIVEN TO THE CONVENTION BETWEEN THE MEMBER STATES OF THE EUROPEAN COMMUNITIES ON THE SIMPLIFICATION OF PROCEDURES FOR THE RECOVERY OF MAINTENANCE PAYMENTS DONE AT ROME ON THE 6TH DAY OF NOVEMBER, 1990, AND THE CONVENTION ON THE RECOVERY ABROAD OF MAINTENANCE DONE AT NEW YORK ON THE 20TH DAY OF JUNE, 1956, AND TO PROVIDE FOR OTHER MATTERS RELATED TO THE RECOVERY OF MAINTENANCE. [23*rd November*, 1994]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted (18.06.2011) by *European Communities (Maintenance) Regulations 2011* (S.I. No. 274 of 2011), reg. 22.
+>
+> *Application of Act of 1994 (Co-operation between Central Authorities)*
+>
+> 22\. (1) The Maintenance Act 1994 shall cease to apply in relation to the State and Member States for the purposes of Chapter VII of the Maintenance Regulation with effect from 18 June 2011.
+>
+> (2) The Act of 1994 applies to Denmark, except where a request for the recovery of maintenance is received under section 14 of that Act from the Central Authority of Denmark, the Central Authority shall transmit that request to the Master of the High Court for determination under Regulation 9.
+>
+> C2: Functions transferred and references to “Department of Equality and Law Reform” and “Minister for Equality and Law Reform” construed (8.07.1997) by *Equality and Law Reform (Transfer of Departmental Administration and Ministerial Functions) Order 1997* (S.I. No. 297 of 1997), arts. 3, 4 and sch., in effect as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Justice.
+>
+> (2) References to the Department of Equality and Law Reform contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Justice.
+>
+> 4\. (1) The functions vested in the Minister for Equality and Law Reform
+>
+> ( *a* ) by or under any of the Acts mentioned in the Schedule to this Order, and
+>
+> ( *b* ) by virtue of the Justice (Transfer of Departmental Administration and Ministerial Functions) Order, 1993 (S.I. No. 34 of 1993).
+>
+> are hereby transferred to the Minister for Justice.
+>
+> (2) References to the Minister for Equality and Law Reform contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Justice.
+>
+> ...
+>
+> SCHEDULE
+>
+> Acts, functions under which are transferred from the Minister for Equality and Law Reform to the Minister for Justice.
+>
+> ...
+>
+> Maintenance Act, 1994 (No. 28 of 1994)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Proceedings under Act included in definition of “family law proceedings” (1.01.2018) by *Mediation Act 2017* (27/2017), s. 2(1), S.I. No. 591 of 2017.
+>
+> E2: Obligation imposed on Legal Aid Board to grant a legal aid certificate to a person where the Central Authority is obliged to provide assistance to the person under Act (16.12.1995) by *Civil Legal Aid Act 1995* (32/1995), s. 28(5)(c), commenced on enactment.
+
+## PART IPreliminary — PART I — Preliminary
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Maintenance Act, 1994.
+
+### 2. Commencement.
+
+**2.**—This Act shall come into operation on such day or days as the Minister shall fix by order or orders either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (25.11.1995) by *Maintenance Act 1994 (Commencement) Order 1995* (S.I. No. 288 of 1995).
+>
+> 2\. The 25th day of November, 1995, is fixed as the day on which the Maintenance Act, 1994 (No. 28 of 1994), shall come into operation.
+
+### 3. Interpretation.
+
+**3.**—(1) In this Act, unless the context otherwise requires—
+
+F1[‘the 2007 Lugano Convention’ means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters and the Protocols and Annexes thereto signed at Lugano on 30 October 2007;]
+
+“the Act of 1976” means the Family Law (Maintenance of Spouses and Children) Act, 1976;
+
+F2[‘the Act of 1998’ means the Jurisdiction of Courts and Enforcement of Judgments Act, 1998;]
+
+F3[‘the Act of 1995’ means the Family Law Act, 1995;]
+
+F4[‘the Act of 1996’ means the Family Law (Divorce) Act, 1996;]
+
+F5[‘the Brussels I Regulation’ means Council Regulation (EC) No. 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters;]
+
+“the Central Authority” has the meaning assigned to it by *section 4*;
+
+“court”, in relation to a jurisdiction other than the State, means any authority competent under the law of that jurisdiction to make an order for the recovery of maintenance;
+
+“designated jurisdiction” has the meaning assigned to it by *section 13*;
+
+“the Minister” means the Minister for Equality and Law Reform;
+
+“the New York Convention” has the meaning assigned to it by *section 13*;
+
+“reciprocating jurisdiction” has the meaning assigned to it by *section 6*;
+
+“the Rome Convention” has the meaning assigned to it by *section 6*.
+
+(2) In this Act a reference to a Part or section is to a Part or section of this Act, unless it is indicated that reference to some other enactment is intended.
+
+(3) In this Act a reference to a subsection or paragraph is to the subsection or paragraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(4) In this Act a reference to any enactment includes a reference to that enactment as amended or adapted by any other enactment including this Act.
+
+(5) This Act is without prejudice to the provisions of the Maintenance Orders Act, 1974.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(a), commenced on enactment.
+>
+> F2: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(1), S.I. No. 353 of 1999.
+>
+> F3: Inserted (1.08.1996) by *Family Law Act 1995* (26/1995), s. 45(a), S.I. No. 46 of 1996.
+>
+> F4: Inserted (27.02.1997) by *Family Law (Divorce) Act 1996* (33/1996), s. 53(a), commenced as per s. 1(2).
+>
+> F5: Inserted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(a), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E4: *Maintenance Orders Act 1974* (16/1974), mentioned in subs. (5), repealed (18.06.2011) by *European Communities (Maintenance) Regulations 2011* (S.I. No. 274 of 2011), reg. 25, in effect as per reg. 1(2).
+
+### 4. Central Authority.
+
+**4.**—(1) (*a*) The Minister may by order appoint a Central Authority (“the Central Authority”) to discharge the functions required of it under this Act or required of a central authority under the Rome Convention or of a transmitting agency or receiving agency under the New York Convention.
+
+(*b*) Pending the appointment of a Central Authority the Minister shall discharge its functions, and references in this Act to the Central Authority shall be construed accordingly as references to the Minister.
+
+(*c*) The Minister may by order amend or revoke an order made under this section.
+
+(2) F6[(a) For the purposes of section 8 of the Enforcement of Court Orders Act 1940 (as amended by section 63 of the Civil Law (Miscellaneous Provisions) Act 2011), the Acts of 1976, 1995, 1996 and 1998, the Brussels I Regulation, and the 2007 Lugano Convention, the Central Authority shall have authority to act on behalf of a maintenance creditor or of a claimant (as defined in section 13(1)), and references therein to a maintenance creditor or to such a claimant shall be construed as including references to that Authority.
+
+(*aa*) In paragraph (*a*) ‘maintenance creditor’ means, in the context of the Brussels I Regulation or the 2007 Lugano Convention, a maintenance creditor referred to in Article 5(2) of that Regulation or Article 5(2) of that Convention. ]
+
+(*b*) Where the Central Authority so acts, payments of maintenance shall be made directly to the maintenance creditor or claimant unless the Central Authority requests that they be made to a public authority in the jurisdiction where the maintanance creditor or claimant resides.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted and inserted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E5: Central Authority designated a prescribed person for the purposes of *Civil Liability and Courts Act 2004* (31/2004), s. 40(4) (1.07.2005) by *Civil Liability and Courts Act 2004 (Section 40(4)) Order 2005* (S.I. No. 338 of 2005), arts. 2, 3 and sch. item 21.
+>
+> E6: Previous affecting provision: subs. (2)(a) substituted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(b); subsequently substituted as per F-note above.
+>
+> E7: Previous affecting provision: subs. (2)(a) substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(2), S.I. No. 353 of 1999; subsequently substituted as per F-note above.
+>
+> E8: Previous affecting provision: subs. (2)(a) substituted (27.02.1997) by *Family Law (Divorce) Act 1996* (33/1996), s. 53(b), commenced as per s. 1(2); subsequently substituted as per F-note above.
+>
+> E9: Previous affecting provision: subs. (2)(a) amended (1.08.1996) by *Family Law Act 1995* (26/1995), s. 45(b), S.I. No. 46 of 1996; subsequently substituted as per F-note above.
+
+## PART IIRecovery of Maintenance (Reciprocating Jurisdictions) — PART II — Recovery of Maintenance (Reciprocating Jurisdictions)
+
+### 5. Construction of Part II.
+
+**5.**—This Part shall be construed as one with the F7[Jurisdiction of Courts and Enforcement of Judgments Act, 1998]F8[, the Brussels I Regulation and the 2007 Lugano Convention].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(3), S.I. No. 353 of 1999.
+>
+> F8: Substituted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: section amended (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(c); subsequently substituted as per F-note above.
+
+### 6. Interpretation of Part II.
+
+**6.**—(1) In this Part—
+
+F9[‘the Brussels Convention’ means—
+
+(*a*) the 1968 Convention, and
+
+(*b*) the Accession Conventions,
+
+as defined in the Act of 1998, and a reference to an Article of the Brussels Convention shall be construed as including a reference to the corresponding Article of the Lugano Convention;]
+
+“central authority of a reciprocating jurisdiction” means—
+
+(*a*) the central authority of such a jurisdiction which has been designated pursuant to paragraph 1 or, where appropriate, paragraph 2 of Article 2 of the Rome Convention, or
+
+(*b*) an authority of such a jurisdiction with functions corresponding to those exercisable by the Central Authority within the State;
+
+F9[‘the Lugano Convention’ has the meaning assigned to it by the Act of 1998;]
+
+“maintenance creditor” includes any body which, under the law of a reciprocating jurisdiction, is entitled to exercise the rights of redress of, or to represent, the creditor;
+
+F10[‘reciprocating jurisdiction’ means a Contracting State within the meaning of the Act of 1998 or, as appropriate, a Member State to which the Brussels I Regulation applies or a state bound by the 2007 Lugano Convention;]
+
+“the Rome Convention” means the Convention between the member states of the European Communities on the simplification of procedures for the recovery of maintenance payments done at Rome on the 6th day of November, 1990, the text of which in the English language is set out, for convenience of reference, in the *First Schedule* to this Act.
+
+(2) F11[(*a*) The Minister for Foreign Affairs and Trade may by order declare that any Contracting State (as defined in sections 4(1) or 17(1) of the Act of 1998) or a state bound by the 2007 Lugano Convention specified in the order is a reciprocating jurisdiction.]
+
+(*b*) An order that is in force under this subsection shall be evidence that any state specified in the order is a reciprocating jurisdiction.
+
+(*c*) The Minister for Foreign Affairs may by order amend or revoke an order under this subsection.
+
+(3) If a judgment or an instrument or settlement referred to in Article 50 or 51 of the Brussels Convention F12[, Article 57 or 58 of the Brussels I Regulation or Article 57 or 58 of the 2007 Lugano Convention] does not relate solely to maintenance, this Part shall apply only to those parts that relate to maintenance.
+
+(4) A word or expression in this Part which is used in the Rome Convention has the same meaning as it has in that Convention and for this purpose the report by Mr. J. Martin and Mr. C. Ó hUiginn on the Convention, a copy of which has been placed in the Oireachtas Library, may be considered by any court when interpreting such word or expression and shall be given such weight as is appropriate in the circumstances.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(4)(a), S.I. No. 353 of 1999.
+>
+> F10: Substituted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(d), commenced on enactment.
+>
+> F11: Substituted (10.03.2012) by J*urisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(e), commenced on enactment.
+>
+> F12: Inserted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(f), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E11: Previous affecting provision: definition of ‘reciprocating jurisdiction’ substituted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(d); subsequently substituted as per F-note above.
+>
+> E12: Previous affecting provision: definition of ‘reciprocating jurisdiction’ amended (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(4)(b), S.I. No. 353 of 1999; subsequently substituted as per F-note above.
+>
+> E13: Previous affecting provision: subs. (2)(a) amended (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(4)(c), S.I. No. 353 of 1999; subsequently substituted as per F-note above.
+
+### 7. Application from reciprocating jurisdiction.
+
+**7.**—(1) The Central Authority may, on receipt of an application for the recognition or enforcement in the State of a maintenance order which has been transmitted by a central authority of a reciprocating jurisdiction, send the application to the Master of the High Court for determination F13[in accordance with *section 7* of the Act of 1998]F14[, the Brussels I Regulation or the 2007 Lugano Convention].
+
+(2) F15[In the case of an application under the Brussels Convention or the Lugano Convention the Master shall consider it] privately and shall make an enforcement order unless it appears to the Master from the application and accompanying documents or from the Master’s own knowledge that its recognition and enforcement are prohibited by the Brussels Convention or the Lugano Convention.
+
+F14[(2A) In the case of an application under the Brussels I Regulation or the 2007 Lugano Convention the Master shall determine it in accordance with Regulation 4 of the European Communities (Civil and Commercial Judgments) Regulations 2002.]
+
+(3) The Master shall cause the decision on the request to be brought to the notice of the Central Authority and, if an enforcement order has been made, shall cause notice thereof to be served on the maintenance debtor.
+
+(4) (*a*) The notice to be served on a maintenance debtor under *subsection (3)* shall include a statement of the provisions of Article 36 (right of appeal against enforcement order) of the Brussels Convention F16[F14[, Article 43 of the Brussels I Regulation or Article 43 of the 2007 Lugano Convention], as appropriate].
+
+(*b*) Service of the notice may be effected personally or in any manner in which service of a superior court document within the meaning of section 23 of the Courts Act, 1971, may be effected.
+
+(5) The Master may—
+
+(*a*) accept an application under *subsection (1)* F17[...] as having been transmitted by the central authority of the reciprocating jurisdiction concerned, and
+
+(*b*) accept the documents accompanying the application, namely—
+
+(i) a request that the application be processed in accordance with the provisions of the Rome Convention,
+
+(ii) a letter delegating to the Central Authority authority to act, or cause action to be taken, on behalf of the maintenance creditor, including specific authority to enable enforcement proceedings to be taken,
+
+(iii) a document containing the name, date of birth, nationality and description of the maintenance debtor and all other relevant information regarding the identity, whereabouts or location of the assets, of the maintenance debtor,
+
+(iv) a document required under Article 46 or 47 of the Brussels Convention F18[F14[, Articles 53, 54 or 57 of the Brussels I Regulation or Articles 53, 54 or 57 of the 2007 Lugano Convention], as appropriate,] to be produced by a party seeking recognition or applying for enforcement of a judgment, and
+
+(v) any translation of such a document,
+
+as being such request, letter, document or translation, as the case may be.
+
+(6) If any of the documents mentioned in *subsection (5) (b)* are not produced, the Master may allow time for their production, accept equivalent documents or, if the Master considers that there is sufficient information available, dispense with their production.
+
+(7) F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(5), S.I. No. 353 of 1999.
+>
+> F14: Substituted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(g)(i)-(iii) and (v), commenced on enactment.
+>
+> F15: Substituted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(ii), in effect as per reg. 2.
+>
+> F16: Inserted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(iv), in effect as per reg. 2.
+>
+> F17: Deleted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(g)(iv), commenced on enactment.
+>
+> F18: Inserted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(vi), in effect as per reg. 2.
+>
+> F19: Repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23(c), S.I. No. 353 of 1999.
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of section affected (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 40, S.I. No. 544 of 2004, as amended (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31, S.I. No. 274 of 2008; and as amended (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014.
+>
+> **Definitions.**
+>
+> **39.**—In this Chapter— ...
+>
+> **[**‘relevant enactment’ means any of the following provisions: ...
+>
+> (g) section 7 of the Maintenance Act 1994;
+>
+> ...**]**
+>
+> **Proceedings heard otherwise than in public.**
+>
+> **40.**— ...
+>
+> (3) Nothing contained in a relevant enactment shall operate to prohibit—
+>
+> (a) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+>
+> (b) the publication of the decision of the court in such proceedings,
+>
+> in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in paragraph (a) may, for the purposes of preparing **[**such a report—
+>
+> (i) attend the proceedings, and
+>
+> (ii) have access to any relevant documents,
+>
+> subject to any directions the court may give in that behalf.**]**
+>
+> **[**(3A) (a) Subject to paragraph (b), nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+>
+> (b) Subject to paragraphs (c) and (d), where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+>
+> (i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+>
+> (ii) by reason of the nature or circumstances of the case, or
+>
+> (iii) as it is otherwise necessary in the interests of justice,
+>
+> the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+>
+> (I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+>
+> (II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+>
+> and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+>
+> (c) In determining whether or not to make an order under paragraph (b), a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+>
+> (i) the best interests of a child to whom the proceedings relate;
+>
+> (ii) the views, if any, of—
+>
+> (I) a party to the proceedings, and
+>
+> (II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+>
+> (iii) whether information given or likely to be given in evidence is sensitive personal information;
+>
+> (iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+>
+> (v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+>
+> (vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+>
+> (vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+>
+> (viii) whether information of the type referred to in subparagraphs (iii), (vi) and (vii) when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+>
+> (d) In considering the views of a child referred to in clause (II) of paragraph (c)(ii), a court shall take account of the age and level of maturity of the child concerned.
+>
+> (e) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in subparagraph (vi) of paragraph (c), an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+>
+> (f) In this subsection—
+>
+> ‘commercially sensitive information’ means—
+>
+> (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+>
+> (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+>
+> ‘party to the proceedings’ includes a witness in the proceedings;
+>
+> ‘sensitive personal information’ means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+>
+> (i) information relating to the medical, psychiatric or psychological history of the person,
+>
+> (ii) information relating to the tax affairs of the person,
+>
+> (iii) information relating to the sexual conduct or sexual orientation of the person.**]**
+>
+> (4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+>
+> (5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+>
+> (6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+>
+> (a) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (b) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+>
+> (a) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+>
+> (b) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+>
+> (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+>
+> (9) A hearing, inquiry or investigation referred to in subsection (6) or (7) shall, in so far as it relates to a document referred to in subsection (6) or information or evidence referred to in subsection (7), be conducted otherwise than in public and no such document, information or evidence shall be published.
+>
+> (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+>
+> **[**(11) In subsection (3), ‘relevant documents’, in relation to any proceedings referred to in that subsection—
+>
+> (a) subject to paragraph (b), means—
+>
+> (i) the petition, summons or other originating document in the proceedings,
+>
+> (ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+>
+> (iii) any order made by the court in the proceedings,
+>
+> (b) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.**]**
+>
+> **Editorial Notes:**
+>
+> E14: Publication or broadcast of matters likely to lead members of the public to identify parties to proceedings under section prohibited by *Civil Liability and Courts Act 2004* (31/2004), ss. 39 and 40A, as amended and inserted (11.02.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), ss. 4 and 6, S.I. No. 5 of 2014.
+>
+> E15: Previous affecting provision: subs. (1) amended (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(i); substituted as per F-note above.
+>
+> E16: Previous affecting provision: subs. (2A) inserted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(iii); substituted as per F-note above.
+>
+> E17: Previous affecting provision: subs. (5)(a) amended (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(e)(v); repealed as per F-note above.
+
+### 8. Evidence in proceedings.
+
+**8.**—Subject to *section 21 (4)*, in any proceedings under this Part, unless the court sees good reason to the contrary—
+
+(*a*) a document purporting to be an application for the recognition or enforcement in the State of a maintenance order and to have been transmitted by a central authority of a reciprocating jurisdiction may be admitted as evidence that it is such an application and has been so transmitted, and
+
+(*b*) a document purporting to be a document accompanying such an application and to be—
+
+(i) a request that the application be processed in accordance with the provisions of the Rome Convention,
+
+(ii) a letter delegating to the Central Authority authority to act, or cause action to be taken, on behalf of the maintenance creditor, including specific authority to enable enforcement proceedings to be taken, and
+
+(iii) a document containing the name, date of birth, nationality and description of the maintenance debtor and all other relevant information regarding the identity, whereabouts, or location of the assets, of the maintenance debtor,
+
+may be admitted as evidence of any matter to which it relates.
+
+### 9. Amendment of section 1 of Act of 1988.
+
+**9.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23(c), S.I. No. 353 of 1999.
+
+### 10. Amendment of section 6 of Act of 1988.
+
+**10.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23(c), S.I. No. 353 of 1999.
+
+### 11. Amendment of section 7 of Act of 1988.
+
+**11.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23(c), S.I. No. 353 of 1999.
+
+### 12. Amendment of section 11 of Act of 1993.
+
+**12.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23(c), S.I. No. 353 of 1999.
+
+## PART IIIRecovery of Maintenance (Designated Jurisdictions) — PART III — Recovery of Maintenance (Designated Jurisdictions)
+
+### 13. Interpretation of Part III.
+
+**13.**—(1) In this Part, unless the context otherwise requires—
+
+“central authority of a designated jurisdiction” means—
+
+(*a*) a transmitting agency or receiving agency in a state which is a contracting party to the New York Convention, or
+
+(*b*) an authority of a designated jurisdiction with functions corresponding to those exercisable by the Central Authority within the State;
+
+“claimant” means, according to the context, either—
+
+(*a*) a person residing in a designated jurisdiction (including any body which under the law of that jurisdiction is entitled to exercise the rights of redress of, or to represent, that person) and claiming pursuant to this Part to be entitled to receive maintenance from a person residing in the State, or
+
+(*b*) a person residing in the State (including a competent authority within the meaning of Part IX (Liability to Maintain Family) of the Social Welfare (Consolidation) Act, 1993) and claiming pursuant to this Part to be entitled to recover maintenance from a person residing in a designated jurisdiction;
+
+“designated jurisdiction” means—
+
+(*a*) any state which is a contracting party to the New York Convention, or
+
+(*b*) any other state or jurisdiction which is declared by order of the Minister for Foreign Affairs to be a designated jurisdiction for the purposes of this Part;
+
+“the New York Convention” means the Convention on the recovery abroad of maintenance done at New York on the 20th day of June, 1956, the text of which in the English language is set out, for convenience of reference, in the *Second Schedule* to this Act;
+
+“respondent” means, according to the context, either—
+
+(*a*) a person residing in the State from whom maintenance is sought to be recovered pursuant to this Part by a person residing in a designated jurisdiction, or
+
+(*b*) a person residing in a designated jurisdiction from whom maintenance is sought to be recovered pursuant to this Part by a person residing in the State.
+
+(2) (*a*) The Minister for Foreign Affairs may by order declare that any state or jurisdiction specified in the order is a designated jurisdiction.
+
+(*b*) An order that is in force under this subsection shall be evidence that any state or jurisdiction specified in the order is a designated jurisdiction.
+
+(*c*) The Minister for Foreign Affairs may by order amend or revoke an order under this subsection.
+
+(3) Subject to *subsection (1)*, a word or expression in this Part which is used in the New York Convention has the same meaning as it has in that Convention.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to subs. (2) exercised (1.11.1997) by *Maintenance Act 1994 (Section 13(2)) (Declaration) Order 1997* (S.I. No. 460 of 1997), in effect as per art. 3.
+>
+> E19: Power pursuant to subs. (2) exercised (10.09.1997) by *Maintenance Act 1994 (Designated Jurisdictions) (United States of America) Order 1997* (S.I. No. 459 of 1997), in effect as per art. 2.
+>
+> E20: Previous affecting provision: power pursuant to subs. (2) exercised (1.05.1996) by *Maintenance Act 1994 (Designated Jurisdictions) (United States of America) Order 1996* (S.I. No. 118 of 1996); subsequently revoked (10.09.1997) by *Maintenance Act 1994 (Designated Jurisdictions) (United States of America) Order 1997* (S.I. No. 459 of 1997), art. 4.
+
+### 14. Application for maintenance from designated jurisdiction.
+
+**14.**—(1) On receipt of a request by the Central Authority from a central authority of a designated jurisdiction on behalf of a claimant for the recovery of maintenance from a person for the time being residing in the State (“the respondent”) the Central Authority may—
+
+F21[(*a*) if the request is accompanied by an order of a court in a Contracting State (as defined in the Act of 1998), transmit the request to the Master of the High Court for determination in accordance with *section 7* of the Act of 1998 and Part II of this Act, and the other provisions of the Act of 1998 shall apply accordingly, with any necessary modifications,]
+
+F22[(*aa*) if the request is accompanied by an order of a court of a Member State to which the Brussels I Regulation applies or by an order of a court of a state bound by the 2007 Lugano Convention, transmit the request to the Master of the High Court for determination in accordance with that Regulation or that Convention,]
+
+(*b*) if the request is accompanied by an order made by any other court and the Central Authority is of opinion that the order may be enforceable in the State, apply to the District Court for the enforcement of the order, or
+
+(*c*) if either the request is not accompanied by such an order or enforcement of the order is refused—
+
+F23[(i) if the amount of the maintenance sought to be recovered exceeds the maximum amount which the District Court has jurisdiction to award under the Act of 1976 or the request is for a relief order (within the meaning of the Act of 1995) or a maintenance pending suit order, a periodical payments order, a secured periodical payments order or a lump sum order (within the meaning, in each case, of the Act of 1996), make an application to the Circuit Court,]
+
+(ii) in any other case, make an application to the District Court,
+
+for the recovery of maintenance in accordance with the request.
+
+(2) The District Court, on an application to it under *subsection (1) (b)*, may, if it considers that the order of the court in the designated jurisdiction for the recovery of maintenance is enforceable in the State, make an order for its enforcement and thereupon—
+
+F24[(*a*) the order of the District Court shall be deemed to be an enforceable maintenance order as defined in the Act of 1998, and
+
+(*b*) sections 8, 9 and 10 of that Act shall apply in relation to that order, with any necessary modifications.]
+
+F25[(3) An application referred to in subsection (1) (*c*) shall be deemed to be an application for a maintenance order under section 5 or section 5A or 21A (inserted by the Status of Children Act, 1987) of the Act of 1976, or the appropriate order referred to in subsection (1) (*c*) (i), as may be appropriate, and to have been made on the date on which the request of the claimant for the recovery of maintenance was received by the Central Authority of the designated jurisdiction concerned.]
+
+(4) The court, on an application to it under *subsection (1) (c)* may, subject to *subsection (5)*—
+
+(*a*) take evidence from the respondent by way of affidavit or on sworn deposition,
+
+(*b*) cause a copy of the affidavit or deposition to be sent to the Central Authority for transmission to the central authority of the designated jurisdiction with a request that the claimant provide an answering affidavit,
+
+(*c*) send letters of request pursuant to *section 17* for the taking of further evidence in a designated jurisdiction,
+
+(*d*) take the evidence of the claimant or of any witness residing in a designated jurisdiction through a live television link,
+
+F26[(*e*) pending the final determination of the application, make an interim order under section 7 of the Act of 1976 or an order under section 24 of the Act of 1995.]
+
+(5) Where it appears to the court that the claimant or respondent *bona fide* desires to cross-examine a witness and the witness is available for the cross-examination, whether through a live television link or otherwise, the court shall decline to permit the evidence of the witness to be given by affidavit.
+
+(6) Notice of an application under *paragraph (b)* or *(c)* of *subsection (1)* shall be given to the respondent by the Central Authority and shall be accompanied by a copy of the documents proposed to be given in evidence by the Central Authority at the hearing of the application.
+
+(7) Where—
+
+(*a*) on an application pursuant to *subsection (1) (c)* it is necessary to take the evidence of the claimant or of any witness through a live television link, and
+
+(*b*) facilities for doing so are not available in the circuit or district court district concerned,
+
+the court may by order transfer the proceedings to a circuit or district court district where those facilities are available.
+
+(8) The provisions of this section shall also apply as appropriate to a request made to the Central Authority to vary or discharge an order made on an application under *subsection (1) (c)*.
+
+(9) Where an order of a court which accompanies a request referred to in *subsection (1)* includes provision for matters other than those relating to maintenance, this section shall apply to the order only in so far as it relates to maintenance.
+
+F27[(9A) In subsections (1) (*a*) and (9) a reference to an order of, or made by, a court shall be construed as including a reference to—
+
+F28[(a) an instrument or settlement within the meaning of the Brussels Convention, as defined in Part II, F29[the Brussels I Regulation or the 2007 Lugano Convention]]
+
+(*b*) an arrangement relating to maintenance obligations concluded with or authenticated by an administrative authority, as referred to in Article 10 of the 1996 Accession Convention as defined in section 2 of the Act of 1998.]
+
+(10) Section 8 and section 8A (inserted by the Status of Children Act, 1987) of the Act of 1976 shall apply and have effect in relation to any agreement in writing which contains a provision mentioned in paragraph (*a*) of either section and is made—
+
+(*a*) between a claimant and respondent, notwithstanding that one of them may at the time of the making of the agreement be resident outside the State, and
+
+(*b*) between a respondent and a person or body in the State where such a person or body has been authorised to enter into such an agreement on behalf of the claimant,
+
+and an application may be made by the Central Authority to the Circuit Court under paragraph (*b*) of either section for an order making such an agreement a rule of court.
+
+(11) The jurisdiction conferred by this section may be exercised—
+
+(*a*) in the case of the Circuit Court, by the judge of the circuit, and
+
+(*b*) in the case of the District Court, by the judge of the District Court assigned to the district court district,
+
+in which the respondent resides or carries on any profession, business or occupation or, as the case may be, to which proceedings have been transferred under *subsection (7)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(6)(a), S.I. No. 353 of 1999.
+>
+> F22: Substituted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(1)(h)(i), commenced on enactment.
+>
+> F23: Substituted (27.02.1997) by *Family Law (Divorce) Act 1996* (33/1996), s. 53(c)(i), commenced as per s. 1(2).
+>
+> F24: Substituted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(6)(b), S.I. No. 353 of 1999.
+>
+> F25: Substituted (27.02.1997) by *Family Law (Divorce) Act 1996* (33/1996), s. 53(c)(ii), commenced as per s. 1(2).
+>
+> F26: Substituted (1.08.1996) by *Family Law Act 1995* (26/1995), s. 45(c)(iii), S.I. No. 46 of 1996.
+>
+> F27: Inserted (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(6)(c), S.I. No. 353 of 1999.
+>
+> F28: Substituted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(f)(ii), in effect as per reg. 2.
+>
+> F29: Substituted (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 2(h)(ii), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: subs. (1)(aa) inserted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(f)(i); subsequently substituted as per F-note above.
+>
+> E22: Previous affecting provision: subs. (1)(c)(i) substituted (1.08.1996) by *Family Law Act 1995* (26/1995), s. 45(c)(i), S.I. No. 46 of 1996; subsequently substituted as per F-note above.
+>
+> E23: Previous affecting provision: subs. (3) amended (1.08.1996) by *Family Law Act 1995* (26/1996), s. 45(c)(ii), S.I. No. 46 of 1996; subsequently substituted as per F-note above.
+
+### 15. Application for maintenance in designated jurisdiction.
+
+**15.**—(1) A claimant who wishes to recover maintenance from a respondent residing in a designated jurisdiction may apply to the Central Authority to have the claim transmitted to the central authority in that jurisdiction notwithstanding the existence of a maintenance order made against the respondent by a court in the State.
+
+(2) (*a*) Such a claimant may give evidence on sworn deposition before the District Court as to the facts relating to the claim, and the Court, if satisfied that the deposition sets forth facts from which it may be determined that the respondent concerned owes a duty to maintain the claimant, may certify accordingly.
+
+(*b*) The district court clerk concerned shall give to the claimant a certified copy of the deposition and certificate.
+
+(*c*) The jurisdiction conferred on the District Court by this subsection may be exercised by the judge of the District Court assigned to the district court district in which the claimant resides or carries on any profession, business or occupation.
+
+(3) As respects an order for the recovery of maintenance or an order varying such an order made by a court in the State on the application of the claimant, the registrar or clerk of the court shall, at the request of the claimant and subject to any conditions that may be specified by rules of court, give to the claimant—
+
+(*a*) a copy of the order duly authenticated,
+
+(*b*) a certificate signed by the registrar or clerk stating—
+
+(i) the date on which the time for lodging an appeal against the order will expire or, if it has expired, the date on which it expired,
+
+(ii) whether notice of appeal against the order has been entered,
+
+(iii) the amount of any arrears under the order, and
+
+(iv) such other particulars (if any) as may be specified by rules of court, and
+
+(*c*) in case the order was made in default of appearance, the original or a copy, certified by the registrar or clerk to be a true copy, of a document establishing that notice of the institution of proceedings was served on the respondent.
+
+### 16. Evidence in proceedings.
+
+**16.**—Subject to *section 21 (4)*, in any proceedings under this Part, unless the court sees good reason to the contrary—
+
+(*a*) a document purporting to be an application by a claimant who is residing in a designated jurisdiction to the central authority of that jurisdiction for the recovery of maintenance from a respondent residing in the State, or for the variation or revocation of an order made on such an application, and to have been transmitted by that authority to the Central Authority may be admitted as evidence that it is such an application and has been so transmitted;
+
+(*b*) a document purporting to be signed by or on behalf of the claimant and to authorise the Central Authority to act, or to appoint some other person to act, on behalf of the claimant may be admitted as evidence of such authorisation;
+
+(*c*) a document purporting to be an order for the payment of maintenance by the respondent, or an order varying or discharging such an order, made by a court in a designated jurisdiction and to be signed by a judge, magistrate or officer of that court may be admitted as evidence that the order was so made and—
+
+(i) that the respondent is liable to maintain the claimant and, where appropriate, a child of the claimant, and
+
+(ii) that the claimant was resident or present in that jurisdiction at the date of the commencement of the relevant proceedings;
+
+(*d*) a document purporting to be—
+
+(i) a petition which has been filed in a court in a designated jurisdiction seeking an order for the recovery of maintenance against a person alleged in the petition to have a duty of support,
+
+(ii) a certificate by a judge, magistrate or officer of that court to the effect that the petition sets forth facts from which it may be determined that the person owes such a duty of support,
+
+may be admitted as evidence of the matters to which the document relates;
+
+(*e*) a document purporting to be signed by a judge, magistrate or officer of a court in a designated jurisdiction and to be—
+
+(i) a document setting out or summarising evidence given in proceedings in that court or evidence taken in that jurisdiction for the purpose of maintenance proceedings in that jurisdiction or elsewhere,
+
+(ii) a document which has been received in evidence in proceedings in that court, or
+
+(iii) if an order for the recovery of maintenance from the respondent has been made in default of the respondent’s appearance by a court in that jurisdiction, a document which establishes that notice of the institution of proceedings was served on the respondent,
+
+may be admitted as evidence of the matters to which the document relates;
+
+(*f*) a document purporting to be signed on behalf of a central authority of a designated jurisdiction and to certify that the request of a specified claimant for the recovery of maintenance from a specified respondent residing in the State was received by that central authority on a specified date may be admitted as evidence that the request was so received on that date.
+
+### 17. Obtaining of evidence from designated jurisdiction.
+
+**17.**—(1) A court may, for the purpose of any proceedings under this Part, address letters of request for further evidence, documentary or otherwise, either to the appropriate court of a designated jurisdiction or to any other authority or institution designated in that behalf by that jurisdiction.
+
+(2) Letters of request under *subsection (1)* may also be sent to the Central Authority for transmission to the court, authority or institution concerned.
+
+### 18. Provisional, including protective, measures.
+
+**18.**—Where the Central Authority has received a request under this Part from a central authority of a designated jurisdiction for the recovery of maintenance, the High Court may, on application to it by the Central Authority, grant provisional, including protective, measures of any kind that the Court has power to grant in proceedings that are within its jurisdiction.
+
+### 19. Taking of evidence for proceedings in designated jurisdiction.
+
+**19.**—(1) Where a request is made to the Central Authority by or on behalf of a court in a designated jurisdiction (“the requesting authority”) to obtain the evidence of a person residing in the State for the purposes of any proceedings in that jurisdiction for the recovery of maintenance the provisions of this section shall have effect.
+
+(2) If the request is in order the Central Authority shall refer the request to the Master of the High Court, who shall request a judge of the District Court to take the evidence.
+
+(3) The judge shall cause notice of the time and place at which evidence is to be taken to be given to the person concerned, to the Central Authority for communication to the requesting authority, to the Master of the High Court and to such other persons as the judge thinks fit.
+
+(4) The judge shall take the evidence and cause a record thereof to be sent to the Central Authority for transmission to the requesting authority.
+
+(5) If it is not possible to take the evidence within four months of the receipt of the request by the Central Authority, the judge shall cause the reasons for the non-execution of the request or for the delay in executing it to be sent to the Central Authority for transmission to the requesting authority.
+
+(6) The judge shall have the same powers in relation to compelling the attendance of persons and the production of documents and in relation to the taking of evidence as the District Court has on the hearing of an action.
+
+(7) Where any person, not being a party to proceedings referred to in *subsection (1)*, attends pursuant to a request under that subsection, the judge may order that there shall be paid to that person out of public funds such sum by way of expenses as the District Court may order to be paid in respect of a witness on the hearing of an action.
+
+(8) If the Central Authority or the judge is of the view that the authenticity of the request is not established or that the execution of the request would compromise the sovereignty or safety of the State the execution of the request shall not be proceeded with.
+
+(9) Where the requesting authority makes a request for the taking of evidence directly to a court in the State—
+
+(*a*) if that court is the District Court, the evidence shall be taken by a judge of that Court, and
+
+(*b*) in any other case, the court addressed may refer the request to the Master of the High Court,
+
+and this section shall apply in relation to such a request with the necessary modifications.
+
+## PART IVProvisions Common to Reciprocating and Designated Jurisdictions — PART IV — Provisions Common to Reciprocating and Designated Jurisdictions
+
+### 20. Obtaining information on debtor.
+
+**20.**—F30[(1) The Central Authority may, for the purposes of obtaining any information that is necessary or expedient for the performance of its functions, require any holder of a public office or body financed wholly or partly by means of moneys provided by the Oireachtas to provide it with any information in the possession or procurement of the holder or body as to the whereabouts, place of work, or location and extent of the assets, of a person who is liable to make payments under a maintenance order (the maintenance debtor) or respondent, and the holder or body shall, as soon as practicable, comply with the requirement. ]
+
+(2) If the District Court, on application to it by the Central Authority, is of opinion that any person or body (not being a person or body mentioned in *subsection (1)*) is likely to have information as to the matters referred to in that subsection and that the Central Authority requires the information for the purposes so referred to, the Court may order that person or body to provide it to the Central Authority within such period as may be specified in the order.
+
+(3) The jurisdiction conferred on the District Court by *subsection (2)* may be exercised by the judge of the District Court for the time being assigned to the district court district in which the person or body to whom the order sought is to be directed resides or carries on any profession, business or occupation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.03.2002) by *European Communities (Civil and Commercial Judgment) Regulations 2002* (S.I. No. 52 of 2002), reg. 13(1)(g), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E24: Previous affecting provision: subs. (1) amended (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 22(7), S.I. No. 353 of 1999; subsequently substituted as per F-note above.
+
+### 21. Evidence in proceedings.
+
+**21.**—(1) Subject to *subsection (4)*, in any proceedings under *Part II* or *III*, unless the court sees good reason to the contrary, a document—
+
+(*a*) purporting to be signed by a judge, magistrate or officer of a court in a reciprocating jurisdiction or designated jurisdiction and to be a statement of arrears under an order of that court for the recovery of maintenance, or
+
+(*b*) purporting to be—
+
+(i) a tax assessment or other statement or certificate relating to tax,
+
+(ii) a statement or certificate of earnings,
+
+(iii) a medical certificate,
+
+(iv) a statement or certificate that a person was employed or was unemployed for a specified period,
+
+(v) a letter written by a party to maintenance proceedings who is residing in a reciprocating jurisdiction or designated jurisdiction,
+
+(vi) an affidavit or other document made or signed by such a party, or a witness, residing in such a jurisdiction,
+
+(vii) a document establishing a marital relationship between parties to such proceedings or a relationship between the parties, or one of the parties, and a child for whom maintenance is sought in the proceedings, or
+
+(viii) a document establishing that a person or body is entitled to exercise, under the law of the state in which that party resides, the rights of the party seeking maintenance,
+
+may, unless the contrary is proved, be admitted as evidence that it is such a document and as evidence of any matter to which it relates subject to such authentication, if any, as the court may require.
+
+(2) A document purporting to be—
+
+(*a*) a translation of a document mentioned in *subsection (1)* or in *section 8* or *16*, and
+
+(*b*) certified as correct by a person competent to do so,
+
+may be admitted as evidence of any matter to which it relates.
+
+(3) (*a*) Where a document is admissible in evidence by virtue of *subsection (1)* or of *section 8* or *16*, it may be given in evidence, whether or not the document is still in existence, by producing a copy of the document, or of the material part of it, authenticated in such manner as the court may approve.
+
+(*b*) It is immaterial for the purposes of *paragraph (a)* how many removes there are between the copy and the original or by what means (which may include facsimile transmission) the copy produced or any intermediate copy was made.
+
+(4) In estimating in the weight (if any) to be attached to a statement in a document admitted in evidence by virtue of *subsection (1)* or of *section 8* or *16*, regard shall be had to any other evidence available to the court and to any circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the statement, including (except in the case of a court order or a certificate or other document prepared by or on behalf of a court or public authority) the question whether the maker of the statement had any incentive to conceal or misrepresent facts and whether or not it was made on oath.
+
+## PART VMiscellaneous — PART V — Miscellaneous
+
+### 22. Enforceability of foreign maintenance orders.
+
+**22.**—Recognition or enforcement of an order (other than a provisional order) for recovery of maintenance made by a court in a jurisdiction other than the State may not be refused—
+
+(*a*) by reason only of the fact that the court which made the order had power to vary or revoke it, or
+
+(*b*) on the ground that, under the rules of private international law of the State, the court concerned had not jurisdiction by reason of the fact that the respondent was not resident or present in that jurisdiction at the date of the commencement of the relevant proceedings, provided that at that date the claimant was resident there.
+
+### 23. Currency of payments under foreign maintenance orders.
+
+**23.**—(1) An amount payable in the State under an order for recovery of maintenance which is made by a court in a jurisdiction other than the State and is enforceable in the State shall be paid in the currency of the State and, if the amount is stated in the order in a currency other than the currency of the State, the payment shall be made on the basis of the exchange rate prevailing, on the date of the making of an order by a court in the State for the enforcement of the order, between that currency and the currency of the State.
+
+(2) For the purposes of this section, a certificate purporting to be signed by an officer of a bank in the State and to state the exchange rate prevailing on a specified date between a specified currency and the currency of the State shall be evidence of the facts stated in the certificate.
+
+(3) In this section “bank” means the holder of a banker’s licence within the meaning of the Central Bank Act, 1989.
+
+### 24. Saving.
+
+**24.**—Nothing in this Act shall prevent the recognition or enforcement of an order for recovery of maintenance which is made in a reciprocating jurisdiction or designated jurisdiction and which, apart from this Act, would be recognised or enforceable in the State.
+
+### 25. Expenses.
+
+**25.**—The expenses incurred in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## FIRST SCHEDULE — Text of Rome Convention
+
+CONVENTION BETWEEN THE MEMBER STATES OF THE EUROPEAN COMMUNITIES ON THE SIMPLIFICATION OF PROCEDURES FOR THE RECOVERY OF MAINTENANCE PAYMENTS
+
+Preamble
+
+*The Member States of the European Communities*, hereinafter referred to as “The Member States”,
+
+*Mindful* of the close links existing between their peoples,
+
+*Having regard to* the developments tending to the elimination of obstacles to the free movement of persons between Member States,
+
+*Convinced* of the need to simplify among the Member States the procedures for securing the reciprocal recognition and enforcement of judgments relating to maintenance,
+
+*Desiring* for this purpose to complement with administrative arrangements the provisions of the Brussels Convention of 27 September 1968 on jurisdiction and the enforcement of judgments in civil and commercial matters, as amended by the Accession Conventions under the successive enlargements of the European Communities,
+
+*Have agreed as follows:*
+
+*Article 1*
+
+Scope and Application
+
+1\. This Convention may be applied to any judgment relating to maintenance which comes within the scope of the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters signed at Brussels on 27 September 1968 and as subsequently amended (hereinafter referred to as “the Brussels Convention”).
+
+2\. The judgment may be a judgment given before or after this Convention enters into force provided it is a judgment that is enforceable in the State addressed under the Brussels Convention or a convention concluded between the State of origin and the State addressed.
+
+3\. If the judgment does not relate solely to maintenance the Convention shall only apply to those parts of the judgment which relate to maintenance.
+
+4\. For the purpose of this Convention “judgment” shall include an authentic instrument or court settlement within the meaning of Articles 50 and 51 of the Brussels Convention.
+
+5\. Any body which, under the law of a Contracting State, is entitled to exercise the rights of redress of the creditor or to represent him shall benefit from the provisions of this Convention.
+
+*Article 2*
+
+Central Authorities
+
+1\. Each Contracting State shall designate a Central Authority to carry out or arrange to have carried out the functions provided for by this Convention.
+
+2\. Federal States and States with more than one legal system shall be free to appoint more than one Central Authority. Where a State has appointed more than one Central Authority it shall designate the Central Authority to which applications under this Convention may be addressed for transmission to the appropriate Central Authority within that State.
+
+3\. Central Authorities shall not charge any fees in respect of services rendered by them under this Convention.
+
+*Article 3*
+
+1\. The Central Authorities shall cooperate with each other and promote cooperation between the competent authorities in their respective states in order to facilitate the recovery of maintenance payments due.
+
+2\. On receipt of the application mentioned in Article 5 the Central Authority in the State addressed shall take or cause to be taken without delay all appropriate and useful measures to:
+
+(i) seek out and locate the debtor or his assets;
+
+(ii) obtain, where appropriate, relevant information from Government Departments or agencies in relation to the debtor;
+
+(iii) have the judgment registered or declared enforceable, where appropriate;
+
+(iv) facilitate the transfer of maintenance payments to the creditor or body referred to in Article 1 (5); and
+
+(v) ensure, where the payments due to the maintenance creditor are not made, the use of all appropriate means of enforcement provided for in the State addressed which are applicable and which might permit recovery of these sums.
+
+3\. The Central Authority in the State addressed shall keep the Central Authority in the State of origin informed of the measures taken under paragraph 2 and their results.
+
+*Article 4*
+
+Each Contracting State shall take the necessary administrative and legal measures, including the provision of effective enforcement measures, to enable the Central Authority to fulfil its obligations under this Convention.
+
+*Article 5*
+
+Applications
+
+1\. Where a maintenance creditor or body referred to in Article 1 (5) obtains in a Contracting State a judgment relating to maintenance and wishes to have that judgment recognised or enforced in another Contracting State, the maintenance creditor or body may submit a request for this purpose to the Central Authority in the State of origin.
+
+2\. Before transmitting an application to the State addressed, the Central Authority in the State of origin shall ensure that the application and the accompanying documents are in accordance with paragraph 3 of this Article and with Article 6.
+
+3\. The application shall contain:
+
+(i) a request that it be processed in accordance with the provisions of this Convention;
+
+(ii) a letter delegating to the Central Authority addressed authority to act, or cause action to be taken, on behalf of the maintenance creditor including specific authority to enable enforcement proceedings to be taken;
+
+(iii) the name, date of birth, nationality and description of the debtor and all other relevant information regarding his identity or whereabouts or the location of his assets;
+
+(iv) the documentation required under Section 3 of Title III of the Brussels Convention.
+
+*Article 6*
+
+Language
+
+The documentation referred to in Article 5 and any correspondence between the Central Authorities relating to the application shall, unless otherwise agreed between the Central Authorities concerned, be in, or shall be accompanied by a translation into, the official language or one of the official languages of the State addressed or any other language that the State addressed has declared it will accept.
+
+*Article 7*
+
+Relationship with other Conventions
+
+The provisions of this Convention are in addition to the provisions of the Brussels Convention and are without prejudice to other existing international instruments.
+
+*Article 8*
+
+Standing Committee
+
+1\. A Standing Committee shall be set up for the purposes of exchanging views on the functioning of the Convention and resolving any difficulties which arise in practice. The Committee may issue recommendations on the implementation of the Convention or recommend changes in the Convention.
+
+2\. The Committee shall be composed of representatives appointed by each Member State. The Commission of the European Communities may attend meetings as observers.
+
+3\. The Presidency of European Political Cooperation shall convene meetings of the Committee at least once every two years and otherwise at its discretion. In this regard it shall pay due regard to any requests made by other Member States.
+
+*Article 9*
+
+Final Provisions
+
+1\. This Convention shall be open for signature by the Member States. It shall be subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Italian Republic.
+
+2\. This Convention shall enter into force 90 days after the date of deposit of the instruments of ratification, acceptance or approval by all the States which are members of the European Communities on the date on which it is opened for signature.
+
+3\. Each Member State may, when depositing its instrument of ratification, acceptance or approval, or at any later date, declare that the Convention shall apply to it in its relations with other states which have made the same declaration 90 days after the date of deposit.
+
+4\. A Member State which has not made such a declaration may apply the Convention with other contracting Member States on the basis of bilateral agreements.
+
+5\. (i) Each Member State shall at the time of the deposit of its instrument of ratification, acceptance or approval inform the Ministry of Foreign Affairs of the Italian Republic of the following—
+
+(*a*) the designation of a Central Authority pursuant to Article 2 and
+
+(*b*) any declarations pursuant to Article 6.
+
+(ii) Any such designation or declaration may at a later date be changed, and any new declaration may be made, by notification addressed to the Ministry of Foreign Affairs of the Italian Republic.
+
+6\. The Ministry of Foreign Affairs of the Italian Republic shall notify all the Member States of any signature, deposit of instruments, declaration or designation.
+
+*Article 10*
+
+1\. This Convention shall be open to accession by any State which becomes a member of the European Communities. The instruments of accession shall be deposited with the Ministry of Foreign Affairs of the Italian Republic.
+
+2\. This Convention shall enter into force in respect of any State which accedes to it 90 days after the date of deposit of that State’s instrument of accession.
+
+Done at Rome on the sixth day of November in the year one thousand nine hundred and ninety, in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, each text being equally authentic, in a single original which shall be deposited in the archives of the Ministry of Foreign Affairs of the Italian Republic.
+
+The Ministry of Foreign Affairs of the Italian Republic shall transmit certified copies of the Convention to the Government of each Member State.
+
+## SECOND SCHEDULE — Text of New York Convention
+
+CONVENTION ON THE RECOVERY ABROAD OF MAINTENANCE DONE AT NEW YORK ON 20 JUNE 1956
+
+Preamble
+
+*Considering* the urgency of solving the humanitarian problem resulting from the situation of persons in need dependent for their maintenance on persons abroad,
+
+*Considering* that the prosecution or enforcement abroad of claims for maintenance gives rise to serious legal and practical difficulties, and
+
+*Determined* to provide a means to solve such problems and to overcome such difficulties,
+
+*The Contracting Parties have agreed as follows:*
+
+*Article 1*
+
+Scope of the Convention
+
+1\. The purpose of this Convention is to facilitate the recovery of maintenance to which a person, hereinafter referred to as claimant, who is in the territory of one of the Contracting Parties, claims to be entitled from another person, hereinafter referred to as respondent, who is subject to the jurisdiction of another Contracting Party. This purpose shall be effected through the offices of agencies which will hereinafter be referred to as Transmitting and Receiving Agencies.
+
+2\. The remedies provided for in this Convention are in addition to, and not in substitution for, any remedies available under municipal or international law.
+
+*Article 2*
+
+Designation of Agencies
+
+1\. Each Contracting Party shall, at the time when the instrument of ratification or accession is deposited, designate one or more judicial or administrative authorities which shall act in its territory as Transmitting Agencies.
+
+2\. Each Contracting Party shall, at the time when the instrument of ratification or accession is deposited, designate a public or private body which shall act in its territory as Receiving Agency.
+
+3\. Each Contracting Party shall promptly communicate to the Secretary-General of the United Nations the designations made under paragraphs 1 and 2 and any changes made in respect thereof.
+
+4\. Transmitting and Receiving Agencies may communicate directly with Transmitting and Receiving Agencies of other Contracting Parties.
+
+*Article 3*
+
+Application to Transmitting Agency
+
+1\. Where a claimant is in the territory of one Contracting Party, hereinafter referred to as the State of the claimant, and the respondent is subject to the jurisdiction of another Contracting Party, hereinafter referred to as the State of the respondent, the claimant may make application to a Transmitting Agency in the State of the claimant for the recovery of maintenance from the respondent.
+
+2\. Each Contracting Party shall inform the Secretary-General as to the evidence normally required under the law of the State of the Receiving Agency for the proof of maintenance claims, of the manner in which such evidence should be submitted, and of other requirements to be complied with under such law.
+
+3\. The application shall be accompanied by all relevant documents, including, where necessary, a power of attorney authorizing the Receiving Agency to act, or to appoint some other person to act, on behalf of the claimant. It shall also be accompanied by a photograph of the claimant and, where available, a photograph of the respondent.
+
+4\. The Transmitting Agency shall take all reasonable steps to ensure that the requirements of the law of the State of the Receiving Agency are complied with; and, subject to the requirements of such law, the application shall include:
+
+(*a*) the full name, address, date of birth, nationality, and occupation of the claimant, and the name and address of any legal representative of the claimant;
+
+(*b*) the full name of the respondent, and, so far as known to the claimant, his addresses during the preceding five years, date of birth, nationality, and occupation;
+
+(*c*) particulars of the grounds upon which the claim is based and of the relief sought, and any other relevant information such as the financial and family circumstances of the claimant and the respondent.
+
+*Article 4*
+
+Transmission of Documents
+
+1\. The Transmitting Agency shall transmit the documents to the Receiving Agency of the State of the respondent, unless satisfied that the application is not made in good faith.
+
+2\. Before transmitting such documents, the Transmitting Agency shall satisfy itself that they are regular as to form, in accordance with the law of the State of the claimant.
+
+3\. The Transmitting Agency may express to the Receiving Agency an opinion as to the merits of the case and may recommend that free legal aid and exemption from costs be given to the claimant.
+
+*Article 5*
+
+Transmission of Judgements and Other Judicial Acts
+
+1\. The Transmitting Agency shall, at the request of the claimant, transmit under the provisions of article 4, any order, final or provisional, and any other judicial act, obtained by the claimant for the payment of maintenance in a competent tribunal of any of the Contracting Parties, and, where necessary and possible, the record of the proceedings in which such order was made.
+
+2\. The orders and judicial acts referred to in the preceding paragraph may be transmitted in substitution for or in addition to the documents mentioned in article 3.
+
+3\. Proceedings under article 6 may include, in accordance with the law of the State of the respondent, exequatur or registration proceedings or an action based upon the act transmitted under paragraph 1.
+
+*Article 6*
+
+Functions of the Receiving Agency
+
+1\. The Receiving Agency shall, subject always to the authority given by the claimant, take, on behalf of the claimant, all appropriate steps for the recovery of maintenance, including the settlement of the claim and, where necessary, the institution and prosecution of an action for maintenance and the execution of any order or other judicial act for the payment of maintenance.
+
+2\. The Receiving Agency shall keep the Transmitting Agency currently informed. If it is unable to act, it shall inform the Transmitting Agency of its reasons and return the documents.
+
+3\. Notwithstanding anything in this Convention, the law applicable in the determination of all questions arising in any such action or proceedings shall be the law of the State of the respondent, including its private international law.
+
+*Article 7*
+
+Letters of Request
+
+If provision is made for letters of request in the laws of the two Contracting Parties concerned, the following rules shall apply:
+
+(*a*) A tribunal hearing an action for maintenance may address letters of request for further evidence, documentary or otherwise, either to the competent tribunal of the other Contracting Party or to any other authority or institution designated by the other Contracting Party in whose territory the request is to be executed.
+
+(*b*) In order that the parties may attend or be represented, the requested authority shall give notice of the date on which and the place at which the proceedings requested are to take place to the Receiving Agency and the Transmitting Agency concerned, and to the respondent.
+
+(*c*) Letters of request shall be executed with all convenient speed; in the event of such letters of request not being executed within four months from the receipt of the letters by the requested authority the reasons for such non-execution or for such delay shall be communicated to the requesting authority.
+
+(*d*) The execution of letters of request shall not give rise to reimbursement of fees or costs of any kind whatsoever.
+
+(*e*) Execution of letters of request may only be refused:
+
+(1) If the authenticity of the letters is not established;
+
+(2) If the Contracting Party in whose territory the letters are to be executed deems that its sovereignty or safety would be compromised thereby.
+
+*Article 8*
+
+Variation of Orders
+
+The provisions of this Convention apply also to applications for the variation of maintenance orders.
+
+*Article 9*
+
+Exemptions and Facilities
+
+1\. In proceedings under this Convention, claimants shall be accorded equal treatment and the same exemptions in the payment of costs and charges as are given to residents or nationals of the State where the proceedings are pending.
+
+2\. Claimants shall not be required, because of their status as aliens or non-residents, to furnish any bond or make any payment or deposit as security for costs or otherwise.
+
+3\. Transmitting and Receiving Agencies shall not charge any fees in respect of services rendered under this Convention.
+
+*Article 10*
+
+Transfer of Funds
+
+A Contracting Party, under whose law the transfer of funds abroad is restricted, shall accord the highest priority to the transfer of funds payable as maintenance or to cover expenses in respect of proceedings under this Convention.
+
+*Article 11*
+
+Federal State Clause
+
+In the case of a Federal or non-unitary State, the following provisions shall apply:
+
+(*a*) With respect to those articles of this Convention that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of Parties which are not Federal States;
+
+(*b*) With respect to those articles of this Convention that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the Federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment;
+
+(*c*) A Federal State Party to this Convention shall, at the request of any other Contracting Party transmitted through the Secretary-General, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention, showing the extent to which effect has been given to that provision by legislative or other action.
+
+*Article 12*
+
+Territorial Application
+
+The provisions of this Convention shall extend or be applicable equally to all non-self-governing, trust or other territories for the international relations of which a Contracting Party is responsible, unless the latter, on ratifying or acceding to this Convention, has given notice that the Convention shall not apply to any one or more of such territories. Any Contracting Party making such a declaration may, at any time thereafter, by notification to the Secretary-General, extend the application of the Convention to any or all of such territories.
+
+*Article 13*
+
+Signature, Ratification and Accession
+
+1\. This Convention shall be open for signature until 31 December 1956 on behalf of any Member of the United Nations, any non-member State which is a Party to the Statute of the International Court of Justice, or member of a specialized agency, and any other non-member State which has been invited by the Economic and Social Council to become a Party to the Convention.
+
+2\. This Convention shall be ratified. The instruments of ratification shall be deposited with the Secretary-General.
+
+3\. This Convention may be acceded to at any time on behalf of any of the States referred to in paragraph 1 of this article. The instruments of accession shall be deposited with the Secretary-General.
+
+*Article 14*
+
+Entry into Force
+
+1\. This Convention shall come into force on the thirtieth day following the date of deposit of the third instrument of ratification or accession in accordance with article 13.
+
+2\. For each State ratifying or acceding to the Convention after the deposit of the third instrument of ratification or accession, the Convention shall enter into force on the thirtieth day following the date of the deposit by such State of its instrument of ratification or accession.
+
+*Article 15*
+
+Denunciation
+
+1\. Any Contracting Party may denounce this Convention by notification to the Secretary-General. Such denunciation may also apply to some or all of the territories mentioned in article 12.
+
+2\. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General, except that it shall not prejudice cases pending at the time it becomes effective.
+
+*Article 16*
+
+Settlement of Disputes
+
+If a dispute should arise between Contracting Parties relating to the interpretation or application of this Convention, and if such dispute has not been settled by other means, it shall be referred to the International Court of Justice. The dispute shall be brought before the Court either by the notification of a special agreement or by a unilateral application of one of the parties to the dispute.
+
+*Article 17*
+
+Reservations
+
+1\. In the event that any State submits a reservation to any of the articles of this Convention at the time of ratification or accession, the Secretary-General shall communicate the text of the reservation to all States which are Parties to this Convention, and to the other States referred to in article 13. Any Contracting Party which objects to the reservation may, within a period of ninety days from the date of the communication, notify the Secretary-General that it does not accept it, and the Convention shall not then enter into force as between the objecting State and the State making the reservation. Any State thereafter acceding may make such notification at the time of its accession.
+
+2\. A Contracting Party may at any time withdraw a reservation previously made and shall notify the Secretary-General of such with-drawal.
+
+*Article 18*
+
+Reciprocity
+
+A Contracting Party shall not be entitled to avail itself of this Convention against other Contracting Parties except to the extent that it is itself bound by the Convention.
+
+*Article 19*
+
+Notification by the Secretary-General
+
+1\. The Secretary-General shall inform all Members of the United Nations and the non-member States referred to in article 13:
+
+(*a*) of communications under paragraph 3 of article 2;
+
+(*b*) of information received under paragraph 2 of article 3;
+
+(*c*) of declarations and notifications made under article 12;
+
+(*d*) of signatures, ratifications and accessions under article 13;
+
+(*e*) of the date on which the Convention has entered into force under paragraph 1 of article 14;
+
+(*f*) of denunciations made under paragraph 1 of article 15;
+
+(*g*) of reservations and notifications made under article 17.
+
+2\. The Secretary-General shall also inform all Contracting Parties of requests for revision and replies thereto received under article 20.
+
+*Article 20*
+
+Revision
+
+1\. Any Contracting Party may request revision of this Convention at any time by a notification addressed to the Secretary-General.
+
+2\. The Secretary-General shall transmit the notification to each Contracting Party with a request that such Contracting Party reply within four months whether it desires the convening of a Conference to consider the proposed revision. If a majority of the Contracting Parties favour the convening of a Conference it shall be convened by the Secretary-General.
+
+*Article 21*
+
+Languages and deposit of Convention
+
+The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General, who shall transmit certified true copies thereof to all States referred to in article 13.

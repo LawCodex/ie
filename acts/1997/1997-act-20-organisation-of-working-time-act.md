@@ -1,0 +1,2502 @@
+---
+title: "Organisation of Working Time Act, 1997"
+identifier: "eli/1997/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 1997
+date: 1997-05-07
+last_amended: 2025-01-20
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1997/act/20/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Organisation of Working Time Act, 1997
+
+AN ACT TO PROVIDE FOR THE IMPLEMENTATION OF DIRECTIVE 93/104/EC OF 23 NOVEMBER 1993 OF THE COUNCIL OF THE EUROPEAN COMMUNITIES CONCERNING CERTAIN ASPECTS OF THE ORGANIZATION OF WORKING TIME, TO MAKE PROVISION OTHERWISE IN RELATION TO THE CONDITIONS OF EMPLOYMENT OF EMPLOYEES AND THE PROTECTION OF THE HEALTH AND SAFETY OF EMPLOYEES, TO AMEND CERTAIN ENACTMENTS RELATING TO EMPLOYEES, TO REPEAL THE CONDITIONS OF EMPLOYMENT ACTS, 1936 AND 1944, THE HOLIDAYS (EMPLOYEES) ACTS, 1973 AND 1991, AND CERTAIN OTHER ENACTMENTS AND TO PROVIDE FOR RELATED MATTERS. [7*th May*, 1997]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> Organisation of Working Time Act 1997 (No. 20 of 1997)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Redress and appeal procedures in respect of entitlements under Act provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44 and sch. 5 part 1 item 7, sch. 6 part 1 item 10, sch. 6 part 2 item 10, S.I. No. 410 of 2015.
+>
+> E2: Act included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 5, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E3: Previous affecting provision: functions transferred and “Minister for” and “Department of Jobs, Enterprise and Innovation” construed (1.09.2017) by *Labour Affairs and Labour Law (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 361 of 2017), arts. 2, 3, 6-8, in effect as per art. 1(2), subject to transitional provisions in arts. 4, 5 ; superseded as per C-note above.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Organisation of Working Time Act, 1997.
+
+(2) This Act shall come into operation on such day or days as, by order or orders made by the Minister, may be fixed therefor, either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (2) exercised (various dates) by *Organisation of Working Time Act 1997 (Commencement) Order 1997* (S.I. No. 392 of 1997).
+>
+> **3.** The 30th day of September, 1997, is hereby fixed as the day on which the following provisions of the Act shall come into operation, namely:
+>
+> (a) sections 1 to 8 and 10,
+>
+> (b) section 9 in so far as it relates to the Holidays (Employees) Act, 1973, and section 4 of the Worker Protection (Regular Part-Time Employees) Act, 1991,
+>
+> (c) section 15(2),
+>
+> (d) sections 17 to 23 and 25 to 41,
+>
+> (e) subsections (8) and (9) of section 24,
+>
+> (f) the First, Second and Third Schedules,
+>
+> (g) the Fourth Schedule in so far as it relates to the enactments referred to in paragraph (b) of this Article,
+>
+> (h) paragraphs 5, 6, 8 and 9 of the Fifth Schedule, and
+>
+> (i) the Sixth Schedule.
+>
+> **4.** The 30th day of November, 1997, is hereby fixed as the day on which the following provisions of the Act shall come into operation, namely:
+>
+> (a) subsections (1) to (7) and (10) of section 24, and
+>
+> (b) paragraphs 3, 4 and 7 of the Fifth Schedule.
+>
+> **5.** The 1st day of March, 1998, is hereby fixed as the day on which the following provisions of the Act shall come into operation, namely:
+>
+> (a) section 9 in so far as it relates to any enactment other than one referred to in Article 3(b) of this Order,
+>
+> (b) sections 11 to 14 and 16,
+>
+> (c) subsections (1), (3), (4) and (5) of section 15,
+>
+> (d) the Fourth Schedule in so far as it relates to any enactment other than one referred to in Article 3(b) of this Order,
+>
+> and
+>
+> (e) paragraphs 1 and 2 of the Fifth Schedule.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act—
+
+F1["the Activities of Doctors in Training Regulations" means the European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004 (S.I. No. 494 of 2004);]
+
+F2["adjudication officer" means an adjudication officer appointed under section 40 of the Workplace Relations Act 2015;]
+
+“annual leave” shall be construed in accordance with *section 19*;
+
+“collective agreement” means an agreement by or on behalf of an employer on the one hand, and by or on behalf of a body or bodies representative of the employees to whom the agreement relates on the other hand;
+
+F2["collective bargaining" shall be construed in accordance with the Industrial Relations Acts 1946 to 2015.]
+
+“contract of employment” means—
+
+(*a*) a contract of service or apprenticeship, and
+
+(*b*) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency within the meaning of the Employment Agency Act, 1971, and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract),
+
+whether the contract is express or implied and if express, whether it is oral or in writing;
+
+“the Council Directive” means Council Directive 93/104/EC of 23 November 1993 concerning certain aspects of the organization of working time[^1], the text of which (other than the second sentence of Article 5) is, for convenience of reference, set out in the *Sixth Schedule*;
+
+“employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer; and for the purposes of F3[this Act and the Activities of Doctors in Training Regulations], a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act, 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, F4[a person holding office under, or in the service of, the State as a member of the Defence Forces shall be deemed to be an employee employed by the State or Government, as the case may be,] and an officer or servant of a local authority for the purposes of the F5[Local Government Act 2001 (as amended by the Local Government Reform Act 2014),] or of a harbour authority, health board or F6[a member of staff of an education and training board] shall be deemed to be an employee employed by the authority, board or committee, as the case may be;
+
+“employer” means in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in *paragraph (b)* of the definition of “contract of employment” is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer;
+
+F7["employment regulation order" means an employment regulation order within the meaning of Part IV of the Industrial Relations Act 1946;]
+
+“lay-off” has the meaning assigned to it by the Redundancy Payments Act, 1967;
+
+“leave year” means a year beginning on any 1st day of April;
+
+“the Minister” means the Minister for Enterprise and Employment;
+
+“outworker” means an employee who is employed under a contract of service to do work for his or her employer in the employee’s own home or in some other place not under the control or management of the employer, being work that consists of the making of a product or the provision of a service specified by the employer;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“public holiday” shall be construed in accordance with the *Second Schedule*;
+
+“registered employment agreement” has the meaning assigned to it by section 25 of the Industrial Relations Act, 1946;
+
+“rest period” means any time that is not working time;
+
+“short-time” has the meaning assigned to it by the Redundancy Payments Act, 1967;
+
+“working time” means any time that the employee is—
+
+(*a*) at his or her place of work or at his or her employer’s disposal, and
+
+(*b*) carrying on or performing the activities or duties of his or her work,
+
+and “work” shall be construed accordingly.
+
+(2) A word or expression that is used in this Act and is also used in the Council Directive has, unless the contrary intention appears, the meaning in this Act that it has in the Council Directive.
+
+(3) In this Act—
+
+(*a*) a reference to a Part, section or Schedule is a reference to a Part or section of, or a Schedule to, this Act unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended,
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment (including this Act).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(a)(i).
+>
+> F2: Inserted (4.03.2019) by *Employment (Miscellaneous Provisions) Act 2018* (38/2018), s. 13, S.I. No. 69 of 2019.
+>
+> F3: Substituted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(a)(ii).
+>
+> F4: Inserted (20.01.2025) by *European Communities (Organisation of Working Time) (Defence Forces) Regulations 2025* (S.I. No. 11 of 2025), reg. 2(a).
+>
+> F5: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F6: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013) s. 72 and sch. 6 item 22, S.I. 211 of 2013.
+>
+> F7: Substituted (1.08.2012) by *Industrial Relations (Amendment) Act 2012* (32/2012), s. 16(2), S.I. No. 302 of 2012.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE 1
+>
+> PART 1
+>
+> ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> Organisation of Working Time Act 1997 (No. 20 of 1997)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E5: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E6: Power pursuant to section and sch. 2 para. 1(g) exercised (14.09.2011) by *Organisation of Working Time (National Day of Mourning) Regulations 2001* (S.I. No. 419 of 2001).
+>
+> E7: Power pursuant to section and sch. 2 para. 1(g) exercised (31.12.1999) by *Organisation of Working Time (Public Holiday) Regulations 1999* (S.I. No. 10 of 1999).
+>
+> E8: Previous affecting provisions: functions transferred and “Minister for” and “Department of Jobs, Enterprise and Innovation” construed (1.09.2017) by *Labour Affairs and Labour Law (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 361 of 2017), arts. 2, 3, 6-8, in effect as per art. 1(2), subject to transitional provisions in arts. 4, 5; superseded as per C-note above.
+
+### 3. Non-application of Act or provisions thereof.
+
+**3.**—(1) Subject to *subsection (4)*, this Act shall not apply to a member of the Garda Síochána F8[...].
+
+F9[(1A) Subject to *subsection (4)*, this Act shall not apply to a member of the Defence Forces where the member is —
+
+(*a*) on active service within the meaning of section 5 of the Defence Act 1954,
+
+(*b*) deemed to be on active service in accordance with section 4 (1) of the Defence (Amendment) (No. 2) Act 1960,
+
+(*c*) despatched for service outside the State under subsection (1) of section 3 of the Defence (Amendment) Act 2006 for any purpose referred to in paragraph (b), (d), (e) or (f) of that subsection,
+
+(*d*) engaged in duties and tasks while on sailing orders,
+
+(*e*) engaged in operations in aid to the civil power,
+
+(*f*) in barracks during an assigned duty period relating to explosive ordnance duties, or deployed to perform such duties,
+
+(*g*) engaged in fire crew duties at Casement Aerodrome, Baldonnel,
+
+(*h*) engaged in operational activities as a member of the Army Ranger Wing,
+
+(*i*) engaged in —
+
+(i) induction training,
+
+(ii) Special Operations Force Qualification,
+
+(iii) essential training prior to a period of active service within the meaning of section 4 (1) of the Defence (Amendment) (No. 2) Act 1960, or
+
+(iv) essential training prior to a period of despatch for service outside the State in accordance with section 3 (1) of the Defence (Amendment) Act 2006 for any purpose referred to in paragraph (b), (d), (e) or (f), or
+
+(*j*) engaged in activities of a special nature on the direction of Government, or in support of a state body, that cannot, due to the nature of the activities in question, be performed in compliance with the provisions of this Act.
+
+(1B) In *subsection (1A)*, "state body" means —
+
+(*a*) a Minister of the Government, or
+
+(*b*) a person —
+
+(i) established by or under any enactment (other than the Companies Act 2014 or a former enactment relating to companies within the meaning of section 5 of that Act), or
+
+(ii) established under the Companies Act 2014, or a former enactment relating to companies within the meaning of section 5 of that Act, in pursuance of powers conferred by or under another enactment,
+
+and financed wholly or partly, whether directly or indirectly, by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government.]
+
+(2) Subject to *subsection (4)*, *Part II* shall not apply to—
+
+(*a*) a person engaged in—
+
+(i) sea fishing,
+
+(ii) other work at sea, or
+
+(iii) the activities of a doctor in training,
+
+(*b*) a person—
+
+(i) who is employed by a relative and is a member of that relative’s household F10[or is employed by the person’s civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], and
+
+(ii) whose place of employment is a private dwelling house or a farm in or on which he or she and the relative F10[or civil partner] reside, or
+
+(*c*) a person the duration of whose working time (saving any minimum period of such time that is stipulated by the employer) is determined by himself or herself, whether or not provision for the making of such determination by that person is made by his or her contract of employment.
+
+(3) The Minister may, after consultation with any other Minister of the Government who, in the opinion of the Minister, might be concerned with the matter, by regulations exempt from the application of a specified provision or provisions of this Act persons employed in any specified class or classes of activity—
+
+(*a*) involving or connected with the transport (by whatever means) of goods or persons, or
+
+(*b*) in the civil protection services where, in the opinion of the Minister and any other Minister of the Government in whom functions stand vested in relation to the service concerned, the inherent nature of the activity is such that, if the provision concerned were to apply to the said person, the efficient operation of the service concerned would be adversely affected.
+
+(4) The Minister may, after consultation with any other Minister of the Government who, in the opinion of the Minister, might be concerned with the matter, by order provide that a specified provision or provisions of this Act or, as the case may be, of *Part II* shall apply to a specified class or classes of person referred to in F11[*subsection (1)*, *paragraphs (a)* to *(j)* of *subsection (1A)* or *subsection (2)*] and for so long as such an order remains in force the said provision or provisions shall be construed and have effect in accordance with the order.
+
+(5) The reference in *subsection (4)* to an order in force shall, as respects such an order that is amended by an order in force under *section 7 (4)*, be construed as a reference to the first-mentioned order as so amended.
+
+(6) In this section “relative”, in relation to a person, means his or her spouse, father, mother, grandfather, grandmother, step-father, step-mother, son, daughter, grandson, grand-daughter, step-son, step-daughter, brother, sister, half-brother or half-sister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Deleted (20.01.2025) by *European Communities (Organisation of Working Time) (Defence Forces) Regulations 2025* (S.I. No. 11 of 2025), reg. 2(b)(i).
+>
+> F9: Inserted (20.01.2025) by *European Communities (Organisation of Working Time) (Defence Forces) Regulations 2025* (S.I. No. 11 of 2025), reg. 2(b)(ii).
+>
+> F10: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 5 item 18, S.I. No. 648 of 2010.
+>
+> F11: Substituted (20.01.2025) by *European Communities (Organisation of Working Time) (Defence Forces) Regulations 2025* (S.I. No. 11 of 2025), reg. 2(b)(iii).
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to subs. (3) exercised (31.07.2015) by *Organisation of Working Time (Non-Application of Certain Provisions to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015).
+>
+> E10: Power pursuant to section exercised (3.12.2009) by *Organisation of Working Time (Exemption of Civil Protection Services) (Amendment) Regulations 2009* (S.I. No. 478 of 2009).
+>
+> E11: Power pursuant to section exercised (1.03.1998) by *Organisation of Working Time (Exemption of Civil Protection Services) Regulations 1998* (S.I. No. 52 of 1998).
+>
+> E12: Power pursuant to subs. (6) exercised (1.03.1998) by *Terms of Employment (Additional Information) Order 1998* (S.I. No. 49 of 1998).
+>
+> E13: Previous affecting provision: power pursuant to subs. (3) exercised (1.03.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* ( S.I. No. 20 of 1998); revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+
+### 4. Exemptions.
+
+**4.**—(1) Without prejudice to *section 6*, *section 11* or *13* or, as appropriate, both these sections shall not apply, as respects a person employed in shift work, each time he or she changes shift and cannot avail himself or herself of the rest period referred to in *section 11* or *13* or, as the case may be, both those sections.
+
+(2) Without prejudice to *section 6*, *sections 11* and *13* shall not apply to a person employed in an activity (other than such activity as may be prescribed) consisting of periods of work spread out over the day.
+
+(3) Subject to *subsection (4)*, the Minister may by regulations exempt from the application of *section 11, 12, 13, 16* or *17* any activity referred to in paragraph 2, point 2.1. of Article 17 of the Council Directive, or any specified class or classes of such activity, and regulations under this subsection may, without prejudice to *section 6*, provide that any such exemption shall not have effect save to the extent that specified conditions are complied with.
+
+(4) Where the Minister proposes to make regulations under *subsection (3)*, the Minister shall consult with such persons as he or she considers to be representative of the employers and employees who, in the opinion of the Minister, are likely to be affected by the proposed regulations.
+
+(5) Without prejudice to *section 6*, if—
+
+(*a)* a collective agreement that for the time being stands approved of by the Labour Court under *section 24*, or
+
+(*b*) a registered employment agreement,
+
+provides that *section 11, 12* or *13* shall not apply in relation to the employees to whom the agreement for the time being has effect, or a specified class or classes of such employees, *section 11, 12* or *13*, as the case may be, shall not apply in relation to those employees or the said class or classes of such employees.
+
+(6) Without prejudice to *section 6*, an employment regulation order may include one or more provisions providing that *section 11, 12* or *13* shall not apply in relation to the employees to whom the order relates or a specified class or classes of such employees.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to section exercised (1.01.2005) by *Organisation of Working Time (Inclusion of Offshore Work) Regulations 2004* (S.I. No. 819 of 2004).
+>
+> E15: Power pursuant to subs. (3) exercised (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004).
+>
+> E16: Power pursuant to section exercised (1.03.1998) by *Organisation of Working Time (General Exemptions) Regulations 1998* (S.I. No. 21 of 1998).
+
+### 5. Employer relieved from complying with certain provisions in certain circumstances.
+
+**5.**—Without prejudice to *section 6*, an employer shall not be obliged to comply with *section 11*, *12*, *13*, F12[*16*, *17* or *18A*] where due to exceptional circumstances or an emergency (including an accident or the imminent risk of an accident), the consequences of which could not have been avoided despite the exercise of all due care, or otherwise to the occurrence of unusual and unforeseeable circumstances beyond the employer’s control, it would not be practicable for the employer to comply with the section concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (4.03.2019) by *Employment (Miscellaneous Provisions) Act 2018* (38/2018), s. 14, S.I. No. 69 of 2019.
+
+### 6. Compensatory rest periods.
+
+**6.**—(1) Any regulations, collective agreement, registered employment agreement or employment regulation order referred to in *section 4* that exempt any activity from the application of *section 11*, *12* or *13* or provide that any of these sections shall not apply in relation to an employee shall include a provision requiring the employer concerned to ensure that the employee concerned has available to himself or herself such rest period or break as the provision specifies to be equivalent to the rest period or break, as the case may be, provided for by *section 11, 12* or *13*.
+
+(2) Where by reason of the operation of *subsection (1)* or *(2)* of *section 4*, or *section 5*, an employee is not entitled to the rest period or break referred to in *section 11, 12*, or *13* the employer concerned shall—
+
+(*a*) ensure that the employee has available to himself or herself a rest period or break, as the case may be, that, in all the circumstances, can reasonably be regarded as equivalent to the first-mentioned rest period or break, or
+
+(*b*) if for reasons that can be objectively justified, it is not possible for the employer to ensure that the employee has available to himself or herself such an equivalent rest period or break, otherwise make such arrangements as respects the employee’s conditions of employment as will compensate the employee in consequence of the operation of *subsection (1)* or *(2)* of *section 4*, or *section 5*.
+
+(3) The reference in *subsection (2) (b)* to the making of arrangements as respects an employee’s conditions of employment does not include a reference to—
+
+(*a*) the granting of monetary compensation to the employee, or
+
+(*b*) the provision of any other material benefit to the employee, other than the provision of such a benefit as will improve the physical conditions under which the employee works or the amenities or services available to the employee while he or she is at work.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Compliance notice procedure in respect of subs. (2) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> Code for purposes of section adopted (24.02.1998) by *Organisation of Working Time (Code of Practice on Compensatory Rest and Related Matters) (Declaration) Order 1998* ( S.I. No. 44 of 1998).
+
+### 7. Regulations and orders.
+
+**7.**—(1) The Minister may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed or for the purpose of enabling any provision of this Act to have full effect.
+
+(2) Regulations under this Act may make different provisions in relation to different classes of employees or employers, different areas or otherwise by reference to the different circumstances of the matter.
+
+(3) A regulation or order under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient.
+
+(4) The Minister may by order amend or revoke an order under this Act (other than an order under *section 1 (2)* but including an order under this subsection).
+
+(5) A regulation or order under this Act (other than an order under *section 1 (2)*) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling that regulation or order is passed by either such House within the next 21 days on which that House has sat after the regulation or order is laid before it, the regulation or order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to section exercised (7.02.2022) by *Organisation of Working Time (Covid-19 Commemoration) Regulations 2022* (S.I. No. 50 of 2022).
+>
+> E19: Power pursuant to section exercised (31.07.2015) by *Organisation of Working Time (Non-Application of Certain Provisions to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015).
+>
+> E20: Power pursuant to section exercised (1.11.2001) by *Organisation of Working Time (Records) (Prescribed Form and Exemptions) Regulations 2001* (S.I. No. 473 of 2001), subject to restriction of application (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 11(5).
+>
+> E21: Power pursuant to subs. (3) exercised (1.03.1998) by *Organisation of Working Time (Breaks At Work For Shop Employees) Regulations 1998* (S.I. No. 57 of 1998).
+>
+> E22: Power pursuant to section exercised (8.12.1997) by *Organisation of Working Time (Determination of Pay For Holidays) Regulations 1997* (S.I. No. 475 of 1997).
+
+### 8. Inspectors.
+
+**8.**—F13[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: subs. (2), (3), (3)(b), (3)(e), and (9) amended (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004*, S.I. No. 494 of 2004, reg. 12(b); repealed as per F-note above.
+
+### 9. Repeals.
+
+**9.**—Each enactment specified in the *Fourth Schedule* is hereby repealed to the extent specified in the *third column* of that Schedule.
+
+### 10. Expenses.
+
+**10.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART IIMinimum Rest Periods and other matters relating to Working Time — PART II — Minimum Rest Periods and other matters relating to Working Time
+
+### 11. Daily rest period.
+
+**11.**—An employee shall be entitled to a rest period of not less than 11 consecutive hours in each period of 24 hours during which he or she works for his or her employer.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C4: Application of section restricted (1.10.2015) by *Organisation of Working Time (Non-Application of Certain Provision to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015), reg. 3.
+>
+> *Non-application of Act*
+>
+> 3\. Sections 11, 12, 13, 15 and 16 of the Act do not apply to persons performing mobile road transport activities as defined in Directive 2002/15/EC.
+>
+> C5: Application of section restricted (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 6.
+>
+> **6.** Mobile Workers are exempted from the application of sections 11, 12, 13 and 16 of the Act.
+>
+> C6: Application of section restricted (1.03.1998) by *Organisation of Working Time (Exemption of Civil Protection Services) Regulations 1998* (S.I. No. 52 of 1998), reg. 3 and sch. as amended (3.12.2009) by *Organisation of Working Time (Exemption of Civil Protection Services) (Amendment) Regulations 2009* (S.I. No. 478 of 2009).
+>
+> **Exemptions**
+>
+> **3.** The persons employed in each of the classes of activity specified in the Schedule to these Regulations are, as respects the carrying out of the duties involved in that activity, hereby exempted from the application of sections 11, 12, 13, 15 and 16 of the Organisation of Working Time Act, 1997 (No. 20 of 1997).
+>
+> **Schedule**
+>
+> 1\. The activity of a person employed in a prison or place of detention, being an activity that involves the maintenance of security in that prison or place of detention or the control or care of prisoners and which cannot be carried on within the normal rostering schedules applicable to that prison or place of detention.
+>
+> 2\. The activity of a person employed by a fire authority in the position commonly known as retained fire fighter.
+>
+> 3\. The activity of a person, other than a member of the Garda Síochána, employed as an authorised officer (within the meaning of the Air Navigation and Transport Acts, 1950 to 1988, and any enactment amending or extending those Acts).
+>
+> 4\. The activity of a person employed by Dublin Port Company as a member of its harbour police.
+>
+> **[**5. The activities of—
+>
+> (*a*) persons employed by the Irish Coast Guard, and
+>
+> (*b*) other persons (including contractors of the Irish Coast Guard) carrying out an activity in support of the emergency service of the Irish Coast Guard,not being an activity of a clerical nature.**]**
+>
+> **Editorial Notes:**
+>
+> E24: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E25: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders under which application of this section could be restricted. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E26: Previous affecting provision: application of section restricted (31.12.2010) by *Employment Regulation Order (Argricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), art. 3 and sch., part III.
+>
+> E27: Previous affecting provision: application of section restricted (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2010* (S.I. No. 164 of 2010), Part III; revoked (31.12.2010) by *Employment Regulation Order (Argricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), reg. 3.
+>
+> E28: Previous affecting provision: application of section restricted (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2008* (S.I. No. 93 of 2008) reg. 2 and sch. part II(3); revoked (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2010* (S.I. No. 164 of 2010), reg. 3.
+>
+> E29: Previous affecting provision: application of section restricted (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2007* (S.I. No. 190 of 2007), reg. 2; revoked (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2008* (S.I. No. 93 of 2008), reg. 3.
+>
+> E30: Previous affecting provision: application of section restricted (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), art. 2 and sch., part II, Conditions of Employment (iii).
+>
+> E31: Previous affecting provision: application of section restricted (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2006* (S.I. No. 24 of 2006), reg. 2; revoked (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2007* (S.I. No. 190 of 2007), reg. 3.
+>
+> E32: Previous affecting provision: application of section restricted (22.07.2005) by*Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 2; revoked (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 24 of 2006), reg. 3.
+>
+> E33: Previous affecting provision: application of section restricted (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), sch., part II, Conditions of Employment (iii); revoked (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), reg. 3.
+>
+> E34: Previous affecting provision: application of section restricted (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 2; revoked (22.07.2005) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 3.
+>
+> E35: Previous affecting provision: application of section restricted (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003* (S.I. No. 631 of 2003), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), reg. 3.
+>
+> E36: Previous affecting provision: application of section restricted (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 2; revoked (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 3.
+>
+> E37: Previous affecting provision: application of section restricted (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 2; revoked (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 3.
+>
+> E38: Previous affecting provision: application of section restricted (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 2; revoked (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 3 .
+>
+> E39: Previous affecting provision: application of section restricted (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003*, S.I. No. 631 of 2003.
+>
+> E40: Previous affecting provision: application of section restricted (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 2; revoked (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 3.
+>
+> E41: Previous affecting provision: application of section restricted (23.03.2000) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2000* (S.I. No. 20 of 2000), reg. 2 and sch., part. II, Conditions of Employment (iii); revoked (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 3.
+>
+> E42: Previous affecting provision: application of section restricted (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 2; revoked (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 3.
+>
+> E43: Previous affecting provision: application of section restricted (10.07.1998) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1998* (S.I. No. 221 of 1998), reg. 2; revoked (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 3.
+>
+> E44: Previous affecting provision: application of section restricted (30.01.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* (S.I. No. 20 of 1998), reg. 3 and sch.; revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+
+### 12. Rests and intervals at work.
+
+**12.**—(1) An employer shall not require an employee to work for a period of more than 4 hours and 30 minutes without allowing him or her a break of at least 15 minutes.
+
+(2) An employer shall not require an employee to work for a period of more than 6 hours without allowing him or her a break of at least 30 minutes; such a break may include the break referred to in *subsection (1)*.
+
+(3) The Minister may by regulations provide, as respects a specified class or classes of employee, that the minimum duration of the break to be allowed to such an employee under *subsection (2)* shall be more than 30 minutes (but not more than 1 hour).
+
+(4) A break allowed to an employee at the end of the working day shall not be regarded as satisfying the requirement contained in *subsection (1)* or *(2)*.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C8: Application of section restricted (1.10.2015) by *Organisation of Working Time (Non-Application of Certain Provision to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015), reg. 3.
+>
+> *Non-application of Act*
+>
+> 3\. Sections 11, 12, 13, 15 and 16 of the Act do not apply to persons performing mobile road transport activities as defined in Directive 2002/15/EC.
+>
+> C9: Application of section restricted (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 6.
+>
+> **6.** Mobile Workers are exempted from the application of sections 11, 12, 13 and 16 of the Act.
+>
+> C10: Application of section restricted (1.03.1998) by *Organisation of Working Time (Exemption of Civil Protection Services) Regulations 1998* (S.I. No. 52 of 1998), reg. 3 and sch. as amended (3.12.2009) by *Organisation of Working Time (Exemption of Civil Protection Services) (Amendment) Regulations 2009* (S.I. No. 478 of 2009).
+>
+> **Exemptions**
+>
+> **3.** The persons employed in each of the classes of activity specified in the Schedule to these Regulations are, as respects the carrying out of the duties involved in that activity, hereby exempted from the application of sections 11, 12, 13, 15 and 16 of the Organisation of Working Time Act, 1997 (No. 20 of 1997).
+>
+> **Schedule**
+>
+> 1\. The activity of a person employed in a prison or place of detention, being an activity that involves the maintenance of security in that prison or place of detention or the control or care of prisoners and which cannot be carried on within the normal rostering schedules applicable to that prison or place of detention.
+>
+> 2\. The activity of a person employed by a fire authority in the position commonly known as retained fire fighter.
+>
+> 3\. The activity of a person, other than a member of the Garda Síochána, employed as an authorised officer (within the meaning of the Air Navigation and Transport Acts, 1950 to 1988, and any enactment amending or extending those Acts).
+>
+> 4\. The activity of a person employed by Dublin Port Company as a member of its harbour police.
+>
+> **[**5. The activities of—
+>
+> (a) persons employed by the Irish Coast Guard, and
+>
+> (b) other persons (including contractors of the Irish Coast Guard) carrying out an activity in support of the emergency service of the Irish Coast Guard,not being an activity of a clerical nature.**]**
+>
+> **Editorial Notes:**
+>
+> E45: Compliance notice procedure in respect section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E46: Power pursuant to subs. (3) exercised (1.03.1998) by *Organisation of Working Time (Breaks At Work For Shop Employees) Regulations 1998* (S.I. No. 57 of 1998).
+>
+> E47: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders under which application of this section could be restricted. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E48: Previous affecting provision: application of section restricted (31.12.2010) by *Employment Regulation Order (Argricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), Part III.
+>
+> E49: Previous affecting provision: application of section restricted (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2010* (S.I. No. 164 of 2010), part III; revoked (31.12.2010) by *Employment Regulation Order (Argricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), reg. 3.
+>
+> E50: Previous affecting provision: application of section restricted (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2008* (S.I. No. 93 of 2008) reg. 2 and sch. part II(3); revoked (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2010* (S.I. No. 164 of 2010), reg. 3.
+>
+> E51: Previous affecting provision: application of section restricted (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2007* (S.I. No. 190 of 2007), reg. 2; revoked (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2008* (S.I. No. 93 of 2008), reg. 3.
+>
+> E52: Previous affecting provision: application of section restricted (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), art. 2 and sch., part II, Conditions of Employment (iii).
+>
+> E53: Previous affecting provision: application of section restricted (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2006* (S.I. No. 24 of 2006), reg. 2; revoked (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2007* (S.I. No. 190 of 2007), reg. 3.
+>
+> E54: Previous affecting provision: application of section restricted (22.07.2005) by*Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 2; revoked (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 24 of 2006), reg. 3.
+>
+> E55: Previous affecting provision: application of section restricted (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), sch., part II, Conditions of Employment (iii); revoked (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), reg. 3.
+>
+> E56: Previous affecting provision: application of section restricted (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 2; revoked (22.07.2005) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 3.
+>
+> E57: Previous affecting provision: application of section restricted (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003* (S.I. No. 631 of 2003), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), reg. 3.
+>
+> E58: Previous affecting provision: application of section restricted (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 2; revoked (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 3.
+>
+> E59: Previous affecting provision: application of section restricted (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 2; revoked (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 3.
+>
+> E60: Previous affecting provision: application of section restricted (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 2; revoked (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 3 .
+>
+> E61: Previous affecting provision: application of section restricted (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003*, S.I. No. 631 of 2003.
+>
+> E62: Previous affecting provision: application of section restricted (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 2; revoked (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 3.
+>
+> E63: Previous affecting provision: application of section restricted (23.03.2000) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2000* (S.I. No. 20 of 2000), reg. 2 and sch., part. II, Conditions of Employment (iii); revoked (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 3.
+>
+> E64: Previous affecting provision: application of section restricted (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 2; revoked (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 3.
+>
+> E65: Previous affecting provision: application of section restricted (10.07.1998) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1998* (S.I. No. 221 of 1998), reg. 2; revoked (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 3.
+>
+> E66: Previous affecting provision: application of section restricted (30.01.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* (S.I. No. 20 of 1998), reg. 3 and sch.; revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+
+### 13. Weekly rest periods.
+
+**13.**—(1) In this section “daily rest period” means a rest period referred to in *section 11*.
+
+(2) Subject to *subsection (3)*, an employee shall, in each period of 7 days, be granted a rest period of at least 24 consecutive hours; subject to *subsections (4)* and *(6)*, the time at which that rest period commences shall be such that that period is immediately preceded by a daily rest period.
+
+(3) An employer may, in lieu of granting to an employee in any period of 7 days the first-mentioned rest period in *subsection (2)*, grant to him or her, in the next following period of 7 days, 2 rest periods each of which shall be a period of at least 24 consecutive hours and, subject to *subsections (4)* and *(6)*—
+
+(*a*) if the rest periods so granted are consecutive, the time at which the first of those periods commences shall be such that that period is immediately preceded by a daily rest period, and
+
+(*b*) if the rest periods so granted are not consecutive, the time at which each of those periods commences shall be such that each of them is immediately preceded by a daily rest period.
+
+(4) If considerations of a technical nature or related to the conditions under which the work concerned is organised or otherwise of an objective nature would justify the making of such a decision, an employer may decide that the time at which a rest period granted by him or her under *subsection (2)* or *(3)* shall commence shall be such that the rest period is not immediately preceded by a daily rest period.
+
+(5) Save as may be otherwise provided in the employee’s contract of employment—
+
+(*a*) the rest period granted to an employee under *subsection (2)*, or
+
+(*b*) one of the rest periods granted to an employee under *subsection (3)*,
+
+shall be a Sunday or, if the rest period is of more than 24 hours duration, shall include a Sunday.
+
+(6) The requirement in *subsection (2)* or *paragraph (a)* or *(b)* of *subsection (3)* as to the time at which a rest period under this section shall commence shall not apply in any case where, by reason of a provision of this Act or an instrument or agreement under, or referred to in, this Act, the employee concerned is not entitled to a daily rest period in the circumstances concerned.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C12: Application of section restricted (1.10.2015) by *Organisation of Working Time (Non-Application of Certain Provision to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015), reg. 3.
+>
+> *Non-application of Act*
+>
+> 3\. Sections 11, 12, 13, 15 and 16 of the Act do not apply to persons performing mobile road transport activities as defined in Directive 2002/15/EC.
+>
+> **Editorial Notes:**
+>
+> E67: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E68: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders under which application of this section could be restricted. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E69: Previous affecting provision: application of section restricted (31.12.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), part III.
+>
+> E70: Previous affecting provision: application of section restricted (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2010* (S.I. No. 164 of 2010), part III; revoked (31.12.2010) by *Employment Regulation Order (Argricultural Workers Joint Labour Committee) 2010* (S.I. No. 602 of 2010), reg. 3.
+>
+> E71: Previous affecting provision: application of section restricted (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2008* (S.I. No. 93 of 2008) reg. 2 and sch. Part II(3); revoked (3.05.2010) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2010* (S.I. No. 164 of 2010), reg. 3.
+>
+> E72: Previous affecting provision: application of section restricted (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2007* (S.I. No. 190 of 2007), reg. 2; revoked (14.04.2008) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2008* (S.I. No. 93 of 2008), reg. 3.
+>
+> E73: Previous affecting provision: application of section restricted (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), art. 2 and sch., part II, Conditions of Employment (iii).
+>
+> E74: Previous affecting provision: application of section restricted (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2006* (S.I. No. 24 of 2006), reg. 2; revoked (11.05.2007) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee 2007* (S.I. No. 190 of 2007), reg. 3.
+>
+> E75: Previous affecting provision: application of section restricted (22.07.2005) by*Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 2; revoked (23.02.2006) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 24 of 2006), reg. 3.
+>
+> E76: Previous affecting provision: application of section restricted (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), sch., part II, Conditions of Employment (iii); revoked (1.01.2007) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2006* (S.I. No. 500 of 2006), reg. 3.
+>
+> E77: Previous affecting provision: application of section restricted (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 2; revoked (22.07.2005) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2005* (S.I. No. 375 of 2005), reg. 3.
+>
+> E78: Previous affecting provision: application of section restricted (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003* (S.I. No. 631 of 2003), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.07.2005) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2005* (S.I. No. 78 of 2005), reg. 3.
+>
+> E79: Previous affecting provision: application of section restricted (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 2; revoked (1.02.2004) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2004* (S.I. No. 33 of 2004), reg. 3.
+>
+> E80: Previous affecting provision: application of section restricted (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 2; revoked (23.05.2003) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2003* (S.I. No. 185 of 2003), reg. 3.
+>
+> E81: Previous affecting provision: application of section restricted (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 2; revoked (23.04.2002) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2002* (S.I. No. 136 of 2002), reg. 3 .
+>
+> E82: Previous affecting provision: application of section restricted (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 2 and sch., part II, Conditions of Employment (iii); revoked (1.01.2004) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2003*, S.I. No. 631 of 2003.
+>
+> E83: Previous affecting provision: application of section restricted (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 2; revoked (12.04.2001) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2001* (S.I. No. 123 of 2001), reg. 3.
+>
+> E84: Previous affecting provision: application of section restricted (23.03.2000) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2000* (S.I. No. 20 of 2000), reg. 2 and sch., part. II, Conditions of Employment (iii); revoked (1.03.2001) by *Employment Regulation Order (Security Industry Joint Labour Committee) 2001* (S.I. No. 35 of 2001), reg. 3.
+>
+> E85: Previous affecting provision: application of section restricted (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 2; revoked (4.08.2000) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2000* (S.I. No. 236 of 2000), reg. 3.
+>
+> E86: Previous affecting provision: application of section restricted (10.07.1998) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1998* (S.I. No. 221 of 1998), reg. 2; revoked (17.08.1999) by *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 1999* (S.I. No. 255 of 1999), reg. 3.
+>
+> E87: Previous affecting provision: application of section restricted (30.01.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* (S.I. No. 20 of 1998), reg. 3 and sch.; revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+
+### 14. Sunday work: supplemental provisions.
+
+**14.**—(1) An employee who is required to work on a Sunday (and the fact of his or her having to work on that day has not otherwise been taken account of in the determination of his or her pay) shall be compensated by his or her employer for being required so to work by the following means, namely—
+
+(*a*) by the payment to the employee of an allowance of such an amount as is reasonable having regard to all the circumstances, or
+
+(*b*) by otherwise increasing the employee’s rate of pay by such an amount as is reasonable having regard to all the circumstances, or
+
+(*c*) by granting the employee such paid time off from work as is reasonable having regard to all the circumstances, or
+
+(*d*) by a combination of two or more of the means referred to in the preceding paragraphs.
+
+(2) *Subsection (3)* applies to an employee where the value or the minimum value of the compensation to be provided to him or her in respect of his or her being required to work on a Sunday is not specified by a collective agreement.
+
+(3) For the purposes of proceedings under *Part IV* before a rights commissioner or the Labour Court in relation to a complaint that this section has not been complied with in relation to an employee to whom this subsection applies (“the first-mentioned employee”), the value or the minimum value of the compensation that a collective agreement for the time being specifies shall be provided to a comparable employee in respect of his or her being required to work on a Sunday shall be regarded as the value of compensation to be provided under this section to the first-mentioned employee that is reasonable having regard to all the circumstances:
+
+Provided that if each of 2 or more collective agreements for the time being specifies the value or the minimum value of the compensation to be provided to a comparable employee to whom the agreement relates in respect of his or her being required to work on a Sunday and the said values or minimum values are not the same whichever of the said values or minimum values is the less shall be regarded, for the purposes aforesaid, as the value of compensation to be provided under this section to the first-mentioned employee that is reasonable having regard to all the circumstances.
+
+(4) Unless the fact of such a value being so specified has come to the notice of the rights commissioner or the Labour Court, as the case may be, it shall be for the person who alleges in proceedings referred to in *subsection (3)* that a value of compensation of the kind referred to in that subsection is specified by a collective agreement mentioned in that subsection to show that, in fact, such a value is so specified.
+
+(5) In *subsection (3)* “comparable employee” means an employee who is employed to do, under similar circumstances, identical or similar work in the industry or sector of employment concerned to that which the first-mentioned employee in *subsection (3)* is employed to do.
+
+(6) References in this section to a value or minimum value of compensation that is specified by a collective agreement shall be construed as including references to a value or minimum value of compensation that may be determined in accordance with a formula or procedures specified by the agreement (being a formula or procedures which, in the case of proceedings referred to in *subsection (3)* before a rights commissioner or the Labour Court, can be readily applied or followed by the rights commissioner or the Labour Court for the purpose of the proceedings).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E88: Compliance notice procedure in respect of subs. (1) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E89: Code of practice for the purpose of this section adopted (19.11.1998) by *Organisation of Working Time (Code of Practice on Sunday Working in The Retail Trade and Related Matters) (Declaration) Order 1998* (S.I. No. 444 of 1998).
+
+### 15. Weekly working hours.
+
+**15.**—(1) An employer shall not permit an employee to work, in each period of 7 days, more than an average of 48 hours, that is to say an average of 48 hours calculated over a period (hereafter in this section referred to as a “reference period ”) that does not exceed—
+
+(*a*) 4 months, or
+
+(*b*) 6 months—
+
+(i) in the case of an employee employed in an activity referred to in paragraph 2, point 2.1. of Article 17 of the Council Directive, or
+
+(ii) where due to any matter referred to in *section 5*, it would not be practicable (if a reference period not exceeding 4 months were to apply in relation to the employee) for the employer to comply with this subsection,
+
+or
+
+(*c*) such length of time as, in the case of an employee employed in an activity mentioned in *subsection (5)*, is specified in a collective agreement referred to in that subsection.
+
+(2) *Subsection (1)* shall have effect subject to the *Fifth Schedule* (which contains transitional provisions in respect of the period of 24 months beginning on the commencement of that Schedule).
+
+(3) The days or months comprising a reference period shall, subject to *subsection (4)*, be consecutive days or months.
+
+(4) A reference period shall not include—
+
+(*a*) any period of annual leave granted to the employee concerned in accordance with this Act (save so much of it as exceeds the minimum period of annual leave required by this Act to be granted to the employee),
+
+F14[(*aa*) any period during which the employee was absent from work while on parental leave, *force majeure* leave F15[, leave for medical care purposes, domestic violence leave or an approved flexible working arrangement within the meaning of the Parental Leave Act 1998] or carer’s leave within the meaning of the Carer’s Leave Act, 2001,]
+
+(*b*) any absences from work by the employee concerned authorised under the Maternity Protection Act, 1994, or the Adoptive Leave Act, 1995, or
+
+(*c*) any sick leave taken by the employee concerned.
+
+(5) Where an employee is employed in an activity (including an activity referred to in *subsection (1) (b) (i)*)—
+
+(*a*) the weekly working hours of which vary on a seasonal basis, or
+
+(*b*) as respects which it would not be practicable for the employer concerned to comply with *subsection (1)* (if a reference period not exceeding 4 or 6 months, as the case may be, were to apply in relation to the employee) because of considerations of a technical nature or related to the conditions under which the work concerned is organised or otherwise of an objective nature,
+
+then a collective agreement that for the time being has effect in relation to the employee and which stands approved of by the Labour Court under *section 24* may specify, for the purposes of *subsection (1) (c)*, a length of time in relation to the employee of more than 4 or 6 months, as the case may be (but not more than 12 months).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (2.07.2001) by *Carer’s Leave Act 2001* (19/2001), s. 28(a), commenced on enactment.
+>
+> F15: Inserted (3.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 36(a), S.I. No. 341 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C13: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C14: Application of section restricted (1.10.2015) by *Organisation of Working Time (Non-Application of Certain Provision to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015), reg. 3.
+>
+> *Non-application of Act*
+>
+> 3\. Sections 11, 12, 13, 15 and 16 of the Act do not apply to persons performing mobile road transport activities as defined in Directive 2002/15/EC.
+>
+> C15: Application of section restricted (1.03.1998) by *Organisation of Working Time (Exemption of Civil Protection Services) Regulations 1998* (S.I. No. 52 of 1998), reg. 3 and sch. as amended (3.12.2009) by *Organisation of Working Time (Exemption of Civil Protection Services) (Amendment) Regulations 2009* (S.I. No. 478 of 2009).
+>
+> **Exemptions**
+>
+> **3.** The persons employed in each of the classes of activity specified in the Schedule to these Regulations are, as respects the carrying out of the duties involved in that activity, hereby exempted from the application of sections 11, 12, 13, 15 and 16 of the Organisation of Working Time Act, 1997 (No. 20 of 1997).
+>
+> **Schedule**
+>
+> 1\. The activity of a person employed in a prison or place of detention, being an activity that involves the maintenance of security in that prison or place of detention or the control or care of prisoners and which cannot be carried on within the normal rostering schedules applicable to that prison or place of detention.
+>
+> 2\. The activity of a person employed by a fire authority in the position commonly known as retained fire fighter.
+>
+> 3\. The activity of a person, other than a member of the Garda Síochána, employed as an authorised officer (within the meaning of the Air Navigation and Transport Acts, 1950 to 1988, and any enactment amending or extending those Acts).
+>
+> 4\. The activity of a person employed by Dublin Port Company as a member of its harbour police.
+>
+> **[**5. The activities of—
+>
+> (a) persons employed by the Irish Coast Guard, and
+>
+> (b) other persons (including contractors of the Irish Coast Guard) carrying out an activity in support of the emergency service of the Irish Coast Guard,not being an activity of a clerical nature.**]**
+>
+> **Editorial Notes:**
+>
+> E90: Compliance notice procedure in respect of subs. (1) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E91: Previous affecting provision: application of section restricted (30.01.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* (S.I. No. 20 of 1998), reg. 3 and sch.; revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+>
+> E92: Previous affecting provision: new para. (4)(aa) inserted (3.12.1998) by *Parental Leave Act 1998* (30/1998), s. 25(4), commenced as per s. 1(2); substituted as per F-note above.
+
+### 16. Nightly working hours.
+
+**16.**—(1) In this section—
+
+“night time” means the period between midnight and 7 a.m. on the following day;
+
+“night work” means work carried out during night time;
+
+“night worker” means an employee—
+
+(*a*) who normally works at least 3 hours of his or her daily working time during night time,
+
+and
+
+(*b*) the number of hours worked by whom during night time, in each year, equals or exceeds 50 per cent. of the total number of hours worked by him or her during that year.
+
+(2) Without prejudice to *section 15*, an employer shall not permit a night worker, in each period of 24 hours, to work—
+
+(*a*) in a case where the work done by the worker in that period includes night work and the worker is a special category night worker, more than 8 hours,
+
+(*b*) in any other case, more than an average of 8 hours, that is to say an average of 8 hours calculated over a period (hereafter in this section referred to as a “reference period ”) that does not exceed—
+
+(i) 2 months, or
+
+(ii) such greater length of time as is specified in a collective agreement that for the time being has effect in relation to that night worker and which stands approved of by the Labour Court under *section 24*.
+
+(3) In *subsection (2)* “special category night worker” means a night worker as respects whom an assessment carried out by his or her employer, pursuant to a requirement of regulations under section 28 (1) of the Safety, Health and Welfare at Work Act, 1989, in relation to the risks attaching to the work that the night worker is employed to do indicates that that work involves special hazards or a heavy physical or mental strain.
+
+(4) The days or months comprising a reference period shall, subject to *subsection (5)*, be consecutive days or months.
+
+(5) A reference period shall not include—
+
+(*a*) any rest period granted to the employee concerned under *section 13 (2)* (save so much of it as exceeds 24 hours),
+
+(*b*) any rest periods granted to the employee concerned under *section 13 (3)* (save so much of each of those periods as exceeds 24 hours),
+
+(*c*) any period of annual leave granted to the employee concerned in accordance with this Act (save so much of it as exceeds the minimum period of annual leave required by this Act to be granted to the employee),
+
+F16[(*cc*) any period during which the employee was absent from work while on parental leave, *force majeure* leave F17[, leave for medical care purposes, domestic violence leave or an approved flexible working arrangement within the meaning of the Parental Leave Act 1998] or carer’s leave within the meaning of the Carer’s Leave Act, 2001.]
+
+(*d*) any absences from work by the employee concerned authorised under the Maternity Protection Act, 1994, or the Adoptive Leave Act, 1995, or
+
+(*e*) any sick leave taken by the employee concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (2.07.2001) by *Carer’s Leave Act 2001* (19/2001), s. 28(b), commenced on enactment.
+>
+> F17: Inserted (3.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 36(b), S.I. No. 341 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C16: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C17: Application of section restricted (1.10.2015) by *Organisation of Working Time (Non-Application of Certain Provision to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015), reg. 3.
+>
+> *Non-application of Act*
+>
+> 3\. Sections 11, 12, 13, 15 and 16 of the Act do not apply to persons performing mobile road transport activities as defined in Directive 2002/15/EC.
+>
+> C18: Application of section restricted (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 6.
+>
+> **6.** Mobile Workers are exempted from the application of sections 11, 12, 13 and 16 of the Act.
+>
+> C19: Application of section restricted (1.03.1998) by *Organisation of Working Time (Exemption of Civil Protection Services) Regulations 1998* (S.I. No. 52 of 1998), reg. 3 and sch. as amended (3.12.2009) by *Organisation of Working Time (Exemption of Civil Protection Services) (Amendment) Regulations 2009* (S.I. No. 478 of 2009) .
+>
+> **Exemptions**
+>
+> **3.** The persons employed in each of the classes of activity specified in the Schedule to these Regulations are, as respects the carrying out of the duties involved in that activity, hereby exempted from the application of sections 11, 12, 13, 15 and 16 of the Organisation of Working Time Act, 1997 (No. 20 of 1997).
+>
+> **Schedule**
+>
+> 1\. The activity of a person employed in a prison or place of detention, being an activity that involves the maintenance of security in that prison or place of detention or the control or care of prisoners and which cannot be carried on within the normal rostering schedules applicable to that prison or place of detention.
+>
+> 2\. The activity of a person employed by a fire authority in the position commonly known as retained fire fighter.
+>
+> 3\. The activity of a person, other than a member of the Garda Síochána, employed as an authorised officer (within the meaning of the Air Navigation and Transport Acts, 1950 to 1988, and any enactment amending or extending those Acts).
+>
+> 4\. The activity of a person employed by Dublin Port Company as a member of its harbour police.
+>
+> **[**5. The activities of—
+>
+> (a) persons employed by the Irish Coast Guard, and
+>
+> (b) other persons (including contractors of the Irish Coast Guard) carrying out an activity in support of the emergency service of the Irish Coast Guard,not being an activity of a clerical nature.**]**
+>
+> **Editorial Notes:**
+>
+> E93: Compliance notice procedure in respect of subs. (2) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E94: Requirement for employer to carry out assessment for purposes of subs. (2)(a) imposed (1.11.2007) by *Safety, Health and Welfare at Work (General Application) Regulations 2007* (S.I. No. 299 of 2007), reg. 155.
+>
+> E95: Previous affecting provision: requirement for employer to carry out assessment for purposes of subs. (2)(a) imposed (25.01.2000) by *Safety, Health and Welfare At Work (Night Work and Shift Work) Regulations 2000* (S.I. No. 11 of 2000), reg. 6; revoked (1.11.2007) by *Safety, Health and Welfare at Work (General Application) Regulations 2007* (S.I. No. 299 of 2007), reg. 3(1)(s).
+>
+> E96: Previous affecting provision: requirement for employer to carry out assessment for purposes of subs. (2)(a) imposed (1.02.1999) by *Safety, Health and Welfare At Work (Night Work and Shift Work) Regulations 1998* (S.I. No. 485 of 1998), reg. 5; revoked (25.01.2000) by *Safety, Health and Welfare At Work (Night Work and Shift Work) Regulations 2000* (S.I. No. 11 of 2000), reg. 2.
+>
+> E97: Previous affecting provision: new para. (5)(cc) inserted (30.12.1998) by *Parental Leave Act 1998* (30/1998), s. 25(4), commenced as per s. 1(2); substituted as per F-note above.
+>
+> E98: Previous affecting provision: application of section restricted (30.01.1998) by *Organisation of Working Time (Exemption of Transport Activities) Regulations 1998* (S.I. No. 20 of 1998), reg. 3 and sch.; revoked (1.01.2005) by *Organisation of Working Time (Inclusion of Transport Activities) Regulations 2004* (S.I. No. 817 of 2004), reg. 5.
+
+### 17. Provision of information in relation to working time.
+
+**17.**—(1) If neither the contract of employment of the employee concerned nor any employment regulation order, registered employment agreement or collective agreement that has effect in relation to the employee specifies the normal or regular starting and finishing times of work of an employee, the employee’s employer shall notify the employee, subject to *subsection (3)*, at least 24 hours before the first day or, as the case may be, the day, in each week that he or she proposes to require the employee to work, of the times at which the employee will normally be required to start and finish work on each day, or, as the case may be, the day or days concerned, F18[that week, F19[and the employee’s employer shall, other than where the employee is a person holding office under, or in the service of, the State as a member of the Defence Forces, ensure] the work takes place within predetermined reference hours and days.]
+
+F21[(1A) When the requirements of *subsection (1)* are not met by the employee’s employer, F20[an employee, other than a person holding office under, or in the service of, the State as a member of the Defence Forces, shall have the right] to refuse to work during the reference hours and days predetermined by the employer in accordance with that subsection without adverse consequences.]
+
+(2) If the hours for which an employee is required to work for his or her employer in a week include such hours as the employer may from time to time decide (in this subsection referred to as “additional hours”), the employer shall notify the employee, subject to *subsection (3)*, at least 24 hours before the first day or, as the case may be, the day, in that week on which he or she proposes to require the employee to work all or, as the case may be, any of the additional hours, of the times at which the employee will be required to start and finish working the additional hours on each day, or, as the case may be, the day or days concerned, of that week.
+
+(3) If during the period of 24 hours before the first-mentioned or, as the case may be, the second-mentioned day in *subsection (1)* or *(2)*, the employee has not been required to do work for the employer, the time at which the employee shall be notified of the matters referred to in *subsection (1)* or *(2)*, as the case may be, shall be not later than before the last period of 24 hours, preceding the said first or second-mentioned day, in which he or she has been required to do work for the employer.
+
+(4) A notification to an employee, in accordance with this section, of the matters referred to in *subsection (1)* or *(2)*, as the case may be, shall not prejudice the right of the employer concerned, subject to the provisions of this Act, to require the employee to start or finish work or, as the case may be, to work the additional hours referred to in *subsection (2)* at times other than those specified in the notification if circumstances, which could not reasonably have been foreseen, arise that justify the employer in requiring the employee to start or finish work or, as the case may be, to work the said additional hours at those times.
+
+(5) It shall be a sufficient notification to an employee of the matters referred to in *subsection (1)* or *(2)* for the employer concerned to post a notice of the matters in a conspicuous position in the place of the employee’s employment.
+
+F22[(6) In this section -
+
+"reference hours and days" has the same meaning as it has in Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 20197 on transparent and predictable working conditions in the European Union;
+
+"seafarer" has the same meaning as it has in the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, implemented by Council Directive 2009/13/EC of 16 February 2009[^2];
+
+"sea fisherman" has the same meaning that "fisherman" has in the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) implemented by Council Directive (EU) 2017/159 of 19 December 2016[^3].
+
+(7) This section shall not apply to seafarers or sea fishermen.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (16.12.2022) by *European Union (Transparent and Predictable Working Conditions) Regulations 2022* (S.I. No. 686 of 2022), reg. 13(a).
+>
+> F19, F20: Substituted (20.01.2025) by *European Communities (Organisation of Working Time) (Defence Forces) Regulations 2025* (S.I. No. 11 of 2025), reg. 2(c)(i), (ii).
+>
+> F21, F22: Inserted (16.12.2022) by *European Union (Transparent and Predictable Working Conditions) Regulations 2022* (S.I. No. 686 of 2022), reg. 13(b), (c).
+>
+> **Editorial Notes:**
+>
+> E99: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+
+### 18. Prohibition of zero hours working practices in certain circumstances and minimum payment in certain circumstances
+
+F23[**18.**—(1) This section applies to an employee whose contract of employment operates to require the employee to make himself or herself available to work for the employer in a week—
+
+(*a*) a certain number of hours ("the contract hours"),
+
+(*b*) as and when the employer requires him or her to do so, or
+
+(*c*) both a certain number of hours and otherwise as and when the employer requires him or her to do so,
+
+and the requirement is not one that is held to arise by virtue only of the fact, if such be the case, of the employer having engaged the employee to do work of a casual nature for him or her on occasions prior to that week (whether or not the number of those occasions or the circumstances otherwise touching the engagement of the employee are such as to give rise to a reasonable expectation on his or her part that he or she would be required by the employer to do work for the employer in that week).
+
+(2) In a contract for a certain number of hours of work referred to in *paragraphs (a)* and *(c)* of *subsection (1)*, the number of hours concerned shall be greater than zero.
+
+(3) Notwithstanding *subsection (1)*, *subsection (2)* shall not apply to—
+
+(*a*) work done in emergency circumstances, or
+
+(*b*) short-term relief work to cover routine absences for that employer.
+
+(4) If an employer does not require an employee to whom this section applies to work for the employer in a week referred to in *subsection (1)*—
+
+(*a*) in a case falling within *paragraph (a)* of that subsection, at least 25 per cent of the contract hours, or
+
+(*b*) in a case falling within *paragraph (b)* or *(c)* of that subsection where work of the type which the employee is required to make himself or herself available to do has been done for the employer in that week, at least 25 per cent of the hours for which such work has been done in that week,
+
+then the employee shall, subject to this section, be entitled—
+
+(i) in a case where the employee has not been required to work for the employer at all in that week, to be paid by the employer the pay he or she would have received if he or she had worked for the employer in that week whichever of the following is less, namely—
+
+(I) the percentage of hours referred to in *paragraph (a)* or *(b)*, as the case may be, or
+
+(II) 15 hours,
+
+(ii) in a case where the employee has been required to work for the employer in that week less than the percentage of hours referred to in *paragraph (a)* or *(b)*, as the case may be (and that percentage of hours is less than 15 hours), to have his or her pay for that week calculated on the basis that he or she worked for the employer in that week the percentage of hours referred to in *paragraph (a)* or *(b)*, as the case may be,
+
+and the minimum payment shall be calculated as 3 times the national minimum hourly rate of pay within the meaning of the National Minimum Wage Acts 2000 and 2015 or 3 times the minimum hourly rate of remuneration established by an employment regulation order, for the time being in force, on each occasion that this occurs.
+
+(5) *Subsection (4)* shall not apply—
+
+(*a*) if the fact that the employee concerned was not required to work in the week in question the percentage of hours referred to in *paragraph (a)* or *(b)* of that subsection, as the case may be—
+
+(i) constituted a lay-off or a case of the employee being kept on short-time for that week, or
+
+(ii) was due to exceptional circumstances or an emergency (including an accident or the imminent risk of an accident), the consequences of which could not have been avoided despite the exercise of all due care, or otherwise to the occurrence of unusual and unforeseeable circumstances beyond the employer’s control,
+
+or
+
+(*b*) if the employee concerned would not have been available, due to illness or for any other reason, to work for the employer in that week the said percentage of hours.
+
+(6) The reference in *subsection (4)(b)* to the hours for which work of the type referred to in that provision has been done in the week concerned shall be construed as a reference to the number of hours of such work done in that week by another employee of the employer concerned or, in case that employer has required 2 or more employees to do such work for him or her in that week and the number of hours of such work done by each of them in that week is not identical, whichever number of hours of such work done by one of those employees in that week is the greatest.
+
+(7) References in this section to an employee being required to make himself or herself available to do work for the employer shall not be construed as including references to the employee being required to be on call, that is to say to make himself or herself available to deal with any emergencies or other events or occurrences which may or may not occur.
+
+(8) Nothing in this section shall affect the operation of a contract of employment that entitles the employee to be paid wages by the employer by reason, alone, of the employee making himself or herself available to do, at the times and place concerned, the work concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (4.03.2019) by *Employment (Miscellaneous Provisions) Act 2018* (38/2018), s. 15, S.I. No. 69 of 2019.
+>
+> **Editorial Notes:**
+>
+> E100: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+
+### 18A. Banded hours
+
+F24[**18A.**—(1) Where an employee’s contract of employment or statement of terms of employment does not reflect the number of hours worked per week by an employee over a reference period, the employee shall be entitled to be placed in a band of weekly working hours specified in the Table to this section.
+
+(2) In accordance with *subsection (1)*, where an employee believes that he or she is entitled to be placed in a band of weekly working hours, he or she shall inform the employer and request, in writing, to be so placed.
+
+(3) The employee shall be placed by the employer in a band of weekly working hours from a date that is not greater than 4 weeks from the date the employee made the request under *subsection (2)*.
+
+(4) The band of weekly working hours on which the employee is entitled to be placed shall be determined by the employer on the basis of the average number of hours worked by that employee per week during the reference period.
+
+(5) An employer may refuse to place an employee on the band requested—
+
+(*a*) where there is no evidence to support the claim in relation to the hours worked in the reference period,
+
+(*b*) where there has been significant adverse changes to the business, profession or occupation carried on by the employer during or after the reference period,
+
+(*c*) in circumstances to which *section 5* applies, or
+
+(*d*) where the average of the hours worked by the employee during the reference period were affected by a temporary situation that no longer exists.
+
+(6) This section shall not apply to banded hour arrangements which have been entered into by agreement following collective bargaining.
+
+(7) An employee placed on a band of weekly working hours shall work hours the average of which shall fall within that band for a period of not less than 12 months following that placement.
+
+(8) Where an employee believes that his or her employer has failed to place the employee in a band of weekly working hours in accordance with subsection (3), having been requested to do so under *subsection (2)* or unreasonably refused a request to be placed on a band of weekly working hours, the employee may make a complaint in accordance with Part 4 of the Workplace Relations Act 2015.
+
+(9) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a failure to comply with this section shall do one or more of the following, namely—
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded, and
+
+(*b*) where the decision is that the complaint was well founded, require the employer to comply with this section and place the employee on the appropriate band of hours.
+
+(10) Notwithstanding *section 27(3)(c)*, a decision in accordance with *subsection (9)(b)* shall not order an employer to pay compensation to the employee for the employer’s failure to comply with this section.
+
+(11) Either party to proceedings under *subsection (8)* may appeal a decision of an adjudication officer to the Labour Court in accordance with section 44 of the Workplace Relations Act 2015.
+
+(12) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in this section shall affirm, vary or set aside the decision of the adjudication officer.
+
+(13) Nothing in this section requires an employer to offer hours of work in a week where the employee was not expected to work, or requires an employer to offer hours of work in a week where the employer’s regular occupation, profession or trade is not being carried out.
+
+(14) In this section ‘reference period’ means a period of 12 months after the commencement of employment with the employer and immediately before the employee makes a request under *subsection (2)*, and a continuous period of employment with that employer occurring immediately before the commencement of *section 18*A shall be reckonable for the purposes of this section.
+
+TABLE
+
+*Bands of weekly working hours*
+
+| Band | From | To |
+|---|---|---|
+| A | 3 hours | 6 hours |
+| B | 6 hours | 11 hours |
+| C | 11 hours | 16 hours |
+| D | 16 hours | 21 hours |
+| E | 21 hours | 26 hours |
+| F | 26 hours | 31 hours |
+| G | 31 hours | 36 hours |
+| H | 36 hours and over ] |  |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (4.03.2019) by *Employment (Miscellaneous Provisions) Act 2018* (38/2018), s. 16, S.I. No. 69 of 2019.
+
+## PART IIIHolidays — PART III — Holidays
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E101: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders under which application of this Part could be restricted. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E102: Previous affecting provisions: application of Part restricted (in so far as requirement for qualifying hours does not apply) (29.06.2007) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2007* (S.I. No. 311 of 2007), art. 3 & sch., part II, s. II(c).
+>
+> E103: Previous affecting provision: application of Part restricted (in so far as requirement for qualifying hours does not apply) (29.06.2007) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2005* (S.I. No. 310 of 2007), reg. 2 and sch., part II, s. II(c).
+>
+> E104: Previous affecting provision: application of Part restricted (2.09.2006) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2006* (S.I. No. 459 of 2006), reg. 2 and sch. part II s. II(c); revoked (29.06.2007) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee 2007* (S.I. No. 310 of 2007).
+>
+> E105: Previous affecting provision: application of Part restricted (2.09.2006) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee (No.2) 2006)* (S.I. No. 458 of 2006), reg. 2 and sch. part II s. II(c); revoked (29.06.2007) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee 2007* (S.I. No. 311 of 2007), reg. 3.
+>
+> E106: Previous affecting provision: application of Part restricted (2.03.2006) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2006* (S.I. No. 73 of 2006), reg. 2 and sch. part II s. II(c); revoked (2.09.2006) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee (No.2) 2006* (S.I. No. 459 of 2006).
+>
+> E107: Previous affecting provision: application of Part restricted (2.03.2006) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee 2006* (S.I. No. 72 of 2006), reg. 2 and sch. part II s. II(c); revoked (2.09.2006) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee (No.2) 2006)* (S.I. No. 458 of 2006), reg. 3.
+>
+> E108: Previous affecting provision: application of Part restricted (2.09.2005) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2005*, s. II, S.I. No. 524 of 2005; revoked (2.03.2006) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2006* (S.I. No. 73 of 2006).
+>
+> E109: Previous affecting provision: application of Part restricted (2.09.2005) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2005* (S.I. No. 523 of 2005), reg. 2 and sch. part II s. II(c); revoked (2.03.2006) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2006*(S.I. No. 72 of 2006), reg. 3.
+>
+> E110: Previous affecting provision: application of Part restricted (1.03.2004) by*Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee 2004* (S.I. No. 60 of 2004), reg. 2 and sch. part II s. II(c); revoked (2.09.2005) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2005* (S.I. No. 524 of 2005), reg. 3.
+>
+> E111: Previous affecting provision: application of Part restricted (1.03.2004) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2004* (S.I. No. 59 of 2004), reg. 2 and sch. part II s. II(c); revoked (2.09.2005) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee 2005* (S.I. No. 523 of 2005), reg. 3.
+>
+> Previous affecting provision: application of Part restricted (1.08.2003) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2003* (S.I. No. 354 of 2003), revoked (1.03.2004) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2004* (S.I. No. 60 of 2004), reg. 3.
+>
+> E112: Previous affecting provision: application of Part restricted (1.08.2003) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2003* (S.I. No. 353 of 2003), reg. 2 and sch. part II s. II(c); revoked (1.03.2004) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2004* (S.I. No. 59 of 2004), reg. 3.
+>
+> E113: Previous affecting provision: application of Part restricted (7.05.2002) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2002* (S.I. No. 158 of 2002), reg. 2 and sch. part II s. II(c); revoked (1.08.2003) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committe) 2003* (S.I. No. 354 of 2003), reg. 3.
+>
+> E114: Previous affecting provision: application of Part restricted (7.05.2002) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2002* (S.I. No. 157 of 2002), reg. 2 and sch. part II s. II(c); revoked (1.08.2003) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2003* (S.I. No. 353 of 2003), reg. 3.
+>
+> E115: Previous affecting provision: application of Part restricted (10.05.2001) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2001* (S.I. No. 185 of 2001), reg. 2 and sch. part II s. II(c); revoked (7.05.2002) by *Employment Regulation Order (Contract Cleaning (Excluding the City and County of Dublin) Joint Labour Committee) 2002* (S.I. No. 158 of 2002).
+>
+> E116: Previous affecting provision: application of Part restricted (10.05.2001) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2001* (S.I. No. 184 of 2001), reg. 2 and sch. part II s. II(c); revoked (7.05.2002) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2002* (S.I. No. 157 of 2002), reg. 3.
+>
+> E117: Previous affecting provision: application of Part restricted (1.04.2000) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2000* (S.I. No. 84 of 2000), reg. 2 and sch. part II s. II(c); revoked (10.05.2001) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2001* (S.I. No. 184 of 2001), reg. 3.
+>
+> E118: Previous affecting provision: application of Part restricted (1.06.1999) by *Employment Regulation Order (Contract Cleaning (City and Country of Dublin) Joint Labour Committee) 1999* (S.I. No. 152 of 1999), reg. 2 and sch. part II s. II(c); revoked (10.05.2001) by *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2000* (S.I. No. 84 of 2000), reg. 3.
+
+### 19. Entitlement to annual leave.
+
+**19.**—(1) Subject to the *First Schedule* (which contains transitional provisions in respect of the leave years 1996 to 1998), an employee shall be entitled to paid annual leave (in this Act referred to as “annual leave”) equal to—
+
+(*a*) 4 working weeks in a leave year in which he or she works at least 1,365 hours (unless it is a leave year in which he or she changes employment),
+
+(*b*) one-third of a working week for each month in the leave year in which he or she works at least 117 hours, or
+
+(*c*) 8 per cent. of the hours he or she works in a leave year (but subject to a maximum of 4 working weeks):
+
+Provided that if more than one of the preceding paragraphs is applicable in the case concerned and the period of annual leave of the employee, determined in accordance with each of those paragraphs, is not identical, the annual leave to which the employee shall be entitled shall be equal to whichever of those periods is the greater.
+
+F25[(1A) For the purposes of this section, a day that an employee was absent from work due to illness shall, if the employee provided to his or her employer a certificate of a registered medical practitioner in respect of that illness, be deemed to be a day on which the employee was—
+
+(*a*) at his or her place of work or at his or her employer’s disposal, and
+
+(*b*) carrying on or performing the activities or duties of his or her work.]
+
+(2) A day which would be regarded as a day of annual leave shall, if the employee concerned is ill on that day and furnishes to his or her employer a certificate of a registered medical practitioner in respect of his or her illness, not be regarded, for the purposes of this Act, as a day of annual leave.
+
+(3) The annual leave of an employee who works 8 or more months in a leave year shall, subject to the provisions of any employment regulation order, registered employment agreement, collective agreement or any agreement between the employee and his or her employer, include an unbroken period of 2 weeks.
+
+(4) Notwithstanding *subsection (2)* or any other provision of this Act but without prejudice to the employee’s entitlements under *subsection (1)*, the reference in *subsection (3)* to an unbroken period of 2 weeks includes a reference to such a period that includes one or more public holidays or days on which the employee concerned is ill.
+
+(5) An employee shall, for the purposes of *subsection (1)*, be regarded as having worked on a day of annual leave the hours he or she would have worked on that day had it not been a day of annual leave.
+
+(6) References in this section to a working week shall be construed as references to the number of days that the employee concerned usually works in a week.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 86(1)(a), S.I. No. 338 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> C20: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> C21: Application of section restricted by *European Communities (Merchant Shipping) (Organisation of Working Time) Regulations 2003* (S.I. No. 532 of 2003), reg. 10A(1), as inserted (4.07.2014) by *European Communities (Merchant Shipping) (Organisation of Working Time) (Amendment) Regulations 2014* (S.I. No. 245 of 2014), reg. 2(i), in effect as per reg. 1(2).
+>
+> *Entitlement to annual leave*
+>
+> 10A. (1) Notwithstanding section 19 of the Organisation of Working Time Act 1997 (No. 20 of 1997), a seafarer is entitled to paid annual leave calculated on the basis of a minimum of 2 and a half calendar days per month of employment and on a pro rata basis for incomplete months.
+>
+> (2) Annual leave to which a seafarer is entitled under this Regulation may not be replaced by a payment in lieu except where the seafarer’s employment is terminated.
+>
+> C22: Term “registered medical practitioner” construed (3.07.2008) by *Medical Practitioners Act 2007* (25/2007), s. 108(1), S.I. No. 231 of 2008.
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc.**
+>
+> **108.**— (1) Every reference to a registered medical practitioner contained in any enactment or any statutory instrument shall be construed as a reference to a registered medical practitioner within the meaning of section 2.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E119: Compliance notice procedure in respect of subss. (1) and (1A) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+
+### 20. Times and pay for annual leave.
+
+**20.**—(1) The times at which annual leave is granted to an employee shall be determined by his or her employer having regard to work requirements and subject—
+
+(*a*) to the employer taking into account—
+
+(i) the need for the employee to reconcile work and any family responsibilities,
+
+(ii) the opportunities for rest and recreation available to the employee,
+
+(*b*) to the employer having consulted the employee or the trade union (if any) of which he or she is a member, not later than 1 month before the day on which the annual leave or, as the case may be, the portion thereof concerned is due to commence, and
+
+F26[(*c*) to the leave being granted—
+
+(i) within the leave year to which it relates,
+
+(ii) with the consent of the employee, within the period of 6 months after the end of that leave year, or
+
+(iii) where the employee—
+
+(I) is, due to illness, unable to take all or any part of his or her annual leave during that leave year or the period specified in subparagraph (ii), and
+
+(II) has provided a certificate of a registered medical practitioner in respect of that illness to his or her employer,
+
+within the period of 15 months after the end of that leave year.]
+
+(2) The pay in respect of an employee’s annual leave shall—
+
+(*a*) be paid to the employee in advance of his or her taking the leave,
+
+(*b*) be at the normal weekly rate or, as the case may be, at a rate which is proportionate to the normal weekly rate, and
+
+(*c*) in a case in which board or lodging or, as the case may be, both board and lodging constitute part of the employee’s remuneration, include compensation, calculated at the prescribed rate, for any such board or lodging as will not be received by the employee whilst on annual leave.
+
+(3) Nothing in this section shall prevent an employer and employee from entering into arrangements that are more favourable to the employee with regard to the times of, and the pay in respect of, his or her annual leave.
+
+(4) In this section “normal weekly rate” means the normal weekly rate of the employee concerned’s pay determined in accordance with regulations made by the Minister for the purposes of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Substituted (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 86(1)(b), S.I. No. 338 of 2015.
+>
+> **Editorial Notes:**
+>
+> E120: Power pursuant to section exercised (8.12.1997) by *Organisation of Working Time (Determination of Pay For Holidays) Regulations 1997* (S.I. No. 475 of 1997).
+
+### 21. Entitlement in respect of public holidays.
+
+**21.**—(1) Subject to the provisions of this section, an employee shall, in respect of a public holiday, be entitled to whichever one of the following his or her employer determines, namely—
+
+(*a*) a paid day off on that day,
+
+(*b*) a paid day off within a month of that day,
+
+(*c*) an additional day of annual leave,
+
+(*d*) an additional day’s pay:
+
+Provided that if the day on which the public holiday falls is a day on which the employee would, apart from this subsection, be entitled to a paid day off this subsection shall have effect as if *paragraph (a)* were omitted therefrom.
+
+(2) An employee may, not later than 21 days before the public holiday concerned, request his or her employer to make, as respects the employee, a determination under *subsection (1)* in relation to a particular public holiday and notify the employee of that determination at least 14 days before that holiday.
+
+(3) If an employer fails to comply with a request under *subsection (2)*, he or she shall be deemed to have determined that the entitlement of the employee concerned under *subsection (1)* shall be to a paid day off on the public holiday concerned or, in a case to which the proviso to *subsection (1)* applies, to an additional day’s pay.
+
+(4) *Subsection (1)* shall not apply, as respects a particular public holiday, to an employee (not being an employee who is a whole-time employee) unless he or she has worked for the employer concerned at least 40 hours during the period of 5 weeks ending on the day before that public holiday.
+
+(5) *Subsection (1)* shall not apply, as respects a particular public holiday, to an employee who is, other than on the commencement of this section, absent from work immediately before that public holiday in any of the cases specified in the *Third Schedule*.
+
+(6) For the avoidance of doubt, the reference in the proviso to *subsection (1)* to a day on which the employee is entitled to a paid day off includes a reference to any day on which he or she is not required to work, the pay to which he or she is entitled in respect of a week or other period being regarded, for this purpose, as receivable by him or her in respect of the day or days in that period on which he or she is not required to work as well as the day or days in that period on which he or she is required to work.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C23: Application of subs. (1) restricted (2.07.2001) by *Carer's Leave Act 2001* (19/2001), s. 13(3), commenced on enactment.
+>
+> **Protection of employment rights.**
+>
+> **13.**— ...
+>
+> (3) Section 21(1) of the Organisation of Working Time Act, 1997, shall apply to the first 13 weeks of absence from work on carer's leave for each relevant person and shall not apply to public holidays that occur after such period of absence from work.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E121: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E122: Rates under section determined (8.12.1997) by *Organisation of Working Time (Determination of Pay For Holidays) Regulations 1997* (S.I. No. 475 of 1997), reg. 4.
+>
+> E123: Declared unconstitutional: *Industrial Relations Act 1946* (26/1946), ss. 42, 43 and 45 and *Industrial Relations Act 1990* (19/1990), s. 48 purported to allow the making of employment regulation orders under which application of this section could be restricted. These provisions and employment regulation orders made under them were declared unconstitutional in *John Grace Fried Chicken Ltd and Others v Catering Joint Labour Committee and Others* [2011] IEHC 277.
+>
+> E124: Previous affecting provisions: orders in relation to agricultural workers and contract cleaners (Dublin City and County) restricted the application of this section in relation to part time or short time workers in *Employment Regulation Order (Agricultural Workers Joint Labour Committee) 2008* (S.I. No. 93 of 2008), art. 2 and sch., part IV para. 3, *Employment Regulation Order (Contract Cleaning (City and County of Dublin) Joint Labour Committee) 2007* (S.I. No. 311 of 2007), part II section II(c) and those annually preceding them.
+
+### 22. Public holidays: supplemental provisions.
+
+**22.**—(1) The rate—
+
+(*a*) at which an employee is paid in respect of a day off under *section 21*, and
+
+(*b*) of an employee’s additional day’s pay under that section,
+
+shall be such rate as is determined in accordance with regulations made by the Minister for the purposes of that section.
+
+(2) For the purposes of *section 21*, time off granted to an employee under that section or *section 19* shall be regarded as time worked by the employee.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E125: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E126: Power pursuant to section exercised (8.12.1997) by *Organisation of Working Time (Determination of Pay For Holidays) Regulations 1997* (S.I. No. 475 of 1997).
+
+### 23. Compensation on cesser of employment.
+
+**23.**—F27[(1) (*a*) Where—
+
+(i) an employee ceases to be employed, and
+
+(ii) the whole or any portion of the annual leave in respect of the relevant period remains to be granted to the employee,
+
+the employee shall, as compensation for the loss of that annual leave, be paid by his or her employer an amount equal to the pay, calculated at the normal weekly rate or, as the case may be, at a rate proportionate to the normal weekly rate, that he or she would have received had he or she been granted that annual leave.
+
+(*b*) In this subsection—
+
+"relevant period" means—
+
+(i) in relation to a cessation of employment of an employee to whom *subparagraph (i)* of *paragraph (c)* of *subsection (1)* of *section 20* applies, the current leave year,
+
+(ii) in relation to a cessation of employment of an employee to whom *subparagraph (ii)* of the said *paragraph (c)* applies, that occurs during the first 6 months of the current leave year—
+
+(I) the current leave year, and
+
+(II) the leave year immediately preceding the current leave year,
+
+(iii) in relation to a cessation of employment of an employee to whom *subparagraph (iii)* of the said *paragraph (c)* applies, that occurs during the first 12 months of the period of 15 months referred to in the said *subparagraph (iii)* —
+
+(I) the current leave year, and
+
+(II) the leave year immediately preceding the current leave year,
+
+or
+
+(iv) in relation to a cessation of employment of an employee to whom *subparagraph (iii)* of the said *paragraph (c)* applies that occurs during the final 3 months of the period of 15 months referred to in the said *subparagraph (iii)* —
+
+(I) the current leave year, and
+
+(II) the 2 leave years immediately preceding the current leave year.]
+
+(2) Where—
+
+(*a*) an employee ceases to be employed during the week ending on the day before a public holiday, and
+
+(*b*) the employee has worked for his or her employer during the 4 weeks preceding that week,
+
+the employee shall, as compensation for the loss of his or her entitlements under *section 21* in respect of the said public holiday, be paid by his or her employer an amount equal to an additional day’s pay calculated at the appropriate daily rate.
+
+(3) If an employee ceases to be employed by reason of his or her death, any compensation payable under this section shall be paid to the personal representative of the employee.
+
+(4) Where compensation is payable under *subsection (2)*, the employee concerned shall, for the purpose of Chapter 9 of Part II of the Social Welfare (Consolidation) Act, 1993 (which relates to unemployment benefit) and Chapter 2 of Part III of that Act (which relates to unemployment assistance), be regarded as not having been, on the public holiday concerned, in the employment of the employer concerned.
+
+(5) In this section “appropriate daily rate” and “normal weekly rate” mean, respectively, the appropriate daily rate of the employee concerned’s pay and the normal weekly rate of the employee concerned’s pay determined in accordance with regulations made by the Minister for the purposes of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 86(1)(c), S.I. No. 338 of 2015.
+>
+> **Editorial Notes:**
+>
+> E127: Compliance notice procedure in respect of subss. (1) and (2) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+>
+> E128: Power pursuant to section exercised (8.12.1997) by *Organisation of Working Time (Determination of Pay For Holidays) Regulations 1997* (S.I. No. 475 of 1997).
+
+## PART IVMiscellaneous — PART IV — Miscellaneous
+
+### 24. Approval of collective agreements by Labour Court.
+
+**24.**—(1) In this section “collective agreement” means a collective agreement referred to in *section 4*, *15* or *16* or *paragraph 4 (a)* of the *First Schedule* F28[or in regulation 9(4) or 10(2) of the Activities of Doctors in Training Regulations].
+
+(2) On an application being made in that behalf by any of the parties thereto, the Labour Court may, subject to the provisions of this section, approve of a collective agreement.
+
+(3) On receipt of an application under this section, the Labour Court shall consult such representatives of employees and employers as it considers to have an interest in the matters to which the collective agreement, the subject of the application, relates.
+
+(4) The Labour Court shall not approve of a collective agreement unless the following conditions are fulfilled as respects that agreement, namely—
+
+(*a*) in the case of a collective agreement referred to in *section 4*, *15* or *16* F28[or regulation 9(4) or 10(2) of the Activities of Doctors in Training Regulations], the Labour Court is satisfied that it is appropriate to approve of the agreement having regard to the provisions of the Council Directive permitting the entry into collective agreements for the purposes concerned,
+
+(*b*) the agreement has been concluded in a manner usually employed in determining the pay or other conditions of employment of employees in the employment concerned,
+
+(*c*) the body which negotiated the agreement on behalf of the employees concerned is the holder of a negotiation licence under the Trade Union Act, 1941, or is an excepted body within the meaning of that Act which is sufficiently representative of the employees concerned,
+
+(*d*) the agreement is in such form as appears to the Labour Court to be suitable for the purposes of the agreement being approved of under this section.
+
+(5) Where the Labour Court is not satisfied that the condition referred to in *paragraph (a)* or *(d)* of *subsection (4)* is fulfilled in relation to a collective agreement, the subject of an application under *subsection (2)* (but is satisfied that the other conditions referred to in that subsection are fulfilled in relation to the agreement), it may request the parties to the agreement to vary the agreement in such manner as will result in the said condition being fulfilled and if those parties agree so to vary the agreement and vary it, accordingly, the Labour Court shall approve of the agreement as so varied.
+
+(6) Where a collective agreement which has been approved of under this section is subsequently varied by the parties thereto, any of the said parties may apply to the Labour Court to have the agreement, as so varied, approved of by the Labour Court under this section and the provisions of this section shall apply to such an application as they apply to an application under *subsection (2)*.
+
+(7) The Labour Court may withdraw its approval of a collective agreement under this section where it is satisfied that there are substantial grounds for so doing.
+
+(8) The Labour Court shall determine the procedures to be followed by a person in making an application under *subsection (2)* or *(6)*, by the Labour Court in considering any such application or otherwise performing any of its functions under this section and by persons generally in relation to matters falling to be dealt with under this section.
+
+(9) The Labour Court shall publish, in such manner as it thinks fit, particulars of the procedures referred to in *subsection (8)*.
+
+(10) The Labour Court shall establish and maintain a register of collective agreements standing approved of by it under this section and such a register shall be made available for inspection by members of the public at all reasonable times.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(c) and (d).
+
+### 25. Records.
+
+**25.**—(1) An employer shall keep, at the premises or place where his or her employee works or, if the employee works at two or more premises or places, the premises or place from which the activities that the employee is employed to carry on are principally directed or controlled, such records, in such form, if any, as may be prescribed, as will show whether the provisions of this F29[Act and, where applicable, the Activities of Doctors in Training Regulations] are being complied with in relation to the employee and those records shall be retained by the employer for at least 3 years from the date of their making.
+
+(2) The Minister may by regulations exempt from the application of *subsection (1)* any specified class or classes of employer and regulations under this subsection may provide that any such exemption shall not have effect save to the extent that specified conditions are complied with.
+
+(3) An employer who, without reasonable cause, fails to comply with *subsection (1)* shall be guilty of an offence.
+
+(4) Without prejudice to *subsection (3)*, where an employer fails to keep records under *subsection (1)* in respect of his or her compliance with a particular provision of this F29[Act or the Activities of Doctors in Training Regulations] in relation to an employee, the onus of proving, in proceedings before a rights commissioner or the Labour Court, that the said provision was complied with in relation to the employee shall lie on the employer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 11(1).
+>
+> **Modifications (not altering text):**
+>
+> C24: Application of section restricted (27.07.2022) by *European Union (Organisation of Working Time in Inland Waterway Transport) Regulations 2022* (S.I. No. 392 of 2022), reg. 3(3).
+>
+> *Scope*
+>
+> 3\. (1) These Regulations shall apply to workers employed on board a craft operated within the State in the commercial inland waterway transport sector.
+>
+> (2) Inland waterway transport operators shall not be considered workers within the meaning of these Regulations, even if they have the status of workers in their own undertaking.
+>
+> (3) Sections 11, 12, 13, 15, 16, 19 and 25 of the Organisation of Working Time Act, 1997 (No. 20 of 1997) do not apply to workers employed on board a craft operated in the commercial inland waterway transport sector.
+>
+> **Editorial Notes:**
+>
+> E129: Power pursuant to section exercised (31.07.2015) by *Organisation of Working Time (Non-Application of Certain Provisions to Persons Performing Mobile Road Transport Activities) Regulations 2015* (S.I. No. 342 of 2015).
+>
+> E130: Form of records prescribed (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 11(2) and (1.11.2001) by *Organisation of Working Time (Records) (Prescribed Form and Exemptions) Regulations 2001* (S.I. No. 473 of 2001).
+>
+> E131: Classes of employers exempt under subs. (2) prescribed (1.11.2001) by *Organisation of Working Time (Records) (Prescribed Form and Exemptions) Regulations 2001* (S.I. No. 473 of 2001), reg. 5.
+>
+> E132: Power pursuant to section exercised (1.11.2001) by *Organisation of Working Time (Records) (Prescribed Form and Exemptions) Regulations 2001* (S.I. No. 473 of 2001), subject to restriction of application (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 11(5).
+
+### 26. Refusal by an employee to co-operate with employer in breaching Act.
+
+F30[**26.** —(1) An employer shall not penalise or threaten penalisation of an employee for—
+
+(*a*) invoking any right conferred on him or her by this Act,
+
+(*b*) having in good faith opposed by lawful means an act that is unlawful under this Act,
+
+(*c*) giving evidence in any proceedings under this Act, or
+
+(*d*) giving notice of his or her intention to do any of the things referred to in the preceding paragraphs.
+
+(2) *Subsection (1)* does not apply to the making of a complaint that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.
+
+(3) In proceedings under Part 4 of the Workplace Relations Act 2015 in relation to a complaint of a failure to comply with *subsection (1)* it shall be presumed until the contrary is proved that the employee concerned has acted reasonably and in good faith in forming the opinion and making the communication concerned.
+
+(4) If a penalisation of an employee, in contravention of *subsection (1)*, constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2015, relief may not be granted to the employee in respect of that penalisation both under this Act and under those Acts.
+
+(5) In this section "penalisation" means any act or omission by an employer or a person acting on behalf of an employer that affects an employee to his or her detriment with respect to any term or condition of his or her employment, and, without prejudice to the generality of the foregoing, includes—
+
+(*a*) suspension, lay-off or dismissal (including a dismissal within the meaning of the Unfair Dismissals Acts 1977 to 2015), or the threat of suspension, lay-off or dismissal,
+
+(*b*) demotion or loss of opportunity for promotion,
+
+(*c*) transfer of duties, change of location of place of work, reduction in wages or change in working hours,
+
+(*d*) imposition or the administering of any discipline, reprimand or other penalty (including a financial penalty), and
+
+(*e*) coercion or intimidation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (4.03.2019) by *Employment (Miscellaneous Provisions) Act 2018* (38/2018), s. 17, S.I. No. 69 of 2019.
+>
+> **Editorial Notes:**
+>
+> E133: Previous affecting provision: subs. (1) amended (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(1)(e); section substituted as per F-note above.
+
+### 27. Complaints to rights commissioner.
+
+**27.**—(1) In this section “relevant provision” means—
+
+(*a*) any of the following sections, namely, *section 6(2)*, *sections 11* to *23*, or *section 26*,
+
+F31[(*aa*) any of the following regulations of the Activities of Doctors in Training Regulations, namely, regulations 5 to 10,]
+
+(*b*) the provision referred to in *section 6(1)* of regulations, a collective agreement, registered employment agreement or employment regulation order referred to in that section, or
+
+(c) *paragraph 9* of the *Fifth Schedule*.
+
+(2) F32[...]
+
+(3) F33[A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of a relevant provision shall do one or more of the following, namely:
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded,
+
+(*b*) require the employer to comply with the relevant provision,
+
+(*c*) require the employer to pay to the employee compensation of such amount (if any) as is just and equitable having regard to all of the circumstances, but not exceeding 2 years’ remuneration in respect of the employee’s employment.]
+
+(4) F32[...]
+
+(5) F32[...]
+
+(6) F32[...]
+
+(7) F32[...]
+
+(8) F32[...]
+
+(9) F32[...]
+
+(10) F32[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(1)(f).
+>
+> F32: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F33: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+### 28. F34[Decision of Labour Court on appeal from decision referred to in section 27(3).
+
+**28.**—A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in *subsection (3)* of *section 27* shall affirm, vary or set aside the decision of the adjudication officer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> **Editorial Notes:**
+>
+> E134: Previous affecting provision: subs. (8) substituted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(a), commenced on enactment; section substituted as per F-note above.
+
+### 29. Enforcement of determinations of Labour Court.
+
+**29.**—F35[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 30. Evidence of failure to attend before or give evidence or produce documents to Labour Court.
+
+**30.**—F36[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 31. References to rights commissioner by Minister.
+
+**31.**—F37[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 32. Provisions in relation to outworkers who are employees.
+
+**32.**—(1) An employer who employs any outworkers shall keep, in the prescribed form, a register in which he or she shall cause to be entered prescribed particulars in respect of each such worker for the time being employed by him or her.
+
+(2) The Minister may, by regulations, prohibit an employer from employing outworkers to do a specified class or classes of work unless the employer complies with specified conditions in respect of the employment of the outworkers to do the said work.
+
+(3) An employer who—
+
+(*a*) fails to comply with *subsection (1)*, or
+
+(*b*) fails to comply with any condition specified in regulations under *subsection (2)* in respect of the employment by him or her of an outworker to do work of a class specified in such regulations,
+
+shall be guilty of an offence.
+
+### 33. Prohibition on double employment.
+
+**33.**—(1) An employer shall not employ an employee to do any work in a relevant period during which the employee has done work for another employer, except where the aggregate of the periods for which such an employee does work for each of such employers respectively in that relevant period does not exceed the period for which that employee could, lawfully under this F38[Act or the Activities of Doctors in Training Regulations], be employed to do work for one employer in that relevant period.
+
+(2) In *subsection (1)* “relevant period” means a period of—
+
+(*a*) 24 hours,
+
+(*b*) 7 days, or
+
+(*c*) 12 months.
+
+(3) Whenever an employer employs an employee in contravention of *subsection (1)*, the employer and the employee shall each be guilty of an offence.
+
+(4) Where an employer is prosecuted for an offence under this section it shall be a good defence for him or her to prove—
+
+(*a*) that he or she neither knew nor could by reasonable enquiry have known that the employee concerned had done work for any other employer in the period of 24 hours, 7 days or 12 months, as the case may be, in respect of which the prosecution is brought, or
+
+(*b*) that he or she neither knew nor could by reasonable enquiry have known that the aggregate of the periods for which the employee concerned did work in the said period of 24 hours, 7 days or 12 months, as the case may be, exceeded the period for which he or she could lawfully be employed to do work for one employer in the said period of 24 hours, 7 days or 12 months, as the case may be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(1)(g).
+
+### 34. Penalties, proceedings, etc.
+
+**34.**—(1) A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding £1,500.
+
+(2) Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a person being a director, manager, secretary or other officer of that body corporate, or a person who was purporting to act in that capacity, that person shall also be guilty of an offence and be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(3) If the contravention in respect of which a person is convicted of an offence under this Act is continued after the conviction, the person shall be guilty of a further offence on every day on which the contravention continues and for each such offence the person shall be liable, on summary conviction, to a fine not exceeding £500.
+
+(4) Proceedings for an offence under *section 8* or a further offence, in relation to such an offence, under *subsection (3)* may be brought and prosecuted by the Minister.
+
+(5) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+### 35. Codes of practice.
+
+**35.**—(1) In this section
+
+“code of practice” means, in relation to a section of this Act, a code that provides practical guidance as to the steps that may be taken for the purposes of complying with the section;
+
+“the Commission” means the Labour Relations Commission.
+
+(2) The Commission may and, at the request of the Minister, shall, prepare a code of practice for the purposes of any section of this Act (other than *section 6 (2)*) or, in the case of a request by the Minister, a section of this Act (other than *section 6 (2)*) specified in the request.
+
+(3) The Commission, after consultation with the National Authority for Occupational Safety and Health, shall prepare a code of practice for the purposes of *section 6 (2)*.
+
+(4) In preparing a code of practice referred to in *subsection (2)* or *(3)*, the Commission shall invite such organisations representative of employers, such organisations representative of employees, and such other bodies, as the Commission considers appropriate to make submissions, whether orally or in writing, to it in relation to the proposed code of practice and shall have regard to any such submissions made to it, in response to the invitation, by such organisations or bodies.
+
+(5) The Commission shall submit a copy of a code of practice prepared by it under this section to the Minister who may—
+
+(*a*) by order declare the code (which shall be scheduled to the order) to be a code of practice, or
+
+(*b*) make such modifications to the code as he or she considers appropriate and declare the code as so modified (which shall be scheduled to the order) to be a code of practice,
+
+for the purposes of the section or sections concerned of this Act.
+
+(6) The Minister may, at the request of the Commission or of his or her own volition after consultation with the Commission, by order—
+
+(*a*) amend or revoke a code of practice, the subject of an order under *subsection (5)* or this subsection (and the code of practice shall, in case it is amended by the order, be scheduled, in its amended form, to the order),
+
+and
+
+(*b*) declare, accordingly, the code of practice, as appropriate—
+
+(i) to be no longer a code of practice,
+
+or
+
+(ii) in its form as amended by the order, to be a code of practice,
+
+for the purposes of the section or sections concerned of this Act,
+
+and
+
+(*c*) revoke, as the case may be, the order concerned under *subsection (5)* or the previous order concerned under this subsection.
+
+(7) A failure by a person to observe a code of practice under this section shall not of itself render that person liable to any civil or criminal proceedings.
+
+(8) In any proceedings under this Act before a court, the Labour Court or a rights commissioner, a code of practice for the time being declared under *subsection (5)* or *(6)* to be a code of practice for the purposes of one or more sections of this Act shall be admissible in evidence and any provision of the code which appears to the court, the Labour Court or rights commissioner, as the case may be, to be relevant to any question arising in the proceedings shall be taken into account by it, him or her in determining that question.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C25: Reference to Labour Relations Commission construed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 57, S.I. No. 413 of 2015.
+>
+> **Transfer of functions from Labour Relations Commission to Commission**
+>
+> **57.** (1) All functions that, immediately before the dissolution day, were vested in the Labour Relations Commission are transferred to the Commission.
+>
+> (2) References in any enactment or instrument under an enactment to the Labour Relations Commission in so far as they relate to a function transferred by this section shall be construed as references to the Commission.
+>
+> (3) This section shall come into operation on the dissolution day.
+>
+> **Editorial Notes:**
+>
+> E135: The National Authority for Occupational Safety and Health was renamed the Health and Safety Authority (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 32(1)(a), S.I. No. 328 of 2005.
+>
+> E136: Power pursuant to subs. (5)(a) exercised (19.11.1998) by *Organisation of Working Time (Code of Practice on Sunday Working in The Retail Trade and Related Matters) (Declaration) Order 1998* (S.I. No. 444 of 1998).
+>
+> E137: Power pursuant to subs. (5)(b) exercised (24.02.1998) by *Organisation of Working Time (Code of Practice on Compensatory Rest and Related Matters) (Declaration) Order* (S.I. No. 44 of 1998).
+
+### 36. Provisions in relation to Protection of Young Persons (Employment) Act, 1996.
+
+**36.**—(1) In this section “the Act of 1996” means the Protection of Young Persons (Employment) Act, 1996.
+
+(2) Nothing in the preceding sections of this Act shall prejudice the provisions of the Act of 1996.
+
+(3) The obligation of an employer under section 15 of the Act of 1996 to keep the records referred to in that section at the place where the young person or child concerned is employed shall, if the young person or child is employed by the employer at 2 or more places, be construed as an obligation to keep the said records at the place from which the activities that the young person or child is employed to carry on are principally directed or controlled.
+
+(4) Subsection (2) of section 22 of the Act of 1996 is hereby amended by—
+
+(*a*) the insertion in paragraph (*a*) after “work” of “or from which he or she has reasonable grounds for supposing the activities that an employee is employed to carry on are directed or controlled (whether generally or as respects particular matters)”, and
+
+(*b*) the insertion in paragraph (*b*) after “place” of “or any employee the activities aforesaid of whom are directed or controlled from any such premises or place”.
+
+### 37. Voidance of certain provisions.
+
+**37.**—Save as expressly provided otherwise in this F39[Act or the Activities of Doctors in Training Regulations], a provision in an agreement (whether a contract of employment or not and whether made before or after the commencement F40[or coming into operation] of the provision concerned of this F39[Act or the Activities of Doctors in Training Regulations]) shall be void in so far as it purports to exclude or limit the application of, or is inconsistent with, any provision of this F39[Act or the Activities of Doctors in Training Regulations].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(1)(h)(i).
+>
+> F40: Inserted (1.08.2004) by *European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004* (S.I. No. 494 of 2004), reg. 12(1)(h)(ii).
+
+### 38. Amendment of section 51 of Safety, Health and Welfare at Work Act, 1989.
+
+**38.**—
+
+F41[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F41: Repealed (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 4(1), S.I. No. 328 of 2005.
+
+### 39. Powers of rights commissioner, Employment Appeals Tribunal or Labour Court in certain cases.
+
+**39.**—(1) In this section “relevant authority” means a rights commissioner, the Employment Appeals Tribunal or the Labour Court.
+
+(2) A decision (by whatever name called) of a relevant authority under this Act or an enactment F42[or statutory instrument] referred to in the Table to this subsection that does not state correctly the name of the employer concerned or any other material particular may, on application being made in that behalf to the authority by any party concerned, be amended by the authority so as to state correctly the name of the employer concerned or the other material particular.
+
+TABLE
+
+<table><tr><td>Adoptive Leave Act, 1995</td></tr><tr><td>Maternity Protection Act, 1994</td></tr><tr><td>Minimum Notice and Terms of Employment Acts, 1973 to 1991</td></tr><tr><td>F43[<br>National Minimum Wage Act, 2000</td></tr><tr><td>Parental Leave Act, 1998<br>]</td></tr><tr><td>Payment of Wages Act, 1991</td></tr><tr><td>Protection of Employees (Employers’ Insolvency) Acts, 1984 to 1991</td></tr><tr><td>Protection of Young Persons (Employment) Act, 1996</td></tr><tr><td>Redundancy Payments Acts, 1967 to 1991</td></tr><tr><td>Terms of Employment (Information) Act, 1994</td></tr><tr><td>Unfair Dismissals Acts, 1977 to 1993</td></tr><tr><td>F44[<br>Parental Leave Act 1998</td></tr><tr><td>Protection of Persons Reporting Child Abuse Act 1998</td></tr><tr><td>European Communities (Protection of Employment) Regulations 2000 (S.I. No. 488 of 2000)</td></tr><tr><td>Carer’s Leave Act 2001</td></tr><tr><td>Protection of Employees (Part-Time Work) Act 2001</td></tr><tr><td>European Communities (Protection of Employees on the Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)</td></tr><tr><td>Protection of Employees (Fixed-Term Work) Act 2003<br>]</td></tr></table>
+
+(3) The power of a relevant authority under *subsection (2)* shall not be exercised if it would result in a person who was not given an opportunity to be heard in the proceedings on foot of which the decision concerned was given becoming the subject of any requirement or direction contained in the decision.
+
+(4) If an employee wishes to pursue against a person a claim for relief in respect of any matter under an enactment F45[or statutory instrument] referred to in *subsection (2)*, or the Table thereto, and has already instituted proceedings under that enactment F46[or statutory instrument] in respect of that matter, being proceedings in which the said person has not been given an opportunity to be heard and—
+
+(*a*) the fact of the said person not having been given an opportunity to be heard in those proceedings was due to the respondent’s name in those proceedings or any other particular necessary to identify the respondent having been incorrectly stated in the notice or other process by which the proceedings were instituted, and
+
+(*b*) the said misstatement was due to inadvertence,
+
+then the employee may apply to whichever relevant authority would hear such proceedings in the first instance for leave to institute proceedings against the said person (“the proposed respondent”) in respect of the matter concerned under the said enactment F47[or statutory instrument] and that relevant authority may grant such leave to the employee notwithstanding that the time specified under the said enactment F48[or statutory instrument] within which such proceedings may be instituted has expired:
+
+Provided that that relevant authority shall not grant such leave to that employee if it is of opinion that to do so would result in an injustice being done to the proposed respondent.
+
+(5) References in *subsection (4)* to the institution of proceedings in respect of any matter under an enactment F49[or statutory instrument] referred to in *subsection (2)*, or the Table thereto, shall be construed as including references to the presentation of a complaint, or the referral of a dispute, in respect of the said matter, to the relevant authority concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(b)(i), commenced on enactment.
+>
+> F43: Inserted (1.04.2000) by *National Minimum Wage Act 2000* (5/2000), s. 45, S.I. No. 96 of 2000
+>
+> F44: Substituted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(b)(ii), commenced on enactment.
+>
+> F45: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(c), commenced on enactment.
+>
+> F46: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003*(29/2003), s. 19(2)(c), commenced on enactment.
+>
+> F47: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(c), commenced on enactment.
+>
+> F48: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(c), commenced on enactment.
+>
+> F49: Inserted (14.07.2003) by *Protection of Employees (Fixed Term Work) Act 2003* (29/2003), s. 19(2)(d), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C26: Prospective affecting provision: functions transferred and Employment Appeals Tribunal construed by *Workplace Relations Act 2015* (16/2015), s. 66, not commenced as of date of revision.
+>
+> **Transfer of functions from Employment Appeals Tribunal**
+>
+> 66.(1) (*a*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Commission in so far as they relate to any claim for redress, dispute or complaint determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (*b*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Labour Court in so far as they relate to appeals determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (2) (*a*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (a) of subsection (1) shall be construed as references to the Commission.
+>
+> (*b*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (b) of subsection (1) shall be construed as references to the Labour Court.
+>
+> (3) This section shall come into operation on the dissolution day.
+
+### 40. Alternative means of claiming relief in cases of non-compliance with Part III.
+
+**40.**—(1) As respects a failure to comply with any provision of *Part III* in relation to an employee, the employee or, with the consent of the employee, any trade union of which the employee is a member may, in lieu of presenting a complaint in respect of such a failure under *section 27*, include in proceedings to be instituted by him or her or it in respect of any matter under an enactment referred to in the Table to *section 39 (2)* a claim for relief in respect of such a failure and where such a claim is included the following provisions shall have effect:
+
+(*a*) subject to the provisions of this section, the provisions of the said enactment (hereafter in this section referred to as “the relevant enactment”) shall, with any necessary modifications, apply in like respects to the said claim (hereafter in this section referred to as “the holidays claim”) and the procedures to be followed in respect of it (including procedures in respect of appeals) as they apply to the proceedings otherwise under the enactment,
+
+(*b*) the relevant authority that hears the said proceedings may grant the same relief in respect of the holidays claim as a rights commissioner may grant under *section 27 (3)* in respect of such a claim and in so far as the grant of such relief consists of or includes the making of a requirement on the employer concerned to pay compensation to the employee the limit specified in *section 27 (3)* in relation to compensation under that provision shall, in lieu of any limit specified in the relevant enactment in relation to compensation that may be required to be paid under that enactment, apply in relation to such compensation.
+
+(2) Notwithstanding *subsection (1) (a)*—
+
+(*a*) any provision of the relevant enactment requiring proceedings under that enactment to be instituted within a specified period shall not apply to such proceedings in so far, but only in so far, as they relate to the holidays claim,
+
+(*b*) *subsections (4)* and *(5)* of *section 27* shall apply to the hearing of the holidays claim by the relevant authority concerned as they apply to the hearing of a complaint under *section 27* by a rights commissioner.
+
+(3) In this section “relevant authority” has the same meaning as it has in *section 39*.
+
+(4) References in this section to the institution of proceedings in respect of any matter under an enactment referred to in the Table to *section 39 (2)* shall be construed in accordance with *subsection (5)* of *section 39*.
+
+### 41. Increase of penalties under certain enactments.
+
+**41.**—F50[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Repealed (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 4(1), S.I. No. 328 of 2005.
+
+## FIRST SCHEDULE — Transitional Provisions in relation to Annual Leave Entitlements
+
+1\. In *paragraph 2*—
+
+“each working week reference” means, in relation to *section 19(1)*, each reference in that section to 4 working weeks;
+
+“percentage reference” means, in relation to *section 19(1)*, the reference in *paragraph (c)* of that section to 8 per cent.
+
+2\. Subject to *paragraph 4*, *section 19 (1)* shall have effect—
+
+(*a*) in relation to the leave year 1996, as if—
+
+(i) for each working week reference there were substituted a reference to 3 working weeks and for the percentage reference there were substituted a reference to 6 per cent., and
+
+(ii) for *paragraph (b)* of that section there were substituted the following:
+
+“(*b*) the number of working weeks obtained by the formula
+
+<table><tr><td><u>X×Y,</u></td></tr><tr><td>4</td></tr></table>
+
+where ‘X’ and ‘Y’ have the meaning assigned to them by paragraph 3 of the *First Schedule*,”,
+
+(*b*) in relation to the leave year 1997, as if—
+
+(i) for each working week reference there were substituted a reference to 3 working weeks and one day and for the percentage reference there were substituted a reference to 6.4 per cent., and
+
+(ii) for *paragraph (b)* of that section there were substituted the following:
+
+“(*b*) the number of working weeks obtained by the formula
+
+<table><tr><td><u>4×X×Y,</u></td></tr><tr><td>15</td></tr></table>
+
+where ‘X’ and ‘Y’ have the meaning assigned to them by *paragraph 3* of the *First Schedule*,”,
+
+(*c*) in relation to the leave year 1998, as if—
+
+(i) for each working week reference there were substituted a reference to 3 working weeks and 3 days and for the percentage reference there were substituted a reference to 7.2 per cent., and
+
+(ii) for *paragraph (b)* of that section there were substituted the following:
+
+“(*b*) the number of working weeks obtained by the formula
+
+<table><tr><td><u>3×X×Y,</u></td></tr><tr><td>10</td></tr></table>
+
+where ‘X’ and ‘Y’ have the meaning assigned to them by *paragraph 3* of the *First Schedule*,”.
+
+3\. For the purpose of *section 19 (1) (b)* (as that provision has effect by virtue of *subparagraph (a), (b)* or *(c)* of *paragraph* 2), “X” means one working week and “Y” means the number of months in the leave year in each of which the employee concerned works at least 117 hours.
+
+4\. *Subparagraphs (b)* and *(c)* of *paragraph 2* shall not apply in relation to an employee if—
+
+(*a*) a collective agreement that for the time being has effect in relation to the employee and which stands approved of by the Labour Court under *section 24* provides that the said subparagraphs shall not apply in relation to the employee, or
+
+(*b*) the employee is employed in a class of activity which for the time being is specified in regulations made by the Minister to be a class of activity in relation to which the said subparagraphs shall not apply.
+
+5\. As respects an employee referred to in *paragraph 4, section 19 (1)* shall have effect in relation to each of the leave years 1997 and 1998 in the same manner as *paragraph 2 (a)* provides that that section shall have effect in relation to the leave year 1996.
+
+6\. Save as otherwise provided in this Schedule, *Part III* and the other relevant provisions of this Act shall apply in relation to each of the leave years 1996, 1997 and 1998 as that Part and those provisions apply to leave years generally.
+
+## SECOND SCHEDULE — Public Holidays
+
+1\. Each of the following days shall, subject to the subsequent provisions of this Schedule, be a public holiday for the purposes of this Act:
+
+(*a*) Christmas Day,
+
+(*b*) St. Stephen’s Day,
+
+(*c*) St. Patrick’s Day,
+
+(*d*) Easter Monday, the first Monday in May, the first Monday in June and the first Monday in August,
+
+(*e*) the last Monday in October,
+
+(*f*) the 1st day of January,
+
+(*g*) any other day or days prescribed for the purposes of this paragraph.
+
+2\. The Minister may by regulations vary *paragraph 1* by substituting for any day referred to in that paragraph another day.
+
+3\. An employer may, for the purpose of fulfilling any relevant obligation imposed on him or her by this Act, treat as a public holiday, in lieu of a public holiday aforesaid, either—
+
+(*a*) the Church holiday falling in the same year immediately before the public holiday, or
+
+(*b*) the Church holiday falling in the same year immediately after the public holiday or, if the public holiday is a day which is a public holiday by virtue of *paragraph 1 (b)*, the 6th day of January next following,
+
+by giving to the employee concerned notice of his or her intention to do so not less than 14 days before the Church holiday (where that holiday is before the public holiday) or before the public holiday (where that holiday is before the Church holiday or, as the case may be, the said 6th day of January).
+
+4\. Each of the following days shall be a Church holiday for the purposes of *paragraph 3*:
+
+(*a*) the 6th day of January, except when falling on a Sunday,
+
+(*b*) Ascension Thursday,
+
+(*c*) the Feast of Corpus Christi,
+
+(*d*) the 15th day of August, except when falling on a Sunday,
+
+(*e*) the 1st day of November, except when falling on a Sunday,
+
+(*f*) the 8th day of December, except when falling on a Sunday,
+
+(*g*) any other day or days prescribed for the purposes of this paragraph.
+
+5\. The Minister may by regulations vary *paragraph 4* by deleting from that paragraph any day or by substituting, for any day referred to therein, another day.
+
+6\. A notice under *paragraph 3* may be given by delivering a copy of the notice to the employee concerned or by posting a copy of the notice in a conspicuous position in the place of the employee’s employment.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E138: Power pursuant to s. 2 and sch. 2 para. 1(g) exercised (14.09.2011) by *Organisation of Working Time (National Day of Mourning) Regulations 2001* (S.I. No. 419 of 2001).
+>
+> E139: Power pursuant to s. 2 and sch. 2 para. 1(g) exercised (31.12.1999) by *Organisation of Working Time (Public Holiday) Regulations 1999* (S.I. No. 10 of 1999).
+
+## THIRD SCHEDULE — Entitlement under section 21 in respect of Public Holidays: Exceptions
+
+Each of the following are the cases mentioned in *section 21 (5)* of absence by the employee concerned from work immediately before the relevant public holiday:
+
+1\. such an absence, in excess of 52 consecutive weeks, by reason of an injury sustained by the employee in an occupational accident (within the meaning of Chapter 10 of Part II of the Social Welfare (Consolidation) Act, 1993),
+
+2\. such an absence, in excess of 26 consecutive weeks, by reason of an injury sustained by the employee in any accident (not being an accident referred to in *paragraph 1*) or by reason of any disease from which the employee suffers or suffered,
+
+3\. such an absence, in excess of 13 consecutive weeks, caused by any reason not referred to in *paragraph 1* or *2* but being an absence authorised by the employer, including a lay-off,
+
+4\. such an absence by reason of a strike in the business or industry in which the employee is employed.
+
+## FOURTH SCHEDULE — Enactments Repealed
+
+| Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 2 of 1936 | Conditions of Employment Act, 1936. | The whole Act. |
+| No. 42 of 1936 | Night Work (Bakeries) Act, 1936. | The whole Act. |
+| No. 4 of 1938 | Shops (Conditions of Employment) Act, 1938. | The whole Act. |
+| No. 2 of 1942 | Shops (Conditions of Employment) (Amendment) Act, 1942. | The whole Act. |
+| No. 12 of 1944 | Conditions of Employment Act, 1944. | The whole Act. |
+| No. 25 of 1973 | Holidays (Employees) Act, 1973. | The whole Act. |
+| No. 6 of 1981 | Night Work (Bakeries) (Amendment) Act, 1981. | The whole Act. |
+| No. 5 of 1991 | Worker Protection (Regular Part-Time Employees) Act, 1991. | Section 4. |
+
+## FIFTH SCHEDULE — Transitional Provisions in relation to section 15 (1)
+
+1\. In respect of the period of 12 months beginning on the commencement of this Schedule, *subsection (1)* of *section 15* shall have effect as if in that subsection there were substituted for “an average of 48 hours, that is to say an average of 48 hours”, “an average of 48 hours or, if the conditions specified in *paragraph 3* of the *Fifth Schedule* are fulfilled, an average of 60 hours, that is to say an average of 48 or, as the case may be, 60 hours”, and the said *subsection (1)* (other than *paragraphs (a)*, *(b)* and *(c)* thereof) as it has effect in respect of the said period, by virtue of this paragraph, is set out in the Table to this paragraph.
+
+TABLE
+
+(1) An employer shall not permit an employee to work, in each period of 7 days, more than an average of 48 hours or, if the conditions specified in *paragraph 3* of the *Fifth Schedule* are fulfilled, an average of 60 hours, that is to say an average of 48 or, as the case may be, 60 hours calculated over a period (hereafter in this section referred to as a “reference period”) that does not exceed—
+
+2\. In respect of the next period of 12 months immediately following the period of 12 months referred to in *paragraph 1*, *subsection (1)* of *section 15* shall have effect as if in that subsection there were substituted for “an average of 48 hours, that is to say an average of 48 hours”, “an average of 48 hours or, if the conditions specified in *paragraph 3* of the *Fifth Schedule* are fulfilled, an average of 55 hours, that is to say an average of 48 or, as the case may be, 55 hours”, and the said *subsection (1)* (other than *paragraphs (a)*, *(b)* and *(c)* thereof) as it has effect in respect of the said period, by virtue of this paragraph, is set out in the Table to this paragraph.
+
+TABLE
+
+(1) An employer shall not permit an employee to work, in each period of 7 days, more than an average of 48 hours or, if the conditions specified in *paragraph 3* of the *Fifth Schedule* are fulfilled, an average of 55 hours, that is to say an average of 48 or, as the case may be, 55 hours calculated over a period (hereafter in this section referred to as a “reference period”) that does not exceed—
+
+3\. The conditions referred to in *subsection (1)* of *section 15* (as that subsection has effect by virtue of *paragraph 1* or *2*) are:
+
+(*a*) in a case where the employee concerned is an employee in respect of whom a body that holds a negotiation licence under the Trade Union Act, 1941, or an excepted body, within the meaning of that Act (being in either case a body that stands recognised by the employer concerned for the purpose of negotiations concerning the pay or other conditions of employment of the category of employees to whom the employee belongs) has entered into a collective agreement with the employer providing that the provisions of this Schedule shall apply to the employee and—
+
+(i) the employee has consented in writing to such an agreement being entered into in relation to him or her (the giving of such consent having been preceded by an explanation to the employee, in everyday language, by the said body of the statutory consequence that the giving of such consent will have for him or her),
+
+(ii) the employee is named in the agreement, and
+
+(iii) the agreement stands approved of by the Labour Court under *paragraph 4*,
+
+(*b*) in a case where no body of the kind referred to in *subparagraph (a)* stands recognised by the employer concerned for the purpose of negotiations concerning the pay or other conditions of employment of the category of employees to whom the employee concerned belongs, a notice in writing has been given to the Labour Court by the employer concerned of his or her intention to apply the provisions of this Schedule to the employee and—
+
+(i) the employee has consented in writing to such a notice being given in relation to him or her (the giving of such consent having been preceded by an explanation to the employee, in everyday language, by the employer of the statutory consequence that the giving of such consent will have for him or her),
+
+(ii) the employee is named in the notice, and
+
+(iii) the notice stands approved of by the Labour Court under *paragraph 4*.
+
+4\. (1) In this paragraph—
+
+“agreement” means a collective agreement referred to in *paragraph 3 (a)*;
+
+“notice” means a notice referred to in *paragraph 3 (b)*.
+
+(2) On an application being made in that behalf by any of the parties thereto, the Labour Court, may, subject to this paragraph, approve of an agreement.
+
+(3) On receipt by it of a notice, the Labour Court may, subject to this paragraph, approve of the notice.
+
+(4) The Labour Court shall not approve of an agreement or a notice unless—
+
+(*a*) it is satisfied that—
+
+(i) in the case of an agreement—
+
+(I) it has been concluded in a manner usually employed in determining the pay or other conditions of employment of employees in the employment concerned,
+
+and
+
+(II) it is in such form as appears to the Labour Court to be suitable for the purposes of its being approved of under this paragraph,
+
+and
+
+(ii) the employees to whom the agreement or notice relates freely gave their consent in writing to the entering into of the agreement or, as the case may be, the giving of the notice in relation to them,
+
+and
+
+(*b*) neither the safety nor the health of the said employees will, in its opinion after such consultation, if any, as it considers necessary with the National Authority for Occupational Safety and Health, be adversely affected by the application of the provisions of this Schedule to them (and for this purpose the Court shall have regard to its power under *subparagraph (5)* to attach conditions to the grant of the approval).
+
+(5) The Labour Court may attach conditions to the grant of an approval under this paragraph, being conditions the attachment of which the Court, after consultation with the National Authority for Occupational Safety and Health, considers necessary to ensure the safety or health of the employees concerned in consequence of the application of the provisions of this Schedule to them, and such conditions may, notwithstanding anything in the preceding provisions of this Schedule, include a condition (“a time condition”) requiring the employees concerned or a specified class of the employees concerned to work not more than a specified average of hours in a reference period concerned, being an average that is more than 48 hours but less than 60 or, as the case may be, 55 hours.
+
+(6) The Labour Court may amend or revoke any condition attached to the grant of an approval under this paragraph.
+
+(7) Where one or more conditions stand attached to the grant of an approval under this paragraph—
+
+(*a*) in the case of a time condition, the reference in *subsection (1)* of *section 15* (as it has effect by virtue of *paragraph 1* or *2*) to 60 or, as the case may be, 55 hours shall, as respects the employees to whom the condition relates, be construed as a reference to the number of hours specified in the condition,
+
+(*b*) in the case of any other condition or conditions, the reference in the said *subsection (1)* (as it has effect by virtue of either of the said paragraphs) to conditions under *paragraph 3* of this Schedule shall, as respects the employees to whom the condition or conditions relate, be construed as including references to that condition or those conditions.
+
+(8) The Labour Court may withdraw its approval of an agreement or notice under this paragraph where it is satisfied that there are substantial grounds for so doing.
+
+5\. The Labour Court shall determine the procedures to be followed by a person in making an application under *paragraph 4 (2)*, by the Labour Court in considering any such application or otherwise performing any of its functions under this Schedule and by persons generally in relation to matters falling to be dealt with under this Schedule.
+
+6\. The Labour Court shall publish, in such manner as it thinks fit, particulars of the procedures referred to in *paragraph 5*.
+
+7\. The Labour Court shall establish and maintain a register of collective agreements and notices standing approved of by it under this Schedule and such a register shall be made available for inspection by members of the public at all reasonable times.
+
+8\. An employee shall not be subjected to any detriment by his or her employer where he or she refuses to give his or her consent in writing to the entering into of a collective agreement or the giving of a notice under this Schedule in relation to him or her.
+
+9\. (1) An employer shall, if requested by an employee to have such an assessment carried out in relation to him or her, cause to be carried out an assessment as to the effects, if any, on the health of the employee by reason of his or her working, in each period of 7 days, more than an average of 48 hours calculated over the relevant reference period concerned.
+
+(2) An employer shall not be obliged to comply with a request under this paragraph by an employee if that request is made before a reasonable length of time has elapsed since a previous such request has been made of the employer by the employee, being a request that has been complied with.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E140: The National Authority for Occupational Safety and Health was renamed the Health and Safety Authority (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 32(1)(a), S.I. No. 328 of 2005.
+
+## SIXTH SCHEDULE — Text of Council Directive
+
+COUNCIL DIRECTIVE 93/104/EC of 23 November 1993
+
+concerning certain aspects of the organization of working time
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 118a thereof,
+
+Having regard to the proposal from the Commission[^4],
+
+In cooperation with the European Parliament[^5],
+
+Having regard to the opinion of the Economic and Social Committee[^6],
+
+Whereas Article 118a of the Treaty provides that the Council shall adopt, by means of directives, minimum requirements for encouraging improvements, especially in the working environment, to ensure a better level of protection of the safety and health of workers;
+
+Whereas, under the terms of that Article, those directives are to avoid imposing administrative, financial and legal constraints in a way which would hold back the creation and development of small and medium sized undertakings;
+
+Whereas the provisions of Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work[^7] are fully applicable to the areas covered by this Directive without prejudice to more stringent and/or specific provisions contained therein;
+
+Whereas the Community Charter of the Fundamental Social Rights of Workers, adopted at the meeting of the European Council held at Strasbourg on 9 December 1989 by the Heads of State or of Government of 11 Member States, and in particular points 7, first subparagraph, 8 and 19, first subparagraph, thereof, declared that:
+
+‘7. The completion of the internal market must lead to an improvement in the living and working conditions of workers in the European Community. This process must result from an approximation of these conditions while the improvement is being maintained, as regards in particular the duration and organization of working time and forms of employment other than open-ended contracts, such as fixed-term contracts, part-time working, temporary work and seasonal work.
+
+8\. Every worker in the European Community shall have a right to a weekly rest period and to annual paid leave, the duration of which must be progressively harmonized in accordance with national practices.
+
+19\. Every worker must enjoy satisfactory health and safety conditions in his working environment. Appropriate measures must be taken in order to achieve further harmonization of conditions in this area while maintaining the improvements made.’;
+
+Whereas the improvement of workers’ safety, hygiene and health at work is an objective which should not be subordinated to purely economic considerations;
+
+Whereas this Directive is a practical contribution towards creating the social dimension of the internal market;
+
+Whereas laying down minimum requirements with regard to the organization of working time is likely to improve the working conditions of workers in the Community;
+
+Whereas, in order to ensure the safety and health of Community workers, the latter must be granted minimum daily, weekly and annual periods of rest and adequate breaks; whereas it is also necessary in this context to place a maximum limit on weekly working hours;
+
+Whereas account should be taken of the principles of the International Labour Organization with regard to the organization of working time, including those relating to night work;
+
+Whereas, with respect to the weekly rest period, due account should be taken of the diversity of cultural, ethnic, religious and other factors in the Member States; whereas, in particular, it is ultimately for each Member State to decide whether Sunday should be included in the weekly rest period, and if so to what extent;
+
+Whereas research has shown that the human body is more sensitive at night to environmental disturbances and also to certain burdensome forms of work organization and that long periods of night work can be detrimental to the health of workers and can endanger safety at the workplace;
+
+Whereas there is a need to limit the duration of periods of night work, including overtime, and to provide for employers who regularly use night workers to bring this information to the attention of the competent authorities if they so request;
+
+Whereas it is important that night workers should be entitled to a free health assessment prior to their assignment and thereafter at regular intervals and that whenever possible they should be transferred to day work for which they are suited if they suffer from health problems;
+
+Whereas the situation of night and shift workers requires that the level of safety and health protection should be adapted to the nature of their work and that the organization and functioning of protection and prevention services and resources should be efficient;
+
+Whereas specific working conditions may have detrimental effects on the safety and health of workers; whereas the organization of work according to a certain pattern must take account of the general principle of adapting work to the worker;
+
+Whereas, given the specific nature of the work concerned, it may be necessary to adopt separate measures with regard to the organization of working time in certain sectors or activities which are excluded from the scope of this Directive;
+
+Whereas, in view of the question likely to be raised by the organization of working time within an undertaking, it appears desirable to provide for flexibility in the application of certain provisions of this Directive, whilst ensuring compliance with the principles of protecting the safety and health of workers;
+
+Whereas it is necessary to provide that certain provisions may be subject to derogations implemented, according to the case, by the Member States or the two sides of industry; whereas, as a general rule, in the event of a derogation, the workers concerned must be given equivalent compensatory rest periods,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+SECTION I
+
+SCOPE AND DEFINITIONS
+
+Article 1
+
+*Purpose and scope*
+
+1\. This Directive lays down minimum safety and health requirements for the organization of working time.
+
+2\. This Directive applies to:
+
+(*a*) minimum periods of daily rest, weekly rest and annual leave, to breaks and maximum weekly working time; and
+
+(*b*) certain aspects of night work, shift work and patterns of work.
+
+3\. This Directive shall apply to all sectors of activity, both public and private, within the meaning of Article 2 of Directive 89/391/EEC, without prejudice to Article 17 of this Directive, with the exception of air, rail, road, sea, inland waterway and lake transport, sea fishing, other work at sea and the activities of doctors in training;
+
+4\. The provisions of Directive 89/391/EEC are fully applicable to the matters referred to in paragraph 2, without prejudice to more stringent and/or specific provisions contained in this Directive.
+
+Article 2
+
+*Definitions*
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1\. *working time* shall mean any period during which the worker is working, at the employer’s disposal and carrying out his activity or duties, in accordance with national laws and/or practice;
+
+2\. *rest period* shall mean any period which is not working time;
+
+3\. *night time* shall mean any period of not less than seven hours, as defined by national law, and which must include in any case the period between midnight and 5 a.m.;
+
+4\. *night worker* shall mean:
+
+(*a*) on the one hand, any worker, who, during night time, works at least three hours of his daily working time as a normal course; and
+
+(*b*) on the other hand, any worker who is likely during night time to work a certain proportion of his annual working time, as defined at the choice of the Member State concerned:
+
+(i) by national legislation, following consultation with the two sides of industry; or
+
+(ii) by collective agreements or agreements concluded between the two sides of industry at national or regional level;
+
+5\. *shift work* shall mean any method of organizing work in shifts whereby workers succeed each other at the same work stations according to a certain pattern, including a rotating pattern, and which may be continuous or discontinuous, entailing the need for workers to work at different times over a given period of days or weeks;
+
+6\. *shift worker* shall mean any worker whose work schedule is part of shift work.
+
+SECTION II
+
+MINIMUM REST PERIODS—OTHER ASPECTS OF THE ORGANIZATION OF WORKING TIME
+
+Article 3
+
+*Daily rest*
+
+Member States shall take the measures necessary to ensure that every worker is entitled to a minimum daily rest period of 11 consecutive hours per 24-hour period.
+
+Article 4
+
+*Breaks*
+
+Member States shall take the measures necessary to ensure that, where the working day is longer than six hours, every worker is entitled to a rest break, the details of which, including duration and the terms on which it is granted, shall be laid down in collective agreements or agreements between the two sides of industry or, failing that, by national legislation.
+
+Article 5
+
+*Weekly rest period*
+
+Member States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours’ daily rest referred to in Article 3.
+
+If objective, technical or work organization conditions so justify, a minimum rest period of 24 hours may be applied.
+
+Article 6
+
+*Maximum weekly working time*
+
+Member States shall take the measures necessary to ensure that, in keeping with the need to protect the safety and health of workers:
+
+1\. the period of weekly working time is limited by means of laws, regulations or administrative provisions or by collective agreements or agreements between the two sides of industry;
+
+2\. the average working time for each seven-day period, including overtime, does not exceed 48 hours.
+
+Article 7
+
+*Annual leave*
+
+1\. Member States shall take the measures necessary to ensure that every worker is entitled to paid annual leave of at least four weeks in accordance with the conditions for entitlement to, and granting of, such leave laid down by national legislation and/or practice.
+
+2\. The minimum period of paid annual leave may not be replaced by an allowance in lieu, except where the employment relationship is terminated.
+
+SECTION III
+
+NIGHT WORK-SHIFT WORK-PATTERNS OF WORK
+
+Article 8
+
+*Length of night work*
+
+Member States shall take the measures necessary to ensure that:
+
+1\. normal hours of work for night workers do not exceed an average of eight hours in any 24-hour period;
+
+2\. night workers whose work involves special hazards or heavy physical or mental strain do not work more than eight hours in any period of 24 hours during which they perform nightwork.
+
+For the purposes of the aforementioned, work involving special hazards or heavy physical or mental strain shall be defined by national legislation and/or practice or by collective agreements or agreements concluded between the two sides of industry, taking account of the specific effects and hazards of night work.
+
+Article 9
+
+*Health assessment and transfer of night workers to day work*
+
+1\. Member States shall take the measures necessary to ensure that:
+
+(*a*) night workers are entitled to a free health assessment before their assignment and thereafter at regular intervals;
+
+(*b*) night workers suffering from health problems recognized as being connected with the fact that they perform night work are transferred whenever possible to day work to which they are suited.
+
+2\. The free health assessment referred to in paragraph 1 (*a*) must comply with medical confidentiality.
+
+3\. The free health assessment referred to in paragraph 1 (*a*) may be conducted within the national health system.
+
+Article 10
+
+*Guarantees for night-time working*
+
+Member States may make the work of certain categories of night workers subject to certain guarantees, under conditions laid down by national legislation and/or practice, in the case of workers who incur risks to their safety or health linked to night-time working.
+
+Article 11
+
+*Notification of regular use of night workers*
+
+Member States shall take the measures necessary to ensure that an employer who regularly uses night workers brings this information to the attention of the competent authorities if they so request.
+
+Article 12
+
+*Safety and health protection*
+
+Member States shall take the measures necessary to ensure that:
+
+1\. night workers and shift workers have safety and health protection appropriate to the nature of their work;
+
+2\. appropriate protection and prevention services or facilities with regard to the safety and health of night workers and shift workers are equivalent to those applicable to other workers and are available at all times.
+
+Article 13
+
+*Pattern of work*
+
+Member States shall take the measures necessary to ensure that an employer who intends to organize work according to a certain pattern takes account of the general principle of adapting work to the worker, with a view, in particular, to alleviating monotonous work and work at a predetermined work-rate, depending on the type of activity, and of safety and health requirements, especially as regards breaks during working time.
+
+SECTION IV
+
+MISCELLANEOUS PROVISIONS
+
+Article 14
+
+*More specific Community provisions*
+
+The provisions of this Directive shall not apply where other Community instruments contain more specific requirements concerning certain occupations or occupational activities.
+
+Article 15
+
+*More favourable provisions*
+
+This Directive shall not affect Member States’ right to apply or introduce laws, regulations or administrative provisions more favourable to the protection of the safety and health of workers or to facilitate or permit the application of collective agreements or agreements concluded between the two sides of industry which are more favourable to the protection of the safety and health of workers.
+
+Article 16
+
+*Reference periods*
+
+Member States may lay down:
+
+1\. for the application of Article 5 (weekly rest period), a reference period not exceeding 14 days;
+
+2\. for the application of Article 6 (maximum weekly working time), a reference period not exceeding four months.
+
+The periods of paid annual leave, granted in accordance with Article 7, and the periods of sick leave shall not be included or shall be neutral in the calculation of the average;
+
+3\. for the application of Article 8 (length of night work), a reference period defined after consultation of the two sides of industry or by collective agreements or agreements concluded between the two sides of industry at national or regional level.
+
+If the minimum weekly rest period of 24 hours required by Article 5 falls within that reference period, it shall not be included in the calculation of the average.
+
+Article 17
+
+*Derogations*
+
+1\. With due regard for the general principles of the protection of the safety and health of workers, Member States may derogate from Article 3, 4, 5, 6, 8 or 16 when, on account of the specific characteristics of the activity concerned, the duration of the working time is not measured and/or predetermined or can be determined by the workers themselves, and particularly in the case of:
+
+(*a*) managing executives or other persons with autonomous decision-taking powers;
+
+(*b*) family workers; or
+
+(*c*) workers officiating at religious ceremonies in churches and religious communities.
+
+2\. Derogations may be adopted by means of laws, regulations or administrative provisions or by means of collective agreements or agreements between the two sides of industry provided that the workers concerned are afforded equivalent periods of compensatory rest or that, in exceptional cases in which it is not possible, for objective reasons, to grant such equivalent periods of compensatory rest, the workers concerned are afforded appropriate protection:
+
+2.1. from Articles 3, 4, 5, 8 and 16:
+
+(*a*) in the case of activities where the worker’s place of work and his place of residence are distant from one another or where the worker’s different places of work are distant from one another;
+
+(*b*) in the case of security and surveillance activities requiring a permanent presence in order to protect property and persons, particularly security guards and caretakers or security firms;
+
+(*c*) in the case of activities involving the need for continuity of service or production, particularly:
+
+(i) services relating to the reception, treatment and/or care provided by hospitals or similar establishments, residential institutions and prisons;
+
+(ii) dock or airport workers;
+
+(iii) press, radio, television, cinematographic production, postal and telecommunications services, ambulance, fire and civil protection services;
+
+(iv) gas, water and electricity production, transmission and distribution, household refuse collection and incineration plants;
+
+(v) industries in which work cannot be interrupted on technical grounds;
+
+(vi) research and development activities;
+
+(vii) agriculture;
+
+(*d*) where there is a foreseeable surge of activity, particularly in:
+
+(i) agriculture;
+
+(ii) tourism;
+
+(iii) postal services;
+
+2.2. from Articles 3, 4, 5, 8, and 16:
+
+(*a*)in the circumstances described in Article 5 (4) of Directive 89/391/EEC;
+
+(*b*) in cases of accident or imminent risk of accident;
+
+2.3. from Articles 3 and 5:
+
+(*a*) in the case of shift work activities, each time the worker changes shift and cannot take daily and/or weekly rest periods between the end of one shift and the start of the next one;
+
+(*b*) in the case of activities involving periods of work split up over the day, particularly those of cleaning staff.
+
+3\. Derogations may be made from Articles 3, 4, 5, 8 and 16 by means of collective agreements or agreements concluded between the two sides of industry at national or regional level or, in conformity with the rules laid down by them, by means of collective agreements or agreements concluded between the two sides of industry at a lower level.
+
+Member States in which there is no statutory system ensuring the conclusion of collective agreements or agreements concluded between the two sides of industry at national or regional level, on the matters covered by this Directive, or those Member States in which there is a specific legislative framework for this purpose and within the limits thereof, may, in accordance with national legislation and/or practice, allow derogations from Articles 3, 4, 5, 8 and 16 by way of collective agreements or agreements concluded between the two sides of industry at the appropriate collective level.
+
+The derogations provided for in the first and second subparagraphs shall be allowed on condition that equivalent compensating rest periods are granted to the workers concerned or, in exceptional cases where it is not possible for objective reasons to grant such periods, the workers concerned are afforded appropriate protection.
+
+Member States may lay down rules:
+
+—for the application of this paragraph by the two sides of industry, and
+
+—for the extension of the provisions of collective agreements or agreements concluded in conformity with this paragraph to other workers in accordance with national legislation and/or practice.
+
+4\. The option to derogate from point 2 of Article 16, provided in paragraph 2, points 2.1. and 2.2. and in paragraph 3 of this Article, may not result in the establishment of a reference period exceeding six months.
+
+However, Member States shall have the option, subject to compliance with the general principles relating to the protection of the safety and health of workers, of allowing, for objective or technical reasons or reasons concerning the organisation of work, collective agreements or agreements concluded between the two sides of industry to set reference periods in no event exceeding 12 months.
+
+Before the expiry of a period of seven years from the date referred to in Article 18 (1) (a), the Council shall, on the basis of a Commission proposal accompanied by an appraisal report, re-examine the provisions of this paragraph and decide what action to take.
+
+Article 18
+
+*Final provisions*
+
+1\. (a) Member States shall adopt the laws, regulations and administrative provisions necessary to comply with this Directive by 23 November 1996, or shall ensure by that date that the two sides of industry establish the necessary measures by agreement, with Member States being obliged to take any necessary steps to enable them to guarantee at all times that the provisions laid down by this Directive are fulfilled.
+
+(b) (i) However, a Member State shall have the option not to apply Article 6, while respecting the general principles of the protection of the safety and health of workers, and provided it takes the necessary measures to ensure that:
+
+—no employer requires a worker to work more than 48 hours over a seven-day period, calculated as an average for the reference period referred to in point 2 of Article 16, unless he has first obtained the worker’s agreement to perform such work,
+
+—no worker is subjected to any detriment by his employer because he is not willing to give his agreement to perform such work,
+
+—the employer keeps up-to-date records of all workers who carry out such work,
+
+—the records are placed at the disposal of the competent authorities, which may, for reasons connected with the safety and/or health of workers, prohibit or restrict the possibility of exceeding the maximum weekly working hours,
+
+—the employer provides the competent authorities at their request with information on cases in which agreement has been given by workers to perform work exceeding 48 hours over a period of seven days, calculated as an average for the reference period referred to in point 2 of Article 16.
+
+Before the expiry of a period of seven years from the date referred to in (a), the Council shall, on the basis of a Commission proposal accompanied by an appraisal report, re-examine the provisions of this point (i) and decide on what action to take.
+
+(ii) Similarly, Member States shall have the option, as regards the application of Article 7, of making use of a transitional period of not more than three years from the date referred to in (a), provided that during that transitional period:
+
+—every worker receives three weeks’ paid annual leave in accordance with the conditions for the entitlement to, and granting of, such leave laid down by national legislation and/or practice, and
+
+—the three-week period of paid annual leave may not be replaced by an allowance in lieu, except where the employment relationship is terminated.
+
+(c) Member States shall forthwith inform the Commission thereof.
+
+2\. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+3\. Without prejudice to the right of Member States to develop, in the light of changing circumstances, different legislative, regulatory or contractual provisions in the field of working time, as long as the minimum requirements provided for in this Directive are complied with, implementation of this Directive shall not constitute valid grounds for reducing the general level of protection afforded to workers.
+
+4\. Member States shall communicate to the Commission the texts of the provisions of national law already adopted or being adopted in the field governed by this Directive.
+
+5\. Member States shall report to the Commission every five years on the practical implementation of the provisions of this Directive, indicating the viewpoints of the two sides of industry.
+
+The Commission shall inform the European Parliament, the Council, the Economic and Social Committee and the Advisory Committee on Safety, Hygiene and Health Protection at Work thereof.
+
+6\. Every five years the Commission shall submit to the European Parliament, the Council and the Economic and Social Committee a report on the application of this Directive taking into account paragraphs 1, 2, 3, 4 and 5.
+
+Article 19
+
+This Directive is addressed to the Member States.
+
+Done at Brussels, 23 November 1993.
+
+For the Council
+
+The President
+
+M. SMET
+
+[^1]: <sup>(1)</sup> O.J. No. L307, 13.12.93, p.18
+[^2]: OJ No. L 124, 20.5.2009, p. 30.
+[^3]: OJ No. L 25, 31.1.2017, p. 12.
+[^4]: <sup>(1)</sup>OJ No. C 254, 9. 10. 1990, p.4.
+[^5]: <sup>(2)</sup>OJ No. C 72, 18. 3. 1991, p.95; and Decision of 27 October 1993 (not yet published in the Official Journal).
+[^6]: <sup>(3)</sup>OJ No. C 60, 8. 3. 1991, p.26.
+[^7]: <sup>(4)</sup>OJ No. L 183, 29. 6. 1989, p.1.

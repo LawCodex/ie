@@ -1,0 +1,42 @@
+---
+title: "Housing Finance Agency (Amendment) Act, 1982"
+identifier: "eli/1982/act/27"
+type: act
+jurisdiction: ie
+language: en
+number: 27
+year: 1982
+date: 1982-12-27
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1982/act/27/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Housing Finance Agency (Amendment) Act, 1982
+
+AN ACT TO AMEND THE HOUSING FINANCE AGENCY ACT, 1981. [27*th December*, 1982]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1.**—In this Act “the Principal Act” means the Housing Finance Agency Act, 1981.
+
+## 2. Amendment of sections 10 and 11 of Housing Finance Agency Act, 1981.
+
+**2.**—(1) Where the Agency borrows money on foot of a bond or other security created and issued by it and subject to a condition whereby, on the redemption of the security, an amount, being both in addition to the money actually borrowed by the Agency and calculated by reference to the consumer price index number or in such other manner as is specified in the condition, is payable by the Agency otherwise than on account of interest, the following provisions shall apply:
+
+(*a*) the amount shall not be taken into account for the purposes of section 10 (3) of the Principal Act, and
+
+(*b*) as respects any guarantee under section 11 of the Principal Act which is for the time being in force in relation to the money, the references to the principal in subsection (1) of that section and, where appropriate, the reference to principal in subsection (7) (*a*) of that section shall each be construed as including a reference to the amount.
+
+(2) In this section “the consumer price index number” means the All Items Consumer Price Index Number compiled by the Central Statistics Office.
+
+## 3. Short title, collective citation and construction.
+
+**3.**—(1) This Act may be cited as the Housing Finance Agency (Amendment) Act, 1982.
+
+(2) The Principal Act and this Act may be cited together as the Housing Finance Agency Acts, 1981 and 1982.
+
+(3) The Principal Act and this Act shall be construed together as one Act.

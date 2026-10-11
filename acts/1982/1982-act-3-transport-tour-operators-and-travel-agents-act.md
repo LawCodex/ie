@@ -1,0 +1,880 @@
+---
+title: "Transport (Tour Operators and Travel Agents) Act, 1982"
+identifier: "eli/1982/act/3"
+type: act
+jurisdiction: ie
+language: en
+number: 3
+year: 1982
+date: 1982-03-30
+last_amended: 2022-12-09
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1982/act/3/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1982/act/3/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Transport (Tour Operators and Travel Agents) Act, 1982
+
+AN ACT TO PROVIDE FOR THE REGULATION OF THE TRAVEL TRADE AND FOR THE PROTECTION OF CUSTOMERS OF TOUR OPERATORS AND TRAVEL AGENTS, FOR THOSE PURPOSES TO ENABLE THE MINISTER FOR TRANSPORT TO ISSUE LICENCES TO TOUR OPERATORS AND TRAVEL AGENTS, AND TO REQUIRE TOUR OPERATORS AND TRAVEL AGENTS TO ENTER INTO AND MAINTAIN BONDS, TO PROVIDE FOR THE ESTABLISHMENT OF A FUND TO BE KNOWN AS THE TRAVELLERS' PROTECTION FUND AND FOR THE PAYMENT OF CONTRIBUTIONS BY TOUR OPERATORS TOWARDS THE RESOURCES OF THAT FUND: AND TO PROVIDE FOR OTHER MATTERS CONNECTED WITH THE FOREGOING. [30*th March*, 1982]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred to Commission for Aviation Regulation and references to "Minister" construed (27.02.2001, establishment day) by *Aviation Regulation Act 2001* (1/2001), s. 9(1)-(3), S.I. No. 47 of 2001, subject to transitional provisions in subss. (4)-(7).
+>
+> **Transfer of functions.**
+>
+> **9.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by *subsection (2)* are hereby transferred, on the establishment day, to the Commission.
+>
+> (2) There are hereby transferred, on the establishment day, to the Commission the functions vested in the Minister by or under each of the following—
+>
+> (*a*) the Transport (Tour Operators and Travel Agents) Act, 1982,
+>
+> (*b*) the Package Holidays and Travel Trade Act, 1995,
+>
+> …
+>
+> (3) References to the Minister contained in any Act or instrument relating to any functions transferred by *subsection (2)* shall, on the establishment day, be construed as references to the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: functions transferred from Minister for Communications to Minister of Tourism and Transport (31.03.1987) by *Communications (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 1987* (S.I. No. 92 of 1987), art. 4 and sch. part I, in effect as per art. 1(2); superseded as per C-note above.
+
+## PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.** — (1) This Act may be cited as the Transport (Tour Operators and Travel Agents) Act, 1982.
+
+(2) This Act shall come into operation on such day or days as may be fixed therefor by order or orders of the Minister, either generally or by reference to a particular purpose or provision or mode of transport and different days may be so fixed for different purposes and different provisions of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (12.04.1983) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Commencement) Order 1983* (S.I. No. 99 of 1983).
+>
+> 2\. (*a*) The 12th day of April, 1983 is hereby fixed as the day when the Transport (Tour Operators and Travel Agents) Act, 1982 (No. 3 of 1982), other than sections 4 and 5 of that Act, shall come into operation.
+>
+> (*b*) The 1st day of November, 1983 is hereby fixed as the day when sections 4 and 5 of the Transport (Tour Operators and Travel Agents) Act, 1982 shall come into operation.
+
+### 2. Interpretation.
+
+**2.** — (1) In this Act—
+
+F1["Act of 1995" means the Package Holidays and Travel Trade Act 1995;]
+
+"the Bond" has the meaning specified in *section 13* of this Act;
+
+F2["carrier" means a person F3[(other than a package provider where the package includes transport commencing in the State to destinations outside the State or Northern Ireland)] whose principal business is the provision of transport by land, sea or air on aircraft, vessels or other modes of transport owned and operated by such person;]
+
+F1["Directive" means Directive (EU) No. 2015/2302 of the European Parliament and the Council of 25 November 2015 on package travel and linked travel arrangements[^1];]
+
+“the Fund” means the Travellers' Protection Fund established pursuant to *section 15* of this Act;
+
+F1["linked travel arrangement" has the meaning assigned to it by the Act of 1995.]
+
+F4["insolvency" has the meaning assigned to it by the Act of 1995;]
+
+F2["the Minister" means the Minister for Transport, Energy and Communications;]
+
+F5["organiser" has the meaning assigned to it by the Act of 1995;]
+
+F2["overseas travel contract" means a contract for the carriage of a party to the contract (with or without any other person) by air, sea or land transport commencing in the State to a place outside the State or Northern Ireland, whether the provision of the carriage is the sole subject matter of the contract or is associated with the provision thereunder of any accommodation, facility or service;]
+
+F5["package" has the meaning assigned to it by the Act of 1995;]
+
+F6[...]
+
+F4["package travel contract" has the meaning assigned to it by the Act of 1995;
+
+"repatriation" has the meaning assigned to it by the Act of 1995;]
+
+F5["retailer" has the meaning assigned to it by the Act of 1995;]
+
+F7["sufficient evidence of security", in relation to a package, means sufficient evidence of security for the refund of money paid over and for the repatriation of a consumer in the event of insolvency of the retailer or organiser of the package in compliance with the requirements of—
+
+(*a*) section 22 of the Package Holidays and Travel Trade Act 1995, or
+
+(*b*) if the retailer or organiser is established in another Member State, measures giving effect to Article 7 of Council Directive No. 90/314/EEC of 13 June 1990[^2]in the other Member State;]
+
+F2["tour operator" means a person other than a carrier who arranges for the purpose of selling or offering for sale to any person accommodation for travel by air, sea or land transport commencing in the State to destinations outside the State or Northern Ireland or who holds himself out by advertising or otherwise as one who may make available such accommodation, either solely or in association with other accommodation, facilities or other services;]
+
+F1["trader facilitating linked travel arrangements" shall be construed in accordance with section 22A of the Act of 1995;]
+
+F2["travel agent" means a person other than a carrier who as agent sells or offers to sell to, or purchases or offers to purchase on behalf of, any person, accommodation on air, sea or land transport commencing in the State to destinations outside the State or Northern Ireland or who holds himself out by advertising or otherwise as one who may make available such accommodation, either solely or in association with other accommodation, facilities or services;]
+
+F4["traveller" has the meaning assigned to it by the Directive;]
+
+(2) For the purpose of this Act, a person shall be deemed to be a customer of a tour operator or travel agent if he has made any payment, either directly or indirectly, to the tour operator or travel agent, under or with the intention of entering into an overseas travel contract.
+
+(3) For the purposes of this Act, a loss or liability incurred by a customer of a tour operator or travel agent is a loss or liability incurred in connection with an overseas travel contract if it results from the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to the overseas travel contract.
+
+(4) For the purposes of this Act “ the inability or failure of a tour operator or travel agent to meet his financial or contractual obligations ” means that, in relation to that tour operator or travel agent, one or more of the following events has occurred—
+
+(*a*) a petition is granted by a court for the compulsory winding up of the business of the tour operator or travel agent,
+
+(*b*) the tour operator or travel agent by reason of being unable to fulfil his financial obligations seeks a voluntary winding up of his business or has convened a meeting of his creditors for the purpose of considering a settlement of his liabilities to such creditors,
+
+(*c*) a receiver is appointed over the assets of the tour operator or travel agent,
+
+(*d*) the tour operator or travel agent has failed to discharge his debts or is unable to discharge his debts or has ceased to carry on business by reason of his inability to discharge his debts,
+
+(*e*) the tour operator or travel agent has committed an act of bankruptcy,
+
+(*f*) the Minister has reasonable grounds for believing that, having regard to all the circumstances, the tour operator or travel agent is unable to, or has failed to, carry out his obligations to his customers in relation to an overseas travel contract.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(1)(a).
+>
+> F2: Substituted (1.10.1995) by *Package Holidays and Travel Trade Act 1995*(17/1995), s. 27(a), S.I. No. 235 of 1995.
+>
+> F3: Substituted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(1)(d).
+>
+> F4: Inserted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(a).
+>
+> F5: Substituted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(1)(b).
+>
+> F6: Deleted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(1)(c).
+>
+> F7: Inserted (27.06.2014) by *State Airports (Shannon Group) Act 2014*(27/2014), s. 54(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred to Commission for Aviation Regulation and references to "Minister" construed (27.02.2001, establishment day) by *Aviation Regulation Act 2001* (1/2001), s. 9(1)-(3), S.I. No. 47 of 2001, subject to transitional provisions in subss. (4)-(7).
+>
+> **9.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by *subsection (2)* are hereby transferred, on the establishment day, to the Commission.
+>
+> (2) There are hereby transferred, on the establishment day, to the Commission the functions vested in the Minister by or under each of the following—
+>
+> (*a*) the Transport (Tour Operators and Travel Agents) Act, 1982,
+>
+> (*b*) the Package Holidays and Travel Trade Act, 1995,
+>
+> …
+>
+> (3) References to the Minister contained in any Act or instrument relating to any functions transferred by *subsection (2)* shall, on the establishment day, be construed as references to the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: definitions of "retailer" and "organiser" inserted (27.07.2014) by *State Airports (Shannon Group) Act 2014*(27/2014), s. 54(a), commenced on enactment; substituted as per F-note above.
+>
+> E4: Previous affecting provision: definitions of "package" and "package provider" inserted (1.10.1995) by *Package Holidays and Travel Trade Act 1995*(17/1995), s. 27(b), commenced as per s. 1(3); substituted and deleted as per F-notes above.
+
+### 3. Expenses.
+
+**3.** — Any expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART II — Licences
+
+### 4. Restriction on carrying on business as tour operator.
+
+F8[**4.** — A person established in the State, shall not carry on business as a tour operator in the State or hold himself or herself out, by advertisement or otherwise, as carrying on such business unless he or she—
+
+(*a*) is the holder of a licence granted under section 6 to carry on such business, or
+
+F9[(*b*) is an organiser or a trader facilitating linked travel arrangements and has provided security in accordance with section 22 or 22A of the 1995 Act.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Substituted (27.06.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 54(b), commenced on enactment.
+>
+> F9: Substituted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(2)(a).
+
+### 5. Restriction on carrying on business as travel agent.
+
+F10[**5.** — A person established in the State, shall not carry on business as a travel agent in the State or hold himself or herself out, by advertisement or otherwise, as carrying on such business unless he or she—
+
+(*a*) is the holder of a licence granted under *section 6* to carry on such business, or
+
+F11[(*b*) is an organiser or a trader facilitating linked travel arrangements and has provided security in accordance with section 22 or 22A of the 1995 Act.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Substituted (27.06.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 54(b), commenced on enactment.
+>
+> F11: Substituted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019*(80 of 2019), reg. 25(2)(b).
+
+### Requirements on a retailer or organiser of packages established in another Member State carrying on business in State
+
+F12[F13[**5A.** —(1) A tour operator or travel agent, whose place of establishment is in another Member State, other than an organiser of packages or a trader facilitating linked travel arrangements, may carry on business in the State, including on a temporary basis, either physically or at a distance.
+
+(2) In this section, "carry on business in the State" means the sale of travel services in the State for travel which commences within the State to destinations outside the State.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Inserted (27.06.2014) by*State Airports (Shannon Group) Act 2014* (27/2014), s. 54(b), commenced on enactment.
+>
+> F13: Substituted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(2)(c), commenced on enactment.
+
+### 6. Licences.
+
+**6.** — (1) The Minister shall grant a licence to carry on business as a tour operator or as a travel agent to a person if he is satisfied that such person complies with the requirements of this Act.
+
+(2) The Minister shall refuse a licence to carry on business as a tour operator or as a travel agent if he is not satisfied that such person complies with the requirements of this Act.
+
+(3) Without prejudice to the generality of *subsection (2)* of this section, the Minister shall refuse a licence under this Act to a person if he is not satisfied that—
+
+(*a*) the financial, business and organisational resources of such person and any financial arrangements made or to be made by him are adequate for discharging his actual and potential obligations in respect of the activities (if any) in which he is engaged or in which he proposes to engage if the licence is granted, or
+
+(*b*) having regard to the past activities of such person or of any person employed by him or, if such person is a body corporate, having regard to the past activities of any director, secretary, shareholder, officer or servant of the body corporate, such person is a fit and proper person to carry on business as a tour operator or travel agent, as the case may be.
+
+(4) A licence granted under this Act may contain such terms and conditions as the Minister may think appropriate and specifies in the licence.
+
+F14[(5) A licence granted under this Act shall, unless earlier surrendered or revoked, remain in force for such period as the Minister thinks fit and specifies in the licence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.10.1995) by *Package Holidays and Travel Trade Act 1995* (17/1995), s. 28, S.I. No. 235 of 1995.
+
+### 7. Power to make regulations in relation to licences.
+
+**7.** — The Minister may by regulations made under this section specify—
+
+(*a*) the conditions that shall be complied with before a licence is granted under this Act,
+
+(*b*) the manner in which applications for the grant of a licence under this Act shall be made,
+
+(*c*) the nature and extent of the information required to be furnished by an applicant for the grant of a licence under this Act,
+
+(*d*) the form in which an application for a licence under this Act shall be made,
+
+(*e*) the form of licence to be granted under this Act,
+
+(*f*) the manner in which members of the public shall be made aware that a tour operator or travel agent is the holder of a licence granted under this Act,
+
+(*g*) the books, accounts and other records required to be maintained by the holder of a licence granted under this Act,
+
+(*h*) the place where any books, accounts or other records required to be maintained pursuant to this Act shall be kept.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (1.03.2012) by *Travel Agents (Licensing) (Amendment) Regulations 2012* (S.I. No. 61 of 2012), in effect as per reg. 2.
+>
+> E6: Power pursuant to section exercised (1.01.2011) by *Tour Operators (Licensing) (Amendment) Regulations 2010* (S.I. No. 660 of 2010), in effect as per reg. 2.
+>
+> E7: Power pursuant to section exercised (1.11.2006) by *Travel Agents (Licensing) (Amendment) Regulations 2006* (S.I. No. 527 of 2006), in effect as per reg. 2.
+>
+> E8: Power pursuant to section exercised (1.11.2006) by *Tour Operators (Licensing) (Amendment Regulations 2006* (S.I. No. 526 of 2006), in effect as per reg. 2.
+>
+> E9: Power pursuant to section exercised (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), in effect as per reg. 2.
+>
+> E10: Power pursuant to section exercised (01.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), in effect as per reg. 2.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (1.01.2011) by *Travel Agents (Licensing) (Amendment) Regulations 2010* (S.I. No. 659 of 2010), in effect as per reg. 2; revoked (1.03.2012) by *Travel Agents (Licensing) (Amendment) Regulations 2012* (S.I. No. 61 of 2012), reg. 3, in effect as per reg. 2.
+>
+> E12: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Tour Operators (Licensing) (Amendment) Regulations 1992* (S.I. No. 176 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(h), in effect as per reg. 2.
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Travel Agents (Licensing) (Amendment) Regulations 1992* (S.I. No. 175 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(g), in effect as per reg. 2.
+>
+> E14: Previous affecting provision: power pursuant to section exercised (1.11.1989) by *Tour Operators (Licensing) (Amendment) Regulations 1989* (S.I. No. 160 of 1989), in effect as per reg. 3; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(g), in effect as per reg. 2.
+>
+> E15: Previous affecting provision: power pursuant to section exercised (1.11.1989) by *Travel Agents (Licensing) (Amendment) Regulations 1989* (S.I. No. 159 of 1989), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(f), in effect as per reg. 2.
+>
+> E16: Previous affecting provision: power pursuant to section exercised (1.07.1988) by *Tour Operators (Licensing) (Amendment) Regulations 1988* (S.I. No. 133 of 1988), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(f), in effect as per reg. 2.
+>
+> E17: Previous affecting provision: power pursuant to section exercised (1.07.1988) by *Travel Agents (Licensing) (Amendment) Regulations 1988* (S.I. No. 132 of 1988), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations, 1993* (S.I. No. 183 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E18: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Travel Agents (Licensing) (Amendment) Regulations 1987* (S.I. No. 176 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(d), in effect as per reg. 2.
+>
+> E19: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Tour Operators (Licensing) (Amendment) Regulations 1987* (S.I. No. 175 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E20: Previous affecting provision: power pursuant to section exercised (19.12.1986) by *Tour Operators (licensing) (Amendment) (No. 2) Regulations 1986* (S.I. No. 435 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(d), in effect as per reg. 2.
+>
+> E21: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Travel Agents (Licensing) (Amendment) Regulations 1986* (S.I. No. 216 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E22: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Tour Operators (Licensing) (Amendment) Regulations 1986* (S.I. No. 215 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E23: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Travel Agents (Licensing) (Amendment) Regulations 1985* (S.I. No. 166 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E24: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Tour Operators (Licensing) (Amendment) Regulations 1985* (S.I. No. 165 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E25: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Travel Agents (Licensing) Regulations 1983* (S.I. No. 101 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(a), in effect as per reg. 2.
+>
+> E26: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Tour Operators (Licensing) Regulations 1983* (S.I. No. 100 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(a), in effect as per reg. 2.
+
+### 8. Revocation and varying of terms and conditions of licences.
+
+**8.** — (1) Where the holder of a licence is in breach of, or fails, neglects or refuses to comply with any term or condition of a licence under this Act, the Minister may—
+
+(*a*) revoke the licence, or
+
+(*b*) vary any term or condition of the licence.
+
+F15[(2) The Minister may also revoke, or vary the terms and conditions of, a licence granted under this Act if he is no longer satisfied that—
+
+(*a*) the financial, business and organisational resources of the holder of the licence or any financial arrangements made by him are adequate for discharging his actual and potential obligations in respect of the business for which he has been granted a licence, or
+
+(*b*) having regard to—
+
+(i) the past activities of the holder of the licence or of any person employed by him or, if such licence holder is a body corporate, having regard to the past activities of any director, secretary, shareholder, officer or servant of the body corporate, or
+
+(ii) the manner in which the holder of the licence is carrying on his business,
+
+he is a fit and proper person to carry on business as a tour operator or travel agent, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Substituted (1.10.1995) by *Package Holidays and Travel Trade Act 1995* (17/1995), s. 29, S.I. No. 235 of 1995.
+
+### 9. Appeals.
+
+**9.** — (1) Whenever the Minister proposes to revoke, other than pursuant to *section 10* of this Act, or to vary the terms and conditions of, a licence granted under this Act, he shall notify the holder of the licence of his proposal and of the reasons for such proposal and shall, if any representations are made in writing by such holder within seven days, consider the representations.
+
+(2) Whenever the Minister refuses to grant a licence or decides, having considered any representations that may have been made by the holder of a licence, to revoke the licence or to vary any term or condition of the licence, he shall notify the applicant for, or as the case may be, the holder of, the licence of the refusal or decision and such applicant or such holder may within seven days appeal to the High Court against such refusal or such decision.
+
+(3) On the hearing of an appeal under this section in relation to a refusal to grant a licence under this Act or in relation to a decision of the Minister to revoke, or vary the terms and conditions of, a licence granted under this Act, the High Court may either confirm the refusal or decision or may allow the appeal and, where an appeal is allowed, the Minister shall grant the licence or shall not revoke, or vary the terms and conditions of the licence as the case may be.
+
+(4) A decision of the High Court on an appeal under this section shall be final save that, by leave of that Court, an appeal from the decision shall lie to the Supreme Court on a specified question of law.
+
+(5) An appeal shall not lie in any case where the Minister refuses to grant a licence to an applicant who does not comply with the provisions of *section 13* of this Act or in any case where the Minister revokes a licence pursuant to *section 10* of this Act.
+
+(6) Where, after the commencement of *Part III* of this Act, a person appeals against a decision of the Minister to revoke or vary any term or condition of a licence or appeals against a refusal of the Minister to grant a licence, such person shall not, pending the determination of the appeal, carry on business as a tour operator or travel agent unless he complies with the provisions of *section 13* of this Act.
+
+### 10. Revocation of licence in certain circumstances.
+
+**10.** —Where, owing to the failure or inability of a tour operator or travel agent to meet his financial or contractual obligations, any payment is or falls to be made pursuant to the Bond or from the Fund to a customer, the Minister shall forthwith revoke any licence granted under this Act.
+
+### 11. Power of entry and inspection.
+
+**11.** — A person authorised by the Minister may at any time enter into any premises in which the Minister has reason to believe that a person is carrying on business as a tour operator or travel agent and there inspect and examine books, accounts or records required to be maintained pursuant to this Act.
+
+### 12. Fees.
+
+**12.** — (1) The Minister may, by regulations, made with the consent of the Minister for Finance, specify the scale of fees payable in respect of applications for licences under this Act.
+
+(2) The Minister may make such charges as he considers appropriate in relation to any matter connected with a licence under this Act and the amount of any such charge shall be determined by the Minister, after consultation with the Minister for Finance, and shall be specified in regulations made under *subsection (1)* of this section.
+
+(3) All fees and charges payable under this Act shall be paid into, or disposed of for the benefit of, the Exchequer in accordance with the directions of the Minister for Finance.
+
+(4) The Public Offices Fees Act, 1879, shall not apply in respect of fees payable pursuant to this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 3 of 1982</td><td>Transport (Tour Operators and Travel Agents) Act 1982</td><td>Sections 12, 16 and 19</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to section exercised (1.08.1995) by *Travel Agents (Licensing) (Amendment) Regulations 1995* (S.I. No. 213 of 1995), in effect as per reg. 2.
+>
+> E28: Power pursuant to section exercised (1.08.1995) by *Tour Operators (Licensing) (Amendment) Regulations 1995* (S.I. No. 212 of 1995), in effect as per reg. 2.
+>
+> E29: Power pursuant to section exercised (1.07.1993) by *Travel Agents (Licensing) Regulations, 1993* (S.I. No. 183 of 1993), in effect as per reg. 2.
+>
+> E30: Power pursuant to section exercised (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), in effect as per reg. 2.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Tour Operators (Licensing) (Amendment) Regulations 1992* (S.I. No. 176 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(h), in effect as per reg. 2.
+>
+> E32: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Travel Agents (Licensing) (Amendment) Regulations 1992* (S.I. No. 175 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(g), in effect as per reg. 2.
+>
+> E33: Previous affecting provision: Power pursuant to section exercised (24.06.1988) by *Tour Operators (Licensing) (Amendment) Regulations, 1988* (S.I. No. 133 of 1988); revoked (30.06.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(f), I n effect as per reg. 2.
+>
+> E34: Previous affecting provision: Power pursuant to section exercised (24.06.1988) by *Travel Agents (Licensing) (Amendment) Regulations, 1988* (S.I. No. 132 of 1988), revoked (30.06.1993) by *Travel Agents (Licensing) Regulations, 1993* (S.I. No. 183 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E35: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Travel Agents (Licensing) (Amendment) Regulations 1987* (S.I. No. 176 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(d), in effect as per reg. 2.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Tour Operators (Licensing) (Amendment) Regulations 1987* (S.I. No. 175 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E37: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Travel Agents (Licensing) (Amendment) Regulations 1986* (S.I. No. 216 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Tour Operators (Licensing) (Amendment) Regulations 1986* (S.I. No. 215 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E39: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Travel Agents (Licensing) (Amendment) Regulations 1985* (S.I. No. 166 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E40: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Tour Operators (Licensing) (Amendment) Regulations 1985* (S.I. No. 165 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E41: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Travel Agents (Licensing) Regulations 1983* (S.I. No. 101 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(a), in effect as per reg. 2.
+>
+> E42: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Tour Operators (Licensing) Regulations 1983* (S.I. No. 100 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(a), in effect as per reg. 2.
+
+## PART III — The Bond
+
+### 13. The Bond.
+
+**13.** — (1) A tour operator or travel agent shall, before a licence is granted to him under this Act, furnish evidence acceptable to the Minister that the tour operator or travel agent, as the case may be, has entered into an arrangement satisfactory to the Minister for the protection of persons who, during the period of validity of the licence, enter into contracts with him relating to overseas travel.
+
+(2) The arrangement referred to in *subsection (1)* of this section is in this Act referred to as “ the Bond ”.
+
+(3) The Bond shall provide that, in the event of the inability or failure of the tour operator or travel agent concerned to meet his financial or contractual obligations in relation to overseas travel contracts, a sum of money will become available to the Minister, or to any person nominated or approved of by the Minister, as trustee, to be applied for the benefit of any customer of the tour operator or travel agent concerned who has incurred loss or liability because of such inability or failure to meet financial or contractual obligations.
+
+(4) The sum of money referred to in *subsection (3)* of this section may be applied for all or any of the following purposes—
+
+(*a*) to provide travel facilities for any customer of the tour operator or travel agent concerned who is outside Ireland and who is unable to make the return journey provided for in the overseas travel contract by reason of the inability or failure of the tour operator or travel agent concerned to fulfil his financial or contractual obligations in relation to such overseas travel contract;
+
+(*b*) to reimburse a customer of a tour operator or travel agent for any reasonable expenses necessarily incurred by such customer by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to an overseas travel contract;
+
+(*c*) to refund, as far as possible, to a customer of a tour operator or travel agent any payments made by him to the tour operator or travel agent in respect of an overseas travel contract which could not be completed by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to such overseas travel contract;
+
+F16[(*d*) to defray any reasonable expenses incurred by the Minister or, as the case may be, the person nominated or approved of by the Minister as trustee, or provide for any payments to the Minister or trustee on behalf of a customer of a tour operator or travel agent in respect of an overseas travel contract which could not be completed by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to such overseas travel contract.]
+
+(5) The Minister or, as the case may be, the person nominated or approved of by the Minister, as trustee, shall keep all proper and usual accounts, including an income and expenditure account and a balance sheet, of all moneys received by him on foot of a bond and of all disbursements made by him from any such moneys.
+
+(6) As soon as may be after the end of each year, accounts kept in pursuance of this section shall be submitted to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and a copy of the report of the Comptroller and Auditor General on the accounts shall be laid before each House of the Oireachtas.
+
+(7) Without prejudice to any existing right of a customer of a tour operator or travel agent to recover damages in relation to the standard of accommodation or service provided pursuant to an overseas travel contract, nothing in this section shall be construed as enabling such customer to recover any damages out of any sum of money made available under the Bond.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (1.10.1995) by *Package Holidays and Travel Trade Act 1995* (17/1995), s. 30, S.I. No. 235 of 1995.
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of section restricted (13.04.1983) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Claims by Customers) Regulations 1983* (S.I. No. 104 of 1983), reg. 13, in effect as per reg. 2.
+>
+> 13\. No claim will be admissible in cases where customers of a tour operator or travel agent, as a result of the application of monies pursuant to the Bond or from the Fund by the Minister under sections 13 or 18 of the Act, are enabled to complete their overseas travel contract.
+
+### Security for package travel and linked travel arrangements
+
+F17[**13A.**— (1) Where the contract referred to in *section 13(1)* is a package or a linked travel arrangement, the tour operator or travel agent shall arrange security for that contract in accordance with *section 22* or *section 22A* of the Act of 1995, as the case may require.
+
+(2) Notwithstanding *subsection (1)*, where a tour operator or travel agent has arranged a bond under *section 13* for the purpose of obtaining a grant of a licence under *section 6*, and where that bond offers equivalent protection for travellers to that required under *section 22* or *22A* of the Act of 1995, as the case may require, the tour operator or travel agent shall have also complied with the requirement to provide security in accordance with *section 22* or *22A*, as appropriate.
+
+(3) Notwithstanding *subsections (3)* and *(4)* of *section 13*, where, by virtue of *subsection (2)*, a tour operator or travel agent has complied with the requirement to provide security in accordance with *section 22* or *22A* of the Act of 1995, the purposes of that bond under *section 13* shall not be limited to the purposes set out in *subsections (3)* and *(4)* of that section but may also be used for the purposes set out in *sections 22* or *22A* of the Act of 1995.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(3).
+>
+> **Editorial Notes:**
+>
+> E43: The section heading is taken from the substance of the section in the absence of a heading included in the amendment.
+
+### 14. Requirements in relation to the Bond.
+
+**14.** — The Minister may, by regulations, provide that—
+
+(*a*) arrangements in relation to the Bond shall be entered into only with persons of a class or classes specified in the regulations, and
+
+(*b*) the Bond shall be for such minimum sum and valid for such minimum period as may be specified in the regulations.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E44: Power pursuant to section exercised (13.04.1983) by *Tour Operators and Travel Agents (Bonding) Regulations 1983* (S.I. No. 102 of 1983), in effect as per reg. 2.
+
+## PART IV — Travellers' Protection Fund
+
+### 15. Travellers' Protection Fund.
+
+**15.** — F18[(1) The Minister shall establish a fund to be known as the Travellers’ Protection Fund (in this Act referred to as "the Fund") from which payments may be made in accordance with *section 18* —
+
+(*a*) in respect of losses or liabilities incurred by customers of tour operators or travel agents who held a licence under this Act or whose licence has been revoked and the revocation is the subject of an appeal to the court, in consequence of the inability or failure of the tour operators or travel agents to meet their financial or contractual obligations in respect of overseas travel contracts, and
+
+(*b*) to provide for:
+
+(i) the refund of all payments made by or on behalf of a traveller in respect of a package travel contract insofar as travel services under the package travel contract cannot be performed as a consequence of the insolvency of the organiser of the package travel contract concerned;
+
+(ii) the reimbursement of a traveller for any reasonable expenses necessarily incurred by the traveller in respect of a package travel contract as a consequence of the insolvency of the organiser of the package travel contract concerned;
+
+(iii) where a package travel contract includes carriage of a traveller, the repatriation, and, if necessary, the financing of accommodation prior to the repatriation, of that traveller as a consequence of the insolvency of the organiser.]
+
+(2) The collection, retention and disbursement of the resources of the Fund shall be a function of the Minister.
+
+(3) The Minister may by regulations made under this section nominate any person specified in the regulations to carry out any or all of the functions conferred on the Minister by this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Substituted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(b).
+
+### 16. Contributions to Fund.
+
+**16.** — (1) A tour operator shall make contributions to the Fund of such amounts and at such times on such basis as may be specified in regulations made by the Minister, with the consent of the Minister for Finance.
+
+(2) Regulations made by the Minister under this section may—
+
+(*a*) provide that contributions for the Fund may be paid to the Minister or to such other person as may be specified in the regulations;
+
+(*b*) provide that different contributions may be made by different classes of tour operators having regard to the scale of business of the tour operator and may specify the manner for determining the amounts of different contributions;
+
+(*c*) specify the time and manner in which payments of sums due in respect of contributions to the Fund may be made.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 3 of 1982</td><td>Transport (Tour Operators and Travel Agents) Act 1982</td><td>Sections 12, 16 and 19</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to section exercised (19.12.1986) by *Travellers' Protection Fund (Amendment) Regulations 1986* (S.I. No. 434 of 1986), in effect as per reg. 1(3).
+>
+> E46: Power pursuant to section exercised (7.06.1984) by *Travellers' Protection Fund Regulations 1984* (S.I. No. 139 of 1984), in effect as per reg. 2.
+>
+> E47: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Travellers' Protection Fund Regulations 1983* (S.I. No. 103 of 1983), in effect as per reg. 3; revoked (7.06.1984) by *Travellers' Protection Fund Regulations 1984* (S.I. No. 139 of 1984), reg. 9, in effect as per reg. 2.
+
+### Minister's discretion to contribute to Fund
+
+F19[**16A.** — (1) Subject to *subsection (2)* the Minister may, out of moneys provided by the Oireachtas, make such contributions to the Fund as he or she, with the consent of the Minister for Public Expenditure and Reform, considers appropriate.
+
+(2) Contributions made to the Fund under *subsection (1)* shall be used solely for the purpose of making payments under *section 15(1)(b)*, in accordance with *paragraphs (aa)*, *(ba)* and *(ca)* of *section 18(1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(c).
+>
+> **Editorial Notes:**
+>
+> E48: The section heading is taken from the substance of the section in the absence of a heading included in the amendment.
+
+### 17. Resources of the Fund.
+
+**17.** — (1) The resources of the Fund shall be maintained and administered by the Minister or, as the case may be, by a person nominated by him pursuant to *section 15* of this Act.
+
+(2) The costs of administration of the Fund shall be defrayed from the resources of the Fund.
+
+(3) The Minister or, as the case may be, the person nominated by him pursuant to *section 15* of this Act, shall keep all proper and usual accounts of all moneys paid into the Fund and of all disbursements from the Fund including an income and expenditure account and a balance sheet.
+
+(4) As soon as may be after the end of each year, accounts kept in pursuance of this section shall be submitted to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and a copy of the report of the Comptroller and Auditor General on the accounts shall be laid before each House of the Oireachtas.
+
+### 18. Disbursements from Fund.
+
+**18.** — (1) F20[Subject to *section 16A(2)*, payments may be made] from the Fund for all or any of the following purposes—
+
+(*a*) to provide travel facilities for any customer of a tour operator or travel agent who is outside Ireland and who is unable to make the return journey provided for in an overseas travel contract by reason of the inability or failure of the tour operator or travel agent concerned to fulfil his financial or contractual obligations in relation to such overseas travel contract;
+
+F21[(*aa*) where a package travel contract includes carriage of a traveller, to provide repatriation, and, if necessary, the financing of accommodation prior to the repatriation, of that traveller, required as a consequence of the insolvency of the organiser of the package travel contract concerned;]
+
+(*b*) to reimburse a customer of a tour operator or travel agent for any reasonable expenses necessarily incurred by such customer by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to an overseas travel contract;
+
+F22[(*ba*) to reimburse a traveller for any reasonable expenses necessarily incurred by the traveller in respect of a package travel contract as a consequence of the insolvency of the organiser of the package travel contract concerned;]
+
+(*c*) to refund, as far as possible, to a customer of a tour operator or travel agent any payments made by him to the tour operator or travel agent in respect of an overseas travel contract which could not be completed by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to such overseas travel contract;
+
+F23[(*ca*) to refund, as far as possible, to a traveller all payments made by him or her in respect of a package travel contract where the travel services under the package travel contract could not be performed as a consequence of the insolvency of the organiser of the package travel contract concerned;]
+
+(*d*) to defray any reasonable expenses incurred by the Minister, or provide for any payments by the Minister, on behalf of a customer of a tour operator or travel agent in respect of an overseas travel contract which could not be completed by reason of the inability or failure of the tour operator or travel agent to meet his financial or contractual obligations in relation to such overseas travel contract.
+
+F24[(*e*) to defray any reasonable expenses related to the recovery of monies due under *subsection (7)* where the Minister is satisfied that in undertaking such expenses there would be a substantial interest in protecting the fund;]
+
+(2) Payments may not be made from the Fund to a person in respect of any loss or liability incurred in connection with an overseas travel contract unless the tour operator or travel agent concerned held, at the time such person entered into the contract, a licence under this Act, or unless the licence of such operator or travel agent was, at that time, revoked and the revocation is the subject of an appeal to the court.
+
+(3) Where money is payable on foot of the Bond to, or for the benefit of, a customer of a tour operator or travel agent for the purpose of compensating such customer for losses or liabilities incurred by him in connection with an overseas travel contract—
+
+(*a*) a payment shall not be made out of the Fund until all moneys payable under the Bond have been paid to, or for the benefit of, such person, and
+
+(*b*) a payment shall not be made out of the Fund to any person in respect of losses or liabilities incurred by him in any case where such person has already been reimbursed in full from moneys payable pursuant to the Bond.
+
+(4) If any event occurs which may affect or delay payments pursuant to the Bond, the Minister or any person nominated by him pursuant to this Act, at his discretion, may make payments from the Fund to or for the benefit of any customer of a tour operator or travel agent who may be affected and any amount so paid shall be repaid to the Fund as soon as may be after any funds payable pursuant to the Bond have been realised.
+
+(5) Without prejudice to any existing right of a customer of a tour operator or travel agent to recover damages in relation to the standard of accommodation or service provided pursuant to an overseas travel contract, nothing in this section shall be construed as enabling such customer to recover any such damages from the Fund.
+
+(6) F25[Subject to *section 16A(2)*, regulations made by the Minister under this section may]—
+
+(*a*) provide for the determination of the amounts of payments from the Fund,
+
+(*b*) provide for the terms on which and the manner in which any payments from the Fund may be made in any particular case or classes of case,
+
+(*c*) specify the manner in which payments are to be made in any case where the amount of the Fund and any sums due pursuant to the Bond of a tour operator or travel agent are insufficient to satisfy the claims of all persons concerned, and, in particular, may specify that in any such case payments shall be made in proportion to the amount established to be due in respect of each claim.
+
+F26[(7) Where payments have been made from the fund under *subsection (1)*, because the Bond is insufficient, the fund shall be an unsecured creditor of the tour operator or travel agent concerned, in respect of such payments.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(d)(i)(I).
+>
+> F21: Inserted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(d)(i)(II).
+>
+> F22: Inserted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(d)(i)(III).
+>
+> F23: Inserted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(d)(i)(IV).
+>
+> F24: Inserted (1.10.1995) by *Package Holidays and Travel Trade Act 1995* (17/1995), s. 31(1), S.I. No. 235 of 1995.
+>
+> F25: Substituted (17.06.2020) by *European Union (Package Travel) Regulations 2020* (S.I. No. 219 of 2020), reg. 2(d)(ii).
+>
+> F26: Inserted (1.10.1995) by *Package Holidays and Travel Trade Act 1995* (17/1995), s. 31(2), S.I. No. 235 of 1995.
+>
+> **Editorial Notes:**
+>
+> E49: Power pursuant to section exercised (9.12.2022) by *Transport (Tour Operators and Travel Agents) Act 1982 (Disbursements from Fund) Regulations 2022* (S.I. No. 644 of 2022).
+>
+> E50: Power pursuant to section exercised (18.06.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Claims by Customers) Regulations 2021* (S.I. No. 290 of 2021).
+>
+> E51: Power pursuant to section exercised (8.03.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982, (Disbursements from Fund) Regulations 2021* (S.I. No. 105 of 2021).
+>
+> E52: Power pursuant to section exercised (13.04.1983) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Claims by Customers) Regulations 1983* (S.I. No. 104 of 1983), in effect as per reg. 2.
+>
+> E53: Previous affecting provision: power pursuant to section exercised (17.06.2020) by *Transport (Tour Operators and Travel Agents) Act 1982 (Disbursements from Fund) Regulations 2020* (S.I. No. 218 of 2020); revoked (8.03.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982, (Disbursements from Fund) Regulations 2021* (S.I. No. 105 of 2021), reg. 6.
+
+### 19. Investment of money of Fund.
+
+**19.** — (1) Moneys of the Fund shall be maintained in a current account to be managed and controlled by the Minister or in an investment account to be managed and controlled by the Minister for Finance.
+
+(2) Sums payable into the Fund shall be paid into the current account thereof and sums payable out of the Fund shall be paid out of that account.
+
+(3) Moneys standing to the credit of the current account and not required to meet current expenditure shall be transferred to the investment account of the Fund.
+
+(4) Whenever the moneys in the current account of the Fund are insufficient to meet the liabilities of that account, there shall be transferred to that account from the investment account of the Fund such sums as may be necessary for the purpose of discharging those liabilities.
+
+(5) Subject to *subsection (4)* of this section, moneys standing to the credit of the investment account of the Fund shall be invested by the Minister for Finance, and income arising from any such investment shall be paid into that account.
+
+(6) An investment pursuant to *subsection (5)* of this section may be in any securities in which trustees are for the time being by law empowered to invest trust funds or in any of the stocks, funds and securities as are for the time being authorised by law as investments for Post Office Savings Bank funds.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 3 of 1982</td><td>Transport (Tour Operators and Travel Agents) Act 1982</td><td>Sections 12, 16 and 19</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## PART V — Miscellaneous
+
+### 20. F27[Offence - contravening section 4 or 5 and penalties.
+
+**20.** — (1) A person who carries on business, or holds himself or herself as carrying on business—
+
+(*a*) as a tour operator F28[...], in contravention of *section 4*, or
+
+(*b*) as a travel agent F28[...], in contravention of *section 5*,
+
+commits an offence and is liable—
+
+(i) on summary conviction, to a class A fine, or
+
+(ii) on conviction on indictment, to a fine not exceeding €250,000.
+
+(2) A person who for the purposes of obtaining for himself or herself or any other person a licence under *section 6* makes a statement which he or she knows to be false or misleading or who recklessly makes a statement which is false in a material particular commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000, and any such licence obtained by him or her as a result of that statement is void and of no effect.
+
+(3) Where a person is convicted of an offence under this section the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order that person to pay to the Minister the costs and expenses, measured by the court, incurred by the Minister in relation to the investigation, detection and prosecution of the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (27.06.2014) by *State Airports (Shannon Group) Act 2014*(27/2014), s. 54(c), commenced on enactment. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F28: Deleted (11.03.2019) by *European Union (Package Travel and Linked Travel Arrangements) Regulations 2019* (S.I. No. 80 of 2019), reg. 25(4).
+>
+> **Editorial Notes:**
+>
+> E54: Previous affecting provisions: subss. (2), (4) amended and (6) inserted (1.10.1995) by*Package Holidays and Travel Trade Act 1995* (27/2014), s. 32(a)-(c), S.I. No. 235 of 1995; section substituted as per F-note above.
+
+### 21. Provisions in relation to offences.
+
+**21.** — (1) Summary proceedings in respect of an offence under this Act may be brought and prosecuted by the Minister.
+
+(2) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted—
+
+(*a*) in every case, within two years from the date of the offence, and
+
+(*b*) if at the expiry of that period, the person to be charged is outside the State, within six months of the date on which he enters the State.
+
+(3) Where an offence under this Act is committed by a body corporate and the offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body or any person who was purporting to act in any such capacity, he, as well as the body, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+### 22. Indictment of bodies corporate.
+
+**22.** — (1) A body corporate may be sent forward for trial on indictment for an offence under *section 20* of this Act with or without recognisances.
+
+F29[(2) The provisions of section 382 of the Companies Act, 1963 shall extend to every body corporate (whether or not a company within the meaning of the Act) charged on indictment with an offence under *section 20* of this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.10.1995) by*Package Holidays and Travel Trade Act 1995*(27/2014), s. 33, S.I. No. 235 of 1995. *Companies Act 1963* was repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4 and sch. 2 part 1, S.I. No. 169 of 2015, subject to savings and transitional provisions in s. 5 (including a specific reference to *Interpretation Act 2005* (23/2005), s. 27) and in sch. 6 para. 11.
+
+### 23. Provisions as to proceedings in court or in liquidation.
+
+**23.** — In determining, in proceedings in any court, or in any liquidation, a claim by a person in respect of an overseas travel contract against a tour operator or travel agent, the extent, if any, to which such person may have benefited pursuant to the provisions of this Act shall be taken into account by the court or, as the case may be, by the liquidator.
+
+### 24. Payments to Fund and Bond not part of tour operator's or travel agent's assets.
+
+**24.** — Neither payments made to the Fund pursuant to *section 15* of this Act by a tour operator nor any moneys payable on foot of the Bond entered into by such tour operator or by a travel agent pursuant to *section 13* of this Act shall be reckoned to be part of the assets of such tour operator or travel agent and none of such moneys shall be used to discharge any liability of the tour operator or travel agent otherwise than in accordance with this Act.
+
+### 25. Orders and regulations.
+
+**25.** — (1) Any order or regulation made by the Minister under this Act may contain such incidental or consequential provisions as appear to the Minister to be necessary or expedient for the purpose of implementing the provisions of this Act.
+
+(2) The Minister may make such orders or regulations as appear to him to be necessary or expedient to implement the provisions of this Act and the Minister may amend or revoke any order made under this section.
+
+(3) Every order and regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling the order or regulation, as the case may be, is passed by either House, within the next subsequent twenty-one days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E55: Power pursuant to section exercised (9.12.2022) by *Transport (Tour Operators and Travel Agents) Act 1982 (Disbursements from Fund) Regulations 2022* (S.I. No. 644 of 2022).
+>
+> E56: Power pursuant to section exercised (18.06.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Claims by Customers) Regulations 2021* (S.I. No. 290 of 2021).
+>
+> E57: Power pursuant to section exercised (8.03.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982, (Disbursements from Fund) Regulations 2021* (S.I. No. 105 of 2021).
+>
+> E58: Power pursuant to section exercised (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), in effect as per reg. 2.
+>
+> E59: Power pursuant to section exercised (01.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), in effect as per reg. 2.
+>
+> E60: Power pursuant to section exercised (19.12.1986) by *Travellers' Protection Fund (Amendment) Regulations 1986* (S.I. No. 434 of 1986), in effect as per reg. 1(3).
+>
+> E61: Power pursuant to section exercised (7.06.1984) by *Travellers' Protection Fund Regulations 1984* (S.I. No. 139 of 1984), in effect as per reg. 2.
+>
+> E62: Power pursuant to section exercised (13.04.1983) by *Tour Operators and Travel Agents (Bonding) Regulations 1983* (S.I. No. 102 of 1983), in effect as per reg. 2.
+>
+> E63: Power pursuant to section exercised (13.04.1983) by *Transport (Tour Operators and Travel Agents) Act, 1982 (Claims by Customers) Regulations 1983* (S.I. No. 104 of 1983), in effect as per reg. 2.
+>
+> E64: Previous affecting provision: Power pursuant to section exercised (17.06.2020) by *Transport (Tour Operators and Travel Agents) Act 1982 (Disbursements from Fund) Regulations 2020* (S.I. No. 218 of 2020); revoked (8.03.2021) by *Transport (Tour Operators and Travel Agents) Act, 1982, (Disbursements from Fund) Regulations 2021* (S.I. No. 105 of 2021), reg. 6.
+>
+> E65: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Tour Operators (Licensing) (Amendment) Regulations 1992* (S.I. No. 176 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(h), in effect as per reg. 2.
+>
+> E66: Previous affecting provision: power pursuant to section exercised (1.07.1992) by *Travel Agents (Licensing) (Amendment) Regulations 1992* (S.I. No. 175 of 1992), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(g), in effect as per reg. 2.
+>
+> E67: Previous affecting provision: power pursuant to section exercised (1.11.1989) by *Tour Operators (Licensing) (Amendment) Regulations 1989* (S.I. No. 160 of 1989), in effect as per reg. 3; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(g), in effect as per reg. 2.
+>
+> E68: Previous affecting provision: power pursuant to section exercised (1.11.1989) by *Travel Agents (Licensing) (Amendment) Regulations 1989* (S.I. No. 159 of 1989), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(f), in effect as per reg. 2.
+>
+> E69: Previous affecting provision: power pursuant to section exercised (1.07.1988) by *Tour Operators (Licensing) (Amendment) Regulations 1988* (S.I. No. 133 of 1988), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(f), in effect as per reg. 2.
+>
+> E70: Previous affecting provision: power pursuant to section exercised (1.07.1988) by *Travel Agents (Licensing) (Amendment) Regulations 1988* (S.I. No. 132 of 1988), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E71: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Travel Agents (Licensing) (Amendment) Regulations 1987* (S.I. No. 176 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(d), in effect as per reg. 2.
+>
+> E72: Previous affecting provision: power pursuant to section exercised (2.07.1987) by *Tour Operators (Licensing) (Amendment) Regulations 1987* (S.I. No. 175 of 1987), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(e), in effect as per reg. 2.
+>
+> E73: Previous affecting provision: power pursuant to section exercised (19.12.1986) by *Tour Operators (licensing) (Amendment) (No. 2) Regulations 1986* (S.I. No. 435 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(d), in effect as per reg. 2.
+>
+> E74: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Travel Agents (Licensing) (Amendment) Regulations 1986* (S.I. No. 216 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E75: Previous affecting provision: power pursuant to section exercised (20.06.1986) by *Tour Operators (Licensing) (Amendment) Regulations 1986* (S.I. No. 215 of 1986), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(c), in effect as per reg. 2.
+>
+> E76: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Travel Agents (Licensing) (Amendment) Regulations 1985* (S.I. No. 166 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E77: Previous affecting provision: power pursuant to section exercised (14.06.1985) by *Tour Operators (Licensing) (Amendment) Regulations 1985* (S.I. No. 165 of 1985), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(b), in effect as per reg. 2.
+>
+> E78: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Travellers' Protection Fund Regulations 1983* (S.I. No. 103 of 1983), in effect as per reg. 2; revoked (7.06.1984) by *Travellers' Protection Fund Regulations 1984* (S.I. No. 139 of 1984), reg. 9, in effect as per reg. 2.
+>
+> E79: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Travel Agents (Licensing) Regulations 1983* (S.I. No. 101 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17(a), in effect as per reg. 2.
+>
+> E80: Previous affecting provision: power pursuant to section exercised (13.04.1983) by *Tour Operators (Licensing) Regulations 1983* (S.I. No. 100 of 1983), in effect as per reg. 2; revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17(a), in effect as per reg. 2.
+
+[^1]: OJ No. L 326, 11.12.2015, p. 1
+[^2]: OJ No. L158, 23.6.1990, p. 59

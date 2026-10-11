@@ -1,0 +1,6631 @@
+---
+title: "Consumer Credit Act, 1995"
+identifier: "eli/1995/act/24"
+type: act
+jurisdiction: ie
+language: en
+number: 24
+year: 1995
+date: 1995-07-31
+last_amended: 2026-02-05
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1995/act/24/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1995/act/24/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Consumer Credit Act, 1995
+
+AN ACT TO REVISE AND EXTEND THE LAW RELATING TO CONSUMER CREDIT, HIRE-PURCHASE, HIRING AND MONEYLENDING AND TO ENABLE EFFECT TO BE GIVEN TO COUNCIL DIRECTIVE NO. 87/102/EEC OF 22 DECEMBER, 1986, AS AMENDED BY COUNCIL DIRECTIVE NO. 90/88/EEC OF 22 FEBRUARY, 1990, AND FOR THOSE PURPOSES TO REPEAL THE HIRE-PURCHASE ACTS, 1946 TO 1980, AND THE MONEYLENDERS ACTS, 1900 TO 1989, AND TO REPEAL AND AMEND CERTAIN PROVISIONS OF THE SALE OF GOODS AND SUPPLY OF SERVICES ACT, 1980, TO PROVIDE THAT THE DIRECTOR OF CONSUMER AFFAIRS SHALL MONITOR ALL CUSTOMER CHARGES BY CREDIT INSTITUTIONS AND FOR THAT PURPOSE TO REPEAL SECTION 28 OF THE CENTRAL BANK ACT, 1989, TO PROVIDE FOR THE AMENDMENT AND EXTENSION OF THE PAWNBROKERS ACT, 1964, TO PROVIDE FOR THE AMENDMENT OF SECTION 9 OF THE CONSUMER INFORMATION ACT, 1978, AND TO PROVIDE FOR CONNECTED MATTERS. [31*st July*, 1995]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions of National Consumer Agency re-transferred and references construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39, S.I. No. 366 of 2014. Functions were previously transferred from Director of Consumer Affairs to National Consumer Agency, see E-note below.
+>
+> **Transfer of functions to Commission**
+>
+> **39.** (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> ...
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> C2: Application of Act restricted (1.10.1997) by *Credit Union Act 1997* (15/1997), s. 184(c), S.I. No. 403 of 1997, as substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 34, S.I. No. 280 of 2013.
+>
+> **Certain enactments not to apply to credit unions etc.**
+>
+> **[184.**— The following enactments, namely— ...
+>
+> (*c*) the Consumer Credit Act 1995,
+>
+> shall not apply to a credit union or to a body the members of which are credit unions and the principal objects of which are the promotion of the credit union movement and the provision of services to credit unions.**]**
+>
+> **Editorial Notes:**
+>
+> E1: Offences under Act excluded from application of *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), s. 11 (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014 (Section 11) Order 2015* (S.I. No. 527 of 2015), arts. 3, 4 and sch., in effect as per art. 1(2).
+>
+> E2: Exemption of Act from application of *Electronic Commerce Act 2000* by *Electronic Commerce Act 2000* (27/2000), s. 11 removed (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 89, S.I. No. 287 of 2013.
+>
+> E3: Competent authorities designated for purpose of Act (30.05.2006) by *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2006* (S.I. No. 290 of 2006), reg. 4(1) and sch. ref. no. 3.
+>
+> E4: Act included in definition of designated enactments for purposes of *Central Bank Act 1942* (22/1942), s. 2(1) and sch. 2 part 1 item 22, as substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 31, S.I. No. 160 of 2003, and as subsequently substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 part 1 item 82, S.I. No. 469 of 2010.
+>
+> E5: Previous affecting provision: functions of Director of Consumer Affairs transferred and references construed (1.05.2007) by *Consumer Protection Act* (19/2007), ss. 2, 37 and sch. 1 part 1, S.I. No. 178 of 2007; repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> E6: Previous affecting provision: functions of Central Bank transferred and references construed by *Central Bank Act* (22/1942), s. 33C(1) and sch. 2, as inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 26, S.I. No. 160 of 2003; substituted and deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 part 1 item 39, S.I. No. 469 of 2010.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of Part extended (1.09.1997) by *Consumer Credit Act, 1995 (Section 3) Regulations 1997* (S.I. No. 186 of 1997), reg. 3, in effect as per reg. 2.
+>
+> 3\. The following provisions of the Consumer Credit Act, 1995 (No. 24 of 1995), shall apply to a housing loan advanced by a local authority—
+>
+> ( *a* ) Part I, other than sections 9 to 16, 18 and 19, and
+>
+> ( *b* ) in Part IX, sections 115, 121 (1), other than "Subject to subsection (3),", 123, 124, 125, 128, 129, where applicable, 130, 132 and 134.
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Consumer Credit Act, 1995.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to subs. (2) exercised (13.05.1996) by *Consumer Credit Act, 1995 (Commencement) Order 1996* (S.I. No. 121 of 1996).
+>
+> 2\. The 13th day of May, 1996, is hereby appointed as the day on which the Consumer Credit Act, 1995 (No. 24 of 1995), other than section 54 (3) thereof, shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, unless the context otherwise requires—
+
+"the Act of 1980" means the Sale of Goods and Supply of Services Act, 1980;
+
+F1["Act of 1997" means the Central Bank Act 1997;]
+
+F4["Act of 2022" means the Consumer Rights Act 2022;]
+
+F5["Act of 2024" means the Gambling Regulation Act 2024;]
+
+"advertisement" includes every form of advertising, whether in a publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and references to the publishing of advertisements shall be construed accordingly;
+
+"agreement" means an agreement to which this Act applies;
+
+F6["APR" means the annual percentage rate of charge (being, in the case of a credit agreement, the total cost of credit to the consumer, expressed as an annual percentage of the amount of credit granted), calculated in accordance with *section 9*;]
+
+F7[...]
+
+F7[...]
+
+F8["Bank" means the Central Bank F9[...];]
+
+"borrower" means a consumer acting as a borrower;
+
+F10["business" includes trade and profession;]
+
+"business name" means the name or style under which any business is carried on;
+
+"buyer" means a consumer acting as a buyer;
+
+"cash" includes money in any form;
+
+"cash price" means the money consideration for a transaction for the purchase of goods or the supply of a service by a consumer which is not financed by credit;
+
+F7[...]
+
+"collecting repayments" means, in respect of a F11[high cost credit agreement], the collection of repayments in respect of the agreement at a place other than a business premises of the F11[high cost credit provider];
+
+"company" means—
+
+(*a*) a company within the meaning of the Companies Acts, 1963 to 1990, or
+
+(*b*) a body established under the laws of a state other than the State and corresponding to a body referred to in *paragraph (a)*;
+
+F4["commercial guarantee", in relation to a hire-purchase agreement, means any undertaking by an owner or producer to a hirer (in addition to the owner’s legal obligation to supply goods in conformity with the agreement) to reimburse the price paid or to repair, replace or service goods in any way if they do not meet the specifications or any other requirements not related to conformity set out in the guarantee statement or in the relevant advertising available at the time of, or before, the conclusion of the hire-purchase agreement;
+
+"compatibility" means the ability of goods to function with hardware or software with which goods of the same type are normally used without the need to convert the goods, hardware or software;]
+
+F12["consumer" means—
+
+(*a*) a natural person acting outside the person's business, or
+
+(*b*) any person, or person of a class, declared to be a consumer in an order made under *subsection (9)*;]
+
+"consumer-hire agreement" means an agreement of more than three months duration for the bailment of goods to a hirer under which the property in the goods remains with the owner;
+
+"contract of guarantee" means, in relation to any agreement, a contract, made at the request express or implied of the consumer, to guarantee the performance of the consumer's obligations under the agreement, and the expression "guarantor" shall be construed accordingly;
+
+"cooling-off period" has the meaning assigned to it by *section 50*;
+
+"the Council Directive" means Council Directive No. 87/102/EEC of 22 December 1986[^1], for the approximation of the laws, regulations and administrative provisions of the Member States of the European Communities concerning consumer credit, F13[as amended by Council Directive No. 90/88/EEC of 22 February 1990[^2] and Directive 98/7/EC of the European Parliament and of the Council of 16 February 1998[^3]], the texts of which are set out for convenience of reference F13[in *Parts I, II and III*, respectively, of the *First Schedule*;]
+
+"credit" includes a deferred payment, cash loan F14[or other similar financial accommodation];
+
+"credit agreement" means an agreement whereby a creditor grants or promises to grant to a consumer a credit in the form of a deferred payment, a cash loan or other similar financial accommodation;
+
+"credit card" means a card issued by a credit institution or other person to an individual by means of which goods, services or cash may be obtained by the individual on credit and amounts in respect of the goods, services or cash may be charged to the credit card account of the individual maintained by the credit institution or other person;
+
+"credit institution" means—
+
+(*a*) the holder of a licence granted under section 9 of the Central Bank Act, 1971,
+
+(*b*) a body licensed to carry on banking under regulations made under the European Communities Act, 1972,
+
+(*c*) a building society incorporated or deemed to be incorporated under section 10 of the Building Societies Act, 1989,
+
+(*d*) a society licensed to carry on the business of a trustee savings bank under section 10 of the Trustee Savings Banks Act, 1989,
+
+F15[(*e*) a retail credit firm authorised under the Act of 1997;]
+
+(*f*) F16[...]
+
+(*g*) F7[...]
+
+"credit intermediary" means a person, other than a credit institution or a mortgage lender, who in the course of his business arranges or offers to arrange for a consumer the provision of credit or the letting of goods in return for a commission, payment or consideration of any kind from the provider of the credit or the owner, as the case may be;
+
+"credit intermediaries authorisation" means an authorisation granted under *section 144*;
+
+"credit-sale agreement" means a credit agreement for the sale of goods under which the purchase price or part of it is payable in instalments and the property in the goods passes to the buyer immediately upon the making of the agreement;
+
+"creditor" means a person who grants credit under a credit agreement in the course of his trade, business or profession, and includes a group of such persons;
+
+F4["delivery" means voluntary transfer of possession from one person to another;
+
+"digital content" has the meaning assigned to it by the Act of 2022;
+
+"digital service" means—
+
+(*a*) a service that allows a hirer to create, process, store or access data in digital form, or
+
+(*b*) a service that allows the sharing of or any other interaction with data in digital form uploaded or created by a hirer or any other user of the service,
+
+and includes in particular video and audio sharing and other file hosting, social media and word processing and games offered in the cloud computing environment;]
+
+"the Director" means the Director of Consumer Affairs;
+
+"financial accommodation" includes credit and the letting of goods;
+
+"functions" includes powers and duties;
+
+F4["functionality" means the ability of goods to perform their functions having regard to their purpose;
+
+"goods" has the meaning assigned to it by the Act of 2022;
+
+"goods with digital elements" has the meaning assigned to it by the Act of 2022;
+
+"guarantor" means—
+
+(*a*) an owner,
+
+(*b*) a producer, or
+
+(*c*) any other person who provides a commercial guarantee in relation to goods let under a hire-purchase agreement;]
+
+F17["high cost credit" means credit supplied by a high cost credit provider to a consumer on foot of a high cost credit agreement;
+
+"high cost credit agreement" means a credit agreement into which a high cost credit provider enters, or offers to enter, with a consumer in which one or more of the following apply:
+
+(*a*) the agreement was concluded away from the business premises of the high cost credit provider or the business premises of the supplier of goods or services under the agreement;
+
+(*b*) any negotiations for, or in relation to the credit were conducted at a place other than the business premises of the high cost credit provider or the business premises of the supplier of goods or services under the agreement;
+
+(*c*) repayments under the agreement will, or may, be paid by the consumer to the high cost credit provider or the representative of the high cost credit provider at any place other than the business premises of the high cost credit provider or the business premises of the supplier of goods or services under the agreement;
+
+(*d*) the total cost of credit to the consumer under the agreement is in excess of an APR of 23 per cent, or such other rate as may be prescribed;
+
+"high cost credit provider" means a person who engages in the provision of high cost credit, or who advertises or announces themselves or holds themselves out in any way as engaging in the provision of high cost credit, but does not include—
+
+(*a*) any pawnbroker in respect of business carried on by the pawnbroker in accordance with the provisions of the Pawnbrokers Act 1964 ,
+
+(*b*) a society which is registered as a credit union under the Credit Union Act 1997,
+
+(*c*) a registered society within the meaning of the Friendly Societies Acts 1896 to 2021,
+
+(*d*) a credit institution,
+
+(*e*) a person who supplies money for the purchase, sale or hire of goods at an APR which is less than or equal to 23 per cent (or such other rate as may be prescribed), or
+
+(*f*) a mortgage lender;
+
+"high cost credit provider’s licence" means a licence granted under *section 93*;]
+
+"hirer" means a consumer who takes, intends to take or has taken goods from an owner under a hire-purchase agreement or a consumer-hire agreement in return for periodical payments;
+
+"hire-purchase agreement" means an agreement for the bailment of goods under which the hirer may buy the goods or under which the property in the goods will, if the terms of the agreement are complied with, pass to the hirer in return for periodical payments; and where by virtue of two or more agreements, none of which by itself constitutes a hire-purchase agreement, there is a bailment of goods and either the hirer may buy the goods, or the property therein will, if the terms of the agreements are complied with, pass to the hirer, the agreements shall be treated for the purpose of this Act as a single agreement made at the time when the last agreement was made;
+
+"house" includes any building or part of a building used or suitable for use as a dwelling and any outoffice, yard, garden or other land appurtenant thereto or usually enjoyed therewith;
+
+F12["housing loan" means—
+
+(*a*) an agreement for the provision of credit to a person on the security of a mortgage of a freehold or leasehold estate or interest in land—
+
+(i) for the purpose of enabling the person to have a house constructed on the land as the principal residence of that person or that person's dependants, or
+
+(ii) for the purpose of enabling the person to improve a house that is already used as the principal residence of that person or that person's dependants, or
+
+(iii) for the purpose of enabling the person to buy a house that is already constructed on the land for use as the principal residence of that person or that person's dependants,
+
+or
+
+(*b*) an agreement for refinancing credit provided to a person for a purpose specified in *paragraph (a)(i)*, *(ii)* or *(iii)*, or
+
+(*c*) an agreement for the provision of credit to a person on the security of a mortgage of a freehold or leasehold estate or interest in land on which a house is constructed where the house is to be used, or to continue to be used, as the principal residence of the person or the person's dependants, or
+
+(*d*) an agreement for the provision of credit to a person on the security of a mortgage of a freehold or leasehold estate or interest in land on which a house is, or is to be, constructed where the person to whom the credit is provided is a consumer;]
+
+"installation charge" means the charge for—
+
+(*a*) the installing of any electric line or any gas or water pipe,
+
+(*b*) the fixing of goods to which the agreement relates to the premises where they are to be used, and the alteration of premises to enable any such goods to be used thereon, and
+
+(*c*) where it is reasonably necessary that any such goods should be constructed or erected on the premises where they are to be used, any work carried out for the purpose of such construction or erection;
+
+F8["local authority" means a local authority for the purposes of the Local Government Act 2001;]
+
+F7[...]
+
+F18[...]
+
+F18[...]
+
+F18[...]
+
+F18[...]
+
+"mortgage" includes charge;
+
+F12["mortgage lender" means a person who carries on a business that consists of or includes making housing loans;]
+
+F19["mortgage intermediary" means a person (other than a mortgage lender or credit institution) who, in return for commission or some other form of consideration—
+
+(*a*) arranges, or offers to arrange, for a mortgage lender to provide a consumer with a housing loan, or
+
+(*b*) introduces a consumer to an intermediary who arranges, or offers to arrange, for a mortgage lender to provide the consumer with such a loan;]
+
+"motor vehicle" means a vehicle intended or adapted for propulsion by mechanical means;
+
+"owner" means the person who lets or has let goods to a hirer under a hire-purchase agreement or a consumer-hire agreement;
+
+"partnership" has the meaning assigned to it by the Partnership Act, 1890;
+
+F8["pawnbroker" means the holder of a licence granted under section 8 of the Pawnbrokers Act 1964;]
+
+"premises" includes any building, dwelling, temporary construction, vehicle, ship or aircraft;
+
+"prescribed" means prescribed by regulations F20[made under this Act] and "prescribe" shall be construed accordingly;
+
+F4["producer" means—
+
+(*a*) a manufacturer of goods,
+
+(*b*) an importer of goods into the European Union, or
+
+(*c*) any person purporting to be a producer by placing the person’s name, trade mark or other distinctive sign on the goods, and includes any person acting in the name, or on behalf, of the producer;]
+
+"record" means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
+
+F9[...]
+
+F2["relevant date" means the date on which section 14 of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 comes into operation;]
+
+F3["retail credit firm" has the same meaning as it has in Part V of the Act of 1997;]
+
+F7[...]
+
+"running account" means a facility under a credit agreement whereby the consumer is enabled to receive, from time to time, from the creditor or a third party, cash, goods or services to an amount or value such that, taking into account payments made by or to the credit of the consumer, the credit limit (if any) is not at any time exceeded;
+
+"total cost of credit" means the total cost of the credit to the consumer being all the costs, comprising interest, collection and all other charges, which the consumer has to pay for the credit exclusive of any sum payable as a penalty or as compensation or damages for breach of the agreement;
+
+"undertaking" means a company, partnership or any other person.
+
+(2) In this Act a reference to a borrower, buyer, consumer, creditor, hirer, owner or seller includes a person to whom the borrower's, buyer's, consumer's, creditor's, hirer's, owner's or seller's rights or liabilities, as the case may be, under an agreement have passed by assignment or operation of law.
+
+(3) In this Act a reference to a section, Part or Schedule, is a reference to a section or Part of, or Schedule to this Act, unless there is an indication that a reference to any other enactment is intended or otherwise indicated.
+
+(4) In this Act a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless there is an indication that a reference to some other provision is intended.
+
+(5) Any reference in this Act to a term of an agreement includes a reference to a term which although not contained in an agreement is incorporated in the agreement by another term of the agreement.
+
+(6) A word or expression that is used in this Act and is also used in the Council Directive has, unless the contrary intention appears, the meaning in this Act that it has in the Council Directive.
+
+(7) In construing a provision of this Act, a court shall give to it a construction that will give effect to the Council Directive, and for this purpose a court shall have regard to the provisions of the Council Directive, including the preambles.
+
+(8) In this Act a reference to any enactment shall be construed as a reference to that enactment as amended or adapted by or under any subsequent enactment.
+
+F10[(9) The Minister for Finance may, by order notified in *Iris Oifigiúil*, declare any specified person, or any person of a specified class of persons, to be a consumer for the purposes of the definition of "consumer" in *subsection (1)*.]
+
+F21[(10) In *Part VI*, a reference to a reasonable expectation shall be interpreted having regard objectively to the nature and purpose of the hire-purchase agreement, the circumstances of the case and the usages and practices of the parties to the agreement.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 10(a), S.I. No. 229 of 2022.
+>
+> F4: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 148, S.I. No. 596 of 2022.
+>
+> F5: Inserted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 266(1)(a), S.I. No. 31 of 2026, art. 2(i)(iii)(IV).
+>
+> F6: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 10(b), S.I. No. 229 of 2022.
+>
+> F7: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 1, S.I. No. 160 of 2003.
+>
+> F8: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 1, S.I. No. 160 of 2003.
+>
+> F9: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(4) and sch. 2 part 4 items 1 and 2, S.I. No. 469 of 2010.
+>
+> F10: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 1(a), (e), S.I. No. 455 of 2004.
+>
+> F11: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 6, S.I. No. 575 of 2022.
+>
+> F12: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 1(b), (ba), (d), S.I. No. 455 of 2004.
+>
+> F13: Substituted (20.09.2000) by *European Communities (Consumer Credit) Regulations 2000* (S.I. No. 294 of 2000), reg. 3.
+>
+> F14: Substituted (23.09.1996) by *European Communities (Consumer Credit Act, 1995) (Amendment) Regulations 1996* (S.I. No. 277 of 1996), reg. 2(a).
+>
+> F15: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 10(c), S.I. No. 229 of 2022.
+>
+> F16: Deleted (12.02.2001) by *ICC Bank Act 2000* (32/2000), s. 7(1) and sch. part 1, S.I. No. 46 of 2001.
+>
+> F17: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 2(b), S.I. No. 575 of 2022.
+>
+> F18: Deleted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 2(a), S.I. No. 575 of 2022.
+>
+> F19: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 1(c), S.I. No. 455 of 2004.
+>
+> F20: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 1, S.I. No. 160 of 2003.
+>
+> F21: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 148(b), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C4: Definition of mortgage lender construed (13.05.1996) by *Consumer Credit Act, 1995 (Section 2) Regulations 1996* (S.I. No. 127 of 1996) reg. 3.
+>
+> 3\. The definition of "mortgage lender" contained in section 2 (1) of the Consumer Credit Act, 1995 shall include—
+>
+> ( *a* ) a person whose business includes the making of housing loans, provided that at least 50 per cent. by number of all business loans outstanding to him, in whole or in part, at any time comprises loans secured by mortgage of residential property, and
+>
+> ( *b* ) a local authority (within the meaning of the Local Government Act, 1941 ).
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to subs. (1) exercised (3.12.1996) by *Consumer Credit Act, 1995 (Section 2) (No. 2) Regulations 1996* (S.I. No. 369 of 1996).
+>
+> E9: Power pursuant to subs. (1) exercised (31.07.2015) by *Consumer Credit Act 1995 (Section 2) Regulations 2015* (S.I. No. 352 of 2015).
+>
+> E10: Power pursuant to subs. (1) exercised (25.07.2014) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2014* (S.I. No. 355 of 2014).
+>
+> E11: Power pursuant to subs. (1) exercised (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012).
+>
+> E12: Power pursuant to subs. (1) exercised (22.11.2010) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2010* (S.I. No. 551 of 2010).
+>
+> E13: Power pursuant to subs. (1) exercised (30.04.2008) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2008* (S.I. No. 125 of 2008), in effect as per reg. 2.
+>
+> E14: Power pursuant to subs. (1) exercised (23.03.2007) by *Consumer Credit Act 1995 (Section 2) (No. 2) Regulations 2007* (S.I. No. 138 of 2007).
+>
+> E15: Power pursuant to subs. (1) exercised (21.12.2006) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2006* (S.I. No. 687 of 2006).
+>
+> E16: Power pursuant to subs. (1) exercised (16.11.2004) by *Consumer Credit Act 1995 (Section 2) (No. 3) Regulations 2004* (S.I. No. 715 of 2004).
+>
+> E17: Power pursuant to subs. (1) exercised (9.04.2002) by *Consumer Credit Act 1995 (Section 2 Regulations 2002* (S.I. No. 142 of 2002).
+>
+> E18: Power pursuant to subs. (1) exercised (7.12.1999) by *Consumer Credit Act, 1995 (section 2) (No. 2) Regulations 1999* (S.I. No. 392 of 1999).
+>
+> E19: Power pursuant to subs. (1) exercised (3.12.1996) by *Consumer Credit Act, 1995 (Section 2) (No. 2) Regulations 1996* (S.I. No. 369 of 1996).
+>
+> E20: Power pursuant to subs. (1) exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 2) Regulations 1996* (S.I. No. 127 of 1996).
+>
+> E21: Previous affecting provision: power pursuant to subs. (1) exercised (24.09.2007) by *Consumer Credit Act 1995 (Section 2) (No. 4) Regulations 2007* (S.I. No. 690 of 2007); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 5.
+>
+> E22: Previous affecting provision: power pursuant to subs. (1) exercised (14.05.2007) by *Consumer Credit Act 1995 (Section 2) (No. 4) Regulations 2007* (S.I. No. 751 of 2007); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 5.
+>
+> E23: Previous affecting provision: power pursuant to subs. (1) exercised (30.03.2007) by *Consumer Credit Act 1995 (Section 2) (No. 3) Regulations 2007* (S.I. No. 139 of 2007); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 5.
+>
+> E24: Previous affecting provision: power pursuant to subs. (1) exercised (5.03.2007) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2007* (S.I. No. 100 of 2007); revoked (25.07.2014) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2014* (S.I. No. 355 of 2014), reg. 3.
+>
+> E25: Previous affecting provision: power pursuant to subs. (1) exercised (20.07.2005) by *Consumer Credit Act 1995 (Section 2) (Amendment) Regulations 2005* (S.I. No. 372 of 2005); this SI amended S.I. No. 414 of 2004 and became obsolete on its revocation, see E-note below.
+>
+> E26: Previous affecting provision: power pursuant to subs. (1) exercised (20.07.2005) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2005* (S.I. No. 371 of 2005); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 5.
+>
+> E27: Previous affecting provision: power pursuant to subs. (1) exercised (1.07.2004) by *Consumer Credit Act 1995 (Section 2) (No. 2) Regulations 2004* (S.I. No. 414 of 2004); revoked (31.07.2015) by *Consumer Credit Act 1995 (Section 2) Regulations 2015* (S.I. No. 352 of 2015), reg. 3.
+>
+> E28: Previous affecting provision: power pursuant to subs. (1) exercised (4.03.2004) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2004* (S.I. No. 93 of 2004); revoked (30.04.2008) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2008* (S.I. No. 125 of 2008), reg. 5, in effect as per reg. 2.
+>
+> E29: Previous affecting provision: subs. (e) inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch.1 part 21 item 1(d), S.I. No. 160 of 2003; substituted as per F-note above.
+>
+> E30: Previous affecting provision: definition of “regulatory authority” inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 1(j), S.I. No. 160 of 2003; deleted as per F-note above.
+>
+> E31: Previous affecting provision: power pursuant to subs. (1) exercised (3.07.2002) by *Consumer Credit Act 1995 (Section 2 (No. 2) Regulations 2002* (S.I. No. 339 of 2002); revoked (30.04.2008) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2008* (S.I. No. 125 of 2008), reg. 5, in effect as per reg. 5.
+>
+> E32: Previous affecting provision: definition of "creditit institution", para. (e) deleted (28.02.2002) by *ACC Bank Act 2001* (12/2001), s. 12(1) and sch. part 1, S.I. No. 69 of 2002; substituted (16.05.2022) as per F-note above.
+>
+> E33: Previous affecting provision: power pursuant to subs. (1) exercised (21.09.2001) by *Consumer Credit Act, 1995 (Section 2) Regulations 2001* (S.I. No. 432 of 2001); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 5.
+>
+> E34: Previous affecting provision: power pursuant to subs. (1) exercised (20.04.2000) by *Consumer Credit Act, 1995 (Section 2) Regulations 2000* (S.I. No. 113 of 2000); revoked (30.04.2008) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2008* (S.I. No. 125 of 2008), reg. 5, in effect as per reg. 2.
+>
+> E35: Previous affecting provision: power pursuant to subs. (1) exercised (27.01.1999) by *Consumer Credit Act, 1995 (section 2) Regulations 1999* (S.I. No. 15 of 1999); revoked (25.07.2014) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2014* (S.I. No. 355 of 2014), reg. 3.
+>
+> E36: Power pursuant to subs. (1) exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 2) Regulations 1996* (S.I. No. 127 of 1996); revoked (15.08.2012) by *Consumer Credit Act 1995 (Section 2) (No. 1) Regulations 2012* (S.I. No. 322 of 2012), reg. 3.
+
+### 3. Application.
+
+**3.**—(1) F22[Subject to this Act,] this Act shall apply to all credit agreements, hire-purchase agreements and consumer-hire agreements to which a consumer is a party.
+
+(2) This Act shall not apply to the following, that is to say—
+
+(*a*) a credit agreement in relation to credit granted or intended to be granted by—
+
+(i) a society which is registered as a credit union under the Industrial and Provident Societies Acts, 1893 to 1978, by virtue of the Credit Union Act, 1966,
+
+(ii) any registered society within the meaning of the Friendly Societies Acts, 1896 to 1977,
+
+F23[except where the interest of the credit union or registered society in all or any part of the credit concerned has been directly or indirectly assigned or otherwise disposed of to any person that is not a credit union or registered society,]
+
+F24[(*aa*) any transaction or proposed transaction conducted in the course of relevant trading operations within the meaning of section 39A (inserted by section 17 of the Finance Act, 1981) of the Finance Act, 1980, or within the meaning of section 39B (inserted by section 30 of the Finance Act, 1987) of the Finance Act, 1980.]
+
+(*b*) a credit agreement in the form of an authentic act signed before a notary public or a judge,
+
+F25[(*c*) any transaction entered into by a pawnbroker in respect of a pledge on which a loan or advance is made or to be made, or anything done with a view to such a transaction being entered into,]
+
+(*d*) an agreement for the provision on a continuing basis of a service or a utility where the consumer has the right to pay for it, by means of instalments or deferred payments,
+
+F26[(*e*) credit granted or made available without payment of interest or any other charge, other than where such credit is granted or made available by a person who has invited, by way of advertisement, consumers to avail of such credit,]
+
+F27[(*ea*) payments of ancillary State support advanced by the Health Service Executive under the Nursing Homes Support Scheme Act 2009,]
+
+(*f*) a credit agreement other than a credit agreement operated by means of a credit card under which no interest is charged provided the consumer agrees to repay the credit in a single payment, or
+
+(*g*) a credit agreement between an employer and an employee made on terms which are more favourable to the employee than terms offered generally to the public in the normal course of business.
+
+(3) F25[(*a*) The provisions of this Act may be applied to housing loans advanced by a local authority only by regulations made by the Minister for Finance after consultation with the Minister for the Environment and Local Government. Different provisions may be applied at different times to different classes of loans, by reference to such matters as that Minister considers appropriate.]
+
+(*b*) A loan, not secured by mortgage, made by a local authority for the purposes of carrying out improvement works (within the meaning of section 1 of the Housing (Miscellaneous Provisions) Act, 1979) to a house shall be regarded as a housing loan (within the meaning of this Act) for the purposes of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (23.09.1996) by *European Communities (Consumer Credit Act, 1995) (Amendment) Regulations 1996* (S.I. No. 277 of 1996), reg. 2(b).
+>
+> F23: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 8, commenced on enactment.
+>
+> F24: Inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 60, S.I. No. 150 of 1997.
+>
+> F25: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 2, S.I. No. 160 of 2003.
+>
+> F26: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 11, S.I. No. 229 of 2022.
+>
+> F27: Inserted (27.10.2009) by *Nursing Homes Support Scheme Act 2009* (15/2009), s. 37, S.I. No. 423 of 2009.
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to subs. (3)(a) exercised (1.09.1997) by *Consumer Credit Act, 1995 (Section 3) Regulations 1997* (S.I. No. 186 of 1987), in effect as per reg. 2.
+
+## PART IAResponsibilities and Powers of Director of Consumer Affairs — F28[PART IA — Responsibilities and Powers of Director of Consumer Affairs] — Annotations Amendments: Inserted (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 4. Interpretation: Part IA.
+
+F29[**4.**—(1) In this Part—
+
+"authorised officer" means an authorised officer appointed under *section 8A*;
+
+"designated provisions" means the provisions of this Act referred to in *subsection (2)*;
+
+"Minister" means the Minister for Enterprise, Trade and Employment;
+
+"responsible authority" means the Minister or the Director, as appropriate.
+
+(2) The provisions of this Act designated for the purposes of this Part are—
+
+(*a*) this Part and *Part XI*, and
+
+(*b*) Parts *II*, *X* and *XIII* in so far as they apply to credit intermediaries, and
+
+(*c*) such other provisions of this Act as are ancillary to those Parts.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 5. Functions of Director.
+
+F30[**5.**—(1) The Director has the following functions for the purposes of this Act:
+
+(*a*) to keep under general review practices or proposed practices in relation to any of the obligations imposed on persons by or under the designated provisions;
+
+(*b*) to carry out investigations of any such practices or proposed practices whenever the Director considers it in the public interest to do so or the Minister so requests;
+
+(*c*) to request persons engaging in or proposing to engage in such practices as are, or are likely to be, contrary to the obligations imposed on them by any designated provision to discontinue or not engage in those practices;
+
+(*d*) whenever a person in relation to whom such a request has been made engages in or is proposing to engage in any such practice, to bring civil proceedings in the High Court for an order requiring the person to discontinue or not to engage in the practice;
+
+(*e*) to investigate complaints concerning possible breaches of any of the designated provisions, but at the same time having regard to the availability of other procedures for resolving those complaints;
+
+(*f*) to publish codes of practice setting out conduct regarding agreements to which the designated provisions apply, in order to secure transparency and fair- ness in relation to the terms of those agreements and the conduct of agents dealing with consumers under those contracts;
+
+(*g*) to perform or exercise such other functions as are imposed or conferred on the Director by this or any other Act.
+
+(2) The Director may provide in response to complaints or otherwise, information or advice to consumers concerning agreements to which the designated provisions apply, and, in particular, on the obligations imposed on creditors or other persons by those provisions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I No. 160 of 2003.
+
+### 6. Director to report and provide information to Minister.
+
+F31[**6.**—(1) The Director shall, not more than 3 months after the end of each year, present a report to the Minister of the Director's activities in that year in relation to the performance of the Director's functions under this Act.
+
+(2) The Minister shall arrange for a copy of the report to be laid before each House of the Oireachtas within 2 months after receiving it.
+
+(3) The Director shall provide the Minister with such information regarding the performance or exercise of the Director's functions under this Act as the Minister may from time to time require.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 7. Powers of Director in respect of investigations.
+
+F32[**7.**—(1) In conducting an investigation under the designated provisions, the Director may—
+
+(*a*) require any person who, in the opinion of the Director is in possession of information, or has or has access to a record or thing, that is relevant to the investigation to provide the information, record or thing to the Director, and
+
+(*b*) where appropriate, require the person to attend before the Director for that purpose.
+
+(2) A person to whom a requirement is made under this section shall comply with the requirement, but in doing so is entitled to the same immunities and privileges as if the person were a witness before a court.
+
+(3) A person shall not obstruct or impede the Director in the performance or exercise of the Director's functions under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8. Directions of Director in respect of statements and notices.
+
+F33[**8.**—(1) The Director may, in the interests of better informing consumers, give directions as to the location and size of any statement or notice required under the designated provisions. The directions may be given in such manner as the Director thinks fit.
+
+(2) A person to whom such a direction is given shall comply with that direction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8A. Appointment of authorised officers for purposes of this Part.
+
+F34[**8A.**—(1) A responsible authority may in writing appoint persons to be authorised officers for the purposes of all or any of the designated provisions.
+
+(2) An appointment under this section may be for a specified or unspecified period.
+
+(3) A responsible authority who appoints an authorised officer shall provide the officer with a certificate of authority.
+
+(4) Whenever an authorised officer is requested to do so by a person in relation to whom the officer is exercising a power under the designated provisions, the officer shall produce the officer's certificate of authority together with some form of personal identification.
+
+(5) The appointment of a person as an authorised officer ends—
+
+(*a*) when the responsible authority concerned revokes the appointment or the person dies or resigns from the appointment, or
+
+(*b*) if the appointment is for a fixed period, when the period ends, or
+
+(*c*) if the person appointed is employed in the office of that responsible authority, when the person ceases to be so employed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 22.
+
+### 8B. Powers of authorised officers under this Part.
+
+F35[**8B.**—(1) An authorised officer may, for the purpose of carrying out an investigation under this Part, do all or any of the following:
+
+(*a*) at all reasonable times enter any premises, at which there are reasonable grounds to believe that—
+
+(i) a trade or business, or any activity relating to a trade or business, is, or has been, carried on, or
+
+(ii) records relating to a trade, business or activity are kept;
+
+(*b*) search and inspect premises entered under *paragraph (a)* and any records on the premises;
+
+(*c*) secure the premises or part of the premises for later inspection, or any part of the premises in which the officer reasonably believes records relating to a trade or business are kept;
+
+(*d*) require any person who carries on a trade, business or related activity, or any person employed in or in connection with it—
+
+(i) to produce to the officer records relating to the trade, business or activity, and
+
+(ii) if the information is in a non-legible form, to reproduce it in a legible form or to give to the officer such information as the officer reasonably requires in relation to entries in the records;
+
+(*e*) inspect and take copies of records inspected or produced under this section (including in the case of information in a non-legible form, a copy of all or part of the information in a permanent legible form);
+
+(*f*) remove and retain the records inspected or produced under this section for such period as may be reasonable to facilitate further examination (subject to the issue of a warrant for that purpose by a judge of the District Court);
+
+(*g*) require any such person to give to the officer information that the officer reasonably requires in relation to the trade, business or activity concerned, or in relation to the persons carrying on that trade, business or activity or employed in or in connection with it;
+
+(*h*) require any such person to give to the officer any other information which the officer may reasonably require in regard to the trade, business or activity concerned;
+
+(*i*) require any person by or on whose behalf data equipment is or has been used, or any person who has charge of, or is otherwise concerned with the operation of, the equipment or any associated apparatus or material, to give the officer all reasonable assistance in relation to the equipment, apparatus or material;
+
+(*j*) require any other person employed in or in connection with the trade, business or activity concerned to give to the officer, at any reasonable time, information that the officer reasonably requires in relation to that trade, business or activity and to produce to the officer any records that the person has or has access to.
+
+(2) An authorised officer shall not, except with the consent of the occupier, enter a private dwelling unless the officer has obtained a warrant from the District Court under *section 8C* authorising the entry.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8C. Issue of search warrants.
+
+F36[**8C.**—(1) If an authorised officer is prevented from entering premises under *section 8B*, the officer or another authorised officer may apply for the issue of a warrant under *subsection (2)*.
+
+(2) On considering an application under *subsection (1)*, a judge of the District Court may issue a warrant authorising the applicant or another authorised officer to enter the premises, but only if the judge is satisfied on the sworn information of the applicant that there are reasonable grounds for suspecting that information required by the applicant or another authorised officer under *section 8B* is held on any premises.
+
+(3) A warrant issued under *subsection (2)* authorises the officer named in the warrant, at any time or times within 1 month after the date of issue of the warrant to exercise, by force if necessary, all or any of the powers conferred on authorised officers by *section 8B*. If, when attempting to enter the premises specified in the warrant, the officer is requested to produce the warrant for inspection, the officer may exercise those powers only after complying with the request.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8D. Obstruction of authorised officer when exercising powers.
+
+F37[**8D.**—A person shall not—
+
+(*a*) obstruct or interfere with an authorised officer when exercising the powers conferred by this Part, or
+
+(*b*) without reasonable excuse, fail to comply with a requirement made by an authorised officer under this Part, or
+
+(*c*) give to an authorised officer information that the person knows or ought to know is false or misleading.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8E. Authorised officers may be accompanied by other persons when exercising powers.
+
+F38[**8E.**—An authorised officer can, if the officer thinks it necessary, be accompanied by a member of the Garda Síochána or by another authorised officer when exercising a power conferred on authorised officers by this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8F. Prohibition on unauthorised disclosure of information.
+
+F39[**8F.**—A person shall not disclose confidential information obtained—
+
+(*a*) as an authorised officer, or
+
+(*b*) as a member of the staff of, or as adviser or consultant to, the Director,
+
+unless duly authorised by the Director or by a member of staff authorised by the Director.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+## PART IB Functions and Powers of Central Bank of Ireland — F40[PART IB — Functions and Powers of Central Bank F41[...] of Ireland] — Annotations Amendments: Inserted (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003. Deleted (1.10.2010) by Central Bank Reform Act 2010 (23/2010), s. 15(4) and sch. 2 part 4 item 3, S.I. No. 469 of 2010. Modifications (not altering text): Transitional provision prescribed in respect of functions and powers previously vested in Director of Consumer Affairs (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 36 and sch. 3 para. 20(1), S.I. No. 160 of 2003. Schedule 3 (savings and transitional provisions). 36.—The savings and transitional provisions set out in Schedule 3 have effect. ... SCHEDULE 3 Savings and Transitional Provisions ... Performance of former functions of Director of Consumer Affairs 20. (1) If— (a) before the commencement of section 26 of this Act, action taken by, or done to, the Director of Consumer Affairs in relation to the performance of a function imposed, or the exercise of a power conferred, on the Director by or under a provision of the Consumer Credit Act 1995, and (b) on that commencement, the function or power became the function or power of the Bank, and (c) the action had not ceased to have effect before that commencement, the action continues to have effect as if it had been taken by, or done to, the Bank under that provision as in force after that commencement. Accordingly, if the action relates to the performance of a function, the action must be continued or completed by or in relation to the Bank, and if the action relates to the exercise of a power, the act or thing may be continued or completed by or in relation to the Bank.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40, F41, F42, F43, F44, F45, F46, F47, F48, F49, F50, F51, F52, F53, F54, F55: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022*(5/2022), s. 14, S.I. No. 229 of 2022.
+
+### 8G. Interpretation: Part IB.
+
+F42[**8G.**—(1) In this Part—
+
+"authorised officer" means an authorised officer appointed under section F43[8M];
+
+"designated provisions" means the provisions of this Act referred to in *subsection (2)*;
+
+"Minister" means the Minister for Finance;
+
+F44[...]
+
+(2) The provisions of this Act designated for the purposes of this Part are—
+
+(*a*) this Part and *Parts III*, *IV*, *V*, *VI*, *VII*, *VIII*, *IX* and *XII*, and
+
+(*b*) *Parts II*, *X* and *XIII* in so far as they apply to persons who enter into agreements with consumers otherwise than as credit intermediaries, and
+
+(*c*) such other provisions of this Act as are ancillary to those Parts.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+>
+> F43: Substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 4 part 4 item 1(a), S.I. No. 557 of 2012.
+>
+> F44: Deleted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 4 part 4 item 1(b), S.I. No. 557 of 2012.
+
+### 8H. Functions of Bank under this Act.
+
+F45[**8H.**—(1) The Bank has the following functions for the purposes of this Act:
+
+(*a*) to keep under general review practices or proposed practices in relation to any of the obligations imposed on persons by or under the designated provisions;
+
+(*b*) to carry out investigations of any such practices or proposed practices whenever the Bank considers it in the public interest to do so or the Minister so requests;
+
+(*c*) to request persons engaging in or proposing to engage in such practices as are, or are likely to be, contrary to the obligations imposed on them by a designated provision discontinue or not engage in those practices;
+
+(*d*) whenever a person in relation to whom such a request has been made engages in or is proposing to engage in any such practice, to bring civil proceedings in the High Court for an order requiring the person to discontinue or not to engage in the practice;
+
+(*e*) to investigate complaints concerning possible breaches of any of the designated provisions, but at the same time having regard to the availability of other procedures for resolving those complaints;
+
+(*f*) to publish codes of practice setting out conduct relating to agreements to which the designated provisions apply, in order to secure transparency and fairness in relation to the terms of those agreements and the conduct of agents dealing with consumers under those contracts;
+
+(*g*) to perform or exercise such other functions as are imposed or conferred on the Bank by this Act.
+
+(2) The Bank may provide in response to complaints or otherwise, information or advice to consumers concerning agreements to which the designated provisions apply, and, in particular, on the obligations imposed on creditors or other persons by those provisions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8I. Bank to provide information to Minister.
+
+F46[**8I.**—The Bank shall provide the Minister with such information regarding the performance or exercise of the Bank's functions under this Act as the Minister may require from time to time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8J. Bank to prepare annual report of its activities under this Act.
+
+F47[**8J.**—(1) The Bank shall, within 4 months after the end of each financial year, prepare a report setting out the Bank's activities in that year in relation to the performance or exercise of the Bank's functions under this Act.
+
+(2) The Bank shall include the report in, or attach the report to, the report presented to the Minister under section 61 of the Central Bank Act 1942.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Inserted (1.5.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8K. Powers of Bank in respect of investigations.
+
+F48[**8K.**—(1) In conducting an investigation under the designated provisions, the Bank may—
+
+(*a*) require any person who, in the opinion of the Bank is in possession of information, or has or has access to a record or thing, that is relevant to the investigation to provide the information, record or thing to the Bank, and
+
+(*b*) where appropriate, require the person to attend before the Bank for that purpose.
+
+(2) A person to whom a requirement is made under this section shall comply with the requirement, but in doing so is entitled to the same immunities and privileges as if the person were a witness before a court.
+
+(3) A person shall not obstruct or interfere with the Bank in the performance or exercise of the Bank's functions under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8L. Directions of Bank in respect of statements and notices.
+
+F49[**8L.**—(1) The Bank may, in the interests of better informing consumers, give directions as to the location and size of any statement or notice required under the designated provisions. The directions may be given in such manner as the Bank thinks fit.
+
+(2) A person to whom such a direction is given shall comply with the direction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8M. Appointment of authorised officers for purposes of this Part.
+
+F50[**8M.**—(1) F51[The Minister] may in writing appoint persons to be authorised officers for the purposes of all or any of the designated provisions.
+
+(2) An appointment under this section may be for a specified or unspecified period.
+
+(3) F51[The Minister] who appoints an authorised officer shall provide the officer with a certificate of authority.
+
+(4) Whenever an authorised officer is requested to do so by a person in relation to whom the officer is exercising a power under the designated provisions, the officer shall produce the officer's certificate of authority together with some form of personal identification.
+
+(5) The appointment of a person as an authorised officer ends—
+
+(*a*) when F51[the Minister] concerned revokes the appointment or the person dies or resigns from the appointment, or
+
+(*b*) if the appointment is for a fixed period, when the period ends, or
+
+(*c*) if the person appointed is an officer of F51[the Minister], when the person ceases to be such an officer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 22.
+>
+> F51: Substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 4 part 4 item 2, S.I. No. 557 of 2012.
+>
+> **Editorial Notes:**
+>
+> E38: Previous affecting provision: persons authorised under section deemed to be authorised (2.07.2002) for purposes of *European Communities (Cross Border Payments in Euro) Regulations 2002* (S.I. No. 335 of 2002), reg. 3(2), as amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(2) and sch. 2 part 19 item 2, S.I. No. 160 of 2003; revoked (19.05.2010) by *European Communities (Cross Border Payments) Regulations 2010* (S.I. No. 183 of 2010), reg. 21, in effect as per reg. 1(2).
+
+### 8N. Powers of authorised officers.
+
+F52[**8N.**—(1) An authorised officer may, for the purpose of carrying out an investigation under this Part, do all or any of the following:
+
+(*a*) at all reasonable times enter any premises, at which there are reasonable grounds to believe that—
+
+(i) a trade or business, or any activity relating to a trade or business, is, or has been, carried on, or
+
+(ii) records relating to a trade, business or activity are kept;
+
+(*b*) search and inspect premises entered under *paragraph (a)* and any records on the premises;
+
+(*c*) secure the premises or part of the premises for later inspection, or any part of the premises in which the officer reasonably believes records relating to a trade or business are kept;
+
+(*d*) require any person who carries on a trade, business or activity, or any person employed in or in connection with it—
+
+(i) to produce to the officer records relating to the trade, business or activity, and
+
+(ii) if the information is in a non-legible form, to reproduce it in a legible form or to give to the officer such information as the officer reasonably requires in relation to entries in the records;
+
+(*e*) inspect and take copies of records inspected or produced under this section (including in the case of information in a non-legible form, a copy of all or part of the information in a permanent legible form);
+
+(*f*) remove and retain the records inspected or produced under this section for such period as may be reasonable to facilitate further examination (subject to the issue of a warrant for that purpose by a judge of the District Court);
+
+(*g*) require any such person to give to the officer information that the officer reasonably requires in relation to the trade, business or activity concerned, or in relation to the persons carrying on that trade, business or activity or employed in or in connection with it;
+
+(*h*) require any such person to give to the officer any other information which the officer may reasonably require in regard to the trade, business or activity concerned;
+
+(*i*) require any person by whom or on whose behalf data equipment is or has been used, or any person who has charge of, or is otherwise concerned with the operation of, the equipment or any associated apparatus or material, to give the officer all reasonable assistance in relation to the equipment, apparatus or material;
+
+(*j*) require any other person employed in or in connection with the trade, business or activity concerned to give to the officer, at any reasonable time, information that the officer reasonably requires in relation to that trade, business or activity and to produce to the officer any records that the person has or has access to.
+
+(2) An authorised officer shall not, except with the consent of the occupier, enter a private dwelling unless the officer has obtained a warrant from the District Court under *section 8N* authorising the entry.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8O. Issue of search warrants.
+
+F53[**8O.**—(1) If an authorised officer is prevented from entering premises under *section 8N*, the officer or another authorised officer may apply for the issue of a warrant under *subsection (2)*.
+
+(2) On considering an application under *subsection (1)*, a judge of the District Court may issue a warrant authorising the applicant or another authorised officer to enter the premises, but only if the judge is satisfied on the sworn information of the applicant that there are reasonable grounds for suspecting that information required by the applicant or another authorised officer under *section 8N* is held on any premises.
+
+(3) A warrant issued under *subsection (2)* authorises the officer named in the warrant, at any time or times within 1 month after the date of issue of the warrant to exercise, by force if necessary, all or any of the powers conferred on authorised officers by *section 8N*. If, when attempting to enter the premises specified in the warrant, the officer is requested to produce the warrant for inspection, the officer may exercise those powers only after complying with the request.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8P. Obstruction of authorised officer when exercising powers.
+
+F54[**8P.**—A person shall not—
+
+(*a*) obstruct or interfere with an authorised officer when exercising the powers conferred by this Part, or
+
+(*b*) without reasonably excuse, fail to comply with a requirement made by an authorised officer under this Part, or
+
+(*c*) give to an authorised officer information that the person knows or ought to know is false or misleading.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+### 8Q. Authorised officers may be accompanied by other persons when exercising powers.
+
+F55[**8Q.**—An authorised officer can, if the officer thinks it necessary, be accompanied by a member of the Garda Síochána or by another authorised officer when exercising a power conferred on authorised officers by this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 3, S.I. No. 160 of 2003.
+
+## PART ICProvisions Applicable to Director and Bank — F56[PART IC — Provisions Applicable to Director and Bank] — Annotations Amendments: Inserted (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 35(1) and sch. 1 part 21 item 4, S.I. No. 160 of 2003.
+
+### 9. APR.
+
+**9.**—(1) In this Act the APR shall be the equivalent, on an annual basis, of the present value of all commitments (loans, repayments and charges), future or existing, F57[agreed, in the case of a credit agreement, by the creditor and the consumer and, in the case of a hire-purchase agreement, by the owner and the hirer], calculated to the nearest rounded decimal place in accordance with the method of calculation specified in the *Fourth Schedule*.
+
+(2) The F58[Bank] may by regulations amend the method of calculation of the APR specified in the *Fourth Schedule* either generally F59[or in relation to any form of credit covered in this Act or in relation to hire-purchase agreements].
+
+(3) The F58[Bank] shall, from time to time, publish guidelines to explain the method of calculation of the APR under this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 12(a), S.I. No. 229 of 2022.
+>
+> F58: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 5, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F59: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 12(b), S.I. No. 229 of 2022.
+
+### 10. Criteria for calculation of APR.
+
+**10.**—(1) This section shall apply to credit agreements other than housing loans.
+
+(2) For the purpose of calculating the APR the total cost of credit to the consumer shall be determined, with the exception of the following charges:
+
+(*a*) charges payable by the consumer for non-compliance with any of his commitments laid down in the credit agreement,
+
+(*b*) charges other than the purchase price which, in purchases of goods or services, the consumer is obliged to pay whether the transaction is paid in cash or by credit,
+
+(*c*) charges for the transfer of funds and charges for keeping an account intended to receive payments towards the reimbursement of the credit, the payment of interest and other charges except where the consumer does not have reasonable freedom of choice in the matter and where such charges are abnormally high; this paragraph shall not, however, apply to charges for collection of such reimbursements or payments, whether made in cash or otherwise,
+
+(*d*) membership subscriptions to associations or groups and arising from agreements separate from the credit agreement, even though such subscriptions have an effect on the credit terms,
+
+(*e*) charges for insurance or guarantees other than those designed to ensure payment to the creditor, in the event of the death, invalidity, illness or unemployment of the consumer, of a sum equal to or less than the total amount of the credit together with relevant interest, and other charges imposed by the creditor as a condition for credit being granted.
+
+(3) (*a*) The APR shall be calculated—
+
+(i) in the case of a credit agreement, at the time the agreement is concluded, or
+
+(ii) in the case of an advertisement which relates to the offering of credit and mentions the APR, at the time the advertisement is published, and
+
+(*b*) the calculation shall be made on the assumption that the credit agreement is valid for the period agreed and that the creditor and the consumer fulfil their obligations under the terms and by the dates agreed.
+
+(4) In the case of credit agreements containing terms allowing variations in the rate of interest and the amount or level of other charges contained in the APR but unquantifiable at the time when it is calculated, the APR shall be calculated on the assumption that interest and other charges remain fixed and will apply until the end of the credit agreement. The variability shall be indicated with equal prominence to and along with the APR.
+
+(5) In the case of credit agreements containing terms allowing variations in the rate of interest and the amount or level of other charges contained in the APR but quantifiable at the time when it is calculated, the APR shall be calculated to take account of the rates applicable from the specific dates set out in the agreement.
+
+(6) Where necessary, the following assumptions may be made in calculating the APR:
+
+(*a*) if there is no fixed timetable for repayment, and one cannot be deduced from the terms of the credit agreement and the means for repaying the credit granted, the duration of the credit shall be deemed to be one year,
+
+(*b*) unless otherwise specified, where the credit agreement provides for more than one repayment date, the credit will be made available and the repayments made at the earliest time provided for in the agreement,
+
+(*c*) where the amount of credit to be provided is not specified—
+
+(i) in the case of running account credit, where a credit limit is specified, it shall be assumed that the maximum amount of credit is provided for the duration of the agreement, and
+
+(ii) in any other case, it shall be assumed that the amount provided shall be £1,000,
+
+(*d*) where charges are payable at an unspecified date after the agreement is signed it shall be assumed that they are payable at the beginning of the agreement.
+
+(7) A creditor shall comply with the requirements of this section in relation to the calculation of the APR in respect of a credit agreement.
+
+### 11. Laying of regulations before Houses of Oireachtas.
+
+**11.**—Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 12. Offences.
+
+**12.**—F60[(1) A person commits a summary offence under this Act if the person—
+
+(*a*) in *Part IA*, contravenes *section 7(2)* or *(3)*, *8(2)*, *8D* or *8F*, or
+
+(*b*) in *Part IB*, contravenes *section 8K(2)* or *(3)*, *8L(2)* or *8P*, or
+
+(*c*) in *Part II*, contravenes *section 26* or *27*, or regulations under *section 28*, or
+
+F61[(*ca)* in *Part IIA*, contravenes *section 28A(2)* or *28B(2)*, or]
+
+(*d*) in *Part III*, contravenes *section 39*, or
+
+(*e*) in *Part IV*, contravenes *section 43(2)*, or
+
+(*f*) in *Part VI*, contravenes *section 61*, *64 (1)* or *69*, or
+
+(*g*) in *Part VII*, contravenes *section 87* or *91*, or
+
+(*h*) in *Part VIII*, contravenes *section 93(6)* or *(9)*, *94*, *95*, *98(4)* or *(5)*, *99*, *105(3)* or *(4)*, *106(2)* or *(3)*, or
+
+(*i*) in *Part IX*, contravenes *section 116(1)* or *(2)*, *117*, *122(3)*, *123*, *124*, *128*, *129(2)*, *130*, *131(4)* or *(5)*, *132*, *133(1)* or *(2)*, *134* or *135(3)*, or
+
+(*j*) in *Part X*, contravenes *section 138*, *139*, *142* or *143(2)*, or regulations made under *section 137*, or
+
+(*k*) in *Part XI*, contravenes *section 144(1)* or *(3)*, *145* or *148*.
+
+(2) A person commits an offence under this Act (other than a summary offence) if the person—
+
+(*a*) in *Part IV*, contravenes *section 45*, *46* or *49*, or
+
+(*b*) in *Part V*, contravenes *section 54*, or
+
+F62[(*c*) in *Part VIII*, contravenes section *94A(1)*, *96*, *97*, *98(1)* or *(2)*, *98A(1)*, *100*, *101*, *102*, *103(2)*, *107*, *110* or *111*, or]
+
+(*d*) in *Part IX*, contravenes *section 118* or *127*, or
+
+(*e*) in *Part X*, contravenes *section 140*, or
+
+(*f*) in *Part XI*, contravenes *section 146*, or
+
+(*g*) in *Part XII*, contravenes *section 149(1)*, *(12A)* or *(12C)*, *section 149A(2)*, *(14)* or *(16)* or a direction given under *section 149(5)* or *(6)* or *section 149A(6)* or *(7)*.]
+
+(3) Where an offence under this Act is committed by a body corporate or by a person acting on behalf of a body corporate and is proved to have been so committed with the consent, connivance or approval of, or to have been facilitated by any neglect on the part of any director, manager, secretary or any other officer of such body or a person who was purporting to act in any such capacity, such person shall also be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.
+
+(4) In this section, a reference to the contravention of a provision includes, where appropriate, a reference to a refusal, or a failure, to comply with that provision.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 2, S.I. No. 455 of 2004, subject to transitional provision in s. 35 and sch. 5 para. 12A.
+>
+> F61: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 13, S.I. No. 229 of 2022.
+>
+> F62: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 3, S.I. No. 575 of 2022.
+>
+> **Editorial Notes:**
+>
+> E39: Offence under subs. (2) prescribed an arrestable offence insofar as it relates to a contravention of *section 97(1)* or *(3)*, or *section 101*, *102* or *127* (9.08.2011) for purposes of *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 7, S.I. No. 411 of 2011.
+>
+> E40: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 6, S.I. No. 160 of 2003; substituted as per F-note above.
+
+### 13. Penalties.
+
+F63[**13.**—(1) A person who is guilty of an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 5 years or both.
+
+(2) Where a person is convicted of an offence under this Act and there is a continuation of the offence by the person after his or her conviction, the person shall be guilty of a further offence on every day on which the contravention continues and for each such offence shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €1,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €10,000.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Substituted (30.06.2005) by *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (12/2005), s. 82, S.I. No. 323 of 2005. A fine of €1,000 translates into a class D fine, not exceeding €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 14. Prosecution of offences.
+
+**14.**—F64[(1) An offence under this Act for contravening a provision designated for the purposes of *Part IA* may be prosecuted summarily only by the Director.
+
+(1A) An offence under this Act for contravening a provision designated for the purposes of *Part IB* (other than a provision of *Part VIII*) may be prosecuted summarily only by the Bank.]
+
+(2) An offence under this Act for contravening *Part VIII* may be prosecuted summarily by a member of the Garda Síochána.
+
+(3) F65[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 7, S.I. No. 160 of 2003.
+>
+> F65: Deleted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 4(1) and sch. 1 part 1 item 8, S.I. No. 287 of 2013.
+
+### 15. Cost of prosecution.
+
+F66[**15.**—(1) If a person is convicted of an offence for contravening a provision designated for the purposes of *Part IA*, the court shall, unless it is satisfied there are special and substantial reasons for not doing so, order the person to pay to the Director such amount of costs and expenses as the Director has, in the opinion of the court, incurred in investigating and prosecuting the offence.
+
+(2) If a person is convicted of an offence for contravening a provision designated for the purposes of *Part IB*, the court shall unless it is satisfied there are special and substantial reasons for not doing so, order the person to pay to the Bank such amount of costs and expenses as the Bank has, in the opinion of the court, incurred in investigating and prosecuting the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 8, S.I. No. 160 of 2003.
+
+### 16. Director and Bank to be immune from certain civil proceedings.
+
+F67[**16.**—(1) Civil proceedings may not be brought against the Director for failure to perform or exercise an obligation imposed on the Director by this Act, unless the failure is wilful.
+
+(2) Civil proceedings may not be brought against the Bank for failure to perform or exercise an obligation imposed on the Bank by this Act, unless the failure is wilful.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 9, S.I. No. 160 of 2003.
+
+### 17. Transitional provision.
+
+**17.**—(1) (*a*) *Part III* shall not apply to any credit agreement,
+
+(*b*) *Part VI* shall not apply to any hire-purchase agreement,
+
+(*c*) *sections 100, 101* and *103* shall not apply to a F68[high cost credit agreement], and
+
+(*d*) *Part IX*, other than *sections 121, 124, 130 (b), 133 (6), 134* and *136*, shall not apply to a housing loan,
+
+made before the commencement of this Act.
+
+(2) The Hire-Purchase Acts, 1946 to 1980, shall continue to apply to any hire-purchase agreement or credit-sale agreement (within the meaning of the Hire-Purchase Act, 1946) made before the commencement of *Part VII* which is still in force after its commencement notwithstanding the repeal of those Acts by *section 19*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 2, S.I. No. 575 of 2022.
+
+### 18. Expenses incurred in administering this Act.
+
+F69[**18.**—(1) The expenses incurred by the Minister for Enterprise, Trade and Employment and the Director in administering the provisions of this Act designated for the purposes of *Part IA* are, to the extent approved by the Minister for Finance, payable out of money provided by the Oireachtas.
+
+(2) The expenses incurred by the Minister for Finance in administering the provisions of this Act designated for the purposes of *Part IB* are payable out of money provided by the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Substituted (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 35(1) and sch. 1 part 21 item 10, S.I. No. 160 of 2003.
+
+### 19. Repeals.
+
+**19.**—The enactments specified in *column (2)* of the *Second Schedule* are hereby repealed to the extent specified in *column (3)* of that Schedule.
+
+## PART IIAdvertising and Offering of Financial Accommodation — PART II — Advertising and Offering of Financial Accommodation
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of Part restricted (21.03.2016) by *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), reg. 11(3).
+>
+> *General provisions applicable to advertising and marketing and provision concerning Consumer Credit Act 1995’s application*
+>
+> 11\. ...
+>
+> (3) To the extent that a provision of Part II of the Consumer Credit Act 1995 (No.24 of 1995) is inconsistent with a provision of this Part, that provision of that Part II shall not apply as respects credit agreements to which these Regulations apply.
+>
+> C6: Application of Part modified (11.06.2010) by *European Communities (Consumer Credit Agreements) Regulations 2010* (S.I. No. 281 of 2010), reg. 4(1), in effect as per reg. 2.
+>
+> ***Relationship of Parts 2 to 7 of these Regulations with Consumer Credit Act 1995***
+>
+> 4\. (1) For the application of Part II of the Consumer Credit Act 1995 (No. 24 of 1995) (in this Regulation called “the Act of 1995”) to advertising to which Regulation 7 applies, the annual percentage rate (in that Part called “APR”) shall be determined in accordance with the definition of “annual percentage rate of charge” in Regulation 6(1) and the formulae set out in Schedule 1.
+>
+> ...
+
+### 20. Application of Part II.
+
+**20.**—(1) Subject to *subsection (2)*, this Part applies to any advertisement, published or displayed for the purpose of a business carried on by the advertiser indicating willingness to—
+
+(*a*) provide or to arrange the provision of credit,
+
+(*b*) enter into a hire-purchase or consumer-hire agreement for the letting of goods by the advertiser, or
+
+(*c*) arrange the letting of goods under a hire-purchase or consumer-hire agreement by another person,
+
+to a consumer.
+
+(2) This Part does not apply to any advertisement published or displayed by a society referred to in *section 3 (2) (a)*.
+
+### 21. Credit advertisements.
+
+**21.**—(1) An advertisement in which a person offers to provide or arrange the provision of credit shall, if mentioning a rate of interest F70[or making any claim in relation to the cost of credit], contain a clear and prominent statement of the APR, using a representative example if no other means is practicable, F70[provided it is indicated that this is only a representative example,] and no other rate of interest shall be included in the advertisement.
+
+(2) The statement of the APR included in any advertisement to which *subsection (1)* applies shall be afforded in the advertisement no less prominence than a statement relating to—
+
+(*a*) any period over which payment is to be made,
+
+(*b*) the amount of any advance payment or the fact that no advance payment is required, and
+
+(*c*) the amount, number or frequency of any other payments or charges (other than the cash price of the goods or services) or of any repayments.
+
+(3) An advertisement (other than one relating to a housing loan) shall, where the credit offered is subject to conditions involving the payment of any charges other than the repayment of capital and interest on the sum borrowed, specify those conditions.
+
+(4) An advertisement shall, if any security is required or is required in specific circumstances in relation to the credit offered, state that such security is required.
+
+(5) Notwithstanding section 7 of the Consumer Information Act, 1978, it shall not be an offence for a person to provide credit at a lower rate than the rate advertised.
+
+(6) Where an advertisement refers to the availability of credit and the credit is subject to any restrictions, those restrictions shall be clearly indicated.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Inserted (8.08.1996) by *Consumer Credit Act, 1995 (Section 28) Regulations 1996* (S.I. No. 245 of 1996), reg. 2.
+
+### 22. Advertising of financial accommodation related to goods or services.
+
+**22.**—Where an advertisement refers to the availability of a financial accommodation in relation to the acquisition of goods or the provision of a service, it shall include F71[, where applicable,] a statement of—
+
+(*a*) the nature of the financial accommodation,
+
+(*b*) the cash price of the goods or service,
+
+F72[(*c*) the APR and the total cost of credit or the hire-purchase price,]
+
+(*d*) the number and amount of instalments,
+
+(*e*) the duration of the intervals between instalment payments,
+
+(*f*) the number of any instalments which have to be paid before delivery of the goods, and
+
+(*g*) details of any deposit payable.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Inserted (8.08.1996) by *Consumer Credit Act, 1995 (Section 28) Regulations 1996* (S.I. No. 245 of 1996), reg. 3(a).
+>
+> F72: Substituted (8.08.1996) by *Consumer Credit Act, 1995 (Section 28) Regulations 1996* (S.I. No. 245 of 1996), reg. 3(b).
+
+### 23. Advertising of consumer-hire agreements.
+
+**23.**—(1) An advertisement in which a person offers to arrange the letting of goods under a consumer-hire agreement or indicates the availability of such a letting shall include a statement to the effect that the agreement is for letting, hiring or leasing only and the goods remain the property of the owner,
+
+(i) which shall be afforded no less prominence than the sum of any amount payable by the hirer, and
+
+(ii) in the case of a visual advertisement, shall be enclosed by a boxed boundary line.
+
+(2) Where any figures relating to the amount payable by a hirer under a consumer-hire agreement are indicated in any advertisement to which *subsection (1)* applies, those figures shall be clearly displayed and shall be fully inclusive of all amounts payable, including taxes.
+
+(3) Where any figures relating to the amount payable by a hirer under a consumer-hire agreement are indicated in any advertisement to which *subsection (1)* applies, and those figures indicate the amount payable for part of the agreement only, that fact shall also be clearly indicated in the advertisement.
+
+### 24. Comparative advertising.
+
+**24.**—Where an advertisement purports to compare the level of repayments or cost under one or more forms of financial accommodation, the advertisement shall contain the relevant terms of each of the forms of financial accommodation referred to in the advertisement.
+
+### 25. Advertising of credit as being without charge.
+
+**25.**—An advertisement shall not describe credit as being without interest, or any other charge, if the availability of the credit is dependent on the consumer concluding with the creditor or any other person a maintenance contract (for any goods involved) or an insurance contract or on any other condition, compliance with which would, or would be likely in the future to, involve the consumer in any cost additional to that payable if the goods were bought for cash.
+
+### 26. Advertising of financial accommodation to comply with this Part.
+
+**26.**—(1) A person shall not display or publish or cause to be displayed or published an advertisement to which this Part applies which does not comply with this Part.
+
+(2) In any proceedings for contravening *subsection (1)*, it shall be a defence for the accused, being a person other than the provider of credit, to show that he is a person whose business it is to publish or arrange for the publication of advertisements and that he received the advertisement in question for publication in the ordinary course of business and did not know and had no reason to suspect that its publication would constitute a contravention of *subsection (1)*.
+
+(3) For the purposes of this section an advertisement published by displaying it shall be treated as published on every day on which it is displayed.
+
+### 27. Obligation on provider of financial accommodation to ensure advertisements comply with Part.
+
+**27.**—(1) Where the provider of a financial accommodation, in respect of any financial accommodation provided by him through a credit intermediary, has devised any part of an advertisement or supplied, or has been requested to supply, information in relation to it, but is not the advertiser, the provider shall ensure the advertisement displayed or published complies with this Part.
+
+(2) In any proceedings for contravening this section it shall be a defence for the accused being the provider of a financial accommodation in relation to an advertisement which does not comply with this Part to show that it was displayed or published without his consent or connivance or that he made reasonable efforts to ensure that it complied with this Part or to prevent its publication.
+
+### 28. Regulations relating to advertising availability and cost of credit.
+
+F73[**28.**—(1) The Bank may make regulations amending *section 21*, *22*, *23*, *24* or *25* with respect to the form or content of advertisements relating to the availability or the cost or the provision of credit to consumers.
+
+(2) The Bank may exercise the power conferred by *subsection (1)* only after consulting with, or at the request of, the Director and only after obtaining the consent of the Minister for Finance.
+
+(3) The Bank shall consult the Minister for the Environment and Local Government before making regulations under this section relating to housing loans.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 11, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+
+## Part IIA — Annual Percentage Rate
+
+### F75[28A. Maximum APR: credit agreements
+
+**28A.** (1) The APR in respect of a credit agreement, other than a F74[high cost credit agreement], shall not be greater than 23 per cent.
+
+(2) A credit institution that is a party to a credit agreement shall ensure that the agreement complies with *subsection (1)*.
+
+(3) A creditor shall not be entitled to enforce a credit agreement or any contract of guarantee relating thereto, and no security given by the consumer in respect of money payable under the credit agreement or given by a guarantor in respect of money payable under such contract of guarantee as aforesaid shall be enforceable against the consumer or guarantor by any holder thereof, unless the requirement specified in *subsection (2)* has been complied with in respect of the credit agreement:
+
+Provided that if a court is satisfied in any action that a failure to comply with the aforesaid requirement was not deliberate and has not prejudiced the consumer, and that it would be just and equitable to dispense with the requirement, the court may, subject to any conditions that it sees fit to impose, decide that the agreement shall be enforceable.
+
+(4) This section shall apply to a credit agreement entered into after the relevant date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Substituted (14.11.2022), by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 4, S.I. No. 575 of 2022.
+>
+> F75: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 14, S.I. No. 229 of 2022.
+
+### 28B. Maximum APR: hire-purchase agreements
+
+F76[**28B.** (1) The APR in respect of a hire-purchase agreement shall not be greater than 23 per cent.
+
+(2) An owner who is a party to a hire-purchase agreement shall ensure that the agreement complies with *subsection (1)*.
+
+(3) An owner shall not be entitled to enforce a hire-purchase agreement or any contract of guarantee relating thereto or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the hire-purchase agreement or given by a guarantor in respect of money payable under such contract of guarantee as aforesaid shall be enforceable against the hirer or guarantor by any holder thereof, unless the requirement specified in *subsection (2)* has been complied with in respect of the hire-purchase agreement:
+
+Provided that if a court is satisfied in any action that a failure to comply with the aforesaid requirement was not deliberate and has not prejudiced the hirer, and that it would be just and equitable to dispense with the requirement, the court may, subject to any conditions that it sees fit to impose, decide that the agreement shall be enforceable.
+
+(4) This section shall apply to a hire-purchase agreement entered into after the relevant date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 13, S.I. No. 229 of 2022.
+
+## PART III Requirements Relating to Credit Agreements and Form and Contents thereof — PART III — Requirements Relating to Credit Agreements and Form and Contents thereof
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Application of Part restricted (11.06.2010) by *European Communities (Consumer Credit Agreements) Regulations 2010* (S.I. No. 281 of 2010), reg. 4(2), (4), in effect as per reg. 2, as substituted (20.12.2012) by *European Union (Consumer Credit Agreements) (Amendment) Regulations 2012* (S.I. No. 579 of 2012), reg. 2(c).
+>
+> ***Relationship of Parts 2 to 7 of these Regulations with Consumer Credit Act 1995***
+>
+> **4.** ...
+>
+> **[**(2) Subject to paragraph (4), parts III (other than sections 30(1) and (4)), IV (other than sections 42, 46, 47 and 48) and V of the Act of 1995 do not apply in relation to a credit agreement to which Parts 2 to 7 apply.**]**
+>
+> ...
+>
+> **[**(4) Paragraph (2) does not affect the operation of any provision of Part III, IV or V of the Act of 1995 in relation to a contract of guarantee that relates to a credit agreement.**]**
+>
+> (5) Nothing in this Regulation affects the operation of any provision of the Act of 1995 in relation to advertising, or a credit agreement, to which Parts 2 to 7 of these Regulations do not apply.
+>
+> ...
+
+### 29. Application of Part III.
+
+**29.**—This Part shall apply to all credit agreements other than housing loans.
+
+### 30. General requirements relating to contents of credit agreements.
+
+**30.**—(1) A credit agreement and any contract of guarantee relating thereto shall be made in writing and signed by the consumer and by or on behalf of all other parties to the agreement, and—
+
+F77[(*a*) a copy of the agreement shall be sent to the consumer by the creditor within 10 days of the making of the agreement, and
+
+(*b*) in the case of any contract of guarantee relating to the agreement, a copy of the guarantee and the agreement shall be sent to the guarantor by the creditor within 10 days of the making of the contract.]
+
+(2) A credit agreement shall contain a statement in respect of the cooling-off period that the consumer—
+
+(*a*) has a right to withdraw from the agreement without penalty if the consumer gives written notice to this effect to the creditor within a period of 10 days of the date of receipt by the consumer of a copy of the agreement, or
+
+(*b*) may indicate that he does not wish to exercise this right by signing a statement to this effect, this signature to be separate from, and additional to, the consumer's signature in relation to any of the terms of the agreement.
+
+(3) A credit agreement shall contain a statement of—
+
+(*a*) the names and addresses of all the parties to the agreement, and
+
+(*b*) any costs or penalties to which the consumer may become liable for any failure by the consumer to comply with the terms of the agreement.
+
+(4) This section does not apply to credit in the form of advances on a current account, or on credit card accounts.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 76, S.I. No. 287 of 2013.
+
+### 31. Contents of credit agreements for cash loans.
+
+**31.**—(1) A credit agreement for a cash loan, other than an advance on a current account, or a credit card account shall contain a statement of the following—
+
+(*a*) the amount of the credit lent under the agreement,
+
+(*b*) the date the credit is to be advanced, (if known),
+
+(*c*) the amount of each repayment instalment,
+
+(*d*) the rate of interest charged and the APR,
+
+(*e*) the conditions under which the APR may be changed,
+
+(*f*) any charges not included in the calculation of the APR but which have to be paid by the borrower in certain given circumstances,
+
+(*g*) the number of repayment instalments,
+
+(*h*) the date, or the method of determining the date, upon which each repayment instalment is payable,
+
+(*i*) the total amount payable in respect of the loan,
+
+(*j*) the date of expiry of the loan,
+
+(*k*) the means and the cost of any termination by the borrower of the agreement before the final repayment instalment.
+
+(2) A credit agreement operated by means of a credit card or a running account shall contain a statement of—
+
+(*a*) the amount of the credit limit, if any, F78[at the commencement of the agreement and any conditions in relation to any variation of the limit,]
+
+(*b*) the rate of interest charged and the APR,
+
+(*c*) the terms of use and repayment, and
+
+(*d*) the means and the cost of termination of the agreement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Inserted (13.05.1996) by *Consumer Credit Act, 1995 (Section 37) Regulations 1996* (S.I. No. 129 of 1996), reg. 2.
+
+### 32. Requirements relating to credit-sale agreements.
+
+**32.**—(1) Before any credit-sale agreement is entered into in respect of the sale of goods the seller shall state in writing the cash price to the prospective buyer, otherwise than in the agreement.
+
+(2) *Subsection (1)* shall be deemed to have been complied with—
+
+(*a*) if the buyer has inspected the goods or like goods and at the time of his inspection tickets or labels were attached to or displayed with the goods clearly stating the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein, or
+
+(*b*) if the buyer has selected the goods by reference to a catalogue, price list or advertisement, which clearly stated the cash price either of the goods as a whole or of all the different articles or sets of articles comprised therein.
+
+(3) A credit-sale agreement shall contain a statement of—
+
+(*a*) the total cost of credit,
+
+(*b*) the cash price of the goods to which the agreement relates,
+
+(*c*) the amount of each of the instalments by which the total cost of credit is to be paid,
+
+(*d*) the date, or the method of determining the date, upon which each instalment is payable,
+
+(*e*) the number of instalments,
+
+(*f*) the cost of any termination of the agreement by the buyer before final payment, and
+
+(*g*) where applicable—
+
+(i) the rate of interest charged and the APR,
+
+(ii) the conditions under which the APR may be changed.
+
+(4) A credit-sale agreement shall contain a description of the goods to which the agreement relates sufficient to identify them.
+
+(5) A credit-sale agreement shall contain in a prominent position the words “**Credit-Sale Agreement**”.
+
+### 33. Avoidance of certain provisions in credit-sale agreements.
+
+**33.**—Any provision in any credit-sale agreement whereby—
+
+(*a*) any person acting on behalf of a seller in connection with the formation or conclusion of a credit-sale agreement is treated or is deemed to be the agent of the buyer, or
+
+(*b*) a seller is relieved from liability for the acts or defaults of any person acting on the seller's behalf in connection with the formation or conclusion of a credit-sale agreement,
+
+shall be void.
+
+### 34. Requirements relating to contents of contracts for services.
+
+**34.**—A credit agreement which is a contract for the supply of services, other than financial services, shall contain—
+
+(*a*) a statement of—
+
+(i) the total cost of credit,
+
+(ii) the cash price of the services to which the agreement relates,
+
+(iii) the amount of each instalment by which the total cost of credit is to be paid,
+
+(iv) the date, or the method of determining the date, upon which each instalment is payable,
+
+(v) the means and the cost of any termination of the agreement by the consumer before final payment, and
+
+(vi) where applicable—
+
+(I) the rate of interest charged, and
+
+(II) the conditions under which the APR may be changed, and
+
+(*b*) a description of the services (including any goods) to be supplied to which the agreement relates.
+
+### 35. Advances on current account.
+
+**35.**—(1) A consumer shall be informed by the creditor at the time, or before, an agreement is made in respect of the granting of credit in the form of an advance on a current account F79[including an overdraft] granted by a credit institution, other than on credit card accounts, of—
+
+(*a*) the credit limit, if any, F79[at the commencement of the agreement and any conditions in relation to any variation of the limit,]
+
+(*b*) the annual rate of interest and the charges applicable from the time the agreement is concluded and the conditions under which these may be amended, and
+
+(*c*) the procedure for determining the agreement.
+
+(2) The information required under *subsection (1)* shall be confirmed by the creditor in writing to the consumer within 10 days of the making of the agreement, and during the period of the agreement, the consumer shall be informed by the creditor of any change in the annual rate of interest or in the relevant charges at or before the time such change occurs and such information may be given in a statement of account or in an advertisement published in a national newspaper published and circulating in the State.
+
+(3) (*a*) Where any sum is advanced to a consumer by way of an overdraft tacitly accepted by both parties which extends beyond a period of three consecutive months, he shall be informed of the annual rate of interest and other charges applicable and of any subsequent amendment of those charges.
+
+(*b*) The information required to be given in *paragraph (a)* may be given in a statement of account or in an advertisement published in a national newspaper published and circulating in the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Inserted (13.05.1996) by *Consumer Credit Act, 1995 (Section 37) Regulations 1996* (S.I. No. 129 of 1996), reg. 3.
+
+### 36. Notice of important information to be included in credit agreements.
+
+**36.**—A credit agreement other than an overdraft facility, a credit-sale agreement or a F80[high cost credit agreement] shall contain, on the front page of the agreement, a notice in the form set out in *Part I* of the *Third Schedule* or such other form as may be prescribed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 3, S.I. No. 575 of 2022.
+>
+> **Editorial Notes:**
+>
+> E41: Power pursuant to section exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 36) Regulations 1996* (S.I. No. 128 of 1996).
+
+### 37. Regulations relating to form and content of credit agreements.
+
+F81[**37.**—(1) The Bank may make regulations amending *section 30*, *31*, *32(3)* to *32(5)*, *34* or *35* with respect to the form or content of credit agreements.
+
+(2) The Bank may exercise the power conferred by *subsection (1)* only after consulting with, or at the request of, the Director and only after obtaining the consent of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 12, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+>
+> **Editorial Notes:**
+>
+> E42: Power pursuant to section exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 37) Regulations 1996* (S.I. No. 129 of 1996).
+
+### 38. Enforceability.
+
+**38.**—A creditor shall not be entitled to enforce a credit agreement or any contract of guarantee relating thereto, and no security given by the consumer in respect of money payable under the credit agreement or given by a guarantor in respect of money payable under such contract of guarantee as aforesaid shall be enforceable against the consumer or guarantor by any holder thereof, unless the requirements specified in this Part have been complied with:
+
+Provided that if a court is satisfied in any action that a failure to comply with any of the aforesaid requirements, other than *section 30*, was not deliberate and has not prejudiced the consumer, and that it would be just and equitable to dispense with the requirement, the court may, subject to any conditions that it sees fit to impose, decide that the agreement shall be enforceable.
+
+### 39. Obligations on creditors to comply with Part III.
+
+**39.**—A creditor being a credit institution, a F82[high cost credit provider] or whose business or trade is or includes the sale of goods or supply of services who is a party to a credit agreement to which this Part applies shall ensure that the agreement complies with this Part and any regulations made under *section 37*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F82: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 4, S.I. No. 575 of 2022.
+
+## PART IVMatters Arising During Currency of Agreements — PART IV — Matters Arising During Currency of Agreements
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of Part restricted (11.06.2010) by *European Communities (Consumer Credit Agreements) Regulations 2010* (S.I. No. 281 of 2010), reg. 4(2), (4), in effect as per reg. 2, as substituted (20.12.2012) by *European Union (Consumer Credit Agreements) (Amendment) Regulations 2012* (S.I. No. 579 of 2012), reg. 2(c).
+>
+> ***Relationship of Parts 2 to 7 of these Regulations with Consumer Credit Act 1995***
+>
+> **4.** ...
+>
+> **[**(2) Subject to paragraph (4), parts III (other than sections 30(1) and (4)), IV (other than sections 42, 46, 47 and 48) and V of the Act of 1995 do not apply in relation to a credit agreement to which Parts 2 to 7 apply.**]**
+>
+> ...
+>
+> **[**(4) Paragraph (2) does not affect the operation of any provision of Part III, IV or V of the Act of 1995 in relation to a contract of guarantee that relates to a credit agreement.**]**
+>
+> (5) Nothing in this Regulation affects the operation of any provision of the Act of 1995 in relation to advertising, or a credit agreement, to which Parts 2 to 7 of these Regulations do not apply.
+>
+> ...
+
+### 40. Assignment of creditor's or owner's rights.
+
+**40.**—Where a creditor's or owner's rights under an agreement are assigned to a third person, the consumer shall be entitled to plead against that third person any defence which was available to him against the original creditor including set-off.
+
+### 41. Use of bills of exchange, etc.
+
+**41.**—(1) Where a bill of exchange or a promissory note is given to a creditor by a consumer as part of, or in connection with, a credit agreement, or is given as security for a credit agreement, the existence of the bill or note shall not affect the rights and protections available to the consumer by virtue of this Act.
+
+(2) Where a bill of exchange or a promissory note is negotiated by the creditor to a third party, the consumer may, notwithstanding anything in the Bills of Exchange Act, 1882, in any proceedings for the enforcement of the bill or note, plead against that third party any defence available to him against the creditor.
+
+### 42. Liability regarding goods and services.
+
+**42.**—(1) The existence of a credit agreement shall not in any way affect the rights of the consumer under the Act of 1980 against the supplier of goods or services purchased by means of such an agreement in cases where the goods or services are not supplied or are otherwise not in conformity with the contract for their supply.
+
+(2) Where—
+
+(*a*) in order to buy goods or obtain services, a consumer enters into a credit agreement with a person other than the supplier of them,
+
+(*b*) the creditor and the supplier of the goods or services have a pre-existing agreement whereunder credit is made available exclusively by that creditor to customers of that supplier for the acquisition of goods or services from the supplier,
+
+(*c*) the consumer referred to in *paragraph (a)* obtains his credit pursuant to that pre-existing agreement,
+
+(*d*) the goods or services covered by the credit agreement are not supplied, or are supplied only in part, or are not in conformity with the contract for the supply of them, and
+
+(*e*) the consumer has pursued his remedies against the supplier but has failed to obtain the satisfaction to which he is entitled,
+
+the consumer shall have the right to take proceedings against the creditor.
+
+(3) This section does not apply to housing loans.
+
+### 43. Duty to supply documents and information.
+
+**43.**—(1) Subject to this section, a creditor or an owner shall during the currency of the agreement provide, within 10 days of receipt of a written request by a consumer who is party to the agreement or if that consumer so requires any person specified by him in the request, a copy of the written agreement or a statement of—
+
+(*a*) the amount paid,
+
+(*b*) the amount, if any, due but unpaid, and the date and amount of each instalment that remains unpaid, and
+
+(*c*) the total amount outstanding and the date and amount of each outstanding instalment,
+
+under the agreement.
+
+(2) A creditor or an owner shall not, without reasonable cause, fail to comply within 10 days with a request under *subsection (1)*.
+
+(3) If the default described in *subsection (2)* continues for a further period of 14 days, then while the default so continues, the creditor or the owner, as the case may be, shall not be entitled to enforce the agreement, or any right to recover goods, and any person shall not be entitled to enforce a security given under the agreement.
+
+(4) *Subsection (1)* does not apply to a request made less than 4 weeks after a previous request under that subsection relating to the same credit agreement which was complied with.
+
+F83[(5) A request referred to in *subsection (1)* must be accompanied by a fee of €2.50 or, if some other amount is specified in a regulation made by the Bank for the purposes of this subsection, that other amount. The Bank may make such a regulation only after consulting the Director.]
+
+(6) *Subsection (5)* shall not apply where the request is in relation to a F84[high cost credit agreement].
+
+(7) This section does not apply to a housing loan.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 13, S.I. No. 160 of 2003.
+>
+> F84: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 5, S.I. No. 575 of 2022.
+
+### 44. Appropriation of payments.
+
+**44.**—(1) Subject to *subsection (3)*, where there are two or more agreements between a consumer and the same creditor or owner and where the consumer makes a payment which is not sufficient to discharge the amount then due under all the agreements, the consumer shall be entitled to appropriate the payment towards the agreements as he sees fit and, if he fails to do so, the payment shall, subject to *subsection (2)*, be appropriated by the creditor or owner, as the case may be, towards the agreements in proportion to the amounts due under the agreements.
+
+(2) Where all the agreements to which *subsection (1)* applies are hire-purchase agreements, and one-third of the hire-purchase price has been paid under each of the agreements, the owner may, if the hirer has failed to do so, appropriate the payment as he sees fit otherwise the payment shall, by virtue of *subsection (1)*, be appropriated towards the agreements in proportion to the amounts due under the agreements.
+
+(3) This section does not apply where any of the agreements is a housing loan.
+
+### 45. Restrictions on written communications.
+
+**45.**—(1) A creditor, owner or a person acting on his behalf shall not send to a consumer any F85[communication on paper] relating to a credit agreement with that consumer unless the communication is sent in a sealed envelope having nothing written or printed thereon, other than—
+
+(*a*) the name and address of the consumer, and
+
+(*b*) at the discretion of the sender—
+
+(i) the words “personal” or “private”, and
+
+(ii) a P.O. Box number together with, if desired by the sender, the words “If undelivered please return to” or similar words.
+
+(2) Subject to *subsection (3)*, a creditor, owner or a person acting on his behalf shall not send any written communication in connection with an agreement with that consumer to the consumer's employer or to any member of the consumer's family unless that employer or family member is a party to the agreement.
+
+(3) Where the agreement referred to in *subsection (2)* is a housing loan, the creditor or a person acting on his behalf may—
+
+(*a*) for the purposes of the Family Home Protection Act, 1976, send any written communication connected with the agreement to the consumer's spouse, or
+
+F86[(*aa*) for the purposes of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, send any written communication connected with the agreement to the consumer’s civil partner, or]
+
+(*b*) where the written consent of the consumer has been given, send any written communication connected with the agreement to any member of the consumer's family or to a person designated by the consumer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 77, S.I. No. 287 of 2013.
+>
+> F86: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 168 and sch. part 3 item 21, S.I. No. 648 of 2010.
+
+### 46. Visits and telephone calls.
+
+**46.**—A creditor, owner or a person acting on his behalf shall not visit or telephone—
+
+(*a*) a consumer without his consent—
+
+(i) at his place of employment or business unless the consumer resides at that place and all reasonable efforts to make contact with him have failed,
+
+(ii) at any place,
+
+(I) between the hours of 9 o'clock in the evening on any week day and 9 o'clock in the morning on the following day, or
+
+(II) at any time on a Sunday or a public holiday (within the meaning of the Holidays (Employees) Act, 1973),
+
+(*b*) a consumer's employer or any member of the consumer's family unless that employer or family member is a party to the agreement, without the consent of the consumer, given in writing and separate from any other term of agreement,
+
+for any purposes connected with an agreement other than the service of a document in connection with legal proceedings.
+
+### 47. Excessive rates of charge for credit.
+
+**47.**—(1) A consumer or a person acting on the consumer's behalf may apply to the Circuit Court in whose Circuit the consumer resides or in which the agreement was made, for a declaration that the total cost of credit provided for in any agreement is excessive.
+
+(2) Subject to this section, the Circuit Court may decide in any particular case coming before it, by an application under *subsection (1)*, that the total cost of credit provided for in any credit agreement is excessive.
+
+(3) In making the decision referred to in *subsection (2)* the court shall have regard to all relevant factors including—
+
+(*a*) interest rates prevailing at the time the agreement was made or, where applicable, interest rates prevailing at any time during the currency of the agreement,
+
+(*b*) the age, business competence and level of literacy and numeracy of the consumer,
+
+(*c*) the degree of risk involved for the creditor and the security provided,
+
+(*d*) the creditor's costs including the cost of collecting repayments, and
+
+(*e*) the extent of competition for the type of credit concerned.
+
+(4) This section does not apply to any credit agreement relating to credit advanced by a credit institution or a mortgage lender.
+
+F87[(5) If an application is made under *subsection (1)* in relation to a credit agreement, the Circuit Court may not make a declaration under this section unless it has given the Bank an opportunity to be heard at the hearing to determine the application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F87: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 14, S.I. No. 160 of 2003.
+
+### 48. Power of court to re-open credit agreement where charge is excessive.
+
+**48.**—(1) Where the Circuit Court has decided by virtue of *section 47*, that the total cost of credit is excessive, it may re-open the credit agreement so as to do justice between the parties and may decide to do any one or more of the following:
+
+(*a*) relieve the consumer from payment of any sum in excess of the sum adjudged by the court to be fairly due in respect of such total cost of credit;
+
+(*b*) set aside, either wholly or in part the agreement against the consumer;
+
+(*c*) revise or alter the terms of the agreement; or
+
+(*d*) order the repayment to the consumer of the whole or part of any sums paid.
+
+(2) Where an agreement to which *subsection (1)* relates is a F88[high cost credit agreement] the court may also order the F89[Bank] to revoke, suspend or alter the F88[high cost credit provider’s licence] of the holder concerned either immediately or as from such date as the court may decide.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F88: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 6, S.I. No. 575 of 2022.
+>
+> F89: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 15, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+
+### 49. Making demands and threats in relation to unenforceable agreements.
+
+**49.**—(1) A person shall not make a demand for payment or assert a present or prospective right to payment in respect of an agreement which is unenforceable under this Act.
+
+(2) A person shall not, with a view to obtaining payment in respect of an agreement which is unenforceable under this Act—
+
+(*a*) threaten to bring any legal proceedings,
+
+(*b*) place or cause to be placed the name of any person on a list of defaulters or debtors or threaten to do so, or
+
+(*c*) invoke or cause to be invoked any other collection procedure or threaten to do so.
+
+(3) In any proceedings for an offence under this section, it shall be a defence for the person to show that he had reasonable cause to believe that there was a right to payment.
+
+### 50. Cooling-off period.
+
+**50.**—(1) Subject to *subsections (2)* and *(4)*, a consumer may withdraw from an agreement within 10 days of receiving it or a copy thereof (“the cooling-off period”) by giving written notice to this effect to the creditor or the owner, as the case may be.
+
+(2) A consumer may forego his right to a cooling-off period in any credit agreement by signing a statement to this effect separately from any other term of the agreement.
+
+(3) A statement by which a consumer forgoes the right to a cooling-off period shall carry in a prominent position:
+
+**“WARNING**
+
+**THIS WAIVER MEANS YOU ARE GIVING UP YOUR RIGHT TO A 10 DAY PERIOD TO RECONSIDER YOUR COMMITMENT TO THE AGREEMENT.”.**
+
+(4) This section does not apply to a housing loan or credit availed of by means of a credit card or an overdraft facility offered by a credit institution.
+
+## PART VMatters Arising on Termination of Agreements or on Default — PART V — Matters Arising on Termination of Agreements or on Default
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of Part restricted (11.06.2010) by *European Communities (Consumer Credit Agreements) Regulations 2010* (S.I. No. 281 of 2010), reg. 4(2), (4), in effect as per reg. 2, as substituted (20.12.2012) by *European Union (Consumer Credit Agreements) (Amendment) Regulations 2012* (S.I. No. 579 of 2012), reg. 2(c).
+>
+> ***Relationship of Parts 2 to 7 of these Regulations with Consumer Credit Act 1995***
+>
+> **4.** ...
+>
+> **[**(2) Subject to paragraph (4), parts III (other than sections 30(1) and (4)), IV (other than sections 42, 46, 47 and 48) and V of the Act of 1995 do not apply in relation to a credit agreement to which Parts 2 to 7 apply.**]**
+>
+> ...
+>
+> **[**(4) Paragraph (2) does not affect the operation of any provision of Part III, IV or V of the Act of 1995 in relation to a contract of guarantee that relates to a credit agreement.**]**
+>
+> (5) Nothing in this Regulation affects the operation of any provision of the Act of 1995 in relation to advertising, or a credit agreement, to which Parts 2 to 7 of these Regulations do not apply.
+>
+> ...
+
+### 51. Application of Part V.
+
+**51.**—This Part shall apply to any agreement other than a housing loan.
+
+### 52. Consumer entitled to discharge agreement early.
+
+F90[**52.**—(1) A consumer is entitled to discharge the consumer’s obligations under an agreement at any time before the time fixed by the agreement for its termination.
+
+(2) The consumer shall exercise the entitlement by giving notice of termination in writing to the creditor or the owner (as the case requires) of the consumer's intention to determine the agreement.
+
+(3) Where the consumer exercises the entitlement, the creditor or owner shall allow a reduction in the total cost of credit under the agreement.
+
+(4) Except where *subsection (6)* applies, the reduction is to be calculated in accordance with a method or formula approved for that purpose by the Bank.
+
+(5) The Bank may approve different methods or formulas for the purpose of *subsection (4)*.
+
+(6) The Minister for Finance may, after consulting the Bank, make a regulation prescribing a method or formula for calculating the reduction in the total cost of credit under agreements generally or any class of agreement.
+
+(7) A method or formula prescribed by a regulation made under *subsection (6)* replaces a method or formula approved under *subsection (4)* to the extent that the regulation purports to supersede the method or formula so approved.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F90: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 16, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 24.
+
+### 53. Reduction where amount owed becomes payable before time fixed by agreement
+
+F91[**53.**—(1) A consumer is entitled to a reduction in the total cost of credit under an agreement if for any reason—
+
+(*a*) the amount owed by the consumer becomes payable before the time fixed by the agreement, or
+
+(*b*) any money becomes payable by the consumer before the time so fixed.
+
+(2) Except where *subsection (3)* applies, the reduction is to be calculated in accordance with a method or formula approved for that purpose by the Bank.
+
+(3) The Minister for Finance may, after consultation with the Bank, make a regulation prescribing a method or formula for calculating the reduction in the total cost of credit under agreements generally or any class of agreement.
+
+(4) A method or formula prescribed by a regulation made under *subsection (3)* replaces a method or formula approved under *subsection (2)* to the extent that the regulation purports to supersede the method or formula so approved.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 17, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 24.
+
+### 54. Limitation on right of enforcement.
+
+**54.**—(1) A creditor or an owner shall not enforce a provision of an agreement by—
+
+(*a*) demanding early payment of any sum,
+
+(*b*) recovering possession of any goods (save where the goods are in imminent danger of being damaged or stolen), or
+
+(*c*) treating any right conferred on the consumer by the agreement as determined, restricted or deferred,
+
+unless he has served on the consumer, at least 10 days before he proposes to take any action, a notice which shall specify the following:
+
+(i) details of the agreement sufficient to identify it;
+
+(ii) the name and address of the creditor or owner, as the case may be;
+
+(iii) the name and address of the consumer;
+
+(iv) the term of the agreement to be enforced; and
+
+(v) a statement of the action he intends to take to enforce the term of the agreement, the manner and circumstances in which he intends to take such action and the date on or after which he intends to take such action.
+
+(2) A creditor or an owner shall not, by reason of any breach by a consumer of an agreement—
+
+(*a*) determine the agreement,
+
+(*b*) demand early payment of any sum,
+
+(*c*) recover possession of the goods,
+
+(*d*) treat any right conferred on the consumer by the agreement as determined, restricted or deferred, or
+
+(*e*) enforce any security,
+
+unless he has served on the consumer, not less than 10 days before he proposes to take any action, a notice which shall specify the following:
+
+(i) details of the agreement sufficient to identify it;
+
+(ii) the name and address of the creditor or owner, as the case may be;
+
+(iii) the name and address of the consumer;
+
+(iv) the nature of the alleged breach;
+
+(v) either—
+
+(I) if the breach is capable of remedy, what action is required to remedy it and the date before which that action is to be taken, which date shall be not less than 21 days after the date of service of the notice, or
+
+(II) if the breach is not capable of remedy, the sum, if any, required to be paid as compensation for the breach and the date before which it is to be paid, which date shall be not less than 21 days after the date of service of the notice; and
+
+(vi) information about the consequences of failure to comply with the notice.
+
+(3) If the consumer takes the action specified under *subparagraphs (v) (I)* or *(v) (II)* of *subsection (2)*, before the date specified for that purpose in the notice, the breach shall be treated as not having occurred, in any records maintained for information on the consumer's credit record.
+
+(4) Notwithstanding this section, a creditor or an owner may apply to a court of competent jurisdiction in any particular case to have the provisions of this section dispensed with where the court is satisfied that it would be just and equitable to do so.
+
+### 55. Unjustified enrichment.
+
+**55.**—Where a creditor or an owner is compensated or recovers possession of goods in any action by virtue of this Act the court shall ensure that the compensation or repossession does not entail any unjustified enrichment of the creditor or the owner, as the case may be.
+
+## PART VIHire-Purchase Agreements — PART VI — Hire-Purchase Agreements
+
+### 56. Application of Part VI.
+
+**56.**—This Part shall apply to hire-purchase agreements.
+
+### 56A. Sections 73A to 73X: Interpretation
+
+F92[**56A.** A reference in *sections 73A* to *73X* to goods being in conformity with a hire-purchase agreement shall be construed in accordance with *section 73A(2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 149, S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E43: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 57. Requirement to state cash price.
+
+**57.**—(1) Before any hire-purchase agreement is entered into in respect of any goods, the owner shall state in writing the cash price to the prospective hirer, other than in the agreement.
+
+(2) *Subsection (1)* shall be deemed to have been complied with—
+
+(*a*) if the hirer has inspected the goods or like goods and at the time of his inspection tickets or labels were attached to or displayed with the goods clearly stating the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein, or
+
+(*b*) if the hirer has selected the goods by reference to a catalogue, price list or advertisement which clearly stated the cash price of the goods as a whole or of all the different articles or sets of articles comprised therein.
+
+### 58. Contents of hire-purchase agreements.
+
+**58.**—(1) A hire-purchase agreement and any contract of guarantee relating thereto shall be made in writing and signed by the hirer and by or on behalf of all other parties to the agreement, and—
+
+(*a*) a copy of the agreement shall be—
+
+(i) handed personally to the hirer upon the making of the agreement, or
+
+(ii) delivered or sent to the hirer by the owner within 10 days of the making of the agreement, and
+
+(*b*) in the case of any contract of guarantee relating to the agreement, a copy of the guarantee and the agreement shall be—
+
+(i) handed personally to the guarantor upon the making of the contract, or
+
+(ii) sent within 10 days of the making of any contract by the F93[owner] to the guarantor.
+
+(2) A hire-purchase agreement shall contain a statement of—
+
+(*a*) the hire-purchase price,
+
+(*b*) the cash price of the goods to which the agreement relates,
+
+(*c*) the amount of each of the instalments by which the hire-purchase price is to be paid,
+
+F94[(*ca*) where the agreement is made after the date on which section 15 of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 comes into operation, the APR in respect of the agreement,]
+
+(*d*) the date, or the method of determining the date, upon which each instalment is payable,
+
+(*e*) the number of instalments,
+
+(*f*) the names and addresses of all parties to the agreement at the time of its making, and
+
+(*g*) any costs or penalties to which the hirer will become liable for any failure by the hirer to comply with the terms of the agreement.
+
+(3) A hire-purchase agreement shall contain a list of the goods to which the agreement relates sufficient to identify them.
+
+(4) A hire-purchase agreement shall contain a notice which is at least as prominent as the rest of the contents of the agreement, in the terms specified in the *Fifth Schedule*.
+
+(5) A hire-purchase agreement shall contain in respect of the cooling-off period a statement that the hirer—
+
+(*a*) has a right to withdraw from the agreement without penalty if the hirer gives written notice to this effect to the F93[owner] within a period of 10 days of the date of receipt by the hirer of a copy of the agreement, or
+
+(*b*) may indicate that he does not wish to exercise this right by signing a statement to this effect, this signature to be separate from, and additional to, the hirer's signature in relation to any of the terms of the agreement.
+
+(6) A hire-purchase agreement shall contain a statement to the effect that a hirer is obliged to give the owner information under *section 69* as to the whereabouts of the goods to which the agreement relates.
+
+(7) A hire-purchase agreement shall contain in a prominent position the words “**Hire-purchase agreement**”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F93: Substituted (13.05.1996) by *Consumer Credit Act, 1995 (Section 60) Regulations 1996* (S.I. No. 130 of 1996), reg. 2.
+>
+> F94: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 15, S.I. No. 229 of 2022.
+
+### 59. Enforceability.
+
+**59.**—An owner shall not be entitled to enforce a hire-purchase agreement or any contract of guarantee relating thereto or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the hire-purchase agreement or given by a guarantor in respect of money payable under such contract of guarantee as aforesaid shall be enforceable against the hirer or guarantor by any holder thereof, unless the requirements specified in *sections 57* and *58* have been complied with:
+
+Provided that if a court is satisfied in any action that a failure to comply with any of the aforesaid requirements, other than *section 58 (1)*, was not deliberate and has not prejudiced the hirer, and that it would be just and equitable to dispense with the requirement, the court may, subject to any conditions that it sees fit to impose, decide that the agreement shall be enforceable.
+
+### 60. Regulations relating to form and content of hire-purchase agreements.
+
+F95[**60.**—(1) The Bank may make regulations amending *section 58* or the *Fifth Schedule* with respect to the form or content of hire-purchase agreements.
+
+(2) The Bank may exercise the power conferred by *subsection (1)* only after consulting with, or at the request of, the Director and only after obtaining the consent of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 18, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+>
+> **Editorial Notes:**
+>
+> E44: Power pursuant to section exercised (8.08.1996) by *Consumer Credit Act, 1995 (Section 60) (No. 2) Regulations 1996* (S.I. No. 246 of 1996).
+>
+> E45: Power pursuant to section exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 60) Regulations 1996* (S.I. No. 130 of 1996).
+
+### 61. Obligation on owners to comply with sections 58 and 60.
+
+**61.**—An owner who is a party to a hire-purchase agreement shall ensure that the contents of the agreement comply with *section 58* and any regulations made under *section 60*.
+
+### 62. Avoidance of certain provisions in hire-purchase agreements.
+
+**62.**—(1) Subject to *subsection (2)*, any provision in any hire-purchase agreement whereby—
+
+(*a*) an owner or a person acting on the owner's behalf is authorised to enter upon any premises for the purpose of taking possession of goods which have been let under a hire-purchase agreement,
+
+(*b*) the right conferred on a hirer by this Part to determine a hire-purchase agreement is excluded or restricted,
+
+(*c*) any liability in addition to the liability imposed by this Part is imposed on a hirer by reason of the termination of the hire-purchase agreement by the hirer under this Part,
+
+(*d*) a hirer, after the determination of the hire-purchase agreement or the bailment in any manner whatsoever, is subject to a liability which exceeds the liability to which he would have been subject if the agreement had been determined by him under this Part,
+
+(*e*) any person acting on behalf of an owner or seller in connection with the formation or conclusion of a hire-purchase agreement is treated as or deemed to be the agent of the hirer, or
+
+(*f*) an owner or seller is relieved from liability for the acts or defaults of any person acting on his behalf in connection with the formation or conclusion of a hire-purchase agreement,
+
+shall be void.
+
+(2) *Subsection (1)* does not apply in relation to a provision in a hire-purchase agreement whereby an owner of a motor vehicle which has been let under a hire-purchase agreement or a person acting on his behalf—
+
+(*a*) authorised to enter premises (other than a house used as a dwelling or any building within the curtilage thereof) for the purpose of taking possession of the motor vehicle, or
+
+(*b*) relieved from liability for any such entry.
+
+### 63. Rights of hirer to determine hire-purchase agreement.
+
+**63.**—(1) A hirer shall at any time before the final payment under a hire-purchase agreement falls due, be entitled to determine the agreement by giving notice of termination in writing to the owner or any person entitled or authorised to receive the sums payable under the agreement.
+
+(2) Where a hire-purchase agreement has been determined under this section, the hirer shall, without prejudice to any liability which has accrued before termination, have the option to either—
+
+(*a*) pay the amount, if any, by which one-half of the hire-purchase price exceeds the total of the sums paid and the sums due in respect of the hire-purchase price immediately before termination, or such less amount as may be specified in the agreement, or
+
+(*b*) purchase the goods by paying the difference between the amount already paid under the agreement and the hire-purchase price after the latter amount has been reduced in accordance with *section 52* or *53*, or such lesser amount as may be specified in the agreement.
+
+(3) Where a hire-purchase agreement has been determined under this section, the hirer shall, if he has failed to take reasonable care of the goods, be liable to pay for the failure.
+
+(4) Where a hirer, having determined a hire-purchase agreement under this section, wrongfully retains possession of the goods, then in any action brought by the owner to recover possession of the goods from the hirer, the court shall, unless it is satisfied that having regard to the circumstances it would not be just and equitable so to do, order the goods to be delivered to the owner, without giving the hirer the option to pay the value of the goods.
+
+(5) Nothing in this section shall prejudice any right of a hirer to determine a hire-purchase agreement otherwise than by virtue of this section.
+
+### 64. Restriction on right of owner to recover possession of goods otherwise than by proceedings.
+
+**64.**—(1) Subject to *subsection (3)*, where goods have been let under a hire-purchase agreement and one-third of the hire-purchase price has been paid or tendered by or on behalf of the hirer or any guarantor, the owner shall not enforce any right to recover possession of the goods from the hirer otherwise than by legal proceedings.
+
+(2) If an owner recovers possession of goods in contravention of *subsection (1)*, the hire-purchase agreement, if not previously determined, shall determine, and—
+
+(*a*) the hirer shall be released from all liability under the agreement, and shall be entitled to recover from the owner all sums paid by the hirer under the agreement or under any security given by him in respect thereof, and
+
+(*b*) any guarantor shall be entitled to recover from the owner in an action all sums paid by him under the contract of guarantee or under any security given by him in respect thereof.
+
+(3) Where the owner of a motor vehicle let under a hire-purchase agreement has commenced legal proceedings to recover possession of the vehicle from the hirer and it has been abandoned or left unattended in circumstances which have resulted or are likely to result in damage to the vehicle, the owner shall be entitled to enforce a right to recover possession of the vehicle and to retain possession thereof pending the outcome of the proceedings.
+
+(4) If a hirer refuses to give up possession of goods to an owner whose right to recover possession is restricted by *subsection (1)*, the hirer shall not be liable, by reason only of the refusal, for conversion of the goods.
+
+(5) In this section a reference to the hire-purchase price includes any installation charge provided for in the hire-purchase agreement.
+
+### 65. Hire-purchase price.
+
+**65.**—(1) In this Part “hire-purchase price” means the total sum payable by the hirer under a hire-purchase agreement in order to complete the purchase of the goods to which the agreement relates, exclusive of any sum payable as a penalty or as compensation or damages for a breach of the agreement.
+
+(2) Where an owner has agreed that any part of the hire-purchase price may be discharged otherwise than by payment of cash, any such discharge shall for the purposes of this Act, be deemed to be a payment of that part of the hire-purchase price.
+
+(3) Any sum payable by the hirer under a hire-purchase agreement by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement or account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of cash or by the transfer or delivery of goods or by any other means shall form part of the hire-purchase price.
+
+### 66. Powers of court in actions for recovery of possession of goods.
+
+**66.**—(1) Where legal proceedings by virtue of *section 64* have been commenced the owner shall not enforce or attempt to enforce payment other than in those proceedings or any negotiations connected with those proceedings.
+
+(2) Pending the hearing of an action, or any settlement, in relation to such proceedings the court may, on the application of the owner, make such order as it thinks fit for the protection of the goods.
+
+(3) On hearing the action, the court may, without prejudice to any other power—
+
+(*a*) order the delivery of the goods to the owner,
+
+(*b*) order such delivery but postpone its operation subject to such conditions as the court thinks fit, or
+
+(*c*) order—
+
+(i) the transfer to the hirer of title to part of the goods, and
+
+(ii) delivery of the remainder to the owner, subject to such conditions as the court thinks fit.
+
+(4) Where the operation of an order is postponed under *subsection (3) (b)* the agreement shall continue to operate except that—
+
+(*a*) no further sum shall become payable on account of the unpaid balance except as provided for in the order, and
+
+(*b*) the court may modify the terms of the agreement as it thinks fit.
+
+(5) Where an owner has recovered a part of the goods let under a hire-purchase agreement, and the recovery was effected in contravention of *section 64*, the provisions of this section shall not apply in relation to any action by the owner to recover the goods.
+
+### 67. Liability for failure to take reasonable care of goods.
+
+**67.**—Where a hire-purchase agreement has been determined under *section 63*, the hirer shall, if he has failed to take reasonable care of the goods, be liable to pay damages for the failure.
+
+### 68. Liability of guarantor where goods are returned to the owner.
+
+**68.**—Where an owner has recovered possession of goods let under a hire-purchase agreement, whether as a result of legal proceedings or otherwise, the liability of the guarantor shall be limited to the amount which would have been payable by the hirer if he had determined the agreement under *section 63*.
+
+### 69. Duty of hirer to give information as to whereabouts of goods.
+
+**69.**—Where by virtue of a hire-purchase agreement a hirer is under a duty to keep the goods comprised in the agreement in his possession or control, the hirer shall, within 10 days of receipt of a request in writing from the owner inform the owner where the goods are at the time when the information is given or, if it is sent by post, at the time of the posting.
+
+### 70. Sale by dealer of goods let to him under a hire-purchase agreement.
+
+**70.**—Where goods of any class or description are let under a hire-purchase agreement to a dealer who deals in goods of that class or description and the dealer sells the goods when ostensibly acting in the ordinary course of his business, the sale shall be valid as if the dealer were expressly authorised by the owner to make the sale:
+
+Provided that the buyer acts in good faith and has not at the time of the sale notice that the dealer has no authority to make the sale.
+
+### 71. Evidence of adverse detention in actions by owners to recover possession of the goods.
+
+**71.**—(1) Where, in an action by an owner of goods which have been let under a hire-purchase agreement to enforce a right to recover possession of the goods from the hirer, the owner proves that, before the commencement of the action and after the right to recover possession of the goods accrued, the owner made a request in writing to the hirer to surrender the goods, the hirer's possession of the goods shall, for the purpose of the owner's claim to recover possession thereof, be deemed to be adverse to the owner.
+
+(2) Nothing in *subsection (1)* shall affect a claim for adverse conversion.
+
+### 72. Successive hire-purchase agreements between the same parties.
+
+**72.**—Where goods have been let under a hire-purchase agreement at any time after one-third of the hire-purchase price has been paid or tendered the owner makes a further hire-purchase agreement with the hirer comprising the goods, the provisions of *sections 64* and *66* shall have effect in relation to that further agreement as from its making.
+
+### 73. Hirer's refusal to surrender goods not to be conversion in certain cases.
+
+**73.**—If, whilst by virtue of this Part the enforcement by an owner of a right to recover possession of goods from a hirer is subject to any restriction, the hirer refuses to give up possession of the goods to the owner, the hirer shall not, by reason only of the refusal, be liable to the owner for the conversion of the goods.
+
+### 73A. Goods to be in conformity with hire-purchase agreement at time of delivery
+
+F96[**73A.**—(1) Where a hire-purchase agreement is concluded between an owner and a hirer, the owner shall deliver goods to the hirer that are in conformity with the hire-purchase agreement at the relevant time.
+
+(2) Goods are in conformity with the hire-purchase agreement if the goods—
+
+(*a*) comply with the requirements of *sections 73B* to *73D*, and
+
+(*b*) do not fall to be treated as not being in conformity with the hire‑purchase agreement under *section 73E*.
+
+(3) Subject to *sections 73B(3)* and *73G(1)* to *(3)*, where the goods delivered by the owner are not in conformity with the hire-purchase agreement at the relevant time, the hirer shall have the right to the remedies specified in *section 73I* and *73L.*
+
+(4) In this section, "relevant time"—
+
+(*a*) in relation to goods other than goods with digital elements, means the time at which—
+
+(i) the hirer or a person indicated by the hirer for the purpose acquires the physical possession of the goods, or
+
+(ii) the goods are delivered to a carrier who was commissioned by the hirer to deliver the goods (and who was not proposed by the owner for that purpose),
+
+and
+
+(*b*) in relation to goods with digital elements, means the time at which, following delivery of the physical component of the goods to the hirer or a person indicated by the hirer for the purpose—
+
+(i) the single act of supply of the digital content or digital service is performed, or
+
+(ii) the continuous supply of the digital content or digital service over a period of time begins,
+
+in such a way that the digital content or digital service, or any means suitable for downloading or accessing it, has reached the sphere of the hirer and no further action by the owner is required in order to enable the hirer to use the digital content or digital service in accordance with the hire-purchase agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73B. Owner to have right to sell goods etc.
+
+F97[**73B.**—(1) Subject to *subsection (2)*, the requirements referred to in *section 73A(2)* are that the owner shall ensure that—
+
+(*a*) at the time when the ownership of the goods is to be transferred under the hire-purchase agreement, the owner has the right to sell the goods,
+
+(*b*) at the time when the ownership of goods is to be transferred under the hire-purchase agreement, the goods are free from any charge or other encumbrance (other than a charge or other encumbrance which was disclosed to the hirer before the hirer entered into the hire-purchase agreement), and
+
+(*c*) the hirer shall enjoy quiet possession of the goods except so far as it may be disturbed by the owner or any other person entitled to the benefit of any charge or encumbrance so disclosed.
+
+(2) Where the hire-purchase agreement shows, or the circumstances at the time the agreement was concluded imply, that the owner and the hirer intend that the owner transfer only the limited title to the goods that the owner or a third person may have—
+
+(*a*) all charges and encumbrances known to the owner shall be disclosed to the hirer before the hirer enters into the agreement, and
+
+(*b*) the hirer’s quiet possession of the goods shall not be disturbed by—
+
+(i) the owner,
+
+(ii) the third person, or
+
+(iii) a person claiming through or under the owner or the third person unless that person is claiming under a charge or encumbrance that was disclosed to the hirer before the agreement was concluded.
+
+(3) Where the owner does not have the right to sell goods as required by *subsection (1)(a)*, the hirer shall have the right to terminate the hire‑purchase agreement.
+
+(4) Where the hirer has the right to terminate the hire-purchase agreement under *subsection (3)* and wishes to exercise that right—
+
+(*a*) the hirer shall exercise that right in accordance with *section 73N*, and
+
+(*b*) the owner shall comply with the obligations in *section 73O*.
+
+(5) The hirer shall have the right to the remedies specified in *sections 73I* and *73L* where—
+
+(*a*) the goods are not in compliance with *subsection (1)(b)* and (c),
+
+(*b*) the owner does not disclose all known charges or encumbrances in accordance with *subsection (2)(a)*,
+
+(*c*) the hirer’s possession of the goods does not comply with *subsection (2)(b)*, or
+
+(*d*) a restriction resulting from a violation of any right of a third party, in particular an intellectual property right, prevents or limits the use of the goods in accordance with *sections 73C* and *73D*.
+
+(6) In case of dispute, it shall be for the owner to show that—
+
+(*a*) the owner had the right to sell the goods in accordance with *subsection (1)(a)*,
+
+(*b*) the goods complied with the requirements of *subsection (1)(b)* and (c),
+
+(*c*) the owner disclosed all known charges and encumbrances in accordance with *subsection (2)(a)*, and
+
+(*d*) the hirer’s possession of the goods complied with *subsection (2)(b)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73C. Subjective requirements for conformity with hire-purchase agreement
+
+F98[**73C.**—(1) The goods delivered under a hire-purchase agreement shall—
+
+(*a*) be of the description, type, quantity and quality, and possess the functionality, compatibility, interoperability and other features, specified in the hire-purchase agreement,
+
+(*b*) be fit for any particular purpose for which the hirer requires them—
+
+(i) that the hirer made known to the owner at the time of, or before, the conclusion of the hire-purchase agreement, and
+
+(ii) that the owner has accepted,
+
+(*c*) be delivered with all accessories and instructions, including on installation of the goods, specified in the hire-purchase agreement, and
+
+(*d*) be updated as specified in the hire-purchase agreement.
+
+(2) Spare parts and an adequate after-sales service shall be made available by the owner—
+
+(*a*) in such circumstances as are stated in an offer, description or advertisement by the owner on behalf of the producer or on his or her own behalf, and
+
+(*b*) for such period as is so stated or, if no period is so stated, for a reasonable period.
+
+(3) In this section, "interoperability" means the ability of goods to function with hardware or software different from those with which goods of the same type are normally used.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73D. Objective requirements for conformity with hire-purchase agreement
+
+F99[**73D.**—(1) The goods delivered under a hire-purchase agreement shall—
+
+(*a*) be fit for all of the purposes for which goods of the same type would normally be used, taking into account so far as relevant any enactment or rule of law, European Union law, technical standards or, in the absence of technical standards, applicable sector-specific industry codes of conduct,
+
+(*b*) be of the quality and correspond to the description of any sample or model that the owner made available to the hirer before the conclusion of the hire-purchase agreement,
+
+(*c*) be delivered along with any accessories, including packaging, installation instructions or other instructions, that the hirer may reasonably expect to receive, and
+
+(*d*) be of the quantity and possess the qualities and other features (including in relation to durability, functionality, compatibility, safety and security) normal for goods of the same type that the hirer may reasonably expect given the nature of the goods and taking into account any public statement in relation to the goods made by, or on behalf of, the owner or any other person constituting a previous link in the chain of transactions relating to the hire-purchase agreement, including the producer, particularly in advertising or on labelling.
+
+(2) In *subsection (1)(d)*, the reference to the durability of the goods is a reference to the ability of the goods to maintain their functions and performance through normal use and to possess the ability to do so which is normal for goods of the same type and which the hirer can reasonably expect having regard to—
+
+(*a*) the specific nature of the goods,
+
+(*b*) the possible need for reasonable maintenance of the goods,
+
+(*c*) any public statement on the durability of the goods made by or on behalf of any person constituting a link in the chain of transactions, and
+
+(*d*) all other relevant circumstances, including the price of the goods and the intensity or frequency of the use made of the goods by the hirer.
+
+(3) The owner shall not be bound by any public statement referred to in *subsection (1)(d)* or *(2)(c)* if the owner shows that—
+
+(*a*) the owner was not, and could not reasonably have been, aware of the public statement in question,
+
+(*b*) at the time of the conclusion of the hire-purchase agreement, the public statement had been corrected in the same way as it had been made (or in a comparable way), or
+
+(*c*) the decision of the hirer to take the goods could not have been influenced by the public statement.
+
+(4) Where a hire-purchase agreement for the letting of goods with digital elements provides for a single act of supply of the digital content or digital service, the owner shall ensure that the hirer is informed of and supplied with updates, including security updates, that are necessary to maintain the goods in conformity with the agreement for the period of time that the hirer may reasonably expect given the type and purpose of the goods and the digital elements, and taking into account the circumstances and nature of the hire-purchase agreement.
+
+(5) Where a hire-purchase agreement for the letting of goods with digital elements provides for a continuous supply of the digital content or digital service for a period exceeding two years, the owner shall ensure that the hirer is informed of the availability, and supplied with, any update (including a security update) that is necessary to maintain the goods in conformity with the agreement during that period.
+
+(6) Where a hire-purchase agreement for the letting of goods with digital elements provides for a continuous supply of the digital content or digital service for a period not exceeding two years, the owner shall ensure that the hirer is informed of the availability, and supplied with, any update (including a security update) that is necessary to maintain the goods in conformity with the contract for the period of two years beginning with the delivery of the goods with digital elements.
+
+(7) Where the hirer fails to install within a reasonable time an update supplied in accordance with *subsection (4)*, *(5)* or *(6)*, the owner shall not be liable for any lack of conformity with the hire-purchase agreement resulting solely from the failure to install the update—
+
+(*a*) if the owner informed the hirer of the need for the hirer to install the update (including the consequences of failing to do so), and
+
+(*b*) the failure of the hirer to install the update, or the incorrect installation by the hirer of the update, was not due to shortcomings in the installation instructions provided to the hirer.
+
+(8) There shall be no lack of conformity with a hire-purchase agreement under *subsection (1)*, *(4)*, *(5)* or *(6)* if, at the time of the conclusion of the agreement—
+
+(*a*) the hirer was specifically informed by the owner that a particular characteristic of the goods deviated from the requirements of the subsection concerned, including a lack of conformity with the hire-purchase agreement caused by a restriction resulting from a violation of an intellectual property right or any other right of a third person, and
+
+(*b*) the hirer expressly and separately accepted that deviation.
+
+(9) In case of dispute, it shall be for the owner to show that the hirer—
+
+(*a*) was specifically informed by the owner that a particular characteristic of the goods deviated from the requirements of *subsection (1), (4),* *(5)* or *(6)*, and
+
+(*b*) expressly and separately accepted that deviation when concluding the hire-purchase agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F99: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73E. Incorrect installation of goods
+
+F100[**73E.**—Any lack of conformity with the hire-purchase agreement resulting from the incorrect installation of the goods shall be treated as a lack of conformity of the goods with the hire-purchase agreement if—
+
+(*a*) the installation forms part of the agreement and was carried out by the owner or under the owner’s responsibility, or
+
+(*b*) the installation, intended to be carried out by the hirer, was done by the hirer and the incorrect installation was due to shortcomings in the installation instructions provided to the hirer by the owner or, in the case of goods with digital elements, provided to the hirer by the owner or by the supplier of the digital content or digital service.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F100: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73F. Implied terms of hire-purchase agreement
+
+F101[**73F.**—*Sections 73B* to *73E* shall be implied into every hire-purchase agreement and shall have effect as if they were terms of such an agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73G. Liability of owner
+
+F102[**73G.**—(1) Where a hire-purchase agreement for the letting of goods with digital elements provides for a continuous supply of digital content or a digital service for a period specified in the agreement, the owner shall be liable for a lack of conformity of the digital content or digital service with the agreement that occurs or becomes apparent within that period.
+
+(2) Where a hire-purchase agreement provides for the delivery of goods on more than one occasion during the period for which the agreement subsists, the owner shall be liable to the hirer during that period for a lack of conformity of the goods with the hire-purchase agreement which exists at the relevant time.
+
+(3) Where an update is supplied by the owner or a third party supplying the digital content or digital service under a hire-purchase agreement for the letting of goods with digital elements, the owner shall be liable for any lack of conformity of the digital content or digital service with the agreement—
+
+(*a*) caused by the update which exists at the time of supply or installation of the update, or
+
+(*b*) caused by the failure of the owner to supply an update in accordance with *section 73D* at the time when the update should have been supplied.
+
+(4) Subject to *subsections (2)* and *(3)*, where a hire-purchase agreement for the letting of goods other than goods with digital elements provides for a continuous supply of digital content or a digital service for a period specified in the hire-purchase agreement, the hirer’s right to a remedy in respect of a lack of conformity with the hire-purchase agreement for which the owner is liable under this section shall apply for the period of 6 years beginning with the relevant time.
+
+(5) Where a hire-purchase agreement for the letting of goods with digital elements provides for a continuous supply of digital content or a digital service for a period specified in the hire-purchase agreement, the hirer’s right to a remedy in respect of a lack of conformity with the hire-purchase agreement for which the owner is liable under this section shall apply for the period of 6 years beginning with the time at which the lack of conformity with the hire-purchase agreement occurs or becomes apparent during the period so specified.
+
+(6) In this section, "relevant time" has the same meaning as it has in *section 73A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73H. Burden of proof
+
+F103[**73H.**—(1) Subject to *subsection (2)*, where it becomes apparent during the period of 12 months beginning with the relevant time that goods supplied under a hire-purchase agreement are not in conformity with the hire-purchase agreement, the lack of conformity with the agreement shall be presumed to have existed at the relevant time unless—
+
+(*a*) the contrary is proven, or
+
+(*b*) such a presumption is incompatible with the nature of the goods or with the nature of the lack of conformity with the agreement.
+
+(2) Where a hire-purchase agreement for the letting of goods with digital elements provides for the continuous supply of the digital content or digital service for a period specified in the agreement, the burden of proof as to whether the digital content or digital service was in conformity with the hire-purchase agreement during that period shall be on the owner for a lack of conformity with the agreement which becomes apparent during that period.
+
+(3) For the purposes of relying on the presumption under *subsection (1)*, the hirer shall be required to prove only that—
+
+(*a*) the goods are not in conformity with the hire-purchase agreement, and
+
+(*b*) the lack of conformity became apparent during the period of 12 months beginning with the relevant time.
+
+(4) Nothing in this section shall prevent or restrict a hirer from exercising a remedy after 12 months from the delivery of the goods.
+
+(5) In this section, "relevant time" has the same meaning as it has in *section 73A.*]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73I. Right to remedies under sections 73J and 73K
+
+F104[**73I.**—(1) Where goods are not in conformity with the hire-purchase agreement at the relevant time, the hirer shall have the following rights—
+
+(*a*) the right to exercise the short-term right to terminate the agreement in accordance with *section 73J*, and
+
+(*b*) subject to *subsections (2)* and *(3)*, the right to have the goods brought into conformity with the agreement through repair or replacement in accordance with *section 73K*.
+
+(2) The hirer may choose between the remedies of repair and replacement of the goods unless the remedy chosen by the hirer—
+
+(*a*) would be impossible for the owner to carry out, or
+
+(*b*) compared to the alternative remedy, would impose disproportionate costs on the owner, taking all the circumstances into account, including—
+
+(i) the value that the goods would have if there were no lack of conformity,
+
+(ii) the significance of the lack of conformity, and
+
+(iii) whether the alternative remedy could be provided without significant inconvenience to the hirer.
+
+(3) The owner may refuse to bring the goods into conformity with the hire-purchase agreement if both repair and replacement—
+
+(*a*) are impossible for the owner to carry out, or
+
+(*b*) compared to the alternative remedy, would impose disproportionate costs on the owner, taking all the circumstances into account, including those specified in *subsection (2)(b)(i)* and *(ii)*.
+
+(4) In this section, "relevant time" has the same meaning as it has in *section 73A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F104: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73J. Short-term right to terminate hire-purchase agreement
+
+F105[**73J.**—(1) This section applies where the hirer has the short-term right to terminate the hire-purchase agreement under *section 73I(1)(a)*.
+
+(2) The period during which the hirer has the short-term right to terminate the hire-purchase agreement—
+
+(*a*) begins—
+
+(i) where the hire-purchase agreement requires the owner to install the goods after their delivery or to take any other action to enable the hirer to use the goods, on the day on which the installation or other action is completed, or
+
+(ii) in any other case, at the relevant time,
+
+and
+
+(*b*) subject to *subsection (3)*, expires 30 days after that day or, as the case may be, the relevant time.
+
+(3) Where goods are of a kind that can reasonably be expected to expire or deteriorate on the expiry of a smaller number of days than the 30 days referred to in *paragraph (b)* of *subsection (2)*, that paragraph shall apply as if for the reference to 30 days there were substituted a reference to that smaller number of days.
+
+(4) Nothing in *subsection (2)* prevents a hirer who has the right to terminate a hire-purchase agreement from terminating it before the beginning of the period referred to in that subsection (or that subsection as applied by *subsection (3)*).
+
+(5) In case of dispute, it shall be for the owner to show that by virtue of *subsection (3)* the period referred to in *subsection (2)* is shorter than 30 days.
+
+(6) Where the hirer has the right to terminate a hire-purchase agreement under this section and wishes to exercise that right—
+
+(*a*) the hirer shall exercise that right in accordance with *section 73N*, and
+
+(*b*) the owner shall comply with the obligations in *section 73O*.
+
+(7) In this section, "relevant time" has the same meaning as it has in *section 73A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73K. Repair or replacement of goods
+
+F106[**73K.**—(1) This section applies where goods are to be brought into conformity with the hire-purchase agreement by repair or replacement.
+
+(2) The owner shall ensure that the repair or replacement of the goods is carried out—
+
+(*a*) free of charge,
+
+(*b*) within a reasonable time after being informed by the hirer of the lack of conformity with the agreement, and
+
+(*c*) without significant inconvenience to the hirer, taking into account the nature of the goods and the purpose for which the hirer requires the goods.
+
+(3) The reasonable time for completing the repair or replacement of the goods under *subsection (2)(b)* shall correspond to the shortest possible time necessary for completing the repair or replacement and shall be objectively determined having regard to the nature and complexity of the goods, the nature and severity of the lack of conformity and the effort needed to complete the repair or replacement.
+
+(4) The hirer shall make the goods that are to be remedied by repair or replacement available to the owner.
+
+(5) The owner shall take back any goods that have been replaced and any goods that are to be repaired at the owner’s expense.
+
+(6) *Subsection (7)* applies where—
+
+(*a*) it is necessary to remove goods in order to repair or replace them, and
+
+(*b*) the goods were installed in a manner consistent with their nature and purpose before the lack of conformity of the goods with the hire-purchase agreement became apparent.
+
+(7) The owner’s obligation to repair or replace the goods under *subsection (2)* includes—
+
+(*a*) the removal of the goods that are not in conformity with the hire-purchase agreement (referred to in this subsection as the "non-conforming goods"),
+
+(*b*) where the non-conforming goods are repaired, the installation of those goods,
+
+(*c*) where the non-conforming goods are replaced, the installation of the goods that replace the non-conforming goods, and
+
+(*d*) bearing the costs of any such removal and installation.
+
+(8) The hirer shall not be liable to pay for the normal use of any goods that are replaced during the period prior to their replacement.
+
+(9) In this section, "free of charge" means free of the necessary costs incurred in order to bring goods into conformity with the hire-purchase agreement, particularly the cost of postage, carriage, labour or materials.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F106: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73L. Right to proportionate reduction in price or final termination of hire‑purchase agreement
+
+F107[**73L.**—(1) This section applies where—
+
+(*a*) the hirer has exercised his or her right under *section 73I(1)(b)* and—
+
+(i) the owner has not completed the repair or the replacement of the goods or, where applicable, has not completed the repair or replacement in accordance with *section 73K*, or
+
+(ii) the owner has refused to bring the goods into conformity with the hire-purchase agreement in accordance with *section 73I(3)*,
+
+(*b*) the goods are not in conformity with the hire-purchase agreement at the relevant time and the same or a different lack of conformity of the goods with the agreement becomes apparent despite the owner having attempted to bring the goods into conformity with the agreement,
+
+(*c*) the goods are not in conformity with the hire-purchase agreement at the relevant time and the lack of conformity of the goods is of such a serious nature as to justify an immediate price reduction or the termination of the hire-purchase agreement, or
+
+(*d*) the goods are not in conformity with the hire-purchase agreement at the relevant time and the owner has declared, or it is clear from the circumstances, that the owner will not bring the goods into conformity with the hire-purchase agreement within a reasonable time or without significant inconvenience to the hirer.
+
+(2) Subject to *subsections (5)* and *(7)*, the hirer shall have—
+
+(*a*) the right to a proportionate reduction in the price in accordance with *section 73M*, or
+
+(*b*) subject to *subsection (3)*, the right to exercise the final right to terminate the hire-purchase agreement in accordance with *section 73N*.
+
+(3) The hirer shall not have the right to exercise the final right to terminate the hire-purchase agreement under *subsection (2)(b)* if the lack of conformity of the goods with the agreement is only minor.
+
+(4) In case of dispute, it shall be for the owner to show that the lack of conformity of the goods with the agreement is minor.
+
+(5) Where *subsection (1)(b)* applies, it shall be objectively determined, taking all the circumstances into account (including the matters mentioned in *subsection (6)*), whether the hirer—
+
+(*a*) shall have the right specified in *paragraph (a)* or *(b)* of *subsection (2)*, or
+
+(*b*) shall be required to accept a further attempt or attempts by the owner to bring the goods into conformity with the hire-purchase agreement.
+
+(6) The matters referred to in *subsection (5)* are—
+
+(*a*) the type and value of the goods,
+
+(*b*) the nature and significance of the lack of conformity with the hire‑purchase agreement, and
+
+(*c*) whether the hirer can reasonably be expected to maintain confidence in the ability of the owner to bring the goods into conformity with the hire-purchase agreement, in particular where the same lack of conformity with the agreement appears on more than one occasion.
+
+(7) For the purposes of *subsection (1)(c)*, it shall be objectively determined, having regard to the nature and severity of the lack of conformity with the hire-purchase agreement (including the matters mentioned in *subsection (8)*), whether the lack of conformity of the goods with the agreement is of such a serious nature as to justify the application of *subsection (2)*.
+
+(8) The matters referred to in *subsection (7)* are whether the lack of conformity with the hire-purchase agreement is such that—
+
+(*a*) the hirer cannot maintain confidence in the ability of the owner to bring the goods into conformity,
+
+(*b*) the ability of the hirer to make normal use of the goods is severely affected and the hirer cannot reasonably be expected to trust that this would be remedied by repair or replacement by the owner.
+
+(9) Where the hirer is entitled to exercise the right conferred by *subsection (2)(b)* by virtue of some (but not all) of the goods to which the hire-purchase agreement relates not being in conformity with the agreement, the hirer may exercise that right only in relation to—
+
+(*a*) those goods, and
+
+(*b*) any other goods that the hirer acquired with the goods that are not in conformity with the agreement, if the hirer cannot reasonably be expected to keep only the goods that are in conformity with the hire-purchase agreement.
+
+(10) In this section, "relevant time" has the same meaning as it has in *section 73A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F107: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73M. Price reduction
+
+F108[**73M.**—(1) This section applies where the hirer has the right to a price reduction under *section 73L(2)(a)*.
+
+(2) The right of the hirer under this section is the right—
+
+(*a*) to require the owner to reduce in accordance with *subsection (3)* the price the hirer is required to pay under the hire-purchase agreement, or
+
+(*b*) to receive from the owner a reimbursement of the price paid by the hirer in excess of the amount of the reduction applicable under *subsection (3)*.
+
+(3) The reduction of the price shall be proportionate to the decrease in the value of the goods received by the hirer compared with the value that the goods would have if they were in conformity with the hire-purchase agreement.
+
+(4) Where the hirer has the right to reimbursement under *subsection (2)(b)*, the owner shall reimburse the hirer in accordance with *section 73P*.
+
+(5) In a hire-purchase agreement where the hirer transfers the ownership of goods to the owner in full or part payment of the price, the right of the hirer to a price reduction shall not apply if—
+
+(*a*) no agreed monetary value was ascribed by the parties to the goods to be transferred by the hirer at the time the hire-purchase agreement was concluded, or
+
+(*b*) the goods which the hirer has transferred, or is required to transfer, under the hire-purchase agreement cannot be divided up so as to enable the owner to receive or retain only the reduced price.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F108: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73N. Obligations of hirer in event of termination of hire-purchase agreement
+
+F109[**73N.**—(1) Where the hirer exercises the right to terminate a hire-purchase agreement under section 73B(3), the short-term right to terminate a hire-purchase agreement under *section 73I(1)(a)* or the final right to terminate a hire-purchase agreement under *section 73L(2)(b)*, the hirer shall—
+
+(*a*) do so by means of a statement to the owner expressing the decision to terminate the hire-purchase agreement, and
+
+(*b*) return any goods or materials delivered under the hire-purchase agreement to the owner at the owner’s expense.
+
+(2) A hirer who fails to comply with the obligation to return any goods or materials in accordance with *subsection (1)* shall be liable in damages for any loss or damage suffered by the owner as a result of that failure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F109: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73O. Obligations of owner where hire-purchase agreement terminated
+
+F110[**73O.**—(1) This section applies where the hirer exercises—
+
+(*a*) the right to terminate a hire-purchase agreement under *section 73B(3)*,
+
+(*b*) the short-term right to terminate a hire-purchase agreement under *section 73I(1)(a)*, or
+
+(*c*) the final right to terminate a hire-purchase agreement under *section 73L(2)(b)*.
+
+(2) The owner shall upon receipt of the goods or, if the owner so chooses, of evidence provided by the hirer of having sent back the goods, reimburse the hirer in accordance with *section 73P* for—
+
+(*a*) the price paid for the goods, and
+
+(*b*) any costs incurred by the hirer in returning the goods to the owner.
+
+(3) If the hirer terminates a hire-purchase agreement before the price payable for the goods under the agreement has been paid in full, the reimbursement to which the hirer is entitled under *subsection (2)* applies only to the part of the price which has been paid by the hirer.
+
+(4) Where the hirer exercises the final right to terminate the hire-purchase agreement under *section 73L(2)(b)*, the reimbursement of the price to which the hirer is entitled under *subsection (2)* may be reduced in proportion to any depreciation in the value of the goods in excess of the depreciation that could reasonably be expected to result from their normal use.
+
+(5) In case of dispute as to the application of *subsection (4),* it shall be for the owner to show that the depreciation in the value of the goods exceeded that which could reasonably be expected to result from their normal use.
+
+(6) Subject to *subsection (7)*, in a hire-purchase agreement where the hirer transfers the ownership of goods to the owner in full or part payment of the price, the owner shall—
+
+(*a*) return those goods to the hirer, and
+
+(*b*) reimburse the hirer in accordance with section 73P for any part of the price paid by the hirer.
+
+(7) If the owner cannot return goods to the hirer in accordance with *subsection (6)*, the owner shall reimburse the hirer—
+
+(*a*) to the agreed monetary value ascribed to the goods by the parties at the time the hire-purchase agreement was concluded, or
+
+(*b*) where no such monetary value was agreed, to a reasonable market value for the goods at the time the hire-purchase agreement was concluded.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F110: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73P. Time limits and means of reimbursement by owner
+
+F111[**73P.**—(1) This section applies where reimbursement is owed to the hirer by the owner by virtue of—
+
+(*a*) a price reduction under *section 73M*,
+
+(*b*) the exercise of the right to terminate the hire-purchase agreement under *section 73B(3)*,
+
+(*c*) the exercise of the short-term right to terminate the hire-purchase agreement under *section 73I(1)(a)*, or
+
+(*d*) the exercise of the final right to terminate the hire-purchase agreement under *section 73L(2)(b)*.
+
+(2) The owner shall reimburse the hirer without undue delay and in any event not later than 14 days after the day on which the owner receives—
+
+(*a*) the goods back, or
+
+(*b*) if the owner so chooses, evidence provided by the hirer of having returned the goods.
+
+(3) The owner shall reimburse the hirer using the same means of payment as the hirer used to pay for the goods unless—
+
+(*a*) the hirer expressly agrees otherwise, and
+
+(*b*) the hirer does not incur any fees as a result of reimbursement by the means otherwise agreed.
+
+(4) The owner shall reimburse the hirer without the imposition of any fee on the hirer in respect of the reimbursement.
+
+(5) An owner who fails to comply with the obligation to reimburse the hirer in accordance with this section shall be liable in damages for any loss or damage suffered by the hirer as a result of that failure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F111: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73Q. Effect of termination of hire-purchase agreement on ancillary contract
+
+F112[**73Q.**—(1) Where a hirer terminates a hire-purchase agreement in accordance with *section 73N*, any ancillary contract is terminated without any cost to the hirer.
+
+(2) Where an owner is informed by a hirer in accordance with *section 73N(1)(a)* of the hirer’s decision to terminate a hire-purchase agreement, the owner shall inform any trader with whom the hirer has an ancillary contract that the contract with that trader has been terminated by *subsection (1)*.
+
+(3) Where an ancillary contract is terminated by *subsection (1)*—
+
+(*a*) the owner or trader with whom the hirer has that contract shall comply with the obligations in *section 73O,* and
+
+(*b*) the hirer shall comply with the obligation in *section 73N(1)(b)*.
+
+(4) Where any security has been provided under an ancillary contract that is terminated by *subsection (1),* it is to be treated as never having had effect and any property lodged with the owner or trader solely for the purposes of that security shall be returned immediately by the owner or trader.
+
+(5) In this section—
+
+"ancillary contract", in relation to a hire-purchase agreement concluded between a hirer and an owner, means another contract concluded between that hirer and that owner, or between that hirer and a trader other than the owner, under which—
+
+(*a*) the owner, or
+
+(*b*) in pursuance of arrangements made between the owner and that trader, the trader,supplies to the hirer goods, digital content, a digital service or a service relating to the hire-purchase agreement;
+
+"trader" means—
+
+(*a*) a natural person, or
+
+(*b*) a legal person, whether—
+
+(i) privately owned,
+
+(ii) publicly owned, or
+
+(iii) partly privately owned and partly publicly owned,
+
+who is acting for purposes related to the person’s trade, business, craft or profession, and includes any person acting in the name, or on behalf, of the trader.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F112: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73R. Representations purporting to restrict rights of hirer: offences
+
+F113[**73R.**—(1) It shall be an offence for an owner to do any of the following things in relation to a representation to which *subsection (1)* applies:
+
+(*a*) to display on any part of any premises a notice that includes any such representation;
+
+(*b*) to publish or cause to be published an advertisement which contains any such representation;
+
+(*c*) to supply goods bearing, or digital content or a digital service displaying in any form such representation; or
+
+(*d*) otherwise to furnish or to cause to be furnished a document including any such representation.
+
+(2) A representation is "relevant" for the purposes of *subsection (1)* if—
+
+(*a*) it is a representation that refunds will not be made for goods that are not in conformity with the hire-purchase agreement,
+
+(*b*) it is a representation that any refunds will be made only in the form of a credit note or gift voucher,
+
+(*c*) it is a representation that goods that are not in conformity with the hire-purchase agreement will not be replaced, repaired or otherwise brought into conformity with the agreement, or
+
+(*d*) it is otherwise likely to be taken as indicating that—
+
+(i) a right or the exercise of a right conferred by any of *sections 73A* to *73P*,
+
+(ii) a remedy or the exercise of a remedy conferred by any of those sections, or
+
+(iii) an obligation or a liability arising under any of those sections,is restricted or excluded otherwise than in accordance with this Act.
+
+(3) In this section, "representation" includes—
+
+(*a*) any oral, written, visual, descriptive or other representation by an owner, including any commercial communication, marketing or advertising, and
+
+(*b*) any term or form of a contract, notice or other document used or relied on by an owner in connection with a hire-purchase transaction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F113: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73S. Exclusion or limitation of liability of owner
+
+F114[**73S.**—(1) A term of a hire-purchase agreement or of any other contract between a hirer and an owner shall not exclude or restrict the owner’s liability under any of *sections 73A* to *73H*.
+
+(2) A term of a hire-purchase agreement or of any other contract between a hirer and an owner which purports to, or has the effect of, excluding or restricting the liability of the owner under any of the provisions specified in *subsection (1)* shall not be binding on the hirer.
+
+(3) The references in *subsections (1)* and *(2)* to excluding or restricting the owner’s liability include a reference to—
+
+(*a*) excluding or limiting a right or remedy in respect of a liability under a provision specified in *subsection (1)*,
+
+(*b*) making such a right or remedy, or its enforcement, subject to a restrictive or onerous condition,
+
+(*c*) allowing an owner to put a person at a disadvantage as a result of pursuing such a right or remedy,
+
+(*d*) excluding or restricting rules of evidence or procedure, or
+
+(*e*) preventing an obligation arising or limiting its extent.
+
+(4) An agreement in writing to submit present or future differences to an ADR procedure within the meaning of the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of 2015) is not to be regarded as excluding or restricting any liability for the purposes of this section.
+
+(5) An owner who contravenes *subsection (1)* commits an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F114: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73T. Liability for commercial guarantee
+
+F115[**73T.**—(1) A commercial guarantee shall be binding on the guarantor under the conditions specified in the commercial guarantee statement and in any associated advertising available at the time of, or before, the conclusion of the hire-purchase agreement.
+
+(2) Without prejudice to the generality of *subsection (1)*, where a producer offers the hirer a commercial guarantee of durability for specified goods for a specified period of time—
+
+(*a*) the producer shall be liable directly to the hirer during the entire period of the commercial guarantee of durability for the repair or the replacement of the goods in accordance with *section 73I*, and
+
+(*b*) the producer may offer more favourable conditions to the hirer in the commercial guarantee statement on the durability of the goods.
+
+(3) If some or all of the conditions specified in the commercial guarantee statement are less advantageous to the hirer than those specified in the associated advertising, the commercial guarantee shall be binding under the more advantageous conditions specified in the advertising relating to the commercial guarantee unless, before the conclusion of the hire-purchase agreement, the associated advertising was corrected to reflect the same, or comparable, conditions to those specified in the commercial guarantee statement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F115: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73U. Liability of owner for another’s commercial guarantee
+
+F116[**73U.**—(1) Where an owner gives a hirer a commercial guarantee provided by another guarantor, the owner shall, unless the owner expressly indicates the contrary when the guarantee is given to the hirer, be liable to the hirer for the observance of that guarantee as if the owner were the guarantor.
+
+(2) Notwithstanding *subsection (1)*, where the owner gives his or her own commercial guarantee to a hirer, it shall be presumed, unless the contrary is proved, that the owner has not made himself or herself liable to the hirer under any commercial guarantee from another guarantor which the owner has given to the hirer.
+
+(3) The liability of an owner to a hirer under *subsections (1)* and *(2)* is without prejudice to the rights conferred on the hirer under *section 73T*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73V. Liability under commercial guarantee to subsequent hirers
+
+F117[**73V.**—Where goods covered by a commercial guarantee provided to a hirer are subsequently acquired by another hirer within the duration of the guarantee period, that other hirer shall be entitled to rely on the commercial guarantee against—
+
+(*a*) the guarantor under *section 73T*, or
+
+(*b*) the owner under *section 73U(1)* and *(2)*,
+
+as if he or she were the hirer to whom the guarantee was provided.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F117: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73W. Provision and content of commercial guarantee statement
+
+F118[**73W.**—(1) Where goods are let under a hire-purchase agreement and there is a commercial guarantee, the commercial guarantee statement shall be provided to the hirer on a durable medium by the time of the delivery of the goods.
+
+(2) The commercial guarantee statement shall be expressed in concise, plain, intelligible language and shall include the following—
+
+(*a*) a clear statement that the hirer is entitled by law to remedies from the owner free of charge in the event of a lack of conformity of the goods with the hire-purchase agreement and that those remedies are not affected by the commercial guarantee,
+
+(*b*) the name and address of the guarantor,
+
+(*c*) the procedure to be followed by the hirer to obtain the implementation of the commercial guarantee,
+
+(*d*) the designation of the goods to which the commercial guarantee applies, and
+
+(*e*) the conditions of the commercial guarantee.
+
+(3) Any failure to comply with *subsection (1)* or *(2)* shall not affect the binding nature of the commercial guarantee for the guarantor.
+
+(4) In this section—
+
+"durable medium" means any instrument which enables a hirer or an owner to store information addressed personally to that person in a way that is accessible for future reference, for a period of time adequate for the purposes of the information, and which allows the unchanged reproduction of the information stored;
+
+"free of charge" means free of the necessary costs incurred in order to bring goods into conformity with the hire-purchase agreement, particularly the cost of postage, carriage, labour or materials.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F118: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 73X. Exclusion or limitation of rights of hirer under commercial guarantee
+
+F119[**73X.**—(1) A commercial guarantee shall not—
+
+(*a*) in any way exclude or limit the rights of the hirer under any enactment or rule of law,
+
+(*b*) impose obligations on the hirer that are additional to his or her obligations under the hire-purchase agreement, or
+
+(*c*) purport to make the guarantor or any person acting on his or her behalf the sole authority to decide whether goods conform to the hire-purchase agreement or whether the hirer is otherwise entitled to make a claim under the commercial guarantee.
+
+(2) Any provision of a commercial guarantee that is contrary to *subsection (1)* shall not be binding on the hirer.
+
+(3) A guarantor who gives a commercial guarantee which contravenes *subsection (1)* commits an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F119: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 150(1), S.I. No. 596 of 2022, subject to transitional provision in subs. (2).
+
+### 74. Implied terms as to title.
+
+**74.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 75. Letting by description.
+
+**75.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 76. Implied undertakings as to quality or fitness.
+
+**76.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 77. Samples.
+
+**77.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 78. Statements purporting to restrict rights of hirer.
+
+**78.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 79. Exclusion of implied terms and conditions.
+
+**79.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 80. Liability of persons conducting negotiations antecedent to hire-purchase agreements.
+
+**80.**—Where goods are let under a hire-purchase agreement to a hirer, the person, if any, by whom the antecedent negotiations were conducted shall be deemed to be a party to the agreement and that person and the owner shall, jointly and severally, be answerable to the hirer for breach of the agreement and for any misrepresentations made by that person with respect to the goods in the course of the antecedent negotiations.
+
+### 81. Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.
+
+**81.**—F120[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 5, S.I. No. 596 of 2022, subject to transitional provisions in ss. 9(5), 150(2).
+
+### 82. Application of section 13 of Act of 1980 to hire-purchase of motor vehicles.
+
+**82.**—Where a motor vehicle is let under a hire-purchase agreement, section 13 (which relates to an implied condition on sale of motor vehicles) of the Act of 1980 shall have effect as if a contract for sale were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller, and the owner shall, jointly with that person and severally, be answerable to the hirer for breach of the implied condition.
+
+### 83. Antecedent negotiations and representations.
+
+**83.**—(1) In this Part “antecedent negotiations”, in relation to a hire-purchase agreement, means any negotiations or arrangements with the hirer whereby he was induced to make the agreement or which otherwise promoted the transaction to which the agreement relates; and any reference to the person by whom any antecedent negotiations were conducted is a reference to that person by whom the negotiations or arrangements in question were conducted or made in the course of a business carried on by him.
+
+(2) (*a*) For the purposes of this Part any negotiations conducted or arrangements or representations made by a servant or agent, if conducted or made by him in the course of his employment or agency, shall be treated as conducted or made by his employer or principal; and anything received by a servant or agent, if received by him in the course of his employment or agency, shall be treated as received by his employer or principal.
+
+(*b*) In this subsection “representations” includes any statement or undertaking, whether constituting a condition or a warranty or not, and references to making representations shall be construed accordingly.
+
+## PART VIIConsumer-Hire Agreements — PART VII — Consumer-Hire Agreements
+
+### 84. Contents of consumer-hire agreements.
+
+**84.**—(1) A consumer-hire agreement and any contract of guarantee relating thereto shall be made in writing and signed by the hirer and by or on behalf of all other parties to the agreement, and—
+
+(*a*) a copy of the agreement shall be—
+
+(i) handed personally to the hirer upon the making of the agreement, or
+
+(ii) delivered or sent to the F121[hirer] by the owner within 10 days of the making of the agreement,
+
+and
+
+(*b*) in case of any contract of guarantee relating to the agreement, a copy of the guarantee and the agreement shall be—
+
+(i) handed personally to the guarantor upon the making of the contract, or
+
+(ii) sent within 10 days of the making of any contract by the F121[owner] to the guarantor.
+
+(2) A consumer-hire agreement shall contain a statement of—
+
+(*a*) the cash price of the goods to which the agreement relates,
+
+(*b*) the amount of each instalment to be paid by the hirer under the agreement,
+
+(*c*) the date, or the method of determining the date, upon which each instalment is payable,
+
+(*d*) where the agreement is for a specified period—
+
+(i) the number of instalments, and
+
+(ii) the total amount payable under the agreement (including taxes),
+
+(*e*) the name and address of the supplier of the goods to which the agreement relates,
+
+(*f*) any additional costs to be paid,
+
+(*g*) the cost of any early termination by the hirer of the agreement,
+
+(*h*) the names and addresses of all parties to the agreement at the time of its making, and
+
+(*i*) any costs or penalties to which the hirer will become liable for any failure by the hirer to comply with the terms of the agreement.
+
+(3) A consumer-hire agreement shall contain a list of the goods to which the agreement relates sufficient to identify them.
+
+(4) A consumer-hire agreement shall contain a notice, which is at least as prominent as the rest of the contents of the agreement, to the effect that the agreement is for the letting of goods which remain the property of the owner.
+
+(5) A consumer-hire agreement shall contain, in respect of the cooling-off period, a statement that the hirer—
+
+(*a*) has a right to withdraw from the agreement without penalty if the hirer gives written notice to this effect to the F121[owner] within a period of 10 days of the date of receipt by the hirer of a copy of the agreement, or
+
+(*b*) may indicate that he does not wish to exercise this right by signing a statement to this effect, this signature to be separate from, and additional to, the hirer's signature in relation to any of the terms of the agreement.
+
+(6) A consumer-hire agreement shall contain a statement to the effect that a hirer is obliged to give the owner information under *section 91* as to the whereabouts of the goods to which the agreement relates.
+
+(7) A consumer-hire agreement shall contain in a prominent position the words **“Consumer-hire agreement”**.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (13.05.1996) by *Consumer Credit Act, 1995 (Section 86) Regulations 1996* (S.I. No. 131 of 1996), reg. 2.
+
+### 85. Enforceability.
+
+**85.**—An owner shall not be entitled to enforce a consumer-hire agreement or any contract of guarantee relating thereto or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the consumer-hire agreement or given by a guarantor in respect of money payable under such contract of guarantee as aforesaid shall be enforceable against the hirer or guarantor by any holder thereof, unless the requirements specified in *section 84* have been complied with:
+
+Provided that if a court is satisfied in any action that a failure to comply with any of the aforesaid requirements, other than *section 84 (1)*, was not deliberate and has not prejudiced the hirer, and that it would be just and equitable to dispense with the requirement, the court may, subject to any conditions that it sees fit to impose, decide that the agreement shall be enforceable.
+
+### 86. Regulations relating to form and content of consumer-hire agreements.
+
+F122[**86.**—(1) The Bank may make regulations amending *section 84* with respect to the form or content of consumer-hire agreements.
+
+(2) The Bank may exercise the power conferred by *subsection (1)* only after consulting with, or at the request of, the Director and only after obtaining the consent of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F122: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 19, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+>
+> **Editorial Notes:**
+>
+> E46: Power pursuant to section exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 86) Regulations 1996* (S.I. No. 131 of 1996).
+
+### 87. Obligation on owners to comply with sections 84 and 86.
+
+**87.**—An owner who is a party to a consumer-hire agreement shall ensure that the contents of the agreement comply with *section 84* and any regulations made under *section 86*.
+
+### 88. Application of sections 73A to 83 to consumer-hire agreements
+
+F123[**88.**—(1) Subject to *subsection (2)*, where goods are let under a consumer-hire agreement, the provisions of *sections 73A* to *83* shall apply to the consumer-hire agreement as if it were a hire-purchase agreement.
+
+(2) In the application of *section 73P* to a consumer-hire agreement, the entitlement to reimbursement of the price referred to in *subsection (1)(a)* applies only so far as relating to any price paid by the hirer for a period of hire during which the hirer is not in possession of the goods because of the termination of the consumer-hire agreement.
+
+(3) In a consumer-hire agreement, the owner shall ensure that—
+
+(*a*) the goods are free from any charge or encumbrance that is not disclosed to the hirer before the agreement is entered into, and
+
+(*b*) the hirer shall enjoy quiet possession of the goods except so far as it may be disturbed by the owner or any other person who is entitled to the benefit of any charge or encumbrance so disclosed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F123: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 151(1), S.I. No. 596 of 2022, subject to transitional provisions in subs. (2), s. 9(6).
+
+### 89. Right of hirer to determine consumer-hire agreement.
+
+**89.**—(1) A hirer shall, at any time, be entitled to determine a consumer-hire agreement by giving notice of termination to the owner or any person entitled to receive the sums payable under the agreement.
+
+(2) Where a notice is given under *subsection (1)* the agreement shall be determined after the expiration of the period of 3 months (or such lesser period as may be specified in the agreement) from the date of receipt of the notice.
+
+### 90. Hirer to take reasonable care of goods.
+
+**90.**—A hirer shall take all reasonable care of goods which are let to him under a consumer-hire agreement and shall be liable to the owner if he fails to take such care.
+
+### 91. Duty of hirer to give information as to whereabouts of goods.
+
+**91.**—A hirer shall, within 10 days of receipt of a request in writing from the owner of the goods let to the hirer under a consumer-hire agreement, inform the owner where the goods are at the time when the information is given or, if it is sent by post, at the time of posting.
+
+## PART VIIIProvisions Relating to Moneylending — PART VIII — Provisions Relating to Moneylending
+
+### 92. Application and interpretation of Part VIII.
+
+F124[**92.**—(1) This Part applies to and in respect of F125[high cost credit agreements] and to all transactions (whatever their form) that substantially involve F125[high cost credit].
+
+(2) In this Part—
+
+"authorised person" means the Bank, a person authorised by the Bank for the purposes of this section, F126[...] an officer of the Bank or a member of the Garda Síochána;
+
+"certified" means certified by an authorised person.]
+
+F127["financial services legislation" has the same meaning as it has in the Central Bank (Supervision and Enforcement) Act 2013;
+
+"rate of nominal monthly interest" means the advertised or stated monthly interest rate, without taking into account any fees, but including any compounding of interest applicable;]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F124: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 20, S.I. No. 160 of 2003.
+>
+> F125: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 7(a), (b), S.I. No. 575 of 2022.
+>
+> F126: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(4) and sch. 2 part 4 item 4, S.I. No. 469 of 2010.
+>
+> F127: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 5, S.I. No. 575 of 2022.
+
+### 93. Moneylender's licence.
+
+**93.**—F128[(1) The Bank may grant to an applicant a high cost credit provider’s licence authorising the applicant to engage in the provision of high cost credit on such terms and conditions as it thinks fit, but only after considering all objections made in respect of the application under *subsection (2)*.]
+
+F128[(2) A person who intends to apply for a high cost credit provider’s licence shall before making such application cause to be published, in a national newspaper published and circulating in the State, a notice of the person’s intention.]
+
+F129[(3) An application for a F131[high cost credit provider’s licence] must—
+
+(*a*) be in writing and in such form as the Bank may determine, and
+
+(*b*) be accompanied by the fee (if any) prescribed under section 33K of the Central Bank Act 1942, for the purposes of this section.
+
+(4) F132[...]
+
+(5) The application must contain the following information:
+
+(*a*) the true name and the business name (if any) of the applicant;
+
+(*b*) the name under which the applicant intends to engage in or engages in F131[the provision of high cost credit];
+
+(*c*) the address of any premises at which the applicant is carrying on or proposes to carry on F131[the provision of high cost credit];
+
+(*d*) an itemised statement of the proposed total cost of credit;
+
+F128[(*e*) details of charges not included in the cost of credit;]
+
+(*f*) details of the applicant's terms and conditions for providing credit;
+
+(*g*) F132[...]
+
+(*h*) a copy of any advertisement placed by the applicant as required under *subsection (2)*;
+
+(*i*) such other information as the Bank may reasonably require.]
+
+(6) A person shall not wilfully give any information which is false or misleading in respect of an application for a F131[high cost credit provider’s licence].
+
+F128[(7) A high cost credit provider’s licence shall be valid for 5 years from the date of the grant of the licence.]
+
+(8) A F131[high cost credit provider’s licence] shall state—
+
+(*a*) the true name and business name (if any) of the holder,
+
+(*b*) the name under which the holder is authorised by the licence to engage in F131[the provision of high cost credit],
+
+(*c*) the address of the business premises of the holder, and
+
+(*d*) F132[...]
+
+(*e*) an itemised statement of the APR to be charged in relation to F131[high cost credit agreements]by the holder,
+
+F128[(*f*) details of charges not included therein,]
+
+(*g*) statement of the licence holder's terms and conditions, and
+
+(*h*) any restrictions to the licence.
+
+(9) The holder of a F131[high cost credit provider’s licence] shall only engage in F131[the provision of high cost credit] in the name specified in the holder's licence.
+
+(10) F129[The Bank may refuse to grant a F131[high cost credit provider’s licence] on one or more of the following grounds]:
+
+(*a*) the applicant or any business with which he was connected was, during the previous 5 years, convicted of an offence for contravening *section 98*,
+
+(*b*) the Circuit Court has, during the previous 2 years, decided pursuant to *section 47* in relation to an agreement between the applicant and a consumer that the total cost of credit was excessive,
+
+(*c*) the applicant is the holder of—
+
+(i) F133[a betting licence issued under Part 5 of the Act of 2024],
+
+(ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts, 1833 to 1994,
+
+(iii) a gaming licence issued under the Gaming and Lotteries Act, 1956, or
+
+(iv) a pawnbroker's licence granted under the Pawnbrokers Act, 1964, as amended by this Act,
+
+F134[(*d*) the applicant has failed to provide satisfactory evidence that a current tax clearance certificate in relation to the licence has been issued in accordance with the provisions of F135[section 1094 of the Taxes Consolidation Act, 1997],]
+
+(*e*) the applicant or any person responsible or proposed to be responsible for the management of his business in relation to F131[the provision of high cost credit] is by order of a court disqualified from holding a licence,
+
+(*f*) the applicant is not or is no longer, in the opinion of the F129[Bank], a fit and proper person to carry on F131[the provision of high cost credit],
+
+F128[(*g*) in the Bank’s opinion, any of the terms or conditions of the applicant relating to credit are unfair,]
+
+F136[(*ga*) a proposed total cost of credit is excessive,]
+
+(*h*) in the case of an application for a second or subsequent F131[high cost credit provider’s licence], the applicant did not engage in F131[the provision of high cost credit] according to the terms or conditions of the F128[previous licence,]
+
+F136[(*i*) the applicant has failed to satisfy the Bank that the applicant is, or will be, able to comply with any requirement imposed on the holder of a licence by, or under, this Part or any other provision of financial services legislation,
+
+(*j*) the applicant has failed to satisfy the Bank that the applicant conducts or will conduct the applicant’s business in such a manner as to ensure the protection of the applicant’s customers, or
+
+(*k*) the applicant has failed to satisfy the Bank that the applicant complies with any other requirement, compliance with which is considered necessary by the Bank in order to ensure—
+
+(i) the proper and orderly regulation and supervision of the provision of high cost credit, or
+
+(ii) the protection of the applicant’s customers.]
+
+F137[(10A) (*a*) Where in relation to a F131[high cost credit provider’s licence]
+
+(i) an application in accordance with F135[section 1094 of the Taxes Consolidation Act, 1997], for a tax clearance certificate has been made—
+
+(I) not less than four months prior to the commencement date of such licence, and
+
+(II) a tax clearance certificate has not yet been issued or refused,
+
+or
+
+(ii) a tax clearance certificate has been refused and an appeal against such refusal has been made and accepted in accordance with subsection (6) of the said F135[section 1094],
+
+and in either case, the licence could, but for the provisions relating to a tax clearance certificate, have been issued, then—
+
+(I) in a case where a licence has been granted in respect of the previous licensing period, such licence may continue in force beyond its latest expiry date pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal,
+
+and
+
+(II) in a case where a licence has not been granted in respect of the previous licensing period, a licence may be issued temporarily and remain in force pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal:
+
+Provided that the amount of the fee that would be payable on the application for the licence is duly deposited with the Director.
+
+(*b*) Every licence issued temporarily or continued in force in accordance with *paragraph (a)* shall, while it remains in force, be deemed to be a licence within the meaning of this section.
+
+(*c*) Where—
+
+(i) a determination is made to issue a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal referred to in *subparagraph (ii)* of *paragraph (a)* is to the effect that the application for a tax clearance certificate in relation to a licence is an acceptable application,
+
+and where the tax clearance certificate has been issued; the licence continued in force or issued temporarily under this subsection shall expire upon the grant of a licence under this section and the duty deposited shall be set against the appropriate duty payable on the grant of the licence.
+
+(*d*) Where—
+
+(i) a determination is made to refuse a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal under *subparagraph (ii)* of *paragraph (a)* is to the effect that the refusal of an application for a tax clearance certificate in relation to a licence is a valid refusal,
+
+the licence continued in force or issued temporarily under this subsection shall expire not later than seven days after such refusal or after the determination of such appeal, and the amount of any duty deposited in excess of the proportion of that duty attributable to the period when the licence was temporarily in force shall be repaid,]
+
+F128[(11) The Bank may—
+
+(*a*) suspend or revoke a high cost credit provider’s licence, or
+
+(*b*) vary the terms or conditions of a high cost credit provider’s licence,
+
+where the Bank is satisfied that, since becoming the holder of a high cost credit provider’s licence—
+
+(i) the high cost credit provider, or any business with which the high cost credit provider is connected, has been convicted of an offence for contravening *section 98*,
+
+(ii) the high cost credit provider has become the holder of a licence referred to in *subsection (10)(c)*,
+
+(iii) the high cost credit provider has failed to comply with any of the terms or conditions of the licence, or
+
+(iv) the high cost credit provider has failed to comply with or is failing to comply with any condition or requirement imposed by, or under, this Act or any other financial services legislation.]
+
+(12) Whenever the F129[Bank] proposes to refuse to grant, suspend, revoke or vary the terms or conditions of a F131[high cost credit provider’s licence] F129[it] shall notify the applicant or the holder of the licence, as the case may be, of F129[its] proposal and shall, if any representations are made to him in writing by such applicant or holder within 14 days of the notification, consider the representations.
+
+F138[(13) If, having considered any representations that may have been made under *subsection (12)*, the Bank decides to refuse to grant a licence, it shall, by notice in writing, inform the applicant of the decision. The notice must specify the grounds for the decision.
+
+(14) If, having considered any representations that may have been made under *subsection (12)*, the Bank decides to suspend or revoke a F131[high cost credit provider’s licence], or to vary any term or condition of such a licence, it shall notify the decision to the holder of the licence, together with the grounds for the decision.
+
+(15) The Bank shall deliver a notice referred to in *subsection (13)* or *(14)* personally or send it by prepaid registered post to the business address of the applicant for an authorisation or the holder of the authorisation concerned, as the case requires.
+
+(16) The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942:
+
+(*a*) a decision to refuse to grant a F131[high cost credit provider’s licence];
+
+(*b*) a decision suspending or revoking such a licence;
+
+(*c*) a decision varying any term or condition of such a licence.
+
+(17) If a notice under this section relates to a decision of the Bank—
+
+(*a*) suspending or revoking a F131[high cost credit provider’s licence], or
+
+(*b*) varying the terms or conditions of such a licence,
+
+the decision takes effect at the end of the period allowed for appealing against the decision under Part VIIA of the Central Bank Act 1942 unless an appeal against the decision is lodged under that Part within that period.]
+
+(18) A decision of the Circuit Court on an appeal under *subsection (13)* shall be final save that, by leave of the Court, an appeal from the decision shall lie to the High Court on a specified question of law.
+
+(19) F139[...]
+
+F136[(20) For the purposes of *subsection (10)(ga)*, a proposed total cost of credit shall be excessive where the interest rate for a loan to which the total cost of credit relates would exceed—
+
+(*a*) in the case of a loan (other than a running account)—
+
+(i) the maximum rate of interest standing prescribed under *section 98A(2)(a)(i)*, or
+
+(ii) the maximum rate of interest standing prescribed under *section 98A(2)(a)(ii)*,
+
+and
+
+(*b*) in the case of a running account, the maximum rate of interest standing prescribed under *section 98A(2)(b)*,
+
+in each case, at the time the application is made.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Substituted (14.11.2022), by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 6(a), (b), (d)(i), (e), (f)(ii), (g)(i), (iii), (h), S.I. No. 575 of 2022.
+>
+> F129: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 21(a), (c), (d)-(f), (h), (i), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F130: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 21(b), (g), S.I. No. 160 of 2003.
+>
+> F131: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1), sch. 1 part 1 items 8-18, S.I. No. 575 of 2022.
+>
+> F132: Deleted (14.11.2022), by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 6(c), d(ii), (f)(i), S.I. No. 575 of 2022.
+>
+> F133: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 266(1)(b)(i), S.I. No. 31 of 2026, art. 2(i)(iii)(IV).
+>
+> F134: Substituted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(a)(i), commenced as per subs. (3)(a).
+>
+> F135: Substituted (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1100 and sch. 31, commenced as per s. 1097.
+>
+> F136: Inserted (14.11.2022), by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 6(g)(ii), (iv), (i), S.I. No. 575 of 2022.
+>
+> F137: Inserted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(a)(ii), commenced as per subs. (3)(a).
+>
+> F138: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 1, S.I. No. 455 of 2004.
+>
+> F139: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 1, S.I. No. 455 of 2004.
+>
+> F140: Substituted by *Gambling Regulation Act 2024* (35/2024), s. 266(1)(b)(ii), not commenced as of date of revision.
+>
+> F141: Substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 1; not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subs. (11)(c)(iii) amended by *Gambling Regulation Act 2024* (35/2024), s. 266(b)(ii), not commenced as of date of revision.
+>
+> (iii) F140[a gaming licence issued under Part 5 of the Act of 2024], or
+>
+> C11: Prospective affecting provision: subs. (18) substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 1; not commenced as of date of revision.
+>
+> (18) If an appeal is lodged under Part VIIA of the Central Bank Act 1942 by a holder of a moneylender's licence against a decision of the Bank—
+>
+> (*a*) suspending or revoking such a licence, or
+>
+> (*b*) varying the terms or conditions of such a licence,
+>
+> the decision does not take effect unless it is confirmed by the Irish Financial Services Appeals Tribunal or the appeal is withdrawn.
+>
+> **Editorial Notes:**
+>
+> E47: Previous affecting provision: subs. (1), (10(g) substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 21(a), (c), (d)-(f), (h), (i), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> E48: Previous affecting provision: applications for licence under subs. (3) exempted from fee (16.07.2004) by *Central Bank Act 1942 (Sections 33J and 33K) Regulations 2004* (S.I. No. 447 of 2004), reg. 4(a)(ii); revoked (16.09.2011) by *Central Bank Act 1942 (Section 32D) Regulations 2011* (S.I. No. 478 of 2011), reg. 11.
+>
+> E49: Previous affecting provision: subss. (13), (17) and (19) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 21(f), S.I. No. 160 of 2003; subsections substituted and deleted as per F-note above.
+
+### 94. Obligation on moneylender to display licence.
+
+**94.**—The holder of a F142[high cost credit provider’s licence] shall display in a prominent position F143[a certified copy] of the licence and any terms or conditions attached thereto in any premises where the holder engages in F142[the provision of high cost credit].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 19(a), (b), S.I. No. 575 of 2022.
+>
+> F143: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 22, S.I. No. 160 of 2003.
+
+### 94A. Term of loan under high cost credit agreement
+
+F144[**94A.**—(1) Subject to *subsection (2)*, a high cost credit provider shall not grant a loan whose term exceeds 52 weeks.
+
+(2) *Subsection (1)* shall not apply to—
+
+(*a*) a loan granted under a high cost credit agreement that is entered into before the date on which the Consumer Credit (Amendment) Act 2022 comes into operation, or
+
+(*b*) a running account under a high cost credit agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F144: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 7, S.I. No. 575 of 2022).
+>
+> **Editorial Notes:**
+>
+> E50: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 95. “Moneylending agreement” to be stated in agreement.
+
+F145[**95.** A high cost credit provider shall ensure that a high cost credit agreement—
+
+(*a*) entered into after the date on which the Consumer Credit (Amendment) Act 2022 comes into operation, and
+
+(*b*) to which the high cost credit provider is a party, shall contain in a prominent position the words "High cost credit agreement".]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F145: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 8, S.I. No. 575 of 2022).
+
+### 96. F147[High cost credit provider’s licence] not to be altered or falsified.
+
+F146[**96.**—(1) A person, other than an authorised person, shall not alter or attempt to alter a F147[high cost credit provider’s licence] or an authorised copy of such a licence.
+
+(2) A person shall not falsify or attempt to falsify a F147[high cost credit provider’s licence] or a certified copy of such a licence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 23, S.I. No. 160 of 2003.
+>
+> F147: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 20, S.I. No. 575 of 2022.
+
+### 97. Moneylender to issue authorisation to persons engaging in moneylending on his behalf off business premises.
+
+**97.**—(1) A holder of a F148[high cost credit provider’s licence] shall issue, in writing and in such form as may be specified by the F157[Bank], to any person engaging in F149[the provision of high cost credit] on his behalf, at a place other than a business premises of the holder F150[used for the provision of high cost credit], authorisation to so engage, signed by or on behalf of the licence holder.
+
+(2) An authorisation issued under *subsection (1)* shall cease to have effect should F151[the high cost credit provider] who issued it cease to be the holder of a F152[high cost credit provider’s licence].
+
+(3) A person shall not engage in F153[the provision of high cost credit] on behalf of the holder of a F154[high cost credit provider’s licence] at a place other than the business premises of the holder unless he holds an authorisation issued under *subsection (1)*.
+
+(4) A person shall not alter, deface or falsify or attempt to alter, deface or falsify an authorisation issued under *subsection (1)*.
+
+(5) In any proceedings for an offence for contravening *subsection (3)* it shall be a defence for the accused to show that he had reasonable grounds to believe that any authorisation issued to him to engage F155[in the provision of high cost credit] on behalf of a F156[high cost credit provider] was *bona fide* issued under this section and in force.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F148, F149, F150, F151, F152, F153, F154, F155, F156: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 items 21-24, S.I. No. 575 of 2022.
+>
+> F157: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 24, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+
+### 98. Prohibition on engaging in F158[the provision of high cost credit] without licence.
+
+**98.**—(1) A person shall not engage in F159[the provision of high cost credit] on his own behalf unless—
+
+(*a*) he is the holder of a F160[high cost credit provider’s licence], and
+
+(*b*) he maintains a business premises for that purpose which is not used as a residence by any person.
+
+(2) A person shall not engage in F161[the provision of high cost credit] F162[on behalf of a high cost credit provider] who is not the holder of a F163[high cost credit provider’s licence].
+
+(3) Where a member of the Garda Síochána has reasonable cause to suspect that a person in a public place is engaging in F164[the provision of high cost credit] in contravention of this section, the member may, without warrant, stop, question, search (if need be by force) and remove from that person any documents or money which the member reasonably believes may be in that person's possession F165[for the purpose of the provision of high cost credit].
+
+(4) A person shall not obstruct or interfere with a member of the Garda Síochána acting under *subsection (3)* or give to a member information which is false or misleading.
+
+(5) A person shall comply with any request made of him by a member of the Garda Síochána under *subsection (3)*.
+
+(6) In this section “public place” means any place to which the public have access whether as of right or by permission and whether subject to or free of charge; and the doorways, entrances and gardens abutting onto a public place and any ground or car-park adjoining and open to a public place shall be treated as forming part of a public place.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F158, F159, F160, F161, F162, F163, F164, F165: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 25, S.I. No. 575 of 2022.
+
+### F166[98A. Maximum interest rates.
+
+**98A.** (1) A high cost credit provider shall not charge interest, under a high cost credit agreement, at a rate which exceeds a maximum rate of interest—
+
+(*a*) prescribed under this section, and
+
+(*b*) applicable to the agreement.
+
+(2) The Minister shall prescribe the following:
+
+(*a*) in respect of a loan (other than a running account) under a high cost credit agreement—
+
+(i) the maximum rate of simple interest chargeable per week (being a rate less than or equal to one per cent), and
+
+(ii) the maximum rate of simple interest chargeable per year (being a rate less than or equal to 48 per cent);
+
+(*b*) in respect of a running account under a high cost credit agreement, the maximum rate of nominal monthly interest chargeable on an outstanding balance (being a rate less than or equal to 2.83 per cent).
+
+(3) A maximum rate of interest prescribed under this section shall apply to a high cost credit agreement entered into—
+
+(*a*) after the date on which the regulations, by which the rate is prescribed, come into operation, and
+
+(*b*) on or before the date, if any, on which the regulations next made under this section come into operation.
+
+(4) The Minister shall consult with the Bank before making regulations under this section.
+
+(5) The Minister shall have regard to the following when making regulations under this section:
+
+(*a*) the impact of the regulations on competition in the high cost credit sector;
+
+(*b*) the impact of the regulations on the supply of credit in the high cost credit sector;
+
+(*c*) the average rates of interest offered to customers in the high cost credit sector and any trends in such interest rates;
+
+(*d*) where setting the proposed rate would reduce the supply of credit in the high cost credit sector, the impact of such a reduction on financial inclusion.
+
+(6) In *subsection (5)(d)*, "financial inclusion" means affordable, timely and adequate access to a range of regulated financial products and services by all segments of society.
+
+(7) The Bank shall, when consulted in accordance with *subsection (4)*, prepare a report assessing the possible effects, on the matters referred to in *subsection (5),* of the rates proposed to be prescribed by the Minister.
+
+(8) The Bank shall, within 3 years of the coming into operation of the Consumer Credit (Amendment) Act 2022, prepare a report assessing the impact of the rates of interest prescribed under this section on the matters referred to in *subsection (5)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F166: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 9, S.I. No. 575 of 2022.
+>
+> **Editorial Notes:**
+>
+> E51: Power pursuant to section exercised (14.11.2022) by *Consumer Credit Act 1995 (section 98 A) (Maximum Interest Rates) Regulations 2022* (S.I. No. 576 of 2022), in effect as per reg. 1(2).
+>
+> E52: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 99. Loan or other credit to be advanced in full.
+
+**99.**—Where credit is made available to a borrower by means of a F167[high cost credit agreement] that credit shall not be reduced by the F168[high cost credit provider] or a person acting on his behalf by any amount in respect of:
+
+(*a*) repayment of the credit or any charges related thereto, or
+
+(*b*) repayment of a previous credit or any charge related thereto,
+
+and no payment in respect of the credit shall be required of the borrower by the F169[high cost credit provider] or a person acting on his behalf before the due date of the first repayment instalment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F167, F168, F169: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 26(a), (b), S.I. No. 575 of 2022.
+
+### 100. Repayment book.
+
+**100.**—F170[(1) A high cost credit provider shall, in respect of every high cost credit agreement, supply or make available to the borrower, in accordance with *subsection (3)*, on paper or another durable medium, a book or document (in this section referred to as a "repayment book")—
+
+(*a*) in which to record repayments made under the agreement,
+
+(*b*) which shall be completed and maintained by the high cost credit provider in accordance with this section, and
+
+(*c*) which shall be separate from the agreement.]
+
+(2) (*a*) A F173[high cost credit provider] shall, in respect of F174[high cost credit agreement], enter in a repayment book before supplying it to a borrower the following information:
+
+(i) an agreement number or other reference to enable the agreement to be identified,
+
+(ii) the name and address of the F175[high cost credit provider] (as specified on his F176[high cost credit provider’s licence]),
+
+(iii) the name and address of the borrower,
+
+F171[(vii) the rate of interest to be charged (including the APR expressed as € per €100 borrowed) on foot of the credit advanced,]
+
+(v) the date the credit is advanced,
+
+(vi) the amount of each repayment instalment,
+
+(vii) the rate of interest to be charged (including the APR expressed as £ per £100 borrowed) on foot of the credit advanced,
+
+F172[(viii) the total cost of credit—
+
+(I) in euro, and
+
+(II) as a percentage of the amount borrowed,]
+
+(ix) the number of repayment instalments,
+
+(x) the date, or the mode of determining the date, upon which each repayment instalment is payable,
+
+(xi) the total amount payable in respect of the loan, and
+
+(xii) the date of expiry of the loan.
+
+(*b*) A repayment book shall also include a record of repayments in the form set out in the *Sixth Schedule* and in which, on the occasion of each repayment, the person to whom the repayment is made shall enter the following:
+
+(i) the date the repayment is made,
+
+(ii) the amount of the repayment,
+
+(iii) the amount still outstanding after deduction of the repayment, and
+
+(iv) the signature of the person to whom the repayment is made.
+
+F177[(3) A high cost credit provider shall, for the purposes of compliance with *subsection (1)*—
+
+(*a*) offer to supply or make available the repayment book to the borrower in a choice of paper and at least one other durable medium, and
+
+(*b*) supply or make available the repayment book to the borrower in the durable medium chosen by the borrower.
+
+(4) In this section, "durable medium" means any medium that enables a person to store information in a way that renders it accessible to the borrower for future reference for a period of time adequate for the purposes of the information and allows the unchanged reproduction of the information.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F170, F171, F172: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 10(a), (b)(i), (ii), S.I. No. 575 of 2022.
+>
+> F173, F174, F175, F176: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 27(a)-(c), S.I. No. 575 of 2022.
+>
+> F177: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 10(c), S.I. No. 575 of 2022.
+
+### 101. Records to be maintained by F178[high cost credit provider].
+
+**101.**—(1) A F179[high cost credit provider] shall, in respect of every F180[high cost credit agreement], made after the commencement of this section, to which the F181[high cost credit provider] is a party, keep a record of the agreement which shall include the following information:
+
+(*a*) the agreement number or other reference to identify the agreement,
+
+(*b*) the name and address of the borrower,
+
+(*c*) the amount of the credit advanced under the agreement,
+
+(*d*) the date the credit is advanced,
+
+(*e*) the amount of each repayment instalment,
+
+(*f*) the rate of interest charged including the APR,
+
+(*g*) the amount of each collection charge (if any),
+
+(*h*) the number of instalments,
+
+(*i*) the total amount payable in respect of the loan, and
+
+(*j*) a Schedule showing, in respect of each repayment—
+
+(i) the date the repayment is made,
+
+(ii) the amount of the repayment,
+
+(iii) the amount still outstanding after deduction of the repayment, and
+
+(iv) the name of the person to whom the repayment is made.
+
+(2) A F182[high cost credit provider] shall retain a record kept under *subsection (1)* for a period of not less than 5 years after the final repayment instalment under the agreement.
+
+F184[(3) Neither a F179[high cost credit provider] nor a person acting on the F183[high cost credit provider's] behalf may divulge to a person other than an authorised person any of the contents of records kept by the F179[high cost credit provider] under this section.
+
+(3A) The following persons are authorised for the purposes of *subsection (3)*:
+
+(*a*) the borrower or an agent of the borrower;
+
+(*b*) the Bank, a Director of the Bank, an employee of the Bank, a delegate of the Bank or a member, officer or employee of such a delegate;
+
+(*c*) a court or an officer of a court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F178, F179, F180, F181, F182, F183: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 28(a)-(c), S.I. No. 575 of 2022.
+>
+> F184: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 25, S.I. No. 160 of 2003.
+
+### 102. Prohibition on charges for expenses on loans by moneylenders.
+
+**102.**—F185[(1) A high cost credit provider shall not make or attempt to make an agreement with a borrower who has borrowed or intends to borrow credit from that high cost credit provider for any—
+
+(*a*) sum,
+
+(*b*) account of costs,
+
+(*c*) charges,
+
+(*d*) collection charges, or
+
+(*e*) expenses,
+
+incidental to or relating to the negotiations for, or the granting of, the loan.]
+
+(2) If any sum is paid by a borrower who has borrowed or intends to borrow credit from a F186[high cost credit provider] for or on account of such costs, charges or expenses that sum shall be recoverable as a debt due to the borrower, or in the event of the loan being completed, shall, if not so recovered, be set off against the amount actually lent and that amount shall be deemed to be reduced accordingly.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F185: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 11, S.I. No. 575 of 2022.
+>
+> F186: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 29, S.I. No. 575 of 2022.
+
+### 103. Moneylending agreements which include a collection charge.
+
+**103.**—F187[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F187: Repealed (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 12, S.I. No. 575 of 2022.
+>
+> **Editorial Notes:**
+>
+> E53: Previous affecting provision: subs. (1)(d) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 26, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1); repealed (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 12, S.I. No. 575 of 2022.
+
+### 104. Presumption.
+
+**104.**—Where in a prosecution for a contravention of this Part it is shown to a court that the accused had in his possession or control any document or sum of money in circumstances which give rise to the reasonable inference that such documents or money were kept for F188[the purpose of the provision of high cost credit], it shall be presumed, unless the contrary is shown, that the accused, at the time of such possession or control, was engaged in F188[the provision of high cost credit].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F188: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 30, S.I. No. 575 of 2022.
+
+### 105. Powers of entry of Garda Síochána.
+
+**105.**—(1) A member of the Garda Síochána may enter a premises (if need be by reasonable force) at which there are reasonable grounds to suspect that the premises or part of the premises (other than a dwelling) is being used for the purposes of F189[the provision of high cost credit] contrary to this Part or that evidence of an offence for contravening this Part may be found in such premises, and may search and inspect the premises and search and question any person found thereon and may seize and retain any document, money or thing which the member has reason to believe may be evidence of the commission of an offence for contravening this Part.
+
+(2) A member of the Garda Síochána who enters a premises under *subsection (1)* may exercise any of the powers conferred on an authorised officer under F190[*section 8N*].
+
+(3) A person shall not obstruct or interfere with a member of the Garda Síochána acting under this section or give any information which is false or misleading.
+
+(4) A person shall comply with any requirement made of him by a member of the Garda Síochána under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F189: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 31, S.I. No. 575 of 2022.
+>
+> F190: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 27, S.I. No. 160 of 2003.
+
+### 106. Search warrants.
+
+**106.**—(1) If a judge of the District Court is satisfied on the sworn information of a member of the Garda Síochána that there are reasonable grounds for suspecting that any premises or any part of any premises is being used for the purposes of F191[the provision of high cost credit] contrary to the provisions of this Part or that evidence of an offence for contravening this Part may be found in such premises, the judge may issue a warrant authorising any member of the Garda Síochána, accompanied by other members of the Garda Síochána, at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter, if need be by force, and search the premises and any person found therein and question any such person and seize and retain any document or thing which such member has reason to believe may be evidence of the commission of an offence for contravening this Part and arrest any such person who the member has reason to believe has contravened any provision of this Part.
+
+(2) A person shall not obstruct or interfere with a member of the Garda Síochána acting under the authority of a warrant under *subsection (1)* or give to a member information which is false or misleading.
+
+(3) A person shall comply with any request made of him by a member of the Garda Síochána acting under the authority of a warrant under *subsection (1)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F191: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 32, S.I. No. 575 of 2022.
+
+### 107. Prohibition on possession of documents belonging to another person for moneylending.
+
+**107.**—(1) A person shall not have in his possession or control for the purposes of F192[the provision of high cost credit] any document belonging to another person.
+
+(2) Where a member of the Garda Síochána has reasonable cause to suspect that a person is in possession or control of a document in contravention of *subsection (1)*, the member may without warrant, stop and search (if need be by force) the person and seize the document.
+
+(3) A person shall not obstruct or interfere with a member of the Garda Síochána acting under *subsection (2)*.
+
+(4) In this section “document” includes every book, card, order, voucher or other document issued to any person.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F192: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 33, S.I. No. 575 of 2022.
+
+### 108. Obligation to produce to member of Garda Síochána moneylender's licence or authorisation.
+
+**108.**—(1) Where a member of the Garda Síochána has reasonable cause to suspect that a person is engaged in the F193[the provision of high cost credit] he may require that person to produce his F194[high cost credit provider’s licence] or authorisation issued under *section 97*.
+
+(2) A person shall not obstruct or interfere with a member of the Garda Síochána acting under *subsection (1)* and shall comply with any requirement made of him under that subsection.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F193, F194: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 34(a), (b), S.I. No. 575 of 2022.
+
+### 109. Powers of arrest.
+
+**109.**—(1) If a member of the Garda Síochána has reasonable cause to suspect that a person has contravened this section, *section 98, section 107* or *108*, the member may—
+
+(*a*) arrest that person without warrant, or
+
+(*b*) require the person to give his name and address and, if the person fails or refuses to do so or gives a name or address that member reasonably suspects to be false or misleading, the member may arrest that person without warrant.
+
+(2) A person shall not refuse to give his name or address when required under *subsection (1)*, or give a name or address which is false or misleading.
+
+### 110. Prohibition on collecting repayments at certain times.
+
+**110.**—(1) A person shall not engage in the business of collecting repayments whether personally or by his employee or agent—
+
+(*a*) subject to *subsection (2)*, between the hours of 9 o'clock in the evening on any week day and 10 o'clock in the morning on the following day, or
+
+(*b*) at any time on a Sunday or a public holiday (within the meaning of the Holidays (Employees) Act, 1973).
+
+(2) Where the borrower has given his consent in writing, separate from any other document, in the form set out in the *Seventh Schedule* or such other form as may be prescribed, a F195[high cost credit provider] may engage in the collection of repayments whether personally or by his employee or agent between the hours of 8 o'clock and 10 o'clock in the morning on any week day.
+
+(3) A copy of a consent under *subsection (2)* shall be—
+
+(*a*) handed personally to the borrower upon giving such consent, or
+
+(*b*) sent to the borrower within 10 days of giving such consent, by the F196[high cost credit provider] or his employee or agent.
+
+(4) A borrower may withdraw any consent given by him under *subsection (2)* by notifying the F197[high cost credit provider], his employee or agent and, accordingly, any such consent shall be terminated upon receipt of such notification.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F195, F196, F197: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 35, S.I. No. 575 of 2022.
+
+### 111. Prohibition on selling goods while collecting repayments.
+
+**111.**—A person on the occasion that a cash advance is made to a borrower under a F198[high cost credit agreement], shall not sell or offer for sale any goods to that borrower.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F198: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 36, S.I. No. 575 of 2022.
+
+### 112. Prohibition on increased charges for credit on default.
+
+**112.**—A F199[high cost credit agreement] shall be unenforceable against the borrower if it provides that the rate of charge for the credit may be increased or that any additional charge, other than legal costs, may apply in the event of a default in the payments due under the agreement.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F199: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 37, S.I. No. 575 of 2022.
+
+### 113. Continuity of licences granted under Moneylenders Act, 1933.
+
+**113.**—Any moneylender's licence granted by the Revenue Commissioners under section 5 of the Moneylenders Act, 1933 (repealed by *section 19*) that is in force immediately before the commencement of *section 93* shall continue in force after such commencement for the remainder of the period that such licence was so granted as if it had been granted by the Director under *section 93* and that section shall be construed accordingly.
+
+### 114. Certain persons not to be regarded as moneylenders.
+
+F200[**114.**—The Minister for Finance may, after consulting the Bank, make regulations declaring that specified persons, or members of a specified class of persons, are not to be regarded as engaging in F201[the provision of high cost credit] for the purpose of this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F200: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 28, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 part 3 para. 23(2).
+>
+> F201: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 38, S.I. No. 575 of 2022.
+
+### 114A. Provision of information by Bank to Minister.
+
+F202[**114A.** (1) Subject to *subsection (3)*, the Minister may, in writing, request the Bank to obtain and publish aggregate information and statistics in relation to the high cost credit sector.
+
+(2) The Bank shall comply with a request from the Minister under *subsection (1)*.
+
+(3) The Minister shall not request the Bank to publish personal data (within the meaning of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^4]) under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F202: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 13, S.I. No. 575 of 2022.
+>
+> **Editorial Notes:**
+>
+> E54: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### F203[114B. Transitional provisions arising from Consumer Credit (Amendment) Act 2022
+
+**114B**. (1) A reference in a provision specified in *subsection (2)* to a high cost credit provider’s licence shall include a reference to a licence granted under *section 93*, as that section stood immediately before the coming into operation of the Act of 2022.
+
+(2) The provisions referred to in *subsection (1)* are—
+
+(*a*) *subsections (9), (10)(e)* and *(h), (10A), (11), (12), (14), (16)* and *(17)* of *section 93*,
+
+(*b*) *section 94*,
+
+(*c*) *section 96*,
+
+(*d*) *section 97*,
+
+(*e*) *section 98*,
+
+(*f*) *section 100*,
+
+(*g*) *section 108*,
+
+(*h*) *section 116*,
+
+(*i*) *section 144*, and
+
+(*j*) *section 151A*.
+
+(3) An application made under *section 93*, as that section stood immediately before the coming into operation of the Act of 2022, but not determined before such coming into operation, shall be deemed to be an application for a high cost credit provider’s licence under *section 93*.
+
+(4) A licence granted under *section 93*, as that section stood immediately before the Act of 2022 came into operation, shall be valid for the period of 12 months commencing on the date specified in the licence and shall expire at the end of that period.
+
+(5) In this section, "Act of 2022" means the Consumer Credit (Amendment) Act 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F203: Inserted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 14, S.I. No. 575 of 2022.
+
+## PART IXHousing Loans made by Mortgage Lenders — PART IX — Housing Loans made by Mortgage Lenders
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C12: Application of Part extended (1.09.1997) by *Consumer Credit Act, 1995 (Section 3) Regulations 1997* (S.I. No. 186 of 1997), reg. 3, in effect as per reg. 2.
+>
+> 3\. The following provisions of the Consumer Credit Act, 1995 (No. 24 of 1995), shall apply to a housing loan advanced by a local authority—
+>
+> ( *a* ) Part I, other than sections 9 to 16, 18 and 19, and
+>
+> ( *b* ) in Part IX, sections 115, 121 (1), other than "Subject to subsection (3),", 123, 124, 125, 128, 129, where applicable, 130, 132 and 134.
+
+### 115. Application of, definitions, Part IX.
+
+**115.**—(1) This Part shall apply to a housing loan made by a mortgage lender.
+
+(2) In this Part—
+
+F204["authorised person" means the Bank, a person authorised by the Bank for the purposes of this section, a delegate of the Bank or a member, officer or employee of such a delegate;
+
+"certified" means certified by an authorised person;]
+
+“endowment loan” means a housing loan which is to be repaid out of the proceeds of an insurance policy on its maturity, other than a policy providing mortgage protection insurance only;
+
+“information document” means any document, leaflet, notice, circular, pamphlet, brochure, film, video or facsimile issued to the general public or to certain persons (whether solicited or not) for the purpose of giving information in relation to housing loans;
+
+“insurance commission” means a payment or other remuneration, reward or benefit in kind, paid or payable by or on behalf of the insurer to any person in connection with the insurance business of the insurer and includes the time allowed by the insurer to that person for the payment by that person to the insurer of premiums received by that person for the insurer for contracts of insurance entered into by the insurer;
+
+“insurance intermediary” means an insurance agent or insurance broker within the meaning of the Insurance Act, 1989;
+
+“insurer” has the meaning assigned to it by the Insurance Act, 1989;
+
+“mortgage agent” means any or all of the following:
+
+(*a*) a mortgage lender,
+
+(*b*) a mortgage intermediary,
+
+(*c*) an insurer, or
+
+(*d*) an insurance intermediary;
+
+“subsidiary” has the same meaning assigned to it by section 155 of the Companies Act, 1963.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F204: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 29, S.I. No. 160 of 2003.
+
+### 116. Mortgage intermediaries.
+
+**116.**—(1) F205[Subject to *section 116A* (inserted by the European Union (Consumer Mortgage Credit Agreements) Regulations 2016) a person shall not engage] in the business of being a mortgage intermediary unless—
+
+(*a*) he is the holder of an authorisation ("a mortgage intermediaries authorisation") granted for that purpose by the F206[Bank], and
+
+(*b*) he holds an appointment in writing from each undertaking for which he is an intermediary.
+
+(2) A holder of an authorisation shall only engage in the business of being a mortgage intermediary in the name specified in the holder’s authorisation.
+
+(3) An application for an authorisation shall be in writing and in such form as the F206[Bank] may determine and shall contain—
+
+(*a*) the true name of the applicant,
+
+(*b*) the name under which the applicant trades,
+
+(*c*) the name of any undertaking for which the applicant acts or intends to act as a mortgage intermediary,
+
+(*d*) the address of any business premises of the applicant to which the application relates, and
+
+(*e*) such other information that the F206[Bank] may require.
+
+F206[(4) An application for an authorisation must be accompanied by the fee (if any) prescribed under section 33K of the Central Bank Act 1942, for the purposes of this section.]
+
+(5) F207[...]
+
+(6) A person shall not wilfully give any information which is false or misleading in respect of an application for an authorisation.
+
+F208[(7) Except as provided by *subsection (7A)*, an authorisation remains in force for 12 months from the date specified in the authorisation.
+
+(7A) In the case of a particular applicant, or an applicant of a particular class designated by the Bank for the purposes of this subsection, the Bank may, if it so chooses, grant an authorisation for a period longer than 12 months, subject to such conditions or requirements as the Bank specifies. If the Bank grants an authorisation for a period longer than 12 months, the authorisation remains in force for that period from the date specified in the authorisation.]
+
+(8) An authorisation shall state—
+
+(*a*) the true name of the holder,
+
+(*b*) the name under which the holder is authorised to engage in the business of being a mortgage intermediary,
+
+(*c*) the address of the business premises of the holder, and
+
+(*d*) the name of any undertaking for which the holder acts as a mortgage intermediary.
+
+F208[(9) The Bank may refuse to grant an authorisation on any of the following grounds:
+
+(*a*) the applicant does not satisfy the condition specified in *subsection (1)(b)*;
+
+(*b*) the applicant, or any business with which the applicant is or has been associated, has, during the previous 5 years, been convicted of an offence that, if committed by a natural person, would be punishable by imprisonment;
+
+(*c*) the applicant is the holder of—
+
+(i) F209[a betting licence issued under Part 5 of the Act of 2024], or
+
+(ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts 1833 to 1994, or
+
+(iii) a gaming licence issued under the Gaming and Lotteries Act 1956, or
+
+(iv) a pawnbroker’s licence granted under the Pawnbrokers Act 1964, or
+
+(v) a F211[high cost credit provider’s licence];
+
+(*d*) the applicant has failed to provide a current Revenue tax clearance certificate in respect of himself or his business;
+
+(*e*) the applicant is not, in the opinion of the Bank, a fit and proper person to carry on business as a mortgage intermediary.]
+
+F213[(9A) (*a*) Where in relation to an authorisation—
+
+(i) an application in accordance with F214[section 1094 of the Taxes Consolidation Act, 1997], for a tax clearance certificate has been made—
+
+(I) not less than four months prior to the commencement date of such authorisation, and
+
+(II) a tax clearance certificate has not yet been issued or refused,
+
+or
+
+(ii) a tax clearance certificate has been refused and an appeal against such refusal has been made and accepted in accordance with subsection (6) of the said F214[section 1094],
+
+and in either case, the authorisation could, but for the provisions relating to a tax clearance certificate, have been issued, then—
+
+(I) in a case where an authorisation has been granted in respect of the previous authorisation period, such authorisation may continue in force beyond its latest expiry date pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal,
+
+and
+
+(II) in a case where an authorisation has not been granted in respect of the previous authorisation period, an authorisation may be issued temporarily and remain in force pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal:
+
+Provided that the amount of the fee that would be payable on the application for the authorisation is duly deposited with the F206[Bank].
+
+(*b*) Every authorisation issued temporarily or continued in force in accordance with *paragraph (a)* shall, while it remains in force, be deemed to be an authorisation within the meaning of this section.
+
+(*c*) Where—
+
+(i) a determination is made to issue a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal referred to in *subparagraph (ii)* of *paragraph (a)* is to the effect that the application for a tax clearance certificate in relation to an authorisation is an acceptable application,
+
+and where the tax clearance certificate has been issued, the authorisation continued in force or issued temporarily under this subsection shall expire upon the grant of an authorisation under this section and the duty deposited shall be set against the appropriate duty payable on the grant of the authorisation.
+
+(*d*) Where—
+
+(i) a determination is made to refuse a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal under *subparagraph (ii)* of *paragraph (a)* is to the effect that the refusal of an application for a tax clearance certificate in relation to an authorisation is a valid refusal,
+
+the authorisation continued in force or issued temporarily under this subsection shall expire not later than seven days after such refusal or after the determination of such appeal, and the amount of any duty deposited in excess of the proportion of that duty attributable to the period when the authorisation was temporarily in force shall be repaid.]
+
+F206[(10) The Minister for Finance may, after consulting the Bank, make regulations prohibiting the holder of an authorisation from acting as or claiming to be a mortgage intermediary, unless there is in force in respect of that holder a policy of professional indemnity insurance that complies with such requirements as are specified in those regulations.]
+
+F208[(11) The Bank may suspend or revoke an authorisation on any of the following grounds:
+
+(*a*) the holder no longer satisfies the condition specified in *subsection (1)(b)*;
+
+(*b*) the holder, or any business entity with which the holder is associated, is convicted of an offence that, if committed by a natural person, would be punishable by imprisonment;
+
+(*c*) the holder has become the holder of—
+
+(i) F210[a betting licence issued under Part 5 of the Act of 2024], or
+
+(ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts 1833 to 1994, or
+
+(iii) a gaming licence issued under the Gaming and Lotteries Act 1956, or
+
+(iv) a pawnbroker’s licence granted under the Pawnbrokers Act 1964, or
+
+(v) a F212[high cost credit provider’s licence];
+
+(*d*) the holder is failing, or has failed, to provide a current Revenue tax clearance certificate in respect of the holder or the holder's business;
+
+(*e*) the holder is failing, or has failed to comply, with a condition or requirement imposed on the holder under *subsection (7)*;
+
+(*f*) the applicant is contravening or has contravened a regulation in force under *subsection (10)*;
+
+(*g*) the holder is no longer, in the opinion of the Bank, a fit and proper person to carry on the business of a mortgage intermediary;
+
+(*h*) the Bank would, if the holder were an applicant for an authorisation, be entitled to refuse to grant an authorisation to the applicant on a ground specified in *subsection (9)*.]
+
+(12) Whenever the F206[Bank] proposes to refuse to grant, suspend or revoke an authorisation F206[it] shall notify the applicant or the holder of the authorisation, as the case may be, of F206[its] proposal and shall, if any representations are made to him in writing by such applicant or holder within 14 days of the notification, consider the representations.
+
+F215[(13) If, having considered any representations that may have been made under *subsection (12)*, the Bank decides to refuse to grant a licence, it shall, by notice in writing, inform the applicant of the decision. The notice must specify the grounds for the decision.
+
+(14) If, having considered any representations that may have been made under *subsection (12)*, the Bank decides to suspend or revoke an authorisation, or to vary any term or condition of an authorisation, it shall notify the decision to the holder of the authorisation, together with the grounds for the decision.
+
+(15) The Bank shall deliver a notice referred to in *subsection (13)* or *(14)* personally or send it by prepaid registered post to the business address of the applicant for an authorisation or the holder of the authorisation concerned, as the case requires.
+
+(16) The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942:
+
+(*a*) a decision to refuse to grant an authorisation;
+
+(*b*) a decision suspending or revoking an authorisation;
+
+(*c*) a decision varying any term or condition of an authorisation.
+
+(17) If a notice under this section relates to a decision of the Bank—
+
+(*a*) suspending or revoking an authorisation, or
+
+(*b*) varying the terms or conditions of an authorisation,
+
+the decision takes effect at the end of the period allowed for appealing against the decision under Part VIIA of the Central Bank Act 1942 unless an appeal against the decision is lodged under that Part within that period.]
+
+(18) A decision of the Circuit Court on an appeal under *subsection (13)* shall be final save that, by leave of that Court, an appeal from the decision shall lie to the High Court on a specified question of law.
+
+F215[(19) In this section, "authorisation" means a mortgage intermediaries authorisation.]
+
+(20) F216[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F205: Substituted (21.03.2016) by *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), in effect as per reg. 2.
+>
+> F206: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 30(a), (b), (e), (f), (g), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 paras. 20(1) and 23(2).
+>
+> F207: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 30(c), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(2).
+>
+> F208: Substituted and inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 3, S.I. No. 455 of 2004, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F209, F210: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 266(1)(c)(i), (d)(i), S.I. No. 31 of 2026, art. 2(i)(iii)(IV).
+>
+> F211, F212: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 39, S.I. No. 575 of 2022.
+>
+> F213: Inserted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(b)(ii), commenced as per subs. (3).
+>
+> F214: Substituted (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1100 and sch. 31, commenced as per s. 1097.
+>
+> F215: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 2, S.I. No. 455 of 2004.
+>
+> F216: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 2, S.I. No. 455 of 2004.
+>
+> F217, F218: Substituted by *Gambling Regulation Act 2024* (35/2024), s. 266(c)(ii), (d)(ii), not commenced as of date of revision.
+>
+> F219: Substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 2; not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: subss. (9)(c)(iii), (11)(c)(iii) amended by *Gambling Regulation Act 2024* (35/2024), s. 266(c)(ii), not commenced as of date of revision.
+>
+> (iii) F217[a gaming licence issued under Part 5 of the Act of 2024], or
+>
+> ...
+>
+> (iii) F218[a gaming licence issued under Part 5 of the Act of 2024], or
+>
+> C14: Prospective affecting provision: subs. (18) substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 6 item 2; not commenced as of date of revision.
+>
+> (18) If an appeal is lodged under Part VIIA of the Central Bank Act 1942 by a holder of an authorisation against a decision of the Bank—
+>
+> (*a*) suspending or revoking an authorisation, or
+>
+> (*b*) varying the terms or conditions of an authorisation,
+>
+> the decision does not take effect unless it is confirmed by the Irish Financial Services Appeals Tribunal or the appeal is withdrawn.
+>
+> C15: Certain authorisations made subject to transitional provisions by *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), reg. 42, in effect as per reg. 2.
+>
+> *Transitional provisions*
+>
+> 42\. (1) These Regulations shall not apply to a credit agreement that comes into effect before 21 March 2016.
+>
+> (2) As respects—
+>
+> (*a*) a mortgage intermediaries authorisation granted under section 116 of the Consumer Credit Act 1995 and in force immediately before 21 March 2016, and
+>
+> (*b*) the holder of such an authorisation that is so in force,
+>
+> the following apply—
+>
+> (i) the authorisation shall, notwithstanding Regulation 30, continue in force for the reminder of the period for which, under that section 116, it is provided it shall be in force, but this is subject to paragraph (3);
+>
+> (ii) the holder of the authorisation shall be deemed to be a holder of a mortgage credit intermediary’s authorisation and the provisions of these Regulations shall accordingly apply to the holder, but this is subject to paragraphs (3) to (6).
+>
+> (3) The application of the provisions of these Regulations to a holder referred to in paragraph (2)(b) includes the application to the holder of the provisions of Regulation 34 but the grounds on which the powers under that Regulation may be exercised in relation to such a holder do not include a ground the invocation of which would be inconsistent with paragraph (4) or (6).
+>
+> (4) Notwithstanding anything in paragraph (2), a holder referred to in paragraph (2)(b) is not required to comply with paragraphs (3) to (7) of Regulation 30 until 21 March 2017.
+>
+> (5) Notwithstanding anything in paragraph (2), a holder referred to in paragraph (2)(b) shall not act as a mortgage credit intermediary outside the State at any time before 21 March 2017, unless the holder satisfies the necessary legal requirements of the host EEA Member State.
+>
+> (6) Notwithstanding anything in Regulation 2 or paragraph (2), the requirement to have done all the necessary things so as to be in compliance with Regulation 10 shall not take effect, in the case of a creditor or mortgage credit intermediary who has been performing activities to which these Regulations relate before 20 March 2014, until 21 March 2017.
+>
+> (7) As respects a tied mortgage branch agent within the meaning of the Consumer Credit Act 1995 (Section 120) Regulations 1996 (S.I. No. 247 of 1996) who is acting as such before 21 March 2016, the following apply—
+>
+> (*a*) such a tied mortgage branch agent shall be deemed to be a holder of a mortgage credit intermediary’s authorisation, and
+>
+> (*b*) the provisions of these Regulations shall accordingly apply to such an agent,
+>
+> but, with any necessary modification of those paragraphs’ terms for the purpose of qualifying subparagraph (b) as next provided, subparagraph (b) of this paragraph is subject to paragraphs (3) to (6).
+>
+> **Editorial Notes:**
+>
+> E55: Previous affecting provision: applications for authorisation under subs. (4) exempted from fee (16.07.2004) by *Central Bank Act 1942 (Sections 33J and 33K) Regulations 2004* (S.I. No. 447 of 2004), reg. 4(a)(iii); revoked (16.09.2011) by *Central Bank Act 1942 (Section 32D) Regulations 2011* (S.I. No. 478 of 2011), reg. 11.
+>
+> E56: Previous affecting provision: subss. (9), (11), (13), (17) and (19) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 30(a), (d), (f), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(2); substituted as per F-note above.
+>
+> E57: Previous affecting provision: subs. (9)(d) substituted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(b)(i), commenced as per subs. (3); substituted as per F-note above.
+>
+> E58: Previous affecting provision: subs. (9)(d) amended (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1100 and sch. 31, commenced as per s. 1097; substituted as per F-note above.
+
+### 116A. Non- application of section 116 and deemed application of certain provisions
+
+F220[**116A.**—(1) *Section 116* shall not apply to a person required to hold a mortgage credit intermediary’s authorisation under Regulation 30 of the European Union (Consumer Mortgage Credit Agreements) Regulations 2016 (in *subsection (2)* referred to as a "relevant authorisation").
+
+(2) Notwithstanding *subsection (1)*, a person who is the holder for the time being of a relevant authorisation shall, for the purposes, and the purposes only, of *sections 117* to *119*, be deemed to be the holder of a mortgage intermediaries authorisation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F220: Inserted (21.03.2016) by *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), reg. 44(1)(b), in effect as per reg. 2.
+
+### 117. Obligation to display copy of mortgage intermediaries authorisation.
+
+**117.**—The holder of a mortgage intermediaries authorisation shall display in a prominent position in any premises where the holder engages in the business of being a mortgage intermediary—
+
+(*a*) F221[a certified copy] of the authorisation, and
+
+(*b*) a notice stating clearly the name of any undertaking for whom the holder acts as a mortgage intermediary.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2013), s. 35(1) and sch. 1 part 21 item 31, S.I. No. 160 of 2003.
+
+### 118. Mortgage intermediaries authorisation not to be altered or falsified.
+
+F222[**118.**—(1) A person, other than an authorised person, shall not alter or attempt to alter a mortgage intermediaries authorisation or a certified copy of such an authorisation.
+
+(2) A person shall not falsify or attempt to falsify a mortgage intermediaries authorisation or a certified copy of such an authorisation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F222: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 32, S.I. No. 160 of 2003.
+
+### 119. Amendment of mortgage intermediaries authorisation.
+
+F223[**119.**—(1) Immediately after the holder of a mortgage intermediaries authorisation—
+
+(*a*) ceases to act on behalf of an undertaking specified in the authorisation, or
+
+(*b*) begins to act as a mortgage intermediary on behalf of an undertaking not specified in the authorisation,
+
+that holder shall, in writing, notify the Bank of the event, and shall deliver the authorisation to the Bank.
+
+(2) On receiving the notice and authorisation, the Bank shall (at its option) either amend the authorisation, or issue another authorisation, that reflects the event.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F223: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 33, S.I. No. 160 of 2003.
+
+### 120. Certain persons not to be regarded as mortgage intermediaries.
+
+F224[**120.**—The Minister for Finance may, after consulting the Bank, make a regulation declaring that specified persons, or members of a specified class of persons, are not to be regarded as mortgage intermediaries for the purpose of this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F224: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 34, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(2).
+>
+> **Editorial Notes:**
+>
+> E59: Power pursuant to section exercised (8.08.1996) by *Consumer Credit Act, 1995 (Section 120) Regulations 1996* (S.I. No. 247 of 1996).
+
+### 121. Redemption of housing loans.
+
+**121.**—(1) Subject to *subsection (3)*, a borrower may, at any time before the time agreed, repay to the mortgage lender the whole or any part of a housing loan and shall not be liable to pay any redemption fee in relation to the loan or any part of the loan.
+
+(2) The exemption from redemption fees in *subsection (1)* shall not apply to a housing loan in respect of which the mortgage or loan agreement provides that the rate of interest:
+
+(*a*) may not be changed, or
+
+(*b*) may not be changed over a period of at least one year, or
+
+(*c*) may not, for a period of at least 5 years, exceed the rate applicable on the date of the making of the said agreement by more than 2 per cent.
+
+(3) The exemption from redemption fees in *subsection (1)* shall apply at any time during the period of the loan at which the period referred to in *paragraph (b)* or *(c)* of *subsection (2)* have elapsed.
+
+F225[(4) The Minister for Finance may, after consulting the Minister for the Environment and Local Government and the Bank, make a regulation varying—
+
+(*a*) the period referred to in *subsection (2)(b)*, or
+
+(*b*) the period or years or the rate of interest, referred to in *subsection (2)(c)*.]
+
+(5) A mortgage agent shall, where a redemption fee is payable on a housing loan by virtue of *subsection (2)*, ensure that a statement to that effect, specifying how the amount of such fee is to be calculated, shall be included in or attached to:
+
+(*a*) any information document which refers or relates to such a loan,
+
+(*b*) any application form issued for the purpose of applying for such a loan or, where application for the loan is made otherwise than by way of an application form, such a statement shall be sent to the applicant within 10 days of the receipt of the application,
+
+(*c*) any document sent to the applicant approving the loan, and
+
+(*d*) any communication in relation to a variation of, or any offer to vary, the terms of the housing loan which would have the effect of making the loan liable to a redemption fee in accordance with *subsection (2)*.
+
+(6) In this section “redemption fee” means, in relation to a housing loan, any sum in addition to principal and any interest due on such principal (without regard to the fact of the redemption of the loan) at the time of redemption of the whole or part of the loan.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F225: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 35, S.I. No. 160 of 2003.
+
+### 122. Criteria for calculation of APR in relation to housing loans.
+
+**122.**—(1) For the purpose of calculating the APR in relation to a housing loan the total cost of credit to the borrower shall be determined with the exception of the following charges—
+
+(*a*) charges other than the purchase price which the consumer is obliged to pay whether the transaction is paid for in cash or by credit including Government duties or taxes on the purchase or acquisition of the property, and fees payable by the borrower to his own agent for the carrying out of legal and other procedures associated with the acquisition of the property,
+
+(*b*) charges payable by the borrower for non-compliance with any of his commitments laid down in the credit agreement,
+
+(*c*) charges for insurance on the life of the borrower or for insurance against property damage which are designed to ensure payment to the creditor of credit outstanding in the event of the death of the borrower, or insurable damage to the property the subject of the credit agreement, before termination of the agreement.
+
+(2) In calculating the APR in relation to a housing loan, the following assumptions shall be made:
+
+(*a*) the creditor and the prospective borrower fulfil their obligations under the terms of the contract,
+
+(*b*) in the case of credit agreements providing for variations in the rate of interest or other charges which are unquantifiable at the time of calculation, the APR shall be calculated on the assumption that the future rates of interest or charges are the current variable rates which will remain fixed and will apply until the end of the credit agreement. In circumstances in which the initial or subsequent interest rate is fixed for a specific period or periods, the calculation shall assume that the fixed rate or rates shall apply only for the period or periods specified and that the rates applicable to other periods of the contract are the current variable rates which will remain fixed for those periods,
+
+(*c*) that the borrower is not entitled to any income tax relief or any other benefit not granted by the creditor under, or relating to, the transaction,
+
+(*d*) where charges are payable at an unspecified date after the agreement is signed it shall be assumed that they are payable at the beginning of the agreement,
+
+(*e*) in the case of advertising, the calculation shall be based on a typical example.
+
+(3) A mortgage lender shall comply with the requirements of this section in relation to the calculation of the APR in respect of a housing loan.
+
+### 123. Valuation reports.
+
+**123.**—(1) Where a mortgage lender—
+
+(*a*) gives approval to the making of a housing loan; or
+
+(*b*) refuses to make a housing loan,
+
+the applicant for the loan shall, at the time he is notified of the approval of the loan or of the refusal to give such approval, be furnished by the mortgage lender with a copy of the report (“valuation report”) made to the mortgage lender on the value of the security.
+
+(2) The mortgage lender shall attach to or include in every valuation report furnished to an applicant in accordance with *subsection (1)* a note stating clearly the nature and purpose of the report.
+
+(3) There shall be no charge made to the applicant for a valuation report if the loan application is refused.
+
+### 124. Insurance of mortgaged property.
+
+**124.**—(1) Any insurance which a mortgage lender may require a borrower to effect and keep effected on property mortgaged to the lender may be effected by the borrower with any insurer and through any intermediary.
+
+(2) When the mortgage lender requires a borrower to effect such insurance for the first time as respects a mortgaged property, he shall, at the same time, notify him in writing that the insurance may be so effected and of the nature and extent of the required insurance.
+
+(3) A mortgage lender shall not impose a requirement in regard to the nature and extent of insurance on mortgaged property which differentiates as between insurance effected through the agency of the mortgage lender and insurance otherwise effected.
+
+(4) A mortgage lender shall not impose a condition on a borrower in relation to insurance on mortgaged property which would require the borrower to pay a fee to the mortgage lender or to incur a cost which, in either case, would not be paid or incurred by a borrower effecting insurance through the agency of the mortgage lender.
+
+### 125. Costs of legal investigation of title.
+
+**125.**—Any costs incurred by a mortgage lender in respect of, arising from or in connection with, the legal investigation of title to any property offered as security by a borrower shall be paid by the mortgage lender and shall not be recoverable from the borrower either as a fee specifically stated to be in respect of such costs or as part of any fee or other charge in respect of the loan.
+
+### 126. Mortgage protection insurance.
+
+**126.**—(1) Subject to the provisions of this section, a mortgage lender shall arrange, through an insurer or an insurance intermediary, a life assurance policy providing, in the event of the death of a borrower before a housing loan made by the mortgage lender has been repaid, for payment of a sum equal to the amount of the principal estimated by the mortgage lender to be outstanding in the year in which the death occurs on the basis that payments have been made by the borrower in accordance with the mortgage, such sum to be employed in repayment of the principal.
+
+(2) *Subsection (1)* shall apply as respects all housing loans except—
+
+(*a*) where the house in respect of which the loan is made is, in the mortgage lender's opinion, not intended for use as the principal residence of the borrower or of his dependants,
+
+(*b*) loans to persons who belong to a class of persons which would not be acceptable to an insurer, or which would only be acceptable to an insurer at a premium significantly higher than that payable by borrowers generally,
+
+(*c*) loans to persons who are over 50 years of age at the time the loan is approved,
+
+(*d*) loans to persons who, at the time the loan is made, have otherwise arranged life assurance, providing for payment of a sum, in the event of death, of not less than the sum referred to in *subsection (1)*.
+
+(3) A person who does not belong to a class referred to in *paragraph (b)* of *subsection (2)* shall not be required by virtue of this section to undergo a medical examination as a condition of a policy but nothing in this section shall prevent a person belonging to such a class from being required to undergo a medical examination.
+
+(4) A policy under this section may, in the case of a loan made jointly to two or more borrowers, apply to such of the borrowers as may be designated by the mortgage lender, due regard being had to the wishes of such borrowers.
+
+(5) Where the proceeds of a policy under this section exceed the amount due to the mortgage lender on the loan, any such excess shall be payable to the surviving borrower or to the estate of the deceased borrower as the case may be.
+
+### 127. Prohibition on linking of services.
+
+**127.**—(1) A mortgage agent shall not make or offer to make to any person, or arrange or offer to arrange for any person, a housing loan which would be subject to a condition that any financial services, conveyancing services, auctioneering services or other services relating to land which that person may require, whether or not in connection with the loan, shall be provided by the agent or through a subsidiary or other associated body of such agent.
+
+(2) Where, in connection with the making or arranging of a housing loan, more than one service is made available by a mortgage agent or one or more of his subsidiaries, the agent shall not, and shall ensure that each of his subsidiaries does not, make the services available on terms other than terms which distinguish the consideration payable for each service so made available; nor shall any of the subsidiaries make the services available on terms other than terms which make that distinction.
+
+(3) Where a person is providing auctioneering services, or constructing houses for sale, and is also a mortgage intermediary, he, or a subsidiary or other associated body, shall not sell, offer to sell or arrange to sell a house which is to be purchased with the aid of a housing loan, on terms which differentiate as between a person who purchases the house with the aid of a housing loan arranged by or on behalf of such intermediary and a person who purchases the house with the aid of a housing loan otherwise arranged.
+
+### 128. Warning on loss of home.
+
+**128.**—(1) A mortgage agent shall ensure that—
+
+(*a*) an information document,
+
+(*b*) an application form for a housing loan, or
+
+(*c*) any document approving a housing loan,
+
+shall include the following notice:
+
+**“WARNING**
+
+**YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP PAYMENTS ON A MORTGAGE OR ANY OTHER LOAN SECURED ON IT.”.**
+
+(2) A mortgage agent shall ensure that, where the interest rate for a housing loan is variable—
+
+(*a*) an information document,
+
+(*b*) an application, or
+
+(*c*) any document approving that loan,
+
+shall, following the notice required under *subsection (1)*, include the following:
+
+**“THE PAYMENT RATES ON THIS HOUSING LOAN MAY BE ADJUSTED BY THE LENDER FROM TIME TO TIME.”.**
+
+### 129. Notice of important information to be included in a housing loan agreement.
+
+**129.**—(1) An agreement for a housing loan shall contain on the front page a notice in the form set out in *Part II* of the *Third Schedule* or such other form as may be prescribed.
+
+(2) A mortgage lender who is a party to an agreement referred to in *subsection (1)* shall ensure that the agreement complies with that subsection.
+
+F226[(3) This section shall not apply to a credit agreement to which the European Union (Consumer Mortgage Credit Agreements) Regulations 2016 apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F226: Inserted (21.03.2016) by *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), reg. 142(2), in effect as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E60: Power pursuant to section exercised (13.05.1996) by *Consumer Credit Act, 1995 (Section 129) Regulations 1996* (S.I. No. 132 of 1996).
+
+### 130. Duties of mortgage lender to supply documents and information.
+
+**130.**—A mortgage lender shall in respect of a housing loan, issue to the borrower:
+
+(*a*) at the time the loan is made, or as soon as may be practicable thereafter a copy of the mortgage deed (including any contract relating thereto) which copy shall be additional to any copy of such mortgage deed issued to his legal representative, and
+
+(*b*) a statement of the total amount outstanding on the loan on a specified date occurring not more than one year after the making of the loan and at intervals of not more than one year thereafter until the loan is fully repaid, such statement being issued as soon as practicable after the date specified.
+
+### 131. Disclosure of charges, agency introduction fees, commissions and expenses.
+
+**131.**—F227[(1) The Minister for Finance may, after consulting the Minister for the Environment and Local Government and the Bank, make a regulation requiring the disclosure to the borrower of specified information relating to any insurance commission, introduction fee or other inducement, charge or expense that may be payable to a person or retained by a person—
+
+(*a*) because the borrower has taken out an insurance policy in connection with the making of a housing loan, or
+
+(*b*) because of the making of such a loan.]
+
+(2) Regulations under this section may in particular specify:
+
+(*a*) the nature of the information to be disclosed, including information on the manner in which any commission, fee, or other inducement, charge or expense is to be determined, the amount or value of same and the arrangements for the payment or provision of same,
+
+(*b*) the circumstances in which and the time at which the information is to be disclosed,
+
+(*c*) the manner of disclosure of the information.
+
+(3) (*a*) *Subsection (2)* is without prejudice to the generality of *subsection (1)* and accordingly regulations under this section may make provision for matters other than those mentioned in *subsection (2)* or further provision as to any of the matters there mentioned.
+
+(*b*) Regulations made under this section may:
+
+(i) include such consequential, incidental, transitional or supplementary provisions as may be considered appropriate by the F227[Minister for Finance] to be necessary or proper for the purposes of this section;
+
+(ii) apply either generally or by reference to a specified class or classes of loans, insurance, mortgage agents, or persons or by reference to any other matter that is considered appropriate by F227[that Minister].
+
+(4) Where, in connection with the making of a housing loan, a mortgage lender or mortgage intermediary acts exclusively for a particular insurer, he shall at the first reasonable opportunity and in any event before any commitment is made by the borrower, disclose this fact to the borrower.
+
+(5) Where, in connection with the making of a housing loan, a mortgage intermediary acts exclusively for a particular mortgage lender, he shall at the first reasonable opportunity and in any event before any commitment is made by the borrower, disclose this fact to the borrower.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F227: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 36, S.I. No. 160 of 2003, subject to transititional provision in s. 36 and sch. 3 para. 23(2).
+
+### 132. Disclosure of other fees.
+
+**132.**—Where a fee is payable by an applicant for a housing loan in respect of any of the following matters—
+
+(*a*) the making, accepting or administering of an application for a loan,
+
+(*b*) the valuation of the security for the loan,
+
+(*c*) legal services in connection with the loan,
+
+(*d*) services provided by a mortgage agent in relation to the loan, or
+
+(*e*) non-acceptance of an offer or approval of a loan,
+
+the mortgage agent shall ensure that a statement of reasonable prominence that such a fee is payable and specifying the amount of the fee or how such amount is determined and the circumstances in which it may be refunded, if such is the case shall be included in or attached to:
+
+(i) any information document issued by or on behalf of the mortgage agent which refers or relates to such a loan,
+
+(ii) any application form issued for the purposes of applying for such a loan or, where application for the loan is made otherwise than by way of an application form, issued to the applicant within 10 days of the receipt of the application, and
+
+(iii) any document sent to the applicant approving the loan, in relation to the matters specified in *paragraphs (b), (c), (d)* and *(e)*.
+
+### 133. Endowment loans.
+
+**133.**—(1) A mortgage agent shall ensure that an information document which refers or relates to an endowment loan, an application form issued to a person for the purpose of applying for such a loan, and any document approving such a loan shall contain in a prominent position the following notice:
+
+**“WARNING**
+
+**THERE IS NO GUARANTEE THAT THE PROCEEDS OF THE INSURANCE POLICY WILL BE SUFFICIENT TO REPAY THE LOAN IN FULL WHEN IT BECOMES DUE FOR REPAYMENT.”.**
+
+(2) Where an application for an endowment loan is made, otherwise than by way of an application form, the applicant shall be supplied by the mortgage agent with a notice in accordance with *subsection (1)* within 10 days of the receipt of the application.
+
+(3) *Subsections (1)* and *(2)* shall not apply where the insurer underwriting the insurance policy in respect of an endowment loan guarantees that the proceeds of the policy at the initial premium will be sufficient to repay the loan in full when it becomes due for repayment or where the mortgage lender undertakes to accept the proceeds in full and final settlement of the loan debt.
+
+(4) Where there is a possibility that, during the lifetime of an endowment loan, the borrower may be required or advised by the insurer or mortgage lender to increase the amount of the premium payments on the insurance policy relating to the loan, in order to secure an increase in the proceeds of the policy on maturity, then the document sent to the applicant approving the loan shall contain a statement of this possibility in a prominent position.
+
+(5) Where the possibility exists that early surrender of the insurance policy in respect of an endowment loan may result in a return to the consumer which would be less than he has paid in premia and other charges, any document refered to in *subsection (1)* shall contain a statement of this possibility.
+
+(6) An insurer underwriting an insurance policy in respect of an endowment loan shall within 5 years of the policy being issued and every 5 years thereafter, until such time as the endowment loan is repaid, issue or cause to be issued to the borrower, a statement setting out the value of the policy as estimated by the insurer, at such date together with a comparison of this valuation to the valuation at such date projected at the time the policy was first written, and a revised estimate of its valuation at maturity.
+
+### 134. Disclosure of interest rate and penalties to be applied to arrears on housing loans.
+
+**134.**—(1) Where it is the policy of a mortgage lender to charge interest in respect of arrears on housing loans or on housing loans of a particular type the mortgage lender shall ensure that, any information document relating to, application form for, or document approving, such a loan and any communication in relation to arrears of payments due on such a loan shall state the amount of the increase in interest and other charges which a borrower may become liable to pay in respect of such arrears.
+
+(2) Any communication issued by or on behalf of a mortgage lender to a borrower which refers to the possibility of possession proceedings being taken under the mortgage, shall contain an estimate of the cost to the borrower of such proceedings.
+
+### 135. Advertising of housing loans.
+
+**135.**—(1) F228[The Bank may, if it] considers it expedient to do so give a direction to a mortgage agent in relation to the matter and form of any advertisement or information document displayed or published by or on behalf of such agent in relation to a housing loan and may direct that such advertisement or information document be withdrawn.
+
+(2) Without prejudice to the generality of *subsection (1)*, a direction under this section may do all or any one or more of the following—
+
+(*a*) prohibit the issue by a mortgage agent of advertisements or information documents of any specified description,
+
+(*b*) require a mortgage agent to modify advertisements or information documents of a specified description in a specified manner,
+
+(*c*) prohibit the issue by a mortgage agent of any advertisements or information documents which are, or are substantially, repetitions of a specified advertisement or information document,
+
+(*d*) require a mortgage agent to withdraw any specified advertisement or information document or any advertisement or information document of a specified description, or
+
+(*e*) require a mortgage agent to include specified information in any advertisement or information document to be published by it or on its behalf or in any statement to the public made by it or on its behalf.
+
+(3) Any mortgage agent so directed under *subsection (1)* shall comply with the direction.
+
+(4) F229[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F228: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 37(a), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F229: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 37(b), S.I. No. 160 of 2003.
+
+### 136. Protection of borrower on a winding-up.
+
+**136.**—(1) Where a mortgage lender (being a corporate entity) is being wound-up, a borrower shall not be liable to pay the amount payable in respect of a housing loan except at the time or times, and subject (as may be appropriate) to the conditions, set out in the mortgage or other security.
+
+(2) A liquidator in the exercise of his powers under section 231 (2) (*a*) of the Companies Act, 1963, shall not dispose of any of the mortgage lender's assets constituting housing loans on terms as respects the loans other than terms which the High Court is satisfied are just and equitable and which the borrowers would have been reasonably entitled to expect if the mortgage lender had not been wound-up.
+
+## PART XMiscellaneous — PART X — Miscellaneous
+
+### 137. Regulations relating to display of information.
+
+F230[**137.**—(1) The Minister for Enterprise, Trade and Employment may, after consulting the Bank, make regulations requiring persons who carry on businesses that are subject to regulation under the provisions of this Act designated in *section 4(2)* to display in a manner specified in the regulations at premises where the businesses are carried on, and to which the public have access, prescribed information about the businesses.
+
+(2) The Minister for Finance may, after consulting the Director, make regulations requiring persons who carry on businesses that are subject to regulation under the provisions of this Act designated in *section 8G(2)* to display in a manner specified in the regulations at premises where the businesses are carried on, and to which the public have access, prescribed information about the businesses.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F230: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 38, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(3).
+
+### 138. Restrictions as to use of inertia selling provisions in agreements.
+
+**138.**—(1) A person shall not insert in any agreement or in any proposal form or application form used in connection with the agreement provisions which require the consumer to indicate positively that he does not wish to obtain credit, purchase or hire any goods or avail of any service in relation to the agreement.
+
+(2) Where any amount is due to a third party as a result of the use of a provision as described in *subsection (1)*, the person who inserted the provision shall be liable for payment of that amount.
+
+### 139. Circulars to minors.
+
+**139.**—A person shall not knowingly, with a view to financial gain, send to a minor any document inviting the minor to—
+
+(*a*) borrow credit,
+
+(*b*) obtain goods on credit or hire,
+
+(*c*) obtain services on credit, or
+
+(*d*) apply for information or advice on borrowing credit or otherwise obtaining credit or hiring goods.
+
+### 140. Prohibition on exclusion of obligations or rights in agreements.
+
+**140.**—Except where otherwise provided for in this Act, a creditor or an owner—
+
+(*a*) shall not, in any agreement—
+
+(i) exclude or restrict any liability imposed on any person or any right conferred on a consumer, or
+
+(ii) impose any further liability in addition to any liability imposed on a consumer,
+
+by this Act, and
+
+(*b*) shall not be entitled to enforce any agreement (other than a housing loan) which so excludes or restricts any such liability or imposes any such further liability.
+
+### 141. Statements purporting to exclude or restrict liabilities or rights.
+
+**141.**—A person shall not in the course of a business do any of the following:
+
+(*a*) display on any part of any premises a notice,
+
+(*b*) publish or cause to be published an advertisement,
+
+(*c*) supply goods bearing or goods in a container bearing a statement, or
+
+(*d*) furnish or cause to be furnished a document,
+
+which purports to exclude or restrict any liability imposed on any person or any right conferred on a consumer by this Act.
+
+### 142. Duty to disclose information concerning financial standing of consumer.
+
+**142.**—(1) Where a creditor or an owner refuses to enter into an agreement with a consumer, he shall disclose to the consumer the name and address of any person from whom he sought information concerning the financial standing of the consumer who gave information which influenced the refusal, within 14 days after receiving a request in writing to that effect from the consumer.
+
+(2) *Subsection (1)* does not apply to a request—
+
+(*a*) received more than 28 days after the refusal, or
+
+F231[(*b*) which relates to information that constitutes personal data to which the Data Protection Regulation applies.]
+
+F232[(3) Subject to *subsection (4)*, a person who has supplied information to a creditor or an owner in respect of the financial standing of a consumer in respect of an agreement shall provide the consumer with a copy in legible form of any information held by the person concerning the financial standing of the consumer. The information must be provided within 14 days after the person has received from the consumer a request in writing to that effect, together with the requisite fee.
+
+(3A) For the purposes of *subsection (3)*, the requisite fee is—
+
+(*a*) if the matter arises under a provision designated under *section 4(2)* — €6.30 or, if the Minister for Enterprise, Trade and Employment by order specifies some other amount, that other amount, or
+
+(*b*) if the matter arises under a provision designated by *section 8H(2)* — the fee (if any) prescribed under section 33K of the Central Bank Act 1942, for the purposes of this section.]
+
+(4) *Subsection (3)* does not apply to a request—
+
+(*a*) received more than 28 days after the name and address referred to in *subsection (1)* has been given, or
+
+F233[(*b*) which relates to information that constitutes personal data to which the Data Protection Regulation applies.]
+
+F234[(5) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^5] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F231: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 181(a), S.I. No. 174 of 2018.
+>
+> F232: Substituted and inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 39, S.I. No. 160 of 2003.
+>
+> F233: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 181(b), S.I. No. 174 of 2018.
+>
+> F234: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 181(c), S.I. No. 174 of 2018.
+
+### 143. Correction of incorrect information.
+
+**143.**—(1) Where a consumer has been given information under *section 142* which he considers is incorrect the consumer may within 28 days of receipt give notice to the person requiring the removal or the amendment of the information.
+
+(2) A person referred to in *subsection (1)* shall within 28 days after receiving a notice under that subsection inform the consumer that he has—
+
+(*a*) removed the information,
+
+(*b*) amended the information, or
+
+(*c*) taken no action.
+
+F235[(3) If the consumer is dissatisfied with any action taken by a person under *subsection (1)* and the matter arises under a provision designated under *section 4(2)*, the consumer may request in writing the Director to investigate the matter. The request must be accompanied by the prescribed fee.
+
+(4) If, after considering a request made under *subsection (3)*, the Director decides to investigate the matter, the Director may make such direction as the Director considers appropriate with respect to the information concerned. The person to whom any such direction is given shall comply with the direction.
+
+(5) If the consumer is dissatisfied with any action taken by a person under *subsection (1)* and the matter arises under a provision designated under *section 8G(2)*, the consumer may request in writing the Bank to investigate the matter. The request must be accompanied by the prescribed fee.
+
+(6) If, after considering a request made under *subsection (5)*, the Bank decides to investigate the matter, it may make such direction as it considers appropriate with respect to the information concerned. The person to whom any such direction is given shall comply with the direction.
+
+(7) For the purposes of this section, the prescribed fee is—
+
+(*a*) if the request is made under *subsection (3)* — €6.30 or, if the Minister for Enterprise, Trade and Employment by order specifies some other amount, that other amount, or
+
+(*b*) if the request is made under *subsection (5)* — the fee (if any) prescribed under section 33K of the Central Bank Act 1942, for the purposes of this subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F235: Substituted and inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 40, S.I. No. 160 of 2003.
+
+## PART XICredit Intermediaries — PART XI — Credit Intermediaries
+
+### 144. Credit intermediaries.
+
+**144.**—F236[(1) Subject to *subsection (2)*, a person shall not engage in the business of being a credit intermediary unless the person—
+
+(*a*) is the holder of an authorisation granted for that purpose by the Director, and
+
+(*b*) holds a letter of recognition from each undertaking on whose behalf the person is a credit intermediary.]
+
+(2) The provisions of *subsection (1)* do not apply to a person who holds a written authorisation under *section 97*, which is for the time being in force, and who, apart from the business to which that authorisation relates, is not otherwise engaged in the business of being a credit intermediary.
+
+(3) A holder of an authorisation shall only engage in the business of being a credit intermediary in the name specified in the holder's authorisation.
+
+(4) An application for an authorisation shall be in writing and in such form as the Director may determine and shall contain—
+
+(*a*) the true name of the applicant,
+
+(*b*) the name under which the applicant trades,
+
+(*c*) the name of any undertaking for which the applicant acts or intends to act as a credit intermediary,
+
+(*d*) the address of any business premises of the applicant to which the application relates, and
+
+(*e*) such other information that the Director may require.
+
+F237[(5) An application for an authorisation must be accompanied by the requisite fee.
+
+(6) For the purposes of *subsection (5)*, the requisite fee is—
+
+(*a*) in the case of a company or partnership, €630 or, if the Minister for Enterprise, Trade and Employment by order specifies some other amount for the purpose of this paragraph, that other amount, and
+
+(*b*) in the case of a sole trader, €315 or, if the Minister for Enterprise, Trade and Employment by order specifies some other amount for the purpose of this paragraph, that other amount.]
+
+(7) An authorisation shall be valid for the period of 12 months commencing on the date specified therein and shall expire at the end of that period.
+
+(8) An authorisation shall state—
+
+(*a*) the true name of the holder,
+
+(*b*) the name under which the holder is authorised to engage in the business of being a credit intermediary,
+
+(*c*) the address of the business premises of the holder, and
+
+(*d*) the name of each of the undertakings for which he acts as a credit intermediary.
+
+(9) The Director may refuse to grant an authorisation on one or more of the following grounds, namely, that—
+
+(*a*) the application does not satisfy the conditions specified in *subsection (1) (a) (ii)*,
+
+(*b*) the applicant or any business with which he was connected was, during the previous 5 years, convicted of a criminal offence,
+
+(*c*) the applicant is the holder of—
+
+(i) F238[a betting licence issued under Part 5 of the Act of 2024],
+
+(ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts, 1833 to 1994,
+
+(iii) a gaming licence issued under the Gaming and Lotteries Act, 1956,
+
+(iv) a pawnbroker’s licence granted under the Pawnbrokers Act, 1964, as amended by this Act, or
+
+(v) F239[high cost credit provider’s licence],
+
+F240[(*d*) the applicant has failed to provide satisfactory evidence that a current tax clearance certificate issued in relation to the authorisation has been issued in accordance with the provisions of F241[section 1094 of the Taxes Consolidation Act, 1997],]
+
+(*e*) the applicant is not, or is no longer, in the opinion of the Director, a fit and proper person to carry on the business of credit intermediary, or
+
+(*f*) the applicant has failed to comply with any regulations made under *subsection (10)*.
+
+F242[(9A) (*a*) Where in relation to an authorisation—
+
+(i) an application in accordance with F241[section 1094 of the Taxes Consolidation Act, 1997], for a tax clearance certificate has been made—
+
+(I) not less than four months prior to the commencement date of such an authorisation, and
+
+(II) a tax clearance certificate has not yet been issued or refused,
+
+or
+
+(ii) a tax clearance certificate has been refused and an appeal against such refusal has been made and accepted in accordance with subsection (6) of the said F241[section 1094],
+
+and in either case, the authorisation could, but for the provisions relating to a tax clearance certificate, have been issued, then—
+
+(I) in a case where an authorisation has been granted in respect of the previous authorisation period, such authorisation may continue in force beyond its latest expiry date pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal,
+
+and
+
+(II) in a case where an authorisation has not been granted in respect of the previous authorisation period, an authorisation may be issued temporarily and remain in force pending—
+
+(A) the issue or refusal of a tax clearance certificate, or
+
+(B) in the case of an appeal, the final determination of that appeal:
+
+Provided that the amount of the fee that would be payable on the application for the authorisation is duly deposited with the Director.
+
+(*b*) Every authorisation issued temporarily or continued in force in accordance with *paragraph (a)* shall, while it remains in force, be deemed to be an authorisation within the meaning of this section.
+
+(*c*) Where—
+
+(i) a determination is made to issue a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal referred to in *subparagraph (ii)* of *paragraph (a)* is to the effect that the application for a tax clearance certificate in relation to an authorisation is an acceptable application,
+
+and where the tax clearance certificate has been issued, the authorisation continued in force or issued temporarily under this subsection shall expire upon the grant of an authorisation under this section and the duty deposited shall be set against the appropriate duty payable on the grant of the authorisation.
+
+(*d*) Where—
+
+(i) a determination is made to refuse a tax clearance certificate, in respect of an application referred to in *subparagraph (i)* of *paragraph (a)*, or
+
+(ii) the final determination of an appeal under *subparagraph (ii)* of *paragraph (a)* is to the effect that the refusal of an application for a tax clearance certificate in relation to an authorisation is a valid refusal,
+
+the authorisation continued in force or issued temporarily under this subsection shall expire not later than seven days after such refusal or after the determination of such appeal, and the amount of any duty deposited in excess of the proportion of that duty attributable to the period when the authorisation was temporarily in force shall be repaid.]
+
+F243[(10) The Minister for Enterprise, Trade and Employment may make regulations prohibiting the holder of an authorisation from acting as or claiming to be a credit intermediary, unless there is in force in respect of that holder a policy of professional indemnity insurance that complies with such requirements as are specified in those regulations.]
+
+(11) The Director may suspend or revoke an authorisation if he is satisfied that since becoming the holder of an authorisation, a credit intermediary or any business with which he is connected has been convicted of a criminal offence or a credit intermediary has become the holder of a licence referred to in *subsection (9) (c)* or has failed to comply with any regulations made under *subsection (10)*.
+
+(12) Whenever the Director proposes to refuse to grant, suspend or revoke an authorisation he shall notify the applicant or the holder of the authorisation, as the case may be, of his proposal and shall, if any representations are made to him in writing by such applicant or holder within 14 days of the notification, consider the representations.
+
+(13) Whenever the Director, having considered any representations that may have been made under *subsection (12)*, decides to refuse to grant, suspend or revoke an authorisation, he shall notify the applicant for, or as the case may be, the holder of the authorisation, of the decision and such applicant or holder may, within 7 days of receipt of such notification, appeal against such decision to the judge of the Circuit Court within whose Circuit the business to which the authorisation relates is to be carried on.
+
+(14) A notification referred to in *subsection (12)* or *(13)* shall be delivered personally or sent by pre-paid registered post to the business address of the applicant for an authorisation or the holder of the authorisation concerned, as the case may be.
+
+(15) Where a notification under *subsection (12)* or *(13)* relates to a refusal to grant a second or subsequent authorisation or a suspension or revocation of an authorisation, the refusal, suspension or revocation shall take effect upon the expiration of the 7 days allowed for the appeal.
+
+(16) Where an appeal is made under *subsection (13)* by an applicant for a second or subsequent authorisation in respect of a refusal to grant such authorisation or by a holder of an authorisation in respect of a suspension or revocation of an authorisation, the refusal, suspension or revocation shall stand suspended until the appeal is determined or withdrawn and notwithstanding *subsection (7)* any authorisation held by the applicant at the time of the appeal shall continue in force until the determination or withdrawal of the appeal.
+
+(17) On the hearing of an appeal under *subsection (13)* in relation to the decision of the Director to refuse to grant, suspend or revoke an authorisation, the Circuit Court may either confirm the decision or allow the appeal and, where an appeal is allowed, the Director shall grant the authorisation or shall not suspend or revoke the authorisation, as the case may be.
+
+(18) A decision of the Circuit Court on an appeal under *subsection (13)* shall be final save that, by leave of that Court, an appeal from the decision shall lie to the High Court on a specified question of law.
+
+(19) In an appeal under *subsection (13)* the Director shall not be awarded or ordered to pay costs.
+
+(20) In this section “authorisation” means a credit intermediaries authorisation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F236: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 41(a), S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 paras. 23(1) and 25.
+>
+> F237: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 41(b), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+>
+> F238: Substituted (5.02.2026) by *Gambling Regulation Act 2024* (35/2024), s. 266(1)(e)(i), S.I. No. 31 of 2026, art. 2(i)(iii)(IV).
+>
+> F239: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 40, S.I. No. 575 of 2022.
+>
+> F240: Substituted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(c)(i), commenced as per subs. (3)(c).
+>
+> F241: Substituted (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1100 and sch. 31, commenced as per s. 1097.
+>
+> F242: Inserted (1.01.1998) by *Finance Act 1997* (22/1997), s. 160(2)(c)(ii), commenced as per subs. (3)(c).
+>
+> F243: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 41(c), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 23(1).
+>
+> F244: Substituted by *Gambling Regulation Act 2024* (35/2025), s. 266(e)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C16: Prospective affecting provision: subs. (9)(c)(iii) amended by *Gambling Regulation Act 2024* (35/2025), s. 266(e)(ii), not commenced as of date of revision.
+>
+> (iii) F244[a gaming licence issued under Part 5 of the Act of 2024],
+
+### 145. Obligation to display copy of credit intermediaries authorisation.
+
+**145.**—The holder of a credit intermediaries authorisation shall display in a prominent position in any premises where the holder engages in the business of being a credit intermediary—
+
+(*a*) an authorised copy of the authorisation, and
+
+(*b*) a notice stating clearly the name of any undertaking for whom the holder acts as a credit intermediary.
+
+### 146. Prohibition on alteration or falsification of credit intermediaries authorisation.
+
+**146.**—(1) A person, other than the Director or an officer of the Director acting on behalf of the Director, shall not alter or attempt to alter a credit intermediaries authorisation or an authorised copy thereof.
+
+(2) A person shall not falsify or attempt to falsify a credit intermediaries authorisation or any authorised copy thereof.
+
+### 147. Amendment of credit intermediaries authorisation.
+
+**147.**—(1) Where the holder of a credit intermediaries authorisation ceases to act on behalf of any undertaking specified in the authorisation or commences to act as a credit intermediary on behalf of any undertaking not specified in the authorisation, the holder shall upon such cessation or commencement inform in writing the Director of the changes and forward the authorisation to the Director, and the Director shall accordingly, as he sees fit, amend the authorisation or issue another authorisation incorporating the change.
+
+(2) The holder of a credit intermediaries authorisation to whom *subsection (1)* applies shall comply with the requirements of that subsection.
+
+### 148. Nature of “finance arranged” to be explained to consumer.
+
+**148.**—Where a consumer negotiates with a seller in respect of the acquisition of goods and the seller, being a credit intermediary, offers, or is requested by the consumer, to arrange a financial accommodation for the consumer in respect of the acquisition of the goods, the seller shall, as soon as may be reasonable, before any agreement, in relation to the goods under negotiation resulting from the offer or request, is entered into, disclose in writing to the consumer—
+
+(*a*) the nature of the financial accommodation,
+
+(*b*) the amount, number and frequency of payments and the total amount that the consumer would have to pay under an agreement, and, where applicable, the APR,
+
+(*c*) who has the property in the goods during the agreement,
+
+(*d*) the name of any undertaking for which the seller acts as a credit intermediary, and
+
+(*e*) that the seller receives a commission, payment or consideration of any kind from an undertaking for arranging any such financial accommodation between the consumer and the undertaking.
+
+## PART XIIObligation on credit Institutions to Notify Director of all Customer Charges — PART XII — Obligation on credit Institutions to Notify Director of all Customer Charges
+
+### 149. Customer charges, etc., by credit institutions that are subject to regulation by the Bank.
+
+F245[**149.**—(1) A credit institution or, subject to the Competition Act 1991, a group of any such credit institutions in respect of a service offered jointly by the group, shall notify the Bank of every proposal—
+
+(*a*) to increase any charge that has been previously notified to the Bank, or
+
+(*b*) to impose any charge in relation to the provision of a service to a customer or to a group of customers, that has not been previously notified to the Bank.
+
+(2) Every notification under *subsection (1)* must be accompanied by—
+
+(*a*) subject to *subsection (4)*, such fee as the Bank may decide with respect to each notification, being a fee that does not exceed the prescribed maximum amount, and
+
+(*b*) a statement of the commercial justification for the proposal, including a detailed statement of cost, and
+
+(*c*) details of the estimated amount of additional income accruing from the proposal.
+
+(3) For the purposes of *subsection (2)(a)*, the prescribed maximum amount is—
+
+(*a*) €31,750, or
+
+(*b*) if some other amount is prescribed by regulations made for the purposes of this subsection — that other amount.
+
+(4) The Bank may waive or reduce the fee referred to in *subsection (2)* if the payment of the fee would, in the opinion of the Bank, be unfair to the credit institution having regard to—
+
+(*a*) the impact of any increase in or imposition of charges on customers, and
+
+(*b*) the number of customers affected by any increase in or imposition of charges, and
+
+(*c*) the additional income likely to accrue from any increase in or imposition of charges, and
+
+(*d*) any other matters that the Bank considers appropriate.
+
+(5) Subject to *subsection (6)*, the Bank may, within F246[3 months] of receipt of a notification under *subsection (1)*, direct a credit institution—
+
+(*a*) to refrain from imposing or changing a charge in relation to the provision of a service to a customer or to a group of customers, without the prior approval of the Bank, and
+
+(*b*) to publish, in such manner as may be specified by the Bank from time to time, information on any charge in relation to the provision of a service to a customer or to a group of customers.
+
+(6) If a notification under *subsection (1)* is in respect of a proposal to impose a charge for a new service that was not previously offered to its customers, or is being offered as a choice to and in a materially different way to existing services, the Bank may, within F247[3 months] of receipt after the date of the notification, direct the credit institution—
+
+(*a*) to refrain from imposing or changing a charge in relation to the provision of a service to a customer or to a group of customers, without the prior approval of the Bank, and
+
+(*b*) to publish, in such manner as may be specified by the Bank from time to time, information on any charge in relation to the provision of a service to a customer or to a group of customers.
+
+F248[(6A) In calculating the periods of 3 months specified in *subsections (5)* and *(6)* no account shall be taken of any day on which any information required by the Bank to be provided by the credit institution for the performance of the Bank’s functions under this section has not yet been so provided.]
+
+(7) A direction under this section may be expressed to apply—
+
+(*a*) to every credit institution or to credit institutions carrying on a specified type of banking or financial business, or
+
+(*b*) to all services provided to a customer or to a group of customers by credit institutions or to specified services or to services of a specified kind, or
+
+(*c*) to a specified time or times or during a specified period or periods.
+
+(8) The direction must—
+
+(*a*) be communicated to every credit institution concerned, and
+
+(*b*) if not communicated in writing, be confirmed in writing to every such credit institution as soon as possible afterwards, and
+
+(*c*) have effect in accordance with its terms.
+
+(9) The Bank shall, in exercising the powers conferred by this section, have regard to—
+
+(*a*) the promotion of fair competition between—
+
+(i) credit institutions, and
+
+(ii) credit institutions carrying on a particular type of banking or financial business,
+
+(*b*) the statement of commercial justification referred to in *subsection (2)(b)*, and
+
+(*c*) a credit institution passing any costs on to its customers or a group of its customers in proposing to impose or change any charge, in relation to the provision of a service to a customer or a group of its customers, and
+
+(*d*) the effect on customers or a group of customers of any proposal to impose or change any charge in relation to the provision of such service.
+
+(10) The Bank may amend or revoke a subsisting direction under this section and may amend or revoke a subsisting direction, which has been amended.
+
+(11) The Bank may exempt a credit institution from the obligation to make a notification under *subsection (1)* in respect of any charge which has been individually negotiated bona fide with the credit institution by a customer, or by or on behalf of a group of customers, of the credit institution.
+
+(12) The Bank shall—
+
+(*a*) keep under general review the terms and conditions applying to the provision of services to customers by credit institutions, and
+
+(*b*) require a credit institution to discontinue or refrain from the use of those terms and conditions that are, or are likely to be regarded as, unfair, and
+
+(*c*) if the credit institution fails to comply with a requirement under *paragraph (b)*, bring proceedings in the High Court for an order prohibiting the use, or the continued use, of those terms and conditions.
+
+F249[(12A) A credit institution shall not impose a charge for providing a service to a customer or group of customers if—
+
+(*a*) the charge has not been previously notified to the Bank or to the Director, or
+
+(*b*) the charge exceeds the charge notified for the service in accordance with *subsection (1)*, or
+
+(*c*) the charge does not comply with a direction issued by the Bank under this section.
+
+(12B) The Bank may, by notice given in writing, require a specified credit institution, or credit institutions of a specified class, to publish in such publications, and within such timeframes, as are specified in the notice details of the amounts of charges notified to the Bank under this section.
+
+(12C) A credit institution to which a notice has been given under *subsection (12B)* shall comply with the notice within the timeframe specified in the notice.]
+
+(13) In this section—
+
+"service" means any service provided by a credit institution to a customer in respect of the following—
+
+(*a*) making and receiving payments;
+
+(*b*) providing foreign exchange facilities;
+
+(*c*) providing and granting credit;
+
+(*d*) maintaining and administrating transaction accounts used for the services specified by this subsection, including issuing statements;
+
+(*e*) any other service that may be pre-scribed by regulations for the purposes of this section;
+
+"charge" includes a penalty or surcharge interest by whichever name called, being an interest charge imposed in respect of arrears on a credit agreement or a loan, but does not include any rate of interest or any charge, cost or expense levied by a party other than a credit institution in connection with the provision of a service to the credit institution or the customer and that is to be discharged by the customer.
+
+(14) For the purposes of this section, a notification made to the Director of Consumer Affairs before the substitution of this section by item 42 of Part 21 of Schedule 1 to the Central Bank and Financial Services Authority of Ireland Act 2003, is taken to have been made to the Bank.]
+
+F250[(15) A direction given under section 28 of the Central Bank Act 1989 and in force immediately before the coming into operation of section 78(d) of the Central Bank (Supervision and Enforcement) Act 2013 is to be treated as continuing in effect as if given under this section and accordingly is a subsisting direction under this section for the purposes of *subsection (10)*.
+
+(16) The duty imposed by *subsection (1)* shall not apply to a relevant new credit institution until the end of the period of 3 years after it commences business in the State; but at the end of that period, the credit institution shall notify the Bank of all decisions to impose charges in relation to the provision of any service to a customer or to a group of customers during that period and of any proposal to do so which is not implemented during that period.
+
+(17) A notification under *subsection (16)* shall be treated as a notification under *subsection (1)* for the purposes of this section; and references in this section to a proposal include a decision to impose charges notified under *subsection (16)*.
+
+(18) In *subsection (16)* "relevant new credit institution" means a credit institution which commences business as a credit institution in the State after the coming into operation of section 78(d) of the Central Bank (Supervision and Enforcement) Act 2013 and is not when it does so a related undertaking (within the meaning of that Act) of another credit institution carrying on business as a credit institution in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F245: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 42, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F246: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 78(a), S.I. No. 287 of 2013.
+>
+> F247: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 78(b), S.I. No. 287 of 2013.
+>
+> F248: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 78(c), S.I. No. 287 of 2013.
+>
+> F249: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 4, S.I. No. 455 of 2004.
+>
+> F250: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 78(d), S.I. No. 287 of 2013.
+
+### 149A. Customer charges, etc. payable by persons authorised to carry on business of a bureau de charge.
+
+F251[**149A.**—(1) In this section—
+
+"authorisation" means an authorisation granted by the Bank under Part V of the Central Bank Act 1997, to carry on a F252[regulated business].
+
+(2) The holder of an authorisation or, subject to the Competition Act 1991, a group of holders of authorisations in respect of a service offered jointly by the group, shall notify the Bank of every proposal—
+
+(*a*) to increase any charge which has been previously notified to the Bank, or
+
+(*b*) to impose any charge in relation to the provision of a service to a customer or to a group of customers that has not been previously notified to the Bank.
+
+(3) Every notification under *subsection (2)* must be accompanied by—
+
+(*a*) subject to *subsection (5)*, such fee as the Bank decides for each notification, being a fee that does not exceed the prescribed maximum amount, and
+
+(*b*) a statement of the commercial justification for the proposal including a detailed statement of cost, and
+
+(*c*) details of the estimated amount of additional income accruing from the proposal.
+
+(4) For the purposes of *subsection (3)(a)*, the prescribed maximum amount is—
+
+(*a*) €31,750, or
+
+(*b*) if some other amount is prescribed by regulations made for the purposes of this subsection — a fee of that other amount.
+
+(5) The Bank may waive or reduce the fee if the payment of the fee would, in the opinion of the Bank, be unfair to the holder of the authorisation concerned, having regard to—
+
+(*a*) the impact of any increase in or imposition of charges on customers, and
+
+(*b*) the number of customers affected by any increase in or imposition of charges, and
+
+(*c*) the additional income likely to accrue from any increase in, or imposition of, charges, and
+
+(*d*) any other criteria that the Bank considers appropriate.
+
+(6) The Bank may, within 4 months after receiving a notification under *subsection (2)*, direct the holder of an authorisation—
+
+(*a*) to refrain from imposing or changing a charge in relation to the provision of a service to a customer or to a group of customers, without the prior approval of the Bank, and
+
+(*b*) to publish, in such manner as may be specified by the Bank from time to time, information on any charge in relation to the provision of a service to a customer or to a group of customers.
+
+(7) If a notification under *subsection (2)* is in respect of a proposal to impose a charge for a new service that was not previously offered to its customers or is being offered as a choice to and in a way materially different from existing services, the Bank may, within 3 weeks after receiving the notification, direct the holder of an authorisation—
+
+(*a*) to refrain from imposing or changing a charge for providing a service to a customer, or to a group of customers, without the prior approval of the Bank, and
+
+(*b*) to publish, in such manner as may be specified by the Bank from time to time, information on any charge for providing a service to a customer or to a group of customers.
+
+(8) A direction under this section may be expressed to apply—
+
+(*a*) to every holder of an authorisation or holders of authorisations carrying on a specified type of F252[regulated business], or
+
+(*b*) to all services provided to a customer or to a group of customers by holders of authorisations or to specified services or to services of a specified kind, or
+
+(*c*) to a specified time or times or during a specified period or periods,
+
+and has effect according to its terms.
+
+(9) The Bank shall—
+
+(*a*) communicate such a direction to the holder of every authorisation concerned, and
+
+(*b*) if not communicated in writing, confirm the communication in writing to that holder as soon as practicable after giving the direction.
+
+(10) The Bank shall, in exercising the powers conferred by this section, have regard to—
+
+(*a*) the promotion of fair competition between—
+
+(i) holders of authorisations, and
+
+(ii) credit institutions carrying on a particular type of F252[regulated business],
+
+and
+
+(*b*) the statement of commercial justification referred to in *subsection (3)(b)*, and
+
+(*c*) the holder of an authorisation passing any costs on to its customers, or a group of its customers, in proposing to impose or change any charge for providing a service to a customer or a group of its customers, and
+
+(*d*) the effect on customers or a group of customers of any proposal to impose or change any charge for providing the service.
+
+(11) The Bank may amend or revoke a subsisting direction under this section and may amend or revoke a subsisting direction that has been amended.
+
+(12) The Bank may exempt the holder of an authorisation from the obligation to make a notification under *subsection (2)* in respect of any charge which has been individually negotiated in good faith with that holder by a customer, or by or on behalf of a group of customers, of that holder.
+
+(13) The Bank shall—
+
+(*a*) keep under general review the terms and conditions applying to the provision of services to customers by holders of authorisations, and
+
+(*b*) require the holder of an authorisation to discontinue or refrain from the use of such terms and conditions as are, or are likely to be regarded as, unfair, and
+
+(*c*) if that holder fails to comply with a requirement under *subparagraph (b)*, bring proceedings in the High Court for an order prohibiting the use, or continued use of those terms and conditions.
+
+F252[(14) A holder of an authorisation shall not impose a charge for providing a service to a customer or group of customers if—
+
+(*a*) the charge has not been previously notified to the Bank or to the Director, or
+
+(*b*) the charge exceeds the charge notified for the service in accordance with *subsection (2)*, or
+
+(*c*) the charge does not comply with a direction issued by the Bank under this section.
+
+(15) The Bank may, by notice given in writing, require a specified holder of an authorisation, or holders of a specified class of authorisation, to publish in such publications, and within such timeframes, as are specified in the notice details of the amounts of charges notified to the Bank under this section.
+
+(16) A holder of an authorisation to whom a notice has been given under *subsection (15)* shall comply with the notice within the timeframe specified in the notice.
+
+(17) In this section—
+
+"bureau de change business" has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004);
+
+"service" means any service provided by the holder of an authorisation to a customer in relation to a bureau de change business or money transmission business carried on by that holder;
+
+"money transmission business" has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004).]
+
+(15) For the purposes of this section, a notification made to the Director of Consumer Affairs before the substitution of this section by item 43 of Part 21 of Schedule 1 to the Central Bank and Financial Services Authority of Ireland Act 2003, is taken to have been made to the Bank.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F251: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 43, S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F252: Substituted and inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 12 item 5, S.I. No. 455 of 2004.
+>
+> **Editorial Notes:**
+>
+> E61: Previous affecting provision: section inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 36(a), S.I. No. 150 of 1997; substituted as per F-note above.
+
+### 150. Disclosure of information by F253[Bank].
+
+**150.**—The F253[Bank] shall not disclose F254[...] any information concerning the confidential business of a credit institution F255[or of a person authorised to carry on *bureau de change* business under Part V of the Central Bank Act, 1997] which may come to F253[its] knowledge by virtue of this Part unless such disclosure is to enable F253[it] to carry out F253[its] functions or is required by a court or made for the purpose of complying with any other enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F253: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 44(a), (c), (d), S.I. No. 160 of 2003, subject to transitional provision in s. 36 and sch. 3 para. 20(1).
+>
+> F254: Deleted(1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 44(b), S.I. No. 160 of 2003.
+>
+> F255: Inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 36(b), S.I. No. 150 of 1997.
+
+## PART XIIIMoneylenders, Credit and Mortgage Intermediaries Registers — PART XIII — Moneylenders, Credit and Mortgage Intermediaries Registers
+
+### 151. Credit intermediaries register.
+
+F256[**151.**—(1) The Director shall establish and keep a register of credit intermediaries.
+
+(2) The register is to be kept in a form determined by the Director.
+
+(3) The credit intermediaries register must contain the following particulars:
+
+(*a*) the information referred to in *section 144(8)*;
+
+(*b*) any revocation or suspension of a credit intermediaries authorisation;
+
+(*c*) such other particulars as the Minister for Enterprise, Trade and Employment from time to time prescribes.
+
+(4) The Director shall keep the register at the Director’s office of business and shall make the register available for inspection by members of the public during those business hours. If the register is kept in a form that is not immediately legible, the Director shall make available a version of the register that is in legible form.
+
+(5) A person who attends the Director’s office during the hours when it is open for business is entitled, on request—
+
+(*a*) to inspect the register without charge or make enquiries regarding its contents, and
+
+(*b*) on payment of the prescribed fee, to obtain a copy of any entry in the register.
+
+(6) For the purpose of *subsection (5)(b)*, the prescribed fee is—
+
+(*a*) €6.25, or
+
+(*b*) if some other amount is prescribed by the Minister for Enterprise, Trade and Employment for the purposes of this subsection — that other amount.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F256: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 45, subject to transitional provisions in s. 36 and sch. 3 para. 20(3), S.I. No. 160 of 2003.
+
+### 151A. Registers of F258[high cost credit providers] and mortgage intermediaries.
+
+F257[**151A.**—(1) The Bank shall establish and keep—
+
+(*a*) a register of F259[high cost credit providers], and
+
+(*b*) a register of mortgage intermediaries.
+
+(2) Each of the registers is to be kept in a form determined by the Bank.
+
+(3) The register of F260[high cost credit providers] must contain the following particulars:
+
+(*a*) the information referred to in *section 93(8)*;
+
+(*b*) any revocation, suspension or variation of the terms or conditions of a F261[high cost credit provider's licence];
+
+(*c*) such other particulars as the Minister for Finance prescribes from time to time.
+
+(4) The mortgage intermediaries register must contain the following particulars:
+
+(*a*) the information referred to in *section 116(8)*;
+
+(*b*) any revocation or suspension of a mortgage intermediaries authorisation;
+
+(*c*) such other particulars as the Minister for Finance prescribes from time to time.
+
+(5) A person is at all reasonable times entitled to make enquiries regarding the contents of either of the registers.
+
+(6) The Bank shall ensure that each of the registers is at all reasonable times open for inspection by members of the public. If a register is kept in a form that is not immediately legible, the Bank shall make available to any member of the public who wishes to inspect the register a version of the register that is in legible form.
+
+(7) A person is entitled to obtain a copy of any entry in either of the registers on payment to the Bank of a fee of such amount (if any) as may be prescribed under section 33K of the Central Bank Act 1942, for the purposes of this subsection.
+
+(8) The Bank may, in relation to such class or classes of persons as it decides, waive or reduce a fee prescribed for the purposes of *subsection (7)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F257: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 46, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 20(3).
+>
+> F258, F259, F260, F261: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 41(a), (b), S.I. No. 575 of 2022.
+
+### 151B. Certified copy of entry in register to be admissible in evidence.
+
+F262[**151B.**—(1) Every document purporting to be a copy of an entry in a register kept under *section 151* and to be certified by a person employed in the office of the Director to be a true copy of the entry is, without proof of the person’s signature or proof that the person was such officer, admissible in all legal proceedings as evidence of its contents.
+
+(2) Every document purporting to be a copy of an entry in a register kept under *section 151A* and to be certified by an authorised person to be a true copy of the entry is, without proof of the person’s signature or proof that the person was an authorised person, admissible in all legal proceedings as evidence of its contents.
+
+(3) In *subsection (2)*, "authorised person" means the Bank, a person authorised by the Bank for the purposes of that subsection, a delegate of the Bank or a member, officer or employee of such a delegate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F262: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 21 item 46, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 20(3).
+
+## PART XIVAmendment of Sale of Goods and Supply of Services Act, 1980 — PART XIV — Amendment of Sale of Goods and Supply of Services Act, 1980
+
+### 152. Amendment of Act of 1980.
+
+**152.**—The Act of 1980 is hereby amended—
+
+(*a*) by the insertion after the definition of “business” in section 2 (1) of the following definition:
+
+“‘consumer-hire agreement’ has the meaning assigned to it by *section 2 (1)* of the *Consumer Credit Act, 1995*;”,
+
+(*b*) by the substitution for the definition of “hire-purchase agreement” in section 2 (1) of the following definition:
+
+“‘hire-purchase agreement’ has the meaning assigned to it by *section 2 (1)* of the *Consumer Credit Act, 1995*;”, and
+
+(*c*) by the insertion in section 54 after “hire-purchase agreement” of “or a consumer-hire agreement”.
+
+## PART XVAmendment of Pawnbrokers Act, 1964 — PART XV — Amendment of Pawnbrokers Act, 1964
+
+### 153. Licensing of pawnbrokers.
+
+**153.**—The Pawnbrokers Act, 1964, is hereby amended by the substitution for sections 7 to 10 of the following sections:
+
+“Prohibition of carrying on the business of pawnbroker without licence.
+
+7.—(1) A person shall not carry on the business of a pawnbroker at any premises unless he is the holder of a licence which is in force in respect of those premises.
+
+(2) A person who contravenes this section shall be guilty of an offence.
+
+Pawnbroker's licence.
+
+8.—(1) The Director may grant to a person a licence (‘a pawnbroker's licence’) upon such terms and conditions as he sees fit to a person to carry on the business of pawnbroker at a particular premises.
+
+(2) An application for a licence shall be in writing and in such form as the Director may determine and shall be accompanied by a fee of £1,000 or such other amount as may stand specified in regulations made by the Minister.
+
+(3) The Director may refuse to grant a licence on one or more of the following grounds, namely, that—
+
+(*a*) satisfactory evidence has not been given of the good character of the applicant,
+
+(*b*) satisfactory evidence has been given that the applicant, or any person responsible or proposed to be responsible for the management of the applicant's business as a pawnbroker, is not a fit and proper person to hold a licence,
+
+(*c*) the applicant, or any person responsible or proposed to be responsible for the management of the applicant's business as a pawnbroker, is by order of a court disqualified from obtaining a licence,
+
+(*d*) the applicant has failed to satisfy the Director that he is a person of financial stability,
+
+(*e*) the applicant is the holder of—
+
+(i) a bookmaker's licence issued under the Betting Act, 1931,
+
+(ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts, 1833 to 1994,
+
+(iii) a gaming licence issued under the Gaming and Lotteries Act, 1956,
+
+(iv) a moneylender's licence granted under the *Consumer Credit Act, 1995*, or
+
+(v) an auctioneer's licence granted under the Auctioneers and House Agents Act, 1947,
+
+(*f*) the applicant's premises are not suitable for the carrying on of a pawnbroker's business, or
+
+(*g*) the applicant or any business with which he was connected was, during the previous 5 years, convicted of a criminal offence.
+
+(4) A licence shall be valid for the period of 12 months commencing on the date specified therein and shall expire at the end of that period.
+
+(5) The Director may suspend or revoke a licence where he is satisfied that a pawnbroker has become the holder of a licence referred to in subsection (3) (*e*) or has failed to comply with any of the terms or conditions of the licence or a pawnbroker or any business with which he is connected has been convicted of a criminal offence.
+
+(6) Whenever the Director proposes to refuse to grant, suspend or revoke a licence he shall notify the applicant or the holder of the licence, as the case may be, of his proposal and shall, if any representations are made to him in writing by such applicant or holder within 14 days of the notification, consider the representations.
+
+(7) Whenever the Director, having considered any representations that may have been made under subsection (6), decides to refuse to grant, suspend or revoke a licence, he shall notify the applicant for, or as the case may be, the holder of, the licence of the decision and the grounds for such decision and such applicant or holder may, within 7 days of receipt of such notification, appeal against such decision to the judge of the Circuit Court within whose circuit the business to which the licence relates is to be carried on.
+
+(8) A notification referred to in subsection (6) or (7) shall be delivered personally or sent by prepaid registered post to the business address of the applicant for a licence or the holder of the licence concerned, as the case may be.
+
+(9) Where a notification under subsection (6) or (7) relates to a refusal to grant a second or subsequent licence or a suspension or revocation of a licence, the refusal, suspension or revocation shall take effect upon the expiration of the 7 days allowed for the appeal.
+
+(10) Where an appeal is made under subsection (7) by an applicant for a second or subsequent licence in respect of a refusal to grant such licence or by a holder of a licence in respect of a suspension or revocation of a licence, the refusal, suspension or revocation shall stand suspended until the appeal is determined or withdrawn and notwithstanding subsection (4) any licence held by the applicant at the time of the appeal shall continue in force until the determination or withdrawal of the appeal.
+
+(11) On the hearing of an appeal under subsection (7) in relation to a decision of the Director to refuse to grant, suspend or revoke a licence, the Circuit Court may either confirm the decision or allow the appeal and, where an appeal is allowed, the Director shall grant the licence or shall not suspend or revoke the licence, as the case may be.
+
+(12) A decision of the Circuit Court on an appeal under subsection (7) shall be final save that, by leave of that Court, an appeal from the decision shall lie to the High Court on a specified question of law.
+
+(13) In an appeal under subsection (7) the Director shall not be awarded or ordered to pay costs.
+
+Transfer of licence.
+
+9.—(1) The holder of a licence may apply to the Director to transfer the licence to another person and the Director may at his absolute discretion transfer the licence according to such terms and conditions as he sees fit subject to the person satisfying the requirements of section 8 (3).
+
+(2) An application for the transfer of a licence under subsection (1) shall be accompanied by a fee of £500 or such other amount as may stand specified in regulations made by the Minister.
+
+False information.
+
+10.—A person who in respect of an application to the Director—
+
+(*a*) under section 8, for the grant of a licence, or
+
+(*b*) under section 9 for the transfer of a licence,
+
+wilfully gives any information which is false or misleading shall be guilty of an offence.”.
+
+### 154. Amendment of Pawnbrokers Act, 1964.
+
+**154.**—(1) Each provision of the Pawnbrokers Act, 1964, mentioned in *column (1)* of *Part I* of the *Eighth Schedule* is hereby amended to the extent specified in *column (2)* of that Part opposite the mention of that provision in *column (1)*.
+
+(2) The Pawnbrokers Act, 1964, is hereby amended—
+
+(*a*) by the substitution for the Second Schedule thereto of the schedule contained in *Part II* of the *Eighth Schedule*, and
+
+(*b*) by the substitution for the Third Schedule thereto of the schedule contained in *Part III* of the *Eighth Schedule*.
+
+### 155. Continuity of licences granted by Revenue Commissioners.
+
+**155.**—Any licence granted by the Revenue Commissioners under section 8 of the Pawnbrokers Act, 1964, that is in force immediately before the commencement of this Part shall continue in force after such commencement for the remainder of the period that such licence was so granted as if it had been granted by the Director under section 8 (inserted by *section 153*) of that Act and that section shall be construed accordingly.
+
+## PART XVIAmendment of Consumer Information Act, 1978 — PART XVI — Amendment of Consumer Information Act, 1978
+
+### 156. Amendment of section 9 of Consumer Information Act, 1978.
+
+**156.**—The Consumer Information Act, 1978, is hereby amended by the substitution for paragraph (*a*) of section 9 (12) of the following paragraph:
+
+“(*a*) The Director shall, not more than 3 months after the end of each year, present a report to the Minister of the Director's activities in that year in relation to the performance of the Director's functions and the Minister shall cause a copy of the report to be laid before each House of the Oireachtas within 2 months of receipt of it.”.
+
+## FIRST SCHEDULE — Council Directive 87/102/EEC and Council Directive 90/88/EEC
+
+Part I
+
+COUNCIL DIRECTIVE
+
+of 22 December 1986
+
+*for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit*
+
+(87/102/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,
+
+Having regard to the proposal from the Commission[^6],
+
+Having regard to the opinion of the European Parliament[^7],
+
+Having regard to the opinion of the Economic and Social Committee[^8],
+
+Whereas wide differences exist in the laws of the Member States in the field of consumer credit;
+
+Whereas these differences of law can lead to distortions of competition between grantors of credit in the common market;
+
+Whereas these differences limit the opportunities the consumer has to obtain credit in other Member States; whereas they affect the volume and the nature of the credit sought, and also the purchase of goods and services;
+
+Whereas, as a result, these differences have an influence on the free movement of goods and services obtainable by consumers on credit and thus directly affect the functioning of the common market;
+
+Whereas, given the increasing volume of credit granted in the Community to consumers, the establishment of a common market in consumer credit would benefit alike consumers, grantors of credit, manufacturers, wholesalers and retailers of goods and providers of services;
+
+Whereas the programmes of the Europen Economic Community for a consumer protection and information policy[^9] provide, *inter alia*, that the consumer should be protected against unfair credit terms and that a harmonization of the general conditions governing consumer credit should be undertaken as a priority;
+
+Whereas differences of law and practice result in unequal consumer protection in the field of consumer credit from one Member State to another;
+
+Whereas there has been much change in recent years in the types of credit available to and used by consumers; whereas new forms of consumer credit have emerged and continue to develop;
+
+Whereas the consumer should receive adequate information on the conditions and cost of credit and on his obligations; whereas this information should include, *inter alia*, the annual percentage rate of charge for credit, or, failing that, the total amount that the consumer must pay for credit; whereas, pending a decision on a Community method or methods of calculating the annual percentage rate of charge, Member States should be able to retain existing methods or practices for calculating this rate, or failing that, should establish provisions for indicating the total cost of the credit to the consumer;
+
+Whereas the terms of credit may be disadvantageous to the consumer; whereas better protection of consumers can be achieved by adopting certain requirements which are to apply to all forms of credit;
+
+Whereas, having regard to the character of certain credit agreements or types of transaction, these agreements or transactions should be partially or entirely excluded from the field of application of this Directive;
+
+Whereas it should be possible for Member States, in consultation with the Commission, to exempt from the Directive certain forms of credit of a non-commercial character granted under particular conditions;
+
+Whereas the practices existing in some Member States in respect of authentic acts drawn up before a notary or judge are such as to render the application of certain provisions of this Directive unnecessary in the case of such acts; whereas it should therefore be possible for Member States to exempt such acts from those provisions;
+
+Whereas credit agreements for very large financial amounts tend to differ from the usual consumer credit agreements; whereas the application of the provisions of this Directive to agreements for very small amounts could create unnecessary administrative burdens both for consumers and grantors of credit; whereas therefore, agreements above or below specified financial limits should be excluded from the Directive;
+
+Whereas the provision of information on the cost of credit in advertising and at the business premises of the creditor or credit broker can make it easier for the consumer to compare different offers;
+
+Whereas consumer protection is further improved if credit agreements are made in writing and contain certain minimum particulars concerning the contractual terms;
+
+Whereas, in the case of credit granted for the acquisition of goods, Member States should lay down the conditions in which goods may be repossessed, particularly if the consumer has not given his consent; whereas the account between the parties should upon repossession be made up in such manner as to ensure that the repossession does not entail any unjustified enrichment;
+
+Whereas the consumer should be allowed to discharge his obligations before the due date; whereas the consumer should then be entitled to an equitable reduction in the total cost of the credit;
+
+Whereas the assignment of the creditor's rights arising under a credit agreement should not be allowed to weaken the position of the consumer;
+
+Whereas those Member States which permit consumers to use bills of exchange, promissory notes or cheques in connection with credit agreements should ensure that the consumer is suitably protected when so using such instruments;
+
+Whereas, as regards goods or services which the consumer has contracted to acquire on credit, the consumer should, at least in the circumstances defined below, have rights *vis-à-vis* the grantor of credit which are in addition to his normal contractual rights against him and against the supplier of the goods or services; whereas the circumstances referred to above are those where grantor of credit and the supplier of goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the purpose of enabling the consumer to acquire goods or services from the latter;
+
+Whereas the ECU is as defined in Council Regulation (EEC) No 3180/78[^10], as last amended by Regulation (EEC) No 2626/84[^11]; whereas Member States should to a limited extent be at liberty to round off the amounts in national currency resulting from the conversion of amounts of this Directive expressed in ECU; whereas the amounts in this Directive should be periodically re-examined in the light of economic and monetary trends in the Community, and, if need be, revised;
+
+Whereas suitable measures should be adopted by Member States for authorising persons offering credit or offering to arrange credit agreements or for inspecting or monitoring the activities of persons granting credit or arranging for credit to be granted or for enabling consumers to complain about credit agreements or credit conditions;
+
+Whereas credit agreements should not derogate, to the detriment of the consumer, from the provisions adopted in implementation of this Directive or corresponding to its provisions; whereas those provisions should not be circumvented as a result of the way in which agreements are formulated;
+
+Whereas, since this Directive provides for a certain degree of approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit and for a certain level of consumer protection, Member States should not be prevented from retaining or adopting more stringent measures to protect the consumer, with due regard for their obligations under the Treaty;
+
+Whereas, not later than 1 January 1995, the Commission should present to the Council a report concerning the operation of this Directive,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+*Article 1*
+
+1\. This Directive applies to credit agreements.
+
+2\. For the purpose of this Directive:
+
+(*a*) ‘consumer’ means a natural person who, in transactions covered by this Directive, is acting for purposes which can be regarded as outside his trade or profession;
+
+(*b*) ‘creditor’ means a natural or legal person who grants credit in the course of his trade, business or profession, or a group of such persons;
+
+(*c*) ‘credit agreement’ means an agreement whereby a creditor grants or promises to grant to a consumer a credit in the form of a deferred payment, a loan or other similar financial accommodation.
+
+Agreements for the provision on a continuing basis of a service or a utility, where the consumer has the right to pay for them, for the duration of their provision, by means of instalments, are not deemed to be credit agreements for the purpose of this Directive;
+
+(*d*) ‘total cost of the credit to the consumer’ means all the costs of the credit including interest and other charges directly connected with the credit agreement, determined in accordance with the provisions or practices existing in, or to be established by, the Member States.
+
+(*e*) ‘annual percentage rate of charge’ means the total cost of the credit to the consumer expressed as an annual percentage of the amount of the credit granted and calculated according to existing methods of the Member States.
+
+*Article 2*
+
+1\. This Directive shall not apply to:
+
+(*a*) credit agreements or agreements promising to grant credit:
+
+—intended primarily for the purpose of acquiring or retaining property rights in land or in an existing or projected building,
+
+—intended for the purpose of renovating or improving a building as such;
+
+(*b*) hiring agreements except where these provide that the title will pass ultimately to the hirer;
+
+(*c*) credit granted or made available without payment of interest or any other charge;
+
+(*d*) credit agreements under which no interest is charged provided the consumer agrees to repay the credit in a single payment;
+
+(*e*) credit in the form of advances on a current account granted by a credit institution or financial institution other than on credit card accounts.
+
+Nevertheless, the provisions of Article 6 shall apply to such credits;
+
+(*f*) credit agreements involving amounts less than 200 ECU or more than 20 000 ECU;
+
+(*g*) credit agreements under which the consumer is required to repay the credit:
+
+—either, within a period not exceeding three months,
+
+—or, by a maximum number of four payments within a period not exceeding 12 months.
+
+2\. A Member State may, in consultation with the Commission, exempt from the application of this Directive certain types of credit which fulfil the following conditions:
+
+—they are granted at rates of charge below those prevailing in the market, and
+
+—they are not offered to the public generally.
+
+3\. The provisions of Article 4 and of Articles 6 to 12 shall not apply to credit agreements or agreements promising to grant credit, secured by mortgage on immovable property, in so far as these are not already excluded from the Directive under paragraph 1 (*a*) of this Article.
+
+4\. Member States may exempt from the provisions of Articles 6 to 12 credit agreements in the form of an authentic act signed before a notary or judge.
+
+*Article 3*
+
+Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising[^12], and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a representative example if no other means is practicable.
+
+*Article 4*
+
+1\. Credit agreements shall be made in writing. The consumer shall receive a copy of the written agreement.
+
+2\. The written agreement shall include:
+
+(*a*) a statement of the annual percentage rate of charge;
+
+(*b*) a statement of the conditions under which the annual percentage rate of charge may be amended.
+
+In cases where it is not possible to state the annual percentage rate of charge, the consumer shall be provided with adequate information in the written agreement. This information shall at least include the information provided for in the second indent of Article 6 (1).
+
+3\. The written agreement shall further include the other essential terms of the contract.
+
+By way of illustration, the Annex to this Directive contains a list of terms which Member States may require to be included in the written agreement as being essential.
+
+*Article 5*
+
+By way of derogation from Articles 3 and 4 (2), and pending a decision on the introduction of a Community method or methods of calculating the annual percentage rate of charge, those Member States which, at the time of notification of this Directive, do not require the annual percentage rate of charge to be shown or which do not have an established method for its calculation, shall at least require the total cost of the credit to the consumer to be indicated.
+
+*Article 6*
+
+1\. Notwithstanding the exclusion provided for in Article 2 (1) (*e*), where there is an agreement between a credit institution or financial institution and a consumer for the granting of credit in the form of an advance on a current account, other than on credit card accounts, the consumer shall be informed at the time or before the agreement is concluded:
+
+—of the credit limit, if any,
+
+—of the annual rate of interest and the charges applicable from the time the agreement is concluded and the conditions under which these may be amended,
+
+—of the procedure for terminating the agreement.
+
+This information shall be confirmed in writing.
+
+2\. Furthermore, during the period of the agreement, the consumer shall be informed of any change in the annual rate of interest or in the relevant charges at the time it occurs. Such information may be given in a statement of account or in any other manner acceptable to Member States.
+
+3\. In Member States where tacitly accepted overdrafts are permissible, the Member States concerned shall ensure that the consumer is informed of the annual rate of interest and the charges applicable, and of any amendment thereof, where the overdraft extends beyond a period of three months.
+
+*Article 7*
+
+In the case of credit granted for the acquisition of goods, Member States shall lay down the conditions under which goods may be repossessed, in particular if the consumer has not given his consent. They shall further ensure that where the creditor recovers possession of the goods the account between the parties shall be made up so as to ensure that the repossession does not entail any unjustified enrichment.
+
+*Article 8*
+
+The consumer shall be entitled to discharge his obligations under a credit agreement before the time fixed by the agreement. In this event, in accordance with the rules laid down by the Member States, the consumer shall be entitled to an equitable reduction in the total cost of the credit.
+
+*Article 9*
+
+Where the creditor's rights under a credit agreement are assigned to a third person, the consumer shall be entitled to plead against that third person any defence which was available to him against the original creditor, including set-off where the latter is permitted in the Member State concerned.
+
+*Article 10*
+
+The Member States which, in connection with credit agreements, permit the consumer:
+
+(*a*) to make payment by means of bills of exchange including promissory notes;
+
+(*b*) to give security by means of bills of exchange including promissory notes and cheques,
+
+shall ensure that the consumer is suitably protected when using these instruments in those ways.
+
+*Article 11*
+
+1\. Member States shall ensure that the existence of a credit agreement shall not in any way affect the rights of the consumer against the supplier of goods or services purchased by means of such an agreement in cases where the goods or services are not supplied or are otherwise not in conformity with the contract for their supply.
+
+2\. Where:
+
+(*a*) in order to buy goods or obtain services the consumer enters into a credit agreement with a person other than the supplier of them;
+
+and
+
+(*b*) the grantor of the credit and the supplier of the goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the acquisition of goods or services from that supplier; and
+
+(*c*) the consumer referred to in subparagraph (*a*) obtains his credit pursuant to that pre-existing agreement; and
+
+(*d*) the goods or services covered by the credit agreement are not supplied, or are supplied only in part, or are not in conformity with the contract for supply of them; and
+
+(*e*) the consumer has pursued his remedies against the supplier but has failed to obtain the satisfaction to which he is entitled,
+
+the consumer shall have the right to pursue remedies against the grantor of credit. Member States shall determine to what extent and under what conditions these remedies shall be exercisable.
+
+3\. Paragraph 2 shall not apply where the individual transaction in question is for an amount less than the equivalent of 200 ECU.
+
+*Article 12*
+
+1\. Member States shall:
+
+(*a*) ensure that persons offering credit or offering to arrange credit agreements shall obtain official authorization to do so, either specifically or as suppliers of goods and services; or
+
+(*b*) ensure that persons granting credit or arranging for credit to be granted shall be subject to inspection or monitoring of their activities by an institution or official body; or
+
+(*c*) promote the establishment of appropriate bodies to receive complaints concerning credit agreements or credit conditions and to provide relevant information or advice to consumers regarding them.
+
+2\. Member States may provide that the authorization referred to in paragraph 1 (*a*) shall not be required where persons offering to conclude or arrange credit agreements satisfy the definition in Article 1 of the first Council Directive of 12 December 1977 on the co-ordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of credit institutions[^13] and are authorized in accordance with the provisions of that Directive.
+
+Where persons granting credit or arranging for credit to be granted have been authorized both specifically, under the provisions of paragraph 1 (*a*) and also under the provisions of the aforementioned Directive, but the latter authorization is subsequently withdrawn, the competent authority responsible for issuing the specific authorization to grant credit under paragraph 1 (*a*) shall be informed and shall decide whether the person concerned may continue to grant credit, or arrange for credit to be granted, or whether the specific authorization granted under paragraph 1 (*a*) should be withdrawn.
+
+*Article 13*
+
+1\. For the purposes of this Directive, the ECU shall be that defined by Regulation (EEC) No 3180/78, as amended by Regulation (EEC) No 2626/84. The equivalent in national currency shall initially be calculated at the rate obtaining on the date of adoption of this Directive.
+
+Member States may round off the amounts in national currency resulting from the conversion of the amounts in ECU provided such rounding off does not exceed 10 ECU.
+
+2\. Every five years, and for the first time in 1995, the Council, acting on a proposal from the Commission, shall examine and, if need be, revise the amounts in this Directive in the light of economic and monetary trends in the Community.
+
+*Article 14*
+
+1\. Member States shall ensure that credit agreements shall not derogate, to the detriment of the consumer, from the provisions of national law implementing or corresponding to this Directive.
+
+2\. Member States shall further ensure that the provisions which they adopt in implementation of this directive are not circumvented as a result of the way in which agreements are formulated, in particular by the device of distributing the amount of credit over several agreements.
+
+*Article 15*
+
+This Directive shall not preclude Member States from retaining or adopting more stringent provisions to protect consumers consistent with their obligations under the Treaty.
+
+*Article 16*
+
+1\. Member States shall bring into force the measures necessary to comply with this Directive not later than 1 January 1990 and shall forthwith inform the Commission thereof.
+
+2\. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field covered by this Directive.
+
+*Article 17*
+
+Not later than 1 January 1995 the Commission shall present a report to the Council concerning the operation of this Directive.
+
+*Article 18*
+
+This Directive is addressed to the Member States.
+
+Done at Brussels, 22 December, 1986.
+
+*For the Council*
+
+*The President*
+
+G. SHAW.
+
+*ANNEX*
+
+List of Terms Referred to in Article 4 (3)
+
+**1.** **Credit agreements for financing the supply of particular goods or services:**
+
+(i) a description of the goods or services covered by the agreement;
+
+(ii) the cash price and the price payable under the credit agreement;
+
+(iii) the amount of the deposit, if any, the number and amount of instalments and the dates on which they fall due, or the method of ascertaining any of the same if unknown at the time the agreement is concluded;
+
+(iv) an indication that the consumer will be entitled, as provided in Article 8, to a reduction if he repays early;
+
+(v) who owns the goods (if ownership does not pass immediately to the consumer) and the terms on which the consumer becomes the owner of them;
+
+(vi) a description of the security required, if any;
+
+(vii) the cooling-off period, if any;
+
+(viii) an indication of the insurance(s) required, if any, and, when the choice of insurer is not left to the consumer, an indication of the cost thereof.
+
+**2.** **Credit agreements operated by credit cards:**
+
+(i) the amount of the credit limit, if any;
+
+(ii) the terms of repayment or the means of determining them;
+
+(iii) the cooling-off period, if any.
+
+**3.****Credit agreements operated by running account which are not otherwise covered by the Directive:**
+
+(i) the amount of the credit limit, if any, or the method of determing it;
+
+(ii) the terms of use and repayment;
+
+(iii) the cooling-off period, if any.
+
+**4.** **Other credit agreements covered by the Directive:**
+
+(i) the amount of the credit limit, if any;
+
+(ii) an indication of the security required, if any;
+
+(iii) the terms of repayment;
+
+(iv) the cooling-off period, if any;
+
+(v) an indication that the consumer will be entitled, as provided in Article 8, to a reduction if he repays early.
+
+Part II
+
+COUNCIL DIRECTIVE
+
+of 22 February 1990
+
+**amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit**
+
+(90/88/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,
+
+Having regard to the proposal from the Commission[^14],
+
+In cooperation with the European Parliament[^15],
+
+Having regard to the opinion of the Economic and Social Committee[^16],
+
+Whereas Article 5 of Council Directive 87/102/EEC[^17] provides for the introduction of a Community method or methods of calculating the annual percentage rate of lcharge for consumer credit;
+
+Whereas it is desirable, in order to promote the establishment and functioning the internal market and to ensure that consumers benefit from a high level of protection, that one method of calculating the said annual percentage rate of charge should be used throughout the Community;
+
+Whereas it is desirable, with a view to introducing such a method and in accordance with the definition of the total cost of credit to the consumer, to draw up a single mathematical formula for calculating the annual percentage rate of charge and for determining credit cost items to be used in the calculation by indicating those costs which must not be taken into account;
+
+Whereas, during a trasitional period, Member States which prior to the date of notification of this Directive, apply laws which permit the use of another mathematical formula for calculating the annual percentage rate of charge may continue to apply such laws;
+
+Whereas, before expiry of the transitional period and in the light of experience, the Council will, on the basis of a proposal from the Commission, take a decision which will make it possible to apply a single Community mathematical formula;
+
+Whereas it is desirable, whenever necessary, to adopt certain hypotheses for calculating the annual percentage rate of charge;
+
+Whereas by virtue of the special nature of loans guaranteed by a mortgage secured on immoveable property it is desirable that such credit should continue to be partially excluded from this Directive;
+
+Whereas the information which must be communicated to the consumer in the written contract should be amplified,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+*Article 1*
+
+Directive 87/102/EEC is hereby amended as follows:
+
+1\. In Article 1 (2), points (*d*) and (*e*) shall be replaced by the following:
+
+‘(*d*) “total cost of the credit to the consumer” means all the costs, including interest and other charges, which the consumer has to pay for the credit.’;
+
+‘(*e*) “annual percentage rate of charge” means the total cost of the credit to the consumer, expressed as an annual percentage of the amount of the credit granted and calculated in accordance with Article 1a’.
+
+2\. The following Article shall be inserted:
+
+*‘Article 1a*
+
+1\. (*a*) The annual percentage rate of charge, which shall be that equivalent, on an annual basis, to the present value of all commitments (loans, repayments and charges), future or existing, agreed by the creditor and the borrower, shall be calculated in accordance with the mathematical formula set out in Annex II.
+
+(*b*) Four examples of the method of calculation are given in Annex III, by way of illustration.
+
+2\. For the purpose of calculating the annual percentage rate of charge, the “total cost of the credit to the consumer” as defined in Article 1 (2) (d) shall be determined, with the exception of the following charges:
+
+(i) charges payable by the borrower for non-compliance with any of his commitments laid down in the credit agreement;
+
+(ii) charges other than the purchase price which, in purchases of goods or services, the consumer is obliged to pay whether the transactions is paid in cash or by credit;
+
+(iii) charges for the transfer of funds and charges for keeping an account intended to receive payments towards the reimbursement of the credit the payment of interest and other charges except where the consumer doesn ot have reasonable freedom of choice in the matter and where such charges are abnormally high; this provision shall not, however, apply to charges for collection of such reimbursements or payments, whether made in cash or otherwise;
+
+(iv) membership subscriptions to associations or groups and arising from agreements separate from the credit agreement, even though such subscriptions have an effect on the credit terms;
+
+(v) charges for insurance or guarantees; included are, however, those designed to ensure payment to the creditor, in the event of the death, invalidity, illness or unemployment of the consumer, of a sum equal to or less than the total amount of the credit togehter with relevant interest and other charges which have to be imposed by the creditor as a condition for credit being granted.
+
+3\. (*a*) Where credit transactions referred to in this Directive are subject to the provisions of national laws in force on 1 March 1990 which impose maximum limits on the annual percentage rate of charge for such transactions and, where such provisions permit standard costs other than those described in paragraph 2 (i) to (v) not to be included in those maximum limits, Member States may, solely in respect of such transactions, not include the aforementioned costs when calculating the annual percentage rate of charge, as stipulated in this Directive, provided that there is a requirement in the cases mentioned in Article 3 and in the credit agreement, that the consumer be informed of the amount and inclusion thereof in the payments to be made.
+
+(*b*) Member States may no longer apply point (a) from the date of entry into force of the single mathematical formula for calculating the annual percentage rate of charge in the Community, pursuant to the provisions of paragraph 5 (*c*).
+
+4\. (*a*) The annual percentage rate of charge shall be calculated at the time the credit contract is concluded, without prejudice to the provisions of Article 3 concerning advertisements and special offers.
+
+(*b*) The calculation shall be made on the assumption that the credit contract is valid for the period agreed and that the creditor and the consumer fulfil their obligations under the terms and by the dates agreed.
+
+5\. (*a*) As a transitional measure, notwithstanding the provisions of paragraph 1 (*a*), Member States which, prior to 1 March 1990, applied legal provisions whereby a mathematical formula different from that given in Annex II could be used for calculating the annual percentage rate of charge, may continue applying that formula within their territory for a period of three years starting from 1 January 1993.
+
+Member States shall take the appropriate measures to ensure that only one mathematical formula for calculating the annual percentage rate of charge is used within their territory.
+
+(*b*) Six months before the expiry of the time limit laid down in point (a) the Commission shall submit to the Council a report, accompanied by a proposal, which will make it possible in the light of experience, to apply a single Community mathematical formula for calculating the annual percentage rate of charge.
+
+(*c*) The Council shall, acting by a qualified majority on the basis of the proposal from the Commission, take a decision before 1 January 1996.
+
+6\. In the case of credit contracts containing clauses allowing variations in the rate of interest and the amount or level of other charges contained in the annual percentage rate of charge but unquantifiable at the time when it is calculated, the annual percentage rate of charge shall be calculated on the assumption that interest and other charges remain fixed and will apply until the end of the credit contract.
+
+7\. Where necessary, the following assumptions may be made in calculating the annual percentage rate of charge:
+
+—if the contract does not specify a credit limit, the amount of credit granted shall be equal to the amount fixed by the relevant Member State, without exceeding a figure equivalent to ECU 2 000;
+
+—if there is no fixed timetable for repayment, and one cannot be deduced from the terms of the agreement and the means for repaying the credit granted, the duration of the credit shall be deemed to be one year;
+
+—unless otherwise specified, where the contract provides for more than one repayment date, the credit will be made available and the repayments made at the earliest time provided for in the agreement’.
+
+3\. Article 2 (3) shall be replaced by the following:
+
+‘3. The provisions of Article 1*a* and of Articles 4 to 12 shall not apply to credit agreements or agreements promising to grant credit, secured by mortgage on immovable property, insofar as these are not already excluded from the Directive under paragraph 1 (*a*).’
+
+4\. The following subparagraph shall be added to Article 4 (2):
+
+‘(*c*) a statement of the amount, number and frequency or dates of the payments which the consumer must make to repay the credit, as well as of the payments for interest and other charges; the total amount of these payments should also be indicated where possible;
+
+(*d*) a statement of the cost items referred to in Article 1*a* (2) with the exception of expenditure related to the breach of contractual obligations which were not included in the calculation of the annual percentage rate of charge but which have to be paid by the consumer in given circumstances, together with a statement indentifying such circumstances. Where the exact amount of those items is known, that sum is to be indicated; if that is not the case, either a method of calculation or as accurate an estimate as possible is to be provided where possible’.
+
+5\. Article 5 shall be deleted.
+
+6\. The Annex shall become Annex I and the following point shall be added to paragraph 1:
+
+‘(ix) the obligation on the consumer to save a certain amount of money which must be placed in a special account’.
+
+7\. Annexes II and III attached hereto shall be added.
+
+*Article 2*
+
+1\. Member States shall take the measures necessary to cumply with this Directive not later than 31 December 1992 and shall forthwith inform the Commission thereof.
+
+2\. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.
+
+*Article 3*
+
+This Directive is addressed to the Member States.
+
+Done at Brussels, 22 February 1990.
+
+*For the Council*
+
+*The President*
+
+D.J. O'Malley
+
+*ANNEX*
+
+*‘Annex II*
+
+THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND, AND REPAYMENTS AND CHARGES ON THE OTHER:
+
+Meaning of letters and symbols:
+
+| K | is the number of a loan |
+|---|---|
+| K′ | is the number of a repayment or a payment of charges |
+| <sup>A</sup>K | is the amount of loan number K |
+| <sup>A′</sup>K′ | is the amount of repayment number K′ |
+|  | represents a sum |
+| m | is the number of the last loan |
+| m′ | is the number of the last repayment or payment of charges |
+| <sup>t</sup>K | is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos. 2 to m |
+| <sup>t</sup>K′ | is the interval expressed in years and fractions of a year between the date of loan No. 1 and those of repayments or payments of charges Nos. 1 to m′ |
+| i | is the percentage rate that can be calculated (either by algebra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise. |
+
+*Remarks*
+
+(*a*) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+
+(*b*) The starting date shall be that of the first loan.
+
+(*c*) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year.
+
+Annex III
+
+EXAMPLES OF CALCULATIONS
+
+**First example**
+
+Sum loaned S = ECU 1 000.
+
+It is repaid in a single payment of ECU 1 200 made 18 months, i.e. 1,5 years, after the date of the loan.
+
+| The equation becomes 1000 = | 1200 _______ (1 + i)<sup>1,5</sup> |  |
+|---|---|---|
+|  | or (1 + i)<sup>1,5</sup> | = 1,2 |
+|  | 1 + i | = 1,129243 |
+|  | i | = 0,129243 |
+
+This amount will be rounded down to 12,9% or 12,92% depending on whether the State or habitual practice allows the percentage to be rounded off to the first or second decimal.
+
+**Second example**
+
+The sum agreed is S = ECU 1 000 but the creditor retains ECU 50 for enquiry and administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is made 18 months after the date of the loan.
+
+| The equation becomes 950 = | 1200 _______ (1 + i)<sup>1,5</sup> |
+|---|---|
+
+<table><tr><td>or (1 + i)<sup>1,5</sup></td><td>=</td><td>1200<br>______<br>950</td><td>= 1,263157</td></tr><tr><td>1 + i</td><td>=</td><td colspan="2">1,16851 ...</td></tr><tr><td>i</td><td>=</td><td colspan="2">1,16851 ... rounded off to 16,9% or 16,85%.</td></tr></table>
+
+**Third example**
+
+The sum lent is ECU 1 000, repayable in two amounts each of ECU 600, paid after one and two years respectively.
+
+| The equation becomes 1000 | = | 600 _________ (1 + i) | + | 600 _________ (1 + i)<sup>2;</sup> |
+|---|---|---|---|---|
+
+it is solved by algebra and produces i = 0,1306623, rounded off to 13,1% or 13,07%.
+
+**Fourth example**
+
+The sum lent is ECU 1 000 and the amounts to be paid by the borrower are:
+
+| After three months | (0,25 years) | ECU 272 |
+|---|---|---|
+| After six months | (0,50 years) | ECU 272 |
+| After twelve months (1 year) | (1 year) | ECU 544 |
+|  |  | _________ |
+| Total |  | ECU 1 088 |
+
+The equation becomes:
+
+| 1000 | = | 272 _________ (1 + i)<sup>0.25</sup> | + | 272 _________ (1 + 0)<sup>0.50</sup> | + | 544 ______ (1 + i) |
+|---|---|---|---|---|---|---|
+
+This equation allows i to be calculated by successive approximations, which can be programmed on a ocket computer.
+
+The result is:
+
+i = 0,1321 rounded off 13,2 or 13,21%.’
+
+F263[Part III
+
+DIRECTIVE 98/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 1998
+
+amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,
+
+Having regard to the proposal of the Commission[^18].
+
+Having regard to the opinion of the Economic and Social Committee[^19],
+
+Acting in accordance with the procedure laid down in Article 189b of the Treaty[^20]
+
+Whereas it is desirable, in order to promote the establishment and functioning of the internal market and to ensure that consumers benefit from a high level of protection, that a single method of calculating the annual percentage rate of charge for consumer credit should be used throughout the Community;
+
+Whereas Article 5 of Directive 87/102/EEC[^21] provides for the introduction of a Community method or methods of calculating the annual percentage rate of charge;
+
+Whereas, in order to introduce this single method, it is desirable to draw up a single methematical formula for calculating the annual percentage rate of charge and for determining the credit cost items to be used in the calculation by indicating those costs which must not be taken into account;
+
+Whereas Annex II of Directive 87/102/EEC introduced a mathematical formula for the calculation of the annual percentage rate of charge and Article 1a(2) of that Directive provided for the charges to be excluded from the calculation of the ‘total cost of credit to the consumer’.
+
+Whereas during a transitional period of three years from January 1993, Member States which prior to 1 March 1990 applied laws which permitted the use of another mathematical formula for calculating the annual percentage rate of charge, were permitted to continue to apply such laws;
+
+Whereas the Commission has submitted a Report to the Council which makes it possible, in the light of experience, to apply a single Community mathematical formula for calculating the annual percentage rate of charge;
+
+Whereas, since no Member State has made use of Article 1a(3) of Directive 87/102/EEC by which certain costs were excluded from the calculation of the annual percentage rate of charge in certain Member States, it has become obsolete;
+
+Whereas accuracy to at least one decimal place is necessary;
+
+Whereas a year is presumed to have 365 or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months; whereas an equal month is persumed to have 30,41666 days;
+
+Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the "annual percentage rate of charge";
+
+Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+*Article 1*
+
+Directive 87/102/EEC shall be amended as follows:
+
+(*a*) Article 1a(1)(a) shall be replaced by the following:
+
+—in the Greek language version of the Directive:
+
+...
+
+—in the English language version of the Directive:
+
+‘The annual percentage rate of charge which shall be that rate, on an annual basis which equalizes the present value of all commitments (loans, repayments and charges), future or existing, agreed by the creditor and the borrower, shall be calculated in accordance with the mathematical formula set out in Annex II.’;
+
+(*b*) Article 1a(3) shall be deleted;
+
+(*c*) Article 1a(5) shall be deleted;
+
+(*d*) Article 3 shall be replaced by the following:
+
+‘Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising[^22], and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a
+
+(*e*) Annex II shall be replaced by the text of Annex I representative example if no other means is practicable.
+
+attached hereto;
+
+(*f*) Annex III shall be replaced by the text of Annex II attached hereto.
+
+*Article 2*
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than two years after the entry into force of this Directive. They shall inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompained by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. The Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.
+
+*Article 3*
+
+This Directive is addressed to the Member States.
+
+Done at Brussels, 16 February 1998.
+
+| *For the European Parliament* | *For the Council* |
+|---|---|
+| *The President* | *The President* |
+| J.M. GIL-ROBLES | J. CUNNINGHAM |
+
+ANNEX I
+
+*‘ANNEX II*
+
+**THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND AND REPAYMENTS AND CHARGES ON THE OTHER**
+
+Meaning of letters and symbols:
+
+K is the number of a loan
+
+K’ is the number of a repayment or a payment of charges
+
+A<sub>k</sub> is the amount of loan number K
+
+A’<sub>k’</sub> is the amount of repayment number K’
+
+∑ represents a sum
+
+m is the number of the last loan
+
+m’ is the number of the last repayment or payment of charges
+
+tk’ is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos 2 to m
+
+tk’ is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of repayments or payments of charges Nos 1 to m’
+
+*i* is the percentage rate that can be calculated (either by algegra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
+
+*Remarks:*
+
+(*a*) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+
+(*b*) The starting date shall be that of the first loan.
+
+(*c*) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months. An equal month is presumed to have 30,41666 days (i.e. 365/12).
+
+(*d*) The result of the calculation shall be expressed with an accuracy of at least one decimal place. When rounding to a particular decimal place the following rule shall apply:
+
+If the figure at the decimal place following this particular decimal place is greater than or equal to 5, the figure at this particular decimal place shall be increased by one.
+
+(*e*) Member States shall provide that the methods of resolution applicable give a result equal to that of the examples presented in Annex III.’
+
+ANNEX II
+
+‘ANNEX III
+
+**EXAMPLES OF CALCULATION**
+
+A. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON A CALENDAR BASIS (1 YEAR = 365 DAYS (OR 366 DAYS FOR LEAP YEARS)
+
+*First example*
+
+Sum loaned: S = ECU 1000 on 1 January 1994.
+
+It is repaid in a single payment of ECU 1200 made on 1 July 1995 i.e. 1 1/2 years or 546 (= 365 + 181) days after the date of the loan,
+
+<table><tr><td rowspan="2">The equation becomes: 1,000 =</td><td>1200</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>546/365</sup></td><td></td></tr></table>
+
+or:
+
+(1+ *i*)<sup>546/365</sup> = 1,2
+
+1+ *i* = 1,1296204
+
+*i* = 0,1296204
+
+This amount will be rounded to 13% (or 12,96% if an accuracy of two decimal places is preferred).
+
+*Second example*
+
+The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made on 1 July 1995.
+
+<table><tr><td rowspan="2">The equation becomes: 950 =</td><td>1200</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>546/365</sup></td><td></td></tr></table>
+
+or:
+
+(1+ *i*)<sup>546/365</sup> = 1,263157
+
+1+ *i* = 1,169026
+
+*i* = 0,169026
+
+This amount will be rounded to 16,9%.
+
+*Third example*
+
+The sum loaned is ECU 1,000, on 1 January 1994, repayable in two amounts, each ECU 600, paid after one and two years respectively.
+
+The equation becomes:
+
+<table><tr><td rowspan="2">1000 =</td><td>600</td><td rowspan="2">+</td><td>600</td><td rowspan="2">=</td><td>600</td><td rowspan="2">+</td><td>600</td><td></td></tr><tr><td>(1+ <i>i</i>)</td><td>(1+ <i>i</i>)<sup>730/365</sup></td><td>(1+ <i>i</i>)</td><td>(1+ <i>i</i>)<sup>2</sup></td><td></td></tr></table>
+
+It is solved by algebra and produces *i*=0,1306623 rounded to 13,1% (or 13,07% if an accuracy of two decimal places is preferred).
+
+*Fourth example*
+
+The sum loaned is S= ECU 1,000, on 1 January 1994, and the amounts to be paid by the borrower are:
+
+| After 3 months (0.25 years/90 days): |  | ECU 272 |
+|---|---|---|
+| After 6 months (0.5 years/181 days): |  | ECU 272 |
+| After 12 months (1 year/365 days): |  | ECU 544 |
+| Total: |  | ECU 1,088 |
+
+The equation becomes:
+
+<table><tr><td rowspan="2">1000 =</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>90/365</sup></td><td>(1+ <i>i</i>)<sup>181/365</sup></td><td>(1+ <i>i</i>)<sup>365/365</sup></td><td></td></tr></table>
+
+This equation allows *i* to be calculated by successive approximations, which can be programmed on a pocket calculation.
+
+The result is *i*=0,13226 rounded to 13.2% (or 13,23% if an accuracy of two decimal places is preferred).
+
+B. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON THE BASIS OF A STANDARD YEAR (1 YEAR = 365 DAYS OR 365,25 DAYS, 52 WEEKS, OR 12 EQUAL MONTHS)
+
+*First example*
+
+Sum loaned: S = ECU 1,000
+
+It is repaid in a single payment of ECU 1,200 made in 1.5 years (i.e. 1,5 x 365=547,5 days, 1,5 x 365,25 = 547,875 days, 1.5 x 366 = 549 days, 1,5 x 12 = 18 months, or 1,5 x 52 =78 weeks) after the date of the loan.
+
+The equation becomes:
+
+<table><tr><td rowspan="2">1000 =</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>547,5/365</sup></td><td>(1+ <i>i</i>)<sup>547,875/365</sup></td><td>(1+ <i>i</i>)<sup>18/12</sup></td><td>(1+ <i>i</i>)<sup>78/52</sup></td><td></td></tr></table>
+
+or:
+
+(1+ *i*)<sup>1,5</sup> = 1,2
+
+1+ *i* = 1,129243
+
+*i* = 0,129243
+
+This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
+
+*Second example*
+
+The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made 1.5 years after the date of the loan.
+
+The equation becomes:
+
+<table><tr><td rowspan="2">950 =</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td rowspan="2">=</td><td>1,200</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>547,5/365</sup></td><td>(1+ <i>i</i>)<sup>547,875/365</sup></td><td>(1+ <i>i</i>)<sup>18/12</sup></td><td>(1+ <i>i</i>)<sup>78/52</sup></td><td></td></tr></table>
+
+or:
+
+(1+ *i*)<sup>1,5</sup> = 1200/950 = 1,263157
+
+1+ *i* = 1,168526
+
+*i* = 0,168526
+
+This amount will be rounded to 16.9% (or 16.85% if an accuracy of two decimal places is preferred).
+
+*Third example*
+
+The sum loaned is ECU 1,000, repayable in two amounts, each of ECU 600, paid after one and two years respectively.
+
+The equation becomes
+
+<table><tr><td rowspan="2">1000 =</td><td>600</td><td rowspan="2">+</td><td>600</td><td rowspan="2">=</td><td>600</td><td rowspan="2">+</td><td>600</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>365/365</sup></td><td>(1+ <i>i</i>)<sup>730/365</sup></td><td>(1+ <i>i</i>)<sup>365,25/365,25</sup></td><td>(1+ <i>i</i>)<sup>730,5/365,52</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>600</td><td rowspan="2">+</td><td>600</td><td rowspan="2">=</td><td>600</td><td rowspan="2">+</td><td>600</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>12/12</sup></td><td>(1+ <i>i</i>)<sup>24/12</sup></td><td>(1+ <i>i</i>)<sup>52/52</sup></td><td>(1+ <i>i</i>)<sup>104/52</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>600</td><td rowspan="2">+</td><td>600</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>1</sup></td><td>(1+ <i>i</i>)<sup>2</sup></td><td></td></tr></table>
+
+It is solved by algebra and produces *i* = 0,13066 which will be rounded to 13,1% (or 13,07% if an accuracy of two decimal places is preferred).
+
+*Fourth example*
+
+The sum loaned is S = ECU 1,000 and the amounts to be paid by the borrower are:
+
+| After 3 months (0,25 years/13 Weeks/91,25 days/91,3125 days): |  | ECU 272 |
+|---|---|---|
+| After 6 months (0,5 years/26 Weeks/182,5 days/182,625 days): |  | ECU 272 |
+| After 12 months (1 year/52 weeks/365 days/365,25 days): |  | ECU 544 |
+| Total: |  | ECU 1,088 |
+
+The equation becomes:
+
+<table><tr><td rowspan="2">1000 =</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>91,25/365</sup></td><td>(1+ <i>i</i>)<sup>182,5/365</sup></td><td>(1+ <i>i</i>)<sup>365/365</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>91,3125/365,25</sup></td><td>(1+ <i>i</i>)<sup>182,625/365,25</sup></td><td>(1+ <i>i</i>)<sup>365,25/365,25</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>3/12</sup></td><td>(1+ <i>i</i>)<sup>6/12</sup></td><td>(1+ <i>i</i>)<sup>12/12</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>13/52</sup></td><td>(1+ <i>i</i>)<sup>26/52</sup></td><td>(1+ <i>i</i>)<sup>52/52</sup></td><td></td></tr></table>
+
+<table><tr><td rowspan="2">=</td><td>272</td><td rowspan="2">+</td><td>272</td><td rowspan="2">+</td><td>544</td><td></td></tr><tr><td>(1+ <i>i</i>)<sup>0,25</sup></td><td>(1+ <i>i</i>)<sup>0,5</sup></td><td>(1+ <i>i</i>)<sup>1</sup></td><td></td></tr></table>
+
+This equation allows *i* to be calculated by successive approximations, which can be programmed on a pocket calculator. The result is *i* = 0,13185 which will be rounded to 13,2% (or 13,19% if an accuracy of two decimal places is preferred).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F263: Inserted (20.09.2000) by *European Communities (Consumer Credit) Regulations 2000* (S.I. No. 294 of 2000), reg. 5 and Table part 1.
+
+## SECOND SCHEDULE — Enactments Repealed
+
+| Session and Chapter or Year and Number | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 63 & 64 Vict. c. 51 | Moneylenders Act, 1900 | The whole Act |
+| 1933, No. 36 | Moneylenders Act, 1933 | The whole Act |
+| 1946, No. 16 | Hire-Purchase Act, 1946 | The whole Act |
+| 1960, No. 15 | Hire-Purchase (Amendment) Act, 1960 | The whole Act |
+| 1980, No. 16 | Sale of Goods and Supply of Services Act, 1980 | Part III (sections 25 to 38) andsection 50 |
+| 1989, No. 16 | Central Bank Act, 1989 | Sections 28 and 136 |
+
+## THIRD SCHEDULE — Forms of Notice to be Included in Agreements
+
+Part I
+
+Form of Notice to be included on front page of a credit agreement.
+
+<table><tr><td colspan="2">IMPORTANT INFORMATION</td></tr><tr><td>1. Amount of credit advanced</td><td>: _____________________</td></tr><tr><td>2. Period of Agreement</td><td>: _____________________</td></tr><tr><td>3. Number of Repayment Instalments</td><td>: _____________________</td></tr><tr><td>4. Amount of Each Instalment</td><td>: _____________________</td></tr><tr><td>5. Total Amount Repayable</td><td>: _____________________</td></tr><tr><td>6. Cost of this credit (5 minus 1)</td><td>: _____________________</td></tr><tr><td>7. Annual Percentage Rate of Charge</td><td>: _____________________</td></tr><tr><td>N.B. You may withdraw from this agreement at any time within 10 days of receiving this agreement or a copy of it.</td><td></td></tr></table>
+
+Part II
+
+Form of Notice to be included on front page of a housing loan.
+
+<table><tr><td colspan="2">IMPORTANT INFORMATION</td></tr><tr><td>1. Amount of credit advanced</td><td>: _____________________</td></tr><tr><td>2. Period of Agreement</td><td>: _____________________</td></tr><tr><td>3. Number of Repayment Instalments</td><td>: _____________________</td></tr><tr><td>4. Amount of Each Instalment<sup>*</sup></td><td>: _____________________</td></tr><tr><td>5. Total Amount Repayable<sup>*</sup></td><td>: F264[€]____________________</td></tr><tr><td>6. Cost of this credit<sup>*</sup> (5 minus 1)</td><td>: _____________________</td></tr><tr><td>7. APR<sup>**</sup></td><td>: ___________________%</td></tr><tr><td>8. Amount of endowment premium<sup>*</sup> (if applicable) :</td><td>: F265[€]____________________</td></tr><tr><td>9. Amount of mortgage protection premium<sup>*</sup> (if applicable) :</td><td>: F266[€]____________________</td></tr><tr><td>10. Effect on amount of instalment of 1% increase in first year in interest rate<sup><i>*</i></sup></td><td>: _____________________</td></tr><tr><td>*as calculated at the time of making agreement.</td><td></td></tr><tr><td>**annual percentage rate of charge.</td><td></td></tr><tr><td>***this is the amount by which the instalment repayment will change in the event of a 1% increase in the interest rate on which the above calculations are based.</td><td></td></tr></table>
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F264, F265, F266: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 42, S.I. No. 575 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C17: Part I superseded (13.05.1996) by *Consumer Credit Act, 1995 (Section 36) Regulations 1996* (S.I. No. 128 of 1996), reg. 2 and sch.
+>
+> 2\. The forms of notice set out in Parts I and II in the Schedule to these Regulations shall be in lieu of the form of notice set out in Part 1 of the Third Schedule to the Consumer Credit Act, 1995 (No. 24 of 1995).
+>
+> C18: Part II superseded (13.05.1996) by *Consumer Credit Act, 1995 (Section 129) Regulations 1996* (S.I. No. 132 of 1996), reg. 2 and sch.
+>
+> 2\. The form of notice set out in the Schedule to these Regulations shall be in lieu of the form of notice set out in Part II of the Third Schedule to the Consumer Credit Act, 1995 (No. 24 of 1995).
+
+## FOURTH SCHEDULE — APR - METHOD OF CALCULATION
+
+F267[**THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND AND REPAYMENTS AND CHARGES ON THE OTHER**
+
+Meaning of letters and symbols:
+
+K is the number of a loan
+
+K’ is the number of a repayment or a payment of charges
+
+A<sub>k</sub> is the amount of loan number K
+
+A’<sub>k’</sub> is the amount of repayment number K’
+
+∑ represents a sum
+
+m is the number of the last loan
+
+m’ is the number of the last repayment or payment of charges
+
+tk is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos 2 to m
+
+tk’ is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of repayments or payments of charges Nos 1 to m’
+
+*i* is the percentage rate that can be calculated (either by algegra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
+
+*Remarks:*
+
+(*a*) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+
+(*b*) The starting date shall be that of the first loan.
+
+(*c*) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months. An equal month is presumed to have 30,41666 days (i.e. 365/12).
+
+(d) The result of the calculation shall be expressed with an accuracy of at least one decimal place. When rounding to a particular decimal place the following rule shall apply:
+
+If the figure at the decimal place following this particular decimal place is greater than or equal to 5, the figure at this particular decimal place shall be increased by one.
+
+(*e*) Member States shall provide that the methods of resolution applicable give a result equal to that of the examples presented in Annex III.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F267: Substituted (20.09.2000) by *European Communities (Consumer Credit) Regulations 2000* (S.I. No. 294 of 2000), reg. 5 and Table part 2.
+
+## FIFTH SCHEDULE — Notice to be Included in Hire-Purchase Agreement
+
+*Right of hirer to terminate agreement*
+
+1\. The hirer may put an end to this agreement by giving notice of termination in writing to any person who is entitled to collect or receive the hire-rent.
+
+2\. The hirer must then either—
+
+(*a*) (i) pay any instalments which are in arrear at the time when he gives notice, and
+
+(ii) if, when the hirer has paid those instalments, the total amount F268[which he has paid] under the agreement is less than (*here insert the minimum amount the hirer is required to pay under section 63 (2) (a)*) the hirer must also pay enough to make up that sum, or
+
+F269[(*b*) purchase the goods by paying the difference between the amount already paid under this agreement and either the hire-purchase price reduced in arrordance with section 52 or 53 of the Consumer Credit Act, 1995, or such lesser amount if specified in this agreement.]
+
+3\. Where a hirer has not purchased the goods and the goods have been damaged owing to the hirer having failed to take reasonable care of them, the owner may sue the hirer for the amount of the damage unless that amount can be agreed between the hirer and the owner.
+
+4\. The hirer should see whether this agreement contains provisions allowing the hirer to put an end to this agreement on terms more favourable to him than those just mentioned. If it does he may put an end to the agreement on those terms.
+
+*Restriction of owner's right to recover goods*
+
+1\. Without the hirer's consent the owner has no authority to enter the hirer's premises for the purpose of taking back the goods (other than a motor vehicle in the circumstances mentioned in *paragraph 2* below).
+
+2\. The owner of a motor vehicle is entitled to enforce any right which he may have under this agreement to enter any land of the hirer other than his home or any buildings attached thereto.
+
+3\. After (*here insert the amount calculated in accordance with section 64*) has been paid, then, unless the hirer has put an end to the agreement without exercising the option to purchase the goods, the owner of the goods cannot take them back from the hirer without the hirer's consent unless the owner has obtained a court order or is taking a motor vehicle back in accordance with *paragraph 4* below.
+
+4\. Where the owner has made an application to the court for an order to recover possession of the motor vehicle, he may, if the vehicle has been abandoned or has been left unattended in circumstances likely to result in damage to, or more than normal depreciation in the value of the vehicle, and if the agreement so provides, take back the vehicle and retain possession of it during the ensuing period prior to the making by the court of an order for the purpose of protecting the vehicle from damage or depreciation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F268: Inserted (8.08.1996) by *Consumer Credit Act, 1995 (Section 60) (No. 2) Regulations 1996* (S.I. No. 246 of 1996), reg. 2(a).
+>
+> F269: Substituted (8.08.1996) by *Consumer Credit Act, 1995 (Section 60) (No. 2) Regulations 1996* (S.I. No. 246 of 1996), reg. 2(b).
+
+## SIXTH SCHEDULE — Record of Repayments
+
+Form to be included in a repayment book in respect of a F270[high cost credit agreement].
+
+SCHEDULE
+
+<table><tr><td></td><td></td><td></td><td>F271[€]</td></tr><tr><td colspan="3">Total Amount Repayable</td><td>_______________</td></tr><tr><td>Date</td><td>Amount of Repayment</td><td>Balance Now Due</td><td>Signature</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F270, F271: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 43(a), (b), S.I. No. 575 of 2022.
+
+## SEVENTH SCHEDULE — Consent to Collect Repayments Between the Hours of 8.00 a.m. and 10.00 a.m.
+
+I [ OF ][^23] HEREBY CONSENT TO [ ][^24] OR AGENT COLLECTING REPAYMENTS BETWEEN THE HOURS OF 8.00 A.M. AND 10.00 A.M.
+
+Signed:__________________________
+
+Date:__________________________
+
+I UNDERSTAND THAT I MAY CANCEL THIS CONSENT AT ANY TIME BY NOTIFYING THE LENDER EITHER BY USING THE CANCELLATION FORM BELOW OR BY WRITING TO THE LENDER OR HIS AGENT
+
+Cancellation of Consent to Collect Repayments Between the Hours of 8.00 a.m. and 10.00 a.m.
+
+TO [ ]<sup>2</sup>
+
+I [ ]<sup>1</sup> HEREBY WITHDRAW THE CONSENT I HAVE GIVEN FOR REPAYMENTS TO BE COLLECTED BETWEEN THE HOURS OF 8.00 A.M. AND 10.00 A.M.
+
+Signed:__________________________
+
+Date:__________________________
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F272: Substituted (14.11.2022) by *Consumer Credit (Amendment) Act 2022* (13/2022), s. 15(1) and sch. 1 part 1 item 44, S.I. No. 575 of 2022.
+
+## EIGHTH SCHEDULE — Amendment of Pawnbrokers Act, 1964
+
+Part I
+
+| Provision of Pawnbrokers Act, 1964 amended | Extent of Amendment |
+|---|---|
+| (1) | (2) |
+| Section 2 | The substitution of “£5,000” for “fifty pounds” in paragraphs (*a*) and (*b*) of the definition of “pawnbroker”. |
+| Section 3 | The substitution of “£5,000” for “fifty pounds”. |
+| Section 11 | The deletion of subsections (3), (4) and (5). |
+| Section 12 | The substitution of the following section: |
+|  | “12. (1) A person who forges or falsifies or attempts to forge or falsify a licence shall be guilty of an offence. |
+|  | (2) A person, other than the Director or an officer of the Director acting on behalf of the Director, who alters or attempts to alter a licence shall be guilty of an offence.”. |
+| Section 14 (2) | The substitution of the following subsection: |
+|  | “(2) A pawn ticket shall contain the particulars set out in the Third Schedule and it shall be signed by both the pawnbroker and the pawner.”. |
+| Section 15 (2) (*a*) | The substitution of the following paragraph: |
+|  | “(*a*) Where a pawnbroker makes a special contract with a pawner, the pawnbroker shall at the time of the pawning give to the pawner a special contract pawn-ticket which shall contain the particulars set out in the Third Schedule suitably modified to take account of the conditions applicable to the special contract, including any modification to the redemption period (being a period of not less than 4 months), and the pawn-ticket shall be signed by the pawnbroker and the pawner.”. |
+| Section 16 (1) (*b*) | The substitution of the following paragraph: |
+|  | “(*b*) use, as occasion requires, the document set out in the Third Schedule in the form therein prescribed.”. |
+| Section 20 | The deletion of subsections (1) and (2). |
+| Section 20 (3) | The substitution of “Part III” for “Part IV”. |
+| Section 20 (4) | The substitution of the following subsection: |
+|  | “(4) Where a pawnbroker fails or refuses to give a receipt in accordance with subsection (3) of this section, he shall be guilty of an offence.”. |
+| Section 21 (4) | The substitution of the following subsection: |
+|  | “(4) A pledge shall further continue redeemable until it is disposed of as provided in this Act although the redemption period has expired.”. |
+| Section 27 | The substitution of the following section: |
+|  | “27. if, with respect to a pledge a pawnbroker— (*a*) does not *bona fide* in accordance with this Act sell the pledge, or (*b*) enters in his sale book a pledge as sold for a lesser sum than that for which it is sold, he shall be guilty of an offence.”. |
+| Section 28 (1) | The substitution of “a fee of 25 pence” for “the fee prescribed in Part V of the Fifth Schedule”. |
+| Section 29 | The substitution of the following section: |
+|  | “29. A pledge may, if not redeemed within the redemption period, be disposed of by the pawnbroker by sale by public auction held in accordance with this Act, but not otherwise.”. |
+| Section 32 | The substitution of the following subsection: |
+|  | “(1) The person who holds a pawn ticket in respect of a pledge may, at any time before the expiration of 12 months from the date on which the goods are sold, request the pawnbroker with whom the goods were pawned to produce the sale book and catalogue containing the entries of the sale and may, on payment of a fee of 25 pence, inspect such entries.”. |
+| Section 33 (1) | The substitution of the following subsection: |
+|  | “(1) Where the amount obtained on the sale of a pledge exceeds the amount of the loan given on the pledge with the addition of the interest and lawful charges thereon and the fees paid by the pawnbroker in respect of the sale, the holder of the pawn ticket in respect of the pledge, may, subject to the provisions of this Act, demand and obtain the amount of the excess from the pawnbroker at any time before the expiration of 12 months from the date of the sale.”. |
+| Section 45 | The substitution of “£250” for “ten pounds”. |
+| Section 47 | The substitution of the following section: |
+|  | “47. (1) A person who is guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding £1,500, or to imprisonment for a term not exceeding 12 months, or to both. (2) A person who, after conviction of an offence under this Act, continues to contravene the provision concerned, shall be guilty of an offence on each day on which the contravention continues and for each such offence shall be liable on summary conviction to a fine not exceeding £150.”. |
+|  | The insertion after section 47 of the following section: |
+|  | “48. The annual percentage rate of charge (‘APR’) shall be calculated in accordance with the *Fourth Schedule* to the *Consumer Credit Act, 1995*, or such other method of calculation as the Minister for Enterprise and Employment may specify in regulations made under that Act.”. |
+| Sixth Schedule, Part I | The substitution of “£1,500” for “fifty pounds”. |
+| Sixth Schedule, Part II | The substitution of “£1,500” for “£50”. |
+
+Part II
+
+“SECOND SCHEDULE
+
+Notice to be Exhibited in Every Pawnbrokers Premises Pawnbrokers Act, 1964
+
+*Interest on Loans*
+
+1\. Interest shall be charged on any loan made under the Pawnbrokers Act, 1964, at the rate of pence in respect of every £1.00 lent for each month during which the pledge remains in pawn.
+
+These charges are equivalent to an annual percentage rate of per cent.
+
+*Notes:*
+
+(1) If the term of the loan is less than one month it will be charged for as one month.
+
+(2) After the first month, a part of a month exceeding 7 days will be charged for as a month and a part of a month not exceeding 7 days will not be charged for.
+
+(3) Where the loan is less than £1.00, it will be charged for as £1.00. Where it exceeds £1.00 or any even multiple of £1.00 any odd fraction of £1.00 will not be charged for.
+
+| 2. for valuation fee on each £5 or part of £5 value put by pawnbroker on the pledge | pence. |
+|---|---|
+
+*Charge on Inspection of Sale Book and Auctioneer's Catalogue*
+
+| 3. for the inspection of the entry of a sale | Pence. |
+|---|---|
+
+*Charge on Form of Declaration*
+
+| 4. for a form of declaration | pence. |
+|---|---|
+
+*Redemption and Disposal of Pledges*
+
+5\. (1) Pledges, other than those made up wholly or partly of gold, silver or other precious metal or of any precious or semi-precious stone must be redeemed within 6 months and 7 days from the date of pawning but, if the interest is paid at any time within the above period, the redemption period will be extended for a further period of 6 months and 7 days from the date up to which the interest is paid. Pledges made up wholly or partly of gold, silver or other precious metal or of any precious or semi-precious stone must be redeemed within one year and 7 days from the date of pledging. However, the period for redemption of any pledge in respect of which a special contract is made under section 15 (as amended by the *Consumer Credit Act, 1995*) of the Pawnbrokers Act, 1964, shall be 4 months or such longer period as may be specified in the special contract pawn ticket.
+
+(2) At the end of the redemption period pledges may be sold by the pawnbroker by sale by public auction in the manner provided by law and not otherwise. A pledge may, however, be redeemed at any time before the day of sale.
+
+*Surplus on Sale of Pledge*
+
+6\. Within 12 months after the sale by public auction of a pledge, the pawner may inspect the account of the sale in the pawnbroker's book and in the auctioneer's catalogue, on payment of a fee of 25 pence and receive any surplus produced by the sale. But a deficit on the sale of one pledge may, in certain circumstances, be set off against a surplus on another.
+
+*Damage to Pledge*
+
+7\. (1) If a pledge is destroyed or damaged by fire, the pawnbroker, if the pawn-ticket is tendered to him before the expiry of the period within which the pledge would have been redeemable, will be bound to pay an amount equal to one-half of the amount of the loan.
+
+(2) If a pledge, through default, neglect or wilful misbehaviour on the part of the pawnbroker, is lost, destroyed or is of less value at the time of redemption than it was at the time of pawning, the owner may apply to the District Court for compensation and the Court may, if it thinks fit, award compensation in respect of the damage, and the amount so awarded shall be deducted from the sum payable to the pawnbroker, or as the case may require, shall be paid by the pawnbroker in such manner as the Court may direct.
+
+*Pawnbrokers Act, 1964*
+
+*Loss of Pawn Ticket*
+
+8\. If a pawn ticket is lost, mislaid or stolen, the pawner should at once apply to the pawnbroker for a, form of declaration to be made before a Notary Public, a Commissioner for Oaths or a Peace Commissioner; otherwise the pawnbroker will be bound to deliver the pledge to any person who produces the pawn ticket to him and claims to redeem the pledge.
+
+Part III
+
+THIRD SCHEDULE
+
+Pawn Tickets, etc.
+
+Part I
+
+*Pawn Ticket*
+
+(The appropriate particulars are required to be entered by the pawnbroker in the respective blank spaces before signature.)
+
+Pledge No.
+
+Pawned with (name of pawnbroker)
+
+of (address of pawnbroker)
+
+this ______ day of, [month], [year],
+
+by (name of pawner, as entered in the Pledge Book)
+
+of (address of pawner, as entered in the Pledge Book)
+
+(Description of pledge)
+
+(Amount of the loan)
+
+| Terms of the special contract<sup>*</sup> | <sup>*</sup>To be printed on the front of the ticket or partly on the front and partly on the back. |
+|---|---|
+
+1\. The pawnbroker charges—
+
+(*a*) For this ticket_______
+
+(*b*) Interest at the rate per month of (APR). (If the term of the loan is less than one month, it will be charged for as one month. After the first calendar month, a part of the month exceeding 7 days will be charged for as a month and a part of a month not exceeding 7 days will not be charged for).
+
+(*c*) The charge for storage of this pledge will be ________per month or any part of a month.
+
+2\. This pledge is pawned for the period of ________ months.
+
+3\. After the expiration of that time the pledge may be sold by auction by the pawnbroker. But it may be redeemed by the pawner at any time before the day of sale.
+
+4\. Within 12 months after sale the pawner may, on payment of a fee of 25 pence, inspect the account of the sale in the pawnbroker's book and in the auctioneer's catalogue and receive any surplus produced by the sale. If, however, within 6 months before or after that sale, the sale of another pledge or pledges of the same person has resulted in a deficit the pawnbroker is entitled to set off the deficit against the surplus.
+
+5\. If a pledge, through default, neglect or wilful misbehaviour on the part of the pawnbroker, is lost, destroyed or is of less value at the time of redemption than it was at the time of pawning, the pawner may apply to the District Court for an order for compensation. The amount of compensation, if any, awarded shall be deducted from the sum payable to the pawnbroker or, as the case may require, shall be paid by the pawnbroker in such manner as the Court may direct.
+
+6\. If the pledge is destroyed or damaged by fire the pawnbroker, if the pawn ticket is tendered to him before the expiry of the period within which the pledge would have been redeemable, will be bound to pay an amount equal to one-half of the amount of the loan, unless otherwise agreed upon by the pawner and pawnbroker.
+
+7\. If this ticket is lost or mislaid the pawner should at once apply to the pawnbroker for a form of declaration; otherwise the pawnbroker will be bound to deliver the pledge to any person who produces this ticket to him and claims to redeem the pledge.
+
+Signed_____________________Pawnbroker
+
+Signed_____________________Pawner
+
+Part II
+
+*Receipt*
+
+<table><tr><td></td><td>Date</td><td></td></tr><tr><td colspan="3">Received on redemption of Pledge No________</td></tr><tr><td></td><td></td><td>£</td></tr><tr><td>Amount of Loan</td><td></td><td></td></tr><tr><td>Interest</td><td></td><td></td></tr><tr><td>Other Charges</td><td></td><td></td></tr><tr><td>(to be specified)</td><td></td><td></td></tr><tr><td></td><td></td><td>______</td></tr><tr><td></td><td>Total:</td><td></td></tr><tr><td></td><td></td><td>______</td></tr><tr><td colspan="3">_______________________________________________</td></tr><tr><td></td><td>Pawnbroker”</td><td></td></tr></table>
+
+[^1]: <sup>(1)</sup> O.J. No. L42,12.2.87, p. 48
+[^2]: <sup>(2)</sup> O.J. No. C30, 30.1.1997, p. 94.
+[^3]: <sup>(3)</sup> O.J. No. L101, 1.4.98, p 17.
+[^4]: <sup>(1)</sup>O.J. No. L 119, 4.5.2016, p. 1.
+[^5]: OJ No. L 119, 4.5.2016, p.1
+[^6]: <sup>(1)</sup> OJ No C 80, 27.3.1979, p. 4 and OJ No C 183, 10.7.1984, p. 4.
+[^7]: <sup>(2)</sup> OJ No C 242, 12.9.1983, p. 10.
+[^8]: <sup>(3)</sup> OJ No C 113, 7.5.1980, p. 22.
+[^9]: <sup>(4)</sup> OJ No C 92, 25.4.1975, p. 1 and OJ No C 133, 3.6.1981, p. 1.
+[^10]: <sup>(1)</sup> OJ No L 379, 30.12.1978, p.1.
+[^11]: <sup>(2)</sup> OJ No L 247, 16.9.1984, p.1.
+[^12]: <sup>(1)</sup> OJ No L 250, 19.9.1984, p. 17.
+[^13]: <sup>(1)</sup> OJ No L 322, 17.12.1977, p. 30.
+[^14]: <sup>(1)</sup> OJ No C 155,14.6.1988, p. 10.
+[^15]: <sup>(2)</sup> OJ No C 96, 17.4.1989, p. 87 and OJ No C 291, 20.11.1989, p. 50.
+[^16]: <sup>(3)</sup> OJ No C 337, 31.12.1988, p. 1.
+[^17]: <sup>(4)</sup> OJ No L 42, 12.2.1987, p. 48.
+[^18]: <sup>(1)</sup> O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9.
+[^19]: <sup>(2)</sup> O.J. No. C30, 30.1.1997, p. 94.
+[^20]: <sup>(3)</sup> Opinion of the European Parliament of 20 February 1997 (O.J. No. C85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997.
+[^21]: <sup>(4)</sup> O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC (O.J. No. L61, 10.3.1990, p. 14).
+[^22]: <sup>(*)</sup> O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC (O.J. No. L280, 23.10.1997, p.18).
+[^23]: Insert name and address of borrower.
+[^24]: Insert name of F272[high cost credit provider].

@@ -1,0 +1,1419 @@
+---
+title: "Labour Services Act, 1987"
+identifier: "eli/1987/act/15"
+type: act
+jurisdiction: ie
+language: en
+number: 15
+year: 1987
+date: 1987-07-18
+last_amended: 2013-06-05
+status: repealed
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1987/act/15/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1987/act/15/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Labour Services Act, 1987
+
+AN ACT TO MAKE FURTHER PROVISION IN RELATION TO THE PROVISION OF TRAINING AND RE-TRAINING FOR EMPLOYMENT, THE PROVISION OF WORK EXPERIENCE AND THE ESTABLISHMENT OF EMPLOYMENT SCHEMES AND JOB PLACEMENT SERVICES, FOR THOSE AND OTHER PURPOSES TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS AN FORAS ÁISEANNA SAOTHAIR AND TO DEFINE ITS FUNCTIONS, TO PROVIDE FOR THE DISSOLUTION OF AN CHOMHAIRLE OILIÚNA AND THE YOUTH EMPLOYMENT AGENCY AND THE WINDING UP OF THE NATIONAL MANPOWER SERVICE OF THE MINISTER FOR LABOUR AND THE TRANSFER OF THEIR FUNCTIONS TO AN FORAS ÁISEANNA SAOTHAIR AND TO PROVIDE FOR CONNECTED MATTERS. [18*th July*, 1987]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred (1.05.2010) by *Employment Programmes and Services and Skills Training (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 187 of 2010), arts. 2, 3, subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Education and Science.
+>
+> (2) References to the Department of Enterprise, Trade and Employment contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be read as references to the Department of Education and Science.
+>
+> 3\. (1) The functions vested in the Minister for Enterprise, Trade and Employment by or under— ...
+>
+> (c) the Labour Services Act (No. 15 of 1987), and
+>
+> ...
+>
+> are transferred to the Minister for Education and Science.
+>
+> (2) References to the Minister for Enterprise, Trade and Employment contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be read as references to the Minister for Education and Science.
+>
+> (3) The functions of the Minister for Education and Science under sections 27(3) and 32(1) of the Industrial Training Act 1967 and paragraph 2(2) (inserted by section 9 of the Labour Services (Amendment) Act 2009 ) of Part I of the Schedule to the Labour Services Act 1987 are transferred to the Minister for Enterprise, Trade and Employment.
+>
+> C2: Act included in collective citation (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 13(2), S.I. No. 12 of 2010.
+>
+> **Short title, collective citation, construction and commencement.**
+>
+> **13.**— ...
+>
+> (2) The Labour Services Acts 1987 and 1999 and this Act may be cited together as the Labour Services Acts 1987 to 2009.
+>
+> ...
+>
+> Act also included in collective citation (26.02.2001) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 1(3)(d), S.I. No. 57 of 2001.
+>
+> C3: Enforcement of Act extended (1.09.1994) by *Labour Services Act 1987—Apprenticeship Rules 1994* (S.I. No. 228 of 1994), rule 11.
+>
+> **11. Prosecution of Offences**
+>
+> An offence under the Industrial Training Act 1967 or the Labour Services Act 1987 or this Statutory Instrument may be prosecuted by an Foras.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: functions transferred from Minister for and Department of Labour to Minister for and Department of Industry and Commerce (20.01.1993) by *Labour (Transfer of Departmental Administration and Ministerial Functions) Order 1993* (S.I. No. 18 of 1993).
+
+## 1. Definitions.
+
+**1.**—(1) In this Act—
+
+“the Act of 1967” means the Industrial Training Act, 1967;
+
+F1[‘Act of 1995’ means the Ethics in Public Office Act 1995;]
+
+“the Agency” means the Youth Employment Agency formed and registered under the Youth Employment Agency Act, 1981;
+
+“An Chomhairle” means An Chomhairle Oiliúna;
+
+“An Foras” means the body established by *section 3*;
+
+“the establishment day” means the day appointed by the Minister under *section 2*;
+
+“the Manpower Service” means the National Manpower Service of the Minister;
+
+F1[‘material interest’ shall be construed in accordance with section 2(3) of the Act of 1995;]
+
+“the Minister” means the Minister for Labour;
+
+“recognised trade unions and staff associations” means trade unions and staff associations recognised by An Foras for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions, of employees;
+
+F1[‘serious wrongdoing’ includes breach of duty by a member or member of staff of An Foras, or a consultant, adviser or other person, in relation to An Foras.]
+
+“the subsidiary” means the subsidiary (within the meaning of the Companies Act, 1963), if any, of An Foras acquired, or formed and registered, by it pursuant to *section 4 (6)*.
+
+(2) (*a*) In this Act a reference to a section or schedule is to a section of, or the *Schedule* to, this Act unless it is indicated that reference to some other enactment is intended.
+
+(*b*) In this Act a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (20.01.2010) by *Labour Services (Amendment Act) 2009* (38/2009), s. 2, S.I. No. 12 of 2010.
+
+## 2. Establishment day.
+
+**2**.—The Minister may by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (1.01.1988) by *Labour Services Act 1987 (Establishment Day) Order 1987* (S.I. No. 248 of 1987).
+>
+> 2\. The 1st day of January, 1988, is hereby appointed to be the establishment day for the purposes of the Labour Services Act, 1987 (No. 15 of 1987).
+
+## 3. Establishment of An Foras Áiseanna Saothair.
+
+**3.**—(1) On the establishment day there shall stand established a body to be known as An Foras Áiseanna Saothair, and in this Act referred to as “An Foras”, to perform the functions assigned to it by this Act.
+
+(2) The provisions of the *Schedule* shall have effect with respect to An Foras.
+
+## 4. Functions of An Foras.
+
+**4**.—(1) The principal functions of An Foras shall be—
+
+(*a*) to provide, or arrange for, encourage and foster the provision of, training and re-training for employment and to assist (whether financially or otherwise) in, and co-ordinate, the provision of such training by others,
+
+(*b*) F2[...]
+
+(*c*) F2[...]
+
+(*d*) F2[...]
+
+(*e*) F2[...]
+
+(*f*) F2[...]
+
+(*g*) F2[...]
+
+(*h*) to collect, collate, prepare, publish and distribute from time to time information (including statistics and forecasts and extrapolations of trends and developments) in relation to services or activities provided or carried on by or on behalf of An Foras and such other matters respecting its functions as the Minister may specify and to publish and distribute analyses of the information aforesaid prepared by or on behalf of An Foras,
+
+(*i*) to furnish, whenever it so thinks fit or is so requested by the Minister, advice to the Minister in relation to any matter connected with the functions or activities of, or the services provided by, An Foras, and
+
+(*j*) to carry out, or arrange for the carrying out, of research into any matter related to the functions or activities of, or the services provided by, An Foras.
+
+F3[(2) Subject to the F4[Qualifications and Quality Assurance (Education and Training) Act 2012], An Foras shall also have and enjoy all those functions that were vested in An Chomhairle, the Agency and the Manpower Service immediately before the establishment day and are not specified in subsection (1).]
+
+(3) An Foras shall have all such powers as are necessary or expedient for the performance of its functions.
+
+(4) An Foras may, in respect of persons who are ordinarily resident in the State and who avail of or participate in the services or activities provided or carried on by An Foras in the State—
+
+(*a*) provide, or arrange for the provision of, outside the State any of the services that it is authorised by this section or under *section 5* to provide, or arrange for the provision of, in the State, and
+
+(*b*) carry on, or arrange for the carrying on of, outside the State any of the activities that it is authorised by this section or under *section 5* to carry on in the State.
+
+(5) An Foras may, with the consent of the Minister, provide in the State any of its services, or carry on in the State any of its activities, for the benefit of persons who are not ordinarily resident in the State.
+
+(6) (*a*) An Foras may, with the consent of the Minister and the Minister for Finance, outside the State—
+
+(i) perform any of the functions, provide any of the services or carry on any of the activities that it is authorised by this Act to perform, provide or carry on in the State, and
+
+(ii) provide advisory and consultancy services in relation to—
+
+(I) the performance of functions outside the State by other persons,
+
+(II) the provision of services outside the State by other persons, or
+
+(III) the carrying on of activities outside the State by other persons,
+
+being functions, services and activities similar to those that An Foras is authorised by this Act to perform, provide and carry on in the State.
+
+(*b*) Functions, services and activities specified in *paragraph (a)* shall be performed, provided and carried on through one subsidiary (within the meaning of the Companies Act, 1963) that is wholly owned by An Foras and, accordingly, An Foras may, with the consent of the Minister and the Minister for Finance, for the purpose of such performance, provision and carrying on, acquire or form and register one, but not more than one, subsidiary (within the meaning aforesaid).
+
+(*c*) The memorandum and articles of association of the subsidiary shall be in such form as may be determined by An Foras with the consent of the Minister and the Minister for Finance.
+
+(*d*) The Minister may give a direction in writing to An Foras on any matter relating to the subsidiary or the policies, programmes or activities of the subsidiary and An Foras shall comply or, as may be appropriate, secure compliance with the direction.
+
+(*e*) A direction under this subsection in relation to the disposal of any assets or profits of the subsidiary shall not be given without the consent of the Minister for Finance.
+
+(7) (*a*) An Foras or the subsidiary, as the case may be, shall make such charges as it considers appropriate in consideration of the performance of a function, the provision of a service or the carrying on of an activity pursuant to *subsection (5)* or (*6*) but the charges shall not be less than the cost of the performance of the function, the provision of the service or the carrying on of the activity, as the case may be.
+
+(*b*) The amount of a charge under this section may be recovered by An Foras or the subsidiary, as the case may be, from the person on whom it was made as a simple contract debt in any court of competent jurisdiction.
+
+(8) In this section “assist” includes advise and consult and “assistance” shall be construed accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Deleted (1.01.2012) by *Social Welfare and Pensions Act 2010* (37/2010), s. 30, S.I. No. 703 of 2011, subject to transitional provision in s. 35.
+>
+> F3: Substituted (26.02.2001) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 62, S.I. No. 57 of 2001.
+>
+> F4: Substituted (5.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012* (28/2012), s. 86 and sch. 3 item 2, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions under subs. (6) transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E3: Power of Minister to advance to An Foras sums for expenditure under section provided (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 28(1), S.I. No. 581 of 2010.
+>
+> E4: Power of Minister to request certain information under section and duty of An Foras to comply provided (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 29, S.I. No. 581 of 2010.
+>
+> E5: Power of Minister to give directions under section and duty of An Foras to comply provided (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 30(1)-(4), S.I. No. 581 of 2010.
+>
+> E6: Power pursuant to subss. (2) and (3) exercised (14.10.2009 with retrospective effect from 8.08.1969) by *An Foras Áiseanna Saothair (Closed) (Amendment) Superannuation Scheme 2009* (S.I. No. 420 of 2009).
+>
+> E7: Power pursuant to subss. (2) and (3) exercised (14.10.2009 with retrospective effect from 14.11.2000) by *An Foras Áiseanna Saothair (Closed) (Amendment) Superannuation Scheme 2009* (S.I. No. 414 of 2009).
+>
+> E8: Power pursuant to subss. (2) and (3) exercised (24.09.2008 with retrospective effect from 1.01.1988) by *FÁS Spouses and Childrens Contributory Pension Scheme 2008* (S.I. No. 403 of 2008).
+>
+> E9: Power pursuant to subss. (2) and (3) exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair (Closed) Superannuation Scheme 1998* (S.I. No. 515 of 1998).
+>
+> E10: Power pursuant to subss. (2) and (3) exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair Superannuation Scheme 1998* (S.I. No. 514 of 1998).
+>
+> E11: Power pursuant to subs. (2) exercised (1.05.1997) by *Labour Services Act 1987 Apprenticeship Rules 1997* (S.I. No. 168 of 1997).
+>
+> E12: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Printing and Paper Committee) (Amendment) Order 1997* (S.I. No. 51 of 1997).
+>
+> E13: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Engineering Committee) (Amendment) Order 1997* (S.I. No. 50 of 1997).
+>
+> E14: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Food, Drink and Tobacco Committee) (Amendment) Order 1997* (S.I. No. 49 of 1997).
+>
+> E15: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Textiles, Clothing and Footwear Committee) (Amendment) Order 1997* (S.I. No. 48 of 1997).
+>
+> E16: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Chemical and Allied Products Committee) (Amendment) Order 1997* (S.I. No. 47 of 1997).
+>
+> E17: Power pursuant to subs. (2) exercised (30.01.1997) by *Industrial Training (Construction Committee) (Amendment) Order 1997* (S.I. No. 46 of 1997).
+>
+> E18: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Textiles, Clothing and Footwear Committee) Order 1989* (S.I. No. 143 of 1989).
+>
+> E19: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Chemical and Allied Products Committee) (Amendment) Order 1989* (S.I. No. 142 of 1989).
+>
+> E20: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Printing and Paper Committee) (Amendment) Order 1989* (S.I. No. 140 of 1989).
+>
+> E21: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Construction Committee) (Amendment) Order 1989* (S.I. No. 139 of 1989).
+>
+> E22: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Food, Drink and Tobacco Committee) (Amendment) Order 1989* (S.I. No. 138 of 1989).
+>
+> E23: Power pursuant to subs. (2) exercised (15.06.1989) by *Industrial Training (Engineering Committee) (Amendment) Order 1989* (S.I. No. 137 of 1989).
+>
+> E24: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1999 for period to 31.12.1999) by *Industrial Training Levy (Textiles Industry, 1999 Scheme) Order 1998* (S.I. No. 474 of 1998).
+>
+> E25: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1999 for period to 31.12.1999) by *Industrial Training Levy (Engineering Industry, 1999 Scheme) Order 1998* (S.I. No. 473 of 1998).
+>
+> E26: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1999 for period to 31.12.1999) by *Industrial Training Levy (Chemical and Allied Products Industry, 1999 Scheme) Order 1998* (S.I. No. 472 of 1998).
+>
+> E27: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1999 for period to 31.12.1999) by *Industrial Training Levy (Clothing and Footwear Industry, 1999 Scheme) Order 1998* (S.I. No. 471 of 1998).
+>
+> E28: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1999 for period to 31.12.1999) by *Industrial Training Levy (Food, Drink and Tobacco Industry, 1999 Scheme) Order 1998* (S.I. No. 470 of 1998).
+>
+> E29: Previous affecting provision: power pursuant to subs. (2) exercised (1.05.1998 for period to 31.12.1998) by *Industrial Training Levy (Chemical and Allied Products Industry, 1998 Scheme) Order 1998* (S.I. No. 127 of 1998).
+>
+> E30: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998 for period to 31.12.1998) by *Industrial Training Levy (Textiles Industry, 1998 Scheme) Order 1997* (S.I. No. 454 of 1997).
+>
+> E31: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998 for period to 31.12.1998) by *Industrial Training Levy (Engineering Industry, 1998 Scheme) Order 1997* (S.I. No. 453 of 1997).
+>
+> E32: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998 for period to 31.12.1998) by *Industrial Training Levy (Clothing and Footwear Industry, 1998 Scheme) Order 1997* (S.I. No. 452 of 1997).
+>
+> E33: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998 for period to 31.12.1998) by *Industrial Training Levy (Chemical and Allied Products Industry 1998 Scheme) Order 1997* (S.I. No. 451 of 1997).
+>
+> E34: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998 for period to 31.12.1998) by *Industrial Training Levy (Food, Drink and Tobacco Industry, 1998 Scheme) Order 1997* (S.I. No. 450 of 1997).
+>
+> E35: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1997 for period to 31.12.1997) by *Industrial Training Levy (Textiles Industry, 1997 Scheme) Order* (S.I. No. 356 of 1996).
+>
+> E36: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1997 for period to 31.12.1997) by *Industrial Training Levy (Engineering Industry, 1997 Scheme) Order* (S.I. No. 355 of 1996).
+>
+> E37: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1997 for period to 31.12.1997) by *Industrial Training Levy (Food, Drink and Tobacco Industry, 1997 Scheme) Order* (S.I. No. 354 of 1996).
+>
+> E38: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1997 for period to 31.12.1997) by *Industrial Training Levy (Chemical and Allied Products Industry, 1997 Scheme) Order* (S.I. No. 353 of 1996).
+>
+> E39: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1997 for period to 31.12.1997) by *Industrial Training Levy (Clothing and Footwear Industry, 1997 Scheme) Order* (S.I. No. 352 of 1996).
+>
+> E40: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1996 for period to 31.12.1996) by *Industrial Training Levy (Engineering Industry, 1996) Order* (S.I. No. 329 of 1995).
+>
+> E41: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1996 for period to 31.12.1996) by *Industrial Training Levy (Chemical and Allied Products Industry, 1996) Order* (S.I. No. 328 of 1995).
+>
+> E42: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1996 for period to 31.12.1996) by *Industrial Training Levy (Food, Drink and Tobacco Industry, 1996) Order* (S.I. No. 327 of 1995).
+>
+> E43: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1996 for period to 31.12.1996) by *Industrial Training Levy (Clothing and Footwear Industry, 1996) Order* (S.I. No. 326 of 1995).
+>
+> E44: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1996 for period to 31.12.1996) by *Industrial Training Levy (Textiles Industry, 1996) Order* (S.I. No. 325 of 1995).
+>
+> E45: Previous affecting provision: power pursuant to subs. (2) exercised (1.08.1995) by *Labour Services Act 1987 Apprenticeship Rules 1995* (S.I. No. 198 of 1995); subsequently revoked (1.05.1997) by *Labour Services Act 1987 Apprenticeship Rules 1997* (S.I. No. 168 of 1997), subject to transitional provisions.
+>
+> E46: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1995 for period to 31.12.1995) by *Industrial Training Levy (Textiles Industry) Order 1994* (S.I. No. 358 of 1994).
+>
+> E47: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1995 for period to 31.12.1995) by *Industrial Training Levy (Engineering Industry) Order 1994* (S.I. No. 357 of 1994).
+>
+> E48: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1995 for period to 31.12.1995) by *Industrial Training Levy (Food, Drink and Tobacco Industry) Order 1994* (S.I. No. 356 of 1994).
+>
+> E49: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1995 for period to 31.12.1995) by *Industrial Training Levy (Chemical and Allied Products Industry) Order 1994* (S.I. No. 355 of 1994).
+>
+> E50: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1995 for period to 31.12.1995) by *Industrial Training Levy (Clothing and Footwear Industry) Order 1994* (S.I. No. 354 of 1994).
+>
+> E51: Previous affecting provision: power pursuant to subs. (2) exercised (1.09.1994) by *Labour Services Act 1987 Apprenticeship Rules 1994* (S.I. No. 228 of 1994); subsequently revoked (1.05.1997) by *Labour Services Act 1987 Apprenticeship Rules 1995* (S.I. No. 198 of 1995), subject to transitional provisions.
+>
+> E52: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1994 for period to 31.12.1994) by *Industrial Training Levy (Engineering Industry) Order 1993* (S.I. No. 367 of 1993).
+>
+> E53: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1994 for period to 31.12.1994) by *Industrial Training Levy (Chemical and Allied Products Industry) Order 1993* (S.I. No. 366 of 1993).
+>
+> E54: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1994 for period to 31.12.1994) by *Industrial Training Levy (Clothing and Footwear Industry) Order1993* (S.I. No. 365 of 1993).
+>
+> E55: Previous affecting provision: power pursuant to subs. (2) exercised (1.09.1993) by *Labour Services Act 1987 Apprenticeship Rules 1993* (S.I. No. 236 of 1993); subsequently revoked (1.09.1994) by *Labour Services Act 1987 Apprenticeship Rules 1994* (S.I. No. 228 of 1994), rule 1(3) subject to transitional provisions.
+>
+> E56: Previous affecting provision: power pursuant to subs. (2) exercised (3.05.1993 for period to 31.12.1993) by *Industrial Training Levy (Printing and Paper Industry) Order 1993* (S.I. No. 118 of 1993).
+>
+> E57: Previous affecting provision: power pursuant to subs. (2) exercised (3.05.1993 for period to 31.12.1993) by *Industrial Training Levy (Engineering Industry) Order 1993* (S.I. No. 117 of 1993).
+>
+> E58: Previous affecting provision: power pursuant to subs. (2) exercised (3.05.1993 for period to 31.12.1993) by *Industrial Training Levy (Construction Industry) Order 1993* (S.I. No. 116 of 1993).
+>
+> E59: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.1993 for period to 31.12.1993) by *Industrial Training Levy (Chemical and Allied Products Industry) Order 1993* (S.I. No. 75 of 1993).
+>
+> E60: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.1993 for period to 31.12.1993) by *Industrial Training Levy (Textiles Industry) Order 1993* (S.I. No. 74 of 1993).
+>
+> E61: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.1993 for period to 31.12.1993) by *Industrial Training Levy (Food, Drink and Tobacco Industry) Order 1993* (S.I. No. 73 of 1993).
+>
+> E62: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.1993 for period to 31.12.1993) by *Industrial Training Levy (Clothing and Footwear Industry) Order 1993* (S.I. No. 72 of 1993).
+>
+> E63: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1991 for period to 31.12.1991) by *Industrial Training Levy (Printing and Paper Industry) Order 1990* (S.I. No. 310 of 1990).
+>
+> E64: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1991 for period to 31.12.1991) by *Industrial Training Levy (Printing and Paper Industry) Order 1990* (S.I. No. 309 of 1990).
+>
+> E65: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1991 for period to 31.12.1991) by *Industrial Training Levy (Construction Industry) Order 1990* (S.I. No. 308 of 1990).
+>
+> E66: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1991 for period to 31.12.1991) by *Industrial Training Levy (Engineering Industry) Order 1990* (S.I. No. 307 of 1990).
+>
+> E67: Previous affecting provision: power pursuant to subs. (2) exercised (6.10.1989 for period to 31.12.1989) by *Industrial Training Levy (Engineering Industry) Order 1989* (S.I. No. 249 of 1989).
+>
+> E68: Previous affecting provision: power pursuant to subs. (2) exercised (6.10.1989 for period to 31.12.1989) by *Industrial Training Levy (Chemical and Allied Products Industry) Order* (S.I. No. 248 of 1989).
+>
+> E69: Previous affecting provision: power pursuant to subs. (2) exercised (6.10.1989 for period to 31.12.1989) by *Industrial Training Levy (Textiles Industry) Order 1989* (S.I. No. 247 of 1989).
+>
+> E70: Previous affecting provision: power pursuant to subs. (2) exercised (6.10.1989 for period to 31.03.1990) by *Industrial Training Levy (Printing and Paper Industry) Order 1989* (S.I. No. 246 of 1989).
+>
+> E71: Previous affecting provision: power pursuant to subs. (2) exercised (6.10.1989 for period to 31.12.1989) by *Industrial Training Levy (Clothing and Footwear Industry) Order 1989* (S.I. No. 245 of 1989).
+>
+> E72: Previous affecting provision: power pursuant to subs. (2) exercised (21.11.1988 for period to 31.07.1989) by *Industrial Training Levy (Construction Industry) Order 1988* (S.I. No. 272 of 1988).
+>
+> E73: Previous affecting provision: power pursuant to subs. (2) exercised (1.10.1988 for period to 30.09.1989) by *Industrial Training Levy (Food, Drink and Tobacco Industry) Order1988* (S.I. No. 194 of 1988).
+>
+> E74: Previous affecting provision: power pursuant to subs. (2) exercised (1.08.1988 for period to 31.07.1989) by *Industrial Training Levy (Printing and Paper Industry) Order 1988* (S.I. No. 139 of 1988).
+>
+> E75: Previous affecting provision: power pursuant to ss. (2), exercised (1.04.1988 for period to 31.03.1989) by *Industrial Training Levy (Chemical and Allied Products Industry) Order 1988* (S.I. No. 33 of 1988).
+
+## 5. Conferral of additional functions on An Foras.
+
+**5.**—(1) The Minister may, if he so thinks fit, by order—
+
+(*a*) confer on An Foras such additional functions connected with the functions for the time being of An Foras or the services or activities that An Foras is authorised for the time being to provide or carry on as he considers appropriate, and
+
+(*b*) make such provision as he considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on An Foras of functions under this section or the performance by An Foras of functions so conferred.
+
+(2) The Minister may by order amend or revoke an order under this section (including an order under this subsection).
+
+(3) Where an order is proposed to be made under this section, a draft thereof shall be laid before each House of the Oireachtas and the order shall not be made until a motion approving of the draft has been passed by each such House.
+
+## 6. Director General.
+
+**6.**—(1) There shall be a chief executive officer of An Foras (who shall be known, and is referred to in this Act, as the Director General).
+
+(2) The Director General shall carry on and manage and control generally the administration and business of An Foras and shall perform such other functions as may be determined by An Foras.
+
+(3) The Director General shall hold office on and subject to such terms and conditions (including terms and conditions relating to remuneration and superannuation) as may be determined by the Minister with the consent of the Minister for Finance.
+
+(4) The Director General shall be paid such allowances for expenses incurred by him as the Minister may, with the consent of the Minister for Finance, determine.
+
+(5) The first Director General shall be appointed, and may be removed from office at any time, by the Minister; each subsequent Director General shall be appointed, and may be removed from office at any time, by An Foras with the consent of the Minister.
+
+F5[(6) The Director General shall hold office for such period, not exceeding 5 years from the date of his appointment, as the Minister shall determine.
+
+(7) Subject to subsection (8), where the Director General’s term of office expires by the effluxion of time he shall be eligible to be reappointed to that office.
+
+(8) Where the Director General has served 2 terms of office (including a term of office commenced or completed before the commencement of section 3 of the Labour Services (Amendment) Act 2009) he shall not be eligible to be reappointed to that office.
+
+(9) The Director General shall, *ex officio*, be a member of An Foras.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 3, S.I. No. 12 of 2010.
+
+## 6A. F6[Accountability of Director General of An Foras Áiseanna Saothair to Committee of Public Accounts.
+
+**6A.**— (1) The Director General shall, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General (hereafter in this section referred to as the ‘Committee’), give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that An Foras is required by this Act to prepare,
+
+(*b*) the economy and efficiency of An Foras in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by An Foras for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting An Foras referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (*a*), (*b*) or (*c*)) that is laid before Dáil Éireann.
+
+(2) In the performance of his duties under this section, the Director General shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 4, S.I. No. 12 of 2010.
+
+## 6B. Accountability of Director General of An Foras Áiseanna Saothair to other committees of Houses of Oireachtas.
+
+F7[**6B.**— (1) In this section ‘Committee’ means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in section 6A (inserted by *section 4* of the Labour Services (Amendment) Act 2009) or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
+
+(2) Subject to subsection (3), the Director General shall, at the request in writing of a Committee, attend before it to give an account in respect of matters relating to the general administration of An Foras that fall within the terms of reference of the Committee.
+
+(3) The Director General shall not be required to give an account before a Committee in respect of any matter that has been, or is or is likely to be, the subject of proceedings before a court or tribunal in the State.
+
+(4) Where the Director General is of the opinion that a matter in respect of which he is requested to give an account before a Committee is a matter to which subsection (3) applies, he shall, as soon as may be after the making of the request, inform the Committee in writing of that opinion and the reasons for the opinion, unless the information is conveyed to the Committee at a time when the Director General is before it.
+
+(5) Where the Director General has informed a Committee of his opinion in accordance with subsection (4) and the Committee wish to proceed with the request concerned, the Chairperson of the Committee may, on behalf of the Committee, apply to the High Court in a summary manner for a determination of the question whether the matter is one to which subsection (3) applies, and the High Court shall determine the matter.
+
+(6) Where the Director General informs a Committee, in accordance with subsection (4), that he is of the opinion that a matter in respect of which he is requested to give an account before the Committee is a matter to which subsection (3) applies, then, subject to subsection (7), he shall not attend before the Committee to give an account in respect of the matter.
+
+(7) If, upon an application under subsection (5), the High Court determines that the matter concerned is one to which subsection (3) applies, the Committee shall withdraw the request referred to in subsection (2), but if the High Court determines that subsection (3) does not apply, the Director General shall attend before the Committee to give an account in respect of the matter. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 5, S.I. No. 12 of 2010.
+
+## 7. Staff of An Foras and subsidiary.
+
+**7.**—(1) (*a*) An Foras may appoint such, and such number of, persons to be members of the staff of An Foras as it may determine with the consent of the Minister and the Minister for Finance.
+
+(*b*) The board of the subsidiary may appoint such, and such number of, persons to be members of the staff of the subsidiary as it may determine with the consent of the Minister and the Minister for Finance.
+
+(2) (*a*) A member of the staff of An Foras (other than the Director General) or of the staff of the subsidiary shall be paid, out of the moneys at the disposal of An Foras or the subsidiary, as the case may be, such remuneration and allowances for expenses incurred by him as An Foras, or the subsidiary, as the case may be, with the consent of the Minister and the Minister for Finance, may determine.
+
+(*b*) A member of the staff of An Foras referred to in *paragraph (a)* or the staff of the subsidiary shall hold his office or employment on such other terms and conditions as An Foras or, as the case may be, the board of the subsidiary, with the consent of the Minister and the Minister for Finance, may determine.
+
+(3) The grades of the staffs of An Foras and the subsidiary, andthe numbers of each staff in each grade, shall be determined by An Foras with the consent of the Minister and the Minister for Finance or, as the case may be, the board of the subsidiary with the consent of the Minister and the Minister for Finance.
+
+(4) (*a*) Every person who immediately before the establishment day is a member of the staff of An Chomhairle or the Agency shall, on that day, be transferred to, and become a member of the staff of, An Foras.
+
+(*b*) Every officer of the Minister who has been designated by the Minister at any time before such day as may be appointed by the Minister by order shall, on the day of such designation, be transferred to, and become a member of, the staff of An Foras.
+
+(*c*) The Minister shall not make an order under *paragraph (b)* without having notified in writing any recognised trade unions or staff associations concerned and An Foras of his intention to do so and considering any representations made by them or any of them in relation to the matter within such time as may be specified in the notification.
+
+(5) (*a*) The terms and conditions relating to tenure of office which are granted by An Foras in relation to a member of the staff of An Foras who was transferred by *subsection (4)* to its staff from An Chomhairle or the Agency shall not, while he is in the service of An Foras, be less favourable to him than those prevailing immediately before the establishment day in An Chomhairle or the Agency, as may be appropriate, save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned.
+
+(*b*) The terms and conditions relating to tenure of office which are granted by An Foras in relation to a member of the staff of An Foras who was designated by the Minister and under *subsection (4)* transferred by that subsection to its staff shall not, while he is in the service of An Foras, be less favourable to him than those prevailing for the time being in the civil service; any alteration in the conditions in regard to tenure of office of any such member shall not be such as to render those conditions less favourable to him than those prevailing in the civil service at the time of such alteration save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned. If a dispute arises between An Foras and any such member as to conditions prevailing in the civil service, the matter shall be determined by the Minister for Finance after consultation with the Minister.
+
+(6) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a member of the staff of An Chomhairle or the Agency or an officer of the Minister designated by the Minister under *subsection (4)*, who is transferred by that subsection to the staff of An Foras shall not, while in the service of An Foras, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service (other than those relating to tenure of office) than the scale of pay to which he was entitled and the terms and conditions of service (other than those relating to tenure of office) to which he was subject immediately before the day on which he was so transferred.
+
+(7) Until such time as the scales of pay and the terms and conditionsof service (other than those relating to tenure of office) of staff so transferred are varied by An Foras, following consultation with any recognised trade unions and staff associations concerned, the scales of pay to which they were entitled and the terms and conditions of service (other than those relating to tenure of office), restrictions, requirements and obligations to which they were subject immediately before their transfer shall continue to apply to them and may be applied or imposed by An Foras or the Director General, as the case may be, while they are in the service of An Foras. No such variation shall operate to worsen the scales of pay or the terms or conditions of service aforesaid applicable to a member of such staff immediately before the day on which he was transferred by *subsection (4)* to the staff of An Foras, save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned.
+
+(8) In relation to staff transferred by *subsection (4)* to the staff of An Foras, previous service in An Chomhairle, the Agency or the civil service shall be reckonable for the purposes of, but subject to any other exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1984, the Holidays (Employees) Act, 1973, the Minimum Notice and Terms of Employment Acts, 1973 and 1984, and the Unfair Dismissals Act, 1977.
+
+(9) An Foras may perform any of its functions through or by a member of its staff duly authorised by An Foras in that behalf.
+
+## 8. Superannuation of staff of An Foras.
+
+**8.**—(1) An Foras may, with the consent of the Minister and the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of persons appointed, or transferred by *section 7*, to whole-time positions on the staff of An Foras.
+
+(2) A scheme under *subsection (1)* shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) An Foras may, with the consent of the Minister and the Minister for Finance, make a scheme amending or revoking a scheme under this section including a scheme under this subsection.
+
+(4) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, whose decision shall be final.
+
+(5) No superannuation benefit shall be granted by An Foras on the resignation, retirement or death of a member of the staff of An Foras otherwise than in accordance with a scheme or schemes under this section.
+
+(6) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything done thereunder.
+
+(7) (*a*) A scheme or schemes under *subsection (1)* shall, as respects a person transferred by *section 7* to a whole-time position on the staff of An Foras, provide for the granting to or inrespect of him of superannuation benefits upon and subject to terms and conditions that are not less favourable to him than the terms and conditions applied to him immediately before the day on which he was so transferred in relation to the grant of such benefits.
+
+(*b*) Where, during the period between the establishment day and the coming into operation of a scheme under this section, superannuation benefits would have been granted to or in respect of a person transferred by *section 7* to the staff of An Foras in respect of his employment with An Chomhairle or the Agency or as an officer of the Minister, the superannuation benefits shall be granted and paid to or in respect of the person by An Foras.
+
+(*c*) (i) The assets, rights and liabilities (including the obligation to make payments in respect of superannuation benefits) of or under any scheme for the granting of superannuation benefits to or in respect of members of the staff of An Chomhairle or the Agency shall on the establishment day vest in An Foras without any further conveyance, transfer or assignment for, as respects the assets, all the estate, term or interest, as the case may be, for which the assets were vested in An Chomhairle or the Agency, as the case may be, immediately before the establishment day.
+
+(ii) All moneys, stocks, shares and securities transferred to An Foras by this subsection that, on the establishment day, are standing in the books of any corporation or company in the name of An Chomhairle or the Agency or of any person who, on the establishment day, is a trustee of a scheme for the granting of superannuation benefits to or in respect of members of the staff of An Chomhairle or the Agency shall, upon the request of An Foras, be transferred into its name or into the name of such person as it may specify.
+
+(8) (*a*) The Minister for Finance shall make such contribution as may, with his consent, be specified in a scheme or schemes under this section towards the superannuation benefits related to reckonable service (within the meaning of the Superannuation Acts, 1834 to 1963) given before the day on which he was transferred by *section 7* to the staff of An Foras which may be granted to or in respect of a member of such staff who, immediately before that day, was an officer of the Minister and who was designated by the Minister under *section 7* and such scheme or schemes shall, with the like consent, fix the manner and times of the payment of such contribution.
+
+(*b*) Moneys required to be paid by the Minister for Finance under *paragraph (a)* shall be advanced out of the Central Fund or the growing produce thereof.
+
+(9) In this section and in *section 9* “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E76: Power pursuant to section exercised (14.10.2009 with retrospective effect from 8.08.1969) by *An Foras Áiseanna Saothair (Closed) (Amendment) Superannuation Scheme 2009* (S.I. No. 420 of 2009).
+>
+> E77: Power pursuant to section exercised (14.10.2009 with retrospective effect from 14.11.2000) by *An Foras Áiseanna Saothair (Closed) (Amendment) Superannuation Scheme 2009* (S.I. No. 414 of 2009).
+>
+> E78: Power pursuant to section exercised (24.09.2008 with retrospective effect from 1.01.1988) by *FÁS Spouses and Childrens Contributory Pension Scheme 2008* (S.I. No. 403 of 2008).
+>
+> E79: Power pursuant to section exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair (Closed) Superannuation Scheme 1998* (S.I. No. 515 of 1998).
+>
+> E80: Power pursuant to subss. (2) and (3) exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair Superannuation Scheme 1998* (S.I. No. 514 of 1998).
+
+## 9. Membership of either House of Oireachtas or of European Parliament by members or staff of An Foras.
+
+**9.**—(1) Where a member of An Foras is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or of the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to such Parliament to fill a vacancy,
+
+he shall thereupon cease to be a member of An Foras.
+
+(2) Where a person who is a member of the staff of An Foras is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or of the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to such Parliament to fill a vacancy,
+
+he shall thereupon stand seconded from employment by An Foras and shall not be paid by, or be entitled to receive from, An Foras any remuneration or allowances in respect of the period commencing on such nomination or election or when he is so regarded as having been elected, as the case may be, and ending when he ceases to be a member of either such House or such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or is a member of the European Parliament shall, while he is so entitled or is such a member, be disqualified for becoming a member of An Foras or the staff of An Foras.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, *inter alia*, the reckoning of a period mentioned in that subsection as service with An Foras for the purposes of any pensions, gratuities or other allowances payable on resignation, retirement or death.
+
+## 9A. Disclosure by members of An Foras of certain interests.
+
+F8[**9A.**— (1) Where at a meeting of An Foras any of the following matters arises, namely—
+
+(*a*) an arrangement to which An Foras is a party or a proposed such arrangement, or
+
+(*b*) a contract or other agreement with An Foras or a proposed such contract or other agreement,
+
+then, any member of An Foras present at the meeting who otherwise than in his capacity as such a member has a material interest in the matter shall—
+
+(i) at the meeting, disclose to An Foras the fact of such interest and the nature thereof,
+
+(ii) absent himself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(iii) take no part in any deliberation of An Foras relating to the matter, and
+
+(iv) not vote on a decision relating to the matter.
+
+(2) A member of An Foras who, otherwise than in his capacity as such a member has a material interest in—
+
+(*a*) an arrangement or proposed arrangement to which paragraph (*a*) of subsection (1) applies, or
+
+(*b*) a contract or other agreement or a proposed contract or other agreement to which paragraph (*b*) of that subsection applies,
+
+shall neither influence nor seek to influence any decision to be made by An Foras in relation thereto.
+
+(3) Where a material interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where at a meeting of An Foras a question arises as to whether or not a course of conduct, if pursued by a member of An Foras, would constitute a failure by him to comply with the requirements of subsection (1), the question may, subject to subsection (5), be determined by the chairman of the meeting, whose decision shall be final, and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where at a meeting of An Foras, the chairman of the meeting is the member in respect of which a question to which subsection (4) applies falls to be determined, then the other members of An Foras attending the meeting shall choose one of their number to be chairman of the meeting for the purpose of determining the question concerned. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 6, S.I. No. 12 of 2010.
+
+## 9B. Disclosure by directors of subsidiary of certain interests.
+
+F9[**9B.**— (1) Where at a meeting of the board of the subsidiary any of the following matters arises, namely—
+
+(*a*) an arrangement to which the subsidiary is a party or a proposed such arrangement, or
+
+(*b*) a contract or other agreement with the subsidiary or a proposed such contract or other agreement,
+
+then, any director of the subsidiary present at the meeting who otherwise than in his capacity as such a director has a material interest in the matter shall—
+
+(i) at the meeting, disclose to the board of the subsidiary the fact of such interest and the nature thereof,
+
+(ii) absent himself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(iii) take no part in any deliberation of the board of the subsidiary relating to the matter, and
+
+(iv) not vote on a decision relating to the matter.
+
+(2) A director of the subsidiary who, otherwise than in his capacity as such a director has a material interest in—
+
+(*a*) an arrangement or proposed arrangement to which paragraph (*a*) of subsection (1) applies, or
+
+(*b*) a contract or other agreement or a proposed contract or other agreement to which paragraph (*b*) of that subsection applies,
+
+shall neither influence nor seek to influence any decision to be made by the board of the subsidiary in relation thereto.
+
+(3) Where a material interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the director by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where at a meeting of the board of the subsidiary a question arises as to whether or not a course of conduct, if pursued by a director of the subsidiary, would constitute a failure by him to comply with the requirements of subsection (1), the question may, subject to subsection (5), be determined by the chairman of the meeting, whose decision shall be final, and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where at a meeting of the board of the subsidiary, the chairman of the meeting is the director in respect of which a question to which subsection (4) applies falls to be determined, then the other directors of the subsidiary attending the meeting shall choose one of their number to be chairman of the meeting for the purpose of determining the question concerned.
+
+(6) Where An Foras is satisfied that a director of the subsidiary has contravened subsection (1) or (2), An Foras may, if it thinks fit, remove that director from office and, where a person is removed from office pursuant to this subsection, he shall thenceforth be disqualified for being a director of the subsidiary. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 6, S.I. No. 12 of 2010.
+
+## 9C. Disclosure by members of staff of An Foras of certain interests.
+
+F10[**9C.**— (1) Where a member of the staff of An Foras has a material interest, otherwise than in his capacity as such a member, in any contract, agreement or arrangement, to which An Foras is a party, or a proposed such contract, agreement or arrangement, that person shall—
+
+(*a*) disclose to An Foras his interest and the nature thereof,
+
+(*b*) take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by An Foras or members of the staff of An Foras in relation thereto, and
+
+(*c*) neither influence nor seek to influence a decision to be made in the matter nor make any recommendation in relation to the contract, agreement or arrangement.
+
+(2) Subsection (1) shall not apply to contracts or proposed contracts of employment of members of the staff of An Foras with An Foras.
+
+(3) Where a person contravenes this section An Foras may make such alterations to the person’s terms and conditions of employment as it considers appropriate or terminate the person’s contract of employment. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 6, S.I. No. 12 of 2010.
+
+## 9D. Disclosure by members of staff of subsidiary of certain interests.
+
+F11[**9D.**— (1) Where a member of the staff of the subsidiary has a material interest, otherwise than in his capacity as such a member, in any contract, agreement or arrangement, to which the subsidiary is a party, or a proposed such contract, agreement or arrangement, that person shall—
+
+(*a*) disclose to the subsidiary his interest and the nature thereof,
+
+(*b*) take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by the subsidiary or members of the staff of the subsidiary in relation thereto, and
+
+(*c*) neither influence nor seek to influence a decision to be made in the matter nor make any recommendation in relation to the contract, agreement or arrangement.
+
+(2) Subsection (1) shall not apply to contracts or proposed contracts of employment of members of the staff of the subsidiary with the subsidiary.
+
+(3) Where a person contravenes this section the subsidiary may make such alterations to the person’s terms and conditions of employment as it considers appropriate or terminate the person’s contract of employment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 6, S.I. No. 12 of 2010.
+
+## 10. Advances by Minister to An Foras.
+
+**10.**—The Minister may from time to time, with the consent of the Minister for Finance, advance to An Foras, out of moneys provided by the Oireachtas, such sums as the Minister may determine for the purposes of expenditure by An Foras in the performance of its functions F12[other than the functions under paragraphs (*b*) to (*g*) of section 4(1)].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 28(2), S.I. No. 581 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 11. Accounts of An Foras and subsidiary and auditors.
+
+**11.**—(1) An Foras and the subsidiary shall keep in such form as may be approved of by the Minister with the concurrence of the Minister for Finance all proper and usual accounts of all moneys received or expended by An Foras or the subsidiary, as the case may be, including an income and expenditure account and balance sheet and, in particular, shall keep all such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted as soon as may be after the end of the financial year of An Foras or the subsidiary, as the case may be, to which they relate by An Foras to the Comptroller and Auditor General for audit and a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy ofthe Comptroller and Auditor General’s report on the accounts shall be presented to the Minister as soon as may be and the Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions under subsection (1) transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 12. Reports and information to Minister.
+
+**12.**—(1) As soon as may be after the end of each financial year of An Foras, but not later than 6 months thereafter, An Foras shall make a report to the Minister of its activities, and those of the subsidiary, during that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) Each report under *subsection (1)* of this section shall include information in such form and regarding such matters as the Minister may direct.
+
+(3) Not less than 3 months before the end of each financial year of An Foras., it shall furnish to the Minister a report in writing—
+
+(*a*) outlining its proposed activities (other than day to day activities) and those of the subsidiary in the financial year immediately following and indicating the times at which projects and programmes to be commenced in that year will be commenced and, where appropriate, completed, and
+
+(*b*) giving estimates of its expenditure and that of the subsidiary in the last mentioned year in relation to each of those activities, projects and programmes,
+
+and neither An Foras nor the subsidiary shall carry out any of those activities or incur any such expenditure until the report has been approved of by the Minister and the Minister for Finance.
+
+(4) Neither an Foras nor the subsidiary shall, during any such financial year—
+
+(*a*) in carrying on the activities specified in the report in relation to that year approved of by the Minister and the Minister for Finance depart from the outline thereof in the report,
+
+(*b*) carry on any activity (other than a day to day activity) not specified in the report, or
+
+(*c*) incur expenditure in relation to any activity, project or programme in excess of the estimate of that expenditure given in the report,
+
+without the prior approval of the Minister and the Minister for Finance.
+
+(5) An Foras shall, whenever so requested by the Minister, furnish to him information in relation to such matters as he may specify concerning or relating to the scope of its activities, or its strategy, generally or in respect of any account prepared by An Foras or the subsidiary or any report specified in *subsection (1)* or *(3)* or *section 11 (2)* or the policy and activities, other than day to day activities, of An Foras.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions under subss. (3) and (4) transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 13. Disclosure of information.
+
+**13.**—(1) A person shall not, without the consent of An Foras, disclose any information obtained by him while performing duties as a member, or director, or member of the staff of, or an adviser or consultant to, An Foras or the subsidiary.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence and liable on summary conviction to a fine not exceeding £800.
+
+F13[(3) Nothing in subsection (1) shall prevent the disclosure of information—
+
+(*a*) in a report made to An Foras or by or on behalf of An Foras to the Minister, or
+
+(*b*) by a member of An Foras to the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 8, S.I. No. 12 of 2010.
+>
+> **Editorial Notes:**
+>
+> E81: Information under section excluded from prohibition of exclusion (21.04.1998) by *Freedom of Information Act 1997* (13/1997), s. 32(1)(a) and sch. 3 pt. 1, commenced as per s. 1(2).
+
+## 13A. Protection from civil liability of persons who report certain misconduct.
+
+F14[**13A.**— (1) Where a person communicates his opinion, whether in writing or otherwise, to a member of the Garda Síochána or a member of An Foras that—
+
+(*a*) an offence under this Act or any other enactment has been or is being committed,
+
+(*b*) any provision of this Act or any other enactment or rule of law has been or is being contravened, or
+
+(*c*) there has been other serious wrongdoing in relation to An Foras,
+
+then, unless the person acts in bad faith, he shall not be regarded as having committed any breach of duty towards any other person, and no person shall have a cause of action against the first-mentioned person in respect of that communication.
+
+(2) Where a person communicates his opinion, whether in writing or otherwise, to the Minister that a direction given by the Minister under this Act has been or is being contravened then, unless the person acts in bad faith, he shall not be regarded as having committed any breach of duty towards any other person, and no person shall have a cause of action against the first-mentioned person in respect of that communication.
+
+(3) This section applies to a communication—
+
+(*a*) that would, but for this section, constitute a breach of duty by the person who made it, or
+
+(*b*) in respect of which, another person would, but for this section, have a cause of action against the person who made it.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 7, S.I. No. 12 of 2010.
+
+## 13B. Prohibition on penalisation.
+
+F15[**13B.**— (1) An employer shall not penalise or threaten penalisation against an employee for—
+
+(*a*) making a complaint to a member of the Garda Síochána or a member of An Foras that a provision of this Act, or any enactment or other rule of law, has been or is being contravened,
+
+(*b*) making a complaint to the Minister that a direction given by him under this Act has been or is being contravened,
+
+(*c*) making a complaint to a member of An Foras that there has been serious wrongdoing in relation to An Foras,
+
+(*d*) giving evidence in any proceedings under this Act or any other enactment, or
+
+(*e*) giving notice of his intention to do any of the things referred to in the preceding paragraphs.
+
+(2) Schedule 2 (inserted by *section 11* of the *Labour Services (Amendment) Act 2009*) shall have effect for the purposes of subsection (1).
+
+(3) If the penalisation of an employee, in contravention of subsection (1), constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2007, relief may not be granted to the employee in respect of that penalisation both under Schedule 2 and under those Acts.
+
+(4) In this section—
+
+‘employee’ means—
+
+(*a*) in relation to An Foras, a member of the staff of An Foras, or
+
+(*b*) in relation to the subsidiary, a member of the staff of the subsidiary;
+
+‘employer’ means An Foras or the subsidiary;
+
+‘penalisation’ means any act or omission by an employer or a person acting on behalf of an employer that affects an employee to his detriment with respect to any term or condition of his employment, and, without prejudice to the generality of the foregoing, includes—
+
+(*a*) suspension, lay-off or dismissal (including a dismissal within the meaning of the Unfair Dismissals Acts 1977 to 2007), or the threat of suspension, lay-off or dismissal,
+
+(*b*) demotion or loss of opportunity for promotion,
+
+(*c*) transfer of duties, change of location of place of work, reduction in wages or change in working hours,
+
+(*d*) imposition or administration of any discipline, reprimand or other penalty (including a financial penalty), and
+
+(*e*) coercion or intimidation. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 7, S.I. No. 12 of 2010.
+
+## 13C. False statements.
+
+F16[**13C.**— (1) A person who states to a member of the Garda Síochána or a member of An Foras that—
+
+(*a*) an offence under this Act or any other enactment has been or is being committed,
+
+(*b*) a provision of this Act, a provision of any other enactment or any rule of law has been or is being contravened, or
+
+(*c*) there has been serious wrongdoing by any person in relation to An Foras,
+
+knowing the statement to be false shall be guilty of an offence.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 3 years or both. ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 7, S.I. No. 12 of 2010.
+
+## 14. Investment of moneys by An Foras and subsidiary.
+
+**14.**—An Foras or the subsidiary may, with the consent of the Minister and the Minister for Finance, invest funds of An Foras or the subsidiary, as the case may be, in such manner as An Foras or, as the case may be, the subsidiary thinks fit.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 15. Borrowing by An Foras and subsidiary.
+
+**15.**—An Foras or the subsidiary may, for the purpose of providing for current or capital expenditure, from time to time, borrow money (whether on the security of the assets of An Foras or the subsidiary, as the case may be, or otherwise), including money in a currency other than the currency of the State, but shall not do so without the consent of the Minister and the Minister for Finance.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E82: Function to consent to borrowings under section transferred from Minister for Finance to Minister for Public Expenditure and Reform, subject to consultation with the Minister for Finance (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20 and sch. 2, commenced as per s. 1(2) and S.I. No. 401 of 2011.
+
+## 16. Gifts.
+
+**16.**—(1) An Foras or the subsidiary may accept gifts of money, land or other property upon such trusts or conditions, if any, as may be specified by the donor.
+
+(2) An Foras or the subsidiary shall not accept a gift if the trusts or conditions attached to it would be inconsistent with the functions of An Foras or the subsidiary, as the case may be.
+
+## 17. Directions by Minister to An Foras.
+
+**17.**—(1) (*a*) The Minister may F17[subject to subsection (4)] give a direction in writing to An Foras requiring it—
+
+(i) to provide specified services or to carry on specified activities that it is authorised by *section 4* or *5* of this Act to provide or, as the case may be, carry on,
+
+(ii) to refrain from providing specified services or carrying on specified activities,
+
+(iii) to incur expenditure of specified amounts, or to increase by specified amounts its expenditure, on specified services or specified activities that it is authorised by the said *section 4* or *5* to provide or, as the case may be, carry on, or
+
+(iv) to refrain from incurring expenditure, or to reduce by specified amounts its expenditure, on specified services or specified activities.
+
+(*b*) References in *paragraph (a)* to the provision of services and to the carrying on of activities include references to the arrangement for such provision and carrying on.
+
+(2) The Minister may give a direction in writing to An Foras in relation to policy generally, in relation to any matter specified in a report furnished to him under *section 11 (2)* or *subsection (1)* or *(3)* of *section 12* or in relation to any information furnished to him under *subsection (5)* of the said *section 12*.
+
+(3) An Foras shall comply with a direction under this section.
+
+F18[(4) A direction under this section shall not include a direction in respect of the functions of An Foras under paragraphs (*b*) to (*g*) of section 4(1).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 30(5)(a), S.I. No. 581 of 2010.
+>
+> F18: Inserted (1.01.2011) by *Social Welfare (Miscellaneous Provisions) Act 2010* (28/2010), s. 30(5)(b), S.I. No. 581 of 2010.
+
+## 18. Dissolution of An Chomhairle, winding up and dissolution of Agency and winding up of Manpower Service.
+
+**18.**—(1) An Chomhairle shall, on the establishment day, become and be dissolved.
+
+(2) The Agency shall, as soon as may be, after the establishment day, procure its winding up and dissolution and shall, as on and from that day, cease to perform any functions or exercise any powers or carry out any duties other than functions, powers or duties the performance, exercise or carrying out of which are necessary for the purposes of its winding up and dissolution.
+
+(3) The Manpower Service shall, on the establishment day, be wound up.
+
+(4) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before the establishment day under an Act of the Oireachtas to An Chomhairle, the Agency or the Manpower Service shall, on and after that day, be construed as references to An Foras.
+
+## 19. Transfer of certain property and liabilities of Minister, An Chomhairle and Agency to An Foras.
+
+**19.**—(1) The following shall be and hereby are transferred to An Foras on the establishment day:
+
+(*a*) all property and rights held or enjoyed immediately before that day by An Chomhairle or the Agency, and
+
+(*b*) all liabilities incurred by the Minister before that day in connection with or for the purposes of the Manpower Service, and all liabilities incurred before that day by An Chomhairle or the Agency, that had not been discharged before that day, and, accordingly, without any further conveyance, transfer or assignment—
+
+(i) the said property, real and personal, shall, on the establishment day, vest in An Foras, for all the estate, term or interest for which, immediately before that day, it was vested in An Chomhairle or the Agency, as the case may be, but subject to all trusts and equities affecting the property and capable of being performed,
+
+(ii) the said rights shall, as on and from the establishment day, be enjoyed by An Foras, and
+
+(iii) the said liabilities shall, as on and from the establishment day, be the liabilities of An Foras.
+
+(2) All moneys, stocks, shares and securities transferred to An Foras by this section which, on the appointed day, are standing in the name of An Chomhairle or the Agency shall, upon the request of An Foras, be transferred into its name.
+
+(3) Every right and liability transferred by *subsection (1)* to An Foras may, on or after the establishment day, be sued on, recovered or enforced by or against An Foras in its own name and it shall not be necessary for An Foras to give notice to the person whose right or liability is transferred by that subsection of the transfer.
+
+(4) (*a*) Such premises occupied immediately before the establishment day by the Minister, for the purposes of theManpower Service, as may be specified by the Minister for Finance after consultation with the Minister may, on and after that day, be occupied by, or transferred to, An Foras on such terms and conditions as may be agreed upon by An Foras and the Minister for Finance after consultation with the Minister.
+
+(*b*) Such other property used, immediately before the establishment day, by the Minister for the purposes of the Manpower Service as may be specified by the Minister for Finance after consultation with the Minister may, on and after that day, be used by, or transferred to, An Foras on such terms and conditions as may be agreed upon by An Foras and the Minister for Finance after consultation with the Minister.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions under subs. (4) transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 20. Preservation of certain continuing contracts and adaptation of references to Minister, An Chomhairle and Agency in certain documents.
+
+**20.**—(1) Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the Minister in connection with or for the purposes of the Manpower Service, or by or on behalf of An Chomhairle or the Agency, to any person or given by any person to and accepted by or on behalf of the Minister in connection with or for the purposes of the Manpower Service, or by or on behalf of An Chomhairle or the Agency and every contract or agreement in writing made between the Minister in connection with or for the purposes of the Manpower Service, or An Chomhairle or the Agency, and any other person, and in force but not fully executed and completed immediately before the establishment day shall continue in force on and after that day and shall be construed and have effect as if the name of An Foras were substituted therein for that of the Minister, An Chomhairle or the Agency, as the case may be, and shall be enforceable by or against An Foras and every arrangement made by An Chomhairle under section 36 or 41 of the Act of 1967, and in force immediately before the establishment day shall continue in force on and after that day and shall be enforceable by or against An Foras.
+
+(2) References to the Minister, An Chomhairle or the Agency contained immediately before the establishment day in the memorandum and articles of association of any company (within the meaning of the Companies Act, 1963), being, as respects references to the Minister, in connection with or for the purposes of the Manpower Service shall, on and after the establishment day, be construed as references to An Foras but, in the case of references to the Minister, to the extent only that the references are in connection with or for the purposes of the Manpower Service.
+
+## 21. Saving for certain orders, regulations rules, exemptions, committees, etc.
+
+**21.**—(1) Nothing in this Act shall affect the validity of any order, regulation, rule, exemption, approval or notice made, given or served, or any committee established, declared or appointed, by An Chomhairle under the Act of 1967 before the establishment day and every such order, regulation, rule, exemption, approval, notice and committee shall, if and in so far as it was operative or in existence, as the case may be, immediately before the establishment day, continue in force or continue in existence, as the case may be, and have effect on and after that day as if it had been validly made, given or served or established, declared or appointed under the Act of 1967 by An Foras.
+
+(2) Nothing in this Act shall affect the validity of any act which was done before the establishment day by or on behalf of the Minister in connection with or for the purposes of the Manpower Service or by or on behalf of An Chomhairle or the Agency and every such act shall, if and in so far as it was operative immediately before that day, have effect on and after that day as if it had been done by or on behalf of An Foras.
+
+## 22. Pending legal proceedings.
+
+**22.**—Where, immediately before the establishment day, any legal proceedings are pending in any court or tribunal and the Minister (by reason of the fact that the proceedings relate to, or to the activities of, the Manpower Service) or An Chomhairle or the Agency is a party to the proceedings, the name of An Foras shall, as appropriate, be—
+
+(*a*) substituted in the proceedings for, or added therein to, that of the Minister, or
+
+(*b*) substituted in the proceedings for that of An Chomhairle or the Agency,
+
+and the proceedings shall not abate by reason of such substitution or addition.
+
+## 23. Completion of certain matters commenced by Minister, An Chomhairle or Agency.
+
+**23.**—Anything commenced by the Minister before the establishment day in connection with or for the purposes of the Manpower Service and anything commenced by An Chomhairle or the Agency before that day may be carried on and completed on and after that day by An Foras.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E83: Power pursuant to section exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair (Closed) Superannuation Scheme 1998* (S.I. No. 515 of 1998).
+>
+> E84: Power pursuant to section exercised (21.12.1998 with retrospective effect from 1.01.1988) by *An Foras Áiseanna Saothair Superannuation Scheme 1998* (S.I. No. 514 of 1998).
+
+## 24. Amendment of section 24 of Act of 1967.
+
+**24.**—Section 24 of the Act of 1967 is hereby amended by the insertion in subsection (1) after “functions” of “(whether related to the training referred to in section 23 (1) or otherwise)”.
+
+## 25. Employment and Training Levy.
+
+**25.**—(1) The levy imposed by section 15 of the Youth Employment Agency Act, 1981, shall, on and after the establishment day, be known as Employment and Training Levy and references in that Act and any Act of the Oireachtas passed before that day, and in any instrument made under an Act of the Oireachtas before that day, to Youth Employment Levy shall, on and after that day, be construed as references to Employment and Training Levy.
+
+(2) In addition to defraying the expenditure specified in the said section 15, Employment and Training Levy shall be used to defray such other expenditure in relation to training and employment as the Minister may determine with the consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions under subs. (2) transferred and terms “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), regs. 2, 3, 5 and sch. 1 part 2, commenced as per reg. 1(2).
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> **5.**— References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 15 of 1987</td><td>Labour Services Act 1987</td><td>Sections 4(6), 10, 11(1), 12(3) and (4), 14, 19(4) and 25(2)</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+
+## 26. Repeals.
+
+**26.**—(1) Part II of, and the First Schedule to, the Act of 1967 shall, upon the dissolution of An Chomhairle, be repealed.
+
+(2) Sections 2 to 14 of the Youth Employment Agency Act, 1981, shall, upon the dissolution of the Agency, be repealed.
+
+## 27. Exemption from stamp duty.
+
+**27.**—F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Repealed (27.03.1998) by *Finance Act 1998* (3/1998), s. 125 and sch. 8, commenced on enactment.
+
+## 28. Expenses.
+
+**28.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas and the expenses incurred by the Minister for Finance in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+## 29. Short title.
+
+**29.**—This Act may be cited as the Labour Services Act, 1987.
+
+## SCHEDULE 1An Foras — SCHEDULE 1] — An Foras — Annotations Amendments: Substituted (20.01.2010) by Labour Services (Amendment) Act 2009 (38/2009), s. 12, S.I. No. 12 of 2010.
+
+### F20[Part I — Membership and Procedure of An Foras
+
+1\. An Foras shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and to acquire, hold and dispose of land or an interest in land or of any other property.
+
+F21[2.(1)An Foras shall consist of the following members, that is to say—
+
+(*a*) a chairman, and
+
+(*b*) 10 ordinary members (including the Director General).
+
+(2) The members of An Foras shall be appointed by the Minister, after consultation with the Minister for Education and Science and the Minister for Social and Family Affairs, from among persons who, in the opinion of the Minister, have experience of, and expertise in matters connected with—
+
+(*a*) the functions of An Foras, or
+
+(*b*) finance, trade, commerce, corporate governance or public administration.
+
+(3) Subject to subparagraph (5), the chairman of An Foras shall hold office for such period not exceeding 5 years from the date of his appointment, as the Minister shall determine.
+
+(4) Subject to subparagraph (5), an ordinary member of An Foras shall hold office for such period not exceeding 5 years from the date of his appointment, as the Minister shall determine.
+
+(5) Of the members of An Foras (other than the Director General) first appointed after the commencement of *section 9(a)* of the Labour Services (Amendment) Act 2009—
+
+(*a*) such 3 members as the Minister shall determine shall hold office for 3 years from the date of their appointment,
+
+(*b*) such 3 members as the Minister shall determine shall hold office for 4 years from the date of their appointment, and
+
+(*c*) such 3 members as the Minister shall determine shall hold office for 5 years from the date of their appointment.
+
+(6) Subject to subparagraph (7), a member of An Foras (other than the Director General) whose term of office expires by the effluxion of time shall be eligible for reappointment to An Foras.
+
+(7) A member of An Foras (other than the Director General) who has served 2 terms of office shall not be eligible for reappointment to An Foras, and any period during which a person serves as a member of An Foras pursuant to an appointment under paragraph 7 (inserted by section 9(b) of the Labour Services (Amendment) Act 2009) shall be deemed for the purposes of this subparagraph to be a term of office.
+
+(8) The members of An Foras in office immediately before the commencement of section 9(a) of the Labour Services (Amendment) Act 2009 shall continue in office for the period beginning on the date of such commencement and ending on the date of the first appointment of members of An Foras under this paragraph after such commencement, and An Foras as constituted immediately before such commencement shall during that period be deemed to be validly constituted for all purposes.]
+
+3\. The chairman of An Foras may at any time resign his office by letter addressed to the Minister.
+
+4\. The Minister may at any time remove the chairman of An Foras from office.
+
+5\. Subject to the provisions of this Schedule, the chairman shall hold office on such terms and conditions as the Minister may determine.
+
+6\. The chairman of An Foras shall be paid, out of moneys at the disposal of An Foras, such remuneration and allowances for expenses incurred by him as the Minister, with the consent of the Minister for Finance, may determine.
+
+F22[7\. (1) If a member of An Foras (other than the Director General) dies, resigns, ceases to be qualified for office and ceases to hold office or is removed from office, the Minister may appoint a person to be a member of An Foras to fill the casual vacancy so occasioned.
+
+(2) A person appointed to be a member of An Foras pursuant to this paragraph shall hold office for—
+
+(*a*) that period of the term of office of the member who occasioned the casual vacancy concerned that remains unexpired at the date of his appointment, or
+
+(*b*) such other period, not exceeding 5 years, as the Minister may determine,
+
+and shall, subject to subparagraph (7) of paragraph 2 (inserted by section 9 (a) of the Labour Services (Amendment) Act 2009), be eligible for reappointment as a member of An Foras on the expiry of the said period.]
+
+8\. Each member of An Foras shall be a part-time member of An Foras and, subject to the provisions of this Schedule, each ordinary member of An Foras shall hold office on such terms and conditions as the Minister may determine.
+
+9\. An ordinary member of An Foras whose term of office expires by effluxion of time shall be eligible for re-appointment as a member of An Foras or for election or re-election for such re-appointment, as may be appropriate.
+
+10\. The Minister may at any time remove an ordinary member of An Foras from office.
+
+11\. An ordinary member of An Foras may resign his office as a member by letter addressed to the Minister.
+
+F23[12\. (1) The Minister may at any time remove from office a member of An Foras and, in particular, may remove such member from office if the Minister is satisfied that—
+
+(*a*) the member is not adequately performing his functions, whether by reason of incapacity through illness or injury or for any other reason,
+
+(*b*) a material conflict of interest exists in relation to the performance by the member of his functions,
+
+(*c*) the removal of the member is necessary or expedient for the effective performance by An Foras of its functions,
+
+(*d*) the member has contravened section 9A (inserted by section 6 of the Labour Services (Amendment) Act 2009), or
+
+(*e*) the member has contravened the Act of 1995.
+
+(2) Where a person is removed from office pursuant to subparagraph (1), he shall thenceforth be disqualified for membership of An Foras.
+
+(3) A member of An Foras may resign from office by notice in writing given to the Minister and the resignation shall take effect on the day on which the Minister receives the notice.
+
+(4) A member of An Foras shall cease to be qualified for office and shall cease to hold office if he—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is convicted of an indictable offence in relation to a company,
+
+(*d*) is convicted of an offence involving fraud or dishonesty, whether in connection with a company or not,
+
+(*e*) is the subject of an order under section 160 of the Companies Act 1990,
+
+(*f*) is sentenced to a term of imprisonment by a court of competent jurisdiction, or
+
+(*g*) ceases to be ordinarily resident in the State.
+
+(5) A member of An Foras shall, subject to the provisions of this Act, hold office upon such terms and conditions (including terms and conditions relating to remuneration and allowances) as may be determined by the Minister, with the consent of the Minister for Finance.]
+
+13\. Each ordinary member of An Foras shall be paid, out of moneys at the disposal of An Foras, such remuneration (if any) and allowances for expenses incurred by him (if any) as the Minister, with the consent of the Minister for Finance, may sanction.
+
+14\. An Foras shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+15\. The Minister may fix the date, time and place of the first meeting of An Foras.
+
+16\. The quorum for a meeting of An Foras shall be F24[7].
+
+17\. At a meeting of An Foras—
+
+(*a*) the chairman of An Foras shall, if present, be the chairman of the meeting,
+
+(*b*) if and so long as the chairman of An Foras is not present or if the office of chairman is vacant, the members of An Foras who are present shall choose one of their number to be chairman of the meeting.
+
+18\. The chairman of An Foras, and each ordinary member of An Foras, present at a meeting thereof shall have a vote.
+
+19\. Every question at a meeting of An Foras shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equal division of votes, the chairman of the meeting shall have a second or casting vote.
+
+20\. An Foras may act notwithstanding one or more than one vacancy among its members.
+
+21\. Subject to the provisions of this Schedule, An Foras shall regulate, by standing orders or otherwise, the procedure and business of An Foras.
+
+22\. An Foras shall, as soon as may be after its establishment, provide itself with a seal.
+
+23\. The seal of An Foras shall be authenticated by the signature of the chairman of An Foras or some other member thereof authorised by An Foras to act in that behalf and the signature of an officer of An Foras authorised by An Foras to act in that behalf.
+
+24\. Judicial notice shall be taken of the seal of An Foras and every document purporting to be an instrument made by An Foras and to be sealed with the seal (purporting to be authenticated in accordance with *paragraph 23*) of An Foras shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 9(a), S.I. No. 12 of 2010.
+>
+> F22: Substituted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 9(b), S.I. No. 12 of 2010.
+>
+> F23: Substituted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 9(c), S.I. No. 12 of 2010.
+>
+> F24: Substituted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 9(d), S.I. No. 12 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C11: Title of schedule construed (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 12, S.I. No. 12 of 2010.
+>
+> **Construction of references to Schedule to Principal Act.**
+>
+> **12.**— The Schedule to the Principal Act shall become Schedule 1 to the Principal Act, and references in any enactment to that Schedule shall be construed accordingly.
+
+### Part II — Election of An Foras Employees’ Members of An Foras
+
+F25[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Repealed (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 10, S.I. No. 12 of 2010.
+>
+> **Editorial Notes:**
+>
+> E85: Previous affecting provision: sch. pt. 2, paras. 10 and 11 amended (18.08.2005) by *European Communities (Protection of Employees) (Part-Time Workers) Regulations 2005* (S.I. No. 528 of 2005), reg. 2.
+
+## SCHEDULE 2
+
+F26[**Redress for Contravention of Section 13B(1)**
+
+*Complaints to rights commissioner.*
+
+1.(1) An employee or any trade union of which the employee is a member, with the consent of the employee, may present a complaint to a rights commissioner that the employee’s employer has contravened subsection (1) of section 13B (inserted by *section 7* of the *Labour Services (Amendment) Act 2009*) in relation to the employee.
+
+(2) Where a complaint under subparagraph (1) is made, the rights commissioner shall—
+
+(*a*) give the parties an opportunity to be heard by the commissioner and to present to the commissioner any evidence relevant to the complaint,
+
+(*b*) give a decision in writing in relation to the complaint, and
+
+(*c*) communicate the decision to the parties.
+
+(3) A decision of a rights commissioner under subparagraph (2) shall do one or more of the following:
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded,
+
+(*b*) require the employer to take a specified course of action,
+
+(*c*) require the employer to pay to the employee compensation of such amount (if any) as is just and equitable having regard to all the circumstances but not exceeding 2 years remuneration in respect of the employee’s employment.
+
+(4) A rights commissioner shall not entertain a complaint under this paragraph if it is presented to him after the expiration of the period of 6 months beginning on the date of the contravention to which the complaint relates.
+
+(5) Notwithstanding subparagraph (4), a rights commissioner may entertain a complaint under this paragraph presented to him after the expiration of the period referred to in subparagraph (4) (but not later than 12 months after such expiration) if he is satisfied that the failure to present the complaint within that period was due to reasonable cause.
+
+(6) A complaint shall be presented by giving notice of it in writing to a rights commissioner and the notice shall contain such particulars and be in such form as may be specified from time to time by the Minister.
+
+(7) A copy of a notice under subparagraph (6) shall be given to the other party concerned by the rights commissioner concerned.
+
+(8) Proceedings under this paragraph before a rights commissioner shall be conducted otherwise than in public.
+
+(9) A rights commissioner shall furnish the Labour Court with a copy of each decision given by the commissioner under subparagraph (2).
+
+*Appeal from decision of rights commissioner.*
+
+2\. (1) A party concerned may appeal to the Labour Court from a decision of a rights commissioner under paragraph 1 and, if the party does so, the Labour Court shall—
+
+(*a*) give the parties an opportunity to be heard by it and to present to it any evidence relevant to the appeal,
+
+(*b*) make a determination in writing in relation to the appeal affirming, varying or setting aside the decision, and
+
+(*c*) communicate the determination to the parties.
+
+(2) An appeal under this paragraph shall be initiated by the party concerned, giving, within 6 weeks (or such greater period as the Labour Court may determine in the particular circumstances) from the date on which the decision to which it relates was communicated to the party, a notice in writing to the Labour Court containing such particulars as are determined by the Labour Court under subparagraph (4) and stating the intention of the party concerned to appeal against the decision.
+
+(3) A copy of a notice under subparagraph (2) shall be given by the Labour Court to any other party concerned as soon as practicable after the receipt of the notice by the Labour Court.
+
+(4) The following matters, and the procedures to be followed in relation to them, shall be determined by the Labour Court, namely:
+
+(*a*) the procedure in relation to all matters concerning the initiation and the hearing by the Labour Court of appeals under this paragraph;
+
+(*b*) the times and places of hearings of such appeals;
+
+(*c*) the representation of the parties to such appeals;
+
+(*d*) the publication and notification of determinations of the Labour Court;
+
+(*e*) the particulars to be contained in a notice under subparagraph (2); and
+
+(*f*) any matters consequential on, or incidental to, the foregoing matters.
+
+(5) The Minister may, at the request of the Labour Court, refer a question of law arising in proceedings before it under this paragraph to the High Court for its determination and the determination of the High Court shall be final and conclusive.
+
+(6) A party to proceedings before the Labour Court under this paragraph may appeal to the High Court from a determination of the Labour Court on a point of law and the determination of the High Court shall be final and conclusive.
+
+(7) Section 39(17) of the Redundancy Payments Act 1967 shall apply in relation to proceedings before the Labour Court under this Part as it applies to matters referred to the Employment Appeals Tribunal under that section with—
+
+(*a*) the substitution in that provision of references to the Labour Court for references to the Tribunal,
+
+(*b*) the deletion in paragraph (*d*) of that provision of ‘registered’, and
+
+(*c*) the substitution in paragraph (*e*) of that provision of ‘a fine not exceeding €5,000’ for ‘a fine not exceeding twenty pounds’.
+
+*Paragraphs 1 and 2: supplemental provisions.*
+
+3\. (1) Where a decision of a rights commissioner in relation to a complaint under this Schedule has not been carried out by the employer concerned in accordance with its terms, the time for bringing an appeal against the decision has expired and no such appeal has been brought, the employee concerned may bring the complaint before the Labour Court and the Labour Court shall, without hearing the employer concerned or any evidence (other than in relation to the matters aforesaid), make a determination to the like effect as the decision.
+
+(2) The bringing of a complaint before the Labour Court under subparagraph (1) shall be effected by giving to the Labour Court a written notice containing such particulars (if any) as may be determined by the Labour Court.
+
+(3) The Labour Court shall publish, in a manner it considers appropriate, particulars of any determination made by it under subparagraph (4)(*a*), (*b*), (*c*), (*e*) and (*f*) of paragraph 2 (not being a determination as respects a particular appeal under that paragraph) and subparagraph (2).
+
+*Enforcement of determinations of Labour Court.*
+
+4\. (1) If an employer fails to carry out in accordance with its terms a determination of the Labour Court in relation to a complaint under paragraph 1 within 6 weeks from the date on which the determination is communicated to the parties, the Circuit Court shall, on application to it in that behalf by—
+
+(*a*) the employee concerned, or
+
+(*b*) with the consent of the employee, any trade union of which the employee is a member,
+
+without hearing the employer or any evidence (other than in relation to the matters aforesaid), make an order directing the employer to carry out the determination in accordance with its terms.
+
+(2) The reference in subparagraph (1) to a determination of the Labour Court is a reference to a determination in relation to which, at the expiration of the time for bringing an appeal against it, no such appeal has been brought or, if such an appeal has been brought it has been abandoned and the references to the date on which the determination is communicated to the parties shall, in a case where such an appeal is abandoned, be construed as references to the date of such abandonment.
+
+(3) In an order under this paragraph providing for the payment of compensation, the Circuit Court may, if in all the circumstances it considers it appropriate to do so, direct the employer concerned to pay to the employee concerned interest on the compensation at the rate referred to in section 22 of the Courts Act 1981, in respect of the whole or any part of the period beginning 6 weeks after the date on which the determination of the Labour Court is communicated to the parties and ending on the date of the order.
+
+(4) An application under this paragraph shall be made to the Circuit Court sitting in the Circuit in which is situated the place of work (within the meaning of the Safety, Health and Welfare at Work Act 2005) at which the employee is normally employed by the employer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), s. 11, S.I. No. 12 of 2010.

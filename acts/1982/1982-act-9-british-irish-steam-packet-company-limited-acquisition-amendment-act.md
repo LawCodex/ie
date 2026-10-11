@@ -1,0 +1,42 @@
+---
+title: "British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1982"
+identifier: "eli/1982/act/9"
+type: act
+jurisdiction: ie
+language: en
+number: 9
+year: 1982
+date: 1982-06-15
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1982/act/9/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1982
+
+AN ACT TO AMEND AND EXTEND THE BRITISH & IRISH STEAM PACKET COMPANY LIMITED (ACQUISITION) ACTS, 1965 to 1979. [15*th June*, 1982]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Purchase of additional shares of British & Irish Steam Packet Company Limited by Minister for Finance.
+
+**1.**—Section 2 of the British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1971, is hereby amended by the substitution of “fifty-eight million ordinary shares” for “thirty-three million ordinary shares” (inserted by the British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1979), and the said section 2, as so amended, is set out in the Table to this section.
+
+TABLE
+
+The Minister for Finance may purchase, in addition to the ordinary shares of the Company purchased by him under the agreement approved of by section 2 of the Principal Act, not more than fifty-eight million ordinary shares of the Company of £1 each.
+
+## 2. Increase of amount of borrowings by British & Irish Steam Packet Company Limited guaranteed by Minister for Finance.
+
+**2.**—Section 5 of the British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1971, is hereby amended by the substitution of “£40,000,000” for “£15,000,000” (inserted by the British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1979) in subsection (2), and the said subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(2) The Minister for Finance shall not so exercise the powers conferred by subsection (1) of this section that the amount, or the aggregate amount, of principal which he may at any one time be liable to pay on foot of any guarantee or guarantees under that subsection for the time being in force, together with the amount of principal (if any) which the Minister for Finance has previously paid on foot of any such guarantees and has not been repaid by the Company, exceeds £40,000,000.
+
+## 3. Short title and collective citation.
+
+**3.**—(1) This Act may be cited as the British & Irish Steam Packet Company Limited (Acquisition) (Amendment) Act, 1982.
+
+(2) The British & Irish Steam Packet Company Limited (Acquisition) Acts, 1965 to 1979, and this Act may be cited together as the British & Irish Steam Packet Company Limited (Acquisition) Acts, 1965 to 1982.

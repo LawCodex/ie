@@ -1,0 +1,45 @@
+---
+title: "Voluntary Health Insurance (Amendment) Act, 1998"
+identifier: "eli/1998/act/46"
+type: act
+jurisdiction: ie
+language: en
+number: 46
+year: 1998
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1998/act/46/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Voluntary Health Insurance (Amendment) Act, 1998
+
+AN ACT TO AMEND AND EXTEND THE VOLUNTARY HEALTH INSURANCE ACTS, 1957 AND 1996, AND TO PROVIDE FOR RELATED MATTERS. [15*th December*, 1998]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Power to act as agent for international healthcare plan.
+
+**1.**—(1) Notwithstanding the Voluntary Health Insurance Acts, 1957, and 1996, the Board may, subject to the consent of the Minister for Health and Children, act as agent for an insurer in respect of the provision of insurance cover pursuant to an international healthcare plan.
+
+(2) In this section—
+
+“agent” means the Board where it holds an appointment in writing from an insurer enabling the Board to place insurance business with that insurer;
+
+“insurer” means the holder of an authorisation within the meaning of the European Communities (Non-Life Insurance) Framework Regulations, 1994 (S.I. No. 359 of 1994);
+
+“international healthcare plan” means a plan, scheme or other insurance arrangement made available by the Board which provides for the making of payments by an insurer to, or on behalf of, persons who will be resident outside the State for such periods as may be specified by the Board in the plan, in respect of medical, surgical or related services.
+
+## 2. Application of Part IV of Insurance Act, 1989.
+
+**2.**—Notwithstanding section 25 of the Voluntary Health Insurance Act, 1957, Part IV of the Insurance Act, 1989, shall apply to the Board in so far as it is acting, for the purposes of this Act, as an intermediary within the meaning of section 2 of the Insurance Act, 1989.
+
+## 3. Expenses.
+
+**3.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be approved by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 4. Short title, collective citation and construction.
+
+**4.**—(1) This Act may be cited as the Voluntary Health Insurance (Amendment) Act, 1998.
+
+(2) This Act and the Voluntary Health Insurance Acts, 1957 and 1996, may be cited together as the Voluntary Health Insurance Acts, 1957 to 1998, and shall be construed together as one.

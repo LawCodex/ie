@@ -1,0 +1,1472 @@
+---
+title: "Regional Technical Colleges Act, 1992"
+identifier: "eli/1992/act/16"
+type: act
+jurisdiction: ie
+language: en
+number: 16
+year: 1992
+date: 1992-07-19
+last_amended: 2022-11-10
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1992/act/16/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1992/act/16/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Regional Technical Colleges Act, 1992
+
+AN ACT TO PROVIDE FOR THE ORGANISATION AND DEVELOPMENT OF REGIONAL TECHNICAL AND OTHER COLLEGES, TO DEFINE THEIR FUNCTIONS, AND TO MODIFY THE PROVISIONS OF SECTION 7 OF THE VOCATIONAL EDUCATION (AMENDMENT) ACT, 1944, AND TO PROVIDE FOR OTHER MATTERS CONNECTED WITH THE FOREGOING. [19*th July*, 1992]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (21.10.2020) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 451 of 2020), arts. 2, 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Department of Education and Skills contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> 3\. (1) The functions vested in the Minister for Education and Skills -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule, and
+>
+> (*b*) under the Regulations specified in Part 2 of the Schedule, are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education and Skills contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> ...
+>
+> SCHEDULE
+>
+> Article 3
+>
+> Part 1
+>
+> ...
+>
+> Institutes of Technology Acts 1992 to 2006
+>
+> ...
+
+## 1. Commencement.
+
+**1.**—This Act shall come into operation on such day as the Minister shall by order appoint.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (1.01.1993) by *Regional Technical Colleges Act, 1992 (Commencement) Order 1992* (S.I. No. 33 of 1992).
+>
+> 2\. The 1st day of January, 1993 is hereby appointed as the day on which the Regional Technical Colleges Act, 1992 (No. 16 of 1992), shall come into operation.
+
+## 2. Interpretation.
+
+**2.**—(1) In this Act—
+
+“academic council” has the meaning assigned to it by *section 10* of this Act;
+
+F1["An tÚdarás" means An tÚdarás umArd-Oideachas;]
+
+F2["college" means an institution of higher education declared by *paragraph (a)* of *section 3(1)* (as amended by the Institutes of Technology Act 2006) to be a college to which this Act applies and, in relation to the Cork Institute of Technology, includes a school of that college declared to be such under of that subsection;]
+
+“course of study” means a course of study, instruction or training leading to an educational award by the National Council for Educational Awards, an university in the State or such other certifying authority as may be approved by the Minister from time to time;
+
+“the Director” in relation to a college, means the person appointed under *section 9* of this Act to be the Director of the college;
+
+F3["education and training board" in relation to a college, means the education and training board in whose education and training board area the college is situated;]
+
+F4["education and training board" means an education and training board established under the Education and Training Boards Act 2013;]
+
+“establishment” and “establishment date” refer, in the case of a regional technical college established by *section 3 (1)* of this Act, to the commencement of this Act and, in the case of a college established by order under *section 3 (2)* of this Act or an educational institution or part of such an institution which by order under *section 3 (3)* of this Act forms part of a college, to the commencement of the order;
+
+“functions” includes powers and duties;
+
+“governing body”, in relation to a college, means the governing body of the college established by *section 6* of this Act;
+
+“graduate” means a person on whom there has been conferred or who has been granted or given an educational award on successful completion of a course of study at a college;
+
+“local authority” means the council of a county, the council of a county or other borough or the council of an urban district;
+
+“the Minister” means the Minister for Education;
+
+F5[...]
+
+F6[“regulations of the college”, in relation to a college, means rules made by the governing body of the college under *paragraph 12* of the *Second Schedule*;
+
+“student”, in relation to a college, means a person registered as a student by the college or a full-time officer of the student union who was first elected or appointed to his or her office while he or she was registered as a student by the college;
+
+“student union”, in relation to a college, means the student union or other student representative body recognised by the college;]
+
+(2) A reference in this Act to the performance of functions includes a reference to the exercise of powers and the performance of duties.
+
+(3) A reference in this Act to a subsection is to a subsection of the section in which the reference is made unless the contrary is indicated.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 3(a), S.I. No. 36 of 2007.
+>
+> F2: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 3(b), S.I. No. 36 of 2007.
+>
+> F3: Inserted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1)(a) and sch. 6 item 12, S.I. No. 211 of 2013.
+>
+> F4: Substituted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 80(a), S.I. No. 124 of 2018.
+>
+> F5: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1)(b) and sch. 6 item 12, S.I. No. 211 of 2013.
+>
+> F6: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 106, S.I. No. 554 of 2022.
+>
+> F7: Inserted by *Technological Universities Act 2018* (3/2018), s. 80(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: definitions inserted by *Technological Universities Act 2018* (3/2018), s. 80(b), not commenced as of date of revision.
+>
+> "regulations of the college" means rules made by the governing body under paragraph 12 of the Second Schedule;
+>
+> "student" means a person registered as a student by the college or a full-time officer of the student union who was first elected or appointed to his or her office while he or she was registered as a student by the college;
+>
+> "student union" means the student union or other student representative body recognised by the college;
+>
+> C3: Functions transferred and references construed (21.10.2020) by *Further and Higher Education, Research, Innovation and Science (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 451 of 2020), arts. 2, 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Department of Education and Skills contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Further and Higher Education, Research, Innovation and Science.
+>
+> 3\. (1) The functions vested in the Minister for Education and Skills -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule, and
+>
+> (*b*) under the Regulations specified in Part 2 of the Schedule, are transferred to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> (2) References to the Minister for Education and Skills contained in any Act or instrument made under such Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Further and Higher Education, Research, Innovation and Science.
+>
+> ...
+>
+> SCHEDULE
+>
+> Article 3
+>
+> Part 1
+>
+> ...
+>
+> Institutes of Technology Acts 1992 to 2006
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of “education and training board” inserted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1)(a) and sch. 6 item 12, S.I. No. 211 of 2013; substituted as per F-note above.
+
+## 3. Establishment of colleges.
+
+**3.**—F8[(1)(*a*) Each institution of higher education specified in *column (1)* of the *First Schedule* is declared to be a college to which this Act applies and shall, subject to *subsection (4)*, continue to bear, and to be known by, the name in the Irish language or in the English language by which it is referred to in that Schedule.
+
+(*b*) Coláiste Ealaíne agus Deartha Crawford (Crawford College of Art and Design), Ceol-Scoil Chorcaí (Cork School of Music) and Coláiste Náisiúnta Mara na hÉireann (National Maritime College of Ireland) are declared to be schools of the Cork Institute of Technology and each of them shall continue to bear, and to be known by, the name in the Irish language or in the English language by which it is referred to in this paragraph.
+
+(*c*) (i) Coláiste Turasóireachta Na Cealla Beaga (Tourism College Killybegs) is declared to be a school of the Letterkenny Institute of Technology and it shall continue to bear, and to be known by, the name in the Irish language or the English language by which it is referred to in this paragraph, or by such other name as the governing body, subject to the consent of the Minister, may determine.
+
+(ii) Every person who, immediately before the commencement of this paragraph, is—
+
+(I) an employee of County Donegal Vocational Education Committee, and
+
+(II) working for the college referred to in subparagraph *(i)*,
+
+shall, on such commencement, become and be a member of the staff of Letterkenny Institute of Technology and shall not, while in the service of that college, receive less remuneration or be subject to less beneficial conditions of service than the remuneration approved by the Minister with the concurrence of the Minister for Finance to which that person was entitled and the conditions of service approved by the Minister to which the person was subject before such commencement.]
+
+(2) F9[...]
+
+(3) F10[...]
+
+(4) The Minister may, following consultation with the governing body of a college, by order change the name of the college in the *First Schedule* and amend the said Schedule accordingly.
+
+(5) A college shall be a body corporate with perpetual succession and power to sue F11[and may be sued in its corporate name and may, with the consent of the Minister, acquire, hold and dispose of land, an interest in land or any other property].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 4(a), S.I. No. 36 of 2007.
+>
+> F9: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 4(b), S.I. No. 36 of 2007.
+>
+> F10: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 4(b), S.I. No. 36 of 2007.
+>
+> F11: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 107, S.I. No. 554 of 2022.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (2) substituted (11.06.2001) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 32(a), S.I. No. 418 of 2001; substituted as per F-note above.
+>
+> E4: Previous affecting provision: subs. (1) amended (6.07.1999) by *Regional Technical Colleges (Amendment) Act 1999*(20/1999), s. 4(1)(a), commenced on enactment; substituted as per F-note above.
+>
+> E5: Previous affecting provision: power pursuant to subs. (4) exercised (28.01.1998) by *Regional Technical Colleges Act, 1992 (Change of Name of College) Order 1998* (S.I. No. 19 of 1998); sch. 1 substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 24, S.I. No. 36 of 2007.
+>
+> E6: Previous affecting provision: power pursuant to subs. (4) exercised (18.12.1997) by *Regional Technical Colleges Act, 1992 (Change of Name of College) Order 1997* (S.I. No. 512 of 1997); sch. 1 substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 24, S.I. No. 36 of 2007.
+>
+> E7: Previous affecting provision: power pursuant to subs. (4) exercised (7.05.1997) by *Regional Technical Colleges Act, 1992 (Amendment) (No. 2) Order 1997* (S.I. No. 199 of 1997), in effect as per art. 1(2); sch. 1 substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 24, S.I. No. 36 of 2007.
+>
+> E8: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.1997) by *Regional Technical Colleges Act, 1992 (Amendment) Order 1997* (S.I. No. 149 of 1997), in effect as per art. 1(2); sch. 1 substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 24, S.I. No. 36 of 2007.
+
+## 3A. Appointment of committee to advise An tÚdarás.
+
+F12[**3A.** F13[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted (11.06.2001) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 32(b), S.I. No. 418 of 2001.
+>
+> F13: Repealed (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 5, S.I. No. 36 of 2007.
+
+## 4. Membership of colleges.
+
+**4.**—(1) The members of a college shall be—
+
+(*a*) the members of the governing body,
+
+(*b*) the members of the academic council,
+
+(*c*) the members of the staff,
+
+(*d*) the registered students of the college,
+
+(*e*) the graduates of the college,
+
+(*f*) such other persons as the governing body may appoint to be members.
+
+(2) Membership of a college under subsection *(1) (f)* shall continue until the governing body otherwise declares.
+
+## 5. Functions of colleges.
+
+**5.**—(1) The principal function of a college shall, subject to the provisions of this Act, be to provide vocational and technical education and training for the economic, technological, scientific, commercial, industrial, social and cultural development of the State with particular reference to the region served by the college, and, without prejudice to the generality of the foregoing, a college shall have the following functions—
+
+(*a*) to provide such courses of study as the governing body of the college considers appropriate;
+
+F14[(*b*) to make awards, with the exception of doctoral degrees, to students where the college has satisfied itself that the students have acquired and demonstrated the appropriate standard of knowledge, skill or competence for awards that are included within the National Framework of Qualifications;]
+
+F15[(*bb*) F16[...]]
+
+(*c*) subject to such conditions as F17[An tÚdarás] may determine, to engage in research, consultancy and development work and to provide such services in relation to these matters as the governing body of the college considers appropriate;
+
+(*d*) to enter into arrangements with other institutions in or outside the State for the purpose of offering joint courses of study and of engaging jointly in programmes of research, consultancy and development work in relation to such matters as the governing body of the college considers appropriate;
+
+F18[(*e*) in relation to any of the following companies or undertakings and in accordance with the following law, namely—
+
+(i) a limited liability company in the State — in accordance with the Companies Acts, or
+
+(ii) a company or undertaking (the liability of members of which is limited) in a state other than the State — in accordance with the law of that state, to—
+
+(I) promote and take part in the formation of it,
+
+(II) acquire, hold or dispose of shares or other interests in its capital, or
+
+(III) participate in the management or direction of it,
+
+but only if the objects of the company or undertaking include the carrying on of such business, trading or other activities, as the college thinks fit, for the purpose of promoting or assisting in the performance of, or in connection with, the functions of the college;]
+
+(*f*) to institute and, if thought fit, to award scholarships, prizes and other awards;
+
+(*g*) to maintain, manage, administer and invest all the money and assets of the college;
+
+(*h*) to accept gifts of money, land or other property upon such trusts and conditions, if any, as may be specified by the donors: provided that nothing in any such trust or condition is contrary to the provisions of this Act;
+
+F20[(*i*) subject to the consent of the Minister to acquire, hold and dispose of land, an interest in land or any other property;]
+
+(*j*) to do all such acts and things as may be necessary to further the objects and development of the college.
+
+F14[(1A) Awards referred to in *subsection (1)(b)* may only be conferred, granted or given on the recommendation of the academic council of the college to or on persons who satisfy the academic council that they have attended or otherwise pursued or followed appropriate courses of study, instruction, research or training provided by the college, or that they have previously acquired learning in accordance with procedures established by the college under section 56 of the Qualifications and Quality Assurance (Education and Training) Act 2012, and have attained an appropriate standard in examinations or other tests of knowledge or ability or have performed other exercises in a manner regarded by the academic council of the college as being satisfactory.]
+
+(2) F21[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (1.01.2020) by *Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019* (32/2019), s. 36(a), (b), S.I. No. 540 of 2019.
+>
+> F15: Inserted (11.06.2001) by Qualifications (Education and Training) Act 1999 (26/1999), s. 32(c), S.I. No. 418 of 2001.
+>
+> F16: Deleted (5.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012* (28/2012), s. 86 and sch. 3 item 3.
+>
+> F17: Substituted (1.02.2007) by *Institutes of Technology Act* (25/2006), s. 6(a)(i), S.I. No. 36 of 2007.
+>
+> F18: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 6(a)(ii), S.I. No. 36 of 2007.
+>
+> F19: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 6(a)(iii), S.I. No. 36 of 2007.
+>
+> F20: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 108, S.I. No. 554 of 2022.
+>
+> F21: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 6(b), S.I. No. 36 of 2007.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (1)(b) deleted (5.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012* (28/2012), s. 86 and sch. 3 item 3; reinserted as per F-note above.
+>
+> E10: Previous affecting provision: subs. (1)(e) deleted by *Vocational Education (Amendment) Act 2001* (23/2001), s. 37(a), not commenced; substituted as per F-note above.
+>
+> E11: Previous affecting provision: subs. (2A) inserted by *Vocational Education (Amendment) Act 2001* (23/2001), s. 37(b), not commenced; section repealed (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 55, S.I. No. 36 of 2007.
+>
+> E12: Previous affecting provision: subs. 5(1)(bb) inserted (11.06.2007) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 32(c); deleted as per F-note above.
+>
+> E13: Previous affecting provision: subs. (1)(b) substituted (11.06.2001) by *Qualifications (Education and Training) Act 1999* (26/1999), s. 32(c), S.I. No. 418 of 2001; deleted as per F-note above.
+
+## 5A. Academic freedom.
+
+F22[**5A.**—(1) A college, in performing its functions, shall have the right and responsibility to preserve and promote the traditional principles of academic freedom in the conduct of its internal and external affairs.
+
+(2) A member of the academic staff of a college shall have the freedom, within the law, in his or her teaching, research and any other activities either in or outside the college, to question and test received wisdom, to put forward new ideas and to state controversial or unpopular opinions and shall not be disadvantaged, or subject to less favourable treatment by the college, for the exercise of that freedom.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (26/2006), s. 7, S.I. No. 36 of 2007.
+
+## 6. Governing bodies.
+
+F23[**6.**—(1) A college shall have a governing body established under this Act to perform the functions conferred on the college by this Act.
+
+(2) The *Second Schedule* shall apply to a governing body.
+
+(3) Subject to this Act, a governing body shall consist of 19 members as determined in accordance with this section.
+
+(4) The members of a governing body shall be —
+
+(*a*) a chairperson (in this section and in the *Second Schedule* referred to as the "chairperson"), who shall be an external member, appointed by the governing body,
+
+(*b*) 9 external members (other than the chairperson), appointed by the governing body,
+
+(*c*) the Director,
+
+(*d*) 5 internal members (other than the Director), being —
+
+(i) 3 members of the academic staff of the college, elected by the academic staff of the college,
+
+(ii) one member of the non-academic staff of the college, elected by the non-academic staff of the college, and
+
+(iii) one other internal member of the college,
+
+and
+
+(*e*) 3 student union representatives appointed by the governing body.
+
+(5) The internal members of a governing body shall be elected or selected for appointment as such internal members in accordance with regulations made under *subsection (9)*.
+
+(6) Subject to *subsection (7)*, with regard to the appointment of external members of a governing body —
+
+(*a*) 3 such members shall be nominated by the Minister, and
+
+(*b*) 7 such members shall be appointed by the governing body in accordance with a process for such appointments that is determined by the governing body and approved by the Minister.
+
+(7) Before a person is nominated for appointment or appointed, as may be appropriate, as an external member of a governing body of a college, the Minister or the governing body of the college, as the case may be, shall be satisfied that the person is suitable for appointment as such an external member by reason of his or her possessing knowledge of, and experience in, matters connected with the functions of the college to enable him or her to make a substantial contribution to the effective and efficient performance of those functions.
+
+(8) (*a*) The term of office of a member of the governing body, other than the Director, shall not exceed 4 years and such a member may not serve more than two consecutive terms of office.
+
+(*b*) A member of the governing body who is a student at the college shall hold office for such period, not exceeding one year, as the governing body may determine but may be re-appointed for a further period not exceeding one year.
+
+(9) A governing body shall, with the approval of the Minister, make such regulations of the college relating to the selection, election, nomination or appointment of members of the governing body as it thinks fit, and their selection, election, nomination or appointment shall be carried out in accordance with those regulations.
+
+(10) In performing functions under this section, the Minister and a governing body shall have regard to the objectives that —
+
+(*a*) not less than 40 per cent of the members of the governing body shall be women and not less than 40 per cent of them shall be men,
+
+(*b*) the membership of the governing body shall take account of the region served by the college, and
+
+(*c*) the membership of the governing body shall broadly reflect the composition of Irish society, including persons who are competent in the Irish language.
+
+(11) In this section —
+
+“external member”, in relation to a governing body, means a member of the governing body other than an internal member or a student member thereof or a member of the academic council of the college;
+
+“internal member”, in relation to a governing body, means a member of the governing body who is a member of the staff of the college or a person who is remunerated under a contract with the college;
+
+“student member”, in relation to a governing body, means a member of the governing body who is a student at the college.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 109, S.I. No. 554 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: section substituted by *Technological Universities Act 2018* (3/2018), s. 82(1), not commenced; section substituted as per F-note above.
+>
+> E15: Previous affecting provision: subs. (6) substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 12, S.I. No. 211 of 2013; section substituted as per F-note above.
+>
+> E16: Previous affecting provision: application of subss. (2) and (3) restricted (6.07.1999) by *Regional Technical Colleges (Amendment) Act 1999* (20/1999), s. 5(1), commenced on enactment. Note that Vocational Education Committees were replaced by Education and Training Boards (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), part 7 and s. 72(2), S.I. Nos. 211, 212 of 2013; section substituted as per F-note above.
+>
+> E17: *Regional Technical Colleges (Amendment) Act 1994* (29/1994), s. 4 , which substituted subs. (4) of this section, was itself amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 16, S.I. No. 211 of 2013, by the substitution of “education and training board” for “vocational education committee” throughout the Act. Although the amendment of this section came into effect in 1994, it may have been intended that the substitution of words should carry through to subs. (4)(a), (b) and (g) of this section, replacing “vocational education committee” with “education and training board”.
+
+## 6A. Transitional arrangements for membership and chairperson of governing bodies.
+
+F24[**6A.** (1) A governing body of a college shall, as soon as practicable after the relevant date and with the approval of the Minister, determine the arrangements and procedures to be put in place by it to ensure that the composition of the governing body of the college complies with *section 6* (inserted by section 109 of the Act of 2022) within the period referred to in *subsection (2)*.
+
+(2) Subject to *subsections (3)* to *(5)*, a governing body of a college shall, within 12 months of the relevant date—
+
+(*a*) determine the composition of the governing body of its college in accordance with the arrangements and procedures put in place by it under *subsection (1)*,
+
+(*b*) appoint the members (other than the Director) of the governing body accordingly, and
+
+(*c*) by notice in writing, inform the Minister of the composition as so determined.
+
+(3) (*a*) A person who was the chairman of a governing body of a college on the relevant date may continue after that date to be the chairperson of the governing body of that college until his or her membership of the governing body ceases, provided that he or she is an external member within the meaning of *section 6* (inserted by section 109 of the Act of 2022).
+
+(*b*) For the purposes of *paragraph (a)*, a term served by a person referred to in that paragraph as a member of the governing body, but not as chairman thereof, before the commencement referred to in that paragraph shall be disregarded for the purposes of *subsection (8)(a)* of *section 6* (inserted by section 109 of the Act of 2022).
+
+(4) A person (other than the Director) who was appointed as a member (including the chairman) of the governing body before the relevant date and who is re-appointed as such member pursuant to *subsection (2)(b)*—
+
+(*a*) shall be so re-appointed for a term of office of no longer than the unexpired term for which he or she was so appointed, and
+
+(*b*) the term of office served by the member (including the chairman) immediately before the relevant date and the term of office for which he or she is re-appointed under *paragraph (a)* shall be regarded as one term of office for the purposes of *subsection (8)(a)* of *section 6* (inserted by section 109 of the Act of 2022).
+
+(5) Notwithstanding *section 6(8)* and paragraph 4 of the *Second Schedule*, where the term of office of all or the majority of the members of a governing body (including the chairman thereof) of a college expires by the effluxion of time during the period referred to in *subsection (2)*, the Minister may, at the request of the governing body of the college and if the members concerned so agree, extend the term of office of those members for such period (that is not longer than the period referred to in *subsection (2)*) as the Minister may determine to facilitate that governing body to comply with that subsection.
+
+(6) In this section —
+
+“Act of 2022” means the Higher Education Authority Act 2022;
+
+“relevant date” means the date on which section 109 of the Act of 2022 comes into operation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 110, S.I. No. 554 of 2022.
+>
+> **Editorial Notes:**
+>
+> E18: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 7. Functions of governing bodies.
+
+F25[**7.**—(1) The functions of the governing body of a college shall be, in pursuance of the functions of the college under *section 5* but within the constraints of the college’s budget under *section 13*—
+
+(*a*) to control and administer the land and other property of the college,
+
+(*b*) to appoint the Director and such other staff as it thinks necessary for the purposes of the college, and
+
+(*c*) to perform such other functions as are conferred on it by this or any other Act.
+
+F26[(1A) The governing body of a college shall—
+
+(*a*) promote the success (including academic success) and reputation of the college,
+
+(*b*) satisfy itself that appropriate systems, procedures and practices are in place—
+
+(i) for the internal performance management and accountability of the college in respect of —
+
+(I) the performance of its functions, and
+
+(II) the achievement of the aims in the strategic development plan under *section 21C*,
+
+and
+
+(ii) in order to implement, and report on compliance with, the policies (whether set out in codes, guidelines or other documents, or any combination thereof) of the Government or a Minister of the Government to the extent that those policies may affect or relate to the functions of the college,
+
+and
+
+(*c*) establish and implement arrangements for the management of the performance of the Director.
+
+(1B) Without prejudice to the generality of *subsections (1)* and *(1A)*, the governing body of a college shall perform the following functions with regard to the college:
+
+(*a*) approve expenditure for major capital and investment projects;
+
+(*b*) approve annual financial statements;
+
+(*c*) provide for and maintain a system of audit;
+
+(*d*) provide for and maintain a system of risk management;
+
+(*e*) provide for and maintain a system of quality assurance in accordance with the Qualifications and Quality Assurance (Education and Training) Act 2012 ;
+
+(*f*) review and oversee the implementation of major plans of action and provide strategic direction;
+
+(*g*) delegate such functions as may be appropriate to the Director;
+
+(*h*) manage the financial affairs of the college to ensure value for money and its financial viability;
+
+(*i*) account to An tÚdarás for funding provided to the college by An tÚdarás.]
+
+(2) For the purpose of the appointment of the Director under *subsection (1)*(*b*), the governing body shall develop such interview and other procedures as in its opinion will best ensure participation in the selection process by candidates of a high calibre from both within and outside of the college and shall publish such procedures in such manner as it considers appropriate.
+
+(3) A governing body has, subject to this or any other Act, such powers as are necessary for the purposes of performing its functions.
+
+(4) F27[...]
+
+(5) F27[...]
+
+(6) In performing its functions a governing body, or, where appropriate, F28[a committee of the governing body established under paragraph 6 of the *Second Schedule*] shall—
+
+(*a*) comply with such policy directions as may be issued by the Minister from time to time, including directions relating to the levels and range of programmes offered by the college,
+
+(*b*) have regard to the promotion and use of the Irish language as a language of general communication and promote the cultivation of the Irish language and its associated literary and cultural traditions,
+
+(*c*) have regard to the attainment of gender balance and equality of opportunity among the students and staff of the college and shall, in particular, promote access to education in the college by economically or socially disadvantaged persons, by persons who have a disability and by persons from sections of society significantly under-represented in the student body,
+
+(*d*) ensure as far as it can that the college contributes to the promotion of the economic, cultural and social development of the State and to respect for the diversity of values, beliefs and traditions in Irish society, and
+
+(*e*) have regard to the statutory responsibilities of other education providers.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 8, S.I. No. 36 of 2007.
+>
+> F26: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 111(a), S.I. No. 554 of 2022.
+>
+> F27: Repealed (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 5(1), sch. 1 part 1, S.I. No. 554 of 2022.
+>
+> F28: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 111(b), S.I. No. 554 of 2022.
+>
+> F29: Deleted by *Technological Universities Act 2018* (3/2018), s. 84, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Previous affecting provision: subss. (4) and (5) deleted by *Technological Universities Act 2018* (3/2018), s. 84, not commenced; subss. repealed as per F-note above.
+
+## 8. Dissolution of governing body.
+
+**8.**—(1) If—
+
+(*a*) the Minister is satisfied that the functions of the governing body of a college are not being duly and effectively discharged, or
+
+(*b*) a governing body wilfully neglects to comply with any order, direction or regulation of the Minister made or given in pursuance of the provisions of this Act, or
+
+(*c*) a governing body fails to comply with any judgment or order of any court of competent jurisdiction,
+
+the Minister may, after consultation with F30[An tÚdarás,]by order dissolve the governing body.
+
+(2) Whenever the Minister makes an order dissolving a governing body the Minister may appoint any body of persons as the Minister thinks fit to perform the functions of the governing body.
+
+(3) The remuneration, if any, of every person appointed under *subsection (2)* shall be paid out of moneys provided by the Oireachtas under *section 15* of this Act.
+
+(4) The Minister shall by order provide for the re-establishment of a governing body dissolved under *subsection (1)* and for the appointment of members thereto in accordance with *section 6* of this Act not later than one year following the dissolution and when the new governing body has been appointed the functions of the dissolved governing body shall be revested in the new governing body and shall cease to be functions of the body of persons appointed under *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 9, S.I. No. 36 of 2007.
+
+## 9. Director.
+
+**9.**—F31[(1) A governing body shall from time to time appoint in a whole-time capacity a person to be the chief officer of the college, and that person shall be known as the Director, or by such other title as the governing body, subject to the consent of the Minister, may determine.]
+
+(2) The selection of the Director shall be a function of the governing body in accordance with the procedures, which shall include the composition of a selection board, determined by F32[An tÚdarás] from time to time.
+
+(3) The provisions of the *Third Schedule* to this Act shall apply to the Director.
+
+F33[(4)Where an office of Director becomes vacant, the governing body, after consultation with An tÚdarás, may appoint a person to perform the functions of the Director until such time as a permanent appointment to that office is made and such interim appointment may be terminated by the governing body at any time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 10(a), S.I. No. 36 of 2007.
+>
+> F32: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 10(b), S.I. No. 36 of 2007.
+>
+> F33: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 10(c), S.I. No. 36 of 2007.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: subs. (4) inserted (2.12.1994) by *Regional Technical Colleges (Amendment) Act 1994* (29/1994), s. 3, commenced on enactment; substituted as per F-note above.
+
+## 10. Academic council.
+
+**10.**—(1) Each college shall have an academic council appointed by the governing body to assist it in the planning, co-ordination, development and overseeing of the educational work of the college and to protect, maintain and develop the academic standards of the courses and the activities of the college.
+
+(2) (*a*) Each governing body may by regulations made under this section provide for the membership and terms of office of the academic council.
+
+(*b*) The majority of members shall be holders of academic appointments within the college and at least one shall be a registered student of the college.
+
+(*c*) The members appointed to the academic council shall hold office for a period of three years and shall be eligible for reappointment.
+
+(3) Without prejudice to the generality of *subsection (1)* the academic council shall have the following particular functions—
+
+(*a*) to design, develop and assist in implementing courses of study F34[...] consistent with the functions of the college;
+
+(*b*) to make recommendations to the governing body for the establishment of appropriate structures to implement the courses of study referred to at *paragraph (a)* of this subsection;
+
+(*c*) to make recommendations to the governing body on programmes for research and development work;
+
+(*d*) to make recommendations to the governing body for the selection, admission, retention and exclusion of students;
+
+(*e*) be responsible, subject to the approval of the governing body, for making the academic regulations of the college;
+
+(*f*) to propose to the governing body, subject to the requirements of the National Council for Educational Awards or any university or other authority to which *section 5 (1) (b)* applies, the form of regulations to be made by the governing body for the conduct of examinations and for the evaluation of academic progress;
+
+(*g*) to make recommendations to the governing body for the award of scholarships, prizes or other awards;
+
+(*h*) to make general arrangements for tutorial or other academic counselling;
+
+(*i*) to exercise any other functions, consistent with this Act, which may be delegated to it by the governing body;
+
+(*j*) to assist in implementing any regulations which may be made by the governing body concerning any of the matters aforesaid.
+
+(4) The academic council, with the approval of the governing body, may—
+
+(*a*) establish such and so many committees, consisting either wholly or partly of persons who are not members of the college, as it thinks proper to assist the academic council in the performance of its functions under this Act, and
+
+(*b*) determine, subject to the provisions of this Act, the functions of any committee established under *paragraph (a)* of this subsection.
+
+(5) The acts of a committee established under *subsection (4) (a)* shall be subject to confirmation by the governing body unless the governing body dispenses with the necessity for such confirmation.
+
+(6) Subject to the provisions of this Act and to the directions of the governing body, the academic council may regulate its own procedure.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 11, S.I. No. 36 of 2007.
+>
+> F35: Substituted by *Technological Universities Act 2018* (3/2018), s. 85, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (2) substituted by *Technological Universities Act 2018* (3/2018), s. 85, not commenced as of date of revision.
+>
+> (2) (*a*) Subject to *paragraphs (b)*, *(c)*, *(d)* and *(e)*, the governing body shall make regulations of the college in relation to the academic council, for—
+>
+> (i) the number of members,
+>
+> (ii) procedures for selection and appointment of members,
+>
+> (iii) eligibility for reappointment of members, and
+>
+> (iv) the number of consecutive periods for which members may hold office.
+>
+> (*b*) Without prejudice to the generality of *paragraph (a)* —
+>
+> (i) the majority of members of the academic council shall be members of the academic staff of the college,
+>
+> (ii) the regulations of the college under *paragraph (a)* shall provide for such number of students of the college, as it considers appropriate, to be members of the academic council.
+>
+> (*c*) The Director shall be—
+>
+> (i) an *ex officio* member of the academic council, and
+>
+> (ii) entitled to preside at all meetings of the academic council or a committee of the council at which he or she is present, but if he or she at any time chooses not to so preside, he or she shall nominate a person to preside in his or her place.
+>
+> (*d*) Other than the Director and members of the academic council who are also students of the college, members of the academic council shall hold office for a period of 3 years and shall be eligible for reappointment.
+>
+> **Editorial Notes:**
+>
+> E20: Transitional provision: any recommendation made, before the day appointed by order under 3/2018, s. 36 or 43, under s. 10 (3)(c) or (g) by the academic council of the dissolved body shall on or after that day, be a recommendation, under 3/2018, s. 17(3)(d) or (g), of the academic council of the technological university in respect of which the order under s. 36 or 43 is made, as provided (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 63, S.I. No. 124 of 2018.
+
+## 11. General provisions in relation to staff.
+
+F36[**11.**—(1) A college may perform such of its functions as the governing body may deem proper through or by any member of its staff.
+
+(2) Subject to *section 12*, there shall be paid by a college to its staff, such remuneration, fees, allowances and expenses as may be approved from time to time by the Minister with the consent of the Minister for Finance.
+
+(3) The payment of any remuneration, fees, allowances or expenses by a company or undertaking referred to in *section 5(1)*(*e*) (as amended by the Institutes of Technology Act 2006) to the staff of a college shall be in accordance with arrangements in that behalf entered into between the colleges and An tÚdarás.
+
+(4) The Education Sector Superannuation Scheme (referred to in Article 2 of the Education Sector Superannuation Scheme (Transfer of Departmental Administration and Ministerial Functions) Order 2001 (S.I. No. 14 of 2001)) shall apply to a college and the members of its staff.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 13, S.I. No. 36 of 2007.
+>
+> **Editorial Notes:**
+>
+> E21: Transitional provisions in the event of the establishment of a technological university or dissolution of an applicant college made (24.04.2018) in *Technological Universities Act 2018* (3/2018), s. 64, S.I. No. 124 of 2018.
+>
+> E22: Previous affecting provision: application of subs. (8) restricted (6.07.1999) by *Regional Technical Colleges (Amendment) Act 1999* (20/1999), s. 9(8), commenced on enactment; section substituted as per F-note above.
+
+## 11A. Provisions in relation to certain staff.
+
+F37[**11A.**—(1)(*a*) A college may appoint such and so many persons to be members of the staff of the college (in addition to the Director) as, subject to the approval of An tÚdarás given with the concurrence of the Minister and the Minister for Finance, the governing body from time to time thinks proper.
+
+F38[(*b*) The Minister or, at the request of the Minister, An tÚdarás, shall give notice in writing informing the governing body of the policies of the Government or the Minister relating to recruitment and selection of staff (including the Director) and the college, in recruiting or selecting staff, shall establish procedures that comply with those policies.]
+
+(*c*) F39[...]
+
+(2) Subject to *section 12*, the members of the staff of a college shall be employed on such terms and conditions as the college (subject to the approval of the Minister given with the concurrence of the Minister for Finance) from time to time determines.
+
+(3) A college may suspend or dismiss a member of its staff, but only in accordance with procedures and subject to any conditions determined by the college, following consultations by it with recognised staff associations or trade unions; those procedures and conditions may provide for the delegation of powers relating to suspension or dismissal to the Director.
+
+(4) *Subsection (3)* shall apply to all members of the staff of a college, except those officers to whom *subsections (3)* and *(4)* (inserted by the Institutes of Technology Act 2006) of *section 12* apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 13, S.I. No. 36 of 2007.
+>
+> F38: Substituted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 86(a), S.I. No. 124 of 2018.
+>
+> F39: Deleted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 86(b), S.I. No. 124 of 2018.
+>
+> **Editorial Notes:**
+>
+> E23: Transitional provisions in relation to processes which may result in the suspension or dismissal of staff on establishment of a technological university or dissolution of an applicant college made (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 62, S.I. No. 124 of 2018.
+
+## 12. Provisions in relation to existing staff.
+
+**12.**—(1) (*a)*Every person who, immediately before the establishment date, is employed by a vocational education committee in an institution specified in the *First Schedule* to this Act or specified in *section 3 (1) (b)* of this Act or in an educational institution or part of such an institution to which an order made under *section 3 (2)* or *3 (3)* of this Act relates as an officer or servant thereof shall, on the establishment date, become and be an officer or servant of the college as appropriate.
+
+(*b*) Every person who, immediately before the establishment date, is employed by a vocational education committee and whose work is concerned with the administration of any such institution or part of an institution and who is designated by the Minister for employment by the college shall, with effect from the establishment date, become and be an officer or servant of the college as appropriate.
+
+(*c*) A person who, at the commencement of this Act, is employed as the Principal or the Director of an institution specified in *section 3 (1) (b)* of this Act shall, if such person so consents, be Head of one of the schools established by that provision.
+
+(*d*) A person to whom *subsection (1)* applies shall not, while in the service of a college, receive less remuneration or be subject to less beneficial conditions of service than the remuneration approved by the Minister with the concurrence of the Minister for Finance to which that person was entitled and the conditions of service approved by the Minister to which that person was subject prior to the establishment date.
+
+(*e*) The conditions of service, restrictions, requirements and obligations to which any such person was subject immediately before the establishment date shall, unless they are varied by agreement, continue to apply to that person, and shall be exercised or imposed by the college or the Director, as may be appropriate, while that person is in the service of the college.
+
+(2) (*a*) The college may, following consultation with any recognised staff associations or trade unions concerned, redistribute or rearrange the duties to be performed by officers or servants to whom *subsection (1)* applies and every such officer or servant shall be bound to perform the duties allocated to that officer or servant in any such redistribution or rearrangement.
+
+(*b*) A redistribution or rearrangement referred to in *paragraph (a)* of this subsection shall not be taken to be removal from or abolition of office for the purpose of any scheme or enactment relating to superannuation or compensation for loss of office.
+
+F40[(3) F41[...]
+
+(4) F41[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 14, S.I. No. 36 of 2007.
+>
+> F41: Repealed (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 87(1)(a), S.I. No. 124 of 2018, subject to transitional provisions in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C6: Certain repealed provisions retained for purposes of section (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 69(a), S.I. No. 211 of 2013.
+>
+> **Saver (Regional Technical Colleges Act 1992 and Dublin Institute of Technology Act 1992).**
+>
+> **69.**—Notwithstanding the repeal of sections 105, 106 and 107 of the Act of 1930, and sections 7 and 8 of the Act of 1944, by section 4 (1), those provisions shall continue to apply as if they had not been repealed for the purposes of—
+>
+> (*a*) section 12 (amended by section 14 of the Institutes of Technology Act 2006) of the Regional Technical Colleges Act 1992, and
+>
+> ...
+
+## 13. Budgets.
+
+F42[**13.**—F43[(1) An tÚdarás shall, on or before the first day of March in each year, notify the Director of the funding (in this section referred to as "allocated funding") to be provided by An tÚdarás for that year to a college, from moneys provided to An tÚdarás under F44[section 19 of the Higher Education Authority Act 2022].]
+
+F43[(2) The Director shall, on or before the first day of April in each year, or such other date as An tÚdarás may approve, prepare and submit following approval by the governing body, to An tÚdarás, in such form and manner as may from time to time be approved by An tÚdarás, a statement of the proposed expenditure and, other than allocated funding, expected income of the college for that year.]
+
+F45[(2A)The allocated funding and the expected income of the college referred to in *subsection (2)*, shall be the budget of the college for that year.]
+
+(3) Where the budget of a college has been determined, it shall be a function of the Director, acting on the authority of the governing body, to carry it into effect.
+
+(4) An tÚdarás may at any time, F46[on an application in that behalf being made to it by] by the governing body of a college, increase the amount of money to be allocated to the college from moneys provided to An tÚdarás.
+
+(5) Where the Director of a college is of opinion that—
+
+(*a*) the actual expenditure in a F47[...] year, or
+
+(*b*) a proposed course of action,
+
+taking into account any increased allocation under *subsection (4)*, will or is likely to result in expenditure in excess of the budget for that F47[...] year (in this section referred to as a "material departure from the budget"), the Director shall so inform the governing body.
+
+(6) Where the governing body, despite being so informed, decides—
+
+(*a*) in the case of *subsection (5)*(*a*), not to decrease its actual expenditure, or
+
+(*b*) in the case of *subsection (5)*(*b*), to continue with its proposed course of action,
+
+the Director, as soon as practicable, shall, unless he or she considers that contrary to his or her foregoing opinion a material departure from the budget will not occur, inform An tÚdarás of the decision of the governing body.
+
+(7) Where, notwithstanding this section, a college incurs expenditure in excess of its budget that is not met from the income of the college other than the money allocated to it by An tÚdarás, that excess shall be a first charge on the budget for the next succeeding F47[...] year.
+
+F46[(8) Subject to *subsection (9)*, a college or any company in which the college has a proprietary interest, may borrow money by means of a bank overdraft or otherwise and may guarantee or underwrite a loan taken or borrowing undertaken by a person or a body of persons.]
+
+F46[(9) An tÚdarás may, from time to time with the approval of the Minister, the Minister for Public Expenditure and Reform and the Minister for Finance, make rules to be complied with by a college in relation to any borrowing, guaranteeing or underwriting under *subsection (8)*, and any such rules, which may be amended in like manner to which they are made, shall include rules relating to—
+
+(*a*) the purposes for which any proposed borrowing, guaranteeing or underwriting may be undertaken by a college,
+
+(*b*) the demonstration by a college of its ability to meet the costs arising from any such borrowing, guaranteeing or underwriting,
+
+(*c*) the identification of the potential for any such proposed borrowing, guaranteeing or underwriting to give rise to additional costs for the State,
+
+(*d*) the requirement to obtain the prior approval of An tÚdarás before borrowing, guaranteeing or underwriting where *paragraph (c)* applies, and
+
+(*e*) the provision by a college to An tÚdarás of information relating to any borrowing, guaranteeing or underwriting undertaken under *subsection (8)*.]]
+
+F48[(10) Where An tÚdarás makes or amends rules under *subsection (9)* it shall—
+
+(*a*) so notify, and furnish a copy of the rules or amendments to, the governing body of each college, and
+
+(*b*) arrange for the rules or amendments to be published on the internet.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 15, S.I. No. 36 of 2007.
+>
+> F43: Substituted (1.01.2019) by *Technological Universities Act 2018* (3/2018), s. 88(1)(a), (b), S.I. No. 124 of 2018, subject to delayed application from next year beginning after coming into operation of subs. (1) as provided in subs. (2).
+>
+> F44: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 145, sch. 4, S.I. No. 554 of 2022
+>
+> F45: Inserted (1.01.2019) by *Technological Universities Act 2018* (3/2018), s. 88(1)(c), S.I. No. 124 of 2018, subject to delayed application from next year beginning after coming into operation of subs. (1) as provided in subs. (2).
+>
+> F46: Substituted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 88(1)(d), (g), (h), S.I. No. 124 of 2018.
+>
+> F47: Deleted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 88(1)(e), (f), S.I. No. 124 of 2018.
+>
+> F48: Inserted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 88(1)(i), S.I. No. 124 of 2018.
+>
+> **Editorial Notes:**
+>
+> E24: Previous affecting provision: subs. (9) amended (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 71, s. 1(2) and S.I. No. 401 of 2011; subsection substituted as per F-note above.
+
+## 14. Annual report and information.
+
+**14.**—F49[(1) The governing body of a college shall, as soon as may be, but not later than 3 months, after the end of each academic year, prepare and publish a report of its proceedings during that year in such form as may be determined by An tÚdarás and provide a copy of such report to An tÚdarás and the Minister.]
+
+(2) The governing body shall supply to the Minister and to F50[An tÚdarás] such information regarding the performance of its functions as may from time to time be required.
+
+F51[(2A) F52[...]]
+
+F53[(3) A college shall supply to An tÚdarás such information as An tÚdarás may from time to time request relating to the number of persons employed by the college, their composition by grade, their terms and conditions of employment (including their remuneration, fees, allowances, expenses and superannuation) and any other related matters.]
+
+F51[(4) F52[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 16(a), S.I. No. 36 of 2007.
+>
+> F50: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 16(b), S.I. No. 36 of 2007.
+>
+> F51: Inserted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 89, S.I. No. 124 of 2018.
+>
+> F52: Repealed (10.11.2022) by *Higher Education Authority Act 2022* (31/2022) s. 5(1) and sch. 1 part 1, S.I. No. 554 of 2022.
+>
+> F53: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 16(c), S.I. No. 36 of 2007.
+
+## 15. Grants.
+
+**15.**—F54[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 17, S.I. No. 36 of 2007.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: application of section extended (2.12.1994) by *Regional Technical Colleges (Amendment) Act 1994* (20/1999), s. 5(3); repealed as per F-note above.
+
+## 16. Keeping of accounts and records.
+
+F55[**16.**—(1) A college shall keep, in such form as may be approved by An tÚdarás, all proper and usual accounts and records of all income received or expenditure incurred by it.
+
+(2) Accounts kept in pursuance of *subsection (1)* shall, to the extent directed by the Comptroller and Auditor General, be submitted annually by a college to the Comptroller and Auditor General, for audit, by such date as the Comptroller and Auditor General may from time to time determine, and, immediately after the audit, a copy of the accounts, together with a copy of the report of the Comptroller and Auditor General on the accounts, shall be presented by the college to An tÚdarás and to the Minister.
+
+(3) The Minister shall cause copies of the accounts presented under this section to the Minister by the college, together with copies of the report of the Comptroller and Auditor General on those accounts, to be laid before each House of the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 18, S.I. No. 36 of 2007.
+
+## 17. Fees and charges.
+
+**17.**—The college may charge fees or admission charges and such other charges of such amounts as may from time to time be determined by its governing body subject to such conditions as may be specified by the Minister from time to time for courses, lectures, examinations, exhibitions and other events held at or by the college and for other activities including research, consultancy and development work undertaken by the college.
+
+## 18. Transfer of property and liabilities.
+
+**18.**—(1) All land which, immediately before the establishment date, stood vested in a vocational education committee or the Minister for the purposes of a college or for the purposes of an educational institution or part of such an institution to which an order made under *section 3 (3)* of this Act relates shall stand vested in the college without any conveyance or assignment and no such property or part thereof or estate or interest therein or right thereover shall be disposed of except with the approval of the Minister F56[...].
+
+(2) On the establishment date, the following shall be and hereby are transferred to the college—
+
+(*a*) all property (other than land) and rights held or enjoyed immediately before the establishment date by the vocational education committee for or in connection with the functions of the college, or of an educational institution or part of such an institution to which an order made under *section 3 (3)* of this Act relates,
+
+(*b*) all liabilities incurred before the establishment date by the vocational education committee for the purposes of or in connection with the college or any such educational institution or part thereof that had not been discharged before the establishment date,
+
+and, accordingly, without any further transfer or assignment—
+
+(i) the said property shall, on the establishment date, vest in the college but subject to all trusts and equities affecting the property and capable of being performed,
+
+(ii) the said rights, shall, on and from the establishment date, be enjoyed by the college,
+
+(iii) the said liabilities shall, on and from the establishment date, be the liabilities of the college.
+
+(3) A college may recover from the vocational education committee such moneys as may be approved by the Minister in respect of liabilities arising under *subsection (2)* and the vocational education committee shall cause these moneys to be paid to the governing body of the college immediately upon the direction of the Minister.
+
+(4) All moneys, stocks, shares and securities transferred to a college by this section that, immediately before the establishment date are standing in the name of the vocational education committee, shall, upon the request of the governing body of that college, be transferred into its name.
+
+(5) Every right and liability transferred by this section to a college may, on or after the establishment date, be sued on, recovered or enforced by or against the college in its own name and it shall not be necessary for the college to give notice to any person whose right or liability is transferred by this section of the transfer.
+
+(6) In *subsections (1)* and *(2)* a reference to a college, in relation to a time before the establishment date, shall be construed as a reference to every institution or part of an institution which from such date comprised or became part of the college.
+
+(7) F57[...]
+
+(8) Whenever a question arises as to whether land stood vested for the purposes of a college or of an institution or part of an institution to which an order made under *section 3 (3)* of this Act relates or whenever a question arises with regard to rights and liabilities transferred by this section such question shall be referred by the vocational education committee to the Minister and the decision of the Minister thereon shall be final.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 19, S.I. No. 36 of 2007.
+>
+> F57: Deleted (27.03.1998) by *Finance Act 1998* (3/1998), s. 125 and sch. 8, commenced on enactment.
+
+## 19. Preservation of contracts and continuance of legal proceedings.
+
+**19.**—(1) Every contract which was entered into in relation to a college or in relation to an educational institution or part of such an institution to which an order made under *section 3 (3)* of this Act relates and is in force immediately before the establishment date between the vocational education committee and any person shall continue in force on and after the establishment date, but shall be construed and have effect as if the college were substituted therein for the vocational education committee and every such contract shall be enforceable by or against the college accordingly.
+
+(2) Where, immediately before the establishment date, any legal proceedings are pending to which the vocational education committee is a party and the proceedings have reference to a college or to an educational institution or part of such an institution to which such order relates, the name of the college shall be substituted in the proceedings for that of the vocational education committee and the proceedings shall not abate by reason of such substitution.
+
+(3) This section does not apply to any contract or proceedings in relation to land.
+
+(4) In this section, a reference to a college, in relation to a time before the establishment date, shall be construed in accordance with *subsection (6)* of *section 18* of this Act.
+
+## 20. Inspection.
+
+**20.** F58[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Repealed (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 5(1), sch. 1 part 1, S.I. No. 554 of 2022.
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: section substituted (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 90, S.I. No. 124 of 2018; repealed as per F-note above.
+>
+> E27: Previous affecting provision: section substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 20, S.I. No. 36 of 2007; substituted as per E-note above.
+
+## 21. Modification of section 7(5) of Vocational Education (Amendment) Act, 1944.
+
+**21.**—(1) Notwithstanding the provisions of subsection (5) of section 7 of the Vocational Education (Amendment) Act, 1944, whenever an officer of a vocational education committee is suspended under section 7 of that Act the committee may, if it thinks fit, make with the consent of the Minister payments *ex-gratia* to the suspended officer in lieu of the remuneration which, but for that suspension, would have been payable to that officer.
+
+(2) Any sum paid under *subsection (1)* of this section shall be repayable by the officer to the vocational education committee and may be deducted from any moneys payable by the committee to that officer.
+
+(3) Any sum paid under *subsection (1)* shall not be reckoned as salary or emolument for the purposes of the Local Government (Superannuation) Act, 1980.
+
+(4) This section shall apply to officers of a college F59[to whom *subsections (3)* and *(4)* (inserted by the Institutes of Technology Act 2006) of *section 12* apply] suspended under this Act as it applies to officers of a vocational education committee with the substitution, in *subsection (1)*, for “the committee may, if it thinks fit,” of “the college may, if its governing body thinks fit,” and, in *subsection (2)*, of references to the college for references to such committee.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 21, S.I. No. 36 of 2007.
+>
+> **Editorial Notes:**
+>
+> E28: Transitional arrangement for continued ex gratia payments in certain circumstances made (24.04.2018) by *Technological Universities Act 2018* (3/2018), s. 87(2)(c), S.I. No. 124 of 2018.
+
+## 21A. Reserved functions.
+
+F60[**21A.**—(1) Each college shall perform by resolution of its governing body such of the functions as are declared by this Act to be reserved functions and ‘reserved function’ shall in this Act be construed and have effect accordingly.
+
+(2) The functions under *sections 5(1)*(*a*) to (*j*), *7*, *9*, *10*, *21C*, *21D* and *21E* are declared to be reserved functions.
+
+(3) Any dispute as to whether or not a particular function is a reserved function shall be determined by the Minister.
+
+(4) A Director shall assist the governing body in the performance of its reserved functions, in such manner as the governing body may require.
+
+(5) A governing body shall not perform by resolution of its members, or give a direction in relation to the performance of, a function that is not a reserved function.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Inserted (1.02.2007) by the *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+
+## 21B. Executive functions.
+
+F61[**21B.**—(1) Every function that is not a reserved function shall be an executive function, and "executive function" shall, in this Act, be construed and have effect accordingly.
+
+(2) Executive functions shall be performed by the Director.
+
+(3) A Director shall provide such information to the governing body regarding the performance of his or her functions as the governing body may from time to time require.
+
+(4) A Director shall provide such information to the Minister or An tÚdarás regarding the performance of his or her functions as the Minister or An tÚdarás, as the case may be, may from time to time require.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+
+## 21C. Strategic development plan.
+
+F62[**21C.**—(1) A governing body shall, as soon as practicable but not later than 12 months after the commencement of this section and at such other times as it thinks fit, require the Director to prepare a plan (in this Act referred to as a "strategic development plan") that shall set out the aims of the governing body for the operation and development of the college and its strategy for achieving those aims, and for carrying out the functions under this Act, during the period, being not less than three years, to which the plan relates.
+
+F63[(1A) A governing body shall, for the purposes of preparing a strategic development plan, consult with —
+
+(*a*) the Minister,
+
+(*b*) such other Ministers of the Government as the governing body considers appropriate,
+
+(*c*) An tÚdarás,
+
+(*d*) the students or the student union of the college,
+
+(*e*) the members of the staff of the college or the trades unions or staff associations of those members of staff,
+
+(*f*) the academic council of the college,
+
+(*g*) the education and training board in whose education and training board area the campus of the college is located or such other education and training board as the governing body considers appropriate,
+
+(*h*) a local authority in whose functional area the campus of the college is located, and
+
+(*i*) such other body or person as the governing body considers appropriate.]
+
+(2) A governing body may either approve the strategic development plan prepared without modification or, after consultation with the Director, approve the plan with such modifications as it thinks fit; in exercising its powers under this subsection the governing body shall have regard to the resources available to the college.
+
+(3) As soon as practicable after it approves the strategic development plan under subsection (2), the governing body shall provide a copy of the plan to An tÚdarás and to the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+>
+> F63: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 112, S.I. No. 554 of 2022.
+
+## 21D. Equality policy.
+
+F64[**21D.**—(1) A governing body shall, as soon as practicable but not later than 12 months after the commencement of this section and at such other times as it thinks fit, require the Director to prepare a statement of the policies of the college in respect of—
+
+(*a*) access to education in the college by economically or socially disadvantaged persons, by persons who have a disability and by persons from sections of society significantly under-represented in the student body, and
+
+(*b*) equality, including gender equality, in all activities of the college,
+
+and the Director, in preparing the statement, shall have regard to such policies on those matters as may from time to time be determined by the Minister.
+
+F65[(1A) A governing body shall, for the purposes of preparing a statement under *subsection (1)*, consult with —
+
+(*a*) the Minister,
+
+(*b*) such other Ministers of the Government as the college considers appropriate,
+
+(*c*) An tÚdarás,
+
+(*d*) the students or the student union of the college,
+
+(*e*) the members of the staff of the college or the trades unions or staff associations of those members of staff,
+
+(*f*) the academic council of the college,
+
+(*g*) the education and training board in whose education and training board area the campus of the college is located or such other education and training board as the governing body considers appropriate,
+
+(*h*) a local authority in whose functional area the campus of the college is located, and
+
+(*i*) such other body or person as the governing body considers appropriate.]
+
+(2) A governing body may either approve the statement prepared under *subsection (1)* without modification or, after consultation with the Director, approve the statement with such modifications as it thinks fit; in exercising its powers under this subsection the governing body shall have regard to the resources available to the college.
+
+(3) A college shall implement the policies set out in the statement as approved under *subsection (2)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+>
+> F65: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 113, S.I. No. 554 of 2022.
+
+## 21E. Dispute resolution.
+
+F66[**21E.**—(1) A governing body shall establish procedures for the resolution of disputes that arise in the college.
+
+(2) *Subsection (1)* shall not apply to industrial relations disputes, which shall be dealt with through normal industrial relations structures operating in the college.
+
+(3) Procedures established under *subsection (1)* shall—
+
+(*a*) be embodied in writing,
+
+(*b*) be established following consultation with recognised staff associations and trade unions representing the staff of the college and with the students union or other student representative body, and
+
+(*c*) provide for consideration of issues in dispute by an independent person or persons, as appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+
+## 21F. Reviews.
+
+F67[**21F.**—An tÚdarás may review—
+
+(*a*) the strategic development plan prepared in accordance with *section 21C*, and
+
+(*b*) the policies set out in the statement prepared under *section 21D* and their implementation by the college,
+
+and may, following consultation with the college, publish a report, in such form and manner as it thinks fit, on the outcome of any such review.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 22, S.I. No. 36 of 2007.
+
+## 21G. Review of matter and report by governing body of college.
+
+F68[**21G.**—(1) If a governing body has concerns regarding a matter relating to the governance, or the performance of the functions of the college, the governing body shall arrange for a review of the matter to be undertaken.
+
+(2) A governing body may appoint such person as it considers appropriate (in this section referred to as a "reviewer") to carry out a review of the matter concerned.
+
+(3) A reviewer may request such information and assistance as he or she may require for the purposes of the review from the governing body, the Director and the members of the staff of the college and the governing body, the Director and the members of the staff of the college shall comply with any such request.
+
+(4) A reviewer shall review the matter concerned and shall prepare a report of the outcome of the review and any recommendation made arising therefrom and shall provide a copy of the report to the governing body and the Director.
+
+(5) A governing body shall, if recommended to do so by the report prepared by a reviewer, take such measures as it considers appropriate with regard to the matter concerned.
+
+(6) A governing body shall retain a copy of a report of the outcome of any review undertaken under *subsection (1)* and shall provide a report to An tÚdarás annually or, more frequently, if so requested by An tÚdarás on the outcome of any review undertaken by the governing body under that subsection, including any measures taken under *subsection (5)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 114, S.I. No. 554 of 2022.
+>
+> **Editorial Notes:**
+>
+> E29: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 22. Expenses.
+
+**22.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 23. Regulations.
+
+**23.**—(1) The Minister may make such regulations with regard to the operation of the colleges as the Minister may from time to time see fit.
+
+(2) Every regulation made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if either such House, within the next twenty-one days on which that House has sat after such regulation is laid before it, passes a resolution annulling the regulation or any part of it, the regulation or such part thereof shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 23A. Effect of certain orders.
+
+F69[**23A.**—(1) Each order made under *section 3* shall, during the relevant period, be deemed always to have been valid.
+
+(2) In this section "relevant period" means the period beginning on the making of the order concerned referred to in *subsection (1)* and ending on the commencement of section 4 of the Institutes of Technology Act 2006.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Inserted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 23, S.I. No. 36 of 2007.
+
+## 24. Short title.
+
+**24.**—This Act may be cited as the Regional Technical Colleges Act, 1992.
+
+## FIRST SCHEDULE — The Colleges
+
+F70[
+
+| Name of College. | F71[...] |
+|---|---|
+| (1) | (2) |
+| F72[...] | F71[...] |
+| F73[...] | F71[...] |
+| F74[...] | F71[...] |
+| F75[...] | F71[...] |
+| Institiúid Teicneolaíochta Dhún Dealgan. Dundalk Institute of Technology. | F71[...] |
+| Institiúid Ealaíne, Deartha agus Teicneolaíochta Dhún Laoghaire. Dún Laoghaire Institute of Art, Design and Technology. | F71[...] |
+| F76[...] | F71[...] |
+| F76[...] | F71[...] |
+| F72[...] | F71[...] |
+| F76[...] | F71[...] |
+| F73[...] | F71[...] |
+| F75[...] | F71[...] |
+| F74[...] | F71[...]] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 24, S.I. No. 36 of 2007.
+>
+> F71: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 12, S.I. No. 211 of 2013.
+>
+> F72: Deleted (1.10.2021) by *Technological Universities Act 2018* (3/2018), ss. 6(1), 36, 43, S.I. No. 360 of 2021.
+>
+> F73: Deleted (1.01.2019) by *Technological Universities Act 2018* (3/2018), ss. 6(1), 36, 43, S.I. No. 437 of 2018.
+>
+> F74: Deleted (1.05.2022) by *Technological Universities Act 2018* (3/2018), ss. 6(1), 36, 43, S.I. No. 175 of 2022.
+>
+> F75: Deleted (1.01.2021) by *Technological Universities Act 2018* (3/2018), ss. 6(1), 36, 43, S.I. No. 568 of 2021.
+>
+> F76: Deleted (1.04.2022) by *Technological Universities Act 2018* (3/2018), ss. 6(1), 36, 43, S.I. No. 56 of 2022.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: schedule amended (6.07.1999) by *Regional Technical Colleges (Amendment) Act 1999* (20/1999), s. 4(2)(a), (b); schedule substituted as per F-note above.
+>
+> E31: Previous affecting provision: schedule amended (28.01.1998) by *Regional Technical Colleges Act 1992 (Change of Name of College) Order 1998* (S.I. No. 19 of 1998), art. 3; substituted as per F-note above.
+>
+> E32: Previous affecting provision: schedule (18.12.1997) by *Regional Technical Colleges Act 1992 (Change of Name of College) Order 1997* (S.I. No. 512 of 1997), art. 2(2); substituted as per F-note above.
+>
+> E33: Previous affecting provision: schedule amended (7.05.1997) by *Regional Technical Colleges Act 1992 (Amendment) (No. 2) Order* (S.I. No. 199 of 1997), art. 2(2), in effect as per art. 1(2); substituted as per F-note above.
+>
+> E34: Previous affecting provision : schedule amended (1.04.1997) by *Regional Technical Colleges Act 1992 (Amendment) Order 1997* (S.I. No. 149 of 1997), art. 2, in effect as per art. 1(2); substituted as per F-note above.
+
+## F77[SECOND SCHEDULE — The Governing Body — Section 6.
+
+1\. (1) The governing body shall retain in its possession a seal of the college.
+
+(2) The seal of the college shall be authenticated by the signature of the chairperson or a member of the governing body authorised by the governing body to act in that behalf and by the signature of an officer of the college authorised to act in that behalf.
+
+(3) Judicial notice shall be taken of the seal and any document purporting to be an instrument made by, and sealed with the seal of, the college shall, unless the contrary is shown, be received in evidence and taken to be such an instrument without further proof.
+
+2\. (1) A member of the governing body, other than the Director, shall, subject to the provisions of this Act, hold office upon such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) as may be determined by the Minister, with the consent of the Minister for Public Expenditure and Reform.
+
+(2) There may be paid by the governing body to its members, other than the Director, such remuneration (if any) and such allowances for expenses (if any) as the Minister, with the approval of the Minister for Public Expenditure and Reform, may determine.
+
+3\. (1) A member of the governing body, other than the Director, may resign from office by giving notice in writing to the chairperson (or if the member concerned is the chairperson, to the Director) of his or her resignation and the resignation shall take effect on the day when the chairperson, or as the case may be, the Director receives the notice.
+
+(2) Where the chairperson of the governing body resigns as chairperson he or she shall at the same time cease to be a member of the governing body.
+
+(3) The governing body may at any time remove from office a member of the governing body if, in the opinion of the governing body—
+
+(*a*) the member has become incapable through ill-health of performing his or her functions,
+
+(*b*) the member has committed stated misbehaviour, or
+
+(*c*) the removal of the member appears to be necessary for the effective performance by the governing body of its functions.
+
+(4) A member of the governing body shall cease to be qualified for office and shall cease to hold office if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is sentenced by a court of competent jurisdiction to a term of imprisonment,
+
+(*d*) is convicted of any indictable offence in relation to a company or any other body corporate,
+
+(*e*) is convicted of an offence involving fraud or dishonesty,
+
+(*f*) has a declaration under section 819 of the Companies Act 2014 made against him or her or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act, or
+
+(*g*) is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Companies Act 2014, whether by virtue of that Chapter or any other provision of that Act.
+
+4\. (1) If a member of the governing body, other than the Director, dies, resigns, ceases to be qualified for or ceases, for any reason, to be a member of the governing body, the governing body may appoint a person to fill the casual vacancy.
+
+(2) A person appointed to be a member of the governing body pursuant to *subparagraph (1)*—
+
+(*a*) shall be representative of the person, referred to in *paragraph (a)*, *(b)*, *(d)* or *(e)* of *section 6(4)*, who occasioned the casual vacancy,
+
+(*b*) shall hold office for so much of the term of office of the member who occasioned the casual vacancy concerned as remains unexpired at the date of the appointment, and
+
+(*c*) shall be eligible for re-appointment as a member of the governing body on the expiry of that term of office.
+
+5\. (1) The governing body shall hold not less than 6 meetings in every 12 month period and such and so many additional meetings as may be necessary, as determined by the chairperson, for the due fulfilment of its functions.
+
+(2) The chairperson shall convene a meeting of the governing body when requested to do so by not less than the number of members that constitutes a quorum.
+
+(3) The quorum for a meeting of the governing body shall be set by the governing body at its first meeting and may be amended from time to time in accordance with standing orders under *paragraph 11*.
+
+(4) At a meeting of the governing body it shall appoint from amongst its members a member (other than the Director) to be its deputy-chairperson and the deputy-chairperson shall, unless he or she sooner resigns as deputy-chairperson, hold office until he or she ceases to be a member of the governing body.
+
+(5) At a meeting of the governing body—
+
+(*a*) the chairperson shall, if present, be the chairperson of the meeting,
+
+(*b*) if and so long as the chairperson is not present or if the office of chairperson is vacant, the deputy-chairperson, if present, shall be chairperson of the meeting, and
+
+(*c*) if and so long as the chairperson is not present or the office of chairperson is vacant, and the deputy-chairperson is not present or the office of deputy-chairperson is vacant, the members of the governing body who are present shall choose one of their number to be chairperson of the meeting.
+
+(6) Every question at a meeting of the governing body shall be determined by a majority of the votes of the members of the governing body present and voting on the question, and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(7) Subject to *subparagraph (3)*, the governing body may act notwithstanding one or more vacancies among its members.
+
+(8) The governing body may hold or continue a meeting by the use of any means of communication by which all the members can hear and be heard at the same time (in this Schedule referred to as an "electronic meeting").
+
+(9) A member of the governing body who participates in an electronic meeting is taken for all purposes to have been present at the meeting.
+
+6\. (1) he governing body may establish committees (including committees relating to audit and risk management functions), consisting in whole or in part of persons who are members of the governing body or members of staff of the college to assist and advise it in relation to the performance of any of its functions.
+
+(2) In appointing members of a committee established under this paragraph, the governing body shall have regard to—
+
+(*a*) the range of qualifications and experience necessary for the proper and effective discharge of the functions of the committee, and
+
+(*b*) the objective that not less than 40 per cent of members of the committee shall be women and not less than 40 per cent of them shall be men.
+
+(3) The governing body may pay to members of a committee established under this paragraph such expenses incurred by them as the governing body may, with the consent of the Minister and the Minister for Public Expenditure and Reform, determine.
+
+(4) The governing body may remove a member of a committee established under this paragraph from the committee at any time.
+
+(5) The acts of a committee shall be subject to confirmation by the governing body, unless the governing body otherwise determines.
+
+(6) The governing body may determine the terms of reference and regulate the procedure of a committee established under this paragraph.
+
+(7) The governing body may appoint a person to be chairperson of a committee established under this paragraph.
+
+(8) A committee shall provide the governing body with such information as the governing body may from time to time require, in respect of the activities and operations of the committee, for the purposes of the performance by the governing body of its functions.
+
+(9) The governing body may at any time dissolve a committee established under this paragraph.
+
+7\. (1) Where a member of the governing body is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a member of the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+he or she shall thereupon cease to be a member of the governing body.
+
+(2) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit in that House or who is a member of the European Parliament shall be disqualified, while he or she is so entitled or is such a member, from being a member of the governing body or a member of a committee established under *paragraph 6*.
+
+8\. (1) *Subparagraph (2)* applies where, at a meeting of the governing body, any of the following matters arise, namely—
+
+(*a*) an arrangement to which the governing body is a party,
+
+(*b*) an arrangement to which the governing body proposes to become a party,
+
+(*c*) a contract or other agreement with the governing body, or
+
+(*d*) a proposed contract or other agreement with the governing body.
+
+(2) A member of the governing body present at the meeting referred to in *subparagraph (1)* who has a pecuniary interest or other beneficial interest in, or material to, the matter concerned shall—
+
+(*a*) disclose to the governing body at the meeting the fact of that interest and its nature,
+
+(*b*) not influence (or seek to influence) a decision to be made in relation to the matter,
+
+(*c*) absent himself or herself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(*d*) take no part in any deliberation of the governing body relating to the matter, and
+
+(*e*) not vote on a decision relating to the matter.
+
+(3) Where an interest is disclosed pursuant to this paragraph, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member of the governing body by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where, at a meeting of the governing body, a question arises as to whether or not a course of conduct, if pursued by a member of the governing body, would constitute a failure by him or her to comply with the requirements of *subparagraph (2)*, the question may, subject to *subparagraph (5)*, be determined by the chairperson of the meeting, whose decision shall be final, and where the question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where, at a meeting of the governing body, the chairperson of the meeting is the member in respect of whom a question to which *subparagraph (4)* applies falls to be determined, the other members of the governing body attending the meeting shall choose one of their number to be chairperson of the meeting for the purpose of determining the question concerned.
+
+9\. *Paragraph 8* shall apply to a member of a committee established under paragraph 6 where the member is not also a member of the governing body and for the purposes of that application—
+
+(*a*) a reference to a member of the governing body shall be construed as reference to a member of the committee, and
+
+(*b*) a reference to the governing body shall be construed as reference to the committee.
+
+10\. (1) A person shall not disclose confidential information obtained by him or her while performing functions as—
+
+(*a*) a member of or an adviser or consultant to the governing body, or a member of the staff of such an adviser or consultant, or
+
+(*b*) a member of a committee established under paragraph 6,
+
+unless he or she is authorised by the governing body to so do.
+
+(2) A person who contravenes *subparagraph (1)* commits an offence.
+
+(3) Nothing in this paragraph shall prevent the disclosure of information—
+
+(*a*) in a report made to the governing body,
+
+(*b*) by or on behalf of the governing body to the Minister,
+
+(*c*) by a member of the governing body to the Minister, or
+
+(*d*) by a person in the circumstances referred to in section 35(2) of the Ethics in Public Office Act 1995.
+
+(4) In this paragraph, "confidential information" includes—
+
+(*a*) information that is expressed by the governing body to be confidential either as regards particular information or as regards information of a particular class or description, and
+
+(*b*) information relating to proposals of a commercial nature or tenders submitted to the governing body by contractors, consultants or any other person.
+
+11\. Subject to this Act, the governing body shall regulate, by standing orders or otherwise, its procedure and business.
+
+12\. Subject to this Act, the governing body may make, amend or revoke rules (in this Act called "regulations of the college") as it thinks fit for the conduct of the affairs of the college.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (10.11.2022) by *Higher Education Authority Act 2022* (31/2022), s. 115(1), S.I. No. 554 of 2022, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E35: Previous affecting provision: para. 1(5) deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 25(a), S.I. No. 36 of 2007; substituted by F-note above.
+>
+> E36: Previous affecting provision: para. 3 amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 12, S.I. No. 211 of 2013; substituted by F-note above.
+>
+> E37: Previous affecting provision: para. 3(3) deleted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 25(a), S.I. No. 36 of 2007; substituted by F-note above.
+>
+> E38: Previous affecting provision: para. 1(f) inserted (2.12.1994) by *Regional Technical Colleges (Amendment) Act 1994* (29/1994), s. 6, commenced on enactment; substituted by F-note above.
+>
+> E39: Previous affecting provision: para. 9(b) amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 12, S.I. No. 211 of 2013; substituted by F-note above.
+>
+> E40: Previous affecting provision: para. 14(e) amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 12, S.I. No. 211 of 2013; substituted by F-note above.
+>
+> E41: Previous affecting provision: schedule substituted by *Technological Universities Act 2018* (3/2018), s. 91, not commenced; substituted by F-note above.
+>
+> E42: Previous transitional provision: application of para. 3(1) modified (6.07.1999) by *Regional Technical Colleges (Amendment) Act 1999* (20/1999), s. 5(12), commenced on enactment.
+
+## THIRD SCHEDULE — Director
+
+F78[Section 9*.*
+
+1\. The Director of a college shall, subject to this Act, manage and direct the carrying on by the college of its academic, administrative, financial, personnel and other activities and for those purposes has such powers as are necessary or expedient.
+
+2\. In performing his or her functions the Director shall be subject to such policies as may be determined from time to time by the governing body and shall be answerable to the governing body for the efficient and effective management of the college and for the due performance of his or her functions.
+
+3\. (1) A Director may delegate any of his or her functions to another member of the staff of the college, unless they are delegated to the Director subject to the condition that they shall not be delegated further; that other member shall be answerable to the Director for the performance of those functions.
+
+(2) Notwithstanding any such delegation, the Director shall at all times remain answerable to the governing body in respect of the functions so delegated.
+
+4\. A Director shall not hold any other office or position without the consent of the governing body.
+
+5\. A Director shall be entitled to be a member of, and preside over, any and every committee appointed by the governing body, except where the governing body with the concurrence of An tÚdarás decides otherwise.
+
+6\. A Director shall be entitled to be a member of the academic council and, if present, shall preside at all meetings of that council; he or she shall be entitled to be a member of every committee established by that council.
+
+F79[7\. Unless he or she resigns, retires or is removed from office, a Director shall hold office for such period as the governing body, with the consent of the Minister, determines, but the period shall not exceed 10 years from the date of the Director’s appointment.]
+
+8\. A Director shall, whenever required to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the college is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the college in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the college for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the college referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in subparagraph (*a*), (*b*) or (*c*)) that is laid before Dáil Éireann.
+
+9\. A Director, if required under paragraph 8 to give evidence, shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+10\. From time to time and whenever so requested, a Director shall account for the performance of a college’s functions to a Committee of one or both Houses of the Oireachtas and shall have regard to any recommendations of such Committee relevant to these functions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Substituted (1.02.2007) by *Institutes of Technology Act 2006* (25/2006), s. 26, S.I. No. 36 of 2007.
+>
+> F79: Substituted (5.11.2012) by the *Qualifications and Quality Assurance (Education and Training) Act 2012* (28/2012), s. 86 and sch. 3 item 4, S.I. No. 421 of 2012.
+>
+> F80: Deleted by *Technological Universities Act 2018* (3/2018), s. 92, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: paras. 5 and 6 deleted by *Technological Universities Act 2018* (3/2018), s. 92, not commenced as of date of revision.
+>
+> 5\. F80[...]
+>
+> 6\. F80[...]

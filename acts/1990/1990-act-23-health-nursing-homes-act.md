@@ -1,0 +1,937 @@
+---
+title: "Health (Nursing Homes) Act, 1990"
+identifier: "eli/1990/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 1990
+date: 1990-07-21
+last_amended: 2025-07-23
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1990/act/23/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1990/act/23/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Health (Nursing Homes) Act, 1990
+
+AN ACT TO MAKE FURTHER PROVISION IN RELATION TO NURSING HOMES FOR DEPENDENT PERSONS AND, FOR THAT PURPOSE TO PROVIDE FOR THE REGISTRATION BY HEALTH BOARDS OF SUCH HOMES, TO PROVIDE FOR THE BOARDING OUT BY HEALTH BOARDS OF DEPENDENT PERSONS AND TO PROVIDE FOR CONNECTED MATTERS. [21*st July*, 1990]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred (1.01.2005) by *Health Act 2004* (42/2004), s. 59 and sch. 3, S.I. No. 887 of 2004, subject to transitional provisions in s. 74 and sch. 5.
+>
+> **Transfer of functions of specified bodies to Executive.**
+>
+> **59.**—(1) The functions that, immediately before the establishment day, were the functions of a specified body under or in connection with the enactments referred to in Schedule 3 are, by this Act, transferred to the Executive on that day.
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Transfer of Functions and References to Functional Areas
+>
+> *Section 59 and 67.*
+>
+> 1\. Health Acts 1947 to 2001
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: application of Act extended (1.09.1993) by *Health (In-Patient Services) Regulations 1993* (S.I. No. 224 of 1993), art. 4, in effect as per art. 2; revoked (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 9, S.I. No. 409 of 2007.
+
+## F1[PART 1 — Preliminary and General]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 1, S.I. No. 409 of 2007.
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, except where the context otherwise requires—
+
+“the Act of 1964” means the Health (Homes for Incapacitated Persons) Act, 1964;
+
+“dependent person” means a person who requires assistance with the activities of daily living such as dressing, eating, walking, washing and bathing by reason of—
+
+(*a*) physical infirmity or a physical injury, defect or disease, or
+
+(*b*) mental infirmity,
+
+and “dependency” shall be construed accordingly;
+
+“the Minister” means the Minister for Health;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+F2[“register“ means a register of nursing homes that is established or deemed to have been established by the Health Service Executive under section 4, and cognate words shall be construed accordingly;]
+
+“registered proprietor”, in relation to a registered nursing home, means the person whose name is entered in the register concerned as the person carrying on the home;
+
+“the regulations” means the regulations under *section 6*, and the regulations referred to in *subsection (6)* of that section, for the time being in force.
+
+(2) In this Act—
+
+(*a*) a reference to any enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any subsequent enactment including this Act,
+
+(*b*) a reference to a section is a reference to a section of this Act unless it is indicated that reference to some other enactment is intended,
+
+(*c*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 1, S.I. No. 887 of 2004.
+
+## 2. “Nursing home”.
+
+**2.**—(1) In this Act, except where the context otherwise requires, “nursing home”, subject to *subsection (2)*, means an institution for the care and maintenance of more than two dependent persons excluding—
+
+(*a*) an institution managed by or on behalf of a Minister of the Government or F3[the Health Service Executive],
+
+(*b*) an institution in which a majority of the persons being maintained are being treated for acute illnesses,
+
+(*c*) a maternity home carried on by a person who is registered under the Registration of Maternity Homes Act, 1934,
+
+(*d*) a mental institution within the meaning of the Mental Treatment Acts, 1945 to 1966,
+
+(*e*) an institution for the care and maintenance of mentally handicapped persons operated otherwise than for profit and to which grants are paid by the Minister or F3[the Health Service Executive],
+
+(*f*) premises in which children are maintained in pursuance of an arrangement with F3[the Health Service Executive],
+
+(*g*) an institution operated otherwise than for profit—
+
+(i) that is for the care and maintenance of physically handicapped persons a majority of whom do not receive whole-time nursing care in the institution,
+
+(ii) in the management of which representatives of the Minister or F3[the Health Service Executive] and representatives of the persons being maintained in the institution participate with other persons,
+
+(iii) to which grants are paid by the Minister or F3[the Health Service Executive], and
+
+(iv) to which paragraphs (*a*) and (*b*) of section 333 (1) of the Income Tax Act, 1967, apply, and
+
+(*h*) F4[subject to subsection (3),] premises in which a majority of the persons being maintained are members of a religious order or priests of any religion F5[...], but maintenance by a person of his spouse F6[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] or of a parent, step-parent, child, step-child, grandchild, brother, step-brother, sister, step-sister, uncle, aunt, niece or nephew of the person or of his spouse shall, for the purposes of this definition, be disregarded.
+
+(2) If the Minister becomes of opinion that this Act ought to apply to a class of institution for the care and maintenance of persons that it does not apply to, he may by regulations amend the definition of “nursing home” accordingly and that definition shall have effect in accordance with any regulations for the time being in force under this subsection.
+
+F4[(3) No prescribed subvention within the meaning of section 7(1) shall be paid to a dependent person maintained in premises referred to in subsection (1)(h) unless the premises are F7[registered under the Health Act 2007 as a designated centre within the meaning of that Act or are premises in which a person is carrying on the business of a nursing home pursuant to section 69 of that Act].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 2, S.I. No. 887 of 2004.
+>
+> F4: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 2(a)(i), (b), S.I. No. 409 of 2007.
+>
+> F5: Deleted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 2(a)(ii), S.I. No. 409 of 2007.
+>
+> F6: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 170 and sch. part 5 item 10, S.I. No. 648 of 2010.
+>
+> F7: Substituted (9.07.2010) by *Health (Miscellaneous Provisions) Act 2010* (18/2010), s. 14(a), commenced on enactment.
+
+## 3. Prohibition of unregistered nursing homes.
+
+**3.**—F8[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Repealed (1.07.2009) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 104(1) and sch. 1 part 1, S.I No. 237 of 2009, art. 3(2)(h).
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: subs. (5) inserted (6.11.1996) by *Health (Amendment) (No. 3) Act 1996* (32/1996), s. 20; section repealed (1.07.2009) as per F-note above.
+
+## 4. Registration of nursing homes.
+
+**4.**—F9[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Repealed (1.07.2009) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), ss. 104(1) and sch. 1 part 1, S.I. No. 237 of 2009, art. 3(2)(h).
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subss. (1), (3), (4), (6)-(8), (10)-(14) amended, subs. (1A) inserted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 3, S.I. No. 887 of 2004; section repealed (1.07.2009) as per F-note above.
+
+## 5. Appeals.
+
+**5.**—F10[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Repealed (1.07.2009) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), ss. 104(1) and sch. part 1, S.I No. 237 of 2009, art. 3(2)(h).
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: subs. (1), (4), (5) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7, part 4. item 4, S.I. No. 887 of 2004; section repealed (1.07.2009) as per F-note above.
+
+## 6. Regulations in relation to standards in nursing homes.
+
+**6.**—F11[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Repealed (1.07.2009) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), ss. 104(1) and sch. 1 part 1, S.I No. 237 of 2009, art. 3(2)(h).
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: subs. (2), (4), (5) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 3, S.I. No. 887 of 2004; section repealed (1.07.2009) as per F-note above.
+>
+> E6: Previous affecting provision: subs. (7) inserted by *Health (Miscellaneous Provisions) Act 2001* (14/2001), s. 3(a), not commenced; section repealed (1.07.2009) as per F-note above.
+>
+> E7: Previous affecting provision: power pursuant to section exercised (19.05.1994) by *Nursing Homes (Care and Welfare) (Amendment) Regulations 1994* (S.I. No. 147 of 1994); revoked (1.07.2009) by *Health Act 2007 (Care and Welfare of Residents In Designated Centres For Older People) Regulations 2009* (S.I. No. 236 of 2009), reg. 3(3), in effect as per reg. 2.
+>
+> E8: Previous affecting provision: power pursuant to section exercised (14.12.1993) by *Nursing Homes (Care and Welfare) (Amendment) Regulations 1993* (S.I. No. 379 of 1993); revoked (1.07.2009) by *Health Act 2007 (Care and Welfare of Residents In Designated Centres For Older People) Regulations 2009* (S.I. No. 236 of 2009), reg. 3(2), in effect as per reg. 2.
+>
+> E9: Previous affecting provision: power pursuant to section exercised (1.09.1993) by *Nursing Homes (Care and Welfare) Regulations 1993*(S.I. No. 226 of 1993); revoked (1.07.2009) by *Health Act 2007 (Care and Welfare of Residents In Designated Centres For Older People) Regulations 2009* (S.I. No. 236 of 2009), reg. 3(1), in effect as per reg. 2.
+
+## PART 2 — Subventions for Dependent Persons in Nursing Homes
+
+### F12[7. Interpretation of Part 2
+
+**7.**—(1) In this Part—
+
+“alternative subvention“ means a higher alternative subvention referred to in *section 7C(1)(b)*;
+
+“application“ means an application under *section 7A(1)*;
+
+“applicant“, in relation to an application, means the dependent person who made the application;
+
+“Executive“ means the Health Service Executive;
+
+F13[“nursing home“ includes—
+
+(*a*) a premises referred to in *section 2(1)(h)*, and
+
+(*b*) a nursing home in Northern Ireland which is registered under that law of, or that law applicable to, Northern Ireland that is equivalent to the Health Act 2007;]
+
+“prescribed amount“, in relation to a provision of this Part, means the amount prescribed in regulations made under *section 7H* in respect of that provision;
+
+“prescribed percentage“, in relation to *section 7B(3)(b)(ii)* or *(4)*, means the percentage prescribed in regulations made under *section 7H* in respect of *section 7B(3)(b)(ii)* or *(4)*, as the case requires;
+
+“prescribed subvention“ means the amount of a subvention payable under *section 7C(1)(a)* as prescribed in *section 7H(4)*;
+
+“relevant subvention“ means—
+
+(*a*) a prescribed subvention, or
+
+(*b*) an alternative subvention;
+
+“subvention“ means a payment towards the costs of the care and maintenance of a dependent person in a nursing home.
+
+(2) No provision of this Part shall operate to prevent a personal representative (or other representative) of a dependent person who is not of full capacity from acting for or on behalf of the dependent person in relation to any matter to which any provision of this Part relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Substituted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+>
+> F13: Substituted (9.07.2010) by *Health (Miscellaneous Provisions) Act 2010* (18/2010), s. 14(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.2007) by *Nursing Homes (Subvention) (Amendment) Regulations 2006* (S.I. No. 642 of 2006); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E11: Previous affecting provision: power pursuant to subs. (2) exercised (14.12.2005) by *Nursing Homes (Subvention) (Amendment) Regulations 2005* (S.I. No. 814 of 2005); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E12: Previous affecting provision: subss. (1), (2) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 6, S.I. No. 887 of 2004; section substituted (8.06.2007) as per F-note above.
+>
+> E13: Previous affecting provision: power pursuant to subs. (2) exercised (1.04.2001) by *Nursing Homes (Subvention) (Amendment) Regulations 2001* (S.I. No. 89 of 2001); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E14: Previous affecting provision: subs. (2) amended by *Health (Miscellaneous Provisions) Act 2001* (14/2001), s. 3(b), not commenced; section substituted (8.06.2007) as per F-note above.
+>
+> E15: Previous affecting provision: power pursuant to subs. (2) exercised (1.01.1998) by *Nursing Homes (Subvention) (Amendment) Regulations 1998* (S.I. No. 498 of 1998); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E16: Previous affecting provision: power pursuant to section exercised (29.07.1996) by *Nursing Homes (Subvention) (Amendment) Regulations 1996* (S.I. No. 225 of 1996); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E17: Previous affecting provision: power pursuant to section exercised (14.12.1993) by *Nursing Homes (Subvention) (Amendment) Regulations 1993* (S.I. No. 378 of 1993); rendered obsolete (8.06.2007) by revocation of *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993) as per E-note below.
+>
+> E18: Previous affecting provision: power pursuant to section exercised (1.09.1993) by *Nursing Homes (Subvention) Regulations 1993* (S.I. No. 227 of 1993); revoked (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 9, S.I. No. 409 of 2007.
+
+## 7A. F14[Application for prescribed subvention.
+
+**7A.**—(1) Subject to *subsection (2)*, a dependent person may make an application to the Executive for a prescribed subvention.
+
+(2) An application shall be—
+
+(*a*) in writing in a form approved by the Executive,
+
+(*b*) completed in accordance with such directions and instructions as are specified in the application, and
+
+(*c*) accompanied by such documents (including statutory declarations) as are specified in the application.
+
+(3) The Executive may refuse to consider or further consider an application if—
+
+(*a*) the application does not comply with *subsection (2)*, or,
+
+(*b*) the applicant fails to provide the Executive with such information in addition to the information provided by or with the application as the Executive may reasonably require to enable it to determine the application under *section 7C(1)*.
+
+(4) Where the Executive refuses under *subsection (3)* to consider or further consider an application, it shall, as soon as is practicable after the refusal, give the applicant notice in writing of the decision and the reasons for the decision.
+
+F15[(4A) The Executive shall refuse to consider an application made on or after the commencement of *section 6 (1)(d)* of the Nursing Homes Support Scheme Act 2009.]
+
+(5) Any person who knowingly gives the Executive information which is false or misleading in a material respect in, with, or in connection with, an application is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 3 months or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 5(3), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F15: Inserted (27.10.2009) by *Nursing Homes Support Scheme Act 2009* (15/2009), s. 38, S.I. No. 423 of 2009.
+
+## 7B. Assessment of need for applicant to be maintained in nursing home and of means of applicant.
+
+F16[**7B.**—(1) Without prejudice to the generality of *section 7A(3)* but subject to *subsections (2)* and *(3)*, upon the receipt of an application the Executive shall make arrangements for—
+
+(*a*) the need for the applicant to be maintained in a nursing home to be assessed by a person (who may be an employee of the Executive) who, in the opinion of the Executive, is suitably qualified to make that assessment, and a report thereon to be provided to the Executive, and
+
+(*b*) the means of the applicant to be assessed by an employee of the Executive, or any person nominated in writing by the Executive, and a report thereon to be provided to the Executive.
+
+(2) The assessment of an applicant’s need to be maintained in a nursing home shall be made on the basis of—
+
+(*a*) the applicant’s ability to carry out the activities of daily living, including the applicant’s—
+
+(i) degree of mobility,
+
+(ii) ability to dress unaided,
+
+(iii) ability to feed unaided,
+
+(iv) ability to communicate,
+
+(v) extent of orientation,
+
+(vi) cognitive ability,
+
+(vii) ability to bathe unaided, and
+
+(viii) degree of continence,
+
+(*b*) the family and community support available to the applicant,
+
+(*c*) the medical services the applicant is receiving, and
+
+(*d*) any other matter which affects the applicant’s ability to care for himself or herself.
+
+(3) Subject to *subsection (4)*, the financial assessment of an applicant’s means shall be made on the basis of—
+
+(*a*) subject to paragraph (b), all the applicant’s assets and sources of income including the applicant’s—
+
+(i) wages, salary, pension, allowances, payments for part time and seasonal work, income from rentals, investments and savings and all contributions from whomsoever arising,
+
+(ii) property (excluding household chattels but, if paragraph (b)(ii) is applicable, including an imputed annual income equivalent to so much of the estimated market value of the principal residence of the applicant as is not excluded by the operation of that paragraph),
+
+(iii) stocks, shares and securities,
+
+(iv) moneys on hand, in trust or lodged, deposited or invested,
+
+(v) interest in any company or business (including any farm),
+
+(vi) interests in property,
+
+(vii) life assurance and endowment policies,
+
+(viii) valuables held as investments,
+
+(ix) any benefit or privilege, and
+
+(x) assets (including moneys) which have been transferred (by whatever means) by the applicant to another person—
+
+(I) for no consideration,
+
+(II) for nominal consideration, or
+
+(III) for consideration which is significantly less than the estimated market value of the asset concerned at the time the asset was so transferred,
+
+at any time within the 5 years immediately preceding the date on which the application is made,
+
+(*b*) excluding—
+
+(i) subject to *subparagraph (vi)*, the principal residence of the applicant if at the time of the application and thereafter it is continuously occupied by—
+
+(I) the applicant’s spouse F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010],
+
+(II) a child of the applicant of less than 21 years of age,
+
+(III) a child of the applicant in full-time education,
+
+(IV) a relative of the applicant in receipt of—
+
+(A) disability or similar allowance,
+
+(B) blind person’s pension,
+
+(C) illness benefit,
+
+(D) invalidity pension,
+
+(E) state pension (contributory) in any case where, before 28 September 2006, the relative would have been entitled to invalidity pension,
+
+(F) state pension (non-contributory),
+
+(G) any successor to an allowance, pension or benefit referred to in this subclause in any case where that allowance, pension or benefit, as the case may be, ceases to be provided, or
+
+(H) any European Union equivalent to an allowance, pension or benefit, or any successor thereto, referred to in this subclause,
+
+or
+
+(V) a relative of the applicant in receipt of—
+
+(A) state pension (contributory),
+
+(B) any successor to a pension referred to in this subclause in any case where that pension ceases to be provided, or
+
+(C) any European Union equivalent to a pension, or any successor thereto, referred to in this subclause,
+
+which is the relative’s sole income,
+
+(ii) subject to *subparagraphs (v)* and *(vi)*, if *subparagraph (i)* is not applicable, 95 per cent, or the prescribed percentage, whichever is the greater, of the estimated market value of the principal residence of the applicant as determined not later than 6 months after receipt of the application by the Executive,
+
+(iii) one-fifth of the weekly rate of—
+
+(I) subject to *clause (II)*, state pension (non-contributory),
+
+(II) any successor to that pension in any case where that pension ceases to be provided,
+
+and whether or not the applicant is in receipt of that pension or any successor thereto,
+
+(iv) the first €11,000, or the prescribed amount, whichever is the greater, of the applicant’s assets,
+
+(v) without prejudice to the generality of *subparagraph (i)*, the principal residence of the applicant in any case where not excluding that residence from falling within *paragraph (a)* could reasonably give rise to the destitution or homelessness of a person having a close connection with the applicant for a period of not less than 12 months immediately before the application was made, and
+
+(vi) without prejudice to the generality of *subparagraph (i)*, the principal residence of the applicant in any case where the applicant has been paid in accordance with this Act a relevant subvention for not less than 3 consecutive years at any time following the commencement of this subsection.
+
+(4) Where an applicant is a F17[civil partner, or a] married or cohabiting person, *subsection (3)* shall be construed to be a financial assessment made on the basis of 50 per cent, or the prescribed percentage, whichever is the lesser, of the combined means of the F18[applicant and his or her civil partner or spouse] or cohabiting couple, as the case may be.
+
+(5) Subject to *subsection (6)*, the arrangements referred to in *subsection (1)* may include—
+
+(*a*) in relation to the assessment referred to in *subsection (2*), a physical examination of the applicant concerned by, as appropriate, a registered medical practitioner, a registered nurse, an occupational therapist or a chartered physiotherapist,
+
+(*b*) in relation to the assessment referred to in *subsection (3)*, requests for information from, and interviews with, the spouse F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010]or any child of the applicant concerned.
+
+(6) The arrangements referred to in *subsection (1)* shall not include, in relation to the assessment referred to in *subsection (2)*, an inspection of the medical records of the applicant concerned except such an inspection carried out by a registered medical practitioner.
+
+(7) In *subsection (3)(b)(i)(IV)* and *(V)*, "relative", in relation to an applicant, means a spouse F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], parent, step-parent, child, step-child, grandchild, brother, step-brother, sister, step-sister, uncle, aunt, nephew or niece of—
+
+(*a*) the applicant, or
+
+(*b*) the applicant’s spouse F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+>
+> F17: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 170 and sch. part 5 item 11(a), (b), S.I. No. 648 of 2010.
+>
+> F18: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 170 and sch. part 5, item 11(c), S.I. No. 648 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C2: Term “registered medical practitioner" construed (3.07.2008) by *Medical Practitioners Act 2007* (25/2007), s. 108(1), S.I. No. 231 of 2008, art. 2(j).
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc.**
+>
+> **108.**— (1) Every reference to a registered medical practitioner contained in any enactment or any statutory instrument shall be construed as a reference to a registered medical practitioner within the meaning of section 2.
+
+## 7C. Determination of application.
+
+F19[**7C.**—(1) Subject to *subsection (4)* and *section 7K*, the Executive shall determine an application, after having had regard to the reports provided to it pursuant to *section 7B(1)(a*) and *(b)* in respect of the applicant, by—
+
+(*a*) if it is satisfied that the applicant qualifies for a prescribed subvention, arranging for the prescribed subvention for which the applicant is qualified to be paid—
+
+(i) subject to *subsection (2)*, to the applicant, and
+
+(ii) for so long as the Executive remains so satisfied,
+
+(*b*) subject to *subsection (6)*, if it is satisfied that the applicant qualifies for a prescribed subvention but is also further satisfied that the applicant still cannot, without undue hardship, pay all or any of the costs of the applicant’s care and maintenance in a nursing home, arranging for a higher alternative subvention to be paid in lieu of the prescribed subvention—
+
+(i) subject to *subsection (2)*, to the applicant,
+
+(ii) beginning on such date, or the occurrence of such event, as is specified by the Executive, and
+
+(iii) for so long as the Executive remains so further satisfied,
+
+(*c*) if the applicant does not fall within *paragraph (a)* or *(b)*, refusing the application.
+
+(2) The Executive may, at its discretion, effect the payment of a relevant subvention to an applicant by paying the subvention to the proprietor of the nursing home in which the applicant is or is to be maintained.
+
+(3) Where the Executive determines an application under *subsection (1)*, it shall, as soon as is practicable after the determination, give notice in writing to the applicant of the decision and the reasons for the decision.
+
+(4) The Executive may, at its discretion, refuse to pay a relevant subvention to an applicant—
+
+(*a*) if the value of the applicant’s assets, excluding the principal residence, exceeds €36,000 or the prescribed amount, whichever is the greater,
+
+(*b*) if—
+
+(i) the applicant’s principal residence is valued at—
+
+(I) in the case of a principal residence located in the Dublin area, not less than €500,000 or the prescribed amount, whichever is the greater, and is not occupied as specified in *section 7B(3)(b)(i)*,
+
+(II) in the case of a principal residence located outside the Dublin area, €365,000 or the prescribed amount, whichever is the greater, and is not occupied as specified in *section 7B(3)(b)(i)*,
+
+and
+
+(ii) the applicant’s annual income is not less than €10,400 or the prescribed amount, whichever is the greater,
+
+or
+
+(*c*) if the applicant does not fall within *paragraph (a)* or *(b)* but does have an annual income of not less than €36,000 or the prescribed amount, whichever is the greater.
+
+(5) Where the Executive refuses to pay a relevant subvention to an applicant on a ground specified in *subsection (4)*, it shall, as soon as is practicable after the decision, give notice in writing to the applicant of the decision and the reasons for the decision.
+
+(6) The Executive shall only determine the amounts of alternative subventions after taking into account the resources available to pay the alternative subventions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## 7D. Review of dependant persons who are paid relevant subventions.
+
+F20[**7D.**—(1) The Executive may at any time arrange for—
+
+(*a*) a review to be done—
+
+(i) of—
+
+(I) the need for a dependent person to whom a relevant subvention is paid to continue to be maintained in a nursing home, or
+
+(II) the means of the dependent person,
+
+on the same bases as are specified in *section 7B(2)* and *(3)*,
+
+(ii) by—
+
+(I) where *subparagraph (i)(I)* is applicable, a person (who may be an employee of the Executive) who, in the opinion of the Executive, is suitably qualified to do that review, and
+
+(II) where *subparagraph (i)(II)* is applicable, an employee of the Executive, or any person nominated in writing by the Executive,
+
+and
+
+(*b*) the results of the review to be put in writing and provided to the Executive.
+
+(2) Subject to *subsection (4)*, where the Executive, after having had regard to a review provided to it pursuant to *subsection (1)(b)*, is satisfied that the dependent person to whom the review relates—
+
+(*a*) is no longer qualified for the payment of a relevant subvention, or
+
+(*b*) qualifies for the payment of a different relevant subvention than that currently being paid to the person,
+
+then the Executive shall arrange for—
+
+(i) if *paragraph (a)* is applicable, the cessation of the payment of a relevant subvention to the person,
+
+(ii) if *paragraph (b)* is applicable and without prejudice to the generality of *section 7C(2)*, the different relevant subvention to be paid to the person.
+
+(3) Where the Executive makes a decision under *subsection (2)* in respect of a dependent person, it shall, as soon as is practicable after the decision is made, give notice in writing to—
+
+(*a*) the person, and
+
+(*b*) if *section 7C(2)* is applicable, to the proprietor of the nursing home in which the person is or is to be maintained,
+
+of the decision and the reasons for the decision.
+
+(4) Where a decision of the Executive under subsection (2) in respect of a dependent person means that—
+
+(*a*) a relevant subvention will cease to be paid to the person, or
+
+(*b*) a lower relevant subvention will be paid to the person,
+
+then the Executive shall not implement that decision before the expiration of 60 days after the date on which it has given notice under subsection (3) of the decision to the person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C3: Application of section clarified (27.10.2009) *Nursing Homes Support Scheme Act 2009* (15/2009), s. 39, S.I. No. 423 of 2009, subject to transitional provisions.
+>
+> **Transitional provisions.**
+>
+> **39.**— (1) A person in receipt of a relevant subvention immediately before the commencement of this subsection shall continue to be paid the relevant subvention until—
+>
+> (*a*) such payment ceases in accordance with the provisions of the Health (Nursing Homes) Act 1990 (as amended by the Health (Nursing Homes) (Amendment) Act 2007), or
+>
+> (*b*) the date from which by reason of the determination of the Executive under section 11(1) State support is to be paid in respect of the person,
+>
+> whichever first occurs.
+>
+> (2) Subsection (1) shall not prejudice the operation of section 7D (inserted by section 3 of the Health (Nursing Homes) (Amendment) Act 2007) of the Health (Nursing Homes) Act 1990 in so far as that section 7D provides for the payment of a relevant subvention to a person referred to in that subsection which is different from the relevant subvention which is paid to that person immediately before the commencement of that subsection.
+
+## 7E. Appeals against decisions of Executive, etc.
+
+F21[**7E.**—(1) Subject to *subsection (2)*, a person ("relevant person") may appeal against a decision of the Executive under *section 7A(3)*, *7C(1)* or *(4)* or *7D(2)* by giving notice in writing to the Executive not later than 60 days after notice of the decision was given to the relevant person under *section 7A(4)*, *7C(3)* or *(5)* or *7D(3)*, as the case may be.
+
+(2) An appeal under *subsection (1)* shall—
+
+(*a*) be in a form approved by the Executive, and
+
+(*b*) state the reasons for the appeal.
+
+(3) Where the Executive receives an appeal under *subsection (1)*, it shall appoint a person (who may be an employee of the Executive) to consider the appeal.
+
+(4) The person appointed pursuant to *subsection (2)* to consider an appeal under *subsection (1)* shall—
+
+(*a*) comply with guidelines issued by the Executive in respect of the procedure to be followed with respect to the consideration of any appeal,
+
+(*b*) consider any written or oral objections made by the appellant in support of the appeal,
+
+(*c*) make a decision ("relevant decision") in writing determining the appeal as soon as is practicable in all the circumstances of the case, and
+
+(*d*) send a copy of the relevant decision to the relevant person and the Executive together with the person’s reasons for the decision.
+
+(5) An appeal shall lie to the High Court by the relevant person in respect of the relevant decision and the Executive may cross-appeal the appeal.
+
+(6) An appeal under *subsection (5)* shall be heard otherwise than in public at the request of the relevant person.
+
+(7) A decision of the High Court on an appeal under *subsection (5*) shall be final except that, by leave of the Court, an appeal from the decision shall lie to the Supreme Court on a specified question of law.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## 7F. Proprietor of nursing home to notify Executive of death or discharge of dependent person who is paid relevant subvention, etc.
+
+F22[**7F.**—(1) Where a dependent person who is paid a relevant subvention—
+
+(*a*) dies in a nursing home,
+
+(*b*) is discharged from a nursing home, or
+
+(*c*) otherwise permanently departs from a nursing home,
+
+the proprietor of the nursing home shall, not later than 48 hours after the date of the person’s death, discharge, or other departure, as the case may be, give notice in writing to the Executive of the name of the person and of that date.
+
+(2) Where the proprietor of a nursing home proposes to discharge from the nursing home a dependent person who is paid a relevant subvention, the proprietor shall, not later than 14 days before the proposed date of discharge, give notice in writing to the Executive of—
+
+(*a*) the name of the person and of the proposed date of discharge, and
+
+(*b*) the reasons for the discharge.
+
+(3) The proprietor of a nursing home who, without reasonable excuse, contravenes *subsection (1)* or *(2)* is guilty of an offence and liable on summary conviction to a fine not exceeding €1,000.
+
+(4) Where a dependent person maintained in a nursing home—
+
+(*a*) starts to be paid a relevant subvention, or
+
+(*b*) ceases to be paid a relevant subvention,
+
+then the Executive shall, as soon as is practicable thereafter, give notice in writing to the proprietor of the nursing home of that start of payment, or cessation of payment, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007. A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 7G. Recovery of payment of relevant subvention procured through fraud or misrepresentation, etc.
+
+F23[**7G.**—Where it comes to the knowledge of the Executive that—
+
+(*a*) all or part of the payment of a relevant subvention to a dependent person has been procured through fraud or misrepresentation, or
+
+(*b*) there has been an overpayment of a relevant subvention to, or in respect of, a dependent person,
+
+then the amount of that payment so procured, or of that overpayment, as the case may be, shall be repayable to the Executive on demand and, if not so repaid, the Executive may recover the amount, as a simple contract debt in any court of competent jurisdiction, from the dependent person to whom the payment or overpayment, as the case may be, was made or the estate of that person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## 7H. Minister may make regulations for the purposes of this Part.
+
+F24[**7H.**—(1) Subject to *subsections (2)* and *(3)*, the Minister may, with the consent of the Minister for Finance, by regulations prescribe—
+
+(*a*) a percentage in respect of *section 7B(3)(b)(ii)*,
+
+(*b*) an amount in respect of *section 7B(3)(b)(iv*),
+
+(*c*) a percentage in respect of *section 7B(4)*,
+
+(*d*) an amount in respect of *section 7C(4)(a)*,
+
+(*e*) an amount in respect of *section 7C(4)(b)(i)(I)*,
+
+(*f*) an amount in respect of *section 7C(4)(b)(i)(II)*,
+
+(*g*) an amount in respect of *section 7C(4)(b)(ii)*,
+
+(*h*) an amount in respect of *section 7C(4)(c)*,
+
+(*i*) an amount in respect of *subsection (4)*.
+
+(2) The Minister shall only exercise the power under s*ubsection (1)(a)* or *(c)* to prescribe a percentage referred to in that subsection such that the percentage prescribed reflects the average cost of living in the State.
+
+(3) The Minister shall only exercise the power under *subsection (1)(b), (d), (e), (f), (g), (h*) or *(i)* to prescribe an amount referred to in that subsection such that the amount prescribed reflects the rate of inflation in the State.
+
+(4) Subject to *subsection (5)*, the amount of subvention which may be paid under *section 7C(1)(a*) is a weekly maximum rate of €300 or the prescribed amount, whichever is the greater.
+
+(5) Without prejudice to the generality of *section 7C(1)(b)* or *7D*, the amount of the prescribed subvention that is applicable to a dependent person shall, by virtue of this section, be reduced by the amount by which such person’s means, as determined in the assessment referred to in section 7B(3) or review under section 7D, as the case requires, made in respect of such person, exceeds the weekly rate of—
+
+(*a*) subject to *paragraph (b)*, state pension (non-contributory),
+
+(*b*) any successor to that pension in any case where that pension ceases to be provided,
+
+payable at the time of assessment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references construed (20.09.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), art. 3(a) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-9.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under—
+>
+> (a) the provisions of the enactments specified in the Schedule, and
+>
+> (b) ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> SCHEDULE
+>
+> Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 23 of 1990</td><td>Health (Nursing Homes) Act 1990</td><td>Section 7H(1)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Minister for **Public Expenditure and Reform** can be traced as follows:
+>
+> • Name of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2);
+>
+> • Name of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in effect as per art. 1(2).
+
+## 7I. Transitional provisions.
+
+F25[**7I.**—(1) Where immediately before the date of commencement of this section a person was being paid a subvention ("old subvention") under the revoked Regulations, then, for so long on or after that date that the person is maintained in a nursing home, the person shall, subject to *subsection (2)*, be paid, in lieu of the old subvention, a relevant subvention equivalent to the old subvention.
+
+(2) Nothing in *subsection (1)* shall be construed to prevent *section 7D* operating to cause—
+
+(*a*) a relevant subvention referred to in that subsection to cease to be paid to a person referred to in that subsection, or
+
+(*b*) a relevant subvention to be paid to a person referred to in that subsection which is not equivalent to the old subvention which was paid to the person.
+
+(3) In *subsection (1)*, "revoked Regulations" means the Nursing Homes (Subvention) Regulations 1993 (S.I. No. 227 of 1993) revoked by section 9 of the Health (Nursing Homes) (Amendment) Act 2007.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## 7J. Executive shall issue guidelines.
+
+F26[**7J.**—(1) The Executive shall, as soon as is practicable—
+
+(*a*) for the purpose of providing practical guidance, in respect of any provision of this Part (including *section 7B(3)(b)(v)*), to dependent persons, applicants, and persons (including employees of the Executive) referred to in *section 7B(1)* or *7D(1)(a)(ii)*, prepare and issue such guidelines, not inconsistent with this Act, as it considers suitable for the purpose,
+
+(*b*) for the purpose of making relevant information available, in respect of any provision of this Part which imposes a function on the Executive, prepare and issue guidelines, not inconsistent with this Act, setting out the manner in which the Executive proposes to perform that function.
+
+(2) The Executive shall cause guidelines issued under *subsection (1)* to be published on its website.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## 7K. Tax clearance.
+
+F27[**7K.**—(1) In this section, "tax clearance certificate" means a certificate under section 1095 (as substituted by section 127(b) of the Finance Act 2002) of the Taxes Consolidation Act 1997.
+
+(2) The Executive may refuse to effect the payment of a relevant subvention in any case where the Executive is satisfied that a tax clearance certificate is not in force in respect of the proprietor of the nursing home in which the dependent person concerned is or intends to be maintained.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 3, S.I. No. 409 of 2007.
+
+## F28[PART 3 — Fees, Temporary Management of Nursing Homes and Boarding Out]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (8.07.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 4, S.I. No. 409 of 2007.
+
+### 8. Fees.
+
+**8.**—(1) (*a*) A person who applies to F29[the Health Service Executive] for registration or for a declaration under *section 4 (4)* shall pay to F29[the Executive] in respect of the application a fee of such amount as may stand prescribed for the time being and different fees may be prescribed in respect of applications for registration and applications for such a declaration as aforesaid.
+
+(*b*) If F29[the Health Service Executive] refuses an application referred to in *paragraph (a)*, it shall not repay the fee concerned to the person who made the application.
+
+(2) The Public Offices Fees Act, 1879, shall not apply in respect of any fees paid under this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 7, S.I. No. 887 of 2004, art. 2(c).
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to subs. (1) exercised (1.09.1993) by *Nursing Homes (Fees) Regulations 1993* (S.I. No. 223 of 1993), in effect as per reg. 2.
+
+### 9. Temporary management of nursing homes by health boards.
+
+**9.**—F30[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Repealed (1.07.2009) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), ss. 104(1) and sch. 1 part 1, S.I No. 237 of 2009, art. 3(2)(h).
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: subss. (1)(a), (c), (d), (2)(a) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 8, S.I. No. 887 of 2004, art. 2(c); section repealed (1.07.2009) as per F-note above.
+
+### 10. Boarding out of persons by health boards.
+
+**10.**—F31[(1) The Health Service Executive may in accordance with regulations under this section make and carry out an arrangement for the boarding out in a private dwelling of a person to whom this section applies and the arrangement may provide for the payment of all or part of the costs of the boarding out by the Executive.]
+
+(2) (*a*) The Minister may make regulations for the purposes of this section and the regulations may, without prejudice to the generality of the foregoing, provide for—
+
+(i) the inspection of dwellings used or proposed to be used for boarding out persons under this section, and otherwise for the enforcement and execution of the regulations, by F31[the Health Service Executive and its employees],
+
+(ii) the supervision by F31[the Health Service Executive and its employees] of the maintenance, care and welfare of persons boarded out under this section,
+
+(iii) the making of payments, and the amounts thereof, by F31[the Health Service Executive] to persons in respect of the boarding out with them of persons under this section,
+
+(iv) the fixing of the maximum number of persons who may be boarded out in a single dwelling under this section, and
+
+(v) the holding and conduct of interviews (including interviews in private) of persons in a dwelling (including any persons employed in the dwelling) if F31[the Health Service Executive] has reasonable cause to believe that a person boarded out by it under this section in the dwelling is not receiving proper maintenance or care or that due consideration for his welfare is not being given by the person in whose dwelling he is being boarded out.
+
+(*b*) A person who wilfully obstructs or interferes with F31[the Health Service Executive or an employee of the Health Service Executive] in the performance of functions under regulations under this section or who fails or refuses to comply with a requirement of F31[the Health Service Executive or an employee of the Health Service Executive] under such regulations shall be guilty of an offence.
+
+(3) A dependent person shall not be cared for or maintained for profit in a dwelling in which a person is boarded out under this section.
+
+(4) This section is without prejudice to the powers of F31[the Health Service Executive] under section 209 of the Mental Treatment Act, 1945.
+
+F31[(5) In this section "person to whom this section applies", in relation to the Health Service Executive, means a person who, in the opinion of the Executive, ought, having regard to his or her means and circumstances, to be boarded out under this section and who consents to be so boarded out.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 7 item 9(a)-(g), S.I. No. 887 of 2004, art. 2(c).
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant to subs. (2) exercised (1.09.1993) by *Boarding Out Regulations 1993* (S.I. No. 225 of 1993), in effect as per reg. 2.
+
+## F32[PART 4 — Miscellaneous]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Inserted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 5, S.I. No. 409 of 2007.
+
+## 11. Penalties.
+
+**11.**—A person guilty of an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,000 or to imprisonment for a term not exceeding three months or to both,
+
+(*b*) on conviction on indictment of an offence under *section 3*, to a fine not exceeding £50,000 or to imprisonment for a term not exceeding two years or to both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E22: A fine of £1,000 converted (1.01.1999) to €1269.74. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £50,000 converted (1.01.1999) to €63,486.90. This is multiplied by 1.75 to €111,102.75 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9 and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 12. Provisions in relations to offences.
+
+**12.**—F33[(1) Proceedings for a summary offence under this Act may be brought and prosecuted by the Health Service Executive.]
+
+(2) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+(3) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.
+
+(4) F34[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 10(a), S.I. No. 887 of 2004, art. 2(c).
+>
+> F34: Deleted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 4 item 10(b), S.I. No. 887 of 2004, art. 2(c).
+
+## 13. Saver.
+
+**13.**—Nothing in this Act shall be construed as authorising the reception and care of a person where such reception and care would contravene any provision of the Mental Treatments Acts, 1945 to 1966.
+
+## 14. Laying of regulations before Houses of Oireachtas.
+
+F35[**14.**—Where a regulation is proposed to be made under this Act, a draft of the regulation shall be laid before each House of the Oireachtas and the regulation shall not be made until a resolution approving of the draft has been passed by each such House.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (8.06.2007) by *Health (Nursing Homes) (Amendment) Act 2007* (1/2007), s. 6, S.I. No. 409 of 2007.
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: section substituted by *Health (Miscellaneous Provisions) Act 2001* (14/2001), s. 3, not commenced; section substituted (8.06.2007) as per F-note above.
+
+## 15. Repeals.
+
+**15.**—(1) The Act of 1964 and, subject to *subsection (2)*, section 54 of the Health Act, 1970, are hereby repealed.
+
+(2) The repeal of the said section 54 shall not apply in relation to persons (including children) for whom services were being provided pursuant to an arrangement under that section immediately before the commencement of this Act.
+
+## 16. Expenses.
+
+**16.**—The expenses of the Minister under this Act, shall, to such extent as may be specified by the Minister for Finance, be paid out of monies provided by the Oireachtas.
+
+## 17. Short title, construction, collective citation and commencement.
+
+**17.**—(1) This Act may be cited as the Health (Nursing Homes) Act, 1990.
+
+(2) The Health Acts, 1947 to 1986, the Health (Amendment) Act, 1987, and this Act shall be construed together as one Act and may be cited together as the Health Acts, 1947 to 1990.
+
+(3) This Act shall come into operations on such day as the Minister may appoint by order.

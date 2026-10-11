@@ -1,0 +1,1179 @@
+---
+title: "Sale of Goods and Supply of Services Act, 1980"
+identifier: "eli/1980/act/16"
+type: act
+jurisdiction: ie
+language: en
+number: 16
+year: 1980
+date: 1980-06-30
+last_amended: 2022-11-29
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1980/act/16/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1980/act/16/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Sale of Goods and Supply of Services Act, 1980
+
+AN ACT TO AMEND THE LAW RELATING TO THE SALE OF GOODS, HIRE-PURCHASE AGREEMENTS AND CONTRACTS FOR THE SUPPLY OF SERVICES AND TO PROVIDE FOR RELATED MATTERS. [30*th June*, 1980]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: National Consumer Agency and Competition Authority dissolved and transfer of their functions to Competition and Consumer Protection Commission effected (31.10.2014, establishment date) by *Competition and Consumer Protection Act 2014* (29/2014), s. 38, 39, effectively commenced by Establishment Day Order S.I. No. 367 of 2014.
+>
+> **Dissolution of National Consumer Agency and Competition Authority**
+>
+> **38.** (1) The National Consumer Agency and the Competition Authority (each of which is, in this Act, referred to as a “dissolved body”) are dissolved.
+>
+> (2) This section shall come into operation on the establishment day.
+>
+> **Transfer of functions to Commission**
+>
+> **39.** (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (a) the National Consumer Agency, or
+>
+> (b) the Competition Authority,
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> (4) This section shall come into operation on the establishment day.
+>
+> C2: Transfer of functions of Director of Consumer Affairs to National Consumer Agency effected (1.05.2007, establishment date) by *Consumer Protection Act 2007* (19/2007), s. 37 and sch. 1, effectively commenced by Establishment Day Order S.I. No. 179 of 2007.
+>
+> **Transfer of functions to Agency.**
+>
+> **37.**— (1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred to the Agency on the establishment day.
+>
+> C3: Relationship between Act and *European Communities (Certain Aspects of the Sale of Consumer Goods and Associated Guarantees) Regulations 2003* explained (22.01.2003) by *European Communities (Certain Aspects of the Sale of Consumer Goods and Associated Guarantees) Regulations 2003* (S.I. No. 11 of 2003), reg. 3.
+>
+> **Relationship between Regulations and consumer protection enactments.**
+>
+> **3.** (1) Subject to paragraphs (3) and (4), these Regulations are in addition to, and not in substitution for, any other enactment relating to the sale of goods or the terms of contracts concluded with consumers, and in particular —
+>
+> (a) the Sale of Goods and Supply of Services Acts 1893 and 1980,
+>
+> and
+>
+> (b) the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 (S.I. No. 27 of 1995).
+>
+> (2) In particular, Regulation 4 is in addition to, and not in substitution for, a provision of any other enactment that provides that a consumer shall not be deprived, by virtue of a choice of the kind mentioned in that Regulation, of the protection afforded by any enactment.
+>
+> (3) In a case where the level of protection for the consumer afforded by a particular provision of these Regulations is greater than that afforded by a particular provision of another enactment, or to the extent that the invocation of a latter such provision by the consumer would diminish the first-mentioned level of protection for him or her —
+>
+> (a) the consumer may opt to invoke the particular provision of these Regulations to the exclusion of the other provision, and
+>
+> (b) the other provision may be invoked, and shall be construed and operate so as to be capable of being invoked, by the consumer in a manner that does not diminish the first-mentioned level of protection for him or her,
+>
+> but nothing in this paragraph operates to extend the application of these Regulations to a person who is not a consumer within the meaning of these Regulations or to goods that are not consumer goods within the meaning of these Regulations.
+>
+> (4) In a case where the level of protection for the consumer afforded by a particular provision of any other enactment is greater than that afforded by a particular provision of these Regulations, or to the extent that the invocation of a latter such provision by the consumer would diminish the first-mentioned level of protection for him or her —
+>
+> (a) the consumer may opt to invoke the particular provision of that other enactment to the exclusion of the other provision of these Regulations, and
+>
+> (b) that other provision of these Regulations may be invoked, and shall be construed and operate so as to be capable of being invoked, by the consumer in a manner that does not diminish the first-mentioned level of protection for him or her,
+>
+> but nothing in this paragraph operates to afford to any person the protection of that provision of the other enactment in any case where it would not otherwise be so afforded.
+>
+> C4: Application of Act not restricted (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 42(1), S.I. No. 121 of 1996.
+>
+> **Liability regarding goods and services.**
+>
+> **42.**—(1) The existence of a credit agreement shall not in any way affect the rights of the consumer under the Act of 1980 against the supplier of goods or services purchased by means of such an agreement in cases where the goods or services are not supplied or are otherwise not in conformity with the contract for their supply.
+>
+> ...
+>
+> C5: Application of Act confirmed (8.12.1994) by *European Communities (Life Assurance) Framework Regulations 1994* (S.I. No. 360 of 1994), reg. 43(b).
+>
+> **General good requirements.**
+>
+> **43.**— In conformity with the general good in accordance with the laws of the European Communities, an insurance undertaking shall, in particular, comply with the following criteria—
+>
+> ...
+>
+> ( b ) the provisions of the Sale of Goods and Supply of Services Act, 1980, applicable to insurance contracts and the marketing and selling of insurance products;
+>
+> ...
+>
+> C6: Application of Act confirmed (8.12.1994) by *European Communities (Non-Life Insurance) Framework Regulations 1994* (S.I. No. 359 of 1994), reg. 24(d).
+>
+> **General Good Requirements.**
+>
+> **24.**— In conformity with the general good in accordance with the law of the European Communities, an insurance undertaking shall, in particular, comply with the following criteria—
+>
+> ...
+>
+> ( d ) the provisions of the Sale of Goods and Supply of Service Act, 1980, applicable to insurance contracts and the marketing and selling of insurance products,
+>
+> ...
+>
+> C7: Application of Act restricted (1.05.1991) by *International Carriage of Goods by Road Act 1990* (13/1990), s. 3(3), S.I. No. 22 of 1991 (commenced in relation to carriage other than carriage between the State and the United Kingdom of Great Britain and Northern Ireland).
+>
+> **Application of certain enactments in relation to CMR.**
+>
+> **3.** —...
+>
+> (3) The Carriers Act, 1830, section 7 of the Railway and Canal Traffic Act, 1854, the Sale of Goods Act, 1893, and the Sale of Goods and Supply of Services Act, 1980, shall not apply in relation to contracts for the carriage of goods if the carriage is carriage in relation to which CMR applies.
+>
+> ...
+>
+> C8: Application of Act affected (9.07.1980) by *Trading Stamps Act 1980* (23/1980), s. 8, commenced on enactment.
+>
+> **Application of Sale of Goods Act, 1893, and Sale of Goods and Supply of Services Act, 1980.**
+>
+> **8.**— (1) For the purposes of the Sale of Goods Act, 1893, and the Sale of Goods and Supply of Services Act, 1980, the publication by a company which is the promoter of a trading stamp scheme of a catalogue shall be regarded as an offer, and the tender within the prescribed period of validity of the appropriate number of stamps shall be regarded as an acceptance, in the same way as if the offer and the acceptance were for a monetary consideration.
+>
+> (2) The provisions of the Sale of Goods Act, 1893, and of the Sale of Goods and Supply of Services Act, 1980, shall apply in every case where the promoter of a trading stamp scheme offers goods or services in exchange for trading stamps.
+>
+> (3) Where a person other than a promoter of a trading stamp scheme offers goods or services in exchange for trading stamps, the provisions of the Sale of Goods Act, 1893, and of the Sale of Goods and Supply of Services Act, 1980, shall apply in the same way as if that exchange were for a monetary consideration.
+>
+> **Editorial Notes:**
+>
+> E1: Power granted to Minister, in determining whether a road transport operator has satisfied or continues to satisfy the requirement of good repute, to consider whether the operator or a person holding a specified position with the operator has, within the previous 10 years, been convicted of an offence under Act (4.12.2011) by *European Union (Occupation of Road Transport Operator) Regulations 2011* (S.I. No. 697 of 2011), reg. 6 and sch.
+>
+> E2: Obligation imposed on persons who hold a specified position with a road transport operator and who is or has been convicted of an offence under Act to inform the operator in writing of the fact of the conviction (4.12.2011) by *European Union (Occupation of Road Transport Operator) Regulations 2011* (S.I. No. 697 of 2011), reg. 8.
+>
+> E3: Obligation imposed on applicant of a tour operator licence to disclose any prosecutions against the applicant or any director, shadow director, shareholder or partner under Act and the outcome of any such prosecutions (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 6(a) and sch. 1, in effect as per reg. 2.
+>
+> E4: Obligation imposed on applicant of a travel agent’s licence to disclose any prosecutions against the applicant or any director, shadow director, shareholder or partner under Act and the outcome of any such prosecutions (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 6(a) and sch. 1, in effect as per reg. 2.
+>
+> E5: Previous affecting provisions: enforcement of Act provided for (1.05.2007) by *Consumer Protection Act 2007* (19/2007), s. 73(8) and sch. 4 (written undertaking to comply or to refrain from act or practice, compensate, reimburse or return item, or publish advertisement containing a corrective statement) and s. 75(2) and sch. 5 (service of compliance notice by authorised officer), S.I. No. 178 of 2007. Note that the *Consumer Protection Act 2007*, s. 86 (publication of traders’ names, consumer protection list) also applies to these forms of enforcement, and s. 94 gives the Central Bank and Financial Services Authority functions in respect of, among other provisions, ss. 73, 75 and 86 of the 2007 Act. The Act was removed from schs. 4, 5 above (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8 and sch. 1 ref. 2, S.I. No. 596 of 2022.
+>
+> E6: Previous affecting provision: obligation imposed on applicant of a tour operator licence to disclose any prosecutions against the applicant or any director, shadow director, shareholder or partner under Act and the outcome of any such prosecutions (13.04.1983) by *Tour Operators (Licensing) Regulations 1983* (S.I. No. 100 of 1983), reg. 6(a) and sch. 1, in effect as per reg. 2; as amended (2.07.1987) by *Tour Operators (Licensing) (Amendment) Regulations 1987* (S.I. No. 175 of 1987), in effect as per reg. 2, and (1.07.1992) by *Tour Operators (Licensing) (Amendment) Regulations 1992* (S.I. No. 176 of 1992), in effect as per reg. 2; subsequently revoked (1.07.1993) by *Tour Operators (Licensing) Regulations 1993* (S.I. No. 182 of 1993), reg. 17, in effect as per reg. 2.
+>
+> E7: Previous affecting provision: obligation imposed on applicant of a travel agent’s licence to disclose any prosecutions against the applicant or any director, shadow director, shareholder or partner under Act and the outcome of any such prosecutions (13.04.1983) by *Travel Agents (Licensing) Regulations 1983* (S.I. No. 101 of 1983), reg. 6(a) and sch. 1, in effect as per reg. 2; as amended (2.07.1987) by *Travel Agents (Licensing) (Amendment) Regulations 1987* (S.I. No. 176 of 1987), in effect as per reg. 2, and (1.07.1992) by *Travel Agents (Licensing) (Amendment) Regulations 1992* (S.I. No. 175 of 1992), in effect as per reg. 2; subsequently revoked (1.07.1993) by *Travel Agents (Licensing) Regulations 1993* (S.I. No. 183 of 1993), reg. 17, in effect as per reg. 2.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—(1) This Act may be cited as the Sale of Goods and Supply of Services Act, 1980.
+
+(2) This Act shall come into operation six months after the date of its passing.
+
+### 2. Interpretation generally.
+
+**2.**—(1) In this Act—
+
+“Act of 1893” means the Sale of Goods Act, 1893;
+
+“business” includes profession and the activities of any State authority or local authority;
+
+F1["consumer-hire agreement" has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;]
+
+“deals as consumer” shall be construed in accordance with section 3;
+
+“fair and reasonable” shall be construed in accordance with subsection (3);
+
+F2["hire-purchase agreement" has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;]
+
+“the Minister” means the Minister for Industry, Commerce and Tourism;
+
+“service” does not include meteorological or aviation services provided by the Minister for Transport or anything done under a contract of service;
+
+“State authority” means a Minister of the Government, the Commissioners of Public Works in Ireland and the Irish Land Commission.
+
+(2) A reference in this Act to the supply of a service includes reference to the rendering or provision of a service or facility and to an offer to supply.
+
+(3) Where, under *section 13*, *31*, *40* or *46* of this Act or under section 55 of the Act of 1893 (inserted by *section 22* of this Act), a question arises as to whether a term, agreement or provision is fair and reasonable regard shall be had to the criteria set out in the Schedule in deciding it.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (13.05.1996) by *Consumer Credit Act 1995* (24/1995), ss. 1 (2), 152 (a), S.I. No. 121 of 1996.
+>
+> F2: Substituted (13.05.1996) by *Consumer Credit Act 1995* (24/1995), ss. 1 (2), 152 (b), S.I. No. 121 of 1996.
+
+### 3. Dealing as consumer.
+
+**3.**—F3[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+
+### 4. Saving.
+
+**4.**—(1) Subject to section 46 (which provides for certain agreements whether made before or after the commencement of this Act) this Act does not apply to contracts made before such commencement.
+
+(2) This Act does not affect any exemption from liability conferred by or under statute.
+
+### 5. Orders.
+
+**5.**—(1) The Minister may by order amend or revoke an order under this Act including an order made by virtue of this subsection.
+
+F4[(2) Every order made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling the order is passed by either House, within the next twenty-one days on which that House has sat after the order has been laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Substituted (25.01.1988) by *Restrictive Practices (Amendment) Act 1987* (31/1987), s. 33(2), S.I. No. 2 of 1988.
+
+### 6. Penalties.
+
+**6.**—(1) A person guilty of an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F5[€3,000] or, at the discretion of the court, to imprisonment for a term not exceeding 6 months or to both the fine and the imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding F5[€60,000] or, at the discretion of the court, to imprisonment for a term not exceeding 2 years or to both the fine and the imprisonment.
+
+F6[(2) If an offence under this Act is committed by a body corporate and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any neglect on the part of any person being a director, manager, secretary or any other officer of the body corporate or a person purporting to act in any such capacity, that person, as well as the body corporate, is guilty of an offence and is liable to be proceeded against and punished as if that person were guilty of the first-mentioned offence.
+
+(3) If, in a prosecution for an offence against the person referred to in *subsection (2)*, it is proved that, at the material time, the person was a director of the body corporate or an employee of it whose duties included making decisions that, to a significant extent, could have affected the management of the body corporate, or a person who purported to act in any such capacity, it shall be presumed, until the contrary is shown, that the person consented to the doing of the acts or defaults that constitute the offence.
+
+(4) *Subsection (3)* shall be read as placing on the person referred to in that subsection an evidential burden only with respect to the matter or matters concerned.
+
+(5) If the affairs of a body corporate are managed by its members, *subsections (2)* and *(3)* apply in relation to the acts or defaults of a member in connection with the member’s functions of management as if that member were a director or manager of the body corporate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (30.06.2005) by *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (12/2005), s. 81, S.I. No. 323 of 2005.
+>
+> F6: Substituted (1.05.2007) by *Consumer Protection Act 2007* (19/2007), s. 95, S.I. No. 178 of 2007.
+
+### 7. Prosecution of offences.
+
+**7.**—(1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Minister or by the Director of Consumer Affairs.
+
+(2) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 18 months from the date of the offence.
+
+### 8. Expenses.
+
+**8.**—The expenses incurred by the Minister or the Director of Consumer Affairs in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART IISale of Goods — PART II — Sale of Goods
+
+### 9. Citation and construction of Part II.
+
+**9.**—(1) The Act of 1893 and this Part may be cited together as the Sale of Goods Acts, 1893 and 1980.
+
+(2) The Act of 1893 and this Part shall be construed as one.
+
+*Conditions and Warranties*
+
+### 10. Sale of Goods Act, 1893, sections 11, 12, 13, 14 and 15.
+
+**10.**—For sections 11, 12, 13, 14 and 15 of the Act of 1893 there shall be substituted the sections set out in the following Table:
+
+TABLE
+
+When condition to be treated as warranty.
+
+11.—(1) Where a contract of sale is subject to any condition to be fulfilled by the seller, the buyer may waive the condition, or may elect to treat the breach of such condition as a breach of warranty, and not as a ground for treating the contract as repudiated.
+
+(2) Whether a stipulation in a contract of sale is a condition, the breach of which may give rise to a right to treat the contract as repudiated, or a warranty, the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated, depends in each case on the construction of the contract. A stipulation may be a condition, though called a warranty in the contract.
+
+(3) Where a contract of sale is not severable, and the buyer has accepted the goods, or part thereof, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated, unless there be a term of the contract, express or implied, to that effect.
+
+(4) Nothing in this section shall affect the case of any condition or warranty, fulfilment of which is excused by law by reason of impossibility or otherwise.
+
+Implied undertakings as to title, etc.
+
+12.—(1) In every contract of sale, other than one to which subsection (2) applies, there is—
+
+(*a*) an implied condition on the part of the seller that, in the case of a sale, he has a right to sell the goods and, in the case of an agreement to sell, he will have a right to sell the goods at the time when the property is to pass, and
+
+(*b*) an implied warranty that the goods are free, and will remain free until the time when the property is to pass, from any charge or encumbrance not disclosed to the buyer before the contract is made and that the buyer will enjoy quiet possession of the goods except so far as it may be disturbed by the owner or other person entitled to the benefit of any charge or encumbrance so disclosed.
+
+(2) In a contract of sale, in the case of which there appears from the contract or is to be inferred from the circumstances of the contract an intention that the seller should transfer only such title as he or a third person may have, there is—
+
+(*a*) an implied warranty that all charges or encumbrances known to the seller have been disclosed to the buyer before the contract is made, and
+
+(*b*) an implied warranty that neither—
+
+(i) the seller, nor
+
+(ii) in a case where the parties to the contract intend that the seller should transfer only such title as a third person may have, that person, nor
+
+(iii) anyone claiming through or under the seller or that third person otherwise than under a charge or encumbrance disclosed to the buyer before the contract is made,
+
+will disturb the buyer's quiet possession of the goods.
+
+Sale by description.
+
+13.—(1) Where there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and if the sale be by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.
+
+(2) A sale of goods shall not be prevented from being a sale by description by reason only that, being exposed for sale, they are selected by the buyer.
+
+(3) A reference to goods on a label or other descriptive matter accompanying goods exposed for sale may constitute or form part of a description.
+
+Implied undertakings as to quality or fitness.
+
+14.—(1) Subject to the provisions of this Act and of any statute in that behalf, there is no implied condition or warranty as to the quality or fitness for any particular purpose of goods supplied under a contract of sale.
+
+(2) Where the seller sells goods in the course of a business there is an implied condition that the goods supplied under the contract are of merchantable quality, except that there is no such condition—
+
+(*a*) as regards defects specifically drawn to the buyer's attention before the contract is made, or
+
+(*b*) if the buyer examines the goods before the contract is made, as regards defects which that examination ought to have revealed.
+
+(3) Goods are of merchantable quality if they are as fit for the purpose or purposes for which goods of that kind are commonly bought and as durable as it is reasonable to expect having regard to any description applied to them, the price (if relevant) and all the other relevant circumstances, and any reference in this Act to unmerchantable goods shall be construed accordingly.
+
+(4) Where the seller sells goods in the course of a business and the buyer, expressly or by implication, makes known to the seller any particular purpose for which the goods are being bought, there is an implied condition that the goods supplied under the contract are reasonably fit for that purpose, whether or not that is a purpose for which such goods are commonly supplied, except where the circumstances show that the buyer does not rely, or that it is unreasonable for him to rely, on the seller's skill or judgement.
+
+(5) An implied condition or warranty as to quality or fitness for a particular purpose may be annexed to a contract of sale by usage.
+
+(6) The foregoing provisions of this section apply to a sale by a person who in the course of a business is acting as agent for another as they apply to a sale by a principal in the course of a business, except where that other is not selling in the course of a business and either the buyer knows that fact or reasonable steps are taken to bring it to the notice of the buyer before the contract is made.
+
+*Sale by Sample*
+
+Sale by sample.
+
+15.—(1) A contract of sale is a contract for sale by sample where there is a term in the contract, express or implied, to that effect.
+
+(2) In the case of a contract for sale by sample—
+
+(*a*) There is an implied condition that the bulk shall correspond with the sample in quality:
+
+(*b*) There is an implied condition that the buyer shall have a reasonable opportunity of comparing the bulk with the sample:
+
+(*c*) There is an implied condition that the goods shall be free from any defect, rendering them unmerchantable, which would not be apparent on reasonable examination of the sample.
+
+### 11. Statements purporting to restrict rights of buyer.
+
+**11.**—(1) *Subsections (2)* and *(3)* apply to any statement likely to be taken as indicating that a right or the exercise of a right conferred by, or a liability arising by virtue of, section 12, 13, 14 or 15 of the Act of 1893 is restricted or excluded otherwise than under section 55 of that Act.
+
+(2) It shall be an offence for a person in the course of a business to do any of the following things in relation to a statement to which *subsection (1)* refers:
+
+(*a*) to display on any part of any premises a notice that includes any such statement, or
+
+(*b*) to publish or cause to be published an advertisement which contains any such statement, or
+
+(*c*) to supply goods bearing, or goods in a container bearing, any such statement, or
+
+(*d*) otherwise to furnish or to cause to be furnished a document including any such statement.
+
+(3) For the purposes of this section a statement to the effect that goods will not be exchanged, or that money will not be refunded, or that only credit notes will be given for goods returned, shall be treated as a statement to which *subsection (1)* refers unless it is so clearly qualified that it cannot be construed as applicable in circumstances in which the buyer may be seeking to exercise a right conferred by any provision of a section mentioned in *subsection (1)*.
+
+(4) It shall be an offence for a person in the course of a business to furnish to a buyer goods bearing, or goods in a container bearing, or any document including, any statement, irrespective of its legal effect, which sets out, limits or describes rights conferred on a buyer or liabilities to the buyer in relation to goods acquired by him or any statement likely to be taken as such a statement, unless that statement is accompanied by a clear and conspicuous declaration that the contractual rights which the buyer enjoys by virtue of sections 12, 13, 14 and 15 of the Act of 1893 are in no way prejudiced by the relevant statement.
+
+F7[(5) This section shall not apply to a contract to which Parts 2 to 4 of the Consumer Rights Act 2022 applies.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F7: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+
+### 12. Implied warranty for spare parts and servicing.
+
+**12.**—(1) In a contract for the sale of goods there is an implied warranty that spare parts and an adequate aftersale service will be made available by the seller in such circumstances as are stated in an offer, description or advertisement by the seller on behalf of the manufacturer or on his own behalf and for such period as is so stated or, if no period is so stated, for a reasonable period.
+
+(2) The Minister may, after such consultation with such interested parties as he thinks proper, by order define, in relation to any class of goods described in the order, what shall be a reasonable period for the purpose of subsection (1).
+
+(3) Notwithstanding section 55 (1) of the Act of 1893 (inserted by section 22 of this Act) any term of a contract exempting from all or any of the provisions of this section shall be void.
+
+F8[(4) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+### 13. Implied condition on sale of motor vehicles.
+
+**13.**—(1) In this section “motor vehicle” means a vehicle intended or adapted for propulsion by mechanical means, including—
+
+(*a*) a bicycle or tricycle with an attachment for propelling it by mechanical power, and
+
+(*b*) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical.
+
+(2) Without prejudice to any other condition or warranty, in every contract for the sale of a motor vehicle (except a contract in which the buyer is a person whose business it is to deal in motor vehicles) there is an implied condition that at the time of delivery of the vehicle under the contract it is free from any defect which would render it a danger to the public, including persons travelling in the vehicle.
+
+(3) *Subsection (2)* of this section shall not apply where—
+
+(*a*) it is agreed between the seller and the buyer that the vehicle is not intended for use in the condition in which it is to be delivered to the buyer under the contract, and
+
+(*b*) a document consisting of a statement to that effect is signed by or on behalf of the seller and the buyer and given to the buyer prior to or at the time of such delivery, and
+
+(*c*) it is shown that the agreement referred to in *paragraph (a)* is fair and reasonable.
+
+(4) Save in a case in which the implied condition as to freedom from defects referred to in *subsection (2)* is either not incorporated in the contract or has been effectively excluded from the contract pursuant to that subsection, in the case of every sale of a motor vehicle by a person whose business it is to deal in motor vehicles a certificate in writing in such form as the Minister may by regulations prescribe shall be given to the buyer by or on behalf of the seller to the effect that the vehicle is, at the time of delivery, free from any defect which would render it a danger to the public, including persons travelling in the vehicle.
+
+(5) Where an action is brought for breach of the implied condition referred to in *subsection (2)* by reason of a specific defect in a motor vehicle and a certificate complying with the requirements of this section is not proved to have been given, it shall be presumed unless the contrary is proved that the proven defect existed at the time of delivery.
+
+(6) Regulations under *subsection (4)* may apply to motor vehicles generally or to motor vehicles of a particular class or description (defined in such manner and by reference to such things as the Minister thinks proper) and different forms of certificate may be prescribed for different classes or descriptions of vehicles.
+
+(7) A person using a motor vehicle with the consent of the buyer of the vehicle who suffers loss as the result of a breach of the condition implied by *subsection (2)* in the contract of sale may maintain an action for damages against the seller in respect of the breach as if he were the buyer.
+
+(8) The Statute of Limitations, 1957, is hereby amended—
+
+(I) by the insertion in section 11 (2) of the following paragraph—
+
+“(*d*) An action for damages under section 13 (7) of the Sale of Goods and Supply of Services Act, 1980, shall not be brought after the expiration of two years from the date on which the cause of action accrued.”;
+
+(II) by the insertion in section 49 of the following subsection—
+
+“(5) In the case of an action claiming damages under section 13 (7) of the Sale of Goods and Supply of Services Act, 1980, subsection (1) of this section shall have effect as if for the words ‘six years’ there were substituted the words ‘two years’.”.
+
+(9) Notwithstanding section 55 (1) of the Act of 1893 (inserted by section 22 of this Act) any term of a contract exempting from all or any of the provisions of this section shall be void.
+
+F11[(10) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9, F10, F11: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+>
+> **Modifications (not altering text):**
+>
+> C10: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 82, S.I. No. 121 of 1996.
+>
+> **Application of section 13 of Act of 1980 to hire-purchase of motor vehicles.**
+>
+> **82.**—Where a motor vehicle is let under a hire-purchase agreement, section 13 (which relates to an implied condition on sale of motor vehicles) of the Act of 1980 shall have effect as if a contract for sale were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller, and the owner shall, jointly with that person and severally, be answerable to the hirer for breach of the implied condition.
+>
+> C11: Application of Act restricted (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s.3(3), commenced on enactment.
+>
+> **Special time limit for actions in respect of personal injuries.**
+>
+> **3.**— ...
+>
+> (3) Notwithstanding section 11 (2) (d) (inserted by section 13 (8) of the Sale of Goods and Supply of Services Act, 1980 ) of the Principal act, an action for damages under section 13 (7) of the said Act of 1980 which consist of or include damages in respect of personal injuries to any person may be brought within two years of the date of knowledge of the person injured if that date is later than the date on which the cause of action accrued.
+>
+> ...
+>
+> C12: Application of Act restricted (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s. 5(3), commenced on enactment.
+>
+> **Extension of limitation period in case of disability.**
+>
+> **5.**— ...
+>
+> (3) Notwithstanding section 49 (5) of the Principal act (inserted by section 13 (8) of the Sale of Goods and Supply of Services Act, 1980), in the case of an action under section 13 (7) of the said Act of 1980, of the kind to which section 3 of this Act applies, subsections (1) and (2) of this section shall have effect as if for the words "three years" there were substituted the words "two years".
+>
+> ...
+
+### 14. Liability of finance houses.
+
+**14.**—F12[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+
+*Guarantees*
+
+### 15. Definition of guarantee.
+
+**15.**—F13[(1)] In *sections 16* to *19*, “guarantee” means any document, notice or other written statement, howsoever described, supplied by a manufacturer or other supplier, other than a retailer, in connection with the supply of any goods and indicating that the manufacturer or other supplier will service, repair or otherwise deal with the goods following purchase.
+
+F13[(2) In *subsection (1)*, “goods” does not include goods supplied under a contract to which Part 2 of the Consumer Rights Act 2022 applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C13: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+### 16. Terms of guarantee.
+
+**16.**—(1) A guarantee shall be clearly legible and shall refer only to specific goods or to one category of goods.
+
+(2) A guarantee shall state clearly the name and address of the person supplying the guarantee.
+
+(3) A guarantee shall state clearly the duration of the guarantee from the date of purchase but different periods may be stated for different components of any goods.
+
+(4) A guarantee shall state clearly the procedure for presenting a claim under the guarantee which procedure shall not be more difficult than ordinary or normal commercial procedure.
+
+(5) A guarantee shall state clearly what the manufacturer or other supplier undertakes to do in relation to the goods and what charges, if any, including the cost of carriage, the buyer must meet in relation to such undertakings.
+
+(6) It shall be an offence for the manufacturer or other supplier of goods to supply in connection with the goods a guarantee which fails to comply with this section.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+### 17. Liability of seller under guarantee.
+
+**17.**—(1) Where the seller of goods delivers a guarantee to the buyer, irrespective of when or how it is delivered, the seller shall be liable to the buyer for the observance of the terms of the guarantee as if he were the guarantor, unless he expressly indicates the contrary to the buyer at the time of delivery.
+
+(2) Where, however, the seller, being a retailer, gives the buyer his own written undertaking that he will service, repair or otherwise deal with the goods following purchase, it shall be presumed, unless the contrary is proved, that he has not made himself liable to the buyer under the guarantee so delivered.
+
+(3) *Sections 16*, *18* and *19* shall apply to any such undertaking as they apply to a guarantee.
+
+(4) The liability of a seller to a buyer under this section is without prejudice to the rights conferred on the buyer under *section 19*.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C15: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+### 18. Exclusion of buyer’s rights under guarantee.
+
+**18.**—(1) Rights under a guarantee shall not in any way exclude or limit the rights of the buyer at common law or pursuant to statute and every provision in a guarantee which imposes obligations on the buyer which are additional to his obligations under the contract shall be void.
+
+(2) A provision in a guarantee which purports to make the guarantor or any person acting on his behalf the sole authority to decide whether goods are defective or whether the buyer is otherwise entitled to present a claim shall be void.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C16: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+### 19. Right of action under guarantee.
+
+**19.**—(1) The buyer of goods may maintain an action against a manufacturer or other supplier who fails to observe any of the terms of the guarantee as if that manufacturer or supplier had sold the goods to the buyer and had committed a breach of warranty, and the court may order the manufacturer or supplier to take such action as may be necessary to observe the terms of the guarantee, or to pay damages to the buyer. In this subsection, buyer” includes all persons who acquire title to the goods within the duration of the guarantee and, where goods are imported, “manufacturer” includes the importer.
+
+(2) In any case in which a guarantor is liable to an owner in damages, the court may at its discretion and on such terms as the court may deem just afford the guarantor the opportunity of performing these obligations under the guarantee to the satisfaction of the court within a time to be limited by the court.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of Act extended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 81, S.I. No. 121 of 1996.
+>
+> **Application of sections 12 and 15 to 19 of Act of 1980 to hire-purchase agreements.**
+>
+> **81.**—Where goods are let under a hire-purchase agreement, section 12 (which relates to warranties for spare parts and servicing) of the Act of 1980 and sections 15 to 19 (which relate to guarantees and undertakings) of the Act of 1980 shall have effect as if a contract for the sale of goods were a hire-purchase agreement, the buyer were the hirer and the person by whom the antecedent negotiations were conducted were the seller.
+
+*Performance of the Contract*
+
+### 20. Sale of Goods Act, 1893, section 34 and 35.
+
+**20.**—For sections 34 and 35 of the Act of 1893 there shall be substituted the sections set out in the following Table:
+
+TABLE
+
+Buyer’s right of examining the goods.
+
+34.—(1) Where goods are delivered to the buyer, which he has not previously examined, he is not deemed to have accepted them unless and until he has had a reasonable opportunity of examining them for the purpose of ascertaining whether they are in conformity with the contract.
+
+(2) Unless otherwise agreed, when the seller tenders delivery of goods to the buyer, he is bound, on request, to afford the buyer a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract.
+
+Acceptance.
+
+35.—The buyer is deemed to have accepted the goods when he intimates to the seller that he has accepted them, or, subject to section 34 of this Act, when the goods have been delivered to him and he does any act in relation to them which is inconsistent with the ownership of the seller or when, without good and sufficient reason, he retains the goods without intimitating to the seller that he has rejected them.
+
+*Remedies for Breach of Contract*
+
+### 21. Sale of Goods Act, 1893, section 53.
+
+**21.**—For section 53 of the Act of 1893 there shall be substituted the section set out in the following Table:
+
+TABLE
+
+Remedy for breach of warranty.
+
+53.—(1) Subject to subsection (2), where there is a breach of warranty by the seller, or where the buyer elects, or is compelled, to treat any breach of a condition on the part of the seller as a breach of warranty, the buyer is not by reason only of such breach of warranty entitled to reject the goods, but he may—
+
+(*a*) set up against the seller the breach of warranty in diminution or extinction of the price, or
+
+(*b*) maintain an action against the seller for damages for the breach of warranty.
+
+(2) Where—
+
+(*a*) the buyer deals as consumer and there is a breach of a condition by the seller which, but for this subsection, the buyer would be compelled to treat as a breach of warranty, and
+
+(*b*) the buyer, promptly upon discovering the breach, makes a request to the seller that he either remedy the breach or replace any goods which are not in conformity with the condition,
+
+then, if the seller refuses to comply with the request or fails to do so within a reasonable time, the buyer is entitled:
+
+(i) to reject the goods and repudiate the contract, or
+
+(ii) to have the defect constituting the breach remedied elsewhere and to maintain an action against the seller for the cost thereby incurred by him.
+
+(3) The onus of proving that the buyer acted with promptness under subsection (2) shall lie on him.
+
+(4) The measure of damages for breach of warranty is the estimated loss directly and naturally resulting, in the ordinary course of events, from the breach of warranty.
+
+(5) In the case of breach of warranty of quality such loss is *prima facie* the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty.
+
+(6) The fact that the buyer has set up the breach of warranty in diminution or extinction of the price or that the seller has replaced goods or remedied a breach does not of itself prevent the buyer from maintaining an action for the same breach of warranty if he has suffered further damage.
+
+*Supplementary*
+
+### 22. Sale of Goods Act, 1893, section 55.
+
+**22.**—For section 55 of the Act of 1893 there shall be substituted the section set out in the following Table:
+
+TABLE
+
+Exclusion of implied terms and conditions.
+
+55.—(1) Subject to the subsequent provisions of this section, where any right, duty or liability would arise under a contract of sale of goods by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by usage if the usage is such as to bind both parties to the contract.
+
+(2) An express condition or warranty does not negative a condition or warranty implied by this Act unless inconsistent therewith.
+
+(3) In the case of a contract of sale of goods, any term of that or any other contract exempting from all or any of the provisions of section 12 of this Act shall be void.
+
+(4) In the case of a contract of sale of goods, any term of that or any other contract exempting from all or any of the provisions of section 13, 14 or 15 of this Act shall be void where the buyer deals as consumer and shall, in any other case, not be enforceable unless it is shown that it is fair and reasonable.
+
+(5) Subsection (4) shall not prevent the court from holding, in accordance with any rule of law, that a term which purports to exclude or restrict any of the provisions of section 13, 14 or 15 of this Act is not a term of the contract.
+
+(6) Any reference in this section to a term exempting from all or any of the provisions of any section of this Act is a reference to a term which purports to exclude or restrict, or has the effect of excluding or restricting, the operation of all or any of the provisions of that section, or the exercise of a right conferred by any provision of that section, or any liability of the seller for breach of a condition or warranty implied by any provision of that section.
+
+(7) Any reference in this section to a term of a contract includes a reference to a term which although not contained in a contract is incorporated in the contract by another term of the contract.
+
+(8) This section is subject to section 61 (6) of this Act.
+
+### 23. Sale of Goods Act, 1893, section 55A.
+
+**23.**—After section 55 of the Act of 1893 there shall be inserted the section set out in the following Table:
+
+TABLE
+
+Conflict of laws.
+
+55A.—Where the proper law of a contract of sale of goods would, apart from a term that it should be the law of some other country or a term to the like effect, be the law of Ireland or where any such contract contains a term which purports to substitute, or has the effect of substituting, provisions of the law of some other country for all or any of the provisions of sections 12 to 15 and 55 of this Act, those sections shall, notwithstanding that term but subject to section 61 (6) of this Act, apply to the contract.
+
+### 24. International sales.
+
+**24.**—In section 61 of the Act of 1893 (Savings) there shall be inserted after subsection (5) thereof the following subsection—
+
+“(6) (*a*) Nothing in section 55 or 55A of this Act shall prevent the parties to a contract for the international sale of goods from negativing or varying any right, duty or liability which would otherwise arise by implication of law under sections 12 to 15 of this Act.
+
+(*b*) In this subsection ‘contract for the international sale of goods’ means a contract of sale of goods made by parties whose places of business (or, if they have none, habitual residences) are in the territories of different States and in the case of which one of the following conditions is satisfied:
+
+(i) the contract involves the sale of goods which are at the time of the conclusion of the contract in the course of carriage or will be carried from the territory of one State to the territory of another; or
+
+(ii) the acts constituting the offer and acceptance have been effected in the territories of different States; or
+
+(iii) delivery of the goods is to be made in the territory of a State other than that within whose territory the acts constituting the offer and the acceptance have been effected.”.
+
+## PART IIIHire-Purchase Agreements — PART III — Hire-Purchase Agreements
+
+### 25. Citation and construction of Part III.
+
+**25.**—F14[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 26. Implied terms as to title.
+
+**26.**—F15[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 27. Letting by description.
+
+**27.**—F16[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 28. Implied undertakings as to quality or fitness.
+
+**28.**—F17[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 29. Samples.
+
+**29.**—F18[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 30. Statements purporting to restrict rights of hirer.
+
+**30.**—F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 31. Exclusion of implied terms and conditions.
+
+**31.**—F20[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 32. Liability of persons conducting negotiations antecedent to hire-purchase agreements.
+
+**32.**—F21[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 33. Application of section 12, 15 to 19 to hire-purchase agreements.
+
+**33.**—F22[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 34. Application of section 13 to hire-purchase of motor vehicles.
+
+**34.**—F23[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 35. Antecedent negotiations and representations.
+
+**35.**—F24[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 36. Conflict of laws.
+
+**36.**—F25[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 37. International hire-purchase agreements.
+
+**37.**—F26[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 38. Goods let otherwise than under hire-purchase agreement.
+
+**38.**—F27[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Part III (ss. 25-38) repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+## PART IV Supply of Services — PART IV — Supply of Services
+
+### 38A. Application of Part.
+
+F28[**38A.**—This Part shall not apply to a contract to which Part 4 of the Consumer Rights Act 2022 applies.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provisions in s. 9(1)(a), (2).
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the content of the section in the absence of one included in the amendment.
+
+### 39. Implied undertakings as to quality of service.
+
+**39.**—Subject to *section 40*, in every contract for the supply of a service where the supplier is acting in the course of a business, the following terms are implied—
+
+(*a*) that the supplier has the necessary skill to render the service,
+
+(*b*) that he will supply the service with due skill, care and diligence,
+
+(*c*) that, where materials are used, they will be sound and reasonably fit for the purpose for which they are required, and
+
+(*d*) that, where goods are supplied under the contract, they will be of merchantable quality within the meaning of section 14 (3) of the Act of 1893 (inserted by section 10 of this Act).
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C18: Application of section restricted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 26(3), commenced on enactment.
+>
+> **Limitation of liability of universal postal service provider.**
+>
+> **26**.— ...
+>
+> (3) Section 39 of the Sale of Goods and Supply of Services Act 1980 shall not apply in relation to the provision of a universal postal service by a universal postal service provider until such date as the Minister for Jobs, Enterprise and Innovation, following consultation with the Commission and the Minister, by order so provides, in relation to the universal postal service or to any part or parts of such service specified in the order in such manner and by reference to such matters, including ensuring the protection of the interests of postal service users, as the Minister for Jobs, Enterprise and Innovation, following such consultation, considers appropriate.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: application of Act restricted (1.01.1984, vesting date) by *Postal and Telecommunications Services Act 1983* (24/1983), s. 88(3), effectively commenced by Vesting Day Order S.I. No. 407 of 1983; repealed (9.04.1999) by *Postal and Telecommunications Services (Amendment) Act 1999* (5/1999), s. 3 and sch. 1, S.I. No. 87 of 1999.
+>
+> E10: Previous affecting provision: application of Act restricted (1.01.1984, vesting date) by *Postal and Telecommunications Services Act 1983* (24/1983), s. 64(3), effectively commenced by Vesting Day Order S.I. No. 407 of 1983; repealed (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 4 and sch. 1 part 1, commenced on enactment.
+
+### 40. Exclusion of implied terms.
+
+**40.**—(1) Subject to the following provisions of this section, any term of a contract implied by virtue of *section 39* may be negatived or varied by an express term of the contract or by the course of dealing between the parties or by usage, if the usage be such as to bind both parties to the contract, except that where the recipient of the service deals as consumer it must be shown that the express term is fair and reasonable and has been specifically brought to his attention.
+
+(2) An express term does not negative a term implied by this Part unless inconsistent therewith.
+
+(3) The reference in *subsection (1)* to a term negativing or varying a term implied by virtue of section 39 is a reference to a term which purports to exclude or restrict, or has the effect of excluding or restricting, the operation of any provision of that section, or the exercise of a right conferred by any provision of that section, or any liability of the supplier for breach of a term implied by any provision of that section.
+
+(4) Any reference in this section to a term of a contract includes a reference to a term which, although not contained in a contract, is incorporated in the contract by another term of the contract.
+
+(5) Nothing in this section shall invalidate—
+
+(*a*) F29[...]
+
+(*b*) a term of an agreement for the international carriage of passengers or goods by land, sea or air, including an agreement between parties whose places of business or residences are situated in the State.
+
+(6) *Section 39* shall not apply to a contract for the carriage of passengers or goods by land, sea, air or inland waterway from one place to another within the State until such date as the Minister, after consultation with the Minister for Transport, by order provides whether in relation to such contracts generally or in relation to contracts of a class defined in the order in such manner and by reference to such matters as the Minister, after such consultation, thinks proper.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Deleted (25.01.1988) by *Restrictive Practices Act 1987* (31/1987), s. 31, S.I. No. 2 of 1988.
+
+### 41. Statements purporting to restrict rights of recipient of service.
+
+**41.**—(1) *Subsections (2)* and *(3)* apply to any statement likely to be taken as indicating that a right or the exercise of a right conferred by, or a liability arising by virtue of, *section 39* is restricted or excluded otherwise than under section 40.
+
+(2) It shall be an offence for a person in the course of a business to do any of the following things in relation to a statement to which *subsection (1)* refers:
+
+(*a*) to display on any part of any premises a notice that includes any such statement, or
+
+(*b*) to publish or cause to be published an advertisement which contains any such statement, or
+
+(*c*) to supply goods bearing, or goods in a container bearing, any such statement, or
+
+(*d*) otherwise to furnish or to cause to be furnished a document including any such statement.
+
+(3) For the purposes of this section a statement to the effect that goods will not be exchanged, or that money will not be refunded, or that only credit notes will be given for goods returned, shall be treated as a statement to which *subsection (1)* refers unless it is so clearly qualified that it cannot be construed as applicable in circumstances in which the recipient of the service may be seeking to exercise a right conferred by any provision of section 39.
+
+(4) It shall be an offence for a person in the course of a business to furnish to the recipient of a service goods bearing, or goods in a container bearing, or any document including, any statement, irrespective of its legal effect, which sets out, limits or describes rights conferred on the recipient or liabilities to the recipient in relation to goods acquired by him or any statement likely to be taken as such a statement, unless that statement is accompanied by a clear and conspicuous declaration that the contractual rights which the recipient enjoys by virtue of section 39 are in no way prejudiced by the relevant statement.
+
+### 42. Conflict of laws.
+
+**42.**—Where the proper law of a contract for the supply of a service in the course of a business would, apart from a term that it should be the law of some other country or a term to the like effect, be the law of Ireland or where any such contract contains a term which purports to substitute, or has the effect of substituting, provisions of the law of some other country for all or any of the provisions of *sections 39* and *40*, those sections shall, notwithstanding that term, apply to the contract.
+
+## PART VMisrepresentation — PART V — Misrepresentation
+
+### 43. “Contract”.
+
+**43.**—In this Part “contract” means a contract of sale of goods, a hire-purchase agreement, an agreement for the letting of goods to which *section 38* applies or a contract for the supply of a service.
+
+### 44. Removal of certain bars to rescission for innocent misrepresentation.
+
+**44.**—Where a person has entered into a contract after a misrepresentation has been made to him, and
+
+(*a*) the misrepresentation has become a term of the contract, or
+
+(*b*) the contract has been performed,
+
+or both, then, if otherwise he would be entitled to rescind the contract without alleging fraud, he shall be so entitled, subject to the provisions of this Part notwithstanding the matters mentioned in *paragraphs (a)* and *(b)*.
+
+### 45. Damages for misrepresentation.
+
+**45.**—(1) Where a person has entered into a contract after a misrepresentation has been made to him by another party thereto and as a result thereof he has suffered loss, then, if the person making the misrepresentation would be liable to damages in respect thereof had the misrepresentation been made fraudulently, that person shall be so liable notwithstanding that the misrepresentation was not made fraudulently, unless he proves that he had reasonable ground to believe and did believe up to the time the contract was made that the facts represented were true.
+
+(2) Where a person has entered into a contract after a misrepresentation has been made to him otherwise than fraudulently, and he would be entitled, by reason of the misrepresentation, to rescind the contract, then, if it is claimed in any proceedings arising out of the contract that the contract ought to be or has been rescinded, the court may declare the contract subsisting and award damages in lieu of rescission, if of opinion that it would be equitable to do so, having regard to the nature of the misrepresentation and the loss that would be caused by it if the contract were upheld, as well as to the loss that rescission would cause to the other party.
+
+(3) Damages may be awarded against a person under *subsection (2)* whether or not he is liable to damages under *subsection (1)*, but where he is so liable any award under *subsection (2)* shall be taken into account in assessing his liability under *subsection (1)*.
+
+### 46. Avoidance of certain provisions excluding liability for misrepresentation.
+
+**46.**—(1) If any agreement (whether made before or after the commencement of this Act) contains a provision which would exclude or restrict—
+
+(*a*) any liability to which a party to a contract may be subject by reason of any misrepresentation made by him before the contract was made, or
+
+(*b*) any remedy available to another party to the contract by reason of such a misrepresentation,
+
+that provision shall not be enforceable unless it is shown that it is fair and reasonable.
+
+(2) *Subsection (1)* shall not affect any right to refer a difference to arbitration.
+
+## PART VIMiscellaneous — PART VI — Miscellaneous
+
+### 47. Unsolicited goods.
+
+**47.**—(1) Where—
+
+(*a*) unsolicited goods are sent to a person with a view to his acquiring them and are received by him, and
+
+(*b*) the recipient has neither agreed to acquire nor agreed to return them,
+
+and either—
+
+(i) during the period of six months following the date of receipt of the goods the sender did not take possession of them and the recipient did not unreasonably refuse to permit the sender to do so, or
+
+(ii) not less than 30 days before the expiration of that period the recipient gave notice to the sender and during the following 30 days the sender did not take possession of the goods and the recipient did not unreasonably refuse to permit the sender to do so,
+
+then the recipient may treat the goods as if they were an unconditional gift to him and any right of the sender to the goods shall be extinguished.
+
+(2) The notice referred to in *subsection (1)* shall be in writing and shall state—
+
+(*a*) the recipient's name and address and the address at which the sender may take possession of the goods (if not the same) and
+
+(*b*) that the goods are unsolicited.
+
+(3) A person who, not having reasonable cause to believe there is a right to payment, in the course of any business, makes a demand for payment, or asserts a present or prospective right to payment for what he knows are unsolicited goods sent to another person with a view to his acquiring them, shall be guilty of an offence.
+
+(4) A person who, not having reasonable cause to believe there is a right to payment in the course of any business and with a view to obtaining any payment for what he knows or ought to know are unsolicited goods—
+
+(*a*) threatens to bring any legal proceedings,
+
+(*b*) places or causes to be placed the name of any person on a list of defaulters or debtors or threatens to do so, or
+
+(*c*) invokes or causes to be invoked any other collection procedure or threatens to do so,
+
+shall be guilty of an offence.
+
+(5) In this section—
+
+“acquire” includes hire,
+
+“send” includes deliver,
+
+“sender” includes any person on whose behalf or with whose consent the goods are sent and any other person claiming through or under the sender or any such person,
+
+“unsolicited” means, in relation to goods sent to any person, that they are sent without any prior request by him or on his behalf.
+
+F30[(5A) This section shall not apply in any case where section 125 of the Consumer Rights Act 2022 applies.]
+
+F31[(6) F32[...]
+
+(7) F32[...]
+
+(8)F32[...]
+
+(9)F32[...]
+
+(10) F32[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 176(1) and sch. 6 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a), (2).
+>
+> F31: Inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 32.
+>
+> F32: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a), (2).
+>
+> **Editorial Notes:**
+>
+> E11: The *European Communities (Protection of Consumers in Respect of Contracts Made by Means of Distance Communications) Regulations 2001* (S.I. No. 207 of 2001), reg. 11 (as qualified by reg. 9(5)), contains provisions based on subss. (3) and (4) and uses the same definitions of “service” and “unsolicited”.
+
+### 48. Directory entries.
+
+**48.**—(1) A person shall not be liable for any payment and shall be entitled to recover any payment made by him by way of charge for including or arranging for the inclusion in a directory of an entry relating to that person or his trade or business, unless an order or note complying with this section has been signed by him or on his behalf and, in the case of a note of agreement to the charge, a copy was supplied to him for retention before the note was signed.
+
+(2) An order for an entry in a directory must be made by means of an order form or other stationery belonging to the person to whom, or to whose trade or business, the entry is to relate and bearing in print the name and address (or one or more of the addresses) of that person, and the note of a person’s agreement to a charge must state the amount of the charge immediately above the place for signature, and
+
+(*a*) must identify the directory or proposed directory and state—
+
+(i) the proposed date of publication of the directory or of the issue in which the entry is to be included and the name and address of the person producing it,
+
+(ii) if the directory or that issue is to be put on sale, the price at which it is to be offered for sale and the minimum number of copies which are to be available for sale, and
+
+(iii) if the directory or that issue is to be distributed free (whether or not it is also to be put on sale) the minimum number of copies which are to be distributed and
+
+(*b*) must give reasonable particulars of the entry in respect of which the charge would be payable.
+
+(3) A person shall be guilty of an offence if he demands payment, or asserts a present or prospective right to payment, of a charge referred to in *subsection (1)*, or takes any action in furtherance of a demand for payment, without knowing or having reasonable cause to believe that the entry to which the charge relates was ordered in accordance with this section or that a proper note of agreement has been duly signed.
+
+(4) In this section “directory” does not include the alphabetical F33[directories] issued by the F33[Bord Telecom Éireann].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.01.1984) by *Postal and Telecommunications Services Act* 1983 (24/1983), s.8 (1) and sch. 4 pt. 1, S.I. No. 407 of 1983 (vesting day).
+
+### 49. Invoices.
+
+**49.**—(1) For the purposes of *sections 47 (3)* and *48 (3)*, any invoice or similar document, indicating a sum of money as if it were due, shall be regarded as asserting a right to payment.
+
+(2) The Minister may by order require that any invoice or similar document stating the amount of any payment shall bear a statement, in a prescribed manner and of a specified minimum size, that no claim is made to the payment.
+
+(3) A person who issues an invoice or similar document which does not comply with the requirements of an order under *subsection (2)* shall be guilty of an offence.
+
+### 50. Power to withdraw acceptance of contract.
+
+**50.**—F34[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Repealed (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 19 and sch. 2, S.I. No. 121 of 1996.
+
+### 51. Required particulars in contracts, guarantees and related writings.
+
+**51.**—(1) The Minister may, by order, following such consultation as he considers necessary, require that a seller of a specified class of goods or a supplier of a specified class of service shall include such particulars as are specified in the order in any specified class of contract or in any guarantee, notice or other writing in relation to such contract.
+
+(2) A person who contravenes an order under *subsection (1)* shall be guilty of an offence.
+
+### 52. Notices as to use of standard form of contract.
+
+**52.**—(1) The Minister may by order require, in relation to any person acting in the course of a business carried on by him who makes use of a standard form of contract (being a contract for the sale of goods, a hire-purchase agreement, an agreement for the letting of goods or a contract for the supply of a service), that he shall give such notice to the public as the order may specify as to his use of such standard form and as to whether he is or is not willing to contract on any other terms.
+
+(2) A person who contravenes an order under *subsection (1)* shall be guilty of an offence.
+
+### 53. Size of type in printed contracts and other documents.
+
+**53.**—F35[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+
+### 54. Contracts required to be in writing.
+
+**54.**—F36[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+>
+> **Editorial Notes:**
+>
+> E12: Previous affecting provision: section amended (13.05.1996) by *Consumer Credit Act 1995* (24/1995), s. 152(c), S.I. No. 121 of 1996; section repealed (29.11.2022) as per F-note above.
+
+### 55. Functions of Director of Consumer Affairs.
+
+F37[**55.**— F38[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (25.01.1988) by *Restrictive Practices (Amendment) Act 1987* (31/1987), s. 32, S.I. No. 2 of 1988.
+>
+> F38: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 2, S.I. No. 596 of 2022, subject to transitional provision in s. 9(1)(a).
+>
+> **Editorial Notes:**
+>
+> E13: The *Competition and Consumer Protection Act 2014* (29/2014), ss. 38 and 39, dissolving the National Consumer Agency and the Competition Authority and establishing the Competition and Consumer Protection Commission on 31 October 2014 by S.I. No. 367 of 2014, provides that references to these organisations shall be construed as references to the Commission and that references to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission. Note also the statement of the functions of the Commission in s. 10 of the 2014 Act.
+>
+> E14: The *Consumer Protection Act 2007* (19/2007), s. 37(3), establishing the National Consumer Agency on 1 May 2007 by S.I. No. 179 of 2007, provides that references to the Director and the office of the Director contained in any Act or instrument relating to any functions transferred by subsection (2) of the same section shall, on and after the establishment day, be read as references to the National Consumer Agency. Note also the statement of the functions of the Agency in s. 8 of the 2007 Act.
+
+### 56. Consultation with Minister for Finance.
+
+**56.**—The Minister shall not make an order under *section 51*, *52*, *53*, *54* or *55*, except after consultation with the Minister for Finance, where the order would affect the business authorised by a licence to carry on banking business for the time being in force under section 9 of the Central Bank Act, 1971, or any business exempted by section 7 (4) of that Act.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C19: References to the holder of a licence under section 9 of the *Central Bank Act 1971* (24/1971) construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152.
+>
+> **152.** Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> **Construction of licence holder in enactments**
+>
+> (*a*) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> (*b*) section 27, sections 49 to 51, sections 90, 108, 117, 134 or 140 of the Central Bank Act 1989 (No. 16 of 1989), or
+>
+> (*c*) any other enactment which was in force on 1 January 1993,
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+
+### 57. Construction of sections 9 and 18 of the Consumer Information Act, 1978.
+
+**57.**—Sections 9 (6) (*h*) and 18 of the Consumer Information Act, 1978 (which relate to the prosecution of offences by the Minister, a local authority or the Director of Consumer Affairs) shall be construed as referring to summary proceedings only.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E15: *Consumer Information Act 1978* (1/1978) was repealed (1.05.2007) by *Consumer Protection Act 2007* (19/2007), s. 4 and sch. 2, S.I. No. 178 of 2007. This provision would appear to be spent.
+
+## SCHEDULE — Fair and Reasonable Terms
+
+1\. In determining for the purposes of section 13, 31, 40 or 46 of this Act or section 55 of the Act of 1893 (inserted by section 22 of this Act) if a term is fair and reasonable the test is that it shall be a fair and reasonable one to be included having regard to the circumstances which were, or ought reasonably to have been, known to or in contemplation of the parties when the contract was made.
+
+2\. Regard is to be had in particular to any of the following which appear to be relevant:
+
+(*a*) The strength of the bargaining positions of the parties relative to each other, taking into account (among other things) alternative means by which the customer's requirements could have been met;
+
+(*b*) whether the customer received an inducement to agree to the term, or in accepting it had an opportunity of entering into a similar contract with other persons, but without having to accept a similar term;
+
+(*c*) whether the customer knew or ought reasonably to have known of the existence and extent of the term (having regard, among other things, to any custom of the trade and any previous course of dealing between the parties);
+
+(*d*) where the term excludes or restricts any relevant liability if some condition is not complied with, whether it was reasonable at the time of the contract to expect that compliance with that condition would be practicable;
+
+(*e*) whether any goods involved were manufactured, processed or adapted to the special order of the customer.
+
+3\. In this Schedule—
+
+“contract” includes “agreement”,
+
+“term” includes “agreement” and “provision”.

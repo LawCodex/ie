@@ -1,0 +1,3241 @@
+---
+title: "Central Bank Act, 1997"
+identifier: "eli/1997/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 1997
+date: 1997-03-31
+last_amended: 2026-08-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1997/act/8/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1997/act/8/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Central Bank Act, 1997
+
+AN ACT TO MAKE PROVISION FOR THE REGULATION BY THE CENTRAL BANK OF IRELAND OF PAYMENT SYSTEMS AND BUREAUX de CHANGE, AND TO AMEND AND EXTEND THE CENTRAL BANK ACTS, 1942 TO 1989 AND OTHER ENACTMENTS, AND TO PROVIDE FOR RELATED MATTERS. [31*st March*, 1997]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART I — Preliminary and General
+
+### 1. Short title, construction, collective citation and commencement.
+
+**1.** — (1) This Act may be cited as the Central Bank Act, 1997.
+
+(2) This Act shall come into operation on such day or days as may be appointed by order or orders made by the Minister, either generally or with reference to any particular purpose or provision, and different days may be appointed for different purposes and different provisions of this Act.
+
+(3) This Act, other than *sections 3*, *36* to *49*, *60*, *64* to *68*, *78* to *83* and *85* and the Central Bank Acts, 1942 to 1989, shall be construed together as one Act and may be cited together as the *Central Bank Acts, 1942 to 1997*.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (9.04.1997) by *Central Bank Act, 1997 (Commencement) Order 1997* (S.I. No. 150 of 1997).
+>
+> 2\. The Central Bank Act, 1997, shall come into operation on the 9th day of April, 1997.
+
+### 2. Interpretation.
+
+**2.** — (1) In this Act, unless the context otherwise requires—
+
+“the Act of 1942” means the Central Bank Act, 1942;
+
+“the Act of 1971” means the Central Bank Act, 1971;
+
+“the Act of 1989” means the Central Bank Act, 1989;
+
+F1[‘Bank’ means the Central Bank F2[...] of Ireland;]
+
+F3[‘Central Bank Acts’ means the Central Bank Act 1942 as amended from time to time, and includes all Acts that are to be construed together with that Act as one Act;]
+
+‘contravene’ includes fail to comply;
+
+“the Court” means the High Court;
+
+“credit institution” has the meaning assigned to it by the Regulations of 1992;
+
+F4[‘designated enactment’ means an enactment specified in Part 1 of Schedule 2 to the Central Bank Act 1942;]
+
+F5[‘designated statutory instrument’ means a statutory instrument specified in Part 2 of Schedule 2 to the Central Bank Act 1942;]
+
+F6[‘EEA country’ means a country that is a member of the European Economic Area;]
+
+“enactment” means any Act or instrument made thereunder;
+
+“financial institution” means an undertaking other than a credit institution providing any one or more of the financial services set out in the Schedule to the Regulations of 1992;
+
+“insurance undertaking” has the meaning assigned to it by the Insurance Act, 1989;
+
+“the Minister” means the Minister for Finance;
+
+“mortgage lender” means a credit institution or other person whose business includes the making of housing loans where “ housing loan ” means an agreement for credit on the security of a mortgage of a freehold or leasehold estate or interest in a house where—
+
+(*a*) the loan is made for the purpose of enabling the borrower to provide or improve the house or to purchase the said estate or interest, or
+
+(*b*) the loan is made for the purpose of refinancing a loan within the meaning of *paragraph (a)*, or
+
+(*c*) the house is to be used as the principal residence of the borrower or his dependants;
+
+“prescribed” means prescribed by Regulations made by the Minister;
+
+F7[‘publication’ includes publication on an Internet website;]
+
+F8[‘publish’ includes publish by means of the Internet;]
+
+F9[‘record’ means any record of information, however compiled, recorded or stored, and includes—
+
+(*a*) any book, a register and any other document containing information, and
+
+(*b*) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;]
+
+F10[‘regulated financial service provider’ has the same meaning as in section 2(1) of the Act of 1942;]
+
+“ the Regulations of 1992 ” means the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 395 of 1992);
+
+“statutory functions”, in relation to the Bank, means its functions—
+
+(*a*) under the *Central Bank Acts*F12[...],
+
+(*b*) imposed by virtue of F14[...] F15[...] the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 395 of 1992), or the European Communities (Consolidated Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 396 of 1992),
+
+(*c*) under the Unit Trusts Act, 1990 (No. 37 of 1990),
+
+(*d*) under the Building Societies Act, 1989 (No. 17 of 1989),
+
+(*e*) under the Companies Act, 1990 (No. 33 of 1990),
+
+(*f*) under the Trustee Savings Banks Act, 1989 (No. 21 of 1989),
+
+(*g*) under the Investment Limited Partnerships Act, 1994 (No. 24 of 1994),
+
+(*h*) under the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 1989 (S.I. No. 78 of 1989), and any instruments amending that instrument,
+
+(*i*) under the Stock Exchange Act, 1995 (No. 9 of 1995),
+
+(*j*) under the Investment Intermediaries Act, 1995 (No. 11 of 1995), and
+
+(*k*) under any other enactment;
+
+“subsidiary” has the meaning assigned to it by section 155 of the Companies Act, 1963.
+
+(2) For the purposes of the *Central Bank Acts*F13[...], “ deposit ”, on or after the commencement of this section, means a sum of money accepted on terms under which it is repayable with or without interest whether on demand or on notice or at a fixed or determinable future date.
+
+F11[(2A) For the purposes of this Act, a person is concerned in the management of a body corporate, if the person is in any way involved in directing, managing or administering the affairs of the body or firm.]
+
+(3) In this Act a reference to a section, a Part or a Schedule is a reference to a section or a Part of, or a Schedule to, this Act, unless it is indicated that reference to some other enactment is intended.
+
+(4) In this Act a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(5) In this Act a reference to an enactment shall be construed as a reference to that enactment as amended or adapted, whether before or after the commencement of this section, by or under any subsequent enactment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 23 item 1, S.I. No. 160 of 2003, art. 2 and sch.
+>
+> F2: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(6) and sch. 1 part 5 item 1, S.I. No. 469 of 2010.
+>
+> F3, F4, F5, F6, F7, F8, F9, F10, F11: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 24(1)(a)-(c), (3), S.I. No. 455 of 2004.
+>
+> F12, F13: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 24(1)(d), (2), S.I. No. 455 of 2004.
+>
+> F14: Deleted (28.02.2002) by *ACC Bank Act 2001* (12/2001), s. 12(1) and sch., S.I. No. 69 of 2002.
+>
+> F15: Deleted (12.02.2001) by *ICC Bank Act 2000* (32/2000), s. 7(1) and sch. part 1, S.I. No. 46 of 2001.
+
+### 3. Laying of regulations and orders before Houses of the Oireachtas.
+
+**3.** — Every regulation or order made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation or order is passed by either such House within the next 21 days on which that House has sat after the regulation or order is laid before it, the regulation or order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Repeals.
+
+**4.** — (1) The Acts mentioned in *column (2)* of *Part I* of the *Schedule* are hereby repealed to the extent specified in *column (3)* of that Schedule.
+
+(2) The instrument mentioned in *column (2)* of *Part II* of the *Schedule* is hereby revoked to the extent specified in *column (3)* of that Schedule.
+
+## PART II — Regulation of Payment Systems
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: Part applied with modifications (1.11.2009) by *European Communities (Payment Services) Regulations 2009* (S.I. No. 383 of 2009), reg. 39, in effect as per reg. 2(2); revoked (13.01.2018) by *European Union (Payment Services) Regulations 2018* (S.I. No. 6 of 2018), reg. 138, in effet as per reg. 1(2), subject to transitional provisions in regs. 139, 140.
+
+### 5. Definitions (Part II).
+
+**5.** — In this Part—
+
+“existing payment system” means a payment system operating at the time of the commencement of this section;
+
+“payment system” means a system established in the State, or proposed to be established in the State, by any person, in which credit institutions or financial institutions participate and which provides for—
+
+(*a*) all or any of the following, namely, the processing, handling, clearance and settlement of any means of payment or of any securities, or
+
+(*b*) the payment of any moneys by that means of payment, by or as between the members of the system or third parties, whether or not the processing, handling, clearance, settlement or payment of any of the moneys takes place in part or in whole within the State or outside the State;
+
+“rules”, in relation to a payment system or a proposed payment system, means the rules governing or proposed to govern the membership and operation of the payment system.
+
+### 6. Membership of payment system.
+
+**6.** — The Bank may become a member of, or be a party to the establishment or operation of, a payment system.
+
+### 7. Payment systems.
+
+**7.** — No payment system, other than an existing payment system, shall be established or operated unless the persons who propose to establish the system have submitted the rules for such a proposed payment system (in this part referred to as a “ proposed system ”) to the Bank for approval and the Bank has approved of those rules.
+
+### 8. Existing payment systems.
+
+**8.** — (1) Within three months of the passing of this Act, every payment system which was in operation before such passing (in this Part referred to as “ an existing system ”) shall—
+
+(*a*) submit its rules to the Bank for approval, or
+
+(*b*) cease to operate.
+
+(2) Pending a decision by the Bank to approve or not to approve of the rules of an existing system submitted to it under *subsection (1) (a)*, the Bank may—
+
+(*a*) impose on the system such conditions or requirements as it considers appropriate to impose, or
+
+(*b*) issue a direction under *section 12* as if the existing system were a system the rules of which had been approved of by the Bank.
+
+(3) The operators of a payment system may appeal to the Court against the imposition of any condition or requirement or the giving of a direction under this section.
+
+(4) On hearing an appeal under *subsection (3)* of this section, the Court may confirm, vary or rescind any condition, requirement or direction imposed under this section.
+
+### 9. Approval of rules.
+
+**9.** — (1) The Bank shall decide to approve or refuse to approve the rules of a system within three months of the receipt of a submission under *section 8 (1)* and where the Bank approves of the rules of an existing system or for a proposed system, it may—
+
+(*a*) make its approval subject to conditions or requirements or both as it thinks fit, and
+
+(*b*) at any time after approval, impose conditions or requirements or both on any class of payment system or amend or revoke any condition or requirement or both to which this subsection relates, whether or not previously amended by this subparagraph.
+
+(2) Every condition or requirement imposed to which this subsection relates and every amendment thereto or revocation thereof shall be imposed, amended or revoked as the Bank sees fit in the interest of the proper and orderly regulation of the payment system concerned and of competition between payment systems and every such condition or requirement may be imposed on either or both—
+
+(*a*) that class of payment system, and
+
+(*b*) the members of that payment system.
+
+(3) In respect of any condition or requirement to which *subsection (1) (b)* relates, a condition or requirement shall not be imposed, amended or revoked until—
+
+(*a*) the Bank has notified the operators or, when appropriate, the members of the payment system of its intention to so impose, amend or revoke, and
+
+(*b*) the Bank has considered any representations made by the payment system or any member thereof within such time limit as the Bank may specify when notifying the payment system.
+
+(4) The approval by the Bank of the rules of, or for, a payment system shall not constitute a warranty as to the solvency of that system or of any member of that system and the Bank shall not be liable, by reason of its approval, in respect of any losses incurred through the insolvency or default of that system or any of its members.
+
+(5) An application for approval of the rules of an existing system or for a proposed system shall be in such form and contain such particulars as the Bank may from time to time determine.
+
+(6) The Bank shall not approve of the rules of an existing system or a proposed system unless the existing system or proposed system is a company incorporated under the Companies Acts, 1963 to 1990.
+
+(7) The operator of an existing system or the promoter of a proposed system may appeal to the Court against the imposition of any condition or requirement within 21 days of the imposition thereof and the Court may, on hearing an appeal under this section, confirm, vary or rescind any condition or requirement under this section.
+
+### 10. Refusal to approve of rules.
+
+**10.** — (1) The Bank shall not refuse to approve of the rules of an existing system or for a proposed system without the consent of the Minister and unless it is satisfied that the approval would not be in the interest of the proper and orderly regulation of such a system, and the Minister shall not consent to the refusal unless he or she is satisfied that the approval would not be in the interest of the proper and orderly regulation of such a system.
+
+(2) Whenever the Bank proposes to refuse to approve of the rules of an existing system or for a proposed system—
+
+(*a*) it shall notify the system or, in the case of a proposed system, the promoter of the system, in writing that it intends to seek the consent of the Minister to the proposed refusal and of its reasons for the refusal and that the system or the promoter may, within the period of 21 days after the date of the giving of the notification, make representations in writing to the Minister in relation to the proposed refusal,
+
+(*b*) the operators of the system or the promoter may make such representations in writing to the Minister within the time aforesaid, and
+
+(*c*) the Minister shall, before deciding to give or withhold his or her consent, consider any representations duly made to him or her under this subsection in relation to the proposed refusal.
+
+F16[(3) In the performance of any function or duty by the Bank, or the exercise of any power by the Bank, required by or under the Treaty or the Statute, *subsections (1)* and *(2)* shall not apply.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (28.07.1998) by *Economic and Monetary Union Act 1998* (38/1998), s. 28(a), S.I. No. 279 of 1998.
+
+### 11. Application of section 17 of Act of 1971.
+
+**11.** — Without prejudice to the provisions of *section 9* , section 17 (which relates to books and records of holders of licences) (as amended by section 36 of the Act of 1989) of the Act of 1971 shall apply as if—
+
+(*a*) every payment system to which this Part applies, and
+
+(*b*) every member of that system,
+
+who is not at the time of the commencement of this section the holder of a licence for the purpose of the Central Bank Acts, 1942 to 1989, and this Act, were the holder of such a licence.
+
+### 12. Failure to comply with conditions or requirements.
+
+**12.** — (1) Where the Bank is satisfied that a payment system or any member thereof has failed or is failing to comply with a condition or requirement under *section 8 (2) (a)* or *section 9* , the Bank may give a direction to—
+
+(*a*) the payment system to cease such activities as the Bank may specify, and
+
+(*b*) any or all of the members of the payment system to cease operating as a member or members of that system,
+
+for a specified period or until further notice by the Bank.
+
+(2) (*a*) The payment system to which, or member or members thereof to whom, a direction is given under *subsection (1)* may apply in a summary manner to the Court for, and the Court may grant, an order setting aside the direction.
+
+(*b*) The Bank may apply in a summary manner to the Court to have a direction by it under this section confirmed by the Court.
+
+(3) The Court when considering the matter may make such interim or interlocutory order as it considers appropriate.
+
+(4) Where the Court is satisfied, because of the nature or the circumstances of the case or otherwise in the interests of justice that it is desirable, the whole or any part of proceedings under this section may be heard otherwise than in public.
+
+### 13. Revocation of approval of rules of payment system.
+
+**13.** — (1) The Bank may—
+
+(*a*) revoke an approval of the rules of a payment system if the system to which it was granted so requests,
+
+(*b*) with the consent of the Minister, revoke an approval of the rules of a payment system, if—
+
+(i) the system—
+
+(I) has not commenced to operate within 12 months of the date on which the approval was granted, or
+
+(II) has ceased operating for a period of more than one month,
+
+(ii) the payment system being a company, the company is being wound up,
+
+(iii) the payment system (being an existing system) or the promoter of a proposed system has obtained the approval of the Bank through false statements or any other irregular means,
+
+(iv) the payment system becomes unable to meet its obligations to creditors or suspends payment lawfully due by the system or by any member thereof, or
+
+(v) since the grant of the approval, the circumstances relevant to the grant have changed and are such that, if an application for an approval were made in the changed circumstances, it would be refused.
+
+(2) Whenever the Bank proposes to revoke an approval (other than in pursuance of a request by the payment system to which it was granted to do so)—
+
+(*a*) it shall notify the payment system concerned that it intends to seek the consent of the Minister to the revocation and of the reasons for that revocation and that the system may, within 21 days after the date of the giving of the notification, make representations in writing to the Minister in relation to the proposed revocation,
+
+(*b*) the payment system may make such representations in writing to the Minister within the time aforesaid, and
+
+(*c*) the Minister shall, before deciding to give or withhold his or her consent, consider any representations duly made to him or her under this subsection in relation to the proposed revocation.
+
+F17[(2A) (*a*) In the performance of any function or duty by the Bank, or the exercise of any power by the Bank, required by or under the Treaty or the Statute, *subsections (1)(b)* and *(2)* shall not apply.
+
+(*b*) In this subsection ‘the Treaty’ and ‘the Statute’ have the same meanings, respectively, as are assigned to them for the purposes of this Act by *subsection (2)* (inserted by the Central Bank Act, 1998 ) of *section 24*.]
+
+(3) Where an approval of the rules of a payment system is revoked and the system is not a company which is being wound up—
+
+(*a*) the system and the members thereof shall continue to be subject to the duties and obligations imposed by or under this Part or section 18 of the Act of 1971 until all liabilities of the system and its members have been discharged to the satisfaction of the Bank,
+
+(*b*) the system shall, as soon as possible after the approval is revoked, notify the Bank and such other persons (if any) as the Bank indicates are to be notified of the measures being taken or proposed to be taken to discharge in full and without undue delay the liabilities of the system and the members thereof,
+
+(*c*) in the case where—
+
+(i) that payment system has notified the Bank in accordance with *paragraph (b)* and the Bank is of the opinion that the measures being taken or proposed to be taken for the purposes of that paragraph are not satisfactory, or
+
+(ii) that payment system has not so notified the Bank and the Bank is of the opinion that the system has failed to so notify as soon as possible after the approval is revoked, or
+
+(iii) the Bank is of the opinion that the payment system has failed to take all reasonable steps to notify persons that the Bank has indicated, under *paragraph (b)*, are to be notified,
+
+then, the Bank may give a direction in writing to that payment system or to any of its members for such period, not exceeding six months, as may be specified therein, prohibiting the payment system or the members thereof so directed from—
+
+(I) dealing with or disposing of any assets or specified assets of the payment system or of its members in any manner, or
+
+(II) engaging in any transaction or class of transaction or specified transaction, or
+
+(III) making payments,
+
+without the prior authorisation of the Bank, and the Bank may require that payment system or any of its members to prepare and submit to it for its approval within two months of the direction, a scheme for the orderly discharge in full of the liabilities concerned.
+
+(4) (*a*) Where the approval of the rules of a payment system is revoked and the system is a company which is being wound up, the liquidator of the company shall, in addition to the duties and obligations in respect of the winding up, be subject to the duties and obligations to which the payment system would be subject were it a payment system to which *subsection (3)* relates and that subsection shall, for the purpose of this subsection, be construed accordingly.
+
+(*b*) Notwithstanding *paragraph (a)*, the Bank may, where it revokes an approval and considers it appropriate in the circumstances, remove in writing the duty and obligation imposed on the liquidator concerned to comply with *paragraph (b)* of *subsection (3)* and may impose in writing on that liquidator such further or other duty and obligation which corresponds to that set out in the said *paragraph (b)*.
+
+(*c*) Nothing in this subsection shall be construed as affecting any duty or obligation under this Part of the members of the payment system concerned.
+
+(5) The Bank shall as soon as may be after the revocation of an approval of the rules of a payment system publish a notice of the revocation in such manner as it thinks fit.
+
+(6) (*a*) The system to which a direction was given under *subsection (3)*, or a liquidator to whom a direction was given under *subsection (4)*, may apply in a summary manner to the Court for, and the Court may grant, an order setting aside the direction.
+
+(*b*) The Bank may apply in a summary manner to the Court to have a direction by it under this section confirmed by the Court.
+
+(7) The Court when considering the matter may make such interim or interlocutory order as it considers appropriate.
+
+(8) Where the Court is satisfied, because of the nature or the circumstances of the case or otherwise in the interests of justice, that it is desirable, the whole or any part of proceedings under this section may be heard otherwise than in public.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (28.07.1998) by *Economic and Monetary Union Act 1998* (38/1998), s. 28(b), S.I. No. 279 of 1998.
+
+### 14. Offences.
+
+**14.** — Any person who contravenes *section 7* or *section 8(1)* and a payment system or a member thereof who—
+
+(*a*) commits by act or omission a breach of a condition or requirement duly imposed and which relates to the approval by the Bank of the rules of the system, or
+
+(*b*) fails by act or omission to comply with a direction confirmed by the Court under *section 12* or *section 13*,
+
+shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a fine not exceeding £1,500 or, at the discretion of the court, to imprisonment for a term not exceeding 12 months, or to both, or
+
+(ii) on conviction on indictment, to a fine not exceeding £50,000 or, at the discretion of the court, to imprisonment for a term not exceeding five years, or to both,
+
+and
+
+(iii) if the contravention, breach or failure in respect of which such person, payment system or member was convicted is continued after conviction, that person, system or member shall be guilty of an offence on every day on which the contravention, breach or failure continues after conviction in respect of the original contravention, breach or failure and for each such offence that person, system or member shall be liable on summary conviction to a fine not exceeding £100 or on conviction on indictment to a fine not exceeding £5,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E3: £1,500 converted (1.01.1999) to €1,904.61. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E4: £50,000 converted (1.01.1999) to €63,486.90.
+>
+> E5: £100 converted (1.01.1999) to €126.97. This translates into a a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E6: £5,000 converted (1.01.1999) to €6,348.69.
+
+### 15. Imposition of requirements for membership.
+
+**15.** — In approving the rules of a payment system or in imposing terms and conditions for the operation of a system, the Bank may, without prejudice to any other requirement it sees fit to impose in the interests of the proper and orderly regulation of the system, impose conditions in relation to all or any of the following:
+
+(*a*) the requirements for membership and rules of operation of the system;
+
+(*b*) the code of conduct to be followed by the members of the system;
+
+(*c*) the apportionment of costs as between the members themselves or between the members and the system;
+
+(*d*) the fees, contributions or any other financial requirement in relation to membership of a payment system whatsoever imposed or to be imposed on an existing member of the system or an applicant for membership of the system.
+
+### 16. Amendment of section 26 of Act of 1971.
+
+**16.** — Section 26 of the Act of 1971 is hereby amended by the substitution for subsection (7) (inserted by section 42 of the Act of 1989) of the following subsections:
+
+“(7) The Minister may, after consultation with the Bank and where he or she is of the opinion that the proper and orderly regulation of financial markets so requires, by order—
+
+(*a*) in the case of either or both subsections (2) and (3) of this section, apply those subsections or restrict their application to any class of persons, and
+
+(*b*) in the case of subsection (6) of this section, amend that subsection by the addition thereto or deletion therefrom, of any instrument specified in that subsection,
+
+and, in the case of each subsection, whether or not previously affected by virtue of this subsection.
+
+(8) In this section ‘holder of a licence’ shall be deemed to include a credit institution within the meaning of Regulation 2 of the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 395 of 1992).
+
+(9) Where the Minister is of the opinion, after consulting the Bank and such other Ministers (if any) as he considers it appropriate to consult with, that there are adequate supervisory and inspection provisions contained in any enactment relating to a financial institution or a class or type of institution to which the provisions of this Chapter would apply, then the Minister may by order specify the enactment concerned and, where necessary in the context of that enactment, the institution or class or type of institution to which the order relates and, accordingly, those provisions shall not apply to an institution to which the order relates.
+
+(10) The Minister may, after consulting the Bank and such other Ministers (if any) as he considers it appropriate to consult with, by order, revoke an order, under subsection (9).”.
+
+### 17. Exemption of payment systems.
+
+**17.** — The Bank may exempt a payment system or a class of payment system from some or all of the requirements of this Part on such terms and conditions as the Bank may decide, where it is of the opinion that the application of this Part to that system or class of system is not necessary in the interest of the proper and orderly regulation of financial transactions in the State.
+
+### 18. Payment of fees.
+
+**18.** — F18[(1) The Bank may, subject to the approval of the Minister, prescribe the fee that a person who operates a payment system must pay to the Bank in relation to the operation of the system. Different fees may be prescribed for different classes of operators of payment systems.]
+
+(2) Where the F19[Bank] proposes to prescribe a fee under *subsection (1)*, F20[it]—
+
+(*a*) shall notify the persons of the class to which the proposed fee relates of that proposed fee, and
+
+(*b*) shall not prescribe the fee until F21[it] has considered any representations made to F22[it] within such period, being not less than two months after the date the notification was sent to each person concerned.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18, F19, F20, F21, F22: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. part 23 item 2(a)-(d), S.I. No. 160 of 2003, art. 2 and sch.
+
+### 19. Prohibition of revocation of certain payments.
+
+**19.** — Where any credit institution instructs the F23[Bank] to make a payment to the F24[Bank] or to another credit institution that instruction may not be revoked on or after the debiting of the account of such credit institution.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23, F24: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 25, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 20. Electronic settlement of accounts.
+
+**20.** — Notwithstanding anything to the contrary contained in any enactment relating to settlement or other accounts held at the Bank, all payment instructions and authorisations to and from the Bank shall be effective if made through a computerised system established by the Bank or in any other electronic form and not otherwise recorded within the Bank (without the need for an instrument in writing).
+
+### 21. Amendment of section 7 of Act of 1942.
+
+**21.** — The following section is hereby substituted for section 7 of the Act of 1942:
+
+“7.— (1) It shall be lawful for the Bank to do all or any of the following things, that is to say:
+
+(*a*) buy or sell coin or gold or silver bullion, or other precious metal, or any currency or currency units, however described;
+
+(*b*) receive deposits;
+
+(*c*) open accounts in other countries or act as agent, depository, or correspondent of any credit institution carrying on business in or outside the State;
+
+(*d*) with the consent of the Minister acquire, hold, or dispose of shares in a bank or other institution formed wholly or mainly by banks which are the principal currency authority in their respective countries;
+
+(*e*) re-discount any exchequer note or bill, local authority bill, bill of exchange or promissory note on such terms and conditions as the Bank sees fit;
+
+(*f*) make loans or advances to credit institutions on the security of such assets and subject to such terms and conditions as the Bank sees fit;
+
+(*g*) fix and publish from time to time the minimum rate or rates at which the Bank may re-discount any bill or debt instrument or otherwise make funds available to credit institutions;
+
+(*h*) buy, hold, or sell securities;
+
+(*i*) keep registers of securities generally;
+
+(*j*) operate or participate in any depository of securities or of other instruments;
+
+(*k*) keep the accounts for the clearing and settlement of securities or payment instruments;
+
+(*l*) become a member of, or a party to the establishment or operation of a payment system;
+
+(*m*) operate or participate in any system that provides a settlement service for transactions in securities or other instruments for its members;
+
+(*n*) enter into agreements with any depositories of securities or other instruments and to carry out any transactions under the terms of such agreements necessary for the settlement of transactions between members of such depositories and members of any depository operated by the Bank.”.
+
+### 22. Power to make regulations for cross-border transfers.
+
+**22.** — (1) The Minister may make regulations providing for the regulation of cross-border credit transfers and, without prejudice to the generality of the foregoing, the regulations may provide, in respect of such credit transfers, for all or any of the following:
+
+(*a*) transparency;
+
+(*b*) periods of time within which establishments may be bound to make a payment;
+
+(*c*) an obligation to execute transfers in accordance with instructions in payment orders, including instructions as regards allocation of costs;
+
+(*d*) an obligation, in the event of non-execution of transfers, to refund an amount up to and including the full amount, interest and charges;
+
+(*e*) dispute resolution procedures.
+
+(2) In this section—
+
+“cross-border credit transfer” means a transaction carried out on the initiative of an originator via an institution or its branch in one Member State of the European Union, with a view to making available an amount of money to a beneficiary at an institution or its branch in another Member State;
+
+“transparency” means the making available to actual and prospective customers in writing, including where appropriate by electronic means, in a readily comprehensible form, information on conditions for cross-border credit transfers.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: power pursuant to section exercised (14.08.1999) by *European Communities (Cross-Border Credit Transfers) Regulations 1999* (S.I. No. 231 of 1999), in effect as per reg. 1(2); revoked (1.11.2009) by *European Communities (Payment Services) Regulations 2009* (S.I. No. 383 of 2009), reg. 120, in effect as per reg. 2(2).
+
+## PART III — Power of the Bank to Form or Acquire a Company
+
+### 23. Power of Bank to form or acquire a company.
+
+**23.** — (1) Subject to *subsection (4)*, the Bank may promote and take part in the formation or establishment of one or more than one company.
+
+(2) The Bank may acquire, hold and dispose of shares or other interests in one or more than one company and become a member of a company.
+
+(3) The Bank may exercise total or partial control of the composition of the board of directors that controls or manages a company promoted, formed or established by it.
+
+(4) The exercise by the Bank of any power conferred by this section shall be subject to the consent of the Minister, given after consultation with any other Minister of the Government who, in the opinion of the Minister, having regard to the functions of that Minister of the Government, ought to be consulted.
+
+(5) The consent of the Minister shall be required for the drawing up of or amending of the Memorandum and Articles of Association of any company formed or acquired by the Bank.
+
+(6) The functions and powers of any subsidiary of the Bank shall be limited to those conferred on the Bank.
+
+(7) *Subsection (6)* shall not apply where the Bank becomes a member of, or is a party to the establishment or operation of a payment system.
+
+## F25[PART IV — Functions of Bank with Respect to Regulated Financial Service Providers — CHAPTER 1 — Introductory]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted and inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Part restricted by *Credit Union Act 1997* (15/1997), s. 184(b), as substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 34, S.I. No. 280 of 2013), art. 2(a).
+>
+> **[Certain enactments not to apply to credit unions etc.**
+>
+> **184.**—The following enactments, namely— ...
+>
+> (*b*) Part IV (other than sections 27B, 27G and 27H) of the Central Bank Act 1997, and
+>
+> ...
+>
+> shall not apply to a credit union or to a body the members of which are credit unions and the principal objects of which are the promotion of the credit union movement and the provision of services to credit unions.**]**
+
+### 24. Interpretation (Part IV).
+
+F26[**24.**—(1) In this Part—
+
+‘affiliate’, in relation to an auditor, means a firm or body corporate specified by *subsection (2)* as being an affiliate of the auditor;
+
+‘company’ has the same meaning as in section 2 (1) of the Companies Act 1963;
+
+F27[‘financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 ( S.I. No. 158 of 2014);]
+
+‘firm’ has the same meaning as in section 4 of the Partnership Act 1890;
+
+‘guideline’ means a guideline issued under *section 27A* or, if such a guideline is amended, means the guideline as amended;
+
+F28[‘mixed financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014;]
+
+‘public authority’ means a body (whether corporate or incorporate) established or constituted by or under an Act that performs one or more public functions;
+
+‘relevant obligations’, in relation to a regulated financial service provider, means the service provider's obligations under—
+
+(*a*) all designated enactments and all designated statutory instruments that apply to it, and
+
+(*b*) all codes, guidelines and notices issued by the Bank that apply to it, and
+
+(*c*) all other enactments and statutory instruments with which it must comply;
+
+‘work’, in relation to an auditor, includes all work of an accounting, financial or advisory nature that an auditor does for a financial service provider as well as work involved in auditing the financial service provider's accounts.
+
+(2) For the purposes of this Part, each of the following is an affiliate of an auditor in a financial year:
+
+(*a*) in the case of an auditor that is a firm—
+
+(i) any other firm that, at any time during the financial year, was under the same ownership and control as the auditor,
+
+(ii) any body corporate in which the auditor, any firm mentioned in *subparagraph (i)* or *(iv)* or any body corporate mentioned in *subparagraph (iii)* or *(iv)* was, at any time in the financial year, entitled to exercise or control the exercise of 20 per cent or more of the voting rights at a general meeting,
+
+(iii) any body corporate that was, at any time in the financial year, in the same group as a body corporate mentioned in *subparagraph (ii)*,
+
+(iv) any other firm, or body corporate, that because of the use of a common name or corporate identity or the sharing of common professional services could reasonably be considered to be associated with the auditor,
+
+(*b*) in the case of an auditor who is a natural person—
+
+(i) any partnership in which the auditor was, at any time in the financial year, a partner,
+
+(ii) any body corporate in which the auditor, any partnership mentioned in *subparagraph (i)* or any body corporate mentioned in *subparagraph (iii)* was, at any time in the financial year, entitled to exercise or control the exercise of 20 per cent or more of the voting rights at a general meeting,
+
+(iii) any body corporate that was, at any time in the financial year, in the same group as a body corporate mentioned in *subparagraph (ii)*.
+
+(3) For the purposes of this Part, a director of a regulated financial service provider that is a body corporate is taken to be concerned in the management of the financial service provider even though the director is not involved in its day to day management.]
+
+F29[(4) In this Part—
+
+(*a*) a reference to a financial service provider shall include a reference to a financial holding company or a mixed financial holding company,
+
+(*b*) a reference to a regulated financial service provider shall include a reference to a financial holding company or a mixed financial holding company, and
+
+(*c*) a reference to a person concerned in the management of a financial service provider shall include a reference to a person concerned in the management of a financial holding company or a mixed financial holding company.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> F27, F28, F29: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 60(a), (b), in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: section repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 23 item 3, S.I. No. 160 of 2003; substituted as per F-note above.
+>
+> E9: Previous affecting provision: section substituted (23.05.1998) by *Central Bank Act 1998* (2/1998), s. 17, S.I. No. 338 of 2002; repealed as per E-note above.
+
+CHAPTER 2
+
+*Compliance and related statements*
+
+### 25. Obligation of regulated service provider to provide compliance statement when required to do so by the Bank.
+
+F30[**25.**—(1) The Bank may, whenever it considers appropriate, serve on a regulated financial service provider a notice requiring the service provider to comply with this section.
+
+(2) The Bank may also serve such a notice at the request of another public authority only if it is of the opinion that it would be in the public interest to do so.
+
+(3) A notice must specify a reasonable period within which the requirement is to be complied with and, if the notice is served at the request of another public authority, it must specify the name and address of that authority.
+
+(4) A regulated financial service provider on whom a notice is served shall provide the Bank with a compliance statement within the required period.
+
+(5) If the compliance statement is provided at the request of another public authority, the financial service provider concerned shall, also within the required period, provide the public authority with a copy of the statement.
+
+(6) A compliance statement must, in accordance with any relevant guideline, specify whether the regulated financial service provider concerned has, during the compliance period specified in the notice, complied with its relevant obligations, or with such of them as are specified in the notice.
+
+(7) A compliance statement must also comply with the guidelines (if any) from time to time issued under *section 27A (1)*.
+
+(7A) In the case of a regulated financial service provider that is a company to which section 205E of the Companies Act 1990 applies, the Bank may, instead of serving on the financial service provider a notice under this section, rely on a compliance statement prepared under that section if it is satisfied that the statement contains the information that would be required to be included in a compliance statement under this section.
+
+(8) In this section—
+
+‘notice’ means a notice in writing served under this section;
+
+‘required period’, in relation to a notice served on a regulated financial service provider, means the period specified in the notice within which the service provider must comply with the notice or, if the Bank extends that period, that extended period.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 26. Compliance statement to be accompanied by auditor's report if required.
+
+F31[**26.**—(1) If a notice served under *section 25* so requires, the financial service provider concerned shall request that service provider's auditor to prepare a report about the relevant compliance statement.
+
+(2) Within such period as is specified in the notice, the auditor shall prepare a report about the relevant compliance statement and deliver the report to the financial service provider concerned.
+
+(3) Such a report must—
+
+(*a*) state whether the relevant compliance statement is, in the auditor's opinion, fair and reasonable in the light of the information obtained by the auditor, or by an affiliate of the auditor, in the course of undertaking work for the service provider, and
+
+(*b*) if the auditor is of the opinion that the compliance statement is not fair and reasonable, specify the reasons why, in the auditor's opinion, that statement is not fair and reasonable.
+
+(4) As soon as practicable after receiving a report prepared in accordance with this section, the financial service provider concerned shall—
+
+(*a*) attach the report to the compliance statement, or
+
+(*b*) if that statement has already been delivered to the Bank, deliver the report to the Bank, and if another public authority requested the compliance statement, also deliver a copy of the report to the public authority.
+
+(5) If a report prepared in accordance with this section relates to a financial service provider that is a company, the auditor shall include a copy of the report in the auditor's report on the company's accounts that are required to be laid before the company in general meeting.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: section substituted (23.05.1998) by *Central Bank Act 1998* (2/1998), s. 18, S.I. No. 338 of 2002; substituted as per F-note above.
+
+### 27. Offences under section 25 or 26.
+
+F32[**27.**—(1) A regulated financial service provider who fails to comply with a requirement of *section 25* or *26* commits an offence and is—
+
+(*a*) if tried summarily, liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, liable on conviction to a fine not exceeding €75,000.
+
+(2) A regulated financial service provider who, having been convicted of an offence of failing to comply with a requirement of *section 25* or *26*, continues to fail to comply with the requirement commits a further offence on each day or part of a day during which the failure continues after that conviction and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €200 for each such day or part of a day, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €7,500 for each such day or part of a day.
+
+(3) If a regulated financial service provider that is a body corporate commits an offence under *subsection (1)* or *(2)*, each person who, at the time when the offence is found to have been committed, was concerned in the management of the body commits a separate offence, unless the person establishes that—
+
+(*a*) the body committed the offence without the person's knowledge, or
+
+(*b*) although the person did have that knowledge, the person took all reasonably practicable steps to prevent the commission of the offence.
+
+(4) A person may be charged with having committed an offence under *subsection (3)* even if the financial service provider concerned is not charged with having committed an offence under *subsection (1)* in relation to the same matter.
+
+(5) A person who is convicted of an offence under *subsection (3)* is liable to a fine not exceeding that prescribed by *subsection (1)* or *(2)* for a regulated financial service provider.]
+
+F33[(6) (*a*) *Subsection (1)* does not apply if the regulated financial service provider concerned has a reasonable excuse.
+
+(*b*) It is a reasonable excuse for the purposes of *paragraph (a)* for a regulated financial service provider to fail to comply with a requirement under *section 25* or *26* that such compliance might tend to incriminate the regulated financial service provider.
+
+(*c*) *Paragraph (b)* does not limit what is a reasonable excuse for the purposes of *paragraph (a)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> F33: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 79, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E11: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E12: A fine of €200 translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 27A. Bank may issue guidelines.
+
+F34[**27A.**—(1) The Bank may from time to time issue guidelines with which a compliance statement must comply.
+
+(2) The Bank may also from time to time issue guidelines specifying the manner in which the persons concerned in the management of regulated financial service providers, or of regulated financial service providers of a specified class, are required to exercise control over those service providers so as to ensure that those service providers comply with their obligations under the designated enactments and designated statutory instruments that apply to them.
+
+(3) Whenever the Bank issues guidelines under this section, or amends or revokes those guidelines, the Bank must publish in Iris Oifigiúil a notice—
+
+(*a*) stating that the guidelines have been issued, or have been amended or revoked, and
+
+(*b*) specifying a place or places where copies of the guidelines, or the amendment or revocation, may be obtained.
+
+(4) The Bank shall publish guidelines issued under this section, or any amendment or revocation of those guidelines, in a publication chosen by the Bank.
+
+(5) Guidelines issued under this section take effect on the date on which the notice of their issue is published in Iris Oifigiúil or on such later date as is specified in the publication.
+
+(6) The Bank may amend or revoke guidelines issued under this section.
+
+(7) An amendment or revocation of a guideline issued under this section takes effect on the date on which notice of the amendment or revocation is published in Iris Oifigiúil or on such later date as is specified in the notice.
+
+(8) All courts and tribunals are required to take judicial notice of guidelines in force under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+F35[CHAPTER 3
+
+*Obligations of auditors of regulated financial service providers*
+
+### 27B. Auditor of regulated financial service provider to lodge annual report with Bank.
+
+**27B.**—(1) This section applies to an auditor who is required by or in accordance with a prescribed enactment to report a matter to the Bank.
+
+(2) Within 1 month after the date of the auditor's report on the financial service provider's accounts, or within such extended period as the Bank allows, the auditor of the service provider shall deliver a written report to the Bank—
+
+(*a*) stating whether or not circumstances have arisen that require the auditor to report a matter to the Bank under a prescribed enactment and, if such circumstances have arisen, specify those circumstances, and
+
+(*b*) where the service provider has, during that financial year, been required to provide the Bank with a compliance statement stating whether or not the requirement has been complied with.
+
+(3) A report under this section must be in a form publicly notified by the Bank.
+
+(4) The following are prescribed enactments for the purpose of this section:
+
+(*a*) section 35 of the Insurance Act 1989;
+
+(*b*) section 47 of the Central Bank Act 1989;
+
+(*c*) section 89 of the Building Societies Act 1989;
+
+(*d*) section 38 of the Trustee Savings Banks Act 1989;
+
+(*e*) section 258 of the Companies Act 1990;
+
+(*f*) section 15 of the Unit Trusts Act 1990;
+
+(*g*) section 16 of the Investment Limited Partnerships Act 1994;
+
+(*h*) section 33 of the Investment Intermediaries Act 1995;
+
+(*i*) section 34 of the Stock Exchange Act 1995;
+
+(*j*) section 122 of the Credit Union Act 1997;
+
+F36[(*k*) Regulation 85 of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003;]
+
+F37[(*l*) Regulation 52 of the European Union (Capital Requirements) Regulations 2014;]
+
+F38[(*m*) Regulation 78 of the European Union (Insurance and Reinsurance) Regulations 2015;]
+
+F39[(*n*) any other provision of an Act or regulations declared under *subsection (5)* to be a prescribed enactment for the purpose of this section.]
+
+(5) The Bank may, by notice published in Iris Oifigiúil, declare a provision of an Act or regulations to be a prescribed enactment for the purpose of this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> F36, F37, F38: Substituted (1.01.2016) by *European Union (Insurance and Reinsurance) Regulations 2015* (S.I. No. 485 of 2015), reg. 315, in effect as per regs. (2), (3), subject to transitional provisions in reg. 318.
+>
+> F39: Inserted (1.01.2016) by *European Union (Insurance and Reinsurance) Regulations 2015* (S.I. No. 485 of 2015), reg. 315, in effect as per regs. (2), (3), subject to transitional provisions in reg. 318.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: subs. (4)(k) substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 158; substituted as per F-note above.
+
+### 27BA. Auditor assurance.
+
+F40[**27BA.**— (1) Where the Bank considers it necessary owing to the nature, scale or complexity of the activities of a regulated financial service provider, it may, by notice in writing to the auditor of the regulated financial service provider, require the auditor to conduct an examination for the purpose of providing to the Bank a statement as to the extent to which the regulated financial service provider has complied with obligations imposed by or under such provisions of financial services legislation as are specified in the notice.
+
+(2) The notice—
+
+(*a*) shall be given not less than 3 months before the date on which the auditor’s report on the regulated financial service provider’s accounts is due to be submitted to the Bank, and
+
+(*b*) shall specify the standards in accordance with which the examination is to be conducted.
+
+(3) The auditor shall conduct an examination in accordance with the notice and during the examination shall undertake such testing procedures and obtain such information as the auditor thinks appropriate.
+
+(4) The auditor shall, not more than 2 months after the date on which the auditor’s report on the regulated financial service provider’s accounts is due to be submitted to the Bank, provide to the Bank a statement outlining the findings of the examination (including, in particular, the outcome of the testing procedures undertaken, and the information obtained, by the auditor during the examination).
+
+(5) If the auditor is not satisfied that the regulated financial service provider has complied with an obligation imposed by or under the provisions of financial services legislation specified in the notice, the auditor shall include in the statement the reasons why the auditor is not so satisfied.
+
+(6) The Bank may make regulations prescribing the obligations imposed by or under provisions of financial services legislation any or all of which may be specified in a notice under *subsection (1)*.
+
+(7) The Bank may prescribe an obligation imposed by or under a provision of financial services legislation in regulations under *subsection (6)* if and only if the provision concerns—
+
+(*a*) administrative or accounting procedures of regulated financial service providers,
+
+(*b*) internal control mechanisms of, or risk management by, regulated financial service providers, or
+
+(*c*) the organisational structure or governance of regulated financial service providers.
+
+(8) Before making regulations under this section the Bank shall consult the Minister and the Minister for Jobs, Enterprise and Innovation.
+
+(9) In specifying under *subsection (2)(b)* the standards in accordance with which an examination is to be conducted, the Bank shall have regard to internationally recognised standards for assurance and auditing.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 35, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to subs. (6) exercised (24.09.2018) by *Central Bank Act 1997 (Auditor Assurance) (Amendment) Regulations 2018* (S.I. No. 373 of 2018).
+>
+> E15: Power pursuant to subs. (6) exercised (3.08.2016) by *Central Bank Act 1997 (Auditor Assurance) (Amendment) Regulations 2016* (S.I. No. 445 of 2016).
+>
+> E16: Power pursuant to subs. (6) exercised (26.09.2014) by *Central Bank Act 1997 (Auditor Assurance) Regulations 2014* (S.I. No. 424 of 2014).
+
+### 27C. Duty of auditor to provide Bank with copies of certain reports.
+
+F41[**27C.**—(1) If the auditor of a regulated financial service provider provides the financial service provider, or those concerned in its management, with a report on a matter that has come to the auditor's notice while auditing the accounts of the financial service provider or carrying out any other work for the financial service provider of a kind specified by the Bank, the auditor shall provide the Bank with a copy of the report. The copy must be provided at the same time as, or as soon as practicable after, the original is provided to the financial service provider or those concerned in its management.
+
+(2) If—
+
+(*a*) an auditor of a regulated financial service provider invites the financial service provider, or the persons concerned in its management, to comment on a draft of a report referred to in *subsection (1)*, and
+
+(*b*) the financial service provider or those persons comment on the draft in response to the invitation, the obligation of the auditor under that subsection applies only to the final version of the report.
+
+(3) If, in relation to the financial year of a regulated financial service provider, there has been no reason for the auditor of the service provider to provide such a report, the auditor shall nevertheless notify the Bank in writing that this is the case.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 27D. Duty of auditor to provide Bank with copies of reports sent to Director of Corporate Enforcement.
+
+F42[**27D.**—Whenever an auditor of a regulated financial service provider that is a company provides the Director of Corporate Enforcement with a report or other document in accordance with a requirement imposed by the Companies Acts or any other enactment, the auditor shall also provide the Bank with a copy of that report or document. The copy must be provided at the same time as, or as soon as practicable after, the original is provided to the Director of Corporate Enforcement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 27E. Bank may request auditor of regulated financial service provider to provide Bank with report on certain matters.
+
+F43[**27E.**—(1) The Bank may, by notice in writing, request an auditor of a regulated financial service provider, or an affiliate of the auditor, to provide the Bank with a report on all or any of the following:
+
+(*a*) the service provider's accounting or other records;
+
+(*b*) the systems (if any) that the service provider has in place to ensure that the service provider acts prudently in the interests of its members (if a company or firm) and the interests of those to whom the service provider provides financial services;
+
+(*c*) any other matter in respect of which the Bank requires information about the service provider, or the service provider's activities, to enable the Bank to perform a function imposed on it by or under an Act.
+
+(2) The auditor or affiliate shall comply with such a request within such period as is specified in the request, or within such extended period as the Bank may allow.
+
+(3) If the Bank so directs, the auditor or affiliate shall not, without the consent of the Bank, disclose to the financial service provider concerned, or any person concerned in the management of, or employed by, that service provider—
+
+(*a*) the fact that the auditor or affiliate has received a request under subsection (1), or
+
+(*b*) any information that might lead that service provider, or any such person, to suspect that the auditor or affiliate has received such a request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 27F. Bank may require auditor of regulated financial service provider to provide certain documents.
+
+F44[**27F**.—(1) The Bank may, by notice in writing, require an auditor of a regulated financial service provider, or an affiliate of the auditor, to provide the Bank with a copy of any record or information provided or obtained by the auditor or affiliate in connection with an audit of the financial service provider's accounts that is in the possession of the auditor or affiliate.
+
+(2) The auditor or affiliate shall comply with such a request within such period as is specified in the request, or within such extended period as the Bank may allow.
+
+(3) If the Bank so directs, the auditor or affiliate shall not, without the consent of the Bank, disclose to the financial service provider concerned, or any person concerned in the management of, or employed by, that service provider—
+
+(*a*) the fact that the auditor or affiliate has received a request under *subsection (1)*, or
+
+(*b*) any information that might lead that service provider, or any such person, to suspect that the auditor or affiliate has received such a request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 27G. Offences by auditors and affiliates under this Chapter.
+
+F45[**27G.**—(1) An auditor of a regulated financial service provider who, without reasonable excuse, fails to comply with *section 27B(2)*, F46[*27BA(4)* or *(5)*,] *27C(1)*, *27D*, *27E(2)* or *27F(2)*, or contravenes *section 27E(3)* or *27F(3)*, commits an offence and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €75,000.
+
+(2) An affiliate of an auditor of a regulated financial service provider who, without reasonable excuse, fails to comply with *section 27E(2)* or *27F(2)*, or contravenes *section 27E(3)* or *27F(3)*, commits an offence and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €75,000.
+
+(3) An auditor who, having been convicted of an offence of failing to comply with a provision of *section 27B*, F47[*27BA*,] *27C*, *27D*, *27E* or *27F*, continues to fail to comply with the provision commits a further offence on each day or part of a day during which the failure continues after that conviction and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €200 for each such day or part of a day, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €7,500 for each such day or part of a day.
+
+(4) An affiliate of an auditor who, having been convicted of an offence of failing to comply with a provision of *section 27E* or *27F*, continues to fail to comply with the provision commits a further offence on each day or part of a day during which the failure continues after that conviction and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €200 for each such day or part of a day, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €7,500 for each such day or part of a day.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> F46, F47: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 36(a), (b), S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E17: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E18: A fine of €200 translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 27H. Auditors to have certain immunities from liability.
+
+F48[**27H.**—An auditor or an affiliate of a regulated financial service provider does not—
+
+(*a*) contravene any duty of confidentiality owed to the service provider or to its creditors or clients or, if the service provider is an incorporated or unincorporated body, to its members, or
+
+(*b*) incur any tortious liability, only because the auditor or affiliate complies with a duty imposed on the auditor or affiliate by this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+F49[CHAPTER 4
+
+*Supplementary provisions*
+
+### 27I. Offence to provide false or misleading information for the purposes of this Part.
+
+**27I.**—Any person who, in a return, statement or other document required by or under a provision of this Part or a regulation made for the purposes of this Part, provides information that the person knows, or ought reasonably to know, is false or misleading in a material respect commits an offence and is—
+
+(*a*) if tried summarily, liable on conviction to a fine not exceeding €2,000 and to imprisonment for a term not exceeding 3 months, or both, or
+
+(*b*) if tried on indictment, liable on conviction to a fine not exceeding €75,000 or to imprisonment for a term not exceeding 12 months, or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> **Editorial Notes:**
+>
+> E19: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 27J. Who may prosecute offences against this Part that are to be tried summarily.
+
+F50[**27J.**—Proceedings for an offence against a provision of this Part that is to be tried summarily may be brought and prosecuted only by the Bank or the Director of Public Prosecutions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 27K. Limitation period for bringing proceedings for summary trial of offence against this Part.
+
+F51[**27K.**—F52[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+>
+> F52: Repealed (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 4(1) and sch. 1 part 1 item 9, S.I. No. 287 of 2013.
+
+## F53[PART V — Supervision of Regulated Businesses — CHAPTER 1 — Introductory provisions]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 28. Definitions (Part V).
+
+F54[**28.**—F55[(1)]In this Part—
+
+F57[“Act of 1995” means the Consumer Credit Act 1995;]
+
+“Appeals Tribunal” means the Irish Financial Services Appeals Tribunal established under Part VIIA of the Central Bank Act 1942 ;
+
+F66[“authorisation” means an authorisation of a person to carry on a regulated business and, if an authorisation is amended in accordance with *section 34*, means the authorisation as amended;]
+
+“bureau de change business” means a business that comprises or includes providing members of the public with a service that involves buying or selling foreign currency, other than a service that is provided—
+
+F69[(*a*) by a person or body that is required to be licensed, registered or otherwise authorised by the Bank under a designated enactment (other than under this Part) or designated statutory instrument, or]
+
+(*b*) F71[...]
+
+(*c*) by a person or body on an ancillary basis in the ordinary course of providing services to customers of the person or body;
+
+F73[“consumer” means—
+
+(*a*) an individual acting otherwise than in the course of business, or
+
+(*b*) a micro enterprise within the meaning given by Commission Recommendation 2003/361/EC of 6 May 2003[^1] concerning the definition of micro, small and medium sized enterprises;]
+
+F58[“consumer-hire agreement” means an agreement of more than three months duration for the bailment of goods to a hirer under which the property in the goods remains with the owner;]
+
+F88[“credit” means—
+
+(*a*) a deferred payment,
+
+(*b*) a cash loan (whether or not provided on the security of a mortgage or charge over an estate or interest in land), or
+
+(*c*) other similar financial accommodation,
+
+but does not include—
+
+(i) credit of a class specified in section 3(2) of the Act of 1995,
+
+(ii) credit granted or made available under an agreement of a class specified in section 3(2) of the Act of 1995,
+
+(iii) credit arising under a transaction of a class specified in section 3(2) of the Act of 1995,
+
+(iv) a payment of a class specified in section 3(2) of the Act of 1995, or
+
+(v) bailment of goods to a hirer under an agreement of less than 3 months’ duration under which the property in the goods remains with the owner;]
+
+F89[“credit agreement” means an agreement whereby a creditor grants, or promises to grant, credit to a relevant borrower;]
+
+F79[“credit servicing” means—
+
+(*a*) in relation to a credit agreement, subject to *subsection (2)(a)* —
+
+(i) holding the legal title to the rights of the creditor under the agreement,
+
+(ii) managing or administering the agreement, including—
+
+(I) notifying the relevant borrower of changes in interest rates or in payments due under the agreement or other matters of which the agreement requires the relevant borrower to be notified,
+
+(II) taking any necessary steps for the purposes of collecting or recovering payments due under the agreement from the relevant borrower, or
+
+(III) managing or administering any of the following:
+
+(A) repayments under the agreement;
+
+(B) any charges imposed on the relevant borrower under the agreement;
+
+(C) any errors made in relation to the agreement;
+
+(D) any complaints made by the relevant borrower;
+
+(E) information or records relating to the relevant borrower in respect of the agreement;
+
+(F) the process by which a relevant borrower’s financial difficulties are addressed;
+
+(G) any alternative arrangements for repayment or other restructuring;
+
+(H) assessment of the relevant borrower’s financial circumstances and ability to repay under the agreement;
+
+(I) determination of the overall strategy for the management and administration of a portfolio of such agreements;
+
+(J) maintenance of control over key decisions relating to such a portfolio,
+
+or
+
+(iii) communicating with the relevant borrower in respect of any of the matters referred to in *subparagraph (ii)*,
+
+and
+
+(*b*) in relation to a hire-purchase agreement or a consumer-hire agreement, subject to *subsection (2)(b)* —
+
+(i) holding the legal title to the rights of the owner under the agreement,
+
+(ii) managing or administering the agreement, including—
+
+(I) notifying the hirer of changes in payments due under the agreement or other matters of which the agreement requires the hirer to be notified,
+
+(II) taking any necessary steps for the purposes of collecting or recovering payments due under the agreement from the hirer, or
+
+(III) managing or administering any of the following:
+
+(A) repayments under the agreement;
+
+(B) any charges imposed on the hirer under the agreement;
+
+(C) any errors made in relation to the agreement;
+
+(D) any complaints made by the hirer; (E) information or records relating to the hirer in respect of the agreement;
+
+(F) the process by which a hirer’s financial difficulties are addressed;
+
+(G) any alternative arrangements for repayment or other restructuring;
+
+(H) assessment of the hirer’s financial circumstances and ability to repay under the agreement;
+
+(I) determination of the overall strategy for the management and administration of a portfolio of hire-purchase agreements, consumer-hire agreements or a mixture of hire-purchase and consumer-hire agreements;
+
+(J) maintenance of control over key decisions relating to such a portfolio,
+
+or
+
+(iii) communicating with the hirer in respect of any of the matters referred to in *subparagraph (ii)*;]
+
+F96[“credit servicing firm” means, F80[subject to *subsections (2A)* and *(2B)*]—
+
+F83[(*a*) a person (other than the National Treasury Management Agency or a subsidiary of the National Treasury Management Agency (construed in accordance with the definition of “subsidiary of the Agency” in section 49B of the National Treasury Management Agency (Amendment) Act 2014) when it is performing functions under Part 6A of the National Treasury Management Agency (Amendment) Act 2014) who undertakes credit servicing other than on behalf of a regulated credit entity,]
+
+(*b*) a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of F81[*subsection (3)* or *(3A)*],
+
+(*c*) a credit servicing firm taken to be authorised to carry on the business of a credit servicing firm by virtue of *subsection (4)*, or
+
+F82[(*d*) a credit servicing firm referred to in *paragraph (b)* of *section 34FA(1)* that undertakes, on behalf of a person referred to in the said *section 34FA*, credit servicing within the meaning of *clauses (I)*, *(II)* and *(III)(A)* to *(H)* of *subparagraph (ii)* and *subparagraph (iii)* of *paragraph (a)* of the definition of “credit servicing”;]]
+
+F92[“creditor” means a person who grants credit under a credit agreement in the course of the person’s trade, business or profession, and includes a group of such persons;]
+
+F74[“debt management firm” means a person who for remuneration provides debt management services to one or more consumers, other than an excepted person;]
+
+F75[“debt management services” means—
+
+(*a*) giving advice about the discharge of debts (in whole or in part), including advice about budgeting in connection with the discharge of debts,
+
+(*b*) negotiating with a person’s creditors for the discharge of the person’s debts (in whole or in part), or
+
+(*c*) any similar activity associated with the discharge of debts;]
+
+F76[“excepted person” means—
+
+(*a*) any charitable organisation within the meaning of section 2(1) of the Charities Act 2009,
+
+(*b*) the Money Advice and Budgeting Service,
+
+(*c*) any licensed bank, building society, credit union or friendly society,
+
+(*d*) a barrister, solicitor or accountant who provides debt management services only in an incidental manner and is subject to regulation by a professional body,
+
+(*e*) a person who is a party to the Protocol for Independent Advice to Borrowers Availing of Long Term Mortgage Forbearance made on 2 August 2012 (as amended from time to time) and provides advice in accordance with that Protocol,
+
+(*f*) the Insolvency Service of Ireland, any approved intermediary authorised under section 47 of the Personal Insolvency Act 2012 acting as such or any personal insolvency practitioner authorised under Chapter 1 of Part 5 of that Act carrying on practice as such,
+
+(*g*) personal representatives (within the meaning of section 3 of the Succession Act 1965),
+
+(*h*) trustees of a trust, other than a trust which is established to provide debt management services,
+
+(*i*) the Bank,
+
+(*j*) An Post,
+
+(*k*) the National Asset Management Agency,
+
+(*l*) the National Treasury Management Agency,
+
+(*m*) the National Consumer Agency, and
+
+(*n*) any other person constituted, or holding office, under an enactment or funded (in whole or in part) by a Minister of the Government;]
+
+F97[“exposure” and “servicing” have the same meanings, respectively, as in the Securitisation Regulation;]
+
+F59[“financial accommodation” has the same meaning as it has in the Act of 1995;]
+
+F60[“hirer” means a relevant person who takes, intends to take or has taken goods from an owner under a hire-purchase agreement or a consumer-hire agreement in return for periodical payments;]
+
+F61[“hire-purchase agreement” means an agreement for the bailment of goods under which the hirer may buy the goods or under which the property in the goods will, if the terms of the agreement are complied with, pass to the hirer in return for periodical payments; and where by virtue of two or more agreements, none of which by itself constitutes a hire-purchase agreement, there is a bailment of goods and either the hirer may buy the goods, or the property therein will, if the terms of the agreements are complied with, pass to the hirer, the agreements shall be treated for the purpose of this Act as a single agreement made at the time when the last agreement was made;]
+
+F84[“home reversion agreement” means an agreement between a vendor and a home reversion firm that provides—
+
+(*a*) for the conveyance by the vendor to the home reversion firm of an estate or interest in land (which includes the principal residence of the vendor or of the vendor’s dependants) for a discounted sum or an income (or both), and
+
+(*b*) for the vendor to retain the right to live in the residence until the occurrence of one or more events specified in the agreement;]
+
+F85[“home reversion firm” means a person carrying on a business of entering into home reversion agreements;]
+
+F100[...]
+
+F62[“local authority” has the same meaning as it has in the Act of 1995;]
+
+“money” includes any representation of money (such as a cheque) and any means by which monetary value is stored;
+
+“money transmission business” means a business that comprises or includes providing a money transmission service to members of the public;
+
+F67[“money transmission service” means a service that involves transmitting money by any means, other than a service—
+
+(*a*) that is a payment service to which the European Communities (Payment Services) Regulations 2009 (S.I. No. 383 of 2009) apply,
+
+(*b*) that is provided to customers on a basis that is ancillary to any other services apart from debt management services,
+
+(*c*) that is provided by—
+
+(i) any charitable organisation within the meaning of section 2(1) of the Charities Act 2009,
+
+(ii) the Money Advice and Budgeting Service,
+
+(iii) any licensed bank, building society, credit union or friendly society,
+
+F93[(iiia) a person authorised to carry on the business of a credit servicing firm,]
+
+(iv) a barrister, solicitor or accountant who provides money transmission services only in an incidental manner and is subject to regulation by a professional body,
+
+(v) the Insolvency Service of Ireland, any approved intermediary authorised under section 47 of the Personal Insolvency Act 2012 acting as such or any personal insolvency practitioner authorised under Chapter 1 of Part 5 of that Act carrying on practice as such,
+
+(vi) personal representatives (within the meaning of section 3 of the Succession Act 1965),
+
+(vii) trustees of a trust, other than a trust which is established to provide money transmission services,
+
+(viii) the Bank,
+
+(ix) An Post,
+
+(x) the National Asset Management Agency,
+
+(xi) the National Treasury Management Agency,
+
+(xii) the National Consumer Agency, and
+
+(xiii) any other person constituted, or holding office, under an enactment or funded (in whole or in part) by a Minister of the Government.]
+
+“officer”, in relation to a person that is a body corporate, means any person concerned in the direction or management of the body;
+
+F109[“originator”, “sponsor”, “original lender”, “securitisation”, “NPE securitisation”, “servicer” and “traditional securitisation” have the meanings given to them respectively by Article 2 of the Securitisation Regulation;]
+
+F63[“owner” means the person who lets or has let goods to a hirer under a hire-purchase agreement or a consumer-hire agreement;]
+
+F101[F104[...]]
+
+F94[“prescribed contravention” has the same meaning as in the Act of 1942;]
+
+F77[“qualifying shareholder”, in relation to another person, means a person with a direct or indirect holding in the other person—
+
+(*a*) that represents 10 per cent or more of the capital of, or the voting rights in, the other person, or
+
+(*b*) that makes it possible to exercise a significant influence over the management of the other person;]
+
+F106[“regulated business” means a bureau de change business, a money transmission business, the business of a home reversion firm, the business of a retail credit firm, the business of a debt management firm or the business of a credit servicing firm;]
+
+F64[“regulated credit entity” means—
+
+(*a*) a person who is authorised, or, by virtue of *subsection (4)* or *(5)*, taken to be authorised, to carry on the business of a credit servicing firm, or
+
+(*b*) a regulated financial services provider authorised, by the Bank or an authority that performs functions in an EEA country that are comparable to the functions performed by the Bank, to carry on a relevant activity in the State;]
+
+F86[“regulated financial service provider” has the same meaning as in section 2 of the Central Bank Act 1942;]
+
+F65[“relevant activity” means—
+
+(*a*) directly or indirectly providing credit to, or
+
+(*b*) entering into a consumer-hire agreement or hire-purchase agreement with,
+
+a relevant person;]
+
+F95[“relevant borrower” means—
+
+(*a*) a relevant person, or
+
+(*b*) a micro, small or medium-sized enterprise within the meaning of Article 2 of the Annex to the Commission Recommendation 2003/361/EC of 6 May 2003 1 but only to the extent that the credit granted to it under the credit agreement concerned was provided by a financial service provider authorised, by the Bank or an authority that performs functions in an EEA country that are comparable to the functions performed by the Bank, to provide credit in the State;]
+
+F87[“relevant person” means a natural person within the State, other than—
+
+(*a*) a natural person who is, or satisfies the criteria to elect to be treated as, a professional client for the purposes of the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007), or
+
+(*b*) a person who is a regulated financial service provider;]
+
+F78[“remuneration”, in relation to debt management services, means any commission or other payment, whether paid directly or indirectly, in respect of the debt management services and includes a payment made in respect of the provision of services other than debt management services as a result of which debt management services are provided otherwise than for payment;]
+
+F107[“retail credit firm” means a person whose business consists wholly or partly of any relevant activity but does not include—
+
+(*a*) a person who is a regulated financial service provider authorised, otherwise than under this Part, by—
+
+(i) the Bank, or
+
+(ii) an authority that performs functions in an EEA country that are comparable to the functions performed by the Bank,
+
+to carry out any relevant activity in the State,
+
+(*b*) a person who is a credit intermediary authorised under the Act of 1995,
+
+(*c*) in relation to—
+
+(i) credit that was originally provided by another person, a person to whom all or any part of that other person’s interest in the credit is directly or indirectly assigned or otherwise disposed of, or
+
+(ii) a consumer-hire agreement or a hire-purchase agreement that was entered into by another person, a person to whom that other person’s interest in the agreement concerned is directly or indirectly assigned or otherwise disposed of,
+
+(*d*) a person who carries out relevant activities on a once only or occasional basis and, in so doing, does not represent or create an impression (whether in advertising, marketing or otherwise) that the person would enter into agreements with other persons on the same or substantially similar terms as the agreements under which those relevant activities are carried out,
+
+(*e*) a person who is exempted, or a person who belongs to a class of persons that is exempted, for the purposes of this paragraph, under *section 29A*,
+
+(*f*) a person whose business consists partly of a relevant activity, but only by virtue of the person providing credit in the form of trade credit, or
+
+(*g*) a local authority.]
+
+F108[“retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent” shall be construed in accordance with Article 6 of the Securitisation Regulation;]
+
+F98[“Securitisation Regulation” means Regulation (EU) 2017/2402[^2] of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation and amending Directives 2009/65/EC[^3], 2009/138/EC[^4] and 2011/61/EU[^5] and Regulations (EC) No. 1060/2009[^6] and (EU) No. 648/2012[^7] as amended by Regulation (EU) 2021/557 of the European Parliament and of the Council of 31 March 2021[^8],]
+
+F103[“securitisation special purpose entity” means a corporation, trust or other entity (other than an originator or sponsor)—
+
+(*a*) established for the purpose of carrying out one or more securitisations,
+
+(*b*) the activities of which are limited to those appropriate to accomplishing that objective, and
+
+(*c*) the structure of which is intended to isolate the obligations of the securitisation special purpose entity from those of the originator;]
+
+“this Part” includes all regulations in force under this Part;
+
+F99[“traditional NPE securitisation” shall be construed in accordance with the Securitisation Regulation;]
+
+“transmitting” includes transmitting—
+
+(*a*) by means of a message or other form of communication, or
+
+(*b*) by means of a transfer instrument, or
+
+(*c*) by means of a clearing network.]
+
+F110[(1A) For the purposes of *paragraph (f)* of the definition of “retail credit firm” in *subsection (1)*, credit (in this subsection referred to as “the relevant credit”) is provided in the form of trade credit if all of the following conditions are satisfied:
+
+(*a*) in the case of both the person (in this subsection referred to as “the first-mentioned person”) by whom, and the person to whom, the relevant credit is provided, each is acting in the course of his or her business, trade or profession;
+
+(*b*) the first-mentioned person is not a regulated financial service provider;
+
+(*c*) the terms of the relevant credit provide for repayment, whether in instalments or as a single amount, of the whole of the credit by a date that is not later than 6 months after the date of its provision;
+
+(*d*) the purpose of the relevant credit is to facilitate the purchase of goods or services from the first-mentioned person.]
+
+F111[(2) For the purposes of this Part—
+
+(*a*) a person who holds the legal title to the rights of the creditor under a credit agreement (in this paragraph referred to as “the holder”) is taken to be credit servicing even if any action referred to in *subparagraph (ii)* or *(iii)*, as the case may be, of *paragraph (a)* of the definition of “credit servicing” in *subsection (1)* is being undertaken by a person, acting on behalf of the holder, authorised to carry on the business of a credit servicing firm, and
+
+(*b*) a person who holds the legal title to the rights of the owner under a consumer-hire agreement or a hire-purchase agreement (in this paragraph referred to as “the holder”) is taken to be credit servicing even if any action referred to in *subparagraph (ii)* or *(iii)*, as the case may be, of *paragraph (b)* of the definition of “credit servicing” in *subsection (1)* is being undertaken by a person, acting on behalf of the holder, authorised to carry on the business of a credit servicing firm.]
+
+F112[(2A) For the purposes of this Part, “credit servicing firm”, in relation to credit granted by, or the holding of legal title of the rights of a creditor under a credit agreement by, a regulated credit entity, does not include a securitisation special purpose entity to which any part of the interest of the regulated credit entity in the credit or rights concerned is directly or indirectly assigned or otherwise disposed of, as part of a securitisation, where—
+
+(*a*) the securitisation special purpose entity was established by or on behalf of the regulated credit entity as part of the securitisation arranged by or on behalf of that regulated credit entity,
+
+(*b*) the regulated credit entity retains the legal title in respect of the interest so assigned or otherwise disposed of, and
+
+(*c*) either—
+
+(i) the originator, sponsor or original lender of the securitisation, or
+
+(ii) in the case of a traditional NPE securitisation, the servicer, where it can demonstrate that it has expertise in servicing exposures of a similar nature to those securitised and that it has well-documented and adequate policies, procedures and risk-management controls in place relating to the servicing of exposures as required by Article 6 of the Securitisation Regulation,
+
+is required to retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent.]
+
+F113[(2B) For the purposes of this Part, “credit servicing firm”, in relation to the rights of an owner under a consumer-hire agreement or hire-purchase agreement held by, or the holding of legal title to such rights by, a regulated credit entity, does not include a securitisation special purpose entity to which any part of the interest of the regulated credit entity in the rights concerned is directly or indirectly assigned or otherwise disposed of, as part of a securitisation, where—
+
+(*a*) the securitisation special purpose entity was established by or on behalf of the regulated credit entity as part of the securitisation arranged by or on behalf of that regulated credit entity,
+
+(*b*) the regulated credit entity retains the legal title in respect of the interest so assigned or otherwise disposed of, and
+
+(*c*) either—
+
+(i) the originator, sponsor or original lender of the securitisation, or
+
+(ii) in the case of a traditional NPE securitisation, the servicer, where it can demonstrate that it has expertise in servicing exposures of a similar nature to those securitised and that it has well-documented and adequate policies, procedures and risk-management controls in place relating to the servicing of exposures as required by Article 6 of the Securitisation Regulation,
+
+is required to retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent.]
+
+F56[(3) For the purposes of this Part, a regulated financial service provider authorised, whether before or after the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2015, by the Bank or an authority that performs functions in an EEA country that are comparable to the functions performed by the Bank, to provide credit in the State, is taken to be authorised to carry on F114[the business of a credit servicing firm in so far as that business comprises the activities referred to in *paragraph (a)* of the definition of “credit servicing” in *subsection (1)*].]
+
+F115[(3A) For the purposes of this Part, a person authorised by the Bank to carry on the business of a retail credit firm in respect of the activity referred to in *paragraph (b)* of the definition of “relevant activity” in *subsection (1)* is taken to be authorised to carry on the business of a credit servicing firm in so far as that business comprises the activities referred to in *paragraph (b)* of the definition of “credit servicing” in that subsection.]
+
+F116[(4) For the purposes of this Part, a person (other than a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of *subsection (3)*) authorised to carry on the business of a credit servicing firm before the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2018 is taken to be authorised to carry on the business of a credit servicing firm after such coming into operation.]
+
+F117[(5) For the purposes of this Part, a person (other than a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of *subsection (3)*) authorised to carry on the business of a credit servicing firm before the coming into operation of section 2 (a)(iii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 is taken to be authorised to carry on the business of a credit servicing firm, in so far as that business comprises the activities referred to in *paragraph (a)* of the definition of “credit servicing” in *subsection (1)*, after such coming into operation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F55, F56: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(e), (f), commenced on enactment.
+>
+> F57, F58, F59, F60, F61, F62, F63, F64, F65: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(i), S.I. No. 229 of 2022.
+>
+> F66, F67, F68: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 59(a), (c), S.I. No. 287 of 2013.
+>
+> F69, F70: Substituted (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 116, S.I. No. 342 of 2010.
+>
+> F71, F72: Deleted (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 116, S.I. No. 342 of 2010.
+>
+> F73, F74, F75, F76, F77, F78: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 59(b), S.I. No. 287 of 2013.
+>
+> F79: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(iii), S.I. No. 229 of 2022.
+>
+> F80, F81, F82: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(iv)(I), (III), (IV), S.I. No. 229 of 2022.
+>
+> F83: Substituted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 4, S.I. No. 355 of 2026.
+>
+> F84, F85, F86, F87: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(a), S.I. No. 782 of 2007.
+>
+> F88: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(ii), S.I. No. 229 of 2022.
+>
+> F89, F90, F91, F92, F93, F94, F95: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(a), (d), commenced on enactment.
+>
+> F96: Substituted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(a)(ii), S.I. No. 3 of 2019.
+>
+> F97, F98, F99: Inserted (18.10.2021) by *European Union (General Framework for Securitisation and Specific Framework for Simple, Transparent and Standardised Securitisation) (Amendment) Regulations 2021* (S.I. No. 561 of 2021), reg. 6(a)(iii).
+>
+> F100: Deleted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 3 part 2 item 1(b), S.I. No. 557 of 2012, art. 2(f).
+>
+> F101, F102, F103: Inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(a)(iii), S.I. No. 3 of 2019.
+>
+> F104: Deleted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(v), S.I. No. 229 of 2022.
+>
+> F105: Substituted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(b), S.I. No. 782 of 2007.
+>
+> F106: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(vi), S.I. No. 229 of 2022.
+>
+> F107: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(vii), S.I. No. 229 of 2022.
+>
+> F108, F109: Substituted (18.10.2021) by *European Union (General Framework for Securitisation and Specific Framework for Simple, Transparent and Standardised Securitisation) (Amendment) Regulations 2021* (S.I. No. 561 of 2021), reg. 6(a)(i), (ii).
+>
+> F110: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(b), S.I. No. 229 of 2022.
+>
+> F111: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(c), S.I. No. 229 of 2022.
+>
+> F112: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(d), S.I. No. 229 of 2022.
+>
+> F113: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(e), S.I. No. 229 of 2022.
+>
+> F114: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(f), S.I. No. 229 of 2022.
+>
+> F115: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(g), S.I. No. 229 of 2022.
+>
+> F116: Inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(d), S.I. No. 3 of 2019.
+>
+> F117: Inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(h), S.I. No. 3 of 2019.
+>
+> F118: Inserted by *Charities Act 2009* (6/2009), s. 98, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: definition of “retail credit firm” amended by *Charities Act 2009* (6/2009), s. 98, not commenced as of date of revision.
+>
+> F118[(*dd*) a charitable organisation within the meaning of the Charities Act 2009, or]
+>
+> C3: Functions of National Consumer Agency transferred to Competition and Consumer Protection Commission (31.10.2014, establishment day) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39, S.I. No. 367 of 2013.
+>
+> **Transfer of functions to Commission**
+>
+> **39.** (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> (*b*) the Competition Authority,
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: definition of “credit servicing firm”, para. (a) amended (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 2(a)(iv)(II), S.I. No. 229 of 2022; substituted (1.08.2026) as per F-note above.
+>
+> E21: Previous affecting provision: subs. (2A)(c) substituted (18.10.2021) by *European Union (General Framework for Securitisation and Specific Framework for Simple, Transparent and Standardised Securitisation) (Amendment) Regulations 2021* (S.I. No. 561 of 2021), reg. 6(b); subsection substituted (16.05.2022) as per F-note above.
+>
+> E22: Previous affecting provision: definition of “credit servicing” substituted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(a)(i), S.I. No. 3 of 2019; substituted (16.05.2022) as per F-note above.
+>
+> E23: Previous affecting provision: subs. (2) substituted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(b), S.I. No. 3 of 2019; substituted (16.05.2022) as per F-note above.
+>
+> E24: Previous affecting provision: subs. (2A) inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(c), S.I. No. 3 of 2019; substituted (16.05.2022) as per F-note above.
+>
+> E25: Previous affecting provision: definition “retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent” inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 1(a)(iii), S.I. No. 3 of 2019; substituted (18.10.2021) as per F-note above.
+>
+> E26: Previous affecting provision: definition of “regulated business” amended (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(b), commenced on enactment; definition substituted (16.05.2022) as per F-note above.
+>
+> E27: Previous affecting provision: definition of “retail credit firm”, para. (a) substituted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(c), commenced on enactment; definition substituted (16.05.2022) as per F-note above.
+>
+> E28: Previous affecting provision: definitions of “credit servicing”, “credit servicing firm” inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(d), commenced on enactment; substituted as per F-note above.
+>
+> E29: Previous affecting provision: subs. (2) inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 1(f), commenced on enactment; substituted as per F-note above.
+>
+> E30: Previous affecting provision: definition of “regulated business” amended (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 59(d), S.I. No. 287 of 2013; definition substituted (16.05.2022) as per F-note above.
+>
+> E31: Previous affecting provision: definition of “retail credit firm” amended (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 3 part 2 item 1(c)(i), (ii), S.I. No. 557 of 2012, art. 2(f); definition substituted (16.05.2022) as per F-note above.
+>
+> E32: Previous affecting provision: definition of “money transmission service”, para. (a) substituted and (b) deleted (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 116, S.I. No. 342 of 2010; definition substituted as per F-note above.
+>
+> E33: Previous affecting provision: definition of “authorisation” substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 3 part 2 item 1(a), S.I. No. 557 of 2012, art. 2(f); substituted as per F-note above.
+>
+> E34: Previous affecting provision: definition of “credit” inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(a), S.I. No. 782 of 2007; substituted (16.05.2022) as per F-note above.
+>
+> E35: Definition of “regulated business” substituted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(b), S.I. No. 782 of 2007; substituted (16.05.2022) as per F-note above.
+>
+> E36: Previous affecting provision: definition of “retail credit firm” inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(c), S.I. No. 782 of 2007; definition substituted (16.05.2022) as per F-note above.
+
+F119[CHAPTER 2
+
+*Carrying on regulated business without authorisation prohibited*]
+
+### 29. F121[Person prohibited from carrying on regulated business without authorisation.
+
+**29.**—(1) A person shall not carry on a regulated business unless the person is the holder of an authorisation.
+
+(2) A person who contravenes *subsection (1)* commits an offence and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €100,000.
+
+(3) A person who, after being convicted of an offence under *subsection (2)*, continues to contravene *subsection (1)* commits a further offence on each day or part of a day during which the contravention continues and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €200 for each such day or part of a day, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €7,500 for each such day or part of a day.
+
+(4) This section does not have effect in relation to a person who carries on a money transmission business until 6 months after the commencement of section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004.]
+
+F122[(5) For the purposes of this Act—
+
+F123[(*a*) the National Treasury Management Agency or a subsidiary of the National Treasury Management Agency (construed in accordance with the definition of “subsidiary of the Agency” in section 49B of the National Treasury Management Agency (Amendment) Act 2014) when it is performing functions under Part 6A of the National Treasury Management Agency (Amendment) Act 2014 shall not be treated as carrying on a regulated business as a credit servicing firm,]
+
+(*b*) an excepted person shall not be treated as carrying on a regulated business as a debt management firm,
+
+(*c*) a person referred to in *paragraphs (a)* to *(g)* of the definition of “retail credit firm” in *section 28(1)* shall not be treated as carrying on a regulated business as a F124[retail credit firm,]
+
+(*d*) a securitisation special purpose entity referred to in *section 28(2A)* or *(2B)* shall not be treated as carrying on a regulated business as a F125[retail credit firm, and]]
+
+F126[(*e*) a credit servicer, credit service provider, credit purchaser or designated representative of a credit purchaser, each within the meaning of the European Union (Credit Servicers and Credit Purchasers) Regulations 2023 (S.I. No. 644 of 2023), shall not be treated as carrying on a regulated business as a credit servicing firm.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F119: Substituted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(d), S.I. No. 782 of 2007.
+>
+> F120, F121: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F122: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 3, S.I. No. 229 of 2022.
+>
+> F123: Substituted (1.08.2026) by *National Treasury Management Agency (Miscellaneous Provisions) Act 2026* (22/2026), s. 4(3) and sch. 2 ref. no. 4, S.I. No. 355 of 2026.
+>
+> F124, F125: Substituted (30.12.2023) by *European Union (Credit Servicers and Credit Purchasers) Regulations* (S.I. No. 644 of 2023), reg. 28(a), (b), in operation as per reg. 2.
+>
+> F126: Inserted (30.12.2023) by *European Union (Credit Servicers and Credit Purchasers) Regulations* (S.I. No. 644 of 2023), reg. 28(c), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E37: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E38: A fine of €200 translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E39: Previous affecting provision: chapter heading inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5; substituted as per F-note above.
+
+### 29A. Power of Bank to exempt certain persons from being required to hold authorisation as a retail credit firm.
+
+F127[**29A.**— (1) The Bank may exempt a person F128[for the purposes of *paragraph (e)* of the definition of “retail credit firm” in *section 28(1)* if,] in the opinion of the Bank—
+
+F129[(*a*) the total amount or value of the relevant activities that are to be carried out by the person is such that it is reasonable to assume that the borrower or hirer, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or]
+
+(*b*) the person is one who, under section 8 (2) of the Central Bank Act 1971, is exempted, or is a member of a class of persons that is exempted, from being required to hold a banking licence, or
+
+(*c*) the person is one who F130[carries out relevant activities] solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially,
+
+and the exemption would not be inconsistent with the proper and F131[orderly regulation of relevant activities] and the protection of customers of retail credit firms.
+
+(2) The Bank may also exempt the persons belonging to a specified class of persons F132[for the purposes of *paragraph (e)* of the definition of “retail credit firm” in *section 28(1)* if,] in the opinion of the Bank—
+
+F133[(*a*) the total amount or value of the relevant activities that are to be carried out by those persons is such that it is reasonable to assume that the borrowers or hirers, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or]
+
+(*b*) the persons are ones who, under section 8 (2) of the Central Bank Act 1971, are exempted, or belong to a class of persons that is exempted, from being required to hold a banking licence, or
+
+(*c*) the persons are ones who F134[carry out relevant activities] solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially,
+
+and the exemption would not be inconsistent with the proper and F135[orderly regulation of relevant activities] and the protection of customers of retail credit firms.
+
+(3) The power to exempt a person, or the persons belonging to a specified class, F136[for the purposes of *paragraph (e)* of the definition of “retail credit firm” in *section 28(1)*] may be exercised by the Bank either on its own initiative or on an application made by or on behalf of the person, or the persons or any of the persons belonging to that class.
+
+(4) An exemption granted under this section is subject to such conditions as the Bank thinks fit to impose.
+
+(5) The Bank may at any time by notice in writing—
+
+(*a*) impose additional conditions on a person to whom, or on the persons belonging to a class in respect of which, an exemption has been granted under this section, or
+
+(*b*) vary or revoke a condition imposed under *subsection (4)* or this subsection.
+
+(6) The Bank shall revoke an exemption granted under this section if it is satisfied—
+
+(*a*) that the circumstances relevant to the exemption have changed and are now such that the exemption would no longer be granted, or
+
+(*b*) that a condition of the exemption is not being, or has not been, substantially complied with.
+
+(7) The Bank shall publish in Iris Oifigiúil a notice of every exemption granted, and every revocation made, under this section.
+
+(8) Failure to comply with *subsection (7)* does not affect the validity of an exemption granted, or a revocation made, under this section.
+
+(9) F137[An exemption granted under this section shall apply to a person who, or a person belonging to a class of persons that, is exempted under this section, so long as the person]—
+
+(*a*) does not carry on any kind of regulated business other than that to which the exemption relates, and
+
+(*b*) complies with all conditions subject to which the exemption is granted.]
+
+F138[(10) For the purposes of *subsection (1)(a)* and *subsection (2)(a)*, “the total amount or value of the relevant activities that are to be carried out” means—
+
+(*a*) in relation to the provision of credit, the total amount or value of credit that is to be provided, together with any interest payable in respect of the credit,
+
+(*b*) in relation to a consumer-hire agreement, the sum of the instalments and any other amounts payable under the agreement, and
+
+(*c*) in relation to a hire-purchase agreement, the hire-purchase price (within the meaning of section 65 of the Act of 1995).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F127: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(e), S.I. No. 782 of 2007.
+>
+> F128, F129, F130, F131: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 4(a)(i)-(iv), S.I. No. 229 of 2022.
+>
+> F132, F133, F134, F135: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 4(b)(i)-(iv), S.I. No. 229 of 2022.
+>
+> F136: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 4(c), S.I. No. 229 of 2022.
+>
+> F137: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 4(d), S.I. No. 229 of 2022.
+>
+> F138: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 4(e), S.I. No. 229 of 2022.
+
+F139[CHAPTER 3
+
+*Authorisations to carry on regulated businesses*]
+
+### 30. F140[Applications for authorisations.
+
+**30.**—(1) A person who wishes to carry on a regulated business can apply to the Bank for an authorisation to carry on such a business.
+
+(2) An application must—
+
+(*a*) be in a form provided or specified by the Bank, and
+
+(*b*) contain such information, and be accompanied by such documents, as the Bank requests, and
+
+(*c*) be accompanied by the fee (if any) prescribed under section 33K of the Central Bank Act 1942 for the purposes of this subsection.
+
+(3) The Bank may, by written notice given to an applicant, require the applicant to provide such additional information and documents as are reasonably necessary to enable it to determine the application. If such a requirement is not complied with within a period specified in the notice, not less than 14 days, the Bank may refuse the application.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139, F140: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 31. F141[Grant and refusal of applications for authorisation.
+
+**31.**—(1) Except as provided by *subsection (2)*, the Bank shall grant an application for an authorisation that complies with *section 30*.
+
+(2) The Bank may refuse an application for an authorisation that complies with section 30 only if it is of the opinion that—
+
+(*a*) to grant the application would be inconsistent with the effective enforcement of any law of the State the purpose of which is to prevent or inhibit money laundering or terrorism, or
+
+(*b*) the applicant has failed to satisfy the Bank that the applicant is, or will be, able to properly fulfil the obligations imposed on holders of authorisations by or under this Part F142[or any other designated enactment and or any designated statutory instrument], or
+
+(*c*) information given to the Bank by or on behalf of the applicant in connection with the application is materially false or misleading.
+
+(3) If the Bank proposes to refuse an application, it shall serve on the applicant a notice in writing—
+
+(*a*) specifying the grounds on which it is proposed to refuse the application, and
+
+(*b*) informing the applicant that the applicant may, within 21 days after the giving of the notice, make written representations to the Bank showing why the application should be granted.
+
+(4) Not later than 21 days after being given a notice under *subsection (3)*, the applicant may make written representations to the Bank showing why the application should be granted.
+
+(5) The Bank may refuse an application only after having considered any representations made by the applicant in accordance with *subsection (4)*.
+
+(6) If the Bank refuses an application, it shall immediately give to the applicant written notice of the refusal. The notice must include a statement setting out the reasons for the refusal.
+
+(7) On granting an application for an authorisation, the Bank shall—
+
+F143[(*a*) record the appropriate particulars of the applicant in the register of persons authorised to carry on any regulated business, and]
+
+(*b*) issue the applicant with an authorisation authorising the applicant to carry on the regulated business to which the application relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F141: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F142: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 60, S.I. No. 287 of 2013.
+>
+> F143: Substituted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 2, commenced on enactment.
+
+### 31A. Provisions supplementary to section 31 applicable to retail credit and home reversion firms.
+
+F144[**31A.**— For the purposes of section *31(2)(b)*, in order to obtain and retain authorisation, a F145[person proposing to carry on, or carrying on, regulated business] shall satisfy the Bank—
+
+(*a*) that, where applicable, F146[its memorandum and articles of association] will enable it to operate in accordance with this Act, and any condition or requirement that the Bank may impose,
+
+(*b*) as to the probity and competence of F147[the person or (where it is a firm) of each of] the firm’s directors and managers,
+
+(*c*) as to the suitability of F148[the person or (where it is a firm) of each of] the firm’s qualifying shareholders or partners,
+
+(*d*) as to the organisational structure and management skills of the F149[person] and that adequate levels of staff and expertise will be employed to carry out its activities,
+
+(*e*) that the F150[person] has and will follow procedures that will enable the Bank to be supplied with all information necessary for the performance of the Bank’s supervisory functions and to enable the public to be supplied with information that the Bank specifies,
+
+(*f*) that the organisation of the F151[person’s] business structure is such that it, and any of its associated or related undertakings, (so far as appropriate and practicable) are capable of being supervised adequately by the Bank, and
+
+(*g*) as to the conduct of the F152[person’s] business, financial resources and any other matters that the Bank considers necessary in the interests of the proper and orderly regulation and supervision of F153[regulated business] or in the interests of the protection of customers or potential customers.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F144: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(f), S.I. No. 782 of 2007.
+>
+> F145, F146, F147, F148, F149, F150, F151, F152, F153: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 61(a)-(f), S.I. No. 287 of 2013.
+
+### 32. F154[Effect and term of authorisation.
+
+**32.**—(1) An authorisation authorises the holder to carry on a regulated business subject to and in accordance with the conditions of the authorisation.
+
+(2) An authorisation remains in force until revoked under this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F154: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 32A. Additional provisions applicable to retail credit and home reversion firms.
+
+F155[**32A.**— (1) An authorisation granted by the Bank under *section 31* to a F156[person] may specify classes of services, and additional services, that F157[the person] may provide.
+
+(2) An authorisation granted by the Bank under *section 31* of this Act to a retail credit firm may include an authorisation to act as a home reversion firm.
+
+(3) The Bank may amend—
+
+(*a*) the classes of F165[...] services that may be provided in accordance with *subsections (1)* or *(2)*, or
+
+(*b*) the designation or classification of F158[persons] or services.
+
+(4) For the purposes of *subsections (1)* to *(3)*, the Bank may use such designation or classification of F159[persons] or services as the Bank considers appropriate to describe the services provided.
+
+(5) At any time before granting or refusing an authorisation to a F160[person], the Bank may—
+
+(*a*) request such further information from the F161[person], or
+
+(*b*) instruct an authorised officer F166[appointed under F167[Part 3 of the Central Bank (Supervision and Enforcement) Act 2013]] to make such inquiries, or carry out such investigations,
+
+as it considers necessary for the purpose of properly evaluating an application. Any such inquiries or investigations shall be carried out in accordance with this Act.
+
+(6) In the case of a F162[person] authorised in another EEA Country, the Bank—
+
+(*a*) shall have regard to any requirements imposed on F163[the person] by an authority of that country that appears to the Bank to exercise a regulatory or supervisory role similar to that of the Bank in relation to F164[the person], and
+
+(*b*) may exchange with that authority information relevant to the carrying out of the Bank’s functions under this Act or the functions of that authority under the laws of that country.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F155: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(g), S.I. No. 782 of 2007.
+>
+> F156, F157, F158, F159, F160, F161, F162, F163, F164: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 62(a), (b)(ii), (c/)-(e), S.I. No. 287 of 2013.
+>
+> F165: Deleted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 62(b)(i), S.I. No. 287 of 2013.
+>
+> F166: Inserted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70 and sch. 3 part 2 item 2, S.I. No. 557 of 2012, art. 2(f).
+>
+> F167: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 3 item 1, S.I. No. 287 of 2013.
+
+### 33. F168[Bank may impose conditions when granting an application for an authorisation.
+
+**33.**—(1) In granting an application for an authorisation, the Bank may impose on the applicant such conditions as it considers necessary for the proper and orderly regulation of the applicant's business and, in particular, for preventing the business from being used to launder money or to finance terrorism.
+
+(2) If the Bank grants an application subject to conditions, it shall specify those conditions in the authorisation granted to the applicant or in one or more documents annexed to that authorisation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F168: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 33A. Imposition of conditions or requirements on authorised retail credit firms and home reversion firms.
+
+F169[**33A.**— (1) Without limiting *section 33*, the Bank may do all or any of the following in respect of F170[a person authorised to carry on a regulated business]:
+
+(*a*) make F171[the person’s] authorisation subject to such conditions or requirements, or both, as it considers appropriate, relating to—
+
+(i) the proper and orderly regulation and supervision of F172[persons authorised to carry on regulated business], and
+
+(ii) the protection of their customers or potential customers;
+
+(*b*) impose conditions or requirements, or both, relating to the affairs or activities in an associated undertaking or a related undertaking;
+
+(*c*) require the display on F173[any relevant document] of a notice in a form provided or prescribed by the Bank of any information relevant to F174[the document];
+
+(*d*) at any time, impose conditions or requirements, or both, on an authorised F175[person] and either amend or revoke any condition or requirement imposed under this paragraph or under *paragraph (a)*, *(b)* or *(c)*.
+
+(2) A condition or requirement referred to in *subsection (1)* may be imposed in relation to any or all of the following:
+
+(*a*) an authorised F176[person];
+
+(*b*) all authorised F177[persons];
+
+(*c*) a class or classes of authorised F178[persons];
+
+(*d*) a specified period of time or times;
+
+(*e*) an associated undertaking or related undertaking;
+
+(*f*) such matters relating to the proper and orderly regulation and supervision of authorised F179[persons], and the protection of their customers or potential customers, as the Bank considers appropriate.
+
+(3) Without limiting *subsections (1)* and *(2)*, the Bank may impose conditions or requirements on an authorisedF180[person], or a class of authorised F181[persons] concerning—
+
+(*a*) the level of training, qualifications or professional competence of managers, officers or employees,
+
+(*b*) the provision of information to the Bank or to a person specified by the Bank, and
+
+(*c*) the application of a prescribed code of practice relating to—
+
+(i) regulated financial service providers within the meaning of the Central Bank Act 1942, or
+
+(ii) a class of regulated financial service providers whose business appears to be comparable to that of an authorised F182[person] or a class of authorised F183[persons].]
+
+F184[(4) The Bank may also impose on persons authorised to carry on a money transmission business a condition or requirement to raise and maintain such capital or other financial resources as may be specified by the Bank.
+
+(5) The Bank may also impose on a debt management firm F185[or credit servicing firm] a condition or requirement to effect a policy of professional indemnity insurance—
+
+(*a*) in such form,
+
+(*b*) providing indemnification up to such sum and in respect of such matters, and
+
+(*c*) valid for such minimum period,
+
+as the Bank may specify from time to time.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F169: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007 (*37/2007), s. 19(h), S.I. No. 782 of 2007.
+>
+> F170, F171, F172, F173, F174, F175, F176, F177, F178, F179, F180, F181, F182, F183: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 63(a)-(e), S.I. No. 287 of 2013.
+>
+> F184: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 63(f), S.I. No. 287 of 2013.
+>
+> F185: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 3,commenced on enactment.
+
+### 34. F186[Bank may amend authorisation.
+
+**34.**—The Bank may from time to time amend an authorisation—
+
+(*a*) by varying any of its conditions, or
+
+(*b*) by replacing or revoking an existing condition, or
+
+(*c*) by adding a new condition,
+
+but only after giving to that holder a notice in writing of its intention to do so and an opportunity to be heard by, or to make written representations to, the Bank in relation to the proposed amendment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F186: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 34C. Transitional provisions.
+
+F187[**34C.**— (1) Despite *section 29*, a person carrying on the business of a retail credit firm, or a home reversion firm, immediately before the commencement of Part 2 of the Markets in Financial Instruments and Miscellaneous Provisions Act 2007 is taken to be authorised as a regulated business until the Bank has granted or refused authorisation to the person, provided the person applies to the Bank under *section 30* for authorisation no later than 3 months after that commencement.
+
+(2) If a person is taken to be authorised as a regulated business under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of a regulated business;
+
+(*b*) direct that person not to carry on the business of a retail credit firm, or the business of a home reversion firm, for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F187: Inserted (1.02.2008) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 19(i), S.I. No. 782 of 2007.
+
+### 34D. Transitional provision for existing debt management firms.
+
+F188[**34D.**— (1) Notwithstanding *section 29*, a person carrying on the business of a debt management firm immediately before the commencement of Part 10 of the Central Bank (Supervision and Enforcement) Act 2013 is taken to be authorised to carry on the business of a debt management firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under *section 30* for authorisation no later than 3 months after that commencement.
+
+(2) If a person is taken to be authorised to carry on the business of a debt management firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of debt management firms;
+
+(*b*) direct that person not to carry on the business of a debt management firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F188: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 64, S.I. No. 287 of 2013.
+
+### 34E. Transitional provision for existing retail credit firms
+
+F189[**34E.** (1) Notwithstanding *section 29*, a person carrying on the business of a retail credit firm who did not require authorisation immediately before the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2015 is taken to be authorised to carry on the business of a retail credit firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under *section 30* for authorisation no later than 3 months after that coming into operation.
+
+(2) If a person is taken to be authorised to carry on the business of a retail credit firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of retail credit firms;
+
+(*b*) direct that person not to carry on the business of a retail credit firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F189: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 4, commenced on enactment.
+
+### 34EA. Further transitional provision for existing retail credit firms
+
+F190[**34EA.** (1) Notwithstanding *section 29*, a person carrying on the business of a retail credit firm who did not require authorisation immediately before the coming into operation of section 2 (a)(vii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 is taken to be authorised to carry on the business of a retail credit firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under *section 30* for authorisation no later than 3 months after that coming into operation.
+
+(2) If a person is taken to be authorised to carry on the business of a retail credit firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of retail credit firms;
+
+(*b*) direct that person not to carry on the business of a retail credit firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F190: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 5, S.I. No. 229 of 2022.
+
+### 34F. Transitional provision for existing credit servicing firms
+
+F191[**34F.** (1) Notwithstanding *section 29*, a person (other than a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of *section 28(3)*) carrying on the business of a credit servicing firm immediately before the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2015 is taken to be authorised to carry on the business of a credit servicing firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under *section 30* for authorisation no later than 3 months after that coming into operation.
+
+(2) If a person is taken to be authorised to carry on the business of a credit servicing firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of credit servicing firms;
+
+(*b*) direct that person not to carry on the business of a credit servicing firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F191: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 4, commenced on enactment.
+
+### 34FA. Transitional provision for existing credit servicing firms: supplementary
+
+F192[**34FA.**(1) Notwithstanding *section 29*, a person (other than a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of *section 28(3)* or a person taken to be carrying on the business of a credit servicing firm by virtue of *section 28(4)*) carrying on the business of a credit servicing firm, in so far as that business relates to F193[credit servicing within the meaning of *subparagraph (i)*, *(ii)(III)(I)* or *(ii)(III)(J)*, as the case may be, of *paragraph (a)* of the definition of “credit servicing"] in *section 28(1)* (in this subsection referred to as “the specified matters”), immediately before the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2018, is taken to be authorised to carry on the business of a credit servicing firm, in so far as that business relates to the specified matters, after such coming into operation until the Bank has granted or refused authorisation to the person, provided that—
+
+(*a*) the person applies to the Bank under *section 30* for authorisation no later than 3 months after that coming into operation, and
+
+(*b*) a credit servicing firm undertakes, on behalf of that person, credit servicing F194[within the meaning of *clauses (I)*, *(II)* and *(III)(A)* to *(H)* of *subparagraph (ii)* and *subparagraph (iii)* of *paragraph (a)* of the definition of “credit servicing"] in *section 28(1)*.
+
+(2) If a person is taken to be authorised to carry on the business of a credit servicing firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of credit servicing firms;
+
+(*b*) direct that person not to carry on the business of a credit servicing firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F192: Inserted (21.01.2019) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2018* (36/2018), s. 2, S.I. No. 3 of 2019.
+>
+> F193, F194: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 6(a), (b), S.I. No. 229 of 2022.
+>
+> **Editorial Notes:**
+>
+> E40: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 34FB. Transitional provision for existing credit servicing firms: further supplementary provision
+
+F195[**34FB.** (1) Notwithstanding *section 29*, where a person (other than a person taken to be authorised to carry on the business of a credit servicing firm by virtue of *section 28(3)*, *(3A)*, *(4)* or *(5)*) carrying on the business of a credit servicing firm, in so far as that business relates to—
+
+(*a*) specified credit matters, or
+
+(*b*) specified hire matters,
+
+immediately before the coming into operation of section 2 (a)(iii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022, applies to the Bank under *section 30* for authorisation no later than 3 months after that coming into operation, that person is taken to be authorised to carry on the business of a credit servicing firm, in so far as that business relates to specified credit matters or specified hire matters, as the case may be, after such coming into operation until the Bank has granted or refused authorisation to the person.
+
+(2) If a person is taken to be authorised to carry on the business of a credit servicing firm under *subsection (1)*, the Bank may do either or both of the following:
+
+(*a*) impose on that person such conditions or requirements or both as the Bank considers appropriate relating to the proper and orderly regulation and supervision of credit servicing firms;
+
+(*b*) direct that person not to carry on the business of a credit servicing firm for such period (not exceeding 3 months) as is specified in the direction.
+
+(3) A condition or requirement imposed, or a direction given, under this section is an appealable decision for the purposes of Part VIIA of the Act of 1942.
+
+(4) In this section—
+
+“specified credit matters” means credit servicing within the meaning of *paragraph (a)* of the definition of “credit servicing” in *subsection (1)* of *section 28* relating to classes of credit included within the definition of “credit” in that subsection which were not included in that definition immediately before the coming into operation of section 2 (a)(ii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022;
+
+“specified hire matters” means credit servicing within the meaning of *paragraph (b)* of the definition of “credit servicing” in *section 28(1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F195: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 7, S.I. No. 229 of 2022.
+
+### 34G. Obligation on credit servicing firm and holder of legal title to credit
+
+F196[**34G.** (1) A credit servicing firm shall not, on its own behalf or on behalf of, or on the instructions of, a person F197[who holds the legal title to the rights of the creditor under a credit agreement or the legal title to the rights of the owner under a consumer-hire agreement or a hire-purchase agreement], take or fail to take an action, if the taking of or the failure to take the action would otherwise be a prescribed contravention if a retail credit firm took or failed to take that action.
+
+(2) A person F198[who holds the legal title to the rights of the creditor under a credit agreement or the legal title to the rights of the owner under a consumer-hire agreement or a hire-purchase agreement] shall not instruct a credit servicing firm to take or fail to take an action, if the taking of or the failure to take the action would otherwise be a prescribed contravention if a retail credit firm took or failed to take that action.
+
+(3) A person who contravenes *subsection (2)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000 or imprisonment for a term not exceeding 5 years, or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F196: Inserted (8.07.2015) by *Consumer Protection (Regulation of Credit Servicing Firms) Act 2015* (21/2015), s. 5, commenced on enactment. A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F197, F198: Substituted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 8(a), (b), S.I. No. 229 of 2022.
+>
+> **Editorial Notes:**
+>
+> E41: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 35. F199[Offence to fail to comply with certain conditions and requirements.
+
+**35.**—(1) The holder of an authorisation shall comply with—
+
+(*a*) the requirements imposed on holders of authorisations by this Part, and
+
+(*b*) the conditions (if any) of the authorisation, and
+
+(*c*) the requirements (if any) imposed by regulations in force under this Part.
+
+(2) A person who fails to comply with *subsection (1)* commits an offence and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €75,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F199: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> **Editorial Notes:**
+>
+> E42: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 36. F200[Revocation of authorisation by Bank on application of holder.
+
+**36.**—The Bank shall revoke an authorisation on the application of the holder of the authorisation, but only if satisfied that the holder of the authorisation has fully complied with the provisions of this Part F201[and such of the other designated enactments and designated statutory instruments as apply] and the conditions of the authorisation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F200: Substituted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F201: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 65, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: section repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 23 item 4, S.I. No. 160 of 2003; substituted as per F-note above.
+
+### 36A. Revocation of authorisation by Bank otherwise than on application of holder.
+
+F202[**36A.**—(1) The Bank may revoke an authorisation on being satisfied on reasonable grounds that—
+
+(*a*) the holder of the authorisation has not begun to carry on a regulated business within 12 months after the date on which the authorisation was granted, or
+
+(*b*) the holder of the authorisation has not carried on such a business within the immediately preceding 6 months, or
+
+(*c*) the authorisation was obtained by means of a false or misleading representation, or
+
+(*d*) the holder of the authorisation has contravened or is contravening, or has failed or is failing to comply with a provision of this Part F203[or any other designated enactment or designated statutory instrument], a condition of the authorisation or a requirement imposed by or under this Part F204[or any other designated enactment or designated statutory instrument], or
+
+(*e*) if the holder of the authorisation is a natural person, the holder is adjudicated bankrupt, or
+
+(*f*) if the holder of the authorisation is a partnership, the partnership is dissolved by the death or bankruptcy of a partner or because of the operation of a provision of the Partnership Act 1890, or
+
+(*g*) if the holder of the authorisation is a body corporate, the winding-up of the body has commenced, or
+
+(*h*) the holder of the authorisation is so structured, or business of the holder is so organised, that the holder is no longer capable of being regulated to the satisfaction of the Bank, or
+
+(*i*) the circumstances under which the authorisation was granted have changed to the extent that an application for authorisation would be refused had the application been made in the changed circumstances, or
+
+(*j*) the holder of the authorisation suspends payments due to creditors, or is unable to meet any other obligations to creditors of the holder, or
+
+(*k*) if the holder of the authorisation is a branch or subsidiary of a body corporate that has its head office in another country that is an EEA country, the authority of that other country that performs functions similar to those of the Bank under this Part has terminated the authority of that body to carry on a regulated business in that other country, or
+
+(*l*) the holder of the authorisation, or officer of that holder, is convicted of—
+
+(i) an offence against this Part or against any other designated enactment or designated statutory instrument, or
+
+(ii) an offence involving fraud, dishonesty, breach of trust, money laundering or financing F206[terrorism, or]
+
+F205[(*m*) the holder of the authorisation is not, in the opinion of the Bank, a fit and proper person to hold the authorisation, or
+
+(*n*) any officer or qualifying shareholder of the holder of the authorisation is not, in the opinion of the Bank, a fit and proper person to be such an officer or shareholder, or
+
+(*o*) it is necessary in the interests of the proper and orderly regulation and supervision of the regulated business concerned.]
+
+(2) If the Bank proposes to revoke an authorisation, it shall serve on the holder of the authorisation a notice in writing informing the holder of the Bank's intention to revoke the authorisation. The notice must—
+
+(*a*) specify the grounds on which it is proposed to revoke the authorisation, and
+
+(*b*) inform the holder of the authorisation that the holder may, within 21 days after service of the notice, make written representations to the Bank showing why the authorisation should not be revoked.
+
+(3) Not later than 21 days after a notice is served on the holder of an authorisation in accordance with *subsection (2)*, the holder may make written representations to the Bank showing why the authorisation should not be revoked.
+
+(4) The Bank may revoke the authorisation only after having considered any representations made by the holder of the authorisation in accordance with *subsection (3)*.
+
+(5) As soon as practicable after revoking an authorisation under this section, the Bank shall give written notice of the revocation to the person who was the holder of the authorisation. The notice must include a statement of the reasons for revoking the authorisation.
+
+(6) Revocation of an authorisation under this section takes effect on and from the date of the notice of revocation or, if a later date is specified in the notice, on and from that date, irrespective of whether an appeal against the revocation is made under Part VIIA of the Central Bank Act 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F202: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F203, F204, F205: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 66(a), (c), S.I. No. 287 of 2013.
+>
+> F206: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 66(b), S.I. No. 287 of 2013.
+
+### 36B. Bank may direct holder of authorisation to suspend business.
+
+F207[**36B.**—(1) If the Bank reasonably believes that there may be grounds for revoking an authorisation under *section 36A*, it may give to the holder of the authorisation a direction in writing prohibiting it from carrying on a regulated business otherwise than in accordance with conditions specified by the Bank.
+
+(2) A direction given under this section—
+
+(*a*) must include a statement of the Bank's reasons for giving the direction and specify the conditions with which the holder of the authorisation must comply, and
+
+(*b*) remains in force for such period (not exceeding 6 months) as is specified in the direction.
+
+(3) A direction takes effect from the date of the direction or, if a later date is specified in the direction, from that date, irrespective of whether or not the holder of the authorisation appeals against the direction.
+
+(4) The holder of an authorisation shall comply with a direction given under this section and the conditions (if any) contained in the direction.
+
+(5) The Bank may, by notice in writing given to the holder of the authorisation concerned, amend or revoke a direction given under this section.
+
+(6) Without limiting *subsection (5)*, the Bank may from time to time, by notice in writing given to the holder of the authorisation concerned, extend the period during which a direction remains in force by a further period not exceeding 6 months.
+
+(7) A direction given under this section ceases to have effect—
+
+(*a*) at the end of the period specified in the direction, or if the period is extended under subsection (6), at the end of the extended period, or
+
+(*b*) on the revocation of the holder's authorisation under this Part, whichever first occurs.
+
+(8) A person who contravenes a direction given under this section, or fails to comply with a condition of the direction, commits an offence and—
+
+(*a*) if tried summarily, is liable on conviction to a fine not exceeding €2,000, or
+
+(*b*) if tried on indictment, is liable on conviction to a fine not exceeding €75,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F207: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> **Editorial Notes:**
+>
+> E44: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 36C. F208[Bank to publish notice of revocation or suspension.
+
+**36C.**—As soon as practicable after revoking an authorisation under *section 36* or *36A*, or giving a direction under *section 36B*, the Bank shall publish in a publication of its choice a notice giving particulars of the revocation or direction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F208: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36D. F209[Bank to keep register of persons authorised to carry on regulated businesses.
+
+**36D.**—(1) The Bank is required to establish and keep a register of persons authorised to carry on regulated businesses.
+
+(2) The register must contain the name and the address of the principal place of business of each person authorised to carry on a regulated business and such other information as the Bank determines.
+
+(3) The register may be in book form, electronic form or such other form as the Bank determines from time to time. If the register is kept in an electronic form that is not visually readable, it must be capable of being reproduced in a visually readable form.
+
+(4) The Bank is to keep the register at its head office or at such other place as it specifies by notice published in Iris Oifigiúil.
+
+(5) Members of the public are entitled, without charge, to inspect the register during the ordinary business hours of the Bank.
+
+(6) A member of the public is entitled to obtain a copy of the register or of an entry in a register on payment of a fee of such amount (if any) as may be prescribed under section 33K of the Central Bank Act 1942 for the purposes of this subsection.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F209: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36E. F210[Bank to publish list of persons authorised to carry on regulated businesses.
+
+**36E.**—The Bank shall, not less frequently than once during every period of 12 months after the commencement of this section, publish in a publication of its choice a list of persons authorised to carry on regulated businesses. If regulations in force under this Part so require, the list must contain such other particulars as are prescribed by those regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F210: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36EA. Collection and publication of information on relevant agreements
+
+F211[**36EA.** (1) The Minister may request the Bank, in writing, to collect and publish information which the Bank may collect and publish pursuant to section 5A(1)(g) of the Act of 1942 relating to—
+
+(*a*) credit agreements,
+
+(*b*) consumer-hire agreements, and
+
+(*c*) hire-purchase agreements.
+
+(2) The Minister may request the Bank to—
+
+(*a*) obtain, in accordance with section 65 of the Act of 1942, information relating to hire-purchase agreements, and
+
+(*b*) subject to *subsection (6)*, publish that information.
+
+(3) The Bank shall comply with a request from the Minister under *subsection (1)* or *(2)*.
+
+(4) A request under *subsection (1)* or *(2)* shall specify—
+
+(*a*) the information which is required to be collected, obtained or published, as the case may be, and
+
+(*b*) the manner in which the information is to be published.
+
+(5) A request under *subsection (1)* or *(2)* may be for the collecting, obtaining or publication of information on—
+
+(*a*) a once-off basis, or
+
+(*b*) on an ongoing basis, at a frequency specified in the request.
+
+(6) The Minister shall not request the publication of personal data under *subsection (2)(b)*.
+
+(7) In this section, “personal data” has the same meaning as it has in Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^9].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F211: Inserted (16.05.2022) by *Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022* (5/2022), s. 9, S.I. No. 229 of 2022.
+
+### 36F. F212[Holders of authorisations to keep certain records.
+
+**36F.**—(1) The holder of an authorisation shall—
+
+(*a*) keep at an office or offices within the State such records as may be specified from time to time by the Bank, and
+
+(*b*) notify the Bank in writing of the address of the office or offices where those records are kept. Different kinds of records may be specified under this subsection for different kinds of authorisations.
+
+(2) The requirement imposed by *subsection (1)* is additional to any other requirement imposed by law with respect to the keeping of records by the holder of an authorisation.
+
+(3) The holder of an authorisation shall keep the records referred to in *subsection (1)* for such period as the Bank notifies in writing to that holder.
+
+(4) The holder of an authorisation may keep documents wholly or partly in a non-legible form so long as they are capable of being reproduced in a legible form.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F212: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+F213[CHAPTER 4
+
+*Enforcement of this Part*]
+
+### 36G. F214[Appointment of inspectors.
+
+**36G.**—F215[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213, F214: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F215: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and and sch. 2 part 1 item 7, S.I. No. 557 of 2012, subject to transitional provisions in subss. (6)-(8).
+
+### 36H. F216[Powers of inspectors with respect to holders of authorisations.
+
+**36H.**—F217[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F216: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F217: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and and sch. 2 part 1 item 7, S.I. No. 557 of 2012, subject to transitional provisions in subss. (6)-(8).
+
+### 36I. F218[Offence to obstruct inspectors in the exercise of their powers.
+
+**36I.**—F219[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F218: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> F219: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and and sch. 2 part 1 item 7, S.I. No. 557 of 2012, subject to transitional provisions in subss. (6)-(8).
+
+### 36J. F220[Court may make enforcement orders.
+
+**36J.**—(1) If a person has engaged, is engaging or is about to engage in conduct that involved, involves or would involve—
+
+(*a*) contravening a provision of this Part, or
+
+(*b*) attempting to contravene such a provision, or
+
+(*c*) aiding, abetting, counselling or procuring a person to contravene such a provision, or
+
+(*d*) inducing or attempting to induce, whether by threats, promises or otherwise, a person to contravene such a provision, or
+
+(*e*) being in any way, directly or indirectly, knowingly concerned in, or a party to, the contravention by a person of such a provision, or
+
+(*f*) conspiring with others to contravene such a provision,
+
+the Court may make an order restraining the person from engaging in the conduct. The Court may include in the order a requirement that the person do a specified act.
+
+(2) If a person has refused or failed, is refusing or failing, or is about to refuse or fail, to do an act that the person is required to do by or under a provision of this Part, the Court may make an order requiring the person to do that act.
+
+(3) An order under this section may be made only on the application of the Bank or some other person whose interests have been, are or would be affected by the conduct or by the refusal or failure to do the act concerned.
+
+(4) The Court may hear an application for an order under this section only if it is satisfied that the person in relation to whom the order is sought has been served with a copy of the application at least 7 days before the hearing.
+
+(5) An order under this section may be made on such terms as the Court thinks appropriate.
+
+(6) The Court may grant an interim order pending the determination of an application under this section.
+
+(7) If the Bank applies to the Court to make an order under this section, the Court may not require the applicant or any other person to give an undertaking as to damages as a condition of granting an interim order.
+
+(8) The Court may discharge or vary an order made under this section.
+
+(9) The power of the Court to make an order restraining a person from engaging in conduct may be exercised—
+
+(*a*) whether or not it appears to the Court that the person intends to repeat, or to continue, the conduct, and
+
+(*b*) whether or not the person has previously engaged in that kind of conduct, and
+
+(*c*) whether or not there is an imminent danger of substantial damage to any other person if the person engages in that kind of conduct.
+
+(10) The power of the Court to grant an injunction requiring a person to do an act may be exercised—
+
+(*a*) whether or not it appears to the Court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act, and
+
+(*b*) whether or not the person has previously refused or failed to do that act, and
+
+(*c*) whether or not there is an imminent danger of substantial damage to any other person if the person refuses or fails to do that act.
+
+(11) Whenever the Court has power under this section to make an order restraining a person from engaging in particular conduct, or requiring a person to do a particular act, it may, either in addition to or instead of making such an order, order the person to pay damages to another person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F220: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36K. F221[Offences by persons concerned in management of bodies corporate.
+
+**36K.**—(1) If a body corporate commits an offence under this Part, each person who was, at the time the offence is found to have been committed, an officer of the body commits an offence, unless the person establishes that—
+
+(*a*) the body committed the offence without the person's knowledge, or
+
+(*b*) although the person did have that knowledge, the person took all reasonably practicable steps to prevent the commission of the offence.
+
+(2) A person may be charged with having committed an offence under this section even if the body corporate concerned is not charged with having committed an offence under this Part in relation to the same matter.
+
+(3) A person who is convicted of an offence under this section is—
+
+(*a*) if tried summarily, liable on conviction to a fine not exceeding €2,000 or to imprisonment for a term not exceeding 3 months, or both, or
+
+(*b*) if tried on indictment, liable on conviction to a fine not exceeding €50,000 or to imprisonment for a term not exceeding 12 months, or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F221: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+>
+> **Editorial Notes:**
+>
+> E45: A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+F222[CHAPTER 5
+
+*Supplementary provisions*]
+
+### 36L. F223[Decisions of Bank under this Part to be appealable decisions for purposes of Part VIIA of Central Bank Act 1942.
+
+**36L.**—The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942 :
+
+(*a*) the refusal of an application made under *section 30*;
+
+(*b*) the imposition of conditions on the granting of an authorisation (not being conditions prescribed by regulations in force under this Part);
+
+(*c*) the amendment of an authorisation under *section 34*;
+
+(*d*) the revocation of an authorisation under *section 36A*;
+
+(*e*) the giving of a direction under *section 36B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F222, F223: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36M. F224[Bank may make regulations for purposes of this Part.
+
+**36M.**—(1) The Bank may make regulations, not inconsistent with this Part, for or with respect to any matter that by this Part is required or permitted to be prescribed, or that is necessary or expedient to be prescribed, for carrying out or giving effect to this Part.
+
+(2) A regulation under section 33J or 33K of the Central Bank Act 1942 may require holders of authorisations to pay a levy or fee for the purposes of this Part, or both a levy and fee.
+
+(3) If a regulation under section 33J or 33K of the Central Bank Act 1942 imposes a requirement to pay a levy or fee to the Bank and the holder of an authorisation fails to pay the fee within the period, or by the date, specified in the regulation, the Bank may, by proceedings brought in a court of competent jurisdiction, recover the amount of the levy or fee from the holder as a debt due to the Bank.
+
+(4) A provision of a regulation under this section may—
+
+(*a*) apply generally or be limited in its application by reference to specified exceptions or factors, or
+
+(*b*) apply differently according to different factors of a specified kind, or
+
+(*c*) authorise any matter or thing to be from time to time determined, applied or regulated by a specified person or body,
+
+or may do any combination of those things.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F224: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+### 36N. F225[Performance and exercise of Bank's functions and powers to be consistent with performance of certain responsibilities of Governor.
+
+**36N.**—The Bank shall perform and exercise the functions and powers imposed or conferred on it by this Part in a manner consistent with the performance by the Governor of the responsibilities imposed on the Governor by section 19A of the Central Bank Act 1942.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F225: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 27, S.I. No. 455 of 2004, art. 2 and sch. part 3(b), subject to transitional provisions in sch. 5.
+
+## PART VI — Amendments to Investment Intermediaries Act, 1995
+
+### 37. Amendment of section 4 of Investment Intermediaries Act, 1995.
+
+**37.** — The Investment Intermediaries Act, 1995, is hereby amended by the substitution of the following section for section 4:
+
+“ Supervisory authority.
+
+4.— (1) In this Act, ‘ supervisory authority ’ means the Bank.
+
+(2) The Bank shall be the supervisory authority for all investment business firms.
+
+(3) Notwithstanding anything to the contrary in this Act, this Act shall be read as if there were only one supervisory authority for the purposes of this Act.”.
+
+### 38. Amendment of section 8 of Investment Intermediaries Act, 1995.
+
+**38.** — Section 8 of the Investment Intermediaries Act, 1995, is hereby amended—
+
+(*a*) by the deletion after “The Bank” of “ and the Minister for Enterprise and Employment ”,
+
+(*b*) by the substitution of “ authority ” for “authorities”.
+
+### 39. Amendment of section 10 of Investment Intermediaries Act, 1995.
+
+**39.** — Section 10 of the Investment Intermediaries Act, 1995, is hereby amended by the insertion of the following subsection after subsection (16):
+
+“(17) Every application for authorisation made to the Minister for Enterprise and Employment under this Act before the coming into operation of this section is hereby deemed to have been made to the Bank.”.
+
+### 40. Amendment of section 20 of Investment Intermediaries Act, 1995.
+
+**40.** — Section 20 (5) of the Investment Intermediaries Act, 1995, is hereby amended by the deletion of “ shall co-operate with the other supervisory authority in the State and ”.
+
+### 41. Amendment of section 22 of Investment Intermediaries Act, 1995.
+
+**41.** — Section 22 of the Investment Intermediaries Act, 1995, is hereby amended—
+
+(*a*) by the deletion in subsection (5) of “ the Minister for Enterprise and Employment or ”,
+
+(*b*) by the substitution in subsection (5) of “ the Governor ” for “that Minister or that Governor”,
+
+(*c*) by the deletion in subsection (6) (*a*) of “ Minister for Enterprise and Employment or the ”, and
+
+(*d*) by the deletion in subsection (6) (*a*) of “ said Minister or ”.
+
+### 42. Amendment of section 25 of Investment Intermediaries Act, 1995.
+
+**42.** — Section 25 (*b*) of the Investment Intermediaries Act, 1995, is hereby amended by the deletion of “ the instruments referred to in section 4 (2) (*a*) to (*c*) ” and the substitution of “ units or shares in undertakings for collective investments in transferable securities within the meaning of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 1989 (S.I. No. 78 of 1989), and any subsequent amendments thereto, units in a unit trust, other collective scheme instruments, ”.
+
+### 43. Amendment of section 26 of Investment Intermediaries Act, 1995.
+
+**43.** — Section 26 (1) of the Investment Intermediaries Act, 1995, is hereby amended by the deletion of “ the instruments referred to in section 4 (2) (*a*) to (*c*) of this Act ” and the substitution of “ units or shares in undertakings for collective investments in transferable securities within the meaning of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 1989 (S.I. No. 78 of 1989), and any subsequent amendments thereto, units in a unit trust, other collective scheme instruments, ”.
+
+### 44. Amendment of section 27 of Investment Intermediaries Act, 1995.
+
+**44.** — The Investment Intermediaries Act, 1995, is hereby amended by the substitution of the following section for section 27:
+
+“ Requirements for investment product intermediaries.
+
+27.— A person shall not act as or hold himself out to be an investment product intermediary unless he holds an appointment in writing from each product producer for which he is an intermediary, and unless—
+
+(*a*) he is a member of any approved representative body specified for this purpose by the supervisory authority whose rules require compliance with the terms of this Act, or
+
+(*b*) he is a certified person, or
+
+(*c*) he otherwise complies with the provisions of this Act, and
+
+he effects a policy of professional indemnity insurance in a form specified by the supervisory authority (and different forms may be specified for different classes of person), indemnifying him up to such sum, in such manner, in respect of such matters and valid for such minimum period as the supervisory authority may prescribe from time to time.”.
+
+### 45. Amendment of section 28 of Investment Intermediaries Act, 1995.
+
+**45.** — Section 28 (1) of the Investment Intermediaries Act, 1995, is hereby amended—
+
+(*a*) by the deletion of “ the instruments referred to in section 4 (2) (*a*) to (*c*) or ” and the substitution of “ units or shares in undertakings for collective investments in transferable securities within the meaning of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 1989 (S.I. No. 78 of 1989), and any subsequent amendments thereto, units in a unit trust, other collective scheme instruments, ”
+
+(*b*) by the substitution of “ by the supervisory authority ” for “by the Minister for Enterprise and Employment”.
+
+### 46. Amendment of section 29 of Investment Intermediaries Act, 1995.
+
+**46.** — Section 29 of the Investment Intermediaries Act, 1995, is hereby amended by the substitution of “ the supervisory authority ” for “the Minister for Enterprise and Employment”.
+
+### 47. Amendment of section 31 of Investment Intermediaries Act, 1995.
+
+**47.** — Section 31 of the Investment Intermediaries Act, 1995, is hereby amended—
+
+(*a*) by the substitution in subsection (3) of “ the supervisory authority ” for “the Minister for Enterprise and Employment”,
+
+(*b*) by the substitution in subsection (3) of “ the supervisory authority ” for “that Minister”, and
+
+(*c*) by the substitution in subsection (4) of “ The supervisory authority ” for “The Minister for Enterprise and Employment”.
+
+### 48. Amendment of section 64 of Investment Intermediaries Act, 1995.
+
+**48.** — F226[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F226: Repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 23 item 4, S.I. No. 160 of 2003.
+
+### 49. Amendment of section 78 of Investment Intermediaries Act, 1995.
+
+**49.** — Section 78 (3) of the Investment Intermediaries Act, 1995, is hereby amended by the deletion of “ or the Minister for Enterprise and Employment ” in each place where it occurs.
+
+## PART VII — Miscellaneous
+
+### 50. Amendment of section 24 of Act of 1942.
+
+**50.** — The following section is hereby substituted for section 24 (as amended by section 14 of the Act of 1989) of the Act of 1942:
+
+“24.— (1) Every Director of the Board (other than a service Director) shall, unless he sooner dies, resigns or becomes disqualified, hold office for a period of five years from the date of appointment.
+
+(2) Every service Director shall hold office at the pleasure of the Minister and may be removed by the Minister at any time.
+
+(3) This section shall apply to every Director of the Bank who holds office on the commencement of *section 50* of the *Central Bank Act, 1997*.”.
+
+### 51. Amendment of section 28 of Act of 1942.
+
+**51.** — Section 28 of the Act of 1942 is hereby amended by the substitution of the following subsection for subsection (2):
+
+“(2) Not less than ten days before the expiration by effluxion of time of the term of office of a Director to whom this section applies the Secretary to the Board shall notify the Minister of such prospective vacancy.”.
+
+### 52. Amendment of section 16 of Act of 1989.
+
+**52.** — Section 16 (as amended by section 50 of the Stock Exchange Act, 1995, and section 49 of the Investment Intermediaries Act, 1995), of the Act of 1989, is hereby amended—
+
+(*a*) by the substitution of the following for paragraph (*e*) of subsection (2)—
+
+“(*e*) made to an authority in a jurisdiction other than that of the State duly authorised to exercise functions similar to any one or more of the statutory functions of the Bank and which has obligations in respect of non-disclosure of information similar to the obligations imposed on the Bank under this section and the Bank may require from a person it supervises any information for the purposes of assisting the authority in the jurisdiction other than the State, but the Bank may only require such information where the information requested is to assist the authority in the jurisdiction other than the State in the carrying out of its regulatory functions,”,
+
+(*b*) by the insertion after subsection (2) (*o*) of the following paragraphs:
+
+“(*p*) made to an officer of statistics as defined by section 20 of the Statistics Act, 1993, in connection with the collection, compilation, analysis or interpretation of data relating to balance of payments, national accounts or any other financial statistics for these purposes,
+
+(*q*) made for the purpose of complying with section 57 (2) of the Criminal Justice Act, 1994,
+
+(*r*) where the Bank is in receipt of information from an authority in a jurisdiction other than the State duly authorised to exercise functions similar to one or more of the statutory functions of the Bank and made with the permission of that authority,
+
+(*s*) made to the Comptroller and Auditor General, or an officer, that is required for the performance of his functions,
+
+(*t*) made to the European Monetary Institute where such disclosure is required in accordance with the Treaty on European Union,
+
+(*u*) made to the Minister for the Environment for the purposes of his or her functions under the national housing programme, in respect of a mortgage lender.”,
+
+and
+
+(*c*) by the insertion after subsection (6) of the following subsection:
+
+“(7) An officer of statistics who receives information from the Bank under section 16 (2) (*p*) shall be bound by the provisions of this section with regard to the disclosure of that information.”.
+
+### 53. Application of section 47 of Act of 1989.
+
+**53.** — Section 47 of the Act of 1989 shall apply—
+
+(*a*) to every financial institution to which Chapter VII of Part II of the Act of 1989 relates,
+
+(*b*) to every exchange to which Chapter VIII of Part II of the Act of 1989 relates and every member of that exchange, and
+
+(*c*) to every person authorised by the Bank to carry on money broking business,
+
+as if each such institution, exchange, member or person so authorised were the holder of a licence for the purposes of the *Central Bank Acts* F227[...].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F227: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 28, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 54. Amendment of section 48 of Act of 1989.
+
+**54.** — Section 48 of the Act of 1989, is hereby amended by the insertion of the following subsection after subsection (3):
+
+“(4) The Bank shall be notified of any application for a petition for the winding up of the holder of a licence before the petition is presented.”.
+
+### 55. Amendment of section 75 of Act of 1989.
+
+**55.** — Section 75 of the Act of 1989 is hereby amended by the insertion of the following paragraph after paragraph (*a*) of subsection (2):
+
+“(*aa*) the acquiring transaction is being entered into with the prior approval of the Bank in the interests of the proper and orderly regulation of banking or financial markets in the State, or”.
+
+### 56. Amendment of section 76 of Act of 1989.
+
+**56.** — Section 76 of the Act of 1989 is hereby amended by designation of that section as subsection (1) thereof and by the insertion of the following subsection:
+
+“(2) A person may apply to the Court for an order, on such conditions as the Court may decide, declaring that, notwithstanding the failure of that person to notify the Bank as required by this Chapter, the acquiring transaction is, and always had been, a valid transaction and that title to any shares or other interest concerned did pass and that all purported exercise of powers is and always had been valid, and if the Court finds that the failure to notify the Bank of the proposed acquiring transaction was due to inadvertence on the part of the person, or if the Court considers that it is otherwise in the interest of justice to do so, it shall grant the order sought.”.
+
+### 57. Amendment of section 90 of Act of 1989.
+
+**57.** — Section 90 of the Act of 1989 is hereby amended by designation of that section as subsection (1) thereof and by the insertion of the following subsection:
+
+“(2) The Bank may apply from a date specified in writing by it any or all of the provisions of this Part to any person who has applied for a certificate under section 39B (inserted by section 30 of the Finance Act, 1987) of the Finance Act, 1980, where the Bank is of the opinion that the application of these provisions to that person is necessary in the interests of the proper and orderly regulation of the Custom House Docks Area (within the meaning of section 41 of the Finance Act, 1986) and this Part shall have full effect as if that person were a person to whom a certificate had been given by the Minister.”.
+
+### 58. Amendment of section 91 of Act of 1989.
+
+**58.** — Section 91 of the Act of 1989 is hereby amended by the insertion of the following subsection after subsection (2):
+
+“(3) Notwithstanding subsection (1), an order under this section may provide that—
+
+(*a*) the provisions of this Chapter shall not apply to financial institutions of a specified class or financial institutions engaged in a specified class of business, or
+
+(*b*) the provisions of this Chapter shall apply to every such financial institution referred to in subparagraph (*a*) to the extent only specified in the order.”.
+
+### 59. Amendment of section 92 of Act of 1989.
+
+**59.** — Section 92 of the Act of 1989 is hereby amended by the insertion of the following subsections:
+
+“(3) The Bank may decide not to impose prudential, supervisory and reporting requirements and conditions on a financial institution or a class of financial institutions where it considers that the imposition of such requirements and conditions is not necessary in the interests of the reasonable protection of the public, the financial system or a sector thereof, or otherwise in the interests of the proper and orderly regulation of the institution or class of institutions, or the Custom House Docks Area (within the meaning of section 41 of the Finance Act, 1986).
+
+(4) Where under subsection (3) no requirements or conditions are imposed by the Bank, sections 95 and 96 shall not apply to the institution or class of institutions concerned.”.
+
+### 60. Amendment of section 3(2) of Consumer Credit Act, 1995.
+
+**60.** — Section 3(2) of the Consumer Credit Act, 1995, is hereby amended by the insertion of the following paragraph after paragraph (*a*):
+
+“(*aa*) any transaction or proposed transaction conducted in the course of relevant trading operations within the meaning of section 39A (inserted by section 17 of the Finance Act, 1981) of the Finance Act, 1980, or within the meaning of section 39B (inserted by section 30 of the Finance Act, 1987) of the Finance Act, 1980.”.
+
+### 61. Amendment of Part II, Chapter VII of Act of 1989.
+
+**61.** — The Act of 1989 is hereby amended by the insertion of the following section after section 96:
+
+“Application of this Part to certain classes of financial institution.
+
+96A.—The provisions of this Chapter shall continue to apply to a financial institution which has had its certificate revoked by the Minister, or has surrendered its certificate, until such time as the institution has discharged its liabilities in whole or in part to the satisfaction of the Bank.”.
+
+### 62. Amendment of section 104 of Act of 1989.
+
+**62.** — Section 104 of the Act of 1989 is hereby amended by the insertion of the following subsection after subsection (3):
+
+“(4) A prospectus or other document advertising the services of an exchange shall contain a statement in a prominent position in such form or manner approved by the Bank and containing such particulars for the protection of subscribers relating to the approval or otherwise of the rules of the exchange and its proposed establishment as the Bank may direct in writing.”.
+
+### 63. Amendment of section 139 of Act of 1989.
+
+**63.** — Section 139 of the Act of 1989 is hereby amended by the substitution of the following subsection for subsection (1):
+
+F228[“(1) Notwithstanding anything to the contrary contained in any enactment, or in any prospectus or other document relating to the terms of issue, holding or transfer of any securities or other instruments the issue or the transfer of such securities or other instruments may be made and shall be effective if instructions for the issue or transfer are communicated by electronic means and any issue or transfer of securities shall be deemed to be effective if recorded in a computerised system selected by the Bank following consultation with the National Treasury Management Agency, without the need for instructions in writing.”]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F228: Substituted (23.03.2000) by *Finance Act 2000* (3/2000), s. 158, commenced on enactment.
+
+### 64. Amendment of section 3 of Bretton Woods Agreements Act, 1957.
+
+**64.** — Section 3 of the Bretton Woods Agreements Act, 1957, is hereby amended in subsection (7) by the deletion of:
+
+“and may advance to the Minister for Finance any sum or sums required for payments under this section”,
+
+and that subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(7) The Central Bank of Ireland shall act as a depository for the holdings of currency of the State and other assets of the Fund and the Bank.
+
+### 65. Amendment of section 3 of International Finance Corporation Act, 1958.
+
+**65.** — Section 3 of the International Finance Corporation Act, 1958, is hereby amended in subsection (6) by the deletion of:
+
+“and may advance to the Minister for Finance any sum or sums required for payments under this section”,
+
+and that subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(6) The Central Bank of Ireland shall act as a depository for the holdings of currency of the State and other assets of the Corporation.
+
+### 66. Amendment of section 3 of International Development Association Act, 1960.
+
+**66.** — Section 3 of the International Development Association Act, 1960, is hereby amended in subsection (7) by the deletion of:
+
+“and may advance to the Minister for Finance any sum or sums required for payments under this section”,
+
+and that subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(7) The Central Bank of Ireland shall act as a depository for the holdings of currency of the State and other assets of the Association.
+
+### 67. Amendment of section 3 of Multilateral Investment Guarantee Agency Act, 1988.
+
+**67.** — Section 3 of the Multilateral Investment Guarantee Agency 1988, is hereby amended in subsection (5) by the deletion of:
+
+“and may advance to the Minister for Finance any sum or sums required for payments under this section, subject to such security, rate of interest and other terms and conditions as are agreed between the Minister and the Bank”,
+
+and that subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(5) The Central Bank of Ireland shall act as a depository for the holdings of currency of the State and other assets of the Agency.
+
+### 68. Amendment of section 3 of European Bank for Reconstruction and Development Act, 1991.
+
+**68.** — Section 3 of the European Bank for Reconstruction and Development Act, 1991, is hereby amended in subsection (5) by the deletion of:
+
+“and may advance to the Minister any sum or sums required for payments under this section, subject to such security, rate of interest and other terms and conditions as are agreed between the Minister and the Central Bank of Ireland”,
+
+and that subsection, as so amended, is set out in the Table to this section.
+
+TABLE
+
+(5) The Central Bank of Ireland shall act as a depository for the holdings of currency of the State and other assets of the Bank.
+
+### 69. Amendment of Part II, Chapter II of Act of 1989.
+
+**69.** — The Act of 1989 is hereby amended by the insertion in Part II, Chapter II of the following section after section 25:
+
+“25A. (1) The Bank or any employee of the Bank or any member of its Board or any authorised person or authorised officer appointed by the Bank for the performance of its statutory functions shall not be liable for damages for anything done or omitted in the discharge or purported discharge of any of its statutory functions under this Act unless it is shown that the act or omission was in bad faith.
+
+(2) Without prejudice to the generality of subsection (1)—
+
+(*a*) the authorisation or revocation of authorisation or supervision or regulation of any person under any of its statutory functions shall not constitute a warranty as to the solvency or performance of a person and neither the State nor the Bank shall be liable for any losses incurred through the insolvency, default or performance of such person,
+
+(*b*) the approval or revocation of approval or supervision or regulation of any exchange or the approval, amendment, revocation or imposition of rules or the consent or refusal of consent to amendments of rules under any of its statutory functions shall not constitute a warranty as to the solvency or performance of any exchange or member of any exchange and neither the State nor the Bank shall be liable for any losses incurred through the insolvency, default or performance of any exchange or member of any exchange.”.
+
+### 70. Amendment of Act of 1971.
+
+**70.** — The Act of 1971 is hereby amended—
+
+(*a*) by the deletion of subsection (1) (as amended by the European Communities (Deposit Guarantee Schemes) Regulations, 1995 (S.I. No. 168 of 1995)) of section 7 and the substitution therefor of the following subsection:
+
+“(1) Subject to the provisions of this Act, a person, other than the Bank, shall not, in or outside the State, carry on banking business or hold himself out or represent himself as a banker or as carrying on banking business or on behalf of any other person accept deposits or other repayable funds from the public, unless he is the holder of a licence.”,
+
+(*b*) by the substitution in section 2 (as amended by section 29 of the Act of 1989) for the definition of “ banking business ” of the following definition:
+
+“ ‘ banking business ’ means—
+
+(*a*) the business of accepting, on own account, sums of money from the public in the form of deposits or other repayable funds whether or not involving the issue of securities or other obligations, howsoever described, or
+
+(*b*) the business aforesaid and any other business normally carried on by a bank, which may include the granting of credits on own account;
+
+but excluding—
+
+(i) deposits with a trader from persons employed by him in his trading business or from his customers in the normal course of his trading business and deposits or instalments in respect of the letting, leasing or selling of goods under a hire-purchase agreement, or a leasing agreement or a credit-sale agreement, or
+
+(ii) a sum or sums of money accepted as security or collateral or as a bond for the repayment of a debt or the performance of a contract related to goods or services, or
+
+(iii) a sum or sums of money accepted by way of advance or part payment under a contract for the sale, hire or other provision of goods or services, and repayable only in the event that the goods or services are not in fact sold, hired or otherwise provided, or
+
+(iv) a sum or sums of money accepted solely as a premium in respect of the issue or renewal of a life assurance policy issued by a holder of an authorisation under the European Communities (Life Assurance) Regulations, 1984 (S.I. No. 57 of 1984), or
+
+(v) a sum or sums of money accepted as a contribution within the meaning of the Pensions Acts, 1990 to 1996, or
+
+(vi) a sum or sums of money accepted by a person where it can be shown that—
+
+(I) no part of the business activities of the person so accepting or of any other person is financed wholly or substantially out of those funds, and
+
+(II) such funds are, in the normal course of business, accepted on a casual or incidental basis only,
+
+or
+
+(vii) a sum or sums of money accepted under financial contracts, (within the meaning of the Netting of Financial Contracts Act, 1995) which may include the acceptance of collateral,
+
+and ‘banking’ and cognate words shall be construed accordingly.”,
+
+(*c*) by the insertion in section 2 of the following subsection:
+
+“(2) Where the Minister is of the opinion that it is consistent with the orderly and proper regulation of banking he may, after consultation with the Bank, by order amend this section to add thereto any category of funds or delete therefrom any category of funds mentioned therein for the time being.”,
+
+(*d*) by the substitution of the following paragraph for paragraph (*a*) of section 8 (2) (as amended by section 31 of the Act of 1989):
+
+“(*a*) Subject to such conditions, if any, as it may consider appropriate, the Bank may exempt any person or any class or classes of person from the requirement to hold a licence in respect of the issuing of any category or categories of securities or other obligations, howsoever described, where—
+
+(i) the requirements would arise only out of the issuing of such securities or other obligations to which the definition of banking business relates; and
+
+(ii) the Bank is of the opinion that the exemption would not conflict with the orderly and proper regulation of banking.”, and
+
+(*e*) by the substitution of the following section for section 27 (as amended by section 43 of the Act of 1989 and the Regulations of 1992) of the Act of 1971:
+
+“27.— (1) Subject to subsection (2) of this section, a person shall not advertise for or otherwise solicit deposits or other repayable funds from the public on his own behalf or on behalf of any other person.
+
+(2) Subsection (1) of this section does not apply to advertising for or otherwise soliciting deposits or other repayable funds from the public—
+
+(*a*) by the holder of a licence or the Bank or a person to whom, by virtue of section 7(4) of this Act, section 7(1) of this Act does not apply, or
+
+(*b*) by a person authorised by virtue of the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992, to carry on business in the State, or
+
+(*c*) by any person on behalf of a person specified in paragraph (*a*) or (*b*) of this subsection.
+
+(3) If an advertisement or other solicitation for deposits or other repayable funds from the public is published and it does not include the name and address of the person who arranged with the publisher for the advertisement or solicitation, then the Bank may, at any time within the period of twelve months after any publication of the advertisement, request the publisher to supply the name and address of that person to the Bank and the publisher shall forthwith comply with that request.
+
+(4) In this section ‘deposits or other repayable funds from the public’ does not include the acceptance of a sum or sums of money excluded from the definition of banking business under section 2 of the Act of 1971.
+
+(5) Reference in this section or section 58(3) of this Act (as amended by section 9 of the Act of 1989) to the solicitation of deposits, however expressed, includes every form of solicitation for deposits including, in particular, the display or publication of any such matter by way of notice, leaflet, circular, pamphlet, brochure, photograph, film, video, sound broadcasting, television, electronic communication or personal canvassing.”.
+
+### 71. Amendment of section 11 of Act of 1971.
+
+**71.** — Section 11 (as amended by section 34 of the Central Bank Act, 1989) of the Act of 1971 is hereby amended—
+
+(*a*) by the insertion of the following subparagraph after subparagraph (*b*) in subsection (1)—
+
+“(*bb*) with the consent of the Minister, revoke the licence if the business of, or the corporate structure of, the holder of the licence has been so organised or the holder of the licence has come under the control of any other undertaking not supervised by the Bank such that the holder is no longer capable of being supervised to the satisfaction of the Bank.”.
+
+(*b*) by the insertion of the following subsection after subsection (5)—
+
+“(6) In this section, “control”, “fellow subsidiary”, “parent undertaking” and “subsidiary undertaking” have the meanings they have in the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 395 of 1992), and “associated undertaking” has the meaning it has in the European Communities (Companies: Group Accounts) Regulations, 1992 (S.I. No. 201 of 1992).”.
+
+### 72. Amendment of section 48 of Act of 1971.
+
+**72.** — Section 48 of the Act of 1971 is hereby amended by the substitution of the following subsection for subsection (3):
+
+“(3) The Bank shall not issue bonds to bodies other than credit institutions.”.
+
+### 73. Amendment of section 51 of Act of 1971.
+
+**73.** — (1) Section 51 of the Act of 1971 is hereby amended by the substitution of the following subparagraph for subparagraph (i) of paragraph (*a*) of subsection (1)—
+
+“(i) altering the objects and powers of the Bank of Ireland by abandoning, restricting or amending any existing object or power or by adopting a new object or power, or”.
+
+(2) This section shall be deemed to have come into operation on the 1st day of September, 1971.
+
+### 74. Injunction to prevent an unauthorised person acting as a credit institution.
+
+**74.** — The Bank may apply to the Court to seek an injunction to prohibit the continuance by any person of any contravention of section 7 (as amended by section 30 of the Act of 1989, as amended by the European Communities (Deposit Guarantee Schemes) Regulations, 1995 (S.I. No. 168 of 1995) and as amended by this Act) of the Act of 1971, or section 27 (as amended by section 43 of the Act of 1989, as amended by the Regulations of 1992 and as amended by this Act) of the Act of 1971 where such a person is not a credit institution.
+
+### 75. Powers of inspection.
+
+**75.** —F229[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F229: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and and sch. 2 part 1 item 7, S.I. No. 557 of 2012, subject to transitional provisions in subss. (6)-(8).
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: subs. (8) amended (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(6) and sch. 1 part 5 items 2, 3, S.I. No. 469 of 2010; section repealed as per F-note above.
+>
+> E47: Previous affecting provision: subs. (8) amended (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 29, S.I. No. 455 of 2004, art. 2 and sch. part 1(a); section repealed as per F-note above.
+>
+> E48: Previous affecting provision: subss. (8) substituted and (9) inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 23 item 5, S.I. No. 160 of 2003; section repealed as per F-note above.
+
+### 76. Search and seizure.
+
+**76.** —F230[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F230: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and and sch. 2 part 1 item 7, S.I. No. 557 of 2012, subject to transitional provisions in subss. (6)-(8).
+
+### 77. Examination by Comptroller and Auditor General.
+
+**77.** — (1) The Comptroller and Auditor General may, in relation to the Bank or any subsidiary F231[...] of the Bank, carry out such examinations as he or she considers appropriate for the purposes of ascertaining—
+
+(*a*) whether and to what extent the resources of the Bank or any subsidiary of the Bank—
+
+(i) have been used, and
+
+(ii) if acquired or disposed of by the Bank or any subsidiary of the Bank, have been so acquired or disposed of, economically and efficiently,
+
+and
+
+(*b*) whether any such disposal has been effected upon the most favourable terms available.
+
+(2) Without prejudice to the generality of *subsection (1)*, the systems, procedures and practices employed by the Bank or any subsidiary of the Bank to evaluate the effectiveness of its operations may be examined by the Comptroller and Auditor General.
+
+(3) The Comptroller and Auditor General may, if he or she considers it appropriate to do so, prepare a special report in writing in relation to an examination carried out by him or her under this section or any general matters arising in relation to any such examination and shall submit a copy of the report to the Minister and shall, as soon as may be, submit a copy to the Bank.
+
+(4) The Minister shall cause a copy of a report submitted under *subsection (3)* to be laid before Dáil Éireann not later than three months after the date of submission to him or her.
+
+(5) The Comptroller and Auditor General may, with the consent of the Minister, require the Bank or any subsidiary of the Bank to pay to the Comptroller and Auditor General a fee of an amount calculated on such basis as he or she may determine after consultation with the Minister in respect of an examination under this section in relation to the Bank or any subsidiary of the Bank carried out by him or her pursuant to this Act or any other enactment.
+
+(6) A fee under this section may be recovered by the Comptroller and Auditor General as a simple contract debt in any court of competent jurisdiction.
+
+(7) A fee paid under this section shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister.
+
+(8) The Public Offices Fees Act, 1879, shall not apply in relation to a fee paid under this section.
+
+(9) The expenses incurred by the Comptroller and Auditor General in the administration of this section shall, to such extent as may be sanctioned by the Minister, be paid out of moneys provided by the Oireachtas.
+
+(10) The Comptroller and Auditor General or an officer of the Comptroller and Auditor General being a person referred to in section 16 (2) of the Comptroller and Auditor General (Amendment) Act, 1993, for the purpose of obtaining any information that is required for the performance of his or her functions, on production, in the case of the officer, of his or her authorisation, if so requested—
+
+(*a*) shall have access to and may take or at his or her request, shall be given such copies of or such extracts from such books, documents and records of the Bank or any subsidiary of the Bank as he or she may reasonably require,
+
+(*b*) shall have access to and may take or at his or her request, shall be given such copies of or such extracts from any data or data material of the Bank or any subsidiary of the Bank as he or she may reasonably require and may extract information from any such data,
+
+(*c*) may obtain from any officer, servant or employee of the Bank or any subsidiary of the Bank such information within his or her knowledge or control as he or she may reasonably require, including information in relation to the contents of any such books, documents or records as aforesaid, or in relation to the data aforesaid or the sources from which they are obtained or the data material aforesaid or any information extracted from such data.
+
+(11) An officer of the Comptroller and Auditor General or person referred to in section 16 (2) of the Comptroller and Auditor General (Amendment) Act, 1993, exercising powers conferred on him or her under this section shall be authorised in writing by the Comptroller and Auditor General to exercise the powers conferred on him or her under this section for the purposes of this section.
+
+F232[(12) In this section—
+
+‘automated data’ means information that—
+
+(*a*) is being processed by means of equipment operating automatically in response to instructions given for that purpose, or
+
+(*b*) is recorded with the intention that it should be processed by means of such equipment;
+
+‘data’ means automated data and manual data;
+
+‘data equipment’ means equipment for processing data;
+
+‘data material’ means any document or other material used in connection with, or produced by data equipment;
+
+‘manual data’ means information that is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system;
+
+‘relevant filing system’ means any set of information relating to individuals to the extent that, although the information is not processed by means of equipment operating automatically in response to instructions given for that purpose, the set is structured, either by reference to individuals or by reference to criteria relating to individuals, in such a way that specific information relating to a particular individual is readily accessible.]
+
+(13) The provisions of section 16 of the Comptroller and Auditor General (Amendment) Act, 1993, shall apply in respect of the functions of the Comptroller and Auditor General under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F231: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(6) and sch. 1 part 5 item 4, S.I. No. 469 of 2010.
+>
+> F232: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 183, S.I. No. 174 of 2018.
+>
+> **Editorial Notes:**
+>
+> E49: Previous affecting provision: subs. (1) amended (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 31, S.I. No. 455 of 2004, art. 2 and sch. part 1(a); amendment deleted as per F-note above.
+
+### 78. Amendment of Building Societies Act, 1989.
+
+**78.** — The Building Societies Act, 1989, is hereby amended by the insertion after section 101 of the following section:
+
+“101A.— (1) This section shall apply where a conversion scheme specifies rights of members of the society entitling them to shares in the successor company, to acquire shares in the successor company in priority to other subscribers or to any distribution of the funds of the society.
+
+(2) Notwithstanding any other provision of this Act, where—
+
+(*a*) a member held shares in the society for the whole of the specified period,
+
+(*b*) any shares held by that member were jointly held for the whole or part of the specified period,
+
+(*c*) that member is named second in the records of the society for the whole or part of the period the shares were jointly held, and
+
+(*d*) no person who has priority, in accordance with sub section (3), over the member referred to in paragraph (*a*) held shares in the society throughout the specified period,
+
+the shares jointly held shall be regarded as having been held alone by the member referred to in paragraph (*a*).
+
+(3) The following persons shall be regarded, for the purposes of subsection (2), as having priority over the member referred to in paragraph (*a*) of that subsection, namely—
+
+(a) where that member was the representative joint holder of the shares for part of the period the shares were jointly held, any person who was the representative joint holder for a later part of that period,
+
+(*b*) where that member was not the representative joint holder of the shares for any part of the period the shares were jointly held—
+
+(i) any person who was the representative joint holder of the shares for the whole or part of the period, and
+
+(ii) if, in relation to the shares jointly held, that member is named second in the records of the society for part only of the period the shares are so held, any person who was joint holder of the shares and who was named second in the records of the society for a later part of that period.
+
+(4) Where a member dies during the specified period at a time when the name of that member appears in the records of the society as a joint holder of shares, this section shall have effect in relation to any later time as if the member had never been so named.
+
+(5) In this section—
+
+“conversion scheme” means a conversion scheme where the conversion date falls after the passing of this Act;
+
+“specified period” means the period beginning two years before the end of the day on which notice is given to members of the conversion resolution and ending on the day on which the conversion resolution is passed.”.
+
+### 79. Information to be supplied by mortgage lenders.
+
+**79.** — Every mortgage lender shall submit to the Minister for the Environment such information and returns within such period as that Minister may require from time to time for the purposes of his functions in relation to the national housing programme.
+
+### 80. Amendment of Trustee (Authorised Investments) Act, 1958.
+
+**80.** — The Trustee (Authorised Investments) Act, 1958, is hereby amended—
+
+(*a*) by the substitution of the following section for section 2:
+
+“Variation by order of authorised investments.
+
+2.— (1) The Minister for Finance may by order vary by addition or deletion and may specify such conditions as he considers proper in respect of the investment of trust funds in—
+
+(*a*) the investments specified in section 1 (as amended by section 1 of this Act) of the Trustee Act, 1893, or
+
+(*b*) where those investments have been varied by order under this subsection or under any other statutory authority, those investments as so varied.
+
+(2) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and if either such House, within the next subsequent twenty-one days on which it has sat after such order is laid before it, passes a resolution annulling such order, such order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(3) Before making an order under this section the Minister shall consult—
+
+(*a*) the President of the High Court,
+
+(*b*) the Governor of the Central Bank,
+
+(*c*) the Public Trustee,
+
+(*d*) the Chairperson of the Irish Bankers Federation,
+
+(*e*) the President of the Law Society of Ireland, and
+
+(*f*) the Chairperson of the Irish Stock Exchange,
+
+in regard to the terms of the proposed order.
+
+(4) Nothing in this Act or in any order made under it shall authorise a trustee to do anything which he or she is expressly forbidden to do by the instrument creating the trust nor shall it prevent a trustee from doing anything which he or she is expressly permitted to do by the instrument creating the trust.”,
+
+and
+
+(*b*) by the substitution of the following section for section 5:
+
+“Saver for certain investments.
+
+5.— (1) Notwithstanding anything contained in this Act where trust funds within the meaning of the Trustee Act, 1893, or money under the control of or subject to the order of any Court stand or stands invested in a manner which was authorised by law when the investment was effected but which, apart from this section, has ceased to be so authorised, authority is hereby given to continue to keep the funds or money invested in that manner.
+
+(2) Where any condition specified in any order made under this Act would have the effect of requiring a trustee to dispose of any investment which was not in breach of any condition specified in any order made under this Act at the time the investment was effected, such trustee is hereby authorised to retain such investment.
+
+(3) Nothing in this section shall have the effect of removing from a trustee an obligation to comply with any condition specified in any order made under this Act in respect of any investment effected by such trustee after the coming into operation of any order made under this Act.”.
+
+### 81. Amendment of European Communities (Deposit Guarantee Schemes) Regulations, 1995.
+
+**81.** — The European Communities (Deposit Guarantee Schemes) Regulations, 1995 (S.I. No. 168 of 1995) are hereby amended—
+
+(*a*) in Regulation 3 (1), by the substitution in the definition of “relevant beneficial owner” of “10 per cent.” for “20 percent.”,
+
+and
+
+(*b*) in Regulation 16 (1), by the insertion of the following after paragraph (1) (*i*):
+
+“(*j*) deposits by financial institutions (as defined in Regulation 2 of the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992);
+
+(*k*) deposits by an insurer (as defined in section 2 of the Insurance Act, 1989);
+
+(*l*) deposits by the Government of any State or central administrative authority;
+
+(*m*) deposits by provincial, regional, local and municipal authorities;
+
+(*n*) deposits by—
+
+(i) undertakings for collective investments in transferable securities within the meaning of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 1989 (S.I. No. 78 of 1989),
+
+(ii) a unit trust, or
+
+(iii) other collective investment schemes;
+
+(*o*) deposits by pension and retirement funds;
+
+(*p*) debt securities issued by the same institution and liabilities arising out of own acceptances and promissory notes;
+
+(*q*) deposits by companies which are not permitted to draw up abridged balance sheets pursuant to section 10 (1) of the Companies (Amendment) Act, 1986, as amended by the European Communities (Accounts) Regulations, 1993 (S.I. No. 396 of 1993).”.
+
+### 82. References to company in ICC Bank Act, 1992.
+
+**82.** — F233[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F233: Repealed (12.02.2001) by *ICC Bank Act 2000* (32/2000), s. 7(1) and sch. part I, S.I. No. 46 of 2001.
+
+### 83. Amendment of Stock Transfer Act, 1963.
+
+**83.** — The Stock Transfer Act, 1963, is hereby amended—
+
+(*a*) in section 2, by the substitution—
+
+(i) in paragraphs (*d*) and (*e*) (inserted by the Stock Transfer (Forms) Regulations, 1991 (S.I. No. 77 of 1991)) of subsection (1), and
+
+(ii) in subsection (5) (inserted by those Regulations),
+
+for “Gilts Settlement Office”, in each place where it occurs, of “Central Bank of Ireland Securities Settlements Office”, and
+
+(*b*) in section 5, by the insertion of the following subsection after subsection (4) (inserted by the Companies (Amendment) Act, 1977):
+
+“(5) The Minister, having consulted with the Bank, may by regulation provide for the substitution for the references in that section of that name, of references to another name.”.
+
+### 84. Representative offices.
+
+**84.** — (1) Subject to such terms and conditions as may be specified by the Bank, nothing in section 7 of the Act of 1971 shall prohibit the establishment of a representative office in the State of a credit institution that is authorised in any state other than a Member State of the European Economic Area.
+
+(2) Every representative office to which *subsection (1)* relates shall comply with each and every term or condition specified by the Bank under that subsection in the interests of the proper and orderly regulation of banking.
+
+(3) Where the Bank is satisfied that the terms or conditions specified by the Bank under *subsection (1)* are not being complied with, it may direct the representative office to close and the office shall comply with any such direction within such period as may be specified by the Bank.
+
+(4) A representative office shall transact no banking business in the State other than the provision of advice and information on the services provided from outside the State by the credit institution concerned.
+
+(5) Notwithstanding anything contained in the *Central Bank Acts* F234[...], a representative office may use in its name or title the words “bank”, “banker” or “banking” or any variant or derivative thereof, subject to such terms or conditions as may be specified by the Bank.
+
+(6) In this section “representative office” includes a place of business not being a branch within the meaning of the Regulations of 1992.
+
+(7) (*a*) A representative office to whom a direction is given under *subsection (3)* may apply in a summary manner to the Court for, and the Court may grant, an order setting aside the direction.
+
+(*b*) The Bank may apply in a summary manner to the Court to have a direction by it under this section confirmed by the Court.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F234: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 32, S.I. No. 455 of 2004, art. 2 and sch. part 1(a).
+
+### 85. Amendment of Decimal Currency Act, 1969.
+
+**85.** — Section 4 (3) of the Decimal Currency Act, 1969, is hereby amended by the insertion of the following paragraph:
+
+“(*c*) paragraph (*b*) of this subsection shall not apply in the case of coins made for commemorative purposes and where the coins to which the order relates are composed in whole or in part of silver or gold.”.
+
+## SCHEDULE
+
+### PART I — Repeals
+
+| Number and year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 22 of 1942 | Central Bank Act, 1942. | Sections 12, 13, 14, 23 (5) and 25 (*d*). |
+| No. 3 of 1964 | Central Bank Act, 1964. | Sections 1 and 3 (i). |
+| No. 32 of 1988 | Multilateral Investment Guarantee Agency Act, 1988. | Section 3 (6). |
+| No. 16 of 1989 | Central Bank Act, 1989. | Section 75 (1) (*b*), 138, 139 (2). |
+| No. 1 of 1991 | European Bank for Reconstruction and Development Act, 1991. | Section 3 (6). |
+
+### PART II — Revocation
+
+| Number and year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| S.I. No. 329 of 1972 | European Communities (State Financial Transactions) Regulations, 1972. | Regulation 5. |
+
+[^1]: OJ No. L124, 20.5.2003, p. 36
+[^2]: OJ No. L347, 28.12.2017, p. 35
+[^3]: OJ No. L302, 17.11.2009, p. 32
+[^4]: OJ No. L335, 17.12.2009, p. 1
+[^5]: OJ No. L174, 1.7.2011, p. 1
+[^6]: OJ No. L302, 17.11.2009, p. 1
+[^7]: OJ No. L201, 27.7.2012, p. 1
+[^8]: OJ No. L116, 6.4.2021, p. 1
+[^9]: OJ No. L. 119, 4.5.2016, p.1.

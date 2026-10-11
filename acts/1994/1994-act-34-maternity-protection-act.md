@@ -1,0 +1,1865 @@
+---
+title: "Maternity Protection Act, 1994"
+identifier: "eli/1994/act/34"
+type: act
+jurisdiction: ie
+language: en
+number: 34
+year: 1994
+date: 1994-12-27
+last_amended: 2024-11-20
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1994/act/34/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1994/act/34/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Maternity Protection Act, 1994
+
+AN ACT TO IMPLEMENT COUNCIL DIRECTIVE 92/85/EEC OF 19 OCTOBER 1992 ON THE INTRODUCTION OF MEASURES TO ENCOURAGE IMPROVEMENTS IN THE SAFETY AND HEALTH AT WORK OF PREGNANT WORKERS AND WORKERS WHO HAVE RECENTLY GIVEN BIRTH OR ARE BREASTFEEDING, TO REENACT WITH AMENDMENTS THE PROVISIONS OF THE MATERNITY PROTECTION OF EMPLOYEES ACTS, 1981 AND 1991, TO ENTITLE A MALE EMPLOYEE TO LEAVE IN CERTAIN CASES WHERE THE MOTHER OF HIS CHILD DIES, TO EXTEND AS A CONSEQUENCE OF THE ABOVE-MENTIONED PROVISIONS THE PROTECTION AGAINST UNFAIR DISMISSALS CONFERRED BY THE UNFAIR DISMISSALS ACT, 1977, AND TO PROVIDE FOR RELATED MATTERS. [27*th December*, 1994]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (*a*) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Maternity Protection Acts 1994 and 2004
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Collectively cited *Maternity Protection Acts 1994 and 2004* included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 11, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E2: Previous affecting provision: functions transferred and terms “Department of Community, Equality and Gaeltacht Affairs” and “Minister for Community, Equality and Gaeltacht Affairs” construed (1.04.2011) by *Equality, Integration, Disability and Human Rights (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 139 of 2011), arts. 2, 3 and sch., subject to transitional provisions in arts. 4-8. Name of Minister and Department changed to Children and Youth Affairs and references construed (2.06.2011) by *Community, Equality and Gaeltacht Affairs (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 214 of 2011), in effect as per art. 1(2); superseded as per C-note above.
+>
+> E3: Previous affecting provision: functions transferred and terms “Department of Justice, Equality and Law Reform” and “Minister for Justice, Equality and Law Reform” construed as Department of/Minister for Community, Rural and Gaeltacht Affairs (1.06.2010) by *Equality, Integration, Disability and Human Rights (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 217 of 2010), arts. 2-3 and sch., subject to transitional provisions in arts. 4-8. Name of Minister and Department changed to Justice and Law Reform and references construed (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010); superseded as per E-note above.
+>
+> E4: Previous affecting provision: functions transferred and terms “Department of Equality and Law Reform” and “Minister for Equality and Law Reform” construed as Department of and Minister for Justice (8.07.1997) by *Equality and Law Reform (Transfer of Departmental Administration and Ministerial Functions) Order 1997* (S.I. No. 297 of 1997), arts. 2-4 and sch., subject to transitional provisions in arts. 5-9. Name of Department and Minister changed to Justice, Equality and Law Reform (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997); superseded as per E-note above.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Maternity Protection Act, 1994.
+
+(2) This Act shall come into operation on such day as may be fixed by order made by the Minister, and different days may be so fixed for different provisions and for different purposes.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to subs. (2) exercised (30.01.1995) by *Maternity Protection Act, 1994 (Commencement) Order 1995* (S.I. No. 16 of 1995).
+>
+> 2\. The 30th day of January, 1995, is hereby fixed as the day on which the Maternity Protection Act, 1994 shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act—
+
+“the 1977 Act” means the Unfair Dismissals Act, 1977;
+
+“the 1981 Act” means the Maternity Protection of Employees Act, 1981;
+
+“the 1989 Act” means the Safety, Health and Welfare at Work Act, 1989;
+
+“the 1992 Directive” means Council Directive 92/85/EEC of 19 October 1992 on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding;
+
+F1["Act of 2001" means the Local Government Act 2001;]
+
+F4["Act of 2015" means the Children and Family Relationships Act 2015;]
+
+“additional maternity leave” has the meaning assigned by *section 14*;
+
+“associated employer” has the meaning assigned by *section 27 (3)*;
+
+“the Authority” means the National Authority for Occupational Safety and Health;
+
+“confinement” and “the date of confinement” have the meanings respectively assigned to them by section 41 of the Social Welfare (Consolidation) Act, 1993;
+
+“contract of employment” means, subject to *subsection (2)*—
+
+(*a*) a contract of service or apprenticeship, or
+
+(*b*) any other contract whereby an individual agrees with a person who is carrying on the business of an employment agency, within the meaning of the Employment Agency Act, 1971, and is acting in the course of that business, to do or perform personally any work or service for another person (whether or not that other person is a party to the contract),
+
+whether the contract is express or implied and if express, whether it is oral or in writing;
+
+“employee”, subject to *subsection (2)*, means a person who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
+
+“employee who has recently given birth” means at any time an employee whose date of confinement was not more than 14 weeks earlier and who has informed her employer of her condition;
+
+F5[“employee who is breastfeeding” means at any time an employee whose date of confinement was not more than one hundred and four weeks earlier, who is breastfeeding and who has informed her employer of her condition;]
+
+“employer”, subject to *subsection (2)*, means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
+
+F4["expectant father" shall be construed in accordance with *subsection (1A)* (inserted by section 176 of the Act of 2015);]
+
+“job” has the meaning assigned by *section 26 (3)*;
+
+F2["local authority" has the meaning assigned to it by the Act of 2001;]
+
+“maternity leave” has the meaning assigned by *section 8*;
+
+“the Minister” means the Minister for Equality and Law Reform;
+
+F4["other parent" means a person (other than the mother) who is, under section 5 of the Act of 2015, a parent of a child;]
+
+F6["parent’s leave" has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;]
+
+F7["paternity leave" and "transferred paternity leave" have the same meanings as they have in the Paternity Leave and Benefit Act 2016;]
+
+“pregnant employee” means an employee who is pregnant and who has informed her employer of her condition;
+
+F8["premature birth period" has the meaning assigned to it by the Social Welfare Consolidation Act 2005;]
+
+“successor” has the meaning assigned by *section 26 (1)*;
+
+“the Tribunal” means the Employment Appeals Tribunal.
+
+F4[(1A) In this Act, a reference to an expectant father includes a person who has given his or her consent in accordance with section 11 of the Act of 2015 to a DAHR procedure (within the meaning of section 4 of that Act) where that procedure results in a pregnancy.]
+
+(2) For the purposes of this Act—
+
+(*a*) a person holding office under, or in the service of, the State (including a member of the Garda Síochána or the Defence Forces) or otherwise as a civil servant, within the meaning of the Civil Service Regulation Act, 1956, shall be deemed to be an employee employed by the State or Government, as the case may be, under a contract of service;
+
+(*b*) an officer or servant of a local authority for the purposes of the Local Government Act, 1941, a harbour authority, a health board or F9[a member of staff of an education and training board] shall be deemed to be an employee employed by the authority F9[or board], as the case may be, under a contract of F10[service;]
+
+(*c*) in relation to an employee whose contract of employment falls (or, where the employment has ceased, fell) within *paragraph (b)* of the definition of “contract of employment” in *subsection (1)*, the person who is liable to pay the employee’s wages shall be deemed to be F11[the employer; and]
+
+F3[(*d*) a member of a local authority shall be deemed to be an employee of the local authority employed under a contract of service for a fixed term.]
+
+(3) Subject to *subsections (1)* and *(2)*, expressions used in this Act have the same meaning as in the 1992 Directive.
+
+(4) In this Act a reference to a Part or section is to a Part or section of this Act, unless it is indicated that reference to some other enactment is intended.
+
+(5) In this Act a reference to a subsection or paragraph is to the subsection or paragraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(6) In this Act a reference to an enactment includes a reference to that enactment as amended by any other enactment, including this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3: Inserted (21.12.2022) by *Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022* (52/2023), s. 1(a)(i), (ii)(III), commenced on enactment.
+>
+> F4: Inserted (4.05.2020) by *Children and Family Relationships Act 2015* (9/2015), s. 176(a), S.I. No. 624 of 2019.
+>
+> F5: Substituted (1.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 34(a), S.I. No. 341 of 2023, art. 2(b).
+>
+> F6: Inserted (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 35(a), S.I. No. 629 of 2019.
+>
+> F7: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(a), S.I. No. 435 of 2016.
+>
+> F8: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(a), commenced on enactment.
+>
+> F9: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1), sch. 6 item 18, S.I. No. 211 of 2013.
+>
+> F10, F11: Substituted (21.12.2022) by *Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022* (52/2023), s. 1(a)(ii)(I), (II), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: functions transferred and Employment Appeals Tribunal construed by *Workplace Relations Act 2015* (16/2015), s. 66, not commenced as of date of revision.
+>
+> **Transfer of functions from Employment Appeals Tribunal**
+>
+> 66.(1) (*a*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Commission in so far as they relate to any claim for redress, dispute or complaint determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (*b*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Labour Court in so far as they relate to appeals determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (2) (*a*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (a) of subsection (1) shall be construed as references to the Commission.
+>
+> (*b*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (b) of subsection (1) shall be construed as references to the Labour Court.
+>
+> (3) This section shall come into operation on the dissolution day.
+>
+> C3: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (*a*) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> Adoptive Leave Acts 1995 and 2005
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E6: The *Safety, Health and Welfare At Work Act 1989* was repealed and replaced (1.09.2005) by *Safety, Health and Welfare At Work Act 2005* (10/2005), s. 4 and sch. 2 part 1, S.I. No. 328 of 2005.
+
+### 3. Orders and regulations.
+
+**3.**—(1) The Minister may, in relation to any provision of this Act relating to notification (or confirmation of notification), by order vary any such provision.
+
+(2) An order under this Act may contain such consequential, supplementary and ancillary provisions, including any provisions modifying any provision of this Act, as the Minister considers necessary or expedient.
+
+(3) Any power under this Act to make an order includes power to amend or revoke an order made in the exercise of that power.
+
+(4) Where an order is proposed to be made under this Act, other than an order under *section 1*, a draft of the order shall be laid before both Houses of the Oireachtas, and the order shall not be made until a resolution approving the draft has been passed by each such House.
+
+(5) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which the House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under the regulation.
+
+### 4. Voidance or modification of certain provisions in agreements.
+
+**4.**—(1) A provision in any agreement shall be void in so far as it purports to exclude or limit the application of any provision of this Act or is inconsistent with any provision of this Act.
+
+(2) A provision in any agreement which is or becomes less favourable in relation to an employee than a similar or corresponding entitlement conferred on the employee by this Act shall be deemed to be so modified as to be not less favourable.
+
+(3) Nothing in this Act shall be construed as prohibiting any agreement from containing any provision more favourable to an employee than any provision in *Parts II* to *VI*.
+
+(4) References in this section to an agreement are to any agreement, whether a contract of employment or not, and whether made before or after the commencement of this Act.
+
+### 5. Expenses.
+
+**5.**—Any expenses incurred by the Minister or the Minister for Enterprise and Employment in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 6. Repeal of 1981 Act, as amended.
+
+**6.**—(1) The Maternity Protection of Employees Acts, 1981 and 1991 (which are replaced by the provisions of this Act) are hereby repealed.
+
+(2) The repeal by this Act of the Maternity Protection of Employees Acts, 1981 and 1991 does not affect the construction of any reference in any other Act which defines “employee” or “employer” or any other expression by reference to those Acts (or the 1981 Act alone).
+
+(3) In section 37 (4) (*a*) of the Social Welfare (Consolidation) Act, 1993 for “the Maternity Protection of Employees Act, 1981” there shall be substituted “the *Maternity Protection Act, 1994*”.
+
+(4) In so far as any order or regulation made, notification given or other thing done under an enactment repealed by this Act could have been made, given or done under a corresponding provision of this Act, it shall have effect as if so made, given or done.
+
+(5) Where a period of time specified in any enactment repealed by this Act is current at the commencement of this Act, this Act shall have effect as if the corresponding provision thereof had been in force when that period began to run.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E7: The *Social Welfare (Consolidation) Act 1993* was repealed (1.12.2005) by *Social Welfare (Consolidation) Act 2005* (26/2005), s. 360 and sch. 7, S.I. No. 923 of 2005. The amendment in subs. (3) above had already been superseded (5.04.1995) by *Social Welfare Act 1995* (3/1995), s. 13(1)(d), commenced on enactment.
+
+## PART IIMaternity Leave — PART II — Maternity Leave
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E8: Redress and appeal procedures for dispute about entitlements under Part provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 3 item 1 and sch. 6 part 2 item 6, S.I. No. 410 of 2015.
+
+### 7. Interpretation of Part II.
+
+**7.**—(1) In this Part “the minimum period of maternity leave” has the meaning assigned by *section 8*.
+
+(2) F12[...]
+
+(3) References in this Part to a pregnant employee include, as respects any time before the expiry of her maternity leave, an employee who was pregnant immediately before that leave began.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Deleted (1.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 34(b), S.I. No. 341 of 2023, art. 2(b).
+
+### 8. Entitlement to maternity leave.
+
+F13[**8.**—(1) Subject to this Part, a pregnant employee shall be entitled to leave, to be known (and referred to in this Act) as "maternity leave", from her employment for a period (in this Part referred to as "the minimum period of maternity leave" of not less than—
+
+(*a*) F14[26 consecutive weeks], or
+
+(*b*) F15[26 weeks] part of which is postponed in accordance with F16[*section 14B* or *section 14C*],
+
+as may be appropriate.
+
+F17[(1A) Subject to this Part, a pregnant employee referred to in *subsection (1)* shall be entitled to a further period of maternity leave that is in addition to the minimum period of maternity leave referred to in *paragraphs (a)* or *(b)* of *subsection (1)*, if, on or after 1 October 2017 the date of confinement occurs more than 2 weeks before the expected week of confinement.
+
+(1B) The duration of the further period of maternity leave referred to in *subsection (1A)* shall be equal to the duration of the premature birth period.]
+
+(2) The Minister may by order, made with the consent of the Minister for Social and Family Affairs and the consent of the Minister for Finance, amend *subsection (1)* and *section 13(2)* so as to extend the period mentioned in each of those subsections.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 2, S.I. No. 652 of 2004.
+>
+> F14: Substituted (1.02.2007) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 8(a), in effect as per art. 2.
+>
+> F15: Substituted (1.02.2007) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 8(b), in effect as per art. 2.
+>
+> F16: Substituted (20.11.2024) by *Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024* (37/2024), s. 3(a), S.I. No. 630 of 2024.
+>
+> F17: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(b), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by *paragraph (1)* shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in *Schedule 1*, and
+>
+> (*b*) the statutory instruments specified in *Schedule 2*,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 34 of 1994</td><td>Maternity Protection Act 1994</td><td>Sections 8(2), 16(8) and 18(5)(a)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), arts. 4 and 8, in force as per art. 2.
+>
+> E10: Previous affecting provision: section amended (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order, 2006* (S.I. No. 51 of 2006), art. 4, superseded by art. 8 of the same instrument above.
+>
+> E11: Previous affecting provision: section amended (8.02.2001) by *Maternity Protection Act, 1994 (Extension of Periods of Leave) Order, 2001* (S.I. No. 29 of 2001), art. 4; revoked (18.10.2004) by *Maternity Protection Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+
+### 8A. Supplemental provisions relating to premature birth period
+
+F18[**8A.**—The further period of maternity leave referred to in *section 8(1A)* shall be without prejudice to *sections 12*, *14*, *14A* and *14B*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(c), commenced on enactment.
+
+### 9. Notification to employer.
+
+**9.**—(1) F19[Subject to *subsection (3)*, entitlement] to the minimum period of maternity leave shall be subject to a pregnant employee—
+
+(*a*) having, as soon as reasonably practicable but not later than four weeks before the commencement of maternity leave, notified in writing her employer (or caused her employer to be so notified) of her intention to take maternity leave; and
+
+(*b*) having, at the time of the notification, given to her employer or produced for her employer’s inspection a medical or other appropriate certificate confirming the pregnancy and specifying the expected week of confinement.
+
+(2) A notification under this section may be revoked by a further notification in writing by the employee concerned to her employer.
+
+F20[(3) A notification under this section required to be effected by a member of a local authority to the local authority shall be effected by giving the notification to the meetings administrator, referred to in section 46 of the Act of 2001, of the local authority.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19, F20: Inserted (21.12.2022) by *Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022* (52/2023), s. 1(b)(i), (ii), commenced on enactment.
+
+### 10. Allocation of minimum period of maternity leave.
+
+**10.**—(1) Subject to *subsection (2)* and *sections 11* to *13*, the minimum period of maternity leave shall commence on such day as the employee selects, being F21[not later than two weeks before the end of the expected week of confinement], and shall end on such day as she selects, being not earlier than four weeks after the end of the expected week of confinement.
+
+(2) Where an employee is employed under a contract for a fixed term and that term expires before the day which, apart from this subsection, would be the last day of her maternity leave, then—
+
+(*a*) notwithstanding any other provision in this Part, the last day of her maternity leave shall be the day on which the term expires; and
+
+(*b*) nothing in this Part shall affect the termination of the employee’s contract of employment on that day.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 3, S.I. No. 652 of 2004.
+
+### 11. Variation in allocation of minimum period of maternity leave.
+
+**11.**—(1) Where it is certified by a registered medical practitioner or otherwise to the satisfaction of the Minister and the Minister for Social Welfare that, for an employee specified in the certificate, the minimum period of maternity leave should for a medical reason so specified commence on a date so specified, and the certificate is produced for inspection by the employer concerned within such period as may be prescribed by regulations made by the Minister under this section, the minimum period of maternity leave for that employee shall commence on the date so specified.
+
+(2) Where a certificate under this section is issued and the requirement in *subsection (1)* relating to the production of the certificate for the employer’s inspection is complied with, the employee specified in the certificate—
+
+(*a*) shall be taken to have informed her employer of her pregnancy (if she had not previously done so); and
+
+(*b*) shall be deemed to have complied also with *section 9 (1) (a)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E12: Reference to registered medical practitioner construed (3.07.2008) by *Medical Practitioners Act 2007* (25/2007), s. 108, S.I. No. 231 of 2008.
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc.**
+>
+> **108.**— (1) Every reference to a registered medical practitioner contained in any enactment or any statutory instrument shall be construed as a reference to a registered medical practitioner within the meaning of section 2.
+>
+> ...
+
+### 12. Extension of maternity leave.
+
+**12.**—(1) Where the date of confinement of a pregnant employee occurs in a week after the expected week of confinement, the minimum period of maternity leave shall be extended by such number of consecutive weeks (subject to a maximum of four consecutive weeks) after the week in which the date of confinement occurs as ensures compliance with *section 10*.
+
+(2) Where the minimum period of maternity leave is proposed to be extended under this section, the employee concerned shall—
+
+(*a*) as soon as practicable after the proposal for such extension, notify in writing her employer (or cause her employer to be so notified) of the proposed extension; and
+
+(*b*) as soon as practicable after the date of confinement, confirm in writing to her employer the notification under *paragraph (a)* and specify the duration of the extension.
+
+### 13. Commencement of maternity leave (early confinement).
+
+**13.**—(1) Where, in relation to a pregnant employee, the date of confinement occurs in a week that is four weeks or more before the expected week of confinement, the employee shall, where the circumstances so require, be deemed to have complied with *section 9 (1) (a)* if the notification required by that section is given in the period of 14 days commencing on the date of confinement.
+
+F22[(2) Notwithstanding *section 10(1)*, but subject to regulations under *section 11*, the minimum period of maternity leave for an employee referred to in *subsection (1)* shall be a period of not less than—
+
+(*a*) F23[26 consecutive weeks] F24[and a further period of maternity leave in respect of a date of confinement that occurred on or after 1 October 2017, the duration of which is equal to the duration of the premature birth period], or
+
+(*b*) F23[26 weeks] F24[and a further period of maternity leave in respect of a date of confinement that occurred on or after 1 October 2017, the duration of which is equal to the duration of the premature birth period] part of which is postponed in accordance with F25[*section 14B* or *section 14C*],
+
+as may be appropriate, commencing on whichever of the following is the earlier—
+
+(i) the first day of maternity leave taken in accordance with *section 10*, or
+
+(ii) the date of confinement.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 4, S.I. No. 652 of 2004.
+>
+> F23: Substituted (1.02.2007) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 9(a) and (b), in force as per art. 2.
+>
+> F24: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(d), commenced on enactment.
+>
+> F25: Substituted (20.11.2024) by *Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024* (37/2024), s. 3(b), S.I. No. 630 of 2024.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: subs. (2) substituted (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 5, in force as per art. 2 and superseded by art. 9 of the same instrument above.
+>
+> E14: Previous affecting provision: subs. (2) substituted (8.02.2001) by *Maternity Protection Act, 1994 (Extension of Periods of Leave) Order 2001* (S.I. No. 29 of 2001), art. 5, in force as per art. 2; revoked (18.10.2004) by *Maternity Protection Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+
+### 13A. Additional provision for certain early confinement circumstances
+
+F26[**13A.**—Where, on or after 1 October 2017, the date of confinement of a pregnant employee occurs more than 2 weeks before the expected week of confinement but less than 4 weeks before that expected week, notwithstanding *section 10(1)*, the minimum period of maternity leave for a pregnant employee other than a pregnant employee referred to in *section 13(1)* or *13(2)*, shall be a period of not less than—
+
+(*a*) 26 consecutive weeks and a further period of maternity leave the duration of which is equal to the duration of the premature birth period, or
+
+(*b*) 26 weeks and a further period of maternity leave the duration of which is equal to the duration of the premature birth period part of which is postponed in accordance with *section 14B*,
+
+and which commences on the date of confinement.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(e), commenced on enactment.
+
+### 14. Entitlement to additional maternity leave.
+
+**14.**—F27[(1) An employee who has taken maternity leave shall, if she so wishes, be entitled in accordance with this section to further leave from her employment, to be known (and referred to in this Act) as "additional maternity leave", for a maximum period of—
+
+(*a*) F28[16 consecutive weeks] commencing immediately after the end of her maternity leave F29[and, where applicable, any period of transferred paternity leave taken by her], or
+
+(*b*) F28[16 weeks], all or part of which is postponed in accordance with *section 14B*, commencing either in accordance with that section or immediately after the end of her maternity leave F29[and, where applicable, any period of transferred paternity leave taken by her],
+
+as may be appropriate.]
+
+(2) An employee shall be entitled to additional maternity leave, whether or not the minimum period of maternity leave has been extended under section 12.
+
+(3) F27[Subject to *section 14B*, entitlement to additional maternity leave] shall be subject to an employee having notified in writing her employer (or caused her employer to be so notified) in accordance with *subsection (4)* of her intention to take such leave.
+
+F30[(4) Notification under *subsection (3)* shall be given either at the same time as the relevant notification under *section 9* or not later than four weeks before—
+
+(*a*) the date which would have been the employee’s expected date of return to work under *Part IV* if she had not taken the additional maternity leave, or
+
+(*b*) where the employee takes transferred paternity leave, the date on which the additional maternity leave is, under *subsection (1)*, to commence.]
+
+(5) A notification under this section may be revoked by a further notification in writing given by or on behalf of the employee concerned to her employer not later than four weeks before the date which would have been her expected date of return to work under *Part IV* if she had not taken the additional maternity leave.
+
+F27[(6) The Minister may by order amend *subsection (1)* so as to extend the period mentioned in that subsection.]
+
+F31[(7) Where pursuant to *section 8*, a pregnant employee is entitled to a further period of leave referred to in *subsection (1A)* of that section, nothing in *section 8*, *13* or *13A* shall operate to prevent the entitlement of the pregnant employee to additional maternity leave under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 5, S.I. No. 652 of 2004.
+>
+> F28: Substituted (1.02.2007) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 10(a) and (b), in force as per art. 2.
+>
+> F29: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(b)(i), S.I. No. 435 of 2016.
+>
+> F30: Substituted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(b)(ii), S.I. No. 435 of 2016.
+>
+> F31: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(f), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E15: Power pursuant to section exercised (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), in force as per art. 2.
+>
+> E16: Previous affecting provision: power pursuant to section exercised (8.02.2001) by *Maternity Protection Act, 1994 (Extension of Periods of Leave) Order 2001* (S.I. No. 29 of 2001); revoked (18.10.2004) by *Maternity Protection Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+>
+> E17: Previous affection provision: subs. (1)(a) and (b) substituted (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 6, in force as per art. 2; superseded by art. 10 of the same instrument above.
+>
+> E18: Previous affecting provision: subs. (1) substituted (8.02.2001) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2001* (S.I. No. 29 of 2001), art. 6, in force as per art. 2); revoked (18.10.2004) by *Maternity Protection Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+
+### 14A. Termination of additional maternity leave in event of sickness of mother.
+
+F32[**14A.**—(1) If, at any time—
+
+(*a*) during the last 4 weeks of maternity leave whether or not part of such leave is F33[postponed under *section 14B* or *section 14C*] and where, in accordance with *section 14(4)*, an employee has, or is deemed under *section 14B(3)* to have, notified her employer, or caused her employer to be notified, of her intention to take additional maternity leave, or
+
+(*b*) during the additional maternity leave whether or not such leave or part of it is postponed under *section 14B*,
+
+an employee who is sick wishes to terminate the additional maternity leave, she may request in writing (or cause a written request to be submitted to) her employer to terminate the additional maternity leave.
+
+(2) An employer who receives a request under *subsection (1)* may agree to terminate the additional maternity leave of the employee concerned and, if the employer does so, the additional maternity leave shall terminate on a date agreed by the employee and the employer that is not earlier than the date of the commencement of the employee’s sickness and not later than the date on which the additional maternity leave would have ended in accordance with the notification given by the employee to the employer under *section 14(4)* or *14B(8)*, as the case may be.
+
+(3) An employer who receives a request under *subsection (1)* shall notify the employee concerned in writing of the employer’s decision in relation to the request as soon as reasonably practicable following the receipt of it.
+
+(4) Where the additional maternity leave of an employee is terminated under this section—
+
+(*a*) the absence from work of the employee due to sickness following such termination shall be treated in the same manner as any absence from work of the employee due to sickness, and
+
+(*b*) the employee shall not be entitled to the additional maternity leave or the part of it not taken by her at the date of such termination.]
+
+F34[(5) A reference in *subsection (1)* to the last 4 weeks of maternity leave shall, in the case of an employee who takes transferred paternity leave, be construed as a reference to the last 2 weeks of maternity leave and the period of that transferred paternity leave.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s.6, S.I. No. 652 of 2004.
+>
+> F33: Substituted (20.11.2024) by *Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024* (37/2024), s. 3(c), S.I. No. 630 of 2024.
+>
+> F34: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(c), S.I. No. 435 of 2016.
+
+### 14B. Postponement of maternity leave or additional maternity leave in event of hospitalisation of child.
+
+F35[**14B.**—(1) F36[Subject to *subsection (2)* and *section 14C(10)*], an employee who is on maternity leave or is entitled to, or is on, additional maternity leave may, if the child in connection with whose birth she is on, or is entitled to, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) her employer to postpone—
+
+(*a*) part of the maternity leave,
+
+(*b*) part of the maternity leave and the additional maternity leave, or
+
+(*c*) the additional maternity leave or part of it.
+
+as may be appropriate, in accordance with this section.
+
+(2) An employee may make a request under *paragraph (a)* or *(b)* of *subsection (1)* to postpone part of her maternity leave with effect from a date she selects only if the period of maternity leave taken by her on that date is not less than 14 weeks and not less than 4 of those weeks are after the end of the week of confinement.
+
+(3) Notwithstanding the fact that an employee who is on maternity leave has not in accordance with *section 14(4)* notified her employer in writing (or caused her employer to be so notified) of her intention to take additional maternity leave, she shall be deemed, for the purposes of making a request under *paragraph (b)* or *(c)* of *subsection (1)*, to have complied with *section 14(4)*.
+
+(4) An employer who receives a request under *subsection (1)* may agree to postpone the leave concerned and, if the employer does so—
+
+(*a*) the employee concerned shall return to work on a date agreed by her and the employer that is not later than the date on which the leave concerned is due to end in accordance with the notification given, or deemed under *subsection (3)* to have been given, by the employee to the employer under *section 9* or *14*, as the case may be,
+
+(*b*) the leave concerned shall be postponed with effect from the date agreed under *paragraph (a)*, and
+
+(*c*) the employee concerned shall be entitled to—
+
+(i) the part of the maternity leave,
+
+(ii) the part of the maternity leave and the additional maternity leave, or
+
+(iii) the additional maternity leave or the part of it,
+
+as the case may be, not taken by her by reason of the postponement (in this section referred to as "resumed leave") in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
+
+(5) An employer who receives a request under *subsection (1)* shall notify the employee concerned in writing of the employer’s decision in relation to the request as soon as reasonably practicable following the receipt of it.
+
+(6) Where, following the postponement of leave under this section, an employee returns to work in accordance with *subsection (4)(a)* and during the period of the postponement she is absent from work due to sickness, the employee shall be deemed to commence resumed leave on the first day of such absence unless she notifies her employer in writing (or causes her employer to be so notified) as soon as reasonably practicable that she does not wish to commence such leave and, following such notification—
+
+(*a*) the absence from work of the employee due to sickness shall be treated in the same manner as any absence from work of the employee due to sickness, and
+
+(*b*) the employee shall not be entitled to the resumed leave.
+
+(7) Without prejudice to the generality of *subsection (4)*, regulations under this section may make provision in relation to either or both of the following matters:
+
+(*a*) the maximum period of postponement of leave under this section, and
+
+(*b*) the evidence to be furnished by an employee to her employer of the hospitalisation, and the discharge from hospital, of the child.
+
+(8) Entitlement to resumed leave shall, subject to *subsection (10)*, be subject to an employee having notified her employer in writing (or caused her employer to be so notified) as soon as reasonably practicable but not later than the day on which the leave begins of her intention to commence such leave.
+
+(9) A notification under *subsection (8)* may be revoked by a further notification in writing given by or on behalf of the employee concerned to her employer within the period specified in that subsection for the giving of the notification concerned.
+
+(10) An employer may, at the discretion of the employer, waive the right to receive a notification in accordance with *subsection (8)*.
+
+(11) Where an employee’s leave is postponed under this section—
+
+(*a*) subject to *paragraphs (b)* and *(c)*, the employee shall comply with *subsection (1A)*, in lieu of *subsection (1)*, of *section 28*,
+
+(*b*) the employee shall not, in relation to returning to work under *subsection (4)(a)*, be required to comply with *section 28*, and
+
+(*c*) the employee shall, if deemed under *subsection (6)* to be on resumed leave, comply with *subsection (1B)*, in lieu of *subsection (1)* or *(1A)*, of *section 28*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 7, S.I. No. 652 of 2004.
+>
+> F36: Substituted (20.11.2024) by *Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024* (37/2024), s. 3(d), S.I. No. 630 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section affected (18.10.2004) by *Maternity Protection (Postponement of Leave) Regulations 2004* (S.I. No. 655 of 2004), regs. 3 and 4, in force as per reg. 1(2).
+>
+> 3\. The maximum period of postponement of leave under section 14B or 16B of the Principal Act is 6 months.
+>
+> 4\. The evidence to be furnished by an employee or an employed father to her or his employer, if so requested by the employer, for the purposes of section 14B or 16B, as the case may be, of the Principal Act shall be—
+>
+> (*a*) a letter or other appropriate document from the hospital in which the child concerned is hospitalised confirming the hospitalisation, and
+>
+> (*b*) a letter or other appropriate document from the hospital concerned or the child’s medical practitioner confirming that the child has been discharged from hospital and the date of that discharge.
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to section exercised (18.10.2004) by *Maternity Protection (Postponement of Leave) Regulations 2004* (S.I. No. 655 of 2004).
+
+### 14C. Postponement of maternity leave in event of serious health condition of relevant employee
+
+F37[**14C.**—(1) A relevant employee may, in accordance with this section, notify her employer, or cause her employer to be notified, in writing (in this section referred to as a "relevant notification") that she intends to postpone the commencement of all or part of her maternity leave to such date that is not later than 52 weeks from the date on which the postponement (in this section referred to as the "first postponement") is to commence.
+
+(2) A relevant notification shall—
+
+(*a*) subject to *subsection (5)*, specify the date on which the proposed postponement is to—
+
+(i) commence, and
+
+(ii) end (referred to in this section as the "end date"), which date shall be at least 5 weeks from the date referred to in *subparagraph (i)*,
+
+and
+
+(*b*) be accompanied by a medical certificate signed by a relevant medical practitioner and specifying the dates referred to in *paragraph (a)*.
+
+(3) A relevant employee shall make a relevant notification not later than 2 weeks before the date on which the proposed postponement is to commence.
+
+(4) Where a relevant notification has been made in accordance with *subsections (1), (2)* and *(3)*—
+
+(*a*) the maternity leave concerned shall be postponed with effect from the date specified in the relevant notification,
+
+(*b*) subject to *subsection (5)*, the postponement shall end on the end date, and
+
+(*c*) the relevant employee shall be entitled to the maternity leave, or part thereof, as the case may be, (in this section referred to as "relevant resumed leave") not taken by the relevant employee by reason of the postponement, to be taken in one continuous period commencing on the day immediately after the end date.
+
+(5) Entitlement to relevant resumed leave shall be subject to a relevant employee having notified her employer in writing (or caused her employer to be so notified) as soon as reasonably practicable but not later than the day on which the leave begins of her intention to commence such leave.
+
+(6) Subject to *subsections (7), (8)* and *(9)*, a relevant employee who has postponed all or part of her maternity leave in accordance with *subsection (4)(a)* may, once only, notify her employer, or cause her employer to be notified, in writing (in this section referred to as a "second notification") that she intends to further postpone (referred to in this section as the "second postponement") the commencement of her maternity leave, or the part of the maternity leave that she has not yet taken, to a date that is not later than 52 weeks from the date on which the first postponement is to commence.
+
+(7) A second notification shall—
+
+(*a*) specify the date on which the second postponement is to—
+
+(i) commence (referred to in this section as the "second commencement date") and which shall be no later than the end date, and
+
+(ii) end (referred to in this section as the "second end date"),
+
+and
+
+(*b*) be accompanied by a medical certificate signed by a relevant medical practitioner and specifying the dates referred to in *paragraph (a)*.
+
+(8) A relevant employee shall make a second notification not later than 2 weeks before the second commencement date.
+
+(9) Where a second notification has been made in accordance with *subsections (6), (7)* and *(8)*—
+
+(*a*) the maternity leave concerned shall be postponed with effect from the second commencement date,
+
+(*b*) the second postponement shall end on the second end date, and
+
+(*c*) the relevant employee shall be entitled to the maternity leave, or part thereof, as the case may be, not taken by the relevant employee by reason of the first postponement and the second postponement, to be taken in one continuous period commencing on the day immediately after the second end date.
+
+(10) An employee to whom *subsection (1)* of *section 14B* and *subsection (1)* apply shall not be entitled to postpone maternity leave under *section 14B* and this section in respect of the same birth.
+
+(11) In this section—
+
+"Act of 2007" means the Medical Practitioners Act 2007;
+
+“maternity leave” includes, where applicable, a further period of maternity leave referred to in *section 8*, *section 13(2)*, or *section 13B*;
+
+“medical practitioner”, “register” and “Specialist Division” have the same meanings as they have in the Act of 2007;
+
+“necessary medical intervention”, in relation to mental health, means inpatient hospital treatment;
+
+“relevant employee” means an employee who—
+
+(*a*) is—
+
+(i) a pregnant employee, or
+
+(ii) on maternity leave, and
+
+(*b*) has a serious health condition;
+
+“relevant medical practitioner” means a medical practitioner who—
+
+(*a*) is for the time being registered in the Specialist Division of the register of medical practitioners pursuant to section 47 of the Act of 2007 and is a specialist in a medical speciality recognised by the Medical Council under section 89 of that Act, and
+
+(*b*) is treating, or is responsible for the treatment of, the relevant employee concerned in relation to the serious health condition concerned;
+
+“serious health condition” means a health condition that—
+
+(*a*) entails a serious risk to the life or health, including the mental health, of an employee, and
+
+(*b*) in order to address the risk, requires necessary medical intervention that is ongoing for a period of time to be carried out in respect of the employee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (20.11.2024) by *Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024* (37/2024), s. 3(e), S.I. No. 630 of 2024.
+>
+> **Editorial Notes:**
+>
+> E20: The reference in the definition of “maternity leave” to section 13B appears to be a typographical error and should likely be read as a reference to section 14B.
+
+### 15. Right to time off from work for antenatal or post-natal care.
+
+**15.**—(1) For the purpose of receiving ante-natal or post-natal care or both, an employee shall be entitled to time off from her work, without loss of pay, in accordance with regulations made under this section by the Minister.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may make provision in relation to all or any of the following matters—
+
+(*a*) the amount of time off to which an employee shall be entitled under this section;
+
+(*b*) the terms or conditions relating to such time off;
+
+(*c*) the notice to be given in advance by an employee so entitled to her employer (including any circumstances in which such notice need not be given);
+
+(*d*) the evidence to be furnished by an employee so entitled to her employer of any appropriate medical or related appointment.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant to section exercised (30.01.1995) by *Maternity Protection (Time Off For Ante-Natal and Post-Natal Care) Regulations 1995* (S.I. No. 18 of 1995).
+
+### 15A. Entitlement to time off from work to attend ante-natal classes.
+
+F38[**15A.**—(1) Subject to *subsection (3)*, a pregnant employee shall be entitled to time off from her work, without loss of pay, in accordance with regulations made under this section by the Minister, for the purpose of attending one set of ante-natal classes (other than the last 3 classes in such a set) and those classes may be attended by her during one or more pregnancies.
+
+(2) Subject to *subsection (3)*, an expectant father of a child (if he is employed under a contract of employment) shall be entitled once only to time off from his work, without loss of pay, in accordance with regulations made under this section by the Minister, for the purpose of attending the last 2 ante-natal classes in a set of such classes attended by the expectant mother of their child before the birth of the child.
+
+(3) *Subsection (1)* or *(2)* shall not apply—
+
+(*a*) to a member of the Defence Forces who is—
+
+(i) on active service within the meaning of section 5 of the Defence Act 1954 or deemed to be on active service within the meaning of section 4(1) of the Defence (Amendment) (No. 2) Act 1960,
+
+(ii) engaged in operational duties at sea,
+
+(iii) engaged in operations in aid of the civil power,
+
+(iv) engaged in training that is directly associated with any of the activities referred to in *subparagraphs (i)*, *(ii)* and *(iii)* of this paragraph, or
+
+(v) engaged in any other duty outside the State,
+
+(*b*) if the Chief of Staff of the Defence Forces in exceptional circumstances so directs, to a member of the Defence Forces who is required to perform a duty which is, in the opinion of the Chief of Staff of the Defence Forces, of a special or urgent nature for so long as the member is performing the duty,
+
+(*c*) to a member of the Garda Síochána who is on the direction, or with the consent, of the Commissioner of the Garda Síochána serving outside the State performing duties of a police character or advising others on, or monitoring them in, the performance of such duties or any related duties for so long as the member is so serving, and
+
+(*d*) if the Commissioner of the Garda Síochána in exceptional circumstances so directs, to a member of the Garda Síochána who is required to perform a duty which is, in the opinion of the Commissioner of the Garda Síochána, of a special or urgent nature for so long as the member is performing the duty.
+
+(4) Without prejudice to the generality of *subsections (1)* and *(2)*, regulations under this section may make provision in relation to all or any of the following matters:
+
+(*a*) the amount of time off to be allowed for attendance at ante-natal classes;
+
+(*b*) the terms or conditions relating to such time off;
+
+(*c*) the notice to be given in advance by a pregnant employee or an expectant father entitled to time off under this section to her or his employer;
+
+(*d*) the evidence to be furnished by a pregnant employee or an expectant father so entitled to her or his employer of ante-natal classes that she or he is to attend.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 8, S.I. No. 652 of 2004.
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to section exercised (18.10.2004) by *Maternity Protection (Time Off For Ante-Natal Classes) Regulations 2004* (S.I. No. 653 of 2004).
+
+### 15B. Entitlement to time off from work or reduction of working hours for breastfeeding.
+
+F39[**15B.**—(1) An employee who is breastfeeding shall be entitled, without loss of pay, at the option of her employer to either—
+
+(*a*) time off from her work for the purpose of breastfeeding in the workplace in accordance with regulations made under this section by the Minister where facilities for breastfeeding are provided in the workplace by her employer, or
+
+(*b*) a reduction of her working hours in accordance with regulations made under this section by the Minister for the purpose of breastfeeding otherwise than in the workplace.
+
+(2) An employer shall not be required to provide facilities for breastfeeding in the workplace if the provision of such facilities would give rise to a cost, other than a nominal cost, to the employer.
+
+(3) Without prejudice to the generality of *subsection (1)*, regulations under this section may make provision in relation to all or any of the following matters:
+
+(*a*) the amount of time off and the number and frequency of breastfeeding breaks to which an employee is entitled under *paragraph (a)* of that subsection;
+
+(*b*) the reduction of working hours to which an employee is entitled under *paragraph (b)* of that subsection;
+
+(*c*) the terms or conditions relating to time off under *paragraph (a)*, or to a reduction of working hours under *paragraph (b)*, of that subsection;
+
+(*d*) the notice to be given in advance by an employee to her employer in relation to the proposed exercise by her of her entitlement under this section:
+
+(*e*) the evidence to be furnished by such an employee to her employer in relation to the date of confinement.
+
+(4) If an employee who has exercised her entitlement under *subsection (1)* ceases to breastfeed, she shall, at the earliest practical time, notify her employer in writing that she has so ceased.
+
+(5) In this section "breastfeeding" means breastfeeding a child or expressing breast milk and feeding it to a child immediately or storing it for the purpose of feeding it to the child at a later time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 9, S.I. No. 652 of 2004.
+>
+> **Editorial Notes:**
+>
+> E23: Power pursuant to section exercised (3.07.2023) by *Maternity Protection (Protection of Mothers Who Are Breastfeeding) Regulations 2023* (S.I. No. 342 of 2023), in effect as per reg. 1(2).
+>
+> E24: Power pursuant to section exercised (18.10.2004) by *Maternity Protection (Protection of Mothers Who Are Breastfeeding) Regulations 2004* (S.I. No. 654 of 2004).
+
+### 16. Entitlement of employed F40[father or other parent, as the case may be,] to leave on death of mother.
+
+**16.**—F41[(1) If a F42[woman or other person] who has been delivered of a living child (in this section referred to as "the mother") dies at any time before the expiry of the F43[fortieth week] following the week of her confinement, the F40[father or other parent, as the case may be,] of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section to leave from his employment for a period ending as follows—
+
+(*a*) if the mother dies before the expiry of the F43[twenty-fourth week] following the week of her confinement, the period ends, subject to *section 16B*, at the end of that F43[twenty-fourth week], and
+
+(*b*) if the mother dies at any time after the expiry of that F43[twenty-fourth week], the period ends, subject to *sections 16A* and *16B*, at the end of the F43[fortieth week] following the week of her confinement.]
+
+F44[(1A) Where—
+
+(*a*) on or after 1 October 2017, the date of confinement of a mother occurred more than 2 weeks before the expected week of confinement, and
+
+(*b*) the mother dies at any time on or before the expiry of the combined period,
+
+the father of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section, and subject to F45[*subsections (10)* and *(10A)*], to leave from his employment for a period, if the mother dies on or before the expiry of the combined period, ending at the end of the unexpired portion of that combined period.]
+
+(2) Entitlement to leave under *subsection (1)* shall be subject to the F40[father or other parent, as the case may be,]—
+
+(*a*) notifying his employer in writing (or causing his employer to be so notified) not later than the day on which his leave begins of the death of the mother, of his intention to take leave under *subsection (1)* F46[or *(1A)*] and of the length of the leave to which he believes he is so entitled; and
+
+(*b*) if requested by his employer, causing his employer to be supplied, as soon as is reasonably practicable, with a copy of the death certificate made in respect of the mother and of the birth certificate in respect of the child.
+
+F41[(3) F47[Subject to F45[*subsections (10)* and *(10A)*] and *section 16B*], the period of leave under *subsection (1)* F46[or *(1A)*] shall commence within 7 days of the mother’s death; and in this section and *sections 16A* and *16B*—
+
+(*a*) a period of leave which ends as mentioned in *paragraph (a)* of *subsection (1)* is referred to as "*subsection (1)(a)* leave", and
+
+F46[(*aa*) a period of leave which ends as mentioned in *subsection (1A)* is referred to as "*subsection (1A)* leave",]
+
+(*b*) a period of leave which ends as mentioned in *paragraph (b)* of that subsection is referred to as "*subsection (1)(b)* leave".
+
+(4) A F40[father or other parent, as the case may be,] who has taken *subsection (1)(a)* leave shall, if he so wishes, be entitled to further leave from his employment for a maximum period of—
+
+(*a*) F43[16 consecutive weeks] commencing immediately after the end of his *subsection (1) (*a*)* leave F48[or, where applicable, paternity leave under section 13(1) of the Paternity Leave and Benefit Act 2016], or
+
+(*b*) F43[16 weeks], all or part of which is postponed in accordance with *section 16B*, commencing either in accordance with that section or immediately after the end of his *subsection (1)(a)* leave F48[or, where applicable, paternity leave under section 13(1) of the Paternity Leave and Benefit Act 2016],
+
+as may be appropriate.]
+
+(5) F41[Subject to *section 16B*, entitlement to further leave under *subsection (4)*] shall be subject to the F40[father or other parent, as the case may be,] having notified in writing his employer (or caused his employer to be so notified) in accordance with *subsection (6)* of his intention to take such leave.
+
+(6) Notification under *subsection (5)* shall be given either at the same time as the notification under *subsection (2) (a)* or (if it is later) not later than four weeks before the date which would have been the F40[the father’s or the other parent’s] expected date of return to work under *Part IV* if he had not taken the further leave under *subsection (4)*.
+
+(7) A notification under this section may be revoked by a further notification in writing given by or on behalf of the F40[father or other parent, as the case may be,] to his employer—
+
+(*a*) if it relates to *subsection (1) (a)* leave or *subsection (1) (b)* leave, not later than the day on which the leave is due to begin; and
+
+(*b*) if it relates to leave under *subsection (4)*, not later than the latest date on which, under *subsection (6)*, the notification which is to be revoked could have been given.
+
+(8) The Minister may by order, made with the consent of the Minister for Social Welfare and with the consent of the Minister for Finance, amend *subsections (1)* and *(4)* F48[and *paragraphs (a)* and *(b)* of *subsection (10)*] so as to extend the periods mentioned in F47[those subsections or paragraphs].
+
+(9) Any reference in this section to the week of the mother’s confinement is a reference to the week in which fell the date of her confinement.
+
+F48[(10) Where, on the date on which a person becomes entitled under *subsection (1)* to leave under that subsection F46[or, as the case may be, under *subsection (1A)* to leave under that subsection], the person is on paternity leave, this section and *sections 16A* and *16B* shall apply to the person subject to the following modifications and any other necessary modifications:
+
+(*a*) where the person is entitled to *subsection (1)(a)* leave, the leave shall commence immediately after the end of the paternity leave and, subject to *section 16B*, end at the end of the twenty-fourth week following the end of the paternity leave;
+
+F46[(*aa*) where the person is entitled to *subsection (1A)* leave, the leave shall commence immediately after the end of the paternity leave and, subject to *section 16B*, end at the end of the combined period following the end of the paternity leave;]
+
+(*b*) where the person is entitled to *subsection (1)(b)* leave, the leave shall commence immediately after the end of the paternity leave and, subject to *sections 16A* and *16B*, end at the end of the fortieth week following the end of the paternity leave;
+
+(*c*) a reference in this section and *sections 16A* and *16B* to—
+
+(i) *subsection (1) (a)* leave shall be deemed to include a reference to a period of leave F49[to which *paragraph (a)* applies,]
+
+F46[(ia) *subsection (1A)* leave shall be deemed to include a reference to a period of leave to which *paragraph (aa)* applies, and]
+
+(ii) *subsection (1) (b)* leave shall be deemed to include a reference to a period of leave to which *paragraph (b)* applies.]
+
+F50[(10A) Where, on the date on which a person becomes entitled under *subsection (1)* to leave under that subsection or, as the case may be, under *subsection (1A)* to leave under that subsection, the person is on parent’s leave, this section and *sections 16A* and *16B* shall apply to the person subject to the following modifications and any other necessary modifications:
+
+(*a*) where the person is entitled to *subsection (1)(a)* leave, the leave shall commence immediately after the end of the parent’s leave and, subject to *section 16B*, end at the end of the twenty-fourth week following the end of the parent’s leave;
+
+(*b*) where the person is entitled to *subsection (1A)* leave, the leave shall commence immediately after the end of the parent’s leave and, subject to *section 16B*, end at the end of the twenty-fourth week following the end of the parent’s leave;
+
+(*c*) where the person is entitled to *subsection (1)(b)* leave, the leave shall commence immediately after the end of the parent’s leave and, subject to *sections 16A* and *16B*, end at the end of the fortieth week following the end of the parent’s leave;
+
+(*d*) a reference in this section and *sections 16A* and *16B* to—
+
+(i) *subsection (1)(a)* leave shall be deemed to include a reference to a period of leave to which *paragraph (a)* applies,
+
+(ii) *subsection (1A)* leave shall be deemed to include a reference to a period of leave to which *paragraph (b)* applies, and
+
+(iii) *subsection (1)(b)* leave shall be deemed to include a reference to a period of leave to which *paragraph (c)* applies.]
+
+F46[(11) In this section "combined period" means a period comprising—
+
+(*a*) 42 weeks following the week of confinement, and
+
+(*b*) the duration of the premature birth period.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Substituted (4.05.2020) by *Children and Family Relationships Act 2015* (9/2015), s. 176(b), S.I. No. 624 of 2019.
+>
+> F41: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 10, S.I. No. 652 of 2004.
+>
+> F42: Substituted (1.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 34(c), S.I. No. 341 of 2023, art. 2(b).
+>
+> F43: Substituted (1.02.2007) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 11(a) and (b), in force as per art. 2.
+>
+> F44: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(g), commenced on enactment.
+>
+> F45: Substituted (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 35(b)(i)-(iii), S.I. No. 629 of 2019.
+>
+> F46: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(h), (i), (j)(i), (ii), (iv), (k), commenced on enactment.
+>
+> F47: Substituted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(d)(ii), (iv), (v)(II), S.I. No. 435 of 2016.
+>
+> F48: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), 34(d)(i), (iii), (v)(I), (vi), S.I. No. 435 of 2016.
+>
+> F49: Substituted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(j)(iii), commenced on enactment.
+>
+> F50: Inserted (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 35(b)(iv), S.I. No. 629 of 2019.
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by *paragraph (1)* shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in *Schedule 1*, and
+>
+> (*b*) the statutory instruments specified in *Schedule 2*,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 34 of 1994</td><td>Maternity Protection Act 1994</td><td>Sections 8(2), 16(8) and 18(5)(a)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E25: Power pursuant to section exercised (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), in force as per art. 2.
+>
+> E26: Previous affecting provision: subs. (1) amended (1.02.2006) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2006* (S.I. No. 51 of 2006), art. 7, in force as per art. 2; superseded by art. 11 of the same instrument above.
+>
+> E27: Previous affecting provision: power pursuant to section exercised (8.02.2001) by *Maternity Protection Act, 1994 (Extension of Periods of Leave) Order 2001* (S.I. No. 29 of 2001); revoked (18.10.2004) by *Maternity Protection (Amendment) Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+>
+> E28: Previous affecting provision: subs. (1) substituted (8.02.2001) by *Maternity Protection Act 1994 (Extension of Periods of Leave) Order 2001* (S.I. No. 29 of 2001), art. 7, in force as per art. 2); revoked (18.10.2004) by *Maternity Protection (Amendment) Act 1994* (28/2004), s. 26, S.I. No. 652 of 2004.
+
+### 16A. Termination of leave in event of sickness of F52[father or other parent].
+
+F51[**16A.**—(1) If, at any time—
+
+(*a*) during the last 4 weeks of *subsection (1)(a)* leave, whether or not such leave or part of it is postponed under *section 16B* and where, in accordance with *section 16(6)*, a F52[father or other parent] has, or is deemed under *section 16B(2)* to have, notified his employer, or caused his employer to be notified, of his intention to take further leave under *section 16(4)*, or
+
+(*b*) during *subsection (1)(b)* leave or a period of further leave under *section 16(4)*, whether or not such leave or a part of it is postponed under section 16B,
+
+a F52[father or other parent] who is sick wishes to terminate his *subsection (1)(b)* leave or a period of further leave under *section 16(4)*, as the case may be, he may request in writing (or cause a written request to be submitted to) his employer to terminate that leave.
+
+(2) An employer who receives a request under *subsection (1)* may agree to terminate the leave concerned of the F52[father or other parent] concerned and, if the employer does so, the leave concerned shall terminate on a date agreed by the F52[father or other parent] and the employer that is not earlier than the date of the commencement of F52[the father’s sickness or the other parent’s sickness] and not later than the date on which the leave concerned would have ended in accordance with the notification given by the F52[father or other parent] to the employer under *subsection (2)(a)* or *(6)* of *section 16* or *section 16B(7)*, as the case may be.
+
+(3) An employer who receives a request under *subsection (1)* shall notify the F52[father or other parent] concerned in writing of the employer’s decision in relation to the request as soon as reasonably practicable following the receipt of it.
+
+(4) Where the leave of a F52[father or other parent] is terminated under this section—
+
+(*a*) the absence from work of the F52[father or other parent] due to sickness following such termination shall be treated in the same manner as any absence from work of the F52[father or other parent] due to sickness, and
+
+(*b*) the F52[father or other parent] shall not be entitled to the *subsection (1)(b)* leave or further leave under *section 16(4)*, as the case may be, or the part of such leave not taken by him at the date of such termination.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 11, S.I. No. 652 of 2004.
+>
+> F52: Substituted (4.05.2020) by *Children and Family Relationships Act 2015* (9/2015), s. 176(c), S.I. No. 624 of 2019.
+
+### 16B. Postponement of leave under section 16 in event of hospitalisation of child.
+
+F53[**16B.**—(1) A F54[father or other parent] who is entitled to, or is on, leave under *section 16* may, if the child in connection with whose birth he is entitled to, or is on, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) his employer to postpone—
+
+(*a*) his *subsection (1)(a)* leave or part of such leave F55[or his *subsection (1A)* leave or part of such leave],
+
+(*b*) his *subsection (1)(a)* leave or part of such leave and a period of further leave under *section 16(4)*,
+
+F55[(*bb*) his *subsection (1A)* leave or part of such leave,]
+
+(*c*) his *subsection (1)(b)* leave or a period of further leave under *section 16(4)*, as the case may be, or part of such leave, as may be appropriate, in accordance with this section.
+
+(2) Notwithstanding the fact that a F54[father or other parent] who is on *subsection (1)(a)* leave has not in accordance with *section 16(6)* notified his employer in writing (or caused his employer to be so notified) of his intention to take further leave under *section 16(4)*, he shall be deemed, for the purposes of making a request under *paragraph (b)* or *(c)* of *subsection (1)*, to have complied with *section 16(6)*.
+
+(3) An employer who receives a request under *subsection (1)* may agree to postpone the leave concerned and, if the employer does so—
+
+(*a*) the F54[father or other parent] concerned shall continue to work, or return to work on a date agreed by him and the employer that is not later than the date on which the leave concerned is due to end in accordance with the notification given, or deemed under *subsection (2)* to have been given, by the F54[father or other parent] to the employer under *section 16*, as may be appropriate,
+
+(*b*) the leave concerned shall be postponed or postponed with effect from the date agreed under *paragraph (a)*, as may be appropriate, and
+
+(*c*) the F54[father or other parent] concerned shall be entitled to—
+
+(i) the *subsection (1)(a)* leave or the part of such leave F55[or, as the case may be, *subsection (1A)* leave or the part of such leave],
+
+(ii) the *subsection (1)(a)* leave or the part of such leave and the period of further leave under *section 16(4)*.
+
+(iii) the *subsection (1)(b)* leave or the period of further leave under *section 16(4)*, as the case may be, or the part of such leave,
+
+as the case may be, not taken by him by reason of the postponement (in this section referred to as "resumed leave") in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
+
+(5) Where, following the postponement of leave under this section, a F54[father or other parent] returns to work in accordance with *subsection (3)(a)* and during the period of the postponement he is absent from work due to sickness, the F54[father or other parent] shall be deemed to commence resumed leave on the first day of such absence unless he notifies his employer in writing (or causes his employer to be so notified) as soon as reasonably practicable that he does not wish to commence such leave and, following such notification—
+
+(*a*) the absence from work of the F54[father or other parent] due to sickness shall be treated in the same manner as any absence from work of the F54[father or other parent] due to sickness, and
+
+(*b*) the F54[father or other parent] shall not be entitled to the resumed leave.
+
+(6) Without prejudice to the generality of *subsection (3)*, regulations under this section may make provision in relation to either or both of the following matters:
+
+(*a*) the maximum period of postponement of leave under this section, and
+
+(*b*) the evidence to be furnished by a F54[father or other parent] to his employer of the hospitalisation, and the discharge from hospital, of the child.
+
+(7) Entitlement to resumed leave shall, subject to *subsection (9)*, be subject to a F54[father or other parent] having notified his employer in writing (or causing his employer to be so notified) as soon as reasonably practicable but not later than the day on which the leave begins of his intention to commence such leave.
+
+(8) A notification under *subsection (7)* may be revoked by a further notification in writing given by or on behalf of the F54[father or other parent] concerned to his employer within the period specified in that subsection for the giving of the notification concerned.
+
+(9) An employer may, at the discretion of the employer, waive the right to receive a notification in accordance with *subsection (7)*.
+
+(10) Where a F54[the father’s leave or the other parent’s leave] is postponed under this section—
+
+(*a*) subject to *paragraphs (b)* and *(c)*, the F54[father or other parent] shall comply with *subsection (1A)*, in lieu of *subsection (1)*, of *section 28*,
+
+(*b*) the F54[father or other parent] shall not, in relation to returning to work under *subsection (3)(a)*, be required to comply with *section 28*, and
+
+(*c*) the F54[father or other parent] shall, if deemed under *subsection (5)* to be on resumed leave, comply with *subsection (1B)*, in lieu of *subsection (1)* or *(1A)*, of *section 28*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 12, S.I. No. 652 of 2004.
+>
+> F54: Substituted (4.05.2020) by *Children and Family Relationships Act 2015* (9/2015), s. 176(d), S.I. No. 624 of 2019.
+>
+> F55: Inserted (23.12.2017) by *Social Welfare Act 2017* (38/2017), s. 16(m), (n), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C7: Application of section affected (18.10.2004) by *Maternity Protection (Postponement of Leave) Regulations 2004* (S.I. No. 655 of 2004), regs. 3 and 4, in force as per reg. 1(2).
+>
+> 3\. The maximum period of postponement of leave under section 14B or 16B of the Principal Act is 6 months.
+>
+> 4\. The evidence to be furnished by an employee or an employed father to her or his employer, if so requested by the employer, for the purposes of *section 14B* or *16B*, as the case may be, of the Principal Act shall be—
+>
+> (*a*) a letter or other appropriate document from the hospital in which the child concerned is hospitalised confirming the hospitalisation, and
+>
+> (*b*) a letter or other appropriate document from the hospital concerned or the child’s medical practitioner confirming that the child has been discharged from hospital and the date of that discharge.
+>
+> **Editorial Notes:**
+>
+> E29: Power pursuant to section exercised (18.10.2004) by *Maternity Protection (Postponement of Leave) Regulations 2004* (S.I. No. 655 of 2004).
+
+## PART IIILeave to Protect Health and Safety of Pregnant Employees, etc. — PART III — Leave to Protect Health and Safety of Pregnant Employees, etc.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E30: Redress and appeal procedures for dispute about entitlements under Part provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 3 item 1 and sch. 6 part 2 item 6, S.I. No. 410 of 2015.
+
+### 17. Employees to whom Part III applies.
+
+**17.**—This Part applies to—
+
+(*a*) pregnant employees;
+
+(*b*) employees who have recently given birth; and
+
+(*c*) employees who are breastfeeding.
+
+### 18. Leave on health and safety grounds.
+
+**18.**—(1) If, by regulations under the 1989 Act implementing the 1992 Directive, an employer is required to move an employee to whom this Part applies to other work (whether as a result of a risk assessment or because the employee cannot be required to perform night work), but—
+
+(*a*) it is not technically or objectively feasible for the employer to move the employee as required by the regulations, or
+
+(*b*) such a move cannot reasonably be required on duly substantiated grounds, or
+
+(*c*) the other work to which the employer proposes to move the employee is not suitable for her,
+
+the employee shall be granted leave from her employment under this section.
+
+(2) Where an employee is granted leave under this section, she shall be entitled to receive, on request to her employer, a certificate, in such form as may be determined by regulations—
+
+(*a*) stating that she has been granted leave for whichever of the reasons in *paragraphs (a)* to *(c)* of *subsection (1)* is appropriate in the circumstances and containing such supplementary information as the regulations may require; and
+
+(*b*) specifying the date on which the leave began and its expected duration.
+
+(3) For the purposes of *subsection (1) (c)*, other work is suitable for an employee if it is—
+
+(*a*) of a kind which is suitable in relation to the employee concerned, as an employee to whom this Part applies; and
+
+(*b*) appropriate for the employee to do in all the circumstances.
+
+(4) For the first 21 days of leave granted to an employee by an employer under this section in any relevant period, the employee shall be entitled to receive from the employer remuneration of an amount determined in accordance with regulations.
+
+(5) Regulations under *subsection (2)* or *subsection (4)* shall be made by the Minister after consultation with—
+
+(*a*) the Minister for Finance;
+
+(*b*) the Minister for Social Welfare; and
+
+(*c*) the Minister for Enterprise and Employment.
+
+(6) In *subsection (4)* “relevant period”, in relation to an employee, means the period beginning with her pregnancy and continuing beyond any confinement resulting from that pregnancy until she ceases to be an employee who has recently given birth or, as the case may be, an employee who is breastfeeding.
+
+(7) Regulations under *subsection (4)* may provide that such day or days as may be determined under the regulations shall be left out of account in calculating the 21 days referred to in that subsection.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 34 of 1994</td><td>Maternity Protection Act 1994</td><td>Sections 8(2), 16(8) and 18(5)(a)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E31: Compliance notice procedure in respect of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. 410 of 2015.
+>
+> E32: Power pursuant to subs. (2) exercised (30.01.1995) by *Maternity Protection (Health and Safety Leave Remuneration) Regulations 1995* (S.I. No. 20 of 1995).
+>
+> E33: Power pursuant to subs. (4) exercised (30.01.1995) by *Maternity Protection (Health and Safety Leave Certification) Regulations 1995* (S.I. No. 19 of 1995).
+
+### 19. Ending of leave under section 18 where no change of circumstances.
+
+**19.**—(1) Subject to *subsection (2)* and *section 20*, leave granted to an employee under *section 18* shall end—
+
+(*a*) in the case of leave granted to a pregnant employee, immediately before her maternity leave begins; and
+
+(*b*) in any other case, on the date on which she ceases to be an employee to whom this Part applies.
+
+(2) Where an employee to whom leave is granted under *section 18* is employed under a contract for a fixed term and that term expires before the day which, apart from this subsection, would be the day on which that leave would end, then—
+
+(*a*) the last day of the leave so granted to her shall be the day on which the term expires; and
+
+(*b*) nothing in this Part shall affect the termination of the employee's contract of employment on that day.
+
+### 20. Ending of leave under section 18 on change of circumstances.
+
+**20.**—(1) If an employee to whom leave has been granted under *section 18* as being an employee who is breastfeeding ceases breastfeeding, she shall, at the earliest practical time, notify her employer in writing that she has so ceased.
+
+(2) Without prejudice to *subsection (1)*, if, during a period of leave granted to an employee under *section 18*, the employee becomes aware that her condition is no longer such that she is vulnerable to the risk by virtue of which she was granted the leave, she shall at the earliest practical time notify her employer in writing that she is no longer at risk.
+
+(3) Where an employer receives notification from an employee under *subsection (1)* or *subsection (2)*, and has no reason to believe that, if the employee returned to work, she would be vulnerable to risk as an employee to whom this Part applies—
+
+(*a*) the employer shall take all reasonable measures to enable the employee to return to work in the job which she held immediately before the start of her leave and shall then notify her in writing that she can resume work in that job; and
+
+(*b*) the leave granted to the employee under *section 18* shall end seven days after the notification under *paragraph (a)* is received by her or, if it is earlier, on the day she returns to work.
+
+(4) If, during a period of leave granted to an employee under *section 18*, her employer—
+
+(*a*) either takes whatever measures are necessary to ensure that she will no longer be exposed to any risk by virtue of which she was granted the leave or becomes able to move the employee as mentioned in *section 18 (1)*, and
+
+(*b*) notifies the employee in writing that she can return to work without exposure to that risk or, as the case may be, that other work is available to her which is suitable for her as mentioned in *section 18 (3)*,
+
+the leave granted to the employee under *section 18* shall end seven days after the notification under *paragraph (b)* is received by her or, if it is earlier, on the day she returns to work or, as the case may be, takes up the other work.
+
+## PART IVEmployment Protection — PART IV — Employment Protection
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E34: Redress and appeal procedures for dispute about entitlements under Part provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 3 item 1 and sch. 6 part 2 item 6, S.I. No. 410 of 2015.
+
+### 21. Interpretation of Part IV.
+
+**21.**—(1) In this Part—
+
+“natal care absence”, in relation to an employee, means a period of absence from her work to which the employee is entitled in accordance with regulations under *section 15*; and
+
+“protective leave” means—
+
+(*a*) maternity leave;
+
+(*b*) additional maternity leave;
+
+(*c*) leave to which a F56[father or other parent] is entitled under *subsection (1)* or *subsection (4)* of *section 16*; or
+
+(*d*) leave granted under *section 18*.
+
+(2) Where protective leave of one description is immediately followed by protective leave of another description, the time on leave shall be treated for the purposes of this Part as one continuous period of protective leave.
+
+F57[(3) Where—
+
+(*a*) maternity leave,
+
+(*b*) additional maternity leave, or
+
+(*c*) leave to which a F56[father or other parent] is entitled under *subsection (1)* or *(4)* of *section 16*,
+
+or part of such leave is postponed in accordance with *section 14B* or *16B*, as may be appropriate, the time (if any) on leave before such postponement and the time on leave after such postponement shall be treated for the purposes of this Part as separate periods of protective leave.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Substituted (4.05.2020) by *Children and Family Relationships Act 2015* (9/2015), s. 176(e), S.I. No. 624 of 2019.
+>
+> F57: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s.13, S.I. No. 652 of 2004.
+
+### 21A. F58[Disapplication of sections 23, 24, 25, 26, 27 and 28 to member of local authority
+
+**21A.**—*Sections 23*, *24*, *25*, *26*, *27* and *28* do not apply to a member of a local authority in the member’s capacity as such.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Inserted (21.12.2022) by *Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022* (52/2023), s. 1(c), commenced on enactment.
+
+### 22. Preservation or suspension of certain rights, etc. while on protective leave, etc.
+
+**22.**—(1) During a period of absence from work by an employee while on—
+
+(*a*) maternity leave,
+
+(b) *subsection (1) (a)* leave, as defined in *section 16 (3)*, or
+
+(*c*) leave granted under *section 18*,
+
+and during a period of natal care absence, the employee shall be deemed to have been in the employment of the employer and, accordingly, while so absent the employee shall, subject to *subsection (6)* and *section 24*, F59[be treated as if she or he had not been so absent]; and such absence shall not affect any right (other than, except in the case of natal care absence, the employee’s right to remuneration during such absence), whether conferred by statute, contract or otherwise, and related to the employee’s employment.
+
+F59[(2) In respect of a period of absence from work by an employee while on—
+
+(*a*) additional maternity leave,
+
+(*b*) *subsection (1)(b)* leave within the meaning of *section 16*, or
+
+(*c*) further leave under *section 16(4)*,
+
+the employee shall be deemed to have been in the employment of the employer and accordingly, while so absent the employee shall, subject to *section 24*, be treated as if she or he had not been so absent; and such absence shall not affect any right or obligation (other than the employee’s right to remuneration or superannuation benefits or any obligation to pay contributions in or in respect of the employment during such absence), whether conferred or imposed by statute, contract or otherwise, and related to the employee’s employment.
+
+(2A) In respect of a period of absence from work by an employee while—
+
+(*a*) attending ante-natal classes in accordance with *section 15A*, or
+
+(*b*) breastfeeding in accordance with *section 15B*,
+
+the employee shall be deemed to have been in the employment of the employer and accordingly, while so absent the employee shall, subject to *section 24*, be treated as if she or he had not been so absent; and such absence shall not affect any right, whether conferred by statute, contract or otherwise, and related to the employee’s employment.]
+
+(3) Nothing in this section affects—
+
+(*a*) an employee’s right to be offered suitable alternative employment under *section 27*; or
+
+(*b*) an employee’s right to remuneration in accordance with *section 18 (4)*.
+
+(4) A period of absence from work while on protective leave shall not be treated as part of any other leave (including sick leave or annual leave) to which the employee concerned is entitled.
+
+(5) An employee shall be deemed not to be an employed contributor for the purposes of the Social Welfare (Consolidation) Act, 1993, for any contribution week (within the meaning of that Act) in a period of absence from work on protective leave if the employee does not receive any reckonable earnings (within the meaning of that Act) in respect of that week.
+
+(6) Where *subsection (1)* applies during a period of absence by an employee while she is on leave granted under *section 18*, nothing in this section shall entitle her to benefits under section 4 of the Holidays (Employees) Act, 1973 in respect of a public holiday (within the meaning of that Act) falling during that period of absence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Substituted and inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 14, S.I. No. 652 of 2004.
+>
+> **Editorial Notes:**
+>
+> E35: *Holidays (Employees) Act 1973* was repealed (30.09.1997) and replaced by *Organisation of Working Time Act 1997* (20/1997), s. 9, sch. 4 and s. 21, S.I. No. 392 of 1997.
+
+### 23. Voidance of certain purported terminations of employment, etc.
+
+**23.**—Each of the following shall be void:
+
+(*a*) any purported termination of an employee’s employment while the employee is absent from work on protective leave;
+
+(*b*) any purported termination of an employee’s employment during a period of natal care absence;
+
+F60[(*bb*) any purported termination of an employee’s employment during a period of absence from work to attend ante-natal classes in accordance with *section 15A*;
+
+(*bbb*) any purported termination of an employee’s employment during a period of absence from work for breastfeeding in accordance with *section 15B*;]
+
+(*c*) any notice of termination of an employee’s employment given while the employee is absent from work on protective leave and expiring subsequent to such a period of absence;
+
+(*d*) any notice of termination of an employee’s employment given during a period of natal care absence and expiring subsequent to such a period;
+
+F60[(*dd*) any notice of termination of an employee’s employment given during a period of absence from work to attend ante-natal classes in accordance with *section 15A* and expiring subsequent to such a period;
+
+(*ddd*) any notice of termination of an employee’s employment given during a period of absence from work for breastfeeding in accordance with *section 15B* and expiring subsequent to such a period;]
+
+F61[(*e*) any purported suspension from an employee’s employment imposed while the employee is absent from work on protective leave, during a period of natal care absence or during a period of absence from work to attend ante-natal classes in accordance with *section 15A* or for breastfeeding in accordance with *section 15B*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 15(a) and (b), S.I. No. 652 of 2004.
+>
+> F61: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 15(c), S.I. No. 652 of 2004.
+
+### 24. Extension of certain notices of termination of employment or of certain suspensions.
+
+**24.**—Any notice of termination of employment given in respect of an employee or any suspension from employment imposed on an employee—
+
+(*a*) before the receipt by the employee’s employer of a notification under F62[*section 9*, *12*, *14*, *14B*, *15*, *15A*, *15B*, *16* or *16B*] (or, where appropriate, under *section 28*), or
+
+(*b*) before the production for the employer’s inspection of a certificate under *section 11*,
+
+F63[and due to expire during the employee’s absence from work on protective leave, during a period of natal care absence or during a period of absence from work to attend ante-natal classes in accordance with *section 15A* or for breastfeeding in accordance with *section 15B* shall be extended by the period of such absence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 16(a), S.I. No. 652 of 2004.
+>
+> F63: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 16(b), S.I. No. 652 of 2004.
+
+### 25. Provisions regarding periods of probation, training and apprenticeship.
+
+**25.**—(1) During an employee’s absence from work while on protective leave, being an employee who, starting with F64[the commencement of her or his employment with the employer]—
+
+(*a*) is on probation in that employment, or
+
+(*b*) is undergoing training in relation to that employment, or
+
+(*c*) is employed under a contract of apprenticeship,
+
+the probation, training or apprenticeship shall stand suspended during such absence and shall be completed by the employee F64[on his or her return to work after such absence].
+
+(2) The Minister may by regulations prescribe a period or periods of training in relation to which *subsection (1)* shall not apply.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 17, S.I. No. 652 of 2004.
+
+### 26. General right to return to work on expiry of protective leave.
+
+**26.**—(1) Subject to this Part, on the expiry of a period during which an employee was absent from work while on protective leave, the employee shall be entitled to return to work—
+
+(*a*) F65[with the employer with whom she or he was working immediately before the start of that period or, where during the employee’s absence from work there was a change of ownership of the undertaking in which she or he was employed immediately before her or his absence], with the owner (in this Act referred to as “the successor”) of the undertaking at the expiry of the period of absence,
+
+(*b*) in the job which the employee held immediately before the start of that period, and
+
+(*c*) under the contract of employment under which the employee was employed immediately before the start of that period, or, where a change of ownership such as is referred to in *paragraph (a)* has occurred, under a contract of employment with the successor which is identical to the contract under which the employee was employed immediately before the start of that period, F66[and (in either case) under terms or conditions —
+
+(i) not less favourable than those that would have been applicable to the employee, and
+
+(ii) that incorporate any improvement to the terms or conditions of employment to which the employee would have been entitled,
+
+if she or he had not been so absent from work.]
+
+(2) For the purposes of *subsection (1) (b)*, where the job held by an employee immediately before the start of the period of F65[her or his absence on protective leave] was not the employee’s normal or usual job, the employee shall be entitled to return to work, either in F65[her or his normal or usual job] or in that job as soon as is practicable without contravention by the employee or the employer of any provision of a statute or instrument made under statute.
+
+(3) In this section “job”, in relation to an employee, means the nature of F65[the work which she or he is employed to do in accordance with her or his contract of employment and the capacity and place in which she or he is so employed].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 18(a), (c) and (d), S.I. No. 652 of 2004.
+>
+> F66: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 18(b), S.I. No. 652 of 2004.
+
+### 27. Right to suitable alternative work in certain circumstances on return to work.
+
+**27.**—(1) Where an employee is entitled to return to work in accordance with *section 26* but it is not reasonably practicable for the employer or the successor to permit the employee to return to work in accordance with that section, the employee shall, subject to this Part, be entitled to be offered by the employer, the successor or an associated employer suitable alternative work under a new contract of employment.
+
+(2) Work under a new contract of employment constitutes suitable alternative work for the purposes of this Act if—
+
+(*a*) the work required to be done under the contract is of a kind which is suitable in relation to the employee concerned and appropriate for the employee to do in the circumstances; and
+
+F67[(*b*) the terms or conditions of the contract—
+
+(i) relating to the place where the work under it is required to be done, the capacity in which the employee concerned is to be employed and any other terms or conditions of employment are not less favourable to the employee than those of her or his contract of employment immediately before the start of the period of absence from work while on protective leave, and
+
+(ii) incorporate any improvement to the terms or conditions of employment to which the employee would have been entitled if she or he had not been so absent from work during that period.]
+
+(3) For the purposes of this Act one employer shall be taken to be associated with another—
+
+(*a*) if one is a body corporate of which the other (whether directly or indirectly) has control; or
+
+(*b*) if both are bodies corporate of which a third person (whether directly or indirectly) has control.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s.19, S.I. No. 652 of 2004.
+
+### 28. Notification of intention to return to work.
+
+**28.**—(1) F68[Subject to *sections 14B(11)* and *16B(10)*, entitlement to return to work] in accordance with *section 26* or to be offered suitable alternative work under *section 27* shall be subject to an employee who has been absent from work while on protective leave in accordance with this Act having, not later than four weeks before F68[the date on which she or he expects to return to work], notified in writing (or caused to be so notified) the employer or, where the employee is aware of a change of ownership of the undertaking concerned, the successor, of F68[her or his intention to return to work] and of F68[the date on which she or he expects to return to work].
+
+F69[(1A) Entitlement to return to work in accordance with *section 26* or to be offered suitable alternative work under *section 27* shall be subject to an employee who has been absent from work on resumed leave within the meaning of *section 14B* or *16B*, as the case may be, having notified in writing (or caused to be so notified) the employer or, where the employee is aware of a change of ownership of the undertaking concerned, the successor, of her or his intention to return to work and of the date on which she or he expects to return to work—
+
+(*a*) if the period of resumed leave concerned is 4 weeks or less—
+
+(i) at the same time as the relevant notification is given by the employee under *section 14B(8)* or *16B(7)*, as the case may be, or
+
+(ii) if the employer waives the right to receive such notification, not later than the day on which the employee expects to return to work,
+
+or
+
+(*b*) if the period of resumed leave concerned is more than 4 weeks, not later than 4 weeks before the date on which the employee expects to return to work.
+
+(1B) Entitlement to return to work in accordance with *section 26* or to be offered suitable alternative work under *section 27* shall be subject to an employee who has been absent from work and been deemed under *subsection (6*) of *section 14B* or *subsection (5)* of *section 16B*, as the case may be, to be on resumed leave within the meaning of whichever of those sections is appropriate having, not later than the date on which she or he expects to return to work, notified in writing (or caused to be so notified) the employer or, where the employee is aware of a change of ownership of the undertaking concerned, the successor, of her or his intention to return to work and of the date on which she or he expects to return to work.]
+
+(2) Where, in the opinion of a rights commissioner or the Tribunal, there are reasonable grounds—
+
+F68[(*a*) for an employee’s failure to give notification under *subsection (1)*, *(1A)* or *(1B)*, as may be appropriate, or]
+
+(*b*) for an employee giving such notification otherwise than within the specified time limits,
+
+the rights commissioner or the Tribunal, as the case may be, shall extend the time for giving the notification.
+
+(3) In the absence of reasonable grounds—
+
+F68[(*a*) failure to give notification under *subsection (1)*, *(1A)* or *(1B)*, as may be appropriate, or]
+
+(*b*) the giving of such notification otherwise than within the specified time limits,
+
+are matters that may be taken into account by a rights commissioner, the Tribunal or the Circuit Court in determining the employee’s rights under the 1977 Act, this Act or any other relevant enactment, so far as the remedies of re-instatement, re-engagement or compensation are concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 20(a) and (c), S.I. No. 652 of 2004.
+>
+> F69: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 20(b), S.I. No. 652 of 2004.
+
+### 29. Postponement of return to work.
+
+**29.**—Where, because of an interruption or cessation of work at an employee’s place of employment, existing on the date specified in a notification under *section 28* given by the employee, it is unreasonable to expect the employee to return to work on the date specified in the notification, the employee may return to work instead when work resumes at the place of employment after the interruption or cessation, or as soon as reasonably practicable after such resumption.
+
+## PART VResolution of Disputes — PART V — Resolution of Disputes
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E36: Redress and appeal procedures for dispute about entitlements under Act provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 3 item 1 and sch. 6 part 2 item 6, S.I. No. 410 of 2015.
+
+### 30. Reference of disputes to which Part V applies.
+
+**30.**—(1) F70[(1) This Part does not apply to a dispute relating to—
+
+(*a*) the dismissal of an employee, or
+
+(*b*) a matter that is within the competence of the Authority under the 1989 Act.]
+
+(2) This Part does not apply where the employee is in employment as a member of the Defence Forces and, accordingly, in the following provisions of this Part, “employee” does not include an employee in such employment.
+
+(3) In this Part “the relevant employer”, in relation to an employee, means the employee’s employer or, where appropriate, the successor or an associated employer.
+
+(4) F71[...]
+
+(5) The Minister may make regulations for the purposes of this Part, and in this Part “prescribed” means prescribed by such regulations.
+
+(6) In *subsection (1) (a)* “dismissal” has the same meaning as in the 1977 Act except that, in applying that definition for the purposes of *subsection (1) (a)*, the expressions “employer” and “contract of employment”, where used in that definition, shall be given the same meanings as in this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 6, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F71: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E37: The *Safety, Health and Welfare At Work Act 1989* was repealed (1.09.2005) and replaced by *Safety, Health and Welfare At Work Act 2005* (10/2005), s. 4 and sch. 2 pt. 1, S.I. No. 328 of 2005.
+>
+> E38: Power pursuant to section exercised (18.05.1999) by *Maternity Protection (Maximum Compensation) Regulations 1999* (S.I. No. 134 of 1999).
+>
+> E39: Power pursuant to section exercised (30.01.1995) by *Maternity Protection (Disputes and Appeals) Regulations 1995* (S.I. No. 17 of 1995).
+
+### 30A. Disapplication of Part V to member of local authority
+
+F72[**30A.**—This Part does not apply to a member of a local authority in the member’s capacity as such.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Inserted by (21.12.2021) by *Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022* (52/2023), s. 1(d), commenced on enactment.
+
+### 31. Procedure for referral of disputes to rights commissioner.
+
+**31.**—F73[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E40: Power pursuant to subs. (1), ss. 30(5) and 33(2) exercised (30.01.1995) by *Maternity Protection (Disputes and Appeals) Regulations 1995* (S.I. No. 17 of 1995).
+>
+> E41: Previous affecting provision: subs. (1)(a)(iii) amended by *Children and Family Relationships Act 2015* (9/2015), s. 176(f), not commenced; section deleted as per F-note above.
+>
+> E42: Previous affecting provision: subs. (1)(a) substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 21, S.I. No. 652 of 2004; section deleted as per F-note above.
+
+### 32. Decision under section 41 or 44 of Workplace Relations Act 2015
+
+F74[**32.** (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and the relevant employer relating to any entitlement of the employee under *Part II*, *III* or *IV* (or any matter arising out of or related to such entitlement) may include such directions to the parties to the dispute as the adjudication officer considers necessary or expedient for the resolution of the dispute, and if the decision is in favour of the employee then, without prejudice to the power to give such directions, the adjudication officer may order—
+
+(*a*) the grant of leave to the employee for such period as may be so specified,
+
+(*b*) an award of compensation (in favour of the employee to be paid by the relevant employer) of such amount, not exceeding 20 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed, as the adjudication officer considers just and equitable having regard to all of the circumstances, or
+
+(*c*) both such grant and such award.
+
+(2) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision referred to in *subsection (1)* may include such directions to the parties to the appeal as the Labour Court considers necessary or expedient for the resolution of the matter, and if the decision is in favour of the employee then, without prejudice to the power to give such directions, the Labour Court may order—
+
+(*a*) the grant of leave for such period as may be so specified,
+
+(*b*) an award of compensation (in favour of the employee to be paid by the relevant employer) of such amount, not exceeding 20 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed, as the Labour Court considers just and equitable having regard to all of the circumstances, or
+
+(*c*) both such grant and such award.
+
+(3) In this section "remuneration" includes allowances in the nature of pay and benefits in lieu of or in addition to pay.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 6, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> **Editorial Notes:**
+>
+> E43: Power pursuant to subs. (3) and s. 30(5) exercised (18.05.1999) by *Maternity Protection (Maximum Compensation) Regulations 1999* (S.I. No. 134 of 1999).
+
+### 33. Appeal from decision of rights commissioner.
+
+**33.**—F75[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E44: Power pursuant to subs. (2) and ss. 30(5) and 31(1) exercised (30.01.1995) by *Maternity Protection (Disputes and Appeals) Regulations 1995* (S.I. No. 17 of 1995).
+
+### 33A. Burden of proof.
+
+F76[**33A.**—(1) In this section—
+
+"discrimination" means—
+
+(*a*) a failure, which gives rise to a dispute, to comply with a provision of *Parts II* to *IV*, or
+
+(*b*) an unfair dismissal (within the meaning of the 1977 Act) of an employee resulting wholly or mainly from—
+
+(i) the employee’s pregnancy, attendance at ante-natal classes, giving birth or breastfeeding or any matters connected therewith, or
+
+(ii) the exercise or proposed exercise by the employee of the right under this Act to any form of protective leave or natal care absence, within the meaning of *Part IV*, or to time off from work to attend ante-natal classes in accordance with *section 15A* (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or to time off from work or a reduction of working hours for breastfeeding in accordance with *section 15B* (inserted by section 9 of the Maternity Protection (Amendment) Act 2004);
+
+"employee", in relation to proceedings under the 1977 Act, has the meaning assigned to it by that Act;
+
+"indirect discrimination" shall be construed in accordance with section 22 (as amended by Regulation 4(*b*) of the European Communities (Burden of Proof in Gender Discrimination Cases) Regulations 2001 (S.I. No. 337 of 2001)) of the Employment Equality Act 1998 insofar as that section relates to discrimination on the gender ground within the meaning of that Act;
+
+"proceedings" means—
+
+(*a*) any proceedings under F77[Part 4 of the Workplace Relations Act 2015] before—
+
+(i) a F77[adjudication officer] dealing with a dispute referred to the F77[adjudication officer] by an employee, or
+
+(ii) the F77[Labour Court],
+
+or
+
+(*b*) any proceedings under the 1977 Act before a F77[adjudication officer], the F77[Labour Court] F78[...] in which a claim is made by an employee for redress under that Act for unfair dismissal on the grounds that the dismissal resulted wholly or mainly from—
+
+(i) the employee’s pregnancy, attendance at ante-natal classes, giving birth or breastfeeding or any matters connected therewith, or
+
+(ii) the exercise or proposed exercise by the employee of the right under this Act to any form of protective leave or natal care absence, within the meaning of *Part IV*, or to time off from work to attend ante-natal classes in accordance with *section 15A* (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or to time off from work or a reduction of working hours for breastfeeding in accordance with *section 15B* (inserted by section 9 of the Maternity Protection (Amendment) Act 2004),
+
+and includes any subsequent proceedings, including proceedings on appeal, arising from the claim.
+
+(2) Where in any proceedings facts are established by an employee from which it may be presumed that there has been discrimination or indirect discrimination in relation to him or her, it shall be for the respondent to prove the contrary.
+
+(3) This section is without prejudice to section 6(6) of the 1977 Act or any other enactment or rule of law in relation to the burden of proof in proceedings which may be more favourable to such an employee.
+
+(4) Nothing in this section shall operate to reduce the existing level of protection for employees in relation to the burden of proof in proceedings.
+
+(5) The European Communities (Burden of Proof in Gender Discrimination Cases) Regulations 2001 (S.I. No. 337 of 2001) are revoked insofar as they apply to proceedings (within the meaning of this section).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Inserted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 22, S.I. No. 652 of 2004.
+>
+> F77: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 6, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F78: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 6, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+### 34. Appeal to High Court on point of law.
+
+**34.**—F79[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 35. Service of documents.
+
+**35.**—F80[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 36. Provisions relating to winding up and bankruptcy.
+
+**36.**—F81[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 37. Enforcement of decisions and determinations.
+
+**37.**—F82[...].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 7, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+## PART VIAmendments and Application of Other Enactments — PART VI — Amendments and Application of Other Enactments
+
+### 38. Amendments relating to unfair dismissal.
+
+**38.**—(1) At the beginning of subsection (1) of section 2 of the 1977 Act (which excludes certain employees) there shall be inserted “Except in so far as any provision of this Act otherwise provides”, and in paragraph (*a*) of that subsection the words from “and whose” shall be omitted.
+
+(2) In section 2 (2) of the 1977 Act (which specifies dismissals in relation to which that Act does not apply) for paragraph (*c*) (inserted by the 1981 Act) there shall be substituted—
+
+“(*c*) dismissal where the employee’s employer at the commencement of the employment informs the employee in writing that the employment will terminate on the return to work with that employer of another employee who is absent from work while on protective leave or natal care absence, within the meaning of *Part IV* of the *Maternity Protection Act, 1994*, and the dismissal of the first-mentioned employee duly occurs for the purpose of facilitating the return to work of that other employee.”.
+
+(3) At the beginning of each of sections 3 and 4 of the 1977 Act (which relate to dismissal during probation, training or apprenticeship) there shall be inserted “Except in so far as any provision of this Act otherwise provides”.
+
+(4) In section 6 (2) of the 1977 Act (which specifies the matters which cause a dismissal resulting from any of those matters to be deemed to be an unfair dismissal) for paragraphs (*f*) and (*g*) (the latter inserted by the 1981 Act) there shall be substituted—
+
+“(*f*) the employee’s pregnancy, giving birth or breastfeeding or any matters connected therewith,
+
+(*g*) the exercise or proposed exercise by the employee of a right under the *Maternity Protection Act, 1994*, to any form of protective leave or natal care absence, within the meaning of *Part IV* of that Act,”.
+
+(5) After section 6 (2) of the 1977 Act there shall be inserted—
+
+“(2A) Sections 3 and 4 do not apply to a case falling within paragraph (*f*) or (*g*) of subsection (2) and, for the purposes of those paragraphs, “employee” includes a person who would otherwise be excluded from this Act by paragraph (*a*), (*c*), (*f*) or (*g*) of section 2 (1).”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E45: The amendments made by subss. (2) and (4) to the *Unfair Dismissals Act 1977* were superseded (18.10.2004) by amendments made by the *Maternity Protection (Amendment) Act 2004* (28/2005), s. 23, S.I. No. 652 of 2004. The amendment made by subs. (5) was superseded (20.03.1995) by an amendment made by *Adoptive Leave Act 1995* (2/1995), s. 25, S.I. No. 64 of 1995.
+
+### 39. Amendment of Schedule 3 to Redundancy Payments Act, 1967.
+
+**39.**—In Schedule 3 to the Redundancy Payments Act, 1967, in paragraph 5 (which specifies periods which do not breach continuity of employment) for subparagraph (1) (*d*) (inserted by the 1981 Act) there shall be substituted—
+
+“(*d*) a period during which an employee was absent from work while on protective leave or natal care absence, within the meaning of *Part IV* of the *Maternity Protection Act, 1994*.”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E46: This amendment to the *Redundancy Payments Act 1967* was superseded (2.07.2001) by an amendment by *Carer’s Leave Act 2001* (19/2001), s. 26, commenced on enactment.
+
+### 40. Provisions applying where employee not permitted to return to work.
+
+**40.**—(1) This section applies to an employee who, having duly complied with *section 28*, is entitled under *Part IV* to return to work but is not permitted to do so by the relevant employer, as defined in *section 30 (3)*, and in this section, in relation to such an employee, “the expected date of return” means F83[the date notified under *subsection (1)*, *(1A)* or *(1B)*, as may be appropriate, of *section 28*] as the date on which the employee expected to return to work.
+
+(2) For the purposes of the Redundancy Payments Acts, 1967 to 1991, an employee to whom this section applies who is also an employee to whom those Acts apply shall be deemed to have been dismissed by reason of redundancy, the date of dismissal being deemed to be the expected date of return.
+
+(3) For the purposes of the Minimum Notice and Terms of Employment Act, 1973, the contract of employment of an employee to whom this section applies who is also an employee to whom that Act applies shall be deemed to have been terminated on the expected date of return.
+
+(4) For the purposes of the 1977 Act—
+
+(*a*) an employee to whom this section applies who is also an employee to whom that Act applies shall be deemed to have been dismissed on the expected date of return; and
+
+(*b*) the dismissal shall be deemed to be an unfair dismissal unless, having regard to all the circumstances, there were substantial grounds justifying the dismissal.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Substituted (18.10.2004) by *Maternity Protection (Amendment) Act 2004* (28/2004), s.25, S.I. No. 652 of 2004.
+
+### 41. Protection of employee’s rights on insolvency of employer.
+
+**41.**—(1) In the Protection of Employees (Employers’ Insolvency) Act, 1984, section 6 (which provides for certain amounts to be paid out of the Redundancy and Employees’ Insolvency Fund) shall be amended in accordance with this section.
+
+(2) In subsection (2) (*a*), for subparagraph (v) there shall be substituted—
+
+“(v) any amount which an employer is required to pay by virtue of—
+
+(I) a determination under section 8 (1) or 9 (1) or an order under section 10 (2) of the 1977 Act, or
+
+(II) a decision, determination or order under *Part V* of the *Maternity Protection Act, 1994*,
+
+and made, in any case, not earlier than the commencement of the relevant period,”.
+
+(3) In subsection (4) (*c*), after subparagraph (iii) there shall be inserted—
+
+“(iv) A payment shall not be made under this section in respect of an amount to which a decision under *Part V* of the *Maternity Protection Act, 1994*, relates unless—
+
+(I) in case an appeal from the decision to the Tribunal is brought under the Part in question, the appeal is withdrawn, or
+
+(II) in case there is no such appeal, the time for bringing such an appeal has expired.
+
+(v) A payment shall not be made under this section in respect of an amount to which a determination under *Part V* of the *Maternity Protection Act, 1994*, relates unless—
+
+(I) in case an appeal from the determination is brought to the High Court under the Part in question, the appeal is withdrawn, or
+
+(II) in case there is no appeal, the time for bringing such an appeal has expired.”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E47: These amendments to *Protection of Employees (Employers’ Insolvency) Act 1984*, s. 6(2) and (4) remain current but have been amended further. Subs. (2)(a)(v)(II) was superseded (3.12.1998) by an amendment made by *Parental Leave Act 1998* (30/1998), s. 26(1) and (2), commenced as per s. 1(2) and was superseded in turn (2.07.2001) by an amendment made by *Carer’s Leave Act 2001* (19/2001), s. 30(a), commenced on enactment.
+>
+> Subs. (4)(c)(iv) and (v) were superseded (3.12.1998) by an amendment made by *Parental Leave Act 1998* (30/1998), s. 26(1) and (3), commenced as per s. 1(2) and superseded in turn (2.07.2001) by *Carer’s Leave Act 2001* (19/2001), s. 30(b), commenced on enactment.

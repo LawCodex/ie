@@ -1,0 +1,249 @@
+---
+title: "Occupiers' Liability Act, 1995"
+identifier: "eli/1995/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 1995
+date: 1995-06-17
+last_amended: 2024-07-23
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1995/act/10/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1995/act/10/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Occupiers' Liability Act, 1995
+
+AN ACT TO AMEND THE LAW RELATING TO THE LIABILITY OF OCCUPIERS OF PREMISES (INCLUDING LAND) IN RESPECT OF DANGERS EXISTING ON SUCH PREMISES FOR INJURY OR DAMAGE TO PERSONS OR PROPERTY WHILE ON SUCH PREMISES AND TO PROVIDE FOR CONNECTED MATTERS. [17*th June*, 1995]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, unless the context otherwise requires—
+
+“damage” includes loss of property and injury to an animal;
+
+“danger”, in relation to any premises, means a danger due to the state of the premises;
+
+“entrant”, in relation to a danger existing on premises, means a person who enters on the premises and is not the sole occupier;
+
+“injury” includes loss of life, any disease and any impairment of physical or mental condition;
+
+“occupier”, in relation to any premises, means a person exercising such control over the state of the premises that it is reasonable to impose upon that person a duty towards an entrant in respect of a particular danger thereon and, where there is more than one occupier of the same premises, the extent of the duty of each occupier towards an entrant depends on the degree of control each of them has over the state of the premises and the particular danger thereon and whether, as respects each of them, the entrant concerned is a visitor, recreational user or trespasser;
+
+“premises” includes land, water and any fixed or moveable structures thereon and also includes vessels, vehicles, trains, aircraft and other means of transport;
+
+“property”, in relation to an entrant, includes the property of another in the possession or under the control of the entrant while the entrant is on the premises of the occupier;
+
+“recreational activity” means any recreational activity conducted, whether alone or with others, in the open air (including any sporting activity), scientific research and nature study so conducted, exploring caves and visiting sites and buildings of historical, architectural, traditional, artistic, archaeological or scientific importance;
+
+“recreational user” means an entrant who, with or without the occupier's permission or at the occupier's implied invitation, is present on premises without a charge (other than a reasonable charge in respect of the cost of providing vehicle parking facilities) being imposed for the purpose of engaging in a recreational activity, including an entrant admitted without charge to a national monument pursuant to section 16 (1) of the *National Monuments Act 1930*, but not including an entrant who is so present and is—
+
+(*a*) a member of the occupier's family who is ordinarily resident on the premises,
+
+(*b*) an entrant who is present at the express invitation of the occupier or such a member, or
+
+(*c*) an entrant who is present with the permission of the occupier or such a member for social reasons connected with the occupier or such a member;
+
+“trespasser” means an entrant other than a recreational user or visitor;
+
+“visitor” means—
+
+(*a*) an entrant, other than a recreational user, who is present on premises at the invitation, or with the permission, of the occupier or any other entrant specified in *paragraph (a), (b)* or *(c)* of the definition of “recreational user”,
+
+(*b*) an entrant, other than a recreational user, who is present on premises by virtue of an express or implied term in a contract, and
+
+(*c*) an entrant as of right,
+
+while he or she is so present, as the case may be, for the purpose for which he or she is invited or permitted to be there, for the purpose of the performance of the contract or for the purpose of the exercise of the right, and includes any such entrant whose presence on premises has become unlawful after entry thereon and who is taking reasonable steps to leave.
+
+(2) In this Act—
+
+(*a*) a reference to a section is to a section of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection is to the subsection of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment including this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted by *Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023* (26/2023), s. 233, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: subs. (1), definition of "recreational user" amended by *Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023* (26/2023), s. 233, not commenced as of date of revision.
+>
+> “recreational user” means an entrant who, with or without the occupier's permission or at the occupier's implied invitation, is present on premises without a charge (other than a reasonable charge in respect of the cost of providing vehicle parking facilities) being imposed for the purpose of engaging in a recreational activity, including an entrant admitted without charge to a national monument F1[within the meaning of section 74 of the Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023], but not including an entrant who is so present and is— ...
+
+## 2. Replacement of common law rules.
+
+**2.**—(1) Subject to *section 8*, the duties, liabilities and rights provided for by this Act shall have effect in place of the duties, liabilities and rights which heretofore attached by the common law to occupiers of premises as such in respect of dangers existing on their premises to entrants thereon.
+
+(2) This Act does not apply to a cause of action which accrued before the commencement of this Act.
+
+## 3. Duty owed to visitors.
+
+**3.**—(1) An occupier of premises owes a duty of care (“the common duty of care”) towards a visitor thereto except in so far as the occupier extends, restricts, modifies or excludes that duty in accordance with *section 5*.
+
+F2[(1A) Without prejudice to the generality of *subsection (2)*, in determining the extent of the common duty of care of an occupier towards a visitor, and whether it has been complied with by the occupier, regard shall be had, as appropriate, to all of the circumstances and matters referred to in that subsection, which shall include but are not limited to the following:
+
+(*a*) the probability of a danger existing on the premises;
+
+(*b*) the probability of the occurrence of an injury to, or of damage suffered by, a visitor by reason of a danger existing on the premises;
+
+(*c*) the probable severity of an injury to a visitor that might result from a danger existing on the premises;
+
+(*d*) the practicability, and the cost, of precautions or preventative measures;
+
+(*e*) where applicable, the social utility of the activity or conduct that gives rise to the risk of injury or damage referred to in *paragraph (b)*.]
+
+(2) In this F3[section and subject to *section 5A*] “the common duty of care” means a duty to take such care as is reasonable in all the circumstances (having regard to the care which a visitor may reasonably be expected to take for his or her own safety and, if the visitor is on the premises in the company of another person, the extent of the supervision and control the latter person may reasonably be expected to exercise over the visitor's activities) to ensure that a visitor to the premises does not suffer injury or damage by reason of any danger existing thereon.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 40(a), S.I. No. 389 of 2023.
+>
+> F3: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 40(b), S.I. No. 389 of 2023.
+
+## 4. Duty owed to recreational users or trespassers.
+
+**4.**—(1) In respect of a danger existing on premises, an occupier owes towards a recreational user of the premises or a trespasser thereon (“the person”) a duty—
+
+(*a*) not to injure the person or damage the property of the person intentionally, and
+
+(*b*) not to act with reckless disregard for the person or the property of the person,
+
+except in so far as the occupier extends the duty in accordance with *section 5*.
+
+(2) In determining whether or not an occupier has so acted with reckless disregard, regard shall be had to all the circumstances of the case, including—
+
+(*a*) whether the occupier F4[knew of, or was reckless as to whether,] a danger existed on the premises;
+
+(*b*) whether the occupier F5[knew of, or was reckless as to whether,] the person and, in the case of damage, property of the person, was or was likely to be on the premises;
+
+(*c*) whether the occupier F6[knew of, or was reckless as to whether,] the person or property of the person was in, or was likely to be in, the vicinity of the place where the danger existed;
+
+(*d*) F10[...]
+
+(*e*) the burden on the occupier of eliminating the danger or of protecting the person and property of the person from the danger, taking into account the difficulty, expense or impracticability, having regard to the character of the premises and the degree of the danger, of so doing;
+
+(*f*) the character of the premises including, in relation to premises of such a character as to be likely to be used for recreational activity, the desirability of maintaining the tradition of open access to premises of such a character for such an activity;
+
+(*g*) the conduct of the F7[person, including whether or not he or she entered onto the premises as a trespasser, and] the care which he or she may reasonably be expected to take for his or her own safety, while on the premises, having regard to the extent of his or her knowledge thereof;
+
+(*h*) the nature of any warning given by the occupier or another person of the danger; and
+
+(*i*) whether or not the person was on the premises in the company of another person and, if so, the extent of the supervision and control the latter person might reasonably be expected to exercise over the other's activities.
+
+(3) (*a*) Where a person enters onto premises for the purpose of committing an offence or, while present thereon, commits an offence, the occupier shall not be liable for a breach of the duty imposed by *subsection (1) (b)* unless a court determines otherwise F8[in exceptional circumstances, having regard to matters such as the nature of the offence, the extent of the recklessness on the part of the occupier, or the fact that the person was not a trespasser].
+
+(*b*) In *paragraph (a)* “offence” includes an attempted offence.
+
+(4) Notwithstanding *subsection (1)*, where a structure on premises is or has been provided for use primarily by recreational users, the occupier F9[shall, subject to *section 5A*, owe] a duty towards such users in respect of such a structure to take reasonable care to maintain the structure in a safe condition:
+
+Provided that, where a stile, gate, footbridge or other similar structure on premises is or has been provided not for use primarily by recreational users, the occupier's duty towards a recreational user thereof in respect of such structure shall not be extended by virtue of this subsection.
+
+F11[(5) Without prejudice to the generality of *subsection (4)*, in determining under that subsection whether or not an occupier has complied with the duty to take reasonable care to maintain a structure in a safe condition, regard shall be had, as appropriate, to all of the circumstances of the case, which shall include but are not limited to the following:
+
+(*a*) the probability of a danger existing on the premises;
+
+(*b*) the probability of the occurrence of an injury to, or of damage suffered by, a recreational user by reason of a danger existing on the premises;
+
+(*c*) the probable severity of an injury to a recreational user that might result from a danger existing on the premises;
+
+(*d*) the practicability, and the cost, of precautions or preventative measures;
+
+(*e*) where applicable, the social utility of the activity or conduct that gives rise to the risk of injury or damage referred to in *paragraph (b)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4, F5, F6, F7, F8, F9: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 41(a)(i)-(iii), (v), (b), (c), S.I. No. 389 of 2023.
+>
+> F10: Deleted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 41(a)(iv), S.I. No. 389 of 2023.
+>
+> F11: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 41(d), S.I. No. 389 of 2023.
+
+## 5. Modification of occupiers' duty to entrants.
+
+**5.**—(1) An occupier may by express agreement or notice extend his or her duty towards entrants under *sections 3* and *4*.
+
+(2) (*a*) Subject to this section and to *section 8*, an occupier may by express agreement or notice restrict, modify or exclude his or her duty towards visitors under *section 3*.
+
+(*b*) Such a restriction, modification or exclusion shall not bind a visitor unless—
+
+(i) it is reasonable in all the circumstances, and
+
+(ii) in case the occupier purports by notice to so restrict, modify or exclude that duty, the occupier has taken reasonable steps to bring the notice to the attention of the visitor.
+
+(*c*) For the purposes of *paragraph (b) (ii)* an occupier shall be presumed, unless the contrary is shown, to have taken reasonable steps to bring a notice to the attention of a visitor if it is prominently displayed at the normal means of access to the premises.
+
+(3) In respect of a danger existing on premises, a restriction, modification or exclusion referred to in *subsection (2)* shall not be taken as allowing an occupier to injure a visitor or damage the property of a visitor intentionally or to act with reckless disregard for a visitor or the property of a visitor.
+
+(4) In determining for the purposes of *subsection (3)* whether or not an occupier has acted with reckless disregard, regard shall be had to all the circumstances of the case including, where appropriate, the matters specified in *subsection (2)* of *section 4*.
+
+(5) Where injury or damage is caused to a visitor or property of a visitor by a danger of which the visitor had been warned by the occupier or another person, the warning is not, without more, to be treated as absolving the occupier from liability unless, in all the circumstances, it was enough to enable the visitor, by having regard to the warning, to avoid the injury or damage so caused.
+
+## F12[Voluntary assumption of risk.
+
+**5A.**—(1) The common duty of care under *section 3* shall not impose on an occupier any obligation to a visitor in respect of risks willingly accepted by the visitor where that visitor is capable of comprehending the nature and extent of those risks.
+
+(2) An occupier shall not owe any duty pursuant to *section 4(4)* to a recreational user of the premises in respect of risks willingly accepted by the recreational user where the recreational user is capable of comprehending the nature and extent of those risks.
+
+(3) A determination under *subsection (1)* or *(2)* that a visitor or recreational user has willingly accepted a risk may be based on the words or conduct of the visitor or recreational user without a requirement for evidence of communication or interaction with the occupier of the premises in question.
+
+(4) Section 34(1)(b) of the Civil Liability Act 1961 shall not apply in relation to the making of a determination under *subsection (1)* or *(2)* that a visitor or recreational user has willingly accepted a risk.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 42, S.I. No. 389 of 2023.
+
+## 6. Duty of occupiers towards strangers to contracts.
+
+**6.**—(1) The duty which an occupier of premises owes to an entrant under this Act shall not be capable of being modified or excluded by a contract to which the entrant is a stranger, whether the occupier is bound by the contract to permit the entrant to enter or use the premises or not.
+
+(2) For the purposes of this section, an entrant shall be deemed to be a stranger to a contract if the entrant is not for the time being entitled to the benefit of the contract as a party to it or as the successor by assignment or otherwise of a party to it, and, accordingly, a party to the contract who has ceased to be so entitled shall be deemed to be a stranger to the contract.
+
+(3) This section applies to contracts entered into before the commencement of this Act, as well as to those entered into after such commencement.
+
+## 7. Liability of occupiers for negligence of independent contractors.
+
+**7.**—An occupier of premises shall not be liable to an entrant for injury or damage caused to the entrant or property of the entrant by reason of a danger existing on the premises due to the negligence of an independent contractor employed by the occupier if the occupier has taken all reasonable care in the circumstances (including such steps as the occupier ought reasonably to have taken to satisfy himself or herself that the independent contractor was competent to do the work concerned) unless the occupier has or ought to have had knowledge of the fact that the work was not properly done.
+
+## 8. Saver.
+
+**8.**—Nothing in this Act shall be construed as affecting any enactment or any rule of law relating to—
+
+(*a*)self-defence, the defence of others or the defence of property,
+
+(*b*) any liability imposed on an occupier as a member of a particular class of persons including the following classes of persons:
+
+(i) persons by virtue of a contract for the hire of, or for the carriage for reward of persons or property in, any vessel, vehicle, train, aircraft or other means of transport;
+
+(ii) persons by virtue of a contract of bailment; and
+
+(iii) employers in respect of their duties towards their employees, or
+
+(*c*) any liability imposed on an occupier for a tort committed by another person in circumstances where the duty imposed on the occupier is of such a nature that its performance may not be delegated to another person.
+
+## 9. Short title and commencement.
+
+**9.**—(1) This Act may be cited as the Occupiers' Liability Act, 1995.
+
+(2) This Act shall come into operation one month after the date of its passing.
+
+ACT REFERRED TO
+
+National Monuments Act, 1930 1930, No. 2

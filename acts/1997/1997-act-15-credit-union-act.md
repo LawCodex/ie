@@ -1,0 +1,8669 @@
+---
+title: "Credit Union Act, 1997"
+identifier: "eli/1997/act/15"
+type: act
+jurisdiction: ie
+language: en
+number: 15
+year: 1997
+date: 1997-05-03
+last_amended: 2025-09-30
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1997/act/15/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1997/act/15/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Credit Union Act, 1997
+
+AN ACT TO MAKE NEW PROVISION IN RELATION TO CREDIT UNIONS AND FOR CONNECTED PURPOSES. [3*rd May*, 1997]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted (1.03.2013) by *Personal Insolvency Act 2012* (44/2012), s. 135(2), S.I. No. 63 of 2013.
+>
+> **Set-off to be applied.**
+>
+> **135.—** ...
+>
+> (2) Notwithstanding any provision of the Credit Union Act 1997, savings (within the meaning of that Act) of a debtor in a credit union shall be subject to set off in accordance with subsection (1) against a debt owed by the debtor to the credit union.
+>
+> C2: Application of Act restricted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 49(7)(a), S.I. No. 548 of 2011, and as substituted (15.07.2015) by *European Union (Bank Recovery and Resolution) Regulations 2015* (S.I. No. 289 of 2015), reg. 187(c)(iv), in force as per reg. 1(2).
+>
+> **Effect of transfer order — general.**
+>
+> **49.—** ...
+>
+> (7) Subsection (6) has effect notwithstanding anything in—
+>
+> **[**(*a*) the Credit Union Act 1997, or**]**
+>
+> ...
+>
+> C3: Application of Act restricted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 69(6)(a), S.I. No. 548 of 2011, and as amended by *European Union (Bank Recovery and Resolution) Regulations 2015* (S.I. No. 289 of 2015), reg. 187(d), in force as per reg. 1(2).
+>
+> **Effect of appointment of special manager.**
+>
+> **69.—** ...
+>
+> (6) A special management order has effect notwithstanding anything in—
+>
+> (a) the Companies Acts, **[**...**]** the Credit Union Act 1997 or the Central Bank Acts 1942 to 2011,
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Responsibilities and powers for managing the performance and exercise of functions and powers of Central Bank under Act delegated to Registrar of Credit Unions by *Central Bank Act* (22/1942), s. 33AA, as inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 26, S.I. No. 160 of 2003.
+>
+> E2: Act included within definition of “designated enactments” for purposes of *Central Bank Act 1942* (22/1942), s. 2(1) and sch. 2 pt. 1 item 25, as inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 31 and as substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 pt. 1 items 6 and 82, S.I. No. 469 of 2010.
+>
+> E3: Previous affecting provision: power to designate powers of members to Minister prescribed (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 47(1), S.I. No. 623 2010; reference to Act deleted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 110(5) and sch. 2 pt. 5 item 51, S.I. No. 548 of 2011.
+>
+> E4: Previous affecting provision: application of Act restricted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 53(a), S.I. No. 623 2010; reference to Act deleted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 110(5) and sch. 2 pt. 5 item 56, S.I. No. 548 of 2011.
+>
+> E5: Provision for the continuance in force of certain existing regulations made by Minister for Enterprise, Trade and Employment under Act, capable of being continued in force by the Minister for Finance, made (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 36 and sch. 3 para. 27, S.I. No. 160 of 2003.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Credit Union Act, 1997.
+
+(2) This Act shall come into operation on such day or days as may be fixed by order made by the Minister; and different days may be so fixed for different provisions and for different purposes.
+
+(3) Without prejudice to the generality of *subsection (2)*, an order under that subsection may make different provision in relation to credit unions registered before the passing of this Act as compared with those registered later.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.08.2001) by *Credit Union Act, 1997 (Commencement) Order 2001* (S.I. No. 378 of 2001).
+>
+> **2.** The 1st day of August, 2001, is fixed as the day on which sections 46 to 52 of the Credit Union Act, 1997 (No. 15 of 1997), shall come into operation.
+>
+> E7: Power pursuant to section exercised (1.10.1997) by *Credit Union Act, 1997 (Commencement) Order 1997* (S.I. No. 403 of 1997).
+>
+> **2.** The 1st day of October, 1997, is hereby fixed as the day on which
+>
+> ( *a* )Parts I and II,
+>
+> ( *b* )Part III (other than sections 46 to 52)),
+>
+> ( *c* )Part IV (other than section 68 (1)(*c*)),
+>
+> ( *d* )Parts V and VI,
+>
+> ( *e* )Part VII (other than sections 120 (5) and 122 (1)(*f*)),
+>
+> ( *f* )Parts VIII to XIV, and
+>
+> ( *g* )the First, Second, Third, Fourth and Fifth Schedules, of the Credit Union Act, 1997 (No. 15 of 1997), shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—F1[(1) In the *Credit Union Acts 1997 to 2012*—
+
+"Act of 1966" means the Credit Union Act 1966;
+
+F2["Act of 2014" means the Companies Act 2014;]
+
+"Advisory Committee" means the committee established under section 180;
+
+"amendment", in relation to the rules of a credit union, includes a new rule, and a resolution rescinding a rule, of the credit union;
+
+"annual accounts" has the meaning given by *section 111(6)*;
+
+"annual general meeting" has the meaning given by *section 78(1)*;
+
+"annual return" means the annual return which a credit union is required by *section 124* to send to the Bank;
+
+"Bank" means the Central Bank of Ireland;
+
+"board of directors" means the body which has general control, direction and management of a credit union and to which *section 53* relates;
+
+"board oversight committee" has the meaning given by *section 76L*;
+
+"books and documents" includes accounts and records made in any manner, and "books or documents" shall be construed accordingly;
+
+"business continuity" and "business continuity plan" have the meanings given to them, respectively, by *section 76I*;
+
+"chair" has the meaning given by *section 55A(2)*;
+
+"civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"cohabitant" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"common bond" means a common bond falling within *section 6(3)*;
+
+F2["company" means a company formed and registered under the Act of 2014 or an existing company within the meaning of that Act;]
+
+"compliance officer" has the meaning given by *section 76D*;
+
+"contravention" includes failure to comply;
+
+F2["corporate credit union" means a credit union registered pursuant to *section 6(6)*;]
+
+"Court" means the High Court;
+
+F3["Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;]
+
+"credit institution" means—
+
+(*a*) a recognised bank within the meaning of the Central Bank Acts 1942 to 2011,
+
+(*b*) a trustee savings bank,
+
+(*c*) the Post Office Savings Bank, or
+
+(*d*) a building society within the meaning of the Building Societies Act 1989;
+
+"credit union" means a society registered as such under this Act, including a society deemed to be so registered by virtue of *section 5(3)*;
+
+"debentures" means any debentures, debenture stock or bonds of a credit union, whether constituting a charge on the assets of the credit union or not;
+
+"financial services legislation", where applicable to credit unions acting under any authorisation from the Bank provided for by law, means—
+
+(*a*) the designated enactments within the meaning of section 2 of the Central Bank Act 1942,
+
+(*b*) the designated statutory instruments within the meaning of section 2 of the Central Bank Act 1942, and
+
+(*c*) the Central Bank Acts 1942 to 2011 together with the statutory instruments made under those Acts;
+
+"general meeting" means an annual general meeting or a special general meeting;
+
+F4["interim period" means—
+
+(*a*) the period beginning on the date of the passing of the Finance (Miscellaneous Provisions) Act 2020 and ending on 30 April 2021, and
+
+(*b*) such other period (if any) as may be specified by order under *section 3A*;]
+
+"internal audit charter" has the meaning given by *section 76K(2)*;
+
+"internal audit function" has the meaning given by *section 76K(1)*;
+
+"internal audit plan" has the meaning given by *section 76K(3)*;
+
+"manager", in relation to a credit union, means the individual appointed to the role of manager of the credit union under *section 63A*;
+
+"management team" has the meaning given by *section 55(1)(i)*;
+
+"meeting", includes, where the registered rules of a credit union so allow, a meeting of delegates appointed by members;
+
+"member of the family", in relation to any person, means that person’s father, mother, grandfather, grandmother, father-in-law, mother-in-law, spouse or civil partner, cohabitant, son, daughter, grandson, granddaughter, brother, sister, half-brother, half-sister, uncle, aunt, nephew, niece, first cousin, step-son, step-daughter, step-brother, step-sister, son-in-law, daughter-in-law, brother-in-law or sister-in-law;
+
+"Minister" means the Minister for Finance;
+
+"nomination committee" has the meaning given by *section 56B(1)*;
+
+"non-qualifying member", in relation to a credit union, has the meaning given by *section 17(4)*;
+
+"officer", in relation to a credit union, includes—
+
+(*a*) the chair, the secretary or any other member of the board of directors, a member of a principal Committee, a member of the board oversight committee, F7[a member of the appellate body referred to in *section 37*,] risk management officer, compliance officer, credit officer or credit control officer of the credit union,
+
+(*b*) an employee of the credit union to whom *paragraph (a)* does not apply, and
+
+(*c*) a voluntary assistant of the credit union,
+
+but does not include an auditor appointed by the credit union in accordance with the requirements of this Act;
+
+"operational risk" has the meaning given by *section 76E(1)*;
+
+"organisation meeting" has the meaning given by *section 77(1)*;
+
+"pass book" includes any type of written statement of account;
+
+"persons claiming through a member" includes the executors or administrators and assignees of a member and, where nomination is allowed, the member’s nominee;
+
+"prescribe" means—
+
+(*a*) in relation to the Minister, prescribed by regulations made by the Minister under *section 182*, and
+
+(*b*) in relation to the Bank, prescribed by regulations made by the Bank under *section 182A*;
+
+"principal Committee", in relation to a credit union, means a credit committee, credit control committee or membership committee;
+
+F2["public body" means—
+
+(*a*) a Department of State,
+
+(*b*) an entity established by or under any enactment (other than the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act),
+
+(*c*) any other entity established (other than under the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act) or appointed by the Government or a Minister of the Government, including an entity established (other than under the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act) by a Minister of the Government under any scheme,
+
+(*d*) a company a majority of the shares in which are held by or on behalf of a Minister of the Government,
+
+(*e*) a subsidiary of a company to which *paragraph (d)* relates, or
+
+(*f*) an entity (other than a subsidiary to which *paragraph (e)* relates) that is directly or indirectly controlled by an entity to which *paragraph (b)*, *(c)*, *(d)* or *(e)* relates;]
+
+"register" means the register maintained under *section 8(5)*;
+
+"registered" means for the time being entered in the register and ‘registration’ shall be construed accordingly;
+
+"regulatory directions" has the meaning given by *section 87(3)*;
+
+"restructuring proposal" has the meaning given by section 45 (1) of the Credit Union and Co-operation with Overseas Regulators Act 2012;
+
+"risk management officer" has the meaning given by *section 76C(1)*;
+
+"risk management system" has the meaning given by *section 76B(1)*;
+
+"savings", in relation to a credit union, has the meaning given by *section 27(1)*;
+
+"share", in relation to a credit union, means each sum of one euro standing to the credit of a member of that credit union in respect of shares in the register of members required by this Act to be kept by that credit union;
+
+"special general meeting" shall be construed in accordance with *section 79*;
+
+"special resolution" means a resolution which is passed by a majority of not less than three quarters of such members of a credit union present and voting and who are for the time being entitled to vote in person F5[or, subject to the rules of the credit union, by proxy] at any general meeting of which notice, specifying the intention to propose the resolution, has been duly given according to the rules of the credit union;
+
+"strategic objectives" has the meaning given by *section 76A(1)*;
+
+"strategic plan" has the meaning given by *section 76A(1)*;
+
+F2["subsidiary" has the same meaning as it has in the Act of 2014;]
+
+"voluntary assistant", in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.]
+
+F8[(2) Any reference in this Act to a member present at a meeting means—
+
+(*a*) in the case of a member who is not a natural person, being represented at the meeting by a representative, as mentioned in *section 82(4)*, and
+
+(*b*) in the case of a member who has appointed a proxy under *section 82A*, being represented at the meeting by such proxy.]
+
+F6[(2A) Any reference in this Act to a member present and voting at a general meeting shall be construed as including a reference to a member in attendance and voting at a general meeting conducted wholly or partly by the use of electronic communications technology (within the meaning of *section 78A*).]
+
+(3) In this Act a reference to a Part, section or Schedule is to a Part, section or Schedule of or to this Act, unless it is indicated that reference to some other enactment is intended.
+
+(4) In this Act a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(5) In this Act a reference to an enactment includes a reference to that enactment as amended by or under any enactment, including this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 6, S.I. No. 393 of 2013.
+>
+> F2: Inserted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 3(b), S.I. No. 57 of 2024.
+>
+> F3, F4, F5, F6: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 3(a)(I), (ii), (c), commenced on enactment.
+>
+> F7: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 3(a), S.I. No. 57 of 2024.
+>
+> F8: Substituted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 3(b), commenced on enactment.
+>
+> F9: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 3(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: subs. (1), definition of "common bond" substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 3(c), not commenced as of date of revision.
+>
+> F9["common bond" means a common bond falling within *subsection (3)* or *(7)* of *section 6*;]
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (1) amended (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(7) and sch. 2 part 7, S.I. No. 469 of 2010; subsection substituted as per F-note above.
+>
+> E9: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 1, S.I. No. 160 of 2003; subsection substituted as per F-note above.
+>
+> E10: Previous affecting provision: subs. (1) amended (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6, commenced as per section; subsection substituted as per F-note above.
+
+### 3. Orders and regulations.
+
+**3.**—(1) Any power under this Act to make an order includes power to amend or revoke an order made in the exercise of that power.
+
+(2) Every order or regulation made under this Act, other than an order under *section 1 (2)*, shall be laid before each House of the Oireachtas as soon as practicable after it is made; and, if a resolution annulling the order or regulation is passed by either such House within the next twenty-one days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(3) Except in so far as any provision of this Act otherwise provides, any power conferred by this Act on the F10[Bank] to give directions shall be exerciseable by rules and for the purposes of section 2 of the Statutory Instruments Act, 1947, any rules made by the F10[Bank] under this Act shall be taken to be of a character which affects a class of the public.
+
+(4) Any order, regulation, direction or rules made under this Act—
+
+(*a*) may contain such consequential, supplementary and ancillary provisions as the Minister or, as the case may be, the F10[Bank] considers necessary or expedient; and
+
+(*b*) may make different provision for different cases or descriptions of cases.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 2, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of subs. (2) extended (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 2(2), S.I. No. 557 of 2012.
+>
+> **Commencement.**
+>
+> **2.—** ...
+>
+> (2) Notwithstanding the commencement of the Principal Act, the provisions of section 3(2) of the Principal Act relating to an order under section 1(2) of that Act apply to an order made under this section.
+
+### 3A. Extension of interim period.
+
+F11[**3A.**—The Government may, at the request of the Minister made after consultation with the Minister for Health, from time to time, by order extend the interim period, either generally or with reference to any particular purpose or provision, for such period as they consider appropriate if they are satisfied that, having regard to—
+
+(*a*) the threat to public health presented by Covid-19,
+
+(*b*) the highly contagious nature of that disease,
+
+(*c*) the need to restrict the movement of persons in order to prevent the spread of the disease among the population and the effect that such restriction may have on travel and meetings, and
+
+(*d*) the need to mitigate the economic effects arising from Covid-19,
+
+the making of such order is in the public interest.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 4, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E11: Power pursuant to section exercised (20.04.2021) by *Credit Union Act 1997 (Section 3A) Order 2021* (S.I. No. 197 of 2021). This extends the interim period from 1 May 2021 to 30 June 2021.
+>
+> E12: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 4. Expenses incurred by the Minister.
+
+F12[**4.**—Expenses incurred by the Minister in administering this Act are payable out of money provided by the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 3, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3.
+
+### 5. Repeals and transition from the former law.
+
+**5.**—(1) The following enactments are hereby repealed—
+
+(*a*) the Act of 1966; and
+
+(*b*) Part III of the Industrial and Provident Societies (Amendment) Act, 1978.
+
+(2) After the commencement of this subsection, a society may not become registered as a credit union except under this Act.
+
+(3) A society which, immediately before the commencement of this subsection, was registered as a credit union under the Industrial and Provident Societies Acts, 1893 to 1978, shall, at that commencement, be deemed to be registered as a credit union under this Act and, accordingly—
+
+(*a*) after that commencement, no provision of those Acts shall apply to a credit union; and
+
+(*b*) except in so far as the rules of a credit union which is deemed to be so registered are contrary to any provision of this Act, those rules, as in existence immediately before the commencement of this subsection, shall be regarded as its registered rules at that commencement.
+
+(4) Subject to *subsection (5)*, if at any time the F13[Bank] is satisfied that a society registered under the Industrial and Provident Societies Acts, 1893 to 1978, or the Friendly Societies Acts, 1896 to 1977, is carrying on its affairs in such a way that its objects are wholly or substantially those of a credit union, F13[it] may, notwithstanding anything in those Acts, direct the society, within a period specified in the direction—
+
+(*a*) to cease all its activities or some activities specified in the direction; or
+
+(*b*) to wind up its affairs; or
+
+(*c*) to register by virtue of this Act as a credit union;
+
+and a society to which such a direction is given shall comply with it within the specified period.
+
+(5) *Subsection (4)* does not apply to a society—
+
+(*a*) which was registered under the Industrial and Provident Societies Acts, 1893 to 1936, between 24th January 1962 and 31st August 1966; and
+
+(*b*) the objects of which have at all times been wholly or substantially those of a credit union.
+
+(6) After the commencement of this subsection, a society the objects or proposed objects of which are wholly or substantially those specified in *section 6 (2)* may not be registered under the Industrial and Provident Societies Acts, 1893 to 1978.
+
+(7) *Section 3 (3)* shall not apply to directions under *subsection (4)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 4, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provisions: *Industrial and Provident Societies (Financial Limits) Regulations 1985* (S.I. No. 392 of 1985) and *Industrial and Provident Societies (Financial Limits) (Amendment) Regulations 1990* (S.I. No. 246 of 1990) continued in effect and deemed to have been continued in effect despite repeal of *Credit Union Act 1966*, s. 35(1)(h) until passing of *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (29.06.2005) by *Investment Funds, Companies and Miscellaneous Provisions Act 2005* (12/2005), s. 86, commenced on enactment.
+
+## PART IIRegistration and Membership — PART II — Registration and Membership
+
+*Registration*
+
+### 6. Conditions for registration as a credit union.
+
+**6.**—(1) A society may be registered under this Act as a credit union if the F14[Bank] is satisfied that each of the following conditions is fulfilled—
+
+(*a*) the society is formed for the objects specified in *paragraphs (a)* to *(c)* of *subsection (2)* and for no other purposes beyond those specified in *paragraphs (d)* to *(g)* of that subsection;
+
+(*b*) admission to membership of the society is restricted to persons each of whom has, in relation to all the other members, at least one of the common bonds specified in *subsection (3)*;
+
+(*c*) it has at least 15 members who are of full age;
+
+(*d*) its rules comply with *section 13*;
+
+(*e*) the place which under those rules is, or is to be, the society's registered office is in the State;
+
+(*f*) F15[...]
+
+(*g*) it has in force (or will have in force if registered) such a policy of insurance as is required by *section 47*.
+
+(2) The objects referred to in *subsection (1)(a)* are—
+
+F16[(*a*) the promotion of the accumulation of savings by its members;]
+
+(*b*) the creation of sources of credit for the mutual benefit of its members at a fair and reasonable rate of interest;
+
+(*c*) the use and control of members' savings for their mutual benefit;
+
+(*d*) the training and education of its members in F16[the use of money];
+
+(*e*) F17[...];
+
+(*f*) the improvement F16[of the well-being of the members’ community;] and
+
+(*g*) subject to *section 48*, the provision to its members of such additional services as are for their mutual benefit.
+
+(3) The common bonds referred to in *subsection (1)(b)* are—
+
+(*a*) following a particular occupation;
+
+(*b*) residing or being employed in a particular locality;
+
+(*c*) being employed by a particular employer or having retired from employment with a particular employer;
+
+(*d*) being a member of a *bona fide* organisation or being otherwise associated with other members of the society for a purpose other than that of forming a society to be registered as a credit union;
+
+(*e*) any other common bond approved by the F14[Bank].
+
+(4) In ascertaining whether a common bond exists between the members of a society, the F14[Bank]—
+
+(*a*) shall have regard to the qualifications which are stated in the rules to be required for admission to membership of the society, and
+
+(*b*) may, if F14[it] considers it proper in the circumstances of the case, treat the fact that admission to membership is restricted as mentioned in *subsection (1)(b)* as sufficient evidence of the existence of a common bond.
+
+(5) For the purposes of this Act, if the rules of a credit union so provide, a person shall be treated as having the qualification required for admission to membership stated in those rules if he is a member of the same household as, and is a member of the family of, another person who is a member of the credit union and who has a direct common bond with those other members.
+
+(6) ...
+
+(7) ...
+
+(8) ...
+
+(9) ...
+
+F18[(10) Where a website is maintained by or on behalf of a credit union, the credit union shall publish, on the website maintained by it or on its behalf, as the case may be—
+
+(*a*) a description of the common bond of the credit union, or
+
+(*b*) where the common bond of the credit union is or includes that specified in *paragraph (b)* of *subsection (3)*, a map on which the locality concerned is marked.
+
+(11) Where no website is maintained by or on behalf of a credit union, the credit union shall include in its annual accounts—
+
+(*a*) a description of the common bond of the credit union, or
+
+(*b*) where the common bond of the credit union is or includes that specified in *paragraph (b)* of *subsection (3)*, a map on which the locality concerned is marked.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 5, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F15: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 1, S.I. No. 393 of 2013.
+>
+> F16: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(b)(i), (ii), (iv), S.I. No. 57 of 2024.
+>
+> F17: Deleted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(b)(iii), S.I. No. 57 of 2024.
+>
+> F18: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(c), S.I. No. 57 of 2024, art. 3(c).
+>
+> F19: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(a), not commenced as of date of revision.
+>
+> F20: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subs. (1) amended by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(a), not commenced as of date of revision.
+>
+> **6.**—(1) F19[Subject to *subsection (6)*, a society may be registered] under this Act as a credit union if the F14[Bank] is satisfied that each of the following conditions is fulfilled—
+>
+> C7: Prospective affecting provision: subss. (6), (7), (8), (9) inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 4(c), not commenced as of date of revision.
+>
+> F20[(6) A society may be registered under this Act as a credit union where all of the members of the society are credit unions and the Bank is satisfied that each of the following conditions is fulfilled:
+>
+> (*a*) the society is formed—
+>
+> (i) for no object other than—
+>
+> (I) to provide services to those credit unions and their members, and
+>
+> (II) the objects specified in *paragraphs (a)* to *(c)* of *subsection (2)*,
+>
+> and
+>
+> (ii) for no other purposes beyond those specified in *paragraphs (d)* to *(g)* of *subsection (2)*;
+>
+> (*b*) each of its members share the common bonds of a corporate credit union;
+>
+> (*c*) its rules comply with *section 13*;
+>
+> (*d*) the place which under those rules is, or is to be, the society’s registered office is in the State;
+>
+> (*d*) the place which under those rules is, or is to be, the society’s registered office is in the State;
+>
+> (*e*) it has in force (or will have in force if registered) such a policy of insurance as is required by *section 47.*
+>
+> (7) The common bonds of a corporate credit union are—
+>
+> (*a*) that each of its members is a credit union (other than a corporate credit union), and
+>
+> (*b*) the additional qualifications, if any, which are stated in its rules to be required for admission to membership of the society.
+>
+> (8) In ascertaining whether the members of a society share the common bonds of a corporate credit union, in a case in which the society has stated in its rules additional qualifications which are required for admission to membership of the society, the Bank shall have regard to those qualifications.
+>
+> (9) A society registered in accordance with *subsection (6)* may promote collaboration between its members and enhance the services provided by its members to their members.]
+
+### 6A. Supplemental provisions relating to registration, etc., under section 6 of Principal Act.
+
+F21[**6A.**—(1) The Bank may impose such conditions, if any, as the Bank considers to be necessary to protect, with effect from registration under this Part, the interests of the members of the society seeking registration and any such conditions shall be a condition for registration as a credit union.
+
+(2) The conditions imposed by the Bank under *subsection (1)* may include requiring a credit union—
+
+(*a*) to notify the Bank of any events of such significance that could materially affect the credit union including any change to the strategic plan of the credit union;
+
+(*b*) to operate a more limited business model agreed with the Bank;
+
+(*c*) to cause to be undertaken an independent review of the credit union’s business within 12 months in order to ensure that the credit union is complying with all legal and regulatory requirements.
+
+(3) Any of the conditions of registration may be amended or revoked by the Bank if, in the opinion of the Bank—
+
+(*a*) the amendment or revocation is necessary to protect the interests of the credit union’s members, or
+
+(*b*) the conditions concerned have become spent or obsolete and should be revoked.
+
+(4) Whenever the Bank proposes to impose a condition in relation to a registration or to amend the conditions of a registration—
+
+(*a*) it shall notify in writing the society seeking registration under this Part or the credit union concerned, as the case may be—
+
+(i) that it intends to impose one or more than one condition in relation to the registration or to amend the existing conditions of the registration imposed under this section, as the case may be, and of its reasons for so doing, and
+
+(ii) that the society or credit union concerned, as the case may be, may, within 15 working days after the date of the giving of the notification, make representations in writing to the Bank in relation to the imposition or amendment, as the case may be, and shall specify in the notification, the condition or the amendment, as the case may be,
+
+and
+
+(*b*) the society or credit union concerned, as the case may be, may make such representations to the Bank within the time referred to in *paragraph (a)(ii)*.
+
+(5) Before deciding to impose conditions of registration, or an amendment of conditions of the registration, under this section, as the case may be, the Bank shall consider any representations duly made to it under *subsection (4)(b)* and, after so considering, the Bank may—
+
+(*a*) decide to impose the conditions of registration, or the amendment of the conditions of the registration, under this section, as the case may be,
+
+(*b*) decide to impose the conditions or amend the conditions of the registration under this section, as the case may be, that differ from those specified in the notification concerned, but only if the difference results in the conditions concerned being no more onerous than would be the case had the Bank decided to impose the conditions or amend the conditions of the registration, as the case may be, in accordance with the notification concerned, or
+
+(*c*) without prejudice to *subsections (1)* to *(3)*, decide not to impose the conditions or not to amend the conditions of the registration.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Inserted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 7, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E14: The section title is taken from the amending section in the absence of one included in the amendment.
+
+### 7. Application for registration as a credit union.
+
+**7.**—(1) An application for the registration of a society as a credit union shall be made to the F22[Bank] and shall be signed by 15 members of the society, all of whom have the same common bond and one of whom shall be the secretary.
+
+(2) An application under *subsection (1)* shall be accompanied by two printed copies of the society's rules.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 6, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F23: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 5(a), not commenced as of date of revision.
+>
+> F24: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 5(b), not commenced as of date of revision.
+>
+> F25: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 5(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: subs. (1) substituted, subs. (1A) inserted and subs. (2) amended by *Credit Union (Amendment) Act 2023* (34/2023), s. 5(a), (b), (c), not commenced as of date of revision.
+>
+> (1) F23[Subject to *subsection (1A)*, an application] shall be accompanied by two printed copies of the society's rules.
+>
+> F24[(1A) An application for the registration of a society as a credit union pursuant to *section 6(6)* shall be made to the Bank and shall be signed on behalf of each credit union which is a member of the society by the secretary of each such credit union.]
+>
+> (2) F25[An application under *subsection (1)* or *(1A)*] shall be accompanied by two printed copies of the society's rules.
+
+### 8. Acknowledgement or refusal of registration.
+
+**8.**—(1) If the F26[Bank] is satisfied that a society which has made an application for registration as a credit union has complied with the provisions of this Act as to such registration, the F26[Bank] shall issue to the society, as a credit union, an acknowledgement of registration assigning it a registered number.
+
+(2) Unless the contrary is shown, an acknowledgement of registration issued under *subsection (1)* shall be sufficient evidence that the society concerned is registered as a credit union.
+
+F27[(3) If the Bank refuses to register as a credit union a society that has made an application for registration, it shall, by notice in writing, inform the society of the refusal. The notice must include a statement setting out the grounds for the refusal.]
+
+F27[(4) A decision of the Bank refusing to register a society as a credit union is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+(5) The F26[Bank] shall enter the name of every credit union in a register maintained for the purposes of this Act (being a continuation of the register kept for the purposes of the Act of 1966).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 7, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F27: Substituted (1.08 2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 1, S.I. No. 455 of 2004.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: subss. (3) and (4) amended by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 7, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; subsections substituted as per F-note above.
+
+### 9. Effect of registration.
+
+**9.**—(1) By virtue of its registration, a credit union shall be a body corporate known by its registered name (by which it may sue and be sued) with perpetual succession, a common seal and limited liability.
+
+(2) The registration of a credit union shall vest in the credit union all property for the time being vested in any person in trust for the credit union and all proceedings pending by or against the trustees of the credit union may be brought or continued by or against the credit union in its registered name.
+
+(3) Legal proceedings in respect of any contract or other transaction—
+
+(*a*) entered into by an unincorporated society before the date on which it becomes a credit union, or
+
+(*b*) purporting to be entered into by such a society or by any person on its behalf before that date,
+
+may, on or after that date, be brought by or against the credit union, subject to the Statute of Limitations, 1957, as if it had been registered as a credit union at the date of the contract or other transaction.
+
+### 10. Registered name.
+
+**10.**—(1) The words “credit union” or “comhar creidmheasa” shall be included in the name of every credit union.
+
+(2) The name of every credit union shall end with the word “Limited” or “Teoranta” which may be abbreviated to “Ltd.” or “Teo.” respectively.
+
+(3) A credit union shall not use any name or title other than its registered name.
+
+(4) A society shall not be registered—
+
+(*a*) under a name which includes the word “bank”, “banker” or “banking” or any other word which is a translation, variant or derivative of any of those words, or
+
+(*b*) under any other name which, in the opinion of the F28[Bank], is undesirable.
+
+(5) A society shall not be registered under a name identical with that of an existing credit union or so nearly resembling such a name as to be likely to mislead members of the public as to its identity.
+
+(6) As soon as practicable, every credit union shall cause its registered name to be painted or affixed, and to be kept painted or affixed, in a conspicuous position and in letters easily legible, on the outside of its registered office and every other office or place in which the business of the credit union is carried on, and shall have that name engraved in legible characters on its seal and set out in legible characters—
+
+(*a*) in all notices, advertisements and other official publications of the credit union;
+
+(*b*) in all business letters of the credit union;
+
+(*c*) in all bills of exchange, promissory notes, endorsements, cheques, orders for money or goods and other instruments purporting to be signed by or on behalf of the credit union; and
+
+(*d*) in all bills, invoices, receipts, and letters of credit of the credit union.
+
+F29[(7) Notwithstanding *subsection (6)* a credit union which is a sub-office of a registered credit union may cause its name, along with the registered name of the credit union, to be painted or affixed, and to be kept painted or affixed, in a conspicuous position and in letters easily legible, on the outside of its office.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 8, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F29: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 2, S.I. No. 393 of 2013.
+
+### 11. Change of registered name.
+
+**11.**—(1) A credit union may not change its name except in accordance with this section.
+
+(2) A credit union may change its name—
+
+(*a*) by a resolution for the purpose passed at a general meeting of the credit union after the giving of such notice as is required by the rules of the credit union for such a resolution or, if the rules do not make special provision as to notice of such resolution, after the giving of such notice as is required by the rules for a resolution to amend the rules; and
+
+(*b*) with the prior approval in writing of the F30[Bank].
+
+F31[(3) A decision of the Bank declining to give its approval under subsection (2)(*b*) is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+(4) A change in the name of a credit union shall not affect any right or obligation of the credit union, or of any member thereof, and any pending legal proceedings may be continued by or against the credit union notwithstanding its new name.
+
+(5) Where, in the opinion of the F30[Bank], a credit union is (through inadvertence or otherwise) for the time being registered under a name which is undesirable, the F30[Bank]—
+
+(*a*) within one year of its being registered under that name, or
+
+(*b*) in the case of a society deemed to be registered under this Act by virtue of *section 5 (3)*, within one year from the commencement of this section,
+
+F32[may decide to direct and direct the credit union to change its name to a name approved by the Bank].
+
+(6) A credit union shall comply with a direction given to it under *subsection (5)*.
+
+(7) Where a credit union changes its name under this section, the F30[Bank]—
+
+(*a*) shall enter the new name in the register in place of the former registered name; and
+
+(*b*) shall issue to the credit union an acknowledgement of registration, altered to meet the circumstances of the case.
+
+(8) *Section 3 (3)* shall not apply to a direction under *subsection (5)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 9, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F31: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 2, S.I. No. 455 of 2004.
+>
+> F32: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 3, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: subss. (3) and (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 9, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; subsection substituted as per F-note above.
+
+### 12. Protection of use of seal and registered name of credit union.
+
+**12.**—(1) The seal of a credit union shall be used only under the authority of a resolution of the board of directors and shall be attested by the signatures of two directors of the credit union and the countersignature of the secretary for the time being.
+
+(2) Any officer of a credit union, or any other person acting on a credit union's behalf, who—
+
+(*a*) uses any seal purporting to be a seal of the credit union which does not have the credit union's registered name engraved on it in legible characters, or
+
+(*b*) issues or authorises the issue of any document such as is mentioned in *paragraph (a)*, *paragraph (b)* or *paragraph (d)* of *subsection (6)* of *section 10* in which that name is not set out in legible characters, or
+
+(*c*) signs or authorises to be signed on behalf of the credit union any document such as is mentioned in *paragraph (c)* of that subsection in which that name is not so set out,
+
+shall be guilty of an offence.
+
+(3) Subject to *subsection (4)*, any person, other than a credit union, who—
+
+(*a*) uses in reference to himself, a name, title or descriptive expression containing the words “credit union ” or “comhar creidmheasa” or any cognate term or any derivative of those words, or
+
+(*b*) represents himself as being a credit union,
+
+shall be guilty of an offence.
+
+(4) *Subsection (3)* does not apply to—
+
+(*a*) the use by an officer of a title or descriptive expression indicating his office or post with the credit union; or
+
+(*b*) the use of the term “Irish League of Credit Unions” by the unincorporated association having that name immediately before the passing of this Act; or
+
+(*c*) the use with reference to an association or group of credit unions of a name which has been approved in writing by the F33[Bank].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 10, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+*Rules*
+
+### 13. Rules.
+
+**13.**—(1) The rules of a credit union shall be in such form as the F34[Bank] may determine and shall contain—
+
+(*a*) provisions with respect to the matters in the *First Schedule*; and
+
+(*b*) such additional provisions as the F34[Bank] may determine, after consultation with the Advisory Committee and such other bodies as appear to F34[it] to be expert or knowledgeable in matters relating to credit unions.
+
+(2) The rules of a credit union may specify the form of any instrument necessary for carrying the purposes of the credit union into effect.
+
+(3) An acknowledgement of registration issued to a credit union under this Part shall constitute an acknowledgement, and, unless the contrary is proved, be sufficient evidence of the registration of the rules of that credit union in force at the date of the acknowledgement of the registration of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 11, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F35: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 6(a), not commenced as of date of revision.
+>
+> F36: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 6(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: subs. (1)(a) substituted and (1)(aa) inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 6(a), (b), not commenced as of date of revision.
+>
+> F35[(*a*) in the case of a credit union, other than a corporate credit union, provisions with respect to the matters in the *First Schedule*,]
+>
+> F36[(*aa*) in the case of a corporate credit union, provisions with respect to the matters specified in the *Sixth Schedule*, and]
+
+### 14. Amendment of registered rules.
+
+**14.**—(1) The rules of a credit union shall not be amended except by a resolution passed by not less than two-thirds of the members of the credit union present and voting at an annual general meeting or at a special general meeting called for the purpose of considering a resolution proposing an amendment of the rules.
+
+(2) An amendment of the registered rules of a credit union shall not be valid until the amendment has been registered under this Act, for which purpose two copies of the amendment, signed by four members, one of whom shall be the secretary and another a director, shall be sent to the F37[Bank].
+
+(3) *Subsection (2)* shall not apply to a change in the name of a credit union, but, where a change in the name of a credit union is made in accordance with *section 11*, the change in the credit union’s name shall be registered by the F37[Bank] as an amendment of the credit union's rules.
+
+F38[(3A) Before sending a copy of the amended rules to the Bank under *subsection (2)* the credit union is required to satisfy itself that the amendment is not contrary to the financial services legislation.]
+
+F40[(4) Except where the Bank is satisfied that an amendment of a credit union’s rules sent to it under *subsection (2)* is not in the interests of the proper and orderly regulation of the credit union, the Bank shall issue to the credit union, within 3 months of its receipt of the amendment, an acknowledgement of registration which, unless the contrary is proved, shall be sufficient evidence that the amendment is duly registered.]
+
+F39[(5) If the Bank is not satisfied that an amendment of a credit union’s rules sent to it under *subsection (2)* is F40[in the interests of the proper and orderly regulation of the credit union], it shall refuse to register the amendment, in which case it shall give the credit union a notice of its refusal to register the amendment. The notice shall include a statement setting out the grounds for the refusal.]
+
+F41[(5A) A decision of the Bank refusing to register an amendment of a credit union’s rules under *subsection (5)* is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.]
+
+(6) Notwithstanding anything in the rules of a credit union, the board of directors may, by resolution passed during the transitional period, make such amendments of the rules of the credit union as may be consequential on the provisions of this Act.
+
+(7) For the purposes of *subsection (6)*, the transitional period is the period of one year from the commencement of this section or such longer period as may be determined by the F37[Bank].
+
+(8) Notwithstanding anything in *subsection (4)*, after the expiry of one year from the commencement of this section, the F37[Bank] shall not be required to register any amendment of a credit union's rules unless such consequential amendments of the registered rules as are mentioned in *subsection (6)* either—
+
+(*a*) have been made before the F37[Bank] receives the amendment; or
+
+(*b*) are to be effected by the amendment.
+
+F42[(9) Notwithstanding anything in the rules of a credit union, the board of directors may, by resolution passed during the second transitional period, make such amendments of the rules of the credit union as may be consequential on the provisions of the Credit Union (Amendment) Act 2023.
+
+(10) For the purposes of *subsection (9)*, the second transitional period is the period of one year from the commencement of *section 7(d)* of the Credit Union (Amendment) Act 2023 or such longer period as may be determined by the Bank.
+
+(11) Notwithstanding anything in *subsection (4)*, after the expiry of one year from the commencement of section 7(d) of the Credit Union (Amendment) Act 2023, the Bank shall not be required to register any amendment of a credit union’s rules unless such consequential amendments of the registered rules as are mentioned in *subsection (9)* either—
+
+(*a*) have been made before the Bank receives the amendment, or
+
+(*a*) are to be effected by the amendment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 12, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F38: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 4, S.I. No. 393 of 2013.
+>
+> F39: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 5, S.I. No. 393 of 2013.
+>
+> F40: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 7(b), (c), S.I. No. 57 of 2024.
+>
+> F41: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 3, S.I. No. 455 of 2004.
+>
+> F42: Inserted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 7(d), S.I. No. 57 of 2024.
+>
+> F43: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 7(a), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subs. (2) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 7(a), not commenced as of date of revision.
+>
+> F43[(2) An amendment of the registered rules of a credit union shall not be valid until the amendment has been registered under this Act, for which purpose a copy of the amendment—
+>
+> (*a*) in the case of a credit union other than a corporate credit union, signed by 4 members, one of whom shall be the secretary and another a director, and
+>
+> (*b*) in the case of a corporate credit union, signed on behalf of not less than 2 members by the secretary of each of those members, shall be sent to the Bank.]
+>
+> C11: Application of subs. (2) restricted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 15(2), S.I. No. 393 of 2013.
+>
+> **Board of directors.**
+>
+> **15**.— ...
+>
+> (2) An amendment to the rules of a credit union passed in accordance with section 14(1) of the Principal Act to give effect to a reduction in the number of board of directors in compliance with that Act, shall have immediate effect notwithstanding section 14(2) of that Act.
+>
+> C12: Application of subs. (4) restricted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 4(4), S.I. No. 280 of 2013.
+>
+> **Savers for regulatory actions of Bank.**
+>
+> **4**.—...
+>
+> (4) Notwithstanding anything in section 14(4) of the Principal Act, after the expiry of one year from the commencement of this section, the Bank shall not be required to register any amendment of a credit union’s rules unless such consequential amendments of the registered rules as are mentioned in *subsection (2)* either—
+>
+> (*a*) have been made before the Bank receives the amendment; or
+>
+> (*b*) are to be effected by the amendment.
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: subs. (4) substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 5, S.I. No. 393 of 2013; substituted (8.04.2024) as per F-note above.
+>
+> E18: Previous affecting provision: subs. (5) substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 3, S.I. No. 455 of 2004; substituted (11.10.2013) as per F-note above.
+>
+> E19: Previous affecting provision: subs. (4) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 12, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+>
+> E20: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 12, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per E-note above.
+
+### 15. Rules to bind members.
+
+**15.**—(1) Subject to *subsection (2)*, the registered rules of a credit union shall bind the credit union and all members of it and all persons claiming through them respectively to the same extent as if—
+
+(*a*) each member had F44[subscribed the member’s name and affixed the member’s seal] to those rules; and
+
+(*b*) there were contained in those rules a covenant on the part of each member and any person F44[claiming through the member] to conform to those rules subject to the provisions of this Act.
+
+(2) A member of a credit union shall not, F44[without the member’s consent] in writing having been first obtained, be bound by any amendment of the credit union's rules registered F44[after they became a member], if and so far as that amendment—
+
+(*a*) F44[requires the member to subscribe] for more shares than the number F44[held by the member] at the date of registration of the amendment; or
+
+(*b*) F44[requires the member to pay] upon the shares so held any sum exceeding the amount unpaid upon them at that date; or
+
+(*c*) in any other way F44[increases the member’s liability] to contribute to the share capital of the credit union.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 8(a), (b), S.I. No. 57 of 2024.
+
+### 16. Provision of copies of rules.
+
+**16.**—(1) A copy of the rules of a credit union shall be supplied by the credit union to any person who demands it, on payment of such fee, not exceeding the permitted maximum, as may be determined by the credit union.
+
+(2) The permitted maximum referred to in *subsection (1)* is £1 or such larger sum as may for the time being be prescribed.
+
+*Membership*
+
+### 17. Requirements of, and qualifications for, membership.
+
+**17.**—(1) The minimum number of members of a credit union at any time shall be 15 except that, in the case of a credit union which—
+
+(*a*) by virtue of *subsection (3)* of *section 5*, is at the commencement of that section deemed to be registered as a credit union, and
+
+(*b*) has at that commencement a membership of not less than 7, but less than 15,
+
+the minimum number of members at any time shall be the number of members on the register of the credit union at that commencement.
+
+(2) F45[Subject to *subsection (2A)*, membership of a credit union] shall be limited to, and consist of, the signatories to the application to register the society as a credit union and such other persons, having the common bond set out in the rules of the credit union, as have been duly admitted members of the credit union in accordance with the rules and comply with such of the rules as relate to membership.
+
+F46[(2A) Where a signatory to an application to register a society as a credit union has signed on behalf of a non-natural person, the non-natural person and not the signatory shall be the member of the credit union.]
+
+(3) A person shall not be a member of a credit union F45[unless the person has] at least one fully paid-up share in the credit union, but the rules of the credit union shall not require a person to have more than F47[€10], or such larger sum as may be prescribed, in fully paid-up shares as a condition of membership.
+
+F48[(3A) Subject to the rules of the credit union concerned, a member who held common bond of that credit union shall not cease to be a member solely because that member no longer holds the common bond of that credit union.]
+
+F49[(4) If a member of a credit union ceases to have the common bond required of members of that credit union, any such member (referred to as a non-qualifying member) shall be left out of account in determining for any purpose whether a common bond exists between the members of the credit union.]
+
+(5) Subject to any provision to the contrary in the rules of a credit union, F45[a natural person] under the age of sixteen—
+
+(*a*) may be a member of the credit union, and
+
+(*b*) subject to *subsection (6)*, may enjoy all the rights of membership, other than voting rights, and can give all necessary receipts.
+
+F50[(6) Notwithstanding anything in *subsection (5)*, a member of a credit union who is not of full age may not be a member of the board of directors or of a principal Committee or an office manager of the credit union.]
+
+F45[(7) Notwithstanding any other provision of this Act, a body (whether incorporated or unincorporated), other than a corporate credit union, may be admitted to, and retain membership of, a credit union, with the same rights and obligations as a natural person where—
+
+(*a*) the majority of the members of the body are, and continue to be, eligible for membership of the credit union,
+
+(*b*) the body has the common bond, set out in the rules of the credit union, in relation to the other members of the credit union, or
+
+(*c*) the body is a public body designated in an order made under *subsection (7B)* as being eligible for membership of—
+
+(i) the credit union, or
+
+(ii) a category of credit unions to which the credit union belongs.]
+
+F46[(7A) For the purposes of ascertaining whether a body has the common bond referred to in *paragraph (b)* of *subsection (7)*—
+
+(*a*) a body shall be treated as following a particular occupation where its business is that of a person following the occupation, and
+
+(*b*) a body shall be treated as residing in a particular locality where it has a place of business in that locality.
+
+(7B) The Minister may, following consultation with the Advisory Committee and such other bodies as appear to the Minister to be expert or knowledgeable in matters relating to credit unions, by order designate a public body as being eligible for membership of a credit union or a specified category of credit unions, which order shall specify the reasons for which the public body is so eligible.
+
+(7C) The reasons referred to in *subsection (7B)* shall—
+
+(*a*) where a credit union is specified in the order, be reasons relating to the common bond of the credit union, or
+
+(*b*) where a category of credit unions is specified in the order, be reasons relating to the common bonds of credit unions falling within that category.]
+
+(8) A member of a credit union shall not be excluded from membership by any amendment of the credit union's rules registered after he became a member.
+
+F51[(9) A credit union shall—
+
+(*a*) in the case of a credit union registered before the commencement of *section 9(k)* of the Credit Union (Amendment) Act 2023, not later than 6 months after such commencement, and
+
+(*b*) in the case of a credit union registered after such commencement, not later than 6 months after its registration,
+
+put in place a process, approved by the board of directors, for the approval of applications for membership of the credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(c), (e), (h), (i), S.I. No. 57 of 2024.
+>
+> F46: Inserted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(d), (j), S.I. No. 57 of 2024.
+>
+> F47: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6(b), commenced as per section.
+>
+> F48: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 6, S.I. No. 393 of 2013.
+>
+> F49: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 7, S.I. No. 393 of 2013.
+>
+> F50: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 8, S.I. No. 393 of 2013.
+>
+> F51: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(k), S.I. No. 57 of 2024.
+>
+> F52: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(a), not commenced as of date of revision.
+>
+> F53: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(b), not commenced as of date of revision.
+>
+> F54: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(f), not commenced as of date of revision.
+>
+> F55: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(g), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: subss. (1), (3A) amended and subss. (1A), (3B) inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 9(a), (b), (f), (g), not commenced as of date of revision.
+>
+> **17.**—(1) F52[Subject to *subsection (1A)*, the minimum number] of members of a credit union at any time shall be 15 except that, in the case of a credit union which—
+>
+> ...
+>
+> F53[(1A) The minimum number of members of a corporate credit union at any time shall be 2.]
+>
+> ...
+>
+> (3A) F54[Subject to *subsection (3B)* and the rules of the credit union concerned], a member who held common bond of that credit union shall not cease to be a member solely because that member no longer holds the common bond of that credit union.
+>
+> F55[(3B) A member of a corporate credit union shall cease to be a member of the corporate credit union upon ceasing to be a credit union.]
+
+### 18. Appeal against refusal of membership.
+
+**18.**—(1) A person who applies for membership of a credit union in accordance with its rules and is refused membership may appeal against the refusal to a Judge of the District Court for the district in which the registered office of the credit union is situated.
+
+(2) Notice of an appeal under this section shall be in writing and shall set out the grounds on which the appeal is based; and, on the hearing of the appeal, the District Court may either confirm the refusal of membership or direct the credit union to admit the appellant to membership.
+
+(3) The decision of the District Court on an appeal under this section shall be final, except that any question of law arising on the appeal may be referred to the Court for its determination; and, by leave of the Court, an appeal shall lie to the Supreme Court from any such determination of the Court.
+
+### 19. Expulsion and withdrawal from credit union.
+
+**19.**—(1) A member of a credit union may be expelled from the credit union F56[by a resolution for the member’s expulsion] passed by not less than two-thirds of the members present and voting at a special general meeting called for the purpose, provided that the member concerned—
+
+(*a*) is given at least 21 days' notice in writing of the meeting and the proposed resolution; and
+
+(*b*) is given a reasonable opportunity of being heard at the meeting.
+
+(2) A member who is expelled from a credit union may appeal against the expulsion to a Judge of the District Court for the district in which the registered office of the credit union is situated.
+
+(3) Notice of an appeal under this section shall be in writing and shall set out the grounds on which the appeal is based; and, on the hearing of the appeal, the District Court may either confirm or cancel the expulsion.
+
+(4) *Subsection (3)* of *section 18* shall apply to an appeal under this section as it applies to an appeal under that section.
+
+(5) A member of a credit union may withdraw from membership of the credit union by giving notice in accordance with the rules of the credit union.
+
+F56[(6) Subject to *subsections (7)* and *(8)*, all moneys due in respect of withdrawable shares and deposits by a credit union to a member who withdraws or is expelled from the credit union shall be paid to the member after deduction of all moneys due from the member to the credit union; and the nominal value of non-withdrawable shares held by a member who is expelled (but not one who withdraws) may also be paid to the member (after deduction of all moneys so due).]
+
+(7) Notwithstanding anything in its rules or in any contract, a credit union may, if it thinks fit, postpone payment of the whole or any part of the moneys to be paid as mentioned in *subsection (6)* until the end of the period of 60 days beginning on the date of the expulsion or withdrawal of the member concerned.
+
+(8) No payment in respect of shares shall be made by a credit union to a withdrawing or expelled member while any claim due on account of deposits is unsatisfied and no payment of any description shall be made to such a member unless all his liabilities (including contingent liabilities) to the credit union, whether as borrower, guarantor or otherwise, have been fully discharged or otherwise fully provided for by a person other than the credit union.
+
+(9) The withdrawal or expulsion of a member from a credit union shall not operate to relieve that member from any liability to the credit union which exists at the time of the withdrawal or expulsion.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 10, S.I. No. 57 of 2024.
+
+### 20. Remedy for debts from members.
+
+**20.**—(1) All money payable to a credit union by a member of it shall be recoverable summarily as a civil debt by the credit union from the member.
+
+(2) A credit union shall have a lien on the shares, deposits, dividends and interest of any member for any debt due to the credit union from that member, and may set off any sum credited to the member on those shares, deposits, dividends and interest in or towards the payment of that debt.
+
+### 21. Nomination of property in credit union.
+
+**21.**—(1) Subject to *subsections (2)* to *(4)*, a member of a credit union who is of or over the age of sixteen may, by a written statement signed by him and—
+
+(*a*) made in any book kept at the credit union's registered office, or
+
+(*b*) delivered at or sent to that office during his lifetime,
+
+nominate a person or persons to become entitled at his death to the whole, or such part or parts as may be specified in the nomination, of any property in the credit union (whether in savings, loans, insurances or otherwise) which he may have at the time of his death.
+
+(2) The nomination by a member of a credit union under *subsection (1)* of a person who is at the date of the nomination an officer of the credit union shall not be valid unless that person is a member of the nominator's family.
+
+F57[(3) For the purpose of the disposal of any property which is the subject of a nomination under *subsection (1)*, if, on the date of the nominator’s death, the amount of the nominator’s property in the credit union comprised in the nomination exceeds the amount standing specified, on that date, for the purposes of this subsection in an order made by the Minister under *subsection (10)*, the nomination shall be valid to the extent of the amount standing so specified, but not further or otherwise.]
+
+(4) A nomination by a member of a credit union under *subsection (1)* may be revoked or varied by a subsequent nomination by him under that subsection or by any similar document in the nature of a revocation or variation signed by the nominator and delivered to the credit union's registered office during his lifetime; but such a nomination shall not be revocable or variable by the will of the nominator or by any codicil to his will.
+
+(5) Each credit union shall keep a record—
+
+(*a*) of the names of all persons nominated by its members under *subsection (1)* and such other details as will positively identify the nominees; and
+
+(*b*) of all revocations or variations (if any) of nominations under that subsection.
+
+(6) The marriage of a member of a credit union shall operate as a revocation of any nomination made by him under *subsection (1)* before his marriage, but if, in ignorance of a later marriage, an officer of the credit union transfers any property of that member in pursuance of such a nomination, the receipt of the nominee shall be a valid discharge to the credit union, and the credit union shall be under no liability to any other person claiming the property.
+
+(7) A nomination under *subsection (1)* shall be revoked by the death of the nominee before the death of the nominator.
+
+F58[(8) The signature of a person making a written statement referred to in *subsection (1)* shall be witnessed by 2 other persons.
+
+(9) Each of the witnesses referred to in *subsection (8)* shall witness the signature of the person making the statement by applying the witness’s own signature to the statement.
+
+(10) The Minister may, after consultation with the Advisory Committee and such other body as the Minister considers appropriate in the circumstances, by order specify an amount for the purpose of *subsection (3)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 11(a), S.I. No. 57 of 2024.
+>
+> F58: Inserted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 11(b), S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E21: Power pursuant to subs. (1) exercised (22.02.2024) by *Credit Union Act 1997 (Section 21) Order 2024* (S.I. No. 59 of 2024).
+>
+> E22: Previous affecting provision: subs. (3) amended (17.10.2006) by *Credit Union Act 1997 (Alteration of Financial Limits) Regulations 2006* (S.I. No. 546 of 2006), reg. 2(a); subsection substituted (22.02.2024) as per F-note above.
+>
+> E23: Previous affecting provision: subs. (3) amended (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6(c), commenced as per section; further amended as per E-note above.
+
+### 22. Proceedings on death of nominator.
+
+**22.**—(1) Subject to *subsection (2)*, where any member of a credit union has made a nomination under *section 21*, the F59[credit union], on receiving satisfactory proof of the death of that member, and if and to the extent that the nomination is valid under *subsection (1)* of that section, shall in the case of each person entitled under the nomination either transfer to him, or pay him the full value of, the property to which he is so entitled.
+
+(2) Where any of the property comprised in a nomination under *section 21* consists of shares in the credit union, *subsection (1)* shall have effect notwithstanding that the rules of the credit union declare the shares in the credit union not to be transferable; but if the transfer of any shares comprised in the nomination in the manner directed by the nominator would raise the shareholding of any nominee beyond the maximum for the time being permitted in the case of that credit union, the F59[credit union]—
+
+(*a*) shall not transfer to that nominee more of those shares than will raise his shareholding to that maximum; and
+
+(*b*) shall pay him or transfer to his deposit account the value of any of those shares not transferred.
+
+(3) Where any sum falls to be paid under *subsection (1)* or *subsection (2)* to a nominee under the age of sixteen years, the credit union may pay that sum to either parent, or to a guardian, of the nominee or to any other person of full age—
+
+(*a*) who will undertake to hold it on trust for the nominee or to apply it for his benefit; and
+
+(*b*) whom the credit union may think a fit and proper person for the purpose;
+
+and a receipt for that sum signed by that parent, guardian or other person shall be a sufficient discharge to the credit union for all money so paid.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 12, S.I. No. 57 of 2024.
+
+### 23. Provision for small payments on death.
+
+**23.**—(1) If a member of a credit union dies and, at his death, his property in the credit union (whether in savings, loans, insurance or otherwise)—
+
+F60[(*a*) does not in the whole exceed the amount standing specified, on the date of the member’s death, for the purpose of this subsection in an order made by the Minister under *subsection (2)*.]
+
+(*b*) is not the subject of a nomination under *section 21*,
+
+the board of directors may, without letters of administration or probate of any will, distribute that property among such persons as appears to the board (on such evidence as they consider satisfactory) to be entitled by law to receive it.
+
+F61[(2) The Minister may, after consultation with the Advisory Committee and such other body as the Minister considers appropriate in the circumstances, by order specify an amount for the purpose of *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60, F61: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 13(a), (b), S.I. No. 57 of 2023.
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subs. (2) exercised (22.02.2024) by *Credit Union Act 1997 (Section 23) Order 2024* (S.I. No. 60 of 2024).
+>
+> E25: Previous affecting provision: subs. 2 amended (17.10.2006) by *Credit Union Act 1997 (Alteration of Financial Limits) Regulations 2006* (S.I. No. 546 of 2006), reg. 2(b), substituted (22.02.2024) as per F-note above.
+>
+> E26: Previous affecting provision: subs. (2) amended (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6(d), commenced as per section; further amended as per F-note above.
+
+### 24. Payments in respect of mentally incapable persons.
+
+**24.**—F62[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Repealed (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 99(1)(a), S.I. No. 194 of 2023, subject to transitional provisions in subss. (2) and (3).
+
+### 25. Validity of payments to persons apparently entitled.
+
+**25.**—All payments or transfers made by the board of directors of a credit union under *section 23* F63[...] to a person appearing to the board at the time of payment or transfer to be entitled under the section in question shall be valid and effectual against any demand made upon the board or credit union by any other person.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 99(1)(b), S.I. No. 194 of 2023, subject to transitional provisions in subss. (2) and (3).
+
+## PART IIIOperation of Credit Unions — PART III — Operation of Credit Unions
+
+*Business and raising of funds*
+
+### 26. General principles.
+
+**26.**—(1) A credit union shall not carry on any business or activity which is not appropriate or incidental to the objects for which, in accordance with *section 6*, it is formed.
+
+(2) Subject to *subsection (1)*, a credit union may—
+
+(*a*) acquire property of any description permitted by or under this Act; and
+
+(*b*) do anything expedient for accomplishing, or conducive to or consequential upon, the objects for which the credit union is formed.
+
+(3) Where any act or other thing is done by a credit union—
+
+(*a*) which it had no power to do, but
+
+(*b*) which, if it had been empowered to do, would have been lawfully and effectively done,
+
+that act or thing shall be effective in favour of any person who, relying on that act or thing, dealt with the credit union in good faith.
+
+(4) The Court may, on the application of a member or the F64[Bank] restrain a credit union from doing any act or thing which it has no power to do.
+
+(5) Without prejudice to *subsection (4)*, if a credit union knowingly contravenes *subsection (1)*, it shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 13, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 27. Raising of funds by shares and deposits.
+
+F65[**27.**—(1) A credit union may raise funds to be used for its objects—
+
+(*a*) by the issue to its members of shares in the credit union (which may be withdrawable or non-withdrawable), and
+
+(*b*) by the acceptance of money on deposit from a member,
+
+and the cumulative amount of such shares in, and money on deposit (if any) with, the credit union is referred to in this Act as ‘savings’.
+
+(2) For the adequate protection of the savings of members of credit unions the Bank may prescribe requirements and limits for savings, including—
+
+(*a*) the maximum amount of savings (expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) or category of savings a credit union member may hold,
+
+(*b*) the ratio of total deposits from members that may be held by a credit union to total shares issued to members, and
+
+(*c*) any other requirement or limit which the Bank considers necessary to prescribe.
+
+(3) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 8, S.I. No. 584 of 2015.
+>
+> **Editorial Notes:**
+>
+> E27: Previous affecting provision: power pursuant to subsection (5) exercised and subss. (2) and (4) amended (14.08.2006) by *Credit Union Act 1997 (Alteration of Financial Limits) Order 2006* (S.I. No. 453 of 2006), art. 2; substituted as per F-note above.
+>
+> E28: Previous affecting provision: subss. (3) and (4) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 14, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+>
+> E29: Previous affecting provision: subs. (1)(b) amended (1.01.2002) by *Credit Union Act, 1997 (Alteration of Financial Limit) Regulations 2001* (S.I. No. 476 of 2001), reg. 1(b); substituted as per F-note above.
+>
+> E30: Previous affecting provision: subss. (1)(b) and (4)(a), (b) amended (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6(e), commenced as per section; further amended as per E-note above.
+>
+> E31: Previous affecting provision: subs. (1)(b) amended (25.10.2001) by *Credit Union Act, 1997 (Alteration of Financial Limit) Regulations 2001* (S.I. No. 476 of 2001), reg. 1(a); further amended as per E-note above.
+
+### 27A. Protection of members' savings.
+
+F66[**27A.**—(1) In addition to its reporting functions under the *Credit Union Acts 1997 to 2012* and complying with any matter prescribed under those Acts, a credit union shall maintain appropriate oversight, policies, procedures, processes, practices, systems, controls, skills, expertise and reporting arrangements to ensure the protection of members’ savings and that it complies with requirements imposed under the financial services legislation.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Bank may make regulations prescribing—
+
+(*a*) certain oversight, policies, procedures, processes, practices, systems, controls, skills, expertise and reporting arrangements which the credit union is required to maintain where the Bank considers this is appropriate in the interest of protecting members’ savings or otherwise appropriate to ensure compliance with the requirements imposed under financial services legislation;
+
+(*b*) requirements in relation to the oversight, policies, procedures, processes, practices, systems, controls, skills, expertise and reporting arrangements required to be maintained under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 9, S.I. No. 393 of 2013.
+
+*Shares and deposits*
+
+### 28. Shares: general provisions.
+
+**28.**—(1) All shares in a credit union shall be of F67[€1] denomination and, subject to the rules of the credit union, may be subscribed for either in full or by periodical or other subscriptions, but no share shall be allotted to a member until it has been fully paid in cash.
+
+(2) A credit union shall not issue to a member a certificate denoting ownership of a share.
+
+(3) All withdrawable shares in a credit union shall have equal rights.
+
+(4) All non-withdrawable shares in a credit union shall have equal rights, and repayments in respect of such shares shall not be capable of being made except as provided by this Act.
+
+(5) Notwithstanding *subsection (1)*, whenever its board of directors so recommends, a credit union may apply any sum standing to the credit of its reserves F68[(other than the reserves required to be held under *section 45*)] to the payment up of shares, and may issue the shares to members as fully paid-up bonus shares in the proportions to which the members would have been entitled if the sum concerned had been distributed by way of dividend.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 6(f), commenced as per section.
+>
+> F68: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 9, S.I. No. 584 of 2015.
+
+### 29. Transfer of shares.
+
+**29.**—(1) A member of a credit union may transfer a share in the credit union to another member so long as—
+
+(*a*) the number of shares held by that other member does not exceed the limit imposed under this Act; and
+
+F69[(*b*) if the credit union so requires in any case, the transfer has the approval of the credit union.]
+
+(2) No charge shall be made by a credit union in respect of a transfer of shares by a member, and such a transfer shall entitle the transferee to any dividends in respect of the transferred shares which are unpaid at the date of the transfer.
+
+F69[(3) If, in a case where the credit union has imposed a requirement under *subsection (1)(b)*, the credit union refuses to approve the proposed transfer of shares in the credit union by a member, the member may appeal against the refusal to a Judge of the District Court for the district in which the registered office of the credit union is situated.]
+
+(4) Notice of appeal under *subsection (3)* shall be in writing and shall set out the grounds on which the appeal is based; and, on the hearing of the appeal, the District Court may either confirm the refusal or direct the F69[credit union] to approve the transfer.
+
+(5) A decision of the District Court on an appeal under *subsection (3)* shall be final, except that any question of law arising on the appeal may be referred to the Court for its determination; and, by leave of the Court, an appeal shall lie to the Supreme Court from every such determination.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 14(a)-(c), S.I. No. 57 of 2024.
+
+### 30. Dividends on shares.
+
+**30.**—(1) At each annual general meeting of a credit union, a dividend on shares, not exceeding the permitted maximum, may be declared in respect of the preceding financial year by a resolution passed by a majority of the members present and voting.
+
+(2) A dividend so declared shall be paid on all shares in the credit union but, in the case of shares which have been held during part only of the financial year to which the dividend relates, only a proportional part of the dividend shall be paid and, in determining such a proportional part, a part of a month may be disregarded.
+
+(3) The permitted maximum referred to in *subsection (1)* is ten per cent. of the nominal value of the shares of the credit union or such other percentage of that value as may for the time being be prescribed.
+
+(4) The rate of dividend declared under *subsection (1)* shall not exceed the rate recommended to the members by the board of directors.
+
+(5) No dividend on shares shall be paid otherwise than out of—
+
+(*a*) surplus funds in respect of the year in question F70[...] which are available for that purpose and have been accumulated after meeting the F71[requirements to hold reserves in accordance with *section 45*]; or
+
+(*b*) a reserve set aside in previous years to provide for dividends.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 15, S.I. No. 57 of 2024.
+>
+> F71: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 10, S.I. No. 584 of 2015.
+
+### 31. Interest on deposits.
+
+**31.**—(1) Subject to *subsections (2)* and *(3)*, a credit union may pay interest on deposits at different rates determined from time to time by the board of directors.
+
+(2) The rate of any interest payable at any time by a credit union on deposits of a particular class shall be the same for all deposits of that class.
+
+(3) A credit union shall ensure that the F72[rate of interest offered] at any time on deposits of any class does not exceed the rate of return received by the credit union from the employment of its funds, whether in the form of loans or investments.
+
+(4) F73[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 11, S.I. No. 393 of 2013.
+>
+> F73: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 12, S.I. No. 280 of 2013.
+
+### 32. Restrictions on withdrawal of shares and deposits.
+
+**32.**—(1) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 60 days’ notice F74[from a member of the member’s intention] to withdraw a share in the credit union and a member may not withdraw any shares at a time when a claim due on account of deposits is unsatisfied.
+
+(2) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 21 days’ notice F74[from a member of the member’s intention] to withdraw a deposit.
+
+F75[F74[(3)(*a*) If a member of a credit union seeks to withdraw savings in the credit union at a time when the member has an outstanding liability (including a contingent liability) to the credit union, whether as borrower, guarantor or otherwise, that withdrawal shall only be permitted—
+
+(i) if the savings are not attached savings, or
+
+(ii) where the savings are attached savings, if the withdrawal of such attached savings is approved by the credit committee or a credit officer.]
+
+(*b*) Any savings that existed in the credit union immediately before the commencement of this provision (inserted by the Credit Union and Co-operation with Overseas Regulators Act 2012) that were not withdrawable under this subsection immediately before that commencement shall be treated as attached savings after that commencement.
+
+(*c*) Where the outstanding liability reduces below the level of attached savings, the amount of the attached savings shall not be greater than the outstanding balance of the loan.
+
+(*d*) In this subsection—
+
+"attached savings" means a share in, or deposit with, a credit union which is pledged in writing by a member as security for a loan at the time of the issuing of the loan to the member or guaranteed by the member;
+
+"savings" means a share in, or deposit with, the credit union.]
+
+(4) If the F76[Bank] sees fit to do so in the circumstances of a credit union, F76[it] may, on such terms as F76[it] thinks proper, by notice in writing addressed to the credit union provide that *subsection (3)* shall apply in relation to the credit union with the substitution of a higher or lower percentage than that for the time being applicable to the credit union under that subsection.
+
+(5) Where a member of a credit union is indebted to the credit union and consents in writing to the credit union acting under this subsection, the credit union may, by way of set-off against the indebtedness, withdraw any of the member's shares or deposits; and such a withdrawal may be made notwithstanding anything in *subsections (2)* and *(3)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 16(a)-(c), S.I. No. 57 of 2024.
+>
+> F75: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 13, S.I. No. 393 of 2013.
+>
+> F76: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 15, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+*Borrowing*
+
+### 33. Power to borrow.
+
+F77[**33.**— (1) For the purpose of its objects as referred to in *section 6* a credit union may borrow money, on security or otherwise, and may issue debentures accordingly.
+
+(2) For the adequate protection of the savings of members of credit unions, the Bank may prescribe—
+
+F78[(*a*) the maximum amount of money a credit union may borrow at any one time, and]
+
+(*b*) the notice to be given to the Bank by a credit union in specified circumstances where the credit union proposes to borrow certain amounts of money (expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) in respect of those circumstances.
+
+(3) Where the Bank considers it is necessary in the interests of the proper regulation of a credit union or credit unions generally, or the protection of members’ savings, it may do either or both of the following:
+
+(*a*) permit a credit union to borrow moneys in excess of the amount prescribed in accordance with *subsection (2)*;
+
+(*b*) waive any notice requirement prescribed in accordance with *subsection (2)*.
+
+(4) A person dealing with a credit union shall not be obliged to be satisfied or to enquire into whether the limit imposed on the credit union by virtue of *subsection (2)* (or such limit as may be duly affected under *subsection (3)*) has been or is being observed; but if a person who lends money to a credit union or takes security in connection with such a loan has, at the time the loan is made or the security is taken, actual notice of the fact that that limit has been or is thereby exceeded, the credit union’s debt or, as the case may be, the security shall be unenforceable.
+
+(5) Subject to *subsection (4)*, a transaction with a credit union shall not be invalid or ineffectual by reason of the fact that the limit on borrowing prescribed by the Bank under *subsection (2)* (or such limit as may be duly affected under *subsection (3)*) has been or is by the transaction exceeded.
+
+(6) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 10, S.I. No. 584 of 2015.
+>
+> F78: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 17, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: subs. (2) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 16, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 34. Charges on assets of a credit union.
+
+**34.**—(1) An instrument which is executed by a credit union and which creates or is evidence of a charge on any assets of the credit union shall not be a bill of sale for the purposes of the Bills of Sale (Ireland) Acts, 1879 and 1883 or be invalidated by those Acts if the charge is recorded in accordance with *subsection (2)*.
+
+F79[(2) An application for the recording of a charge under *subsection (1)* must be made by delivering to the Bank, within the permit- ted period—
+
+(*a*) a copy of the instrument authenticated in such manner as may be specified by the Bank, and
+
+(*b*) such additional particulars relating to the charge and authenticated as may be so specified.
+
+The permitted period is 21 days from the date of execution of the instrument that creates or is evidence of the charge, or such extended period as may be allowed under *subsection (5)*.
+
+(2A) The application must be accompanied by the fee (if any) prescribed under section 33K of the Central Bank Act 1942, for the purposes of this subsection.]
+
+(3) The F79[Bank] shall ensure—
+
+(*a*) that an acknowledgement of every application made for the purposes of this section is issued to the person by whom the application was made; and
+
+(*b*) that the copy of the instrument included in such an application, a note of any particulars specified by the F79[Bank] and so included and a copy of the acknowledgement of the application issued in pursuance of *paragraph (a)* are placed in the public file of the credit union;
+
+and an acknowledgement issued under this subsection shall, unless the contrary is proved, be sufficient evidence that any document specified in the acknowledgement was delivered to the F79[Bank] on the date so specified.
+
+F79[(4) Regulations under *section 182* may provide for the giving of notice to the Bank of any release, discharge or other transaction relating to any charge in respect of which an application has been made for the purposes of this section and for the placing of any such notice on the public file of the credit union concerned.]
+
+(5) If, in the case of such an instrument as is mentioned in *subsection (1)*, it appears to the Court, on the application of the credit union which executed the instrument or of any other person claiming the benefit of the instrument, that by reason of inadvertence or other sufficient cause—
+
+(*a*) an application for the recording of the charge to which the instrument relates was not made within the period of 21 days mentioned in *subsection (2)*; or
+
+(*b*) any matters were omitted from or were mis-stated in such an application,
+
+the Court may, on such terms as it thinks fit, order that the period for making such an application shall be extended or, as the case may be, that the omission or misstatement shall be rectified.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Substituted and inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 17, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+*Loans*
+
+### 35. Making of loans.
+
+F80[**35.**—(1) (*a*) In this section "large exposure", in relation to loans of a credit union to a borrower or a group of borrowers who are connected, means the total exposure (including contingent liabilities) of the credit union where the total exposure to such borrower or group of borrowers would be greater than an amount (whether expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) prescribed by the Bank.
+
+(*b*) For the purposes of this subsection—
+
+"control" has the meaning assigned to it by section 432 of the Taxes Consolidation Act 1997 and the other relevant provisions of Part 13 of that Act;
+
+"group of borrowers who are connected" means 2 or more persons—
+
+(i) who, unless it is shown otherwise, constitute a single risk because one of them, directly or indirectly, has control over the other person or persons (not being individuals); or
+
+(ii) between whom there is no relationship of control as set out in subparagraph (i), but who are to be regarded as constituting a single risk because they are so interconnected that, if one of them were to experience financial problems, the other person or some or all of the other persons would be likely to encounter repayment difficulties.
+
+F81[(2) A credit union may—
+
+(*a*) make a loan to a member of the credit union,
+
+(*b*) enter into an agreement with one or more other credit unions in accordance with which the credit union agrees to participate in a loan to a member of one of those other credit unions (in this paragraph referred to as "the originating lender") by the originating lender, or
+
+(*c*) enter into an agreement between—
+
+(i) the credit union and one or more other credit unions, and
+
+(ii) one or more members of—
+
+(I) the credit union, or
+
+(II) one of those other credit unions,
+
+in accordance with which each credit union that is a party to the agreement provides a loan to the member or those members, as the case may be,
+
+for such purpose as the credit union considers appropriate and upon such security (or without security) and terms as the rules of the credit union may provide.]
+
+F82[(2A) The ability of the loan applicant to repay a loan shall be the primary consideration in the underwriting process of the credit union making the loan or participating in the loan, as the case may be.]
+
+(3) A credit union shall manage and control lending to ensure the making of loans does not involve undue risk to members’ savings taking into account the nature, scale, complexity and risk profile of the credit union.
+
+(4) Every application to a credit union for a loan shall be in writing and shall state the purpose for which the loan is required and the security (if any) offered for it.
+
+(5) A credit union shall not accept from an officer of the credit union a guarantee for a loan to another member unless that other member is the officer’s spouse or civil partner, child or parent.
+
+(6) Where the rules of a credit union so provide, the credit union may determine in accordance with those rules the total, including percentage, amount of loans (if any) that it may grant to non-qualifying members.
+
+(7) In relation to loans to which this section relates and for the adequate protection of the savings of members of credit unions, the Bank may prescribe one or more of the following:
+
+(*a*) the classes of lending a credit union may engage in whether by reference to any common characteristic of the credit unions or loans concerned, or otherwise;
+
+(*b*) the limits on the total, including percentage, amount of loans generally, or unsecured loans or class or classes of loans, that may be lent by credit unions, having regard to period or periods of time for which loans concerned are made;
+
+(*c*) the matters relating to large exposures of credit unions and limits relating to such exposures;
+
+(*d*) the limits on the concentration of lending, including concentration limits on loan classes, including concentration limits on loans to a member of a credit union;
+
+(*e*) any other limit that the Bank considers appropriate.
+
+(8) For the adequate protection of the savings of members of credit unions F83[the Bank may prescribe such other requirements, applicable to loans to which this section relates, as it considers necessary in relation to any one or more of the following matters:]
+
+(*a*) the lending practices of credit unions, including—
+
+(i) loan application assessments,
+
+(ii) the making of provision for specified matters,
+
+(iii) reviews to assess the adequacy of provisions,
+
+(iv) maintaining policies for the holding of provisions, for credit and for credit control,
+
+(v) the types of security that may be accepted;
+
+(*b*) reporting loans to the Bank;
+
+(*c*) the holding by credit unions of provisions, reserves or capital against loans or specified classes or types of loans.
+
+(9) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.
+
+(10) A credit union shall ensure that it has appropriate processes, procedures, systems, controls and reporting arrangements to monitor compliance with the requirements of this section and any requirement imposed under this section.
+
+(11) Subject to its rules, in respect of a loan, a credit union may accept, in addition to other forms of security—
+
+(*a*) a guarantee by a member, or
+
+(*b*) a pledge by a member of shares in or deposits with the credit union,
+
+and, where such a guarantee or pledge is accepted, it shall be deemed to be a security for the loan.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 11(1), S.I. No. 584 of 2015, subject to transitional provisions in subs. (2).
+>
+> F81: Substituted (30.09.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 18(a), S.I. No. 475 of 2024.
+>
+> F82: Inserted (30.09.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 18(b), S.I. No. 475 of 2024.
+>
+> F83: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 18(c), S.I. No. 57 of 2024.
+>
+> F84: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 18(a), not commenced as of date of revision.
+>
+> F85: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 18(b), not commenced as of date of revision.
+>
+> **Editorial Notes:**
+>
+> E33: Previous affecting provision: subs. (10) amended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1 item 23, S.I. No. 648 of 2010; section substituted as per F-note above.
+>
+> E34: Previous affecting provision: subss. (2)-(2F) substituted and inserted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(7) and sch. 2 part 7 item 2, S.I. No. 469 of 2010; section substituted as per F-note above.
+>
+> E35: Previous affecting provision: subs. (2) substituted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 17, S.I. No. 730 of 2007; section substituted as per E-note above.
+>
+> E36: Previous affecting provision: subs. (2) amended (26.04.2007) by *Credit Union Act 1997 (Alteration of Financial Limits) Regulations 2007* (S.I. No. 193 of 2007), reg. 2; section substituted as per E-note above.
+>
+> E37: Previous affecting provision: subs. (4) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 18, S.I. No. 160 of 2003, subject to transitional provisions in 36 and sch. 3 para. 26; section substituted as per F-note above.
+>
+> E38: Previous affecting provision: subs. (3)(a) amended (1.01.2002) by *Euro Changeover (Amounts) Act, 2001* (16/2001), s. 6(g), commenced as per section; section substituted as per F-note above.
+
+### 36. Approval of loans.
+
+**36.**—(1) A credit union shall not make a loan to a member unless it is approved in accordance with this section.
+
+(2) F86[A loan must be approved] according as the rules of the credit union require—
+
+(*a*) by such number of members of the board of directors voting by secret ballot at a meeting of the board at which the application for the loan is considered as represents at least two-thirds of those present and a majority of the members of the board as a whole; or
+
+(*b*) by such number of members of the credit committee present at a meeting of that committee at which the application for the loan is considered as represents at least two-thirds of those present and a majority of the committee members as a whole; or
+
+(*c*) by a F86[credit officer; or]
+
+F87[(*d*) in accordance with a loan approval process which has been approved by the board of directors.]
+
+(3) F88[...]
+
+(4) F88[...]
+
+(5) F88[...]
+
+(6) F89[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 19(a)(i), (ii), S.I. No. 57 of 2024.
+>
+> F87: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 19(a)(iii), S.I. No. 57 of 2024.
+>
+> F88: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 19(b), S.I. No. 57 of 2024.
+>
+> F89: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 17, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: subss. (3), (4), (5) Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 items 14, 15, 16, S.I. No. 393 of 2013, deleted as per F-Note above.
+
+### 37. Appeal against non-approval of loan.
+
+**37.**—F90[(1) If an application for a loan which was considered—
+
+(*a*) by the credit committee,
+
+(*b*) by a credit officer, or
+
+(*c*) in accordance with a loan approval process referred to in *section 36(2)(d)*
+
+was not approved under *section 36*, the applicant may appeal to an appellate body which, by a decision of such members of the body present at the meeting at which the appeal is considered as represents at least two-thirds of those present and a majority of the body as a whole, may give approval to the loan, overriding the decision of the credit committee, of the credit officer or that made in accordance with the approval process, as the case may be.]
+
+(2) F91[...]
+
+(3) F91[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F90: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 20(a), S.I. No. 57 of 2024.
+>
+> F91: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 20(b), S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: subs. (3) substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 19, S.I. No. 393 of 2013, deleted as per F-Note above.
+>
+> E41: Previous affecting provision: subs. (2)(b) deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 18, S.I. No. 393 of 2013, deleted as per F-Note above.
+
+### 37A. Member to receive written notice of loan approval.
+
+F92[**37A.**—(1) On approving a loan in accordance with *section 36* or *37*, a credit union shall, in writing, notify the member who applied for the loan of the approval and of any time limit within which the approval will expire.
+
+F93[(2) A notice under *subsection (1)* may be in a form that, when endorsed by the member on accepting a loan offered by the credit union, constitutes a credit agreement for the purposes of—
+
+(*a*) *sections 37B* and *37C*, or
+
+(*b*) where the loan is for an amount between €200 and €75,000, the European Communities (Consumer Credit Agreements) Regulations 2010 (S.I. No. 281 of 2010).]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F93: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 20, S.I. No. 393 of 2013.
+
+### 37B. Credit agreement in respect of loans exceeding €200.
+
+F94[**37B.**—(1) If the amount of a loan approved by a credit union exceeds €200, the credit union shall ensure that—
+
+(*a*) a credit agreement is entered into in writing and signed by the member concerned and by or on behalf of all other parties to the agreement, and
+
+(*b*) a copy of the agreement—
+
+(i) is handed personally to the member immediately after the agreement is entered into, or
+
+(ii) is delivered or sent to the member within 10 days after the agreement is entered into, and
+
+(*c*) any contract of guarantee relating to the loan is in writing and signed by the guarantor and by or on behalf of all other parties to the agreement, and a copy of the guarantee and the agreement—
+
+(i) is handed personally to the guarantor immediately after the contract is entered into, or
+
+(ii) is delivered or sent to the guarantor within 10 days after the contract is entered into.
+
+F95[(2) For the purposes of this section, a contract of guarantee—
+
+(*a*) includes, where the member is not of full age, an indemnity provided by a parent or guardian of the member or by another person approved by the F96[credit union], and
+
+(*b*) may form part of the relevant agreement or may be in a separate document.]
+
+(3) A credit union that makes a loan without having complied with *subsection (1)* commits an offence.
+
+(4) If a credit union is found guilty of an offence against *subsection (3)*, the following provisions apply:
+
+(*a*) the credit union is taken to have waived all interest agreed to be paid by the member in respect of the loan;
+
+(*b*) the member, or the member’s personal representative, is entitled to recover as a debt, by proceedings brought in a court of competent jurisdiction, any interest paid in respect of the loan.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F94: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F95: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 21, S.I. No. 393 of 2013.
+>
+> F96: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 21, S.I. No. 57 of 2024.
+
+### 37C. Contents of credit agreements.
+
+F97[**37C.**—(1) When entering into a credit agreement with a member, a credit union shall ensure that it contains a statement setting out the following particulars:
+
+(*a*) the name and address of each party to the agreement;
+
+(*b*) the amount of the loan provided under the agreement and the total amount payable in respect of the loan;
+
+(*c*) details of the security (if any) given in respect of the loan;
+
+(*d*) the date or dates on which the loan is to be provided (unless unascertainable at the time of the agreement);
+
+(*e*) the number of repayment instalments under the agreement and amount of each of those instalments;
+
+(*f*) the date, or the method of determining the date, on which each repayment instalment is payable;
+
+(*g*) the rate of interest charged in respect of the loan and the relevant APR;
+
+(*h*) the circumstances in which that APR may be amended;
+
+(*i*) any charges that, although not included in the calculation of the APR, must be paid by the member in specified circumstances;
+
+(*j*) the date on which the loan expires;
+
+(*k*) the manner in which the member can terminate the agreement before the final repayment instalment is payable and the cost to the member of terminating the agreement;
+
+(*l*) any cost or penalty that the member may incur for failing to comply with the agreement.
+
+F98[(2) The credit union shall also ensure that the agreement specifies a cooling-off period under which the member has a right to withdraw from the agreement without penalty if the member gives to the credit union a written notice to that effect within 14 days after—
+
+(*a*) the day on which the credit agreement was concluded, or
+
+(*b*) the day on which the member receives contractual terms and conditions and information in accordance with *sections 37C* and *37D* if that date is later than the date referred to in *paragraph (a)*.]
+
+(3) F99[...]
+
+(4) A credit union that fails to comply with *subsection (1)* or *(2)* commits an offence.]
+
+F100[(5) This section does not apply to credit agreements covered by the European Communities (Consumer Credit Agreements) Regulations 2010.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F98: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 22, S.I. No. 393 of 2013.
+>
+> F99: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 23, S.I. No. 393 of 2013.
+>
+> F100: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 24, S.I. No. 393 of 2013.
+
+### 37D. Notice of important information to be included in credit agreements.
+
+F101[**37D.**—(1) A credit union shall not enter into a credit agreement with a member, unless the agreement and the notice referred to in *section 37A(1)* display prominently on their respective front pages, in a form approved by the Bank, the following information:
+
+(*a*) the amount of the loan;
+
+(*b*) the period of the agreement;
+
+(*c*) the number of repayment instalments;
+
+(*d*) the total amount repayable to the credit union;
+
+(*e*) the cost of the loan to the member;
+
+(*f*) the APR in respect of the loan;
+
+(*g*) particulars of the cooling-off period.
+
+(2) A credit union that contravenes *subsection (1)* commits an offence.]
+
+F102[(3) This section does not apply to credit agreements covered by the European Communities (Consumer Credit Agreements) Regulations 2010.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F102: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 25, S.I. No. 393 of 2013.
+
+### 37E. Definition and calculation of "APR" for the purposes of sections 37C and 37D.
+
+F103[F104[**37E.**—(1) For the purposes of *sections 37C* and *37D* "annual percentage rate of charge", in relation to a credit agreement entered into between a credit union and a member, means the annual percentage rate of charge as defined under Regulation 6 of the European Communities (Consumer Credit Agreements) Regulations 2010.
+
+(2) The annual percentage rate of charge specified in a credit agreement shall be in accordance with Part 5 of the European Communities (Consumer Credit Agreements) Regulations 2010.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F103: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F104: Substituted (11.10.2013) by *Central Bank and Financial Services Authority of Ireland Act 2004* (40/2012), s. 35 and sch. 1 item 26, S.I. No. 393 of 2013.
+
+### 37F. Regulations for the purposes of sections 37A-37D.
+
+F105[**37F.**—F106[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Inserted (1.01.2005) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 1, S.I. No. 455 of 2004.
+>
+> F106: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 27, S.I. No. 393 of 2013.
+
+### 38. Interest on loans.
+
+**38.**—(1) A credit union may charge interest on loans made to its members under *section 35* subject to the following conditions—
+
+F107[(*a*) the interest on a loan shall not at any time exceed the rate, specified in the order made under subsection (3) applicable to—
+
+(i) the credit agreement under which the loan is made, or
+
+(ii) where there is no credit agreement, the loan;]
+
+(*b*) F108[...]
+
+(*c*) F109[...]
+
+F110[(2) If a credit union knowingly charges or accepts interest on a loan at a rate greater than that permitted under this section—
+
+(*a*) all the interest agreed to be paid by the member shall be deemed to have been waived by the credit union; and
+
+(*b*) any interest paid on the loan shall be recoverable summarily by the member (or his personal representative) as a simple contract debt.]
+
+F111[(3) The Minister may, after consultation with the Advisory Committee and such other body as the Minister considers appropriate in the circumstances, by order specify a rate of interest for the purpose of *subsection (1)(a)*.
+
+(4) An order made under *subsection (3)* shall apply to a credit agreement entered into, or, where there is no credit agreement, a loan made—
+
+(*a*) after the date on which the order comes into operation, and
+
+(*b*) before the date, if any, on which the order next made under *subsection (3)* comes into operation.
+
+(5) The Minister shall have regard to the following when making an order under *subsection (3)*:
+
+(*a*) the interest rates charged in respect of loans by credit institutions and other providers of credit;
+
+(*b*) the interest rates payable by credit unions on deposit accounts and in respect of other sources of funding for loans;
+
+(*c*) the need to avoid distortions in competition between credit unions, credit institutions and other providers of credit;
+
+(*d*) the financial stability and well-being of credit unions generally.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 22(a)(i), S.I. No. 57 of 2024.
+>
+> F108, F109: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 22(a)(ii), S.I. No. 57 of 2024.
+>
+> F110: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 28, S.I. No. 280 of 2013.
+>
+> F111: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 22(b), S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E42: Power pursuant to subs. (3) exercised (8.04.2024) by *Credit Union Act 1997 (Section 38) Order 2024* (S.I. No. 137 of 2024).
+
+*Other transactions*
+
+### 39. Promissory notes and bills of exchange.
+
+**39.**—(1) A promissory note or bill of exchange shall be deemed to have been made, accepted or endorsed on behalf of a credit union if made, accepted or endorsed in the name of the credit union by a person acting under its authority.
+
+(2) Where no such authority as is referred to in *subsection (1)* exists, the F112[Bank] may, if F112[it] thinks fit, appoint a person or persons to act on behalf of the credit union; and any person or persons so appointed shall have the like powers under *subsection (1)* as if acting under the authority of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 19, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 40. Contracts.
+
+**40.**—(1) Contracts may be made, varied or discharged on behalf of a credit union as follows:
+
+(*a*) a contract which, if made between individuals, would be by law required to be in writing under seal may be made on behalf of the credit union in writing under the common seal of the credit union;
+
+(*b*) a contract which, if made between individuals, would be by law required to be in writing, signed by the parties to be charged with the contract, may be made on behalf of the credit union in writing by any person acting under the express or implied authority of the credit union;
+
+(*c*) a contract which, if made between individuals, would by law be valid although made by parol only, and not reduced into writing, may be made by parol on behalf of the credit union by any person acting under the express or implied authority of the credit union;
+
+(*d*) a contract made according to this subsection may be varied or discharged in the same manner in which it is authorised by this section to be made and a contract under seal which, if made between individuals, might be varied or discharged in writing not under seal, signed by any person interested in the contract, may be similarly varied or discharged in writing not under seal on behalf of the credit union, signed by any person acting under the express or implied authority of the credit union.
+
+(2) A signature purporting to be made by a person holding any office in a credit union attached to a writing by which any contract purports to be made, varied or discharged by or on behalf of the credit union shall, unless the contrary is proved, be taken to be the signature of a person holding that office at the time when the signature was made.
+
+(3) Where authority no longer exists for the discharge of a credit union's obligations under *subsection (1)*, the F113[Bank] may, if F113[it] thinks fit, appoint a person to act on behalf of the credit union, and a person so appointed shall have the like powers to make, vary or discharge contracts on behalf of the credit union as if acting under its authority.
+
+(4) A contract which may be or have been made, varied or discharged according to the provisions of this section shall be effectual in law and bind the credit union and its successors and all other parties to the contract.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 20, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 41. Acquisition, holding and disposal of land.
+
+**41.**—(1) A credit union may acquire and hold in its own name any land for the purpose of conducting its business on the land (including erecting a building on the land for that purpose) but for no other purpose.
+
+(2) A credit union may dispose of any land held by it and, where it does so—
+
+(*a*) no person shall be bound to inquire as to the authority for any dealing with the land by the credit union; and
+
+(*b*) a receipt of the credit union shall be a discharge for all money arising from or in connection with any dealing with land by it.
+
+(3) For the purposes of *subsection (2)* (but not *subsections (4)* and *(5)*), a disposal of land held by a credit union includes the creation, out of the interest held by the credit union, of a lease, sub-lease or lesser interest.
+
+(4) If a building held by a credit union entirely ceases to be occupied for the purposes of the business of the credit union, the credit union shall dispose of its interest in that building as soon as it is practicable to do so.
+
+F114[(5) If the Bank is of the opinion that any building or other land held by a credit union is not in the best interest of the credit union, it may decide to direct and direct the credit union to dispose of its interest in it.]
+
+(6) F115[...]
+
+(7) *Section 3 (3)* shall not apply to a direction under *subsection (5)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F114: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 29, S.I. No. 280 of 2013.
+>
+> F115: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 30, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 21, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 42. Receipt for repayment of secured debt.
+
+**42.**—On payment of all money intended to be secured to a credit union on the security of any property, F116[the debtor or the debtor’s successor in title] or personal representatives shall be entitled to a receipt in the form set out in the *Second Schedule*, or in a form to substantially the like effect.
+
+*Investments etc*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 23, S.I. No. 57 of 2024.
+
+### 43. Investments.
+
+F117[**43.**—(1) A credit union shall manage its investments to ensure that those investments do not (taking account of the nature, scale, complexity and risk profile of the credit union) involve undue risk to members’ savings and, for that purpose, before making an investment a credit union shall assess the potential impact on the credit union, including the impact on the liquidity and financial position of the credit union.
+
+(2) A credit union may invest any of its funds, which are surplus to its operating requirements and are not immediately required for the purposes of the credit union, in any one or more of the following:
+
+(*a*) the shares of, or deposits with (other than deposits to which *subsection (6)* relates) or loans to, another credit union as the Bank may prescribe;
+
+(*b*) the shares of a society registered under the Industrial and Provident Societies Acts 1893 to 1978 as the Bank may prescribe;
+
+(*c*) such other investments as may be prescribed for that purpose by the Bank under *subsection (3)*.
+
+(3) For the purposes of *subsection (2)(c)* the Bank may prescribe investments in which a credit union may invest its funds. In prescribing matters for the purposes of *subsection (2)* and having regard to the need to avoid undue risk to members’ savings, the Bank may also prescribe other matters in relation to prescribed investments, including any of the following:
+
+(*a*) the classes of investments, including, where appropriate, any investment project of a public nature the credit union may invest in;
+
+(*b*) the quality of investments and quality of counterparties that the credit union may invest in;
+
+(*c*) the maximum, including percentage, amount (by reference to a credit union’s surplus funds to which *subsection (2)* relates or otherwise) of a class of investments that may be invested in;
+
+(*d*) the term to maturity of a class of investments;
+
+(*e*) the currency of a class of investments;
+
+(*f*) limits for investment, whether by reference to maturity, currency, counterparty, sector, instrument or otherwise;
+
+(*g*) any other matters that the Bank may consider necessary in the circumstances.
+
+(4) The Bank may prescribe matters for the purposes of any distribution policy to be applied by a credit union in respect of investment income.
+
+(5) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.
+
+(6) In so far as any funds of a credit union that are surplus to its operating requirements—
+
+(*a*) are not immediately required for the purposes of the credit union,
+
+(*b*) are not invested in accordance with *subsection (2)*, or
+
+(*c*) are not kept in cash in the custody of officers of the credit union,
+
+those funds shall be kept by the credit union on current account with a credit institution.
+
+(7) Where any funds of a credit union are on current account with, or on loan to, an institution which ceases to be a credit institution, the credit union shall take all practicable steps to call in and realise the loan within the period of 3 months from the time when the institution so ceased or, if that is not possible, as soon after the end of that period as possible.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 12, S.I. No. 584 of 2015.
+>
+> F118: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 24, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: subs. (2)(b) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 24, not commenced as of date of revision.
+>
+> F118[(*b*) the shares of, stocks in, deposits with, loans to, or any other obligation of, a corporate credit union, a society registered under the Industrial and Provident Societies Act 1893 or a company—
+>
+> (i) providing services relating to the objects and purposes specified in *section 6(2)*, or
+>
+> (ii) engaging in activities relating to the operations of credit unions,
+>
+> as the Bank may prescribe;]
+>
+> **Editorial Notes:**
+>
+> E44: Previous affecting provision: subss. (1) and (5)(b) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 22, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 44. Special fund for social, cultural etc. purposes.
+
+**44.**—(1) By a resolution passed by a majority of its members present and voting at a general meeting, a credit union may establish a special fund to be used by the credit union for such social, cultural or charitable purposes (including community development) as have been approved, either generally or specifically, by a similar resolution; and any such special fund shall be maintained separately from the rest of the credit union's finances.
+
+(2) Subject to *subsection (4)*, moneys may be paid into a special fund established by a credit union under this section only out of the annual operating surplus of the credit union; and no moneys may be so paid unless the directors are satisfied—
+
+(*a*) that adequate provision has been made out of the surplus in question to cover all current and contingent liabilities and to maintain proper reserves; and
+
+(*b*) that the payment of the moneys into the special fund will not affect the financial stability of the credit union.
+
+(3) Subject to *subsection (5)*, the amount of moneys which may be paid as mentioned in *subsection (2)* out of the annual operating surplus of any year shall not exceed 0.5 per cent. of the value of the credit union's assets as shown in the accounts for the most recent financial year ending before the date of the payment.
+
+(4) In respect of the financial year in which the special fund is established, there may be paid into the special fund (in addition to any amount paid as mentioned in *subsection (2)*) an amount not exceeding 2.5 per cent. of the accumulated reserves of the credit union, excluding the F119[reserves required to be held under *section 45*].
+
+(5) If, by a resolution passed by not less than two-thirds of the members of the credit union present and voting at a general meeting called for the purpose, a credit union resolves to increase the percentage applicable to it under *subsection (3)* to a percentage to which the F120[Bank] has consented in writing, that subsection shall have effect accordingly.
+
+(6) Where a credit union has established a special fund under this section, the social, cultural or charitable purposes for which it is to be used may be varied by a further resolution passed as mentioned in *subsection (1)*.
+
+(7) If at any time—
+
+(*a*) the board of directors make a recommendation in writing to the members of a credit union that it is appropriate to wind up a special fund established under this section, and
+
+(*b*) a resolution for winding up the special fund is passed by a majority of the members of the credit union present and voting at a general meeting,
+
+the moneys standing to the credit of the special fund shall be transferred to the general funds of the credit union and the special fund shall cease to exist.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F119: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 31, S.I. No. 584 of 2015.
+>
+> F120: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 23, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 45. Statutory reserve.
+
+F121[**45.**—(1) In this section—
+
+"assets" means such assets as the Bank may from time to time specify for the purposes of this section;
+
+"regulatory reserve" means a reserve that is a realised financial reserve which is—
+
+(*a*) unrestricted and non-distributable,
+
+(*b*) identified separately in a credit union’s accounts, and
+
+(*c*) to be maintained by a credit union pursuant to this section;
+
+"regulatory reserve requirement" means the amount required to be held in the regulatory reserve of a credit union, expressed as a percentage of the assets of a credit union and prescribed by the Bank.
+
+(2) A credit union shall maintain reserves that are adequate having regard to the nature, scale, complexity and risk profile of its business.
+
+(3) The Bank may prescribe the regulatory reserve requirement that a credit union shall maintain at a minimum and, in so prescribing, may include conditions on the application of the regulatory reserve requirement. For that purpose the Bank may also prescribe in respect of other matters related to the regulatory reserve requirement, including any of the following:
+
+(*a*) the application of risk weightings to assets for the purposes of calculating the regulatory reserve requirement;
+
+(*b*) the types and attributes of the assets or liabilities included in the calculation of the regulatory reserve requirement;
+
+(*c*) the requirement for initial reserves to be held by a newly-registered credit union under *section 6*.
+
+(4) Where requirements to which *subsection (3)(c)* relate have been prescribed, they shall not apply to a credit union established as a result of amalgamations of 2 or more existing credit unions.
+
+(5) A credit union shall maintain reserves, in addition to the regulatory reserve requirement prescribed under subsection (3) that—
+
+(*a*) it has assessed are required in respect of operational risk having regard to the nature, scale, complexity and risk profile of its business, and
+
+(*b*) which shall not be less than those required under any additional reserve requirement applicable to it in respect of operational risk by virtue of *subsection (6)*.
+
+(6) Either or both the level of additional reserves to be maintained by a credit union and the basis for calculating the additional reserves to be maintained by a credit union under this section in respect of operational risk may be prescribed by the Bank. For that purpose the Bank may also prescribe in respect of ancillary matters related to the additional reserves held in respect of operational risks.
+
+(7) A credit union that fails to meet any reserve requirement under this section—
+
+(*a*) may be required by the Bank to transfer all or part of its surplus to reserves, and
+
+(*b*) shall secure the written approval of the Bank before paying a dividend or loan interest rebate.
+
+(8) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or of the category or categories of credit unions, to which the regulations will apply.
+
+(9) (*a*) Pending the prescribing by the Bank of reserve requirements for the purposes of this section in respect of credit unions generally or a category of credit unions, the reserve requirements applicable to credit unions under *section 85* shall continue to apply generally or to such category of credit unions, as the case may be.
+
+(*b*) Where reserve requirements have been prescribed by the Bank for the purposes of this section in respect of credit unions generally or a category of credit unions, then *section 85* shall cease to apply generally to that category of credit unions, as the case may be, in respect of the matters so prescribed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 13, S.I. No. 584 of 2015.
+
+### 46. Savings protection scheme.
+
+**46.**—F122[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F122: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 32, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 24, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; section deleted as per F-note above.
+
+### 47. Insurance against fraud of officers etc.
+
+**47.**—(1) A credit union shall at all times maintain in force, in respect of each financial year, a policy of insurance which complies with any prescribed requirements and which insures the credit union in respect of loss suffered or liability incurred by reason of the fraud or other dishonesty of its officers F123[...].
+
+(2) F124[...]
+
+(3) F125[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F123: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 33, S.I. No. 393 of 2013.
+>
+> F124: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 34, S.I. No. 280 of 2013.
+>
+> F125: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 35, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: subs. (3) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 25, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; subsection deleted as per F-note above.
+
+*Provision of additional services to members*
+
+### 48. Power to provide additional services.
+
+**48.**—F126[(1) Subject to the following provisions of this Part, a credit union may provide, as principal or agent, additional services of a description that appears to the credit union and to the Bank, to be of mutual benefit to its members.]
+
+F127[(2) In this section and the following provisions of this Part "additional services", in relation to a credit union, means any services other than those—
+
+(*a*) for which provision is made by the preceding provisions of this Part, or
+
+(*b*) which are being prescribed for the purposes of this section as being services of a description that appears to the Bank to be of mutual benefit to its members,
+
+and regulations made by the Bank for the purposes of paragraph (*b*) may make the exclusion of any services from being additional services conditional on compliance with such conditions as may be prescribed by the Bank.]
+
+(3) Nothing in this section or the following provisions of this Part affects the operation of any enactment which is not contained in this Act and which, in whole or in part, relates to the provision of financial or other services of any description.
+
+(4) In order to enable a credit union to provide additional services of any description—
+
+F128[(*a*) the credit union must adopt a decision to provide additional services of that description by a resolution passed by not less than two-thirds of the members present and voting at an annual general meeting or at a special general meeting called for the purpose of considering the resolution, or the credit union must adopt a decision to provide additional services of that description by a resolution of F129[the board of directors; and]]
+
+(*b*) the provision of the services must be approved by the F130[Bank] in accordance with *section 49* and the services must be provided in accordance with the terms and conditions F129[of the approval.]
+
+(*c*) F131[...]
+
+(5) Notice shall be given of a resolution under *subsection (4)(a)* in accordance with the rules of the credit union or, if the rules do not make special provision as to notice of such a resolution, the like notice shall be given as is required by the rules for a resolution to amend the rules; and notice of the resolution shall contain or be accompanied by a statement giving—
+
+(*a*) a description of the services which it is proposed to provide;
+
+(*b*) an assessment of the financial and other implications for the credit union of the provision of those services; and
+
+(*c*) details of such other matters as the F130[Bank] may by notice in writing require to be brought to the attention of the members of the credit union concerned.
+
+(6) Before giving notice of a resolution as mentioned in *subsection (5)*, a credit union shall consult the F130[Bank] and the F130[Bank] shall give a preliminary view as to whether and to what extent the provision of the service would be likely to be approved by F130[it]; but the giving of such a preliminary view shall not prejudice the decision of the F130[Bank] under *section 49 (3)*.
+
+F132[(7) The Bank may specify in writing such requirements as it considers necessary for credit unions providing additional services; and different requirements may be so specified in relation to different descriptions of additional services and apply to different classes of credit unions.]
+
+F133[(8) A credit union shall not be able or, as the case may be, shall cease to be able to provide additional services of a description to which requirements under subsection (7) apply if—
+
+(*a*) the credit union does not satisfy those requirements, or
+
+(*b*) within the period of 12 months beginning on the date on which approval for the provision of the services is given under section 49, the credit union does not begin to provide those services;
+
+but, if a credit union ceases to comply with any of those requirements, the cessation shall not, of itself, impose an obligation on the credit union to dispose of any property or right acquired in connection with the provision of the additional services concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 36, S.I. No. 393 of 2013.
+>
+> F127: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 37, S.I. No. 393 of 2013.
+>
+> F128: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 38, S.I. No. 393 of 2013.
+>
+> F129: Substituted (8.04.2024) by Credit Union (Amendment) Act 2023 (34/2023), s. 25(a), (b), S.I. No. 57 of 2024.
+>
+> F130: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 26, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F131: Deleted (8.04.2024) by Credit Union (Amendment) Act 2023 (34/2023), s. 25(c), S.I. No. 57 of 2024.
+>
+> F132: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 39, S.I. No. 393 of 2013.
+>
+> F133: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 40, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E47: Services for purposes of subs. (2)(b) prescribed (1.01.2016) by *Credit Union Act 1997 (Regulatory Requirements) Regulations 2016* (S.I. No. 1 of 2016), reg. 48, in effect as per reg. 1(2).
+>
+> E48: Services under section prescribed (9.03.2007) by *Credit Union Act 1997 (Exemption From Additional Services Requirements) Regulations 2007* (S.I. No. 107 of 2007), reg. 4 and sch., in effect as per reg. 2
+>
+> E49: Services for purposes of subs. (2)(b) prescribed (1.06.2004) by *Credit Union Act 1997 (Exemption From Additional Services Requirements) Regulations 2004* (S.I. No. 223 of 2004), reg. 3 and sch., in effect as per reg. 2.
+>
+> E50: Previous affecting provision: subss. (1), (2), (4)(a) and (7) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 26, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-notes above.
+
+### 49. The Registrar’s approval of provision of additional services.
+
+**49.**—(1) An application by a credit union for the approval of the provision of additional services of any description (in this section referred to as an “approval application”) shall be made to the F134[Bank] in such manner as F134[it] may by rules direct, and shall be accompanied by such information as may be so specified.
+
+(2) Without prejudice to the generality of the powers of the F134[Bank] under *subsection (1)*, an approval application shall include information about—
+
+(*a*) the protection of members for whom the services are to be provided from conflicts of interest that might otherwise arise in connection with the provision of the services;
+
+(*b*) the provision proposed for securing that adequate compensation is available to those members in respect of negligence, fraud or other dishonesty on the part of officers F135[...] of the credit union in connection with the provision of the services;
+
+(*c*) the extent to which and the manner in which the provision of the services will require the involvement of persons with particular qualifications or experience;
+
+(*d*) the cost of providing the services;
+
+(*e*) the income expected to accrue from any charges made for the services; and
+
+(*f*) the credit union’s proposed principal, in a case where the approval application relates to the provision of services by the credit union as agent for another;
+
+and, where an approval application relates to the provision of additional services of more than one description, the information referred to above shall be given separately in respect of each description of services.
+
+(3) Having considered an approval application (which complies with *subsections (1)* and *(2)*), the F134[Bank] shall give notice, either—
+
+(*a*) granting approval;
+
+(*b*) refusing to grant approval; or
+
+(*c*) granting approval subject to whatever conditions (including restrictions or exclusions) F134[it] considers appropriate;
+
+and the F134[Bank] shall not grant an approval application in respect of any description of additional services unless F134[it] is satisfied that the resolution required by *section 48 (4) (a)* in relation to services of that description has been passed.
+
+(4) In making F134[its] decision on an approval application, the F134[Bank] shall have regard to the interests of the public and of the members and creditors of the credit union, to the orderly and proper regulation of the business of the credit union and to such other considerations as F134[it] thinks proper.
+
+(5) Subject to *subsection (6)*, within four months of the date on which F134[it] receives an approval application, the F134[Bank] shall either notify the credit union of F134[its] decision on the application or require the credit union to supply to F134[it] such additional information as F134[it] considers necessary to enable F134[it] to reach a decision and, where the F134[Bank] requires the provision of such additional information, F134[it] shall notify the credit union of F134[its] decision on the approval application not later than four months from the date of F134[its] receipt of that additional information.
+
+(6) Where an approval application relates to the provision of services by the credit union as agent (and not also as principal), *subsection (5)* shall have effect with the substitution for any reference to four months of a reference to two months.
+
+(7) Without prejudice to the generality of *subsection (3)(c)*, the conditions which the F134[Bank] may impose in granting an approval application may, in particular, include provisions about—
+
+(*a*) the amount of funds that may be applied by the credit union to the services;
+
+(*b*) whether the credit union may act as principal or agent in providing the services;
+
+(*c*) the period during which the services may be provided;
+
+(*d*) limits on any guarantees, bonds, contracts of suretyship or indemnities given or entered into by the credit union;
+
+(*e*) whether and to what extent the approval of the F134[Bank] is to be obtained in respect of particular proposals;
+
+(*f*) the qualifications required to be held by officers F136[...] of the credit union providing the services;
+
+(*g*) the avoidance of conflicts of interest;
+
+(*h*) the charges to be made in relation to the provision of any services;
+
+(*i*) the preparation of accounts in respect of services being provided;
+
+and different conditions may be so imposed in relation to different descriptions of additional services.
+
+(8) F137[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F134: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 27, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F135: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 41, S.I. No. 393 of 2013.
+>
+> F136: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 42, S.I. No. 393 of 2013.
+>
+> F137: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 43, S.I. No. 393 of 2013.
+
+### 50. Supplementary provisions as to Registrar’s functions.
+
+**50.**—(1) In the exercise of F138[its] powers under *sections 48* and *49* and this section, the F138[Bank] may at any time consult the Advisory Committee and such other bodies as appear to F138[it] to be expert or knowledgeable in matters relating to credit unions.
+
+(2) Without prejudice to the generality of *subsection (1)*, the F138[Bank] may commission an independent assessment of the capacity of a credit union to provide any or each description of the additional services in respect of which it has made an approval application; and, if the F138[Bank] so directs, the credit union shall defray the costs of such an assessment.
+
+(3) If it appears to F138[it] appropriate to do so, the F138[Bank] may at any time by notice—
+
+(*a*) withdraw an approval granted under *section 49*;
+
+(*b*) revoke or vary any conditions imposed on such an approval; or
+
+(*c*) impose new conditions on such an approval;
+
+but any such action by the F138[Bank] shall not require the disposal of any property or right already acquired.
+
+(4) In this section “approval application” has the same meaning as in *section 49*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F138: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 28, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 51. Requirements applicable to credit unions providing additional services.
+
+**51.**—(1) A credit union shall not make or offer to make a loan to a member subject to a condition that any additional services which the member may require (whether or not in connection with the loan) shall be provided by (or through the agency or assistance of) the credit union.
+
+(2) Where, in connection with a loan by a credit union, any additional services are made available by a credit union, the credit union shall not make those services available except on terms which distinguish the consideration applicable to each service which is so made available.
+
+### Referral to another credit union
+
+F139[**51A.**—(1) Where the rules of a credit union so provide, the credit union may refer a member of the credit union (in this section referred to as the "referring credit union") to another credit union (in this section referred to as the "receiving credit union") for the purpose of the provision by the receiving credit union of a service to the member of the referring credit union.
+
+(2) Where a member of a referring credit union is referred in accordance with *subsection (1)*—
+
+(*a*) the receiving credit union may provide the service in respect of which the referral is made to the member concerned, and
+
+(*b*) the member concerned shall be deemed, for the purpose only of the provision of the service concerned, to be a member of the receiving credit union for the period during which the service is provided.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139: Inserted (30.09.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 26, S.I. No. 475 of 2024.
+>
+> **Editorial Notes:**
+>
+> E51: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 52. Appeal against certain decisions of Bank.
+
+F140[**52.**— The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942:
+
+(*a*) a decision by the Bank under *section 6A* for the purposes of *subsection (1)* or *(2)* of that section;
+
+(*b*) a decision by the Bank under *section 11(5)* to direct a credit union to change its name to a name approved by the Bank;
+
+(*c*) a decision by the Bank under *section 41(5)* to direct a credit union to dispose of the interest to which the direction relates;
+
+(*d*) a decision by the Bank under *section 49(3)(b)* to refuse to grant approval;
+
+(*e*) a decision by the Bank under *section 50(3)(a)* to withdraw an approval granted under section 49;
+
+(*f*) a decision by the Bank under *section 50(3)(b)* to vary any condition imposed on such an approval;
+
+(*g*) a decision by the Bank to impose any condition on such an approval (whether at the time the approval is granted or later by virtue of *section 50(3)(c)*);
+
+(*h*) a decision by the Bank to give a regulatory direction under *subsection (1)* or *(2)* of *section 87*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 14, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E52: Previous affecting provision: section substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 4, S.I. No. 455 of 2004; section substituted (1.08.2013) as per F-note above.
+>
+> E53: Previous affecting provision: section amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 29, S.I. No. 160 of 2003, subject to saver in s. 36 and sch. 3 para. 26; section substituted as per E-note above.
+
+## PART IVManagement of Credit Unions — PART IV — Management of Credit Unions
+
+*Directors*
+
+### 53. Board of directors.
+
+F141[**53.**— (1) A credit union shall have a board of directors which shall have responsibility for the general control, direction and management of the credit union.
+
+(2) The board of directors of a credit union shall be of sufficient number and expertise to adequately oversee the operations of the credit union.
+
+(3) Except in the circumstances set out in *subsection (4)*, the number of directors shall be specified in the registered rules as set out in *section 13* and shall be—
+
+(*a*) not less than 7,
+
+(*b*) not more than 11, and
+
+(*c*) an odd number.
+
+(4) The number of directors of a credit union may be more than 11 or may be an even number if an additional director is appointed under *section 95A*.
+
+(5) Each director of a credit union shall ensure that he or she has sufficient time to devote to the role of director and the responsibilities associated with that role as indicated by the nomination committee under *section 56B(4)(g)*.
+
+(6) F142[Subject to *section 63A(6)*, the board of directors] of a credit union shall be elected—
+
+(*a*) where the organisation meeting occurs after the commencement of this provision (as amended by section 15 of the Credit Union and Co-operation with Overseas Regulators Act 2012), by secret ballot at the organisation meeting and, subject to *subsection (15)* and *section 57*, subsequent vacancies on the board of directors shall be filled by secret ballot at an annual general meeting, and
+
+(*b*) in any other case, by secret ballot at the annual general meeting first occurring after the commencement of this provision (as amended by section 15 of the Credit Union and Co-operation with Overseas Regulators Act 2012) or, if earlier than that annual general meeting, at a special general meeting called for the purpose of such ballot and, subject to *subsection (15)* and *section 57*, subsequent vacancies on the board of directors shall be filled by secret ballot at an annual general meeting.
+
+(7) The term of office of a director of a credit union—
+
+(*a*) shall begin at the conclusion of the general meeting at which the director is elected,
+
+(*b*) shall not extend beyond the third subsequent annual general meeting after his or her election, and
+
+(*c*) subject to *paragraph (b)*, *subsections (8)* and *(12)* and all other applicable requirements of financial services legislation, shall be determined in accordance with the registered rules,
+
+but, except where this Act or any other applicable requirement of financial services legislation or the registered rules otherwise provides, a retiring director shall be eligible for re-election.
+
+(8) At each annual general meeting of a credit union the number of directors whose term of office expires shall, as near as possible, be the same.
+
+(9) Only a natural person of full age may be a director of a credit union.
+
+(10) The following persons are not eligible to become a director of a credit union:
+
+(*a*) F142[an employee or voluntary assistant of the credit union (other than the manager)] or an employee of any other credit union;
+
+(*b*) a member of the board oversight committee of the credit union;
+
+(*c*) a director of any other credit union;
+
+(*d*) an employee of a representative body of which the credit union is a member, where that employee’s role could expose them to a potential conflict of interest;
+
+(*e*) a public servant (within the meaning of the Financial Emergency Measures in the Public Interest Act 2009) assigned to the Department of Finance and involved in advising the Minister on credit union issues or in the examination of credit union issues;
+
+(*f*) a member of the Commission of the Bank;
+
+(*g*) an officer (within the meaning of section 2 of the Central Bank Act 1942) or other employee of the Bank and who is involved in the regulation of credit unions;
+
+(*h*) the Financial Services Ombudsman (within the meaning of section 2 of the Central Bank Act 1942) or a Bureau staff member (within the meaning of section 57BA of that Act);
+
+(*i*) a member of the Irish Financial Services Appeals Tribunal or a member of its staff (including the Registrar of the Appeals Tribunal appointed under section 57J of the Central Bank Act 1942);
+
+(*j*) the chief executive of the National Consumer Agency, an authorised officer of that Agency (within the meaning of section 2 of the Consumer Protection Act 2007) or any other member of its staff;
+
+(*k*) the auditor of the credit union or a person employed or engaged by that auditor;
+
+(*l*) a solicitor or other professional adviser who has been engaged by or on behalf of the credit union within the previous 3 years;
+
+(*m*) a person who is a spouse or civil partner, parent, sibling or child of a director, board oversight committee member or employee of that credit union.
+
+(11) A person shall resign from being a director of a credit union if and when he or she becomes a person to whom any provision of *subsection (10)* relates.
+
+(12) A member of a credit union may not be appointed or elected to the board of directors if he or she has served for more than 12 years in aggregate in the previous 15 years on either the board of directors or the board oversight committee of the credit union.
+
+(13) For directors of a credit union or members of the board oversight committee who were already directors or members of the board oversight committee on the date of the commencement of this section in respect of such credit union, the 12 year period set out in *subsection (12)* commences on the date this subsection so commences.
+
+(14) F142[A director of a credit union (other than the chair of the board of directors of the credit union)] may not serve more than 3 consecutive years in any one principal post (as referred to in *section 63*) and a person who has been the holder of such a principal post shall not be eligible for re-election thereto until after the expiry of one year since he or she last held it.
+
+(15) Subject to the requirements set out in this section and all other applicable requirements of financial services legislation, the board of directors may at any time and from time to time appoint a member of the credit union (including a former director) to be a director to fill a casual vacancy.
+
+(16) A director appointed under *subsection (15)* shall hold office from the date of the appointment to the next following annual general meeting of the credit union or, if it is earlier, the next special general meeting at which an election is held for directors of the board of directors.
+
+(17) Where all the directors of a credit union intend to resign on the same date, the secretary shall give written notice of the directors’ intention to the Bank and the board oversight committee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Substituted (3.03.2014) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 15(1), S.I. No. 99 of 2014.
+>
+> F142: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s.27(a), (b), (c), S.I. No. 57 of 2024.
+>
+> F143: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 27(d), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: subs. (17) amended by *Credit Union (Amendment) Act 2023* (34/2023), s. 27(d), not commenced as of date of revision.
+>
+> (17) Where all the directors of a credit union intend to resign on the same date, the secretary shall give written notice of the directors’ intention F143[to the Bank and, in the case of a credit union other than a corporate credit union, the board oversight committee].
+>
+> C16: Reference to “Financial Services Ombudsman” in subs. (10)(h) construed (1.01.2018) by *Financial Services and Pensions Ombudsman Act 2017* (22/2017), s. 29(3), S.I. No. 524 of 2017.
+>
+> **References in enactments**
+>
+> **29.** ...
+>
+> (3) References to the Financial Services Ombudsman, the Deputy Financial Services Ombudsman or the Pensions Ombudsman in any enactment (other than this Act) or any instrument made under such an enactment shall, on and after the establishment day, be construed as references to the Ombudsman.
+>
+> C17: References to “National Consumer Agency” and “chief executive of the National Consumer Agency” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39(2), S.I. No. 367 of 2014.
+>
+> **Transfer of functions to Commission**
+>
+> **39.**...
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (a) the National Consumer Agency, or ...
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> (4) This section shall come into operation on the establishment day.
+
+### 54. Directors: procedural provisions.
+
+F144[**54.**— (1) The board of directors of a credit union shall meet as often as may be appropriate to fulfil its responsibilities effectively and prudently and reflecting the nature, scale and complexity of the credit union, but in any event—
+
+(*a*) the board of directors shall hold at least F145[6 meetings] in any year, and
+
+(*b*) the interval between any 2 meetings of the board of directors shall not be greater than F145[10 weeks].
+
+(2) Meetings of the board of directors of a credit union shall be chaired by the chair or, in his or her absence, by the vice-chair or, in the absence of the chair and the vice-chair, in a manner prescribed by the Bank or, if no manner is so prescribed, in a manner provided for in the rules of the credit union.
+
+(3) The secretary of a credit union shall keep minutes of all meetings of the board of directors.
+
+(4) Subject to *subsection (10)*, the chair shall cause a detailed agenda of items for consideration and discussion to be prepared by the secretary of the credit union for each meeting of the board of directors.
+
+(5) The secretary of the credit union shall cause the detailed agenda and proposed minutes of the previous meeting of the board of directors to be circulated sufficiently in advance of each board of directors meeting to allow all directors adequate time to consider them. Where necessary, sufficient and clear supporting information and papers shall also be so circulated.
+
+(6) Nothing in *subsection (4)* or *(5)* shall be read as preventing discussion or consideration of any matter urgently arising that is not included in the detailed agenda but any such matter shall, without prejudice to *subsection (7)*, be recorded in the minutes of the meeting concerned and, where appropriate or the board of the credit union so directs, clear supporting information and papers relating to the matter so arising shall be circulated as soon as practicable in the circumstances.
+
+(7) Minutes of all meetings of the board of directors shall—
+
+(*a*) be prepared with all decisions, discussions and points for further action being documented,
+
+(*b*) record all dissensions or minority votes in terms acceptable to the dissenting person or minority voter, and
+
+(*c*) provide sufficient detail to identify the nature and extent of the discussion on any matter and the decision or other outcome.
+
+(8) All discussions at board of directors meetings relating to conflicts of interest (whether of board members or otherwise) shall be recorded in sufficient detail in the minutes of the meeting concerned, together with a record of any action taken or proposed to be taken.
+
+(9) The minutes of each meeting of the board of directors shall be motioned for agreement and approval at the next subsequent meeting of the board of directors. Those minutes shall be so approved or approved subject to such qualifications and modifications as may be made to them at that subsequent meeting. Any such modification or qualification shall also be minuted in the minutes of that subsequent meeting.
+
+(10) In causing the agenda for a meeting of directors of a credit union to be prepared, the chair shall endeavour to ensure that adequate and sufficient time is provisionally allocated to all material relevant matters for discussion.
+
+(11) Directors of the board of directors shall attend every meeting of the board of directors unless they are unable to attend due to circumstances beyond their control.
+
+(12) The extent of the attendance of each board member at meetings of the board of directors shall be recorded in the minutes for the meeting concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 16, S.I. No. 393 of 2013.
+>
+> F145: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 28, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E54: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 30, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 55. Functions of board of directors.
+
+F146[**55.**— (1) Without prejudice to the generality of *section 53(1)*, the functions of the board of directors of a credit union shall include the following:
+
+(*a*) setting the strategy for the credit union by preparing, including active participation and examination of strategies being developed or proposed by the manager, management team or others and preparing and adopting a strategic plan;
+
+(*b*) monitoring the implementation of the strategic plan by the credit union, reviewing the performance of the credit union against the measurements defined in the strategic plan and assessing, on a regular basis but at least annually, how the strategic objectives of the credit union are being achieved;
+
+(*c*) reviewing the credit union’s strategic plan on a regular basis, but at least annually, to ensure that it remains relevant and up to date and modifying or revising the strategic plan to incorporate any changes required as a result of the review;
+
+(*d*) operating a comprehensive decision-making process, considering all matters it considers to be of material relevance to the credit union and documenting the reasons for its decisions;
+
+(*e*) the appointment of a manager, risk management officer and compliance officer and the approval of the appointment of any other member of the management team;
+
+(*f*) ensuring that there is an effective management team in place;
+
+(*g*) reviewing the performance of the manager on an annual basis and monitoring on an ongoing basis his or her continued appropriateness to be the manager;
+
+(*h*) ensuring that the performance of every other employee and voluntary assistant, is reviewed and monitored on an ongoing basis to ensure his or her continued appropriateness for his or her role in the credit union;
+
+(*i*) identifying, in consultation with the manager, other officer positions within the credit union that—
+
+(i) are essential to the proper management of the credit union,
+
+(ii) are likely to enable the person holding the position to exercise significant influence on the conduct of the affairs of the credit union,
+
+and which, together with the manager and risk management officer of the credit union are referred to in this Act as the ‘management team’;
+
+(*j*) ensuring there is an appropriate succession plan in place in respect of each of the positions that constitute the management team;
+
+(*k*) exercising appropriate oversight over execution by the management team of the agreed strategies, goals and objectives;
+
+(*l*) reviewing and approving all elements of the risk management system on a regular basis, but at least annually and, in particular—
+
+(i) assessing the appropriateness of the risk management system,
+
+(ii) taking account of any changes to the strategic plan including the credit union’s resources or the external environment, and
+
+(iii) taking measures necessary to address any deficiencies identified in the risk management system;
+
+(*m*) ensuring compliance with all requirements imposed on the credit union by or under the *Credit Union Acts 1997 to 2012* or any other financial services legislation;
+
+(*n*) the removal from office of an officer of the credit union, except directors or members of the board oversight committee, where the board of directors has duly determined that there has been a failure by the person concerned to perform duties or responsibilities;
+
+(*o*) approving, reviewing, and updating, where necessary, but at least F147[every 3 years, all plans and policies] of the credit union, including the following:
+
+(i) lending policies including lending limits;
+
+(ii) policies in relation to members’ shares and deposits including the setting of a maximum number of shares a member can hold and a maximum amount that a member may deposit;
+
+(iii) liquidity management policies;
+
+(iv) reserve management policies;
+
+(v) investment policies;
+
+(vi) the designating of depositories for the funds of the credit union and signatories to cheques, drafts or similar documents drawn on the credit union;
+
+(vii) standards of conduct and ethical behaviour for officers;
+
+(viii) remuneration policies and practices;
+
+(ix) compliance plan and policies;
+
+(x) records management policies;
+
+(xi) information systems and management information policies;
+
+(xii) business continuity plan;
+
+(xiii) asset and liability management policies;
+
+(xiv) outsourcing policies;
+
+(xv) risk management policy;
+
+(xvi) conflicts of interest policy;
+
+F148[(xvia) environmental, social and governance policy;]
+
+(xvii) such other matters as the Bank may prescribe;
+
+(*p*) the recommendation to members, for approval, of dividends to members;
+
+(*q*) ensuring the accounts of the credit union are submitted for audit;
+
+(*r*) reporting to the members of the credit union at the annual general meeting, including nominating a member of the board to present the annual accounts at the annual general meeting;
+
+(*s*) reviewing and considering any update of financial statements provided to the board by the manager under *section 63A(4)(c)*.
+
+(2) In deciding on the roles, responsibilities and administrative structures and reporting relationships of all officers, the board of directors of a credit union shall ensure that no single person is responsible for making all of the material decisions of the credit union or has effective control over the business of the credit union.
+
+(3) The board of directors shall implement a risk management process that ensures that all significant risks are identified and mitigated to a level consistent with the risk tolerance of the credit union.
+
+(4) The board of directors shall carry out at least annually a comprehensive review of its overall performance, relative to its objectives and implement any necessary changes or improvements.
+
+(5) The review carried out by the board of directors under *subsection (4)* shall be documented in writing.
+
+(6) In respect of the exercise of functions by the board of directors of a credit union, the board shall set out in writing a register of matters or categories of matters that require the board’s approval and which cannot be assigned by the board to other persons for performance on the board’s behalf. The register shall be used to record all such approvals by the board of directors.
+
+(7) Where the board of directors causes any matter relating to its functions to be performed or carried out on its behalf, it shall continue to have responsibility for the matter.
+
+(8) The board shall regularly review, but at least annually, the performance and effectiveness of the internal audit function, including reviewing and approving the internal audit charter and the internal audit plan and reviewing and approving any modifications to them, ensuring they are updated and that any issues identified in the review are managed and rectified in a timely manner.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 17, S.I. No. 393 of 2013.
+>
+> F147: Substituted (30.09.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 29(a), S.I. No. 475 of 2024.
+>
+> F148: Inserted (30.09.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 29(b), S.I. No. 475 of 2024.
+
+### 55A. Chair of board of directors, etc.
+
+F149[**55A.**—(1) The board of directors of a credit union shall elect one of its number to be the chair of the board, subject to that person being eligible to be chair of a board of directors.
+
+(2) The chair of the board of directors of a credit union may be referred to by whatever title the rules of the credit union provide.
+
+(3) The functions of the chair of a credit union include the following:
+
+(*a*) ensuring that meetings of the board of directors operate in an efficient and effective manner;
+
+(*b*) encouraging constructive discussions and debate at board of directors meetings;
+
+(*c*) promoting effective communications between members of the board of directors and between the board of directors and the management team of the credit union;
+
+(*d*) causing the agenda to be set by the secretary, attending and chairing board of directors meetings;
+
+(*e*) ensuring that the responsibilities of the nomination committee, as set out in section 56B(4), are performed by that committee;
+
+(*f*) conducting a performance evaluation of each member of the board of directors on an annual basis to ensure that each director is complying with the obligations under financial services legislation and the board of directors’ objectives as set out in the credit union’s strategic plan;
+
+(*g*) facilitating the work of the board oversight committee through providing it with all reasonable assistance to enable that committee to carry out its functions;
+
+(*h*) ensuring that conflicts of interest are appropriately managed by the board of directors, and by each of them, in accordance with *section 69*.
+
+(4) A director of the credit union shall not be eligible to be elected as chair if the director had, at any time during the 5 years preceding the election, been—
+
+(*a*) an employee of that credit union, or
+
+(*b*) a person who acted in any management capacity (whether voluntary or paid) in that credit union,
+
+and, for the purposes of this subsection, ‘acted in any management capacity’ includes performing a role where the person was in a position to exercise a significant influence on the conduct of the credit union’s affairs but does not include acting as a member of the board of directors or as a member of the board oversight committee.
+
+(5) Subject to *subsection (7)(a)*, the term of office of a chair of a board of directors shall be for the period of one year.
+
+(6) A chair of a board of directors shall not serve more than 4 consecutive terms in that position and, having so served, shall not be eligible to be chair until—
+
+(*a*) after another director has served at least one term as chair, or
+
+(*b*) where such other director has served for less than one year, after 2 or more directors have served as chair for the equivalent of at least one complete term,
+
+but nothing in this section shall prevent a former chair of the board of directors from being selected under *section 54(2)* from chairing a meeting of the board in the absence of the chair and, where relevant, the vice-chair.
+
+(7) A person shall cease being chair of a board of directors if—
+
+(*a*) the person ceases being a director for any reason, or
+
+(*b*) the person resigns from being chair in accordance with *subsection (8)*.
+
+(8) A director may resign from being chair of the board of directors by sending his or her resignation in writing to the secretary of the credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 18, S.I. No. 393 of 2013.
+>
+> F150: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 30, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C18: Prospective affecting provision: subs. (3)(g) amended by *Credit Union (Amendment) Act 2023* (34/2023), s. 30, not commenced as of date of revision.
+>
+> (*g*) F150[in the case of a credit union other than a corporate credit union, facilitating the work of the board oversight committee] through providing it with all reasonable assistance to enable that committee to carry out its functions;
+>
+> **Editorial Notes:**
+>
+> E55: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 56. Removal of director from office.
+
+**56.**—(1) Subject to *subsection (2)*, a credit union may, by resolution of a majority of the members present and voting at a special general meeting called for that purpose, remove a director from office.
+
+(2) The secretary shall, not less than 21 days before the date of the special general meeting at which it is proposed to move a resolution referred to in *subsection (1)*, give written notice of the meeting to the director concerned.
+
+(3) Where notice is given of such a resolution as is mentioned in *subsection (1)* and the director concerned makes in relation to it representations in writing to the credit union (not exceeding a reasonable length) and requests their notification to the members of the credit union, the credit union shall, subject to *subsection (5)*, (unless the representations are received by it too late to do so)—
+
+(*a*) in any notice of the proposed resolution given to members of the credit union, state the fact of the representations having been made; and
+
+(*b*) send a copy of the representations to every member of the credit union to whom notice of the meeting is sent (whether before or after the credit union receives the representations).
+
+(4) Subject to *subsection (5)*, and whether or not copies of any representations made by him have been sent as mentioned in *subsection (3)*, the director concerned may require that, without prejudice to his right to be heard orally, the representations made by him shall be read out at the special general meeting.
+
+(5) *Subsections (3)* and *(4)* shall not apply if, on the application either of the credit union or of any person who claims to be aggrieved, the F151[Bank] is satisfied that compliance with the subsections would diminish substantially public confidence in the credit union or that the rights conferred by them are being, or are likely to be, abused in order to secure needless publicity for defamatory matter.
+
+F152[(6) A vacancy arising from the removal of a director under this section shall be filled in accordance with *section 53(15)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F151: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 31, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F152: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 44, S.I. No. 393 of 2013.
+
+### 56A. Board committees.
+
+F153[**56A.**—(1) Subject to the other provisions of the *Credit Union Acts 1997 to 2012* and any matter prescribed by the Bank, the board of directors of a credit union may cause any matter relating to its functions to be performed or carried out on its behalf by a committee, comprised entirely of directors or of a majority of directors, to act on behalf of the board of directors in respect of matters to be performed or carried out.
+
+(2) A decision of the board of directors to cause any matter relating to its functions to be performed or carried out on its behalf under *subsection (1)* shall be taken at a meeting of the board.
+
+(3) The Bank may prescribe that credit unions generally or any category or categories of credit union establish one or more of the following committees, all members of which shall be directors of the credit union:
+
+(*a*) an audit committee;
+
+(*b*) a risk committee;
+
+(*c*) a remuneration committee.
+
+(4) Where a credit union is not required to establish a committee to which *subsection (3)* relates, the credit union—
+
+(*a*) if such a committee is already in place when this section is first commenced, shall as soon as practicable thereafter decide whether or not the committee shall continue, or
+
+(*b*) at any time after such commencement, it may decide voluntarily to establish such a committee if it considers it appropriate and proportionate to do so,
+
+and the provisions of this section shall apply to the credit union, in respect of the committee so continued or established as if that committee were required to be established under *subsection (3)*.
+
+(5) A decision by the board of directors under *subsection (1)* shall be documented in writing by the board, which documentation shall include—
+
+(*a*) the terms of reference for the committee including—
+
+(i) identifying the subject matter of the area concerned and respective responsibilities of both the board of directors and the committee,
+
+(ii) identifying the matters that may be decided by the committee and those that require the approval of the board,
+
+(iii) a schedule of matters reserved for the board of directors that would otherwise be performed or carried out by the committee,
+
+and
+
+(*b*) the procedures for monitoring and documenting in writing the exercise of the matters to be carried out on behalf of the board.
+
+(6) The board of directors shall appoint the members of each committee to which *subsection (1)* relates.
+
+(7) A person appointed to a committee—
+
+(*a*) shall hold office until the next general meeting at which an election is held for the board of directors, or such shorter period as may be specified at the time the person is appointed to the committee, and
+
+(*b*) may be removed from the committee by a decision of the board of directors.
+
+(8) When appointing members of a committee to which *subsection (1)* relates, the board of directors of a credit union shall ensure that—
+
+(*a*) each committee has an appropriate balance and sufficiency of skills and expertise available to it to carry out the matters delegated to it, and
+
+(*b*) where necessary, some or all of the members of the committee are prepared to undertake relevant training to enhance their skills and experience for the purpose of carrying out functions in the context of *paragraph (a)*.
+
+(9) For the purposes of a committee to which *subsection (1)* relates, the board of directors or, failing them, the committee concerned in consultation with the secretary of the credit union, shall appoint a secretary to the committee. The secretary to a committee shall perform the same functions to the committee as does the secretary to the credit union perform under *subsections (3)*, *(5)*, *(7)* and *(8)* of section 54.
+
+(10) The members of a committee to which *subsection (1)* relates shall perform their functions as such members in a manner consistent with the exercise of functions by members of the board of the credit union, both collectively and individually, as if the committee were the board and accordingly, the provisions of *section 54*, other than *subsection (1)*, that relate to the board shall, subject to any necessary modifications, apply to the committee.
+
+(11) A committee to which *subsection (1)* relates shall be chaired in such manner as its terms of reference provide or, where not so provided, as the committee shall decide.
+
+(12) The board of directors of a credit union—
+
+(*a*) may establish such other committees as the directors consider appropriate, and
+
+(*b*) shall have such other committees (if any) as may be prescribed by the Bank.
+
+(13) In composing the membership of any committee under this section, the board of directors of a credit union shall endeavour to ensure that no one individual director is in a position to exercise excessive influence or control, in respect of the business affairs of the credit union, through membership of committees.
+
+(14) Each committee shall, at least quarterly in every year, prepare and submit in writing to the board of directors a formal report on its activities and deliberations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F153: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 19, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E56: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 56B. Nomination committee.
+
+F154[**56B.**— (1) The board of directors of a credit union shall establish a committee (in this Act referred to as the "nomination Committee") whose members shall be elected in accordance with *subsection (13)*.
+
+(2) The nomination committee shall comprise F155[3 members or 5 members].
+
+(3) Only members of the board of directors of a credit union F156[, other than a member of the board of directors who is also the manager of a credit union,] are eligible to serve on a nomination committee of the credit union.
+
+(4) The nomination committee shall be responsible for the following:
+
+(*a*) identifying candidates to be nominated for appointment to the board of directors;
+
+(*b*) accepting nominations of candidates proposed to be appointed to the board of directors;
+
+(*c*) proposing—
+
+(i) candidates, for election by a general meeting, to be members of the board, and
+
+(ii) if prescribed by the Bank for the purposes of *section 53(15)*, at least such and so many candidates as may be required for consideration for appointment to fill vacancies on the board of directors;
+
+(*d*) proposing an additional person to be a director of the credit union pursuant to *section 95A(1)*;
+
+(*e*) assisting the credit union in performing any obligations of the credit union under section 23 of the Central Bank Reform Act 2010 in relation to any candidates proposed to perform pre-approval controlled functions (as construed in accordance with section 22 of that Act);
+
+(*f*) assisting the credit union in carrying out any checks which the credit union is undertaking to enable it to comply with its obligations under section 21 of the Central Bank Reform Act 2010;
+
+(*g*) informing each prospective candidate by notice in writing, before he or she is proposed as a candidate in accordance with *paragraph (c)*, of the time commitment expected from him or her in respect of his or her role as a director;
+
+(*h*) ensuring that there is an appropriate succession plan in place for the board of directors;
+
+(*i*) ensuring that each director is given adequate induction to his or her role on the board of directors so as to ensure he or she has sufficient appreciation of, and appropriate training about, the strategy, operations and performance of the credit union;
+
+(*j*) ensuring that the induction process and training referred to in *paragraph (i)* occurs as soon as is practicable and in any event by no later than 6 months following a director’s F156[initial] appointment to the board of directors;
+
+(*k*) arranging additional training, either individually or collectively, for the members of the board of directors during their respective terms of appointment to the extent that the nomination committee considers it necessary in order for the board of directors to make informed decisions;
+
+(*l*) maintaining a record in writing of the periods of time during which a person has served as a member of the board of directors of the credit union.
+
+(5) Every candidate to be nominated for appointment as a member of the board of directors of a credit union shall be proposed through the nomination committee of the credit union. No person shall otherwise be put forward for election or seek election at an annual general meeting or special general meeting of the credit union at which an election is held for members of the board of directors.
+
+(6) The nomination committee shall ensure it receives nominations for appointment of persons as members of the board of directors of a credit union in time prior to any annual general meeting, or special general meeting at which an election is held for such members, so as to enable any requirements by or under Part 3 of the Central Bank Reform Act 2010 to be met in advance of those persons being nominated for appointment.
+
+(7) In identifying prospective candidates under *subsection (4)(a)* and considering the proposing of candidates under *subsection (4)(c)*, F155[the nomination committee shall consider the balance of gender, skills, experience and knowledge] on the current board of directors and any review undertaken under *subsection (11)*.
+
+(8) In considering the proposing of candidates under *paragraph (4)(c)*, the nomination committee shall have regard to—
+
+(*a*) the number of directors on the board of directors and the number of vacancies to be filled,
+
+(*b*) whether potential conflicts of interest could arise from the appointment to the board of directors of a person if such person were duly nominated and appointed to the board, and
+
+(*c*) any other matter that the Bank may prescribe.
+
+(9) Any potential conflict referred to in *subsection (8)* shall be brought to the attention of—
+
+(*a*) where *subsection (4)(c)(i)* is relevant, the members of the credit union at the general meeting concerned, and
+
+(*b*) where *subsection (4)(c)(ii)* is relevant, the directors of the board of directors of the credit union at the meeting of the board concerned.
+
+(10) The nomination committee shall not propose appointments to the board of directors or allow appointments to proceed where conflicts of interest exist or could arise in a way which in its opinion could significantly affect the ability of the board of directors to operate in accordance with *section 69(1)*.
+
+(11) The nomination committee shall review the composition of the board of directors at least once a year for the purpose of identifying any deficiencies in the composition of the board. The review shall include determining whether or not there are any deficiencies in the balance of skills amongst the members of the board of directors and considering other matters relating to deficiencies that may be prescribed by the Bank.
+
+(12) The nomination committee shall—
+
+(*a*) formally review the membership of any person who is a member of the board of directors for more than the 12 years in aggregate permitted under this Part, and
+
+(*b*) shall document the rationale for the continuance of such membership of that person.
+
+(13) (*a*) At a meeting of the board of directors of a credit union—
+
+(i) which is held immediately after the organisation meeting, an annual general meeting or special general meeting at which an election is held for members of the board of directors, and
+
+(ii) which is chaired by a member of the board oversight committee,
+
+the board shall elect by secret ballot directors to fill such positions as are then vacant on the nomination committee.
+
+(*b*) In the event of a casual vacancy on the nomination committee, the board of directors may by secret ballot elect a director to fill that vacancy until the next meeting at which, in accordance with *paragraph (a)*, an election should be held to fill any vacancy in the nomination committee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F154: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 20, S.I. No. 393 of 2013.
+>
+> F155: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 31(a), (d), S.I. No. 57 of 2024.
+>
+> F156: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 31(b), (c), S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E57: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 57. Directors: supplemental provisions.
+
+**57.**—(1) A register of directors shall be kept by the secretary of the credit union and signed by all the directors of a credit union each year after the annual general meeting of a credit union or, in the case of a director appointed to fill a casual vacancy, after his appointment.
+
+F157[(2) In the event that the number of directors of a credit union falls to less than half the number specified in the registered rules, the secretary of the credit union shall forthwith notify the Bank F158[and, in the case of a credit union other than a corporate credit union, the board oversight committee of the credit union].]
+
+(3) The acts of a director of a credit union shall be valid notwithstanding any defect in the appointment of the director which may be subsequently discovered.
+
+F159[(4) Where any of the following events occurs—
+
+(*a*) the secretary of the credit union has given notice under *section 53(17)* that all the directors of the credit union intend to resign on the same date,
+
+(*b*) all the directors have been removed or suspended in accordance with *section 96(1)*, or
+
+(*c*) there is no board of directors,
+
+F158[then, in the case of a credit union other than a corporate credit union, the secretary] shall convene a special general meeting of the credit union, within one month of the occurrence of the event in question, to elect a board of directors.]
+
+(5) If the special general meeting referred to in *subsection (4)* is not convened in accordance with the provisions of that subsection, the F160[Bank] may convene such a special general meeting under *section 92 (1)(b)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F157: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 sch. 1 item 45, S.I. No. 393 of 2013.
+>
+> F158: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 32(a), (b), S.I. No. 57 of 2024.
+>
+> F159: Substituted (3.03.2014) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 sch. 1 item 46, S.I. No. 99 of 2014.
+>
+> F160: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 32, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> **Editorial Notes:**
+>
+> E58: Previous affecting provision: subs. (2) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 32, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+*Supervisory Committee*
+
+### 58. Supervisory Committee.
+
+**58.**—F161[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F161: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 47, S.I. No. 393 of 2013, subject to transitional provision in s. 27(2).
+
+### 59. Supervisory Committee: procedural provisions.
+
+**59.**—F162[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F162: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 47, S.I. No. 393 of 2013, subject to transitional provision in s. 27(2).
+>
+> **Editorial Notes:**
+>
+> E59: Previous affecting provision: section amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 33, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; repealed as per F-note above.
+
+### 60. Functions of Supervisory Committee.
+
+**60.**—F163[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F163: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 47, S.I. No. 393 of 2013, subject to transitional provision in s. 27(2).
+
+### 61. Supervisory Committee: removal from office.
+
+**61.**—F164[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F164: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 47, S.I. No. 393 of 2013, subject to transitional provision in s. 27(2).
+>
+> **Editorial Notes:**
+>
+> E60: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 34, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; repealed as per F-note above.
+
+### 62. Supervisory Committee: supplemental provisions.
+
+**62.**—F165[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F165: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 47, S.I. No. 393 of 2013, subject to transitional provision in s. 27(2).
+>
+> **Editorial Notes:**
+>
+> E61: Previous affecting provision: section amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 35, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; repealed as per F-note above.
+
+*Officers*
+
+### 63. Officers: principal posts.
+
+**63.**—F166[(1) At a meeting of the board of directors of a credit union—
+
+(*a*) which is held immediately after the organisation meeting, an annual general meeting or special general meeting at which an election is held for members of the board of directors, and
+
+F167[(*b*) which is—
+
+(i) in the case of a credit union other than a corporate credit union, chaired by a member of the board oversight committee, and
+
+(ii) in the case of a corporate credit union, chaired by a member of the board of directors,]
+
+F167[the board of directors shall, subject to *subsection (4A)*, elect] by secret ballot directors to fill such of the principal posts in the credit union as are then vacant; and, for the purposes of this section, the principal posts in a credit union are the posts of chair, vice-chair and secretary.]
+
+(2) F168[...]
+
+(3) In the event of a casual vacancy in a principal post, F167[the board of directors may, subject to subsection (4A),] elect a director to hold that post until the next meeting at which, in accordance with *subsection (1)*, an election should be held to fill any vacancy in the principal posts.
+
+(4) Without prejudice to *subsection (3)*, if a principal post falls vacant or for any other reason there is no holder of a principal post, anything that is required or authorised to be done by the holder of that post may be done by a director authorised in that behalf by the board of directors.
+
+F169[(4A) A manager appointed as a director pursuant to *section 63A(6)* shall not be eligible for election under *subsection (1)* or *(3)* or authorisation under *subsection (4)*.]
+
+F170[(5) The chair or secretary of a credit union shall notify the Bank in writing of the election, appointment, retirement, removal or resignation from office of chair, vice-chair, director, secretary, or committee member and the notification shall—
+
+(*a*) be made within 14 days of the election, appointment, retirement, removal or resignation, and
+
+(*b*) state the full name and address of the officer concerned.]
+
+(6) F171[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F166: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 48, S.I. No. 393 of 2013.
+>
+> F167: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 33(a), (b), S.I. No. 57 of 2024.
+>
+> F168: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 49, S.I. No. 393 of 2013.
+>
+> F169: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 33(c), S.I. No. 57 of 2024.
+>
+> F170: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 50, S.I. No. 393 of 2013.
+>
+> F171: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 51, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E62: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 36, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 63A. Manager of credit union.
+
+F172[**63A.**—(1) The board of directors of a credit union shall appoint an individual to the role of manager of the credit union.
+
+(2) The manager of a credit union shall be the chief executive officer of the credit union having responsibility for the day-to-day management of the credit union’s operations, compliance and performance and shall be responsible to the board of directors for the performance of his or her functions.
+
+(3) Subject to the *Credit Union Acts 1997 to 2012*, any matters which the Bank may prescribe and other financial services legislation, the respective functions of, and the division of responsibilities between, the board of directors and the manager of a credit union shall be clearly established, formally documented in writing and approved by the board of directors.
+
+(4) The functions of the manager of a credit union include the following:
+
+(*a*) without prejudice to the exercise by the board of directors of its functions under *subsection (1)(a)* of *section 55*, preparing and proposing to the board of directors for debate, scrutiny and approval, strategies for the strategic plan that the board of directors are required to prepare and approve under that subsection;
+
+(*b*) implementing the strategies agreed by the board of directors to the standards set out in the strategic plan or as otherwise required by the board of directors;
+
+(*c*) updating the board of directors on the financial position of the credit union, including submitting to the board of directors on a monthly basis unaudited financial statements that set out the financial position of the credit union;
+
+(*d*) appointing or causing to be appointed such and so many persons as employees or as voluntary assistants as the manager considers appropriate after consulting with the management team of the credit union;
+
+(*e*) preparing or causing to be prepared such financial reports and returns as may be required by the auditor of the credit union;
+
+(*f*) implementing the proper systems of internal control which the board of directors have approved;
+
+(*g*) ensure that all cash is deposited in accordance with the instructions of the board of directors;
+
+(*h*) such other matters as may be duly assigned to the manager by the board of directors.
+
+(5) In appointing a person as manager of a credit union, its board of directors shall ensure that the person complies with all legal requirements (including requirements which the Bank may prescribe) to be appointed.]
+
+F173[(6) Subject to *subsection (7)*, the board of directors of a credit union may appoint the manager of the credit union to be a member of the board of directors for such term as they determine.
+
+(7) Where a person appointed under *subsection (6)* ceases to be a manager of the credit union concerned, that person shall immediately upon such cessation cease to be a member of the board of directors of that credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F172: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 21, S.I. No. 393 of 2013.
+>
+> F173: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 34, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E63: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 64. Functions of treasurer.
+
+**64.**—F174[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F174: Repealed (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 sch. 1 item 52, S.I. No. 393 of 2013.
+
+### 65. Credit officer and credit control officer.
+
+F175[**65.**— (1) The board of directors may—
+
+(*a*) approve the appointment of a person by the manager, other than a member of the board, a member of the credit control committee or a credit control officer, as a credit officer to work under the supervision of the credit committee, and
+
+(*b*) assign to the credit officer the power to approve credit on its behalf—
+
+(i) that is fully secured by the shareholding of the borrowing member or to an amount in excess of that shareholding, or
+
+(ii) that qualifies as emergency credit within such definitions and limitations as to amount, the terms of repayment and security required for emergency credit as may be established in writing by the board of directors,
+
+and the amount of the excess referred to in *paragraph (b)(i)*, shall be determined from time to time by the board of directors.
+
+(2) F176[...]
+
+(3) Where the board of directors has assigned the power to approve credit under *subsection (1)(b)*, a credit officer shall enquire into the character and financial circumstances of an applicant for credit and the security offered, if any, in order to—
+
+(*a*) ascertain the applicant’s ability to repay a loan in accordance with its terms, and
+
+(*b*) ensure that the provision of credit does not involve undue risk to members’ savings.
+
+(4) The Board may approve the appointment of a person by the manager, other than a member of the board, a member of the credit committee or a credit officer, as a credit control officer to assist the credit control committee and work under its supervision and control.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 22, S.I. No. 393 of 2013.
+>
+> F176: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 35, S.I. No. 57 of 2024.
+
+### 66. Officers: suspension and removal by Supervisory Committee.
+
+F177[**66.**— (1) If the board oversight committee of a credit union considers that a member of the board of directors has taken any action or decision which, in the opinion of the committee, given in writing to the director concerned, is not in accordance with the requirements of this Part, then, F178[after notifying the Bank], the committee may either—
+
+(*a*) suspend, with immediate effect, the director by a unanimous vote of all the members of the committee taken at a meeting of the committee called for the purpose of considering the director’s suspension, or
+
+(*b*) convene a special general meeting of the credit union to consider whether to remove the director in light of the action or decision taken by that director,
+
+but no steps shall be taken under this subsection without the director concerned being given an opportunity to be heard by the members of the board oversight committee.
+
+F178[(2) Where a director of a credit union has—
+
+(*a*) been suspended by the board oversight committee in accordance with *subsection (1)*, and
+
+(*b*) within 7 days of that suspension, notified the board oversight committee, in writing, that he or she is aggrieved by the suspension,
+
+the board oversight committee shall ensure that the secretary of the credit union issues, within 14 days of that notification, a notice of a special general meeting—
+
+(i) for the purpose of reviewing the suspension, and
+
+(ii) to consider whether to remove the director having regard to the action or decision taken by that director.]
+
+(3) Where the board oversight committee convenes a special general meeting for the purposes of this section the credit union may, by resolution of a majority of the members present and voting at that special general meeting—
+
+(*a*) ratify the suspension of the director concerned and remove that director from office,
+
+(*b*) rescind the suspension of that director, or
+
+(*c*) remove that director from office,
+
+but no director shall be so removed from office without being given an opportunity to be heard by the members present at the meeting.
+
+(4) The secretary of the credit union shall, not less than 21 days before the date of the special general meeting at which it is proposed to move a resolution referred to in *subsection (3)*, give written notice of that meeting to the director concerned.
+
+(5) Where notice is given of an intended resolution to remove a director under this section and the director concerned makes in relation to it representations (not exceeding a reasonable length) in writing to the credit union and requests their notification to the members of the credit union then, unless the representations are received by it too late for it to do so, the credit union shall, subject to *subsection (7)*—
+
+(*a*) in any notice of the resolution given to members of the credit union, state the fact of the representations having been made, and
+
+(*b*) send a copy of the representations to every member of the credit union to whom notice of the meeting is sent.
+
+(6) Subject to *subsection (7)*, and whether or not copies of any representations made by it have been sent as mentioned in *subsection (5)*, the director concerned may require that, without prejudice to his or her right to be heard orally, the representations made by him or her shall be read out at the special general meeting.
+
+(7) *Subsections (5)* and *(6)* shall not apply if, on the application either of the credit union or of any person who claims to be aggrieved, the Bank is satisfied that compliance with the subsections would diminish substantially public confidence in the credit union or that the rights conferred by those sections are being, or are likely to be, abused in order to secure needless publicity for defamatory matter.
+
+(8) Where a director of a credit union is removed from office at a special general meeting pursuant to this section, the vacancy caused by the removal shall be filled in such manner as may be determined by the meeting.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 23, S.I. No. 393 of 2013.
+>
+> F178: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023 (34/2023)*, s. 36(a), (b), S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E64: Previous affecting provision: subss. (1) and (3) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 37, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted (11.01.2013) as per F-note above.
+
+F179[*General governance requirements*]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 24, S.I. No. 393 of 2013.
+
+### 66A. Governance arrangements in credit unions.
+
+F180[**66A.**— (1) A credit union shall have governance arrangements which shall—
+
+(*a*) be such as to ensure that there is effective oversight of the activities of the credit union, taking into consideration the nature, scale and complexity of the business being conducted,
+
+(*b*) include a clear organisational structure with well-defined, transparent and consistent reporting lines,
+
+(*c*) be documented and set out the roles, responsibilities and accountabilities of the officers clearly in writing,
+
+(*d*) be communicated in writing to all officers in the credit union, and
+
+(*e*) be subject to regular internal review by the board of directors on, at a minimum, an annual basis.
+
+(2) A credit union shall have in place the oversight, policies, procedures, practices, systems, controls, skills, expertise and reporting arrangements to ensure compliance with the requirements set out in this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 24, S.I. No. 393 of 2013.
+
+### 66B. Remuneration policies and practices.
+
+F181[**66B.**— A credit union shall put in place remuneration policies and practices which shall be consistent with and promote sound and effective risk management.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F181: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 24, S.I. No. 393 of 2013.
+
+### 66C. Reporting to Bank.
+
+F182[**66C.**— F183[(1) A credit union shall submit an annual compliance statement to the Bank certifying its compliance with the requirements of this Part and the regulations, if any, made in respect of a matter to be prescribed under this Part by the Bank.]
+
+F184[(1A) The Bank may prescribe the form and content of the annual compliance statement referred to in *subsection (1)*.]
+
+(2) The annual compliance statement referred to in *subsection (1)* shall be submitted by a credit union to the Bank within 2 months of the end of each financial year of the credit union, or with such other frequency as the Bank may notify to the credit union from time to time.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F182: Inserted (3.03.2014) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 24, S.I. No. 99 of 2014.
+>
+> F183: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 37(a), S.I. No. 57 of 2024.
+>
+> F184: Inserted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 37(b), S.I. No. 57 of 2024.
+
+*General provisions*
+
+### 67. Credit, credit control and membership committees.
+
+**67.**— F185[(1) Without prejudice to *section 56A*, the board of directors shall appoint—
+
+(*a*) a credit committee, which shall decide on applications for credit;
+
+(*b*) a credit control committee, which shall seek to ensure the repayment of loans by members of the credit union in accordance with their loan agreements; and
+
+F186[(*c*) a membership committee which shall determine applications for membership of the credit union that have been rejected under a process referred to in *section 17(9)*;]
+
+and the *Third Schedule* shall apply to the committees.]
+
+(2) The record of applications for credit furnished by a credit officer under *section 65 (2)* shall be considered by the credit committee at its next following meeting and become part of the records of the credit union.
+
+(3) F187[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 53, S.I. No. 393 of 2013.
+>
+> F186: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 38(a), S.I. No. 57 of 2024.
+>
+> F187: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 38(b), S.I. No. 57 of 2024.
+
+### 68. Limitation of remuneration.
+
+**68.**—F188[(1) A credit union shall not pay any remuneration, directly or indirectly, to—
+
+(*a*) a director of the credit union, or
+
+(*b*) a member of the board oversight committee F189[...] of the credit union,
+
+for any service performed by that person in that capacity.]
+
+(2) Nothing in *subsection (1)* shall be regarded as prohibiting the payment (or reimbursement) of expenses—
+
+(*a*) which are necessarily incurred by a director or committee member in the course of performing any service on behalf, or for the benefit, of the credit union; and
+
+F190[(*b*) which are approved by at least 2 directors (not including the director whose expenses are being approved).]
+
+(3) Nothing in *subsection (1)* shall be regarded as prohibiting any officer F191[...] of a credit union, acting not as such but in his professional capacity, from tendering for the supply of, and if successful supplying, goods or services to the credit union.
+
+(4) F192[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 54, S.I. No. 393 of 2013.
+>
+> F189: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 39(a), S.I. No. 57 of 2024.
+>
+> F190: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 39(b), S.I. No. 57 of 2024.
+>
+> F191: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 55, S.I. No. 393 of 2013.
+>
+> F192: Deleted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 56, S.I. No. 584 of 2015.
+
+### 69. Conflicts of interest.
+
+F193[**69.**— (1) Officers of a credit union, including the members of its board of directors, shall at all times ensure that individually, and collectively when acting in that capacity, they act in a manner free from conflicts of interest.
+
+(2) The board of directors of a credit union shall approve and document in writing a policy for identifying, managing and resolving conflicts of interest and which policy will apply to all officers of a credit union.
+
+(3) Every officer of a credit union shall identify all potential conflicts between his or her own interests and the interests of the credit union and shall take all necessary steps to ensure his or her role in the credit union is not influenced by any other interest.
+
+(4) An officer of a credit union shall not, in any manner, directly or indirectly, participate in the consideration or determination of any matter which he or she, or a body with which he or she is connected, has a pecuniary interest or other conflict of interest or where a reasonably perceived conflict of interest exists and, accordingly, an officer shall withdraw from any meeting or part of the meeting during which such a matter is to be considered or determined.
+
+(5) If, apart from this section, the withdrawal of an officer from a meeting in pursuance of *subsection (4)* would cause the meeting to become inquorate, the remaining members shall be treated as constituting a quorum while the matter in question is being considered or determined.
+
+(6) An officer of a credit union who is or becomes interested, directly or indirectly, in—
+
+(*a*) a contract that is made or proposed to be made by the credit union or proposed to be amended by the credit union,
+
+(*b*) any matter prescribed by the Bank for the purposes of this section, or
+
+(*c*) any other matter identified by the board of directors for the purpose of this section,
+
+then the officer shall declare the nature of his or her interest—
+
+(i) where that officer is the chair of the board of directors, in writing to the board of directors and served on the secretary,
+
+(ii) where that officer is the secretary, in writing to the board of directors and served on the chair,
+
+(iii) where that officer is any other member of the board of directors, in writing to the board of directors and served on the secretary and the chair,
+
+(iv) where that officer is the manager, in writing to the board of directors and served on the secretary, or
+
+(v) in any other case, in writing to the board of directors and the manager and served on the secretary,
+
+as soon as possible after the contract is so made or proposed to be made or so proposed to be amended or, as the case may be, after he or she becomes so interested.
+
+(7) In the case of a declaration under *subsection (6)* by a member of the board of directors—
+
+(*a*) where the contract or matter concerned comes before a meeting of the board, the declaration shall also be made in person by the member (if present) at the meeting at which the contract or matter is to be considered, and
+
+(*b*) in every other case, the secretary shall read the declaration made in writing under *paragraph (i)* or *(ii)* (as the case may be) of *subsection (6)* at the next meeting of the board of directors held after service of that declaration.
+
+(8) Subject to *subsection (9)*, for the purposes of this section, a general notice in writing which is served by an officer of the credit union on the appropriate person to whom *paragraph (i)*, *(ii)*, *(iii),* *(iv)* or *(v)* of *subsection (6)* would relate if a declaration were served under that subsection and which is to the effect that—
+
+(*a*) the officer is connected (whether as member, director, employee or otherwise) with a specified body and is regarded as interested in any contract, or other matter to which *subsection (6)* relates, which, after the date of the notice, may be made with or relate to that body; or
+
+(*b*) the officer is to be regarded as interested in any contract, or other matter to which *subsection (6)* relates, which, after the date of the notice, may be made with or relate to a specified person who is connected with him or her,
+
+shall be deemed to be a sufficient declaration of interest in relation to any such contract or other matter.
+
+(9) In the case of a general notice under *subsection (8)* and to which *paragraph (i)*, *(ii)* or *(iii)* of *subsection (6)* relates, notice under *subsection (8)* may be given—
+
+(*a*) by the director concerned in person at a meeting of the board of directors, or
+
+(*b*) where the director concerned is the chair, in accordance with *paragraph (i)* of *subsection (6)* or where the director concerned is the secretary, in accordance with *paragraph (ii)* of that subsection, or, where the director concerned is any other director, in accordance with *paragraph (iii)* of that subsection,
+
+and where a notice is given as mentioned in *paragraph (b)*, the secretary shall read the notice at the next meeting of the board of directors.
+
+(10) For the purposes of this section—
+
+(*a*) this section applies in relation to a transaction, arrangement or proposal in the same manner as it applies in relation to a contract, and
+
+(*b*) an officer of a credit union shall be regarded as connected with a particular body if the officer has an interest in the body, whether directly or indirectly and whether as a member, director, employee, shareholder or otherwise.
+
+(11) Within 3 working days after a declaration or notice under this section is made or given, the secretary or manager (as the case may be) of the credit union concerned shall cause a copy of the declaration or notice to be entered in a register kept for that purpose, and that register shall—
+
+(*a*) be open for inspection without charge by any officer, auditor or member of the credit union or the internal audit function, and
+
+(*b*) be available at every general meeting of the credit union and, if adequate notice in advance is given to the secretary by any director, at any meeting of the board of directors.
+
+(12) In the case of a member of the board of directors of a credit union, where recurring or ongoing conflicts of interest arise for the member, then—
+
+(*a*) where the member concerned is the chair, seek formal or informal guidance from some or all of the other directors, and
+
+(*b*) where the member concerned is not the chair, seek formal or informal guidance from the chair,
+
+as to whether it is appropriate to resign and, following the consideration of such guidance by the member concerned, he or she shall resign as a member of the board of the credit union if he or she considers it appropriate to do so in the circumstances.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F193: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 25, S.I. No. 393 of 2013.
+
+### 70. Required signatories etc.
+
+**70.**—(1) None of the documents specified in *subsection (2)* shall be effective in law to bind a credit union unless signed by at least two officers of the credit union, one of whom shall be a member of the board of directors.
+
+F194[(2) The documents to which *subsection (1)* applies are any of the following, so far as not required by law to be under the seal of a credit union—
+
+(*a*) a conveyance or transfer of property of any description by a credit union; and
+
+(*b*) any other document which does not fall within *section 55(1)(o)(vi)* but by which a credit union enters into an obligation of any description.]
+
+(3) If the rules of a credit union make provision as to the officers by whom documents to which *subsection (1)* applies are to be signed, a document which purports to be signed as required by that subsection shall not be invalid by reason of any failure to comply with any such provision of the rules.
+
+(4) The provisions of this section are without prejudice to any additional provisions as to signatures imposed by the F195[Bank] by way of condition under *section 49*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F194: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 57, S.I. No. 393 of 2013.
+>
+> F195: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 38, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 71. Confidentiality of information.
+
+**71.**—(1) Subject to *subsection (2)*, during his term of office or at any time thereafter, an officer F196[...] of a credit union shall not disclose or permit to be disclosed any information which concerns an account or transaction of a member with, or any other business of, the credit union.
+
+(2) *Subsection (1)* does not apply to a disclosure of information—
+
+(*a*) if or to the extent that it is necessary for the proper conduct of the business of the credit union; or
+
+(*b*) which is required by a court in connection with any proceedings; or
+
+(*c*) which is made with the consent of the person to whom the information relates and, where not the same person, of the person from whom the information was obtained; or
+
+(*d*) which, in a case where the credit union is acting or has acted as agent for a person, is made to that person in respect of that capacity; or
+
+(*e*) where the information is in the form of a summary or collection of information and is so framed as not to enable information relating to a particular member to be ascertained from it; or
+
+(*f*) which, in the opinion of the F197[Bank], is necessary for the protection of the funds of shareholders in or depositors with the credit union or to safeguard the interests of the credit union; or
+
+F198[(*g*) which is made to the Bank for the purposes of its functions in relation to credit unions; or
+
+(*h*) which is made to the Credit Union Restructuring Board for the purposes of its functions under the Credit Union and Co-operation with Overseas Regulators Act 2012.]
+
+(3) As soon as practicable after the beginning of his term of office or, in the case of any person whose term of office began before the commencement of this section, after that commencement, every officer F199[...] of a credit union shall, in such manner as the F197[Bank] may determine—
+
+(*a*) be informed by the credit union of his obligations under this section; and
+
+(*b*) in writing acknowledge that he has been so informed and understands his obligations.
+
+(4) Any reference in the preceding provisions of this section to a term of office means—
+
+(*a*) in relation to an officer who is an employee, the period of his employment; and
+
+(*b*) in relation to a voluntary assistant, the period during which he is engaged in the operation of the credit union.
+
+(5) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+(6) In any proceedings for an offence under this section, the onus of proving that any of the *paragraphs* of *subsection (2)* excludes a disclosure from *subsection (1)* shall lie on the person who made or permitted the disclosure.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F196: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 58, S.I. No. 393 of 2013.
+>
+> F197: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 39, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F198: Substituted and inserted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 59, S.I. No. 557 of 2012.
+>
+> F199: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 60, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E65: Previous affecting provision: subs. (2)(g) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 39, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 72. Persons disqualified from acting.
+
+**72.**—F200[(1) A person who has been adjudicated bankrupt and whose bankruptcy still subsists or F201[who, in the previous 10 years, has been convicted] of an offence in relation to a credit union or an offence involving fraud or dishonesty shall not—
+
+(*a*) sign an application form for the registration of a society as a credit union,
+
+(*b*) be qualified to be appointed or to act as an officer, auditor, receiver or liquidator of a credit union,
+
+(*c*) directly or indirectly take part in or be concerned in the management or operation of a credit union, or
+
+(*d*) permit his or her name to be put forward for election or appointment to any of the positions referred to in *paragraph (b)*.]
+
+F202[(2) If a person who is a member of—
+
+(*a*) the board of directors,
+
+(*b*) the board oversight committee, or
+
+(*c*) a principal Committee,
+
+of a credit union is adjudicated bankrupt or convicted of such an offence as is referred to in *subsection (1)*, then such person shall forthwith cease to hold office and the vacancy thereby created shall be deemed to be a casual vacancy and be filled accordingly.]
+
+(3) A decision of the board of directors of a credit union shall not be affected by the presence at a meeting of the board of a person who, by virtue of this section, is disqualified from being a director; but any vote which such a person purports to cast shall be disregarded.
+
+(4) Any person who, in relation to a credit union, purports to act in a manner or capacity which, by virtue of his being disqualified under this section, he is prohibited from doing shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F200: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 61, S.I. No. 393 of 2013.
+>
+> F201: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 40, S.I. No. 57 of 2024.
+>
+> F202: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 62, S.I. No. 393 of 2013.
+
+### 73. Giving of security by officers etc.
+
+**73.**—F203[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F203: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 63, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E66: Previous affecting provision: subs. (3)(b) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 40, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; deleted as per F-note above.
+
+### 74. Duty to account.
+
+**74.**—(1) Whenever required to do so in accordance with *subsection (2)*, every officer F204[...] of a credit union who has the receipt or charge of money on behalf of the credit union shall—
+
+(*a*) render such an account as may be required by the credit union or its board of directors;
+
+(*b*) pay over all such money and deliver all such property of the credit union for the time being under his custody or control to such person as the credit union or its board of directors may appoint.
+
+(2) Either or both of the requirements in *subsection (1)* shall arise—
+
+(*a*) on demand; or
+
+(*b*) on the service on the officer F205[...] of a notice in writing imposing the requirement or, as the case may be, both of the requirements;
+
+and the requirement in *paragraph (a)* of that subsection shall also arise at such times as may be determined under the rules of the credit union.
+
+(3) After the death of an officer F206[...] of a credit union, references in *subsections (1)* and *(2)* to the officer or voluntary assistant shall be taken to include references to his personal representatives.
+
+F207[(4) If any person fails to comply with a requirement under *subsection (1)*, the Circuit Court, on the application to it of the credit union, may make an order requiring that person to comply with the requirement.]
+
+(5) The jurisdiction of the Circuit Court under *subsection (4)* shall be exercised by the judge for the time being assigned to the circuit in which the registered office of the credit union is situated.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F204: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 64, S.I. No. 393 of 2013.
+>
+> F205: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 65, S.I. No. 393 of 2013.
+>
+> F206: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 66, S.I. No. 393 of 2013.
+>
+> F207: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 67, S.I. No. 393 of 2013.
+
+### 75. Register of members and officers.
+
+**75.**—(1) Every credit union shall keep at its registered office a register in which shall be entered—
+
+(*a*) the membership numbers, names and addresses of its members;
+
+(*b*) a statement of the number of shares and amount of deposits held by each member and, if the shares are distinguished by numbers, the numbers of the shares so held;
+
+(*c*) a statement of other property in the credit union, whether in loans or otherwise, held by each member;
+
+(*d*) the date at which the name of any person was entered in the register as a member;
+
+(*e*) the date at which any person ceased to be a member; and
+
+F208[(*f*) the membership numbers, names and addresses of the officers of the credit union (excluding any person who is an officer solely by virtue of being an employee or a voluntary assistant), with the offices held by them respectively, the dates on which they assumed office and, where applicable, on which they ceased to hold office.]
+
+(2) The register may be kept either by making entries in bound books or by recording the matters in question in any other manner; but, where the register is not kept by making entries in a bound book but by some other means, adequate precautions shall be taken for guarding against, and facilitating the discovery of, any falsification.
+
+(3) Every credit union shall either—
+
+(*a*) keep at its registered office, for the purposes of inspection under *section 76*, an abbreviated register, containing the particulars in the register kept under *subsection (1)*, excluding those entered under *paragraph (b)* or *paragraph (c)* of that subsection; or
+
+(*b*) so construct the register kept under *subsection (1)* that it is possible to open to inspection the particulars in the register, excluding those entered under *paragraph (b)* or *paragraph (c)* of that subsection and without exposing the particulars so entered.
+
+(4) Where a credit union keeps a register pursuant to *subsection (1)* by recording the matters in question in any manner other than by making entries in bound books, the credit union shall keep at a place other than its registered office a duplicate register containing the particulars in the register kept under *subsection (1)*.
+
+F209[(5) The Bank or a person acting on its behalf may at all reasonable hours inspect any particulars in any register or duplicate register kept under this section.]
+
+(6) A credit union's register or duplicate register kept under this section, or any other register or list of members or shares kept by the credit union shall be *prima facie* evidence of any of the following particulars entered therein, that is to say—
+
+(*a*) the membership numbers, names and addresses of members;
+
+(*b*) the number of shares and the amount of deposits respectively held by the members, and the distinguishing numbers of those shares if they are distinguished by numbers;
+
+(*c*) the date at which the name of any person was entered in the register as a member; and
+
+(*d*) the date at which any person ceased to be a member.
+
+(7) A credit union shall ensure that a register or duplicate register kept under this section is up to date and, in particular, shall ensure that, if an event occurs which gives rise to the need for the making of an entry in, a change to or a deletion from, the register, that entry, change or deletion is made within 28 days of the event in question.
+
+(8) F210[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F208: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 68, S.I. No. 393 of 2013.
+>
+> F209: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 69, S.I. No. 393 of 2013.
+>
+> F210: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 70, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E67: Previous affecting provision: subs. (5) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 41, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 76. Inspection of books.
+
+**76.**—(1) Notwithstanding anything in the rules of a credit union, except as provided by this Act or any other enactment, no-one (whether a member of the credit union or not) shall have the right to inspect the books of a credit union.
+
+(2) F211[...]
+
+(3) The rules of a credit union may make provision for the disclosure of its books and documents for the purpose of enabling it to enter into contracts for the benefit of the credit union.
+
+(4) Subject to *subsection (5)*, on the application of thirty members of a credit union, the F212[Bank] may appoint an accountant to inspect and report on the books and documents of the credit union.
+
+(5) An application under *subsection (4)* shall contain such particulars as the F212[Bank] may require and shall not be valid unless—
+
+(*a*) each of the members making the application has been a member throughout the whole of the twelve months immediately preceding the date of the application; and
+
+(*b*) the members making the application deposit with the F212[Bank] as security for the costs of the proposed inspection such sum as the F212[Bank] may reasonably require.
+
+(6) An accountant appointed under *subsection (4)* may make copies of, and take extracts from, any books or documents of the credit union at all reasonable hours at the credit union's registered office or at any other place where those books or documents are kepart
+
+(7) All expenses of and incidental to an inspection by an accountant appointed under *subsection (4)* shall be defrayed in such proportions as the F212[Bank] may direct—
+
+(*a*) by the members making the application;
+
+(*b*) out of the funds of the credit union; and
+
+F213[(*c*) by the members or officers (other than any person who is an officer solely by virtue of being a voluntary assistant) or former members or officers (other than any person who was an officer solely by virtue of being a former voluntary assistant) of the credit union.]
+
+(8) The F212[Bank] shall make known the results of an inspection by an accountant appointed under *subsection (4)* to the members who made the application and to the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F211: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 41(a), S.I. No. 57 of 2024.
+>
+> F212: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 42, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F213: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 71, S.I. No. 393 of 2013.
+>
+> F214: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 41(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C19: Prospective affecting provision: subs. (4) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 41(b), not commenced as of date of revision.
+>
+> F214[(4) Subject to subsection (5), on the application of—
+>
+> (*a*) in the case of a credit union other than a corporate credit union, 30 members of the credit union, and
+>
+> (*b*) in the case of a corporate credit union, one or more members of the credit union holding or together holding not less than 10 per cent of the shares in the credit union,
+>
+> the Bank may appoint an accountant to inspect and report on the books and documents of the credit union.]
+
+F215[*Additional requirements for credit unions*]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F215: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76A. Strategic plan.
+
+F216[**76A.**— (1) The board of directors of a credit union shall cause to be prepared and shall adopt a plan (in this Act referred to as a ‘strategic plan’) which documents the strategy and objectives of the credit union (in this Act referred to as the ‘strategic objectives’) and indicates how those strategic objectives are to be achieved.
+
+(2) A strategic plan shall include—
+
+(*a*) the objectives of the credit union’s activities for a specified period of at least 3 years,
+
+(*b*) the nature and scope of the activities to be undertaken,
+
+(*c*) the strategies and policies for achieving those objectives,
+
+(*d*) the targets and criteria for assessing the performance of the credit union,
+
+(*e*) the financial projections for the credit union for a specified period of at least 3 financial years from, and including, the current financial year together with the supporting financial analysis and assumptions made,
+
+(*f*) the funding strategy proposed to support the projected balance sheet structure, and
+
+(*g*) such other matters as may be prescribed by the Bank.
+
+(3) A credit union shall maintain adequate resources, both financial and non-financial, in relation to the nature, scale, complexity and risk profile of the activities being undertaken or to be undertaken in accordance with the strategic plan.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F216: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76B. Risk management systems and systems and control.
+
+F217[**76B.**— (1) In this section—
+
+"compliance programme", in relation to a credit union, means the policies, procedures, systems and plans the credit union puts in place to monitor compliance, on an ongoing basis, with its obligations including requirements under all legal and regulatory requirements;
+
+"risk management system", in relation to a credit union, means the sum of those components that provide the basis (including organisational arrangements) for designing, implementing, monitoring, reviewing and continually improving risk management processes throughout the credit union;
+
+"systems and controls", in relation to a credit union, means a set of arrangements designed to provide reasonable assurance regarding the achievement of objectives in relation to the effectiveness and efficiency of operations, reliability of financial reporting and compliance with all legal and regulatory requirements.
+
+(2) A credit union shall develop, implement, document and maintain a risk management system with such governance arrangements and systems and controls to allow it to identify, assess, measure, monitor, report and manage the risks which it is, or might reasonably be, exposed to.
+
+(3) The risk management system—
+
+(*a*) shall be clearly set out and documented, and
+
+(*b*) shall clearly set out the related tasks and responsibilities within the credit union.
+
+(4) A credit union shall develop, adopt, implement, monitor, document and maintain systems and controls to manage and mitigate the risks identified by the risk management system.
+
+(5) A credit union shall develop, implement, document and maintain a compliance programme that allows it to evaluate compliance with its obligations F218[...] including compliance with all legal and regulatory requirements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F217: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+>
+> F218: Deleted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 42, S.I. No. 57 of 2024.
+
+### 76C. Risk management officer.
+
+F219[**76C.**— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a "risk management officer") with the necessary authority and resources to manage the risk management function within the credit union.
+
+(2) Except where *subsection (3)(a)* applies or where otherwise prescribed by the Bank under *subsection (3)(b)*, nothing in this section shall be read as preventing the appointment of a person as risk management officer of a credit union who—
+
+(*a*) holds another position as an officer in the credit union, or
+
+(*b*) is the risk management officer for one or more than one other credit union.
+
+(3) The risk management officer of a credit union shall not—
+
+(*a*) be a director, a member of the board oversight committee or the auditor of the credit union, or
+
+(*b*) hold such other position (whether within the credit union or otherwise) that the Bank may prescribe as being inappropriate to hold while being a risk management officer.
+
+(4) The risk management officer of a credit union shall be responsible for identifying, assessing, reporting and monitoring all internal and external risks that could affect the credit union to which the risk management system referred to in section 76B relates, including risks to its employees, members, reputation and assets, and assisting the manager with managing and mitigating those risks.
+
+(5) The board of directors of a credit union shall ensure that the risk management officer—
+
+(*a*) has clearly documented reporting lines to the board,
+
+(*b*) has access to the board,
+
+(*c*) is independent in the exercise of his or her functions and, subject to *paragraph (d)*, shall be free from influence, and
+
+(*d*) is subject to internal oversight by the internal audit function.
+
+(6) The board of directors of a credit union shall ensure that the role and functions of the risk management officer are documented in writing and include any role or function that may be prescribed by the Bank or be otherwise duly provided for by the Bank under any other enactment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F219: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76D. Compliance officer.
+
+F220[**76D.**— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a "compliance officer") with the necessary authority and resources to manage the compliance programme, as provided for by *section 76B*, within the credit union.
+
+(2) Except where *subsection (3)(a)* applies or where otherwise prescribed by the Bank under subsection (3)(*b*), nothing in this section shall be read as preventing the appointment of a person as compliance officer of a credit union who—
+
+(*a*) holds another position as an officer in the credit union, or
+
+(*b*) is the compliance officer for one or more than one other credit union.
+
+(3) The compliance officer of a credit union shall not—
+
+(*a*) be a director, a member of the board oversight committee or the auditor of the credit union, or
+
+(*b*) hold such other position (whether within the credit union or otherwise) that the Bank may prescribe as being inappropriate to hold while being a compliance officer.
+
+(4) The compliance officer of a credit union shall be responsible for managing compliance at all levels in the credit union including—
+
+(*a*) ensuring that the credit union complies with all statutory and regulatory requirements, and
+
+(*b*) monitoring such compliance to ensure that no conflict of interest arises.
+
+(5) A credit union shall ensure that the compliance officer—
+
+(*a*) has clearly documented reporting lines to the board,
+
+(*b*) has access to the board,
+
+(*c*) is independent in the exercise of his or her functions and, subject to paragraph (*d*), shall be free from influence, and
+
+(*d*) is subject to internal oversight by the internal audit function.
+
+(6) The board of directors of a credit union shall ensure that the role and functions of the compliance officer are documented in writing and include any role or function that may be prescribed by the Bank or be otherwise duly provided for by the Bank under any other enactment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F220: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76E. Operational risk.
+
+F221[**76E.**— (1) In this Act "operational risk", in relation to a credit union, means the risk of loss (financial or otherwise) resulting from—
+
+(*a*) inadequate or failed internal processes or systems of the credit union,
+
+(*b*) any failure by persons connected with the credit union,
+
+(*c*) legal risk (including exposure to fines, penalties or damages as well as associated legal costs), or
+
+(*d*) external events,
+
+but does not include reputational risk.
+
+(2) A credit union shall identify the operational risks it is exposed to, or is likely to be exposed to, and provide for the management and mitigation of those risks in the credit union’s risk management system as provided for by *section 76B*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76F. Records management.
+
+F222[**76F.**— (1) Without prejudice to *sections 108* and *109*, a credit union shall ensure—
+
+(*a*) that it makes, maintains and retains in books and documents proper and secure records of all matters that are required to enable the credit union, including the board of directors, board committees, nomination committee and officers and its board oversight committee and auditor to discharge their respective functions and as required by law,
+
+(*b*) that those records are made in a timely, accurate and consistent manner so that—
+
+(i) they contain the information necessary to enable persons discharging functions to which *paragraph (a)* relates to discharge their respective functions and that those records are sufficiently accurate and available with sufficient regularity and sufficient promptness for the purpose of so discharging, and
+
+(ii) any information furnished or caused to be furnished by or on behalf of the credit union to the Bank is sufficiently accurate for the purposes for which it was so furnished and is available as and when required by the Bank,
+
+and
+
+(*c*) that those records are produced when duly called upon—
+
+(i) by or under this Act, or
+
+(ii) for the purposes of any other statutory obligation to produce them.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F222: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+>
+> F223: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 43, not commenced as of date of revision
+>
+> **Modifications (not altering text):**
+>
+> C20: Prospective affecting provision: subs. (1)(a) amended by *Credit Union (Amendment) Act 2023* (34/2023), s. 43, not commenced as of date of revision.
+>
+> (*a*) that it makes, maintains and retains in books and documents proper and secure records of all matters that are required to enable the credit union, including the board of directors, board committees, nomination committee and officers F223[, its auditor and, in the case of a credit union other than a corporate credit union, its board oversight committee,] to discharge their respective functions and as required by law,
+
+### 76G. Information systems.
+
+F224[**76G.**— (1) In this section "information systems", in relation to the business of a credit union, means all the technical and non-technical methods of establishing, implementing, documenting and maintaining data and information within the credit union in a coherent and informative way which is in, or capable of being reproduced in, a legible form.
+
+(2) For the purpose of supporting the strategic plan and enabling the board of directors of a credit union and other persons involved in the management of the credit union to control, direct and manage its affairs, a credit union shall, taking account of the nature, scale and complexity and risk profile of its business but without prejudice to any other statutory obligation to the like effect as this section—
+
+(*a*) develop, prepare, implement and maintain secure and reliable information systems, or
+
+(*b*) where such systems already exist within the credit union, continue to implement and maintain such systems.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F224: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76H. Management information.
+
+F225[**76H.**— Without prejudice to any other statutory obligation to the like effect as this section, a credit union shall ensure that its information systems (within the meaning of *section 76G*) produce management information and other reports that are accurate, reliable, consistent, and timely so as to enable the board of directors and management team to—
+
+(*a*) direct, control and manage the credit union’s business efficiently and effectively,
+
+(*b*) make informed strategic and operational decisions, and
+
+(*c*) provide accurate information to the Bank on a timely basis, as and when required.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F225: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76I. Business continuity plan.
+
+F226[**76I.**— (1) In this section—
+
+"business continuity", in relation to the occurrence of one or more abnormal events which could cause a material interruption to the business of a credit union, means the continuation of its business during and after such an occurrence;
+
+"business continuity plan", in relation to a credit union, means the contingency arrangements put in place to ensure that its essential functions can continue during and after the occurrence of one or more abnormal events which could cause a material interruption to the business of the credit union.
+
+(2) A credit union shall put in place a business continuity plan—
+
+(*a*) to ensure its business continuity if there occurs one or more abnormal events which could cause a material interruption to its business, and
+
+(*b*) to enable it to continue to meet all requirements imposed on it under the *Credit Union Acts 1997 to 2012* and other financial services legislation if any such interruption occurs,
+
+and such plan shall include, where appropriate, comprehensive testing at regular intervals of recovery procedures by officers of the credit union and testing of backup facilities.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F226: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+
+### 76J. Outsourcing.
+
+F227[**76J.**— (1) Subject to the other provisions of this section, a credit union may by an agreement in writing entered into with any person (in this section referred to as a "service provider") and upon such terms and conditions as may be specified in the agreement, provide for the performance by that person, subject to such terms and conditions (if any) as may be so specified, of such process, service or activity (in this section referred to as "outsourced activities") of the credit union as may be so specified.
+
+(2) The respective rights and obligations of the credit union and of the service provider shall be clearly allocated and set out in a written agreement.
+
+(3) A credit union shall exercise due skill, care and diligence when entering into, managing or terminating any outsourced activities with a service provider.
+
+(4) A credit union shall not enter into an agreement with a service provider for the performance of any of the functions exercisable by the board of directors of the credit union under *section 55(1)* but, subject to any matter that may be prescribed by the Bank, this shall not prevent the credit union from entering into an agreement under *subsection (1)* with a service provider for the provision of services in respect of any business activity (other than any such function) that is preliminary to or consequential upon the exercise by that board of the function concerned.
+
+(5) The following conditions shall form part of every agreement to provide outsourced activities between a credit union and a service provider:
+
+(*a*) the service provider has the ability, capacity and any authorisation required by law to perform those activities reliably and professionally;
+
+(*b*) the service provider will carry out those activities effectively;
+
+(*c*) the service provider shall properly supervise the carrying out of those activities, and adequately manage the risks associated with the outsourcing;
+
+(*d*) appropriate action shall be taken by the credit union if it appears to it or to the Bank that the service provider may not be carrying out those activities effectively and in compliance with any applicable laws and regulatory requirements;
+
+(*e*) the service provider shall disclose to the credit union any development that may have a material impact on its ability to carry out the outsourced activities effectively and in compliance with applicable laws and regulatory requirements;
+
+(*f*) the credit union may terminate the arrangement for outsourcing, where necessary, without detriment to the continuity and quality of its provision of services to members;
+
+(*g*) the service provider shall, when required, co-operate with the Bank in connection with the outsourced activities;
+
+(*h*) the credit union, its auditors and the Bank shall have effective access to data related to the outsourced activities, as well as to the business premises of the service provider;
+
+(*i*) the Bank shall have without notice the right of access to the business premises of the service provider for the purposes of *paragraph (g)*;
+
+(*j*) the service provider shall keep any confidential information relating to the credit union or its members in a safe and secure manner.
+
+(6) For the purposes of every agreement to provide outsourced activities between a credit union and a service provider, the credit union shall—
+
+(*a*) ensure that the service provider has no conflicts of interest in relation to the outsourced activity,
+
+(*b*) retain the necessary expertise to supervise the outsourced activities effectively, manage the risks associated with the outsourcing and supervise those activities and manage those risks,
+
+(*c*) establish methods for assessing the standard of performance of the service provider, and
+
+(*d*) be capable of resuming direct control over any outsourced activity or ensure that alternative arrangements are in place to provide the outsourced activities without detriment to the proper operation and functioning of the credit union or the continuity and quality of its provision of services to members.
+
+(7) Where—
+
+(*a*) an agreement under this section has been entered into between a credit union and a service provider, and
+
+(*b*) it is necessary having regard to the activities that have been outsourced,
+
+then the credit union and the service provider shall both establish, implement and maintain a business continuity plan and the credit union shall ensure that such plan is integrated, as necessary, within the business continuity plan referred to in *section 76I*.
+
+(8) An outsourced activity shall not impair—
+
+(*a*) the orderliness of the conduct of the credit union’s business,
+
+(*b*) the credit union’s ability to manage and monitor its business,
+
+(*c*) the ability of the board of a credit union to undertake its functions,
+
+(*d*) the ability of the credit union to comply with requirements imposed under financial services legislation,
+
+(*e*) the supervision of the credit union by the Bank, and
+
+(*f*) the quality of the credit union’s internal controls.
+
+(9) Where a credit union has outsourced activities, the credit union remains legally responsible for compliance with requirements imposed under financial services legislation in respect of those activities.
+
+(10) Nothing in this section shall be construed—
+
+(*a*) as applying to any person in his or her capacity as an officer of the credit union, or
+
+(*b*) as affecting any contract (whether oral or in writing) entered into between the credit union and any person for the performance by that person of any minor non-business activity where a defect or failure in its performance could not impair—
+
+(i) the continuing compliance with the conditions and obligations of the credit union’s registration or its other obligations under the financial services legislation,
+
+(ii) the credit union’s financial performance,
+
+(iii) the soundness or continuity of the credit union’s financial performance, or
+
+(iv) the soundness or continuity of the credit union’s business.
+
+(11) (*a*) A credit union shall notify the Bank, in writing—
+
+(i) when it is proposed to outsource to a service provider a material business activity, or
+
+(ii) of any material development affecting the service provider F228[and the service provider’s ability] to fulfil its obligations.
+
+(*b*) In this subsection and *subsection (12)* "material business activity" means an activity where a defect or failure inits performance would materially impair—
+
+(i) the continuing compliance with the conditions and obligations of its registration or its other obligations under the financial services legislation,
+
+(ii) its financial performance,
+
+(iii) the soundness or continuity of its financial performance, or
+
+(iv) the soundness or continuity of its business.
+
+(12) (*a*) The Bank may prescribe the matters that a credit union shall have regard to when selecting a service provider.
+
+(*b*) Without prejudice to the generality of *paragraph (a)*, requirements for the purposes of that paragraph may include any of the following:
+
+(i) the formalities to be involved in engaging a service provider for the purposes of a proposed outsourced activity including, for the purposes of *subsections (1)* and *(2)*, the nature and content of written agreements to be entered into between the credit union and the service provider prior to commencement of the outsourcing activity;
+
+(ii) the arrangements for notifying the Bank in writing when a material business activity is proposed to be outsourced;
+
+(iii) the arrangements for notifying the Bank in writing of a material development affecting a service provider and what constitutes a material development.
+
+(13) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F227: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+>
+> F228: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 44, S.I. No. 57 of 2024.
+
+### 76K. Internal audit.
+
+F229[**76K.**— (1) The board of a credit union shall appoint a person (in this Act referred to as the "internal audit function")—
+
+(*a*) to provide for independent internal oversight, and
+
+(*b*) to evaluate and improve the effectiveness,
+
+of the credit union’s risk management, internal controls and governance processes.
+
+(2) The internal audit function shall prepare, implement and maintain a document (in this Act referred to as the "internal audit charter") F230[which shall define]—
+
+(*a*) the activities of the internal audit function within the credit union, and
+
+(*b*) the scope of those activities,
+
+and, relevant to the performance of its audits, shall authorise the access by the internal audit function to records, personnel and physical properties of the credit union. The internal audit charter shall be reviewed and modified in accordance with *section 55(8)*.
+
+(3) There shall be prepared by the internal audit function and approved by the board of a credit union or, where an audit committee exists for the credit union, by the audit committee with the agreement of that board, a written plan (in this Act referred to as an "internal audit plan") detailing the scope and objectives of audits, setting priorities as regards areas to be audited and determine the necessary resources required to implement the plan. The internal audit plan shall be reviewed and modified in accordance with *section 55(8)*.
+
+(4) The internal audit function shall be separate from other functions and activities of the credit union, and be capable of operating independently of management and without undue influence over its activities.
+
+(5) The internal audit function shall report the results of its evaluations and recommendations to the audit committee, where one exists, or otherwise to the board of directors, on a regular basis, and at least quarterly.
+
+(6) (*a*) The Bank may prescribe the form and content of the internal audit charter and internal audit plan, and related matters.
+
+(*b*) Without prejudice to the generality of *paragraph (a)*, regulations may prescribe—
+
+(i) the frequency and timing at which an examination of the records of the credit union is to be undertaken by the internal audit function, and
+
+(ii) the nature of the records to be inspected for the purposes of *subparagraph (i)*.
+
+(7) The internal audit function shall have access, at all times, to the books and documents (including draft documents) of the credit union to enable it to carry out its functions under the Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F229: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 26, S.I. No. 393 of 2013.
+>
+> F230: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 45, S.I. No. 57 of 2024.
+
+## PART IVA Board Oversight Committee — F231[PART IVA — Board Oversight Committee] — Annotations Amendments: Inserted (11.10.2013) by Credit Union and Co-operation with Overseas Regulators Act 2012 (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+### 76L. Board oversight committee.
+
+F232[**76L.**— Every credit union shall have a committee (in this Act referred to as a "board oversight committee") which shall—
+
+(*a*) consist of 3 or 5 members elected in accordance with *section 76N*, and
+
+(*b*) exercise the functions assigned to it by this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F232: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+### 76M. Functions of board oversight committee.
+
+F233[**76M.**— A board oversight committee of a credit union shall assess whether the board of directors has operated in accordance with—
+
+(*a*) *Part IV*, this Part and any regulations made for the purposes of *Part IV* or this Part, and
+
+(*b*) any other matter prescribed by the Bank in respect of which they are to have regard to in relation to the board of directors.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F233: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+### 76N. Election of board oversight committee, etc.
+
+F234[**76N.**— (1) The board oversight committee of a credit union shall be elected—
+
+(*a*) where the organisation meeting occurs after the commencement of this provision, F235[from among the members, by secret ballot at the organisation meeting] and, subject to *section 76R(4)*, subsequent vacancies on the board oversight committee shall be F235[filled, from among the members, by secret ballot at an annual general meeting],
+
+(*b*) F235[in any other case, from among the members,] by secret ballot at the annual general meeting first occurring after the commencement of this provision or, if earlier than that annual general meeting, at a special general meeting called for the purpose of such ballot and, subject to *section 76R(4)*, subsequent vacancies on the board oversight committee shall be F235[filled, from among the members, by secret ballot at an annual general meeting].
+
+(2) If a casual vacancy arises in the membership of a board oversight committee, then—
+
+(*a*) within one month of the vacancy arising, the Committee shall appoint a person (who may, if the Committee thinks fit, be a former member of the Committee) other than a person to whom *subsection (4)*, *(5)* or *(6)* relates to fill the vacancy, and
+
+(*b*) the person so appointed shall hold office until the next general meeting at which an election is held for members of the board oversight committee.
+
+(3) Where the secretary of the board oversight committee becomes aware that all the members of the committee intend to resign on the same date, the secretary shall give written notice of their intention to the Bank and the board of directors of the credit union.
+
+(4) A credit union shall not elect under *subsection (1)* any of the following persons to be a member of its board oversight committee:
+
+(*a*) an employee or voluntary assistant of the credit union or an employee of any other credit union;
+
+(*b*) a member of the board oversight committee of any other credit union;
+
+(*c*) an employee of a representative body of which the credit union is a member, where that employee’s role could expose them to a potential conflict of interest;
+
+(*d*) a public servant (within the meaning of the Financial Emergency Measures in the Public Interest Act 2009) assigned to the Department of Finance and involved in advising the Minister on credit union issues or in the examination of credit union issues;
+
+(*e*) a member of the Commission of the Bank;
+
+(*f*) an officer (within the meaning of section 2 of the Central Bank Act 1942) or other employee of the Bank and involved in the regulation of credit unions;
+
+(*g*) Financial Services Ombudsman (within the meaning of section 2 of the Central Bank Act 1942) or a Bureau staff member (within the meaning of section 57BA of that Act);
+
+(*h*) a member of the Irish Financial Services Appeals Tribunal or a member of its staff (including the Registrar);
+
+(*i*) the chief executive of the National Consumer Agency, an authorised officer of that Agency (within the meaning of section 2 of the Consumer Protection Act 2007) or any other member of its staff;
+
+(*j*) the auditor of the credit union or a person employed or engaged by that auditor;
+
+(*k*) a solicitor or other professional adviser who has been engaged by or on behalf of the credit union within the previous 3 years;
+
+(*l*) a person who is a spouse or civil partner, cohabitant, F235[parent, sibling or child], of a director, board oversight committee member or employee of that credit union;
+
+(*m*) a body corporate;
+
+(*n*) a person who is not of full age;
+
+(*o*) a director of the credit union.
+
+(5) A person shall resign from being a member of the board oversight committee of a credit union if and when he or she becomes a person to whom any of the provisions of subsection (4) relates.
+
+(6) A board oversight committee member may not be appointed or reappointed to the board oversight committee if he or she has served for more than 12 years in the previous 15 years whether on the board of directors or the board oversight committee.
+
+(7) The board oversight committee shall appoint one of their number as secretary of the committee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F234: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+>
+> F235: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 46(a)(i), (ii), (b), S.I. No. 57 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C21: Reference to “Financial Services Ombudsman” in subs. (4)(g) construed (1.01.2018) by *Financial Services and Pensions Ombudsman Act 2017* (22/2017), s. 29(3), S.I. No. 524 of 2017.
+>
+> **References in enactments**
+>
+> **29.** ...
+>
+> (3) References to the Financial Services Ombudsman, the Deputy Financial Services Ombudsman or the Pensions Ombudsman in any enactment (other than this Act) or any instrument made under such an enactment shall, on and after the establishment day, be construed as references to the Ombudsman.
+>
+> C22: References to “National Consumer Agency” and “chief executive of the National Consumer Agency” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39(2), S.I. No. 367 of 2014.
+>
+> **Transfer of functions to Commission**
+>
+> **39.** ...
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or ...
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> (4) This section shall come into operation on the establishment day.
+
+### 76O. Board oversight committee: procedural provisions.
+
+F236[**76O.**— (1) The board oversight committee of a credit union shall hold—
+
+(*a*) at least one meeting F237[in every 2 months], and
+
+(*b*) meetings with the board of directors at least 4 times in every year to facilitate it in carrying out the assessment under *subsection (2)*,
+
+and the board oversight committee shall keep minutes of every meeting held by it under *paragraphs (a)* and *(b)*.
+
+(2) The board oversight committee shall submit, within 2 weeks of any meeting referred to in F237[*subsection (1)(b)*], a written report to the board of directors on their assessment of whether the board of directors has operated in accordance with *Part IV* and this Part and any regulations relating to *Part IV* or this Part.
+
+(3) The board oversight committee shall have access, at all times, to the books and documents (including draft documents) of the credit union to enable it to carry out its functions under the Act.
+
+F237[(4) Members of the board oversight committee shall have the right to attend all meetings of—
+
+(*a*) the board of directors, and
+
+(*b*) a committee acting on behalf of the board of directors under *section 56A(1)*.]
+
+(5) The board oversight committee shall ensure at least one of its members attends every meeting of the board of directors.
+
+(6) The board oversight committee may notify the Bank of any concern it has, that the board of directors has not complied with any of the requirements set out in this Part or *Part IV*, or regulations made thereunder, following a unanimous vote at a meeting of the committee called for the purpose of considering such a notification.]
+
+F238[(7) The board oversight committee shall report to the members at the annual general meeting and, if it thinks fit, at a special general meeting, on whether the board of directors has operated in accordance with *Part IV* and this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F236: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+>
+> F237: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 47(a)-(c), S.I. No. 57 of 2024.
+>
+> F238: Inserted (3.03.2014) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 99 of 2014.
+
+### 76P. Board oversight committee: term of office and retirement.
+
+F239[**76P.**— (1) The term of office of a member of the board oversight committee—
+
+(*a*) shall begin at the conclusion of the general meeting at which the member is elected,
+
+(*b*) shall not extend beyond the third subsequent annual general meeting after being so elected, and
+
+(*c*) subject to the provisions of this Act and all other applicable legal requirements, shall be determined in accordance with the registered rules,
+
+but, except where this Act or any other applicable legal requirement or the registered rules otherwise provides, a retiring member of the committee shall be eligible for re-election.
+
+(2) The rules for retirement from the board oversight committee shall be as follows:
+
+(*a*) where the committee consists of 3 members, one shall retire at each annual general meeting;
+
+(*b*) where the committee consists of 5 members, 2 shall retire at each annual general meeting;
+
+(*c*) subject to *paragraph (d)*, the members to retire at any time shall be those who have served longest since they were last elected;
+
+(*d*) as between members who were last elected on the same day, the member (or members) to retire shall be determined by agreement or, in default of agreement, by the drawing of lots.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F239: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+### 76Q. Board oversight committee: removal from office.
+
+F240[**76Q.**— (1) Subject to *subsection (2)*, a credit union may, by resolution of a majority of the members present and voting at a special general meeting called for that purpose, remove a member of the board oversight committee from office.
+
+(2) The secretary of the credit union shall, not less than 21 days before the date of the special general meeting at which it is proposed to move a resolution referred to in *subsection (1)*, give written notice of that meeting to the member concerned.
+
+(3) Where notice is given of a resolution mentioned in *subsection (1)* and the member of the board oversight committee concerned makes in relation to it representations in writing to the credit union (not exceeding a reasonable length) and requests their notification to the members of the credit union, the credit union shall, subject to *subsection (5)*, (unless the representations are received by it too late to do so)—
+
+(*a*) in any notice of the proposed resolution given to members of the credit union, state the fact of the representations having been made, and
+
+(*b*) send a copy of the representations to every member of the credit union to whom notice of the meeting is sent.
+
+(4) Subject to *subsection (5)*, and whether or not copies of any representations made under *subsection (3)* have been sent in accordance with that subsection, the member of the board oversight committee concerned may require that, without prejudice to that member’s right to be heard orally, the representations made by that member shall be read out at the special general meeting.
+
+(5) *Subsections (3)* and *(4)* shall not apply if, on the application either of the credit union or of any person who claims to be aggrieved, the Bank is satisfied that compliance with the subsections would diminish substantially public confidence in the credit union or that the rights conferred by those subsections are being, or are likely to be, abused in order to secure needless publicity for defamatory matter.
+
+(6) A vacancy arising from the removal of a member of a board oversight committee under this section shall be filled in accordance with *section 76N(2)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F240: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+### 76R. Board oversight committee: supplementary provision.
+
+F241[**76R.**— (1) A register of the members of the board oversight committee shall be kept by the secretary of the credit union and shall be signed by each member of the board oversight committee after an annual general meeting or, in the case of a member appointed to fill a casual vacancy, after such member’s appointment.
+
+(2) In the event that the number of members of the board oversight committee falls to less than half the number specified in the registered rules, the secretary of the committee shall forthwith notify the Bank and the board of directors.
+
+(3) The acts of a member of the board oversight committee of a credit union shall be valid notwithstanding any defect in the election or appointment of the member which may subsequently be discovered.
+
+(4) Where any of the following events occur—
+
+(*a*) the secretary of the board oversight committee has given notice under *section 76N(3)* that all the members of the committee intend to resign on the same date,
+
+(*b*) all the members of the board oversight committee have been removed or suspended in accordance with *section 96(1)*, or
+
+(*c*) there are no members of the board oversight committee,
+
+then the board of directors shall convene a special general meeting of the credit union, within one month of the occurrence of the event in question, to elect a board oversight committee.
+
+(5) If the special general meeting referred to in *subsection (4)* is not convened in accordance with that subsection, the Bank may convene such a special general meeting under *section 92(1)(b)*.
+
+(6) A credit union shall meet all such expenses as may be reasonably incurred by its board oversight committee in carrying out its function.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F241: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 27(1), S.I. No. 393 of 2013.
+
+## PART VMeetings, Resolutions etc. — PART V — Meetings, Resolutions etc.
+
+### 77. The organisation meeting.
+
+**77.**—(1) Not later than one month after the registration of a credit union, the signatories to the application to register the credit union shall by notice in writing summon a meeting (to be known as “the organisation meeting”) of all the persons who, on the date of issue of the notice, were members of the credit union.
+
+(2) The notice required by *subsection (1)*—
+
+(*a*) shall state the date, time and place of the organisation meeting; and
+
+F242[(*b*) shall, within the relevant period, be delivered to each member of the credit union.]
+
+(3) The reference in *paragraph (b)* of *subsection (2)* to the relevant period is a reference to the period which begins 21 days before and ends seven days before the date of the organisation meeting; and the reference in *subsection (1)* to the date of issue of the notice is a reference to the date or, as the case may be, the first date on which the notice is delivered to any member as mentioned in that paragraph.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F242: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 48, S.I. No. 57 of 2024.
+
+### 78. The annual general meeting.
+
+**78.**—(1) In respect of each financial year, a meeting (to be known as the “annual general meeting”) of the members of a credit union shall be held F243[at a time, at a place in the State (where applicable) and in the manner (where applicable)] provided for under the rules.
+
+(2) Subject to *subsections (3)* and *(4)* F244[and *section 78A(2)*], the annual general meeting of a credit union in respect of any financial year shall be held in the October, November, December or January following the end of that financial year.
+
+(3) If a credit union fails to hold an annual general meeting in respect of any financial year as required by *subsections (1)* and *(2)* F245[or as provided for by *section 78A(2)*, as the case may be,] F246[the Bank may call or require the calling by the credit union of such a meeting] on such date or within such period as F247[it] may specify and give such ancillary or consequential directions as he thinks expedient, including directions modifying or supplementing the operation of the rules of the credit union in relation to the calling, holding and conduct of the meeting.
+
+(4) Where, in the opinion of the F247[Bank], it is necessary to do so—
+
+(*a*) in the interests of the members or creditors of a credit union, or
+
+(*b*) in the interests of the orderly and proper regulation of the business of a credit union,
+
+the F247[Bank] may direct the credit union to postpone, for a period not exceeding nine months, the holding of the annual general meeting of the credit union in respect of the financial year specified in the direction.
+
+(5) At each annual general meeting of a credit union, the directors shall lay before the credit union the annual accounts for the financial year in respect of which the meeting is held; and a copy of those accounts shall be delivered, F248[together with the notice of the meeting, to every person entitled under *section 80(1)* to receive a notice of the meeting].
+
+(6) If, with respect to any annual general meeting, the directors of a credit union fail to comply with *subsection (5)*, every person who was a director at the date of the meeting shall be guilty of an offence.
+
+(7) *Section 3 (3)* shall not apply to directions under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F243: Substituted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 5(a), commenced on enactment.
+>
+> F244, F245: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 5(b), (c), commenced on enactment.
+>
+> F246: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 72, S.I. No. 393 of 2013.
+>
+> F247: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 43, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F248: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 49, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E68: Previous affecting provision: subs. (3) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 43, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; further amended as per F-note above.
+
+### 78A. General meetings during interim period.
+
+F249[**78A.** (1) This section (including any regulations made under *section 182(1)(la)*) shall apply to the general meetings of a credit union during the interim period only and shall so apply notwithstanding any other provision of this Act or of the rules of the credit union.
+
+(2) The annual general meeting of a credit union for the financial year ended September 2020 may be held at any time during the interim period.
+
+(3) A credit union need not hold a general meeting at a physical venue but may conduct the meeting wholly or partly by the use of electronic communications technology as long as all attendees have a reasonable opportunity to participate in the meeting in accordance with this section.
+
+(4) (*a*) A credit union may provide for participation in a general meeting by providing or facilitating, for that purpose, the use of electronic communications technology, including a mechanism for casting votes by a member, whether before or during the meeting.
+
+(*b*) The mechanism referred to in paragraph (a) shall not require the member to be physically present at the general meeting or require the member to appoint a proxy who is to be physically present at the meeting.
+
+(5) The use of electronic communications technology pursuant to *subsection (4)* may be made subject only to such requirements or restrictions put in place by the credit union as are necessary to ensure the identification of attendees and the security of the electronic communications technology, to the extent that such requirements or restrictions are proportionate to the achievement of those objectives.
+
+(6) A credit union shall inform attendees, before the general meeting concerned, of any requirements or restrictions which it has put in place pursuant to *subsection (5)*.
+
+(7) A credit union that provides for the use of electronic communications technology for participation in a general meeting by an attendee shall endeavour to ensure, as far as practicable, that—
+
+(*a*) such technology—
+
+(i) provides for the security of any electronic communications by the attendee,
+
+(ii) minimises the risk of data corruption and unauthorised access, and
+
+(iii) provides certainty as to the source of the electronic communications,
+
+(*b*) in the case of any failure or disruption of such technology, that failure or disruption is remedied as soon as practicable, and
+
+(*c*) such technology enables the attendee to—
+
+(i) hear what is said by the chair of the meeting and any person introduced by the chair, and
+
+(ii) speak and submit questions and comments during the meeting to the chair to the extent that the attendee is entitled to do so under the rules of the credit union.
+
+(8) Any temporary failure or disruption of electronic communications technology shall not invalidate the general meeting or any proceedings relating to the meeting.
+
+(9) Unless such failure or disruption is attributable to any wilful act of the credit union, a credit union shall not be liable in respect of any failure or disruption relating to the equipment used by an attendee to access a general meeting by electronic communications technology that occurs and which failure or disruption prevents or interferes with the attendee’s participation, by the use of such technology, in the meeting.
+
+(10) Where, in the opinion of the board of directors, it is deemed necessary—
+
+(*a*) in order to comply with the public health guidance of the Government or regulations made under sections 5 and 31A of the Health Act 1947 in respect of the movement or gathering of persons for the purposes of preventing, limiting, minimising or slowing the spread of Covid-19, the board of directors may, by resolution, at any time up to the end of the day prior to the day on which a general meeting is to be held and in accordance with *section 80A*—
+
+(i) cancel the meeting,
+
+(ii) change the venue of the meeting, or
+
+(iii) change the means of holding the meeting (including providing for facilitating attendees to participate in such meeting by the use of electronic communications technology),
+
+or
+
+(*b*) due to exceptional and unexpected circumstances, the board of directors may, by resolution, cancel a general meeting at any time prior to the holding of the meeting.
+
+(11) In this section and *sections 78B*, *80*, *80A* and *82*—
+
+"attendee", in relation to a general meeting of a credit union, means—
+
+(*a*) a member of the credit union,
+
+(*b*) a proxy of a member of the credit union appointed under *section 82A*,
+
+(*c*) a representative authorised by a member of the credit union in accordance with *section 82(4)*,
+
+(*d*) the auditor of the credit union,
+
+(*e*) the Bank by virtue of *section 82(1)*, or *(f)* any other person entitled to attend the meeting by virtue of the provisions of this Act or the rules of the credit union;
+
+"electronic communications technology", in relation to a general meeting of a credit union, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
+
+"electronic platform", in relation to a general meeting of a credit union, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
+
+"general meeting", in relation to a credit union, includes a meeting that has been rescheduled.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F249: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 6, commenced on enactment.
+
+### 78B. General meetings (other than during interim period).
+
+F250[**78B.** (1) This section shall not apply to the holding of general meetings during the interim period to which *section 78A* applies.
+
+(2) A credit union need not hold a general meeting at a physical venue but may conduct the meeting wholly or partly by the use of electronic communications technology as long as all attendees have a reasonable opportunity to participate in the meeting in accordance with this section.
+
+(3) (*a*) A credit union may provide for participation in a general meeting by providing or facilitating, for that purpose, the use of electronic communications technology, including a mechanism for casting votes by a member, whether before or during the meeting.
+
+(*b*) The mechanism referred to in *paragraph (a)* shall not require the member to be physically present at the general meeting or require the member to appoint a proxy who is to be physically present at the meeting.
+
+(4) The use of electronic communications technology pursuant to *subsection (3)* may be made subject only to such requirements or restrictions put in place by the credit union as are necessary to ensure the identification of attendees and the security of the electronic communications technology, to the extent that such requirements or restrictions are proportionate to the achievement of those objectives.
+
+(5) A credit union shall inform attendees, before the general meeting concerned, of any requirements or restrictions which it has put in place pursuant to *subsection (4)*.
+
+(6) A credit union that provides for the use of electronic communications technology for participation in a general meeting by an attendee shall endeavour to ensure, as far as practicable, that—
+
+(*a*) such technology—
+
+(i) provides for the security of any electronic communications by the attendee,
+
+(ii) minimises the risk of data corruption and unauthorised access, and
+
+(iii) provides certainty as to the source of the electronic communications,
+
+(*b*) in the case of any failure or disruption of such technology, that failure or disruption is remedied as soon as practicable, and
+
+(*c*) such technology enables the attendee to—
+
+(i) hear what is said by the chair of the meeting and any person introduced by the chair, and
+
+(ii) speak and submit questions and comments during the meeting to the chair to the extent that the attendee is entitled to do so under the rules of the credit union.
+
+(7) Any temporary failure or disruption of electronic communications technology shall not invalidate the general meeting or any proceedings relating to the meeting.
+
+(8) Unless such failure or disruption is attributable to any wilful act of the credit union, a credit union shall not be liable in respect of any failure or disruption relating to the equipment used by an attendee to access a general meeting by electronic communications technology that occurs and which failure or disruption prevents or interferes with the attendee’s participation, by the use of such technology, in the meeting.
+
+(9) Where, in the opinion of the board of directors, it is deemed necessary, due to exceptional and unexpected circumstances, the board of directors may, by resolution, cancel a general meeting at any time prior to the holding of the meeting.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F250: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 6, commenced on enactment.
+
+### 79. Special general meetings.
+
+F251[**79.**— (1) The board of directors or the board oversight committee of a credit union may, whenever they think fit, convene a special general meeting of the credit union.]
+
+(2) F252[...]
+
+(3) If, by notice in writing addressed to the secretary of a credit union at its registered office, a qualifying group of members of the credit union so request, the board of directors shall convene a special general meeting of the credit union; and if, within one month from the date of the receipt of the notice at the credit union’s registered office, the board of directors have not convened a special general meeting to be held within six weeks of that date, any ten members of the credit union, acting on behalf of the qualifying group who made the request, may convene a special general meeting.
+
+(4) For the purposes of a request under *subsection (3)*, a group of members of a credit union is a qualifying group if—
+
+(*a*) each of them has been a member throughout the period of 12 months ending on the date of the request; and
+
+(*b*) they together number at least 50 or, if it is less, at least 10 per cent. of the membership of the credit union at that date.
+
+(5) Where, in the opinion of the F253[Bank], it is necessary to do so—
+
+(*a*) in the interests of the members or creditors of a credit union, or
+
+(*b*) in the interests of the orderly and proper regulation of the business of a credit union,
+
+the F253[Bank] may direct that no special general meeting of the credit union shall be held for a period not exceeding nine months from the date of the direction.
+
+(6) *Section 3 (3)* shall not apply to directions under *subsection (5)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F251: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 73, S.I. No. 393 of 2013.
+>
+> F252: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 74, S.I. No. 393 of 2013.
+>
+> F253: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 44, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 80. Notice of general meetings.
+
+**80.**—(1) Before a general meeting of a credit union is held, the secretary of the credit union shall, in accordance with *subsection (2)*, give notice of the meeting to the F254[Bank], to the auditor of the credit union and to every member of the credit union who, at the beginning of the relevant period, is eligible to vote at the meeting.
+
+(2) Subject to *subsection (4)*, the notice required by *subsection (1)*—
+
+F255[(*a*) shall state the date, time, place (where applicable) and manner of holding (where applicable) of the general meeting;]
+
+(*b*) shall be accompanied by the agenda for the meeting;
+
+(*c*) in the case of a notice of a special general meeting, shall contain a statement that the annual accounts for the most recent financial year may be obtained, not later than seven days before the date of the general meeting, at the registered office of the credit unionF256[;]
+
+F258[(*d*) shall, within the relevant period, be delivered—
+
+(i) personally, by post or by electronic means, to the auditor to such address as has been notified in writing to the credit union by the auditor for the purpose of receiving the notice, and
+
+(i) to each member of the credit union,
+
+and]
+
+F259[(*e*) shall, in the case of a general meeting proposed to be held wholly or partly by the use of electronic communications technology, state—
+
+(i) the electronic platform to be used for the meeting,
+
+(ii) details for access to the electronic platform,
+
+(iii) where required by a credit union, the time and manner by which an attendee must F258[confirm the attendee’s intention] to attend the meeting,
+
+(iv) any requirements or restrictions which the credit union has put in place in order to identify attendees who intend to attend the meeting,
+
+(v) the procedure for attendees to communicate questions and comments during the meeting, and
+
+(vi) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting.]
+
+(3) References in *subsections (1)* and *(2)* to the relevant period are references to the period which begins 21 days before and ends seven days before the date of the general meeting; and any provision in the rules of a credit union shall be void in so far as it provides for the calling of a general meeting of the credit union (other than an adjourned meeting) by less than seven or more than 21 days' notice.
+
+(4) With the consent of the F254[Bank], given where the F254[Bank] considers there are exceptional circumstances justifying the application of this subsection, the notice required by *subsection (1)* shall be given by publishing a notice, in accordance with *subsection (5)*, at such times (or within such period) and in such form F260[and containing such information] as the F254[Bank] may require.
+
+(5) Where *subsection (4)* applies, the notice, which shall include the agenda for the meeting, shall be published—
+
+(*a*) in at least two appropriate newspapers published in the State and circulating in the area in which the registered office of the credit union is situated, and
+
+(*b*) in any other manner which the F254[Bank] requires as being necessary for bringing the notice to the attention of the persons entitled to attend the meeting,
+
+and, for the purposes of *paragraph (a)*, the two appropriate newspapers are a local newspaper and a national daily newspaper or, if there is no local newspaper circulating in the area concerned, two national daily newspapers.
+
+(6) The proceedings at a general meeting shall not be invalidated by—
+
+(*a*) the accidental omission to give notice to any member entitled to receive notice of the meeting; or
+
+(*b*) the non-receipt by any member of notice of the meeting.
+
+(7) A general meeting of which notice is given less than seven days before the meeting but otherwise in accordance with *subsection (2)* shall not be invalid if not less than two-thirds of the members entitled to vote at the meeting and the auditor so agree in writing either before or during the meeting.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F254: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 45, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F255, F256, F257: Substituted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 7(a)(i)-(iii), commenced on enactment.
+>
+> F258: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 50(a), (b) , S.I. No. 57 of 2024.
+>
+> F259, F260: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 7(a)(iv), (b), commenced on enactment.
+
+### 80A. Notice of rescheduled general meeting.
+
+F261[**80A.** (1) Notwithstanding *section 80* but subject to *subsection (2)*, notice for the purposes of *section 78A(10)* or *78B(9)*, as the case may be, shall be given in the same manner as the notice for the general meeting referred to in *section 80* but where, in the opinion of the board of directors, giving such notice in that manner is not reasonably practicable, notice shall be given—
+
+(*a*) where the credit union has a website, on that website,
+
+(*b*) by email to every member for whom the credit union has an email address, and
+
+(*c*) in at least one national newspaper published in the State and circulating in the area in which the registered office of the credit union is situated.
+
+(2) *Subsection (1)* shall not apply where all members agree in writing to the cancellation, change of venue or change of means of holding the general meeting concerned, or to dispensing with notice for the general meeting.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F261: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 8, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E69: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 81. General meetings: adjournment, quorum and minutes.
+
+**81.**—(1) A general meeting of a credit union may, for good and sufficient reasons and with the consent of the majority of the members present and voting, be adjourned for not more than 90 days or such longer period as the F262[Bank] may require but—
+
+(*a*) no business shall be transacted at an adjourned general meeting other than business left unfinished at the meeting from which the adjournment took place; and
+
+(*b*) when a general meeting is adjourned for 30 or more days, the secretary of the credit union shall give notice of the adjourned meeting to the auditor and to every member who, under *section 80 (1)*, was entitled to notice of the meeting which was adjourned.
+
+(2) Subject to *subsection (3)*, in *section 80*—
+
+(*a*) F263[*paragraphs (a)*, *(b)*, *(d)* and *(e)* of *subsection (2)*] shall apply to a notice under *subsection (1)(b)* of this section as they apply to a notice under *subsection (1)* of that section; and
+
+(*b*) *subsections (6)* and *(7)* shall apply in relation to an adjourned meeting as they apply in relation to a general meeting.
+
+(3) In the application of *section 80 (2)(d)* in accordance with *subsection (2)*, for the words “within the relevant period” there shall be substituted “not later than seven days before the date of the adjourned meeting”.
+
+(4) Subject to *subsection (5)*, the quorum for a general meeting of a credit union shall be ten per cent. of the members or 30 members, whichever is the less.
+
+(5) Notwithstanding *subsection (4)*, in no case shall the quorum for a general meeting of a credit union be less than ten members, but, if the rules so provide, the quorum for an adjourned general meeting may be less than that specified in that subsection.
+
+(6) It shall be the duty of the secretary to keep minutes of all general meetings of a credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F262: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 46, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F263: Substituted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 9, commenced on enactment.
+>
+> F264: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 51(a), not commenced as of date of revision.
+>
+> F265: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 51(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C23: Prospective affecting provision: subs. (4) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 51(a), not commenced as of date of revision.
+>
+> (4) F264[Subject to *subsections (5)* and *(5A)*], the quorum for a general meeting of a credit union shall be ten per cent. of the members or 30 members, whichever is the less.
+>
+> C24: Prospective affecting provision: subs. (5A) inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 51(b), not commenced as of date of revision.
+>
+> F265[(5A) The quorum for a general meeting of a corporate credit union shall be 2 members.]
+
+### 82. Supplementing provisions as to general meetings.
+
+**82.**—(1) The F266[Bank] shall have the right to attend and speak at any general meeting of a credit union.
+
+(2) At a general meeting of a credit union, or any adjournment thereof, each member shall have only one vote on each question, F267[irrespective of the member’s shareholding].
+
+(3) F268[...]
+
+(4) Where a member of a credit union is not a natural person, that member may be represented at a general meeting by a representative who may vote on behalf of the member if—
+
+(*a*) the representative is duly authorised in writing by the member to do so; and
+
+(*b*) the board of directors of the credit union have, expressly or by implication, accepted that authorisation;
+
+and such a representative shall be entitled to exercise, on behalf of the member, the same powers as the member could exercise if the member were a natural person.
+
+(5) Any provision in the rules of a credit union shall be void in so far as it would have the effect either—
+
+F269[(*a*) of excluding the right to demand a poll at a general meeting (or an adjourned meeting) on any question, other than the election of the chair of the meeting (or the adjourned meeting); or]
+
+(*b*) of making ineffective a demand for a poll on any such question which is made by not less than ten members having the right to vote at the meeting (or, as the case may be, the adjourned meeting).
+
+F270[(6) The Minister may, if he or she considers it appropriate, by regulations under *section 182*, make further provision for all or any of the following in relation to general meetings to be held wholly or partly by the use of electronic communications technology:
+
+(*a*) the convening and conduct of the meetings;
+
+(*b*) attendance at the meetings;
+
+(*c*) access to and participation in the meetings;
+
+(*d*) such other matters relating to the meetings as he or she considers appropriate for the purposes of *section 78A* or *78B*, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F266: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 47, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F267: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 52(a), S.I. No. 57 of 2024.
+>
+> F268: Deleted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 10(a), commenced on enactment.
+>
+> F269: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 75, S.I. No. 393 of 2013.
+>
+> F270: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 10(b), commenced on enactment.
+>
+> F271: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 52(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: subs. (5)(b) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 52(b), not commenced as of date of revision.
+>
+> F271[(*b*) of making ineffective a demand for a poll on any such question which is made by—
+>
+> (i) in the case of a credit union other than a corporate credit union, not less than ten members, and
+>
+> (ii) in the case of a corporate credit union, at least one member,
+>
+> having the right to vote at the meeting (or, as the case may be, the adjourned meeting).]
+
+### F273[82A. Proxies.
+
+**82A.**—(1) Subject to *subsection (3)*, a credit union may allow in its rules for any member of the credit union entitled to attend and vote at a general meeting of the credit union to be entitled to appoint another person (whether a member or not) F272[as the member’s proxy to attend and vote instead of the member].
+
+(2) A proxy so appointed shall have the same right as the member to speak at the meeting and to vote on a show of hands and on a poll.
+
+(3) Unless the rules of the credit union otherwise provide, a member of a credit union shall not be entitled to appoint more than one proxy to attend on the same occasion.
+
+(4) The instrument appointing a proxy (the "instrument of proxy") shall be in the form provided for in the rules of a credit union and shall be in writing—
+
+(*a*) under the hand of F272[the appointer or of the appointer’s attorney] duly authorised in writing, or
+
+(*b*) if the appointer is a body corporate, either under seal of the body corporate or under the hand of an officer or attorney of it duly authorised in writing.
+
+(5) The instrument of proxy and the power of attorney or other authority, if any, under which it is signed, or a notarially certified copy of that power or authority, shall be deposited at the registered office of the credit union concerned or at such other place within the State as is specified for that purpose in the notice convening the meeting, and shall be so deposited not later than the time specified in *subsection (6)*.
+
+(6) The time referred to in *subsection (5)* is—
+
+(*a*) 48 hours (or such lesser period as the rules of the credit union may provide) before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or
+
+(*b*) in the case of a poll, 48 hours (or such lesser period as the rules of the credit union may provide) before the time appointed for the taking of the poll.
+
+(7) The depositing of the instrument of proxy referred to in *subsection (5)* may, rather than its being effected by sending or delivering the instrument, be effected by communicating the instrument to the credit union by electronic means, and this subsection likewise applies to the depositing of anything else referred to in *subsection (5)*.
+
+(8) If *subsection (5)* or *(6)* is not complied with, the instrument of proxy shall not be treated as valid.
+
+(9) Subject to *subsection (10)*, a vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death of the appointer or revocation of the proxy or of the authority under which the proxy was executed.
+
+(10) *Subsection (9)* does not apply if notice in writing of such death or revocation as is mentioned in that subsection is received by the credit union concerned at its registered office before the commencement of the meeting or adjourned meeting at which the proxy is used.
+
+(11) Subject to *subsection (12)*, if, for the purpose of any meeting of a credit union, invitations to appoint as proxy a person or one of a number of persons specified in the invitations are issued at the credit union’s expense to some only of the members entitled to be sent a notice of the meeting and to vote at it by proxy, any officer of the credit union who knowingly and intentionally authorises or permits their issue in that manner shall be guilty of an offence.
+
+(12) An officer shall not be guilty of an offence under *subsection (11)* by reason only of the issue to a member, F272[at the member’s request in writing], of a form of appointment naming the proxy or of a list of persons willing to act as proxy if the form or list is available on request in writing to every member entitled to vote at the meeting by proxy.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F272: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 53(a)-(c), S.I. No. 57 of 2024.
+>
+> F273: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 11, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E70: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 83. Special resolutions.
+
+F274[**83.**— (1) If, at any general meeting of which notice has been given specifying the intention to propose a special resolution, the chair declares that the resolution has been passed as required by the definition of "special resolution" in *section 2(1)*, that declaration shall, without more, be evidence of that fact until the contrary is proved.
+
+(2) A copy of every special resolution for any of the purposes mentioned in this Act—
+
+(*a*) shall be signed by the chair of the meeting at which the resolution was passed,
+
+(*b*) shall be countersigned by the secretary of the credit union, and
+
+(*c*) within 21 days of the date of the meeting at which the resolution was passed, shall be sent to the Bank to be registered by it,
+
+and the special resolution shall not take effect until that copy is so registered.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F274: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 28, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E71: Previous affecting provision: section amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 48, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+## PART VIControl and Supervision of Credit Unions by the Bank — PART VI — Control and Supervision of Credit Unions by the F275[Bank] — Annotations Amendments: Substituted (1.05.2003) by Central Bank and Financial Services Authority of Ireland Act 2003 (12/2003), s. 35(1) and sch. 1 part 24 item 49, S.I. No. 160 of 2003.
+
+*General*
+
+### 84. Functions of the F276[Bank].
+
+**84.**—(1) The F276[Bank] shall administer the system of regulation and supervision of credit unions provided for by or under this Act with a view to—
+
+(*a*) the protection by each credit union of the funds of its members, and
+
+(*b*) the maintenance of the financial stability and well-being of credit unions generally.
+
+(2) The F276[Bank] shall have power to do anything which, in F276[its] opinion, is necessary to facilitate the exercise of F276[its] functions or is incidental to or consequential on their exercise; and, in the exercise of any such power, the F276[Bank] may consult the Advisory Committee and such other bodies as appear to F276[it] to be expert or knowledgeable in matters relating to credit unions.
+
+(3) Neither the registration of a credit union nor the imposition of any prudential, supervisory or reporting requirements or conditions by the F276[Bank] shall constitute a warranty as to the solvency of the credit union to which registration is given; and neither the State nor the F276[Bank] shall be liable in respect of any losses incurred through the insolvency or default of a society which is registered as a credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F276: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 50, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 84A. Power of Bank to make regulations.
+
+F277[**84A.**— (1) In making regulations under this Act the Bank shall have regard to the need to ensure that the requirements imposed by the regulations so made are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.
+
+(2) Before making regulations under this Act, the Bank shall consult with—
+
+(*a*) the Minister and the Credit Union Advisory Committee,
+
+(*b*) any other body that appears to the Bank to have expertise or knowledge of credit unions generally, and
+
+(*c*) any other body that the Bank considers appropriate to consult in the circumstances.
+
+(3) Regulations made under this Act may—
+
+(*a*) contain any incidental, supplementary and consequential provisions that appear to the Bank to be necessary or expedient for the purposes of the regulations,
+
+(*b*) apply either generally to a specified category or categories of credit union, and
+
+(*c*) include different provisions in relation to different categories of credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F277: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 29, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E72: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 85. Assets and liabilities ratios and structures.
+
+**85.**—(1) A credit union shall at all times keep a proportion of its total assets in liquid form (hereinafter referred to as “liquid assets”), being such a proportion and having such a composition as to enable the credit union to meet its liabilities as they arise.
+
+(2) For the purpose of complying with *subsection (1)*, a credit union shall have regard to the range and scale of its business and the composition of its assets and liabilities; but nothing in this Act shall be taken to prevent a credit union keeping liquid assets in addition to those required for complying with *subsection (1)*.
+
+(3) The F278[Bank] may from time to time by notice in writing require a credit union to maintain, between its assets and its liabilities—
+
+(*a*) a ratio specified in the requirement,
+
+(*b*) a ratio which does not exceed a ratio so specified, or
+
+(*c*) a ratio which is not less than a ratio so specified,
+
+and a ratio may be so specified as a percentage of the assets or liabilities concerned.
+
+(4) A requirement of the F278[Bank] under *subsection (3)* may be expressed to apply in one or more of the following ways—
+
+(*a*) in relation to all credit unions or to credit unions of a category or categories specified in the requirement;
+
+(*b*) in relation to the total assets or total liabilities of the credit unions concerned or in relation to such assets or kinds of assets or such liabilities or kinds of liabilities as may be specified in the requirement;
+
+(*c*) in relation to such time or times or during such period or periods as may be so specified.
+
+(5) The F278[Bank] may, from time to time, by notice in writing specify, as respects a credit union, requirements as to the composition of its assets or, F279[subject to regulations made under *section 27(2)*], the composition of its liabilities.
+
+(6) In this section—
+
+(*a*) “liabilities” include such contingent liabilities as the F278[Bank] may from time to time specify by notice in writing for the purposes of this section; and
+
+(*b*) “liquid assets” mean such assets as the F278[Bank] may from time to time specify by notice in writing for the purposes of this section;
+
+and, until the F278[Bank] specifies assets as mentioned in *paragraph (b)*, “liquid assets” include assets held in a form provided for by *section 43*.
+
+(7) Where, under the preceding provisions of this section, the F278[Bank] by notice in writing imposes a requirement or specifies any matter, and the requirement is to apply or the matter is specified otherwise than in relation to a particular credit union, the power to give the notice shall be exercisable by rules.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F278: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 51, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F279: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 76, S.I. No. 584 of 2015.
+>
+> **Editorial Notes:**
+>
+> E73: Previous affecting provision: power pursuant to section exercised (1.11.2010) by *Credit Union Act 1997 (Section 85) Rules 2010* (S.I. No. 515 of 2010), in force as per reg. 6; revoked (1.01.2016) by *Credit Union Act 1997 (Regulatory Requirements) Regulations 2016* (S.I. No. 1 of 2016), reg. 49(b), in force as per reg. 1(2).
+>
+> E74: Previous affecting provision: power pursuant to section exercised (27.08.2009) by *Credit Union Act 1997 (Section 85) Rules 2009* (S.I. No. 344 of 2009), in force as per reg. 7; revoked (1.01.2016) by *Credit Union Act 1997 (Regulatory Requirements) Regulations 2016* (S.I. No. 1 of 2016), reg. 49(a), in force as per reg. 1(2).
+
+### 85A. Liquidity.
+
+F280[**85A.**— (1) In this section—
+
+"liquid assets" means the assets held by a credit union to enable it to meet its obligations as they arise;
+
+"maturity mismatch" means the ongoing or possible future divergence between a credit union’s assets and liabilities because non liquid assets of the credit union have not or, at the appropriate time, will not have matured;
+
+"total assets" means all the assets of a credit union having due regard to the accounting principles in section 110 after deducting provisions for bad and doubtful debts.
+
+(2) A credit union shall at all times keep a proportion of its total assets in liquid form (in this section referred to as "liquid assets") so as to enable the credit union to meet its obligations as they arise. The proportion of assets kept in liquid form shall take into account the nature, scale and complexity of the credit union, and the composition and maturity of its assets and liabilities.
+
+(3) The Bank may prescribe the liquidity requirements that a credit union is required to maintain at a minimum as well as conditions on the application of the liquidity requirements. Regulations made by the Bank for the purpose of this section may deal with other matters related to minimum liquidity requirements, including—
+
+(*a*) the proportion and nature of assets to be held in liquid form,
+
+(*b*) the holding of liquid assets based on the duration of loans,
+
+(*c*) in relation to maturity mismatches, and
+
+(*d*) the liquid assets to be held as a safeguard on the basis of stressed conditions that may arise.
+
+(4) In prescribing matters for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements imposed by the regulations made by it are effective and proportionate having regard to the nature, scale and complexity of credit unions, or the category or categories of credit unions, to which the regulations will apply.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F280: Inserted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 30, S.I. No. 584 of 2015.
+
+### 85B. Supplemental provisions to sections 85 and 85A.
+
+F281[**85B.**— (1) In this section—
+
+"liquid assets" has the meaning given by *section 85* or *85A*, as appropriate in the circumstances;
+
+"maturity mismatch" has the meaning given by *section 85A(1)*;
+
+"stress test", in relation to a credit union, means the analysis of its cash flows under various headings and the placing of such cash flows in pre-determined time periods subject to specified conditions, including monetary limits where appropriate, to estimate the extent to which a credit union may have a maturity mismatch in respect of its assets and liabilities.
+
+(2) (*a*) Pending the prescribing by the Bank of minimum liquidity requirements for the purposes of *section 85A* in respect of a category of credit unions, the liquidity requirements applicable to credit unions under *section 85* shall continue to apply to such category of credit unions in respect of matters so prescribed.
+
+(*b*) Where minimum liquidity requirements have been prescribed by the Bank for the purposes of *section 85A* in respect of a category of credit unions, then *section 85* shall cease to apply to that category of credit unions in respect of the matters so prescribed.
+
+(3) The Bank may, from time to time, require any credit union or credit unions (either generally or a particular category of credit union) to undertake stress tests into what would be the consequences for its liquidity if one or more scenarios were to arise. The terms of the stress test shall be laid down by the Bank including without limitation requirements on the frequency of stress tests, reporting arrangements for stress test results and requirements to develop contingency plans.
+
+(4) In requiring a credit union to undertake any matter for the purposes of this section, the Bank shall have regard to the need to ensure that the requirements are effective and proportionate having regard to the nature, scale and complexity of the credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F281: Inserted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 30, S.I. No. 584 of 2015.
+
+### 86. Control of advertising.
+
+**86.**—(1) If the F282[Bank] considers it necessary to do so in the case of any body (whether a credit union, a group or association of credit unions or otherwise) F282[it] may give the body directions in writing relating to the content or form (or both)—
+
+(*a*) of any advertisement or other means of soliciting deposits or subscriptions for shares in any one or more credit unions or credit unions generally; or
+
+(*b*) of any advertisement relating to any service provided or business undertaken by any one or more credit unions or credit unions generally;
+
+and the F282[Bank] may also give directions in writing requiring any such body to withdraw or amend an advertisement.
+
+(2) Without prejudice to the generality of *subsection (1)*, directions under this section may do all or any of the following—
+
+(*a*) prohibit the issue by the body concerned of advertisements of all descriptions or any specified description;
+
+(*b*) require the body concerned to modify advertisements of a specified description in a specified manner;
+
+(*c*) prohibit the issue by the body concerned of any advertisements which are, or are substantially, repetitions of a specified advertisement;
+
+(*d*) require the body concerned to withdraw any specified advertisement or any advertisement of a specified description;
+
+(*e*) require the body concerned to include specified information in any advertisement to be published by it or on its behalf or in any statement to the public to be made by it or on its behalf.
+
+(3) In this section:
+
+(*a*) “advertisement” includes every form of recommendation of any matter to which this section relates, including in particular the display or publication of any such matter by way of leaflet, notice, circular, pamphlet, brochure, photograph, film, video, sound broadcasting, television, electronic communication or personal canvassing, and references to the issue of advertisements shall be construed accordingly; and
+
+(*b*) “specified” means specified by directions in writing under this section.
+
+(4) *Section 3 (3)* shall not apply to directions under this section.
+
+(5) A credit union or other body which fails to comply with any directions given to it under this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F282: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 52, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+*Regulatory directions and prohibition orders*
+
+### 87. Power of F283[Bank] to give regulatory directions.
+
+**87.**—(1) If, with respect to a credit union, the F283[Bank] is satisfied—
+
+(*a*) that the credit union has become, or is likely to become, unable to meet its obligations to its creditors or its members or suspends payments lawfully due from it, or
+
+(*b*) that it is expedient to do so in the public interest or in the interest of the orderly and proper regulation of the business of the credit union or in order to protect the savings of its members, or
+
+(*c*) that the credit union no longer possesses, or is not maintaining and is unlikely to be in a position to maintain, adequate capital resources and, in particular, no longer provides security for the funds entrusted to it, or
+
+(*d*) F284[...]
+
+(*e*) that any member or group of members of the credit union have, or are likely to achieve, a position in relation to the credit union that would enable the member or group to exercise a significant influence over the management or operation of the credit union,
+
+F285[the Bank may decide to give and give the credit union such regulatory directions as it thinks proper].
+
+(2) F286[The Bank may also decide to give and give regulatory directions] to a credit union if it appears to F283[it]—
+
+(*a*) that the credit union has failed to comply with any requirements imposed by or under this Act (including requirements imposed by the F283[Bank] by conditions, notices, directions or otherwise in the exercise of F283[its] powers under this Act); or
+
+(*b*) that the credit union has been convicted of F287[...] an offence involving fraud, dishonesty or breach of trust; or
+
+F288[(*c*) that, since the registration of the credit union, the factors taken into account in granting registration have so changed that, if the society were now applying for registration, it would be refused; or
+
+(*d*) that the credit union has failed to comply with any terms and conditions imposed by the Bank under section 65(6) of the Credit Union and Co-operation with Overseas Regulators Act 2012 relating to the provision of stabilisation support under this Act.]
+
+(3) For the purposes of this Act, “regulatory directions” are directions in writing given to a credit union by the F283[Bank] which do one or more of the following—
+
+(*a*) prohibit the credit union, for such period not exceeding six months, to such extent, and subject to such conditions as may be specified, from carrying on all or any of the following activities, except with the written authority of the F283[Bank]—
+
+(i) the raising of funds (by whatever means);
+
+(ii) the making of payments;
+
+(iii) the acquisition or disposal of other assets or liabilities;
+
+(*b*) require the credit union to refrain from making, or to realise within a specified period, investments of a specified class or description;
+
+(*c*) specify, with respect to all loans which the credit union may make, the maximum amount of secured and unsecured loans which the credit union may make to its members, or the security or types of security which the credit union must require in respect of secured loans to its members;
+
+(*d*) require the credit union to establish and maintain, with respect to all loans which the credit union may make, such ratio or ratios regarding loans to shares or loans to savings as may be specified;
+
+F289[(*e*) require the credit union to raise within such period as may be specified and maintain such reserves or other financial resources or to maintain such non-financial resources, as may be specified;
+
+(*f*) require the credit union to take such steps as may be specified to strengthen its systems or controls;
+
+(*g*) require the credit union to apply a specified policy for making provision for such debts or treatment of assets, as may be specified, for the purposes of capital and reserve requirements;
+
+(*h*) require the credit union to restrict or limit its business, operations or activities, as the Bank considers necessary, to reduce risks inherent in its activities, products and systems;
+
+(*i*) require the credit union to provide a statement in writing to the Bank of the steps it will take to comply with any regulatory direction imposed under this section or with any other requirement imposed on a credit union under this Act;
+
+(*j*) impose limitations on the acceptance of members’ savings or the employment of assets;]
+
+and, in this subsection and *subsection (4)*, “specified” means specified by regulatory directions.
+
+(4) Subject to any express provision in *subsection (3)*, regulatory directions—
+
+(*a*) may be expressed to have effect, either generally or with respect to specified matters, for a specified period or until varied or revoked; and
+
+(*b*) may make different provision for different classes of case (but not so as to make different provision for members, investments or loans within the same class).
+
+(5) The giving of any regulatory directions shall not preclude a credit union—
+
+(*a*) from receiving funds by way of voluntary non-repayable donation from its members or from such other person as may be approved by the F283[Bank]; or
+
+(*b*) from setting off to any extent a member's share capital F290[against the member’s indebtedness] to the credit union (such a setoff being regarded as a repayment of share capital).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F283: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 53, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F284: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 78, S.I. No. 393 of 2013.
+>
+> F285: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 77, S.I. No. 280 of 2013.
+>
+> F286: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 79, S.I. No. 280 of 2013.
+>
+> F287: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 80, S.I. No. 280 of 2013.
+>
+> F288: Substituted and inserted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 81, S.I. No. 557 of 2012.
+>
+> F289: Inserted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 110(3) and sch. 2 part 3 item 1, S.I. No. 548 of 2011.
+>
+> F290: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 54, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E75: Central Bank empowered to petition to have credit union wound up on failure to comply with a direction under section (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 77(c)(iii), S.I. No. 548 of 2011.
+>
+> E76: Previous affecting provision: subss. (1), (1)(d), (2) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 53, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; further amended or deleted (19.12.2012) as per F-notes above.
+
+### 88. Procedural provisions relating to regulatory directions.
+
+**88.**— F291[(1) When the Bank gives any regulatory directions to a credit union,—
+
+(*a*) it shall serve the directions at the registered office of the credit union or cause the directions to be so served, and
+
+(*b*) the secretary of the credit union concerned shall, as soon as practicable, notify every member of the board of directors and every member of the board oversight committee of that credit union of the giving of those directions,
+
+but a failure to notify in accordance with *paragraph (b)* shall not affect the validity of the directions.]
+
+(2) The F292[Bank] may, if F292[it] thinks fit, cause to be published in *Iris Oifigiúil,* or in any other manner which appears to F292[it] to be necessary for informing the public, notice of the giving of any regulatory directions and of their amendment or revocation.
+
+(3) The *Fourth Schedule* shall have effect with respect to regulatory directions.
+
+(4) While any regulatory directions are in force with respect to a credit union, then, except with the leave of the Court—
+
+(*a*) no winding up proceedings may be commenced in relation to the credit union except in accordance with the *Fourth Schedule* and no resolution may be passed for winding it up;
+
+(*b*) no receiver may be appointed over the whole or any part of the property of the credit union; and
+
+(*c*) none of the property of the credit union may be attached, sequestered or distrained upon.
+
+(5) Where the Court is satisfied that it is desirable, because of the nature or circumstances of the case or otherwise in the interest of justice, the whole or any part of any proceedings under this section or the *Fourth Schedule* may be heard otherwise than in public.
+
+(6) A credit union which fails to comply with any regulatory directions given to it shall be guilty of an offence and liable—
+
+F293[(*a*) on summary conviction, to a class C fine; and]
+
+(*b*) on conviction on indictment, to a fine not exceeding £25,000.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F291: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 82, S.I. No. 393 of 2013.
+>
+> F292: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 54, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F293: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 83, S.I. No. 393 of 2013. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> F294: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 55, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C26: Prospective affecting provision: subs. (1)(b) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 55, not commenced as of date of revision.
+>
+> F294[(*b*) the secretary of the credit union concerned shall, as soon as practicable, notify—
+>
+> (i) every member of the board of directors of the credit union, and
+>
+> (ii) in the case of a credit union other than a corporate credit union, every member of the board oversight committee of that credit union,
+>
+> of the giving of those directions,]
+>
+> **Editorial Notes:**
+>
+> E77: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 54, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 89. Power of Court to prohibit continuance of certain contraventions.
+
+**89.**—(1) Where, on an application made by the F295[Bank], the Court is of the opinion that there has occurred or is occurring—
+
+(*a*) a contravention of this Act,
+
+(*b*) a failure to comply with a direction under *section 86* or any regulatory directions, or
+
+(*c*) a failure to comply with a condition imposed on granting an approval application, within the meaning of *section 49*,
+
+the Court may, by order, prohibit the continuance of the contravention or failure by the person or persons concerned or, in the case of *paragraph (c)*, require the cessation of the provision of the additional services to which the approval application related.
+
+(2) When considering an application under this section, the Court may make such interim or interlocutory order as it considers appropriate.
+
+(3) Where the Court is satisfied, because of the nature or circumstances of the case or otherwise in the interests of justice, that it is desirable, the whole or any part of proceedings under this section may be held otherwise than in public.
+
+(4) The provisions of this section are without prejudice to the general functions of the F295[Bank].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F295: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 55, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+*Inspections and information*
+
+### 90. Inspection of books and documents of credit union.
+
+F296[**90.**—(1) In this section and section 91 ‘authorised officer’ means an authorised officer appointed under F297[Part 3 of the Central Bank (Supervision and Enforcement) Act 2013].
+
+(2) The Bank may appoint an authorised officer to carry out an inspection and to provide a report of the inspection to the Bank.
+
+(3) An authorised officer may, for the purposes of carrying out an inspection, exercise any of the powers conferred on an authorised officer under F297[Part 3 of the Central Bank (Supervision and Enforcement) Act 2013].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F296: Substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(4) and sch. 4 part 6 item 1, S.I. No. 557 of 2012.
+>
+> F297: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 1, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E78: Previous affecting provision: section amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 56, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 91. Notice to furnish books, information etc.
+
+**91.**— F298[F299[(1) If required to do so by notice in writing served by the Bank at any time—
+
+(*a*) a credit union,
+
+(*b*) any person who is or has been an officer, member, voluntary assistant, agent or liquidator of a credit union, and
+
+(*c*) any other person who has in his or her possession or power any books or documents relating to a credit union,
+
+shall furnish to the Bank such books or documents which relate to the credit union and are in the possession or power of the credit union or such person and such information relating to the business of the credit union as may be specified in the notice and as may be reasonably required by the Bank in the exercise of its powers under this Act.]
+
+(2) If required to do so by a notice in writing served on it by the Bank, a credit union shall furnish to the Bank a financial statement or periodic financial statements in such form and containing such information as may be specified in the notice and as may be reasonably required by the Bank in the exercise of the powers of the Bank under this Act.]
+
+(3) If a notice under *subsection (1)* or *subsection (2)*—
+
+(*a*) requires that any item or information is to be furnished within a period, or at a time or place specified in the notice, or
+
+(*b*) requires that any information is to be verified by a statutory declaration,
+
+the credit union or person on whom the notice is served shall not be regarded as complying with the notice unless that requirement is also complied with.
+
+F300[(4) The Bank may take copies of or extracts from any item produced in compliance with a notice under *subsection (1)* or *(2)* and, if so required by the Bank, the person on whom a notice under *subsection (1)* was served or, in the case of a statement produced in compliance with a notice under *subsection (2)*, a person who is or has been an officer, member, agent or liquidator of the credit union shall provide any explanation which may reasonably be required of an item so produced.]
+
+(5) If a person on whom a notice is served under *subsection (1)* does not have in his possession or under his control any item specified in the notice but has knowledge of its whereabouts, he shall not be regarded as complying with the notice unless he states to the best of his knowledge and belief where the item is and, if so required, verifies that information by a statutory declaration.
+
+(6) The production by any person of any item forming part of the books and documents of a credit union shall not prejudice any lien which that person claims over that item; but nothing in this section shall compel—
+
+(*a*) the production by a barrister or solicitor of any document containing a privileged communication made by or to him in that capacity; or
+
+(*b*) the furnishing of information contained in a privileged communication so made.
+
+(7) A credit union or other person failing, without reasonable excuse, to comply with a notice under *subsection (1)* or *subsection (2)* shall be guilty of an offence.
+
+(8) If the F301[Bank] considers it just and so requires by notice in writing, all or any of the expenses incurred by F301[it] in exercising F301[its] powers under *subsection (1)* shall be met, either wholly or to such extent as F301[it] may so require—
+
+(*a*) out of the funds of the credit union; or
+
+F302[(*b*) by the officers or former officers (other than any person who is or was an officer solely by virtue of being a voluntary assistant or former voluntary assistant) of the credit union or any of them;]
+
+and any sum which a credit union or other person is required to pay by a notice under this subsection shall be recoverable summarily by the F301[Bank] as a civil debt.
+
+(9) In this section “agent”, in relation to a credit union, includes its bankers, accountants, solicitors, auditors and its financial and other advisers.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F298: Substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(4) and sch. 4 part 6 item 2, S.I. No. 557 of 2012.
+>
+> F299: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 2, S.I. No. 287 of 2013.
+>
+> F300: Substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(4) and sch. 4 part 6 item 2, S.I. No. 557 of 2012.
+>
+> F301: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 57, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F302: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 86, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E79: Previous affecting provision: subs. (1) substituted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(4) and sch. 4 part 6 item 2, S.I. No. 557 of 2012; further substituted as per F-note above.
+>
+> E80: Previous affecting provision: subs. (1)(b) prospectively amended by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 84; prospective amendment rendered spent (19.12.2012) on substitution of subsection as per E-note above.
+>
+> E81: Previous affecting provision: subs. (4) prospectively amended by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 85; prospective amendment rendered spent (19.12.2012) on substitution of subsection as per F-note above.
+>
+> E82: Previous affecting provision: subss. (1), (2) and (4) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 57, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-notes above.
+
+### 92. Investigations and calling of meetings.
+
+**92.**—(1) Where—
+
+(*a*) an application is made to the F303[Bank] by not less than 30 members of a credit union, each of whom has been a member of the credit union throughout the period of 12 months ending on the date of the application, or
+
+(*b*) the F303[Bank] is of the opinion that it is necessary to do so in the interest of the orderly and proper regulation of the business of a credit union,
+
+the F303[Bank], as F303[it] thinks fit, may appoint one or more inspectors to investigate the affairs of the credit union or may call a special general meeting of the credit union.
+
+(2) The F303[Bank] may, either on the same or on different occasions, both appoint an inspector and call a meeting under *subsection (1)*.
+
+(3) An application under *subsection (1)(a)* shall be supported by such evidence as the F303[Bank] may require for the purpose of showing that the applicants—
+
+(*a*) have good reason for requiring the investigation to be made or the meeting to be called; and
+
+(*b*) are not actuated by malicious motives in their application;
+
+and, if so required by the F303[Bank], the applicants shall deposit with F303[it], prior to, and as security for the costs of, the investigation or meeting, such sum as F303[it] may reasonably require.
+
+(4) If an inspector appointed under this section to investigate the affairs of a credit union (“the principal credit union”) thinks it necessary for the purpose of his investigation to investigate also the affairs of any other body (whether a credit union or not and whether corporate or unincorporated) which is or has at any relevant time been associated with the principal credit union, F303[it] may do so with the approval of the F303[Bank].
+
+(5) Such notice of an application under *subsection (1)(a)* as the F303[Bank] may require shall be given to the credit union concerned and, where applicable, to any other body whose affairs are to be investigated by virtue of *subsection (4)*.
+
+(6) The F303[Bank] may impose such requirements as F303[it] thinks fit in relation to the calling, holding and conduct of a meeting held by virtue of this section and, in relation to such a meeting—
+
+(*a*) any such requirements shall have effect notwithstanding anything in the rules of the credit union;
+
+(*b*) without prejudice to the generality, such requirements may include provision as to the F304[time, place (where applicable) and manner of holding (where applicable)] of the meeting and the matters to be discussed and determined at the meeting;
+
+F305[(*c*) the Bank may appoint a person to be chair of the meeting but, if it does not do so, the members present at the meeting shall appoint the chair; and]
+
+(*d*) subject to the preceding provisions of this subsection, the meeting shall have all the powers of a meeting called according to the rules of the credit union.
+
+(7) Before appointing an inspector or calling a meeting under this section, the F303[Bank] shall, if F303[it] is of the opinion that it would not be prejudicial to the interests of the members or creditors of the credit union, notify the credit union in writing of the action which F303[it] proposes to take and of the grounds on which F303[it] proposes to take it and, in such a case, the F303[Bank] shall have regard to any explanatory statement in writing which may be given by the credit union within 14 days from the receipt of the notification.
+
+(8) If the F303[Bank] considers it just and so requires by notice in writing, all or any of the expenses of and incidental to an investigation or meeting under this section shall be met, either wholly or to such extent as F303[it] may so require—
+
+(*a*) out of the funds of the credit union; or
+
+F306[(*b*) by the members or former members or the officers (other than any person who is or was an officer solely by virtue of being a voluntary assistant) of the credit union or any of them;]
+
+but, in the case of an investigation (in whichever way instituted), the expenses may be defrayed in the first instance by the F303[Bank], but without prejudice to F303[its] rights to contribution under *section 93*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F303: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 58, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F304: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 12, commenced on enactment.
+>
+> F305: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 87, S.I. No. 393 of 2013.
+>
+> F306: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 88, S.I. No. 393 of 2013.
+>
+> F307: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 56, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C27: Prospective affecting provision: subs. (1)(a) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 56, not commenced as of date of revision.
+>
+> F307[(*a*) an application is made to the Bank by—
+>
+> (i) in the case of a credit union other than a corporate credit union, not less than 30 members, and
+>
+> (ii) in the case of a corporate credit union, not less than 2 members,
+>
+> each of whom has been a member of the credit union throughout the period of 12 months ending on the date of the application, or]
+>
+> **Editorial Notes:**
+>
+> E83: Previous affecting provision: subs. (6)(c) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 58, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 93. Provisions supplementary to investigations under section 92.
+
+**93.**—(1) The provisions of this section have effect in relation to an investigation under *section 92* of the affairs of a credit union or of any such other body as is referred to in *subsection (4)* of that section; and in the following provisions of this section—
+
+(*a*) any reference to the inspector, the credit union or the other body shall be construed accordingly; and
+
+F308[(*b*) "agent" has the same meaning as in section 21 of the Central Bank (Supervision and Enforcement) Act 2013.]
+
+(2) It shall be the duty—
+
+(*a*) of all the persons who are or have been officers, members F309[...] and agents of the credit union or other body, and
+
+(*b*) of any other person who the inspector considers is or may be in possession of any information concerning the affairs of the credit union or other body,
+
+to produce to the inspector all accounts, deeds, books, documents or other records (in whatever form) of or relating to the credit union or other body which are in their possession or power, to attend before the inspector and otherwise to give him all assistance in connection with the investigation which they are reasonably able to give.
+
+(3) The inspector may examine on oath the persons referred to in *subsection (2)(a)* in relation to the affairs of the credit union or other body and may administer an oath accordingly.
+
+(4) If any such person as is mentioned in *paragraph (a)* or *paragraph (b)* of *subsection (2)* fails without reasonable excuse—
+
+(*a*) to produce to the inspector any book or document which it is his duty to produce, or
+
+(*b*) to attend before the inspector when required to do so, or
+
+(*c*) to answer any question put to him by the inspector with respect to the affairs of the credit union or other body,
+
+that person shall be guilty of an offence.
+
+(5) Subject to *subsection (6)*, if the inspector makes an application to the Court on the ground that he thinks it necessary for the purpose of his investigation that a person referred to in *subsection (2)(b)* should be examined on oath, the Court may order that person to attend and be examined on oath before it on any matter relevant to the investigation; and where the Court orders such an examination—
+
+(*a*) the inspector may take part in the examination by solicitor or counsel;
+
+(*b*) the Court may put such questions to the person examined as it thinks fit;
+
+(*c*) the person examined shall answer all such questions as the Court may put or allow to be put to him, but may at his own cost employ a solicitor (with or without counsel) who shall be at liberty to put to him such questions as the Court may think fit for the purpose of enabling him to explain or qualify any answers given by him; and
+
+(*d*) notes of the examination shall be taken down in writing and shall be read over to or by, and signed by, the person examined and may thereafter be used in evidence.
+
+(6) Notwithstanding anything in *subsection (5)(c)*, the Court may allow the person examined such costs as, in its discretion, it may think fit, and any costs so allowed shall be paid as part of the expenses of the investigation.
+
+(7) Nothing in this section—
+
+(*a*) shall compel the production by a barrister or solicitor of any document or other material containing a privileged communication made by him or to him in that capacity or the furnishing of information contained in a privileged communication so made; or
+
+(*b*) shall require the disclosure by a credit institution of any information as to the affairs of any of its customers other than the credit union or the other body.
+
+(8) Where the expenses of the investigation are defrayed in the first instance by the F310[Bank] in accordance with *section 92 (8)*, the F310[Bank] shall be entitled to be repaid those expenses as follows—
+
+(*a*) where the investigation results from an application under *section 92 (1)(a)*, by the applicants, to such extent (if any) as the F310[Bank] may direct;
+
+(*b*) in any case, by the credit union or the other body, to such extent (if any) as the F310[Bank] may direct; and
+
+(*c*) in any case, by a person convicted of an offence in proceedings instituted as a result of the investigation, to such extent (if any) as the court by which he was convicted may order;
+
+and a person liable under any one of *paragraphs (a)* to *(c)* is entitled to contribution from any other person liable under the same paragraph according to the amount of their respective liabilities under it.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F308: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 3, S.I. No. 287 of 2013.
+>
+> F309: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 89, S.I. No. 393 of 2013.
+>
+> F310: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 59, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26 .
+
+### 94. Inspector’s report and proceedings thereon.
+
+**94.**—(1) An inspector appointed under *section 92* may, and shall if the F311[Bank] so requires, make an interim report to the F311[Bank] and on conclusion of the investigation, shall make a final report to the F311[Bank]; but the inspector may at any time in the course of his investigation, without making an interim report, inform the F311[Bank] of matters coming to his knowledge as a result of the investigation.
+
+F311[(2) In relation to a report made to the Bank under this section, the Bank shall—
+
+(*a*) give a copy to the Minister, and
+
+(*b*) if the inspector who made the report makes or has made an application to the Court under *section 93(5)*, deliver a copy to the Court, and
+
+(*c*) if it thinks fit, provide a copy to the credit union and its auditor, and
+
+(*d*) on request and on payment of such fee (if any) as may be prescribed under section 33K of the Central Bank Act 1942, for the purposes of this paragraph, provide a copy to any other person—
+
+(i) who is a member of the credit union, or
+
+(ii) who is a member of any other body dealt with in the report by virtue of *section 92(4)*, or
+
+(iii) whose interests as a creditor of the credit union, or of that other body, appear to the Bank to be affected,
+
+and
+
+(*e*) where the investigation results from an application under *section 92(1)(a)* at the request of the applicants and if the Bank thinks fit, give a copy to the applicants.]
+
+(3) The Minister may lay the report under *subsection (1)* before each House of the Oireachtas and such publication shall be privileged; and the F311[Bank] may, if F311[it] thinks fit, cause a report which is not so laid to be printed and published.
+
+(4) Where it appears to the F311[Bank] that any person has, in relation to the credit union or other body the affairs of which have been investigated under *section 92*, been guilty of any offence for which he is criminally liable, the F311[Bank] shall refer the matter to the Director of Public Prosecutions.
+
+(5) Where the Director of Public Prosecutions institutes proceedings consequent on the receipt by him of a report under *subsection (4)*, it shall be the duty of all officers, members F312[...] and agents of the credit union or other body (other than the defendants in the proceedings) to give him all assistance in connection with the prosecution which they are reasonably able to give.
+
+(6) Where it appears to the F311[Bank] after consideration of an inspector's report under *subsection (1)* that it is expedient to do so, F311[it] may, unless the credit union is being wound up by the Court, petition the Court for an order to wind up the credit union under *section 134*.
+
+(7) Where it appears to the F311[Bank] after consideration of an inspector's report under *subsection (1)* that proceedings ought in the public interest to be brought by the credit union for damages, in respect of any fraud, misfeasance or other misconduct in connection with the promotion or formation of the credit union or the management of its affairs, or for the recovery of any property misapplied or wrongfully retained, F311[it] may bring proceedings for that purpose in the name of the credit union.
+
+(8) The F311[Bank] may indemnify the credit union against any costs or expenses incurred by it in, or in connection with, any proceedings brought under *subsection (7)*.
+
+(9) A copy of any report of an inspector appointed under *section 92* shall be admissible in any legal proceedings as evidence of the opinion of the inspector in relation to any matter contained in the report.
+
+(10) Expressions to which a meaning is assigned by *section 93 (1)* have the same meaning in this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F311: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 60, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F312: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 90, S.I. No. 393 of 2013.
+
+*Supervisory powers*
+
+### 95. Registrar’s power to appoint person as director of a credit union.
+
+**95.**—(1) Where the F313[Bank] is of the opinion F314[, after the exercise by an authorised officer of any of his or her powers under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013,] or after an investigation under *section 92*, that it is necessary to do so in the interest of the orderly and proper regulation of the business of a credit union, F313[it] may appoint a person to be a member of the board of directors of the credit union; but a person so appointed shall not be entitled to vote at any meeting of the board and shall be left out of account for the purposes of any provision of this Act relating to the minimum or maximum number of directors of a credit union.
+
+(2) Without prejudice to the generality of *subsection (1)*, before exercising a power conferred on F313[it] by this section, the F313[Bank] shall have regard to any financial transactions which have been undertaken, or are in the course of being undertaken, by the credit union and which, in the F313[Bank]’s opinion, are likely to be prejudicial to the interest of the orderly and proper regulation of the business of the credit union.
+
+(3) A person appointed under this section shall hold office for such period and on such terms as the F313[Bank] may specify and, on the expiry of such a period, the F313[Bank] may renew the appointment for such period or periods as F313[it] may specify.
+
+F315[(4) Notwithstanding anything in *section 68*, all expenses of and incidental to the appointment of a person under this section shall be defrayed out of the funds of the credit union, or by the members or former members or the officers (other than any person who is or was an officer solely by virtue of being a voluntary assistant) of the credit union in such proportions as the Bank shall direct.]
+
+(5) An officer, member F316[...] or agent of a credit union shall at all times give all information required by a person appointed under this section for the full and satisfactory performance of his duties; and for this purpose *section 91* shall apply as if any reference therein to the F313[Bank] included a reference to a person appointed under this section.
+
+(6) A person appointed under this section shall report to the F313[Bank], in such manner and with such frequency as the F313[Bank] may direct, on the affairs of the credit union.
+
+(7) No claims shall lie against the F313[Bank], the Minister or the State in respect of any act or omission on the part of a person appointed under this section to be a member of the board of directors of a credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F313: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 61, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F314: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 4, S.I. No. 287 of 2013.
+>
+> F315: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 91, S.I. No. 393 of 2013.
+>
+> F316: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 92, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E84: Previous affecting provision: subs. (4) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 61, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 95A. Bank’s power to require appointment of additional director of credit union.
+
+F317[**95A.**— (1) Where the Bank is of the opinion, F318[after the exercise by an authorised officer of any of his or her powers under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013] or after an investigation under *section 92*, that it is necessary to enhance or improve the expertise of the board of directors of a credit union, it may require the nomination committee of the credit union to nominate an additional person with the required skills and expertise to be a director of the board of directors of the credit union.
+
+(2) Any person nominated under *subsection (1)* shall be subject to the approval of the Bank prior to that person being nominated for appointment to the board of directors.
+
+(3) A person shall be appointed to the board of directors for the purposes of this section by being co-opted by the board of directors and such director shall hold office from the date of the appointment to the next following annual general meeting of the credit union or, if it is earlier, the next special general meeting at which an election is held for members of the board of directors.
+
+(4) Any director appointed under *subsection (1)* shall have the same rights, duties and responsibilities as any other director appointed under *section 53*.]
+
+F319[(5) Any period of appointment under this section shall not be reckoned for the purposes of calculating the number of years that a person has served in aggregate for the purpose of *section 53(12)* or *section 76N(5)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F317: Inserted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 31, S.I. No. 280 of 2013.
+>
+> F318: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 5, S.I. No. 287 of 2013.
+>
+> F319: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 31, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E85: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 96. Removal or suspension of directors and members of Supervisory Committee.
+
+**96.**—(1) Where the F320[Bank] is of the opinion, F321[after the exercise by an authorised officer of any of his or her powers under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013] or after an investigation under *section 92*, that it is necessary to do so in the interest of the members or creditors of a credit union or of the orderly and proper regulation of the business of a credit union, F320[it] may—
+
+(*a*) remove from office, or
+
+(*b*) suspend from office for such period not exceeding three months as the F320[Bank] considers appropriate,
+
+all or any of the directors or members of the F322[board oversight committee] of the credit union.
+
+F323[(2) The removal or suspension from office by the Bank of a director or member of the F322[board oversight committee] of a credit union under *subsection (1)* is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.
+
+(3) If a director or member of the F322[board oversight committee] of a credit union is removed by the Bank under this section or if, on the hearing of an appeal against the removal, the removal is confirmed by the Irish Financial Services Appeals Tribunal under Part VIIA of the Central Bank Act 1942, the vacancy caused by the removal shall be treated as a casual vacancy.
+
+(4) A director or member of the F322[board oversight committee] of a credit union who is removed from office under this section is, for 5 years from the date when the removal takes effect, disqualified from holding office as an officer, F324[or auditor of a credit union].
+
+(5) If a director or member of the F322[board oversight committee] of a credit union is suspended under this section, the remaining directors or members of the F322[board oversight committee] constitute the board of directors or the F322[board oversight committee].
+
+(6) No claim lies against the Bank, the Minister or the State for any loss of office arising directly or indirectly from any of the provisions of this section.]
+
+(7) F325[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F320: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 62, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F321: Substituted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 6, S.I. No. 287 of 2013.
+>
+> F322: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 93, S.I. No. 393 of 2013.
+>
+> F323: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 5, S.I. No. 455 of 2004.
+>
+> F324: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 94, S.I. No. 393 of 2013.
+>
+> F325: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 5, S.I. No. 455 of 2004.
+>
+> **Editorial Notes:**
+>
+> E86: Previous affecting provision: subss. (2), (4) and (7) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 62, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted and deleted as per F-notes above.
+
+### 97. Cancellation of registration.
+
+**97.**—(1) Subject to the provisions of this section and *section 98 (2)*, the F326[Bank] may, F326[by notice in writing], cancel the registration of a credit union—
+
+(*a*) if at any time it is proved to F326[its] satisfaction—
+
+(i) that the number of the members of the credit union has been reduced to less than 15; or
+
+(ii) that an acknowledgement of registration has been obtained by fraud or mistake; or
+
+(iii) that the credit union has not commenced business within 12 months of the date on which it was registered; or
+
+(iv) that the credit union has suspended its business for a period of not less than six months or has ceased to function;
+
+(*b*) if F326[it] thinks fit, at the request of the credit union, to be evidenced in such manner as F326[it] shall from time to time direct;
+
+(*c*) on proof to F326[its] satisfaction that the credit union exists or is being used for an illegal purpose or has wilfully and after notice from the F326[Bank] violated any of the provisions of this Act;
+
+(*d*) where it appears to F326[it] that the members of the credit union no longer have a common bond F327[(including a common bond arising by virtue of the operation of law)].
+
+(2) The F326[Bank] shall cancel the registration of a credit union that has been—
+
+(*a*) dissolved by virtue of *section 128* or *129*; or
+
+(*b*) wound up under *section 133* or *section 134*, or dissolved under *section 135*.
+
+F328[(3) The Bank shall not cancel the registration of a credit union otherwise than—
+
+(*a*) at its own request, or
+
+(*b*) under *subsection (2)*,
+
+unless it has given the credit union at least 2 months’ notice in writing specifying the ground on which it is proposed to cancel that registration.]
+
+(4) Notice of every cancellation under this section of a credit union's registration shall, as soon as practicable after it takes place, be published in *Iris Oifigiúil* and in any other manner which the F326[Bank] considers necessary for bringing the cancellation to the notice of the persons affected by it.
+
+(5) From the date of publication in *Iris Oifigiúil* under *subsection (4)* of a notice of the cancellation of a credit union’s registration, the credit union shall cease to be entitled to any of the privileges of this Act as a credit union.
+
+(6) *Subsection (5)* is without prejudice to any liability incurred by a credit union before the cancellation of its registration; and any such liability may be enforced against it as if the cancellation had not taken place.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F326: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 63, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F327: Inserted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 110(3) and sch. 2 part 3 item 2, S.I. No. 548 of 2011.
+>
+> F328: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 6, S.I. No. 455 of 2004.
+>
+> **Editorial Notes:**
+>
+> E87: Previous affecting provision: subs. (3) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 63, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 98. Suspension of registration.
+
+**98.**—(1) In any case where, under *section 97 (1)*, the F329[Bank] might cancel the registration of a credit union, F329[it] may, F329[by notice in writing]—
+
+(*a*) subject to *subsection (3)*, suspend the registration of the credit union for a term not exceeding three months; and
+
+(*b*) subject to *section 99 (2)*, renew any such suspension for a similar term.
+
+(2) If, before the expiry of the period of a notice under *section 97 (3)* of the proposed cancellation of a credit union’s registration, the credit union duly lodges an appeal from the proposed cancellation under *section 99 (1)*, the F329[Bank] may F329[by notice in writing] suspend the credit union’s registration from the expiry of that period until the date of the determination or abandonment of the appeal.
+
+(3) Before the registration of a credit union is suspended under *subsection (1)(a)*, the F329[Bank] shall give the credit union not less than two months’ previous notice in writing specifying the ground of the proposed suspension.
+
+(4) Notice of every suspension of a credit union’s registration under *subsection (1)(a)* or *subsection (2)* and of any renewal of a suspension under *subsection (1)(b)* shall, as soon as practicable after it takes place, be published in *Iris Oifigiúil* and in any other manner which the F329[Bank] considers necessary for bringing the suspension to the notice of persons affected by it.
+
+(5) From the date of publication in *Iris Oifigiúil* under *subsection (4)* of a notice of the suspension of a credit union’s registration under *subsection (1) (a)* or *subsection (2)* until the period of the suspension and any renewal of it under *subsection (1)(b)* ends (whether on the expiry of that period or by virtue of an appeal under *section 99*), the credit union shall not be entitled to any of the privileges of this Act as a credit union.
+
+(6) Notwithstanding *subsection (5)*, the suspension of the registration of a credit union shall not affect—
+
+(*a*) any liability incurred by the credit union before the suspension; or
+
+(*b*) the right of the credit union to continue to collect repayments due on loans which were outstanding at the time of the suspension.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F329: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 64, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 99. Appeals against cancellation or suspension.
+
+F330[**99.**—(1) The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942:
+
+(*a*) a decision of the Bank under *section 97(3)* or *section 98(3)* proposing to cancel or suspend the registration of a credit union;
+
+(*b*) a decision of the Bank under *section 98(1)(b)* renewing the suspension of the registration of a credit union so that the suspension extends beyond 3 months from when the suspension began.]
+
+(2) If the F331[Bank], under *section 98 (1)(b)*, renews the suspension of the registration of a credit union so that the suspension will extend beyond the period of three months from the date when the suspension began, the credit union may, within 30 days from the date of publication under *section 98 (4)* of notice of the renewal of the suspension, appeal to the Court against the renewal.
+
+(3) F332[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F330: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 7, S.I. No. 455 of 2004.
+>
+> F331: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 65, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F332: Deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 7, S.I. No. 455 of 2004.
+>
+> F333: Substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 7, S.I. No. 455 of 2004, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C28: Prospective affecting provision: section substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 7, not commenced as of date of revision.
+>
+> **Appeals against cancellation or suspension.**
+>
+> **99.**—(1) The following decisions are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942:
+>
+> (*a*) a decision of the Bank under *section 97(3)* or *section 98(3*) proposing to cancel or suspend the registration of a credit union;
+>
+> (*b*) a decision of the Bank under *section 98(1)(b)* renewing the suspension of the registration of a credit union so that the suspension extends beyond 3 months from when the suspension began.
+>
+> (2) A decision cancelling the registration of a credit union does not take effect until—
+>
+> (*a*) the end of the period within which an appeal against the decision may be lodged under Part VIIA of the Central Bank Act 1942, or
+>
+> (*b*) if an appeal is lodged against the decision within that period—
+>
+> (i) the confirmation of the decision by the Irish Financial Services Appeals Tribunal on the hearing of the appeal, or
+>
+> (ii) the withdrawal of the appeal,
+>
+> whichever first occurs.]
+>
+> **Editorial Notes:**
+>
+> E88: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 65, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+*Administrative Provisions*
+
+### 100. Public file of a credit union.
+
+F334[**100.**—(1) The Bank shall prepare and keep at a specified office of the Bank a file relating to each credit union, to be known as the public file of the credit union.
+
+(1A) The Bank shall ensure that the public file of each credit union contains—
+
+(*a*) the documents, or the copies of documents, and
+
+(*b*) the records of the matters,
+
+that are directed by or under this Act to be kept in the public file of a credit union.]
+
+(2) Without prejudice to *subsection (1)*, there shall be placed on the public file of a credit union a copy of—
+
+(*a*) all special resolutions passed by the credit union;
+
+(*b*) any instrument of transfer of engagements under *section 129* by which the credit union transfers its engagements or undertakes to fulfil the engagements of another credit union;
+
+(*c*) any order winding up the credit union or an instrument of dissolution under *section 135*;
+
+(*d*) any administration order under *section 137* made with respect to the credit union;
+
+(*e*) any order (including an interim order) made by a Court with respect to the credit union under *Part XII*; and
+
+(*f*) any other prescribed document relating to the credit union.
+
+(3) Any member of the public shall be entitled—
+
+(*a*) to inspect the public file of any credit union during normal business hours; and
+
+(*b*) having first given reasonable notice, to be furnished with a copy of all or any of the documents or records kept in the public file of a credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F334: Substituted and inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 66, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 101. Fees.
+
+**101.**—F335[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F335: Repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 67, S.I. No. 160 of 2003.
+>
+> **Editorial Notes:**
+>
+> E89: Previous affecting provision: power pursuant to subs. (1) exercised (1.06.1998) by *Credit Union Act, 1997 (Fees) Regulations 1998* (S.I. No. 155 of 1998), in force as per reg. 1(2); revoked (16.07.2004) by *Central Bank Act 1942 (Sections 33J and 33K) Regulations 2004* (S.I. No. 447 of 2004), reg. 4(a)(i) and sch. part A.
+
+### 102. Classification of information.
+
+**102.**—Where, under this Act, any information relating to any person is required to be delivered to the F336[Bank] and is so received by F336[it], the F336[Bank] may apply such system of classification as F336[it] considers appropriate to such information and may assign symbols of identification to persons or classes of persons to whom any such information relates.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F336: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 68, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 103. Delivery to the Registrar of documents in legible form.
+
+**103.**—(1) This section applies to the delivery to the F337[Bank] under any provision of this Act of documents in legible form.
+
+(2) The document must—
+
+(*a*) state in a prominent position the registered number of the credit union to which it relates,
+
+(*b*) satisfy any requirements specified by the F337[Bank] for the purposes of this section as to the form and content of the document, and
+
+(*c*) conform to such requirements as may be so specified for the purpose of enabling the F337[Bank] to copy the document.
+
+(3) If a document is delivered to the F337[Bank] which does not comply with the requirements of this section, F337[it] may serve on the person by whom the document was delivered (or, if there are two or more persons, on any of them) a notice indicating the respect in which the document does not comply.
+
+F337[(4) The Bank may not serve a notice under *subsection (3)* after the end of 3 months from the date on which it received the document to which the notice relates.]
+
+(5) Where the F337[Bank] serves notice under *subsection (3)*, then, unless a replacement document—
+
+(*a*) is delivered to F337[it] within 28 days after the service of the notice, and
+
+(*b*) complies with the requirement of this section or is not rejected by F337[it] for failure to comply with those requirements,
+
+the original document shall be deemed not to have been delivered to F337[it].
+
+(6) For the purposes of any provision imposing a penalty for failure to deliver a document, so far as it imposes a penalty for continued contravention, no account shall be taken of the period between the delivery of the original document and the end of the period of 28 days after the service of the F337[Bank]'s notice under *subsection (3)*.
+
+(7) In this section, “document” includes any periodic account, abstract, statement or return required to be delivered to the F337[Bank].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F337: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 69, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 104. Delivery to the Registrar of documents otherwise than in legible form.
+
+**104.**—(1) This section applies to the delivery to the F338[Bank] under any provision of this Act of documents otherwise than in legible form (whether by electronic means or otherwise).
+
+(2) Any requirement to deliver a document to the F338[Bank], or to deliver a document in the prescribed form, shall be satisfied by the communication to the F338[Bank] of the requisite information in any non-legible form specified by the F338[Bank] for the purposes of this section.
+
+(3) Any document which (in legible form) would be required to be signed or sealed, shall instead be authenticated in such manner as may be specified by the F338[Bank] for the purposes of this section.
+
+(4) The document must—
+
+(*a*) contain in a prominent position the registered number of the credit union to which it relates,
+
+(*b*) satisfy any requirements specified by the F338[Bank] for the purposes of this section, and
+
+(*c*) be furnished in such manner and conform to such requirements as may be so specified for the purposes of enabling the F338[Bank] to read and copy the document.
+
+(5) If a document is delivered to the F338[Bank] which does not comply with the requirements of this section, F338[it] may serve on the person by whom the document was delivered (or if there are two or more such persons, on any of them) a notice indicating the respect in which the document does not comply.
+
+F338[(6) The Bank may not serve a notice under *subsection (5)* after the end of 3 months from the date on which it received the document to which the notice relates.]
+
+(7) Where the F338[Bank] serves a notice under *subsection (5)*, then, unless a replacement document—
+
+(*a*) is delivered to F338[it] within 28 days after the service of the notice, and
+
+(*b*) complies with the requirement of this section or is not rejected by F338[it] for failure to comply with those requirements,
+
+the original document shall be deemed not to have been delivered to F338[it].
+
+(8) For the purposes of any provision imposing a penalty for failure to deliver a document, so far as it imposes a penalty for continued contravention, no account shall be taken of the period between the delivery of the original document and the end of the period of 28 days after the service of the F338[Bank]'s notice under *subsection (5)*.
+
+F338[(9) Regulations under *section 182* may make further provision for the delivery of documents, or the service of notices, under this section by instantaneous forms of communication.]
+
+(10) In this section “document” includes any periodic account, abstract, statement or return required to be delivered to the F338[Bank].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F338: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 70, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 105. Exercise of Registrar’s functions.
+
+**105.**— F339[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F339: Repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 71, S.I. No. 160 of 2003.
+
+### 106. Annual report by Registrar.
+
+**106.**— F340[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F340: Repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 72, S.I. No. 160 of 2003.
+
+## PART VIIAccounts and Audit — PART VII — Accounts and Audit
+
+### 107. Financial year of a credit union.
+
+**107.**—(1) Subject to *subsections (2)* and *(3)*, the financial year of a credit union shall be the period of 12 months ending on the 30th day of September or such other date as the F341[Bank] may determine.
+
+(2) The initial financial year of a credit union shall be such period as begins on the date on which the credit union is registered and expires on the following 30th September or on such other date as the F341[Bank] may have determined before the 30th September.
+
+(3) The final financial year of a credit union shall be that period (of less than 12 months) which expires on the date to which the credit union makes up its final accounts and begins on the day following the end of the preceding financial year (as determined under *subsection (1)* or *subsection (2)*).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F341: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 73, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 108. Accounting records etc.
+
+**108.**—(1) Every credit union shall—
+
+(*a*) cause proper accounting records, whether in the form of documents or otherwise, to be kept on a continuous and consistent basis, that is to say, the entries shall be made in a timely manner and be consistent from one year to the next, and
+
+(*b*) establish and maintain systems of control of its business and records,
+
+in accordance with this section and *section 109*.
+
+(2) The accounting records of a credit union shall be such as—
+
+(*a*) correctly to record and explain the transactions of the credit union;
+
+(*b*) to disclose, with reasonable accuracy and promptness, the financial position of the credit union at any time;
+
+(*c*) to enable the officers properly to discharge the duties imposed on them by or under this Act;
+
+(*d*) to enable the credit union properly to discharge the duties imposed on it by or under this Act; and
+
+(*e*) to enable the accounts of the credit union to be readily and properly audited.
+
+(3) Without prejudice to the generality of *subsections (1)* and *(2)*, accounting records kept pursuant to this section shall contain—
+
+(*a*) entries from day to day of all sums of money received and expended by the credit union and the matters in respect of which the receipt and expenditure take place;
+
+(*b*) a record of the assets and liabilities of the credit union and entries from day to day of every transaction entered into by the credit union which will or may give rise to liabilities or assets of the credit union; and
+
+(*c*) in respect of the provision of services, whether under *section 48* or otherwise, a record of the services provided and all transactions relating to them.
+
+(4) For the purposes of *subsection (1)* proper accounting records shall be deemed to be kept if they comply with *subsections (2)* and *(3)* and give a true and fair view of the state of affairs of the credit union and explain its transactions.
+
+(5) The accounting records of a credit union—
+
+(*a*) shall be kept at the registered office of the credit union or at such other place in the State as the board of directors think fit; and
+
+F342[(*b*) shall at all reasonable times be open to inspection by the members of the board of directors and the board oversight committee.]
+
+(6) Every record required to be kept under this section shall be preserved by the credit union for not less than six years from the latest date to which it relates.
+
+F343[(7) Where the accounting records of the credit union are kept at a place other than the registered office of the credit union, the chair shall have responsibility for ensuring that a written record of their location is kepart]
+
+(8) Where a credit union conducts its business in more than one place, the board of directors shall ensure that such accounting records are kept and such systems of control are established and maintained for each of those places as will enable the credit union to comply with this section and *section 109*.
+
+(9) A credit union shall take adequate precautions to ensure the safe keeping of the accounting records of the credit union no matter what form they may take.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F342: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 95, S.I. No. 393 of 2013.
+>
+> F343: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 96, S.I. No. 393 of 2013.
+
+### 109. Systems of control and safe custody.
+
+**109.**—(1) The systems of control which are to be established and maintained by a credit union pursuant to *section 108 (1)* are systems for the control of the conduct of its business as required by or under this Act and in accordance with the decisions of the board of directors and for the control of the accounting and other records of its business.
+
+(2) Without prejudice to the generality of *section 108 (1)*, the systems of control must be such as to secure that the credit union's business is so conducted and its records so kept that—
+
+(*a*) the information necessary to enable the officers, the credit union and the auditor to discharge their functions is sufficiently accurate, and is available with sufficient regularity and with sufficient promptness for those purposes, and
+
+F344[(*b*) the information obtained by or furnished to the Bank is sufficiently accurate for the purposes for which it is obtained or furnished and is available as and when required by the Bank.]
+
+(3) Every credit union shall establish and maintain a system to ensure the safe custody of all documents of title belonging to the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F344: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 97, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E90: Previous affecting provision: subs. (2)(b) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 74, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 110. Accounting principles.
+
+**110.**—(1) Subject to *subsection (2)*, the amounts to be included in the accounts of a credit union in respect of items shown shall be determined in accordance with the following principles—
+
+(*a*) the credit union shall be presumed to be carrying on business as a going concern;
+
+(*b*) accounting policies shall be applied consistently from one financial year to the next;
+
+(*c*) the amount of any item in the accounts shall be determined on a prudent basis and in particular—
+
+(i) only surpluses realised at the balance sheet date shall be included in the income and expenditure account, and
+
+(ii) all liabilities and losses which have arisen or are likely to arise in respect of the financial year to which the accounts relate, or a previous financial year, shall be taken into account, including those liabilities and losses which only become apparent between the balance sheet date and the date on which the accounts are signed in pursuance of *section 111*;
+
+F345[(*d*) all income and charges relating to the financial year to which the accounts relate shall be taken into account without regard to the date of receipt or payment;
+
+(*e*) in determining the aggregate amount of any item the amount of each individual asset or liability that falls to be taken into account shall be determined separately; and
+
+(*f*) in determining how amounts are presented within items in the income and expenditure account and balance sheet, the directors of a credit union shall have regard to the substance of the reported transaction or arrangement, in accordance with generally accepted accounting principles or practice.]
+
+(2) If it appears to the directors of a credit union that there are special reasons for departing from any of the principles specified in *subsection (1)*, they may so depart, but particulars of the departure, the reasons for it and its effect on the balance sheet and income and expenditure account shall be stated in a note to the accounts, for the financial year concerned, of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F345: Substituted and inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 98, S.I. No. 393 of 2013.
+
+### 111. Annual accounts.
+
+**111.**—(1) The directors of a credit union shall prepare or cause to be prepared, with respect to each financial year—
+
+(*a*) an income and expenditure account giving a true and fair view of the credit union's income and expenditure for that year,
+
+(*b*) a balance sheet giving a true and fair view of the state of its affairs as at the end of that year, and
+
+(*c*) any statement required by the body of accountants (referred to in *section 114 (1)(a)*) of which the auditor is a member to be included with the annual accounts so that the annual accounts together with the statement or statements give such a true and fair view as is referred to in *paragraph (a)* or, as the case may be, *paragraph (b)*,
+
+and each of these shall be in such form and shall contain such particulars F346[as the Bank may prescribe].
+
+(2) Unless the F347[Bank] otherwise allows, for each financial year, the income and expenditure account, the balance sheet and the statement or statements referred to in *subsection (1)(c)* shall, where applicable, include corresponding particulars for the preceding financial year.
+
+(3) The annual accounts shall also contain such supplementary information as is required by or under this Act.
+
+(4) A credit union shall not publish, for any financial year, any income and expenditure account, balance sheet or statement unless—
+
+(*a*) it has been previously audited by the auditor last appointed to audit the annual accounts of the credit union, and
+
+(*b*) it incorporates a report by the auditor stating whether in his opinion it complies with *paragraph (a)* or *paragraph (b)* of *subsection (1)*, whichever is applicable in that case, and
+
+F348[(*c*) it has been signed by the manager of the credit union and by a member of the board of directors acting on behalf of the board.]
+
+F349[(5) If, in relation to any income and expenditure account or balance sheet of a credit union for a financial year, a member of the board of directors fails to take all reasonable steps to secure compliance with the provision of *subsection (1)* which is applicable in that case, the member shall be guilty of an offence and liable on summary conviction to a class C fine unless the member proves that there were reasonable grounds for the member to believe that a competent and reliable person was charged with the duty of seeing that the relevant provision was complied with, and was in a position to discharge that duty.]
+
+(6) The accounts prepared with respect to a credit union’s financial year under this section together with the notes to them are referred to in this Act as the “annual accounts”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F346: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 99, S.I. No. 393 of 2013.
+>
+> F347: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 75, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F348: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 57, S.I. No. 57 of 2024.
+>
+> F349: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 101, S.I. No. 393 of 2013. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E91: Previous affecting provision: subs. (4)(c) substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 100, S.I. No. 393 of 2013; substituted (8.04.2024) as per F-note above.
+>
+> E92: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 75, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; further amended as per F-note above.
+
+### 112. Balance sheet to be available to members.
+
+**112.**—(1) Every credit union shall keep available for inspection by its members at all reasonable times—
+
+(*a*) a copy of the latest audited balance sheet of the credit union; and
+
+(*b*) a copy of the auditor's report on that balance sheet.
+
+(2) Every credit union shall cause to be displayed at all times in a conspicuous position at its registered office a notice informing members of the availability of the documents referred to in *subsection (1)*.
+
+(3) A credit union which fails to comply with the preceding provisions of this section shall be guilty of an offence.
+
+### 113. Obligation to appoint auditors.
+
+**113.**—(1) At each annual general meeting a credit union shall, by a majority vote of the members present and voting, elect an auditor to hold office from the conclusion of that meeting until the next annual general meeting.
+
+(2) Notwithstanding any agreement between the credit union and an auditor, and without prejudice to any rights of the auditor in relation to his removal under this Act, a credit union may by resolution at a general meeting remove an auditor before the term of his office expires and may elect in his place a person—
+
+(*a*) who has been duly nominated for election;
+
+(*b*) who is qualified under this Act to be an auditor of a credit union; and
+
+(*c*) of whose nomination due notice has been given to the members of the credit union and the F350[Bank].
+
+(3) The first auditor of a credit union may be appointed by the directors at any time before the first annual general meeting; but no person shall be so appointed unless he is qualified for election as an auditor of a credit union.
+
+(4) Where the directors fail to exercise their power under *subsection (3)*, the first auditor may be elected by a majority vote of the members present and voting at a general meeting of the credit union and thereupon the power of the directors under *subsection (3)* shall cease.
+
+(5) Where, at an annual general meeting, no auditor is elected, the F350[Bank] may appoint a person who is qualified under this Act to be an auditor of a credit union to fill the vacancy and the remuneration and expenses of an auditor so appointed shall be paid out of the funds of the credit union.
+
+(6) A credit union shall—
+
+(*a*) within one week of the F350[Bank]’s powers under *subsection (5)* becoming exercisable, give the F350[Bank] notice of that fact; and
+
+(*b*) where a resolution removing an auditor is passed, give notice of that fact to the F350[Bank] in such form as may be required by the F350[Bank] within 14 days of the meeting at which the resolution removing the auditor was passed.
+
+(7) The directors of a credit union may fill any casual vacancy in the office of auditor with a person who is qualified to be elected an auditor of a credit union but, while any such vacancy continues, the surviving or continuing auditor or auditors, if any, may act.
+
+(8) The election of a firm by the name of the firm to be the auditor of a credit union shall be deemed to be an election of those persons who from time to time during the period of appointment are the partners in that firm as from time to time constituted and are qualified to be auditors of a credit union.
+
+(9) Where the F350[Bank] is of the opinion that it would not be in the interest of the orderly and proper regulation of the business of a credit union or in its members' interests, F350[it] may by notice in writing order the credit union not to elect or re-elect to the office of auditor, or the directors not to fill a casual vacancy in that office with, a named person.
+
+(10) Where the F350[Bank] makes an order under *subsection (9)*, the credit union may appeal against the order to the Court but, subject to any direction or decision of the Court, the credit union shall comply with the order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F350: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 76, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 114. Qualification for appointment as auditor.
+
+**114.**—F351[(1) A person shall not be qualified for election as auditor of a credit union unless the person is a statutory auditor within the meaning of section 2 of the Companies Act 2014.]
+
+(2) None of the following persons shall be qualified for election as auditor of a credit union—
+
+(*a*) a person who is or, at any time during the period of three years preceding the meeting at which the election is to be made, has been an officer F352[...] of the credit union;
+
+F353[(*b*) a parent, spouse or civil partner, brother, sister or child of an officer of the credit union; or]
+
+(*c*) a person who is a partner of, or in the employment of, or who employs, an officer F354[...] of the credit union.
+
+(3) Any election made by a credit union in contravention of *subsection (1)* or *subsection (2)* shall not be an effective election for the purposes of this Act.
+
+(4) A person shall not act as auditor of a credit union at a time when he is disqualified under this Act or the Companies Acts for election or appointment to that office and, if an auditor of a credit union becomes so disqualified during his term of office, he shall—
+
+(*a*) thereupon vacate his office; and
+
+(*b*) give immediate notice in writing to the credit union and to the F355[Bank] that he has vacated his office by reason of the disqualification.
+
+(5) A person who contravenes *subsection (4)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F351: Substituted (21.09.2018) by *Companies (Statutory Audits) Act 2018* (22/2018), s. 72, S.I. No. 366 of 2018.
+>
+> F352: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 103, S.I. No. 393 of 2013.
+>
+> F353: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 104, S.I. No. 393 of 2013.
+>
+> F354: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 105, S.I. No. 393 of 2013.
+>
+> F355: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 77, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> **Editorial Notes:**
+>
+> E93: Previous affecting provision: subs. (1) substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 102, S.I. No. 584 of 2015; substituted as per F-note above.
+>
+> E94: Previous affecting provision: subs. (2)(b) amended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 24, S.I. No. 648 of 2010; substituted as per F-note above.
+>
+> E95: Previous affecting provision: subs. (1) amended (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 2, S.I. No. 455 of 2004; substituted as per F-note above.
+
+### 115. Eligibility of auditor for re-election.
+
+**115.**—(1) A person who was elected (or appointed) to audit the annual accounts of a credit union for a financial year and who continues to be qualified under this Act to be an auditor of a credit union shall be eligible for re-election (or election) as auditor of the credit union for the following financial year unless—
+
+(*a*) he has given to the credit union notice in writing of his unwillingness to be re-elected (or elected); or
+
+(*b*) he is ineligible for election as auditor of the credit union for that financial year; or
+
+(*c*) he has ceased to act as auditor of the credit union by reason of incapacity; or
+
+(*d*) the F356[Bank] has made an order under *section 113 (9)* prohibiting his election or re-election as auditor of the credit union.
+
+(2) For the purposes of *subsection (1)*, a person is ineligible for election as auditor of a credit union for a particular financial year if, at the date of the general meeting at which an auditor would be elected for that financial year, he is, by virtue of *section 114 (2)*, disqualified for election in relation to that credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F356: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 78, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 116. Removal of auditor by Registrar.
+
+F357[**116.**— (1) Where the Bank considers it necessary in the interest—
+
+(*a*) of the members or creditors of a credit union, or
+
+(*b*) of the orderly and proper regulation of the business of a credit union,
+
+the Bank may remove from office the auditor of the credit union.
+
+(2) Any auditor who has been removed from office under *subsection (1)* may apply to the Court for an order setting aside the removal.
+
+(3) On an application under *subsection (2)*, the Court may make—
+
+(*a*) an order setting aside the removal,
+
+(*b*) an order confirming the removal, or
+
+(*c*) such other order as may appear to the Court to be necessary.
+
+(4) The Bank may apply to the Court for, and the Court may grant, an order confirming the removal.
+
+(5) The Court may by order revoke or vary an order made by it under this section.
+
+(6) If, in a case where an application has been made to the Court under this section, the Court is satisfied, because of the nature or circumstances of the case or otherwise in the interests of justice, that it is desirable, the whole or any part of any proceedings under that provision may be heard otherwise than in public.
+
+(7) Unless an order has been made by the Court in respect of a removal, the Bank may at any time revoke the removal.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F357: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 32, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E96: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 79, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 117. Resolutions relating to appointment and removal of auditors.
+
+**117.**—(1) Subject to *subsection (2)*, a resolution at a general meeting of a credit union—
+
+(*a*) nominating for election as auditor a person other than a retiring auditor,
+
+(*b*) providing that a retiring auditor shall not be nominated for election,
+
+(*c*) removing an auditor before the expiration of his term of office, or
+
+(*d*) nominating for election as auditor a retiring auditor who was appointed by the directors to fill a casual vacancy,
+
+shall not be effective unless notice of the intention to move it has been given to the credit union and to the F358[Bank] not less than 28 days before the meeting at which it is to be moved.
+
+(2) Where, after notice of the intention to move such a resolution has been given to the credit union, a general meeting of the credit union is called for a date less than 28 days after the notice has been given, the notice, although not given within the time required by *subsection (1)* shall be deemed to have been properly given for the purpose of that subsection.
+
+(3) Subject to *subsection (4)*, a credit union shall give its members notice of any such intended resolution at the same time and in the same manner as it gives notice of the meeting or, if that is not practicable, it shall give them notice, the period of which has been approved by the F358[Bank], of the intended resolution by advertisement in at least two appropriate newspapers, within the meaning of *section 80 (5)(a)*, published in the State and circulating in the area in which the credit union’s registered office is situated.
+
+(4) A notice under *subsection (3)* shall not be given within 7 days of the date of the receipt of notice of the intended resolution under *subsection (1)*.
+
+(5) On receipt of notice of an intended resolution under *subsection (1)*, the credit union shall forthwith—
+
+(*a*) if the resolution is a resolution mentioned in *paragraph (a)*, *paragraph (b)* or *paragraph (d)* of that subsection, send a copy thereof to the retiring auditor;
+
+(*b*) if the resolution is a resolution mentioned in *paragraph (c)* of that subsection, send a copy thereof to the auditor proposed to be removed.
+
+(6) Where notice is given of such an intended resolution as is mentioned in any of *paragraphs (a), (b)* and *(c)* of *subsection (1)* and the retiring auditor or the auditor proposed to be removed, as the case may be, makes in relation to it representations in writing to the credit union (not exceeding a reasonable length) and requests their notification to the members of the credit union, the credit union shall, subject to *subsection (8)*, (unless the representations are received by it too late for it to do so)—
+
+(*a*) in any notice of the intended resolution given to members of the credit union, state the fact of the representations having been made; and
+
+(*b*) send a copy of the representations to every member of the credit union to whom notice of the meeting is sent (whether before or after the credit union receives the representations).
+
+(7) Subject to *subsection (8)*, and whether or not copies of any representations made by him have been sent as mentioned in *subsection (6)*, the auditor concerned may require that, without prejudice to his right to be heard orally, the representations made by him shall be read out at the meeting at which the intended resolution is to be moved.
+
+(8) *Subsections (6)* and *(7)* shall not apply if, on the application either of the credit union or of any other person who claims to be aggrieved, the F358[Bank] is satisfied that compliance with the subsections would diminish substantially public confidence in the credit union or that the rights conferred by it are being, or are likely to be, abused in order to secure needless publicity for defamatory matter.
+
+(9) An auditor of a credit union who has been removed shall be entitled—
+
+(*a*) to attend the annual general meeting of the credit union at which, but for his removal, his term of office as auditor of the credit union would have expired;
+
+(*b*) to attend the general meeting of the credit union at which it is proposed to fill the vacancy occasioned by his removal;
+
+(*c*) to receive all notices of, and other communications relating to, any such meeting which a member of the credit union entitled to notice of the meeting is entitled to receive; and
+
+(*d*) to be heard at any such meeting or any part of the business of the meeting which concerns him as a former auditor of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F358: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 80, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 118. Resignation of auditors.
+
+**118.**—(1) An auditor of a credit union may, by a notice in writing which complies with *subsection (3)*, is served on the credit union and states his intention to do so, resign from the office of auditor to the credit union, and the resignation shall take effect on such date as may be specified in the notice, being not less than 28 days after the notice is served.
+
+(2) A copy of a notice under *subsection (1)* shall be sent by the auditor to the F359[Bank] at the same time as it is served on the credit union.
+
+(3) A notice under *subsection (1)* shall contain either—
+
+(*a*) a statement to the effect that there are no circumstances connected with the resignation to which it relates that the auditor concerned considers should be brought to the notice of the members or creditors of the credit union; or
+
+(*b*) a statement of any such circumstances.
+
+(4) Subject to *subsection (5)*, where a notice under *subsection (1)* is served on a credit union and the notice contains a statement falling within *subsection (3)(b)*, the credit union shall, not later than 14 days after the date of that service, send a copy of the notice to every person who is entitled to notice of a general meeting of the credit union.
+
+(5) Copies of a notice served on a credit union under *subsection (1)* need not be sent to the persons specified in *subsection (4)* if, on the application of the credit union concerned or any other person who claims to be aggrieved, the F359[Bank] is satisfied that the sending of the notice would be likely to diminish substantially public confidence in the credit union or that the rights conferred by this section are being abused to secure needless publicity for defamatory matter.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F359: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 81, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 119. Requisitioning of general meeting and circulation of statement by resigning auditor.
+
+**119.**—(1) A notice served on a credit union under *section 118* by a resigning auditor which contains a statement falling within *subsection (3)(b)* of that section may also requisition the convening, by the directors of the credit union, of a general meeting of the credit union for the purpose of receiving and considering such account and explanation of the circumstances connected with his resignation from the office of auditor to the credit union as the auditor may wish to give to the meeting.
+
+(2) Where an auditor makes a requisition under *subsection (1)*, the directors of the credit union shall, within 14 days of the service on the credit union of the notice containing the requisition, proceed duly to convene a general meeting of the credit union for a day not more than 28 days after the service of that notice.
+
+(3) Subject to *subsection (4)*, where—
+
+(*a*) a notice served on a credit union under *section 118* contains a statement falling within *subsection (3)(b)* of that section, and
+
+(*b*) the auditor concerned requests the credit union to circulate to its members—
+
+(i) before the general meeting at which, apart from the notice, his term of office would expire, or
+
+(ii) before any general meeting at which it is proposed to fill the vacancy caused by his resignation or convened pursuant to a requisition under *subsection (1)*,
+
+a further statement in writing prepared by the auditor of the circumstances connected with the resignation that the auditor considers should be brought to the notice of members,
+
+the credit union shall in any notice of the meeting given to its members state the fact of the statement having been made, and send a copy of the statement to every person who is entitled to notice of a general meeting of the credit union.
+
+(4) *Subsection (3)* need not be complied with by the credit union concerned if, on the application of either the credit union or of any other person who claims to be aggrieved, the F360[Bank] is satisfied that the sending of the statement would be likely to diminish substantially public confidence in the credit union or that the rights conferred by this section are being abused to secure needless publicity for defamatory matter.
+
+(5) A person who has resigned from the office of auditor of a credit union shall be permitted—
+
+(*a*) to attend any such meeting of the credit union as is mentioned in *subsection (3)(b)*; and
+
+(*b*) to be heard at any such meeting on any part of the business which concerns him as a former auditor of the credit union;
+
+and the credit union shall send to such a person all notices of, and other communications relating to, any such meeting that a member of the credit union who is entitled to notice of the meeting is entitled to receive.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F360: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 82, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 120. Auditor’s report, right of access and to be heard.
+
+**120.**—(1) The auditor of a credit union shall make a report to the members on the accounts examined by him, and on the annual accounts which are to be laid before the credit union at the annual general meeting during his tenure of office; and the auditor's report—
+
+(*a*) shall be read at the annual general meeting of the credit union, and
+
+(*b*) shall be open to inspection by any member of the credit union.
+
+F361[(2) Before signing the auditor’s report, the auditor of a credit union shall meet with and report to the directors of the credit union and the members of the board oversight committee on the annual accounts and any matter relating to those accounts which the auditor considers should be drawn to their attention.]
+
+(3) The auditor’s report shall state whether—
+
+(*a*) he has obtained all the information and explanations which, to the best of his knowledge and belief, were necessary for the purposes of his audit;
+
+(*b*) he is of the opinion that proper accounting records have been kept by the credit union;
+
+(*c*) the credit union’s annual accounts are in agreement with the accounting records of the credit union;
+
+(*d*) he is of the opinion that the credit union’s annual accounts have been properly prepared so as to conform with any requirements made by or under this Act and give a true and fair view—
+
+(i) in the case of the balance sheet, of the credit union’s state of affairs as at the end of the financial year;
+
+(ii) in the case of the income and expenditure account, of the income and expenditure of the credit union for the financial year; and
+
+(*e*) the credit union’s annual accounts contain any statement required under *section 111 (1)(c)* to be included by the body of accountants concerned.
+
+(4) Without prejudice to *subsection (3)*, where the report of the auditor relates to any accounts other than the income and expenditure account for the financial year in respect of which he is appointed, that report shall state whether those accounts give a true and fair view of any matter to which they relate.
+
+(5) It shall be the duty of the auditor in preparing his report under this section to carry out such investigations as will enable him to form an opinion as to whether—
+
+(*a*) the credit union has kept proper accounting records, and
+
+(*b*) the credit union has maintained satisfactory systems of control of its business and records,
+
+and where the auditor is of the opinion that the credit union has failed to keep proper accounting records or to maintain a satisfactory system of control of its business or records, he shall so state in his report.
+
+(6) Every auditor of a credit union shall have a right of access at all reasonable times to the books and documents of the credit union, and shall be entitled to require from the officers F362[...] of the credit union such information and explanations that are within their knowledge or can be procured by them, as he thinks necessary for the performance of his duty as auditor.
+
+(7) The auditor of a credit union shall be entitled—
+
+(*a*) to attend any general meeting of the credit union; and
+
+(*b*) to be heard at any general meeting on any part of the business which concerns him as auditor of the credit union;
+
+and the credit union shall give its auditor the same notice of, and any other communications relating to, a general meeting that a member of the credit union is entitled to receive.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F361: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 106, S.I. No. 393 of 2013.
+>
+> F362: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 107, S.I. No. 393 of 2013.
+>
+> F363: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 58, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C29: Prospective affecting provision: subs. (2) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 58, not commenced as of date of revision.
+>
+> (2) Before signing the auditor’s report, the auditor of a credit union shall meet with and report to the directors of the credit union F363[and, in the case of a credit union other than a corporate credit union, the members of the board oversight committee,] on the annual accounts and any matter relating to those accounts which the auditor considers should be drawn to their attention.
+
+### 121. Regulations relating to accounts and audit.
+
+F364[**121.**—Regulations under *section 182* may make provision with respect to the annual accounts of credit unions and to their audit and, in particular, any such regulations may do all or any of the following:
+
+(*a*) add to the documents to be comprised in the annual accounts of a credit union prepared with respect to a financial year under *section 111*;
+
+(*b*) make further provision as to the matters to be included in any document comprised in a credit union’s annual accounts;
+
+(*c*) make further provision in relation to accounting principles and rules for the preparation of annual accounts including, if the Minister considers it necessary or desirable, adherence to particular formats of presentation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F364: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 83, S.I. No. 160 of 2003.
+
+### 122. Auditor’s duty to report to Registrar.
+
+**122.**—(1) If at any time the auditor of a credit union—
+
+(*a*) has reason to believe that there exist circumstances which are likely to affect materially the credit union’s ability to fulfil its obligations to its members or meet any of its obligations under this Act,
+
+(*b*) has reason to believe that there are material defects in the accounting records, systems of control of the business and records of the credit union,
+
+(*c*) has reason to believe that there are material inaccuracies in or omissions from any returns made by the credit union to the F365[Bank],
+
+(*d*) proposes to qualify any report which he is to provide under this Act,
+
+(*e*) has reason to believe that there are material defects in the system for ensuring the safe custody of all documents of title, deeds and accounting records of the credit union, or
+
+(*f*) considers that the board of directors have failed to respond to any recommendations made by him,
+
+the auditor shall forthwith report the matter to the F365[Bank] in writing.
+
+(2) The auditor of a credit union shall, if requested by the F365[Bank], furnish to the F365[Bank] a report stating whether in his opinion and to the best of his knowledge the credit union has or has not complied with such requirements under this Act as the F365[Bank] may have requested the auditor to furnish a report on.
+
+(3) The auditor of a credit union shall send to it, forthwith, a copy of any report made by him to the F365[Bank] under *subsection (1)* or *subsection (2)*.
+
+(4) Whenever the F365[Bank] is of the opinion that the exercise of F365[its] functions under this Act or the protection of the interests of the members of a credit union so requires, F365[it] may require the auditor of the credit union to supply F365[it] with such information as F365[it] may specify in relation to the audit of the business of the credit union.
+
+(5) The F365[Bank] may require that, in supplying information for the purpose of *subsection (4)*, the auditor shall act independently of the credit union.
+
+(6) No duty to which the auditor of a credit union may be subject shall be regarded as contravened, and no liability to the credit union, its members, creditors or other interested parties shall attach to the auditor, by reason of his compliance with any obligation imposed on him by or under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F365: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 84, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> **Editorial Notes:**
+>
+> E97: Section designated a prescribed enactment for the purposes of *Central Bank Act 1997* (8/1997), s. 27B(4)(j), as inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 26, S.I. No. 455 of 2004.
+
+### 123. Penalty for false statements etc. to auditors.
+
+**123.**—(1) An officer F366[...] of a credit union who knowingly or recklessly makes a statement to which this section applies that is misleading, false or deceptive in a material particular shall be guilty of an offence.
+
+(2) This section applies to any statement made to the auditor of a credit union (whether orally or in writing) which conveys, or purports to convey, any information or explanation which he requires under this Act, or is entitled so to require, as auditor of the credit union.
+
+(3) An officer F366[...] of a credit union who fails to provide to the auditor of the credit union, within five days of the making of the relevant requirement (not including a Saturday, Sunday or public holiday) any information or explanation that the auditor requires as auditor of the credit union and that is within the knowledge of, or can be procured by, the officer F366[...] shall be guilty of an offence.
+
+(4) In a prosecution for an offence under this section it shall be a defence for the defendant to show—
+
+(*a*) that it was not reasonably possible for him to comply with the requirement under *subsection (3)* to which the offence relates within the time specified in that subsection; and
+
+(*b*) that he complied with that requirement as soon as was reasonably possible after the expiry of that time.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F366: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 items 108, 109, S.I. No. 393 of 2013.
+
+### 124. Annual returns.
+
+**124.**—(1) Subject to *subsection (3)*, every credit union shall, not later than 31st March in each year, send to the F367[Bank] a return relating to its affairs for the most recent complete financial year, together with the annual accounts and a copy of the report of the auditor on the credit union's annual accounts for that financial year.
+
+(2) A return required by this section shall contain, with respect to the financial year to which it relates—
+
+(*a*) the income and expenditure account prepared in accordance with *section 111 (1)(a)*;
+
+(*b*) the balance sheet as at the end of the financial year prepared in accordance with *section 111 (1)(b)*; and
+
+(*c*) any statement prepared in accordance with *section 111 (1)(c)*.
+
+(3) If the F367[Bank] is of the opinion that special circumstances exist, F367[it] may by notice in writing allow a credit union to make a return under this section up to a date other than the end of a financial year and, in that case—
+
+(*a*) *subsection (2)* shall apply subject to such modifications as may be specified in the notice;
+
+(*b*) the return shall be sent to the F367[Bank] not later than three months after the date to which it is to be made up; and
+
+(*c*) the period of the next return (if any) under this section shall begin immediately after that date and end at the end of the financial year in which that date falls;
+
+and, for the purposes of *subsection (2)*, such a return as is referred to in *paragraph (c)* shall be regarded as made in respect of the financial year referred to in that paragraph.
+
+(4) The last return under this section by a credit union which is being dissolved by an instrument of dissolution under *section 135* shall be made up to the date of the instrument of dissolution.
+
+(5) Every credit union shall supply free of charge to every member of the credit union who applies for it a copy of the latest return of the credit union under this section and shall so supply with every such copy a copy of the report of the auditor on the accounts and balance sheet contained in the return.
+
+(6) A credit union which fails to comply with this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F367: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 85, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+## PART VIIIDisputes and Complaints — PART VIII — Disputes and Complaints
+
+### 125. Settlement of disputes.
+
+**125.**—(1) Save as otherwise required by or under this Act, this section applies to any dispute between a credit union and—
+
+(*a*) a member of the credit union F368[in their capacity as a member];
+
+(*b*) any former member of the credit union (in that capacity) who ceased to be a member of the credit union not more than six months previously;
+
+(*c*) any person claiming through any such member or former member (in their capacity as such); or
+
+(*d*) any person claiming under the rules of the credit union;
+
+and references in *subsections (2)* to *(5)* to a dispute shall be construed accordingly.
+
+(2) F368[Subject to *subsection (5)*,] if a credit union's rules give directions as to the manner in which disputes are to be decided, every dispute to which the credit union is party shall be decided in that manner.
+
+(3) F369[...]
+
+(4) A decision made on a dispute as F368[mentioned in *subsection (2)*] shall be binding and conclusive on all parties without appeal; and—
+
+(*a*) the decision shall not be removable into any court of law or restrainable by injunction; and
+
+(*b*) application for the enforcement of the decision may be made to the District Court.
+
+(5) Where the rules of a credit union contain no direction as to disputes, or where no decision is made on a dispute within 50 days after application to the credit union for a reference under its rules, any such person as is mentioned in *paragraphs (a)* to *(d)* of *subsection (1)* who is a party to the dispute may apply to the District Court which may hear and determine the matter in dispute.
+
+(6) The jurisdiction of the District Court under this section shall be exercised by a Judge of the District Court for the district in which the registered office of the credit union is situated.
+
+(7) Except in so far as the rules of a credit union expressly otherwise provide, any reference in any such rules to a dispute is a reference to a dispute to which this section applies.
+
+(8) Nothing in this section (or in *section 126*) shall prevent—
+
+(*a*) a credit union, or
+
+(*b*) a member of a credit union, or
+
+(*c*) any person claiming through or under a member of a credit union,
+
+from obtaining in the ordinary course of law any remedy to which the credit union, member or person is entitled in respect of any contract, excluding that constituted by the rules of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F368: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 59(a), (b), (d), S.I. No. 57 of 2024.
+>
+> F369: Deleted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 59(c), S.I. No. 57 of 2024.
+>
+> F370: Inserted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 3, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C30: Prospective affecting provision: subs. (9) inserted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 3, not commenced as of date of revision. Note construction of reference to “Financial Services Ombudsman” (1.01.2018) by *Financial Services and Pensions Ombudsman Act 2017* (22/2017), s. 29(3), S.I. No. 524 of 2018.
+>
+> F370[(9) Nothing in this Part or in a credit union’s rules prevents the Financial Services Ombudsman from investigating and adjudicating a complaint made against a credit union under Part VIIB of the Central Bank Act 1942 about the provision of, or the failure to provide, a financial service, so long as the complaint—
+>
+> (*a*) falls within the jurisdiction of that Ombudsman under that Part, and
+>
+> (*b*) does not relate to a matter that involves only the governance of the credit union.]
+>
+> **Editorial Notes:**
+>
+> E98: Previous affecting provision: subs. (3) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 86, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; subsection deleted (22.02.2024) as per F-note above.
+
+### 126. Arbitration and procedural matters.
+
+**126.**—(1) In this section—
+
+(*a*) “dispute” means such a dispute as is referred to in *subsection (1)* of *section 125*; and
+
+(*b*) “the Arbitration Acts” means the Arbitration Acts, 1954 and 1980.
+
+(2) Where the registered rules of a credit union provide that a dispute shall be determined by arbitration, the Arbitration Acts shall, subject to any necessary modifications, apply to that dispute and—
+
+(*a*) the rules of the credit union shall, for the purposes of this subsection, be deemed to be an arbitration agreement within the meaning of the Arbitration Acts;
+
+(*b*) arbitrators shall be named and selected in accordance with the rules of the credit union or, if the rules make no such provision, one arbitrator shall be named by the board of directors and one by the member, former member or other person who is a party to the dispute with the credit union; and
+
+(*c*) an arbitrator shall not be beneficially interested, whether directly or indirectly, in the funds of the credit union.
+
+(3) F371[...]
+
+(4) F371[...]
+
+(5) F371[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F371: Deleted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 60, S.I. No. 57 of 2024.
+>
+> F372: Inserted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C31: Prospective affecting provision: subss. (6) and (7) inserted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 4, not commenced as of date of revision. Note construction of reference to “Financial Services Ombudsman” (1.01.2018) by *Financial Services and Pensions Ombudsman Act 2017* (22/2017), s. 29(3), S.I. No. 524 of 2018.
+>
+> (6) The Financial Services Ombudsman may, if satisfied that the circumstances make it appropriate to do so, deal with a dispute that would, but for *subsection (3)*, be a complaint in respect of which that Ombudsman would have jurisdiction under Part VIIB of the Central Bank Act 1942.
+>
+> (7) If the Financial Services Ombudsman elects to deal with a dispute as provided by *subsection (6)*, *subsection (3)* ceases to apply to the dispute.
+>
+> **Editorial Notes:**
+>
+> E99: Previous affecting provision: subss. (3), (4), (5) substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 87, S.I. No. 160 of 2003, subject to saver in s. 36 and sch. 3 para. 26.; deleted as per F-note above.
+>
+> E100: Provision for the continuance in force of certain existing regulations made by Minister for Enterprise, Trade and Employment under section, capable of being continued in force by the Minister for Finance, made (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 36 and sch. 3 para. 27(2), S.I. No. 160 of 2003. It appears however that no such regulations exist.
+
+### 127. Investigation of complaints.
+
+**127.**—F373[(1) The Minister may, by order notified in *Iris Oifigiúil*, require a credit union to establish or join in establishing a scheme or schemes for the investigation of complaints against the credit union in relation to a pre- scribed matter of complaint.
+
+(1A) The Minister may make an order under *subsection (1)* only after consulting the Bank, the Advisory Committee and such other bodies as appear to the Minister to have expertise or knowledge about credit unions.]
+
+(2) Without prejudice to the generality of *subsection (1)*, F374[an order] under this section may make provisions in relation to any one or more of the following—
+
+(*a*) the establishment and administration of a scheme;
+
+(*b*) the manner of appointment of an independent adjudicator to conduct investigations;
+
+(*c*) the matters to be subject to investigation under the scheme;
+
+(*d*) the grounds on which a complaint must be based;
+
+(*e*) the powers of, and procedure to be followed in the conduct of investigations by, the adjudicator;
+
+(*f*) the circumstances in and the extent to which determinations are binding;
+
+(*g*) the procedures for the making of complaints;
+
+(*h*) the publication of the adjudicator's findings; and
+
+(*i*) the approval of the scheme by the F374[Bank].
+
+(3) The reference of a complaint under a scheme established under this section shall not affect the rights of a member to have such a dispute as is referred to in *subsection (1)* of *section 125* determined as provided for by the rules of the credit union, but any such dispute that relates to a matter covered by such a scheme may, if both the complainant and the credit union agree, instead of being so determined be determined under such a scheme, such determination being binding on both parties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F373: Substituted and inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 88, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3.
+>
+> F374: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 88, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F375: Deleted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 5, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C32: Prospective affecting provision: section deleted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 14 item 5, not commenced as of date of revision.
+>
+> **127.**—F375[...]
+>
+> **Editorial Notes:**
+>
+> E101: Provision for the continuance in force of certain existing regulations made by Minister for Enterprise, Trade and Employment under section, capable of being continued in force by the Minister for Finance, made (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 36 and sch. 3 para. 27(2), S.I. No. 160 of 2003. It appears however that no such regulations exist.
+
+## PART IXAmalgamations and Transfers of Engagements — PART IX — Amalgamations and Transfers of Engagements
+
+### 128. Amalgamation of credit unions.
+
+**128.**—(1) Subject to compliance with *section 130*, any two or more credit unions may amalgamate by forming a credit union as their successor.
+
+(2) In order to form a credit union as their successor the amalgamating credit unions shall—
+
+(*a*) agree on the rules for the regulation of their successor which comply with the requirements of the *First Schedule*;
+
+(*b*) each approve the terms of the amalgamation by a special resolution, which also approves the rules of their successor; and
+
+(*c*) jointly make an application under *section 131* to the F376[Bank] for the confirmation of the amalgamation and send to the F376[Bank] three copies of the rules of their successor, each copy signed by the secretary of each of the credit unions.
+
+(3) If the F376[Bank]—
+
+(*a*) confirms the amalgamation under *section 131*, and
+
+(*b*) is satisfied as respects the matters as to which F376[it] must be satisfied before F376[it] registers the rules of a credit union,
+
+the F376[Bank] shall register the rules of the successor credit union and issue to it a certificate of confirmation of F376[its] approval of the amalgamation and specify a date (“the specified date”) as from which the registration takes effect.
+
+(4) On the specified date, all the property, rights and liabilities of each of the credit unions whose amalgamation was confirmed by the F376[Bank] shall by virtue of this subsection stand transferred to and vested in the credit union so registered as their successor.
+
+(5) On the specified date, each of the credit unions to which the successor succeeds shall be dissolved by virtue of this subsection; but the transfer effected by *subsection (4)* shall be deemed to have been effected immediately before the dissolution.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F376: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 89, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 129. Transfer of engagements between credit unions.
+
+**129.**—(1) Subject to compliance with *section 130*, a credit union may transfer its engagements to another credit union which, in accordance with this section, undertakes to fulfil the engagements.
+
+(2) A credit union, in order—
+
+(*a*) to transfer its engagements, or
+
+(*b*) to undertake to fulfil the engagements of another credit union,
+
+shall resolve to do so by a special resolution or, if the F377[Bank] consents in either case in circumstances where F377[it] considers it expedient to do so, by a resolution of the board of directors.
+
+(3) The transfer shall be recorded in an instrument of transfer of engagements.
+
+(4) A transfer of engagements between credit unions shall be of no effect unless—
+
+(*a*) the transfer is confirmed by the F377[Bank] under *section 131*; and
+
+(*b*) a certificate of confirmation of the transfer is issued in respect of the transfer under *subsection (5)(b)*.
+
+(5) Where the F377[Bank] confirms a transfer of engagements between credit unions, F377[it] shall—
+
+(*a*) register a copy of the instrument of transfer of engagements; and
+
+(*b*) issue to the credit union taking the transfer a certificate of confirmation of the transfer;
+
+and, on such date as is specified in the certificate, all the property, rights and liabilities of the credit union transferring its engagements shall, by virtue of this subsection, stand transferred to and vested in the credit union taking the transfer.
+
+(6) Where its engagements have been transferred, a credit union shall, by virtue of this subsection, be dissolved on the date specified in the certificate issued under *subsection (5)(b)*; but the transfer effected by *subsection (5)* shall be deemed to have been effected immediately before the dissolution.
+
+F378[(7) (*a*) Where the engagements of a credit union (in this subsection referred to as the "transferor credit union") are transferred to another credit union (in this subsection referred to as the "transferee credit union"), the common bond of the transferee credit union is taken to include the common bond of the transferor credit union and the rules of the transferee credit union are amended accordingly, on and from the date on which the transfer takes effect in accordance with this section.
+
+(*b*) *Section 14* shall not apply to the amendment of the rules of the transferee credit union effected by *paragraph (a)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F377: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 90, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F378: Inserted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 110(3) and sch. 2 part 3 item 3, S.I. No. 548 of 2011.
+>
+> F379: Substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 61, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C33: Prospective affecting provision: subs. (1) substituted by *Credit Union (Amendment) Act 2023* (34/2023), s. 61, not commenced as of date of revision.
+>
+> F379[(1) Subject to compliance with *section 130*—
+>
+> (*a*) a credit union, other than a corporate credit union, may transfer its engagements to another credit union which, in accordance with this section, undertakes to fulfil the engagements, and
+>
+> (*b*) a corporate credit union may transfer its engagements to another corporate credit union which, in accordance with this section, undertakes to fulfil the engagements.]
+
+### 130. Statement for members relating to proposed amalgamation or transfer of engagements.
+
+**130.**— F380[(1) A credit union which proposes—
+
+(*a*) to amalgamate with one or more other credit unions,
+
+(*b*) to transfer its engagements to another credit union, or
+
+(*c*) to undertake to fulfil the engagements of another credit union,
+
+shall, subject to *subsection (2)*, cause to be sent to every member entitled to notice of a general meeting of the credit union and to the auditor of the credit union a statement, in such form as the Bank may specify in writing, showing the matters specified in *subsection (3)*, together with a copy of the annual accounts for each credit union concerned for the most recent financial year.]
+
+(2) If, in the case of a credit union proposing to transfer its engagements or to fulfil the engagements of another credit union, the F381[Bank] has consented under *section 129* to the credit union proceeding by a resolution of its board of directors, *subsection (1)* shall not apply but, within the seven days following the meeting of the board at which that resolution is passed, the secretary of the credit union shall send to every member and to the auditor of the credit union—
+
+F382[(*a*) a notice of the resolution passed by the board of directors,
+
+(*b*) a statement, in such form as the Bank may prescribe, showing the matters specified in *subsection (3)*, and
+
+(*c*) a copy of the annual accounts for each credit union concerned for the most recent financial year.]
+
+(3) The matters referred to in *subsection (1)* are—
+
+(*a*) the financial position of each credit union concerned (as appearing from the most recent unaudited monthly statements);
+
+(*b*) details of any payments proposed to be made to members of each credit union concerned in consideration of the proposed amalgamation or transfer;
+
+(*c*) any changes to be made, in connection with the amalgamation or transfer, in the terms governing outstanding loans;
+
+(*d*) the details of the arrangements proposed in relation to employees of each credit union; and
+
+(*e*) any other matter which the F381[Bank] may require in the case of a particular amalgamation or transfer.
+
+(4) No statement shall be sent to the members of a credit union under F383[*subsection (1)* or *(2)*] unless its contents have been approved by the F381[Bank] but, subject to that, such a statement shall be so sent that every member referred to in that subsection receives it not later than the date on which F381[it] receives notice of any resolution which—
+
+(*a*) is in favour of the proposal concerned; and
+
+(*b*) is to be moved at a general meeting of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F380: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 110, S.I. No. 393 of 2013.
+>
+> F381: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 91, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F382: Substituted and inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 111, S.I. No. 393 of 2013.
+>
+> F383: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 112, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E102: Previous affecting provision: subss. (1) and (2)(b) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 91, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-notes above.
+
+### 131. Confirmation of amalgamation or transfer.
+
+**131.**—(1) An application for confirmation by the F384[Bank] of an amalgamation of credit unions or a transfer of engagements shall be made in such manner as the F384[Bank] may specify.
+
+(2) A credit union which makes, or joins in making, an application for confirmation of an amalgamation or a transfer shall, within seven days after the date of the application, cause to be published, in at least two daily newspapers published in the State and circulating in the areas in which the registered offices of the credit unions concerned in the proposal are situated, a notice giving particulars of the application and indicating that representations relating to it (whether for or against) may be made in writing to the F384[Bank] within such period (being not less than 21 days after the date of publication of the notice) as may be specified in the notice.
+
+(3) A notice under *subsection (2)* shall be in such form as the F384[Bank] may specify and shall indicate that a copy of the statement prepared under *section 130* may be obtained on demand at the registered office of the credit union during the ordinary office hours of the credit union.
+
+(4) Representations relating to an application under *subsection (1)* may be made to the F384[Bank] within the period specified in the relevant notice published under *subsection (2)*.
+
+(5) The F384[Bank] shall allow the credit union or credit unions seeking confirmation of an amalgamation or transfer an opportunity to comment on any representations made before the expiry of such period as the F384[Bank] may specify in a notice to the credit union or credit unions.
+
+(6) The F384[Bank], having considered any application, representation and comment under this section, shall either—
+
+(*a*) confirm the amalgamation or transfer, subject to such conditions (if any) as F384[it] considers appropriate; or
+
+(*b*) subject to *subsection (7)*, refuse to confirm the amalgamation or transfer if F384[it] is satisfied that—
+
+(i) confirmation would be contrary to the public interest or the F384[Bank]'s functions as respects credit unions; or
+
+(ii) in the case of an amalgamation or in the case of a transfer which was the subject of a special resolution, some information material to the members' decision about the amalgamation or transfer was not made available to all the members eligible to vote; or
+
+(iii) some relevant requirement of this Act (including, in particular, *section 6*) or the rules of any of the credit unions participating in the amalgamation or transfer was not fulfilled or not fulfilled as regards that credit union.
+
+(7) The F384[Bank] shall not be precluded from confirming an amalgamation or transfer by virtue only of the non-fulfilment of some relevant requirement of this Act or the rules of a credit union if it appears to the F384[Bank] that it could not have been material to the members' decision about the amalgamation or transfer and the F384[Bank] is satisfied that the failure may be disregarded for the purposes of this section.
+
+(8) A failure to comply with a requirement of this Part or any rules of a credit union shall not invalidate an amalgamation or transfer, but a credit union which and any person who fails to comply with a requirement of this Part shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F384: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 92, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 132. Distribution to members.
+
+**132.**—(1) Where the terms of an amalgamation of, or transfer of engagements between, credit unions include provision for the distribution among any of the members of the participating credit unions of part of the funds of one or more of those credit unions in consideration of the amalgamation or transfer, then in the case of each of the credit unions concerned in the amalgamation or transfer—
+
+(*a*) that provision must be approved by the special resolution referred to in *section 128 (2)(b)* or, as the case may be, *section 129 (2)*; or
+
+(*b*) the F385[Bank] must give consent as mentioned in *subsection (2)*.
+
+(2) Where, in the case of a credit union proposing to transfer its engagements or to fulfil the engagements of another credit union—
+
+(*a*) the terms of the proposed transfer of engagements include provision for a distribution of funds as in *subsection (1)*, and
+
+(*b*) the F385[Bank] is considering under *section 129 (2)* whether to give consent to the credit union proceeding by way of a resolution of its board of directors, rather than by special resolution,
+
+the F385[Bank] shall not give that consent unless F385[it] is satisfied that the distribution proposed to be made by each credit union concerned is, in all the circumstances, justified and reasonable.
+
+(3) Any reference in this section to a distribution of funds, with reference to members, includes a reference to a distribution by means of a special rate of interest available to members for a limited period.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F385: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 93, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+## PART XWinding up — PART X — Winding up
+
+### 133. Petition of Registrar to wind up.
+
+**133.**—(1) The F386[Bank] may petition the High Court for an order to wind up a credit union if it appears to F386[it] that—
+
+(*a*) the credit union is unable to pay sums due and payable to its members or its creditors;
+
+(*b*) there has been, in relation to the credit union, a failure to comply with any provision made by, or under or by virtue of, this Act and the failure has continued after notice from the F386[Bank] to the credit union to remedy it; or
+
+(*c*) less than one half of the members of the credit union have a common bond;
+
+or in any other case where it appears to the F386[Bank] that the winding up of the credit union is in the public interest or is just and equitable, having regard to the interests of all the members of the credit union.
+
+(2) If a petition under this section is presented within one year after the credit union concerned has changed its name, the former name, as well as the existing name shall appear on all notices and advertisements relating to the winding up.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F386: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 94, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 134. Winding up under the Companies Acts.
+
+**134.**—(1) Subject to this section, a credit union may be dissolved by being wound up in accordance with the Companies Acts and, accordingly, those Acts shall, subject to any necessary modifications, apply as if a credit union were a company limited by shares.
+
+(2) In the application of the Companies Acts to the winding up of a credit union—
+
+(*a*) any reference in those Acts to the registrar of companies shall be construed as a reference to the F387[Bank];
+
+(*b*) any reference in those Acts to the articles of association shall be construed as a reference to the rules of a credit union; and
+
+(*c*) any reference in those Acts to a special resolution shall be construed as a reference to a special resolution within the meaning of this Act.
+
+(3) Without prejudice to *subsection (2)*, where a credit union is being wound up as mentioned in *subsection (1)*, the F387[Bank] shall be entitled to appear and be heard in any proceedings relating to the winding up.
+
+(4) Where a credit union is wound up as mentioned in *subsection (1)*, the liability of a present or past member of the credit union for payment of the debts and liabilities of the credit union, the expenses of winding up and the adjustment of the rights of contributories among themselves shall be qualified as follows—
+
+(*a*) no person who ceased to be a member not less than one year before the beginning of the winding up shall be liable to contribute;
+
+(*b*) no person shall be liable to contribute in respect of any debt or liability contracted F388[after the person ceased to be a member];
+
+(*c*) no person who is not a member shall be liable to contribute unless it appears to the Court that the contributions of the existing members are insufficient to satisfy the just demands on the credit union;
+
+(*d*) no contribution shall be required from any person exceeding the amount, if any, unpaid on the shares F388[in respect of which the person is liable] as a past or present member; and
+
+(*e*) in the case of a share which has been withdrawn, a person shall be taken to have ceased to be a member in respect of that share F388[as from the date of the person’s notice] under *section 32 (1)* of intention to withdraw or, as the case may be, the approval of the withdrawal under *section 32 (3)(b)*.
+
+F389[(5) Where a credit union is wound up by virtue of this section, sections 293 to 299 of the Companies Act 1963 and sections 202 to 204 of the Companies Act 1990, in so far as they relate to the liabilities of directors and officers (within the meaning of those Acts) of a company being wound up, shall apply with any necessary modifications in relation to the officers of the credit union to whom *paragraph (a)* of the definition of "officer" in *section 2* applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F387: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 95, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F388: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 62, S.I. No. 57 of 2024.
+>
+> F389: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 113, S.I. No. 393 of 2013.
+
+### 135. Winding up by instrument of dissolution.
+
+**135.**—(1) Subject to the provisions of this section, if by a special resolution a credit union resolves that it be wound up by an instrument of dissolution, the credit union shall be dissolved by such an instrument, bearing the signatures of the secretary and a member of the board of directors.
+
+(2) An instrument of dissolution shall set forth—
+
+(*a*) the liabilities and assets of the credit union in detail;
+
+(*b*) the number of the members and the nature of their respective interests in the credit union;
+
+(*c*) the claims of creditors, if any, and the provision to be made for their payment; and
+
+(*d*) the intended appropriation or division of any surplus or balance, as recommended by the board of directors and approved by the F390[Bank];
+
+and in *paragraph (d)* “surplus or balance” means surplus or balance of funds and property of the credit union left after members have been paid in full.
+
+(3) Alterations to the instrument of dissolution may be made by the consent of not less than three quarters of the members of the credit union present and voting at a special general meeting called for the purpose, which consent shall be testified by the signatures of the secretary and a member of the board of directors to the alteration.
+
+(4) The instrument of dissolution shall be sent to the F390[Bank] accompanied by a statutory declaration made by the secretary and three other members of the credit union stating that all relevant provisions of this Act have been complied with.
+
+(5) After the F390[Bank] has received such a final return as is referred to in *section 124 (4)*, the instrument of dissolution and any amendments to it shall be registered in like manner as an amendment of the rules of the credit union and shall be binding upon all the members of the credit union.
+
+(6) The F390[Bank] shall cause notice of the dissolution to be advertised at the expense of the credit union in *Iris Oifigiúil* and in any other manner which the F390[Bank] considers necessary for bringing the notice to the attention of persons affected by the dissolution and, subject to *subsection (7)*, from the date of the advertisement or, if it is later, the date when the certificate required by *section 136 (1)* is lodged with the F390[Bank], the credit union shall be dissolved.
+
+F391[(7) A credit union shall not be dissolved as mentioned in *subsection (6)* if—
+
+(*a*) within one month of the date of the advertisement referred to in that subsection, a member or other person interested in or having any claim on the funds of the credit union commences proceedings in the Court to set aside the dissolution of the credit union,
+
+(*b*) not less than 7 days before those proceedings are commenced, the person intending to institute them serves notice of intention on the Bank, and
+
+(*c*) the dissolution of the credit union is set aside accordingly,
+
+and, within 7 days from the making of any order setting the dissolution aside, the credit union shall send notice of the order to the Bank.]
+
+F392[(8) If the date of the meeting at which the special resolution referred to in *subsection (1)* is passed falls within one year after the credit union has changed its name, the former name, as well as the existing name, shall appear on all notices and advertisements relating to its dissolution under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F390: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 96, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F391: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 114, S.I. No. 393 of 2013.
+>
+> F392: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 115, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E103: Previous affecting provision: subs. (7) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 96, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 136. Restriction on dissolution or cancellation of registration.
+
+**136.**—F393[(1) Until a certificate under this section has been lodged with the Bank—
+
+(*a*) a credit union shall not be dissolved in accordance with *section 135(6)*, and
+
+(*b*) the Bank shall not cancel the registration of a credit union under *section 97 (2)(b)*.]
+
+(2) A certificate under this section is one which—
+
+F395[(*a*) is signed by the secretary or other officer (other than a person who is an officer solely by virtue of being a voluntary assistant) of the dissolving or transferor credit union approved by the Bank; and]
+
+(*b*) certifies that all property vested in the credit union has been duly conveyed or transferred to the persons entitled.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F393: Substituted (8.04.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 63, S.I. No. 57 of 2024.
+>
+> F394: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 97, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F395: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 116, S.I. No. 393 of 2013.
+
+## PART XIAppointment of Credit Union Administrator — PART XI — Appointment of Credit Union Administrator
+
+### 137. Administration orders.
+
+**137.**—(1) The F396[Bank] may present a petition to the Court for an order (in this Part referred to as an “administration order”) for—
+
+(*a*) the administration of a credit union; and
+
+(*b*) the appointment of a person nominated by the F396[Bank] to be the administrator of the credit union;
+
+and may do so notwithstanding that there is or may be another remedy or course of action available to F396[it] in relation to that credit union.
+
+(2) On a petition under *subsection (1)*, the Court may make an administration order if it considers—
+
+(*a*) that the manner in which the business of the credit union is being or has been conducted has failed to make adequate provision for its debts, including contingent and prospective liabilities, or
+
+(*b*) that the business of the credit union is being or has been so conducted as to jeopardise or prejudice the rights and interests of its members, or
+
+(*c*) that the credit union has become unable to comply with the requirements of this Act in a material respect,
+
+and that the making of an administration order would assist in the re-establishment, in the public interest, of the proper and orderly regulation and conduct of the credit union.
+
+(3) The administrator of a credit union—
+
+(*a*) shall take over the management of the business of the credit union; and
+
+(*b*) shall carry on that business as a going concern with a view to placing it on a sound financial footing; and
+
+(*c*) shall have in relation to the credit union all such powers as may be necessary for or incidental to his functions in relation to the credit union, including the sole authority over, and direction of, all officers F397[...] of the credit union.
+
+(4) The administration of a credit union under this Part shall be deemed to have commenced at the time of the presentation of the petition for the administration order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F396: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 98, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F397: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 117, S.I. No. 393 of 2013.
+
+### 138. Provisional administrators.
+
+**138.**—(1) At any time after the presentation of a petition under *section 137 (1)* (and before the making of an administration order), the Court may—
+
+(*a*) upon the *ex parte* application of the F398[Bank], and
+
+(*b*) upon *prima facie* proof by affidavit of one or more of the matters mentioned in *paragraphs (a)* to *(c)* of *subsection (2)* of *section 137*, and
+
+(*c*) without advertisement or notice to any person,
+
+appoint such person as may be nominated by the F398[Bank] to act as provisional administrator of the credit union pending the hearing of the petition.
+
+(2) Unless the context otherwise requires, any reference in the following provisions of this Part to an administrator of a credit union includes a reference to a provisional administrator appointed under this section.
+
+(3) If—
+
+(*a*) an appointment of a provisional administrator of a credit union is made under this section, but
+
+(*b*) on the hearing of the petition no administration order is made,
+
+the appointment of the provisional administrator shall be annulled; but the annulment shall not invalidate any act done or other function performed by him as provisional administrator.
+
+(4) Where the appointment of a person as provisional administrator of a credit union is annulled under *subsection (3)*, he shall nevertheless be entitled to be paid out of the assets of the credit union all the costs, charges and expenses properly incurred by him as provisional administrator, including such sum as the Court may fix for his remuneration, and may retain the amount of those costs, charges and expenses out of the assets of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F398: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 99, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 139. Effect of administration.
+
+**139.**—(1) For as long as the administrator of a credit union stands appointed under this Act, the following provisions shall have effect—
+
+(*a*) no proceedings or resolution for the winding up of the credit union shall be commenced or passed without the prior sanction of the Court;
+
+(*b*) no receiver over any part of the property of the credit union shall be appointed without the prior sanction of the Court;
+
+(*c*) no attachment, sequestration, distress or execution shall be put into force against any part of the property of the credit union without the prior sanction of the Court;
+
+(*d*) the words “under administration” shall be used in relation to the name of the credit union in all circumstances in which the words “in liquidation” would fall to be used in relation to the name of a company being wound up by the Court;
+
+(*e*) the functions of the administrator may be performed by him with the assistance of persons appointed or employed by him for that purpose;
+
+(*f*) all functions which are vested in the directors or in a principal Committee of the credit union (whether by virtue of its rules or by law or otherwise) shall be performable only by the administrator and all such powers of the credit union as are exercisable by a general meeting of the credit union shall be exercisable only by the administrator and that exercise shall be subject to the sanction of the Court;
+
+(*g*) the administrator may apply to the Court to determine any question arising in the course of the exercise of the administration of the credit union;
+
+(*h*) the administrator may resign or, upon the application of the F399[Bank], may be removed by the Court for cause shown; and
+
+(*i*) a vacancy in the office of administrator may be filled by the Court upon the nomination of the F399[Bank].
+
+(2) Except as provided by this section, the business of a credit union in respect of which an administrator has been appointed shall be continued without interruption as a going concern, and no contract (including a contract of employment or service), policy, transaction, bank account or bank mandate, right, title, claim, debt, proceeding or obligation of the credit union or right, claim or proceeding against the credit union shall be avoided, cancelled, stayed or otherwise affected by reason only of the appointment of the administrator or the existence of an administration order.
+
+(3) Where an administrator is appointed in respect of a credit union—
+
+(*a*) the costs and expenses of the performance of his functions and his remuneration shall be paid, and
+
+(*b*) he shall be entitled to be indemnified in respect of the costs, expenses and remuneration referred to in *paragraph (a)* and to retain them from time to time,
+
+out of the revenue of the business of the credit union or the proceeds of the realisation of the assets (including investments) or other funds available to the credit union.
+
+(4) On the application of the administrator of a credit union, the Court shall by order fix the amount, or the basis of calculation of the amount, of the costs, expenses and remuneration of the administrator; and such an order may extend to a period prior to the date of the making of the order.
+
+(5) Within six weeks of each anniversary of his appointment (or at such other times as the Court may direct) the administrator of a credit union shall deliver to the Court a summary of the sums received or retained by him in each year for the costs and expenses of the administration and for his remuneration.
+
+(6) Within four weeks of his appointment, and within four weeks of each anniversary of his appointment, the administrator of a credit union, in exercise of the power of the board of directors under *section 79 (1)*, shall convene a special general meeting of the credit union at which he shall report to the members on his work and plans as administrator of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F399: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 100, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 140. Termination of administration.
+
+**140.**—(1) The administration of a credit union and the appointment of an administrator pursuant to an administration order shall terminate—
+
+(*a*) upon the making of an order for the winding up of the credit union concerned; or
+
+(*b*) upon the making of an order under *Part XII* for the appointment of an examiner to the credit union concerned; or
+
+(*c*) upon the making of an order by the Court, in accordance with *subsection (2)*, for the termination of the administration.
+
+(2) The Court shall not make an order for termination of the administration of a credit union except—
+
+(*a*) on the application of the F400[Bank] or of the administrator with the approval of the F400[Bank]; and
+
+(*b*) in circumstances where the Court considers—
+
+(i) that, if the administration is terminated, the business of the credit union will not be so conducted as to jeopardise or prejudice the rights and interests of its members and will continue to be in all other respects on a sound financial footing; and
+
+(ii) that it would be unjust and inequitable not to make the order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F400: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 101, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 141. Procedural matters.
+
+**141.**—(1) The whole or any part of any proceedings under this Part, or an appeal in relation thereto, may be heard otherwise than in public if the Court considers that the interests of the credit union concerned or its members or creditors or the public interest so requires.
+
+(2) If at any time no rules of court in respect of the making of an administration order under this Part are in force, then, subject to *section 138 (4)* and *subsections (3)* and *(4)*, the provisions of Order 74 of the Rules of the Superior Courts (S.I. No. 15 of 1986), or any rules of court for the time being amending or replacing that Order, shall apply with any necessary modifications.
+
+(3) Unless the Court otherwise directs—
+
+(*a*) a petition under *section 137 (1)* shall be served only on the credit union; and
+
+(*b*) on the hearing of such a petition, only the F401[Bank] and the credit union concerned shall be entitled to be heard.
+
+(4) In so far as the provisions of any such Order or other rules of court as are referred to in *subsection (2)* relate, in the case of an official liquidator, to the giving of security, the filing of accounts, the lodging of monies to a bank account or the fixing of the remuneration of the liquidator, those provisions shall not apply in the case of an administrator.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F401: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 102, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+## PART XIIAppointment of Examiner — PART XII — Appointment of Examiner
+
+### 142. Power of the Court to appoint examiner.
+
+**142.**—(1) Where, on application by petition under this section, it appears to the Court that—
+
+(*a*) a credit union is or is likely to be unable to pay its debts, and
+
+(*b*) no resolution subsists for the winding up of the credit union, and
+
+(*c*) no order has been made for the winding up of the credit union,
+
+it may, subject to *subsection (2)*, appoint an examiner to the credit union for the purpose of examining the state of the credit union's affairs and performing such duties in relation to the credit union as may be imposed by or under this Part; and in the following provisions of this Part, “examiner” means an examiner appointed under this section.
+
+(2) The Court shall not make an order under this section unless it is satisfied that there is a reasonable prospect of the survival of the credit union as a going concern.
+
+(3) A petition under this section may be presented by the F402[Bank] or, with the consent of the F402[Bank], by all or any of the following, together or separately—
+
+(*a*) the credit union;
+
+(*b*) the directors of the credit union;
+
+(*c*) a qualifying group of members of the credit union; and
+
+(*d*) a creditor, or contingent or prospective creditor (including an employee), of the credit union;
+
+and, at the hearing of a petition under this section, every such creditor as is mentioned in *paragraph (d)* shall have a right to be heard (whether or not he is a party to the presentation of the petition).
+
+(4) For the purpose of *paragraph (c)* of *subsection (3)*, a group of members of a credit union is a qualifying group if—
+
+(*a*) each of them has been a member throughout the period of 12 months ending on the date of the application for the consent of the F402[Bank] under that subsection; and
+
+(*b*) they together number at least 30 or, if it is less, at least ten per cent. of the membership of the credit union on that date.
+
+(5) For the purposes of this section, a credit union is unable to pay its debts if—
+
+(*a*) it is unable to pay its debts as they fall due; or
+
+(*b*) the value of its assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
+
+(6) In deciding whether to make an order under this section, the Court may also have regard to whether the credit union has sought from its creditors significant extensions of time for the payment of its debts, from which it could reasonably be inferred that the credit union was likely to be unable to pay its debts.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F402: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 103, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 143. Petition for protection of the Court.
+
+**143.**—(1) A petition presented under *section 142*—
+
+(*a*) shall nominate a person to be appointed as examiner;
+
+(*b*) subject to *section 146*, shall be accompanied by a report under *section 145*, prepared by a person (in this Part referred to as “the independent accountant”) who is either the auditor of the credit union concerned or a person who is qualified to be an auditor of a credit union; and
+
+(*c*) shall be accompanied by a consent signed by the person nominated to be examiner.
+
+(2) The Court shall not give a hearing to a petition under *section 142* which is presented by a contingent or prospective creditor until such security for costs has been given as the Court considers reasonable.
+
+(3) The Court shall not give a hearing to a petition under *section 142* if a receiver stands appointed to the credit union the subject of the petition and that receiver has stood so appointed for a continuous period of at least three days prior to the presentation of the petition, excluding a Saturday, Sunday or public holiday.
+
+(4) The Court may decline to hear a petition under *section 142* or, as the case may be, may decline to continue hearing such a petition if it appears to the Court that, in the preparation or presentation of the petition or in the preparation of the report of the independent accountant, the petitioner or independent accountant—
+
+(*a*) has failed to disclose any information available to him which is material to the exercise by the Court of its powers under this Part; or
+
+(*b*) has in any other way failed to exercise the utmost good faith.
+
+(5) On hearing a petition under *section 142*, the Court may dismiss it, or adjourn the hearing conditionally or unconditionally, or make any interim order or any other order it thinks fit.
+
+(6) Without prejudice to the generality of *subsection (5)*, an interim order under that subsection may restrict the exercise of any powers of the directors or of the credit union (whether by reference to the consent of the Court or otherwise).
+
+(7) On the making of an order under *subsection (5)*, the examiner or such other person as the Court may direct shall deliver an office copy of the order to the F403[Bank] for placing on the public file of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F403: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 104, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 144. Powers of the Circuit Court.
+
+**144.**—(1) Where it appears to the Court that the total liabilities of the credit union (taking into account its contingent and prospective liabilities) do not exceed £250,000, the Court may, after making such interim or other orders as it thinks fit, order that the matter be remitted to the Circuit Court.
+
+(2) Where an order is made by the Court under *subsection (1)*, the Circuit Court shall have full jurisdiction to exercise all the powers of the Court conferred by this Part in relation to the credit union and every reference to the Court in this Part shall be construed accordingly.
+
+(3) Where, in any proceedings under this Part which have been remitted to the Circuit Court by virtue of *subsection (1)*, it appears to the Circuit Court that the total liabilities of the credit union exceed £250,000, it shall, after making such interim orders as it thinks fit, make an order transferring the matter to the Court.
+
+(4) The jurisdiction of the Circuit Court under this section shall be exercised by the judge for the time being assigned to the circuit in which the registered office of the credit union is situated.
+
+### 145. The independent accountant's report.
+
+**145.**—(1) The report of the independent accountant referred to in *section 143 (1)(b)* shall comprise the following—
+
+(*a*) the names and permanent addresses of the officers of the credit union and, in so far as the independent accountant can establish, any person in accordance with whose directions or instructions the directors of the credit union are accustomed to act;
+
+(*b*) the names of any other bodies corporate of which the directors of the credit union are also directors;
+
+(*c*) a statement as to the affairs of the credit union showing, in so far as it is reasonably possible to do so, particulars of the credit union’s assets and liabilities (including contingent and prospective liabilities) as at the latest practicable date, the names and addresses of its creditors, the securities held by them respectively and the dates when the securities were respectively given;
+
+(*d*) whether in the opinion of the independent accountant any deficiency between the assets and the liabilities of the credit union has been satisfactorily accounted for or, if not, whether there is evidence of a substantial disappearance of property that is not adequately accounted for;
+
+(*e*) his opinion as to whether the credit union would have a reasonable prospect of survival as a going concern and a statement of the conditions which he feels are essential to ensure such survival, whether as regards the internal management and controls of the credit union or otherwise;
+
+(*f*) his opinion as to whether the formulation, acceptance and confirmation of proposals for a compromise or scheme of arrangement would offer a reasonable prospect of the survival of the credit union as a going concern;
+
+(*g*) whether, in his opinion, an attempt to keep the credit union in being would be likely to be more advantageous to the members as a whole and the creditors as a whole than a winding-up of the credit union;
+
+(*h*) recommendations as to the course he thinks should be taken in relation to the credit union including, if warranted, draft proposals for a compromise or scheme of arrangement;
+
+(*i*) his opinion as to whether the facts disclosed would warrant further inquiries with a view to proceedings under section 297 or section 297A of the Companies Act, 1963;
+
+(*j*) details of the extent of the funding required to keep the credit union in being during the period of protection and the sources of that funding;
+
+(*k*) his recommendations as to which debts incurred before the presentation of the petition should be paid;
+
+(*l*) his opinion as to whether the work of the examiner would be assisted by a direction of the Court in relation to the role or membership of any creditors' committee referred to in *section 160*; and
+
+(*m*) such other matters as he thinks relevant.
+
+(2) The independent accountant shall supply a copy of his report under this section to the credit union and to the F404[Bank] on the same day as his delivery of the report to the Court.
+
+(3) The independent accountant shall also supply a copy of his report under this section to any member or creditor of the credit union on written application, provided that that supply may, if the Court so directs, be subject to the omission of such parts of the report as the Court thinks fit.
+
+(4) The Court may, in particular, give a direction under *subsection (3)* if it considers that the inclusion of certain information in the copy of the report to be supplied under that subsection would be likely to prejudice the survival of the credit union as a going concern.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F404: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 105, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 146. Interim protection pending report.
+
+**146.**—(1) If a petition presented under *section 142* shows, and the Court is satisfied—
+
+(*a*) that, by reason of exceptional circumstances outside the control of the petitioner, the report of the independent accountant is not available in time to accompany the petition, and
+
+(*b*) that the petitioner could not reasonably have anticipated the circumstances referred to in *paragraph (a)*,
+
+and, accordingly, the Court is unable to consider the making of an order under that section, the Court may make an order under this section placing the credit union under the protection of the Court for such period, not exceeding ten days, as the Court thinks appropriate in order to allow for the submission of the independent accountant's report.
+
+(2) Where an order is made under this section it shall be the duty of the directors of the credit union to provide all reasonable assistance in the preparation of the report of the independent accountant and, in particular, to furnish the information specified in *paragraphs (a)* to *(c)* of *subsection (1)* of *section 145*.
+
+(3) Any person who fails to comply with *subsection (2)* shall be guilty of an offence.
+
+(4) If the report of the independent accountant is submitted to the Court before the expiry of the period of protection ordered under *subsection (1)*, the Court shall proceed to consider the petition together with the report as if they were presented in accordance with *section 143(1)*.
+
+(5) If the report of the independent accountant is not submitted to the Court before the expiry of the period of protection ordered under *subsection (1)*, then, at the expiry of that period, the credit union shall cease to be under the protection of the Court, but without prejudice to the presentation of a further petition under *section 142*.
+
+### 147. Effect of petition to appoint examiner on creditors and others.
+
+**147.**—(1) Subject to *section 146*, during the period beginning with the date of the presentation of a petition under *section 142* and (subject to *subsections (4)* and *(5)* of *section 157*) ending on the expiry of 70 days from that date or on the withdrawal or refusal of the petition, whichever first happens, the credit union shall be deemed to be under the protection of the Court.
+
+(2) For so long as a credit union is under the protection of the Court in a case under this Part, the following provisions shall have effect—
+
+(*a*) no proceedings for the winding up of the credit union may be commenced or resolution for winding up passed in relation to the credit union and any resolution so passed shall be of no effect;
+
+(*b*) any other proceedings in relation to the credit union may be commenced only with the leave of the Court and subject to such terms as the Court may impose;
+
+(*c*) on the application of the examiner, the Court may make such order as it thinks proper in relation to any existing proceedings, including an order to stay those proceedings;
+
+(*d*) no receiver shall be appointed over any part of the assets of the credit union and, if a receiver was appointed before the presentation of a petition under *section 142*, then, subject to *section 148*, he shall not be able to act;
+
+(*e*) no attachment, sequestration, distress or execution shall be put into force against the property of the credit union, except with the consent of the examiner;
+
+(*f*) where any claim against the credit union is secured by a charge, pledge, or other encumbrance of, on or affecting the whole or any part of the property of the credit union, no action may be taken to realise the whole or any part of that security, except with the consent of the examiner;
+
+(*g*) no steps may be taken to repossess goods in the credit union's possession under any hire-purchase agreement (within the meaning of *section 153*) except with the consent of the examiner;
+
+(*h*) where, under any enactment, rule of law or otherwise any person other than the credit union is liable to pay all or any part of the debts of the credit union—
+
+(i) no attachment, sequestration, distress or execution shall be put into force against the property of that person in respect of the debts of the credit union, and
+
+(ii) no proceedings of any sort may be commenced against that person in respect of the debts of the credit union;
+
+(*i*) no set-off between separate bank accounts of the credit union shall be effected, except with the consent of the examiner, and in this paragraph “bank account” includes an account with any person exempt by virtue of section 7 (4) of the Central Bank Act, 1971, from the requirement of holding a licence under section 9 of that Act.
+
+### 148. Effect on receiver or provisional liquidator of order appointing examiner.
+
+**148.**—(1) Where, at the time of the presentation of a petition under *section 142* with respect to a credit union, a receiver or provisional liquidator stands appointed to the whole or any part of the assets of that credit union, the Court may make such order as it thinks fit, including an order as to any or all of the following matters—
+
+(*a*) that the receiver or provisional liquidator shall cease to act as such from a date specified by the Court;
+
+(*b*) that, where a receiver stands appointed, he shall, from a date specified by the Court, act as such only in respect of certain assets specified by the Court;
+
+(*c*) that, where a provisional liquidator stands appointed, he be appointed as examiner;
+
+(*d*) directing the receiver or provisional liquidator to deliver all books and documents which relate to the assets of the credit union (or any part thereof) and are in his possession or control, to the examiner within a period to be specified by the Court;
+
+(*e*) directing the receiver or provisional liquidator to give the examiner full particulars of all his dealings with the assets of the credit union.
+
+(2) In deciding whether to make an order under *paragraph (a)* or *paragraph (b)* of *subsection (1)*, the Court shall have regard to whether there is a reasonable prospect of the survival of the credit union as a going concern.
+
+(3) Where the Court makes an order under *subsection (1)* it may, for the purpose of giving full effect to the order, include such conditions in the order and make such ancillary or other orders as it deems fit.
+
+(4) Where a petition is presented under *section 142* in respect of a credit union at a date subsequent to the presentation of a petition for the winding up of that credit union, but before a provisional liquidator has been appointed or an order made for its winding up, both petitions shall be heard together.
+
+### 149. Powers of an examiner.
+
+**149.**—(1) Any provision of this Act relating to the rights and powers of an auditor of a credit union and the supplying of information to or co-operation with such an auditor shall, with the necessary modifications, apply to an examiner.
+
+(2) Notwithstanding any provision of this Act relating to notice of general meetings, an examiner shall have power to convene, set the agenda for, and preside at meetings of the board of directors and general meetings of the credit union to which the examiner is appointed and to propose motions or resolutions and to give reports to any such meetings.
+
+(3) An examiner shall be entitled to reasonable notice of, to attend and be heard at, all meetings of the board of directors of a credit union and all general meetings of the credit union to which he is appointed.
+
+(4) For the purpose of *subsection (3)* “reasonable notice”, in relation to a meeting, shall be deemed to include a description of the business to be transacted at the meeting.
+
+(5) Where an examiner becomes aware of any actual or proposed act, omission, course of conduct, decision or contract, by or on behalf of the credit union to which he has been appointed, or by its officers, F405[...] members or creditors or by any other person in relation to the income, assets or liabilities of that credit union which, in his opinion, is or is likely to be to the detriment of the credit union, or any member or creditor of the credit union, he shall, subject to the rights of parties acquiring an interest in good faith and for value in the income, assets or liabilities, have full power to take whatever steps are necessary to halt, prevent or rectify the effects of the act, omission, course of conduct, decision or contract.
+
+(6) The examiner may apply to the Court to determine any question arising in the course of his office.
+
+(7) The examiner shall, if so directed by the Court, have power to ascertain and agree claims against the credit union to which he has been appointed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F405: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 118, S.I. No. 393 of 2013.
+
+### 150. Production of documents and evidence.
+
+**150.**—(1) It shall be the duty of all persons who are, or at any material time were, officers, members F406[...] or agents of a credit union to which an examiner has been appointed to produce to the examiner all books and documents of or relating to the credit union which are in their possession or power, to attend before him when required so to do and otherwise to give to him all assistance in connection with his functions which they are reasonably able to give.
+
+(2) If the examiner considers that a person other than one falling within *subsection (1)* is or may be in possession of any information concerning the affairs of the credit union the examiner may require that person to produce to him any books or documents in that person's possession or power relating to the credit union, to attend before him and otherwise to give him all assistance in connection with his functions which that person is reasonably able to give; and it shall be the duty of that person to comply with the requirement.
+
+(3) If the examiner has reasonable grounds for believing that a person who is, or at a material time was, an officer, member F407[...] or agent of a credit union maintains or has maintained a bank account of any description, whether alone or jointly with another person and whether in the State or elsewhere, into or out of which there has been paid—
+
+(*a*) any money which has resulted from or been used in the financing of any transaction, arrangement or agreement particulars of which have not been disclosed in the accounts of the credit union for any financial year as required by law; or
+
+(*b*) any money which has been in any way connected with any act or omission, or series of acts or omissions, which on the part of that officer, member F407[...] or agent constituted misconduct (whether fraudulent or not) towards the credit union or its members;
+
+the examiner may require the person concerned to produce to him all books and documents in his possession or under his control relating to that bank account; and in this subsection “bank account” includes an account with any person exempt by virtue of section 7 (4) of the Central Bank Act, 1971, from the requirement of holding a licence under section 9 of that Act.
+
+(4) An examiner may examine on oath, either by word of mouth or on written interrogatories, any person who is, or at a material time was, an officer, member F408[...] or agent of the credit union or any other such person as is mentioned in *subsection (2)* in relation to the affairs of the credit union and may—
+
+(*a*) administer an oath accordingly; and
+
+(*b*) reduce the answers of any such person to writing and require him to sign them.
+
+(5) If any such person as is referred to in *subsection (4)*—
+
+(*a*) refuses to produce to the examiner any book or document which it is his duty under this section to produce, or
+
+(*b*) refuses to attend before the examiner when required to do so, or
+
+(*c*) refuses to answer any question which is put to him by the examiner with respect to the affairs of the credit union,
+
+the examiner may certify the refusal under his hand to the Court, and the Court may thereupon enquire into the case and, after hearing any witnesses who may be produced against or on behalf of the alleged offender and any statement which may be offered in defence, may make any order or direction it thinks fit.
+
+(6) Without prejudice to the generality of *subsection (5)*, the Court may, after a hearing under that subsection, make a direction—
+
+(*a*) to the person concerned to attend or re-attend before the examiner or produce particular books or documents or answer particular questions put to him by the examiner; or
+
+(*b*) that the person concerned need not produce a particular book or document or answer a particular question put to him by the examiner.
+
+(7) Nothing in this section shall compel the production by a barrister or solicitor of any books or documents containing a privileged communication made by or to him in that capacity or the furnishing of information contained in a privileged communication so made.
+
+(8) In this section “agents”, in relation to a credit union, includes its bankers, accountants and solicitors, any person who is or has been an auditor of the credit union and its financial and other advisers.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F406: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 119, S.I. No. 393 of 2013.
+>
+> F407: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 120, S.I. No. 393 of 2013.
+>
+> F408: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 121, S.I. No. 393 of 2013.
+
+### 151. Further powers of the Court.
+
+**151.**—(1) Where it appears to the Court, on the application of the examiner, that, having regard to the matters referred to in *subsection (2)*, it is just and equitable to do so, it may make an order that all or any of the functions which are vested in or exercisable by the directors (whether by virtue of the rules of the credit union or by law or otherwise) shall be performable or exercisable only by the examiner.
+
+(2) The matters to which the Court is to have regard for the purpose of *subsection (1)* are—
+
+(*a*) that the affairs of the credit union are being conducted, or are likely to be conducted, in a manner which is calculated or likely to prejudice the interests of the credit union or of its members or of its creditors as a whole; or
+
+(*b*) that it is expedient, for the purpose of preserving the assets of the credit union or of safeguarding the interests of the credit union or of its members or of its creditors as a whole, that the carrying on of the business of the credit union by, or the exercise of the powers of, its directors should be curtailed or regulated in any particular respect; or
+
+(*c*) that the credit union, or its directors, have resolved that an order under *subsection (1)* should be sought; or
+
+(*d*) any other matter in relation to the credit union the Court thinks relevant.
+
+(3) Where the Court makes an order under *subsection (1)*, it may, for the purpose of giving full effect to the order, include such conditions in the order and make such ancillary or other orders as it sees fit.
+
+(4) Without prejudice to the generality of *subsections (1)* and *(3)*, an order under this section may provide that the examiner shall have all or any of the powers that he would have if he were a liquidator appointed by the Court in respect of the credit union and, where such an order so provides, the Court shall have all the powers that it would have if it had made a winding up order and appointed a liquidator in respect of the credit union concerned.
+
+### 152. Incurring of certain liabilities by examiner.
+
+**152.**—(1) Any liabilities which are incurred by the credit union during the protection period and which fall within *subsection (2)* shall be treated as expenses properly incurred, for the purpose of *section 168*, by the examiner.
+
+(2) The liabilities referred to in *subsection (1)* are those certified by the examiner at the time they are incurred, to have been incurred in circumstances where, in the opinion of the examiner, the survival of the credit union as a going concern during the protection period would otherwise be seriously prejudiced.
+
+(3) In this section “protection period” means the period, beginning with the appointment of an examiner, during which the credit union is under the protection of the Court.
+
+### 153. Power to deal with charged property etc.
+
+**153.**—(1) Where, on an application by the examiner, the Court is satisfied that there is a reasonable prospect of the survival of the credit union as a going concern and that the disposal (with or without other assets) of—
+
+(*a*) any property of the credit union subject to a security, or
+
+(*b*) any goods in the possession of the credit union under a hire-purchase agreement,
+
+would be likely to further that prospect, the Court may by order authorise the examiner to dispose of the property as if it were not subject to the security or dispose of the goods as if all rights of the owner under the hire-purchase agreement were vested in the credit union.
+
+(2) It shall be a condition of an order under *subsection (1)* that—
+
+(*a*) the net proceeds of the disposal, and
+
+(*b*) where those proceeds are less than such amount as may be determined by the Court to be the net amount which would be realised on a sale of the property or goods in the open market by a willing vendor, such sums as may be required to make good the deficiency,
+
+shall be applied towards discharging the sums secured by the security or payable under the hire-purchase agreement.
+
+(3) Where a condition imposed in pursuance of *subsection (2)* relates to two or more securities, that condition requires the net proceeds of the disposal and, where *paragraph (b)* of that subsection applies, the sums mentioned in that paragraph to be applied towards discharging the sums secured by those securities in the order of their priorities.
+
+(4) An office copy of an order under *subsection (1)* in relation to a security shall, within seven days after the making of the order, be delivered by the examiner to the F409[Bank].
+
+F410[(5) If the examiner without reasonable excuse fails to comply with *subsection (4)*, the examiner shall be guilty of an offence and liable to a class C fine.]
+
+(6) References in this section to a hire-purchase agreement include a conditional sale agreement, a retention of title agreement and an agreement for the bailment of goods which is capable of subsisting for more than three months.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F409: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 106, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F410: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 122, S.I. No. 393 of 2013. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+
+### 154. Notification of appointment of examiner.
+
+**154.**—(1) Where a petition is presented under *section 142*, notice of the petition shall, within three days after its presentation, be placed on the public file of the credit union.
+
+(2) An examiner shall, within the time limits specified in *subsection (3)*, cause notice of his appointment and the date thereof to be published in *Iris Oifigiúil* and in at least two daily newspapers circulating in the district in which the registered office of the credit union is situated.
+
+(3) The time limits referred to in *subsection (2)* are—
+
+(*a*) twenty-one days after the examiner's appointment in the case of *Iris Oifigiúil*, and
+
+(*b*) three days after his appointment in the other case referred to in that subsection.
+
+(4) An examiner shall, within three days after his appointment, deliver to the F411[Bank] a copy of the order appointing him.
+
+(5) Where a credit union is, by virtue of *section 146* or *section 147*, under the protection of the Court, every invoice, order for goods or letter issued by or on behalf of the credit union, being a document on or in which the name of the credit union appears, shall contain the statement “under the protection of the Court”.
+
+(6) An examiner who fails to comply with the provisions of this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F411: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 107, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 155. General provisions as to examiners.
+
+**155.**—(1) An examiner may resign or, on cause shown, be removed by the Court.
+
+(2) If for any reason a vacancy occurs in the office of examiner, the Court, on an application made by the F412[Bank] or by the person on whose petition the examiner was appointed, may by order fill the vacancy.
+
+(3) An examiner shall be described by the style of “the examiner” of the particular credit union in respect of which he is appointed and not by his individual name.
+
+(4) The acts of an examiner shall be valid notwithstanding any defects that may afterwards be discovered in his appointment or qualification.
+
+(5) An examiner shall be personally liable on any contract entered into by him in the performance of his functions, whether the contract is entered into by him in the name of the credit union or in his own name as examiner or otherwise, unless the contract provides that he is not to be personally liable on the contract, and he shall be entitled in respect of that liability to indemnity out of the assets of the credit union.
+
+(6) Nothing in *subsection (5)* shall be taken as limiting any right to indemnity which an examiner would have apart from that subsection, or as limiting his liability on contracts entered into without authority or as conferring any right to indemnity in respect of that liability.
+
+(7) Where an examiner has been appointed to a credit union,—
+
+(*a*) the credit union,
+
+(*b*) the F412[Bank], or
+
+(*c*) a member or creditor of the credit union,
+
+may apply to the Court for the determination of any question arising out of the performance or otherwise by the examiner of his functions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F412: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 108, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 156. Hearing relating to missing property etc.
+
+**156.**—(1) Where, in relation to a credit union which is under the protection of the Court, there is evidence, whether contained in the report of the independent accountant or otherwise, of a substantial disappearance of property that is not adequately accounted for, or of other serious irregularities in relation to the affairs of the credit union, the Court shall, as soon as practicable, hold a hearing to consider that evidence.
+
+(2) If, in advance of a hearing under *subsection (1)*, the Court so requests, the examiner shall prepare a report on the issues raised by the evidence in question.
+
+(3) Where the examiner prepares a report as mentioned in *subsection (2)*, the examiner shall supply a copy of his report to the credit union and the F413[Bank] on the same day as his delivery of the report to the Court.
+
+(4) The examiner shall also supply a copy of a report prepared by him as mentioned in *subsection (2)*—
+
+(*a*) to every person who is mentioned in the report, and
+
+(*b*) on written application, to any member or creditor of the credit union,
+
+provided that any supply may, if the Court so directs, be subject to the omission of such parts of the report as the Court thinks fit.
+
+(5) The Court may, in particular, give a direction under *subsection (4)* if it considers that the inclusion of certain information in the copy of the report in question would be likely to prejudice the survival of the credit union as a going concern.
+
+(6) The following parties shall be entitled to appear and to be heard at a hearing under *subsection (1)*—
+
+(*a*) the examiner;
+
+(*b*) the F413[Bank];
+
+(*c*) the credit union;
+
+(*d*) any member or creditor of the credit union, and
+
+(*e*) any person who is referred to in the report.
+
+(7) Following a hearing under *subsection (1)*, the Court may make such order or orders as it deems fit.
+
+(8) An office copy of any order made by the Court under this section shall be delivered by the examiner, or by such other person as the Court may direct, to the F413[Bank] for placing on the public file of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F413: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 109, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 157. Duties of examiner.
+
+**157.**—(1) As soon as practicable after he is appointed, the examiner shall formulate proposals for a compromise or scheme of arrangement for the survival of the credit union as a going concern and, notwithstanding any other provision of this Act, the Court may impose on the examiner such other duties as it deems appropriate.
+
+(2) Notwithstanding any provision of this Act relating to notice of general meetings, (but subject to notice of not less than three days in any case) the examiner shall convene and preside at such meetings of members and creditors as he thinks proper, to consider such proposals as are referred to in *subsection (1)* and report thereon to the Court in accordance with *section 158* within 35 days of his appointment or such longer period as the Court may allow.
+
+(3) The F414[Bank] shall have the right to attend and speak at any meeting convened under *subsection (2)*.
+
+(4) Where, on the application of the examiner, the Court is satisfied that the examiner would be unable to report to the Court within the period of 70 days referred to in *section 147 (1)* but that he would be able to make a report if that period were extended, the Court may by order extend that period by not more than 30 days to enable him to do so.
+
+(5) Where the examiner has submitted a report under this section to the Court and, but for this subsection, the period mentioned in *section 147 (1)* (and any extended period allowed under *subsection (4)*) would expire, the Court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the Court considers necessary to enable it to take a decision under *section 163*.
+
+(6) The examiner shall deliver a copy of his report under this section—
+
+(*a*) to the credit union and to the F414[Bank] on the same day as his delivery of the report to the Court, and
+
+(*b*) to any member or creditor of the credit union on written application,
+
+provided that delivery under *paragraph (b)* may, if the Court so directs, be subject to the omission of such parts of the report as the Court thinks fit.
+
+(7) The Court may, in particular, give a direction under *subsection (6)* if it considers that the inclusion of certain information in the copy of the report to be delivered under *paragraph (b)* of that subsection would be likely to prejudice the survival of the credit union, as a going concern.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F414: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 110, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 158. Contents of examiner’s report under section 157.
+
+**158.**—An examiner’s report under *section 157* shall include—
+
+(*a*) the proposals placed before the required meetings;
+
+(*b*) any modification of those proposals adopted at any of those meetings;
+
+(*c*) the outcome of each of the required meetings;
+
+(*d*) the recommendation of the committee of creditors, if any, appointed under *section 160*;
+
+(*e*) a statement of the assets and liabilities (including contingent and prospective liabilities) of the credit union as at the date of his report;
+
+(*f*) a list of the creditors of the credit union, the amount owing to each such creditor, the nature and value of any security held by any such creditor, and the priority status of any such creditor under any statutory provision or rule of law;
+
+(*g*) a list of the officers of the credit union;
+
+(*h*) his recommendations; and
+
+(*i*) such other matters as the examiner deems appropriate or the Court directs.
+
+### 159. Repudiation of certain contracts.
+
+**159.**—(1) Where proposals for a compromise or scheme of arrangement are to be formulated in relation to a credit union, the credit union may, subject to the approval of the Court, affirm or repudiate any contract under which some element of performance other than payment remains to be rendered both by the credit union and the other contracting party or parties.
+
+(2) Any person who suffers loss or damage as a result of such a repudiation shall stand as an unsecured creditor for the amount of the loss or damage.
+
+(3) In order to facilitate the formulation, consideration or confirmation of a compromise or scheme of arrangement, the Court may hold a hearing and make an order determining the amount of any such loss or damage as is referred to in *subsection (2)* and the amount so determined shall be due by the credit union to the creditor as a judgement debt.
+
+(4) Where the examiner is not a party to an application to the Court for the purposes of *subsection (1)*, the credit union shall serve notice of the application on the examiner, and the examiner may appear and be heard on the hearing of the application.
+
+(5) Where the Court approves the affirmation or repudiation of a contract under this section, it may, in giving its approval, make such orders as it thinks fit for the purposes of giving full effect to its approval, including orders as to notice to, or declaring the rights of, any party affected by the affirmation or repudiation.
+
+### 160. Appointment of creditors’ committee.
+
+**160.**—(1) An examiner may, and if so directed by the Court shall, appoint a committee of creditors to assist him in the performance of his functions.
+
+(2) Save as otherwise directed by the Court, a committee appointed under *subsection (1)* shall consist of not more than five members and shall include the holders of the three largest unsecured claims who are willing to serve.
+
+(3) The examiner shall provide the committee with a copy of any proposals for a compromise or scheme of arrangement and the committee may express an opinion on the proposals on its own behalf or on behalf of the creditors or classes of creditors represented on the committee.
+
+(4) As soon as practicable after the appointment of a committee under *subsection (1)* the examiner shall meet with the committee to transact such business as may be necessary.
+
+### 161. Proposals for compromise or scheme of arrangement.
+
+**161.**—(1) Proposals for a compromise or scheme of arrangement shall—
+
+(*a*) specify the members and each class of creditors of the credit union;
+
+(*b*) specify any members or class of creditors whose interests or claims will not be impaired by the proposals;
+
+(*c*) specify any members or class of creditors whose interests or claims will be impaired by the proposals;
+
+(*d*) provide equal treatment for each interest or claim of a member or class of creditor unless the holder of a particular interest or claim agrees to less favourable treatment;
+
+(*e*) provide for the implementation of the proposals;
+
+(*f*) if the examiner considers it necessary or desirable to do so to ensure that there is a reasonable prospect of the survival of the credit union as a going concern, specify whatever changes should be made in relation to the management or direction of the credit union;
+
+(*g*) if the examiner considers it necessary or desirable as mentioned in *paragraph (f)*, specify any changes he considers should be made in the rules of the credit union, whether as regards the management or direction of the credit union or otherwise; and
+
+(*h*) include such other matters as the examiner deems appropriate;
+
+and a copy of the proposals shall be sent to the F415[Bank] in advance of any meeting of members or creditors under *section 162*.
+
+(2) A statement of the assets and liabilities (including contingent and prospective liabilities) of the credit union as at the date of the proposals shall be attached to each copy of the proposals sent to the F415[Bank] and submitted to meetings of members and creditors under *section 162*.
+
+(3) There shall also be attached to each such copy of the proposals a description of the estimated financial outcome of a winding-up of the credit union for the members and each class of creditors.
+
+(4) The Court may direct that the proposals include whatever other provisions it deems fit.
+
+(5) For the purposes of this section and *sections 162* and *163*, a creditor's claim against a credit union is impaired if he receives less in payment of his claim than the full amount due in respect of the claim at the date of presentation of the petition for the appointment of the examiner.
+
+F416[(6) For the purposes of this section and *sections 162* and *163*, the interest of a member of a credit union in the credit union is impaired if—
+
+(*a*) the member is deprived of all or any part of the rights accruing to the member by virtue of the member’s shareholding in, or membership of, the credit union, or
+
+(*b*) the member is deprived of the whole or part of the member’s shareholding in the credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F415: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 111, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F416: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 64, S.I. No. 57 of 2024.
+
+### 162. Consideration by members and creditors of proposals.
+
+**162.**—(1) This section applies to a meeting of members or creditors or any class of creditors summoned to consider proposals for a compromise or scheme of arrangement.
+
+(2) At a meeting to which this section applies, a modification of the proposals may be put to the meeting but may only be accepted with the consent of the examiner.
+
+(3) Proposals shall be deemed to have been accepted by a meeting of members if a majority of the members present and voting vote in favour of the resolution for the proposals.
+
+(4) Proposals shall be deemed to have been accepted by a meeting of creditors or of a class of creditors when a majority in number representing a majority in value of the claims represented at that meeting have voted, either in person or by proxy, in favour of the resolution for the proposals.
+
+(5) Where a State authority is a creditor of the credit union, that authority shall be entitled to accept proposals under this section notwithstanding—
+
+(*a*) that any claim of the State authority as a creditor would be impaired under the proposals; or
+
+(*b*) any other enactment;
+
+and in this subsection “State authority” means the State, a Minister of the Government, a local authority or the Revenue Commissioners.
+
+(6) With every notice summoning a meeting to which this section applies which is sent to a creditor or member, there shall be sent also a statement explaining the effect of the compromise or scheme of arrangement and, in particular, stating any material interests of the officers of the credit union, whether as officers or as members or as creditors of the credit union or otherwise and the effect thereon of the compromise or arrangement, in so far as it is different from the effect on the like interest of other persons.
+
+(7) Where a resolution is passed at an adjourned meeting to which this section applies, the resolution shall for all purposes be treated as having been passed on the date on which it was passed and shall not be deemed to have been passed on any earlier date.
+
+### 163. Consideration of proposals by the Court.
+
+**163.**—(1) The report of the examiner under *section 157* shall be set down for consideration by the Court as soon as may be after receipt of the report by the Court.
+
+(2) The following persons shall be entitled to appear and be heard at the hearing under *subsection (1)*—
+
+(*a*) the examiner;
+
+(*b*) the F417[Bank];
+
+(*c*) the credit union;
+
+(*d*) F418[...]
+
+(*e*) any creditor or member whose claim or interest would be impaired if the proposals for a compromise or scheme of arrangement were implemented;
+
+and the Court may permit to appear and be heard any other person who it considers to have a sufficient interest in the matter.
+
+(3) At a hearing under *subsection (1)* the Court may, as it thinks proper, subject to the provisions of this section, confirm, confirm subject to modifications, or refuse to confirm the proposals.
+
+(4) The Court shall not confirm any proposals unless one member and one class of creditor whose interests or claims would be impaired by implementation of the proposals have accepted the proposals and the Court is satisfied that—
+
+(*a*) the proposals are fair and equitable in relation to any member or class of creditors that has not accepted the proposals and whose interests or claims would be impaired by implementation; and
+
+(*b*) the proposals are not unfairly prejudicial to the interests of any member or creditor;
+
+nor shall the Court confirm any proposals if the sole or primary purpose of them is the avoidance of payment of tax due.
+
+(5) At a hearing under this section, the F417[Bank] or a member or creditor whose interest or claim would be impaired by the proposals may object in particular to their confirmation by the Court on any of the following grounds—
+
+(*a*) that there was some material irregularity at or in relation to a meeting to which *section 162* applies;
+
+(*b*) that acceptance of the proposals by the meeting was obtained by improper means;
+
+(*c*) that the proposals were put forward for an improper purpose; or
+
+(*d*) that the proposals unfairly prejudice the interests of the objector.
+
+(6) Any person who voted to accept the proposals may not object to their confirmation by the Court except on the grounds—
+
+(*a*) that acceptance of the proposals was obtained by improper means; or
+
+(*b*) that, after voting to accept the proposals, he became aware that they were put forward for an improper purpose.
+
+(7) Where the Court upholds an objection to the confirmation of any proposals, the Court may make such order as it deems fit, including an order that the decision of any meeting be set aside and an order that any meeting be reconvened.
+
+(8) Notwithstanding *subsection (4)*, or any other provision of this Part, nothing in this Part shall prevent the examiner from including in his report under *section 157* proposals which will not involve the impairment of the interests of members or creditors of the credit union, nor the Court from confirming any such proposals.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F417: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 112, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F418: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 123, S.I. No. 393 of 2013.
+
+### 164. Confirmation or otherwise of proposals by the Court.
+
+**164.**—(1) Where the Court confirms proposals for a compromise or scheme of arrangement (with or without modification), the proposals shall be binding on all the members of the credit union and also on the credit union itself.
+
+(2) Where the Court confirms the proposals (with or without modification) the proposals shall, notwithstanding anything in any other enactment, be binding on all the creditors or the class or classes of creditors, as the case may be, affected by the proposals in respect of any claim or claims against the credit union and any person, other than the credit union who, under any enactment, rule of law or otherwise, is liable for all or any part of the debts of the credit union.
+
+(3) Any alterations in, additions to or deletions from the rules of the credit union which are specified in the proposals shall, after confirmation of the proposals by the Court, take effect from the date fixed by the Court; and where the Court confirms proposals, it may make such orders for the implementation of its decision as it deems fit.
+
+(4) A compromise or scheme of arrangement, the proposals for which have been confirmed by the Court, shall come into effect from a date fixed by the Court, being not later than 21 days from the date of their confirmation.
+
+(5) If, at any time after a compromise or scheme of arrangement has come into effect, it appears to the F419[Bank] that an amendment of the rules of the credit union sent to F419[it] under *section 14 (2)* conflicts with the proposals confirmed by the Court, F419[it] may on that ground refuse to register the amendment, and *section 14 (5)* shall apply accordingly.
+
+(6) As soon as practicable after the confirmation of proposals by the Court, an office copy of any order made by the Court under this section shall be delivered by the examiner, or by such other person as the Court may direct, to the F419[Bank] for placing on the public file of the credit union.
+
+(7) Where—
+
+(*a*) the Court refuses to confirm proposals for a compromise or scheme of arrangement for a credit union, or
+
+(*b*) the report of an examiner under *section 157* concludes that, following the required meetings of members and creditors of a credit union under this Part, it has not been possible to reach agreement on a compromise or scheme of arrangement,
+
+the Court may, if it considers it just and equitable to do so, make an order for the winding up of the credit union, or any other order it deems fit.
+
+(8) Where the Court makes an order for the winding-up of a credit union under this Part, the winding-up shall be deemed to have commenced on the date of the making of the order, unless the Court otherwise orders.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F419: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 113, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 165. Ending of protection.
+
+**165.**—(1) Notwithstanding anything in the preceding provisions of this Part, any protection deemed to be granted to a credit union under those provisions shall cease—
+
+(*a*) on the coming into effect of a compromise or scheme of arrangement under this Part; or
+
+(*b*) on such earlier date as the Court may direct.
+
+(2) Where a credit union ceases to be under the protection of the Court, the appointment of the examiner shall terminate on the date of that cessation.
+
+### 166. Revocation of confirmation on grounds of fraud.
+
+**166.**—(1) If, within six months after the confirmation by the Court of proposals for a compromise or scheme of arrangement—
+
+(*a*) the credit union concerned,
+
+(*b*) the F420[Bank], or
+
+(*c*) a member or creditor of the credit union,
+
+applies to the Court for the revocation of the confirmation on the grounds that it was procured by fraud and the Court is satisfied that that is the case, the Court may by order revoke the confirmation.
+
+(2) A revocation of a confirmation under this section shall be on such terms and conditions, particularly with regard to the protection of the rights of parties acquiring interests or property in good faith and for value in reliance on that confirmation, as the Court deems fit.
+
+(3) As soon as practicable after the revocation of a confirmation under this section, an office copy of the order made by the Court under this section shall be delivered by such person as the Court may direct for placing on the public file of the credit union.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F420: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 114, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 167. Disqualification to act as examiner.
+
+**167.**—(1) A person shall not be qualified to be appointed or to act as an examiner of a credit union if he would not be qualified to act as its liquidator.
+
+(2) A person who acts as an examiner of a credit union while disqualified under this section shall be guilty of an offence.
+
+### 168. Remuneration, costs and expenses of examiners.
+
+**168.**—(1) The Court may from time to time make such orders as it thinks proper for payment of the remuneration and costs of, and reasonable expenses properly incurred by, an examiner.
+
+(2) Unless the Court otherwise orders, the remuneration, costs and expenses of an examiner shall be paid, and the examiner shall be entitled to be indemnified in respect thereof, out of the income of the credit union to which he has been appointed, or the proceeds of realisation of its assets (including investments).
+
+(3) The remuneration, costs and expenses of an examiner which have been sanctioned by order of the Court shall be paid in full and shall be paid before any other claim, secured or unsecured, under any compromise or scheme of arrangement or in any receivership or winding-up of the credit union to which he has been appointed.
+
+(4) The functions of an examiner may be performed by him with the assistance of persons appointed or employed by him for the purpose, provided that an examiner shall, in so far as it is reasonably possible, make use of the services of the officers and facilities of the credit union to which he has been appointed to assist him in the performance of his functions.
+
+(5) In considering any matter relating to the costs, expenses and remuneration of an examiner the Court shall have particular regard to the proviso to *subsection (4)*.
+
+### 169. Publicity.
+
+**169.**—(1) An examiner or, where appropriate, such other person as the Court may direct, shall within 14 days after the delivery to the F421[Bank] of every order made under *section 156, section 164* or *section 166* cause notice of that delivery to be published in *Iris Oifigiúil*.
+
+(2) A person who fails to comply with this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F421: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 115, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 170. Hearing of proceedings otherwise than in public.
+
+**170.**—The whole or any part of any proceedings under this Part may be heard otherwise than in public if the Court, in the interests of justice, considers that the interests of the credit union concerned or its creditors or its members as a whole so require.
+
+## PART XIIIOffences and Civil Proceedings — PART XIII — Offences and Civil Proceedings
+
+### 171. Offences: general provisions.
+
+**171.**—(1) F422[...]
+
+F423[(2) A credit union or other person who is guilty of an offence under this Act, other than an offence for which a different penalty is expressly provided, shall be liable—
+
+(*a*) on summary conviction to a class C fine or to imprisonment for a term not exceeding 3 months or both; or
+
+(*b*) on conviction on indictment to a fine not exceeding €6,348.69 or to imprisonment for a term not exceeding 2 years or both.]
+
+F424[(3) If the contravention in respect of which a credit union or other person is convicted of an offence under any provision of this Act is continued after that conviction, that credit union or other person shall be guilty of a further offence for every day on which the contravention continues and for each such offence shall be liable on summary conviction to a class E fine or, on conviction on indictment, to a fine not exceeding €1,904.61.]
+
+F425[(4) Summary proceedings for an offence against a provision of this Act may be brought by the Bank.]
+
+(5) F426[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F422: Deleted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 124, S.I. No. 280 of 2013.
+>
+> F423: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 125, S.I. No. 393 of 2013. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> F424: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 126, S.I. No. 393 of 2013. A class E fine means a fine not greater than €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(1), S.I. No. 662 of 2023.
+>
+> F425: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 127, S.I. No. 393 of 2013.
+>
+> F426: Deleted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 4(1) and sch. 1 part 1 item 10, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E104: Previous affecting provision: subs. (4) substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 116, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; further substituted as per F-note above.
+
+### 172. Offences by officers etc.
+
+**172.**—(1) Where an offence under this Act which is committed by a credit union is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer or member of the credit union, that officer or member (as well as the credit union) shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence committed by the credit union.
+
+(2) Where an offence under any provision of this Act which is committed by a body corporate, other than a credit union, is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person who, when the offence was committed, was a director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, that person (as well as the body corporate) shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence committed by the body corporate.
+
+### 173. Fraud or misappropriation.
+
+**173.**—(1) Any person who—
+
+(*a*) obtains possession by false representation of any property of a credit union, or
+
+(*b*) having any such property in his possession, withholds or misapplies it or wilfully applies any part of it to purposes which are not authorised by the rules of the credit union or which are not in accordance with this Act,
+
+shall be guilty of an offence and may be ordered to deliver up that property or to repay all money improperly applied.
+
+(2) A person guilty of an offence under *subsection (1)* shall be liable—
+
+F427[(*a*) on summary conviction to a class C fine or to imprisonment for a term not exceeding one year or both; or]
+
+(*b*) on conviction on indictment to a fine not exceeding £10,000 or to imprisonment for a term not exceeding five years or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F427: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 128, S.I. No. 393 of 2013. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *FInes Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E105: A fine of £10,000 converted (1.01.1999) to €12,697.38.
+
+### 174. Falsification of documents and other records.
+
+**174.**—Any person who, with intent to falsify any document or record referred to in *paragraphs (a)* to *(e)* or to evade any of the provisions of this Act, wilfully makes, or orders or allows to be made, any entry or erasure in, or omission from, or amendment to—
+
+(*a*) any balance sheet of a credit union, or
+
+(*b*) any contribution or collecting book, passbook or statement, or
+
+(*c*) any return or document required for the purposes of this Act, or
+
+(*d*) any account or balance sheet which is available for inspection under this Act, or
+
+(*e*) any other record whatsoever, whether produced by electronic or other means, which is used by a credit union in the conduct of its business,
+
+shall be guilty of an offence.
+
+### 175. Furnishing false information etc.
+
+**175.**—(1) Any person who, in purported compliance with any provision made by or under this Act—
+
+(*a*) provides an answer or explanation, makes a statement or produces or delivers any return, certificate, balance sheet or other document which is false in a material particular and which he knows to be so false, or
+
+(*b*) recklessly provides an answer or explanation, makes a statement or produces or delivers any return, report, certificate, balance sheet or other document which is false in a material particular,
+
+shall be guilty of an offence.
+
+(2) If the court by which a person is found guilty on indictment of an offence under *subsection (1)* is of the opinion that any act, omission or conduct which gave rise to that offence has—
+
+(*a*) substantially contributed to a credit union being unable to pay its debts, or
+
+(*b*) prevented or seriously impeded the orderly winding up of a credit union, or
+
+(*c*) substantially facilitated the defrauding of creditors of a credit union or of any other person,
+
+then, in place of the penalty provided by *section 171(2)(b)*, that person shall be liable on conviction on indictment to a fine not exceeding £10,000 or to imprisonment for a term not exceeding five years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E106: A fine of £10,000 converted (1.01.1999) to €12,697.38.
+
+### 176. Recovery of costs and expenses.
+
+**176.**—Any cost or expenses ordered or directed by the F428[Bank] to be paid by any person shall be recoverable by the F428[Bank] from that person summarily as a civil debt.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F428: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 117, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 177. Liability of officer etc.
+
+**177.**—(1) Subject to *subsection (2)*, any provision (whether contained in the rules of a credit union or in any contract with a credit union or otherwise) for exempting an officer F429[...] of a credit union from, or indemnifying him against, any liability which, by virtue of any rule of law, would otherwise attach to him in respect of any negligence, breach of duty or breach of trust of which he may be guilty in relation to the credit union shall be void.
+
+(2) A credit union may indemnify an officer F430[...] against any liability incurred by him in defending proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted, or in connection with an application under *section 178* in which relief is granted.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F429: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 129, S.I. No. 393 of 2013.
+>
+> F430: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 130, S.I. No. 393 of 2013.
+
+### 178. Power of court to grant relief to officer etc.
+
+**178.**—(1) Where, in any proceedings for negligence, default, breach of duty or breach of trust against an officer F431[...] of a credit union, it appears to the court hearing the case—
+
+(*a*) that the officer F431[...] is or may be liable in respect of the negligence, default or breach in question but that he acted honestly and reasonably, and
+
+(*b*) that, having regard to all the circumstances of the case (including those connected with his appointment), he ought fairly to be excused for the negligence, default or breach,
+
+the court may relieve him (either wholly or partly) from his liability on such terms as the court may think fit.
+
+(2) Where an officer F432[...] of a credit union who has reason to apprehend that any claim will or might be made against him in respect of any negligence, default, breach of duty or breach of trust, applies to the Court for relief, the Court shall have the same power to relieve him as it would have under this section if it were a court before which proceedings against him had been brought for the negligence, default or breach.
+
+(3) Where any case to which *subsection (1)* applies is being tried by a judge with a jury, the judge, after hearing the evidence, may, if he is satisfied that the defendant ought under that subsection to be relieved either in whole or in part from the liability sought to be enforced against him, withdraw the case in whole or in part from the jury and direct judgment to be entered for the defendant on such terms as to costs or otherwise as the judge may think proper.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F431: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 131, S.I. No. 393 of 2013.
+>
+> F432: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 132, S.I. No. 393 of 2013.
+
+### 179. Judgments against a credit union.
+
+**179.**—(1) Whenever a person (in this section referred to as a “judgment creditor”) obtains in any court a judgment, order or decree against a credit union for the payment of a sum of money due to the judgment creditor by the credit union, the registrar or clerk of the court concerned shall notify the F433[Bank] as soon as may be of the judgment, order or decree and of its terms and of any appeal against the judgment, order or decree and of the result thereof.
+
+(2) Subject to *subsection (3)* if, within the period of 21 days or such further period as the court concerned may allow, beginning on the date of the judgment, order or decree, the credit union does not pay all moneys due (or in the case of costs, at the option of the credit union, give security therefor in lieu of payment) or satisfy all claims under the judgment, order or decree, the credit union shall be deemed to be unable to meet its obligations to its creditors and, accordingly, for the purposes of *section 133*, to be unable to pay sums due and payable to its creditors.
+
+(3) If an appeal is instituted in any court against the judgment, order or decree, that court or the court by which the judgment, order or decree was made may by order postpone the application of *subsection (2)* for such period and, subject to *subsection (4)*, on such terms as the court concerned may fix and specify in the order.
+
+(4) If a court makes an order under *subsection (3)*, it may require the credit union to which the order relates either, as that court thinks fit, to lodge in court an amount equal to the amount of all moneys due under the judgment, order or decree (or such lesser amount as the court may direct) or to give such security as the court may determine for the payment to the judgment creditor of all such moneys, together with, in either case, such further sum or security for the costs of the appeal as the court shall consider just.
+
+(5) An order under *subsection (3)* may be varied or revoked by the court that made it or before which an appeal in relation to it is brought.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F433: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 118, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+## PART XIVMiscellaneous and General — PART XIV — Miscellaneous and General
+
+### 180. Credit Union Advisory Committee.
+
+**180.**—(1) There shall continue to be a body known as the Credit Union Advisory Committee (in this Act referred to as “the Advisory Committee”) which shall exercise the functions assigned to it by this Act.
+
+(2) The Advisory Committee shall advise the Minister and such other persons as the Minister thinks fit in relation to—
+
+(*a*) the improvement of the management of credit unions;
+
+(*b*) the protection of the interests of members and creditors of credit unions; and
+
+(*c*) other matters relating to credit unions upon which the Minister, the F434[Bank] or such other persons as may be specified by the Minister may from time to time seek the advice of the Committee.
+
+(3) The Advisory Committee shall consist of not more than seven persons appointed for such period as the Minister thinks fit; and every person so appointed shall be chosen by the Minister for appointment—
+
+(*a*) by reason of that person's knowledge of matters pertaining to credit unions; or
+
+(*b*) because that person is capable of giving substantial practical assistance in the work of the Advisory Committee.
+
+(4) Any person who is for the time being entitled under the Standing Orders of either of the Houses of the Oireachtas to sit therein shall, while so entitled, be disqualified from being a member of the Advisory Committee.
+
+(5) Where a member of the Advisory Committee becomes a member of either House of the Oireachtas he shall, upon becoming entitled under the Standing Orders of that House to sit therein, cease to be a member of the Committee.
+
+F435[(6) The Minister shall from time to time nominate one member of the Advisory Committee to act as its chair.]
+
+(7) There shall be paid to every member of the Advisory Committee such remuneration and expenses as the Minister F436[...] may determine.
+
+(8) Nothing in *subsection (3)* shall be taken to affect the term of appointment of any person who is a member of the Advisory Committee at the commencement of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F434: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 119, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 paras. 26 and 28.
+>
+> F435: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 133, S.I. No. 393 of 2013.
+>
+> F436: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 119, S.I. No. 160 of 2003, subject to saver in s. 36 and sch. 3 para. 28.
+
+### 181. Consultation.
+
+F437[**181.**—References in this Act to bodies appearing to the Minister or to the Bank to have expertise or knowledge about credit unions, include references to the unincorporated association called the Irish League of Credit Unions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F437: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 120, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+
+### 182. General regulations.
+
+**182.**—(1) F438[The Minister may make regulations]—
+
+(*a*) F439[...]
+
+(*b*) F439[...]
+
+(*c*) F439[...]
+
+(*d*) F439[...]
+
+(*e*) F439[...]
+
+(*f*) F439[...]
+
+(*g*) making provision with respect to the further defining of the exercise of a significant influence as mentioned in *section 87(1)(e)*;
+
+(*h*) F440[...]
+
+(*i*) F440[...]
+
+(*j*) providing for the inspection, and furnishing of copies, of documents in the custody of the F438[Bank];
+
+(*k*) F441[...]
+
+(*l*) making provision with respect to the settlement of disputes in accordance with *section 125*;
+
+F442[(*la*) making provision with respect to all or any of the matters provided for in *section 82(6)*;]
+
+(*m*) F443[...]
+
+F444[(*n*) prescribing any other matter which, under any provision of this Act, is to be prescribed except where it is provided that the matter is to be prescribed by the Bank.]
+
+F445[(1A) The Minister may make regulations under this section only after consulting the Bank, the Advisory Committee and any other body appearing to the Minister to have expertise or knowledge of credit unions.]
+
+(2) Regulations under this section may relate to all or any one or more of the matters referred to in *subsection (1)*.
+
+(3) Regulations under this Act may provide that any person contravening the regulations shall be guilty of an offence and liable on F446[...] conviction to a fine not exceeding an amount specified in the regulations.
+
+F438[(4) The amount that may be specified for such an offence may not exceed—
+
+F447[(*a*) if the offence is tried summarily, a class C fine, or]
+
+(*b*) if the offence is tried on indictment, €12,500.]
+
+(*a*) on summary conviction, £1,000, or
+
+(*b*) on conviction on indictment, £10,000.
+
+(5) Regulations under this section may apply either generally or by reference to a specified category or categories of credit unions, or to a specified time or times, or during a specified period or periods or by reference to any other matter as the Minister may consider appropriate.
+
+(6) Without prejudice to any specific provision of this Act, regulations may contain such incidental, consequential, transitional or supplementary provisions (including provisions for the purpose of effecting the transition to this Act from the enactments repealed by this Act and the Industrial and Provident Societies Acts, 1893 to 1978), as may appear to the Minister to be necessary or proper for any purpose of this Act or in consequence of, or to give full effect to, any provision of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F438: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 121, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 paras. 26 and 27.
+>
+> F439: Deleted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 134, S.I. No. 584 of 2015.
+>
+> F440: Deleted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 135, S.I. No. 584 of 2015.
+>
+> F441: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 136, S.I. No. 393 of 2013.
+>
+> F442: Inserted (16.12.2020) by *Finance (Miscellaneous Provisions) Act 2020* (25/2020), s. 13, commenced on enactment.
+>
+> F443: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 137, S.I. No. 393 of 2013.
+>
+> F444: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 138, S.I. No. 393 of 2013.
+>
+> F445: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 121, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 27(1).
+>
+> F446: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 121, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 27.
+>
+> F447: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 139, S.I. No. 393 of 2013. A Class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E107: A fine of £1,000 converted (1.01.1999) to €1,269.74. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of £10,000 converted (1.01.1999) to €12,697. 38.
+>
+> E108: Power pursuant to subsection (1)(h) exercised (21.12.2007) by *Credit Union Act 1997 (Exemption from Additional Service Requirements) (Amendment) Regulations 2007* (S.I. No. 838 of 2007), in force as per reg. 2.
+>
+> E109: Power pursuant to subsection (1)(h) exercised (9.03.2007) by *Credit Union Act 1997 (Exemption from Additional Services Requirements) Regulations 2007* (S.I. No. 107 of 2007), in force as per reg. 2.
+>
+> E110: Power pursuant to subsection (1)(i) exercised (17.10.2006) by *Credit Union Act 1997 (Alteration of Financial Limits) Regulations 2006* (S.I. No. 546 of 2006).
+>
+> E111: Power pursuant to subsection (1)(h) exercised (1.06.2004) by *Credit Union Act 1997 (Exemption from Additional Services Requirements) Regulations 2004* (S.I. No. 223 of 2004), in force as per reg. 2.
+>
+> E112: Previous affecting provision: power pursuant to subss. (1)(i) and (5) exercised (26.04.2007) by *Credit Union Act 1997 (Alteration of Financial Limits) Regulations 2007* (S.I. No. 193 of 2007); revoked (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2006), s. 21, S.I. No. 730 of 2007.
+>
+> E113: Previous affecting provision: power pursuant to subsection (1)(i) exercised (25.10.2001 and 1.01.2002) by *Credit Union Act, 1997 (Alteration of Financial Limit) Regulations 2001* (S.I. No. 476 of 2001); revoked (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 38(a), S.I. No. 584 of 2015.
+>
+> E114: Previous affecting provision: power pursuant to subsection (1)(n) exercised (1.06.1998) by *Credit Union Act, 1997 (Fees) Regulations 1998* (S.I. No. 155 of 1998), in force as per reg. 1(2); revoked (16.07.2004) by *Central Bank Act 1942 (Sections 33J and 33K) Regulations 2004* (S.I. No. 447 of 2004), reg. 4(a)(i) and sch. part A.
+
+### 182A. General regulations by Bank.
+
+F448[**182A.**—(1) The Bank may make regulations in respect of any matter which, under any provision of the *Credit Union Acts 1997 to 2012*, is to be prescribed by the Bank.
+
+(2) Regulations made by the Bank under the *Credit Union Acts 1997 to 2012* may apply either generally or by reference to a specified category or categories of credit unions, or to a specified time or times, or during a specified period or periods or by reference to any other matter as the Bank may consider appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F448: Inserted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 33, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E115: Power pursuant to section exercised (30.09.2025) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) Regulations 2025* (S.I. No. 410 of 2025), in effect as per reg. 3.
+>
+> E116: Power pursuant to section exercised (1.01.2025) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) (No. 2) Regulations 2024* (S.I. No. 655 of 2025), in effect as per reg. 3.
+>
+> E117: Power pursuant to section exercised (30.09.24) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) Regulations 2024* (S.I. No. 496 of 2024).
+>
+> E118: Power pursuant to section exercised (22.12.2020) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) Regulations 2020* (S.I. No. 675 of 2020).
+>
+> E119: Power pursuant to section exercised (1.01.2020) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) Regulations 2019* (S.I. No. 642 of 2019), in effect as per reg. 1(2).
+>
+> E120: Power pursuant to section exercised (1.03.2018) by *Credit Union Act 1997 (Regulatory Requirements) (Amendment) Regulations 2018* (S.I. No. 32 of 2018), in effect as per reg. 1(2).
+>
+> E121: Power pursuant to section exercised (1.01.2016) by *Credit Union Act 1997 (Regulatory Requirements) Regulations 2016* (S.I. No. 1 of 2016), in effect as per reg. 1(2).
+>
+> E122: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 183. Regulations to remove difficulties.
+
+**183.**—If, in any respect, any difficulty arises in bringing any provision of this Act into operation or in relation to the operation of any such provision, the Minister may by regulations do anything which appears to him to be necessary or expedient for the purposes of removing the difficulty, bringing that provision into operation, or securing or facilitating its operation.
+
+### 184. Certain enactments not to apply to credit unions etc.
+
+F449[**184.**— The following enactments, namely—
+
+(*a*) section 117 of the Central Bank Act 1989,
+
+(*b*) Part IV (other than sections 27B, 27G and 27H) of the Central Bank Act 1997, and
+
+(*c*) the Consumer Credit Act 1995,
+
+shall not apply to a credit union or to a body the members of which are credit unions and the principal objects of which are the promotion of the credit union movement and the provision of services to credit unions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F449: Substituted (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 34, S.I. No. 280 of 2013.
+>
+> **Editorial Notes:**
+>
+> E123: Previous affecting provision: application of section restricted by *Central Bank Act 1942* (22/1942), s. 33ANA(4), as inserted (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 114, S.I. No. 342 of 2010; repealed (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 36, S.I. No. 280 of 2013.
+>
+> E124: Previous affecting provision: application of section restricted by *Central Bank Act 1942* (22/1942), s. 33ANB(5), as inserted (1.11.2009) by *European Communities (Payment Services) Regulations 2009* (S.I. No. 383 of 2009), reg. 118 and sch. 2 part 1 item 2, in effect as per reg. 2(2); repealed (1.08.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 36, S.I. No. 280 of 2013.
+
+### 185. Exemptions from stamp duty.
+
+**185.**—(1) Stamp duty shall not be chargeable on any instrument effecting the transfer of a share in a credit union.
+
+(2) Stamp duty shall not be chargeable on any transfer, conveyance or other instrument executed for the purposes of effecting, under *Part IX*, an amalgamation of credit unions or a transfer of engagements between credit unions.
+
+### 186. Records and registers.
+
+**186.**—F450[(1) A credit union shall maintain, in addition to the records required to be kept by a credit union by virtue of *section 108*, such other records as may be prescribed by the Bank.]
+
+(2) Any register or record required to be kept by or under this Act may be kept either by making entries in bound books or by recording the matters in any other manner, provided that the recording is readily accessible and readily converted into written form in an official language of the State.
+
+(3) Any duty imposed by this Act F451[or Part 3 of the Central Bank (Supervision and Enforcement) Act 2013] to allow inspection of, or to furnish a copy of, a record, or any part of it, is to be treated as a duty to allow inspection of, or to furnish, a reproduction of the recording or of the relevant part of it in a written form in an official language of the State.
+
+(4) Where any register or record required to be kept by or under this Act is not kept by making entries in a bound book but by some other means, adequate precautions shall be taken by the person required to keep the register or record for guarding against falsification and for facilitating the discovery of any falsification.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F450: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 140, S.I. No. 393 of 2013.
+>
+> F451: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(2) and sch. 3 part 2 item 7, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E125: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 122, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+### 187. Form, deposit and evidence of documents.
+
+**187.**—(1) Without prejudice to *section 124 (2)* and subject to any provision made by regulations, every return or other document required for the purposes of this Act—
+
+(*a*) shall be made in such form,
+
+(*b*) shall contain such particulars, and
+
+(*c*) shall be deposited and registered or recorded, with or without observations on the return or other document, in such manner,
+
+as may be F452[specified by the Bank].
+
+(2) An acknowledgement of registration or other document relating to a credit union, purporting to be signed by the F453[Bank]F454[...], including in particular any document purporting to be a copy or extract of a credit union's rules or of any other instrument or document whatsoever, and every document purporting to be signed by any inspector under this Act shall, unless the contrary is proved, be deemed to have been issued by the F453[Bank] or such a duly authorised person, or an inspector, as the case may be, and shall be received in evidence without proof of the signature.
+
+(3) A printed document purporting to be a copy of the rules of a credit union and certified by an officer of the credit union to be a true copy of its registered rules shall, unless the contrary is proved, be deemed to be a true copy of its rules and shall be received in evidence accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F452: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 141, S.I. No. 393 of 2013.
+>
+> F453: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 123, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F454: Deleted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 123, S.I. No. 160 of 2003.
+>
+> **Editorial Notes:**
+>
+> E126: Previous affecting provision: subs. (1) amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 123, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; further amended as per F-note above.
+
+### 188. Service of notices etc.
+
+**188.**—(1) Where a notice, direction, or other document is authorised or required by or under this Act to be served on a person, it shall, unless otherwise specified in this Act, be addressed to him and served on or given to him in one of the following ways—
+
+(*a*) where it is addressed to him by name, by delivering it to him;
+
+(*b*) by leaving it at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(*c*) by sending it by ordinary prepaid post addressed to him at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address; or
+
+(*d*) in the case of an officer of a credit union, by sending it to him by ordinary prepaid post addressed to him at the address of the registered office of the credit union.
+
+(2) Any such document may, in the case of a credit union, be served on the secretary of the credit union.
+
+### 188A. Delivery of notices etc.
+
+F455[**188A.**—(1) Subject to *subsection (3)*, where a notice, direction or other document is authorised or required by or under this Act to be sent or delivered to a member of a credit union by the credit union, the credit union shall, unless otherwise specified in this Act, do so in one of the following ways:
+
+(*a*) by delivery to the member;
+
+(*b*) by post to the address of the member as recorded in the books of the credit union or such other address as has been notified in writing to the credit union by that member for the purpose of receiving the notice, direction or other document by post;
+
+(*c*) by electronic means to such address as has been notified in writing to the credit union by that member for the purpose of receiving the notice, direction or other document electronically.
+
+(2) Subject to *subsection (3)*, a copy of a document, other than a notice, required to be sent or delivered shall be treated as having been sent or delivered, as the case may be, by a credit union to a member where—
+
+(*a*) the credit union and the member have agreed to the member having access to the document on a website maintained by or on behalf of the credit union,
+
+(*b*) the member is notified, in a manner for the time being agreed for the purpose of such notification between the member and the credit union, of—
+
+(i) the publication of the document on the website referred to in *paragraph (a)*,
+
+(ii) the address of that website,
+
+(iii) the place on that website where the document may be accessed, and
+
+(iv) how the document may be accessed,
+
+(*c*) in the case of annual accounts—
+
+(i) the credit union’s rules allow for distribution of or access to the annual accounts by electronic means,
+
+(ii) the credit union has requested, in writing, the member’s consent to the use of electronic means for conveying the credit union’s annual accounts and the member has not objected to such use within 10 days of the receipt by the member of the request, and
+
+(iii) the member may request at any time in the future that the annual accounts be conveyed to the member in writing,
+
+(*d*) where the document is required to be delivered within a relevant period (as specified for the purpose of the provision requiring such delivery)—
+
+(i) the document is published on the website referred to in *paragraph (a)* in the period from the start of the relevant period to the conclusion of the meeting concerned, and
+
+(ii) the notification given for the purposes of *paragraph (b)* is given during the relevant period.
+
+(3) This section shall not apply to the service, by or under this Act, of a notice, direction or other document.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F455: Inserted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 65, S.I. No. 57 of 2024.
+>
+> **Editorial Notes:**
+>
+> E127: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 189. Transitional provisions.
+
+**189.**—(1) In so far as any order, regulation, rule, agreement, application, decision or reference made, approval, consent or direction given, requirement imposed, certificate or other instrument issued, register kept, resolution passed, notice served or other thing done under an enactment repealed by this Act could have been made, given, imposed, issued, kept, passed, served or done under a corresponding provision of this Act, it shall not be invalidated by the repeal effected by this Act but, except in so far as this Act otherwise provides, shall have effect as if made, given, imposed, issued, kept, passed, served or done under that corresponding provision.
+
+(2) Where any document refers to an enactment repealed by this Act and provision is made by this Act corresponding to that enactment, then, unless the context otherwise requires, that reference shall be construed as or, as the case may be, as including a reference to the corresponding provision of this Act.
+
+(3) Where an act or omission is an offence under an enactment repealed by this Act and that enactment provides a penalty for the continuation of the offence, then, if provision is made by this Act corresponding to that enactment, the continuation of the act or omission after the commencement of this section shall be treated for the purposes of the corresponding provision of this Act as a continuation of an offence under that provision.
+
+(4) Any reference in this section to an enactment repealed by this Act includes a reference to an enactment contained in the Industrial and Provident Societies Acts, 1893 to 1978, which, though not so repealed, ceases by virtue of this Act to apply to a credit union.
+
+### 190. Disapplication of certain provisions to corporate credit unions.
+
+F456[**190.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F456: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 66, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C34: Prospective affecting provision: section inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 66, not commenced as of date of revision.
+>
+> F456[**190.**—(1) The following provisions shall not apply in respect of a corporate credit union:
+>
+> (*a*) *section 17(1)*;
+>
+> (*b*) *sections 21* to *25*;
+>
+> (*c*) *section 53(10)(a)* and *(c)*;
+>
+> (*d*) *section 65*;
+>
+> (*e*) *section 66*;
+>
+> (*f*) *section 67*;
+>
+> (*g*) *section 68*;
+>
+> (*h*) *Part IVA*;
+>
+> (*i*) *section 81(5)*;
+>
+> (*j*) *section 97(1)(a)(i)*;
+>
+> (*k*) *section 128*;
+>
+> (*l*) *Part VIII*.]
+
+## FIRST SCHEDULE — Matters to be Provided for in Rules of Credit Union
+
+1\. The name of the credit union, which shall comply with *section 10*.
+
+2\. The objects of the credit union which shall comply with *section 6 (1) (a)*.
+
+3\. The place which is to be the registered office of the credit union to which all communications and notices to the credit union may be addressed.
+
+4\. The qualifications required for, and the terms of, admission to membership of the credit union, including any special provision for the insurance of members in relation to their shares.
+
+5\. The mode of holding meetings and the method of notice, including provision as to the quorum necessary for the transaction of any description of business, and the mode of making, altering or rescinding rules.
+
+F457[6\. The appointment and removal of the board of directors, the board oversight committee and any principal Committee and of other officers and their respective powers and remuneration.]
+
+F458[7\. Determination (subject to any requirements under *section 27(2)*) of the maximum amount of the interest in the shares of the credit union which may be held by any member.]
+
+8\. Provision for the mode of withdrawal of shares and payment of the balance due on shares on withdrawing from the credit union.
+
+9\. The mode and circumstances in which loans to members are to be made and repaid, including any special provision for the insurance of members in relation to loans made to them.
+
+10\. Provision for the custody and use of the credit union's seal.
+
+11\. Provision for the audit of accounts by one or more auditors appointed by the credit union.
+
+F459[12. Provision for dealing with disputes between the credit union and any of its members, or any person claiming by or through any member or under the rules.]
+
+13\. Provision for the withdrawal of members from the credit union and for the claims of the representatives of deceased members or the assignees or trustees of the property of bankrupt members and for the payment of nominees.
+
+F460[14\. Provision for dealing with directors and members of the board oversight committee who are more than 90 consecutive days in arrears under a debt obligation to the credit union up to and including the suspension or removal from the board of such directors.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F457: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 142, S.I. No. 393 of 2013.
+>
+> F458: Substituted (1.01.2016) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 143, S.I. No. 584 of 2015.
+>
+> F459: Substituted (22.02.2024) by *Credit Union (Amendment) Act 2023* (34/2023), s. 67, S.I. No. 57 of 2024.
+>
+> F460: Substituted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 144, S.I. No. 393 of 2013.
+>
+> **Editorial Notes:**
+>
+> E128: Previous affecting provisions: schedule amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 124, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+## SECOND SCHEDULE — Form of Receipt
+
+...................... Limited hereby acknowledges that it has this ........ day of ..............., 19......... received the sum of ..............., representing all money intended to be secured by the [within (or above) written] [annexed] deed [and by a further charge dated, etc., or otherwise as required].
+
+) Board of Directors
+
+)
+
+)
+
+) Secretary
+
+## THIRD SCHEDULE — Credit Committee, Credit Control Committee and Membership Committee
+
+1\. F461[...]
+
+2\. A credit committee, credit control committee and membership committee shall—
+
+(*a*) meet as often as necessary to carry out their functions;
+
+(*b*) submit a written report to the board of directors at each meeting of the board; and
+
+(*c*) comply with any instruction of the board of directors.
+
+3\. A credit committee shall have not less than three members and a member of the credit control committee, the credit control officer or a credit officer shall not be eligible for membership.
+
+4\. A credit control committee shall have not less than three members and a member of the credit committee, the credit control officer or a credit officer shall not be eligible for membership.
+
+5\. A membership committee shall have not less than one member.
+
+6\. F462[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F461: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 145, S.I. No. 393 of 2013.
+>
+> F462: Deleted (11.10.2013) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 35 and sch. 1 item 146, S.I. No. 393 of 2013.
+
+## F463[FOURTH SCHEDULE — Supplementary Provisions in Relation to Regulatory Directions
+
+When a regulatory direction terminates.
+
+1\. A regulatory direction terminates—
+
+(*a*) at the end of the period of operation specified in the direction, or
+
+(*b*) ...
+
+(*c*) on the making by the Court of a winding-up order in respect of the credit union,
+
+whichever first occurs.
+
+Bank may require credit union to prepare scheme for the orderly termination of its business.
+
+2\. (1) On forming the opinion that a credit union to which a regulatory direction was given is able to meet its obligations to its members and creditors but the circumstances that gave rise to the direction are unlikely to be rectified, the Bank may, by notice in writing given to the credit union, require the credit union—
+
+(*a*) to prepare, in consultation with the Bank, a scheme for the orderly termination of its business and the discharge of its liabilities to its members and creditors under the supervision of the Bank; and
+
+(*b*) to submit that scheme to the Bank for its approval.
+
+(2) A credit union shall comply with a direction made to it under *subparagraph (1)* not later than 2 months after the requirement was notified to it under that subparagraph.
+
+(3) A requirement made to a credit union under this paragraph is an appealable decision for the purposes of Part VIIA of the Central Bank Act 1942.
+
+Consequences of failing to comply with requirement made under *paragraph 2*.
+
+3\. If a credit union fails to comply with a requirement made under *paragraph 2* or fails to implement a scheme approved by the Bank, the Court may, on the application of the Bank, make an order for the winding-up of the credit union on the ground that it is just and equitable that it be wound up or such other order as it considers appropriate in the circumstances.
+
+Court may revoke or amend order made under *paragraph 3*.
+
+4\. The Court may by order revoke or amend an order made by it under *paragraph 3*.
+
+What action may be taken when regulatory direction is in force.
+
+5\. If a regulatory direction is in force in respect of a credit union, the following provisions apply:
+
+(*a*) the credit union shall take all necessary steps to ensure that its assets, wherever held, are depleted only in accordance with the approval of the Bank;
+
+(*b*) the Court may, on the application of the Bank, make an order directing a bank, or any institution exempt under section 7 of the Central Bank Act 1971, that holds an account of the credit union to suspend the making of payments from the account for such period as the Court may consider appropriate in the circumstances;
+
+(*c*) the credit union shall make reasonable arrangements for using its funds to meet applications (duly made in accordance with its rules) by members for repayment of money subscribed or deposited by them;
+
+(*d*) if it appears to the Bank that the credit union has been applying an undue proportion of its funds in making loans, in preference to making such arrangements as are referred to in *paragraph (c)*, the Bank may, after giving notice to the credit union and giving it an opportunity of making representations, apply to the Court for the winding-up of the credit union.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F463: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 8, S.I. No. 455 of 2004.
+>
+> F464: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 8, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C35: Prospective affecting provision: para. 1(b) inserted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 8, not commenced as of date of revision.
+>
+> F464[(*b*) if an appeal is lodged against the direction under Part VIIA of the Central Bank Act 1942 and the period is varied by the Irish Financial Services Appeals Tribunal on the hearing of the appeal, at the end of the period specified in the direction as so varied, or]
+>
+> **Editorial Notes:**
+>
+> E129: Previous affecting provision: schedule amended (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 125, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26; substituted as per F-note above.
+
+## FIFTH SCHEDULE — Supplementary Provisions as to Removal or Suspension by the Registrar of Directors and Members of Supervisory Committee
+
+1\. (1) Any director or member who has been removed may apply to the Court for an order setting aside the removal.
+
+(2) On an application under *subparagraph (1)*, the Court may make—
+
+(*a*) an order setting aside the removal; or
+
+(*b*) an order confirming the removal; or
+
+(*c*) such other order as may appear to the Court to be necessary.
+
+2\. The F465[Bank] may apply to the Court for, and the Court may grant, an order confirming the removal.
+
+3\. (1) In addition to or in lieu of making an order under *paragraph 2*, the Court may make such other order in the case as may appear to it to be necessary, including an order removing from office any director or member of the credit union.
+
+(2) The Court shall not make an order under *subparagraph (1)* without giving the director or member concerned an opportunity to be heard.
+
+4\. The Court may by order revoke or vary an order made by it under this Schedule.
+
+5\. Unless an order has been made by the Court in respect of a removal, the F465[Bank] may at any time revoke the removal.
+
+6\. (1) Any director or member who has been suspended may apply to the Court for, and the Court may grant, an order setting aside the suspension.
+
+(2) On an application under *subparagraph (1)*, the Court may make—
+
+(*a*) an order setting aside the suspension;
+
+(*b*) an order confirming the suspension; or
+
+(*c*) such other order as may appear to the Court to be necessary.
+
+7\. The F465[Bank] may apply to the Court for, and the Court may grant, an order confirming a suspension or confirming it and extending the period of its operation for such time, not exceeding six months from the date the suspension took effect, as the Court may consider appropriate.
+
+8\. (1) In addition to or in lieu of making an order under *paragraph 7*, the Court may make such other order in the case as may appear to it to be necessary, including an order removing from office any director or member of the credit union.
+
+(2) The Court shall not make an order under *subparagraph (1)* without giving the director or member concerned an opportunity to be heard.
+
+9\. A suspension which has been confirmed by the Court shall terminate when whichever of the following first occurs—
+
+(*a*) the end of the period of operation specified by the Court;
+
+(*b*) the making by the Court of an order for termination on the application of the F465[Bank];
+
+(*c*) the making of a winding up order in respect of the credit union;
+
+(*d*) the making by the Court of an order for termination where the Court considers that the circumstances that gave rise to the suspension have ceased to exist and that it would be unjust and inequitable not to make the order.
+
+10\. The Court may by order revoke or vary an order made by it under this Schedule.
+
+11\. Unless an order has been made by the Court in respect of a suspension, the F465[Bank] may at any time revoke the suspension.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F465: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 24 item 126, S.I. No. 160 of 2003, subject to transitional provisions in s. 36 and sch. 3 para. 26.
+>
+> F466: Repealed by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 9; not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C36: Prospective affecting provision: schedule repealed by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 7 item 9; not commenced as of date of revision.
+>
+> F466[...]
+
+## F467[SIXTH SCHEDULE
+
+*Section 13*.
+
+Matters to be provided for in rules of corporate credit union.
+
+...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F467: Inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 68, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C37: Prospective affecting provision: schedule inserted by *Credit Union (Amendment) Act 2023* (34/2023), s. 68, not commenced as of date of revision.
+>
+> (1) The name of the credit union, which shall comply with *section 10*.
+>
+> (2) The place which is to be the registered office of the credit union to which all communications and notices to the credit union may be addressed.
+>
+> (3) The qualifications required for, and the terms of, admission to membership of the credit union.
+>
+> (4) The mode of holding meetings and the method of notice, including provision as to the quorum necessary for the transaction of any description of business, and the mode of making, altering or rescinding rules.
+>
+> (5) The appointment and removal of the board of directors and any principal Committee and of other officers and their respective powers and remuneration.
+>
+> (6) Determination of the maximum amount of the interest in the shares of the credit union which may be held by any member.
+>
+> (7) Provision for the mode of withdrawal of shares and payment of the balance due on shares on withdrawing from the credit union.
+>
+> (8) The mode and circumstances in which loans to members and, where relevant, their members and loans to members of other credit unions on a referral basis, are to be made and repaid.
+>
+> (9) Provision for the custody and use of the credit union’s seal.
+>
+> (10) Provision for the audit of accounts by one or more auditors appointed by the credit union.
+>
+> (11) Whether disputes between the credit union and any of its members, and, where relevant, their members, or any person claiming by or through any member or member of the credit union’s member or under the rules, shall be settled by reference to the Circuit Court or arbitration.
+>
+> (12) Provision for the withdrawal of members from the credit union and for the claims of the members of the credit union in liquidation.
+>
+> (13) Provision for dealing with directors who are more than 90 consecutive days in arrears under a debt obligation to the credit union up to and including the suspension or removal from the board of such directors.]

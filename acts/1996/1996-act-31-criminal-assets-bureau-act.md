@@ -1,0 +1,865 @@
+---
+title: "Criminal Assets Bureau Act, 1996"
+identifier: "eli/1996/act/31"
+type: act
+jurisdiction: ie
+language: en
+number: 31
+year: 1996
+date: 1996-10-11
+last_amended: 2023-04-10
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1996/act/31/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1996/act/31/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Assets Bureau Act, 1996
+
+AN ACT TO MAKE PROVISION FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS THE CRIMINAL ASSETS BUREAU AND TO DEFINE ITS FUNCTIONS AND TO AMEND THE FINANCE ACT, 1983, AND THE WAIVER OF CERTAIN TAX, INTEREST AND PENALTIES ACT, 1993, AND TO PROVIDE FOR RELATED MATTERS. [11*th October*, 1996]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act—
+
+“the Bureau” means the Criminal Assets Bureau established by *section 3*;
+
+“the bureau legal officer” means the legal officer of the Bureau;
+
+“bureau officer” means a person appointed as a bureau officer under *section 8*;
+
+“the Chief Bureau Officer” means the chief officer of the Bureau;
+
+“the Commissioner” means the Commissioner of the Garda Síochána;
+
+F1["criminal conduct" means any conduct which—
+
+(*a*) constitutes an offence or more than one offence, or
+
+(*b*) where the conduct occurs outside the State, constitutes an offence under the law of the state or territory concerned and would constitute an offence or more than one offence if it occurred within the State;]
+
+“the establishment day” means the day appointed by the Minister under *section 2*;
+
+“Garda functions” means any power or duty conferred on any member of the Garda Síochána by or under any enactment (including an enactment passed after the passing of this Act) or the common law;
+
+“member of the family”, in relation to an individual who is a bureau officer or a member of the staff of the Bureau, means the spouse, parent, grandparent, step-parent, child (including a step-child or an adopted child), grandchild, brother, sister, half-brother, half-sister, uncle, aunt, nephew or niece of the individual or of the individual's spouse, or any person who is cohabiting or residing with the individual;
+
+“the Minister” means the Minister for Justice;
+
+F1["place" includes a dwelling;]
+
+“proceedings” includes any hearing before the Appeal Commissioners (within the meaning of the Revenue Acts) or before an appeals officer or the Social Welfare Tribunal under the Social Welfare Acts or a hearing before any committee of the Houses of the Oireachtas;
+
+“Revenue Acts” means—
+
+(*a*) the Customs Acts,
+
+(*b*) the statutes relating to the duties of excise and to the management of those duties,
+
+(*c*) the Tax Acts,
+
+(*d*) the Capital Gains Tax Acts,
+
+(*e*) the F2[Value-Added Tax Consolidation Act 2010],
+
+(*f*) the Capital Acquisitions Tax Act, 1976,
+
+(*g*) the statutes relating to stamp duty and to the management of that duty,
+
+(*h*) Part VI of the Finance Act, 1983,
+
+(*i*) Chapter IV of Part II of the Finance Act, 1992,
+
+and any instruments made thereunder and any instruments made under any other enactment and relating to tax;
+
+“tax” means any tax, duty, levy or charge under the care and management of the Revenue Commissioners.
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to an enactment shall be construed as a reference to that enactment as amended or extended by any other enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 13, commenced on enactment.
+>
+> F2: Substituted (1.11.2010) by *Value-Added Tax Consolidation Act 2010* (31/2010), s. 123(1) and sch. 7, commenced as per s. 125.
+
+## 2. Establishment day.
+
+**2.**—The Minister may, after consultation with the Minister for Finance, by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 31 of 1996<br>...</td><td>...<br>Criminal Assets Bureau Act 1996<br>...</td><td>...<br>s. 2, 6(1), 9 and 19(1) and 3<br>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (15.10.1996) by *Criminal Assets Bureau Act 1996 (Establishment Day) Order 1996* (S.I. No. 310 of 1996), art. 2.
+>
+> 2\. The 15th day of October, 1996, is hereby appointed as the establishment day for the purposes of the *Criminal Assets Bureau Act, 1996* (No. 31 of 1996).
+
+## 3. Establishment of Bureau.
+
+**3.**—(1) On the establishment day there shall stand established a body to be known as the Criminal Assets Bureau, and in this Act referred to as “the Bureau”, to perform the functions conferred on it by or under this Act.
+
+(2) The Bureau shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and to acquire, hold and dispose of land or an interest in land and to acquire, hold and dispose of any other property.
+
+## 4. Objectives of Bureau.
+
+**4.**—Subject to the provisions of this Act, the objectives of the Bureau shall be—
+
+(*a*) the identification of the assets, wherever situated, of persons which derive or are suspected to derive, directly or indirectly, from F3[criminal conduct],
+
+(*b*) the taking of appropriate action under the law to deprive or to deny those persons of the assets or the benefit of such assets, in whole or in part, as may be appropriate, and
+
+(*c*) the pursuit of any investigation or the doing of any other preparatory work in relation to any proceedings arising from the objectives mentioned in *paragraphs (a)* and *(b)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 14, commenced on enactment.
+
+## 5. Functions of Bureau.
+
+**5.**—(1) Without prejudice to the generality of *section 4*, the functions of the Bureau, operating through its bureau officers, shall be the taking of all necessary actions—
+
+(*a*) in accordance with Garda functions, for the purposes of, the confiscation, restraint of use, freezing, preservation or seizure of assets identified as deriving, or suspected to derive, directly or indirectly, from F4[criminal conduct],
+
+(*b*) under the Revenue Acts or any provision of any other enactment, whether passed before or after the passing of this Act, which relates to revenue, to ensure that the proceeds of F4[criminal conduct] or suspected F4[criminal conduct] are subjected to tax and that the Revenue Acts, where appropriate, are fully applied in relation to such proceeds or activities, as the case may be,
+
+(*c*) under the Social Welfare Acts for the investigation and determination, as appropriate, of any claim for or in respect of benefit (within the meaning of section 204 of the Social Welfare (Consolidation) Act, 1993) by any person engaged in F4[criminal conduct], and
+
+(*d*) at the request of the Minister for Social Welfare, to investigate and determine, as appropriate, any claim for or in respect of a benefit, within the meaning of section 204 of the Social Welfare (Consolidation) Act, 1993, where the Minister for Social Welfare certifies that there are reasonable grounds for believing that, in the case of a particular investigation, officers of the Minister for Social Welfare may be subject to threats or other forms of intimidation,
+
+and such actions include, where appropriate, subject to any international agreement, cooperation with any police force, or any authority, being F5[an authority with functions related to the recovery of proceeds of crime,] a tax authority or social security authority, of a territory or state other than the State.
+
+(2) In relation to the matters referred to in *subsection (1)*, nothing in this Act shall be construed as affecting or restricting in any way—
+
+(*a*) the powers or duties of the Garda Síochána, the Revenue Commissioners or the Minister for Social Welfare, or
+
+(*b*) the functions of the Attorney General, the Director of Public Prosecutions or the Chief State Solicitor.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 15(a), commenced on enactment.
+>
+> F5: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 15(b), commenced on enactment.
+
+## 6. Conferral of additional functions on Bureau.
+
+**6.**—(1) The Minister may, if the Minister so thinks fit, and after consultation with the Minister for Finance, by order—
+
+(*a*) confer on the Bureau or its bureau officers such additional functions connected with the objectives and functions for the time being of the Bureau, and
+
+(*b*) make such provision as the Minister considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Bureau or its bureau officers of functions under this section or the performance by the Bureau or its bureau officers of functions so conferred.
+
+(2) The Minister may by order amend or revoke an order under this section (including an order under this subsection).
+
+(3) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(4) In this section “functions” includes powers and duties.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 31 of 1996<br>...</td><td>...<br>Criminal Assets Bureau Act 1996<br>...</td><td>...<br>s. 2, 6(1), 9 and 19(1) and 3<br>...</td></tr></table>
+
+## 7. Chief Bureau Officer.
+
+**7.**—(1) There shall be a chief officer of the Bureau who shall be known, and is referred to in this Act, as the Chief Bureau Officer.
+
+(2) The Commissioner shall, from time to time, appoint to the Bureau the Chief Bureau Officer and may, at any time, remove the Chief Bureau Officer from his or her appointment with the Bureau.
+
+(3) The Chief Bureau Officer shall carry on and manage and control generally the administration and business of the Bureau.
+
+(4) The Chief Bureau Officer shall be responsible to the Commissioner for the performance of the functions of the Bureau.
+
+(5) (*a*) In the event of incapacity through illness, or absence otherwise, of the Chief Bureau Officer, the Commissioner may appoint to the Bureau a person, who shall be known, and is referred to in this section, as the Acting Chief Bureau Officer, to perform the functions of the Chief Bureau Officer.
+
+(*b*) The Commissioner may, at any time, remove the Acting Chief Bureau Officer from his or her appointment with the Bureau and shall, in any event, remove the Acting Chief Bureau Officer from that appointment upon being satisfied that the incapacity or absence of the Chief Bureau Officer has ceased and that the Chief Bureau Officer has resumed the performance of the functions of Chief Bureau Officer.
+
+(*c*) *Subsections (3)* and *(4)* and *paragraph (a)* shall apply to the Acting Chief Bureau Officer as they apply to the Chief Bureau Officer.
+
+(6) The Chief Bureau Officer shall be appointed from amongst the members of the Garda Síochána of the rank of Chief Superintendent.
+
+(7) For the purposes of this Act other than *subsections (1), (3)* and *(9)* of *section 8*, the Chief Bureau Officer or Acting Chief Bureau Officer, as the case may be, shall be a bureau officer.
+
+## 8. Bureau officers.
+
+**8.**—(1) (*a*) The Minister may appoint, with the consent of the Minister for Finance, such and so many—
+
+(i) members of the Garda Síochána nominated for the purposes of this Act by the Commissioner,
+
+(ii) officers of the Revenue Commissioners nominated for the purposes of this Act by the Revenue Commissioners, and
+
+(iii) officers of the Minister for Social Welfare nominated for the purposes of this Act by that Minister,
+
+to be bureau officers for the purposes of this Act.
+
+(*b*) An appointment under this subsection shall be confirmed in writing, at the time of the appointment or as soon as may be thereafter, specifying the date of the appointment.
+
+(2) The powers and duties vested in a bureau officer for the purposes of this Act, shall, F6[subject to *subsections (5), (6), (6A), (6B), (6C)* and *(7)*], be the powers and duties vested in the bureau officer, as the case may be, by virtue of—
+
+(*a*) being a member of the Garda Síochána,
+
+(*b*) the Revenue Acts or, any provision of any other enactment, whether passed before or after the passing of this Act, which relates to revenue, including any authorisation or nomination made thereunder, or
+
+(*c*) the Social Welfare Acts, including any appointment made thereunder,
+
+and such exercise or performance of any power or duty for the purposes of this Act shall be exercised or performed in the name of the Bureau.
+
+(3) A bureau officer, when exercising or performing any powers or duties for the purposes of this Act, shall be under the direction and control of the Chief Bureau Officer.
+
+(4) Where in any case a bureau officer (other than the Chief Bureau Officer) who, prior to being appointed a bureau officer, was required to exercise or perform any power or duty on the direction of any other person, it shall be lawful for the bureau officer to exercise or perform such power or duty for the purposes of this Act on the direction of the Chief Bureau Officer.
+
+(5) A bureau officer may exercise or perform his or her powers or duties on foot of any information received by him or her from another bureau officer or on foot of any action taken by that other bureau officer in the exercise or performance of that other bureau officer's powers or duties for the purposes of this Act, and any information, documents or other material obtained by bureau officers under this subsection shall be admitted in evidence in any subsequent proceedings.
+
+(6) (*a*) A bureau officer may be accompanied or assisted in the exercise or performance of that bureau officer's powers or duties by such other persons (including bureau officers) as the first-mentioned bureau officer considers necessary.
+
+(*b*) A bureau officer may take with him or her, to assist him or her in the exercise or performance of his or her powers or duties, any equipment or materials as that bureau officer considers necessary.
+
+(*c*) A bureau officer who assists another bureau officer under *paragraph (a)* shall have and be conferred with the powers and duties of the first-mentioned bureau officer for the purposes of that assistance only.
+
+(*d*) Information, documents or other material obtained by any bureau officer under *paragraph (a)* or *(c)* may be admitted in evidence in any subsequent proceedings.
+
+F7[(6A) Without prejudice to the generality of *subsection (6)*, a bureau officer who is an officer of the Revenue Commissioners or an officer of the Minister for Social and Family Affairs may, if and for so long as he or she is accompanied by a bureau officer who is a member of the Garda Síochána, attend at, and participate in, the questioning of a person detained pursuant to—
+
+(*a*) section 4 of the Criminal Justice Act 1984, or
+
+(*b*) section 2 of the Criminal Justice (Drug Trafficking) Act 1996 (including that section as applied by section 4 of that Act),
+
+in connection with the investigation of an offence but only if the second-mentioned bureau officer requests the first-mentioned bureau officer to do so and the second-mentioned bureau officer is satisfied that the attendance at, and participation in, such questioning of the first-mentioned bureau officer is necessary for the proper investigation of the offence concerned.
+
+(6B) A bureau officer who attends at, and participates in, the questioning of a person in accordance with *subsection (6A)* may not commit any act or make any omission which, if committed or made by a member of the Garda Síochána, would be a contravention of any regulation made under section 7 of the Criminal Justice Act 1984.
+
+(6C) An act committed or omission made by a bureau officer who attends at, and participates in, the questioning of a person in accordance with *subsection (6A)* which, if committed or made by a member of the Garda Síochána, would be a contravention of any regulation made under the said section 7 shall not of itself render the bureau officer liable to any criminal or civil proceedings or of itself affect the lawfulness of the custody of the detained person or the admissibility in evidence of any statement made by him or her.]
+
+(7) F8[Subject to *section 5(1)*, any information] or material obtained by a bureau officer for the purposes of this Act may only be disclosed by the bureau officer to—
+
+(*a*) another bureau officer or a member of the staff of the Bureau,
+
+(*b*) any member of the Garda Síochána for the purposes of Garda functions,
+
+(*c*) any officer of the Revenue Commissioners for the purposes of the Revenue Acts or any provision of any other enactment, whether passed before or after the passing of this Act, which relates to revenue,
+
+(*d*) any officer of the Minister for Social Welfare for the purposes of the Social Welfare Acts, or
+
+(*e*) with the consent of the Chief Bureau Officer, any other officer of another Minister of the Government or of a local authority (within the meaning of the Local Government Act, 1941) for the purposes of that other officer exercising or performing his or her powers or duties,
+
+and information, documents or other material obtained by a bureau officer or any other person under the provisions of this subsection shall be admitted in evidence in any subsequent proceedings.
+
+(8) A member of the Garda Síochána, an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare, who is a bureau officer, notwithstanding his or her appointment as such, shall continue to be vested with and may exercise or perform the powers or duties of a member of the Garda Síochána, an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare, as the case may be, for purposes other than the purposes of this Act, as well as for the purposes of this Act.
+
+(9) The Chief Bureau Officer may, at his or her absolute discretion, at any time, with the consent of the Commissioner, remove any bureau officer from the Bureau whereupon his or her appointment as a bureau officer shall cease.
+
+(10) Nothing in this section shall affect the powers and duties of a member of the Garda Síochána, an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare, who is not a bureau officer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 58(a), S.I. No. 236 of 2007.
+>
+> F7: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 58(b), S.I. No. 236 of 2007.
+>
+> F8: Substituted (1.09.2008) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 106, S.I. No. 338 of 2008.
+
+## 9. Staff of Bureau.
+
+**9.**—(1) (*a*) The Minister may, with the consent of the Attorney General and of the Minister for Finance, appoint a person to be the bureau legal officer, who shall be a member of the staff of the Bureau and who shall report directly to the Chief Bureau Officer, to assist the Bureau in the pursuit of its objectives and functions.
+
+(*b*) The Minister may, with the consent of the Minister for Finance and after such consultation as may be appropriate with the Commissioner, appoint such, and such number of persons to be professional or technical members of the staff of the Bureau, other than the bureau legal officer, and any such member will assist the bureau officers in the exercise and performance of their powers and duties.
+
+(2) A professional or technical member of the staff of the Bureau, including the bureau legal officer, shall perform his or her functions at the direction of the Chief Bureau Officer.
+
+(3) The Minister may, with the consent of the Attorney General and of the Minister for Finance, at any time remove the bureau legal officer from being a member of the staff of the Bureau whereupon his or her appointment as bureau legal officer shall cease.
+
+(4) The Commissioner may, with the consent of the Minister, at any time remove any professional or technical member of the staff of the Bureau, other than the bureau legal officer, from being a member of the staff of the Bureau whereupon his or her appointment as a member of the staff shall cease.
+
+(5) (*a*) A professional or technical member of the staff of the Bureau, including the bureau legal officer, shall hold his or her office or employment on such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the Minister may, with the consent of the Minister for Finance, and in the case of the bureau legal officer with the consent also of the Attorney General, determine.
+
+(*b*) A professional or technical member of the staff of the Bureau, including the bureau legal officer, shall be paid, out of the moneys at the disposal of the Bureau, such remuneration and allowances for expenses incurred by him or her as the Minister may, with the consent of the Minister for Finance, determine.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 31 of 1996<br>...</td><td>...<br>Criminal Assets Bureau Act 1996<br>...</td><td>...<br>s. 2, 6(1), 9 and 19(1) and 3<br>...</td></tr></table>
+
+## 10. Anonymity.
+
+**10.**—(1) Notwithstanding any requirement made by or under any enactment or any other requirement in administrative and operational procedures, including internal procedures, all reasonable care shall be taken to ensure that the identity of a bureau officer, who is an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare or the identity of any member of the staff of the Bureau, shall not be revealed.
+
+(2) Where a bureau officer who is an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare may, apart from this section, be required under the Revenue Acts or the Social Welfare Acts, as the case may be, for the purposes of exercising or performing his or her powers or duties under those Acts, to produce or show any written authority or warrant of appointment under those Acts or otherwise to identify himself or herself, the bureau officer shall—
+
+(*a*) not be required to produce or show any such authority or warrant of appointment or to so identify himself or herself, for the purposes of exercising or performing his or her powers or duties under those Acts, and
+
+(*b*) be accompanied by a bureau officer who is a member of the Garda Síochána and the bureau officer who is a member of the Garda Síochána shall on request by a person affected identify himself or herself as a member of the Garda Síochána, and shall state that he or she is accompanied by a bureau officer.
+
+(3) Where, in pursuance of the functions of the Bureau, a member of the staff of the Bureau accompanies or assists a bureau officer in the exercise or performance of the bureau officer's powers or duties, the member of the staff shall be accompanied by a bureau officer who is a member of the Garda Síochána and the bureau officer who is a member of the Garda Síochána shall on request by a person affected identify himself or herself as a member of the Garda Síochána, and shall state that he or she is accompanied by a member of the staff of the Bureau.
+
+(4) Where a bureau officer—
+
+(*a*) who is an officer of the Revenue Commissioners exercises or performs any of his or her powers or duties under the Revenue Acts or any provision of any other enactment, whether passed before or after the passing of this Act, which relates to revenue, in writing, or
+
+(*b*) who is an officer of the Minister for Social Welfare exercises or performs any of his or her powers or duties under the Social Welfare Acts in writing,
+
+such exercise or performance of his or her powers or duties shall be done in the name of the Bureau and not in the name of the individual bureau officer involved, notwithstanding any provision to the contrary in any of those enactments.
+
+(5) Any document relating to proceedings arising out of the exercise or performance by a bureau officer of his or her powers or duties shall not reveal the identity of any bureau officer who is an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare or of any member of the staff of the Bureau, provided that where such document is adduced in evidence, *subsection (7)* shall apply.
+
+(6) In any proceedings the identity of any bureau officer who is an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare or of any member of the staff of the Bureau other than that he or she is a bureau officer or the member of such staff, shall not be revealed other than, in the case of a hearing before a court, to the judge hearing the case, or in any other case the person in charge of the hearing, provided that, where the identity of such a bureau officer or member of the staff of the Bureau is relevant to the evidence adduced in the proceedings, *subsection (7)* shall apply.
+
+(7) In any proceedings where a bureau officer or a member of the staff of the Bureau may be required to give evidence, whether by affidavit or certificate, or oral evidence—
+
+(*a*) the judge, in the case of proceedings before a court, or
+
+(*b*) the person in charge of the proceedings, in any other case,
+
+may, on the application of the Chief Bureau Officer, if satisfied that there are reasonable grounds in the public interest to do so, give such directions for the preservation of the anonymity of the bureau officer or member of the staff of the Bureau as he or she thinks fit, including directions as to—
+
+(i) the restriction of the circulation of affidavits or certificates,
+
+(ii) the deletion from affidavits or certificates of the name and address of any bureau officer or member of the staff of the Bureau, including the deponent and certifier, or
+
+(iii) the giving of evidence in the hearing but not the sight of any person.
+
+(8) In this section “member of the staff of the Bureau” means a member of the staff of the Bureau appointed under *section 9*.
+
+## 11. Identification.
+
+**11.**—(1) A person who publishes or causes to be published—
+
+(*a*) the fact that an individual—
+
+(i) being or having been an officer of the Revenue Commissioners or an officer of the Minister for Social Welfare, is or was a bureau officer, or
+
+(ii) is or was a member of the staff of the Bureau,
+
+(*b*) the fact that an individual is a member of the family F9[or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] of—
+
+(i) a bureau officer,
+
+(ii) a former bureau officer,
+
+(iii) a member of the staff of the Bureau, or
+
+(iv) a former member of the staff of the Bureau,
+
+or
+
+(*c*) the address of any place as being the address where any—
+
+(i) bureau officer,
+
+(ii) former bureau officer,
+
+(iii) member of the staff of the Bureau,
+
+(iv) former member of the staff of the Bureau, or
+
+(v) member of the family of any bureau officer, former bureau officer, member of the staff of the Bureau or former member of the staff of the Bureau,
+
+resides,
+
+shall be guilty of an offence under this section.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F10[€3,000], or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £50,000, or to imprisonment for a term not exceeding 3 years, or to both.
+
+(3) In this section references to bureau officer, former bureau officer, member of the staff of the Bureau and former member of the staff of the Bureau do not include references to the Chief Bureau Officer, the Acting Chief Bureau Officer or the bureau legal officer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 169 and sch. pt. 5 item 15, S.I. No. 648 of 2010.
+>
+> F10: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E2: A fine of £50,000 converted (1.01.1999) to €63,486.90. This is multiplied by 1.75 to €111,102.01 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9(1) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 12. Obstruction.
+
+**12.**—(1) A person who delays, obstructs, impedes, interferes with or resists a bureau officer in the exercise or performance of his or her powers or duties under Garda functions, the Revenue Acts or the Social Welfare Acts or a member of the staff of the Bureau in accompanying or assisting a bureau officer shall be guilty of an offence.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F11[€3,000], or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000, or to imprisonment for a term not exceeding 3 years, or to both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E3: A fine of £10,000 converted (1.01.1999) to €12,697.38. This is multiplied by 1.75 to €22,220.41 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9(1) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 13. Intimidation.
+
+**13.**—(1) A person who utters or sends threats to or, in any way, intimidates or menaces a bureau officer or a member of the staff of the Bureau or any member of the family F12[or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] of a bureau officer or of a member of the staff of the Bureau shall be guilty of an offence.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F13[€3,000], or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £100,000, or to imprisonment for a term not exceeding 10 years, or to both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 169 and sch. pt. 5 item 15, S.I. No. 648 of 2010.
+>
+> F13: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E4: A fine of £100,000 converted (1.01.1999) to €126,973.81. This is multiplied by 1.75 to €222,204.17 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9(1) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 14. Search warrants.
+
+**14.**—(1) A judge of the District Court, on hearing evidence on oath given by a bureau officer who is a member of the Garda Síochána, may, if he or she is satisfied that there are reasonable grounds for suspecting that evidence of or relating to assets or proceeds deriving from F14[criminal conduct], or to their identity or whereabouts, is to be found in any place, issue a warrant for the search of that place and any person found at that place.
+
+(2) A bureau officer who is a member of the Garda Síochána not below the rank of superintendent may, subject to *subsection (3)*, if he or she is satisfied that there are reasonable grounds for suspecting that evidence of or relating to assets or proceeds deriving from F14[criminal conduct], or to their identity or whereabouts, is to be found in any place, issue a warrant for the search of that place and any person found at that place.
+
+(3) A bureau officer who is a member of the Garda Síochána not below the rank of superintendent shall not issue a search warrant under this section unless he or she is satisfied that circumstances of urgency giving rise to the need for the immediate issue of the search warrant would render it impracticable to apply to a judge of the District Court under this section for a search warrant.
+
+(4) Subject to *subsection (5)*, a warrant under this section shall be expressed to and shall operate to authorise a named bureau officer who is a member of the Garda Síochána, accompanied by such other persons as the bureau officer thinks necessary, to enter, F15[within a period to be specified in the warrant] (if necessary by the use of reasonable force), the place named in the warrant, and to search it and any person found at that place and seize and retain F15[any material (other than material subject to legal privilege) found at that place, or any such material] found in the possession of a person found present at that place at the time of the search, which the officer believes to be evidence of or relating to assets or proceeds deriving from F14[criminal conduct], or to their identity or whereabouts.
+
+F16[(4A) The period to be specified in the warrant shall be one week, unless it appears to the judge that another period, not exceeding 14 days, would be appropriate in the particular circumstances of the case.]
+
+(5) Notwithstanding *subsection (4)*, a search warrant issued under F17[*subsection (2)*] shall cease to have effect after a period of 24 hours has elapsed from the time of the issue of the warrant.
+
+F18[(5A) The authority conferred by *subsection (4)* to seize and retain any material includes, in the case of a document or record, authority—
+
+(*a*) to make and retain a copy of the document or record, and
+
+(*b*) where necessary, to seize and retain any computer or other storage medium in which any record is kept.]
+
+(6) A bureau officer who is a member of the Garda Síochána acting under the authority of a warrant under this section may—
+
+(*a*) require any person present at the place where the search is carried out to give to the officer the person's name and address, and
+
+(*b*) arrest without warrant any person who—
+
+(i) obstructs or attempts to obstruct that officer or any person accompanying that officer in the carrying out of his or her duties,
+
+(ii) fails to comply with a requirement under *paragraph (a)*, or
+
+(iii) gives a name or address which the officer has reasonable cause for believing is false or misleading.
+
+F19[(6A) A bureau officer who is a member of the Garda Síochána acting under the authority of a warrant under this section may—
+
+(*a*) operate any computer at the place which is being searched or cause it to be operated by a person accompanying the member for that purpose, and
+
+(*b*) require any person at that place who appears to the member to have lawful access to the information in the computer—
+
+(i) to give to the member any password necessary to operate it,
+
+(ii) otherwise to enable the member to examine the information accessible by the computer in a form in which it is visible and legible, or
+
+(iii) to produce the information to the member in a form in which it can be removed and in which it is, or can be made, visible and legible,]
+
+(7) A person who obstructs or attempts to obstruct a person acting under the authority of a warrant under this section, who fails to comply with a requirement under *subsection (6) (a)* or who gives a false or misleading name or address to a bureau officer who is a member of the Garda Síochána, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F20[€3,000], or to imprisonment for a period not exceeding 6 months, or to both.
+
+(8) The power to issue a warrant under this section is in addition to and not in substitution for any other power to issue a warrant for the search of any place or person.
+
+F21[(9) In this section—
+
+"computer at the place which is being searched" includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer, and
+
+"material" includes a copy of the material and a document or record.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(a), commenced on enactment.
+>
+> F15: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(b), commenced on enactment.
+>
+> F16: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(c), commenced on enactment.
+>
+> F17: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(d), commenced on enactment.
+>
+> F18: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(e), commenced on enactment.
+>
+> F19: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 16(f), commenced on enactment.
+>
+> F20: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F21: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E5: The comma at the end of subs. (6A) appears to be in place of a full stop.
+>
+> E6: Provision for applications for search warrants to be made otherwise than in public made (23.07.2010) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 26 (commenced on enactment).
+
+## 14A. Order to make material available.
+
+F22[**14A.**—(1) For the purposes of an investigation into whether a person has benefited from assets or proceeds deriving from criminal conduct or is in receipt of or controls such assets or proceeds a bureau officer who is a member of the Garda Síochána may apply to a judge of the District Court for an order under this section in relation to making available any particular material or material of a particular description.
+
+(2) On such an application the judge, if satisfied—
+
+(*a*) that there are reasonable grounds for suspecting that the person has benefited from such assets or proceeds or is in receipt of or controls such assets or proceeds, and
+
+(*b*) that the material concerned is required for the purposes of such an investigation,
+
+may order that any person who appears to him or her to be in possession of the material shall—
+
+(*i*) produce the material to the member so that he or she may take it away, or
+
+(*ii*) give the member access to it within a period to be specified in the order.
+
+(3) The period to be so specified shall be one week, unless it appears to the judge that another period would be appropriate in the particular circumstances of the case.
+
+(4) (*a*) An order under this section in relation to material in any place may, on the application of the member concerned, require any person who appears to the judge to be entitled to grant entry to the place to allow the member to enter it to obtain access to the material.
+
+(*b*) Where a person required under paragraph (*a*) to allow the member to enter a place does not allow him or her to do so, section 14 shall have effect, with any necessary modifications, as if a warrant had been issued under that section authorising him or her to search the place and any person found there.
+
+(5) Where such material consists of information contained in a computer, the order shall have effect as an order to produce the material, or to give access to it, in a form in which it is visible and legible and in which it can be taken away.
+
+(6) The order—
+
+(*a*) in so far as it may empower a member of the Garda Síochána to take away a document or to be given access to it, shall authorise him or her to make a copy of it and to take the copy away,
+
+(*b*) shall not confer any right to production of, or access to, any material subject to legal privilege, and
+
+(*c*) shall have effect notwithstanding any other obligation as to secrecy or other restriction on disclosure of information imposed by statute or otherwise.
+
+(7) Any material taken away by a member of the Garda Síochána under this section may be retained by him or her for use as evidence in any proceedings.
+
+(8) A judge of the District Court may vary or discharge an order under this section on the application of any person to whom an order under this section relates or a member of the Garda Síochána.
+
+(9) A person who without reasonable excuse fails or refuses to comply with any requirement of an order under this section is guilty of an offence and liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 18, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 14B. Disclosure prejudicial to making available of material under section 14A.
+
+F23[**14B.**—(1) A person who, knowing or suspecting that an application is to be made, or has been made, under *section 14A* for an order in relation to making available any particular material or material of a particular description, makes any disclosure which is likely to prejudice the making available of the material in accordance with the order is guilty of an offence.
+
+(2) In proceedings against a person for an offence under this section it is a defence to prove that the person—
+
+(*a*) did not know or suspect that the disclosure to which the proceedings relate was likely to prejudice the making available of the material concerned, or
+
+(*b*) had lawful authority or reasonable excuse for making the disclosure.
+
+(3) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years or to both.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 18, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 14C. Property held in trust.
+
+F24[**14C.**—(1) For the purposes of an investigation into whether a person has benefited from assets or proceeds deriving from criminal conduct or is in receipt of or controls such assets or proceeds the Chief Bureau Officer or an authorised officer may apply to a judge of the High Court for an order under this section in relation to obtaining information regarding any trust in which the person may have an interest or with which he or she may be otherwise connected.
+
+(2) On such an application the judge, if satisfied—
+
+(*a*) that there are reasonable grounds for suspecting that a person—
+
+(i) has benefited from assets or proceeds deriving from criminal conduct or is in receipt of or controls such assets or proceeds, and
+
+(ii) has some interest in or other connection with the trust,
+
+(*b*) that the information concerned is required for the purposes of such an investigation, and
+
+(*c*) that there are reasonable grounds for believing that it is in the public interest that the information should be disclosed for the purposes of the investigation, having regard to the benefit likely to accrue to the investigation and any other relevant circumstances,
+
+may order the trustees of the trust and any other persons (including the suspected person) to disclose to the Chief Bureau Officer or an authorised officer such information as he or she may require in relation to the trust, including the identity of the settlor and any or all of the trustees and beneficiaries.
+
+(3) An order under this section—
+
+(*a*) shall not confer any right to production of, or access to, any information subject to legal privilege, and
+
+(*b*) shall have effect notwithstanding any other obligation as to secrecy or other restriction on disclosure of information imposed by statute or otherwise.
+
+(4) A judge of the High Court may vary or discharge an order under this section on the application of any person to whom it relates or a member of the Garda Síochána.
+
+(5) A trustee or other person who without reasonable excuse fails or refuses to comply with an order under this section or gives information which is false or misleading is guilty of an offence and liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years or to both.
+
+(6) Any information given by a person in compliance with an order under this section is not admissible in evidence in any criminal proceedings against the person or his or her spouse, except in any proceedings for an offence under *subsection (5)*.
+
+(7) In this section "information" includes—
+
+(*a*) a document or record, and
+
+(*b*) information in non-legible form.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 18, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 15. Assault.
+
+**15.**—(1) A person who assaults or attempts to assault a bureau officer or a member of the staff of the Bureau or any member of the family F25[or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] of a bureau officer or of a member of the staff of the Bureau shall be guilty of an offence.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding F26[€3,000], or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £100,000, or to imprisonment for a term not exceeding 10 years, or to both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 169 and sch., pt. 5, item 15, S.I. No. 648 of 2010.
+>
+> F26: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E7: A fine of £100,000 converted (1.01.1999) to €126,973.81. This is multiplied by 1.75 to €222,204.17 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9(1) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 16. Arrest.
+
+**16.**—(1) Where a bureau officer who is a member of the Garda Síochána has reasonable cause to suspect that a person is committing or has committed an offence under *section 12, 13* or *15* or under section 94 of the Finance Act, 1983, the bureau officer may—
+
+(*a*) arrest that person without warrant, or
+
+(*b*) require the person to give his or her name and address, and if the person fails or refuses to do so or gives a name or address which the bureau officer reasonably suspects to be false or misleading, the bureau officer may arrest that person without warrant.
+
+(2) A person who fails or refuses to give his or her name or address when required under this section or gives a name or address which is false or misleading, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F27[€3,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (12.02.2005) by *Proceeds of Crime (Amendment) Act 2005* (1/2005), s. 17, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 17. Prosecution of offences under section 13 or 15.
+
+**17.**—Where a person is charged with an offence under *section 13* or *15*, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.
+
+## 18. Special leave and compensation, etc.
+
+**18.**—(1) Any person appointed to the Bureau as a bureau officer or appointed under *section 9* or seconded to the Bureau as a member of the staff of the Bureau from the civil service (within the meaning of the Civil Service Regulation Act, 1956) shall, on being so appointed or seconded, be granted special leave with pay from any office or employment exercised by the person at the time.
+
+(2) The Bureau shall, out of the moneys at its disposal, reimburse any Minister of the Government, the Revenue Commissioners or other person paid out of moneys provided by the Oireachtas for the full cost of the expenditure incurred by such Minister of the Government, the Revenue Commissioners or other person paid out of moneys provided by the Oireachtas, in respect of any person appointed or seconded to the Bureau for the full duration of that appointment.
+
+(3) The provisions of the F28[Garda Síochána (Compensation) Act 2022] shall, with any necessary modifications, apply to—
+
+(*a*) bureau officers and members of the staff of the Bureau, and
+
+(*b*) the Chief State Solicitor and solicitors employed in the Office of the Chief State Solicitor, in respect of F29[injuries inflicted on them as a result of a malicious incident within the meaning of that Act] because of anything done or to be done by any of them in a professional capacity for or on behalf of the Bureau,
+
+as they apply to members of the Garda Síochána.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28, F29: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (30/2022), s. 30(a), (b), S.I. No. 163 of 2023.
+
+## 19. Advances by Minister to Bureau and audit of accounts of Bureau by Comptroller and Auditor General.
+
+**19.**—(1) The Minister may, from time to time, with the consent of the Minister for Finance, make advances to the Bureau, out of moneys provided by the Oireachtas, in such manner and such sums as the Minister may determine for the purposes of expenditure by the Bureau in the performance of its functions.
+
+(2) The First Schedule to the Comptroller and Auditor General (Amendment) Act, 1993, is hereby amended by the insertion before “Criminal Injuries Compensation Tribunal” of “Criminal Assets Bureau”.
+
+(3) The person who from time to time has been appointed by the Minister for Finance under the Exchequer and Audit Departments Act, 1866, as the Accounting Officer for the Vote for the Office of the Minister shall prepare in a format prescribed by the Minister for Finance an account of the moneys provided to the Bureau by the Oireachtas in any financial year and submit it for examination to the Comptroller and Auditor General not later than 90 days after the end of that financial year.
+
+(4) All of the duties specified in section 19 of the Comptroller and Auditor General (Amendment) Act, 1993, shall apply to the Accounting Officer for the Vote for the Office of the Minister in regard to the income, expenditure and assets of the Bureau.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 31 of 1996<br>...</td><td>...<br>Criminal Assets Bureau Act 1996<br>...</td><td>...<br>s. 2, 6(1), 9 and 19(1) and 3<br>...</td></tr></table>
+
+## 20. Accounting for tax.
+
+**20.**—On payment to the Bureau of tax in accordance with the provisions of *section 5 (1) (b)*, the Bureau shall forthwith—
+
+(*a*) lodge the tax paid to the General Account of the Revenue Commissioners in the Central Bank of Ireland, and
+
+(*b*) transmit to the Collector-General particulars of the tax assessed and payment received in respect thereof.
+
+## 21. Reports and information to Minister.
+
+**21.**—(1) As soon as may be, but not later than 6 months, after the end of each year, the Bureau shall through the Commissioner present a report to the Minister of its activities during that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) Each report under *subsection (1)* shall include information in such form and regarding such matters as the Minister may direct.
+
+(3) The Bureau shall, whenever so requested by the Minister through the Commissioner, furnish to the Minister through the Commissioner information as to the general operations of the Bureau.
+
+## 22. Expenses.
+
+**22.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 23. Amendment of section 19A (anonymity) of Finance Act, 1983.
+
+**23.**—F30[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Repealed (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1098 and schedule 30, commenced (with restrictions) by s. 1097.
+
+## 24. Amendment of certain taxation provisions.
+
+**24.**—F31[...]
+
+(2) F31[...]
+
+(3) F32[...]
+
+(4) The proviso to subsection (7) (as amended by the Disclosure of Certain Information for Taxation and Other Purposes Act, 1996) of section 39 of the Capital Acquisitions Tax Act, 1976, is hereby deleted.
+
+(5) Subsection (2) (as amended by the Disclosure of Certain Information for Taxation and Other Purposes Act, 1996) of section 104 of the Finance Act, 1983, is hereby amended by the substitution of the following proviso for the proviso to that subsection:
+
+“Provided that the Commissioners may withdraw an assessment made under this subsection and make an assessment of the amount of tax payable on the basis of a return which, in their opinion, represents reasonable compliance with their requirements and which is delivered to the Commissioners within 30 days after the date of the assessment made by the Commissioners pursuant to this subsection.”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Repealed (6.04.1997) by *Taxes Consolidation Act 1997* (39/1997), s. 1098 and schedule 30, commenced (with restrictions) by s. 1097.
+>
+> F32: Repealed (15.12.1999) by *Stamp Duties Consolidation Act 1999* (31/1999) ss. 160, 163 and sch. 3, commenced on enactment subject to transitional provisions in subss. (2) - (4).
+
+## 25. Amendment of section 5 (enquiries or action by inspector or other officer) of the Waiver of Certain Tax, Interest and Penalties Act, 1993.
+
+**25.**—Section 5 of the Waiver of Certain Tax, Interest and Penalties Act, 1993, is hereby amended in subsection (1), by the substitution for “arrears of tax, as the case may be” of “arrears of tax, as the case may be, or that the declaration made by the individual under section 2 (3) (*a*) (iv) is false”.
+
+## 26. Short title.
+
+**26.**—This Act may be cited as the Criminal Assets Bureau Act, 1996.

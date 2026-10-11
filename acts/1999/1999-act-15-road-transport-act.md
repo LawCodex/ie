@@ -1,0 +1,513 @@
+---
+title: "Road Transport Act, 1999"
+identifier: "eli/1999/act/15"
+type: act
+jurisdiction: ie
+language: en
+number: 15
+year: 1999
+date: 1999-06-23
+last_amended: 2019-05-28
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1999/act/15/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1999/act/15/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Road Transport Act, 1999
+
+AN ACT TO AMEND AND EXTEND THE LAW IN RELATION TO ROAD TRANSPORT, TO AMEND SECTIONS 12 AND 16 OF THE ROAD TRAFFIC ACT, 1961, TO MAKE PROVISION IN RELATION TO THE CONFERRAL OF ADDITIONAL POWERS ON CÓRAS IOMPAIR ÉIREANN AND TO PROVIDE FOR RELATED MATTERS. [23*rd June*, 1999]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act affected (4.10.2006) by *Road Traffic and Transport Act 2006* (28/2006), s. 2(8), commenced on enactment.
+>
+> **Road haulage and road passenger transport operators’ licences.**
+>
+> **2**.— ...
+>
+> (8) In ... the Act of 1999 ...—
+>
+> (a) an international road freight carrier’s licence is to be read as a reference to an international road haulage operator’s licence,
+>
+> (b) a national road freight carrier’s licence is to be read as a reference to a national road haulage operator’s licence, and
+>
+> (c) a road freight carrier’s licence is to be read as a reference to a road haulage operator’s licence.
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act—
+
+“the Act of 1935” means the Road Transport Act, 1935;
+
+“the Act of 1978” means the Road Transport Act, 1978;
+
+“the Act of 1986” means the Road Transport Act, 1986;
+
+F1[‘Community licence’ means a Community licence—
+
+(*a*) issued under Article 4 of Regulation (EC) No. 1072 of the European Parliament and of the Council of 21 October 2009[^1] to a haulier carrying goods by road for hire or reward, or
+
+(*b*) issued under Article 4 of Regulation (EC) No. 1073 of the European Parliament and of the Council of 21 October 2009[^2] to a carrier of passengers by coach and bus for hire or reward;]
+
+F2[‘international road haulage operator’s licence’ means an international road haulage operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
+
+‘international road passenger transport operator’s licence’ means an international road passenger transport operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
+
+‘Minister’ means Minister for Transport;
+
+‘national road haulage operator’s licence’ means a national road haulage operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
+
+‘national road passenger transport operator’s licence’ means a national road passenger transport operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;]
+
+“the Principal Act” means the Road Transport Act, 1933;
+
+“restricted road freight licence” has the meaning assigned to it by *section 3;*
+
+“road freight carrier’s licence” means a national road freight carrier’s licence or an international road freight carrier’s licence;
+
+“road passenger transport operator’s licence” means a national road passenger transport operator’s licence or an international road passenger transport operator’s licence;
+
+“transport disc” means a transport disc issued under *section 4;*
+
+“transport officer” means a transport officer appointed under section 15 of the Act of 1986.
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended;
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended;
+
+(*c*) a reference to an enactment includes a reference to that enactment as amended or extended by or under any subsequent enactment including this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (2.12.2011) by *Road Transport Act 2011* (31/2011), s. 20, commenced on enactment.
+>
+> F2: Substituted (4.10.2006) by *Road Traffic and Transport Act 2006* (28/2006), s. 2(4), commenced on enactment.
+
+## 2. Duration of licence.
+
+**2.**—A road freight carrier’s licence or a road passenger transport operator’s licence that is granted after the commencement of this section shall be in force for such period stated in the licence being not more than 5 years from the granting thereof, unless the licence is revoked or suspended by the Minister.
+
+## 3. Restricted road freight licences.
+
+**3.**—(1) Notwithstanding anything in the Principal Act or the Road Transport Act, 1935, the Minister may grant, in respect of a vehicle which complies with the conditions specified in section 7(1) of the Road Transport Act, 1935 (as amended by section 29 of the Transport Act, 1958), a licence (which shall be known and is in this Act referred to as a “restricted road freight licence”) to a person authorising the person to import the vehicle and to use it for the purposes of merchandise road transport in the State, subject to any conditions which the Minister may see fit to impose and specifies in the licence.
+
+(2) The Minister may by order declare that a licence or class of licence (as may be specified in the order) granted by the competent authority of another State, an international organisation or a person or body acting on behalf of such an organisation in pursuance of an act of the European Communities, an international agreement relating to international transport by road to which the Government, the State or the European Communities is or are a party, or an agreement, arrangement or resolution relating to such transport to which the Minister is a party, shall be deemed to be a restricted road freight licence, and any such order made before the coming into operation of this section shall continue in force and be deemed to have been made under this section.
+
+(3) The Minister may by order amend or revoke an order made under this section.
+
+(4) Nothing in this section shall be construed as permitting a person to use a vehicle, in respect of which a restricted road freight licence has been granted, for the delivery in the State of goods which have been loaded onto that vehicle in the State, except where an order made by the Minister under *subsection (2)* expressly permits such delivery.
+
+(5) A person who is, or is deemed under *subsection (2)* to be, the holder of a restricted road freight licence in respect of a vehicle, is not required, in respect of that vehicle, to—
+
+(*a*) hold a road freight carrier’s licence, or
+
+(*b*) obtain a transport disc.
+
+(6) The Minister may at his or her discretion charge a fee of such amount as he or she may determine in respect of a restricted road freight licence or a licence deemed by order under *subsection (2)* to be a restricted road freight licence.
+
+## 4. Issue of transport discs.
+
+**4.**—(1) Subject to this section, the Minister shall, on application, issue to the holder of—
+
+(*a*) a road freight carrier’s licence,
+
+(*b*) a road passenger transport operator’s licence, or
+
+(*c*) a Community licence,
+
+a transport disc in respect of each vehicle to be operated under the licence.
+
+(2) An application for a transport disc shall—
+
+(*a*) be in such form and contain such information in respect of the applicant and the vehicle to which it relates as the Minister may from time to time determine, and
+
+(*b*) be accompanied by the appropriate fee prescribed under *section 7*.
+
+(3) Subject to *subsections (4)*(*a*) and *(5)*, a transport disc—
+
+(*a*) is valid for a period up to five years from the date in respect of which it is issued, and
+
+(*b*) shall be made of such material, and shall be of such pattern and show thereon such information and markings as the Minister may from time to time determine.
+
+(4) Where, on application to the Minister in such form and containing such information as the Minister may from time to time determine, accompanied by the appropriate fee prescribed under *section 7,* the Minister is satisfied that—
+
+(*a*) a transport disc issued in respect of a vehicle has been lost or destroyed or is worn or defaced so as to be illegible, the Minister may issue a replacement transport disc to be valid for the remainder of the term of the transport disc that it replaces, or
+
+(*b*) a vehicle in respect of which a transport disc has been issued is undergoing repairs, the Minister may issue a permit for use in a replacement vehicle during such period not exceeding 21 days as the permit indicates, and in such case the provisions of this Act apply to the replacement vehicle and the permit as if the permit were the transport disc for the vehicle.
+
+(5) Where the holder of a licence adds a vehicle to that licence, the disc issued in respect of the vehicle added shall be valid only until the date of expiration of the licence.
+
+## 5. Prohibitions and general provisions relating to transport discs.
+
+**5.**—(1) No person shall operate a vehicle for the carriage—
+
+(*a*) of passengers under a road passenger transport operator’s licence granted, or a Community licence issued, after the commencement of this subsection, or
+
+(*b*) of merchandise under a road freight carrier’s licence,
+
+unless a transport disc has been issued in respect of the vehicle.
+
+(2) Where a transport disc has been issued in respect of a vehicle, no person shall—
+
+(*a*) operate the vehicle unless the disc is displayed in or on the vehicle in accordance with such instructions as may be issued with the disc by the Minister, in a place that enables the disc to be readily visible and accessible for inspection and does not obscure the vision of the operator of the vehicle while it is being driven, or
+
+(*b*) operate the vehicle if the disc displayed in or on the vehicle is worn or defaced to the extent that the information and markings required to be shown thereon are illegible.
+
+(3) Where—
+
+(*a*) a vehicle in respect of which a transport disc has been issued ceases to be used in connection with the operation carried on by the holder of the licence to which the vehicle relates, or
+
+(*b*) the holder of the licence ceases to be lawfully entitled to carry on the operation to which the licence relates,
+
+the holder shall, if the transport disc is removable from the vehicle, within 30 days, remove it and return it to the Minister.
+
+(4) A person who contravenes any provision of this section shall be guilty of an offence and be liable on summary conviction to a fine not exceeding £1,500.
+
+(5) Where a person is charged with an offence under *subsection (2)(b)*, it shall be a defence for the person to show that an application for a replacement transport disc under *section 4(4)(a)* had been made at the time of the alleged offence.
+
+(6) A certificate signed by an officer of the Minister or a Superintendent of the Garda Síochána stating—
+
+(*a*) that a transport disc was issued on a specified date to a specified person in respect of a specified vehicle, or
+
+(*b*) that on a specified date or during a specified period a transport disc was not in effect in respect of a specified person or vehicle,
+
+shall, without proof of the signature or that the person who signed was such officer or Superintendent, be received in evidence in any proceedings under this Act and shall, in the absence of evidence to the contrary, be proof of the facts stated in the certificate.
+
+## 6. Offences relating to transport discs.
+
+**6.**—If any transport disc issued in respect of a particular vehicle is affixed to any other vehicle, the owner of the first-mentioned vehicle and also the owner of the other vehicle (if he or she is not the same person as the owner of such first-mentioned vehicle) shall each be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £500.
+
+## 7. Regulations relating to transport discs.
+
+**7.**—(1) The Minister may by regulations prescribe the fee to be paid on an application for a transport disc. and may prescribe different fees in respect of different kinds or categories of transport discs, whether as fixed amounts or amounts determined by reference to the type of vehicles to be operated under the licence or by reference to such other matters as the Minister considers are relevant in connection with the charging of such fees.
+
+(2) A regulation under *subsection (1)* may provide that all or a specified portion of any fee that is paid on an application for a transport disc is not required to be returned to the applicant and may be retained by the Minister as administrative costs in the event that the disc is not issued.
+
+(3) The Minister may by regulations exempt any class of holder of a road passenger transport operator’s licence or vehicles of any specified class of such holder from the requirements of *section 5*.
+
+## 8. Application of provisions relating to transport discs and vehicle plates.
+
+**8.**—Except where the contrary intention appears, the provisions of the Principal Act that apply in respect of—
+
+(*a*) a vehicle plate, shall apply with any necessary modifications, in respect of a transport disc, and
+
+(*b*) a transport disc, shall apply with any necessary modifications, in respect of a vehicle plate.
+
+## 9. Prohibition relating to the use of unlicensed persons for the carriage of merchandise.
+
+**9.**—Section 36 of the Principal Act is hereby amended by the substitution of the following subsections for subsection (1):
+
+“(1) No person shall engage or use the services of any undertaking for the carriage by road for reward of merchandise in a vehicle unless—
+
+(*a*) the undertaking is the holder of a road freight carrier’s licence, or
+
+(*b*) the carriage is one in respect of which a road freight carrier’s licence is not required by law.
+
+(1A) In subsection (1) ‘undertaking’ means any natural person, any legal person, whether profit-making or not, any association or group of persons without legal personality, whether profit-making or not, or any official body, whether having its own legal personality or being dependent upon an authority having such personality.”.
+
+## 10. Amendment of section 5 of Road Transport Act, 1978.
+
+**10.**—(1) Section 5 of the Road Transport Act, 1978, is hereby amended—
+
+(*a*) by the substitution for subsection (1) (inserted by section 29(8) of the Dublin Transport Authority Act, 1986), of the following subsection:
+
+“(1) Where an act of the European Communities relating to international transport by road, an international agreement relating to such transport to which the Government, the State or the European Communities is a party, or an agreement, arrangement or resolution relating to such transport to which the Minister is a party so requires, the Minister may by order exempt any specified class of vehicle or any specified class of such transport from section 7 of the Road Transport Act, 1932, sections 6 and 7 of the Road Transport Act, 1935, or any provision of—
+
+(*a*) any Act, or
+
+(*b*) any regulations made under the European Communities Act, 1972,
+
+providing for the licensing of road freight carriers or road passenger transport operators or the issuing of transport discs.”,
+
+and
+
+(*b*) by the insertion of the following subsection after subsection (2):
+
+“(3) Road passenger vehicles which are permitted to be imported into the State under an agreement referred to in subsection (1) of this section that is in force on the day on which this subsection comes into operation shall be deemed to have been exempted from the provisions of *section 4* of the *Road Transport Act, 1999,* by an order made under subsection (1) of this section.”.
+
+(2) Notwithstanding *subsection (1),* an order made by the Minister under section 5(1) of the Road Transport Act, 1978, which is a subsisting order at the commencement of *subsection (1)(a),* shall continue in force until duly revoked by the Minister.
+
+## 11. Parking and operating space for vehicles to be provided by licence holder.
+
+**11.**—(1) The holder of a road freight carrier’s licence or a road passenger transport operator’s licence shall, as a condition of the licence, ensure that adequate parking spaces and operating premises are provided in the State for the vehicles being operated or intended to be operated under the licence.
+
+(2) *Subsection (1)* does not apply in respect of a person who holds a licence on the day immediately preceding the date on which this section comes into operation until the expiration of three years after that date.
+
+## 12. Licensing document offences.
+
+**12.**—(1) A person who—
+
+(*a*) alters or causes or permits the alteration of a licensing document, or
+
+(*b*) engages in the carriage of goods or passengers by road for reward while in possession of a licensing document that has been altered,
+
+shall be guilty of an offence and be liable on summary conviction to a fine not exceeding £1,500.
+
+(2) A licensing document shall be deemed to be a public document for the purposes of section 4(2) of the Forgery Act, 1913.
+
+(3) In this section, “licensing document” means—
+
+(*a*) a road freight carrier’s licence,
+
+(*b*) a road passenger transport operator’s licence,
+
+(*c*) a Community licence,
+
+(*d*) a transport disc,
+
+(*e*) a restricted road freight licence, or
+
+(*f*) such other document as may be prescribed.
+
+## 13. Arrest without warrant.
+
+**13.**—(1) Where a member of the Garda Síochána alleges to a person that the member suspects that such person has committed or is committing an offence resulting from a contravention of—
+
+(*a*) the Principal Act (including an Act construed as one with it) or any instrument made under that Act, or
+
+F3[(*b*) any regulation made under section 3 of the European Communities Act 1972 giving effect to an act of an institution of the European Communities in relation to road haulage, road passenger transport or the issuing of transport discs,]
+
+the member may require of such person his or her name and address, and if such person gives an address outside the State, the member may require the person to give to the member an address within the State, which is satisfactory to the member, for the service of any summons, and may, if such person—
+
+(*c*) fails to give his or her name and address,
+
+(*d*) gives a name or address which the member has reasonable grounds for believing is false or misleading, or
+
+(*e*) having an address outside the State, fails to give an address within the State or gives such an address which the member has reason to doubt is satisfactory for the service of a summons,
+
+arrest such person without warrant.
+
+(2) For the purpose of *subsection (1),* an address is a satisfactory address for service if it appears to the member of the Garda Síochána that—
+
+(*a*) the person will be at the address for a sufficiently long period for it to be possible to serve the person with a summons, or
+
+(*b*) that some other person specified by the first-mentioned person will accept service of a summons for the first-mentioned person at the address.
+
+(3) Where a person—
+
+(*a*) When his or her name is required of him or her under *subsection (1),* refuses or fails to give his or her name and address or gives a name or address which is false or misleading, or
+
+(*b*) having an address outside the State, when required under *subsection (1)* to give an address in the State, gives an address which is false or misleading,
+
+such person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £500.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (4.10.2006) by *Road Traffic and Transport Act 2006* (28/2006), s. 2(7), commenced on enactment.
+
+## 14. Amendment of Road Transport Act, 1986.
+
+**14.**—(1) Section 1(1) of the Act of 1986 is hereby amended by the deletion of the definitions of “international road freight carrier’s licence” and “national road freight carrier’s licence”.
+
+(2) Section 16(1)(i) of the Act of 1986 is hereby amended by the insertion after “used for a purpose connected with road transport” of “, including the engagement or use by a person in the premises or place of the services of an undertaking for the carriage by road for reward of merchandise in a vehicle”.
+
+(3) Section 16 of the Act of 1986 is hereby amended by the insertion after subsection (3) of the following subsections:
+
+“(4) A transport officer shall not, other than with the consent of the occupier, enter such part of a premises used as a private dwelling unless he has obtained a warrant from the District Court under section 16A of this Act authorising such entry.
+
+(5) Where a transport officer in exercise of his powers under this section is prevented from entering any premises or place an application may be made under section 16A of this Act for a warrant authorising such entry.”
+
+## 15. Search warrants.
+
+**15.**—The following section is hereby inserted after section 16 of the Act of 1986:
+
+“16A.—If a judge of the District Court is satisfied on the sworn information of a transport officer that there are reasonable grounds for believing that—
+
+(*a*) a premises or place is used for a purpose connected with road transport, including the engagement or use by a person in the premises or place of the services of an undertaking for the carriage by road for reward of merchandise in a vehicle,
+
+(*b*) a vehicle used for that purpose is at the premises or in the place,
+
+(*c*) there is information or material relating to road transport required by the transport officer for examination held in any premises or place or part of any premises or place, or
+
+(*d*) an offence in connection with road transport has been or is being committed therein,
+
+the judge may issue a warrant authorising a transport officer, accompanied by other transport officers or members of the Garda Síochána, at any time or times within one month from the date of issue of the warrant, on production if so required of the warrant, to enter, if need be by reasonable force, the premises or place, and exercise all or any of the powers conferred on a transport officer under section 16 of this Act.”.
+
+## 16. Payment, in lieu of prosecution, to a Member of the Garda Síochána or a transport officer.
+
+**16.**—F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (21.07.2006) by *Road Traffic Act 2006* (23/2006), s. 22(b), S.I. No. 384 of 2006.
+
+## 17. Amendment of Road Traffic Act, 1961.
+
+**17.**—(1) Section 12 of the Road Traffic Act, 1961, is hereby amended by the insertion of the following subsections after subsection (4):
+
+“(4A) Where a person contravenes subsection (3)(*b*) of this section and the load or loads were consigned to such person by one consignor alone, that consignor shall be guilty of an offence.
+
+(4B) In a prosecution under subsection (4A) of this section it shall be a good defence for the consignor to prove—
+
+(*a*) that it was not practicable for the consignor to estimate the laden weight of the vehicle or combination of vehicles, or
+
+(*b*) that an estimate of the laden weight of the vehicle or combination of vehicles carried out by the consignor prior to the dispatch of the goods indicated that the weight of the vehicle or combination of vehicles did not exceed the maximum weight laden specified by a regulation under this section applying in relation to the vehicle or combination of vehicles.
+
+(4C) In this section ‘consignor’ means a person who engages the services of another person for the carriage by road of merchandise in a vehicle or combination of vehicles.”.
+
+(2) Section 16 of the Road Traffic Act, 1961, is hereby amended by the substitution of “25 kilometres” for “five miles” in both subsections (1)(*b*)(i) and (2)(*c*)(i).
+
+## 18. Continuance of orders made under section 14 of Transport Act, 1950.
+
+**18.**—(1) Notwithstanding the repeal of section 14 of the Transport Act, 1950, by the Act of 1986, any order under the said section 14 that was in force immediately before the passing of the Act of 1986 shall continue in force, and shall be deemed always to have continued in force, on and after such passing as if made under section 25 of the Act of 1986 and may be amended or revoked accordingly, and anything purporting to have been done under any such order shall have effect accordingly.
+
+(2) In this section “the Act of 1986” means the Transport (Re-organisation of Córas Iompair éireann) Act, 1986.
+
+## 19. Amendment of certain superannuation schemes by Córas lompair Éireann.
+
+**19.**—(1) The Board may prepare and submit to the Minister a scheme (in this section called a “special amending scheme”) which—
+
+(*a*) amends a scheme to which this subsection applies (the “receiving scheme”) by providing—
+
+(i) for a fund established by and maintained under the receiving scheme to receive and include assets transferred from a fund established by and maintained under another scheme to which this subsection applies (the “transferring scheme”) and contributions payable under the transferring scheme, and
+
+(ii) for benefits arising under the transferring scheme to be paid out of the fund established by and maintained under the receiving scheme,
+
+or
+
+(*b*) amends a scheme to which this subsection applies (the “transferring scheme”) by providing.
+
+(i) for the assets of a fund established by and maintained under the transferring scheme (if any) to be transferred, and contributions payable under the transferring scheme to be paid, to a fund established by and maintained under another scheme to which this subsection applies (the “receiving scheme”), and
+
+(ii) for benefits arising under the transferring scheme to cease to be payable out of the fund established by and maintained under the transferring scheme.
+
+(2) (*a*) A special amending scheme shall not amend any scheme to which *subsection (1)* applies so as to provide less favourable benefits, or to provide benefits on less favourable terms and conditions, than those provided before the special amending scheme was made.
+
+(*b*) A fund established by and maintained under a scheme which is a receiving scheme for the purposes of *subsection (1)* shall, after receiving any transfer of assets or payment of contributions made pursuant to a special amending scheme, continue to be deemed to be held under an irrevocable trust in accordance with section 44(7) of the Transport Act, 1950.
+
+(3) *Subsection (1)* applies to—
+
+(*a*) the schemes specified in *Part I* of the Table to this section, and
+
+(*b*) any superannuation scheme specified in regulations under *subsection (6)*.
+
+(4) Subsections (1) to (6) of section 44 of the Transport Act, 1950, shall apply, with any necessary modifications and adaptations, to a special amending scheme.
+
+(5) (*a*) The schemes confirmed by the orders specified in *Part II* of the Table to this section (in this subsection referred to as the “scheduled schemes”) shall be deemed always to have been validly made by the Board, and to have been validly confirmed by the Minister, under the said section 44.
+
+(*b*) Notwithstanding *paragraph (a)*, that paragraph does not apply to a scheduled scheme if and in so far as it provides less favourable benefits, or provides benefits on less favourable terms and conditions, than those provided before the scheduled scheme was made.
+
+(*c*) A fund established by and maintained under a scheme amended by a scheduled scheme shall, after receiving any transfer of assets or payment of contributions made pursuant to a scheduled scheme, continue to be deemed to be held under an irrevocable trust in accordance with section 44(7) of the Transport Act, 1950.
+
+(6) The Minister may, if he or she considers it appropriate to do so and is so requested by the Board, specify by regulations for the purposes of *subsection (3)* a superannuation scheme made by the Board or in relation to which the Board may exercise any power formerly exercisable by the person who made the scheme.
+
+(7) In this section “the Board” means Córas Iompair Éireann.
+
+TABLE
+
+*Subsection (1)*.
+
+Part I
+
+<table><tr><td>Córas Iompair Éireann Salaried Officers’ and Clerks’ (G.S.R.) Superannuation Scheme.</td></tr><tr><td>A scheme made under rule 54 of the Scheme aforesaid.</td></tr><tr><td>A scheme made under section 44 of the Transport Act, 1944 (No. 21 of 1944) and confirmed under section 45 of that Act.</td></tr><tr><td>A scheme made under section 44 of the Transport Act, 1950 (No. 12 of 1950) or referred to in section 45 of that Act or made under a power contained in such a scheme.</td></tr><tr><td>A scheme made under a power conferred under section 25 of the Transport (Re-organisation of Córas Iompair Éireann) Act, 1986 (No. 31 of 1986).</td></tr></table>
+
+Part II
+
+*Subsection (5)*.
+
+<table><tr><td>Great Northern Railway Company (Ireland) Pension Fund for Wages Staff (Amendment) Scheme (Confirmation) Order, 1995 (S.I. No. 317 of 1995).</td></tr><tr><td>Great Southern Railway Company Pension Scheme for Regular Wages Staff (Amendment) Scheme (Confirmation) Order, 1995 (S.I. No. 318 of 1995).</td></tr><tr><td>Córas Iompair Éireann Pension Scheme for Regular Wages Staff (Amendment) Scheme (Confirmation) Order, 1996 (S.I. No. 115 of 1996).</td></tr></table>
+
+## 20. Continuance of carrier’s licence granted under section 3 of Act of 1986.
+
+**20.**—A carrier’s licence granted under section 3 of the Act of 1986 (repealed by this Act) which is in force immediately before the repeal of this section shall continue in force for the period stated in the licence and be deemed to have been granted under any regulations in force and made under section 3 of the European Communities Act, 1972, under which a licence granted—
+
+(*a*) entitles the holder to carry on a merchandise road transport business for reward in the State, and
+
+(*b*) in the case of an international road freight carrier’s licence, qualifies the holder to carry on a merchandise road transport business for reward outside the State,
+
+with such vehicles as may be specified in the licence.
+
+## 21. Amendment of section 9 of Carriage of Dangerous Goods by Road Act, 1998.
+
+**21.**—Section 9 of the Carriage of Dangerous Goods by Road Act, 1998, is hereby amended by—
+
+(*a*) the substitution for subsection (1) of the following subsection:
+
+“(1) Where a member of the Garda Síochána alleges to a person that the member suspects that such person has committed or is committing an offence resulting from a contravention of this Act or regulations made under section 17 in connection with the operation on a public road of transport equipment, the member may require of such person his or her name and address, and if such person gives an address outside the State, the member may require the person to give to the member an address within the State, which is satisfactory to the member, for the service of any summons, and may, if such person—
+
+(*a*) fails to give his or her name and address,
+
+(*b*) gives a name or address which the member has reasonable grounds for believing is false or misleading, or
+
+(*c*) having an address outside the State, fails to give an address within the State or gives such an address which the member has reason to doubt is satisfactory for the service of a summons,
+
+arrest such person without warrant.”,
+
+(*b*) in subsection (2), the substitution for “subsection (1)(*b*)” of “subsection (1)”, and
+
+(*c*) the insertion after subsection (2) of the following subsection:
+
+“(3) Where a person—
+
+(*a*) when his or her name is required of him or her under subsection (1), refuses or fails to give his or her name and address or gives a name or address which is false or misleading, or
+
+(*b*) having an address outside the State, when required under subsection (1) to give an address in the State, gives an address which is false or misleading.
+
+such person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £500.”.
+
+## 22. Expenses.
+
+**22.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 23. Repeals.
+
+**23.**—Each enactment mentioned in *column (2)* of the *Schedule* to this Act is hereby repealed to the extent specified opposite that mentioned in *column (3)* of that Schedule.
+
+## 24. Commencement.
+
+**24.**—(1) This Act shall come into operation on such day or days as may be fixed by order or orders of the Minister, either generally or with reference to a particular purpose or provision, and different days may be so fixed for different purposes and different provisions of this Act.
+
+(2) An order under this section may as respects the repeal affected by *section 23* and the *Schedule* to this Act fix different days for the repeal of different provisions mentioned in *column (3)* of that Schedule or for the repeal for different purposes of any such provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (31.10.2005) by *Road Transport Act 1999 (Repeals) (Commencement) Order 2005* (S.I. No. 683 of 2005), art. 2.
+>
+> **2.** The day fixed as the day on which the repeal of a provision of an Act mentioned in column (3) of the Schedule to this Order opposite mention of the Act in column (2) of the Schedule, being a provision repealed by section 23 of the Road Transport Act 1999 (No. 15 of 1999), comes into operation is 31 October 2005.
+>
+> E2: Power pursuant to section exercised (30.09.2005) by *Road Transport Act, 1999 (Commencement) Order 2005* (S.I. No. 611 of 2005), art. 2.
+>
+> **2**. The day fixed as the day on which sections 4 to 8 and section 11 of the Road Transport Act, 1999 (No. 15 of 1999), shall come into operation is 30 September 2005.
+>
+> E3: Power pursuant to section exercised (30.08.1999) by *Road Transport Act, 1999 (Commencement) Order 1999* (S.I. No. 264 of 1999), art. 2.
+>
+> **2**. The 30th day of August, 1999, is hereby fixed as the day on which the Road Transport Act, 1999 (No. 15 of 1999), other than sections 4 to 8, 11, 16 and 23, shall come into operation.
+
+## 25. Short title and construction.
+
+**25.**—(1) This Act may be cited as the Road Transport Act, 1999.
+
+(2) The Principal Act and this Act (other than *sections 17, 18* and *21*) shall be construed together as one Act.
+
+## SCHEDULE
+
+| Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 8 of 1933 | Road Transport Act, 1933 | Sections 3, 9 to 14, 17, 23, 24, 26, 28, 30, 31(3), 32, 33, 34 and 37 and Parts V and VI |
+| No. 21 of 1944 | Transport Act, 1944 | Sections 112, 114, 118 to 121 and 124 |
+| No. 21 of 1955 | Transport (Miscellaneous Provisions) Act, 1955 | Section 2 |
+| No. 19 of 1958 | Transport Act, 1958 | Sections 26 and 27 |
+| No. 8 of 1971 | Road Transport Act, 1971 | Sections 4, 7 and 8 |
+| No. 8 of 1978 | Road Transport Act, 1978 | Sections 7 and 8 |
+| No. 16 of 1986 | Road Transport Act, 1986 | Sections 3, 6, 7, 10, 11 and 12 |
+
+[^1]: OJ No. L 300, 14.11.2009, p.72
+[^2]: OJ No. L 300, 14.11.2009, p.88

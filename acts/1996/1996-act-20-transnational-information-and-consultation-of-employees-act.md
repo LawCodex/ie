@@ -1,0 +1,981 @@
+---
+title: "Transnational Information and Consultation of Employees Act, 1996"
+identifier: "eli/1996/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 1996
+date: 1996-07-10
+last_amended: 2018-01-18
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1996/act/20/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1996/act/20/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Transnational Information and Consultation of Employees Act, 1996
+
+AN ACT TO IMPLEMENT DIRECTIVE NO. 94/45 EC OF 22 SEPTEMBER, 1994 OF THE COUNCIL OF THE EUROPEAN UNION BY PROVIDING FOR THE ESTABLISHMENT OF TRANSNATIONAL ARRANGEMENTS FOR THE INFORMATION AND CONSULTATION OF EMPLOYEES IN COMMUNITY-SCALE UNDERTAKINGS AND COMMUNITY-SCALE GROUPS OF UNDERTAKINGS WHERE REQUESTED IN THE MANNER PROVIDED FOR IN THIS ACT, TO PROVIDE FOR THE ESTABLISHMENT OF EUROPEAN WORKS COUNCILS IN SUCH UNDERTAKINGS OR GROUPS OF UNDERTAKINGS UNLESS AGREEMENTS ENTERED INTO IN ACCORDANCE WITH THIS ACT PROVIDE OTHERWISE, AND TO PROVIDE FOR RELATED MATTERS. [10*th July*, 1996]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3 and sch. 1, subject to transitional provisions in arts. 5-9, in effect as per art. 1(2).
+>
+> **2.**— (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Part 2
+>
+> ...
+>
+> 1922 to 2011 Enactments
+>
+> ...
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 20 of 1996</td><td>Transnational Information and Consultation of Employees Act 1996</td><td>Sections 20(2) and 21(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C2: Application of Act restricted and extended in different circumstances (29.05.2007) by *European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007* (S.I. No. 259 of 2007), reg. 24(1) and (2).
+>
+> **Link to other provisions.**
+>
+> **24.** (1) Where an SCE is a Community-scale undertaking or a controlling undertaking of a Community-scale group of undertakings within the meaning of the Transnational Information and Consultation of Employees Act 1996 (No. 20 of 1996) (amended by the European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 1999 (S.I. No. 386 of 1999)), the provisions of that Act shall not apply to it or its subsidiaries.
+>
+> (2) Notwithstanding paragraph (1), if a special negotiating body of an SCE mentioned in that paragraph decides in accordance with Regulation 11(1) not to open negotiations or to terminate negotiations already opened, the provisions of the Transnational Information and Consultation of Employees Act 1996 (No. 20 of 1996) as amended by the European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 1999 (S.I. No. 386 of 1999) shall apply to it or its subsidiaries.
+>
+> C3: Application of Act restricted and extended in different circumstances (14.12.2006) by *European Communities (European Public Limited-Liability Company) (Employee Involvement) Regulations 2006* (S.I. No. 623 of 2006), reg. 23(1) and (2).
+>
+> **Link to other provisions**
+>
+> **23.** (1) Where an SE is a Community-scale undertaking or a controlling undertaking of a Community-scale group of undertakings within the meaning of the Transnational Information and Consultation of Employees Act 1996 (No.20 of 1996) as amended by the European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 1999 (S.I. No. 386 of 1999), the provisions of that Act shall not apply to it or its subsidiaries.
+>
+> (2) Notwithstanding paragraph (1), in relation to an SE referred to in that paragraph, if a special negotiating body decides in accordance with Regulation 11(1) not to open negotiations or to terminate negotiations already opened, the provisions of the Transnational Information and Consultation of Employees Act 1996 (No. 20 of 1996) as amended by the European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 1999 (S.I. No. 386 of 1999) shall apply.
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 4, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E2: *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 1999* (S.I. No. 386 of 1999) were revoked (13.07.2010) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 20(a).
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Transnational Information and Consultation of Employees Act, 1996.
+
+### 2. Commencement.
+
+**2.**—This Act shall come into operation on such day as the Minister may by order appoint.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (22.09.1996) by *Transnational Information and Consultation of Employees Act, 1996 (Commencement) Order 1996* (S.I. No. 276 of 1996), reg. 2.
+>
+> **2.** The 22nd day of September, 1996, is hereby appointed as the day on which the Transnational Information and Consultation of Employees Act, 1996 (No. 20 of 1996) shall come into operation.
+
+### 3. Interpretation.
+
+**3.**—(1) In this Act, unless the context otherwise requires—
+
+F1[“agency worker” means an agency worker to whom the Protection of Employees (Temporary Agency Work) Act 2012 applies;]
+
+“appointed” means, in the absence of an election, appointed by employees, or appointed by management on a basis agreed with employees;
+
+“central management” means—
+
+(a) in the case of a Community-scale undertaking, the central management of the undertaking, and
+
+(*b*) in the case of a Community-scale group of undertakings, the central management of the controlling undertaking,
+
+or such other level of management determined by the central management or agreed between the central management and the employees of the undertaking or group of undertakings;
+
+“Community-scale undertaking” means any undertaking with at least 1,000 employees within the Member States and at least 150 employees in each of at least two Member States;
+
+“Community-scale group of undertakings” means a group of undertakings with—
+
+(*a*) at least 1,000 employees within the Member States, and
+
+(*b*) at least one group undertaking with at least 150 employees in one Member State and at least one other group undertaking with at least 150 employees in another Member State;
+
+“Community” means—
+
+(*a*) the European Community F2[...]; and
+
+(*b*) Norway, Iceland and Liechtenstein;
+
+F3[‘consultation’ means the establishment of dialogue and exchange of views between employees’ representatives and central management or any more appropriate level of management, at such time, in such fashion and with such content as enables employees’ representatives to express an opinion on the basis of the information provided about the proposed measures to which the consultation is related, without prejudice to the responsibilities of the management, and within a reasonable time, which may be taken into account within the Community-scale undertaking or Community-scale group of undertakings;]
+
+“contract of employment” means a contract of service or of apprenticeship, whether express or implied, and if express, whether oral or in writing;
+
+“controlled undertaking” and “controlling undertaking” have the meanings assigned to them, respectively, by *section 5 (1)*;
+
+F3[‘Directive’ means Directive 2009/38/EC of the European Parliament and of the Council of 6 May 2009 on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees;]
+
+“elected” means elected in accordance with the *First Schedule*,
+
+“employee” means a person who has entered into or works under a contract of employment with an undertaking or group of undertakings, other than a person who is employed in a managerial capacity in the central management of the undertaking or group of undertakings;
+
+“employees’ representatives” means—
+
+(*a*) in the case of a Special Negotiating Body, persons elected or appointed to that Body, who may include—
+
+(i) employees, and
+
+(ii) trade union officials and officials of an excepted body, whether or not they are employees,
+
+and
+
+(b) in the case of a European Works Council or European Employees’ Forum, or in relation to any other arrangement for the information and consultation of employees to which this Act applies, employees elected or appointed to those bodies or for the purposes of those arrangements;
+
+“establishment”, in relation to an undertaking, means a division (however described) of the undertaking physically separated from other parts of the undertaking;
+
+“European Employees’ Forum” means a European Employees’ Forum established in accordance with an agreement referred to in *section 11 (1)*;
+
+“European Works Council” means a Council established in accordance with the *Second Schedule* for the purpose of informing and consulting employees;
+
+“excepted body” has the meaning assigned to it by section 6 (3) of the Trade Union Act, 1941, as amended;
+
+“expert” means a natural person, and may be the holder from time to time of a named office or position in a body corporate or other body or organisation;
+
+“group of undertakings” means a controlling undertaking and its controlled undertakings, and “group undertaking” has a corresponding meaning;
+
+F4[‘information’ has the meaning assigned to it by subsection (1A)(*a*) and shall be construed in accordance with subsection (1A)(*b*);]
+
+“information and consultation procedure” means an information and consultation procedure established in accordance with an agreement referred to in *section 11 (1)*;
+
+“Member State” means a Member State of the Community;
+
+“the Minister” means the Minister for Enterprise and Employment;
+
+F1[“relevant information” means information as respects—
+
+(*a*) the number of agency workers temporarily engaged to work for the employer,
+
+(*b*) those parts of the employer’s business in which those agency workers are, for the time being, working, and
+
+(*c*) the type of work that those agency workers are engaged to do;]
+
+“Special Negotiating Body” means a Special Negotiating Body established in accordance with *section 10* to negotiate with the central management for an agreement for the establishment of arrangements for the information and consultation of employees;
+
+“trade union official” means an official of a trade union licensed under the Trade Union Acts, 1871 to 1990, which is already recognised for collective bargaining or information and consultation purposes by the business units of the Community-scale undertaking or group of undertakings located in the State;
+
+“undertaking” means any form of economic activity.
+
+F4[(1A) For the purposes of this Act—
+
+(*a*) ‘information’ means transmission of data F1[(including relevant information)] by the employer to the employees’ representatives in order to enable them to acquaint themselves with the subject matter and to examine it, and
+
+(*b*) information shall be given at such time, in such fashion and with such content as are appropriate to enable employees’ representatives to—
+
+(i) undertake an in-depth assessment of the possible impact, and
+
+(ii) where appropriate, prepare for consultations with the competent organ of the Community-scale undertaking or Community-scale group of undertakings.]
+
+F1[(1B) For the purposes of this Act, an agency worker to whom the Protection of Employees (Temporary Agency Work) Act 2012 applies shall, for the duration of the agency worker’s assignment with a hirer (within the meaning of that Act), be treated as being employed by the employment agency concerned and, accordingly, references in this Act to contract of employment shall, as respects any such agency worker, be construed as including references to contract of employment within the meaning of that Act.]
+
+(2) A word or expression used in this Act that is also used in the Directive has, unless the context otherwise requires, the same meaning in this Act as it has in the Directive.
+
+(3) In construing a provision of this Act, a court shall give it a construction that will give effect to the Directive, and for that purpose the court shall have regard to the provisions of the Directive, including its preamble.
+
+(4) In this Act, including a Schedule to this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to a Schedule is a reference to a Schedule to this Act.
+
+(5) A reference in this Act to the performance of functions includes a reference to the exercise of powers and the performance of duties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (16.05.2012) by *Protection of Employees (Temporary Agency Work) Act 2012* (13/2012), s. 18, commenced on enactment.
+>
+> F2: Deleted (15.12.1999) by *European Communities (Transnational Information and Consultation of Employees Act, 1996) (Amendment) Regulations 1999* (S.I. No. 386 of 1999), reg. 2; subsequently also deleted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 3(b).
+>
+> F3: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 3(a) and (c). These regulations give the following reference for Directive 2009/38/EC: O.J. No. L. 122, 16.5.2009, p. 28.
+>
+> F4: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 3(d) and (e).
+>
+> **Editorial Notes:**
+>
+> E4: *European Communities (Transnational Information and Consultation of Employees Act, 1996) (Amendment) Regulations 1999* (S.I. No. 386 of 1999) were revoked (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380), reg. 20(a).
+
+### 3A. References to repealed directives.
+
+F5[**3A.**(1) Notwithstanding the repeal of Council Directive 94/45/EC of 22 September 1994, Council Directive 97/74/EC of 15 December 1997 and Council Directive 2006/109/EC of 20 November 2006, any reference in an enactment to any of those Directives, or to any provision of those Directives, shall be construed as a reference to the Directive or to the corresponding provision thereof in accordance with the correlation table set out in Annex III to the Directive.
+
+(2) In this section ‘enactment’ has the meaning assigned to it by section 2(1) of the Interpretation Act 2005.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 4.
+
+### 4. Workforce thresholds.
+
+**4.**—(1) In determining whether, for the purposes of the establishment of a Special Negotiating Body, an undertaking is a Community-scale undertaking or undertakings are a Community-scale group of undertakings, the number of employees employed in the undertaking or group of undertakings shall be taken to be the average number of employees, including part-time employees, employed in the undertaking or group of undertakings during the two years immediately preceding the request for the establishment of the Special Negotiating Body.
+
+F6[(2) The management of every undertaking belonging to the Community-scale group of undertakings and the central management or, having regard to section 9(4), the central management referred to in section 9(3), shall be responsible for obtaining and transmitting to the parties concerned by the application of the Directive the information required for commencing the negotiations referred to in section 10, and without prejudice to the generality of the foregoing such information shall include—
+
+(*a*) the information concerning the structure of the undertaking or the group and its workforce, and
+
+(*b*) the information on the number of employees referred to in the definition of Community-scale undertaking and Community-scale group of undertakings in section 3(1).]
+
+(3) For the purposes of this section—
+
+F7[...]
+
+“part-time employees”, in relation to employment in the State, means employees—
+
+(*a*) in the continuous service of an employer for not less than 13 weeks, and
+
+(*b*) normally expected to work not less than eight hours each week for the employer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 5(a).
+>
+> F7: Deleted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 5(b).
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of Act extended (14.07.2003) by *Protection of Employees (Fixed-Term Work) Act 2003* (29/2003), s. 11(1), commenced on enactment.
+>
+> **Information and consultation.**
+>
+> **11.—** (1) Fixed-term employees shall be taken into account when calculating the threshold above which employees’ representatives bodies may be constituted in an undertaking in accordance with section 4 of the Transnational Information and Consultation of Employees Act 1996.
+>
+> ...
+
+### 5. Definition of controlling and controlled undertaking.
+
+**5.**—(1) In this Act “controlling undertaking” means an undertaking which can exercise a dominant influence over another undertaking by virtue of ownership, financial participation or the rules which govern the controlled undertaking, and “controlled undertaking” means an undertaking over which that dominant influence can be exercised.
+
+(2) The ability of an undertaking to exercise a dominant influence shall be presumed, unless the contrary is proved, when in relation to another undertaking it directly or indirectly—
+
+(*a*) holds a majority of that other undertaking’s subscribed capital,
+
+(*b*) controls a majority of the votes attached to that other undertaking’s issued share capital, or
+
+(*c*) can appoint more than half of the members of that other undertaking’s administrative, management or supervisory body.
+
+(3) Subject to *subsection (4)*, if more than one undertaking in the State meets the criteria in *subsection (2)*, the undertaking that meets the criterion in *subsection (2) (c)* shall be regarded as the controlling undertaking, or if no undertaking meets the criterion in *subsection (2) (c)*, then the undertaking that meets the criterion in *subsection (2) (b)* shall be regarded as the controlling undertaking in preference to one that meets the criterion in *subsection (2) (a)*.
+
+(4) Where an undertaking (in this section referred to as a “joint venture”), wherever in the Community located, is carried on by two undertakings in the State neither of whom can exercise a dominant influence over the joint venture, it shall be regarded as a controlled undertaking of each of them unless they agree that it is a controlled undertaking of one only of them for the purposes of this Act, in which case, but subject to *subsection (5)*, that undertaking shall be regarded as the controlling undertaking of the joint venture.
+
+(5) If being the controlled undertaking of one undertaking would result in employees of a joint venture being deprived of an entitlement to be informed and consulted under this Act they would have if the joint venture were a controlled undertaking of the other undertaking, that other undertaking shall be regarded as the controlling undertaking of the joint venture.
+
+(6) For the purposes of *subsections (2)* and *(3)* but without prejudice to proof that another undertaking is able to exercise a dominant influence, a controlling undertaking’s rights as regards voting and appointment referred to in *subsection (2) (b)* or *(c)* shall include—
+
+(*a*) the rights of any other of its controlled undertakings, and
+
+(*b*) the rights of any person or body acting in the person’s or body’s own name but on behalf of the controlling undertaking (or any other of the controlling undertaking’s controlled undertakings) as the controlling undertaking.
+
+(7) Notwithstanding *subsections (1), (2), (3), (4)* and *(5)*, an undertaking shall not be regarded as a controlling undertaking of another undertaking in which it has holdings where the first-mentioned undertaking is a company referred to in Article 3 (5) (*a*) and (*c*) of F8[Council Regulation (EC) No. 139/2004 of 20 January 2004[^1]], on the control of concentrations between undertakings.
+
+(8) A dominant influence shall not be presumed to be exercised solely by virtue of the fact that an office holder is exercising functions, according to the law of a Member State, relating to liquidation, winding-up, insolvency, cessation of payments, compositions of creditors or analogous proceedings.
+
+(9) The law applicable in order to determine whether an undertaking is a controlling undertaking shall be the law of the Member State which governs that undertaking. Where the law governing an undertaking is not that of a Member State, the law applicable shall be the law of the Member State within whose territory the representative of the undertaking or, in the absence of such a representative, the central management of the group undertaking which employs the highest number of employees in any one Member State, is situated.
+
+(10) Where, in the case of a conflict of laws in the application of *subsection (2)* (except in its application in relation to *subsection (3)*), two or more undertakings from a group satisfy one or more of the criteria in *subsection (2)*, the undertaking which satisfies the criterion in *subsection (2) (c)* shall be regarded as the controlling undertaking unless it is proved that another undertaking is able to exercise a dominant influence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 6.
+
+### 6. Exemption.
+
+**6.**—(1) Subject to *subsections (3), (4)* and *(5)* F9[and section 12A], the obligations under this Act shall not apply to Community-scale undertakings or Community-scale groups of undertakings in which, on the commencement of this Act or the 22nd day of September, 1996, whichever is the earlier, there is or was in force within the same Community-scale undertaking or Community-scale group of undertakings an agreement covering the entire workforce providing for the transnational information and consultation of employees, and while that agreement remains in force.
+
+F10[(1A) Subject to subsections (3), (4) and (5) and section 12A, the obligations under this Act shall not apply to Community-scale undertakings or Community-scale groups of undertakings in the United Kingdom brought within the scope of this Act by virtue of the application of Council Directive 97/74/EC of 15 December 1997 and in which there was in force within the same Community-scale undertaking or Community-scale group of undertakings on 15 December 1999 an agreement covering the entire workforce providing for the transnational information and consultation of employees, and while the agreement remains in force.
+
+(1B) For the purposes of an agreement referred to in subsection (1) or (1A), the obligations under this Act, referred to in subsection (1), or, as the case may be, (1A), shall not apply to an agreement referred to in subsection (1) or, as the case may be, (1A), where such agreements are adjusted because of changes in the structure of the Community-scale undertaking or Community-scale group of undertakings.
+
+(1C) Subject to subsections (3), (4) and (5) and section 12A, the obligations arising from the European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011 shall not apply to Community-scale undertakings or Community-scale groups of undertakings in respect of which—
+
+(*a*) there is in force, within the same Community-scale undertaking or Community-scale group of undertakings, an agreement concluded pursuant to section 12 of this Act, and
+
+(*b*) such agreement was signed or revised between 5 June 2009 and 5 June 2011,
+
+while that agreement remains in force.]
+
+(2) An agreement referred to in F11[F12[*subsection (1), (1A) or (1C)] or (1A)*] may comprise multiple agreements within the same Community-scale undertaking or group of undertakings if, construed together, they satisfy the requirements of that subsection.
+
+(3) At any time before an agreement referred to in F11[F13[*subsection (1), (1A) or (1C)] or (1A)*] expires or within the period of six months immediately after it expires, the parties to the agreement may jointly renew F14[or revise] it for such further period as they think fit.
+
+(4) An agreement renewed F15[or revised] under *subsection (3)* within the six months period referred to in that subsection shall be deemed to have remained in force from the date it would otherwise have expired.
+
+(5) Where an agreement is not renewed F16[or revised] in pursuance of *subsection (3)* before its expiration or before the expiration of the six months period referred to in that subsection, this Act shall, on the expiration of that six months period, but not before, apply in full to and in relation to the Community-scale undertaking or group of undertakings to which the agreement applied.
+
+(6) An agreement referred to in F11[F17[*subsection (1), (1A) or (1C)] or (1A)*] shall be presumed to be valid unless proved to the contrary, and shall remain in force—
+
+(*a*) for such period, if any, as is specified in the agreement or the agreement as renewed F18[or revised]; or
+
+(*b*) in the case of an open ended agreement, until it is brought to an end in accordance with its terms.
+
+(7) An agreement referred to in F11[F19[*subsection (1) or (1A)] or (1A)*] shall not be valid unless it has been accepted by a majority of the workforce to which it applies.
+
+(8) In this section “agreement” includes an open ended agreement subject to review and alteration by the parties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(a).
+>
+> F10: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(b).
+>
+> F11: Substituted (15.12.1999) by *European Communities (Transnational Information and Consultation of Employees Act, 1996) (Amendment) Regulations 1999* (S.I. No. 386 of 1999), reg. 3(b), commenced as per reg. 1(2).
+>
+> F12: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(c).
+>
+> F13: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(d)(i).
+>
+> F14: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(d)(ii).
+>
+> F15: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(e).
+>
+> F16: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(f).
+>
+> F17: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(g)(i).
+>
+> F18: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(g)(ii).
+>
+> F19: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 7(1)(h).
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: subs. (1A) inserted (15.12.1999) by *European Communities (Transnational Information and Consultation of Employees Act, 1996 (Amendment) Regulations 1999* (S.I. No. 386 of 1999), reg. 3(a) and appears to be superseded as per F-note above. These regulations were revoked (13.07.2010) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 20(a).
+
+### 7. Regulations.
+
+**7.**—(1) The Minister may make such regulations as are necessary for the purpose of giving effect to this Act and in particular in relation to—
+
+(*a*) expenses to be borne by the central managements in relation to undertakings and groups of undertakings;
+
+(*b*) the appointment of an arbitrator for the purposes of *section 20* and the terms and conditions to which such an appointment shall be subject;
+
+(*c*) the powers and procedures of arbitrators, and the conduct of arbitration proceedings, under *sections 20* and *21*; and
+
+(*d*) subject to the *Second Schedule* in relation to a European Works Council, the funding by central managements of the expenses of the operation of Special Negotiating Bodies, European Works Councils, European Employees’ Fora or information and consultation procedures.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be expedient for any purpose of this Act.
+
+(3) Every regulation made by the Minister under this section shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+### 8. General obligations.
+
+**8.**—(1) In order to improve the right of employees in Community-scale undertakings and Community-scale groups of undertakings to be informed and consulted, a European Works Council or arrangements for the information and consultation of employees shall be established in every such undertaking and group of undertakings in the manner and under terms, and with the effects, laid down in this Act.
+
+(2) Where a Community-scale group of undertakings consists of one or more undertakings or groups of undertakings which in themselves are Community-scale undertakings or Community-scale groups of undertakings and the employees or their representatives request the establishment of a European Works Council or arrangements for the information and consultation of employees, the European Works Council or, where those arrangements require its establishment, a European Employees’ Forum shall be established at the level of the group, unless an agreement referred to in *section 11 (1)* provides otherwise.
+
+(3) Unless a wider application is provided for in an agreement referred to in *section 11 (1)*, the powers and competence of or in relation to an arrangement for the information and consultation of employees (including a European Employees’ Forum or an information and consultation procedure), or of a European Works Council established pursuant to this Act, shall—
+
+(*a*) in the case of a Community-scale undertaking, cover all the establishments; and
+
+(*b*) in the case of a Community-scale group of undertakings, cover all group undertakings,
+
+located within the Member States.
+
+F20[(4) The arrangements for informing and consulting employees shall be defined and implemented in such a way as to ensure their effectiveness and to enable the undertaking or group of undertakings to take decisions effectively.
+
+(5) Information to, and consultation with, employees must occur at the relevant level of management and representation, according to the subject under discussion and for that purpose, the competence of the European Works Council or European Employees’ Forum and the scope of the information and consultation procedure for employees governed by this Act shall be limited to transnational issues.
+
+(6) For the purposes of this Act, matters shall be considered transnational where they concern—
+
+(*a*) the Community-scale undertaking or Community-scale group of undertakings as a whole, or
+
+(*b*) at least two undertakings or establishments of the undertaking or group situated in two different Member States.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 8.
+
+## PART IIEstablishment of Employee Information and Consultation Procedure or a European Employees Forum or a European Works Council — PART II — Establishment of Employee Information and Consultation Procedure or a European Employees’ Forum or a European Works Council
+
+### 9. Responsibility of central management.
+
+**9.**—(1) The central management shall be responsible for creating the conditions and means necessary for the setting up of an arrangement for the information and consultation of employees, as required by *section 8 (1)*, in a Community-scale undertaking and a Community-scale group of undertakings.
+
+(2) Subject to *subsection (3)*, where the central management is not located in a Member State, the central management’s representative agent in the State, which must be the management of an establishment or part-undertaking of the undertaking or group of undertakings and nominated in writing for that purpose by the central management if not otherwise appointed, shall assume the responsibility referred to in *subsection (1)*.
+
+(3) In the absence of a representative referred to in *subsection (2)*, the management of the establishment or group undertaking in which the greatest number of employees are employed in any one Member State shall assume the responsibility referred to in *subsection (1)*.
+
+(4) For the purposes of this Act, the representative or representatives or, in the absence of any such representative, the management referred to in *subsection (3)*, shall be regarded as the central management.
+
+### 10. Establishment of Special Negotiating Body.
+
+**10.**—(1) In order to facilitate the information and consultation of employees in Community-scale undertakings and Community-scale groups of undertakings, the central management may on its own initiative, or shall at the written request of at least a total of 100 employees or their representatives spread over at least two undertakings or establishments one or more of which are in one Member State and the other or others of which are in at least one other Member State, establish a Special Negotiating Body to negotiate with the central management for the establishment of a European Employees’ Forum or an information and consultation procedure.
+
+(2) For the purposes of *subsection (1)*, “representatives” includes those employees’ representatives already recognised by the undertaking or group of undertakings for collective bargaining or information and consultation purposes.
+
+(3) (a) A request by employees for the establishment of a Special Negotiating Body shall be addressed to the central management but may be lodged with the local management where the identity or location of the central management is not readily discernible to the employees or their representatives making the request.
+
+(*b*) Where the request is lodged with the local management, the local management shall ensure that the request is passed on to the central management within a period of 15 working days from its receipt.
+
+(*c*) Any avoidable or unreasonable delay after that period in the transmission of the request to the central management shall not of itself extend the six month period referred to in *section 13 (1) (b)*.
+
+(4) A Special Negotiating Body shall be established in accordance with the following:
+
+F21[F22[(*a*) the members of the Special Negotiating Body shall be elected or appointed in proportion to the number of employees employed in each Member State by the Community-scale undertaking or Community-scale group of undertakings concerned, by allocating in respect of each Member State, one seat per portion of employees employed in that Member State amounting to 10 per cent, or a fraction thereof, of the number of employees employed in all the Member States taken together;]]
+
+F23[(*aa*) employees in undertakings or establishments (or both) in which, through no fault of the employees, there are no employees’ representatives, shall have the right to elect or appoint members of the Special Negotiating Body;]
+
+(*b*) F24[...]
+
+(*c*) F24[...]
+
+(*d*) employees’ representatives from countries that are not within the Community may be permitted to participate in the meetings and activities of the Body but shall not be entitled to a vote.
+
+F22[(5) The Special Negotiating Body shall, by notice in writing, as soon as practicable after the election or appointment of its members, inform the central management and local management of its composition and of the start of the negotiations.]
+
+F23[(6) The Special Negotiating Body shall, by notice in writing, as soon as practicable after the election or appointment of its members, inform the competent European employees’ and employers’ organisations of its composition and of the start of the negotiations, unless an alternative procedure is agreed with the central management.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (16.08.2007) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2007* (S.I. No. 599 of 2007), reg. 2. These regulations were revoked (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 20(b).
+>
+> F22: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 9(a) and (d).
+>
+> F23: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 9(b) and (d).
+>
+> F24: Deleted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 9(c).
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: subs. (4)(a) amended (15.12.1999) by *European Communities (Transnational Information and Consultation of Employees Act, 1996) (Amendment) Regulations 1999* (S.I. No. 386 of 1999), reg. 4, commenced as per reg. 1(2). These regulations were revoked (13.07.2010) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 20(a).
+
+### 11. Functions of Special Negotiating Body.
+
+**11.**—(1) Subject to *subsection (4)* and *section 12 (8)*, the function of the Special Negotiating Body shall be to negotiate with the central management for a written agreement or agreements for the establishment of arrangements for the information and consultation of employees and determining the matters referred to in *section 12 (3), (4)* or *(5)*.
+
+(2) With a view to the conclusion of an agreement referred to in *subsection (1)*, the central management shall convene a meeting with the Special Negotiating Body and shall inform local managements accordingly.
+
+F25[(2A) Before and after any meeting with the central management, the Special Negotiating Body shall be entitled to meet without representatives of the central management being present, using any necessary means for communication.]
+
+F26[(3)(*a*) For the purpose of the negotiations, the Special Negotiating Body may request assistance from experts of its choice who can include representatives of competent recognised Community-level trade union organisations.
+
+(*b*) Such experts and such trade union representatives may be present at negotiation meetings in an advisory capacity at the request of the Special Negotiating Body.]
+
+(4) The Special Negotiating Body may decide, by at least two-thirds of the votes of its members present and entitled to vote at the meeting, not to open negotiations referred to in *subsection (1)*, or to terminate negotiations already opened.
+
+(5) A decision taken under *subsection (4)* shall cause the cessation of the procedure to conclude an agreement referred to in *subsection (1)* and when it has been taken the provisions in the *Second Schedule* shall not apply.
+
+(6) A new request to convene a Special Negotiating Body shall not be made earlier than two years after a decision taken under *subsection (4)*, unless the parties concerned agree on a shorter period.
+
+(7) The reasonable expenses relating to the negotiations referred to in *subsection (1)* shall be borne by the central management so as to enable the Special Negotiating Body to carry out its functions in an appropriate manner.
+
+(8) For the purposes of *subsection (7)*, reasonable expenses shall include the cost of meetings of the Special Negotiating Body, whether with the central management or otherwise, including the cost of materials, the venue, translations, travel and accommodation, and the equivalent cost of one expert per meeting.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 10(a).
+>
+> F26: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 10(b).
+
+### 12. Content of agreement.
+
+**12.**—(1) The central management and the Special Negotiating Body shall carry out the negotiations referred to in *section 11 (1)* in a spirit of co-operation with a view to reaching an agreement or agreements.
+
+(2) An arrangement for the information and consultation of employees referred to in *section 11 (1)* may invoke the establishment of a European Employees’ Forum but the parties may also agree to establish one or more information and consultation procedures instead of a European Employees’ Forum.
+
+(3) Without prejudice to the autonomy of the parties or the generality of *section 11 (1)*, an agreement F27[effected in writing] making arrangements for the information and consultation of employees, whether it involves the establishment of a European Employees’ Forum or an information and consultation procedure, shall determine—
+
+(*a*) the undertakings of the Community-scale group of undertakings, or the establishments of the Community-scale undertaking, covered by the agreement,
+
+F28[(*b*) the date of entry into force of the agreement and its duration, the arrangements for amending or terminating the agreement and the cases in which the agreement shall be renegotiated and the procedure for its renegotiation, including, where necessary, where the structure of the Community-scale undertaking or Community-scale group of undertakings changes, and]
+
+(*c*) by what method the information conveyed to employees’ representatives shall be conveyed to employees in the State and the opinion of employees given on the information so conveyed shall be recorded, irrespective of the Member State in which the central management is located.
+
+(4) Where an agreement requires the establishment of a European Employees’ Forum, it shall also determine—
+
+F28[(*a*) the composition of the Forum, the number of members, the allocation of seats, and the term of office, taking into account where possible the need for balanced representation of employees with regard to their activities, category and gender,]
+
+F28[(*b*) the functions and the procedure for information and consultation of the Forum and the arrangements for linking information and consultation of the Forum and national employee representation bodies, in accordance with the principles set out in section 8(5),]
+
+F29[(*ba*) where necessary, the composition, the appointment procedure, the functions and the procedural rules of the select committee set up within the Forum,]
+
+(*c*) the venue, frequency and duration of meetings of the Forum, and
+
+(*d*) the financial and other resources to be allocated to the Forum.
+
+(5) Where an agreement requires the establishment of an information and consultation procedure, it shall also determine—
+
+(*a*) what that procedure shall be,
+
+(*b*) the issues for information and consultation,
+
+(*c*) the methods according to which the employees’ representatives in the different Member States can meet for exchange of views regarding the information conveyed to them, and
+
+(*d*) the financial and other resources to be allocated to ensure the operation of the procedure and the holding of the meetings referred to in *paragraph (c)*.
+
+F30[(5A) The information referred to in paragraph (*c*) of subsection (5) shall relate in particular to information relating to transnational questions which significantly affect employees’ interests.]
+
+(6) Unless it otherwise provides, an agreement shall not be subject to the subsidiary requirements of the *Second Schedule*.
+
+(7) For the purposes of concluding an agreement, the Special Negotiating Body shall act by a majority of its members present and entitled to vote at a meeting.
+
+(8) An agreement which results in the establishment of a European Employees’ Forum or an information and consultation procedure shall not provide for its re-negotiation by a Special Negotiating Body but may be re-negotiated with the central management by the European Employees’ Forum (which shall be deemed to continue in existence as may be necessary for that purpose) or the employees’ representatives to the information and consultation procedure, as the case may be.
+
+(9) A Special Negotiating Body shall remain in existence for as long only as it continues to have the function of negotiating for an agreement referred to in *section 11 (1)* and shall automatically dissolve on its ceasing to have that function.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 11(a)(i).
+>
+> F28: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 11(a)(ii), (b)(i) and (ii).
+>
+> F29: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 11(b)(iii).
+>
+> F30: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 11(c).
+
+### 12A. Adaptation of agreements in event of significant structural changes.
+
+F31[**12A.**(1) Where the structure of the Community-scale undertaking or Community-scale group of undertakings changes significantly, and—
+
+(*a*) in the absence of provisions established by any agreement in force, or
+
+(*b*) in the event of conflicts between the relevant provisions of 2 or more applicable agreements,
+
+the central management shall initiate the negotiations referred to in section 10 on its own initiative or at the written request of at least 100 employees or their representatives in at least 2 undertakings or establishments in at least 2 different Member States.
+
+(2) At least 3 members of the existing European Employees Forum or European Works Council or, where there is more than one such Forum or Council, at least 3 members of each Forum or Council, shall, in addition to the members elected or appointed pursuant to section 10, be members of the Special Negotiating Body.
+
+(3) During the negotiations, the existing European Employees’ Forum or European Works Council or, where there is more than one such Forum or Council, each Forum or Council, shall continue to operate in accordance with any arrangements adapted by agreement between the members of the Forum or Council and the central management.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 12.
+
+### 13. Subsidiary requirements.
+
+**13.**—(1) The subsidiary requirements set out in the *Second Schedule* shall apply to an undertaking or group of undertakings, and a European Works Council shall be established—
+
+(*a*) where the central management and the Special Negotiating Body so agree,
+
+(*b*) where the central management refuses to commence negotiations within six months of a request referred to in *section 10 (1)*, or
+
+(*c*) where after the expiration of a period of three years from the date of the request, the parties are unable to conclude an agreement and the Special Negotiating Body has not taken the decision provided for in *section 11 (4)*.
+
+(2) Where the subsidiary requirements apply to an undertaking or group of undertakings, the central management shall as soon as practicable, but in any case not later than six months after they first become applicable, comply with the requirements.
+
+## PART IIIMiscellaneous — PART III — Miscellaneous
+
+### 14. Employees’ representatives representing employees employed in the State.
+
+**14.**—Employees’ representatives who represent employees employed in the State on a Special Negotiating Body, European Works Council or European Employees’ Forum, or in relation to an information and consultation procedure, shall be—
+
+(*a*) elected by those employees,
+
+(*b*) appointed by those employees as determined by them, or
+
+(*c*) appointed by the central management on a basis agreed with those employees,
+
+and on written notification to the central management of their election or appointment being given shall, unless the contrary is proved, be regarded as having been duly elected or appointed.
+
+### 15. Confidential information.
+
+**15.**—(1) Subject to *subsection (2)* and *section 20*, a person who is or at any time was—
+
+(*a*) a member of—
+
+(i) a Special Negotiating Body,
+
+(ii) a European Employees’ Forum, or
+
+(iii) a European Works Council,
+
+or
+
+(*b*) an employees’ representative to an information and consultation procedure,
+
+shall not reveal any information expressly provided in confidence to him or her or to the Body, Forum or Council.
+
+(2) A person may, in accordance with his or her duties as a member, expert or employees’ representative to the procedure, disclose such information—
+
+(*a*) to the Body, Forum or Council of which he or she is or was then a member,
+
+(*b*) to another employees’ representative to the procedure, or
+
+(*c*) to the member, body or person he or she is or was then employed to advise.
+
+(3) The central management may withhold from a Special Negotiating Body, European Employees’ Forum, European Works Council or in connection with an information and consultation procedure, information that it claims is commercially sensitive—
+
+(*a*) where it can show that the disclosure would be likely to prejudice significantly and adversely the economic or financial position of an undertaking or group of undertakings or breach statutory or regulatory rules, or
+
+(*b*) where the information is of a kind that meets objective standards for determining that it should be withheld agreed between the central management and the Special Negotiating Body, European Employees’ Forum, European Works Council or the employees’ representatives to an information and consultation procedure.
+
+(4) In this section “member” and “employees’ representative to an information and consultation procedure” includes a person who at any time, as an expert, assists or assisted such a member or person.
+
+### 16. Operation of information and consultation arrangements and European Works Council.
+
+**16.**—The central management and the employees’ representatives, in the framework of an arrangement for the information and consultation of employees (being either a European Employees’ Forum or an information and consultation procedure) or a European Works Council, shall work in a spirit of co-operation with due regard to their reciprocal rights and obligations.
+
+### 17. Protection of employees’ representatives.
+
+**17.**—(1) Employees’ representatives who are employees and who perform their functions in accordance with this Act shall not—
+
+(*a*) be dismissed or suffer any unfavourable change in their conditions of employment or any unfair treatment, including selection for redundancy, or
+
+(*b*) suffer any other action prejudicial to their employment,
+
+because of their status or reasonable activities as employees’ representatives.
+
+F32[(1A) Without prejudice to the competence of other bodies or organisations in this respect, central management shall provide the members of the European Employees’ Forum or European Works Council, as the case may be, with the means required to apply the rights arising from the Directive, to represent the collective interests of employees of the Community-scale undertaking or Community-scale group of undertakings concerned.]
+
+(2) Employees’ representatives shall be afforded such reasonable facilities, including time off, as will enable them to carry out their functions as employees’ representatives promptly and efficiently.
+
+(3) *Subsections (1)* and *(2)* shall apply in particular to attendance by employees’ representatives at meetings of Special Negotiating Bodies, European Employees’ Fora, European Works Councils or any other meetings within the framework of an agreement referred to in *section 11 (1)* or of the *Second Schedule*.
+
+(4) Employees’ representatives who are employed in a Community-scale undertaking or a Community-scale group of undertakings shall be paid their wages (within the meaning of the Payment of Wages Act, 1991) for any period of absence for the purposes of the performance of their functions under this Act.
+
+F33[(4A) An employees’ representative, or an alternate of that representative, who is a member of the crew of a seagoing vessel, shall be entitled to participate in—
+
+(*a*) a meeting of the Special Negotiating Body or of the European Works Council, or
+
+(*b*) any other meeting within the framework of an agreement referred to in *section 11(1)*,
+
+where that employees’ representative, or that alternate, is not at sea or in a port in a country other than that in which the shipping company is domiciled, when the meeting takes place.
+
+(4B) A meeting referred to in *subsection (4A)* shall, where practicable, be scheduled to facilitate the participation of an employees’ representative, or an alternate of that representative, who is a member of the crew of a seagoing vessel.
+
+(4C) Where an employees’ representative, or an alternate of that representative, who is a member of the crew of a seagoing vessel, is unable to attend a meeting, the possibility of using, where possible, new information and communications technologies shall be considered.]
+
+F32[(5) Without prejudice to *section 15*, the members of the European Employees’ Forum or European Works Council, as the case may be, shall inform—
+
+(*a*) the representatives of the employees of—
+
+(i) the establishments of a Community-scale group of undertakings, or
+
+(ii) the undertakings of a Community-scale group of undertakings,
+
+or
+
+(*b*) in the absence of such representatives, the workforce as a whole,
+
+of the content and outcome of the information and consultation procedure carried out in accordance with this Act.
+
+(6) In so far as it is necessary for the exercise of their representative duties in a transnational setting, the members of the Special Negotiating Body, the European Employees’ Forum or European Works Council, as the case may be, shall be provided with appropriate training by their employers without loss of wages.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 13(a) and (b).
+>
+> F33: Inserted (18.01.2018) by *European Communities (Seafarers) Regulations 2018* (S.I. No. 15 of 2018), reg. 3.
+>
+> **Editorial Notes:**
+>
+> E7: Redress and appeal procedures for purposes of section provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44 and sch. 5 part 1 item 6, sch. 6 part 1 item 9, sch. 6 part 2 item 9, S.I. No. 410 of 2015.
+
+### 17A. Decision of adjudication officer under section 41 of Workplace Relations Act 2015
+
+F34[**17A.** A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 17 shall do one or more of the following, namely—
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded,
+
+(*b*) order the employer to take a specified course of action,
+
+(*c*) order the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 9, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+### 17B. Decision of Labour Court on appeal from decision referred to in section 17A
+
+F35[**17B.** A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 17A, shall affirm, vary or set aside the decision of the adjudication officer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (1.10.2015) by *Workplace Relations Act 2015*, s. 52(1) and sch. 7 part 1 item 9, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+### 18. Offences.
+
+**18.**—(1) An undertaking or group of undertakings the central management of which refuses to provide information about the workforce numbers or status of employees for the purposes of *section 4* or unreasonably and wilfully obstructs or delays the provision of such information, shall be guilty of an offence.
+
+(2) An undertaking or group of undertakings the central management of which does not comply with the requirements referred to in *section 13 (2)* applicable to it shall be guilty of an offence.
+
+(3) A person to whom *section 15 (1)* applies who, except as permitted by *section 15*, reveals information expressly provided in confidence to him or her, the Body, Forum or Council of which he or she is a member, or the member or body he or she is employed to advise, shall be guilty of an offence.
+
+F36[(3A) An undertaking or group of undertakings the central management of which does not comply with the requirements referred to in section 12A(1) applicable to it shall be guilty of an offence.]
+
+(4) Where an offence under this Act which is committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person who, when the offence was committed, was a director, manager, secretary or other similar officer of the body or a person who was purporting to act in such capacity, that person (as well as the body corporate) shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence committed by the body corporate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 14.
+
+### 19. Prosecution and penalties.
+
+**19.**—(1) A person guilty of an offence under F37[section 18(1), (2) or (3A)] shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or, at the discretion of the court, to imprisonment for a term not exceeding six months or to both the fine and the imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000 or, at the discretion of the court, to imprisonment for a term not exceeding three years or to both the fine and the imprisonment.
+
+(2) If the offence under F37[section 18(1), (2) or (3A)] of which a person was convicted is continued after conviction, the person shall be guilty of a further offence on every day on which the act or omission constituting the offence continues, and for each such further offence the person shall be liable on summary conviction to a fine not exceeding £200 or on conviction on indictment to a fine not exceeding £1,000.
+
+(3) A person guilty of an offence under *section 18 (3)* shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or, at the discretion of the court, to imprisonment for a term not exceeding six months or to both the fine and the imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000 or, at the discretion of the court, to imprisonment for a term not exceeding three years or to both the fine and the imprisonment.
+
+(4) Proceedings in relation to a summary offence under *section 18* may be brought and prosecuted by the Minister for Enterprise and Employment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 15(a) and (b).
+
+### 20. Arbitration relating to confidentiality and withholding of sensitive information.
+
+**20.**—(1) Disputes between the central management and employees (or their representatives) employed in the State concerning the withholding by the central management of commercially sensitive information or as to whether information disclosed by the central management in confidence to employees’ representatives is of a kind that, pursuant to *section15*, may not be revealed, may be referred by either the central management or employees’ representatives to an independent arbitrator appointed by the Minister under regulations made for the purposes of this section.
+
+(2) An arbitrator appointed under *subsection (1)* shall be paid, from moneys made available for that purpose by the Oireachtas, such fees as the Minister, with the consent of the Minister for Finance, may determine.
+
+(3) The parties to an arbitration under this section shall each bear their own costs.
+
+(4) The procedure adopted by the arbitrator shall, as far as practicable, protect the confidentiality of the information concerned.
+
+(5) A party to an arbitration under this section may not appeal to a court against a determination of the arbitrator except on a point of law.
+
+### 21. Arbitration relating to disputes concerning interpretation or operation of agreements.
+
+**21.**—F38[(1) Disputes between the central management and employees or their representatives concerning—
+
+(*a*) the interpretation or operation of an agreement referred to in section 11(1), or
+
+(*b*) matters provided for in section 17,
+
+may be referred by either the central management or employees’ representatives to an independent arbitrator, appointed on such terms as to remuneration or otherwise as agreed between the parties.]
+
+(2) If the parties cannot reach agreement on the appointment or terms of appointment of an arbitrator, either of them may apply to the Labour Court established by section 10 of the Industrial Relations Act, 1946, which shall refer the dispute to the arbitration of one or more persons as it thinks fit.
+
+(3) An arbitrator to whom under *subsection (2)* a dispute is referred shall be paid such fees as the Minister, with the consent of the Minister for Finance, may determine, which fees shall be paid by the parties or a party to the arbitration as directed by the arbitrator.
+
+(4) An arbitrator to whom under *subsection (2)* a dispute is referred shall make his or her determination on the basis of the written submissions of the parties, but may conduct a hearing, at which both parties may be present, if he or she thinks the circumstances of the case require it.
+
+(5) Subject to *subsection (3)*, the parties to an arbitration under this section shall bear their own costs.
+
+(6) A party to an arbitration under this section may not appeal to a court against a determination of the arbitrator except on a point of law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 16.
+
+### 22. Application.
+
+F39[**22.**—This Act shall apply without prejudice to—
+
+(*a*) the Employees (Provision of Information and Consultation) Act 2006,
+
+(*b*) Part II of the Protection of Employment Act 1977, and
+
+(*e*) Regulation 8 of the European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 17.
+
+### Relationship with other Community and national provisions.
+
+F40[**22A.**(1) Information and consultation in relation to the European Employees’ Forum or European Works Council, as the case may be, shall be linked to those of the national employee representation bodies, with due regard to the competences and areas of action of each and to the principles set out in section 8(5).
+
+(2) The arrangements for the links between the information and consultation of the European Works Council or European Employees’ Forum, as the case may be, and national employee representation bodies shall be established by the agreement referred to in section 11(1).
+
+(3) The agreement referred to in section 11(1) shall be without prejudice to any enactment providing for information and consultation of employees.
+
+(4) Where no such arrangements have been provided for by agreement, the processes of informing and consulting shall be conducted in the European Works Council or European Employees’ Forum, as the case may be, as well as in the national employee representation bodies in cases where decisions likely to lead to substantial changes in work organisation or contractual relations are envisaged.
+
+(5) In this section ‘enactment’ has the meaning assigned to it by section 2(1) of the Interpretation Act 2005.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 18.
+
+### 23. Arbitration Acts not to apply to arbitrations under sections 20 and 21.
+
+**23.**—The Arbitration Acts, 1954 and 1980, shall not apply to or in relation to an arbitration under *section 20* or *21*.
+
+## FIRST SCHEDULE — Election of Employees’ Representatives
+
+1\. An employee who is employed in the State by the relevant undertaking or group of undertakings (wherever located) on the day or days of the election for employees’ representatives, shall be entitled to vote in such an election.
+
+2\. An employee who has been employed in the State by the undertaking or group of undertakings in a full-time or regular part-time capacity for a continuous period of not less than one year on the nomination day, or, in relation to a Special Negotiating Body, a trade union official or official of an excepted body, whether or not he or she is an employee, shall be eligible to stand as a candidate for election as an employees’ representative provided that he or she is nominated—
+
+(*a*) by a trade union or an excepted body which is already recognised by the business units of the undertaking or group of undertakings located in the State for collective bargaining or information and consultation purposes, or
+
+(*b*) by at least two employees.
+
+3\. Where the number of candidates on the nomination day exceeds the number of employees’ representatives to be elected to the Special Negotiating Body or a European Works Council, or in connection with an arrangement for the information and consultation of employees, a poll shall be taken by the returning officer and voting in the poll shall take place by secret ballot on a day or days to be decided by the returning officer and according to the principle of proportional representation.
+
+4\. The central management in consultation with existing employee representatives shall appoint a returning officer whose duties shall include the organisation and conduct of nominations and elections and that officer may authorise other persons to assist in the performance of the duties of returning officer.
+
+5\. The returning officer shall perform his or her duties in a fair and reasonable manner and in the interests of an orderly and proper conduct of nomination and election procedures.
+
+6\. The cost of the nomination and election procedure shall be borne by the central management.
+
+## SECOND SCHEDULE — Subsidiary Requirements: European Works Council
+
+Competence.
+
+1\. F41[(1) The competence of the European Works Council (in this Schedule referred to as ‘the Council’) shall be determined in accordance with section 8(5), whether the central management is located within the Community or elsewhere.]
+
+F41[(2) The information to the Council shall relate in particular to the structure, economic and financial situation, probable development and production and sales of the Community-scale undertaking or group of undertakings.]
+
+F42[(3) The information to and consultation with the Council shall relate in particular to—
+
+(*a*) the situation and probable trend of employment,
+
+(*b*) investments, and
+
+(*c*) substantial changes concerning organisation, introduction of new working methods or production processes, transfers of production, mergers, cut-backs or closures of undertakings, establishments or important parts thereof, and collective redundancies.
+
+(4) The consultation shall be conducted in such a way that the employees’ representatives can meet with the central management and obtain a response, and the reasons for that response, to any opinion they might express.]
+
+Composition.
+
+2\. (1) The Council shall be composed of employees’ representatives who shall be employees of the Community-scale undertaking or Community-scale group of undertakings.
+
+(2) The representatives of employees based in the State shall be elected in accordance with the *First Schedule*.
+
+(3) In the absence of elections, the representatives shall be appointed.
+
+(4) F41[The members of the Council shall be elected or appointed in proportion to the number of employees employed in each Member State by the Community-scale undertaking or Community-scale group of undertakings, by allocating in respect of each Member State one seat per portion of employees employed in that Member State amounting to 10 per cent, or a fraction thereof, of the number of employees employed in all the Member States taken together.]
+
+F42[(5) To ensure that it can coordinate its activities, the Council shall elect a select committee from among its members, comprising at most five members, which must benefit from conditions enabling it to exercise its activities on a regular basis.
+
+(6) The Council shall, as soon as practicable after the election or appointment of its members, inform central management, or such other level of management as the central management thinks more appropriate, of the composition of the Council.]
+
+Procedure.
+
+3\. The Council shall adopt its own rules of procedure subject to the following:
+
+(*a*) the arrangements for the meetings of the Council shall be agreed by the central management in consultation with employees or their representatives but the management may not unreasonably withhold consent to proposals made by employees or their representatives;
+
+(*b*) the minutes of the Council meetings shall be approved by both management and employees’ representatives to the Council;
+
+(*c*) before any meeting with the central management, the Council or a select committee, where necessary enlarged in accordance with *paragraph 5 (5)*, shall be entitled to meet without the management concerned being present;
+
+(*d*) F43[...]
+
+(*e*) the Council or the select committee may be assisted by such experts of its choice as are necessary for it to carry out its task.
+
+Election or appointment of members.
+
+4\. F43[...]
+
+Functions.
+
+5\. (1) The Council shall have the right to meet with the central management once a year, to be informed and consulted, on the basis of a report drawn up by the central management, on the progress of the business of the Community-scale undertaking or Community-scale group of undertakings and its prospects, and local managements shall be informed accordingly.
+
+(2) F43[...]
+
+(3) Where there are exceptional circumstances F42[or decisions] affecting the employees interests to a considerable extent, particularly in the event of relocation, the closure of establishments or undertakings or collective redundancies, a select committee or, where no such committee exists, the Council, shall have the right to be informed and the right to meet, at its request, the central management or such other level of management as the central management thinks more appropriate and advises the Council, so as to be informed and consulted F43[...].
+
+(4) For the purposes of *subparagraph (3)*, collective redundancies are those which concern a significant number of employees in relation to the size of the Community-scale undertaking, the establishment, the Community-scale group of undertakings or the undertaking which is a member or part of the Community-scale group of undertakings, in which the collective redundancy is taking place.
+
+(5) Those members of the Council who have been elected or appointed from the establishments or undertakings which are directly concerned with the F41[circumstances or decisions] referred to in *subparagraph (3)* shall also have the right to participate F41[where a meeting is organised] with the select committee.
+
+(6) The information and consultation meeting referred to in *subparagraph (3)* shall take place as soon as possible after any request to meet the central management, on the basis of a report prepared by the central management F42[or any other appropriate level of management of the Community-scale undertaking or group of undertakings], on which an opinion may be delivered at the end of the meeting or within a reasonable time.
+
+(7) The meeting shall not affect the prerogatives of the central management.
+
+F42[(8) The information and consultation procedures provided for in the above circumstances shall be carried out without prejudice to sections 8(1) and (4) and section 15.]
+
+Expenses.
+
+6\. (1) The operating expenses of the Council, including a select committee where one is established, shall be borne by the central management.
+
+(2) The central management concerned shall provide the members of the Council with such financial and other resources as are necessary to enable them to perform their duties in an appropriate manner.
+
+(3) In particular, the cost of ongoing meetings and arranging for interpretation facilities and the accommodation and travelling expenses of members of the Council and its select committee shall be met by the central management unless otherwise agreed.
+
+(4) The funding of experts by the central management shall be limited to funding the equivalent of one expert per meeting.
+
+Miscellaneous.
+
+7\. (1) Four years after the establishment of the Council it shall examine whether to open negotiations for the conclusion of an agreement referred to in *section 11 (1)* or to continue to apply the requirements adopted in accordance with this Schedule.
+
+(2) *Sections 11* and *12*, with any necessary modifications, shall apply if a decision has been taken to negotiate an agreement referred to in *section 11 (1)*, in which case “Special Negotiating Body” in those sections shall be read as “European Works Council”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 19(a)(i) and (ii), (b) and (g)(i) and (ii).
+>
+> F42: Inserted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 19(a)(ii), (b), (f)(i), (h) and (i).
+>
+> F43: Deleted (13.07.2011) by *European Communities (Transnational Information and Consultation of Employees Act 1996) (Amendment) Regulations 2011* (S.I. No. 380 of 2011), reg. 19(c), (d), (e) and (f)(ii).
+
+[^1]: 5 O.J. L.24, 29.1.2004, p.1.

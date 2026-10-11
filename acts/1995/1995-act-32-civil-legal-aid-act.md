@@ -1,0 +1,1735 @@
+---
+title: "Civil Legal Aid Act, 1995"
+identifier: "eli/1995/act/32"
+type: act
+jurisdiction: ie
+language: en
+number: 32
+year: 1995
+date: 1995-12-16
+last_amended: 2026-06-24
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1995/act/32/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1995/act/32/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Civil Legal Aid Act, 1995
+
+AN ACT TO MAKE PROVISION FOR THE GRANT BY THE STATE OF LEGAL AID AND ADVICE TO PERSONS OF INSUFFICIENT MEANS IN CIVIL CASES. [16*th December*, 1995]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to Minister for and Department of Equality and Law Reform construed as Minister for and Department of Justice (8.07.1997) by *Equality and Law Reform (Transfer of Departmental Administration and Ministerial Functions) Order 1997* (S.I. No. 297 of 1997), arts. 3, 4 and sch., in operation as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Justice.
+>
+> (2) References to the Department of Equality and Law Reform contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Justice.
+>
+> 4\. (1) The functions vested in the Minister for Equality and Law Reform
+>
+> (*a*) by or under any of the Acts mentioned in the Schedule to this Order, and
+>
+> (*b*) by virtue of the Justice (Transfer of Departmental Administration and Ministerial Functions) Order, 1993 (S.I. No. 34 of 1993).
+>
+> are hereby transferred to the Minister for Justice.
+>
+> (2) References to the Minister for Equality and Law Reform contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Justice.
+>
+> ...
+>
+> SCHEDULE
+>
+> Acts, functions under which are transferred from the Minister for Equality and Law Reform to the Minister for Justice.
+>
+> <table><tr><td>...</td><td></td></tr><tr><td>Civil Legal Aid Act, 1995</td><td>(No. 32 of 1995)</td></tr><tr><td>...</td><td></td></tr></table>
+>
+> Note that name of Minister for and Department of Justice was changed to:
+>
+> • Justice, Equality and Law Reform (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997), in operation as per art. 1(2);
+>
+> • Justice and Law Reform (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in operation as per art. 1(2);
+>
+> • Justice and Equality (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in operation as per art. 1(2);
+>
+> • Justice (1.11.2020) by *Justice and Equality (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 452 of 2020), in operation as per art. 1(2);
+>
+> • Justice, Home Affairs and Migration (5.06.2025) by *Justice (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 242 of 2025), in operation as per art. 1(2).
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, unless the context otherwise requires—
+
+“the Act of 1956” means the Civil Service Regulation Act, 1956;
+
+“the Act of 1977” means the European Assembly Elections Act, 1977;
+
+F1[“Act of 2026” means the International Protection Act 2026;]
+
+F3[“applicant” means, subject to *subsection (1A)*, a person who makes an application for legal aid or advice, or both;]
+
+“application” means an application for legal aid or advice or both;
+
+“the Board” means the Legal Aid Board established by *section 3*;
+
+“certificate” means a civil legal aid certificate issued by the Board under *section 28* authorising the grant of legal aid to the person to whom the certificate relates;
+
+“Chief Executive” shall be construed in accordance with *section 10*;
+
+“civil servant in the Civil Service of the Government” means a person holding a position in the Civil Service of the Government;
+
+“civil servant in the Civil Service of the State” means a person holding a position in the Civil Service of the State;
+
+“contribution” means the financial contribution payable by an applicant towards the cost of providing legal aid or advice, in accordance with *section 29*;
+
+“designated matters” has the meaning assigned to it by *subsection (9) (a)* of *section 28*;
+
+F4["family mediation services" means services designed to assist persons involved in the process of seeking—
+
+(i) a separation,
+
+(ii) a divorce,
+
+(iii) a dissolution of a civil partnership,
+
+(iv) payment of maintenance,
+
+(v) an order of a court or an agreement relating to guardianship or custody of a child, or to parental access to a child,
+
+to reach agreement relating to some or all of such matters as relate to the persons concerned;]
+
+“employed” means employed under a contract of service or apprenticeship;
+
+“former Board” means the Legal Aid Board appointed under section 2.1 of the Scheme;
+
+“the Fund” means the Legal Aid Fund provided for in *section 19*;
+
+“law centre” has the meaning assigned to it by *section 30*;
+
+“legal advice” has the meaning assigned to it by *section 25*;
+
+“legal aid” has the meaning assigned to it by *section 27*;
+
+F2[“legal counselling” has the same meaning as it has in the Act of 2026;]
+
+“the Minister” means the Minister for Equality and Law Reform;
+
+“officer of the Board” means a person (other than a solicitor's apprentice or a solicitor of the Board in respect of whom an order under *section 11 (5) (a)* is not in force) employed by the Board;
+
+“recognised trade unions and staff associations” means trade unions and staff associations recognised by the Board or former Board for the purpose of negotiations which are concerned with the remuneration, conditions of employment or working conditions of officers of the Board and employees of the Board;
+
+F5["relevant person" has the meaning it has in the Assisted Decision-Making (Capacity) Act 2015;]
+
+“Scheme” means the “Scheme of Civil Legal Aid and Advice” laid by the Minister for Justice before each House of the Oireachtas in the month of December, 1979, as amended;
+
+“solicitor of the Board” means a solicitor employed by the Board;
+
+“staff of the Board” means officers of the Board and solicitors of the F6[Board;]
+
+F7[“ward” has the meaning it has in Part 6 of the Assisted Decision-Making (Capacity) Act 2015.]
+
+F8[(1A) A person in respect of whom a request for legal aid or advice, or both, has been made by a coroner to the Board pursuant to section 60 of the Coroners Act 1962 shall be deemed to be an applicant for the purposes of this Act.]
+
+(2) (*a*) In this Act a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended.
+
+(*b*) In this Act a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 297(1)(a), S.I. No. 244 of 2026.
+>
+> F3: Substituted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(a)(i), commenced on enactment.
+>
+> F4: Inserted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(a), S.I. No. 539 of 2011.
+>
+> F5: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(a), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F6: Substituted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(a)(i), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> F7: Inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(a)(ii), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> F8: Inserted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(a)(ii), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to Minister for and Department of Equality and Law Reform construed as Minister for and Department of Justice (8.07.1997) by *Equality and Law Reform (Transfer of Departmental Administration and Ministerial Functions) Order 1997* (S.I. No. 297 of 1997), arts. 3, 4 and sch., in operation as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Justice.
+>
+> (2) References to the Department of Equality and Law Reform contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Justice.
+>
+> 4\. (1) The functions vested in the Minister for Equality and Law Reform
+>
+> (*a*) by or under any of the Acts mentioned in the Schedule to this Order, and
+>
+> (*b*) by virtue of the Justice (Transfer of Departmental Administration and Ministerial Functions) Order, 1993 (S.I. No. 34 of 1993).
+>
+> are hereby transferred to the Minister for Justice.
+>
+> (2) References to the Minister for Equality and Law Reform contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Justice.
+>
+> ...
+>
+> SCHEDULE
+>
+> Acts, functions under which are transferred from the Minister for Equality and Law Reform to the Minister for Justice.
+>
+> <table><tr><td>...</td><td></td></tr><tr><td>Civil Legal Aid Act, 1995</td><td>(No. 32 of 1995)</td></tr><tr><td>...</td><td></td></tr></table>
+>
+> Note that name of Minister for and Department of Justice was changed to:
+>
+> • Justice, Equality and Law Reform (9.07.1997) by *Justice (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 298 of 1997), in operation as per art. 1(2);
+>
+> • Justice and Law Reform (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in operation as per art. 1(2);
+>
+> • Justice and Equality (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in operation as per art. 1(2);
+>
+> • Justice (1.11.2020) by *Justice and Equality (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 452 of 2020), in operation as per art. 1(2);
+>
+> • Justice, Home Affairs and Migration (5.06.2025) by *Justice (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 242 of 2025), in operation as per art. 1(2).
+
+## 2. Establishment day.
+
+**2.**—The Minister shall by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (11.10.1996) by *Civil Legal Aid Act, 1995 (Commencement) Order 1996* (S.I. No. 272 of 1996), in operation as per art. 2.
+>
+> 2\. The 11th day of October, 1996 is hereby appointed to be the establishment day for the purpose of the Civil Legal Aid Act, 1995 (No. 32 of 1995).
+
+## 3. Establishment of Legal Aid Board.
+
+**3.**—(1) On the establishment day there shall stand established a board to be known as An Bord um Chúnamh Dlíthiúil or, in the English language, the Legal Aid Board, and in this Act referred to as “the Board”, to perform the functions conferred on it by this Act.
+
+(2) The Board shall be a body corporate with perpetual succession and an official seal and power to sue and be sued in its corporate name and, with the consent of the Minister, to acquire, hold and dispose of land or an interest in land or rights over or in respect of land and to acquire, hold and dispose of any other property.
+
+(3) The Board shall, subject to the provisions of this Act, be independent in the exercise of its functions.
+
+## 4. Membership of Board and terms of office of members.
+
+**4.**—(1) The Board shall consist of a chairperson and 12 ordinary members, who shall be appointed to be members of the Board by the Minister and who, subject to the provisions of this section, shall hold and vacate office upon such terms and conditions as the Minister, with the consent of the Minister for Finance, may determine.
+
+(2) (*a*) The Minister shall from time to time as occasion requires appoint a member of the Board to be chairperson thereof.
+
+(*b*) Where the chairperson of the Board ceases during his or her term of office as such chairperson to be a member of the Board, he or she shall thereupon also cease to be chairperson of the Board.
+
+(*c*) The chairperson of the Board shall, unless he or she sooner dies, resigns, becomes disqualified or is removed from office as chairperson, hold office as such chairperson until the expiration of his or her term of office as a member of the Board but, if he or she is re-appointed as a member of the Board, he or she shall be eligible for re-appointment as chairperson of the Board.
+
+(3) (*a*) In appointing persons to be members of the Board, the Minister shall have regard to the desirability of their having knowledge or experience of the law, the practice and procedure of the Courts, business, finance, management and administration, consumer or social affairs, or of any other subject, which would, in the opinion of the Minister, be of assistance to the Board in the performance of its functions.
+
+(*b*) Of the members of the Board—
+
+(i) 2 shall be barristers who have been engaged in practice as such for a period of not less than 7 years prior to their appointment as such members, and if either such member ceases during his or her term of office as such to be a practising barrister, he or she shall thereupon cease to be a member of the Board,
+
+(ii) 2 shall be solicitors who have been engaged in practice as such for a period of not less than 7 years prior to their appointment as such members and, if either such member ceases during his or her term of office as such to be a practising solicitor, he or she shall thereupon cease to be a member of the Board,
+
+(iii) 2 shall be members of the staff of the Board,
+
+(iv) not less than 5 shall be men, and
+
+(v) not less than 5 shall be women.
+
+(4) (*a*) The term of office of a member of the Board shall be not more than 5 years and no person shall be appointed a member of the Board for more than 2 terms.
+
+(*b*) Each member of the Board shall act on a part-time basis save where the Minister, on being satisfied that it is necessary to do so in the interest of the proper functioning of the Board and with the consent of the Minister for Finance, appoints any such member or members to act on a full-time basis.
+
+(*c*) Each member of the Board shall be paid, out of the Fund, such remuneration (if any), superannuation benefits and allowances for expenses as the Minister with the consent of the Minister for Finance, may, from time to time determine.
+
+(*d*) A member of the Board may at any time resign his or her office as a member by letter addressed to the Minister and the resignation shall take effect as and from the date on which the Minister receives the letter.
+
+(*e*) The Minister may at any time remove a member of the Board from office who, in the opinion of the Minister, has become incapable through ill-health of effectively performing his or her functions or has committed stated misbehaviour or whose removal appears to the Minister to be necessary for the effective performance by the Board of its functions.
+
+(5) (*a*) If a member of the Board dies, resigns, becomes disqualified or is removed from office, the Minister may appoint a person to be a member of the Board to fill the casual vacancy so occasioned.
+
+(*b*) Subject to the other provisions of this section, a person appointed to be a member of the Board by virtue of this paragraph shall hold office for the remainder of the term of office of the member who occasioned the casual vacancy he or she is appointed to fill and shall be eligible for re-appointment for one further term as a member of the Board.
+
+(6) The Board shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+(7) The Minister may fix the date, time and place of the first meeting of the Board.
+
+(8) The quorum for a meeting of the Board shall be 5 or such other number (not being less than 5) as the Board may from time to time determine.
+
+(9) At a meeting of the Board—
+
+(*a*) the chairperson of the Board shall, if present, chair the meeting, and
+
+(*b*) if and so long as the chairperson is not present or if the office of chairperson of the Board is vacant, the members of the Board who are present shall choose one of their number to chair the meeting.
+
+(10) The chairperson of the Board and each ordinary member of the Board present at a meeting thereof shall have a vote.
+
+(11) Every question at a meeting of the Board shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equal division of votes, the chairperson of the Board or, in the absence of the chairperson, the member chosen to chair the meeting shall have a second or casting vote.
+
+(12) The Board, and any committee appointed by the Board, may act notwithstanding one or more than one vacancy among its members.
+
+(13) Subject to the provisions of this Act, the Board shall regulate, by standing orders or otherwise, the procedure and business of the Board.
+
+(14) The Board shall, as soon as may be after its establishment, provide itself with a seal.
+
+(15) The seal of the Board shall be authenticated by the signature of its chairperson, or another member of the Board authorised by it to act in that behalf and by the signature of an officer of the Board authorised by it to act in that behalf.
+
+(16) Judicial notice shall be taken of the seal of the Board and every document purporting to be an instrument made by the Board and to be sealed with the seal (purporting to be authenticated in accordance with *subsection (15)*) of the Board shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+## 5. Functions of Board.
+
+**5.**—F9[(1) The principal functions of the Board shall be:
+
+(*a*) to provide, within the Board’s resources and subject to the other provisions of this Act—
+
+(i) legal aid and advice in civil cases to persons who satisfy the requirements of this F10[Act,]
+
+(ii) a family mediation F11[service, and];
+
+F12[(iii) legal counselling;]
+
+(*b*) where the Board considers it necessary or expedient to do so to make arrangements for the provision of—
+
+(i) family mediation services on its behalf by the engagement of persons appointed by it for that F13[purpose,]
+
+(ii) training in family mediation, either by itself or by persons appointed by it for that F14[purpose,]]
+
+F15[(iii) legal counselling by the engagement of persons appointed by it for that purpose, and
+
+(iv) training in legal counselling, either by itself or by persons appointed by it for that purpose.]
+
+(2) The Board shall, to such extent and in such manner as it considers appropriate, disseminate, for the benefit of those for whom its services are made available, information in relation to those services and their availability.
+
+(3) The Board may perform any of its functions through any of its members or any member of its staff duly authorised by the Board in that behalf.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Substituted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(b), S.I. No. 539 of 2011.
+>
+> F10, F11: Substituted (12.06.2026) by *International Protection Act 2026*(9/2026), s. 297(1)(b)(i)(I), (II), S.I. No. 244 of 2026.
+>
+> F12: Inserted by (12.06.2026) by *International Protection Act 2026*(9/2026), s. 297(1)(b)(i)(III), S.I. No. 244 of 2026.
+>
+> F13, F14: Substituted by (12.06.2026) by *International Protection Act 2026* (9/2026), s. 297(1)(b)(ii)(I), (II), S.I. No. 244 of 2026.
+>
+> F15: Inserted by (12.06.2026) by *International Protection Act 2026*(9/2026), s. 297(1)(b)(ii)(III), S.I. No. 244 of 2026.
+
+## 6. Conferral of additional functions on Board.
+
+**6.**—The Minister may, with the consent of the Minister for Finance, by order, assign to the Board such additional functions as the Minister considers to be incidental to or consequential on the functions assigned to it by this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 7. General policy directives as to legal aid and advice.
+
+**7.**—(1) The Minister may, by order, from time to time as occasion requires, issue to the Board such general directives as to policy in relation to legal aid and advice as he or she considers necessary.
+
+(2) The Board shall, in performing its functions, comply with any directive under this section.
+
+(3) Nothing in this Act shall be construed as enabling the Minister to exercise any power or control in relation to any particular case with which the Board is or may be concerned.
+
+## 8. Powers of Board.
+
+**8.**—Subject to the provisions of this Act, the Board may do anything which it considers necessary or expedient for enabling it to perform its functions under this Act.
+
+## 9. Reports of Board.
+
+**9.**—(1) Not later than the 30th day of September in each year, the Board shall make a report to the Minister, in such form as he or she may approve, of its activities during the preceding year.
+
+(2) The Board—
+
+(*a*) shall, at the request of the Minister, supply him or her with such information relating to the performance of its functions as the Minister may from time to time specify, and
+
+(*b*) may supply him or her with such information or advice so relating as it considers appropriate.
+
+(3) The Minister shall cause a copy of every report received by him or her under *subsection (1)* to be laid before each House of the Oireachtas.
+
+## 10. Chief Executive of Board.
+
+**10.**—(1) There shall be a chief executive officer of the Board (in this Act referred to as “the Chief Executive”) who shall be appointed as such by the Minister on the recommendation of the Civil Service Commissioners and who shall, upon such appointment, be a civil servant in the Civil Service of the State.
+
+(2) The Chief Executive shall perform such functions as may be assigned to him or her by the Board under this subsection.
+
+(3) Such functions of the Chief Executive assigned to him or her under *subsection (2)* as may be specified by the Chief Executive from time to time may, with the consent of the Board, be performed by such member of the staff of the Board as may be authorised in that behalf by the Chief Executive.
+
+(4) The functions of the Chief Executive assigned to him or her under *subsection (2)* may be performed during his or her absence or when the post of chief executive is vacant by such of the staff of the Board as may from time to time be designated for that purpose by the Board.
+
+## 10. Accountability of Chief Executive to Public Accounts Committee.
+
+F16[**10A.**—(1) The Chief Executive shall, whenever required to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the Board is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Board in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Board for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Board referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) In the performance of his or her duties under this section, the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the objectives of such a policy.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 77, S.I. No. 274 of 2008.
+
+## 10. Accountability of Chief Executive to other Oireachtas Committees.
+
+F17[**10B.**—(1) In this section, "Committee" means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than a Committee referred to in *section 10A* or the Committee of Members’ Interests of Dáil Éireann or the Committee of Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
+
+(2) Subject to *subsection (3)*, the Chief Executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Board.
+
+(3) The Chief Executive shall not be required to give account before a Committee in relation to any individual case with which the Board is concerned in the performance of its functions under *section 5*.
+
+(4) Where the Chief Executive is of the opinion that a matter in respect of which the Chief Executive is requested to give an account before a Committee is a matter to which *subsection (3)* applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the Chief Executive is before it, the information shall be so conveyed in writing.
+
+(5) Where the Chief Executive has informed a Committee of his or her opinion in accordance with *subsection (4)* and the Committee does not withdraw the request referred in *subsection (2)* in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the Chief Executive may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which *subsection (3)* applies, or
+
+(*b*) the Chairperson of the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court may determine the matter.
+
+(6) Pending the determination of an application under *subsection (5)*, the Chief Executive shall not attend before the Committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which *subsection (3)* applies, the Committee shall withdraw the request referred to in *subsection (2)*, but if the High Court determines that *subsection (3)* does not apply, the Chief Executive shall attend before the Committee to give account for the matter.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 77, S.I. No. 274 of 2008.
+
+## 11. Staff of Board.
+
+**11.**—(1) Subject to *section 10*, the Board may appoint such number of persons to the staff of the Board as may be approved of by the Minister with the consent of the Minister for Finance.
+
+(2) The grades of the staff of the Board and the numbers of staff in each grade shall, with the approval of the Minister given with the consent of the Minister for Finance, be determined by the Board.
+
+(3) An officer of the Board shall, upon his or her appointment as such, be a civil servant in the Civil Service of the State.
+
+(4) Subject to *subsection (5)*, a solicitor of the Board shall hold his or her employment on such terms and conditions as may, with the approval of the Minister given with the consent of the Minister for Finance, be determined by the Board.
+
+(5) (*a*) The Minister may, with the consent of the Minister for Finance, by order designate solicitors of the Board as civil servants in the Civil Service of the State, to take effect—
+
+(i) in the case of a solicitor of the Board appointed on or before the date of the making of such order, from the date of the making of such order, and
+
+(ii) in the case of a solicitor of the Board appointed after the date of the making of such order, from the date of such appointment.
+
+(*b*) The Minister shall not make an order under *paragraph (a)* without having—
+
+(i) notified in writing any recognised trade unions or staff associations concerned and the Board of the Minister's intention so to do, and
+
+(ii) considered, within such time as may be specified in this notice, any representations made by such trade unions, staff associations or the Board, in relation to the matter.
+
+F18[(5A) Every solicitor of the Board and solicitor employed by the former Board who, before 1 June 2014, ceased to be employed by the Board or the former Board, as the case may be, is designated as a civil servant in the Civil Service of the State in respect of, subject to *subsection (5B)*, superannuation benefits payable as a result of his or her membership of a scheme made under *section 23* or a scheme the operation of which was transferred to the Board under this Act.
+
+(5B) *Subsection (5A)* applies in respect of superannuation benefits payable, on or after the coming into operation of section 122 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, by the Minister for Public Expenditure, National Development Plan Delivery and Reform out of funds provided by the Oireachtas.]
+
+(6) (*a*) The appropriate authority (within the meaning of F19[...] the Civil Service Regulation Acts, 1956 and 1958) in relation to officers of the Board and solicitors of the Board who are civil servants in the Civil Service of the State shall, for the purposes of those Acts, be the Minister.
+
+(*b*) The Minister may delegate to the Board the powers exercisable by him F20[under section 8 of the Public Service Management (Recruitment and Appointments) Act 2004] and the Civil Service Regulation Acts, 1956 and 1958, as the appropriate authority in relation to officers of the Board and solicitors of the Board who are civil servants in the Civil Service of the State, and if he or she does so, then as long as the delegation remains in force—
+
+(i) those powers shall, in lieu of being exercisable by the Minister, be exercisable by the Board, and
+
+(ii) the Board shall, in lieu of the Minister be, for the purposes of the said section 5 and the said Acts, the appropriate authority in relation to the said officers and solicitors.
+
+(*c*) The Minister may revoke a delegation made by him under *paragraph (b)*, but such revocation shall not affect anything done by virtue of the delegation under the said paragraph or the said Acts and anything so done shall continue in force and shall, for the purposes of the said section 5 and the said Acts, have effect as if done by the Minister.
+
+(7) The Board may engage under contracts for services such, and such number of, persons to provide such services to the Board under such terms and conditions as may, with the approval of the Minister given with the consent of the Minister for Finance, be determined by the Board.
+
+(8) A person appointed under *subsection (1)* or a person engaged under *subsection (7)* shall be paid out of the Fund, such remuneration or fees and allowances for expenses (if any) incurred by the person as may, with the approval of the Minister given with the consent of the Minister for Finance, be determined by the Board.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 122, S.I. No. 389 of 2023, art. 3(q).
+>
+> F19: Deleted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61 and sch. 2 part 1, commenced on enactment.
+>
+> F20: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61 and sch. 2 part 1, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (5) exercised (1.06.2014) by *Civil Legal Aid Act 1995 (Section 11) Order 2014* (S.I. No. 237 of 2014), in operation as per art. 1(2).
+
+## 11A. Appointment of persons to provide family mediation services or training in relation to such services.
+
+F21[**11A.**—(1) The Board may appoint persons who it considers to be qualified by reason of training and experience, to provide family mediation services on its behalf or to provide training in family mediation.
+
+(2) A person appointed pursuant to *subsection (1)* shall not be an officer or member of the staff of the Board.
+
+(3) A person appointed by the Board pursuant to *subsection (1)* shall be appointed subject to such terms and conditions as may be determined by the Minister and the Minister for Public Expenditure and Reform.
+
+(4) *Subsection (2)* shall not be construed as preventing the Board appointing a person as an officer or member of the staff of the Board in relation to the provision of a family mediation service by the Board.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(c), S.I. No. 539 of 2011.
+
+## 11B. F22[Appointment of persons to provide legal counselling or training in relation to such services
+
+**11B.**—(1) The Board may, subject to *subsection (3)*, appoint persons specified in *subsection (2)* whom it considers to be qualified by reason of knowledge, experience, qualifications, training or expertise to provide legal counselling or training in legal counselling.
+
+(2) The persons referred to in *subsection (1)* are—
+
+(*a*) a member of staff of the Board, or
+
+(*b*) a person contracted by the Board.
+
+(3) The Board shall determine the selection criteria applicable to appointments under *subsection (1)* having regard to—
+
+(*a*) the purpose of legal counselling,
+
+(*b*) the purpose of training in legal counselling,
+
+(*c*) the objective that persons appointed under that subsection possess knowledge of, and experience, qualifications, training or expertise in, the matters specified in *subsection (4)*, and
+
+(*d*) the need to ensure that a person appointed under that subsection is a fit and proper person to provide legal counselling or training in legal counselling, as the case may be.
+
+(4) The matters referred to in *subsection (3)(c)* are—
+
+(*a*) legal counselling,
+
+(*b*) training in legal counselling,
+
+(*c*) the procedures governing applications for international protection under the Act of 2026,
+
+(*d*) the rights and obligations of applicants during the procedures referred to in *paragraph (c)*,
+
+(*e*) without prejudice to *paragraph (d)*, the rights and obligations of applicants who are unaccompanied minors or in need of special procedural guarantees, and
+
+(*f*) the operation of the laws governing the system of entry into and presence of persons in the State.
+
+(5) A person appointed under *subsection (1)* and to whom *subsection (2)(b)* applies shall be appointed subject to such terms and conditions as may be determined by the Minister with the consent of the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation.
+
+(6) In this section, “applicant” and “applicant in need of special procedural guarantees” have the same meanings as they have in section 2(1) of the Act of 2026.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (12.06.2026) by *International Protection Act 2026*(9/2026), s. 297(1)(c), S.I. No. 244 of 2026.
+
+## 12. Membership of either House of Oireachtas or of European Parliament.
+
+**12.**—(1) Where a member of the Board is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to section 15 (inserted by the European Parliament Elections Act, 1993) of the Act of 1977, as having been elected to the European Parliament to fill a vacancy,
+
+he or she shall thereupon cease to be a member of the Board.
+
+(2) Where a member of the staff of the Board is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded, pursuant to section 15 (as so inserted) of the Act of 1977, as having been elected to the European Parliament to fill a vacancy,
+
+he or she shall thereupon stand seconded from his or her employment with the Board and shall not be paid by, or be entitled to receive from, the Board remuneration or allowances in respect of the period commencing on such nomination or election, or when he or she is so regarded as having been elected (as the case may be) and ending when he or she ceases to be a member of either such House or such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from becoming a member, or a member of the staff, of the Board.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with the Board for the purposes of any superannuation benefits.
+
+## 13. Dissolution of former Board.
+
+**13.**—(1) The former Board shall, on the establishment day, become and be dissolved.
+
+(2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before the establishment day under an Act of the Oireachtas to the former Board shall, on and after that day, be construed as references to the Board.
+
+## 14. Transfer of assets and liabilities of former Board.
+
+**14.**—(1) The following shall be and hereby are transferred to the Board on the establishment day:
+
+(*a*) all property and rights relating to such property held or enjoyed immediately before that day by the former Board or any trustee or agent thereof acting on its behalf, and
+
+(*b*) all liabilities incurred before that day by the former Board or any trustee or agent thereof acting on its behalf that had not been discharged before that day,
+
+and, accordingly, without any further conveyance, transfer or assignment—
+
+(i) the said property, real and personal, shall on that day, vest in the Board for all the estate, term or interest for which, immediately before that day, it was so vested in the former Board, as the case may be, but subject to all trusts and equities affecting the property and capable of being performed,
+
+(ii) the said rights shall, as on and from that day, be enjoyed by the Board, and
+
+(iii) the said liabilities shall, as on and from that day, be liabilities of the Board.
+
+(2) All property and rights relating thereto transferred to the Board by this section that, on the establishment day, were so standing in the name of the former Board or any said trustee or agent thereof shall, upon the request of the Board, be transferred into its name.
+
+(3) Every right and liability transferred to the Board by this section may, on or after the establishment day, be sued on, recovered or enforced by or against the Board in its own name and it shall not be necessary for the Board to give notice to the person whose right or liability is transferred by this section of the transfer.
+
+(4) F23[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Repealed (25.04.1999) by *Finance Act 1999* (2/1999), s. 197 and sch. 6, commenced on enactment, subject to transitional provisions in s. 197.
+
+## 15. Preservation of certain continuing contracts and adaptation of references to former Board.
+
+**15.**—(1) Every contract or agreement made between the former Board, or any trustee or agent thereof acting on its behalf, and any other person and in force but not fully executed and completed immediately before the establishment day shall continue in force on or after that day and shall be construed and have effect as if the name of the Board was substituted therein for that of the former Board or, as appropriate, its said trustee or agent.
+
+(2) References to the former Board, or any trustee or agent thereof acting on its behalf, contained immediately before the establishment day in the memorandum and articles of association of any company shall, on and after that day, be construed as references to the Board.
+
+## 16. Saving for certain acts.
+
+**16.**—Nothing in this Act shall affect the validity of any act that was done before the establishment day by or on behalf of the former Board and every such act shall, if and in so far as it was operative immediately before that day, have effect on and after that day as if it had been done by or on behalf of the Board.
+
+## 17. Pending legal proceedings.
+
+**17.**—Where immediately before the establishment day, any legal proceedings are pending in any court or tribunal and the former Board, or any trustee or agent thereof acting on its behalf, is a party to the proceedings, the name of the Board shall be substituted therein for that of the former Board or, as appropriate, the said trustee or agent thereof and the proceedings shall not abate by reason of such substitution.
+
+## 18. Advances by Minister to Board.
+
+**18.**—The Minister may in each financial year, with the consent of the Minister for Finance, advance to the Board out of moneys provided by the Oireachtas, such sum or sums as the Minister, after consultation with the Board, may determine for the purposes of expenditure by the Board in the performance of its functions under this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 19. Legal Aid Fund.
+
+**19.**—(1) The Board shall, subject to such conditions as may, with the consent of the Minister for Finance, be prescribed by the Minister, establish and maintain a fund to be known as the Legal Aid Fund.
+
+(2) The Fund shall consist of all resources of the Board, including—
+
+(*a*) sums advanced to the Board pursuant to *section 18*, and
+
+(*b*) all other payments made to the Fund or the Board, including contributions paid into the Fund pursuant to *section 29* by persons who have been granted legal aid and advice and costs and damages recovered by such persons and paid into the Fund pursuant to *section 33* in accordance with regulations (if any) made under *section 37*.
+
+(3) There shall be paid out of the Fund such sums as are required to be expended by the Board in order that it may perform its functions under this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 20. Accounts and audits of Board.
+
+**20.**—(1) The Board shall keep in such form as may be approved by the Minister, with the consent of the Minister for Finance, all proper and usual accounts of the resources of the Board (including contributions the payment of which has been waived under *section 29 (2)*) and all moneys received into the Fund and expended out of it, which accounts shall include an income and expenditure account and balance sheet and, in particular, shall keep such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted, as soon as may be after the end of each financial year to which they relate by the Board to the Comptroller and Auditor General for audit and a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister as soon as may be and the Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 21. Transfer of staff to Board.
+
+**21.**—(1) Every person who immediately before the establishment day is employed by the former Board shall, on that day, be transferred to, and become a member of the staff of, the Board.
+
+(2) Every person, being a civil servant of the Government, who immediately before the establishment day is on secondment to the former Board and who has been designated by the Minister, at any time before such day as may be appointed by the Minister by order, shall on the day of such designation be transferred to and become a member of the staff of the Board.
+
+(3) The Minister shall not make an order under *subsection (2)* without having—
+
+(*a*) notified in writing any recognised trade unions or staff associations concerned and the Board of his or her intention so to do, and
+
+(*b*) considered, within such time as may be specified in the notice, any representations made by such trade unions, staff associations or the Board, in relation to the matter.
+
+## 22. Terms and conditions of staff transferred to the Board.
+
+**22.**—(1) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person who is transferred by *section 21 (1)* to the staff of the Board shall not, while in the service of the Board, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service than the scale of pay to which that person was entitled and the terms and conditions of service to which he or she was subject immediately before the day on which he or she was so transferred.
+
+(2) Until such time as the scale of pay and the terms and conditions of service of a person transferred by *section 21 (2)* to the staff of the Board are varied by the Board, following consultation with any recognised trade unions and staff associations concerned, the scale of pay to which he or she was entitled and the terms and conditions of service, restrictions, requirements and obligations to which he or she was subject immediately before his or her transfer shall continue to apply to him or her and may be applied or imposed by the Board while he or she is a member of the staff of the Board, and no such variation shall operate to worsen the scale of pay or the terms or conditions of service aforesaid applicable to such person immediately before the day on which he or she was so transferred to the staff of the Board, save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned.
+
+(3) In relation to persons transferred by *section 21 (1)* to be solicitors of the Board and in respect of whom no order under *subsection (5) (a)* of *section 11* is, for the time being, in force, previous service in the former Board shall be reckonable for the purposes of, but subject to any other exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1991, the Holidays (Employees) Acts, 1973 and 1991, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, the Unfair Dismissals Acts, 1977 to 1993, and the Terms of Employment (Information) Act, 1994.
+
+## 23. Superannuation.
+
+**23.**—(1) The Board may, with the approval of the Minister given with the consent of the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of members of the staff of the Board other than officers of the Board or solicitors of the Board in respect of whom an order under *subsection (5) (a)* of *section 11* is, for the time being, in force.
+
+(2) A scheme under *subsection (1)* shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) The Board may, with the approval of the Minister given with the consent of the Minister for Finance, make a scheme amending or revoking a scheme under this section including a scheme under this subsection.
+
+(4) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance, whose decision shall be final.
+
+(5) No superannuation or other benefit shall be granted by the Board on the resignation, retirement or death of a member of the staff of the Board otherwise than in accordance with a scheme or schemes under this section.
+
+(6) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(7) (*a*) A scheme or schemes under *subsection (1)* shall, as respects a person transferred by *section 21* to a position on the staff of the Board, provide for the granting to or in respect of him or her of superannuation benefits upon and subject to terms and conditions that are not less favourable to him or to her than the terms and conditions applied to him or her immediately before the day on which he or she was so transferred in relation to the grant of such benefits.
+
+(*b*) Where, during the period between the establishment day and the coming into operation of a scheme under this section, superannuation benefits would have been granted to or in respect of that person in respect of such employment had he or she continued to be employed during that period by the former Board, the superannuation benefits shall be granted and paid to or in respect of the person by the Board in accordance with the scheme of such enactments in relation to superannuation as applied to the person immediately before his or her transfer and, for that purpose, his or her pensionable service with the Board shall be aggregated with his or her previous pensionable service.
+
+(8) In this section and in *section 12* “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death.
+
+## 24. General criteria for grant of legal aid and advice.
+
+**24.**—Without prejudice to the other provisions of this Act a person shall not be granted legal aid or advice unless, in the opinion of the Board—
+
+(*a*) a reasonably prudent person, whose means were such that the cost of seeking such services at his or her own expense, while representing a financial obstacle to him or her would not be such as to impose undue hardship upon him or her, would be likely to seek such services in such circumstances at his or her own expense, and
+
+(*b*) a solicitor or barrister acting reasonably would be likely to advise him or her to obtain such services at his or her own expense.
+
+## 24. Restriction on right to apply for legal aid and advice
+
+F24[**24A.**—A person shall not be granted legal aid or advice in relation to an inquest under Part III of the Coroners Act 1962 unless a request for legal aid or advice, or both, has been made by a coroner to the Board pursuant to section 60 of that Act in respect of the person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(b), commenced on enactment.
+
+## 25. Legal advice.
+
+**25.**—In this Act, subject to *section 26 (4)*, “legal advice” means any oral or written advice given by a solicitor of the Board or by a solicitor or barrister engaged by the Board for that purpose under *section 11*—
+
+(*a*) on the application of the law of the State to any particular circumstances which have arisen in relation to the person seeking the advice, and
+
+(*b*) as to any steps which that person might appropriately take having regard to the application of the law of the State to those circumstances,
+
+and includes any assistance given by such a solicitor or barrister, to any person in taking any such steps as are referred to in *paragraph (b)*, whether by assisting a person in taking any such steps on his or her own behalf or taking any such steps (other than the institution or conduct, including defence, of civil proceedings) on the person's behalf.
+
+## 26. Criteria for obtaining legal advice.
+
+**26.**—(1) Subject to *sections 24* and *29* and to the other provisions of this section and to regulations (if any) made under *section 37*, the Board shall grant legal advice under this section to an applicant if, in the opinion of the Board, the applicant satisfies the criteria in respect of financial eligibility specified in *section 29* and in such regulations (if any) as aforesaid.
+
+(2) Subject to *subsection (3)*, a person shall not qualify for legal advice in respect of—
+
+(*a*) a criminal law matter unless the advice sought concerns the procedure by which legal aid may be obtained under the Criminal Justice (Legal Aid) Act, 1962, in which case he or she shall qualify for such legal advice free of any contribution;
+
+(*b*) the matters referred to in *section 28 (9) (a)*;
+
+(*c*) a matter concerning which the Board considers it would be possible for the person, without hardship, to obtain the appropriate advice without obtaining legal advice under this Act.
+
+(3) Notwithstanding *subsection (2)* (and subject to the other provisions of this Act)—
+
+(*a*) a person shall qualify for legal advice in respect of a conveyancing matter connected to a matter in which legal aid or advice F25[has already been given,]
+
+F27[(*b*) a person shall qualify for legal advice, in respect of a matter referred to in *section 28(9)(a)*, in the cases mentioned in *subparagraphs (i)* to *(v)* and *(vii)* of F26[*section 28(9)(c)*, and]]
+
+F28[(*c*) a party to an application under Part 5 of the Assisted Decision-Making (Capacity) Act 2015 shall qualify for legal advice.]
+
+F29[(*d*) a party to an application, or to any other proceedings, under Part 6 of the Assisted Decision-Making (Capacity) Act 2015 shall qualify for legal advice.]
+
+F30[(3A) Notwithstanding any other provision of this Act, the Board shall grant legal advice to a complainant in a prosecution for—
+
+(*a*) the offence of rape under the common law,
+
+(*b*) the offence of rape under section 2 of the Criminal Law (Rape) Act 1981,
+
+(*c*) the offence of aggravated sexual assault under section 3 of the Criminal Law (Rape) (Amendment) Act 1990,
+
+(*d*) the offence of rape under section 4 of the Criminal Law (Rape) (Amendment) Act 1990,
+
+(*e*) an offence under section 6 (inserted by section 2 of the Criminal Law (Sexual Offences) (Amendment) Act 2007) of the Criminal Law (Sexual Offences) Act 1993 ,
+
+(*f*) an offence under the Criminal Law (Sexual Offences) Act 2006, or
+
+(*g*) an offence of incest under section 1 or 2 of the Punishment of Incest Act 1908.]
+
+F31[(3B) Notwithstanding any other provision of this Act, the Board shall grant legal advice to a person who is an alleged victim of a human trafficking offence in relation to—
+
+(*a*) any matter connected with the commission of the human trafficking offence (whether or not a prosecution for that offence has been instituted),
+
+(*b*) any matter connected with the commission of any other offence of which the person is alleged to be a victim, being an offence (whether or not a human trafficking offence) that is alleged to have been committed in the course of, or otherwise in connection with, the commission of the human trafficking offence, or
+
+(*c*) without prejudice to the generality of *paragraph (a)* or *(b)*, the prosecution of the human trafficking offence or of the other offence referred to in *paragraph (b)*.]
+
+(4) Where a person would qualify for legal advice, but for the fact that the advice sought concerns the application of the law of another State, such person shall be entitled to obtain such guidance or assistance in relation to the matter as the Board deems appropriate.
+
+(5) Where a person obtains legal advice and subsequently obtains legal aid in connection with the same matter, the legal services provided will be deemed to be legal aid and all the conditions applying to legal aid, including the level of any contributions payable under *section 29* by a person in receipt of legal aid, will apply, save that the level of any such contribution shall be reduced by any amount previously paid for legal advice in connection with such matter.
+
+(6) The Board may require a person to whom it is granting legal advice to comply with such requirements as it reasonably considers expedient to enable it to satisfy itself that it is reasonable for the person to continue to receive legal advice.
+
+(7) The Board may cease to grant legal advice under this section to a person where it considers that it is no longer reasonable for the person to continue to receive it and, in particular, where the person no longer satisfies the requirements in respect of financial eligibility specified in *section 29* and in regulations under *section 37*.
+
+F31[(8) In this section, "human trafficking offence" means—
+
+(*a*) an offence under section 2, 4, 5, 6, 7 or 11 of the Criminal Law (Human Trafficking) Act 2008,
+
+(*b*) an offence under section 3 (other than subsections (2A) and (2B)) of the Child Trafficking and Pornography Act 1998.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25, F26: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(b)(i), (ii), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F27: Substituted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(c), commenced on enactment.
+>
+> F28: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(b)(iii), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F29: Inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(b), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> F30: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 78(b), S.I. No. 274 of 2008.
+>
+> F31: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 3(a), (b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (3)(b) substituted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 78(a), S.I. No. 274 of 2008; substituted (24.07.2013) as per F-note above.
+>
+> E4: Previous affecting provision: subs. (3)(b) amended (7.03.2007) by *Criminal Law (Sexual Offences) (Amendment) Act 2007* (6/2007), s. 3(4), commenced on enactment; substituted (20.07.2008) as per E-note above.
+
+## 27. Legal aid.
+
+**27.**—F32[(1) In this Act "legal aid" means representation by a solicitor of the Board, or a solicitor or barrister engaged by the Board under *section 11*, in any civil proceedings to which this section applies or at an inquest under Part III of the Coroners Act 1962, and includes all such assistance as is usually given by a solicitor or barrister, as the case may be, in contemplation of, ancillary to or in connection with, such proceedings or inquest, and whether for the purposes of arriving at or giving effect to any settlement in proceedings or otherwise.]
+
+(2) F32[This section applies to an inquest under Part III of the Coroners Act 1962 where a request for legal aid has been made to the Board by a coroner pursuant to section 60 of that Act and to all civil proceedings other than proceedings relating to] designated matters in respect of which there is not for the time being an order in force under *subsection (10)* of *section 28*—
+
+(*a*) conducted in the District Court, the Circuit Court, the High Court F33[, the Court of Appeal] or the Supreme Court, or
+
+(*b*) conducted in any court or before any tribunal for the time being prescribed by the Minister, with the consent of the Minister for Finance, by order under this section,
+
+including proceedings arising out of or connected with such proceedings conducted before an officer of such court or tribunal, by its direction and proceedings under Article 177 of the Treaty establishing the European Economic Community, signed at Rome on the 25th day of March, 1957.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(d)(i), (ii), commenced on enactment.
+>
+> F33: Inserted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 54, S.I. No. 479 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C8: Meaning of “legal aid” extended (30.05.2018) by *Criminal Evidence Act 1992* (12/1992), ss. 14C(7), 19A(16), as inserted by *Criminal Law (Sexual Offences) Act 2017* (2/2017), ss. 36, 39, S.I. No. 172 of 2018.
+>
+> **14C.** (1) ...
+>
+> (7) In addition to the meaning assigned to that expression by section 27 of the Civil Legal Aid Act 1995, "legal aid" in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act on behalf of the accused in relation to the cross-examination of a witness under subsection (3).
+>
+> ...
+>
+> **19A.**—(1) In this section—
+>
+> "Act of 1995" means the Civil Legal Aid Act 1995;
+>
+> ...
+>
+> (16) In addition to the meaning assigned to that expression by section 27 of the Act of 1995, "legal aid" in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act, on behalf of a complainant or witness in relation to a disclosure application that concerns the complainant or witness.
+>
+> ...
+>
+> C9: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+>
+> C10: Meaning of "legal aid" extended (27.09.2001) by *Sex Offenders Act 2001* (18/2001), s. 35(2), S.I. No. 426 of 2001.
+>
+> **35.**—(1) In this section “the Act of 1995” means the Civil Legal Aid Act, 1995.
+>
+> (2) In addition to the meaning assigned to that expression by section 27 of the Act of 1995, “legal aid” in the Act of 1995 means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act, on behalf of a complainant in relation to an application referred to in section 4A of the Criminal Law (Rape) Act, 1981, that concerns the complainant.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to subs. (2)(b) exercised (24.06.2026) by *Civil Legal Aid (Tribunal for Asylum and Returns Appeals) Order 2026* (S.I. No. 292 of 2026).
+>
+> E6: Power pursuant to subs. (2)(b) exercised (8.03.2017) by *Civil Legal Aid (International Protection Appeals Tribunal) Order 2017* (S.I. No. 81 of 2017), in operation as per art. 1(2).
+>
+> E7: Previous affecting provision: power pursuant to subs. (2)(b) exercised (1.12.2005) by *Civil Legal Aid (Refugee Appeals Tribunal) Order 2005* (S.I. No. 730 of 2005), in operation as per art. 1(2); revoked (8.03.2017) by *Civil Legal Aid (International Protection Appeals Tribunal) Order 2017* (S.I. No. 81 of 2017), art. 3, in operation as per art. 1(2).
+>
+> E8: Previous affecting provision: power pursuant to subs. (2)(b) exercised (4.08.1999) by *Civil Legal Aid (Refugee Legal Service) (No. 2) Order 1999* (S.I. No. 262 of 1999), in operation as per art. 1(2); revoked (1.12.2005) by *Civil Legal Aid (Refugee Appeals Tribunal) Order 2005* (S.I. No. 730 of 2005), art. 3, in operation as per art. 1(2).
+>
+> E9: Previous affecting provision: power pursuant to subs. (2)(b) exercised (29.03.1999) by *Civil Legal Aid (Refugee Legal Service) Order 1999* (S.I. No. 74 of 1999), in operation as per art. 1(2); revoked (1.12.2005) by *Civil Legal Aid (Refugee Appeals Tribunal) Order 2005* (S.I. No. 730 of 2005), art. 3, in operation as per art. 1(2).
+
+## 28. Criteria for obtaining legal aid.
+
+**28.**—(1) A person shall not be granted legal aid unless the person is granted a legal aid certificate under this section in respect of the legal aid sought.
+
+(2) Subject to *sections 24* and *29* and the other provisions of this section and to regulations (if any) made under *section 37*, the Board shall grant a legal aid certificate F34[under this section to a person, other than a person referred to in *subsection (2A)*, if, in the opinion of the Board]—
+
+(*a*) the applicant satisfies the criteria in respect of financial eligibility specified in *section 29*,
+
+(*b*) the applicant has as a matter of law reasonable grounds for instituting, defending, or, as may be the case, being a party to, the proceedings the subject matter of the application,
+
+(*c*) the applicant is reasonably likely to be successful in the proceedings, assuming that the facts put forward by him or her in relation to the proceedings are proved before the court or tribunal concerned,
+
+(*d*) the proceedings the subject matter of the application are the most satisfactory means (having regard to all the circumstances of the case, including the probable cost to the applicant) by which the result sought by the applicant or a more satisfactory one, may be achieved, and
+
+(*e*) having regard to all the circumstances of the case (including the probable cost to the Board, measured against the likely benefit to the applicant) it is reasonable to grant it.
+
+F36[(2A) Subject to *sections 24* and *29* and the other provisions of this section and to regulations (if any) made under *section 37*, the Board shall grant a legal aid certificate under this section to a person in respect of whom a request for legal aid or advice, or both, has been made by a coroner to the Board pursuant to section 60 of the Coroners Act 1962 if, in the opinion of the Board, the person satisfies the criteria in respect of financial eligibility specified in *section 29*.]
+
+F38[(3) Where the proceedings the subject matter of the application under this section concern—
+
+(*a*) the welfare of (including the custody of or access to) a child, or
+
+(*b*) a sex offender order (within the meaning of the Sex Offenders Act, 2001),
+
+*paragraphs (c)* and *(e)* of *subsection (2)* shall not apply.]
+
+F39[(3A) Where the proceedings the subject matter of the application under this section concern an application under Part 5 of the Assisted Decision-Making (Capacity) Act 2015 relating to the matter referred to in section 37(1) of that Act—
+
+(*a*) *paragraphs (c)* and *(e)* of *subsection (2)* shall not apply, and
+
+(*b*) where the applicant is a relevant person, *paragraph (a)* shall not apply.]
+
+F40[(3B) Where the proceedings the subject matter of the application under this section concern an application under subsection (1), or proceedings pursuant to subsection (2) or (3), of section 54 of the Assisted Decision-Making (Capacity) Act 2015 —
+
+(*a*) *paragraphs (c)* and *(e)* of *subsection (2)* shall not apply, and
+
+(*b*) where the applicant is a ward, *paragraph (a)* shall not apply.]
+
+(4) Notwithstanding *subsection (2)*, the Board may refuse to grant a legal aid certificate if it is of the opinion that—
+
+(*a*) the applicant may obtain the cost of the proceedings the subject matter of the application from, or be provided with legal representation by, a body or association of which he or she is a member or any other source,
+
+(*b*) the applicant has on a previous occasion obtained legal aid or advice within the meaning of the Scheme or under this Act in respect of another matter and has, without reasonable explanation, failed to comply with the terms on which such legal aid or advice was granted,
+
+(*c*) the cost to the applicant of engaging a solicitor and, where necessary, a barrister to represent him or her in the proceedings without legal aid would be less than the contribution payable by him or her under *section 29* and regulations (if any) under *section 37*,
+
+(*d*) such information as is reasonably required by the Board from the applicant to enable it to make a decision on whether to grant a legal aid certificate or not has not been provided by him or her, or
+
+(*e*) due to the act, omission or neglect of the applicant any regulation under *section 37* cannot be complied with in respect of the application.
+
+(5) Notwithstanding any other provision of this Act, the Board shall grant a legal aid certificate to a person—
+
+(*a*) where the State is, by virtue of an international instrument, under an obligation to provide civil legal aid to the person:
+
+Provided that the person shall, before being granted such certificate, comply with such requirements (if any) as are specified in the international instrument and relate to him or her,
+
+(*b*) where the Central Authority in the State, within the meaning of the Child Abduction and Enforcement of Custody Orders Act, 1991, is under an obligation to provide assistance to the person under the said Act of 1991, for the purpose of being provided with such assistance, F41[...]
+
+(*c*) where the Central Authority, within the meaning of the Maintenance Act, 1994, is under an obligation to provide assistance to the person under the said Act of 1994, for the purpose of being provided with such F42[assistance, or]
+
+F43[(*d*) where the court has ordered that a guardian *ad litem* appointed under section 28 (inserted by the Children Act, 1997) of the Guardianship of Infants Act, 1964, should be legally represented in proceedings under subsection (4) of that section, and any of the parties to those proceedings is in receipt of civil legal aid.]
+
+F44[(5A) Notwithstanding any other provision of this Act, the Board shall grant a legal aid certificate to a complainant for the purpose of his or her being represented in relation to an application referred to in section 4A of the Criminal Law (Rape) Act, 1981, that concerns him or her.]
+
+F45[(5B) Notwithstanding any other provision of this Act, where an accused person is prevented from conducting a cross-examination referred to in section 14C of the Criminal Evidence Act 1992, the Board shall grant a legal aid certificate to the accused for the purpose of his or her being represented in relation to such a cross-examination.
+
+(5C) Notwithstanding any other provision of this Act, the Board shall grant a legal aid certificate to a complainant or witness for the purpose of his or her being represented in relation to an application referred to in subsection (3) of section 19A of the Criminal Evidence Act 1992, that concerns him or her.]
+
+F46[(5D) Notwithstanding any other provision of this Act, where—
+
+(*a*) an applicant or respondent (within the meaning of the Domestic Violence Act 2018) is prevented from conducting a cross-examination referred to in section 16 of that Act, or
+
+(*b*) an applicant or respondent (within the meaning of Part 5 of the Criminal Justice (Miscellaneous Provisions) Act 2023) is prevented from conducting a cross-examination referred to in section 32 of that Act,
+
+the Board shall grant a legal aid certificate to the applicant or respondent, as the case may be, for the purpose of his or her being represented in relation to such a cross-examination.]
+
+(6) The Board may require a person to whom it has granted a legal aid certificate to comply with such requirements as it reasonably considers expedient to enable it to satisfy itself that it is reasonable for the person to continue to receive legal aid.
+
+(7) The Board may revoke a legal aid certificate granted to a person under this section where it considers that it is no longer reasonable for the person to continue to receive legal aid and, in particular, where the person no longer satisfies the requirements in respect of financial eligibility specified in *section 29* and in regulations under *section 37*.
+
+(8) Notwithstanding *subsection (2)*, the Board shall not grant a legal aid certificate in respect of proceedings in a court other than the lowest court having jurisdiction in the matter:
+
+Provided that the Board may grant a legal aid certificate to an applicant who, by virtue of any other party to the proceedings, is obliged to take, defend or be a party to the proceedings in a higher court.
+
+(9) (*a*) Subject to any order made under *subsection (10)* and to the other provisions of this subsection, legal aid shall not be granted by the Board in respect of any of the following matters (referred to in this Act as “designated matters”):
+
+(i) defamation;
+
+(ii) disputes concerning rights and interests in or over land;
+
+(iii) civil matters within the jurisdiction of the District Court (Small Claims Procedure) Rules, 1993;
+
+(iv) licensing;
+
+(v) conveyancing;
+
+(vi) election petitions;
+
+(vii) a matter as respects which the application for legal aid is made in a representative, fiduciary or official capacity and the Board, having regard to any source from which the applicant is or may be entitled to be indemnified in respect of the costs of the proceedings concerned and any resources of the persons who would be likely to benefit from a successful outcome of the proceedings for the applicant, is of opinion that legal aid should not be granted;
+
+(viii) a matter the proceedings as respects which, in the opinion of the Board, are brought or to be brought by the applicant as a member of and by arrangement with a group of persons for the purpose of establishing a precedent in the determination of a point of law, or any other question, in which the members of the group have an interest;
+
+(ix) any other matter as respects which the application for legal aid is made by or on behalf of a person who is a member, and acting on behalf, of a group of persons having the same interest in the proceedings concerned.
+
+(*b*) The making of a counterclaim for defamation in proceedings for which a legal aid certificate may otherwise be granted by the Board will not of itself disqualify the defendant to the counterclaim from obtaining such a certificate in respect of those proceedings.
+
+(*c*) Notwithstanding the provisions of *paragraph (a)* and subject to the other provisions of this Act, legal aid may be granted—
+
+(i) in respect of proceedings under the Landlord and Tenant Acts, 1967 to 1994 (in so far as they relate to residential property), F47[the Residential Tenancies Act 2004,] the Married Women's Status Act, 1957, F48[...] the Family Home Protection Act, 1976, the Family Law Act, 1981, F49[or proceedings arising out of a dispute between spouses as to the title to or possession of any property, proceedings under Part 4 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, or proceedings arising out of a dispute between civil partners within the meaning of that Act as to the title to or possession of any property;]
+
+(ii) in respect of proceedings arising out of a dispute as to the title to or possession of any property—
+
+(I) between two persons as respects whom an agreement to marry one another is in force or who are living together as man and wife but are not married to each other, or
+
+(II) between two persons as respects whom an agreement to marry one another has been terminated or who, having lived together as man and wife without being married to each other, have ceased to live together as man and wife, where either or both of them had title to or possession of the property at a time when the agreement to marry was in force or, as the case may be, they were living together as man and wife;
+
+(iii) where a subject matter of the dispute is the applicant's home (or what would be the applicant's home but for the dispute) and the Board considers that the applicant—
+
+(I) suffers from an infirmity of mind or body due to old age or to other circumstances, or
+
+(II) may have been subjected to duress, undue influence or fraud in the matter,
+
+and that a refusal to grant legal aid would cause hardship to the applicant;
+
+(iv) in connection with the preparation of an assent, if the Board is satisfied that the assent relates to the applicant's home and where—
+
+(I) a grant of representation has been taken out on behalf of the applicant, or
+
+(II) the applicant had taken out a personal grant of representation,
+
+and that a refusal to grant legal aid would cause hardship to the applicant;
+
+(v) in respect of licensing matters, provided that the Board is satisfied that the granting of the licence the subject matter of the dispute would cause hardship to the applicant;
+
+F35[(vi) in respect of a conveyancing matter connected to a matter in which legal aid or advice has already been granted;]
+
+F37[(vii) in respect of an inquest under Part III of the Coroners Act 1962 where a request for legal aid has been made to the Board by a coroner pursuant to section 60 of that Act.]
+
+(*d*) An application for a legal aid certificate shall not be refused by reason only of the fact that a successful outcome to the proceedings for the applicant would benefit persons other than the applicant.
+
+(10) The Minister may, with the consent of the Minister for Finance, by order disapply *subsection (9)* from any matter to which that subsection, for the time being applies and, if the Minister makes an order under this subsection, then any matter referred to in the order shall, for so long as the order is in force, cease to be a designated matter for the purpose of this Act, and the provisions of this Act relating to designated matters shall accordingly cease to apply to the matter so referred to in the order.
+
+(11) In this section, “child” means a person who is under the age of 18 years, other than a person who is or has been married.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34, F35: Substituted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(e)(i), (iii), commenced on enactment.
+>
+> F36, F37: Inserted (24.07.2013) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 25(e)(ii), (iii), commenced on enactment.
+>
+> F38: Substituted (27.09.2001) by *Sex Offenders Act 2001* (18/2001), s. 24, S.I. No. 426 of 2001.
+>
+> F39: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(c), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F40: Inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(c), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> F41: Deleted (9.01.1998) by *Children Act 1997* (40/1997), s. 13(a), commenced as per s. 1(2).
+>
+> F42: Substituted (9.01.1998) by *Children Act 1997* (40/1997), s. 13(b), commenced as per s. 1(2).
+>
+> F43: Substituted (9.01.1998) by *Children Act 1997* (40/1997), s. 13(c), commenced as per s. 1(2).
+>
+> F44: Inserted (27.09.2001) by *Sex Offenders Act 2001* (18/2001), s. 35(3), S.I. No. 426 of 2001.
+>
+> F45: Inserted (30.05.2018) by *Criminal Law (Sexual Offences) Act 2017* (2/2017), s. 40, S.I. No. 172 of 2018.
+>
+> F46: Substituted (2.07.2024) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 65, S.I. No. 378 of 2024.
+>
+> F47: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 79(a), S.I. No. 274 of 2008.
+>
+> F48: Deleted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 79(b), S.I. No. 274 of 2008.
+>
+> F49: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 42, S.I. No. 648 of 2010.
+>
+> F50: Substituted by *Family Courts Act 2024* (48/2024), s. 99(a), not commenced as of date of revision.
+>
+> F51: Inserted by *Family Courts Act 2024* (48/2024), s. 99(b), (c), not commenced as of date of revision.
+>
+> F52: Substituted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(d)(i), not commenced as of date of revision.
+>
+> F53: Inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(d)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. (5D)(a), (b) amended and (c) inserted by *Family Courts Act 2024* (48/2024), s. 99(a)-(c), not commenced as of date of revision.
+>
+> F46[(5D) Notwithstanding any other provision of this Act, where—
+>
+> (*a*) an applicant or respondent (within the meaning of the Domestic Violence Act 2018) is prevented from conducting a cross-examination referred to in section 16 of that F50[Act,]
+>
+> (*b*) an applicant or respondent (within the meaning of Part 5 of the Criminal Justice (Miscellaneous Provisions) Act 2023) is prevented from conducting a cross-examination referred to in section 32 of that Act, F51[or]
+>
+> F51[(*c*) an applicant or respondent (within the meaning of the Family Courts Act 2024) is prevented from conducting a cross-examination referred to in section 98 of that Act,]
+>
+> the Board shall grant a legal aid certificate to the applicant or respondent, as the case may be, for the purpose of his or her being represented in relation to such a cross-examination.]
+>
+> C12: Prospective affecting provision: subs. (5)(d) amended and (e) inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(d)(i), (ii), not commenced as of date of revision.
+>
+> (5) ...
+>
+> F43[(*d*) where the court has ordered that a guardian *ad litem* appointed under section 28 (inserted by the Children Act, 1997) of the Guardianship of Infants Act, 1964, should be legally represented in proceedings under subsection (4) of that section, and any of the parties to those proceedings is in receipt of civil legal F52[aid, and]]
+>
+> F53[(*e*) who is a patient, within the meaning of the Mental Health Act 2001, for the purpose of providing that person with legal representation before a tribunal in proceedings under that Act.]
+>
+> C13: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: subs. (5D) inserted (1.01.2019) by *Domestic Violence Act 2018* (6/2018), s. 46, S.I. No. 532 of 2018; substituted (2.07.2024) as per F-note above.
+
+## 29. Financial eligibility and contributions towards cost of legal aid and advice.
+
+**29.**—(1) Subject to *sections 24, 26* and *28* and the other provisions of this section, a person shall not qualify for legal aid or advice unless he or she—
+
+(*a*) satisfies the requirements in respect of financial eligibility specified in this section, and in regulations under *section 37*, and
+
+(*b*) pays to the Board a contribution towards the cost of providing the legal aid or advice determined in accordance with regulations under *section 37*.
+
+F54[(2) The Board may—
+
+(*a*) in accordance with regulations under *section 37*, provide legal aid or advice to an applicant without reference to his or her financial resources,
+
+(*b*) waive any contribution payable pursuant to this section and to any other regulations under *section 37*, or accept a lower contribution, on the ground that a failure to do so would cause undue hardship to the applicant.]
+
+(3) An applicant's financial eligibility shall be assessed by reference to the applicant's disposable income and, where appropriate, disposable capital and the contribution payable by the applicant pursuant to *subsection (1) (b)* shall be assessed by reference to the applicant's disposable income and, where appropriate, disposable capital, as prescribed by the Minister by regulations under *section 37*.
+
+(4) Subject to *subsection (2)*, an applicant whose disposable income exceeds the amount prescribed by the Minister by regulations under *section 37* shall not be eligible to obtain legal aid or advice.
+
+(5) Subject to *subsection (2)*, an applicant whose disposable capital exceeds the amount prescribed by the Minister by regulations under *section 37* shall not be eligible to obtain legal aid or advice.
+
+(6) If, in the opinion of the Board, the behaviour of the person applying for or in receipt of legal aid or advice is such that the costs of providing the legal aid or advice concerned are likely to be increased unnecessarily, the Board may, after notifying the person of its intention so to do—
+
+(*a*) in the case of a person applying for legal aid or advice, refuse to grant such legal aid or advice or increase the amount of the contribution which would otherwise be payable by the person under this section,
+
+(*b*) in the case of a person in receipt of legal aid, revoke the legal aid certificate or increase the amount of the contribution payable by the person under this section, and
+
+(*c*) in the case of a person in receipt of legal advice, cease to grant such legal advice or increase the amount of the contribution which would otherwise be payable by the person under this section.
+
+(7) If, in the opinion of the Board, an applicant, with intent to reduce his or her disposable income or disposable capital, has directly or indirectly deprived himself or herself of any resources for the purpose of qualifying for legal aid or advice under this Act, the resources of which he or she has so deprived himself or herself will be treated as part of his or her resources.
+
+(8) In this section—
+
+“capital”, in relation to an applicant, means the value of every resource of a capital nature and shall include such matters as may be specified by the Minister in regulations under *section 37 (2) (c)*;
+
+“disposable capital”, in relation to an applicant, means the amount of his or her capital after making such deductions and allowances as may be specified by the Minister in regulations under *section 37 (2) (c)*;
+
+“disposable income”, in relation to an applicant, means his or her income after making such deductions and allowances as may be specified by the Minister in regulations under *section 37 (2) (c)*; and
+
+“income”, in relation to an applicant, means the income which he or she may reasonably expect to receive from all sources during the year succeeding the date of application but shall, in the absence of what the Board considers to be a satisfactory means for ascertaining it, be taken to be the income actually received during the year immediately preceding the date of application and shall include such matters as may be specified by the Minister in regulations under *section 37 (2) (c)* or such income as is ascertained by the Board to be the income in accordance with regulations under *section 37 (2) (c)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 80, S.I. No. 274 of 2008.
+
+## 30. Location of law centres and provision of legal aid and advice.
+
+**30.**—(1) The Board may make legal aid and advice available through centres, to be known as law centres, established by it under this section with the consent of the Minister or established or used by the former Board for the provision of services under the Scheme, or through solicitors or barristers whose names are entered on panels established and maintained by it under *subsection (3)*.
+
+(2) Subject to the other provisions of this Act, a person shall be entitled to apply for legal aid or advice through any law centre irrespective of his or her place of residence.
+
+(3) The Board may establish and maintain—
+
+(*a*) a panel (to be known as “the solicitors' panel”) containing a list of names of solicitors who are willing to provide legal aid and advice, and
+
+(*b*) a panel (to be known as “the barristers' panel”) containing a list of names of barristers who are willing to provide legal aid and advice,
+
+on such terms and conditions as the Board may, with the consent of the Minister and the Minister for Finance, from time to time determine.
+
+(4) Any solicitor or barrister who is prepared to comply with the terms and conditions referred to in *subsection (3)* shall be entitled to have his or her name included on the appropriate panel unless his or her conduct when providing or selected to provide legal aid or advice or his or her professional conduct generally render him or her unsuitable, in the opinion of the Board, to provide such aid or advice.
+
+(5) Where a solicitor is entered on the solicitors' panel on behalf of a firm of solicitors he or she shall, when providing legal aid or advice, be deemed to do so on behalf of the firm.
+
+(6) Any law centre may provide legal aid or advice to more than one party to a dispute provided that each such party is represented by a separate solicitor and, where appropriate, barrister.
+
+F55[(6A) Where the Board has granted a person a legal aid certificate for proceedings in any court or before any tribunal prescribed by the Minister under *section 27(2)*, then, notwithstanding any enactment (including any provision of this Act), any statutory instrument made under any enactment, or any rule of law, the proceedings shall, in so far as they relate to the solicitor for any party to the proceedings pursuant to the certificate, be issued in—
+
+(*a*) the name of the law centre concerned where the law centre is responsible for providing the legal aid concerned,
+
+(*b*) in any other case, the name of the solicitor or firm of solicitors responsible for providing the legal aid concerned.]
+
+(7) All communications and notices in any proceedings in respect of which legal aid is being granted F56[shall] be addressed to the law centre responsible for providing the legal aid concerned.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 81(a), S.I. No. 274 of 2008.
+>
+> F56: Substituted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 81(b), S.I. No. 274 of 2008.
+>
+> **Modifications (not altering text):**
+>
+> C14: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 31. Selection of solicitor or barrister.
+
+**31.**—(1) The Board shall, upon deciding to grant legal aid or advice to a person, nominate a solicitor of the Board for the purpose of providing such person with such legal aid or advice, or refer the person to the solicitors' panel to select a solicitor therefrom, which solicitor shall, upon selection, be engaged by the Board for the said purpose under *section 11*.
+
+(2) The Board may, having taken into account the views of the person to whom it has decided to grant legal aid or advice, nominate any barrister whose name is entered on the barristers' panel for the purpose of providing such person with such legal aid or advice as the Board considers should necessarily be provided by a barrister in the circumstances, and the barrister so nominated shall, subject to *subsection (3)*, be engaged by the Board under *section 11* for the said purpose on the instructions of the solicitor nominated by the Board in the matter under *subsection (1)* or engaged by the Board in the matter under *section 11*.
+
+(3) Where a person to whom the Board has decided to grant legal aid or advice wishes to be provided with the services of—
+
+(*a*) a solicitor other than one nominated by the Board pursuant to *subsection (1)*, or
+
+(*b*) a barrister other than one nominated by the Board pursuant to *subsection (2)*,
+
+that person may make an application to the Board in that regard and, if the Board considers that the person's wish is reasonable in all the circumstances, it may consent to the application and, as may be appropriate, nominate such other solicitor for the purpose under *subsection (1)* or engage such other solicitor or barrister for the purpose under *section 11*.
+
+(4) Where a person to whom the Board has decided to grant legal aid or advice has—
+
+(*a*) accepted the nomination of a solicitor or selected a solicitor from the solicitors' panel pursuant to *subsection (1)* or been granted the services of a solicitor pursuant to an application under *subsection (3)*, or
+
+(*b*) accepted the nomination of a barrister pursuant to *subsection (2)* or been granted the services of a barrister pursuant to an application under *subsection (3)*,
+
+the person may apply to the Board to have the services of that solicitor or barrister dispensed with and the services of another solicitor of the Board or solicitor from the solicitors' panel or, as may be appropriate, barrister from the barristers' panel obtained in the matter and where the Board considers it reasonable in all the circumstances, it may consent to the application.
+
+(5) Where the Board consents to an application under *subsection (3)* or *(4)*, the additional expense (if any) occasioned by the person or the Board by so doing shall be borne by the applicant, unless the Board considers that it is reasonable in all the circumstances that such expense be borne by the Fund.
+
+(6) A solicitor nominated by the Board or engaged by the Board for the purpose of providing a person with legal aid or advice may, at his or her discretion, nominate another solicitor, being a solicitor who is qualified to provide legal aid or advice, to act as his or her agent in the matter or in any aspect thereof.
+
+## 32. Relationship between lawyer and person in receipt of legal aid or advice.
+
+**32.**—(1) Save as is otherwise specifically provided for by this Act, the relationship between a solicitor or barrister and an applicant for, or a person in receipt of, legal aid or advice and the rights and privileges arising out of such relationship shall be the same as the relationship between, and the rights and privileges arising out of the relationship between, a solicitor or barrister and his or her client not being an applicant for, or a person in receipt of, legal aid or advice.
+
+(2) Notwithstanding the relationship between, or rights and privileges of, a solicitor or barrister and an applicant for, or person in receipt of, legal aid or advice, a solicitor or barrister providing legal aid or advice shall, if so requested by a person authorised in that behalf by the Board, provide the person with any information, in such form as the person may specify, relating to legal aid or advice provided to or by an applicant or person in receipt of legal aid or advice, which is required by the Board for the purpose of enabling the Board to discharge its functions under this Act.
+
+## 33. Costs recoverable by or on behalf of a person in receipt of legal aid or advice.
+
+**33.**—(1) In this section “costs” includes all outlays including solicitors' and witnesses' costs and expenses and barristers' fees.
+
+(2) A court or tribunal shall make an order for costs in a matter in which any of the parties is in receipt of legal aid in like manner and to the like effect as the court or tribunal would otherwise make if no party was in receipt of legal aid and all parties had respectively obtained the services of a solicitor or barrister or both, as appropriate, at their own expense.
+
+(3) Subject to *subsection (8)*, an applicant for legal aid or advice shall take all possible steps to ensure that any right he or she possesses to be indemnified either in whole or in part in respect of expenses which would, but for this Act, be required to be incurred by him or her in the matter, will, in respect of expenses incurred by the Board on his or her behalf in the matter and not yet reimbursed to the Board, inure for the benefit of the Fund.
+
+(4) A solicitor of the Board nominated for the purpose or a solicitor engaged by the Board under *section 11* to provide legal aid or advice to a person in a matter shall take all necessary steps to recover any costs recoverable by such person whether by order of any court or tribunal or by virtue of any settlement reached to avoid or bring an end to any proceedings or otherwise, and shall pay any costs so recovered into the Fund.
+
+(5) A person in receipt of legal aid or advice under this Act shall not agree with any party not so in receipt to forego any costs or to meet any costs of any such party or to accept any sum in satisfaction of his costs or the costs of the Board in the matter, save with the prior approval of the Board, and the Board may make it a condition of such approval that any or all of its costs shall be paid out of any property or sum recovered by the said person by virtue of the agreement.
+
+(6) The Board shall be entitled to recover the costs incurred by it in providing legal aid or advice and the amount of costs recoverable by the Board under this section shall be such sum as may be determined by the Board having regard to *section 34* or, in default of agreement between the person in receipt of the legal aid or advice and the Board, be—
+
+(*a*) in the case of a person in receipt of legal aid, such sum as may, at the discretion of the court or tribunal concerned, either be—
+
+(i) measured by the court or tribunal in accordance with *section 34*, or
+
+(ii) determined by the Taxing Master—
+
+(I) in accordance with the rules (if any) of the court or tribunal concerned, and
+
+(II) in the absence of any such rules, as solicitor or client costs,
+
+and
+
+(*b*) in the case of a person in receipt of legal advice, such sum as may be determined by the Taxing Master as solicitor and client costs.
+
+(7) Subject to *subsection (8)*, any general damages or any money (including costs) or other property recovered by or preserved for a person in receipt of legal aid or advice in a matter, or on his or her behalf, by the Board, whether by order of any court or tribunal or by virtue of any settlement reached to avoid or bring an end to any proceedings or otherwise, shall, in the case of general damages or money be paid by the person or the Board into the Fund and in the case of other property be made by the person or the Board subject to an appropriate charge in favour of the Fund for the purpose of the recovery by the Board of its costs in providing such legal aid or advice.
+
+F57[(7A) Where a legal aid certificate has been granted to an applicant who is a relevant person who does not satisfy the criteria in respect of financial eligibility specified in *section 29*, the Board may seek to recover some or all of the costs of providing the legal aid to the relevant person concerned.]
+
+F58[(7B) Where a legal aid certificate has been granted to an applicant who is a ward who does not satisfy the criteria in respect of financial eligibility specified in *section 29*, the Board may seek to recover some or all of the costs of providing the legal aid to the ward concerned.]
+
+(8) The Board—
+
+(*a*) shall waive any right to any money or other property to which it is entitled under this section, to the extent that such money or other property consists of—
+
+(i) a house or portion thereof (including normal household chattels) being the normal place of residence of the recipient of legal aid or advice concerned,
+
+(ii) a periodical or lump sum payment of maintenance,
+
+(iii) the first £2,500 of any moneys payable by way of arrears of maintenance under an agreement in writing or order of any court, or
+
+(iv) the first £2,500 of any moneys payable by way of arrears or lump sum under the Social Welfare Acts, the Health Acts, 1947 to 1994, the Unfair Dismissals Acts, 1977 to 1993, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, the Employment Equality Act, 1977, the Anti-Discrimination (Pay) Act, 1974, or the Redundancy Payments Acts, 1967 to 1991,
+
+and
+
+(*b*) may, in whole or in part, waive any right to any money or other property to which it is entitled under this section if, in the opinion of the Board, not to do so would be likely to create hardship for the recipient of legal aid or advice concerned.
+
+(9) The Minister may, with the consent of the Minister for Finance, by order vary the amounts specified in *subparagraphs (iii)* and *(iv)* of *subsection (8) (a)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(e), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F58: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(d), as inserted by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C15: Functions transferred and references to the Minister for and Department of Finance construed as Minister for and Department of Public Expenditure and Reform (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td>Sections 6, 11(4), (5), (7) and (8), 18, 19(1), 20(1), 27(2), 28(10), 30(3) and 33(9)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> Note that the name of the Minister for and Department of Public Expediture and Reform as was changed to:
+>
+> • Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in operation as per art. 1(2).
+
+## 34. Measurement of costs incurred by Board.
+
+**34.**—The Board or the court or tribunal concerned may, when measuring the costs incurred by the Board in connection with the provision of legal aid or advice in any case, take into account all factors relevant to assessing the actual costs, including the following matters—
+
+(*a*) the time devoted to the case and the salaries, fees and other expenses paid to the staff of the Board and to any solicitor or barrister engaged by the Board to provide legal aid or advice in the matter,
+
+(*b*) any other administrative expenses including the cost of accommodation, stationery, photocopying and telephone expenses,
+
+(*c*) any fees or expenses incurred in obtaining reports,
+
+(*d*) witnesses' expenses, and
+
+(*e*) any charges payable by way of court fees or otherwise.
+
+## 35. Refund of costs and damages.
+
+**35.**—Subject to *section 33 (8)*, if the total cost incurred by the Board in providing legal aid or advice to a person under this Act measured in accordance with *section 34* or taxed by order of the court or tribunal concerned in accordance with the rules of the court or tribunal or, as appropriate, determined by the Taxing Master as solicitor and client costs is less than the total amount paid into the Fund by him or her or on his or her behalf—
+
+(*a*) by way of a contribution under *section 29*, and
+
+(*b*) by way of a payment made or charge created in accordance with the provisions of *section 33 (7)*,
+
+the balance arising shall be refunded to him or her.
+
+## 36. Costs awarded against a person in receipt of legal aid.
+
+**36.**—(1) Costs awarded by a court or tribunal to a person not in receipt of legal aid (referred to subsequently in this section as “the successful litigant”) against a person who is so in receipt (referred to subsequently in this section as “the unsuccessful litigant”) shall not, save in accordance with *subsection (2)*, be paid out of the Fund.
+
+(2) Where a successful litigant submits a bill of costs to the Board, the Board may make an *ex gratia* payment towards such costs of such amount as it considers appropriate, if it is satisfied of the following matters, namely that—
+
+(*a*) the proceedings were instituted by the unsuccessful litigant,
+
+(*b*) the successful litigant has taken all reasonable steps to recover his or her costs from the unsuccessful litigant in person,
+
+(*c*) the successful litigant will suffer severe financial hardship unless an *ex gratia* payment is made,
+
+(*d*) the *ex gratia* payment will not exceed the amount that would be allowed if the costs were taxed on a party and party basis, and
+
+(*e*) the case has been finally determined.
+
+## 36. Confidentiality of information disclosed in course of family mediation.
+
+F59[**36A.**—(1) Any communication (including any record of such communication) between any of the parties to a family mediation provided by the Board or provided by other persons appointed for that purpose by the Board under this Act, and a third party, including a mediator, for the purposes of attempting to reach agreement relating to such of the following matters as relate to the parties to the mediation—
+
+(*a*) a separation,
+
+(*b*) a divorce,
+
+(*c*) a dissolution of a civil partnership,
+
+(*d*) payment of maintenance,
+
+(*e*) an order of a court or an agreement relating to guardianship or custody of a child, or to parental access to a child, shall not be disclosed and shall not be admissible as evidence in any court.
+
+(2) *Subsection (1)* is in addition to and not in substitution for any other statutory provision.
+
+(3) Nothing in this section shall prevent a party who is engaged in or who engaged in a family mediation communicating the progress made in that mediation to his or her solicitor and obtaining legal advice in relation to the matters the subject of the mediation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(d), S.I. No. 539 of 2011.
+
+## 36. Guidelines relating to confidentiality of family mediation.
+
+F60[**36B.**—(1) The Board shall, with the consent of the Minister, make guidelines with the objective of preventing the disclosure of communications referred to in *section 36A*.
+
+(2) Guidelines made under *subsection (1)* shall include provisions relating to—
+
+(*a*) the utilisation of premises for the purposes of family mediation services other than the premises where the solicitor of the Board is usually located who is acting for a person who has been issued with a legal aid certificate under *section 29* and who is a party to a family mediation provided by the Board or a person appointed by it, and
+
+(*b*) the regular training of staff and officers of the Board and of persons appointed by the Board to provide family mediation services regarding the need to maintain confidentiality of communications made in connection with a family mediation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Inserted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(d), S.I. No. 539 of 2011.
+
+## 37. Regulations.
+
+**37.**—(1) The Minister may make such regulations as are necessary for the purpose of giving effect to this Act.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under this section may—
+
+(*a*) make provision as to the manner of making applications for legal aid or advice under this Act, the consideration and processing of such applications by the Board, the grant of legal advice and the cesser of the grant thereof by the Board and the issue, amendment and revocation of legal aid certificates by the Board (including the issue of emergency certificates);
+
+(*b*) prescribe the maximum amount of disposable income which a person is entitled to earn and the maximum amount of disposable capital which a person is entitled to possess in order that he or she may be eligible to obtain legal aid or advice;
+
+(*c*) make provision for the assessment by the Board or its staff of the means, income, disposable income, capital and disposable capital of applicants, the contributions payable by applicants, the waiving of contributions and the acceptance of lower contributions from applicants;
+
+(*d*) make provision as to the information to be furnished by a person applying for or in receipt of legal aid or advice;
+
+(*e*) make provision for the establishment, location and management of law centres by the Board;
+
+(*f*) make provision as to the cases or the circumstances in which an applicant may be refused legal aid or advice by the Board and for the review of decisions by the Board on appeals therefrom;
+
+F61[(*fa*) make provision as to the conditions relating to the provision of family mediation services by the Board;
+
+(*fb*) prescribe fees or charges which may be charged by the Board in relation to the provision of family mediation services, which regulations may prescribe different fees or charges in relation to different classes of persons or different classes of cases;]
+
+F63[(*fc*) make provision for the mechanism for recovery of the costs referred to in *section 33(7A)*;]
+
+F64[(*fd*) make provision for the mechanism for recovery of the costs referred to in *section 33(7B)*;]
+
+F65[(*fe*) make provision as to the conditions relating to the provision of legal counselling by the Board;]
+
+(*g*) make provision as to the duties of solicitors of the Board;
+
+(*h*) make provision as to the refund of costs to persons in receipt of legal aid or advice;
+
+(*i*) prescribe the conditions under which legal aid and advice shall be available;
+
+(*j*) make provision for such other matters arising by virtue of this Act as the Minister considers appropriate.
+
+F62[(3) Regulations made pursuant to *subsection (2)(fb)* shall not prescribe fees or charges in relation to the provision of family mediation services where the parties to the mediation had agreed to enter such mediation before the coming into operation of section 50 of the Civil Law (Miscellaneous Provisions) Act 2011.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61, F62: Inserted (1.11.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 54(e)(i), (ii), S.I. No. 539 of 2011.
+>
+> F63: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 52(f), S.I. No. 192 of 2023, S.I. No. 193 of 2023.
+>
+> F64: Inserted by *Assisted Decision-Making (Capacity) Act 2015* (64/2015), s. 57A(e), as inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 48, S.I. No. 194 of 2023.
+>
+> F65: Inserted by *International Protection Act 2026* (9/2026), s. 297(1)(d), S.I. No. 244 of 2026.
+>
+> **Editorial Notes:**
+>
+> E11: Power pursuant to section exercised (18.05.2021) by *Civil Legal Aid Regulations 2021* (S.I. No. 248 of 2021).
+>
+> E12: Power pursuant to section exercised (1.01.2018) by *Civil Legal Aid Regulations 2017* (S.I. No. 626 of 2017), in operation as per reg. 2.
+>
+> E13: Power pursuant to section exercised (23.05.2016) by *Civil Legal Aid Regulations 2016* (S.I. No. 272 of 2016), in operation as per reg. 2.
+>
+> E14: Power pursuant to section exercised (16.09.2013) by *Civil Legal Aid Regulations 2013* (S.I. No. 346 of 2013), in operation as per reg. 1(3).
+>
+> E15: Power pursuant to section exercised (1.09.2006) by *Civil Legal Aid Regulations 2006* (S.I. No. 460 of 2006), in operation as per reg. 1(3).
+>
+> E16: Power pursuant to section exercised (16.01.2002) by *Civil Legal Aid Regulations 2002* (S.I. No. 8 of 2002).
+>
+> E17: Power pursuant to section exercised (11.10.1996) by *Civil Legal Aid Regulations 1996* (S.I. No. 273 of 1996), in operation as per reg. 2.
+
+## 38. Orders and regulations.
+
+**38.**—(1) Every order or regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(2) The Minister may by order, amend or revoke an order made under this Act, including an order made under this subsection.
+
+## 39. Expenses.
+
+**39.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 40. Short title.
+
+**40.**—This Act may be cited as the Civil Legal Aid Act, 1995.

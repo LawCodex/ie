@@ -1,0 +1,2403 @@
+---
+title: "Ethics in Public Office Act, 1995"
+identifier: "eli/1995/act/22"
+type: act
+jurisdiction: ie
+language: en
+number: 22
+year: 1995
+date: 1995-07-22
+last_amended: 2026-01-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1995/act/22/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1995/act/22/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Ethics in Public Office Act, 1995
+
+AN ACT TO PROVIDE FOR THE DISCLOSURE OF INTERESTS OF HOLDERS OF CERTAIN PUBLIC OFFICES (INCLUDING MEMBERS OF THE HOUSES OF THE OIREACHTAS) AND DESIGNATED DIRECTORS OF AND PERSONS EMPLOYED IN DESIGNATED POSITIONS IN CERTAIN PUBLIC BODIES, FOR THE APPOINTMENT BY EACH SUCH HOUSE OF A COMMITTEE, AND FOR THE ESTABLISHMENT OF A COMMISSION, TO INVESTIGATE CONTRAVENTIONS OF THIS ACT AND TO ESTABLISH GUIDELINES TO ENSURE COMPLIANCE THEREWITH, TO PROHIBIT THE RETENTION OF VALUABLE GIFTS BY HOLDERS OF CERTAIN PUBLIC OFFICES, TO AMEND THE PREVENTION OF CORRUPTION ACTS, 1889 TO 1916, AND TO PROVIDE FOR RELATED MATTERS. [22*nd July*, 1995]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Minister for Public Expenditure, National Development Plan Delivery and Reform” and “Public Expenditure, National Development Plan Delivery and Reform” construed (1.03.2023) by *Standards in Public Office (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 89 of 2023), arts. 2-4 and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note earlier change of name from Public Expenditure and Reform to Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2).
+>
+> Note change of name of Minister to Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025, in operation as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Finance.
+>
+> (2) References to the Department of Public Expenditure, National Development Plan Delivery and Reform contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Finance.
+>
+> 3\. (1) The functions vested in the Minister for Public Expenditure, National Development Plan Delivery and Reform by or under the provisions of an Act specified in column (1) of the Schedule are transferred to the Minister for Finance to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified.
+>
+> (2) References to the Minister for Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> ...
+>
+> Schedule
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Ethics in Public Office Act 1995 (No. 22 of 1995)</td><td>The whole Act, other than the following provisions:<br>(a) section 3 (in so far as it relates to the performance of any function that is not transferred by this Order);<br>(b) section 4 (in so far as it relates to the sanctioning by the Minister for Public Expenditure, National Development Plan Delivery and Reform of certain expenses incurred in the administration of that Act);<br>(c) subsection (2D), paragraph (c) of subsection (2H) and subsections (12) and (13) of section 21.</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 22 of 1995</td><td>Ethics in Public Office Act 1995</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Application of Act restricted (27.09.2006) by *Aer Lingus Act 2004* (10/2004), s. 12(1), S.I. No. 475 of 2006.
+>
+> **Certain Acts not to apply to Company.**
+>
+> **12.**—(1) With effect from the coming into operation of this subsection, the Ethics in Public Office Acts 1995 and 2001, shall cease to apply to the Company.
+>
+> C4: Application of Act extended (1.01.2003) by *Local Government Act 2001* (37/2001), s. 180, S.I. No. 218 of 2002.
+>
+> **Application of Ethics in Public Office Act, 1995, etc.**
+>
+> **180.**—(1) In this section “the Acts” means the Ethics in Public Office Act, 1995, and any other Act which is to be construed together as one with that Act.
+>
+> (2) The Acts shall apply in relation to a local authority subject to the provisions of this section and with such other modifications as may be necessary and for that purpose—
+>
+> (*a*) the powers of investigation and report conferred on the Commission apply in relation to a person to whom *subsection (1)* or *(2)* of *section 167* relates,
+>
+> (*b*) *subsection (3)* shall apply as regards a report prepared by the Commission,
+>
+> (*c*) *subsection (4)* shall apply as regards the consideration of such report by a local authority.
+>
+> (3) (*a*) Where a report prepared by the Commission relates to—
+>
+> (i) a manager, it shall be furnished to the Cathaoirleach of the county council or city council concerned,
+>
+> (ii) the Cathaoirleach of a local authority, it shall be furnished to the Leas-Chathaoirleach of the authority and to its manager,
+>
+> (iii) any other member of a local authority, it shall be furnished to the Cathaoirleach of the authority and to its manager,
+>
+> (iv) any employee of a local authority other than the manager, it shall be furnished to the manager of the local authority concerned, and
+>
+> (v) any other person to whom *subsection (1)* or *(2)* of *section 167* relates, it shall be furnished to the manager of the local authority concerned.
+>
+> (*b*) Nothing in this subsection shall be read so as to prevent the furnishing of a report referred to in *paragraph (a)* to any other person in accordance with the Acts.
+>
+> (4) (*a*) Where a report referred to in *subparagraph (i), (ii)* or *(iii)* of *subsection (3)(a)* is furnished to a local authority, it shall be considered by the elected council. The elected council shall decide on such action to be taken as may be considered appropriate in all the circumstances including, in the case of *subparagraph (i)* of *subsection (3)(a)*, the exercise of powers of suspension or removal pursuant to *section 146*.
+>
+> (*b*) Where a report referred to in *subparagraph (iv)* or *(v)* of *subsection (3)(a)* is furnished to a local authority it shall be considered by its manager. The manager shall decide on such action to be taken as may be considered appropriate in all the circumstances including, in the case of an employee, suspension with or without pay or termination of employment.
+>
+> (*c*) The manager shall inform the elected council of the result of a consideration under *paragraph (b)*.
+>
+> (5) Nothing in this section shall be read as prejudicing the Commission in carrying out the functions conferred on it by the Acts.
+>
+> C5: Construction of references amended (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 15, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. See s. 21 for establishment of the Commission.
+>
+> **Adaptation of references in Principal Act and Act of 1997.**
+>
+> **15.**—(1) In the Principal Act, the Act of 1997 and every other Act of the Oireachtas and every instrument made under any of the Acts aforesaid—
+>
+> (*a*) references to the Public Offices Commission shall be construed as references to the Commission, and
+>
+> (*b*) references to the chairman of the Public Offices Commission shall be construed as references to the chairperson of the Commission.
+>
+> C6: Registration dates specified (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 12, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Registration date.**
+>
+> **12.**—For the purposes of the Principal Act and notwithstanding anything in that Act—
+>
+> (*a*) in relation to Dáil Éireann and its members and Clerk, the registration date immediately following 31 January 2001 shall be 31 December 2001, and each subsequent registration date shall be the date of each anniversary of the latter date or, if on any such date (“the specified date”) Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Dáil Éireann after the specified date, and
+>
+> (*b*) in relation to Seanad Éireann and its members and Clerk, the registration date immediately following 31 January 2001 shall be 31 December 2001, and each subsequent registration date shall be the date of each anniversary of the latter date or, if on any such date Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Seanad Éireann after the first general election for members of Seanad Éireann after that dissolution.
+>
+> C7: Application of Act restricted (15.07.1999) by *Postal and Telecommunications Services (Amendment) Act 1999* (5/1999), s. 10, S.I. No. 220 of 1999.
+>
+> **Non-application of certain Acts.**
+>
+> **10.**—The Ombudsman Act, 1980, the Ethics in Public Office Act, 1995, the Prompt Payment of Accounts Act, 1997, and section 521 of the Taxes Consolidation Act, 1997, shall not apply to the company.
+>
+> **Editorial Notes:**
+>
+> E1: Secretary to the Standards in Public Office Commission prescribed to be recipient of disclosures of relevant wrongdoings in relation to certain matters relating to the supervision of the collectively cited *Ethhics in Public Office Acts* for purpose of *Protected Disclosures Act 2014* (14/2014) (23.07.2014) by *Protected Disclosures Act 2014 (Section 7(2)) Order 2014* (S.I. No. 339 of 2014).
+>
+> E2: Previous affecting provision: application of collectively cited *Prevention of Corruption Acts 1889-2001* extended (21.12.2009) by *National Asset Management Agency Act 2009* (34/2009), s. 16, S.I. No. 545 of 2009; collectively cited Acts repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title, commencement, partial cesser and collective citation.
+
+**1.**—(1) This Act may be cited as the Ethics in Public Office Act, 1995.
+
+(2) (*a*) (i) Subject to *subparagraph (ii)*, this Act shall come into operation on such day as the Government appoint by order.
+
+(ii) *Subparagraph (i)* does not apply to—
+
+(I) *Part II,*
+
+(II) *Part III* in so far as it relates to the Chairman and Deputy Chairman of each House, or
+
+(III) *Parts V* and *VI* in so far as they relate to members.
+
+(*b*) (i) If either House by resolution so declares—
+
+(I) *Part II* in so far as it relates to that House and its members and Clerk and its committees and their members and clerks,
+
+(II) *Part III* in so far as it relates to the Chairman and Deputy Chairman of that House, and
+
+(III) *Parts V* and *VI* in so far as they relate to members of that House,
+
+shall come into operation on such day as may be specified in the resolution.
+
+(ii) If each House by resolution so declares, *Part II* shall come into operation on such day as may be specified in the resolution in so far as it relates to joint committees of both Houses and their members and clerks.
+
+(*c*) (i) If either House by resolution so declares—
+
+(I) *Part II* in so far as it relates to that House and its members and Clerk and its committees and their members and clerks,
+
+(II) *Part III* in so far as it relates to the Chairman and Deputy Chairman of that House, and
+
+(III) *Parts V* and *VI* in so far as they relate to members of that House,
+
+shall cease to be in operation as on and from such day as may be specified in the resolution.
+
+(ii) If either House by resolution so declares, *Part II* shall cease to be in operation as on and from such day as may be specified in the resolution in so far as it relates to joint committees of both Houses and their members and clerks.
+
+(3) The Prevention of Corruption Acts, 1889 to 1916, and *section 38* may be cited together as the Prevention of Corruption Acts, 1889 to 1995.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (17.10.1995) by *Ethics in Public Office Act 1995 (Commencement) Order 1995* (S.I. No. 282 of 1995) and (1.01.1996) resolutions of both Houses of the Oireachtas.
+>
+> 2\. (1) Subject to paragraph (2), the first day of November, 1995, is hereby appointed as the day upon which the Ethics in Public Office Act, 1995 (No. 22 of 1995), shall come into operation.
+>
+> (2) Subparagraph (1) does not apply to—
+>
+> (a) Part II,
+>
+> (b) Part III in so far as it relates to the Chairman and Deputy Chairman of each House of the Oireachtas, and
+>
+> (c) Parts V and VI in so far as they relate to members of either such House.
+>
+> **Resolution of Dáil Éireann: Debates Volume 457, 26 October 1995, Ethics in Public Office Act, 1995: Motion.**
+>
+> Minister of State at the Department of Enterprise and Employment (Ms E. Fitzgerald): I move: That, pursuant to section 1 (2) (b) of the Ethics in Public Office Act, 1995 (No. 22 of 1995), it be hereby declared that—
+>
+> (a) Part II of that Act in so far as it relates to—
+>
+> (i) Dáil Éireann and its members,
+>
+> (ii) the Clerk of Dáil Éireann,
+>
+> (iii) committees of Dáil Éireann and their members and clerks,
+>
+> (iv) joint committees of Dáil and Seanad Éireann and their members and clerks,
+>
+> (b) Part III of that Act in so far as it relates to the Chairman and Deputy Chairman of Dáil Éireann, and
+>
+> (c) Parts V and VI of that Act in so far as they relate to members of Dáil Éireann, shall come into operation on the 1st day of January, 1996 ... Question put and agreed to.
+>
+> **Resolution of Seanad Éireann: Debates Volume 145, 15 November 1995, Ethics in Public Office Act, 1995: Motion.**
+>
+> Mr. Manning: I move: That, pursuant to section 1 (2) (b) of the Ethics in Public Office Act, 1995 (No. 22 of 1995), it be hereby declared that—
+>
+> (a) Part II of that Act in so far as it relates to—
+>
+> (i) Seanad Éireann and its Members,
+>
+> (ii) the Clerk of Seanad Éireann,
+>
+> (iii) committees of Seanad Éireann and their members and clerks,
+>
+> (iv) joint committees of Seanad and Dáil Éireann and their members and clerks,
+>
+> (b) Part III of that Act in so far as it relates to the Chairman and Deputy Chairman of Seanad Éireann, and
+>
+> (c) Parts V and VI of that Act in so far as they relate to Members of Seanad Éireann, shall come into operation on the 1st day of January, 1996 ... Question put and agreed to.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, save where the context otherwise requires—
+
+“act” includes omission or failure to act and a reference to the doing of an act includes a reference to the making of an omission, and any cognate words shall be construed accordingly;
+
+“actual knowledge” means actual, direct and personal knowledge as distinct from constructive, implied or imputed knowledge and includes, in relation to a fact, belief in its existence the grounds for which are such that a reasonable person who is aware of them could not doubt or disbelieve that the fact exists;
+
+“additional interests” has the meaning assigned to it by *section 13*;
+
+“benefit” includes—
+
+(*a*) a right, privilege, office or dignity and any forbearance to demand money or money's worth or a valuable thing,
+
+(*b*) any aid, vote, consent or influence or pretended aid, vote, consent or influence,
+
+(*c*) any promise or procurement of or agreement or endeavour to procure, or the holding out of any expectation of, any gift, loan, fee, reward or other thing aforesaid,
+
+or other advantage and the avoidance of a loss, liability, penalty, forfeiture, punishment or other disadvantage;
+
+“Clerk” means, in relation to members of Dáil Éireann, the Clerk of Dáil Éireann and, in relation to members of Seanad Éireann, the Clerk of Seanad Éireann;
+
+“commercial price”, in relation to the supply of property, whether real or personal, or the supply of a service, and “commercial consideration”, in relation to the lending of property, means—
+
+(*a*) where the person by whom the property is supplied or lent or the service is supplied carries on a business consisting wholly or partly of the supply or lending of property or the supply of a service, the lowest price or consideration charged by him or her for the supply or lending in the normal course of business of an equivalent amount of property of the same kind or for the supply of a service of the same kind and to the same extent (allowance being made for any discount which is normally given by him or her in respect of the supply or lending of property of the same kind or the supply of a service of the same kind) at or about the time of the first-mentioned supply or lending of property or the first-mentioned supply of a service, and
+
+(*b*) where the person by whom the property is supplied or lent or the service is supplied does not carry on a business consisting wholly or partly of the supply or lending of property or the supply of a service of the same kind, the lowest price or consideration for which an equivalent amount of property of the same kind may be purchased or taken on loan or a service of the same kind and to the same extent may be procured in the normal course of business (allowance being made for any discount which is normally given in respect of the supply or lending of property of the same kind or the supply of a service of the same kind) at or about the time of the first-mentioned supply or lending of property or the first-mentioned supply of a service from a person who carries on such a business;
+
+“the Commission” means the commission established by *section 21*;
+
+“the Committee”, in relation to Dáil Éireann or members of Dáil Éireann, means the Committee on Members' Interests of Dáil Éireann appointed under *section 8* and, in relation to Seanad Éireann or members of Seanad Éireann, means the Committee on Members' Interests of Seanad Éireann appointed under *section 8* and “a Committee” means, as the context may require, each of those committees or either of them;
+
+“committee” and “joint committee” include a sub-committee of a committee or, as the case may be, joint committee;
+
+“company” means any body corporate;
+
+“connected person”, in relation to a person, shall be construed in accordance with *subsection (2);*
+
+“designated directorship”, in relation to a public body, means a prescribed directorship of that body;
+
+“designated position”, in relation to a public body, means a prescribed position of employment in that body;
+
+“director” means a director within the meaning of the Companies Acts, 1963 to 1990, but includes, in the case of a public body that is not a company (within the meaning of the Companies Act, 1963) and is specified in *subparagraph (8), (9), (10), (11)* or *(12)*, or stands prescribed for the purposes of *subparagraph (13)*, of *paragraph 1* of the *First Schedule*, a person who is a member of it or a member of any board or other body that controls, manages or administers it, and any cognate words shall be construed accordingly;
+
+“election” means a presidential election, a European election, a Dáil election, a local election (within the meaning, in each case, of the Electoral Act, 1992), or an election of a member or members to serve in Seanad Éireann, and any cognate words shall be construed accordingly;
+
+“functions” includes powers and duties and references to the performance of functions include, with respect to powers and duties, references to the exercise of the powers and the carrying out of the duties and, in relation to an office holder, includes functions conferred on him or her by the Government or in pursuance of a decision of the Government and functions of the office holder as a member of the Government;
+
+F1[“gift” means a gift of money or other property excluding a donation (within the meaning of the Electoral Act, 1997);]
+
+“House” means House of the Oireachtas and, in relation to a person who is an office holder or member, means the House of the Oireachtas of which he or she is a member, and any cognate words shall be construed accordingly;
+
+“interest” means an interest specified in the *Second Schedule*;
+
+“lend” includes lease or let and any cognate words shall be construed accordingly;
+
+“member” means a member of Dáil Éireann or a member of Seanad Éireann;
+
+“the Minister” means the Minister for Finance;
+
+“office holder” means—
+
+(*a*) a person who is a Minister of the Government or a Minister of State,
+
+(*b*) a member who holds the office of Attorney General,
+
+(*c*) a person who is Chairman or Deputy Chairman of Dáil Éireann or Chairman or Deputy Chairman of Seanad Éireann, and
+
+(*d*) a person who holds—
+
+(i) the office of chairman of a committee of either House, being an office that stands designated for the time being by resolution of that House, or
+
+(ii) the office of chairman of a joint committee of both Houses, being an office that stands designated for the time being by resolution of each House;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“property” means real or personal property;
+
+“public body” shall be construed in accordance with the *First Schedule*;
+
+“registrable interest” shall be construed in accordance with the *Second Schedule*;
+
+“registration date” means—
+
+(*a*) in relation to Dáil Éireann and its members and Clerk—
+
+(i) the date that is 30 days after the commencement of *Part II* in so far as it relates to Dáil Éireann and its members and Clerk and its committees and their members and clerks or, if on that date Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Dáil Éireann after the first-mentioned date, and
+
+(ii) the date of each anniversary of the first registration date or, if on any such date, Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Dáil Éireann after the first-mentioned date, and
+
+(*b*) in relation to Seanad Éireann and its members and Clerk—
+
+(i) the date that is 30 days after the commencement of *Part II* in so far as it relates to Seanad Éireann and its members and Clerk and its committees and their members and clerks or, if on that date Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Seanad Éireann after the first general election for members of Seanad Éireann after that dissolution, and
+
+(ii) the date of each anniversary of the first registration date or, if on any such date, Dáil Éireann stands dissolved, the date that is 30 days after the date of the first meeting of Seanad Éireann after the first general election for members of Seanad Éireann after that dissolution;
+
+“relative”, in relation to a person, means a brother, sister, parent or spouse of the person or a child of the person or of the spouse;
+
+“relevant authority” has the meaning assigned to it by *section 18*;
+
+“special adviser” has the meaning assigned to it by *section 19*;
+
+“spouse”, in relation to a person, does not include a spouse who is living separately and apart from the person;
+
+“value”, in relation to a gift, means the price which the property the subject of the gift would fetch if it were sold on the open market on the date on which the gift was given in such manner and subject to such conditions as might reasonably be calculated to obtain for the vendor the best price for the property, and any cognate words shall be construed accordingly.
+
+(2) (*a*) Any question whether a person is connected with another shall be determined in accordance with the following provisions of this paragraph (any provision that one person is connected with another person being taken to mean also that that other person is connected with the first-mentioned person):
+
+(i) a person is connected with an individual if that person is a relative of the individual,
+
+(ii) a person, in his or her capacity as a trustee of a trust, is connected with an individual who or any of whose children or as respects whom any body corporate which he or she controls is a beneficiary of the trust,
+
+(iii) a person is connected with any person with whom he or she is in partnership,
+
+(iv) a company is connected with another person if that person has control of it or if that person and persons connected with that person together have control of it,
+
+(v) any two or more persons acting together to secure or exercise control of a company shall be treated in relation to that company as connected with one another and with any person acting on the directions of any of them to secure or exercise control of the company.
+
+(*b*) In *paragraph (a)* “control” has the meaning assigned to it by section 157 of the Corporation Tax Act, 1976, and any cognate words shall be construed accordingly.
+
+F2["Act of 1997" means the Electoral Act, 1997;
+
+*"*Act of 2001*"* means the Standards in Public Office Act, 2001;
+
+"specified act" means an act or omission referred to in section 4(1)(a) of the Act of 2001 and references to the doing of a specified act include references to the making of such an omission and cognate words shall be construed accordingly, but references, in relation to a member, to a specified act shall be construed as if the references in the said section 4(1)(*a*) to the performance by the specified person of the functions of the office or position by reference to which he or she is such a person were references to the performance by the member of the functions of the office of member.]
+
+(3) For the purposes of this Act, a person or a connected person has a material interest in a matter if the consequence or effect—
+
+(*a*) of the performance by the person of a function of his or her office, directorship, designated position, or position as a special adviser, as the case may be, or
+
+(*b*) of any decision made in relation to or in the course or as a result of the performance of such a function by the person,
+
+concerning that matter may be to confer on or withhold from the person or the connected person a significant benefit F3[or impose on the person a significant loss, liability, penalty, forfeiture, punishment or other disadvantage without also conferring it on, withholding it from or imposing it on] persons in general or a class of persons which is of significant size having regard to all the circumstances and of which the person or the connected person is a member.
+
+(4) For the purposes of this Act, a person shall be deemed to have an interest in property if the person would be regarded as having, for the purposes of the F4[Capital Acquisitions Tax Consolidation Act 2003], the power to make a disposition of that interest.
+
+(5) In this Act—
+
+(*a*) a reference to a Part, section or Schedule is a reference to a Part or section of, or a Schedule to, this Act unless it is indicated that reference to some other provision is intended, and
+
+(*b*) a reference to a subsection, paragraph, subparagraph, clause or subclause is a reference to a subsection, paragraph, subparagraph, clause or subclause of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001.
+>
+> F2: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001.
+>
+> F3: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001.
+>
+> F4: Substituted (21.02.2003) by *Capital Acquisitions Tax Consolidation Act 2003* (1/2003), s. 119 and sch. 3, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and references to “Minister for Public Expenditure, National Development Plan Delivery and Reform” and “Public Expenditure, National Development Plan Delivery and Reform” construed (1.03.2023) by *Standards in Public Office (Transfer of Departmental Administration and Ministerial Functions) Order 2023* (S.I. No. 89 of 2023), arts. 2-4 and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note earlier change of name from Public Expenditure and Reform to Public Expenditure, National Development Plan Delivery and Reform (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2).
+>
+> Note change of name of Minister to Public Expenditure, Infrastructure, Public Service Reform and Digitalisation (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025, in operation as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Finance.
+>
+> (2) References to the Department of Public Expenditure, National Development Plan Delivery and Reform contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Finance.
+>
+> 3\. (1) The functions vested in the Minister for Public Expenditure, National Development Plan Delivery and Reform by or under the provisions of an Act specified in column (1) of the Schedule are transferred to the Minister for Finance to the extent specified in column (2) of the Schedule opposite the mention of the Act so specified.
+>
+> (2) References to the Minister for Public Expenditure, National Development Plan Delivery and Reform contained in any Act or instrument made under an Act and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Finance.
+>
+> ...
+>
+> Schedule
+>
+> <table><tr><td>Short Title of Act and Number</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>...</td><td>...</td></tr><tr><td>Ethics in Public Office Act 1995 (No. 22 of 1995)</td><td>The whole Act, other than the following provisions:<br>(a) section 3 (in so far as it relates to the performance of any function that is not transferred by this Order);<br>(b) section 4 (in so far as it relates to the sanctioning by the Minister for Public Expenditure, National Development Plan Delivery and Reform of certain expenses incurred in the administration of that Act);<br>(c) subsection (2D), paragraph (c) of subsection (2H) and subsections (12) and (13) of section 21.</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> C9: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 22 of 1995</td><td>Ethics in Public Office Act 1995</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C10: “Connected person” and “connected relative” construed (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(1), S.I. No. 648 of 2010.
+>
+> **Ethics and conflict of interests.**
+>
+> **97.**— (1) For the purposes of determining matters concerning ethics and conflicts of interests under any rule of law or enactment—
+>
+> (*a*) with respect to a person, a reference to a “connected person” or a “connected relative” of that person shall be construed as including the person’s civil partner and the child of the person’s civil partner who is ordinarily resident with the person and the civil partner, and
+>
+> (*b*) a declaration that must be made in relation to a spouse of a person shall also be made in relation to a civil partner of a person.
+>
+> ...
+
+### 3. Regulations.
+
+**3.**—(1) Subject to *subsection (3)*, the Minister may—
+
+(*a*) by regulations provide for any matter referred to in this Act as prescribed or to be prescribed, and
+
+(*b*) make regulations generally for the purpose of giving effect to this Act and, if in any respect any difficulty arises during the period of two years after the commencement of this section in bringing into operation this Act, by regulations do anything which appears to be necessary or expedient for bringing this Act into operation.
+
+(2) Regulations under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) The Minister may prescribe—
+
+(*a*) for the purposes of the definition of “designated directorship” in *section 2*, a directorship of a public body, or
+
+(*b*) for the purposes of the definition of “designated position” in *section 2*, a position of employment in a public body,
+
+if, but only if, he or she considers that it is necessary in the public interest to do so in order to ensure, in a case in which, in the opinion of the Minister, a conflict could arise between an interest referred to in *section 17* or, as the case may be, *section 18* and the public interest in the performance of a function of such a directorship or position, that the function will not be performed without the disclosure of the first-mentioned interest.
+
+(4) Before making regulations in relation to a matter referred to in *subsection (3)*, the Minister shall consult with such other Ministers of the Government (if any) as he or she considers appropriate.
+
+(5) (*a*) The Minister may, by regulations under this section, vary, having regard to any change in the value of money occurring after the passing of this Act, any monetary amount specified in this Act (other than *sections 37* and *38*).
+
+(*b*) If, on any amendment of the law relating to elections, it appears to the Minister to be expedient—
+
+(i) to amend *section 2 (1)* for the purpose of assimilating “commercial price” to any definition of “commercial price” in that law, or
+
+(ii) to amend *section 15 (7)* for the purpose of assimilating the definition of “donation” to any definition of “donation” in that law,
+
+the Minister may for those purposes by regulations amend the definition mentioned first in *subparagraph (i)* or, as may be appropriate, the definition mentioned first in *subparagraph (ii)*.
+
+(*c*) Where regulations under this subsection are proposed to be made, a draft of the regulations shall be laid before each House and the regulations shall not be made until a resolution approving of the draft has been passed by each House.
+
+(6) Every regulation under this Act (other than *subsection (5)*) shall be laid before each House as soon as may be after it is made and, if a resolution annulling the regulation is passed by either House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2026) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2025* (S.I. No. 674 of 2025), in operation as per reg. 2.
+>
+> E5: Power pursuant to section exercised (1.01.2026) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2025* (S.I. No. 667 of 2025), in operation as per reg. 2.
+>
+> E6: Power pursuant to section and sch. 1 para. 1(13) exercised (21.11.2018) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2018* (S.I. No. 484 of 2018).
+>
+> E7: Power pursuant to section exercised (21.11.2018) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2018* (S.I. No. 483 of 2018).
+>
+> E8: Power pursuant to section and sch. 1 para. 1(13) exercised (29.01.2015) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2015* (S.I. No. 36 of 2015).
+>
+> E9: Power pursuant to section exercised (29.01.2015) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2015* (S.I. No. 35 of 2015).
+>
+> E10: Power pursuant to section and sch. 1 para. 1(13) exercised (11.07.2013) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2013* (S.I. No. 271 of 2012).
+>
+> E11: Power pursuant to section exercised (11.07.2013) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2013* (S.I. No. 265 of 2012).
+>
+> E12: Power pursuant to section exercised (1.01.2013) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2012* (S.I. No. 575 of 2012).
+>
+> E13: Power pursuant to section exercised (1.01.2011) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2010* (S.I. No. 596 of 2010).
+>
+> E14: Power pursuant to section and sch. 1 para. 1(13) exercised (25.04.2008 and 14.06.2007) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 145 of 2008).
+>
+> E15: Power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2007) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of and Positions in Public Bodies) (Amendment) Regulations 2006* (S.I. No. 678 of 2006).
+>
+> E16: Power pursuant to section exercised (1.01.2007) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2006* (S.I. No. 677 of 2006).
+>
+> E17: Power pursuant to section exercised (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004).
+>
+> E18: Power pursuant to section exercised (1.01.2005) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 699 of 2004).
+>
+> E19: Previous affecting provision: power pursuant to subs. (3) exercised (1.01.2013) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2012* (S.I. No. 582 of 2012); superseded (11.07.2013) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2013* (S.I. No. 271 of 2013).
+>
+> E20: Previous affecting provision: power pursuant to subs. (3) exercised (19.07.2012) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2012* (S.I. No. 256 of 2012); superseded (1.01.2013) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2012* (S.I. No. 582 of 2012).
+>
+> E21: Previous affecting provision: power pursuant to section exercised (1.01.2012) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2011* (S.I. No. 707 of 2011); superseded (1.01.2013) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2012* (S.I. No. 582 of 2012).
+>
+> E22: Previous affecting provision: power pursuant to section exercised (1.01.2012) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2011* (S.I. No. 644 of 2011); superseded (1.01.2013) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2012* (S.I. No. 575 of 2012).
+>
+> E23: Previous affecting provision: power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2011) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 3) Regulations 2010* (S.I. No. 645 of 2010); superseded (1.01.2012) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2011* (S.I. No. 707 of 2011).
+>
+> E24: Previous affecting provision: power pursuant to section exercised (10.03.2010) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies)(Amendment)(No.2) Regulations 2010* (S.I. No. 126 of 2010); superseded (1.01.2011) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 3) Regulations 2010* (S.I. No. 645 of 2010).
+>
+> E25: Previous affecting provision: power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2010) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies)(Amendment) Regulations 2010* (S.I. No. 15 of 2010); superseded (1.01.2011) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 3) Regulations 2010* (S.I. No. 645 of 2010).
+>
+> E26: Previous affecting provision: power pursuant to section exercised (1.01.2010) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2010* (S.I. No. 5 of 2010); superseded (1.01.2011) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2010* (S.I. No. 596 of 2010).
+>
+> E27: Previous affecting provision: power pursuant to section exercised (24.07.2009) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2009* (S.I. No. 321 of 2009); superseded (1.01.2010) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2010* (S.I. No. 5 of 2010).
+>
+> E28: Previous affecting provision: power pursuant to section exercised (24.07.2009) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions In Public Bodies)(Amendment) Regulations 2009* (S.I. No. 320 of 2009); superseded (1.01.2010) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies)(Amendment) Regulations 2010* (S.I. No. 15 of 2010).
+>
+> E29: Previous affecting provision: power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2009) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 607 of 2008); superseded (1.01.2011) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) (No. 3) Regulations 2010* (S.I. No. 645 of 2010).
+>
+> E30: Previous affecting provision: power pursuant to section exercised (1.01.2009) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2008* (S.I. No. 606 of 2008); superseded (1.01.2010) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2010* (S.I. No. 5 of 2010).
+>
+> E31: Previous affecting provision: power pursuant to section and sch. 1 para. 1(13) exercised (25.04.2008) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of and Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 146 of 2008); superseded (1.01.2009) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 607 of 2008).
+>
+> E32: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2005* (S.I. No. 673 of 2005); revoked (1.01.2007) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2006* (S.I. No. 677 of 2006), reg. 3.
+>
+> E33: Previous affecting provision: power pursuant to section and sch. 1 para. 1(13) exercised (1.01.2006) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of and Positions in Public Bodies) Regulations 2005* (S.I. No. 672 of 2005); superseded (1.01.2007) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of and Positions in Public Bodies) (Amendment) Regulations 2006* (S.I. No. 678 of 2006) and (25.04.2008 and 14.06.2007) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 145 of 2008).
+>
+> E34: Previous affecting provision: power pursuant to section exercised (21.07.1997) by *Regulations Entitled Ethics in Public Office Act 1995 (Section 3(1)(B)) Regulations 1997* (S.I. No. 320 of 1997); revoked (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28(3)(c), S.I. No. 576 of 2001.
+>
+> E35: Previous affecting provision: power pursuant to section exercised (29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I. No. 57 of 1996); revoked (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 7.
+>
+> E36: Previous affecting provisions: positions and directorships specified for purposes of definitions by (15.01.1997) *Ethics in Public Office (Prescribed Public Body, Designated Directorships and Designated Positions in Public Bodies) Regulations, 1997* (S.I. No. 32 of 1997), amended (15.01.1997) by *Ethics in Public Office (Prescribed Public Body, Designated Directorships and Designated Positions in Public Bodies)(Amendment) Regulations 1997* (S.I. No. 310 of 1997); revoked (1.01.2005) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 699 of 2004), reg. 9. S.I. No. 310 of 1997 lapsed as its sole function was to amend S.I. No. 32 of 1997.
+>
+> E37: Previous affecting provisions: positions prescribed for the purposes of the definition of “designated position”(29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I. No. 57 of 1996); revoked (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 7; and *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2005* (S.I. No. 673 of 2005); revoked (1.01.2007) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2006* (S.I. No. 677 of 2006), reg. 3.
+>
+> E39: S.I. No. 698 of 2004, para. 6 has been amended a number of times, including by S.I. No. 145 of 2008. In seeking to amend para. 6 of the 2004 Regulations, S.I. No. 677 of 2006 referred to para. 6 of the 2005 Regulations. This was rectified by the substitution of para. 6 of the 2004 Regulations by S.I. No. 145 of 2008, para. 2(b), as per E-note above.
+
+### 4. Expenses.
+
+**4.**—Any expenses incurred by the Minister in the administration of this Act and, to such extent as may be sanctioned by the Minister, any other expenses incurred in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+## PART IIMembers — PART II — Members
+
+### 5. Statements of members' registrable interests for Clerks.
+
+**5.**—(1) Subject to *subsection (3)*, a person who is a member on a registration date shall, F5[not later than the following 31 January, prepare and furnish to the Commission] a statement in writing, in such form as may be determined by the Clerk after consultation with the Committee and the Commission or in a form to the like effect, of his or her registrable interests and containing appropriate information in relation to such matters (if any) respecting those interests as may be specified in the first-mentioned form, being registrable interests of the member—
+
+(*a*) if the person is a member on the first registration date, at any time during the period from the passing of this Act to that date, and
+
+(*b*) if the person is a member on a subsequent registration date, at any time when he or she was a member during the period between that registration date and the last previous registration date.
+
+(2) Where a person who is a member on a registration date did not have a registrable interest at any time during the appropriate period specified in *subsection (1)*, he or she shall, F6[not later than the following 31 January], prepare and furnish to the F7[Commission] a statement in writing of that fact.
+
+(3) It shall not be necessary to specify in a statement under this section the amount or monetary value of any interest or the remuneration of any trade, profession, employment, vocation or other occupation included in the statement.
+
+F8[(3A) (*a*) Where either House is dissolved during the period of 30 days from a registration date, a person who was a member on that date may request the first Committee appointed after the general election for members of that House following that dissolution to give him or her advice under *section 12* in relation to this section and, if a member does so—
+
+(i) he or she shall furnish to the Clerk, with his or her statement under *subsection (1)* or *(2)* in relation to that registration date, a statement in writing to the effect that he or she has made the request aforesaid,
+
+(ii) the member may, not later than 21 days after the receipt of the advice from the Committee, prepare and furnish to the Clerk a statement in writing of any alterations to his or her statement under *subsection (1)* or *(2)* falling to be made by virtue of the advice, and
+
+(iii) *section 6(4)* shall apply to a statement under this subsection as it applies to a statement furnished to the Clerk under *paragraph (a), (b)* or *(c)* of *section 29(1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F6: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F7: Substituted (12.12.2001) by *Standards in Public Office Act 2001 (Section 15 and 27) Regulations 2001* (S.I. No. 562 of 2001), reg. 3.
+>
+> F8: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001. Note that there is no para. (b) in subs. (3A).
+>
+> **Editorial Notes:**
+>
+> E40: Arrangements for issuing of forms under subs. (1) prescribed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 20, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 6. The Register.
+
+**6.**—(1) As soon as may be after a registration date, each Clerk shall, as respects that date, establish a register (which shall be known as the Register of Interests of Members of Dáil Éireann or the Register of Interests of Members of Seanad Éireann, as may be appropriate, followed, in each case, by a reference to the year in which the registration date concerned occurs).
+
+(2) When a statement is furnished to a Clerk under *subsection (1)* or *(2)* of *section 5*—
+
+(*a*) he or she shall, within 60 days after the registration date to which it relates or as soon as may be thereafter, enter it or a copy of it in the register established as respects that date by that Clerk under *subsection (1)*, and
+
+(*b*) if the statement is that of a Minister of the Government or a Minister of State, furnish a copy of it to the Taoiseach, as soon as may be.
+
+(3) Each Clerk shall, within 60 days after each registration date or as soon as may be thereafter, furnish to the Commission and cause to be laid before Dáil Éireann or Seanad Éireann, as may be appropriate, and published in *Iris Oifigiúil* a copy of the register established by him or her under *subsection (1)* in relation to that registration date.
+
+(4) (*a*) Each Clerk may correct errors in the register established by that Clerk or amend such a register to take account of statements furnished to him or her under F9[paragraphs (*a*), (*b*) and (*c*) of]*section 29 (1)* in so far as they relate to registrable interests.
+
+(*b*) A Clerk shall, as soon as may be after the correction of an error under *paragraph (a)* or the receipt by him or her of a statement referred to in *paragraph (a)*—
+
+(i) cause a statement of the correction or a copy of the statement referred to in *paragraph (a)*, as the case may be, to be laid before the House and published in *Iris Oifigiúil*, and
+
+(ii) F10[in the case of the statement of the correction, if it] relates to a Minister or Minister of State, furnish a copy of it to the Taoiseach.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F10: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 7. Declarations of interest by members in Oireachtas proceedings.
+
+**7.**—(1) This section applies to proceedings in each House, a committee of either House or a joint committee of both Houses.
+
+(2) A member who proposes to speak or vote in proceedings to which this section applies and who has actual knowledge that he or she or a connected person has a material interest in the subject matter of the proceedings shall—
+
+(*a*) if he or she proposes to speak in the proceedings, make a declaration of the fact aforesaid in the proceedings before or during his or her speech, and
+
+(*b*) if he or she proposes to vote, but does not speak, in the proceedings, make the declaration aforesaid in writing and furnish it before voting to the Clerk, or the clerk to the committee, concerned, as may be appropriate.
+
+F11[(2A) A member referred to in *subsection (2)* who requests the Committee to give him or her advice under *section 12(1)(b)* in relation to this section and who does not receive the advice before the speech or vote concerned shall—
+
+(*a*) if it is a case to which *paragraph (a)* of *subsection (2)* applies, make a declaration of the fact of the request in the proceedings concerned before or during that speech and, upon receipt of the advice, as soon as may be, make a declaration in writing of the advice and furnish it to the clerk, or the clerk to the committee, concerned, as may be appropriate, and
+
+(*b*) if it is a case to which *paragraph (b)* of *subsection (2)* applies, make the first-mentioned declaration aforesaid in writing and furnish it before voting to the Clerk, or the clerk to the committee, concerned, as may be appropriate and, upon receipt of the advice, as soon as may be, make a declaration in writing of the advice and furnish it to the Clerk, or the clerk to the committee concerned, as may be appropriate,
+
+and *subsection (5)* shall apply to a declaration under this subsection as it applies to a declaration under *subsection (2)* with the modification that *paragraph (b)* shall be construed as providing for the laying of a copy of a declaration under this subsection before the House in lieu of publishing it in accordance with that paragraph.]
+
+(3) For the purposes of *subsection (2)*, a person (being a member or a connected person) has a material interest in the subject matter of proceedings if the consequence or effect of any decision by the House or the committee or joint committee concerned, or by the Government or an office holder, concerning that matter may be to confer on or withhold from the person a significant benefit F12[or impose on the person a significant loss, liability, penalty, forfeiture, punishment or other disadvantage without also conferring it on, withholding it from or imposing it on] persons in general or a class of persons which is of significant size having regard to all the circumstances and of which the person is a member.
+
+(4) *Subsection (2)* does not apply to an interest of a member that is included in a statement which or a copy of which has been laid before the House under *section 6*.
+
+(5) A declaration under *subsection (2)* shall—
+
+(*a*) in case an official report of the proceedings concerned is published, be included in the report, and
+
+(*b*) in case such a report is not published, be published in such manner as the Clerk, or the clerk to the committee, concerned may direct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F12: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 8. Appointment of, and complaints to, Committees.
+
+**8.**—(1) Each House shall as soon as may be after the commencement of this section and, thereafter, as soon as may be after the first meeting of that House subsequent to a general election for members of that House appoint a select committee which shall be known—
+
+(*a*) in the case of the committee appointed by Dáil Éireann as the Committee on Members' Interests of Dáil Éireann, and
+
+(*b*) in the case of the committee appointed by Seanad Éireann, as the Committee on Members' Interests of Seanad Éireann,
+
+to perform the functions conferred on it by this Act.
+
+F13[(1A) Notwithstanding *subsection (1)*, a House may by resolution change the name of the committee appointed by it under this section to another name, and whenever the name of such a committee is so changed, references in this Act to the first-mentioned name shall be construed as references to that other name.]
+
+(2) A person (other than a member) who considers that a member (other than a member who is or, at the relevant time, was an office holder) may have contravened *section 5* or *7* F14[or done a specified act] may make a complaint in writing in relation to the matter to the Clerk and, subject to *subsection (3)*, the Clerk shall refer the matter to the Committee and shall furnish a copy of the complaint to the Committee.
+
+(3) The Clerk concerned shall consider a complaint under *subsection (2)* and, if the Clerk is of opinion that it is frivolous or vexatious F15[or that there is not sufficient evidence to establish a *prima facie* case in relation to the complaint], he or she—
+
+(*a*) shall not refer it to the Committee, and
+
+(*b*) shall prepare a statement in writing of the reasons for his or her opinion and furnish a copy of it to—
+
+(i) the person who made the complaint,
+
+(ii) the member concerned, and
+
+(iii) the Committee.
+
+(4) A member who considers that a member (other than a member who is or, at the relevant time, was an office holder) may have contravened *section 5* or *7* F16[or done a specified act] may make a complaint in writing in relation to the matter to the Committee F17[...].
+
+(5) A complaint may not be made under this section in respect of a person who has ceased to be a member.
+
+F18[(6) The functions of the Clerk of Dáil Éireann under this section may be performed by the Clerk-Assistant of Dáil Éireann during any period when—
+
+(*a*) the Clerk of Dáil Éireann is, by reason of illness or otherwise, unable to perform those functions, or
+
+(*b*) the office of Clerk of Dáil Éireann is vacant.
+
+(7) The functions of the Clerk of Seanad Éireann under this section may be performed by the Clerk-Assistant of Seanad Éireann during any period when—
+
+(*a*) the Clerk of Seanad Éireann is, by reason of illness or otherwise, unable to perform those functions, or
+
+(*b*) the office of Clerk of Seanad Éireann is vacant.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F14: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F15: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F16: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F17: Deleted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F18: Inserted (1.01.2016) by *Houses of the Oireachtas Commission (Amendment) Act 2015* (53/2015), s. 8, commenced as per s. 10(3).
+
+### 9. Investigations by Committees.
+
+**9.**—(1) Where a complaint is referred or made to a Committee under *section 8* F19[or section 4 of the Act of 2001], or a Committee considers it appropriate to do so in the case of a member (other than a member who is or, at the relevant time, was an office holder), it shall carry out an investigation to determine whether the member concerned has contravened *section 5* or *7* F19[ or done a specified act], as the case may be.
+
+F20[(2) Where a Committee, either during or at the conclusion of an investigation under this section in relation to *section 5* or *7*, becomes of opinion that the member the subject of the investigation has not contravened that section but may have contravened the other section or done a specified act, it may carry out an investigation under this section to determine whether the person has contravened that other section or done the specified act.]
+
+F21[(2A) Where a Committee, either during or at the conclusion of an investigation under this section in relation to a specified act, becomes of opinion that the member the subject of the investigation has not done that specified act but may have done another such act or contravened *section 5* or *7*, it may carry out an investigation under this section to determine whether the person has done that other specified act or contravened *section 5* or *7*.
+
+(2B) If a Committee becomes of opinion that evidence sufficient to sustain a complaint referred or made to it under *section 8* is not and will not be available, it may decide not to carry out, or to discontinue an investigation under this section.]
+
+(3) Where—
+
+(*a*) a complaint is referred or made to a Committee under F22[section 4 of the Act of 2001 or section 8], or the Committee is carrying out an investigation under this section whether following such a complaint or otherwise, and
+
+(*b*) at any time before the Committee has complied with *section 10* in relation thereto, the person the subject of the complaint or investigation ceases to be a member,
+
+then—
+
+(i) the Committee shall take no steps or no further steps in relation to the matter unless the person requests the Committee in writing to carry out an investigation of the matter under *subsection (1)* or, as the case may be, complete such an investigation, and
+
+(ii) if the Committee is so requested as aforesaid, it shall, subject to *section 31*, comply with the request.
+
+(4) Subject to *subsection (3)*, a Committee shall not carry out an investigation under this section in relation to—
+
+(*a*) a person who has ceased to be a member, or
+
+(*b*) a person who is or, at the relevant time, was an office holder.
+
+(5) Where—
+
+(*a*) in relation to a person who is a member but is not an office holder, a complaint had been, or been deemed to be, referred or made to a Committee, or a matter that a Committee had considered it appropriate to investigate had been, or been deemed to be, otherwise before it,
+
+(*b*) following a dissolution of Dáil Éireann, the Committee has ceased to exist, and
+
+(*c*) the Committee had neither—
+
+(i) complied with *section 10* in relation to the complaint or matter, nor
+
+(ii) discontinued the investigation of the complaint pursuant to *section 31*,
+
+the complaint or matter shall be deemed, for the purposes of this section, to have been referred or made under *section 8* to, or, as the case may be, to be before, the Committee of the House of which the person is a member, and this section shall apply and have effect accordingly in relation to the complaint or matter.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F20: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F21: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F22: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Modifications (not altering text):**
+>
+> C11: Application of section restricted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 8, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Identity of persons making complaints.**
+>
+> **8.**—The Commission or a Committee shall not investigate a complaint made or referred to it unless the identity of the person making the complaint is disclosed to it. Where, having regard to all the circumstances, the Commission or a Committee considers it appropriate to do so, it may restrict the disclosure of such identity to those to whom knowledge of it is necessary or expedient for the purposes or by reason of the investigation of the compliant by the Commission or the Committee, as the case may be, or otherwise in the interests of justice.
+
+### 10. Reports by Committees.
+
+**10.**—(1) Subject to *section 31*, where a Committee carries out an investigation under *section 9*, it shall prepare a report in writing of the results of the investigation, and—
+
+(*a*) shall furnish a copy of the report to the member concerned and, if the investigation followed a complaint under *section 8*, the person who made the complaint, and
+
+(*b*) if it determines that the member has contravened *section 5* or *7* F23[or done a specified act], it shall cause a copy of the report to be laid before the House.
+
+F24[(1A) If, either during or at the conclusion of an investigation under *section 9*, a Committee is of opinion that the person the subject of the investigation may have committed an offence—
+
+(*a*) it shall prepare a report in writing in relation to the matter and furnish it together with any relevant document or other thing in its possession to the Director of Public Prosecutions who shall notify the Committee whether, following the receipt of the report, he or she has initiated, or caused to be initiated, proceedings for an offence in respect of any matter mentioned therein or has decided not to initiate, or cause to be initiated, any such proceedings and of the final outcome of any such proceedings (including any appeal, whether by way of case stated or otherwise, rehearing or retrial), and
+
+(*b*) it shall add to its report under *subsection (1)* a copy of its report under *paragraph (a)* and a statement of the notification or notifications aforesaid.]
+
+(2) A report under *subsection (1)* shall set out the findings of the Committee concerned together with its determination in relation to the following matters, namely—
+
+(*a*) whether there has been a contravention of *section 5* or *7* by the member concerned and whether the contravention is continuing F25[or, as the case may be, whether a specified act has been done and whether the act is continuing],
+
+(*b*) in case the determination is that there has not been a contravention of *section 5* or *7* F26[and that a specified act has not been done] by the member, whether the Committee is of opinion that the complaint was frivolous or vexatious or that there were no reasonable grounds for it, and
+
+F27[(*c*) in case the determination is that there has been a contravention of *section 5* or *7*, or that a specified act has been done, by the member—
+
+(i) if the determination is that the contravention or act is continuing, the steps required to be taken by him or her to secure compliance by him or her with *section 5* or *7* or the cesser of the act,
+
+(ii) whether the contravention or act was committed or done inadvertently, negligently, recklessly or intentionally,
+
+(iii) whether the contravention was, in all the circumstances, a serious or minor contravention, and
+
+(iv) whether the member acted in good faith and in the belief that his or her action was in accordance with guidelines published or advice given in writing by a Committee under *section 12*,
+
+and may refer to such matters, if any, as the Committee considers appropriate.]
+
+(3) Where a Committee adjourns or postpones proceedings in relation to an investigation under *section 9*, it may, if it considers it appropriate to do so, prepare an interim report in writing in relation to the investigation and furnish a copy thereof to the persons specified in *subsection (1) (a)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F24: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F25: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F26: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F27: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 11. Award of costs by Committees.
+
+**11.**—(1) (*a*) Where, following an investigation by a Committee under *section 9* of a complaint referred or made to it under *section 8*, the Committee determines that the complaint was frivolous or vexatious or that there has not been a contravention of *section 5* or *7* F28[and that a specified act was not done] and that there were no reasonable grounds for the complaint, it may order that such amount (not exceeding £1,500) as it considers appropriate, having regard to all the circumstances, in respect of the reasonable costs and expenses incurred by any person before it (including costs and expenses in respect of legal representation) in relation to the investigation shall be paid to that person by the person who made the complaint.
+
+(*b*) Where, in relation to an investigation under *section 9*, amounts are ordered to be paid under *paragraph (a)* to more than one person, the aggregate of those amounts shall not exceed £1,500.
+
+(2) For the purposes of *subsection (1)*, a Committee may measure the costs and expenses aforesaid.
+
+(3) Any costs or expenses ordered by a Committee under *subsection (1)* to be paid by a person may be recovered from that person by the person to whom they are ordered to be paid as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Editorial Notes:**
+>
+> E41: £1,500 converted (1.01.1999) to €1,904.61.
+>
+> E42: The *Standards in Public Office Act 2001* (31/2001), s. 9 also deals with the issue of costs.
+
+### 12. Guidelines and advice from Committees.
+
+**12.**—(1) A Committee—
+
+(*a*) shall, after consultation with the Commission and the other Committee, from time to time draw up and publish to members guidelines concerning the steps to be taken by members to ensure compliance by them with F29[*section 4(1)(a)* of the *Act of 2001* and with] this Act generally and, in particular, with *sections 5* and *7*, and
+
+(*b*) may, at the request of a member, give advice to the member in relation to any provision of this Act or as to the application, in relation to any particular case, of F30[the said *section 4(1)(a)* or] *section 5* or *7*.
+
+F31[(1A) Guidelines drawn up and published under *subsection (1)* by a Committee of either House—
+
+(*a*) subject to *paragraph (b)*, shall remain in force until revoked, by guidelines drawn up and published under that subsection by that Committee or by a Committee appointed by the members of that House under section 8 after a subsequent general election for members of that House replacing the first-mentioned guidelines or amending other guidelines under that section, and
+
+(*b*) may be amended by guidelines under that subsection drawn up and published by a Committee specified in *paragraph (a)*.
+
+(1B) A document purporting to be guidelines under *subsection (1)* shall be taken, unless the contrary is shown, to be such guidelines and shall be admissible in any proceedings before a court or other tribunal or a Committee or the Commission, and any provision of any such guidelines that appears to the tribunal, the Committee or the Commission to be relevant to a question in the proceedings may be taken into account by it in determining the question.]
+
+(2) When a request is made under *subsection (1) (b)* in relation to a particular case, the section concerned of this Act shall not, as respects the member who made the request, apply in relation to that case during the period from the making of the request to the time when advice is given by a Committee in relation to the case or it declines to give such advice.
+
+(3) A Committee shall, within 21 days of the receipt by it of a request for advice under *subsection (1) (b)*, furnish the advice to the member concerned or notify him or her of its decision to decline to do so.
+
+(4) A person shall act in accordance with guidelines and advice published or given to the person under this section unless, by so doing, the act concerned would constitute a contravention of another provision of this Act.
+
+(5) In this section “member” does not include a member who is an office holder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F30: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F31: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+## PART IIIOffice Holders — PART III — Office Holders
+
+### 13. Statements of office holders' additional interests for Clerks.
+
+**13.**—(1) A person who is an office holder on a registration date F32[or ceases to be an office holder before a registration date] shall prepare a statement in writing, in such form as may be determined by the Minister or in a form to the like effect, of his or her additional interests (if any) and containing appropriate information in relation to such matters (if any) respecting those interests as may be specified in the first-mentioned form, being additional interests of the person—
+
+(*a*) if the person is an office holder on the first registration date, at any time during the period from the passing of this Act to that date, and
+
+F33[(*b*) if the person is an office holder on a subsequent registration date or ceased to be an office holder before such a date but after the last previous registration date, at any time when he was an office holder during the period between the first-mentioned date and the last previous registration date or, as the case may be, between the first-mentioned date and the date of the cesser.]
+
+(2) It shall not be necessary to specify in a statement under *subsection (1)* the amount or monetary value of any additional interest or the remuneration of any trade, profession, employment, vocation or other occupation included in the statement.
+
+(3) The Clerk shall, as soon as may be after the receipt by him or her of a statement under *subsection (1)*, furnish a copy thereof to the Commission and (if it is a statement of a Minister of the Government or a Minister of State) the Taoiseach.
+
+(4) A statement under this section of a person who is an office holder on any registration date shall be furnished by the person to the Clerk F34[not later than the following 31 January].
+
+(5) In this section “additional interest”, in relation to an office holder, means any interest specified in the *Second Schedule* of which the office holder has actual knowledge of—
+
+(*a*) the spouse F35[or civil partner] of the office holder, or
+
+(*b*) a child of the office holder or of his or her spouse F35[or civil partner],
+
+which could materially influence the office holder in or in relation to the performance of the functions of his or her office by reason of the fact that such performance could so affect those interests as to confer on or withhold from the office holder or the spouse F35[or civil partner] or child a substantial benefit.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F33: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F34: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F35: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 12, S.I. No. 648 of 2010.
+
+### 14. Statements of interest by office holders in relation to the performance of certain functions.
+
+**14.**—(1) An office holder who proposes to perform a function of his or her office and who has actual knowledge that—
+
+(*a*) he or she or a connected person or another office holder, or
+
+(*b*) a person who is specified in a statement under *subsection (2)* furnished to the office holder by another office holder and who is, in relation to that other office holder, a connected person,
+
+has a material interest in a matter to which the function relates shall, before or, if that is not reasonably practicable, as soon as may be after such performance, prepare and furnish—
+
+(i) in the case of the Taoiseach, to the chairman of the Commission,
+
+(ii) in the case of any other Minister of the Government or a Minister of State, to the Taoiseach and the Commission, and
+
+(iii) in the case of any other office holder, to the Commission,
+
+a statement in writing of those facts and of the nature of the interest.
+
+(2) Where an office holder or a person acting on behalf of an office holder proposes to make a request to another office holder (“the second holder”) in relation to the performance of a function by the second holder and the office holder by or on whose behalf the request is made (“the first holder”) has actual knowledge that he or she or a connected person has a material interest in a matter to which the function relates, the first holder shall, before or at the time of the making of the request, furnish to the second holder a statement in writing of those facts and of the nature of the interest.
+
+(3) Where the knowledge or belief of an office holder that—
+
+(*a*) another office holder who is a member of the Government, or
+
+(*b*) a person who in relation to that other F36[office holder] is a connected person,
+
+has a material interest in a matter to which a function of the Government relates derives solely from information in a statement made by that other office holder at or for the purposes of a meeting of the Government, *subsection (1)* shall not, as respects that interest, apply to the first-mentioned office holder, but the Taoiseach shall, before or as soon as may be after the performance of the function, cause a statement in writing in relation to that interest to be prepared and furnished to the Commission.
+
+(4) References in this section to the performance of a function of the office of an office holder are references to the performance of the function by the office holder personally or by another person in pursuance of a direction given to the person, in relation to the particular matter concerned, by the office holder personally or a person acting on behalf of and with the personal knowledge of the office holder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: term “officer” construed (29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I. No. 57 of 1996), reg. 5(a); revoked (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 7.
+
+### 15. Gifts to office holders.
+
+**15.**—(1) Subject to the provisions of this section, where a gift the value of which exceeds F37[€650] is given to an office holder by virtue of his or her office—
+
+(*a*) the property the subject of the gift shall be deemed to be a gift given to the State and shall vest in the Minister,
+
+(*b*) the office holder shall, as soon as may be, inform the Secretary to the Government of the gift and shall retain custody of the property on behalf of the State until arrangements are made in relation thereto under *paragraph (c)* and the office holder shall dispose of the property in accordance with those arrangements when so directed by the Secretary to the Government, and
+
+(*c*) the Secretary to the Government shall arrange, in accordance with the general directions of the Government, for—
+
+(i) custody of the property by or on behalf of the State (including the giving of it on loan to a person), or
+
+(ii) its disposal, whether by sale or gift,
+
+and shall dispose, in accordance with those general directions, of any proceeds of such a loan or sale (including by their payment into the Exchequer or disposal for charitable purposes).
+
+(2) For the purposes of *subsection (1)*, a gift given to—
+
+(*a*) an office holder,
+
+(*b*) the spouse F38[or civil partner] of an office holder, or
+
+(*c*) a child of an office holder or of his or her spouse,
+
+is given to the office holder by virtue of his or her office unless the gift is given—
+
+(i) as a donation, or
+
+(ii) by a friend or relative F39[or civil partner] of the recipient and for personal reasons only, or
+
+(iii) by virtue of an office (other than that by reference to which a person is an office holder) or position held or the status enjoyed by the recipient.
+
+(3) The Secretary to the Government shall, in accordance with the general directions of the Government—
+
+(*a*) determine, for the purposes of *subsection (1)*, the value of property the subject of a gift given to an office holder by virtue of his or her office, and
+
+(*b*) determine, for the purposes of *subsections (1)* and *(2)*, the question whether a gift is given to an office holder by virtue of his or her office,
+
+if there is a doubt in relation to the value aforesaid or, as the case may be, the question aforesaid.
+
+(4) (*a*) Subject to *paragraphs (b)* and *(c)*, the Government shall draw up and publish to office holders guidelines concerning the steps to be taken by an office holder if—
+
+(i) he or she, or
+
+(ii) the spouse F40[or civil partner] of the office holder, or
+
+(iii) a child of the office holder or of his or her spouse,
+
+is offered or supplied with—
+
+(I) property or a service at a price that is less than the commercial price of the property or service, as the case may be,
+
+(II) a loan of property free of charge or for a consideration that is less than the commercial consideration for the loan, or
+
+(III) a service free of charge.
+
+(*b*) *Paragraph (a)* does not apply to property, a loan of property or a service—
+
+(i) offered or supplied—
+
+(I) as a donation,
+
+(II) by a friend or relative of the person to whom the offer or supply is made and for personal reasons only,
+
+(III) by virtue of an office (other than one by reference to which a person is an office holder) or position held or status enjoyed by the person to whom it is offered or supplied,
+
+or
+
+(ii) the offer or supply of which is not intended or calculated to confer, and does not confer, directly or indirectly, a benefit on the office holder concerned.
+
+(*c*) The Government shall cause a draft of any proposed guidelines under *paragraph (a)* to be given to the Commission and shall, before drawing up the guidelines, consider any submissions made to them by the Commission in relation to the draft.
+
+(*d*) Office holders shall act in accordance with guidelines published to them under this subsection.
+
+(5) Where, for any reason, the Secretary to the Government is unable to perform his or her functions under this section or the position of Secretary to the Government is vacant, those functions may be performed by such other person as the Taoiseach may determine.
+
+(6) Section 19 (2) of the State Property Act, 1954, shall not apply to a gift to which this section applies but where land vests in the Minister by virtue of *subsection (1)*, the land shall become and be State land for the purposes of that Act and may be dealt with accordingly.
+
+(7) In this section, “donation” means a contribution for political purposes.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s.1 (3) and (4) and sch. 3 and 4.
+>
+> F38: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1, item 13, S.I. No. 648 of 2010.
+>
+> F39: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1, item 14, S.I. No. 648 of 2010.
+>
+> F40: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1, item 15, S.I. No. 648 of 2010.
+
+## PART IVThe Public Service — PART IV — The Public Service
+
+### 16. Statements by Attorney General.
+
+**16.**—(1) A person who holds or held the office of Attorney General—
+
+(*a*) shall, subject to *section 20 (3)*, in each year during any part of which he holds or held that office prepare and furnish to the Taoiseach and the Commission a statement in writing of—
+
+(i) the interests of the person, and
+
+(ii) the interests of which he or she has actual knowledge of his or her spouse F41[or civil partner] or a child of the person or of his or her spouse,
+
+during the appropriate period specified in *section 20 (1)* which could materially influence the person in or in relation to the performance of the functions of that office by reason of the fact that such performance could so affect those interests as to confer on or withhold from the person or the F42[spouse or civil partner or child a substantial benefit], and
+
+(*b*) in any case where such a function falls to be performed and he or she has actual knowledge that he or she or a connected person has a material interest in a matter to which the function relates shall, before or as soon as may be after such performance, prepare and furnish to the Taoiseach and the Commission a statement in writing of those facts and of the nature of the interest.
+
+(2) F43[(*a*) *Section 20* shall apply to a statement under *subsection (1)(a)* with the modifications that the references in that section to *section 19(3)(a)(i)* shall be construed as references to *subsection (1)(a)*, the references to the special advisership shall be construed as references to the office of Attorney General and with any other necessary adaptations.]
+
+(*b*) *Subsection (2)* of *section 29* shall apply to the interests specified in *subsection (1) (a)* and to a person who holds the office of Attorney General as if the references in that subsection to *sections 17 (1) (a), 18 (2) (a)* and *19 (3) (a) (i)* included references to *subsection (1) (a)* and with any other necessary adaptations.
+
+(3) References in this section to the performance of a function of the office of Attorney General are references to the performance of the function by the holder of that office personally or by another person in pursuance of a direction given to the person, in relation to the particular matter concerned, by such holder personally or a person acting on behalf of and with the personal knowledge of such holder.
+
+(4) Where a person who holds the office of Attorney General is a member—
+
+(*a*) *paragraph (a)* of *subsection (1)* shall not apply to the person as respects the interests, during the period of the person's membership, of the persons specified in that paragraph, and
+
+(*b*) *paragraph (b)* of that subsection shall not apply to the person during the period of the person's membership.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 16, S.I. No. 648 of 2010.
+>
+> F42: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 16, S.I. No. 648 of 2010.
+>
+> F43: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 17. Designated directorships.
+
+**17.**—(1) A person who holds or held a designated directorship of a public body specified in *subparagraphs (8)* to *(12)*, or standing prescribed under *subparagraph (13)*, of *paragraph 1* of the *First Schedule*—
+
+(*a*) shall, subject to *section 20 (3)*, in each year during any part of which he or she holds or held the directorship, prepare and furnish to the Commission and to such officer of the body as may be determined by the Minister a statement in writing of—
+
+(i) the interests of the person, and
+
+(ii) the interests of which he or she has actual knowledge of his or her spouse F44[or civil partner] or a child of the person or of his or her spouse F44[or civil partner],
+
+during the appropriate period specified in *section 20 (1)* which could materially influence the person in or in relation to the performance of the functions of the directorship by reason of the fact that such performance could so affect those interests as to confer on or withhold from the person or the F45[spouse or civil partner or child a substantial benefit], and
+
+(*b*) in any case where such a function, or a function of any other office or position held by the person in that public body, falls to be performed and he or she has actual knowledge that he or she or a connected person has a material interest in a matter to which the function relates—
+
+(i) shall, as soon as may be, prepare and furnish to the other directors of the body a statement in writing of those facts,
+
+(ii) shall not perform the function unless there are compelling reasons requiring him or her to do so, and
+
+(iii) shall, if he or she proposes to perform the function, prepare and furnish to the other directors of the body and to the Commission, before or, if that is not reasonably practicable, as soon as may be after such performance, a statement in writing of the compelling reasons aforesaid.
+
+(2) There shall be deemed to be included in the terms on which a person holds a designated directorship referred to in *subsection (1)* a term that the person shall comply with that subsection.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 17, S.I. No. 648 of 2010.
+>
+> F45: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 17, S.I. No. 648 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C12: Application of section extended (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 11, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Provisions in relation to statements under sections 17 and 18 of Principal Act.**
+>
+> **11.**—An individual to whom a statement in writing is furnished pursuant to section 17 or 18 of the Principal Act—
+>
+> (*a*) may request the person who so furnished it ("the furnisher") to provide him or her with information in relation to the statement or any matter arising in connection with it,
+>
+> (*b*) if he or she considers that the furnisher may have contravened Part IV, he or she may make a complaint in writing in relation to the matter to the Commission—
+>
+> (i) in case the furnisher is a civil servant (within the meaning of the Civil Service Regulation Act, 1956), under paragraph (*d*) of section 22(4) of the Principal Act as if the individual was the appropriate authority in relation to the civil servant (within the meaning aforesaid) and the said paragraph (*d*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such an authority with any necessary modifications,
+>
+> (ii) in any other case, under paragraph (*c*) of the said section 22(4) as if the individual was the public body concerned and the said paragraph (*c*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such a body with any necessary modifications,
+>
+> and
+>
+> (*c*) if the Commission carries out an investigation under section 23 of the Principal Act into the matter, shall furnish to the public body concerned a copy of the report in writing of the Commission of the result of the investigation a copy of which is furnished to the individual.
+
+### 18. Designated positions of employment.
+
+**18.**—(1) In this section “relevant authority”, in relation to a person who occupies or occupied a designated position in a public body, means such person or persons as may stand determined for the time being by the Minister in relation to the position.
+
+(2) A person who occupies or occupied a designated position in a public body—
+
+(*a*) shall, subject to *section 20 (3)*, in each year during any part of which he or she occupies or occupied the position, prepare and furnish to the relevant authority for the position a statement in writing of—
+
+(i) the interests of the person, and
+
+(ii) the interests of which he or she has actual knowledge of his or her spouse F46[or civil partner] or a child of the person or of his or her spouse,
+
+during the appropriate period specified in *section 20 (1)* which could materially influence the person in or in relation to the performance of the functions of the position by reason of the fact that such performance could so affect those interests as to confer on or withhold from the person or the F47[spouse or civil partner or child a substantial benefit], and
+
+(*b*) in any case where such a function falls to be performed and he or she has actual knowledge that he or she or a connected person has a material interest in a matter to which the function relates—
+
+(i) shall, as soon as may be, prepare and furnish to the relevant authority a statement in writing of those facts,
+
+(ii) shall not perform the function unless there are compelling reasons requiring him or her to do so, and
+
+(iii) shall, if he or she proposes to perform the function, prepare and furnish to the relevant authority, before or, if that is not reasonably practicable, as soon as may be after such performance, a statement in writing of the compelling reasons aforesaid.
+
+(3) (*a*) A person who, during any period, holds or held or occupies or occupied an office or position specified in *paragraph (b)* shall be deemed for the purposes of this Act to be a person who, during that period, occupies or occupied a designated position in a public body.
+
+(*b*) The offices and positions referred to in *paragraph (a)* are—
+
+(i) the office of Comptroller and Auditor General,
+
+(ii) the office of Ombudsman,
+
+(iii) the office of Data Protection Commissioner,
+
+(iv) the office of Director of Consumer Affairs, and
+
+(v) such other (if any) offices or positions (other than the office of judge of any court) established by or under statute as may (if, but only if, the Minister considers it necessary in the public interest to do so) be prescribed.
+
+(*c*) *Subsection (4)* shall not apply to a person who holds or held an office specified in *subparagraphs (i)* to *(iv)* of *paragraph (b)*.
+
+(4) There shall be deemed to be included in the terms of the employment of a person in a designated position referred to in *subsection (2)* a term that the person shall comply with that subsection.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1, item 18, S.I. No. 648 of 2010. Note: item 18 refers to s. 18(1)(a), not s. 18(2)(a); however s. 18(1) has no subs. (a), and the instructions of where to place the insertion match the wording of subs. (2)(a).
+>
+> F47: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97(2) and sch. part 1, item 18, S.I. No. 648 of 2010. Note: item 18 refers to s. 18(1)(a), not s. 18(2)(a); however s. 18(1) has no subs. (a), and the instructions of where to place the substitution match the wording of subs. (2)(a).
+>
+> **Modifications (not altering text):**
+>
+> C13: Reference to the office of the Data Protection Commissioner in subs. (3)(b)(iii) construed (25.05.2018, establishment date) by *Data Protection Act 2018* (7/2018), s. 14(2), S.I. No. 175 of 2018.
+>
+> **Transfer of functions of Data Protection Commissioner to Commission**
+>
+> 14\. (1) All functions that, immediately before the establishment day, were vested in the Data Protection Commissioner are transferred to the Commission.
+>
+> (2) A reference in any enactment or instrument under an enactment to the Data Protection Commissioner or to the Office of the Data Protection Commissioner shall be construed as a reference to the Commission.
+>
+> ...
+>
+> C14: Application of section extended (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 11, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Provisions in relation to statements under sections 17 and 18 of Principal Act.**
+>
+> **11.**—An individual to whom a statement in writing is furnished pursuant to section 17 or 18 of the Principal Act—
+>
+> (*a*) may request the person who so furnished it (“the furnisher”) to provide him or her with information in relation to the statement or any matter arising in connection with it,
+>
+> (*b*) if he or she considers that the furnisher may have contravened Part IV, he or she may make a complaint in writing in relation to the matter to the Commission—
+>
+> (i) in case the furnisher is a civil servant (within the meaning of the Civil Service Regulation Act, 1956), under paragraph (*d*) of section 22(4) of the Principal Act as if the individual was the appropriate authority in relation to the civil servant (within the meaning aforesaid) and the said paragraph (*d*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such an authority with any necessary modifications,
+>
+> (ii) in any other case, under paragraph (*c*) of the said section 22(4) as if the individual was the public body concerned and the said paragraph (*c*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such a body with any necessary modifications,
+>
+> and
+>
+> (*c*) if the Commission carries out an investigation under section 23 of the Principal Act into the matter, shall furnish to the public body concerned a copy of the report in writing of the Commission of the result of the investigation a copy of which is furnished to the individual.
+>
+> **Editorial Notes:**
+>
+> E44: Power pursuant to section exercised (25.04.2008 and 14.06.2007) by *Ethics in Public office (Designated Positions in Public Bodies) (Amendment) Regulations 2008* (S.I. No. 145 of 2008).
+>
+> E45: Power pursuant to section exercised (1.01.2007) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2006* (S.I. No. 677 of 2006). The purported substitution of reg. 6 had no effect as *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2005* (S.I. No. 673 of 2005) contained no reg. 6.
+>
+> E46: Power pursuant to s. 3 exercised (1.01.2005) in relation to s. 18(3)(b)(v) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 6, as substituted (25.04.2008) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2008* (S.I. No. 145 of 2008), reg. 2(b), and as further amended (11.07.2013) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2013* (S.I. No. 265 of 2013), reg. 2.
+>
+> E47: Power pursuant to s. 3 exercised in relation to s. 18(3)(b)(v) (1.01.2005) by *Ethics in Public Office (Prescribed Public Bodies, Designated Directorships of Public Bodies and Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 699 of 2004), reg. 7.
+>
+> E48: Previous affecting provision: power pursuant to section exercised (1.01.2009) by *Ethics in Public office (Designated Positions in Public Bodies) (Amendment) (No. 2) Regulations 2008* (S.I. No. 606 of 2008); superseded (1.01.2010) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2010* (S.I. No. 5 of 2010).
+>
+> E49: Previous affecting provision: power pursuant to section exercised (1.01.2006) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2005* (S.I. No. 673 of 2005); revoked (1.01.2007) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2006* (S.I. No. 677 of 2006), reg. 3.
+>
+> E50: Previous affecting provisions: power pursuant to s. 3 exercised (1.01.2005) in relation to s. 18(3)(b)(v) by *Ethics in Public Office (Designated Positions in Public Bodies) (Amendment) Regulations 2004* (S.I. No. 698 of 2004), reg. 6; substituted (1.01.2006) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2005* (S.I. No. 673 of 2005), reg. 2.
+
+### 19. Special advisers.
+
+**19.**—(1) In this section “special adviser” means a person who—
+
+(*a*) occupies or occupied F48[a position to which section 7(1)(*e*) of the Public Service Management (Recruitment and Appointments) Act 2004 relates], having been selected for appointment to that position by an office holder personally otherwise than by means of a competitive procedure, or
+
+(*b*) is or was employed under a contract for services by an office holder, having been selected for the award of the contract by an office holder personally otherwise than by means of a competitive procedure,
+
+and whose function or principal function as such a person is or was to provide advice or other assistance to or for the office holder.
+
+(2) The period for which a person acting as a special adviser occupies the excluded position concerned or is employed under the contract for services concerned shall end not later than the date on which the office holder to whom he or she is acting as a special adviser ceases to hold the office by reference to which he or she is an office holder.
+
+(3) (*a*) If the remuneration of a person as a special adviser exceeds a prescribed amount, then—
+
+(i) subject to *section 20 (3)*, in each year during any part of which the person is a special adviser, he or she shall prepare and furnish to the office holder concerned and the Commission a statement in writing of—
+
+(I) the interests of the person, and
+
+(II) the interests of which he or she has actual knowledge of his or her spouse F49[or civil partner] or a child of the person or of his or her spouse F49[or civil partner],
+
+during the appropriate period specified in *section 20 (1)* which could materially influence the person in or in relation to the performance of his or her functions as a special adviser by reason of the fact that such performance could so affect those interests as to confer on or withhold from the person or the F50[spouse or civil partner or child a substantial benefit],
+
+(ii) in any case where such a function falls to be performed and he or she has knowledge that he or she or a connected person has a material interest in a matter to which the function relates, he or she—
+
+(I) shall, as soon as may be, prepare and furnish to the office holder and to the Commission a statement in writing of those facts,
+
+(II) shall not perform the function unless there are compelling reasons requiring him or her to do so, and
+
+(III) shall, if he or she proposes to perform the function, prepare and furnish to the office holder and the Commission, before or, if that is not reasonably possible, as soon as may be after such performance, a statement in writing of the compelling reasons aforesaid,
+
+and
+
+(iii) the person shall undertake not to engage in any trade, profession, vocation or other occupation, whether remunerated or otherwise, which might reasonably be seen to be capable of interfering or being incompatible with the performance by the person of his or her functions as a special adviser.
+
+(*b*) Different amounts may be prescribed under *paragraph (a)* in relation to different categories of special adviser.
+
+(4) An office holder shall, in respect of a person who acts or acted as a special adviser to him or her, lay the following documents before each House of the Oireachtas, that is to say—
+
+(*a*) a copy of the contract, or a statement in writing of the terms and conditions, under which the person acts or acted as a special adviser,
+
+(*b*) a copy of any statement under *subsection (3) (a) (i)* of the interests of the person furnished to the office holder,
+
+(*c*) a statement as to whether the person is a relative of the office holder, and
+
+(*d*) if *subsection (3)* applies to the person, a statement of the qualifications of the person relevant to his or her functions as a special adviser.
+
+(5) F51[...]
+
+(6) There shall be deemed to be included in the terms on which a person who is acting as a special adviser to an office holder occupies the excluded position concerned or is employed under the contract for services concerned—
+
+(*a*) a term that the period for which the person occupies the excluded position or is employed under the contract for services shall end not later than the date on which the office holder ceases to hold the office by reference to which he or she is an office holder, and
+
+(*b*) if *subsection (3)* applies to the person, a term that he or she shall comply with that subsection.
+
+F52[(7) *Subsection (4)* shall be complied with not later than 60 days after the person concerned was appointed to act as a special adviser and, in case a document referred to in *paragraph (b)* of that subsection is furnished to the office holder concerned at any time after the expiration of the period aforesaid, not later than 60 days after that time, and such compliance shall, in a case where the office holder concerned dies or becomes incapacitated, be effected by the Taoiseach.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2, part 1, commenced on enactment.
+>
+> F49: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 19, S.I. No. 648 of 2010.
+>
+> F50: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 19, S.I. No. 648 of 2010.
+>
+> F51: Deleted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2, part 1, commenced on enactment.
+>
+> F52: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Editorial Notes:**
+>
+> E51: Power pursuant to s. 3 exercised (1.01.2005) in relation to subs. (3)(a) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 5, as substituted (14.06.2007) by *Ethics in Public Office (Designated Positions in Public Bodies)(Amendment) Regulations 2008* (S.I. No. 145 of 2008), reg. 2(a).
+>
+> E52: Previous affecting provision: provision for carrying out of duty under subs. (4) made (21.07.1997) by *Ethics in Public Office Act, 1995 (Section 3(1)(B)) Regulations 1997* (S.I. No. 320 of 1997), reg. 3; revoked (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28(3)(c), S.I. No. 576 of 2001.
+>
+> E53: Previous affecting provision: maximum salary for purposes of subs. (3)(a) prescribed (29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I . No. 57 of 1996), reg. 4; revoked (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 7.
+
+### 20. Provisions relating to statements under sections 17 to 19.
+
+**20.**—F53[(1) A statement furnished by a person under *section 17(1)(a)* or *18(2)(a)* shall—
+
+(*a*) in case, as may be appropriate, the person was appointed to the directorship or position concerned before the date of the commencement of this Part and the statement is the first such statement so furnished by the person since that date, be in respect of the period from that date or, if it is later, the date on which, as may be appropriate, the directorship or position became a designated directorship or a designated position to the date of the statement.
+
+(*b*) in case the person was so appointed on or after the date of such commencement and the statement is the first such statement so furnished by the person since such appointment, be in respect of the period from the date of such appointment or, if it is later, the date on which, as may be appropriate, the directorship or position became a designated directorship or a designated position to the following 31 December,
+
+(*c*) in any other case, be in respect of the period beginning on the day immediately following the date of the expiration of the period to which the last previous such statement so furnished by the person related to the following 31 December or, if it is earlier, the date on which the appointment concerned ended.
+
+(1A) A statement furnished by a person under *section 19(3)(a)(i)* shall—
+
+(*a*) in case the person was appointed to the special advisership concerned before the date of the commencement of this Part and the statement is the first such statement so furnished by the person since that date, be in respect of the period from that date to the date of the statement,
+
+(*b*) in case the person was so appointed on or after the date of such commencement and the statement is the first such statement so furnished by the person since such appointment, be in respect of the period from the date of such appointment to the following 31 December, and
+
+(*c*) in any other case, be in respect of the period beginning on the day immediately following the date of the expiration of the period to which the last previous such statement so furnished by the person related to the following 31 December or, if it is earlier, the date on which, in relation to the person, the period referred to in *section 19(2)* ends.]
+
+(2) A statement under *section 17 (1) (a), 18 (2) (a), 19 (3) (a) (i)* or *29 (2)* shall be made in such form as, subject to the provisions of this Act, may be determined by the Minister or a form to the like effect and shall contain appropriate information in relation to such matters (if any) respecting the interests declared in the statement as may be specified in the first-mentioned form.
+
+F54[(3) A statement by a person under *section 17(1)(a)*, *18(2)(a)* or *19(3)(a)(i)* in respect of a period specified in *paragraph (a)* of *subsection (1)* or *paragraph (a)* of *subsection (1A)* shall be furnished by the person to the person or persons concerned not later than such time in the year concerned as the Minister may determine.
+
+(3A) A statement by a person under *section 17(1)(a)*, *18(2)(a)* or *19(3)(a)(i)* in respect of a period specified in *paragraph (b)* or *(c)* of *subsection (1)* or *paragraph (b)* or *(c)* of *subsection (1A)* shall be furnished by the person to the person or persons concerned not later than 31 January in the year following the year in which the period fell.
+
+(3B) Notwithstanding *subsection (3A)*, where, in relation to a person who is a special adviser, within the meaning of *section 19*, the period referred to in *subsection (2)* of that section ends, a statement under *subsection (3)(a)(i)* of that section in relation to that period shall be furnished by the person to the persons concerned not later than 28 days from such ending.]
+
+(4) It shall not be necessary to specify in a statement under section *17 (1) (a), 18 (2) (a), 19 (3) (a) (i)* or *29 (2)* the amount or monetary value of any interest or the remuneration of any trade, profession, employment, vocation or other occupation included in the statement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F54: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Editorial Notes:**
+>
+> E54: Previous affecting provisions: date of passing of Act in subs. (1) construed (29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I. No. 57 of 1996), reg. 5(b); revoked (1.01.2005) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 2004* (S.I. No. 698 of 2004), reg. 7.
+>
+> E55: Previous affecting provisions: dates construed (21.07.1997) by *Regulations Entitled Ethics in Public Office Act, 1995 (Section 3(1)(B)) Regulations 1997* (S.I. No. 320 of 1997), reg. 4; revoked (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28 (3)(c), S.I. No. 576 of 2001, art. 2.
+
+## PART VThe Commission — PART V — The Commission
+
+### 21. Establishment, membership and functions of Commission.
+
+**21.**—F55[(1) There is hereby established, in place of the Public Offices Commission, a commission (which shall be known as the Standards in Public Office Commission and is referred to in this Act as "the Commission").
+
+(2) The Commission shall consist of 6 members, namely—
+
+(*a*) a chairperson who shall be a judge, or a former judge, of the Supreme Court F56[, the Court of Appeal] or the High Court, and
+
+(*b*) the following ordinary members—
+
+(i) the Comptroller and Auditor General,
+
+(ii) the Ombudsman,
+
+(iii) the Clerk of Dáil Éireann,
+
+(iv) the Clerk of Seanad Éireann, and
+
+(v) a person who—
+
+(I) is appointed to be such a member by the Government following resolutions passed by each House approving the proposed appointment, and
+
+(II) is a former member of one of the Houses and is not a representative in the European Parliament.
+
+(2A) The appointment of a person to be the chairperson of the Commission shall be made by the President on the advice of the Government following resolutions passed by each House recommending the appointment.
+
+(2B) A person appointed to be the chairperson of the Commission—
+
+(*a*) may at his or her own request be relieved of office by the President, and
+
+(*b*) may be removed from office by the President but shall not be removed from office except for stated misbehaviour, incapacity or bankruptcy and then only following resolutions passed by each House calling for his or her removal.
+
+(2C) Subject to the provisions of this section, a person appointed to be the chairperson of the Commission shall hold office for a term of 6 years and may be re-appointed to that office for a second or subsequent term.
+
+(2D) The chairperson of the Commission (other than a chairperson who is the holder of a judicial office) shall be paid such remuneration (if any) as may be determined by the Minister.
+
+(2E) (*a*) If the chairperson of the Commission notifies the Minister that he or she is for any reason temporarily unable to act as such chairperson, the Minister shall appoint such person, being a judge, or a former judge, of the Supreme Court F56[, the Court of Appeal] or the High Court, as the Chief Justice may nominate for the purpose to act as such chairperson for the duration of such inability.
+
+(*b*) Upon the appointment of a person pursuant to *paragraph (a)* to be the chairperson of the Commission, the person who is temporarily unable to act as such chairperson shall be deemed for the duration of the inability not to be the chairperson and not to be a member of the Commission.
+
+F57[(2F) If the person who is the chairperson of the Commission ceases (otherwise than by death or removal from office) during his or her term of office as such chairperson to be—
+
+(*a*) a judge of the High Court and is not a judge of the Supreme Court or Court of Appeal,
+
+(*b*) a judge of the Court of Appeal and is not a judge of the Supreme Court, or
+
+(*c*) a judge of the Supreme Court,
+
+he or she shall continue to be such chairperson until the expiration of his or her term of office.]
+
+(2G) If, after the commencement of an investigation under *section 23* and before compliance by the Commission with *section 24* in relation to the investigation, a person who is an ordinary member of the Commission ceases (otherwise than by death or by removal from office) to hold the office by reference to which he or she was a member of the Commission, the person shall, subject to his or her consent, continue to be a member of the Commission for the purposes of the investigation until *section 24* is complied with in relation to the investigation unless the Commission determines otherwise.
+
+(2H) An ordinary member of the Commission appointed to be such member under *subsection (2)(b)(v)*—
+
+(*a*) shall hold office for a term of 6 years and may be re-appointed to that office for a second or subsequent term,
+
+(*b*) shall cease to hold office if he or she—
+
+(i) is nominated as a member of Seanad Éireann,
+
+(ii) is nominated for election as a member of either House or to be a representative in the European Parliament, or
+
+(iii) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to that Parliament,
+
+(*c*) subject to the provisions of this subsection, shall hold office upon such terms and conditions (including terms and conditions relating to remuneration (if any) and allowances (if any) for expenses) as may be determined by the Minister,
+
+(*d*) may resign from office by notice in writing given to the Minister and the resignation shall take effect on the date on which the Minister receives the notice,
+
+(*e*) may be removed from office at any time by the Government but shall not be removed from office except for stated misbehaviour, incapacity or bankruptcy and then only following resolutions passed by each House calling for his or her removal.
+
+(2I) Notwithstanding anything contained in the Act of 2001 or this Act, such functions of the Commission as it may determine may be performed in relation to such matter or matters as it may determine by the Commission consisting only of the chairperson of the Commission, and the Ethics in Public Office Acts, 1995 and 2001, and the Electoral Acts, 1992 to 2001, F58[and the Regulation of Lobbying Act 2015,] and any regulations made under section 72 of the Act of 1997 shall have effect accordingly in relation to any such determinations with any necessary modifications.
+
+(2J) The Commission shall from time to time, but not less than twice each year, consult with the Committees in relation to the operation of this Act, the Act of 2001 and, in so far as it is relevant to the functions of the Commission and the Committees, the Electoral Act, 1997, and in relation to such (if any) other matters as they consider appropriate.]
+
+(3) (*a*) Subject to *paragraph (b)*, where F59[an ordinary member of the Commission] notifies the Minister that he or she is for any reason (other than the operation of *subsection (4)*) temporarily unable to act as such member or any of the offices aforesaid is vacant, the Minister shall appoint—
+
+(i) in the case of the Comptroller and Auditor General, the Secretary and Director of Audit of the Office of the Comptroller and Auditor General,
+
+(ii) in the case of the Ombudsman, the Director of the Office of the Ombudsman,
+
+(iii) F60[...]
+
+(iv) in the case of the Clerk of Dáil Éireann, the Clerk Assistant of Dáil Éireann, and
+
+(v) in the case of the Clerk of Seanad Éireann, the Clerk Assistant of Seanad Éireann,
+
+to be F59[an ordinary member of the Commission] for the duration of such inability or vacancy.
+
+(*b*) If a person falling, pursuant to *paragraph (a)*, to be appointed to be F59[an ordinary member of the Commission] cannot be so appointed or the Commission consider that it would not be appropriate so to appoint that person, the Minister shall appoint such other person as the Commission may nominate for the purpose to be such a member for the duration of the inability or vacancy concerned.
+
+(*c*) Upon the appointment of a person pursuant to *paragraph (a)* or *(b)* to be F59[an ordinary member of the Commission] for the duration of an inability, the member of the Commission who is temporarily unable to act as such member shall be deemed for such duration not to be F59[an ordinary member of the Commission].
+
+(*d*) If F59[an ordinary member of the Commission] ceases to hold the office by virtue of which he or she became F59[an ordinary member of the Commission], he or she shall thereupon cease to be F59[an ordinary member of the Commission].
+
+(4) (*a*) The Comptroller and Auditor General and the Secretary and Director of Audit of the Office of the Comptroller and Auditor General shall not take part in any proceedings of the Commission relating to the Comptroller and Auditor General or a member of the staff of the Office of the Comptroller and Auditor General.
+
+(*b*) The Ombudsman and the Director of the Office of the Ombudsman shall not take part in any proceedings of the Commission relating to the Ombudsman or a member of the staff of the Office of the Ombudsman.
+
+(*c*) F60[...] the Clerk of Dáil Éireann, the Clerk Assistant of Dáil Éireann, the Clerk of Seanad Éireann and the Clerk Assistant of Seanad Éireann shall not take part in any proceedings of the Commission relating to the Chairman or Deputy Chairman of either House or to a member of the staff of the Houses.
+
+(*d*) Where F59[an ordinary member of the Commission] is, by virtue of *paragraph (a), (b)* or *(c)* unable to take part in proceedings of the Commission, *subsection (3)* shall not apply in relation to such inability, and the Minister shall appoint such person as he or she may determine to be F59[an ordinary member of the Commission] for the purpose of taking part in those proceedings but for no other purpose and the first-mentioned member shall be deemed, in relation to those proceedings, not to be F59[an ordinary member of the Commission].
+
+(5) The quorum for a meeting of the Commission shall be three or such other number (being not less than three) as may be determined from time to time by the Commission.
+
+(6) F60[...]
+
+(7) At a meeting of the Commission—
+
+(*a*) the chairman of the Commission shall, if present, be chairman of the meeting,
+
+(*b*) if and for so long as the chairman of the Commission is not present or if the office of chairman is vacant, the members of the Commission who are present shall choose one of their number to be chairman of the meeting.
+
+(8) A decision at a meeting of the Commission (other than a meeting held for the purposes of an investigation under *section 23*) may be that of a majority of the members present and voting on the question and, in the case of an equal division of votes, the chairman of the meeting shall have a second or casting vote.
+
+(9) The Commission may act (otherwise than in relation to an investigation under *section 23*) notwithstanding one or more vacancies among its members.
+
+(10) Such functions of the Commission (other than functions under *section 23*) as may be specified by it may be performed, under the supervision and subject to the general direction of the Commission, by members of the staff of the Commission duly authorised in that behalf by the Commission.
+
+(11) Subject to the provisions of this Act, the Commission shall determine, by standing orders or otherwise, the procedure and business of the Commission.
+
+(12) The Minister shall make available to the Commission such reasonable facilities and services (including clerical, secretarial and executive services) as the Minister, after consultation with the Commission, may determine.
+
+(13) Subject to such conditions as the Minister may determine, there shall be paid to the Commission out of moneys provided by the Oireachtas such amounts as the Minister may, after consultation with the Commission, determine in respect of the reasonable expenses of the Commission and its members.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 2, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F56: Inserted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 52(a) and (b), S.I. No. 479 of 2014.
+>
+> F57: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 52(c), S.I. No. 479 of 2014.
+>
+> F58: Inserted (1.09.2015) by *Regulation of Lobbying Act 2015* (5/2015), s. 27(a), S.I. No. 152 of 2015.
+>
+> F59: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch.1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F60: Repealed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28 and sch. 2, subject to transitional provision in subs. (2), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> **Modifications (not altering text):**
+>
+> C15: Terms construed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001) s. 15, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Adaptation of references in Principal Act and Act of 1997.**
+>
+> **15.**—(1) In the Principal Act, the Act of 1997 and every other Act of the Oireachtas and every instrument made under any of the Acts aforesaid—
+>
+> (*a*) references to the Public Offices Commission shall be construed as references to the Commission, and
+>
+> (*b*) references to the chairman of the Public Offices Commission shall be construed as references to the chairperson of the Commission.
+>
+> ...
+
+### 22. Complaints to Commission.
+
+**22.**—(1) A person (other than a member) who considers that—
+
+(*a*) a person may have contravened *Part II, III* or *IV* at a time when he or she was an office holder, or
+
+(*b*) F61[...] a person who is an office holder may have contravened *Part II* before becoming an office holder,
+
+may make a complaint in writing in relation to the matter F62[to the Commission].
+
+(2) F63[...]
+
+(3) A member who considers that—
+
+(*a*) a person may have contravened *Part IV*,
+
+(*b*) a person may have contravened *Part II, III* or *IV* at a time when he or she was an office holder, or
+
+(*c*) that a person who is an office holder may have contravened *Part II* before becoming an office holder,
+
+may make a complaint in writing in relation to the matter to the Commission.
+
+(4) (*a*) Where the Minister considers that a person, other than an office holder, may have contravened *Part IV*, he or she may make a complaint in writing in relation to the matter to the Commission.
+
+(*b*) (i) Where a Minister of the Government considers that a person to whom this subparagraph applies may have contravened *Part IV*, he or she may, with the consent of the Minister, make a complaint in writing in relation to the matter to the Commission.
+
+(ii) *Subparagraph (i)* applies to the following persons:
+
+(I) a person who occupies or occupied a designated position in a Department of State or office of which the Minister of the Government by whom the complaint concerned is made has charge,
+
+(II) a person who holds or held a designated directorship of, or occupies or occupied a designated position in, a public body specified in *subparagraphs (8)* to *(12)* of *paragraph 1* of the *First Schedule* or standing prescribed for the time being under *subparagraph (13)* of the said *paragraph 1* in relation to which functions stand conferred on the Minister of the Government by whom the complaint concerned is made, and
+
+(III) a person who is or was a special adviser assigned to the Minister of the Government by whom the complaint concerned is made or to a Minister of State at the Department of State administered by that Minister of the Government.
+
+(*c*) Where a public body specified in *subparagraphs (8)* to *(12)* of the said *paragraph 1* or standing prescribed for the time being under *subparagraph (13)* of the said *paragraph 1* considers that a person who—
+
+(i) holds or held a designated directorship of the body, or
+
+(ii) occupies or occupied a designated position in the body,
+
+may have contravened *Part IV*, it may make a complaint in writing in relation to the matter to the Commission.
+
+(*d*) Where the appropriate authority (within the meaning of the Civil Service Regulation Act, 1956, but excluding a Minister of the Government) in relation to a civil servant (within the meaning aforesaid) considers that the civil servant may have contravened *Part IV*, the authority may make a complaint in writing in relation to the matter to the Commission.
+
+F64[(5) If a Committee by resolution determines—
+
+(*a*) that a complaint under *section 8(2)* made or referred to it should be investigated by the Commission, or
+
+(*b*) in the case of a member (other than a member who is or, at the relevant time, was an office holder), that an investigation should be carried out by the Commission to determine whether the member has contravened *section 5, 7* or *12* or has done a specified act,
+
+the chairman of the Committee shall—
+
+(i) in a case to which *paragraph (a)* relates, refer the matter to the Commission and furnish a copy of the complaint concerned to the Commission, and
+
+(ii) in a case to which *paragraph (b)* relates, make a complaint in writing in relation to the matter to the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Repealed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and (2) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F62: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and (2) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F63: Repealed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28 and sch. 2, subject to transitional provision in subs. (2), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F64: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and (2) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> **Modifications (not altering text):**
+>
+> C16: Application of section extended (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 11(b), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Provisions in relation to statements under sections 17 and 18 of Principal Act.**
+>
+> **11.**—An individual to whom a statement in writing is furnished pursuant to section 17 or 18 of the Principal Act— ...
+>
+> (*b*) if he or she considers that the furnisher may have contravened Part IV, he or she may make a complaint in writing in relation to the matter to the Commission—
+>
+> (i) in case the furnisher is a civil servant (within the meaning of the Civil Service Regulation Act, 1956), under paragraph (*d*) of section 22(4) of the Principal Act as if the individual was the appropriate authority in relation to the civil servant (within the meaning aforesaid) and the said paragraph (*d*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such an authority with any necessary modifications,
+>
+> (ii) in any other case, under paragraph (*c*) of the said section 22(4) as if the individual was the public body concerned and the said paragraph (*c*) and any other relevant provision of the Principal Act shall apply accordingly as if the individual was such a body with any necessary modifications,
+>
+> ...
+
+### 23. Investigations by Commission.
+
+**23.**—F65[(1) (*a*) Subject to the provisions of this section, where a complaint is made to the Commission under section 4 of the Act of 2001 or made or referred to it under *section 22* or the Commission considers it appropriate to do so, the Commission shall carry out an investigation to determine whether, as appropriate—
+
+(i) the person concerned or a connected person has done a specified act, or
+
+(ii) the person concerned has contravened Part II, III or IV or the Act of 1997.
+
+(*b*) Subject to the provisions of this section, where the Commission considers in the case of—
+
+(i) a person who may have contravened Part II, III or IV or the Act of 1997 at a time when he or she was an office holder,
+
+(ii) a person who is an office holder and who may have contravened Part II or the Act of 1997 before becoming an office holder,
+
+(iii) a person to whom *section 22(4)(b)(i)* applies and who may have contravened *Part IV*, or
+
+(iv) a person who may have done a specified act,
+
+that it is appropriate to do so, it shall carry out an investigation to determine, whether, as may be appropriate—
+
+(I) the person referred to in *subparagraph (i)* contravened *Part II, III* or *IV* or the Act of 1997 at a time when he or she was an office holder,
+
+(II) the person referred to in *subparagraph (ii)* contravened *Part II* or the Act of 1997 before becoming an office holder,
+
+(III) the person referred to in *subparagraph (iii)* contravened *Part IV*, or
+
+(IV) the person referred to in *subparagraph (iv)* did a specified act.
+
+(1A) The Commission shall not carry out an investigation under *subsection (1)* into a complaint under subsection (1) of section 4 of the Act of 2001 in relation to a matter referred to in paragraph (a) of that subsection unless—
+
+(*a*) the complaint was made or referred to it by a Committee, or
+
+(*b*) the Commission becomes of opinion, after consideration by it of any report of an inquiry officer in relation to the matter and any statements or documents accompanying the report, that there is sufficient evidence to establish a *prima facie* case in relation to the alleged specified act concerned and that, if it was in fact done, it is an act falling within the said paragraph (a).
+
+(1B) The Commission shall not investigate a complaint by a person other than a member or a person referred to in *paragraph (c)* or *(d)* of *section 22(4)* if it considers the complaint to be frivolous or vexatious.
+
+(1C) Subject to *subsection (1A)(b)*, if the Commission becomes of opinion that evidence sufficient to sustain a complaint referred or made to it under *section 22* or section 4 of the Act of 2001 is not and will not be available, it may decide not to carry out, or to discontinue, an investigation under this section and, if it does so, it shall prepare a record of the decision and *subsection (1)* and *(4)* of *section 24* shall apply in relation to such a record as it applies to a report under *subsection (1)* of that section with any necessary modifications.]
+
+(2) Before the Commission decides whether to carry out under *subsection (1)* an investigation of a matter that—
+
+(*a*) relates to a person who holds or held a designated directorship of, or occupies or occupied a designated position in, a public body, and
+
+(*b*) was not the subject of a complaint referred or made to it under *section 22*,
+
+the Commission shall—
+
+(i) consult with any Minister of the Government on whom a function in relation to the body stands conferred, and
+
+(ii) give to any such Minister of the Government as aforesaid and to the body a statement in writing of the reasons why it considers it appropriate that the investigation should be carried out,
+
+and it shall decide not to carry out the investigation unless, having considered any representations made to it by that Minister of the Government or the body, it is satisfied that it is appropriate to carry it out and that an adequate investigation cannot or will not be carried out by or on behalf of that Minister of the Government or the body or any other authority.
+
+(3) Where the Commission, either during or at the conclusion of an investigation under this section, becomes of opinion that the person the subject of the investigation has not contravened F66[the provision of this Act or the Act of 1997 to which the investigation relates or has not done a specified act, but, as may be appropriate, may have contravened another provision of Part II, III or IV or the Act of 1997 or may have done a specified act, it may carry out an investigation under this section to determine, as appropriate, whether the person has contravened that other provision or that Act or has done a specified act].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 7, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F66: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, , subject to transitional provision in s. 14.
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of section restricted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 8, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Identity of persons making complaints.**
+>
+> **8.**—The Commission or a Committee shall not investigate a complaint made or referred to it unless the identity of the person making the complaint is disclosed to it. Where, having regard to all the circumstances, the Commission or a Committee considers it appropriate to do so, it may restrict the disclosure of such identity to those to whom knowledge of it is necessary or expedient for the purposes or by reason of the investigation of the compliant by the Commission or the Committee, as the case may be, or otherwise in the interests of justice.
+
+### 24. Reports by Commission.
+
+**24.**—(1) Subject to *subsection (2)* and *section 31*, where the Commission carries out an investigation under *section 23*, it shall prepare a report in writing of the result of the investigation and shall furnish a copy of the report to—
+
+(*a*) the person the subject of the investigation,
+
+F67[(*b*) if the investigation followed a complaint under *section 22* or section 4 of the Act of 2001, the person who made the complaint and, if the complaint was referred or made to the Commission under *section 22 (5)*, the Committee concerned, and]
+
+(*c*) (i) in case the person the subject of the investigation is or was an office holder and the Commission has determined that he or she has contravened *Part II, III* or *IV* F68[or the Act of 1997 or has done a specified act], the Committee, and
+
+(ii) in any other case—
+
+(I) the Minister, or
+
+(II) if, at the time of the alleged contravention concerned, the person occupied a position in a Department of State or office administered by a Minister of the Government other than the Minister, that Minister of the Government.
+
+(2) Where the Commission, either during or at the conclusion of an investigation under *section 23*, is of opinion that the person the subject of the investigation may have committed an offence relating to the performance of his or her functions as an office holder F69[or member], a holder of a designated directorship of, or occupier of a designated position in, a public body or special adviser, as the case may be F70[...]—
+
+(*a*) it shall prepare a report in writing in relation to the matter and furnish it together with any relevant document or other thing in its possession to the Director of Public Prosecutions who shall notify the Commission F71[whether following the receipt of the report,] he or she has taken proceedings for an offence in respect of any matter mentioned in the report or has decided not to take any such proceedings and of the final outcome of any such proceedings (including any appeal, whether by way of case stated or otherwise, rehearing or retrial), and
+
+(*b*) it shall add to its report under *subsection (1)* a copy of its report under *paragraph (a)* and a statement of the notification or notifications aforesaid.
+
+(3) A report under *subsection (1)* shall set out the findings of the Commission together with its determinations in relation to the following matters, namely—
+
+F72[(*a*) whether there has been a contravention of *Part II, III* or *IV* or the Act of 1997 by the person concerned or that person has done a specified act and whether the contravention or act is continuing,]
+
+(*b*) in case the determination is that there has not been a contravention of *Part II, III* or *IV* F73[or the Act of 1997, by the person and the person has not done a specified act,] whether the Commission is of opinion that the complaint was frivolous or vexatious or that there were no reasonable grounds for it, and
+
+(*c*) in case the determination is that there has been a contravention of F74[*Part II, III* or *IV* or the Act of 1997 by the person or that the person has done a specified act]—
+
+F74[(i) if the determination is that the contravention is continuing or, as the case may be, that the specified act is continuing, the steps required to be taken by him or her to secure compliance by him or her with *Part II, III* or *IV* or the Act of 1997 or to secure the discontinuance of the specified act, as the case may be, and the period of time within which such steps should be taken,
+
+(ii) whether the contravention or act was committed or done inadvertently, negligently, recklessly or intentionally,
+
+(iii) whether the contravention or act was, in all the circumstances, a serious or a minor matter, and]
+
+(iv) whether the person acted in good faith and in the belief that his or her action was in accordance with guidelines published or advice given in writing by a Committee under *section 12* or the Commission under *section 25*,
+
+and may refer to such other matters (if any) as the Commission considers appropriate.
+
+(4) Where at any time a report under *subsection (1)* is furnished to a Committee, the Committee shall cause a copy of the report to be laid before the House concerned.
+
+(5) Where a report under *subsection (1)* is furnished to a Minister of the Government and the report includes determinations that there has been a contravention of *Part IV* and that the contravention was a serious matter, he or she shall cause a copy of the report to be laid before each House.
+
+F75[(5A) A public body to which a report under subsection (1) or subsection (2) of section 23 of the Act of 2001 is furnished may, having considered the report and invited submissions from the person concerned in relation to the matter and considered any such submissions, take such action in relation to the person to whom the report relates as it considers appropriate including suspension without payment of remuneration from the office or position held or occupied by the person for such person for such period as it may determine, being, in the case of a person to whom a report under the said subsection (2) relates, a period ending not later than the date on which the documents concerned specified in subsection (1)(a) of the said section 23 are furnished to the Commission.]
+
+(6) Where the Commission—
+
+(*a*) adjourns or postpones proceedings in relation to an investigation under *section 23*, or
+
+(*b*) during such an investigation, furnishes a report to the Director of Public Prosecutions under *subsection (2) (a)* and the Director of Public Prosecutions notifies the Commission under *subsection (2) (a)* that he or she has taken proceedings for an offence in respect of a matter mentioned in the report,
+
+the Commission may, if it considers it appropriate to do so, prepare an interim report in writing in relation to the investigation and furnish copies thereof to such of the persons specified in *subsection (1)* as it thinks fit.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F68: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F69: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F70: Repealed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F71: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F72: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F73: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F74: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F75: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13 (1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> **Editorial Notes:**
+>
+> E56: Previous affecting provision: reference in subs. (2) construed (29.02.1996) by *Ethics in Public Office (Designated Positions in Public Bodies) Regulations 1996* (S.I. No. 57 of 1996), reg. 5(c); revoked (10.12.2001) by *Standards in Public Office Act 2001* (31/2001) s. 28(3), S.I. No. 576 of 2001.
+
+### 25. Guidelines and advice from Commission.
+
+**25.**—(1) The Commission—
+
+(*a*) shall, after consultation with the Committees, from time to time draw up and publish to persons (other than members who are not office holders) to whom F76[section 4(1)(a) of the Act of 2001 or]a provision of *Part II, III* or *IV* applies guidelines concerning the steps to be taken by such persons to ensure compliance by them with F76[that section and] this Act generally and, in particular, with the provisions of those Parts, and
+
+(*b*) may, at the request of a person (other than a member who is not an office holder) to whom a provision of *Part II, III* or *IV* applies, give advice to the person in relation to any provision of this Act or as to the application, in any particular case, of any such provision F76[and may, at the request of a person give advice to the person, if *section 4(1)(a)* applies to the person, in relation to that section or as to the application in any particular case, of that section].
+
+F77[(1A) Guidelines drawn up and published under *subsection (1)*—
+
+(*a*) subject to *paragraph (b)*, shall remain in force until revoked by guidelines drawn up and published under that subsection, and
+
+(*b*) may be amended by guidelines drawn up and published under that subsection.
+
+(1B) A document purporting to be guidelines under *subsection (1)* shall be taken, unless the contrary is shown, to be such guidelines and shall be admissible in any proceedings before a court or other tribunal or a Committee or the Commission, and any provision of any such guidelines that appears to the tribunal, the Committee or the Commission to be relevant to a question in the proceedings may be taken into account by it in determining the question.]
+
+(2) When a request is made under *subsection (1) (b)* in relation to a particular case, F78[the provision concerned of *Part II, III* or *IV* or of the Act of 1997] shall not, as respects the person who made the request, apply in relation to that case during the period from the making of the request to the time when advice is given by the Commission in relation to the case or it declines to give such advice.
+
+(3) The Commission shall, within 21 days of the receipt by it of a request for advice under *subsection (1) (b)*, furnish the advice to the person concerned or notify him or her of its decision to decline to do so.
+
+(4) A person shall act in accordance with guidelines or advice published or given to the person under this section unless, by so doing, the act concerned would constitute a contravention of another provision of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F77: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> F78: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> **Modifications (not altering text):**
+>
+> C18: Guidelines continued in force (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 14 (3), commenced (with restrictions) by S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Transitional and saver.**
+>
+> **14.**— ...
+>
+> (3) Guidelines drawn up and published by the Public Offices Commission under section 25 of the Principal Act and in force immediately before the commencement of *section 2* shall continue in force after such commencement as if drawn up and published by the Commission under that section.
+>
+> **Editorial Notes:**
+>
+> E57: Insertion in s. 25 (1)(a) of the words “(other than members who are not office holders)” (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas, appears to be redundant as these words already appear in the original version of the section. They are excluded from this revision as surplus provisions.
+
+### 26. Award of costs by Commission.
+
+**26.**—(1) (*a*) Where, following an investigation by the Commission under *section 23* of a complaint referred or made to it under *section 22* (other than *subsection (4)*) F79[or section 4 of the Act of 2001], the Commission determines that the complaint was frivolous or vexatious or that there has not been a contravention of *Part II, III* or *IV* F79[or the Act of 1997 or that a specified act was not done] and that there were no reasonable grounds for the complaint, it may order that such amounts (not exceeding £1,500) as it considers appropriate, having regard to all the circumstances, in respect of the reasonable costs and expenses incurred by any person before it (including costs and expenses incurred by such a person in respect of legal representation) in relation to the investigation shall be paid to that person by the person who made the complaint.
+
+(*b*) Where, in relation to an investigation under *section 23*, amounts are ordered to be paid under *paragraph (a)* to more than one person, the aggregate of those amounts shall not exceed £1,500.
+
+(2) For the purposes of *subsection (1)*, the Commission may measure the costs and expenses aforesaid.
+
+(3) Any costs or expenses ordered by the Commission under *subsection (1)* to be paid by a person may be recovered from that person by the person to whom they are ordered to be paid as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s.13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001, subject to transitional provision in s. 14.
+>
+> **Editorial Notes:**
+>
+> E58: £1,500 converted (1.01.1999) to €1,904.61.
+>
+> E59: The *Standards in Public Office Act 2001* (31/2001), s. 9, also deals with the issue of costs.
+
+### 27. Annual and special reports by Commission.
+
+**27.**—(1) The Commission—
+
+(*a*) shall, not later than 6 months after the end of each year, prepare a report on its activities in that year, and
+
+(*b*) may prepare such other reports for the Minister as it considers appropriate.
+
+(2) (*a*) The Commission shall furnish a copy of a report under *subsection (1) (a)* to the Minister not later than 6 months after the end of the year to which it relates and the Minister shall, not later than two months after the receipt of the report, cause a copy thereof to be laid before each House.
+
+(*b*) The Minister may, if he or she considers it appropriate to do so, cause a copy of a report under *subsection (1) (b)* to be laid before each House.
+
+(3) In this section “report” does not include a report under *section 24*.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C19: Saving for certain reports (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 14(1) and (2)(e), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 06 December, 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November, 2001.
+>
+> **Transitional and saver.**
+>
+> **14.**—(1) Part V of the Principal Act shall, as respects the matters specified in *subsection (2)*, have effect as if this Act had not been enacted.
+>
+> (2) The matters referred to in *subsection (1)* are—...
+>
+> (*e*) the report under section 27(1) of that Act for the year 1999 and any reports under subsection (2) of that subsection in course of preparation immediately before such commencement, and
+>
+> ...
+
+## PART VIMiscellaneous — PART VI — Miscellaneous
+
+### 28. Action by Houses where reports laid before them.
+
+**28.**—(1) Where a copy of a report of a Committee or a copy of a report of the Commission furnished to a Committee is laid before either House, the Committee may, if it considers it appropriate, having regard to all the circumstances of the case, to do so F80[and shall, if the copy is furnished to it pursuant to section 21(4) or 23(2) of the Act of 2001], cause a motion to be moved in that House for a resolution that such action or actions specified in *subsection (2)* as may be specified in the resolution and is or are reasonable in all the circumstances be taken by that House in relation to the matter.
+
+(2) The actions referred to in *subsection (1)* are—
+
+(*a*) the taking note by the House concerned of the report of the Committee, or the report of the Commission, concerned,
+
+(*b*) the censuring of the office holder or other member concerned by the House,
+
+(*c*) the suspension of the office holder or other member concerned from the service of the House—
+
+(i) for such period not exceeding 30 days on which the House shall have sat as may be specified in the resolution concerned, and
+
+F81[(ii) in addition—
+
+(I) if the report aforesaid includes a determination that the office holder or other member is continuing to contravene this Act or that the specified act concerned is continuing and the Committee is satisfied that the contravention or act has continued up to the date of the motion for the resolution concerned under *subsection (1)*, or
+
+(II) if the Committee is satisfied, in a case to which section 25 of the Act of 2001 applies, that the office holder or other member concerned has not, up to the date aforesaid, complied with section 21 or 23, as may be appropriate,
+
+until such time (if any) after the expiration of the period specified pursuant to *subparagraph (i)* in the resolution as he or she takes the steps specified in the resolution (being the steps specified in the report) to secure compliance by him or her with this Act or the cesser of the act or, as the case may be, the office holder or other member furnishes to the Commission the document specified in section 21 or 23, as may be appropriate.]
+
+F82[(2A) (*a*) Notwithstanding *subsection (4)*, where the action specified in a motion for a resolution under *subsection (1)* is or includes that specified in *subsection (2)(c)*, it may also, subject to compliance with the conditions specified in *paragraph (b)*, include the withholding from the office holder or other member concerned of so much of the annual sum by way of salary payable to him or her under the Oireachtas (Allowances to Members) Act, 1938, as may be specified in the resolution.
+
+(*b*) The conditions referred to in *paragraph (a)* are:
+
+(i) that the Committee concerned is of opinion that the act or contravention to which the motion relates was done or made intentionally and was of a grave nature,
+
+(ii) that the withholding is reasonable in all the circumstances,
+
+(iii) that the amount of the annual sum specified in the resolution does not exceed the amount thereof payable in respect of the period of suspension from the service of the House concerned specified in the resolution.]
+
+(3) Where a report referred to in *subsection (1)*, a copy of which has been laid before either House, includes a determination that the office holder or other member concerned acted in good faith and in the belief that his or her action was in accordance with guidelines published or advice given in writing under *section 12* or, as the case may be, *section 25*, a Committee shall not recommend that the action specified in *paragraph (b)* or *(c)* of *subsection (2)* be taken by the House.
+
+(4) The action referred to in *subsection (2) (c)* shall not affect either the amount of or the payment of any allowance or annual or other sum to which the office holder or other member concerned would, but for such action, be entitled under the Oireachtas (Allowances to Members) Act, 1938, Part III of the Ministerial and Parliamentary Offices Act, 1938, or section 3 of the Oireachtas (Allowances to Members) and Ministerial and Parliamentary Offices (Amendment) Act, 1992.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F81: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F82: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Modifications (not altering text):**
+>
+> C20: Application of subs. (3) construed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 10(16), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Codes of conduct.**
+>
+> **10.**—...
+>
+> (16) The reference in section 28(3) of the Principal Act to guidelines published or advice given in writing under section 12 shall be construed as including a reference to a code of conduct drawn up under *subsection (1)* or *(2)* and any other relevant code of conduct or other guidelines or advice given in writing under *subsection (12)* or *(13)*.
+
+### 29. Statements of interests outside periods specified in sections 5, 13 and 20.
+
+**29.**—(1) (*a*) Where the registrable interests or the additional interests of a person change, the person may at any time furnish a statement in writing of the changes to the Clerk.
+
+(*b*) Where a person fails to comply with *section 5* or *13*, the person may at any time furnish to the Clerk a statement in writing of the registrable interest or additional interest concerned.
+
+(*c*) Where a person is advised under *section 12* or *25* or it appears from guidelines published under either of those sections that an interest of the person is a registrable interest or an additional interest, the person shall, as soon as may be after the receipt of the advice or, as the case may be, the publication of the guidelines, prepare and furnish to the Clerk a statement in writing of the additional interest or registrable interest.
+
+(*d*) Where a person becomes a member or an office holder after a registration date, he may, at any time before the next registration date, furnish to the Clerk a statement in writing of his or her registrable interests and, (in the case of an office holder) his or her additional interests.
+
+F83[(*e*) When the Clerk receives a statement under *paragraph (a), (b), (c)* or *(d)* or *section 30* or corrects an error in or amends a register established by him or her under *section 6*, he or she shall—
+
+(i) in the case of a statement under *paragraph (a), (b), (c)* or *(d)* relating to an additional interest, furnish a copy of it to the Commission and (if it is a statement of a Minister of the Government or a Minister of State) the Taoiseach,
+
+(ii) in the case of a statement under *section 30*, furnish a copy of it to the Commission,
+
+(iii) in the case of a correction or amendment, notify the Commission of it.]
+
+(2) (*a*) Where the interests specified in *section 17 (1) (a), 18 (2) (a)* or *19 (3) (a) (i)* of a person to whom that section F84[applies or of the spouse or civil partner of such a person] or of a child either of such a person or of the spouse of such a person change the person may at any time furnish a statement in writing of the change to the person or persons to whom statements under that provision are required to be furnished.
+
+(*b*) Where a person fails to comply with *section 17 (1) (a), 18 (2) (a)* or *19 (3) (a) (i)*, the person may at any time furnish a statement in writing of the interests concerned to the person or persons to whom statements under that provision are required to be furnished.
+
+(*c*) Where a person to whom *section 17 (1) (a), 18 (2) (a)* or *19 (3) (a) (i)* applies is advised under *section 25* or it appears from guidelines published under *section 25* that an interest of the person or F84[an interest of his or her spouse or civil partner] or a child of the person or of his or her spouse is an interest to which *section 17 (1) (a), 18 (2) (a)* or *19 (3) (a) (i)*, as the case may be, applies, the person shall, as soon as may be after the receipt of the advice or, as the case may be, the publication of the guidelines, prepare and furnish to the person or persons to whom statements under that provision are required to be furnished a statement of the interest.
+
+(3) A statement under this section (other than a statement indicating the cesser or disposal of an interest) shall be in a form determined under *section 5 (1), 13 (1)* or *20 (2)*, as may be appropriate, or in a form to the like effect and shall contain appropriate information in relation to such matters (if any) respecting the interest concerned as may be specified in the appropriate form determined as aforesaid.
+
+(4) *Section 6 (4) (b)* and *subsection (3)* shall apply to a statement of a registrable interest furnished to a Clerk in pursuance of a determination of a Committee or the Commission under *section 10 (2) (c)* or *24 (3) (c)* and *subsection (1) (e)* and *subsection (3)* shall apply to a statement of an additional interest furnished to a Clerk in pursuance of a determination of the Commission under *section 24 (3) (c)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F84: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 20, S.I. No. 648 of 2010.
+
+### 30. Voluntary statements.
+
+**30.**—Where a person to whom *section 5, 13, 16, 17, 18* or *19* applies has an interest that is not specified in the *Second Schedule* or a person to whom *section 13, 16, 17, 18* or *19* applies has actual knowledge F85[that his or her spouse or civil partner or a child] of the person or of his or her spouse has such an interest, the person may at any time prepare a statement under that section of the interest and furnish it to the person or persons to whom such a statement is required by the section to be furnished and, where such a statement is so furnished, this Act shall apply and have effect as if the interest was an interest specified in that Schedule.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 21, S.I. No. 648 of 2010.
+
+### 31. Discontinuance of investigations.
+
+**31.**—(1) A Committee may at any time discontinue an investigation under *section 9* of a complaint referred or made to it under *section 8* if it becomes of opinion that the complaint concerned is frivolous or vexatious.
+
+(2) The Commission may at any time discontinue an investigation under *section 23* of a complaint referred or made to it under *section 22* (other than *subsection (4)* thereof) F86[or made to it under section 4 of the Act of 2001] if it becomes of opinion that the complaint concerned is frivolous or vexatious.
+
+(3) If a Committee decides to discontinue an investigation under *section 9*, or the Commission decides to discontinue an investigation under *section 23*, it shall prepare and furnish to—
+
+(*a*) the person who made the complaint concerned, and
+
+(*b*) the person to whom it related,
+
+a statement in writing of the reasons for its decision and, in the case of such a decision by a Committee, it shall, in addition, prepare and furnish such a statement to the Clerk.
+
+(4) *Section 11* shall apply with any necessary modifications in relation to a case where an investigation is discontinued under *subsection (1)* and *section 26* shall apply with any necessary modifications in relation to a case where an investigation is discontinued under *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 32. Powers of Committees and Commission.
+
+**32.**—(1) A Committee and the Commission shall hold sittings for the purpose of an investigation by it under this Act and at the sittings may receive submissions and such evidence as it thinks fit.
+
+(2) The chairman of a Committee may for the purposes of the functions of the Committee and the chairman of the Commission may for the purposes of the functions of the Commission—
+
+(*a*) direct in writing the person the subject of the investigation concerned to attend before the Committee or the Commission, as the case may be, on a date and at a time and place specified in the direction,
+
+(*b*) direct in writing any other person whose evidence is required by the Committee or the Commission, as the case may be, to attend before the Committee or the Commission, as the case may be, on a date and at a time and place specified in the direction and there to give evidence and to produce any document or thing in his or her possession or power specified in the direction,
+
+(*c*) direct any person (other than a person referred to in *paragraph (a)*) in attendance before the Committee or the Commission, as the case may be, to produce to the Commission or the Committee, as the case may be, any document or thing in his or her possession or power specified in the direction,
+
+(*d*) direct in writing any person (other than a person referred to in *paragraph (a)*) to send to the Committee or the Commission, as the case may be, any document or thing in his or her possession or power specified in the direction, and
+
+(*e*) give any other directions for the purpose of the proceedings concerned that appear to him or her to be reasonable and just.
+
+(3) The reasonable expenses of witnesses directed under *subsection (2) (b)* to attend before a Committee or the Commission shall, subject to *sections 11* and *26*, be paid out of moneys provided by the Oireachtas.
+
+(4) A person who—
+
+(*a*) having been directed under *subsection (2)* to attend before a Committee or the Commission and, in the case of a person so directed under *paragraph (b)* of that subsection, having had tendered to him or her any sum in respect of the expenses of his or her attendance which a witness summoned to attend before the High Court would be entitled to have tendered to him or her, without just cause or excuse disobeys the direction,
+
+(*b*) being in attendance before a Committee or the Commission pursuant to a direction under the said *paragraph (b)*, refuses to take the oath on being required by the Committee or the Commission, as the case may be, to do so or refuses to answer any question to which the Committee or the Commission, as the case may be, may legally require an answer or to produce any document or thing in his or her possession or power legally required by the Committee or the Commission, as the case may be, to be produced by the person,
+
+(*c*) fails or refuses to send to the Committee or the Commission, as the case may be, any document or thing legally required by the Committee or the Commission, as the case may be, under *paragraph (d)* of *subsection (2)* to be sent to it by the person or without just cause or excuse disobeys a direction under *paragraph (d)* of *subsection (2)*, or
+
+(*d*) does any other thing in relation to the proceedings before the Committee or the Commission, as the case may be, which, if done in relation to proceedings before a court by a witness in the court, would be contempt of that court,
+
+shall be guilty of an offence.
+
+F87[(4A) A Committee or the Commission may, for sufficient reason if it considers it appropriate to do so, arrange for the examination of a person at any place in or outside the State by, in the case of a Committee, a member of the Committee, a member of the staff of the Committee or any other person and, in the case of the Commission, by a member of the Commission, a member of the staff of the Commission or any other person and may receive, in such form as it may determine, the evidence of the person taken at the examination, and the relevant rules of court relating to evidence in proceedings in the High Court shall apply in relation to the matters aforesaid with any necessary modifications.
+
+(4B) In relation to the matters specified in *subsection (1)* and *(2)* and, in so far as they relate to a Committee or the Commission, *subsection (4A)*, a Committee or the Commission shall have all such powers, rights and privileges as are vested in the High Court on the occasion of an action and, in relation to the matters specified in *subsection (4A)*, in so far as they relate to a person conducting an examination pursuant to that subsection, that person shall have all the powers, rights and privileges aforesaid.]
+
+(5) If a person gives false evidence before a Committee or the Commission in such circumstances that, if he or she had given the evidence before a court, he or she would be guilty of perjury, he or she shall be guilty of that offence.
+
+(6) The procedure of a Committee or the Commission in relation to an investigation by it under this Act shall, subject to the provisions of this Act, be such as shall be determined by the Committee or the Commission, as the case may be, and the Committee or the Commission, as the case may be, shall, without prejudice to the generality of the foregoing, make provision for—
+
+(*a*) notifying the complainant, in the case of a complaint under *section 8* or *22*, and notifying the person the subject of the investigation of the date, time and place of the relevant sitting of the Committee or the Commission, as the case may be,
+
+(*b*) giving the person the subject of the investigation a statement of the contravention of this Act F87[or the Act of 1997 or the specified act] alleged, the names of the witnesses whom it is proposed to call to give evidence before the Committee or the Commission, as the case may be, relating to such contravention, a copy of each statement intended to be used at the Committee or the Commission, as the case may be, and an indication in writing of the nature and source of any information relating to the matter which has come to notice in the course of the investigation of the alleged contravention which may be favourable to the person aforesaid and of which he or she may be unaware,
+
+(*c*) enabling the person the subject of the investigation and, in the case of a complaint, the complainant or a person representing the complainant to be present at the relevant sitting of the Committee or the Commission, as the case may be, and enabling the person the subject of the investigation to present his or her case to the Committee or the Commission, as the case may be, in person or through a legal or other representative,
+
+(*d*) enabling written statements to be admissible as evidence by the Committee or the Commission, as the case may be, with the consent of the person the subject of the investigation,
+
+(*e*) enabling any signature appearing on a document produced before the Committee or the Commission, as the case may be, to be taken, in the absence of evidence to the contrary, to be that of the person whose signature it purports to be,
+
+(*f*) the examination by or on behalf of the Committee or the Commission, as the case may be, and the cross-examination by or on behalf of the person the subject of the investigation concerned (on oath or otherwise as it may determine) of witnesses before the Committee or the Commission, as the case may be, called by it,
+
+(*g*) the examination by or on behalf of the person the subject of the investigation and the cross-examination by or on behalf of the Committee or the Commission, as the case may be (on oath or otherwise as the Committee or the Commission, as the case may be, may determine), of witnesses before the Committee or the Commission, as the case may be, called by the person the subject of the investigation,
+
+(*h*) the determination by the Committee or the Commission, as the case may be, whether evidence at the Committee or the Commission, as the case may be, should be given on oath,
+
+(*i*) the administration by the chairman of the Committee or the chairman of the Commission, as the case may be, of the oath to witnesses before the Committee or the Commission, as the case may be, and
+
+(*j*) the making of a sufficient record of the proceedings of the Committee or the Commission, as the case may be.
+
+(7) A decision of a Committee or the Commission in relation to an investigation by it under this Act or any question arising in the course of such an investigation may be that of a majority of its members.
+
+F88[(8) A person whose evidence has been, is being or is to be given before—
+
+(*a*) a Committee or the Commission,
+
+(*b*) an inquiry officer, or
+
+(*c*) a person for the purposes of an examination by him or her pursuant to *subsection (4A)*,
+
+or who produces or sends a document to a person referred to in *paragraph (a), (b)* or *(c)* or who is directed by the chairman of a Committee or the chairperson of the Commission or requested by a person referred to in *paragraph (b)* or *(c)*, for the purposes referred to in that paragraph, to give evidence or produce a document to the Committee or the Commission or to the person referred to in *paragraph (b)* or *(c)* or to attend before the Committee or the Commission or the person and there to give evidence or produce a document shall be entitled to the same privileges and immunities in respect of those matters as a witness before the High Court in respect of evidence.]
+
+(9) Sittings of a Committee or the Commission for the purposes of an investigation by it under this Act may be held in private.
+
+(10) A Committee or the Commission may adjourn or postpone proceedings in relation to an investigation under *section 9* or *23*, as the case may be.
+
+(11) The following shall be absolutely privileged:
+
+(*a*) documents of the Commission, and documents of its members connected with the Commission or its functions, wherever published,
+
+(*b*) reports of the Commission, wherever published,
+
+(*c*) statements made in any form at meetings or sittings of the Commission by its members F89[,advisers, agents] or officials and such statements wherever published subsequently.
+
+F90[(11A) Utterances made by a person conducting an examination pursuant to *subsection (4A)*, or an inquiry officer, for the purpose of the performance of his or her functions under this Act, shall be absolutely privileged and such utterances and documents prepared by those persons for the purposes of such performance shall be absolutely privileged wherever published subsequently.
+
+(11B) Utterances made otherwise than at meetings of a Committee or the Commission of members, advisers, officials or agents of the Committee or the Commission for the purposes of the performance of their functions under this Act or the Act of 2001 shall be absolutely privileged and those utterances and documents of such advisers, officials and agents connected with a Committee or the Commission or its functions shall be absolutely privileged wherever published subsequently.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F87: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F88: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F89: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F90: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> **Modifications (not altering text):**
+>
+> C21: Reference to perjury construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021* (13/2021), s. 4(2) and sch. 2 item 52, S.I. No. 378 of 2021.
+>
+> **References to perjury or subornation of perjury**
+>
+> **4.** ...
+>
+> (2) A reference in an enactment specified in Schedule 2 to perjury or to subornation of perjury, howsoever described, in relation to an act committed on or after the coming into operation of this subsection, shall be construed as a reference to perjury or to subornation of perjury, as the case may be, within the meaning of this Act.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> *Section 4 (2)*
+>
+> ...
+>
+> 52\. Criminal Procedure Act 2010, section 7
+>
+> ...
+>
+> C22: Application of subs. (8) restricted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 16(1), S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Admissibility of certain evidence.**
+>
+> **16.**—(1) Notwithstanding subsection (8) of section 32 of the Principal Act—
+>
+> (*a*) a person who gives evidence before a Committee or the Commission or to a person for the purposes of an examination by him or her pursuant to subsection (4A) of that section shall not be entitled to refuse to answer any question put to him or her, and
+>
+> (*b*) a person shall not be entitled to refuse to produce or send a document pursuant to a direction,
+>
+> on the ground that his or her answer or the document might incriminate him or her.
+>
+> C23: Powers in section expanded (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 18, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas.
+>
+> **Discovery of documents.**
+>
+> **18.**—(1) The chairman of a Committee may for the purposes of the functions of the Committee and the chairperson of the Commission may for the purposes of the functions of the Commission direct in writing any person to make discovery on oath of any documents that are or have been in the possession or control of the person relating to any matter relevant to the functions of the Committee or, as the case may be, the Commission and to specify in the affidavit of documents concerned any documents mentioned therein which the person objects to produce to the Committee or, as the case may be, the Commission and the grounds for the objection; and the rules of court relating to the discovery of documents in proceedings in the High Court shall apply in relation to the discovery of documents pursuant to this subsection with any necessary modifications.
+>
+> (2) Where a person, in relation to the discovery of documents pursuant to *subsection (1)*, contravenes a rule of court referred to in that subsection, the High Court may, on application to it in that behalf in a summary manner by the chairman of the Committee concerned or, as the case may be, the chairperson of the Commission, order the person to comply with the rule and make such other (if any) order as it considers necessary and just.
+>
+> **Editorial Notes:**
+>
+> E60: Sanction for non-cooperation prescribed (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 17, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 33. Independence of Commission.
+
+**33.**—The Commission and its members shall be independent in the performance of their functions under this Act F91[and the Regulation of Lobbying Act 2015].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91: Inserted (1.09.2015) by *Regulation of Lobbying Act 2015* (5/2015), s. 27(b), S.I. No. 152 of 2015.
+
+### 34. Retention of statements and matters concerning legal or medical services.
+
+**34.**—(1) A statement furnished under *section 13, 14, 16, 17, 18, 19* or *29* and a record of any information given to the Secretary to the Government pursuant to *section 15* or guidelines under that section shall be retained for a period of 15 years from the date on which it was so furnished or given and, whenever so requested by the Commission during that period, it or a copy of it shall be furnished to the Commission.
+
+(2) Notwithstanding anything in this Act a statement prepared and furnished by a person pursuant to *section 5, 13, 16, 17, 18, 19* or *29* of an interest specified in *paragraph 1 (5) (b)* of the *Second Schedule* and relating to legal services or medical services (including psychiatric or psychological services) shall specify only that legal services or medical services, as the case may be, were supplied to the person or to another person (who shall not be identified in the statement) as respects whom the first-mentioned person is required by the section to furnish a statement; and the form of the statement determined under this Act shall be such as to facilitate compliance with the foregoing provision.
+
+### 35. Prohibition of disclosure of information.
+
+**35.**—(1) A person shall not disclose information obtained by him or her under this Act F92[or the Regulation of Lobbying Act 2015] or by being present at a sitting of a Committee or Commission held in private.
+
+(2) *Subsection (1)* does not apply to—
+
+(*a*) the disclosure of information in the public interest by a Minister of the Government,
+
+(*b*) the disclosure of information contained in—
+
+(i) a statement under *section 13* or *14 (1)* or a statement under F93[*section 29(1)*] in relation to an interest specified in *section 13*,
+
+(ii) a statement under *section 17* or *18* or a statement under *section 29 (2)* in relation to an interest specified in *section 17* or *18*, or
+
+(iii) a statement under *section 19* or a statement under *section 29 (2)* in relation to an interest specified in *section 19*,
+
+by a person to whom the statement is furnished under this Act (“the first-mentioned person”) to—
+
+(I) in the case of a statement referred to in *subparagraph (i)*, such Minister of the Government,
+
+(II) in the case of a statement referred to in *subparagraph (ii)*, such directors of, or persons occupying positions of employment in, the public body concerned, and
+
+(III) in the case of a statement referred to in *subparagraph (iii)*, such persons,
+
+as the first mentioned person considers appropriate in a case where that person is of opinion that the information is such as to show that there may exist a conflict between an interest specified in the statement, or an undisclosed interest, of the person by whom the statement is furnished as aforesaid and the public interest,
+
+(*c*) the disclosure of information by a person—
+
+(i) in the performance of his or her functions, or
+
+(ii) in the public interest, to a Minister of the Government, the Secretary to the Government, a Committee, the Commission or a person standing determined for the time being under *section 18* as a relevant authority, or
+
+(iii) pursuant to an order of a court for the purpose of proceedings in that court, F94[...]
+
+(*d*) the disclosure, by or with the consent of the person to whom the information relates, of information contained in a report of a Committee under *section 10* or the Commission under *section 24* that has not been laid before either F95[House, or]
+
+F92[(*e*) the disclosure of information for inclusion in the Register of Lobbying in a report under section 25 of the Regulation of Lobbying Act 2015.]
+
+(3) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Inserted (1.09.2015) by *Regulation of Lobbying Act 2015* (5/2015), s. 27(c) and (d), S.I. No. 152 of 2015.
+>
+> F93: Substituted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+>
+> F94: Deleted (1.09.2015) by *Regulation of Lobbying Act 2015* (5/2015), s. 27(d)(i), S.I. No. 152 of 2015.
+>
+> F95: Substituted (1.09.2015) by *Regulation of Lobbying Act 2015* (5/2015), s. 27(d)(ii), S.I. No. 152 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E61: Previous affecting provision: (15.01.1997) *Ethics in Public Office (Prescribed Public Body, Designated Directorships and Designated Positions in Public Bodies) Regulations 1997* (S.I. No. 32 of 1997), reg. 6; revoked (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 28(3)(b), commenced (with restrictions) by S.I. No. 576 of 2001. Non-textual amendment in S.I. No. 32 of 1997, reg. 6 replaced as per F-note above.
+
+### 36. Obligation to comply with determinations of Committees and Commission.
+
+**36.**—Where a report of a Committee under *section 10* or a report of the Commission under *section 24* includes a determination that specified steps be taken by a person to secure compliance by the person with this Act F96[or to secure the cesser of a specified act], the person shall take those steps within the period specified therefor in the report.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F96: Inserted (10.12.2001) by *Standards in Public Office Act 2001* (31/2001), s. 13(1) and sch. 1, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 6 December 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November 2001.
+
+### 37. Provisions in relation to offences.
+
+**37.**—(1) A person guilty of an offence under this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,000 or to imprisonment for a term not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £20,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C24: Application of section extended (10.12.2001) by *Standards in Public Office Act 2001* (31/ 2001), s. 17, S.I. No. 576 of 2001 and resolutions of both Houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 06 December, 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November, 2001.
+>
+> **Obstruction.**
+>
+> **17.**—A person who by act or omission obstructs or hinders a Committee, the Commission, an inquiry officer or a person who is a member of the staff of a Committee or the Commission or is carrying out an examination pursuant to section 32(4A) of the Principal Act in the performance of the functions of the Committee, the Commission or the officer or person shall be guilty of an offence and section 37 of the Principal Act applies to such an offence as it applies to an offence under that Act.
+>
+> C25: Application of section extended (10.12.2001) by *Standards in Public Office Act 2001* (31/ 2001), s. 19(2), S.I. No. 576 of 2001 and resolutions of both houses of the Oireachtas. Resolution of Dáil Éireann: Debates Volume 546, 06 December, 2001. Resolution of Seanad Éireann: Debates Volume 168, 28 November, 2001.
+>
+> **Preservation of documents, etc.**
+>
+> **19.**—(1) A person who has in his or her possession or control a document or information in any form that he or she knows to be relevant to an investigation, or an intended investigation, of which he or she is aware, of a Committee or the Commission shall preserve the document or information until the investigation and any related proceedings are completed.
+>
+> (2) A person who contravenes *subsection (1)* shall be guilty of an offence and section 37 of the Principal Act applies to such an offence as it applies to an offence under that Act.
+>
+> **Editorial Notes:**
+>
+> E62: A fine of £1,000 converted (1.01.1999) to €1,269.73. This translates into a class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £20,000 converted (1.01.1999) to €25,394.76. This is multiplied by 1.75 to mean a fine of €44,440.83 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9(1) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 38. Amendment of Prevention of Corruption Acts, 1889 to 1916.
+
+**38.**—F97[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018.
+
+## FIRST SCHEDULE — Public Bodies
+
+1\. Each of the following shall be a public body for the purposes of this Act:
+
+(1) a Department of State (including, as respects any particular Department of State, any office or body not otherwise standing specified in or under this Schedule in relation to which functions are vested in the Minister of the Government having charge of that Department of State),
+
+(2) the Office of the President,
+
+(3) the Office of the Tánaiste,
+
+(4) the Office of the Attorney General,
+
+(5) the Office of the Comptroller and Auditor General,
+
+(6) the Office of the Ombudsman,
+
+(7) the F98[Houses of the Oireachtas Service],
+
+(8) a local authority (within the meaning of the Local Government Act, 1941),
+
+(9) a health board,
+
+(10) a body, organisation or group established—
+
+(*a*) by or under any enactment (other than the Companies Acts, 1963 to 1990), or
+
+(*b*) under the Companies Acts, 1963 to 1990, in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government,
+
+(11) a company (within the meaning of the Companies Act, 1963) a majority of the shares in which are held by or on behalf of a Minister of the Government,
+
+(12) any other body, organisation or group appointed by the Government or a Minister of the Government,
+
+(13) any other body, organisation or group financed wholly or partly out of moneys provided by the Oireachtas that stands prescribed for the time being (being a body, organisation or group that, in the opinion of the Minister, ought, in the public interest and having regard to the provisions and spirit of this Act, to be prescribed).
+
+2\. (1) In *paragraph 1* “Office”, in relation to a person, means the offices in which the administration and business relating to the functions of the person are carried on.
+
+(2) There shall be deemed to be included in *subparagraphs (8)* to *(12)* of *paragraph 1* any subsidiary (within the meaning of the Companies Act, 1963) of a public body specified in those subparagraphs.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F98: Substituted (1.01.2010) by *Houses of the Oireachtas Commission (Amendment) Act 2009* (44/2009), s. 14 and sch. item 3, commenced by s. 15(3).
+>
+> **Modifications (not altering text):**
+>
+> C26: Construction of definition amended (9.10.2001) by *Local Government Act 2001* (37/2001), s. 3(2) and sch. 2, S.I. No. 458 of 2001.
+>
+> **Construction of enactments.**
+>
+> **3.**—...
+>
+> (2) A reference in any enactment other than this Act to an expression mentioned in the first column of *Schedule 2* or to a similar or analogous expression shall, except where the context otherwise requires and subject to any regulations made under this section, be read as a reference to the appropriate expression of this Act as indicated in the second column of that Schedule opposite the expression in the first column.
+>
+> SCHEDULE 2
+>
+> <table><tr><td>...</td><td></td></tr><tr><td>“local authority for the purposes of the Local Government Act, 1941”</td><td>A county council, city council, town council, and where the context so requires includes a joint body.</td></tr><tr><td>...</td><td></td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E63: For bodies, organisations or groups prescribed under para. 1(13) see annotations to s. 3.
+
+## SECOND SCHEDULE — Registrable Interests
+
+1\. Each of the following interests shall be a registrable interest for the purposes of this Act:
+
+(1) a remunerated trade, profession, employment, vocation or other occupation of the person concerned (other than that of office holder or member or an occupation to which *Part IV* applies) at any time during the appropriate period, in relation to that person, specified in *section 5 (1)* or *20* the remuneration from which to the person concerned during that period exceeded F99[€2,600],
+
+(2) a holding by the person concerned of shares in, or bonds or debentures of, or other like investments in, a particular company or other enterprise or undertaking if the aggregate value of the holding exceeded F100[€13,000] at any time during the appropriate period aforesaid,
+
+(3) a directorship or shadow directorship of any company held by the person concerned at any time during the appropriate period aforesaid,
+
+(4) any interest in land of the person concerned, being an interest the value of which exceeded F100[€13,000] at any time during the appropriate period aforesaid, including—
+
+(*a*) the interest of the person in any contract entered into by him or her for the purchase of land, whether or not a deposit or part payment has been made under the contract, and
+
+(*b*) the interest of the person in—
+
+(i) any option held by him or her to purchase land, whether or not any consideration has been paid in respect thereof, or
+
+(ii) land in respect of which such an option has been exercised by the person but which has not yet been conveyed to the person,
+
+but excluding any interest in land consisting of any F101[private home of the person or of his or her spouse or civil partner,] that is to say, a building or part of a building that is occupied by the person or his or her spouse or a child of the person or of the spouse as a separate dwelling and any garden or other land usually occupied with the dwelling, being land that is subsidiary or ancillary to it, is required for its amenity or convenience and is not being used or developed primarily for commercial purposes,
+
+(5) (*a*) a gift given to the person concerned during the appropriate period aforesaid, but excluding—
+
+(i) a gift given to the person by a F101[relative or civil partner or friend of the person or of his or her spouse or civil partner] or of a child of the person or his or her spouse for purely personal reasons only, unless the acceptance of the gift by the person could have materially influenced him or her in the performance of his or her functions as a member, office holder, Attorney General, holder of a designated directorship, occupier of a designated position or special adviser, and
+
+(ii) a gift given to the person, or gifts given to the person by the same person, during the period aforesaid, as respects which the value, or the aggregate value, of the property the subject of the gift or gifts did not exceed F102[€650] at any time during the period aforesaid,
+
+(*b*) (i) property supplied or lent or a service supplied to the person, once or more than once by the same person during the period aforesaid, for a consideration or considerations or at a price or prices less than the commercial consideration or considerations or the commercial price or prices by more than F102[€650], and
+
+(ii) property lent or a service supplied to the person, once or more than once by the same person during the period aforesaid, free of charge if the commercial consideration or considerations or the commercial price or prices was or were more than F102[€650],
+
+other than property supplied or lent or a service supplied to a person by a F101[relative or civil partner or friend of the person or of his or her spouse or civil partner] or of a child of the person or of his or her spouse where such supply or loan was in the nature of a gift to the person and for personal reasons only unless the acceptance of the property or loan or the service by the person could have materially influenced him or her in the performance of his or her functions as a member, office holder, Attorney General, holder of a designated directorship, occupier of a designated position, or special adviser,
+
+(6) travel facilities, living accommodation, meals or entertainment supplied during the appropriate period aforesaid to the person concerned free of charge or at a price that was less than the commercial price or prices, but excluding—
+
+(*a*) travel facilities, living accommodation, meals or entertainment provided—
+
+(i) within the State, or
+
+(ii) in the course and for the purpose of—
+
+(I) the performance of the functions of the person as a member, office holder, holder of a designated directorship, occupier of a designated position or special adviser, or
+
+(II) the trade, profession, employment, vocation or other occupation (other than an occupation specified in *subclause (I)*) of the person,
+
+or
+
+(iii) in the case of a member, by the Inter Parliamentary Union (or such other (if any) similar bodies as may be specified by the Committee in guidelines published by it under *section 12*) or any organisation of states or governments of which the State or the Government is a member or a body of or associated with any such body or organisation,
+
+(*b*) travel facilities, living accommodation, meals or entertainment supplied to the person by a F101[relative or civil partner or friend of the person or of his or her spouse or civil partner] or of a child of the person or his or her spouse where such supply was in the nature of a gift given to the person for personal reasons only, unless the acceptance by the person of such facilities, accommodation, meals or entertainment might reasonably be seen to have been capable of influencing him or her in the performance of his or her functions as a member, office holder, Attorney General, holder of a designated directorship, occupier of a designated position or special adviser,
+
+(*c*) travel facilities, living accommodation, meals or entertainment supplied to the person, once or more than once by the same person during the period aforesaid, free of charge if the commercial price, or the aggregate of the commercial prices, of the facilities, accommodation, meals or entertainment did not exceed F102[€650], or
+
+(*d*) travel facilities, living accommodation, meals or entertainment supplied to the person, once or more than once by the same person during the period aforesaid, at a price or prices less than the commercial price or prices by not more than F102[€650],
+
+(7) a remunerated position held by the person concerned as a political or public affairs lobbyist, consultant or adviser during the appropriate period aforesaid,
+
+(8) any contract to which the person concerned was a party or was in any other way, directly or indirectly, interested for the supply of goods or services to a Minister of the Government or a public body during the appropriate period aforesaid if the value of the goods or services supplied during the period aforesaid exceeded F103[€6,500] or, in case other goods or services were supplied under such a contract as aforesaid to a Minister of the Government or a public body during the period aforesaid, if the aggregate of their value and the value aforesaid exceeded F103[€6,500].
+
+2\. (1) In *paragraph 1 (2)*, “holding” does not include money in a current, deposit or other similar account with a financial institution.
+
+(2) In *paragraph 1 (3)*, “shadow directorship” means the position held by a person who is a shadow director within the meaning of the Companies Acts, 1963 to 1990, or, in the case of a public body that is not a company (within the meaning of the Companies Act, 1963) and is specified in *subparagraph (8), (9), (10), (11)* or *(12)*, or stands prescribed for the purposes of *subparagraph (13)*, of *paragraph 1* of the *First Schedule*, the position held by a person in accordance with whose instructions or directions the members of the body or the members of the board or other body that controls, manages or administers that body are accustomed to act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 1(3) and (4) and sch. 3 and 4, commenced on enactment.
+>
+> F100: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 1(3) and (4) and sch. 3 and 4, commenced on enactment.
+>
+> F101: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, item 22, S.I. No. 648 of 2010.
+>
+> F102: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 1(3) and (4) and sch. 3 and 4, commenced on enactment.
+>
+> F103: Substituted (1.01.2002) by *Euro Changeover (Amounts) Act 2001* (16/2001), s. 1(3) and (4) and sch. 3 and 4, commenced on enactment.

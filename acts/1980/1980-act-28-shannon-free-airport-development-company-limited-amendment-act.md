@@ -1,0 +1,44 @@
+---
+title: "Shannon Free Airport Development Company Limited (Amendment) Act, 1980"
+identifier: "eli/1980/act/28"
+type: act
+jurisdiction: ie
+language: en
+number: 28
+year: 1980
+date: 1980-10-29
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1980/act/28/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Shannon Free Airport Development Company Limited (Amendment) Act, 1980
+
+AN ACT TO AMEND AND EXTEND THE SHANNON FREE AIRPORT DEVELOPMENT COMPANY LIMITED ACTS, 1959 TO 1978. [29*th October*, 1980]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation.
+
+**1.**—In this Act—
+
+“the Act of 1978” means the Shannon Free Airport Development Company Limited (Amendment) Act, 1978;
+
+“the Company” means the Shannon Free Airport Development Company Limited;
+
+“the Principal Act” means the Shannon Free Airport Development Company Limited Act, 1959.
+
+## 2. Amendment of section 2 of Principal Act.
+
+**2.**—So much of section 2 of the Principal Act (as amended by section 2 of the Act of 1978) as provides that the aggregate of the amounts which the Minister for Finance may subscribe under that section in taking up shares of the Company shall not exceed £45,000,000 is hereby repealed and, in lieu thereof, it is hereby enacted that the aggregate of the amounts so subscribed shall not exceed £80,000,000.
+
+## 3. Amendment of section 8 of Principal Act and section 2 of Shannon Free Airport Development Company Limited (Amendment) Act, 1970.
+
+**3.**—Section 3 of the Act of 1978 is hereby repealed and, in lieu thereof, it is hereby enacted that the aggregate amount of grants to be made to the Company under section 8 of the Principal Act and section 2 of the Shannon Free Airport Development Company Limited (Amendment) Act, 1970, shall not exceed £40,000,000.
+
+## 4. Short title and collective citation.
+
+**4.**—(1) This Act may be cited as the Shannon Free Airport Development Company Limited (Amendment) Act, 1980.
+
+(2) The Shannon Free Airport Development Company Limited Acts, 1959 to 1978, and this Act may be cited together as the Shannon Free Airport Development Company Limited Acts, 1959 to 1980.
