@@ -34,7 +34,7 @@ def main():
     ylo = min(years["acts"]) if years["acts"] else 1922
     yhi = max(years["acts"]) if years["acts"] else dt.date.today().year
     today = dt.date.today().isoformat()
-    miss_lines = "\n".join(f"- {m['missing']}" for m in missing) or "- none"
+    miss_lines = "\n".join(f"  - {m['missing']} (listed on the year page, but the page returns 404)" for m in missing) or "  - none"
 
     text = f"""# LawCodex — Ireland (`ie`)
 

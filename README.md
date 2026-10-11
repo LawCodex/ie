@@ -78,7 +78,7 @@ become Markdown tables when simple, otherwise HTML. Articles of the Constitution
   Acts 1801–1922, and pre-1922 statutes repealed by the Statute Law Revision Acts.
 - Bills, Oireachtas debates, EU law.
 - Texts listed on the eISB but not retrievable at generation time:
-- https://www.irishstatutebook.ie/eli/1833/act/49/enacted/en/html
+  - https://www.irishstatutebook.ie/eli/1833/act/49/enacted/en/html (listed on the year page, but the page returns 404)
 
 ## Sources
 
